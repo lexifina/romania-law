@@ -482,6 +482,26 @@
 "flags": {
 "end_of_validity": "2027-08-06"
 }
+},
+{
+"slug": "ue-regulament-1030-2002",
+"path": "ue/regulament/2002/1030",
+"kind": "ue",
+"year": "2002",
+"number": "1030",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1030/2002 al Consiliului din 13 iunie 2002 de instituire a unui model uniform de permis de ședere pentru resortisanții țărilor terțe",
+"short": "Regulamentul (CE) nr. 1030/2002",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2002-06-15",
+"latest": "2002-06-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1030",
+"flags": {
+"figures_missing": 3
+}
 }
 ]
 }

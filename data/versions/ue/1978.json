@@ -3,6 +3,21 @@
  "shard": "ue/1978",
  "acts": [
   {
+   "slug": "ue-directiva-1020-1978",
+   "path": "ue/directiva/1978/1020",
+   "short": "Directiva 78/1020/CEE",
+   "title": "Directiva Consiliului din 5 decembrie 1978 de modificare a Directivelor 66/401/CEE, 66/402/CEE și 69/208/CEE privind comercializarea semințelor de plante furajere, a semințelor de cereale și a semințelor de plante oleaginoase și pentru fibră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L1020",
+   "versions": [
+    {
+     "from": "1978-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cec61ead-e3dc-41ad-9a8a-89fb1a178000.0022.04/DOC_9",
+     "sha256": "523c8e9fa44aed67e28b8c2d3c451dd1e65ae3358562cc63da5bf4201a75e676"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-142-1978",
    "path": "ue/directiva/1978/142",
    "short": "Directiva 78/142/CEE",
@@ -14,6 +29,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5c40846b-2c3f-4e2f-92dc-aad009feb888.0022.03/DOC_3",
      "sha256": "1b11832622da5f7ef50bb726fbd7426da7615fc432eb6e7b0e21e681d00c5180"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-386-1978",
+   "path": "ue/directiva/1978/386",
+   "short": "Directiva 78/386/CEE",
+   "title": "Prima Directivă a Comisiei din 18 aprilie 1978 de modificare a anexelor Directivei 66/401/CEE privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0386",
+   "versions": [
+    {
+     "from": "1978-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c392b202-e9bf-4624-9869-c3edfa16d1f1.0022.04/DOC_5",
+     "sha256": "d4f7d6899ce4a9cda5618e18bed601687aa5120b4a1402191f4c5f8b35c15bc2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-387-1978",
+   "path": "ue/directiva/1978/387",
+   "short": "Directiva CELEX 31978L0387",
+   "title": "Prima Directivă 78/387/CEE a Comisiei din 18 aprilie 1978 de modificare a anexelor Directivei 66/402/CEE privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0387",
+   "versions": [
+    {
+     "from": "1978-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfb90872-4b2b-4034-8ada-314c64cb2096.0022.04/DOC_6",
+     "sha256": "eff4d9f091d822d814a71af0141af821ae28a622c977328ad57ca6122c34ea92"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-1978",
+   "path": "ue/directiva/1978/55",
+   "short": "Directiva 78/55/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1977 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 68/193/CEE, 69/208/CEE, 70/458/CEE și 70/457/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a materialelor de înmulțire vegetativă a viței-de-vie, a semințelor de plante oleaginoase și textile, a semințelor de legume și catalogul comun al soiurilor agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0055",
+   "versions": [
+    {
+     "from": "1977-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50afced7-a60e-459f-962e-9cbbcce99ab3.0022.03/DOC_6",
+     "sha256": "1829d304ea9a0f85bf685e37af801a4a955533ae2ec0be9c91c8e6ee7020882c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-692-1978",
+   "path": "ue/directiva/1978/692",
+   "short": "Directiva 78/692/CEE",
+   "title": "Directiva Consiliului din 25 iulie 1978 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 68/193/CEE, 69/208/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a materialelor de înmulțire vegetativă a viței-de-vie, a semințelor de plante oleaginoase și pentru fibră și a semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0692",
+   "versions": [
+    {
+     "from": "1978-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b506d556-242e-45f8-b85a-e3fae74f7674.0022.04/DOC_14",
+     "sha256": "276bb34a18f2bd0cace9f532ef87173b6036804dc1029742c3e424e44a3e7cf7"
     }
    ]
   }

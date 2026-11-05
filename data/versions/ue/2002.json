@@ -406,6 +406,21 @@
      "sha256": "89ddc1b7c23d1a87760e06ddb4f31b47699a7d430b6cd8d0bd785b5c9876e7e0"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1030-2002",
+   "path": "ue/regulament/2002/1030",
+   "short": "Regulamentul (CE) nr. 1030/2002",
+   "title": "Regulamentul (CE) nr. 1030/2002 al Consiliului din 13 iunie 2002 de instituire a unui model uniform de permis de ședere pentru resortisanții țărilor terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1030",
+   "versions": [
+    {
+     "from": "2002-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/feb8ca09-cd99-4658-aefa-c95d25a8f057.0022.04/DOC_1",
+     "sha256": "739d7f900cbddd896be22ed33f345bbd3498f3e2fe3aba72a1d9a7c249d11c18"
+    }
+   ]
   }
  ]
 }

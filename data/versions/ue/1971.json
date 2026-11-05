@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1971",
+ "acts": [
+  {
+   "slug": "ue-directiva-140-1971",
+   "path": "ue/directiva/1971/140",
+   "short": "Directiva 71/140/CEE",
+   "title": "Directiva Consiliului din 22 martie 1971 de modificare a Directivei din 9 aprilie 1968 privind comercializarea materialului de înmulțire vegetativă a viței de vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971L0140",
+   "versions": [
+    {
+     "from": "1971-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4100178a-846e-432d-b8d4-6400f9fc6465.0022.03/DOC_18",
+     "sha256": "e0f7c01fd81d6ae4d67c3383fdb206ef5371c2b6e82ce7eeb08ad73dff722bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-162-1971",
+   "path": "ue/directiva/1971/162",
+   "short": "Directiva 71/162/CEE",
+   "title": "DIRECTIVA CONSILIULUI din 30 martie 1971 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivei din 29 septembrie 1970 privind comercializarea semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971L0162",
+   "versions": [
+    {
+     "from": "1971-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bca01e38-d764-4f2d-b96b-4962979326dd.0021.04/DOC_16",
+     "sha256": "93de938559c648372dc99457145a9400795425d1f1e9f14b884550631b3ef59c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-86-1971",
+   "path": "ue/directiva/1971/86",
+   "short": "Directiva 71/86/CEE",
+   "title": "Directiva Consiliului din 1 februarie 1971 privind armonizarea dispozițiilor esențiale în materie de garanție a operațiunilor pe termen scurt (risc politic) pentru cumpărătorii publici și privați",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971L0086",
+   "versions": [
+    {
+     "from": "1971-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a82fea91-74c7-4a6b-9b33-3135073f0d65.0022.04/DOC_1",
+     "sha256": "881c0f73d142ddeb7db9e4dfe5480dcf40fb5f07931161c9a995d38aa8be1862"
+    }
+   ]
+  }
+ ]
+}

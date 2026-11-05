@@ -800,6 +800,88 @@
 "from": "2009-01-08",
 "latest": "2009-01-08",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0124"
+},
+{
+"slug": "ue-regulament-555-2008",
+"path": "ue/regulament/2008/555",
+"kind": "ue",
+"year": "2008",
+"number": "555",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 555/2008 al Comisiei din 27 iunie 2008 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 479/2008 al Consiliului privind organizarea comună a pieței vitivinicole în ceea ce privește programele de sprijin, comerțul cu țările terțe, potențialul de producție și privind controalele în sectorul vitivinicol",
+"short": "Regulamentul (CE) nr. 555/2008",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2008-06-30",
+"latest": "2008-06-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0555",
+"flags": {
+"figures_missing": 4
+}
+},
+{
+"slug": "ue-regulament-889-2008",
+"path": "ue/regulament/2008/889",
+"kind": "ue",
+"year": "2008",
+"number": "889",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 889/2008 al Comisiei din 5 septembrie 2008 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 834/2007 al Consiliului privind producția ecologică și etichetarea produselor ecologice în ceea ce privește producția ecologică, etichetarea și controlul",
+"short": "Regulamentul (CE) nr. 889/2008",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2008-09-25",
+"latest": "2008-09-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0889",
+"flags": {
+"figures_missing": 51,
+"end_of_validity": "2021-12-31"
+}
+},
+{
+"slug": "ue-regulament-1137-2008",
+"path": "ue/regulament/2008/1137",
+"kind": "ue",
+"year": "2008",
+"number": "1137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1137/2008 al Parlamentului European și al Consiliului din 22 octombrie 2008 de adaptare la Decizia 1999/468/CE a Consiliului a anumitor acte care fac obiectul procedurii prevăzute la articolul 251 din tratat, în ceea ce privește procedura de reglementare cu control – Adaptare la procedura de reglementare cu control – Partea întâi",
+"short": "Regulamentul (CE) nr. 1137/2008",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2008-12-11",
+"latest": "2008-12-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1137",
+"flags": {
+"end_of_validity": "2009-05-31"
+}
+},
+{
+"slug": "ue-regulament-1272-2008",
+"path": "ue/regulament/2008/1272",
+"kind": "ue",
+"year": "2008",
+"number": "1272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, de modificare și de abrogare a Directivelor 67/548/CEE și 1999/45/CE, precum și de modificare a Regulamentului (CE) nr. 1907/2006 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (CE) nr. 1272/2008",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2009-01-20",
+"latest": "2009-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1272",
+"flags": {
+"figures_missing": 95,
+"end_of_validity": "2015-05-31"
+}
 }
 ]
 }

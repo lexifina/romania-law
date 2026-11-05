@@ -933,6 +933,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-165-2014",
+   "path": "ue/regulament/2014/165",
+   "short": "Regulamentul (UE) nr. 165/2014",
+   "title": "Regulamentul (UE) nr. 165/2014 al Parlamentului European și al Consiliului din 4 februarie 2014 privind tahografele în transportul rutier, de abrogare a Regulamentului (CEE) nr. 3821/85 al Consiliului privind aparatura de înregistrare în transportul rutier și de modificare a Regulamentului (CE) nr. 561/2006 al Parlamentului European și al Consiliului privind armonizarea anumitor dispoziții ale legislației sociale în domeniul transporturilor rutiere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0165",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe086399-a04f-11e3-8b87-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a3d032b1b8d2c7fe797ba45c35575dd47a5140f5fab187f145543749bd9916fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-223-2014",
+   "path": "ue/regulament/2014/223",
+   "short": "Regulamentul (UE) nr. 223/2014",
+   "title": "Regulamentul (UE) nr. 223/2014 al Parlamentului European și al Consiliului din 11 martie 2014 privind Fondul de ajutor european destinat celor mai defavorizate persoane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0223",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a1ccbf9-a9bb-11e3-86f9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "48db795499877d7819500c22ff8c0736877f694e1a303f3972e45d714b1d5cfd"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-269-2014",
    "path": "ue/regulament/2014/269",
    "short": "Regulamentul (UE) nr. 269/2014",
@@ -944,6 +974,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4295095e-ae10-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "fe33dabad131618807a5434d513c20325f6accbd95ec393108177c132808d5cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-334-2014",
+   "path": "ue/regulament/2014/334",
+   "short": "Regulamentul (UE) nr. 334/2014",
+   "title": "Regulamentul (UE) nr. 334/2014 al Parlamentului European și al Consiliului din 11 martie 2014 de modificare a Regulamentului (UE) nr. 528/2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide, în ceea ce privește anumite condiții de acces pe piață Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0334",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/827eccc2-bc8f-11e3-86f9-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "60e2bfcc41851f825e65a6f36b1c48e72c9625209cfde3168f759a71bb1ae8c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-536-2014",
+   "path": "ue/regulament/2014/536",
+   "short": "Regulamentul (UE) nr. 536/2014",
+   "title": "Regulamentul (UE) nr. 536/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 privind studiile clinice intervenționale cu medicamente de uz uman și de abrogare a Directivei 2001/20/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0536",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7137f5b-e655-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3e3332828c59c3744fc5637b4eb3545a5f45448cf2befd0d1bfa0d2b376a76e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-910-2014",
+   "path": "ue/regulament/2014/910",
+   "short": "Regulamentul (UE) nr. 910/2014",
+   "title": "Regulamentul (UE) nr. 910/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind identificarea electronică și serviciile de încredere pentru tranzacțiile electronice pe piața internă și de abrogare a Directivei 1999/93/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0910",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "06ad55cfc1e65fa6442da62c704730ce4431026f94869bd0b89756e8aa842fa0"
     }
    ]
   }

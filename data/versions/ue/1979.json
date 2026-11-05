@@ -3,6 +3,51 @@
  "shard": "ue/1979",
  "acts": [
   {
+   "slug": "ue-directiva-1067-1979",
+   "path": "ue/directiva/1979/1067",
+   "short": "Directiva 79/1067/CEE",
+   "title": "Prima Directivă a Comisiei din 13 noiembrie 1979 de stabilire a metodelor comunitare de analiză pentru testarea anumitor tipuri de lapte conservat, parțial sau total deshidratat, pentru consumul uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L1067",
+   "versions": [
+    {
+     "from": "1979-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/335a2c44-470d-43f3-977e-93d951217dc1.0022.03/DOC_1",
+     "sha256": "3bae5caaa177f98782d3c56190842b3a926719cfcc40fe9773e86933f79b9305"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-641-1979",
+   "path": "ue/directiva/1979/641",
+   "short": "Directiva 79/641/CEE",
+   "title": "Directiva Comisiei din 27 iunie 1979 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 69/208/CEE și 70/458/CEE ale Consiliului privind comercializarea semințelor de plante furajere, a semințelor de cereale, a semințelor de plante oleaginoase și textile și a semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0641",
+   "versions": [
+    {
+     "from": "1979-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a8d5e02-d699-4205-b036-6dd505b4dca0.0022.03/DOC_11",
+     "sha256": "3a6b1f6745b34fb81067e79b1d645c8bac702a9ad1fada81cd69e3c9157eaa87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-692-1979",
+   "path": "ue/directiva/1979/692",
+   "short": "Directiva 79/692/CEE",
+   "title": "Directiva Consiliului din 24 iulie 1979 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 70/458/CEE și 70/457/CEE privind comercializarea semințelor de plante furajere, a semințelor de cereale, a semințelor de legume și de modificare a catalogului comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0692",
+   "versions": [
+    {
+     "from": "1979-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04d98df2-6e44-4778-ad60-6eec73c2c0da.0017.02/DOC_18",
+     "sha256": "60cd330bba52d75b151acda6334dd0d334d5b10884f0bf56b1cfaaa843e8102b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-7-1979",
    "path": "ue/directiva/1979/7",
    "short": "Directiva 79/7/CEE",
@@ -14,6 +59,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e132bd67-2824-47d2-b982-18dd420cbdd4.0022.03/DOC_1",
      "sha256": "408ab0a6e10ea6f6cb1c5b4d701ba97933b2a74b46daecfd437b56bd6fe92612"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-796-1979",
+   "path": "ue/directiva/1979/796",
+   "short": "Directiva 79/796/CEE",
+   "title": "Prima Directivă a Comisiei din 26 iulie 1979 de stabilire a metodelor comunitare de analiză pentru testarea anumitor zaharuri destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0796",
+   "versions": [
+    {
+     "from": "1979-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/770accb3-ddd3-4619-aaad-7dc623521054.0022.03/DOC_46",
+     "sha256": "cbfc2ceb5368214100e79c5a214e0c2db799754ff7e2278934fe0e0a72ba5e24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-802-1979",
+   "path": "ue/directiva/1979/802",
+   "short": "Directiva 79/802/CEE",
+   "title": "Directiva Comisiei din 6 septembrie 1979 privind mărfurile plasate sub regimul de perfecționare activă și care ar beneficia, în caz de import pentru punerea în liberă circulație, de un regim tarifar favorabil datorită destinației speciale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0802",
+   "versions": [
+    {
+     "from": "1979-09-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9112069d-59cf-49de-baf8-530537468296.0020.03/DOC_2",
+     "sha256": "2a9c25ec0de8d4fd3a421dc2ef54b939d56f8bd2ac2b7e748623d43f9b9bfdb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-1979",
+   "path": "ue/directiva/1979/9",
+   "short": "Directiva 79/9/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1978 de modificare a Directivei 77/391/CEE de instituire a unei acțiuni a Comunității în vederea eradicării brucelozei, tuberculozei și leucozei la bovine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0009",
+   "versions": [
+    {
+     "from": "1978-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c709082-935a-495c-9ffc-225b64e1a6dd.0020.03/DOC_13",
+     "sha256": "2b6204b2a593ae3b160bac57e244d69a92c0e0a0251f6ac29d5c5d644cbd57a8"
     }
    ]
   }

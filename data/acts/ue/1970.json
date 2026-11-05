@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "ue/1970",
+"acts": [
+{
+"slug": "ue-directiva-50-1970",
+"path": "ue/directiva/1970/50",
+"kind": "ue",
+"year": "1970",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 22 decembrie 1969 în temeiul articolului 33 alineatul (7) privind eliminarea măsurilor cu efect echivalent cu cel al restricțiilor cantitative la import care nu sunt reglementate de alte dispoziții adoptate în temeiul Tratatului CEE",
+"short": "Directiva 70/50/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1969-12-22",
+"latest": "1969-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970L0050"
+},
+{
+"slug": "ue-directiva-157-1970",
+"path": "ue/directiva/1970/157",
+"kind": "ue",
+"year": "1970",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 6 februarie 1970 privind apropierea legislațiilor statelor membre referitoare la nivelul de zgomot admis și la sistemul de evacuare al autovehiculelor",
+"short": "Directiva 70/157/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1970-02-10",
+"latest": "1970-02-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970L0157",
+"flags": {
+"figures_missing": 2,
+"end_of_validity": "2027-06-30"
+}
+}
+]
+}

@@ -691,6 +691,96 @@
      "sha256": "46ba8568c8405d33110dcfa9146f63ec12e96b938bab6b78951cfceb530175e0"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1021-2019",
+   "path": "ue/regulament/2019/1021",
+   "short": "Regulamentul (UE) 2019/1021",
+   "title": "Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului din 20 iunie 2019 privind poluanții organici persistenți (reformare) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1021",
+   "versions": [
+    {
+     "from": "2019-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8fff4c0-9712-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2593848ef6d5c13caf7f4d311d8366bbbe3e0f98142da62b127dffe0b22fe875"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1148-2019",
+   "path": "ue/regulament/2019/1148",
+   "short": "Regulamentul (UE) 2019/1148",
+   "title": "Regulamentul (UE) 2019/1148 al Parlamentului European și al Consiliului din 20 iunie 2019 privind comercializarea și utilizarea precursorilor de explozivi, de modificare a Regulamentului (CE) nr. 1907/2006 și de abrogare a Regulamentului (UE) nr. 98/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1148",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49d1a404-a3b3-11e9-9d01-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b9f5f33a2da6d5f0fe0105d63d63f53c91abc9d0537fcbb6de62c1c605eac6d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1381-2019",
+   "path": "ue/regulament/2019/1381",
+   "short": "Regulamentul (UE) 2019/1381",
+   "title": "Regulamentul (UE) 2019/1381 al Parlamentului European și al Consiliului din 20 iunie 2019 privind transparența și durabilitatea modelului UE de evaluare a riscurilor în cadrul lanțului alimentar și de modificare a Regulamentelor (CE) nr. 178/2002, (CE) nr. 1829/2003, (CE) nr. 1831/2003, (CE) nr. 2065/2003, (CE) nr. 1935/2004, (CE) nr. 1331/2008, (CE) nr. 1107/2009, (UE) 2015/2283 și a Directivei 2001/18/CE (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1381",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6394e44-d05f-11e9-b4bf-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3b19ece9f2305da26f7e4422a481ef994b3ccc8b1049f6e04a058e0483f37a19"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-452-2019",
+   "path": "ue/regulament/2019/452",
+   "short": "Regulamentul (UE) 2019/452",
+   "title": "Regulamentul (UE) 2019/452 al Parlamentului European și al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investițiilor străine directe în Uniune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0452",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/956a80ac-4ba6-11e9-a8ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8a95b0e877535de19f349ea3424102d386dec9d9764f1c76825c3cd46b99b35f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-515-2019",
+   "path": "ue/regulament/2019/515",
+   "short": "Regulamentul (UE) 2019/515",
+   "title": "Regulamentul (UE) 2019/515 al Parlamentului European și al Consiliului din 19 martie 2019 privind recunoașterea reciprocă a mărfurilor comercializate în mod legal în alt stat membru și de abrogare a Regulamentului (CE) nr. 764/2008 (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0515",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b63a45bf-51ea-11e9-a8ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "340aa37ee6cca3386a585e5f76c54e149d5033f322b45b53fb90e30c1d6555e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-788-2019",
+   "path": "ue/regulament/2019/788",
+   "short": "Regulamentul (UE) 2019/788",
+   "title": "Regulamentul (UE) 2019/788 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind inițiativa cetățenească europeană (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0788",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10ad1eb7-786d-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "74738c1fd16ec64d288a140dd13d91b2e0781e93ae0ad6bbfaf33e295fed53b7"
+    }
+   ]
   }
  ]
 }

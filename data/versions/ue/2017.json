@@ -391,6 +391,51 @@
      "sha256": "16099605879de1e45c9e721d51daf1e36fa33d12ebcbcec1c8e61230fa4a61ce"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-2394-2017",
+   "path": "ue/regulament/2017/2394",
+   "short": "Regulamentul (UE) 2017/2394",
+   "title": "Regulamentul (UE) 2017/2394 al Parlamentului European și al Consiliului din 12 decembrie 2017 privind cooperarea dintre autoritățile naționale însărcinate să asigure respectarea legislației în materie de protecție a consumatorului și de abrogare a Regulamentului (CE) nr. 2006/2004 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017R2394",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/016d3a4e-eac2-11e7-9749-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "48c5c6f13964499aca49ea565ea7947829113e3a56dcfcc3d52110dc088a0199"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-745-2017",
+   "path": "ue/regulament/2017/745",
+   "short": "Regulamentul (UE) 2017/745",
+   "title": "Regulamentul (UE) 2017/745 al Parlamentului European și al Consiliului din 5 aprilie 2017 privind dispozitivele medicale, de modificare a Directivei 2001/83/CE, a Regulamentului (CE) nr. 178/2002 și a Regulamentului (CE) nr. 1223/2009 și de abrogare a Directivelor 90/385/CEE și 93/42/CEE ale Consiliului (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017R0745",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/83bdc18f-315d-11e7-9412-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "77cd54c9647b2a41bb46c2f2ac20b37361fdd4420c89ae4797be370653e0aeca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-997-2017",
+   "path": "ue/regulament/2017/997",
+   "short": "Regulamentul (UE) 2017/997",
+   "title": "Regulamentul (UE) 2017/997 al Consiliului din 8 iunie 2017 de modificare a anexei III la Directiva 2008/98/CE a Parlamentului European și a Consiliului în ceea ce privește proprietatea periculoasă HP 14 „Ecotoxice” (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017R0997",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01d916d0-508b-11e7-a5ca-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f7ae91a2ea9a196655b95e1d8280d5204e97c20e56f1a3b0bf875c670ae43848"
+    }
+   ]
   }
  ]
 }

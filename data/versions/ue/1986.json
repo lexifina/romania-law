@@ -3,6 +3,21 @@
  "shard": "ue/1986",
  "acts": [
   {
+   "slug": "ue-directiva-155-1986",
+   "path": "ue/directiva/1986/155",
+   "short": "Directiva 86/155/CEE",
+   "title": "Directiva Consiliului din 22 aprilie 1986 de modificare, cu ocazia aderării Spaniei și Portugaliei, a unor directive privind comercializarea plantelor și semințelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0155",
+   "versions": [
+    {
+     "from": "1986-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f14aee6-d480-4e77-8a77-4da20964dce7.0022.04/DOC_15",
+     "sha256": "99c1b64865f5deea2722b26867ee60ffaf8d1e2110cb30f10070a2d91a549b94"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-278-1986",
    "path": "ue/directiva/1986/278",
    "short": "Directiva 86/278/CEE",
@@ -18,6 +33,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-320-1986",
+   "path": "ue/directiva/1986/320",
+   "short": "Directiva 86/320/CEE",
+   "title": "Directiva Comisiei din 20 iunie 1986 de modificare a Directivei 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0320",
+   "versions": [
+    {
+     "from": "1986-06-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84f5ead9-eb22-4d74-9198-9c426a254975.0022.03/DOC_1",
+     "sha256": "98514fad5122aadb30019014bcf6bfc855884889cb65d713f6526c2ff53e5de2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-424-1986",
+   "path": "ue/directiva/1986/424",
+   "short": "Directiva 86/424/CEE",
+   "title": "Prima Directivă a Comisiei din 15 iulie 1986 de stabilire a metodelor de prelevare a probelor în vederea analizei chimice a cazeinelor și cazeinaților alimentari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0424",
+   "versions": [
+    {
+     "from": "1986-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b207094-cee9-401d-bccf-f4a261a5ab85.0022.03/DOC_92",
+     "sha256": "7e0d538916408fca4248298d4a0e5d7d62a5f708496bf08cd1378fc18d566b8d"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-560-1986",
    "path": "ue/directiva/1986/560",
    "short": "Directiva 86/560/CEE",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fa9c7bd0-8c26-4d94-9826-e66a82fe1ad0.0022.04/DOC_1",
      "sha256": "e3e82f159e764c1d1f166e648b7431f62a4c62abf92027067a19f334e96a22b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-635-1986",
+   "path": "ue/directiva/1986/635",
+   "short": "Directiva 86/635/CEE",
+   "title": "Directiva Consiliului din 8 decembrie 1986 privind conturile anuale și conturile consolidate ale băncilor și ale altor instituții financiare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0635",
+   "versions": [
+    {
+     "from": "1986-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c369af21-66bb-4af0-9a81-ffc99e4052fb.0022.03/DOC_1",
+     "sha256": "e4db09e47ae2ec9e9d5b878b06e2ed4da353a345bf69920f2887bbe2c21e6b57"
     }
    ]
   },

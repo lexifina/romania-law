@@ -3,6 +3,26 @@
 "shard": "ue/1978",
 "acts": [
 {
+"slug": "ue-directiva-55-1978",
+"path": "ue/directiva/1978/55",
+"kind": "ue",
+"year": "1978",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 decembrie 1977 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 68/193/CEE, 69/208/CEE, 70/458/CEE și 70/457/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a materialelor de înmulțire vegetativă a viței-de-vie, a semințelor de plante oleaginoase și textile, a semințelor de legume și catalogul comun al soiurilor agricole",
+"short": "Directiva 78/55/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1977-12-29",
+"latest": "1977-12-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0055",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
 "slug": "ue-directiva-142-1978",
 "path": "ue/directiva/1978/142",
 "kind": "ue",
@@ -18,6 +38,80 @@
 "from": "1978-02-01",
 "latest": "1978-02-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0142"
+},
+{
+"slug": "ue-directiva-386-1978",
+"path": "ue/directiva/1978/386",
+"kind": "ue",
+"year": "1978",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 18 aprilie 1978 de modificare a anexelor Directivei 66/401/CEE privind comercializarea semințelor de plante furajere",
+"short": "Directiva 78/386/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-04-21",
+"latest": "1978-04-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0386"
+},
+{
+"slug": "ue-directiva-387-1978",
+"path": "ue/directiva/1978/387",
+"kind": "ue",
+"year": "1978",
+"number": "387",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă 78/387/CEE a Comisiei din 18 aprilie 1978 de modificare a anexelor Directivei 66/402/CEE privind comercializarea semințelor de cereale",
+"short": "Directiva CELEX 31978L0387",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-04-21",
+"latest": "1978-04-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0387"
+},
+{
+"slug": "ue-directiva-692-1978",
+"path": "ue/directiva/1978/692",
+"kind": "ue",
+"year": "1978",
+"number": "692",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 25 iulie 1978 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 68/193/CEE, 69/208/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a materialelor de înmulțire vegetativă a viței-de-vie, a semințelor de plante oleaginoase și pentru fibră și a semințelor de legume",
+"short": "Directiva 78/692/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-07-31",
+"latest": "1978-07-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0692",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-1020-1978",
+"path": "ue/directiva/1978/1020",
+"kind": "ue",
+"year": "1978",
+"number": "1020",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 5 decembrie 1978 de modificare a Directivelor 66/401/CEE, 66/402/CEE și 69/208/CEE privind comercializarea semințelor de plante furajere, a semințelor de cereale și a semințelor de plante oleaginoase și pentru fibră",
+"short": "Directiva 78/1020/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-12-07",
+"latest": "1978-12-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L1020",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
 }
 ]
 }

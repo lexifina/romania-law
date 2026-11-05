@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "ue/1968",
+"acts": [
+{
+"slug": "ue-directiva-193-1968",
+"path": "ue/directiva/1968/193",
+"kind": "ue",
+"year": "1968",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 9 aprilie 1968 privind comercializarea materialului pentru înmulțirea vegetativă a viței de vie",
+"short": "Directiva 68/193/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1968-04-11",
+"latest": "1968-04-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0193"
+},
+{
+"slug": "ue-directiva-221-1968",
+"path": "ue/directiva/1968/221",
+"kind": "ue",
+"year": "1968",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 30 aprilie 1968 privind metoda comună de calculare a cotelor medii prevăzute în articolul 97 din tratat",
+"short": "Directiva 68/221/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1968-05-16",
+"latest": "1968-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0221"
+},
+{
+"slug": "ue-directiva-297-1968",
+"path": "ue/directiva/1968/297",
+"kind": "ue",
+"year": "1968",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 iulie 1968 de standardizare a dispozițiilor privind admiterea fără plata taxelor vamale a combustibilului conținut în rezervoarele de combustibil ale autovehiculelor utilitare",
+"short": "Directiva 68/297/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1968-07-20",
+"latest": "1968-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0297"
+}
+]
+}

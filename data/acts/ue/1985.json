@@ -20,6 +20,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0001"
 },
 {
+"slug": "ue-directiva-38-1985",
+"path": "ue/directiva/1985/38",
+"kind": "ue",
+"year": "1985",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 14 decembrie 1984 de modificare a anexelor I și II la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere",
+"short": "Directiva 85/38/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1984-12-18",
+"latest": "1984-12-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0038"
+},
+{
+"slug": "ue-directiva-347-1985",
+"path": "ue/directiva/1985/347",
+"kind": "ue",
+"year": "1985",
+"number": "347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 8 iulie 1985 de modificare a Directivei 68/297/CEE privind uniformizarea dispozițiilor referitoare la admiterea fără taxe vamale a carburantului conținut în rezervoarele autovehiculelor utilitare",
+"short": "Directiva 85/347/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1985-07-12",
+"latest": "1985-07-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0347"
+},
+{
 "slug": "ue-directiva-374-1985",
 "path": "ue/directiva/1985/374",
 "kind": "ue",
@@ -37,6 +71,46 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0374",
 "flags": {
 "end_of_validity": "2026-12-08"
+}
+},
+{
+"slug": "ue-directiva-490-1985",
+"path": "ue/directiva/1985/490",
+"kind": "ue",
+"year": "1985",
+"number": "490",
+"withdrawn_by": null,
+"reason": null,
+"title": "A Patra Directivă a Comisiei din 11 octombrie 1985 privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru controlul compoziției produselor cosmetice",
+"short": "Directiva 85/490/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1985-10-21",
+"latest": "1985-10-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0490",
+"flags": {
+"figures_missing": 16
+}
+},
+{
+"slug": "ue-directiva-503-1985",
+"path": "ue/directiva/1985/503",
+"kind": "ue",
+"year": "1985",
+"number": "503",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 25 octombrie 1985 privind metodele de analiză pentru cazeinele și cazeinații comestibili",
+"short": "Directiva 85/503/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1985-10-30",
+"latest": "1985-10-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0503",
+"flags": {
+"figures_missing": 15
 }
 },
 {

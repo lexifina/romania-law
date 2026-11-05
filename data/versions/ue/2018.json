@@ -376,6 +376,21 @@
      "sha256": "5ee60605f7add20fd162a061ed37c8720db632df6a90a5ab914c77b210db3132"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1999-2018",
+   "path": "ue/regulament/2018/1999",
+   "short": "Regulamentul (UE) 2018/1999",
+   "title": "Regulamentul (UE) 2018/1999 al Parlamentului European și al Consiliului din 11 decembrie 2018 privind guvernanța uniunii energetice și a acțiunilor climatice, de modificare a Regulamentelor (CE) nr. 663/2009 și (CE) nr. 715/2009 ale Parlamentului European și ale Consiliului, a Directivelor 94/22/CE, 98/70/CE, 2009/31/CE, 2009/73/CE, 2010/31/UE, 2012/27/UE și 2013/30/UE ale Parlamentului European și ale Consiliului, a Directivelor 2009/119/CE și (UE) 2015/652 ale Consiliului și de abrogare a Regulamentului (UE) nr. 525/2013 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1999",
+   "versions": [
+    {
+     "from": "2018-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6980a60-04e7-11e9-adde-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c060555926c8602fb76ac6f6624444fec3038c16f6c036b3a18b73e4d8e6f79"
+    }
+   ]
   }
  ]
 }

@@ -211,6 +211,21 @@
      "sha256": "0de8fa3464cad3cf2fc149ec0eef3d4f825920cd028e9d04732c023101fd95a0"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1610-1996",
+   "path": "ue/regulament/1996/1610",
+   "short": "Regulamentul (CE) nr. 1610/96",
+   "title": "Regulamentul (CE) nr. 1610/96 al Parlamentului European și al Consiliului din 23 iulie 1996 privind crearea unui certificat suplimentar de protecție pentru produsele fitosanitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996R1610",
+   "versions": [
+    {
+     "from": "1997-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/152b1e93-252a-4db7-8ece-067d4246642a.0022.04/DOC_1",
+     "sha256": "81c3babdfcdc06666fb5f4237d4d8003f8e0ff8d51f8300caa8b40c8f92f7765"
+    }
+   ]
   }
  ]
 }

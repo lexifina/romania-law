@@ -105,6 +105,77 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0977"
 },
 {
+"slug": "ue-regulament-1113-2023",
+"path": "ue/regulament/2023/1113",
+"kind": "ue",
+"year": "2023",
+"number": "1113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/1113 al Parlamentului European și al Consiliului din 31 mai 2023 privind informațiile care însoțesc transferurile de fonduri și de anumite criptoactive și de modificare a Directivei (UE) 2015/849 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2023/1113",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1113",
+"flags": {
+"end_of_validity": "2027-07-09"
+}
+},
+{
+"slug": "ue-regulament-1114-2023",
+"path": "ue/regulament/2023/1114",
+"kind": "ue",
+"year": "2023",
+"number": "1114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/1114 al Parlamentului European și al Consiliului din 31 mai 2023 privind piețele criptoactivelor și de modificare a Regulamentelor (UE) nr. 1093/2010 și (UE) nr. 1095/2010 și a Directivelor 2013/36/UE și (UE) 2019/1937 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2023/1114",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1114"
+},
+{
+"slug": "ue-regulament-1115-2023",
+"path": "ue/regulament/2023/1115",
+"kind": "ue",
+"year": "2023",
+"number": "1115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/1115 al Parlamentului European și al Consiliului din 31 mai 2023 privind punerea la dispoziție pe piața Uniunii și exportul din Uniune a anumitor produse de bază și produse asociate cu defrișările și degradarea pădurilor și de abrogare a Regulamentului (UE) nr. 995/2010 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2023/1115",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1115"
+},
+{
+"slug": "ue-regulament-1230-2023",
+"path": "ue/regulament/2023/1230",
+"kind": "ue",
+"year": "2023",
+"number": "1230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/1230 al Parlamentului European și al Consiliului din 14 iunie 2023 privind mașinile și de abrogare a Directivei 2006/42/CE a Parlamentului European și a Consiliului și a Directivei 73/361/CEE a Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2023/1230",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1230"
+},
+{
 "slug": "ue-directiva-1544-2023",
 "path": "ue/directiva/2023/1544",
 "kind": "ue",
@@ -140,6 +211,23 @@
 "flags": {
 "figures_missing": 3
 }
+},
+{
+"slug": "ue-regulament-1804-2023",
+"path": "ue/regulament/2023/1804",
+"kind": "ue",
+"year": "2023",
+"number": "1804",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/1804 al Parlamentului European și al Consiliului din 13 septembrie 2023 privind instalarea infrastructurii pentru combustibili alternativi și de abrogare a Directivei 2014/94/UE (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2023/1804",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1804"
 },
 {
 "slug": "ue-directiva-2123-2023",
@@ -194,6 +282,23 @@
 "from": "2023-11-13",
 "latest": "2023-11-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2226"
+},
+{
+"slug": "ue-regulament-2405-2023",
+"path": "ue/regulament/2023/2405",
+"kind": "ue",
+"year": "2023",
+"number": "2405",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2023/2405 al Parlamentului European și al Consiliului din 18 octombrie 2023 privind asigurarea unor condiții de concurență echitabile pentru un transport aerian durabil (ReFuelEU în domeniul aviației) (Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) 2023/2405",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2405"
 },
 {
 "slug": "ue-directiva-2413-2023",

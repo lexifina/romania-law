@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1964",
+"acts": [
+{
+"slug": "ue-directiva-475-1964",
+"path": "ue/directiva/1964/475",
+"kind": "ue",
+"year": "1964",
+"number": "475",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 30 iulie 1964 privind organizarea unor anchete anuale coordonate privind investițiile din industrie",
+"short": "Directiva 64/475/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1964-07-31",
+"latest": "1964-07-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31964L0475"
+}
+]
+}

@@ -3,6 +3,21 @@
  "shard": "ue/1975",
  "acts": [
   {
+   "slug": "ue-directiva-107-1975",
+   "path": "ue/directiva/1975/107",
+   "short": "Directiva 75/107/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1974 privind apropierea legislațiilor statelor membre referitoare la sticlele utilizate ca recipiente de măsurare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975L0107",
+   "versions": [
+    {
+     "from": "1974-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc6b298e-8340-4013-80cd-9e85f5a906e9.0022.01/DOC_1",
+     "sha256": "6f0512d9ac4bdcebce9c2d7cbd95873891937672b682228e9c2f0cd6bee6a772"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-324-1975",
    "path": "ue/directiva/1975/324",
    "short": "Directiva 75/324/CEE",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/69687c1e-b458-44a2-a637-cde4c9b1ffec.0022.01/DOC_1",
      "sha256": "5f2434c6b8c76f1783f0858b7ab9c182824fae726b933f148f8f88c87a09629d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-444-1975",
+   "path": "ue/directiva/1975/444",
+   "short": "Directiva 75/444/CEE",
+   "title": "Directiva Consiliului din 26 iunie 1975 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE și 69/208/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță și a semințelor de plante oleaginoase și textile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975L0444",
+   "versions": [
+    {
+     "from": "1975-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3d1e07d-f474-47be-a871-9cfca0d83d8a.0022.03/DOC_7",
+     "sha256": "101168abaed17308ce7e999e35cfb7f80196fd4ce1df94c3ea6e2dcdb9d06cc3"
     }
    ]
   }

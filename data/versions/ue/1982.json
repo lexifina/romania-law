@@ -3,6 +3,96 @@
  "shard": "ue/1982",
  "acts": [
   {
+   "slug": "ue-directiva-287-1982",
+   "path": "ue/directiva/1982/287",
+   "short": "Directiva 82/287/CEE",
+   "title": "Directiva Comisiei din 13 aprilie 1982 de modificare a anexelor la Directivele 66/401/CEE și 69/208/CEE ale Consiliului privind comercializarea semințelor de plante furajere și comercializarea semințelor de plante oleaginoase și pentru fibră, precum și a Directivelor 78/386/CEE și 78/388/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0287",
+   "versions": [
+    {
+     "from": "1982-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d6970fe-d916-44e6-a40e-d1f0cb7f35ba.0003.03/DOC_41",
+     "sha256": "81a2c9c425d50a7d7c73acd1e03bc149cdff4937174fdac04fd7b11d6743c9ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-331-1982",
+   "path": "ue/directiva/1982/331",
+   "short": "Directiva 82/331/CEE",
+   "title": "Directiva comisiei din 6 mai 1982 de modificare a Directivei 68/193/CEE a Consiliului privind comercializarea materialului de înmulțire vegetativă a viței de vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0331",
+   "versions": [
+    {
+     "from": "1982-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3a9c44b-922c-40b4-9591-a94c29eb595b.0003.03/DOC_33",
+     "sha256": "1f7651bb150f134d01332c6b76af99c83852479cd054f5fce9e4458f1a24045d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-400-1982",
+   "path": "ue/directiva/1982/400",
+   "short": "Directiva 82/400/CEE",
+   "title": "Directiva Consiliului din 14 iunie 1982 de modificare a Directivei 77/391/CEE și de instituire a unei acțiuni suplimentare a Comunității în vederea eradicării brucelozei, tuberculozei și leucozei la bovine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0400",
+   "versions": [
+    {
+     "from": "1982-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b653922-6d78-4650-b2b8-dcffd8678d2e.0022.03/DOC_24",
+     "sha256": "ffa162040a946675aed0591de073f31581838d289248795c1d250cc823f75e98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-434-1982",
+   "path": "ue/directiva/1982/434",
+   "short": "Directiva 82/434/CEE",
+   "title": "A doua directivă a Comisiei din 14 mai 1982 privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0434",
+   "versions": [
+    {
+     "from": "1982-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c7bc40f-05f4-4901-8086-54325a71714d.0022.03/DOC_78",
+     "sha256": "cda5b980fc5c979811f5dc9228bbf9197c1f3d6e053bf46106b053858d6efce9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-475-1982",
+   "path": "ue/directiva/1982/475",
+   "short": "Directiva 82/475/CEE",
+   "title": "Directiva comisiei din 23 iunie 1982 de stabilire a categoriilor de ingrediente care pot fi utilizate pentru etichetarea furajelor combinate pentru animalele de companie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0475",
+   "versions": [
+    {
+     "from": "1982-06-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c47dbd6-3d49-459f-ae11-8955004a079d.0022.03/DOC_8",
+     "sha256": "0d05049ab99fb07802963514dfe9976ad5a9422b44665ccbc4fffa1aad34c5d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-621-1982",
+   "path": "ue/directiva/1982/621",
+   "short": "Directiva 82/621/CEE",
+   "title": "Directiva Comisiei din 1 iulie 1982 de adaptare la progresul tehnic a Directivei 76/891/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la contoarele de energie electrică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0621",
+   "versions": [
+    {
+     "from": "1982-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec9b710d-82ff-49cf-ad8e-8bf9c84cf7c6.0022.03/DOC_13",
+     "sha256": "b43aa0a6b056e3032102ebd2f887fed5f3d32fcf8e7e5a6c895772cbb7798bc5"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-711-1982",
    "path": "ue/directiva/1982/711",
    "short": "Directiva 82/711/CEE",

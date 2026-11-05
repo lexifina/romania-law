@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ue/1966",
+ "acts": [
+  {
+   "slug": "ue-directiva-401-1966",
+   "path": "ue/directiva/1966/401",
+   "short": "Directiva 66/401/CEE",
+   "title": "Directiva Consiliului din 14 iunie 1966 privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31966L0401",
+   "versions": [
+    {
+     "from": "1966-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8124de30-ce08-4cbe-9814-d4e602698b57.0022.03/DOC_5",
+     "sha256": "cb73a1df9de9c6aab5faa1eb15ab1072354e3eba2e0fa7323dac4a4a15570290"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-402-1966",
+   "path": "ue/directiva/1966/402",
+   "short": "Directiva 66/402/CEE",
+   "title": "Directiva Consiliului din 14 iunie 1966 privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31966L0402",
+   "versions": [
+    {
+     "from": "1966-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fc42eea-19dd-4763-90ac-2ae9268d818f.0019.02/DOC_17",
+     "sha256": "24e11b4f69c55499e9f9ad440a45fc0f9e92aff763c132874ab417a96763c021"
+    }
+   ]
+  }
+ ]
+}

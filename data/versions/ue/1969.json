@@ -16,6 +16,36 @@
      "sha256": "b32a410cc141f5a67525410409353b1b2046c1d347c4112a4be3f1a1c41950ec"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-60-1969",
+   "path": "ue/directiva/1969/60",
+   "short": "Directiva 69/60/CEE",
+   "title": "Directiva Consiliului din 18 februarie 1969 de modificare a Directivei Consiliului din 14 iunie 1966 privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969L0060",
+   "versions": [
+    {
+     "from": "1969-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfbf45c5-fec9-4469-853a-6bdfdb1b8221.0022.03/DOC_5",
+     "sha256": "33deed89222da45c97cc15a79f7cf0a57118c7b11b595a200bf00f320350ea22"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-1969",
+   "path": "ue/directiva/1969/63",
+   "short": "Directiva 69/63/CEE",
+   "title": "Directiva Consiliului din 18 februarie 1969 de modificare a Directivei Consiliului din 14 iunie 1966 privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969L0063",
+   "versions": [
+    {
+     "from": "1969-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c94c1c1b-7549-4fc7-972e-5a3f222b84e4.0022.04/DOC_20",
+     "sha256": "6d99dfb32ffc162c78a1ab368abe0e46d11f1f1b3b246f9bdee21f12bf16cde3"
+    }
+   ]
   }
  ]
 }

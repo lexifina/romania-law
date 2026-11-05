@@ -391,6 +391,66 @@
      "sha256": "01f809702aec20d6a9896846984618da72f8b70e49908938bfedf557150f0361"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-2219-2015",
+   "path": "ue/regulament/2015/2219",
+   "short": "Regulamentul (UE) 2015/2219",
+   "title": "Regulamentul (UE) 2015/2219 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind Agenția Uniunii Europene pentru Formare în Materie de Aplicare a Legii (CEPOL) și de înlocuire și de abrogare a Deciziei 2005/681/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2219",
+   "versions": [
+    {
+     "from": "2015-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c71d1eb2-9a55-11e5-b3b7-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "32fe2796ee9ed13ced1d067c235edc5a3739e08915411bf7378602c484fb28eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2283-2015",
+   "path": "ue/regulament/2015/2283",
+   "short": "Regulamentul (UE) 2015/2283",
+   "title": "Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind alimentele noi, de modificare a Regulamentului (UE) nr. 1169/2011 al Parlamentului European și al Consiliului și de abrogare a Regulamentului (CE) nr. 258/97 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 1852/2001 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2283",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2e5f917-9fd7-11e5-8781-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5ab029c246bf66bd22a2dabc3ffc03d04c8007dcb3cc0770f93d71e81c2a7ee0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-751-2015",
+   "path": "ue/regulament/2015/751",
+   "short": "Regulamentul (UE) 2015/751",
+   "title": "Regulamentul (UE) 2015/751 al Parlamentului European și al Consiliului din 29 aprilie 2015 privind comisioanele interbancare pentru tranzacțiile de plată cu cardul (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0751",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62bab217-fdf3-11e4-a4c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4498b8a18cb3058fea3269eb87d093fc004ebc7293216c51f54fa37ab75763bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-757-2015",
+   "path": "ue/regulament/2015/757",
+   "short": "Regulamentul (UE) 2015/757",
+   "title": "Regulamentul (UE) 2015/757 al Parlamentului European și al Consiliului din 29 aprilie 2015 privind monitorizarea, raportarea și verificarea emisiilor de dioxid de carbon generate de transportul maritim și de modificare a Directivei 2009/16/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0757",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c895b0b3-fdf7-11e4-a4c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "57d207afcced640103a3828dd8112f5056b3d76e12398d94725a5579738c1fb6"
+    }
+   ]
   }
  ]
 }

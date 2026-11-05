@@ -88,6 +88,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0884"
 },
 {
+"slug": "ue-regulament-886-2024",
+"path": "ue/regulament/2024/886",
+"kind": "ue",
+"year": "2024",
+"number": "886",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2024/886 al Parlamentului European și al Consiliului din 13 martie 2024 de modificare a Regulamentelor (UE) nr. 260/2012 și (UE) 2021/1230 și a Directivelor 98/26/CE și (UE) 2015/2366 în ceea ce privește transferurile credit instant în euro (Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) 2024/886",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-04-08",
+"latest": "2024-04-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0886"
+},
+{
 "slug": "ue-directiva-927-2024",
 "path": "ue/directiva/2024/927",
 "kind": "ue",
@@ -188,6 +205,26 @@
 "from": "2024-05-20",
 "latest": "2024-05-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1233"
+},
+{
+"slug": "ue-regulament-1252-2024",
+"path": "ue/regulament/2024/1252",
+"kind": "ue",
+"year": "2024",
+"number": "1252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2024/1252 al Parlamentului European și al Consiliului din 11 aprilie 2024 de instituire a unui cadru pentru asigurarea aprovizionării sigure și durabile cu materii prime critice și de modificare a Regulamentelor (UE) nr. 168/2013, (UE) 2018/858, (UE) 2018/1724 și (UE) 2019/1020 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2024/1252",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-05-23",
+"latest": "2024-05-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1252",
+"flags": {
+"figures_missing": 7
+}
 },
 {
 "slug": "ue-directiva-1260-2024",

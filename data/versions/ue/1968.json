@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1968",
+ "acts": [
+  {
+   "slug": "ue-directiva-193-1968",
+   "path": "ue/directiva/1968/193",
+   "short": "Directiva 68/193/CEE",
+   "title": "Directiva Consiliului din 9 aprilie 1968 privind comercializarea materialului pentru înmulțirea vegetativă a viței de vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0193",
+   "versions": [
+    {
+     "from": "1968-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/862c438d-474a-46cc-9354-984565002e96.0022.04/DOC_18",
+     "sha256": "b9150692f796127bda2209e9e1b3dc283f993d2e7fb71e5f1a6c8ed267f888ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-221-1968",
+   "path": "ue/directiva/1968/221",
+   "short": "Directiva 68/221/CEE",
+   "title": "Directiva Consiliului din 30 aprilie 1968 privind metoda comună de calculare a cotelor medii prevăzute în articolul 97 din tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0221",
+   "versions": [
+    {
+     "from": "1968-05-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d084a41a-b1d7-4c45-bc03-81bc1af1e88a.0022.04/DOC_1",
+     "sha256": "5f8a637953d3086493b5e06d012fe7f5dd8c6034d9e305fc70e7c5583f68cae9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-297-1968",
+   "path": "ue/directiva/1968/297",
+   "short": "Directiva 68/297/CEE",
+   "title": "Directiva Consiliului din 19 iulie 1968 de standardizare a dispozițiilor privind admiterea fără plata taxelor vamale a combustibilului conținut în rezervoarele de combustibil ale autovehiculelor utilitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968L0297",
+   "versions": [
+    {
+     "from": "1968-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d2211a2-1058-41d6-b900-317aa8fa8b84.0022.03/DOC_8",
+     "sha256": "e098ea1c276fd29082f33db7335bea8657fd01a22840753c7a326df2031df235"
+    }
+   ]
+  }
+ ]
+}

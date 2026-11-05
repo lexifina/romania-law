@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "ue/1972",
+"acts": [
+{
+"slug": "ue-directiva-221-1972",
+"path": "ue/directiva/1972/221",
+"kind": "ue",
+"year": "1972",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 6 iunie 1972 privind organizarea de anchete anuale coordonate privind activitatea industrială",
+"short": "Directiva 72/221/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1972-06-09",
+"latest": "1972-06-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0221"
+},
+{
+"slug": "ue-directiva-274-1972",
+"path": "ue/directiva/1972/274",
+"kind": "ue",
+"year": "1972",
+"number": "274",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 20 iulie 1972 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivelor din 29 septembrie 1970 privind, respectiv, comercializarea semințelor de legume și catalogul comun al soiurilor de plante agricole",
+"short": "Directiva 72/274/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1972-07-26",
+"latest": "1972-07-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0274",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-418-1972",
+"path": "ue/directiva/1972/418",
+"kind": "ue",
+"year": "1972",
+"number": "418",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 6 decembrie 1972 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivelor din 29 septembrie 1970 privind comercializarea semințelor de legume și privind Catalogul comun al soiurilor de plante agricole",
+"short": "Directiva 72/418/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1972-12-22",
+"latest": "1972-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0418",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+}
+]
+}

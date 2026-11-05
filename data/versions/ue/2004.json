@@ -466,6 +466,66 @@
      "sha256": "9fd676ac5395ee732e3ef33dc4bbdd285b5025eaf1410bd53dd96abdee233ede"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-2252-2004",
+   "path": "ue/regulament/2004/2252",
+   "short": "Regulamentul (CE) nr. 2252/2004",
+   "title": "Regulamentul (CE) nr. 2252/2004 al Consiliului din 13 decembrie 2004 privind standardele pentru elementele de securitate și elementele biometrice integrate în pașapoarte și în documente de călătorie emise de statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004R2252",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b71a06f-e689-498b-85ea-02343f320d25.0022.04/DOC_1",
+     "sha256": "816b46e3e530e15f578a07a5a7c6b13cc41cc5b9a77896d803cb39675b899120"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-273-2004",
+   "path": "ue/regulament/2004/273",
+   "short": "Regulamentul (CE) nr. 273/2004",
+   "title": "Regulamentul (CE) nr. 273/2004 al Parlamentului European și al Consiliului din 11 februarie 2004 privind precursorii drogurilorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004R0273",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2363d01c-ece1-43e6-b064-57213a92cc88.0022.03/DOC_1",
+     "sha256": "7bba025030dfb3dae7059ca5b2e369649b0b03a2909e2d6f7da2283b02392ace"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-852-2004",
+   "path": "ue/regulament/2004/852",
+   "short": "Regulamentul (CE) nr. 852/2004",
+   "title": "Regulamentul (CE) nr. 852/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind igiena produselor alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004R0852",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb8c29a0-3cfc-40ad-b787-13f9e0394e33.0022.04/DOC_64",
+     "sha256": "1c3da7027ac2e6df98faaf554baba925b79b94029b9cc23bbb064da3d0c381e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-853-2004",
+   "path": "ue/regulament/2004/853",
+   "short": "Regulamentul (CE) nr. 853/2004",
+   "title": "Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 de stabilire a unor norme specifice de igienă care se aplică alimentelor de origine animală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004R0853",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/979cc87c-97fa-42bc-a68f-680da2207dd2.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

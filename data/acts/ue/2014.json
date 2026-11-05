@@ -1103,6 +1103,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0112"
 },
 {
+"slug": "ue-regulament-165-2014",
+"path": "ue/regulament/2014/165",
+"kind": "ue",
+"year": "2014",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 165/2014 al Parlamentului European și al Consiliului din 4 februarie 2014 privind tahografele în transportul rutier, de abrogare a Regulamentului (CEE) nr. 3821/85 al Consiliului privind aparatura de înregistrare în transportul rutier și de modificare a Regulamentului (CE) nr. 561/2006 al Parlamentului European și al Consiliului privind armonizarea anumitor dispoziții ale legislației sociale în domeniul transporturilor rutiere Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 165/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-03-01",
+"latest": "2014-03-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0165",
+"flags": {
+"figures_missing": 6
+}
+},
+{
+"slug": "ue-regulament-223-2014",
+"path": "ue/regulament/2014/223",
+"kind": "ue",
+"year": "2014",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 223/2014 al Parlamentului European și al Consiliului din 11 martie 2014 privind Fondul de ajutor european destinat celor mai defavorizate persoane",
+"short": "Regulamentul (UE) nr. 223/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-03-12",
+"latest": "2014-03-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0223"
+},
+{
 "slug": "ue-regulament-269-2014",
 "path": "ue/regulament/2014/269",
 "kind": "ue",
@@ -1121,6 +1158,57 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "ue-regulament-334-2014",
+"path": "ue/regulament/2014/334",
+"kind": "ue",
+"year": "2014",
+"number": "334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 334/2014 al Parlamentului European și al Consiliului din 11 martie 2014 de modificare a Regulamentului (UE) nr. 528/2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide, în ceea ce privește anumite condiții de acces pe piață Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 334/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-04-25",
+"latest": "2014-04-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0334"
+},
+{
+"slug": "ue-regulament-536-2014",
+"path": "ue/regulament/2014/536",
+"kind": "ue",
+"year": "2014",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 536/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 privind studiile clinice intervenționale cu medicamente de uz uman și de abrogare a Directivei 2001/20/CE Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 536/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-06-16",
+"latest": "2014-06-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0536"
+},
+{
+"slug": "ue-regulament-910-2014",
+"path": "ue/regulament/2014/910",
+"kind": "ue",
+"year": "2014",
+"number": "910",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 910/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind identificarea electronică și serviciile de încredere pentru tranzacțiile electronice pe piața internă și de abrogare a Directivei 1999/93/CE",
+"short": "Regulamentul (UE) nr. 910/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-09-17",
+"latest": "2014-09-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0910"
 }
 ]
 }

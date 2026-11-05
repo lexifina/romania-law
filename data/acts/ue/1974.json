@@ -35,6 +35,23 @@
 "from": "1974-10-18",
 "latest": "1974-10-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974L0557"
+},
+{
+"slug": "ue-directiva-648-1974",
+"path": "ue/directiva/1974/648",
+"kind": "ue",
+"year": "1974",
+"number": "648",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 9 decembrie 1974 de modificare a Directivei nr. 68/193/CEE privind comercializarea materialului de înmulțire vegetativă a viței de vie",
+"short": "Directiva 74/648/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1974-12-12",
+"latest": "1974-12-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974L0648"
 }
 ]
 }

@@ -555,6 +555,117 @@
 "flags": {
 "figures_missing": 2
 }
+},
+{
+"slug": "ue-regulament-807-2003",
+"path": "ue/regulament/2003/807",
+"kind": "ue",
+"year": "2003",
+"number": "807",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 807/2003 al Consiliului din 14 aprilie 2003 de adaptare la Decizia 1999/468/CE a dispozițiilor privind comitetele care asistă Comisia în exercitarea atribuțiilor sale de executare prevăzute în actele Consiliului adoptate în conformitate cu procedura de consultare (unanimitate)",
+"short": "Regulamentul (CE) nr. 807/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2003-06-05",
+"latest": "2003-06-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0807",
+"flags": {
+"end_of_validity": "2027-01-19"
+}
+},
+{
+"slug": "ue-regulament-1435-2003",
+"path": "ue/regulament/2003/1435",
+"kind": "ue",
+"year": "2003",
+"number": "1435",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1435/2003 al Consiliului din 22 iulie 2003 privind statutul societății cooperative europene (SCE)",
+"short": "Regulamentul (CE) nr. 1435/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2003-08-21",
+"latest": "2003-08-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1435"
+},
+{
+"slug": "ue-regulament-1829-2003",
+"path": "ue/regulament/2003/1829",
+"kind": "ue",
+"year": "2003",
+"number": "1829",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1829/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind produsele alimentare și furajele modificate geneticText cu relevanță pentru SEE.",
+"short": "Regulamentul (CE) nr. 1829/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2004-04-18",
+"latest": "2004-04-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1829",
+"flags": {
+"end_of_validity": "2010-08-31"
+}
+},
+{
+"slug": "ue-regulament-1830-2003",
+"path": "ue/regulament/2003/1830",
+"kind": "ue",
+"year": "2003",
+"number": "1830",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1830/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind trasabilitatea și etichetarea organismelor modificate genetic și trasabilitatea produselor destinate alimentației umane sau animale, produse din organisme modificate genetic, și de modificare a Directivei 2001/18/CE",
+"short": "Regulamentul (CE) nr. 1830/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2003-11-07",
+"latest": "2003-11-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1830"
+},
+{
+"slug": "ue-regulament-1882-2003",
+"path": "ue/regulament/2003/1882",
+"kind": "ue",
+"year": "2003",
+"number": "1882",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1882/2003 al Parlamentului European și al Consiliului din 29 septembrie 2003 de adaptare la Decizia 1999/468/CE a Consiliului a dispozițiilor privind comitetele care asistă Comisia în exercitarea competențelor de executare prevăzute de actele care fac obiectul procedurii menționate la articolul 251 din Tratatul CE",
+"short": "Regulamentul (CE) nr. 1882/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2003-11-20",
+"latest": "2003-11-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1882",
+"flags": {
+"end_of_validity": "2000-12-27"
+}
+},
+{
+"slug": "ue-regulament-1946-2003",
+"path": "ue/regulament/2003/1946",
+"kind": "ue",
+"year": "2003",
+"number": "1946",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 1946/2003 al Parlamentului European și al Consiliului din 15 iulie 2003 privind deplasările transfrontaliere de organisme modificate geneticText cu relevanță pentru SEE.",
+"short": "Regulamentul (CE) nr. 1946/2003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2003-11-25",
+"latest": "2003-11-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1946"
 }
 ]
 }

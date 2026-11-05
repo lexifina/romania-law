@@ -128,6 +128,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0739"
 },
 {
+"slug": "ue-regulament-740-2020",
+"path": "ue/regulament/2020/740",
+"kind": "ue",
+"year": "2020",
+"number": "740",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/740 al Parlamentului European și al Consiliului din 25 mai 2020 privind etichetarea pneurilor în ceea ce privește eficiența consumului de combustibil și alți parametri, de modificare a Regulamentului (UE) 2017/1369 și de abrogare a Regulamentului (CE) nr. 1222/2009 (Text cu cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/740",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0740",
+"flags": {
+"figures_missing": 17
+}
+},
+{
 "slug": "ue-directiva-876-2020",
 "path": "ue/directiva/2020/876",
 "kind": "ue",
@@ -143,6 +163,26 @@
 "from": "2020-06-27",
 "latest": "2020-06-27",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0876"
+},
+{
+"slug": "ue-regulament-1054-2020",
+"path": "ue/regulament/2020/1054",
+"kind": "ue",
+"year": "2020",
+"number": "1054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1054 al Parlamentului European și al Consiliului din 15 iulie 2020 de modificare a Regulamentului (CE) nr. 561/2006 în ceea ce privește cerințele minime referitoare la duratele de conducere zilnice și săptămânale maxime, pauzele minime și perioadele de repaus zilnic și săptămânal și a Regulamentului (UE) nr. 165/2014 în ceea ce privește poziționarea prin intermediul tahografelor",
+"short": "Regulamentul (UE) 2020/1054",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1054",
+"flags": {
+"figures_missing": 2
+}
 },
 {
 "slug": "ue-directiva-1057-2020",

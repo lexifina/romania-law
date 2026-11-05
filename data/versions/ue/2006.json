@@ -706,6 +706,111 @@
      "sha256": "63ac88ee0a905899c81b771c461a98ae2dba581e4193bf7522241f2c092f8266"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1013-2006",
+   "path": "ue/regulament/2006/1013",
+   "short": "Regulamentul (CE) nr. 1013/2006",
+   "title": "Regulamentul (CE) nr. 1013/2006 al Parlamentului European și al Consiliului din 14 iunie 2006 privind transferurile de deșeuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1013",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1784c89a-69e5-43eb-9c40-1157f6895e85.0022.04/DOC_9",
+     "sha256": "c8aa79f1aa38e320af821930dfd417fe671adc179accdf8211acaa317309a2f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1082-2006",
+   "path": "ue/regulament/2006/1082",
+   "short": "Regulamentul (CE) nr. 1082/2006",
+   "title": "Regulamentul (CE) nr. 1082/2006 al Parlamentului European și al Consiliului din 5 iulie 2006 privind o grupare europeană de cooperare teritorială (GECT)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1082",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/acdd8b05-2e72-4cf7-a792-8c64be31c329.0022.04/DOC_1",
+     "sha256": "790584e45dbe12b2f2b983e2abe36da8024f75ba05443d849e4eee7fcebbe794"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-166-2006",
+   "path": "ue/regulament/2006/166",
+   "short": "Regulamentul (CE) nr. 166/2006",
+   "title": "Regulamentul (CE) nr. 166/2006 al Parlamentului European și al Consiliului din 18 ianuarie 2006 de instituire a unui registru European al emisiilor și transferului de poluanți și de modificare a Directivelor 91/689/CEE și 96/61/CE ale ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0166",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a346ea24-b297-404e-95a7-b3ab1880f456.0022.04/DOC_1",
+     "sha256": "18035b6abf875a83a7689a68cfbec5ba070d11f62ccd08f2bb889cf90c125265"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1907-2006",
+   "path": "ue/regulament/2006/1907",
+   "short": "Regulamentul (CE) nr. 1907/2006",
+   "title": "Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), de înființare a Agenției Europene pentru Produse Chimice, de modificare a Directivei 1999/45/CE și de abrogare a Regulamentului (CEE) nr. 793/93 al Consiliului și a Regulamentului (CE) nr. 1488/94 al Comisiei, precum și a Directivei 76/769/CEE a Consiliului și a Directivelor 91/155/CEE, 93/67/CEE, 93/105/CE și 2000/21/CE ale ComisieiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1907",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d.0022.05/DOC_2",
+     "sha256": "fa86eced14bdd5cad2b5ac3243384d93fd3f2ef3346cebce64510ff18e719045"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1924-2006",
+   "path": "ue/regulament/2006/1924",
+   "short": "Regulamentul (CE) nr. 1924/2006",
+   "title": "Regulamentul (CE) nr. 1924/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1924",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6b6f775-c3c7-48b8-a079-eb55cbc7a766.0022.04/DOC_3",
+     "sha256": "ea68cb90b148cd77db557078b00862cb324a30bc59ff26c0fc0ff2620639396b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1925-2006",
+   "path": "ue/regulament/2006/1925",
+   "short": "Regulamentul (CE) nr. 1925/2006",
+   "title": "Regulamentul (CE) nr. 1925/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind adaosul de vitamine și minerale, precum și de anumite substanțe de alt tip în produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1925",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f4a1a6e-a2f1-4bab-8a1f-89d2e3b6d9dc.0022.04/DOC_1",
+     "sha256": "788c8c1d811d6e202eaf23559ad93271f7b6fa7c4a343a23de5a3c8cf40abc6c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-561-2006",
+   "path": "ue/regulament/2006/561",
+   "short": "Regulamentul (CE) nr. 561/2006",
+   "title": "Regulamentul (CE) nr. 561/2006 al Parlamentului European și al Consiliului din 15 martie 2006 privind armonizarea anumitor dispoziții ale legislației sociale în domeniul transporturilor rutiere, de modificare a Regulamentelor (CEE) nr. 3821/85 și (CE) nr. 2135/98 ale Consiliului și de abrogare a Regulamentului (CEE) nr. 3820/85 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0561",
+   "versions": [
+    {
+     "from": "2006-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5cf5ebde-d494-40eb-86a7-2131294ccbd9.0022.04/DOC_17",
+     "sha256": "6ba8876ec374263e7dade067fb4ade9ed57e2f111f9c2a346aa82a4427a750cf"
+    }
+   ]
   }
  ]
 }

@@ -316,6 +316,21 @@
      "sha256": "e8a892914f8354b7cf88e753cb02db05c15043667e2a0714a87a602c19068666"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-2157-2001",
+   "path": "ue/regulament/2001/2157",
+   "short": "Regulamentul (CE) nr. 2157/2001",
+   "title": "Regulamentul (CE) nr. 2157/2001 al Consiliului din 8 octombrie 2001 privind statutul societății europene (SE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001R2157",
+   "versions": [
+    {
+     "from": "2004-10-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/638400a7-710a-4784-b45c-2eb2ac7f608f.0022.04/DOC_1",
+     "sha256": "c501087f5c27e7fb1cc4d08365074443cd52584b9e9e3bde957c2039b35f00e8"
+    }
+   ]
   }
  ]
 }

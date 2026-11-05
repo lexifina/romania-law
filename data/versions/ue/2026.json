@@ -181,6 +181,1686 @@
      "sha256": "9ecf528476f63b4a5eeb35a15f6edf100ce6a3727daef1a12ebde0dc98b05f8f"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1030-2026",
+   "path": "ue/regulament/2026/1030",
+   "short": "Regulamentul (UE) 2026/1030",
+   "title": "Regulamentul (UE) 2026/1030 al Parlamentului European și al Consiliului din 29 aprilie 2026 privind contabilizarea emisiilor de gaze cu efect de seră generate de serviciile de transport (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1030",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/281f5e15-4d9b-11f1-8095-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "660f625725a42ac4f8e3f13ccfe09e7636f0f9f1cd7d5940612bea178f7dda4e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1046-2026",
+   "path": "ue/regulament/2026/1046",
+   "short": "Regulamentul (UE) 2026/1046",
+   "title": "Regulamentul (UE) 2026/1046 al Parlamentului European și al Consiliului din 29 aprilie 2026 de modificare a Regulamentului (UE) 2019/1242 în ceea ce privește calcularea creditelor de emisii pentru vehiculele grele pentru perioadele de raportare ale anilor 2025-2029 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1046",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb0a88ca-49ac-11f1-8095-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0ae80b4bd9d2d2a3f74e684550066d23e50c231cc3be8c079dae2be8ce50f881"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1047-2026",
+   "path": "ue/regulament/2026/1047",
+   "short": "Regulamentul (UE) 2026/1047",
+   "title": "Regulamentul (UE) 2026/1047 al Parlamentului European și al Consiliului din 29 aprilie 2026 privind crearea unei Rezerve UE de talente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1047",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1727cde7-4d9b-11f1-8095-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a10c78e665430ad88ff894e81cd520cc9cdcc909716bceeff411279007c3dbf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1118-2026",
+   "path": "ue/regulament/2026/1118",
+   "short": "Regulamentul (UE) 2026/1118",
+   "title": "Regulamentul (UE) 2026/1118 al Comisiei din 26 mai 2026 de refuzare a autorizării unei mențiuni de sănătate înscrise pe produse alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1118",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dcbbc205-5964-11f1-b3e2-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "19d1fbd102e9db8b823b0098dee4fde34818dc14862ef9228a2607618ca7aa23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1120-2026",
+   "path": "ue/regulament/2026/1120",
+   "short": "Regulamentul (UE) 2026/1120",
+   "title": "Regulamentul (UE) 2026/1120 al Comisiei din 26 mai 2026 de modificare a anexei III la Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului prin adăugarea a doisprezece coformulanți care nu pot intra în compoziția produselor de protecție a plantelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1120",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/81f78556-5964-11f1-b3e2-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8352baf8a1613accd87933defc837fd53360e2d0184009d782762bf5612a2d23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1123-2026",
+   "path": "ue/regulament/2026/1123",
+   "short": "Regulamentul (UE) 2026/1123",
+   "title": "Regulamentul (UE) 2026/1123 al Comisiei din 26 mai 2026 de stabilire a cerințelor de etichetare pentru produsele de protecție a plantelor și de abrogare a Regulamentului (UE) nr. 547/2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1123",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4f57c05-5964-11f1-b3e2-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "13a6b9a963776c27bb3486e8b4c6b9db05d020b0f0bf3c53a522b33aa15facee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1139-2026",
+   "path": "ue/regulament/2026/1139",
+   "short": "Regulamentul (UE) 2026/1139",
+   "title": "Regulamentul (UE) 2026/1139 al Parlamentului European și al Consiliului din 20 mai 2026 de modificare a Regulamentului (UE) 2021/691 în ceea ce privește sprijinul acordat lucrătorilor afectați de disponibilizări iminente din întreprinderile în curs de restructurare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1139",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b177890-5446-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "dc68265452e564cea852192f9a6de0e5804858cf3909b3f993b2ecad3e87f206"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1164-2026",
+   "path": "ue/regulament/2026/1164",
+   "short": "Regulamentul (UE) 2026/1164",
+   "title": "Regulamentul (UE) 2026/1164 al Consiliului din 22 mai 2026 de modificare a Regulamentului (UE) 2023/1529 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1164",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6aa5126-589e-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b23a308eeda99295e5f6cb595fd92f5bb49f9bf0048765de155996ea1a76de2c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1165-2026",
+   "path": "ue/regulament/2026/1165",
+   "short": "Regulamentul (UE) 2026/1165",
+   "title": "Regulamentul (UE) 2026/1165 al Parlamentului European și al Consiliului din 20 mai 2026 de modificare a Regulamentului (UE) nr. 528/2012 în ceea ce privește prelungirea anumitor perioade de protecție a datelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1165",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8491e68b-589d-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0222d3187f9c2a3a67ac4db715de9d3cac32653fb35b03d11b76b3ac25c4b7fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1168-2026",
+   "path": "ue/regulament/2026/1168",
+   "short": "Regulamentul (UE) 2026/1168",
+   "title": "Regulamentul (UE) 2026/1168 al Comisiei din 1 iunie 2026 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului în ceea ce privește microparticulele de polimeri sintetici",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1168",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8594425a-5e1b-11f1-aa6d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3412e0ca73a48d2884a51b4f8909bbb542e99f5a8f0e1ca26ee17d2dc808022e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1175-2026",
+   "path": "ue/regulament/2026/1175",
+   "short": "Regulamentul (UE) 2026/1175",
+   "title": "Regulamentul (UE) 2026/1175 al Consiliului din 28 mai 2026 de modificare a Regulamentului (UE) 2024/386 de instituire a unor măsuri restrictive împotriva celor care sprijină, facilitează sau permit comiterea de acțiuni violente de către Hamas și Jihadul Islamic Palestinian",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1175",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16840c15-5a97-11f1-aa6d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a97e40ed3f3381a3abd4e3c31e81d17f89a7dbcef5077553cc1a423850915f94"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1181-2026",
+   "path": "ue/regulament/2026/1181",
+   "short": "Regulamentul (UE) 2026/1181",
+   "title": "Regulamentul (UE) 2026/1181 al Consiliului din 22 mai 2026 privind suspendarea taxelor din Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului și privind deschiderea și modul de gestionare a unor contingente tarifare autonome pentru anumite îngrășăminte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1181",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bcd13d58-5af6-11f1-aa6d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "466e5f730ee10911a2bb39ab7aa562f231cee0355df8402391f62b98497d0717"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1184-2026",
+   "path": "ue/regulament/2026/1184",
+   "short": "Regulamentul (UE) 2026/1184",
+   "title": "Regulamentul (UE) 2026/1184 al Parlamentului European și al Consiliului din 20 mai 2026 privind utilizarea capacităților de infrastructură feroviară în spațiul feroviar unic european, de modificare a Directivei 2012/34/UE și de abrogare a Regulamentului (UE) nr. 913/2010 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1184",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e12f1692-6465-11f1-9b18-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cb6d313e1f84fd6467fcb271217c3f7d4fd01f96239b0878ca4e5893b22d56c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1314-2026",
+   "path": "ue/regulament/2026/1314",
+   "short": "Regulamentul (UE) 2026/1314",
+   "title": "Regulamentul (UE) 2026/1314 al Comisiei din 15 iunie 2026 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de 1,4-dimetilnaftalină, clormequat, metribuzin, metribuzin-dezamino-diceto (metribuzin-DADK), terbutilazin și triclopir din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1314",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59b9c575-6921-11f1-9b18-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1f681a53750ba2e9a8e320ccf3276505cea8ffd1fb172177a90b896495ac4340"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1332-2026",
+   "path": "ue/regulament/2026/1332",
+   "short": "Regulamentul (UE) 2026/1332",
+   "title": "Regulamentul (UE) 2026/1332 al Consiliului din 12 iunie 2026 de modificare a Regulamentului (UE) 2016/44 privind măsuri restrictive având în vedere situația din Libia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1332",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3859d2a9-6857-11f1-9b18-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9e67387fc8faa5d9f090aa157b7e23f8276afcdcd532f807a50ab2c10fcb4222"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1336-2026",
+   "path": "ue/regulament/2026/1336",
+   "short": "Regulamentul (UE) 2026/1336",
+   "title": "Regulamentul (UE) 2026/1336 al Consiliului din 15 iunie 2026 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1336",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89b3050d-68a1-11f1-9b18-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c44bafb0b167fbe589c63bfca1f0ee4108b85e95dcc1b90615edc5a852212f1a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1339-2026",
+   "path": "ue/regulament/2026/1339",
+   "short": "Regulamentul (UE) 2026/1339",
+   "title": "Regulamentul (UE) 2026/1339 al Comisiei din 17 iunie 2026 de rectificare a Regulamentului (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri de fenpirazamină din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1339",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f991af7-6ab0-11f1-ae88-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "36761c3a966f3452fc9bd94e203a605ab3e8bcb279044eee4831a95bbec6d1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1380-2026",
+   "path": "ue/regulament/2026/1380",
+   "short": "Regulamentul (UE) 2026/1380",
+   "title": "Regulamentul (UE) 2026/1380 al Comisiei din 23 iunie 2026 de rectificare a versiunii în limba estonă a Regulamentului (UE) nr. 10/2011 privind materialele și obiectele din plastic destinate să vină în contact cu produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1380",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5209f44b-6f65-11f1-ae88-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9e1c62183c00d66b9d596eaf6fa6577a590c05715b222b29ba10263278675809"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1383-2026",
+   "path": "ue/regulament/2026/1383",
+   "short": "Regulamentul (UE) 2026/1383",
+   "title": "Regulamentul (UE) 2026/1383 al Comisiei din 22 iunie 2026 de modificare a Regulamentului (CE) nr. 338/97 al Consiliului pentru a reflecta modificările Convenției privind comerțul internațional cu specii ale faunei și florei sălbatice pe cale de dispariție (CITES) adoptate în cadrul celei de a 20-a reuniuni a Conferinței părților și alte modificări convenite de Grupul de analiză științifică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1383",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca8fb8ce-70f9-11f1-9800-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ebe1fe792975d56d3cc32b5ec0f522ebfd2bab65370c30017f84036e8f332852"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1384-2026",
+   "path": "ue/regulament/2026/1384",
+   "short": "Regulamentul (UE) 2026/1384",
+   "title": "Regulamentul (UE) 2026/1384 al Parlamentului European și al Consiliului din 17 iunie 2026 privind contracararea efectelor comerciale negative ale supracapacității mondiale pe piața oțelului din Uniune și de modificare a Regulamentului (UE) 2020/2170",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1384",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/082b958d-6f65-11f1-ae88-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9230f3e089245ffbb1ad74be8de1844511af41f137749a24b7887c9f0136eebd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1386-2026",
+   "path": "ue/regulament/2026/1386",
+   "short": "Regulamentul (UE) 2026/1386",
+   "title": "Regulamentul (UE) 2026/1386 al Parlamentului European și al Consiliului din 17 iunie 2026 privind examinarea investițiilor străine în Uniune și de abrogare a Regulamentului (UE) 2019/452",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1386",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60d5b929-70fa-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "027ec8c47b1d919886347e80e8ac6c2007048249541d0c3dd0f93bd9631dd8c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1388-2026",
+   "path": "ue/regulament/2026/1388",
+   "short": "Regulamentul (UE) 2026/1388",
+   "title": "Regulamentul (UE) 2026/1388 al Parlamentului European și al Consiliului din 17 iunie 2026 privind plantele obținute prin anumite noi tehnici genomice și produsele derivate din ele și de modificare a Regulamentului (UE) 2017/625 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1388",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0b375d4-70f9-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "471e15fe66aa3c8a0543bc05312618fba4e51fbfbaa98cf8a51d5137aebd143d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1392-2026",
+   "path": "ue/regulament/2026/1392",
+   "short": "Regulamentul (UE) 2026/1392",
+   "title": "Regulamentul (UE) 2026/1392 al Parlamentului European și al Consiliului din 20 mai 2026 privind producția și comercializarea materialului forestier de reproducere, de modificare a Regulamentelor (UE) 2016/2031 și (UE) 2017/625 ale Parlamentului European și ale Consiliului și de abrogare a Directivei 1999/105/CE a Consiliului (Regulamentul privind MFR) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1392",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cfb55181-70f9-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ea62493915db640f4a1ebf57bf240d8d3618ef3b986a04a1cd543c83e37c5fe0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1395-2026",
+   "path": "ue/regulament/2026/1395",
+   "short": "Regulamentul (UE) 2026/1395",
+   "title": "Regulamentul (UE) 2026/1395 al Parlamentului European și al Consiliului din 17 iunie 2026 de aplicare a unui sistem generalizat de preferințe tarifare și de abrogare a Regulamentului (UE) nr. 978/2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1395",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0609fcb3-6dd7-11f1-ae88-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2b821e4d60fc3c9002043e6169ad76434cb6df3a972012f386974c5e0ec1b9b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-140-2026",
+   "path": "ue/regulament/2026/140",
+   "short": "Regulamentul (UE) 2026/140",
+   "title": "Regulamentul (UE) 2026/140 al Comisiei din 22 ianuarie 2026 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de acequinocil, clormequat, metalaxil-M, piraclostrobin, sulfoxaflor și trifloxistrobin din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0140",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b066f7c9-f7fd-11f0-b9bc-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "cb5ee6e60e9ec2b1ab347df87c8e9f6972782707b310a1b7d76313f7e9540f38"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1455-2026",
+   "path": "ue/regulament/2026/1455",
+   "short": "Regulamentul (UE) 2026/1455",
+   "title": "Regulamentul (UE) 2026/1455 al Parlamentului European și al Consiliului din 25 iunie 2026 privind ajustarea taxelor vamale la importul anumitor mărfuri originare din Statele Unite ale Americii și deschiderea unor contingente tarifare pentru importurile anumitor mărfuri originare din Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1455",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86741054-741e-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "743000be47c041cb8d0c194211164eced944e52f60139cce51ec92eb56be90b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1461-2026",
+   "path": "ue/regulament/2026/1461",
+   "short": "Regulamentul (UE) 2026/1461",
+   "title": "Regulamentul (UE) 2026/1461 al Parlamentului European și al Consiliului din 25 iunie 2026 privind neaplicarea taxelor vamale la importurile de anumite mărfuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1461",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/611aa3b2-741f-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c6421ed7ab09cbfe7a4dd0d9399b8981f918f5849f03b1b1f1682537ec3f7b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1463-2026",
+   "path": "ue/regulament/2026/1463",
+   "short": "Regulamentul (UE) 2026/1463",
+   "title": "Regulamentul (UE) 2026/1463 al Consiliului din 25 iunie 2026 de modificare a Regulamentului (UE) 2021/2278 de suspendare a taxelor din Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului pentru anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1463",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3051c740-741f-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "49e047de45b80f49e1550b894f483f106cdb626d60dae5e9774f61ee95a4df3d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1465-2026",
+   "path": "ue/regulament/2026/1465",
+   "short": "Regulamentul (UE) 2026/1465",
+   "title": "Regulamentul (UE) 2026/1465 al Consiliului din 25 iunie 2026 de modificare a Regulamentului (UE) 2021/2283 privind deschiderea și modul de gestionare a unor contingente tarifare autonome ale Uniunii pentru anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1465",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27e986a9-741f-11f1-9800-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e3571d6205a118897589393885c824bd877ffcaf0917ea614c089470e7b39eaf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-147-2026",
+   "path": "ue/regulament/2026/147",
+   "short": "Regulamentul (UE) 2026/147",
+   "title": "Regulamentul (UE) 2026/147 al Comisiei din 22 ianuarie 2026 de modificare a anexelor II și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de benfluralin, bentiavalicarb și penflufen din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0147",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abc04874-f7fc-11f0-b9bc-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "490e7aa378d4d34630e9b0dc4f7f9b000458e7100397cf3499338b1b12847568"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-150-2026",
+   "path": "ue/regulament/2026/150",
+   "short": "Regulamentul (UE) 2026/150",
+   "title": "Regulamentul (UE) 2026/150 al Consiliului din 16 ianuarie 2026 de modificare a Regulamentului (UE) 2021/1173 privind instituirea întreprinderii comune pentru calculul european de înaltă performanță",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0150",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33fab622-f4d7-11f0-b9bc-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d55510f8254449ddd540a87c64aedc500a3fbc7bada47760a4ce4418ffc052bc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1546-2026",
+   "path": "ue/regulament/2026/1546",
+   "short": "Regulamentul (UE) 2026/1546",
+   "title": "Regulamentul (UE) 2026/1546 al Comisiei din 8 iulie 2026 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru benomil, carbendazim și tiofanat-metil din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1546",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1597ff31-7b32-11f1-bf5e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a1f0bcecb6668552404c088377de05851e6d9cf1a3952316442820c95473cc52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1547-2026",
+   "path": "ue/regulament/2026/1547",
+   "short": "Regulamentul (UE) 2026/1547",
+   "title": "Regulamentul (UE) 2026/1547 al Consiliului din 1 iulie 2026 de modificare a Regulamentului (UE) 2026/249 de stabilire, pentru anii 2026, 2027 și 2028, a posibilităților de pescuit pentru anumite stocuri de pește, aplicabile în apele Uniunii și, pentru navele de pescuit din Uniune, în anumite ape din afara Uniunii și de modificare a Regulamentului (UE) 2025/2454 de stabilire a posibilităților de pescuit pentru anumite stocuri de pește și grupuri de stocuri de pește aplicabile în Marea Baltică în anul 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1547",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3b8acc8-7678-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7fed3cd8fa0fa142d434df73add34739ab5561aa14a43f76b2661d84f6315471"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1703-2026",
+   "path": "ue/regulament/2026/1703",
+   "short": "Regulamentul (UE) 2026/1703",
+   "title": "Regulamentul (UE) 2026/1703 al Parlamentului European și al Consiliului din 8 iulie 2026 de modificare a Regulamentului (UE) 2024/1157 în ceea ce privește interdicția de a exporta deșeuri municipale mixte destinate valorificării (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1703",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c44c2872-7bf7-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4fb8543275dfd8050cbb9f8228972f86da7b1525c5f0d3c128defbb102cc2577"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-172-2026",
+   "path": "ue/regulament/2026/172",
+   "short": "Regulamentul (UE) 2026/172",
+   "title": "Regulamentul (UE) 2026/172 al Comisiei din 26 ianuarie 2026 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește includerea esterului etilic al acidului 3-[3-(2-izopropil-5-metil-ciclohexil)-ureido]-butiric în lista de arome a Uniunii și de rectificare a anumitor numere CAS",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0172",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d32c3ea1-fb21-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ef9658f45d429ffaadb0fa88fdfc6564895d74ab49695cf922c17f1ab86d0e79"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1724-2026",
+   "path": "ue/regulament/2026/1724",
+   "short": "Regulamentul (UE) 2026/1724",
+   "title": "Regulamentul (UE) 2026/1724 al Consiliului din 13 iulie 2026 de modificare a Regulamentului (UE) 2023/2147 privind măsuri restrictive având în vedere activitățile care subminează stabilitatea și tranziția politică în Sudan",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1724",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/732e5ae9-7f1e-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9aca0ec31917e3a0c0e444818d1e376f389dedf961fcbbbda4bc40c3aab3097b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1738-2026",
+   "path": "ue/regulament/2026/1738",
+   "short": "Regulamentul (UE) 2026/1738",
+   "title": "Regulamentul (UE) 2026/1738 al Parlamentului European și al Consiliului din 8 iulie 2026 privind cerințele de circularitate pentru proiectarea vehiculelor și gestionarea vehiculelor scoase din uz, de modificare a Regulamentelor (UE) nr. 168/2013, (UE) 2018/858, (UE) 2019/1020 și (UE) 2023/1542 și de abrogare a Directivelor 2000/53/CE și 2005/64/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1738",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/394bc298-86fd-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7fc9443199a15f1a8a6bd4ce8a34fe5da4e2a8794d639d0f7f1524e4cd770ca1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1739-2026",
+   "path": "ue/regulament/2026/1739",
+   "short": "Regulamentul (UE) 2026/1739",
+   "title": "Regulamentul (UE) 2026/1739 al Parlamentului European și al Consiliului din 8 iulie 2026 de modificare a Regulamentelor (UE) nr. 1308/2013, (UE) 2021/2115 și (UE) 2021/2116 în ceea ce privește consolidarea poziției fermierilor în cadrul lanțului de aprovizionare cu alimente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1739",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b055a6f-8ae7-11f1-910d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4b9be99b715956839776840bcaa9477489702afde82bfa695317306f9d65a7f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1743-2026",
+   "path": "ue/regulament/2026/1743",
+   "short": "Regulamentul (UE) 2026/1743",
+   "title": "Regulamentul (UE) 2026/1743 al Consiliului din 10 iulie 2026 de modificare a Regulamentului (UE) nr. 904/2010 privind cooperarea administrativă și combaterea fraudei în domeniul taxei pe valoarea adăugată în ceea ce privește accesul Parchetului European și al Oficiului European de Luptă Antifraudă la informații privind taxa pe valoarea adăugată la nivelul Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1743",
+   "versions": [
+    {
+     "from": "2026-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed81bac4-895a-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "01d824020884316ae9d2f0874a18af56c989539f7330d30ebe0b14802a310050"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1744-2026",
+   "path": "ue/regulament/2026/1744",
+   "short": "Regulamentul (UE) 2026/1744",
+   "title": "Regulamentul (UE) 2026/1744 al Parlamentului European și al Consiliului din 8 iulie 2026 de modificare a Regulamentelor (UE) 2024/1689, (UE) 2018/1139 și (UE) 2023/1230 în ceea ce privește simplificarea punerii în aplicare a normelor armonizate privind inteligența artificială (Regulamentul omnibus în domeniul digital privind IA) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1744",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "522d2efb5d10c3f211d19ff8e6cf7018d75bc9d99d0758f24fb18054b8d769b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-175-2026",
+   "path": "ue/regulament/2026/175",
+   "short": "Regulamentul (UE) 2026/175",
+   "title": "Regulamentul (UE) 2026/175 al Comisiei din 26 ianuarie 2026 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește includerea hesperetinei dihidrocalconă pe lista de arome a Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0175",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68b53092-fb22-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c5d84405caedb1fdf4ec5271edb34fc74194bac5e0c137333af1f7b624074c0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-176-2026",
+   "path": "ue/regulament/2026/176",
+   "short": "Regulamentul (UE) 2026/176",
+   "title": "Regulamentul (UE) 2026/176 al Comisiei din 26 ianuarie 2026 de modificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește măsurile tranzitorii pentru exportul de făină de carne și oase drept combustibil pentru ardere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0176",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f2ccb5f5-fb21-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3a6329914d6e6d8571a855206cdc57b5d5d7a68ad12f419890afc830a8120b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1768-2026",
+   "path": "ue/regulament/2026/1768",
+   "short": "Regulamentul (UE) 2026/1768",
+   "title": "Regulamentul (UE) 2026/1768 al Parlamentului European și al Consiliului din 14 iulie 2026 de modificare a Regulamentului (UE) 2021/2115 în ceea ce privește un tip specific de intervenție pentru acordarea unui sprijin temporar cu caracter excepțional din Fondul european agricol pentru dezvoltare rurală (FEADR) și posibilitatea de a adapta alocările pentru plățile directe pentru anul calendaristic 2027, precum și a Regulamentului (UE) 2021/2116 în ceea ce privește norme mai flexibile privind plata avansurilor ca răspuns la creșterea prețurilor îngrășămintelor cauzată de criza din Orientul Mijlociu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1768",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6f61133-849c-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "265dd7111db60b647cd63441c8464f8588eea87cbaaea65e83c04f19abb87414"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1791-2026",
+   "path": "ue/regulament/2026/1791",
+   "short": "Regulamentul (UE) 2026/1791",
+   "title": "Regulamentul (UE) 2026/1791 al Comisiei din 23 iulie 2026 de modificare și de rectificare a Regulamentului (UE) 2017/1151 în ceea ce privește procedurile de omologare de tip pentru emisiile provenind de la vehiculele ușoare pentru pasageri și de la vehiculele ușoare comerciale referitoare la datele de expirare ale vehiculelor Euro 6 și anumite cerințe tehnice specifice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1791",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0d2194f-86fc-11f1-bf5e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "540047473272e0088ae3636c0c866158eb5cde99cc91dd5beec47cda0dcd2190"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1805-2026",
+   "path": "ue/regulament/2026/1805",
+   "short": "Regulamentul (UE) 2026/1805",
+   "title": "Regulamentul (UE) 2026/1805 al Consiliului din 16 iulie 2026 de modificare a Regulamentului (UE) nr. 833/2014 privind măsuri restrictive având în vedere acțiunile Rusiei de destabilizare a situației în Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1805",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/552df585-812e-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4de689a7135edca51a4f2e2ebe9c73ce6c3a89304fcde0039080ce558b43c60a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1818-2026",
+   "path": "ue/regulament/2026/1818",
+   "short": "Regulamentul (UE) 2026/1818",
+   "title": "Regulamentul (UE) 2026/1818 al Parlamentului European și al Consiliului din 17 iunie 2026 privind bunăstarea câinilor și a pisicilor și trasabilitatea acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1818",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1ccd5e3-9453-11f1-9262-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "de4bd3b001d6089809b46f596657ec168db53045b160d04ba6b5245a9ebc107f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1825-2026",
+   "path": "ue/regulament/2026/1825",
+   "short": "Regulamentul (UE) 2026/1825",
+   "title": "Regulamentul (UE) 2026/1825 al Comisiei din 29 iulie 2026 de modificare a Regulamentului (UE) 2023/915 în ceea ce privește nivelurile maxime de 3-monoclorpropandiol (3-MCPD), de esteri ai acizilor grași de 3-MCPD și de esteri ai acizilor grași glicidilici în anumite produse alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1825",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbcf19e5-8bae-11f1-9262-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ef133b151749300a5191626575cf7edccd382fca2cb5755352e936d723cdd60b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1828-2026",
+   "path": "ue/regulament/2026/1828",
+   "short": "Regulamentul (UE) 2026/1828",
+   "title": "Regulamentul (UE) 2026/1828 al Comisiei din 28 iulie 2026 de modificare a Regulamentului (UE) 2023/915 în ceea ce privește nivelurile maxime de delta-9-tetrahidrocanabinol (Δ9-THC) în frunzele de cânepă pentru infuzie în apă și în infuziile din frunze de cânepă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1828",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59d537c9-8ae7-11f1-910d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c1856749269badffeaecef9e781cd281df323990df5b247ccd84896b5254028f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1844-2026",
+   "path": "ue/regulament/2026/1844",
+   "short": "Regulamentul (UE) 2026/1844",
+   "title": "Regulamentul (UE) 2026/1844 al Consiliului din 23 iulie 2026 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1844",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72af78c3-86b9-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "21e40c94de3b7362d89e5ebe2968c625502cbbd35a96d73052ec9d5e09295667"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1846-2026",
+   "path": "ue/regulament/2026/1846",
+   "short": "Regulamentul (UE) 2026/1846",
+   "title": "Regulamentul (UE) 2026/1846 al Consiliului din 23 iulie 2026 de modificare a Regulamentului (CE) nr. 765/2006 privind măsuri restrictive având în vedere situația din Belarus și implicarea Belarusului în agresiunea Rusiei împotriva Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1846",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d08005cf-86cb-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ef03ec35e7ed8d0af83d6d9b7b40e607006b1cbfbd8d8ee75fa9fc8834a365bc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1848-2026",
+   "path": "ue/regulament/2026/1848",
+   "short": "Regulamentul (UE) 2026/1848",
+   "title": "Regulamentul (UE) 2026/1848 din 23 iulie 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1848",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67350bea-86dd-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4cad7a2d1655e7f1b02f727f416ae3abd430404829a5098eec4e3c4c1a4cb9b9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1867-2026",
+   "path": "ue/regulament/2026/1867",
+   "short": "Regulamentul (UE) 2026/1867",
+   "title": "Regulamentul (UE) 2026/1867 al Consiliului din 30 iulie 2026 de modificare a Regulamentului (UE) nr. 267/2012 privind măsuri restrictive împotriva Iranului și de abrogare a Regulamentului (UE) nr. 961/2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1867",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17e93a5f-8c7c-11f1-9262-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8a0a1b89e1ac90d9783f6e07ffb00fe6e06bd6cc3fbb7f7a9c66ec4d8653fb05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1881-2026",
+   "path": "ue/regulament/2026/1881",
+   "short": "Regulamentul (UE) 2026/1881",
+   "title": "Regulamentul (UE) 2026/1881 al Parlamentului European și al Consiliului din 24 iulie 2026 privind o derogare temporară de la anumite dispoziții ale Directivei 2002/58/CE în ceea ce privește utilizarea tehnologiilor de către furnizorii de servicii de comunicații interpersonale care nu se bazează pe numere pentru prelucrarea datelor cu caracter personal și a altor date în scopul combaterii abuzului sexual online asupra copiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1881",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6244f9e9-8a20-11f1-8e61-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "064ea897d3632c0132516c5a1bf85184fd3438d0a94863825c130f4098f5c5c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-189-2026",
+   "path": "ue/regulament/2026/189",
+   "short": "Regulamentul (UE) 2026/189",
+   "title": "Regulamentul (UE) 2026/189 al Comisiei din 28 ianuarie 2026 de modificare a Regulamentului (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a Regulamentului (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea șelacului (E 904) în alimente destinate unor scopuri medicale speciale sub formă de tablete și de tablete filmate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0189",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fd7b78d-fcb3-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "57008c3522f25ce97c0f246d158b6396ddca35ff8c0867e7ee1e06c2bfe38027"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1890-2026",
+   "path": "ue/regulament/2026/1890",
+   "short": "Regulamentul (UE) 2026/1890",
+   "title": "Regulamentul (UE) 2026/1890 al Comisiei din 29 iulie 2026 de modificare a Regulamentului (UE) 2023/915 în ceea ce privește nivelurile maxime ale sumei de furan, 2-metilfuran și 3-metilfuran în produsele alimentare pe bază de cereale prelucrate destinate sugarilor și copiilor de vârstă mică și în produsele alimentare ușor masticabile și ingerabile destinate copiilor de vârstă mică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1890",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3748a46-8bae-11f1-9262-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "98412dfda81d62a5bc65ed90e755e9bd7875c46b6226d0fa2694b0a233e741fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1891-2026",
+   "path": "ue/regulament/2026/1891",
+   "short": "Regulamentul (UE) 2026/1891",
+   "title": "Regulamentul (UE) 2026/1891 al Consiliului din 30 iulie 2026 de modificare a Regulamentului (UE) 2023/1529 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii și având în vedere acțiunile Iranului de subminare a libertății de navigație în Orientul Mijlociu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1891",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c59cf5c3-8c7b-11f1-9262-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e80da5acd2f9b17b2b201c9c1753fefd31b8107b859210af4924aa4b174ecd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1933-2026",
+   "path": "ue/regulament/2026/1933",
+   "short": "Regulamentul (UE) 2026/1933",
+   "title": "Regulamentul (UE) 2026/1933 al Consiliului din 13 iulie 2026 privind repartizarea posibilităților de pescuit prevăzute în Protocolul privind punerea în aplicare a Acordului de parteneriat în domeniul pescuitului durabil dintre Uniunea Europeană și Republica Seychelles (2026-2030)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1933",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a5a6d84-951d-11f1-9262-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7a4f9c8bde4d394ccf57c3518ddaefdde365f4a7fae07a3efe491a3e6f85d06b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-196-2026",
+   "path": "ue/regulament/2026/196",
+   "short": "Regulamentul (UE) 2026/196",
+   "title": "Regulamentul (UE) 2026/196 al Comisiei din 28 ianuarie 2026 de modificare a Regulamentului (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea caragenanului (E 407), a gumei din boabe de roșcove (E 410), a gumei de guar (E 412), a gumei arabice (gumă de acacia) (E 414), a gumei de xantan (E 415), a pectinelor (E 440) și a octenil succinatului de amidon și sodiu (E 1450) și a Regulamentului (UE) nr. 231/2012 al Comisiei în ceea ce privește specificațiile pentru guma din boabe de roșcove (E 410), guma de guar (E 412), guma arabică (gumă de acacia) (E 414), guma de xantan (E 415), pectinele (E 440) și octenil succinatul de amidon și sodiu (E 1450)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0196",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92ae301e-fcb3-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "80c77998fa9f09f72891882a51d9a98cf163621acc67400058e49637c4a5af44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2108-2026",
+   "path": "ue/regulament/2026/2108",
+   "short": "Regulamentul (UE) 2026/2108",
+   "title": "Regulamentul (UE) 2026/2108 al Parlamentului European și al Consiliului din 16 septembrie 2026 de instituire a Codului vamal al Uniunii, de înființare a Autorității Vamale a Uniunii Europene și de abrogare a Regulamentului (UE) nr. 952/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2108",
+   "versions": [
+    {
+     "from": "2026-09-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ca62864-b3c2-11f1-81de-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6ffc434dff7766374b0411e05947d62339622c8bbb2e83eb08d8d1ab77f94963"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-211-2026",
+   "path": "ue/regulament/2026/211",
+   "short": "Regulamentul (UE) 2026/211",
+   "title": "Regulamentul (UE) 2026/211 al Parlamentului European și al Consiliului din 20 ianuarie 2026 de modificare a Regulamentului (UE) 2021/1755 în ceea ce privește cuantumurile alocate statelor membre în cadrul rezervei de ajustare la Brexit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0211",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/142dcae8-f7fc-11f0-b9bc-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e4381819c905a5447203e75690f04f53b9db648ad4daaafb75e241ce8b1ef16a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-215-2026",
+   "path": "ue/regulament/2026/215",
+   "short": "Regulamentul (UE) 2026/215",
+   "title": "Regulamentul (UE) 2026/215 al Comisiei din 29 ianuarie 2026 de modificare a anexelor II și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de dimoxistrobin, etefon și propamocarb din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0215",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/81382eaf-fd7c-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3bf86f9565a7544db0c3d3a044bc607f291c03ef16c1ed36d5ad0779cbc5590f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2202-2026",
+   "path": "ue/regulament/2026/2202",
+   "short": "Regulamentul (UE) 2026/2202",
+   "title": "Regulamentul (UE) 2026/2202 al Parlamentului European și al Consiliului din 16 septembrie 2026 de modificare a Regulamentului (CE) nr. 261/2004 al Parlamentului European și al Consiliului de stabilire a unor norme comune în materie de compensare și de asistență a pasagerilor în eventualitatea refuzului la îmbarcare și anulării sau întârzierii prelungite a zborurilor și a Regulamentului (CE) nr. 2027/97 al Consiliului privind răspunderea operatorilor de transport aerian privind transportul aerian al pasagerilor și al bagajelor acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2202",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54406a3d-bdf9-11f1-9aae-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b8536a786e97153294fc4ca79dc05e06696fcd073dadd7709f5045c1a6891048"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2259-2026",
+   "path": "ue/regulament/2026/2259",
+   "short": "Regulamentul (UE) 2026/2259",
+   "title": "Regulamentul (UE) 2026/2259 al Consiliului din 9 octombrie 2026 de modificare a Regulamentului (UE) 2016/44 privind măsuri restrictive având în vedere situația din Libia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2259",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc7c16e2-c5d6-11f1-bfcb-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bd5441972677b9beff592517feabcd25ac7bd43489ef66940e76a8ca44aeaa2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2269-2026",
+   "path": "ue/regulament/2026/2269",
+   "short": "Regulamentul (UE) 2026/2269",
+   "title": "Regulamentul (UE) 2026/2269 al Parlamentului European și al Consiliului din 7 octombrie 2026 privind unele măsuri de liberalizare temporară a comerțului aplicabile anumitor produse originare din Republica Armenia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2269",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce45196a-c379-11f1-bfcb-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d7caa23acfa1bc567d9e919ebc822de3622c75c70869542382e48d1b2e15b9f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2280-2026",
+   "path": "ue/regulament/2026/2280",
+   "short": "Regulamentul (UE) 2026/2280",
+   "title": "Regulamentul (UE) 2026/2280 al Parlamentului European și al Consiliului din 7 octombrie 2026 de instituire a unui sistem comun pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală în Uniune și de abrogare a Directivei 2008/115/CE a Parlamentului European și a Consiliului, a Directivei 2001/40/CE a Consiliului și a Deciziei 2004/191/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2280",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbec2e15-c830-11f1-a77b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "83b47a323c2e89d0304ec7525b54ac22f783daa2fafcbda09a90a5567a4caffe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2289-2026",
+   "path": "ue/regulament/2026/2289",
+   "short": "Regulamentul (UE) 2026/2289",
+   "title": "Regulamentul (UE) 2026/2289 al Comisiei din 15 octombrie 2026 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de acequinocil, deltametrin, dodină, hidrazidă maleică, pinoxaden și protioconazol din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2289",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a8b0ca5-c8fb-11f1-97f3-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9bc92ba592418a2e7788b1cb5c979a578012678e78469623ca9e69133f45496d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2299-2026",
+   "path": "ue/regulament/2026/2299",
+   "short": "Regulamentul (UE) 2026/2299",
+   "title": "Regulamentul (UE) 2026/2299 al Comisiei din 15 octombrie 2026 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de difenoconazol din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2299",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49a962c2-c8fb-11f1-97f3-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e5bb64a89748a08b88d743f8f77fa4222cee7b950ea935486799c98faf7f4055"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2359-2026",
+   "path": "ue/regulament/2026/2359",
+   "short": "Regulamentul (UE) 2026/2359",
+   "title": "Regulamentul (UE) 2026/2359 al Parlamentului European și al Consiliului din 7 octombrie 2026 de modificare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială și a Regulamentului (CE) nr. 987/2009 de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 (Text cu relevanță pentru SEE și Elveția)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2359",
+   "versions": [
+    {
+     "from": "2026-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5794f71b-d1a7-11f1-9458-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4c0e442cf862c677956b41af3aa377973c00dbeb568e9aa6921518063ba7ab9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2374-2026",
+   "path": "ue/regulament/2026/2374",
+   "short": "Regulamentul (UE) 2026/2374",
+   "title": "Regulamentul (UE) 2026/2374 al Consiliului din 26 octombrie 2026 de modificare a Regulamentului (CE) nr. 1183/2005 privind măsuri restrictive având în vedere situația din Republica Democratică Congo",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2374",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01cdbd7f-d1a7-11f1-9458-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ad1680ab182ac5ed19261271767d7ae5483e1a3e755a915490c46ccff9b3d728"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2387-2026",
+   "path": "ue/regulament/2026/2387",
+   "short": "Regulamentul (UE) 2026/2387",
+   "title": "Regulamentul (UE) 2026/2387 al Parlamentului European și al Consiliului din 21 octombrie 2026 de instituire a Programului pentru inovarea agilă și rapidă în domeniul apărării (AGILE) și de modificare a Regulamentelor (UE) 2024/795 și (UE) 2026/467 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R2387",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e34c232f-d727-11f1-b0c5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "dff5732142b87885a6b9f94f32075bc8a4ca1abb4a9fdfd6158a7556fbd33155"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-245-2026",
+   "path": "ue/regulament/2026/245",
+   "short": "Regulamentul (UE) 2026/245",
+   "title": "Regulamentul (UE) 2026/245 al Comisiei din 2 februarie 2026 de modificare a anexei I la Regulamentul (UE) nr. 10/2011 în ceea ce privește autorizarea sau condițiile de utilizare a mai multor substanțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0245",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/24254423-00a2-11f1-825d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "27b5a56756f8ccddec053996d84b85a83d48204c1dd0e660b4aa4b5a08b7713d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-247-2026",
+   "path": "ue/regulament/2026/247",
+   "short": "Regulamentul (UE) 2026/247",
+   "title": "Regulamentul (UE) 2026/247 al Comisiei din 2 februarie 2026 de modificare a Regulamentului (CE) nr. 300/2008 al Parlamentului European și al Consiliului în ceea ce privește specificațiile pentru programele naționale de control al calității în domeniul securității aviației civile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0247",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bece1ebb-00a1-11f1-825d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9e5392d5ad87f6acae19bedfaaa5b70475a452a2d00775173714cda8aee688ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-249-2026",
+   "path": "ue/regulament/2026/249",
+   "short": "Regulamentul (UE) 2026/249",
+   "title": "Regulamentul (UE) 2026/249 al Consiliului din 26 ianuarie 2026 de stabilire, pentru anii 2026, 2027 și 2028, a posibilităților de pescuit pentru anumite stocuri de pește, aplicabile în apele Uniunii și, pentru navele de pescuit din Uniune, în anumite ape din afara Uniunii, și de modificare a Regulamentul (UE) 2025/202",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0249",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7db4d711-fd80-11f0-8da5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1b9f7bd433f4463a76874eda918c2a66d0031f5597b309f92462cf96c4c8396b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-250-2026",
+   "path": "ue/regulament/2026/250",
+   "short": "Regulamentul (UE) 2026/250",
+   "title": "Regulamentul (UE) 2026/250 al Comisiei din 2 februarie 2026 de rectificare a Regulamentului (UE) 2024/3190 privind utilizarea bisfenolului A (BPA) și a altor bisfenoli și derivați ai bisfenolului cu clasificare armonizată pentru proprietăți periculoase specifice în anumite materiale și articole destinate să vină în contact cu alimentele, de modificare a Regulamentului (UE) nr. 10/2011 și de abrogare a Regulamentului (UE) 2018/213",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0250",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f87b2c5-00a1-11f1-825d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ca7dc600bd1e3acc08ef21c8936ed6474ca38f218136d7c246a4b69d6005533f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-261-2026",
+   "path": "ue/regulament/2026/261",
+   "short": "Regulamentul (UE) 2026/261",
+   "title": "Regulamentul (UE) 2026/261 al Parlamentului European și al Consiliului din 26 ianuarie 2026 privind eliminarea treptată a importurilor de gaze naturale din Rusia și pregătirea eliminării treptate a importurilor de petrol din Rusia, îmbunătățirea monitorizării potențialelor dependențe energetice și de modificare a Regulamentului (UE) 2017/1938",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0261",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c94b1b3-ffda-11f0-8da5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2ef4cb2f33831b1e1f90f25c93ff99813aec89512f072cff89b4e1f9c4009d0f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-266-2026",
+   "path": "ue/regulament/2026/266",
+   "short": "Regulamentul (UE) 2026/266",
+   "title": "Regulamentul (UE) 2026/266 al Consiliului din 26 ianuarie 2026 de stabilire a posibilităților de pescuit pentru anul 2026 pentru anumite stocuri de pește și grupuri de stocuri de pește aplicabile în Marea Mediterană și în Marea Neagră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0266",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/267e551a-fd80-11f0-8da5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ac940134390f4592810648765c5d1fcc3b17e8db2b9663141a310d547e7aef23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-271-2026",
+   "path": "ue/regulament/2026/271",
+   "short": "Regulamentul (UE) 2026/271",
+   "title": "Regulamentul (UE) 2026/271 al Consiliului din 29 ianuarie 2026 de modificare a Regulamentului (UE) 2023/1529 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0271",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d737a4b4-fd7e-11f0-8da5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3502ed3a17b017a48b71109d53d047ab6faa766aee1a4cb0ef4e90e6aa452b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-338-2026",
+   "path": "ue/regulament/2026/338",
+   "short": "Regulamentul (UE) 2026/338",
+   "title": "Regulamentul (UE) 2026/338 al Comisiei din 13 februarie 2026 de modificare a Regulamentului (UE) 2023/1803 în ceea ce privește Standardul internațional de raportare financiară 18",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0338",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ebfd6845-0ad9-11f1-8870-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9a6c3c1b018435872c1204b125200ea0c8914e4d331a716d970706e8089df2b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-340-2026",
+   "path": "ue/regulament/2026/340",
+   "short": "Regulamentul (UE) 2026/340",
+   "title": "Regulamentul (UE) 2026/340 al Comisiei din 16 februarie 2026 de rectificare a anumitor versiuni lingvistice ale Regulamentului (UE) nr. 231/2012 de stabilire a specificațiilor pentru aditivii alimentari enumerați în anexele II și III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0340",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/495e8fd6-0ba1-11f1-8870-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "67c1d2c3d5aabcad503ed3244b1331b307ab1d699a45997e20e9cb55cfb0b8fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-361-2026",
+   "path": "ue/regulament/2026/361",
+   "short": "Regulamentul (UE) 2026/361",
+   "title": "Regulamentul (UE) 2026/361 al Comisiei din 19 februarie 2026 de modificare a Regulamentului (UE) nr. 582/2011 în ceea ce privește omologarea de tip privind emisiile a vehiculelor grele cu dispozitive de monitorizare la bord a consumului de combustibil și de energie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0361",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/662c441b-0dfd-11f1-8870-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9293a45e2f9f3e6bbdc1f83ef8434719bd0bb9bdbed66baf368c1aa29a768d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-382-2026",
+   "path": "ue/regulament/2026/382",
+   "short": "Regulamentul (UE) 2026/382",
+   "title": "Regulamentul (UE) 2026/382 al Consiliului din 11 februarie 2026 de modificare a Regulamentului (CE) nr. 1186/2009 în ceea ce privește eliminarea scutirii de taxe vamale bazate pe praguri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0382",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ae65d0b-0c6b-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "02a2996e0b8c0ddf6d785d152abe2084a4639dd347850e5bad6f7e06b14aae8b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-384-2026",
+   "path": "ue/regulament/2026/384",
+   "short": "Regulamentul (UE) 2026/384",
+   "title": "Regulamentul (UE) 2026/384 al Consiliului din 17 februarie 2026 de modificare a Regulamentului (CE) nr. 314/2004 privind măsuri restrictive având în vedere situația din Zimbabwe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0384",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd6a1713-0c6a-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "47d0f095f9a6b1aa37bcd866e501b7d1399c9f986d1dd845d7c72d93c972bac6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-405-2026",
+   "path": "ue/regulament/2026/405",
+   "short": "Regulamentul (UE) 2026/405",
+   "title": "Regulamentul (UE) 2026/405 al Parlamentului European și al Consiliului din 11 februarie 2026 privind detergenții și agenții tensioactivi și de abrogare a Regulamentului (CE) nr. 648/2004 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0405",
+   "versions": [
+    {
+     "from": "2026-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/886a72ea-15d9-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "37ea0fda5797ca64c292279589655208bbaf79005d0fe485c4934e641c134ccc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-415-2026",
+   "path": "ue/regulament/2026/415",
+   "short": "Regulamentul (UE) 2026/415",
+   "title": "Regulamentul (UE) 2026/415 al Consiliului din 16 decembrie 2025 de modificare a Regulamentului (CE) nr. 2533/98 privind colectarea informațiilor statistice de către Banca Centrală Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0415",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65db3dea-0dfd-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "628dd9cd1914cd3e7b8cb39cfeaba719db3065013b6a8608921554150028fa74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-456-2026",
+   "path": "ue/regulament/2026/456",
+   "short": "Regulamentul (UE) 2026/456",
+   "title": "Regulamentul (UE) 2026/456 din 26 februarie 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0456",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e62822fb-131f-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "583835d3888fd041bfa1ec26f131ad5971c172413655193164ffd99d77824c0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-463-2026",
+   "path": "ue/regulament/2026/463",
+   "short": "Regulamentul (UE) 2026/463",
+   "title": "Regulamentul (UE) 2026/463 al Parlamentului European și al Consiliului din 24 februarie 2026 de modificare a Regulamentului (UE) 2024/1348 în ceea ce privește aplicarea conceptului de țară terță sigură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0463",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8ad516ca-12b4-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b453bd4267d8d806b069a1339df3033efa1b79fb7b7754851f6aaaf5f32d1115"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-464-2026",
+   "path": "ue/regulament/2026/464",
+   "short": "Regulamentul (UE) 2026/464",
+   "title": "Regulamentul (UE) 2026/464 al Parlamentului European și al Consiliului din 24 februarie 2026 de modificare a Regulamentului (UE) 2024/1348 în ceea ce privește întocmirea unei liste a țărilor de origine sigure la nivelul Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0464",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec91f3a6-12b3-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3c7021c4a6791d067140830bbb3cca71155be622b4a1adba50bee4b0f221e50c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-467-2026",
+   "path": "ue/regulament/2026/467",
+   "short": "Regulamentul (UE) 2026/467",
+   "title": "Regulamentul (UE) 2026/467 al Parlamentului European și al Consiliului din 24 februarie 2026 de punere în aplicare a unei cooperări consolidate în ceea ce privește instituirea împrumutului pentru sprijinirea Ucrainei pentru 2026 și 2027",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0467",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93effac6-12b3-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4b7338805783d1f09fcbff188082e5c3a8ec366d6e5e13cdc26fad787440c6e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-468-2026",
+   "path": "ue/regulament/2026/468",
+   "short": "Regulamentul (UE) 2026/468",
+   "title": "Regulamentul (UE) 2026/468 al Parlamentului European și al Consiliului din 24 februarie 2026 de modificare a Regulamentului (UE) 2024/792 de instituire a Mecanismului pentru Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0468",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/972b0c54-12b4-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d9be0bf1c0223c08386c906f9060785dc2f3ab9ae1d96544dbba617245462757"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-469-2026",
+   "path": "ue/regulament/2026/469",
+   "short": "Regulamentul (UE) 2026/469",
+   "title": "Regulamentul (UE) 2026/469 al Consiliului din 23 aprilie 2026 de modificare a Regulamentului (UE, Euratom) nr. 2020/2093 de stabilire a cadrului financiar multianual pentru perioada 2021-2027",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0469",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4da0de14-3f14-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a32083c1ee3cf7e848f99dafb19101508f60b31635ee888016369dd08d3c5c4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-471-2026",
+   "path": "ue/regulament/2026/471",
+   "short": "Regulamentul (UE) 2026/471",
+   "title": "Regulamentul (UE) 2026/471 al Parlamentului European și al Consiliului din 24 februarie 2026 de modificare a Regulamentelor (UE) nr. 1308/2013, (UE) nr. 251/2014 și (UE) 2021/2115 în ceea ce privește anumite norme privind piața și anumite măsuri de sprijin sectorial în sectorul vitivinicol și pentru produsele vitivinicole aromatizate și a Regulamentului (UE) 2024/1143 în ceea ce privește anumite norme de etichetare pentru băuturile spirtoase",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0471",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb7aa1fc-12b3-11f1-8870-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9385474382560c7dbf12ecddae0bb1c050de84696985bfc26ef9600c4849614a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-506-2026",
+   "path": "ue/regulament/2026/506",
+   "short": "Regulamentul (UE) 2026/506",
+   "title": "Regulamentul (UE) 2026/506 din 23 aprilie 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0506",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b87e7fd7-3f1f-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c1206f1d8718bee160e0ec09708138f6da56d85af133698d55ce2be610710bf3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-511-2026",
+   "path": "ue/regulament/2026/511",
+   "short": "Regulamentul (UE) 2026/511",
+   "title": "Regulamentul (UE) 2026/511 al Consiliului din 23 aprilie 2026 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0511",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4b0b67f-3f1a-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d6611cfca73695776a4820eaba7bbd892dec6146d2ae1acef2ed0d861376522d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-513-2026",
+   "path": "ue/regulament/2026/513",
+   "short": "Regulamentul (UE) 2026/513",
+   "title": "Regulamentul (UE) 2026/513 al Consiliului din 23 aprilie 2026 de modificare a Regulamentului (CE) nr. 765/2006 privind măsuri restrictive având în vedere situația din Belarus și implicarea Belarusului în agresiunea Rusiei împotriva Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0513",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c00be45-3f1e-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e3b64d4eadbee2b9e2123b78912709f77145227fcf946ea39821f6d6a1543075"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-562-2026",
+   "path": "ue/regulament/2026/562",
+   "short": "Regulamentul (UE) 2026/562",
+   "title": "Regulamentul (UE) 2026/562 al Comisiei din 16 martie 2026 de declarare a anumitor categorii de ajutoare în sectorul transportului feroviar, al transportului pe căile navigabile interioare și al transportului multimodal compatibile cu piața internă, în aplicarea articolelor 93, 107 și 108 din Tratatul privind funcționarea Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0562",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca986f5c-2bd2-11f1-906d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "916d774f24a582b1a0684e8c66328e0828c22bdb883a387e5251b4b7b868ef4a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-667-2026",
+   "path": "ue/regulament/2026/667",
+   "short": "Regulamentul (UE) 2026/667",
+   "title": "Regulamentul (UE) 2026/667 al Parlamentului European și al Consiliului din 11 martie 2026 de modificare a Regulamentului (UE) 2021/1119 în ceea ce privește stabilirea unui obiectiv climatic intermediar al Uniunii pentru 2040",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0667",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea8d6d86-226e-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b7aba05222766f8562f16517ba1b01e9201cd75e556af6677eb30b5a787fd45e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-687-2026",
+   "path": "ue/regulament/2026/687",
+   "short": "Regulamentul (UE) 2026/687",
+   "title": "Regulamentul (UE) 2026/687 al Parlamentului European și al Consiliului din 11 martie 2026 de punere în aplicare a clauzelor de salvgardare bilaterale din Acordul de parteneriat UE-Mercosur și din Acordul interimar privind comerțul UE-Mercosur în ceea ce privește produsele agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0687",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1788372-2335-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ba39880b36500ae6df951902087c765e8e5fcb6b421927a8ebd95edd8f6ce325"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-697-2026",
+   "path": "ue/regulament/2026/697",
+   "short": "Regulamentul (UE) 2026/697",
+   "title": "Regulamentul (UE) 2026/697 al Parlamentului European și al Consiliului din 11 martie 2026 privind cooperarea dintre autoritățile de aplicare a legii însărcinate cu asigurarea respectării Directivei (UE) 2019/633 privind practicile comerciale neloiale dintre întreprinderi în cadrul lanțului de aprovizionare agricol și alimentar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0697",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d93ced9-23ff-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7f9a0258c7667eea69502849a6913fa24af92dc55be74a9629737d85195de333"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-715-2026",
+   "path": "ue/regulament/2026/715",
+   "short": "Regulamentul (UE) 2026/715",
+   "title": "Regulamentul (UE) 2026/715 al Parlamentului European și al Consiliului din 11 martie 2026 privind desenele și modelele industriale ale Uniunii Europene (codificare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0715",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68c1a1e3-2bd3-11f1-906d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1f440cb718a0226e7c8c766f274212a44a09191d82fe0ac15db1a6ba0912f86c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-742-2026",
+   "path": "ue/regulament/2026/742",
+   "short": "Regulamentul (UE) 2026/742",
+   "title": "Regulamentul (UE) 2026/742 al Comisiei din 30 martie 2026 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de ciflufenamid, fenazaquin și nicotină din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0742",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eee12a88-2c9c-11f1-906d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a19897668110f5f533008d29affb90641358e273841920330f49e99b8cfef6b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-751-2026",
+   "path": "ue/regulament/2026/751",
+   "short": "Regulamentul (UE) 2026/751",
+   "title": "Regulamentul (UE) 2026/751 al Comisiei din 31 martie 2026 de rectificare a Regulamentului (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru flupiradifuron și fosfonat de potasiu din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0751",
+   "versions": [
+    {
+     "from": "2026-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57a7e134-2d66-11f1-906d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "eeeff79519f973f84677bb1d5cf8f6972bbec80ae437539e0dbc1efd342e0901"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-752-2026",
+   "path": "ue/regulament/2026/752",
+   "short": "Regulamentul (UE) 2026/752",
+   "title": "Regulamentul (UE) 2026/752 al Comisiei din 31 martie 2026 de modificare a anexei IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru Allium fistulosum, prelucrat, lizat de Willaertia magna, hidroxid de magneziu E528, Onobrychis viciifolia (sparceta) sub formă de granule uscate și extract din semințe de Vitis vinifera L. (extract din semințe de struguri) din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0752",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57b80dd5-2d66-11f1-906d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2ab4a494b4287d7b2388b516d1b88d10cb9ac41661861b45b7f3165eb2d3b728"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-759-2026",
+   "path": "ue/regulament/2026/759",
+   "short": "Regulamentul (UE) 2026/759",
+   "title": "Regulamentul (UE) 2026/759 al Consiliului din 30 martie 2026 de modificare a Regulamentului (UE) nr. 267/2012 privind măsuri restrictive împotriva Iranului și de abrogare a Regulamentului (UE) nr. 961/2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0759",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b38ca0f-2c9c-11f1-906d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8427482c0354b9e11770a6fd975d46117a4ab6c526ceeb89a8ff66e937e22e7a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-78-2026",
+   "path": "ue/regulament/2026/78",
+   "short": "Regulamentul (UE) 2026/78",
+   "title": "Regulamentul (UE) 2026/78 al Comisiei din 12 ianuarie 2026 de modificare a Regulamentului (CE) nr. 1223/2009 al Parlamentului European și al Consiliului în ceea ce privește utilizarea în produsele cosmetice a anumitor substanțe clasificate drept cancerigene, mutagene sau toxice pentru reproducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0078",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/37a475ba-f020-11f0-8d3c-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "062da5b6eee489e78ab895a85768460cdd7beadddb5ca81ce48dbf4474ed2f53"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-786-2026",
+   "path": "ue/regulament/2026/786",
+   "short": "Regulamentul (UE) 2026/786",
+   "title": "Regulamentul (UE) 2026/786 al Consiliului din 30 martie 2026 de modificare a Regulamentului (UE) 2026/249 de stabilire, pentru anii 2026, 2027 și 2028, a posibilităților de pescuit pentru anumite stocuri de pește, aplicabile în apele Uniunii și, pentru navele de pescuit din Uniune, în anumite ape din afara Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0786",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb7fd716-2c9c-11f1-906d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "514ea2d4daf22c58f40b9d8067eb7f1eec03d52c64d400915b8fed2b805519de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-808-2026",
+   "path": "ue/regulament/2026/808",
+   "short": "Regulamentul (UE) 2026/808",
+   "title": "Regulamentul (UE) 2026/808 al Parlamentului European și al Consiliului din 30 martie 2026 de modificare a Regulamentului (UE) nr. 806/2014 în ceea ce privește măsurile de intervenție timpurie, condițiile pentru declanșarea procedurii de rezoluție și finanțarea măsurilor de rezoluție (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0808",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c75d9f2-3c51-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6366694f098661386f1030c83ad4560744a2308c6197d842598d1741314cd793"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-840-2026",
+   "path": "ue/regulament/2026/840",
+   "short": "Regulamentul (UE) 2026/840",
+   "title": "Regulamentul (UE) 2026/840 al Comisiei din 15 aprilie 2026 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile compușilor de cupru din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0840",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b457fba-393f-11f1-be39-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "89d2bf42479e60bad661aeca08e5de5d377628c21c18c9bb6f3437a6288d0b52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-859-2026",
+   "path": "ue/regulament/2026/859",
+   "short": "Regulamentul (UE) 2026/859",
+   "title": "Regulamentul (UE) 2026/859 al Comisiei din 20 aprilie 2026 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește 2,4-dinitrotoluenul din articole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0859",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad1abad6-3d1a-11f1-814f-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "dc97f0487d6230757ce13878c78e18ca493548f75a70642ffabe1ba0ea842b79"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-876-2026",
+   "path": "ue/regulament/2026/876",
+   "short": "Regulamentul (UE) 2026/876",
+   "title": "Regulamentul (UE) 2026/876 al Comisiei din 21 aprilie 2026 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru acetamiprid, aclonifen, deltametrin, oxatiapiprolin și fosfonați de potasiu din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0876",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27cf0667-3de5-11f1-814f-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "02eec3e4bd2d76bbbbee54cf834e956ab1a03036dcb24fe03fb411e09e31d7de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-877-2026",
+   "path": "ue/regulament/2026/877",
+   "short": "Regulamentul (UE) 2026/877",
+   "title": "Regulamentul (UE) 2026/877 al Comisiei din 16 aprilie 2026 privind aplicarea articolului 101 alineatul (3) din Tratatul privind funcționarea Uniunii Europene categoriilor de acorduri de transfer de tehnologie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0877",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e64dc4e-3d1a-11f1-814f-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "56d1979582b7d804ee6f97e9c05127c11d76263f0636062c8dcadc3714dcb376"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-909-2026",
+   "path": "ue/regulament/2026/909",
+   "short": "Regulamentul (UE) 2026/909",
+   "title": "Regulamentul (UE) 2026/909 al Comisiei din 27 aprilie 2026 de modificare a Regulamentului (CE) nr. 1223/2009 al Parlamentului European și al Consiliului în ceea ce privește utilizarea Benzyl Salicylate, Triphenyl Phosphate, Ammonium Silver Zinc Aluminium Silicate, aluminiului, sărurilor de zinc solubile în apă, uleiului acetilat de Vetiver, Citral, HC Blue No. 18, HC Red No. 18, HC Yellow No. 16, Hydroxypropyl-p-phenylenediamine și a sării sale de diclorhidrat și substanței DHHB în produsele cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0909",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8bc7010-429a-11f1-8095-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e74b50f52bff540161fb0e0d4487df4183b7c7ead53645297f089538f0640860"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-995-2026",
+   "path": "ue/regulament/2026/995",
+   "short": "Regulamentul (UE) 2026/995",
+   "title": "Regulamentul (UE) 2026/995 al Parlamentului European și al Consiliului din 29 aprilie 2026 de modificare a Regulamentului (UE) 2021/947 în ceea ce privește creșterea eficienței garanției pentru acțiunea externă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0995",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b551a3fc-4753-11f1-8095-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a33c8bf115a023472ac47ec8716110ce87e42e551fa8ba70a53141058f46daa3"
+    }
+   ]
   }
  ]
 }

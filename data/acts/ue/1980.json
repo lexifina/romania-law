@@ -21,6 +21,43 @@
 "flags": {
 "figures_missing": 5
 }
+},
+{
+"slug": "ue-directiva-754-1980",
+"path": "ue/directiva/1980/754",
+"kind": "ue",
+"year": "1980",
+"number": "754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 17 iulie 1980 de modificare a anexei II la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere",
+"short": "Directiva 80/754/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1980-07-18",
+"latest": "1980-07-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31980L0754"
+},
+{
+"slug": "ue-directiva-1335-1980",
+"path": "ue/directiva/1980/1335",
+"kind": "ue",
+"year": "1980",
+"number": "1335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 22 Decembrie 1980 privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+"short": "Directiva 80/1335/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1981-01-20",
+"latest": "1981-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31980L1335",
+"flags": {
+"figures_missing": 15
+}
 }
 ]
 }

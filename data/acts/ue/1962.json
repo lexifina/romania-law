@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1962",
+"acts": [
+{
+"slug": "ue-directiva-302-1962",
+"path": "ue/directiva/1962/302",
+"kind": "ue",
+"year": "1962",
+"number": "302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva privind liberul acces la locurile de muncă pentru personal calificat în domeniul nuclear",
+"short": "Directiva CELEX 31962L0302",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1962-03-08",
+"latest": "1962-03-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31962L0302"
+}
+]
+}

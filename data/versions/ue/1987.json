@@ -3,6 +3,21 @@
  "shard": "ue/1987",
  "acts": [
   {
+   "slug": "ue-directiva-120-1987",
+   "path": "ue/directiva/1987/120",
+   "short": "Directiva 87/120/CEE",
+   "title": "Directiva Comisiei din 14 ianuarie 1987 de modificare a unor directive ale Consiliului privind comercializarea semințelor și a materialului săditor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0120",
+   "versions": [
+    {
+     "from": "1987-02-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efbaab27-0325-4b00-8386-d26efbd300d0.0022.04/DOC_3",
+     "sha256": "6fefb8d527c71c6330025361ca5906cb796091d1768dd2ca8b0150e32a7adb52"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-143-1987",
    "path": "ue/directiva/1987/143",
    "short": "Directiva 87/143/CEE",
@@ -59,6 +74,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d9644fc4-8f35-4b08-868c-17b57772a096.0022.03/DOC_99",
      "sha256": "32a255b7badef8e3798d72491ef1c9a30e53d54c33087e069a8fc68486e9fc81"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-480-1987",
+   "path": "ue/directiva/1987/480",
+   "short": "Directiva 87/480/CEE",
+   "title": "Directiva Comisiei din 9 septembrie 1987 de modificare a directivelor 66/401/CEE și 69/208/CEE ale Consiliului privind comercializarea semințelor de plante furajere și a semințelor de plante oleaginoase și pentru fibră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0480",
+   "versions": [
+    {
+     "from": "1987-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/164d4fbf-12ad-4faf-a9a0-3738985c6097.0022.04/DOC_3",
+     "sha256": "c6cf1bb819a38be2684f86b252f4edf55791c3b42e6ef15bf2769137d28c0679"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-524-1987",
+   "path": "ue/directiva/1987/524",
+   "short": "Directiva 87/524/CEE",
+   "title": "Prima Directivă a Comisiei din 6 octombrie 1987 de stabilire a metodelor comunitare de prelevare a probelor în vederea analizelor chimice pentru monitorizarea produselor din lapte conservate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0524",
+   "versions": [
+    {
+     "from": "1987-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34b93fac-7133-4521-989b-0ca312c024c2.0022.03/DOC_7",
+     "sha256": "941d251730b01439d38ca2c125ae0cc28a9eaa82d296ad804a98a182e171e2ca"
     }
    ]
   },

@@ -37,6 +37,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0130"
 },
 {
+"slug": "ue-regulament-452-2019",
+"path": "ue/regulament/2019/452",
+"kind": "ue",
+"year": "2019",
+"number": "452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/452 al Parlamentului European și al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investițiilor străine directe în Uniune",
+"short": "Regulamentul (UE) 2019/452",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-04-10",
+"latest": "2019-04-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0452",
+"flags": {
+"end_of_validity": "2028-01-16"
+}
+},
+{
 "slug": "ue-directiva-475-2019",
 "path": "ue/directiva/2019/475",
 "kind": "ue",
@@ -69,6 +89,23 @@
 "from": "2019-04-18",
 "latest": "2019-04-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0514"
+},
+{
+"slug": "ue-regulament-515-2019",
+"path": "ue/regulament/2019/515",
+"kind": "ue",
+"year": "2019",
+"number": "515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/515 al Parlamentului European și al Consiliului din 19 martie 2019 privind recunoașterea reciprocă a mărfurilor comercializate în mod legal în alt stat membru și de abrogare a Regulamentului (CE) nr. 764/2008 (Text cu relevanță pentru SEE.)",
+"short": "Regulamentul (UE) 2019/515",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-04-18",
+"latest": "2019-04-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0515"
 },
 {
 "slug": "ue-directiva-520-2019",
@@ -171,6 +208,23 @@
 "from": "2019-06-05",
 "latest": "2019-06-05",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0782"
+},
+{
+"slug": "ue-regulament-788-2019",
+"path": "ue/regulament/2019/788",
+"kind": "ue",
+"year": "2019",
+"number": "788",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/788 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind inițiativa cetățenească europeană (Text cu relevanță pentru SEE.)",
+"short": "Regulamentul (UE) 2019/788",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-06-06",
+"latest": "2019-06-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0788"
 },
 {
 "slug": "ue-directiva-789-2019",
@@ -372,6 +426,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0997"
 },
 {
+"slug": "ue-regulament-1021-2019",
+"path": "ue/regulament/2019/1021",
+"kind": "ue",
+"year": "2019",
+"number": "1021",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului din 20 iunie 2019 privind poluanții organici persistenți (reformare) (Text cu relevanță pentru SEE.)",
+"short": "Regulamentul (UE) 2019/1021",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-07-15",
+"latest": "2019-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1021"
+},
+{
 "slug": "ue-directiva-1023-2019",
 "path": "ue/directiva/2019/1023",
 "kind": "ue",
@@ -404,6 +475,26 @@
 "from": "2019-07-16",
 "latest": "2019-07-16",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L1024"
+},
+{
+"slug": "ue-regulament-1148-2019",
+"path": "ue/regulament/2019/1148",
+"kind": "ue",
+"year": "2019",
+"number": "1148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/1148 al Parlamentului European și al Consiliului din 20 iunie 2019 privind comercializarea și utilizarea precursorilor de explozivi, de modificare a Regulamentului (CE) nr. 1907/2006 și de abrogare a Regulamentului (UE) nr. 98/2013 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2019/1148",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-07-31",
+"latest": "2019-07-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1148",
+"flags": {
+"figures_missing": 2
+}
 },
 {
 "slug": "ue-directiva-1151-2019",
@@ -543,6 +634,23 @@
 "from": "2019-08-13",
 "latest": "2019-08-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L1258"
+},
+{
+"slug": "ue-regulament-1381-2019",
+"path": "ue/regulament/2019/1381",
+"kind": "ue",
+"year": "2019",
+"number": "1381",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/1381 al Parlamentului European și al Consiliului din 20 iunie 2019 privind transparența și durabilitatea modelului UE de evaluare a riscurilor în cadrul lanțului alimentar și de modificare a Regulamentelor (CE) nr. 178/2002, (CE) nr. 1829/2003, (CE) nr. 1831/2003, (CE) nr. 2065/2003, (CE) nr. 1935/2004, (CE) nr. 1331/2008, (CE) nr. 1107/2009, (UE) 2015/2283 și a Directivei 2001/18/CE (Text cu relevanță pentru SEE.)",
+"short": "Regulamentul (UE) 2019/1381",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-09-26",
+"latest": "2019-09-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1381"
 },
 {
 "slug": "ue-directiva-1831-2019",

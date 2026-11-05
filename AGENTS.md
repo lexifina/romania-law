@@ -41,6 +41,7 @@ The tools choose each version by the commit's `In-force:` trailer, never by comm
 ## Find a court decision
 
 - `jurisprudenta/ccr/<year>/<number>/` (Constitutional Court), `jurisprudenta/iccj/<panel>/<year>/<number>/` (High Court of Cassation and Justice; panels `ril`, `hp`, `hp-penal`, `su`, `scaf`), `jurisprudenta/cedo/<year>/<application>/` (European Court of Human Rights). Each holds the text as published (`decizie.md`, or `hotarare.md` for an ECHR judgment), one paragraph per line, and `meta.json`. A 1993–1995 plenary decision is `ccr/<year>/plen-<n>/`; ÎCCJ United Sections numbers printed in Roman numerals are given in digits (`su/2007/22/` is Decizia nr. XXII/2007).
+- `jurisprudenta/cjue/<year>/<case>-<kind>/` holds Court of Justice of the EU decisions concerning Romania (`kind`: `hotarare`, `ordonanta`, `concluzii`), from the EU Publications Office: `meta.json` (identifiers, the Romanian referring court and file, the EU acts interpreted, linked to `ue/`) and `dispozitiv.md`, the operative part only. Full texts are not included (they name parties' lawyers and, before mid-2018, private parties).
 - `meta.json`: `key` (the id: `dcc-623-2019`, `iccj-ril-13-2023`, `iccj-hp-penal-8-2015`, `cedo-3594-19-2020-05-05`), `number`, `date` (of the decision), `mo` (Monitorul Oficial number and date), `binding_from`, `kind` and `subkind` (CCR: `exceptie`, `a-priori`, `alta`; ÎCCJ: `RIL`, `HP`, `alta`), `panel`, `outcome` (`admitted`, `rejected`, `other`; ECHR: `violation`, `no-violation`, `inadmissible`, `struck-out`, `friendly-settlement`), `finds_unconstitutional`, `interpretive`, `rejected_as` (`neintemeiata`, `inadmisibila`, `devenita-inadmisibila`, `fara-obiect`), `operative` (the operative part, one item per paragraph), `subjects` (the acts and articles it rules on, read from its title and operative part, not its reasoning; the Constitution is the standard, not a subject), `cites` (every act its text cites, with counts), `source` (the page and the text's sha256) and `warnings` (where a rule could not read a field). These fields are read by rules, not by hand.
 - A code is resolved by name and date: "Codul penal" in a decision of 2010 is `lege/1968/15`, in 2015 `lege/2009/286`.
 - `data/decisions.json` (and `.csv`) has one row per decision on main. `data/rulings-by-provision.json` maps an act's folder (`lege/2009/287`) and article (`2526`, `112-1` for art. 112^1) to the ids of the decisions on it; `jurisprudenta/acte/<act folder>.md` is the same for people.
@@ -77,6 +78,13 @@ When only the credit was wrong (the words are right, but a change was credited t
 - it lists the corrected credits in the act's README.md, under "Credits corrected".
 
 `git blame` still names the commit that wrote the words, and `tools/on.py --law` gives the corrected law. To credit a change, take the commit's author, unless `data/credits.csv` has a row for that act, day and provision; if it has several, the last one counts.
+
+## Other sources
+
+- `ue/<regulament|directiva|decizie>/<year>/<number>/`: EU acts in force, in their Romanian text as published in the Official Journal (`meta.json`: CELEX id, dates, OJ reference, the Romanian acts transposing it and its consolidated versions). `data/eu-transposition.csv` links each Romanian act to the EU act it transposes, with `eu_folder` when that act is here. Reuse: Commission Decision 2011/833/EU, with attribution.
+- `profesii/<body>/<doc>/` or `profesii/<body>/<organ>/<year>/<nr>/`: the rules of the legal professions (statutes, codes of ethics, regulations and decisions of UNBR, INPPA, OCJR, UNEJ, the mediation council and others). Registers of practitioners are not copied: they list natural persons.
+- `anexa/<act id>/<annex>/`: official annexes the corpus did not otherwise hold, such as the localities of each court (HG nr. 1.217/2023) and the small-claims forms (Ordinul nr. 359/C/2013).
+- `data/court-jurisdiction.csv` and the other practical tables (fees, thresholds, deadlines, legal aid, forms) are listed in README.md; each row cites its provision.
 
 ## What is not here
 

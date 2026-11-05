@@ -35,6 +35,23 @@
 "from": "1977-08-02",
 "latest": "1977-08-02",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31977L0486"
+},
+{
+"slug": "ue-directiva-629-1977",
+"path": "ue/directiva/1977/629",
+"kind": "ue",
+"year": "1977",
+"number": "629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 28 septembrie 1977 de modificare a anexelor la Directiva 68/193/CEE a Consiliului privind comercializarea materialului pentru înmulțirea vegetativă a viței de vie",
+"short": "Directiva 77/629/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1977-09-30",
+"latest": "1977-09-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31977L0629"
 }
 ]
 }

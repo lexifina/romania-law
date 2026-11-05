@@ -558,6 +558,26 @@
 "flags": {
 "end_of_validity": "2011-06-13"
 }
+},
+{
+"slug": "ue-regulament-904-2010",
+"path": "ue/regulament/2010/904",
+"kind": "ue",
+"year": "2010",
+"number": "904",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 904/2010 al Consiliului din 7 octombrie 2010 privind cooperarea administrativă și combaterea fraudei în domeniul taxei pe valoarea adăugată (reformare)",
+"short": "Regulamentul (UE) nr. 904/2010",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2010-11-01",
+"latest": "2010-11-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0904",
+"flags": {
+"end_of_validity": "2014-12-31"
+}
 }
 ]
 }

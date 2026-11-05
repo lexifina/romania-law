@@ -3,6 +3,21 @@
  "shard": "ue/1980",
  "acts": [
   {
+   "slug": "ue-directiva-1335-1980",
+   "path": "ue/directiva/1980/1335",
+   "short": "Directiva 80/1335/CEE",
+   "title": "Prima Directivă a Comisiei din 22 Decembrie 1980 privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31980L1335",
+   "versions": [
+    {
+     "from": "1981-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e06307e-b698-49d3-8867-366652f85f6d.0022.03/DOC_54",
+     "sha256": "fff9d54c71a21a1e7ba795c0013541a6bce0dfee209252f518e2dd971c9e7d13"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-181-1980",
    "path": "ue/directiva/1980/181",
    "short": "Directiva 80/181/CEE",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/75b5f593-012d-4185-a4cb-3459275c7a73.0022.04/DOC_43",
      "sha256": "d3c3e7ce59844b13bccecc0ac7eefcef732b485a177f81c97e25ef0bfa217950"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-754-1980",
+   "path": "ue/directiva/1980/754",
+   "short": "Directiva 80/754/CEE",
+   "title": "Directiva Comisiei din 17 iulie 1980 de modificare a anexei II la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31980L0754",
+   "versions": [
+    {
+     "from": "1980-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ee7daf43-cc3b-47ab-998a-e59af5975e69.0003.03/DOC_31",
+     "sha256": "e893e7145cc8821a0851a66c044f584d3f537cd2713fe6121ea75c445e9fffac"
     }
    ]
   }

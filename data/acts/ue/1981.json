@@ -1,0 +1,46 @@
+{
+"country": "RO",
+"shard": "ue/1981",
+"acts": [
+{
+"slug": "ue-directiva-126-1981",
+"path": "ue/directiva/1981/126",
+"kind": "ue",
+"year": "1981",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 16 februarie 1981 de modificare a anexelor la Directivele 66/401/CEE, 66/402/CEE, 69/208/CEE ale Consiliului privind comercializarea semințelor de plante furajere, de cereale și respectiv de plante oleaginoase și pentru fibră, precum și a Directivelor 78/386/CEE și 78/388/CEE",
+"short": "Directiva 81/126/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1981-02-27",
+"latest": "1981-02-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981L0126",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-334-1981",
+"path": "ue/directiva/1981/334",
+"kind": "ue",
+"year": "1981",
+"number": "334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 13 aprilie 1981 de adaptarea la progresul tehnic a Directivei 70/157/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la nivelul sonor admis și la sistemul de evacuare al autovehiculelor",
+"short": "Directiva 81/334/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1981-04-28",
+"latest": "1981-04-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981L0334",
+"flags": {
+"end_of_validity": "2027-06-30"
+}
+}
+]
+}

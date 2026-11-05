@@ -23,6 +23,26 @@
 }
 },
 {
+"slug": "ue-directiva-120-1987",
+"path": "ue/directiva/1987/120",
+"kind": "ue",
+"year": "1987",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 14 ianuarie 1987 de modificare a unor directive ale Consiliului privind comercializarea semințelor și a materialului săditor",
+"short": "Directiva 87/120/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-02-16",
+"latest": "1987-02-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0120",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
 "slug": "ue-directiva-143-1987",
 "path": "ue/directiva/1987/143",
 "kind": "ue",
@@ -92,6 +112,46 @@
 "from": "1987-06-30",
 "latest": "1987-06-30",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0372"
+},
+{
+"slug": "ue-directiva-480-1987",
+"path": "ue/directiva/1987/480",
+"kind": "ue",
+"year": "1987",
+"number": "480",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 9 septembrie 1987 de modificare a directivelor 66/401/CEE și 69/208/CEE ale Consiliului privind comercializarea semințelor de plante furajere și a semințelor de plante oleaginoase și pentru fibră",
+"short": "Directiva 87/480/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-09-10",
+"latest": "1987-09-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0480",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-524-1987",
+"path": "ue/directiva/1987/524",
+"kind": "ue",
+"year": "1987",
+"number": "524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 6 octombrie 1987 de stabilire a metodelor comunitare de prelevare a probelor în vederea analizelor chimice pentru monitorizarea produselor din lapte conservate",
+"short": "Directiva 87/524/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-10-12",
+"latest": "1987-10-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0524",
+"flags": {
+"figures_missing": 5
+}
 },
 {
 "slug": "ue-directiva-540-1987",

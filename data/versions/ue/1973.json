@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1973",
+ "acts": [
+  {
+   "slug": "ue-directiva-438-1973",
+   "path": "ue/directiva/1973/438",
+   "short": "Directiva 73/438/CEE",
+   "title": "Directiva Consiliului din 11 decembrie 1973 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale și a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivelor din 29 septembrie 1970 privind comercializarea semințelor de legume și privind catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973L0438",
+   "versions": [
+    {
+     "from": "1973-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f57575e-59fa-4d98-a5e3-506b19950945.0022.04/DOC_7",
+     "sha256": "0455a69150758dcc7a862366b95fda3ef49e7f96e45f5b046397d458899cb236"
+    }
+   ]
+  }
+ ]
+}

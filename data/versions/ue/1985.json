@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-347-1985",
+   "path": "ue/directiva/1985/347",
+   "short": "Directiva 85/347/CEE",
+   "title": "Directiva Consiliului din 8 iulie 1985 de modificare a Directivei 68/297/CEE privind uniformizarea dispozițiilor referitoare la admiterea fără taxe vamale a carburantului conținut în rezervoarele autovehiculelor utilitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0347",
+   "versions": [
+    {
+     "from": "1985-07-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9f827fb-04ae-4798-a9a5-d9d3ee3f941f.0022.04/DOC_12",
+     "sha256": "a27a9caafb36e619c79bbd5e01aae0f3f5037d8babb9a5dfe19144bba2c7edd8"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-374-1985",
    "path": "ue/directiva/1985/374",
    "short": "Directiva 85/374/CEE",
@@ -29,6 +44,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b21bef4e-b528-49e2-a0f9-142dc503969a.0022.01/DOC_1",
      "sha256": "b8ae891b5bec13d4c53ab5072567c4d089eb1574f42067ed0aa0d6de37bef864"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-38-1985",
+   "path": "ue/directiva/1985/38",
+   "short": "Directiva 85/38/CEE",
+   "title": "Directiva Comisiei din 14 decembrie 1984 de modificare a anexelor I și II la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0038",
+   "versions": [
+    {
+     "from": "1984-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cc90e032-a425-4ab5-a1a3-b4e293e24da4.0022.04/DOC_4",
+     "sha256": "5d4defb09622afe1169ac47ffb1e42b966d65d1305b451a3e79c052c80e0be87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-490-1985",
+   "path": "ue/directiva/1985/490",
+   "short": "Directiva 85/490/CEE",
+   "title": "A Patra Directivă a Comisiei din 11 octombrie 1985 privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru controlul compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0490",
+   "versions": [
+    {
+     "from": "1985-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/959863a3-1bb7-48f0-a247-12689f5d79c4.0022.03/DOC_67",
+     "sha256": "74d3b94eba5cffbd8553a350c5b441b6db399df7ae1f3d9579103e32ef606063"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-503-1985",
+   "path": "ue/directiva/1985/503",
+   "short": "Directiva 85/503/CEE",
+   "title": "Prima Directivă a Comisiei din 25 octombrie 1985 privind metodele de analiză pentru cazeinele și cazeinații comestibili",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0503",
+   "versions": [
+    {
+     "from": "1985-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97226364-a0a8-4665-aad7-64f1d25d5fcd.0022.03/DOC_10",
+     "sha256": "eccb7dfb2db3a43f8aeb3a45bc2a8cd1cc6e7db392a900cad84c3a054d6080d3"
     }
    ]
   },

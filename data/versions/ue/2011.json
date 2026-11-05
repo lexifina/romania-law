@@ -601,6 +601,66 @@
      "sha256": "5356b49f331ce46004a6260cfd8de4cc1c26a2217f49104e4e88c5e5f9e4a027"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1007-2011",
+   "path": "ue/regulament/2011/1007",
+   "short": "Regulamentul (UE) nr. 1007/2011",
+   "title": "Regulamentul (UE) nr. 1007/2011 al Parlamentului European și al Consiliului din 27 septembrie 2011 privind denumirile fibrelor textile și etichetarea corespunzătoare și marcarea compoziției fibroase a produselor textile și de abrogare a Directivei 73/44/CEE a Consiliului și a Directivelor 96/73/CE și 2008/121/CE ale Parlamentului European și ale Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1007",
+   "versions": [
+    {
+     "from": "2011-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0002.03/DOC_1",
+     "sha256": "5ec35b4c6c01dea7d29a3f11cc49893bd8ef8e8f9e37f24c7c8cb124185f9203"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1169-2011",
+   "path": "ue/regulament/2011/1169",
+   "short": "Regulamentul (UE) nr. 1169/2011",
+   "title": "Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului din 25 octombrie 2011 privind informarea consumatorilor cu privire la produsele alimentare, de modificare a Regulamentelor (CE) nr. 1924/2006 și (CE) nr. 1925/2006 ale Parlamentului European și ale Consiliului și de abrogare a Directivei 87/250/CEE a Comisiei, a Directivei 90/496/CEE a Consiliului, a Directivei 1999/10/CE a Comisiei, a Directivei 2000/13/CE a Parlamentului European și a Consiliului, a Directivelor 2002/67/CE și 2008/5/CE ale Comisiei și a Regulamentului (CE) nr. 608/2004 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1169",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/519f20de-6cb8-46d0-b02f-412e34d5a653.0011.03/DOC_1",
+     "sha256": "c4fbe62a75ecbe136d9aeb313c4227e1333664ccd9765a97ee1b41b41fa230db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-211-2011",
+   "path": "ue/regulament/2011/211",
+   "short": "Regulamentul (UE) nr. 211/2011",
+   "title": "Regulamentul (UE) nr. 211/2011 al Parlamentului European și al Consiliului din 16 februarie 2011 privind inițiativa cetățenească",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0211",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6689d9a-0171-4a24-91f5-549705cdb21c.0016.03/DOC_1",
+     "sha256": "66baefa78f60951352391297cdd0865b01960c31fa97b97de76035a7e19b4b8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-305-2011",
+   "path": "ue/regulament/2011/305",
+   "short": "Regulamentul (UE) nr. 305/2011",
+   "title": "Regulamentul (UE) nr. 305/2011 al Parlamentului European și al Consiliului din 9 martie 2011 de stabilire a unor condiții armonizate pentru comercializarea produselor pentru construcții și de abrogare a Directivei 89/106/CEE a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0305",
+   "versions": [
+    {
+     "from": "2011-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5.0015.03/DOC_1",
+     "sha256": "03114def07877583fbab9f012090b753ab04d2d9338dc86b38b11a2233e130e1"
+    }
+   ]
   }
  ]
 }

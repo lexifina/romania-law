@@ -273,6 +273,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1024-2012",
+   "path": "ue/regulament/2012/1024",
+   "short": "Regulamentul (UE) nr. 1024/2012",
+   "title": "Regulamentul (UE) nr. 1024/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 privind cooperarea administrativă prin intermediul Sistemului de informare al pieței interne și de abrogare a Deciziei 2008/49/CE a Comisiei ( „Regulamentul IMI” ) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1024",
+   "versions": [
+    {
+     "from": "2012-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93bd37f1-2e32-11e2-ad46-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7ecb3c66a12be254b25dcc57c4cfa86fe919ae56df67af2718bcc14b827df5ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1025-2012",
+   "path": "ue/regulament/2012/1025",
+   "short": "Regulamentul (UE) nr. 1025/2012",
+   "title": "Regulamentul (UE) nr. 1025/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 privind standardizarea europeană, de modificare a Directivelor 89/686/CEE și 93/15/CEE ale Consiliului și a Directivelor 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE și 2009/105/CE ale Parlamentului European și ale Consiliului și de abrogare a Deciziei 87/95/CEE a Consiliului și a Deciziei nr. 1673/2006/CE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1025",
+   "versions": [
+    {
+     "from": "2012-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08e6cf53-2e33-11e2-ad46-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b045c945b55cc6169d8d10274b14a0452e115d0839d043a785285b45cfda9841"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1215-2012",
    "path": "ue/regulament/2012/1215",
    "short": "Regulamentul (UE) nr. 1215/2012",
@@ -284,6 +314,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/387e4da5-e292-496d-a9bc-c3ebface5413.0016.03/DOC_1",
      "sha256": "93c3c937e19f788ace272ab3c9c1045a92996c2fbd5b9ce8f3afaedda5e768e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-236-2012",
+   "path": "ue/regulament/2012/236",
+   "short": "Regulamentul (UE) nr. 236/2012",
+   "title": "Regulamentul (UE) nr. 236/2012 al Parlamentului European și al Consiliului din 14 martie 2012 privind vânzarea în lipsă și anumite aspecte ale swapurilor pe riscul de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0236",
+   "versions": [
+    {
+     "from": "2012-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfcc726f-36b7-4db5-bd50-bbb1e3c6d329.0017.02/DOC_1",
+     "sha256": "bb87c1d86864a9f5ed96b6f1e8838111afd7188e47419232924f8a2c5ee70120"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-2012",
+   "path": "ue/regulament/2012/260",
+   "short": "Regulamentul (UE) nr. 260/2012",
+   "title": "Regulamentul (UE) nr. 260/2012 al Parlamentului European și al Consiliului din 14 martie 2012 de stabilire a cerințelor tehnice și comerciale aplicabile operațiunilor de transfer de credit și de debitare directă în euro și de modificare a Regulamentului (CE) nr. 924/2009 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0260",
+   "versions": [
+    {
+     "from": "2012-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/663569e0-dc97-4f8a-a6ae-499c6b4142d2.0005.02/DOC_1",
+     "sha256": "097f3bae8fa31b765a821c67f574622da8dcef824d3e6291471f9073dc5e2f7e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-528-2012",
+   "path": "ue/regulament/2012/528",
+   "short": "Regulamentul (UE) nr. 528/2012",
+   "title": "Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0528",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1.0020.04/DOC_1",
+     "sha256": "5c916a69eb15b48b03e1eb18e35de48f99e56fd40fb2c6e45708dca8905b28ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-648-2012",
+   "path": "ue/regulament/2012/648",
+   "short": "Regulamentul (UE) nr. 648/2012",
+   "title": "Regulamentul (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0648",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/665d41b1-2085-4584-af8a-45c605d62b94.0012.03/DOC_1",
+     "sha256": "96d3ceb1dc898c9efe5b106d4cdc1b89fccd8bfde7d3eb9830997d6ebae5151a"
     }
    ]
   }

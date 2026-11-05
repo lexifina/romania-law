@@ -706,6 +706,36 @@
      "sha256": "4149b3be7aa3c660be9b9ee0bb098c422bb819cbe991cf76fe6a0e70277b78b6"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1252-2024",
+   "path": "ue/regulament/2024/1252",
+   "short": "Regulamentul (UE) 2024/1252",
+   "title": "Regulamentul (UE) 2024/1252 al Parlamentului European și al Consiliului din 11 aprilie 2024 de instituire a unui cadru pentru asigurarea aprovizionării sigure și durabile cu materii prime critice și de modificare a Regulamentelor (UE) nr. 168/2013, (UE) 2018/858, (UE) 2018/1724 și (UE) 2019/1020 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1252",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa3c49f7-08e7-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f8814c4bae1f9518a3e3aa02b3ec63307ba4b90e6d7ce68402a0d6780a041e9d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-886-2024",
+   "path": "ue/regulament/2024/886",
+   "short": "Regulamentul (UE) 2024/886",
+   "title": "Regulamentul (UE) 2024/886 al Parlamentului European și al Consiliului din 13 martie 2024 de modificare a Regulamentelor (UE) nr. 260/2012 și (UE) 2021/1230 și a Directivelor 98/26/CE și (UE) 2015/2366 în ceea ce privește transferurile credit instant în euro (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0886",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d395dbf7-e597-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ab73003afb3d738934b850b7bec0c5eeb199bfe72e67700cc2e5ffd5e3ea2757"
+    }
+   ]
   }
  ]
 }

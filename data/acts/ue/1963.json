@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1963",
+"acts": [
+{
+"slug": "ue-directiva-474-1963",
+"path": "ue/directiva/1963/474",
+"kind": "ue",
+"year": "1963",
+"number": "474",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 30 iulie 1963 privind liberalizarea transferurilor aferente tranzacțiilor invizibile care nu au legătură cu circulația mărfurilor, serviciilor, capitalurilor și persoanelor",
+"short": "Directiva 63/474/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1963-06-04",
+"latest": "1963-06-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31963L0474"
+}
+]
+}

@@ -466,6 +466,96 @@
      "sha256": "e5e0692c543487b24ccbfcb79be0b7765291478a8bd654bddc906357f171272a"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1435-2003",
+   "path": "ue/regulament/2003/1435",
+   "short": "Regulamentul (CE) nr. 1435/2003",
+   "title": "Regulamentul (CE) nr. 1435/2003 al Consiliului din 22 iulie 2003 privind statutul societății cooperative europene (SCE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1435",
+   "versions": [
+    {
+     "from": "2003-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1ebc6b9-46ae-4f57-a4b5-4711d9add0cd.0022.04/DOC_1",
+     "sha256": "15c86609e0838e117bc81142fb77ccd14498e793bbab070a86d1d6ebea4cdad8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1829-2003",
+   "path": "ue/regulament/2003/1829",
+   "short": "Regulamentul (CE) nr. 1829/2003",
+   "title": "Regulamentul (CE) nr. 1829/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind produsele alimentare și furajele modificate geneticText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1829",
+   "versions": [
+    {
+     "from": "2004-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9fdfc82a-7e73-4b53-b1d4-e2b77747d846.0022.05/DOC_1",
+     "sha256": "ce089c833f32e805d81edbc07b099fc02016a953f7c564f1bc7fee6dbf62974c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1830-2003",
+   "path": "ue/regulament/2003/1830",
+   "short": "Regulamentul (CE) nr. 1830/2003",
+   "title": "Regulamentul (CE) nr. 1830/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind trasabilitatea și etichetarea organismelor modificate genetic și trasabilitatea produselor destinate alimentației umane sau animale, produse din organisme modificate genetic, și de modificare a Directivei 2001/18/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1830",
+   "versions": [
+    {
+     "from": "2003-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f298e6b4-796e-4d81-bfeb-7ffb728c194f.0022.05/DOC_1",
+     "sha256": "b3bff4035dc69977de388b60eb74e461c3686400bb58459ce351df40bc6b9165"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1882-2003",
+   "path": "ue/regulament/2003/1882",
+   "short": "Regulamentul (CE) nr. 1882/2003",
+   "title": "Regulamentul (CE) nr. 1882/2003 al Parlamentului European și al Consiliului din 29 septembrie 2003 de adaptare la Decizia 1999/468/CE a Consiliului a dispozițiilor privind comitetele care asistă Comisia în exercitarea competențelor de executare prevăzute de actele care fac obiectul procedurii menționate la articolul 251 din Tratatul CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1882",
+   "versions": [
+    {
+     "from": "2003-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/102e48a9-478f-4fee-8b8d-ef9068ea3936.0022.05/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1946-2003",
+   "path": "ue/regulament/2003/1946",
+   "short": "Regulamentul (CE) nr. 1946/2003",
+   "title": "Regulamentul (CE) nr. 1946/2003 al Parlamentului European și al Consiliului din 15 iulie 2003 privind deplasările transfrontaliere de organisme modificate geneticText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R1946",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d794207c-cd3b-4613-a7e8-3641df0d761b.0022.04/DOC_1",
+     "sha256": "96d1020d64aed50e40ad3bebfcfadfdfbd4a9b2053f9069b220902b0e333744a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-807-2003",
+   "path": "ue/regulament/2003/807",
+   "short": "Regulamentul (CE) nr. 807/2003",
+   "title": "Regulamentul (CE) nr. 807/2003 al Consiliului din 14 aprilie 2003 de adaptare la Decizia 1999/468/CE a dispozițiilor privind comitetele care asistă Comisia în exercitarea atribuțiilor sale de executare prevăzute în actele Consiliului adoptate în conformitate cu procedura de consultare (unanimitate)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0807",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/051198cd-4438-44a4-8769-db96926b6565.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

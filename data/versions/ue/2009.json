@@ -976,6 +976,96 @@
      "sha256": "9398c3620a283a669a2a8a96986897c54d7b10f3ab2f8049758700ea5827ca2a"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1069-2009",
+   "path": "ue/regulament/2009/1069",
+   "short": "Regulamentul (CE) nr. 1069/2009",
+   "title": "Regulamentul (CE) nr. 1069/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de abrogare a Regulamentului (CE) nr. 1774/2002 (Regulament privind subprodusele de origine animală)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1069",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3be11dd-81f5-48e8-b4a3-10333063634c.0020.03/DOC_1",
+     "sha256": "620d2170bfd3b5e090bce9343eafc134c2e7b55322395012f4b3a464b70c1d5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1071-2009",
+   "path": "ue/regulament/2009/1071",
+   "short": "Regulamentul (CE) nr. 1071/2009",
+   "title": "Regulamentul (CE) nr. 1071/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme comune privind condițiile care trebuie îndeplinite pentru exercitarea ocupației de operator de transport rutier și de abrogare a Directivei 96/26/CE a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1071",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7be1e9c2-c8f1-421f-acdc-3d7562495a7f.0020.03/DOC_1",
+     "sha256": "7c729eb11aa6581e1524d78fd1961c68cc31171dad503b102b5381306fc544fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1072-2009",
+   "path": "ue/regulament/2009/1072",
+   "short": "Regulamentul (CE) nr. 1072/2009",
+   "title": "Regulamentul (CE) nr. 1072/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața transportului rutier internațional de mărfuri (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1072",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0020.02/DOC_1",
+     "sha256": "a6da23ac8cc36d3f61ee7a99ab579764a7d61d7101972dee004e10bf5fb02715"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1073-2009",
+   "path": "ue/regulament/2009/1073",
+   "short": "Regulamentul (CE) nr. 1073/2009",
+   "title": "Regulamentul (CE) nr. 1073/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața internațională a serviciilor de transport cu autocarul și autobuzul și de modificare a Regulamentului (CE) nr. 561/2006 (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1073",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f342d5a0-30bf-4529-b765-db03ecc23ef5.0020.02/DOC_1",
+     "sha256": "ce7513f6f87c66936e192f93ce4c3655f355bb540d87e060cef98fb4405f1273"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1107-2009",
+   "path": "ue/regulament/2009/1107",
+   "short": "Regulamentul (CE) nr. 1107/2009",
+   "title": "Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1107",
+   "versions": [
+    {
+     "from": "2009-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ad90f5a-4dfe-4ad2-adda-e290d0e23c8b.0020.03/DOC_1",
+     "sha256": "1fbdba2fc92223c39b6c7c9e29b29c4aa9b915b6cd0019742d20da65feb2f46d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1223-2009",
+   "path": "ue/regulament/2009/1223",
+   "short": "Regulamentul (CE) nr. 1223/2009",
+   "title": "Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului din 30 noiembrie 2009 privind produsele cosmetice (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1223",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4100396c-575c-4150-8d92-e7c23ab1ce97.0020.02/DOC_1",
+     "sha256": "bbd9bbac54e16c103f6e32058e5fbd6ca726daaba41906879d76fc2e6b05f92c"
+    }
+   ]
   }
  ]
 }

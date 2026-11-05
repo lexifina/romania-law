@@ -181,6 +181,51 @@
      "sha256": "ee08d3ae48d5598af06329c0df0d0759d37653bddeea515c0311998c0788dae6"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-2116-2021",
+   "path": "ue/regulament/2021/2116",
+   "short": "Regulamentul (UE) 2021/2116",
+   "title": "Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1306/2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2116",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/91b120e8-5636-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1f8089f187e06ec5de62479402b8f3c318c8e7761e5be3f086b0a133a44491ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-23-2021",
+   "path": "ue/regulament/2021/23",
+   "short": "Regulamentul (UE) 2021/23",
+   "title": "Regulamentul (UE) 2021/23 al Parlamentului European și al Consiliului din 16 decembrie 2020 privind un cadru pentru redresarea și rezoluția contrapărților centrale și de modificare a Regulamentelor (UE) nr. 1095/2010, (UE) nr. 648/2012, (UE) nr. 600/2014, (UE) nr. 806/2014 și (UE) 2015/2365 și a Directivelor 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE și (UE) 2017/1132 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0023",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85656db7-5c53-11eb-b487-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "38750b96268667cc46f87c05311edea2aba2050f75112d1859e7fdcbf2a9769b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-697-2021",
+   "path": "ue/regulament/2021/697",
+   "short": "Regulamentul (UE) 2021/697",
+   "title": "Regulamentul (UE) 2021/697 al Parlamentului European și al Consiliului din 29 aprilie 2021 de instituire a Fondului european de apărare și de abrogare a Regulamentului (UE) 2018/1092 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0697",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/347f19d3-b312-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "675f0c94082ff9ddbed97a560725dd22ae9b6ddbc1e003afbe5b17e50d705fec"
+    }
+   ]
   }
  ]
 }

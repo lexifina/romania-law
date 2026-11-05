@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ue/1970",
+ "acts": [
+  {
+   "slug": "ue-directiva-157-1970",
+   "path": "ue/directiva/1970/157",
+   "short": "Directiva 70/157/CEE",
+   "title": "Directiva Consiliului din 6 februarie 1970 privind apropierea legislațiilor statelor membre referitoare la nivelul de zgomot admis și la sistemul de evacuare al autovehiculelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970L0157",
+   "versions": [
+    {
+     "from": "1970-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7b98d2f-948e-4d87-85e6-0228021c752d.0022.03/DOC_66",
+     "sha256": "4067008dc46f0526e166ac33a32c1ec29d59104b82dd2bc0dc1563c04546f827"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-1970",
+   "path": "ue/directiva/1970/50",
+   "short": "Directiva 70/50/CEE",
+   "title": "Directiva Comisiei din 22 decembrie 1969 în temeiul articolului 33 alineatul (7) privind eliminarea măsurilor cu efect echivalent cu cel al restricțiilor cantitative la import care nu sunt reglementate de alte dispoziții adoptate în temeiul Tratatului CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970L0050",
+   "versions": [
+    {
+     "from": "1969-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e9b33a88-785f-4ba5-8fdf-3bd9f52b49b4.0018.04/DOC_2",
+     "sha256": "6617efe05bbf336f2cc5409fbf8b97aea124f290a2f592c4f315bbaf5f8a2507"
+    }
+   ]
+  }
+ ]
+}

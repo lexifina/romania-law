@@ -18,6 +18,120 @@
 "from": "1978-12-22",
 "latest": "1978-12-22",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0007"
+},
+{
+"slug": "ue-directiva-9-1979",
+"path": "ue/directiva/1979/9",
+"kind": "ue",
+"year": "1979",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 decembrie 1978 de modificare a Directivei 77/391/CEE de instituire a unei acțiuni a Comunității în vederea eradicării brucelozei, tuberculozei și leucozei la bovine",
+"short": "Directiva 79/9/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-12-22",
+"latest": "1978-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0009"
+},
+{
+"slug": "ue-directiva-641-1979",
+"path": "ue/directiva/1979/641",
+"kind": "ue",
+"year": "1979",
+"number": "641",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 27 iunie 1979 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 69/208/CEE și 70/458/CEE ale Consiliului privind comercializarea semințelor de plante furajere, a semințelor de cereale, a semințelor de plante oleaginoase și textile și a semințelor de legume",
+"short": "Directiva 79/641/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1979-06-30",
+"latest": "1979-06-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0641",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-692-1979",
+"path": "ue/directiva/1979/692",
+"kind": "ue",
+"year": "1979",
+"number": "692",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 24 iulie 1979 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 70/458/CEE și 70/457/CEE privind comercializarea semințelor de plante furajere, a semințelor de cereale, a semințelor de legume și de modificare a catalogului comun al soiurilor de plante agricole",
+"short": "Directiva 79/692/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1979-07-27",
+"latest": "1979-07-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0692",
+"flags": {
+"end_of_validity": "2002-08-08"
+}
+},
+{
+"slug": "ue-directiva-796-1979",
+"path": "ue/directiva/1979/796",
+"kind": "ue",
+"year": "1979",
+"number": "796",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 26 iulie 1979 de stabilire a metodelor comunitare de analiză pentru testarea anumitor zaharuri destinate consumului uman",
+"short": "Directiva 79/796/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1979-07-30",
+"latest": "1979-07-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0796",
+"flags": {
+"figures_missing": 9
+}
+},
+{
+"slug": "ue-directiva-802-1979",
+"path": "ue/directiva/1979/802",
+"kind": "ue",
+"year": "1979",
+"number": "802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 6 septembrie 1979 privind mărfurile plasate sub regimul de perfecționare activă și care ar beneficia, în caz de import pentru punerea în liberă circulație, de un regim tarifar favorabil datorită destinației speciale",
+"short": "Directiva 79/802/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1979-09-12",
+"latest": "1979-09-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0802"
+},
+{
+"slug": "ue-directiva-1067-1979",
+"path": "ue/directiva/1979/1067",
+"kind": "ue",
+"year": "1979",
+"number": "1067",
+"withdrawn_by": null,
+"reason": null,
+"title": "Prima Directivă a Comisiei din 13 noiembrie 1979 de stabilire a metodelor comunitare de analiză pentru testarea anumitor tipuri de lapte conservat, parțial sau total deshidratat, pentru consumul uman",
+"short": "Directiva 79/1067/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1979-12-19",
+"latest": "1979-12-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L1067",
+"flags": {
+"figures_missing": 11
+}
 }
 ]
 }

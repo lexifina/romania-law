@@ -466,6 +466,21 @@
      "sha256": "bd99e3e5ce50d98141f317a857278b16beaf55ab8c84d7f331a7fdc6e1cae6b1"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-904-2010",
+   "path": "ue/regulament/2010/904",
+   "short": "Regulamentul (UE) nr. 904/2010",
+   "title": "Regulamentul (UE) nr. 904/2010 al Consiliului din 7 octombrie 2010 privind cooperarea administrativă și combaterea fraudei în domeniul taxei pe valoarea adăugată (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0904",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa43e4f2-2557-4db6-b774-9e732f091a43.0017.02/DOC_1",
+     "sha256": "8b4dcea2383811e979afe67898703f5d59724dba277d80c518e00ce9b88bd542"
+    }
+   ]
   }
  ]
 }

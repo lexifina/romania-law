@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1972",
+ "acts": [
+  {
+   "slug": "ue-directiva-221-1972",
+   "path": "ue/directiva/1972/221",
+   "short": "Directiva 72/221/CEE",
+   "title": "Directiva Consiliului din 6 iunie 1972 privind organizarea de anchete anuale coordonate privind activitatea industrială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0221",
+   "versions": [
+    {
+     "from": "1972-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a022c3d-9a2c-45a8-95e9-076a4f0bf5de.0022.03/DOC_30",
+     "sha256": "46d3358599d3fa5b95014d7b101d2c99ffb6be6eee34f99746061b799ef9ff47"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-274-1972",
+   "path": "ue/directiva/1972/274",
+   "short": "Directiva 72/274/CEE",
+   "title": "Directiva Consiliului din 20 iulie 1972 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivelor din 29 septembrie 1970 privind, respectiv, comercializarea semințelor de legume și catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0274",
+   "versions": [
+    {
+     "from": "1972-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0960fa20-bda1-40ef-832f-99788c7d0271.0022.04/DOC_15",
+     "sha256": "476ebbf1952db60eb42aa442c6a8d992dfa351daab24f33fbfc8be5c269ceb21"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-418-1972",
+   "path": "ue/directiva/1972/418",
+   "short": "Directiva 72/418/CEE",
+   "title": "Directiva Consiliului din 6 decembrie 1972 de modificare a Directivelor din 14 iunie 1966 privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a Directivei din 30 iunie 1969 privind comercializarea semințelor de plante oleaginoase și textile și a Directivelor din 29 septembrie 1970 privind comercializarea semințelor de legume și privind Catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972L0418",
+   "versions": [
+    {
+     "from": "1972-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1470a0a-489a-48b8-8fd4-4162abce1481.0022.04/DOC_19",
+     "sha256": "b1a89e77f3039aba81e9d3093be0cd87efd96c4d780a2ece6bc74d4be8e27b69"
+    }
+   ]
+  }
+ ]
+}

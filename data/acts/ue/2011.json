@@ -745,6 +745,87 @@
 "flags": {
 "figures_missing": 6
 }
+},
+{
+"slug": "ue-regulament-211-2011",
+"path": "ue/regulament/2011/211",
+"kind": "ue",
+"year": "2011",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 211/2011 al Parlamentului European și al Consiliului din 16 februarie 2011 privind inițiativa cetățenească",
+"short": "Regulamentul (UE) nr. 211/2011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0211",
+"flags": {
+"figures_missing": 4,
+"end_of_validity": "2019-12-31"
+}
+},
+{
+"slug": "ue-regulament-305-2011",
+"path": "ue/regulament/2011/305",
+"kind": "ue",
+"year": "2011",
+"number": "305",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 305/2011 al Parlamentului European și al Consiliului din 9 martie 2011 de stabilire a unor condiții armonizate pentru comercializarea produselor pentru construcții și de abrogare a Directivei 89/106/CEE a Consiliului Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 305/2011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2011-04-24",
+"latest": "2011-04-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0305",
+"flags": {
+"end_of_validity": "2026-01-07"
+}
+},
+{
+"slug": "ue-regulament-1007-2011",
+"path": "ue/regulament/2011/1007",
+"kind": "ue",
+"year": "2011",
+"number": "1007",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 1007/2011 al Parlamentului European și al Consiliului din 27 septembrie 2011 privind denumirile fibrelor textile și etichetarea corespunzătoare și marcarea compoziției fibroase a produselor textile și de abrogare a Directivei 73/44/CEE a Consiliului și a Directivelor 96/73/CE și 2008/121/CE ale Parlamentului European și ale Consiliului Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 1007/2011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2011-11-07",
+"latest": "2011-11-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1007",
+"flags": {
+"figures_missing": 24
+}
+},
+{
+"slug": "ue-regulament-1169-2011",
+"path": "ue/regulament/2011/1169",
+"kind": "ue",
+"year": "2011",
+"number": "1169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului din 25 octombrie 2011 privind informarea consumatorilor cu privire la produsele alimentare, de modificare a Regulamentelor (CE) nr. 1924/2006 și (CE) nr. 1925/2006 ale Parlamentului European și ale Consiliului și de abrogare a Directivei 87/250/CEE a Comisiei, a Directivei 90/496/CEE a Consiliului, a Directivei 1999/10/CE a Comisiei, a Directivei 2000/13/CE a Parlamentului European și a Consiliului, a Directivelor 2002/67/CE și 2008/5/CE ale Comisiei și a Regulamentului (CE) nr. 608/2004 al Comisiei Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 1169/2011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2011-12-12",
+"latest": "2011-12-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1169",
+"flags": {
+"figures_missing": 1
+}
 }
 ]
 }

@@ -316,6 +316,36 @@
      "sha256": "ec58e981c62e71081bc6b8f27f12558422fa27fbd08c767fd39a2de369f883b6"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-111-2005",
+   "path": "ue/regulament/2005/111",
+   "short": "Regulamentul (CE) nr. 111/2005",
+   "title": "Regulamentul (CE) nr. 111/2005 al Consiliului din 22 decembrie 2004 de stabilire a normelor de monitorizare a comerțului cu precursori de droguri între Comunitate și țările terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0111",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75239962-3f7b-44f8-ab7b-1468fac10586.0022.04/DOC_1",
+     "sha256": "5e0bbee16e1166eba2ac60f96cfafed99e09510a5f6fdd87cf4d11c57422bcee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2173-2005",
+   "path": "ue/regulament/2005/2173",
+   "short": "Regulamentul (CE) nr. 2173/2005",
+   "title": "Regulamentul (CE) nr. 2173/2005 al Consiliului din 20 decembrie 2005 privind instituirea unui regim de licențe FLEGT pentru importurile de lemn în Comunitatea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2173",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3e32c4b-574f-4421-8e47-22fb888a8c13.0022.04/DOC_1",
+     "sha256": "cf949c62c0cbdcbff507609bd91d5af1f265bfa10dd151c50ed363987d150e9d"
+    }
+   ]
   }
  ]
 }

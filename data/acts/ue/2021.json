@@ -3,6 +3,23 @@
 "shard": "ue/2021",
 "acts": [
 {
+"slug": "ue-regulament-23-2021",
+"path": "ue/regulament/2021/23",
+"kind": "ue",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2021/23 al Parlamentului European și al Consiliului din 16 decembrie 2020 privind un cadru pentru redresarea și rezoluția contrapărților centrale și de modificare a Regulamentelor (UE) nr. 1095/2010, (UE) nr. 648/2012, (UE) nr. 600/2014, (UE) nr. 806/2014 și (UE) 2015/2365 și a Directivelor 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE și (UE) 2017/1132 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2021/23",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-02-11",
+"latest": "2021-02-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0023"
+},
+{
 "slug": "ue-directiva-338-2021",
 "path": "ue/directiva/2021/338",
 "kind": "ue",
@@ -52,6 +69,23 @@
 "from": "2021-04-26",
 "latest": "2021-04-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0555"
+},
+{
+"slug": "ue-regulament-697-2021",
+"path": "ue/regulament/2021/697",
+"kind": "ue",
+"year": "2021",
+"number": "697",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2021/697 al Parlamentului European și al Consiliului din 29 aprilie 2021 de instituire a Fondului european de apărare și de abrogare a Regulamentului (UE) 2018/1092 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2021/697",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-12",
+"latest": "2021-05-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0697"
 },
 {
 "slug": "ue-directiva-903-2021",
@@ -157,6 +191,23 @@
 "from": "2021-12-21",
 "latest": "2021-12-21",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2101"
+},
+{
+"slug": "ue-regulament-2116-2021",
+"path": "ue/regulament/2021/2116",
+"kind": "ue",
+"year": "2021",
+"number": "2116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1306/2013",
+"short": "Regulamentul (UE) 2021/2116",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2116"
 },
 {
 "slug": "ue-directiva-2118-2021",

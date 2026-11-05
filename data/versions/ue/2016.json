@@ -468,6 +468,96 @@
    ]
   },
   {
+   "slug": "ue-regulament-1628-2016",
+   "path": "ue/regulament/2016/1628",
+   "short": "Regulamentul (UE) 2016/1628",
+   "title": "Regulamentul (UE) 2016/1628 al Parlamentului European și al Consiliului din 14 septembrie 2016 privind cerințele referitoare la limitele emisiilor de poluanți gazoși și de particule poluante și omologarea de tip pentru motoarele cu ardere internă pentru echipamentele mobile fără destinație rutieră, de modificare a Regulamentelor (UE) nr. 1024/2012 și (UE) nr. 167/2013 și de modificare și abrogare a Directivei 97/68/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1628",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d1d6ef7-7bd1-11e6-b076-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b5e1c1f137028ccd1bdcbab59f124d3a3287317f76c8b39ea57caab7be486e70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-399-2016",
+   "path": "ue/regulament/2016/399",
+   "short": "Regulamentul (UE) 2016/399",
+   "title": "Regulamentul (UE) 2016/399 al Parlamentului European și al Consiliului din 9 martie 2016 cu privire la Codul Uniunii privind regimul de trecere a frontierelor de către persoane (Codul Frontierelor Schengen) (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0399",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42fba6c3-f0c5-11e5-8529-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "04bb6b1ded15399dcf60bb4aba9a270f1a25bdef222b45c935085e89dc312145"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-424-2016",
+   "path": "ue/regulament/2016/424",
+   "short": "Regulamentul (UE) 2016/424",
+   "title": "Regulamentul (UE) 2016/424 al Parlamentului European și al Consiliului din 9 martie 2016 privind instalațiile pe cablu și de abrogare a Directivei 2000/9/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0424",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7535138-f714-11e5-abb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "65e1cd2413acd240601422c0cf586f948c6e9822ad4698bb0b9a6a9c4cbcce1d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-425-2016",
+   "path": "ue/regulament/2016/425",
+   "short": "Regulamentul (UE) 2016/425",
+   "title": "Regulamentul (UE) 2016/425 al Parlamentului European și al Consiliului din 9 martie 2016 privind echipamentele individuale de protecție și de abrogare a Directivei 89/686/CEE a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0425",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb5411ef-f714-11e5-abb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "472dc0cd3a200ea57aec9fa11a5b246d923d480681a98f444d33d42a100e5c8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-426-2016",
+   "path": "ue/regulament/2016/426",
+   "short": "Regulamentul (UE) 2016/426",
+   "title": "Regulamentul (UE) 2016/426 al Parlamentului European și al Consiliului din 9 martie 2016 privind aparatele consumatoare de combustibili gazoși și de abrogare a Directivei 2009/142/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0426",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bcbb34d4-f714-11e5-abb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "29bea60871896d9856fbf759fc593450dcad29c27f9c8041d0a8de90ab1b41c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-589-2016",
+   "path": "ue/regulament/2016/589",
+   "short": "Regulamentul (UE) 2016/589",
+   "title": "Regulamentul (UE) 2016/589 al Parlamentului European și al Consiliului din 13 aprilie 2016 privind o rețea europeană de servicii de ocupare a forței de muncă (EURES), accesul lucrătorilor la servicii de mobilitate și integrarea mai bună a piețelor forței de muncă și de modificare a Regulamentelor (UE) nr. 492/2011 și (UE) nr. 1296/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0589",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a311abfd-0857-11e6-b713-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1a74f6db5d6538a7d70bca0786cdcdcf8c83e1a70f97c829ecf6102ff92da4d6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-679-2016",
    "path": "ue/regulament/2016/679",
    "short": "Regulamentul (UE) 2016/679",

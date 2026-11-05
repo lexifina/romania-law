@@ -368,6 +368,43 @@
 "from": "2007-12-29",
 "latest": "2007-12-29",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0075"
+},
+{
+"slug": "ue-regulament-306-2007",
+"path": "ue/regulament/2007/306",
+"kind": "ue",
+"year": "2007",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 306/2007 al Comisiei din 21 martie 2007 de modificare a Regulamentului (CE) nr. 1539/2006 de adoptare a unui plan privind atribuirea statelor membre de resurse imputabile exercițiului 2007 pentru furnizarea de produse alimentare provenind din stocurile de intervenție pentru persoanele cele mai defavorizate din Comunitate",
+"short": "Regulamentul (CE) nr. 306/2007",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2007-03-23",
+"latest": "2007-03-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007R0306"
+},
+{
+"slug": "ue-regulament-834-2007",
+"path": "ue/regulament/2007/834",
+"kind": "ue",
+"year": "2007",
+"number": "834",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 834/2007 al Consiliului din 28 iunie 2007 privind producția ecologică și etichetarea produselor ecologice, precum și de abrogare a Regulamentului (CEE) nr. 2092/91",
+"short": "Regulamentul (CE) nr. 834/2007",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2007-07-27",
+"latest": "2007-07-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007R0834",
+"flags": {
+"end_of_validity": "2021-12-31"
+}
 }
 ]
 }

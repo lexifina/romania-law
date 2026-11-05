@@ -142,6 +142,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0738"
 },
 {
+"slug": "ue-regulament-858-2022",
+"path": "ue/regulament/2022/858",
+"kind": "ue",
+"year": "2022",
+"number": "858",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2022/858 al Parlamentului European și al Consiliului din 30 mai 2022 privind un regim-pilot pentru infrastructurile pieței bazate pe tehnologia registrelor distribuite, precum și de modificare a Regulamentelor (UE) nr. 600/2014 și (UE) nr. 909/2014 și a Directivei 2014/65/UE (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2022/858",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0858"
+},
+{
 "slug": "ue-directiva-890-2022",
 "path": "ue/directiva/2022/890",
 "kind": "ue",
@@ -193,6 +210,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1999",
 "flags": {
 "figures_missing": 3
+}
+},
+{
+"slug": "ue-regulament-2036-2022",
+"path": "ue/regulament/2022/2036",
+"kind": "ue",
+"year": "2022",
+"number": "2036",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2022/2036 al Parlamentului European și al Consiliului din 19 octombrie 2022 de modificare a Regulamentului (UE) nr. 575/2013 și a Directivei 2014/59/UE în ceea ce privește tratamentul prudențial al instituțiilor de importanță sistemică globală, cu o strategie de rezoluție cu mai multe puncte de intrare, și metode pentru subscrierea indirectă de instrumente eligibile în vederea îndeplinirii cerinței minime de fonduri proprii și datorii eligibile (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2022/2036",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2036",
+"flags": {
+"figures_missing": 1
 }
 },
 {
@@ -288,6 +325,23 @@
 "flags": {
 "figures_missing": 10
 }
+},
+{
+"slug": "ue-regulament-2554-2022",
+"path": "ue/regulament/2022/2554",
+"kind": "ue",
+"year": "2022",
+"number": "2554",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2022/2554 al Parlamentului European și al Consiliului din 14 decembrie 2022 privind reziliența operațională digitală a sectorului financiar și de modificare a Regulamentelor (CE) nr. 1060/2009, (UE) nr. 648/2012, (UE) nr. 600/2014, (UE) nr. 909/2014 și (UE) 2016/1011 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2022/2554",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2554"
 },
 {
 "slug": "ue-directiva-2555-2022",
