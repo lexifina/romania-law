@@ -3,6 +3,66 @@
  "shard": "local/judet/hunedoara/2019",
  "acts": [
   {
+   "slug": "hcj-hunedoara-1-2019",
+   "path": "local/judet/hunedoara/2019/1",
+   "short": "HCJ Hunedoara nr. 1/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 1/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%201.pdf",
+     "sha256": "eac23ef608bf6f3e8e9d83834abf4e1576a8cde16f10b55dc052ec980eba715c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-10-2019",
+   "path": "local/judet/hunedoara/2019/10",
+   "short": "HCJ Hunedoara nr. 10/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 10/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2010.pdf",
+     "sha256": "3454cc2dcb66882d39b4839fdb57e61a331b477948727dc04133553305b3d277"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-2-2019",
+   "path": "local/judet/hunedoara/2019/2",
+   "short": "HCJ Hunedoara nr. 2/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 2/2019 privind aprobarea documentației de avizare a lucrărilor de intervenție (D.A.L.I.) si a indicatorilor tehnico-economici ale proiectului „Realizarea Muzeului Civilizației Dacice” finanțat în cadrul Programului Operaţional Regional 2014 – 2020, Axa prioritară 13: Sprijinirea regenerării orașelor mici și mijlocii, Prioritatea de investiții 9b: Oferirea de sprijin pentru revitalizarea fizică, economică",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%202.pdf",
+     "sha256": "03ce7ba14ef7b7027e657094418250427cd32d4f7de821f7201b76575a78f55a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-200-2019",
+   "path": "local/judet/hunedoara/2019/200",
+   "short": "HCJ Hunedoara nr. 200/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 200/2019 privind aprobarea prelungirii valabilității Programului de transport public județean de persoane prin curse regulate până la data de 30 iunie 2023",
+   "url": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20200.pdf",
+     "sha256": "14a97cfb6f51b2934e9ccfb7c69d1fc9ecccdc198f0db146c81f0d19a80acdfe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-216-2019",
    "path": "local/judet/hunedoara/2019/216",
    "short": "HCJ Hunedoara nr. 216/2019",
@@ -14,6 +74,111 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20216.pdf",
      "sha256": "71ba60c90302f6cb861e21832edeb9cf3076c0908fbd9ed43714feaf4d40394f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-3-2019",
+   "path": "local/judet/hunedoara/2019/3",
+   "short": "HCJ Hunedoara nr. 3/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 3/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%203.pdf",
+     "sha256": "99f49705e4644fa652dbabfa0322c0ad7628357a7804fd16d14135ece620a4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-4-2019",
+   "path": "local/judet/hunedoara/2019/4",
+   "short": "HCJ Hunedoara nr. 4/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 4/2019 privind aprobarea devizului general consolidat al proiectului „Realizarea Muzeului Civilizației Dacice cu reabilitarea si modernizarea străzilor de acces, in municipiul Orăștie” cu finanțare în cadrul Programului Operaţional Regional 2014 – 2020, Axa prioritară 13: Sprijinirea regenerării orașelor mici și mijlocii, Prioritatea de investiții 9b: Oferirea de sprijin pentru revitalizarea fizică, econ",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%204.pdf",
+     "sha256": "785fd28935ba5d186b1e62e919b2c43071e0eb5a01ebb15ff3e0dec2866aaa45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-5-2019",
+   "path": "local/judet/hunedoara/2019/5",
+   "short": "HCJ Hunedoara nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 5/2019 pentru obiectivul de investiții ”Restaurare Castel Nopcsa, sat Săcel, comun a Sintamaria Orlea, județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%205.pdf",
+     "sha256": "f93de3431b35dc063c8ec64ef600a92a193dcf02f50f46ce5b2cdad536028cf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-6-2019",
+   "path": "local/judet/hunedoara/2019/6",
+   "short": "HCJ Hunedoara nr. 6/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 6/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%206.pdf",
+     "sha256": "d286510ecaa747bf5239e7924d1e3dad5b2fdd341a32946c780f07ea7e19b321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-7-2019",
+   "path": "local/judet/hunedoara/2019/7",
+   "short": "HCJ Hunedoara nr. 7/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 7/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%207.pdf",
+     "sha256": "3485bfc8fd4a3028515b2e7457849b1dbdb5d492c48576d35ca16c33bb1529d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-8-2019",
+   "path": "local/judet/hunedoara/2019/8",
+   "short": "HCJ Hunedoara nr. 8/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 8/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%208.pdf",
+     "sha256": "764072f750b1c07349731a0dc84adbf55ef967edafcefa36f3cac68785557cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-9-2019",
+   "path": "local/judet/hunedoara/2019/9",
+   "short": "HCJ Hunedoara nr. 9/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 9/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%209.pdf",
+     "sha256": "a25cf30fad283f912320fe3c4b8756eb65da895fad808312ef160db17a90b73c"
     }
    ]
   }

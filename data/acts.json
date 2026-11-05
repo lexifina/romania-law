@@ -9930,6 +9930,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17391"
 },
 {
+"slug": "legea-46-1999",
+"path": "lege/1999/46",
+"kind": "lege",
+"year": "1999",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 46/1999 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Moldova privind colaborarea în domeniul transporturilor militare, semnat la Bucureşti la 24 iulie 1997",
+"short": "Legea nr. 46/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-04-07",
+"latest": "1999-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/17561"
+},
+{
 "slug": "legea-47-1999",
 "path": "lege/1999/47",
 "kind": "lege",

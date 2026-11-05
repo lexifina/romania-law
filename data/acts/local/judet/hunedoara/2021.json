@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/hunedoara/2021",
+"acts": [
+{
+"slug": "hcj-hunedoara-5-2021",
+"path": "local/judet/hunedoara/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 5/2021 pentru alegerile locale parțiale 2021",
+"short": "HCJ Hunedoara nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-30",
+"latest": "2021-05-30",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/488-alte-documente",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-75-2021",
+"path": "local/judet/hunedoara/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 75/2021 privind aprobarea bugetului propriu al judeţului Hunedoara pe anul 2021 și estimările pe anii 2022 – 2024",
+"short": "HCJ Hunedoara nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/501-buget-2",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-205-2021",
+"path": "local/judet/hunedoara/2021/205",
+"kind": "local",
+"year": "2021",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 205/2021 privind aprobarea situațiilor financiare anuale întocmite la 31 decembrie 2020 ale SC PARC INDUSTRIAL CALAN SRL",
+"short": "HCJ Hunedoara nr. 205/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/415-guvernanta-corporativa-a-intreprinderilor-publice-de-sub-autoritatea-consiliului-judetean-hunedoara",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-350-2021",
+"path": "local/judet/hunedoara/2021/350",
+"kind": "local",
+"year": "2021",
+"number": "350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 350/2021 privind reglementarea unor măsuri necesare asigurării continuității serviciului de transport public judeţean de persoane prin curse regulate în județul Hunedoara",
+"short": "HCJ Hunedoara nr. 350/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

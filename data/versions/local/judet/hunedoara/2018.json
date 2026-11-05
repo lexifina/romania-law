@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/hunedoara/2018",
+ "acts": [
+  {
+   "slug": "hcj-hunedoara-112-2018",
+   "path": "local/judet/hunedoara/2018/112",
+   "short": "HCJ Hunedoara nr. 112/2018",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 112/2018 privind actualizarea programului de transport public judetean de persoane prin curse regulate",
+   "url": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2018/09%20HOT%20SCAN%2025%20MAI%202018/HCJH%20112.pdf",
+     "sha256": "c43c8ab60fbd9210c8e6a1a80278cc3246e12d0d13950372ebb80ddf5da999a8"
+    }
+   ]
+  }
+ ]
+}

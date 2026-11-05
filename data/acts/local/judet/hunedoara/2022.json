@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/hunedoara/2022",
+"acts": [
+{
+"slug": "hcj-hunedoara-19-2022",
+"path": "local/judet/hunedoara/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 19/2022 privind aprobarea bugetului propriu al judeţului Hunedoara pe anul 2022 și estimările pe anii 2023 – 2025 Anexe",
+"short": "HCJ Hunedoara nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/501-buget-2",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

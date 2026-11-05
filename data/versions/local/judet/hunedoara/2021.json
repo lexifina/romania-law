@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/hunedoara/2021",
+ "acts": [
+  {
+   "slug": "hcj-hunedoara-205-2021",
+   "path": "local/judet/hunedoara/2021/205",
+   "short": "HCJ Hunedoara nr. 205/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 205/2021 privind aprobarea situațiilor financiare anuale întocmite la 31 decembrie 2020 ale SC PARC INDUSTRIAL CALAN SRL",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/415-guvernanta-corporativa-a-intreprinderilor-publice-de-sub-autoritatea-consiliului-judetean-hunedoara",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/documente%20raport/HCJ%20205-%20Parc%20Calan.pdf",
+     "sha256": "ec0c8025281e8565de1f40ebac7494ac137e2866e7869f639cad54aa4d5c7fb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-350-2021",
+   "path": "local/judet/hunedoara/2021/350",
+   "short": "HCJ Hunedoara nr. 350/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 350/2021 privind reglementarea unor măsuri necesare asigurării continuității serviciului de transport public judeţean de persoane prin curse regulate în județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20extra%2022%20decembrie%202021/H%20350_Redacted.pdf",
+     "sha256": "73cf63d85c44ebb3063cfe4fb2962a590b521551de0483110e65e6c6d8d28256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-5-2021",
+   "path": "local/judet/hunedoara/2021/5",
+   "short": "HCJ Hunedoara nr. 5/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 5/2021 pentru alegerile locale parțiale 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/488-alte-documente",
+   "versions": [
+    {
+     "from": "2021-05-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Aparat%20CJH/HOT-NR.-5-din-30.05.2021-a-BEJ-22-HD.pdf",
+     "sha256": "6d4aab702dc69e1a288bc6b566f2cc54aa9053554260dce7ebe7f0a0f491691a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-75-2021",
+   "path": "local/judet/hunedoara/2021/75",
+   "short": "HCJ Hunedoara nr. 75/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 75/2021 privind aprobarea bugetului propriu al judeţului Hunedoara pe anul 2021 și estimările pe anii 2022 – 2024",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/501-buget-2",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2075.pdf",
+     "sha256": "55c1f0d99a5b679181084ece25a8475fb0fd4e04c4decf14d62f79efccb36b51"
+    }
+   ]
+  }
+ ]
+}

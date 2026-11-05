@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/judet/hunedoara/2020",
+"acts": [
+{
+"slug": "hcj-hunedoara-30-2020",
+"path": "local/judet/hunedoara/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 30/2020",
+"short": "HCJ Hunedoara nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-26",
+"latest": "2020-02-26",
+"portal": null,
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

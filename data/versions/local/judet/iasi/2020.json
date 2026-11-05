@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2020",
+ "acts": [
+  {
+   "slug": "hcj-iasi-106-2020",
+   "path": "local/judet/iasi/2020/106",
+   "short": "HCJ Iași nr. 106/2020",
+   "title": "Hotărârea Consiliului Județean Iași nr. 106/2020",
+   "url": "http://www.icc.ro/ro/hot%C4%83r%C3%A2ri-ale-comitetului-jude%C8%9Bean-pentru-situa%C8%9Bii-de-urgen%C8%9B%C4%83-2020-12045",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/noutati/2020/H106-04.12.2020.pdf",
+     "sha256": "37c67faab1b810bf197f6b161413a2ab1237cbdf62e4d8cf3689dd5753768e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-24-2020",
+   "path": "local/judet/iasi/2020/24",
+   "short": "HCJ Iași nr. 24/2020",
+   "title": "Hotărârea Consiliului Județean Iași nr. 24/2020",
+   "url": "http://www.icc.ro/ro/hot%C4%83r%C3%A2ri-ale-comitetului-jude%C8%9Bean-pentru-situa%C8%9Bii-de-urgen%C8%9B%C4%83-2020-12045",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/noutati/2020/H24-SUMI.pdf",
+     "sha256": "6ed9c5457cfd6fe1ffc2f95d432869cc090a1fe6702749142d01bc614d925ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-259-2020",
+   "path": "local/judet/iasi/2020/259",
+   "short": "HCJ Iași nr. 259/2020",
+   "title": "Hotărârea Consiliului Județean Iași nr. 259/2020 privind rectificarea bugetului general al Judetului Iasi",
+   "url": "https://www.icc.ro/sites/default/files/files/activitate/hotarari/2020/11-09/259.pdf",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/sites/default/files/files/activitate/hotarari/2020/11-09/259.pdf",
+     "sha256": "3dcd33a6cb94dbd402aa300d110ba763a44ed5c6c8f5fd89cf0c5758aa6a186b"
+    }
+   ]
+  }
+ ]
+}

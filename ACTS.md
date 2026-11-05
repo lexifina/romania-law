@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12455 acts, 23,970 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12456 acts, 23,971 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8348, of which 3136 amending acts)
+## Laws (legi) (8349, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -620,6 +620,7 @@
 | Legea nr. 40/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Slovace privind recunoaşterea reciprocă a perioadelor de studii şi a actelor de studii eliberate în România şi în Republica Slovaca, semnat la Bratislava la 28 iunie 1998 | [`lege/1999/40/`](lege/1999/40/) | amended, not consolidated | 1 | 1999-03-18 | 1999-03-18 |
 | Legea nr. 41/1999 pentru aprobarea Ordonanţei Guvernului nr. 130/1998 privind regularizarea cotelor de capital social în procesul de privatizare a băncilor | [`lege/1999/41/`](lege/1999/41/) | amended, not consolidated | 1 | 1999-03-24 | 1999-03-24 |
 | Legea nr. 44/1999 privind respingerea Ordonanţei de urgenta a Guvernului nr. 20/1998 pentru modificarea Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, societăţilor comerciale de morărit şi/sau de panificaţie | [`lege/1999/44/`](lege/1999/44/) | amended, not consolidated | 1 | 1999-03-31 | 1999-03-31 |
+| Legea nr. 46/1999 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Moldova privind colaborarea în domeniul transporturilor militare, semnat la Bucureşti la 24 iulie 1997 | [`lege/1999/46/`](lege/1999/46/) | in force | 1 | 1999-04-07 | 1999-04-07 |
 | Legea nr. 47/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind înfiinţarea Batalionului mixt de menţinere a păcii, semnat la Budapesta la 20 martie 1998 | [`lege/1999/47/`](lege/1999/47/) | amended, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
 | Legea nr. 48/1999 pentru ratificarea Acordului de cooperare dintre Guvernul României şi Guvernul Republicii Ungare în domeniul transporturilor militare, semnat la Oradea la 20 decembrie 1997 | [`lege/1999/48/`](lege/1999/48/) | amended, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
 | Legea nr. 49/1999 | [`lege/1999/49/`](lege/1999/49/) | in force | 7 | 1999-04-01 | 2024-01-01 |
@@ -12521,7 +12522,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28435 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28459 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12537,4 +12538,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 36053 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 37553 | [`data/acts/local/`](data/acts/local/) |

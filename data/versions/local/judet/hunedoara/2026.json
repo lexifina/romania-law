@@ -3,6 +3,51 @@
  "shard": "local/judet/hunedoara/2026",
  "acts": [
   {
+   "slug": "hcj-hunedoara-1-2026",
+   "path": "local/judet/hunedoara/2026/1",
+   "short": "HCJ Hunedoara nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 1/2026 privind Modificarea Hotărârii Consiliului Județean Hunedoara nr.130/2023 privind aprobarea componenței nominale precum și a Regulamentului de organizare si funcționare ale Comisiei de evaluare a persoanelor adulte cu handicap Hunedoara - publicat la data de 02.02.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%201.pdf",
+     "sha256": "ebabbea880fd87975cbf5bfb627a7014e31bb29dcf63f0f6b7545800c1a10ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-2-2026",
+   "path": "local/judet/hunedoara/2026/2",
+   "short": "HCJ Hunedoara nr. 2/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 2/2026 privind Desemnarea reprezentanţilor Consiliului Judeţean Hunedoara în comisia de concurs/examen şi în comisia de soluţionare a contestaţiilor pentru ocuparea funcţiei de director medical la Sanatoriul de Pneumoftiziologie Geoagiu - publicat la data de 02.02.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%202.pdf",
+     "sha256": "526471f2b22cf74a4d88267d24cf1f1bd558eb4b529dc0bdccd309338fddd113"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-3-2026",
+   "path": "local/judet/hunedoara/2026/3",
+   "short": "HCJ Hunedoara nr. 3/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 3/2026 privind Acordarea de stimulente financiare comitetului director din cadrul spitalului judeţean de urgenţă deva - publicat la data de 02.02.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%203.pdf",
+     "sha256": "5c2c7bf2c094068c2ae79ebe02a78a16dfaae4d0c73d4606607f447b0d863a5f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-4-2026",
    "path": "local/judet/hunedoara/2026/4",
    "short": "HCJ Hunedoara nr. 4/2026",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%204.pdf",
      "sha256": "2729cb49b0809a5bb6a98d409f5aa69d248b8793436b647ce40ea111867635d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-5-2026",
+   "path": "local/judet/hunedoara/2026/5",
+   "short": "HCJ Hunedoara nr. 5/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 5/2026 privind Aprobarea statului de funcții al Sanatoriului de Pneumoftiziologie Geoagiu - publicat la data de 02.02.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%205.pdf",
+     "sha256": "420bc42bc686c34dddee85e47cc7036cbdcba5398e2aa0214423dce16a885e7a"
     }
    ]
   }

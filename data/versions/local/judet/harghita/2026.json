@@ -3,6 +3,141 @@
  "shard": "local/judet/harghita/2026",
  "acts": [
   {
+   "slug": "hcj-harghita-129-2026",
+   "path": "local/judet/harghita/2026/129",
+   "short": "HCJ Harghita nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 129/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 129/15.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-129-2026.pdf",
+     "sha256": "9a49ebeb44c617f5be65c8c627fd47fe26e2745b8602bb4dd5a646688a44d544"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-130-2026",
+   "path": "local/judet/harghita/2026/130",
+   "short": "HCJ Harghita nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 130/2026 privind repartizarea pe unități administrativ-teritoriale a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2026; Hotărârea nr. 130/15.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-130-2026.pdf",
+     "sha256": "9b72aa1267dfe97b796a9c9d27bb59e4cf3210ed81cbeaa6d91321ac9ba96732"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-131-2026",
+   "path": "local/judet/harghita/2026/131",
+   "short": "HCJ Harghita nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 131/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-131-2026.pdf",
+     "sha256": "4dc7f96a91babc1ddc56f930fbf9117ae2d66cc2ba707137caac6fb1caf8c538"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-132-2026",
+   "path": "local/judet/harghita/2026/132",
+   "short": "HCJ Harghita nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 132/2026 privind aprobarea modificării Hotărârii Consiliului Județean Harghita cu nr. 55/2021 privind aprobarea indicatorilor tehnico-economici al obiectivului de investiţii „Realizarea unei clădiri noi pentru secțiile Pneumologie și Boli infecțioase la Spitalul Județean de Urgență Miercurea Ciuc”; Hotărârea nr. 132/15.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-132-2026.pdf",
+     "sha256": "0a4b6d87488def0f7e091b143d87564c787f14f558f16be84b538aaf5e4e38b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-133-2026",
+   "path": "local/judet/harghita/2026/133",
+   "short": "HCJ Harghita nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 133/2026 privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cultelor religioase pe anul 2026-sesiunea mai; Hotărârea nr. 133/15.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-133-2026.pdf",
+     "sha256": "36550b843ce2f464587230fab8329018db64255def19f4ed101ddbfb5f17e797"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-134-2026",
+   "path": "local/judet/harghita/2026/134",
+   "short": "HCJ Harghita nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 134/2026 privind modificarea Hotărârii nr. 282/2025, privind aprobarea proiectului, a cheltuielilor legate de proiect și activităților prin care va fi implicat UAT Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-134-2026.pdf",
+     "sha256": "20a220da539697526a8d09f62c84153a9c44779f706f805ff4c5d9bce8433d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-135-2026",
+   "path": "local/judet/harghita/2026/135",
+   "short": "HCJ Harghita nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 135/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/06/Hot-135-2026.pdf",
+     "sha256": "1473f55abb7135731deb53c2a3cc58b6a15f88f75d5eb9a5a4dfbb870472d543"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-136-2026",
+   "path": "local/judet/harghita/2026/136",
+   "short": "HCJ Harghita nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 136/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-136-2026.pdf",
+     "sha256": "c9221ebc0197e968b09da96c19785094709ad62f83043c210d9a58a391950274"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-137-2026",
+   "path": "local/judet/harghita/2026/137",
+   "short": "HCJ Harghita nr. 137/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 137/2026 privind derularea programului „Săpături arheologice în judeţul Harghita” pe anul 2026; Hotărârea nr. 137/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-137-2026.pdf",
+     "sha256": "62fba65837dc2484b3dcc60f3eb14675d72c869b70b1a3c85578072795ffcea3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-138-2026",
    "path": "local/judet/harghita/2026/138",
    "short": "HCJ Harghita nr. 138/2026",
@@ -48,6 +183,636 @@
    ]
   },
   {
+   "slug": "hcj-harghita-141-2026",
+   "path": "local/judet/harghita/2026/141",
+   "short": "HCJ Harghita nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 141/2026 privind aprobarea Programului de promovare turistică şi cultural-turistică a judeţului Harghita pe anul 2026; Hotărârea nr. 141/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-141-2026.pdf",
+     "sha256": "754dce3b5b3ab5daaa6edf654775daa6a437dfd76c6d5815c43c53c34711b232"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-142-2026",
+   "path": "local/judet/harghita/2026/142",
+   "short": "HCJ Harghita nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 142/2026 privind aprobarea includerii terenurilor situate în Băile Homorod, înscrise în CF nr. 55244, 52134 respectiv 55441- al orașului Vlăhița, în domeniul public al județului Harghita; Hotărârea nr. 142/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-142-2026.pdf",
+     "sha256": "f15f2bd91d3ee83c73efeb504b363f390dcc1e36b9fc09d7c2b55c63635c36cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-143-2026",
+   "path": "local/judet/harghita/2026/143",
+   "short": "HCJ Harghita nr. 143/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 143/2026 privind aprobarea achiziționării de servicii juridice necesare în inițierea și parcurgerea procedurii de cercetare disciplinară precum și în formularea și susținerea plângerii penale și reprezentarea spitalului în orice litigiu decurgând din acest incident, constatat prin Raportul TDM nr. 193/25.02.2026 în care Spitalul de Psihiatrie Tulgheș este parte; Hotărârea nr. 143/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-143-2026.pdf",
+     "sha256": "9297ce010f7dcda203482a3fb314f639ceb133baffc5848df3f9dc1b656ac153"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-144-2026",
+   "path": "local/judet/harghita/2026/144",
+   "short": "HCJ Harghita nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 144/2026 privind aprobarea modificării Anexelor nr. 2 și 3 ale Hotărârii nr. 286/ 2012 privind aprobarea Regulamentului de Organizare și Funcționare, a Organigramei și a Statului de Funcții, al Serviciului Public de Pază al Obiectivelor de Interes Județean al Consiliului Județean Harghita, aprobarea Componenței consiliului de administrație, precum și stabilirea consumului lunar de carburanți pentru autouti",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-144-2026.pdf",
+     "sha256": "64dbb2a150f6ced5ba80cc9dfa493397fff9943f6dc37919b5a5c14ae42fdeca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-145-2026",
+   "path": "local/judet/harghita/2026/145",
+   "short": "HCJ Harghita nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 145/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 274/2021 privind aprobarea participării județului Harghita, prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-145-2026.pdf",
+     "sha256": "6256b82e27bd996d11a45e1a94dbbe20f49ad4e96ef13c7bd5b7512e135e05c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-146-2026",
+   "path": "local/judet/harghita/2026/146",
+   "short": "HCJ Harghita nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 146/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-146-2026.pdf",
+     "sha256": "26e7c5d7f91ff672be6381c6eed1ab72cf1f6b367b98e2b97369208aff1d7701"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-147-2026",
+   "path": "local/judet/harghita/2026/147",
+   "short": "HCJ Harghita nr. 147/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 147/2026 privind modificarea Hotărârii",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-147-2026.pdf",
+     "sha256": "6f4e0364c8348667c7592ec3dc6989e401a9d6a0056080883a064c3de6bda3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-148-2026",
+   "path": "local/judet/harghita/2026/148",
+   "short": "HCJ Harghita nr. 148/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 148/2026 privind modificarea și completarea Hotărârii Consiliului Județean Harghita nr. 354/2022, privind aprobarea devizului general actualizat și ai indicatorilor tehnico – economici actualizați ai obiectivului de investiții: „Reabilitare DJ 137”, cu modificările și completările ulterioare; Hotărârea nr. 148/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-148-2026.pdf",
+     "sha256": "75c8e36027b45920f8fa3689b58f1bd9d2823e9dced4c61d3966d8d5b5658a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-149-2026",
+   "path": "local/judet/harghita/2026/149",
+   "short": "HCJ Harghita nr. 149/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 149/2026 privind darea în administrare a spațiului medical din imobilul Dispensarul medical situat în Miercurea Ciuc, str. Patinoar, nr. 3, camera nr. E2, aflat în proprietatea privată a județului Harghita și în administrarea Consiliului Județean Harghita, către Spitalul Județean de Urgență Miercurea Ciuc; Hotărârea nr. 149/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-149-2026.pdf",
+     "sha256": "e131929d11a586bc5b9758efb7658928efb5a73e0bc90d96c16ce16d3b70b547"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-150-2026",
+   "path": "local/judet/harghita/2026/150",
+   "short": "HCJ Harghita nr. 150/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 150/2026 privind suspendarea Contractului de Comodat nr. 4139/2005 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-150-2026.pdf",
+     "sha256": "0e40d006c757e6b7ba16e85599e32491bd490db69e80c3d7a0d849f2392d466a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-151-2026",
+   "path": "local/judet/harghita/2026/151",
+   "short": "HCJ Harghita nr. 151/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 151/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 151/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-151-2026.pdf",
+     "sha256": "bf7e30f34d544dcf7a3dedd22e57abd632161ebc8357571bd1e144896362cfc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-152-2026",
+   "path": "local/judet/harghita/2026/152",
+   "short": "HCJ Harghita nr. 152/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 152/2026 privind aprobarea participării Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Harghita în calitate de solicitant la depunerea și implementarea proiectului ”Sprijin mai aproape de oameni – servicii mobile pentru comunitățile din nordul Harghitei” cod SMIS 365629 în cadrul Programului Incluziune și Demnitate Socială (PIDS) 2021-2027, apel de proiecte PIDS/885/PIDS_P7/OP4 Dezvoltarea",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-152-2026.pdf",
+     "sha256": "e192bd8b25100a50921ef15c5cc1adea8caaeee8ddc7488861bfc8c3f6d1d225"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-153-2026",
+   "path": "local/judet/harghita/2026/153",
+   "short": "HCJ Harghita nr. 153/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 153/2026 privind completarea Hotărârii Consiliului Județean Harghita nr. 212/2025 privind aprobarea contractării unui împrumut în valoare de 35.000.000 lei, în conformitate cu prevederile art. I din Ordonanţa de urgenţă a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului, cu modificările și completările ulterioare; Hotărârea nr. 153/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-153-2026.pdf",
+     "sha256": "ba4cd88c6f38d72e3760fc18c07d2c6d238818804165d0c1ab51e8d6bbbddbb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-154-2026",
+   "path": "local/judet/harghita/2026/154",
+   "short": "HCJ Harghita nr. 154/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 154/2026 privind aprobarea modificării Hotărârii Consiliului Județean Harghita cu nr. 109/2021 privind aprobarea indicatorilor tehnico-economici al obiectivului de investiţii „Amenajare Ambulatoriu la parter și etajul 1 al clădirii Policlinică din Miercurea-Ciuc” și aprobarea colaborării cu Direcția de Sănătate Publică Harghita; Hotărârea nr. 154/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-154-2026.pdf",
+     "sha256": "842cdf625058f40253f3ce7755cd20d5cb22b19e7353c269487f2558ed0d622b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-155-2026",
+   "path": "local/judet/harghita/2026/155",
+   "short": "HCJ Harghita nr. 155/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 155/2026 privind aprobarea trecerii mijloacelor fixe și obiectelor de inventar achiziționate în cadrul proiectului “Dotarea cu mobilier, materiale didactice și echipamente digitale a 83 unități de învățământ cu personalitate juridică și conexe din județul Harghita” finanțat prin Programul Național de Reziliență și Redresare (PNRR) pentru Pilonul VI",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-155-2026.pdf",
+     "sha256": "4973cc52895e40cd97fcf158889d6514113fbe4c0807d800dc0529faebc10fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-156-2026",
+   "path": "local/judet/harghita/2026/156",
+   "short": "HCJ Harghita nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 156/2026 privind aprobarea dării în administrare a mijloacelor fixe și obiectelor de inventar achiziționate în cadrul proiectului “Dotarea cu mobilier, materiale didactice și echipamente digitale a 83 unități de învățământ cu personalitate juridică și conexe din județul Harghita” finanțat prin Programul Național de Reziliență și Redresare (PNRR) pentru Pilonul VI",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-156-2026.pdf",
+     "sha256": "673b85f3276d8e72716756c6a7af78a6896c0e7b7387ff7fedd9a5525920fac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-157-2026",
+   "path": "local/judet/harghita/2026/157",
+   "short": "HCJ Harghita nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 157/2026 privind aprobarea dării în folosință gratuită a mijloacelor fixe și obiectelor de inventar achiziționate în cadrul proiectului “Dotarea cu mobilier, materiale didactice și echipamente digitale a 83 unități de învățământ cu personalitate juridică și conexe din județul Harghita” finanțat prin Programul Național de Reziliență și Redresare (PNRR) pentru Pilonul VI",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-157-2026.pdf",
+     "sha256": "6e7b15ff29fa7fc12073e5792c646ac33b96328b3808e5922d51ec2e35efcc8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-158-2026",
+   "path": "local/judet/harghita/2026/158",
+   "short": "HCJ Harghita nr. 158/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 158/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 213/2024 pentru actualizarea Monografiei economico-militare a județului Harghita; Hotărârea nr. 158/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-158-2026.pdf",
+     "sha256": "e22a6ff98aabb112e596d8b3b86ecd8c1a450dcbcf15c58f5aaa5f97087bcd8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-159-2026",
+   "path": "local/judet/harghita/2026/159",
+   "short": "HCJ Harghita nr. 159/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 159/2026 privind modificarea Hotărârii nr. 282/2025, privind aprobarea proiectului, a cheltuielilor legate de proiect și activităților prin care va fi implicat UAT Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-159-2026.pdf",
+     "sha256": "6f8c9b9ba517577dd3b933dccb7b86a203d2fef64507bd65ea9e6d9a5e7510ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-160-2026",
+   "path": "local/judet/harghita/2026/160",
+   "short": "HCJ Harghita nr. 160/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 160/2026 privind aprobarea includerii în domeniul privat al Județului Harghita a mijloacelor fixe și obiectelor de inventar achiziționate în cadrul proiectului cu “Harghita biblio digital Hub (HbdH)” în cadrul PNRR COMPONENTA 7 Transformarea digitală Operațiunea D",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-160-2026.pdf",
+     "sha256": "5c46d1345556afa5037b7da9423c5536e32639750ff3faa59f0e7e65fd32c58a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-161-2026",
+   "path": "local/judet/harghita/2026/161",
+   "short": "HCJ Harghita nr. 161/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 161/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-161-2026.pdf",
+     "sha256": "8df9a5ff2a490d7add3a945ea23b0f9f209e54eb6c9e5b23fc6167250a396548"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-162-2026",
+   "path": "local/judet/harghita/2026/162",
+   "short": "HCJ Harghita nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 162/2026 privind modificării Hotărârii Consiliului Județean nr. 152/2026 privind aprobarea participării Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Harghita în calitate de solicitant la depunerea și implementarea proiectului ”Sprijin mai aproape de oameni – servicii mobile pentru comunitățile din nordul Harghitei” cod SMIS 367008 în cadrul Programului Incluziune și Demnitate Socială (PID",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-162-2026.pdf",
+     "sha256": "515fea5d96d375b4c74ecac84977004bc9922faf5f9d662f9f52a71886fd03ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-163-2026",
+   "path": "local/judet/harghita/2026/163",
+   "short": "HCJ Harghita nr. 163/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 163/2026 privind modificarea și completarea capitolului 7. al Contractului de Închiriere nr. 459/21054/2020 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-163-2026.pdf",
+     "sha256": "50be23b03dc11e0b2b92bdab9a94fbe799295cdc6a85e120bcb050ca4da4e720"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-164-2026",
+   "path": "local/judet/harghita/2026/164",
+   "short": "HCJ Harghita nr. 164/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 164/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 164/16.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-164-2026.pdf",
+     "sha256": "1992d8476584bb9271d49c07914b526aee84dfec9ff3f3fc8c3f4369bf6dc8f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-165-2026",
+   "path": "local/judet/harghita/2026/165",
+   "short": "HCJ Harghita nr. 165/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 165/2026 privind modificarea Hotărârii nr. 423/2024 privind stabilirea numărului şi a denumirii, a numărului membrilor, cât și a componenței nominale a comisiilor de specialitate ale Consiliului Judeţean Harghita; Hotărârea nr. 165/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-165-2026.pdf",
+     "sha256": "3016c235bbaf6a928ac294a2f6d32c2ffd88a5bac7e7841e0844f8d992008de0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-166-2026",
+   "path": "local/judet/harghita/2026/166",
+   "short": "HCJ Harghita nr. 166/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 166/2026 privind aprobarea modificării Hotărârii Consiliului Judeţean Harghita nr. 116/2010 privind aprobarea Regulamentului de organizare şi funcţionare, organigramei şi statului de funcţii a Centrului Cultural Judeţean Harghita, cu modificările şi completările ulterioare; Hotărârea nr. 166/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-166-2026.pdf",
+     "sha256": "3d31135e522c335359301dc44bfaac3768e01d02d72a1c4fed7321977f8ee383"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-167-2026",
+   "path": "local/judet/harghita/2026/167",
+   "short": "HCJ Harghita nr. 167/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 167/2026 privind suspendarea Contractului de administrare nr. 10394/61232/2019 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-167-2026.pdf",
+     "sha256": "0da138705387e9e76e28b3a8e6d5c9b7b64e0626147d14760bd3f218f6303bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-168-2026",
+   "path": "local/judet/harghita/2026/168",
+   "short": "HCJ Harghita nr. 168/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 168/2026 privind suspendarea Contractului de comodat nr. 17982/55530/2018 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-168-2026.pdf",
+     "sha256": "ab502af3c1f0cceb259209806f250d37233fd08f3b0d873d2a39cfbf2a3fef07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-169-2026",
+   "path": "local/judet/harghita/2026/169",
+   "short": "HCJ Harghita nr. 169/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 169/2026 privind transmiterea în folosință gratuită unității administrativ-teritoriale Orașul Cristuru Secuiesc al apartamentului cu 3 camere situat în orașul Cristuru Secuiesc la adresa str",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-169-2026.pdf",
+     "sha256": "ad4e27863ea1e47fda9037e1c12c1cc329aa48e57ab4605cb86a6f2c321beb50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-170-2026",
+   "path": "local/judet/harghita/2026/170",
+   "short": "HCJ Harghita nr. 170/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 170/2026 privind desemnarea reprezentanților Consiliului Județean Harghita care să facă parte din comisia de concurs/examen respectiv comisia de soluționare a contestațiilor pentru ocuparea funcției de director financiar-contabil din cadrul Spitalului de Psihiatrie Tulgheș; Hotărârea nr. 170/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-170-2026.pdf",
+     "sha256": "ba0db07a2308ccefe67f854227611631ca1fcaeb0c7fa4a012eb2715196eac8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-171-2026",
+   "path": "local/judet/harghita/2026/171",
+   "short": "HCJ Harghita nr. 171/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 171/2026 privind mandatarea reprezentantului județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-171-2026.pdf",
+     "sha256": "43db31fec8aa293d7378191ff22a952f4b4877a6e7a344c9b35b2ac15efe2c84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-172-2026",
+   "path": "local/judet/harghita/2026/172",
+   "short": "HCJ Harghita nr. 172/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 172/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-172-2026.pdf",
+     "sha256": "b5ee989911b41594c487210e23f833fd22a4dd45e776447464bf8495aa687c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-173-2026",
+   "path": "local/judet/harghita/2026/173",
+   "short": "HCJ Harghita nr. 173/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 173/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 52/2023 privind aprobarea documentației de atribuire a Contractelor de delegare a gestiunii serviciilor publice de transport persoane prin curse regulate; Hotărârea nr. 173/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-173-2026.pdf",
+     "sha256": "43d23cf7b42c49e735e50b967d0da0c0f55facfa8ee6804586ead2124d52ef60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-174-2026",
+   "path": "local/judet/harghita/2026/174",
+   "short": "HCJ Harghita nr. 174/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 174/2026 privind modificarea și completarea Hotărârii Consiliului Judeţean Harghita nr. 160/2004 privind organizarea şi funcţionarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Harghita, cu modificările şi completările ulterioare; Hotărârea nr. 174/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-174-2026.pdf",
+     "sha256": "0bf49029cd12212cbfd3896c6c29b2459da6576f82f05aac4ae211dcca7b2972"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-175-2026",
+   "path": "local/judet/harghita/2026/175",
+   "short": "HCJ Harghita nr. 175/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 175/2026 privind aprobarea listei proiectelor selectate pentru contribuție financiară în cadrul programului de „Protecție a monumentelor istorice de pe teritoriul județului Harghita” pe anul 2026; Hotărârea nr. 175/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-175-2026.pdf",
+     "sha256": "1b0daefc319a4e1b2ea94fff8a4583160ed4fe77202101ef92f329a0fe2391bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-176-2026",
+   "path": "local/judet/harghita/2026/176",
+   "short": "HCJ Harghita nr. 176/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 176/2026 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al judeţului Harghita la 30 iunie 2026; Hotărârea nr. 176/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-176-2026.pdf",
+     "sha256": "a4527bda8e95d22478e3d21e8922f574ca6ac6da382f72f2bea7a74237e14ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-177-2026",
+   "path": "local/judet/harghita/2026/177",
+   "short": "HCJ Harghita nr. 177/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 177/2026 privind aprobarea vânzării unor ferestre scoase din uz și aprobarea modelului contractului de vânzare-cumpărare; Hotărârea nr. 177/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-177-2026.pdf",
+     "sha256": "c38ef5ce2112adf5b1ea0b2e32e43176098d786c9aad0ddce73ee1a6d3d144e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-178-2026",
+   "path": "local/judet/harghita/2026/178",
+   "short": "HCJ Harghita nr. 178/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 178/2026 privind aprobarea trecerii mijloacelor fixe și obiectelor de inventar achiziționate în cadrul proiectului cu titlul “Harghita biblio digital Hub (HbdH)” în cadrul PNRR COMPONENTA 7 Transformarea digitală Operațiunea D",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-178-2026.pdf",
+     "sha256": "601c40169a547cd83419d6ef7d2fef3d063b4df53a7115c2fbbe49f203bf0263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-179-2026",
+   "path": "local/judet/harghita/2026/179",
+   "short": "HCJ Harghita nr. 179/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 179/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-179-2026.pdf",
+     "sha256": "2b371c5d9f1c5d219ae6e3d8af58cc50e7d13dc4c1b3d016cd7acdd3afd33737"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-180-2026",
+   "path": "local/judet/harghita/2026/180",
+   "short": "HCJ Harghita nr. 180/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 180/2026 privind acordarea unui mandat special reprezentantului Consiliului Județean Harghita în Adunarea Generală al Asociaților Asociației de Dezvoltare Intercomunitară ”Hargita Víz”, la care Județul Harghita este membru asociat, pentru aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară ”Hargita Víz” și aprobarea aderării comunei Lueta ca membru al Asociației de Dezvoltare Intercom",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-180-2026.pdf",
+     "sha256": "7317387fb365adf58607969c59329ca3cd8244e72924f91dc522a38f82a62059"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-181-2026",
+   "path": "local/judet/harghita/2026/181",
+   "short": "HCJ Harghita nr. 181/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 181/2026 privind aprobarea participării Județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-181-2026.pdf",
+     "sha256": "a03dd2cdaf90ad7b8cf3c6c0bc70dede3d3749bbe9a493810b3d130985c39621"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-182-2026",
+   "path": "local/judet/harghita/2026/182",
+   "short": "HCJ Harghita nr. 182/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 182/2026 privind aprobarea încheierii Actului adițional pentru prelungirea contractului privind transmiterea în folosinţa gratuită a autoturismului HR 11 FND, aflat în proprietatea privată a Judeţului Harghita şi în administrarea Consiliului Judeţean Harghita, pentru Asociația de Dezvoltare Intercomunitară „S.I.M.D” Harghita pentru o perioadă de 1 an; Hotărârea nr. 182/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-182-2026.pdf",
+     "sha256": "b479da9c136f914b64ff94492575a673a51e05e68d0cf3057431efda613f5be5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-183-2026",
    "path": "local/judet/harghita/2026/183",
    "short": "HCJ Harghita nr. 183/2026",
@@ -63,6 +828,561 @@
    ]
   },
   {
+   "slug": "hcj-harghita-184-2026",
+   "path": "local/judet/harghita/2026/184",
+   "short": "HCJ Harghita nr. 184/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 184/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-184-2026.pdf",
+     "sha256": "7a3b8cf6c65a5a9c465f39a69df5473193bdc2f78b6d590dcd478adbe849ef9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-185-2026",
+   "path": "local/judet/harghita/2026/185",
+   "short": "HCJ Harghita nr. 185/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 185/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 438/2024 privind aprobarea depunerii Cererii de finanțare și a activităților prin care va fi implicat U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-185-2026.pdf",
+     "sha256": "48f7a29f62e920e5687132e8f764ad56d33b3a7fb1a0d13216d91fd57db78bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-186-2026",
+   "path": "local/judet/harghita/2026/186",
+   "short": "HCJ Harghita nr. 186/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 186/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 186/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-186-2026.pdf",
+     "sha256": "628484ff272830a37c4cb5c1016ec25cbcad70b31d278c09b343a1289e65c7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-187-2026",
+   "path": "local/judet/harghita/2026/187",
+   "short": "HCJ Harghita nr. 187/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 187/2026 privind aprobarea acordării alocației bugetare pentru cofinanţarea competiției sportive Cupa Internațională de Box „Tatárdomb”; Hotărârea nr. 187/11.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-187-2026.pdf",
+     "sha256": "3914f5080d7e85f520300ce7ae8ca9ce5322d32bb993f07074efce6ec15782c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-188-2026",
+   "path": "local/judet/harghita/2026/188",
+   "short": "HCJ Harghita nr. 188/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 188/2026 privind acordarea unui ajutor financiar Comunei Sânsimion din Fondul de rezervă bugetară la dispoziția Consiliului Județean Harghita pe anul 2026; Hotărârea nr. 188/11.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-188-2026.pdf",
+     "sha256": "c6353814074e93aa912f890a000ae7bf882c6ab7920c047a361161fe1173577b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-189-2026",
+   "path": "local/judet/harghita/2026/189",
+   "short": "HCJ Harghita nr. 189/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 189/2026 privind completarea și modificarea Anexei nr.2 la Hotărârea nr.173/2026 a Consiliului Județean Harghita, privind aprobarea documentației de atribuire a Contractelor de delegare a gestiunii serviciilor publice de transport persoane prin curse regulate; Hotărârea nr. 189/11.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-189-2026.pdf",
+     "sha256": "38012aea0a1ffb5cd5df66716a55e40774bf44fe4c69e8fe7dfd6b990079cf09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-190-2026",
+   "path": "local/judet/harghita/2026/190",
+   "short": "HCJ Harghita nr. 190/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 190/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-190-2026.pdf",
+     "sha256": "f332c9d5cccb8bc5f8462606067d6d017fe5cbd3acb8309e9c622b672ab6d28c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-191-2026",
+   "path": "local/judet/harghita/2026/191",
+   "short": "HCJ Harghita nr. 191/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 191/2026 privind privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cultelor religioase pe anul 2026 – sesiunea iulie și aprobarea modificării pct. 4 al Anexei nr. 1 la Hotărârea Consiliului Judeţean Harghita nr. 133/2026 privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cult",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-191-2026.pdf",
+     "sha256": "aecf5883ef1f3dc3213c9247693117301bc9d210e090e9f3e12be867ef4462f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-192-2026",
+   "path": "local/judet/harghita/2026/192",
+   "short": "HCJ Harghita nr. 192/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 192/2026 privind aprobarea documentației tehnico-economice aferente fazei Proiect Tehnic de Execuție și Detalii de Execuție (PT+DDE) și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Reabilitarea și Modernizarea Centrului de Sănătate Sânmartin”; Hotărârea nr. 192/11.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-192-2026.pdf",
+     "sha256": "64c3223f84c3008742fbe78f84574766e89cda47af29f8d1d0b40618bbf07440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-193-2026",
+   "path": "local/judet/harghita/2026/193",
+   "short": "HCJ Harghita nr. 193/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 193/2026 privind aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 126/2025 privind aprobarea Proiectului Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Renovarea energetică a imobilului Vila nr. 6 în incinta Taberei Băile Homorod”, precum și a modificării Hotărârii Consiliului Județean Harghita cu nr. 147/2025 privind aprobarea valorilor eligibile și neeligibi",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-193-2026.pdf",
+     "sha256": "4af7b9093e732f17920e836e92732b7b63b8bb63e5d9d150f91e20d5765c4bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-194-2026",
+   "path": "local/judet/harghita/2026/194",
+   "short": "HCJ Harghita nr. 194/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 194/2026 privind aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 125/2025 privind aprobarea Proiectului Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice a Palatului Administrativ al județului Harghita”, precum și a modificării Hotărârii Consiliului Județean Harghita cu nr. 153/2025 privind aprobarea valorilor eligibile și neeligi",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-194-2026.pdf",
+     "sha256": "9336f72440d7467fef3662f18c6c1df915bbb7c5d22fda5a90d560989f3ced0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-195-2026",
+   "path": "local/judet/harghita/2026/195",
+   "short": "HCJ Harghita nr. 195/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 195/2026 privind aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 124/2025 privind aprobarea Proiectului Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitare energetică, modernizare și extindere Policlinica stomatologică, precum și amenajare parcare auto în curtea imobilului” (PT+DTAC + Execuție) cu modificările ulterioare, precum și a modificării Hotărâ",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/08/Hot-195-2026.pdf",
+     "sha256": "5fc5733f16d5afc920234398b1ccdb0a4c2754215c709514c88be1224bdb4d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-196-2026",
+   "path": "local/judet/harghita/2026/196",
+   "short": "HCJ Harghita nr. 196/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 196/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita și utilizarea fondului de rezervă bugetară la dispoziția Consiliului Județean Harghita pe anul 2026; Hotărârea nr. 196/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-196-2026.pdf",
+     "sha256": "359538a2b9d543a679ea60eb0a61b7ee8c71263a4ab38e2374748b7fe0c02d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-197-2026",
+   "path": "local/judet/harghita/2026/197",
+   "short": "HCJ Harghita nr. 197/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 197/2026 privind modificarea Hotărârii Consiliului Județean nr. 56/2026 privind aprobarea contractării unei finanțări rambursabile interne în valoare de până la 15.000.000 lei; Hotărârea nr. 197/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-197-2026.pdf",
+     "sha256": "d7e7b9ee33061c16d12ad05d23e59498bfae3c91d22b3212667d75c25208c295"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-198-2026",
+   "path": "local/judet/harghita/2026/198",
+   "short": "HCJ Harghita nr. 198/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 198/2026 privind aprobarea necesarului pe anul 2026 al bunurilor aferente drepturilor prevăzute la art. 129 alin. (2) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului pentru beneficiarii serviciilor sociale din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Harghita; Hotărârea nr. 198/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-198-2026.pdf",
+     "sha256": "16c681ddd552ededd0ffad313e7f1f3e76caf0d7afffa475a06ca72cff144ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-199-2026",
+   "path": "local/judet/harghita/2026/199",
+   "short": "HCJ Harghita nr. 199/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 199/2026 privind revocarea dreptului de administrare al Spitalului Județean de Urgență Miercurea Ciuc asupra etajului 1 din Corpul de cazare pentru specialiști situat în incinta imobilului situat în str. Principală, nr. 361/A, comuna Sânmartin, județul Harghita, aparţinând domeniului public al judeţului Harghita și modificarea Hotărârii Consiliului Județean Harghita nr. 145/2006 privind darea în administra",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-199-2026.pdf",
+     "sha256": "2daeaf52bc1f6032f81637f9532e2ace47de79db4bfbbbb4d32fa9a0b1077651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-200-2026",
+   "path": "local/judet/harghita/2026/200",
+   "short": "HCJ Harghita nr. 200/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 200/2026 privind modificarea Anexei la Hotărârea Consiliului Județean Harghita cu nr. 126/2026 privind repartizarea fondurilor pentru cotizațiile județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-200-2026.pdf",
+     "sha256": "17f1e8e08337407da98d4fa0497e9b5bf6789d8e9ee5a0200f77f85dbc617ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-201-2026",
+   "path": "local/judet/harghita/2026/201",
+   "short": "HCJ Harghita nr. 201/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 201/2026 privind modificarea Contractului de Administrare nr. 13336/447/2007 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-201-2026.pdf",
+     "sha256": "c74966a41e4d107edcc0aac7c27793931a3d35a5ae1d321c4e775f1e553992ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-202-2026",
+   "path": "local/judet/harghita/2026/202",
+   "short": "HCJ Harghita nr. 202/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 202/2026 privind suspendarea Contractului de închiriere nr. 459/21054/2020 încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-202-2026.pdf",
+     "sha256": "dace1e4684b680fe106ff096e34b3e6ca99b60b2cb3027eb17526a6e83c5dd12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-203-2026",
+   "path": "local/judet/harghita/2026/203",
+   "short": "HCJ Harghita nr. 203/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 203/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-203-2026.pdf",
+     "sha256": "40a3b0cab034d3f45647f0423079ffedbf5dfd56bebcd2b78546d4a25471c1ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-204-2026",
+   "path": "local/judet/harghita/2026/204",
+   "short": "HCJ Harghita nr. 204/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 204/2026 privind aprobarea transmiterii fără plată a unor bunuri mobile scoase din uz; Hotărârea nr. 204/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-204-2026.pdf",
+     "sha256": "6e169c1f5ce59f881a0ee800ef5a7cef5774c3bfed538deee3fa32c2829e475a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-205-2026",
+   "path": "local/judet/harghita/2026/205",
+   "short": "HCJ Harghita nr. 205/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 205/2026 privind aprobarea valorii unitare în lei/kilometru, stabilită la nivelul valorii unitare medii la nivel național, aferentă sumei forfetare lunare pentru transportul elevilor beneficiari din județul Harghita, pentru anul școlar 2026–2027; Hotărârea nr. 205/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-205-2026.pdf",
+     "sha256": "d094b0e4c3ebd2c76b3aba64ce39cebc2b41e366721004b13b785a525605092f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-206-2026",
+   "path": "local/judet/harghita/2026/206",
+   "short": "HCJ Harghita nr. 206/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 206/2026 privind schimbarea denumirii unității de învățământ Școala Profesională Specială ”SZENT ANNA” Miercurea Ciuc în Liceul Tehnologic Special ”SZENT ANNA” Miercurea Ciuc, respectiv ”SZENT ANNA” Speciális Szaklíceum Csíkszereda începând cu anul școlar 2026-2027; Hotărârea nr. 206/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-206-2026.pdf",
+     "sha256": "4d7b077efe2ff9e9f82e175f7de2619637c46fd09d3a4eb650391972d6dacd47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-207-2026",
+   "path": "local/judet/harghita/2026/207",
+   "short": "HCJ Harghita nr. 207/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 207/2026 privind aprobarea cooperării Consiliului Județean Harghita cu Fundația „Passio Csíksomlyó” în vederea derulării „Programului de cooperare Întâlnirea intercarpatică Passió în anul 2026”; Hotărârea nr. 207/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-207-2026.pdf",
+     "sha256": "c5c7b1729770a4573b58b12c4bdd9e3a7e3e996502d1a5451ee2105e290eb26f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-208-2026",
+   "path": "local/judet/harghita/2026/208",
+   "short": "HCJ Harghita nr. 208/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 208/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 335/2025, privind aprobarea Planului de investiții pentru anul 2026 aferent activelor date în concesiune de către U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-208-2026.pdf",
+     "sha256": "c6224f88d44273531a661805e4ab5231f1dca2d3790ab54578928f40e9b587aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-209-2026",
+   "path": "local/judet/harghita/2026/209",
+   "short": "HCJ Harghita nr. 209/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 209/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-209-2026.pdf",
+     "sha256": "8a7e47ef13f3902369a215471552f7e369c2bb009621d9f9c0f596c286cca11f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-210-2026",
+   "path": "local/judet/harghita/2026/210",
+   "short": "HCJ Harghita nr. 210/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 210/2026 privind constituirea Comisiei locală de avizare integrată a documentațiilor de amenajare a teritoriului și a documentațiilor de urbanism la nivelul Județului Harghita și aprobarea Regulamentului de organizare și funcționare a acesteia; Hotărârea nr. 210/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-210-2026.pdf",
+     "sha256": "ce4093c42acb31d284bf7e33faf952c310e0a28c0ff1b86a94263163572c5ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-211-2026",
+   "path": "local/judet/harghita/2026/211",
+   "short": "HCJ Harghita nr. 211/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 211/2026 privind aprobarea achiziționării de către Spitalul de Psihiatrie Tulgheș a unor servicii de consultanță, asistență și reprezentare juridică în situații de conflict de interese sau litigii cu personalul juridic propriu; Hotărârea nr. 211/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-211-2026.pdf",
+     "sha256": "535a590035415a4fc1661afe4b9cdba97dcd557b74e80219fb332fc67041771c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-212-2026",
+   "path": "local/judet/harghita/2026/212",
+   "short": "HCJ Harghita nr. 212/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 212/2026 privind modificarea Hotărârii Nr. 170 /2026 privind desemnarea reprezentanților Consiliului Județean Harghita care să facă parte din comisia de concurs/examen respectiv comisia de soluționare a contestațiilor pentru ocuparea funcției de director financiar-contabil din cadrul Spitalului de Psihiatrie Tulgheș; Hotărârea nr. 212/31.08.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-212-2026.pdf",
+     "sha256": "b41227135997c896f629481636329a49752ed7530616c2a25686c4088418a67a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-213-2026",
+   "path": "local/judet/harghita/2026/213",
+   "short": "HCJ Harghita nr. 213/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 213/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 213/14.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-213-2026.pdf",
+     "sha256": "7d34cb64d9ea88e1182f3722152444ffaa9814da415467bb9e6010db9ff65b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-214-2026",
+   "path": "local/judet/harghita/2026/214",
+   "short": "HCJ Harghita nr. 214/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 214/2026 privind constituirea Comisiei de acord unic la nivelul Județului Harghita și aprobarea Regulamentului de organizare și funcționare a acesteia; Hotărârea nr. 214/14.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-214-2026.pdf",
+     "sha256": "1f01162910c4b61c8c845a02b8d02dfa9925d45403b23a81613f65e4ada60264"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-215-2026",
+   "path": "local/judet/harghita/2026/215",
+   "short": "HCJ Harghita nr. 215/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 215/2026 privind modificarea Hotărârii Consiliului Județean Hargita nr. 89/2025 pentru aprobarea derulării programului „Ocrotirea patrimoniului cultural imobil al județului Harghita” a Consiliului Judeţean Harghita pe anii 2025 – 2026; Hotărârea nr. 215/14.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-215-2026.pdf",
+     "sha256": "715e0dbcc4433bbe35a4c6effb87b414b76aaf4ad788003aad185a4272bed81e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-216-2026",
+   "path": "local/judet/harghita/2026/216",
+   "short": "HCJ Harghita nr. 216/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 216/2026 privind modificarea Hotărârii nr.79/2026 cu privire la aprobarea derulării „Programului privind creșterea eficienței în administrația publică la",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-216-2026.pdf",
+     "sha256": "511adfec255e1033d41f6175b6260a9a10655a9cba96704db96a9c43a71ff6b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-217-2026",
+   "path": "local/judet/harghita/2026/217",
+   "short": "HCJ Harghita nr. 217/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 217/2026 privind modificarea Hotărârii Consiliului Judeţean Harghita nr. 160/2004 privind organizarea şi funcţionarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Harghita, cu modificările şi completările ulterioare; Hotărârea nr. 217/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-217-2026.pdf",
+     "sha256": "b7a51873bd1fc48e0467f9314ffc16963251f645298b77aa2c571b83dbbf40a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-218-2026",
+   "path": "local/judet/harghita/2026/218",
+   "short": "HCJ Harghita nr. 218/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 218/2026 privind aprobarea preluării fără plată a unui autoturism de la",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-218-2026.pdf",
+     "sha256": "16e0b3d8f5fe7ebfa4a89f0ed4d6d0802a80c1725260d5fced1354fe8c838051"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-219-2026",
+   "path": "local/judet/harghita/2026/219",
+   "short": "HCJ Harghita nr. 219/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 219/2026 privind aprobarea derulării Programului pentru dezvoltarea și sustenabilitatea organizațiilor neguvernamentale din județul Harghita, pe anul 2026; Hotărârea nr. 219/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-219-2026.pdf",
+     "sha256": "19979ec7c8d2e0927cd7cfd61576f04a263f0820fd606624ab614061301328a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-220-2026",
+   "path": "local/judet/harghita/2026/220",
+   "short": "HCJ Harghita nr. 220/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 220/2026 pentru modificarea Hotărârii Consiliului Județean Harghita nr. 28/2013 privind aprobarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Miercurea Ciuc, cu modificările și completările ulterioare; Hotărârea nr. 220/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-220-2026.pdf",
+     "sha256": "e62bc09ed7933d1ab42e8f449210c976b3f49e2208ba3307c4940f88ff5ed333"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-221-2026",
    "path": "local/judet/harghita/2026/221",
    "short": "HCJ Harghita nr. 221/2026",
@@ -74,6 +1394,681 @@
      "units": 1,
      "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-221-2026.pdf",
      "sha256": "a91215bbb13d86447034362278474775cb2c67ae3b8befb6204320354e9275dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-222-2026",
+   "path": "local/judet/harghita/2026/222",
+   "short": "HCJ Harghita nr. 222/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 222/2026 privind aprobarea închirierii unui spațiu pentru desfășurarea activității de către Centrul Județean de Resurse și Asistență Educațională Harghita; Hotărârea nr. 222/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-222-2026.pdf",
+     "sha256": "6f164a8daa7a4badf938f97f201a4a97e6d38b8f8e82ce6453f4085b021bef77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-224-2026",
+   "path": "local/judet/harghita/2026/224",
+   "short": "HCJ Harghita nr. 224/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 224/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-224-2026.pdf",
+     "sha256": "23a0b914fa831d434d6c0c077eb0a30a16a2449d940aac6a41917b1cab6876f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-225-2026",
+   "path": "local/judet/harghita/2026/225",
+   "short": "HCJ Harghita nr. 225/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 225/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-225-2026.pdf",
+     "sha256": "dc15e7e66e0bc8009e10dad96180ed6dd71ebaa7c96283da00c164906e6d8a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-226-2026",
+   "path": "local/judet/harghita/2026/226",
+   "short": "HCJ Harghita nr. 226/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 226/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 212/2025 privind aprobarea contractării unui împrumut în valoare de 35.000.000 lei, în conformitate cu prevederile art. I din Ordonanţa de urgenţă a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului, cu modificările și completările ulterioare; Hotărârea nr. 226/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-226-2026.pdf",
+     "sha256": "3542bd79bf8d19f7f94e2f7f510d6c0325fef950d98b18697e06f9c4ecb95b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-227-2026",
+   "path": "local/judet/harghita/2026/227",
+   "short": "HCJ Harghita nr. 227/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 227/2026 privind aprobarea acordării alocației bugetare pentru cofinanţarea competiției sportive „Cupa României de Taekwondo WT-proba olimpică de luptă (Kyorugi)”; Hotărârea nr. 227/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-227-2026.pdf",
+     "sha256": "28b05643c10a4e6f65d42690cd01c13f8f6fe6bf1ca1b88433ac92f17bacc815"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-228-2026",
+   "path": "local/judet/harghita/2026/228",
+   "short": "HCJ Harghita nr. 228/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 228/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-228-2026.pdf",
+     "sha256": "ceebcc39b9897c7170a16af764d5189c95b819f0a971210722086dc0aad9a9d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-229-2026",
+   "path": "local/judet/harghita/2026/229",
+   "short": "HCJ Harghita nr. 229/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 229/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 335/2025, privind aprobarea Planului de investiții pentru anul 2026 aferent activelor date în concesiune de către U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-229-2026.pdf",
+     "sha256": "4dd1402f1be176b25cf02cb84080367c0d637d1d088c22fa05313e37aea93ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-230-2026",
+   "path": "local/judet/harghita/2026/230",
+   "short": "HCJ Harghita nr. 230/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 230/2026 privind aprobarea revocării măsurii de suspendare precum și încetarea Contractului de închiriere nr. 8513/2009 cu completările și modificările ulterioare, încheiat între Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-230-2026.pdf",
+     "sha256": "1fa35b58290d9efa0428ae77bb24de77b461e6beb2b88808291fac23d37460d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-231-2026",
+   "path": "local/judet/harghita/2026/231",
+   "short": "HCJ Harghita nr. 231/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 231/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-231-2026.pdf",
+     "sha256": "866bd419cd6d351b9e762801dc2dd2186e60ea2f637067457f706246c8a302a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-232-2026",
+   "path": "local/judet/harghita/2026/232",
+   "short": "HCJ Harghita nr. 232/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 232/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-232-2026.pdf",
+     "sha256": "4951845d0c8c6e27ccf6243894399c05877eee7ce3a2de06a2c69b05bdde00b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-233-2026",
+   "path": "local/judet/harghita/2026/233",
+   "short": "HCJ Harghita nr. 233/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 233/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 233/29.09.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-233-2026.pdf",
+     "sha256": "35269fa5213366e02e6839695effe306bebbafb38bd162584943329adad1e295"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-234-2026",
+   "path": "local/judet/harghita/2026/234",
+   "short": "HCJ Harghita nr. 234/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 234/2026 pentru aprobarea depunerii Cererii de finanțare, prin care va fi implicat Spitalul Județean de Urgență Miercurea Ciuc, privind proiectul de finanțare Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice cu finanțare din Fondul pentru Modernizare",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-234-2026.pdf",
+     "sha256": "8462b98a64d12ecf87ed4cfc1843cd9d48895bd4b6432294c9348083da48b60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-235-2026",
+   "path": "local/judet/harghita/2026/235",
+   "short": "HCJ Harghita nr. 235/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 235/2026 privind transmiterea în administrarea Spitalului Județean de Urgență Miercurea Ciuc a unor spații (Centru de zi și grădiniță, Centru de perfecționare și documentare, Centru de plasament de tip familial pentru nou născuți abandonați respectiv Centrul maternal) din clădirea principală al imobilului situat în comuna Sânmartin, județul Harghita, str. Principală, nr. 361/A, aparţinând domeniului public",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/10/Hot-235-2026.pdf",
+     "sha256": "b30ee0c1ce1c5c65a506585aaad7ba2eea43a6a6102ddc8da21c207d801b0b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-236-2026",
+   "path": "local/judet/harghita/2026/236",
+   "short": "HCJ Harghita nr. 236/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 236/2026 privind aprobarea atribuirii directe a serviciilor, având ca obiect ”Servicii de curățenie” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 236/12.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-236-2026.pdf",
+     "sha256": "e19ddd941f8714f81d93413d500eb704ebb28687a0ccf6bf5de8f5b3ef1e284d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-237-2026",
+   "path": "local/judet/harghita/2026/237",
+   "short": "HCJ Harghita nr. 237/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 237/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Harghita în calitate de partener în cadrul proiectului „VENUS II – AEQUILIBRIUM – Măsuri de sprijin integrate pentru victimele violenței domestice”, cod SMIS 367547; Hotărârea nr. 237/12.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/10/Hot-237-2026.pdf",
+     "sha256": "afbe8d69e3912de7381d4dfe0c2d1c97dbb6c9ebc561f9e6fbbb4cca25b995e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-238-2026",
+   "path": "local/judet/harghita/2026/238",
+   "short": "HCJ Harghita nr. 238/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 238/2026 privind aprobarea vânzării prin licitație publică deschisă a unor mijloace fixe scoase din uz în urma inventarierii pe anul 2025 la",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/10/Hot-238-2026.pdf",
+     "sha256": "7e2d0e353b365fad19fd22f4274ad298e9d902331f0f86d2c0099ab334de242a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-239-2026",
+   "path": "local/judet/harghita/2026/239",
+   "short": "HCJ Harghita nr. 239/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 239/2026 privind aprobarea prețurilor unitare pentru Întreținerea curentă pe timp de iarnă pe drumurile județene din județul Harghita în perioada 2026-2027 pentru Lot 4, LOT 15, LOT 16 și LOT 17, ce vor fi aplicate de Societatea Întreținere Drumuri Harghita SRL; Hotărârea nr. 239/12.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/10/Hot-239-2026.pdf",
+     "sha256": "4a75b73d8df25db8ccbf4f00afa84110d7ed4885b59be6dd37af72899d1595ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-240-2026",
+   "path": "local/judet/harghita/2026/240",
+   "short": "HCJ Harghita nr. 240/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 240/2026 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2026; Hotărârea nr. 240/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-240-2026.pdf",
+     "sha256": "0b40b59c4794400fa0416b7df583c08ec3f01cbd299c6786204dfa426188203c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-241-2026",
+   "path": "local/judet/harghita/2026/241",
+   "short": "HCJ Harghita nr. 241/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 241/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-241-2026.pdf",
+     "sha256": "5b9225adf99ddbf3d74353e17bdbe774438ebaebdea9ba31bbecaec7185fe0c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-242-2026",
+   "path": "local/judet/harghita/2026/242",
+   "short": "HCJ Harghita nr. 242/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 242/2026 privind aprobarea documentației tehnice cadastrale aferente drumului județean DJ 132 în vederea înregistrării în sistemul integrat de cadastru și publicitate imobiliară, precum și a actualizării informațiilor tehnice a sectorului de drum județean aferent DJ 132; Hotărârea nr. 242/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-242-2026.pdf",
+     "sha256": "8ddf5c9d6e4bc4a24d8730c647dcd04b0eecfb05511d6aecbfe725fe991caab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-243-2026",
+   "path": "local/judet/harghita/2026/243",
+   "short": "HCJ Harghita nr. 243/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 243/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-243-2026.pdf",
+     "sha256": "9286a43e0b976cdac58e53a674cc900fe6c8a984ae7ea1192629129a4ea76e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-244-2026",
+   "path": "local/judet/harghita/2026/244",
+   "short": "HCJ Harghita nr. 244/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 244/2026 privind aprobarea transmiterii unor mijloace fixe din domeniul public al Județului Harghita în domeniul privat al Județului Harghita și adăugarea valorii acestora la valoarea unor active care sunt evidențiate în domeniul privat al Județului Harghita; Hotărârea nr. 244/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-244-2026.pdf",
+     "sha256": "4ff83fbb887ebf330a332070ee4cb221133e8f4f4f08268632f5419881de9256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-245-2026",
+   "path": "local/judet/harghita/2026/245",
+   "short": "HCJ Harghita nr. 245/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 245/2026 privind darea în administrare Spitalului Județean de Urgență Miercurea Ciuc a tuturor spaţiilor aflate la etajul 1 al Policlinicii stomatologice, situat în Miercurea Ciuc, Bulevardul Timișoarei, nr. 4, județul Harghita, aparţinând domeniului public al judeţului Harghita și aflat în administrarea",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-245-2026.pdf",
+     "sha256": "618a6ed6c6dbdaf279d0131306446c1639cbed5850864eed9131a9c8657a0685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-246-2026",
+   "path": "local/judet/harghita/2026/246",
+   "short": "HCJ Harghita nr. 246/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 246/2026 privind darea în administrare Centrului Cultural Județean Harghita a tuturor spaţiilor aflate la parterul și demisolul Policlinicii stomatologice, situat în Miercurea Ciuc, Bulevardul Timișoarei, nr. 4, județul Harghita, aparţinând domeniului public al judeţului Harghita și aflat în administrarea",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-246-2026.pdf",
+     "sha256": "cd3d5b94e8161f2f639dc1c57b88aa51452e81ad1cb01d53ec6a07001dd76d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-247-2026",
+   "path": "local/judet/harghita/2026/247",
+   "short": "HCJ Harghita nr. 247/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 247/2026 privind darea în administrare Editurii Hargita Népe a tuturor spaţiilor aflate la etajul 2 al Policlinicii stomatologice, situat în Miercurea Ciuc, Bulevardul Timișoarei, nr. 4, județul Harghita, aparţinând domeniului public al judeţului Harghita și aflat în administrarea",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/10/Hot-247-2026.pdf",
+     "sha256": "22bf8bd7b84eabd369c6e4558c324c7c398381cf12b9a1b23da0a82308bb993c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-248-2026",
+   "path": "local/judet/harghita/2026/248",
+   "short": "HCJ Harghita nr. 248/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 248/2026 privind solicitarea trecerii unui teren situat în Băile Homorod din domeniul public al Comunei Căpâlnița în domeniul public al Județului Harghita; Hotărârea nr. 248/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-248-2026.pdf",
+     "sha256": "27ead5dbbf29765278f954934a160252d71c360e662d9986198fd306d30671b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-249-2026",
+   "path": "local/judet/harghita/2026/249",
+   "short": "HCJ Harghita nr. 249/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 249/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 88/2026 privind aprobarea participării Județului Harghita, prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-249-2026.pdf",
+     "sha256": "ba3ed4578dd22c6b8a7fc543893df055458cad2ed4ba71c4d6a0b83741c8a488"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-250-2026",
+   "path": "local/judet/harghita/2026/250",
+   "short": "HCJ Harghita nr. 250/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 250/2026 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 15” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 250/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-250-2026.pdf",
+     "sha256": "5430aa3186fad48b1097ba8caaa85337e562caea86c01f2fbc46297c7d916687"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-251-2026",
+   "path": "local/judet/harghita/2026/251",
+   "short": "HCJ Harghita nr. 251/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 251/2026 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 16” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 251/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-251-2026.pdf",
+     "sha256": "424b27cb16cea0c79d7a58f42969740b6fa12ac19c684178d8d34836e7b308c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-252-2026",
+   "path": "local/judet/harghita/2026/252",
+   "short": "HCJ Harghita nr. 252/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 252/2026 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 17” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 252/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-252-2026.pdf",
+     "sha256": "6ab06e4d7c73f75baa437d4afdf68b8ef798ad832103a4d03655965e8412e988"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-253-2026",
+   "path": "local/judet/harghita/2026/253",
+   "short": "HCJ Harghita nr. 253/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 253/2026 privind modificarea Hotărârii Consiliului Județean Harghita nr. 204/2017 privind aprobarea nivelului salariilor de bază la gradaţia zero corespunzătoare funcției, gradului/treptei profesionale pentru funcțiile publice și funcțiile de natură contractuală utilizate în cadrul aparatului de specialitate al Consiliului Județean Harghita și în cadrul serviciilor publice din subordinea acestuia, cu modif",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-253-2026.pdf",
+     "sha256": "7b541f77bed3c3b1093051f0449b1fbeb56fccb8084415021bd8b4263b7bf412"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-254-2026",
+   "path": "local/judet/harghita/2026/254",
+   "short": "HCJ Harghita nr. 254/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 254/2026 privind aprobarea transmiterii în folosință gratuită către Inspectoratul pentru Situații de Urgență „Oltul” al Județului Harghita a unei stații radio portabile, în scopul îmbunătățirii comunicațiilor operative cu structurile din cadrul unităților administrativ-teritoriale cu atribuții în gestionarea situațiilor de urgență; Hotărârea nr. 254/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-254-2026.pdf",
+     "sha256": "c868f8193024ea1c55a54e113bdc93af9f928be8c6012918e9bd70dc8bcdfead"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-255-2026",
+   "path": "local/judet/harghita/2026/255",
+   "short": "HCJ Harghita nr. 255/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 255/2026 privind modificarea Contractului de Administrare nr. 23426/27.10.2014 încheiat între Orașul Vlăhița prin Consiliul Local al Orașului Vlăhița și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-255-2026.pdf",
+     "sha256": "80561cd49d06b9b0940a67626545e9ef807edc16459b36da41a288a3d0782909"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-256-2026",
+   "path": "local/judet/harghita/2026/256",
+   "short": "HCJ Harghita nr. 256/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 256/2026 privind modificarea Contractului de Administrare nr. 606/23430/2014 încheiat între Municipiul Miercurea-Ciuc prin Consiliul Local al Municipiului Miercurea-Ciuc și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-256-2026.pdf",
+     "sha256": "c96ce9011f9b233eb5920fa78c5f7cdde9e5c3ebb1ce442ec230a6d990a873c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-257-2026",
+   "path": "local/judet/harghita/2026/257",
+   "short": "HCJ Harghita nr. 257/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 257/2026 privind modificarea Contractului de Administrare nr. 10400/23428/2014 încheiat între Municipiul Gheorgheni prin Consiliul Local al Municipiului Gheorgheni și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-257-2026.pdf",
+     "sha256": "1982d2f6844840370776c46d857d4017a4c20d8b8735799ae1c419c902081598"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-258-2026",
+   "path": "local/judet/harghita/2026/258",
+   "short": "HCJ Harghita nr. 258/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 258/2026 privind modificarea Contractului de Administrare nr. 7167/23421/27.10.2014 încheiat între Comuna Corund prin Consiliul Local al Comunei Corund și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-258-2026.pdf",
+     "sha256": "fd79d3a17a9abcebebea5ad10d36fcfb281278c57ec0a3508573dcdd55eca6b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-259-2026",
+   "path": "local/judet/harghita/2026/259",
+   "short": "HCJ Harghita nr. 259/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 259/2026 privind modificarea Contractului de Administrare nr. 6297/19.03.2015 încheiat între Orașul Bălan prin Consiliul Local al Orașului Bălan și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-259-2026.pdf",
+     "sha256": "2315dbc4bea51a432f80ff21395d9cdbd478f0c7e29d59713ded8f65aa3495ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-260-2026",
+   "path": "local/judet/harghita/2026/260",
+   "short": "HCJ Harghita nr. 260/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 260/2026 privind modificarea Contractului de Administrare nr. 23420/13190/2014 încheiat între Municipiul Toplița prin Consiliul Local al Municipiului Toplița și Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-260-2026.pdf",
+     "sha256": "9243f89967e3d86387db687e6a6b4020251f74c3594715f25a3bebf1ecaadaef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-261-2026",
+   "path": "local/judet/harghita/2026/261",
+   "short": "HCJ Harghita nr. 261/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 261/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-261-2026.pdf",
+     "sha256": "0797513b1ac648fd57ebb14b48057245c6bbeecbc5b859e832a8405c2aee878d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-262-2026",
+   "path": "local/judet/harghita/2026/262",
+   "short": "HCJ Harghita nr. 262/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 262/2026 privind aprobarea prețului unitar pentru efectuarea lucrărilor de plombarea cu mixtură stocabilă rece, prestate de către societatea Întreținere Drumuri Harghita SRL; Hotărârea nr. 262/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-262-2026.pdf",
+     "sha256": "19e4f53177b394c085d7c13563693e156491006a0a098e7014c1e5d475517eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-263-2026",
+   "path": "local/judet/harghita/2026/263",
+   "short": "HCJ Harghita nr. 263/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 263/2026 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al judeţului Harghita la 30 septembrie 2026; Hotărârea nr. 263/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-263-2026.pdf",
+     "sha256": "260b99e2d32bcb971250c4ba30e2974fcb6edf6fdaf3b23a589e9bc8d4a8c1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-264-2026",
+   "path": "local/judet/harghita/2026/264",
+   "short": "HCJ Harghita nr. 264/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 264/2026 privind modificarea Anexei nr.2 la Hotărârea nr.52/2023 a Consiliului Județean Harghita, privind aprobarea documentației de atribuire a Contractelor de delegare a gestiunii serviciilor publice de transport persoane prin curse regulate; Hotărârea nr. 264/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/11/Hot-264-2026.pdf",
+     "sha256": "1ed2dc156612766b0c3ca4351f46525865bdea1cce008412e46dbf45ef73b8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-265-2026",
+   "path": "local/judet/harghita/2026/265",
+   "short": "HCJ Harghita nr. 265/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 265/2026 privind aprobarea Studiului de fezabilitate și a principalilor indicatori tehnico-economici privind proiectul „Asigurarea autoconsumului din surse fotovoltaice cu stocare pentru centrele sociale ale DGASPC Harghita din localitățile Frumoasa și Tulgheș”, finanțat în cadrul Fondului pentru Modernizare – Programul-cheie 1 „Surse regenerabile de energie și stocarea energiei”, apelul „Sprijinirea inves",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/11/Hot-265-2026.pdf",
+     "sha256": "0e1ee9a9416cc9295d7279111d4ce0449870dc5f7b6f73addfe34102ed74bbc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-266-2026",
+   "path": "local/judet/harghita/2026/266",
+   "short": "HCJ Harghita nr. 266/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 266/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Harghita în calitate de lider privind proiectul „Asigurarea autoconsumului din surse fotovoltaice cu stocare pentru centrele sociale ale DGASPC Harghita din localitățile Frumoasa și Tulgheș” în cadrul Fondului pentru Modernizare – Programul-cheie 1 „Surse regenerabile de energie și stocarea energiei”, ape",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/11/Hot-266-2026.pdf",
+     "sha256": "88acabab4a7e8384641a093273667c974ce3d6e4f4dd36ffd97e6d76f55078d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-267-2026",
+   "path": "local/judet/harghita/2026/267",
+   "short": "HCJ Harghita nr. 267/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 267/2026 privind desemnarea reprezentantului Consiliului Județean Harghita în calitate de membru în Consiliul de administrație din cadrul Liceului Tehnologic Special „Szent Anna” Miercurea-Ciuc, respectiv „Szent Anna” Speciális Szaklíceum Csíkszereda; Hotărârea nr. 267/29.10.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/11/Hot-267-2026.pdf",
+     "sha256": "c4a45a82c86060fb96275acc23d29c45a6c9c42f57681551ea90665e9491f837"
     }
    ]
   }

@@ -3,6 +3,246 @@
  "shard": "local/judet/iasi/2021",
  "acts": [
   {
+   "slug": "hcj-iasi-1-2021",
+   "path": "local/judet/iasi/2021/1",
+   "short": "HCJ Iași nr. 1/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 1/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-1",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-1",
+     "sha256": "2b1f6763e8f345dc07813c8f33ee9bdcd3cd0f1e5e521aaa51f0737da773c1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-10-2021",
+   "path": "local/judet/iasi/2021/10",
+   "short": "HCJ Iași nr. 10/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 10/2021 privind acordarea de stimulente financiare lunare în limita a două salarii minime brute pe țară personalului din cadrul Spitalului Clinic de Boli Infecțioase „Sf. Parasch",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-10",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-10",
+     "sha256": "f4dae928689d1de3168f8871d5285f970c59f21a7746da4919474dc35c7f20be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-107-2021",
+   "path": "local/judet/iasi/2021/107",
+   "short": "HCJ Iași nr. 107/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2021",
+   "url": "http://www.icc.ro/ro/hot%C4%83r%C3%A2ri-ale-comitetului-jude%C8%9Bean-pentru-situa%C8%9Bii-de-urgen%C8%9B%C4%83-2021-12046",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/noutati/2021/H107.pdf",
+     "sha256": "1f8aa6b65600001b6dc74b1f4f0030ea6b07c1264b2321e6125680e66055548c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-11-2021",
+   "path": "local/judet/iasi/2021/11",
+   "short": "HCJ Iași nr. 11/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 11/2021 privind aprobarea Anexei 1 – Reparații curente din Programul de lucrări drumuri și poduri al Direcției Județene de Administrare a Drumurilor și Podurilor Iași pentru anu",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-11",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-11",
+     "sha256": "eddf5b8904b6885c6a08eddf123058eece14ed678d50387e66af9b972a266f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-12-2021",
+   "path": "local/judet/iasi/2021/12",
+   "short": "HCJ Iași nr. 12/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 12/2021 privind aprobarea demarării procedurii de achiziție publică ACORD CADRU pentru lucrările de întreținere pe drumurile județene pe timp de vară pentru perioada 2021-2022 și",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-12",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-12",
+     "sha256": "5bd57e35348ddeaee2f9ccd132f9635ed6e4a5782302721002e4ec040eda1a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-13-2021",
+   "path": "local/judet/iasi/2021/13",
+   "short": "HCJ Iași nr. 13/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 13/2021 privind aprobarea demarării procedurii de achiziție publică pentru lucrări de Modernizare drum județean DJ 201C: lim",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-13",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-13",
+     "sha256": "ef55483ebb4639275edc89786c2496fd53e79a3ca40420aeb9a0aeaaef807c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-14-2021",
+   "path": "local/judet/iasi/2021/14",
+   "short": "HCJ Iași nr. 14/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 14/2021 privind aprobarea demarării procedurii de achiziție publică pentru lucrări de Modernizare drum județean DJ 249: Hermeziu – Vladomira, km 5+650 – 8+800 și aprobarea unui c",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-14",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-14",
+     "sha256": "012858c534eb0677e991d61ab2d2487eb11c3a61738f34acd66297d17529940a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-15-2021",
+   "path": "local/judet/iasi/2021/15",
+   "short": "HCJ Iași nr. 15/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 15/2021 privind aprobarea demarării procedurii de achiziție publică pentru lucrări de Modernizare drum județean DJ 282B: Intersecție DN 24C – Bivolari – Traian – Spineni – Inters",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-15",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-15",
+     "sha256": "0aa3320292179136ac5db66e10c5b3f40075f6e93cbab349d7d32390e278535f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2021",
+   "path": "local/judet/iasi/2021/16",
+   "short": "HCJ Iași nr. 16/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2021 privind înființarea și funcționarea Centrului de îngrijire și asistență pentru persoane adulte cu dizabilități \"Sfântul Nectarie\" prin reorganizarea Centrului rezidențial",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "0e8087e6084e8514d9cbd2ea6b83d2cfb2dc137fbb1ffd205da89c487c9a51f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-17-2021",
+   "path": "local/judet/iasi/2021/17",
+   "short": "HCJ Iași nr. 17/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 17/2021 privind aprobarea alocării din excedentul Consiliului Județean Iași pentru anul 2021 a fondurilor necesare plății furnizării de dotări și serviciilor de consultanță în ca",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-17",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-17",
+     "sha256": "00c909a83ef324ad0936a852f721fd79b106c5e0706a745f6e79695d8fd78069"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-18-2021",
+   "path": "local/judet/iasi/2021/18",
+   "short": "HCJ Iași nr. 18/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 18/2021 pentru aprobarea modificării Hotărârii Consiliului Județean Iași nr. 3/11.01.2021 privind aprobarea alocării din bugetul Consiliului Județean Iași pentru anul 2021 a fond",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-18",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-18",
+     "sha256": "52c20bfc428cfda7c8c49c3519171864044e0a4640b9894554b77a3580fb0d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2021",
+   "path": "local/judet/iasi/2021/19",
+   "short": "HCJ Iași nr. 19/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2021 privind aprobarea alocării din excedentul Consiliului Județean Iași pentru anul 2021 a fondurilor necesare plății execuției de lucrări în cadrul proiectului ”Regiunea No",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "82fc95b4f0f6c53a048060f62321498ded057afa9fa37f9ceb8a7d745aa27999"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-2-2021",
+   "path": "local/judet/iasi/2021/2",
+   "short": "HCJ Iași nr. 2/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 2/2021 privind aprobarea realizării obiectivului de investiții “CONSTRUIREA ȘI DOTAREA INSTITUTULUI REGIONAL DE MEDICINĂ CARDIOVASCULARĂ – IAȘI”, a Notei Conceptuale, a Temei de Proie",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-2",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-2",
+     "sha256": "299ce453cdb69ef4debe27f7480f446e23d855c599d52e46f32800f258800068"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-20-2021",
+   "path": "local/judet/iasi/2021/20",
+   "short": "HCJ Iași nr. 20/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 20/2021 privind alocarea din excedentul Consiliului Județean Iași pe anul 2021 a unor sume necesare plăților urgente până la aprobarea bugetului pe anul în curs, pentru obiectivu",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-20",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-20",
+     "sha256": "6c91e963c9040b3cc22ed6c21dc625d64a343cf36d61e8156372a81766617dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-21-2021",
+   "path": "local/judet/iasi/2021/21",
+   "short": "HCJ Iași nr. 21/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 21/2021 privind aprobarea alocării din excedentul Consiliului Județean Iași pentru anul 2021 a fondurilor necesare derulării activităților în cadrul proiectului “REABILITAREA ȘI",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-21",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-21",
+     "sha256": "52a783901f3e0e116f6a7782b41e8b2d2aa73d03bd5685253bdc5e5e38de26e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-218-2021",
+   "path": "local/judet/iasi/2021/218",
+   "short": "HCJ Iași nr. 218/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 218/2021 privind aprobarea închirierii, prin licitație publică, a suprafeței de 1599 mp teren, situat în str",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-218",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-218",
+     "sha256": "1797ca094053c6e7e2b8b36a93c0393ff772bc4b9674affeb8a93c79efd60f9a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-219-2021",
    "path": "local/judet/iasi/2021/219",
    "short": "HCJ Iași nr. 219/2021",
@@ -14,6 +254,336 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-219",
      "sha256": "a08eec673c35bbd45baf93e6faef70648b66fff3cfc4fc400f4449630840f4be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-22-2021",
+   "path": "local/judet/iasi/2021/22",
+   "short": "HCJ Iași nr. 22/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 22/2021 privind aprobarea „Planului Județean de Gestionare a Deșeurilor în Județul Iași 2019-2025” Tags: hotărâre hotărâri hotărâri 2021 27.01.2021 Creat de icc la Mar, 09/0",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-22",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-22",
+     "sha256": "2da1e6c2058fb97a5606937875fd48101bb938fb0e7f1809391beaf2b2e01e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-220-2021",
+   "path": "local/judet/iasi/2021/220",
+   "short": "HCJ Iași nr. 220/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 220/2021 privind aprobarea trecerii din domeniul privat în domeniul public al Județului Iași a imobilului situat în Oraș Podu Iloaiei, Județul Iași identificat în cartea funciară 6",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-220",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-220",
+     "sha256": "bcf3f907e206f703c58e8e6f23fa87d117245b4671ce2488fdc1b1055011c5c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-221-2021",
+   "path": "local/judet/iasi/2021/221",
+   "short": "HCJ Iași nr. 221/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 221/2021 privind aprobarea transmiterii din proprietatea publică a Județului Iași în proprietatea publică a Orașului Podu Iloaiei a imobilului situat în sat Scobâlțeni, Oraș Podu I",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-221",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-221",
+     "sha256": "e9bcad3932307c8216354ba5fd4b34647cfd7bb4418ae01604f1e8f5940d229f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-222-2021",
+   "path": "local/judet/iasi/2021/222",
+   "short": "HCJ Iași nr. 222/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 222/2021 pentru acordarea mandatului special reprezentanților Județului Iași în cadrul Adunării Generale a Asociaților a Asociației de Dezvoltare Intercomunitară EURONEST în vedere",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-222",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-222",
+     "sha256": "e0367e5c7697625a76e178d120638ebfcebf85e468dc862fbe76658b8c19bca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-223-2021",
+   "path": "local/judet/iasi/2021/223",
+   "short": "HCJ Iași nr. 223/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 223/2021 pentru modificarea Hotărârii Consiliului Județean Iași nr. 361/16.12.2020 privind desemnarea reprezentanților Consiliului Județean Iași în organele colegiale de conducere",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-223",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-223",
+     "sha256": "5c8c5c8adc06b70848710db6ce836ccadeed8cfed6db7490302cc215ece9e03e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-224-2021",
+   "path": "local/judet/iasi/2021/224",
+   "short": "HCJ Iași nr. 224/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 224/2021 pentru aprobarea modificării și completării Hotărârii Consiliului Județean Iași cu nr. 200/23.06.2021 privind organizarea de către",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-224",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-224",
+     "sha256": "768edf585f6b1c3a92133396789beff4dce4d5bfc70f204328f3a76fb833d164"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-226-2021",
+   "path": "local/judet/iasi/2021/226",
+   "short": "HCJ Iași nr. 226/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 226/2021 privind aprobarea repartizării pe unități de cult a unor sume cu destinația de sprijin financiar, potrivit art. 3 alin (3) din Ordonanța Guvernului nr. 82/2001, precum și",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-226",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-226",
+     "sha256": "fd173bfdb6c094509897688b39348208f2002a6c4cbb0adc04934eaca48d0af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-227-2021",
+   "path": "local/judet/iasi/2021/227",
+   "short": "HCJ Iași nr. 227/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 227/2021 privind aprobarea execuție bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-227",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-227",
+     "sha256": "8d42c751ce1f7b1bb317a652acca1cc981aa5e97e9aab335a36c5abb5370f533"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-228-2021",
+   "path": "local/judet/iasi/2021/228",
+   "short": "HCJ Iași nr. 228/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 228/2021 privind rectificarea bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-228",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-228",
+     "sha256": "2a67d1f93a6ea4c388870871615e75757c1dca9a7d9ddc8b9e28b69239da039f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-229-2021",
+   "path": "local/judet/iasi/2021/229",
+   "short": "HCJ Iași nr. 229/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 229/2021 privind aprobarea repartizarii sumelor in vederea atribuirii contractelor de finantare in cadrul Programului pentru acordarea de finantari nerambursabile in anul 2021 din bugetul Judetului Iasi —",
+   "url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2021/28-07/229.pdf?fbclid=IwAR1l15TxvE42W6fE7Da2DRGcYdMgo5qhCvmKNwCD5Ne5725jkmQzoF1pNvo",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2021/28-07/229.pdf?fbclid=IwAR1l15TxvE42W6fE7Da2DRGcYdMgo5qhCvmKNwCD5Ne5725jkmQzoF1pNvo",
+     "sha256": "70c9a24e984c76d25a838052dc24c7f263bc7543088481ca7a66fac6755192c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2021",
+   "path": "local/judet/iasi/2021/23",
+   "short": "HCJ Iași nr. 23/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2021 privind aprobarea Raportului pentru perioada ianuarie – decembrie 2020 privind stadiul realizării măsurilor incluse în Planul de menținere a calității aerului în Județul",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "79e94741da11d734ba152372c413e8f001d3a861984cc120235a4413f820374c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-235-2021",
+   "path": "local/judet/iasi/2021/235",
+   "short": "HCJ Iași nr. 235/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 235/2021 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Județean Iași din data de 21 iulie 2021 Tags: hotărâre hotărâri hotărâri 2021 25.08.2021 Crea",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-235",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-235",
+     "sha256": "e768b0b5a868810e128fdbfd2ffc409ef5be0fdba45cfd2e65c534f3064f6d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-236-2021",
+   "path": "local/judet/iasi/2021/236",
+   "short": "HCJ Iași nr. 236/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 236/2021 privind aprobarea procesului –verbal al ședinței extraordinare a Consiliului Județean Iași din data de 28 iulie 2021, convocată de îndată prin intermediul mijloacelor ele",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-236",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-236",
+     "sha256": "f28b5c033aa71587438c43c57c1cb88c6ff3cc5d75d7541a77c304778339429d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-237-2021",
+   "path": "local/judet/iasi/2021/237",
+   "short": "HCJ Iași nr. 237/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 237/2021 privind aprobarea procesului –verbal al ședinței extraordinare a Consiliului Județean Iași din data de 06 august 2021, convocată de îndată prin intermediul mijloacelor el",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-237",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-237",
+     "sha256": "cbae32e3cc52217fcb5b1be1042b7b0e452e66e3b026edf236b6c44b5a9cb26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-238-2021",
+   "path": "local/judet/iasi/2021/238",
+   "short": "HCJ Iași nr. 238/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 238/2021 privind aprobarea încheierii unui Acord de Cooperare între Județul Iași din România și Raionul Soroca din Republica Moldova Tags: hotărâre hotărâri hotărâri 2021 25.08",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-238",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-238",
+     "sha256": "80e2d7426f37fa59a3cc512d2ba1b93b2f4b76b8a686474bd6b15e76d0f58dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-239-2021",
+   "path": "local/judet/iasi/2021/239",
+   "short": "HCJ Iași nr. 239/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 239/2021 privind modificarea și completarea Hotărârii Consiliului Județean Iași nr.47/24.02.2021 privind aprobarea Scenariului 2 din Master Planul Integrat pentru realizarea obiec",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-239",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-239",
+     "sha256": "3cb509f70021602f7b053cfe7bdf4cb651d0d0b955c2d5272e87f553ad093898"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-24-2021",
+   "path": "local/judet/iasi/2021/24",
+   "short": "HCJ Iași nr. 24/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 24/2021 privind aprobarea rețelei învățământului special din județul Iași pentru anul școlar 2021 – 2022 Tags: hotărâre hotărâri hotărâri 2021 27.01.2021 Creat de icc la Mar",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-24",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-24",
+     "sha256": "cb105ef72de51e533412e800ad95da7a492d32af2d994e1efdfdf9647aadb0cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-240-2021",
+   "path": "local/judet/iasi/2021/240",
+   "short": "HCJ Iași nr. 240/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 240/2021 privind modificarea Anexei 1 – Reparații curente din Programul de lucrări drumuri și poduri al Direcției Județene de Administrare a Drumurilor și Podurilor Iași pentru a",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-240",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-240",
+     "sha256": "e151de38cf01f0eeb6d6a1fbc797064f1b657904d82e2880e1b3c776cc9e4cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-241-2021",
+   "path": "local/judet/iasi/2021/241",
+   "short": "HCJ Iași nr. 241/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 241/2021 privind aprobarea transmiterii din domeniul public al județului Iași, administrat de D.J.A.D.P",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-241",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-241",
+     "sha256": "8f18149078c06e5ed5ed35c84c04f3cdff7d3d8df84e5f1c945d8473ac17401a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-242-2021",
+   "path": "local/judet/iasi/2021/242",
+   "short": "HCJ Iași nr. 242/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 242/2021 privind aprobarea Planului de restructurare al centrului de recuperare și Reabilitare Neuropsihiatrică Hârlău Tags: hotărâre hotărâri hotărâri 2021 25.08.2021 Creat d",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-242",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-242",
+     "sha256": "b8369006855bec728d24b1cdd26a40d20432957d044c62f61181e402712825e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-243-2021",
+   "path": "local/judet/iasi/2021/243",
+   "short": "HCJ Iași nr. 243/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 243/2021 privind aprobarea transmiterii, fără plată, din proprietatea privată a UAT Județul Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-243",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-243",
+     "sha256": "4d554ed0fa3b58619719ce41d9e83a7f9307cc31b738f73645b60435a2957248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-244-2021",
+   "path": "local/judet/iasi/2021/244",
+   "short": "HCJ Iași nr. 244/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 244/2021 pentru modificarea Hotărârii Consiliului Județean Iași nr. 309/25.11.2020 privind aprobarea Acordului de Parteneriat și a cheltuielilor necesare realizării proiectului “",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-244",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-244",
+     "sha256": "253df8548411ebd93506e5d21d22de7439e1e809d548af8eaee8fbb408db129c"
     }
    ]
   },
@@ -33,6 +603,441 @@
    ]
   },
   {
+   "slug": "hcj-iasi-26-2021",
+   "path": "local/judet/iasi/2021/26",
+   "short": "HCJ Iași nr. 26/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2021 privind darea în administrare către Parchetul de pe lângă Curtea de Apel Iași a două încăperi situate la demisolul al-II-lea al Centrului Expozițional",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "8212f7338ea89a303a3c6faf2427115c709b5541838053d97ec90251a4a112bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-278-2021",
+   "path": "local/judet/iasi/2021/278",
+   "short": "HCJ Iași nr. 278/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 278/2021 pentru modificarea Hotărârii Consiliului Județean Iași nr. 365/2020 privind nominalizarea a 6 consilieri județeni ca membri ai Autorității Teritoriale de Ordine Publi",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-278",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-278",
+     "sha256": "ee4dfc65cdca19dadd6e7412fedb86bc699fe62ef496c0b8517aa55676643db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-279-2021",
+   "path": "local/judet/iasi/2021/279",
+   "short": "HCJ Iași nr. 279/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 279/2021 privind rectificarea sumelor repartizate pe unitățile administrativ-teritoriale din județul Iași din sume defalcate din taxa pe valoarea adaugată pentru finanțarea ch",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-279",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-279",
+     "sha256": "85049ef42903357e2832f590ab5081df38c7ac8864d12d4323cbaa6fdb7a1821"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-280-2021",
+   "path": "local/judet/iasi/2021/280",
+   "short": "HCJ Iași nr. 280/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 280/2021 privind aprobarea includerii sumei totale de 35700 lei în bugetul propriu al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-280",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-280",
+     "sha256": "d1033a77005e655713f8a8934e7d228b6e833ab0ce08ad5a148bc291cf2b9061"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-281-2021",
+   "path": "local/judet/iasi/2021/281",
+   "short": "HCJ Iași nr. 281/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 281/2021 privind aprobarea creditelor de angajament si creditelor bugetare pentru obiectivul de investiții „Elaborarea Strategiei de Dezvoltare Socio-Economică a Județului Iaș",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-281",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-281",
+     "sha256": "4d31505598ac3450c461962366cffa3b7d77a511eb63b5c898274f78d7feaf62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-282-2021",
+   "path": "local/judet/iasi/2021/282",
+   "short": "HCJ Iași nr. 282/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 282/2021 pentru modificarea componenței comisiilor de specialitate ale Consiliului Județean Iași prevăzute în Anexa la Hotărârea Consiliului Județean Iași nr. 284/09.11.2020",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-282",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-282",
+     "sha256": "4143b7528eec045944bf62a7472b31605ffd2f5d8f7db809fa07d93c5216682b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-283-2021",
+   "path": "local/judet/iasi/2021/283",
+   "short": "HCJ Iași nr. 283/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 283/2021 privind aprobarea demararii demersurilor pentru garantarea de catre Judetul Iasi —",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-283",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-283",
+     "sha256": "7ba2bd04117d1b51cff2b3ba2f55df576d60da60dd01cff552633beaedb19dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-284-2021",
+   "path": "local/judet/iasi/2021/284",
+   "short": "HCJ Iași nr. 284/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 284/2021 privind rectificarea bugetului general at Judetului lasi",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-284",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-09-22/hot%C4%83r%C3%A2rea-nr-284",
+     "sha256": "17a3b26bdcbfd920431e814f1abcaccd2506232a44fd6192061fe57970f4910b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-285-2021",
+   "path": "local/judet/iasi/2021/285",
+   "short": "HCJ Iași nr. 285/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 285/2021 privind incetarea contractelor de mandat ale membrilor Consiliului de administratie al R.A",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-08/hot%C4%83r%C3%A2rea-nr-285",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-08/hot%C4%83r%C3%A2rea-nr-285",
+     "sha256": "6e53a7a74562296f33c5d06345a3a0dd1a06a2b4d62e44c7176403a4dcb6f58b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-287-2021",
+   "path": "local/judet/iasi/2021/287",
+   "short": "HCJ Iași nr. 287/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 287/2021 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic de Boli Infecțioase „Sf. Parascheva” Iași Tags: hotărâre hotărâri hotărâri 2021 12.10.20",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-12/hot%C4%83r%C3%A2rea-nr-287",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-12/hot%C4%83r%C3%A2rea-nr-287",
+     "sha256": "55fc16eccefbb0203107d203b36006d3bf3e8118f977e4ac05424b27de472b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-288-2021",
+   "path": "local/judet/iasi/2021/288",
+   "short": "HCJ Iași nr. 288/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 288/2021 privind aprobarea înființării unei linii de gardă în specialitatea ATI pentru secția exterioară Lețcani - spital mobil/modular din containere de logistică medicală (2",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-12/hot%C4%83r%C3%A2rea-nr-288",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-12/hot%C4%83r%C3%A2rea-nr-288",
+     "sha256": "ada50fc859be6e212cf100faff89dd6bdd53d995657257671b4d54417f6e3a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-3-2021",
+   "path": "local/judet/iasi/2021/3",
+   "short": "HCJ Iași nr. 3/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 3/2021 privind aprobarea alocării din bugetul Consiliului Județean Iași pentru anul 2021 a fondurilor necesare pentru achiziția și realizarea documentațiilor tehnico-economice Etapa I",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-3",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-3",
+     "sha256": "26245bd62ffd594f656d19d215b59045651ec1fe1d4b08be595e00a6ecf053ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-32-2021",
+   "path": "local/judet/iasi/2021/32",
+   "short": "HCJ Iași nr. 32/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 32/2021",
+   "url": "http://www.icc.ro/ro/hot%C4%83r%C3%A2ri-ale-comitetului-jude%C8%9Bean-pentru-situa%C8%9Bii-de-urgen%C8%9B%C4%83-2021-12046",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/noutati/2021/H32.pdf",
+     "sha256": "5fe733770748ae66fa483db703b4387cd316840cee88b0709e79bed363a81c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-333-2021",
+   "path": "local/judet/iasi/2021/333",
+   "short": "HCJ Iași nr. 333/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 333/2021 privind aprobarea repartizării pe unități de cult a unor sume cu destinația de sprijin financiar, potrivit art. 3 alin. (3) din Ordonanța Guvernului nr. 82/2001 Tag",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-333",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-333",
+     "sha256": "1c6975ec4899efcb4b7f98b87ae8068f081853bf2b5ed6d4ca854949a7dbb9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-334-2021",
+   "path": "local/judet/iasi/2021/334",
+   "short": "HCJ Iași nr. 334/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 334/2021 privind aprobarea execuției bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-334",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-334",
+     "sha256": "6e4d3b7d3a9d1cc17a57b751f459a3f3594b5315e30f1a908416053040014a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-335-2021",
+   "path": "local/judet/iasi/2021/335",
+   "short": "HCJ Iași nr. 335/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 335/2021 privind achiziția de servicii de consultanță, asistență și reprezentare juridică a Spitalului Clinic de Boli Infecțioase „Sfânta Parascheva” Iași și a Secției Exterioa",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-335",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-335",
+     "sha256": "db44ba75c4ae8359e07d740f2b10746f41eaed3f69c6a11ce7dbc4ddfb20013d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-336-2021",
+   "path": "local/judet/iasi/2021/336",
+   "short": "HCJ Iași nr. 336/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 336/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-336",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-336",
+     "sha256": "ecb3d95ace7b060416b5ee2c496e449f08cccf4256864488c50288e0d3676569"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-337-2021",
+   "path": "local/judet/iasi/2021/337",
+   "short": "HCJ Iași nr. 337/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 337/2021 privind aprobarea înființării celei de-a doua linie de gardă în specialitatea ATI pentru secția exterioară Lețcani – spital mobil/modular din containere de logistică m",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-337",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-337",
+     "sha256": "bf0df81078a7c7677f8b664789fe10f91dc3a1b7b7fae8f884f507e4331e8c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-338-2021",
+   "path": "local/judet/iasi/2021/338",
+   "short": "HCJ Iași nr. 338/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 338/2021 privind aprobarea alocării sumei de 261,74 mii lei din bugetul local al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-338",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-338",
+     "sha256": "1fe132c6d8ca26c4b593b51b598e54624940f1f02071c3808db8c993c05a4124"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-339-2021",
+   "path": "local/judet/iasi/2021/339",
+   "short": "HCJ Iași nr. 339/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 339/2021 privind rectificarea bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-339",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-10-20/hot%C4%83r%C3%A2rea-nr-339",
+     "sha256": "122a70375174b070f4bd5738d66cd6e1b17f89d5131aa9e896e2196bd94c7bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-340-2021",
+   "path": "local/judet/iasi/2021/340",
+   "short": "HCJ Iași nr. 340/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 340/2021 privind aprobarea cererii de finanțare și a devizului general estimativ aferent obiectivului de investiție “Reabilitare drum județean DJ 208: Limita Jud",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-340",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-340",
+     "sha256": "1d37a11f84e08010dc54064e83cfd9967ee0a4803bf57b4ac6b4bf87fae98e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-341-2021",
+   "path": "local/judet/iasi/2021/341",
+   "short": "HCJ Iași nr. 341/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 341/2021 privind aprobarea cererii de finanțare și a devizului general estimativ aferent obiectivului de investiție “Reabilitare drum județean DJ 248: Intersecție Centura Iași - D",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-341",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-341",
+     "sha256": "bea951316f5afaed3c518fc4905ce06df63c9b60872dc98da46cda89cb065e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-342-2021",
+   "path": "local/judet/iasi/2021/342",
+   "short": "HCJ Iași nr. 342/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 342/2021 privind rectificarea Hotărârii de Consiliu Județean Iași nr. 279/29.09.2015 privind studiul de fezabilitate și a indicatorilor tehnico-economici la obiectivul “Modernizar",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-342",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-05/hot%C4%83r%C3%A2rea-nr-342",
+     "sha256": "ba90cd7d5bd597158e2eb277cc7c3ee4e9eddbefc2c1c20267aba3a25b5e13a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-343-2021",
+   "path": "local/judet/iasi/2021/343",
+   "short": "HCJ Iași nr. 343/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 343/2021 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Județean Iași din data de 20 octombrie 2021 Tags: hotărâre hotărâri hotărâri 2021 24.11.2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-343",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-343",
+     "sha256": "f1f055bfd3c25021cef00e5698423d525b60a7cc833d717ef0938577e609ad52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-344-2021",
+   "path": "local/judet/iasi/2021/344",
+   "short": "HCJ Iași nr. 344/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 344/2021 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Județean Iași convocată de îndată în 05 noiembrie 2021, ora 13,00 ale cărei lucrări s-au",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-344",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-344",
+     "sha256": "faeeec522f180e616e19da228d0d34b68cd4f5062e97f927a7fe9b9dfef14928"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-346-2021",
+   "path": "local/judet/iasi/2021/346",
+   "short": "HCJ Iași nr. 346/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 346/2021 privind aprobarea creditelor de angajament și a creditelor bugetare pentru realizarea reparației Stației de producere a oxigenului medical din cadrul Stației de Fluide",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-346",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-346",
+     "sha256": "496c1f15cc1e5883177736ae952776ca9b158dadc198a7b1326df528eae02b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-347-2021",
+   "path": "local/judet/iasi/2021/347",
+   "short": "HCJ Iași nr. 347/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 347/2021 privind aprobarea creditelor de angajament și a creditelor bugetare pentru realizarea obiectivului de investiții “Reabilitarea și Modernizarea Ascensorului pentru Pers",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-347",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-347",
+     "sha256": "112a9332b48ba21b66f23dfc8b7d752d04b1f273b3d598a49162ea8f4874423d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-348-2021",
+   "path": "local/judet/iasi/2021/348",
+   "short": "HCJ Iași nr. 348/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 348/2021 privind aprobarea alocării sumei de 103,50 mii lei din bugetul local al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-348",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-348",
+     "sha256": "137555712d7a7f0f1c457d4847e67e0da515eb556764a76738e2dd1f459f0f8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-35-2021",
+   "path": "local/judet/iasi/2021/35",
+   "short": "HCJ Iași nr. 35/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 35/2021",
+   "url": "http://www.icc.ro/ro/hot%C4%83r%C3%A2ri-ale-comitetului-jude%C8%9Bean-pentru-situa%C8%9Bii-de-urgen%C8%9B%C4%83-2021-12046",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/noutati/2021/H35.pdf",
+     "sha256": "9884f8d7178fb13ef4f8cccf4b619828d7f130c490663be4f6ad9593712f1758"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-350-2021",
    "path": "local/judet/iasi/2021/350",
    "short": "HCJ Iași nr. 350/2021",
@@ -44,6 +1049,591 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-350",
      "sha256": "e58939d9a47404122664519db75741adcc883e8b823cae154c390cbaf371d7b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-351-2021",
+   "path": "local/judet/iasi/2021/351",
+   "short": "HCJ Iași nr. 351/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 351/2021 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Centrului de Asistență Medico-Socială Bivolari. Tags: hotă",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-351",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-351",
+     "sha256": "c18fbfb916b5b1bde970b2f8735ab9de44c409137ee0a306fa7b5bed8c43bd6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-352-2021",
+   "path": "local/judet/iasi/2021/352",
+   "short": "HCJ Iași nr. 352/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 352/2021 privind aprobarea costului mediu lunar de întreținere, a contribuției lunare de întreținere în sarcina beneficiarilor serviciilor asigurate de către Centrul de Asisten",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-352",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-352",
+     "sha256": "715c2025de72808fd46ea475e9db88735a15653aa69e5aa1f575083af62ae5cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-355-2021",
+   "path": "local/judet/iasi/2021/355",
+   "short": "HCJ Iași nr. 355/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 355/2021 privind aprobarea costului mediu lunar de întreținere, a contribuției lunare de întreținere în sarcina beneficiarilor serviciilor asigurate de către Unitatea Medico-So",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-355",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-355",
+     "sha256": "4dbfb8039ba79a44c6bf0aa6df337b848af2c1281e162830f0849f72c06f5264"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-356-2021",
+   "path": "local/judet/iasi/2021/356",
+   "short": "HCJ Iași nr. 356/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 356/2021 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici la obiectivul de investiții: CONSTRUIRE CORP CLĂDIRE PENTRU ASIGURAREA ASISTENȚEI MED",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-356",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-356",
+     "sha256": "66bdb7f1b2544f6c96061de5d810f87bfec7d3d34ab204d30a289f91947652ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-357-2021",
+   "path": "local/judet/iasi/2021/357",
+   "short": "HCJ Iași nr. 357/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 357/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-357",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-357",
+     "sha256": "1c6fe01b8024d4a6ea22c1d83f2bbaedfa8931591af01846f4db56e30cbd1904"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-358-2021",
+   "path": "local/judet/iasi/2021/358",
+   "short": "HCJ Iași nr. 358/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 358/2021 pentru modificarea art. 2 la Hotărârea Consiliului Județean Iași nr. 266/30.09.2020 privind aprobarea Regulamentului de Organizare și Funcționare al Direcției Generale",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-358",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-358",
+     "sha256": "78538c1c3e2f2de2077878d64922e0682d1762a93143166c799ab79a5eb132b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-359-2021",
+   "path": "local/judet/iasi/2021/359",
+   "short": "HCJ Iași nr. 359/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 359/2021 privind aprobarea modificării Hotărârii Consiliului Județean Iași nr. 101/2018 pentru aprobarea proiectului “Închiderea Centrului rezidențial ”Bogdana”, Bogdănești, ju",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-359",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-359",
+     "sha256": "75d675419cc35857a9d7fc8dbc7dffa2ac59b6791663e0649b1229984bceea80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-360-2021",
+   "path": "local/judet/iasi/2021/360",
+   "short": "HCJ Iași nr. 360/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 360/2021 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici în etapa de execuție a lucrărilor în contextul aplicării prevederilor Ordonanței nr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-360",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-360",
+     "sha256": "9fc2b7645c0a6fbc302616a8252395fa75a01ccff6a2cec6e96408e1d6b6e532"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-361-2021",
+   "path": "local/judet/iasi/2021/361",
+   "short": "HCJ Iași nr. 361/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 361/2021 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici în etapa de execuție a lucrărilor în contextul aplicării prevederilor Ordonanței n",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-361",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-361",
+     "sha256": "5aa3864c7b812573f1a8e172217ae73a132ac018d271c357ad5678abf518322e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-362-2021",
+   "path": "local/judet/iasi/2021/362",
+   "short": "HCJ Iași nr. 362/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 362/2021 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici în etapa de execuție a lucrărilor în contextul aplicării prevederilor Ordonanței nr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-362",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-362",
+     "sha256": "caa091b7f096c0ab1b77fd148ae60847e5bd79c1a71ef2756479bb44a9c53980"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-363-2021",
+   "path": "local/judet/iasi/2021/363",
+   "short": "HCJ Iași nr. 363/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 363/2021 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici în etapa de execuție a lucrărilor în contextul aplicării prevederilor Ordonanței nr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-363",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-363",
+     "sha256": "ad92894b03eef75d7e695a85747d25a6612c2290283311f07431ed930faa6563"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-364-2021",
+   "path": "local/judet/iasi/2021/364",
+   "short": "HCJ Iași nr. 364/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 364/2021 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici în etapa de execuție a lucrărilor în contextul aplicării prevederilor Ordonanței nr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-364",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-364",
+     "sha256": "e07643e6f7fb36392aa7f544243d16523783e073932bb1cbed5d4f081b93f0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-366-2021",
+   "path": "local/judet/iasi/2021/366",
+   "short": "HCJ Iași nr. 366/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 366/2021 privind aprobarea STUDIULUI DE FEZABILITATE și a indicatorilor tehnico-economici la obiectivul de investiții: “CONSTRUIRE ȘI DOTARE LOCUINȚĂ PROTEJATĂ, ÎMPREJMUIRE ȘI",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-366",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-366",
+     "sha256": "fbbb11d729ceeeb57e8d6e6f1fe1e7d3ef653ef43ea3f386ce555bf0681e110b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-374-2021",
+   "path": "local/judet/iasi/2021/374",
+   "short": "HCJ Iași nr. 374/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 374/2021 privind aprobarea modificării și completării Hotărârii Consiliului Județean Iași nr. 245/25.08.2021 privind aprobarea realizării proiectului ”Asistență tehnică pentru",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-374",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-374",
+     "sha256": "eeaf8f142dee8510c19bdfa73a0b7cba3392bdbb89ef823630e9356551962cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-375-2021",
+   "path": "local/judet/iasi/2021/375",
+   "short": "HCJ Iași nr. 375/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 375/2021 privind aprobarea indicatorilor tehnico-economici rezultati la faza PTh și a devizului general elaborat pentru obiectivul de investiție: „EXTINDERE ȘI DOTARE UNITATE",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-375",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-375",
+     "sha256": "cc4c4ec9aa59d1d0c3effe6cb3a6cf4676ae65b27e3c8bed88203d42d11a1a97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-377-2021",
+   "path": "local/judet/iasi/2021/377",
+   "short": "HCJ Iași nr. 377/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 377/2021 privind aprobarea creditelor de angajament și creditelor bugetare pentru obiectivul de investiții: Elaborare a Studiului de calitate a aerului pentru comunele Ungheni",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-377",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-377",
+     "sha256": "20301a974510654bfb051384a3d34e290e3c308e7025a0d866e53bd2f7899ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-378-2021",
+   "path": "local/judet/iasi/2021/378",
+   "short": "HCJ Iași nr. 378/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 378/2021 privind aprobarea creditelor de angajament și creditelor bugetare pentru obiectivul de investiții: Achiziționarea serviciilor de realizare și găzduire a website-ului w",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-378",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-378",
+     "sha256": "0efb48ce876233ee52e188f3ff99e286a843376fea1c7836e6b0a89d1eb6629e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-379-2021",
+   "path": "local/judet/iasi/2021/379",
+   "short": "HCJ Iași nr. 379/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 379/2021 privind trecerea din domeniul privat în domeniul public al Județului Iași și administrarea Consiliului Județean Iași a spațiilor în care își desfășoară activitatea Amb",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-379",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-379",
+     "sha256": "89aa529b07a9c95acf561e2259e0ee4eef33699047487fae624b910a3df5692f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-380-2021",
+   "path": "local/judet/iasi/2021/380",
+   "short": "HCJ Iași nr. 380/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 380/2021 privind trecerea din domeniul public al Județului Iași și administrarea Consiliului Județean Iași în domeniul public al Municipiului Iași și administrarea Consiliului",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-380",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-380",
+     "sha256": "6c37d4b990008268bb644cfd29e007809b02516ab557132b3979f769942db6db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-381-2021",
+   "path": "local/judet/iasi/2021/381",
+   "short": "HCJ Iași nr. 381/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 381/2021 privind solicitarea de trecere din domeniul public al STATULUI ROMÂN și din administrarea ROMATSA-ADMINISTRAȚIA ROMÂNĂ A SERVICIILOR DE TRAFIC AERIAN în domeniul publ",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-381",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-381",
+     "sha256": "ea68d2ca4cd0abacba0350199d7b599ae7643315cbefec4cc56c6e66c8256224"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-382-2021",
+   "path": "local/judet/iasi/2021/382",
+   "short": "HCJ Iași nr. 382/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 382/2021 privind aprobarea închirierii, prin licitație publică, a suprafeței de 280 mp teren, situat în incinta Aeroportului Internațional Iași, str",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-382",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-382",
+     "sha256": "b05aec84b43183a65e85c213908f37d46b99be54676924537377824328ec53d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-383-2021",
+   "path": "local/judet/iasi/2021/383",
+   "short": "HCJ Iași nr. 383/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 383/2021 privind respingerea plângerii prealabile formulată de către S.C",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-383",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-383",
+     "sha256": "b0c7bcae1c224e17db3e17529b6c9055d9f6371ad8d5232cb0c98de73b74b9cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-384-2021",
+   "path": "local/judet/iasi/2021/384",
+   "short": "HCJ Iași nr. 384/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 384/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-384",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-384",
+     "sha256": "04695e48bab7f9caac2db25152489a95998d4326c1b6ffdfcf2c418988310d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-385-2021",
+   "path": "local/judet/iasi/2021/385",
+   "short": "HCJ Iași nr. 385/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 385/2021 privind modificarea Anexei nr. 1 la H.C.J",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-385",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-385",
+     "sha256": "f090b884601b18e85b582ace345a370536dc6a7abc3ef6d91bee021e560afb4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-386-2021",
+   "path": "local/judet/iasi/2021/386",
+   "short": "HCJ Iași nr. 386/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 386/2021 privind aprobarea cheltuielilor ce se vor efectua cu ocazia sărbătorilor de iarnă 2021 Tags: hotărâre hotărâri hotărâri 2021 24.11.2021 Creat de icc la Mar, 07/12/",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-386",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-386",
+     "sha256": "5e36c4380ad5f551ae80d753832bd89d65fae652558f7fc2bcef304ae36b3194"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-387-2021",
+   "path": "local/judet/iasi/2021/387",
+   "short": "HCJ Iași nr. 387/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 387/2021 privind aprobarea numărului maxim și a cuantumului burselor aferente anului școlar 2021-2022 pentru elevii care frecventează cursurile unităților de învățământ special",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-387",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-387",
+     "sha256": "cc1f4c0555b7dc13c2315aa67aa950e9a437e072103f39a345f0c302d4b1d9e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-388-2021",
+   "path": "local/judet/iasi/2021/388",
+   "short": "HCJ Iași nr. 388/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 388/2021 privind modificarea și completarea Hotarârii Consiliului Județean Iași nr. 225/21.07.2021 și a anexelor la aceasta, potrivit filelor de buget comunicate de Ministerul",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-388",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-388",
+     "sha256": "87ab87aaf03f8cd91a652159faa0e7c6b24bc56a9cdcb3c998e22b35b93fb8e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-389-2021",
+   "path": "local/judet/iasi/2021/389",
+   "short": "HCJ Iași nr. 389/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 389/2021 pentru modificarea și completarea Anexei 1 la Hotărârea Consiliului Județean Iași nr. 75/31.03.2021 privind aprobarea Regulamentului de Organizare și Funcționare al Co",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-389",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-389",
+     "sha256": "0708e3de4634f9487685fca3813a91306644fd9cfa7366b5838374b82b9659a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-390-2021",
+   "path": "local/judet/iasi/2021/390",
+   "short": "HCJ Iași nr. 390/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 390/2021 privind aprobarea organigramei și a statului de funcții pentru Direcția Județeană de Administrare a Drumurilor și Podurilor Iași, ca urmare a reorganizării Tags: hot",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-390",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-390",
+     "sha256": "f0cc5722fc4e10b8395f84e4b36e4530e7e6dc73f28a03c2b36e45e227575d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-391-2021",
+   "path": "local/judet/iasi/2021/391",
+   "short": "HCJ Iași nr. 391/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 391/2021 privind aprobarea creditului bugetar pentru anul 2022 în valoare de 72000 lei pentru serviciile de adăpostire a animalelor care fac obiectul ordinului de plasare în ad",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-391",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-391",
+     "sha256": "e197e5e8de0b4bac1e56b30618639449b3faf5833e609a0f6babb3a3a0921fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-392-2021",
+   "path": "local/judet/iasi/2021/392",
+   "short": "HCJ Iași nr. 392/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 392/2021 privind rectificarea bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-392",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-392",
+     "sha256": "e5f47be5182e1020f9ab5e1457054753933d820fb948f9971555fb70f1ba522c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-393-2021",
+   "path": "local/judet/iasi/2021/393",
+   "short": "HCJ Iași nr. 393/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 393/2021 privind încheierea unui act adițional la Contractul nr. 2768/04.12.2018 privind adminstrarea de către Județul Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-03/hot%C4%83r%C3%A2rea-nr-393",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-03/hot%C4%83r%C3%A2rea-nr-393",
+     "sha256": "ad7fa63b03cefce4bf627956e6e02c28c5548e00a23324b26b634f80dd8f9bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-394-2021",
+   "path": "local/judet/iasi/2021/394",
+   "short": "HCJ Iași nr. 394/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 394/2021 privind repartizarea pentru anul 2021 pe unitățile administrativ - teritoriale din județul Iași, a sumelor corespunzătoare cotei de 6% din impozitul pe venit încasat s",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-394",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-394",
+     "sha256": "dab0feb1cab2e12dcb95fa90416c4e6fa19317c46956a7c6fa5b42a1da0f1c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-395-2021",
+   "path": "local/judet/iasi/2021/395",
+   "short": "HCJ Iași nr. 395/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 395/2021 privind aprobarea organizării ediției a VII-a a proiectului inițiat de către membrii Comisiei pentru Educație, Cultură, Culte a Consiliului Județean Iași intitulat “Fu",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-395",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-395",
+     "sha256": "8e6ee6835497c3d185ea643b1a01cdec4edf4c0d16a954ebd0be9a9b389e1927"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-396-2021",
+   "path": "local/judet/iasi/2021/396",
+   "short": "HCJ Iași nr. 396/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 396/2021 privind aprobarea creditelor de angajament pentru anul 2021 și creditelor bugetare pentru anul 2022 aferente obiectivului de investiții „Construirea si Dotarea Spitalu",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-396",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-15/hot%C4%83r%C3%A2rea-nr-396",
+     "sha256": "27a26f76432787854c8afbe72f8a57e10c6acf6f74f4fc201dce123da64811b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-397-2021",
+   "path": "local/judet/iasi/2021/397",
+   "short": "HCJ Iași nr. 397/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 397/2021 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Județean Iași din data de 24 noiembrie 2021 Tags: hotărâre hotărâri hotărâri 2021 22.12.2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-397",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-397",
+     "sha256": "de06e47b2062438f6005d6fef1a1cdafdaa17c1c819cac7e7db65284ed2e7d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-398-2021",
+   "path": "local/judet/iasi/2021/398",
+   "short": "HCJ Iași nr. 398/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 398/2021 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Județean Iași convocată de îndată în 03 decembrie 2021, ora 9,00 ale cărei lucrări s-au d",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-398",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-398",
+     "sha256": "5ba0c8e600df37461bf7705e5fc638207bb5911b654906470ac808c83f91a184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-399-2021",
+   "path": "local/judet/iasi/2021/399",
+   "short": "HCJ Iași nr. 399/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 399/2021 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Județean Iași convocată de îndată în 15 decembrie 2021, ora 9,00 ale cărei lucrări s-au d",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-399",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-399",
+     "sha256": "90b950f37beaeabb85b419d975788a8a7e86cabe507a8bee2ba27435c617d4d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-4-2021",
+   "path": "local/judet/iasi/2021/4",
+   "short": "HCJ Iași nr. 4/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 4/2021 privind aprobarea introducerii fișei de proiect 1.3.4.1 „Construirea și dotarea Institutului Regional de Medicină Cardiovasculară – Iași” în Anexa C din Hotărârea Consiliului J",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-4",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-4",
+     "sha256": "b09908689aa22c59a811d02477aeb4591913081e653a2c173d1ead74471fc685"
     }
    ]
   },
@@ -78,6 +1668,81 @@
    ]
   },
   {
+   "slug": "hcj-iasi-402-2021",
+   "path": "local/judet/iasi/2021/402",
+   "short": "HCJ Iași nr. 402/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 402/2021 privind taxele locale pentru anul 2022 Tags: hotărâre hotărâri hotărâri 2021 22.12.2021 Creat de icc la Mie, 29/12/2021 - 10:19 Ultima actualizare: 29/12/2021 - 1",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-402",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-402",
+     "sha256": "1360cb07463e4b4645b10295ced16b12a8be6a90ad16ae2e9e958043280200b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-403-2021",
+   "path": "local/judet/iasi/2021/403",
+   "short": "HCJ Iași nr. 403/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 403/2021 privind aprobarea organigramei și a statului de funcții pentru Spitalul Clinic de Pneumoftiziologie Iași, cu aplicare de la 01 ianuarie 2022 Tags: hotărâre hotărâri",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-403",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-403",
+     "sha256": "58f9c612c71c80c499151f8284c60a42806b1e3662af45596c267896cc4df32b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-404-2021",
+   "path": "local/judet/iasi/2021/404",
+   "short": "HCJ Iași nr. 404/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 404/2021 pentru aprobarea modificării Hotărârii Consiliului Județean Iași nr.49/17.02.2020 aprobată și modificată de Hotărârea Consiliului Județean Iași nr. 79/31.03.2021, priv",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-404",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-404",
+     "sha256": "d4fea448cec1923b5c23822594df4e289d64dd22b171e7cb8abf7cc6df97a988"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-405-2021",
+   "path": "local/judet/iasi/2021/405",
+   "short": "HCJ Iași nr. 405/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 405/2021 pentru aprobarea modificarii Hotărârii Consiliului Județean Iași nr. 259 din 14.09.2021 privind aprobarea proiectului ‚,Dezvoltarea Aeroportului Internațional Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-405",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-405",
+     "sha256": "cd11c2b0794089774e30c6a1e75b5f31b58101927cf8c3fb18b055f2e9f7b04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-406-2021",
+   "path": "local/judet/iasi/2021/406",
+   "short": "HCJ Iași nr. 406/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 406/2021 privind aprobarea realizării proiectului de investiții cu titlul ‚,Echipamente de Securitate pentru R.A",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-406",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-406",
+     "sha256": "f529310f20561080db317d6658b1b118fc3f51572ff71a40ea63f82bbe7bfa0f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-407-2021",
    "path": "local/judet/iasi/2021/407",
    "short": "HCJ Iași nr. 407/2021",
@@ -108,6 +1773,531 @@
    ]
   },
   {
+   "slug": "hcj-iasi-409-2021",
+   "path": "local/judet/iasi/2021/409",
+   "short": "HCJ Iași nr. 409/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 409/2021 privind aprobarea organizării unor programe de formare, în anul 2022, de către Centrul Județean de Resurse și Asistență Educațională Iași Tags: hotărâre hotărâri hot",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-409",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-409",
+     "sha256": "3c6fcf97895ba28db130d2ae89460b000ec873d5dde0a662798f46949ee25092"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-410-2021",
+   "path": "local/judet/iasi/2021/410",
+   "short": "HCJ Iași nr. 410/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 410/2021 privind modificarea Anexei 1 – Reparații curente din Programul de lucrări drumuri și poduri al Direcției Județene de Administrare a Drumurilor și Podurilor Iași pentru",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-410",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-410",
+     "sha256": "085f3709d26dd44136a5fc0dc27f9f8177519acac6e316cad7db35c69d831a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-411-2021",
+   "path": "local/judet/iasi/2021/411",
+   "short": "HCJ Iași nr. 411/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 411/2021 privind aprobarea unui credit de angajament pentru activitatea de deszăpezire pe drumurile județene în sumă de 55.506,80 mii lei și aprobarea demarării procedurii de a",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-411",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-411",
+     "sha256": "abfd2c411f20a720c5350cfeceb40904793d23acc83583f797c94c93acc1854d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-412-2021",
+   "path": "local/judet/iasi/2021/412",
+   "short": "HCJ Iași nr. 412/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 412/2021 privind clasificarea drumului comunal DC 17: Aroneanu – Rediul Aldei, km 0+000 – 4+200 în drum județean cu indicativul DJ 282 G: Iași – Aroneanu – Rediul Aldei, km 3+2",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-412",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-412",
+     "sha256": "61bb86124493fcc218d42169ba9ae6adf49c415e30df942ac14a3c6fa91b8f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-413-2021",
+   "path": "local/judet/iasi/2021/413",
+   "short": "HCJ Iași nr. 413/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 413/2021 privind alocarea din excedentul bugetului local al Județului Iași a sumei de 30.615 lei reprezentând contribuția de la bugetul de stat aferentă obiectivului de investi",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-413",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-413",
+     "sha256": "338b1457a1b9e2fd1723ff67dc37ef3abd96071fd46a66e222c40686e6388c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-414-2021",
+   "path": "local/judet/iasi/2021/414",
+   "short": "HCJ Iași nr. 414/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 414/2021 privind aprobarea ajustării prețului pentru apă industrială pentru întreaga arie de operare a APAVITAL SA Tags: hotărâre hotărâri hotărâri 2021 22.12.2021 Creat de",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-414",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-414",
+     "sha256": "0d812894f0c7a452f859560af804b2a09e2a21c8022d220857cab89854327998"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-415-2021",
+   "path": "local/judet/iasi/2021/415",
+   "short": "HCJ Iași nr. 415/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 415/2021 pentru aprobarea diminuării capacității Centrului de Recuperare și Reabilitare Neuropsihiatrică Hârlău de la 240 locuri la 208 locuri, aprobarea statului de funcții și",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-415",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-415",
+     "sha256": "5486529f3bac513bac12b6c0e9e97b4ad62a80b47b8fe350387d19d81400489b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-416-2021",
+   "path": "local/judet/iasi/2021/416",
+   "short": "HCJ Iași nr. 416/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 416/2021 privind aprobarea modificării Hotărârii Consiliului Județean Iași nr. 319/25.11.2020 privind aprobarea Proiectului “Închiderea Centrului Rezidențial „Sf. Andrei” din c",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-416",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-416",
+     "sha256": "8c17d290c4758093c7a1c48817e9933e32df2c35d65397f1d55cdd441cd0f3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-417-2021",
+   "path": "local/judet/iasi/2021/417",
+   "short": "HCJ Iași nr. 417/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 417/2021 privind aprobarea scrisorii de așteptări în vederea selecției membrilor Consiliului de administrație al Regiei Autonome Aeroportul Iași Tags: hotărâre hotărâri hotăr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-417",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-417",
+     "sha256": "56551d62eb48ace568a5efd90af7dc8e556885499a3dbdb8a65270af07d3c560"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-418-2021",
+   "path": "local/judet/iasi/2021/418",
+   "short": "HCJ Iași nr. 418/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 418/2021 privind constituirea Comisiei de evaluare a indicatorilor de performanță financiari și nefinanciari aferenți anului 2020 cuprinși în anexele la contractele de mandat a",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-418",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-418",
+     "sha256": "6b8f4d9710549b37e434184d5dbc5538de1b3f40142017e3f75ecf559e90af34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-419-2021",
+   "path": "local/judet/iasi/2021/419",
+   "short": "HCJ Iași nr. 419/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 419/2021 privind aprobarea proiectului “Stații de reîncărcare pentru vehicule electrice în Județul Iași” în cadrul Programului privind reducerea emisiilor de gaze cu efect de s",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-419",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-419",
+     "sha256": "0ce0f63b51c970288c113347455d367a09c68abe73ca467b1288fc94ab6d4dad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-420-2021",
+   "path": "local/judet/iasi/2021/420",
+   "short": "HCJ Iași nr. 420/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 420/2021 privind aprobarea alocării din bugetul Consiliului Județean Iași pentru anul 2022 a sumelor necesare pentru elaborarea documentației tehnico – economice pe faze de pro",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-420",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-420",
+     "sha256": "cb163793d30ff5b8ad133d2ec36d9f6d0a599b1f48d39af203f016e59d35d0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-421-2021",
+   "path": "local/judet/iasi/2021/421",
+   "short": "HCJ Iași nr. 421/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 421/2021 privind aprobarea transmiterii fără plată, din proprietatea privată a UAT Județul Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-421",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-421",
+     "sha256": "0749745da5435a0865286c434c460159e3ff9b01c89cc82e4a8007889da760b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-422-2021",
+   "path": "local/judet/iasi/2021/422",
+   "short": "HCJ Iași nr. 422/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 422/2021 privind aprobarea transmiterii, fără plată, din proprietatea privată a UAT Județul Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-422",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-422",
+     "sha256": "7848680c0ebd991795c522788b0e7c10d6b6ffcca923bb920e81e0fcd1e41853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-423-2021",
+   "path": "local/judet/iasi/2021/423",
+   "short": "HCJ Iași nr. 423/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 423/2021 privind aprobarea unui credit de angajament pe anul 2022 pentru obiectivul de investiție: „EXTINDERE SI DOTARE UNITATE FUNCȚIONALĂ REGIONALĂ DE URGENTĂ IN CADRUL SPIT",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-423",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-423",
+     "sha256": "e530b8d56010d1a9c87ad86292c9d377fe4c2375235c8645bf53b1048eeb799a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-424-2021",
+   "path": "local/judet/iasi/2021/424",
+   "short": "HCJ Iași nr. 424/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 424/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-424",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-424",
+     "sha256": "10fa0fb0ae28f3a5b7c89bc8afd06f78eac3a34969c60ccdbea44bd76bb33a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-425-2021",
+   "path": "local/judet/iasi/2021/425",
+   "short": "HCJ Iași nr. 425/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 425/2021 privind aprobarea creditelor de angajament și creditelor bugetare pentru obiectivul de investiții: Achiziționare Microbuz transport persoane, care se va realiza ca acț",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-425",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-425",
+     "sha256": "66b9971cb72febe903dda43ba488c0d870de6a40daeb14980e90731eccedce4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-426-2021",
+   "path": "local/judet/iasi/2021/426",
+   "short": "HCJ Iași nr. 426/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 426/2021 privind aprobarea unor măsuri pentru asigurarea continuității transportului public de persoane prin curse regulate în județul Iași, prin prelungirea valabilității cont",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-426",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-426",
+     "sha256": "b882967007f9cf8292747e898ce71ade2bcaedc114e062a410f72baedc7db32b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-427-2021",
+   "path": "local/judet/iasi/2021/427",
+   "short": "HCJ Iași nr. 427/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 427/2021 privind suplimentarea creditului de angajament pe anul 2021 și a creditului bugetar pe anul 2022 cu suma de 2,00 mii lei pentru realizarea obiectivului de investiții",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-427",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-427",
+     "sha256": "58a75ea72869ac4961f1d33e52c231417a6993bb56a442b5eb1b367c7d74e91e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-428-2021",
+   "path": "local/judet/iasi/2021/428",
+   "short": "HCJ Iași nr. 428/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 428/2021 privind aprobarea creditelor de angajament și a creditelor bugetare pentru obiectivele de investiții „EXPERTIZĂ TEHNICĂ CORP B – CENTRUL MILITAR ZONAL”, „EXPERTIZĂ TEH",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-428",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-428",
+     "sha256": "ffe393d271fba3d5da1b67b1767d701d2247ecfb6a18141016e1e32c24f90172"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-429-2021",
+   "path": "local/judet/iasi/2021/429",
+   "short": "HCJ Iași nr. 429/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 429/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-429",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-429",
+     "sha256": "f2f403feaf32ac3b4c14cc7c07bd1f26137e2b605f14ee858d58653bf608d5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-430-2021",
+   "path": "local/judet/iasi/2021/430",
+   "short": "HCJ Iași nr. 430/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 430/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-430",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-430",
+     "sha256": "698c7c32927ace1d3621da69400a3a699365086ea7caef3b981b2a8d045862d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-431-2021",
+   "path": "local/judet/iasi/2021/431",
+   "short": "HCJ Iași nr. 431/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 431/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-431",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-431",
+     "sha256": "f62eefc599eaa2d3be8a3ee3e3aa0f8f9d4379be1f89843ae2ca77392b5fac8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-432-2021",
+   "path": "local/judet/iasi/2021/432",
+   "short": "HCJ Iași nr. 432/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 432/2021",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-432",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-432",
+     "sha256": "afbcb1b603e83feff9b83742c5b27bacf3ff11f9bebe4b7a7675e01d21c88ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-433-2021",
+   "path": "local/judet/iasi/2021/433",
+   "short": "HCJ Iași nr. 433/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 433/2021 privind desemnarea unui număr de patru consilieri județeni ai Consiliului Județean Iași în vederea deplasării în Soroca, Republica Moldova pentru a participa la activi",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-433",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-433",
+     "sha256": "e2526cc6965943dca066c4abf77afccdd28f188a205a8a1cc9f32356943cacfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-434-2021",
+   "path": "local/judet/iasi/2021/434",
+   "short": "HCJ Iași nr. 434/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 434/2021 privind desemnarea unui număr de patru consilieri județeni ai Consiliului Județean Iași în vederea deplasării la Hîncești, Republica Moldova pentru vizita de lucru, în",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-434",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-434",
+     "sha256": "6cf90ee6bfba06c17e7b833f20e1447fcfcad240386e68a7ffcb906b4379fdb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-435-2021",
+   "path": "local/judet/iasi/2021/435",
+   "short": "HCJ Iași nr. 435/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 435/2021 privind aprobarea creditelor de angajament și creditelor bugetare pentru anul 2022 în vederea ducerii la îndeplinire a punctului 3 din anexa la Hotărârea Consiliului J",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-435",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-435",
+     "sha256": "15e1248d38a47d6fb3d1abea2a4e3bcbc022fa7dd34f9427dbf7273304c8bf36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-436-2021",
+   "path": "local/judet/iasi/2021/436",
+   "short": "HCJ Iași nr. 436/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 436/2021 privind aprobarea execuției preliminate a bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-436",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-436",
+     "sha256": "7b5e07c5b51657d247afefcfcd1260c75c3079d0c8f46cb2f81f653c925b673f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-437-2021",
+   "path": "local/judet/iasi/2021/437",
+   "short": "HCJ Iași nr. 437/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 437/2021 privind includerea în bugetul local al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-437",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-437",
+     "sha256": "8e683b18d740e138c7daf5df714c44b0ae5e0fb2ccf6428c1e312f20ab5726f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-438-2021",
+   "path": "local/judet/iasi/2021/438",
+   "short": "HCJ Iași nr. 438/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 438/2021 privind aprobarea valorii cotizației Județului Iași – Consiliului Județean Iași, în calitate de membru al Uniunii Naționale a Consiliilor Județene din România (UNCJR)",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-438",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-438",
+     "sha256": "470f332cf19e525ef33dc2219abc6883b1e1b02b700466fd36e649fe94108977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-439-2021",
+   "path": "local/judet/iasi/2021/439",
+   "short": "HCJ Iași nr. 439/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 439/2021 privind rectificarea bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-439",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-439",
+     "sha256": "6a5d1c3cac8dad9a8e1560ab5c4284b5bb6f7053ec1702a1a22f05628acd5113"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-440-2021",
+   "path": "local/judet/iasi/2021/440",
+   "short": "HCJ Iași nr. 440/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 440/2021 privind repartizarea pe unități de cult a unor sume cu destinația de sprijin financiar, potrivit art. 3 alin. (3) din Ordonanța Guvernului nr. 82/2001, precum și aprob",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-440",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-440",
+     "sha256": "a1f3ec58d879392518529597b5b0240c1bede022f222cae36a9b5114fdb63519"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-441-2021",
+   "path": "local/judet/iasi/2021/441",
+   "short": "HCJ Iași nr. 441/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 441/2021 privind rectificarea bugetului general al Județului Iași",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-12-29/hot%C4%83r%C3%A2rea-nr-441",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-12-29/hot%C4%83r%C3%A2rea-nr-441",
+     "sha256": "4c421d56f7ea40a4ca8e6a48fa257f7e0e6a94ed7082808be8949486d1200e2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-5-2021",
+   "path": "local/judet/iasi/2021/5",
+   "short": "HCJ Iași nr. 5/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 5/2021 privind aprobarea Acordului de Parteneriat în vederea realizării proiectului „Sprijin la nivelul regiunii Nord-Est pentru pregătirea de proiecte finanțate din perioada de progr",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-5",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-11/hot%C4%83r%C3%A2rea-nr-5",
+     "sha256": "2e4f8548283535fc35f66531d56fcfab9c5342553f71e5d3decd2df56fb0d8cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-54-2021",
+   "path": "local/judet/iasi/2021/54",
+   "short": "HCJ Iași nr. 54/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 54/2021 pentru completarea Anexei 2 la Hotărârea Consiliului Județean Iași nr. 33/27.01.2021 privind desemnarea reprezentanților Consiliului Județean Iași în organele colegiale",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-54",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-54",
+     "sha256": "41bf435d759b2a3a9f753e09e932ea64f17507f2e3a93f9f74a2d359efcda578"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-55-2021",
    "path": "local/judet/iasi/2021/55",
    "short": "HCJ Iași nr. 55/2021",
@@ -119,6 +2309,186 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-55",
      "sha256": "8dd8d414b733f4288d9da930cf7910ce796ea394c28d50e244c9e2e5cb38cd0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-56-2021",
+   "path": "local/judet/iasi/2021/56",
+   "short": "HCJ Iași nr. 56/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 56/2021 privind validarea componenței Autorității Teritoriale de Ordine Publică Iași Tags: hotărâre hotărâri hotărâri 2021 24.02.2021 Creat de icc la Mar, 02/03/2021 - 13:08",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-56",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-56",
+     "sha256": "19976666a0f9e3bbad7d4bb478bbaa4d266eb5ebca208c31712e3ba8060fa028"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-57-2021",
+   "path": "local/judet/iasi/2021/57",
+   "short": "HCJ Iași nr. 57/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 57/2021 privind repartizarea pe unitățile administrativ - teritoriale din județul Iași a procentului de 20% din cotele și sumele defalcate din unele venituri ale bugetului de s",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-57",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-57",
+     "sha256": "561cec48ca90d095f79bbbc22a71b6f6aa3ae9dec554a389c7c91e8f2e5163a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-58-2021",
+   "path": "local/judet/iasi/2021/58",
+   "short": "HCJ Iași nr. 58/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 58/2021 privind repartizarea pe anul 2021 a unei sume din excedentul bugetului local al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-58",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-58",
+     "sha256": "34f23e2159c83a854f8728bdd9bcd7080c5d0138943fbf80039b5e77b14f147b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-59-2021",
+   "path": "local/judet/iasi/2021/59",
+   "short": "HCJ Iași nr. 59/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 59/2021 privind repartizarea pe unitățile administrativ – teritoriale din județul Iași a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descent",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-59",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-59",
+     "sha256": "991a4531ac77c1fae360b715faed6ae7f75f90c31063a07ddeb031d99980d40c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-6-2021",
+   "path": "local/judet/iasi/2021/6",
+   "short": "HCJ Iași nr. 6/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 6/2021 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Județean Iași din data de 16.12.2020 Tags: hotărâre hotărâri hotărâri 2021 27.01.2021 Creat de",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-6",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-6",
+     "sha256": "cc7d88049e245e74d050978b9784c1847125dd621aa13e8c6da5ac79165996c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-60-2021",
+   "path": "local/judet/iasi/2021/60",
+   "short": "HCJ Iași nr. 60/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 60/2021 privind aprobarea măsurilor pentru implementarea procesului de bugetare participativă la nivelul județului Iași Tags: hotărâre hotărâri hotărâri 2021 24.02.2021 Crea",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-60",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-60",
+     "sha256": "9d4a87e7ced4331132ce835fc0cb507bfbffc462e32155d6c9ae096f8cab7668"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-61-2021",
+   "path": "local/judet/iasi/2021/61",
+   "short": "HCJ Iași nr. 61/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 61/2021 privind aprobarea cotizației Județului Iași în calitate de membru fondator al Asociației de Dezvoltare Intercomunitară pentru Salubritate ADIS IAȘI, pe anul 2021 Tags:",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-61",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-61",
+     "sha256": "af398cf0b9ac6e9c4cf3ab8f27d4eae92f5be45fceeb3872cbc46e094aa30462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-62-2021",
+   "path": "local/judet/iasi/2021/62",
+   "short": "HCJ Iași nr. 62/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 62/2021 privind aprobarea contribuției Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-62",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-62",
+     "sha256": "4d3f04f4c10822c72f57d3f4f6a0e6bccdbb970bba2217cf28dcd78f66291725"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2021",
+   "path": "local/judet/iasi/2021/63",
+   "short": "HCJ Iași nr. 63/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2021 privind aprobarea contribuției Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "1c15cebb114ff185a9e393f92390dc35e5455bcbf51893ce05f9980820fcd6ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-7-2021",
+   "path": "local/judet/iasi/2021/7",
+   "short": "HCJ Iași nr. 7/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 7/2021 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Județean Iași din data de 18.12.2020, convocată de îndată prin mijloace electronice de comunic",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-7",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-7",
+     "sha256": "3fafcd2e890dafe43d390ee754c1a629d9f478d87e9ba80443f3455ef8ca6282"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-8-2021",
+   "path": "local/judet/iasi/2021/8",
+   "short": "HCJ Iași nr. 8/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 8/2021 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Județean Iași din data de 11.01.2021, convocată prin intermediul mijloacelor electronice de co",
+   "url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-8",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2021/2021-01-27/hot%C4%83r%C3%A2rea-nr-8",
+     "sha256": "5ea261bacba4f9d0ed9f23c8f85604f86567eedb54521afe372f0ac73f11fe0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2021",
+   "path": "local/judet/iasi/2021/90",
+   "short": "HCJ Iași nr. 90/2021",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2021",
+   "url": "https://www.icc.ro/ro/tags/hot%C4%83r%C3%A2ri?page=14",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://www.icc.ro/sites/default/files/files/online/noutati/2021/H90_05.05.2021.pdf",
+     "sha256": "3d64023b79b4e2d686b9642120afea737669db22ca4c2cf95f8ea1405e6a504b"
     }
    ]
   }

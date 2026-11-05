@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/hunedoara/2023",
+ "acts": [
+  {
+   "slug": "hcj-hunedoara-149-2023",
+   "path": "local/judet/hunedoara/2023/149",
+   "short": "HCJ Hunedoara nr. 149/2023",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 149/2023 privind Aprobarea situațiilor financiare pe anul 2022 ale SC PARC INDUSTRIAL CALAN SRL",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/415-guvernanta-corporativa-a-intreprinderilor-publice-de-sub-autoritatea-consiliului-judetean-hunedoara",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2023/544/Raport%20presedinte/HCJH%20149-Aprobare%20sit%20financ%20PARC%20CALAN%202022.pdf",
+     "sha256": "eb424b6a5070ae35b7c4b518380f40af689e1bbd0bb4b241905c5d6a8033c314"
+    }
+   ]
+  }
+ ]
+}

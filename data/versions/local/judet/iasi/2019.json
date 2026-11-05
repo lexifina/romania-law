@@ -3,6 +3,171 @@
  "shard": "local/judet/iasi/2019",
  "acts": [
   {
+   "slug": "hcj-iasi-1-2019",
+   "path": "local/judet/iasi/2019/1",
+   "short": "HCJ Iași nr. 1/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 1/2019 privind aprobarea procesului – verbal al ședinței ordinare de plen a Consiliului Județean Iași din data de 19 decembrie 2018 Tags: hotărâre hotărâri hotărâri 2019 23.01.2",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-1",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-1",
+     "sha256": "3275dcd155ecaaecc270d561ca4b2ff42d57f5694980f7ad19451d5dd194ada6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-10-2019",
+   "path": "local/judet/iasi/2019/10",
+   "short": "HCJ Iași nr. 10/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 10/2019 pentru modificarea și completarea Hotărârii Consiliului Județean Iași nr. 454/19.12.2018 privind aprobarea încheierii Acordului de cooperare între Județul Iași – Consiliu",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-10",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-10",
+     "sha256": "2777a5435015dfcd31922ef0f7cbfb8d9a5b853c02ff6f2dd35f9b182688c5c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-100-2019",
+   "path": "local/judet/iasi/2019/100",
+   "short": "HCJ Iași nr. 100/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 100/2019 privind numirea unui membru in Consiliul de administratie al Regiei Autonome Aeroportul Iasi Tags: hotărâre hotărâri hotărâri 2019 24.04.2019 Creat de icc la Joi, 0",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-100",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-100",
+     "sha256": "24a83875ad422fcf7ce7b16406e172229f600697cbedfa3d288f8312e64e8d81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-101-2019",
+   "path": "local/judet/iasi/2019/101",
+   "short": "HCJ Iași nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2019 privind atribuirea in folosinta gratuita catre Institutul de Boli Cardiovasculare \"Prof. Dr",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "ac341e56a5e5e24860cdfce221240854b81275bf09e6e9c84eb55ce53af6765e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-102-2019",
+   "path": "local/judet/iasi/2019/102",
+   "short": "HCJ Iași nr. 102/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 102/2019 privind aprobarea Protocolului de Colaborare intre Judetul Iasi",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-102",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-102",
+     "sha256": "4e1a69598db304a4192de91b0b565dad3da55625ca5b770bad6a23fad732f3f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-103-2019",
+   "path": "local/judet/iasi/2019/103",
+   "short": "HCJ Iași nr. 103/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2019 privind transmiterea drumului judetean DJ 2821 din domeniul public al Judetului Iasi si administrarea Directiei Judetene de Administrare a Drumurilor si Podurilor Iasi",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "dee50c5126e0b83fdc3e0c358005f90519ca9bf9f7c63938fac342cf5e61c4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-104-2019",
+   "path": "local/judet/iasi/2019/104",
+   "short": "HCJ Iași nr. 104/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 104/2019 privind respingerea plangerii prealabile impotriva Hotararii Consiliului Judetean Iasi nr.266/25.07.2018 Tags: hotărâre hotărâri hotărâri 2019 24.04.2019 Creat de i",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-104",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-104",
+     "sha256": "9442d522e386a88ce03d746dfa14368d699191c950b9c48822103dc0a7b7a423"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-108-2019",
+   "path": "local/judet/iasi/2019/108",
+   "short": "HCJ Iași nr. 108/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 108/2019 privind majorarea limitei valorice pentru masa oficiala oferita de catre Presedintele Consiliului Judetean Iasi in cadrul Reuniunii informale a Grupului la Nivel Inalt",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-108",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-108",
+     "sha256": "8f2098c8fe6067a45a6075238f5b40ebc01b80a0539adc0c3fb5680290ca2c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-11-2019",
+   "path": "local/judet/iasi/2019/11",
+   "short": "HCJ Iași nr. 11/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 11/2019 privind realizarea proiectului “Burse pentru elevii din mediul rural din județul Iași care au o înclinație deosebită pentru fotbal – Centrul de Excelență pentru fotbal la",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-11",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-11",
+     "sha256": "05dc76037e9ae6be315be5ee045e6ee1c9d0f45a3df312cb309adb04dd7ce3f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-113-2019",
+   "path": "local/judet/iasi/2019/113",
+   "short": "HCJ Iași nr. 113/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 113/2019 privind acordarea de către",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2019/29-05/113.pdf",
+     "sha256": "efe8af85e7c3e9fc94c0b26933e56f16866520de94e4ae2ee53df5dc8949b9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2019",
+   "path": "local/judet/iasi/2019/114",
+   "short": "HCJ Iași nr. 114/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2019 privind susţinerea excelenţei prin recunoaşterea publică a performanţelor elevilor ieşeni din şcolile speciale aflate în subordinea Consiliului Judeţean Iaşi",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2019/29-05/114.pdf",
+     "sha256": "e083c32dc28d540441cff13fa6d60a2de3d0839f424e3d9b5be7328544127b1d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-116-2019",
    "path": "local/judet/iasi/2019/116",
    "short": "HCJ Iași nr. 116/2019",
@@ -14,6 +179,576 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-116",
      "sha256": "7fbfce2108b87bf0da1da1bc429e1e0e9eb0f56996893fb339e5ca94d9aea00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-117-2019",
+   "path": "local/judet/iasi/2019/117",
+   "short": "HCJ Iași nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 117/2019 privind acordarea unui mandat special reprezentantului Județului Iași în Adunarea Generală a Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS referitor la modi",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-117",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-117",
+     "sha256": "d47cec667d6429d428acc4c006ff0f973b4474258814d7d1d5fb4bfe24a730f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-12-2019",
+   "path": "local/judet/iasi/2019/12",
+   "short": "HCJ Iași nr. 12/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 12/2019 privind repartizarea pe anul 2019 a unor sume din excedentul bugetului local și al bugetului fondurilor externe nerambursabile ale județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-12",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-12",
+     "sha256": "113a52d7cff804bf302876bf8204329722175c6d9a1c9b32dd88dc3c3e0b6098"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-121-2019",
+   "path": "local/judet/iasi/2019/121",
+   "short": "HCJ Iași nr. 121/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 121/2019 pentru completarea Hotărârii Consiliului Județean Iași nr. 2/23.01.2019 privind aprobarea bugetului și a cheltuielilor legate de implementarea Proiectului “TEAM -UP: Progres",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-121",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-121",
+     "sha256": "85163b4e0c91e9f9baf306604987031873a44297b7f44acbef00ecd120dbeedf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-129-2019",
+   "path": "local/judet/iasi/2019/129",
+   "short": "HCJ Iași nr. 129/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 129/2019 privind aprobarea transferării din evidența contabilă a Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-129",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-129",
+     "sha256": "c1b707121b21e1011b36fb28e8eb4f7781f3162c290450c8844f88b30551fb35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-13-2019",
+   "path": "local/judet/iasi/2019/13",
+   "short": "HCJ Iași nr. 13/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 13/2019 privind rectificarea bugetului general al județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-13",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-13",
+     "sha256": "b431ad120979482ac3ebc4daf30d0b8c670d8309bd1177f2d9cb21649239bbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-132-2019",
+   "path": "local/judet/iasi/2019/132",
+   "short": "HCJ Iași nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 132/2019 privind aprobarea transferării din evidența contabilă a Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-132",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-132",
+     "sha256": "393c166df3481302ec45b579f10bf1549f11a28003ff6a2288ce9770f09c94cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-14-2019",
+   "path": "local/judet/iasi/2019/14",
+   "short": "HCJ Iași nr. 14/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 14/2019 privind aprobarea procesului - verbal al ședinței ordinare a Consiliului Județean Iași din data de 23 ianuarie 2019 Tags: hotărâre hotărâri hotărâri 2019 20.02.2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-14",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-14",
+     "sha256": "0ea5ddb39a763dad70f0fd0887c7270a151612b106013e9cc0de68d91c82d426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-15-2019",
+   "path": "local/judet/iasi/2019/15",
+   "short": "HCJ Iași nr. 15/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 15/2019 privind aprobarea organigramei și a statului de funcții pentru Spitalul Clinic de Urgență pentru Copii „Sf- Maria” Iași Tags: hotărâre hotărâri hotărâri 2019 20.02.201",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-15",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-15",
+     "sha256": "7a0a4e0a41ec4ea7c2ef80f7e54173266fbb19ff74b3433306ccc1209d812396"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-152-2019",
+   "path": "local/judet/iasi/2019/152",
+   "short": "HCJ Iași nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 152/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-152",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-152",
+     "sha256": "441531e0adc1e2187b0d2ce247cf724d419c1d038cf4affef3c23af30b31ccd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2019",
+   "path": "local/judet/iasi/2019/155",
+   "short": "HCJ Iași nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2019 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "59327968cb73398873b4cf0132bed94b8f0455f1d88388305f2c2385ee3f83cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-159-2019",
+   "path": "local/judet/iasi/2019/159",
+   "short": "HCJ Iași nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 159/2019 privind aprobarea procesului – verbal al ședinței extraordinare de plen a Consiliului Județean Iași din data de 5 iunie 2019 Tags: hotărâre hotărâri hotărâri 2019 26.06",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-159",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-159",
+     "sha256": "b6462b0c8b0fcaad340bdfd1fd8217e1fe42956d185d46b86533da00dcda97b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2019",
+   "path": "local/judet/iasi/2019/16",
+   "short": "HCJ Iași nr. 16/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2019 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic de Obstetrică și Ginecologie “Cuza-Vodă” Iași Tags: hotărâre hotărâri hotărâri 2019 20.02",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "de515c05d5123d8265601d2e12f028d9ad9835c69f5a4cdf100e5cdb20fe7f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-17-2019",
+   "path": "local/judet/iasi/2019/17",
+   "short": "HCJ Iași nr. 17/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 17/2019 privind preluarea în proprietatea județului Iași și administrarea Consiliului Județean Iași a terenului în suprafață de 67.335 mp situat în comuna Miroslava, județul Iaș",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-17",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-17",
+     "sha256": "7f1ca058c8c6c663ad9bf6618b3d75564c5341a009ab2a8d98e6d6152d0076df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-18-2019",
+   "path": "local/judet/iasi/2019/18",
+   "short": "HCJ Iași nr. 18/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 18/2019 privind solicitarea de trecere din domeniul public al comunei Ruginoasa și administrarea Consiliului Local al comunei Ruginoasa",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-18",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-18",
+     "sha256": "f329b8f92443429de37798ea9e39c97818d5a84bb019af18c631cb8f1521ac41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2019",
+   "path": "local/judet/iasi/2019/19",
+   "short": "HCJ Iași nr. 19/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2019 privind aprobarea cotizației către Asociația Regională a Serviciilor de Apă Canal Iași - ARSACIS pentru anul 2019 Tags: hotărâre hotărâri hotărâri 2019 20.02.2019 Cr",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "340ee5646712b9aa17fd35c5a27b6b62757ec667940e03ab4c5e9179dbfb5729"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-191-2019",
+   "path": "local/judet/iasi/2019/191",
+   "short": "HCJ Iași nr. 191/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 191/2019 privind trecerea, din proprietatea privată a Unității Administrativ Teritoriale Județul Iași și administrarea Consiliului Județean Iași în proprietatea privată și administ",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-191",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-191",
+     "sha256": "e084a0edb1a12d4e3c7fc6c62e71f66f94df120979cfc48fe1fa026f73ceaf56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-192-2019",
+   "path": "local/judet/iasi/2019/192",
+   "short": "HCJ Iași nr. 192/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 192/2019 privind aprobarea modificării Hotărârii Consiliului Județean Iași nr. 22/31.01.2018 referitoare la aprobarea preluării în administrarea Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-192",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-192",
+     "sha256": "2928424f0a2504baaf5b274c8adfac039db09109d09b50197ebb6f81a3cfb116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-193-2019",
+   "path": "local/judet/iasi/2019/193",
+   "short": "HCJ Iași nr. 193/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 193/2019 privind aprobarea modificării Hotărârii Consiliului Județean Iași nr.23/31.01.2018 referitoare la aprobarea preluării în administrarea Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-193",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-193",
+     "sha256": "a23ae70a6f62e7c4e1537d67b38453b71c75dbfb01c1d08ce2c0cb712d543ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-2-2019",
+   "path": "local/judet/iasi/2019/2",
+   "short": "HCJ Iași nr. 2/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 2/2019 privind aprobarea bugetului și a cheltuielilor legate de implementarea Proiectului „TEAM-UP: Progres în calitatea îngrijirii alternative a copiilor\" Cod SMIS 127169, derula",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-2",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-2",
+     "sha256": "a661b20b63fb9c452791aae8a8c8db1c19b1ab0a4af286ec4bf9ba58bb1fc410"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-20-2019",
+   "path": "local/judet/iasi/2019/20",
+   "short": "HCJ Iași nr. 20/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 20/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-20",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-20",
+     "sha256": "a0fcb5575907e01c2b299709f8b5733165426060d32ce424c6f7efbadd68455f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-203-2019",
+   "path": "local/judet/iasi/2019/203",
+   "short": "HCJ Iași nr. 203/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 203/2019 privind trecerea din domeniul public în domeniul privat al Județului Iași a corpului de clădire C1- Stație de pompare-număr cadastral 149201-C1 și a corpului de clădire C2",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-203",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-203",
+     "sha256": "e069abefc80907b25042a8b9c9aef95aa8fa1229f4189a2e9f82690ca07a0bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-207-2019",
+   "path": "local/judet/iasi/2019/207",
+   "short": "HCJ Iași nr. 207/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 207/2019 privind aprobarea valorii totale a proiectului de investitii „Suplimentarea capacitatilor de operare pentru pista de decolare aterizare și platforma de staționare a aerona",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-207",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-06-26/hot%C4%83r%C3%A2rea-nr-207",
+     "sha256": "04901d2981cf4d95ea64c9e6da5308d17a799d470daaa2e64cda874fc80b0ee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-21-2019",
+   "path": "local/judet/iasi/2019/21",
+   "short": "HCJ Iași nr. 21/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 21/2019 privind aprobarea cotizației Județului lași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-21",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-21",
+     "sha256": "b416b55769880f51f8ed22755ea724cf51db7a616e1acf27fef2425800a7a339"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-214-2019",
+   "path": "local/judet/iasi/2019/214",
+   "short": "HCJ Iași nr. 214/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 214/2019 privind aprobarea Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici la obiectivul de investiție ”Zona de preîmbarcare Terminal T3”",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-214",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-214",
+     "sha256": "c5206699c440dcd7e6ab632ff2dde1b8a09ed45a8eba752d20ae2cb03d0db117"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-22-2019",
+   "path": "local/judet/iasi/2019/22",
+   "short": "HCJ Iași nr. 22/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 22/2019 privind aprobarea cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-22",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-22",
+     "sha256": "80d9c669d0225295b8f810dae437fdf7f97e06c7bb37d4127cc72aebccb8a288"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-223-2019",
+   "path": "local/judet/iasi/2019/223",
+   "short": "HCJ Iași nr. 223/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 223/2019 privind modificarea Hotărârii Consiliului Județean Iași nr. 353/29.10.2018 privind aprobarea unui credit de angajament în vederea efectuării unor cheltuieli de investiții",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-223",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-223",
+     "sha256": "7fd26fa6239bee22219a582d631fe264e60d492444a92bf6a296e84f3835918d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2019",
+   "path": "local/judet/iasi/2019/23",
+   "short": "HCJ Iași nr. 23/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2019 privind aprobarea realizării proiectului „Egalitate de șanse prin parteneriate active în oferirea de servicii și resurse de prevenire a bullyingului în mediul educaționa",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "6511f043fdf6913692bc347c015f2ded4e6946b5ddbd4b678f09281b1a186e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-230-2019",
+   "path": "local/judet/iasi/2019/230",
+   "short": "HCJ Iași nr. 230/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 230/2019 privind aprobarea valorii revizuite a devizului general ca urmare a instituirii unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal bugetare de modificar",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-230",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-230",
+     "sha256": "a8f1f067a3cd2f512b7ebd9e519732100523f1b9c78cd8c1daa18560d5b6e130"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-233-2019",
+   "path": "local/judet/iasi/2019/233",
+   "short": "HCJ Iași nr. 233/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 233/2019 privind aprobarea valorii revizuite a devizului general ca urmare a instituirii unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal bugetare de modif",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-233",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-233",
+     "sha256": "4687785138cfce6be50fd68b7918fc8218b3dc152aeafa452318343059528dd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-24-2019",
+   "path": "local/judet/iasi/2019/24",
+   "short": "HCJ Iași nr. 24/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 24/2019 privind aprobarea realizării proiectului „Model of Institutional Cross-Border Collaboration for Raising the Employability of Students\" (Model de colaborare instituțional",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-24",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-24",
+     "sha256": "bf85a9453bf213b4385129f1ea0960dbbd762cc225015dbb398a70dca4f0a3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-245-2019",
+   "path": "local/judet/iasi/2019/245",
+   "short": "HCJ Iași nr. 245/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 245/2019 privind aprobarea execuției bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-245",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-245",
+     "sha256": "1d0f4dcd6a21e2a17bb2f7a8d151cfa902cac96c91fc7c2cce043e512cd87c55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-246-2019",
+   "path": "local/judet/iasi/2019/246",
+   "short": "HCJ Iași nr. 246/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 246/2019 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-246",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-07-24/hot%C4%83r%C3%A2rea-nr-246",
+     "sha256": "220784d1a290b929d225ee86e7e5ccdfb9adbbb8c002c194f76d0236a53689ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-247-2019",
+   "path": "local/judet/iasi/2019/247",
+   "short": "HCJ Iași nr. 247/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 247/2019 pentru modificarea Hotărârii Consiliului Județean Iași nr. 271/11.11.2016 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici aferenți proiectului",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-247",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-247",
+     "sha256": "6ff3ab59f65f459f9b662227d4eecccda0a58bd4f15624a9cb3cc796b5cc4aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-248-2019",
+   "path": "local/judet/iasi/2019/248",
+   "short": "HCJ Iași nr. 248/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 248/2019 privind aprobarea valorii revizuite a devizului general pentru obiectivul de investiție ” REGIUNEA NORD EST - AXA RUTIERA STRATEGICĂ 1: IAȘI-SUCEAVA”, ca urmare a instituirii",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-248",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-248",
+     "sha256": "3c6382291d90424d7bbeac4c02b3328f80a663d0b17647fe936a054f2bef04f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-249-2019",
+   "path": "local/judet/iasi/2019/249",
+   "short": "HCJ Iași nr. 249/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 249/2019 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-249",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-05/hot%C4%83r%C3%A2rea-nr-249",
+     "sha256": "d6fa45d01ddb5f8c2e4a095444abbc392e681d9d962e519106dac482eee61725"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-25-2019",
+   "path": "local/judet/iasi/2019/25",
+   "short": "HCJ Iași nr. 25/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 25/2019 privind aprobarea Organigramei și Statului de funcții pentru Direcția Județeană de Administrare a Drumurilor și Podurilor Iași, ca urmare a reorganizării Tags: hotărâr",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-25",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-25",
+     "sha256": "2e85a4fc92ff133ed7064a28d3a89b3c62704d4cf0cfca7daad24a35d647000a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-252-2019",
+   "path": "local/judet/iasi/2019/252",
+   "short": "HCJ Iași nr. 252/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 252/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-252",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-252",
+     "sha256": "68bcbc515880d2d12e0c9b6161327e2894ef0a002e8d0bf18b243828070fbe36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-253-2019",
+   "path": "local/judet/iasi/2019/253",
+   "short": "HCJ Iași nr. 253/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 253/2019 privind validarea mandatului de consilier judetean in",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-253",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-253",
+     "sha256": "458954a9521aca3676e2e476f8e7e1a2dd5e8851c9bd328c70c5e403f591a433"
     }
    ]
   },
@@ -33,6 +768,366 @@
    ]
   },
   {
+   "slug": "hcj-iasi-26-2019",
+   "path": "local/judet/iasi/2019/26",
+   "short": "HCJ Iași nr. 26/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2019 pentru modificarea și completarea Hotărârii Consiliului Județean Iași nr.434/19.12.2018 privind stabilirea normativelor proprii de cheltuieli pentru consumul anual de co",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "9189939c79c3089666985b68a2b98648cebd9df3263bb5fc762913c1ca55cf0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-27-2019",
+   "path": "local/judet/iasi/2019/27",
+   "short": "HCJ Iași nr. 27/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 27/2019 privind aprobarea Anexei I - Reparații curente din Programul de lucrări drumuri și poduri al Direcției Județene de Administrare a Drumurilor și Podurilor Iași pentru anu",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-27",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-27",
+     "sha256": "73f7e204e24234de235599010dd4675321b25452ddf83bcfdaa3d9d678b5eb62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-275-2019",
+   "path": "local/judet/iasi/2019/275",
+   "short": "HCJ Iași nr. 275/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 275/2019 privind acordarea mandatului special în vederea exprimării votului în Adunarea Generală a Asociaților ARSACIS referitor la actualizarea, modificarea și completarea Actul",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-275",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-275",
+     "sha256": "3669498b212ceebfeba70827b60b7194323607e3be489e754ce862a941717ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-28-2019",
+   "path": "local/judet/iasi/2019/28",
+   "short": "HCJ Iași nr. 28/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 28/2019 privind aprobarea demarării procedurii de achiziție publică ACORD CADRU pentru lucrările de întreținere pe drumurile județene pentru anul 2019 și alocarea fondurilor nec",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-28",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-28",
+     "sha256": "271a25b01e321888f182bba92b58bffdbce58a4d3e2c671e13c07269290eb45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-280-2019",
+   "path": "local/judet/iasi/2019/280",
+   "short": "HCJ Iași nr. 280/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 280/2019 pentru modificarea Hotărârii Consiliului Județean Iași nr. 354/29.10.2018 privind aprobarea unui credit de angajament în vederea efectuării unor cheltuieli de investiții",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-280",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-280",
+     "sha256": "2bca697f3c9009074397a656bc3a27ca8e62f1adf3bd7edf7cf7a60edee73832"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-29-2019",
+   "path": "local/judet/iasi/2019/29",
+   "short": "HCJ Iași nr. 29/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 29/2019 privind aprobarea creditului de angajament în valoare de 16.107,878 mii lei pentru perioada 2019 - 2020 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-29",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-29",
+     "sha256": "de6b8a988bcc76e32150664e36bf32f5f5aeeeebfc42f501762740ab2c3a5cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-291-2019",
+   "path": "local/judet/iasi/2019/291",
+   "short": "HCJ Iași nr. 291/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 291/2019 privind aprobarea indicatorilor tehnico economici pentru obiectivul de investiții “Modernizarea DJ 249A pe sectorul cuprins între localitățile Mânzătești și Ungheni, km",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-291",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-291",
+     "sha256": "4600ddc7a785a9cddf2847b0dc147a1a6934713ca3203a8586764b29fb68374f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-294-2019",
+   "path": "local/judet/iasi/2019/294",
+   "short": "HCJ Iași nr. 294/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 294/2019 privind aprobarea încheierii Acordului de cooperare între",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-294",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-294",
+     "sha256": "12bc88d5d05d49b010b857d8f6f1ce472f850b0ea3a0d9ea699d4167d4eee25e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-3-2019",
+   "path": "local/judet/iasi/2019/3",
+   "short": "HCJ Iași nr. 3/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 3/2019 privind aprobarea Regulamentului de Organizare și Functionare al Direcției Județene de Administrare a Drumurilor și Podurilor Iași Tags: hotărâre hotărâri hotărâri 2019 2",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-3",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-3",
+     "sha256": "f28122ac0001b5f9095b4600b0ba4fdf822ae06f342953418ff42fe92e771035"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-30-2019",
+   "path": "local/judet/iasi/2019/30",
+   "short": "HCJ Iași nr. 30/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 30/2019 privind aprobarea creditului de angajament în valoare de 11.525,194 mii lei pentru perioada 2019 - 2020 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-30",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-30",
+     "sha256": "14955d591028fc8d62d818b00524a074462b58499be2412aef367d74c8d3b7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-300-2019",
+   "path": "local/judet/iasi/2019/300",
+   "short": "HCJ Iași nr. 300/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 300/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia “Sf",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-300",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-300",
+     "sha256": "7efc70f07f72f1c28e9c9d29f571537559d66193b385bb34a5d6552dbddd3b96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-305-2019",
+   "path": "local/judet/iasi/2019/305",
+   "short": "HCJ Iași nr. 305/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 305/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia Dumbrava cu hramul “Sf",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-305",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-305",
+     "sha256": "1e582d25ccb1d1fca47f259a6b7f0d373e2acf6ec3486116caa36bb793ae33cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-308-2019",
+   "path": "local/judet/iasi/2019/308",
+   "short": "HCJ Iași nr. 308/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 308/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia Slobozia cu hramul “Sf. M. Mc. Gheorghe”, sat Slobozia, comuna Deleni, în vederea realizării obiect",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-308",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-308",
+     "sha256": "68d0a60a2d494f14af6b2e85eb81ea6ca796d68085d4d920525b0d66c053752c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-31-2019",
+   "path": "local/judet/iasi/2019/31",
+   "short": "HCJ Iași nr. 31/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 31/2019 privind aprobarea creditului de angajament în valoare de 12.929,877 mii lei pentru perioada 2019 - 2020 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-31",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-31",
+     "sha256": "15f2972d133a0215603b113f66c1f8050a6fd4d3d4741016d662fb1c07ef90fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-312-2019",
+   "path": "local/judet/iasi/2019/312",
+   "short": "HCJ Iași nr. 312/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 312/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia “Sf. Voievozi” Forăști - Gropnița, sat Forăști, comuna Gropnița, în vederea realizării obiectivului",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-312",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-312",
+     "sha256": "f22ea80b92ae784750548b439e0c2ffd4dd9c676039947cae7a198790e4f613a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-314-2019",
+   "path": "local/judet/iasi/2019/314",
+   "short": "HCJ Iași nr. 314/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 314/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia “Izvorul Tămăduirii și Sf",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-314",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-314",
+     "sha256": "b5ff645faca929f1c0fa03da50cd3ee96b24799bc20aecde337a7d1c563c6bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-32-2019",
+   "path": "local/judet/iasi/2019/32",
+   "short": "HCJ Iași nr. 32/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 32/2019 privind aprobarea creditului de angajament în valoare de 58.333,224 mii lei pentru perioada 20Í9 - 2021 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-32",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-32",
+     "sha256": "6eac20123c591ec46d7de01d5556607ea0eb06bd571186915949bc203890f0fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-325-2019",
+   "path": "local/judet/iasi/2019/325",
+   "short": "HCJ Iași nr. 325/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 325/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia Bazga cu hramul “Duminica Tuturor Sfinților”, sat Răducăneni, comuna Răducăneni, în vederea realiză",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-325",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-325",
+     "sha256": "5ba605492ee24a049b33006d99bb1c1a4dbb09eec03558f06624570051ba533c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-33-2019",
+   "path": "local/judet/iasi/2019/33",
+   "short": "HCJ Iași nr. 33/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 33/2019 privind aprobarea creditului de angajament în valoare de 15.324,650 mii lei pentru perioada 2019 - 2020 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-33",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-33",
+     "sha256": "8fb318ea2565e66d6bded84a33be42fb7e9e7e53840ffa1b518dda5359b35de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-330-2019",
+   "path": "local/judet/iasi/2019/330",
+   "short": "HCJ Iași nr. 330/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 330/2019 privind acordarea unui sprijin financiar pe anul 2019, pentru Parohia Romano-Catolică Bălțați cu hramul “Coborârea Sfântului Duh”, sat Bălțați, comuna Bălțați, în vedere",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-330",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-330",
+     "sha256": "71b04265552a3109a0dc99ae6dd11be4eea8eee5b34246c948fdc0a8239a9bbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-335-2019",
+   "path": "local/judet/iasi/2019/335",
+   "short": "HCJ Iași nr. 335/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 335/2019 privind repartizarea pe unitățile administrativ - teritoriale din județul Iași a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descentr",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-335",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-09-24/hot%C4%83r%C3%A2rea-nr-335",
+     "sha256": "c07f48c272a39819b192901c270472c294051d8267c7e7d100fb79c05c6f7b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-34-2019",
+   "path": "local/judet/iasi/2019/34",
+   "short": "HCJ Iași nr. 34/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 34/2019 privind aprobarea creditului de angajament în valoare de 12.269,742 mii lei pentru perioada 2019 - 2020 în vederea finanțării obiectivului de investiție \"Modernizare dru",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-34",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-34",
+     "sha256": "da06997d2ad25d9d12110291434e217f1e409bcb750fcc01d619a75c63c04937"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-342-2019",
+   "path": "local/judet/iasi/2019/342",
+   "short": "HCJ Iași nr. 342/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 342/2019 privind aprobarea realizării obiectivului de investiții reprezentând dotări independente - \"Pian\", la Filarmonica \"Moldova” Iași și alocarea sumei necesare de 875,00 m",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-342",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-342",
+     "sha256": "250d8094734ea297e0ae3022d3ab48a50780ebec6730ce1aae6c1d0a283fcb37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-349-2019",
+   "path": "local/judet/iasi/2019/349",
+   "short": "HCJ Iași nr. 349/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 349/2019 privind aprobarea organigramei, statului de funcții și a Regulamentului de organizare și funcționare pentru Direcția Județeană de Evidență a Persoanelor Iași Tags: h",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-349",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-349",
+     "sha256": "d7af6977fb4279d582f4e5003fc39db4039c68bc5e5afb486b122b2babbed0cb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-35-2019",
    "path": "local/judet/iasi/2019/35",
    "short": "HCJ Iași nr. 35/2019",
@@ -44,6 +1139,171 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-35",
      "sha256": "13f11eb0424625b3f27242986d4dc5f3f45651149078e8cbc2edf9255c3b18f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-350-2019",
+   "path": "local/judet/iasi/2019/350",
+   "short": "HCJ Iași nr. 350/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 350/2019 privind acceptarea ofertei de donații a Fundației Hope and Homes for Children România Tags: hotărâre hotărâri hotărâri 2019 23.10.2019 Creat de icc la Joi, 07/11/2",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-350",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-350",
+     "sha256": "c9fdf126bf64785b1597e5729c203e7ebb377d600ce1ef0b9b2ca94685c9bb93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-356-2019",
+   "path": "local/judet/iasi/2019/356",
+   "short": "HCJ Iași nr. 356/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 356/2019 privind modificarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Iași Tags: hotărâre hotărâri hotărâri 2019 23.1",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-356",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-356",
+     "sha256": "4ddd637a1cd27f2611c73b9b2fb67847ffe21c0fb59e162cac59b5bc7e2c52ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-358-2019",
+   "path": "local/judet/iasi/2019/358",
+   "short": "HCJ Iași nr. 358/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 358/2019 privind constituirea Comisiei de evaluare a indicatorilor de performanță financiari și nefianciari aferenți anului 2018 cuprinși în Anexele la contractele de mandat al",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-358",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-358",
+     "sha256": "bfcb42feaa34257a761ec6204e23b4ae56370d01a26e4aecc6cf43c7f39aa358"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-36-2019",
+   "path": "local/judet/iasi/2019/36",
+   "short": "HCJ Iași nr. 36/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 36/2019 privind aprobarea Protocolului de Colaborare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-36",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-36",
+     "sha256": "ce7544910ee8acf008e025a345d1d04a899d32a885680366cd22dc6564f7e242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-367-2019",
+   "path": "local/judet/iasi/2019/367",
+   "short": "HCJ Iași nr. 367/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 367/2019 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-367",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-367",
+     "sha256": "469ced71a36c0f4252525bcd6c5c97c0ac16816884a435424eda19f0b930ae94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-368-2019",
+   "path": "local/judet/iasi/2019/368",
+   "short": "HCJ Iași nr. 368/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 368/2019 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-368",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-10-23/hot%C4%83r%C3%A2rea-nr-368",
+     "sha256": "393a4f3fa46dce9924104e78a7494c92289e3cb8b50efa200197fd6a151a151b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-369-2019",
+   "path": "local/judet/iasi/2019/369",
+   "short": "HCJ Iași nr. 369/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 369/2019 privind aprobarea procesului – verbal al ședinței ordinare de plen a Consiliului Județean Iași din data de 23 octombrie 2019 Tags: hotărâre hotărâri hotărâri 2019 20",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-369",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-369",
+     "sha256": "6526632a2b5f9b5a0e83ae6a0f78fcd8322cdbfe7787b9f97ba069897347c57c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-37-2019",
+   "path": "local/judet/iasi/2019/37",
+   "short": "HCJ Iași nr. 37/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 37/2019 privind aprobarea participării Președintelui Consiliului Județean Iași la manifestările ocazionate de „Plenariile Comitetului de Primăvară\" al AER care vor avea loc la O",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-37",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-37",
+     "sha256": "e968dbac42b2d7db2254e29ca2832cd4a55787a52d9c6996e662e952f04c3fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-379-2019",
+   "path": "local/judet/iasi/2019/379",
+   "short": "HCJ Iași nr. 379/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 379/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-379",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-379",
+     "sha256": "2428192925b01373159a7479a848052c87249688c3438bb102017bf0d35a59e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-38-2019",
+   "path": "local/judet/iasi/2019/38",
+   "short": "HCJ Iași nr. 38/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 38/2019 privind aprobarea indicatorilor tehnico - economici pentru realizarea obiectivului de investitii „CONSOLIDARE, MODERNIZARE ȘI REFUNCȚIONALIZARE CLĂDIRE SPITAL CLINIC DE",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-38",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-38",
+     "sha256": "3e3329d86676dc73291f14458f5209e04e16c7a1f086ba71e63183fa0a1b3a07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-384-2019",
+   "path": "local/judet/iasi/2019/384",
+   "short": "HCJ Iași nr. 384/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 384/2019 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-384",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-384",
+     "sha256": "7bdb1d2f88158887064aeb378527b1a07e7ba00cbae84ffa3f10f6566aff74fa"
     }
    ]
   },
@@ -78,6 +1338,81 @@
    ]
   },
   {
+   "slug": "hcj-iasi-39-2019",
+   "path": "local/judet/iasi/2019/39",
+   "short": "HCJ Iași nr. 39/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 39/2019 privind aprobarea rețelei învățământului special din județul Iași pentru anul școlar 2019-2020 Tags: hotărâre hotărâri hotărâri 2019 20.02.2019 Creat de icc la Lun",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-39",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-39",
+     "sha256": "6122bbcfc83e4f51ad9eb1b86572d9b38e2611a75f5435fbec322aa3a1763a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-392-2019",
+   "path": "local/judet/iasi/2019/392",
+   "short": "HCJ Iași nr. 392/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 392/2019 privind cuantumul tarifelor de închiriere lei/oră/400mp a spațiilor extramuzeale, a tarifelor de închiriere lei/oră/zi a spațiilor expoziționale ale obiectivelor (muze",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-392",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-392",
+     "sha256": "ebf9455d8d18f296617c1f743ea7ecc91d825cb1d87c6853e80b22876702c7ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-395-2019",
+   "path": "local/judet/iasi/2019/395",
+   "short": "HCJ Iași nr. 395/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 395/2019 privind înființarea și funcționarea Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Revis, cu o capacitate de 27 de locuri, prin reorganizar",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-395",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-395",
+     "sha256": "eba3234b5ef953f0daadab15b8ed9a98d36dc50ac7cc1d00dbc7f19c09e7d282"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-397-2019",
+   "path": "local/judet/iasi/2019/397",
+   "short": "HCJ Iași nr. 397/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 397/2019 privind înființarea, funcționarea Centrului de Îngrijire și Asistență pentru persoane adulte cu dizabilități “Gulliver”, cu o capacitate de 26 locuri, ca parte compon",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-397",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-397",
+     "sha256": "1985d1c1508d38d4f3ce48e57d59dfe888184fbb9c4ff2bd819b2cf63e2a7034"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-4-2019",
+   "path": "local/judet/iasi/2019/4",
+   "short": "HCJ Iași nr. 4/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 4/2019 privind numirea reprezentantului Consiliului Județean Iași în Consiliul Consultativ al Unității de Asistență Medico-Socială Podu Iloaei Tags: hotărâre hotărâri hotărâri 2",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-4",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-4",
+     "sha256": "aca925b8adef4fdbebeba1b82d83741b43bc85b0e0aaa31590c267b1c86dadca"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-40-2019",
    "path": "local/judet/iasi/2019/40",
    "short": "HCJ Iași nr. 40/2019",
@@ -89,6 +1424,1011 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-40",
      "sha256": "03522ec53150762dc1c2a750d86ba3911bb42a8b803a1cdb86e2ccdc2e38ad0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-405-2019",
+   "path": "local/judet/iasi/2019/405",
+   "short": "HCJ Iași nr. 405/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 405/2019 privind înființarea și funcționarea Locuinței Maxim Protejate pentru Persoane Adulte cu Dizabilități 3 „Galata”, cu o capacitate de 6 locuri, prin reorganizarea Locu",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-405",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-405",
+     "sha256": "7320f420209779410a6f610799f0ee38b26021223eb950fb9aaec0c2cf4aded0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-407-2019",
+   "path": "local/judet/iasi/2019/407",
+   "short": "HCJ Iași nr. 407/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 407/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-407",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-407",
+     "sha256": "83e6a1727cfd472194c9e2e74008db4e00b7e5b3f7726cacdb59ed299907184a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-408-2019",
+   "path": "local/judet/iasi/2019/408",
+   "short": "HCJ Iași nr. 408/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 408/2019 privind aprobarea Planului de restructurare a Centrului de Recuperare și Reabilitare Neuropsihiatrică Hârlău, Județul Iași. Tags: hotărâre hotărâri hotărâri 2019 20",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-408",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-408",
+     "sha256": "42378a43a0877f311531f0ca45cf2ff4515133d34bd0e0d500efb43a8e8f983b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-41-2019",
+   "path": "local/judet/iasi/2019/41",
+   "short": "HCJ Iași nr. 41/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 41/2019 privind constituirea comisiei de selecție pentru un membru al Consiliului de administrație al Regiei Autonome Aeroportul Iași Tags: hotărâre hotărâri hotărâri 2019 20",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-41",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-41",
+     "sha256": "63968637087ee9d9a2875e5263cf06d9d30241b4ec8544150fc2f34db9c38329"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-410-2019",
+   "path": "local/judet/iasi/2019/410",
+   "short": "HCJ Iași nr. 410/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 410/2019 pentru sprijinirea Spitalului de Boli Infecțioase ”Sfânta Parascheva” Iași cu mijloacele tehnice și logistice necesare derulării în județul Iași a Programului pentru s",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-410",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-410",
+     "sha256": "9bf9148880b2fc85440a825656658290557aba42c98c81956095521d9790da28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-412-2019",
+   "path": "local/judet/iasi/2019/412",
+   "short": "HCJ Iași nr. 412/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 412/2019 privind rectificarea anexelor nr. 1, 2 și 3 la Hotărârea Consiliului Județean Iași nr. 205/26.06.2019, cu modificările și completările ulterioare, potrivit comunicării",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-412",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-412",
+     "sha256": "762186f36eb6874623f17c243ea0c37238531c6f90555559a4abe51d7a25ef53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-414-2019",
+   "path": "local/judet/iasi/2019/414",
+   "short": "HCJ Iași nr. 414/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 414/2019 privind aprobarea Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici la obiectivul de investiție \"Amenajare spațiu pentru amplas",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-414",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-414",
+     "sha256": "c737a0277d52cb6b1126eb4d20a218ba62dbbd8bf5d785b5b25ec1e167216c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-42-2019",
+   "path": "local/judet/iasi/2019/42",
+   "short": "HCJ Iași nr. 42/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 42/2019 privind repartizarea pe anul 2019 a unor sume din excedentul bugetului local al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-42",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-42",
+     "sha256": "5a935c462dd5fe63c03f1690f6c12dc5c09a48d79c4afeb6d738afd20af4ca5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-43-2019",
+   "path": "local/judet/iasi/2019/43",
+   "short": "HCJ Iași nr. 43/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 43/2019 privind aprobarea procesului – verbal al ședinței ordinare de plen a Consiliului Județean Iași din data de 20 februarie 2019 Tags: hotărâre hotărâri hotărâri 2019 22.03.201",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-43",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-43",
+     "sha256": "572ddde138fd73f5b2dcf86534e576935c1b2ebea766a83fc2404a2d4f122442"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-44-2019",
+   "path": "local/judet/iasi/2019/44",
+   "short": "HCJ Iași nr. 44/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 44/2019 privind solicitarea de trecere din domeniul public al comunei Ruginoasa în domeniul public al Județului Iași și administrarea Consiliu",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-44",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-44",
+     "sha256": "5607d81cc053ad36337ffda5d8715985a8b23858942623cbfbdd94862b608925"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-45-2019",
+   "path": "local/judet/iasi/2019/45",
+   "short": "HCJ Iași nr. 45/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 45/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-45",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-45",
+     "sha256": "ab39f0ba9921e3292b081311d6286eb24dec55f20d775b3e9f05f398c77fbbe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-46-2019",
+   "path": "local/judet/iasi/2019/46",
+   "short": "HCJ Iași nr. 46/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 46/2019 privind aprobarea organigramei și a statului de funcții pentru Direcția Județeană de Pază și Protecție Iași, cu aplicare de la 01 aprilie 2019 Tags: hotărâre hotărâri hotăr",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-46",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-46",
+     "sha256": "4614326559a725f12846eb417bd38ecbd7d282bfb6d2e14bf8610fb20c1c7f8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-47-2019",
+   "path": "local/judet/iasi/2019/47",
+   "short": "HCJ Iași nr. 47/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 47/2019 privind demararea procedurilor în vederea înființării Centrului de Excelență pentru sporturi olimpice la nivel de copii și juniori din județul Iași Tags: hotărâre hotărâri",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-47",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-47",
+     "sha256": "363139b09c2e569ddd8a46c3bdca95b44c483e6bd6e2e5c1e05c04ed8e80ef3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-48-2019",
+   "path": "local/judet/iasi/2019/48",
+   "short": "HCJ Iași nr. 48/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 48/2019 privind aprobarea organigramei, statului de funcții și a Regulamentului de Organizare și Funcționare ale Spitalului Clinic de Boli Infecțioase „Sf. Parascheva” Iași, cu aplic",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-48",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-48",
+     "sha256": "c34263731775b07a7d7fc15d9caf4598d75b8525c43b3bdf3aebf6d0d75b524f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-49-2019",
+   "path": "local/judet/iasi/2019/49",
+   "short": "HCJ Iași nr. 49/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 49/2019 privind aprobarea organigramei și a statului de funcții pentru Spitalul Clinic de Urgență „Prof. Dr. N. Oblu” Iași Tags: hotărâre hotărâri hotărâri 2019 22.03.2019 Creat",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-49",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-49",
+     "sha256": "583dc37f4d756fc6c62082e12fcc235bde9192b7d98c755296c428fab32481c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-5-2019",
+   "path": "local/judet/iasi/2019/5",
+   "short": "HCJ Iași nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 5/2019 privind solicitarea de trecere din domeniul public al comunei Ruginoasa și administrarea Consiliului Local al comunei Ruginoasa în d",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-5",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-5",
+     "sha256": "43221206358d210a5ed8ac022e09c206e5bfbfa84d2193f32ee3207e6cc7f3a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-50-2019",
+   "path": "local/judet/iasi/2019/50",
+   "short": "HCJ Iași nr. 50/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 50/2019 privind achiziția de servicii de consultanță, asistență și reprezentare juridică a Spitalului Clinic de Urgență “Prof. Dr. N. Oblu” Iași Tags: hotărâre hotărâri hotărâri 20",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-50",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-50",
+     "sha256": "b4a8d0147daf125859a137fb985385b2fa5b88b981be258b3367f1a0fe0bce63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-51-2019",
+   "path": "local/judet/iasi/2019/51",
+   "short": "HCJ Iași nr. 51/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 51/2019 privind aprobarea Regulamentului de Organizare și Funcționare al Muzeului Național al Literaturii Române Iași Tags: hotărâre hotărâri hotărâri 2019 22.03.2019 Creat de i",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-51",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-51",
+     "sha256": "cd1afc467c15530649abd8360f2c7ed2fc95b65cf5dd0496a213f5a33a411232"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-52-2019",
+   "path": "local/judet/iasi/2019/52",
+   "short": "HCJ Iași nr. 52/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 52/2019 privind modificarea Anexei 1 – Reparații curente din Programul de lucrări drumuri și poduri al D.J.A.D.P",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-52",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-52",
+     "sha256": "4103d12cc72d9a86ab928876b353c5bda2acc63b4817d915e422408317372865"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-53-2019",
+   "path": "local/judet/iasi/2019/53",
+   "short": "HCJ Iași nr. 53/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 53/2019 privind aprobarea revizuirii devizului general, urmare a instituirii unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal bugetare de modificare și completar",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-53",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-53",
+     "sha256": "dfcbd61d137fccf929ea575ddd665fe7272965656c0657fa3b54f21f861be3c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-54-2019",
+   "path": "local/judet/iasi/2019/54",
+   "short": "HCJ Iași nr. 54/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 54/2019 privind actualizarea devizului general după încheierea contractului de lucrări pentru obiectivul de investiție „Modernizare drum județean, DJ 207M intersecție DN 28 - A.I.Cuz",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-54",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-54",
+     "sha256": "b90d77d64b2f1580746c234d3e6872f17390ebcb6d1f117403e1d4c68e493d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-55-2019",
+   "path": "local/judet/iasi/2019/55",
+   "short": "HCJ Iași nr. 55/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 55/2019 privind actualizarea devizului general după încheierea contractului de lucrări pentru obiectivul de investiție „Modernizare drum județean DJ 248A: intersecție DC 73 (Griești)",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-55",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-55",
+     "sha256": "ce2322bc96594db9601f3f85cb91c49b68e74b6e16bfafd7f518867a2fde170f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-56-2019",
+   "path": "local/judet/iasi/2019/56",
+   "short": "HCJ Iași nr. 56/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 56/2019 privind actualizarea devizului general după încheierea contractului de lucrări pentru obiectivul de investiție „Modernizare drum județean DJ 280B: Tg",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-56",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-56",
+     "sha256": "4e9fdf3634f9676d3b12f6d9f40f5a9fc899b3a3726619920b055a52591baa4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-57-2019",
+   "path": "local/judet/iasi/2019/57",
+   "short": "HCJ Iași nr. 57/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 57/2019 privind actualizarea devizului general după încheierea contractului de lucrări pentru obiectivul de investiție „Modernizare drum județean DJ 281: Spinoasa – Belcești, km.10+",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-57",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-57",
+     "sha256": "c7d34b068371650e30554c920676776f83e8da40fd9eeeb371b0a514ba7a81d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-58-2019",
+   "path": "local/judet/iasi/2019/58",
+   "short": "HCJ Iași nr. 58/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 58/2019 privind actualizarea devizului general după încheierea contractului de lucrări pentru obiectivul de investiție „Modernizare drum județean DJ 281C: intersecție DN 28A (Blăgeșt",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-58",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-58",
+     "sha256": "71b093455f8d8e610b1247c59674eedb729f048c9cf75f6c404f9da5ff6d88df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-59-2019",
+   "path": "local/judet/iasi/2019/59",
+   "short": "HCJ Iași nr. 59/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 59/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-59",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-59",
+     "sha256": "0320f1d94cab5e65e9bf87d84fada9bcb819fd5de37f4fc51cd3156e9edbfea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-6-2019",
+   "path": "local/judet/iasi/2019/6",
+   "short": "HCJ Iași nr. 6/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 6/2019 privind atribuirea în folosință gratuită către Agenția Națională pentru Arii Naturale Protejate a trei spații de birouri situate la etajul 1 al Centrului de Sprijinire a Af",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-6",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-6",
+     "sha256": "bbc6772ffad5d8aeb6401783415135e63f83e1f98d0e2c32ff8424141943e41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-60-2019",
+   "path": "local/judet/iasi/2019/60",
+   "short": "HCJ Iași nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 60/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-60",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-60",
+     "sha256": "263a52438913ab3d919db6003f8530917051263cba3cea0f8994d035cc5454cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-61-2019",
+   "path": "local/judet/iasi/2019/61",
+   "short": "HCJ Iași nr. 61/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 61/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-61",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-61",
+     "sha256": "fa519d146f28274679eafbdf9e55fcf4e19151e8b095f23fbea39502be498c27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-62-2019",
+   "path": "local/judet/iasi/2019/62",
+   "short": "HCJ Iași nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 62/2019 privind aprobarea cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-62",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-62",
+     "sha256": "c88b22ac969e208d167c80fc50996d56deef12505dbf08a8fc1caf17435242d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2019",
+   "path": "local/judet/iasi/2019/63",
+   "short": "HCJ Iași nr. 63/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2019 privind aprobarea contribuției Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "ed911cbcb90f0a73b1142778620b95854e533e8aface77d945109dc81b8a44f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-64-2019",
+   "path": "local/judet/iasi/2019/64",
+   "short": "HCJ Iași nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 64/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-64",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-64",
+     "sha256": "fcf4b51c041fd1997a7616b51c5026073552ec31cf5fccb41f439f1070a916b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-65-2019",
+   "path": "local/judet/iasi/2019/65",
+   "short": "HCJ Iași nr. 65/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 65/2019 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-65",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-65",
+     "sha256": "1383e813146dd666fc8ab4bb3721632bcbf3c1eb9d8ae7166421ceb96a00d590"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-66-2019",
+   "path": "local/judet/iasi/2019/66",
+   "short": "HCJ Iași nr. 66/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 66/2019 privind aprobarea componenței Autorității Teritoriale de Ordine Publică Iași Tags: hotărâre hotărâri hotărâri 2019 22.03.2019 Creat de icc la Joi, 04/04/2019 - 14:02 Ult",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-66",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-66",
+     "sha256": "c8638335032d79ca286d3f06dd02e10b031a1be8faa7b971d06b18c25b4355aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-67-2019",
+   "path": "local/judet/iasi/2019/67",
+   "short": "HCJ Iași nr. 67/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 67/2019 privind aprobarea Regulamentului de Organizare și Funcționare al Regiei Autonome Aeroportul Iași Tags: hotărâre hotărâri hotărâri 2019 22.03.2019 Creat de icc la Joi, 04/",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-67",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-67",
+     "sha256": "90af5716a4f25dab214583267df414cf81a99e5b8658bd7b7289a907555e0761"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-68-2019",
+   "path": "local/judet/iasi/2019/68",
+   "short": "HCJ Iași nr. 68/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 68/2019 pentru modificarea Hotărârii Consiliului Județean Iași nr. 287/29.09.2015 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul d",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-68",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-68",
+     "sha256": "1c3ffdf004d6cefc8a08fc1a116d0d623810afe5376b6002e0180e68261b34c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-69-2019",
+   "path": "local/judet/iasi/2019/69",
+   "short": "HCJ Iași nr. 69/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 69/2019 pentru modificarea Hotărârii Consiliului Județean Iași nr. 288/29.09.2015 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul d",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-69",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-69",
+     "sha256": "6cf2c9f6e0b00746cc20b6de68f89c22242846cf96435f2083d0c19b0bd022bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-7-2019",
+   "path": "local/judet/iasi/2019/7",
+   "short": "HCJ Iași nr. 7/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 7/2019 privind aprobarea prelungirii cu un an a dreptului de folosință gratuită de către Parchetul de pe lângă Curtea de Apel Iași a încăperilor 12a și 12b din demisolul Centrului",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-7",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-7",
+     "sha256": "46069b8ceeede5bd2f2bc49503239673700898e4629cdcd555a95b3922557317"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2019",
+   "path": "local/judet/iasi/2019/70",
+   "short": "HCJ Iași nr. 70/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2019 pentru modificarea Hotărârii Consiliului Județean Iași nr. 275/29.09.2015 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul d",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "f9647c7de7b37e888c45466e1a184255e80d7f02e3774acd7a3c1d24204bad51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-71-2019",
+   "path": "local/judet/iasi/2019/71",
+   "short": "HCJ Iași nr. 71/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 71/2019 privind declasificarea, în vederea modernizării, a tronsonului de drum județean DJ 249A: Iași - Ungheni, km 2+200 - 2+600 în drum comunal cu indicativul DC 20 C: Lim. mun. Ia",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-71",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-71",
+     "sha256": "773974ddc534bf4f129d18c0402b3165ac6990c54e374daf94b3cb41c277e46b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-72-2019",
+   "path": "local/judet/iasi/2019/72",
+   "short": "HCJ Iași nr. 72/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 72/2019 privind repartizarea pe anul 2019, pe unitățile administrativ – teritoriale din județul Iași, a sumelor alocate din cotele din impozitul pe venit pentru echilibrarea bugetelo",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-72",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-03-22/hot%C4%83r%C3%A2rea-nr-72",
+     "sha256": "1539d2f48c29ef4d9da06fbb9aef44fde68670f0156c36a5b54d493f18d494c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-73-2019",
+   "path": "local/judet/iasi/2019/73",
+   "short": "HCJ Iași nr. 73/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 73/2019 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Județean Iași din dala de 22 martie 2019 Tags: hotărâre hotărâri hotărâri 2019 12.04.2019 Creat de",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-73",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-73",
+     "sha256": "dae7a904e5c7bec86daf1e3a131be786a723046a9ad10b39cbb5aa8f8b3d17a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-74-2019",
+   "path": "local/judet/iasi/2019/74",
+   "short": "HCJ Iași nr. 74/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 74/2019 privind aprobarea organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și contractelor/acordurilor-cadru de presta",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-74",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-74",
+     "sha256": "517af7d16b4adf1ef3791042ddbf1f6b9836bf5d05b8cf57843f6694c2b74edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2019",
+   "path": "local/judet/iasi/2019/75",
+   "short": "HCJ Iași nr. 75/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2019 privind repartizarea pentru anul 2019 pe unitățile administrativ - teritoriale din județul Iași a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuiel",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "db1a7806af5d3660e2eb1a5ed9993c65ea921ac4160bf070ece7c29ce3f4a95a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-76-2019",
+   "path": "local/judet/iasi/2019/76",
+   "short": "HCJ Iași nr. 76/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 76/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-76",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-76",
+     "sha256": "b23c6974f1f090296441f3af91c1127af3a5b3029d62b4ff05ebde079d80b0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2019",
+   "path": "local/judet/iasi/2019/77",
+   "short": "HCJ Iași nr. 77/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2019 privind repartizarea pentru anul 2019 pe unitățile administrativ - teritoriale din județul Iași, a sumei corespunzătoare cotei de 7,5% din impozitul pe venit estimat a se în",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-12/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "eb83edc74c0ab74698e3215f913fb7ee1a05cd1995a741465de39df5c923d43a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-78-2019",
+   "path": "local/judet/iasi/2019/78",
+   "short": "HCJ Iași nr. 78/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 78/2019 privind aprobarea procesului — verbal al sedintei extraordinare a Consiliului Judetean Iasi din data de 12 aprilie 2019 Tags: hotărâre hotărâri hotărâri 2019 24.04.2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-78",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-78",
+     "sha256": "aa1bc791af4aa66273e42a040de4e65efb16c4b6cac0b7d2f397f966eca4ac89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-79-2019",
+   "path": "local/judet/iasi/2019/79",
+   "short": "HCJ Iași nr. 79/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 79/2019 privind aprobarea „Planului de analiza si acoperire a riscurilor\" la nivelul judetului Iasi Tags: hotărâre hotărâri hotărâri 2019 24.04.2019 Creat de icc la Mie, 08/0",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-79",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-79",
+     "sha256": "d40db326309f72b883767f8c53b893bba73a9f8d17d79204a3211151f17301d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-8-2019",
+   "path": "local/judet/iasi/2019/8",
+   "short": "HCJ Iași nr. 8/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 8/2019 privind aprobarea prelungirii duratei contractului de concesiune nr. 31287/15.10.2015 Tags: hotărâre hotărâri hotărâri 2019 23.01.2019 Creat de icc la Lun, 28/01/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-8",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-8",
+     "sha256": "ff59df6adf46aca5ab3506b5c3c079e22f11a3919d3d5fc0ca55d258b849067f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-80-2019",
+   "path": "local/judet/iasi/2019/80",
+   "short": "HCJ Iași nr. 80/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 80/2019 privind solicitarea de trecere din domeniul public al comunei Ruginoasa si administrarea Consiliului Local al comunei Ruginoasa in",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-80-0",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-80-0",
+     "sha256": "7e486b6d6a9901b9bedddd5d3e6fa76637c97e0298981e432efdd97c38b64f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-81-2019",
+   "path": "local/judet/iasi/2019/81",
+   "short": "HCJ Iași nr. 81/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 81/2019 privind aprobarea Acordului de cooperarehitre Judetul Iasi —",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-81",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-81",
+     "sha256": "767717dcf281bc493f6fe3ea538f1200b11c6e6c02acc174ba5d8d46d4537dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-83-2019",
+   "path": "local/judet/iasi/2019/83",
+   "short": "HCJ Iași nr. 83/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 83/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-83",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-83",
+     "sha256": "75510dcb1b29028102b1ba040a0b5a1e9a21a6a11ca63b1a2fa6d12b3973408d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-84-2019",
+   "path": "local/judet/iasi/2019/84",
+   "short": "HCJ Iași nr. 84/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 84/2019 pentru rectificarea Hotararii Consiliului Judetean Iasi nr. 29/20.02.2019 privind aprobarea creditului de angajament in valoare de 16.107,878 mii lei pentru perioada 2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-84",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-84",
+     "sha256": "7702b30c0b761576f132904abe12f028514c2aa94222ee8b2e4670e29eb8f0f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-85-2019",
+   "path": "local/judet/iasi/2019/85",
+   "short": "HCJ Iași nr. 85/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 85/2019 privind modificarea Anexei 1— Reparatii curente din Programul de lucrari drumuri si poduri al D.J.A.D.P",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-85",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-85",
+     "sha256": "108d96b4a1ee19cc7110c2b2d1d5055c5b91041c695d0bcbcb8a680719bae064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-86-2019",
+   "path": "local/judet/iasi/2019/86",
+   "short": "HCJ Iași nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 86/2019 privind aprobarea Acordului de Parteneriat intre Judetul Iasi — Directia Judeteana de Administrare a Drumurilor si Podurilor Iasi si Administratia Bazinala de Apa Siret p",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-86",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-86",
+     "sha256": "8b409494cf556ec3bcbfb907cf347668b77e1222bc8d7131f540824fff053466"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2019",
+   "path": "local/judet/iasi/2019/87",
+   "short": "HCJ Iași nr. 87/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2019 pentru modificarea Hotararii Consiliului Judetean Iasi nr. 284/29.09.2015 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectiv",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "6820326546d42fd6bfa50cfd0ea1e6bc17ef75461a88f43ebe83d3ec3578883f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2019",
+   "path": "local/judet/iasi/2019/88",
+   "short": "HCJ Iași nr. 88/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2019 pentru modificarea Hotararii Consiliului Judetean Iasi nr. 279/29.09.2015 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectiv",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "97167f5fc2a6a420e1eccb82d1ef6184b6bdfb72475d5e48e89d702ac3fa5045"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-9-2019",
+   "path": "local/judet/iasi/2019/9",
+   "short": "HCJ Iași nr. 9/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 9/2019 privind dezmembrarea imobilului teren, situat în Comuna Popricani, Județul Iași, proprietatea publică a Județului Iași cu numărul cadastral 63043 Tags: hotărâre hotărâri",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-9",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-01-23/hot%C4%83r%C3%A2rea-nr-9",
+     "sha256": "95d53a6db479047cb64268dfc81e086da87b633533fd8fc5780c79f03185447f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2019",
+   "path": "local/judet/iasi/2019/90",
+   "short": "HCJ Iași nr. 90/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2019 pentru modificarea Hotararii Consiliului Judetean Iasi nr. 280/29.09.2015 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectiv",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "0e61d91c7db1f4056cce2e9f5fd74e768bc09e477a4e365a9f011620dda922d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-91-2019",
+   "path": "local/judet/iasi/2019/91",
+   "short": "HCJ Iași nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 91/2019 privind aprobarea organizarii Programului de formare „Managementul procesului de incluziune scolara a elevilor cu cerinte educationale speciale\" de catre Centrul Judetean",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-91",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-91",
+     "sha256": "aa2ce2e4ea2a455520d21aca408e4188837d873aff8a0892875aee3d75542753"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2019",
+   "path": "local/judet/iasi/2019/93",
+   "short": "HCJ Iași nr. 93/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2019 privind Bugetul de venituri si cheltuieli al SC Tehnopolis SRL Iasi pentru anul 2019 si estimari pentru anii 2020 - 2021 Tags: hotărâre hotărâri hotărâri 2019 24.04.201",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "a1f3f07f35b51c69d22c8fd3d45ee47c4f3d30311dba1d1ccd0c31bc74a1f431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2019",
+   "path": "local/judet/iasi/2019/94",
+   "short": "HCJ Iași nr. 94/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2019 privind trecerea din domeniul public al Judetului Iasi in domeniul public al Municipiului Iasi a contributiilor in natura si financiare ale Judetului Iasi - Consiliului J",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "2f65bdf1c4e4e601a0f44bdb3fe0115befb514d66f90de243768ac8dbd5e7774"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-95-2019",
+   "path": "local/judet/iasi/2019/95",
+   "short": "HCJ Iași nr. 95/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 95/2019 privind aprobarea realizarii proiectului \"Suplimentarea capacitatilor de operare pentru pista de decolare-aterizare si platforma de stationare a aeronavelor de la Aeropor",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-95",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-95",
+     "sha256": "7c5c28acf36d5c78a367cb66e951401edd24d8077dfad0037ac71f96bac5471d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-96-2019",
+   "path": "local/judet/iasi/2019/96",
+   "short": "HCJ Iași nr. 96/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 96/2019 privind aprobarea realizarii obiectivului de investitie \"DEZVOLTAREA AEROPORTULUI INTERNATIONAL IASI\" Tags: hotărâre hotărâri hotărâri 2019 24.04.2019 Creat de icc la",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-96",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-96",
+     "sha256": "3ede1fec6f51781bc67ce557b69a41a0b5a46a53d7e8b332244500e7a1589534"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-97-2019",
+   "path": "local/judet/iasi/2019/97",
+   "short": "HCJ Iași nr. 97/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 97/2019 privind Bugetul de venituri si cheltuieli al R.A",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-97",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-97",
+     "sha256": "cea8d15336756ca3d3a4a4138b40ea83d454274ab499d2c29c0b90c71d96e7f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-98-2019",
+   "path": "local/judet/iasi/2019/98",
+   "short": "HCJ Iași nr. 98/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 98/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-98",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-98",
+     "sha256": "d774a05e36d8a5c3e54e3b87668d1e2b370f245bdaba5a061bcb25a1088a67db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-99-2019",
+   "path": "local/judet/iasi/2019/99",
+   "short": "HCJ Iași nr. 99/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 99/2019 privind aprobarea participarii Presedintelui Consiliului Judetean Iasi la sedintele Comisiei de Investitii, Afaceri si IMM-URI din cadrul Comitetului de Dezvoltare Econom",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-99",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-04-24/hot%C4%83r%C3%A2rea-nr-99",
+     "sha256": "a8d635870ab9386af719ddf60fc476e85b60b439d97f0dbab3f3b0dcab4aafca"
     }
    ]
   }

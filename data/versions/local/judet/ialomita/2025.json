@@ -3,6 +3,231 @@
  "shard": "local/judet/ialomita/2025",
  "acts": [
   {
+   "slug": "hcj-ialomita-101-2025",
+   "path": "local/judet/ialomita/2025/101",
+   "short": "HCJ Ialomița nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 101/2025 privind aprobarea Regulamentului de Organizare şi Funcționare a Direcției Județene de Evidență a Persoanelor Ialomița PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-101-din-26.06.2025.pdf",
+     "sha256": "913b04587020ba58ac5783710fecf4348f58c39a2d3bbb5e9f6f399d97ebc906"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-102-2025",
+   "path": "local/judet/ialomita/2025/102",
+   "short": "HCJ Ialomița nr. 102/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 102/2025 privind aprobarea rectificării bugetului general al județului Ialomița, pe anul 2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-102-din-26.06.2025.pdf",
+     "sha256": "0c90a35cab71a8c7c4b29516a2b5db51ab20581a27e12d3c9756963fc7702c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-104-2025",
+   "path": "local/judet/ialomita/2025/104",
+   "short": "HCJ Ialomița nr. 104/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 104/2025 privind aprobarea finanțării nerambursabile a proiectelor depuse în cadrul programului sportiv de utilitate publică ”Promovarea sportului de performanță”, pentru anul 2025 / sezonul competițional 2025-2026, și încheierea contractelor de finanțare PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-104-din-26.06.2025.pdf",
+     "sha256": "07c542b3e5de370b6ed627b5531d09db702a45addeb28f8469c4c4153c78cc0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-105-2025",
+   "path": "local/judet/ialomita/2025/105",
+   "short": "HCJ Ialomița nr. 105/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 105/2025 privind aprobarea bugetului și a grilei de salarizare pentru proiectul ,,Fotbalul unește toți ialomițenii ”anul VII al Asociației Fotbal Club UNIREA 04 Slobozia, pentru sezonul competițional 2025-2026, anul 2025 - perioada 01.07.2025 – 31.12.2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-105-din-26.06.2025.pdf",
+     "sha256": "6489a043faddc149557aafcbfa9459adcc06f171726cfdd035c40fa8d1d13da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-106-2025",
+   "path": "local/judet/ialomita/2025/106",
+   "short": "HCJ Ialomița nr. 106/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 106/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-106-din-26.06.2025.pdf",
+     "sha256": "3ca819c82482530855895ab2698e6852a6fff59f11eb6810c1c66b05993480f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-107-2025",
+   "path": "local/judet/ialomita/2025/107",
+   "short": "HCJ Ialomița nr. 107/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 107/2025 privind aprobarea bugetului pentru proiectul ,,Scrima ialomițeană prezent și viitor, scrimerii ialomițeni în arena internațională” al Asociației Județene de Scrimă Ialomița pentru sezonul competițional 2025-2026, anul 2025 - perioada 01.07.2025 – 31.12.2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-107-din-26.06.2025.pdf",
+     "sha256": "d2523731c418d30e1fb42a4099b6d916a95bcf475965bd37a154443178085051"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-108-2025",
+   "path": "local/judet/ialomita/2025/108",
+   "short": "HCJ Ialomița nr. 108/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 108/2025 privind aprobarea bugetului pentru proiectul ,,Împreună pe teren-proiect pentru dezvoltarea fotbalului amator din județul Ialomița, rampa de lansare spre fotbalul de performanță” al Asociației Județene de Fotbal Ialomița pentru sezonul competițional 2025-2026, anul 2025 - perioada 01.07.2025 – 31.12.2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-108-din-26.06.2025.pdf",
+     "sha256": "d0a728b4a1a63d8289b94b8b7c7620bd1377c272bd4d4a13bc46e6a14b78ca03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-113-2025",
+   "path": "local/judet/ialomita/2025/113",
+   "short": "HCJ Ialomița nr. 113/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 113/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-113-din-26.06.2025.pdf",
+     "sha256": "a04ee5b1500ae6032ab5ea822564919c1dfaf4bda309e31f72403cf2e2337be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-114-2025",
+   "path": "local/judet/ialomita/2025/114",
+   "short": "HCJ Ialomița nr. 114/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 114/2025 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Ialomița la realizarea proiectului “Centru de zi specializat < > Slobozia”, finanțat prin Programul de Incluziune și Demnitate Socială 2021 – 2027 și a cheltuielilor legate de proiect PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-114-din-26.06.2025.pdf",
+     "sha256": "aa03d86c888f221ff6ce10f2e79b5554d8dc64abb76c6415409d2ab724dc2139"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-115-2025",
+   "path": "local/judet/ialomita/2025/115",
+   "short": "HCJ Ialomița nr. 115/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 115/2025 privind aprobarea devizului general și a indicatorilor tehnico – economici actualizați, faza execuție lucrări, pentru obiectivul de investiții „Centrul pentru persoane vârstnice Movila” al Direcției Generale de Asistență Socială și Protecția Copilului Ialomița PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-115-din-26.06.2025.pdf",
+     "sha256": "d516f18b5d0319e4c1289515629f560294727abbc340ccb3493ea849f657ec49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-116-2025",
+   "path": "local/judet/ialomita/2025/116",
+   "short": "HCJ Ialomița nr. 116/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 116/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-116-din-26.06.2025.pdf",
+     "sha256": "776065b06e6b461a61765b359d4e3ef7fec4a34cbd91b04f4a29c97f7394d50d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-117-2025",
+   "path": "local/judet/ialomita/2025/117",
+   "short": "HCJ Ialomița nr. 117/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 117/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-117-din-26.06.2025.pdf",
+     "sha256": "fd0dd1f6ad7f75696a3ace3a477d54c965a4d8d79162a7e896536cbaba847974"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-118-2025",
+   "path": "local/judet/ialomita/2025/118",
+   "short": "HCJ Ialomița nr. 118/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 118/2025 pentru aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici actualizați, faza execuție lucrări, conform prevederilor Hotărârii Guvernului nr. 907/2016, pentru obiectivul de investiții „Construirea Blocului Operator din cadrul Spitalului Județean de Urgență Slobozia” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-118-din-26.06.2025.pdf",
+     "sha256": "2cc8192b0471bba963b9d490750c95e97577bc707865b58456e6b1905a8aa308"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-120-2025",
+   "path": "local/judet/ialomita/2025/120",
+   "short": "HCJ Ialomița nr. 120/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 120/2025 privind modificarea și completarea Hotărârii Consiliului Județean Ialomița nr. 143 din 08.06.2023 privind aprobarea realizării de către Unitatea Administrativ - Teritorială Județul Ialomița a proiectului „Microbuze electrice pentru elevi – Județul Ialomița” finanțat în cadrul Planului Național de Redresare și Reziliență PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-120-din-26.06.2025.pdf",
+     "sha256": "5545add45ad1b6cd6bfa8218e9b820db4c00b3657fc93a3f988ade899ec1894f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-121-2025",
+   "path": "local/judet/ialomita/2025/121",
+   "short": "HCJ Ialomița nr. 121/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 121/2025 privind asocierea Unității Administrativ-Teritoriale Județul Ialomița cu Unitatea Administrativ-Teritorială Comuna Roșiori în vederea realizării proiectului de interes județean „Creșterea Eficienței Energetice a Clădirilor Publice din Județul Ialomița” din cadrul Programului Regional Sud Muntenia 2021-2027, pentru un bun imobil aflat în domeniul public al acesteia PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-121-din-26.06.2025.pdf",
+     "sha256": "f1015610189791217d410d8284ead4d68d4ac29d8d7a537b0381b730b77027a8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-ialomita-122-2025",
    "path": "local/judet/ialomita/2025/122",
    "short": "HCJ Ialomița nr. 122/2025",
@@ -18,6 +243,156 @@
    ]
   },
   {
+   "slug": "hcj-ialomita-123-2025",
+   "path": "local/judet/ialomita/2025/123",
+   "short": "HCJ Ialomița nr. 123/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 123/2025 privind aprobarea asocierii Județului Ialomița cu Asociația ”Sfânta Familie din Nazaret” Slobozia în vederea realizării în comun a proiectului ”Vara împreună” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-123-din-26.06.2025.pdf",
+     "sha256": "6b2a601cde2492ba9d959d0ff63e654bc5a9e214b417fed5d1c594026414c4c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-124-2025",
+   "path": "local/judet/ialomita/2025/124",
+   "short": "HCJ Ialomița nr. 124/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 124/2025 privind asocierea Unității Administrativ Teritoriale Județul Ialomița cu Federația Română de Tenis, Unitatea Administrativ Teritorială Municipiul Slobozia, prin Clubul Sportiv Municipal Unirea Slobozia, și Asociația Club Sportiv Satori Art în vederea realizării în comun a proiectului “Naparis Trophy W50 – turneul international profesionist de tenis feminin, parteneriat strategic pentru performanță",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-124-din-26.06.2025.pdf",
+     "sha256": "ad4c8f3071d42b97a8e3ac47023b97a2efdfacdbf566ebce17b8a2fd3e333f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-126-2025",
+   "path": "local/judet/ialomita/2025/126",
+   "short": "HCJ Ialomița nr. 126/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 126/2025 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici, faza execuție lucrări, pentru proiectul „Modernizare drum județean DJ 201, Tronson Orezu (intersecție DJ 201B) – Piersica – Bordușelu (ieșire localitate) - Tronson II km 37+816 – km 46+908”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând c",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-126-din-26.06.2025.pdf",
+     "sha256": "48e82637cc0d0290a233f9e7f36fb5bc8c9a249cb16e8f836f2dd474f71d2a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-127-2025",
+   "path": "local/judet/ialomita/2025/127",
+   "short": "HCJ Ialomița nr. 127/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 127/2025 privind modificarea Hotărârii Consiliului Județean Ialomița nr. 130/08.07.2024 privind aprobarea devizului general actualizat – etapa II Proiect etapizat – și a principalilor indicatori tehnico – economici actualizați, pentru obiectivul de investiții „Modernizare DJ 306 limită județul Călărași-Albești-Andrășești-Gheorghe Doja-Crunți intersecție cu DJ 102H, DJ 102H intersecție cu DJ 306 – Reviga-Co",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-127-din-26.06.2025.pdf",
+     "sha256": "513f1545f6c52a011614643eddd22f778580fefda342ecec498628e682f9ce62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-128-2025",
+   "path": "local/judet/ialomita/2025/128",
+   "short": "HCJ Ialomița nr. 128/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 128/2025 privind modificarea Hotărârii Consiliului Județean Ialomița nr.131/08.07.2024 pentru aprobarea realizării proiectului „Modernizare DJ 306 limită județul Călărași-Albești-Andrășești-Gheorghe Doja-Crunți intersecție cu DJ 102H, DJ 102H intersecție cu DJ 306 – Reviga-Cocora-intersecție cu DJ 203E, DJ 203E intersecție cu DJ 102H – Cocora – limită județ Buzău” cod SMIS 328755, și susținere a cheltuieli",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-128-din-26.06.2025.pdf",
+     "sha256": "ae54760c5a910f1917547e776bee69857b47ff4944c4dbbdfe65728e9343d524"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-158-2025",
+   "path": "local/judet/ialomita/2025/158",
+   "short": "HCJ Ialomița nr. 158/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 158/2025 privind aprobarea rectificării bugetului general al județului Ialomița, pe anul 2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-158-din-25.09.2025.pdf",
+     "sha256": "a5cdbb5ddabd656df5b6bdb04b9e862c5f68dc62a62604071f7f9db648569b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-159-2025",
+   "path": "local/judet/ialomita/2025/159",
+   "short": "HCJ Ialomița nr. 159/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 159/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Slobozia, pe anul 2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-159-din-25.09.2025-rectificare-buget-SJU.pdf",
+     "sha256": "240af22ccbec194348b972d569960e5426bc7a60178b66e81ca47fe26e5c633d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-160-2025",
+   "path": "local/judet/ialomita/2025/160",
+   "short": "HCJ Ialomița nr. 160/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 160/2025 privind mandatarea reprezentanților Adunării Generale a Acționarilor a societății Drumuri și Poduri SA pentru numirea unui administrator în Consiliul de administrație al societății PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-160-din-25.09.2025.pdf",
+     "sha256": "ca186ca9fd14db809ba0be7631c2a84f50f139aa2c1ee99fe58b2bdeccd31818"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-164-2025",
+   "path": "local/judet/ialomita/2025/164",
+   "short": "HCJ Ialomița nr. 164/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 164/2025 privind încadrarea Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Ialomița în categoria așezămintelor culturale de drept public - instituție-gazdă de spectacole și/sau concerte PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-164-din-25.09.2025.pdf",
+     "sha256": "901a1a6ca2259a7339ca9b1d68c3163ceb4b92f6e5e6219aaab74eeb0946328b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-165-2025",
+   "path": "local/judet/ialomita/2025/165",
+   "short": "HCJ Ialomița nr. 165/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 165/2025 privind organizarea Festivalului concurs de tradiție culinară ialomițeană ”La Casa Tudorii” – ediția a XIII-a, 11 octombrie 2025 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-165-din-25.09.2025.pdf",
+     "sha256": "7b6e9346e0921892f580aaee85ef487e91ed5c9cf3f851aa90c5ac931ef70bc4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-ialomita-166-2025",
    "path": "local/judet/ialomita/2025/166",
    "short": "HCJ Ialomița nr. 166/2025",
@@ -29,6 +404,396 @@
      "units": 1,
      "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-166-din-25.09.2025.pdf",
      "sha256": "9fb099ef607dbcf003aef691d6442b3ff14266646e9b935d8de472de2767d869"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-167-2025",
+   "path": "local/judet/ialomita/2025/167",
+   "short": "HCJ Ialomița nr. 167/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 167/2025 privind actualizarea devizului general actualizat și a indicatorilor tehnico – economici, faza proiect tehnic, pentru obiectivul de investiții „Reabilitare pod peste râul Ialomița la Bucu pe DJ 213 A” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-167-din-25.09.2025.pdf",
+     "sha256": "6705b92617e6e66b401e668012598884ad038dcfc2d971844bd9148c5c8814df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-168-2025",
+   "path": "local/judet/ialomita/2025/168",
+   "short": "HCJ Ialomița nr. 168/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 168/2025 privind actualizarea devizului general actualizat și a indicatorilor tehnico – economici, faza proiect tehnic, pentru obiectivul de investiții „Reabilitare pod peste râul Ialomița la Țăndărei pe DJ 212” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-168-din-25.09.2025.pdf",
+     "sha256": "8d080358c5e292fcd66187ced1a2b7487d0cb20a2e1c57c1f8ee31051952ce85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-169-2025",
+   "path": "local/judet/ialomita/2025/169",
+   "short": "HCJ Ialomița nr. 169/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 169/2025 privind aprobarea devizului general și a principalilor indicatori tehnico-economici, actualizați, faza execuție de lucrări, pentru obiectivul de investiții „Modernizare DJ213A: Limită județ Călărași – intersecție cu DJ201 (Mărculești), intersecție cu DN2A (Bucu) – Scânteia – intersecție cu DN21” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-169-din-25.09.2025.pdf",
+     "sha256": "ab9aaac5c550d7fc7fae234cc74349a9273340ac1bd64717ff5fcde22023f50e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-170-2025",
+   "path": "local/judet/ialomita/2025/170",
+   "short": "HCJ Ialomița nr. 170/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 170/2025 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici actualizați, faza execuție lucrări, pentru obiectivul de investiții ”Modernizare DJ 201: intersecție cu DJ 213A (Mărculești) – intersecție cu DJ 212; DJ 212: intersecție cu DJ 201 – intersecție cu DN2A (Țăndărei)” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-170-din-25.09.2025.pdf",
+     "sha256": "866545c57bd50e7047b6ee38b4a917dc8c2832fbbc98bd65c78f6322e207731c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-171-2025",
+   "path": "local/judet/ialomita/2025/171",
+   "short": "HCJ Ialomița nr. 171/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 171/2025 privind aprobarea devizului general, actualizat și a principalilor indicatori tehnico-economici, actualizați, pentru obiectivul de investiții „Modernizare DJ213A: Limită județ Călărași – intersecție cu DJ201 (Mărculești), intersecție cu DN2A (Bucu)-Scânteia- intersecție cu DN21, DJ 201: intersecție cu DJ 213A (Mărculești)-intersecție cu DJ212; DJ 212: intersecție cu DJ 201-intersecție cu DN 2A (Ță",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-171-din-25.09.2025.pdf",
+     "sha256": "b6f213766df173e08c54ead78a8dad5f0033f6042fd22d6162bf01378b444557"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-172-2025",
+   "path": "local/judet/ialomita/2025/172",
+   "short": "HCJ Ialomița nr. 172/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 172/2025 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici, faza execuție lucrări, pentru proiectul „Modernizare drum județean DJ 201, Tronson Orezu (intersecție DJ 201B) – Piersica – Bordușelu (ieșire localitate) - Tronson II km 37+816 – km 46+908”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând c",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-172-din-25.09.2025.pdf",
+     "sha256": "262f37c7aa9797a94655b656f2164367da4c8de2476915c4bf644f506bf516e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-173-2025",
+   "path": "local/judet/ialomita/2025/173",
+   "short": "HCJ Ialomița nr. 173/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 173/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-173-din-25.09.2025.pdf",
+     "sha256": "f0b78d62013cf803b747439943d2487501bb6fd54a17882a2c3d38a2d693a9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-174-2025",
+   "path": "local/judet/ialomita/2025/174",
+   "short": "HCJ Ialomița nr. 174/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 174/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-174-din-25.09.2025.pdf",
+     "sha256": "b0958b4d44dd3390dd1a96ad2be28b7ce6ad93c0aa9cc1f19cbe1cf0a0835c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-175-2025",
+   "path": "local/judet/ialomita/2025/175",
+   "short": "HCJ Ialomița nr. 175/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 175/2025 privind actualizarea devizului general actualizat și a indicatorilor tehnico – economici, faza execuție lucrări, pentru obiectivul de investiții „Reabilitarea, modernizarea şi dotarea Ambulatoriului din cadrul Spitalului Judeţean de Urgenţă Slobozia” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-175-din-25.09.2025.pdf",
+     "sha256": "33d22391f9d469b9efb8b67dc4c40353ab0e4f55ec792cc0e4ea1b1c072e5810"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-176-2025",
+   "path": "local/judet/ialomita/2025/176",
+   "short": "HCJ Ialomița nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 176/2025 pentru modificarea Hotărârii Consiliului Județean Ialomița nr. 113/16.10.2018 privind aprobarea realizării proiectului „Reabilitarea, modernizarea și dotarea Ambulatoriului din cadrul Spitalului Județean de Urgență Slobozia” și a cheltuielilor legate de proiect, cu modificările ulterioare PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-176-din-25.09.2025.pdf",
+     "sha256": "334617002281e3fbc7881b5cbfbd8dbf79d3812d4dcd0276636920d1f6d79955"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-178-2025",
+   "path": "local/judet/ialomita/2025/178",
+   "short": "HCJ Ialomița nr. 178/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 178/2025 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico – economici actualizați, faza execuție de lucrări, pentru obiectivul de investiții „Modernizare teren de fotbal situat în Slobozia, strada Ion Creangă, nr.2, județul Ialomița” PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-178-din-25.09.2025.pdf",
+     "sha256": "90b6f1272fcd4665882c6cbc432cf7a5d4b517d2014365a50b9be1ecb29d992b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-179-2025",
+   "path": "local/judet/ialomita/2025/179",
+   "short": "HCJ Ialomița nr. 179/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 179/2025 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici actualizați, faza execuție lucrări, pentru obiectivul de investiții ”Modernizarea și dotarea incintei clădirii Spitalului Județean de Urgență Slobozia” , conform Hotărârii de Guvern nr. 907/2016, cu modificările și completările ulterioare PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-179-din-25.09.2025.pdf",
+     "sha256": "9a482ecdab4e6872079d2c2b317514a9ac5ddb2c6e0c6425a8ac0e4b6d18422e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-181-2025",
+   "path": "local/judet/ialomita/2025/181",
+   "short": "HCJ Ialomița nr. 181/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 181/2025 pentru modificarea și completarea Anexei nr.2 la Hotărârea Consiliului Județean Ialomița nr. 31/12.02.2024 privind asocierea UAT Județul Ialomița cu UAT Municipiul Slobozia în vederea realizării proiectului de interes județean „Creșterea Eficienței Energetice a Clădirilor Publice din Județul Ialomița” din cadrul Programului Operațional Regional 2021-2027, imobile aflate în domeniul public al Munic",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-181-din-25.09.2025.pdf",
+     "sha256": "55d24cef81d453b9e1ed9c70766c66ac82dfbbb144d1b68aaed8a6c688e5d163"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-182-2025",
+   "path": "local/judet/ialomita/2025/182",
+   "short": "HCJ Ialomița nr. 182/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 182/2025 pentru modificarea și completarea Anexei nr.4 la Hotărârea Consiliului Județean Ialomița nr. 31/12.02.2024 privind asocierea UAT Județul Ialomița cu UAT Municipiul Slobozia în vederea realizării proiectului de interes județean „Creșterea Eficienței Energetice a Clădirilor Publice din Județul Ialomița” din cadrul Programului Operațional Regional 2021-2027, imobile aflate în domeniul public al Munic",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.182-din-25.09.2025.pdf",
+     "sha256": "18ddfc02ba8a468a5861bfb6a7e0a4805256473b1ab1a30d63f900fb97d0de97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-183-2025",
+   "path": "local/judet/ialomita/2025/183",
+   "short": "HCJ Ialomița nr. 183/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 183/2025 privind darea în folosință gratuită a unor bunuri imobile aflate în proprietatea privată a județului Ialomița către Asociația de Dezvoltare Intercomunitară ECOO 2009 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexe-HCJI-nr.183-din-25.09.2025.pdf",
+     "sha256": "d24a1a9abe3950000f2710215492bd545356b2876b0d694af03d9a2be43a193b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-184-2025",
+   "path": "local/judet/ialomita/2025/184",
+   "short": "HCJ Ialomița nr. 184/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 184/2025 privind darea în folosință gratuită a unor bunuri imobile aflate în proprietatea privată a județului Ialomița către Asociația de Dezvoltare Intercomunitară ECOO 2009 PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexe-HCJI-nr.-184-din-25.09.2025.pdf",
+     "sha256": "0997c9248117f2527953bc9098575cfb4aa9256f9a012ec8a30fff640acf0167"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-186-2025",
+   "path": "local/judet/ialomita/2025/186",
+   "short": "HCJ Ialomița nr. 186/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 186/2025 privind închirierea prin licitație publică a unor bunuri imobile aflate în proprietatea privată a județului Ialomița PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-nr.-186-din-25.09.2025.pdf",
+     "sha256": "9fc1f9fa1efd21c11fb9a0e8b4a7c0af5fc5f00bd61a8c581e3f2850bd48f939"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-187-2025",
+   "path": "local/judet/ialomita/2025/187",
+   "short": "HCJ Ialomița nr. 187/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 187/2025 privind aprobarea devizului general actualizat și a indicatorilor tehnico – economici, faza proiect tehnic și DDE, pentru obiectivul de investiții „Creșterea gradului de securitate la incendiu și asigurarea utilităților pentru Spitalul Județean de Urgență Slobozia”. PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexe-HCJI-nr.-187-din-25.09.2025.pdf",
+     "sha256": "7c6197dbf0f81cc14c3567caa39e6da535a530095d133676d2f62bb396ffd517"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-52-2025",
+   "path": "local/judet/ialomita/2025/52",
+   "short": "HCJ Ialomița nr. 52/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 52/2025 privind aprobarea transferului dreptului de proprietate a bunurilor mobile – active fixe (26 de microbuze electrice pentru transportul elevilor) achiziționate în cadrul proiectului „Microbuze electrice pentru elevi – Județul Ialomița” cod P-01, implementat în baza Contractului de finanțare nr.11981/12.09.2023 PDF Anexe",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-52-din-08.04.2025.pdf",
+     "sha256": "c56c1b86d3ebeeb73f3caeb946a5427dbe69da98819a6340ceef0ea7efd1cfe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-53-2025",
+   "path": "local/judet/ialomita/2025/53",
+   "short": "HCJ Ialomița nr. 53/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 53/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-53-din-08.04.2025.pdf",
+     "sha256": "e16ad1381bd002a8b818beaae02e9f36d507813fa3cff1c0d97536a824289beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-55-2025",
+   "path": "local/judet/ialomita/2025/55",
+   "short": "HCJ Ialomița nr. 55/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 55/2025 privind aprobarea asocierii Judeţului Ialomiţa cu CECCAR Filiala Ialomița în vederea realizării Concursului de cultură și educație financiar-contabilă, ediția a III-a PDF Anexa",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexe-HCJI-nr.-55-din-08.04.2025.pdf",
+     "sha256": "c376a7bc8916175a55716122b8022a69b3569502118d52a94a664dcf9415fbde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-56-2025",
+   "path": "local/judet/ialomita/2025/56",
+   "short": "HCJ Ialomița nr. 56/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 56/2025 pentru completarea anexei la Hotărârea Consiliului Județean Ialomița nr. 80/20.04.2022 privind aprobarea Strategiei de Dezvoltare a Județului Ialomița 2021-2027, cu completările ulterioare PDF Anexa",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-56-din-08.04.2025.pdf",
+     "sha256": "22216f28c7740deac6fd1796fb2e29303727af6e922bd726f70e9ab3d95d1d84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-57-2025",
+   "path": "local/judet/ialomita/2025/57",
+   "short": "HCJ Ialomița nr. 57/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 57/2025 privind modificarea Hotărârii Consiliului Județean Ialomița nr. 72 din 18.06.2019 privind darea în administrare a unui teren situat în municipiul Urziceni, aflat în domeniul public al Județului Ialomița, către Direcția Generală de Asistență Soci-ală și Protecția Copilului Ialomița, în vederea implementării proiectului ”Pași spre vii-tor”, cu modificările și completările ulterioare PDF Anexa",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-57-din-08.04.2025.pdf",
+     "sha256": "cc4694cf12db7a39eeffa88959483f1b9934a9bbf8ecdf7feb5a47de8461ef74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-58-2025",
+   "path": "local/judet/ialomita/2025/58",
+   "short": "HCJ Ialomița nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 58/2025 privind trecerea unui bun imobil – teren situat în intravilanul municipiului Urziceni, din domeniul public al Județului Ialomița în domeniul privat al Județului Ialomița PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-58-din-08.04.2025.pdf",
+     "sha256": "8d54ea074a139a4ca5e5a18a144464dffb61c21fe8b2ec9bfd372b3f4879edc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-59-2025",
+   "path": "local/judet/ialomita/2025/59",
+   "short": "HCJ Ialomița nr. 59/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 59/2025 privind modificarea și completarea Hotărârii Consiliului Județean Ialomița nr. 72 din 28.05.2020 privind reglementarea regimului juridic al terenului în suprafaţă de 562,00 m.p., aflat în intravilanul Urziceni PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexa-HCJI-nr.-59-din-08.04.2025.pdf",
+     "sha256": "6f74cd7b4b6b679716b6b5980f49d509bfee01bfa799434932f1fec70a6b5c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-60-2025",
+   "path": "local/judet/ialomita/2025/60",
+   "short": "HCJ Ialomița nr. 60/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 60/2025 privind transmiterea unui tronson de drum județean din DJ 201 situat pe raza Comunei Coșereni, aflat în domeniul public al Județului Ialomița și administrarea Consiliului Județean Ialomița, în administrarea Consiliului Local al Comunei Coșereni PDF Anexe",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/04/anexe-HCJI-nr.-60-din-08.04.2025.pdf",
+     "sha256": "29fb5ded5c01e36645b8672b4177d086b72039dde17d38309cb209630b701e76"
     }
    ]
   }

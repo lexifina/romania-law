@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2022",
+"acts": [
+{
+"slug": "hcj-iasi-25-2022",
+"path": "local/judet/iasi/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 25/2022 privind constituirea Comisiei de selectie la nivelul autoritatii publice tutelare in vederea selectiei membrilor Consiliului de administratie al Regiei Autonome Aeroportul Iaqi",
+"short": "HCJ Iași nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://www.icc.ro/sites/default/files/files/activitate/hotarari/2022/26-01/25.pdf",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
