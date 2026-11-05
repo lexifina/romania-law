@@ -91766,6 +91766,21 @@
    ]
   },
   {
+   "slug": "legea-127-1999",
+   "path": "lege/1999/127",
+   "short": "Legea nr. 127/1999",
+   "title": "Legea nr. 127/1999 privind aprobarea Ordonanţei Guvernului nr. 117/1998 pentru modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18798",
+   "versions": [
+    {
+     "from": "1999-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18798",
+     "sha256": "a591ddc21b9db2bc80c47142f8cc67637e0eaca8305ccc4f8e78bcaa6b69400f"
+    }
+   ]
+  },
+  {
    "slug": "legea-127-2001",
    "path": "lege/2001/127",
    "short": "Legea nr. 127/2001",
@@ -98089,6 +98104,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11797",
      "sha256": "9676abf4acafde8a5b5abd096eea7d049da72ad28de52269f44786268bea58da"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-1999",
+   "path": "lege/1999/144",
+   "short": "Legea nr. 144/1999",
+   "title": "Legea nr. 144/1999 pentru modificarea şi completarea Legii nr. 88/1993 privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18893",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18893",
+     "sha256": "28c03ced6a3411c5540e17ab5ad4b644b16fcf876341dae78b50f372ee91dcd3"
     }
    ]
   },

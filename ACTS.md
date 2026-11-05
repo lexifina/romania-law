@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12442 acts, 23,957 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12444 acts, 23,959 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8340, of which 3131 amending acts)
+## Laws (legi) (8342, of which 3133 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -658,6 +658,7 @@
 | Legea nr. 124/1999 privind respingerea Ordonanţei Guvernului nr. 40/1997 pentru modificarea şi completarea Legii nr. 129/1996 privind transportul pe căile ferate române | [`lege/1999/124/`](lege/1999/124/) | amended, not consolidated | 1 | 1999-07-16 | 1999-07-16 |
 | Legea nr. 125/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/1998 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria "pierdere" la Banca Agricolă - S.A | [`lege/1999/125/`](lege/1999/125/) | amended, not consolidated | 1 | 1999-07-16 | 1999-07-16 |
 | Legea nr. 126/1999 privind aprobarea Ordonanţei Guvernului nr. 50/1997 pentru completarea Ordonanţei Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi | [`lege/1999/126/`](lege/1999/126/) | amended, not consolidated | 1 | 1999-07-16 | 1999-07-16 |
+| Legea nr. 127/1999 privind aprobarea Ordonanţei Guvernului nr. 117/1998 pentru modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei | [`lege/1999/127/`](lege/1999/127/) | amending act | 1 | 1999-07-20 | 1999-07-20 |
 | Legea nr. 128/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 31/1998 privind unificarea fondurilor componente ale bugetului asigurărilor sociale de stat, precum şi a celor pentru plata pensiilor cuvenite asiguraţilor din unităţile cu atribuţii în domeniul apărării naţionale, ordinii publice şi siguranţei naţionale | [`lege/1999/128/`](lege/1999/128/) | amended, not consolidated | 1 | 1999-07-20 | 1999-07-20 |
 | Legea nr. 129/1999 pentru modificarea Ordonanţei Guvernului nr. 26/1993 privind Tariful vamal de import al României | [`lege/1999/129/`](lege/1999/129/) | amended, not consolidated | 1 | 1999-07-20 | 1999-07-20 |
 | Legea nr. 130/1999 | [`lege/1999/130/`](lege/1999/130/) | in force | 10 | 1999-09-25 | 2007-03-20 |
@@ -672,6 +673,7 @@
 | Legea nr. 141/1999 pentru aprobarea Ordonanţei Guvernului nr. 96/1998 privind reglementarea regimului silvic şi administrarea fondului forestier naţional | [`lege/1999/141/`](lege/1999/141/) | amended, not consolidated | 1 | 1999-09-25 | 1999-09-25 |
 | Legea nr. 142/1999 | [`lege/1999/142/`](lege/1999/142/) | repealed 2010-01-01 | 8 | 1999-07-29 | 2010-01-01 |
 | Legea nr. 143/1999 | [`lege/1999/143/`](lege/1999/143/) | in force | 3 | 2000-01-01 | 2005-08-16 |
+| Legea nr. 144/1999 pentru modificarea şi completarea Legii nr. 88/1993 privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor | [`lege/1999/144/`](lege/1999/144/) | amending act | 1 | 1999-07-29 | 1999-07-29 |
 | Legea nr. 145/1999 pentru modificarea şi completarea Legii locuinţei nr. 114/1996 | [`lege/1999/145/`](lege/1999/145/) | amended, not consolidated | 1 | 1999-09-09 | 1999-09-09 |
 | Legea nr. 146/1999 privind organizarea, funcţionarea şi finanţarea spitalelor | [`lege/1999/146/`](lege/1999/146/) | amended, not consolidated | 1 | 1999-11-01 | 1999-11-01 |
 | Legea nr. 148/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 50/1998 pentru modificarea şi completarea prevederilor Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/1999/148/`](lege/1999/148/) | amended, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
@@ -12508,7 +12510,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28224 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28277 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

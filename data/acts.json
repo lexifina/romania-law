@@ -10576,6 +10576,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18776"
 },
 {
+"slug": "legea-127-1999",
+"path": "lege/1999/127",
+"kind": "lege",
+"year": "1999",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 127/1999 privind aprobarea Ordonanţei Guvernului nr. 117/1998 pentru modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei",
+"short": "Legea nr. 127/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-07-20",
+"latest": "1999-07-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18798"
+},
+{
 "slug": "legea-128-1999",
 "path": "lege/1999/128",
 "kind": "lege",
@@ -10812,6 +10829,23 @@
 "from": "2000-01-01",
 "latest": "2005-08-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54997"
+},
+{
+"slug": "legea-144-1999",
+"path": "lege/1999/144",
+"kind": "lege",
+"year": "1999",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 144/1999 pentru modificarea şi completarea Legii nr. 88/1993 privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor",
+"short": "Legea nr. 144/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-07-29",
+"latest": "1999-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18893"
 },
 {
 "slug": "legea-145-1999",
