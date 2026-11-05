@@ -8162,6 +8162,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14298"
 },
 {
+"slug": "legea-79-1998",
+"path": "lege/1998/79",
+"kind": "lege",
+"year": "1998",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 79/1998 pentru aprobarea Ordonanţei Guvernului nr. 52/1997 privind regimul juridic al francizei",
+"short": "Legea nr. 79/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-04-13",
+"latest": "1998-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14301"
+},
+{
 "slug": "legea-80-1998",
 "path": "lege/1998/80",
 "kind": "lege",
