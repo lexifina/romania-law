@@ -94172,6 +94172,21 @@
    ]
   },
   {
+   "slug": "legea-133-1998",
+   "path": "lege/1998/133",
+   "short": "Legea nr. 133/1998",
+   "title": "Legea nr. 133/1998 pentru aderarea României la Protocolul cu privire la reprimarea actelor ilicite de violenta în aeroporturile destinate aviaţiei civile internaţionale, suplimentar la Convenţia încheiată la Montreal la 23 septembrie 1971 privind reprimarea actelor ilicite îndreptate împotriva securităţii aviaţiei civile, adoptat la Montreal la 24 februarie 1988",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15100",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15100",
+     "sha256": "0fbb89cdb59a87882494b21cae91a37d47540845ced1d20c215a0f53e673c3e4"
+    }
+   ]
+  },
+  {
    "slug": "legea-133-1999",
    "path": "lege/1999/133",
    "short": "Legea nr. 133/1999",
@@ -95398,6 +95413,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11767",
      "sha256": "200d4c3af948c65ab765f35028cf5847fa61fba2c9e1b944412a26a1649c2ff9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-137-1998",
+   "path": "lege/1998/137",
+   "short": "Legea nr. 137/1998",
+   "title": "Legea nr. 137/1998 pentru aprobarea Ordonanţei Guvernului nr. 34/1998 privind majorarea salariilor personalului din unităţile sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15083",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15083",
+     "sha256": "9f5c0f30320062cb20d32808cd3ae25de3aa5d4afbe009c55ca8cbc8da640736"
     }
    ]
   },
@@ -96895,6 +96925,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11780",
      "sha256": "14febcbfabe76571c2b15d4ed2777ec55958a2b42c62d46a51947bea7ae8519a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-140-1998",
+   "path": "lege/1998/140",
+   "short": "Legea nr. 140/1998",
+   "title": "Legea nr. 140/1998 pentru ratificarea Convenţiei Organizaţiei Internaţionale a Muncii nr. 105/1957 privind abolirea muncii forţate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15153",
+   "versions": [
+    {
+     "from": "1998-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15153",
+     "sha256": "5a7c41e33caad6288ef8081c0bc45a56af5bec76caac1eb53174f93054d98c0e"
     }
    ]
   },

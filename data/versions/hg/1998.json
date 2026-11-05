@@ -564,6 +564,111 @@
    ]
   },
   {
+   "slug": "hg-328-1998",
+   "path": "hg/1998/328",
+   "short": "HG nr. 328/1998",
+   "title": "Hotărârea Guvernului nr. 328/1998 pentru abrogarea Hotărârii Guvernului nr. 812/1994 privind modificarea unor condiţii de scoatere din ţara a carburanţilor de către persoanele fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15035",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15035",
+     "sha256": "2c78a737139e0a3f6741b905be94861adcff380de616ddf06d9aaf1af9bcdaeb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-329-1998",
+   "path": "hg/1998/329",
+   "short": "HG nr. 329/1998",
+   "title": "Hotărârea Guvernului nr. 329/1998 privind înfiinţarea unor facultăţi la Universitatea Tehnica din Cluj-Napoca şi la Universitatea \"Dunărea de Jos\" din Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15051",
+   "versions": [
+    {
+     "from": "1998-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15051",
+     "sha256": "b670165c7754eefe985f4662c54b1868af5aab8d5ae64cf2a73033d3186982a7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-330-1998",
+   "path": "hg/1998/330",
+   "short": "HG nr. 330/1998",
+   "title": "Hotărârea Guvernului nr. 330/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Instalaţie de produs zăpada artificială în regiunea turistica Pasul Schiorilor Azuga-Predeal, oraşul Predeal, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15052",
+   "versions": [
+    {
+     "from": "1998-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15052",
+     "sha256": "6a3f2da82cd9b75e425ab3d5979b4bc3fcbb4ba33284a1239785aff0f38fd4ed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-331-1998",
+   "path": "hg/1998/331",
+   "short": "HG nr. 331/1998",
+   "title": "Hotărârea Guvernului nr. 331/1998 privind organizarea celui de-al V-lea Forum Economic al Regiunilor din Centrul şi Estul Europei, Bucureşti, 2-4 iulie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15053",
+   "versions": [
+    {
+     "from": "1998-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15053",
+     "sha256": "8a5ec923ec7b8c92251f485c566d77f3478fa6d08396f8b8148381b59b957a8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-333-1998",
+   "path": "hg/1998/333",
+   "short": "HG nr. 333/1998",
+   "title": "Hotărârea Guvernului nr. 333/1998 pentru aprobarea organizării Conferinţei internaţionale privind lupta împotriva traficului şi abuzului de droguri, la Bucureşti, în perioada 29-30 iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15042",
+   "versions": [
+    {
+     "from": "1998-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15042",
+     "sha256": "b8909b24db89e40c6104563ea12cd2e3bfd0d0f75aed712fd2266592b7fb9b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-334-1998",
+   "path": "hg/1998/334",
+   "short": "HG nr. 334/1998",
+   "title": "Hotărârea Guvernului nr. 334/1998 privind eliberarea din funcţia de prefect al judeţului Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15043",
+   "versions": [
+    {
+     "from": "1998-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15043",
+     "sha256": "044f2f6e4fdf042edf729e1b40af35c6c8b3f633674204746b961c1ed35b739d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-1998",
+   "path": "hg/1998/335",
+   "short": "HG nr. 335/1998",
+   "title": "Hotărârea Guvernului nr. 335/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Terminal de containere în portul Constanţa Sud - Molul II S, judeţul Constanţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15044",
+   "versions": [
+    {
+     "from": "1998-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15044",
+     "sha256": "a2bf22461f0e0d63838bb7a46c91efe6097b7a87b042c28e0a76cdbfca1956ec"
+    }
+   ]
+  },
+  {
    "slug": "hg-336-1998",
    "path": "hg/1998/336",
    "short": "HG nr. 336/1998",
@@ -575,6 +680,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15068",
      "sha256": "1e5a0fd7e2bc59ff345be566a4fccba476ab9c877cf43afcf7da2dad438db7cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-1998",
+   "path": "hg/1998/339",
+   "short": "HG nr. 339/1998",
+   "title": "Hotărârea Guvernului nr. 339/1998 pentru aprobarea acordării Ministerului Turismului a unui împrumut din disponibilităţile contului general al trezoreriei statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15069",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15069",
+     "sha256": "64ee5eb5df8bad6de353741ccdcfd105e4f314ff8554d53bfb669dee9e8aa41f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-340-1998",
+   "path": "hg/1998/340",
+   "short": "HG nr. 340/1998",
+   "title": "Hotărârea Guvernului nr. 340/1998 privind eliberarea din funcţia de subprefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15070",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15070",
+     "sha256": "69cd26f187658a7c7102857ccccceaad2646733b2885812a5b17bbf587bc7da7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-341-1998",
+   "path": "hg/1998/341",
+   "short": "HG nr. 341/1998",
+   "title": "Hotărârea Guvernului nr. 341/1998 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15071",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15071",
+     "sha256": "b953f5ed179eafcea993d863bfdeb36e0a58c01140ea7ca0278ed4473ef0052d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-1998",
+   "path": "hg/1998/342",
+   "short": "HG nr. 342/1998",
+   "title": "Hotărârea Guvernului nr. 342/1998 privind stabilirea datei pentru alegerea consiliului local în Circumscripţia electorală Coloneşti, judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15072",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15072",
+     "sha256": "b74d0080f27b7197aac0a859738787eef2d561d5d5dc54a244c96c342773f50e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-1998",
+   "path": "hg/1998/343",
+   "short": "HG nr. 343/1998",
+   "title": "Hotărârea Guvernului nr. 343/1998 privind stabilirea datei pentru alegerea consiliului local în Circumscripţia electorală Popeşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15073",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15073",
+     "sha256": "2baa635c65206e826c32eb8f69e62f4d86920b8baeb612049b1ade9e39484d97"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-1998",
+   "path": "hg/1998/344",
+   "short": "HG nr. 344/1998",
+   "title": "Hotărârea Guvernului nr. 344/1998 privind acordarea unor ajutoare umanitare populaţiei afectate de inundaţiile din luna iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15117",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15117",
+     "sha256": "4d2eb810c7a37762de7e0866363f657480d1ca99fd0f64cf355b5e36f5b6109f"
     }
    ]
   },

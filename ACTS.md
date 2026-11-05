@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12524 acts, 24,039 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12527 acts, 24,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8401, of which 3170 amending acts)
+## Laws (legi) (8404, of which 3171 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -545,8 +545,11 @@
 | Legea nr. 129/1998 | [`lege/1998/129/`](lege/1998/129/) | in force | 12 | 1998-06-30 | 2017-01-30 |
 | Legea nr. 131/1998 privind aprobarea Ordonanţei Guvernului nr. 22/1998 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Regia Autonomă de Distribuţie a Energiei Termice "Radet" Bucureşti privind finanţarea Proiectului de reabilitare şi modernizare a sistemului de termoficare din municipiul Bucureşti, semnat la Luxembourg şi Bucureşti la data de 12 şi, respectiv, 14 noiembrie 1997 | [`lege/1998/131/`](lege/1998/131/) | amended, not consolidated | 1 | 1998-07-02 | 1998-07-02 |
 | Legea nr. 132/1998 privind aprobarea Ordonanţei Guvernului nr. 21/1998 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare, în suma de 25,5 milioane dolari S.U.A., semnat la Washington la 23 ianuarie 1998 | [`lege/1998/132/`](lege/1998/132/) | amended, not consolidated | 1 | 1998-07-02 | 1998-07-02 |
+| Legea nr. 133/1998 pentru aderarea României la Protocolul cu privire la reprimarea actelor ilicite de violenta în aeroporturile destinate aviaţiei civile internaţionale, suplimentar la Convenţia încheiată la Montreal la 23 septembrie 1971 privind reprimarea actelor ilicite îndreptate împotriva securităţii aviaţiei civile, adoptat la Montreal la 24 februarie 1988 | [`lege/1998/133/`](lege/1998/133/) | in force | 1 | 1998-07-07 | 1998-07-07 |
 | Legea nr. 135/1998 privind aprobarea Ordonanței de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de această natură, suportate din fondul de salarii, care, de regulă, se acordă la finele anului | [`lege/1998/135/`](lege/1998/135/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
 | Legea nr. 136/1998 pentru aprobarea Ordonanţei Guvernului nr. 45/1997 privind înfiinţarea Societăţii Comerciale "Compania naţionala de transporturi aeriene române - TAROM" - S.A | [`lege/1998/136/`](lege/1998/136/) | amended, not consolidated | 1 | 1998-07-02 | 1998-07-02 |
+| Legea nr. 137/1998 pentru aprobarea Ordonanţei Guvernului nr. 34/1998 privind majorarea salariilor personalului din unităţile sanitare | [`lege/1998/137/`](lege/1998/137/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
+| Legea nr. 140/1998 pentru ratificarea Convenţiei Organizaţiei Internaţionale a Muncii nr. 105/1957 privind abolirea muncii forţate | [`lege/1998/140/`](lege/1998/140/) | in force | 1 | 1998-07-06 | 1998-07-06 |
 | Legea nr. 141/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 91/1997 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/1998/141/`](lege/1998/141/) | amending act | 1 | 1998-07-13 | 1998-07-13 |
 | Legea nr. 142/1998 | [`lege/1998/142/`](lege/1998/142/) | in force | 29 | 1998-07-13 | 2017-11-27 |
 | Legea nr. 143/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/1998 privind reorganizarea Consiliului pentru Reforma | [`lege/1998/143/`](lege/1998/143/) | amending act | 1 | 1998-07-13 | 1998-07-13 |
@@ -12590,7 +12593,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28927 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28940 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
