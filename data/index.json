@@ -11144,23 +11144,23 @@
   {
    "shard": "ue/2025",
    "kind": "ue",
-   "count": 350,
+   "count": 658,
    "acts": "data/acts/ue/2025.json",
    "list": "data/acts/ue/2025.md",
    "versions": "data/versions/ue/2025.json",
    "laws": "data/laws/ue/2025.csv",
-   "laws_count": 350,
+   "laws_count": 658,
    "sources": "data/sources/ue/2025.csv"
   },
   {
    "shard": "ue/2026",
    "kind": "ue",
-   "count": 274,
+   "count": 910,
    "acts": "data/acts/ue/2026.json",
    "list": "data/acts/ue/2026.md",
    "versions": "data/versions/ue/2026.json",
    "laws": "data/laws/ue/2026.csv",
-   "laws_count": 274,
+   "laws_count": 910,
    "sources": "data/sources/ue/2026.csv"
   }
  ]
