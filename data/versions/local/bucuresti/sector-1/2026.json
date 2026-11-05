@@ -3,6 +3,201 @@
  "shard": "local/bucuresti/sector-1/2026",
  "acts": [
   {
+   "slug": "hcls1-1-2026",
+   "path": "local/bucuresti/sector-1/2026/1",
+   "short": "HCLS1 nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 1/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243015/1.2026_AN.pdf",
+     "sha256": "530278131b2d7c98a9e4832c12d128e6ee63cf922fa6d548d164fa6cb064d048"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-10-2026",
+   "path": "local/bucuresti/sector-1/2026/10",
+   "short": "HCLS1 nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 10/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea Sectorului 1 al Municipiului București și Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1 cu Asociația Climato Sfera, în vederea derulării în comun a proiectului de educație ecologică privind compostarea comunitară locală a biodeșeurilor nepericuloase în sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243040/10.2026_AN%201.pdf",
+     "sha256": "76b6f408320fa3d56fd70621140d3fd16f7245f6f319f8695f924ac9c0c9809e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-100-2026",
+   "path": "local/bucuresti/sector-1/2026/100",
+   "short": "HCLS1 nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 100/2026 privind împuternicirea Primarului Sectorului 1 al Municipiului București să solicite Consiliului General al Municipiului București repartizarea de sume în aplicarea art. 7 alin.(2) din Legea nr. 43/2026 a bugetului de stat pe anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/252798/100.2026-AN.pdf",
+     "sha256": "469d0eb6b440a7e4aafc874f4f851cb40518ab6aecdf6e45cce9eb2cf8f34443"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-101-2026",
+   "path": "local/bucuresti/sector-1/2026/101",
+   "short": "HCLS1 nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 101/2026 privind aprobarea aplicării numărului maxim de posturi pentru anul 2026, la nivelul Subdiviziunii administrativ teritoriale a sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/256836/101.2026_AN.pdf",
+     "sha256": "16c1274419ccf802c4f78ac5a1426e70f18d2f333ccf7a5a627e3f2cee0de625"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-103-2026",
+   "path": "local/bucuresti/sector-1/2026/103",
+   "short": "HCLS1 nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 103/2026 privind solicitarea Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 să hotărască cu privire la asocierea Sectorului 1 al Municipiului București cu UNARTE \"Universitatea de Arte din București\"",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257032/103.2026_AN.pdf",
+     "sha256": "91082a9c391eb869c247e3457eb12b30a2b2acc5daf97115d7bf484bf4e05a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-104-2026",
+   "path": "local/bucuresti/sector-1/2026/104",
+   "short": "HCLS1 nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 104/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea dintre Sectorul 1 al Municipiului București și Federația Română de Ciclism, în vederea finanțării și realizării în comun a unor evenimente sportive de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/256846/104.2026_AN.pdf",
+     "sha256": "ab49c512776b69ed23309b4009dcd79da24dec206479fd198bd6fee0bc3d1df6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-105-2026",
+   "path": "local/bucuresti/sector-1/2026/105",
+   "short": "HCLS1 nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 105/2026 pentru aprobarea costului mediu lunar/beneficiar în cadrul centrelor de zi de recuperare copii cu dizabilităti din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257029/105.2026_AN.pdf",
+     "sha256": "8221d393c517e62b006e5c24f08985c57f6be021c8b01f50b7aa6bec007a4242"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-106-2026",
+   "path": "local/bucuresti/sector-1/2026/106",
+   "short": "HCLS1 nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 106/2026 pentru aprobarea costului mediu lunar/copil protejat în cadrul serviciilor sociale de tip rezidenţial destinate copiilor, centrelor de zi tip ”creşă” si modulelor pavilionare de recuperare și reabilitare neuropsihiatrică destinate copiilor și în sistemul de asistență maternală din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257026/106.2026_AN.pdf",
+     "sha256": "6569e1befafa85c9076c2ebe091f3ba646460e34b773c8df4c448e203ad7bcf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-107-2026",
+   "path": "local/bucuresti/sector-1/2026/107",
+   "short": "HCLS1 nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 107/2026 pentru aprobarea costului mediu lunar/beneficiar în cadrul centrelor de zi pentru persoane adulte cu dizabilități din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257028/107.2026_AN.pdf",
+     "sha256": "1ba40e7f495a5c97f9345f3840774ee772db9c7e0ba5753ac1ee77da9c6f3220"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-108-2026",
+   "path": "local/bucuresti/sector-1/2026/108",
+   "short": "HCLS1 nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 108/2026 pentru aprobarea costului mediu lunar/persoană adultă cu dizabilități protejată în cadrul Centrelor de Abilitare și Reabilitare pentru persoane adulte cu dizabilități din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257036/108.2026_AN.pdf",
+     "sha256": "4d2f0af6247e7dbdc6e8f8afd1879bc201b2a9e38d7ad4773df5568407c87c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-109-2026",
+   "path": "local/bucuresti/sector-1/2026/109",
+   "short": "HCLS1 nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 109/2026 pentru aprobarea costului mediu lunar/ persoană adultă cu dizabilități protejată în cadrul Centrelor de Îngrijire și Asistență pentru persoane adulte cu dizabilități din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257037/109.2026_AN.pdf",
+     "sha256": "071b1f746c7ba4d8fd118feb083508afa5c60dbb4b45acadcd060acf17f2d10b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-11-2026",
+   "path": "local/bucuresti/sector-1/2026/11",
+   "short": "HCLS1 nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 11/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/244358/11.2026%20cu%20obs%20AN.pdf",
+     "sha256": "75b393220022d595d2c47965e2194e00b8795955ca424f3ffb4ba7a67d71e9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-110-2026",
+   "path": "local/bucuresti/sector-1/2026/110",
+   "short": "HCLS1 nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 110/2026 pentru aprobarea costului mediu lunar /beneficiar în cadrul Centrului de Urgență pentru Persoane fără Adăpost Odăi -Centrul serviciu social din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257038/110.2026_AN.pdf",
+     "sha256": "9137be3c68d900ac5504af379225f26f047197745bfeda632777346276595923"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-111-2026",
    "path": "local/bucuresti/sector-1/2026/111",
    "short": "HCLS1 nr. 111/2026",
@@ -14,6 +209,696 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257039/111.2026_AN.pdf",
      "sha256": "634cfce9408d4c62d0fa82b7dfa8fa5927288377ad555e03265b2cbd54878097"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-112-2026",
+   "path": "local/bucuresti/sector-1/2026/112",
+   "short": "HCLS1 nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 112/2026 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Asociația Congregația Inimii Neprihănite, în scopul implementării proiectului ”Casa Familie Sfânta Maria”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257041/112.2026_AN.pdf",
+     "sha256": "0f348e2fcb8032db8b06d8de33f37ee5f3dfee1baba036d61b57b8e05211fba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-113-2026",
+   "path": "local/bucuresti/sector-1/2026/113",
+   "short": "HCLS1 nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 113/2026 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Fundația Viață și Lumină, în vederea derulării proiectului ,,Centrul de Plasament Viață și Lumină”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257043/113.2026_AN.pdf",
+     "sha256": "5347c45375bde1301d351e7af0b8bc6d0394bb476ad611d72686a3f108f3b24b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-114-2026",
+   "path": "local/bucuresti/sector-1/2026/114",
+   "short": "HCLS1 nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 114/2026 privind aprobarea alocării de sume către Școala Gimnazială Specială nr. 7 reprezentând finanțarea necesară pentru implementarea proiectului ”Îmbunătățirea Accesului la Educație pentru Copiii cu CES la Școala Gimnazială Specială nr. 7 prin Resurse Suport și Activități Adaptate”, cod SMIS 338705, din cadrul Programului Educație și Ocupare 2021-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257044/114.2026_AN.pdf",
+     "sha256": "f1263d2a3ff4d01e10badd1da5098263edd666f46c0924ea87b6e7cbc8271772"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-115-2026",
+   "path": "local/bucuresti/sector-1/2026/115",
+   "short": "HCLS1 nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 115/2026 privind aprobarea Protocolului de colaborare între structurile sportive organizate conform legii și unitățile de învățământ preuniversitar de stat din Sectorul 1, pentru asigurarea accesului gratuit și prioritar al structurilor sportive în sălile de sport ale unităților de învățământ, în vederea desfășurării de activități sportive gratuite pentru elevi",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257045/115.2026_AN.pdf",
+     "sha256": "dfe8467589f3d721704e2d880c20a42385b7bb1601e2efa725fb820dfc8f80d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-116-2026",
+   "path": "local/bucuresti/sector-1/2026/116",
+   "short": "HCLS1 nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 116/2026 privind modificarea anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 2/2025 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al municipiului București pentru anul 2025-2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257031/116.2026_AN.pdf",
+     "sha256": "d243449b642db0bacc9a89329efde5668a2907ac7925021301479bf33f1b247b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-117-2026",
+   "path": "local/bucuresti/sector-1/2026/117",
+   "short": "HCLS1 nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 117/2026 privind aprobarea Planului Urbanistic de Detaliu (P.U.D.) Plan Urbanistic de Detaliu – Construire ansamblu multifuncțional locuințe colective, servicii și comerț - Corp B1 - 3S+P+M+8E+9Er, Corp L1C - 3S+P+M+8E - 3S+P+M+9E - 3S+P+M+9E+10Er, Corp L1D - 3S+P+M+7E - 3S+P+M+8E, Intr. Străulești nr. 37B - Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257676/117.2026-AN.pdf",
+     "sha256": "af3d6a2cbf208a97c9d039eff480c69d931a93243ca4cb730f06ba4f024334e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-118-2026",
+   "path": "local/bucuresti/sector-1/2026/118",
+   "short": "HCLS1 nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 118/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257679/118.2026-AN.pdf",
+     "sha256": "5d8873ea82d3f8a8620b09a2af17fb1f82248132b29f211466fe94a7da859ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-119-2026",
+   "path": "local/bucuresti/sector-1/2026/119",
+   "short": "HCLS1 nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 119/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257681/119.2026-AN.pdf",
+     "sha256": "9ea2061ff0aec97ab89d457942207d7e339b6c12f527db47efc0d931d1738400"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-12-2026",
+   "path": "local/bucuresti/sector-1/2026/12",
+   "short": "HCLS1 nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 12/2026 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 al Municipiului București de a hotărî cu privire la încheierea unui acord cadru de cooperare între Sectorul 1 al Municipiului București, Direcția Generală de Asistență și Protecția Copilului Sectorul 1 și Asociația ,,Pentru cei mari și cei mici'', în vederea analizei, fundamentării și implementării proiectului “Dependent de Viață – Centrul de asistență gratuită pentru tinerii consumatori de droguri”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243023/12.2026_AN.pdf",
+     "sha256": "a92fb1a7c6253fc6ef8f904f8b0d981e5428ad39c8de2b3d2d64735565010317"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-120-2026",
+   "path": "local/bucuresti/sector-1/2026/120",
+   "short": "HCLS1 nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 120/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-121-2026",
+   "path": "local/bucuresti/sector-1/2026/121",
+   "short": "HCLS1 nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 121/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257684/120.2026-AN.pdf",
+     "sha256": "975bc09609b427c3f3768d70cc112c0c3dbf3dc2cd70553586d461436dc5eb63"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-122-2026",
+   "path": "local/bucuresti/sector-1/2026/122",
+   "short": "HCLS1 nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 122/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257686/122.2026-AN.pdf",
+     "sha256": "a30edbda785e92a4930cdb79f84e6413803bf4bdf6c9e76e60740594a52ebbaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-123-2026",
+   "path": "local/bucuresti/sector-1/2026/123",
+   "short": "HCLS1 nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 123/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257687/123.2026-AN.pdf",
+     "sha256": "95d3bc78de848f1b306b51a88079df57f7e85107eb1d12148fe94a0a2f36dcbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-124-2026",
+   "path": "local/bucuresti/sector-1/2026/124",
+   "short": "HCLS1 nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 124/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257688/124.2026-AN.pdf",
+     "sha256": "cc520d246ef3dafb51b7e70213ef74f5a78cc1f42814f9b8ef56427f1fa2ad5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-125-2026",
+   "path": "local/bucuresti/sector-1/2026/125",
+   "short": "HCLS1 nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 125/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257689/125.2026-AN.pdf",
+     "sha256": "6e0f154ab664ee00a77387040fa41162d0d0f3beef494fbac0685e0e885ac06e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-126-2026",
+   "path": "local/bucuresti/sector-1/2026/126",
+   "short": "HCLS1 nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 126/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257675/126.2026-AN.pdf",
+     "sha256": "1c48de368de52fb84fb8e22c7e7925767679868921bcfe94ad82ea56dfa5aa00"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-127-2026",
+   "path": "local/bucuresti/sector-1/2026/127",
+   "short": "HCLS1 nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 127/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257670/127.2026-AN.pdf",
+     "sha256": "ce6afc9684da8cfbf9577b3c0c6157709727fb7c76476ae93395a7cb8a908b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-128-2026",
+   "path": "local/bucuresti/sector-1/2026/128",
+   "short": "HCLS1 nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 128/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257673/128.2026-AN.pdf",
+     "sha256": "9fc00acb744eff00323be77d800d3012271ffcea5282909ebaa3f5a74fa4617b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-129-2026",
+   "path": "local/bucuresti/sector-1/2026/129",
+   "short": "HCLS1 nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 129/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257665/129.2026-AN.pdf",
+     "sha256": "dcf37516af3ead37a354492ff605b1c063cfa70f1d5734d24ea50aa89b34396f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-13-2026",
+   "path": "local/bucuresti/sector-1/2026/13",
+   "short": "HCLS1 nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 13/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243039/13.2026_AN%201.pdf",
+     "sha256": "f22ceecb5c5dbf03c27f021ea3d25df21fa05111495c2cabaf42fdc9727d0a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-130-2026",
+   "path": "local/bucuresti/sector-1/2026/130",
+   "short": "HCLS1 nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 130/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257664/130.2026-AN%20%281%29.pdf",
+     "sha256": "2f8b7688330b2bd042d16c4927c661921087b99327c8166f9276d13fa630743a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-131-2026",
+   "path": "local/bucuresti/sector-1/2026/131",
+   "short": "HCLS1 nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 131/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257662/131.2026-AN.pdf",
+     "sha256": "8d887ebf5af430fa9afeb72aff852a4502888ef2e7f082f652a9767e71861daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-132-2026",
+   "path": "local/bucuresti/sector-1/2026/132",
+   "short": "HCLS1 nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 132/2026 privind aprobarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/256847/132.2026_AN.pdf",
+     "sha256": "36d9657f13eca88051fa882168fdb41f8f29d5c8b4324e7c1ebd49a17790f3c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-133-2026",
+   "path": "local/bucuresti/sector-1/2026/133",
+   "short": "HCLS1 nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 133/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257263/133.2026_AN.pdf",
+     "sha256": "1c1f0a66b297ed4f9d6fa1543f77827a89dc0500ae9f670298381faf421b085d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-134-2026",
+   "path": "local/bucuresti/sector-1/2026/134",
+   "short": "HCLS1 nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 134/2026 privind aprobarea depunerii spre finanțare de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 a proiectului cu titlul \"Restaurarea, conservarea și transformarea Ansamblului \"Sfânta Ecaterina\" în traseu muzeal și punct de atracție socio-culturală\"",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/256849/134.2026_AN.pdf",
+     "sha256": "53bcedcb4de5b09139e237b541c2f082cc4aaa532aa4387634b6ff67d9613287"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-135-2026",
+   "path": "local/bucuresti/sector-1/2026/135",
+   "short": "HCLS1 nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 135/2026 pentru modificarea și completarea Anexei nr. 1 și Anexei nr. 2 ale Hotărârii nr. 84/30.04.2025 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 1 în consiliile de administrație din unitățile de învăţământ preuniversitar de stat din Sectorul 1 pe perioada mandatului Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258193/135.2026_AN.pdf",
+     "sha256": "c61d5f62e8b3fc27ff695d274830724bf7e3b46b4569b5bb452c58dd430d148e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-136-2026",
+   "path": "local/bucuresti/sector-1/2026/136",
+   "short": "HCLS1 nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 136/2026 pentru modificarea Anexei nr. 1 și Anexei nr. 2 ale Hotărârii nr. 86/30.04.2025 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 1 în comisiile pentru evaluarea și asigurarea calității, CEAC, din unitățile de învăţământ preuniversitar de stat din Sectorul 1 pe perioada mandatului Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258245/136.2026_AN.pdf",
+     "sha256": "a3df9ccbfa7240fc83a5308a90136ca832627154fcc8873b6ff9dc21927c4c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-137-2026",
+   "path": "local/bucuresti/sector-1/2026/137",
+   "short": "HCLS1 nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 137/2026 pentru modificarea și completarea Anexei Hotărârii nr. 85/30.04.2025 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 1 în consiliul de administrație din unitățile de învăţământ preuniversitar particular din Sectorul 1 pe perioada mandatului Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258246/137.2026_AN.pdf",
+     "sha256": "f41cc1b3ed6805008aaf3e48003748becb78e79abffb81771a2c0a5cfdf7c6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-138-2026",
+   "path": "local/bucuresti/sector-1/2026/138",
+   "short": "HCLS1 nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 138/2026 pentru modificarea și completarea Anexei Hotărârii nr. 87/30.04.2025 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 în comisiile pentru evaluarea și asigurarea calității, CEAC, din unitățile de învăţământ preuniversitar particular din Sectorul 1 pe perioada mandatului Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258247/138.2026_AN.pdf",
+     "sha256": "40e0b662fabef75529ed350aeb851d6530c193d6bfd28e25a082f2f2693859c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-139-2026",
+   "path": "local/bucuresti/sector-1/2026/139",
+   "short": "HCLS1 nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 139/2026 privind înființarea societății cu răspundere limitată URBANZOR S.R.L",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/256862/139.2026_AN.pdf",
+     "sha256": "e9a02c1450e7d31c06f297e1c9fef72ad6d27eae548354597797ec2cea989003"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-14-2026",
+   "path": "local/bucuresti/sector-1/2026/14",
+   "short": "HCLS1 nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 14/2026 privind aprobarea Planului Urbanistic de Detaliu (P.U.D.) Strada Modestiei, nr. 55, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243049/14.2026_AN%201.pdf",
+     "sha256": "ac0a8745db9b7f19faecf2d0602f4129fc690c855c7c6fda92cfd6db994f68f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-140-2026",
+   "path": "local/bucuresti/sector-1/2026/140",
+   "short": "HCLS1 nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 140/2026 privind aprobarea modalității de stingere a titlurilor executorii având ca izvor Contractul de delegare a gestiunii prestării serviciilor de salubrizare nr. J077/S/30.06.2008 precum și privind stabilirea măsurilor alternative în cazul neacceptării acestuia",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257262/140.2026_AN.pdf",
+     "sha256": "7625bd21d41e8ac5f3ee6514b271313d3fa1b17a2b5990fc3a00ffc187d5fca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-141-2026",
+   "path": "local/bucuresti/sector-1/2026/141",
+   "short": "HCLS1 nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 141/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258112/141.2026_AN.pdf",
+     "sha256": "7343477d9a891665ece68f104585986a27b3bddc1718f1a325ca80a590b54a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-142-2026",
+   "path": "local/bucuresti/sector-1/2026/142",
+   "short": "HCLS1 nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 142/2026 privind aprobarea încheierii Acordului de parteneriat între Sectorul 1 al Municipiului București și Administrația Străzilor București, în vederea realizării pistelor de biciclete pe Calea Griviței, tronson cuprins între strada Buzești și bulevardul Ion Mihalache , în cadrul obiectivului de investiții ,,Amenajare Calea Griviței, (tronson cuprins între strada Buzești și bulevardul Ion Mihalache), Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258527/142.2026_AN.pdf",
+     "sha256": "a9a5b2f762d304efb047bc80f768ac8b228bed56548602a4fc903921b9a30d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-143-2026",
+   "path": "local/bucuresti/sector-1/2026/143",
+   "short": "HCLS1 nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 143/2026 privind aprobarea încheierii Acordului de parteneriat dintre Sectorul 1 al Municipiului București și Administrația Străzilor București, în vederea realizării pistelor de biciclete pe Bulevardul Ion Mihalache, tronsonul dintre Calea Griviței și Piața Victoriei, în cadrul obiectivului de investiții ,,Amenajarea bulevardului Ion Mihalache, Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258528/143.2026_AN.pdf",
+     "sha256": "15b3686c645ac797ba0fd762bbcda02d573ecc953c454e6216db932d3651c7e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-144-2026",
+   "path": "local/bucuresti/sector-1/2026/144",
+   "short": "HCLS1 nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258529/144.2026_AN.pdf",
+     "sha256": "169e7d3c94c574e15e611c76becd53b4902b05206f48a7eca5a46f9808eb3343"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-145-2026",
+   "path": "local/bucuresti/sector-1/2026/145",
+   "short": "HCLS1 nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 145/2026 privind aprobarea calendarului de evenimente cultural-artistice, sportive și de agrement organizate de Sectorul 1 al Municipiului București în anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/258530/145.2026_AN.pdf",
+     "sha256": "255ad463adcedf67a9fc7f602b5f86c743ea43fbde48d3c96ca8134de49357d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-146-2026",
+   "path": "local/bucuresti/sector-1/2026/146",
+   "short": "HCLS1 nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 146/2026 privind aprobarea Studiului de oportunitate și a soluției de delegare a gestiunii prin concesiune a activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat, precum și a activităților conexe, aferente serviciului de salubrizare al Sectorului 1 al Municipiului București, a inițierii și derulării procedurii de licitație deschisă, pentru atribuirea contractului de delegare a gestiunii prin concesiune, în temeiul art. 50 alin. (1) lit. a) din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, cu modificările și completările ulterioare, precum și aprobarea documentației de atribuire aferentă",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/260691/146.2026-Anexe_ANc.pdf",
+     "sha256": "5bde4155cac995dfa32b588398fcff28061063ecf882705dfdcbc84d0f320d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-147-2026",
+   "path": "local/bucuresti/sector-1/2026/147",
+   "short": "HCLS1 nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 147/2026 privind aprobarea inițierii și derulării procedurii de negociere fără publicarea prealabilă a unui anunț de participare, pentru atribuirea contractului având ca obiect activitățile de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat, a activităților conexe, precum și a activităților de salubrizare stradală și deszăpezire pe raza Sectorului 1 al Municipiului București, ca procedură de urgență, în temeiul art. 104 alin. (1) lit. c) din Legea nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare, precum și aprobarea documentației de atribuire aferente",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/260692/147.2026-Anexe_ANc.pdf",
+     "sha256": "00ad58a5f7032aa473bf0ff0b7a4f76d5c0fb666a207f8ba7cfce8b6bbf6154f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-148-2026",
+   "path": "local/bucuresti/sector-1/2026/148",
+   "short": "HCLS1 nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 148/2026 privind modificarea și înlocuirea Anexei nr.2 a Hotărârii nr. 96/31.03.2026 privind modificarea și completarea Anexelor nr. 1 și 2 ale Hotărârii nr. 393/11.12.2025 privind modificarea și înlocuirea Anexei nr.2 a Hotărârii nr. 96/31.03.2026 privind modificarea și completarea Anexelor nr. 1 și 2 ale Hotărârii nr. 393/11.12.2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Creșterea siguranței rutiere în cartierul Piața Romană din Sectorul 1 al Municipiului București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263234/148.2026_AN.pdf",
+     "sha256": "feccfcaa6f32f4b3afc9dd7aaabd092933ded2df75b5c50c11b36e13e21ac935"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-149-2026",
+   "path": "local/bucuresti/sector-1/2026/149",
+   "short": "HCLS1 nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 149/2026 privind modificarea și înlocuirea Anexei nr.2 a Hotărârii nr. 97/31.03.2026 modificarea și completarea Anexelor nr. 1 și 2 ale Hotărârii nr. 392/11.12.2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Creșterea siguranței rutiere în cartierul Grivița din Sectorul 1 al Municipiului București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263233/149.2026_AN.pdf",
+     "sha256": "bf001c3b5426e8177aab15d2f64207b1f51d4f19d783d266af6c01d89479e289"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-15-2026",
+   "path": "local/bucuresti/sector-1/2026/15",
+   "short": "HCLS1 nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 15/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243054/15.2026_AN%201.pdf",
+     "sha256": "68de29deddb28e25fb0223e24625495551376f18c90d6ba7c2ad8e7f58d8912c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-150-2026",
+   "path": "local/bucuresti/sector-1/2026/150",
+   "short": "HCLS1 nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 150/2026 privind modificarea și înlocuirea Anexei nr.2 a Hotărârii nr. 98/31.03.2026 privind modificarea și completarea Anexelor nr. 1 și 2 ale Hotărârii nr. 391/11.12.2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Creșterea siguranței rutiere în cartierul Bucureștii Noi din Sectorul 1 al Municipiului București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263230/150.2026_AN.pdf",
+     "sha256": "1ffe5ac96fe825ac7cfe6e083c1bdc704e1dd7f1a07b8d184680839ff18d3b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-151-2026",
+   "path": "local/bucuresti/sector-1/2026/151",
+   "short": "HCLS1 nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 151/2026 privind modificarea și înlocuirea Anexei nr.2 a Hotărârii nr. 99/31.03.2026 privind modificarea și completarea Anexelor nr.1 și 2 ale Hotărârii nr. 390/11.12.2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Creșterea siguranței rutiere în cartierul Băneasa din Sectorul 1 al Municipiului București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263232/151.2026_AN.pdf",
+     "sha256": "24c2b23b9fecf2a6636d8746edd440763a4a3323c7315d86ff0cf047c3a10062"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-152-2026",
+   "path": "local/bucuresti/sector-1/2026/152",
+   "short": "HCLS1 nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 152/2026 privind implementarea Programului Huburi Educaționale Digitale în Școli la nivelul unităților de învățământ de stat de pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263248/152.2026-AN.pdf",
+     "sha256": "6a684eb7119666a42766e93e003927c06b947d7dde7faa3ec43a4c5b53b08d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-153-2026",
+   "path": "local/bucuresti/sector-1/2026/153",
+   "short": "HCLS1 nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 153/2026 privind aprobarea Proiectului educațional „Școala de Vară” organizata în perioada iulie — august, începând cu data de 1 iulie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263231/153.2026_AN.pdf",
+     "sha256": "ce81222a7645c85239b0795168a2bd6ca7bf3ee7962103fd34ade061dfe49d16"
     }
    ]
   },
@@ -33,6 +918,36 @@
    ]
   },
   {
+   "slug": "hcls1-155-2026",
+   "path": "local/bucuresti/sector-1/2026/155",
+   "short": "HCLS1 nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 155/2026 privind aprobarea Ghidului solicitantului de finanțare nerambursabil pentru proiectele culturale, în conformitate cu prevederile Ordonanței Guvernului nr. 51/1998 privind îmbunătățirea sistemului de finanțare nerambursabilă a proiectelor culturale",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263225/155.2026_AN.pdf",
+     "sha256": "aefcf4d60ce6e04768c4aeaaec327e0ff65629e19a5c5e858c6c21a2eba7b84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-156-2026",
+   "path": "local/bucuresti/sector-1/2026/156",
+   "short": "HCLS1 nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 156/2026 privind aprobarea Proiectului educațional „Grădinița de Vacanță” organizat în perioada iulie — august, începând cu data de 1 iulie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263228/156.2026_AN.pdf",
+     "sha256": "defb3e369f53a8142663054250a5dd5d68e96959b31da868cc32f552f6945e18"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-157-2026",
    "path": "local/bucuresti/sector-1/2026/157",
    "short": "HCLS1 nr. 157/2026",
@@ -44,6 +959,126 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263227/157.2026_AN%201.pdf",
      "sha256": "5b04c62c78a6ed47c8ace70dfa158ccdf9ba761efc7075ed80e644d32b493dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-158-2026",
+   "path": "local/bucuresti/sector-1/2026/158",
+   "short": "HCLS1 nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 158/2026 privind aprobarea depunerii spre finanțare de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 a proiectului cu titlul “Sprijin mobil pentru adulți cu dizabilități – Sectorul 1” Cod SMIS 364935 în cadrul apelului de tip competitiv „Dezvoltarea serviciilor de sprijin în comunitate, prin echipe de servicii mobile”, finanțat din Prioritatea P07. Sprijin pentru persoanele cu dizabilități, Programul Incluziune și Demnitate Socială 2021-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263226/158.2026_AN.pdf",
+     "sha256": "bd8098d1436f375b3bc781551ae0b57c8084b71c9b9101a9acd0ca20474c3cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-159-2026",
+   "path": "local/bucuresti/sector-1/2026/159",
+   "short": "HCLS1 nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 159/2026 privind implementarea Cartei Albe a Rezilienței Climatice a Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263244/159.2026_AN.pdf",
+     "sha256": "6fe2c2ce727306c0073950b780b5c5501ea1f802c6ba71941b20b0ae73f67681"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-16-2026",
+   "path": "local/bucuresti/sector-1/2026/16",
+   "short": "HCLS1 nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 16/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243037/16.2026_AN%201.pdf",
+     "sha256": "9632e116aa22e0e8252f4bbe8d40fc20fd446593a3311540a2c3bacadccee188"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-160-2026",
+   "path": "local/bucuresti/sector-1/2026/160",
+   "short": "HCLS1 nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 160/2026 privind modificarea anexei nr. 3 a Hotărârii Consiliului Local al Sectorului 1 nr. 2/2025 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al municipiului București pentru anul 2026-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263245/160.2026_AN.pdf",
+     "sha256": "51e85914fd9381111437b3faba7ae97c1913b2e8370defeb3a6a2f765511a4bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-161-2026",
+   "path": "local/bucuresti/sector-1/2026/161",
+   "short": "HCLS1 nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 161/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea dintre Sectorului 1 al Municipiului București și Agenția Națională pentru Sport, în vederea realizării în comun a unor proiecte, programe și acțiuni pentru dezvoltarea și modernizarea infrastructurii sportive",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263242/161.2026_AN.pdf",
+     "sha256": "48294bf230e58736b2d936bbf76612fc1fcb5dacfc0408cf2cfb989fe2dc9c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-162-2026",
+   "path": "local/bucuresti/sector-1/2026/162",
+   "short": "HCLS1 nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 162/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea dintre Sectorul 1 al Municipiului București și Comitetul Olimpic și Sportiv Român pentru dezvoltarea și implementarea unor proiecte, programe și acțiuni în domeniul sportului și activităților fizice, inclusiv pentru organizarea evenimentului „Crosul Național Ziua Olimpică” ediția 2026, dedicată Anului „Nadia Comăneci”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/261316/162.2026_AN.pdf",
+     "sha256": "03561e009f37d55dc190f446b53e07f7ec3fda1b81fc8056b971324cbe57f341"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-163-2026",
+   "path": "local/bucuresti/sector-1/2026/163",
+   "short": "HCLS1 nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 163/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al Tinerilor Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263241/163.2026_AN.pdf",
+     "sha256": "bcda35bfb843b30a200e707dfc9c1dc62c1bac66765185a09ccdd177363c4ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-164-2026",
+   "path": "local/bucuresti/sector-1/2026/164",
+   "short": "HCLS1 nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 164/2026 privind încheierea actului adițional la Acordul de Parteneriat nr.28 din 11.11.2025 dintre Sectorul 1 și Asociația Culturală Calea Griviței 53",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263240/164.2026_AN.pdf",
+     "sha256": "bc05aca6f143ad1f50767de7d12b711ea84c43ce230007ee2d4cd6188ae96a5b"
     }
    ]
   },
@@ -63,6 +1098,96 @@
    ]
   },
   {
+   "slug": "hcls1-166-2026",
+   "path": "local/bucuresti/sector-1/2026/166",
+   "short": "HCLS1 nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 166/2026 privind aprobarea încheierii, derulării și încetării contractelor de închiriere a locuințelor sociale de la nivelul Sectorului 1 al Municipiului București precum și a desfășurării activităților specifice de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 1, până la data de 31.12.2026 și de aprobare a modelului de contract-cadru pentru închirierea locuințelor sociale de la nivelul Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263238/166.2026_AN.pdf",
+     "sha256": "82e55f54ff0742012b41d1f2ad356b5a09c15fda9e7026e264898a5c081e8aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-167-2026",
+   "path": "local/bucuresti/sector-1/2026/167",
+   "short": "HCLS1 nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 167/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263237/167.2026%20%2B%20NREM%20C-OM%206_02.06.2026_AN.pdf",
+     "sha256": "01676c6985e4809f61e57f1eb4e9de9e393ad336f91ce7167c551dcf8a35bc39"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-168-2026",
+   "path": "local/bucuresti/sector-1/2026/168",
+   "short": "HCLS1 nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 168/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „Reabilitare clădire Parc Băneasa, Aleea Privighetorilor, Nr. 31, Nr. Cad. 275972, Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263235/168.2026_AN.pdf",
+     "sha256": "b7005847124b4a44f4962b7937cb959f8a41a72da78c32f16d9317028bde1cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-169-2026",
+   "path": "local/bucuresti/sector-1/2026/169",
+   "short": "HCLS1 nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 169/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „Refacerea, modernizarea și extinderea centrului de adoptii și reabilitare a animalelor”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263236/169.2026_AN.pdf",
+     "sha256": "4d33675c6f9690468a2f2a350f3c9d193f335a1747c890c1aaf8689d06d6ec45"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-17-2026",
+   "path": "local/bucuresti/sector-1/2026/17",
+   "short": "HCLS1 nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 17/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243044/17.2026_AN%201.pdf",
+     "sha256": "f0282c29c87be753da519e77bfa4cb21e7a38b18bc661a95412c3013c06c8823"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-170-2026",
+   "path": "local/bucuresti/sector-1/2026/170",
+   "short": "HCLS1 nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 170/2026 privind aprobarea constituirii Echipei Intersectoriale Locale de la nivelul Sectorului 1 al Municipiului București și a Regulamentului de Organizare și Funcționare al acesteia",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263246/170.2026_AN.pdf",
+     "sha256": "81b4283c26b5e504653b3957c71c377d4f0c6a022c475d270d4d7c26edb59826"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-171-2026",
    "path": "local/bucuresti/sector-1/2026/171",
    "short": "HCLS1 nr. 171/2026",
@@ -74,6 +1199,771 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263224/171.2026_AN.pdf",
      "sha256": "7438492f6347a12923751df65320efdbcc2d6ec75f6bf19046b77dd9772212c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-172-2026",
+   "path": "local/bucuresti/sector-1/2026/172",
+   "short": "HCLS1 nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 172/2026 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1 la data de 31.03.2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263223/172.2026_AN.pdf",
+     "sha256": "1870fa336339f34472efe51ee9e1e800227b9662a7561cb11ffd5936d41e2ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-173-2026",
+   "path": "local/bucuresti/sector-1/2026/173",
+   "short": "HCLS1 nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 173/2026 pentru modificarea Hotărârii Consiliului Local Sector 1 nr. 423/18.12.2017 privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263222/173.2026_AN.pdf",
+     "sha256": "0437fcd16e1ef4efd68434ffa2ab25695b6c4a54c963169f0ea331d1097d8b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-174-2026",
+   "path": "local/bucuresti/sector-1/2026/174",
+   "short": "HCLS1 nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 174/2026 privind aprobarea efectuării serviciilor de medicina muncii în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 1- Direcția Complex Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263221/174.2026_AN.pdf",
+     "sha256": "2864de2362c688d4ea374d8e3e09e2a6c3305a0a492c60e9c68f850adf714005"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-175-2026",
+   "path": "local/bucuresti/sector-1/2026/175",
+   "short": "HCLS1 nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 175/2026 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 184/31.07.2025 privind aprobarea depunerii spre finanțare a proiectului „Sprijinirea copiilor și tinerilor din Sectorul 1 în procesul de dezinstituționalizare”, Cod MySMIS 350727",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263220/175.2026_AN.pdf",
+     "sha256": "0db07ee4d4dad9b693efdc158339955aeaac226ad2fc28d238d0f67656ecfdaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-176-2026",
+   "path": "local/bucuresti/sector-1/2026/176",
+   "short": "HCLS1 nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 176/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici la faza Proiect Tehnic de Execuție (PTH), aprobați prin Anexele nr. 1 și nr. 2 la Hotărârea Consiliului Local al Sectorului 1 nr. 73/19.03.2026, precum și aprobarea descrierii investiției aferente obiectivului de investiții „Modernizarea și reabilitarea imobilului: Teatru Excelsior, reconfigurarea spațiilor interioare pentru activități culturale și Muzeu de Artă și Știință și amenajări exterioare”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/261315/176.2026_AN.pdf",
+     "sha256": "cbb311db4466be6c72f623108b8095d4000526367bc58dc5bbc4589696ebc78c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-177-2026",
+   "path": "local/bucuresti/sector-1/2026/177",
+   "short": "HCLS1 nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 177/2026 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții „Modernizarea și reabilitarea imobilului: Teatru Excelsior, reconfigurarea spațiilor interioare pentru activități culturale și Muzeu de Artă și Știință și amenajări exterioare”, cod SMIS 365611, în vederea finanțării acestuia în cadrul Programului Regional 2021–2027, Obiectiv specific „Promovarea dezvoltării integrate și incluzive în domeniul social, economic și al mediului, precum și a culturii, a patrimoniului natural, a turismului durabil și a securității în zonele urbane (FEDR)”, apelul de proiecte nr. PR BI P7/7.2/1/2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/261314/177.2026_AN.pdf",
+     "sha256": "49a005d70058fd6c58fc1160cc4958ced44e33515b237da465e0fd6d910c1783"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-178-2026",
+   "path": "local/bucuresti/sector-1/2026/178",
+   "short": "HCLS1 nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 178/2026 pentru aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale aparatului de specialitate al Primarului Sectorului 1 al Municipiului București și al instituției subordonate Consiliului Local al Sectorului 1 - Direcția Publică de Evidență a Persoanelor și Stare Civilă Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263415/178.2026%20-%20NREM%20COM%2013_11.08.2026_AN.pdf",
+     "sha256": "3f15db5445648f7bc92832898e67f0c635f2d7ab0c586f0e42e5c50ee2b507f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-179-2026",
+   "path": "local/bucuresti/sector-1/2026/179",
+   "short": "HCLS1 nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 179/2026 privind aprobarea planurilor de dezinstituționalizare pentru serviciile sociale rezidențiale destinate persoanelor adulte cu dizabilități, aflate în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263413/179.2026_AN.pdf",
+     "sha256": "5d636a30a3c90a2c343db9dc5108fa03942d8d18e78e189bb3f341390059964b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-18-2026",
+   "path": "local/bucuresti/sector-1/2026/18",
+   "short": "HCLS1 nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 18/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243051/18.2026_AN%201.pdf",
+     "sha256": "b9739a38854622bf9544df40c3ead97a00513c9c5ab1ba5661a362d949091429"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-180-2026",
+   "path": "local/bucuresti/sector-1/2026/180",
+   "short": "HCLS1 nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 180/2026 privind aprobarea reorganizării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, a Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263417/180.2026_AN_c.pdf",
+     "sha256": "e4ab907396ec7caef93f074a8e175f988eb142d32263097a67ca950106b9d537"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-181-2026",
+   "path": "local/bucuresti/sector-1/2026/181",
+   "short": "HCLS1 nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 181/2026 privind aprobarea modificării și actualizării Organigramei, Statului de funcţii și a Regulamentului de organizare și funcționare ale Direcției de Utilități Publice, Salubrizare și Protecția Mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263371/181.2026-AN.pdf",
+     "sha256": "789ca30bba5ae4a6a4c7e2e4dfe561db482019f6bf0900610d1e1dff208c57c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-182-2026",
+   "path": "local/bucuresti/sector-1/2026/182",
+   "short": "HCLS1 nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 182/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263866/182.2026_AN.pdf",
+     "sha256": "eebe4be8bfe4ce97a57ffa4dfc09584c9b6de0b66f12596e40483886f9bad7c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-183-2026",
+   "path": "local/bucuresti/sector-1/2026/183",
+   "short": "HCLS1 nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 183/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263369/183.2026_AN.pdf",
+     "sha256": "3134196932fc1a6f0e0ab5a599de2cf5430e108126c533c6abaea65c2e817865"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-184-2026",
+   "path": "local/bucuresti/sector-1/2026/184",
+   "short": "HCLS1 nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 184/2026 privind aprobarea Programului anual al finanțărilor nerambursabile alocate de la bugetul local al Sectorului 1 al Municipiului București pentru activități nonprofit în condițiile prevederilor Legii nr. 350/2005, cu modificările și completările ulterioare și a Programului de finanțare a proiectelor culturale în conformitate cu prevederile Ordonanței Guvernului nr.51/1998, cu modificările și completările ulterioare, în anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263370/184.2026%20-%20NREM%20COM%208_15.06.2026_AN.pdf",
+     "sha256": "b64fafc9cf6afcde5d3c728fc4a36777819ebb096cf90c10f8ffc2c9a75faa55"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-185-2026",
+   "path": "local/bucuresti/sector-1/2026/185",
+   "short": "HCLS1 nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 185/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267218/185.2026_AN_c.pdf",
+     "sha256": "e84d497a2727b097d535b2fe79240a07a1410b017d52dde601d591e485ec4edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-186-2026",
+   "path": "local/bucuresti/sector-1/2026/186",
+   "short": "HCLS1 nr. 186/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 186/2026 privind aprobarea Programului anual 2026, a bugetului și a Calendarului de acțiuni pentru implementarea Strategiei Locale de Asistență și Prevenire a Aducțiilor în Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263867/186.2026_AN.pdf",
+     "sha256": "18cb26bdb256849b1ba62364717e938b74c814d22fb66e49d1ba8293275166cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-187-2026",
+   "path": "local/bucuresti/sector-1/2026/187",
+   "short": "HCLS1 nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 187/2026 privind informarea încetării, prin ajungere la termen, la data de 30.06.2026 a contractului de delegare a gestiunii prestării serviciilor de salubritate pe raza administrativă a Sectorului 1 București nr. J077/S/30.06.2008 încehiat între Consiliul Local Sector 1 și Compania Romprest Service S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267203/187.2026_AN.pdf",
+     "sha256": "74374ee3c45da4ac8dcb4a78c93499ab1d3cb838f090b00ae3f0475682998161"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-188-2026",
+   "path": "local/bucuresti/sector-1/2026/188",
+   "short": "HCLS1 nr. 188/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 188/2026 privind alegerea președintelui de ședință, pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267202/188.2026_AN.pdf",
+     "sha256": "49fec71660e49cda94e50c9c32054d2128a0a338cdaf59dde049088bc363ffcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-189-2026",
+   "path": "local/bucuresti/sector-1/2026/189",
+   "short": "HCLS1 nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 189/2026 pentru modificarea Hotărârea Consiliului Local al Sectorului 1 nr. 153/21.05.2026 privind implementarea multianuală a Proiectului educational „Școala de vară” în perioada iulie - august a fiecărui an, începând cu data de 1 iulie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267197/189.2026_AN.pdf",
+     "sha256": "121d951c20ca806e5329f9b45a652701f470c7fe5defafe50d93a37137f238bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-19-2026",
+   "path": "local/bucuresti/sector-1/2026/19",
+   "short": "HCLS1 nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 19/2026 privind modificarea Hotărârii Consiliului Local Sector 1 nr. 272/21.10.2025 privind acordarea unor mandate Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Municipale din Municipiul București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243034/19.2026_AN%201.pdf",
+     "sha256": "e5fac356055dd7f188b708a8f402619fab9d0739a76bee3d34b2a331021dce33"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-190-2026",
+   "path": "local/bucuresti/sector-1/2026/190",
+   "short": "HCLS1 nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 190/2026 pentru modificarea Hotărârea Consiliului Local al Sectorului 1 nr. 156/21.05.2026 privind implementarea multianuală a Proiectului educațional „Grădinița de Vacanță” în perioada iulie — august a fiecărui an, începând cu data de 1 iulie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267200/190.2026_AN.pdf",
+     "sha256": "7f05d5ac7f469b00a9d720599c738c772ff3ba2af0e0b29fd572e504426b9e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-191-2026",
+   "path": "local/bucuresti/sector-1/2026/191",
+   "short": "HCLS1 nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 191/2026 privind aprobarea tipului de suport alimentar și a modalității de distribuire a acestuia elevilor din cadrul unităților de învățământ preuniversitar de stat din Sectorul 1, incluse în Programul național ”Masă sănătoasă”, pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267201/191.2026_AN.pdf",
+     "sha256": "1558aecfa763c2867bc29bf9890c98cd3db572f2bda2bb86903a15b025f87947"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-192-2026",
+   "path": "local/bucuresti/sector-1/2026/192",
+   "short": "HCLS1 nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 192/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267205/192.2026_AN.pdf",
+     "sha256": "e35e59a29ea90b1bf720d9e691726e03a7c675ab0c7afe6d1923d8d920027c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-193-2026",
+   "path": "local/bucuresti/sector-1/2026/193",
+   "short": "HCLS1 nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 193/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267207/193.2026%20%2B%20NREM%20COM%2011_27.07.2026_AN.pdf",
+     "sha256": "1950d087989ae9c411280ab7b07017e03617a672441234818bf11c6ff5318e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-194-2026",
+   "path": "local/bucuresti/sector-1/2026/194",
+   "short": "HCLS1 nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 194/2026 privind încheierea actului adițional la Protocolul de asociere nr. 21 din 23.09.2025, încheiat între Sectorul 1 al Municipiului București și Inspectoratul Pentru Situații De Urgență „Dealul Spirii” București-Ilfov",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267198/194.2026_AN.pdf",
+     "sha256": "42bb2f8942ebd154df03699cd07209f3e1ad1722eb356f77d02b0222979e5e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-195-2026",
+   "path": "local/bucuresti/sector-1/2026/195",
+   "short": "HCLS1 nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 195/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui protocol cadru de cooperare între Sectorul 1 al Municipiului București și Societatea de Transport București (STB) în vederea realizării în comun a unor proiecte de interes public local precum și pentru promovarea reciprocă a proiectelor comune",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267199/195.2026_AN.pdf",
+     "sha256": "092abeb355f3a4dccf9a92d4e8e846a3785ccf91f1f82f6ceb77a44f30992e8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-196-2026",
+   "path": "local/bucuresti/sector-1/2026/196",
+   "short": "HCLS1 nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 196/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267012/196.2026_AN.pdf",
+     "sha256": "b98dd672b7180c597535598f6f601f8cf04f47e82d21cbd0cf755ca7c7a82238"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-197-2026",
+   "path": "local/bucuresti/sector-1/2026/197",
+   "short": "HCLS1 nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 197/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267209/197.2026_AN.pdf",
+     "sha256": "a3204875f66d6b23e206cd8bc2ec12c6611b8057e68d97a51816bde70e7683e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-198-2026",
+   "path": "local/bucuresti/sector-1/2026/198",
+   "short": "HCLS1 nr. 198/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 198/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267206/198.2026_AN.pdf",
+     "sha256": "3cd1c015bc2d4fe6678f275c5be95b8e3da8360fce88dfd9db5fb2d773b62335"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-199-2026",
+   "path": "local/bucuresti/sector-1/2026/199",
+   "short": "HCLS1 nr. 199/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 199/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267208/199.2026_AN.pdf",
+     "sha256": "8caab042dae90671173de75b38ee457726127bec93f1825cfe3327b422584730"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-2-2026",
+   "path": "local/bucuresti/sector-1/2026/2",
+   "short": "HCLS1 nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 2/2026 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al municipiului București pentru anul 2026-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/242987/2.2026_AN.pdf",
+     "sha256": "86edad0f376e3e4db1cc93dcc406b55c381bbb81a5fba3cda2c94f4cc2b371e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-20-2026",
+   "path": "local/bucuresti/sector-1/2026/20",
+   "short": "HCLS1 nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 20/2026 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 8/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “LICEUL TEORETIC NICOLAE IORGA - DESFIINȚARE SALĂ SPORT EXISTENTĂ, CONSTRUIRE CORP DE CLĂDIRE NOU CU SALĂ DE SPORT ȘI SPAȚII CONEXE DESFĂȘURĂRII ACTIVITĂȚILOR DIDACTICE (săli de clasă, sală de mese cu magazie alimente, birouri, cancelarie, cabinet medical, cabinet stomatologic, grupuri sanitare, bibliotecă, sală de evenimente)”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243042/20.2026_AN%201.pdf",
+     "sha256": "7fd1560c844aaa9a607769ca0a1ee25f33f525cd9086a95777f38d8659d5ca76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-200-2026",
+   "path": "local/bucuresti/sector-1/2026/200",
+   "short": "HCLS1 nr. 200/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 200/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267204/200.2026_AN.pdf",
+     "sha256": "ff50f689ec5c9e537d655986118bd46d88d8e438490929ecb6b5038f00f9e20e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-201-2026",
+   "path": "local/bucuresti/sector-1/2026/201",
+   "short": "HCLS1 nr. 201/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 201/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267211/201.2026_AN.pdf",
+     "sha256": "ebbce4cdfa3e27e43413f582b50f75822842db19279bb934cacd96bd77e2ebf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-202-2026",
+   "path": "local/bucuresti/sector-1/2026/202",
+   "short": "HCLS1 nr. 202/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 202/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267210/202.2026_AN.pdf",
+     "sha256": "43069273089e607cb6cf80aa6761358e5a8a603764c8291204804ba575745c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-203-2026",
+   "path": "local/bucuresti/sector-1/2026/203",
+   "short": "HCLS1 nr. 203/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 203/2026 privind modificarea Hotărârii Consiliului Local Sector 1 nr. 11/28.01.2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura organizatorică a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/263414/203.2026_AN.pdf",
+     "sha256": "8b1de96c894ea037df1518756499fac1f6357256d5a50aa0315ae14a1ff29f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-204-2026",
+   "path": "local/bucuresti/sector-1/2026/204",
+   "short": "HCLS1 nr. 204/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 204/2026 privind modificarea Hotărârii Consiliului Local Sector 1 nr. 11/ 28.01.2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura organizatorică a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267217/204.2026_AN%20%281%29.pdf",
+     "sha256": "e09d327d1c1e6fb3450ad20cbf78f562b3769a62ee2f244c36e738e4ffcf9607"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-205-2026",
+   "path": "local/bucuresti/sector-1/2026/205",
+   "short": "HCLS1 nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 205/2026 privind aprobarea Regulamentelor de Organizare și Funcționare ale Piețelor aflate în administrarea Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267215/205.2026_AN.pdf",
+     "sha256": "a1c0a77c7119cc6838b6862d5a24f8456c2cf9a47406ac2cb002d65739b9b756"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-206-2026",
+   "path": "local/bucuresti/sector-1/2026/206",
+   "short": "HCLS1 nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 206/2026 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 186/02.06.2026 privind aprobarea Programului anual 2026, a bugetului și a Calendarului de acțiuni pentru implementarea Strategiei Locale de Asistență și Prevenire a Aducțiilor în Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267212/206.2026_AN.pdf",
+     "sha256": "8906158b3687bafdcd42d72e7d2313fa31ffd0caf988e33ba9e0b82a1b885754"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-207-2026",
+   "path": "local/bucuresti/sector-1/2026/207",
+   "short": "HCLS1 nr. 207/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 207/2026 privind rectificarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267213/207.2026_AN.pdf",
+     "sha256": "d5d08c5738aa1376320afbd0a42bc3e432c7fff43e6cee0eae6f9b07e07640aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-208-2026",
+   "path": "local/bucuresti/sector-1/2026/208",
+   "short": "HCLS1 nr. 208/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 208/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267216/208.2026_AN.pdf",
+     "sha256": "abb0eb0d48e24594339f35eadb64146fb76ab1c1905119199fc2d7be510467ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-209-2026",
+   "path": "local/bucuresti/sector-1/2026/209",
+   "short": "HCLS1 nr. 209/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 209/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267214/209.2026_AN.pdf",
+     "sha256": "ce15ae109a214216c90fe9f8c9de7d845e8431347872c8ac9c82385bf5a3b0fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-21-2026",
+   "path": "local/bucuresti/sector-1/2026/21",
+   "short": "HCLS1 nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 21/2026 privind aprobarea cooperării dintre Sectorul 1 al Municipiului București, Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Universitatea de Medicină și Farmacie \"Carol Davila\" din București, vizând îmbunătățirea stării de sănătate orală a grupurilor vulnerabile din Sectorul 1, prin asigurarea accesului la servicii de sănătate dentară de calitate, acordate în mod nediscriminatoriu",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243047/21.2026_AN%201.pdf",
+     "sha256": "09117052d2f9d69d448b9d2f329e14690a22f088485cd4384f2444a7d5cecde7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-210-2026",
+   "path": "local/bucuresti/sector-1/2026/210",
+   "short": "HCLS1 nr. 210/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 210/2026 privind alegerea președintelui de ședință pentru ședința extraordinară convocată de îndată în data de 30.06.2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267889/210.2026_AN.pdf",
+     "sha256": "10b2ffc8cb4e910c7ece574afbe7cba84064b8a4aa55b857836461360e654de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-211-2026",
+   "path": "local/bucuresti/sector-1/2026/211",
+   "short": "HCLS1 nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 211/2026 privind aprobarea actului adițional la Contractul de delegare a gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat, a activităților conexe, precum și a activităților de salubrizare stradală și deszăpezire pe raza Sectorului 1 al Municipiului București, conform Hotărârii Consiliului Local al Sectorului 1 nr.147/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/267890/211.2026_AN.pdf",
+     "sha256": "7913b0ac1ae1a6ef408c5958be9df75ecf0f10413dbd6f340a0e820b8f75b3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-212-2026",
+   "path": "local/bucuresti/sector-1/2026/212",
+   "short": "HCLS1 nr. 212/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 212/2026 pentru completarea Hotărârii Consiliului Local al Sectorului 1 nr. 145/08.05.2026 privind aprobarea calendarului de evenimente cultural-artistice, sportive și de agrement organizate de Sectorul 1 al Municipiului București în anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/268594/212.2026_AN.pdf",
+     "sha256": "7027f43a022c2b54979780f05c3ff50491c0b4785cabd4bf8c85ed0e858c4d92"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-213-2026",
+   "path": "local/bucuresti/sector-1/2026/213",
+   "short": "HCLS1 nr. 213/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 213/2026 pentru aprobarea Protocolului privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și Biserica Izvorul Tămăduirii Mavrogheni, având ca obiect finanțarea de către Sectorul 1 al Municipiului București a cheltuielilor de investiții solicitate pentru lucrări de refacere și amenajare curte interioară, situată în str. Monetăriei, nr. 4, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-214-2026",
+   "path": "local/bucuresti/sector-1/2026/214",
+   "short": "HCLS1 nr. 214/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 214/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru transmiterea în administrarea Consiliului Local al Sectorului 1 al Municipiului București, prin Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1, a Parcului Floreasca, aflat în administrarea Administrației Domeniului Public a Municipiului București, pe o perioadă de 5 ani",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-215-2026",
+   "path": "local/bucuresti/sector-1/2026/215",
+   "short": "HCLS1 nr. 215/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 215/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269458/215_2026_AN%201.pdf",
+     "sha256": "581dd0dbeeca3afcfcb669080b721d4b88639d23c33ef543b3204c43a0ea67be"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-216-2026",
+   "path": "local/bucuresti/sector-1/2026/216",
+   "short": "HCLS1 nr. 216/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 216/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-217-2026",
+   "path": "local/bucuresti/sector-1/2026/217",
+   "short": "HCLS1 nr. 217/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 217/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
     }
    ]
   },
@@ -108,6 +1998,21 @@
    ]
   },
   {
+   "slug": "hcls1-22-2026",
+   "path": "local/bucuresti/sector-1/2026/22",
+   "short": "HCLS1 nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 22/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui acord de parteneriat între Sectorul 1 al Municipiului București și Asociația NEOART, în vederea sprijinirii dezvoltării conceptului muzeal aferent proiectului de modernizare și reabilitare a imobilului “Teatrul Excelsior”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243002/22.2026_AN.pdf",
+     "sha256": "b3ef58a92423062c8910156aaa405ae9e9504b2ab1707cb630ea197997f9719d"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-220-2026",
    "path": "local/bucuresti/sector-1/2026/220",
    "short": "HCLS1 nr. 220/2026",
@@ -123,6 +2028,81 @@
    ]
   },
   {
+   "slug": "hcls1-221-2026",
+   "path": "local/bucuresti/sector-1/2026/221",
+   "short": "HCLS1 nr. 221/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 221/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-222-2026",
+   "path": "local/bucuresti/sector-1/2026/222",
+   "short": "HCLS1 nr. 222/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 222/2026 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 al Municipiului București în Comisiile de evaluare, respectiv în Comisia de soluționare a contestațiilor, aferente procedurii de evaluare a propunerilor de proiecte depuse conform Regulamentului pentru organizarea și funcționarea comisiilor de evaluare a propunerilor de proiecte și a comisiei de soluționare a contestațiilor, constituite în baza Legii nr. 350/2005, cu modificările și completările ulterioare și desemnarea reprezentanților Consiliului Local al Sectorului 1 al Municipiului București în comisiile de selecție, respectiv în comisia de soluționare a contestațiilor, aferente procedurii de selecție a propunerilor de proiecte depuse conform Regulamentului pentru organizarea și funcționarea comisiilor de selecție a propunerilor de proiecte și a comisiei de soluționare a contestațiilor constituite în baza Ordonanței Guvernului nr.51/1998 privind îmbunătățirea sistemului de finanțare nerambursabilă a proiectelor culturale, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/268598/222.2026_AN.pdf",
+     "sha256": "1266e46e6f6c35d0000f0adba490e4aec93e75e5de6f5616efea31864ae0e3f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-223-2026",
+   "path": "local/bucuresti/sector-1/2026/223",
+   "short": "HCLS1 nr. 223/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 223/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269459/223_2026_AN%201.pdf",
+     "sha256": "5bb88b411a07b03e7e189942455ceb4a759ddd020fe41e91297d9f5cfd19a47a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-224-2026",
+   "path": "local/bucuresti/sector-1/2026/224",
+   "short": "HCLS1 nr. 224/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 224/2026 privind aprobarea încheierii unui acord de parteneriat între Sectorul 1 al Municipiului București și Federația Română de Șah, în vederea organizării unor activități educaționale și recreative dedicate copiilor, în cadrul evenimentelor comunitare organizate de Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269460/224_2026_AN%201.pdf",
+     "sha256": "b5dc3d412c91d4885140a31eb57e2c4dbe6c3d34e4769551a8dbf84617aab923"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-225-2026",
+   "path": "local/bucuresti/sector-1/2026/225",
+   "short": "HCLS1 nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 225/2026 privind aprobarea modalității de stingere a titlurilor executorii având ca izvor Contractul de delegare a gestiunii prestării serviciilor de salubrizare nr. J077/S/30.06.2008 prin Acord de plată, precum și privind stabilirea măsurilor alternative în cazul neacceptării Acordului de plată",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/268599/K2-225_AN%20cu%20nota%20rectificativa.pdf",
+     "sha256": "b7372aff71da9fd2b4ec8a07707b5334931819c8d3604e69a89a78a2dd09d022"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-226-2026",
    "path": "local/bucuresti/sector-1/2026/226",
    "short": "HCLS1 nr. 226/2026",
@@ -134,6 +2114,231 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269461/226_2026_AN%201.pdf",
      "sha256": "82c8bf9404e31da005401959ce8d42672f7e690e2f44a6465e72ff4ca0d6fe62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-227-2026",
+   "path": "local/bucuresti/sector-1/2026/227",
+   "short": "HCLS1 nr. 227/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 227/2026 privind aprobarea modificării Anexei nr. 3 a Hotărârii Consiliului Local al Sectorului 1 nr. 181/02.06.2026 privind aprobarea modificării și actualizării Organigramei, Statului de funcţii și a Regulamentului de organizare și funcționare ale Direcției de Utilități Publice, Salubrizare și Protecția Mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269462/227_2026_AN%201.pdf",
+     "sha256": "fdf9666fc280260909464b5f509b2c0cc768116c2f0268bc553c983cdeca76de"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-228-2026",
+   "path": "local/bucuresti/sector-1/2026/228",
+   "short": "HCLS1 nr. 228/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 228/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269464/228_2026_AN%201.pdf",
+     "sha256": "b223cd3d76c45d18057ee67906c27fc7500b386194ee0e7d4bb757e0650a8a02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-229-2026",
+   "path": "local/bucuresti/sector-1/2026/229",
+   "short": "HCLS1 nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 229/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269466/229_2026_AN%201.pdf",
+     "sha256": "a5d619cbd69de88fb2231bdd7856b17d7784712c9e6d49af6ec1d5f496889563"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-23-2026",
+   "path": "local/bucuresti/sector-1/2026/23",
+   "short": "HCLS1 nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 23/2026 privind modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 124/29.04.2025 privind constituirea Comisiei mixte pentru identificarea/ închirierea imobilelor/spațiilor pentru desfășurarea activităților educaționale din unitățile de învățământ (grădinițe, școli gimnaziale, licee/colegii) și negocierea prețului chiriei și a Comisiei mixte pentru achiziționarea imobilelor/spațiilor pentru desfășurarea activităților educaționale din unitățile de învățământ (grădinițe, școli gimnaziale, licee/colegii) și negocierea prețului achiziționării",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243053/23.2026_AN%201.pdf",
+     "sha256": "734236110d3b58cf147490b31254270993f8835181562820a2a67f6a8bee6a8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-230-2026",
+   "path": "local/bucuresti/sector-1/2026/230",
+   "short": "HCLS1 nr. 230/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 230/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269467/230.2026_AN%201.pdf",
+     "sha256": "02f80b3064ef3216eedae4fc08fc668e2a2f86c08c18f26f8ba395f7fceca41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-231-2026",
+   "path": "local/bucuresti/sector-1/2026/231",
+   "short": "HCLS1 nr. 231/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 231/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/269468/231_2026_AN%201.pdf",
+     "sha256": "aa54578444ad27217202bd92485e4fdcffecb90cf268919747156dfe5d22bac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-232-2026",
+   "path": "local/bucuresti/sector-1/2026/232",
+   "short": "HCLS1 nr. 232/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 232/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273037/232.2026_AN%201.pdf",
+     "sha256": "bf04c9bc806f703efcab2a19beff2247dd00cd5ce614153cc5201286a6dd73ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-233-2026",
+   "path": "local/bucuresti/sector-1/2026/233",
+   "short": "HCLS1 nr. 233/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 233/2026 privind modificarea Anexei nr.2 a Hotărârii Consiliului Local al Sectorului 1 nr. 2/2026 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2026-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273190/233.2026_AN.pdf",
+     "sha256": "c3d8aa40c3c331f681c189dd326e989e420fa4e55ff97bf64d36c7dd5c524895"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-234-2026",
+   "path": "local/bucuresti/sector-1/2026/234",
+   "short": "HCLS1 nr. 234/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 234/2026 privind aprobarea încheierii Protocolului de colaborare între Uniunea Națională a Notarilor Publici din România, Camera Notarilor Publici București și Sectorului 1 al Municipiului București în vederea schimbului de informații de interes pentru activitatea notarială",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273195/234.2026_AN.pdf",
+     "sha256": "01e45768c6e2f57f3601ee6d7036509d025575d818c5c8360b934a6254d34797"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-235-2026",
+   "path": "local/bucuresti/sector-1/2026/235",
+   "short": "HCLS1 nr. 235/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 235/2026 privind aprobarea încheierii Protocolului de colaborare dintre Sectorul 1 al Municipiului București și Asociația People United în vederea implementării proiectului „Hub-ul de Cultură” pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273038/235.2026_AN%201.pdf",
+     "sha256": "acee4f405b8e93c05e89184db2e335630c235a3e5bf0f20875b8a68966afbd13"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-236-2026",
+   "path": "local/bucuresti/sector-1/2026/236",
+   "short": "HCLS1 nr. 236/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 236/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-237-2026",
+   "path": "local/bucuresti/sector-1/2026/237",
+   "short": "HCLS1 nr. 237/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 237/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru schimbarea destinației și transmiterea dreptului de administrare asupra unor imobile aflate în domeniul public al Municipiului București și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, în vederea desfășurării activității de educație timpurie antepreșcolară",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273039/237.2026_AN%201.pdf",
+     "sha256": "7c1a804c89a48c108e8c29d9d111d89d17585da6d890ed687315662864ac5976"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-238-2026",
+   "path": "local/bucuresti/sector-1/2026/238",
+   "short": "HCLS1 nr. 238/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 238/2026 privind modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 29 din 26.02.2026 privind aprobarea Planului anual de screening al Direcției Generale de Asistență Socială și Protecția Copilului ce se va desfășura prin Direcția Complex Multifuncțional Caraiman pentru locuitorii din Sectorul 1 al Municipiului București, pentru anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273196/238.2026_AN.pdf",
+     "sha256": "dc38fddcb53261a2ab2cba0bf916135b4c98221399dce6ce3afbc5ebe0489199"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-239-2026",
+   "path": "local/bucuresti/sector-1/2026/239",
+   "short": "HCLS1 nr. 239/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 239/2026 privind aprobarea Strategiei pentru dezvoltarea piețelor agroalimentare din Sectorul 1 al Municipiului București, a Masterplanului și a Planului de acțiune aferente",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273036/239.2026_AN%201.pdf",
+     "sha256": "a7386a5dbacb1e01aab9bfe760a2e41e3e3daa18f8309c81763a2ff3f4c5d22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-24-2026",
+   "path": "local/bucuresti/sector-1/2026/24",
+   "short": "HCLS1 nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 24/2026 privind acordarea unui mandat Primarului Sectorului 1 al Municipiului București referitor la încetarea, prin ajungerea la termen, la data de 30.06.2026, a Contractului de delegare a gestiunii prestării serviciilor de salubritate pe raza administrativă a sectorului 1 București nr. J077/S/30.06.2008 încheiat între Consiliul Local Sector 1 și Compania Romprest Service S.A, în conformitate cu considerentele și dispozițiile autorităților publice de concurență, de reglementare, de control și ale instanțelor de judecată",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/246507/24.2026-%20AN.pdf",
+     "sha256": "d8678336ba7970e640ef8cece70ad1bf923a03c73ace7423a23c34a952b3c9b2"
     }
    ]
   },
@@ -168,6 +2373,111 @@
    ]
   },
   {
+   "slug": "hcls1-242-2026",
+   "path": "local/bucuresti/sector-1/2026/242",
+   "short": "HCLS1 nr. 242/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 242/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273040/242.2026_AN%201.pdf",
+     "sha256": "200b41e124a46f4180d069c48dc18ac341e1f0226041189bef7ac644f850ea20"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-243-2026",
+   "path": "local/bucuresti/sector-1/2026/243",
+   "short": "HCLS1 nr. 243/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 243/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273041/243.2026_AN%201.pdf",
+     "sha256": "57c22d0004fd1534f857e86bcfcadc207e5beff898f2f104c9e44fd67810d1fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-244-2026",
+   "path": "local/bucuresti/sector-1/2026/244",
+   "short": "HCLS1 nr. 244/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 244/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273042/244.2026_AN%201.pdf",
+     "sha256": "6aa6b692dd22b5a645f3e8f9d36d7d54e3938e1d8a3f26b47c297f9fde9d2a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-245-2026",
+   "path": "local/bucuresti/sector-1/2026/245",
+   "short": "HCLS1 nr. 245/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 245/2026 privind modificarea Anexei nr. 6 a Hotărârii Consiliului Local al Sectorului 1 nr. 397/11.12.2026 pentru aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivelor de investiții „Resistematizare și modernizare locuri de joacă situate pe strada Căpâlna, strada Ficusului și Calea Griviței, Sector 1, Municipiul București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273389/245.2026_AN%202.pdf",
+     "sha256": "91a5311a5fa7d1c9dd3f4535a1c530d8d788003920bdac4e7f3f33485097718b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-246-2026",
+   "path": "local/bucuresti/sector-1/2026/246",
+   "short": "HCLS1 nr. 246/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 246/2026 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 97/29.05.2025 privind aprobarea Acordului-cadru de cooperare între Sectorul 1 al Municipiului București și Fundația Hope and Homes for Children România, în vederea analizei, fundamentării și implementării conceptului „Masterplan Leagănul Ecaterinei – Hub socio-educațional”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273392/246.2026_AN%202.pdf",
+     "sha256": "bb4a2e0e271ddaf0fd96397a5d372a44ec591261fed1869e3d70a7ea3662242c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-247-2026",
+   "path": "local/bucuresti/sector-1/2026/247",
+   "short": "HCLS1 nr. 247/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 247/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273045/247.2026_AN%201.pdf",
+     "sha256": "9f715bff8eb967ae5507d3784a000e6d3955a7af080ec7ee9e7bd793f7d1005b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-248-2026",
+   "path": "local/bucuresti/sector-1/2026/248",
+   "short": "HCLS1 nr. 248/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 248/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273046/248.2026_AN%201.pdf",
+     "sha256": "bf03dcece78a55c70d63465a86065de6b0e60935252cbb68073e0d08d262834d"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-249-2026",
    "path": "local/bucuresti/sector-1/2026/249",
    "short": "HCLS1 nr. 249/2026",
@@ -198,6 +2508,516 @@
    ]
   },
   {
+   "slug": "hcls1-250-2026",
+   "path": "local/bucuresti/sector-1/2026/250",
+   "short": "HCLS1 nr. 250/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 250/2026 privind aprobarea Actului adițional nr. 1 la Protocolul - cadru de cooperare aprobat prin Hotărârea Consiliului Local al Sectorului 1 nr. 83/19.03.2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273047/250.2026_AN%201.pdf",
+     "sha256": "ebf08337b2e51d20ee4bad03405d0f9404ee0199205ad33cafcdc41d485e9167"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-251-2026",
+   "path": "local/bucuresti/sector-1/2026/251",
+   "short": "HCLS1 nr. 251/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 251/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273049/251.2026_AN%201.pdf",
+     "sha256": "5fb301ccfe3f525241d1d7032d21c665319d42dd0c920fa7b4529fb1546cb1ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-252-2026",
+   "path": "local/bucuresti/sector-1/2026/252",
+   "short": "HCLS1 nr. 252/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 252/2026 pentru modificarea Hotărârii Consiliului Local nr.153/21.05.2026 privind implementarea multianuală a Proiectului educațional „Școala de vară în perioada iulie — august a fiecărui an, începând cu data de 1 iulie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273191/252.2026_AN.pdf",
+     "sha256": "041f05bfb4859646b83acd2da443224504c6a219b58250aef1819945564ce6f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-253-2026",
+   "path": "local/bucuresti/sector-1/2026/253",
+   "short": "HCLS1 nr. 253/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 253/2026 pentru modificarea Hotărârii Consiliului Local Sector 1 nr. 156/21.05.2026 privind implementarea multianuală a Proiectului educațional „Grădinița de Vacanță” în perioada iulie — august a fiecărui an, începând cu data de 1 iulie 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273391/253.2026_AN%202.pdf",
+     "sha256": "f7ceb2c9cd7b3af124fd697146b39600b650e40f37e2a73faca0227bb822403c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-254-2026",
+   "path": "local/bucuresti/sector-1/2026/254",
+   "short": "HCLS1 nr. 254/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 254/2026 pentru modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 153/21.05.2026 privind implementarea multianuală a Proiectului educațional „Școala de Vară” în perioada iulie — august a fiecărui an, începând cu data de 1 iulie 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/271874/254.2026_AN%202.pdf",
+     "sha256": "e12ba82313beb07924ef0b95823b96b70e0e7201edabb6de501076d168a1688e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-255-2026",
+   "path": "local/bucuresti/sector-1/2026/255",
+   "short": "HCLS1 nr. 255/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 255/2026 privind implementarea multianuală a Proiectului „Educație pentru viață“ pentru elevii din ciclul primar din unitățile de învățământ preuniversitar de stat din Sectorul 1 al Municipiului București, începând cu anul școlar 2026 - 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/271873/255.2026_AN.pdf",
+     "sha256": "5ade609e200965908af4e324fc34a7f6bfa91f7645e874e20ea66bf6d2f5626f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-256-2026",
+   "path": "local/bucuresti/sector-1/2026/256",
+   "short": "HCLS1 nr. 256/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 256/2026 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1 la data de 30 iunie 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/271872/256.2026_AN.pdf",
+     "sha256": "f9b9be28164e5bee77ce37a3b0006ca2629b2f58ee3c27e43fbbce9a4c00ff68"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-257-2026",
+   "path": "local/bucuresti/sector-1/2026/257",
+   "short": "HCLS1 nr. 257/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 257/2026 privind rectificarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/271870/257.2026_AN.pdf",
+     "sha256": "4a41fab970d682175959aa2a5bf962f4ce5ce2028137b65e5f67e242f20c8848"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-258-2026",
+   "path": "local/bucuresti/sector-1/2026/258",
+   "short": "HCLS1 nr. 258/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 258/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273400/258.2026_AN%202.pdf",
+     "sha256": "7a453a780c5ea926971bd303c25cb9018af1820b4f6601c9cc6da505ffa6981a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-259-2026",
+   "path": "local/bucuresti/sector-1/2026/259",
+   "short": "HCLS1 nr. 259/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 259/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273399/259.2026_AN%202.pdf",
+     "sha256": "6a2a68b8524a026e561b0d8b906a1a243766aa68b6592c39810046e3716b7345"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-26-2026",
+   "path": "local/bucuresti/sector-1/2026/26",
+   "short": "HCLS1 nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 26/2026 privind solicitarea acordului Consiliului General al Municipiului București de adoptare a unei hotărâri pentru aprobarea trecerii imobilului situat în Strada Minervei, nr. 33, Sector 1, București din proprietatea publică în proprietatea privată a Municipiului București în vederea realizării ulterioare, de către Sectorul 1 al Municipiului București, a obiectivului de investiții „Reabilitare, modernizare, consolidare și extindere cu un corp nou – Grădinița nr. 97 - Sediul Minervei, Strada Minervei, nr. 33, Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/248670/26.2026-AN.pdf",
+     "sha256": "00f15287c4c7b1d5a07d6c672de9e9bd49e83abebd01d0051325748cd4b1e302"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-260-2026",
+   "path": "local/bucuresti/sector-1/2026/260",
+   "short": "HCLS1 nr. 260/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 260/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273398/260.2026_AN%202.pdf",
+     "sha256": "46b2212eac11424f29969d327ff13e53b00a6b69b65d646a8e1ded92510e943d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-261-2026",
+   "path": "local/bucuresti/sector-1/2026/261",
+   "short": "HCLS1 nr. 261/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 261/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273397/261.2026_AN%202.pdf",
+     "sha256": "2b9de4f84a731b4e2c3337abf9aff00115db25724f089bf190ecea6544dd8a73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-262-2026",
+   "path": "local/bucuresti/sector-1/2026/262",
+   "short": "HCLS1 nr. 262/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 262/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/273393/262.2026_AN%202.pdf",
+     "sha256": "b1e1fc3a2f5b8a24f025543cccbfd559e95365e8a19a0207a6e0925d785938dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-263-2026",
+   "path": "local/bucuresti/sector-1/2026/263",
+   "short": "HCLS1 nr. 263/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 263/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/271869/263.2026_AN%202.pdf",
+     "sha256": "b33b9f99cc37d1af9fb7a0e3bf303004f80c540013a7f0f66b1ba09c08c4abbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-264-2026",
+   "path": "local/bucuresti/sector-1/2026/264",
+   "short": "HCLS1 nr. 264/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 264/2026 privind constatarea caducității dispozițiilor art. 1, în partea rămasă neexecutată și a art. 3 din Hotărârea Consiliului Local al Sectorului 1 nr. 62/09.05.2023, precum și acordarea unui mandat special reprezentanților Sectorului 1 al Municipiului București în adunarea generală extraordinară a acționarilor CET GRIVIȚA S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/272532/264_AN.pdf",
+     "sha256": "3d39c34ca67d0181204278f534ac7a4d935c0399d770f47a22c65b93a3b53e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-265-2026",
+   "path": "local/bucuresti/sector-1/2026/265",
+   "short": "HCLS1 nr. 265/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 265/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-266-2026",
+   "path": "local/bucuresti/sector-1/2026/266",
+   "short": "HCLS1 nr. 266/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 266/2026 privind alegerea președintelui de ședință pentru ședința ordinară a Consiliul Local al Sectorului 1 al Municipiului București, convocat pentru data de 09.09.2026, ora 10.00",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/277062/266.2026_AN.pdf",
+     "sha256": "fcde54cc94909177ea3af49dada52c78437509065250060fa3b6ae74948282bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-267-2026",
+   "path": "local/bucuresti/sector-1/2026/267",
+   "short": "HCLS1 nr. 267/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 267/2026 privind modificarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 2/2026 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al municipiului București pentru anul 2026-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278534/267.2026_AN.pdf",
+     "sha256": "9f4b943efeaf43a8e09531a9acc0274c9b27023dc0975922ef97e1acec615040"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-268-2026",
+   "path": "local/bucuresti/sector-1/2026/268",
+   "short": "HCLS1 nr. 268/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 268/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278536/268.2026_AN.pdf",
+     "sha256": "1e99a645a28a3a733d1c87cfcf66b1059de31f1e8f88208803210f0001c599e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-269-2026",
+   "path": "local/bucuresti/sector-1/2026/269",
+   "short": "HCLS1 nr. 269/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 269/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278537/269.2026_AN.pdf",
+     "sha256": "fb06da3be6212d9dc5e35da7edd6b99734c9cc729713e9ec1032c6ccc64bf747"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-27-2026",
+   "path": "local/bucuresti/sector-1/2026/27",
+   "short": "HCLS1 nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 27/2026 privind aprobarea modelului de contract-cadru pentru închirierea locuințelor sociale de la nivelul Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/248669/27.2026-AN.pdf",
+     "sha256": "5bc33e2f9b67a4c3830de6081afad03016b6d31c53c8b434572471f98eafac8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-270-2026",
+   "path": "local/bucuresti/sector-1/2026/270",
+   "short": "HCLS1 nr. 270/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 270/2026 pentru modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 3/27.01.2026 privind aprobarea implementării Proiectului educațional „Educație și viitor pentru toți” la nivelul unităților de învățământ de stat de pe raza Sectorului 1 al Municipiului București, pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278539/270.2026_AN.pdf",
+     "sha256": "d0174ca89c45f01af5f4a879620001785d587f254cbac784ea3676c090ec36f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-271-2026",
+   "path": "local/bucuresti/sector-1/2026/271",
+   "short": "HCLS1 nr. 271/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 271/2026 pentru modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 255/05.08.2026 privind implementarea multianuală a Proiectului „Educație pentru viață“ pentru elevii din ciclul primar din unitățile de învățământ preuniversitar de stat din Sectorul 1 al Municipiului București, începând cu anul școlar 2026 – 2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/277063/271.2026_AN.pdf",
+     "sha256": "628eaf69a181e4fdd94fbdab46a5c4329e950682551676e7abe981f0bfead1f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-272-2026",
+   "path": "local/bucuresti/sector-1/2026/272",
+   "short": "HCLS1 nr. 272/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 272/2026 privind aprobarea încheierii Protocolului de colaborare între Sectorul 1 al Municipiului București și Universitatea Româno-Americană pentru susținerea programului educațional „High School Innovation Challenge” – ediția 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278540/272.2026_AN.pdf",
+     "sha256": "86416001ea36d545bc9841dd1cecde50a64b186dd5066c8b146bb60cbe3c6646"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-273-2026",
+   "path": "local/bucuresti/sector-1/2026/273",
+   "short": "HCLS1 nr. 273/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 273/2026 privind aprobarea implementării Programului „Mișcare și Recompense pentru Copiii Activi din Sectorul 1“",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278533/273.2026_AN.pdf",
+     "sha256": "95ee67f744c4ced84c49b388b1157a77bc00a89038d56e4006d816bb1ed887a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-274-2026",
+   "path": "local/bucuresti/sector-1/2026/274",
+   "short": "HCLS1 nr. 274/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 274/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui protocol-cadru de cooperare între Sectorul 1 al Municipiului București și Organizația neguvernamentală Străzi pentru oameni, în vederea implementării unor proiecte civice, culturale și urbane de interes public local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278669/274.2026.pdf",
+     "sha256": "47a5070e29a2356df5f35d3220e1c7e7056d104bfb26ea6872769113abf42ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-275-2026",
+   "path": "local/bucuresti/sector-1/2026/275",
+   "short": "HCLS1 nr. 275/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 275/2026 privind aprobarea “Masterplanurilor de regenerare urbană- concepte de amenajare a spațiilor verzi din cartierele rezidențiale-socialiste din Sectorul 1 al Municipiului București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279077/275.2026_AN.pdf",
+     "sha256": "bbef6c7fdb180a8041fd7943fa3d77c7922d1b9c2abf8bd2e2031f77ea03bdcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-276-2026",
+   "path": "local/bucuresti/sector-1/2026/276",
+   "short": "HCLS1 nr. 276/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 276/2026 privind aprobarea Protocolului de colaborare subsecvent la Protocolul-cadru aprobat prin Hotărârea Consiliului Local al Sectorului 1 nr. 240/12.12.2024, încheiat între Sectorul 1 al Municipiului București și Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1, privind cooperarea pentru organizarea și derularea în comun a serviciilor de consultanță și a proceselor documentate de consultare și co-proiectare participativă pentru obiectivele de investiții «Amenajare Parc Cartier Henri Coandă» și «Construirea Complexului Educațional Multifuncțional în Cartierul Henri Coandă»",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278684/276.2026_AN.pdf",
+     "sha256": "85791309c7e98d8f68b60ce1d3121abf1bfde0d6c8864dc90712469e66cfa9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-277-2026",
+   "path": "local/bucuresti/sector-1/2026/277",
+   "short": "HCLS1 nr. 277/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 277/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278683/277.2026_AN.pdf",
+     "sha256": "8f7ba5ea80f91c856bd5e99d28ea6b3c58144ea6064734b6bda00b6b5ad2b487"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-278-2026",
+   "path": "local/bucuresti/sector-1/2026/278",
+   "short": "HCLS1 nr. 278/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 278/2026 privind solicitarea acordului Consiliul General al Municipiului București în vederea transmiterii în administrarea Direcției de Utilități Publice, Salubrizare și Protecția Mediului Sector 1 a imobilului-teren în suprafață de 1.247 mp, situat în str. Ocna Sibiului f.n., Sector 1, identificat cu numărul cadastral 284454, în vederea implementării obiectivului de investiții privind dezvoltarea infrastructurii sportive prin amplasarea a două terenuri de baschet, un teren de teqball și unul de paddle tenis",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278682/278.2026_AN.pdf",
+     "sha256": "f83f2400d0330326b5ba58b0157a0219a2d97f10beb02fbe1798465225081950"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-279-2026",
+   "path": "local/bucuresti/sector-1/2026/279",
+   "short": "HCLS1 nr. 279/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 279/2026 privind solicitarea acordului Consiliului General al Municipiului București în vederea aderării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1 la Asociația Europeană a Centrelor de Justiție pentru Familie - European Family Justice Center Alliance (EFJCA)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278678/279.2026_AN.pdf",
+     "sha256": "bd8baab50c673c17460493243552f47e6fecab6c727e7679eafac76424812681"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-28-2026",
+   "path": "local/bucuresti/sector-1/2026/28",
+   "short": "HCLS1 nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 28/2026 pentru aprobarea Regulamentului de organizare și funcționare al Comisiei Sectorului 1 pentru analiza solicitărilor și atribuirea de locuințe din fondul locativ de stat",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/248668/28.2026-AN.pdf",
+     "sha256": "af40e80cf3ee2c443c2c74905a3de2b8cdf980265993231aff278593e38e58b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-280-2026",
+   "path": "local/bucuresti/sector-1/2026/280",
+   "short": "HCLS1 nr. 280/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 280/2026 privind modificarea Hotărârii Consiliului Local Sector 1 al Municipiului București nr. 28/26.02.2026 pentru aprobarea Regulamentului de organizare și funcționare al Comisiei Sectorului 1 pentru analiza solicitărilor și atribuirea de locuințe din fondul locativ de stat",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278677/280.2026_AN.pdf",
+     "sha256": "6d26e8b86533ff79ea32bc07089b1267ebc595bb72aa2c34470a01410a1eb612"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-281-2026",
    "path": "local/bucuresti/sector-1/2026/281",
    "short": "HCLS1 nr. 281/2026",
@@ -213,6 +3033,66 @@
    ]
   },
   {
+   "slug": "hcls1-282-2026",
+   "path": "local/bucuresti/sector-1/2026/282",
+   "short": "HCLS1 nr. 282/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 282/2026 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui protocol-cadru de asociere între Sectorul 1 al Municipiului București și Autoritatea Națională pentru Protecția Consumatorilor (ANPC) în vederea finanțării și realizării în comun a unor acțiuni, lucrări, servicii sau proiecte de interes public local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279079/282.2026_AN.pdf",
+     "sha256": "4e4cd3d9dfd6ebc77260955e2ff832cd27d5daccbf3ed32278b55ba4e218adf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-283-2026",
+   "path": "local/bucuresti/sector-1/2026/283",
+   "short": "HCLS1 nr. 283/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 283/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278675/283.2026_AN.pdf",
+     "sha256": "37fe7ae69be7055e443e1639e36092235a1f45b57fc1e7d31b0f330f1f255b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-284-2026",
+   "path": "local/bucuresti/sector-1/2026/284",
+   "short": "HCLS1 nr. 284/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 284/2026 privind aprobarea implementării programului-pilot \"Pink Peony\" – promovarea igienei menstruale în unitățile de învățământ preuniversitar de pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279072/284.2026_AN.pdf",
+     "sha256": "a0de6fef0416e8832fed9373cb023796caf277a0ac16309deb92b6c5a534b733"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-285-2026",
+   "path": "local/bucuresti/sector-1/2026/285",
+   "short": "HCLS1 nr. 285/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 285/2026 privind aprobarea modificării și completării Anexei la Hotărârea Consiliului Local al Sectorului 1 nr. 75/21.06.2023, reprezentând Protocolul de colaborare nr. J2388/21.09.2023 încheiat între Sectorul 1 al Municipiului București și Federația Română de Polo, prin încheierea unui act adițional",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278673/285.2026_AN.pdf",
+     "sha256": "3e29377ca574eacf32f529a597a24572e997457e9038cc680da7d6511778d06a"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-286-2026",
    "path": "local/bucuresti/sector-1/2026/286",
    "short": "HCLS1 nr. 286/2026",
@@ -224,6 +3104,321 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279070/286.2026_AN.pdf",
      "sha256": "8b6bebc0fc3bfb9fba96b2bc2342f3cd71f822623ba098ad83e05c67c6aa6dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-287-2026",
+   "path": "local/bucuresti/sector-1/2026/287",
+   "short": "HCLS1 nr. 287/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 287/2026 pentru aprobarea Protocolului privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și Biserica Costeasca, având ca obiect finanțarea de către Sectorul 1 al Municipiului București a cheltuielilor solicitate pentru lucrări de reparații și refaceri fațade, la Biserica Costeasca, situată în Strada Navigației, nr. 54, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279057/287.2026_AN.pdf",
+     "sha256": "caf0a6044dab6fc5c47463fb0f3a3e4a03689c0273908d8162d2099bb742e9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-288-2026",
+   "path": "local/bucuresti/sector-1/2026/288",
+   "short": "HCLS1 nr. 288/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 288/2026 pentru aprobarea Protocolului privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și Biserica ,,Sfântul Andrei” - Chitila, având ca obiect finanțarea de către Sectorul 1 al Municipiului București a cheltuielilor solicitate pentru lucrările de restaurare a iconostasului și mobilierului eclezial, situată în Șoseaua Chitilei, numărul 138, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279068/288.2026_AN.pdf",
+     "sha256": "5e56d7a8b6cb49dedc58cf0b6f4b263c4bfc5326d20fae0e4f48b5f3f33e9d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-289-2026",
+   "path": "local/bucuresti/sector-1/2026/289",
+   "short": "HCLS1 nr. 289/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 289/2026 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asociere între Sectorul 1 al Municipiului București și Biserica Adventistă de Ziua a Șaptea-Conferința Muntenia, Biserica Baptistă Nadejdea, Biserica Penticostală Izvorul Mântuirii și Arhiepiscopia Romano Catolica Bucuresti în vederea finanțării unor cheltuieli de investiții și realizării în parteneriat a unor acțiuni, lucrări, servicii sau proiecte și activități de interes public local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279066/289.2026_AN.pdf",
+     "sha256": "40eb281302d69915493416f9b029e81e06b9fae23afd6630928de83bafaf8a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-29-2026",
+   "path": "local/bucuresti/sector-1/2026/29",
+   "short": "HCLS1 nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 29/2026 privind aprobarea Planului anual de screening al Direcției Generale de Asistență Socială și Protecția Copilului ce se va desfășura prin Direcția Complex Multifuncțional Caraiman pentru locuitorii din Sectorul 1 al Municipiului București, pentru anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/248294/29.2026_AN.pdf",
+     "sha256": "5149fe1fd022d3567f95c76479cc8be33a96ce2691cdd2e5cf0155d64ff294c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-290-2026",
+   "path": "local/bucuresti/sector-1/2026/290",
+   "short": "HCLS1 nr. 290/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 290/2026 privind încheierea acordului subsecvent la Acordul de parteneriat nr. 32 din 18.11.2025 încheiat între Sectorul 1 al Municipiului București și Centrul de Cultură “Palatele Brâncovenești” de la Porțile Bucureștiului",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279062/290.2026_AN.pdf",
+     "sha256": "63fe8ee428e67e079ccb3f5162a276a4b84512944cf272e73b79a19edba02ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-291-2026",
+   "path": "local/bucuresti/sector-1/2026/291",
+   "short": "HCLS1 nr. 291/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 291/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279059/291.2026_AN.pdf",
+     "sha256": "3687e58e690deae6c9a1fc31baee48c50179830d38da1ee3c35b1e3762946448"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-292-2026",
+   "path": "local/bucuresti/sector-1/2026/292",
+   "short": "HCLS1 nr. 292/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 292/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279074/292.2026_AN.pdf",
+     "sha256": "4ac9d125c75de15bc23590e43799bfc2c9b1cbeb321ae50ae5958e79968d3227"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-293-2026",
+   "path": "local/bucuresti/sector-1/2026/293",
+   "short": "HCLS1 nr. 293/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 293/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279078/293.2026_AN.pdf",
+     "sha256": "0c0954008282b08f30bb4d32f13b82b425d1c2016e788562c5baffbb393374c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-294-2026",
+   "path": "local/bucuresti/sector-1/2026/294",
+   "short": "HCLS1 nr. 294/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 294/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/279071/294.2026_AN.pdf",
+     "sha256": "7707fd57abb269505b00b6be0d481496d8bb07af6d4fdfd904590f5401c36fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-295-2026",
+   "path": "local/bucuresti/sector-1/2026/295",
+   "short": "HCLS1 nr. 295/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 295/2026 pentru aprobarea finanțării proiectelor câștigătoare în cadrul procedurii privind atribuirea contractelor de finanțare nerambursabilă de la bugetul local al Sectorului 1 al Municipiului București pentru activități nonprofit de interes local, pentru anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278544/295.2026_AN.pdf",
+     "sha256": "d6c842d56e0f457d177fa3db1a7849cc4bf9be0c28e81e3a64745f132843028d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-296-2026",
+   "path": "local/bucuresti/sector-1/2026/296",
+   "short": "HCLS1 nr. 296/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 296/2026 pentru aprobarea finanțării proiectelor câștigătoare în cadrul procedurii privind atribuirea contractelor de finanțare nerambursabilă pentru proiecte culturale de la bugetul local al Sectorului 1, pentru anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/278547/296.2026_AN.pdf",
+     "sha256": "65edfeaf69dfead2a31429cdeb38991cae6ba7572c4349fbc0bff5b13e63e3d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-297-2026",
+   "path": "local/bucuresti/sector-1/2026/297",
+   "short": "HCLS1 nr. 297/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 297/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/277064/297.2026_AN.pdf",
+     "sha256": "0ea6142729426a3e036d65bb2f36f5b0a09681219074d68366cecc648fbdb5e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-298-2026",
+   "path": "local/bucuresti/sector-1/2026/298",
+   "short": "HCLS1 nr. 298/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 298/2026 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280448/298.2026_AN.pdf",
+     "sha256": "18c9d8009eab7cdb2c3831f087b9753319d0bec13a605d0a7422b5ccb5d0a215"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-299-2026",
+   "path": "local/bucuresti/sector-1/2026/299",
+   "short": "HCLS1 nr. 299/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 299/2026 privind rectificarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280449/299.2026_AN.pdf",
+     "sha256": "98df856a9075d60e666c4abe8293580498697eaa7806c95f3714228548045381"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-3-2026",
+   "path": "local/bucuresti/sector-1/2026/3",
+   "short": "HCLS1 nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 3/2026 privind aprobarea implementării Proiectului educațional „Educație și viitor pentru toți” la nivelul unităților de învățământ de stat de pe raza Sectorului 1 al Municipiului București în baza bugetului local aprobat",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/243017/3.2026%20%2B%20NREM%20COM-02_16.02.2026_AN.pdf",
+     "sha256": "33e66f40a6196f3aebd4b9a86f39029c01c14633b19cdf0cdc724dea7c7f536d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-30-2026",
+   "path": "local/bucuresti/sector-1/2026/30",
+   "short": "HCLS1 nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 30/2026 privind modificarea Hotărârii Consiliului Local Sector 1 al Municipiului București nr. 356/25.11.2025 privind aprobarea reorganizării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, a Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/248667/30.2026-AN.pdf",
+     "sha256": "5e17f61fd17206f87a78eadea4a423a98ace26fc6c83ee1cc280e9d232ab2af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-300-2026",
+   "path": "local/bucuresti/sector-1/2026/300",
+   "short": "HCLS1 nr. 300/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 300/2026",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280666/300.2026_AN.pdf",
+     "sha256": "cca48dcb0bbba5b0bbfac8911e21972ed698318cdda29b9135767e95bb693fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-301-2026",
+   "path": "local/bucuresti/sector-1/2026/301",
+   "short": "HCLS1 nr. 301/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 301/2026 privind aprobarea Protocolului de colaborare subsecvent la Protocolul-cadru aprobat prin Hotărârea Consiliului Local al Sectorului 1 nr. 240/12.12.2024, încheiat între Sectorul 1 al Municipiului București și Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1, în vederea realizării obiectivului de investiții «Amenajarea spațiului public comunitar adiacent Teatrului Excelsior – parc de cartier, loc de joacă și infrastructură verde-albastră», Bd. Bucureștii Noi și Piața Cristofor Columb, Cartierul Bucureștii Noi, sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280668/301.2026_AN.pdf",
+     "sha256": "9fec2813d0644eb5ef58295ac6c067cdbac98d1448af212fe09d8b8737144a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-302-2026",
+   "path": "local/bucuresti/sector-1/2026/302",
+   "short": "HCLS1 nr. 302/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 302/2026 privind aprobarea încheierii Actului adițional nr. 1 la Protocolul de colaborare interinstituțională nr. 15/08.09.2025 privind implementarea proiectului „Introducerea și, ulterior, dezvoltarea serviciilor de tren urban și metropolitan București–Ilfov” și a altor proiecte pentru îmbunătățirea condițiilor de transport public local, pe raza administrativ-teritorială a Sectorului 1 și a zonei sale de influență în transport",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280669/302.2026_AN.pdf",
+     "sha256": "1bb741114124a1548018535fc05dc48fbb4d6a8669c5618507f03633b8da80d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-303-2026",
+   "path": "local/bucuresti/sector-1/2026/303",
+   "short": "HCLS1 nr. 303/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 303/2026 privind aprobarea încheierii Protocolului Subsecvent la Protocolul de colaborare interinstituțională nr. 15/08.09.2025 pentru realizarea obiectivului de investiții „Introducerea și, ulterior, dezvoltarea serviciilor de tren urban și metropolitan București–Ilfov”, prima etapă, traseu prioritar: București Gara de Nord – Chitila – Scroviștea – Componenta Sectorul 1 al Municipiului București (Obiectele 1–9)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280670/303.2026_AN.pdf",
+     "sha256": "0d44fb98554bd86c3dc3d98589d4e61b5913db04287ae3a44e8fbe144a97f672"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-304-2026",
+   "path": "local/bucuresti/sector-1/2026/304",
+   "short": "HCLS1 nr. 304/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 304/2026 privind modificarea Hotărârii Consiliului Local Sector 1 nr. 11/28.01.2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura a organizatorică a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/280672/304.2026_AN.pdf",
+     "sha256": "61978d84147ad335b3dadaf0b38b5a407acd7bb6d5edd4b5941ae392370b8421"
     }
    ]
   },

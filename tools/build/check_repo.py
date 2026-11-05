@@ -174,7 +174,8 @@ def check(repo: Path, corpus: Path) -> dict:
             for day, want in ((v['from'], v), ((dt.date.fromisoformat(v['from']) - dt.timedelta(days=1)).isoformat(), before)):
                 h = state_on(rows, day)
                 if want is None:
-                    if h is not None:
+                    # a commit leaving the folder with no provision file serves nothing (an order re-dated later)
+                    if h is not None and tree_oids(cat, h, dirs[slug], trees):
                         mismatches += 1
                         details.append(f'{slug}: something is in force on {day}, before the first version')
                     continue

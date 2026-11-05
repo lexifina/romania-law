@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2-2004",
+   "path": "ordin/agricultura/2004/2",
+   "short": "Ordin agricultura nr. 2/2004",
+   "title": "Ordinul nr. 2/2004 pentru aprobarea Procedurii de reglementare și control al transportului deșeurilor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51199",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51199",
+     "sha256": "486260cb6171cb8acafea6f2d047fdaeca06f05452ed8a54827f5a3652283620"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-206-2004",
    "path": "ordin/agricultura/2004/206",
    "short": "Ordin agricultura nr. 206/2004",
@@ -29,6 +44,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51034",
      "sha256": "65672e378588b2a1985fd983e236879e465614f6aeafce1b537404406d2add53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2004",
+   "path": "ordin/agricultura/2004/218",
+   "short": "Ordin agricultura nr. 218/2004",
+   "title": "Ordinul nr. 218/2004 privind organizarea și funcționarea Fișierului Navelor și Ambarcațiunilor de Pescuit și marcarea navelor și ambarcațiunilor de pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51719",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51719",
+     "sha256": "7db35f5f07a8c22ec794cfdab631cd3d8a571b6a91016e6c8772fe300ccae953"
     }
    ]
   },
@@ -2913,6 +2943,96 @@
    ]
   },
   {
+   "slug": "ordin-economie-101-2004",
+   "path": "ordin/economie/2004/101",
+   "short": "Ordin economie nr. 101/2004",
+   "title": "Ordinul nr. 101/2004 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Romaero\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50205",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50205",
+     "sha256": "796bbd39f4bc881ffe6dc54ce00d5a133eed20c7cacd310e75edcade1442b6f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-103-2004",
+   "path": "ordin/economie/2004/103",
+   "short": "Ordin economie nr. 103/2004",
+   "title": "Ordinul nr. 103/2004 privind calcularea prețului mediu ponderat de achiziție a gazelor naturale din import pentru anul 2003, aplicabil la valorificarea gazelor naturale noi din producția internă în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50281",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50281",
+     "sha256": "cefb93cacebbc27667559059653fb6a88b8fd28763374e636817da4863b7f23f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-104-2004",
+   "path": "ordin/economie/2004/104",
+   "short": "Ordin economie nr. 104/2004",
+   "title": "Ordinul nr. 104/2004 pentru modificarea art. 3 din Ordinul ministrului industriei și resurselor și al președintelui Agenției Naționale pentru Resurse Minerale nr. 49/14/2003 privind valorificarea cantităților de gaze naturale noi din producția internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50228",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50228",
+     "sha256": "1c21e721f66742f22f757e7fa71734d1cd26ced6fe439c59bedeaa6af7635aec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-115-2004",
+   "path": "ordin/economie/2004/115",
+   "short": "Ordin economie nr. 115/2004",
+   "title": "Ordinul nr. 115/2004 privind aprobarea Procedurii de eșantionare pentru verificarea respectării condițiilor privind conținutul de sulf din combustibilii lichizi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50289",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50289",
+     "sha256": "efc727810a93e3e629393d6f8f65585a92d78391aac6e71d753ae08fa385c810"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-140-2004",
+   "path": "ordin/economie/2004/140",
+   "short": "Ordin economie nr. 140/2004",
+   "title": "Ordinul nr. 140/2004 pentru înlocuirea anexei la Ordinul ministrului economiei și comerțului nr. 44/2003 privind aprobarea Listei organismelor recunoscute care efectuează evaluarea conformității ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50581",
+   "versions": [
+    {
+     "from": "2004-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50581",
+     "sha256": "b64760285bdc8e3acd623df8e3e876540e4dba4405036ced31816b19da8f0d6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-170-2004",
+   "path": "ordin/economie/2004/170",
+   "short": "Ordin economie nr. 170/2004",
+   "title": "Ordinul nr. 170/2004 pentru modificarea Ordinului ministrului industriei și resurselor nr. 282/2002 privind desemnarea organismelor de inspecție a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51524",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51524",
+     "sha256": "ea94fe506afa973152f8e51d1a8bd3e6ee2ea84a9fa5b5e2be65cfc16a3d5e1d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-178-2004",
    "path": "ordin/economie/2004/178",
    "short": "Ordin economie nr. 178/2004",
@@ -2943,6 +3063,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-225-2004",
+   "path": "ordin/economie/2004/225",
+   "short": "Ordin economie nr. 225/2004",
+   "title": "Ordinul nr. 225/2004 privind organizarea și funcționarea Comisiei pentru derularea mecanismului de acordare a sprijinului financiar, precum și a modului de gestionare a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51558",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51558",
+     "sha256": "9dd1412aad992442010a4be306910a13d9c3377fb3931c64cdc99fd6ca3f4ade"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-241-2004",
    "path": "ordin/economie/2004/241",
    "short": "Ordin economie nr. 241/2004",
@@ -2954,6 +3089,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52334",
      "sha256": "8a54e1f84923b4b0266c2a0a934c5a7a305bbd6b9faeb2fa8d0480bc686d08e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-268-2004",
+   "path": "ordin/economie/2004/268",
+   "short": "Ordin economie nr. 268/2004",
+   "title": "Ordinul nr. 268/2004 privind aprobarea prețului de referință al gazelor naturale extrase în România, începând cu trimestrul al II-lea al anului 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51930",
+   "versions": [
+    {
+     "from": "2004-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51930",
+     "sha256": "bbc96de61b041bbc94b757117c5633b6afabae3541222766c891ce366ba14a4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-270-2004",
+   "path": "ordin/economie/2004/270",
+   "short": "Ordin economie nr. 270/2004",
+   "title": "Ordinul nr. 270/2004 privind modificarea Ordinului ministrului industriei și resurselor nr. 317/2002 pentru aprobarea Statutului-cadru al organismului național de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52267",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52267",
+     "sha256": "1a6d44579144f4b8ce126216f6ed43048698a504a6003fb3e4212c417ce851dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-289-2004",
+   "path": "ordin/economie/2004/289",
+   "short": "Ordin economie nr. 289/2004",
+   "title": "Ordinul nr. 289/2004 pentru aprobarea Ghidului de proceduri privind măsuri pentru acordarea de stimulente financiare prin Agenția Națională pentru Dezvoltarea și Implementarea Programelor de Reconstrucție a Zonelor Miniere, antreprenorilor locali, în vederea angajării și instruirii persoanelor fără loc de muncă din zonele miniere cu grave dezechilibre economice și sociale, ca urmare a restructurării sectorului minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52007",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52007",
+     "sha256": "b543623bf0b9b8b795ac3aa26e1a7789089fbb37b863bc8a47b3ab328a0879d7"
     }
    ]
   },
@@ -2973,6 +3153,186 @@
    ]
   },
   {
+   "slug": "ordin-economie-35-2004",
+   "path": "ordin/economie/2004/35",
+   "short": "Ordin economie nr. 35/2004",
+   "title": "Ordinul nr. 35/2004 pentru aprobarea Normelor metodologice privind recunoașterea și desemnarea organismelor și/sau laboratoarelor ce pot întocmi rapoarte de încercări, care atestă conformitatea echipamentelor electrice de joasă tensiune cu cerințele esențiale de securitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49512",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49512",
+     "sha256": "70e4bf925fe4a3637189e494cc9b4aebca542da0285fbb913ab646375b09556d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-357-2004",
+   "path": "ordin/economie/2004/357",
+   "short": "Ordin economie nr. 357/2004",
+   "title": "Ordinul nr. 357/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 102/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52858",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52858",
+     "sha256": "40f3bf9f1e310164f343313f2815b3e631c7e18cfe06fade5a39eb230a9fe436"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-358-2004",
+   "path": "ordin/economie/2004/358",
+   "short": "Ordin economie nr. 358/2004",
+   "title": "Ordinul nr. 358/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 103/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52859",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52859",
+     "sha256": "8e0a798db819e6780ea3e477d9de6100f11b6af345820054824df04670724b15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-359-2004",
+   "path": "ordin/economie/2004/359",
+   "short": "Ordin economie nr. 359/2004",
+   "title": "Ordinul nr. 359/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 104/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52860",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52860",
+     "sha256": "060d0e84a1b025d99e8617d9699880a2b7ca9045160b43552332a5c2711953a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-361-2004",
+   "path": "ordin/economie/2004/361",
+   "short": "Ordin economie nr. 361/2004",
+   "title": "Ordinul nr. 361/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 98/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52862",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52862",
+     "sha256": "7cdc7b4002123f7bbc9d1079c0400121171c14cb872ad103b37bd999ebcc3e06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-362-2004",
+   "path": "ordin/economie/2004/362",
+   "short": "Ordin economie nr. 362/2004",
+   "title": "Ordinul nr. 362/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 367/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52863",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52863",
+     "sha256": "e3ec83842928867b57b31763ad0698b3c4046bd0ed25e62c35144639de8b2ef2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-363-2004",
+   "path": "ordin/economie/2004/363",
+   "short": "Ordin economie nr. 363/2004",
+   "title": "Ordinul nr. 363/2004 pentru completarea Ordinului ministrului economiei și comerțului nr. 333/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52865",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52865",
+     "sha256": "cfa22802c33ca944fa8a148d0716d24558d076147ba328019647ac383c106f50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-364-2004",
+   "path": "ordin/economie/2004/364",
+   "short": "Ordin economie nr. 364/2004",
+   "title": "Ordinul nr. 364/2004 pentru completarea Ordinului ministrului economiei și comerțului nr. 336/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52866",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52866",
+     "sha256": "7f0327cdecd4afeaf5be8533356a114997cdd27ea74e1dd955e9fa67b3c79b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-365-2004",
+   "path": "ordin/economie/2004/365",
+   "short": "Ordin economie nr. 365/2004",
+   "title": "Ordinul nr. 365/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 366/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52867",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52867",
+     "sha256": "642ada8811f444622192ba03d62d5b36dc2cdbce82f9a1952ff41b5f27bee653"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-366-2004",
+   "path": "ordin/economie/2004/366",
+   "short": "Ordin economie nr. 366/2004",
+   "title": "Ordinul nr. 366/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 106/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52868",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52868",
+     "sha256": "781760141dd5f10974dd84a6269ddf81708d562196962ae4241757b1228af92d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-367-2004",
+   "path": "ordin/economie/2004/367",
+   "short": "Ordin economie nr. 367/2004",
+   "title": "Ordinul nr. 367/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 643/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52869",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52869",
+     "sha256": "bb65363ee4b855d3e120e7ce54560f169d52aa24d40fa42346c09a498cc7f8a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-368-2004",
+   "path": "ordin/economie/2004/368",
+   "short": "Ordin economie nr. 368/2004",
+   "title": "Ordinul nr. 368/2004 pentru completarea Ordinului ministrului industriei și resurselor nr. 105/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52870",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52870",
+     "sha256": "da9f8d41a87f2fbfbe35ce8e9e639e059e2727a0a6201c8919c80d35535f96a1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-373-2004",
    "path": "ordin/economie/2004/373",
    "short": "Ordin economie nr. 373/2004",
@@ -2984,6 +3344,936 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53772",
      "sha256": "cc9aad03ed2a49c2e0e08a973cb9db676a2697aea9652cc47bcde547a10caf00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-381-2004",
+   "path": "ordin/economie/2004/381",
+   "short": "Ordin economie nr. 381/2004",
+   "title": "Ordinul nr. 381/2004 privind aprobarea Listei cuprinzând standardele române care adoptă standardele europene armonizate din domeniul compatibilității electromagnetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56460",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56460",
+     "sha256": "79d88705392c87543326df3061544bac4d951e02d906f03768f89df49b9054b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-383-2004",
+   "path": "ordin/economie/2004/383",
+   "short": "Ordin economie nr. 383/2004",
+   "title": "Ordinul nr. 383/2004 privind aprobarea Listei cuprinzând standardele române care adoptă standardele europene armonizate care se referă la metodele de măsurare și verificare a nivelului de zgomot transmis prin aer de aparatele electrocasnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53542",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53542",
+     "sha256": "8b8378caebccd583bab5ec6d52dc3ee89e12680411a35871272ec98b70951814"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-384-2004",
+   "path": "ordin/economie/2004/384",
+   "short": "Ordin economie nr. 384/2004",
+   "title": "Ordinul nr. 384/2004 pentru aprobarea Listei cuprinzând standardele române privind asigurarea securității utilizatorilor de echipamente electrice de joasă tensiune, care adoptă standardele europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53925",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53925",
+     "sha256": "536e0f75425319f6aeefb99c24724e542fe899af7814d3c018fbc827fb7ad4d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-385-2004",
+   "path": "ordin/economie/2004/385",
+   "short": "Ordin economie nr. 385/2004",
+   "title": "Ordinul nr. 385/2004 pentru actualizarea Listei organismelor recunoscute care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53657",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53657",
+     "sha256": "2308bcb2171a961db77b647187c7e6f043d1c80bd7d339eff99032170e6f68c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-386-2004",
+   "path": "ordin/economie/2004/386",
+   "short": "Ordin economie nr. 386/2004",
+   "title": "Ordinul nr. 386/2004 pentru aprobarea Normelor privind procedura și criteriile de autorizare a activității de gestionare a anvelopelor uzate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54184",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54184",
+     "sha256": "f6b2e63502ad22e40bbaf5c77bd38dbb1d8337f3b76a878780ca03246eebaaa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-395-2004",
+   "path": "ordin/economie/2004/395",
+   "short": "Ordin economie nr. 395/2004",
+   "title": "Ordinul nr. 395/2004 pentru înlocuirea anexei la Ordinul ministrului industriei și resurselor nr. 184/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53948",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53948",
+     "sha256": "c91009e6ab3ea823a8abb7e700319390c0549cd8fb08ecc5b67428db8fa4e64d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-396-2004",
+   "path": "ordin/economie/2004/396",
+   "short": "Ordin economie nr. 396/2004",
+   "title": "Ordinul nr. 396/2004 pentru aprobarea unor măsuri privind desemnarea organismelor care realizează evaluarea conformității echipamentelor destinate utilizării în exteriorul clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54778",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54778",
+     "sha256": "ac228750af359eae7aaaa32ef1810af7e5c20dfaf86ca7c9e3ec5ba203cd863f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-429-2004",
+   "path": "ordin/economie/2004/429",
+   "short": "Ordin economie nr. 429/2004",
+   "title": "Ordinul nr. 429/2004 pentru modificarea și completarea Prescripției tehnice PT R1-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a macaralelor\", aprobată prin Ordinul ministrului industriei și resurselor nr. 144/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54186",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54186",
+     "sha256": "e46d7df88be3b7db1a29165e81fac09e7a20a623743b9aaf9c977b3538989cb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-430-2004",
+   "path": "ordin/economie/2004/430",
+   "short": "Ordin economie nr. 430/2004",
+   "title": "Ordinul nr. 430/2004 pentru modificarea și completarea Prescripției tehnice PT R2-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a mecanismelor de ridicat\", aprobată prin Ordinul ministrului industriei și resurselor nr. 142/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54192",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54192",
+     "sha256": "6d4059d578d0b040b83d7e887e83ce8bf23abc29f30db69fd221ba247918219e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-431-2004",
+   "path": "ordin/economie/2004/431",
+   "short": "Ordin economie nr. 431/2004",
+   "title": "Ordinul nr. 431/2004 pentru modificarea și completarea Prescripției tehnice PT R3-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a stivuitoarelor\", aprobată prin Ordinul ministrului industriei și resurselor nr. 146/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54207",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54207",
+     "sha256": "eb69111d28ddda5ccdff1c6c92a9496f6bddc303b05075d7b040adb66d6309f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-432-2004",
+   "path": "ordin/economie/2004/432",
+   "short": "Ordin economie nr. 432/2004",
+   "title": "Ordinul nr. 432/2004 pentru modificarea și completarea Prescripției tehnice PT R4-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a nacelelor și platformelor autoridicătoare\", aprobată prin Ordinul ministrului industriei și resurselor nr. 148/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54208",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54208",
+     "sha256": "1ec25349d155767704e68efc26b67b28d4b8f5597e2a32d3887b5c22ebc374e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-433-2004",
+   "path": "ordin/economie/2004/433",
+   "short": "Ordin economie nr. 433/2004",
+   "title": "Ordinul nr. 433/2004 pentru modificarea și completarea Prescripției tehnice PT R5-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a elevatoarelor pentru vehicule\", aprobată prin Ordinul ministrului industriei și resurselor nr. 147/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54209",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54209",
+     "sha256": "998d8219933e2e01783cd51b88abd49236158d94c8dad1c4e6a8b4386a9cf532"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-440-2004",
+   "path": "ordin/economie/2004/440",
+   "short": "Ordin economie nr. 440/2004",
+   "title": "Ordinul nr. 440/2004 privind aprobarea Listei cuprinzând standardele române care adoptă standardele europene armonizate, ale căror prevederi se referă la echipamente sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54174",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54174",
+     "sha256": "1bce1162c61d38fd01858ceb90695409af2376978a4f2a48444f2a6a37bdeadb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-456-2004",
+   "path": "ordin/economie/2004/456",
+   "short": "Ordin economie nr. 456/2004",
+   "title": "Ordinul nr. 456/2004 pentru modificarea Prescripției tehnice PT A1-2002 \"Cerințe tehnice privind utilizarea aparatelor consumatoare de combustibili gazoși\", aprobată prin Ordinul ministrului industriei și resurselor nr. 397/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54247",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54247",
+     "sha256": "cac8a4a2d9cd16aa1527fc89dd2b42612b1b415ec1cecfd5bc3da92b28f5f11d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-457-2004",
+   "path": "ordin/economie/2004/457",
+   "short": "Ordin economie nr. 457/2004",
+   "title": "Ordinul nr. 457/2004 pentru modificarea Prescripției tehnice PT A2-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, omologarea, instalarea, utilizarea și verificarea tehnică periodică a aparatelor consumatoare de combustibili solizi cu putere termică mai mică de 50 kW\", aprobată prin Ordinul ministrului industriei și resurselor nr. 367/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54248",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54248",
+     "sha256": "2d19bf4d0619780f35cd3a1ac170c454e880e60c2479d74477a85dec2336513a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-458-2004",
+   "path": "ordin/economie/2004/458",
+   "short": "Ordin economie nr. 458/2004",
+   "title": "Ordinul nr. 458/2004 pentru modificarea Prescripției tehnice PT A 3-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, omologarea, instalarea, utilizarea și verificarea tehnică periodică a aparatelor consumatoare de combustibili lichizi\", aprobate prin Ordinul ministrului industriei și resurselor nr. 366/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54152",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54152",
+     "sha256": "f3c5bdc857c4b82e62aaa596df648d64beb63b142407977f8d13a4d740faa973"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-459-2004",
+   "path": "ordin/economie/2004/459",
+   "short": "Ordin economie nr. 459/2004",
+   "title": "Ordinul nr. 459/2004 pentru modificarea Prescripției tehnice PT C 1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, verificarea tehnică și repararea cazanelor de abur și de apă fierbinte, supraîncălzitoarelor și a economizoarelor independente\", aprobate prin Ordinul ministrului economiei și comerțului nr. 304/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54153",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54153",
+     "sha256": "12457de2e6519dfc879fafeea4f18ce288490ab3c5a78c1b9a1a46235e7b2c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-460-2004",
+   "path": "ordin/economie/2004/460",
+   "short": "Ordin economie nr. 460/2004",
+   "title": "Ordinul nr. 460/2004 pentru modificarea Prescripției tehnice PT C 2-2003, ediția 1, \"Cerințe tehnice privind regimul chimic al cazanelor de abur, de apă caldă și de apă fierbinte\", aprobată prin Ordinul ministrului economiei și comerțului nr. 333/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54171",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54171",
+     "sha256": "8857f42c5d4debe131e8bc74b084facc5d708f2e3c7fc0a6ba4c9d8c79bd840e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-462-2004",
+   "path": "ordin/economie/2004/462",
+   "short": "Ordin economie nr. 462/2004",
+   "title": "Ordinul nr. 462/2004 pentru modificarea Prescripției tehnice PT C4/1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea recipientelor metalice stabile sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 305/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54253",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54253",
+     "sha256": "90ab3d5db17f152951127791e3b9e99c473f9e1454db41a409bb71a43114a053"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-463-2004",
+   "path": "ordin/economie/2004/463",
+   "short": "Ordin economie nr. 463/2004",
+   "title": "Ordinul nr. 463/2004 privind modificarea Prescripției tehnice PT C 4/2-2003, ediția 1, \"Ghid pentru proiectarea, construirea, montarea și repararea recipientelor metalice stabile sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 334/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54336",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54336",
+     "sha256": "bda3f0a65583b53823ca5e0087809e965b8c8ec73af1103a4bd171218a6f3cc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-464-2004",
+   "path": "ordin/economie/2004/464",
+   "short": "Ordin economie nr. 464/2004",
+   "title": "Ordinul nr. 464/2004 pentru modificarea Prescripției tehnice PT C 5-2003, ediția 1, \"Cerințe tehnice privind utilizarea recipientelor butelii pentru gaze comprimate, lichefiate sau dizolvate sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 306/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54172",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54172",
+     "sha256": "dae91807334d6bc3ac037378b929b9869e3ece683b1ca4cafb6d896588f7362b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-465-2004",
+   "path": "ordin/economie/2004/465",
+   "short": "Ordin economie nr. 465/2004",
+   "title": "Ordinul nr. 465/2004 pentru modificarea Prescripției tehnice PT C6-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea conductelor metalice pentru fluide\", aprobată prin Ordinul ministrului economiei și comerțului nr. 307/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54118",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54118",
+     "sha256": "5c01c06016bb977f9568070f0ada907080224f5466322cb56d7eade1abad40e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-466-2004",
+   "path": "ordin/economie/2004/466",
+   "short": "Ordin economie nr. 466/2004",
+   "title": "Ordinul nr. 466/2004 pentru modificarea Prescripției tehnice PT C7-2003, ediția 1, \"Cerințe tehnice privind utilizarea, repararea, verificarea, scoaterea din uz și casarea dispozitivelor de siguranță\", aprobată prin Ordinul ministrului economiei și comerțului nr. 308/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54119",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54119",
+     "sha256": "80a575a864c7e7c4cede7a8c0c0f8418b8527608ddc3c3368fc5c00cfd3b72bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-467-2004",
+   "path": "ordin/economie/2004/467",
+   "short": "Ordin economie nr. 467/2004",
+   "title": "Ordinul nr. 467/2004 pentru modificarea Prescripției tehnice PT C 8-2003, ediția 1, \"Cerințe tehnice privind amplasarea-instalarea, asamblarea, exploatarea, repararea, distribuția și verificarea instalațiilor de gaze petroliere lichefiate\", aprobată prin Ordinul ministrului economiei și comerțului nr. 309/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54117",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54117",
+     "sha256": "f47971e5f57720e4c37c585975717de27acbeebc75c10714149a3b470d33016f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-468-2004",
+   "path": "ordin/economie/2004/468",
+   "short": "Ordin economie nr. 468/2004",
+   "title": "Ordinul nr. 468/2004 pentru modificarea și completarea Prescripției tehnice PT C9-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, instalarea, exploatarea, verificarea tehnică și repararea cazanelor de apă caldă și a cazanelor de abur de joasă presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 310/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54116",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54116",
+     "sha256": "cfc048d6c4775f3b0880f0d50486e46e565db045e900f0cac2a610446406e1a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-469-2004",
+   "path": "ordin/economie/2004/469",
+   "short": "Ordin economie nr. 469/2004",
+   "title": "Ordinul nr. 469/2004 pentru modificarea Prescripției tehnice PT C 10/1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea conductelor de abur și de apă fierbinte sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 311/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54173",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54173",
+     "sha256": "c71f9a73c2e6f1ad86074bcfd623972de0f99fa0961a3e678588c1b427ec0af0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-470-2004",
+   "path": "ordin/economie/2004/470",
+   "short": "Ordin economie nr. 470/2004",
+   "title": "Ordinul nr. 470/2004 privind modificarea și completarea Prescripției tehnice PT C 10/2-2003, ediția 1, \"Ghid pentru proiectarea, construirea, montarea și repararea conductelor de abur și de apă fierbinte sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 335/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54337",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54337",
+     "sha256": "9af23c1e11d412b9e797df659134538c0db89671d6f43f37010a04b5d2126e25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-471-2004",
+   "path": "ordin/economie/2004/471",
+   "short": "Ordin economie nr. 471/2004",
+   "title": "Ordinul nr. 471/2004 pentru modificarea și completarea Prescripției tehnice PT C 11-2003, ediția 1, \"Cerințe tehnice privind sistemele de automatizare aferente centralelor termice\", aprobată prin Ordinul ministrului economiei și comerțului nr. 336/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54175",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54175",
+     "sha256": "d9b0192fb413bda77cd083331c21b6423d2482d5ccd7b05a6a0caf2088669846"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-472-2004",
+   "path": "ordin/economie/2004/472",
+   "short": "Ordin economie nr. 472/2004",
+   "title": "Ordinul nr. 472/2004 privind modificarea Prescripției tehnice PT C 12-2003, ediția 1, \"Cerințe tehnice pentru recipiente-cisterne, recipiente-containere și recipiente-butoaie metalice pentru gaze comprimate, lichefiate sau dizolvate sub presiune\", aprobată prin Ordinul ministrului economiei și comerțului nr. 337/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54338",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54338",
+     "sha256": "1752606400dffcb27515c430d16ff2db84ac41e13ecf55c78b662b14d44d6c2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-473-2004",
+   "path": "ordin/economie/2004/473",
+   "short": "Ordin economie nr. 473/2004",
+   "title": "Ordinul nr. 473/2004 pentru modificarea și completarea Prescripției tehnice PT CR 4-2003, ediția 1, \"Examinarea cu ultrasunete a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\", aprobată prin Ordinul ministrului economiei și comerțului nr. 367/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54339",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54339",
+     "sha256": "a45f3b6e0d791725caa5bc510e39e55c977d9adafd8bde4c3c473d2d05787f25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-475-2004",
+   "path": "ordin/economie/2004/475",
+   "short": "Ordin economie nr. 475/2004",
+   "title": "Ordinul nr. 475/2004 pentru modificarea și completarea Prescripției tehnice PT CR 6-2003, ediția 1, \"Examinarea cu lichide penetrante a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\", aprobată prin Ordinul ministrului economiei și comerțului nr. 369/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54255",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54255",
+     "sha256": "cad30a5a666b22a69d33bb038110ae22087724c11da1d480fb62ce431c593de4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-476-2004",
+   "path": "ordin/economie/2004/476",
+   "short": "Ordin economie nr. 476/2004",
+   "title": "Ordinul nr. 476/2004 pentru modificarea Prescripției tehnice PT CR 7/1-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 1: Oțel\", aprobată prin Ordinul ministrului economiei și comerțului nr. 370/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54249",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54249",
+     "sha256": "05b5f999867b4bc6e9f346f03b0eece9e56e1b6cd712daea49ff415b12c54dc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-477-2004",
+   "path": "ordin/economie/2004/477",
+   "short": "Ordin economie nr. 477/2004",
+   "title": "Ordinul nr. 477/2004 pentru modificarea Prescripției tehnice PT CR 7/2-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 2: Aluminiu și aliaje din aluminiu\", aprobată prin Ordinul ministrului economiei și comerțului nr. 371/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54187",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54187",
+     "sha256": "c345f932fbab31695b4e6919055fdb7628e425fea3314797b9e805c0086d3185"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-478-2004",
+   "path": "ordin/economie/2004/478",
+   "short": "Ordin economie nr. 478/2004",
+   "title": "Ordinul nr. 478/2004 pentru modificarea Prescripției tehnice PT CR 7/3-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 3: Polietilenă de înaltă densitate\", aprobată prin Ordinul ministrului economiei și comerțului nr. 372/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54188",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54188",
+     "sha256": "b16d3428454df3ed964c89893f2001fb890b7758703205ab83d31be7b44d20e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-479-2004",
+   "path": "ordin/economie/2004/479",
+   "short": "Ordin economie nr. 479/2004",
+   "title": "Ordinul nr. 479/2004 pentru modificarea și completarea Prescripției tehnice PT CR 8-2003, ediția 1, \"Examinarea cu particule magnetice a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\", aprobată prin Ordinul ministrului economiei și comerțului nr. 373/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54156",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54156",
+     "sha256": "6a4da09c9998704032943a99143e654c9cb0e7cc017bf245941a079c92196eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-480-2004",
+   "path": "ordin/economie/2004/480",
+   "short": "Ordin economie nr. 480/2004",
+   "title": "Ordinul nr. 480/2004 pentru modificarea Prescripției tehnice PT CR 9/1-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care execută lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 1: Oțel\", aprobată prin Ordinul ministrului economiei și comerțului nr. 374/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54189",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54189",
+     "sha256": "6ad523397dfb94dbcdcc35847cf557d151e0db7221b3368039b352b32c4562c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-481-2004",
+   "path": "ordin/economie/2004/481",
+   "short": "Ordin economie nr. 481/2004",
+   "title": "Ordinul nr. 481/2004 pentru modificarea Prescripției tehnice PT CR 9/2-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care execută lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 2: Aluminiu și aliaje din aluminiu\", aprobată prin Ordinul ministrului economiei și comerțului nr. 375/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54190",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54190",
+     "sha256": "fb41348f0123ccd40a0f842194a8812cb728ace74dfa56d0b5e413fe0b063119"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-482-2004",
+   "path": "ordin/economie/2004/482",
+   "short": "Ordin economie nr. 482/2004",
+   "title": "Ordinul nr. 482/2004 pentru modificarea Prescripției tehnice PT CR 9/3-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care execută lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 3: Polietilenă de înaltă densitate\", aprobată prin Ordinul ministrului economiei și comerțului nr. 376/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54191",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54191",
+     "sha256": "bb5db844ee417e3a46e92fbda1dcd3cced9a7b1c545ef6f35749a22d89bdfdda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-483-2004",
+   "path": "ordin/economie/2004/483",
+   "short": "Ordin economie nr. 483/2004",
+   "title": "Ordinul nr. 483/2004 pentru modificarea și completarea Prescripției tehnice PT CR 10-2003, ediția 1, \"Examinarea cu ultrasunete a tablelor folosite la instalațiile mecanice sub presiune și la instalațiile de ridicat\", aprobată prin Ordinul ministrului economiei și comerțului nr. 377/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54193",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54193",
+     "sha256": "fc5315e1b819dfef9abb91b8c112ea4f63e5359b68c9315cae549b833da4b077"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-484-2004",
+   "path": "ordin/economie/2004/484",
+   "short": "Ordin economie nr. 484/2004",
+   "title": "Ordinul nr. 484/2004 pentru modificarea și completarea Prescripției tehnice PT CR 11-2003, ediția 1, \"Autorizarea personalului care efectuează examinări nedistructive la instalații mecanice sub presiune și la instalații de ridicat\", aprobate prin Ordinul ministrului economiei și comerțului nr. 378/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54069",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54069",
+     "sha256": "aca0c75781c1a7f00eb38c22e079fc5041aa8db9f705a713437d00c58a06d3f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-485-2004",
+   "path": "ordin/economie/2004/485",
+   "short": "Ordin economie nr. 485/2004",
+   "title": "Ordinul nr. 485/2004 pentru pentru modificarea și completarea Prescripției tehnice PT CR 12-2003, ediția 1, \"Măsurarea cu ultrasunete a grosimii elementelor instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\", aprobate prin Ordinul ministrului economiei și comerțului nr. 379/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54070",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54070",
+     "sha256": "b4321e63fa77696c881a84323808ed9c3f33fb5b4832e90dac6bc37f9baa94d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-486-2004",
+   "path": "ordin/economie/2004/486",
+   "short": "Ordin economie nr. 486/2004",
+   "title": "Ordinul nr. 486/2004 pentru modificarea și completarea Prescripției tehnice PT CR 13-2003, ediția 1, \"Examinarea cu radiații penetrante a îmbinărilor sudate cap la cap ale componentelor instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\", aprobate prin Ordinul ministrului economiei și comerțului nr. 380/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54071",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54071",
+     "sha256": "fe23d558ee2126c8c728a91139b2bf9de92e80d22022f6969becf057a52e0bbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-488-2004",
+   "path": "ordin/economie/2004/488",
+   "short": "Ordin economie nr. 488/2004",
+   "title": "Ordinul nr. 488/2004 pentru modificarea și completarea Prescripției tehnice PT R6-2002, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, exploatarea, repararea și verificarea tehnică a ascensoarelor electrice și hidraulice de persoane și/sau de materiale\", aprobate prin Ordinul ministrului industriei și resurselor nr. 577/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54073",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54073",
+     "sha256": "c77719568b57ba4677a8d6534fc5b08839aff39d29664dc06af8cb0e9eb711fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-489-2004",
+   "path": "ordin/economie/2004/489",
+   "short": "Ordin economie nr. 489/2004",
+   "title": "Ordinul nr. 489/2004 pentru modificarea și completarea Prescripției tehnice PT R7-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane telecabine\", aprobate prin Ordinul ministrului industriei și resurselor nr. 108/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54074",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54074",
+     "sha256": "5885a42a3e7644858fa700c816725d9c7636679b1b88f9cfda99839bd318bb0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-490-2004",
+   "path": "ordin/economie/2004/490",
+   "short": "Ordin economie nr. 490/2004",
+   "title": "Ordinul nr. 490/2004 pentru modificarea și completarea Prescripției tehnice PT R8-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane telegondole\", aprobată prin Ordinul ministrului industriei și resurselor nr. 109/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54176",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54176",
+     "sha256": "a36783a05325d294af07841d1d704f03a458c5309da8dd9d42021b2f0c8610fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-491-2004",
+   "path": "ordin/economie/2004/491",
+   "short": "Ordin economie nr. 491/2004",
+   "title": "Ordinul nr. 491/2004 pentru modificarea și completarea Prescripției tehnice PT R 9-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telescaune\", aprobată prin Ordinul ministrului industriei și resurselor nr. 99/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54157",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54157",
+     "sha256": "c977c37fc69698349e3f51a149b79462dfb1d61e66417b768ec7a2f903673ef5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-492-2004",
+   "path": "ordin/economie/2004/492",
+   "short": "Ordin economie nr. 492/2004",
+   "title": "Ordinul nr. 492/2004 pentru modificarea și completarea Prescripției tehnice PT R10-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - teleschiuri și telesănii\", aprobată prin Ordinul ministrului industriei și resurselor nr. 100/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54177",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54177",
+     "sha256": "fb2815a0a88e0e6f3454a02b7a1fc9f5d5f3e003b840780622bd5ded7273c2b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-493-2004",
+   "path": "ordin/economie/2004/493",
+   "short": "Ordin economie nr. 493/2004",
+   "title": "Ordinul nr. 493/2004 pentru modificarea și completarea Prescripției tehnice PT R 11-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe plan înclinat pentru persoane\", aprobată prin Ordinul ministrului industriei și resurselor nr. 101/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54279",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54279",
+     "sha256": "78fc635d3c3524928e385c17a8d2d3bb795df5416e344ffdf32b89e8d80295cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-494-2004",
+   "path": "ordin/economie/2004/494",
+   "short": "Ordin economie nr. 494/2004",
+   "title": "Ordinul nr. 494/2004 pentru modificarea și completarea Prescripției tehnice PT R 12-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, repararea, întreținerea, revizia, verificarea și exploatarea telefericelor pentru materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 102/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54280",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54280",
+     "sha256": "b7ad5d7431cd3e6018f69e4ddb451481bd20483d81d8c256ba68d7bf4124ad55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-495-2004",
+   "path": "ordin/economie/2004/495",
+   "short": "Ordin economie nr. 495/2004",
+   "title": "Ordinul nr. 495/2004 pentru modificarea și completarea Prescripției tehnice PT R 13-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor cu schip\", aprobată prin Ordinul ministrului industriei și resurselor nr. 106/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54178",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54178",
+     "sha256": "c69f30aab30ecb26b162f303061df05571e521efaa1281f08f65b37bd7b31324"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-496-2004",
+   "path": "ordin/economie/2004/496",
+   "short": "Ordin economie nr. 496/2004",
+   "title": "Ordinul nr. 496/2004 pentru modificarea și completarea Prescripției tehnice PT R 14-2002, ediția 1, \"Cerințe tehnice privind introducerea pe piață și verificarea în exploatare a cablurilor, lanțurilor, benzilor, funiilor, cârligelor și elementelor de legare și prindere a sarcinii utilizate la instalații de ridicat\", aprobată prin Ordinul ministrului industriei și resurselor nr. 643/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54281",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54281",
+     "sha256": "a7c9c144acda3ed786b23049d06b4f9f6b19c99c1e02be266acb1b5b64f5e294"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-497-2004",
+   "path": "ordin/economie/2004/497",
+   "short": "Ordin economie nr. 497/2004",
+   "title": "Ordinul nr. 497/2004 pentru modificarea și completarea Prescripției tehnice PT R 15-2003, ediția 1, ”Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor pentru șantiere de construcții”, aprobată prin Ordinul ministrului industriei și resurselor nr. 105/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54179",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54179",
+     "sha256": "b1543d89755fdde75020b12d6b60675270c774ba9011824ec21d10352b449bb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-498-2004",
+   "path": "ordin/economie/2004/498",
+   "short": "Ordin economie nr. 498/2004",
+   "title": "Ordinul nr. 498/2004 privind modificarea și completarea Prescripției tehnice PT R 16-2003, ediția 1, \"Cerințe tehnice pentru proiectarea, construirea, montarea, repararea, întreținerea, revizia, verificarea și exploatarea instalațiilor de transport pe plan înclinat pentru materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 103/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54046",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54046",
+     "sha256": "6f9f59597c0e8fe9f6f63c45dbf5efbeefeee3ac61ee3f5a761604327a662a6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-499-2004",
+   "path": "ordin/economie/2004/499",
+   "short": "Ordin economie nr. 499/2004",
+   "title": "Ordinul nr. 499/2004 pentru modificarea și completarea Prescripției tehnice PT R 17-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor de construcție specială pentru materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 104/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54047",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54047",
+     "sha256": "6eb0612cf5d0275ead6fc2ddb917ef55bc13784a00b0238ab9f2c04332d81ac3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-500-2004",
+   "path": "ordin/economie/2004/500",
+   "short": "Ordin economie nr. 500/2004",
+   "title": "Ordinul nr. 500/2004 pentru modificarea și completarea Prescripției tehnice PT R 18-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a trapelor de scenă, trapelor de decoruri și instalațiilor de cortine pentru incendiu din sălile de spectacole\", aprobată prin Ordinul ministrului industriei și resurselor nr. 107/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54048",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54048",
+     "sha256": "16f58f89311db729b809eba5f27801b480648b546697f0addd893b8e5ab1dc80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-501-2004",
+   "path": "ordin/economie/2004/501",
+   "short": "Ordin economie nr. 501/2004",
+   "title": "Ordinul nr. 501/2004 pentru modificarea și completarea Prescripției tehnice PT R 19-2002, ediția 1, \"Cerințe tehnice de securitate privind echipamentele și instalațiile montate și utilizate în cadrul parcurilor de distracții și spațiilor de joacă\", aprobată prin Ordinul ministrului industriei și resurselor nr. 98/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54270",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54270",
+     "sha256": "27e6efd5de33773c99e051e4a823552b754a1357429c9ef0c77b1fa162437c74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-510-2004",
+   "path": "ordin/economie/2004/510",
+   "short": "Ordin economie nr. 510/2004",
+   "title": "Ordinul nr. 510/2004 pentru aprobarea modificării procedurii privind autorizarea funcționării în condiții de siguranță a aparatelor consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54158",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54158",
+     "sha256": "93f9a65e56a56e3bbad9f94b130dce5fed4abd42e6a2e30f46c0312be2a29466"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-513-2004",
+   "path": "ordin/economie/2004/513",
+   "short": "Ordin economie nr. 513/2004",
+   "title": "Ordinul nr. 513/2004 privind aprobarea prețului de referință al gazelor naturale extrase în România, începând cu trimestrul al III-lea al anului 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54006",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54006",
+     "sha256": "0f1af21ea71016902ec35851e470713687d54aacd392fedf176b47cb6743151c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-521-2004",
+   "path": "ordin/economie/2004/521",
+   "short": "Ordin economie nr. 521/2004",
+   "title": "Ordinul nr. 521/2004 pentru aprobarea Listei cuprinzând laboratoarele recunoscute care pot întocmi rapoarte de încercări ce atestă conformitatea echipamentelor electrice de joasă tensiune cu cerințele esențiale de securitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54375",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54375",
+     "sha256": "8b6ba9922a21e6d53f3b30befd59d4243dc55efa9e74bca22333899fbe45f7b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-536-2004",
+   "path": "ordin/economie/2004/536",
+   "short": "Ordin economie nr. 536/2004",
+   "title": "Ordinul nr. 536/2004 privind aprobarea Normativului pentru proiectarea, execuția și exploatarea instalațiilor care produc sau utilizează acetilenă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56263",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56263",
+     "sha256": "37764c5029ab38cd8b16938194a88592c6b0b85b3bf13a5e662f026330487cb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-537-2004",
+   "path": "ordin/economie/2004/537",
+   "short": "Ordin economie nr. 537/2004",
+   "title": "Ordinul nr. 537/2004 privind mandatarea Direcției generale resurse minerale, prin Grupul pentru Coordonarea Programului de Închidere și Ecologizare a Minelor, să preia în numele statului, anexele tehnice și dependințele a căror demontare poate periclita securitatea lucrărilor, de la agenții economici care au avut în administrare sau în concesiune minele și carierele pentru care s-a aprobat închiderea definitivă prin hotărâre a Guvernului, începând cu data intrării în vigoare a Hotărârii Guvernului nr. 926/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54666",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54666",
+     "sha256": "9425cb2dbf7c2c003648a93539f55f1957e43bc49c8695881042425ab73679f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-542-2004",
+   "path": "ordin/economie/2004/542",
+   "short": "Ordin economie nr. 542/2004",
+   "title": "Ordinul nr. 542/2004 privind unele măsuri pentru aprobarea organismelor pentru evaluarea conformității echipamentelor sub presiune și a organizațiilor de terță parte pentru efectuarea încercărilor prevăzute la pct. 3.1.2 și 3.1.3 din anexa nr. 1 la Hotărârea Guvernului nr. 584/2004 privind stabilirea condițiilor de introducere pe piață a echipamentelor sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55023",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55023",
+     "sha256": "bf69d50e744cbf195b355d684ef746daef8f9ee390586ed20de1b19fbfe31d82"
     }
    ]
   },
@@ -3018,6 +4308,81 @@
    ]
   },
   {
+   "slug": "ordin-economie-552-2004",
+   "path": "ordin/economie/2004/552",
+   "short": "Ordin economie nr. 552/2004",
+   "title": "Ordinul nr. 552/2004 pentru aprobarea Listei cuprinzând organismele competente recunoscute în domeniul compatibilității electromagnetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54727",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54727",
+     "sha256": "a5bd20114b2a706955e091c287617aff70a3f1a5670181eba2a4184edaedbb33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-58-2004",
+   "path": "ordin/economie/2004/58",
+   "short": "Ordin economie nr. 58/2004",
+   "title": "Ordinul nr. 58/2004 pentru aprobarea normelor tehnice privind proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50048",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50048",
+     "sha256": "52b78407704dbdd6961d4413c2cdd59682687a74ed8c1f22c0e1a0bb08af3386"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-59-2004",
+   "path": "ordin/economie/2004/59",
+   "short": "Ordin economie nr. 59/2004",
+   "title": "Ordinul nr. 59/2004 pentru abrogarea ordinelor ministrului industriei și comerțului și ale ministrului lucrărilor publice și amenajării teritoriului nr. 1.513/11/N/1998 și nr. 126/33/N/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49867",
+   "versions": [
+    {
+     "from": "2004-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49867",
+     "sha256": "1ad648d9c8d7786cd1b4c704b6706eba6e95242a3683205f6443cb263f9b3b11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-6-2004",
+   "path": "ordin/economie/2004/6",
+   "short": "Ordin economie nr. 6/2004",
+   "title": "Ordinul nr. 6/2004 privind măsurile ce se impun pentru perioada ciclului de injecție 2004 în depozitele subterane de înmagazinare a gazelor naturale, pentru asigurarea cantităților destinate completării surselor interne din structura consumului de gaze naturale pe perioada iernii 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49136",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49136",
+     "sha256": "a7edf248a73e80bf234cf9d6b54f59513b73d5b3a9601ab4b203ebeea59932d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-610-2004",
+   "path": "ordin/economie/2004/610",
+   "short": "Ordin economie nr. 610/2004",
+   "title": "Ordinul nr. 610/2004 cu privire la autorizarea și verificarea tehnică periodică a centralelor de uz casnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55183",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55183",
+     "sha256": "39adb876d847ba830a90f64eed6d9cdfda544d945bb2d1ead8a892916ca47226"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-615-2004",
    "path": "ordin/economie/2004/615",
    "short": "Ordin economie nr. 615/2004",
@@ -3029,6 +4394,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56833",
      "sha256": "0ed5989646307cb1defa55d1a8f8a8c22add207642019d647b9d3aea1d44dcff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-630-2004",
+   "path": "ordin/economie/2004/630",
+   "short": "Ordin economie nr. 630/2004",
+   "title": "Ordinul nr. 630/2004 privind aprobarea tipului de ambalaj \"Butoi cilindric din oțel, cu capac nedemontabil, cod 1A1\", produs de \"S. C. 24 ianuarie - S.A. a Company of Uzinsider Ploiești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55204",
+   "versions": [
+    {
+     "from": "2004-09-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55204",
+     "sha256": "e7dff3027f5c765d7da0bbe4d19569dee18c6102aa596b19a4bd70cea0376a68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-633-2004",
+   "path": "ordin/economie/2004/633",
+   "short": "Ordin economie nr. 633/2004",
+   "title": "Ordinul nr. 633/2004 cu privire la abrogarea unor ordine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55431",
+   "versions": [
+    {
+     "from": "2004-09-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55431",
+     "sha256": "32fd0b61d86e18d2b33b313a19ae1b272a7d7194319d31f83cdaba1194d65d10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-634-2004",
+   "path": "ordin/economie/2004/634",
+   "short": "Ordin economie nr. 634/2004",
+   "title": "Ordinul nr. 634/2004 privind aprobarea Strategiei de dezvoltare pe termen mediu a infrastructurii pentru evaluarea conformității, 2004-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55876",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55876",
+     "sha256": "b1e2836ef697db8397233787900f2ff847e2a6e2892850ef42694b0cb98cb610"
     }
    ]
   },
@@ -3048,6 +4458,66 @@
    ]
   },
   {
+   "slug": "ordin-economie-662-2004",
+   "path": "ordin/economie/2004/662",
+   "short": "Ordin economie nr. 662/2004",
+   "title": "Ordinul nr. 662/2004 privind stabilirea unui formular comun pentru prezentarea informațiilor naționale referitoare la calitatea carburanților introduși pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55423",
+   "versions": [
+    {
+     "from": "2004-09-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55423",
+     "sha256": "91317d0cf1db270fe45007183a229c22543bde8f3ce38dc8e9c3f9e8e9292355"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-678-2004",
+   "path": "ordin/economie/2004/678",
+   "short": "Ordin economie nr. 678/2004",
+   "title": "Ordinul nr. 678/2004 pentru aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la instalațiile de transport pe cablu pentru persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55728",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55728",
+     "sha256": "de4e93d340128a496a4608604d703ec0de95419602a42dd2138ea1360ae57c3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-688-2004",
+   "path": "ordin/economie/2004/688",
+   "short": "Ordin economie nr. 688/2004",
+   "title": "Ordinul nr. 688/2004 pentru aprobarea unor măsuri privind recunoașterea în vederea aprobării sau notificării, după caz, a organismelor care realizează evaluarea conformității instalațiilor de transport pe cablu pentru persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55769",
+   "versions": [
+    {
+     "from": "2004-10-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55769",
+     "sha256": "e6da93c240a3e967dca5cb71dfcc385c9a2a101f1b208d73204bde2788a0304f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-698-2004",
+   "path": "ordin/economie/2004/698",
+   "short": "Ordin economie nr. 698/2004",
+   "title": "Ordinul nr. 698/2004 privind aprobarea prețului de referință al gazelor naturale extrase în România, începând cu trimestrul al IV-lea al anului 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55805",
+   "versions": [
+    {
+     "from": "2004-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55805",
+     "sha256": "5bba30db5a365897240d066fdfae5d6aae31811e997468c9e6bee3744d8e856d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-700-2004",
    "path": "ordin/economie/2004/700",
    "short": "Ordin economie nr. 700/2004",
@@ -3059,6 +4529,126 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56334",
      "sha256": "ca93a50dd4751e89940ccfc1b59d1e247e182e3ce8e1ed6a8bac91a0918b9f94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-703-2004",
+   "path": "ordin/economie/2004/703",
+   "short": "Ordin economie nr. 703/2004",
+   "title": "Ordinul nr. 703/2004 privind modificarea Ordinului ministrului economiei și comerțului nr. 289/2004 pentru aprobarea Ghidului de proceduri privind măsuri pentru acordarea de stimulente financiare, prin Agenția Națională pentru Dezvoltarea și Implementarea Programelor de Reconstrucție a Zonelor Miniere, antreprenorilor locali, în vederea angajării și instruirii persoanelor fără loc de muncă din zonele miniere cu grave dezechilibre economice și sociale, ca urmare a restructurării sectorului minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56173",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56173",
+     "sha256": "719bf0a905f40386dd42fd4fa33cad000eae91685e3c8f243ce0872c691e4ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-711-2004",
+   "path": "ordin/economie/2004/711",
+   "short": "Ordin economie nr. 711/2004",
+   "title": "Ordinul nr. 711/2004 pentru abrogarea Ordinului ministrului industriei și resurselor nr. 440/2002 privind aprobarea Regulamentului pentru autorizarea și verificarea personalului care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale și a Regulamentului pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56321",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56321",
+     "sha256": "91e6fbb12b8b6577a3a34819b333e37c2f62245639b6f957f0d3119f4922230c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-713-2004",
+   "path": "ordin/economie/2004/713",
+   "short": "Ordin economie nr. 713/2004",
+   "title": "Ordinul nr. 713/2004 privind modificarea unor prevederi din anexa nr. 1 \"Norme tehnice pentru proiectarea și executarea sistemelor de alimentare cu gaze naturale\" la Ordinul ministrului economiei și comerțului nr. 58/2004 pentru aprobarea normelor tehnice privind proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56355",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56355",
+     "sha256": "f3173537532242e02911b791ec718957999c5db0a798cfd6439e61c3f7a0ff1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-720-2004",
+   "path": "ordin/economie/2004/720",
+   "short": "Ordin economie nr. 720/2004",
+   "title": "Ordinul nr. 720/2004 pentru aprobarea Listei organismelor recunoscute care efectuează evaluarea conformității echipamentelor sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56570",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56570",
+     "sha256": "ca61bf460812d1f3dcf1d94aec6100ff96d66667703be2528715e8e85711fb0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-741-2004",
+   "path": "ordin/economie/2004/741",
+   "short": "Ordin economie nr. 741/2004",
+   "title": "Ordinul nr. 741/2004 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială Filiala \"Uzina Mecanică Cugir\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56574",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56574",
+     "sha256": "c86d97f6cb808f8768395853517e2d3ecfa3642a87e63fe34d296de3cebefea2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-742-2004",
+   "path": "ordin/economie/2004/742",
+   "short": "Ordin economie nr. 742/2004",
+   "title": "Ordinul nr. 742/2004 privind aprobarea Sistemului de monitorizare a calității benzinei și motorinei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56828",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56828",
+     "sha256": "ec80e454bb7db2e07a22d0b084e29f77d583cfc2da8ed37dfe88da69e05afbfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-747-2004",
+   "path": "ordin/economie/2004/747",
+   "short": "Ordin economie nr. 747/2004",
+   "title": "Ordinul nr. 747/2004 privind concesionarea unui serviciu public de distribuție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57731",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57731",
+     "sha256": "d51cc046f8e8108d0a47a4beb86ffd6223e3cf75ee7f92ba3830c0c96cf75cef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-756-2004",
+   "path": "ordin/economie/2004/756",
+   "short": "Ordin economie nr. 756/2004",
+   "title": "Ordinul nr. 756/2004 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială Filiala \"Institutul de Cercetare-Proiectare Sisteme de Producție\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57233",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57233",
+     "sha256": "3d3e944d68ea51c3a4cc68f5316dbe0bd5ce389c90c8ac478271dbad60c3320d"
     }
    ]
   },
@@ -3078,6 +4668,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-782-2004",
+   "path": "ordin/economie/2004/782",
+   "short": "Ordin economie nr. 782/2004",
+   "title": "Ordinul nr. 782/2004 pentru aprobarea Regulamentului privind procedura de atestare tehnico-profesională a specialiștilor în activitatea de proiectare și verificare a planurilor de închidere a obiectivelor miniere și a proiectelor tehnice de execuție a lucrărilor miniere, a specialiștilor în activitatea de asistență tehnică - dirigenție de șantier pentru lucrări miniere și a specialiștilor în activitatea de execuție a lucrărilor miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58695",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58695",
+     "sha256": "239e73212dcef7c20b1be2aacb10641438dbdf6002eadad67de93b8b718de916"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-786-2004",
    "path": "ordin/economie/2004/786",
    "short": "Ordin economie nr. 786/2004",
@@ -3089,6 +4694,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57815",
      "sha256": "397e199c0375550d94ecdde762f35ee2ec4efc352e3b3bb30816f057000db580"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-787-2004",
+   "path": "ordin/economie/2004/787",
+   "short": "Ordin economie nr. 787/2004",
+   "title": "Ordinul nr. 787/2004 privind abrogarea Ordinului ministrului industriei metalurgice nr. 8/1976",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56950",
+   "versions": [
+    {
+     "from": "2004-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56950",
+     "sha256": "ebe411a965d0d47117b202ede2e2fda801361ad07eff30725119f7c0ee235d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-789-2004",
+   "path": "ordin/economie/2004/789",
+   "short": "Ordin economie nr. 789/2004",
+   "title": "Ordinul nr. 789/2004 privind scutirea la plată a obligațiilor comerciale aferente minelor închise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57445",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57445",
+     "sha256": "13fcb3159c26c2d88fb9ff34042fc376842862f7a25fcdc6ce18701ff4666b43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-79-2004",
+   "path": "ordin/economie/2004/79",
+   "short": "Ordin economie nr. 79/2004",
+   "title": "Ordinul nr. 79/2004 privind aprobarea Listei de tarife pentru lucrările efectuate de Biroul Român de Metrologie Legală - LT-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50293",
+   "versions": [
+    {
+     "from": "2004-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50293",
+     "sha256": "ebdb4d3a32dd9c80d1747d17e5e943c2d4d2e2ac13a3c158f90c5ee4e0793329"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-806-2004",
+   "path": "ordin/economie/2004/806",
+   "short": "Ordin economie nr. 806/2004",
+   "title": "Ordinul nr. 806/2004 pentru modificarea ordinelor: 1.507/1996, 113/2001, 371/2002, 40/2003, 322/2003, 58/2004 și 115/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57697",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57697",
+     "sha256": "fe09e2e5d6e90db05f372c0d6198e9487ba3517d316aa22e5c92aea8743f2473"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-811-2004",
+   "path": "ordin/economie/2004/811",
+   "short": "Ordin economie nr. 811/2004",
+   "title": "Ordinul nr. 811/2004 privind aprobarea formularului-tip al Procesului-verbal de constatare și sancționare a contravenției, destinat utilizării în activitatea de control pentru supravegherea pieței, desfășurată de inspectorii ISCIR-SP",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57260",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57260",
+     "sha256": "6d87b41cee63e6de9f1eb0350248674752d6f372c333de58d399912ca9beaba8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-818-2004",
+   "path": "ordin/economie/2004/818",
+   "short": "Ordin economie nr. 818/2004",
+   "title": "Ordinul nr. 818/2004 privind desemnarea ISCIR-CERT ca organism de inspecție pentru controlul respectării cerințelor minime de randament pentru generatoarele de căldură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57614",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57614",
+     "sha256": "9a0ff0849e46284c683577bc01f4dc3628423a93c0cf2f7a06085912fe541970"
     }
    ]
   },
@@ -3108,6 +4803,96 @@
    ]
   },
   {
+   "slug": "ordin-economie-834-2004",
+   "path": "ordin/economie/2004/834",
+   "short": "Ordin economie nr. 834/2004",
+   "title": "Ordinul nr. 834/2004 privind prelungirea termenului de valabilitate a unor licențe automate de export și de import, a căror valabilitate expiră la 31 decembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57997",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57997",
+     "sha256": "72477f8d83a7603e68a281a36069827d997308cbb040ecbe6fdf5b02d82d68d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-838-2004",
+   "path": "ordin/economie/2004/838",
+   "short": "Ordin economie nr. 838/2004",
+   "title": "Ordinul nr. 838/2004 privind unele măsuri pentru desemnarea serviciului tehnic care efectuează încercările pentru motoarele destinate a fi montate pe mașini mobile nerutiere și pentru motoarele secundare destinate vehiculelor pentru transportul rutier de persoane sau de marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58096",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58096",
+     "sha256": "280da0083b6e1ff5c8c7042754044533cd8c7621e55f7914ce0ca74051f361c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-842-2004",
+   "path": "ordin/economie/2004/842",
+   "short": "Ordin economie nr. 842/2004",
+   "title": "Ordinul nr. 842/2004 privind unele măsuri pentru eliminarea licențelor pentru unele produse radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57860",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57860",
+     "sha256": "174076db9cfaec206f51db983bc17e4d293952b34e03fb8ed698e9f296874482"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-843-2004",
+   "path": "ordin/economie/2004/843",
+   "short": "Ordin economie nr. 843/2004",
+   "title": "Ordinul nr. 843/2004 privind modul de administrare a contingentului tarifar exceptat de la plata taxelor vamale la importul în România al unor produse din categoria zahăr rafinat, originare din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57878",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57878",
+     "sha256": "f16671d604b8d610f42baa630cb1a5492b8da8e1bd463d13d895bbd515679467"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-85-2004",
+   "path": "ordin/economie/2004/85",
+   "short": "Ordin economie nr. 85/2004",
+   "title": "Ordinul nr. 85/2004 pentru înlocuirea anexei la Ordinul ministrului industriei și resurselor nr. 227/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50239",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50239",
+     "sha256": "39574b6cd46ffc15686a8875a49d6e1163db46d92d133858d1efc846951ea7a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-855-2004",
+   "path": "ordin/economie/2004/855",
+   "short": "Ordin economie nr. 855/2004",
+   "title": "Ordinul nr. 855/2004 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială Filiala \"ICEMENERG-Service\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58009",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58009",
+     "sha256": "3f00d297e01db9376e0095b6c30f088bb9644f3c3dd7183424cbcee84a7c0b53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-856-2004",
    "path": "ordin/economie/2004/856",
    "short": "Ordin economie nr. 856/2004",
@@ -3119,6 +4904,201 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58707",
      "sha256": "092a5b2c73570c23411296c5d7fc604a83a277bc49060fcaeba4ce42e2cfb246"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-86-2004",
+   "path": "ordin/economie/2004/86",
+   "short": "Ordin economie nr. 86/2004",
+   "title": "Ordinul nr. 86/2004 pentru înlocuirea anexei la Ordinul ministrului industriei și resurselor nr. 139/2003 privind aprobarea listei cuprinzând standardele române care adoptă standarde europene armonizate, ale căror prevederi se referă la echipamente sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50238",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50238",
+     "sha256": "e33b78c2d5071c73aec1b4827dbd293e8c3acc8c6ca3c9ca049a5b3a7302114b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-861-2004",
+   "path": "ordin/economie/2004/861",
+   "short": "Ordin economie nr. 861/2004",
+   "title": "Ordinul nr. 861/2004 privind aprobarea Listei cuprinzând organismele de certificare recunoscute pentru evaluarea conformității jucăriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58292",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58292",
+     "sha256": "3631896781def00bf030c0c17deb2f3caff68f174c76b0a98b44f12f99e7bc35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-872-2004",
+   "path": "ordin/economie/2004/872",
+   "short": "Ordin economie nr. 872/2004",
+   "title": "Ordinul nr. 872/2004 privind unele măsuri pentru recunoașterea organismelor pentru evaluarea conformității echipamentelor sub presiune transportabile noi, pentru reevaluarea conformității și efectuarea inspecțiilor periodice ale echipamentelor sub presiune transportabile existente și pentru exercitarea funcției de supraveghere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58503",
+   "versions": [
+    {
+     "from": "2005-01-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58503",
+     "sha256": "c6379ae87243a6dd42867e692c315e3e3fe21792f0b1026a074d9fa450f65e15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-885-2004",
+   "path": "ordin/economie/2004/885",
+   "short": "Ordin economie nr. 885/2004",
+   "title": "Ordinul nr. 885/2004 pentru înlocuirea anexei la Ordinul ministrului economiei și comerțului nr. 44/2003 privind aprobarea Listei organismelor recunoscute care efectuează evaluarea conformității ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58190",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58190",
+     "sha256": "4ac5ac3db7dfa3e23c4748dce01be38e509815903ff2574b525110fca19bbc07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-892-2004",
+   "path": "ordin/economie/2004/892",
+   "short": "Ordin economie nr. 892/2004",
+   "title": "Ordinul nr. 892/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din Uniunea Europeană (UE) și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58258",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58258",
+     "sha256": "20686f19c063a8220f0d457d3a782f211809d790b5f9b254ba1bfa9b474370d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-893-2004",
+   "path": "ordin/economie/2004/893",
+   "short": "Ordin economie nr. 893/2004",
+   "title": "Ordinul nr. 893/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din Serbia și Muntenegru și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58275",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58275",
+     "sha256": "df48647e17be405270e34408aca5dfadd1d91c183b3e07db16d64d61b6f173fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-894-2004",
+   "path": "ordin/economie/2004/894",
+   "short": "Ordin economie nr. 894/2004",
+   "title": "Ordinul nr. 894/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din Republica Macedonia și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58293",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58293",
+     "sha256": "921fda57e85f2c08510c3e14ed9aca1f36389d7c2818e1f2f020e6b03a3b34db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-895-2004",
+   "path": "ordin/economie/2004/895",
+   "short": "Ordin economie nr. 895/2004",
+   "title": "Ordinul nr. 895/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din Republica Albania și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58294",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58294",
+     "sha256": "4b31707c707d79c2307c0ae9eecaac86b341a7d9ac45c2f7667bc8319753f1ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-896-2004",
+   "path": "ordin/economie/2004/896",
+   "short": "Ordin economie nr. 896/2004",
+   "title": "Ordinul nr. 896/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din Republica Turcia și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58298",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58298",
+     "sha256": "14ba142602d74652d9d294385aa3f3111500a83f56ee24d93fd4b9b69749ba56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-897-2004",
+   "path": "ordin/economie/2004/897",
+   "short": "Ordin economie nr. 897/2004",
+   "title": "Ordinul nr. 897/2004 privind deschiderea unor contingente tarifare la importul în România al unor produse agricole originare din țările membre ale Acordului Central European de Comerț Liber (CEFTA) și modul de administrare a acestor contingente în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58300",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58300",
+     "sha256": "acf26cf52d8a4681ad9db9dd8ade4872a175f9b164633404d7eac7ffc9b7c660"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-905-2004",
+   "path": "ordin/economie/2004/905",
+   "short": "Ordin economie nr. 905/2004",
+   "title": "Ordinul nr. 905/2004 pentru aprobarea Regulamentului privind organizarea și desfășurarea examenului în vederea atribuirii calității de expert tehnic extrajudiciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58496",
+   "versions": [
+    {
+     "from": "2005-01-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58496",
+     "sha256": "35a469cf207b8e85c3951374270c1088f3b9dae3a648b33142ca812a6dca7e15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-907-2004",
+   "path": "ordin/economie/2004/907",
+   "short": "Ordin economie nr. 907/2004",
+   "title": "Ordinul nr. 907/2004 pentru aprobarea Listei organismelor recunoscute care realizează activitatea de eșantionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58489",
+   "versions": [
+    {
+     "from": "2005-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58489",
+     "sha256": "0e1e402a7f09c6a620d0432da8e01c326ddc2827285aa53b493860fc941456bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-909-2004",
+   "path": "ordin/economie/2004/909",
+   "short": "Ordin economie nr. 909/2004",
+   "title": "Ordinul nr. 909/2004 pentru modificarea Ordinului ministrului de stat, ministrul economiei și comerțului, nr. 789/2004 privind scutirea la plată a obligațiilor comerciale aferente minelor închise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58490",
+   "versions": [
+    {
+     "from": "2005-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58490",
+     "sha256": "1b0d2fc921a50ec528b7c95e2c4deb58c7f1c8af4d80cb7a74d6aea7b2931c42"
     }
    ]
   },
@@ -5388,6 +7368,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-338-2004",
+   "path": "ordin/mediu/2004/338",
+   "short": "Ordin mediu nr. 338/2004",
+   "title": "Ordinul nr. 338/2004 pentru aprobarea Procedurii și criteriilor de autorizare pentru persoanele juridice în vederea preluării responsabilității privind realizarea obiectivelor anuale de valorificare și reciclare a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54960",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54960",
+     "sha256": "f7f977e5f9e48380c517b7a8f849519121af8a6e9dd59dc3c7143c0320b964b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-38-smi-2004",
    "path": "ordin/mediu/2004/38-smi",
    "short": "Ordin mediu nr. 38/SMI/2004",
@@ -5399,6 +7394,21 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52679",
      "sha256": "1008b689155d997bca9d64d8568081279d66fe63e14d218e6003f2bb9dbea571"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-751-2004",
+   "path": "ordin/mediu/2004/751",
+   "short": "Ordin mediu nr. 751/2004",
+   "title": "Ordinul nr. 751/2004 privind gestionarea deșeurilor din industria dioxidului de titan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58474",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58474",
+     "sha256": "a165b14227f02c616cc6c9ecf9f57ab020a67891702cff886a0600516b9056a1"
     }
    ]
   },
@@ -6044,6 +8054,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56001",
      "sha256": "22be69fb49e70b040d23e568362a6c2ff999d163d5bfaaf3712a773c808c3b6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-5206-2004",
+   "path": "ordin/revolutionari/2004/5206",
+   "short": "Ordin revolutionari nr. 5206/2004",
+   "title": "Ordinul nr. 5.206/2004 pentru aprobarea Procedurii de emitere, utilizare și decontare a biletelor de călătorie gratuită pentru transportul pe calea ferată a beneficiarilor Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59093",
+   "versions": [
+    {
+     "from": "2005-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59093",
+     "sha256": "ee2c524a9608358c9fc68f173f874eaa2dbe61ab15aea7c4cfc4f104212c9217"
     }
    ]
   },
@@ -8298,6 +10323,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1059-2004",
+   "path": "ordin/transporturi/2004/1059",
+   "short": "Ordin transporturi nr. 1059/2004",
+   "title": "Ordinul nr. 1.059/2004 privind aprobarea derogării de la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 193/2003 pentru aprobarea Reglementărilor aeronautice civile române referitoare la protecția mediului/RACR-PM, ediția 2/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53924",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53924",
+     "sha256": "eaf7e3634ebc1d30290a7e405faae434ff8d5fe33464ae80b93303cce728ab33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1132-2004",
+   "path": "ordin/transporturi/2004/1132",
+   "short": "Ordin transporturi nr. 1132/2004",
+   "title": "Ordinul nr. 1.132/2004 pentru aprobarea Reglementării aeronautice civile române - RACR - ROAII - ESAC Raportarea obligatorie a actelor de intervenție ilicită și a evenimentelor care privesc securitatea aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54739",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54739",
+     "sha256": "9b2c0afef374a653d9a956b53ca254e4d6a7ff9d6de981d55eefada96115cdc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1193-2004",
+   "path": "ordin/transporturi/2004/1193",
+   "short": "Ordin transporturi nr. 1193/2004",
+   "title": "Ordinul nr. 1.193/2004 pentru aprobarea Normelor privind înmatricularea și acordarea marcajului unificat de identificare a vehiculelor de transport feroviar și cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54385",
+   "versions": [
+    {
+     "from": "2004-09-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54385",
+     "sha256": "00b75a7b28c6a90f810f02dbaff103154bac654c3eced8be0663698c43f259db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1439-2004",
+   "path": "ordin/transporturi/2004/1439",
+   "short": "Ordin transporturi nr. 1439/2004",
+   "title": "Ordinul nr. 1.439/2004 privind instituirea procedurii de administrare specială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54836",
+   "versions": [
+    {
+     "from": "2004-08-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54836",
+     "sha256": "edd088a0106ff779bfe6ce973c59f3993755fbe6deb52b0e3585a6d9d848e15d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1502-2004",
    "path": "ordin/transporturi/2004/1502",
    "short": "Ordin transporturi nr. 1502/2004",
@@ -8309,6 +10394,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55307",
      "sha256": "be173d01cad6cbce7a24180c19c6903cdc28c1eb3af53210cdf19b1f4625966c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1600-2004",
+   "path": "ordin/transporturi/2004/1600",
+   "short": "Ordin transporturi nr. 1600/2004",
+   "title": "Ordinul nr. 1.600/2004 pentru organizarea unei verificări profesionale a personalului feroviar cu responsabilități în siguranța circulației feroviare și a celui cu atribuții de conducere, instruire, îndrumare și control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55212",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55212",
+     "sha256": "946a23de315f895fe22f7298f67d6d2b450b02d8f5f06e2363fff0ec95cfe0f6"
     }
    ]
   },
@@ -8328,6 +10428,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1665-2004",
+   "path": "ordin/transporturi/2004/1665",
+   "short": "Ordin transporturi nr. 1665/2004",
+   "title": "Ordinul nr. 1.665/2004 pentru aprobarea Amendamentului nr. 1/2004 la Reglementarea aeronautică civilă română RACR-21/\"Reguli de certificare a produselor aeronautice civile\", ediția nr. 1/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55677",
+   "versions": [
+    {
+     "from": "2004-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55677",
+     "sha256": "a41b5cfe6f064b5bb8d638a0fddf23b931e2736accb5833f7ad9c4fd967b1871"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1889-2004",
+   "path": "ordin/transporturi/2004/1889",
+   "short": "Ordin transporturi nr. 1889/2004",
+   "title": "Ordinul nr. 1.889/2004 pentru aprobarea unor proceduri privind agrementul tehnic în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+     "sha256": "ae7f1f7f21600354f580bef4823c3758e3921a861556f72682298701c45567f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2004-2004",
+   "path": "ordin/transporturi/2004/2004",
+   "short": "Ordin transporturi nr. 2004/2004",
+   "title": "Ordinul nr. 2.004/2004 pentru aprobarea listelor cuprinzând drumurile publice cu limitele maselor și dimensiunilor maxime admise pentru vehicule de transport marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56472",
+   "versions": [
+    {
+     "from": "2004-11-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56472",
+     "sha256": "fb438ff58e79035991fb1494f3fac46dd05e208f03b9fb5f48f01d86664e9ee1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2059-2004",
    "path": "ordin/transporturi/2004/2059",
    "short": "Ordin transporturi nr. 2059/2004",
@@ -8339,6 +10484,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59155",
      "sha256": "3a6f2f8c1a261188e27b06120a7a6172afeecfa323da98a99100d6e7b231ffb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2065-2004",
+   "path": "ordin/transporturi/2004/2065",
+   "short": "Ordin transporturi nr. 2065/2004",
+   "title": "Ordinul nr. 2.065/2004 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59359",
+   "versions": [
+    {
+     "from": "2005-03-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59359",
+     "sha256": "c06c17c1d17afc7e3f7b11b72fb8b0eafc53846f5b1e2d7dc4be815147a737ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2132-2004",
+   "path": "ordin/transporturi/2004/2132",
+   "short": "Ordin transporturi nr. 2132/2004",
+   "title": "Ordinul nr. 2.132/2004 pentru aprobarea Listei standardelor române care transpun standarde europene armonizate și a specificațiilor tehnice recunoscute în domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57204",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57204",
+     "sha256": "e66c12efa46e07b463c1803f6df8baccba02b65c9810981a3ded4adfadaaa9d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2133-2004",
+   "path": "ordin/transporturi/2004/2133",
+   "short": "Ordin transporturi nr. 2133/2004",
+   "title": "Ordinul nr. 2.133/2004 pentru aprobarea unor măsuri privind organizarea și funcționarea Comisiei de recunoaștere a organismelor desemnate pentru atestarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57163",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57163",
+     "sha256": "702e16e4eb4e000d09be9f3d6e9b287a71a28efd5060e388f17d7f047797844c"
     }
    ]
   },
@@ -8358,6 +10548,261 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2175-2004",
+   "path": "ordin/transporturi/2004/2175",
+   "short": "Ordin transporturi nr. 2175/2004",
+   "title": "Ordinul nr. 2.175/2004 pentru aprobarea Reglementării aeronautice civile române RACR-SUD/ \"Autorizarea sudorilor din aeronautica civilă\", ediția 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57680",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57680",
+     "sha256": "6e82aa2f67eceea199082f76c065bc08c3c7ec1688dcfd07483bd52533357415"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2224-2004",
+   "path": "ordin/transporturi/2004/2224",
+   "short": "Ordin transporturi nr. 2224/2004",
+   "title": "Ordinul nr. 2.224/2004 pentru stabilirea unor reguli privind transportul mărfurilor periculoase pe calea ferată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57639",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57639",
+     "sha256": "6ee6ccc107d72c6a23cdc6098b474869eb65dbed513c3ca5373597b20539e535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2239-2004",
+   "path": "ordin/transporturi/2004/2239",
+   "short": "Ordin transporturi nr. 2239/2004",
+   "title": "Ordinul nr. 2.239/2004 privind instituirea unor măsuri de creștere a siguranței navigației în apele naționale navigabile și în porturile românești prin introducerea accelerată, pentru navele petroliere, a obligativității corpului dublu sau a unor cerințe echivalente de proiectare pentru navele petroliere cu corp simplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58586",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58586",
+     "sha256": "dd5263ecc2bffbbb9f2293638604a98f9236c6bdfa64ab46150b79f95ac74c31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2269-2004",
+   "path": "ordin/transporturi/2004/2269",
+   "short": "Ordin transporturi nr. 2269/2004",
+   "title": "Ordinul nr. 2.269/2004 pentru aprobarea modificării și completării Ordinului ministrului transporturilor nr. 340/1999 privind aprobarea Normelor pentru acordarea autorizației de funcționare, din punct de vedere tehnic, a stațiilor de cale ferată aflate în exploatare sau cu ocazia construcției, reparației ori modernizării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58614",
+   "versions": [
+    {
+     "from": "2005-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58614",
+     "sha256": "b5d7f20a4142b432065579fb445cc3bb572ded5cf650d08f54db0721a48c6434"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2316-2004",
+   "path": "ordin/transporturi/2004/2316",
+   "short": "Ordin transporturi nr. 2316/2004",
+   "title": "Ordinul nr. 2.316/2004 pentru aprobarea Normelor tehnice privind stabilitatea navelor Ro-Ro pasager, cod MTCT.ANR-NSRP-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59144",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59144",
+     "sha256": "2db61925b7eb2d88c0887eb7769f15ae55edf7e0582a7ddda9ba3acdd21b219b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2319-2004",
+   "path": "ordin/transporturi/2004/2319",
+   "short": "Ordin transporturi nr. 2319/2004",
+   "title": "Ordinul nr. 2.319/2004 pentru aprobarea Actului constitutiv al Companiei Naționale de Investiții \"C.N.I.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58876",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58876",
+     "sha256": "e50e4327ae802f7e63b4ece87fc9d11cacdbad3725b8a7a11b18d2859c176224"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2333-2004",
+   "path": "ordin/transporturi/2004/2333",
+   "short": "Ordin transporturi nr. 2333/2004",
+   "title": "Ordinul nr. 2.333/2004 privind aprobarea de tarife pentru prestații și servicii specifice efectuate de Centrul Național de Calificare și Instruire Feroviară - CENAFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58509",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58509",
+     "sha256": "0005c3d6d94736fec5a6ad2dca29c0a5de9d7e53e43b49a13a939e0c79b5e424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2342-2004",
+   "path": "ordin/transporturi/2004/2342",
+   "short": "Ordin transporturi nr. 2342/2004",
+   "title": "Ordinul nr. 2.342/2004 privind încetarea procedurii de administrare specială la Societatea Comercială \"Antrepriza Lucrări Drumuri și Poduri Bacău\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58546",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58546",
+     "sha256": "2875764bad49ddb039bdfcd723a0c14dd969d0ea4f57ccbaf39e46aa3922767b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-266-2004",
+   "path": "ordin/transporturi/2004/266",
+   "short": "Ordin transporturi nr. 266/2004",
+   "title": "Ordinul nr. 266/2004 privind unele derogări de la prevederile Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 1.835/2002 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49890",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49890",
+     "sha256": "0ea2083e11668df3e1bb3a282ebd6119194fc47946cbf7d3b45563bfb9575452"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-276-2004",
+   "path": "ordin/transporturi/2004/276",
+   "short": "Ordin transporturi nr. 276/2004",
+   "title": "Ordinul nr. 276/2004 privind aprobarea procedurilor de inspecție și supraveghere a operării navelor tip tanc pentru transportul de produse petroliere, de gaze lichefiate și de produse chimice în terminalele din porturile românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50033",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50033",
+     "sha256": "6a359805febd8a6d0e1ecc285c95eecb6bd419f051e07285bf5f158e751e6114"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-280-2004",
+   "path": "ordin/transporturi/2004/280",
+   "short": "Ordin transporturi nr. 280/2004",
+   "title": "Ordinul nr. 280/2004 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de către Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50193",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50193",
+     "sha256": "427bb5f7b261566ef862a022348b677755ee8cf648efe65880e5eadbe6ef2204"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-295-2004",
+   "path": "ordin/transporturi/2004/295",
+   "short": "Ordin transporturi nr. 295/2004",
+   "title": "Ordinul nr. 295/2004 pentru aplicarea în România a Cerinței EUROCONTROL \"ESARR 2\", ediția 2.0/2000, referitoare la raportarea și evaluarea evenimentelor privind siguranța în managementul traficului aerian ATM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50222",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50222",
+     "sha256": "d50c78917c8a6931124c64a9c5925121e87aa2f41740f4cc297e0475b9ce875d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-455-2004",
+   "path": "ordin/transporturi/2004/455",
+   "short": "Ordin transporturi nr. 455/2004",
+   "title": "Ordinul nr. 455/2004 pentru aprobarea Normelor metodologice privind autorizarea, clasificarea, avizarea și controlul activităților de turism în zona costieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50541",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50541",
+     "sha256": "31a1637c704032673ea1321d6f3d44aa5f2e9524eecc86ad062f5eac39150296"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-471-2004",
+   "path": "ordin/transporturi/2004/471",
+   "short": "Ordin transporturi nr. 471/2004",
+   "title": "Ordinul nr. 471/2004 pentru aprobarea reglementării tehnice \"Normativ privind evaluarea stării de degradare a îmbrăcăminților din beton de ciment ale suprafețelor aeroportuare\", indicativ NP-085-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51757",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51757",
+     "sha256": "277e074c573bac4047bc9ed1249ec421ed37bcf79bc96bf19de269c78ddc85dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-538-2004",
+   "path": "ordin/transporturi/2004/538",
+   "short": "Ordin transporturi nr. 538/2004",
+   "title": "Ordinul nr. 538/2004 pentru aprobarea Normelor specifice privind componența și modul de lucru ale comisiei de evaluare, termenele de realizare a licitațiilor, precum și procedura de soluționare a contestațiilor pentru licitațiile având ca obiect închirierea secțiilor de circulație aparținând infrastructurii feroviare neinteroperabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51210",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51210",
+     "sha256": "fed4534f77e3c42a0131daf94583b6dbca1c116f4a3ce9602041fa5bcb99aed3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-573-2004",
+   "path": "ordin/transporturi/2004/573",
+   "short": "Ordin transporturi nr. 573/2004",
+   "title": "Ordinul nr. 573/2004 privind instituirea procedurii de administrare specială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51189",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51189",
+     "sha256": "f19edc54d54faf46879b114efb122624596f64b3691bcbd553c77b00b8f056e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-617-2004",
+   "path": "ordin/transporturi/2004/617",
+   "short": "Ordin transporturi nr. 617/2004",
+   "title": "Ordinul nr. 617/2004 pentru aprobarea Reglementării aeronautice civile române privind evaluarea și reducerea riscului în managementul traficului aerian - RACR ESARR 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51077",
+   "versions": [
+    {
+     "from": "2004-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51077",
+     "sha256": "b58b5d2586888ea17e02afa947e54b806bc7efab298631f64f5287c94f4fd23a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-618-2004",
    "path": "ordin/transporturi/2004/618",
    "short": "Ordin transporturi nr. 618/2004",
@@ -8369,6 +10814,96 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51209",
      "sha256": "131f921188ae5c3cf9d62915b31ded5ae97c0d079d4805431a0ad82f85589851"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-637-2004",
+   "path": "ordin/transporturi/2004/637",
+   "short": "Ordin transporturi nr. 637/2004",
+   "title": "Ordinul nr. 637/2004 pentru aprobarea Normelor metodologice privind condițiile și criteriile pentru selecționarea, școlarizarea, atestarea și utilizarea ghizilor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52677",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52677",
+     "sha256": "3951597998c8192200261329bbcaf23b207959b83e1d7447ebaaaf7fb7547a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-650-2004",
+   "path": "ordin/transporturi/2004/650",
+   "short": "Ordin transporturi nr. 650/2004",
+   "title": "Ordinul nr. 650/2004 pentru aprobarea Reglementării aeronautice civile române privind licențierea personalului meteorologic aeronautic RACR- LMET",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56036",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56036",
+     "sha256": "7dcffa7def9a642be51316f4e1975712f06c61ec07e0bc4e198457a642b0f883"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-691-2004",
+   "path": "ordin/transporturi/2004/691",
+   "short": "Ordin transporturi nr. 691/2004",
+   "title": "Ordinul nr. 691/2004 privind aprobarea Normelor pentru acordarea autorizației de gestionare a infrastructurii feroviare neinteroperabile preluate prin închiriere de la Compania Națională de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51393",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51393",
+     "sha256": "39f5612bacde153d0b5f4cb8dc52b29f3a1a24dacccea9f644bceb517a9ca4b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-879-2004",
+   "path": "ordin/transporturi/2004/879",
+   "short": "Ordin transporturi nr. 879/2004",
+   "title": "Ordinul nr. 879/2004 pentru aprobarea Reglementării aeronautice civile române privind metode și echipamente de degivrare/antigivrare a avioanelor la sol, RACR-AD-MEDA, ediția 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51937",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51937",
+     "sha256": "21f8f1bb44eea6e3a9273204b8af64d983b46af2b10cd67fccea4695ecd58171"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-885-2004",
+   "path": "ordin/transporturi/2004/885",
+   "short": "Ordin transporturi nr. 885/2004",
+   "title": "Ordinul nr. 885/2004 pentru aprobarea Normelor tehnice privind măsurarea tonajului navelor maritime care arborează pavilionul român și nu efectuează voiaje internaționale, cod MTCT.ANR-TNM-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52149",
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52149",
+     "sha256": "b79bfb254daa0384acb447826c11edbfd3b901bfb55f2d4fa9219cb7f7c08bef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-977-2004",
+   "path": "ordin/transporturi/2004/977",
+   "short": "Ordin transporturi nr. 977/2004",
+   "title": "Ordinul nr. 977/2004 pentru aprobarea Reglementării aeronautice civile române RACR-11 \"Elaborarea și emiterea reglementărilor aeronautice civile române și a procedurilor de aplicare a acestora\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52960",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52960",
+     "sha256": "1b9ff0cd5ec924086fe55b1e63cd6eb661cff02d50be47021ea5e60868047246"
     }
    ]
   }

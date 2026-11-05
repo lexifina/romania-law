@@ -4845,6 +4845,36 @@
    ]
   },
   {
+   "slug": "hg-286-2000",
+   "path": "hg/2000/286",
+   "short": "HG nr. 286/2000",
+   "title": "Hotărârea Guvernului nr. 286/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Macon\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21972",
+   "versions": [
+    {
+     "from": "2000-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21972",
+     "sha256": "81dfb8dda7064080771010dee359984bf91c8422d9e7ef787a2d995a41b283fd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-287-2000",
+   "path": "hg/2000/287",
+   "short": "HG nr. 287/2000",
+   "title": "Hotărârea Guvernului nr. 287/2000 privind aprobarea Acordului de concesiune a unor perimetre de explorare, dezvoltare şi exploatare petrolieră, încheiat între Agenţia Naţionala pentru Resurse Minerale şi Societatea Naţionala a Petrolului \"Petrom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21973",
+   "versions": [
+    {
+     "from": "2000-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21973",
+     "sha256": "80d91a27bf0e90dd72b230452b05ea66d6d853c061067e418e476c3294cb6bef"
+    }
+   ]
+  },
+  {
    "slug": "hg-288-2000",
    "path": "hg/2000/288",
    "short": "HG nr. 288/2000",
@@ -4860,6 +4890,21 @@
    ]
   },
   {
+   "slug": "hg-289-2000",
+   "path": "hg/2000/289",
+   "short": "HG nr. 289/2000",
+   "title": "Hotărârea Guvernului nr. 289/2000 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Mindo\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21975",
+   "versions": [
+    {
+     "from": "2000-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21975",
+     "sha256": "cc2652257ebe5cd7d1e6c9776afc12d74c9889e82883fef54138b4471cd139dd"
+    }
+   ]
+  },
+  {
    "slug": "hg-29-2000",
    "path": "hg/2000/29",
    "short": "HG nr. 29/2000",
@@ -4871,6 +4916,111 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20600",
      "sha256": "59b4c3c2a8e91212cee48b49cb53d91f30872013ca89b62dc67edeccf745db6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-291-2000",
+   "path": "hg/2000/291",
+   "short": "HG nr. 291/2000",
+   "title": "Hotărârea Guvernului nr. 291/2000 privind aprobarea unor licenţe de concesiune a activităţii de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Macon\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21977",
+   "versions": [
+    {
+     "from": "2000-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21977",
+     "sha256": "6c4505829dd825ed774e26bb23b66fd54cadef9997613f8d14f5e87af78238f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-293-2000",
+   "path": "hg/2000/293",
+   "short": "HG nr. 293/2000",
+   "title": "Hotărârea Guvernului nr. 293/2000 privind stabilirea măsurilor pentru organizarea şi desfăşurarea alegerilor locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21926",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21926",
+     "sha256": "361aa6ec2157c902fd67ff4fc62ab0eca0b72762440be4b8acdefbdf92137310"
+    }
+   ]
+  },
+  {
+   "slug": "hg-294-2000",
+   "path": "hg/2000/294",
+   "short": "HG nr. 294/2000",
+   "title": "Hotărârea Guvernului nr. 294/2000 privind aprobarea Programului calendaristic pentru realizarea activităţilor referitoare la organizarea şi desfăşurarea alegerilor locale din data de 4 iunie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21927",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21927",
+     "sha256": "772f4b60e8bd0f571ce5c3f4818f39ca1617ca9ddc4ffe90284634b4f03764c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-295-2000",
+   "path": "hg/2000/295",
+   "short": "HG nr. 295/2000",
+   "title": "Hotărârea Guvernului nr. 295/2000 privind aprobarea modelului buletinelor de vot care vor fi folosite la alegerile locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21928",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21928",
+     "sha256": "51881c24bf8f611d3abc5874be604d9209d6f4dd9de4547a2ed7e26b3d01606c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-296-2000",
+   "path": "hg/2000/296",
+   "short": "HG nr. 296/2000",
+   "title": "Hotărârea Guvernului nr. 296/2000 privind modelul stampilelor care vor fi folosite la alegerile locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21929",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21929",
+     "sha256": "b0d808895d32974105964b4fd0b930b7db18854d92a2ac8599b99a0a63b5f67c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-297-2000",
+   "path": "hg/2000/297",
+   "short": "HG nr. 297/2000",
+   "title": "Hotărârea Guvernului nr. 297/2000 privind modelul listelor electorale pentru alegerile locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21930",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21930",
+     "sha256": "a1c8c3ae0058cd7f7b1a5159ea36ba0fe51ec63ec97204cd5f5d1d757dc0cf4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-298-2000",
+   "path": "hg/2000/298",
+   "short": "HG nr. 298/2000",
+   "title": "Hotărârea Guvernului nr. 298/2000 privind numerotarea circumscripţiilor electorale judeţene pentru alegerile locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21931",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21931",
+     "sha256": "debdf7295c8ff529046b4804d2edaeafcaa6904d48f20268b2708b5a43bf53c0"
     }
    ]
   },

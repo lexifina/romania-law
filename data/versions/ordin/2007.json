@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-640-2007",
+   "path": "ordin/agricultura/2007/640",
+   "short": "Ordin agricultura nr. 640/2007",
+   "title": "Ordinul nr. 640/2007 privind aprobarea metodologiilor de întocmire, avizare și aprobare a documentațiilor necesare scoaterii din circuitul agricol/forestier, fără plata taxelor și a altor sume prevăzute de art. 92 alin. (4) din Legea fondului funciar nr. 18/1991, de art. 55, 56 și 58 din Legea nr. 26/1996 - Codul silvic și de art. 24 alin. (2) din Ordonanța Guvernului nr. 96/1998 privind reglementarea regimului silvic și administrarea fondului forestier național, a terenurilor destinate construcției de drumuri de interes național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85138",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85138",
+     "sha256": "451164728808c2a6875c5c868c4187d26f97cbabc1a2187d42b495e37f44dd07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-642-2007",
    "path": "ordin/agricultura/2007/642",
    "short": "Ordin agricultura nr. 642/2007",
@@ -2939,6 +2954,81 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80888",
      "sha256": "2cadb4c0a29afa7d747c15bce9bd151d85c89a17ddad0eca22ee8cfc6ae6dc71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1510-2007",
+   "path": "ordin/economie/2007/1510",
+   "short": "Ordin economie nr. 1510/2007",
+   "title": "Ordinul nr. 1.510/2007 privind modificarea Ordinului ministrului economiei și comerțului nr. 324/2005 pentru aprobarea Regulamentului privind monitorizarea și controlul specialiștilor atestați pentru lucrările de montaj pentru utilaje, echipamente și instala&#8592;îi tehnologice industriale, în conformitate cu prevederile Ordonanței Guvernului nr. 95/1999 privind calitatea lucrărilor de montaj al dotărilor tehnologice industriale, aprobată cu modificări prin Legea nr. 440/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79180",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79180",
+     "sha256": "ee1abc4525036331d33c910bf647e352109cce7217cc8cb3ef35464265d6e0b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1511-2007",
+   "path": "ordin/economie/2007/1511",
+   "short": "Ordin economie nr. 1511/2007",
+   "title": "Ordinul nr. 1.511/2007 privind modificarea anexei nr. 4 la Prescripțiile tehnice de stabilire a tarifelor percepute de Agenția Română pentru Conservarea Energiei (ARCE) pentru activitățile proprii de autorizare, avizare, certificare, atestare, ce decurg din atribuțiile și responsabilitățile acesteia, în conformitate cu prevederile Hotărârii Guvernului nr. 941/2002, aprobate prin Ordinul ministrului industriei și resurselor nr. 578/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78985",
+   "versions": [
+    {
+     "from": "2007-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78985",
+     "sha256": "6689040ea08ec62c904b3afa5776dc73d7a1d6e16f39e819a32e0b82be83d41a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1593-2007",
+   "path": "ordin/economie/2007/1593",
+   "short": "Ordin economie nr. 1593/2007",
+   "title": "Ordinul nr. 1.593/2007 pentru aprobarea unor măsuri privind desemnarea organismelor care realizează evaluarea conformității echipamentelor destinate utilizării în exteriorul clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80933",
+   "versions": [
+    {
+     "from": "2007-04-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80933",
+     "sha256": "47219435cd8afca89a9ff9e39948cdbd870f6f509b7100cf6b9339adac72df47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1600-2007",
+   "path": "ordin/economie/2007/1600",
+   "short": "Ordin economie nr. 1600/2007",
+   "title": "Ordinul nr. 1.600/2007 pentru modificarea Ordinului ministrului economiei și comerțului nr. 668/2006 privind instituirea procedurii de administrare specială și de supraveghere financiară la Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81159",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81159",
+     "sha256": "dddb13bc1e36b31ae4c05f48fbedf900179277678654db8e88979ba056d46ce8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1609-2007",
+   "path": "ordin/economie/2007/1609",
+   "short": "Ordin economie nr. 1609/2007",
+   "title": "Ordinul nr. 1.609/2007 pentru aprobarea instituirii schemelor de ajutor de minimis pentru acțiunile de promovare a exportului privind participarea la târguri și expoziții internaționale în străinătate, organizarea de misiuni economice și acțiuni de promovare a exporturilor în străinătate și realizarea de studii de piață și pe produse, inclusiv pentru obiective complexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81161",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81161",
+     "sha256": "397efdb077d3b3afbec971e706a205a2fe1b9737a9f0340642c51c1a77685416"
     }
    ]
   },
@@ -8403,6 +8493,81 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1058-2007",
+   "path": "ordin/transporturi/2007/1058",
+   "short": "Ordin transporturi nr. 1058/2007",
+   "title": "Ordinul nr. 1.058/2007 pentru aprobarea Normelor metodologice privind activitatea de control al respectării perioadelor de conducere, pauzelor și perioadelor de odihnă ale conducătorilor auto și al utilizării aparatelor de înregistrare a activității acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86384",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86384",
+     "sha256": "8b9eb0b0858c6ee990f9057de1d5e946a58953aa2f3fcf8c29c2006964b5d21f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1064-2007",
+   "path": "ordin/transporturi/2007/1064",
+   "short": "Ordin transporturi nr. 1064/2007",
+   "title": "Ordinul nr. 1.064/2007 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86421",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86421",
+     "sha256": "0fbe8caa7c00805f5148a91532c511d4e5d6dda7048d1ced62351dc88c5c995f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1172-2007",
+   "path": "ordin/transporturi/2007/1172",
+   "short": "Ordin transporturi nr. 1172/2007",
+   "title": "Ordinul nr. 1.172/2007 privind aprobarea Normei tehnice feroviare \"Vehicule de cale ferată. Prescripții tehnice pentru revizia și repararea planificată a locomotivei diesel-hidraulice de 1.250 CP\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87769",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87769",
+     "sha256": "ecadea42960259c30253232ee10fb04fdb30921f189b76fffa3a2af92d31c899"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1189-2007",
+   "path": "ordin/transporturi/2007/1189",
+   "short": "Ordin transporturi nr. 1189/2007",
+   "title": "Ordinul nr. 1.189/2007 privind aprobarea formei, modelului și conținutului legitimațiilor speciale pentru personalul însărcinat cu investigarea accidentelor și incidentelor din sistemul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87172",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87172",
+     "sha256": "01d92bfdcf1b5b269f45181012481d36309788cbe1a71bf809b4e190c72919b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-121-2007",
+   "path": "ordin/transporturi/2007/121",
+   "short": "Ordin transporturi nr. 121/2007",
+   "title": "Ordinul nr. 121/2007 privind organizarea secțiilor de votare pe navele și platformele marine aflate sub pavilion român, aflate în navigație, în ziua referendumului național din data de 19 mai 2007 pentru demiterea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81873",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81873",
+     "sha256": "a333d0a3030c6ba009300b92d1e4e34df2cbc1be6116319c5e43ed1a4c986f33"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1214-2007",
    "path": "ordin/transporturi/2007/1214",
    "short": "Ordin transporturi nr. 1214/2007",
@@ -8414,6 +8579,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88611",
      "sha256": "a96ad46ab21438d15f4b01fb68b9c79eebd9825fbdb80d16e5a144f206f7b6fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1261-2007",
+   "path": "ordin/transporturi/2007/1261",
+   "short": "Ordin transporturi nr. 1261/2007",
+   "title": "Ordinul nr. 1.261/2007 pentru aprobarea Reglementării aeronautice civile române RACR - PM \"Protecția mediului\", ediția 3/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87710",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87710",
+     "sha256": "14dfe77f70baab3712c685fb7cfe9aad72747dd44aa38c47292741388702bfe3"
     }
    ]
   },
@@ -8433,6 +8613,156 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1354-2007",
+   "path": "ordin/transporturi/2007/1354",
+   "short": "Ordin transporturi nr. 1354/2007",
+   "title": "Ordinul nr. 1.354/2007 privind stabilirea criteriilor minime pe care trebuie să le îndeplinească furnizorii de educație, de formare profesională sau de perfecționare pentru a organiza și desfășura forme de pregătire și perfecționare aprobate, în vederea obținerii și menținerii valabilității brevetelor și certificatelor de capacitate a personalului navigant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88462",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88462",
+     "sha256": "d66317f482004d7cb7898a44d24fa78031e4c07d89fcb92b6fa0ae628c922d9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1355-2007",
+   "path": "ordin/transporturi/2007/1355",
+   "short": "Ordin transporturi nr. 1355/2007",
+   "title": "Ordinul nr. 1.355/2007 pentru aprobarea Normelor privind instalarea și inspecția tehnică a tahografelor la bordul navelor de navigație interioară care arborează pavilion român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88443",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88443",
+     "sha256": "eff791b996b41435586963b3ee77b4630e911a1039293885e1eb4300ac3c3856"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1363-2007",
+   "path": "ordin/transporturi/2007/1363",
+   "short": "Ordin transporturi nr. 1363/2007",
+   "title": "Ordinul nr. 1.363/2007 privind înființarea Aeroclubului Teritorial Caransebeș ca subunitate fără personalitate juridică, în compunerea Aeroclubului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88463",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88463",
+     "sha256": "26dde3157f57e939f6fe37c5fd299009510485a3667a9da678369920e052cf62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-145-2007",
+   "path": "ordin/transporturi/2007/145",
+   "short": "Ordin transporturi nr. 145/2007",
+   "title": "Ordinul nr. 145/2007 pentru aprobarea limitelor admisibile de perisabilitate pentru produsele din unitățile din rețeaua sanitară proprie a Ministerului Transporturilor, Construcțiilor și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79391",
+   "versions": [
+    {
+     "from": "2007-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79391",
+     "sha256": "778da6e9e06870604b24e1dab759f644c338b46ed1205d7f2d9482d6447b5767"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-21-2007",
+   "path": "ordin/transporturi/2007/21",
+   "short": "Ordin transporturi nr. 21/2007",
+   "title": "Ordinul nr. 21/2007 pentru aprobarea Reglementării aeronautice civile române RACR-RA, Regulile aerului, ediția 02/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79065",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79065",
+     "sha256": "9c106a3ddca534c91c153fdf36666fc43dfbb581c0ec518e470aec6eec8af0fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-214-2007",
+   "path": "ordin/transporturi/2007/214",
+   "short": "Ordin transporturi nr. 214/2007",
+   "title": "Ordinul nr. 214/2007 pentru aprobarea criteriilor minime de pregătire și perfecționare a personalului navigant maritim și maritim-portuar român care nu intră sub incidența Convenției STCW",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79658",
+   "versions": [
+    {
+     "from": "2007-02-20",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79658",
+     "sha256": "9229ba4470b71ec43739779c0f01f46fc3825a3a1dad001a5098a0fb8737ea03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-215-2007",
+   "path": "ordin/transporturi/2007/215",
+   "short": "Ordin transporturi nr. 215/2007",
+   "title": "Ordinul nr. 215/2007 pentru aprobarea formei și conținutului Registrului de evidență a personalului navigant român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79565",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79565",
+     "sha256": "e6fad53c0d375ae17abab38b8de68115b7756372174adeec18685cf6f5605880"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-239-2007",
+   "path": "ordin/transporturi/2007/239",
+   "short": "Ordin transporturi nr. 239/2007",
+   "title": "Ordinul nr. 239/2007 pentru aprobarea tarifelor din transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82417",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82417",
+     "sha256": "1e4050dc3782feb68be49405acbac2e52a17c99ad1922799315d1f86bfffc4fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-268-2007",
+   "path": "ordin/transporturi/2007/268",
+   "short": "Ordin transporturi nr. 268/2007",
+   "title": "Ordinul nr. 268/2007 privind aprobarea Normelor de organizare și desfășurare a concursurilor pentru ocuparea funcției de manager, persoană fizică, la spitalele publice din rețeaua sanitară a Ministerului Transporturilor, Construcțiilor și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79799",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79799",
+     "sha256": "c4c3c99ca9c29d456f55f7aa4590c0a6167d541996945faaa2a43de1e33e49df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-269-2007",
+   "path": "ordin/transporturi/2007/269",
+   "short": "Ordin transporturi nr. 269/2007",
+   "title": "Ordinul nr. 269/2007 pentru aprobarea Regulamentului privind desemnarea transportatorilor aerieni comunitari în vederea operării serviciilor aeriene în conformitate cu prevederile acordurilor privind serviciile aeriene încheiate de România cu state care nu sunt membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82574",
+   "versions": [
+    {
+     "from": "2007-06-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82574",
+     "sha256": "b107a20def0c377014e8fd0054fedfd229ee54601afe15f96af0e43669c70135"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-280-2007",
    "path": "ordin/transporturi/2007/280",
    "short": "Ordin transporturi nr. 280/2007",
@@ -8448,6 +8778,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-285-2007",
+   "path": "ordin/transporturi/2007/285",
+   "short": "Ordin transporturi nr. 285/2007",
+   "title": "Ordinul nr. 285/2007 pentru aprobarea tarifelor din transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79806",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79806",
+     "sha256": "489bbcdd607a248b16f02b5d63d52f1ea2a8c703420e2599f09e9dbadb6d9e43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-346-2007",
+   "path": "ordin/transporturi/2007/346",
+   "short": "Ordin transporturi nr. 346/2007",
+   "title": "Ordinul nr. 346/2007 pentru aprobarea Normelor metodologice privind desemnarea și notificarea laboratoarelor de încercări, precum și a organismelor de certificare și de inspecție care realizează evaluarea conformității echipamentului maritim",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80220",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80220",
+     "sha256": "5304bd39c85ec711c324e3648d305343a72ebc91c507405964c4cfcac09289cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-463-2007",
+   "path": "ordin/transporturi/2007/463",
+   "short": "Ordin transporturi nr. 463/2007",
+   "title": "Ordinul nr. 463/2007 privind aprobarea Criteriilor de prioritate în alocarea capacităților de infrastructura feroviara pe secția cu capacitate saturata Câmpina-Predeal, precum și asigurarea transparenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83351",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83351",
+     "sha256": "5ed04083675b737782b6ea97c81e9cdb75cf43f85dd34a9d226d8b4bd0d14fe2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-493-2007",
+   "path": "ordin/transporturi/2007/493",
+   "short": "Ordin transporturi nr. 493/2007",
+   "title": "Ordinul nr. 493/2007 pentru aprobarea Reglementării aeronautice civile române privind stabilirea servituților aeronautice civile și a zonelor cu servituți aeronautice civile RACR-SACZ, ediția 03/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83319",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83319",
+     "sha256": "5e8854864a3fd19370b3af4c0af3a1535946c24d8c688424e09d77a566843a5d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-510-2007",
    "path": "ordin/transporturi/2007/510",
    "short": "Ordin transporturi nr. 510/2007",
@@ -8459,6 +8849,306 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83796",
      "sha256": "a32eced63194db4639c2890dc5c37df52a52755c6bc8475926a7cd6152cd8fa0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-518-2007",
+   "path": "ordin/transporturi/2007/518",
+   "short": "Ordin transporturi nr. 518/2007",
+   "title": "Ordinul nr. 518/2007 privind aprobarea formei și conținutului Certificatului de tonaj pentru navele de pescuit cu o lungime între perpendiculare mai mică de 24 metri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80944",
+   "versions": [
+    {
+     "from": "2007-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80944",
+     "sha256": "25a3168a6b15ca45a5e5620b9cf0868e7257d7d19f883fb2f76e4c241d9c781d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-534-2007",
+   "path": "ordin/transporturi/2007/534",
+   "short": "Ordin transporturi nr. 534/2007",
+   "title": "Ordinul nr. 534/2007 pentru aprobarea Regulamentului privind criteriile minime de pregătire și perfecționare, precum și condițiile de obținere a certificatelor internaționale de conducător de ambarcațiune de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83654",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83654",
+     "sha256": "c5fefcc512e2116dfc6fcb2d200e58b9a87764105699abe6efb7d7235c0b13a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-535-2007",
+   "path": "ordin/transporturi/2007/535",
+   "short": "Ordin transporturi nr. 535/2007",
+   "title": "Ordinul nr. 535/2007 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatelor de siguranță în vederea efectuării serviciilor de transport feroviar pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83895",
+   "versions": [
+    {
+     "from": "2007-08-25",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83895",
+     "sha256": "060661d501315e6bdb841a80c7ee63b7d89060b5bb13bc2dc2af5e04976b4c13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-559-2007",
+   "path": "ordin/transporturi/2007/559",
+   "short": "Ordin transporturi nr. 559/2007",
+   "title": "Ordinul nr. 559/2007 pentru aprobarea listelor cuprinzând drumurile publice, cu limitele maselor și dimensiunilor maxime admise pentru vehiculele de transport marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84172",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84172",
+     "sha256": "b95c4b0b809dbad1d1bd32817b0b80412af70db3c75917f69a104097490cb852"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-590-2007",
+   "path": "ordin/transporturi/2007/590",
+   "short": "Ordin transporturi nr. 590/2007",
+   "title": "Ordinul nr. 590/2007 pentru stabilirea unor reguli privind transportul în trafic intern al mărfurilor periculoase pe calea ferată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85220",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85220",
+     "sha256": "7672b976fd3e8184ff002775bd3af26ebf2382917dfc552fd89f455687937cdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-625-2007",
+   "path": "ordin/transporturi/2007/625",
+   "short": "Ordin transporturi nr. 625/2007",
+   "title": "Ordinul nr. 625/2007 pentru scutirea de la plata serviciilor de navigație aeriană terminală a anumitor categorii de aeronave care operează în spațiul aerian național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80978",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80978",
+     "sha256": "dc6c32df790a10428b85d09df2b20a3c7c50347e223b1a9bf1b3b39aad7eb85c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-630-2007",
+   "path": "ordin/transporturi/2007/630",
+   "short": "Ordin transporturi nr. 630/2007",
+   "title": "Ordinul nr. 630/2007 privind modul de reglementare a domeniului aeronauticii civile cu aeronave ultraușoare din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81291",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81291",
+     "sha256": "4630bff1a9adc49286ad93aa9e5c8e380d98793ca5a1cc3eb32ae6dc7f016b81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-636-2007",
+   "path": "ordin/transporturi/2007/636",
+   "short": "Ordin transporturi nr. 636/2007",
+   "title": "Ordinul nr. 636/2007 pentru aprobarea Reglementării aeronautice civile române RACR-47 \"Înmatricularea aeronavelor civile\", ediția 3/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84456",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84456",
+     "sha256": "9a67758e6c77d86785b3c11fe153b157e3bf0d291013ec93ddef5d6bb0dbe131"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-637-2007",
+   "path": "ordin/transporturi/2007/637",
+   "short": "Ordin transporturi nr. 637/2007",
+   "title": "Ordinul nr. 637/2007 privind exercitarea de către Aeroclubul României a unor atribuții de certificare în domeniul aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84046",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84046",
+     "sha256": "a99342f1ce8902b1dde34bef7ad376f9b63ef280f2f0d387150302148ea885e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-640-2007",
+   "path": "ordin/transporturi/2007/640",
+   "short": "Ordin transporturi nr. 640/2007",
+   "title": "Ordinul nr. 640/2007 pentru aprobarea Normelor privind pregătirea și atestarea profesională a conducătorilor auto care efectuează transport rutier de mărfuri periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84601",
+   "versions": [
+    {
+     "from": "2007-10-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84601",
+     "sha256": "79d072c182a325d53e444e9c34a15f153f4972746ad11903fed1a8df83087f10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-655-2007",
+   "path": "ordin/transporturi/2007/655",
+   "short": "Ordin transporturi nr. 655/2007",
+   "title": "Ordinul nr. 655/2007 pentru aprobarea Normelor uniforme privind transporturile pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88461",
+   "versions": [
+    {
+     "from": "2008-02-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88461",
+     "sha256": "787d8034ba18d28190e4c07f7a656d1e34d4ba7a4963b6147f637f8689111e6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-677-2007",
+   "path": "ordin/transporturi/2007/677",
+   "short": "Ordin transporturi nr. 677/2007",
+   "title": "Ordinul nr. 677/2007 privind aprobarea Programului \"Bazine de înot\" realizat prin Compania Națională de Investiții \"C.N.I.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81060",
+   "versions": [
+    {
+     "from": "2007-04-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81060",
+     "sha256": "47a0857c434b8dc0dccf39c2910b4356f2d683a3fedf5474cff303e52171bb02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-792-2007",
+   "path": "ordin/transporturi/2007/792",
+   "short": "Ordin transporturi nr. 792/2007",
+   "title": "Ordinul nr. 792/2007 pentru aprobarea tarifelor în transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84970",
+   "versions": [
+    {
+     "from": "2007-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84970",
+     "sha256": "000b64e27b964953a3511eafe39e3459433327c511c8d03a7fb6f23aa407a1c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-794-2007",
+   "path": "ordin/transporturi/2007/794",
+   "short": "Ordin transporturi nr. 794/2007",
+   "title": "Ordinul nr. 794/2007 pentru aprobarea Normelor de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85607",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85607",
+     "sha256": "8603a53b4d5f0c5399b4d469726623b639d4749c9010c12322ee3d77f55268ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-806-2007",
+   "path": "ordin/transporturi/2007/806",
+   "short": "Ordin transporturi nr. 806/2007",
+   "title": "Ordinul nr. 806/2007 pentru aprobarea Reglementării aeronautice civile române RACR-AZAC \"Admisibilitatea la zbor a unor categorii de aeronave civile\", ediția 01/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85420",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85420",
+     "sha256": "7cc9a9a314e799de2ba022c25ac7b165d106d9b860e8ff17e7e05be363bc4797"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-846-2007",
+   "path": "ordin/transporturi/2007/846",
+   "short": "Ordin transporturi nr. 846/2007",
+   "title": "Ordinul nr. 846/2007 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85745",
+   "versions": [
+    {
+     "from": "2007-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85745",
+     "sha256": "50d5c77239ede8ad5e78134e729100c2c6819d5e264cf8e75ef54f3c68eed5be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-886-2007",
+   "path": "ordin/transporturi/2007/886",
+   "short": "Ordin transporturi nr. 886/2007",
+   "title": "Ordinul nr. 886/2007 pentru aprobarea Regulamentului privind modelul și însemnele uniformei, modul de acordare și portul acesteia de către inspectorii Autorității Rutiere Române - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85597",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85597",
+     "sha256": "3150518697847b5cbbe220870183e705c6e216e9ab7d1d4c8d77e1176cb5b2f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-920-2007",
+   "path": "ordin/transporturi/2007/920",
+   "short": "Ordin transporturi nr. 920/2007",
+   "title": "Ordinul nr. 920/2007 privind aprobarea Instrucțiunilor pentru exploatarea, revizia tehnică și repararea instalațiilor de energoalimentare ale căii ferate electrificate - nr. 354",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86580",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86580",
+     "sha256": "cf01c3456795b2a5feea7b2ea9ad9067d3626b849d1b016c21775839886caacf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-922-2007",
+   "path": "ordin/transporturi/2007/922",
+   "short": "Ordin transporturi nr. 922/2007",
+   "title": "Ordinul nr. 922/2007 pentru aprobarea Normelor privind aprobarea procedurilor de agreare de către Ministerul Transporturilor a unităților specializate medicale și psihologice, în vederea examinării persoanelor cu funcții care concură la siguranța circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85905",
+   "versions": [
+    {
+     "from": "2007-10-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85905",
+     "sha256": "9211ad3c9f4e505fc749043abdea4277cb6cdaea08632576992de9ffb2ca399a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-972-2007",
+   "path": "ordin/transporturi/2007/972",
+   "short": "Ordin transporturi nr. 972/2007",
+   "title": "Ordinul nr. 972/2007 pentru aprobarea Regulamentului-cadru pentru efectuarea transportului public local și a Caietului de sarcini-cadru al serviciilor de transport public local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87313",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87313",
+     "sha256": "93a7931cd978681886f1d95907ea8b84c38aca187f8fd367ab4e6b2b04161637"
     }
    ]
   }

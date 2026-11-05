@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-344-2008",
+   "path": "ordin/agricultura/2008/344",
+   "short": "Ordin agricultura nr. 344/2008",
+   "title": "Ordinul nr. 344/2008 pentru aprobarea modului de operare și de funcționare a Fișierului navelor și ambarcațiunilor de pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96821",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96821",
+     "sha256": "4631368bdbd339deb7545b722e354e9030f88ee08796b28fc4caa21a3e90454a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-368-2008",
    "path": "ordin/agricultura/2008/368",
    "short": "Ordin agricultura nr. 368/2008",
@@ -9138,6 +9153,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1007-2008",
+   "path": "ordin/transporturi/2008/1007",
+   "short": "Ordin transporturi nr. 1007/2008",
+   "title": "Ordinul nr. 1.007/2008 privind aprobarea Normativului feroviar \"Infrastructură feroviară - Instalații fixe Tracțiune electrică - Conductor de protecție principal - Partea 2: Calcul electric. Cerințe\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97113",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97113",
+     "sha256": "618690d5d4147adeb3e4057f1f0220a855247bf0af585a324b8e852b5f52b8cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-101-2008",
+   "path": "ordin/transporturi/2008/101",
+   "short": "Ordin transporturi nr. 101/2008",
+   "title": "Ordinul nr. 101/2008 pentru aprobarea Normelor privind acordarea autorizațiilor de siguranță administratorului/gestionarilor de infrastructură feroviară din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89393",
+   "versions": [
+    {
+     "from": "2008-03-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89393",
+     "sha256": "422bbf9af740373840f45184820e3a743ddbd3336e4025b52c86a420210be923"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-103-2008",
+   "path": "ordin/transporturi/2008/103",
+   "short": "Ordin transporturi nr. 103/2008",
+   "title": "Ordinul nr. 103/2008 privind aprobarea Instrucțiunilor pentru admiterea și expedierea transporturilor excepționale pe infrastructura feroviară - nr. 328",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90180",
+   "versions": [
+    {
+     "from": "2008-06-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90180",
+     "sha256": "ead1de212791e103a397b92c819a5088e828377e9e4b461d1ef834520efca3e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1053-2008",
    "path": "ordin/transporturi/2008/1053",
    "short": "Ordin transporturi nr. 1053/2008",
@@ -9149,6 +9209,246 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97484",
      "sha256": "8da72cc33b5d7ceda5dd21b0a430bde4d5c386cba0a4c2a01b017783ed558a40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1074-2008",
+   "path": "ordin/transporturi/2008/1074",
+   "short": "Ordin transporturi nr. 1074/2008",
+   "title": "Ordinul nr. 1.074/2008 pentru aprobarea Reglementării aeronautice civile române \"Limitări privind timpul de muncă și cerințe de odihnă pentru personalul aeronautic civil navigant - RACR-LTMO\", ediția 2/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97327",
+   "versions": [
+    {
+     "from": "2008-10-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97327",
+     "sha256": "67f1d18a7ceaf768a10c030073cad21c898d78e7e2b6b370721a36974dfc3a74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-11-2008",
+   "path": "ordin/transporturi/2008/11",
+   "short": "Ordin transporturi nr. 11/2008",
+   "title": "Ordinul nr. 11/2008 pentru aprobarea Reglementării aeronautice civile române privind supervizarea și desemnarea furnizorilor de servicii de navigație aeriană, RACR-SSNA, ediția 02/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88897",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88897",
+     "sha256": "53eef5877d7e7dd08fd0232aa3f824c35610328c5fe80c0530e4975c5a2cd785"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1148-2008",
+   "path": "ordin/transporturi/2008/1148",
+   "short": "Ordin transporturi nr. 1148/2008",
+   "title": "Ordinul nr. 1.148/2008 pentru aprobarea Reglementării aeronautice civile române privind proiectarea și exploatarea tehnică a aerodromurilor - RACR-AD-PETA, ediția 1/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97939",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97939",
+     "sha256": "dca9d2cddd010ef42539c0437b78925e9f5dc63caaab66299cc908bc34f499d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1245-2008",
+   "path": "ordin/transporturi/2008/1245",
+   "short": "Ordin transporturi nr. 1245/2008",
+   "title": "Ordinul nr. 1.245/2008 pentru aprobarea Reglementării aeronautice civile române privind autorizarea agenților aeronautici de handling - RACR-AD-AAH, ediția 1/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98273",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98273",
+     "sha256": "e7fd83cd61acda91aaf588f6f055b07e1db32d4c6730084d7e1f5683a52bd01a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1250-2008",
+   "path": "ordin/transporturi/2008/1250",
+   "short": "Ordin transporturi nr. 1250/2008",
+   "title": "Ordinul nr. 1.250/2008 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98272",
+   "versions": [
+    {
+     "from": "2008-10-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98272",
+     "sha256": "6f18a57a89ab99391df3935f1acde6e186a2ead221db9b3f6da251004a6e674f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1268-2008",
+   "path": "ordin/transporturi/2008/1268",
+   "short": "Ordin transporturi nr. 1268/2008",
+   "title": "Ordinul nr. 1.268/2008 pentru aprobarea Reglementării aeronautice civile române RACR-SAFA privind evaluarea siguranței zborului la aeronavele din terțe țări, ediția 02/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98636",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98636",
+     "sha256": "ed9f527dbfb8e2ad2a7873a0e063576db447cd546dcb26f2c1ddb4e976c45b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1413-2008",
+   "path": "ordin/transporturi/2008/1413",
+   "short": "Ordin transporturi nr. 1413/2008",
+   "title": "Ordinul nr. 1.413/2008 pentru aprobarea Normei privind elaborarea/actualizarea normelor tehnice feroviare și a normativelor feroviare pentru proiectarea, construcția, modernizarea, repararea și întreținerea infrastructurii feroviare și a materialului rulant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100102",
+   "versions": [
+    {
+     "from": "2009-01-08",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100102",
+     "sha256": "325da38c17856133514e0b68e23ca123b5d73f0b9c29ad17456cd95244919a4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1447-2008",
+   "path": "ordin/transporturi/2008/1447",
+   "short": "Ordin transporturi nr. 1447/2008",
+   "title": "Ordinul nr. 1.447/2008 privind aprobarea cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100580",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100580",
+     "sha256": "45e99c4cfaae390446cc3fcb02407220e51649b7dfb5157957dd42f39570dcfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1480-2008",
+   "path": "ordin/transporturi/2008/1480",
+   "short": "Ordin transporturi nr. 1480/2008",
+   "title": "Ordinul nr. 1.480/2008 pentru aprobarea Reglementării aeronautice civile române privind investigația tehnică a accidentelor și incidentelor de aviație civilă - RACR-IAC, ediția 01/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100263",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100263",
+     "sha256": "1eb6074ef99a46c386a1dd9031de22681496d22d400d867e4168100473660d9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1484-2008",
+   "path": "ordin/transporturi/2008/1484",
+   "short": "Ordin transporturi nr. 1484/2008",
+   "title": "Ordinul nr. 1.484/2008 pentru aprobarea Normelor privind acordarea avizului tehnic vehiculelor feroviare care au depășit durata normală de funcționare/durata de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100681",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100681",
+     "sha256": "892b8a1fb4b8db992e9b64c220d1ad44cbe6907750b62e87a3d596fe5ecdc6ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1523-2008",
+   "path": "ordin/transporturi/2008/1523",
+   "short": "Ordin transporturi nr. 1523/2008",
+   "title": "Ordinul nr. 1.523/2008 pentru încadrarea vehiculelor rutiere care efectuează transporturi internaționale de marfă, în categorii de poluare și de siguranță a circulației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101024",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101024",
+     "sha256": "aa31dec9e1263604642477688f13963e61a19f4066575603f882c19806c1e5d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1541-2008",
+   "path": "ordin/transporturi/2008/1541",
+   "short": "Ordin transporturi nr. 1541/2008",
+   "title": "Ordinul nr. 1.541/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR-TABP \"Transportul aerian al bunurilor periculoase\", ediția 3/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101038",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101038",
+     "sha256": "109a9b8e2013c77da5f9811a591d1d7992d3f95aa573dfd7689df1163e7b060a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1545-2008",
+   "path": "ordin/transporturi/2008/1545",
+   "short": "Ordin transporturi nr. 1545/2008",
+   "title": "Ordinul nr. 1.545/2008 pentru aprobarea Normelor privind autorizarea punerii în funcțiune a subsistemelor structurale componente ale sistemului de transport feroviar convențional din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100974",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100974",
+     "sha256": "32b897d6c4fe2c1e89f6a4632fa9d62a2ca84125b4a3f27df03f301865085a54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1558-2008",
+   "path": "ordin/transporturi/2008/1558",
+   "short": "Ordin transporturi nr. 1558/2008",
+   "title": "Ordinul nr. 1.558/2008 privind mandatarea Societății Comerciale de Transport cu Metroul București \"Metrorex\" - S.A. de a semna Actul adițional nr. 16 la Contractul de mentenanță de material rulant metrou și feroviar nr. 91/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101009",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101009",
+     "sha256": "a769a33a8071f74bdb5b92270d87e00af4a4883dd7d6c1d4a6b866d757a77c57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-181-2008",
+   "path": "ordin/transporturi/2008/181",
+   "short": "Ordin transporturi nr. 181/2008",
+   "title": "Ordinul nr. 181/2008 pentru aprobarea Reglementărilor privind condițiile de montare, reparare și verificare a tahografelor și a limitatoarelor de viteză, precum și de autorizare a operatorilor economici care desfășoară astfel de activități - RNTR 8",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89888",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89888",
+     "sha256": "300c7f8f1308bbb7da9b522b1b79aba1b5f7cee1807689e49f5d0ba96859103b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-235-2008",
+   "path": "ordin/transporturi/2008/235",
+   "short": "Ordin transporturi nr. 235/2008",
+   "title": "Ordinul nr. 235/2008 privind acceptarea Codului internațional pentru transportul în siguranță al combustibilului nuclear iradiat, plutoniului și deșeurilor cu nivel ridicat de radioactivitate, în formă ambalată, la bordul navelor (Codul INF), adoptat de Organizația Maritimă Internațională prin Rezoluția MSC.88(71) a Comitetului Securității Maritime din 27 mai 1999, precum și a amendamentelor la acesta, adoptate de Organizația Maritimă Internațională prin rezoluțiile MSC.118(74), MSC. 135(76) și MSC.178(79) ale Comitetului Securității Maritime din anii 2001, 2002 și, respectiv, 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90047",
+   "versions": [
+    {
+     "from": "2008-03-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90047",
+     "sha256": "ea6991ca46a4f86d918b877b71c10abc0259c8746c90109fb26272ee6e9344d0"
     }
    ]
   },
@@ -9168,6 +9468,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-3-2008",
+   "path": "ordin/transporturi/2008/3",
+   "short": "Ordin transporturi nr. 3/2008",
+   "title": "Ordinul nr. 3/2008 pentru aprobarea Normelor privind atestarea profesională a conducătorilor auto care efectuează transport de persoane în regim de taxi sau transport în regim de închiriere și agrearea autovehiculelor care efectuează transport în regim de taxi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88781",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88781",
+     "sha256": "382d9e189cbf21b5fbb44611b9e88c5083316e134240326c7d3d927c1abbd679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-341-2008",
+   "path": "ordin/transporturi/2008/341",
+   "short": "Ordin transporturi nr. 341/2008",
+   "title": "Ordinul nr. 341/2008 privind reglementarea modului de desfășurare a traficului navelor de navigație interioară în rada Sulina și în porturile Constanța și Midia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90403",
+   "versions": [
+    {
+     "from": "2008-03-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90403",
+     "sha256": "1f4060f8c049f84d04534ed17cde366188681507583d350791c4ac4c4eee9268"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-342-2008",
+   "path": "ordin/transporturi/2008/342",
+   "short": "Ordin transporturi nr. 342/2008",
+   "title": "Ordinul nr. 342/2008 pentru aprobarea Normelor privind stabilirea echipajului minim de siguranță pentru navele maritime care arborează pavilion român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90681",
+   "versions": [
+    {
+     "from": "2008-03-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90681",
+     "sha256": "e49139356f2a67af71097f6d85ff4a003e5f9eb3333e690286df59d1fa4442cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-343-2008",
    "path": "ordin/transporturi/2008/343",
    "short": "Ordin transporturi nr. 343/2008",
@@ -9179,6 +9524,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91551",
      "sha256": "5d7eaea103aa16743027650febaffce0d576f75177de853e1a0d5fa33eed00e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-346-2008",
+   "path": "ordin/transporturi/2008/346",
+   "short": "Ordin transporturi nr. 346/2008",
+   "title": "Ordinul nr. 346/2008 pentru aprobarea Normelor privind stabilirea condițiilor de efectuare a evaluării psihologice a persoanelor în vederea obținerii permisului de conducere auto, precum și a conducătorilor de autovehicule și tramvaie pe drumurile publice și de autorizare de către Ministerul Transporturilor a laboratoarelor psihologice pentru efectuarea acestor evaluări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91248",
+   "versions": [
+    {
+     "from": "2008-04-11",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91248",
+     "sha256": "e5ecfc23be818c74aea16e87bc9eedbdfe2f6f58f74e231d6d1f08cac4b84f85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-363-2008",
+   "path": "ordin/transporturi/2008/363",
+   "short": "Ordin transporturi nr. 363/2008",
+   "title": "Ordinul nr. 363/2008 privind aprobarea Normei tehnice feroviare \"Vehicule feroviare. Locomotiva diesel-electrică 060 DA de 2.100 CP. Prescripții tehnice pentru revizia pe procesul tehnologic la intrarea locomotivei în unitățile de tracțiune, prescripții pentru alimentare și echipare, precum și pentru curățarea și spălarea locomotivei\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91358",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91358",
+     "sha256": "0432caf395f462566b5e9d206b2438bd19830bd9b08ad77ce52f7e1fb82322f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-364-2008",
+   "path": "ordin/transporturi/2008/364",
+   "short": "Ordin transporturi nr. 364/2008",
+   "title": "Ordinul nr. 364/2008 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Revizii și reparații planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91368",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91368",
+     "sha256": "4e4908072a57558a23048a7bd5fdc25db3fe44fc39d7072f5afacfdf9bea52de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-365-2008",
+   "path": "ordin/transporturi/2008/365",
+   "short": "Ordin transporturi nr. 365/2008",
+   "title": "Ordinul nr. 365/2008 privind aprobarea Normei tehnice feroviare \"Vehicule feroviare. Controlul ultrasonic al osiilor montate de la vagoane\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91369",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91369",
+     "sha256": "4985ff6ae2fda5ababb71a164d48eab4b21ba9f893ff88cf4853e26694c81a4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-366-2008",
+   "path": "ordin/transporturi/2008/366",
+   "short": "Ordin transporturi nr. 366/2008",
+   "title": "Ordinul nr. 366/2008 privind aprobarea Normei tehnice feroviare \"Vehicule de cale ferată. Locomotive electrice de 5.100 kW și 3.400 kW. Prescripții tehnice pentru revizii și reparații planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91370",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91370",
+     "sha256": "f33ccc296e70958b1c968ea1b424796d66ca267f7b3bc44c98b29d76dd06f18f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-375-2008",
+   "path": "ordin/transporturi/2008/375",
+   "short": "Ordin transporturi nr. 375/2008",
+   "title": "Ordinul nr. 375/2008 privind admiterea încrucișării utilajului RPM 2002 în lucru cu trenuri formate din vagoane CSI transpuse de gabarit 1-VM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90726",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90726",
+     "sha256": "e76eb9a76608bc3417cd5559cb2263fed5f7d431241b9024ca98815e39ddbfa8"
     }
    ]
   },
@@ -9213,6 +9648,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-524-2008",
+   "path": "ordin/transporturi/2008/524",
+   "short": "Ordin transporturi nr. 524/2008",
+   "title": "Ordinul nr. 524/2008 privind mandatarea Societății Comerciale \"Metrorex\" - S.A. de a semna Actul adițional nr. 15 la Contractul de mentenanță material rulant de metrou și feroviar nr. 91/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92402",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92402",
+     "sha256": "4f45a9089c772c3aa3018845b0f9ae02c3f155c0df36aae2884f8cf90c9feb4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-532-2008",
+   "path": "ordin/transporturi/2008/532",
+   "short": "Ordin transporturi nr. 532/2008",
+   "title": "Ordinul nr. 532/2008 pentru aprobarea Regulamentului de închiriere a terenurilor portuare care aparțin domeniului public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92444",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92444",
+     "sha256": "b3430720eec5d657a9560e77b215d1d1a37f0279d117117659a1a6604f983241"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-577-2008",
+   "path": "ordin/transporturi/2008/577",
+   "short": "Ordin transporturi nr. 577/2008",
+   "title": "Ordinul nr. 577/2008 pentru aprobarea Reglementării aeronautice civile române RACR-LPTA, \"Licențierea personalului tehnic aeronautic\", ediția 3/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92800",
+   "versions": [
+    {
+     "from": "2008-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92800",
+     "sha256": "de9c23c7cf19b29457506769624cb4c3368015063b302d21ae7726095a31e5bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-605-2008",
+   "path": "ordin/transporturi/2008/605",
+   "short": "Ordin transporturi nr. 605/2008",
+   "title": "Ordinul nr. 605/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR-ATS \"Serviciile de trafic aerian\", ediția a 2-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93584",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93584",
+     "sha256": "6ebe76a5a6483971ed7fcc01a0f608f288e55ba3ee6e2820f8703e6cb6b16950"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-61-2008",
    "path": "ordin/transporturi/2008/61",
    "short": "Ordin transporturi nr. 61/2008",
@@ -9224,6 +9719,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89715",
      "sha256": "46fc6740028e24aee74793786ea83139e2d7c5594cb0f519274a7ffdc805f892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-648-2008",
+   "path": "ordin/transporturi/2008/648",
+   "short": "Ordin transporturi nr. 648/2008",
+   "title": "Ordinul nr. 648/2008 pentru aprobarea Evaluărilor de securitate a facilităților portuare aparținând Companiei Naționale \"Administrația Canalelor Navigabile\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93073",
+   "versions": [
+    {
+     "from": "2008-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93073",
+     "sha256": "306829a31deede45cce057834b9d5730e1f7d63bcd96ddbcf891a1351fc2d827"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-66-2008",
+   "path": "ordin/transporturi/2008/66",
+   "short": "Ordin transporturi nr. 66/2008",
+   "title": "Ordinul nr. 66/2008 privind utilizarea echipamentelor, instalațiilor, utilajelor și mijloacelor tehnice de aerodrom și de protecție a navigației aeriene în desfășurarea activităților aeronautice civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89142",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89142",
+     "sha256": "ee993fafaa71fb15318ee9003c0437db6aaac3db6d69f1198c9d000da42cfd0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-669-2008",
+   "path": "ordin/transporturi/2008/669",
+   "short": "Ordin transporturi nr. 669/2008",
+   "title": "Ordinul nr. 669/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR - AIS \"Serviciul de informare aeronautică\", ediția 2/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94588",
+   "versions": [
+    {
+     "from": "2008-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94588",
+     "sha256": "27b595b26fa8ffe772ec06d83ba8dfc4ee16d3c588aaa4991f6b070deedecc82"
     }
    ]
   },
@@ -9243,6 +9783,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-673-2008",
+   "path": "ordin/transporturi/2008/673",
+   "short": "Ordin transporturi nr. 673/2008",
+   "title": "Ordinul nr. 673/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR - HA \"Hărți aeronautice\", ediția 2/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94753",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94753",
+     "sha256": "4026ad87daab463d08d729ba75353a80461d31b8be6b30d4754714b1c3d2f86e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-695-2008",
    "path": "ordin/transporturi/2008/695",
    "short": "Ordin transporturi nr. 695/2008",
@@ -9254,6 +9809,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99292",
      "sha256": "fe368f815bc6edb1829dab2ebc9e795e69f7b6ab35b4bfad3e61c1c43200bdb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-740-2008",
+   "path": "ordin/transporturi/2008/740",
+   "short": "Ordin transporturi nr. 740/2008",
+   "title": "Ordinul nr. 740/2008 pentru aprobarea Normelor privind principiile pentru alocarea costurilor și calculul tarifelor de trecere, a tarifelor de trecere medii ponderate și a tarifelor de concesiune și a Normelor privind stabilirea tarifelor de trecere, a tarifelor de trecere medii ponderate și a tarifelor de concesiune în funcție de clasele de emisii poluante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94313",
+   "versions": [
+    {
+     "from": "2008-06-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94313",
+     "sha256": "c1e3d277e19e312b2b8a2ba1a19084de8b20c17c770bd9ffa3365fc322494a84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-794-2008",
+   "path": "ordin/transporturi/2008/794",
+   "short": "Ordin transporturi nr. 794/2008",
+   "title": "Ordinul nr. 794/2008 pentru aprobarea Reglementării aeronautice civile române RACR-LCTA \"Licențierea controlorilor de trafic aerian\", ediția 1/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95958",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95958",
+     "sha256": "2a54009bd95dd0780f0a9503497a9fe8913ae5babf8dab77827b5dc4746e5b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-798-2008",
+   "path": "ordin/transporturi/2008/798",
+   "short": "Ordin transporturi nr. 798/2008",
+   "title": "Ordinul nr. 798/2008 privind aprobarea Cerințelor pentru amenajarea și utilizarea terenurilor, altele decât aerodromurile autorizate, pe care pot ateriza, respectiv de pe care pot decola aeronave civile care execută zboruri interne încadrate în categoria operațiunilor aeriene civile de lucru aerian sau aviație generală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94895",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94895",
+     "sha256": "d12e2ef558a1a5f73a26b82d072e6b36ce07d04c4fe710c7848e0fd507c31942"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-813-2008",
+   "path": "ordin/transporturi/2008/813",
+   "short": "Ordin transporturi nr. 813/2008",
+   "title": "Ordinul nr. 813/2008 privind procedurile de inspecție și supraveghere a operării navelor de transport produse petroliere, gaze lichefiate și substanțe lichide nocive în terminalele din porturile românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95034",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95034",
+     "sha256": "fb44ebf32d5fa79e26d6281bc9dfaa872c33c1a34bbf76c3137a6218942a4000"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-870-2008",
+   "path": "ordin/transporturi/2008/870",
+   "short": "Ordin transporturi nr. 870/2008",
+   "title": "Ordinul nr. 870/2008 pentru aprobarea Programului național de pregătire în domeniul securității aeronautice - PNPSA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96528",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96528",
+     "sha256": "1520129b190b5e5aedafd710fe37759cc24fff9096a222a5c524f282612f685f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-878-2008",
+   "path": "ordin/transporturi/2008/878",
+   "short": "Ordin transporturi nr. 878/2008",
+   "title": "Ordinul nr. 878/2008 pentru aprobarea Normelor specifice privind componența și modul de lucru ale comisiei de evaluare, termenele de realizare a licitațiilor, precum și procedura de soluționare a contestațiilor pentru licitațiile având ca obiect închirierea secțiilor de circulație aparținând infrastructurii feroviare neinteroperabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95960",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95960",
+     "sha256": "0f170427fa868547aea818f2b68f85e3ba8d0e9ad6c38df2c90d8b06372b5d22"
     }
    ]
   }

@@ -1233,6 +1233,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-555-2001",
+   "path": "ordin/comunicatii/2001/555",
+   "short": "Ordin comunicatii nr. 555/2001",
+   "title": "Ordinul nr. 555/2001 privind aprobarea listei cuprinzând standardele române din domeniul compatibilității electromagnetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33674",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33674",
+     "sha256": "7bf4cca9345befeaddc76bd4d73781f11b2993bc6a9a84f736fc6d9eea39fafa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-13-2001",
    "path": "ordin/concurenta/2001/13",
    "short": "Ordin concurenta nr. 13/2001",
@@ -2238,6 +2253,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-113-2001",
+   "path": "ordin/economie/2001/113",
+   "short": "Ordin economie nr. 113/2001",
+   "title": "Ordinul nr. 113/2001 privind aprobarea unor reglementări tehnice pentru recipiente-butelii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30092",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30092",
+     "sha256": "c3ee0ac783f714bd33b310dbaa5d90b6ebcb1758b7f064b60249179cf599b0e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-15-2001",
+   "path": "ordin/economie/2001/15",
+   "short": "Ordin economie nr. 15/2001",
+   "title": "Ordinul nr. 15/2001 privind aprobarea Regulamentului pentru autorizarea și verificarea personalului care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale și a Regulamentului pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare și execuție în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27112",
+   "versions": [
+    {
+     "from": "2001-03-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27112",
+     "sha256": "01b73352f8159e09bfb58ff004609c52309afd5ce6e16449f49ced243f452598"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-18-2001",
    "path": "ordin/economie/2001/18",
    "short": "Ordin economie nr. 18/2001",
@@ -2249,6 +2294,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27315",
      "sha256": "5afe24bc121ccb83dcc8e8b9c7ad07774935d5468a6a9a9c987d98ef4578a9c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-192392-2001",
+   "path": "ordin/economie/2001/192392",
+   "short": "Ordin economie nr. 192392/2001",
+   "title": "Ordinul nr. 192.392/2001 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanțe de urgență a Guvernului nr. 100/2001 privind acumularea cantității de 3 milioane tone de cărbune energetic de către Administrația Naționala a Rezervelor de Stat în anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30353",
+   "versions": [
+    {
+     "from": "2001-08-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30353",
+     "sha256": "a80f45308c8bd29cc67f741093776684177477d63e5669766002a102bf717757"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-199-2001",
+   "path": "ordin/economie/2001/199",
+   "short": "Ordin economie nr. 199/2001",
+   "title": "Ordinul nr. 199/2001 privind unele măsuri pentru întărirea disciplinei în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29492",
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29492",
+     "sha256": "6c0d419b238cc74ec8bf882afd8fff97a07e10d78a8dc85baf13b4ff0b21a2aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-259-2001",
+   "path": "ordin/economie/2001/259",
+   "short": "Ordin economie nr. 259/2001",
+   "title": "Ordinul nr. 259/2001 privind aprobarea Prescripțiilor tehnice pentru regimul chimic al cazanelor de abur și apa fierbinte C18-2001, Colecția ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32806",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32806",
+     "sha256": "46b0319e087ff4472b5ce43b9122270e66f8d22b9265be9525608cfee37834fe"
     }
    ]
   },
@@ -2268,6 +2358,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-273-2001",
+   "path": "ordin/economie/2001/273",
+   "short": "Ordin economie nr. 273/2001",
+   "title": "Ordinul nr. 273/2001 pentru aprobarea Manualului de închidere a minelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31248",
+   "versions": [
+    {
+     "from": "2001-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31248",
+     "sha256": "f478d2e33ac9693d1061df7a58cd5d2299f3a0fdb5227f0f549a48442f6a4083"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-308-2001",
+   "path": "ordin/economie/2001/308",
+   "short": "Ordin economie nr. 308/2001",
+   "title": "Ordinul nr. 308/2001 pentru aprobarea Ghidului privind principiile de buna practica de fabricăție pentru produsele cosmetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31964",
+   "versions": [
+    {
+     "from": "2001-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31964",
+     "sha256": "d10b601d7807aac5cdc352ac35b3d1777df0922416d34be32b221bf058f9f135"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-309-2001",
    "path": "ordin/economie/2001/309",
    "short": "Ordin economie nr. 309/2001",
@@ -2279,6 +2399,261 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32392",
      "sha256": "af682ba20f8a5b63e1b3b7e606ded055f8f816903012914823a5a5f0307396c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3107-2001",
+   "path": "ordin/economie/2001/3107",
+   "short": "Ordin economie nr. 3107/2001",
+   "title": "Ordinul nr. 3.107/2001 privind aprobarea Listei de tarife pentru lucrările efectuate de Biroul Român de Metrologie Legală - LT-2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30672",
+   "versions": [
+    {
+     "from": "2001-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30672",
+     "sha256": "df24c261f8f0bd9045f8e793d4c46408ac3cec7a646c29ca1147ad23bb263d87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-336-2001",
+   "path": "ordin/economie/2001/336",
+   "short": "Ordin economie nr. 336/2001",
+   "title": "Ordinul nr. 336/2001 privind Lista cuprinzând instalațiile, echipamentele, utilajele și părți ale acestora, precum și know-how ce urmează să fie importate în contul stingerii datoriei Federației Ruse către România, care beneficiază de scutire de la plata drepturilor de import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31925",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31925",
+     "sha256": "87584aabc9b86ca6b57bbd57932f091f3179ea294b1ff1b50f083d06c33cb47b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-342-2001",
+   "path": "ordin/economie/2001/342",
+   "short": "Ordin economie nr. 342/2001",
+   "title": "Ordinul nr. 342/2001 pentru aprobarea Regulamentului de organizare și funcționare a Grupului interministerial de lucru pentru coordonarea elaborării și implementării politicii industriale a României și a planului de acțiune aferent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32883",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32883",
+     "sha256": "a49b5f9ad5b9da3159be6323502a4f3a3bd80c64b155f12861e0f7b948f16fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-356-2001",
+   "path": "ordin/economie/2001/356",
+   "short": "Ordin economie nr. 356/2001",
+   "title": "Ordinul nr. 356/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE 86/217 Manometre pentru măsurarea presiunii în pneurile vehiculelor cu motor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33522",
+   "versions": [
+    {
+     "from": "2003-01-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33522",
+     "sha256": "29175db7482e46f6d40512683bb0cd6912fdd49fd92ae65911b8c423ecc669c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-358-2001",
+   "path": "ordin/economie/2001/358",
+   "short": "Ordin economie nr. 358/2001",
+   "title": "Ordinul nr. 358/2001 privind aprobarea Metodelor de analiza pentru determinarea și verificarea compoziției chimice a îngrășămintelor chimice și a unor caracteristici specifice pentru îngrășămintele chimice simple pe bază de azotat de amoniu și conținut mare de azot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34630",
+   "versions": [
+    {
+     "from": "2002-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34630",
+     "sha256": "12cbb1f278213176f5c862ed2b2cf1da392088538b0f5f6b8477386839439331"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-368-2001",
+   "path": "ordin/economie/2001/368",
+   "short": "Ordin economie nr. 368/2001",
+   "title": "Ordinul nr. 368/2001 pentru aprobarea Programului de restructurare a Companiei Naționale \"Romarm\" - S.A. pentru perioada 2001-2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32302",
+   "versions": [
+    {
+     "from": "2001-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32302",
+     "sha256": "e7857e3923e1a4f19b1c388745ecd897f5fb428b6c5a40dbc0e74ce36db1769f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-388-2001",
+   "path": "ordin/economie/2001/388",
+   "short": "Ordin economie nr. 388/2001",
+   "title": "Ordinul nr. 388/2001 privind aprobarea Listei cuprinzând standardele române care adoptă standardele europene armonizate referitoare la recipientele simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33130",
+   "versions": [
+    {
+     "from": "2002-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33130",
+     "sha256": "21fdd309ad30a2821f8630beca79f81cf184d173ec4e675c8dec865c8c25fa90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-389-2001",
+   "path": "ordin/economie/2001/389",
+   "short": "Ordin economie nr. 389/2001",
+   "title": "Ordinul nr. 389/2001 Privind aprobarea Normei de metrologie legală CEE \"NML CEE-76/765 Alcoolmetre și areometre pentru alcool\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33206",
+   "versions": [
+    {
+     "from": "2003-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33206",
+     "sha256": "d86b6988162897da3d6ab1d7605df25c22d956510867946ad1c890a7f7084433"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-400-2001",
+   "path": "ordin/economie/2001/400",
+   "short": "Ordin economie nr. 400/2001",
+   "title": "Ordinul nr. 400/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-76/766 Tabele alcoolmetrice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33225",
+   "versions": [
+    {
+     "from": "2003-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33225",
+     "sha256": "4f7b7e5f80f909356fed47b7115c6f3c171a31996ef8026628c9c6b66ce33dc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-401-2001",
+   "path": "ordin/economie/2001/401",
+   "short": "Ordin economie nr. 401/2001",
+   "title": "Ordinul nr. 401/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-75/107 Butelii utilizate ca recipiente de măsura\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33323",
+   "versions": [
+    {
+     "from": "2003-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33323",
+     "sha256": "9d3d971d6b7180bcf8e1021253a2552f5a8c49a27208ee2548f956ac898b6c29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-406-2001",
+   "path": "ordin/economie/2001/406",
+   "short": "Ordin economie nr. 406/2001",
+   "title": "Ordinul nr. 406/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-71/347 Măsurarea masei hectolitrice CEE a cerealelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33420",
+   "versions": [
+    {
+     "from": "2003-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33420",
+     "sha256": "d8cc8a22136dc692093c4127b1116fc02dec88e64af65b3cb812debfb7cd2894"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-426-2001",
+   "path": "ordin/economie/2001/426",
+   "short": "Ordin economie nr. 426/2001",
+   "title": "Ordinul nr. 426/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-77/95 Taximetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33936",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33936",
+     "sha256": "3dbdaae5ad4e398c83b8aae99fff7091621fb42fb98726c7919dae5522a2ac97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-427-2001",
+   "path": "ordin/economie/2001/427",
+   "short": "Ordin economie nr. 427/2001",
+   "title": "Ordinul nr. 427/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-76/891 - Contoare de energie electrică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34473",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34473",
+     "sha256": "efa867e8e9911bdd521508b4a8b11797727cd31aa6538a12800b8d9f889f34cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-428-2001",
+   "path": "ordin/economie/2001/428",
+   "short": "Ordin economie nr. 428/2001",
+   "title": "Ordinul nr. 428/2001 privind aprobarea Normei de metrologie legală CEE \"NML CEE-73/362 - Măsuri de lungime\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34466",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34466",
+     "sha256": "4c47cf60b75fb22f8f9328d1a72430d1ccddb2b7634a372e511993f855a35198"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-430-2001",
+   "path": "ordin/economie/2001/430",
+   "short": "Ordin economie nr. 430/2001",
+   "title": "Ordinul nr. 430/2001 privind aprobarea Listei cuprinzând organismele desemnate în domeniul compatibilității electromagnetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33121",
+   "versions": [
+    {
+     "from": "2002-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33121",
+     "sha256": "42d1c15fec39ca211c713ea3be0387cdede8107b483dd74fc12af53671f6c280"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-433-2001",
+   "path": "ordin/economie/2001/433",
+   "short": "Ordin economie nr. 433/2001",
+   "title": "Ordinul nr. 433/2001 pentru modificarea și completarea Ordinului ministrului industriei și resurselor nr. 297/2001 privind aprobarea Listei cuprinzând organismele recunoscute în domeniul echipamentelor electrice de joasă tensiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33546",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33546",
+     "sha256": "b18abcde9be31ab8fa64641aed4eb8c74f4ca6da3f51eae222de8e637bdd9b93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-452-2001",
+   "path": "ordin/economie/2001/452",
+   "short": "Ordin economie nr. 452/2001",
+   "title": "Ordinul nr. 452/2001 privind aprobarea Programului de restructurare a Societății Comerciale \"IAR\" - S.A. Brașov pentru perioada 2001-2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33691",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33691",
+     "sha256": "6cea46ade52c271d22a6bec6fcf9be54dda982578cdd3797cd86a2059a6a6fe0"
     }
    ]
   },
@@ -2309,6 +2684,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27253",
      "sha256": "81439d9bea6ce08e55c0cb3b3fb15fc21ace31745de0c3642a08947b8eef3c73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-58-2001",
+   "path": "ordin/economie/2001/58",
+   "short": "Ordin economie nr. 58/2001",
+   "title": "Ordinul nr. 58/2001 privind aprobarea Prescripțiilor tehnice pentru verificarea și autorizarea instalațiilor mecanice sub presiune și instalațiilor de ridicat CR1-2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27906",
+   "versions": [
+    {
+     "from": "2001-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27906",
+     "sha256": "17368080900fb66e3b1298a66b38169292eb82419934d24103a2f8e0a81602e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-64-2001",
+   "path": "ordin/economie/2001/64",
+   "short": "Ordin economie nr. 64/2001",
+   "title": "Ordinul nr. 64/2001 pentru aprobarea Normelor privind procedura de acordare, prelungire, suspendare sau anulare a autorizației de valorificare a deșeurilor industriale reciclabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27999",
+   "versions": [
+    {
+     "from": "2001-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27999",
+     "sha256": "682e7ae9771d283797ef7e09cf83fde9c6eb84a81ae47e3e0b0977e18e3a80a7"
     }
    ]
   },

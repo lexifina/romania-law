@@ -3,6 +3,21 @@
  "shard": "local/bucuresti/cgmb/1999",
  "acts": [
   {
+   "slug": "hcgmb-1-1999",
+   "path": "local/bucuresti/cgmb/1999/1",
+   "short": "HCGMB nr. 1/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1376",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1376/h01_99.pdf",
+     "sha256": "7f540824460bec7baff8f7236ac675e0d2b45fdb69712e142099adfc0a9e24f8"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-10-1999",
    "path": "local/bucuresti/cgmb/1999/10",
    "short": "HCGMB nr. 10/1999",
@@ -14,6 +29,216 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1705/h010_99.pdf",
      "sha256": "870b0bfbc6d5e09bd6080509d1c469c24b088bb2e07cef83704240ef267b029d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-1999",
+   "path": "local/bucuresti/cgmb/1999/100",
+   "short": "HCGMB nr. 100/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/1999 privind aprobarea documentatiilor tehnico-economice pentru investitiile din anexa",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1580",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1580/h0100_99.pdf",
+     "sha256": "3905ae49d30386bbd1d6d0e1718aa3d36ed5a956ca421e57861f1441680813aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-1999",
+   "path": "local/bucuresti/cgmb/1999/101",
+   "short": "HCGMB nr. 101/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1634",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1634/h0101_99.pdf",
+     "sha256": "7e5115408a046de0710a111127fc5f60b6109cfa8c0e07030aed374bc2bc4c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-1999",
+   "path": "local/bucuresti/cgmb/1999/102",
+   "short": "HCGMB nr. 102/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/1999 priv.darea in folosinta gratuita a unui teren aflat in intravilan,1500 mp,str.1 Dec.1918-Bd.L.Rebreanu,s.3,dom.priv.CGMB,Arhiepiscopiei Bucurestilor SE MODIFICA PRIN HCGMB NR. 286/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1754",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1754/h0102_99.pdf",
+     "sha256": "83a402ccac1945e1b7087df951ba92c3d563c7700aa6670870d65886bf10631a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-1999",
+   "path": "local/bucuresti/cgmb/1999/103",
+   "short": "HCGMB nr. 103/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/1999 privind aprobarea participarii C.G.M.B.la constituirea Fondului de dezvoltare regionala a Regiunii Bucuresti Ilfov pe anul 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1657",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1657/h0103_99.pdf",
+     "sha256": "f1f3ef1501a696151550b1ba8dadf9d1e9137510e267f6c0e7928118efe2a2a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-1999",
+   "path": "local/bucuresti/cgmb/1999/104",
+   "short": "HCGMB nr. 104/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/1999 priv.aprob.grilei de salarizare a personalului Corpului Gardienilor Publici al Mun.Bucuresti si a drepturilor salariale a conducatorului institutiei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1658",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1658/h0104_99.pdf",
+     "sha256": "bbe5315bb3f72c31d1b3771a2e6600223c6d2e663dc98fe70030bedf0b89507a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-1999",
+   "path": "local/bucuresti/cgmb/1999/105",
+   "short": "HCGMB nr. 105/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/1999 privind proiectul de \"Act constitutiv al Agentiei de Dezvoltare Urbana pentru Ansamblul Urbanistic Noul Centru Civic-Bucuresti 2000\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1762",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1762/h0105_99.pdf",
+     "sha256": "86463c1af3c963240786f6951892c2452f20c7b94c6ea765443b48bb6def1f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-1999",
+   "path": "local/bucuresti/cgmb/1999/106",
+   "short": "HCGMB nr. 106/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1838",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1838/h0106_99.pdf",
+     "sha256": "91bbbb51ebf64ebd7ebe8d21b8fef1e42b84788c54d25e6a600b11cf9e2ee351"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-1999",
+   "path": "local/bucuresti/cgmb/1999/107",
+   "short": "HCGMB nr. 107/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU MODERNIZARE DRUM - DOMENIUL PUBLIC - AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1847",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1847/h0107_99.pdf",
+     "sha256": "7bc5021a9057b509e4d9487d2184696e38da8eb808fced653427a1416b0865ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-1999",
+   "path": "local/bucuresti/cgmb/1999/108",
+   "short": "HCGMB nr. 108/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/1999 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii - microcentre comeriale pe domeniul privat al Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1857",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1857/h0108_99.pdf",
+     "sha256": "28d0dcb0e136ba9350acee7bec199247a766f326832861fe5f1fcfea4b44c52d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-1999",
+   "path": "local/bucuresti/cgmb/1999/109",
+   "short": "HCGMB nr. 109/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/1999 privind aprobarea unor planuri urbanistice de detaliu pentru alei de acces si balcoane amenajate pe domeniul privat al Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1930",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1930/h0109_99.pdf",
+     "sha256": "00e20080d22ca8c01bd6237003a5fdf21b146e5da66e412b73eb477f9b36de20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-1999",
+   "path": "local/bucuresti/cgmb/1999/11",
+   "short": "HCGMB nr. 11/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1382",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1382/h011_99.pdf",
+     "sha256": "92865c816e90788f5eba854346ceb338a78065b5966c801dbc14856381c0675d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-1999",
+   "path": "local/bucuresti/cgmb/1999/110",
+   "short": "HCGMB nr. 110/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/1999 priv.aprobarea unui plan urbanistic de detaliu pt.amplasare constr.provizorie- garaj in curte imobil cumparat in baza L 112/1995 pe teren priv.Mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1931",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1931/h0110_99.pdf",
+     "sha256": "db00b3907154fbe0209f95fa89f9a84c364e1c939ed85b0d5b9401049ed17d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-1999",
+   "path": "local/bucuresti/cgmb/1999/111",
+   "short": "HCGMB nr. 111/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/1999 priv.probarea unui plan urbanistic de detaliu pt.constructie provizorie pe dom. privat al Mun.Buc.-Str.Foisorului 16-18,sect.3,Supr.constr.=20,0 mp",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1937",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1937/h0111_99.pdf",
+     "sha256": "70371df87d8c2da9fba37510c5ee70618cd25392fbef1cf79311ceacdc34e6b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-1999",
+   "path": "local/bucuresti/cgmb/1999/112",
+   "short": "HCGMB nr. 112/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/1999 privind aprobarea unor planuri urbanistice de detaliu pt.amplasari constructii provizorii-presa si carte tip RODIPET pe dom.public al Mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2226",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2226/h0112_99.pdf",
+     "sha256": "9d43a2a4cbbbe0c79319b0f14d00e1e5bb5423073323c423e97940dfe5afe1e3"
     }
    ]
   },
@@ -48,6 +273,81 @@
    ]
   },
   {
+   "slug": "hcgmb-115-1999",
+   "path": "local/bucuresti/cgmb/1999/115",
+   "short": "HCGMB nr. 115/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/1999 PRIVIND APROBAREA PLANULUI DE AMENAJARE A TERITORIULUI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3686",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3686/h0115_99.pdf",
+     "sha256": "f55098d0cbaa3503920e6080c945962a5710c8beec6ca2119bfaedfe5c2be3ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-1999",
+   "path": "local/bucuresti/cgmb/1999/116",
+   "short": "HCGMB nr. 116/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU AMPLASAREA UNEI STATUI PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3689",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3689/h0116_99.pdf",
+     "sha256": "fc28bb863edb906441756e5e4d7853a7462bc14c85f0b991ae0a1a1739c79f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-1999",
+   "path": "local/bucuresti/cgmb/1999/117",
+   "short": "HCGMB nr. 117/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU ALEE DE ACCES SI BALCON AMENAJAT PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3681",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3681/h0117_99.pdf",
+     "sha256": "6ad3134239792828cc96e42fe10e823900a741be61da894f299ee289491e8b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-1999",
+   "path": "local/bucuresti/cgmb/1999/118",
+   "short": "HCGMB nr. 118/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3687",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3687/h0118_99.pdf",
+     "sha256": "8a686fc20f5dc33991f992ba2cef6d1e45df46c66781b1c29fe9c16b07b548d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-1999",
+   "path": "local/bucuresti/cgmb/1999/119",
+   "short": "HCGMB nr. 119/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/1999 PRIVIND REVENDICAREA BUNURILOR APARTINAND SOCIETATII GENERALE DE GAZ SI ELECTRICITATE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3688",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3688/h0119_99.pdf",
+     "sha256": "78b0eb1cd312f835a09bd506f7558fc6181d2a358a61601437298f1fa238adb5"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-12-1999",
    "path": "local/bucuresti/cgmb/1999/12",
    "short": "HCGMB nr. 12/1999",
@@ -59,6 +359,411 @@
      "units": 3,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1383/h012_99.pdf",
      "sha256": "458b31d6fef7c769dca7abf5729f164e658f985ef785fd734efc8a8e9c53d62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-1999",
+   "path": "local/bucuresti/cgmb/1999/120",
+   "short": "HCGMB nr. 120/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/1999 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU BLOCUL 52 DIN ANSAMBLUL OLTENITEI NORD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3750",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3750/h0120_99.pdf",
+     "sha256": "fb249b0465c5e2cdcc4b49d8958a2deb743b29f1d8cfe57c380e98112f4c8316"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-1999",
+   "path": "local/bucuresti/cgmb/1999/121",
+   "short": "HCGMB nr. 121/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/1999 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU BLOCUL 55 DIN ANSAMBLUL OLTENITEI NORD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3748",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3748/h0121_99.pdf",
+     "sha256": "bf741784c23092f00d6dab87d20967e4a66fbf470e60b079751021144b92b992"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-1999",
+   "path": "local/bucuresti/cgmb/1999/122",
+   "short": "HCGMB nr. 122/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/1999 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU BLOCUL 56 DIN ANSAMBLUL OLTENITEI NORD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3751",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3751/h0122_99.pdf",
+     "sha256": "3e57b8418e9b926aefe4a860d6de525f3f5d06e97dc02b42debc4894a66822f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-1999",
+   "path": "local/bucuresti/cgmb/1999/123",
+   "short": "HCGMB nr. 123/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/1999 PRIVIND APROBAREA PROCESE.-VERBALE ALE COMISIILOR DE NEGOCIERE REFERIT. LA VANZAREA SPATII. COMERCIALE CONSTRUITE DIN FONDURI. STATULUI, CONF.505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2384",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2384/h0123_99.pdf",
+     "sha256": "ad4bd11f8d9c594f97d7631cf356022793cb50f1e491b303631d134a54830fc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-1999",
+   "path": "local/bucuresti/cgmb/1999/124",
+   "short": "HCGMB nr. 124/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/1999 onfPrivind declararea de utilitate publica a lucrarii \"Modernizarea BD. T. Vladimirescu\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2366",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2366/h0124_99.pdf",
+     "sha256": "2de01f5a5cbadedc2e7af6ef65b43f08220a79610b5b2467d70f197aa4e6b6b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-1999",
+   "path": "local/bucuresti/cgmb/1999/125",
+   "short": "HCGMB nr. 125/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \"MODERNIZARE STR. CADEREA BASTILIEI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3752",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3752/h0125_99.pdf",
+     "sha256": "88d21994078300cf3c8d0f2008af699ad4960e13405b2df7d1c718959d78b4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-1999",
+   "path": "local/bucuresti/cgmb/1999/126",
+   "short": "HCGMB nr. 126/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \" MODERNIZARE STR. MATEI VOIEVOD\" MUNICIPIUL BUCURESTI - FAZA SF\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3753",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3753/h0126_99.pdf",
+     "sha256": "7e2a54968e136ebcb4d595b752de37e6dcca28fc7470a85a1534d2779e8be57b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-1999",
+   "path": "local/bucuresti/cgmb/1999/127",
+   "short": "HCGMB nr. 127/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \"MODERNIZARE SOS. FERENTARI, INTRE STR. NASAUD SI BD. PIEPTANARI\" MUNICIPIUL BUCURESTI - FAZA SF",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3747",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3747/h0127_99.pdf",
+     "sha256": "5faf74fe5bb32e3830f2e02d4808c7b755767b380371a4758be76d2f8834f862"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-1999",
+   "path": "local/bucuresti/cgmb/1999/128",
+   "short": "HCGMB nr. 128/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \" MODERNIZARE CALEA PLEVNEI INTRE STR. M. VULCANESCU SI SOS. ORHIDEELOR\", MUNICIPIUL BUCURESTI - FAZA SF",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3749",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3749/h0128_99.pdf",
+     "sha256": "faf4b8c6dfc7f68b9565541986e94fc2db12fc1274ff1419b7882c78f78697a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-1999",
+   "path": "local/bucuresti/cgmb/1999/129",
+   "short": "HCGMB nr. 129/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/1999 PRIVIND DECLARAREA DE UTILITATE PUBLICA LOCALA A LUCRARRII \"REGULARIZARE TRASEU STR. LABIRINT 116 - STR. BARANISTE 29\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3682",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3682/h0129_99.pdf",
+     "sha256": "8e8159b7e9dde69bb03e947156011159b4f15b261fb5107edb7407a4cebaa5e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-1999",
+   "path": "local/bucuresti/cgmb/1999/13",
+   "short": "HCGMB nr. 13/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1999 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe terenuri propr.pers.fizica/juridica in mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1387",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1387/h013_99.pdf",
+     "sha256": "011abacb54bade32d3a4763e4476bcbc8b3026602759b79abc18c72b4805ad88"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-1999",
+   "path": "local/bucuresti/cgmb/1999/130",
+   "short": "HCGMB nr. 130/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE A INVESTITIEI PENTRU INVESTITIILE DIN ANEXA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3745",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3745/h0130_99.pdf",
+     "sha256": "11a0e8c8f0a9e548384f8cc22887891d0890a3babfb77d2b2817ef25642f724f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-1999",
+   "path": "local/bucuresti/cgmb/1999/131",
+   "short": "HCGMB nr. 131/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/1999 PRIVIND SOLICITAREA ELIBERARII DIN FUNCTIE A DIRECTORULUI ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3746",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3746/h0131_99.pdf",
+     "sha256": "17fa0575f7d7918609022982a251f9098935255eca67c3a8d79a04ed5bb93d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-1999",
+   "path": "local/bucuresti/cgmb/1999/132",
+   "short": "HCGMB nr. 132/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3284",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3284/h0132_99.pdf",
+     "sha256": "50898220c9bb32377853d2453103818ae448a8912bcbb851d3a19ada7c4edb0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-1999",
+   "path": "local/bucuresti/cgmb/1999/133",
+   "short": "HCGMB nr. 133/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/1999 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A VENITURILOR SI CHELTUIELILOR BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3301",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-1999",
+   "path": "local/bucuresti/cgmb/1999/134",
+   "short": "HCGMB nr. 134/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3302",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3302/h0134_99.pdf",
+     "sha256": "64cef1049d1f0d1412355a87d10c84bb65713fb441da0a399420c28c23cdd825"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-1999",
+   "path": "local/bucuresti/cgmb/1999/135",
+   "short": "HCGMB nr. 135/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3303",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3303/h0135_99.pdf",
+     "sha256": "328bb94ba8e960b01059e959f9e4d5b0555100899b5a4c60805de5e0f7f73794"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-1999",
+   "path": "local/bucuresti/cgmb/1999/136",
+   "short": "HCGMB nr. 136/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4253",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4253/h0136_99.pdf",
+     "sha256": "efa1097bcece37fd18f50fdab500bfb06d292366d1d4139594823f094c2ad2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-1999",
+   "path": "local/bucuresti/cgmb/1999/137",
+   "short": "HCGMB nr. 137/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU \"MODERNIZARE PIATA VETERANILOR\" IN REGIM PROVIZORIU PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3314",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3314/h0137_99.pdf",
+     "sha256": "6e6fcd7292bff7b03fa9f75819035220e7738cca326c03c3941b825356233ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-1999",
+   "path": "local/bucuresti/cgmb/1999/138",
+   "short": "HCGMB nr. 138/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU STRAMUTARE TEMPORARA A PIETEI RAMNICU-SARAT IN REGIM PROVIZORIU PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3315",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3315/h0138_99.pdf",
+     "sha256": "6d08eb7f51be4a4da386d7e95b0c522fc02ecf47f0e4a79cf44a8836d8f42212"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-1999",
+   "path": "local/bucuresti/cgmb/1999/139",
+   "short": "HCGMB nr. 139/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU \"MODERNIZARE PIATA DRUMUL TABERII\", IN REGIM PROVIZORIU, PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3316",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3316/h0139_99.pdf",
+     "sha256": "7ebd8a613187b1d54c7acd8dcdc42d4bb574d26ae66cd0a48a4972c0b5227060"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-1999",
+   "path": "local/bucuresti/cgmb/1999/14",
+   "short": "HCGMB nr. 14/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1999 privind aprobarea unui plan urbanistic de detaliu pentru constructie definitiva amplasata pe teren dom.public al mun.Bucuresti in adm.pietelor sect.1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1388",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1388/h014_99.pdf",
+     "sha256": "1f51b73aaabe94bfb42ae8582f61d2c515cd59d98c974e53d9d459c1afc06d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-1999",
+   "path": "local/bucuresti/cgmb/1999/140",
+   "short": "HCGMB nr. 140/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3317",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3317/h0140_99.pdf",
+     "sha256": "cc0ef91c86ecf67caae5020ac6ab2193ca45c4f740e31782dd763279502b9e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-1999",
+   "path": "local/bucuresti/cgmb/1999/141",
+   "short": "HCGMB nr. 141/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3318",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3318/h0141_99.pdf",
+     "sha256": "ce44baa4d151e98a0c68a4cf22c1741a428f0833839f10be22fbd77262cb9e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-1999",
+   "path": "local/bucuresti/cgmb/1999/142",
+   "short": "HCGMB nr. 142/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU AMENAJARE PARCAJ PUBLIC PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SOS. VITAN BARZESTI, SECTOR4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3319",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3319/h0142_99.pdf",
+     "sha256": "13e585d37007b9eb79e03eceb52f9154a71a5fb8d2666eb9b5d0ab8cbc517961"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-1999",
+   "path": "local/bucuresti/cgmb/1999/144",
+   "short": "HCGMB nr. 144/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3320",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3320/h0144_99.pdf",
+     "sha256": "01033d02fb4a55f37c5caca1aad3c8d3252a48e37ed0265c814e04763d62ff44"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-1999",
+   "path": "local/bucuresti/cgmb/1999/145",
+   "short": "HCGMB nr. 145/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/1999 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU STUDIUL URBAN - SCULPTURA IN CETATE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3304",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3304/h0145_99.pdf",
+     "sha256": "b4f348078ebc9858eaccfe4bc4fd220f8ad75f09d09798857bcd3d583efe42d2"
     }
    ]
   },
@@ -153,6 +858,186 @@
    ]
   },
   {
+   "slug": "hcgmb-153-1999",
+   "path": "local/bucuresti/cgmb/1999/153",
+   "short": "HCGMB nr. 153/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU AMPLASARI CONSTRUCTII PROVIZORII -PRESA SI CARTE TIP RODIPET PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3305",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3305/h0153_99.pdf",
+     "sha256": "fc988f51928fac4dbf7198f517bcf29ad16c578ac82410d38b01a596aebfe598"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-1999",
+   "path": "local/bucuresti/cgmb/1999/154",
+   "short": "HCGMB nr. 154/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CENTRU COMERCIAL PROVIZORIU PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI AFLAT IN ADMINISTRAREA PRIMARIEI SECTORULUI 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3322",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3322/h0154_99.pdf",
+     "sha256": "b96e84f2bfaa429e6538b40e17967a05508f535d6bb8c0d5e90652be5d3370d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-1999",
+   "path": "local/bucuresti/cgmb/1999/155",
+   "short": "HCGMB nr. 155/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3306",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3306/h0155_99.pdf",
+     "sha256": "5274e5495979b36c96fb7f9d90f8f93db4ff7c5d3a381cfc2d82e4edf510cae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-1999",
+   "path": "local/bucuresti/cgmb/1999/156",
+   "short": "HCGMB nr. 156/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/1999 PRIVIND DAREA IN ADMINISTRAREA REGIEI GENERALE DE APA BUCURESTI A UNOR TERENURI PE CARE SE GASESC OBIECTIVE CARE ASIGURA FUNCTIONAREA SERVICIILOR PRESTATE DE REGIE IN MUNIICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3307",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3307/h0156_99.pdf",
+     "sha256": "3a738acbc20967166d68ec86c4d0c855d3d81e1f6174177e2356609b03f47c16"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-1999",
+   "path": "local/bucuresti/cgmb/1999/157",
+   "short": "HCGMB nr. 157/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/1999 PRIVIND MODIFICAREA ORGANIGRAMEI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE APARATULUI PROPRIU AL PMB, PRIN REORGANIZAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3308",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3308/h0157_99.pdf",
+     "sha256": "7e361c68529e599feb1c6751ec6717427692e453b0bfbff3060bff4176d610ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-1999",
+   "path": "local/bucuresti/cgmb/1999/158",
+   "short": "HCGMB nr. 158/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3309",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3309/h0158_99.pdf",
+     "sha256": "860ffb719fe5b2fc221d005f92f007d3519ae99bac42d104db8e947294ecab8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-1999",
+   "path": "local/bucuresti/cgmb/1999/159",
+   "short": "HCGMB nr. 159/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI \"ION CREANGA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3310",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3310/h0159_99.pdf",
+     "sha256": "111ad0ae73fc1b0aac017e8dcb8054925fa063dd35aa28243087f78cdd8eed65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1999",
+   "path": "local/bucuresti/cgmb/1999/16",
+   "short": "HCGMB nr. 16/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1999 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1384",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1384/h016_99.pdf",
+     "sha256": "d43d96c5b80b9ff4ff1ffe99af8ed2c51d6be9a213224613fff92ea214b507d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-1999",
+   "path": "local/bucuresti/cgmb/1999/160",
+   "short": "HCGMB nr. 160/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TETRULUI EVREIESC DE STAT ABROGATA PRIN HCGMB NR. 352/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3311",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3311/h0160_99.pdf",
+     "sha256": "366fdfe7b7f3fb2c32e3243340794a270518c5bb71cb7889309377a56523e896"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-1999",
+   "path": "local/bucuresti/cgmb/1999/161",
+   "short": "HCGMB nr. 161/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/1999 PRIVIND CONSTITUIREA UNEI COMISII DE ANALIZA A ACTIVITATII REGIEI AUTONOME DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3312",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3312/h0161_99.pdf",
+     "sha256": "3e7cef2bc38131d33a90e4dfd999d3bf39f4809472d2714c9d957f8a55c93a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-1999",
+   "path": "local/bucuresti/cgmb/1999/162",
+   "short": "HCGMB nr. 162/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3313",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3313/h0162_99.pdf",
+     "sha256": "f7cb6bd2fc722f46c39b2de94f2cdc3f7f199652585c1d2615fd933e2d2d6e19"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-1999",
+   "path": "local/bucuresti/cgmb/1999/163",
+   "short": "HCGMB nr. 163/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/1999 PRIVIND REORGANIZAREA SERVICIULUI PUBLIC DE SALUBRIZARE DIN MUNICIPIUL BUCURESTI SI MODIFICAREA HCGMB NR. 152/7.10.1996 SI A HCGMB N3. 167/10.12.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3333",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3333/h0163_99.pdf",
+     "sha256": "a183af1f0caf961f4694c911e7c93c4fe58fef83a0bc9668af493639d4ff22b3"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-164-1999",
    "path": "local/bucuresti/cgmb/1999/164",
    "short": "HCGMB nr. 164/1999",
@@ -164,6 +1049,36 @@
      "units": 12,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3323/h0164_99.pdf",
      "sha256": "d4bdf59df73ecde9e7ebde3c43b6339da9b12d0188fe26c425dc6176151f779c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-1999",
+   "path": "local/bucuresti/cgmb/1999/165",
+   "short": "HCGMB nr. 165/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/1999 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI, CONFORM HOTARARII GUVERNULUI NR. 505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3324",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3324/h0165_99.pdf",
+     "sha256": "0670c05a2a326dd35d94deeaa045320d756cb2ba11af2905d0c6ed83d0aafa26"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-1999",
+   "path": "local/bucuresti/cgmb/1999/166",
+   "short": "HCGMB nr. 166/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/1999 PRIVIND APROBAREA NOULUI TIP DE CONTRACT DE INCHIRIERE PENTRU LOCUINTE SI STABILIREA CHIRIILOR PENTRU GARAJE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3325",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3325/h0166_99.pdf",
+     "sha256": "c8df39ef73dc050f2a8a2619acd9eb84a39299f3a50bc76451e9d73e442dd2e4"
     }
    ]
   },
@@ -183,6 +1098,81 @@
    ]
   },
   {
+   "slug": "hcgmb-168-1999",
+   "path": "local/bucuresti/cgmb/1999/168",
+   "short": "HCGMB nr. 168/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU OBIECTIVE DE INVESTITII PRIVIND EXTINDEREA RETELELOR DE ALIMENTARE CU APA SI CANALIZARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3327",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3327/h0168_99.pdf",
+     "sha256": "0c8f91653c2eb7beaf8c60f61ab353a28ba5e687d6b7f002cad9b97d80ace03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-1999",
+   "path": "local/bucuresti/cgmb/1999/169",
+   "short": "HCGMB nr. 169/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/1999 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU \"CONSOLIDAREA CLADIRII SI REPARATII CAPITALE LA INSTALATII - SEDIUL PRIMARIEI MUNICIPIULUI BUCURESTI\" ABROGATA PRIN HCGMB NR. 159/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3328",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3328/h0169_99.pdf",
+     "sha256": "9aa654daf97fda050aa7335654efbbc80eb07cb7459c087afca7c6780406acb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1999",
+   "path": "local/bucuresti/cgmb/1999/17",
+   "short": "HCGMB nr. 17/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1999 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii -presa si carte tip RODIPET amplasate pe dom.public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1389",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1389/h017_99.pdf",
+     "sha256": "b1fd765d951ce056266fc601d18b460702ce5327bb8d1e9725005e8d60feea68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-1999",
+   "path": "local/bucuresti/cgmb/1999/170",
+   "short": "HCGMB nr. 170/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3329",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3329/h0170_99.pdf",
+     "sha256": "adf8e9f9705df913257e8c2c790219396723c2f39bae561103fa3c6c31305e2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-1999",
+   "path": "local/bucuresti/cgmb/1999/171",
+   "short": "HCGMB nr. 171/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/1999 PRIVIND ORGANIZAREA SI FUNCTIONAREA COMISIEI SPECIALE PENTRU INTOCMIREA INVENTARULUI BUNURILOR CARE ALCATUIESC DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3330",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3330/h0171_99.pdf",
+     "sha256": "8bc924d2b2fc20dc724f219f8ae2077e60635ba2748ea619e92447309a72f278"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-172-1999",
    "path": "local/bucuresti/cgmb/1999/172",
    "short": "HCGMB nr. 172/1999",
@@ -194,6 +1184,111 @@
      "units": 13,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3331/h0172_99.pdf",
      "sha256": "1c4aef1088c36b237985bd49811754a1f583b8efe3e9a14b8bdc4873e4a5bde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-1999",
+   "path": "local/bucuresti/cgmb/1999/173",
+   "short": "HCGMB nr. 173/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/1999 PRIVIND PARTICIPAREA PRIMARIEI MUNICIPIULUI BUCURESTI LA REALIZAREA PROIECTULUI \"UN BUCURESTI FRUMOS\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3332",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3332/h0173_99.pdf",
+     "sha256": "7129c0c45f0622c69d04cc2426bacabaa89ab040935ee2fe6ed56d98958782d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-1999",
+   "path": "local/bucuresti/cgmb/1999/174",
+   "short": "HCGMB nr. 174/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/1999 PRIVIND APROBAREA BILANTULUI CONTABIL SI CONTULUI DE PROFIT SI PIERDERE LA 31 DECEMBRIE 1998 AL REGIEI AUTONOME DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3334",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3334/h0174_99.pdf",
+     "sha256": "437967656b90ecfd45698cc67c02eb5f0d37870a6d99615c05ac78a4662f02b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-1999",
+   "path": "local/bucuresti/cgmb/1999/175",
+   "short": "HCGMB nr. 175/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/1999 PRIVIND APROBAREA BILANTULUI CONTABIL SI CONTULUI DE PROFIT SI PIERDERE LA 31 DECEMBRIE 1998 AL R.A.D.E.T",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3335",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3335/h0175_99.pdf",
+     "sha256": "2a2ad344aaae30422732462c7ef3fc87d47121add0822672c280919b008d9787"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-1999",
+   "path": "local/bucuresti/cgmb/1999/176",
+   "short": "HCGMB nr. 176/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/1999 PRIVIND APROBAREA BILANTULUI CONTABIL SI CONTULUI DE PROFIT SI PIERDERE LA 31 DECEMBRIE 1998 AL R.G.A.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3336",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3336/h0176_99.pdf",
+     "sha256": "be490c146cd6916f9b01f13c6e7b01b2d5c8eeca951c9abc87a0c18b83cdee2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-1999",
+   "path": "local/bucuresti/cgmb/1999/177",
+   "short": "HCGMB nr. 177/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/1999 PRIVIND APROBAREA ORGAMIGRAMEI SI NUMARULUI DE PERSONAL SI STATUTUL BIBLIOTECII MUNICIPALE BUCURESTI \"MIHAIL SADOVEANU\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3337",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3337/h0177_99.pdf",
+     "sha256": "5e950dcf36d4eba227464763e73c5fae925a7fb1b03503f3c6391bfbf21ed30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-1999",
+   "path": "local/bucuresti/cgmb/1999/178",
+   "short": "HCGMB nr. 178/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3338",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3338/h0178_99.pdf",
+     "sha256": "e1af4aeb6a5935afc2ca17d00044b20b638f6f9782c1462653652abb9a7075ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-1999",
+   "path": "local/bucuresti/cgmb/1999/179",
+   "short": "HCGMB nr. 179/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE UNIVERSITATII POPULARE \"IOAN I. DALLES\" ABROGATA PRIN HCGMB 351/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3339",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3339/h0179_99.pdf",
+     "sha256": "bedd65c4dc000e25b6b2e85764f5d757db907d7f5664bac770f8868d72c14384"
     }
    ]
   },
@@ -213,6 +1308,111 @@
    ]
   },
   {
+   "slug": "hcgmb-180-1999",
+   "path": "local/bucuresti/cgmb/1999/180",
+   "short": "HCGMB nr. 180/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3340",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3340/h0180_99.pdf",
+     "sha256": "68e02da4f3808a5a9551ca13720677982d720feeaaa643fb773ca80bef013a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-1999",
+   "path": "local/bucuresti/cgmb/1999/181",
+   "short": "HCGMB nr. 181/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3321",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3321/h0181_99.pdf",
+     "sha256": "a964736daacdde73ead1af3758393d1f6fbe8b5fe4d4c52edb043cc7a656c894"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-1999",
+   "path": "local/bucuresti/cgmb/1999/182",
+   "short": "HCGMB nr. 182/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI DE MARIONETE SI PAPAUSI \"TANDARICA\" SE ABROGA PRIN HCGMB NR. 348/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3342",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3342/h0182_99.pdf",
+     "sha256": "7a94f3b7171afe82118b6c652b2ec7deffa4ba532fbb89e0d4273a2bbd5f9044"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-1999",
+   "path": "local/bucuresti/cgmb/1999/183",
+   "short": "HCGMB nr. 183/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/1999 PRIVIND APROBAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3343",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3343/h0183_99.pdf",
+     "sha256": "b75c7552f2ca8657c940b5f35557bda7169beb5f723ceed6b1fcdd50d2cd61ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-1999",
+   "path": "local/bucuresti/cgmb/1999/184",
+   "short": "HCGMB nr. 184/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE ALE OBIECTIVELOR DE INVESTITII \"MODERNIZAREA INFRASTRUCTURII RETELEI DE TRAMVAI IN ZONA DE SUD-VEST A MUNICIPIULUI BUCURESTI \" SI \"MODERNIZAREA SISTEMULUI DE TAXARE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3344",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3344/h0184_99.pdf",
+     "sha256": "bba5d7cade96faf4764faa41d39d3d424893fde4c909ee256973828fef5bdf81"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-1999",
+   "path": "local/bucuresti/cgmb/1999/185",
+   "short": "HCGMB nr. 185/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITAIVA TENIS CLUB BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3345",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3345/h0185_99.pdf",
+     "sha256": "9247045a40fa571289dbf9ad9e99400744334006c9987b404383ae3b0b61eadc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-1999",
+   "path": "local/bucuresti/cgmb/1999/186",
+   "short": "HCGMB nr. 186/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3346",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3346/h0186_99.pdf",
+     "sha256": "71ed9bf3060559e573e3e32201b7fe5bb6da76e4831275055fb021040fc110fc"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-187-1999",
    "path": "local/bucuresti/cgmb/1999/187",
    "short": "HCGMB nr. 187/1999",
@@ -224,6 +1424,456 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3347/h0187_99.pdf",
      "sha256": "17e3874219886a5f174f9663577ae160d5beee0a6d1f8c71b09bcd9466d64030"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-1999",
+   "path": "local/bucuresti/cgmb/1999/188",
+   "short": "HCGMB nr. 188/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3348",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3348/h0188_99.pdf",
+     "sha256": "e4b9286f831b166dd28434cf86f8590abc6ef62c0769aff4253b0aa7772bc1a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-1999",
+   "path": "local/bucuresti/cgmb/1999/189",
+   "short": "HCGMB nr. 189/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU AMPLASARE A DOUA PORTI MARAMURESENE LA BISERICA POGORAREA SF. DUH - TITAN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3349",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3349/h0189_99.pdf",
+     "sha256": "57d38cc01a68b06f7f3d0a5c6e838f75c02086db6b99325f6be1ce4003b043fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-1999",
+   "path": "local/bucuresti/cgmb/1999/190",
+   "short": "HCGMB nr. 190/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3353",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3353/h0190_99.pdf",
+     "sha256": "433912eca93aedb3e276a8ca3128c15780759f34a73fe43e0e8e9383332d8d95"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-1999",
+   "path": "local/bucuresti/cgmb/1999/191",
+   "short": "HCGMB nr. 191/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3366",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3366/h0191_99.pdf",
+     "sha256": "f01e04ca9f59869977845c40257dfe54200aac463ec7df5efd7fcd2e65825a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-1999",
+   "path": "local/bucuresti/cgmb/1999/192",
+   "short": "HCGMB nr. 192/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3367",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3367/h0192_99.pdf",
+     "sha256": "16eee2e65a73ae581b367b12a64565ec7fd98835579a18ebec346ac6f09a03de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-1999",
+   "path": "local/bucuresti/cgmb/1999/193",
+   "short": "HCGMB nr. 193/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3368",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3368/h0193_99.pdf",
+     "sha256": "fe7814f4a7946cb670618609006e32c18712cd639938a9a3d58689459b1945b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-1999",
+   "path": "local/bucuresti/cgmb/1999/194",
+   "short": "HCGMB nr. 194/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CONSTRUCTIE PROVIZORIE - MICROCENTRU COMERCIAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3369",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3369/h0194_99.pdf",
+     "sha256": "60b99a5c3161bcb1dd61cabf3bddf939edee3fe5199e79e62a3f255b72bd652b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-1999",
+   "path": "local/bucuresti/cgmb/1999/195",
+   "short": "HCGMB nr. 195/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU AMPLASARE CONSTRUCTIE PROVIZORIE PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3350",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3350/h0195_99.pdf",
+     "sha256": "3c0ceb82cda08b19a8b5818155bb976b62737e16a6730e76a78352ce5bcaa3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-1999",
+   "path": "local/bucuresti/cgmb/1999/196",
+   "short": "HCGMB nr. 196/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU RESTAURARE CONSTRUCTIE PROVIZORIE TRADITIONALA PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3351",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3351/h0196_99.pdf",
+     "sha256": "f2517d86473b98193fb2a2fe12b92fead718dbd75e25251b93db168a4f289f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-1999",
+   "path": "local/bucuresti/cgmb/1999/197",
+   "short": "HCGMB nr. 197/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3352",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3352/h0197_99.pdf",
+     "sha256": "306cdd8d872f21c28c777cb2d8cfe2f10a8468e11b537519ab7e0c817fce1398"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-1999",
+   "path": "local/bucuresti/cgmb/1999/199",
+   "short": "HCGMB nr. 199/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII AMPLASATE PE TEREN DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3354",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3354/h0199_99.pdf",
+     "sha256": "f457e41a13b7c8df43d2b2c1e8a9d6abc4431e55a8143d5682336dbf2a8a1a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-1999",
+   "path": "local/bucuresti/cgmb/1999/2",
+   "short": "HCGMB nr. 2/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/1999 privind utilizarea disponibiliului fondului de rulment al bugetului Consiliului General al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1377",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1377/h02_99.pdf",
+     "sha256": "5426b368e529fe912bb8b909e9cd394cf4644ce02f0255dc876a6fe5bd5b75eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1999",
+   "path": "local/bucuresti/cgmb/1999/20",
+   "short": "HCGMB nr. 20/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1999 privind concesionarea unui teren din str. Constantin Aricescu 26",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1687",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1687/h020_99.pdf",
+     "sha256": "65482776b4c383dcdf28a762356f5a24d33ca0243bb55fad9bacb41a4388517b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-1999",
+   "path": "local/bucuresti/cgmb/1999/200",
+   "short": "HCGMB nr. 200/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII AMPLASATE PE TEREN DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3355",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3355/h0200_99.pdf",
+     "sha256": "880c31389102943f1861ba715f581c438c6c6b9b28b26b9e0ced7be2a9814adc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-1999",
+   "path": "local/bucuresti/cgmb/1999/202",
+   "short": "HCGMB nr. 202/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/1999 PRIVIND APROBAREA DOCUMENTELOR PENTRU CONCESIONAREA PRIN LICITATIE A TERENURILOR APARTINAND DOMENIULUI PUBLIC SAU PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3356",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3356/h0202_99.pdf",
+     "sha256": "e1bb35ca24173f954b1ef91f2c51fdf088dab5c600b1eab4e7c6fbbbba79ae5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-1999",
+   "path": "local/bucuresti/cgmb/1999/203",
+   "short": "HCGMB nr. 203/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/1999 PRIVIND APROBAREA VANZARII COTEI PARTI INDIVIZE DIN TERENURILE BLOCURILOR DE LOCUINTE FINALIZATE PRIN ASOCIERE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3683",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3683/h0203_99.pdf",
+     "sha256": "d61f9988b2299f468d7cfba2140c7357e644568c85b4ca47d0b0689a27d762c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-1999",
+   "path": "local/bucuresti/cgmb/1999/204",
+   "short": "HCGMB nr. 204/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/1999 PRIVIND TRANSMITEREA IN ADMINISTRAREA ADMINISTRATIEI PARCURILOR SI GRADINIKLOR A UNOR IMOBILE AFLATE IN PARCURILE HERASTRAU, CISMIGIU, TINERETULUI SI CAROL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3357",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3357/h0204_99.pdf",
+     "sha256": "c593e230ea897d19ad1b03292e13a7784e26318764d462ddb8f633943762460b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-1999",
+   "path": "local/bucuresti/cgmb/1999/205",
+   "short": "HCGMB nr. 205/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/1999 PRIVIND MODIFICAREA POZ.15 DIN ANEXA 1 LA HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 65/18.03.1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3358",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3358/h0205_99.pdf",
+     "sha256": "6bf46fb19e83ea79ba80d5790a24635c8db2952a66c827c7ef825d95d3e9a8d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-1999",
+   "path": "local/bucuresti/cgmb/1999/206",
+   "short": "HCGMB nr. 206/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/1999 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"I.M.S.A.\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3359",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3359/h0206_99.pdf",
+     "sha256": "717b611a69f2ddcc6b4e41934a23ce1b4444d78ccc4cf938a18166cace78bd3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-1999",
+   "path": "local/bucuresti/cgmb/1999/207",
+   "short": "HCGMB nr. 207/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/1999 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE ADREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"TROCADERO\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3360",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3360/h0207_99.pdf",
+     "sha256": "1430f8e3be209da4e6256baaac34d6026c83a3e6b03d7307c2895354a47ed7f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-1999",
+   "path": "local/bucuresti/cgmb/1999/208",
+   "short": "HCGMB nr. 208/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/1999 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"TRANS-ALEXANDRIA\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3361",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3361/h0208_99.pdf",
+     "sha256": "8f2125865eff979ace1f4d026c4a5dcfdeb68ad1f310adc72108eb6b950d231a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-1999",
+   "path": "local/bucuresti/cgmb/1999/209",
+   "short": "HCGMB nr. 209/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/1999 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"LIPSCA\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3362",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3362/h0209_99.pdf",
+     "sha256": "aa6ce7ddfe2ea45a09aec1e3923476478d6cdd2d410573c51101030570840473"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1999",
+   "path": "local/bucuresti/cgmb/1999/21",
+   "short": "HCGMB nr. 21/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1999 privind atribuirea in folosinta gratuita a terenului din str. Dobrogeanu Gherea 96, Fundatiei Nationale pt. Protectia Animalelor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1686",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1686/h021_99.pdf",
+     "sha256": "cce6594b622d48606ca8953472dd0f9e52d9f8dadf083d7f8c977e736197b5d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-1999",
+   "path": "local/bucuresti/cgmb/1999/210",
+   "short": "HCGMB nr. 210/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/1999 PRIVIND CONSTITUIREA UNOR COMPARTIMENTE DE SPECIALITATE URMARE APLICARII PREVEDERILOR HG 333/29.04.1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3363",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3363/h0210_99.pdf",
+     "sha256": "4a906e710c030c7005022f41bfdafafc58d02f517a45aad9b30095d643d6c123"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-1999",
+   "path": "local/bucuresti/cgmb/1999/211",
+   "short": "HCGMB nr. 211/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/1999 PRIVIND REABILITAREA FORAJELOR DIN MUNICIPIUL BUCURESTI, DETINUTE DE R.G.A.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3364",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3364/h0211_99.pdf",
+     "sha256": "0cac3b8473ca7951f277b5886298bfccb0ed1f7ee9f28ff23165405482e4ceab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-1999",
+   "path": "local/bucuresti/cgmb/1999/212",
+   "short": "HCGMB nr. 212/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII DEFINITIVE AMPLASATE PE TERENURI PROPRIETATE DE STAT IN ADMINISTRAREA UNOR INSTITUTII PUBLICE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3365",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3365/h0212_99.pdf",
+     "sha256": "c178e6bb73ff6ff1cba37c883532859f35c9c8e83cdcc6e47202724ccba4f95e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-1999",
+   "path": "local/bucuresti/cgmb/1999/213",
+   "short": "HCGMB nr. 213/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/1999 PRIVIND SCHIMBUL UNUI TEREN IN SUPRAFATA DE 467 MP , AFLATE IN SOS KISELEFF NR. 18,SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3370",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3370/h0213_99.pdf",
+     "sha256": "fc0b8778d6e9ceb18b185399cfc5cf2facf9b4445ee57541fd89b798325b006c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-1999",
+   "path": "local/bucuresti/cgmb/1999/214",
+   "short": "HCGMB nr. 214/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/1999 PRIVIND RECUPERAREA SUMEI DE 181.426.150 LEI DE LA FOSTA CONDUCERE A CIRCULUI \"GLOBUS\" BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3373",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3373/h0214_99.pdf",
+     "sha256": "3edca243ff9ad88b17ae107c96cb1783a26c8c2b773e3a953b958c8bbb1ce667"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-1999",
+   "path": "local/bucuresti/cgmb/1999/215",
+   "short": "HCGMB nr. 215/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/1999 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI CONFORM HG. NR. 505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3372",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3372/h0215_99.pdf",
+     "sha256": "1c1f313ab83d179f0efcbd77ea2054e11b632b613fa9146ebcf894258aa16eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-1999",
+   "path": "local/bucuresti/cgmb/1999/216",
+   "short": "HCGMB nr. 216/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/1999 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 105/13.05.1999, PRIVIND PROIECTUL DE \"ACT CONSTITUTIV AL AGENTIEI DE DEZVOLTARE URBANA PENTRU ANSAMBLUL URBANISTIC NOUL CENTRU CIVIC- BUCURESTI 2000\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3371",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3371/h0216_99.pdf",
+     "sha256": "e163cb21166b4f1efc81eb2c006a71530aa63a21efe9e67248d29a60aba67bd6"
     }
    ]
   },
@@ -243,6 +1893,81 @@
    ]
   },
   {
+   "slug": "hcgmb-218-1999",
+   "path": "local/bucuresti/cgmb/1999/218",
+   "short": "HCGMB nr. 218/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/1999 PRIVIND ELIBERAREA DIN FUNCTIE A DIRECTORULUI TEATRULUI MUNICIPAL \"L.S.BULANDRA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3375",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3375/h0218_99.pdf",
+     "sha256": "cedab2e37b59417e98721f72a336d0ad61eb899ce26fd01c1d2084e561c176aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-1999",
+   "path": "local/bucuresti/cgmb/1999/219",
+   "short": "HCGMB nr. 219/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/1999 PRIVIND ORGANIZAREA \"CENTRULUI DE PROTECTIE A PLANTELOR SI CARANTINA FITOSANITARA IN SUBORDINEA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI\" ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 107/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3376",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3376/h0219_99.pdf",
+     "sha256": "ad5f63323ed0def6346966824163022ac82c07254ca8b9589ab66736d7712817"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-1999",
+   "path": "local/bucuresti/cgmb/1999/220",
+   "short": "HCGMB nr. 220/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/1999 PRIVIND CONCESIONAREA FARA LICITATIE PUBLICA, PRIN EXTINDEREA LA CONSTRUCTIA EXISTENTA A HOTELULUI \"MAJESTIC\" A UNUI TEREN APARTINAD DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3377",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3377/h0220_99.pdf",
+     "sha256": "705f54849bbe7df149af07a9dd7dd5e57df0615fd9b4514b66487ac615c09339"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-1999",
+   "path": "local/bucuresti/cgmb/1999/221",
+   "short": "HCGMB nr. 221/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/1999 PENTRU TRANSMITEREA UNOR SPATII CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA DIN ADMINISTRAREA PRIMARIEI MUNICIPIULUI BUCURESTI IN ADMINISTRAREA PRIMARIILOR DE SECTOR POZ. 2 DIN ANEXA LA HCGMB NR. 221/1999 INCETAT APLICABILITATEA PRIN HCGMB NR. 614/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3378",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3378/h0221_99.pdf",
+     "sha256": "c1d996b0449c8d55ba1b952fbb353063889dc792cb5937827996f41d19eb8ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-1999",
+   "path": "local/bucuresti/cgmb/1999/222",
+   "short": "HCGMB nr. 222/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3379",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3379/h0222_99.pdf",
+     "sha256": "832288cb44f491376bb433229131ee671bd7fa618e44544c4494ac5ae6d53bfd"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-223-1999",
    "path": "local/bucuresti/cgmb/1999/223",
    "short": "HCGMB nr. 223/1999",
@@ -254,6 +1979,1071 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3380/h0223_99.pdf",
      "sha256": "63982e78b7d473587037b967c0f5faf64444aa6933cca0f84d22271be1ffccd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-1999",
+   "path": "local/bucuresti/cgmb/1999/224",
+   "short": "HCGMB nr. 224/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO- ECONOMICE A OBIECTIVULUI DE INVESTITII \"SUBSTATIE ELECTRICA DE TRACTIUNE 1 DECEMBRIE 1918\", MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3381",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3381/h0224_99.pdf",
+     "sha256": "8a8b75564ee9d72440941d6292b66146a9a12facb6cc46a82cdabff8ed996197"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-1999",
+   "path": "local/bucuresti/cgmb/1999/225",
+   "short": "HCGMB nr. 225/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \"MODERNIZAREA LINIEI DE TRAMVAI PE BD. BUCURESTII NOI, DE LA STR. CARPATO LA STR. PAJUREI\" MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3382",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3382/h0225_99.pdf",
+     "sha256": "1a06469ab4116af9d98e260dec5d13c561cd0ac27f8a798a220a402062bb3b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-1999",
+   "path": "local/bucuresti/cgmb/1999/226",
+   "short": "HCGMB nr. 226/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \" MODIFICAREA LINIEI DE TRAMVAI PE CALEA GIULESTI, DE LA SOS. ORHIDEELOR LA B-DUL CONSTRUCTORILOR\", MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3383",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3383/h0226_99.pdf",
+     "sha256": "60de22777872012990e613a9ac692e18a7da35b4597ae002e04064364bede21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-1999",
+   "path": "local/bucuresti/cgmb/1999/227",
+   "short": "HCGMB nr. 227/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \"MODERNIZAREA LINIEI DE TRAMVAI PE CALEA RAHOVEI, DE LA STR. SEBASTIAN LA SOS. ALEXANDRIEI\", MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3384",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3384/h0227_99.pdf",
+     "sha256": "a4b94b179b3de55b6a14d1b48e4acaf8ae4f511f6de0a96f5443a9511bd7c8b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-1999",
+   "path": "local/bucuresti/cgmb/1999/228",
+   "short": "HCGMB nr. 228/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \"SUBSTATIE ELECTRICA DE TRACTIUNE RAZOARE\", MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3385",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3385/h0228_99.pdf",
+     "sha256": "cbc2679a9f2c6c65ebb83afeb06ca50e211a0cf2aefb93150b936ce865550fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-1999",
+   "path": "local/bucuresti/cgmb/1999/229",
+   "short": "HCGMB nr. 229/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3386",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3386/h0229_99.pdf",
+     "sha256": "51aa48177a3c84ff2c3e72176fbf87149318a163f7056d51086ee7c5783aafd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1999",
+   "path": "local/bucuresti/cgmb/1999/23",
+   "short": "HCGMB nr. 23/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1999 privind modul de decontare a cheltuielilor aferente functionarii cismelelor publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1685",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1685/h023_99.pdf",
+     "sha256": "702e58afe936bfcccc65ab5f08857a67ee4fba08a52fd84de044402903e57052"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-1999",
+   "path": "local/bucuresti/cgmb/1999/230",
+   "short": "HCGMB nr. 230/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \"MODERNIZAREA LINIEI DE TRAMVAI PE B-DUL PRECIZIEI, DE LA VALEA CASCADELOR LA DEPOUL MILITARI, MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3387",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3387/h0230_99.pdf",
+     "sha256": "64bf9ac1291ca481b5bc13bba8b5a35c721d8621776caa415ecfea68bd2c56c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-1999",
+   "path": "local/bucuresti/cgmb/1999/231",
+   "short": "HCGMB nr. 231/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3388",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3388/h0231_99.pdf",
+     "sha256": "419b1c8f2ed8a787c4b3d3e12155cc3d78f5b13510e156bdc46373a8473d1770"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-1999",
+   "path": "local/bucuresti/cgmb/1999/232",
+   "short": "HCGMB nr. 232/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/1999 PRIVIND APROBAREA DOCUMENTATIEI NECESARE CONTRACTARII PRIN LICITATIE PUBLICA A ACTIVITATII DE EXECUTIE A LUCRARILOR DE REABILITARE SI INTRETINERE MULTIANUALA A STRAZILOR DE PE TERITORIUL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3389",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3389/h0232_99.pdf",
+     "sha256": "797bfd4e1bd742d3b48e62bfa7378dc15804384bf47e2033b6396aa6e766f935"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-1999",
+   "path": "local/bucuresti/cgmb/1999/233",
+   "short": "HCGMB nr. 233/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/1999 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE, REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI, CONFORM HOTARARII GUVERNULUI NR. 505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3390",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3390/h0233_99.pdf",
+     "sha256": "fdd89564451d2b4ce5ab9ae78c66bb1b88549cf64872ad85495ca51c80315475"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-1999",
+   "path": "local/bucuresti/cgmb/1999/234",
+   "short": "HCGMB nr. 234/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3391",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3391/h0234_99.pdf",
+     "sha256": "9b3fcc048743f313b7c4d05313f7645f93434db7caf1a214a9b831223984efa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-1999",
+   "path": "local/bucuresti/cgmb/1999/235",
+   "short": "HCGMB nr. 235/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI MIC SE ABROGA PRIN HCGMB NR. 295/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3392",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3392/h0235_99.pdf",
+     "sha256": "81f32a80bfb7affd87972bcec3b7567b81705b75b6e42a15a558a47fe0d97b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-1999",
+   "path": "local/bucuresti/cgmb/1999/236",
+   "short": "HCGMB nr. 236/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/1999 PRIVIND INDEPLINIREA FORMALITATILOR PREMERGATOARE ACHIZITIEI CET PIPERA, PROPRIETATE A SOCIETATII COMERCIALE PIPERA S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3393",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3393/h0236_99.pdf",
+     "sha256": "2d562df315ee50a67c0c4ecbf0e224c4321f80632b39fa2d58e537846e48c86b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-1999",
+   "path": "local/bucuresti/cgmb/1999/237",
+   "short": "HCGMB nr. 237/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/1999 PRIVIND ELIBERAREA CERTIFICATULUIDE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"PANDURI\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3394",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3394/h0237_99.pdf",
+     "sha256": "7ecfbf87da263d98bdbf5ab10c9b74cfb3f4e347fa949119eab5e362b1ff4b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-1999",
+   "path": "local/bucuresti/cgmb/1999/238",
+   "short": "HCGMB nr. 238/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/1999 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTAREA DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"ALUNIS\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3395",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3395/h0238_99.pdf",
+     "sha256": "06ecf98f8170b6fb38eb79846c1ed9dcae6883ed55109158cf708ea8c90bc18c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-1999",
+   "path": "local/bucuresti/cgmb/1999/239",
+   "short": "HCGMB nr. 239/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU OBIECTIVE DE INVESTITII PRIVIND EXTINDEREA RETELELOR DE ALIMENTARE CU APA SI CANALIZARE PE STR. RENASTERII, ECHIPAJULUI SI GROHOTISULUI, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3396",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3396/h0239_99.pdf",
+     "sha256": "1867c9e970bd04d87e9045feb0a52a6e66b8a341cbc0df67bcc4ffd524d31dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1999",
+   "path": "local/bucuresti/cgmb/1999/24",
+   "short": "HCGMB nr. 24/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1999 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1393",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1393/h024_99.pdf",
+     "sha256": "d433469c163aa311e5e84a4a51312b926e5eadc7dcf68b77bc676f9566f5150d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-1999",
+   "path": "local/bucuresti/cgmb/1999/240",
+   "short": "HCGMB nr. 240/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESTITII REABILITAREA RETELELOR DE DISTRIBUTIE A APEI POTABILE SITUATE INTRE STATIILE DE HIDROFOR SI CONSUMATORI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3397",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3397/h0240_99.pdf",
+     "sha256": "fd40e7fc46a70f62b4c85541caa599f162dc67e204bf57e8970ee3999d154e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-1999",
+   "path": "local/bucuresti/cgmb/1999/241",
+   "short": "HCGMB nr. 241/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE DIN ANEXA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3399",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3399/h0241_99.pdf",
+     "sha256": "fdee110a9f8fb3a912812a4b0ab6b9f863bc2193e6d7e3bd773a1411567c5488"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-1999",
+   "path": "local/bucuresti/cgmb/1999/242",
+   "short": "HCGMB nr. 242/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/1999 PRIVIND NUMIREA DIRECTORULUI CANTINEI CENTRALE DE AJUTOR SOCIAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3744",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3744/h0242_99.pdf",
+     "sha256": "acec8e35b53a80baf075bd3d8722ba9ec4d1782525add24a2298173819a6206b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-1999",
+   "path": "local/bucuresti/cgmb/1999/243",
+   "short": "HCGMB nr. 243/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/1999 PRIVIND ELIBERAREA DIN FUNCTIE A DIRECTORULUI ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3743",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3743/h0243_99.pdf",
+     "sha256": "23d6fe4c777b9397ba98665862bb118ea534c3610ee484e786c7edeefd743378"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-1999",
+   "path": "local/bucuresti/cgmb/1999/244",
+   "short": "HCGMB nr. 244/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3859",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3859/h0244_99.pdf",
+     "sha256": "5123e91f6338cad0a906fa9368928c79e0f39260035d889c1443f58b9f62a4d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-1999",
+   "path": "local/bucuresti/cgmb/1999/246",
+   "short": "HCGMB nr. 246/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3400",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3400/h0246_99.pdf",
+     "sha256": "3948dbb7f105a9bf3426e586afa64cdd980213b30d0fdb266e4135f9dcb5575f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-1999",
+   "path": "local/bucuresti/cgmb/1999/247",
+   "short": "HCGMB nr. 247/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3858",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3858/h0247_99.pdf",
+     "sha256": "460bce9433c28a74ade8bfafe87d6f7b72e2fe2c723f6a1137492e4b7aa7ae69"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-1999",
+   "path": "local/bucuresti/cgmb/1999/248",
+   "short": "HCGMB nr. 248/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3401",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3401/h0248_99.pdf",
+     "sha256": "f1c5120ed15fb18df620ad9c4e36027061174677171424b7f6bc720289f3b56d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-1999",
+   "path": "local/bucuresti/cgmb/1999/249",
+   "short": "HCGMB nr. 249/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4455",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4455/h0249_99.pdf",
+     "sha256": "7def5bd891daec4a60938317f9b5d8100a129359838af657bd722461bffbc98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1999",
+   "path": "local/bucuresti/cgmb/1999/25",
+   "short": "HCGMB nr. 25/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1999 privind rectificarea bugetului Consiliului General al municipiului Bucuresti pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1400",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1400/h025_99.pdf",
+     "sha256": "3912a8d8c2db0ea041f5c4e283fc6068860c0ac1f5f82e8b067acf59ef5aec54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-1999",
+   "path": "local/bucuresti/cgmb/1999/250",
+   "short": "HCGMB nr. 250/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/1999 Privind aprobarea proceselor verbale ale comisiilor de negociere referitoare la vanzarea spatiilor comerciale construite din fondurile statului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3910",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3910/h0250_99.pdf",
+     "sha256": "9e6363df5b33960f9452ff83a73610761e42087c04c7910d28ed4038d14e93b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-1999",
+   "path": "local/bucuresti/cgmb/1999/251",
+   "short": "HCGMB nr. 251/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4775",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4775/h0251_99.pdf",
+     "sha256": "f70f09da60e5f782f76777a2a5552aec0ce6fc27a7a9fce7daa34cd79f8226b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-1999",
+   "path": "local/bucuresti/cgmb/1999/252",
+   "short": "HCGMB nr. 252/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/1999 PRIVIND PRIVATIZAREA SOCIETATII COMERCIALE DRUPO S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3857",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3857/h0252_99.pdf",
+     "sha256": "a68c2f4cfe34fff92e512fa2db74530c8f8b6dca2df86a4912db4edbfaa289c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-1999",
+   "path": "local/bucuresti/cgmb/1999/253",
+   "short": "HCGMB nr. 253/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4780",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4780/h0253_99.pdf",
+     "sha256": "4dc66be972c5be0bbb94d351669b5fe5830aa6ada910cf970990691115193e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-1999",
+   "path": "local/bucuresti/cgmb/1999/254",
+   "short": "HCGMB nr. 254/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE SCOLII POPULARE DE ARTA AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3608",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3608/h0254_99.pdf",
+     "sha256": "39028538537e9aab6237ff26450e622c616018d9c3df240f8b40a2819551fcb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-1999",
+   "path": "local/bucuresti/cgmb/1999/255",
+   "short": "HCGMB nr. 255/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3402",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3402/h0255_99.pdf",
+     "sha256": "e696c6a2f47d73a3b09332e9fc0628a36525dc70b7ba5f58fe5b5631fef26ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-1999",
+   "path": "local/bucuresti/cgmb/1999/256",
+   "short": "HCGMB nr. 256/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/1999 PRIVIND NUMIRE DIRECTORULUI SCOLII POPULARE DE ARTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4254",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4254/h0256_99.pdf",
+     "sha256": "3e81bad7f5c58717b89799dc7fae07d99bcb89ed483d9980d6d785868299e63f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-1999",
+   "path": "local/bucuresti/cgmb/1999/258",
+   "short": "HCGMB nr. 258/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/1999 PRIVIND ELIBERAREA DIN FUNCTIE A DIRECTORULUI TEATRULUI DE MARIONETE SI PAPUSI \"TANDARICA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3405",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3405/h0258_99.pdf",
+     "sha256": "0ac757e99eee8b663d818afd9a7e814cffda056e9292491c3d0e7e30e22756bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-1999",
+   "path": "local/bucuresti/cgmb/1999/259",
+   "short": "HCGMB nr. 259/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3407",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3407/h0259_99.pdf",
+     "sha256": "be0d90a2ad4341247d92b311b3210d551ecdd38d385f1b8484e6c86e6476b5c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-1999",
+   "path": "local/bucuresti/cgmb/1999/26",
+   "short": "HCGMB nr. 26/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1999 privind aprobarea documentatiilor tehnico-economice pt. obiectivele de investitii privind extinderea retelelor de alimentare cu apa si canalizare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1688",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1688/h026_99.pdf",
+     "sha256": "d94191d40feb0601141ed232bdb51c8fc9416e443fd32edcebac0e262d5e4e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-1999",
+   "path": "local/bucuresti/cgmb/1999/260",
+   "short": "HCGMB nr. 260/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/1999 PRIVIND NUMIREA DIRECTORULUI ADMINISTRATIEI MONUMENTELOR SI PATRIMONIULUI TURISTIC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3408",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3408/h0260_99.pdf",
+     "sha256": "29fb04bfb4c3ed5e0d7e6e9832dcfd065f443cefe1aad0d198a92ca73de7a2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-1999",
+   "path": "local/bucuresti/cgmb/1999/261",
+   "short": "HCGMB nr. 261/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/1999 PRIVIND NUMIREA SEFULUI DE CENTRU DE PROTECTIE A PLANTELOR SI CARANTINA FITOSANITARA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3409",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3409/h0261_99.pdf",
+     "sha256": "66a3eb1a71759dfa563a9fe31e265b62e3f47e322e00f56f40a31789db3aaf37"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-262-1999",
+   "path": "local/bucuresti/cgmb/1999/262",
+   "short": "HCGMB nr. 262/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 262/1999 PRIVIND REPREZENTAREA A DOI REPREZENTANTI IN CONSILIUL DE COORDONARE PENTRU URMARIREA INDEPLINIRII LUCRARILOR STABILITE IN CONFORMITATE CU PLANURILE DE DEZVOLTARE URBANA A ANSAMBLULUI URBANISTIC DIN PERIMETRUL CENTRAL AL MUNICIPIULUI BUCURESTI, FORMAT DIN CENTRUL ISTORIC SI NOUL CENTRU CIVIC \" BUCURESTI 2000\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3410",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3410/h0262_99.pdf",
+     "sha256": "7108cc72ad210389cd3d09d4fb1578ac53e2c854af5f9f8aa5029e645ff57b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-1999",
+   "path": "local/bucuresti/cgmb/1999/263",
+   "short": "HCGMB nr. 263/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE CENTRULUI DE CONSERVARE SI VALORIFICARE A TRADITIEI SI CREATIEI POPULARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3411",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3411/h0263_99.pdf",
+     "sha256": "719f2bd379d49e0dcc37a2f3a2c3d61df1f90c67037878eaa97e0d911f9ae273"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-1999",
+   "path": "local/bucuresti/cgmb/1999/264",
+   "short": "HCGMB nr. 264/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI DE PROIECTE CULTURALE \"TEATRUM MUNDI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3412",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3412/h0264_99.pdf",
+     "sha256": "9e376ce13f2a8fcc053ee0db2c557866c58b6abc9e85026ae4ef3d4311230016"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-1999",
+   "path": "local/bucuresti/cgmb/1999/265",
+   "short": "HCGMB nr. 265/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI \"MASCA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3406",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3406/h0265_99.pdf",
+     "sha256": "ce35dc7e214e2b98ffe43edee5e4b5ce51fa83bb6bb8d4af9827b41474705dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-266-1999",
+   "path": "local/bucuresti/cgmb/1999/266",
+   "short": "HCGMB nr. 266/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 266/1999 PRIVIND APROBAREA ORGANIGRAMEISI NUMARULUI DE PERSONAL LA ADMINISTRATIA GRADINII ZOOLOGICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3414",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3414/h0266_99.pdf",
+     "sha256": "9b08aae5afdc60ba491fed3910f57480627ac7a1423386d8433b11d9f32bafad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-1999",
+   "path": "local/bucuresti/cgmb/1999/267",
+   "short": "HCGMB nr. 267/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE CASEI DE CULTURA \"FRIEDRICH SCHILLER\" SE MODIFICA PRIN HCGMB NR. 7/2010 SE ABROGA PRIN HCGMB NR. 174/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3415",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3415/h0267_99.pdf",
+     "sha256": "837350b9917665937c7f797dd87a3923daae262e0526f5191934894338eb848b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-1999",
+   "path": "local/bucuresti/cgmb/1999/268",
+   "short": "HCGMB nr. 268/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3856",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3856/h0268_99.pdf",
+     "sha256": "ad69ca367c6c4bb8d8f6618e2e6ef4dcec7608186fccbda61f24925410d61438"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-269-1999",
+   "path": "local/bucuresti/cgmb/1999/269",
+   "short": "HCGMB nr. 269/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 269/1999 PRIVIND PRELUAREA SI ADMINISTRAREA DE CATRE ADMINISTRATIA STRAZILOR A TERENULUI DE SUB PODUL GRANT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3855",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3855/h0269_99.pdf",
+     "sha256": "2f9a602e29bd1d213dc14e9241a673194022913f92eef7d525dc24ed1df4b716"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1999",
+   "path": "local/bucuresti/cgmb/1999/27",
+   "short": "HCGMB nr. 27/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1999 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare centrala tehnica Marasesti 9-10\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1689",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1689/h027_99.pdf",
+     "sha256": "7b8fceb43947c2808189e16641f651c838a9d193a986c2da24101b8b202d9151"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-270-1999",
+   "path": "local/bucuresti/cgmb/1999/270",
+   "short": "HCGMB nr. 270/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 270/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3853",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3853/h0270_99.pdf",
+     "sha256": "aac6f1f42d1ea50e220d2debf853bd90b90d33f99a7532814abd84194d61f0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-271-1999",
+   "path": "local/bucuresti/cgmb/1999/271",
+   "short": "HCGMB nr. 271/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 271/1999 PRIVIND APROBAREA INFIINTARII, ORGANIZARII SI FUNCTIONARII AGENTIEI DE REGLEMENTARE A NIVELELOR DE SERVICIU A MUNICIPIULUI BUCURESTI, SECTIUNEA APA- CANAL ARBAC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4453",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4453/h0271_99.pdf",
+     "sha256": "666408f03a752de6b6d4561b831b3f1548c76413c28b27230e98c7424290bbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-272-1999",
+   "path": "local/bucuresti/cgmb/1999/272",
+   "short": "HCGMB nr. 272/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 272/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3854",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3854/h0272_99.pdf",
+     "sha256": "9bc29a98f8b2aa233f58071f72965530dae48ab29e33134a3cc32fce26eb879b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-273-1999",
+   "path": "local/bucuresti/cgmb/1999/273",
+   "short": "HCGMB nr. 273/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 273/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3416",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3416/h0273_99.pdf",
+     "sha256": "b6650f9e0fd4dd6ac23410f33f2fb07ea4b0eea3d191cd65adb02de310683ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-274-1999",
+   "path": "local/bucuresti/cgmb/1999/274",
+   "short": "HCGMB nr. 274/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 274/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3417",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3417/h0274_99.pdf",
+     "sha256": "60c2df62a6ca1e58883d704bd468c1edab22705f3e6cb918e47a69ec6a207676"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-276-1999",
+   "path": "local/bucuresti/cgmb/1999/276",
+   "short": "HCGMB nr. 276/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 276/1999 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2191",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2191/h0276_99.pdf",
+     "sha256": "c4545774cdb1b6de321b1b3e9d190f8749d898065c3c664d7382e17319ce07f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-277-1999",
+   "path": "local/bucuresti/cgmb/1999/277",
+   "short": "HCGMB nr. 277/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 277/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE DIN ANEXA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2218",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2218/h0277_99.pdf",
+     "sha256": "d8b3c6771847b125d5f860f36c3587e724e1f6f14f96f50d30aae19a878b9087"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-278-1999",
+   "path": "local/bucuresti/cgmb/1999/278",
+   "short": "HCGMB nr. 278/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 278/1999 PRIVIND APROBAREA CONTRACTARII UNUI CREDIT EXTERN, RAMBURSABIL, PENTRU REABILITAREA RETELEI DE TERMOFICARE A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2502",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2502/h0278_99.pdf",
+     "sha256": "0e2d3c92cc688bd43c68d9288e45d5e391b54fb1b063138885e5b4132400bba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-279-1999",
+   "path": "local/bucuresti/cgmb/1999/279",
+   "short": "HCGMB nr. 279/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 279/1999 PRIVIND APROBAREA OCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE DIN ANEXA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2365",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2365/h0279_99.pdf",
+     "sha256": "1aab21bf8f576248b120cdde5f20e889ef4b63c6d9029f34f8f43a6f2808a69d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1999",
+   "path": "local/bucuresti/cgmb/1999/28",
+   "short": "HCGMB nr. 28/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1999 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare retele tehnice secundare PT G3-Giulesti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1690",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1690/h028_99.pdf",
+     "sha256": "ccf0f25c78102c173523ec140d04d29cf3863a11019979b59108d70c8dcc94c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-280-1999",
+   "path": "local/bucuresti/cgmb/1999/280",
+   "short": "HCGMB nr. 280/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 280/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3852",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3852/h0280_99.pdf",
+     "sha256": "474ad56d3125b389cfeaf34976e06edc3e4fbb3f0d4ed2974a26fba582f5a881"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-281-1999",
+   "path": "local/bucuresti/cgmb/1999/281",
+   "short": "HCGMB nr. 281/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 281/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3850",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3850/h0281_99.pdf",
+     "sha256": "a5d76e2f0c08e5d5d8e6ef3a9c97852dcf951a3d2ce074d1a3c6d516acd25af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-282-1999",
+   "path": "local/bucuresti/cgmb/1999/282",
+   "short": "HCGMB nr. 282/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 282/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3851",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3851/h0282_99.pdf",
+     "sha256": "8df7f9b59021a5631439ab597c7ee46d91cd3f7fd38a9b9a69fb0e43600d0659"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-283-1999",
+   "path": "local/bucuresti/cgmb/1999/283",
+   "short": "HCGMB nr. 283/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 283/1999 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4255",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4255/h0283_99.pdf",
+     "sha256": "bc1c6f879b2858ef4ffa8a184fdb85263267d0be4a03478938c889c9e882a3b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-284-1999",
+   "path": "local/bucuresti/cgmb/1999/284",
+   "short": "HCGMB nr. 284/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 284/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE CIRCULUI \"GLOBUS\" SE ABROGA PRIN HCGMB NR. 263/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3911",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3911/h0284_99.pdf",
+     "sha256": "d444977afc0759f3d5629bebd418f416c86a382bbb1305f2d0de0b44cfd79cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-285-1999",
+   "path": "local/bucuresti/cgmb/1999/285",
+   "short": "HCGMB nr. 285/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 285/1999 HOTARARE PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL ALE TEATRULUI \"EXCELSIOR SE ABROGA PRIN HCGMB NR. 196/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4177",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4177/h0285_99.pdf",
+     "sha256": "ec5a5976a9e81837377ae7b285bdcf810f163326cd649de90b81bdd889c30071"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-286-1999",
+   "path": "local/bucuresti/cgmb/1999/286",
+   "short": "HCGMB nr. 286/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 286/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL LA ADMINISTRATIA PARCURILOR SI GRADINILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4258",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4258/h0286_99.pdf",
+     "sha256": "ab9cda31c98b9c386b60f0f821aa7b741467722437f927ac7e3dc97e839a4475"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-287-1999",
+   "path": "local/bucuresti/cgmb/1999/287",
+   "short": "HCGMB nr. 287/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 287/1999 PRIVIND APROBAREA STATULUI DE FUNCTII AL CORPULUI GARDIENILOR PUBLICI PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4842",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4842/h0287_99.pdf",
+     "sha256": "1b5da7f66f66f5ab975f9c73c2cc361cbd05f6605c3d00e709a8f3f78a2589c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-288-1999",
+   "path": "local/bucuresti/cgmb/1999/288",
+   "short": "HCGMB nr. 288/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 288/1999 PRIVIND APROBAREA ORGANIGRAMEI SI NUMARULUI DE PERSONAL LA CANTINA CENTRALA DE AJUTOR SOCIAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3341",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3341/h0288_99.pdf",
+     "sha256": "9799b15b47b59ef0e61db684a0b01ef191f9607e7c51147c51586ed8ea16c83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-289-1999",
+   "path": "local/bucuresti/cgmb/1999/289",
+   "short": "HCGMB nr. 289/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 289/1999 HOTARARE PRIVIND APROBAREA ORGANIGRAMEISI NUMARULUI DE PERSONAL LA ADMINISTRATIA CIMITIRELOR SI CREMATORIIILOR UMANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4178",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4178/h0289_99.pdf",
+     "sha256": "62e0d93352c2615639000494a2e29ebd2da868ee228935a06736c82c9a80e601"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1999",
+   "path": "local/bucuresti/cgmb/1999/29",
+   "short": "HCGMB nr. 29/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1999 privind aprobarea documentatiei tehnico-economice a invetitiei \"Instalatii de automatizare pt. 15 puncte termice\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1691",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1691/h029_99.pdf",
+     "sha256": "b5e537bf0da361986976e638b168475aa023afc78f6c1524edc0b6f836244d35"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-290-1999",
+   "path": "local/bucuresti/cgmb/1999/290",
+   "short": "HCGMB nr. 290/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 290/1999 PRIVIND MODIFICAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE A DIRECTIEI DE PUBLICITATE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6608",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/6608/h0290_99.pdf",
+     "sha256": "b983349ecc806e14fb22e60bb6549b8e2361249871dc643a3578faeaff4cc0a5"
     }
    ]
   },
@@ -273,6 +3063,141 @@
    ]
   },
   {
+   "slug": "hcgmb-292-1999",
+   "path": "local/bucuresti/cgmb/1999/292",
+   "short": "HCGMB nr. 292/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 292/1999 PRIVIND APROBAREA SUBVENTIILOR ACORDATE IN ANUL 1999 ASOCIATIILOR SI FUNDATIILOR CARE INFIINTEAZA UNITATI DE ASISTENTA SOCIALA DIN BUGETUL LOCAL AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, PRECUM SI NIVELUL ACESTORA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3849",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3849/h0292_99.pdf",
+     "sha256": "ead8e383ba513cfff64cb8488167f25552ee21548cd002796779b2f42e9d6996"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-294-1999",
+   "path": "local/bucuresti/cgmb/1999/294",
+   "short": "HCGMB nr. 294/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 294/1999 PRIVIND REVOCAREA CONCURSULUI PENTRU OCUPAREA POSTULUI DE DIRECTOR AL ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR ( ASA ) SI ORGANIZAREA UNUI NOU CONCURS",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3848",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3848/h0294_99.pdf",
+     "sha256": "37ff7207ad3002625f9aa54cb5b02966bf7865a6bcb2d2ce1a8f044163c28b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-295-1999",
+   "path": "local/bucuresti/cgmb/1999/295",
+   "short": "HCGMB nr. 295/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 295/1999 PRIVIND APROBAREA PROCEDURILOR DE SELECTIE SI DOCUMENTELOR PRIVIND ACORDAREA CONCESIUNII SERVICIILOR PUBLICE DE ALIMENTARE CU APA SI CANALIZARE PENTRU MUNICIPIUL BUCURESTI SI A BUNURILOR PUBLICE AFECTATE ACESTOR SERVICII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3847",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3847/h0295_99.pdf",
+     "sha256": "265351cff743879e2b955fa39545c3378ebc4f152bfb53d68ef514edce90bf46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-296-1999",
+   "path": "local/bucuresti/cgmb/1999/296",
+   "short": "HCGMB nr. 296/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 296/1999 PRIVIND CONTRIBUTIA DE CAPITAL A MUNICIPIULUI BUCURESTI LA \"SOCIETATEA COMERCIALA DESEMNATA DREPT CONCESIONAR\" IN URMA LICITATIEI PUBLICE INTERNATIONALE CU PRESELECTIE SI STABILIREA BUNURILOR PROPRIETATE PUBLICA CARE SE CONCESIONEAZA IN SCOPUL DETINERII CONCESIUNII PRIVIND FURNIZAREA SERVICIILOR DE ALIMENTARE CU APA SI DE CANALIZARE DIN MUNICIPIUL BUCURESTI MODIFICATA PRIN HCGMB NR. 343/2008 MODIFICATA PRIN HCGMB NR. 318/2008 SE MODIFICA PRIN HCGMB NR. 70/2011 ANEXA NR. 2 COMPLETATA PRIN HCGMB NR. 660/2022 ANEXA NR. 2 COMPLETATA PRIN HCGMB NR. 376/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3860",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3860/h0296_99.pdf",
+     "sha256": "bb80538b4f9c332f917a9d6eeb0535a8fc7e230b5a5d2474653ec88c69b9ec34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-297-1999",
+   "path": "local/bucuresti/cgmb/1999/297",
+   "short": "HCGMB nr. 297/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 297/1999 PRIVIND NUMIREA DIRECTORULUI LA CENTRUL DE PROIECTARE URBANA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3861",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3861/h0297_99.pdf",
+     "sha256": "c56e4d385217e312a9188fda0a0e070d376f48ad3deea483c048417cd80a99e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-298-1999",
+   "path": "local/bucuresti/cgmb/1999/298",
+   "short": "HCGMB nr. 298/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 298/1999 PRIVIND INSUSIREA INVENTARULUI BUNURILOR CARE ALCATUIESC DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI, ETAPA I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3862",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3862/h0298_99.pdf",
+     "sha256": "ff20af868dd5dffb1977ed8ee8910d0501c9458d4abd1ecb0e9b7e7c023bd511"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1999",
+   "path": "local/bucuresti/cgmb/1999/3",
+   "short": "HCGMB nr. 3/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1999 privind utilizarea disponibilului fondului de tezaur al Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1378",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1378/h03_99.pdf",
+     "sha256": "222c50f5f33e44a949fcc2be27f612764895019247eb1233c396c5534477f14e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1999",
+   "path": "local/bucuresti/cgmb/1999/30",
+   "short": "HCGMB nr. 30/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1999 privind numirea directorului Administratiei Parcurilor si Gradinilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1692",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1692/h030_99.pdf",
+     "sha256": "6a8166ec6a1c6a8594dd142e9e3724c78b87ee8dd2fca6ab303ebb18405f646d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-300-1999",
+   "path": "local/bucuresti/cgmb/1999/300",
+   "short": "HCGMB nr. 300/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 300/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4456",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4456/h0300_99.pdf",
+     "sha256": "8d6befc355d105d0bfe526f7bf265d2a0d3d1bf2b4aefebe2cfa2c1c0e3c0311"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-301-1999",
    "path": "local/bucuresti/cgmb/1999/301",
    "short": "HCGMB nr. 301/1999",
@@ -284,6 +3209,321 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3863/h0301_99.pdf",
      "sha256": "c64c64d62f56f846c50b20aa18e5f5d49c8145dabf3d92bd77e9de6c8d67bd34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-302-1999",
+   "path": "local/bucuresti/cgmb/1999/302",
+   "short": "HCGMB nr. 302/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 302/1999 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR.22/1994, ARTICOLUL 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3864",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3864/h0302_99.pdf",
+     "sha256": "3d31a277184c44ad9f5f3606509e12ea9e1a0fd3de9cf5a76690dc94d42c21b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-303-1999",
+   "path": "local/bucuresti/cgmb/1999/303",
+   "short": "HCGMB nr. 303/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 303/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3865",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3865/h0303_99.pdf",
+     "sha256": "792d276a706623f312b00661b86418ae86e433cad01e1364113462ee1fa79cbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-304-1999",
+   "path": "local/bucuresti/cgmb/1999/304",
+   "short": "HCGMB nr. 304/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 304/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3866",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3866/h0304_99.pdf",
+     "sha256": "34ffd49169691db36ec9851256f48b5db382a9e3ae1e16ad452af582d6784cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-305-1999",
+   "path": "local/bucuresti/cgmb/1999/305",
+   "short": "HCGMB nr. 305/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 305/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3867",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3867/h0305_99.pdf",
+     "sha256": "f18aee8a23dfca13c2b22c1d9cd60decc1f33ef5491fe85015008b56f3684ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-306-1999",
+   "path": "local/bucuresti/cgmb/1999/306",
+   "short": "HCGMB nr. 306/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 306/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3868",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3868/h0306_99.pdf",
+     "sha256": "533277a2962386331c7c7215390d5fe54d6803b1c1f2b5e6da4ba8421abc973d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-307-1999",
+   "path": "local/bucuresti/cgmb/1999/307",
+   "short": "HCGMB nr. 307/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 307/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2733",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2733/h0307_99.pdf",
+     "sha256": "c9ef41fa6a82d0c6d3b0aaacc4d6289d89f4de0024d8bcfb2f6331318fb2e4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-308-1999",
+   "path": "local/bucuresti/cgmb/1999/308",
+   "short": "HCGMB nr. 308/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 308/1999 PRIVIND TRECEREA UNOR TERENURI IN ADMINISTRAREA ADMINISTRATIILOR DOMENIULUI PUBLIC ALE SECTOARELOR 1-6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3869",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3869/h0308_99.pdf",
+     "sha256": "9437219c2e8c9d42f11d98347e5e601ab42a2a988c54fe3aeba1255072dec3d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3081-1999",
+   "path": "local/bucuresti/cgmb/1999/3081",
+   "short": "HCGMB nr. 3081/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3081/1999 PRIVIND ORGANIZAREA SI DESFASURAREA CONCURSULUI DE SELECTIE AL ADMINISTRATORILOR LA REGIILE DE INTERES LOCAL AFLATE SUB AUTORITATEA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3870",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3870/h03081_99.pdf",
+     "sha256": "df3842d343bb76c646b2aa9ce11293b6202d6a179682bb0f5bf8178996b1baee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-309-1999",
+   "path": "local/bucuresti/cgmb/1999/309",
+   "short": "HCGMB nr. 309/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 309/1999 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4658",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1999",
+   "path": "local/bucuresti/cgmb/1999/31",
+   "short": "HCGMB nr. 31/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1999 privind repartizarea blocului M36, sc. 2, din ansamblul Marasesti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1693",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1693/h031_99.pdf",
+     "sha256": "6a7f17232ed6e3040e9e547cd039ea5415289c7a10af6f307f2071ca01c4c9cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-310-1999",
+   "path": "local/bucuresti/cgmb/1999/310",
+   "short": "HCGMB nr. 310/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 310/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3871",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3871/h0310_99.pdf",
+     "sha256": "986065e0ed7f17273ef25d1e41ef4cedfa0fc03628289cff8d49acfbae9ae844"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-311-1999",
+   "path": "local/bucuresti/cgmb/1999/311",
+   "short": "HCGMB nr. 311/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 311/1999 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELIAL REGIEI GENERALE DE APA - BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4779",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4779/h0311_99.pdf",
+     "sha256": "9922bac1dee8e07789645d4c66b8420a703137ef02270c92663e2f82f2afc068"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-312-1999",
+   "path": "local/bucuresti/cgmb/1999/312",
+   "short": "HCGMB nr. 312/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 312/1999 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AL R.A.T.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4660",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4660/h0312_99.pdf",
+     "sha256": "21f28f7ac139bd837c84e490ea118f6abe487d6a9c868d96fe6006d20f2123b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-313-1999",
+   "path": "local/bucuresti/cgmb/1999/313",
+   "short": "HCGMB nr. 313/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 313/1999 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/2570",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/2570/h0313_99.pdf",
+     "sha256": "32a2ae027fdf5e7a4f269c1170cb2e6b9ea4ea07b106edace9f6b06e7dab71a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-314-1999",
+   "path": "local/bucuresti/cgmb/1999/314",
+   "short": "HCGMB nr. 314/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 314/1999 PRIVIND APROBAREA SUBVENTIILOR ACORDATE IN ANUL 1999, ASOCIATIILOR SI FUNDATIILOR ROMANE CARE INFIINTEAZA SI ADMINISTREAZA UNITATI DE ASISTENTA SOCIALA DIN BUGETUL LOCAL AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PRECUM SI NIVELUL ACESTORA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3872",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3872/h0314_99.pdf",
+     "sha256": "d7cf96b6a1ae5e1e50fe541c7d988b9cad5c6b2f795499df7d87fb37e457a405"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-315-1999",
+   "path": "local/bucuresti/cgmb/1999/315",
+   "short": "HCGMB nr. 315/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 315/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3873",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3873/h0315_99.pdf",
+     "sha256": "96ecb325a66d63a2cfccbbb4972cd1015c728e2d59aa4ca0e8ac0c31a37632cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-316-1999",
+   "path": "local/bucuresti/cgmb/1999/316",
+   "short": "HCGMB nr. 316/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 316/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4257",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4257/h0316_99.pdf",
+     "sha256": "32a9452e11306906eaab2705caa33aa00dfadabb8ef7c5b22fa83e729453b836"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-319-1999",
+   "path": "local/bucuresti/cgmb/1999/319",
+   "short": "HCGMB nr. 319/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 319/1999 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4256",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4256/h0319_99.pdf",
+     "sha256": "8362ce66ba2a4d3d0bfc89f308636a55a61716ab28480214182f69cef16fbfc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1999",
+   "path": "local/bucuresti/cgmb/1999/32",
+   "short": "HCGMB nr. 32/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1999 privind atribuirea in folosinta gratuita pe durata existentei constructiei a unui teren destinat realizarii \"Catedralei Mantuirii Neamului\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1694",
+   "versions": [
+    {
+     "from": "1999-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1694/h032_99.pdf",
+     "sha256": "3722f5cf121793fce51dfc39103ee488e12d6f64a642994ffe5920d5f283f86e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-320-1999",
+   "path": "local/bucuresti/cgmb/1999/320",
+   "short": "HCGMB nr. 320/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 320/1999 PRIVIND LICHIDAREA REGIEI AUTONOME DE SALUBRIZARE URBANA BUCURESTI ( RASU )",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3874",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3874/h0320_99.pdf",
+     "sha256": "473f29288e9274d7da84ff67c0646c7932f142c9e28ee0eaff83776484eda29c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-321-1999",
+   "path": "local/bucuresti/cgmb/1999/321",
+   "short": "HCGMB nr. 321/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 321/1999 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO - ECONOMICE PENTRU OBIECTIVE DE INVESTITII PRIVIND EXTINDEREA RETELELOR DE ALIMENTARE CU APA SI CANALIZARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1803",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1803/h0321_99.pdf",
+     "sha256": "8187763239f8aa361dcf8e972d6563559e596c610105dbcb83901a9a59fa3241"
     }
    ]
   },
@@ -303,6 +3543,231 @@
    ]
   },
   {
+   "slug": "hcgmb-324-1999",
+   "path": "local/bucuresti/cgmb/1999/324",
+   "short": "HCGMB nr. 324/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 324/1999 PRIVIND MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 105/13.05.1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4759",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4759/h0324_99.pdf",
+     "sha256": "583f4452f3ceeedbe179c78f34a7a44ed4f9df4018e227f6e32ea1eb0ab94806"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1999",
+   "path": "local/bucuresti/cgmb/1999/33",
+   "short": "HCGMB nr. 33/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1999 privind aprobarea unui plan urbanistic de detaliu ptr.constr.provizorie - parcaj cu copertina pe dom.privat al mun.Buc.-str.Floarea Rosie 14,sect.6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1391",
+   "versions": [
+    {
+     "from": "1999-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1391/h033_99.pdf",
+     "sha256": "f67c31ccf5a093844f8dc3ec91e03ab38933fec00872e8ea8ca56bb401a50f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1999",
+   "path": "local/bucuresti/cgmb/1999/34",
+   "short": "HCGMB nr. 34/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1999 priv.prel.sau reinnoirea contract.de inchiriere ptr.spatii cu alta destinatie decat aceea de locuinta,apartinand PMB,in evidenta D.G.A.S",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1392",
+   "versions": [
+    {
+     "from": "1999-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1392/h034_99.pdf",
+     "sha256": "6da0b5d0a049bb2b93fdcb2279c57b5b0f608f9ae32cdb33d09b9c8d2ae06447"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1999",
+   "path": "local/bucuresti/cgmb/1999/35",
+   "short": "HCGMB nr. 35/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1999 privind stabilirea nr. de autoturisme si consumul lunar de carburanti pt. activitati specifice ale PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1695",
+   "versions": [
+    {
+     "from": "1999-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1695/h035_99.pdf",
+     "sha256": "5cffbe985aff29047f1f6753eae4e6763eff12b8d6eb6598a7fde2ec312a9119"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1999",
+   "path": "local/bucuresti/cgmb/1999/36",
+   "short": "HCGMB nr. 36/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1999 privind acordarea dreptului la transport gratuit pe mijloacele de transport in comun de suprafata, pentru unele categorii de persoane SE MODIFICA PRIN HCGMB NR. 354/2009 SE ABROGA PRIN HCGMB NR. 167/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1696",
+   "versions": [
+    {
+     "from": "1999-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1696/h036_99.pdf",
+     "sha256": "c51fbe432f2176ae367bd03316931ad5ec554459d923cac85c223a7d55da5dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1999",
+   "path": "local/bucuresti/cgmb/1999/37",
+   "short": "HCGMB nr. 37/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1999 privind aprobarea unor planuri urbanistice de detaliu ptr.constr.definitive amplasate pe terenuri propr.fizica/juridica in mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1394",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1394/h037_99.pdf",
+     "sha256": "4f4aa891ea704680f0ce8d065674701e69047954b728457cded3003a4504c8f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1999",
+   "path": "local/bucuresti/cgmb/1999/39",
+   "short": "HCGMB nr. 39/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1999 privind aprobarea unui plan urbanistic de detaliu pt. extinderea unei locuinte in curtea imobilului din str. Pop de Basesti 25A, sector 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1697",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1697/h039_99.pdf",
+     "sha256": "110504729c0c7d47271c4841864deb91ca6d45ba46502d949cea26b5065c8e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1999",
+   "path": "local/bucuresti/cgmb/1999/4",
+   "short": "HCGMB nr. 4/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1999 privind repartizarea pe bugete componente a cotei de 50% din impozitul pe salarii ce se incaseaza la bugetul local al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1379",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1379/h04_99.pdf",
+     "sha256": "7275e9e57c23738a7ca5539716fdb6d168248412bddc0a187871e57c36863d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1999",
+   "path": "local/bucuresti/cgmb/1999/40",
+   "short": "HCGMB nr. 40/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1999 privind aprobarea unui plan urbanistic de detaliu pt. o constructie definitiva pe terenul din str. Dr. M. Mirinescu 19, sector 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1706",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1706/h040_99.pdf",
+     "sha256": "d558a074a48330c6c70bbd840ebed7e9be4f5646c4582280fd1f25d8682cf2d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1999",
+   "path": "local/bucuresti/cgmb/1999/43",
+   "short": "HCGMB nr. 43/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1999 privind aprobarea unui plan urbanistic de detaliu pt. terenul din str. Piatra Morii 22-24, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1707",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1707/h043_99.pdf",
+     "sha256": "f33c30c04186bd8cd443f55a155e57cc136d3c9c191668e6614c66cfc0a3704c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1999",
+   "path": "local/bucuresti/cgmb/1999/44",
+   "short": "HCGMB nr. 44/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU ALEI DE ACCES LA SPATII COMERCIALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1395",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1395/h044_99.pdf",
+     "sha256": "6a7eac9e465b18b813840f9309004535a768d7b91828be48691b196b8088559c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1999",
+   "path": "local/bucuresti/cgmb/1999/45",
+   "short": "HCGMB nr. 45/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1999 privind aprobarea unui plan urbanistic de detaliu pt. extinderea spatiului comercial din Bd. Compozitorilor 15, sector 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1716",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1716/h045_99.pdf",
+     "sha256": "3813f835071e6966aece5c451a92d4e6299f6fb2871bfcdab9e54628c359a084"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1999",
+   "path": "local/bucuresti/cgmb/1999/46",
+   "short": "HCGMB nr. 46/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1999 privind aprobarea unui plan urbanistic de detaliu pt. supraetajarea unei constructii amplasata pe un teren din str. Aleea IOR 6, sector 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1708",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1708/h046_99.pdf",
+     "sha256": "5d3545f6be6e57a9811d8615fc20bf1e63b166521b683fa3917f2c24f0301aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1999",
+   "path": "local/bucuresti/cgmb/1999/47",
+   "short": "HCGMB nr. 47/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1999 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe teren dom.public al mun.Buc.in admin.pietelor sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1396",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1396/h047_99.pdf",
+     "sha256": "f82dd718ee148d249a0db1b87b0a19529681333eefe76388a6e099d80f9d64ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1999",
+   "path": "local/bucuresti/cgmb/1999/48",
+   "short": "HCGMB nr. 48/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1999 privind aprobarea unui plan urbanistic de detaliu ptr.o constructie provizorie (parcaj Adorama) amplasata pe domeniul public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1397",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1397/h048_99.pdf",
+     "sha256": "eb9bfd3b42b553cc5aea86862bb5b689d9eece5012543780e946fd8ebaaae4dc"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-5-1999",
    "path": "local/bucuresti/cgmb/1999/5",
    "short": "HCGMB nr. 5/1999",
@@ -314,6 +3779,36 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1714/h05_99.pdf",
      "sha256": "ba49a4221a4374b913fc995c37238483d8cdddf3587728041ce711439a3f3cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1999",
+   "path": "local/bucuresti/cgmb/1999/50",
+   "short": "HCGMB nr. 50/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1999 privind aprobarea unui plan urbanistic de detaliu pt. amplasare constructie pe terenul din str. Jiului 147, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1709",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1709/h050_99.pdf",
+     "sha256": "fa0d7b8726c82ee13c6cd36bca24493e81c8ddda3772821f858e2e54e1233884"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1999",
+   "path": "local/bucuresti/cgmb/1999/51",
+   "short": "HCGMB nr. 51/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1999 privind aprobarea unui plan urbanistic de detaliu pt. constructie pe terenul din str. Bibescu Voda 1, Bl. P4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1710",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1710/h051_99.pdf",
+     "sha256": "f2b795cf03cc68fb8bbdf0d14ed3d399db402ed6e1b8e739b07f7d0b874af3f3"
     }
    ]
   },
@@ -333,6 +3828,21 @@
    ]
   },
   {
+   "slug": "hcgmb-53-1999",
+   "path": "local/bucuresti/cgmb/1999/53",
+   "short": "HCGMB nr. 53/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1999 privind numirea reprezentantilor Consiliului General al Municipiului Bucuresti in Consiliul de Administratie al Casei de Asigurari de Sanatate a mun",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1717",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1717/h053_99.pdf",
+     "sha256": "07f843747371ad4249dfd3152337c07805d7ec55f332fd86dbd0505256079b16"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-54-1999",
    "path": "local/bucuresti/cgmb/1999/54",
    "short": "HCGMB nr. 54/1999",
@@ -344,6 +3854,171 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1698/h054_99.pdf",
      "sha256": "98080134499b8e3502a411fe0f56f9518943faf755de1471c2324012bc19f333"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1999",
+   "path": "local/bucuresti/cgmb/1999/55",
+   "short": "HCGMB nr. 55/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1999 privind aprobarea proceselor-verbale ale comisiilor de negociere referitoare la vanzarea spatiilor comerciale construite din fondurile statului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1399",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1399/h055_99.pdf",
+     "sha256": "b715a139d354994227812b205d2d078ae666218c12f1dc137038bccf47e7941c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1999",
+   "path": "local/bucuresti/cgmb/1999/56",
+   "short": "HCGMB nr. 56/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1999 privind modificarea HCGMB 182/27.08.1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1712",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1712/h056_99.pdf",
+     "sha256": "d7d54c433cb31131aa130ca32c4088caa875f8196f4706429b60e59362206ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1999",
+   "path": "local/bucuresti/cgmb/1999/57",
+   "short": "HCGMB nr. 57/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1999 privind aprobarea actului aditional al ctr. 103/1996 dintre CLMB si SC 3D Bucuresti SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1713",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1713/h057_99.pdf",
+     "sha256": "babed91fe740d36025e878e18181ba8037f43f59483be2e38fa7943cee55acea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-1999",
+   "path": "local/bucuresti/cgmb/1999/58",
+   "short": "HCGMB nr. 58/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1999 privind incheierea unor contracte de colaborare cu agentii economici care desf. activ.in spatiile cu alta destin.decat aceea de locuinta-admin.PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1401",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1401/h058_99.pdf",
+     "sha256": "9eafcb07a3f9c0337595cb15eadb031821c8e126b440e797c8cf0f2fb5ea4232"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-1999",
+   "path": "local/bucuresti/cgmb/1999/59",
+   "short": "HCGMB nr. 59/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1999 privind completarea HCGMB 220/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1699",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1699/h059_99.pdf",
+     "sha256": "439fdfa9a6f838dc7bc4e18f8dfd046dc637a2adb3601b5226cc3c0e2fa22dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1999",
+   "path": "local/bucuresti/cgmb/1999/6",
+   "short": "HCGMB nr. 6/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1999 priv.angajarea unui credit in valoare de 100 mil.DKK de catre PMB ptr.finantarea obiectiv.de invest.\"Reabilit.retele distrib.apa potabila in mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1385",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1385/h06_99.pdf",
+     "sha256": "06530703de6bb21aebf16a85777c676f92dc47d3ea572585864c46965aaba1dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1999",
+   "path": "local/bucuresti/cgmb/1999/60",
+   "short": "HCGMB nr. 60/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1700",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1700/h060_99.pdf",
+     "sha256": "efe29113337b8d078638e9b9fcf8ef0d11262b04f354006c3af27cc4fcd01999"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1999",
+   "path": "local/bucuresti/cgmb/1999/61",
+   "short": "HCGMB nr. 61/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1999 privind numirea directorului Teatrului Mic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1701",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1701/h061_99.pdf",
+     "sha256": "3b10a85dc40bddf9113329e94c49f57a35bc7a7b97e9b6b98a4f274214114f0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1999",
+   "path": "local/bucuresti/cgmb/1999/62",
+   "short": "HCGMB nr. 62/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1999 privind aprobarea documentatiei tehnico-economice a investitiei \"Imbunatatirea conditiilor de circulatie Pasaj Pietonal Eroilor\" faza SF",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1702",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1702/h062_99.pdf",
+     "sha256": "98957f44c17c356875ebe8bd78e2cc0f08b59731215623039ba64597437d10ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1999",
+   "path": "local/bucuresti/cgmb/1999/65",
+   "short": "HCGMB nr. 65/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1999 privind aprobarea proceselor-verbale ale comisiilor de negociere referitoare la vanzarea spatiilor comerciale construite din fondurile statului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1398",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1398/h065_99.pdf",
+     "sha256": "994c524c4e41be645d13b603ce9b5104e2ea15b32521766428717b21907fd8d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1999",
+   "path": "local/bucuresti/cgmb/1999/66",
+   "short": "HCGMB nr. 66/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1999 privind aprobarea Conventiei de constituire a Regiunii de Dezvoltare Bucuresti-Ilfov si validarea presedintelui Consiliului de Dezvoltare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1715",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1715/h066_99.pdf",
+     "sha256": "fbd8222ebf39b5df0970d6e4113abefbdaf4e26431378158361d8f636e861c1f"
     }
    ]
   },
@@ -363,6 +4038,36 @@
    ]
   },
   {
+   "slug": "hcgmb-68-1999",
+   "path": "local/bucuresti/cgmb/1999/68",
+   "short": "HCGMB nr. 68/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1999 privind repartiz.bl.M36,sc.1 si bl.M63 din Ans.Marasesti destin.categ.sociale prevazute de L.114/96,pers.evacuate cf.L.112/95,tineri casatoriti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1748",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1748/h068_99.pdf",
+     "sha256": "1f56b84f5859394db86aad5fbd8c84428df735e26f45c2f148473b76da363f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1999",
+   "path": "local/bucuresti/cgmb/1999/69",
+   "short": "HCGMB nr. 69/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3281",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3281/h069_99.pdf",
+     "sha256": "5e70c6e2860695c2832f144d2e035050e0550fd32ecaff0f3c73b88ebc8e74a9"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-7-1999",
    "path": "local/bucuresti/cgmb/1999/7",
    "short": "HCGMB nr. 7/1999",
@@ -374,6 +4079,156 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1380/h07_99.pdf",
      "sha256": "b5e04da3394478b3dac6dfac61c0c754264d746d68f377afbebee927132bff71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1999",
+   "path": "local/bucuresti/cgmb/1999/70",
+   "short": "HCGMB nr. 70/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3291",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3291/h070_99.pdf",
+     "sha256": "34e45a74b74860029f9770541d693cb5a2e40f1000bd36bc092b1ac4fc76e9c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1999",
+   "path": "local/bucuresti/cgmb/1999/71",
+   "short": "HCGMB nr. 71/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII DEFINITIVE AMPLASATE PE DOMENIUL PUBLIC PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3282",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3282/h071_99.pdf",
+     "sha256": "281f3374d8b68ee38f0d1a31824ec5b3dcefee2e181f62725f3e08906966c264"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1999",
+   "path": "local/bucuresti/cgmb/1999/72",
+   "short": "HCGMB nr. 72/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA AMPLASATA PE DOMENIUL PUBLIC A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6607",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/6607/h072_99.pdf",
+     "sha256": "f0e24a83c671c23452fe5065213f443d0341dfb0488a06a3852d700a38606d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1999",
+   "path": "local/bucuresti/cgmb/1999/73",
+   "short": "HCGMB nr. 73/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3286",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3286/h073_99.pdf",
+     "sha256": "4721dd55d3d790ea460f08c1268f51fa49ce59a5a3cf4ea1f50a9ee74cc4fec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1999",
+   "path": "local/bucuresti/cgmb/1999/74",
+   "short": "HCGMB nr. 74/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3287",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3287/h074_99.pdf",
+     "sha256": "6dc5aa6995240604d32d624989206c329cc353f5adcdb3455fb384cc6431c60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1999",
+   "path": "local/bucuresti/cgmb/1999/75",
+   "short": "HCGMB nr. 75/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU EXTINDERI SPATII COMERCIALE (CONSTRUCTII PROVIZORII) PE DOMENIUL PRIVAT/PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3288",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3288/h075_99.pdf",
+     "sha256": "5e1779026ba63eec33316fe420a7f531f5a892e20fd6dd19125c9b8bffa7c219"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1999",
+   "path": "local/bucuresti/cgmb/1999/76",
+   "short": "HCGMB nr. 76/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU ALEI DE ACCES, LA SPATII COMERCIALE REALIZATE IN DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3289",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3289/h076_99.pdf",
+     "sha256": "fba6b00204b528836654c894936325dab26a3b7a1285d117fcebdeff49e6beeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-1999",
+   "path": "local/bucuresti/cgmb/1999/77",
+   "short": "HCGMB nr. 77/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII PROVIZORII-MICROCENTRE COMERCIALE CE VOR FI AMPLASATE PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3290",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3290/h077_99.pdf",
+     "sha256": "cd401b41fbf87395298a249ccb17fc37e0a98932f8bf94b4345e09038bcd7c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1999",
+   "path": "local/bucuresti/cgmb/1999/78",
+   "short": "HCGMB nr. 78/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1999 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PENTRU CONSTRUCTII PROVIZORII AMPLASATE PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3292",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3292/h078_99.pdf",
+     "sha256": "1955526cf4fb68d4f04b18d79cbe95e7dcb14353ea6dac47251202c1e419514b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1999",
+   "path": "local/bucuresti/cgmb/1999/79",
+   "short": "HCGMB nr. 79/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3293",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3293/h079_99.pdf",
+     "sha256": "e0cdf3dfd253dff22093964c2b38581ed8c8f0c553b7ef7ce8286b935c3816de"
     }
    ]
   },
@@ -393,6 +4248,126 @@
    ]
   },
   {
+   "slug": "hcgmb-80-1999",
+   "path": "local/bucuresti/cgmb/1999/80",
+   "short": "HCGMB nr. 80/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3294",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3294/h080_99.pdf",
+     "sha256": "b4d28169187447cbf49588b9c83304780fe0c9e5c2a888cc316aef9bb5e9cadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1999",
+   "path": "local/bucuresti/cgmb/1999/81",
+   "short": "HCGMB nr. 81/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1999 PRIVIND CONCESIONAREA FARA LICITATIE PE O PERIOADA DE 49 DE ANI A UNUI TEREN IN SUPRAFATA DE 3200 MP SITUAT IN INTRAVIRAN, INTRE STRAZILE TURDA SI ABRUD, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3295",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3295/h081_99.pdf",
+     "sha256": "c4450ec325656f54f63b690e07cc66319a82823e3fdaa09d43c54b4c2301c3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1999",
+   "path": "local/bucuresti/cgmb/1999/82",
+   "short": "HCGMB nr. 82/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3283",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3283/h082_99.pdf",
+     "sha256": "015cae2a99b18ebddd1c72c41854b39e17655ad0ddbef1a741f925d6a0d00204"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1999",
+   "path": "local/bucuresti/cgmb/1999/83",
+   "short": "HCGMB nr. 83/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1999 PRIVIND APROBAREA DOCUMENTATIEITEHNICO-ECONOMICE A INVESTITIEI \"MBUNATATIREA CONDITIILOR DE CIRCULATIE LA PASAJUL BUCUR-OBOR\" MUNICIPIULUI BUCURESTI - FAZA SF",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3296",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3296/h083_99.pdf",
+     "sha256": "d397e0b50529248ca94a06561b3e82b198885e5ed8077661bc154114a8750b72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1999",
+   "path": "local/bucuresti/cgmb/1999/84",
+   "short": "HCGMB nr. 84/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1999 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \"IMBUNATATIREA CONDITIILOR DE CIRCULATIE PASAJ MUNCII\" mUNICIPIUL BUCURESTI - FAZA SF",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3297",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3297/h084_99.pdf",
+     "sha256": "e3291f2bde3d13ce984ebda6b341a00b3ee7d17bd7baa954e6d7ad8430284839"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1999",
+   "path": "local/bucuresti/cgmb/1999/85",
+   "short": "HCGMB nr. 85/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1999 PRIVIND REGIMUL JURIDIC AL MONUMENTELOR DE FOR PUBLIC DIN MUNICIPIUL BUCURESTI SI INFIINTAREA ADMINISTRATIEI MONUMENTELOR SI PATRIMONIULUI TURISTIC SE MODIFICA PRIN HCGMB NR. 145/2018 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 261/2020",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3298",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3298/h085_99.pdf",
+     "sha256": "dc1fb39f9c736afcb50ce90064465e4f312c008d7ff301456a4e1f18a597d170"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1999",
+   "path": "local/bucuresti/cgmb/1999/86",
+   "short": "HCGMB nr. 86/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3299",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3299/h086_99.pdf",
+     "sha256": "fc911dba8e7ff4c30189fc70871386b5677952636729b7c99050b313a873cfa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1999",
+   "path": "local/bucuresti/cgmb/1999/87",
+   "short": "HCGMB nr. 87/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3300",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3300/h087_99.pdf",
+     "sha256": "d476522df1e5cd0cea997620b5c947b6959e0c91a7ea6d536dd9976c1511d0a6"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-88-1999",
    "path": "local/bucuresti/cgmb/1999/88",
    "short": "HCGMB nr. 88/1999",
@@ -404,6 +4379,171 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1563/h088_99.pdf",
      "sha256": "9a6fb5aa27374e4fb6e7829f2abca285af736e661c5b3383b509be76bf551d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-1999",
+   "path": "local/bucuresti/cgmb/1999/89",
+   "short": "HCGMB nr. 89/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/1999 privind aprobarea certificatului de urbanism pentru depozit ecologic de gunoi menajer",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1564",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1564/h089_99.pdf",
+     "sha256": "6c253769ebcd70928d239c7815ac79b9eb7f63574da84a004b37a368c818adab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1999",
+   "path": "local/bucuresti/cgmb/1999/9",
+   "short": "HCGMB nr. 9/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1999 privind trecerea Complexului social \"PINOCCHIO\" in cadrul serviciilor publice specializate din subordinea Consiliilor Locale ale Sectoarelor mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1386",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1386/h09_99.pdf",
+     "sha256": "9f0925e99fa612c516d39a4fb81591ece6daec2cf629e7446848803bc1e1bdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-1999",
+   "path": "local/bucuresti/cgmb/1999/91",
+   "short": "HCGMB nr. 91/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/1999 priv. atrib.gratuita a unui teren situat in str.Popa Nan colt cu C.Calarasilor, sect.3,pt.extind.sediu Fundatie Univ.Hyperion si Univ.Hyperion",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1565",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1565/h091_99.pdf",
+     "sha256": "145b02a08a256b50df020a8c3e014ad1b6d1077feae1c81c85d471c87c4bc815"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-1999",
+   "path": "local/bucuresti/cgmb/1999/92",
+   "short": "HCGMB nr. 92/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/1999 privind trecerea Centrului de primire minori \"CIRESARII\" in cadrl serviciilor publice specializate din subordinea Cons.Locale ale Sect.Mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1567",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1567/h092_99.pdf",
+     "sha256": "8cc8c07d1bd3648b816404b8b3cfddc2bdd090a445b80dbbe8a80fcf475b1c86"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1999",
+   "path": "local/bucuresti/cgmb/1999/93",
+   "short": "HCGMB nr. 93/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1568",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1568/h093_99.pdf",
+     "sha256": "76a39d50e6a0caff0d9020d4c712c44a57f65fc71c64ade861d86f264154ca9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1999",
+   "path": "local/bucuresti/cgmb/1999/94",
+   "short": "HCGMB nr. 94/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1569",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1569/h094_99.pdf",
+     "sha256": "306adf2618d37b0b1532a677ed2af9f0278b090ca59a37ad4014789980fd45ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1999",
+   "path": "local/bucuresti/cgmb/1999/95",
+   "short": "HCGMB nr. 95/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1999 priv.aprob.proc.-verbale ale comisiilor de negociere ref.la vanzarea spatiilor comerciale construite din fondurile statului,conform H.G.505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1570",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1570/h095_99.pdf",
+     "sha256": "8c3d053e1a99ae84e11df9abf06e9a69a1eba0c872cda38e1a0bf7a697c6b8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1999",
+   "path": "local/bucuresti/cgmb/1999/96",
+   "short": "HCGMB nr. 96/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1571",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1571/h096_99.pdf",
+     "sha256": "27daa3db446c4d62873093a977c24ce06e315d96bf138b7bbf73328b1fbb1f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1999",
+   "path": "local/bucuresti/cgmb/1999/97",
+   "short": "HCGMB nr. 97/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1566",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1566/h097_99.pdf",
+     "sha256": "af08246a8824ed86a3e8da2f55e5c29c5b8f90bd2bf749556431e5c661777695"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1999",
+   "path": "local/bucuresti/cgmb/1999/98",
+   "short": "HCGMB nr. 98/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1999 privind modificarea organigramei, statului de functii si a Regulamentului de organizare si functionare ale aparatului propriu al P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1572",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1572/h098_99.pdf",
+     "sha256": "362cc407fd6fbef6c492e0e817db880091311f39b5d504cfba28bb477d17e93b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1999",
+   "path": "local/bucuresti/cgmb/1999/99",
+   "short": "HCGMB nr. 99/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1999 privind aprobarea documentatiilor tehnico-economice pentru investitiile din anexa",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1579",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1579/h099_99.pdf",
+     "sha256": "eb2483714cb8675ecf10c4068df001b969a9b579f7ddccaa55a795704994b5de"
     }
    ]
   }

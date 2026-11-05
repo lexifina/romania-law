@@ -191,6 +191,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12287",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "norma-transporturi-147-tb-1997",
+"path": "norma/transporturi/1997/147-tb",
+"kind": "norma",
+"year": "1997",
+"number": "147-tb",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 147/TB/1997 privind constituirea și utilizarea Fondului special al drumurilor publice",
+"short": "Norma transporturi nr. 147/TB/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-02-03",
+"latest": "1997-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11814",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

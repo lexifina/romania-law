@@ -3,6 +3,156 @@
  "shard": "local/bucuresti/cgmb/1997",
  "acts": [
   {
+   "slug": "hcgmb-1-1997",
+   "path": "local/bucuresti/cgmb/1997/1",
+   "short": "HCGMB nr. 1/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/393",
+   "versions": [
+    {
+     "from": "1997-01-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/393/h01_97.pdf",
+     "sha256": "5fe1bd5a076f537cb778015851b883a8564b34b7e63e0dc67ae8ada6e617e0dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-1997",
+   "path": "local/bucuresti/cgmb/1997/10",
+   "short": "HCGMB nr. 10/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/400",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/400/h010_97.pdf",
+     "sha256": "897ccb211ad549fd035657a63b84b6e592a7eac8c92553a746680eb993123e9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-1997",
+   "path": "local/bucuresti/cgmb/1997/100",
+   "short": "HCGMB nr. 100/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/1997 privind aprobarea bilantului contabil si a contului de profit si pierderi la 31 decembrie 1996 a RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/552",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/552/h0100_97.pdf",
+     "sha256": "ecbb0dc3f027e89a2e2e87df4552a1754aa590b856205464644f1a1d5d3b99c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-1997",
+   "path": "local/bucuresti/cgmb/1997/101",
+   "short": "HCGMB nr. 101/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/1997 privind aprobarea bilantului contabil si a contului de profit si pierderi la 31 decembrie 1996 al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/553",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/553/h0101_97.pdf",
+     "sha256": "19f4358ad30e781c6b8123e0e9a06caeb659852d62b29fa2e2dd7b3a23b0c3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-1997",
+   "path": "local/bucuresti/cgmb/1997/102",
+   "short": "HCGMB nr. 102/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/1997 privind aprobarea bilantului contabil si a contului de profit si pierderi la 31 decembrie 1996 al RATB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/554",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/554/h0102_97.pdf",
+     "sha256": "a40466b2349f5766fbc0ed6b7a5658b4f4ffacb242efc9d7bfc67f2e7376f098"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-1997",
+   "path": "local/bucuresti/cgmb/1997/103",
+   "short": "HCGMB nr. 103/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/1997 privind aprobarea bilantului contabil si a contului de profit si pierdere la 31 decembrie 1996 al Regiei autonome DRUPO",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/555",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/555/h0103_97.pdf",
+     "sha256": "9474d060d715efd3a4d48c7e22f208500276b4117ddeb4eabfe457ee1b69604c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-1997",
+   "path": "local/bucuresti/cgmb/1997/104",
+   "short": "HCGMB nr. 104/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/1997 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investitii pentru amplasarea unor monumente de for public in municipiul Bucures",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/556",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/556/h0104_97.pdf",
+     "sha256": "9a230adb804dd5c7b8b1dfdd1131869232caf3ebd6afac8b1e1511ad7abf10de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-1997",
+   "path": "local/bucuresti/cgmb/1997/105",
+   "short": "HCGMB nr. 105/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/1997 privind aprobarea documentatiei tehnico-economice pentru obiectivele de investitii \"Inlocuiri conducte de distributie apa potabila pe str.Th. Aman-Mai",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/557",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/557/h0105_97.pdf",
+     "sha256": "8f4f522f021d9d3c8e1f4777b9a52f1153ee6f43706e7c75be7fbfe241760557"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-1997",
+   "path": "local/bucuresti/cgmb/1997/106",
+   "short": "HCGMB nr. 106/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/1997 privind strategis serviciilor de alimentare cu apa, canalizare si lacuri din municipiul Bucuresti, in perioada 1997-2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/558",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/558/h0106_97.pdf",
+     "sha256": "bf2d051ce666d575e657a2858e2e1aabf665132d3fdf7f95533ef02d5e876080"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-1997",
+   "path": "local/bucuresti/cgmb/1997/107",
+   "short": "HCGMB nr. 107/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/1997 privind finantarea unui program de lucrari de reabilitare a retelei de alimentare cu apa potabila prin metode de escavatii minime",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/595",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/595/h0107_97.pdf",
+     "sha256": "91aac32238280a9282e1c2ef638f59babce9f31394d08fc881387cfafa7b1416"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-108-1997",
    "path": "local/bucuresti/cgmb/1997/108",
    "short": "HCGMB nr. 108/1997",
@@ -33,6 +183,531 @@
    ]
   },
   {
+   "slug": "hcgmb-11-1997",
+   "path": "local/bucuresti/cgmb/1997/11",
+   "short": "HCGMB nr. 11/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1997 privind asocierea CGMB cu Firma EURO COMPANY LTD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/402",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/402/h011_97.pdf",
+     "sha256": "acd0251870c731d2fbe6ab1281ea25ea1499f5f027682051dca954861df0f642"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-1997",
+   "path": "local/bucuresti/cgmb/1997/110",
+   "short": "HCGMB nr. 110/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/1997 privind aprobarea documentatiei tehnico-economice a investitiei o Linie de tramvai pe Calea Vitan intre Calea Dudesti si Sos. Oltenitei, etapa I, Cale",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/594",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/594/h0110_97.pdf",
+     "sha256": "7a5e32b59943df511c420d5443cdaa4296b891a19fcd4e8c176c8fc8b5e9e809"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-1997",
+   "path": "local/bucuresti/cgmb/1997/111",
+   "short": "HCGMB nr. 111/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/1997 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare substatie de tractiune Serban Voda\", municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/596",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/596/h0111_97.pdf",
+     "sha256": "fa9354db8a56fe2c1ef231f3759c07f9ebb20abaf41dc5500df0d5248a6d34a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-1997",
+   "path": "local/bucuresti/cgmb/1997/112",
+   "short": "HCGMB nr. 112/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/1997 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare substatie electrica de tractiune Grivita\", municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/597",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/597/h0112_97.pdf",
+     "sha256": "c1bf47d8b24f93fdd486f407a4e9798f36373cc3b367921a238d1a5e7d036e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-1997",
+   "path": "local/bucuresti/cgmb/1997/113",
+   "short": "HCGMB nr. 113/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/1997 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare linie de tramvai pe str. Zetarilor si str. Alex. Anghel intre Prelungirea",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/598",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/598/h0113_97.pdf",
+     "sha256": "86c8872e04870ff1d426008f104a9eea7c261dac4dfd72589b6fff6f4b5c8839"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-1997",
+   "path": "local/bucuresti/cgmb/1997/114",
+   "short": "HCGMB nr. 114/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/1997 privind aprobarea bugetului CGMB pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/561",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/561/h0114_97.pdf",
+     "sha256": "be44751c571f7f60b65290e061a53298ccaf32c0493660e54f0404cf847d3553"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-1997",
+   "path": "local/bucuresti/cgmb/1997/115",
+   "short": "HCGMB nr. 115/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/1997 privind infiintarea Societatii Generale de Gaz si Electricitate Bucuresti ca societate comerciala municipala pe actiuni",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/599",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/599/h0115_97.pdf",
+     "sha256": "b27a70427dab282247abb7cae6c8ce53945e9825bbd7ed9a79e65b7212094783"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-1997",
+   "path": "local/bucuresti/cgmb/1997/116",
+   "short": "HCGMB nr. 116/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/1997 privind vanzarea apartamentelor finalizate prin aplicarea HGR nr.441/1991",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/562",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/562/h0116_97.pdf",
+     "sha256": "96afad19a25ddacebfb5dcc5d35df9b9fd63c7302b0e8a68ac466505846ee3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-1997",
+   "path": "local/bucuresti/cgmb/1997/117",
+   "short": "HCGMB nr. 117/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/1997 privind darea in folosinta gratuita, pe termen de 49 ani, a suprafetei de teren de 800 mp catre Parohia Mavrogheni-Arhiepiscopia Bucurestilor, pt. con",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/600",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/600/h0117_97.pdf",
+     "sha256": "0792457638ca5fc82b444ccc23f5771c16c903d62a629420fab0b380cff66580"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-1997",
+   "path": "local/bucuresti/cgmb/1997/118",
+   "short": "HCGMB nr. 118/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/601",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/601/h0118_97.pdf",
+     "sha256": "8e5956137b1f888994dee7ba4e8fc696d728d0c4b073aa283037ae6c164b1053"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-1997",
+   "path": "local/bucuresti/cgmb/1997/119",
+   "short": "HCGMB nr. 119/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/1997 privind aprobarea raportului de activitate al Grupului de lucru BUCURESTI 2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/602",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/602/h0119_97.pdf",
+     "sha256": "478e84633ce22eb0fa0bd60cf394d8f04b075f9a5292166a3a09519714760f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1997",
+   "path": "local/bucuresti/cgmb/1997/12",
+   "short": "HCGMB nr. 12/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1997 privind darea in administratia SNCFR a unei suprafete de 12 mp",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/401",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/401/h012_97.pdf",
+     "sha256": "1cb164597fdf2f640a359fe678bc1fa80695ba5c599c956c9f48e78112aa2d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-1997",
+   "path": "local/bucuresti/cgmb/1997/120",
+   "short": "HCGMB nr. 120/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/1997 privind aprobarea planului urbanistic de detaliu al Complexului Universitar si Cultural ROMANIA DE MAINE pe teren domeniu privat/public al mun. Bucure",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/563",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/563/h0120_97.pdf",
+     "sha256": "d95a1a54b075e5fdaf48a3f841f9149198ba02638d2dee9979f41a01c8435c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-1997",
+   "path": "local/bucuresti/cgmb/1997/121",
+   "short": "HCGMB nr. 121/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/603",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/603/h0121_97.pdf",
+     "sha256": "4be1719636e73d844909250fcfcedc8cb1110eb930c767de59db68ee52808f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-1997",
+   "path": "local/bucuresti/cgmb/1997/122",
+   "short": "HCGMB nr. 122/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/604",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/604/h0122_97.pdf",
+     "sha256": "acffd7a66664217a481f772b6c8b5dd0c2db090904a463f1363e28c09a425671"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-1997",
+   "path": "local/bucuresti/cgmb/1997/123",
+   "short": "HCGMB nr. 123/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/1997 privind aprobarea unor planuri urbanistice de detaliu privind amplasarea unor constructii definitive pe doeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/605",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/605/h0123_97.pdf",
+     "sha256": "3fbc7090b771b9965b2d4105fefec3c9b5fe34082b459bfef8b6249af438a4d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-1997",
+   "path": "local/bucuresti/cgmb/1997/124",
+   "short": "HCGMB nr. 124/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/1997 privind organizarea Concursului de urbanism pentru Centrul de Sector \"Balta Alba - Titan\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/606",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/606/h0124_97.pdf",
+     "sha256": "b9c1d60de6b2d9fe47c97a0fe3929e23393ca9bd8ddb3f987eabf80bc900c8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-1997",
+   "path": "local/bucuresti/cgmb/1997/125",
+   "short": "HCGMB nr. 125/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/1997 privind masuri de imbunatatire a activitatii in pietele agroalimentare din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1185",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1185/h0125_97.pdf",
+     "sha256": "84db2d240db7c8be45527ca65018435e89ce5f9b8b6d2683690d7c4f126bbc2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-1997",
+   "path": "local/bucuresti/cgmb/1997/126",
+   "short": "HCGMB nr. 126/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/1997 privind darea in folosinta gratuita, pe termen de 49 de ani, a suprafetei de teren de 4.734 mp catre Spitalul clinic \"Prof.dr.Th. Burghele\" si Fundati",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/607",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/607/h0126_97.pdf",
+     "sha256": "465606408efec0a6d81d809163fc22e29e957877dfe31492bb30cfde3c86554c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-1997",
+   "path": "local/bucuresti/cgmb/1997/127",
+   "short": "HCGMB nr. 127/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/608",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/608/h0127_97.pdf",
+     "sha256": "18784b818217af731ce3c0caf56121bec02551f6ed593d07725aed256a75ed54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-1997",
+   "path": "local/bucuresti/cgmb/1997/128",
+   "short": "HCGMB nr. 128/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/609",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/609/h0128_97.pdf",
+     "sha256": "48eddb6b05b8be9d2423d46993f5a6cd5699d19c2c39ca8226efaccda6a70750"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-1997",
+   "path": "local/bucuresti/cgmb/1997/129",
+   "short": "HCGMB nr. 129/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/1997 SUSPENDATA DE PREFECTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1195",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1195/h0129_97.pdf",
+     "sha256": "6049d6f86e67379e64c233448853df4e2c4d2845f003855f184de766e95c146f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-1997",
+   "path": "local/bucuresti/cgmb/1997/13",
+   "short": "HCGMB nr. 13/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/403",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/403/h013_97.pdf",
+     "sha256": "a299328be50308b560fc79228a60a3ff5cdbd1cfc4e1e8e64b2cec4f7a39d7a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-1997",
+   "path": "local/bucuresti/cgmb/1997/130",
+   "short": "HCGMB nr. 130/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/610",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/610/h0130_97.pdf",
+     "sha256": "a6d27a8ebdb78b12f09cce2d3884fde579a88f6528e9258c7b8b3ad022d54b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-1997",
+   "path": "local/bucuresti/cgmb/1997/131",
+   "short": "HCGMB nr. 131/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/611",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/611/h0131_97.pdf",
+     "sha256": "7edd29972b780cd3f658edc2c864ebe1240f9e9198e6fae47a792bbbefb026b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-1997",
+   "path": "local/bucuresti/cgmb/1997/132",
+   "short": "HCGMB nr. 132/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/612",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/612/h0132_97.pdf",
+     "sha256": "5dc76753f4c1878699495169481054aa8d02b0aea562a8865971b5fa5f7b2e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-1997",
+   "path": "local/bucuresti/cgmb/1997/133",
+   "short": "HCGMB nr. 133/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/613",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/613/h0133_97.pdf",
+     "sha256": "e608a4afa8bf559b4c5531badfdc941da56aff8287e3a75d5c4a64dd8d5729ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-1997",
+   "path": "local/bucuresti/cgmb/1997/134",
+   "short": "HCGMB nr. 134/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/614",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/614/h0134_97.pdf",
+     "sha256": "b7b040590d83a80820eb942653c00cda00db67a0b7e2e9cd6c0a6b72e5b50ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-1997",
+   "path": "local/bucuresti/cgmb/1997/135",
+   "short": "HCGMB nr. 135/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/615",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/615/h0135_97.pdf",
+     "sha256": "1ce350e06d49e1b280bd7a792d0afb3ea806d68d9b68887f40c2cc747ff766a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-1997",
+   "path": "local/bucuresti/cgmb/1997/136",
+   "short": "HCGMB nr. 136/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/616",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/616/h0136_97.pdf",
+     "sha256": "721e965f65a209311f9a3cea82c3ab8f9160a29c9015d67ff8c8eb3085fa167f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-1997",
+   "path": "local/bucuresti/cgmb/1997/137",
+   "short": "HCGMB nr. 137/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/1997 privind atribuirea denuirii de B-dul Ion Mihalache pt. artera de circulatie din sect.1 cuprinsa intre Piata Victoriei si Calea Grivitei, artera de cir",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/617",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/617/h0137_97.pdf",
+     "sha256": "17aa2fd3b2c421633f67dbe1e6410bdad2e176aae8a11490920fd7bfa11f8a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-1997",
+   "path": "local/bucuresti/cgmb/1997/138",
+   "short": "HCGMB nr. 138/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/1997 privind atribuirea denumirii de B-dul 1 Mai pt. artera de circulatie din sect 6 cuprinsa intre Str. Sibiu si Str. Brasov",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/618",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/618/h0138_97.pdf",
+     "sha256": "91e8cd3f0b2960f65c496fabcfb0d5e1a4279567f7e3734fe2c1720512121b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-1997",
+   "path": "local/bucuresti/cgmb/1997/139",
+   "short": "HCGMB nr. 139/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/1997 privind modificarea si atribuirea de denumiri pentru arterele de circulatie din mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/619",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/619/h0139_97.pdf",
+     "sha256": "30943cc8c8ab4e6af4f3044e7c1115bf5a82e12eb95f41e28f88cd8fe431cfe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-1997",
+   "path": "local/bucuresti/cgmb/1997/14",
+   "short": "HCGMB nr. 14/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/404",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/404/h014_97.pdf",
+     "sha256": "247ee551c289c92e72a88ec77a42ea99905005cef925fa50d2833d3c5a7a3951"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-1997",
+   "path": "local/bucuresti/cgmb/1997/140",
+   "short": "HCGMB nr. 140/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/1997 privind eliberarea din functie a directorului Circului de Stat \"GLOBUS\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/620",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/620/h0140_97.pdf",
+     "sha256": "0f4bd9be40d9d8f2ca14ed20bf4fd9dcb6c23de6a3346de025a25803e74ddb4d"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-141-1997",
    "path": "local/bucuresti/cgmb/1997/141",
    "short": "HCGMB nr. 141/1997",
@@ -44,6 +719,21 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/621/h0141_97.pdf",
      "sha256": "4929550d52811f54a7f56a1071ad1fb98c1a9375025dc1483adb87ad4e1941e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-1997",
+   "path": "local/bucuresti/cgmb/1997/142",
+   "short": "HCGMB nr. 142/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/1997 privind aprobarea ca 2 terenuri virane sa fie rezervate in vederea construirii de adaposturi pt. cainii fara stapan de pe raza administartiva a Bucure",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/953",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/953/h0142_97.pdf",
+     "sha256": "9ca8d11a20ea8346f9adc99f2d20f18c62c3646ef29cff557891e35dd884181c"
     }
    ]
   },
@@ -63,6 +753,201 @@
    ]
   },
   {
+   "slug": "hcgmb-144-1997",
+   "path": "local/bucuresti/cgmb/1997/144",
+   "short": "HCGMB nr. 144/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/1997 privind transmiterea patrimoniului detinut de CGMB in comunele jud. Ilfov catre Cons locale comunale pe teritoriul carora se afla acest patrimoniu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/958",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/958/h0144_97.pdf",
+     "sha256": "5c697d2b1fe5ab326fe3da7f7fb68bf779552da10cb85962fd06609cfecfedfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-1997",
+   "path": "local/bucuresti/cgmb/1997/145",
+   "short": "HCGMB nr. 145/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/1997 privind aprobarea transmiterii unei suprafete de cca 12 ha, aflate in Parcul Mogosoaia din patrimoniul CGMB si administrarea Adm. Parcurilor si Gradin",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/959",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/959/h0145_97.pdf",
+     "sha256": "a877a425d6270389132e80aa04b798d5b97c32b28acc48f620c35b01509a389e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-1997",
+   "path": "local/bucuresti/cgmb/1997/146",
+   "short": "HCGMB nr. 146/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/1997 privind avizarea unor proceduri de revenire in patrimoniul municipal a unor bunuri imobiliare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/961",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/961/h0146_97.pdf",
+     "sha256": "7e19bf9d7f4224fd3b464a1dc62e7e9722dbed32a5068c038ad98f8cb0e3432f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-1997",
+   "path": "local/bucuresti/cgmb/1997/147",
+   "short": "HCGMB nr. 147/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/1997 privind darea in folosinta gratuita pe termen de 49 ani a suprafetei de teren de 7000 mp, catre Universitatea Tehnica de Constructii Bucuresti pt. con",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/962",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/962/h0147_97.pdf",
+     "sha256": "b535f2c85d7d7526d558b8b5fe0ea686b6df634d7612de74c734fc2a41f597d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-1997",
+   "path": "local/bucuresti/cgmb/1997/148",
+   "short": "HCGMB nr. 148/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/1997 privind aprobarea planurilor urbanistice de detaliu pentru constructii definitive amplasate pe terenul domeniu public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1068",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1068/h0148_97.pdf",
+     "sha256": "372a86e67f4f492e9aa6fb947b542b92bb163cac16b76f0e9be2bb371ed4cccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-1997",
+   "path": "local/bucuresti/cgmb/1997/149",
+   "short": "HCGMB nr. 149/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/1997 privind aprobarea planurilor urbanistice de detaliu pt. constructii definitive amplasate pe terenul domeniu privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1069",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1069/h0149_97.pdf",
+     "sha256": "13e6a4658c76561747c8fb10d71d8e3fcd085d16f4d6ec11721908097b69e3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-1997",
+   "path": "local/bucuresti/cgmb/1997/15",
+   "short": "HCGMB nr. 15/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/405",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/405/h015_97.pdf",
+     "sha256": "3320dd038d0a2e7ad56da176eef6f023723562aa3e8facb86d9defe5c9ac083c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-1997",
+   "path": "local/bucuresti/cgmb/1997/150",
+   "short": "HCGMB nr. 150/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/1997 privind aprobarea planurilor urbanistice de detaliu pentru constructii definitive amplasate pe teren domeniu privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1070",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1070/h0150_97.pdf",
+     "sha256": "d5c6bb61dc7bb71fd184ce35850d0afe95531e3acef041ffb64c1c42172c3607"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-1997",
+   "path": "local/bucuresti/cgmb/1997/151",
+   "short": "HCGMB nr. 151/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1071",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1071/h0151_97.pdf",
+     "sha256": "0c1489d41f1f860102320d4acd7b584f2532d9e0768c1d7588df241f52cda46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-1997",
+   "path": "local/bucuresti/cgmb/1997/152",
+   "short": "HCGMB nr. 152/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/1997 privind aprobarea planurilor urbanistice de detaliu pentru constructii provizorii amplasate pe teren domeniu public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1072",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1072/h0152_97.pdf",
+     "sha256": "c9af4a39d8751d4a869c8c83ef9c906da794c17c172af8460d26b5b7645e89b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-1997",
+   "path": "local/bucuresti/cgmb/1997/153",
+   "short": "HCGMB nr. 153/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/1997 privind aprobarea planurilor urbanistice de detaliu pentru constructii provizorii-chioscuri amplasate pe domeniu privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1073",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1073/h0153_97.pdf",
+     "sha256": "9fd5cb1bd21170197a7e0faac02785c3f43936fc9640805a1ac3e68f6eaebc88"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-1997",
+   "path": "local/bucuresti/cgmb/1997/154",
+   "short": "HCGMB nr. 154/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/1997 privind aprobarea planurilor urbanistice de detaliu pt. Spitalul European - constructie definitiva, amplasat pe teren domeniu privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1074",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1074/h0154_97.pdf",
+     "sha256": "03495964f3c01a281f94b5d5cb0753cfaa8a785d7b156a2f45535544b92c149e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-1997",
+   "path": "local/bucuresti/cgmb/1997/155",
+   "short": "HCGMB nr. 155/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/1997 privind incheierea unor contracte de colaborare cu agentii economici care desfasoara activitati in spatii comerciale administrate de PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1084",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1084/h0155_97.pdf",
+     "sha256": "246f0044dc8529cea745c969bb2ae3ef1994c3afe6bc35586698ada6c661bd15"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-156-1997",
    "path": "local/bucuresti/cgmb/1997/156",
    "short": "HCGMB nr. 156/1997",
@@ -74,6 +959,21 @@
      "units": 5,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1075/h0156_97.pdf",
      "sha256": "a88fba0170c720841f8a6d7f2530f99e61f97647d17adac49ab57867500d304f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-1997",
+   "path": "local/bucuresti/cgmb/1997/157",
+   "short": "HCGMB nr. 157/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/1997 privind separarea si contorizarea consumului de apa potabila, apa calda menajera si agent termic ale agentilor economici aflati la parterul blocurilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1190",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1190/h0157_97.pdf",
+     "sha256": "2ec78ac73494154aa809377347921b5d30825769c70f8acc4a537f69534f8e1f"
     }
    ]
   },
@@ -93,6 +993,201 @@
    ]
   },
   {
+   "slug": "hcgmb-159-1997",
+   "path": "local/bucuresti/cgmb/1997/159",
+   "short": "HCGMB nr. 159/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/1997 privind utilizarea in continuare de catre SC REBU SA a utilajelor si amenajarilor specifice curateniei cai publice detinute in prezent de ADP",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1077",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1077/h0159_97.pdf",
+     "sha256": "d20e05e0df6cbc4c1495788920717e32684d897eff183cdac779390b667610b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1997",
+   "path": "local/bucuresti/cgmb/1997/16",
+   "short": "HCGMB nr. 16/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/406",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/406/h016_97.pdf",
+     "sha256": "b2d99aa5d151313befd6b898d6ea408297b8b31ecff55857764fa4dd0d7bf72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-1997",
+   "path": "local/bucuresti/cgmb/1997/160",
+   "short": "HCGMB nr. 160/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/1997 privind constituirea grupului de lucru pt. realizarea sistemului integrat de transport public in Bucuresti si aria sa metropolitana",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1078",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1078/h0160_97.pdf",
+     "sha256": "a1ed0c30fe3192eadb8a861801b4313f137aebf12c62eac394268b0063ce597d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-1997",
+   "path": "local/bucuresti/cgmb/1997/161",
+   "short": "HCGMB nr. 161/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1079",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1079/h0161_97.pdf",
+     "sha256": "6f36f4a4632df69fe5b70559d5cf3db7623f84f61a2ef82b222351c956be4d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-1997",
+   "path": "local/bucuresti/cgmb/1997/162",
+   "short": "HCGMB nr. 162/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1183",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1183/h0162_97.pdf",
+     "sha256": "07aedd8e9e3d56ed8a05845ff2c35ec9c5f496c7bfbaadd160bb939096ec39d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-1997",
+   "path": "local/bucuresti/cgmb/1997/163",
+   "short": "HCGMB nr. 163/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1085",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1085/h0163_97.pdf",
+     "sha256": "02224e8677c8c79a4aa7b864db3ac88fb9a46e3965162598954f18d96d3d62ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-1997",
+   "path": "local/bucuresti/cgmb/1997/164",
+   "short": "HCGMB nr. 164/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1045",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1045/h0164_97.pdf",
+     "sha256": "35170495e0f64ceee52a575990e824c8b4864e85cb18b81cc651822e1e4f5314"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-1997",
+   "path": "local/bucuresti/cgmb/1997/165",
+   "short": "HCGMB nr. 165/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/1997 privind structura organizatorica (organigrama), statul de functiuni si regulamentul de organizare si functionare al apartului propriu al PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1046",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1046/h0165_97.pdf",
+     "sha256": "80f4d15bdd1d544c295e26c4fdda2d8fd82bea0000e529e1b9f290dc1ba89f8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-1997",
+   "path": "local/bucuresti/cgmb/1997/166",
+   "short": "HCGMB nr. 166/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/1997 privind administrarea retelei stradale principale si a lucrarilor de arta din mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1086",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1086/h0166_97.pdf",
+     "sha256": "6b227b749fa1d5d3a4b29c9922331a6a9e5643bf0f3e8be029dfa9f83ca6700b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-1997",
+   "path": "local/bucuresti/cgmb/1997/167",
+   "short": "HCGMB nr. 167/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1047",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1047/h0167_97.pdf",
+     "sha256": "90963aac2b96e4cbc5d96247f4565a79e23bfb8bd634c687c012cc72883db9e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-1997",
+   "path": "local/bucuresti/cgmb/1997/168",
+   "short": "HCGMB nr. 168/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/1997 privind privatizarea SC \"Antrepriza Constructii montaj nr. 4\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1087",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1087/h0168_97.pdf",
+     "sha256": "80ce50e39e40c7f48ecfe1c03c8f8041fc40903005d78cf9eec402a6b029704c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-1997",
+   "path": "local/bucuresti/cgmb/1997/169",
+   "short": "HCGMB nr. 169/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/1997 privind privatizarea SC \"Agremin\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1088",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1088/h0169_97.pdf",
+     "sha256": "386d21c55bf70a567550f6f4d0c15b5dd1be36678a6260d3466ce05470b2b1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1997",
+   "path": "local/bucuresti/cgmb/1997/17",
+   "short": "HCGMB nr. 17/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/407",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/407/h017_97.pdf",
+     "sha256": "7dcf31cc506f36f02f9797c24b65d0847afcdd65135b4908f69ba6d996c6c9a9"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-170-1997",
    "path": "local/bucuresti/cgmb/1997/170",
    "short": "HCGMB nr. 170/1997",
@@ -104,6 +1199,246 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1048/h0170_97.pdf",
      "sha256": "fe37c45191550d6ec8c0fe2de6d824ca7c11f555735f405917ffa0df5bc48e0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-1997",
+   "path": "local/bucuresti/cgmb/1997/171",
+   "short": "HCGMB nr. 171/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1089",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1089/h0171_97.pdf",
+     "sha256": "c61a82635878af507958901144710051cb3228b0293a3d9190d48748aee14120"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-1997",
+   "path": "local/bucuresti/cgmb/1997/172",
+   "short": "HCGMB nr. 172/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/1997 privind aprobarea concursului de idei \"Piata Revolutiei\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1049",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1049/h0172_97.pdf",
+     "sha256": "2e2142c7e8eca1921bf05a1ca01b74d399054573b27a4a16626279098242b295"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-1997",
+   "path": "local/bucuresti/cgmb/1997/173",
+   "short": "HCGMB nr. 173/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/1997 priv.particip.sectorului privat in proiecte de lucrari publice municipale, prin mobilizarea de investitii cu capital privat, in cadrul programul BERD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1184",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1184/h0173_97.pdf",
+     "sha256": "4aebfff8a66e8e0e45f711abe224fe272ef3b845e6b2fb734f329c9749901809"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-1997",
+   "path": "local/bucuresti/cgmb/1997/174",
+   "short": "HCGMB nr. 174/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/1997 privind modificarea art. 7 din HCGMB nr. 59 / 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1090",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1090/h0174_97.pdf",
+     "sha256": "0cfe6040790dc38613f9cebdb94afefee81dd3d7af469183f153e8cbc7410e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-1997",
+   "path": "local/bucuresti/cgmb/1997/175",
+   "short": "HCGMB nr. 175/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/1997 PRIVIND TRECEREA UNEI PARCELE DE TEREN DIN DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1050",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1050/h0175_97.pdf",
+     "sha256": "66f75ffc6141d963dd1d98f93501497f1e733e5ddadc9c4ac95c2e30ef4b03a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-1997",
+   "path": "local/bucuresti/cgmb/1997/176",
+   "short": "HCGMB nr. 176/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/1997 privind trecerea unei parcele de teren din domeniul privat al municipiului Bucuresti in domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1051",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1051/h0176_97.pdf",
+     "sha256": "cfa8c7f95e287d0dcc58606a225788286774417cf17d382fba15d07f26f9a473"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-1997",
+   "path": "local/bucuresti/cgmb/1997/177",
+   "short": "HCGMB nr. 177/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1052",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1052/H177_97.pdf",
+     "sha256": "6ec0e3fcc96092464dbef28f4e91f793836fc64bce45a004446ec75348dedab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-1997",
+   "path": "local/bucuresti/cgmb/1997/178",
+   "short": "HCGMB nr. 178/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/1997 priv.repartiz.pe bugete componente a fondurilor aprobate ptr.mun.Buc. prin Ord.Guvernului nr.14/1997 cu priv.la rectif.buget.de stat pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1062",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1062/h0178_97.pdf",
+     "sha256": "34a6395e62501d469b28ddd2211fbcda03fe1aed3c1c8ced51d06edff33fdd98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-1997",
+   "path": "local/bucuresti/cgmb/1997/179",
+   "short": "HCGMB nr. 179/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/1997 privind rectificarea bugetului Consiliului general al municipiului Bucuresti pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1061",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1061/h0179_97.pdf",
+     "sha256": "a144bf65ea05678e3061ad39e5e64b562f781c4fef4953d2dbc9c41f3af925cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1997",
+   "path": "local/bucuresti/cgmb/1997/18",
+   "short": "HCGMB nr. 18/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/408",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/408/h018_97.pdf",
+     "sha256": "a1e751e31544111a3c0afb8a9e1ebffb11db0e4df4f96fdc6af64d64b4e2f679"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-1997",
+   "path": "local/bucuresti/cgmb/1997/180",
+   "short": "HCGMB nr. 180/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/1997 priv.aprob.studiului \"Strategia de dezvoltare a transp.public de suprafata din Bucuresti pana in anul 2000 si in perspectiva,pana in anul 2010\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1053",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1053/h0180_97.pdf",
+     "sha256": "58b17f07016c8cd727a547f3e5260a1df268a114be56ffd4094983cd9c14c179"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-1997",
+   "path": "local/bucuresti/cgmb/1997/181",
+   "short": "HCGMB nr. 181/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/1997 privind aprobarea concesionarii terenului, in supraf de 351,70 mp, situat in B-dul Primaverii nr. 9, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1091",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1091/h0181_97.pdf",
+     "sha256": "222d5415bbfeebf6b749e2b9d018b614853b26d1f6ae307a21ce0f486a8fa460"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-1997",
+   "path": "local/bucuresti/cgmb/1997/182",
+   "short": "HCGMB nr. 182/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/1997 ATACATA DE PREFECTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1196",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1196/h0182_97.pdf",
+     "sha256": "1346df6cc877fbe4014a5b324e3794fe59dd0cb997ed4b2b63b81194223e8cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-1997",
+   "path": "local/bucuresti/cgmb/1997/183",
+   "short": "HCGMB nr. 183/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1054",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1054/h0183_97.pdf",
+     "sha256": "f65b483aa92090d28e5e7a28126255d2b45e5ab8ead33eabeeaf70185dc03c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-1997",
+   "path": "local/bucuresti/cgmb/1997/184",
+   "short": "HCGMB nr. 184/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/1997 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasarea pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1056",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1056/h0184_97.pdf",
+     "sha256": "5cda8ba70ec04f1d559e61377101f3ea2911baadeac5be31835e1a60a8102f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-1997",
+   "path": "local/bucuresti/cgmb/1997/185",
+   "short": "HCGMB nr. 185/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1055",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1055/h0185_97.pdf",
+     "sha256": "6352e761d1be3993615a07f8b88120b30813540b1ebff3723c9802940071a16c"
     }
    ]
   },
@@ -138,6 +1473,516 @@
    ]
   },
   {
+   "slug": "hcgmb-188-1997",
+   "path": "local/bucuresti/cgmb/1997/188",
+   "short": "HCGMB nr. 188/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/1997 privind Regulamentul de repartizare a locuintelor sociale in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1060",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1060/h0188_97.pdf",
+     "sha256": "ac7adf3b2f54f4438d0c769116d7ca21b888d61cb0953fefd86a3ac477d8559e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-1997",
+   "path": "local/bucuresti/cgmb/1997/189",
+   "short": "HCGMB nr. 189/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/1997 privind concesionarea activitatii de intretinere a WC - urilor publice apartanand PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1100",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1100/h0189_97.pdf",
+     "sha256": "2ee8acc09575b7ddc7792d3c3b10aaa314bd52da6a29fb55229cb378e6d67b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1997",
+   "path": "local/bucuresti/cgmb/1997/19",
+   "short": "HCGMB nr. 19/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1997 privind numirea pe o perioada de 3 luni adl. M. Stroici in functia de dir. la Circul de stat",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/409",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/409/h019_97.pdf",
+     "sha256": "1fc52b5faec56347955dc7ef5ecc41391336b800b9da3c39c334568973a2c803"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-1997",
+   "path": "local/bucuresti/cgmb/1997/190",
+   "short": "HCGMB nr. 190/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1101",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1101/h0190_97.pdf",
+     "sha256": "148e4497a56ecfa63215996431445a544771656cfbbea9fe45456346e4721fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-1997",
+   "path": "local/bucuresti/cgmb/1997/191",
+   "short": "HCGMB nr. 191/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1102",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1102/h0191_97.pdf",
+     "sha256": "241ce8311889886796ff767886e9b1fc4c670ea671fb684587ec46ba414bbf3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-1997",
+   "path": "local/bucuresti/cgmb/1997/192",
+   "short": "HCGMB nr. 192/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1103",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1103/h0192_97.pdf",
+     "sha256": "b33a027b6ce3b2c4a7e3facf3b4da19a449d8f11292d3b26c24f15e206bda517"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-1997",
+   "path": "local/bucuresti/cgmb/1997/193",
+   "short": "HCGMB nr. 193/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/1997 privind modificarea organigramei, statului de functii si regulamentului de organizare si functionare ale aparatului propriu al PMB prin infiintarea Di",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1104",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1104/h0193_97.pdf",
+     "sha256": "157bfed0410a92ce93487f063b3c251bf760018fb0fa32713e474ea33c3e38a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-1997",
+   "path": "local/bucuresti/cgmb/1997/194",
+   "short": "HCGMB nr. 194/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/1997 privind darea in folosinta gratuita catre RATB a unui teren situat in str. Pridvorului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1105",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1105/h0194_97.pdf",
+     "sha256": "850936c3a5c2391c23e9c1d0700092a0f1849288691b1797b823f93486d0c3fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-1997",
+   "path": "local/bucuresti/cgmb/1997/195",
+   "short": "HCGMB nr. 195/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/1997 privind darea in folosinta gratuita, catre RATB a unui teren situat in Str. Barbu Lautaru",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1106",
+   "versions": [
+    {
+     "from": "1997-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1106/h0195_97.pdf",
+     "sha256": "7e1dd92d0f70cda4adae3e9ba155c3cd4237e5f48a57c7194e1beda102622856"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-1997",
+   "path": "local/bucuresti/cgmb/1997/196",
+   "short": "HCGMB nr. 196/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1024",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1024/h0196_97.pdf",
+     "sha256": "dc35865997570e7bf59ef905bed79cc494b7aa74b2464556a1df386c55d88563"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-1997",
+   "path": "local/bucuresti/cgmb/1997/197",
+   "short": "HCGMB nr. 197/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1025",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1025/h0197_97.pdf",
+     "sha256": "3190516a519abaf6c1683712ee1050bc82bb1eac875612c1ded410b68f531927"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-1997",
+   "path": "local/bucuresti/cgmb/1997/198",
+   "short": "HCGMB nr. 198/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1026",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1026/h0198_97.pdf",
+     "sha256": "4ba3f69aed6887e4ec424deeaa258ce87125adb1ef00fafff35d3021e431b63a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-1997",
+   "path": "local/bucuresti/cgmb/1997/199",
+   "short": "HCGMB nr. 199/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/1997 SE ANULEAZA IN PARTE HOTARAREA NR. 199/ 27.11.1997 A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PRIN SENTINTA CIVILA NR. 8101/ 21.12.2006, PRONUNTATA DE TRIBUNALUL BUCURESTI - SECTIA A VIII-A CONFLICTE DE MUNCA, ASIGURARI SOCIALE, CONTENCIOS ADMINISTRATIV SI FISCAL, RAMASA IREVOCABILA DE LA DATA DE 10.01.2008 PRIN RESPINGEREA RECURSURILOR DE CATRE CURTEA DE APEL BUCURESTI HOTARIRE numar 199 din 11/27/1997 priv.darea in folosinta gratuita pe termen de 99 ani a unor terenuri apartinand dom.priv./publ.al mun.Buc.pt.constr.Complex Universitar si Cultural SE ABROGA PRIN HCGMB NR. 187/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1027",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-1997",
+   "path": "local/bucuresti/cgmb/1997/2",
+   "short": "HCGMB nr. 2/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/1997 privind reglementarea raporturilor contractuale care au ca obiect spatiile cu alta destinatie decit de locuinta aflate in admin. CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/394",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/394/h02_97.pdf",
+     "sha256": "bb26081e024a6e8cb84a25fe15beb4170e8b96990726f881713402bf7a919f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1997",
+   "path": "local/bucuresti/cgmb/1997/20",
+   "short": "HCGMB nr. 20/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1997 privind insusirea rezultatelor Concursului \"Bucuresti 2000\" si continuarea operatiunii urbanistice in zona",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/410",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/410/h020_97.pdf",
+     "sha256": "500b9cbcdc12cf06db10c06e95fd8b9cb52e8045fd2f5fb9e2312028bc634a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-1997",
+   "path": "local/bucuresti/cgmb/1997/200",
+   "short": "HCGMB nr. 200/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/1997 privind aprobarea unor planuri urbanistice zonale in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1028",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1028/h0200_97.pdf",
+     "sha256": "6fd9a1cd9c5f148665de0dc6365cb13d2a0fb6f7fa620c8c35e3491ed17be3da"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-1997",
+   "path": "local/bucuresti/cgmb/1997/201",
+   "short": "HCGMB nr. 201/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1029",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1029/h0201_97.pdf",
+     "sha256": "2bf02b3ead4e3c80f79da0ec415635579aff9b745fb6ae4c41abe9a7055c6ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-1997",
+   "path": "local/bucuresti/cgmb/1997/202",
+   "short": "HCGMB nr. 202/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/1997 priv.aprob.planuri urban.de detaliu ptr.constr.definitive cu dest.de locuinte aplas.pe teren.apart.dom.privat al mun.Buc.in vederea concesionarii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1031",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1031/h0202_97.pdf",
+     "sha256": "d0f852a83f57302611899c24e9cffee10c82a700341c981778b404d3bb287840"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-1997",
+   "path": "local/bucuresti/cgmb/1997/203",
+   "short": "HCGMB nr. 203/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/1997 priv.aprob.plan urbanistic de detaliu ptr.moderniz.retea de termof.in str.Valea lui Mihai-Prel.Ghencea amplasat pe dom.privat/public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1030",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1030/h0203_97.pdf",
+     "sha256": "deb5e5b26e67a407b52b9f4571008edfc63d64a7fe9c38d4bae9b1100fc059bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-1997",
+   "path": "local/bucuresti/cgmb/1997/204",
+   "short": "HCGMB nr. 204/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1041",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1041/h0204_97.pdf",
+     "sha256": "191cf8d60df50e83fa9e863e214a2604eef23f819da768c419771b5a8ed5e6c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-1997",
+   "path": "local/bucuresti/cgmb/1997/205",
+   "short": "HCGMB nr. 205/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/1997 privind aprobarea unui plan urbanistic de detaliu pentru drum de acces provizoriu la autobaza Str. Socului - Sos. Colentina amplasat pe domeniul publi",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1107",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1107/h0205_97.pdf",
+     "sha256": "e9ac1c18f802a35221175e4be71c45c0b1e3a47288bd1fdb3fa14f09f8aea2f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-1997",
+   "path": "local/bucuresti/cgmb/1997/206",
+   "short": "HCGMB nr. 206/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/1997 privind aprobarea unui plan urbanistic de detaliu ptr.Studiu de mobilare urbana in P-ta Universitatii amplasata pe dom.public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1064",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1064/h0206_97.pdf",
+     "sha256": "3fa976fbb2b0fc86169bf01c3d58e39cc0de92ca3503d6377d54a8808856a574"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-1997",
+   "path": "local/bucuresti/cgmb/1997/207",
+   "short": "HCGMB nr. 207/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1108",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1108/h0207_97.pdf",
+     "sha256": "616eab23a9f5d8cf48c80c46334e7cce02c092607e4d180090a37059d9b76d22"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-1997",
+   "path": "local/bucuresti/cgmb/1997/208",
+   "short": "HCGMB nr. 208/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/1997 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PT. CONSTRUCTII PROVIZORII AMPLASATE PE DOMENIUL PUBLIC AL MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1109",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1109/h0208_97.pdf",
+     "sha256": "16bac0812dffbddf81e77419fcbec7706fd6ce7ef7e970a96ac856e631205514"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-1997",
+   "path": "local/bucuresti/cgmb/1997/209",
+   "short": "HCGMB nr. 209/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1110",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1110/h0209_97.pdf",
+     "sha256": "33a1b7207ea6c26e3cef0ccf101a6da53c62c4d365c26e91ba103bd0f676c61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1997",
+   "path": "local/bucuresti/cgmb/1997/21",
+   "short": "HCGMB nr. 21/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1997 privind eliberarea din functie a directorului Teatrului Mic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/10",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/10/h021_97.pdf",
+     "sha256": "be4d455b6a7343b9c681752846ce4404f8d534cb89cb5125f0651a716b95e76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-1997",
+   "path": "local/bucuresti/cgmb/1997/210",
+   "short": "HCGMB nr. 210/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/1997 privind aprobarea planului urbanistic de detaliu pentru lucrarea de arta monumentala-Napoleon al III lea amplasata pe domeniul public al mun. Bucurest",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1111",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1111/h0210_97.pdf",
+     "sha256": "8c50de50c62b6944b08f0071fe64b928758f7bbfa6b4d55808bcaa981c7af576"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-1997",
+   "path": "local/bucuresti/cgmb/1997/211",
+   "short": "HCGMB nr. 211/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/1997 privind concesionarea terenurilor din curtile imobilelor pentru extinderea locuintelor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1065",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1065/h0211_97.pdf",
+     "sha256": "f598c60a73fc713c9b8dc79f74ba0a4f93c1ce9ddc419a9193ea4e090a153812"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-1997",
+   "path": "local/bucuresti/cgmb/1997/212",
+   "short": "HCGMB nr. 212/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/1997 priv.darea in folosinta gratuita pe termen de 50 de ani a supraf.de teren de 300 mp catre Arhiepiscopia Bucurestilor ptr.constr.unei biserici ortodoxe",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1063",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1063/h0212_97.pdf",
+     "sha256": "b2daa7d3a2b334a98f9235c5174cad7707b05952b05e8db0fed76f25ecb7f4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-1997",
+   "path": "local/bucuresti/cgmb/1997/213",
+   "short": "HCGMB nr. 213/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/1997 privind modificarea si comletarea Hotararii CGMB nr. 52/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1112",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1112/h0213_97.pdf",
+     "sha256": "42cf31371e37920c68e4b3de513a82c7c5666f2b9ccd1fba8bfde8647ac3d064"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-1997",
+   "path": "local/bucuresti/cgmb/1997/214",
+   "short": "HCGMB nr. 214/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/1997 priv.organizarea licitatiei ptr.concesionarea unor terenuri din mun.Bucuresti,in vederea realizarii de locuinte,spatii comerciale, spatii birouri etc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1066",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1066/h0214_97.pdf",
+     "sha256": "0ac659621565480e92e82054e94cc563de8573817424dd1c373b69ed041ab688"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-1997",
+   "path": "local/bucuresti/cgmb/1997/215",
+   "short": "HCGMB nr. 215/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/1997 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare Str. grigore Ionescu, intre Str. Lizeanu si Str. Otesani",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1113",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1113/h0215_97.pdf",
+     "sha256": "363f6d6d62258803ab5a6608946908db5322773f69ba522c8692556c9a31ccf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-1997",
+   "path": "local/bucuresti/cgmb/1997/216",
+   "short": "HCGMB nr. 216/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/1997 privind atribuirea spatiilor de lucru pt. consilierii din cadrul CGMB in cadrul PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1114",
+   "versions": [
+    {
+     "from": "1997-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1114/h0216_97.pdf",
+     "sha256": "3370d657525e362ba7cdb08998c9df68828e0359e915bf2a91986eb3113d596a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-1997",
+   "path": "local/bucuresti/cgmb/1997/217",
+   "short": "HCGMB nr. 217/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/1997 privind numirea pe o perioada de trei luni, in functia de director la Circul de Stat \"Globus\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1115",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1115/h0217_97.pdf",
+     "sha256": "f8aa30c270c3f2966439b8fb423528e33a169fcc7fad0b4342b7e48ffad1ef0f"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-218-1997",
    "path": "local/bucuresti/cgmb/1997/218",
    "short": "HCGMB nr. 218/1997",
@@ -149,6 +1994,21 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1116/h0218_97.pdf",
      "sha256": "6c58d973ad48a8a8086728a2131b9b1d1785c3b59f53757bec307371429651e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-1997",
+   "path": "local/bucuresti/cgmb/1997/219",
+   "short": "HCGMB nr. 219/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/1997 privind schimbul de terenuri dintre CGMB si Institutul Astronomic al Academiei Romane",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1117",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1117/h0219_97.pdf",
+     "sha256": "42927ecd27185e6bda26f6c08182df16efc68d4838331b6390f9e3da8b5c0442"
     }
    ]
   },
@@ -168,6 +2028,366 @@
    ]
   },
   {
+   "slug": "hcgmb-220-1997",
+   "path": "local/bucuresti/cgmb/1997/220",
+   "short": "HCGMB nr. 220/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/1997 ATACATA DE PREFECTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1197",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1197/h0220_97.pdf",
+     "sha256": "568b2aa01df327465e5685835ac93f79cd5f59ba0fa96fc3ddf5061ce152db79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-1997",
+   "path": "local/bucuresti/cgmb/1997/221",
+   "short": "HCGMB nr. 221/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1127",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1127/h0221_97.pdf",
+     "sha256": "d80546db489f9683e6c5c2374ed126c650e45586eb9100672061c2ec9548098e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-1997",
+   "path": "local/bucuresti/cgmb/1997/222",
+   "short": "HCGMB nr. 222/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/1997 privind transmiterea din administrarea CGMB a imobilelor situate in Str. Giuseppe Garibaldi 14, respectiv Thomas Mazaryk 8, apt.2, in administrarea SR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1118",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1118/h0222_97.pdf",
+     "sha256": "0398a80eb97dd948c5860b45e2f5b1a9e5aa50762c04c0b5445fda93b9792a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-1997",
+   "path": "local/bucuresti/cgmb/1997/223",
+   "short": "HCGMB nr. 223/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/1997 privind transmiterea in administrarea MAPN a 2 terenuri din mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1119",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1119/h0223_97.pdf",
+     "sha256": "598d207ed0f9f9c684d280d3d5ea8cd72144522d01162f8de8076bfd9006c749"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-1997",
+   "path": "local/bucuresti/cgmb/1997/224",
+   "short": "HCGMB nr. 224/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/1997 privind privatizarea SC \"Sere Vitan-Barzesti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1120",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1120/h0224_97.pdf",
+     "sha256": "ab83ae5c768547a119b2d447a0cd07ef61bbfd882a5542b47417720c77568f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-1997",
+   "path": "local/bucuresti/cgmb/1997/225",
+   "short": "HCGMB nr. 225/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/1997 privind privatizarea SC \"Transport GHERASE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1121",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1121/h0225_97.pdf",
+     "sha256": "df38c35730b2e75e4449d8460bce7fde843e19c03ac5575174c16fd084b61af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-1997",
+   "path": "local/bucuresti/cgmb/1997/226",
+   "short": "HCGMB nr. 226/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/1997 privind privatizarea SC \"APROMATCO\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1122",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1122/h0226_97.pdf",
+     "sha256": "6d2537e7cf869c12d4a1ccc75df39cb72b744105b061ea3a1c6f7ad957d9abe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-1997",
+   "path": "local/bucuresti/cgmb/1997/227",
+   "short": "HCGMB nr. 227/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/1997 privind construirea unei centrale electrice de termoficare in zona de sud - vest a municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1123",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1123/h0227_97.pdf",
+     "sha256": "04de296ebfe913a55e918c1a97389b9afd896083327a9cb522a42afbf9dca1eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-1997",
+   "path": "local/bucuresti/cgmb/1997/228",
+   "short": "HCGMB nr. 228/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/1997 privind organizarea unor licitatii pentru publicitate pe teritoriul municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1189",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1189/h0228_97.pdf",
+     "sha256": "38079fbec39f8d7ab415577b1d42d74a32a3f39f76a4c0644f994acdcc8ba041"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-1997",
+   "path": "local/bucuresti/cgmb/1997/229",
+   "short": "HCGMB nr. 229/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/1997 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare retea termoficare Drumul Taberei - Compozitorilor\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1125",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1125/h0229_97.pdf",
+     "sha256": "f1ebe7f605c34915c4a1d627858f8659b7764cb3ca6b16882b5ee2c9628de044"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1997",
+   "path": "local/bucuresti/cgmb/1997/23",
+   "short": "HCGMB nr. 23/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1997 privind trecerea unui imobil din administrarea SC Centrul Istoric SA in administararea directa a CGMB prin Directia Administrativ-Gospodaresc Transporturi ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 329/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/12/h023_97.pdf",
+     "sha256": "dee0e562821f34910be12bbc4867b30a95d0dc77bfc6699fdb112a6a1f9d327c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-1997",
+   "path": "local/bucuresti/cgmb/1997/230",
+   "short": "HCGMB nr. 230/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/1997 priv.atrib.in folosinta gratuita pe durata de 49 ani,Fundatiei GERON a terenu.in supraf.de 3.830 mp,pentru realiz.\"Asezamant ptr.ocrotire varstnici\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1128",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1128/h0230_97.pdf",
+     "sha256": "2a424b62e613770f18d41be9a7e959a30ee1e1c5fbce26a7097377cb0911a4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-1997",
+   "path": "local/bucuresti/cgmb/1997/231",
+   "short": "HCGMB nr. 231/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/1997 priv.concesion.pe 99 ani a unui teren apart.dom.priv.al Primariei mun.Buc.ptr. constr.spital general privat \"Spitalul European din Bucuresti\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1186",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1186/h0231_97.pdf",
+     "sha256": "eb92970228f70704cd1774063cbb6eb87229f5a09f1012edaa87658ced8cbc92"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-1997",
+   "path": "local/bucuresti/cgmb/1997/232",
+   "short": "HCGMB nr. 232/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/1997 priv.aprob.Programului de reorganizare, restructurare si privatizare al RGAB, precum si a unei asistente de specialit.ptr.derularea acestui program",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1067",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1067/h0232_97.pdf",
+     "sha256": "e554d3710e5fdd2fb1ca991fc5d36456eec1ab9e103c5abd54b9c52af0188138"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-1997",
+   "path": "local/bucuresti/cgmb/1997/233",
+   "short": "HCGMB nr. 233/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/1997 privind aprobarea Programului de reorganizare si restructurare al Regiei Autonome de Distributie a Energiei Termice Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1043",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1043/h0233_97.pdf",
+     "sha256": "be08750223f03f8c3098589200a1320cd9c269e1754da8d926671ce245c7b019"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-1997",
+   "path": "local/bucuresti/cgmb/1997/234",
+   "short": "HCGMB nr. 234/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/1997 privind aprobarea bugetului de venituri si cheltuieli rectificat pe anul 1997 al Regiei Autonome de Transport Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1192",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1192/h0234_97.pdf",
+     "sha256": "e874194e3cb250fb7843679d60ee0784702196fdf02f9731b7ffc06a7a744f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-1997",
+   "path": "local/bucuresti/cgmb/1997/235",
+   "short": "HCGMB nr. 235/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/1997 privind aprobarea bugetului de venituri si cheltuieli rectificat pe anul 1997 al Regiei Generale de Apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1058",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1058/h0235_97.pdf",
+     "sha256": "776e36ebbfea0941e60e5fec41d27bff8d26acba1c57be259a441ad397dbfc36"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-1997",
+   "path": "local/bucuresti/cgmb/1997/236",
+   "short": "HCGMB nr. 236/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/1997 privind aprobarea bugetului de venituri si cheltuieli rectificat pe anul 1997 al Regiei Autonome de Distributei a Energiei Termice Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1199",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1199/h0236_97.pdf",
+     "sha256": "f9c11a8033341bc2f831d61fb0eb1b2e67aeb6325069bdc6f18e552c09f05557"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-1997",
+   "path": "local/bucuresti/cgmb/1997/237",
+   "short": "HCGMB nr. 237/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/1997 privind trecerea in administrarea Primariei municipiului Bucuresti a trei pasaje pietonale si comerciale",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1032",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1032/h0237_97.pdf",
+     "sha256": "31927081d484e5a61c2b68b88452f59269e82f1a9ad063407736aff04f9adfb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-1997",
+   "path": "local/bucuresti/cgmb/1997/238",
+   "short": "HCGMB nr. 238/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1033",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1033/h0238_97.pdf",
+     "sha256": "4c01bd850a4dada61ae6adecf196fbfac015efb5dd1b83e7215760edecfd3aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-1997",
+   "path": "local/bucuresti/cgmb/1997/239",
+   "short": "HCGMB nr. 239/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/1997 privind eliberarea certificatelor de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul S.C.\"PRESTARI SERVICII\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1044",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1044/h0239_97.pdf",
+     "sha256": "c24b4a3672bd66b3984713464f255a293c8b387a8182d2d1b0ecdbc9df3daff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1997",
+   "path": "local/bucuresti/cgmb/1997/24",
+   "short": "HCGMB nr. 24/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/13/h024_97.pdf",
+     "sha256": "4433e0659908992d9328bb6ba810b01a91450c5a26212eb2a6b0555722132936"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-1997",
+   "path": "local/bucuresti/cgmb/1997/240",
+   "short": "HCGMB nr. 240/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/1997 privind aprobarea Acordului de Infratire intre orasele Bucuresti si Pretoria",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1187",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1187/h0240_97.pdf",
+     "sha256": "ecda76d3b6b3e721e04d76f9ff3fa923c0f46bd6cb9d75d9b419dce9904d852c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-1997",
+   "path": "local/bucuresti/cgmb/1997/241",
+   "short": "HCGMB nr. 241/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/1997 privind transmiterea pct.termic sit.in Bd.Metalurgiei 89,sect.4,din adm.IMGB-SA in admin.RADET - Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1188",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1188/h0241_97.pdf",
+     "sha256": "a973dfaaef66434b8186b48f505e467c51c4aa980e10f038839e90a70291b73b"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-242-1997",
    "path": "local/bucuresti/cgmb/1997/242",
    "short": "HCGMB nr. 242/1997",
@@ -179,6 +2399,186 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1042/h0242_97.pdf",
      "sha256": "f8fc2dc48d96eb15ec31ae65280991c0feb4271071919cd09c5ee19f2d1efd47"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-1997",
+   "path": "local/bucuresti/cgmb/1997/243",
+   "short": "HCGMB nr. 243/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1124",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1124/h0243_97.pdf",
+     "sha256": "9f9763c0fdedd4b8ee5ea7dfa092e976f4b1fb854544a68d0c8f048315f22cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-1997",
+   "path": "local/bucuresti/cgmb/1997/244",
+   "short": "HCGMB nr. 244/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1039",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1039/h0244_97.pdf",
+     "sha256": "ecb598213c1fd1997494e16f3c33cbd928c560c3275823271389709eb5f6b919"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-1997",
+   "path": "local/bucuresti/cgmb/1997/245",
+   "short": "HCGMB nr. 245/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/1997 priv.aprobarea unui plan urbanistic de detaliu ptr.constructie definitiva ampl. pe teren apartin.partial dom.privat al PMB si partial propr.pers.jurid",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1040",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1040/h0245_97.pdf",
+     "sha256": "219b36919b13ce8768084a414008636e25bbdad07bf2260084d16e0769b4b6e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-1997",
+   "path": "local/bucuresti/cgmb/1997/246",
+   "short": "HCGMB nr. 246/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive aplasate pe terenuri apartinand domeniului privat al P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1037",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1037/h0246_97.pdf",
+     "sha256": "82bdda9b587db89ab4ba311feafb3edb17688c676bf09ed055ac45189b421d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-1997",
+   "path": "local/bucuresti/cgmb/1997/247",
+   "short": "HCGMB nr. 247/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/1997 privind aprobarea planul urbanistic de detaliu Complexul agrocomercial Timpuri Noi",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1034",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1034/h0247_97.pdf",
+     "sha256": "d5034bfca0e78b80b97f31e191e570d839f4d6b34ff7affdce773f54896318b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-1997",
+   "path": "local/bucuresti/cgmb/1997/248",
+   "short": "HCGMB nr. 248/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/1997 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe terenuri apartinand domeniului privat al P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1038",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1038/h0248_97.pdf",
+     "sha256": "70f7eaa3857dbf078fb199a0049b3bb6cd479534298a093f9ad8728d49e6ccca"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-1997",
+   "path": "local/bucuresti/cgmb/1997/249",
+   "short": "HCGMB nr. 249/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/1997 privind aprobarea unui plan de detaliu pentru prototip modul difuzare presa JURNALUL NASTIONAL amplasat pe terenuri apart.dom.publ./priv.al mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1035",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1035/h0249_97.pdf",
+     "sha256": "d267c1c1f49fd88d44135353b06b155af9882525ba29f894b8c2a338f242cec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1997",
+   "path": "local/bucuresti/cgmb/1997/25",
+   "short": "HCGMB nr. 25/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/14/h025_97.pdf",
+     "sha256": "2f6a0c1a372fb41d8c05bb32848d1c44fc1f3de8c48ae4b241127705438ca266"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-1997",
+   "path": "local/bucuresti/cgmb/1997/250",
+   "short": "HCGMB nr. 250/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/1997 privind aprobarea Programului de reorganizare si restructurare al Regiei Autonome de Transport Bucuresti ISI INCETEAZA APLICABILITATEA RIN HCGMB NR. 55/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1198",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1198/h0250_97.pdf",
+     "sha256": "6add9223bdc1da7f337d21bc61b24038be54996ffbb4d1389f38401aa2626ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-1997",
+   "path": "local/bucuresti/cgmb/1997/251",
+   "short": "HCGMB nr. 251/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1036",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1036/h0251_97.pdf",
+     "sha256": "ca92c6b2d4f599c6e17f6c247082a0ca2ae1c0053f5b6cb261c6418efa0c8cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-1997",
+   "path": "local/bucuresti/cgmb/1997/26",
+   "short": "HCGMB nr. 26/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/15/h026_97.pdf",
+     "sha256": "092cc1a35d1721460677facf2f12388b3d0168e1dd7711e1250187155cff801e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1997",
+   "path": "local/bucuresti/cgmb/1997/27",
+   "short": "HCGMB nr. 27/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii amplasate pe domeniul public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/16",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/16/h027_97.pdf",
+     "sha256": "484f101029a0729732e4fb399a6b7bfd481684e487dfca32568f94f438b61bd6"
     }
    ]
   },
@@ -198,6 +2598,186 @@
    ]
   },
   {
+   "slug": "hcgmb-29-1997",
+   "path": "local/bucuresti/cgmb/1997/29",
+   "short": "HCGMB nr. 29/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/17",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/17/h029_97.pdf",
+     "sha256": "d10952168ba610fc079334b0e911541756e614e7866596b849cad8d23b1e41cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1997",
+   "path": "local/bucuresti/cgmb/1997/3",
+   "short": "HCGMB nr. 3/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1997 Suspendata de prefectura",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1193",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1193/h03_97.pdf",
+     "sha256": "b466823452fd409ab97a1ec640663b1c705f1f27b11c0d3aa8c3b48065249375"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1997",
+   "path": "local/bucuresti/cgmb/1997/30",
+   "short": "HCGMB nr. 30/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1997 privind aprobarea colaborarii dintre CGMB, Societatea DANEX PLUS si Societatea CBC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/18",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/18/h030_97.pdf",
+     "sha256": "ed3ad9f47919ccef01558a90577e81eef3caf2242fe4d39461b0e4ce68839559"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1997",
+   "path": "local/bucuresti/cgmb/1997/31",
+   "short": "HCGMB nr. 31/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1997 privind reactualizarea componentei Comisiei municipale pentru aplicarea Legii nr. 112/1995, privind reglementarea situatiei juridice a unor imobile cu destinatia de locuinta trecute in proprietatea statului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/19",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/19/h031_97.pdf",
+     "sha256": "12f086b002bbe8d0e94d073d641fbc4ebea1307e57c4915572e469d87d85e66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1997",
+   "path": "local/bucuresti/cgmb/1997/32",
+   "short": "HCGMB nr. 32/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/20",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/20/h032_97.pdf",
+     "sha256": "d00be4602a2cc3f352f8637dbfcc677b7ef1af2e8bffa2cabeb3d60e451ac5b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1997",
+   "path": "local/bucuresti/cgmb/1997/33",
+   "short": "HCGMB nr. 33/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/21",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/21/h033_97.pdf",
+     "sha256": "3887eca86d87acd5b5508af39a2080fef2fe46925113bbfab13b6bc7f19743a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1997",
+   "path": "local/bucuresti/cgmb/1997/34",
+   "short": "HCGMB nr. 34/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/22",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/22/h034_97.pdf",
+     "sha256": "be61eb1cb7d1a6e2c0922f4fb7301cde3a03551c4f5483d2966a3b1211ae969e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1997",
+   "path": "local/bucuresti/cgmb/1997/35",
+   "short": "HCGMB nr. 35/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1997 privind preluarea directa a administrarii curente a fondului imobiliar si a ctivitatii de vanzare a locuintelor din fondul de stat de la societatile comerciale (foste ICRAL) de catre DAFI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/23",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/23/h035_97.pdf",
+     "sha256": "ecc50b29f8c34650da61c3d177cc220fc9292360283ce02436cd3e16b0feac8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1997",
+   "path": "local/bucuresti/cgmb/1997/36",
+   "short": "HCGMB nr. 36/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1997 privind repartizarea unor blocuri pentru categoriile de persoane prevazute de Ordonanta Guvernului Romaniei nr. 19/1994",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/24",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/24/h036_97.pdf",
+     "sha256": "8dadd5f28773d073214a8498d5c72c35550df4618c13d5ac8873fa10551a069d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1997",
+   "path": "local/bucuresti/cgmb/1997/37",
+   "short": "HCGMB nr. 37/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1997 privind atribuirea in administrarea RGAB a terenului pt. construirea \"Sediului exploatare retea apa Sectia Nord\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/25",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/25/h037_97.pdf",
+     "sha256": "aa639b07fa74d8e6c3240971dcd0353c7ecd4f465964e22246f2616567234336"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1997",
+   "path": "local/bucuresti/cgmb/1997/38",
+   "short": "HCGMB nr. 38/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1997 privind modificarea organigramei aparatului propriu al PMB prin reorganizarea Directiei cultura, sanatate, invatamant",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/26",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/26/h038_97.pdf",
+     "sha256": "85d8c5ec39f317368c42fef617ea083c76b6aca7f80e102d5381927c1f550ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1997",
+   "path": "local/bucuresti/cgmb/1997/39",
+   "short": "HCGMB nr. 39/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1997 privind modificarea organigramei prin infiintarea in aparatul propriu al PMB a Directiei de control financiar de gestiune a regiilor autonome, institutiilor publice si de asistenta sociala aflate sub autoritatea CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/27/h039_97.pdf",
+     "sha256": "367ce32ad0edd0d0b119939dc1841396ff05402e4ebe1d0247d2054d1279e1f3"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-4-1997",
    "path": "local/bucuresti/cgmb/1997/4",
    "short": "HCGMB nr. 4/1997",
@@ -209,6 +2789,111 @@
      "units": 8,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/369/h04_97.pdf",
      "sha256": "bea3a43b867a62acc1942223be5a3edd8e6c27fbd9956668b7167793b9714102"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1997",
+   "path": "local/bucuresti/cgmb/1997/40",
+   "short": "HCGMB nr. 40/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1997 privind modificarea organigramei aparatului propriu al PMB prin infiintarea Directiei de publicitate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/28/h040_97.pdf",
+     "sha256": "a22bf6d467548ce8329ad188f6a83dd84d165071affca55623972035547a93f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1997",
+   "path": "local/bucuresti/cgmb/1997/41",
+   "short": "HCGMB nr. 41/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1997 privind modificarea organigramei aparatului propriu al PMB prin infiintarea Serviciului desfiintari constructii ilegale",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/421",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/421/h041_97.pdf",
+     "sha256": "6a1ae212b7b12b39178648623bc2c5668e2e7006a48b1f60de95bbc48796771b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1997",
+   "path": "local/bucuresti/cgmb/1997/42",
+   "short": "HCGMB nr. 42/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1997 privind modif. organigramei aparatului propriu al PMB prin reorganizarea Dep. Patrimoniu Imobiliar",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/422",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/422/h042_97.pdf",
+     "sha256": "c2e1167ced666f2516636d2dcf3ec46d0a07cf4eb1e81e4dcc646f7629b6ca18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1997",
+   "path": "local/bucuresti/cgmb/1997/43",
+   "short": "HCGMB nr. 43/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1997 privind vinzarea unor apartamente finalizate prin aplicarea HG nr. 441/1991",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/423",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/423/h043_97.pdf",
+     "sha256": "c09f2360b1e463ff6296b32cbcfa9b576e76f0bade4c9d503fecf6a8b83862c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1997",
+   "path": "local/bucuresti/cgmb/1997/44",
+   "short": "HCGMB nr. 44/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1997 privind aderarea Mun. Buc. la Asociatia pentru Cultura a oraselor si Regiunilor Europei unite \"Les Recontres\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/424",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/424/h044_97.pdf",
+     "sha256": "648a79d281096c138f03edada6d9f89ab1c88b8798a353033596af3bae364656"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1997",
+   "path": "local/bucuresti/cgmb/1997/45",
+   "short": "HCGMB nr. 45/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1997 privind darea in administrare, pe durata existentei constructiei, a suprafetei de teren de 3000 mp, catre min. Muncii si Protectiei Sociale, in vedere",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/425",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/425/h045_97.pdf",
+     "sha256": "cb7188ba09669135fd2d5137d84dc0c0f78c981e81b2852c6e1ef7cedb0fc1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1997",
+   "path": "local/bucuresti/cgmb/1997/46",
+   "short": "HCGMB nr. 46/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1997 privind completarea obiectivelor ce urmeaza a fi vindute prin licitatie publica in baza prevederilor Legii 85/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/426",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/426/h046_97.pdf",
+     "sha256": "a4575e26fe6ba48556ea318f881ae2988d19152b744a07f8de73b32e48329f89"
     }
    ]
   },
@@ -228,6 +2913,81 @@
    ]
   },
   {
+   "slug": "hcgmb-48-1997",
+   "path": "local/bucuresti/cgmb/1997/48",
+   "short": "HCGMB nr. 48/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1997 privind aprobarea unor planuri de urbanism pt. constr. amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/428",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/428/h048_97.pdf",
+     "sha256": "d331b24405bd6b7c6bd99b23c798baaafedf12346d526b3446cd9e1e61850ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-1997",
+   "path": "local/bucuresti/cgmb/1997/49",
+   "short": "HCGMB nr. 49/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constr. definitive amplasate pe propr. pers. fizice/juridice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/429",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/429/h049_97.pdf",
+     "sha256": "16802ea7ba51ab7190b7f652c512a8e2c3b72bbbf0a485cfaf54021e7ea94e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1997",
+   "path": "local/bucuresti/cgmb/1997/5",
+   "short": "HCGMB nr. 5/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constr. provizorii pe domeniul privat al mun. Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/395",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/395/h05_97.pdf",
+     "sha256": "0f2d6b2a62d9f2a1af06e515896c3943b2858d703f04c72877fa30244fc54034"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1997",
+   "path": "local/bucuresti/cgmb/1997/50",
+   "short": "HCGMB nr. 50/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constr. provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/430",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/430/h050_97.pdf",
+     "sha256": "a02773426af219df8d22bc19b0b6cb389e4495dcde440f5a7007236c29497220"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1997",
+   "path": "local/bucuresti/cgmb/1997/51",
+   "short": "HCGMB nr. 51/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constr. provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/431",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/431/h051_97.pdf",
+     "sha256": "c6d46dcceb40658fd0641bbb9c325f15f138cf39ffc3f662048164fad6bb88b5"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-52-1997",
    "path": "local/bucuresti/cgmb/1997/52",
    "short": "HCGMB nr. 52/1997",
@@ -243,6 +3003,366 @@
    ]
   },
   {
+   "slug": "hcgmb-53-1997",
+   "path": "local/bucuresti/cgmb/1997/53",
+   "short": "HCGMB nr. 53/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1997 privind aprobarea unui proiect de urbanism zonal al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/432",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/432/h053_97.pdf",
+     "sha256": "5400be41764c34fbd27ad070d7307437a7cde17a6cba9b524a805ed88aec3617"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1997",
+   "path": "local/bucuresti/cgmb/1997/54",
+   "short": "HCGMB nr. 54/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1997 privind stabilirea de reguli generale ale organizarii, functionarii si dezvoltarii serviciilor publice din mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/586",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/586/h054_97.pdf",
+     "sha256": "6e4d040701446ac9fe3f526b7e1e300ef12fa539c0dd6901e249219a5f32b933"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1997",
+   "path": "local/bucuresti/cgmb/1997/55",
+   "short": "HCGMB nr. 55/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1997 privind aprobarea programului de activitate al CGMB in anul 1997, cuprinzind masuri de reforma institutionala",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/433",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/433/h055_97.pdf",
+     "sha256": "27177b17cff60b91bb0380d84bc4d96c4df050cce1f5c33d7795b227669d68b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1997",
+   "path": "local/bucuresti/cgmb/1997/56",
+   "short": "HCGMB nr. 56/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1997 privind numirea definitiva pe postul de director al Centrului de Proiecte Culturale al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/434",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/434/h056_97.pdf",
+     "sha256": "87b7e820e6a6801d24ae3747aeba8d89c8a8b65e10b147a11ca3ba491b9553ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1997",
+   "path": "local/bucuresti/cgmb/1997/57",
+   "short": "HCGMB nr. 57/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1997 privind aprobarea structurii organizatorice si a statutului de functii al Corpului Gardienilor Publici",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/436",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/436/h057_97.pdf",
+     "sha256": "c00266f8eb3dceaab77795a5def27cda86de2296f8abc81e5ca9bbec72694f01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-1997",
+   "path": "local/bucuresti/cgmb/1997/58",
+   "short": "HCGMB nr. 58/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1997 privind transformarea Administratiilor domeniului public ale celor 6 sectoare in societati comerciale",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/437",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/437/h058_97.pdf",
+     "sha256": "5c24e7adb6f95e5ba6c2e87acd97210fae2ae9dbf8962491777c4dd0a1b0ff6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-1997",
+   "path": "local/bucuresti/cgmb/1997/59",
+   "short": "HCGMB nr. 59/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/564",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/564/h059_97.pdf",
+     "sha256": "a1dc4a97be1e977b7d85f0cb19978a7b705d6576d1bef4e0c5aa397e3d70903d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1997",
+   "path": "local/bucuresti/cgmb/1997/6",
+   "short": "HCGMB nr. 6/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii definitive pe proprietatea pers. fizice/juridice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/396",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/396/h06_97.pdf",
+     "sha256": "9e22c0f72110ba4a49af8096f9e7984befa037b34b8e9104a04b828387373918"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1997",
+   "path": "local/bucuresti/cgmb/1997/60",
+   "short": "HCGMB nr. 60/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii definitive amplasate pe proprietatea pers. fizice/juridice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/438",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/438/h060_97.pdf",
+     "sha256": "70443e1ba492ffe89e6d8e8c59d141fd522870a1a50a9bb3b2d0b4d902a2f527"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1997",
+   "path": "local/bucuresti/cgmb/1997/61",
+   "short": "HCGMB nr. 61/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii definitive amplasate pe domeniul privat al mun. Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/439",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/439/h061_97.pdf",
+     "sha256": "73ba0f70007f6ddb01fae2f6779caf9174ad87fd0485239464f13a6420c939db"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1997",
+   "path": "local/bucuresti/cgmb/1997/62",
+   "short": "HCGMB nr. 62/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii amplasate pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/440",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/440/h062_97.pdf",
+     "sha256": "c657daa9e6ddd46767f61d31619c4f2b627d398b6fff452d7542998e6c5daaf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-1997",
+   "path": "local/bucuresti/cgmb/1997/63",
+   "short": "HCGMB nr. 63/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/441",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/441/h063_97.pdf",
+     "sha256": "e0164b16c7ab206a80962492547235c111bf2d06464560898328cc90da15e646"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1997",
+   "path": "local/bucuresti/cgmb/1997/64",
+   "short": "HCGMB nr. 64/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1997 privind aprobarea documentatiei de urbanism \"Studiu privind racordul la Centura de Sud a Bucurestiului dintre autostrazile Pitesti si Constanta",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/442",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/442/h064_97.pdf",
+     "sha256": "ad490cf401fd285e068371111594a495775f851bbcb2f4a0ad22a2d14f8fff3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1997",
+   "path": "local/bucuresti/cgmb/1997/65",
+   "short": "HCGMB nr. 65/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1997 privind aprobarea unor contracte de asociere pt. spatiile cu alta destinatie decat cea de locuinta aflate in administrarea Primariei municipiului Bucu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/590",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/590/h065_97.pdf",
+     "sha256": "8e54083e0bdd8dc5dc3ec03b319048c50f6a79a7af453745e6f8a9aeeb1afc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1997",
+   "path": "local/bucuresti/cgmb/1997/66",
+   "short": "HCGMB nr. 66/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1997 privind declararea investitiei: \"Dezvoltarea alimentarii cu apa a mun. Bucuresti sursa Arges - Ogrezeni\" ca obiectiv de utilitate publica de interes",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/443",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/443/h066_97.pdf",
+     "sha256": "b45a150d532ced4a815833f6b86b586ba12aaca1d26f905d490db64f5d74590c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1997",
+   "path": "local/bucuresti/cgmb/1997/67",
+   "short": "HCGMB nr. 67/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1997 privind trecerea in administrarea RGAB a unor terenuri necesare realizarii Dispeceratului sistemului de alimentare cu apa al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/444",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/444/h067_97.pdf",
+     "sha256": "b333c4a3724c84f03c4da296657cc5eaa94cc8d3cf66a2e7fb27db1a1add72a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1997",
+   "path": "local/bucuresti/cgmb/1997/68",
+   "short": "HCGMB nr. 68/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1997 privind finantarea unui program de lucrari de reabilitare la interior a retelelor de alimentare cu apa prin metoda escavarii minime",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/565",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/565/h068_97.pdf",
+     "sha256": "b3be01e49754416b698b8e1b025665e4fa963e63c02e74c0e0ebf9e18c3367ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1997",
+   "path": "local/bucuresti/cgmb/1997/69",
+   "short": "HCGMB nr. 69/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/445",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/445/h069_97.pdf",
+     "sha256": "8a62f509267f111da93d11137516ce14d9351f1960933879ee2b8993162ed0d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1997",
+   "path": "local/bucuresti/cgmb/1997/7",
+   "short": "HCGMB nr. 7/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1997 privind aprobarea unor planuri urbanistice de detaliu pt. constr. definitive amplasate pe dom. privat al mun. Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/397",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/397/h07_97.pdf",
+     "sha256": "9229cf8c1011e2f99d960c2b3ff931032b372fd1203611bd31e244edf7d83a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1997",
+   "path": "local/bucuresti/cgmb/1997/70",
+   "short": "HCGMB nr. 70/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1997 privind modificarea si completarea Hotararii CLMB nr. 91/28.05.1996 SE ABROGA PRIN HCGMB NR. 505/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/591",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/591/h070_97.pdf",
+     "sha256": "89055f3b6ce7c667f31ff353bd0eb9ccbace9047513bda5e553c054c0ee13c23"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1997",
+   "path": "local/bucuresti/cgmb/1997/71",
+   "short": "HCGMB nr. 71/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/592",
+   "versions": [
+    {
+     "from": "1997-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/592/h071_97.pdf",
+     "sha256": "e0a7980e239178fd45167615581e1dd930ebdb0a0157aa59ed0055b48c1fa84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1997",
+   "path": "local/bucuresti/cgmb/1997/72",
+   "short": "HCGMB nr. 72/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1997 privind aprobarea ca suprafata de teren de 500 mp sa fie rezervata in vederea construirii unui adapost pt. cainii fara stapan de pe raza mun. Bucurest",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/622",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/622/h072_97.pdf",
+     "sha256": "e5aa501071e114ffd0d9370c75bac96dee9eb424ecfd7f9ce6d60f19400ab86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1997",
+   "path": "local/bucuresti/cgmb/1997/73",
+   "short": "HCGMB nr. 73/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1997 privind aprobarea terenurilor in vederea organizarii de cimitire de masini",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/566",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/566/h073_97.pdf",
+     "sha256": "795c1c4cc2befddcb198be16d565f0e63e80083151d7cb56262558e635c7eb37"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1997",
+   "path": "local/bucuresti/cgmb/1997/74",
+   "short": "HCGMB nr. 74/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1997 privind aprobarea negocierii ctr. intre PMB si Societatea STIRLING in vederea realizarii a doua parcari subterane",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/567",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/567/h074_97.pdf",
+     "sha256": "54f3989096129d530510b3892c5e055a6fc9b2d9a9ee26257b1b57c757e7ee2c"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-75-1997",
    "path": "local/bucuresti/cgmb/1997/75",
    "short": "HCGMB nr. 75/1997",
@@ -254,6 +3374,381 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/568/h075_97.pdf",
      "sha256": "389a0c345d800ea454ea7a88214286e37fc6ccddfafd45a03682f933a011bdad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1997",
+   "path": "local/bucuresti/cgmb/1997/76",
+   "short": "HCGMB nr. 76/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1997 privind parcarea vehiculelor grele pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/569",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/569/h076_97.pdf",
+     "sha256": "8d4b9615d2321455b958f79959eebfe3e54488147c27c0039b585eff5cf962bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1997",
+   "path": "local/bucuresti/cgmb/1997/78",
+   "short": "HCGMB nr. 78/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1997 privind aprobarea planului de urbanism zonal \"Piata Presei Libere Bucuresti, sector 1\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/623",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/623/h078_97.pdf",
+     "sha256": "71ae9809905fb8aaa91552d6cfa4cd8c4c917a37c6c4026c15c8f397fcea7d88"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1997",
+   "path": "local/bucuresti/cgmb/1997/79",
+   "short": "HCGMB nr. 79/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1997 privind aprobarea infiintarii Biroului de informare al consilierului CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/570",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/570/h079_97.pdf",
+     "sha256": "0db168799b490c80e1fbbbac8bced77315746a84fd7c3b2a69290dd31a316957"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1997",
+   "path": "local/bucuresti/cgmb/1997/8",
+   "short": "HCGMB nr. 8/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1997 privind comletarea HCLMB nr. 14/30.03.95",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/398",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/398/h08_97.pdf",
+     "sha256": "3f77ed4df64f0718f94f8379c99c546a884ec843402b213985faa17e6cd1fe0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-1997",
+   "path": "local/bucuresti/cgmb/1997/80",
+   "short": "HCGMB nr. 80/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1997 privind repartizarea pe bugete componente ale surselor totale ale bugetului local al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/571",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/571/h080_97.pdf",
+     "sha256": "739b33bb4d6baffb8fcb99b1ec5a25ef203856958c3340197ec588283dfcbbf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1997",
+   "path": "local/bucuresti/cgmb/1997/81",
+   "short": "HCGMB nr. 81/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1997 privind modificarea organigramei aparatului propriu al PB prin reorganizarea Cabinetului priarului general",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/624",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/624/h081_97.pdf",
+     "sha256": "1a302e538f7394467c74c01cd1b356e4a79df3aaffd2bc67e9c947c8fe6152cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1997",
+   "path": "local/bucuresti/cgmb/1997/82",
+   "short": "HCGMB nr. 82/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1997 privind modificarea organigramei aparatului propriu al PMB prin reorganizarea Directiei juridic, legislatie, contencios",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/572",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/572/h082_97.pdf",
+     "sha256": "c403f34cb0d906ff1c9c5044e91be78fed2286ff66914a82b9dc213f587203b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1997",
+   "path": "local/bucuresti/cgmb/1997/83",
+   "short": "HCGMB nr. 83/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1997 SUSPENDATA DE PREFECTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1194",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1194/h083_97.pdf",
+     "sha256": "62841e6ba9a16f5ac4639c520c832cc5e91d9df719b3d1b5495995b0ff777f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1997",
+   "path": "local/bucuresti/cgmb/1997/84",
+   "short": "HCGMB nr. 84/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1191",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1191/h084_97.pdf",
+     "sha256": "61c727c40f6d1c5a369197ceceba7bb79a33f3c3e493406c2e8c5b72f020b7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1997",
+   "path": "local/bucuresti/cgmb/1997/85",
+   "short": "HCGMB nr. 85/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1997 privind finantarea necesara realizarii si punerii in functiune a statiei de tratare Crivina-Ogrezeni, etapa 1 - 3mc/sec, in trim IV 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/582",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/582/h085_97.pdf",
+     "sha256": "2ef9722009342fc42826bf0eb159ab66d339521aa2c2bd6fcd407fa8c7c93b58"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1997",
+   "path": "local/bucuresti/cgmb/1997/86",
+   "short": "HCGMB nr. 86/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/583",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/583/h086_97.pdf",
+     "sha256": "5f87ab2c62be045832732c9aba8c6166313b30e8c02a773c3e3981bfec7c9b76"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1997",
+   "path": "local/bucuresti/cgmb/1997/87",
+   "short": "HCGMB nr. 87/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1997 +privind aprobarea unui proiect urbanistic de detaliu pentru zona Piata Latina imobil multifunctional",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/573",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/573/h087_97.pdf",
+     "sha256": "2a8672fb836d61de20b06acdcbaf61e2515fdcb58ce17ca697d8fa8cbd78fc1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1997",
+   "path": "local/bucuresti/cgmb/1997/88",
+   "short": "HCGMB nr. 88/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/574",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/574/h088_97.pdf",
+     "sha256": "84b2171b6c4db6bdaf779432b0f7d45dde678916e8a0570581e1ecf1c02f1a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-1997",
+   "path": "local/bucuresti/cgmb/1997/89",
+   "short": "HCGMB nr. 89/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/1997 privind aprobarea unui proiect de urbanism zonal in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/575",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/575/h089_97.pdf",
+     "sha256": "bd07afcc22a696239f557eb24b9b40b459648e30d0d2d214dedaa6f6da70d34d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1997",
+   "path": "local/bucuresti/cgmb/1997/9",
+   "short": "HCGMB nr. 9/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/399",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/399/h09_97.pdf",
+     "sha256": "1a419bd1c7bc37ab66aaf9f5e3e7da3b40123208f2e32200a25d16bf87f5c9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-1997",
+   "path": "local/bucuresti/cgmb/1997/90",
+   "short": "HCGMB nr. 90/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/1997 privind aprobarea unui plan urbanistic de detaliu pentru constructii provizorii pe domeniul privat/public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/576",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/576/h090_97.pdf",
+     "sha256": "98f22d4416ec25676425cf9c5a2f7b9a96502681c0e99d66763880a8244e73f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-1997",
+   "path": "local/bucuresti/cgmb/1997/91",
+   "short": "HCGMB nr. 91/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/577",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/577/h091_97.pdf",
+     "sha256": "085d7628a148bbf6172f004193f00d97dc28af02e97028f001f6dd039dec7abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-1997",
+   "path": "local/bucuresti/cgmb/1997/92",
+   "short": "HCGMB nr. 92/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/1997 privind aprobarea unui plan urbanistic de detaliu privind o constructie definitiva amplasata pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/578",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/578/h092_97.pdf",
+     "sha256": "27df8c63c3ab3955a445cae0ca492ab6b81a3905ef3e7c583a332ad6c514cf14"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1997",
+   "path": "local/bucuresti/cgmb/1997/93",
+   "short": "HCGMB nr. 93/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1997 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/579",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/579/h093_97.pdf",
+     "sha256": "857a6ec937837bb426e57e4f0911adda63c517d4a4ea189f0f0d1a4abdb41597"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1997",
+   "path": "local/bucuresti/cgmb/1997/94",
+   "short": "HCGMB nr. 94/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1997 privind modificarea organigramei aparatului propriu al PMB prin reorganizarea Departamentului Servicii Publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/625",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/625/h094_97.pdf",
+     "sha256": "ad4e41094a13ccae1e814c2c00354fd96b335bc534c05a601f4cb07cd29cf90f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1997",
+   "path": "local/bucuresti/cgmb/1997/95",
+   "short": "HCGMB nr. 95/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1997 privind modificarea organigramei aparatului propriu al PMB prin reorganizarea Directiei secretariat, asistenta sociala, tineret si sport",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/626",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/626/h095_97.pdf",
+     "sha256": "37d5edf4898ca784d13a5189923a4a68d22c4fe5920ba3ad584e93069fe90c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1997",
+   "path": "local/bucuresti/cgmb/1997/96",
+   "short": "HCGMB nr. 96/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1997 privind modificarea organigramei aparatului propriu al PMB prin infiintarea Biroului de protectia muncii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/627",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/627/h096_97.pdf",
+     "sha256": "daa8f3163a06ecf4b4596ca2447804f5532c250bda791f97febf0c008cb197b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1997",
+   "path": "local/bucuresti/cgmb/1997/97",
+   "short": "HCGMB nr. 97/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1997 privind odificarea organigramei aparatului propriu al PMB prin reorganizarea Directiei administrativ, gospodaresc, transporturi",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/628",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/628/h097_97.pdf",
+     "sha256": "42a213a8d7094e291ec4a1d1cc9274dc2b30c7e4915506c87f90a36d99bece3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1997",
+   "path": "local/bucuresti/cgmb/1997/98",
+   "short": "HCGMB nr. 98/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/580",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/580/h098_97.pdf",
+     "sha256": "cc7f8bffd1172a231d0665134ff02cf4d33183420a3299709a8089e13ebf33e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1997",
+   "path": "local/bucuresti/cgmb/1997/99",
+   "short": "HCGMB nr. 99/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1997 privind aprobarea bilantului contabil sia a conturilor de profit si pierderi la 31 decembrie 1996 al RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/581",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/581/h099_97.pdf",
+     "sha256": "6d55286634834e53c59243ebb8bdc9c5adac30a7bbe5b38f79547364352d6bbb"
     }
    ]
   }

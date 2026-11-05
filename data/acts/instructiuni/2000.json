@@ -115,6 +115,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26475",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "instructiuni-transporturi-3134-2000",
+"path": "instructiuni/transporturi/2000/3134",
+"kind": "instructiuni",
+"year": "2000",
+"number": "3134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 3.134/2000 privind autorizarea profesorilor de legislație rutieră și a instructorilor de conducere auto",
+"short": "Instrucțiuni transporturi nr. 3134/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-03-03",
+"latest": "2001-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26478",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

@@ -256,6 +256,36 @@
      "sha256": "751459b94715a10329cbbeff60bc40450adad05d92c79f17e9901c7315aedf6b"
     }
    ]
+  },
+  {
+   "slug": "regulament-transporturi-5-2005",
+   "path": "regulament/transporturi/2005/5",
+   "short": "Regulament transporturi nr. 5/2005",
+   "title": "Regulamentul nr. 5/2005 pentru circulația trenurilor și manevra vehiculelor feroviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119559",
+   "versions": [
+    {
+     "from": "2005-11-28",
+     "units": 378,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119559",
+     "sha256": "8ff675df02b8138ae895a5082bbc4c712d74702b428c00ea3c8d203ea665e256"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-6-2005",
+   "path": "regulament/transporturi/2005/6",
+   "short": "Regulament transporturi nr. 6/2005",
+   "title": "Regulamentul nr. 6/2005 de remorcare și frânare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119179",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119179",
+     "sha256": "2e1b27f8d8b4fc1dce5f49b3f7bab80a6e68bb59bb51b6d4ccdc28ebc3ce18fb"
+    }
+   ]
   }
  ]
 }

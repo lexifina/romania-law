@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-565-2003",
+   "path": "ordin/agricultura/2003/565",
+   "short": "Ordin agricultura nr. 565/2003",
+   "title": "Ordinul nr. 565/2003 pentru aprobarea Protocolului privind activitățile de lansare a rachetelor antigrindină (RAG) în vederea controlului și influențării factorilor de mediu în folosul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48069",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48069",
+     "sha256": "8f37e351e9a298d87a2c223d8d72d58bf66e5cfba9b8c4e9a58409d3fa1c90b1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-620-2003",
    "path": "ordin/agricultura/2003/620",
    "short": "Ordin agricultura nr. 620/2003",
@@ -914,6 +929,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48683",
      "sha256": "536281b8d9ef40c7a73e0d8c0448ddad50c294a28d3616d0a9734178cc4c9119"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-133-2003",
+   "path": "ordin/anrm/2003/133",
+   "short": "Ordin anrm nr. 133/2003",
+   "title": "Ordinul nr. 133/2003 privind aprobarea Regulamentului de topografie miniera",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45673",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45673",
+     "sha256": "94b93ca4db4e2469fd96d7c53a42bdbf3d036693511148e974eb4beedae4e762"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-194-2003",
+   "path": "ordin/anrm/2003/194",
+   "short": "Ordin anrm nr. 194/2003",
+   "title": "Ordinul nr. 194/2003 privind aprobarea prețului de referință al gazelor naturale extrase în România, începând cu trimestrul I al anului 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48899",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48899",
+     "sha256": "8288a88c1f13146df2d544ea38c5c634e79adc76cf588cdb09d57bec08a5a84a"
     }
    ]
   },
@@ -2358,6 +2403,396 @@
    ]
   },
   {
+   "slug": "ordin-economie-100-2003",
+   "path": "ordin/economie/2003/100",
+   "short": "Ordin economie nr. 100/2003",
+   "title": "Ordinul nr. 100/2003 pentru aprobarea Prescripției tehnice PT R 10-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - teleschiuri și telesănii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42436",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42436",
+     "sha256": "e9130aa8521f5ffdf1693b97c626940f8da3d669e33bee855f4edcef77bfa717"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-103-2003",
+   "path": "ordin/economie/2003/103",
+   "short": "Ordin economie nr. 103/2003",
+   "title": "Ordinul nr. 103/2003 pentru aprobarea Prescripției tehnice PT R 16-2003, ediția 1, \"Cerințe tehnice pentru proiectarea, construirea, montarea, repararea, întreținerea, revizia, verificarea și exploatarea instalațiilor de transport pe plan înclinat pentru materiale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43013",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43013",
+     "sha256": "6ac6e08b48f4a848ecf0b74e7e693cca4f817cefe48633a98babe1134baf9a6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-104-2003",
+   "path": "ordin/economie/2003/104",
+   "short": "Ordin economie nr. 104/2003",
+   "title": "Ordinul nr. 104/2003 pentru aprobarea Prescripției tehnice PT R 17-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor de construcție specială pentru materiale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43076",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43076",
+     "sha256": "6bd6dc35498214d814970b9eaa145299b18ee78f297072228925a9c1b8600588"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-105-2003",
+   "path": "ordin/economie/2003/105",
+   "short": "Ordin economie nr. 105/2003",
+   "title": "Ordinul nr. 105/2003 pentru aprobarea Prescripției tehnice PT R 15-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor pentru șantiere de construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43103",
+   "versions": [
+    {
+     "from": "2003-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43103",
+     "sha256": "7ffe3a386207c41e1624aec759b31e4b2f08367c9a5b5aecd5c3515fa7d3273a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-106-2003",
+   "path": "ordin/economie/2003/106",
+   "short": "Ordin economie nr. 106/2003",
+   "title": "Ordinul nr. 106/2003 pentru aprobarea Prescripției tehnice PT R 13-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor cu schip\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43184",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43184",
+     "sha256": "01fbbf27aef5268fec57ab7025c356187d7e325165bf87f0b811bfcc8a659df4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-107-2003",
+   "path": "ordin/economie/2003/107",
+   "short": "Ordin economie nr. 107/2003",
+   "title": "Ordinul nr. 107/2003 pentru aprobarea Prescripției tehnice PT R 18-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a trapelor de scena, trapelor de decoruri și instalațiilor de cortine pentru incendiu din sălile de spectacole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43243",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43243",
+     "sha256": "d579bbfcb89f423168de0fd59c880968f8370368bbf5c6cc742da24954e8675a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-108-2003",
+   "path": "ordin/economie/2003/108",
+   "short": "Ordin economie nr. 108/2003",
+   "title": "Ordinul nr. 108/2003 pentru aprobarea Prescripției tehnice PT R7-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telecabine\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43274",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43274",
+     "sha256": "3062b53390f1a5b2275bdffbe2cbf580b4190bf4c95bdc0b4de5910dd1634ed3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-109-2003",
+   "path": "ordin/economie/2003/109",
+   "short": "Ordin economie nr. 109/2003",
+   "title": "Ordinul nr. 109/2003 pentru aprobarea Prescripției tehnice PT R8-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telegondole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43381",
+   "versions": [
+    {
+     "from": "2003-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43381",
+     "sha256": "a3d3786d28b38adbbe0e61f948869116e42c01305c0ba500025ed5d102c2a31c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-11-2003",
+   "path": "ordin/economie/2003/11",
+   "short": "Ordin economie nr. 11/2003",
+   "title": "Ordinul nr. 11/2003 privind unele măsuri pentru acordarea autorizației de executare a operațiunilor de recuperare a țițeiului, gazolinei, condensatului, etanului lichid, benzinei, motorinei și a altor produse petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41963",
+   "versions": [
+    {
+     "from": "2003-02-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41963",
+     "sha256": "3fe621cefc6e3e7b401e44338617cf9833abdae6b26928cd58b24ff3650aabfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-115-2003",
+   "path": "ordin/economie/2003/115",
+   "short": "Ordin economie nr. 115/2003",
+   "title": "Ordinul nr. 115/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Rompiro\" - S.A. Orăștie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42328",
+   "versions": [
+    {
+     "from": "2003-03-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42328",
+     "sha256": "bff21c7bd2b1447d177a97c3643e3c772ea94fb5dc505ed06fe61dc434d15525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-121-2003",
+   "path": "ordin/economie/2003/121",
+   "short": "Ordin economie nr. 121/2003",
+   "title": "Ordinul nr. 121/2003 pentru completarea și modificarea Prescripției tehnice PT R 1-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a macaralelor\", aprobată prin Ordinul ministrului industriei și resurselor nr. 144/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46092",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46092",
+     "sha256": "1574f05ab9d018a10d03c986a918f6a7e697907d58fac3d256b1e93cb90d4763"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-122-2003",
+   "path": "ordin/economie/2003/122",
+   "short": "Ordin economie nr. 122/2003",
+   "title": "Ordinul nr. 122/2003 pentru completarea și modificarea Prescripției tehnice PT R 6-2002, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, exploatarea, repararea și verificarea tehnică a ascensoarelor electrice și hidraulice de persoane și/sau de materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 577/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46093",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46093",
+     "sha256": "9bf8ab9b4a992018b1dd3212f456f06d94dad54a654fdbbd36e7205611b187c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-124-2003",
+   "path": "ordin/economie/2003/124",
+   "short": "Ordin economie nr. 124/2003",
+   "title": "Ordinul nr. 124/2003 pentru completarea și modificarea Prescripției tehnice PT R 8-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telegondole\", aprobată prin Ordinul ministrului industriei și resurselor nr. 109/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46095",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46095",
+     "sha256": "283900e325354bd73fc1e7aef7a9097943ea098af9bd0c6bfd7e702e3e727b76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-125-2003",
+   "path": "ordin/economie/2003/125",
+   "short": "Ordin economie nr. 125/2003",
+   "title": "Ordinul nr. 125/2003 pentru completarea și modificarea Prescripției tehnice PT R 9-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telescaune\", aprobată prin Ordinul ministrului industriei și resurselor nr. 99/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46096",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46096",
+     "sha256": "68314cdb9046fa715a8e7dee41b28f5af939b78c81639a3069d1ef97132bb486"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-126-2003",
+   "path": "ordin/economie/2003/126",
+   "short": "Ordin economie nr. 126/2003",
+   "title": "Ordinul nr. 126/2003 pentru completarea și modificarea Prescripției tehnice PT R 10-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - teleschiuri și telesănii\", aprobată prin Ordinul ministrului industriei și resurselor nr. 100/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46144",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46144",
+     "sha256": "0b6b53ad5b7cf2aeeb26144f8f057aa53348a8692f7cb140c179d3b5d86d292f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-127-2003",
+   "path": "ordin/economie/2003/127",
+   "short": "Ordin economie nr. 127/2003",
+   "title": "Ordinul nr. 127/2003 pentru completarea și modificarea Prescripției tehnice PT R 11-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe plan înclinat pentru persoane\", aprobată prin Ordinul ministrului industriei și resurselor nr. 101/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46132",
+   "versions": [
+    {
+     "from": "2003-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46132",
+     "sha256": "a626b4a36aecd6c34149d48dbd8826bb56f5d1d7ce0aa3919f76453e801a2ddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-128-2003",
+   "path": "ordin/economie/2003/128",
+   "short": "Ordin economie nr. 128/2003",
+   "title": "Ordinul nr. 128/2003 pentru completarea și modificarea Prescripției tehnice PT R 12-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, repararea, întreținerea, revizia, verificarea și exploatarea telefericelor pentru materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 102/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46133",
+   "versions": [
+    {
+     "from": "2003-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46133",
+     "sha256": "67dc0635a2d550475c8d6567e1c20670d3da2f90868cca53cc7f79b5833233a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-129-2003",
+   "path": "ordin/economie/2003/129",
+   "short": "Ordin economie nr. 129/2003",
+   "title": "Ordinul nr. 129/2003 pentru completarea și modificarea Prescripției tehnice PT R 15-2003, ediția 1, ”Cerințe tehnice privind proiectarea, construirea, montarea, exploatarea și verificarea tehnică a ascensoarelor pentru șantiere de construcții”, aprobată prin Ordinul ministrului industriei și resurselor nr. 105/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46134",
+   "versions": [
+    {
+     "from": "2003-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46134",
+     "sha256": "5f37a5bb828def73a1f47aec84900ecec10d6fc5ded5656ac05b50dc8a2adf7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-13-2003",
+   "path": "ordin/economie/2003/13",
+   "short": "Ordin economie nr. 13/2003",
+   "title": "Ordinul nr. 13/2003 pentru completarea Ordinului ministrului industriei și resurselor nr. 139/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-75/33 Contoare de apa rece\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41652",
+   "versions": [
+    {
+     "from": "2003-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41652",
+     "sha256": "c8be6c46ca8b0ffb6c6a4d4b81ae44412f2d6341cda31b845e6727d5a6c7804c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-130-2003",
+   "path": "ordin/economie/2003/130",
+   "short": "Ordin economie nr. 130/2003",
+   "title": "Ordinul nr. 130/2003 pentru completarea și modificarea Prescripției tehnice PT R 16-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, montarea, repararea, întreținerea, revizia, verificarea și exploatarea instalațiilor de transport pe plan înclinat pentru materiale\", aprobată prin Ordinul ministrului industriei și resurselor nr. 103/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46146",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46146",
+     "sha256": "fd70f856d558ec79e37630d3a63d8d8cf25ff5f3ab1c291affc347eeec9db486"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-131-2003",
+   "path": "ordin/economie/2003/131",
+   "short": "Ordin economie nr. 131/2003",
+   "title": "Ordinul nr. 131/2003 pentru completarea și modificarea Prescripției tehnice PT CR 1-2003, ediția 1, \"Tarife pentru operațiunile de autorizare, avizare, verificare tehnică și altele la instalații mecanice sub presiune, instalații de ridicat și aparate consumatoare de combustibil efectuate de către organele tehnice de specialitate ale Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat (ISCIR)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46163",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46163",
+     "sha256": "56565e68e9a471d6b5169f957c49283832d9209f7ece63d23c1ecc1e72d924e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-132-2003",
+   "path": "ordin/economie/2003/132",
+   "short": "Ordin economie nr. 132/2003",
+   "title": "Ordinul nr. 132/2003 pentru completarea și modificarea Prescripției tehnice PT R 3-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a stivuitoarelor\", aprobată prin Ordinul ministrului industriei și resurselor nr. 146/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46147",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46147",
+     "sha256": "dd2d3a3f0a3c14543c2aab0487698e4559b200edbe6cf4c0c95a8dd36ef35cc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-133-2003",
+   "path": "ordin/economie/2003/133",
+   "short": "Ordin economie nr. 133/2003",
+   "title": "Ordinul nr. 133/2003 privind aprobarea Listei organismelor de certificare notificate care efectuează evaluarea conformității în domeniul cazanelor noi de apa calda care funcționează cu combustibil lichid sau gazos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42618",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42618",
+     "sha256": "bb96e555159356480bc856854a0ddd306098d45de6bf75e6ea8e0be0bfe451c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-140-2003",
+   "path": "ordin/economie/2003/140",
+   "short": "Ordin economie nr. 140/2003",
+   "title": "Ordinul nr. 140/2003 pentru aprobarea unor măsuri privind recunoașterea și desemnarea organismelor competente care realizează evaluarea conformității cu principalele cerințe de protecție a aparatelor din punct de vedere al compatibilității electromagnetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46290",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46290",
+     "sha256": "8ba7753162fb620d10e1bc3b1f56641bfcc2bb568b1292c0a79a50e53793037f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-142-2003",
+   "path": "ordin/economie/2003/142",
+   "short": "Ordin economie nr. 142/2003",
+   "title": "Ordinul nr. 142/2003 pentru aprobarea Prescripției tehnice PT R2-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a mecanismelor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43628",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43628",
+     "sha256": "88f0ff447248772bb4abaddb27221893425f5f5d61e21af50239d6e83410eb46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-144-2003",
+   "path": "ordin/economie/2003/144",
+   "short": "Ordin economie nr. 144/2003",
+   "title": "Ordinul nr. 144/2003 pentru aprobarea Prescripției tehnice PT R1-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a macaralelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43662",
+   "versions": [
+    {
+     "from": "2003-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43662",
+     "sha256": "6efc81618abb2c54e4eb201455077eace154ab24b16b4eda778c11a711274f49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-145-2003",
    "path": "ordin/economie/2003/145",
    "short": "Ordin economie nr. 145/2003",
@@ -2369,6 +2804,216 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44674",
      "sha256": "70b545ba72e480c1a07a25ed1f0d220e904e1482a9b1d011a86f0891e02edfe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-146-2003",
+   "path": "ordin/economie/2003/146",
+   "short": "Ordin economie nr. 146/2003",
+   "title": "Ordinul nr. 146/2003 pentru aprobarea Prescripției tehnice PT R3-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a stivuitoarelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43717",
+   "versions": [
+    {
+     "from": "2003-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43717",
+     "sha256": "83c1fde801bb02b69e8720bbbf11343de025e2fb0ea51c210bb0142968fd1a12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-147-2003",
+   "path": "ordin/economie/2003/147",
+   "short": "Ordin economie nr. 147/2003",
+   "title": "Ordinul nr. 147/2003 pentru aprobarea Prescripției tehnice PT R5-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a elevatoarelor pentru vehicule\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43757",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43757",
+     "sha256": "f4e69c411641d17a36f3b3c19e66a04283c31d223b3a97c27874b055b2c0cbe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-148-2003",
+   "path": "ordin/economie/2003/148",
+   "short": "Ordin economie nr. 148/2003",
+   "title": "Ordinul nr. 148/2003 pentru aprobarea Prescripției tehnice PT R4-2003, ediția 1, \"Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnică a nacelelor și platformelor autoridicătoare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43798",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43798",
+     "sha256": "8ea5ac6ce1149974cd9019dd627cefb7014a17d8109a1b5efb4a2251830c7bab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-184-2003",
+   "path": "ordin/economie/2003/184",
+   "short": "Ordin economie nr. 184/2003",
+   "title": "Ordinul nr. 184/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43759",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43759",
+     "sha256": "aa4213df74de191da52e5462bad282503d8567353ba2e89d765417f7b3c71fad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-185-2003",
+   "path": "ordin/economie/2003/185",
+   "short": "Ordin economie nr. 185/2003",
+   "title": "Ordinul nr. 185/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la recipientele simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43779",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43779",
+     "sha256": "1c73f79b73a12e038b61d3bb8319a75ba79508dda9600d337f2be5d66667d4ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-189-2003",
+   "path": "ordin/economie/2003/189",
+   "short": "Ordin economie nr. 189/2003",
+   "title": "Ordinul nr. 189/2003 privind aprobarea Metodologiei pentru certificarea și emiterea certificatului de conformitate de tip pentru echipamentele destinate distracției extreme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43851",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43851",
+     "sha256": "8feb0e70be9173a5168a14b5e861d6af300d05cd77a21019ac1b949a7517d90b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-190-2003",
+   "path": "ordin/economie/2003/190",
+   "short": "Ordin economie nr. 190/2003",
+   "title": "Ordinul nr. 190/2003 privind aprobarea Metodologiei pentru certificarea și emiterea certificatului de conformitate de tip pentru echipamentele destinate parcurilor de distracții și spațiilor de joaca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43852",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43852",
+     "sha256": "b4ca7a43fc87f7a1b393fc66b8d4033972775fe9d8bbf505fef228232af10072"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-204-2003",
+   "path": "ordin/economie/2003/204",
+   "short": "Ordin economie nr. 204/2003",
+   "title": "Ordinul nr. 204/2003 pentru abrogarea prevederilor art. 4 din Ordinul ministrului industriei și resurselor nr. 224/2003 privind măsurile ce se impun pentru perioada ciclului de injecție 2003 în depozitele subterane de înmagazinare a gazelor naturale, pentru asigurarea cantităților destinate completării surselor interne din structura consumului de gaze naturale pe perioada iernii 2003-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47224",
+   "versions": [
+    {
+     "from": "2003-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47224",
+     "sha256": "b0c98a7b8e7dde0b3bdf28f43548e4f3628e9e18dcbd3814efa22ae62fb7aa72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-22-2003",
+   "path": "ordin/economie/2003/22",
+   "short": "Ordin economie nr. 22/2003",
+   "title": "Ordinul nr. 22/2003 pentru stabilirea metodologiei de declarare a substanțelor și preparatelor chimice de către agenții economici din industrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41863",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41863",
+     "sha256": "a0a015595373727a0efb5f5acf973ed44a7f45558b07c33b65ace1da561cd604"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-221-2003",
+   "path": "ordin/economie/2003/221",
+   "short": "Ordin economie nr. 221/2003",
+   "title": "Ordinul nr. 221/2003 pentru aprobarea Regulamentului privind procedura de omologare a ambalajelor destinate transportului substanțelor și preparatelor chimice periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47363",
+   "versions": [
+    {
+     "from": "2003-11-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47363",
+     "sha256": "463e0d9a3823a6d99414a0fbf02045c2d0bda7476be2186220b14a81f4986767"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-224-2003",
+   "path": "ordin/economie/2003/224",
+   "short": "Ordin economie nr. 224/2003",
+   "title": "Ordinul nr. 224/2003 privind măsurile ce se impun pentru perioada ciclului de injecție 2003 în depozitele subterane de înmagazinare a gazelor naturale, pentru asigurarea cantităților destinate completării surselor interne din structura consumului de gaze naturale pe perioada iernii 2003-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43120",
+   "versions": [
+    {
+     "from": "2003-04-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43120",
+     "sha256": "d097cad01f5c62550cc6388ac28b37373efa870debdbb38dfdd4fb4d79626a68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-226-2003",
+   "path": "ordin/economie/2003/226",
+   "short": "Ordin economie nr. 226/2003",
+   "title": "Ordinul nr. 226/2003 pentru aprobarea Listei cuprinzând tipurile de gaze și presiunile de alimentare utilizate de aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43780",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43780",
+     "sha256": "9bf5989f8e494d240a74bbe1c6322dee8ca697ca3a0ec7c6c2663b0ae0884c51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-227-2003",
+   "path": "ordin/economie/2003/227",
+   "short": "Ordin economie nr. 227/2003",
+   "title": "Ordinul nr. 227/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43749",
+   "versions": [
+    {
+     "from": "2003-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43749",
+     "sha256": "08345af28d8786dddc099342904f9e8b38a5c2facb174897239241ad3299f3c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-229-2003",
+   "path": "ordin/economie/2003/229",
+   "short": "Ordin economie nr. 229/2003",
+   "title": "Ordinul nr. 229/2003 privind modificarea Ordinului ministrului industriei și resurselor nr. 282/2002 privind desemnarea organismelor de inspecție a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43189",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43189",
+     "sha256": "08a9e467db8dd5e17de0f83481221bbc053351c5fd1506846e9f5ab25cded0ea"
     }
    ]
   },
@@ -2388,6 +3033,111 @@
    ]
   },
   {
+   "slug": "ordin-economie-246-2003",
+   "path": "ordin/economie/2003/246",
+   "short": "Ordin economie nr. 246/2003",
+   "title": "Ordinul nr. 246/2003 privind aprobarea listei organismelor recunoscute care efectuează evaluarea conformității în domeniul aparatelor consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47612",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47612",
+     "sha256": "23a6ed0ff35191d942d3c7bd7aafe5cb360f73a503c48102def7aeb65bdd1502"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-247-2003",
+   "path": "ordin/economie/2003/247",
+   "short": "Ordin economie nr. 247/2003",
+   "title": "Ordinul nr. 247/2003 privind aprobarea Listei organismelor recunoscute care efectuează evaluarea conformității în domeniul recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47655",
+   "versions": [
+    {
+     "from": "2003-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47655",
+     "sha256": "22d579ae3dc4db7a29f0077e2286d76e5127ebed746da263d4afe0b024806ba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-256-2003",
+   "path": "ordin/economie/2003/256",
+   "short": "Ordin economie nr. 256/2003",
+   "title": "Ordinul nr. 256/2003 privind modificarea Ordinului ministrului industriei și resurselor nr. 282/2002 privind desemnarea organismelor de inspecție a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47755",
+   "versions": [
+    {
+     "from": "2003-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47755",
+     "sha256": "51b78813ad2202fc5af6baf7a401f36495f9320a1d165d0887882e5fa2cdf2c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-26-2003",
+   "path": "ordin/economie/2003/26",
+   "short": "Ordin economie nr. 26/2003",
+   "title": "Ordinul nr. 26/2003 privind unele măsuri pregătitoare pentru organizarea activităților aferente notificării substanțelor chimice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45342",
+   "versions": [
+    {
+     "from": "2003-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45342",
+     "sha256": "4e5e8115e24029fd065fa56ae7503a885377aed0ade66d83b7e2dfd3097c0531"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-263-2003",
+   "path": "ordin/economie/2003/263",
+   "short": "Ordin economie nr. 263/2003",
+   "title": "Ordinul nr. 263/2003 privind aprobarea Listei standardelor române din domeniul securității utilizatorilor de jucării, care adoptă standardele europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43494",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43494",
+     "sha256": "e558f5f50119dbbe57bcb76685ea9ae53170beb50d0e095cf77627754bfbe822"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-268-2003",
+   "path": "ordin/economie/2003/268",
+   "short": "Ordin economie nr. 268/2003",
+   "title": "Ordinul nr. 268/2003 privind aprobarea Normei de metrologie legală NML 024-03 \"Manometre cu element elastic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48329",
+   "versions": [
+    {
+     "from": "2003-12-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48329",
+     "sha256": "e36726f1c1bd571996c700d9284e5bca834fe4265d45e8a7d56a355269f671aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-27-2003",
+   "path": "ordin/economie/2003/27",
+   "short": "Ordin economie nr. 27/2003",
+   "title": "Ordinul nr. 27/2003 pentru aprobarea Prescripției tehnice PT CR1-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42204",
+   "versions": [
+    {
+     "from": "2003-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42204",
+     "sha256": "56acfef127f6e1939d8ad8b76434c2adba0fbfdc898d565b1cc15b5266adae8a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-28-2003",
    "path": "ordin/economie/2003/28",
    "short": "Ordin economie nr. 28/2003",
@@ -2399,6 +3149,201 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41784",
      "sha256": "bc48872a17d0dd249fa23bbfdb4e33d4ac557af1776ad8e8e7e2976bd36f3c0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-29-2003",
+   "path": "ordin/economie/2003/29",
+   "short": "Ordin economie nr. 29/2003",
+   "title": "Ordinul nr. 29/2003 pentru aprobarea unor măsuri privind recunoașterea și desemnarea organismelor care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45411",
+   "versions": [
+    {
+     "from": "2003-08-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45411",
+     "sha256": "298de39dc080458537b91f1db73482a1157ce0618b7cd9dfa70ac289e2a2d8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-292-2003",
+   "path": "ordin/economie/2003/292",
+   "short": "Ordin economie nr. 292/2003",
+   "title": "Ordinul nr. 292/2003 privind valorificarea cantităților de gaze naturale pe piața internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43781",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43781",
+     "sha256": "7dd2d910eb059f50c5893cd773a7e67f9b41f4bbfc5d267fe3dc253d6d29120f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-304-2003",
+   "path": "ordin/economie/2003/304",
+   "short": "Ordin economie nr. 304/2003",
+   "title": "Ordinul nr. 304/2003 pentru aprobarea Prescripției tehnice PT C 1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, verificarea tehnică și repararea cazanelor de abur și de apa fierbinte, supraîncălzitoarelor și a economizoarelor independente\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48776",
+   "versions": [
+    {
+     "from": "2003-12-20",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48776",
+     "sha256": "1be870e7a2caa8027563e20ada6d2c508176e22b2828dbc0a8770d63eaa5630a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-305-2003",
+   "path": "ordin/economie/2003/305",
+   "short": "Ordin economie nr. 305/2003",
+   "title": "Ordinul nr. 305/2003 pentru aprobarea Prescripției tehnice PT C4/1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea recipientelor metalice stabile sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48662",
+   "versions": [
+    {
+     "from": "2003-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48662",
+     "sha256": "28aa37a485b685205d64dbebb87bcaf6b927717a63a8bba1b64bd589e6962c23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-306-2003",
+   "path": "ordin/economie/2003/306",
+   "short": "Ordin economie nr. 306/2003",
+   "title": "Ordinul nr. 306/2003 pentru aprobarea Prescripției tehnice PT C 5-2003, ediția 1, \"Cerințe tehnice privind utilizarea recipientelor butelii pentru gaze comprimate, lichefiate sau dizolvate sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48521",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48521",
+     "sha256": "8b4aa71d6876ae1510ace52fbd8ff4c6f41dfca22ef86307a66ceec7fb42581b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-307-2003",
+   "path": "ordin/economie/2003/307",
+   "short": "Ordin economie nr. 307/2003",
+   "title": "Ordinul nr. 307/2003 pentru aprobarea Prescripției tehnice PT C6-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea conductelor metalice pentru fluide\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48494",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48494",
+     "sha256": "e7f9dbed4cd483a2253743d506166eae48bf94bb0c88530c04d829529fed35a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-308-2003",
+   "path": "ordin/economie/2003/308",
+   "short": "Ordin economie nr. 308/2003",
+   "title": "Ordinul nr. 308/2003 pentru aprobarea Prescripției tehnice PT C 7-2003, ediția 1, \"Cerințe tehnice privind utilizarea, repararea, verificarea, scoaterea din uz și casarea dispozitivelor de siguranță\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48763",
+   "versions": [
+    {
+     "from": "2003-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48763",
+     "sha256": "b8785da129d5d624d5a4437849fc81afb4accca3d0a142759919a13a6a0ecb89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-309-2003",
+   "path": "ordin/economie/2003/309",
+   "short": "Ordin economie nr. 309/2003",
+   "title": "Ordinul nr. 309/2003 pentru aprobarea Prescripției tehnice PT C 8-2003, ediția 1, \"Cerințe tehnice privind amplasarea-instalarea, asamblarea, exploatarea, repararea, distribuția și verificarea instalațiilor de gaze petroliere lichefiate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48565",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48565",
+     "sha256": "7b97fe7526de7eedf397459eea753d26ba56a1ce1886791f2325805845e967d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3090-2003",
+   "path": "ordin/economie/2003/3090",
+   "short": "Ordin economie nr. 3090/2003",
+   "title": "Ordinul nr. 3.090/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Uzina Mecanică Băbeni\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43782",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43782",
+     "sha256": "8bccbfd84bae6e546a2eeefea360de862e84f2b9960e756920888991677339ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-310-2003",
+   "path": "ordin/economie/2003/310",
+   "short": "Ordin economie nr. 310/2003",
+   "title": "Ordinul nr. 310/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Avioane\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43956",
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43956",
+     "sha256": "f19a19ddf7fc9d13c3f11a1fd432e5a0b8682211be4fefa5d7d31bffe41f9b96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-311-2003",
+   "path": "ordin/economie/2003/311",
+   "short": "Ordin economie nr. 311/2003",
+   "title": "Ordinul nr. 311/2003 pentru aprobarea Prescripției tehnice PT C 10/1-2003, ediția 1, \"Cerințe tehnice privind montarea, instalarea, exploatarea, repararea și verificarea conductelor de abur și de apă fierbinte sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48619",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48619",
+     "sha256": "026bc9a229956787a67e057141fa99bcfb12d33f62e18cde019f541558caaf4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-315-2003",
+   "path": "ordin/economie/2003/315",
+   "short": "Ordin economie nr. 315/2003",
+   "title": "Ordinul nr. 315/2003 pentru aprobarea Prescripției tehnice C 4 N-2003 \"Prescripții tehnice pentru proiectarea, execuția, instalarea, exploatarea, repararea și verificarea recipientelor metalice stabile sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48592",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48592",
+     "sha256": "950d43390010a6fb68d998aa1f6454d8bea89d5644973052cb2dcc995331ae99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-316-2003",
+   "path": "ordin/economie/2003/316",
+   "short": "Ordin economie nr. 316/2003",
+   "title": "Ordinul nr. 316/2003 pentru aprobarea Prescripției tehnice R 1 N-2003 \"Prescripții tehnice pentru proiectarea, construirea, montarea, exploatarea și verificarea macaralelor, mecanismelor de ridicat și dispozitivelor lor auxiliare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48710",
+   "versions": [
+    {
+     "from": "2003-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48710",
+     "sha256": "0a173d504b1fdf46fecf7186a863730363378f84da0eb035f860aab73968822c"
     }
    ]
   },
@@ -2418,6 +3363,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-320-2003",
+   "path": "ordin/economie/2003/320",
+   "short": "Ordin economie nr. 320/2003",
+   "title": "Ordinul nr. 320/2003 privind prelungirea activității organismelor desemnate în domeniul compatibilității electromagnetice, cuprinse în lista aprobată prin Ordinul nr. 430/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44324",
+   "versions": [
+    {
+     "from": "2003-06-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44324",
+     "sha256": "6eaf79c331aab465c16578a0ae171c42b13db812a7e09426baf89b154ae8270b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-321-2003",
+   "path": "ordin/economie/2003/321",
+   "short": "Ordin economie nr. 321/2003",
+   "title": "Ordinul nr. 321/2003 privind prelungirea activității organismelor recunoscute în domeniul echipamentelor electrice de joasă tensiune, cuprinse în lista aprobată prin Ordinul ministrului industriei și resurselor nr. 433/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44628",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44628",
+     "sha256": "18279dc45b62db092864908dec10563c302684fdd0318fc04b15c0349e62fc4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-329-2003",
+   "path": "ordin/economie/2003/329",
+   "short": "Ordin economie nr. 329/2003",
+   "title": "Ordinul nr. 329/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Uzina Mecanică Orăștie\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48492",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48492",
+     "sha256": "b90dcfb32a83b1f574d7296b5b4bfe877af19d2da31a8804ca491ec635a8980f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-33-2003",
    "path": "ordin/economie/2003/33",
    "short": "Ordin economie nr. 33/2003",
@@ -2433,6 +3423,156 @@
    ]
   },
   {
+   "slug": "ordin-economie-331-2003",
+   "path": "ordin/economie/2003/331",
+   "short": "Ordin economie nr. 331/2003",
+   "title": "Ordinul nr. 331/2003 privind completarea Ordinului ministrului finanțelor publice și al ministrului economiei și comerțului nr. 1.236/154/2003 pentru aprobarea Instrucțiunilor privind constituirea și utilizarea veniturilor cu destinație specială din taxa de dezvoltare cuprinsă în tarifele pentru energie electrică și termică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48573",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48573",
+     "sha256": "9efcf5c4d3d1c3f7a5d572fb261e39aa074e255502c18fd00cff5756d9c57aa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-332-2003",
+   "path": "ordin/economie/2003/332",
+   "short": "Ordin economie nr. 332/2003",
+   "title": "Ordinul nr. 332/2003 pentru autorizarea Agenției Române pentru Conservarea Energiei de a emite facturi către beneficiarii proiectelor de investiții finanțate prin transferuri de la bugetul de stat către bugetele locale, pentru dezvoltarea sistemului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48562",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48562",
+     "sha256": "758aa2d72cec8d992c547f0216cbed790c19037b122554b6b0ba19d5af4e5dea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-333-2003",
+   "path": "ordin/economie/2003/333",
+   "short": "Ordin economie nr. 333/2003",
+   "title": "Ordinul nr. 333/2003 pentru aprobarea Prescripției tehnice PT C 2-2003, ediția 1, \"Cerințe tehnice privind regimul chimic al cazanelor de abur, de apa calda și de apa fierbinte\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49413",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49413",
+     "sha256": "185bbaa04f436da1239c5976c5b2685ef0f1902381cd44e96559a15c789a3607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-334-2003",
+   "path": "ordin/economie/2003/334",
+   "short": "Ordin economie nr. 334/2003",
+   "title": "Ordinul nr. 334/2003 privind aprobarea Prescripției tehnice PT C 4/2-2003, ediția 1, \"Ghid pentru proiectarea, construirea, montarea și repararea recipientelor metalice stabile sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49391",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49391",
+     "sha256": "a8f0ea62a6f213172f6862a45b32c1195468986954393b5ea2e7d68be1ce3b9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-336-2003",
+   "path": "ordin/economie/2003/336",
+   "short": "Ordin economie nr. 336/2003",
+   "title": "Ordinul nr. 336/2003 pentru aprobarea Prescripției tehnice PT C 11-2003, ediția 1, \"Cerințe tehnice privind sistemele de automatizare aferente centralelor termice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49414",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49414",
+     "sha256": "15144fc31149ce5daccd04b661046ce157acfab32c87f478d7fc2f57ba6abcc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-337-2003",
+   "path": "ordin/economie/2003/337",
+   "short": "Ordin economie nr. 337/2003",
+   "title": "Ordinul nr. 337/2003 pentru aprobarea Prescripției tehnice PT C 12-2003, ediția 1, \"Cerințe tehnice pentru recipiente-cisterne, recipiente-containere și recipiente-butoaie metalice pentru gaze comprimate, lichefiate sau dizolvate sub presiune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49515",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49515",
+     "sha256": "e247a95378eded9477812b51724d45b5bb90e35742c910b5821d55d144c9dfb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-34-2003",
+   "path": "ordin/economie/2003/34",
+   "short": "Ordin economie nr. 34/2003",
+   "title": "Ordinul nr. 34/2003 pentru aprobarea Listei organismelor recunoscute care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45322",
+   "versions": [
+    {
+     "from": "2003-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45322",
+     "sha256": "0975c31a414bf7d208add73011f74819af9467995609ea2effccda9ae6079cee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-343-2003",
+   "path": "ordin/economie/2003/343",
+   "short": "Ordin economie nr. 343/2003",
+   "title": "Ordinul nr. 343/2003 privind modul de administrare a contingentului tarifar exceptat de la plata taxelor vamale la importul în România al unor produse din categoria zahăr rafinat, originare din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48820",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48820",
+     "sha256": "4c4c84918b0551ff249fca30a261f1fe9bf2a6e02dc96b3edf14583f35881f7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-348-2003",
+   "path": "ordin/economie/2003/348",
+   "short": "Ordin economie nr. 348/2003",
+   "title": "Ordinul nr. 348/2003 privind aprobarea Listei cuprinzând standardele române din domeniul compatibilității electromagnetice care adoptă standardele europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44917",
+   "versions": [
+    {
+     "from": "2003-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44917",
+     "sha256": "8c965e856c1e587eba8d0155fbbdb9115011d36e2cf07127927da7ba9441c9c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-354-2003",
+   "path": "ordin/economie/2003/354",
+   "short": "Ordin economie nr. 354/2003",
+   "title": "Ordinul nr. 354/2003 privind recunoașterea Asociației de acreditare din România - RENAR ca organism național de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44668",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44668",
+     "sha256": "b57071eae989b4e2b053b87bc96dce021032cf3ce134d8fa2a6ed01ee20b74cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-364-2003",
    "path": "ordin/economie/2003/364",
    "short": "Ordin economie nr. 364/2003",
@@ -2444,6 +3584,456 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44679",
      "sha256": "e97f7997be15aca5ac58cd491327b5cb9d4a5effa3c935d9d9ebf1a20ff634db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-365-2003",
+   "path": "ordin/economie/2003/365",
+   "short": "Ordin economie nr. 365/2003",
+   "title": "Ordinul nr. 365/2003 privind aprobarea Listei cuprinzând standardele române din domeniul aparatelor de cântărit cu funcționare neautomată care adoptă standarde europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44671",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44671",
+     "sha256": "c949bc59e69e9616c064fb10e036077b7c6aa1cbfecf75abad25e66cf270b753"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-366-2003",
+   "path": "ordin/economie/2003/366",
+   "short": "Ordin economie nr. 366/2003",
+   "title": "Ordinul nr. 366/2003 pentru aprobarea Prescripției tehnice PT A 3-2003, ediția 1, \"Cerințe tehnice privind proiectarea, construirea, omologarea, instalarea, utilizarea și verificarea tehnică periodică a aparatelor consumatoare de combustibili lichizi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44672",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44672",
+     "sha256": "98bf6d0ab07e31044eb8d2fa97f4334177880718704dcb3ae69f580c31be7972"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-367-2003",
+   "path": "ordin/economie/2003/367",
+   "short": "Ordin economie nr. 367/2003",
+   "title": "Ordinul nr. 367/2003 pentru aprobarea Prescripției tehnice PT CR 4-2003, ediția 1, \"Examinarea cu ultrasunete a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49462",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49462",
+     "sha256": "7fca1e53ab8f1ae713a8eeb01848af47ed9929d7eb3ef313564d7fa2326ac079"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-369-2003",
+   "path": "ordin/economie/2003/369",
+   "short": "Ordin economie nr. 369/2003",
+   "title": "Ordinul nr. 369/2003 pentru aprobarea Prescripției tehnice PT CR 6-2003, ediția 1, \"Examinarea cu lichide penetrante a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49464",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49464",
+     "sha256": "6064aec2722a9c809e9e39494e80314d407045c24ea388902361a1878a4e402a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-370-2003",
+   "path": "ordin/economie/2003/370",
+   "short": "Ordin economie nr. 370/2003",
+   "title": "Ordinul nr. 370/2003 pentru aprobarea Prescripției tehnice PT CR 7/1-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 1: Oțel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49557",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49557",
+     "sha256": "0b35d3c97320701ca066f189f72ce8417b089d34900f7976bc5bd01f46173a88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-371-2003",
+   "path": "ordin/economie/2003/371",
+   "short": "Ordin economie nr. 371/2003",
+   "title": "Ordinul nr. 371/2003 pentru aprobarea Prescripției tehnice PT CR 7/2-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 2: Aluminiu și aliaje de aluminiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49558",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49558",
+     "sha256": "db95a69cb57bb5c97458d1861643d88c56984d89a80537855ba119a6aadbf3ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-372-2003",
+   "path": "ordin/economie/2003/372",
+   "short": "Ordin economie nr. 372/2003",
+   "title": "Ordinul nr. 372/2003 pentru aprobarea Prescripției tehnice PT CR 7/3-2003, ediția 1, \"Cerințe tehnice privind omologarea procedurilor de sudare folosite pentru executarea lucrărilor la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 3: Polietilenă de înaltă densitate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49559",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49559",
+     "sha256": "c5d28d98bfcc2558f10f141108ee84294f2cef575eec28928df22bbb70b8842a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-373-2003",
+   "path": "ordin/economie/2003/373",
+   "short": "Ordin economie nr. 373/2003",
+   "title": "Ordinul nr. 373/2003 pentru aprobarea Prescripției tehnice PT CR 8-2003, ediția 1, \"Examinarea cu particule magnetice a îmbinărilor sudate ale instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49465",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49465",
+     "sha256": "15fe93dbe12ad4a7cf3bf3f1f17421a14148b0bc287636a79e7441139ac3a126"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-374-2003",
+   "path": "ordin/economie/2003/374",
+   "short": "Ordin economie nr. 374/2003",
+   "title": "Ordinul nr. 374/2003 pentru aprobarea Prescripției tehnice PT CR 9/1-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care execută lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 1: Oțel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49590",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49590",
+     "sha256": "564dd21e8eb4367d263fe3c14afe1bf5fce9b21141d5f683ce2704af1d08425f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-375-2003",
+   "path": "ordin/economie/2003/375",
+   "short": "Ordin economie nr. 375/2003",
+   "title": "Ordinul nr. 375/2003 pentru aprobarea Prescripției tehnice PT CR 9/2-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care execută lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 2: Aluminiu și aliaje de aluminiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49591",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49591",
+     "sha256": "1c45ce79b37a51fda406ead69e28edcba591bda73761a3a613b9b098f63fb299"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-376-2003",
+   "path": "ordin/economie/2003/376",
+   "short": "Ordin economie nr. 376/2003",
+   "title": "Ordinul nr. 376/2003 pentru aprobarea Prescripției tehnice PT CR 9/3-2003, ediția 1, \"Cerințe tehnice privind autorizarea sudorilor care executa lucrări la instalațiile mecanice sub presiune și la instalațiile de ridicat. Partea 3: Polietilena de înaltă densitate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49592",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49592",
+     "sha256": "05edeb9042f81260f57a062a57b377c53c55dc50f79ac86058b2885677ff9a0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-379-2003",
+   "path": "ordin/economie/2003/379",
+   "short": "Ordin economie nr. 379/2003",
+   "title": "Ordinul nr. 379/2003 pentru aprobarea Prescripției tehnice PT CR 12-2003, ediția 1, \"Măsurarea cu ultrasunete a grosimii elementelor instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49695",
+   "versions": [
+    {
+     "from": "2004-02-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49695",
+     "sha256": "4ae00edc28bc5bf63fcf7b19fb7f8ed96de35d9f3c5b6c0c336fb9ea20c8ef2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-380-2003",
+   "path": "ordin/economie/2003/380",
+   "short": "Ordin economie nr. 380/2003",
+   "title": "Ordinul nr. 380/2003 pentru aprobarea Prescripției tehnice PT CR 13-2003, ediția 1, \"Examinarea cu radiații penetrante a îmbinărilor sudate cap la cap ale componentelor instalațiilor mecanice sub presiune și ale instalațiilor de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49696",
+   "versions": [
+    {
+     "from": "2004-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49696",
+     "sha256": "9bbc0feef38a9a51ad6e3eab97c168f4a82a9efd301da1b231ebbf1902072c59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-389-2003",
+   "path": "ordin/economie/2003/389",
+   "short": "Ordin economie nr. 389/2003",
+   "title": "Ordinul nr. 389/2003 privind nivelul producției interne a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49029",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49029",
+     "sha256": "4db516fe3119c9d7223079b0d8d3216dfc690a2ce880cbf1af80cec78137b256"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-391-2003",
+   "path": "ordin/economie/2003/391",
+   "short": "Ordin economie nr. 391/2003",
+   "title": "Ordinul nr. 391/2003 privind mărfurile supuse licențelor automate la export și import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49061",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49061",
+     "sha256": "ef3ce43303c39f187f03d8188f798a74a113049311e30fa16f0ed3244ddc23d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-393-2003",
+   "path": "ordin/economie/2003/393",
+   "short": "Ordin economie nr. 393/2003",
+   "title": "Ordinul nr. 393/2003 privind aprobarea Listei cuprinzând standardele române din domeniul securității utilizatorilor de jucării, care adoptă standardele europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49250",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49250",
+     "sha256": "35465c93230321f659260147fc7a45185244755f6ea78721b58be66f0198c134"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-395-2003",
+   "path": "ordin/economie/2003/395",
+   "short": "Ordin economie nr. 395/2003",
+   "title": "Ordinul nr. 395/2003 privind aprobarea listelor cuprinzând laboratoarele de încercări și organismele de certificare recunoscute/desemnate din domeniul securității utilizatorilor de jucării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49056",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49056",
+     "sha256": "345ee7b0afcb2a834a34c105fc81ba8bd00d93c75b747d0b0b9ed9b5aec8ddf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-40-2003",
+   "path": "ordin/economie/2003/40",
+   "short": "Ordin economie nr. 40/2003",
+   "title": "Ordinul nr. 40/2003 privind unele măsuri pentru recunoașterea și desemnarea organismelor care realizează evaluarea conformității aparatelor consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45844",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45844",
+     "sha256": "19856b193baa20a36c9c48d7d8ef5a5d659cd5ff7f88820914d70c97fdd82ae1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-43-2003",
+   "path": "ordin/economie/2003/43",
+   "short": "Ordin economie nr. 43/2003",
+   "title": "Ordinul nr. 43/2003 privind instituirea procedurii de administrare specială la Societatea Naționala \"Plafar\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41946",
+   "versions": [
+    {
+     "from": "2003-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41946",
+     "sha256": "f8a33cc30bc1d629fcc4a2b2ddf2af5bb063567ccc499c86d0fd473707e224fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-44-2003",
+   "path": "ordin/economie/2003/44",
+   "short": "Ordin economie nr. 44/2003",
+   "title": "Ordinul nr. 44/2003 privind aprobarea Listei organismelor recunoscute care efectuează evaluarea conformității ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45323",
+   "versions": [
+    {
+     "from": "2003-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45323",
+     "sha256": "1b1b295dad99a35e71b42a8f110e019eb65d5f0dda06aed18f8b445c828dc998"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-45-2003",
+   "path": "ordin/economie/2003/45",
+   "short": "Ordin economie nr. 45/2003",
+   "title": "Ordinul nr. 45/2003 privind aprobarea Normelor de prevenire și stingere a incendiilor specifice activităților din sectoarele industriei lemnului, ediția 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41852",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41852",
+     "sha256": "b470a334311f0b498e6e83175a0767221c3ba823229307b2b8598082f2e1e342"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-46-2003",
+   "path": "ordin/economie/2003/46",
+   "short": "Ordin economie nr. 46/2003",
+   "title": "Ordinul nr. 46/2003 privind aprobarea Normativului pentru proiectarea și executarea construcțiilor, instalațiilor și dotărilor tehnologice industriale din punct de vedere al siguranței la foc specific sectoarelor din industria lemnului, ediția 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41816",
+   "versions": [
+    {
+     "from": "2003-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41816",
+     "sha256": "0b9578ddbc8762c6226552d1fb5ef27bf0cb9ae2a54eabf2bdd35349bf9a8f64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-48-2003",
+   "path": "ordin/economie/2003/48",
+   "short": "Ordin economie nr. 48/2003",
+   "title": "Ordinul nr. 48/2003 pentru aprobarea Regulamentului de organizare și funcționare a Grupului interministerial de lucru pentru coordonarea elaborării și implementării Strategiei naționale în domeniul eficientei energetice și a planului de acțiune aferent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42256",
+   "versions": [
+    {
+     "from": "2003-03-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42256",
+     "sha256": "9170b19c9130a8110be49cc5fb0fb4196d194a5ea5db783544da22e7866a7cc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-49-2003",
+   "path": "ordin/economie/2003/49",
+   "short": "Ordin economie nr. 49/2003",
+   "title": "Ordinul nr. 49/2003 privind valorificarea cantităților de gaze naturale noi din producția internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42000",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42000",
+     "sha256": "0b323557f28c25e3e45bed012e842765fe88b663a6b68d4e14930280ea635ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-61-2003",
+   "path": "ordin/economie/2003/61",
+   "short": "Ordin economie nr. 61/2003",
+   "title": "Ordinul nr. 61/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Uzina Termoelectrica Midia\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45493",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45493",
+     "sha256": "562602897a64bd5131d1abf2b78fdbee855e628b320d5128276dc549e0ee8a64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-67-2003",
+   "path": "ordin/economie/2003/67",
+   "short": "Ordin economie nr. 67/2003",
+   "title": "Ordinul nr. 67/2003 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Melana IV\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45443",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45443",
+     "sha256": "163bd2dd191d59a4fb7e2cedf70593e4864887c98abc6ced4f66ba33d513d7ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-75-2003",
+   "path": "ordin/economie/2003/75",
+   "short": "Ordin economie nr. 75/2003",
+   "title": "Ordinul nr. 75/2003 privind aprobarea Procedurii de acordare a avizului pentru unitățile specializate în operațiuni de procesare a țițeiului și/sau a uleiurilor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42110",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42110",
+     "sha256": "29fcfaf43b07c6b5fa289d7373fe6ad0853247fc4d312d723741c3b01876bb31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-88-2003",
+   "path": "ordin/economie/2003/88",
+   "short": "Ordin economie nr. 88/2003",
+   "title": "Ordinul nr. 88/2003 pentru aprobarea Regulamentului privind procedura de atestare tehnico-profesională a specialiștilor verificatori de proiecte, responsabililor tehnici cu execuția și experților tehnici de calitate pentru lucrările de montaj utilaje, echipamente și instalații tehnologice industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42518",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42518",
+     "sha256": "a925c16ac6a979e646bab680f3988073f591978d0f5789e6c5024b5525f294ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-98-2003",
+   "path": "ordin/economie/2003/98",
+   "short": "Ordin economie nr. 98/2003",
+   "title": "Ordinul nr. 98/2003 pentru aprobarea Prescripției tehnice PT R 19-2002, ediția 1, \"Cerințe tehnice de securitate privind echipamentele și instalațiile montate și utilizate în cadrul parcurilor de distracții și spațiilor de joaca\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42327",
+   "versions": [
+    {
+     "from": "2003-03-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42327",
+     "sha256": "9f45c2042a6b8b16ede588cb0fd9e992307d10549cbf0d677fa2c513ec0d9a08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-99-2003",
+   "path": "ordin/economie/2003/99",
+   "short": "Ordin economie nr. 99/2003",
+   "title": "Ordinul nr. 99/2003 pentru aprobarea Prescripției tehnice PT R 9-2003, ediția 1, \"Cerințe tehnice privind utilizarea instalațiilor de transport pe cablu pentru persoane - telescaune\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42502",
+   "versions": [
+    {
+     "from": "2003-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42502",
+     "sha256": "28406ac885cb68876e484187ea484fab10058e07ab8f62abaa176d3dff8f7d56"
     }
    ]
   },
@@ -5898,6 +7488,321 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1022-2003",
+   "path": "ordin/transporturi/2003/1022",
+   "short": "Ordin transporturi nr. 1022/2003",
+   "title": "Ordinul nr. 1.022/2003 pentru aprobarea Reglementării aeronautice civile române privind amenajarea și utilizarea terenurilor temporare de aeronautică civilă - RACR-AD-AUTT, ediția 1/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49131",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49131",
+     "sha256": "653d6306f25a60881caa6d8ff1f12decea8c7395a8649e31d2c9e1fea4f4eb72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1024-2003",
+   "path": "ordin/transporturi/2003/1024",
+   "short": "Ordin transporturi nr. 1024/2003",
+   "title": "Ordinul nr. 1.024/2003 pentru aprobarea Reglementării aeronautice civile române RACR-APAN ULM/Atestarea personalului aeronautic navigant - piloți de aeronave ultraușoare motorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45592",
+   "versions": [
+    {
+     "from": "2003-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45592",
+     "sha256": "6b80d590409a3de0d2062036f7a98640470e9dd35765735d83ad423164de5d19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1027-2003",
+   "path": "ordin/transporturi/2003/1027",
+   "short": "Ordin transporturi nr. 1027/2003",
+   "title": "Ordinul nr. 1.027/2003 pentru aprobarea Listei cuprinzând standardele române prin care se adoptă standarde europene armonizate, ale căror prevederi se referă la ambarcațiunile de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48997",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48997",
+     "sha256": "23bfbd77e0575f987947e89c6646455bcf7e463455ec0b1250a88c70660f9ffe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1038-2003",
+   "path": "ordin/transporturi/2003/1038",
+   "short": "Ordin transporturi nr. 1038/2003",
+   "title": "Ordinul nr. 1.038/2003 pentru aprobarea Reglementării aeronautice civile române RACR-LPAN2/Licențierea personalului aeronautic navigant (piloți planoare/piloți baloane libere), ediția 2/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45593",
+   "versions": [
+    {
+     "from": "2003-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45593",
+     "sha256": "2f56e8ac2955660a4e1572ee05aa1b7594ca7b8d79f65826723d417f71f4a74c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1041-2003",
+   "path": "ordin/transporturi/2003/1041",
+   "short": "Ordin transporturi nr. 1041/2003",
+   "title": "Ordinul nr. 1.041/2003 pentru aprobarea Normelor tehnice privind siguranța navelor maritime de pasageri care nu efectuează voiaje internaționale, cod MTCT.ANR-NPAS-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45838",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45838",
+     "sha256": "363c4da390412594125b0bd33443d865ecc833a4066c43212f37b12d694338e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1044-2003",
+   "path": "ordin/transporturi/2003/1044",
+   "short": "Ordin transporturi nr. 1044/2003",
+   "title": "Ordinul nr. 1.044/2003 privind aprobarea Regulamentului pentru desemnarea, pregătirea profesională și examinarea consilierilor de siguranță pentru transportul rutier, feroviar sau pe căile navigabile interioare al mărfurilor periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49143",
+   "versions": [
+    {
+     "from": "2004-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49143",
+     "sha256": "7abea7230b2d6645c966eaac2997079c1fa56287367d38d12ca6d5d98298c076"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1061-2003",
+   "path": "ordin/transporturi/2003/1061",
+   "short": "Ordin transporturi nr. 1061/2003",
+   "title": "Ordinul nr. 1.061/2003 pentru aprobarea Normelor metodologice privind activitatea de control al respectării perioadelor de conducere și a perioadelor de odihnă ale conducătorilor auto care efectuează transporturi rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49267",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49267",
+     "sha256": "b4c1d8ec4d175ed470e6250c4f70b2c82879e8413c4580e9473072045b25c1ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1064-2003",
+   "path": "ordin/transporturi/2003/1064",
+   "short": "Ordin transporturi nr. 1064/2003",
+   "title": "Ordinul nr. 1.064/2003 pentru aprobarea componenței Comitetului consultativ și a regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49094",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49094",
+     "sha256": "0f375c0d006b2d99719d32903191982ba736daeae0f446d20cdebd42e29c752c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1065-2003",
+   "path": "ordin/transporturi/2003/1065",
+   "short": "Ordin transporturi nr. 1065/2003",
+   "title": "Ordinul nr. 1.065/2003 pentru aprobarea Normelor metodologice privind atestarea profesională a lectorilor necesari procesului de pregătire și perfecționare profesională a personalului de specialitate din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49097",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49097",
+     "sha256": "3a8bb6d098114857ce48484748c1ffc682ecf6df729c082cd2049099394a7c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1145-2003",
+   "path": "ordin/transporturi/2003/1145",
+   "short": "Ordin transporturi nr. 1145/2003",
+   "title": "Ordinul nr. 1.145/2003 privind instituirea procedurii de administrare specială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45646",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45646",
+     "sha256": "d93473757367371f30f2f43d8dc01d9c3c0a1243411d2660ce352b47046711fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1170-2003",
+   "path": "ordin/transporturi/2003/1170",
+   "short": "Ordin transporturi nr. 1170/2003",
+   "title": "Ordinul nr. 1.170/2003 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere - Metodologia de licențiere a transporturilor rutiere publice de persoane sau bunuri în regim de taxi, a transporturilor rutiere publice de persoane în regim de închiriere, condițiile privind agrearea și inspecția tehnica periodică a autovehiculelor care efectuează transport în regim de taxi, precum și metodologia de eliberare a certificatului de atestare a pregătirii profesionale a taximetriștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45596",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45596",
+     "sha256": "a9cdfefacfe7d88fe431576b642b9572d29dfd94d8024ee5deab261ef9c79bc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-118-2003",
+   "path": "ordin/transporturi/2003/118",
+   "short": "Ordin transporturi nr. 118/2003",
+   "title": "Ordinul nr. 118/2003 pentru aprobarea Reglementării aeronautice civile române privind condițiile de avizare a documentațiilor tehnice pentru obiectivele aflate în zone cu servituți aeronautice civile - RACR - CADT, ediția 02/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46139",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46139",
+     "sha256": "5904a1323f1f8e8e4cf4553c2dfb3c2a2d248da3646497c8aedadedd219ea10e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-119-2003",
+   "path": "ordin/transporturi/2003/119",
+   "short": "Ordin transporturi nr. 119/2003",
+   "title": "Ordinul nr. 119/2003 pentru aprobarea Reglementării aeronautice civile române privind stabilirea servituților aeronautice civile și a zonelor cu servituți aeronautice civile RACR-SACZ, ediția 02/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45869",
+   "versions": [
+    {
+     "from": "2003-08-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45869",
+     "sha256": "896ec19b6c94fe9bb67e6e43df949ee0cfbb6b85e2832a04543d4653cee6a073"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1212-2003",
+   "path": "ordin/transporturi/2003/1212",
+   "short": "Ordin transporturi nr. 1212/2003",
+   "title": "Ordinul nr. 1.212/2003 pentru aprobarea Reglementării aeronautice civile române RACR-21 - Reguli de certificare a produselor aeronautice civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45457",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45457",
+     "sha256": "54f236c149cd32e63064321764a93b95f5fe67bb9cafd1e1af5b6f2409f372d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-137-2003",
+   "path": "ordin/transporturi/2003/137",
+   "short": "Ordin transporturi nr. 137/2003",
+   "title": "Ordinul nr. 137/2003 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45934",
+   "versions": [
+    {
+     "from": "2003-08-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45934",
+     "sha256": "c83ff322038dd4a1a4e084df3907e0e4f3b512fd88f30f07509c389390873eec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-156-2003",
+   "path": "ordin/transporturi/2003/156",
+   "short": "Ordin transporturi nr. 156/2003",
+   "title": "Ordinul nr. 156/2003 pentru instituirea unor măsuri speciale privind navigația pe sectorul românesc al Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45940",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45940",
+     "sha256": "1df13641e8c50083e9c4d0ea0a3b0a79520d952abc3dc620dd3b1a5d885eb48a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-193-2003",
+   "path": "ordin/transporturi/2003/193",
+   "short": "Ordin transporturi nr. 193/2003",
+   "title": "Ordinul nr. 193/2003 pentru aprobarea Reglementărilor aeronautice civile române referitoare la protecția mediului/RACR-PM, ediția 2/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46264",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46264",
+     "sha256": "3c560a8d8e44c99d19af63ce571628aa3b97349703470a6615cb601270bd7a5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-288-2003",
+   "path": "ordin/transporturi/2003/288",
+   "short": "Ordin transporturi nr. 288/2003",
+   "title": "Ordinul nr. 288/2003 pentru aprobarea Reglementărilor privind omologarea de tip a limitatoarelor de viteza, precum și condițiile de montare, reparare și verificare a aparatelor de control în transporturile rutiere (tahografelor) și a limitatoarelor de viteza - RNTR 8",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47000",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47000",
+     "sha256": "c26a473d0d4006a2943e18ea330e905bad41d57f86816d1125d2e180d96bf4d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-292-2003",
+   "path": "ordin/transporturi/2003/292",
+   "short": "Ordin transporturi nr. 292/2003",
+   "title": "Ordinul nr. 292/2003 pentru aprobarea Normelor metodologice privind desfășurarea activității de agrement nautic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46340",
+   "versions": [
+    {
+     "from": "2003-09-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46340",
+     "sha256": "7dcf573eb23b70b36194c29ddf6faa180c24c86bab6fa05ef0512a50111ad992"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-343-2003",
+   "path": "ordin/transporturi/2003/343",
+   "short": "Ordin transporturi nr. 343/2003",
+   "title": "Ordinul nr. 343/2003 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatului de siguranță, în vederea efectuării serviciilor de transport feroviar public și/sau în interes propriu pe căile ferate din România, precum și pentru acordarea autorizației și certificatului de operare pentru manevra agenților economici care efectuează numai operațiuni de manevra feroviara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46588",
+   "versions": [
+    {
+     "from": "2003-10-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46588",
+     "sha256": "05eae2fb96fda0cf967e5a1973acb8740b9339c91aa005d5185b5c1bdf2241e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-36-2003",
+   "path": "ordin/transporturi/2003/36",
+   "short": "Ordin transporturi nr. 36/2003",
+   "title": "Ordinul nr. 36/2003 pentru aprobarea Reglementărilor privind omologarea vehiculelor rutiere, a echipamentelor și a componentelor pentru vehicule rutiere, eliberarea cărții de identitate a vehiculelor rutiere, certificarea autenticității și identificarea vehiculelor rutiere - RNTR 7",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45552",
+   "versions": [
+    {
+     "from": "2003-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45552",
+     "sha256": "3d3aed1122fe44874389612a273fb3799741e4de9bb7dff9843529a3ec8a31df"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-365-2003",
    "path": "ordin/transporturi/2003/365",
    "short": "Ordin transporturi nr. 365/2003",
@@ -5924,6 +7829,96 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46054",
      "sha256": "8f5752c753e7d03d904f97dcd777836cdf7982f93719ac3bce45df317e0d3bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-45-2003",
+   "path": "ordin/transporturi/2003/45",
+   "short": "Ordin transporturi nr. 45/2003",
+   "title": "Ordinul nr. 45/2003 pentru aprobarea Regulamentului privind portul uniformei de serviciu cu însemnele specifice, forma și modul de acordare a acesteia, pentru personalul Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45613",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45613",
+     "sha256": "d00885eecbde528364c0e237360cda6778bc9515e7d6cacbb4b0f51656a433d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-525-2003",
+   "path": "ordin/transporturi/2003/525",
+   "short": "Ordin transporturi nr. 525/2003",
+   "title": "Ordinul nr. 525/2003 privind exercitarea controlului respectării reglementărilor și sancționării contravențiilor referitoare la comercializarea sau utilizarea vehiculelor rutiere, a echipamentelor, pieselor de schimb și materialelor destinate acestora, la funcționarea unităților de reparații și reconstrucție a vehiculelor, a stațiilor de inspecție tehnică, precum și la metodologia de efectuare a inspecției tehnice periodice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47122",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47122",
+     "sha256": "ca179c292939545990637a1abc62795942875fc8d834b9f7939d803ea1745ac2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-693-2003",
+   "path": "ordin/transporturi/2003/693",
+   "short": "Ordin transporturi nr. 693/2003",
+   "title": "Ordinul nr. 693/2003 pentru aprobarea reclasificării spațiului aerian național peste nivelul de zbor 195",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49988",
+   "versions": [
+    {
+     "from": "2004-02-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49988",
+     "sha256": "d4b730ac7ceef98fa31ffa261c18be7538c9cb79980f1636675676bf8698bda7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-808-2003",
+   "path": "ordin/transporturi/2003/808",
+   "short": "Ordin transporturi nr. 808/2003",
+   "title": "Ordinul nr. 808/2003 privind procedura de acordare a avizelor necesare pentru înființarea și funcționarea asociațiilor/fundațiilor/federațiilor și filialelor acestora și de aprobare a Criteriilor specifice de acordare a statutului de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48080",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48080",
+     "sha256": "8d87fd6452ccdfd49cbf1ae6c076b37c4f2192ea15962970ed7307be73485e71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-920-2003",
+   "path": "ordin/transporturi/2003/920",
+   "short": "Ordin transporturi nr. 920/2003",
+   "title": "Ordinul nr. 920/2003 pentru aprobarea Regulamentului de navigație pe lacul Snagov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48403",
+   "versions": [
+    {
+     "from": "2004-01-11",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48403",
+     "sha256": "cf29c6c14d47a5ae83e969d3039ab6fe4100ae6dfb9c124f70c30c6f86201e0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-972-2003",
+   "path": "ordin/transporturi/2003/972",
+   "short": "Ordin transporturi nr. 972/2003",
+   "title": "Ordinul nr. 972/2003 pentru aprobarea normelor metodologice privind acordarea facilităților de transport pe calea ferată și cu metroul pentru elevii și studenții din învățământul universitar de stat și particular acreditat, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48477",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48477",
+     "sha256": "baabbcddc2a6007d420d92bf6884754b18e4b7764c3ab46bf6f1d86cfca624d7"
     }
    ]
   }

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-180-2011",
+   "path": "ordin/agricultura/2011/180",
+   "short": "Ordin agricultura nr. 180/2011",
+   "title": "Ordinul nr. 180/2011 pentru stabilirea criteriilor sectoriale și pragurilor critice aferente sectorului ICN - infrastructură critică națională - \"Alimentație\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131837",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131837",
+     "sha256": "1f9ecc05f1f2c23f46be3176ca8340774cd97e958ddc42303fda90afc38e6936"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-33-2011",
    "path": "ordin/agricultura/2011/33",
    "short": "Ordin agricultura nr. 33/2011",
@@ -2898,6 +2913,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2613-2011",
+   "path": "ordin/cultura/2011/2613",
+   "short": "Ordin cultura nr. 2613/2011",
+   "title": "Ordinul nr. 2.613/2011 privind aprobarea Procedurii de emitere a certificatului de descărcare de sarcină arheologică în cazul proiectelor de infrastructură de transport de interes național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134977",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134977",
+     "sha256": "bbec10d8536dd0aa88c23ecc6ad10603c7c035ca391a98f536c15bfbd58c5b7b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1005-2011",
    "path": "ordin/dezvoltare/2011/1005",
    "short": "Ordin dezvoltare nr. 1005/2011",
@@ -3303,6 +3333,81 @@
    ]
   },
   {
+   "slug": "ordin-economie-1000-2011",
+   "path": "ordin/economie/2011/1000",
+   "short": "Ordin economie nr. 1000/2011",
+   "title": "Ordinul nr. 1.000/2011 privind aprobarea lansării Cererii de propuneri de proiecte de investiții în extinderea și modernizarea rețelelor de transport al energiei electrice și gazelor naturale, propuse pentru acordarea asistenței financiare nerambursabile prin Programul operațional sectorial \"Creșterea competitivității economice\" (POS CCE), axa prioritară 4, domeniul major de intervenție 1, operațiunea 4.1.b) \"Sprijinirea investițiilor în extinderea și modernizarea rețelelor de transport al energiei electrice, gazelor naturale și petrolului, precum și ale rețelelor de distribuție a energiei electrice și gazelor naturale, în scopul reducerii pierderilor în rețea și realizării în condiții de siguranță și continuitate a serviciilor de transport și distribuție\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128909",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128909",
+     "sha256": "d5221365c952401714fe7d642336c95078317ddef24bf12a0f1e11c9b4f9edbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-101-2011",
+   "path": "ordin/economie/2011/101",
+   "short": "Ordin economie nr. 101/2011",
+   "title": "Ordinul nr. 101/2011 pentru abrogarea Ordinului ministrului economiei nr. 1.767/2009 privind aprobarea Regulamentului pentru autorizarea auditorilor energetici și a Regulamentului pentru atestarea managerilor energetici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125594",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125594",
+     "sha256": "7a7057cca9c1c42489597a5df85e8e7349b3d6d4e775a1b1e5860d0da4278d1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1169-2011",
+   "path": "ordin/economie/2011/1169",
+   "short": "Ordin economie nr. 1169/2011",
+   "title": "Ordinul nr. 1.169/2011 privind aprobarea Tarifelor pentru activitățile de autorizare, avizare, verificare tehnică și alte activități la instalații sub presiune, instalații de ridicat, instalații/echipamente pentru parcurile de distracții și aparate consumatoare de combustibil, efectuate de Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat, indicativ CR 1-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129583",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129583",
+     "sha256": "2972ecc7816fc304cb06a1d466410d83023c199591bd363e1017b1a2eedcc075"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1177-2011",
+   "path": "ordin/economie/2011/1177",
+   "short": "Ordin economie nr. 1177/2011",
+   "title": "Ordinul nr. 1.177/2011 pentru stabilirea criteriilor sectoriale și pragurilor critice aferente sectorului ICN - infrastructură critică națională - \"Industria chimică și nucleară\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130824",
+   "versions": [
+    {
+     "from": "2011-08-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130824",
+     "sha256": "84e0a0a0e0320a9182198a5baa70ff4dc862ff5b08e63533321a1d697b6a4d44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1178-2011",
+   "path": "ordin/economie/2011/1178",
+   "short": "Ordin economie nr. 1178/2011",
+   "title": "Ordinul nr. 1.178/2011 pentru stabilirea criteriilor sectoriale și a pragurilor critice aferente sectorului ICN/E - infrastructură critică națională/europeană - \"Energetic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129505",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129505",
+     "sha256": "fc53bdb0e7e680188f64378b1ece43b3373045485ed9f7507df91d5845a6ce82"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1284-2011",
    "path": "ordin/economie/2011/1284",
    "short": "Ordin economie nr. 1284/2011",
@@ -3314,6 +3419,81 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129564",
      "sha256": "0abe1366f2efbaa434e2599e9a8800a4e92649dfd42a942e6fa1eb714f33eb76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1294-2011",
+   "path": "ordin/economie/2011/1294",
+   "short": "Ordin economie nr. 1294/2011",
+   "title": "Ordinul nr. 1.294/2011 pentru abrogarea Ordinului ministrului industriei și resurselor nr. 92/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-71/349\" - Calibrarea rezervoarelor navelor fluviale și de coastă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129687",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129687",
+     "sha256": "a57180a2c08991304467d2d41f95cd4e6af22dae34f96b31ac4e87aaeaf4cb0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-156-2011",
+   "path": "ordin/economie/2011/156",
+   "short": "Ordin economie nr. 156/2011",
+   "title": "Ordinul nr. 156/2011 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în extinderea și modernizarea rețelelor de transport al energiei electrice și gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126306",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126306",
+     "sha256": "ea78a4df60e5c0796385ea7ceac00c5280112f1cb706d5a951b127671d7a75bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-173-2011",
+   "path": "ordin/economie/2011/173",
+   "short": "Ordin economie nr. 173/2011",
+   "title": "Ordinul nr. 173/2011 pentru completarea Regulamentului privind organizarea și desfășurarea concursurilor sau examenelor pentru ocuparea posturilor vacante ori temporar vacante corespunzătoare funcțiilor contractuale din aparatul propriu al Ministerului Economiei, Comerțului și Mediului de Afaceri, precum și din cadrul unităților care funcționează în subordinea acestuia, aprobat prin Ordinul ministrului economiei, comerțului și mediului de afaceri nr. 2.128/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126012",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126012",
+     "sha256": "6702f01b09c1ca0db1c4d28c72843640e3fff656f637c6f5c47767cd95611936"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-186-2011",
+   "path": "ordin/economie/2011/186",
+   "short": "Ordin economie nr. 186/2011",
+   "title": "Ordinul nr. 186/2011 pentru aprobarea Procedurii privind desemnarea organismelor de evaluare a conformității ce se notifică și notificarea la Comisia Europeană și celelalte state membre ale Uniunii Europene a organismelor desemnate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126272",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126272",
+     "sha256": "2615c91a5fc875f38a785d3f0d10b62ca05874a110f6f20be07f4713120c63cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2186-2011",
+   "path": "ordin/economie/2011/2186",
+   "short": "Ordin economie nr. 2186/2011",
+   "title": "Ordinul nr. 2.186/2011 pentru modificarea Listei cuprinzând standardele române care adoptă standardele europene armonizate, ale căror prevederi se referă la echipamente sub presiune, aprobată prin Ordinul ministrului de stat, ministrul economiei și comerțului, nr. 440/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130642",
+   "versions": [
+    {
+     "from": "2011-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130642",
+     "sha256": "b4b1f7a4488f4f45f6f712ee2c7db62b1b5f86efd95a7513ade61f8dbc1b81ff"
     }
    ]
   },
@@ -3333,6 +3513,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-247-2011",
+   "path": "ordin/economie/2011/247",
+   "short": "Ordin economie nr. 247/2011",
+   "title": "Ordinul nr. 247/2011 privind aprobarea Criteriilor de evaluare a performanțelor profesionale individuale pentru personalul contractual din cadrul aparatului propriu al Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126261",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126261",
+     "sha256": "f88775733b83233a6e70ae823bc1e0eeffe8da487ab5b662bd85fb74bedb5426"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2875-2011",
    "path": "ordin/economie/2011/2875",
    "short": "Ordin economie nr. 2875/2011",
@@ -3348,6 +3543,66 @@
    ]
   },
   {
+   "slug": "ordin-economie-2965-2011",
+   "path": "ordin/economie/2011/2965",
+   "short": "Ordin economie nr. 2965/2011",
+   "title": "Ordinul nr. 2.965/2011 pentru modificarea Listei cuprinzând standardele române care adoptă standardele europene armonizate, ale căror prevederi se referă la echipamente sub presiune, aprobată prin Ordinul ministrului de stat, ministrul economiei și comerțului, nr. 440/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133214",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133214",
+     "sha256": "2d52d3fc7b34d8d86492d472c73ff99b49b85e5a27d9596e087c11217e8cd524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3188-2011",
+   "path": "ordin/economie/2011/3188",
+   "short": "Ordin economie nr. 3188/2011",
+   "title": "Ordinul nr. 3.188/2011 privind aprobarea Schemei de ajutor de minimis pentru sprijinirea și implementarea operațiunii \"Dezvoltarea structurilor de sprijin al afacerilor de interes național și internațional - Poli de competitivitate\" din cadrul domeniului major de intervenție 1.3 \"Dezvoltarea durabilă a antreprenoriatului\" al Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134724",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134724",
+     "sha256": "681a1574f4f1da4f1ebb13889691fa0b55b5b0fa3dd2e0dd732ab9b0d55c39a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-506-2011",
+   "path": "ordin/economie/2011/506",
+   "short": "Ordin economie nr. 506/2011",
+   "title": "Ordinul nr. 506/2011 pentru modificarea anexei la Ordinul ministrului industriei și resurselor nr. 184/2003 privind aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127602",
+   "versions": [
+    {
+     "from": "2011-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127602",
+     "sha256": "fd2f765d4328098e9f0e67fbf42cd30d901c624e56de62eb3fe787ba337df3a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-507-2011",
+   "path": "ordin/economie/2011/507",
+   "short": "Ordin economie nr. 507/2011",
+   "title": "Ordinul nr. 507/2011 privind modificarea anexei la Ordinul ministrului economiei și comerțului nr. 47/2006 pentru aprobarea Listei standardelor române care adoptă standardele europene armonizate referitoare la aparate consumatoare de combustibili gazoși (actualizată)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127617",
+   "versions": [
+    {
+     "from": "2011-04-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127617",
+     "sha256": "5a72ee07415bd02258fd4da9be5ff6fa7bc04e3b03f0b2d7ffb4ce2589095d1d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-625-2011",
    "path": "ordin/economie/2011/625",
    "short": "Ordin economie nr. 625/2011",
@@ -3359,6 +3614,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128669",
      "sha256": "89e0e871175fffb2989c982330b660a4adec0742f68dc4906fc521e0bb21d73c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-675-2011",
+   "path": "ordin/economie/2011/675",
+   "short": "Ordin economie nr. 675/2011",
+   "title": "Ordinul nr. 675/2011 privind aprobarea lansării Cererii de propuneri de proiecte pentru investiții în cadrul operațiunii 4.1.a) \"Sprijinirea investițiilor în instalații și echipamente pentru întreprinderi din industrie, care să conducă la economii de energie, în scopul îmbunătățirii eficienței energetice\" din axa prioritară 4 \"Creșterea eficienței energetice și a securității furnizării în contextul combaterii schimbărilor climatice\" a Programului operațional sectorial \"Creșterea competitivității economice\" (POS CCE)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128031",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128031",
+     "sha256": "37670a5529337404e26154e5b06360b61dc754d0a55b9f1821a08f2d48344022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-730-2011",
+   "path": "ordin/economie/2011/730",
+   "short": "Ordin economie nr. 730/2011",
+   "title": "Ordinul nr. 730/2011 privind aprobarea Listei cuprinzând standardele române din domeniul securității utilizatorilor de jucării, care adoptă standardele europene armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127978",
+   "versions": [
+    {
+     "from": "2011-04-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127978",
+     "sha256": "b7219138562a036b9505b7c07485f5ff89159fa457d7d98f33b59d3b1760fbd1"
     }
    ]
   },
@@ -6153,6 +6438,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2743-2011",
+   "path": "ordin/mediu/2011/2743",
+   "short": "Ordin mediu nr. 2743/2011",
+   "title": "Ordinul nr. 2.743/2011 privind aprobarea Procedurii și criteriilor de evaluare și autorizare a organizațiilor colective și de evaluare și aprobare a planului de operare pentru producătorii care își îndeplinesc în mod individual obligațiile privind gestionarea deșeurilor de baterii și acumulatori, precum și componența și atribuțiile comisiei de evaluare și autorizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134467",
+   "versions": [
+    {
+     "from": "2012-01-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134467",
+     "sha256": "c492dc67bce8dec013b587e104659abe049c6cfc330d2142ee4fcd34c247123b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1062-2011",
    "path": "ordin/munca/2011/1062",
    "short": "Ordin munca nr. 1062/2011",
@@ -8688,6 +8988,306 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1003-2011",
+   "path": "ordin/transporturi/2011/1003",
+   "short": "Ordin transporturi nr. 1003/2011",
+   "title": "Ordinul nr. 1.003/2011 privind mandatarea Societății Comerciale de Transport cu Metroul București \"Metrorex\" - S.A. de a modifica prețurile unitare ale Contractului de mentenanță de material rulant și feroviar pentru circulația în tunel nr. 91/2003 și de a semna un act adițional în acest sens",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133920",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133920",
+     "sha256": "00d056fb1117fe74b90ae571ede7b718c08c5744189412c68cbda234e674bfc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-103-2011",
+   "path": "ordin/transporturi/2011/103",
+   "short": "Ordin transporturi nr. 103/2011",
+   "title": "Ordinul nr. 103/2011 privind aprobarea certificării ca aeroport internațional a Aeroportului \"George Enescu\" Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126255",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126255",
+     "sha256": "aff7949ccdebc15411fb102acd19b1ef1a8cb6f21c711dae76a4ddf792dd9442"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1034-2011",
+   "path": "ordin/transporturi/2011/1034",
+   "short": "Ordin transporturi nr. 1034/2011",
+   "title": "Ordinul nr. 1.034/2011 pentru aprobarea condițiilor contractuale speciale privind contractele pentru echipamente și construcții, inclusiv proiectare, și cele privind contractele pentru construcții clădiri și lucrări inginerești proiectate de către beneficiar ale Federației Internaționale a Inginerilor Consultanți în Domeniul Construcțiilor (FIDIC) pentru obiective de investiții din domeniul infrastructurii de transport feroviar, finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134575",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134575",
+     "sha256": "8fe9fa6e9fe240aa24f81d86e6de237f185811e17f0b04bb057f7a2d9f9dd1d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-104-2011",
+   "path": "ordin/transporturi/2011/104",
+   "short": "Ordin transporturi nr. 104/2011",
+   "title": "Ordinul nr. 104/2011 privind aprobarea certificării ca aeroport deschis traficului internațional a Aeroportului Internațional Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126283",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126283",
+     "sha256": "6774e09f17aa405afb3563d0c1f12b9aa7acc4b19b18e89b9f8927e4fea9ae9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-13-2011",
+   "path": "ordin/transporturi/2011/13",
+   "short": "Ordin transporturi nr. 13/2011",
+   "title": "Ordinul nr. 13/2011 privind aprobarea certificării ca aeroport deschis traficului internațional a Aeroportului Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125323",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125323",
+     "sha256": "790d3ba2637406d9826123fdb59c03c8bb30a952ee6c31ae0aeb6786e619b9d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-14-2011",
+   "path": "ordin/transporturi/2011/14",
+   "short": "Ordin transporturi nr. 14/2011",
+   "title": "Ordinul nr. 14/2011 privind aprobarea certificării ca aeroport deschis traficului internațional a Aeroportului Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125324",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125324",
+     "sha256": "850bc5ba15cdf53cda7d4ff1e3c79ffd83849228956fd792c2b65e1c4a32bec6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-141-2011",
+   "path": "ordin/transporturi/2011/141",
+   "short": "Ordin transporturi nr. 141/2011",
+   "title": "Ordinul nr. 141/2011 pentru aprobarea Evaluărilor de securitate a facilităților portuare și a facilităților aparținând Companiei Naționale \"Administrația Canalelor Navigabile\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126708",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126708",
+     "sha256": "78165b4e6434b0c2d0974306c2f6d598c454b35c49604abd4530f0dda59c77b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-146-2011",
+   "path": "ordin/transporturi/2011/146",
+   "short": "Ordin transporturi nr. 146/2011",
+   "title": "Ordinul nr. 146/2011 privind aprobarea condițiilor contractuale speciale ale contractelor pentru echipamente și construcții, inclusiv proiectare, și ale contractelor pentru construcții clădiri și lucrări inginerești proiectate de către beneficiar ale Federației Internaționale a Inginerilor Consultanți în Domeniul Construcțiilor (FIDIC), pentru obiective de investiții din domeniul infrastructurii rutiere de transport de interes național, finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126898",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126898",
+     "sha256": "6f86ab19fc2cf4ca68a03cd37dc62c49c0cf00dd1c68f9548755048613a0ed4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-161-2011",
+   "path": "ordin/transporturi/2011/161",
+   "short": "Ordin transporturi nr. 161/2011",
+   "title": "Ordinul nr. 161/2011 privind aprobarea certificării ca aeroport deschis traficului internațional a Aeroportului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126905",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126905",
+     "sha256": "7e3502eb637c7f5e9181b2802fe3da109ce35c347affb166f7b55f58b727ba97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-162-2011",
+   "path": "ordin/transporturi/2011/162",
+   "short": "Ordin transporturi nr. 162/2011",
+   "title": "Ordinul nr. 162/2011 privind aprobarea certificării ca aeroport deschis traficului internațional a Aeroportului Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126906",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126906",
+     "sha256": "9106d55d85ac73d3fd9ee6ee1be987b53512081d4cde2789a3ce845dcce18192"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-169-2011",
+   "path": "ordin/transporturi/2011/169",
+   "short": "Ordin transporturi nr. 169/2011",
+   "title": "Ordinul nr. 169/2011 pentru aprobarea Planului național de acțiune privind reducerea emisiilor de gaze cu efect de seră în domeniul aviației civile pentru perioada 2011-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130481",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130481",
+     "sha256": "e320877d24e7b88fa726393084f70f456f837ad8844bb80f2c906056b64622e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-252-2011",
+   "path": "ordin/transporturi/2011/252",
+   "short": "Ordin transporturi nr. 252/2011",
+   "title": "Ordinul nr. 252/2011 pentru aprobarea Metodologiei de eliberare a carnetelor de lucru în port și de înregistrare a muncitorilor portuari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127712",
+   "versions": [
+    {
+     "from": "2011-06-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127712",
+     "sha256": "3940a40dd14984a9f5d70e5a65653f21d7a463c00017c145cc2866c04e36dcb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-26-2011",
+   "path": "ordin/transporturi/2011/26",
+   "short": "Ordin transporturi nr. 26/2011",
+   "title": "Ordinul nr. 26/2011 privind aprobarea certificării ca aeroport deschis traficului aerian internațional a Aeroportului Ștefan cel Mare - Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125587",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125587",
+     "sha256": "e9834bef514d90897bf95fbe391ce91cd1f23ea4a41c62c52ba16bf59dec7247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-315-2011",
+   "path": "ordin/transporturi/2011/315",
+   "short": "Ordin transporturi nr. 315/2011",
+   "title": "Ordinul nr. 315/2011 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129337",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129337",
+     "sha256": "6be84a517a76b62f4b5a8de54f9e674f61f269286781b9f16b45593045bd4707"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-316-2011",
+   "path": "ordin/transporturi/2011/316",
+   "short": "Ordin transporturi nr. 316/2011",
+   "title": "Ordinul nr. 316/2011 privind aprobarea certificării ca aeroport internațional a Aeroportului Mihail Kogălniceanu - Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128389",
+   "versions": [
+    {
+     "from": "2011-05-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128389",
+     "sha256": "0a6271fa87da50df7046010d8e4f66dd74ed4a92df960a610f717d8323d3a35d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-422-2011",
+   "path": "ordin/transporturi/2011/422",
+   "short": "Ordin transporturi nr. 422/2011",
+   "title": "Ordinul nr. 422/2011 privind normele tehnice de siguranță pentru navele maritime de pasageri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130090",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130090",
+     "sha256": "1134ee77a6611587fc575cba797bbccb0d365d8711f3ebf6f2ebee346548bd8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-443-2011",
+   "path": "ordin/transporturi/2011/443",
+   "short": "Ordin transporturi nr. 443/2011",
+   "title": "Ordinul nr. 443/2011 pentru aprobarea Normelor privind autorizarea pentru punere în funcțiune a liniilor ferate industriale nou-construite sau modernizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129669",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129669",
+     "sha256": "5f5ea1609796c756547516c98661948e927a33e49d1e0d8c4e76b472282c1363"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-457-2011",
+   "path": "ordin/transporturi/2011/457",
+   "short": "Ordin transporturi nr. 457/2011",
+   "title": "Ordinul nr. 457/2011 pentru aprobarea Strategiei de transport intermodal în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130117",
+   "versions": [
+    {
+     "from": "2011-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130117",
+     "sha256": "9c8bc3a8096b14303d4fa3c1bb68dfde883f1fb85669045e57bdcbc04cf00e33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-480-2011",
+   "path": "ordin/transporturi/2011/480",
+   "short": "Ordin transporturi nr. 480/2011",
+   "title": "Ordinul nr. 480/2011 pentru aprobarea programelor-cadru de formare, instruire și perfecționare profesională a auditorilor de siguranță rutieră, a tarifelor pentru efectuarea evaluării de impact, a auditului de siguranță rutieră și a inspecției de siguranță, a onorariilor cuvenite auditorilor de siguranță rutieră, precum și a contractelor-cadru care se încheie de către Autoritatea Rutieră Română - A.R.R. cu investitorii, cu administratorii și cu auditorii de siguranță rutieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130190",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130190",
+     "sha256": "6408ffbf86ec8ca4438bd7c09e106dcb395723a0126a13db1dc95830b8f2cf57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-507-2011",
+   "path": "ordin/transporturi/2011/507",
+   "short": "Ordin transporturi nr. 507/2011",
+   "title": "Ordinul nr. 507/2011 pentru aprobarea scutirii de la plata unor tarife a unor categorii de aeronave civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130191",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130191",
+     "sha256": "37adf2924a6899c254977af6c8addc6bea3858b023204bd1507562be9695a995"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-557-2011",
    "path": "ordin/transporturi/2011/557",
    "short": "Ordin transporturi nr. 557/2011",
@@ -8699,6 +9299,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130553",
      "sha256": "8eb53bac032338526842f7115b6b1e01b8338048597a8981d5101c75816f36ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-566-2011",
+   "path": "ordin/transporturi/2011/566",
+   "short": "Ordin transporturi nr. 566/2011",
+   "title": "Ordinul nr. 566/2011 privind limitele regiunii de control terminal București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131127",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131127",
+     "sha256": "7e71b2d8aae3b12f9159931de83be9c4d359c347cec6a2bb3b4fa35fced79934"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-576-2011",
+   "path": "ordin/transporturi/2011/576",
+   "short": "Ordin transporturi nr. 576/2011",
+   "title": "Ordinul nr. 576/2011 pentru aprobarea tarifelor la călătoria cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130600",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130600",
+     "sha256": "810e314e729d896df22f70d581d74edea2ad7557c64e8bdffd98dc614e3adfae"
     }
    ]
   },
@@ -8718,6 +9348,186 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-604-2011",
+   "path": "ordin/transporturi/2011/604",
+   "short": "Ordin transporturi nr. 604/2011",
+   "title": "Ordinul nr. 604/2011 pentru aprobarea tarifelor de deservire generală din transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130756",
+   "versions": [
+    {
+     "from": "2011-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130756",
+     "sha256": "978727e3721a91f88ad25a6f4b6495d4d51c6b9e502621b930472d23144568af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-631-2011",
+   "path": "ordin/transporturi/2011/631",
+   "short": "Ordin transporturi nr. 631/2011",
+   "title": "Ordinul nr. 631/2011 pentru aprobarea Regulamentului privind criteriile și modul de evaluare a performanțelor profesionale individuale anuale ale personalului contractual și de organizare și desfășurare a examenului de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din aparatul propriu al Ministerului Transporturilor și Infrastructurii, precum și din cadrul instituțiilor publice care funcționează în subordinea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131390",
+   "versions": [
+    {
+     "from": "2011-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131390",
+     "sha256": "3505f7b3a3bf53252a8e527b131b9a12b88fedf366919834d259600faa413cdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-703-2011",
+   "path": "ordin/transporturi/2011/703",
+   "short": "Ordin transporturi nr. 703/2011",
+   "title": "Ordinul nr. 703/2011 pentru aprobarea Normei tehnice feroviare \"Vehicule de cale ferată. Conținutul documentației tehnice pentru proiectarea, construirea, exploatarea, modernizarea, repararea, mentenanța, conservarea și evidența vehiculelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132094",
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132094",
+     "sha256": "8ea45e58c803fa4bf47788594ec71886badb2a2b08cd0944a1b512701d15d38d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-744-2011",
+   "path": "ordin/transporturi/2011/744",
+   "short": "Ordin transporturi nr. 744/2011",
+   "title": "Ordinul nr. 744/2011 pentru stabilirea condițiilor care pot fi asociate tarifelor de aeroport și a criteriilor care pot fi aplicate la diferențierea tarifelor de aeroport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132003",
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132003",
+     "sha256": "5f29f92adebff075cf30ea2ce089554a8b7ed944add2d5ac74caf68adea515bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-75-2011",
+   "path": "ordin/transporturi/2011/75",
+   "short": "Ordin transporturi nr. 75/2011",
+   "title": "Ordinul nr. 75/2011 privind măsuri pentru aplicarea art. 20 din Regulamentul (UE) nr. 691/2010 al Comisiei din 29 iulie 2010 de stabilire a unui sistem de performanță pentru serviciile de navigație aeriană și pentru funcțiile de rețea și de modificare a Regulamentului (CE) nr. 2.096/2005 de stabilire a unor cerințe comune pentru furnizarea de servicii de navigație aeriană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126068",
+   "versions": [
+    {
+     "from": "2011-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126068",
+     "sha256": "b226ed9aad48d64a16e3d00f444429ba53be4f55d64939ae11e913c2c551f92a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-750-2011",
+   "path": "ordin/transporturi/2011/750",
+   "short": "Ordin transporturi nr. 750/2011",
+   "title": "Ordinul nr. 750/2011 pentru aprobarea Reglementării aeronautice civile române RACR-CNS \"Operarea sistemelor de comunicații, navigație, supraveghere\" - volumul II \"Proceduri de comunicații\", ediția 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132186",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132186",
+     "sha256": "9800f32f1e5d5e7904c398c491d160d72cc626f0c39646a1845768c88ed60769"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-769-2011",
+   "path": "ordin/transporturi/2011/769",
+   "short": "Ordin transporturi nr. 769/2011",
+   "title": "Ordinul nr. 769/2011 pentru aprobarea Normelor privind procedura de agreare de către Ministerul Transporturilor și Infrastructurii a unităților specializate medicale și/sau psihologice, în vederea examinării personalului din transporturi cu atribuții în siguranța circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132319",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132319",
+     "sha256": "6b6f5ea48897743ab9ff9fa958e50c250881cfe7fbca4908e74edee3a8fbd0d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-79-2011",
+   "path": "ordin/transporturi/2011/79",
+   "short": "Ordin transporturi nr. 79/2011",
+   "title": "Ordinul nr. 79/2011 privind instituirea unor măsuri suplimentare de siguranță feroviară aplicabile administratorului infrastructurii feroviare publice, gestionarilor de infrastructură feroviară neinteroperabilă, operatorilor de transport feroviar și operatorilor economici - furnizori feroviari - autorizați să efectueze lucrări de construire, modernizare, întreținere și reparare a infrastructurii feroviare, care dețin și utilizează drezine autopropulsate, utilaje de cale sau altele similare acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125781",
+   "versions": [
+    {
+     "from": "2011-02-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125781",
+     "sha256": "f833ab6da883aa0eac1fe6920e04dbd1e114ad1672f9288d6c00ad2b0282dfe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-808-2011",
+   "path": "ordin/transporturi/2011/808",
+   "short": "Ordin transporturi nr. 808/2011",
+   "title": "Ordinul nr. 808/2011 pentru aprobarea Procedurii privind acordarea, suspendarea sau revocarea licenței de operare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132408",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132408",
+     "sha256": "d45fdd75a749f33f974fbc03f766ae1f2f0d4640b27b8b9dc8aca0fc40b98de0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-846-2011",
+   "path": "ordin/transporturi/2011/846",
+   "short": "Ordin transporturi nr. 846/2011",
+   "title": "Ordinul nr. 846/2011 privind publicarea acceptării Standardului de calitate pentru acoperiri de protecție a tancurilor de marfă pentru transportul de hidrocarburi ale petrolierelor care transportă țiței, adoptat de Organizația Maritimă Internațională prin Rezoluția MSC. 288(87) a Comitetului Securității Maritime din 14 mai 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132990",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132990",
+     "sha256": "69ebada302d5893d4176742e21a1f9ef13a2a7f7ad00c2b5244a0aff76d7c8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-848-2011",
+   "path": "ordin/transporturi/2011/848",
+   "short": "Ordin transporturi nr. 848/2011",
+   "title": "Ordinul nr. 848/2011 privind publicarea acceptării Standardului de calitate pentru mijloace alternative de protecție contra coroziunii tancurilor de marfă pentru transportul de hidrocarburi ale petrolierelor care transportă țiței, adoptat de Organizația Maritimă Internațională prin Rezoluția MSC.289(87) a Comitetului Securității Maritime din 14 mai 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133055",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133055",
+     "sha256": "89b0ef7141ca5910097293966c507c7c7052188028013fdfb8f6856ec666ee62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-860-2011",
+   "path": "ordin/transporturi/2011/860",
+   "short": "Ordin transporturi nr. 860/2011",
+   "title": "Ordinul nr. 860/2011 pentru aprobarea siglei Centrului de Investigații și Analiză pentru Siguranța Aviației Civile și a modelelor legitimației și insignei de inspector al Centrului de Investigații și Analiză pentru Siguranța Aviației Civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133159",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133159",
+     "sha256": "c789d6f9072b2872f1c3b97dae8f339ffb0856255072cb57d2a4925f65eb7dae"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-880-2011",
    "path": "ordin/transporturi/2011/880",
    "short": "Ordin transporturi nr. 880/2011",
@@ -8729,6 +9539,81 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134835",
      "sha256": "c5d1ac921f79be7edf9253fbcd4d9f0e652e4e05682a4a869951b6f7cb2a91b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-944-2011",
+   "path": "ordin/transporturi/2011/944",
+   "short": "Ordin transporturi nr. 944/2011",
+   "title": "Ordinul nr. 944/2011 privind aprobarea tarifelor pentru deservire generală în transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133259",
+   "versions": [
+    {
+     "from": "2011-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133259",
+     "sha256": "091164d59307ca0dbd5c170e53087d93687aad30d340a5ab1f2f09535f7c7a09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-955-2011",
+   "path": "ordin/transporturi/2011/955",
+   "short": "Ordin transporturi nr. 955/2011",
+   "title": "Ordinul nr. 955/2011 pentru aprobarea modelului de certificat de auditor de securitate a aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133390",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133390",
+     "sha256": "20cb5abef30f45a0fa41f7e59761ca36e448a352484234c674fd79a8c636897d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-976-2011",
+   "path": "ordin/transporturi/2011/976",
+   "short": "Ordin transporturi nr. 976/2011",
+   "title": "Ordinul nr. 976/2011 pentru aprobarea Regulamentului privind modelul și însemnele uniformei inspectorilor, dotarea și inscripționarea autovehiculelor de control utilizate de către inspectorii din cadrul Inspectoratului de Stat pentru Controlul în Transportul Rutier, precum și a modelului legitimației nominale de control a inspectorilor din cadrul Inspectoratului de Stat pentru Controlul în Transportul Rutier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133394",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133394",
+     "sha256": "97ef995ce0110bad7b46436235a65e15358a10f366988201e4663bdb52270649"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-980-2011",
+   "path": "ordin/transporturi/2011/980",
+   "short": "Ordin transporturi nr. 980/2011",
+   "title": "Ordinul nr. 980/2011 pentru aprobarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133375",
+   "versions": [
+    {
+     "from": "2011-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133375",
+     "sha256": "996b631fdb070a011bb62dfe4d9f27c48b9dc1497681af104d1d72227768ad2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-982-2011",
+   "path": "ordin/transporturi/2011/982",
+   "short": "Ordin transporturi nr. 982/2011",
+   "title": "Ordinul nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133748",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133748",
+     "sha256": "245f5aacae4661d06adc9027c95b476da4f3bb315ee55c1403025bf8b569f613"
     }
    ]
   }

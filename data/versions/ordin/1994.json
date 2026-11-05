@@ -33,6 +33,96 @@
    ]
   },
   {
+   "slug": "ordin-economie-1532-1994",
+   "path": "ordin/economie/1994/1532",
+   "short": "Ordin economie nr. 1532/1994",
+   "title": "Ordinul nr. 1.532/1994 pentru aprobarea Instrucțiunilor metodologice privind întocmirea documentațiilor tehnico-economice justificative necesare emiterii acordului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5559",
+   "versions": [
+    {
+     "from": "1994-08-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5559",
+     "sha256": "9367787f2d86c3bae9fd70883d1c756fe08f4c234b2ce4afa1c81725fa7dc4a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1559-1994",
+   "path": "ordin/economie/1994/1559",
+   "short": "Ordin economie nr. 1559/1994",
+   "title": "Ordinul nr. 1.559/1994 privind aprobarea \"Prescripțiilor tehnice pentru proiectarea, execuția, verificarea, montarea și exploatarea dispozitivelor de siguranță cu membrană de rupere\", C22-94",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5560",
+   "versions": [
+    {
+     "from": "1995-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5560",
+     "sha256": "5bd15f082f908a8c0373a433a5f8b84be5df2bafd84a8580bd122ec89e612918"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-571-1994",
+   "path": "ordin/economie/1994/571",
+   "short": "Ordin economie nr. 571/1994",
+   "title": "Ordinul nr. 571/1994 privind prețurile de decontare, cu ridicata și cu amănuntul maxime valabile pentru 1.112,644 tone cartofi, ambalați în saci din iută de 25 kg, primiți ca ajutor din partea Guvernului italian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5146",
+   "versions": [
+    {
+     "from": "1994-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5146",
+     "sha256": "dedbcbffb6e0839f2f9eb6729b9ced904e907e29d5bbdf7dce1fa76f5b5e8819"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-572-1994",
+   "path": "ordin/economie/1994/572",
+   "short": "Ordin economie nr. 572/1994",
+   "title": "Ordinul nr. 572/1994 privind prețurile de decontare, cu ridicata și cu amănuntul maxime valabile pentru 225,306 tone fulgi de cartofi, ambalați în pungi din material plastic, primiți ca ajutor din partea Guvernului italian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5148",
+   "versions": [
+    {
+     "from": "1994-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5148",
+     "sha256": "8bda82833cd5e53a060402ed8c4c602af42693bb5a20aad9f892992392fb32d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-573-1994",
+   "path": "ordin/economie/1994/573",
+   "short": "Ordin economie nr. 573/1994",
+   "title": "Ordinul nr. 573/1994 privind prețurile de decontare, cu ridicata și cu amănuntul maxime pentru paste făinoase lungi tip spaghete și pentru paste făinoase scurte, primite ca ajutor din partea Guvernului italian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5150",
+   "versions": [
+    {
+     "from": "1994-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5150",
+     "sha256": "8ae9721f541430818a09da298b3f593baa60f423d7b6e74e29ea6b4f5eb6acaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-6-1994",
+   "path": "ordin/economie/1994/6",
+   "short": "Ordin economie nr. 6/1994",
+   "title": "Ordinul nr. 6/1994 privind deschiderea contingentului tarifar la importul în România de anumite vinuri originare din Comunitatea Europeană și modul de administrare a acestui contingent în anul 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3829",
+   "versions": [
+    {
+     "from": "1994-03-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3829",
+     "sha256": "b9da6f82c3f08250902b9559b89c27ea5a24fa57383c6894a937e51fe9c93684"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1052-1994",
    "path": "ordin/finante/1994/1052",
    "short": "Ordin finante nr. 1052/1994",
@@ -389,6 +479,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4979",
      "sha256": "08f75e4d0da794c626bfb3051c23fdd4223e9656e24021a94e514dd8759ab0a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-308-1994",
+   "path": "ordin/transporturi/1994/308",
+   "short": "Ordin transporturi nr. 308/1994",
+   "title": "Ordinul nr. 308/1994 privind acordarea licențelor și a autorizațiilor agenților economici care își desfășoară activitatea în domeniul naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4874",
+   "versions": [
+    {
+     "from": "1994-10-18",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4874",
+     "sha256": "374838cb7562dad13deb12023a736d45561fc250265ce669429f9e5e62f2c818"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-316-1994",
+   "path": "ordin/transporturi/1994/316",
+   "short": "Ordin transporturi nr. 316/1994",
+   "title": "Ordinul nr. 316/1994 privind adoptarea unor măsuri de prevenire în sensul realizării unui grad sporit de siguranță a circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4883",
+   "versions": [
+    {
+     "from": "1994-10-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4883",
+     "sha256": "23bf81d9882028fa6fc6a4e8cc366e99f9c4bee8f23c0def823d7e44d0e56bb4"
     }
    ]
   }

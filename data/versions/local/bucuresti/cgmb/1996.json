@@ -3,6 +3,51 @@
  "shard": "local/bucuresti/cgmb/1996",
  "acts": [
   {
+   "slug": "hcgmb-1-1996",
+   "path": "local/bucuresti/cgmb/1996/1",
+   "short": "HCGMB nr. 1/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/32/h01_96.pdf",
+     "sha256": "93ed2a4092c084d15335fc1e48a1c0978a8b047f21daa761f86d1014937a0b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-1996",
+   "path": "local/bucuresti/cgmb/1996/10",
+   "short": "HCGMB nr. 10/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/76",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/76/h010_96.pdf",
+     "sha256": "1361f6a1c2ca0e3360672acadb6ef4fa3d36ef0448e42ecc51b476ecec733b4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-1996",
+   "path": "local/bucuresti/cgmb/1996/100",
+   "short": "HCGMB nr. 100/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/1996 privind aprobarea documentatiilor tehnici-economice a investitiei \"Amenajarea complexa Piata Revolutiei - mun. Bucuresti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/446",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/446/h0100_96.pdf",
+     "sha256": "1652cf5a28dbe5c9dfbabbd957cca6a5ff7a0af3c66adf4582def07200a4fcca"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-101-1996",
    "path": "local/bucuresti/cgmb/1996/101",
    "short": "HCGMB nr. 101/1996",
@@ -14,6 +59,291 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/447/h0101_96.pdf",
      "sha256": "f7097544fb20eed3b05e97e8f955b4fe8d93e904b30bd940d1cf1888d89eac37"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-1996",
+   "path": "local/bucuresti/cgmb/1996/102",
+   "short": "HCGMB nr. 102/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/1996 privind aprobarea unui plan urbanistic de detaliu pt. constructiiile definitive amplasate pe domeniul public",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/448",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/448/h0102_96.pdf",
+     "sha256": "1f25b351d4b8b9812ba046a611902b973b730f72504db26664c21b78be5006fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-1996",
+   "path": "local/bucuresti/cgmb/1996/103",
+   "short": "HCGMB nr. 103/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/449",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/449/h0103_96.pdf",
+     "sha256": "647aa16422085159750a790e2b6eb101d22c9152d98b206be006192a12ca6cd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-1996",
+   "path": "local/bucuresti/cgmb/1996/104",
+   "short": "HCGMB nr. 104/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/1996 privind aprobarea bugetului local pe anul 1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/450",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/450/h0104_96.pdf",
+     "sha256": "b5940168a62bde2be3a14bfe740982c4b14217c9af5bdc9daeca61b7760c46ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-1996",
+   "path": "local/bucuresti/cgmb/1996/105",
+   "short": "HCGMB nr. 105/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/1996 privind aprobarea bugetului de venituri si cheltuieli pe anul 1996 al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/451",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/451/h0105_96.pdf",
+     "sha256": "af23e443c932841a6b95f786a0a4bff7f45a6515cc5d6152aaa24b9accf72128"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-1996",
+   "path": "local/bucuresti/cgmb/1996/106",
+   "short": "HCGMB nr. 106/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/1996 privind aprobarea bugetului de venituri si cheltuieli pe anul 1996 al RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/452",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/452/h0106_96.pdf",
+     "sha256": "4341a0b591d45a0adf2be737dcffd540abf673decdd5dd53189441be0cc371b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-1996",
+   "path": "local/bucuresti/cgmb/1996/107",
+   "short": "HCGMB nr. 107/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/1996 privind aprobarea bugetului de venituri si cheltuieli pe anul 1996 al RATB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/453",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/453/h0107_96.pdf",
+     "sha256": "4f33901b0699c139ecde2e5e1a205d5e525953a708937e3cfb6d3e5395d96474"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-1996",
+   "path": "local/bucuresti/cgmb/1996/108",
+   "short": "HCGMB nr. 108/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/1996 privind aprobarea bugetului de venituri si cheltuieli pe anul 1996 al Regiei Autonome Drumuri si Poduri Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/454",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/454/h0108_96.pdf",
+     "sha256": "99f8599ac304d9b59026085875e122d15a2a104fc52bbe218c8aea5c84c0d882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-1996",
+   "path": "local/bucuresti/cgmb/1996/109",
+   "short": "HCGMB nr. 109/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/1996 privind aprobarea bugetului de venituri si cheltuieli pe anul 1996 al RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/455",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/455/h0109_96.pdf",
+     "sha256": "eef4044528e04049b69e15e4857db6a34ec7c0d0158d8ee7748969d239981735"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-1996",
+   "path": "local/bucuresti/cgmb/1996/11",
+   "short": "HCGMB nr. 11/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1996 : 11 DIN 25/01/96 - privind completarea obiectivului de activitate al R.A.T.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/81",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/81/h011_96.pdf",
+     "sha256": "c4e3bea22c8bea6c5d8198148ba4e38d165ebd0e8a043fa4d959704436c6ce60"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-1996",
+   "path": "local/bucuresti/cgmb/1996/110",
+   "short": "HCGMB nr. 110/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/1996 privind aprobarea bilantului contabil si contului de profit si pierderi la 31 decembrie 1995 al RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/456",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/456/h0110_96.pdf",
+     "sha256": "e12acf012d81871afd7736faf2bf5d86f5f7c906c750a4528ca7ac7f21fdb3f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-1996",
+   "path": "local/bucuresti/cgmb/1996/111",
+   "short": "HCGMB nr. 111/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/1996 privind darea in folosinta gratuita a suprafetei de teren de 1045 mp catre Arhiepiscopia Bucurestilor pt. construirea unei biserici ortodoxe",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/457",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/457/h0111_96.pdf",
+     "sha256": "c45ecb727d460ec3b68ffd092084ba2fd88679b9da6b20ec1cd5323c409af17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-1996",
+   "path": "local/bucuresti/cgmb/1996/112",
+   "short": "HCGMB nr. 112/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/1996 privind alegerea comisiei de validare a CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/458",
+   "versions": [
+    {
+     "from": "1996-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/458/h0112_96.pdf",
+     "sha256": "ceb79673926e4564b79f8626a906af1a7749fa8ff0668e07c0debdbdf0ca3049"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-1996",
+   "path": "local/bucuresti/cgmb/1996/113",
+   "short": "HCGMB nr. 113/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/1996 privind validarea alegerilor si a mandatelor consilierilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/459",
+   "versions": [
+    {
+     "from": "1996-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/459/h0113_96.pdf",
+     "sha256": "ba34615e08e3739f7b06a17b35eea14af125202c313bfd9c11e7007ad77f0e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-1996",
+   "path": "local/bucuresti/cgmb/1996/114",
+   "short": "HCGMB nr. 114/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/1996 privind constituirea CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/460",
+   "versions": [
+    {
+     "from": "1996-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/460/h0114_96.pdf",
+     "sha256": "d59318264d1cbb08e808e8ab844aa7c1a41770f7eb71afb12fe45f9dd1384bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-1996",
+   "path": "local/bucuresti/cgmb/1996/115",
+   "short": "HCGMB nr. 115/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/1996 privind alegerea viceprimarilor mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/461",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/461/h0115_96.pdf",
+     "sha256": "5d79c241cbadad2f8a8cfe7f56715478e9109c90a19732e83eefe97d73b4ba2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-1996",
+   "path": "local/bucuresti/cgmb/1996/116",
+   "short": "HCGMB nr. 116/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/462",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/462/h0116_96.pdf",
+     "sha256": "fd083b4b92e38ce3485353cc65303eea44f222d31ce5510178aae54bd2c857a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-1996",
+   "path": "local/bucuresti/cgmb/1996/117",
+   "short": "HCGMB nr. 117/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/1996 ANULATA PRIN SENTINTA CIVILA NR.77/05.02.1997 ANULATA PRIN HOTARAREA NR.158/04.09.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1234",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1234/h0117_96.pdf",
+     "sha256": "158daaec234dc75abb94a01de2123d2015550d8eccee066275d916d482106efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-1996",
+   "path": "local/bucuresti/cgmb/1996/118",
+   "short": "HCGMB nr. 118/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/1996 privind alegerea comisiilor de specialitate ale CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/463",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/463/h0118_96.pdf",
+     "sha256": "bfab39c599a2b92a96089f7664fd60ba06f9e12f1daa3f3bc998e5b33a59ec70"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-1996",
+   "path": "local/bucuresti/cgmb/1996/119",
+   "short": "HCGMB nr. 119/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/1996 privind alegerea componentei nominale a comisiilor de specialitate ale Consiliului General al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/464",
+   "versions": [
+    {
+     "from": "1996-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/464/h0119_96.pdf",
+     "sha256": "eec3901145b927163aca0fecb1bb899c3d9bd657f4db26c45a1fa536d454adbf"
     }
    ]
   },
@@ -33,6 +363,141 @@
    ]
   },
   {
+   "slug": "hcgmb-120-1996",
+   "path": "local/bucuresti/cgmb/1996/120",
+   "short": "HCGMB nr. 120/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/1996 privind aprobarea protocolului de cooperare intre oresele Bucuresti si Paris",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/541",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/541/h0120_96.pdf",
+     "sha256": "6aef08a595882eaabce6a3d9b5b6c47327d38314c5381843898885051a6ec3a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-1996",
+   "path": "local/bucuresti/cgmb/1996/121",
+   "short": "HCGMB nr. 121/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/1996 privind anularea contractelor incheiate cu incalcarea HCLMB nr.125/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/540",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/540/h0121_96.pdf",
+     "sha256": "2deffccb9b18c9d5c76c2987013462abfd30200df3dea79769125c0ab4da3a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-1996",
+   "path": "local/bucuresti/cgmb/1996/122",
+   "short": "HCGMB nr. 122/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/1996 privind modificarea art.4 din HCLMB nr. 68/16.05.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/539",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/539/h0122_96.pdf",
+     "sha256": "d7ea437fb7af87fa6110bd31d9ff3b48d8edcd5bd358b7d14b908af39b501477"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-1996",
+   "path": "local/bucuresti/cgmb/1996/123",
+   "short": "HCGMB nr. 123/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/1996 privind modificarea art.4 din HCLMB nr. 69/16.05.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/538",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/538/h0123_96.pdf",
+     "sha256": "a156809bc21b2aa0df44fe4c1a653860a9431503b28ef44405975342e07215bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-1996",
+   "path": "local/bucuresti/cgmb/1996/124",
+   "short": "HCGMB nr. 124/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizarea retelei de termoficare 2 Dn 500(CL5-CL8) Str Lujerului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/537",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/537/h0124_96.pdf",
+     "sha256": "3afc6157931b87bf8d8f4b7bd8f8fbc762405c9fcac9f130ba729d119381926e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-1996",
+   "path": "local/bucuresti/cgmb/1996/125",
+   "short": "HCGMB nr. 125/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"MOdernizarea alimentarii cu agent termic a consumatorilor racordati la SC P 10 Foisor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/536",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/536/h0125_96.pdf",
+     "sha256": "d78455301d96be14f534ee95338e3e982b012762c65aeaf73ac4a5ee3e58f03c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-1996",
+   "path": "local/bucuresti/cgmb/1996/126",
+   "short": "HCGMB nr. 126/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/535",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/535/h0126_96.pdf",
+     "sha256": "7321b9f2a3d945526e4b5f83f77195cc32e97f0d89022440455ed3aba4737cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-1996",
+   "path": "local/bucuresti/cgmb/1996/127",
+   "short": "HCGMB nr. 127/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/1996 privind descentralizarea unor atributii catre Consiliile locale ale sectoarelor municip. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/534",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/534/h0127_96.pdf",
+     "sha256": "0d890e960a8c8545682620bae4e2ac1309eebc1c49acb565f3734ee6b86b5c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-1996",
+   "path": "local/bucuresti/cgmb/1996/128",
+   "short": "HCGMB nr. 128/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/1996 privind emiterea acordului CGMB pt. bugetele locale ale Consiliilor sectoarelor 1-6 ale municip. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/533",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/533/h0128_96.pdf",
+     "sha256": "02c119eef3b1d59b2cbe5877c888a7ded93b6a1b0810353ea16c64badb4215e1"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-129-1996",
    "path": "local/bucuresti/cgmb/1996/129",
    "short": "HCGMB nr. 129/1996",
@@ -44,6 +509,81 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/532/h0129_96.pdf",
      "sha256": "133e1f162f735de0a636a99ad95a7def58eaf3c213b4adb6cabdf08e4dd0a00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-1996",
+   "path": "local/bucuresti/cgmb/1996/13",
+   "short": "HCGMB nr. 13/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1996 SE APROBA PLANURILE URBANISTICE DE DETALIU PENTRU CONSTRUCTII DEFINITIVE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6616",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/6616/h013_96.pdf",
+     "sha256": "8a8360bdc752e1d262b8f399a2ee8979d5cfc7190a89725af0930ea9f894d560"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-1996",
+   "path": "local/bucuresti/cgmb/1996/130",
+   "short": "HCGMB nr. 130/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/1996 privind lansarea de obligatiuni municipale pe piata internationala de capital",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/531",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/531/h0130_96.pdf",
+     "sha256": "390a721061cfc7f21b60e7e8d06e0b3d8196dcc9a2c6c951882e66e4a713c566"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-1996",
+   "path": "local/bucuresti/cgmb/1996/131",
+   "short": "HCGMB nr. 131/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constructii definitive pe domeniul privat al municip. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/530",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/530/h0131_96.pdf",
+     "sha256": "86cf1ccb7524fc8faa38292a40d027bac5b9b8574f5805ac75fcd92a9b87756b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-1996",
+   "path": "local/bucuresti/cgmb/1996/132",
+   "short": "HCGMB nr. 132/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/529",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/529/h0132_96.pdf",
+     "sha256": "ca23d587dc65c5c1dc8dd819cf60b2679785e3c66d95bafc90762818da6f6f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-1996",
+   "path": "local/bucuresti/cgmb/1996/133",
+   "short": "HCGMB nr. 133/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/1996 SUSPENDATA DE PREFECTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1240",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1240/h0133_96.pdf",
+     "sha256": "985227a527372e3943b28a5aa746bd307ebecdca3552d6f5d7a710b7707253ce"
     }
    ]
   },
@@ -63,6 +603,111 @@
    ]
   },
   {
+   "slug": "hcgmb-135-1996",
+   "path": "local/bucuresti/cgmb/1996/135",
+   "short": "HCGMB nr. 135/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/1996 privind modificarea HCGMB nr. 100/1996 cu aprobarea indicatorilor economici pentru Amenajarea complexa a Pietei Revolutiei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/527",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/527/h0135_96.pdf",
+     "sha256": "0fe5a289e540439b439a6c1e8a5c7a5af702d5f4e460da935e2bc56240260a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-1996",
+   "path": "local/bucuresti/cgmb/1996/136",
+   "short": "HCGMB nr. 136/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1239",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1239/h0136_96.pdf",
+     "sha256": "f137a74547cabe44b79f6c7383425dcd132c3cae473add0d83b4ff438e08b94a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-1996",
+   "path": "local/bucuresti/cgmb/1996/137",
+   "short": "HCGMB nr. 137/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/1996 cu privire la transmiterea in administrarea Centrului National de Conservare si Valorificarea Traditiei si Creatiei Populare a unei suprafete de teren",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/526",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/526/h0137_96.pdf",
+     "sha256": "15d99c099d0e5f6fbd559157737c843a2bc333f0f686941ed7a5a85e821dd513"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-1996",
+   "path": "local/bucuresti/cgmb/1996/138",
+   "short": "HCGMB nr. 138/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/1996 ANULATA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1241",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1241/h0138_96.pdf",
+     "sha256": "bd009cf8ff2aafbcc54d0cd8fd7b5d5692fd41dff15f08ea2b9bb4d96ef7791b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-1996",
+   "path": "local/bucuresti/cgmb/1996/139",
+   "short": "HCGMB nr. 139/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/1996 privind alocarea unor sume din fondul de rezerva al bugetului CGMB pe anul 1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/525",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/525/h0139_96.pdf",
+     "sha256": "475f0be1e4da690c03941745e9fd1032ebe8bc518f859eae9a1fb7c0c91260ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-1996",
+   "path": "local/bucuresti/cgmb/1996/14",
+   "short": "HCGMB nr. 14/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1996 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6617",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/6617/h014_96.pdf",
+     "sha256": "0575b5d98f3078f528b40f497aef5f63d1146ce4df5564e28ae5eadc46f3587b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-1996",
+   "path": "local/bucuresti/cgmb/1996/140",
+   "short": "HCGMB nr. 140/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/1996 ANULATA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1242",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1242/h0140_96.pdf",
+     "sha256": "3e2a1ad4063717f026d8b7f6bb36e2654c8212838d81f9eafee68300542b3aae"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-141-1996",
    "path": "local/bucuresti/cgmb/1996/141",
    "short": "HCGMB nr. 141/1996",
@@ -74,6 +719,261 @@
      "units": 3,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/524/h0141_96.pdf",
      "sha256": "27014e220cb6782c3144dc1fbc2c19bbcbda58ba0aa0b88b054bc509909febdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-1996",
+   "path": "local/bucuresti/cgmb/1996/142",
+   "short": "HCGMB nr. 142/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/1996 privind reglementarea situatiei juridice a terenului aferent \"Pietei Latine\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/523",
+   "versions": [
+    {
+     "from": "1996-10-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/523/h0142_96.pdf",
+     "sha256": "aab53d7b9dcc7b1389b95f6efe509a24934f0391f1f5b07d86ac7f716a2fe0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-1996",
+   "path": "local/bucuresti/cgmb/1996/143",
+   "short": "HCGMB nr. 143/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/1996 ANULATA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1243",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1243/h0143_96.pdf",
+     "sha256": "28ade8a856a671436e839e48f5ea9bcdc10da7cfad5651be7621150686c3aff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-1996",
+   "path": "local/bucuresti/cgmb/1996/144",
+   "short": "HCGMB nr. 144/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/1996 privind numirea directorului Centrului de Proiecte Culturale al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/522",
+   "versions": [
+    {
+     "from": "1996-10-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/522/h0144_96.pdf",
+     "sha256": "caa1460810d3e469b86ce6115d23089bb84b7900a3dfdc8fd2c4b3cd8dd83d04"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-1996",
+   "path": "local/bucuresti/cgmb/1996/145",
+   "short": "HCGMB nr. 145/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/1996 privind numirea sefului Corpului Gardieni Publici",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/521",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/521/h0145_96.pdf",
+     "sha256": "4525f5646bffaceb622c1c49792a04852b04554c396b2a8ed224422228c5db5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-1996",
+   "path": "local/bucuresti/cgmb/1996/146",
+   "short": "HCGMB nr. 146/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea canal\" zona Chitila, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/520",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/520/h0146_96.pdf",
+     "sha256": "3d9bef441eb70003fb1e7a52a56bdf25462bc055380fd20a51633a3a18be5c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-1996",
+   "path": "local/bucuresti/cgmb/1996/147",
+   "short": "HCGMB nr. 147/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/1996 privind aprobarea docum. tehnico-economice a investitiei \"Extindere retea apa potabila cartier Andronache- sector 2\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/519",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/519/h0147_96.pdf",
+     "sha256": "5eb65a9e5c2370e35d3af6e23d2c506ff97ee0d78863ab7a06dcbbe77a894c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-1996",
+   "path": "local/bucuresti/cgmb/1996/148",
+   "short": "HCGMB nr. 148/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/1996 privind modif. HCGMB nr.129/1996 referitoare la acordarea unor scutiri de tarife la transportul in comun de suprafata",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/518",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/518/h0148_96.pdf",
+     "sha256": "99d8e95297e843dd42af2f7ae024c2d8c80ef496cf32e10f1fe1c883eda7acd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-1996",
+   "path": "local/bucuresti/cgmb/1996/149",
+   "short": "HCGMB nr. 149/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/1996 privind rectificarea bugetului local pe anul 1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/517",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/517/h0149_96.pdf",
+     "sha256": "137446aa2dc50f35325d3571cc68c4b2ec69ae1225da89f6bff5797e1fa1da45"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-1996",
+   "path": "local/bucuresti/cgmb/1996/15",
+   "short": "HCGMB nr. 15/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/3/h015_96.pdf",
+     "sha256": "319af4f9bb93e3be5f19125e56771ef61a02450d0aba7b1dc6f04f90a3ea0de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-1996",
+   "path": "local/bucuresti/cgmb/1996/150",
+   "short": "HCGMB nr. 150/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/1996 privind modificarea HCGMB nr.64 si 65/28.06.1993 referitoere la infiintarea \"Centrului de pregatire si perfectionare a personalului din domeniul asist",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/516",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/516/h0150_96.pdf",
+     "sha256": "0f441e34707e16e3d71f2a5bb7a1cf7b77784d3d8442efe69ca79af8da627d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-1996",
+   "path": "local/bucuresti/cgmb/1996/151",
+   "short": "HCGMB nr. 151/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/1996 privind aprobarea planului de redresare financiara pe termen scurt al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/515",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/515/h0151_96.pdf",
+     "sha256": "b3c4776aa59f9fe7d56ae5f49c9178fc521b0f68ce0e89a4bd6fc80ef08fcbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-1996",
+   "path": "local/bucuresti/cgmb/1996/152",
+   "short": "HCGMB nr. 152/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/1996 privind participarea CGMB la constituirea unei SC avand ca obiect de activitate salubrizarea si efectuarea serviciului de iarna in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/514",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/514/h0152_96.pdf",
+     "sha256": "3ed56f8840f10a4d2e1aee0371245abde06006be005070b725cae85fbf81eb03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-1996",
+   "path": "local/bucuresti/cgmb/1996/153",
+   "short": "HCGMB nr. 153/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/1996 privind participarea municipiului Bucuresti ca membru la Federatia Municipiilor din Romania",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/513",
+   "versions": [
+    {
+     "from": "1996-10-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/513/h0153_96.pdf",
+     "sha256": "f0439f62d0d5f20d9a748d11c79531849dd94d96d63090579430520a151192cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-1996",
+   "path": "local/bucuresti/cgmb/1996/154",
+   "short": "HCGMB nr. 154/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/512",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/512/h0154_96.pdf",
+     "sha256": "cb21ef7353bdcde55999041cf65f707643c455972b10ae9113d868affa86fe8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-1996",
+   "path": "local/bucuresti/cgmb/1996/155",
+   "short": "HCGMB nr. 155/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/1996 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/511",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/511/h0155_96.pdf",
+     "sha256": "b4075812cfa475d5b6a64cfcb6c67a4787a026631ac3a240fcbfafec6476ce2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-1996",
+   "path": "local/bucuresti/cgmb/1996/156",
+   "short": "HCGMB nr. 156/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/1996 privind aprobarea unui proiect de urbanism zonal al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/510",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/510/h0156_96.pdf",
+     "sha256": "ea82cfe4817ad46b38a223a05c1a025cf19ba8cc4c65d80a4174167dee083d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-1996",
+   "path": "local/bucuresti/cgmb/1996/157",
+   "short": "HCGMB nr. 157/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/509",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/509/h0157_96.pdf",
+     "sha256": "f607c2cfa8b3e1274d1589943f80755fe24c67e9cc2ec7213d43283dda6dc9da"
     }
    ]
   },
@@ -93,6 +993,96 @@
    ]
   },
   {
+   "slug": "hcgmb-159-1996",
+   "path": "local/bucuresti/cgmb/1996/159",
+   "short": "HCGMB nr. 159/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/507",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/507/h0159_96.pdf",
+     "sha256": "bef626be720f9cd18ab37c67dd72e98bab9f082aec177d65630df81a1a504cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1996",
+   "path": "local/bucuresti/cgmb/1996/16",
+   "short": "HCGMB nr. 16/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/4/h016_96.pdf",
+     "sha256": "57bb6213f602695e2b9fe028a79a9978df0ad347ce0b92b92ffd3820462e54bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-1996",
+   "path": "local/bucuresti/cgmb/1996/160",
+   "short": "HCGMB nr. 160/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/506",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/506/h0160_96.pdf",
+     "sha256": "6caa9a5f613cbdfa27fb27b430af37cfcc9f26f2d4cff4703098d83337660f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-1996",
+   "path": "local/bucuresti/cgmb/1996/161",
+   "short": "HCGMB nr. 161/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/1996 privind alocarea unor fonduri din rezerva bugetara la dispozitia CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/505",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/505/h0161_96.pdf",
+     "sha256": "258ea26d8c98abcf3967e4bee0ea0c64d8801f7c0c306ddc515f8e46d6a93e66"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-1996",
+   "path": "local/bucuresti/cgmb/1996/162",
+   "short": "HCGMB nr. 162/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/504",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/504/h0162_96.pdf",
+     "sha256": "13bf4852e1af9e48888f0facb1124d69333da6766e3554771dfa6de5c773e914"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-1996",
+   "path": "local/bucuresti/cgmb/1996/163",
+   "short": "HCGMB nr. 163/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/503",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/503/h0163_96.pdf",
+     "sha256": "b6b74153d08bae943f778f123184d3df66ff745c8b8ac04a2d044eb8dc715ca0"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-164-1996",
    "path": "local/bucuresti/cgmb/1996/164",
    "short": "HCGMB nr. 164/1996",
@@ -104,6 +1094,321 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/502/h0164_96.pdf",
      "sha256": "f54c9a43e35c7cde5900d6633b41e54734263659b00f65f326f447ef18cc8955"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-1996",
+   "path": "local/bucuresti/cgmb/1996/165",
+   "short": "HCGMB nr. 165/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/1996 privind modificarea unor prevederi ale HCGMB nr.1/1996 de rectificare a bugetului local",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/501",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/501/h0165_96.pdf",
+     "sha256": "dbdfa6f3cfc566a1d826b2fbbc720cc417dde5f50458b7c6dc1106cf7eb5e8fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-1996",
+   "path": "local/bucuresti/cgmb/1996/166",
+   "short": "HCGMB nr. 166/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/1996 privind modificarea unor prevederi ale HCGMB nr.68 si 69 din 16.05.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/500",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/500/h0166_96.pdf",
+     "sha256": "9b5f8514a081a7aa6a3ae7154082cdbac80afa88cbe9f94f09a9205060afffdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-1996",
+   "path": "local/bucuresti/cgmb/1996/167",
+   "short": "HCGMB nr. 167/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/1996 privind infiintarae SC RER - RWE ECOLOGIC SERVICE BUCURESTI \"REBU\" SA si aprobarea contractului de prestari servicii intre acesta SC si PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/499",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/499/h0167_96.pdf",
+     "sha256": "e731ed0d622004197a399306eb3a89681723ed5c022c004acee03e2ccdd4f8fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-1996",
+   "path": "local/bucuresti/cgmb/1996/168",
+   "short": "HCGMB nr. 168/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/1996 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI RECTIFICAT PE ANUL 1996 AL RATB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/498",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/498/h0168_96.pdf",
+     "sha256": "781c984625b78e06dccd904d886f003e93d44b0e1663529709660206cf0a542e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-1996",
+   "path": "local/bucuresti/cgmb/1996/169",
+   "short": "HCGMB nr. 169/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/1996 privind aprobarea bugetului de venituri si cheltuieli rectificat pe anul 1996 al RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/543",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/543/h0169_96.pdf",
+     "sha256": "ff8acc367096dd30668a283e8ebb2b16e82063fc0d249d0e64f2006c9ab2cc65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1996",
+   "path": "local/bucuresti/cgmb/1996/17",
+   "short": "HCGMB nr. 17/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/5/h017_96.pdf",
+     "sha256": "d923804db4874a149e0e4da6e7b0569b887e916889f930de760e32002291ead7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-1996",
+   "path": "local/bucuresti/cgmb/1996/170",
+   "short": "HCGMB nr. 170/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/1996 privind aprobarea bugetului de venituri si cheltuieli rectificat, pe anul 1996 al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/584",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/584/h0170_96.pdf",
+     "sha256": "78503cf0c8b95cde13b37ab2f172ca6715e5b0990995f00b1a7ce0f629dad554"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-1996",
+   "path": "local/bucuresti/cgmb/1996/171",
+   "short": "HCGMB nr. 171/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/544",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/544/h0171_96.pdf",
+     "sha256": "b0223ede390f94aa1ce1b890fb2f635da6949661a71f34f9792d3356e0810acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-1996",
+   "path": "local/bucuresti/cgmb/1996/172",
+   "short": "HCGMB nr. 172/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/1996 privind suplimentarea si modificarea bugetului local pe anul 1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/545",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/545/h0172_96.pdf",
+     "sha256": "92dbb756f5fccd4ad769da3854e446bd6215bd675d1ffe889db65e372bff2e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-1996",
+   "path": "local/bucuresti/cgmb/1996/173",
+   "short": "HCGMB nr. 173/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Linie de troleibuze pe calea Grivitei, de la Str. Polizu, pe Str.Th.Aman, Str. G-ral",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/546",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/546/h0173_96.pdf",
+     "sha256": "0fb0f8a435782ba2db842c1038528c24c89549a182d958966eb68b8782c9678c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-1996",
+   "path": "local/bucuresti/cgmb/1996/174",
+   "short": "HCGMB nr. 174/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizarea liniei de tramvai pe str. Reinvierii, str. Turmelor intre str. Maica Dom",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/547",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/547/h0174_96.pdf",
+     "sha256": "55865d4fd2cacc79b1d27026b06b3e4b0094bd9b3786d16611098c20e0282d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-1996",
+   "path": "local/bucuresti/cgmb/1996/175",
+   "short": "HCGMB nr. 175/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea canal Cal.Giulesti(str.Drmul Garii,str.Cotul Siretului,str.Rasadnitei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1238",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1238/h0175_96.pdf",
+     "sha256": "480a7628e374ac9a3259cbe7e311b3f785bf24ec6c844d12d4589ba94ec7c74f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-1996",
+   "path": "local/bucuresti/cgmb/1996/176",
+   "short": "HCGMB nr. 176/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea apa potabila zona Andronache\" (Str. Taciunelui, str. Scortan Ion, str",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/548",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/548/h0176_96.pdf",
+     "sha256": "5baa2b01fa8b6d16d99a89ac99443d4d13ff35aa3d94414fa798347c450a146f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-1996",
+   "path": "local/bucuresti/cgmb/1996/177",
+   "short": "HCGMB nr. 177/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea canal Cal. Giulesti str. Sculptorilor, str.Marin Calciu, intr. Carami",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/549",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/549/h0177_96.pdf",
+     "sha256": "f04f73e8272947e234594ef2707582674b2317baf114d154130210658d91e719"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-1996",
+   "path": "local/bucuresti/cgmb/1996/178",
+   "short": "HCGMB nr. 178/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea canalizare zona Alexandriei (str. Iacobeni, str. Campenesti-Ogradei,",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/550",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/550/h0178_96.pdf",
+     "sha256": "78adfcb8adea9984bd8349f09bc03b506d79dc7d23e8a8fd2b382ea712f1f1d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-1996",
+   "path": "local/bucuresti/cgmb/1996/179",
+   "short": "HCGMB nr. 179/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/551",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/551/h0179_96.pdf",
+     "sha256": "50660ca91daf2fa7f19295ed82057f75b16375814dcff1ef81026b3b6f78b9b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1996",
+   "path": "local/bucuresti/cgmb/1996/18",
+   "short": "HCGMB nr. 18/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/6/h018_96.pdf",
+     "sha256": "54750c770234d39f9d9d1c2cbf606d6549fc18a4557da43e16a70aa6e526a248"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1996",
+   "path": "local/bucuresti/cgmb/1996/19",
+   "short": "HCGMB nr. 19/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/7/h019_96.pdf",
+     "sha256": "a041051c321689618773fa4dcfd93982edb1db48c3aa378fc68c8447cd8a2e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-1996",
+   "path": "local/bucuresti/cgmb/1996/2",
+   "short": "HCGMB nr. 2/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/1996 : 2 DIN 25/01/96 - priv.aprob.documentatiei tehnico-economice a investitiei \"Modernizare ret ele termice-secundare aferente punctului termic PT \"D\" Chibrit, municipiul B ucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/36/h02_96.pdf",
+     "sha256": "44f32946430f3a83384034b8171ed26b47dfe409c426285b9970349d76018314"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1996",
+   "path": "local/bucuresti/cgmb/1996/20",
+   "short": "HCGMB nr. 20/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/8/h020_96.pdf",
+     "sha256": "222208b7ab83fab68007339a0df56a53b2b4e5456f243cb55d5e31a44268bfb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1996",
+   "path": "local/bucuresti/cgmb/1996/21",
+   "short": "HCGMB nr. 21/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1996 ANULATA PRIN SENTINTA CIVILA NR.164/27.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1225",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1225/h021_96.pdf",
+     "sha256": "9dc579cd9c0410c3ed6865c563574661ccded96fe677b02dbf29e526610774e4"
     }
    ]
   },
@@ -123,6 +1428,561 @@
    ]
   },
   {
+   "slug": "hcgmb-23-1996",
+   "path": "local/bucuresti/cgmb/1996/23",
+   "short": "HCGMB nr. 23/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1996 ANULATA PRIN SENTINTA CIVILA NR.164/27.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1226",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1226/h023_96.pdf",
+     "sha256": "304104ebe9b8bce8afec663a04a5e18523ad0ed9a1b4012a750a4fdbf21c4480"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1996",
+   "path": "local/bucuresti/cgmb/1996/24",
+   "short": "HCGMB nr. 24/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1996 ANULATA PRIN SENTINTA CIVILA NR.164/27.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1227",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1227/h024_96.pdf",
+     "sha256": "78b2bf9fe6e8f22b9ee05fdefacd9c0d1df4df4f97a6f917bbfc5750d402616c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1996",
+   "path": "local/bucuresti/cgmb/1996/25",
+   "short": "HCGMB nr. 25/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1996 ANULATA PRIN SENTINTA CIVILA NR.164/27.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1228",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1228/h025_96.pdf",
+     "sha256": "b9b42b56b2dd30ecdb3ca81b05384bd35c466ea0f14b4da192e46441ac2bd9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-1996",
+   "path": "local/bucuresti/cgmb/1996/26",
+   "short": "HCGMB nr. 26/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1996 ANULATA PRIN SENTINTA CIVILA NR.164/27.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1229",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1229/h026_96.pdf",
+     "sha256": "2801c9f0532c0e36054f018dbd73a423bfd6b2d7c67173bf6bfa8f7f0c9f36be"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1996",
+   "path": "local/bucuresti/cgmb/1996/27",
+   "short": "HCGMB nr. 27/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/372",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/372/h027_96.pdf",
+     "sha256": "e2a7ea8a019b3d0945a77dfb4ca18ef47ccf5975ab1099dd0f8f924ab386b0ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1996",
+   "path": "local/bucuresti/cgmb/1996/28",
+   "short": "HCGMB nr. 28/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1996 privind aprobarea unor planuri urbanistice in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/373",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/373/h028_96.pdf",
+     "sha256": "6351ba5385298f8d810e85a0e68b144dc0f8f7d9ac9dbb6d4bb6972bec01ff39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1996",
+   "path": "local/bucuresti/cgmb/1996/29",
+   "short": "HCGMB nr. 29/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1996 privind aprobarea unor planuri de urbanism in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/374",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/374/h029_96.pdf",
+     "sha256": "0e149f1108dd20f818bfddcb45f9d76e18edc5ded8ee257f514c589d7196c8f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1996",
+   "path": "local/bucuresti/cgmb/1996/3",
+   "short": "HCGMB nr. 3/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1996 : 3 DIN 25/01/96 - privind aprobarea documentatiei tehnico-economice a investitiei \"Substati a electrica de tractiune Grozavesti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/41/h03_96.pdf",
+     "sha256": "398546270676af92ae7eff3c945703a6410dc253207f2c3969384f388aa06acc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1996",
+   "path": "local/bucuresti/cgmb/1996/30",
+   "short": "HCGMB nr. 30/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/375",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/375/h030_96.pdf",
+     "sha256": "11f28d70e89b3f4c5a5da2a160abda570818c55ee8f6775614e686af32f40478"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1996",
+   "path": "local/bucuresti/cgmb/1996/31",
+   "short": "HCGMB nr. 31/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/376",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/376/h031_96.pdf",
+     "sha256": "00ded9073d035fc1b30ed33463435dd65335d4b9395976c383006df7455e0ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1996",
+   "path": "local/bucuresti/cgmb/1996/32",
+   "short": "HCGMB nr. 32/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/377",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/377/h032_96.pdf",
+     "sha256": "6e0178b88935e01b91f655bec2c07ba235f37a0ec92369a4b9d0dce24e85dd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1996",
+   "path": "local/bucuresti/cgmb/1996/33",
+   "short": "HCGMB nr. 33/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1996 privind aprobarea unor planuri urbanistice de detaliu in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/378",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/378/h033_96.pdf",
+     "sha256": "e50e861d1ebab1ac14fa4dbcf389df55a6603afd7aba63b1df66a1dd2ab4de2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1996",
+   "path": "local/bucuresti/cgmb/1996/34",
+   "short": "HCGMB nr. 34/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1996 privind organizarea de licitatii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/371",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/371/h034_96.pdf",
+     "sha256": "a49dc4fb907101a227cfd0a99b568ec4e916066b348cdcb96f28e5a2c2ef8225"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1996",
+   "path": "local/bucuresti/cgmb/1996/35",
+   "short": "HCGMB nr. 35/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1996 privind modificarea Anexei nr.1d a Hot. CLMB nr.65 din 07.09.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/379",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/379/h035_96.pdf",
+     "sha256": "ccafb0daed9a7969b86de885511dbb181c08c67236c9456b6929e15b7dff37ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1996",
+   "path": "local/bucuresti/cgmb/1996/36",
+   "short": "HCGMB nr. 36/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1996 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/380",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/380/h036_96.pdf",
+     "sha256": "c60793ac5357dab2172a03110c2a1c8d0ea9479d6a876add1f6bc6f9ff380ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1996",
+   "path": "local/bucuresti/cgmb/1996/37",
+   "short": "HCGMB nr. 37/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1996 privind aprobarea contului de incheiere a exercitiului bugetului propriu al CLMB pe anul 1994",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/381",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/381/h037_96.pdf",
+     "sha256": "913453c0154af05d265d1fe6b7310939178abd92fe9e33fe118e7d02cfab7d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1996",
+   "path": "local/bucuresti/cgmb/1996/38",
+   "short": "HCGMB nr. 38/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1996 privind cresterea, intretinerea si circulatia animalelor in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/382",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/382/h038_96.pdf",
+     "sha256": "d4bf304230dca1834c67b631104749c5dc3cd8e6d5ef6a93822f5b3be057c331"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1996",
+   "path": "local/bucuresti/cgmb/1996/39",
+   "short": "HCGMB nr. 39/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1996 privind abrogarea HCLMB nr. 75/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/383",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/383/h039_96.pdf",
+     "sha256": "d54457fdf65ee2a0032732113c76d463ac196aeb31aa481743e9cf9d57bb91b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1996",
+   "path": "local/bucuresti/cgmb/1996/4",
+   "short": "HCGMB nr. 4/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1996 : 4 DIN 25/01/96 - privind aprobarea documentatiei tehnico-economice a investitiei \"Substatia electrica de tractiune Izvor\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/46",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/46/h04_96.pdf",
+     "sha256": "8a15b6a50b1e73d8ec0064d3c4529d9beebe43a8bcbfec0bd83bd06b10caa169"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1996",
+   "path": "local/bucuresti/cgmb/1996/40",
+   "short": "HCGMB nr. 40/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1996 privind transmiterea unui teren sau imobil de la MAPN , prin schimb, in domeniul public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/384",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/384/h040_96.pdf",
+     "sha256": "8c4fb48b1d33e0607dc4cbb9c942d72e5c8777374cdb2b206c0ff7aaa74fb754"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1996",
+   "path": "local/bucuresti/cgmb/1996/41",
+   "short": "HCGMB nr. 41/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1996 ANULATA PRIN HOTARAREA NR.31/26.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1233",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1233/h041_96.pdf",
+     "sha256": "4b7152d10de485a679e2fe05b6e603f835df7215cb844e132f8e18f34226267f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1996",
+   "path": "local/bucuresti/cgmb/1996/42",
+   "short": "HCGMB nr. 42/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/385",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/385/h042_96.pdf",
+     "sha256": "19e2db5f42ec8db89a7d7a1b6ceb848703dde3a8c9cb752ea6cf068ecfcf5fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1996",
+   "path": "local/bucuresti/cgmb/1996/43",
+   "short": "HCGMB nr. 43/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1996 privind probarea unor planuri urbanistice de detaliu pt. constructii definitive pe dom. privat/public in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/386",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/386/h043_96.pdf",
+     "sha256": "bac0b5344b14eaa9f7b35a4c7067db636a16ee8042e949af91950f5564c291d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1996",
+   "path": "local/bucuresti/cgmb/1996/44",
+   "short": "HCGMB nr. 44/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii pe domeniul privat",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/387",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/387/h044_96.pdf",
+     "sha256": "931e1d1f404c8598f2d9d4c7c2b061bf8a397abcdb9bbb504bff303b40959bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1996",
+   "path": "local/bucuresti/cgmb/1996/45",
+   "short": "HCGMB nr. 45/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constr. definitive pe teren propr. privata a pers. fizice/juridice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/388",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/388/h045_96.pdf",
+     "sha256": "442266bacbce329f3cb14b170acee8af628c4c78e3ccf5cb6d7bb80481d21d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1996",
+   "path": "local/bucuresti/cgmb/1996/46",
+   "short": "HCGMB nr. 46/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1996 privind eliberarea certif. de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul SC \"DOI COCOSI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/389",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/389/h046_96.pdf",
+     "sha256": "d63bc598208084e73a5c423810331272698cec3df6563d05195eaff7cd92da5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1996",
+   "path": "local/bucuresti/cgmb/1996/47",
+   "short": "HCGMB nr. 47/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1996 PRIVIND ELIBERAREA CERTIF. DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR sc \"COMTUR\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/390",
+   "versions": [
+    {
+     "from": "1996-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/390/h047_96.pdf",
+     "sha256": "77e51333e9912c9542960496d710af06fd2b8973c5de445c79ed2c05230378b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1996",
+   "path": "local/bucuresti/cgmb/1996/48",
+   "short": "HCGMB nr. 48/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1996 anulata prin sentinta civila nr.149/13.03.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1230",
+   "versions": [
+    {
+     "from": "1996-03-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1230/h048_96.pdf",
+     "sha256": "2ce472899d3bdb48bd9007c80eebc186071d6552c6a2b5c12f220c5de29796de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-1996",
+   "path": "local/bucuresti/cgmb/1996/49",
+   "short": "HCGMB nr. 49/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/1996 PRIVIND APROB. UNOR PLANURI URBANISTICE DE DETALIU PT. CONSTR. DEFINITIVE AMPLASATE PE PROPR. PERS. FIZICE-JURICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/391",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/391/h049_96.pdf",
+     "sha256": "797dbce5dc66eadaa4ac22a4ff3e3c5afab0483bde419a77f21f1a8942b37dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1996",
+   "path": "local/bucuresti/cgmb/1996/5",
+   "short": "HCGMB nr. 5/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1996 : 5 DIN 25/01/96 - privivind aprobarea documentatiei tehnic-economice a investitiei \"Linie d e tramvai pe bd.1 Decembrie 1918, intre poarta 4 Faur si bd.Muncii\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/51",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/51/h05_96.pdf",
+     "sha256": "78e2ee93eebf6a867d5b07f9902f8a53f41d2d85beafed6c01d37f8679a14fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1996",
+   "path": "local/bucuresti/cgmb/1996/50",
+   "short": "HCGMB nr. 50/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constr. definitive amplasate pe dom. privat al orasului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/392",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/392/h050_96.pdf",
+     "sha256": "684cc7485f3a09efeeb9dc8cf8444c0125dc1bd57ded9a9dd908f45ef109e8a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1996",
+   "path": "local/bucuresti/cgmb/1996/51",
+   "short": "HCGMB nr. 51/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constr. definitive amplasate pe domeniul public al orasului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/411",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/411/h051_96.pdf",
+     "sha256": "0c1975b9cdfafce590966bc0bdeb97e8c8b61f6937946d6f068738ff9646b553"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1996",
+   "path": "local/bucuresti/cgmb/1996/52",
+   "short": "HCGMB nr. 52/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii pe domeniul privat al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/412",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/412/h052_96.pdf",
+     "sha256": "2f9e3e724e65422fd8bc476f6077fc1ff6cb1e67a7ee11d95655a75b277a8800"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1996",
+   "path": "local/bucuresti/cgmb/1996/53",
+   "short": "HCGMB nr. 53/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constructii provizorii pe domeniul public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/413",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/413/h053_96.pdf",
+     "sha256": "d1c4baa2d992fb75121a39793fe7b0a2635c4aaf4872b355116fb1719cd4dabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1996",
+   "path": "local/bucuresti/cgmb/1996/54",
+   "short": "HCGMB nr. 54/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1996 privind aprobarea unor planuri urbanistice zonale ale mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/414",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/414/h054_96.pdf",
+     "sha256": "c8dea60e96a9750cf69962759df7ca1984d320c3bb40243948f69eb76edf4d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1996",
+   "path": "local/bucuresti/cgmb/1996/55",
+   "short": "HCGMB nr. 55/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1996 privind aprobarea unor planuri urbanistice de detaliu pt. constructii definitive amplasate pe domeniul public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/415",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/415/h055_96.pdf",
+     "sha256": "dbcdf81bffd3d49879815a727fcc726ae16a22c5f022a89987d9e598f45a06a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1996",
+   "path": "local/bucuresti/cgmb/1996/56",
+   "short": "HCGMB nr. 56/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1996 privind aprobarea realizarii de blocuri de locuinte pe unele terenuri libere situate in ansambluri de locuinte in Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/416",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/416/h056_96.pdf",
+     "sha256": "873d2afd23d1421c5bf5c9732c8f28ee0c7d6dd14abb200a714326b786e3a607"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-57-1996",
    "path": "local/bucuresti/cgmb/1996/57",
    "short": "HCGMB nr. 57/1996",
@@ -134,6 +1994,171 @@
      "units": 5,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/417/h057_96.pdf",
      "sha256": "bf728d35aa5d3e7f7e15818f3a2f51f891b565c7594f322661124b734a7d6311"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-1996",
+   "path": "local/bucuresti/cgmb/1996/58",
+   "short": "HCGMB nr. 58/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1996 privind modif. HCGMB nr.119/1993 cu privire la indexarea tarifelor de inchiriere pt. suprafete locative cu alta destinatie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/418",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/418/h058_96.pdf",
+     "sha256": "6808c876b738a34e954b92300e39bf1cc08be4134208e46887b6e9e5b6248f82"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-1996",
+   "path": "local/bucuresti/cgmb/1996/59",
+   "short": "HCGMB nr. 59/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1996 privind modif. HCGMB nr.31/25.05.95 pt. efectuarea activitatii de cosarit pe teritoriul mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/419",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/419/h059_96.pdf",
+     "sha256": "d21a3de9c17ed9cc603e594b3c65846374dff0b0ddf280022c854ab2688fcb45"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1996",
+   "path": "local/bucuresti/cgmb/1996/6",
+   "short": "HCGMB nr. 6/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1996 : 6 DIN 25/01/96 - privind aprobarea documentatiei tehnico-economice a investitiei \"Linie de troleibuz pe str.dr.Marinescu, bd.Eroilor Sanitari, Pod Opera si bd.Kogalni ceanu\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/56",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/56/h06_96.pdf",
+     "sha256": "98e4b6a0e76b66fb05207d326b448f9f6580eb86c6dd2152a00349614a8411a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1996",
+   "path": "local/bucuresti/cgmb/1996/60",
+   "short": "HCGMB nr. 60/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1996 privind eliberarea din functie a sefului Corpului Gardienilor Publici",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/420",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/420/h060_96.pdf",
+     "sha256": "6e24addfb1f2e41944032cb7048143e7b94fc9d1d42149d36e345e981e1bd3c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1996",
+   "path": "local/bucuresti/cgmb/1996/61",
+   "short": "HCGMB nr. 61/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea apa sector 2\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/486",
+   "versions": [
+    {
+     "from": "1996-04-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/486/h061_96.pdf",
+     "sha256": "3d7692edfab621ca824a5613fe5fd2cbf9aa56908a04cfdc18d5f2df249bc03d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1996",
+   "path": "local/bucuresti/cgmb/1996/62",
+   "short": "HCGMB nr. 62/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1996 privind aprobarea unor bransamente de gaze naturale in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/487",
+   "versions": [
+    {
+     "from": "1996-04-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/487/h062_96.pdf",
+     "sha256": "bfe20c03860c5a4b7ebb13c1fe97aeba0ab4fd1c1624ba3adf3b66626b8d3709"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-1996",
+   "path": "local/bucuresti/cgmb/1996/63",
+   "short": "HCGMB nr. 63/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/1996 privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul Societatii Comerciale \"SERE VITAN-BA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/488",
+   "versions": [
+    {
+     "from": "1996-04-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/488/h063_96.pdf",
+     "sha256": "c33d35ba8bc4107b4cd337af9b74b560dbbd8d642a29c60fa4051327d0caec6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1996",
+   "path": "local/bucuresti/cgmb/1996/64",
+   "short": "HCGMB nr. 64/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1996 privind construirea si exploatarea unei centrale electrice de termoficare in zona de nord-est a mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/465",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/465/h064_96.pdf",
+     "sha256": "1d66f010f1300034cbfe0408d5270e4db8f3c2103938809865caaf42f611afad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1996",
+   "path": "local/bucuresti/cgmb/1996/65",
+   "short": "HCGMB nr. 65/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1996 privind eliberarea certif. de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul SC \"Monolit\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/489",
+   "versions": [
+    {
+     "from": "1996-04-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/489/h065_96.pdf",
+     "sha256": "688b891ef38d47a243f444b4087e4d94e2f2df4af4ba5e4a1fab8a97f76a665a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1996",
+   "path": "local/bucuresti/cgmb/1996/66",
+   "short": "HCGMB nr. 66/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1996 privind eliberarea certif. de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul SC \"Apolodor\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/490",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/490/h066_96.pdf",
+     "sha256": "cc29debbe4549476237abe6db7e6e26cfed20454f91166663d9f4de54cfaa007"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1996",
+   "path": "local/bucuresti/cgmb/1996/67",
+   "short": "HCGMB nr. 67/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/588",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/588/h067_96.pdf",
+     "sha256": "af525538a323d52e5c0e064bec4adaff61b6adedf8534c31f102398966e3e30c"
     }
    ]
   },
@@ -168,6 +2193,336 @@
    ]
   },
   {
+   "slug": "hcgmb-7-1996",
+   "path": "local/bucuresti/cgmb/1996/7",
+   "short": "HCGMB nr. 7/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1996 : 7 DIN 25/01/96 - priv.aprobarea documentatei tehnico-economice a investitiei \"Centrala ter mica la autobaza Pipera si optimizarea instalatiilor de apa potabila si indu striala\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/61",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/61/h07_96.pdf",
+     "sha256": "6d0dbec63c46d817d51db82dfe2816166c06dc589fb84b33d0584795cb4f1882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1996",
+   "path": "local/bucuresti/cgmb/1996/70",
+   "short": "HCGMB nr. 70/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1996 privind infiintarea Administratiei ECODEP",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/466",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/466/h070_96.pdf",
+     "sha256": "a39a95ed9e9557c3ef1c409ac54c3bb1d6410d85d42bd039b8cd0052944e3397"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1996",
+   "path": "local/bucuresti/cgmb/1996/71",
+   "short": "HCGMB nr. 71/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1996 privind completarea masurilor pentru reorganizarea activitatii de salubrizare in mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/467",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/467/h071_96.pdf",
+     "sha256": "2af24219796da1855f875356abb87e4994cf65c846b3e43c572590db3aa07e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1996",
+   "path": "local/bucuresti/cgmb/1996/72",
+   "short": "HCGMB nr. 72/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1996 privind actiunule ce trebuiesc desfasurate pentru declansarea campaniei de igienizare a municipiului Bucuresti si zonelor adiacente din SAI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/491",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/491/h072_96.pdf",
+     "sha256": "77c81471852bde729aa681ccc009798fcfc7c7e113691ec0eadb14fc1cdd30fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1996",
+   "path": "local/bucuresti/cgmb/1996/73",
+   "short": "HCGMB nr. 73/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1996 privind asocierea CLMB cu firma SATER PARACHINI pentru realizarea si exploatarea unui depozit ecologic de deseuri urbane in comuna Bragadiru",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/593",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/593/h073_96.pdf",
+     "sha256": "124bae0d695db4474bcf91931411d2bd5ff62b04cef2cd8ac3dee9298858652a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1996",
+   "path": "local/bucuresti/cgmb/1996/74",
+   "short": "HCGMB nr. 74/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1996 privind continuarea de administrare si vanzare a fondului imobiliar al CLMB si organizarea pe principii economice a acestor activitati in viitor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/492",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/492/h074_96.pdf",
+     "sha256": "59594b23614b170d5a6db6cde3ae4b97b10f5c4139f3b748412cc49b3039b41a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1996",
+   "path": "local/bucuresti/cgmb/1996/75",
+   "short": "HCGMB nr. 75/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1996 privind cresterea, intretinerea si circulatia animalelor in Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/493",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/493/h075_96.pdf",
+     "sha256": "8ddfc9c56c6741a87a19db3d7cb96ecd86b27e16723ab10afc1506b5201335e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1996",
+   "path": "local/bucuresti/cgmb/1996/76",
+   "short": "HCGMB nr. 76/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1996 privind modificarea anexei la HCLMB nr. 56/27.07.1995 privind aprobarea socierii cu ROMEL PRODSERV SRL (ERGOTEX)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/494",
+   "versions": [
+    {
+     "from": "1996-05-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/494/h076_96.pdf",
+     "sha256": "c19e1b59571dd63184488ae7b815f3a62e4f30414120814e2dbd1226f77a6192"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-1996",
+   "path": "local/bucuresti/cgmb/1996/77",
+   "short": "HCGMB nr. 77/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1996 privind vinzarea prin licitatie publica a unui bloc de locuinte confort III, apartinind domeniului privat al CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/495",
+   "versions": [
+    {
+     "from": "1996-05-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/495/h077_96.pdf",
+     "sha256": "610b937655780b2ba918806882a1d71089ff99aa87a20e4224a5095b26187be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1996",
+   "path": "local/bucuresti/cgmb/1996/78",
+   "short": "HCGMB nr. 78/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1996 privind declansarea procedurii de suspendare din functie a unor consilieri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/496",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/496/h078_96.pdf",
+     "sha256": "52365bafefc23405bfbf19f496560d1d7e480bc6c7ad3029e4cc5fe645b9f334"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1996",
+   "path": "local/bucuresti/cgmb/1996/79",
+   "short": "HCGMB nr. 79/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1996 privind aprobarea bilantului contabil si contului de profit si pierderi la 31 Decembrie 1995 al RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/468",
+   "versions": [
+    {
+     "from": "1996-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/468/h079_96.pdf",
+     "sha256": "ce93c5bf28f446f609a10a8795a0a94720580403878ce6a81431596ca04f9f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1996",
+   "path": "local/bucuresti/cgmb/1996/8",
+   "short": "HCGMB nr. 8/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1996 : 8 DIN 25/01/96 priv.aprob.docum.tehnico-economice a investitiei \"Linie de tramvai pe cal .13 Sept.,str.Izvor, str.B.P.Hasdeu,str.V.Parvan,intre str.Progresul si cal. Plevnei\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/66",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/66/h08_96.pdf",
+     "sha256": "39030ea05ba8778e39d7ab1ad7c9838d924060d053f3ba00544ffcb0276be6c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-1996",
+   "path": "local/bucuresti/cgmb/1996/80",
+   "short": "HCGMB nr. 80/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1996 privind aprobarea bilantului contabil si contului de profit si pierderi la 31 dec. 1995 al regiei DRUPO",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/497",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/497/h080_96.pdf",
+     "sha256": "e5f64472b34759175fc85c8acf5609484ff3ed5c26f8b906d5134fa76ffd4046"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1996",
+   "path": "local/bucuresti/cgmb/1996/81",
+   "short": "HCGMB nr. 81/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1996 privind aprobarea bilantului contabil si contului de profit si pierderi la 31 Decembrie 1995 al RATB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/469",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/469/h081_96.pdf",
+     "sha256": "c3b99d1a604a0a285baf29f8e03c84b5fbcfa51ed01633bf84a034646beeb533"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1996",
+   "path": "local/bucuresti/cgmb/1996/82",
+   "short": "HCGMB nr. 82/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1996 privind aprobarea bilantului contabil si contului de profit si pierderi la 31 Decembrie al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/470",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/470/h082_96.pdf",
+     "sha256": "3d9e3287486aeec9438b420a05c519d22ca9257b953f090de27c7b4f477168aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1996",
+   "path": "local/bucuresti/cgmb/1996/83",
+   "short": "HCGMB nr. 83/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/471",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/471/h083_96.pdf",
+     "sha256": "3be3207b59afe5592ddab014cfde94f76cf3878fc6a29b8273c6d6121b352754"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1996",
+   "path": "local/bucuresti/cgmb/1996/84",
+   "short": "HCGMB nr. 84/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1996 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al orasului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/472",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/472/h084_96.pdf",
+     "sha256": "2b566ab43a02bb8e3918dba3c68c1b4659b0c9b9e09b8f6a1426d34383f63c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1996",
+   "path": "local/bucuresti/cgmb/1996/85",
+   "short": "HCGMB nr. 85/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1996 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii pe domeniul public al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/473",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/473/h085_96.pdf",
+     "sha256": "50491d98e0e7792b8980b3aa26fe0678142559e13f131f34f8f0a9ee4c692239"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1996",
+   "path": "local/bucuresti/cgmb/1996/86",
+   "short": "HCGMB nr. 86/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1996 privind aprobarea unor planuri urbanistice de detaliu pentru constructii provizorii pe domeniul privat/public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/474",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/474/h086_96.pdf",
+     "sha256": "ac94bbbca22c3dee17a00db4945ebc4bdb44e487a0408d4a5e5f6064e2173082"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1996",
+   "path": "local/bucuresti/cgmb/1996/87",
+   "short": "HCGMB nr. 87/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1996 ANULATA PRIN SENTINTA CIVILA NR.29/29.10.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1231",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1231/h087_96.pdf",
+     "sha256": "faafc2da728e219ff4cdc317196948df18c51fff21de7339cda1d3197f6473b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1996",
+   "path": "local/bucuresti/cgmb/1996/88",
+   "short": "HCGMB nr. 88/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1996 privind aprobarea \"Strategiei de reabilitare si extindere a instalatiilor de alimentare cu apa si canalizare din mun. Bucuresti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/475",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/475/h088_96.pdf",
+     "sha256": "dc2e3ccbc0957593076026dd525a566604599a36d483413293cebe4fb773fea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-1996",
+   "path": "local/bucuresti/cgmb/1996/89",
+   "short": "HCGMB nr. 89/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/1996 ANULATA PRIN SENTINTA CIVILA NR.717/15.07.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1232",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/1232/h089_96.pdf",
+     "sha256": "fd17c099e7a3200553d4f32b3d44559f5006d94445fc8e37c4a130c016dc64c5"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-9-1996",
    "path": "local/bucuresti/cgmb/1996/9",
    "short": "HCGMB nr. 9/1996",
@@ -179,6 +2534,156 @@
      "units": 5,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/71/h09_96.pdf",
      "sha256": "f262d6be695af99c332b802e28dfd0c48ad019efcc62c80c317828e5e7623c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-1996",
+   "path": "local/bucuresti/cgmb/1996/90",
+   "short": "HCGMB nr. 90/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/1996 privind aprobarea indicatorilor tehnico-economici pt. unele obiective de investitii (amplasari, reamplasari, restaurari si reconstituiri ale unor monu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/476",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/476/h090_96.pdf",
+     "sha256": "926b9ace83cc09eface2f3c0468a5a7724f3fd6c2b56f61be72c8e57798ca387"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-1996",
+   "path": "local/bucuresti/cgmb/1996/91",
+   "short": "HCGMB nr. 91/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/1996 PRIVIND INFIINTAREA CENTRULUI DE PROIECTE CULTURALE AL MUN. BUCURESTI ART. NR. 2 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 287/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/477",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/477/h091_96.pdf",
+     "sha256": "21834d1b4e00953892b2c0a0f8b7b60789366a0b8f8925e175a0c14ee256ac35"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-1996",
+   "path": "local/bucuresti/cgmb/1996/92",
+   "short": "HCGMB nr. 92/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/478",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/478/h092_96.pdf",
+     "sha256": "e7453d138c24abfc3b0344d571635a26df76e49f70c01aafd1985d51d9f74d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1996",
+   "path": "local/bucuresti/cgmb/1996/93",
+   "short": "HCGMB nr. 93/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1996 privind reorganizarea Regiei \"DRUPO\" in societate comerciala pe actiuni",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/479",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/479/h093_96.pdf",
+     "sha256": "f3fae7e13e4f921a98004317efbb7a1ffc6f27e9b7d9990ec31689cd2ce2bd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1996",
+   "path": "local/bucuresti/cgmb/1996/94",
+   "short": "HCGMB nr. 94/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1996 privind atribuirea, in folosinta gratuita, a unui teren Asociatiei Generale a Economistilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/480",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/480/h094_96.pdf",
+     "sha256": "beae397c6bec57592bc4ea6834cfd1a454d15adc780fc039404185dce6644296"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1996",
+   "path": "local/bucuresti/cgmb/1996/95",
+   "short": "HCGMB nr. 95/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1996 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/481",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/481/h095_96.pdf",
+     "sha256": "77ecf6c1ad1ecc5542f078d0d6985a4e80d675fbd30bd423ab2bef66c31fdc9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1996",
+   "path": "local/bucuresti/cgmb/1996/96",
+   "short": "HCGMB nr. 96/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1996 privind aprobarea docum ale investitiilor:\"Inlocuire conducta Vacaresti-Splaiul Unirii\"; \"Inlocuire conducta Dudesti-Calarasi si Lizeanu-Stefan cel Ma",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/482",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/482/h096_96.pdf",
+     "sha256": "1d1e7ec5367c80bb3ae131601e39cd8fb7d562d9851426e341e7ca81215604d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1996",
+   "path": "local/bucuresti/cgmb/1996/97",
+   "short": "HCGMB nr. 97/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1996 privind aprobarea documentatiei tehnico-economice a investitiei \"Evacuare ape uzate din canale termice\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/483",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/483/h097_96.pdf",
+     "sha256": "ad1da8b18b9bb05f5ccf57f387fa4f2a0cbab88329950ea5b8d8cc2181eee6d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1996",
+   "path": "local/bucuresti/cgmb/1996/98",
+   "short": "HCGMB nr. 98/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1996 privind aprobarea docum tehnico-ec. a investitiilor:\"Inlociure conducta apa potabila Colentina-LAcul TEI\"; Titan-Pta Minis; Splaiul Unirii; B-dul Caro",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/484",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/484/h098_96.pdf",
+     "sha256": "2d7daa8c353a9cd3327cc03706d4957578ef5cc9c0d7809aca6151cc918ffd8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1996",
+   "path": "local/bucuresti/cgmb/1996/99",
+   "short": "HCGMB nr. 99/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1996 privind aprobarea documentatiilor tehnico-economice a investitiilor: \"Modernizarea PT A gara, PT D3 Gara, PT 3-11 Duca\", PT 1 si PT2 Tineretului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/485",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/485/h099_96.pdf",
+     "sha256": "f9fa366a3c34357e6a021119c041c76c8ae83a9c615c3887d977ed9cadc1f368"
     }
    ]
   }

@@ -60,6 +60,25 @@
 "joint": []
 },
 {
+"slug": "norma-economie-4225-1993",
+"path": "norma/economie/1993/4225",
+"kind": "norma",
+"year": "1993",
+"number": "4225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 4.225/1993 de aplicare a prevederilor Hotărîrii Guvernului nr. 148 din 12 aprilie 1993 cu privire la încasările în valuta din operațiunile cu străinătatea",
+"short": "Norma economie nr. 4225/1993",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1993-06-17",
+"latest": "1993-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3744",
+"issuer": "economie",
+"joint": []
+},
+{
 "slug": "norma-finante-4225-1993",
 "path": "norma/finante/1993/4225",
 "kind": "norma",

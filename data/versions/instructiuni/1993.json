@@ -46,6 +46,21 @@
      "sha256": "5767ec88835dc387ef98a7ea5fd052544eac870f09070805842839a741f8c422"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-transporturi-1189-1993",
+   "path": "instructiuni/transporturi/1993/1189",
+   "short": "Instrucțiuni transporturi nr. 1189/1993",
+   "title": "Instrucțiunile nr. 1.189/1993 de aplicare a Hotărârii Guvernului nr. 610/1992 privind cartea de identitate a vehiculului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3730",
+   "versions": [
+    {
+     "from": "1993-05-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3730",
+     "sha256": "67b0fb448517322c8ed53389313612e9c2da541c44825fdb4b6cbbedd464a925"
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,36 @@
  "shard": "local/bucuresti/cgmb/1992",
  "acts": [
   {
+   "slug": "hcgmb-10-1992",
+   "path": "local/bucuresti/cgmb/1992/10",
+   "short": "HCGMB nr. 10/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1992 : 10 DIN 02/04/92 - privind sistarea licitatiilor organizate de \"IMOBILIARA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/72",
+   "versions": [
+    {
+     "from": "1992-04-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/72/h010_92.pdf",
+     "sha256": "2ae6a815883caf7415eb1dfaebdfa38c40d339dea94069e39e3a76c31ff24ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-1992",
+   "path": "local/bucuresti/cgmb/1992/11",
+   "short": "HCGMB nr. 11/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1992 : 11 DIN 02/04/92 - privind stabilirea indemnizatiei pentru participarea consilierilor la sedintele Consiliului local si ale Comisiilor de specialitate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/77",
+   "versions": [
+    {
+     "from": "1992-04-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/77/h011_92.pdf",
+     "sha256": "2cd9136535892355b3c18dc8b692fd0f3a0bbaa7a256f8055650eafe8c00bfb1"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-12-1992",
    "path": "local/bucuresti/cgmb/1992/12",
    "short": "HCGMB nr. 12/1992",
@@ -18,6 +48,81 @@
    ]
   },
   {
+   "slug": "hcgmb-13-1992",
+   "path": "local/bucuresti/cgmb/1992/13",
+   "short": "HCGMB nr. 13/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/86",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/86/h013_92.pdf",
+     "sha256": "f87bc1c19f99adc6c30cc01001766ab61a3bcacd6dda764cf96e1e8c4a0e365f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-1992",
+   "path": "local/bucuresti/cgmb/1992/14",
+   "short": "HCGMB nr. 14/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/90",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/90/h014_92.pdf",
+     "sha256": "e7ff5eefb513dfecf5a5dfc357b819004c16a5fe683b9c5c1a276adc78dc4ba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-1992",
+   "path": "local/bucuresti/cgmb/1992/15",
+   "short": "HCGMB nr. 15/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/94",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/94/h015_92.pdf",
+     "sha256": "26a708d59736bfa8f9c5ec8a59abee88605e6f32935ce01b29c8e2988a168382"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1992",
+   "path": "local/bucuresti/cgmb/1992/16",
+   "short": "HCGMB nr. 16/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1992 : 16 DIN 04/06/92 - privind aprobarea bugetului local pe anul 1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/98",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/98/h016_92.pdf",
+     "sha256": "71b847bbcf0d12bca6b499237eb03fadbbe96aca8fcb6dc77a6201e4503e364c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1992",
+   "path": "local/bucuresti/cgmb/1992/17",
+   "short": "HCGMB nr. 17/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1992 : 17 DIN 04/06/92 - privind constituirea Comisiei municipale pentru protectia antiseismica a constructiilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/102",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/102/h017_92.pdf",
+     "sha256": "4a272059318814e6da2eaed9843090d5a83d273909c6a673102ea7f29213b1dc"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-18-1992",
    "path": "local/bucuresti/cgmb/1992/18",
    "short": "HCGMB nr. 18/1992",
@@ -29,6 +134,81 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/106/h018_92.pdf",
      "sha256": "88c420ef6084abc29839355ff100489f175f098ccc59b7581afc1791c61a9fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1992",
+   "path": "local/bucuresti/cgmb/1992/19",
+   "short": "HCGMB nr. 19/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1992 : 19 DIN 04/06/92 - privind prelung.contract.de inchiriere pt.spatiile detinute de unele categ.de pers.fizice si juridice care desf.activit.de utilit. publica",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/110",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/110/h019_92.pdf",
+     "sha256": "f970f322dc09e8e5f07d72675cc108f6af1615811e6e0586d14a01a667b0bf8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1992",
+   "path": "local/bucuresti/cgmb/1992/20",
+   "short": "HCGMB nr. 20/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/114",
+   "versions": [
+    {
+     "from": "1992-06-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/114/h020_92.pdf",
+     "sha256": "23a34edcb32c5b308807ac67ec6f8f285ff18d44bfcff545f0934028f7fa6efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1992",
+   "path": "local/bucuresti/cgmb/1992/21",
+   "short": "HCGMB nr. 21/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1992 : 21 DIN 18/06/92 - privind infiintarea Teatrului Roman - American \"Eugene ONeill\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/118",
+   "versions": [
+    {
+     "from": "1992-06-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/118/h021_92.pdf",
+     "sha256": "873ca32a84623b8961ad06800f59682db63ec76f9d9e752db40fbd675a2fb886"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1992",
+   "path": "local/bucuresti/cgmb/1992/22",
+   "short": "HCGMB nr. 22/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/122",
+   "versions": [
+    {
+     "from": "1992-06-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/122/h022_92.pdf",
+     "sha256": "df5e7def058271b26fd2997c16c33d9826496c428d924d5292c8d6f1207eedd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1992",
+   "path": "local/bucuresti/cgmb/1992/23",
+   "short": "HCGMB nr. 23/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1992 : 23 DIN 25/06/92 - privind inlocuirea unor membri ai Consiliului imputernicit. statului al Societ.Com. \"TAXI GLUCOZA\" - S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/126",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/126/h023_92.pdf",
+     "sha256": "ea3a24fe22414edb8db3eacb01fd21b8298eefe97f797b08d87810a1886e5373"
     }
    ]
   },
@@ -63,6 +243,51 @@
    ]
   },
   {
+   "slug": "hcgmb-26-1992",
+   "path": "local/bucuresti/cgmb/1992/26",
+   "short": "HCGMB nr. 26/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1992 : 26 DIN 25/06/92 - privind aderarea CLMB la Asoc.Internat. a Primariilor si Responsabil. Capitalelor si Metropol.Partial sau Total Francofone",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/138",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/138/h026_92.pdf",
+     "sha256": "edbe1d42c1fe835592389b53e695905b40e8c266bad5971d75bdc1e3afed6a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1992",
+   "path": "local/bucuresti/cgmb/1992/27",
+   "short": "HCGMB nr. 27/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1992 : 27 DIN 25/06/92 - privind constituirea unei comisii de ancheta",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/141",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/141/h027_92.pdf",
+     "sha256": "8b4607e514f35bd09e55c6cc2a740a6d095536b19926fd646498ac7b973bd532"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1992",
+   "path": "local/bucuresti/cgmb/1992/28",
+   "short": "HCGMB nr. 28/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1992 : 28 DIN 25/06/92 - privind suplimentarea schemei de personal a Secretariatului CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/145",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/145/h028_92.pdf",
+     "sha256": "982ad82088eb07cb40e8df3e11c888669ba74441804cefd31b47f8c54a48e234"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-29-1992",
    "path": "local/bucuresti/cgmb/1992/29",
    "short": "HCGMB nr. 29/1992",
@@ -74,6 +299,456 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/149/h029_92.pdf",
      "sha256": "8e582175fb0966a93d2576b850f5969695332dfdc7beb5d47f65137980995c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1992",
+   "path": "local/bucuresti/cgmb/1992/3",
+   "short": "HCGMB nr. 3/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1992 : 3 DIN 28/02/92 - privind constituirea Consiliului local al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/37",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/37/h03_92.pdf",
+     "sha256": "ea54f05e64ef3d072da70b2dc4a94f4ec9f19485a016e84c25018d2462d4c801"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1992",
+   "path": "local/bucuresti/cgmb/1992/30",
+   "short": "HCGMB nr. 30/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1992 : 30 DIN 23/07/92 - privind modul de asociere cu agenti economici pentru realizarea si exploatarea unor lucrari de interes comun",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/153",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/153/h030_92.pdf",
+     "sha256": "5fa5148857d81808df0a392845be6f7addd161cc92049795b8622e7378535a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1992",
+   "path": "local/bucuresti/cgmb/1992/31",
+   "short": "HCGMB nr. 31/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1992 : 31 DIN 23/07/92 - privind asig. cu mater.dendrologice a spatiilor verzi si asig. intret. masei arboricole din Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/157",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/157/h031_92.pdf",
+     "sha256": "bcdf96c36b4cbd76fc6eae55d42bf42497afbc2a3ea03a97a1702b6140cecb96"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1992",
+   "path": "local/bucuresti/cgmb/1992/32",
+   "short": "HCGMB nr. 32/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1992 : 32 DIN 23/07/92 - privind atribuirea in folosinta gratuita a unor imobile Ministerului de Interne",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/161",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/161/h032_92.pdf",
+     "sha256": "e7b5bc55e9915d7f28dc6c44a7359433c4dcc6520c0070a0c9daf96e0c8360f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1992",
+   "path": "local/bucuresti/cgmb/1992/33",
+   "short": "HCGMB nr. 33/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1992 : 33 DIN 23/07/92 - privind reglementarea unor raporturi dintre asociatiile de locatari si Consiliile locale municipale si de sectoare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/165",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/165/h033_92.pdf",
+     "sha256": "1dc2ed1bc2f10c4f3c7303e8e5db479e806c64b0c8b25e0ea77122c243f52484"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1992",
+   "path": "local/bucuresti/cgmb/1992/35",
+   "short": "HCGMB nr. 35/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/172",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/172/h035_92.pdf",
+     "sha256": "2630b963659f6c244a257a772a52cfec892add986dc40e8f2a1acf7f729a051a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1992",
+   "path": "local/bucuresti/cgmb/1992/36",
+   "short": "HCGMB nr. 36/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1992 : 36 DIN 23/07/92 - privind constituirea unei comisii de ancheta",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/176",
+   "versions": [
+    {
+     "from": "1992-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/176/h036_92.pdf",
+     "sha256": "7d31e33d3665d35edf7454a672847d1965cc10054a1cb233c1626c3d62370000"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1992",
+   "path": "local/bucuresti/cgmb/1992/37",
+   "short": "HCGMB nr. 37/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1992 : 37 DIN 30/07/92 - privind procedura si revocarea membrilor Consiliilor de adm.a regiilor autonom.si a membr.Consil.imput.de la Soc.Com.de interes local",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/180",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/180/h037_92.pdf",
+     "sha256": "7d525ee83ab357a3cd8483ce23360e468291596ec94eabe1b8ba567522af9b20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1992",
+   "path": "local/bucuresti/cgmb/1992/38",
+   "short": "HCGMB nr. 38/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/184",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/184/h038_92.pdf",
+     "sha256": "66d13848b7ebce147f3f9acf25a698d927b2764f5dc3e55f7cc45143f2dbe14a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1992",
+   "path": "local/bucuresti/cgmb/1992/39",
+   "short": "HCGMB nr. 39/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1992 : 39 DIN 30/07/92 - privind infiintarea Societatii mixte \"GEKO ENGINEERING ROMANIA\" S.R.L",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/188",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/188/h039_92.pdf",
+     "sha256": "1a8d7621853a8ec1935f21b564f734dfdd5590e2ca63371454b41e211754d1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1992",
+   "path": "local/bucuresti/cgmb/1992/4",
+   "short": "HCGMB nr. 4/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1992 : 4 DIN 04/03/92 - privind validarea mandatelor unor consilieri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42",
+   "versions": [
+    {
+     "from": "1992-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/42/h04_92.pdf",
+     "sha256": "43d4c0524f09e3ca7e5c3b9a6bf064e4c0727df90b8dbfc8c34adf41acddfc3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1992",
+   "path": "local/bucuresti/cgmb/1992/40",
+   "short": "HCGMB nr. 40/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1992 : 40 DIN 30/07/92 - privind atribuirea in folos. Ligii Romane pt. Sanatate Mintala a imobilului, corp B, situat in str.Sirenelor 67,sect.5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/192",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/192/h040_92.pdf",
+     "sha256": "c7246ff4fbb1ba15c42dc0d7bb079222f0e12e386e0a57a89f4e7ce859e0d118"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1992",
+   "path": "local/bucuresti/cgmb/1992/41",
+   "short": "HCGMB nr. 41/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1992 : 41 DIN 30/07/92 - privind aprobarea extinderii activit. Centrului de primire minori ai municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/196",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/196/h041_92.pdf",
+     "sha256": "e82db8ebadf6076f1801a5fc7c9e028111f5f81b1e3af78655628a71658e6d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1992",
+   "path": "local/bucuresti/cgmb/1992/42",
+   "short": "HCGMB nr. 42/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1992 : 42 DIN 30/07/92 - privind participarea CLMB la constituirea Bursei Romane de Marfuri si valori",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/200",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/200/h042_92.pdf",
+     "sha256": "9430c836bc5e73f8f9674449040a53a3fb1e54911a8cf4837abff034ede1673e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1992",
+   "path": "local/bucuresti/cgmb/1992/43",
+   "short": "HCGMB nr. 43/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1992 : 43 DIN 30/07/92 - privind numirea provizorie a Consiliului de Administratie al Regiei autonome \"RADET\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/204",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/204/h043_92.pdf",
+     "sha256": "996807df9b39f0ca147020be2c26b38b846cfb8b7b6636db636fe4c8470e8f1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1992",
+   "path": "local/bucuresti/cgmb/1992/44",
+   "short": "HCGMB nr. 44/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1992 : 44 DIN 30/07/92 - privind cumpararea partilor sociale detinute de \"Federalcoop\" la Soc. com. romano-franceza \"Centrul de Comert Internat.-Buc.\" S.R.L",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/208",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/208/h044_92.pdf",
+     "sha256": "7ddeb10d237141dbfb7d4968668215d5f65b50808723ff30b253c8ebbe465b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1992",
+   "path": "local/bucuresti/cgmb/1992/45",
+   "short": "HCGMB nr. 45/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1992 ANULATA PRIN SENTINTA CIVILA NR.271/18.11.1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1237",
+   "versions": [
+    {
+     "from": "1992-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/1237/h045_92.pdf",
+     "sha256": "929f39d81e692fbfb7dc3ca00fee1112127f12ab4dda22cb135681e8d5748a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1992",
+   "path": "local/bucuresti/cgmb/1992/46",
+   "short": "HCGMB nr. 46/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1992 : 46 DIN 13/08/92 - privind numirea provizorie a Consiliului de administratie al Regiei Autonome \"RADET\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/215",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/215/h046_92.pdf",
+     "sha256": "5494e49e221218666290e79951ef3a58225f2d8219cd9b67fdeac0ade63055cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1992",
+   "path": "local/bucuresti/cgmb/1992/47",
+   "short": "HCGMB nr. 47/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1992 : 47 DIN 13/08/92 - privind modul de aprob.a document.de urbanism si amenajare a terit. a studiilor de urbanism si a investitiilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/219",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/219/h047_92.pdf",
+     "sha256": "7b3d88a276e063cf8d2ac26bcd1ef5650e833a2c8ff9626559adccb2bd9bdb40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1992",
+   "path": "local/bucuresti/cgmb/1992/48",
+   "short": "HCGMB nr. 48/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1992 : 48 DIN 13/08/92 - privind organizarea sarbatoririi a 300 de ani de la inaugurarea Podului Mogosoaia - Calea Victoriei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/223",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/223/h048_92.pdf",
+     "sha256": "29ef63535325d9dec49ca8c437bcdd775dcba661de68e7e9f9c404ceb6f23b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-1992",
+   "path": "local/bucuresti/cgmb/1992/49",
+   "short": "HCGMB nr. 49/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/1992 : 49 DIN 11/09/92 - privind majorarea numarului membrilor Consiliului de administratie al RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/227",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/227/h049_92.pdf",
+     "sha256": "bda19d06f406bb037e3fac16cac6053d9bcedc4927635e692fbe1e27c74b0565"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1992",
+   "path": "local/bucuresti/cgmb/1992/5",
+   "short": "HCGMB nr. 5/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1992 : 5 DIN 04/03/92 - privind alegerea viceprimarilor Capitalei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47",
+   "versions": [
+    {
+     "from": "1992-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/47/h05_92.pdf",
+     "sha256": "99082ae06fb48bf854015af0d96f21665ab0eae1f86683c53e0af61313e367ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1992",
+   "path": "local/bucuresti/cgmb/1992/50",
+   "short": "HCGMB nr. 50/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1992 : 50 DIN 11/09/92 - privind modificarea Hotararii Consiliului local al municipiului Bucuresti nr.46/13 august 1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/231",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/231/h050_92.pdf",
+     "sha256": "ed49633fcbb1882c3c1b8161e4c0f97697c16b22490480721f606164cefbef73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1992",
+   "path": "local/bucuresti/cgmb/1992/51",
+   "short": "HCGMB nr. 51/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1992 : 51 DIN 11/09/92 - privind aprobarea participarii CLMB in calitate de membru fondator al Fundatiei Romane de ajutor umanitar \"MIHAI VITEAZUL\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/235",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/235/h051_92.pdf",
+     "sha256": "4f6a902357998e760db98a1ef582e473da1b07f032c03985f2145b0d38075b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1992",
+   "path": "local/bucuresti/cgmb/1992/52",
+   "short": "HCGMB nr. 52/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1992 : 52 DIN 11/09/92 - privind aprob.stud.urbanistic pt.realiz. unui monument arhitect.dedic. Eroilor Revolutiei din decembr.1989, in Piata \"21 Decembrie\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/239",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/239/h052_92.pdf",
+     "sha256": "01748518d360241700e4ec4484fb09b682ed401428ffeb2605ef7e0f4a46cacd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1992",
+   "path": "local/bucuresti/cgmb/1992/53",
+   "short": "HCGMB nr. 53/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1992 : 53 DIN 11/09/92 - privind reglement.modului de atribuire, fara licitatie, a spatiilor cu alta destinatie decat loc., catre pers.indreptat., conf.Legii nr.42 /1990",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/243",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/243/h053_92.pdf",
+     "sha256": "a1b1a3612c6dcce0a026e4e5b378f35d036fce17a2e8e617497c411acef81dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1992",
+   "path": "local/bucuresti/cgmb/1992/54",
+   "short": "HCGMB nr. 54/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1992 : 54 DIN 11/09/92 - privind anularea deciziei fostului Consiliu de Adm. al PMB din 21 iun. 1990 referit. la imobil.107 si 108 din strapungerea Mihai Voda",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/247",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/247/h054_92.pdf",
+     "sha256": "d6812ef66bfdbd2401f8d7ac49678d0b50bad37d8239b6c39a69bb4076f6d98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1992",
+   "path": "local/bucuresti/cgmb/1992/55",
+   "short": "HCGMB nr. 55/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1992 : 55 DIN 11/09/92 - privind modificarea hotararii CLMB nr.11 din 02.04.1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/251",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/251/h055_92.pdf",
+     "sha256": "9487b4d6df38e62a6dc296d17964f4cab30ca4ad914ab13f84421601c64328c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1992",
+   "path": "local/bucuresti/cgmb/1992/56",
+   "short": "HCGMB nr. 56/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1992 : 56 DIN 21/09/92 privind imprimarea simbolului heraldic al mun. Bucuresti pe toate actele si documentele CLMB precum si inscriptionarea acestuia pe alte obiective de interes municipal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/255",
+   "versions": [
+    {
+     "from": "1992-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/255/h056_92.pdf",
+     "sha256": "f3e9e80722aab63605a6b27750747a145d46c24e565943824d9237a0a9d95403"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1992",
+   "path": "local/bucuresti/cgmb/1992/57",
+   "short": "HCGMB nr. 57/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1992 : 57 DIN 29/10/92 - privind modificarea Hotararii nr.55/11.09.1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/259",
+   "versions": [
+    {
+     "from": "1992-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/259/h057_92.pdf",
+     "sha256": "69561373a370eb53c1d498cdac2f7dbf344b7d3fc58ef66d7ae18104c41bb7d3"
     }
    ]
   },
@@ -93,6 +768,156 @@
    ]
   },
   {
+   "slug": "hcgmb-59-1992",
+   "path": "local/bucuresti/cgmb/1992/59",
+   "short": "HCGMB nr. 59/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1992 : 59 DIN 05/11/92 - privind rectificarea bugetului local al municipiului Bucuresti, pe anul 1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/267",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/267/h059_92.pdf",
+     "sha256": "b632148c1778a24b83d2a7a52c78276ac6f38cce7afad41e26093ae454d06419"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1992",
+   "path": "local/bucuresti/cgmb/1992/6",
+   "short": "HCGMB nr. 6/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1992 : 6 DIN 10/03/92 - privind alegerea Comisiilor pe domenii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/52",
+   "versions": [
+    {
+     "from": "1992-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/52/h06_92.pdf",
+     "sha256": "d88bcc331d685a72dad4856667b3c0e59ba6e1690c46e9ef8219629ee58d57aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1992",
+   "path": "local/bucuresti/cgmb/1992/60",
+   "short": "HCGMB nr. 60/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1992 : 60 DIN 05/11/92 privind validarea hotaririi subcomisiei de examinare a propunerilor de numire a imputernicitilor mandatati sa reprezinte interesele capitalului de stat la SC \"Administrare-cazare-cantina\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/271",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/271/h060_92.pdf",
+     "sha256": "81034fcc9c366521b3500695687b111263373adfe7d04390285f708c44d5a3d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1992",
+   "path": "local/bucuresti/cgmb/1992/61",
+   "short": "HCGMB nr. 61/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1992 : 61 DIN 05/11/92 - privind oferta de donatie facuta municipiului Bucuresti de sotii Ligia si Pompiliu Macovei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/274",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/274/h061_92.pdf",
+     "sha256": "398aea821c21e9ba30fcaccb10e0c3b84b3bdb993b50dd966bb26ba99e614a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1992",
+   "path": "local/bucuresti/cgmb/1992/62",
+   "short": "HCGMB nr. 62/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1992 : 62 DIN 05/11/92 - privind aprobarea infiintarii colectiei \"Costin Petrescu\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/278",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/278/h062_92.pdf",
+     "sha256": "dcb2cbff8e56020df471542554b487a8da15c5cea59a340a3ef7943a0c917029"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-1992",
+   "path": "local/bucuresti/cgmb/1992/63",
+   "short": "HCGMB nr. 63/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/1992 : 63 DIN 05/11/92 - privind infiintarea Soc.com.\"PRORET\" SA prin desprind.subunit. \"Ateliere Centrale\" din cadrul soc.com.\"COREX-COMP\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/282",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/282/h063_92.pdf",
+     "sha256": "4196133eefe4d0928ca4f330da042aafd7ac6a2488ef958b58738bb47cb4940c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1992",
+   "path": "local/bucuresti/cgmb/1992/64",
+   "short": "HCGMB nr. 64/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1992 : 64 DIN 19/11/92 - privind darea in folos.gratuita catre Asociat.pt.cinst.eroi.martiri ai Rev.din dec.89,a supraf.de 1798 mp situat in Cal.Serban Voda nr. 237,s ect.4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/286",
+   "versions": [
+    {
+     "from": "1992-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/286/h064_92.pdf",
+     "sha256": "e8f4a5616ef47611a88345fa85a045f851f8572bfd234316a504e665c1e8fe2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1992",
+   "path": "local/bucuresti/cgmb/1992/65",
+   "short": "HCGMB nr. 65/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/290",
+   "versions": [
+    {
+     "from": "1992-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/290/h065_92.pdf",
+     "sha256": "ea3fc8dfaa1d7fbd739441e2f4c65e36d9b8f97e9f0aab1bc5e0a6f828d50a00"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1992",
+   "path": "local/bucuresti/cgmb/1992/66",
+   "short": "HCGMB nr. 66/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1992 : 66 DIN 19/11/92 - privind reorganizarea unor comisii ale Consiliului local al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/294",
+   "versions": [
+    {
+     "from": "1992-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/294/h066_92.pdf",
+     "sha256": "35d88e5cf26f98b7d46de8a60d2f12b014dbbd4d8a928c0aceb0e9f22adf1f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1992",
+   "path": "local/bucuresti/cgmb/1992/67",
+   "short": "HCGMB nr. 67/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1992 : 67 DIN 19/11/92 - privind retrag.drept.de folos.al Camerei de Comert si Ind.a Romaniei asupra teren.cu supraf. de 5,5 Ha si 2,74 Ha",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/297",
+   "versions": [
+    {
+     "from": "1992-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/297/h067_92.pdf",
+     "sha256": "d8a0a4e400ea59636a097cb4afb6878b6fcfffa53ce9343ea057e31173c65de6"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-68-1992",
    "path": "local/bucuresti/cgmb/1992/68",
    "short": "HCGMB nr. 68/1992",
@@ -104,6 +929,96 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/301/h068_92.pdf",
      "sha256": "f3a9828b95e00cfd3142c3138760064f487f052025da222d08590fc11b85b698"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1992",
+   "path": "local/bucuresti/cgmb/1992/69",
+   "short": "HCGMB nr. 69/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1992 : 69 DIN 27/11/92 - privind numirea Consiliului de adiministratie al RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/304",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/304/h069_92.pdf",
+     "sha256": "1c8f98ea9c57340e6771725483fad8bb259779d26a63efd4ea27dd09cada51ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1992",
+   "path": "local/bucuresti/cgmb/1992/7",
+   "short": "HCGMB nr. 7/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1992 : 7 DIN 02/04/92 - privind stabilirea organigramei aparatului Consiliului local al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/57",
+   "versions": [
+    {
+     "from": "1992-04-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/57/h07_92.pdf",
+     "sha256": "b9a9a3798761cecf44be6864a5dfff8e2e45192001e5e230b5cf77a5e8ba23ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1992",
+   "path": "local/bucuresti/cgmb/1992/70",
+   "short": "HCGMB nr. 70/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1992 : 70 DIN 27/11/92 privind imputernicirea PG sa emita si sa retraga acordul pt. numirea membrilor cons. de administratie ale societatilor com. aflate sub autoritatea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/307",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/307/h070_92.pdf",
+     "sha256": "b199b68fcba1ceaae8fabea902c52f4dcaf981290f62dc1f907f287efb3257f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1992",
+   "path": "local/bucuresti/cgmb/1992/71",
+   "short": "HCGMB nr. 71/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/310",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/310/h071_92.pdf",
+     "sha256": "be538b84a2303c2ea3bf945d49a89188ea5864f6bc4af092cd9f0861f3c41d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1992",
+   "path": "local/bucuresti/cgmb/1992/72",
+   "short": "HCGMB nr. 72/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1992 : 72 DIN 16/12/92 - privind aprobarea organigramei aparatului Consiliului local al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/313",
+   "versions": [
+    {
+     "from": "1992-12-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/313/h072_92.pdf",
+     "sha256": "37866f68d777bd14e5d5ed360aac628a3d401c17cf013ed5dbf6a3639cb856fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1992",
+   "path": "local/bucuresti/cgmb/1992/73",
+   "short": "HCGMB nr. 73/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1992 : 73 DIN 13/12/92 - privind aviz.tarif.pt.serv.de salubr.si inchirieri utilaje,prestare in capitala de RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/316",
+   "versions": [
+    {
+     "from": "1992-12-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/316/h073_92.pdf",
+     "sha256": "e27936e5ad12d5d789606cb534a7df8878631c8996c20425dcc70afa7f01de16"
     }
    ]
   },
@@ -153,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcgmb-77-1992",
+   "path": "local/bucuresti/cgmb/1992/77",
+   "short": "HCGMB nr. 77/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/326",
+   "versions": [
+    {
+     "from": "1992-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/326/h077_92.pdf",
+     "sha256": "9ffcdd7b8fc7c0aac0746b39104f1ce63a6f5535a6f7172fb68691ebf3847e27"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-8-1992",
    "path": "local/bucuresti/cgmb/1992/8",
    "short": "HCGMB nr. 8/1992",
@@ -164,6 +1094,36 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/62/h08_92.pdf",
      "sha256": "3ef55495ab63b46620e47084b2d03c1858dac03821c0f5dfa05d5d62606e3a12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1992",
+   "path": "local/bucuresti/cgmb/1992/9",
+   "short": "HCGMB nr. 9/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1992 : 9 DIN 02/04/92 - privind inloc. reprez. CLMB in consiliile de adm. si consiliile imput. statului ale unor regii auton. si societ. com",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/67",
+   "versions": [
+    {
+     "from": "1992-04-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/67/h09_92.pdf",
+     "sha256": "82ac946494a98814f22d3c241693be04874d5083f0e6c156996031de9eda8cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-1992",
+   "path": "local/bucuresti/cgmb/1992/90",
+   "short": "HCGMB nr. 90/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/1992 IN SCOPUL VALIDARII ALEGERII CLMB SI MANDATELOR CONSILIERILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/9",
+   "versions": [
+    {
+     "from": "1992-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/9/h090_92.pdf",
+     "sha256": "864a16a20c088bc14a36c03df88a8309bcb67212468aea97f64bf2fe819aefa6"
     }
    ]
   }

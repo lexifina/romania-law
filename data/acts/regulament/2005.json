@@ -324,6 +324,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/67854",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-transporturi-5-2005",
+"path": "regulament/transporturi/2005/5",
+"kind": "regulament",
+"year": "2005",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 5/2005 pentru circulația trenurilor și manevra vehiculelor feroviare",
+"short": "Regulament transporturi nr. 5/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-11-28",
+"latest": "2005-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119559",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "regulament-transporturi-6-2005",
+"path": "regulament/transporturi/2005/6",
+"kind": "regulament",
+"year": "2005",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 6/2005 de remorcare și frânare",
+"short": "Regulament transporturi nr. 6/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-05-23",
+"latest": "2006-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119179",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

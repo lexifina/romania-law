@@ -4053,6 +4053,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-1722-2020",
+   "path": "ordin/economie/2020/1722",
+   "short": "Ordin economie nr. 1722/2020",
+   "title": "Ordinul nr. 1.722/2020 privind modificarea anexei la Ordinul ministrului economiei, energiei și mediului de afaceri nr. 890/2020 pentru aprobarea Procedurii de comercializare a benzinei și motorinei pe perioada stării de urgență pe teritoriul României, instituite prin Decretul nr. 195/2020, în contextul crizei economice generate de pandemia SARS-CoV-2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225580",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225580",
+     "sha256": "e55f47db968d7f3719522d5dde53a7db2299c8f873ef1f0184714d4b5350a8e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1726-2020",
+   "path": "ordin/economie/2020/1726",
+   "short": "Ordin economie nr. 1726/2020",
+   "title": "Ordinul nr. 1.726/2020 privind măsuri tranzitorii în vederea asigurării continuității sistemului de autorizare a auditorilor energetici persoane fizice și juridice, de atestare a managerilor energetici și de autorizare a societăților prestatoare de servicii energetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225887",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225887",
+     "sha256": "3e1ea8b2168eeb563498e5b0be64019c96d64f7ea1f86f5168d8add7abca766c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1731-2020",
    "path": "ordin/economie/2020/1731",
    "short": "Ordin economie nr. 1731/2020",
@@ -4064,6 +4094,396 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225843",
      "sha256": "60192a462494f659fc516601b2be6496e46e31068e38b6c2d0578425416db39b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1800-2020",
+   "path": "ordin/economie/2020/1800",
+   "short": "Ordin economie nr. 1800/2020",
+   "title": "Ordinul nr. 1.800/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului interministerial de coordonare pentru dezvoltarea pieței pentru combustibili alternativi (CC DPCA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228353",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228353",
+     "sha256": "6c8070670ef10e5c71189d84afa55706d6ee00c466afa97c96cb4be2e80c646f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1802-2020",
+   "path": "ordin/economie/2020/1802",
+   "short": "Ordin economie nr. 1802/2020",
+   "title": "Ordinul nr. 1.802/2020 privind unele măsuri aplicabile beneficiarilor programelor naționale gestionate de Ministerul Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226579",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226579",
+     "sha256": "a535b028f448511c9fb5d300663b039b36811e5b46612bf2475906e564586254"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1843-2020",
+   "path": "ordin/economie/2020/1843",
+   "short": "Ordin economie nr. 1843/2020",
+   "title": "Ordinul nr. 1.843/2020 privind aprobarea Ghidului solicitantului elaborat în baza Ordonanței de urgență a Guvernului nr. 81/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor Publice, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, precum și pentru instituirea unei scheme de ajutor de stat privind sprijinirea întreprinderilor din sectoarele și subsectoarele expuse unui risc important de relocare ca urmare a transferului costului emisiilor de gaze cu efect de seră în prețul energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226584",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226584",
+     "sha256": "5985d8528583e2e47460fe7ca8e144fe22ad1a7701fa731da17d3d08eaa1cd00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1930-2020",
+   "path": "ordin/economie/2020/1930",
+   "short": "Ordin economie nr. 1930/2020",
+   "title": "Ordinul nr. 1.930/2020 pentru modificarea Procedurilor privind gestionarea contravalorii certificatelor de emisii de gaze cu efect de seră alocate tranzitoriu cu titlu gratuit pentru finanțarea investițiilor din Planul național de investiții, privind contractarea, monitorizarea, verificarea și raportarea investițiilor, precum și cheltuielile eligibile, aprobate prin Ordinul ministrului energiei, întreprinderilor mici și mijlocii și mediului de afaceri nr. 1.277/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229014",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229014",
+     "sha256": "7c28981c40b0315fd089f21ea12c7665b248139abea7af9476b31e13425e7339"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2654-2020",
+   "path": "ordin/economie/2020/2654",
+   "short": "Ordin economie nr. 2654/2020",
+   "title": "Ordinul nr. 2.654/2020 privind prorogarea termenului prevăzut la pct. 6 subpct. 6.8 alin. (5) din Schema de ajutor de minimis prevăzută în cadrul Programului Start-up Nation, aprobată prin Ordinul ministrului pentru mediul de afaceri, comerț și antreprenoriat nr 1.854/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229047",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229047",
+     "sha256": "c62ef158076cfac35ca37be234d773c27de38a3e01e18e6bfe8c3b58578b4a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2656-2020",
+   "path": "ordin/economie/2020/2656",
+   "short": "Ordin economie nr. 2656/2020",
+   "title": "Ordinul nr. 2.656/2020 privind aprobarea modelului și conținutului legitimațiilor de control în turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229985",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229985",
+     "sha256": "9a71d898587f5846ed71728ad909781e04394b85862ebde4e8ceb9bba498a1aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2734-2020",
+   "path": "ordin/economie/2020/2734",
+   "short": "Ordin economie nr. 2734/2020",
+   "title": "Ordinul nr. 2.734/2020 privind aplicarea art. 50 alin. (3) din Hotărârea Guvernului nr. 74/2011 privind siguranța jucăriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229874",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229874",
+     "sha256": "7ab6d6cfcbabd7137452a0a036861d8a694d24785045c900b384201283df6b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2816-2020",
+   "path": "ordin/economie/2020/2816",
+   "short": "Ordin economie nr. 2816/2020",
+   "title": "Ordinul nr. 2.816/2020 privind desemnarea Direcției piața internă din cadrul Ministerului Economiei, Energiei și Mediului de Afaceri ca unitate de implementare a schemei de ajutor de stat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 81/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor Publice, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, precum și pentru instituirea unei scheme de ajutor de stat privind sprijinirea întreprinderilor din sectoarele și subsectoarele expuse unui risc important de relocare ca urmare a transferului costului emisiilor de gaze cu efect de seră în prețul energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229844",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229844",
+     "sha256": "53dd77e005eed61469ab09212d5a48856f94e28fc428529027d29c84b9aaa1d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2989-2020",
+   "path": "ordin/economie/2020/2989",
+   "short": "Ordin economie nr. 2989/2020",
+   "title": "Ordinul nr. 2.989/2020 privind aprobarea Procedurii de implementare a măsurii \"Microgranturi acordate din fonduri externe nerambursabile\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230628",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230628",
+     "sha256": "c0f4949282e3ca1601532d8fe076724502c8950cc474d97bbfb6745f17bf5cc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2990-2020",
+   "path": "ordin/economie/2020/2990",
+   "short": "Ordin economie nr. 2990/2020",
+   "title": "Ordinul nr. 2.990/2020 privind aprobarea Procedurii de verificare și evaluare a proiectelor care pot fi finanțate în baza schemei de ajutor de stat privind sprijinirea industriei cinematografice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230830",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230830",
+     "sha256": "d4da618c353e4be0312167644fc279264d690d3fd373c5fe5f4055616e9b91aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3083-2020",
+   "path": "ordin/economie/2020/3083",
+   "short": "Ordin economie nr. 3083/2020",
+   "title": "Ordinul nr. 3.083/2020 pentru aprobarea Procedurii de implementare a măsurii \"Granturi pentru capital de lucru acordate IMM-urilor\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231551",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231551",
+     "sha256": "f2cf3650462828027508dce8713824acc0dfe2ca91363c95250a5d1ad929a53a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3402-2020",
+   "path": "ordin/economie/2020/3402",
+   "short": "Ordin economie nr. 3402/2020",
+   "title": "Ordinul nr. 3.402/2020 privind aprobarea Ghidului de finanțare a întreprinderilor mici și mijlocii și a operatorilor economici din domeniul HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 100 kWp necesară consumului propriu și livrarea surplusului în Sistemul energetic național și a stațiilor de reîncărcare de 22 kW pentru vehicule electrice și electrice hibrid plug-in",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234192",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234192",
+     "sha256": "90b68af0635b198a8a8c97248c1cb0acbdd21dd5c4e22bf2db1d1a76fa245a7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3555-2020",
+   "path": "ordin/economie/2020/3555",
+   "short": "Ordin economie nr. 3555/2020",
+   "title": "Ordinul nr. 3.555/2020 privind aprobarea criteriilor pentru încadrarea ca \"produs cultural\" a proiectelor care pot beneficia de schema de ajutor de stat privind sprijinirea industriei cinematografice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235536",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235536",
+     "sha256": "0e3b914f58595542fc1829f32615e133b699caec8143b3161c1b814c15d30031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3581-2020",
+   "path": "ordin/economie/2020/3581",
+   "short": "Ordin economie nr. 3581/2020",
+   "title": "Ordinul nr. 3.581/2020 pentru aprobarea Schemei de ajutor de minimis prevăzute în cadrul Programului \"ELECTRIC UP\" privind finanțarea întreprinderilor mici și mijlocii și domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp-100 kWp necesară consumului propriu și livrarea surplusului în Sistemul energetic național, precum și a stațiilor de reîncărcare de 22 kW pentru vehicule electrice și electrice hibrid plug-in",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236743",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236743",
+     "sha256": "59d8ffbbcdf348666cc20463d48aa8b4b50fd1ec8b1e7bc2704721dc44c54b80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3641-2020",
+   "path": "ordin/economie/2020/3641",
+   "short": "Ordin economie nr. 3641/2020",
+   "title": "Ordinul nr. 3.641/2020 pentru modificarea Ordinului ministrului economiei, energiei și mediului de afaceri nr. 1.882/2020 privind aprobarea schemelor de ajutor de minimis pentru acțiunile din Programul de promovare a exportului, finanțat de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235933",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235933",
+     "sha256": "b968f49a979d2c67acd785d4c37f6dc4067d8432cd7c3f6adf52c2838910e41c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3679-2020",
+   "path": "ordin/economie/2020/3679",
+   "short": "Ordin economie nr. 3679/2020",
+   "title": "Ordinul nr. 3.679/2020 privind completarea Procedurii de implementare a măsurii \"Granturi pentru investiții acordate IMM-urilor\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene, aprobată prin Ordinul ministrului economiei, energiei și mediului de afaceri nr. 3.396/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235793",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235793",
+     "sha256": "fee34b2df02362abb2ecbba918fbafb58569a4fc2e56728222fffd60ff17fc5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3680-2020",
+   "path": "ordin/economie/2020/3680",
+   "short": "Ordin economie nr. 3680/2020",
+   "title": "Ordinul nr. 3.680/2020 pentru modificarea anexei la Ordinul ministrului economiei, energiei și mediului de afaceri nr. 2.989/2020 privind aprobarea Procedurii de implementare a măsurii \"Microgranturi acordate din fonduri externe nerambursabile\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235794",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235794",
+     "sha256": "82774dfade09c36b106b2e2c26bcb7e24a9584c4628ba3e975dca0ddf291cff4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3682-2020",
+   "path": "ordin/economie/2020/3682",
+   "short": "Ordin economie nr. 3682/2020",
+   "title": "Ordinul nr. 3.682/2020 privind modificarea anexei la Ordinul ministrului economiei, energiei și mediului de afaceri nr. 3.083/2020 pentru aprobarea Procedurii de implementare a măsurii \"Granturi pentru capital de lucru acordate IMM-urilor\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235795",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235795",
+     "sha256": "52ace0ea68d616c249e9b908e594afdc9e0234729459231e806023fa83061030"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-46-2020",
+   "path": "ordin/economie/2020/46",
+   "short": "Ordin economie nr. 46/2020",
+   "title": "Ordinul nr. 46/2020 privind desemnarea Direcției afaceri europene și relații internaționale din cadrul Ministerului Economiei, Energiei și Mediului de Afaceri ca unitate de implementare a schemei de ajutor de stat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 81/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor Publice, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, precum și pentru instituirea unei scheme de ajutor de stat privind sprijinirea întreprinderilor din sectoarele și subsectoarele expuse unui risc important de relocare ca urmare a transferului costului emisiilor de gaze cu efect de seră în prețul energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222332",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222332",
+     "sha256": "b4d5d84a350528ce5235fff5f22a34d0dbdf874839a318a32d5e9fafdd5dfe00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-676-2020",
+   "path": "ordin/economie/2020/676",
+   "short": "Ordin economie nr. 676/2020",
+   "title": "Ordinul nr. 676/2020 privind aprobarea modelului și a conținutului formularelor și documentelor utilizate în activitatea de control și autorizare în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225367",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225367",
+     "sha256": "5e78bb9fab2d78966bf4eb1f916bce9bda4935c28bfe30a7d8f85e271f6d358a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-791-2020",
+   "path": "ordin/economie/2020/791",
+   "short": "Ordin economie nr. 791/2020",
+   "title": "Ordinul nr. 791/2020 privind acordarea certificatelor de situații de urgență operatorilor economici a căror activitate este afectată în contextul pandemiei SARS-CoV-2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224399",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224399",
+     "sha256": "1e76339ec80475f6e9afb6d14c266e26074de707099b95669e633e556c5d35b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-803-2020",
+   "path": "ordin/economie/2020/803",
+   "short": "Ordin economie nr. 803/2020",
+   "title": "Ordinul nr. 803/2020 privind stabilirea unor măsuri aplicabile beneficiarilor programelor naționale gestionate de Ministerul Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224462",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224462",
+     "sha256": "41f91958b9915d5f9edb281cf29ab75ff10dd81da44e8e82dde60b9eff52cf48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-872-2020",
+   "path": "ordin/economie/2020/872",
+   "short": "Ordin economie nr. 872/2020",
+   "title": "Ordinul nr. 872/2020 pentru modificarea anexei nr. 3 la Ordinul ministrului economiei, energiei și mediului de afaceri nr. 791/2020 privind acordarea certificatelor de situații de urgență operatorilor economici a căror activitate este afectată în contextul pandemiei SARS-CoV-2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224854",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224854",
+     "sha256": "8ccaace65399d50814fefeb3620ca19c4f074a3584e62cf31e66bf13ef9db1c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-890-2020",
+   "path": "ordin/economie/2020/890",
+   "short": "Ordin economie nr. 890/2020",
+   "title": "Ordinul nr. 890/2020 pentru aprobarea Procedurii de comercializare a benzinei și motorinei pe perioada stării de urgență pe teritoriul României, instituite prin Decretul nr. 195/2020, în contextul crizei economice generate de pandemia SARS-CoV-2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224932",
+   "versions": [
+    {
+     "from": "2020-04-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224932",
+     "sha256": "ffb79774bf1cbfa8d8412ac907c3e0db1cc4b971200d191d9043e669041838b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-902-2020",
+   "path": "ordin/economie/2020/902",
+   "short": "Ordin economie nr. 902/2020",
+   "title": "Ordinul nr. 902/2020 privind prorogarea termenului prevăzut la subpct. 6.8 alin. (5) din Schema de ajutor de minimis din cadrul Programului Start-up Nation, aprobată prin Ordinul ministrului pentru mediul de afaceri, comerț și antreprenoriat nr. 1.854/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225067",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225067",
+     "sha256": "fc70852cc0339553db107307bb28e814346f12f21ea47925b5f8e1ffdffb17e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-940-2020",
+   "path": "ordin/economie/2020/940",
+   "short": "Ordin economie nr. 940/2020",
+   "title": "Ordinul nr. 940/2020 pentru aprobarea Regulamentului privind condițiile și modalitățile de desfășurare a concursului intern pentru trimiterea în misiune permanentă în străinătate și de ocupare a posturilor din rețeaua externă a Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225455",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225455",
+     "sha256": "65fdd5d44c808f691810a4be09fd8c92e01ed966f853eeaeee8dde3ab33ef38b"
     }
    ]
   },
@@ -5073,6 +5493,36 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1060-2020",
+   "path": "ordin/fonduri/2020/1060",
+   "short": "Ordin fonduri nr. 1060/2020",
+   "title": "Ordinul nr. 1.060/2020 pentru aprobarea Schemei de ajutor de stat - Sprijin pentru IMM-uri în vederea depășirii crizei economice generate de pandemia de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229913",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229913",
+     "sha256": "3f02ee241364c619141db4105e25020006c896c7bea88a16aa29dd4477b7d88f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1586-2020",
+   "path": "ordin/fonduri/2020/1586",
+   "short": "Ordin fonduri nr. 1586/2020",
+   "title": "Ordinul nr. 1.586/2020 pentru modificarea Schemei de ajutor de stat - Sprijin pentru IMM-uri în vederea depășirii crizei economice generate de pandemia de COVID-19, aprobată prin Ordinul ministrului fondurilor europene și al ministrului economiei, energiei și mediului de afaceri nr. 1.060/2.857/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235765",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235765",
+     "sha256": "d75d6cecf3c78f79b1f2f20b321fdacf46239783e0dc4a3f7768621a5f0a7e6d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-165-2020",
    "path": "ordin/fonduri/2020/165",
    "short": "Ordin fonduri nr. 165/2020",
@@ -6059,6 +6509,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223883",
      "sha256": "7296d5dae65d1b29cbd1b965ce6e055f911c60639083eda20f656cb4f9ad28dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1274-2020",
+   "path": "ordin/mediu/2020/1274",
+   "short": "Ordin mediu nr. 1274/2020",
+   "title": "Ordinul nr. 1.274/2020 privind modificarea anexei nr. 4 la Ordinul ministrului mediului, apelor și pădurilor și al viceprim-ministrului, ministrul economiei, comerțului și relațiilor cu mediul de afaceri, nr. 1.494/846/2016 pentru aprobarea procedurii și criteriilor de acordare a licenței de operare, revizuire, vizare anuală și anulare a licenței de operare a organizațiilor colective și de aprobare a planului de operare pentru producătorii care își îndeplinesc în mod individual obligațiile, acordarea licenței reprezentanților autorizați, precum și componența și atribuțiile comisiei de autorizare, pentru gestionarea deșeurilor de echipamente electrice și electronice și a art. 5 din Ordinul ministrului mediului și pădurilor și al ministrului economiei, comerțului și mediului de afaceri nr. 2.743/3.189/2011 privind aprobarea Procedurii și criteriilor de evaluare și autorizare a organizațiilor colective și de evaluare și aprobare a planului de operare pentru producătorii care își îndeplinesc în mod individual obligațiile privind gestionarea deșeurilor de baterii și acumulatori, precum și componența și atribuțiile comisiei de evaluare și autorizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227851",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227851",
+     "sha256": "9c997d5baa3c5c9443c0ae6411a1a2111d27a54d6265a508c723976cdd04f11a"
     }
    ]
   },
@@ -9843,6 +10308,186 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1030-2020",
+   "path": "ordin/transporturi/2020/1030",
+   "short": "Ordin transporturi nr. 1030/2020",
+   "title": "Ordinul nr. 1.030/2020 privind prelungirea perioadelor prevăzute pentru finalizarea pregătirii teoretice și practice, efectuate în cadrul școlilor de conducători auto în scopul obținerii permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226190",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226190",
+     "sha256": "e71a178dae4c11ee91317d13b0f679bd7f73f62cd6d5e81d835cd7588d439555"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1033-2020",
+   "path": "ordin/transporturi/2020/1033",
+   "short": "Ordin transporturi nr. 1033/2020",
+   "title": "Ordinul nr. 1.033/2020 privind recunoașterea calificărilor profesionale pentru profesiile reglementate în România pentru care Autoritatea Rutieră Română - A.R.R. este autoritate competentă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226970",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226970",
+     "sha256": "38465cfef5cb08cc1f35ffd5ff377eddc09634c63036ebbef8716e2ccd5cad42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1098-2020",
+   "path": "ordin/transporturi/2020/1098",
+   "short": "Ordin transporturi nr. 1098/2020",
+   "title": "Ordinul nr. 1.098/2020 privind aprobarea Actului adițional nr. 1 pentru anul 2020 la Contractul de activitate al Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A. pentru perioada 2016-2020, aprobat prin Hotărârea Guvernului nr. 232/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227555",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227555",
+     "sha256": "a5f6ff4d5265e4f5a28f884ce660eb856a11b59aa65494d6eca74f42b630967f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1476-2020",
+   "path": "ordin/transporturi/2020/1476",
+   "short": "Ordin transporturi nr. 1476/2020",
+   "title": "Ordinul nr. 1.476/2020 privind aprobarea actualizării Contractului de servicii publice de transport cu metroul pentru anii 2020-2024 al Societății de Transport cu Metroul București \"METROREX\" - S.A., aprobat prin Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 697/2020, prin încheierea Actului adițional nr. 1 pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228688",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228688",
+     "sha256": "afb86d17ec70bc4899895ed2ed1c9c63e8b7022b515894c94f9846ee78a17f11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1477-2020",
+   "path": "ordin/transporturi/2020/1477",
+   "short": "Ordin transporturi nr. 1477/2020",
+   "title": "Ordinul nr. 1.477/2020 privind actualizarea contractelor de servicii publice pentru perioada 2020-31 decembrie 2021 în transportul feroviar public de călători, aprobate prin Hotărârea Guvernului nr. 146/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228685",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228685",
+     "sha256": "6eb32d1216b35e5fa29120dd31a171a21c11b996518156341be344000cb5a028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1510-2020",
+   "path": "ordin/transporturi/2020/1510",
+   "short": "Ordin transporturi nr. 1510/2020",
+   "title": "Ordinul nr. 1.510/2020 privind aplicarea Instrucțiunilor de inspecție din 2019 în conformitate cu Sistemul armonizat de inspectare și certificare (HSSC), adoptate de Adunarea Organizației Maritime Internaționale prin Rezoluția A.1.140(31) din 4 decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229647",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229647",
+     "sha256": "c2d982fa258fafa2d785c139487cbd6f480addcdd2fc3d852cfce6423c22dd25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1631-2020",
+   "path": "ordin/transporturi/2020/1631",
+   "short": "Ordin transporturi nr. 1631/2020",
+   "title": "Ordinul nr. 1.631/2020 pentru aprobarea Metodologiei privind evaluarea și monitorizarea organismelor de evaluare a conformității din domeniul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229160",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229160",
+     "sha256": "729583b2aa9bf1666bb860123fdee35d985a4e7a764b426bbc1f1f2edb954767"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1634-2020",
+   "path": "ordin/transporturi/2020/1634",
+   "short": "Ordin transporturi nr. 1634/2020",
+   "title": "Ordinul nr. 1.634/2020 privind aprobarea derogării de la Normele pentru efectuarea reviziilor și reparațiilor planificate la vehiculele feroviare motoare - tabelul 3.1 din anexa la Ordinul ministrului transporturilor și infrastructurii nr. 315/2011 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229197",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229197",
+     "sha256": "9f526cadaf7d5b53211c74f95baf79970361bd27002b0373d06cc662d27a2e55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1635-2020",
+   "path": "ordin/transporturi/2020/1635",
+   "short": "Ordin transporturi nr. 1635/2020",
+   "title": "Ordinul nr. 1.635/2020 pentru aprobarea Metodologiei privind rambursarea contravalorii serviciilor de navigație aeriană prestate de furnizorii de servicii de navigație aeriană prevăzuți la art. 18 alin. (5) din Legea nr. 21/2020 privind Codul aerian, aferente zborurilor scutite de la plata tarifelor pentru aceste servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229190",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229190",
+     "sha256": "2f719117ceba6dec54be106525d564ab6a5455060592cb1d27650a7c81596133"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1744-2020",
+   "path": "ordin/transporturi/2020/1744",
+   "short": "Ordin transporturi nr. 1744/2020",
+   "title": "Ordinul nr. 1.744/2020 privind aprobarea derogării de la Normele pentru efectuarea reviziilor și reparațiilor planificate la vehiculele feroviare motoare - tabelul 3.1 din anexa la Ordinul ministrului transporturilor și infrastructurii nr. 315/2011 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229868",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229868",
+     "sha256": "43bb865a0c22d9b0d2494ecc8928582cbdc7e5ab4efe2cd754c2466ddc6c6a29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1785-2020",
+   "path": "ordin/transporturi/2020/1785",
+   "short": "Ordin transporturi nr. 1785/2020",
+   "title": "Ordinul nr. 1.785/2020 pentru aprobarea Reglementării Aeronautice Civile Române RACR-AIS \"Serviciul de informare aeronautică\", ediția 4/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231987",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231987",
+     "sha256": "586155c1fbd1c2fe76d2b9484add287292bf802295969043d0de30bc4d9c5a44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1817-2020",
+   "path": "ordin/transporturi/2020/1817",
+   "short": "Ordin transporturi nr. 1817/2020",
+   "title": "Ordinul nr. 1.817/2020 pentru aprobarea Regulamentului de navigație pe canalul Bega în sectorul românesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231695",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231695",
+     "sha256": "6d2650f0146194f52ce8b4ec619ab8db273ee0761ed11cfb202297dd043a5eb8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1840-2020",
    "path": "ordin/transporturi/2020/1840",
    "short": "Ordin transporturi nr. 1840/2020",
@@ -9858,6 +10503,456 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1874-2020",
+   "path": "ordin/transporturi/2020/1874",
+   "short": "Ordin transporturi nr. 1874/2020",
+   "title": "Ordinul nr. 1.874/2020 privind aprobarea Procedurii operaționale pentru identificarea, selectarea și rezervarea prin promisiune de închiriere a imobilelor, cod: PO-19-01, ediția I, revizia 0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230894",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230894",
+     "sha256": "81e7b35c2b3f65b4a9c4b9588d47d9c9e306cec233a0bb5865982de527b1df0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1876-2020",
+   "path": "ordin/transporturi/2020/1876",
+   "short": "Ordin transporturi nr. 1876/2020",
+   "title": "Ordinul nr. 1.876/2020 pentru aprobarea Reglementării aeronautice civile române RACR-CNS \"Operarea sistemelor de comunicații, navigație, supraveghere\", volumul I \"Mijloace de radionavigație\", ediția 3/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231507",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231507",
+     "sha256": "cd8aef0c5ed190103bfdc4b074d61a38b16b90a69f9fe548ccf5d30e6102259e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1926-2020",
+   "path": "ordin/transporturi/2020/1926",
+   "short": "Ordin transporturi nr. 1926/2020",
+   "title": "Ordinul nr. 1.926/2020 privind utilizarea Sistemului european de management al traficului feroviar - ERTMS în realizarea interoperabilității sistemului feroviar din România cu sistemul feroviar al Uniunii Europene și modificarea/completarea unor regulamente și instrucțiuni din domeniul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233312",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233312",
+     "sha256": "0c5acfa05c863ed390135e61548184fc234374a087b1016a8c705685d7f87c2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1983-2020",
+   "path": "ordin/transporturi/2020/1983",
+   "short": "Ordin transporturi nr. 1983/2020",
+   "title": "Ordinul nr. 1.983/2020 privind aprobarea Condițiilor de închiriere a rețelei de telecomunicații C.F.R., cu excepția rețelei GSM-R, cu echipamentele aferente, parte a infrastructurii feroviare publice aflate în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor și în concesiunea Companiei Naționale de Căi Ferate „C.F.R.” - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233315",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233315",
+     "sha256": "155ba15143ac9a691ae436937448810922e3e723daa5e8caf2c5f9eb214e6951"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1984-2020",
+   "path": "ordin/transporturi/2020/1984",
+   "short": "Ordin transporturi nr. 1984/2020",
+   "title": "Ordinul nr. 1.984/2020 pentru aprobarea Reglementării aeronautice civile române RACR-ATSEP privind licențierea personalului electronist pentru siguranța traficului aerian, ediția 1/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233066",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233066",
+     "sha256": "30e77992cf42fb728371833fc554e6eb2b4caf6c9cc7de4e786cac0851165f53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2031-2020",
+   "path": "ordin/transporturi/2020/2031",
+   "short": "Ordin transporturi nr. 2031/2020",
+   "title": "Ordinul nr. 2.031/2020 privind aprobarea Procedurii de emitere a avizului Ministerului Transporturilor, Infrastructurii și Comunicațiilor pentru documentațiile tehnice, documentațiile tehnico-economice și documentațiile de urbanism ale terților, pentru obiectivele situate în zona infrastructurii de transport rutiere de interes național, feroviare și de metrou",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232958",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232958",
+     "sha256": "04c747f4fbd7946ce877a7b1d68e73639d580611f3dbefb346da8817f4cba7cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2131-2020",
+   "path": "ordin/transporturi/2020/2131",
+   "short": "Ordin transporturi nr. 2131/2020",
+   "title": "Ordinul nr. 2.131/2020 privind aprobarea Procedurii de emitere, utilizare și decontare a legitimațiilor de călătorie gratuită pentru transportul cu metroul al beneficiarilor Legii recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului-Lupeni - august 1977 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235965",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235965",
+     "sha256": "6edd826f5a2c1c5a200e4b62526c092c663014aba84d74ffee9bfc8d9b80024b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2137-2020",
+   "path": "ordin/transporturi/2020/2137",
+   "short": "Ordin transporturi nr. 2137/2020",
+   "title": "Ordinul nr. 2.137/2020 pentru aprobarea unor măsuri în aplicarea dispozițiilor art. 14 alin. (8) și (9) din Legea nr. 21/2020 privind Codul aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235617",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235617",
+     "sha256": "4c7e62d723cfdb9aebc63cce1a9720f348b316b539c23103f3343bf2f361809c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2139-2020",
+   "path": "ordin/transporturi/2020/2139",
+   "short": "Ordin transporturi nr. 2139/2020",
+   "title": "Ordinul nr. 2.139/2020 privind organizarea și funcționarea Comitetului ministerial pentru situații de urgență din cadrul Ministerului Transporturilor, Infrastructurii și Comunicațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235428",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235428",
+     "sha256": "4fdd34920e8d417559f54cf5f7572883071705d4ed9d8007469f768ce100bfec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2141-2020",
+   "path": "ordin/transporturi/2020/2141",
+   "short": "Ordin transporturi nr. 2141/2020",
+   "title": "Ordinul nr. 2.141/2020 privind actualizarea contractelor de servicii publice pentru perioada 2020-31 decembrie 2021 în transportul feroviar public de călători, aprobate prin Hotărârea Guvernului nr. 146/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235321",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235321",
+     "sha256": "38a748a8ace0cdfdadb4c8d495ea69f980de485ba78cbee7e053956fc9a474b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2144-2020",
+   "path": "ordin/transporturi/2020/2144",
+   "short": "Ordin transporturi nr. 2144/2020",
+   "title": "Ordinul nr. 2.144/2020 privind acordarea unui ajutor de exploatare și a unui ajutor de investiții, exceptate de la obligația notificării, Societății Naționale \"Aeroportul Internațional Mihail Kogălniceanu - Constanța\" - S.A., pentru anii 2021-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235728",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235728",
+     "sha256": "55d80d4b062df2a84c895ebf68115ba2683725044a1df42b19902a07fea7f1fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2159-2020",
+   "path": "ordin/transporturi/2020/2159",
+   "short": "Ordin transporturi nr. 2159/2020",
+   "title": "Ordinul nr. 2.159/2020 privind aprobarea derogării de la Normele pentru efectuarea reviziilor și reparațiilor planificate la vehiculele feroviare motoare, lit. b) \"Reviziile ramelor electrice de metrou tip BM efectuate la norma de kilometri parcurși\" prevăzute în tabelul 3.1 din anexa la Ordinul ministrului transporturilor și infrastructurii nr. 315/2011 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235751",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235751",
+     "sha256": "eeb00000a1448e261dc543d885c882af020f0532716f54ba42b62a084b264b32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2182-2020",
+   "path": "ordin/transporturi/2020/2182",
+   "short": "Ordin transporturi nr. 2182/2020",
+   "title": "Ordinul nr. 2.182/2020 privind aprobarea actualizării Contractului de servicii publice de transport cu metroul pentru anii 2020-2024 al Societății de Transport cu Metroul București \"METROREX\" - S.A., aprobat prin Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 697/2020, prin încheierea Actului adițional nr. 2 pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235584",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235584",
+     "sha256": "f74b5063712d18a32d74c738f46f7ab8e7a86d0d95e63b25e4d41490e63bf3a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2209-2020",
+   "path": "ordin/transporturi/2020/2209",
+   "short": "Ordin transporturi nr. 2209/2020",
+   "title": "Ordinul nr. 2.209/2020 privind aprobarea actualizării Contractului de servicii publice de transport cu metroul pentru anii 2020-2024 al Societății de Transport cu Metroul București \"METROREX\" - S.A., aprobat prin Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 697/2020, prin încheierea Actului adițional nr. 3 pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235667",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235667",
+     "sha256": "f63f4ebb7a04af199053f012a414748084f4da76ac7c0190e34c3ed36bc08093"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2221-2020",
+   "path": "ordin/transporturi/2020/2221",
+   "short": "Ordin transporturi nr. 2221/2020",
+   "title": "Ordinul nr. 2.221/2020 pentru punerea în aplicare în România a ultimelor amendamente cuprinse în anexa A la Acordul european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.) la care România a aderat prin Legea nr. 31/1994 pentru aderarea României la Acordul european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.), adoptat și semnat la Geneva la 30 septembrie 1957",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235752",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235752",
+     "sha256": "e54b585b9205b51ba0a0ca422e8c2e6962a60247ddecd6aa6222b556f4e0f4d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-232-2020",
+   "path": "ordin/transporturi/2020/232",
+   "short": "Ordin transporturi nr. 232/2020",
+   "title": "Ordinul nr. 232/2020 pentru eliberarea autorizației de siguranță administratorului/gestionarilor de infrastructură feroviară din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222690",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222690",
+     "sha256": "54b6ecab123979e9faa8173a7778b0eca22ce6ea776a41ae9d9e8b6c4d6fabe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-244-2020",
+   "path": "ordin/transporturi/2020/244",
+   "short": "Ordin transporturi nr. 244/2020",
+   "title": "Ordinul nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222587",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222587",
+     "sha256": "1af69e5b75ba0854bc6ee32e1e22b843554145e7146f2d69b4e65f28b9ba4433"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-668-2020",
+   "path": "ordin/transporturi/2020/668",
+   "short": "Ordin transporturi nr. 668/2020",
+   "title": "Ordinul nr. 668/2020 privind încredințarea unui serviciu de interes economic general către Școala Superioară de Aviație Civilă, instituție publică în subordinea Ministerului Transporturilor, Infrastructurii și Comunicațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223345",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223345",
+     "sha256": "8026718aa757022603abfe9d40f9401c42f258edd57e7f2f9c8eb2fb3666d35d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-697-2020",
+   "path": "ordin/transporturi/2020/697",
+   "short": "Ordin transporturi nr. 697/2020",
+   "title": "Ordinul nr. 697/2020 privind aprobarea încheierii Contractului de servicii publice de transport cu metroul pentru perioada 2020-2024 al Societății de Transport cu Metroul București \"METROREX\"- S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223482",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223482",
+     "sha256": "7cf89dd9374f57fed318bf97bab7e46c7f93888cc54bd4da98481e8aadf8d512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-743-2020",
+   "path": "ordin/transporturi/2020/743",
+   "short": "Ordin transporturi nr. 743/2020",
+   "title": "Ordinul nr. 743/2020 pentru eliberarea certificatului unic de siguranță operatorilor care efectuează numai manevră feroviară pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224312",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224312",
+     "sha256": "f610e883079ca2b25de3ba9178b97f29366081036627c266233b93f11a1d3b47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-744-2020",
+   "path": "ordin/transporturi/2020/744",
+   "short": "Ordin transporturi nr. 744/2020",
+   "title": "Ordinul nr. 744/2020 pentru punerea în aplicare a Regulamentului delegat (UE) 2018/761 al Comisiei din 16 februarie 2018 de stabilire a metodelor comune de siguranță pentru supravegherea de către autoritățile naționale de siguranță după eliberarea unui certificat unic de siguranță sau a unei autorizații de siguranță în conformitate cu Directiva (UE) 2016/798 a Parlamentului European și a Consiliului și de abrogare a Regulamentului (UE) nr. 1.077/2012 al Comisiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223869",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223869",
+     "sha256": "bd8e32483469b81f337670dda9f196cd92dca4798327d69bf8ff87d097bfab5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-766-2020",
+   "path": "ordin/transporturi/2020/766",
+   "short": "Ordin transporturi nr. 766/2020",
+   "title": "Ordinul nr. 766/2020 pentru prelungirea valabilității unor certificate de atestare/reatestare emise de Regia Autonomă \"Registrul Auto Român\" pentru profesiile reglementate pentru care aceasta este autoritate competentă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223848",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223848",
+     "sha256": "397089e41fd691b70beb1cfcf8ef8391e2573a36cc1c8dcfa1fef918ea4c0097"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-852-2020",
+   "path": "ordin/transporturi/2020/852",
+   "short": "Ordin transporturi nr. 852/2020",
+   "title": "Ordinul nr. 852/2020 pentru aprobarea Condițiilor de închiriere a bunurilor imobile sau părți din acestea, proprietate publică a statului, aflate în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor și în concesiunea Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224894",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224894",
+     "sha256": "c8cede77c49da5563c51b2b8947d81879e42b781be2dd9df132da2868f5a9e98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-893-2020",
+   "path": "ordin/transporturi/2020/893",
+   "short": "Ordin transporturi nr. 893/2020",
+   "title": "Ordinul nr. 893/2020 pentru aprobarea Reglementării aeronautice civile române privind emiterea avizelor la documentațiile tehnice aferente obiectivelor din zone cu servituți aeronautice civile sau din alte zone în care pot constitui obstacole pentru navigația aeriană sau pot afecta siguranța zborului pe teritoriul și în spațiul aerian al României - RACR-AVZ, ediția 2/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225306",
+   "versions": [
+    {
+     "from": "2020-06-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225306",
+     "sha256": "ea0021a4d065852da987d4369b343cfce08e2bf45857e38b91f708cee3f5cadd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-908-2020",
+   "path": "ordin/transporturi/2020/908",
+   "short": "Ordin transporturi nr. 908/2020",
+   "title": "Ordinul nr. 908/2020 privind măsuri pentru aplicarea Regulamentului de punere în aplicare (UE) 2018/545 al Comisiei din 4 aprilie 2018 de instituire a modalităților practice pentru procesul de autorizare a vehiculelor feroviare și de autorizare de tip a vehiculelor feroviare în temeiul Directivei (UE) 2016/797 a Parlamentului European și a Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225562",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225562",
+     "sha256": "8bb30d4ef17f1edc054f50ae2b07a7be39e1c4d867d6f178d2cf11fb8abde39a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-909-2020",
+   "path": "ordin/transporturi/2020/909",
+   "short": "Ordin transporturi nr. 909/2020",
+   "title": "Ordinul nr. 909/2020 privind măsuri pentru aplicarea Regulamentului de punere în aplicare (UE) 2019/779 al Comisiei din 16 mai 2019 de stabilire a unor dispoziții detaliate privind un sistem de certificare a entităților responsabile cu întreținerea vehiculelor în temeiul Directivei (UE) 2016/798 a Parlamentului European și a Consiliului și de abrogare a Regulamentului (UE) nr. 445/2011 al Comisiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225563",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225563",
+     "sha256": "bb745f16145b91595c2df8fd00d215edf54a04da2a9be980105cf74143e80049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-926-2020",
+   "path": "ordin/transporturi/2020/926",
+   "short": "Ordin transporturi nr. 926/2020",
+   "title": "Ordinul nr. 926/2020 privind inspecțiile obligatorii la navele de pasageri de tip Ro-Ro, precum și la navele de pasageri de mare viteză care operează în serviciu regulat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225464",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225464",
+     "sha256": "597f2f48594b54e6caebe64698b208c26ea77489e88f9b8c76f558c64746bc02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-932-2020",
+   "path": "ordin/transporturi/2020/932",
+   "short": "Ordin transporturi nr. 932/2020",
+   "title": "Ordinul nr. 932/2020 privind măsuri pentru aplicarea Regulamentului (UE) 2018/763 al Comisiei din 9 aprilie 2018 de stabilire a modalităților practice pentru emiterea certificatelor unice de siguranță pentru întreprinderile feroviare în temeiul Directivei (UE) 2016/798 a Parlamentului European și a Consiliului și de abrogare a Regulamentului (CE) nr. 653/2007 al Comisiei și a Regulamentului delegat (UE) 2018/762 al Comisiei din 8 martie 2018 de stabilire a unor metode comune de siguranță privind cerințele sistemului de management al siguranței, în temeiul Directivei (UE) 2016/798 a Parlamentului European și a Consiliului, și de abrogare a Regulamentelor (UE) nr. 1.158/2010 și (UE) nr. 1.169/2010 ale Comisiei și eliberarea certificatelor unice de siguranță operatorilor de transport feroviar pentru efectuarea serviciilor de transport feroviar de călători și/sau de marfă pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225428",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225428",
+     "sha256": "0a0e6cdff1bffe2e0910a69f275f0ebf0a1c5430a19ea82f4745302cd49b5e97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-951-2020",
+   "path": "ordin/transporturi/2020/951",
+   "short": "Ordin transporturi nr. 951/2020",
+   "title": "Ordinul nr. 951/2020 privind aprobarea Procedurii pentru circulația trenurilor de călători special comandate în vederea transportului de lucrători sezonieri, inclusiv al celor care desfășoară activități de îngrijire a persoanelor vulnerabile, între România și alte state membre ale Uniunii Europene, pe perioada stării de urgență cauzate de pandemia de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225457",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225457",
+     "sha256": "a3bc6149ce93f7352920fed83f4e21228830f1cb9d6dfe7c3ebb8f8e1dcd5d5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-965-2020",
+   "path": "ordin/transporturi/2020/965",
+   "short": "Ordin transporturi nr. 965/2020",
+   "title": "Ordinul nr. 965/2020 privind actualizarea contractelor de servicii publice pentru perioada 2020 - 31 decembrie 2021 în transportul feroviar public de călători, aprobate prin Hotărârea Guvernului nr. 146/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225523",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225523",
+     "sha256": "70cf023824321e6e46f8217684af2f27bc6dd96c00eff13141231c1307ad56fe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-984-2020",
    "path": "ordin/transporturi/2020/984",
    "short": "Ordin transporturi nr. 984/2020",
@@ -9869,6 +10964,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225845",
      "sha256": "30fc2355dd4375b4d333bec25976174ec2ab9b621d8884bd8642c88bd7231a09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-991-2020",
+   "path": "ordin/transporturi/2020/991",
+   "short": "Ordin transporturi nr. 991/2020",
+   "title": "Ordinul nr. 991/2020 pentru stabilirea porturilor și a căilor navigabile interioare pentru care serviciul de pilotaj al navelor maritime și fluviomaritime este obligatoriu și a modului de derulare a acestui serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226029",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226029",
+     "sha256": "c58afe7634d5876eede52d145ac2baa002145d74a79dad76d29b5d1d3dac0c22"
     }
    ]
   }

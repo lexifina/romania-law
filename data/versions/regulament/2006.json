@@ -301,6 +301,21 @@
      "sha256": "cd178a9f4e8b01e84f25d48ca9f647efdca4ad6a5ce020165ec21a63dd1384e0"
     }
    ]
+  },
+  {
+   "slug": "regulament-transporturi-4-2006",
+   "path": "regulament/transporturi/2006/4",
+   "short": "Regulament transporturi nr. 4/2006",
+   "title": "Regulamentul nr. 4/2006 de semnalizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212355",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 202,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212355",
+     "sha256": "b122f50591f5d1f70913f98165c708b3567650ff310e1d9570085dabd2b61c80"
+    }
+   ]
   }
  ]
 }

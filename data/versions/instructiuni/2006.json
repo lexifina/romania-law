@@ -61,6 +61,36 @@
      "sha256": "3209747c030ad89ac585325da121a2fe41403257de85b153bafa0e1ff3bd91de"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-transporturi-201-2006",
+   "path": "instructiuni/transporturi/2006/201",
+   "short": "Instrucțiuni transporturi nr. 201/2006",
+   "title": "Instrucțiunile nr. 201/2006 pentru activitatea personalului de locomotiva în transportul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81860",
+   "versions": [
+    {
+     "from": "2007-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81860",
+     "sha256": "1c6c7af9eaa6be8e970036b4655a0fb529758f395a371016bb634fff98e285eb"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-transporturi-357-2006",
+   "path": "instructiuni/transporturi/2006/357",
+   "short": "Instrucțiuni transporturi nr. 357/2006",
+   "title": "Instrucțiunile nr. 357/2006 pentru efectuarea încercărilor și măsurătorilor la echipamentele și instalațiile electroenergetice feroviare - nr. 357",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75382",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75382",
+     "sha256": "bc0f8a41b0ce5f8e3d7fcf857cd6ef118f7f9207978cd967a5b8dbd4c1979306"
+    }
+   ]
   }
  ]
 }

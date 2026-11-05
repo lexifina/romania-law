@@ -318,6 +318,81 @@
    ]
   },
   {
+   "slug": "ordin-economie-13-1998",
+   "path": "ordin/economie/1998/13",
+   "short": "Ordin economie nr. 13/1998",
+   "title": "Ordinul nr. 13/1998 privind regimul licențelor de export și import pentru mărfurile și operațiunile supuse licențierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16446",
+   "versions": [
+    {
+     "from": "1998-12-17",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16446",
+     "sha256": "6091244ee5629d2ae5ac2fc144dbb05195e213f078a43716b77037da294b261b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-14-1998",
+   "path": "ordin/economie/1998/14",
+   "short": "Ordin economie nr. 14/1998",
+   "title": "Ordinul nr. 14/1998 privind prelungirea termenului de valabilitate a licențelor de import, de export și de operațiune de import și/sau export a căror valabilitate expira la 31 decembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16595",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16595",
+     "sha256": "34880834d23c08436051eb8360cc2fa9e1a647fd91666cd49fcd2349283b566a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1613-1998",
+   "path": "ordin/economie/1998/1613",
+   "short": "Ordin economie nr. 1613/1998",
+   "title": "Ordinul nr. 1.613/1998 privind aprobarea prescripțiilor tehnice pentru proiectarea, execuția, repararea, transportul, depozitarea și verificarea recipientelor-butelii pentru gaze comprimate, lichefiate sau dizolvate sub presiune: C5-98",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15318",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15318",
+     "sha256": "b6494f091f0ed6fc1872568c02576bc5fa1f8c88267a08650242add7348ee470"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1770-1998",
+   "path": "ordin/economie/1998/1770",
+   "short": "Ordin economie nr. 1770/1998",
+   "title": "Ordinul nr. 1.770/1998 privind aprobarea Prescripțiilor tehnice pentru omologarea procedurilor de sudare utilizate la execuția pereților-membrana ce intră în componenta cazanelor de abur și a cazanelor de apa fierbinte CR 17-98",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16735",
+   "versions": [
+    {
+     "from": "1999-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16735",
+     "sha256": "63ea6df33a0333cdf0965ea377aac3ea5876e4e9c4dc22d2eff439dee5160f3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1775-1998",
+   "path": "ordin/economie/1998/1775",
+   "short": "Ordin economie nr. 1775/1998",
+   "title": "Ordinul nr. 1.775/1998 privind aprobarea Programului de restructurare a Regiei Autonome pentru Activități Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17449",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17449",
+     "sha256": "2f44951f29d3d88f3e2d3163b56a167458fe731daf0b95c0c8e797b073bcab50"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-220795-1998",
    "path": "ordin/economie/1998/220795",
    "short": "Ordin economie nr. 220795/1998",
@@ -1559,6 +1634,276 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18424",
      "sha256": "ec32e04530a9a2aa5e984a9817820e5614178abd5100d8abdfc66b5d049b6607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-181-1998",
+   "path": "ordin/transporturi/1998/181",
+   "short": "Ordin transporturi nr. 181/1998",
+   "title": "Ordinul nr. 181/1998 pentru aprobarea reglementărilor de aeronautica civilă română \"Asistența meteorologica a activităților aeronautice civile - RACR - ASMET\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14734",
+   "versions": [
+    {
+     "from": "1998-06-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14734",
+     "sha256": "72830922465606b10719fed6126025ea95cc2a500bbc12cac0e94693e0fb15fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-246-1998",
+   "path": "ordin/transporturi/1998/246",
+   "short": "Ordin transporturi nr. 246/1998",
+   "title": "Ordinul nr. 246/1998 pentru aprobarea Regulamentului privind standardele de instruire, confirmare a competentei și de eliberare a brevetelor și certificatelor de capacitate personalului navigant de siguranță a navigației din Marina civilă a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15367",
+   "versions": [
+    {
+     "from": "1998-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15367",
+     "sha256": "7f00ccbd18dc3101318eb94604c3319a674760b3dc9931ee6af38f2b72eda2b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-353-1998",
+   "path": "ordin/transporturi/1998/353",
+   "short": "Ordin transporturi nr. 353/1998",
+   "title": "Ordinul nr. 353/1998 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15356",
+   "versions": [
+    {
+     "from": "1998-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15356",
+     "sha256": "311d835a41b9d9f8f7d54c8d673d747685b894dacfe7ef76b8c4f1b005ee7231"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-375-1998",
+   "path": "ordin/transporturi/1998/375",
+   "short": "Ordin transporturi nr. 375/1998",
+   "title": "Ordinul nr. 375/1998 pentru aprobarea Normelor tehnice de navigabilitate - Partea a 10-a - Executarea lucrărilor de întreținere la recipientele sub presiune, folosite pe aeronavele civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16527",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16527",
+     "sha256": "e23ce6b5ee787fab66269a1fa9a7b04699668c6ed252ce6701f86e937ac93628"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-464-1998",
+   "path": "ordin/transporturi/1998/464",
+   "short": "Ordin transporturi nr. 464/1998",
+   "title": "Ordinul nr. 464/1998 pentru aprobarea Reglementării privind securitatea aeroporturilor - RACR-SECA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16528",
+   "versions": [
+    {
+     "from": "1999-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16528",
+     "sha256": "eb54be5a16847f801a101b9ea481869a8f65c7133dbfeacd6b399e692e7a6c7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-465-1998",
+   "path": "ordin/transporturi/1998/465",
+   "short": "Ordin transporturi nr. 465/1998",
+   "title": "Ordinul nr. 465/1998 pentru aprobarea Reglementării privind securitatea operatorului aerian - RACR-SECO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16529",
+   "versions": [
+    {
+     "from": "1999-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16529",
+     "sha256": "b18f40832c8bb400ec4cea62aa82712aa84f8acb3d5bf5fa82cf4a42adb7cc57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-496-1998",
+   "path": "ordin/transporturi/1998/496",
+   "short": "Ordin transporturi nr. 496/1998",
+   "title": "Ordinul nr. 496/1998 privind aprobarea Metodologiei pentru executarea lucrărilor de cadastru al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18242",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18242",
+     "sha256": "8d744a5cc963998091e8c39524cb64108851dfe4955d317efc8c88739740d350"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-578-1998",
+   "path": "ordin/transporturi/1998/578",
+   "short": "Ordin transporturi nr. 578/1998",
+   "title": "Ordinul nr. 578/1998 pentru aprobarea Reglementării privind acordarea licenței de transport aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18386",
+   "versions": [
+    {
+     "from": "1999-06-04",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18386",
+     "sha256": "d983f7efc7af0d854a43ca45beb073f8f9dc2f303434fecd65fce19a36f2d122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-592-1998",
+   "path": "ordin/transporturi/1998/592",
+   "short": "Ordin transporturi nr. 592/1998",
+   "title": "Ordinul nr. 592/1998 pentru aprobarea Reglementărilor privind omologarea în vederea admiterii în circulație pe drumurile publice din România, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului de mărfuri periculoase - R.N.T.R. 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18181",
+   "versions": [
+    {
+     "from": "1999-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18181",
+     "sha256": "7402daea7ec4141adbe1f9e3274811bf5573ee1b9b7a9b0b9f92b88ff175cbc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-650-1998",
+   "path": "ordin/transporturi/1998/650",
+   "short": "Ordin transporturi nr. 650/1998",
+   "title": "Ordinul nr. 650/1998 pentru organizarea și exercitarea controlului și inspecției de stat în transportul feroviar și cu metroul și pentru unele măsuri specifice privind cercetarea evenimentelor de cale ferată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16364",
+   "versions": [
+    {
+     "from": "1998-12-07",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16364",
+     "sha256": "da9ca7fd1b77ecf4693dd2a910dc2dbf39f4c365c59a0a42995b4e854d63d481"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-703-1998",
+   "path": "ordin/transporturi/1998/703",
+   "short": "Ordin transporturi nr. 703/1998",
+   "title": "Ordinul nr. 703/1998 pentru aprobarea Reglementărilor aeronautice civile române RACR-IA/Închirierea de aeronave de către operatorii aerieni români autorizați pentru transport aerian public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18025",
+   "versions": [
+    {
+     "from": "1999-05-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18025",
+     "sha256": "93ee68a19c2099d0d0c5f8879c7b3de85fe2252f20c3fab1336b693a2f50e93b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-709-1998",
+   "path": "ordin/transporturi/1998/709",
+   "short": "Ordin transporturi nr. 709/1998",
+   "title": "Ordinul nr. 709/1998 privind aprobarea Reglementărilor aeronautice civile române R.A.C.R. - 11/Procedura generală de elaborare și emitere a reglementărilor aeronautice civile române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18086",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18086",
+     "sha256": "713bae0f15fb627794d497549681005014d3e0751a8a487d2b2c3d237f7de3ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-715-1998",
+   "path": "ordin/transporturi/1998/715",
+   "short": "Ordin transporturi nr. 715/1998",
+   "title": "Ordinul nr. 715/1998 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de către Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16377",
+   "versions": [
+    {
+     "from": "1998-12-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16377",
+     "sha256": "4e448fe5b738030cd3520ac2da8ea8ee40f57d87ae04d355a2e3d5e603336d12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-742-1998",
+   "path": "ordin/transporturi/1998/742",
+   "short": "Ordin transporturi nr. 742/1998",
+   "title": "Ordinul nr. 742/1998 pentru aprobarea Reglementărilor Aeronautice Civile Române R.A.C.R. - 1/Definiții și abrevieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16783",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16783",
+     "sha256": "3d1834da32ca1820bba3eddbd8a2f2cc5d354a54e114cfb91582be5c0e66e9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-747-1998",
+   "path": "ordin/transporturi/1998/747",
+   "short": "Ordin transporturi nr. 747/1998",
+   "title": "Ordinul nr. 747/1998 pentru aprobarea Statutului Casei Asigurărilor de Sănătate a Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16508",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16508",
+     "sha256": "83eca213f211146ab1a179aabafdc16c3defd1522a7a2a01407e0fb1ba09eed5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-762-1998",
+   "path": "ordin/transporturi/1998/762",
+   "short": "Ordin transporturi nr. 762/1998",
+   "title": "Ordinul nr. 762/1998 pentru aprobarea Programului de restructurare a Societății Naționale \"Aeroportul Internațional București-Băneasa\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16539",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16539",
+     "sha256": "009a699e8d4aa6bd52a18e86045bd7e2d3e85df9848ffffee117cb7d1dfc7e87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-778-1998",
+   "path": "ordin/transporturi/1998/778",
+   "short": "Ordin transporturi nr. 778/1998",
+   "title": "Ordinul nr. 778/1998 privind aprobarea Normelor pentru acordarea licenței de transport feroviar și a certificatului de siguranță, în vederea efectuării serviciilor de transport public sau în interes propriu pe căile ferate române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16791",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16791",
+     "sha256": "c379881c0b2817d766b9b4b118984a3ec23ca8b3befd2ad8ed963a4f7cb3fa9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-786-1998",
+   "path": "ordin/transporturi/1998/786",
+   "short": "Ordin transporturi nr. 786/1998",
+   "title": "Ordinul nr. 786/1998 privind colectarea contribuțiilor la fondul Casei Asigurărilor de Sănătate a Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16930",
+   "versions": [
+    {
+     "from": "1999-02-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16930",
+     "sha256": "13825caee1a76b878724f78922fdb3e4285854eb11782750e97525b608c519c3"
     }
    ]
   }

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-40-1991",
+   "path": "ordin/economie/1991/40",
+   "short": "Ordin economie nr. 40/1991",
+   "title": "Ordinul nr. 40/1991 privind regimul de control al exporturilor de materiale, substanțe chimice, agenți biologici, tehnologii, instalații și componente ale acestora care ar putea contribui la proliferarea armelor nucleare, chimice și biologice, precum și a rachetelor purtato are de asemenea arme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1500",
+   "versions": [
+    {
+     "from": "1991-07-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1500",
+     "sha256": "ce1f02245898d92b7535ce117ab5d24f767f4559398250b125efeb7d3837d766"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1105-1991",
    "path": "ordin/finante/1991/1105",
    "short": "Ordin finante nr. 1105/1991",

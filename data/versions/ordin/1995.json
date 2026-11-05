@@ -258,6 +258,66 @@
    ]
   },
   {
+   "slug": "ordin-economie-1510-1995",
+   "path": "ordin/economie/1995/1510",
+   "short": "Ordin economie nr. 1510/1995",
+   "title": "Ordinul nr. 1.510/1995 privind \"Prescripțiile tehnice pentru recipienții fierbători din industria celulozei și hârtiei\", C24-94, cuprinse în anexa la prezentul ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7610",
+   "versions": [
+    {
+     "from": "1995-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7610",
+     "sha256": "76e4ce9e8731b9ee48b0f5c3b159200242af5f83b1695d407e1c850e7c502b5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1541-1995",
+   "path": "ordin/economie/1995/1541",
+   "short": "Ordin economie nr. 1541/1995",
+   "title": "Ordinul nr. 1.541/1995 privind aprobarea Prescripțiilor tehnice pentru proiectarea, execuția, instalarea, exploatarea, repararea și verificarea recipientelor stabile de stocare și alimentare cu gaze petroliere lichefiate, cu capacitate de până la 5.000 l, C8 - 95",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7611",
+   "versions": [
+    {
+     "from": "1995-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7611",
+     "sha256": "d1d86fe5e0cb81ff4eca1f7969e43094e565caf7bdeb4741512e1258e86fd6d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1552-1995",
+   "path": "ordin/economie/1995/1552",
+   "short": "Ordin economie nr. 1552/1995",
+   "title": "Ordinul nr. 1.552/1995 privind aprobarea Prescripțiilor tehnice pentru recipiente stabile sub presiune pentru depozitarea clorului sau dioxidului de sulf lichefiate C12-95",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7612",
+   "versions": [
+    {
+     "from": "1995-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7612",
+     "sha256": "4a3f9c1035028f7d99bd55a571058ef9b6c55417187390b9515e7964a5e29ca7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-68-1995",
+   "path": "ordin/economie/1995/68",
+   "short": "Ordin economie nr. 68/1995",
+   "title": "Ordinul nr. 68/1995 privind regimul de export al mărfurilor în anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6096",
+   "versions": [
+    {
+     "from": "1995-12-30",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6096",
+     "sha256": "0a9241c155c5723f2c948063aef0dfb51bd4f6e9990109ef9ccdd1d11127a4b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-106-1995",
    "path": "ordin/finante/1995/106",
    "short": "Ordin finante nr. 106/1995",
@@ -1034,6 +1094,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6121",
      "sha256": "9bfbaa22bc9806942a0000d17fe9a4d8ba43027deab6630333ab17527a7d3a63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-199-1995",
+   "path": "ordin/transporturi/1995/199",
+   "short": "Ordin transporturi nr. 199/1995",
+   "title": "Ordinul nr. 199/1995 pentru aprobarea Instrucțiunilor privind acordarea licențelor de lucru în zonele libere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6516",
+   "versions": [
+    {
+     "from": "1995-10-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6516",
+     "sha256": "2368f81b77fa4a31fa6df44ef04fe8503b04bfcf48624c65231e99fa4a2ba308"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-264-1995",
+   "path": "ordin/transporturi/1995/264",
+   "short": "Ordin transporturi nr. 264/1995",
+   "title": "Ordinul nr. 264/1995 privind stabilirea sectoarelor de navigație în care pilotajul este obligatoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6628",
+   "versions": [
+    {
+     "from": "1995-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6628",
+     "sha256": "a2d345856b6efdb7f1fcfc4018e9e5dcff0ef4d756f65fa0e96d67658d39b47f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-300-1995",
+   "path": "ordin/transporturi/1995/300",
+   "short": "Ordin transporturi nr. 300/1995",
+   "title": "Ordinul nr. 300/1995 privind emiterea de către Ministerul Transporturilor a certificatelor de omologare internaționala pentru vehicule rutiere și componentele acestora, în conformitate cu Regulamentele internaționale O.N.U. - E.C.E.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6690",
+   "versions": [
+    {
+     "from": "1995-08-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6690",
+     "sha256": "1b081f038e6fd299c28d979fbef8125e9c7d7a37f5fb09dec8e429bcd74f01a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-301-1995",
+   "path": "ordin/transporturi/1995/301",
+   "short": "Ordin transporturi nr. 301/1995",
+   "title": "Ordinul nr. 301/1995 privind omologarea de tip a vehiculelor rutiere pentru circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6692",
+   "versions": [
+    {
+     "from": "1995-08-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6692",
+     "sha256": "1052b8d68a1a004c89a0396bb47d30dabb2bb1762844358aa87254f7b0ab8d0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-305-1995",
+   "path": "ordin/transporturi/1995/305",
+   "short": "Ordin transporturi nr. 305/1995",
+   "title": "Ordinul nr. 305/1995 pentru aprobarea Instrucțiunilor privind cercetarea accidentelor și a incidentelor de aviație civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6699",
+   "versions": [
+    {
+     "from": "1995-10-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6699",
+     "sha256": "07059dd44706f7a0c239b2538138a272d4d20c2dfd348bcf0cca7edac0d2b2d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-396-1995",
+   "path": "ordin/transporturi/1995/396",
+   "short": "Ordin transporturi nr. 396/1995",
+   "title": "Ordinul nr. 396/1995 privind aprobarea Normelor metodologice de acordare a licențelor și a autorizațiilor privind efectuarea transporturilor navale de mărfuri și călători și de autorizare a funcționarii agenților economici în perimetrul infrastructurilor portuare și de cai navigabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6888",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6888",
+     "sha256": "745ae29bc8f66c943ac1562b06881e4294724125dcfe9a00f2198b922e8ffa0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-461-1995",
+   "path": "ordin/transporturi/1995/461",
+   "short": "Ordin transporturi nr. 461/1995",
+   "title": "Ordinul nr. 461/1995 privind regulile de navigație a navelor sau convoaielor care tranzitează Canalul Dunăre-Marea Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6979",
+   "versions": [
+    {
+     "from": "1995-11-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6979",
+     "sha256": "4efa0b3a435b9f42a726d087be8fa542cbb394b871c7344c64c59c33b159888e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-82-1995",
+   "path": "ordin/transporturi/1995/82",
+   "short": "Ordin transporturi nr. 82/1995",
+   "title": "Ordinul nr. 82/1995 privind eliberarea certificatelor de atestare profesională pentru șoferii care efectuează transporturi de produse clasificate periculoase în conformitate cu prevederile Acordului european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6162",
+   "versions": [
+    {
+     "from": "1995-07-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6162",
+     "sha256": "bf789ca632396ad6ed7d332926a65c6e5e4752dd6141dfeff7056abc7bae076c"
     }
    ]
   }

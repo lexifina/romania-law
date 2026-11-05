@@ -181,6 +181,21 @@
      "sha256": "b50d52562e44785c78d461029103b1230e45fc68b9b21c4f0141ab2e45a224de"
     }
    ]
+  },
+  {
+   "slug": "norma-transporturi-4566-tb-1999",
+   "path": "norma/transporturi/1999/4566-tb",
+   "short": "Norma transporturi nr. 4566/TB/1999",
+   "title": "Norma nr. 4.566/TB/1999 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20796",
+   "versions": [
+    {
+     "from": "2000-01-28",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20796",
+     "sha256": "7163e7964af67b9cfef5eaeb664228df94c424a1f727582ac81d4149c15d907f"
+    }
+   ]
   }
  ]
 }

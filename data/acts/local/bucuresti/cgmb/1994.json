@@ -3,6 +3,95 @@
 "shard": "local/bucuresti/cgmb/1994",
 "acts": [
 {
+"slug": "hcgmb-1-1994",
+"path": "local/bucuresti/cgmb/1994/1",
+"kind": "local",
+"year": "1994",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 1/1994 : 1 DIN 31/01/94 - privind organizarea unor unitati de ocrotire a minorilor",
+"short": "HCGMB nr. 1/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-01-31",
+"latest": "1994-01-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-2-1994",
+"path": "local/bucuresti/cgmb/1994/2",
+"kind": "local",
+"year": "1994",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 2/1994 : 2 DIN 31/01/94 - privind asocierea CLMB cu Societatea Comerciala COSMOPOLITAN LTD",
+"short": "HCGMB nr. 2/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-01-31",
+"latest": "1994-01-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-3-1994",
+"path": "local/bucuresti/cgmb/1994/3",
+"kind": "local",
+"year": "1994",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 3/1994",
+"short": "HCGMB nr. 3/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-01-31",
+"latest": "1994-01-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/39",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-4-1994",
+"path": "local/bucuresti/cgmb/1994/4",
+"kind": "local",
+"year": "1994",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 4/1994 : 4 DIN 31/01/94 privind atribuirea in folosinta a unui teren pe termen de 5 ani Societatii de Cruce Rosie - Filiala Sector 3",
+"short": "HCGMB nr. 4/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-01-31",
+"latest": "1994-01-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcgmb-5-1994",
 "path": "local/bucuresti/cgmb/1994/5",
 "kind": "local",
@@ -25,6 +114,182 @@
 }
 },
 {
+"slug": "hcgmb-6-1994",
+"path": "local/bucuresti/cgmb/1994/6",
+"kind": "local",
+"year": "1994",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 6/1994 : 6 DIN 31/01/94 - privind prelungirea termenului contractelor de mandat pentru imputernicit ii CLMB",
+"short": "HCGMB nr. 6/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-01-31",
+"latest": "1994-01-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/54",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-7-1994",
+"path": "local/bucuresti/cgmb/1994/7",
+"kind": "local",
+"year": "1994",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 7/1994 : 7 DIN 03/02/94 - privind mandatul acordat membrilor in consiliile inputernicitilor mandata ti sa reprezinte interesele capitalului de stat, numiti de catre CLMB",
+"short": "HCGMB nr. 7/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-02-03",
+"latest": "1994-02-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/59",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-8-1994",
+"path": "local/bucuresti/cgmb/1994/8",
+"kind": "local",
+"year": "1994",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 8/1994 : 8 DIN 03/02/94 privind atribuirea in folosinta gratuita a terenului situat in Sos Panduri, Spitalului \"Prof.dr.Th.Burghele\"",
+"short": "HCGMB nr. 8/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-02-03",
+"latest": "1994-02-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/64",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-9-1994",
+"path": "local/bucuresti/cgmb/1994/9",
+"kind": "local",
+"year": "1994",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 9/1994 : 9 DIN 17/02/94 - privind modificarea Hotararii nr. 103/13.10.1993",
+"short": "HCGMB nr. 9/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-02-17",
+"latest": "1994-02-17",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/69",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-10-1994",
+"path": "local/bucuresti/cgmb/1994/10",
+"kind": "local",
+"year": "1994",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 10/1994 : 10 DIN 03/03/94 - privind aprobarea \"Programului - Cadru de contorizare a apei si energiei termice la consumatorii casnici din municipiul Bucuresti",
+"short": "HCGMB nr. 10/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-03",
+"latest": "1994-03-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/74",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-11-1994",
+"path": "local/bucuresti/cgmb/1994/11",
+"kind": "local",
+"year": "1994",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 11/1994 : 11 DIN 03/03/94 - privind eliberarea certificatului de atestare a dreptului de proprietate al Soc.Com.\"CINOR S.A\"asupra terenurilor aflate in patrimoniul sau",
+"short": "HCGMB nr. 11/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-03",
+"latest": "1994-03-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/79",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-12-1994",
+"path": "local/bucuresti/cgmb/1994/12",
+"kind": "local",
+"year": "1994",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 12/1994 : 12 DIN 03/03/94 - privind modificarea componentei consiliului de administratie al RASUB",
+"short": "HCGMB nr. 12/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-03",
+"latest": "1994-03-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/84",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-13-1994",
+"path": "local/bucuresti/cgmb/1994/13",
+"kind": "local",
+"year": "1994",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 13/1994 : 13 DIN 03/03/94 - privind modificarea componentei consiliului de administratie a Regiei Aut onome \"DRUPO\"",
+"short": "HCGMB nr. 13/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-03",
+"latest": "1994-03-03",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/88",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcgmb-14-1994",
 "path": "local/bucuresti/cgmb/1994/14",
 "kind": "local",
@@ -44,6 +309,28 @@
 "council_name": "Consiliul General al Municipiului București",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-15-1994",
+"path": "local/bucuresti/cgmb/1994/15",
+"kind": "local",
+"year": "1994",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 15/1994 : 15 DIN 17/03/94 - privind masuri de imbunatatire a activitatii in pietele agroalimentare di n Municipiul Bucuresti",
+"short": "HCGMB nr. 15/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-17",
+"latest": "1994-03-17",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/96",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +378,94 @@
 }
 },
 {
+"slug": "hcgmb-18-1994",
+"path": "local/bucuresti/cgmb/1994/18",
+"kind": "local",
+"year": "1994",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 18/1994 : 18 DIN 24/03/94 - privind eliberarea certificatului de atestare a dreptului de proprietate al Societatii comerciale \"GETAX\"SA asupra terenurilor aflate in patrimoniul sau",
+"short": "HCGMB nr. 18/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-24",
+"latest": "1994-03-24",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/108",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-19-1994",
+"path": "local/bucuresti/cgmb/1994/19",
+"kind": "local",
+"year": "1994",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 19/1994 : 19 DIN 24/03/94 - privind completarea Hotararii CLMB nr. 109/1993",
+"short": "HCGMB nr. 19/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-24",
+"latest": "1994-03-24",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/112",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-20-1994",
+"path": "local/bucuresti/cgmb/1994/20",
+"kind": "local",
+"year": "1994",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 20/1994 : 20 DIN 31/03/94 - privind aprobarea Strategiei de reabilitare a serviciilor publice de unit atile subordonate CLMB in anul 1994",
+"short": "HCGMB nr. 20/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-03-31",
+"latest": "1994-03-31",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/116",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-21-1994",
+"path": "local/bucuresti/cgmb/1994/21",
+"kind": "local",
+"year": "1994",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 21/1994 : 21 DIN 07/04/94 - privind participarea CLMB la proiectul de realizare a unei Piete en gros in municipiul Bucuresti",
+"short": "HCGMB nr. 21/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-07",
+"latest": "1994-04-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/120",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcgmb-22-1994",
 "path": "local/bucuresti/cgmb/1994/22",
 "kind": "local",
@@ -110,6 +485,161 @@
 "council_name": "Consiliul General al Municipiului București",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-23-1994",
+"path": "local/bucuresti/cgmb/1994/23",
+"kind": "local",
+"year": "1994",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 23/1994 : 23 DIN 07/04/94 - privind acordul CLMB pentru inlocuirea unui membru al Consiliului de admi nistratie al societatii comerciale \"Cultura Nationala\"SA",
+"short": "HCGMB nr. 23/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-07",
+"latest": "1994-04-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/128",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-24-1994",
+"path": "local/bucuresti/cgmb/1994/24",
+"kind": "local",
+"year": "1994",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 24/1994 : 24 DIN 07/04/94 - privind modificarea componentei consiliilor de administratie ale Societat ilor comerciale \"SCOALA DE SOFERI AMATORI\"SA,\"PRORET\"SA si \"COREX-COMP\"SA",
+"short": "HCGMB nr. 24/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-07",
+"latest": "1994-04-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/132",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-25-1994",
+"path": "local/bucuresti/cgmb/1994/25",
+"kind": "local",
+"year": "1994",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 25/1994",
+"short": "HCGMB nr. 25/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-14",
+"latest": "1994-04-14",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/136",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-26-1994",
+"path": "local/bucuresti/cgmb/1994/26",
+"kind": "local",
+"year": "1994",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 26/1994 : 26 DIN 14/04/94 - priv.darea in folos.gratuita pe durata existentei constr.a teren.sit.in D r.Taberei,intre bl.38-40-42, in supr.de 2300 mp,Arh.Romano Catolice Buc.,pt. constr",
+"short": "HCGMB nr. 26/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-14",
+"latest": "1994-04-14",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/139",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-27-1994",
+"path": "local/bucuresti/cgmb/1994/27",
+"kind": "local",
+"year": "1994",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 27/1994 : 27 DIN 14/04/94 - privind asocierea CLMB cu firma \"TABROS IMPEX\" SRL ANULATA PRIN SENTINTA CIVILA NR.230/1994",
+"short": "HCGMB nr. 27/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-04-14",
+"latest": "1994-04-14",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/143",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-28-1994",
+"path": "local/bucuresti/cgmb/1994/28",
+"kind": "local",
+"year": "1994",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 28/1994 : 28 DIN 09/05/94 - privind actiunea de infratire intre sectorul 2 din municipiul Bucuresti c u orasul Gillingham din Marea Britanie",
+"short": "HCGMB nr. 28/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-05-09",
+"latest": "1994-05-09",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/147",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-29-1994",
+"path": "local/bucuresti/cgmb/1994/29",
+"kind": "local",
+"year": "1994",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 29/1994 : 29 DIN 06/06/94 - privind participarea CLMB la proiectul de realizare a unei Piete de Gros in municipiul Bucuresti",
+"short": "HCGMB nr. 29/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-06",
+"latest": "1994-06-06",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/151",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +665,425 @@
 }
 },
 {
+"slug": "hcgmb-31-1994",
+"path": "local/bucuresti/cgmb/1994/31",
+"kind": "local",
+"year": "1994",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 31/1994 : 31 DIN 20/06/94 - privind aprobarea terenurilor ce urmeaza a fi concesionate sau incheiate contracte de asociere cu CLMB",
+"short": "HCGMB nr. 31/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/159",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-32-1994",
+"path": "local/bucuresti/cgmb/1994/32",
+"kind": "local",
+"year": "1994",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 32/1994 : 32 DIN 20/06/94 - privind organizarea, exploatarea si utilizarea spatiilor de parcare publi ca de pe teritoriul municipiului Bucuresti",
+"short": "HCGMB nr. 32/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/163",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-33-1994",
+"path": "local/bucuresti/cgmb/1994/33",
+"kind": "local",
+"year": "1994",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 33/1994",
+"short": "HCGMB nr. 33/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/167",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-34-1994",
+"path": "local/bucuresti/cgmb/1994/34",
+"kind": "local",
+"year": "1994",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 34/1994 : 34 DIN 20/06/94 - privind dezvoltarea activitatii Cantinei Centrale de Ajutor Social",
+"short": "HCGMB nr. 34/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/170",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-35-1994",
+"path": "local/bucuresti/cgmb/1994/35",
+"kind": "local",
+"year": "1994",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 35/1994 : 35 DIN 20/06/94 - privind atribuirea unor imobile Cantinei de Ajutor Social",
+"short": "HCGMB nr. 35/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/174",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-36-1994",
+"path": "local/bucuresti/cgmb/1994/36",
+"kind": "local",
+"year": "1994",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 36/1994 : 36 DIN 20/06/94 - privind modificarea componentei Consiliului de Administratie la Regia Aut onoma \"DRUPO\"",
+"short": "HCGMB nr. 36/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/178",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-37-1994",
+"path": "local/bucuresti/cgmb/1994/37",
+"kind": "local",
+"year": "1994",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 37/1994 : 37 DIN 20/06/94 - privind modificarea componentei Consiliului de administratie la RASUB",
+"short": "HCGMB nr. 37/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/182",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-38-1994",
+"path": "local/bucuresti/cgmb/1994/38",
+"kind": "local",
+"year": "1994",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 38/1994 : 38 DIN 20/06/94 - privind inlocuirea unor membri ai Consiliului de administratie al RADET B ucuresti",
+"short": "HCGMB nr. 38/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/186",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-39-1994",
+"path": "local/bucuresti/cgmb/1994/39",
+"kind": "local",
+"year": "1994",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 39/1994 : 39 DIN 20/06/94 - privind acordul CLMB pentru inlocuirea unui membru al consiliului de admi nistratie al Soc.Com. \"Cismigiu\" SA",
+"short": "HCGMB nr. 39/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-06-20",
+"latest": "1994-06-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/190",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-40-1994",
+"path": "local/bucuresti/cgmb/1994/40",
+"kind": "local",
+"year": "1994",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 40/1994 : 40 DIN 11/07/94 - priv.acord.titl.de \"Cetatean de Onoare al mun.Buc.\"echip.nat.de fotbal,an tren.,medicului si presed.FRF, care au reprez.Romania la CM de fotbal din SU A 1994",
+"short": "HCGMB nr. 40/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/194",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-41-1994",
+"path": "local/bucuresti/cgmb/1994/41",
+"kind": "local",
+"year": "1994",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 41/1994 : 41 DIN 11/07/94 privind asocierea CLMB cu corporatia North American World Trade",
+"short": "HCGMB nr. 41/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/198",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-42-1994",
+"path": "local/bucuresti/cgmb/1994/42",
+"kind": "local",
+"year": "1994",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 42/1994 : 42 DIN 11/07/94 - priv.posib.finaliz.unor blocuri aflate in diverse faze de exec.aprob.a fi vandute prin licit.publica, prin asoc.sau pt.tinerii casat.si celelalte cat eg.pers",
+"short": "HCGMB nr. 42/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/202",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-43-1994",
+"path": "local/bucuresti/cgmb/1994/43",
+"kind": "local",
+"year": "1994",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 43/1994 : 43 DIN 11/07/94 - privind modificarea si completarea art.1,alin.2 din Hot.CLMB nr.119/25.11 .1993",
+"short": "HCGMB nr. 43/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/206",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-44-1994",
+"path": "local/bucuresti/cgmb/1994/44",
+"kind": "local",
+"year": "1994",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 44/1994 : 44 DIN 11/07/94 - privind protectia spatiilor verzi de pe teritoriului Municipiului Bucuresti SE ABROGA PRIN HCGMB NR. 304/2009",
+"short": "HCGMB nr. 44/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/210",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-45-1994",
+"path": "local/bucuresti/cgmb/1994/45",
+"kind": "local",
+"year": "1994",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 45/1994 : 45 DIN 11/07/94 - privind completarea listelor obiectivelor ce urmeaza a fi vandute prin licitatie publica in baza prevederilor Legii nr. 85/1992",
+"short": "HCGMB nr. 45/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/213",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-46-1994",
+"path": "local/bucuresti/cgmb/1994/46",
+"kind": "local",
+"year": "1994",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 46/1994 : 46 DIN 11/07/94 privind modificarea hotaririi nr. 32/1992",
+"short": "HCGMB nr. 46/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/217",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-47-1994",
+"path": "local/bucuresti/cgmb/1994/47",
+"kind": "local",
+"year": "1994",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 47/1994 : 47 DIN 11/07/94 - privind modificarea Hotararii nr. 74/16.10.1992",
+"short": "HCGMB nr. 47/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/221",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-48-1994",
+"path": "local/bucuresti/cgmb/1994/48",
+"kind": "local",
+"year": "1994",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 48/1994 : 48 DIN 11/07/94 - privind infiintarea Administratiei pentru Ecarisaj in subordinea Consiliu lui local al municipiului Bucuresti",
+"short": "HCGMB nr. 48/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/225",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-49-1994",
+"path": "local/bucuresti/cgmb/1994/49",
+"kind": "local",
+"year": "1994",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 49/1994 : 49 DIN 11/07/94 - privind modificarea componentei Consiliului de administratie la RGAB",
+"short": "HCGMB nr. 49/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/229",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcgmb-50-1994",
 "path": "local/bucuresti/cgmb/1994/50",
 "kind": "local",
@@ -154,6 +1103,50 @@
 "council_name": "Consiliul General al Municipiului București",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-51-1994",
+"path": "local/bucuresti/cgmb/1994/51",
+"kind": "local",
+"year": "1994",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 51/1994 : 51 DIN 25/07/94 - privind adoptarea bugetului local pe anul 1994",
+"short": "HCGMB nr. 51/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-07-25",
+"latest": "1994-07-25",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/237",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-52-1994",
+"path": "local/bucuresti/cgmb/1994/52",
+"kind": "local",
+"year": "1994",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 52/1994 : 52 DIN 19/09/94 - privind infratirea municipiului Bucuresti cu orasul Atlanta - Georgia - S UA",
+"short": "HCGMB nr. 52/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-09-19",
+"latest": "1994-09-19",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/241",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +1194,252 @@
 }
 },
 {
+"slug": "hcgmb-55-1994",
+"path": "local/bucuresti/cgmb/1994/55",
+"kind": "local",
+"year": "1994",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 55/1994",
+"short": "HCGMB nr. 55/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-10-06",
+"latest": "1994-10-06",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/253",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-56-1994",
+"path": "local/bucuresti/cgmb/1994/56",
+"kind": "local",
+"year": "1994",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 56/1994",
+"short": "HCGMB nr. 56/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-10-06",
+"latest": "1994-10-06",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/257",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-57-1994",
+"path": "local/bucuresti/cgmb/1994/57",
+"kind": "local",
+"year": "1994",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 57/1994 : 57 DIN 06/10/94 - privind trecerea Parcului Bazilescu in administrarea CLMB - Administratia Parcurilor si Gradinilor",
+"short": "HCGMB nr. 57/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-10-06",
+"latest": "1994-10-06",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/261",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-58-1994",
+"path": "local/bucuresti/cgmb/1994/58",
+"kind": "local",
+"year": "1994",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 58/1994 : 58 DIN 16/11/94 - privind rectificarea bugetului CLMB pe anul 1994",
+"short": "HCGMB nr. 58/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-11-16",
+"latest": "1994-11-16",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/265",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-59-1994",
+"path": "local/bucuresti/cgmb/1994/59",
+"kind": "local",
+"year": "1994",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 59/1994 : 59 DIN 23/11/94 - privind organizarea activitatii de salubrizare in municipiul Bucuresti",
+"short": "HCGMB nr. 59/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-11-23",
+"latest": "1994-11-23",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/269",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-60-1994",
+"path": "local/bucuresti/cgmb/1994/60",
+"kind": "local",
+"year": "1994",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 60/1994 : 60 DIN 23/11/94 - privind acordarea titlului de cetatean de onoare al municipiului Bucurest i, multiplei campioane mondiale si olimpice NADIA COMANICI",
+"short": "HCGMB nr. 60/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-11-23",
+"latest": "1994-11-23",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/273",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-61-1994",
+"path": "local/bucuresti/cgmb/1994/61",
+"kind": "local",
+"year": "1994",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 61/1994 : 61 DIN 07/12/94 - privind rectificarea bugetului local al Municipiului Bucuresti pe anul 1994",
+"short": "HCGMB nr. 61/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-07",
+"latest": "1994-12-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/276",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-62-1994",
+"path": "local/bucuresti/cgmb/1994/62",
+"kind": "local",
+"year": "1994",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 62/1994",
+"short": "HCGMB nr. 62/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-07",
+"latest": "1994-12-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/280",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-63-1994",
+"path": "local/bucuresti/cgmb/1994/63",
+"kind": "local",
+"year": "1994",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 63/1994",
+"short": "HCGMB nr. 63/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-07",
+"latest": "1994-12-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/284",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcgmb-64-1994",
+"path": "local/bucuresti/cgmb/1994/64",
+"kind": "local",
+"year": "1994",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 64/1994 : 64 DIN 07/12/94 - priv.repartiz.unor blocuri,aflate in diverse faze de executie, ce urmeaza a fi finaliz.pt.categ.de persoane prevazute de Ordonanta Guvernului Romaniei 19/94",
+"short": "HCGMB nr. 64/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-07",
+"latest": "1994-12-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/288",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcgmb-65-1994",
+"path": "local/bucuresti/cgmb/1994/65",
+"kind": "local",
+"year": "1994",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 65/1994 : 65 DIN 07/12/94 - privind trecerea unor terenuri si constructii in administrarea Directiei de Administrare a Fondului Imobiliar",
+"short": "HCGMB nr. 65/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-07",
+"latest": "1994-12-07",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/292",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcgmb-66-1994",
 "path": "local/bucuresti/cgmb/1994/66",
 "kind": "local",
@@ -220,6 +1459,28 @@
 "council_name": "Consiliul General al Municipiului București",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-67-1994",
+"path": "local/bucuresti/cgmb/1994/67",
+"kind": "local",
+"year": "1994",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 67/1994 : 67 DIN 29/12/94 - privind modificarea structurii unor cheltuieli ale bugetului CLMB pe anul 1994 si aprobarea unui imprumut din fondul de tezaur",
+"short": "HCGMB nr. 67/1994",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1994-12-29",
+"latest": "1994-12-29",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/299",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

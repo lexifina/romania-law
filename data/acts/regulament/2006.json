@@ -381,6 +381,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80566",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-transporturi-4-2006",
+"path": "regulament/transporturi/2006/4",
+"kind": "regulament",
+"year": "2006",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 4/2006 de semnalizare",
+"short": "Regulament transporturi nr. 4/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-10-03",
+"latest": "2006-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212355",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

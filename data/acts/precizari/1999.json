@@ -39,6 +39,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18759",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "precizari-transporturi-178-1999",
+"path": "precizari/transporturi/1999/178",
+"kind": "precizari",
+"year": "1999",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 178/1999 privind modul de constituire și virare de către investitori sau proprietari a cotei de 0,5% din valoarea devizului de construcții, cu corespondent în devizul general al lucrării, cota aferentă Casei Sociale a Constructorilor",
+"short": "Precizări transporturi nr. 178/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-07-15",
+"latest": "1999-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18781",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

@@ -3,6 +3,36 @@
  "shard": "local/bucuresti/cgmb/1995",
  "acts": [
   {
+   "slug": "hcgmb-1-1995",
+   "path": "local/bucuresti/cgmb/1995/1",
+   "short": "HCGMB nr. 1/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1995 : 1 DIN 19/01/95 - priv.modif.tarif.de inchiriere pt.spatiile cu alta dest.in care se desf.a ctiv.de comerc.a public.si prod.alim.de baza-paine,lapte,carne,peste si deri vatele",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31",
+   "versions": [
+    {
+     "from": "1995-01-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/31/h01_95.pdf",
+     "sha256": "e3566b6e2913e36372387a9471ab10b838ea38762398a40bff328f21f1f6439a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-1995",
+   "path": "local/bucuresti/cgmb/1995/10",
+   "short": "HCGMB nr. 10/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1995 : 10 DIN 23/03/95 - privind extinderea Centrului de primire minori \"CIRESARII\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/75",
+   "versions": [
+    {
+     "from": "1995-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/75/h010_95.pdf",
+     "sha256": "dfb450a6d04e3e1f06ec5b69d1d3884d038aec496e295dbd810d6011077cb39d"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-11-1995",
    "path": "local/bucuresti/cgmb/1995/11",
    "short": "HCGMB nr. 11/1995",
@@ -14,6 +44,36 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/80/h011_95.pdf",
      "sha256": "14c0dba84b62e959f0d9dee43251f7e4aa62649ecebb4e9e5f4af696aff88d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1995",
+   "path": "local/bucuresti/cgmb/1995/12",
+   "short": "HCGMB nr. 12/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/85",
+   "versions": [
+    {
+     "from": "1995-03-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/85/h012_95.pdf",
+     "sha256": "3c91af7390366c170bc3223fcc0b2236bd5dc00874cecd13a61d66f7cf12ba55"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-1995",
+   "path": "local/bucuresti/cgmb/1995/13",
+   "short": "HCGMB nr. 13/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/89",
+   "versions": [
+    {
+     "from": "1995-03-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/89/h013_95.pdf",
+     "sha256": "d92a46cd37e2163d613df76598c0bd8f8feacf883fbab1c36c6b73e6ea53e305"
     }
    ]
   },
@@ -48,6 +108,246 @@
    ]
   },
   {
+   "slug": "hcgmb-16-1995",
+   "path": "local/bucuresti/cgmb/1995/16",
+   "short": "HCGMB nr. 16/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1995 : 16 DIN 30/03/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/101",
+   "versions": [
+    {
+     "from": "1995-03-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/101/h016_95.pdf",
+     "sha256": "19bfeac082991103372fdb58b070f6b07d606bfbb3f3a3b50360be58c93598c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1995",
+   "path": "local/bucuresti/cgmb/1995/17",
+   "short": "HCGMB nr. 17/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1995 : 17 DIN 06/04/95 - privind aprobarea unor planuri de urbanism de detaliu ale municipiului Bu curesti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/105",
+   "versions": [
+    {
+     "from": "1995-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/105/h017_95.pdf",
+     "sha256": "63eae6e3c3306658211d338d527a7034f9a59b18b28fa32dbb4bd570453a0da5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1995",
+   "path": "local/bucuresti/cgmb/1995/18",
+   "short": "HCGMB nr. 18/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1995 : 18 DIN 06/04/95 - privind aprobarea certificatelor de urbanism eliberate in zonele unde nu sunt studii de urbanism aprobate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/109",
+   "versions": [
+    {
+     "from": "1995-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/109/h018_95.pdf",
+     "sha256": "fcbd6b23e84e2f1b94fadb9579a934caa288c7511f081b5c16d9f107e5046828"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1995",
+   "path": "local/bucuresti/cgmb/1995/19",
+   "short": "HCGMB nr. 19/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1995 : 19 DIN 11/04/95 - privind eliberara certificatelor de atestare a dreptului de proprietate a supra terenurilor aflate in patrimoniul SC \"TRANSPORT FIZICIENILOR\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/113",
+   "versions": [
+    {
+     "from": "1995-04-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/113/h019_95.pdf",
+     "sha256": "3cad3b03e3733ddec9336405a0cb899700040db7b545a1e4d9fc6784ac8a9d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-1995",
+   "path": "local/bucuresti/cgmb/1995/2",
+   "short": "HCGMB nr. 2/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/1995 : 2 DIN 26/01/95 - priv.asig.conditiilor necesare trecerii retelelor inf.dintre statiile de hidrofor si consumat.de la Dir.Adm.a Fond.Imob.la RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35",
+   "versions": [
+    {
+     "from": "1995-01-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/35/h02_95.pdf",
+     "sha256": "5d7f3e5afa24cf77abf65ac818b961ad8566154a19db3ef6803a259febb1db56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1995",
+   "path": "local/bucuresti/cgmb/1995/20",
+   "short": "HCGMB nr. 20/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1995 : 20 DIN 11/04/95 - privind eliberarea certificatului de atestare a dreptulu de proprietate a supra terenurilor aflate in patrimoniul Societatii comerciale \"TAXI COBALCES CU \"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/117",
+   "versions": [
+    {
+     "from": "1995-04-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/117/h020_95.pdf",
+     "sha256": "3a7beea1dea5e7b00abe9e2ddf81fe56aa2fca01cb21eaeb5dc46cf963f2e5d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1995",
+   "path": "local/bucuresti/cgmb/1995/21",
+   "short": "HCGMB nr. 21/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1995 : 21 DIN 27/04/95 - privind majorarea numarului de personal al Administratiei strazilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/121",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/121/h021_95.pdf",
+     "sha256": "57acee73a083ae84ab532b31f28b9dcb2e017cd063f21b0c75aaa3129ddfe76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1995",
+   "path": "local/bucuresti/cgmb/1995/22",
+   "short": "HCGMB nr. 22/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1995 : 22 DIN 27/04/95 - privind prelungirea sau reinnoirea contractelor de inchiriere pentru unel e spatii cu alta destinatie decat aceea de locuinta apartinand Mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/125",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/125/h022_95.pdf",
+     "sha256": "9292ef3823ffbfc3c2f638b7f5bce8e62b39006c37c3c56bdd28702142ca137d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1995",
+   "path": "local/bucuresti/cgmb/1995/23",
+   "short": "HCGMB nr. 23/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1995 : 23 DIN 02/05/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul soc.com.\"AGREMIN\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/129",
+   "versions": [
+    {
+     "from": "1995-05-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/129/h023_95.pdf",
+     "sha256": "246a5c5945e4a2fc05645a3cd244844b075840210e4e4c26e08a0b08385ae45a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1995",
+   "path": "local/bucuresti/cgmb/1995/24",
+   "short": "HCGMB nr. 24/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/133",
+   "versions": [
+    {
+     "from": "1995-05-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/133/h024_95.pdf",
+     "sha256": "977afdfaa0b8e472442a9c056ad657c0badeb2ee1ba944f6f12e88edf5ea7ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1995",
+   "path": "local/bucuresti/cgmb/1995/25",
+   "short": "HCGMB nr. 25/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1995 : 25 DIN 04/05/95 - privind acordarea titlului de onoare al municipiului Bucuresti Cavalerilo r Ordinului \"MIHAI VITEAZUL \"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/137",
+   "versions": [
+    {
+     "from": "1995-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/137/h025_95.pdf",
+     "sha256": "5d5dbf0ac3f86cd82b10b30f252bd8fb67a304a8a99ca29ec96c74b768602719"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-1995",
+   "path": "local/bucuresti/cgmb/1995/26",
+   "short": "HCGMB nr. 26/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1995 : 26 DIN 11/05/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/140",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/140/h026_95.pdf",
+     "sha256": "4ae4d7e003c51a50ad8c03a009ba9cc4b9c6af05f2b95857ff634a8194875c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1995",
+   "path": "local/bucuresti/cgmb/1995/27",
+   "short": "HCGMB nr. 27/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1995 : 27 DIN 11/05/95 - privind aprobarea unor planuri urbanistice de detaliu in municipiul Bucur esti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/144",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/144/h027_95.pdf",
+     "sha256": "61b86bfb9cb72a0ee0cadcd34cde8beed7e3c2ee9983152d6a615993ccc69df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1995",
+   "path": "local/bucuresti/cgmb/1995/28",
+   "short": "HCGMB nr. 28/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1995 : 28 DIN 11/05/95 - priv.aprobarea certif.de urbanism eliberate in zonele unde nu sunt studii de urbanism aprobate (anulata prin sentinta civila din 14.11.1995)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/148",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/148/h028_95.pdf",
+     "sha256": "60be8796cc59e7628cee0e0ae552a709f79a9580e1d974aca36444c0ae188605"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1995",
+   "path": "local/bucuresti/cgmb/1995/29",
+   "short": "HCGMB nr. 29/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1995 : 29 DIN 11/05/95 - privind masuri de igienizare a municipiului Bucuresti printr-o actiune ge nerala de deratizare si de combatere a tantarilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/152",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/152/h029_95.pdf",
+     "sha256": "8e23176c2c077f2f1c7c69051486376ec633c02d2a11bc7a12f5cfd7f8dec408"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1995",
+   "path": "local/bucuresti/cgmb/1995/3",
+   "short": "HCGMB nr. 3/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40",
+   "versions": [
+    {
+     "from": "1995-01-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/40/h03_95.pdf",
+     "sha256": "1048fe98d3429f960b4830e96f4cb3440ae7fc9164c5d25c555033be37620a4b"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-30-1995",
    "path": "local/bucuresti/cgmb/1995/30",
    "short": "HCGMB nr. 30/1995",
@@ -59,6 +359,291 @@
      "units": 3,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/156/h030_95.pdf",
      "sha256": "ca420ef6537b66170b5cef672098ee094039bb1049ef159a60754bf43064feb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1995",
+   "path": "local/bucuresti/cgmb/1995/31",
+   "short": "HCGMB nr. 31/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1995 : 31 DIN 25/05/95 - priv.activ.de cosarit pe teritoriul mun.Bucuresti(anulat art.2,3,4 lit.a si b si pct.3.2,3.3,3.4,din anexa 2 prin sentinta civila 769/21.11.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/160",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/160/h031_95.pdf",
+     "sha256": "5f02c723ca2b5a3321d9ad23760536c24b4c31cb1f18818a708682f0154435e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1995",
+   "path": "local/bucuresti/cgmb/1995/32",
+   "short": "HCGMB nr. 32/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1995 : 32 DIN 25/05/95 - privind aderarea Municipiului Bucuresti la Federatia Mopndiala a Oraselor Unite si Localitatilor Infratite",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/164",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/164/h032_95.pdf",
+     "sha256": "e78b1f94df187fe78a62024e11341ce650bcd43e6182dba7a6eddf21e5816cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1995",
+   "path": "local/bucuresti/cgmb/1995/33",
+   "short": "HCGMB nr. 33/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1995 : 33 DIN 25/05/95 - privind modificarea si completarea HCLMB nr. 4/26.01.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/168",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/168/h033_95.pdf",
+     "sha256": "9329586fb4cbc49c73c09e4624f0282bbc07a2adad552e2fef71d5d4309f53d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1995",
+   "path": "local/bucuresti/cgmb/1995/34",
+   "short": "HCGMB nr. 34/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1995 : 34 DIN 25/05/95 - privind eliberarea certificatelor de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul societatii comerciale \"METEOR\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/171",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/171/h034_95.pdf",
+     "sha256": "e768789096bb944e19079a689452cbe2dd00a1231096eb9f13240a51fb2a3b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1995",
+   "path": "local/bucuresti/cgmb/1995/35",
+   "short": "HCGMB nr. 35/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1995 : 35 DIN 25/05/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul societatii comerciale \"APROMATCO\" S .A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/175",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/175/h035_95.pdf",
+     "sha256": "5dac93780f8b4422c4684f5280f072beda8d5ffd6eac727cc5007e620e4fe4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1995",
+   "path": "local/bucuresti/cgmb/1995/36",
+   "short": "HCGMB nr. 36/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1995 : 36 DIN 25/05/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor in patrimoniul societatii comerciale \"DELICIA-COM\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/179",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/179/h036_95.pdf",
+     "sha256": "b993077010c8894b631c44ec6479cd5b55dd231c7efa132be8621348c81e634b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1995",
+   "path": "local/bucuresti/cgmb/1995/37",
+   "short": "HCGMB nr. 37/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1995 : 37 DIN 25/05/95 - priv.insusirea raport.de expertiza ref.la iesirea din indiviz.prin delimi t.(granituirea) propr.imobilului situat in Buc.,str.Octav Cocararascu,nr.98, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/183",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/183/h037_95.pdf",
+     "sha256": "aa25b64e2396e90e5c33c78a6d171049a715f97ec0ac1d43f191397e53389141"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1995",
+   "path": "local/bucuresti/cgmb/1995/38",
+   "short": "HCGMB nr. 38/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1995 : 38 DIN 01/06/95 - privind prelungirea sau reanoirea contractelor de inchiriere pentru spati i cu alta destinatie decat aceea de locuinta apartinand municipiului Bucures ti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/187",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/187/h038_95.pdf",
+     "sha256": "1f117b713149896b69e447c23c2cf9797f93137fc613ef347969d55bd48d7197"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1995",
+   "path": "local/bucuresti/cgmb/1995/39",
+   "short": "HCGMB nr. 39/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1995 : 39 DIN 01/06/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Alimenta re cu apa Giulesti-Sarbi\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/191",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/191/h039_95.pdf",
+     "sha256": "b736d49c0f891293c3e39d4f516dd8153f9609811ff491892d87a4b925ee9221"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1995",
+   "path": "local/bucuresti/cgmb/1995/4",
+   "short": "HCGMB nr. 4/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1995 : 4 DIN 26/01/95 - privind masurile necesare consolidarii imobilelor avariate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45",
+   "versions": [
+    {
+     "from": "1995-01-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/45/h04_95.pdf",
+     "sha256": "537beb6dfdf26927456582276c01a94de996f1605a5cb8b8f6960682607ad3ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1995",
+   "path": "local/bucuresti/cgmb/1995/40",
+   "short": "HCGMB nr. 40/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1995 : 40 DIN 01/06/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Inlocuire conducta cu apa str.Straduintei\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/195",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/195/h040_95.pdf",
+     "sha256": "ddeda198080b1553e3fa2eaac8e8145608c62b484acbf4d5f602759a03a3872f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1995",
+   "path": "local/bucuresti/cgmb/1995/41",
+   "short": "HCGMB nr. 41/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1995 : 41 DIN 01/06/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Canalizare str.Cricovul Dulce-Aleea Secuilor\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/199",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/199/h041_95.pdf",
+     "sha256": "edf26ef55157a8e7012affbd980545fa5bc2a26f959124e73c993317d2ffb9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1995",
+   "path": "local/bucuresti/cgmb/1995/42",
+   "short": "HCGMB nr. 42/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1995 : 42 DIN 08/06/95 - privind aprobarea bugetului local pe anul 1995 (ANULAT ART.7 ALIN.2 PRIN SENTINTA CIVILA NR.876/19.12.1995)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/203",
+   "versions": [
+    {
+     "from": "1995-06-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/203/h042_95.pdf",
+     "sha256": "7c9a29c0f015be7a641229a29036384a9f88b984862c2078d841824a7600f042"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1995",
+   "path": "local/bucuresti/cgmb/1995/43",
+   "short": "HCGMB nr. 43/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1995 : 43 DIN 08/06/95 - privind aprobarea bugetelor de venituri si cheltuieli pe anul 1995 ale regiilor autonome de sub autoritatea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/207",
+   "versions": [
+    {
+     "from": "1995-06-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/207/h043_95.pdf",
+     "sha256": "755665fa291f8efdb75cc638bf73e355b363d3da0bb40c6d0f38383ddc5d0d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1995",
+   "path": "local/bucuresti/cgmb/1995/44",
+   "short": "HCGMB nr. 44/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/211",
+   "versions": [
+    {
+     "from": "1995-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/211/h044_95.pdf",
+     "sha256": "6cc4d98d8b992fc99f3eec65f6de038fb6240e9dc75fdb71d2a0b206de1164d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1995",
+   "path": "local/bucuresti/cgmb/1995/45",
+   "short": "HCGMB nr. 45/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1995 : 45 DIN 15/06/95 - privind eliberarea certificatului de atestare a dreptului asupra terenuri lor aflate in patrimoniul Societatii comerciale \"PROCAS\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/214",
+   "versions": [
+    {
+     "from": "1995-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/214/h045_95.pdf",
+     "sha256": "5af322a986077ed85d9331641397aa2540c4710d8691c067cd8f730b9a4e107d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1995",
+   "path": "local/bucuresti/cgmb/1995/46",
+   "short": "HCGMB nr. 46/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1995 : 46 DIN 15/06/95 - privind eliberarea certifcatului de atestare a dreptului de proprietate a supra terenurilor aflate in patrimoniul Societatii comerciale \"AROCONSTRUCT\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/218",
+   "versions": [
+    {
+     "from": "1995-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/218/h046_95.pdf",
+     "sha256": "fb09ec386d93b7bc9f39ab55df48e9144188b4d74b8e5b316274ce0927e9e71b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1995",
+   "path": "local/bucuresti/cgmb/1995/47",
+   "short": "HCGMB nr. 47/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1995 : 47 DIN 15/06/95 - priv.transf.de la CLMB catre RENEL-FDEB a instal.electr.din ob.de invest. :Statie de repompare 13 Sept.si a instal.de la clad.RGAB situate in C.Serban Voda",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/222",
+   "versions": [
+    {
+     "from": "1995-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/222/h047_95.pdf",
+     "sha256": "c5f6ec831e8fe8dcc383ac9fe2bf7cd5b917ec3868b9b0aa2c6fc74bd395b596"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1995",
+   "path": "local/bucuresti/cgmb/1995/48",
+   "short": "HCGMB nr. 48/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/226",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/226/h048_95.pdf",
+     "sha256": "47f3060991e051337dbb295f22d43363e00d0f4c83d4d5908eec8605548d53c0"
     }
    ]
   },
@@ -78,6 +663,141 @@
    ]
   },
   {
+   "slug": "hcgmb-5-1995",
+   "path": "local/bucuresti/cgmb/1995/5",
+   "short": "HCGMB nr. 5/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1995 : 5 DIN 26/01/95 - privind transferul unor bunuri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/50",
+   "versions": [
+    {
+     "from": "1995-01-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/50/h05_95.pdf",
+     "sha256": "a7063e44edb47c62d77d0d4ba0eaae87c0bd134623e57523834cd06c9e21271d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1995",
+   "path": "local/bucuresti/cgmb/1995/50",
+   "short": "HCGMB nr. 50/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1995 : 50 DIN 20/07/95 - privind utilizarea unor sume din fondul de rezerva al bugetului local pe anul 1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/234",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/234/h050_95.pdf",
+     "sha256": "275fbbb47f1df64361dca85f46b1e2e71ef443cb1e7d9319de9b48ee047c5789"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1995",
+   "path": "local/bucuresti/cgmb/1995/51",
+   "short": "HCGMB nr. 51/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1995 : 51 DIN 20/07/95 - Avand in vedere aprobarea unor planuri urbanistice de detaliu in municipi ul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/238",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/238/h051_95.pdf",
+     "sha256": "080ea7a155f67976e0c6255e0a2184ec9c3ccc82765d12afe1adc3635113d296"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1995",
+   "path": "local/bucuresti/cgmb/1995/52",
+   "short": "HCGMB nr. 52/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1995 : 52 DIN 20/07/95 - priv.trecerea trotuarului adiacent Cimit.Sf.Vineri dinspre str.Iani Buzoi ani din administr.ADP sect.1 in administr.Adm.Cimit.si Cremat.Umane aflata s ub autor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/242",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/242/h052_95.pdf",
+     "sha256": "9567dbd968da2a528cdfe07928568db4724a72f6913ef12fbb998072f9f77a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1995",
+   "path": "local/bucuresti/cgmb/1995/53",
+   "short": "HCGMB nr. 53/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1995 : 53 DIN 20/07/95 - privind majorarea numarului de personal al Administratiei Strazilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/246",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/246/h053_95.pdf",
+     "sha256": "5264249b183e3e04cc2cb277a31f24bc2229e694a798c9014f88cac8b844c522"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1995",
+   "path": "local/bucuresti/cgmb/1995/54",
+   "short": "HCGMB nr. 54/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/250",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/250/h054_95.pdf",
+     "sha256": "c8bb555c4014d4ca6c815628c7c0fb0de8219f353640019c0386c24b5c3b138a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1995",
+   "path": "local/bucuresti/cgmb/1995/55",
+   "short": "HCGMB nr. 55/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1995 : 55 DIN 20/07/95 = privind reorganizarea strandului Floreasca II in baza de agrement si spor t",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/254",
+   "versions": [
+    {
+     "from": "1995-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/254/h055_95.pdf",
+     "sha256": "b8697c1f1ceb0f36b1289939752c950f65c5077295f843ffe7a8fdbfe449027a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1995",
+   "path": "local/bucuresti/cgmb/1995/56",
+   "short": "HCGMB nr. 56/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1995 : 56 DIN 27/07/95 - privind modificara art.2din HCLMB nr.63/07.12.1994 privind apribarea asoc ierii intre CLMB si Societ.ROMELPRODSERV SRL(ERGOTEX)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/258",
+   "versions": [
+    {
+     "from": "1995-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/258/h056_95.pdf",
+     "sha256": "2835a77236d131a8ea30b8e84980d66f1fa4d4de32a3903db9069e04bc2e984c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1995",
+   "path": "local/bucuresti/cgmb/1995/57",
+   "short": "HCGMB nr. 57/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1995 : 57 DIN 27/07/95 - priv.concesionarea,fara licit.publ.a teren.sit.la intersec.cal.Dudesti si sos.M.Bravu in supr.de 13035 mp Insp.Scolar al municip.Buc.in ptr.constr.un ei scoli",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/262",
+   "versions": [
+    {
+     "from": "1995-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/262/h057_95.pdf",
+     "sha256": "cf58497952a9e0acb6c5337b71793f5108075661a5a8e2ec270797a811787660"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-58-1995",
    "path": "local/bucuresti/cgmb/1995/58",
    "short": "HCGMB nr. 58/1995",
@@ -93,6 +813,276 @@
    ]
   },
   {
+   "slug": "hcgmb-59-1995",
+   "path": "local/bucuresti/cgmb/1995/59",
+   "short": "HCGMB nr. 59/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1995 : 59 DIN 27/08/95 - privind aprobarea unor planuri urbanistice de detaliu in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/270",
+   "versions": [
+    {
+     "from": "1995-08-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/270/h059_95.pdf",
+     "sha256": "31ed72c6d60b41a97a2c7e2b44e5ecaad7d6c7ceb75f78e07dd77fe257d9efc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1995",
+   "path": "local/bucuresti/cgmb/1995/6",
+   "short": "HCGMB nr. 6/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1995 : 6 DIN 26/01/95 - priv.trecerea in admin.RATB a terenurilor pe care sunt amplasate constr.proviz ale regiei(art.3,partea finala,anulat sentinta civila 139/14.03.1995)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/55",
+   "versions": [
+    {
+     "from": "1995-01-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/55/h06_95.pdf",
+     "sha256": "b2f11b30bd53ed08ef73e085e9472437c8e72a70728ed8e838ee0057f3971a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1995",
+   "path": "local/bucuresti/cgmb/1995/60",
+   "short": "HCGMB nr. 60/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1995 privind aprobarea unor planuri de urbanism zonale ale municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1248",
+   "versions": [
+    {
+     "from": "1995-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1248/h060_95.pdf",
+     "sha256": "cd7607df0f5de912a2943fe478414c01b334d78baa7b372d72e74bf5c5956bb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1995",
+   "path": "local/bucuresti/cgmb/1995/61",
+   "short": "HCGMB nr. 61/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1995 : 61 DIN 27/07/95 - privind aprobarea organizarii concursului de urbanism \"Bucuresti 2000\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/277",
+   "versions": [
+    {
+     "from": "1995-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/277/h061_95.pdf",
+     "sha256": "52668f611cbb455460f8b9751da0e7a9294d90542a0663ec06c06b7398862711"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1995",
+   "path": "local/bucuresti/cgmb/1995/62",
+   "short": "HCGMB nr. 62/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1995 : 62 DIN 27/07/95 - priv.aprob.aviz.Comisiei de urbanism,lucr.publice si amenaj.terit.,in ved erea elib.certif.de urbanism in zone unde nu sunt studii de urbanism aprobate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/281",
+   "versions": [
+    {
+     "from": "1995-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/281/h062_95.pdf",
+     "sha256": "dc9abcfc354f0c7846b58a978ce8907ef424888af6b71f534d389d0d8528c7bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-1995",
+   "path": "local/bucuresti/cgmb/1995/63",
+   "short": "HCGMB nr. 63/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/1995 : 63 DIN 03/08/95 - privind asocierea dintre CLMB si \"McDonalds Romania\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/285",
+   "versions": [
+    {
+     "from": "1995-03-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/285/h063_95.pdf",
+     "sha256": "cc49f971ffa184c1e1e0a56d46c5d6228a89027b3f9cb60167ab3992b238ebda"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1995",
+   "path": "local/bucuresti/cgmb/1995/64",
+   "short": "HCGMB nr. 64/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1995 : 64 DIN 09/07/95 - privind repartizarea fondurilor pentru plata ajutorului social",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/289",
+   "versions": [
+    {
+     "from": "1995-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/289/h064_95.pdf",
+     "sha256": "8fdb6c61d0054ab3860515b113a38be6a9e12e2f78123f8118b037752957ce36"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1995",
+   "path": "local/bucuresti/cgmb/1995/65",
+   "short": "HCGMB nr. 65/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1995 : 65 DIN 07/09/95 - privind aprobarea conditiilor contractuale si a elementelor economice ale asocierii intre CLMB si S.C.\"McDonalds Romania\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/293",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/293/h065_95.pdf",
+     "sha256": "c3778381c02933c45cf54e7688c8607a42211b615a63e178cb15f27e57871624"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1995",
+   "path": "local/bucuresti/cgmb/1995/66",
+   "short": "HCGMB nr. 66/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1995 privind aprobarea listei imobilelor cu destinatie de locuinta aflate in administrarea DAFI, care se consolideaza in 1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1249",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1249/h066_95.pdf",
+     "sha256": "ad278790c5d671b4b3884a805a933e8f868557fc3830c2899c0a9ccaf09ac68f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1995",
+   "path": "local/bucuresti/cgmb/1995/67",
+   "short": "HCGMB nr. 67/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1995 : 67 DIN 07/09/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra asupra terenurilor aflate in patrimoniul SC \"General Com\" SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/300",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/300/h067_95.pdf",
+     "sha256": "8345adba26e96d0b6c967e5b9f8ebeac0ae9e259bdca157e58e5dfa0911cfe8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1995",
+   "path": "local/bucuresti/cgmb/1995/68",
+   "short": "HCGMB nr. 68/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1995 : 68 DIN 07/09/95 - privind eliberarea certificatului de taestare a dreptului de proprietate a supra terenurilor aflate in patrimoniul SC\"NUFARUL\"SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/303",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/303/h068_95.pdf",
+     "sha256": "6d99f1402931070380f7460878f74682b40d991f1079a0b7f9db75ca4e30fc07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1995",
+   "path": "local/bucuresti/cgmb/1995/69",
+   "short": "HCGMB nr. 69/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1995 : 69 DIN 07/09/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul SC \"ASCENSORUL\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/306",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/306/h069_95.pdf",
+     "sha256": "9eafa316878fb120173539dd6b4d54857f025467bca44b81e8a4ec72bde95089"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1995",
+   "path": "local/bucuresti/cgmb/1995/7",
+   "short": "HCGMB nr. 7/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1995 : 7 DIN 28/02/95 -privind extinderea Centrului de primire minori \"CIRESARII\" Anulata prin Hotararea nr.10/23.03.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/60",
+   "versions": [
+    {
+     "from": "1995-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/60/h07_95.pdf",
+     "sha256": "94838ae7a593cbb594ecc0cd5c245d62a20b6b08b800662d0a3d8be26071aaf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1995",
+   "path": "local/bucuresti/cgmb/1995/70",
+   "short": "HCGMB nr. 70/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1995 : 70 DIN 07/09/95 - privind eliberarea certfcatului de atestare a dreptului de proprietate as upra terenurilor aflate in patrimoniul SC \"UNIVERSAL\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/309",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/309/h070_95.pdf",
+     "sha256": "d2471ac3446621700a98d25ed6832498d40624668671e010ada9e0f111154d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1995",
+   "path": "local/bucuresti/cgmb/1995/71",
+   "short": "HCGMB nr. 71/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1995 : 71 DIN 07/09/95 - privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul SC \"ASTRAL\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/312",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/312/h071_95.pdf",
+     "sha256": "35cc7e5e87b68f6692b64dadf9632dd3af03f965f1cc9401802742d3b039efd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1995",
+   "path": "local/bucuresti/cgmb/1995/72",
+   "short": "HCGMB nr. 72/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1995 : 72 DIN 07/09/95 - privind eliberarea certificatului de atestare a dreprului deproprietate a supra terenruilor aflate in patrimoniul SC \"PAJURA\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/315",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/315/h072_95.pdf",
+     "sha256": "e916ab834a907bc7c4adbe0a4a0e846e734b05b76caca8776bdb3abf42e68f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1995",
+   "path": "local/bucuresti/cgmb/1995/73",
+   "short": "HCGMB nr. 73/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1995 ANULATA PRIN SENTINTA CIVILA NR.11/22.01.1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1235",
+   "versions": [
+    {
+     "from": "1995-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1235/h073_95.pdf",
+     "sha256": "f324abe012d3d4766d906b7e974d57fb084389981b0b2e4b20267572aea4fa3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1995",
+   "path": "local/bucuresti/cgmb/1995/74",
+   "short": "HCGMB nr. 74/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1995 ANULATA PRIN HOTARAREA NR.90/26.10.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1236",
+   "versions": [
+    {
+     "from": "1995-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1236/h074_95.pdf",
+     "sha256": "d88d1675a96935bc52273d1414e991ffe8a688a87bffbece407452ed72e9a6ea"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-75-1995",
    "path": "local/bucuresti/cgmb/1995/75",
    "short": "HCGMB nr. 75/1995",
@@ -104,6 +1094,231 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/322/h075_95.pdf",
      "sha256": "89851e82bde7d1fafa89c9d2da0b3d4f29446f06278132118ca158691a25570a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1995",
+   "path": "local/bucuresti/cgmb/1995/76",
+   "short": "HCGMB nr. 76/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/325",
+   "versions": [
+    {
+     "from": "1995-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/325/h076_95.pdf",
+     "sha256": "63700f487b04b41a537e958a4dcefb36b4e383bfc39cd2f0999a469f00a03a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-1995",
+   "path": "local/bucuresti/cgmb/1995/77",
+   "short": "HCGMB nr. 77/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1995 : 77 DIN 05/10/95 - privind majorarea coeficientului de ierarhizare a salariilor personalului Administratiei Parcurilor si Gradinilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/328",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/328/h077_95.pdf",
+     "sha256": "fdb6831114a4a47b9018a75a1d91eb92ef462e6363016f59b8654ef209a50763"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1995",
+   "path": "local/bucuresti/cgmb/1995/78",
+   "short": "HCGMB nr. 78/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1995 : 78 DIN 05/10/95 - privind majorarea coeficientului de ierarhizare a salariilor personalului Administratiei Cimitirelor si Crematoriilor Umane",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/330",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/330/h078_95.pdf",
+     "sha256": "d2a24c0e7168fb988a711dee0b221b4626ffca7992362245d55142a0990b65aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1995",
+   "path": "local/bucuresti/cgmb/1995/79",
+   "short": "HCGMB nr. 79/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1995 : 79 DIN 05/10/95 - privind majorarea coeficientului de ierarhizare a salariilor personalului Administratiei Gradinii Zoologice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/332",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/332/h079_95.pdf",
+     "sha256": "286fd706f72841f03ebdbbef440e47485ae5c67a8c7cc0b34d8f7ae011299442"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1995",
+   "path": "local/bucuresti/cgmb/1995/8",
+   "short": "HCGMB nr. 8/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/65",
+   "versions": [
+    {
+     "from": "1995-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/65/h08_95.pdf",
+     "sha256": "3a9b51e2b8fd0c08c6381b9f22798959896b09dd7711d45846b5c32d6c05b4db"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-1995",
+   "path": "local/bucuresti/cgmb/1995/80",
+   "short": "HCGMB nr. 80/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1995 : 80 DIN 05/10/95 - privind majorarea coeficientului de ierarhizare a salariilor personalului Administratiei Strazilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/334",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/334/h080_95.pdf",
+     "sha256": "21db7f30c90411aa8db439e89d05254763486b8b5379c777f7d50de6f005c078"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1995",
+   "path": "local/bucuresti/cgmb/1995/81",
+   "short": "HCGMB nr. 81/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1995 privind programul de reabilitare a sistemului de alimentare cu apa al municipiului Bucuresti, cu finantare partiala printr-un imprumut BIRD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1247",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1247/h081_95.pdf",
+     "sha256": "f67e08656a284daaf189dd732e28a05c36e8632aab180c59c7fea72770d77b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1995",
+   "path": "local/bucuresti/cgmb/1995/82",
+   "short": "HCGMB nr. 82/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1995 : 82 DIN 05/10/95 - privind aprobarea unor planuri urbanistice de detaliu in municipiul Bucur esti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/337",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/337/h082_95.pdf",
+     "sha256": "ff580a34aca306171c2e7d70a9db176164e8fa7099f286be75529f87fd1491af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1995",
+   "path": "local/bucuresti/cgmb/1995/83",
+   "short": "HCGMB nr. 83/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1995 : 83 DIN 05/10/95 - privind aprobarea unor planuri urbanistice de detaliu in municipiul Bucur esti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/339",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/339/h083_95.pdf",
+     "sha256": "97b8bafeee22b70f8621bac7c747f9e8566be1823a1464e644633ca46d3d28e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1995",
+   "path": "local/bucuresti/cgmb/1995/84",
+   "short": "HCGMB nr. 84/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1995 : 84 DIN 05/10/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/341",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/341/h084_95.pdf",
+     "sha256": "279b8705cb17f417c9df6cec463d2d21a4a6cb667c80cf460a854d8a791a809b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1995",
+   "path": "local/bucuresti/cgmb/1995/85",
+   "short": "HCGMB nr. 85/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1995 : 85 DIN 05/10/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/343",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/343/h085_95.pdf",
+     "sha256": "a8d90b03ba79da6d5fbbab0d6ed8033efcb99dabbc6c020d34ebd9cf0fb722d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1995",
+   "path": "local/bucuresti/cgmb/1995/86",
+   "short": "HCGMB nr. 86/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1995 : 86 DIN 05/10/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/345",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/345/h086_95.pdf",
+     "sha256": "2e921e2517e1ef0d8434c2d502eadb56c043b2d7306fbf70073f54d123f46ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1995",
+   "path": "local/bucuresti/cgmb/1995/87",
+   "short": "HCGMB nr. 87/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1995 : 87 DIN 05/10/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/347",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/347/h087_95.pdf",
+     "sha256": "fad7025dcbb7e248053cd90a87baaf934723c544e4101bce3e45db3d58364ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1995",
+   "path": "local/bucuresti/cgmb/1995/88",
+   "short": "HCGMB nr. 88/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1995 : 88 DIN 05/10/95 - privind aprobarea unor planuri de urbanism zonale ale municipiului Bucure sti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/349",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/349/h088_95.pdf",
+     "sha256": "829ad4c8d6411f8a472a1219c8bddae52e808a10ce15352d059da101fc59e517"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-1995",
+   "path": "local/bucuresti/cgmb/1995/89",
+   "short": "HCGMB nr. 89/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/1995 privind aprobarea unor terenuri ce urmeaza a face obiectul licitatiei publice in vederea realizarii de contracte de inchiriere cu C.L.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1246",
+   "versions": [
+    {
+     "from": "1995-10-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/1246/h089_95.pdf",
+     "sha256": "59ab4b6243029341fb7c5f5f33cf42bfbd3c3b3686e56b7546e88d93ad833688"
     }
    ]
   },
@@ -164,6 +1379,111 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/354/h092_95.pdf",
      "sha256": "3928c29c1695630c1757fa27fbb534317ff6f464b2c147694fda347f7649e6e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1995",
+   "path": "local/bucuresti/cgmb/1995/93",
+   "short": "HCGMB nr. 93/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1995 : 93 DIN 02/10/95 - privind aprobarea constului de incheiere a exercitiului bugetar pe anul 1 992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/356",
+   "versions": [
+    {
+     "from": "1995-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/356/h093_95.pdf",
+     "sha256": "93ac1d0825586e5bf4fcecefeb001ee2a09eecc551dde9bc669dd1554a48ad9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1995",
+   "path": "local/bucuresti/cgmb/1995/94",
+   "short": "HCGMB nr. 94/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1995 : 94 DIN 26/10/95 - privind aprobarea documentatiei tehnico - economice a investitiei \"Modern izarea punctului termic N.Chibrit\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/358",
+   "versions": [
+    {
+     "from": "1995-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/358/h094_95.pdf",
+     "sha256": "747871916fbf0c590d4cd5c879ee763ee46cb21fa351f93d37a1e9c0a68063f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1995",
+   "path": "local/bucuresti/cgmb/1995/95",
+   "short": "HCGMB nr. 95/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1995 : 95 DIN 26/10/95 - priv.aprob.document.tehnico-econom.a invest.\"Contorizarea energ.term.furn iz.de CET-uri in sistem de termofic.al mun.Bucuresti-Extinderea lucr.de cont orizare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/360",
+   "versions": [
+    {
+     "from": "1995-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/360/h095_95.pdf",
+     "sha256": "5b3e0557beab6a4aea88406a074b73ab6b4cb75f10e76c452074c64b03a9e59c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1995",
+   "path": "local/bucuresti/cgmb/1995/96",
+   "short": "HCGMB nr. 96/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1995 : 96 DIN 26/10/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Moderniz area punctului termic D.Chibrit\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/362",
+   "versions": [
+    {
+     "from": "1995-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/362/h096_95.pdf",
+     "sha256": "39347458ab297f6c54f3a8c40834396cbabbe7e112dbebad4a82c7bfab9fd514"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1995",
+   "path": "local/bucuresti/cgmb/1995/97",
+   "short": "HCGMB nr. 97/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1995 : 97 DIN 26/10/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Moderniz area retelei de termoficare 2 Dn 600 CM 23 - CM 25\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/364",
+   "versions": [
+    {
+     "from": "1995-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/364/h097_95.pdf",
+     "sha256": "86fcd3175d63fccced582e4b764240f170523b4c897ba92d61dda73b1e0cc020"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1995",
+   "path": "local/bucuresti/cgmb/1995/98",
+   "short": "HCGMB nr. 98/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1995 : 98 DIN 26/10/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Extinder e retea canalizare sector 1\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/366",
+   "versions": [
+    {
+     "from": "1995-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/366/h098_95.pdf",
+     "sha256": "d5bcbf16e96448b9db8ae140edc578f71bab463482abe0046d6d516f6c0dcf6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1995",
+   "path": "local/bucuresti/cgmb/1995/99",
+   "short": "HCGMB nr. 99/1995",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1995 : 99 DIN 29/10/95 - privind aprobarea documentatiei tehnico-economice a investitiei \"Extinder e retea apa sectorul 1\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/368",
+   "versions": [
+    {
+     "from": "1995-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1995/368/h099_95.pdf",
+     "sha256": "ba7abe4ea78fa1410abc7fe58baecc0747db97103e4f14acfc7cc6d8e19f29a9"
     }
    ]
   }

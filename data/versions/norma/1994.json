@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "norma-economie-3021-1994",
+   "path": "norma/economie/1994/3021",
+   "short": "Norma economie nr. 3021/1994",
+   "title": "Norma nr. 3.021/1994 privind modul de ținere și de completare a Registrului comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5572",
+   "versions": [
+    {
+     "from": "1994-09-22",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5572",
+     "sha256": "58588f0083b9033bc31f32f850f0a6f9881143a05b142737989a54bc79561bd6"
+    }
+   ]
+  },
+  {
    "slug": "norma-finante-1252-1994",
    "path": "norma/finante/1994/1252",
    "short": "Norma finante nr. 1252/1994",

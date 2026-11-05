@@ -2493,6 +2493,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1186-2025",
+   "path": "ordin/economie/2025/1186",
+   "short": "Ordin economie nr. 1186/2025",
+   "title": "Ordinul nr. 1.186/2025 privind modificarea și completarea anexei la Ordinul ministrului energiei nr. 1.137/2023 pentru aprobarea Schemei de ajutor de stat privind sprijinirea modernizării/reabilitării rețelei inteligente de termoficare din Fondul pentru modernizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302873",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302873",
+     "sha256": "635d7c29d1acb8a654f568eedbb90482ab8eb94b55473d680c11652b103f08ae"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1224-2025",
    "path": "ordin/economie/2025/1224",
    "short": "Ordin economie nr. 1224/2025",
@@ -2504,6 +2519,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298233",
      "sha256": "354cb1d4d5fcbfaa558f0e9d175ae0c7bc5424b7eed67c874eab745b57f9274f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1247-2025",
+   "path": "ordin/economie/2025/1247",
+   "short": "Ordin economie nr. 1247/2025",
+   "title": "Ordinul nr. 1.247/2025 pentru modificarea și completarea Ordinului ministrului energiei nr. 1.120/2024 privind aprobarea Schemei de ajutor de stat sub formă de contracte pentru diferență pentru producerea de energie electrică din surse regenerabile de energie eoliană onshore și solară fotovoltaică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303493",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303493",
+     "sha256": "3c5c77b77083cc3345889958908a570f58d4e21e2d3e6ea7499774587cda6ecd"
     }
    ]
   },
@@ -2598,6 +2628,81 @@
    ]
   },
   {
+   "slug": "ordin-economie-1440-2025",
+   "path": "ordin/economie/2025/1440",
+   "short": "Ordin economie nr. 1440/2025",
+   "title": "Ordinul nr. 1.440/2025 privind modificarea Schemei de ajutor de minimis pentru \"Perfecționarea/recalificarea angajaților din societăți\", asociată Planului național de redresare și reziliență al României 2021-2026, pilonul II, componenta C7, investiția 19, aprobată prin Ordinul ministrului cercetării, inovării și digitalizării nr. 20.953/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299188",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299188",
+     "sha256": "7cbc7c2c75442ff14dbff23fb26fda3db27f761238ddf0556ed0587d4b8f6787"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1565-2025",
+   "path": "ordin/economie/2025/1565",
+   "short": "Ordin economie nr. 1565/2025",
+   "title": "Ordinul nr. 1.565/2025 privind modificarea Procedurii de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"START UP NATION - ROMÂNIA\", ediția 2024, finanțat din fonduri externe nerambursabile aferente Programului Educație și Ocupare 2021-2027, aprobată prin Ordinul ministrului economiei, digitalizării, antreprenoriatului și turismului nr. 328/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299742",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299742",
+     "sha256": "96d10260166fde78c6bc780d99f0b3f764d443ffcd603bddc29aa0e2b6ad6eda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1609-2025",
+   "path": "ordin/economie/2025/1609",
+   "short": "Ordin economie nr. 1609/2025",
+   "title": "Ordinul nr. 1.609/2025 privind modificarea art. 3 din anexa nr. 2 la Procedura de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului de accelerare a dezvoltării întreprinderilor mici și mijlocii, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 1.341/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300029",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300029",
+     "sha256": "3445bb0d7a3a16760a9d10eeade3cb555203e53df2bc130f0c187950bcb414c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1610-2025",
+   "path": "ordin/economie/2025/1610",
+   "short": "Ordin economie nr. 1610/2025",
+   "title": "Ordinul nr. 1.610/2025 privind modificarea art. 3 din anexa nr. 2 la Procedura de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului național multianual de microindustrializare, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300030",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300030",
+     "sha256": "99dbdf38a75640293d2244d8722cf299abb4da1cf10bdb898cf6b3236b1fbd66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1611-2025",
+   "path": "ordin/economie/2025/1611",
+   "short": "Ordin economie nr. 1611/2025",
+   "title": "Ordinul nr. 1.611/2025 privind modificarea art. 3 din anexa nr. 2 la Procedura de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului de dezvoltare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 603/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300031",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300031",
+     "sha256": "2b8f82a05cb95cd06d05631745208a57b4d3c5d1b7ce20fd6e5cf268ccf335a2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-166-2025",
    "path": "ordin/economie/2025/166",
    "short": "Ordin economie nr. 166/2025",
@@ -2628,6 +2733,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1970-2025",
+   "path": "ordin/economie/2025/1970",
+   "short": "Ordin economie nr. 1970/2025",
+   "title": "Ordinul nr. 1.970/2025 privind modificarea Schemei de ajutor de minimis pentru \"Perfecționarea/recalificarea angajaților din societăți\", asociată Planului național de redresare și reziliență al României 2021-2026, pilonul II, componenta C7, investiția 19, aprobată prin Ordinul ministrului cercetării, inovării și digitalizării nr. 20.953/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302410",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302410",
+     "sha256": "f70fac342100516ca049f82ffd81ffedd7398ec6d44e34d6a2ce2be6141a2316"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2147-2025",
    "path": "ordin/economie/2025/2147",
    "short": "Ordin economie nr. 2147/2025",
@@ -2639,6 +2759,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303759",
      "sha256": "16198c0f47766a7e153c977a733c833ba35d543d116d54761397da1c5dc3100a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-219-2025",
+   "path": "ordin/economie/2025/219",
+   "short": "Ordin economie nr. 219/2025",
+   "title": "Ordinul nr. 219/2025 privind aprobarea recunoașterii unui organism de inspecție tehnică și pentru modificarea anexei la Ordinul ministrului economiei și comerțului nr. 488/2006 privind recunoașterea organismelor de inspecție tehnică în exploatare pentru instalațiile de încărcare și descărcare a benzinei, amplasate pe containerele mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295254",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295254",
+     "sha256": "de30b50f333017e469ba7c7422f701c514a038655c52ae490f034a992eedf426"
     }
    ]
   },
@@ -2658,6 +2793,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-2224-2025",
+   "path": "ordin/economie/2025/2224",
+   "short": "Ordin economie nr. 2224/2025",
+   "title": "Ordinul nr. 2.224/2025 privind completarea punctului 7 din Procedura de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului de dezvoltare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 603/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304066",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304066",
+     "sha256": "12b51e13a189780a0df0eb0780ccf29099c5c13cb327c81a4aeb71855c37c0e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2225-2025",
+   "path": "ordin/economie/2025/2225",
+   "short": "Ordin economie nr. 2225/2025",
+   "title": "Ordinul nr. 2.225/2025 privind completarea punctului 7 din Procedura de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului național multianual de microindustrializare, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304067",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304067",
+     "sha256": "0e370fa5139369c9f4321fc83644b1ac73a4be10683a87d6ec089fb49ff5433d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2242-2025",
+   "path": "ordin/economie/2025/2242",
+   "short": "Ordin economie nr. 2242/2025",
+   "title": "Ordinul nr. 2.242/2025 pentru modificarea și completarea Schemei de ajutor de minimis destinate întreprinderilor din turism, inclusiv turism balnear și alimentație publică, afectate de inundații, la nivelul unității administrativ-teritoriale Praid, aprobată prin Ordinul ministrului economiei, digitalizării, antreprenoriatului și turismului nr. 1.434/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304099",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304099",
+     "sha256": "8f948c6f0618ba51c2791e673b63fa7baca1aa459ab06d3c8e9c18e2af3899d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2258-2025",
    "path": "ordin/economie/2025/2258",
    "short": "Ordin economie nr. 2258/2025",
@@ -2673,6 +2853,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-2338-2025",
+   "path": "ordin/economie/2025/2338",
+   "short": "Ordin economie nr. 2338/2025",
+   "title": "Ordinul nr. 2.338/2025 privind modificarea Procedurii de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"START UP NATION - ROMÂNIA\", ediția 2024, finanțat din fonduri externe nerambursabile aferente Programului Educație și Ocupare 2021-2027, aprobată prin Ordinul ministrului economiei, digitalizării, antreprenoriatului și turismului nr. 328/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304713",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304713",
+     "sha256": "8c77bbe3c3864f29c59c4beff8cbc9054cbaffbdc504b7690a27d0b3f3af8ee3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2355-2025",
+   "path": "ordin/economie/2025/2355",
+   "short": "Ordin economie nr. 2355/2025",
+   "title": "Ordinul nr. 2.355/2025 privind modificarea Schemei de ajutor de minimis pentru \"Perfecționarea/recalificarea angajaților din societăți\", asociată Planului național de redresare și reziliență al României 2021-2026, pilonul II, componenta C7, investiția 19, aprobată prin Ordinul ministrului cercetării, inovării și digitalizării nr. 20.953/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304812",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304812",
+     "sha256": "c38be287ddbafb2f9969e9d59f70582ebdad1e6450cc6a8eca0a6154cdf0311c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2443-2025",
+   "path": "ordin/economie/2025/2443",
+   "short": "Ordin economie nr. 2443/2025",
+   "title": "Ordinul nr. 2.443/2025 privind modificarea Schemei de ajutor de stat \"Sprijinirea utilizării serviciilor de comunicații prin diferite tipuri de instrumente pentru beneficiari, cu accent pe zonele albe\", asociată Planului național de redresare și reziliență al României 2021-2026, pilonul II, componenta 7, investiția 11, aprobată prin Ordinul ministrului cercetării, inovării și digitalizării nr. 20.690/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305640",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305640",
+     "sha256": "383d21eedbc506a3bce86e49dea46f61b95726011bdaa21db812dbff5c5c2103"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-274-2025",
    "path": "ordin/economie/2025/274",
    "short": "Ordin economie nr. 274/2025",
@@ -2684,6 +2909,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296428",
      "sha256": "91b4bd765b5c503d2c5bdf77949353848c85e5e1ebe7fb678a0215486375ba79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-30-2025",
+   "path": "ordin/economie/2025/30",
+   "short": "Ordin economie nr. 30/2025",
+   "title": "Ordinul nr. 30/2025 pentru modificarea punctului 1.5 \"Indicatori\" din Ghidul solicitantului în baza schemei de ajutor de stat privind sprijinirea modernizării/reabilitării rețelei inteligente de termoficare din Fondul pentru modernizare aferent programului-cheie 5: Cogenerare de înaltă eficiență și modernizarea rețelelor de termoficare - Sprijin pentru modernizarea și realizarea de centrale în cogenerare de înaltă eficiență și pentru modernizarea rețelelor de termoficare - Domeniul de investiții 5.3: Sprijin pentru modernizarea și dezvoltarea rețelei inteligente de termoficare, aprobat prin Ordinul ministrului energiei nr. 24/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293761",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293761",
+     "sha256": "1e859e31decf0136b958aa035459072a43217945daa4b91727ef1066157b6b82"
     }
    ]
   },
@@ -2714,6 +2954,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296798",
      "sha256": "534697025d41ff0bc2cb0a48fcde9e6695c3f3e08190ce4bd1e9ab8c25873ba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-373-2025",
+   "path": "ordin/economie/2025/373",
+   "short": "Ordin economie nr. 373/2025",
+   "title": "Ordinul nr. 373/2025 pentru modificarea Ghidului specific - Sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile pentru autoconsum, aferentă Fondului pentru modernizare, aprobat prin Ordinul ministrului energiei nr. 356/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296840",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296840",
+     "sha256": "b23070c09ca21727b7adddfcd1024cd6ec8c624a19f5f3594dc9a79756ec41a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-397-2025",
+   "path": "ordin/economie/2025/397",
+   "short": "Ordin economie nr. 397/2025",
+   "title": "Ordinul nr. 397/2025 pentru modificarea Schemei de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile pentru autoconsum, aferentă Fondului pentru modernizare, aprobată prin Ordinul ministrului energiei nr. 355/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296924",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296924",
+     "sha256": "b426a8dfeef35f94d780b0c4e7d0885aa66b20d5c5a280f3b5f453a6f619acd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-425-2025",
+   "path": "ordin/economie/2025/425",
+   "short": "Ordin economie nr. 425/2025",
+   "title": "Ordinul nr. 425/2025 pentru modificarea și completarea anexei la Ordinul ministrului energiei nr. 1.120/2024 privind aprobarea Schemei de ajutor de stat sub formă de contracte pentru diferență pentru producerea de energie electrică din surse regenerabile de energie eoliană onshore și solară fotovoltaică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297814",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297814",
+     "sha256": "1d27fb56c766a443825af228298b2ef1acdea7c64bf9bf874ec65bc3380e8029"
     }
    ]
   },
@@ -2834,6 +3119,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301572",
      "sha256": "61b5b8a7bb6201a88c5077ed7ca770eef3aa8dbd8334cc90bb4753afff897215"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-990-2025",
+   "path": "ordin/economie/2025/990",
+   "short": "Ordin economie nr. 990/2025",
+   "title": "Ordinul nr. 990/2025 privind suspendarea prevederilor art. 4 și ale art. 8 pct. 9 din anexa nr. 2 din Normele tehnice privind procedura de acreditare a administratorilor de arhivă electronică și procedura de avizare a sistemelor electronice de arhivare și pentru abrogarea Ordinului ministrului comunicațiilor și societății informaționale nr. 493/2009 privind normele tehnice și metodologice pentru aplicarea Legii nr. 135/2007 privind arhivarea documentelor în formă electronică, aprobate prin Ordinul ministrului cercetării, inovării și digitalizării nr. 20.717/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296785",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296785",
+     "sha256": "685c7c5c4b83ec3579c93eb596b718e6078c032c6bfce14ba811eeabdb3df558"
     }
    ]
   },
@@ -6573,6 +6873,111 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1145-2025",
+   "path": "ordin/transporturi/2025/1145",
+   "short": "Ordin transporturi nr. 1145/2025",
+   "title": "Ordinul nr. 1.145/2025 pentru aprobarea Programului național de pregătire în domeniul securității aviației civile - PNPSAC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301251",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301251",
+     "sha256": "ddaa69ce9225a5adb23bf64ab5e14cb2d139c6e502c9a7bc05062d0b3873f5f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1290-2025",
+   "path": "ordin/transporturi/2025/1290",
+   "short": "Ordin transporturi nr. 1290/2025",
+   "title": "Ordinul nr. 1.290/2025 privind adoptarea Planului de performanță al României pentru cea de-a patra perioadă de referință (2025-2029)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301252",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301252",
+     "sha256": "64c7236ba9da0a97ee612400458ad6dda5762db0038a2cb227832450c336338b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1318-2025",
+   "path": "ordin/transporturi/2025/1318",
+   "short": "Ordin transporturi nr. 1318/2025",
+   "title": "Ordinul nr. 1.318/2025 pentru aprobarea Schemei de ajutor de stat privind promovarea infrastructurii pentru o mobilitate cu emisii zero în sprijinul întreprinderilor și comunităților (e-MOVE RO)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301576",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301576",
+     "sha256": "4bd028d88b3ca1573239e5f27f853c400d388fa1aa91b1ee2b36287dd9df1aad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1319-2025",
+   "path": "ordin/transporturi/2025/1319",
+   "short": "Ordin transporturi nr. 1319/2025",
+   "title": "Ordinul nr. 1.319/2025 pentru aprobarea Schemei de ajutor de stat privind dezvoltarea infrastructurii de reîncărcare a vehiculelor electrice pe rețeaua națională de autostrăzi, drumuri expres și naționale \"e-Mobility RO\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301389",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301389",
+     "sha256": "a767abf10e81f14b78913a755e98189f408700d94d88c2ae93745603cb0a6bc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1909-2025",
+   "path": "ordin/transporturi/2025/1909",
+   "short": "Ordin transporturi nr. 1909/2025",
+   "title": "Ordinul nr. 1.909/2025 pentru aprobarea Reglementării aeronautice civile române privind licențierea unor categorii de personal aeronautic civil navigant RACR-LPN5, ediția 4/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303810",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303810",
+     "sha256": "d44300b7f9cf82af7ee230e350dfefc7958e54c90c0559096ff1ac4edcd732c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1925-2025",
+   "path": "ordin/transporturi/2025/1925",
+   "short": "Ordin transporturi nr. 1925/2025",
+   "title": "Ordinul nr. 1.925/2025 pentru aprobarea categoriilor de vehicule și a nivelului tarifului unitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302972",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302972",
+     "sha256": "0432711ff65cff64fd10c23aed154af19c6282bd651db855634b373e108d5cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1976-2025",
+   "path": "ordin/transporturi/2025/1976",
+   "short": "Ordin transporturi nr. 1976/2025",
+   "title": "Ordinul nr. 1.976/2025 pentru aprobarea Condițiilor specifice de exploatare a secției de circulație Oravița-Anina aparținând infrastructurii feroviare publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303744",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303744",
+     "sha256": "780152c8324f570618d8f183706471a94fd940c58480c96d250449f8268a899a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2146-2025",
    "path": "ordin/transporturi/2025/2146",
    "short": "Ordin transporturi nr. 2146/2025",
@@ -6584,6 +6989,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
      "sha256": "eadbb72fa0b42a81e580cf07cc64e3024cccae765a61e38a35793c983a4ba0a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2182-2025",
+   "path": "ordin/transporturi/2025/2182",
+   "short": "Ordin transporturi nr. 2182/2025",
+   "title": "Ordinul nr. 2.182/2025 privind aprobarea actualizării Contractului de servicii publice de transport cu metroul pentru anii 2025-2029 al Societății de Transport cu Metroul București \"METROREX\" - S.A., aprobat prin Ordinul ministrului transporturilor și infrastructurii nr. 4.051/2024, prin încheierea Actului adițional nr. 2 pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305063",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305063",
+     "sha256": "595eb1459caf659356adcef58411c532218124703d49b531c70e191f89ddac01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2185-2025",
+   "path": "ordin/transporturi/2025/2185",
+   "short": "Ordin transporturi nr. 2185/2025",
+   "title": "Ordinul nr. 2.185/2025 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 1.532/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura portuară și în infrastructura locală intermodală/multimodală, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 1, obiectivul specific 1.3 - Creșterea gradului de utilizare a căilor navigabile și a porturilor situate pe rețeaua TEN-T centrală, și axa prioritară 2 - Dezvoltarea unui sistem de transport multimodal, de calitate, durabil și eficient, obiectivul specific 2.4 - Creșterea volumului de mărfuri tranzitate prin terminale intermodale și porturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305016",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305016",
+     "sha256": "a8fdb39ec782863b3e428b33bea0e08df0a2eb89cc3a29461493bad7ece342aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2242-2025",
+   "path": "ordin/transporturi/2025/2242",
+   "short": "Ordin transporturi nr. 2242/2025",
+   "title": "Ordinul nr. 2.242/2025 pentru abrogarea Ordinului ministrului transporturilor nr. 66/2008 privind utilizarea echipamentelor, instalațiilor, utilajelor și mijloacelor tehnice de aerodrom și de protecție a navigației aeriene în desfășurarea activităților aeronautice civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305707",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305707",
+     "sha256": "78a0750016b76dbb1c561f44de3ceecd642fa493d3f97b88b0d2db65b71794a3"
     }
    ]
   },
@@ -6603,6 +7053,201 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2267-2025",
+   "path": "ordin/transporturi/2025/2267",
+   "short": "Ordin transporturi nr. 2267/2025",
+   "title": "Ordinul nr. 2.267/2025 pentru aprobarea Normelor privind autorizarea centrelor proprii de formare-calificare ale operatorilor de transport cu metroul, a Normelor privind autorizarea personalului cu responsabilități în siguranța circulației din transportul cu metroul și a Normelor privind implementarea și dezvoltarea sistemului de menținere a competențelor profesionale pentru personalul cu responsabilități în siguranța circulației din transportul cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306197",
+   "versions": [
+    {
+     "from": "2026-02-28",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306197",
+     "sha256": "35237490ac47d52b6e5c70aa2ed4d322a9a5801fb1705dde8f8378085309391b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2269-2025",
+   "path": "ordin/transporturi/2025/2269",
+   "short": "Ordin transporturi nr. 2269/2025",
+   "title": "Ordinul nr. 2.269/2025 privind modificarea unor ordine cu caracter normativ din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305843",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305843",
+     "sha256": "85abc479ede237cd9732adafcc1136c9b57b360d179918d81f649d87233447a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2271-2025",
+   "path": "ordin/transporturi/2025/2271",
+   "short": "Ordin transporturi nr. 2271/2025",
+   "title": "Ordinul nr. 2.271/2025 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 45/2022 privind emiterea certificatelor tehnice pentru vehiculele rutiere care efectuează transport rutier internațional de mărfuri, în vederea acordării autorizațiilor CEMT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305845",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305845",
+     "sha256": "89a48e754060d9688478705d7e3a3de3c3de9605fc11d37ae5f64a240b896793"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2273-2025",
+   "path": "ordin/transporturi/2025/2273",
+   "short": "Ordin transporturi nr. 2273/2025",
+   "title": "Ordinul nr. 2.273/2025 privind măsuri temporare de asigurare a necesităților de transport rutier interjudețean de persoane prin servicii regulate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305824",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305824",
+     "sha256": "f8544554b4e8e6987443fd6e935209f188e191bcbcd0c8dea9e15d0c7005fbda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2274-2025",
+   "path": "ordin/transporturi/2025/2274",
+   "short": "Ordin transporturi nr. 2274/2025",
+   "title": "Ordinul nr. 2.274/2025 pentru aprobarea tarifelor pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R. și pentru modificarea Ordinului ministrului transporturilor nr. 733/2013 pentru aprobarea Normelor privind autorizarea școlilor de conducători auto și a instructorilor auto, a Normelor privind atestarea profesorilor de legislație rutieră și a instructorilor de conducere auto, a Metodologiei de organizare și desfășurare a cursurilor de pregătire teoretică și practică a persoanelor în vederea obținerii permisului de conducere, a Programei de școlarizare, precum și privind condițiile și obligațiile pentru pregătirea teoretică și practică a persoanelor în vederea obținerii permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305847",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305847",
+     "sha256": "013b07ce5311a18f116de4c668a6e55a59e98009addb988e93c22603419465c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2284-2025",
+   "path": "ordin/transporturi/2025/2284",
+   "short": "Ordin transporturi nr. 2284/2025",
+   "title": "Ordinul nr. 2.284/2025 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 342/2017 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306404",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306404",
+     "sha256": "13c271d2e332870943b76e6c0fa210bc3ca840409d990ff5842831aa5c496aac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2287-2025",
+   "path": "ordin/transporturi/2025/2287",
+   "short": "Ordin transporturi nr. 2287/2025",
+   "title": "Ordinul nr. 2.287/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306478",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306478",
+     "sha256": "c8e01dad2c4a4b2dcb65ad37d3608b7ded1303a623e5f563ee389f5af292b91f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2288-2025",
+   "path": "ordin/transporturi/2025/2288",
+   "short": "Ordin transporturi nr. 2288/2025",
+   "title": "Ordinul nr. 2.288/2025 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 444/2018 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306321",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306321",
+     "sha256": "ffb5ee49cedc4b317455d5eb275f3192d4b37061c5883932e0e2c45d558d8ac4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2291-2025",
+   "path": "ordin/transporturi/2025/2291",
+   "short": "Ordin transporturi nr. 2291/2025",
+   "title": "Ordinul nr. 2.291/2025 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor destinate achiziției de vehicule cu emisii zero pentru transportul rutier de pasageri \"e-DRIVE\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306357",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306357",
+     "sha256": "ef4b2a5348039d684fd27f9856446b597a6dfe9af4684d79424e0b648e5a2b8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2294-2025",
+   "path": "ordin/transporturi/2025/2294",
+   "short": "Ordin transporturi nr. 2294/2025",
+   "title": "Ordinul nr. 2.294/2025 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005 pentru aprobarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306236",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306236",
+     "sha256": "a913a3a8e1e38d9a5c6acf412b865fba151ab8c189b54e8043ed5cd0f32036c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-253-2025",
+   "path": "ordin/transporturi/2025/253",
+   "short": "Ordin transporturi nr. 253/2025",
+   "title": "Ordinul nr. 253/2025 privind stabilirea modelului formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor la regimul transportului maritim și pe căi navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295731",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295731",
+     "sha256": "9da421178898cf1bd8c2c79b0b8f21cfa79d275d684fed5f24c6806e96e02192"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-263-2025",
+   "path": "ordin/transporturi/2025/263",
+   "short": "Ordin transporturi nr. 263/2025",
+   "title": "Ordinul nr. 263/2025 pentru aprobarea Reglementării aeronautice civile române RACR-AD-PETH \"Proiectarea și exploatarea tehnică a heliporturilor\", ediția 4/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295739",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295739",
+     "sha256": "69a0bce74de16eacd69157259649c9c7920663df40dcab07a34934b0aa5f8b78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-266-2025",
+   "path": "ordin/transporturi/2025/266",
+   "short": "Ordin transporturi nr. 266/2025",
+   "title": "Ordinul nr. 266/2025 privind aprobarea nivelului cotizației anuale plătite de sportivii legitimați la Aeroclubul României și al tarifelor percepute de Aeroclubul României în cazul activităților pentru terți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295764",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295764",
+     "sha256": "7dd948ef3665b5cf18ef19fd37acd518a80cc3f214cfa7d99d5d146f9d62c1c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-267-2025",
    "path": "ordin/transporturi/2025/267",
    "short": "Ordin transporturi nr. 267/2025",
@@ -6614,6 +7259,81 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297897",
      "sha256": "f9490884a20e8f0a961377d084e003ba40351204a85f3e765666b7b70f4854a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-379-2025",
+   "path": "ordin/transporturi/2025/379",
+   "short": "Ordin transporturi nr. 379/2025",
+   "title": "Ordinul nr. 379/2025 privind înființarea Aeroclubului Teritorial \"Aurel Răican\" Brăila - Ianca și a Aeroclubului Teritorial \"Mircea Zorileanu\" Brașov - Ghimbav, în cadrul Aeroclubului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296845",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296845",
+     "sha256": "f2d45bc4942537c5b59112eba512ed79db319de458b4b9c5cbaea2df1b81e335"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-390-2025",
+   "path": "ordin/transporturi/2025/390",
+   "short": "Ordin transporturi nr. 390/2025",
+   "title": "Ordinul nr. 390/2025 pentru aprobarea Ghidului solicitantului privind sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile pentru autoconsumul aerodromurilor, inclusiv sisteme de stocare a energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297787",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297787",
+     "sha256": "932d1346f3bb1572efcc538405d1627ca788d6d3e64b0c3bd4df3de422f70e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-396-2025",
+   "path": "ordin/transporturi/2025/396",
+   "short": "Ordin transporturi nr. 396/2025",
+   "title": "Ordinul nr. 396/2025 privind aprobarea actualizării Contractului de servicii publice de transport cu metroul pentru perioada 2025-2029 al Societății de Transport cu Metroul București \"METROREX\" - S.A., aprobat prin Ordinul ministrului transporturilor și infrastructurii nr. 4.051/2024, prin încheierea Actului adițional nr. 1 pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297028",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297028",
+     "sha256": "92edeb02d5a3a2e886faf729540e7ab52fcbee3441b6b401f00d72a58601ac8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-425-2025",
+   "path": "ordin/transporturi/2025/425",
+   "short": "Ordin transporturi nr. 425/2025",
+   "title": "Ordinul nr. 425/2025 privind aprobarea hărților strategice de zgomot elaborate pentru căile ferate, aflate în administrarea Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298078",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298078",
+     "sha256": "7c11860dbf363a6e0fced808c4675a2be06670d0b2768a21e53b1849285ffc2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-45-2025",
+   "path": "ordin/transporturi/2025/45",
+   "short": "Ordin transporturi nr. 45/2025",
+   "title": "Ordinul nr. 45/2025 privind aprobarea tarifelor de pilotaj aplicate de către Regia Autonomă \"Administrația Fluvială a Dunării de Jos\" Galați pentru pilotajul navelor maritime și fluviomaritime",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293929",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293929",
+     "sha256": "de23dbf3ad9c7970d2b64e324db30c420ba4b9a86aa32dffca091714ca778885"
     }
    ]
   },
@@ -6633,6 +7353,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-470-2025",
+   "path": "ordin/transporturi/2025/470",
+   "short": "Ordin transporturi nr. 470/2025",
+   "title": "Ordinul nr. 470/2025 privind aprobarea planului de acțiune realizat în baza hărților strategice de zgomot pentru portul Galați (port Mineralier, port Bazinul Nou, port Docuri) din administrarea Companiei Naționale \"Administrația Porturilor Dunării Maritime\" - S.A. Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298154",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298154",
+     "sha256": "a6af6e6bfc4612d6dd85c8eaf60d557c38f69155f581a21eb2e938825d482cc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-471-2025",
+   "path": "ordin/transporturi/2025/471",
+   "short": "Ordin transporturi nr. 471/2025",
+   "title": "Ordinul nr. 471/2025 privind aprobarea planului de acțiune realizat în baza hărților strategice de zgomot pentru portul Brăila din administrarea Companiei Naționale \"Administrația Porturilor Dunării Maritime\" - S.A. Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298155",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298155",
+     "sha256": "96c1148beb220fd68f9dbe8b277143d98a7999e0b31aa57b383960286d5c2bb2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-487-2025",
    "path": "ordin/transporturi/2025/487",
    "short": "Ordin transporturi nr. 487/2025",
@@ -6648,6 +7398,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-503-2025",
+   "path": "ordin/transporturi/2025/503",
+   "short": "Ordin transporturi nr. 503/2025",
+   "title": "Ordinul nr. 503/2025 privind stabilirea unor măsuri pentru aplicarea Regulamentului (UE) 2024/2.803 al Parlamentului European și al Consiliului din 23 octombrie 2024 privind punerea în aplicare a Cerului unic european",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298224",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298224",
+     "sha256": "76c1536cf6f88a30f5a69ca63320a25a0009b0286449d6f14074133edcf6f66d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-512-2025",
    "path": "ordin/transporturi/2025/512",
    "short": "Ordin transporturi nr. 512/2025",
@@ -6659,6 +7424,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298928",
      "sha256": "1ab4ebe94f1d03b61805c40281f4a06d3cc0176988e5938bb996629dbafcf16c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-579-2025",
+   "path": "ordin/transporturi/2025/579",
+   "short": "Ordin transporturi nr. 579/2025",
+   "title": "Ordinul nr. 579/2025 pentru aprobarea cadrului general privind examinarea medicală și psihologică a personalului cu atribuții în siguranța transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298920",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298920",
+     "sha256": "c3531d6b183723692009f909bffd9bed29b338be65befa69ca53c81ce26e1bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-756-2025",
+   "path": "ordin/transporturi/2025/756",
+   "short": "Ordin transporturi nr. 756/2025",
+   "title": "Ordinul nr. 756/2025 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor destinate achiziției de vehicule cu emisii zero pentru transportul rutier și feroviar de mărfuri, maritim și pe căi navigabile interioare de pasageri și mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300541",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300541",
+     "sha256": "0fa05dd0cbea1c21e9e58ac3553442dd4b29a910180ee852b9c5c769c39f97a1"
     }
    ]
   }

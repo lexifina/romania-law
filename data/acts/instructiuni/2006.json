@@ -77,6 +77,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77330",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-transporturi-201-2006",
+"path": "instructiuni/transporturi/2006/201",
+"kind": "instructiuni",
+"year": "2006",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 201/2006 pentru activitatea personalului de locomotiva în transportul feroviar",
+"short": "Instrucțiuni transporturi nr. 201/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-01-15",
+"latest": "2007-01-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81860",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "instructiuni-transporturi-357-2006",
+"path": "instructiuni/transporturi/2006/357",
+"kind": "instructiuni",
+"year": "2006",
+"number": "357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 357/2006 pentru efectuarea încercărilor și măsurătorilor la echipamentele și instalațiile electroenergetice feroviare - nr. 357",
+"short": "Instrucțiuni transporturi nr. 357/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-06-08",
+"latest": "2006-06-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/75382",
+"issuer": "transporturi",
+"joint": []
 }
 ]
 }

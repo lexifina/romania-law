@@ -3,6 +3,111 @@
  "shard": "local/bucuresti/cgmb/1998",
  "acts": [
   {
+   "slug": "hcgmb-1-1998",
+   "path": "local/bucuresti/cgmb/1998/1",
+   "short": "HCGMB nr. 1/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1998 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 1996",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1080",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1080/h01_98.pdf",
+     "sha256": "c7ef98f52597d65e59c9fcc60bf670a9bca51b010317241496005656e8d0fc64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-1998",
+   "path": "local/bucuresti/cgmb/1998/10",
+   "short": "HCGMB nr. 10/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructii definitive amplasate pe teren domeniu public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1096",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1096/h010_98.pdf",
+     "sha256": "bc74fc2e59817fd78822d9e197e43bd62c9eea90bafd8082a86c0a01efcf346f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-1998",
+   "path": "local/bucuresti/cgmb/1998/100",
+   "short": "HCGMB nr. 100/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1215",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1215/h0100_98.pdf",
+     "sha256": "3b6fe733f195ebdedbe863e9a526da841bc71861d34ae13b05c6464fe2dc2e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-1998",
+   "path": "local/bucuresti/cgmb/1998/101",
+   "short": "HCGMB nr. 101/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/1998 privind aprobarea organigramei si numarului de personal al Administratia pentru supravegherea animalelor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1216",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1216/h0101_98.pdf",
+     "sha256": "406e5d4eb66cab42697392f4e67e640657f4ca8a53980042b7add87b66dc6a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-1998",
+   "path": "local/bucuresti/cgmb/1998/102",
+   "short": "HCGMB nr. 102/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/1998 privind modificarea organigramei, statului de functiuni si a ROF ale aparatului propriu al PMB, prin reorganizarea Directiei de Publicitate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1222",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1222/h0102_98.pdf",
+     "sha256": "ac38dee46c8fc0b5c7324a6ed3ab79cd1dca5a7ad1c79767a7ca61fd8a793a92"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-1998",
+   "path": "local/bucuresti/cgmb/1998/103",
+   "short": "HCGMB nr. 103/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1205",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1205/h0103_98.pdf",
+     "sha256": "2d2451b42df0d0834062099dc9e7ac2b2a2275f817ff4aab73951484db09c875"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-1998",
+   "path": "local/bucuresti/cgmb/1998/104",
+   "short": "HCGMB nr. 104/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/1998 privind acceptarea unei donatii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1206",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1206/h0104_98.pdf",
+     "sha256": "5016a0f48be8e6cb6081194061c46a82d37603424791c4ce5dc0e394ad65bab5"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-105-1998",
    "path": "local/bucuresti/cgmb/1998/105",
    "short": "HCGMB nr. 105/1998",
@@ -33,6 +138,171 @@
    ]
   },
   {
+   "slug": "hcgmb-107-1998",
+   "path": "local/bucuresti/cgmb/1998/107",
+   "short": "HCGMB nr. 107/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/1998 privind utilizarea unor sume din disponibilul fondului de tezaur al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1261",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1261/h0107_98.pdf",
+     "sha256": "bb7c0db78706f2fb51895bb2037ca18574015ad0f69eccdffa9aae1d3cbc8e39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-1998",
+   "path": "local/bucuresti/cgmb/1998/108",
+   "short": "HCGMB nr. 108/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/1998 privind aprobarea bilantului contabil si a contului de profit si pierdere la 31 decembrie 1997 al Regiei Generale de Apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1263",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1263/h0108_98.pdf",
+     "sha256": "a886cbcc9475194c3d53b1e263ed62a73501448749c827377b8782a0fa245098"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-1998",
+   "path": "local/bucuresti/cgmb/1998/109",
+   "short": "HCGMB nr. 109/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/1998 privind aprobarea bilantului contabil si a contului de profit si pierdere la 31 decembrie 1997 al Regie Autonome de Distributie a Energiei Termice Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1264",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1264/h0109_98.pdf",
+     "sha256": "bfbdccb59481aaae446e9c36697f02e0ef3ae0cf77c259ace907cfb2f877efdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-1998",
+   "path": "local/bucuresti/cgmb/1998/11",
+   "short": "HCGMB nr. 11/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1097",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1097/h011_98.pdf",
+     "sha256": "1deb4f83a951bc7198d99ed452fa55c8af0ca7691e48a021b1c7ecea7a35daa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-1998",
+   "path": "local/bucuresti/cgmb/1998/110",
+   "short": "HCGMB nr. 110/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/1998 privind aprobarea bilantului contabil si a contului de profit si pierdere la 31 decembrie 1997 al Regiei Autonome de Transport Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1265",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1265/h0110_98.pdf",
+     "sha256": "ff7c66eeeb14bf38ccc23c2a7846c8696151745d592551f5b300ec4cedba0ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-1998",
+   "path": "local/bucuresti/cgmb/1998/111",
+   "short": "HCGMB nr. 111/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/1998 privind aprobarea bilantului contabil si a contului de profit si pierdere la 31 martie 1997 al Regiei Autonoma DRUPO",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1266",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1266/h0111_98.pdf",
+     "sha256": "78aea38322312437d8c11e1e7485d2656111f881b6c74ec804eb8948191d5f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-1998",
+   "path": "local/bucuresti/cgmb/1998/112",
+   "short": "HCGMB nr. 112/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/1998 privind finantarea unui program de lucrari de reabilitare a retelei de alimentare cu apa poptabila prin metode de excavatii minime",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1253",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1253/h0112_98.pdf",
+     "sha256": "ca65cce8e4a03c4d5e43156f1b45d9428a346f6ca403a5488dc3f4ecbd758fc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-1998",
+   "path": "local/bucuresti/cgmb/1998/113",
+   "short": "HCGMB nr. 113/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/1998 privind administrarea spatiilor verzi si aliniamentelor stradale aferente strazilor de pe teritoriul Primariilor de sector 1-6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1268",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1268/h0113_98.pdf",
+     "sha256": "1709c070d6fe6e42c42ac46d4673832452a34efa1c506d1a846aef85de3634d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-1998",
+   "path": "local/bucuresti/cgmb/1998/114",
+   "short": "HCGMB nr. 114/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/1998 privind modernizarea documentatiei tehnico-economice a investitiei \"Modernizare Calea Grivitei intre str.Clabucet si Bd.Ion Mihalache\", mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1254",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1254/h0114_98.pdf",
+     "sha256": "16b1bc31f7defcdcc273a91f4e51a8d598648fd1db53dd0fb71dfd9956756e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-1998",
+   "path": "local/bucuresti/cgmb/1998/115",
+   "short": "HCGMB nr. 115/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/1998 privind organizarea la Bucuresti a celui de-al V-lea Forum Economic al Regiunilor Europei",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1255",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1255/h0115_98.pdf",
+     "sha256": "99f2bafeebba452485113dbd1a60241f1aa104ef2fa7fe3cf92579ea4b155e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-1998",
+   "path": "local/bucuresti/cgmb/1998/116",
+   "short": "HCGMB nr. 116/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/1998 priv.desemnarea a 10 consilieri ai CGMB, ce urmeaza sa faca parte din colectivul de vizitatori pt.\"Programul de monitorizare al sistemului penitenciar",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1267",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1267/h0116_98.pdf",
+     "sha256": "d1b60a6c0d94483660dd3f4c62e771e7bd70c0e76761c06245e78974b239d326"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-117-1998",
    "path": "local/bucuresti/cgmb/1998/117",
    "short": "HCGMB nr. 117/1998",
@@ -44,6 +314,366 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1269/h0117_98.pdf",
      "sha256": "5060e13aa00daf86d8b91e103e9c24be10ef7d000860da0e92371857bb9d2c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-1998",
+   "path": "local/bucuresti/cgmb/1998/118",
+   "short": "HCGMB nr. 118/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1275",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1275/h0118_98.pdf",
+     "sha256": "767ac8c8aa22464b80b7f21a55fa11eadf1c4774f1b626609ebec25170a6ec1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-1998",
+   "path": "local/bucuresti/cgmb/1998/119",
+   "short": "HCGMB nr. 119/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplas.pe terenuri propr.pers.fizice/juridice si dom.priv.al mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1270",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1270/h0119_98.pdf",
+     "sha256": "23a21d78bed3532d1220510d94beb6409f261ef83f1e4496adf5bcdb8e1dfae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1998",
+   "path": "local/bucuresti/cgmb/1998/12",
+   "short": "HCGMB nr. 12/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1998 privind prelungirea sau reinnoirea contractelor de inchiriere pentru unele spatii cu alta destinatie decat aceea de locuinta apartinand mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1098",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1098/h012_98.pdf",
+     "sha256": "26e7619ac807219c8d53903b826822b22755ced45ce42bedef109c1298989257"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-1998",
+   "path": "local/bucuresti/cgmb/1998/120",
+   "short": "HCGMB nr. 120/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1278",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1278/h0120_98.pdf",
+     "sha256": "23d4eba50b48efa8568a777cbb531221fe8f7b6280df9500dfed0e938f38f2e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-1998",
+   "path": "local/bucuresti/cgmb/1998/121",
+   "short": "HCGMB nr. 121/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructie definitiva amplasata pe domeniul privat/public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1271",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1271/h0121_98.pdf",
+     "sha256": "729bacae4bade32037b35bf15ae02ac685f1e15f7a66f2767d6465b6aa5ec643"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-1998",
+   "path": "local/bucuresti/cgmb/1998/122",
+   "short": "HCGMB nr. 122/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1272",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1272/h0122_98.pdf",
+     "sha256": "43a2b606ed36193d4260b90316583976f6756bf54cbae396f5fed3ca2b6102ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-1998",
+   "path": "local/bucuresti/cgmb/1998/123",
+   "short": "HCGMB nr. 123/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii -microcentre comerciale amplasate pe domeniul privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1276",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1276/h0123_98.pdf",
+     "sha256": "afb5af1f65a21377988d887b8eba5da6a7984ffac2707576036fec63099154f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-1998",
+   "path": "local/bucuresti/cgmb/1998/124",
+   "short": "HCGMB nr. 124/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1296",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1296/h0124_98.pdf",
+     "sha256": "a3cdcac5a418c7acb325a4d6726bcdfd4e79e1827d146f001b3d878f8afa4762"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-1998",
+   "path": "local/bucuresti/cgmb/1998/125",
+   "short": "HCGMB nr. 125/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/1998 privind aprobarea duratei concediului de odihna suplimentar personalului din unele institutii publice ale C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1274",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1274/h0125_98.pdf",
+     "sha256": "7c4620e636b53ddec3575b1397e506b3ca980f16e058472a8e81b04c0bf68a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-1998",
+   "path": "local/bucuresti/cgmb/1998/126",
+   "short": "HCGMB nr. 126/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1303",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1303/h0126_98.pdf",
+     "sha256": "46d53b8c513a87226e97e6dfad3e5480d648ca1747dc9b1e83fd8c22616999e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-1998",
+   "path": "local/bucuresti/cgmb/1998/127",
+   "short": "HCGMB nr. 127/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/1998 privind darea in folosinta gratuita pe termen de 49 ani, a unui teren situat in zona Sos.Colentina - Str.Maior Bacila",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1304",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1304/h0127_98.pdf",
+     "sha256": "347aa1b9d5f41ccb81a7f5ec634a3ed09fdf4cd6dd59e0bb8f605dcd56b8d978"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-1998",
+   "path": "local/bucuresti/cgmb/1998/128",
+   "short": "HCGMB nr. 128/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/1998 privind necesitatea elaborarii unui proiect de lege referitor la organizarea si functionarea administratiei locale din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1256",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1256/h0128_98.pdf",
+     "sha256": "7e12ca5da252317fe7c2e320dc8a1baff9b435a1495f89cb29d53bf2f95dca6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-1998",
+   "path": "local/bucuresti/cgmb/1998/129",
+   "short": "HCGMB nr. 129/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1257",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1257/h0129_98.pdf",
+     "sha256": "09f71c88ceb68f62c4d91ecb42e6495da00124c354bb1d0be7e87e41af3591ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-1998",
+   "path": "local/bucuresti/cgmb/1998/130",
+   "short": "HCGMB nr. 130/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/1998 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare str Vasile Lascar, intre Sos.Stefan cel Mare si Bd.Dacia\", mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1258",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1258/h0130_98.pdf",
+     "sha256": "70db40de82fa71d48150ba69dd17c92d08f5b07328212e657f8163dc181f107b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-1998",
+   "path": "local/bucuresti/cgmb/1998/131",
+   "short": "HCGMB nr. 131/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/1998 priv.aprob.docum.tehnico-economice a investitiei \"Imbunatatirea conditiilor de circulatie pe sos.Buc-Ploiesti in zona Fantana Miorita\" mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1273",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1273/h0131_98.pdf",
+     "sha256": "0327dc33debcdc9c847867860d20fa9f04e01a629e4a926bf328c51dfe565cde"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-1998",
+   "path": "local/bucuresti/cgmb/1998/132",
+   "short": "HCGMB nr. 132/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/1998 PRIVIND MODIFICAREA ORGANIGRAMEI, STATUTULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE A APARATULUI PROPRIU AL P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1277",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1277/h0132_98.pdf",
+     "sha256": "ab113bfb67bb64b2afd02df1a9f743c492ddd4c0d6961bb8252f77cf34bcbb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-1998",
+   "path": "local/bucuresti/cgmb/1998/133",
+   "short": "HCGMB nr. 133/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/1998 privind aprobarea organigramei si numarului de personal la Administratia Strazilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1279",
+   "versions": [
+    {
+     "from": "1998-07-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1279/h0133_98.pdf",
+     "sha256": "2d4d432947d1bca88cb948aa728f5ca4654d161083aa0eaeb19aeaef9be3d94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-1998",
+   "path": "local/bucuresti/cgmb/1998/134",
+   "short": "HCGMB nr. 134/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1301",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1301/h0134_98.pdf",
+     "sha256": "c5a9ac68df58f2be84dbe11ae949819e9e56da6c3debc7e3712bd87b0b5e2da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-1998",
+   "path": "local/bucuresti/cgmb/1998/135",
+   "short": "HCGMB nr. 135/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/1998 privind repartizarea pe bugete componente a sursei totale ale bugetului local al municipiului Bucuresti pe anul 1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1302",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1302/h0135_98.pdf",
+     "sha256": "6ae648f096dcfb45f6a9488963865e3006aec5579e59e6e211a082aa8c60ba68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-1998",
+   "path": "local/bucuresti/cgmb/1998/136",
+   "short": "HCGMB nr. 136/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/1998 privind programul de reabilitare a sistemului de termoficare din municipiul Bucuresti, cu finantare partiala din imprumuturi externe",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1295",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1295/h0136_98.pdf",
+     "sha256": "27c67c3151460b69f6ebc236e3653732c1e7ff850eadc45bfa599db33cb07bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-1998",
+   "path": "local/bucuresti/cgmb/1998/137",
+   "short": "HCGMB nr. 137/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1298",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1298/h0137_98.pdf",
+     "sha256": "c542379dd71c3364f3babea102049bd3cf864d41fa51e5c2097857e9988d210a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-1998",
+   "path": "local/bucuresti/cgmb/1998/138",
+   "short": "HCGMB nr. 138/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1297",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1297/h0138_98.pdf",
+     "sha256": "33570b3d1ea9a8699e90513e9daf5e2066c0e062ea6a12c728e22c2db1ffff18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-1998",
+   "path": "local/bucuresti/cgmb/1998/139",
+   "short": "HCGMB nr. 139/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1299",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1299/h0139_98.pdf",
+     "sha256": "a62d8ec93af9078f9079f08ace75e46fc312ce4493efd0f28c40d72cb423e00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-1998",
+   "path": "local/bucuresti/cgmb/1998/140",
+   "short": "HCGMB nr. 140/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1300",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1300/h0140_98.pdf",
+     "sha256": "c81a0884d55dda7e85d45d60055a13ebab26c0c40ac35f0c995e4d1f3df2979b"
     }
    ]
   },
@@ -93,6 +723,186 @@
    ]
   },
   {
+   "slug": "hcgmb-144-1998",
+   "path": "local/bucuresti/cgmb/1998/144",
+   "short": "HCGMB nr. 144/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/1998 privind aprobarea unui plan urbanistic de detaliu pentru amenajarea unui parc public pe un teren ce trece din dom.privat in dom.public al mun.Bucurest",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1282",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1282/h0144_98.pdf",
+     "sha256": "33ee7369f149c230ba052345a2dc2074f27ccddd459a0dd223450cada2da1ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-1998",
+   "path": "local/bucuresti/cgmb/1998/145",
+   "short": "HCGMB nr. 145/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructie provizorie amplasata pe domeniul privat al mun.Bucuresti (curte imobil Legea 112/95)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1284",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1284/h0145_98.pdf",
+     "sha256": "3734ccdf327510dade4758fc6a2040185c53dc5d84a6b6116842ce57f1e770bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-1998",
+   "path": "local/bucuresti/cgmb/1998/146",
+   "short": "HCGMB nr. 146/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/1998 privind aprobarea unui plan urbanistic de detaliu pentru panou publicitar electronic dinamic MEDIASTAR si amplas.pe domeniul public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1285",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1285/h0146_98.pdf",
+     "sha256": "a2bbc7e6ed8afa2f387f2436908a8bf18c429f6fa503daf5804db6edc7dde211"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-1998",
+   "path": "local/bucuresti/cgmb/1998/147",
+   "short": "HCGMB nr. 147/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructie provizorie - cabina poarta amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1286",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1286/h0147_98.pdf",
+     "sha256": "714de3aff7203a9b3ac04f435b9ddad5d6dd4ba95170638835c6337f5ce4b653"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-1998",
+   "path": "local/bucuresti/cgmb/1998/148",
+   "short": "HCGMB nr. 148/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructii provizorii - garaje+parcaje+comert - amplasate pe domeniul privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1287",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1287/h0148_98.pdf",
+     "sha256": "35aab0b65f87237448a525bba33e3108074c4f6f27116fc4e0bdc3e2c21dab0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-1998",
+   "path": "local/bucuresti/cgmb/1998/149",
+   "short": "HCGMB nr. 149/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/1998 privind corpul de cladire situat in str.Iuliu Barasch, nr.15, sector 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1288",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1288/h0149_98.pdf",
+     "sha256": "dea0f44ea8e33890ab1e00f6c2d543f7e36df218868e57425ae839f5dfb3f0ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-1998",
+   "path": "local/bucuresti/cgmb/1998/15",
+   "short": "HCGMB nr. 15/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/1998 priv.transmiterea in adm.Bibliotecii Mun.\"Mihail Sadoveanu\"a spatiilor care function.in prezent pe baza de contract de inchieriere",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1126",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1126/h015_98.pdf",
+     "sha256": "c78cb7a2b805751f7059ee2587d06e99c706b8d831e42bdfd600fe582db52980"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-1998",
+   "path": "local/bucuresti/cgmb/1998/150",
+   "short": "HCGMB nr. 150/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/1998 priv.conces.cu licitatie pe o per.de 49 ani a unui teren in supraf.de 965 mp sit.in str.Amiral Balescu 31A,sect.1,Buc.,constr.locuinte si birouri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1289",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1289/h0150_98.pdf",
+     "sha256": "2fd5955f761b26bca2f68afddc2836780aad7ce9c76c5074106849bb5f10157c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-1998",
+   "path": "local/bucuresti/cgmb/1998/151",
+   "short": "HCGMB nr. 151/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1290",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1290/h0151_98.pdf",
+     "sha256": "7e9ee6dfde584d68f7097ee374d7988e818bba5276f11f5b3775f98e4ffbbdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-1998",
+   "path": "local/bucuresti/cgmb/1998/152",
+   "short": "HCGMB nr. 152/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/1998 privind aprobarea studiului de fezabilitate pentru blocul V 4 din Ansamblul 13 Septembrie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1291",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1291/h0152_98.pdf",
+     "sha256": "085cc67c8e6f6c4c65d7389931ba08c0ff42126e761cc23d874b79663f4ebca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-1998",
+   "path": "local/bucuresti/cgmb/1998/153",
+   "short": "HCGMB nr. 153/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1292",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1292/h0153_98.pdf",
+     "sha256": "a6247713a4366dff9b3a9ea64f7753e3ac58a0e3ce39fb42bea2596b189a4c83"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-1998",
+   "path": "local/bucuresti/cgmb/1998/154",
+   "short": "HCGMB nr. 154/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/1998 privind organizarea la Bucuresti a Festivalului Berii, 1998, editia I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1293",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1293/h0154_98.pdf",
+     "sha256": "7af32efc7cec807881c0fb28028e26a67abce5f70e3673e347e9c6ed49ca3a60"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-156-1998",
    "path": "local/bucuresti/cgmb/1998/156",
    "short": "HCGMB nr. 156/1998",
@@ -104,6 +914,111 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1294/h0156_98.pdf",
      "sha256": "d5b92c3fc4616089b288e911211b96bf3e715a762f5d018ae424fe19b1516d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-1998",
+   "path": "local/bucuresti/cgmb/1998/157",
+   "short": "HCGMB nr. 157/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/1998 privind atribuirea in folosinta gratuita a supr.de 118,26 mp, situata in str. Labirint 75,corp A,Soc.de Cruce Rosie din Romania ptr.sediul Fil.sect.3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1305",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1305/h0157_98.pdf",
+     "sha256": "b4e97a804b02bb8f269b7de3e9eb1ebbed0f2cdc6b70240940da36d8861fd8a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-1998",
+   "path": "local/bucuresti/cgmb/1998/158",
+   "short": "HCGMB nr. 158/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/1998 privind transm.din adm.PMB in adm.Prim.sect.5 a unui teren in supr.de 7800 mp, situat in Sos.Alexandriei 22-24 destinat ampl.unei piete agroalimentare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1306",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1306/h0158_98.pdf",
+     "sha256": "9498b7707cdfa439b1fdd9f0eceafff1f8e1ca4efe63be18d1cea584c13f883d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-1998",
+   "path": "local/bucuresti/cgmb/1998/159",
+   "short": "HCGMB nr. 159/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive ampl.pe terenuri propr.pers.fizice/juridice si dom.public al mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1307",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1307/h0159_98.pdf",
+     "sha256": "c07d63cb02151683c07eee6e339ce4d561ae70ace900547648f80f1e029c29b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1998",
+   "path": "local/bucuresti/cgmb/1998/16",
+   "short": "HCGMB nr. 16/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1998 privind preluarea prin transfer cu plata a unor apartamente de la Regia Autonoma \"LOCATO\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1099",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1099/h016_98.pdf",
+     "sha256": "8c88fb447df73a61c11f2dc2ca538069e342dede20a4b6d41268dad94379743d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-1998",
+   "path": "local/bucuresti/cgmb/1998/160",
+   "short": "HCGMB nr. 160/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructie definitiva amplasata pe teren propr.persoana juridica+dom.public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1308",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1308/h0160_98.pdf",
+     "sha256": "6e30ed3301e41c024ccab057bff9419c74861a0ad641e311f61db24123c6e8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-1998",
+   "path": "local/bucuresti/cgmb/1998/161",
+   "short": "HCGMB nr. 161/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii -microcentre comerciale amplasate pe dom.privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1309",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1309/h0161_98.pdf",
+     "sha256": "30d1b7439fa7b6b58d549f3b0e113a7b6105f387e4e236927e34971e18b7f477"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-1998",
+   "path": "local/bucuresti/cgmb/1998/162",
+   "short": "HCGMB nr. 162/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/1998 privind modificarea Hot.CLMB nr.18/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1182",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1182/h0162_98.pdf",
+     "sha256": "4092ff2b7d5c350fd8856f608c73bd58364af518d5b00ded84b1c6debe7e2750"
     }
    ]
   },
@@ -138,6 +1053,261 @@
    ]
   },
   {
+   "slug": "hcgmb-180-1998",
+   "path": "local/bucuresti/cgmb/1998/180",
+   "short": "HCGMB nr. 180/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/1998 PRIVIND INFIINTAREA SOCIETATII COMERCIALE \"SERVICE CICLOP S.A.\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/37478",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/37478/H180_98.pdf",
+     "sha256": "bf54e7382122083e4203e8a0f0b6fb5a8974bc53ddc5c0179561c46f75c356c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1998",
+   "path": "local/bucuresti/cgmb/1998/19",
+   "short": "HCGMB nr. 19/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1130",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1130/h019_98.pdf",
+     "sha256": "8fec18b3a36b04a4f6decaa2dbd85351ebd71528cf6448dbbc4f2f98958d0a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-1998",
+   "path": "local/bucuresti/cgmb/1998/196",
+   "short": "HCGMB nr. 196/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1311",
+   "versions": [
+    {
+     "from": "1998-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1311/h0196_98.pdf",
+     "sha256": "4ebd2a9f7ed68d06880711f78b1d21fe12baf381cc989c89f97ba6081dd01e6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1998",
+   "path": "local/bucuresti/cgmb/1998/20",
+   "short": "HCGMB nr. 20/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1131",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1131/h020_98.pdf",
+     "sha256": "08d72e616f38d30df079bb2d5df96b3937451aff8c863a2605cb745dc961159c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-1998",
+   "path": "local/bucuresti/cgmb/1998/202",
+   "short": "HCGMB nr. 202/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1312",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1312/h0202_98.pdf",
+     "sha256": "66b80bdbe91f9aa831622ac739e9123fb950c2bb54bd4e7d48e6ba3ecd07dd4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-1998",
+   "path": "local/bucuresti/cgmb/1998/204",
+   "short": "HCGMB nr. 204/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/1998 priv.aprob.prev.din minuta incheiata ca urmare a negocierilor cu comp.Suez Lyonnaise des Eaux,a Termenilor de Referinta ptr.Contr.de Concesiune si Act",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1313",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1313/h0204_98.pdf",
+     "sha256": "309a3ee83e036abefda583f777e886512017634fe13041aa3a872ff75bef20dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-1998",
+   "path": "local/bucuresti/cgmb/1998/205",
+   "short": "HCGMB nr. 205/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1314",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1314/h0205_98.pdf",
+     "sha256": "edb7a3fa6a1558129450a19ab9fabf44975be8a8b682aecae4f71392b79f8ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-1998",
+   "path": "local/bucuresti/cgmb/1998/206",
+   "short": "HCGMB nr. 206/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie definitiva amplasata pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1320",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1320/h0206_98.pdf",
+     "sha256": "3c258441e71c1bf4388269a74feeb9f219fc78965eb793afdb4c14c58d656e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-1998",
+   "path": "local/bucuresti/cgmb/1998/207",
+   "short": "HCGMB nr. 207/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1321",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1321/h0207_98.pdf",
+     "sha256": "35a47b007af1ad7975302655be96fff30cec761ac74825213e666bf5a5068379"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-1998",
+   "path": "local/bucuresti/cgmb/1998/208",
+   "short": "HCGMB nr. 208/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1324",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1324/h0208_98.pdf",
+     "sha256": "1e9b60be60180406295e7c069c27c27882e7116e1ab3cc5b554e49fe4e3747c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-1998",
+   "path": "local/bucuresti/cgmb/1998/209",
+   "short": "HCGMB nr. 209/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/1998 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PTR.CONSTRUCTII PROVIZORII AMPLASATE PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1322",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1322/h0209_98.pdf",
+     "sha256": "2e78f1150e4c85eb8d7e0cd811743d2dfd67c36d29e4782777c7f53ea26631fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1998",
+   "path": "local/bucuresti/cgmb/1998/21",
+   "short": "HCGMB nr. 21/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1998 privind concesionarea fara licitatie publica, pentru realizarea unor extinderi in Bdul Libertatii nr.12, sector 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1132",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1132/h021_98.pdf",
+     "sha256": "59756aa258bd5714544dcc816bbebeedd51b35f87d30e02370890f2f5f8487eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-1998",
+   "path": "local/bucuresti/cgmb/1998/210",
+   "short": "HCGMB nr. 210/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/1998 privind transmiterea in administrare a unui teren aflat in patrimoniul Primariei municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1315",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1315/h0210_98.pdf",
+     "sha256": "d7247736ff299f7dc4c96e5daab5684a661e777f6a6e44d9d74acf4566f155aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-1998",
+   "path": "local/bucuresti/cgmb/1998/211",
+   "short": "HCGMB nr. 211/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/1998 privind schimbul de teren dintre CGMB si MApN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1316",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1316/h0211_98.pdf",
+     "sha256": "bc404c7011c1dbed95c1d83339a6b47556b33e774d26bda01db168a1cf781635"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-1998",
+   "path": "local/bucuresti/cgmb/1998/212",
+   "short": "HCGMB nr. 212/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/1998 priv.reglementarea raporturilor contractuale ptr.spatiile cu alta destinatie decat aceea de locuinta,adm.de PMB,ptr.care s-au incheiat contr.de asoc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1323",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1323/h0212_98.pdf",
+     "sha256": "2281e0333c2163a0b25ea80cef2cea2335e05cde9e7989e15e8265c89ee5457a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-1998",
+   "path": "local/bucuresti/cgmb/1998/213",
+   "short": "HCGMB nr. 213/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/1998 privind numirea directorului Administratiei strazilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1317",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1317/h0213_98.pdf",
+     "sha256": "f9e48d230ea81136b9231bae9806753b0583b852bc1d260491dd6f11650f225c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-1998",
+   "path": "local/bucuresti/cgmb/1998/214",
+   "short": "HCGMB nr. 214/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/1998 privind repartiz.bl.M68-sc.2-reprez.29 ap.din ansamblul Marasesti precum si bl. 54 avand 48 de ap.din ansambl.Calarasi (L.112/1995 si L.114/1996)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1318",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1318/h0214_98.pdf",
+     "sha256": "cef06044c04e92a48cb2d7954389e41df2fe51d36b60b052f4d3b63347a380ca"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-215-1998",
    "path": "local/bucuresti/cgmb/1998/215",
    "short": "HCGMB nr. 215/1998",
@@ -149,6 +1319,66 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1319/h0215_98.pdf",
      "sha256": "5350e5e38fd9502e9987632ebc0d7a3150f060377c2a2a8dee68281912b2fb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-1998",
+   "path": "local/bucuresti/cgmb/1998/217",
+   "short": "HCGMB nr. 217/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/1998 privind aprobarea bugetului de venituri si cheltuieli al Regiei Autonome de Distributie a Energiei Termice Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1375",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1375/h0217_98.pdf",
+     "sha256": "513caa4298a73e68d68022fb07e7d75120b278b0af028d3db607e4321277d549"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-1998",
+   "path": "local/bucuresti/cgmb/1998/218",
+   "short": "HCGMB nr. 218/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/1998 privind aprobarea bugetului de venituri si cheltuieli al Regiei Generale de Apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1374",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1374/h0218_98.pdf",
+     "sha256": "6e6de32aa85630d284e136f4d46d1fef9659aad70b2a5e77a5d14cace208a285"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-1998",
+   "path": "local/bucuresti/cgmb/1998/219",
+   "short": "HCGMB nr. 219/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/1998 privind aprobarea bugetului de venituri si cheltuieli al Regiei Autonome de Transport Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1369",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1369/h0219_98.pdf",
+     "sha256": "c29ab994859c9f9ed00967d1475ea0079c51f0ce0ddda98b14da4d001a0cc786"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1998",
+   "path": "local/bucuresti/cgmb/1998/22",
+   "short": "HCGMB nr. 22/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1998 privind privatizarea Societatii comerciale \"GENERALCOM\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1133",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1133/h022_98.pdf",
+     "sha256": "7d73a702785972a7bd35f1839c5beb9daa1744c759f51cbc2138d993817b2caf"
     }
    ]
   },
@@ -168,6 +1398,216 @@
    ]
   },
   {
+   "slug": "hcgmb-221-1998",
+   "path": "local/bucuresti/cgmb/1998/221",
+   "short": "HCGMB nr. 221/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/1998 privind reglementarea raporturilor contractuale pentru spatiile cu alta detsinatie decat aceea de locuinta administrate de P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1335",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1335/h0221_98.pdf",
+     "sha256": "4defa3de0588fdfe4143b9a00f6ac1342a60e3a0865567b9565a58ffef7e48a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-1998",
+   "path": "local/bucuresti/cgmb/1998/222",
+   "short": "HCGMB nr. 222/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/1998 priv.incheierea unor contr.de colab.cu ag.economici actuali detinatori care desf activ.in spatiile cu alta dest.decat aceea de loc.din adm.PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1367",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1367/h0222_98.pdf",
+     "sha256": "c09e0460e814e8afda4b2475cd86c07cd8180de502e5156c40500bae6d24dbe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-1998",
+   "path": "local/bucuresti/cgmb/1998/224",
+   "short": "HCGMB nr. 224/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe terenuri propr.pers.fiz/jur.in mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1364",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1364/h0224_98.pdf",
+     "sha256": "68060d77a0cf96d49b0bd058511b77263ce0b4cbb184519e24c6de1923d13762"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-1998",
+   "path": "local/bucuresti/cgmb/1998/226",
+   "short": "HCGMB nr. 226/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1339",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1339/h0226_98.pdf",
+     "sha256": "40bcec03d4c6cb810da44533cc7545e4cef01c594a18414615825dd2577a5b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-1998",
+   "path": "local/bucuresti/cgmb/1998/227",
+   "short": "HCGMB nr. 227/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constr.provizorii - extinderi si modernizari ampl.pe dom.privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1363",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1363/h0227_98.pdf",
+     "sha256": "cb326142aeabc0ad1283ee91c89b6e14420238ce0961ad7ea280e4e43aefbabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-1998",
+   "path": "local/bucuresti/cgmb/1998/228",
+   "short": "HCGMB nr. 228/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1338",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1338/h0228_98.pdf",
+     "sha256": "fe644031af572007959cc81d3fd37e8f1ccd65257d7b8b64e670c2e99b4c41dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-1998",
+   "path": "local/bucuresti/cgmb/1998/229",
+   "short": "HCGMB nr. 229/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul privat al mun.Bucuresti(curti imobile L.112/95)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1337",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1337/h0229_98.pdf",
+     "sha256": "53e6fd7d60eeaaafe8beff0d5ede05773c3ff8df707217c7bd89407ee489af71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1998",
+   "path": "local/bucuresti/cgmb/1998/23",
+   "short": "HCGMB nr. 23/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1998 privind privatizarea Societatii comerciale \"STAL\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1134",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1134/h023_98.pdf",
+     "sha256": "57c3291dc60e98a90bd055fd84d3224b527beb43dd66d277f6e01e5a5e7539ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-1998",
+   "path": "local/bucuresti/cgmb/1998/230",
+   "short": "HCGMB nr. 230/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructie provizorie amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1334",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1334/h0230_98.pdf",
+     "sha256": "1bc736ca01cc0e2e275c88324f5a72cc62314f83f7670b7eba15ea0b2efd38bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-1998",
+   "path": "local/bucuresti/cgmb/1998/231",
+   "short": "HCGMB nr. 231/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii in rezalit amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1336",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1336/h0231_98.pdf",
+     "sha256": "87861ebd0574650a6166e3f80a41b6891e5f4027b657603fbd5f58d9fc8bf360"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-1998",
+   "path": "local/bucuresti/cgmb/1998/232",
+   "short": "HCGMB nr. 232/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/1998 privind aprobarea unui plan urbanistic de detaliu ptr.prototipuri chioscuri LOTERIA NATIONALA cu vanzare loz in plic si loto-prono Avant cu ceas",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1332",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1332/h0232_98.pdf",
+     "sha256": "238a46c6db22bc397d9e5c130d0e677452e3066e36ff0a056355b427fe345a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-1998",
+   "path": "local/bucuresti/cgmb/1998/233",
+   "short": "HCGMB nr. 233/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/1998 privind aprobarea unui plan urbanistic de detaliu ptr.construirea Bisericii ortodoxe \"Sf.Ioan\" in incinta Spit.Sf.Ioan de catre Arh.Bucurestilor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1333",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1333/h0233_98.pdf",
+     "sha256": "21bd82881d34ec5477a520363e2c0bead5c631b1fa308bbb2251f52f5983539c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-1998",
+   "path": "local/bucuresti/cgmb/1998/234",
+   "short": "HCGMB nr. 234/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constr. provizorii ale RA LOTERIA NATIONALA ampl.pe dom.public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1362",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1362/h0234_98.pdf",
+     "sha256": "c399ec78003ec12864c2bd78561dd2f92341fc209548904c7a025f9a1bc57501"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-1998",
+   "path": "local/bucuresti/cgmb/1998/235",
+   "short": "HCGMB nr. 235/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1331",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1331/h0235_98.pdf",
+     "sha256": "5389480019c2ffea544359c6f2735316d21dab39efc0dea58984826af26b4991"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-236-1998",
    "path": "local/bucuresti/cgmb/1998/236",
    "short": "HCGMB nr. 236/1998",
@@ -183,6 +1623,186 @@
    ]
   },
   {
+   "slug": "hcgmb-237-1998",
+   "path": "local/bucuresti/cgmb/1998/237",
+   "short": "HCGMB nr. 237/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1361",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1361/h0237_98.pdf",
+     "sha256": "bdf96d38a13f9069ea1f612e5c049222cec4802a1d926051d0619a75fb7000f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-1998",
+   "path": "local/bucuresti/cgmb/1998/238",
+   "short": "HCGMB nr. 238/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/1998 privind schimbul de teren dintre CGMB si Familia Mateescu Rodica si Vasile",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1330",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1330/h0238_98.pdf",
+     "sha256": "0e81d9f24d545ce7f87a7082e32599893d4d159c92bf3c8ee36d68c4fbff8621"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-1998",
+   "path": "local/bucuresti/cgmb/1998/239",
+   "short": "HCGMB nr. 239/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/1998 privind concesionarea terenului situat in Bdul Unirii nr.59, sector 3, adiacent bl.F2/tr.2,destin.asigurarii functionalitatii unei constructii existen",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1329",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1329/h0239_98.pdf",
+     "sha256": "a73e63e5f9acfea2c985682ce036d9214943514d3d88b82bf06b94815d55c69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1998",
+   "path": "local/bucuresti/cgmb/1998/24",
+   "short": "HCGMB nr. 24/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1998 privind privatizarea Societatii comerciale \"COMNORD\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1135",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1135/h024_98.pdf",
+     "sha256": "6e1130a0ee03d806b6c3a3817b93f97000d709af6223b90206cc5a445635bb2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-1998",
+   "path": "local/bucuresti/cgmb/1998/240",
+   "short": "HCGMB nr. 240/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/1998 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea alimentare cu apa in zona Industriilor sector 3\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1325",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1325/h0240_98.pdf",
+     "sha256": "38d13260026ef863ae05797f21fca320723b1e576e6e2c8c8917a4521f0f420a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-1998",
+   "path": "local/bucuresti/cgmb/1998/241",
+   "short": "HCGMB nr. 241/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/1998 privind aprobarea documentatiei tehnico-economice a investitiei \"Extindere retea canalizare in zona Cazanesti, str.Trilului sector 3\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1326",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1326/h0241_98.pdf",
+     "sha256": "ebcce18edd54caf726f6073d19c05d76a8b0a792844e5a1fbab31855d6b7cf3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-1998",
+   "path": "local/bucuresti/cgmb/1998/242",
+   "short": "HCGMB nr. 242/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/1998 privind aprobarea documentatiei tehnico-economice a investitiei \"Modernizare Bdul Expozitiei\" intre CCIB si Aviator Popisteanu din mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1327",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1327/h0242_98.pdf",
+     "sha256": "423df0958619e74a54aa26ab804c038281fd0939ecad4918a682ce01189af7c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-1998",
+   "path": "local/bucuresti/cgmb/1998/243",
+   "short": "HCGMB nr. 243/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1328",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1328/h0243_98.pdf",
+     "sha256": "5f56719dcbdaf002954e01f0ceed9e994ba9a5961a7b1014080959e15d07c47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-1998",
+   "path": "local/bucuresti/cgmb/1998/244",
+   "short": "HCGMB nr. 244/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1340",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1340/h0244_98.pdf",
+     "sha256": "53523e4bda75f41ddd2d79cd8f39276a2b3a02e9d328e9b93abadfdb27a10dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-1998",
+   "path": "local/bucuresti/cgmb/1998/245",
+   "short": "HCGMB nr. 245/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1341",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1341/h0245_98.pdf",
+     "sha256": "c20b8ae175a46a00e9e9325e8ab08149d51604972dd1fe16cc55bbe8ecb9f375"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-1998",
+   "path": "local/bucuresti/cgmb/1998/246",
+   "short": "HCGMB nr. 246/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1342",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1342/h0246_98.pdf",
+     "sha256": "276c5086031260956e6ea3758c663edcda6fb8db360d64517b7ad8c78dbe0188"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-1998",
+   "path": "local/bucuresti/cgmb/1998/247",
+   "short": "HCGMB nr. 247/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1343",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1343/h0247_98.pdf",
+     "sha256": "70dea21e26b800796752193eb44c41288be49dce7f01511c66cfbe535fd540d0"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-248-1998",
    "path": "local/bucuresti/cgmb/1998/248",
    "short": "HCGMB nr. 248/1998",
@@ -194,6 +1814,1491 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1344/h0248_98.pdf",
      "sha256": "1e8c6c6901a3104648907d536b4480d265b14601135d254c667fc5220d3b0b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-1998",
+   "path": "local/bucuresti/cgmb/1998/249",
+   "short": "HCGMB nr. 249/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/1998 privind aprobarea fiselor de evaluare a posturilor din statul de functiuni al aparatului propriu al PMB si ale instit.publ.de sub autoritatea CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1347",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1347/h0249_98.pdf",
+     "sha256": "5fc0a5b244a5774c5d29fc9e832d1603adacd6ea71b11d930a6a4b72d7123131"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1998",
+   "path": "local/bucuresti/cgmb/1998/25",
+   "short": "HCGMB nr. 25/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1136",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1136/h025_98.pdf",
+     "sha256": "4ce28909808382eae72d190ba3ca779c2aab01dd42625d3aa6d0b51b4fe6f071"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-1998",
+   "path": "local/bucuresti/cgmb/1998/250",
+   "short": "HCGMB nr. 250/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1345",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1345/h0250_98.pdf",
+     "sha256": "a75da38afb9ebc89d2d73def93148b2fbeda3ab6b9ba72421eb2cecc00276746"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-1998",
+   "path": "local/bucuresti/cgmb/1998/251",
+   "short": "HCGMB nr. 251/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/1998 priv.aviz.doc.cuprinzand indic.tehnic-econ.ai obiectivelor de invest.\"Reabilit. retele de apa potabila din mun.Buc.,Zona Nord N1,N2,N3,zona Sud S5,S6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1370",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1370/h0251_98.pdf",
+     "sha256": "1c4d37123f4f437c11b757e88fb3be9da13ce0b3ba16d6c624042e8977d9343e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-1998",
+   "path": "local/bucuresti/cgmb/1998/252",
+   "short": "HCGMB nr. 252/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/1998 privind transmiterea unui imobil situat in Bucuresti,din administrarea Primariei Municipiului Bucuresti in administrarea Ministerului Finantelor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1371",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1371/h0252_98.pdf",
+     "sha256": "41ffb96442da379491e776961cb0a49918d815ab23e7b675a9ba4faa0fbbb0d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-1998",
+   "path": "local/bucuresti/cgmb/1998/253",
+   "short": "HCGMB nr. 253/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/1998 privind repartizarea pe bugete componete a influentelor stabilite prin Ordonanta de Urgenta a Guvernului nr.14/1998,ptr.rectific.bugetului de stat",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1372",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1372/h0253_98.pdf",
+     "sha256": "d46a543cb12c658d067faf3905e6e34bf4986ead0e42905278b20260e226a7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-1998",
+   "path": "local/bucuresti/cgmb/1998/254",
+   "short": "HCGMB nr. 254/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/1998 priv.trecerea spatiilor cu alta destinatie, din ansamblul Unirii si ansamblul Marasesti la dispozitia Directiei Generale de Asistenta Sociala",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1346",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1346/h0254_98.pdf",
+     "sha256": "c7b5141bcd3b187dd763bf604d912c87930c14e5371fcef735335cb2aab1f4d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-1998",
+   "path": "local/bucuresti/cgmb/1998/255",
+   "short": "HCGMB nr. 255/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1348",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1348/h0255_98.pdf",
+     "sha256": "0ee2741ffa6deee8440b5aaeeab45cf08f3a8598dc437c5f6afa98a206f1163d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-1998",
+   "path": "local/bucuresti/cgmb/1998/257",
+   "short": "HCGMB nr. 257/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/1998 privind modificarea organigramei PMB prin reorganizarea Directiei Personal si a Directiei Juridic Legislatie Contencios",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1684",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1684/h0257_98.pdf",
+     "sha256": "e7934f4f65ef6015385ff3409b5a91e5b8fbadb29e2b304576de4c7a63be2d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-1998",
+   "path": "local/bucuresti/cgmb/1998/258",
+   "short": "HCGMB nr. 258/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/1998 privind aprobarea si avizarea doumentatiilor tehnico-economice pentru obiective de investitii priv.extind.retelelor de alimentare cu apa si canalizare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1358",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1358/h0258_98.pdf",
+     "sha256": "50ccb81c4713de4e54ffc9ba9b43bf65169b80397ff4fbf3abe6756c0cb0a81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-1998",
+   "path": "local/bucuresti/cgmb/1998/259",
+   "short": "HCGMB nr. 259/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1349",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1349/h0259_98.pdf",
+     "sha256": "f47e900e2a0ae06958c77421114d4a3d96a97c2af3768bc760219953540eb11d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-1998",
+   "path": "local/bucuresti/cgmb/1998/26",
+   "short": "HCGMB nr. 26/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1137",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1137/h026_98.pdf",
+     "sha256": "023599f9c9b790f2e7b42860aaee042fd3fbba2b91927c10f6c1b67dbb6961bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-1998",
+   "path": "local/bucuresti/cgmb/1998/260",
+   "short": "HCGMB nr. 260/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/1998 privind desemnarea Adunarii Generale a Actionarilor la S.C.\"SERVICE CICLOP\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1350",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1350/h0260_98.pdf",
+     "sha256": "c62f7b73e9c61785fd9c0b108b024327b7ea24cbef0adaf5d693226dc3034008"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-1998",
+   "path": "local/bucuresti/cgmb/1998/261",
+   "short": "HCGMB nr. 261/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/1998 privind incasarea taxei locale pentru ocuparea cu constructii provizorii a terenului situat in str.Valea Oltului f.n., sector 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1352",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1352/h0261_98.pdf",
+     "sha256": "98ca59a2f7bfc3f80c592bc475848f7ed403ad5891d19f0080560e6e68a169bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-262-1998",
+   "path": "local/bucuresti/cgmb/1998/262",
+   "short": "HCGMB nr. 262/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 262/1998 privind aprobarea contractului de vanzare-cumparare tip SAD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1365",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1365/h0262_98.pdf",
+     "sha256": "09ed2fe317835ce0ce3dc9ae12b9aa32a2cf38e0a1945cc68f0a304865d1517a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-1998",
+   "path": "local/bucuresti/cgmb/1998/263",
+   "short": "HCGMB nr. 263/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/1998 priv.repartiz.bl.M37,sc.4,reprez.40 de apart.din ans.Marasesti pers.sinistrate in urma exploziei din B.Dacia 33 si pers.evacuate din case nation.L.112",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1353",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1353/h0263_98.pdf",
+     "sha256": "65db8e26d5a22fa22b8c4f49124940b631fc6129802b089c86473d5ad61367ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-1998",
+   "path": "local/bucuresti/cgmb/1998/264",
+   "short": "HCGMB nr. 264/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe terenuri propr.pers.fizica/juridica in mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1366",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1366/h0264_98.pdf",
+     "sha256": "ad61c1681603e65828956422269e899c284eafdae92b33c73ff0f6f838263913"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-1998",
+   "path": "local/bucuresti/cgmb/1998/265",
+   "short": "HCGMB nr. 265/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe teren proprietate de stat",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1359",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1359/h0265_98.pdf",
+     "sha256": "8d224fad1f7b1f5b40999450bbd08eb9ba8e8a9259cece2ae8b95a71e5e792bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-1998",
+   "path": "local/bucuresti/cgmb/1998/267",
+   "short": "HCGMB nr. 267/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/1998 privind concesionarea fara licitatie pe o perioada de 49 de ani, firmei AEGEK ROM CONSTRUCT a unui teren de 170 mp in str.Armand Calinescu 2-4,sect.2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1357",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1357/h0267_98.pdf",
+     "sha256": "2e5f280695745c0a1a1a7bdf379ffcae780cc6275461cb7e0dfb0f65264a8074"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-1998",
+   "path": "local/bucuresti/cgmb/1998/268",
+   "short": "HCGMB nr. 268/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1356",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1356/h0268_98.pdf",
+     "sha256": "fcf55cc8ea21570de4a6af662be0727ca2e59d7d6b83259950cd23b4ca92c565"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-269-1998",
+   "path": "local/bucuresti/cgmb/1998/269",
+   "short": "HCGMB nr. 269/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 269/1998 privind eliberarea certificatului de atestare a dreptului de proprietate asupra terenurilor aflate in patrimoniul S.C.\"PRIMCOM\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1354",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1354/h0269_98.pdf",
+     "sha256": "64355822f36711ebb4fb0c555988465bfcfc3ce5932e1323e377aff0fa91694d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1998",
+   "path": "local/bucuresti/cgmb/1998/27",
+   "short": "HCGMB nr. 27/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1138",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1138/h027_98.pdf",
+     "sha256": "60e9c5207e3bbdda840418c33085d17a185cce916b603e8a1f05185011a7d98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-270-1998",
+   "path": "local/bucuresti/cgmb/1998/270",
+   "short": "HCGMB nr. 270/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 270/1998 privind transmiterea in administrarea unor institutii publice de cultura subord.a unor spatii detinute de acestea pe baza de contr.de inchiriere",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1360",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1360/h0270_98.pdf",
+     "sha256": "a892973146cad966ba151a75b34d0fc176f23b3c87271206b7f343a0724d7720"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-271-1998",
+   "path": "local/bucuresti/cgmb/1998/271",
+   "short": "HCGMB nr. 271/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 271/1998 priv.avizarea proiectului de Hotarare a Guvernului Romaniei priv.trecerea unor inst.publice de cultura din subordinea Min.Culturii in subordinea CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1355",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1355/h0271_98.pdf",
+     "sha256": "2edeae7aa9970bf527826b9a5c6ccd28338e2cdca8472d39f7622fcc85c498df"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-272-1998",
+   "path": "local/bucuresti/cgmb/1998/272",
+   "short": "HCGMB nr. 272/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 272/1998 priv.aprob.doc.cupr.indicat.tehn.-ec.obiectiv.de invest.\"Reabilitarea retele apa potabila din mun.Buc.prin metoda escavarii minime,Nord 1,2,3,Sud 5,6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1373",
+   "versions": [
+    {
+     "from": "1998-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1373/h0272_98.pdf",
+     "sha256": "ea0afaaa3a746060d632977c87c8526c555872f508e4db62a0f237de35862144"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-276-1998",
+   "path": "local/bucuresti/cgmb/1998/276",
+   "short": "HCGMB nr. 276/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 276/1998 privind modificarea si completarea Hotararii nr.30/26.02.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1351",
+   "versions": [
+    {
+     "from": "1998-12-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1351/h0276_98.pdf",
+     "sha256": "e9a798549474faf20e21344a23efa2591e914dde51e2eb038bdb04ebb41f627a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1998",
+   "path": "local/bucuresti/cgmb/1998/28",
+   "short": "HCGMB nr. 28/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1139",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1139/h028_98.pdf",
+     "sha256": "93518d678679ea5090842ff6b5e29336d28dc7002568c9a51d34ba7e9cdb82d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1998",
+   "path": "local/bucuresti/cgmb/1998/29",
+   "short": "HCGMB nr. 29/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1998 privind aprobarea studiului de fezabilitate pentru blocul L 113 din Ansamblul Labirint",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1140",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1140/h029_98.pdf",
+     "sha256": "dac70f4554d22595ab016fa9489562a8e594d30d7b58d7ef7d9cec5406a8879e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1998",
+   "path": "local/bucuresti/cgmb/1998/3",
+   "short": "HCGMB nr. 3/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1998 privind aprobarea extinderea numarului de locatii conform contractului aprobat prin Hotararea CLMB nr.65/07.09.1995",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1081",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1081/h03_98.pdf",
+     "sha256": "4199743b3a84b23116a0d96d6c09bf9c9fc31f7df2c61e91da913609078d4715"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1998",
+   "path": "local/bucuresti/cgmb/1998/30",
+   "short": "HCGMB nr. 30/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1998 privind aprobarea studiului de fezabilitate pentru blocul L 116 din ansamblul Labirint",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1141",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1141/h030_98.pdf",
+     "sha256": "36b4c33f6c1dc8b62514006860d688974ad9b7450ca667a5a08705f27d3bdd8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1998",
+   "path": "local/bucuresti/cgmb/1998/31",
+   "short": "HCGMB nr. 31/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1998 privind aprobarea studiului de fezabilitate pentru blocul L 118A din Ansamblul Labirint",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1142",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1142/h031_98.pdf",
+     "sha256": "4e4270ccd938f7a31a840908e430c2b5560a65ff670835cd9dfaed8fa20a3e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1998",
+   "path": "local/bucuresti/cgmb/1998/32",
+   "short": "HCGMB nr. 32/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1998 privind aprobarea docum.tehn-econ.a investitiei \"Modernizare Str.Vasile Lascar, intre Str.Armand Calinescu si Bd.Carol I\", municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1143",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1143/h032_98.pdf",
+     "sha256": "b29ceef3219a8b8f3f3ecfe0f997b75ea303b51046fa3b97c6be4442bc1d32aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1998",
+   "path": "local/bucuresti/cgmb/1998/33",
+   "short": "HCGMB nr. 33/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1144",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1144/h033_98.pdf",
+     "sha256": "fc5c8279a90030778e1b4022bf5383bbbf8334b1e2afc385667dd283fa705ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1998",
+   "path": "local/bucuresti/cgmb/1998/34",
+   "short": "HCGMB nr. 34/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1998 privind infiintarea unei societati comerciale avand ca obiect constr.unui hotel de cinci stele pe terenul din vecinatatea Casei Presei Libere",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1145",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1145/h034_98.pdf",
+     "sha256": "729f937f5b93cd99c9ceba9d8a3076a7cc0efa5685ec19997e3d5ae664162e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1998",
+   "path": "local/bucuresti/cgmb/1998/35",
+   "short": "HCGMB nr. 35/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1998 privind transmit.din admin.PMB in admin.Min.Afacerilor Externe a unui teren situat in zona Casei Presei Libere",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1146",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1146/h035_98.pdf",
+     "sha256": "25b3af4ed85256c2cf6b81bffece64fa296d5cf6164306f72361e4e4a82ce999"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1998",
+   "path": "local/bucuresti/cgmb/1998/36",
+   "short": "HCGMB nr. 36/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1147",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1147/h036_98.pdf",
+     "sha256": "5684e9d82be4053f8344892f047cc739a5ceca02bb931cc3aeb589d096db9809"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1998",
+   "path": "local/bucuresti/cgmb/1998/37",
+   "short": "HCGMB nr. 37/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1148",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1148/h037_98.pdf",
+     "sha256": "7cec1b2e93991b8288e0986ff2f24e37add775e07298443d9879d0686f8f769f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1998",
+   "path": "local/bucuresti/cgmb/1998/38",
+   "short": "HCGMB nr. 38/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1998 priv.aprob.unor planuri urbanistice de detaliu ptr.constr.definitive amplasate pe propr.pers.fizice/juridice si partial pe dom.priv.al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1149",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1149/h038_98.pdf",
+     "sha256": "16fb6a60f44d19cd2a929738a951fe3e7be60737ac236414e19a07ece50ffd29"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1998",
+   "path": "local/bucuresti/cgmb/1998/39",
+   "short": "HCGMB nr. 39/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1998 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU PTR.CONSTR.DEFINITIVE AMPLASATE PE TERENURI APARTINAND DOMEN.PRIVAT AL MUN.BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1150",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1150/h039_98.pdf",
+     "sha256": "0f3292578372e3bdc6b0b713e99a8727cb227d6223f41dc08644a689635ab75d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1998",
+   "path": "local/bucuresti/cgmb/1998/4",
+   "short": "HCGMB nr. 4/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1998 privind rectificarea bugetului CGMB pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1082",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1082/h04_98.pdf",
+     "sha256": "52f312b688d1d5192a52ae98d44702bc26b9d14fc3be87425479a6953ca12eec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1998",
+   "path": "local/bucuresti/cgmb/1998/40",
+   "short": "HCGMB nr. 40/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1151",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1151/h040_98.pdf",
+     "sha256": "68f03a9abc99f3e6277fd1eaaa230a0aa8b5ee849dd13b0c054191abb44a463f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1998",
+   "path": "local/bucuresti/cgmb/1998/41",
+   "short": "HCGMB nr. 41/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe ternuri apartinand domeniului public al muni.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1152",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1152/h041_98.pdf",
+     "sha256": "eebbfb0b9dc6d4832831a95c1f7712239817f0e870b3b59604fc3fe67c5e5fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1998",
+   "path": "local/bucuresti/cgmb/1998/42",
+   "short": "HCGMB nr. 42/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1998 privind aprobarea planului de urbanism zonal \"Extindere Sos.Odai - Aleea Teisani\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1163",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1163/h042_98.pdf",
+     "sha256": "69a91228905f084b4bb3dcddf2a6d8da2f9a784fa95f09a88a47ceff3b84c200"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1998",
+   "path": "local/bucuresti/cgmb/1998/43",
+   "short": "HCGMB nr. 43/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1998 privind aprobare plan urbanistic de detaliu ptr.constr.definitiva amplasata pe teren dom.privat al statului in admin.Fed.Romane de Atletism",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1164",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1164/h043_98.pdf",
+     "sha256": "a9dd1c80c87a81c17e632203d74ce92a1f4959a8d9901fa1cca08b7815f87fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1998",
+   "path": "local/bucuresti/cgmb/1998/44",
+   "short": "HCGMB nr. 44/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1998 privind modificarea Hotararii C.G.M.B.nr.59/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1153",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1153/h044_98.pdf",
+     "sha256": "f04c0d0c00e4d05d10ebb7622a7cf06eaa1cbceee0668d2d5f1bbc9a02afba96"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1998",
+   "path": "local/bucuresti/cgmb/1998/46",
+   "short": "HCGMB nr. 46/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1998 privind concesionarea pe 49 ani apartinand dom.privat al PMB ptr.constr.obiect. \"Statia de transformare 110/20 KV Transilvania\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1154",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1154/h046_98.pdf",
+     "sha256": "030a17d6f25fe4da465b560f3984b85babf506d39c252d92e8457f449381576b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1998",
+   "path": "local/bucuresti/cgmb/1998/47",
+   "short": "HCGMB nr. 47/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1998 privind realizarea unor lucrari de reabilitare a liniei de centura",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1155",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1155/h047_98.pdf",
+     "sha256": "261f55f4d0d52164eca19723a779ada8c9206496cc2a6b4888632623623ba890"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1998",
+   "path": "local/bucuresti/cgmb/1998/48",
+   "short": "HCGMB nr. 48/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1998 privind concesionarea fara licitatie publica a unui teren destinat extinderii constructiei existente",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1156",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1156/h048_98.pdf",
+     "sha256": "eb4c443fe50aa18ce90b6772f88fef9a1bf765ad3d19c0c69a3c57ab6526b2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-1998",
+   "path": "local/bucuresti/cgmb/1998/49",
+   "short": "HCGMB nr. 49/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/1998 privind concesionarea fara licitatie publica a unui teren destinat extinderii constructiei existente",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1157",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1157/h049_98.pdf",
+     "sha256": "7c79fd6c94114c06221686ed583dc1a27d0d050944217013bf68ecf5f03e6dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1998",
+   "path": "local/bucuresti/cgmb/1998/5",
+   "short": "HCGMB nr. 5/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constr.provizorii amplasate pe terenuri apartinand domeniului privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1083",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1083/h05_98.pdf",
+     "sha256": "93f9ad5818e690e4c1b743b90c6bd2657bf62c773654e602258981e17423b2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1998",
+   "path": "local/bucuresti/cgmb/1998/51",
+   "short": "HCGMB nr. 51/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1158",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1158/h051_98.pdf",
+     "sha256": "5482bca3c95429df47e717b60317207d10bde2c52f1ac3e6801c2ed4cb22f44f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1998",
+   "path": "local/bucuresti/cgmb/1998/52",
+   "short": "HCGMB nr. 52/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1998 privind instituirea Festivalului \"Luna Bucurestilor\" in conditiile de organizare si desfasurare ale acestuia in anul 1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1159",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1159/h052_98.pdf",
+     "sha256": "4197f6b69a2a53950fc5e6e48755217dd376959ff6f99fecb7754f2938883893"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1998",
+   "path": "local/bucuresti/cgmb/1998/53",
+   "short": "HCGMB nr. 53/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1160",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1160/h053_98.pdf",
+     "sha256": "e928fe3bff8ca735379f9af27f3712b202b35c950d6c064af8fa4ce81ea92fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1998",
+   "path": "local/bucuresti/cgmb/1998/54",
+   "short": "HCGMB nr. 54/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1161",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1161/h054_98.pdf",
+     "sha256": "e67bc4c39778750474020bd7df80ec360fe5b295f0c97a18db8aff30913d7ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1998",
+   "path": "local/bucuresti/cgmb/1998/55",
+   "short": "HCGMB nr. 55/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1162",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1162/h055_98.pdf",
+     "sha256": "54b84454be6683b9c566b9b9be65718d9b982d22b983fb8542ab04246137adc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1998",
+   "path": "local/bucuresti/cgmb/1998/56",
+   "short": "HCGMB nr. 56/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1167",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1167/h056_98.pdf",
+     "sha256": "4d7c4c80d9eb685f611904c225bbcebeba4477dac183c7831dc7995ad0ca1966"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1998",
+   "path": "local/bucuresti/cgmb/1998/57",
+   "short": "HCGMB nr. 57/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1165",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1165/h057_98.pdf",
+     "sha256": "ae234cb737a358a343b84b0fd83de3c13cce959b062852cfd880b8ab18bcce42"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-1998",
+   "path": "local/bucuresti/cgmb/1998/58",
+   "short": "HCGMB nr. 58/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1166",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1166/h058_98.pdf",
+     "sha256": "6ab0c5eb0b79e26849a928db421c7aaa4515c4f172aaaad97fcfd0174bf0f572"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-1998",
+   "path": "local/bucuresti/cgmb/1998/59",
+   "short": "HCGMB nr. 59/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constr.definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1168",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1168/h059_98.pdf",
+     "sha256": "75d307c2473166bc3ec55b9573e11af220c86e4ee8f39d3d8d64fb89c348a07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1998",
+   "path": "local/bucuresti/cgmb/1998/6",
+   "short": "HCGMB nr. 6/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constr.provizorii amplasate pe terenuri apartinand domeniului public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1092",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1092/h06_98.pdf",
+     "sha256": "0c626688937d1beea0730d55dc17f16b205cbd259d6747fdfb47c6dc7a4b502b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1998",
+   "path": "local/bucuresti/cgmb/1998/60",
+   "short": "HCGMB nr. 60/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1169",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1169/h060_98.pdf",
+     "sha256": "7ca95250b5c43291bbdd91542a73f0fc2ab615417fc5bf57563cefa1f7569635"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-1998",
+   "path": "local/bucuresti/cgmb/1998/61",
+   "short": "HCGMB nr. 61/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1170",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1170/h061_98.pdf",
+     "sha256": "c3a7ee3efd49995b0ea88a3ea507a3992242d8816846872b92718e19fe20f5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1998",
+   "path": "local/bucuresti/cgmb/1998/62",
+   "short": "HCGMB nr. 62/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1998 privind procedura de avizare si autorizare a retelelor de transmisie date, care nu fac parte din sistemul de comunicatii ROMTELECOM",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1171",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1171/h062_98.pdf",
+     "sha256": "bf550addffd6ced6700fad8d18f98761ca5313831d2aaa61791f12006ebea1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1998",
+   "path": "local/bucuresti/cgmb/1998/64",
+   "short": "HCGMB nr. 64/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1181",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1181/h064_98.pdf",
+     "sha256": "6ae2dc1fdb4a9119a8d40742f8856306d658b5a7757d184dacda2d1ce193d923"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1998",
+   "path": "local/bucuresti/cgmb/1998/65",
+   "short": "HCGMB nr. 65/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1172",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1172/h065_98.pdf",
+     "sha256": "e3cf8b4d6b9de12ce697e26d2c722175ade7da3db1df69ed96a0e1764b9eabb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1998",
+   "path": "local/bucuresti/cgmb/1998/66",
+   "short": "HCGMB nr. 66/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1173",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1173/h066_98.pdf",
+     "sha256": "6e71a86834175da59e0e1e49f6e4a08125d22b3a000a7aae35fef28653715f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1998",
+   "path": "local/bucuresti/cgmb/1998/67",
+   "short": "HCGMB nr. 67/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1998 privind organizarea licitatiei ptr.concesionarea terenului din str.Alex.Vlahuta, in vederea realiz.unei constructii destinate gararii autovehiculelor",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1174",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1174/h067_98.pdf",
+     "sha256": "0da758cc2c6103990dcf4fb26f4feca6377ca926a12f550b033d8f45f28a6f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1998",
+   "path": "local/bucuresti/cgmb/1998/68",
+   "short": "HCGMB nr. 68/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1998 privind acceptul si darea in administrare a bunurilor care fac obiectul donatiei Primariei federale din Munchen",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1175",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1175/h068_98.pdf",
+     "sha256": "75b1438ddd5527319005da0ada7ed83d087dc3625f3ff948276868ab9d907cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1998",
+   "path": "local/bucuresti/cgmb/1998/69",
+   "short": "HCGMB nr. 69/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1998 privind aderarea municipiului Bucuresti la Conferinta Principalelor Orase ale Lumii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1176",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1176/h069_98.pdf",
+     "sha256": "5e9f93dd12705929f018e20f9f8fe77f9a24d0cb24dde3f2e21b7b61153ea9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1998",
+   "path": "local/bucuresti/cgmb/1998/7",
+   "short": "HCGMB nr. 7/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1093",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1093/h07_98.pdf",
+     "sha256": "5527fcc36ec92e44ec132a27a605b06dd42bd68dbda60ee120113074b3417882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1998",
+   "path": "local/bucuresti/cgmb/1998/70",
+   "short": "HCGMB nr. 70/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1998 privind aderarea municipiului Bucuresti la Organizatia POLIS (Promovarea legaturilor functionale impreuna cu serviciile de integrare)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1177",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1177/h070_98.pdf",
+     "sha256": "7cec91279c8b60f9e1044dd0cdce43dcc2fe24eb044df64fd143bf71dd466c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1998",
+   "path": "local/bucuresti/cgmb/1998/71",
+   "short": "HCGMB nr. 71/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1998 privind revizuirea si modificarea Hotararii nr.9/30.01.1997 a Consiliului General al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1178",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1178/h071_98.pdf",
+     "sha256": "c2825f585679c87d774d11cc19adfa5acf6e1fd7caeb0764492791b237bd2f36"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1998",
+   "path": "local/bucuresti/cgmb/1998/72",
+   "short": "HCGMB nr. 72/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1998 privind acceptarea unei donatii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1179",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1179/h072_98.pdf",
+     "sha256": "7938d75365b6d76a527210e8aec40df26aa1e438783b6ef9cc0f1d7955b059c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1998",
+   "path": "local/bucuresti/cgmb/1998/73",
+   "short": "HCGMB nr. 73/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1998 privind constituirea Comisiei de verificare a Hotararii nr.12/20.11.1997 a Comisiei de Licitatii a P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1180",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1180/h073_98.pdf",
+     "sha256": "6b550a3b6b44fb7a597cd2c689879813eff405c8592cae92f6dd4cc7bbd1f2d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1998",
+   "path": "local/bucuresti/cgmb/1998/74",
+   "short": "HCGMB nr. 74/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1200",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1200/h074_98.pdf",
+     "sha256": "0944a8a2c1ba034a9359f1b3dc2afc47a7c05e4c15b79de9e1eda3bec681dffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1998",
+   "path": "local/bucuresti/cgmb/1998/75",
+   "short": "HCGMB nr. 75/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1998 privind reprezentarea intereselor municipiului Bucuresti la Cea de-a III-a Masa Rotunda a Guvernatorilor si Primarilor Capitalelor Zonei Marii Negre",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1201",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1201/h075_98.pdf",
+     "sha256": "3af3eeb53883a0b67ed05e15910c48169ff6c392a1f60269f9d4929b2cc08376"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1998",
+   "path": "local/bucuresti/cgmb/1998/76",
+   "short": "HCGMB nr. 76/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1202",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1202/h076_98.pdf",
+     "sha256": "dbe01b956914ab5a687cec4289e03b2ea917863062d3e0c03fdcdeacdfd37319"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-1998",
+   "path": "local/bucuresti/cgmb/1998/77",
+   "short": "HCGMB nr. 77/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1998 priv.aprobarea unor planuri urbanistice de detaliu ptr.constr.definitive ampl.pe terenuri propr.pers.fizice/juridice si dom.privat al munc.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1219",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1219/h077_98.pdf",
+     "sha256": "6f4ed63015f8c136ea69d18a6a501008bded3ce74e8b01527bd1c20a00821a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1998",
+   "path": "local/bucuresti/cgmb/1998/78",
+   "short": "HCGMB nr. 78/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii definitive amplasate pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1220",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1220/h078_98.pdf",
+     "sha256": "f29166b07e2d0ea4d2bda561bac7745ff8368a69fd62666bc254311d5fc08dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1998",
+   "path": "local/bucuresti/cgmb/1998/79",
+   "short": "HCGMB nr. 79/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constr.definitive amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1250",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1250/h079_98.pdf",
+     "sha256": "acfe4cbe6e67bc5bf846fd005fff549c75512595b5e20a5c1483c1fd6cc48987"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1998",
+   "path": "local/bucuresti/cgmb/1998/8",
+   "short": "HCGMB nr. 8/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definiitive amplasate pe terenuri proprietate a municipalitatii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1094",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1094/h08_98.pdf",
+     "sha256": "2b2997ab90d285d21fe66c29add4af21bd9b587e0f1cad19107315961c92c752"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-1998",
+   "path": "local/bucuresti/cgmb/1998/80",
+   "short": "HCGMB nr. 80/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii - chioscuri amplas.pe dom.privat al mun.Buc.(curti imobile L.112/95)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1251",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1251/h080_98.pdf",
+     "sha256": "368eb65d0508b043f19e7a809a7c71a40f042096afd63314d54b0d37aea1f074"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1998",
+   "path": "local/bucuresti/cgmb/1998/81",
+   "short": "HCGMB nr. 81/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructie provizorie amplasata pe domeniul privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1203",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1203/h081_98.pdf",
+     "sha256": "160b532e844ffee078608dff4ba0455532daa4d619c776c61ff279348a7f7d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1998",
+   "path": "local/bucuresti/cgmb/1998/82",
+   "short": "HCGMB nr. 82/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1998 privind aprobarea unor planuri urbanistice de detaliu ptr.constructii provizorii amplasate pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1262",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1262/h082_98.pdf",
+     "sha256": "eec3182150d36e0323c39fe92ac2cc63f5836ff3ed7141dd0e35cd21e8721f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1998",
+   "path": "local/bucuresti/cgmb/1998/83",
+   "short": "HCGMB nr. 83/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1998 privind aprobarea unui plan urbanistic de detaliu pentru reamenajarea Pietei Berceni amplasata pe domeniul public al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1204",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1204/h083_98.pdf",
+     "sha256": "bfe2d191794cdc6d86e3b8eb0a99025734cbcedcb3f868305441560b8f5fde39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1998",
+   "path": "local/bucuresti/cgmb/1998/84",
+   "short": "HCGMB nr. 84/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1998 privind aprobarea unui plan urbanistic de detaliu ptr.constructii provizorii- chioscuri difuzare presa JURNALUL NATIONAL ampl.dom.publ.mun.Buc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1221",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1221/h084_98.pdf",
+     "sha256": "159be20276d0397b8ce6fee367b2f8759189f044357170ba5d3569a333172f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1998",
+   "path": "local/bucuresti/cgmb/1998/85",
+   "short": "HCGMB nr. 85/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructii provizorii -presa tip RODIPET amplasate pe dom.public al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1207",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1207/h085_98.pdf",
+     "sha256": "40a0633fc9636f9fe72fcf984efb9d26ca0f6fb2c8b0bbc1d3d5d19ec9dadc01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1998",
+   "path": "local/bucuresti/cgmb/1998/86",
+   "short": "HCGMB nr. 86/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1998 privind aprobarea unui plan urbanistic de detaliu pentru constructii provizorii -prototipuri difuzare presa amplasate pe dom.public al mun.Buc,sect.3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1208",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1208/h086_98.pdf",
+     "sha256": "d17a3e26cd3730701cc5d2d508d1e9c84e00bbf087292ad818e1d09de9da00b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1998",
+   "path": "local/bucuresti/cgmb/1998/87",
+   "short": "HCGMB nr. 87/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1998 priv.aprobarea unui plan urbanistic de detaliu pentru prototip panou semnalizare statie RATB si amplas.pe terit.sect.1-6 pe dom.public mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1223",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1223/h087_98.pdf",
+     "sha256": "3840b3454671c02db475d6e7d9eac24129421509d908c79c195b13bf71442fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1998",
+   "path": "local/bucuresti/cgmb/1998/88",
+   "short": "HCGMB nr. 88/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1998 privind aprobarea unor planuri urbanistice zonale in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1252",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1252/h088_98.pdf",
+     "sha256": "fdd5a14ffb8c441a13b876ade216e633427eeb8b06a9668c8169d96986d86876"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1998",
+   "path": "local/bucuresti/cgmb/1998/9",
+   "short": "HCGMB nr. 9/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1998 privind aprobarea unor planuri urbanistice de detaliu pentru constructii definitive amplasate pe terenuri apartinand dom.privat al mun.Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1095",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1095/h09_98.pdf",
+     "sha256": "83d00ed634abfe686f8f4b3755278a3d716a3af79c4ac495950cbb099763d6fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-1998",
+   "path": "local/bucuresti/cgmb/1998/90",
+   "short": "HCGMB nr. 90/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/1998 priv.transm.in adm.Muzeului de Istorie si Arta al mun.Buc.a spatiilor din patrim mun.Buc.in care funct.pe baza de contr.de inchiriere unele subunitati",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1218",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1218/h090_98.pdf",
+     "sha256": "2655de8d8d660d5b00d670993e9cee23003b35658e156a4e72c86d3074ffbbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-1998",
+   "path": "local/bucuresti/cgmb/1998/91",
+   "short": "HCGMB nr. 91/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1209",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1209/h091_98.pdf",
+     "sha256": "396d2da6e4a61e059453f598a36381781dc0d170278836346eadb3276efe778b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1998",
+   "path": "local/bucuresti/cgmb/1998/93",
+   "short": "HCGMB nr. 93/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1998 privind darea in administrare, catre RATB, a unui teren situat in B-dul Tineretului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1210",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1210/h093_98.pdf",
+     "sha256": "d3b00bfc7afad0921e15ab313cd319fa836e67184e014c15864f8b14204b2cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1998",
+   "path": "local/bucuresti/cgmb/1998/94",
+   "short": "HCGMB nr. 94/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1998 privind reglementarea raporturilor contractuale pentru spatiile cu alta destinatie decat aceea de locuinta administrate de PMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1224",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1224/h094_98.pdf",
+     "sha256": "aec3839fd73ac4b72cf21e8db2eab12ac8fc4555e77e8c866d3e24cffe95d3ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1998",
+   "path": "local/bucuresti/cgmb/1998/95",
+   "short": "HCGMB nr. 95/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1998 priv.atrib.in folosinta gratuita Cons.loc.sect.3 a unui teren,in scopul realizarii obiectivului de utilitate publica \"Centrul Administrativ Titan\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1211",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1211/h095_98.pdf",
+     "sha256": "a9cf7adc7548f7972aab3569a559ae9a9f58ffb11f1ffb4ad6b3d364364e364a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1998",
+   "path": "local/bucuresti/cgmb/1998/96",
+   "short": "HCGMB nr. 96/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1998 privind atribuirea in folosinta gratuita Consiliului local sector 2, pe termen de 49 ani, a unor imobile necesare desfasurarii unor activ.publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1217",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1217/h096_98.pdf",
+     "sha256": "4a9ed7ad6dddd6ed011b13574b50d42ce0d8fcba825aa5283da6240ca8e1b953"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1998",
+   "path": "local/bucuresti/cgmb/1998/97",
+   "short": "HCGMB nr. 97/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1998 privind atribuirea in folosinta gratuita Consiliului local sector 2, pe termen de 49 ani, a unui teren destinat constructiei de locuinte",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1213",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1213/h097_98.pdf",
+     "sha256": "4b7f4c1b407bb12795231b8d77617b51664bd1d290732663b34cb12dbc1d6ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1998",
+   "path": "local/bucuresti/cgmb/1998/98",
+   "short": "HCGMB nr. 98/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1998 privind atribuirea in folosinta gratuita Consiliului local sector 2, pe termen de 49 de ani, a terenului de 35.800 mp din zona Complex Parc Tei-Toboc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1214",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1214/h098_98.pdf",
+     "sha256": "a77e30432fedc892a13efad95f18f892de012d4dfd81672ea448c752a48093b6"
     }
    ]
   },

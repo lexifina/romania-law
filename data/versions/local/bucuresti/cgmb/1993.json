@@ -3,6 +3,81 @@
  "shard": "local/bucuresti/cgmb/1993",
  "acts": [
   {
+   "slug": "hcgmb-1-1993",
+   "path": "local/bucuresti/cgmb/1993/1",
+   "short": "HCGMB nr. 1/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/1993 : 1 DIN 18/01/93 - privind masurile ce se impun pentru fundamentarea bugetului local al municipiului Bucuresti pe 1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29",
+   "versions": [
+    {
+     "from": "1993-01-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/29/h01_93.pdf",
+     "sha256": "2c1960ba260ead26b7462a39df4beddfaacc7c3f34ab76921e82adf483d69d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-1993",
+   "path": "local/bucuresti/cgmb/1993/10",
+   "short": "HCGMB nr. 10/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1993 : 10 DIN 24/02/93 - privind asocierea CLMB cu Firma Ltd. si Asociatii - GRUPPO BALSAMO E ASSOCIATI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/73",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/73/h010_93.pdf",
+     "sha256": "2339deb3b6302ddead98b2f49441536da686c4ae0cf999f5fc0c89de3236ea83"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-1993",
+   "path": "local/bucuresti/cgmb/1993/11",
+   "short": "HCGMB nr. 11/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/1993 : 11 DIN 24/02/93 - privind rectificarea bugetului local al municipiului Bucuresti pe anul 1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/78",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/78/h011_93.pdf",
+     "sha256": "77b99d5a702ebf62ad18583517da568c713be8dfd514784f93345a03a15d5068"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1993",
+   "path": "local/bucuresti/cgmb/1993/12",
+   "short": "HCGMB nr. 12/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1993 : 12 DIN 24/02/93 - privind preluarea Cantinei centrale de ajutor social in subordinea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/83",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/83/h012_93.pdf",
+     "sha256": "849bc4316510f59a97830a1e5fc251d6609c83c35c867677204c30372f3107db"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-1993",
+   "path": "local/bucuresti/cgmb/1993/13",
+   "short": "HCGMB nr. 13/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/1993 : 13 DIN 24/02/93 - privind modul de aplicare a unor prevederi ale Hotararii CLMB nr. 68/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/87",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/87/h013_93.pdf",
+     "sha256": "fb37f955bdc89d2e0230ef40625208b2e8b9978298bcd52b2e3113e7a46556e3"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-14-1993",
    "path": "local/bucuresti/cgmb/1993/14",
    "short": "HCGMB nr. 14/1993",
@@ -14,6 +89,126 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/91/h014_93.pdf",
      "sha256": "1244bfd7e2fcbbe0f2d148ed381740c357847b29e565d83229a8bc8aa6e58155"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-1993",
+   "path": "local/bucuresti/cgmb/1993/15",
+   "short": "HCGMB nr. 15/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/1993 : 15 DIN 24/02/93 - privind organizarea si exploatarea spatiilor de parcare auto de pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/95",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/95/h015_93.pdf",
+     "sha256": "3a012e827b9cbf9b62526023d0648ba8199dada74fc78e5543027e4ca31f689d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1993",
+   "path": "local/bucuresti/cgmb/1993/16",
+   "short": "HCGMB nr. 16/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1993 : 16 DIN 24/02/93 - privind numirea imputernicirea mandat de CLMB la Societ.\"PRORET\" S.A de sub autoritatea Consiliului Municipal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/99",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/99/h016_93.pdf",
+     "sha256": "c29b2c4ef8e5e568d14d4fe66e0586508397a792c48d4842afb8b28bb627ec26"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1993",
+   "path": "local/bucuresti/cgmb/1993/17",
+   "short": "HCGMB nr. 17/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1993 : 17 DIN 24/02/93 - privind numirea imputernicitilor mandatati de CLMB unele societ.com. de sub autoritatea Consiliului municipal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/103",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/103/h017_93.pdf",
+     "sha256": "457a4eafa385c13b5d17d5dcda94ce3f704c9558e0d29055d27190c5895a3a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1993",
+   "path": "local/bucuresti/cgmb/1993/18",
+   "short": "HCGMB nr. 18/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1993 : 18 DIN 24/02/93 - cu privire la modif.Hot.CLMB nr.18/1992 ref.laautoriz.circ.autov.dest. transp.de bunuri in zona interzisa circulatiei acestora",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/107",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/107/h018_93.pdf",
+     "sha256": "1b55f8e0d50d4d21bb629b1a00de899409a9b00fa60b926d6bca3e09a37991fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-1993",
+   "path": "local/bucuresti/cgmb/1993/19",
+   "short": "HCGMB nr. 19/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/1993 : 19 DIN 24/02/93 - cu privire la modific.Hot.CLMB 24/1992 ref.la blocarea,ridicarea, transp.,depozit. si elib.autov.sau remorcilor station.neregulam",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/111",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/111/h019_93.pdf",
+     "sha256": "451b0372e3ba2e02aeb7b8a879d55198bdb7a1f33eee587799d9d6a8564977d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-1993",
+   "path": "local/bucuresti/cgmb/1993/2",
+   "short": "HCGMB nr. 2/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/33",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/33/h02_93.pdf",
+     "sha256": "ffb105232878977c1f1d4dc5e97367ad86ccd277f1309e79f0077c8309463ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-1993",
+   "path": "local/bucuresti/cgmb/1993/20",
+   "short": "HCGMB nr. 20/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/1993 : 20 DIN 18/03/93 - privind asoc.CLMB cu societ.franceza SOGEA in vederea reabilit.sistem. de aliment.cu apa,canalizare si salubriz.,pt.orasul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/115",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/115/h020_93.pdf",
+     "sha256": "a9026adcdf8045ab2627e0d5854f5e202f4d752553f2e5f5d35cd385eaf5e458"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-1993",
+   "path": "local/bucuresti/cgmb/1993/21",
+   "short": "HCGMB nr. 21/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/1993 : 21 DIN 18/03/93 - privind reconstituirea, repararea si restaurarea imobilelor din zona de rezervatie istorica si arhitectonica a municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/119",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/119/h021_93.pdf",
+     "sha256": "b121102eb1435a9d4a8e74341cdd72a2bebbe0f3d13a0c5680069afaa5f45408"
     }
    ]
   },
@@ -63,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcgmb-25-1993",
+   "path": "local/bucuresti/cgmb/1993/25",
+   "short": "HCGMB nr. 25/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1993 : 25 DIN 18/03/93 - privind org.licitatiilor de vinz.a cladirilor de locuit si spatiilor cu alta dest.dincadrul acestora,finantate din fondurile statului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/135",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/135/h025_93.pdf",
+     "sha256": "32d3a7114de1b0f652defd52add797d3acf08db350e0788408a8b4b996848223"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-27-1993",
    "path": "local/bucuresti/cgmb/1993/27",
    "short": "HCGMB nr. 27/1993",
@@ -78,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcgmb-28-1993",
+   "path": "local/bucuresti/cgmb/1993/28",
+   "short": "HCGMB nr. 28/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1993 : 28 DIN 18/03/93 - privind atribuirea in folosiinta gratuita a suprafetei de 1,20 ha Secretariatului de Stat pentru Handicapati",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/146",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/146/h028_93.pdf",
+     "sha256": "303299758f1a706442fa37e6c5329b33cf6c9caeaa40e35444f0991d65c777d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1993",
+   "path": "local/bucuresti/cgmb/1993/29",
+   "short": "HCGMB nr. 29/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1993 : 29 DIN 18/03/93 - de avizare a Normativului privind stabilirea zonei minime de siguranta protectie si functionalitate a Metroului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/150",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/150/h029_93.pdf",
+     "sha256": "ac8ea7400e89f3ea99d379fc94fa09a9ba7a0a8f6d6d89f989a14ef06d461f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-1993",
+   "path": "local/bucuresti/cgmb/1993/3",
+   "short": "HCGMB nr. 3/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/1993 : 3 DIN 04/02/93 - privind elib. si numirea imputern.mandatati ai CLMB in cadrul soc.com. de sub autoritatea consiliului municipal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/38/h03_93.pdf",
+     "sha256": "5ff0dba9f74bfff13cc6268c0166bb81c82e9ef9ff51f63a6848794a41bc14d3"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-30-1993",
    "path": "local/bucuresti/cgmb/1993/30",
    "short": "HCGMB nr. 30/1993",
@@ -89,6 +344,321 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/154/h030_93.pdf",
      "sha256": "f5db69cb3d6a6eca2c290ef8ea9705ffaab451792cc7d1623dce54874999e11a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-1993",
+   "path": "local/bucuresti/cgmb/1993/31",
+   "short": "HCGMB nr. 31/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/1993 : 31 DIN 22/04/93 - privind incetarea temporara a autoriz.exec.pe terit.munic.Bucuresti, a constr.cu caracter provizoriu si destin.comerciala,precum si masuri de imbun",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/158",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/158/h031_93.pdf",
+     "sha256": "1c74a8ee17c7cb23f8dbede55e0975a1416b628fdc71cadf96ff5e33bcbab062"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-1993",
+   "path": "local/bucuresti/cgmb/1993/32",
+   "short": "HCGMB nr. 32/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/1993 : 32 DIN 22/04/93 - privind atribuirea in folosiinta gratuita Regiei Autonome de Electricitate,Filiala Retele Electrice Bucuresti,a supraf.de teren de 805 mp",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/162",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/162/h032_93.pdf",
+     "sha256": "3dd35fcbc848971266ebac45df87ff5eaf14b5a6adb38c27fea46baf86591a15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-1993",
+   "path": "local/bucuresti/cgmb/1993/33",
+   "short": "HCGMB nr. 33/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/1993 : 33 DIN 22/04/93 - privind trecerea in administrarea RGAB a unui teren necesar construirii in zona Macaralei, a rezervorului de 5000 mc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/166",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/166/h033_93.pdf",
+     "sha256": "e1b0bfc3017eb47f334c2f48a175ee6804a5cf5d3ea8bb0e9061827755f0e749"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-1993",
+   "path": "local/bucuresti/cgmb/1993/34",
+   "short": "HCGMB nr. 34/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/1993 : 34 DIN 22/04/93 - privind atrribuirea in folosiinta a unui spatiu Asociatiei M.I.S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/169",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/169/h034_93.pdf",
+     "sha256": "b3c339c920669526bcd2cbf1328df981ced8624aed0857e77151638177247ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-1993",
+   "path": "local/bucuresti/cgmb/1993/35",
+   "short": "HCGMB nr. 35/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/173",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/173/h035_93.pdf",
+     "sha256": "ec8823f65649164356cf46107a4a3fb68ef0d0ac24ef9ad38a6f52f68e82dc13"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-1993",
+   "path": "local/bucuresti/cgmb/1993/36",
+   "short": "HCGMB nr. 36/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/1993 : 36 DIN 22/04/93 - privind completarea Hotararii nr. 26/1993 a C.L.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/177",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/177/h036_93.pdf",
+     "sha256": "76817d29aa74e2e0db4b69583520feb546d71de2e0a4c73c9b8b4f35730b9201"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-1993",
+   "path": "local/bucuresti/cgmb/1993/37",
+   "short": "HCGMB nr. 37/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/1993 : 37 DIN 29/04/93 - privind asocierea CLMB si Societatea franceza \"BOUYGUES\" in vederea realizarii operatiunii imobiliare \"Birouri Top Standing\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/181",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/181/h037_93.pdf",
+     "sha256": "c38903fe61c8bfe621809413e80daf4201151764ff6ddc730a5bfe117bbcc851"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-1993",
+   "path": "local/bucuresti/cgmb/1993/38",
+   "short": "HCGMB nr. 38/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/1993 : 38 DIN 29/04/93 - privind elaborarea unui studiu de fezabilitate referitor la sistemul de publicitate in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/185",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/185/h038_93.pdf",
+     "sha256": "c3c01cbf874ba8aeb3031db239288e837552c56c41c87294b3a6c6b242a86629"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-1993",
+   "path": "local/bucuresti/cgmb/1993/39",
+   "short": "HCGMB nr. 39/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/1993 : 39 DIN 29/04/93 - privind modif.HCLMB nr. 27/18.03.1993 cu privire la modif.tarif.de inchiriere a supraf.locative cu alta destin.si a teren.aferente",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/189",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/189/h039_93.pdf",
+     "sha256": "7a2ae258d3e164be32bbaac35109d8fe085b0b98b12d1540070c74627bc2c93d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1993",
+   "path": "local/bucuresti/cgmb/1993/4",
+   "short": "HCGMB nr. 4/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1993 : 4 DIN 04/02/93 - privind modificarea unor conditii de asociere in vederea finalizarii blocurilor in baza HG nr.441/1991",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/43/h04_93.pdf",
+     "sha256": "34518c8990e001df947056fdbe5118c0ae5fffe6381632cb0310140e63b5ba9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-1993",
+   "path": "local/bucuresti/cgmb/1993/40",
+   "short": "HCGMB nr. 40/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/1993 : 40 DIN 29/04/93 - privind organizarea evenimentului sportiv international \"Sportul pentru toti\" - CHALLENGE DAY\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/193",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/193/h040_93.pdf",
+     "sha256": "d0148a40330ffd0247c01849d12b0f0ec953854d7bf553e9bcdf95b1b7dcc679"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-1993",
+   "path": "local/bucuresti/cgmb/1993/41",
+   "short": "HCGMB nr. 41/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/1993 : 41 DIN 29/04/93 - privind numirea Consiliului de administratie al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/197",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/197/h041_93.pdf",
+     "sha256": "9ee907ef8020e1b0af203320676b3cec49587bd1f36ded97abee8757412f22d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-1993",
+   "path": "local/bucuresti/cgmb/1993/42",
+   "short": "HCGMB nr. 42/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/1993 : 42 DIN 29/04/93 - privind numirea Consiliului de administratie al RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/201",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/201/h042_93.pdf",
+     "sha256": "5d21f0c61e23aa75c82078d4288acba24300637b952cdd015a24ae7e2bbfe65f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-1993",
+   "path": "local/bucuresti/cgmb/1993/43",
+   "short": "HCGMB nr. 43/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/1993 : 43 DIN 29/04/93 - Privind numirea Consiliului de administratie al RATB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/205",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/205/h043_93.pdf",
+     "sha256": "dd09ff38258ff57891963c9e79b9336a598c1bb69888b46032ebcc94d47b7c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-1993",
+   "path": "local/bucuresti/cgmb/1993/44",
+   "short": "HCGMB nr. 44/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/1993 : 44 DIN 29/04/93 - privind numirea in Consiliul de administratie al Regiei Autonome \"DRUPO\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/209",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/209/h044_93.pdf",
+     "sha256": "658ecd05937e3cfeafb33678e383931c9cbdc4e7862e881be9780b4e2ea926f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-1993",
+   "path": "local/bucuresti/cgmb/1993/45",
+   "short": "HCGMB nr. 45/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/1993 : 45 DIN 29/04/93 - privind numirea imputernicitilor mandatati sa reprez. interesele capital.de stat in unele societ. com.de sub autorit.CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/212",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/212/h045_93.pdf",
+     "sha256": "c17bc6a48e910b5418b1f8b3c058a148da081753480b51772b0647ea055099d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-1993",
+   "path": "local/bucuresti/cgmb/1993/46",
+   "short": "HCGMB nr. 46/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/1993 : 46 DIN 19/05/93 - privind infratirea intre orasele Bucuresti si Atena",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/216",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/216/h046_93.pdf",
+     "sha256": "3d95d0876d6276bb73c11f5542d0cb9c94d908461a5703475379f233ac136498"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1993",
+   "path": "local/bucuresti/cgmb/1993/47",
+   "short": "HCGMB nr. 47/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/220",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/220/h047_93.pdf",
+     "sha256": "7170daf3af44a9a5e7dd791fc00906f11413836f026e6d9b3eba07c7de7d10f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-1993",
+   "path": "local/bucuresti/cgmb/1993/48",
+   "short": "HCGMB nr. 48/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/1993 : 48 DIN 19/05/93 - privind eliberarea certif.de atest.a dreptuluide propriet.al Societ. Com.\"HORTICOLA\" SA asupra unor terenuri aflate in patrimoniu sau",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/224",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/224/h048_93.pdf",
+     "sha256": "8e53e8bec6cc30ce1b7b1c432d322265f1b67c64afa0f040129a5af757438886"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-1993",
+   "path": "local/bucuresti/cgmb/1993/49",
+   "short": "HCGMB nr. 49/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/1993 : 49 DIN 19/05/93 - privind asocierea CLMB cu firma COCA-COLA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/228",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/228/h049_93.pdf",
+     "sha256": "ad386cadcdd7e5402a5b0feaace2add70a6105191b8c2f843d5c8c7e7401018a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1993",
+   "path": "local/bucuresti/cgmb/1993/5",
+   "short": "HCGMB nr. 5/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1993 : 5 DIN 04/02/93 - privind asocierea Primariei municipiului Bucuresti cu firmele \"GULF\" si \" SHELL\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/48/h05_93.pdf",
+     "sha256": "9b25363e7cf3e4ec39af709603a89abd7a6881e8977bfa17e9b7b2376934a22e"
     }
    ]
   },
@@ -123,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcgmb-52-1993",
+   "path": "local/bucuresti/cgmb/1993/52",
+   "short": "HCGMB nr. 52/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1993 : 52 DIN 17/06/93 - privind executarea retelelor publice de apa si canalizare finantate de persoanele fizice sau juridice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/240",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/240/h052_93.pdf",
+     "sha256": "12d16aace515a0495a711521ec2eb941ffe77179e3fd9595ea078923f1a5e387"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-53-1993",
    "path": "local/bucuresti/cgmb/1993/53",
    "short": "HCGMB nr. 53/1993",
@@ -149,6 +734,21 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/248/h054_93.pdf",
      "sha256": "187c03c5009b48aca5fbc4a20704caa328fa51d112436a2d612b9039e64bf1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-1993",
+   "path": "local/bucuresti/cgmb/1993/55",
+   "short": "HCGMB nr. 55/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/1993 : 55 DIN 17/06/93 - privind avizarea tarifelor pentru servic.de salubritate si inchirieri de utilaje, prestate in capitala de RASUB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/252",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/252/h055_93.pdf",
+     "sha256": "29016df398597bb95f8a7d229961a610c3042c9b6da8dd2052b50ba5b7852aa8"
     }
    ]
   },
@@ -183,6 +783,141 @@
    ]
   },
   {
+   "slug": "hcgmb-58-1993",
+   "path": "local/bucuresti/cgmb/1993/58",
+   "short": "HCGMB nr. 58/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1993 : 58 DIN 28/06/93 - privind infiintarea unor societati comerciale prin divizarea Societatii Comerciale \"SCUT\" SA de sub autoritatea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/264",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/264/h058_93.pdf",
+     "sha256": "caf0ebd5ed24223c56f54b682b71f36fab260bc84b7ab0b5df356ee4e2116a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-1993",
+   "path": "local/bucuresti/cgmb/1993/59",
+   "short": "HCGMB nr. 59/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/1993 : 59 DIN 28/06/93 - privind acordul CLMB pentru numirea membrilor consiliilor de administr. de la societ.com.aflate sub autoritatea sa",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/268",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/268/h059_93.pdf",
+     "sha256": "ff38e9db447c672c9244c06925fa6b19f8b1af1a4992104467a27698b4813eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-1993",
+   "path": "local/bucuresti/cgmb/1993/6",
+   "short": "HCGMB nr. 6/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/1993 : 6 DIN 04/02/93 - privind asocierea CLMB cu Consiliul Parisului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/53",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/53/h06_93.pdf",
+     "sha256": "59e1fcaad7a024a95f0ed3bb79c6d05bb0da6ddb8a8e7692908d07ebef8c6fbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-1993",
+   "path": "local/bucuresti/cgmb/1993/60",
+   "short": "HCGMB nr. 60/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/272",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/272/h060_93.pdf",
+     "sha256": "c92819554b3087aa250ae5978858d6a216920fa9b3f437e61215ba1e5213fca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-1993",
+   "path": "local/bucuresti/cgmb/1993/62",
+   "short": "HCGMB nr. 62/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/1993 : 62 DIN 28/06/93 - privind atribuirea unui teren in folosiinta gratuita Patriarhiei Romane",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/279",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/279/h062_93.pdf",
+     "sha256": "0fa3be236ddcb5b313efe0326cc22a561839c6cf40d227d3fafc3bdaea18d14d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-1993",
+   "path": "local/bucuresti/cgmb/1993/63",
+   "short": "HCGMB nr. 63/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/283",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/283/h063_93.pdf",
+     "sha256": "f7ac71def416481b3b927ef7c21c0cb7df53f6c997ab4461af6d8cce2ca2d713"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-1993",
+   "path": "local/bucuresti/cgmb/1993/64",
+   "short": "HCGMB nr. 64/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/1993 : 64 DIN 28/06/93 - privind infiintarea \"Centrului de pregatire si perfectionare a personalul ui din domeniul aisitentei sociale\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/287",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/287/h064_93.pdf",
+     "sha256": "e8819afd8f3330aebabc279d99a1cc67fe4fa9339d6685f72befa9836f2213f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-1993",
+   "path": "local/bucuresti/cgmb/1993/65",
+   "short": "HCGMB nr. 65/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/1993 : 65 DIN 28/06/93 - privind infiintarea \"Centrului de resocializare a copiilor strazii\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/291",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/291/h065_93.pdf",
+     "sha256": "0b1116382662e53a3784bcc7bbb428fabf4b191f38873a00c374d99619d01cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1993",
+   "path": "local/bucuresti/cgmb/1993/66",
+   "short": "HCGMB nr. 66/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1993 : 66 DIN 15/07/93 - privind adoptarea bugetului local pe anul 1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/295",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/295/h066_93.pdf",
+     "sha256": "7eb24f495f2149652c3f7339f3e73e1d5ca239f00eed58fd3ec311b27875c29a"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-67-1993",
    "path": "local/bucuresti/cgmb/1993/67",
    "short": "HCGMB nr. 67/1993",
@@ -213,6 +948,261 @@
    ]
   },
   {
+   "slug": "hcgmb-69-1993",
+   "path": "local/bucuresti/cgmb/1993/69",
+   "short": "HCGMB nr. 69/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1993 : 69 DIN 15/07/93 - privind trecerea in administratia RGAB a unui teren necesar construirii in zona Statiei de Pompare Nord a rezervorului de 55000 mc",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/305",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/305/h069_93.pdf",
+     "sha256": "4267beb7ff802a69a228e8b17bf97f3d05ac5f4298718ee68fc70df898da1440"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1993",
+   "path": "local/bucuresti/cgmb/1993/7",
+   "short": "HCGMB nr. 7/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1993 : 7 DIN 04/02/93 - privind organizarea si functionarea Centrului social \"Sfantul Dumitru\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/58",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/58/h07_93.pdf",
+     "sha256": "66b5f0e2936866fdaf1e086f53fb3e94f3673893d49ab9b4ec793b12ffa25f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-1993",
+   "path": "local/bucuresti/cgmb/1993/70",
+   "short": "HCGMB nr. 70/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/1993 : 70 DIN 15/07/93 - priv.aprob.completarii listei cu blocuri si spatiile cu alta destin. finantate din fondurile statului ce urmeaza a fi supuse vanz.prin lici t.public",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/308",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/308/h070_93.pdf",
+     "sha256": "06521df526389dab52dcdb5a4bc1ddf236de5aa93fd57d3d96d84def6bd78c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-1993",
+   "path": "local/bucuresti/cgmb/1993/71",
+   "short": "HCGMB nr. 71/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/1993 : 71 DIN 26/07/93 - privind numirea imputernicitilor mandatati sa reprez.interesele capit.de stat in soc.com.infiintate prin diviz.Soc.SCUT SA de sub autorit.CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/311",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/311/h071_93.pdf",
+     "sha256": "52a101558834d62bf8f63c083841adcf18abe2ff98e2da7c8cfb36f624f8896e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-1993",
+   "path": "local/bucuresti/cgmb/1993/72",
+   "short": "HCGMB nr. 72/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/1993 : 72 DIN 26/07/93 - privind aprobarea numarului de personal din aparatul propriu al CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/314",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/314/h072_93.pdf",
+     "sha256": "1ed99179e0745659c0b836d0dd7eb42d2c23bcb2497ea21d93a7d51add6d9066"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-1993",
+   "path": "local/bucuresti/cgmb/1993/73",
+   "short": "HCGMB nr. 73/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/1993 : 73 DIN 26/07/93 - privind modificarea Hotararii nr.58/28.06.1993 a CLMB priv.infiintarea unor soc.com.prin diviz.Soc.Com.\"SCUT\"SA de sub autoritatea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/317",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/317/h073_93.pdf",
+     "sha256": "5ac13fdd2dc59038a116f460a8dd958985087a8aa2c349c46c3d595d5879cc0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1993",
+   "path": "local/bucuresti/cgmb/1993/74",
+   "short": "HCGMB nr. 74/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1993 : 74 DIN 26/07/93 - privind modificarea si completarea Regulemantului de organizare si functi onare a CLMB, aprobat prin Hotararea nr. 8/1992",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/319",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/319/h074_93.pdf",
+     "sha256": "da43abf273a2066f30f96a2f8fd513ea4b95ff6137c7e69675983d64e2f7226d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1993",
+   "path": "local/bucuresti/cgmb/1993/75",
+   "short": "HCGMB nr. 75/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1993 : 75 DIN 26/07/93 - privind acordarea indemnizatiilor de sedinta pentru consilierii CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/321",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/321/h075_93.pdf",
+     "sha256": "e20a58beb21e1cd8924ec0c7cb072081cb8ebde1294265075cb986c1f36f6ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1993",
+   "path": "local/bucuresti/cgmb/1993/76",
+   "short": "HCGMB nr. 76/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1993 : 76 DIN 26/07/93 - privind stema Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/324",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/324/h076_93.pdf",
+     "sha256": "205141645b3632c538f28797bb53abf620990c063bd8d59ac7df401256450e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-1993",
+   "path": "local/bucuresti/cgmb/1993/77",
+   "short": "HCGMB nr. 77/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/1993 : 77 DIN 30/07/93 - privind inchirierea spatiilor destinute de sucursala si de agentiile CEC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/327",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/327/h077_93.pdf",
+     "sha256": "c15dc887dccc4c6fe2bff02b03c96b0888267730eb6fa04f56e431f9ece218a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-1993",
+   "path": "local/bucuresti/cgmb/1993/78",
+   "short": "HCGMB nr. 78/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/1993 : 78 DIN 30/07/93 - privind numirea imputernicitilor mandatati sas reprezinte interesele capitalului de stat in unele soc.com.de sub autoritatea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/329",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/329/h078_93.pdf",
+     "sha256": "71ae3d9da23d63ccb14bd038a81500b0b1686d2b483631293e961b06b18777af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-1993",
+   "path": "local/bucuresti/cgmb/1993/79",
+   "short": "HCGMB nr. 79/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/1993 : 79 DIN 30/07/93 - privind acordul CLMB pt.numirea membrilor consil.de administratie de la unele soc.com. aflate sub autoritatea sa",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/331",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/331/h079_93.pdf",
+     "sha256": "df26d60e1786d14f414dcdc134700c9d862d08dd86e1a41aca2ebb5be51fe1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1993",
+   "path": "local/bucuresti/cgmb/1993/8",
+   "short": "HCGMB nr. 8/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1993 : 8 DIN 04/02/93 - privind modif.Anexei la Decizia 123/1992 referitor la cuantumul chiriilor pt.spatii cu destinatie de birouri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/63",
+   "versions": [
+    {
+     "from": "1993-02-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/63/h08_93.pdf",
+     "sha256": "ca8a889081b730a6d391429ada250ae21c4fdbd845261d95d28562ad933b23ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-1993",
+   "path": "local/bucuresti/cgmb/1993/80",
+   "short": "HCGMB nr. 80/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/1993 : 80 DIN 03/08/93 - privind aprobarea contractului de asociere intre CLMB si Societatea Bouygues",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/333",
+   "versions": [
+    {
+     "from": "1993-08-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/333/h080_93.pdf",
+     "sha256": "2101e6806052de0335a88720b7bfc33262ea940dc53e6344343d6f19ef4fab69"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-1993",
+   "path": "local/bucuresti/cgmb/1993/81",
+   "short": "HCGMB nr. 81/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/1993 : 81 DIN 03/08/93 - pt.reglementarea raportuirlor contractuale privind spatiile cu alta desti natie decat aceea de locuinta aflate in administrarea CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/335",
+   "versions": [
+    {
+     "from": "1993-08-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/335/h081_93.pdf",
+     "sha256": "785c520e12dc7f1690418285c5612293ae36b9af49f9ace6b544b42086070bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-1993",
+   "path": "local/bucuresti/cgmb/1993/82",
+   "short": "HCGMB nr. 82/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/1993 : 82 DIN 03/08/93 - privind modificarea bugetului propriu al CLMB pe anul 1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/336",
+   "versions": [
+    {
+     "from": "1993-08-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/336/h082_93.pdf",
+     "sha256": "6fa780ae30664788b994312fdac923e6771e6a8b32773c02351e591c06ece875"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-1993",
+   "path": "local/bucuresti/cgmb/1993/83",
+   "short": "HCGMB nr. 83/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/1993 : 83 DIN 19/08/93 - privind modificarea si completarea Hotararii nr. 66/1993 a CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/338",
+   "versions": [
+    {
+     "from": "1993-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/338/h083_93.pdf",
+     "sha256": "f38a289b32276227fecd71f3e4975a321fcfce2ed8355b6235ab0811b79ccf29"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-84-1993",
    "path": "local/bucuresti/cgmb/1993/84",
    "short": "HCGMB nr. 84/1993",
@@ -224,6 +1214,51 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/340/h084_93.pdf",
      "sha256": "fece10c06972c7bb82f61555a886141aea3370808b2536f5abd296d130eeb66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-1993",
+   "path": "local/bucuresti/cgmb/1993/85",
+   "short": "HCGMB nr. 85/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/1993 : 85 DIN 19/08/93 - privind atribuirea in folosiinta gratuita Centrului National de Conservar e si Valorificare a Traditiei si Creatiei Populare, a unui parc din Munic.Bu curesti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/342",
+   "versions": [
+    {
+     "from": "1993-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/342/h085_93.pdf",
+     "sha256": "ce07c08d1d47d19cd0900ecfd9cd63622228962468023d6dea1027733bd3c5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-1993",
+   "path": "local/bucuresti/cgmb/1993/86",
+   "short": "HCGMB nr. 86/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/1993 : 86 DIN 27/08/93 - privind acordul CLMB pentru numirea membrilor consiliilor de administrati e de la unele societati comerciale aflate sub autoritatea sa",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/344",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/344/h086_93.pdf",
+     "sha256": "0480f35d5a5b30cb60a5af1d62ac12e114b299ff18b9a5a18e5bd2d4df69c6bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-1993",
+   "path": "local/bucuresti/cgmb/1993/87",
+   "short": "HCGMB nr. 87/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/1993 : 87 DIN 27/08/93 - privind darea in folosiinta gratuita pe o perioada de 99 ani a unor teren uri catre Arhiepiscopia Buc.in vederea constr.de noi biserici ortodoxe",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/346",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/346/h087_93.pdf",
+     "sha256": "7c54cf59a8127fd28669f9b1fdbe17fc1fcc6bd0ba2dab1b42a7a6c3b616f3d7"
     }
    ]
   },
@@ -243,6 +1278,51 @@
    ]
   },
   {
+   "slug": "hcgmb-89-1993",
+   "path": "local/bucuresti/cgmb/1993/89",
+   "short": "HCGMB nr. 89/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/1993 : 89 DIN 09/09/93 - privind aprobarea intrarii in vigoare a contractului de asociere intre CL MB si firma INFRAROM-BALSAMO",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/350",
+   "versions": [
+    {
+     "from": "1993-09-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/350/h089_93.pdf",
+     "sha256": "d828f6a10ee52ea1fda848eda665361a23403f5b9be00b6cc545cf5748ec4d3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1993",
+   "path": "local/bucuresti/cgmb/1993/9",
+   "short": "HCGMB nr. 9/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1993 : 9 DIN 24/02/93 - privind asocierea CLMB cu Firma COCA-COLA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/68",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/68/h09_93.pdf",
+     "sha256": "42eaa13eb346ded89e1406d42d96d25f823cd4c224d6e34bf2950f38d54aa387"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-1993",
+   "path": "local/bucuresti/cgmb/1993/90",
+   "short": "HCGMB nr. 90/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/1993 : 90 DIN 09/09/93 - privind atribuirea in folosiinta gratuita RGAB a terenului existent pentr u construirea \"Statiei de pompare, atelier si dispecerat Grozavesti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/351",
+   "versions": [
+    {
+     "from": "1993-09-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/351/h090_93.pdf",
+     "sha256": "5f916222c39b26af9f32904533ee4768a4babb8995edbe9b6b1564f5e8e80566"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-91-1993",
    "path": "local/bucuresti/cgmb/1993/91",
    "short": "HCGMB nr. 91/1993",
@@ -258,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcgmb-92-1993",
+   "path": "local/bucuresti/cgmb/1993/92",
+   "short": "HCGMB nr. 92/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/1993 : 92 DIN 09/09/93 - privind infiintarea societatii mixte pe actiuni 3 DB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/353",
+   "versions": [
+    {
+     "from": "1993-09-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/353/h092_93.pdf",
+     "sha256": "514aecc2a89ef3b8ac8a350e66fc3f150bd7996c80a29c675be30087607af65a"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-93-1993",
    "path": "local/bucuresti/cgmb/1993/93",
    "short": "HCGMB nr. 93/1993",
@@ -269,6 +1364,81 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/355/h093_93.pdf",
      "sha256": "7874e6f5b128e9ab0de23c993f8c30591f424aaee1195ce79048c449b8733ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-1993",
+   "path": "local/bucuresti/cgmb/1993/94",
+   "short": "HCGMB nr. 94/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/1993 : 94 DIN 28/09/93 - privind modificarea Hotararii CLMB nr. 24 din 18.03.1993",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/357",
+   "versions": [
+    {
+     "from": "1993-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/357/h094_93.pdf",
+     "sha256": "6be9b0fa718c6e1d7767226988f8c6ce4a880f6c55cf3498e76035205d5f94bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-1993",
+   "path": "local/bucuresti/cgmb/1993/95",
+   "short": "HCGMB nr. 95/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/1993 : 95 DIN 28/09/93 - privind atribuira in folosiinta gratuita a unui imobil",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/359",
+   "versions": [
+    {
+     "from": "1993-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/359/h095_93.pdf",
+     "sha256": "6bb45b1d967fbb1ca0ca011aea9519280cc16e695548d804ab0af4eca8e3d76e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-1993",
+   "path": "local/bucuresti/cgmb/1993/96",
+   "short": "HCGMB nr. 96/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/1993 : 96 DIN 28/09/93 - privind eliberarea certificarea de atestare a dreptului de proprietate al Societatii comerciale \"SOPREX_IMI\"SA asupra terenurilor aflate in patrimoni ul sau",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/361",
+   "versions": [
+    {
+     "from": "1993-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/361/h096_93.pdf",
+     "sha256": "3fa66a2fa6f6c4266d532bf5b717819e192548970af6afb7f9417f35528200f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-1993",
+   "path": "local/bucuresti/cgmb/1993/97",
+   "short": "HCGMB nr. 97/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/1993 : 97 DIN 28/09/93 - privind mandatarea imputernicitilor care sa reprezinte interesele capital ului de stat in unele soc.com.de sub autoritatea C.L.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/363",
+   "versions": [
+    {
+     "from": "1993-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/363/h097_93.pdf",
+     "sha256": "86515aa6efa25fcc5a33fee9494c65459dc572034c99e067a463822aa3f37fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-1993",
+   "path": "local/bucuresti/cgmb/1993/98",
+   "short": "HCGMB nr. 98/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/1993 : 98 DIN 30/09/93 - privind numirea directorului general al RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/365",
+   "versions": [
+    {
+     "from": "1993-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/365/h098_93.pdf",
+     "sha256": "b4f37b14103812c3d6c488819c039296bcad96ea7327a3b11b7d871a5c5b769e"
     }
    ]
   },

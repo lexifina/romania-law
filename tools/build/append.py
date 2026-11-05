@@ -86,7 +86,8 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
                 h = K.state_on(r, day)
                 files = K.tree_oids(cat, h, dirs[act['slug']], trees) if h else {}
                 want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()} if v else {}
-                if files != want or (v is None) != (h is None):
+                # a commit leaving the folder with no provision file serves nothing (an order re-dated later)
+                if files != want or (v is None and h is not None and files) or (v is not None and h is None):
                     bad = sorted(f for f in set(files) | set(want) if files.get(f) != want.get(f))
                     first, msgs = problems.get(act['slug'], (day, []))
                     problems[act['slug']] = (min(first, day), msgs)
@@ -256,6 +257,8 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
     # (it may have started earlier: a repeal main dated too early leaves the earlier text in force on main's day),
     # then each later version day up to `last`, a day's last version being its text.
     start = in_force_on(act, first_day)
+    if start is None and vs and vs[0]['from'] > first_day and L.issuer_of(act.get('path') or ''):
+        return not_yet_block(repo, act, first_day, rows, reason)
     if start is None:
         raise B.CorpusError(f'correction of {act["slug"]}: main has the act in force on {first_day}, before its first '
                             'version in the corpus; a correction can only restate text, so decide by hand')
@@ -275,6 +278,18 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
     finally:
         cat.close()
     first = start
+    pre = []
+    if {f'{k}.md': K.blob_oid(u['text']) for k, u in first['units'].items()} == have and L.issuer_of(path):
+        # An order dated too late on main (2026-11-05): its text is right, only its day is not. A commit with no
+        # In-force trailer (no reader takes text from it) removes its files, so the next one, In-force: first_day,
+        # touches the folder when it writes them back.
+        label = act.get('short') or act.get('title') or act['slug']
+        pre = [{'day': first_day, 'act': act, 'files': {f'{path}/{n}': None for n in have},
+                'message': [f'Correction: {label}, files cleared before it is restated from {first_day}', '',
+                            'No reader takes text from this commit (it has no In-force trailer); the next commit '
+                            f'writes the same text back with In-force: {first_day}, the day the act came into force.'],
+                'trailers': ['Kind: correction', f'Act: {act["slug"]}']}]
+        have = {}
     if {f'{k}.md': K.blob_oid(u['text']) for k, u in first['units'].items()} == have:
         # A commit that changes no file under the folder is invisible to the reader rule: the original commits would
         # still be served for the days it should correct.
@@ -304,6 +319,38 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
             trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
         out.append({'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
         prev = v
+    return pre + out
+
+
+
+def not_yet_block(repo: Path, act: dict, first_day: str, rows: list, reason: str) -> list[dict]:
+    """An order main serves from `first_day`, before the day it comes into force (its in-force clause was first read
+    wrongly): one commit removes its provision files with In-force: first_day (so those days read nothing in force),
+    then its first version is restated from its own day (2026-11-05)."""
+    vs = act['versions']
+    path = act.get('path') or act['slug']
+    label = act.get('short') or act.get('title') or act['slug']
+    cat = K.Cat(repo)
+    try:
+        have = K.tree_oids(cat, git(repo, 'rev-parse', 'main').strip(), path, {})
+    finally:
+        cat.close()
+    h = K.state_on(rows, first_day)
+    v = vs[0]
+    out = [{'day': first_day, 'act': act, 'files': {f'{path}/{n}': None for n in have},
+            'message': [f'Correction: {label} not yet in force on {first_day}', '',
+                        f'{reason}'.rstrip() + (' ' if reason else '') +
+                        f'The text served from this day was in commit {(h or "")[:12]}; the act comes into force on '
+                        f'{v["from"]}, so its provisions are removed for the days before, and the next commit restates '
+                        'them from that day.'],
+            'trailers': ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {first_day}'] +
+                        ([f'Corrects: {h}'] if h else [])}]
+    out.append({'day': v['from'], 'act': act, 'files': {f'{path}/{k}.md': u['text'] for k, u in v['units'].items()},
+                'message': [f'Correction: {label} as in force from {v["from"]}', '',
+                            f'Restates the text from {v["from"]}, the day it comes into force, after the correction of '
+                            f'{first_day}.'],
+                'trailers': ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {v["from"]}'] +
+                            ([f'Re-asserts: {h}'] if h else [])})
     return out
 
 
@@ -450,6 +497,10 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     for s in sorted(set(problems) - set(unapproved)):
         corrections += correction_block(repo, c, by_slug[s], problems[s][0], state[s], rows[s],
                                         B.public_note(approved[s]) or '')
+    # a day a correction restates is published: an order re-dated later must not be appended again from its new day
+    for x in corrections:
+        s = x['act']['slug']
+        state[s] = max(state.get(s, ''), x['day'])
     # Credits: a listed act whose words already match main may still credit a change to the wrong law. Text first:
     # an act corrected for its text this publish gets its credits checked on the next.
     ledger = credit_ledger(repo, head)

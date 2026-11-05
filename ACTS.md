@@ -12467,12 +12467,12 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27806 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 14525 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 719 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 551 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 167 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
-| Clarifications (precizări) | 31 | [`data/acts/precizari/`](data/acts/precizari/) |
+| Government decisions (HG) | 27816 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 16510 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Instructions (instrucțiuni) | 173 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Clarifications (precizări) | 32 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 1 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
@@ -12483,4 +12483,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 12053 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 13553 | [`data/acts/local/`](data/acts/local/) |

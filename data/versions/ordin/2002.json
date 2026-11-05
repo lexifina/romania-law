@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-461-2002",
+   "path": "ordin/agricultura/2002/461",
+   "short": "Ordin agricultura nr. 461/2002",
+   "title": "Ordinul nr. 461/2002 privind aprobarea repartizării pe destinații a volumului de masa lemnoasă aprobat pentru recoltare în anul 2002 din pădurile proprietate publică a statului aflate în administrarea Regiei Naționale a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39370",
+   "versions": [
+    {
+     "from": "2002-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39370",
+     "sha256": "fa5d6f8e2da8900ce12e6b95ee40d70851593c239333e5c76d36ae021b352554"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-494-2002",
    "path": "ordin/agricultura/2002/494",
    "short": "Ordin agricultura nr. 494/2002",
@@ -389,6 +404,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42932",
      "sha256": "434c661924946bd5ff40c82ac4adeec5cf83a9636befd463802c07f48643be3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-573-2002",
+   "path": "ordin/agricultura/2002/573",
+   "short": "Ordin agricultura nr. 573/2002",
+   "title": "Ordinul nr. 573/2002 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgenta a Guvernului nr. 158/2002 privind acordarea gratuita, în anul 2003, a unui ajutor în îngrășăminte chimice producătorilor agricoli care au în proprietate teren arabil în extravilan, în suprafața totală de până la 2,5 ha",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41177",
+   "versions": [
+    {
+     "from": "2003-01-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41177",
+     "sha256": "1332b47b95ad51363a30f028edb84244e7fe2d81548093dc6fb55c6646687645"
     }
    ]
   },
@@ -2163,6 +2193,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-110-2002",
+   "path": "ordin/economie/2002/110",
+   "short": "Ordin economie nr. 110/2002",
+   "title": "Ordinul nr. 110/2002 privind desemnarea ISCIR-CERT pentru a realiza evaluarea conformității în domeniul recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36287",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36287",
+     "sha256": "bdd008a341915050e72f88cd67f8aef906860c722f89fc14b8c751aaafed9169"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-112-2002",
+   "path": "ordin/economie/2002/112",
+   "short": "Ordin economie nr. 112/2002",
+   "title": "Ordinul nr. 112/2002 privind aprobarea procedurilor de metrologie legală referitoare la verificările produselor preambalate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36061",
+   "versions": [
+    {
+     "from": "2002-05-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36061",
+     "sha256": "bebbbe35751eff02639e5a9455697f568fd82556d247fdba8da3c84f73bcdde5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-114-2002",
+   "path": "ordin/economie/2002/114",
+   "short": "Ordin economie nr. 114/2002",
+   "title": "Ordinul nr. 114/2002 pentru aprobarea unor măsuri privind desemnarea laboratoarelor de încercări și a organismelor de certificare care realizează evaluarea conformității jucăriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38882",
+   "versions": [
+    {
+     "from": "2002-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38882",
+     "sha256": "7165ca4c53b640d0a5fab5e7b7468bc258c3f5fc4f18e25c4c01a470aa03ec40"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-117-2002",
    "path": "ordin/economie/2002/117",
    "short": "Ordin economie nr. 117/2002",
@@ -2174,6 +2249,336 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37392",
      "sha256": "95bd0efe3d13af7d431ff83a2cfdef00ab2bdf74189491311fb9e2a186555836"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-13-2002",
+   "path": "ordin/economie/2002/13",
+   "short": "Ordin economie nr. 13/2002",
+   "title": "Ordinul nr. 13/2002 privind aprobarea Listei cuprinzând standardele române care adoptă standardele europene armonizate referitoare la recipientele simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33742",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33742",
+     "sha256": "803c32bbe297ac42f9391ce42dc238bc9d07db23077047105570674552bf0c23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-139-2002",
+   "path": "ordin/economie/2002/139",
+   "short": "Ordin economie nr. 139/2002",
+   "title": "Ordinul nr. 139/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE - 75/33 Contoare de apa rece\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37994",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37994",
+     "sha256": "1f43c8bdec16cafc427599a90611f3bd3125ef98f9e776190ea5cbee3ecc6acc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-147-2002",
+   "path": "ordin/economie/2002/147",
+   "short": "Ordin economie nr. 147/2002",
+   "title": "Ordinul nr. 147/2002 privind unele măsuri în vederea desemnării organismelor care realizează evaluarea conformității în domeniul aparatelor consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37536",
+   "versions": [
+    {
+     "from": "2002-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37536",
+     "sha256": "cdd13ceee9e0f52bff2d8e236137f2b42f3eb53f5641fbebf3c3d0da1a865f88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-153-2002",
+   "path": "ordin/economie/2002/153",
+   "short": "Ordin economie nr. 153/2002",
+   "title": "Ordinul nr. 153/2002 privind adoptarea măsurilor ce se impun pentru perioada ciclului de injecție 2002 în depozitele subterane de înmagazinare a gazelor naturale, pentru asigurarea cantităților destinate completării surselor interne din structura consumului de gaze naturale pe perioada iernii 2002-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37134",
+   "versions": [
+    {
+     "from": "2002-07-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37134",
+     "sha256": "3a3b68b60eaa59daa3ba9beefe8872f82fafde3b660c3339eedce9b755bcb6e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-16-2002",
+   "path": "ordin/economie/2002/16",
+   "short": "Ordin economie nr. 16/2002",
+   "title": "Ordinul nr. 16/2002 privind aprobarea tarifelor pentru energia termica livrata de Societatea Comercială \"Termoelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36873",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36873",
+     "sha256": "4ddcdd674720f23f2a16b283c5f4c259a4cf11fac74f546c9480dfeb4de0624b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-166-2002",
+   "path": "ordin/economie/2002/166",
+   "short": "Ordin economie nr. 166/2002",
+   "title": "Ordinul nr. 166/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE - 79/830 Contoare de apa calda\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38041",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38041",
+     "sha256": "7cd213c96af6ba4acaf13e2807fe58f677646bb40f41841fb86ff9838f24b4cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-180-2002",
+   "path": "ordin/economie/2002/180",
+   "short": "Ordin economie nr. 180/2002",
+   "title": "Ordinul nr. 180/2002 privind aprobarea Normei de metrologie legală CEE \"NML-CEE - 77/313 Sisteme de măsurare pentru lichide, altele decât apa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39225",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39225",
+     "sha256": "4ac57f509decd95d6e58f965d59dc0c34ea0c008913da0933dadf92ebc950fbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-181-2002",
+   "path": "ordin/economie/2002/181",
+   "short": "Ordin economie nr. 181/2002",
+   "title": "Ordinul nr. 181/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-71/317 Greutăți de exactitate medie cu valoare nominală de 5 kg... 50 kg (paralelipipedice) și cu valoare nominală de 1 g... 10 kg (cilindrice)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38078",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38078",
+     "sha256": "f29e563efe6c0edbe98af9190974ae93e2881297cefa2878f08fb015bb941b47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-182-2002",
+   "path": "ordin/economie/2002/182",
+   "short": "Ordin economie nr. 182/2002",
+   "title": "Ordinul nr. 182/2002 pentru aprobarea Normelor metodologice privind desemnarea organismelor care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37235",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37235",
+     "sha256": "da3341045adb36a5d5bf41b026a667b2c5e1633100fc63d85d59c0f35a897a82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-183-2002",
+   "path": "ordin/economie/2002/183",
+   "short": "Ordin economie nr. 183/2002",
+   "title": "Ordinul nr. 183/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-74/148 Greutăți de exactitate superioară cu valoare nominală de 1 mg... 50 kg\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38082",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38082",
+     "sha256": "b4522b7e2121d6926137ca37310c50e41a37a7de45511ae8f53112025ca79fa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-199-2002",
+   "path": "ordin/economie/2002/199",
+   "short": "Ordin economie nr. 199/2002",
+   "title": "Ordinul nr. 199/2002 privind concesionarea unor activități miniere de exploatare R 25/2002 prin negociere directa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40343",
+   "versions": [
+    {
+     "from": "2002-12-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40343",
+     "sha256": "4dc81086ccbc302ea6f0f533eba6d103167bf707cc9a63568d1c3d2fe862053a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2-2002",
+   "path": "ordin/economie/2002/2",
+   "short": "Ordin economie nr. 2/2002",
+   "title": "Ordinul nr. 2/2002 pentru aprobarea programelor de restructurare ale Companiei Naționale \"Romarm\" - S.A. și societăților comerciale de sub autoritatea Ministerului Industriei și Resurselor pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33331",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33331",
+     "sha256": "c0bd5ee7626a5a427b13e2f8ce183409682a3a63e231ec57376106b22a4fd45b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-209-2002",
+   "path": "ordin/economie/2002/209",
+   "short": "Ordin economie nr. 209/2002",
+   "title": "Ordinul nr. 209/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-71/318 Contoare de gaz\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39235",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39235",
+     "sha256": "08406e84d3cec924ac82bb5ffbba64160363d90130e7de877f4627d67fca9a28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-227-2002",
+   "path": "ordin/economie/2002/227",
+   "short": "Ordin economie nr. 227/2002",
+   "title": "Ordinul nr. 227/2002 privind inventarul european al substanțelor existente puse pe piață - IESCE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36696",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36696",
+     "sha256": "2b530c5e7bd2a10856d3f4ad9e862f09529156b538bb7f6b4ac74c7e4179d220"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-245-2002",
+   "path": "ordin/economie/2002/245",
+   "short": "Ordin economie nr. 245/2002",
+   "title": "Ordinul nr. 245/2002 privind aprobarea Regulamentului pentru autorizarea persoanelor fizice și juridice care au dreptul sa realizeze bilanțuri energetice și a Regulamentului pentru atestarea responsabililor cu atribuții în domeniul gestiunii energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39998",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39998",
+     "sha256": "3415ee828dd8dfadf528fcaea9a2a88d77bd90992f1e8b51afa50098fbe9462f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-248-2002",
+   "path": "ordin/economie/2002/248",
+   "short": "Ordin economie nr. 248/2002",
+   "title": "Ordinul nr. 248/2002 pentru modificarea și completarea Prescripțiilor tehnice privind stabilirea tarifelor pentru operațiunile de avizare, autorizare și control tehnic la instalațiile mecanice sub presiune, instalațiile de ridicat și aparatele consumatoare de combustibil, efectuate de organele tehnice ale Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat (ISCIR) CR-12-2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37332",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37332",
+     "sha256": "08e2e394fda20355b537195a2f3d62d62594951a21ebd6a188e619d4aee75558"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-282-2002",
+   "path": "ordin/economie/2002/282",
+   "short": "Ordin economie nr. 282/2002",
+   "title": "Ordinul nr. 282/2002 privind desemnarea organismelor de inspecție a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37307",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37307",
+     "sha256": "31a53adda5c01f1df1f7602ed0954641bb055563d749f16eb6f76bc31cee6d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-293-2002",
+   "path": "ordin/economie/2002/293",
+   "short": "Ordin economie nr. 293/2002",
+   "title": "Ordinul nr. 293/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-75/410 Aparate de cântărit cu totalizare continua\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39354",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39354",
+     "sha256": "f9828888df692446d8514c15811c09e276940c7cc83a696a00037b95502f73ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-295-2002",
+   "path": "ordin/economie/2002/295",
+   "short": "Ordin economie nr. 295/2002",
+   "title": "Ordinul nr. 295/2002 pentru aprobarea Metodologiei privind colorarea și marcarea unor produse petroliere în conformitate cu Hotărârea Guvernului nr. 535/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37695",
+   "versions": [
+    {
+     "from": "2002-07-30",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37695",
+     "sha256": "b4ef53d6614483d51a549ebd26510212435eb0c8c57519a2c0ab71385acc64ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-317-2002",
+   "path": "ordin/economie/2002/317",
+   "short": "Ordin economie nr. 317/2002",
+   "title": "Ordinul nr. 317/2002 pentru aprobarea Statutului-cadru al organismului național de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38035",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38035",
+     "sha256": "23d836101e6170c56b784f9e31441b9803fd83c3808784576ee9a8c04fc2d752"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-32-2002",
+   "path": "ordin/economie/2002/32",
+   "short": "Ordin economie nr. 32/2002",
+   "title": "Ordinul nr. 32/2002 pentru modificarea Ordinului ministrului industriei și comerțului nr. 54/2000 privind aprobarea Listei cuprinzând standardele române pentru asigurarea securității utilizatorilor de jucării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34091",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34091",
+     "sha256": "8b7a0851b597bd6ac409aa4fb7c1b06ec9a7c07328e5d4499dae085f5ad39341"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-324-2002",
+   "path": "ordin/economie/2002/324",
+   "short": "Ordin economie nr. 324/2002",
+   "title": "Ordinul nr. 324/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-78/1.031 - Aparate de cântărit cu funcționare automată pentru control și sortare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39682",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39682",
+     "sha256": "5db3c6d9e243874f53a22018fc4237b6aee978bb1f72fcf2b392f6e7a057cd09"
     }
    ]
   },
@@ -2193,6 +2598,411 @@
    ]
   },
   {
+   "slug": "ordin-economie-342-2002",
+   "path": "ordin/economie/2002/342",
+   "short": "Ordin economie nr. 342/2002",
+   "title": "Ordinul nr. 342/2002 privind aprobarea Cărții Albe a Infrastructurii Calității și Evaluării Conformității Produselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39772",
+   "versions": [
+    {
+     "from": "2002-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39772",
+     "sha256": "fba1b7e021ad5e96cf8d20f58dcfe36f57ff0c84d63bb107132a1ba7cee47ebf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-35-2002",
+   "path": "ordin/economie/2002/35",
+   "short": "Ordin economie nr. 35/2002",
+   "title": "Ordinul nr. 35/2002 pentru aprobarea Normelor metodologice privind desemnarea organismelor care realizează evaluarea conformității în domeniul recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34183",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34183",
+     "sha256": "ce40fb208a71a46d9d4585c2dc9140e76e2a7894458b7f9e4f9304dbbc2b0576"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-359-2002",
+   "path": "ordin/economie/2002/359",
+   "short": "Ordin economie nr. 359/2002",
+   "title": "Ordinul nr. 359/2002 privind aprobarea Procedurii și competentelor de acordare a înlesnirilor la plata sumelor datorate la fondurile speciale gestionate de Ministerul Industriei și Resurselor în calitate de ordonator principal de credite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38017",
+   "versions": [
+    {
+     "from": "2002-08-15",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38017",
+     "sha256": "02e94f9c09ab20230b46a9a2245fef0a31f7e66671d6f9d01d1b183a531e6a8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-36-2002",
+   "path": "ordin/economie/2002/36",
+   "short": "Ordin economie nr. 36/2002",
+   "title": "Ordinul nr. 36/2002 privind aprobarea Normei de metrologie legală CEE \"NML CEE-71/319 Contoare volumetrice pentru lichide, altele decât apa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34409",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34409",
+     "sha256": "23f49c080ec4057d4465716c5aca92bace6716e8c9b1e678b63404ad8598ad52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-361-2002",
+   "path": "ordin/economie/2002/361",
+   "short": "Ordin economie nr. 361/2002",
+   "title": "Ordinul nr. 361/2002 pentru aprobarea Regulamentului de funcționare a Comisiei pentru activitatea de concesionare în domeniul distribuției energiei electrice și gazelor naturale din cadrul Ministerului Industriei și Resurselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38165",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38165",
+     "sha256": "f13d30a454ea1b4ff440ce1c64357e2e2ca7220193eba153e86133d0dd700b50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-371-2002",
+   "path": "ordin/economie/2002/371",
+   "short": "Ordin economie nr. 371/2002",
+   "title": "Ordinul nr. 371/2002 pentru aprobarea normativelor și prescripțiilor tehnice specifice zonelor de protecție și zonelor de siguranță aferente Sistemului național de transport prin conducte al produselor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39987",
+   "versions": [
+    {
+     "from": "2002-11-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39987",
+     "sha256": "cb5b06004bcd97bd8b9c6e74aa9b0e5649efdd65e93c4f037235f10b0dc5790e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-373-2002",
+   "path": "ordin/economie/2002/373",
+   "short": "Ordin economie nr. 373/2002",
+   "title": "Ordinul nr. 373/2002 pentru aprobarea Statutului-cadru al organismului național de standardizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39245",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39245",
+     "sha256": "1400f810cdabb65866ce95d663f99ab92bbe2bf27373e3ec421d44b34031f1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-378-2002",
+   "path": "ordin/economie/2002/378",
+   "short": "Ordin economie nr. 378/2002",
+   "title": "Ordinul nr. 378/2002 privind aprobarea listei cuprinzând organismele de certificare notificate care efectuează evaluarea conformității în domeniul aparatelor consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38191",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38191",
+     "sha256": "1b8a291b10ff4b1fca04440a640c7c35ba9c6aa67844cf2ffab56c6fb629f83b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-388-2002",
+   "path": "ordin/economie/2002/388",
+   "short": "Ordin economie nr. 388/2002",
+   "title": "Ordinul nr. 388/2002 pentru aprobarea unor măsuri privind desemnarea organismelor pentru evaluarea conformității cu principalele cerințe de protecție a aparatelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38869",
+   "versions": [
+    {
+     "from": "2002-11-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38869",
+     "sha256": "68f5c849d4ec6c073a250b7864733ce8131d95bd27fa3a4ab68be43c841449de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-389-2002",
+   "path": "ordin/economie/2002/389",
+   "short": "Ordin economie nr. 389/2002",
+   "title": "Ordinul nr. 389/2002 pentru aprobarea unor măsuri privind desemnarea organismelor pentru evaluarea conformității cu cerințele esențiale de securitate din domeniul echipamentelor electrice de joasă tensiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38884",
+   "versions": [
+    {
+     "from": "2002-11-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38884",
+     "sha256": "efbc32a724dd1a151db3d0282876e708c2781fb5a80201a8476ccf2fb5609dc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-392-2002",
+   "path": "ordin/economie/2002/392",
+   "short": "Ordin economie nr. 392/2002",
+   "title": "Ordinul nr. 392/2002 pentru aprobarea Listei cuprinzând organismele notificate care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38780",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38780",
+     "sha256": "c56e0189dbc3f26d9b0461ee74c3cdbd967756346b00d4555b871c33129800e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-397-2002",
+   "path": "ordin/economie/2002/397",
+   "short": "Ordin economie nr. 397/2002",
+   "title": "Ordinul nr. 397/2002 privind aprobarea Prescripției tehnice PT A1-2002 \"Cerințe tehnice privind utilizarea aparatelor consumatoare de combustibili gazoși\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38399",
+   "versions": [
+    {
+     "from": "2002-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38399",
+     "sha256": "ff94b24b40a317395cebc929883a9d9dd589bd5e22a053682e5b0c9d396cb631"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-402-2002",
+   "path": "ordin/economie/2002/402",
+   "short": "Ordin economie nr. 402/2002",
+   "title": "Ordinul nr. 402/2002 privind actualizarea Listei de tarife pentru lucrările efectuate de Biroul Român de Metrologie Legală - LT-2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38382",
+   "versions": [
+    {
+     "from": "2002-09-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38382",
+     "sha256": "670aa4fcd422edd816e3562233634b80e1612cb2e8410c8e5390393756ee1fcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-440-2002",
+   "path": "ordin/economie/2002/440",
+   "short": "Ordin economie nr. 440/2002",
+   "title": "Ordinul nr. 440/2002 privind aprobarea Regulamentului pentru autorizarea și verificarea personalului care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale și a Regulamentului pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38893",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38893",
+     "sha256": "e40191d4a374537ae361184993835ab9a3a7da51126232d5bcd34fdcb4120d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-465-2002",
+   "path": "ordin/economie/2002/465",
+   "short": "Ordin economie nr. 465/2002",
+   "title": "Ordinul nr. 465/2002 pentru aprobarea unor măsuri privind desemnarea organismelor de certificare a conformității cazanelor noi de apa calda care funcționează cu combustibil lichid sau gazos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39973",
+   "versions": [
+    {
+     "from": "2002-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39973",
+     "sha256": "72d4a34ba7e3e9f2ca3a6d6cf554ee046c0edbcef5ff98bf4d7e425c5852c109"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-48-2002",
+   "path": "ordin/economie/2002/48",
+   "short": "Ordin economie nr. 48/2002",
+   "title": "Ordinul nr. 48/2002 privind aprobarea Listei cuprinzând organismele de inspecție desemnate în domeniul recipiente-butelii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34250",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34250",
+     "sha256": "2636ad960ad6fe1ffc73c1c44ad71035df9ee11c015f71f08fdd6cfb0bf043d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-49-2002",
+   "path": "ordin/economie/2002/49",
+   "short": "Ordin economie nr. 49/2002",
+   "title": "Ordinul nr. 49/2002 privind aprobarea Listei cuprinzând standardele române prin care se adoptă standardele europene armonizate, ale căror prevederi se referă la aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34296",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34296",
+     "sha256": "0ba2af503576f7b840b2700a45e76f0ca990196456845bd2307db709938ce66e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-50-2002",
+   "path": "ordin/economie/2002/50",
+   "short": "Ordin economie nr. 50/2002",
+   "title": "Ordinul nr. 50/2002 pentru aprobarea Listei cuprinzând tipurile de gaze și presiunile de alimentare utilizate la aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34303",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34303",
+     "sha256": "6a3c7c80c9cda70652f653efbbf10feb391e026fe6487dcd84ed87ed4e055381"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-51-2002",
+   "path": "ordin/economie/2002/51",
+   "short": "Ordin economie nr. 51/2002",
+   "title": "Ordinul nr. 51/2002 pentru aprobarea Normelor metodologice privind desemnarea organismelor de inspecție în domeniul recipiente-butelii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34304",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34304",
+     "sha256": "37bb4a1490c206e7380cf81a0038b9aeb8dbb993ae0c142d515a54ed2c733854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-554-2002",
+   "path": "ordin/economie/2002/554",
+   "short": "Ordin economie nr. 554/2002",
+   "title": "Ordinul nr. 554/2002 privind aprobarea Listei organismelor de certificare notificate care efectuează evaluarea conformității recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40344",
+   "versions": [
+    {
+     "from": "2002-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40344",
+     "sha256": "81c97d7af8dcf416595dfb134cf0e9d136d5e2189032bd814815466d8ac73292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-56-2002",
+   "path": "ordin/economie/2002/56",
+   "short": "Ordin economie nr. 56/2002",
+   "title": "Ordinul nr. 56/2002 pentru aprobarea Prescripțiilor tehnice privind stabilirea tarifelor pentru operațiunile de avizare, autorizare și control tehnic la instalațiile mecanice sub presiune, instalațiile de ridicat și aparatele consumatoare de combustibil, efectuate de organele tehnice ale Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat (ISCIR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34447",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34447",
+     "sha256": "7c2533cb5d243ebddf987bf09d1b348a88e53099572127de49c2edfa4d0d579a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-568-2002",
+   "path": "ordin/economie/2002/568",
+   "short": "Ordin economie nr. 568/2002",
+   "title": "Ordinul nr. 568/2002 pentru aprobarea Nomenclatorului de lucrări și servicii care se prestează de către Agenția Naționala pentru Substanțe și Preparate Chimice Periculoase în regim de tarifare și cuantumul tarifelor aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40362",
+   "versions": [
+    {
+     "from": "2002-12-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40362",
+     "sha256": "0f3d671cd77afd4c717b016f75280fd890c13750354748f6e9f3eef4ff0b4b83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-57-2002",
+   "path": "ordin/economie/2002/57",
+   "short": "Ordin economie nr. 57/2002",
+   "title": "Ordinul nr. 57/2002 privind aprobarea Listei cuprinzând standardele române prin care se adoptă standardele europene armonizate, ale căror prevederi se referă la aparatele de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34443",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34443",
+     "sha256": "80aa8cb9eed9e8efc22a44860c15f3dd66a0e50fdaedfdedaa920a0d7d2e8ce9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-578-2002",
+   "path": "ordin/economie/2002/578",
+   "short": "Ordin economie nr. 578/2002",
+   "title": "Ordinul nr. 578/2002 pentru aprobarea Prescripțiilor tehnice de stabilire a tarifelor percepute de Agenția Română pentru Conservarea Energiei (ARCE) pentru activitățile proprii de autorizare, avizare, certificare, atestare, ce decurg din atribuțiile și responsabilitățile acestei, în conformitate cu prevederile Hotărârii Guvernului nr. 941/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40905",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40905",
+     "sha256": "b99e27b45d8873d13aa0104977ee729b09827e47dffa9e29179ed02a404ea6fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-59-2002",
+   "path": "ordin/economie/2002/59",
+   "short": "Ordin economie nr. 59/2002",
+   "title": "Ordinul nr. 59/2002 pentru modificarea Ordinului ministrului industriei și resurselor nr. 113/2001 privind aprobarea unor reglementări tehnice pentru recipiente-butelii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34799",
+   "versions": [
+    {
+     "from": "2002-04-01",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34799",
+     "sha256": "bbdb51ee4ef721b7a6d8d6b0c57c978f725e73c7b666606446e01e663be88b08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-591-2002",
+   "path": "ordin/economie/2002/591",
+   "short": "Ordin economie nr. 591/2002",
+   "title": "Ordinul nr. 591/2002 pentru completarea anexei la Ordinul ministrului industriei și resurselor nr. 49/2002 privind aprobarea Listei cuprinzând standardele române prin care se adoptă standarde europene armonizate, ale căror prevederi se referă la aparatele consumatoare de combustibili gazoși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40394",
+   "versions": [
+    {
+     "from": "2002-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40394",
+     "sha256": "09c725666c569ae8c859dcaae93ab33d50e6c1b4fe9ec5c9b2b2d47d39f3132e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-595-2002",
+   "path": "ordin/economie/2002/595",
+   "short": "Ordin economie nr. 595/2002",
+   "title": "Ordinul nr. 595/2002 pentru aprobarea Reglementărilor tehnice cu privire la recipiente pulverizatoare de aerosoli, RT 75/324",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40581",
+   "versions": [
+    {
+     "from": "2003-06-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40581",
+     "sha256": "fd6ee1956944bf7b2fc0798fa1abe532e0b131a649b4a159f089b481c198b210"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-600-2002",
    "path": "ordin/economie/2002/600",
    "short": "Ordin economie nr. 600/2002",
@@ -2208,6 +3018,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-636-2002",
+   "path": "ordin/economie/2002/636",
+   "short": "Ordin economie nr. 636/2002",
+   "title": "Ordinul nr. 636/2002 privind desemnarea serviciului tehnic în vederea eliberării aprobării de tip pentru motoare cu ardere internă destinate mașinilor mobile nerutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40921",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40921",
+     "sha256": "b37e0ac7149cc158782337029d30ab085db63f065c3f10694dbd0ec584c20f9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-643-2002",
+   "path": "ordin/economie/2002/643",
+   "short": "Ordin economie nr. 643/2002",
+   "title": "Ordinul nr. 643/2002 pentru aprobarea Prescripției tehnice PT R 14-2002, ediția 1, \"Cerințe tehnice privind introducerea pe piața și verificarea în exploatare a cablurilor, lanțurilor, benzilor, funiilor, cârligelor și elementelor de legare și prindere a sarcinii utilizate la instalații de ridicat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41233",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41233",
+     "sha256": "61ce125daf4b183be79d3236a1bcd0c93cbd177dd04384e92fe27865d8e64811"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-644-2002",
+   "path": "ordin/economie/2002/644",
+   "short": "Ordin economie nr. 644/2002",
+   "title": "Ordinul nr. 644/2002 pentru aprobarea Listei organismelor notificate care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41016",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41016",
+     "sha256": "031f4cf38a410da4ebeed2ce5d1f1153d65f345728395cd6ad686f9a0d0727a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-645-2002",
    "path": "ordin/economie/2002/645",
    "short": "Ordin economie nr. 645/2002",
@@ -2219,6 +3074,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41854",
      "sha256": "5836dfc4eb80470b7fbb90544556435552acbd5b7d246c6dafcd2f67023d94d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-653-2002",
+   "path": "ordin/economie/2002/653",
+   "short": "Ordin economie nr. 653/2002",
+   "title": "Ordinul nr. 653/2002 privind aprobarea listei organismelor notificate care efectuează evaluarea conformității ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41003",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41003",
+     "sha256": "e07112187ef19be3284f13da2da9f3bb19357f1f5b25e1ae103c6ff41d1e6584"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-92-2002",
+   "path": "ordin/economie/2002/92",
+   "short": "Ordin economie nr. 92/2002",
+   "title": "Ordinul nr. 92/2002 privind concursul public de oferte nr. 30/2002 pentru concesionarea unor activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36680",
+   "versions": [
+    {
+     "from": "2002-06-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36680",
+     "sha256": "e0fa3b3c11a1b16eafb29eaa81a33410275baf5263ddda5f1938a88559d5e2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-93-2002",
+   "path": "ordin/economie/2002/93",
+   "short": "Ordin economie nr. 93/2002",
+   "title": "Ordinul nr. 93/2002 privind concursul public de oferte nr. 31/2002 pentru concesionarea unor activități miniere de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36679",
+   "versions": [
+    {
+     "from": "2002-06-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36679",
+     "sha256": "a376b3cc36f872c850cc475f36697543d8674c47f977a84903dd399b89672191"
     }
    ]
   },

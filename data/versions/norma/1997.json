@@ -151,6 +151,21 @@
      "sha256": "2a474f1ceb3db1f5f04610cc9ea5784dd59e821f0cf53fa1bdbb98e92a1279eb"
     }
    ]
+  },
+  {
+   "slug": "norma-transporturi-147-tb-1997",
+   "path": "norma/transporturi/1997/147-tb",
+   "short": "Norma transporturi nr. 147/TB/1997",
+   "title": "Norma nr. 147/TB/1997 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11814",
+   "versions": [
+    {
+     "from": "1997-02-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11814",
+     "sha256": "dc33be601aa645ea38a7cb7e844c69c6b39f7aefbf306a3649e755c5f966e3af"
+    }
+   ]
   }
  ]
 }

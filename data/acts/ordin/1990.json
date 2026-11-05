@@ -3,6 +3,25 @@
 "shard": "ordin/1990",
 "acts": [
 {
+"slug": "ordin-economie-18-1990",
+"path": "ordin/economie/1990/18",
+"kind": "ordin",
+"year": "1990",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 18/1990 privind autorizarea operațiunilor de export și import",
+"short": "Ordin economie nr. 18/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-04-21",
+"latest": "1990-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/763",
+"issuer": "economie",
+"joint": []
+},
+{
 "slug": "ordin-finante-544-1990",
 "path": "ordin/finante/1990/544",
 "kind": "ordin",

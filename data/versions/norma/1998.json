@@ -121,6 +121,21 @@
      "sha256": "cc7a92fecfadf7b8923f32bcb0359cc7524a04c4326b9e6a3309ff285c89ca62"
     }
    ]
+  },
+  {
+   "slug": "norma-transporturi-4815-1998",
+   "path": "norma/transporturi/1998/4815",
+   "short": "Norma transporturi nr. 4815/1998",
+   "title": "Norma nr. 4.815/1998 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18121",
+   "versions": [
+    {
+     "from": "1999-05-11",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18121",
+     "sha256": "21ebe63074c94bc55c06ec68ff95de945a35f5d4d1ea1cf8eb12defcb596197a"
+    }
+   ]
   }
  ]
 }

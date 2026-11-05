@@ -243,6 +243,126 @@
    ]
   },
   {
+   "slug": "ordin-economie-1507-1996",
+   "path": "ordin/economie/1996/1507",
+   "short": "Ordin economie nr. 1507/1996",
+   "title": "Ordinul nr. 1.507/1996 privind aprobarea Procedurii-tip de atestare a capabilitatii agentilor economici de a executa structuri sudate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10586",
+   "versions": [
+    {
+     "from": "1996-05-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10586",
+     "sha256": "a6bc8bb92dde36d3758f0a5c7729ed694ca262ae36c7e629a6ca7365058c4ea0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1512-1996",
+   "path": "ordin/economie/1996/1512",
+   "short": "Ordin economie nr. 1512/1996",
+   "title": "Ordinul nr. 1.512/1996 privind regimul special de verificare tehnică și autorizare de funcționare a instalațiilor mecanice sub presiune, a instalațiilor mecanice de ridicat și a aparatelor consumatoare de combustibil, precum și a instalațiilor mecanice sub presiune, a instalațiilor mecanice de ridicat și a unor instalații și componente din cadrul obiectivelor și instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10592",
+   "versions": [
+    {
+     "from": "1996-02-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10592",
+     "sha256": "788be07d5e6d4b68ff2767e5df55d46b05f6ea4bd385a10363b7a609b2e2c7cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1663-1996",
+   "path": "ordin/economie/1996/1663",
+   "short": "Ordin economie nr. 1663/1996",
+   "title": "Ordinul nr. 1.663/1996 privind aprobarea Prescripțiilor tehnice pentru proiectarea, execuția, încercarea în vederea omologării și exploatarea supapelor de siguranță destinate echipării cazanelor și recipientelor sub presiune - C37 - 96",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10655",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10655",
+     "sha256": "902c7786909aaae4560e04a5be9953935e5e0fa126709b6d26556c0ee4060cbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1667-1996",
+   "path": "ordin/economie/1996/1667",
+   "short": "Ordin economie nr. 1667/1996",
+   "title": "Ordinul nr. 1.667/1996 privind aprobarea Prescripțiilor tehnice pentru autorizarea sudorilor care executa lucrări de sudare în construirea, montarea și repararea instalațiilor mecanice sub presiune și a instalațiilor de ridicat - partea 1: Oțel și partea a 2-a: Aluminiu și aliaje din aluminiu CR9-96",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10656",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10656",
+     "sha256": "b9e05e1d9a557632bee798355fff33328051a2d85ccdfb01950a6ca8ff1c98ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1668-1996",
+   "path": "ordin/economie/1996/1668",
+   "short": "Ordin economie nr. 1668/1996",
+   "title": "Ordinul nr. 1.668/1996 privind aprobarea Prescripțiilor tehnice pentru omologarea procedurilor de sudare folosite în construirea, montarea și repararea instalațiilor mecanice sub presiune și a instalațiilor de ridicat - partea 1: Oțel și partea a 2-a: Aluminiu și aliaje din aluminiu CR7-96",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10657",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10657",
+     "sha256": "bcc4fbde4b901369e4bda01348b9d92e9d8ff4a0d3adb99a41abf5c44170860e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-48-1996",
+   "path": "ordin/economie/1996/48",
+   "short": "Ordin economie nr. 48/1996",
+   "title": "Ordinul nr. 48/1996 ORDIN Nr. 48 din 28 iunie 1996 privind modificarea și completarea Ordinului ministrului comerțului nr. 6/1996 privind regimul licențelor de export și de import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8272",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8272",
+     "sha256": "dcb1160d73f808762cb3d3624b0238e7dca5bca7ea3279e05c6dab07d6c8835e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-6-1996",
+   "path": "ordin/economie/1996/6",
+   "short": "Ordin economie nr. 6/1996",
+   "title": "Ordinul nr. 6/1996 privind regimul licențelor de export și de import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7786",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7786",
+     "sha256": "cd0a4c4fb5f45080c8bc6b877d5059c9ba71b51e266877f306f7c54f0d47f679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-90-1996",
+   "path": "ordin/economie/1996/90",
+   "short": "Ordin economie nr. 90/1996",
+   "title": "Ordinul nr. 90/1996 privind regimul de export și import al mărfurilor în anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8496",
+   "versions": [
+    {
+     "from": "1997-01-09",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8496",
+     "sha256": "1d0e487732cdfee20873f25d942a8c42e39222028799337c84c073a1a0fa206a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1015-1996",
    "path": "ordin/finante/1996/1015",
    "short": "Ordin finante nr. 1015/1996",
@@ -1304,6 +1424,96 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10668",
      "sha256": "44a19105ee46a3846b8b2a30a8ead28647a0dc0eab3ed57fd9938e459bdf3a44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-105-1996",
+   "path": "ordin/transporturi/1996/105",
+   "short": "Ordin transporturi nr. 105/1996",
+   "title": "Ordinul nr. 105/1996 pentru aprobarea Instrucțiunilor privind acordarea licențelor de lucru în zonele libere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8559",
+   "versions": [
+    {
+     "from": "1996-06-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8559",
+     "sha256": "14909a79226e7230ecd419b28967f4ebb96b801cf62f953e3ad4c6bc72f5aa3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-173-1996",
+   "path": "ordin/transporturi/1996/173",
+   "short": "Ordin transporturi nr. 173/1996",
+   "title": "Ordinul nr. 173/1996 pentru aprobarea Instrucțiunilor privind autorizarea laboratoarelor de examinare psihologică pentru conducătorii auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8788",
+   "versions": [
+    {
+     "from": "1996-06-04",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8788",
+     "sha256": "523cb00713ff2c5105ffb83946ff46e436c14f8b82d2bcb2234668097c1a29d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-214-1996",
+   "path": "ordin/transporturi/1996/214",
+   "short": "Ordin transporturi nr. 214/1996",
+   "title": "Ordinul nr. 214/1996 ORDIN Nr. 214 din 2 iulie 1996 pentru aprobarea Metodologiei de acordare a autorizației privind efectuarea transportului fluvial în trafic direct între România și alt stat de către navele aparținând unui stat terț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8872",
+   "versions": [
+    {
+     "from": "1996-07-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8872",
+     "sha256": "63084ec67b49ae4e231c2eaf05c825d6bfefce0bb78da4f62fc7c85f613d60bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-254-1996",
+   "path": "ordin/transporturi/1996/254",
+   "short": "Ordin transporturi nr. 254/1996",
+   "title": "Ordinul nr. 254/1996 pentru aprobarea Normelor metodologice privind clasificarea autocarelor utilizate pentru transporturi turistice în trafic intern și internațional și pentru transporturi publice de persoane în trafic internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8469",
+   "versions": [
+    {
+     "from": "1996-08-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8469",
+     "sha256": "4dc35ad9029172bc22c70464b0302964dfb9b79bebc28cbbccfeaca3444faade"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-33-1996",
+   "path": "ordin/transporturi/1996/33",
+   "short": "Ordin transporturi nr. 33/1996",
+   "title": "Ordinul nr. 33/1996 privind clasificarea autovehiculelor destinate transportului internațional de mărfuri, în funcție de îndeplinirea condițiilor tehnice privind poluarea mediului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8142",
+   "versions": [
+    {
+     "from": "1996-02-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8142",
+     "sha256": "54fd28bf6fd341987081814c3e1c9f78d9025ed1063859a7f7abb9faacf4753b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-353-1996",
+   "path": "ordin/transporturi/1996/353",
+   "short": "Ordin transporturi nr. 353/1996",
+   "title": "Ordinul nr. 353/1996 privind clasificarea pe categorii a autovehiculelor cu masa maximă autorizată mai mare de 3,5 tone, destinate transporturilor internaționale de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9157",
+   "versions": [
+    {
+     "from": "1996-12-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9157",
+     "sha256": "907b9e5ae531e69f93eecc19ed97ed65e16ad09ede4d7a97352b95a83ea4b2a2"
     }
    ]
   }
