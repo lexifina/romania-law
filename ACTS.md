@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12467 acts, 23,982 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12473 acts, 23,988 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8357, of which 3141 amending acts)
+## Laws (legi) (8363, of which 3146 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -577,12 +577,18 @@
 | Legea nr. 216/1998 pentru aprobarea Ordonanţei Guvernului nr. 65/1997 privind regimul paşapoartelor în România | [`lege/1998/216/`](lege/1998/216/) | amended, not consolidated | 1 | 1998-11-23 | 1998-11-23 |
 | Legea nr. 218/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 1/1998 pentru modificarea articolului 9 din Legea fondului funciar nr. 18/1991 , republicată | [`lege/1998/218/`](lege/1998/218/) | amended, not consolidated | 1 | 1998-11-26 | 1998-11-26 |
 | Legea nr. 219/1998 | [`lege/1998/219/`](lege/1998/219/) | repealed 2006-06-30 | 3 | 1999-01-29 | 2006-06-30 |
+| Legea nr. 226/1998 pentru completarea art. 39 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială | [`lege/1998/226/`](lege/1998/226/) | amending act | 1 | 1998-12-16 | 1998-12-16 |
 | Legea nr. 227/1998 privind aprobarea Ordonanţei Guvernului nr. 54/1997 pentru modificarea şi completarea Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale şi necorporale | [`lege/1998/227/`](lege/1998/227/) | amended, not consolidated | 1 | 1998-12-09 | 1998-12-09 |
 | Legea nr. 228/1998 pentru aprobarea Ordonanţei Guvernului nr. 82/1998 privind înregistrarea fiscală a plătitorilor de impozite şi taxe | [`lege/1998/228/`](lege/1998/228/) | amended, not consolidated | 1 | 1998-12-09 | 1998-12-09 |
+| Legea nr. 229/1998 pentru aprobarea Ordonanţei Guvernului nr. 98/1998 privind desemnarea semnatarilor acordurilor de exploatare ale organizaţiilor internaţionale de telecomunicaţii prin sateliţi "INTELSAT", "EUTELSAT" şi "INMARSAT" | [`lege/1998/229/`](lege/1998/229/) | amending act | 1 | 1998-12-09 | 1998-12-09 |
+| Legea nr. 230/1998 pentru proclamarea Zilei Solidarităţii Naţionale împotriva Dictaturii | [`lege/1998/230/`](lege/1998/230/) | in force | 1 | 1998-12-11 | 1998-12-11 |
+| Legea nr. 232/1998 pentru aprobarea Ordonanţei Guvernului nr. 4/1998 privind participarea României la Cooperarea europeană în domeniul cercetării ştiinţifice şi tehnice | [`lege/1998/232/`](lege/1998/232/) | amending act | 1 | 1998-12-11 | 1998-12-11 |
 | Legea nr. 233/1998 privind aprobarea Ordonanţei Guvernului nr. 100/1998 pentru ratificarea Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei, încheiat la Paris la 4 iunie 1998 | [`lege/1998/233/`](lege/1998/233/) | amended, not consolidated | 1 | 1998-12-11 | 1998-12-11 |
+| Legea nr. 234/1998 privind aprobarea Ordonanţei Guvernului nr. 114/1998 pentru ratificarea Acordului de cooperare financiară dintre Guvernul României şi Banca Nordica de Investiţii, semnat la Bucureşti la 26 august 1998 | [`lege/1998/234/`](lege/1998/234/) | amending act | 1 | 1998-12-11 | 1998-12-11 |
 | Legea nr. 236/1998 pentru ratificarea Convenţiei europene de asistenţa judiciară în materie penală, adoptată la Strasbourg la 20 aprilie 1959, şi a Protocolului adiţional la Convenţia europeană de asistenţa judiciară în materie penală, adoptat la Strasbourg la 17 martie 1978 | [`lege/1998/236/`](lege/1998/236/) | amended, not consolidated | 1 | 1998-12-21 | 1998-12-21 |
 | Legea nr. 237/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/1998 pentru prorogarea termenului prevăzut la art. VI alin. 1 din Ordonanţa de urgenţă a Guvernului nr. 32/1997 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale | [`lege/1998/237/`](lege/1998/237/) | amended, not consolidated | 1 | 1998-12-11 | 1998-12-11 |
 | Legea nr. 241/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 92/1997 privind stimularea investiţiilor directe | [`lege/1998/241/`](lege/1998/241/) | amended, not consolidated | 1 | 1998-12-16 | 1998-12-16 |
+| Legea nr. 242/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 39/1998 privind regimul premiilor anuale sau al altor sume de aceasta natura, suportate din fondul de salarii, pentru activitatea anului 1998 | [`lege/1998/242/`](lege/1998/242/) | amending act | 1 | 1998-12-18 | 1998-12-18 |
 | Legea nr. 243/1998 privind aprobarea Ordonanţei Guvernului nr. 126/1998 pentru modificarea Legii nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite | [`lege/1998/243/`](lege/1998/243/) | amended, not consolidated | 1 | 1998-12-18 | 1998-12-18 |
 | Legea nr. 245/1998 pentru aprobarea Ordonanţei Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii | [`lege/1998/245/`](lege/1998/245/) | amended, not consolidated | 1 | 1998-12-22 | 1998-12-22 |
 | Legea nr. 246/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 85/1997 privind impunerea veniturilor realizate de persoanele fizice | [`lege/1998/246/`](lege/1998/246/) | amended, not consolidated | 1 | 1998-12-22 | 1998-12-22 |
@@ -12533,7 +12539,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28579 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28612 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
