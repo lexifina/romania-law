@@ -933,6 +933,366 @@
    ]
   },
   {
+   "slug": "ue-regulament-1003-2014",
+   "path": "ue/regulament/2014/1003",
+   "short": "Regulamentul (UE) nr. 1003/2014",
+   "title": "Regulamentul (UE) nr. 1003/2014 al Comisiei din 18 septembrie 2014 de modificare a anexei V la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1003",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/462706d6-4545-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "927e6e62ed8898bce31f4dea5d9f09637011cca7e899f41cb0055d4452398838"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1004-2014",
+   "path": "ue/regulament/2014/1004",
+   "short": "Regulamentul (UE) nr. 1004/2014",
+   "title": "Regulamentul (UE) nr. 1004/2014 al Comisiei din 18 septembrie 2014 de modificare a anexei V la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1004",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a22d3948-4545-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ff4326a1ebb27ae4c5dde3e467755e827be7388f46ccf9da2799a249e4e7ae70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1084-2014",
+   "path": "ue/regulament/2014/1084",
+   "short": "Regulamentul (UE) nr. 1084/2014",
+   "title": "Regulamentul (UE) nr. 1084/2014 al Comisiei din 15 octombrie 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea difosfaților (E 450) ca agent de afânare și corector de aciditate în aluaturi gata preparate pe bază de drojdie Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1084",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed92e53c-5502-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0446e4ebb1c5fe01d1c27792defcc9c3fa53c64c599746fec751707adaf588d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1096-2014",
+   "path": "ue/regulament/2014/1096",
+   "short": "Regulamentul (UE) nr. 1096/2014",
+   "title": "Regulamentul (UE) nr. 1096/2014 al Comisiei din 15 octombrie 2014 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru carbaril, procimidon și profenofos din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1096",
+   "versions": [
+    {
+     "from": "2014-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed9d6f50-568e-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c836897247f493b5deac919c6cf062639d0a9367ca11e2840c6e2f8c78026b89"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1118-2014",
+   "path": "ue/regulament/2014/1118",
+   "short": "Regulamentul (UE) nr. 1118/2014",
+   "title": "Regulamentul (UE) nr. 1118/2014 al Consiliului din 8 octombrie 2014 privind alocarea posibilităților de pescuit în conformitate cu Protocolul de punere în aplicare a Acordului de parteneriat în domeniul pescuitului durabil încheiat între Uniunea Europeană și Republica Senegal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1118",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d19be64-5a75-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b262cbadfeefc8f6f5b27b2e7383b7761958f68f996872500ad0c177c771f0d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1136-2014",
+   "path": "ue/regulament/2014/1136",
+   "short": "Regulamentul (UE) nr. 1136/2014",
+   "title": "Regulamentul (UE) nr. 1136/2014 al Comisiei din 24 octombrie 2014 de modificare a Regulamentului (UE) nr. 283/2013 în ceea ce privește măsurile tranzitorii privind procedurile referitoare la produsele de protecție a plantelor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1136",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/301e79c0-5e6c-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "09333236890eedc59749efe6cd237537ece7bf84347a2359ee4236eaa8342006"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1161-2014",
+   "path": "ue/regulament/2014/1161",
+   "short": "Regulamentul (UE) nr. 1161/2014",
+   "title": "Regulamentul (UE) nr. 1161/2014 al Comisiei din 30 octombrie 2014 de adaptare la progresul tehnic a Regulamentului (CEE) nr. 3821/85 al Consiliului privind aparatura de înregistrare în transportul rutier Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1161",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c6dbd97-60cc-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d447f24ecc75b124777adf78ade1bc8f553624a4f1eaa6b64c3708c6bf8db41a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1196-2014",
+   "path": "ue/regulament/2014/1196",
+   "short": "Regulamentul (UE) nr. 1196/2014",
+   "title": "Regulamentul (UE) nr. 1196/2014 al Comisiei din 30 octombrie 2014 de punere în aplicare a Regulamentului (CE) nr. 808/2004 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la societatea informațională Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1196",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88d5e6c0-6586-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dd3d7749cdf32d265607691fb6714b25bb786f249dacd0bd03d6c701fb2efe87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1210-2014",
+   "path": "ue/regulament/2014/1210",
+   "short": "Regulamentul (UE) nr. 1210/2014",
+   "title": "Regulamentul (UE) nr. 1210/2014 al Consiliului din 16 octombrie 2014 privind alocarea posibilităților de pescuit în temeiul Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului între Comunitatea Europeană și Republica Guineea-Bissau",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1210",
+   "versions": [
+    {
+     "from": "2014-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb076c78-6b79-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "956cb89fb422349db0875c07165fdcb0dfd88018a7f8e09f500c2fb199f0b62a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1228-2014",
+   "path": "ue/regulament/2014/1228",
+   "short": "Regulamentul (UE) nr. 1228/2014",
+   "title": "Regulamentul (UE) nr. 1228/2014 al Comisiei din 17 noiembrie 2014 de autorizare și de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, care se referă la reducerea riscului de îmbolnăvire Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1228",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd6077c9-6efd-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "66b141eecc8a6a285c9c87190c515661abc2f6081247ef479c169f74ab8692de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2014",
+   "path": "ue/regulament/2014/1229",
+   "short": "Regulamentul (UE) nr. 1229/2014",
+   "title": "Regulamentul (UE) nr. 1229/2014 al Comisiei din 17 noiembrie 2014 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1229",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02a195ea-6efe-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a12fba322223a12d61913d522db7e6a5d288b754a12c95b01c560c6796df6714"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-124-2014",
+   "path": "ue/regulament/2014/124",
+   "short": "Regulamentul (UE) nr. 124/2014",
+   "title": "Regulamentul (UE) nr. 124/2014 al Consiliului din 10 februarie 2014 de modificare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0124",
+   "versions": [
+    {
+     "from": "2014-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/067c5154-92f5-11e3-bf99-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bf8f4ae870c6926686bd4fe48b349f35a31831df6d925de0d23c436e45fcb34a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1253-2014",
+   "path": "ue/regulament/2014/1253",
+   "short": "Regulamentul (UE) nr. 1253/2014",
+   "title": "Regulamentul (UE) nr. 1253/2014 al Comisiei din 7 iulie 2014 de punere în aplicare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele de proiectare ecologică pentru unitățile de ventilație Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1253",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a65efd48-747b-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e4a46549799e07b7a60e477ecf0eb970fda39b5d72416a50d2d5c8b7820df1df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1299-2014",
+   "path": "ue/regulament/2014/1299",
+   "short": "Regulamentul (UE) nr. 1299/2014",
+   "title": "Regulamentul (UE) nr. 1299/2014 al Comisiei din 18 noiembrie 2014 privind specificația tehnică de interoperabilitate referitoare la subsistemul „infrastructură” al sistemului feroviar din Uniunea Europeană Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1299",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/add2729f-81c8-11e4-89f7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "50b75f44d8dc145800a0528a79eef45776a75330d6379b80e3f5846a875f9860"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1300-2014",
+   "path": "ue/regulament/2014/1300",
+   "short": "Regulamentul (UE) nr. 1300/2014",
+   "title": "Regulamentul (UE) nr. 1300/2014 al Comisiei din 18 noiembrie 2014 privind specificațiile tehnice de interoperabilitate referitoare la accesibilitatea sistemului feroviar al Uniunii pentru persoanele cu handicap și persoanele cu mobilitate redusă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1300",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a0f1ad4-81c9-11e4-89f7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4c59c1856c7000108a4da99828f4addbb1a7bd77f8d7c8c8617d28cfb3b50471"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1303-2014",
+   "path": "ue/regulament/2014/1303",
+   "short": "Regulamentul (UE) nr. 1303/2014",
+   "title": "Regulamentul (UE) nr. 1303/2014 al Comisiei din 18 noiembrie 2014 privind specificația tehnică de interoperabilitate referitoare la „siguranța în tunelurile feroviare” a sistemului feroviar din Uniunea Europeană Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1303",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be762c95-81ca-11e4-89f7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4d903d4b261dd0d4255d434eb0b01e9199318fcdc08f6ef42ca9029ba22cccef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1323-2014",
+   "path": "ue/regulament/2014/1323",
+   "short": "Regulamentul CELEX 32014R1323",
+   "title": "Regulament (UE) nr. 1323/2014 al Consiliului din 12 decembrie 2014 de modificare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1323",
+   "versions": [
+    {
+     "from": "2014-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab9f6996-8290-11e4-89f7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d81483b4ce8ea6486cb7c128244b93a50852a0447758e48cf2e10388a03a7e86"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1351-2014",
+   "path": "ue/regulament/2014/1351",
+   "short": "Regulamentul (UE) nr. 1351/2014",
+   "title": "Regulamentul (UE) nr. 1351/2014 al Consiliului din 18 decembrie 2014 de modificare a Regulamentului (UE) nr. 692/2014 privind măsuri restrictive ca răspuns la anexarea ilegală a Crimeei și Sevastopolului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1351",
+   "versions": [
+    {
+     "from": "2014-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd15ea5d-874d-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "27b51d7d747acf2f2ce52d463b1f8825fed748437c61db317721b149501fee4d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1357-2014",
+   "path": "ue/regulament/2014/1357",
+   "short": "Regulamentul (UE) nr. 1357/2014",
+   "title": "Regulamentul (UE) nr. 1357/2014 al Comisiei din 18 decembrie 2014 de înlocuire a anexei III la Directiva 2008/98/CE a Parlamentului European și a Consiliului privind deșeurile și de abrogare a anumitor directive Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1357",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba10b262-874f-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "546f6bd66e959a875c10c23ed18e6971567ebdd88bbdedb4505b2f0d9db836cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1368-2014",
+   "path": "ue/regulament/2014/1368",
+   "short": "Regulamentul (UE) nr. 1368/2014",
+   "title": "Regulamentul (UE) nr. 1368/2014 al Comisiei din 17 decembrie 2014 de modificare a Regulamentului (CE) nr. 987/2009 al Parlamentului European și al Consiliului de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială și a Regulamentului (UE) nr. 1372/2013 al Comisiei de modificare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială și a Regulamentului (CE) nr. 987/2009 al Parlamentului European și al Consiliului de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1368",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6bbd65e1-8816-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e7f35a4043055dc1309feb4b3cc2406e7243b89cbbdb8504898073d876c51dea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1374-2014",
+   "path": "ue/regulament/2014/1374",
+   "short": "Regulamentul (UE) nr. 1374/2014",
+   "title": "Regulamentul (UE) nr. 1374/2014 al Băncii Centrale Europene din 28 noiembrie 2014 privind cerințele de raportare de statistică pentru societățile de asigurare (BCE/2014/50)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1374",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7e039ce-8817-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1bf433d85e7ae633712a6490730bb74d910cc8972bcb8a3d7cf776f92e134c42"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1385-2014",
+   "path": "ue/regulament/2014/1385",
+   "short": "Regulamentul (UE) nr. 1385/2014",
+   "title": "Regulamentul (UE) nr. 1385/2014 al Consiliului din 15 decembrie 2014 privind alocarea posibilităților de pescuit în temeiul Protocolului dintre Uniunea Europeană și Republica Capului Verde de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute prin Acordul de parteneriat în sectorul pescuitului dintre Comunitatea Europeană și Republica Capului Verde",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1385",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c06819e2-8b36-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "96565a190c1ff1819e556f8fbe6f9ee4bc70fbb41b654186acc89a765a3b1d48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-153-2014",
+   "path": "ue/regulament/2014/153",
+   "short": "Regulamentul (UE) nr. 153/2014",
+   "title": "Regulamentul (UE) nr. 153/2014 al Consiliului din 17 februarie 2014 de modificare a Regulamentului (CE) nr. 314/2004 privind anumite măsuri restrictive împotriva Zimbabwe și de abrogare a Regulamentului (UE) nr. 298/2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0153",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f3a5eb6-9a0d-11e3-82a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bb22986ec3be8894276b6c4ff50cdddb19e038600c0b09bebef9c72679bfd955"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-155-2014",
+   "path": "ue/regulament/2014/155",
+   "short": "Regulamentul (UE) nr. 155/2014",
+   "title": "Regulamentul (UE) nr. 155/2014 al Comisiei din 19 februarie 2014 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0155",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a38538c-9a0e-11e3-82a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "99f2894fb58e4d070762d1b6077dd0461c6248d7be410b261e9b1fed70774f92"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-165-2014",
    "path": "ue/regulament/2014/165",
    "short": "Regulamentul (UE) nr. 165/2014",
@@ -944,6 +1304,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fe086399-a04f-11e3-8b87-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "a3d032b1b8d2c7fe797ba45c35575dd47a5140f5fab187f145543749bd9916fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-185-2014",
+   "path": "ue/regulament/2014/185",
+   "short": "Regulamentul (UE) nr. 185/2014",
+   "title": "Regulamentul (UE) nr. 185/2014 al Comisiei din 26 februarie 2014 de rectificare a versiunii în limba bulgară a Regulamentului (UE) nr. 142/2011 de punere în aplicare a Regulamentului (CE) nr. 1069/2009 al Parlamentului European și al Consiliului de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de punere în aplicare a Directivei 97/78/CE a Consiliului ﾮn ceea ce privește anumite probe și produse care sunt scutite de la controalele sanitar-veterinare la frontieră în conformitate cu directiva menționată Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0185",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/243314a8-9f89-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e74e1a2d584c8c37e4c73e52eeb8b1708b58ae8c6e310e09b1dbb07796a908b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-186-2014",
+   "path": "ue/regulament/2014/186",
+   "short": "Regulamentul (UE) nr. 186/2014",
+   "title": "Regulamentul (UE) nr. 186/2014 al Comisiei din 26 februarie 2014 de modificare a Regulamentului (UE) nr. 823/2012 în ceea ce privește datele de expirare a aprobării substanțelor active etoxisulfuron, oxadiargil și warfarină Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0186",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/53fd8202-9f8b-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "66ecd7cdc1d3c840f55ee269b3629a550c252d4a480038cd0997f3839490555e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-208-2014",
+   "path": "ue/regulament/2014/208",
+   "short": "Regulamentul (UE) nr. 208/2014",
+   "title": "Regulamentul (UE) nr. 208/2014 din 5 martie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0208",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5b1619d-a50a-11e3-afd1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "012a833a7bb6aa2a550274767787fe62f29efa5c012aef7287dfff6d852a5cb1"
     }
    ]
   },
@@ -963,6 +1368,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-245-2014",
+   "path": "ue/regulament/2014/245",
+   "short": "Regulamentul (UE) nr. 245/2014",
+   "title": "Regulamentul (UE) nr. 245/2014 al Comisiei din 13 martie 2014 de modificare a Regulamentului (UE) nr. 1178/2011 al Comisiei din 3 noiembrie 2011 de stabilire a cerințelor tehnice și a procedurilor administrative referitoare la personalul navigant din aviația civilă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0245",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cc4f6f66-ab53-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3bf857fdfe7775164ef90b33819c3a54d698ff6bff2fd4a1ae94fd818efccde2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-257-2014",
+   "path": "ue/regulament/2014/257",
+   "short": "Regulamentul (UE) nr. 257/2014",
+   "title": "Regulamentul (UE) nr. 257/2014 al Parlamentului European și al Consiliului din 26 februarie 2014 de modificare a Regulamentului (CE) nr. 2368/2002 al Consiliului referitor la includerea Groenlandei în punerea în aplicare a sistemului de certificare pentru Procesul Kimberley",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0257",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9765f9dd-b003-11e3-86f9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "b69cae4bdf87546ba243ce9b5cfd053fc1af0f7184a861180129e8bfb527a25a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-264-2014",
+   "path": "ue/regulament/2014/264",
+   "short": "Regulamentul (UE) nr. 264/2014",
+   "title": "Regulamentul (UE) nr. 264/2014 al Comisiei din 14 martie 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea copolimerului polivinilpirolidonă-vinil acetat în suplimentele alimentare solide și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește specificațiile acestuia Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0264",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4dabe31-ac18-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ea2bd0a20771876c9db05d5e59a8d3682ac018a9f69e307d7d1a1b8742ffbf8a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-269-2014",
    "path": "ue/regulament/2014/269",
    "short": "Regulamentul (UE) nr. 269/2014",
@@ -974,6 +1424,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4295095e-ae10-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "fe33dabad131618807a5434d513c20325f6accbd95ec393108177c132808d5cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-271-2014",
+   "path": "ue/regulament/2014/271",
+   "short": "Regulamentul (UE) nr. 271/2014",
+   "title": "Regulamentul (UE) nr. 271/2014 al Consiliului din 17 martie 2014 de modificare a Regulamentului (CE) nr. 1183/2005 de instituire a anumitor măsuri speciale împotriva persoanelor ale căror acțiuni încalcă embargoul asupra armelor impus Republicii Democratice Congo",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0271",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac723c62-ae6e-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "40995510593de76a1373acdaf16de74bea5776fb2e57457b2e19eb63c738a11a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-317-2014",
+   "path": "ue/regulament/2014/317",
+   "short": "Regulamentul (UE) nr. 317/2014",
+   "title": "Regulamentul (UE) nr. 317/2014 al Comisiei din 27 martie 2014 de modificare a Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește anexa XVII (substanțe CMR) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0317",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8720282a-b6c9-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "96b103c6110e6b654d8a4a48fb430260c298b249a85bae3caed0451912e5ff01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-318-2014",
+   "path": "ue/regulament/2014/318",
+   "short": "Regulamentul (UE) nr. 318/2014",
+   "title": "Regulamentul (UE) nr. 318/2014 al Comisiei din 27 martie 2014 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de fenarimol, metaflumizonă și teflubenzuron din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0318",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e59362fb-b6c9-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c8bd05569878d459593b5c5c9c07d962079e87baf564fde30db66132fc9a4cb2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-32-2014",
+   "path": "ue/regulament/2014/32",
+   "short": "Regulamentul (UE) nr. 32/2014",
+   "title": "Regulamentul (UE) nr. 32/2014 al Comisiei din 14 ianuarie 2014 de deschidere a unei reexaminări în ceea ce privește un „nou exportator” a Regulamentului de punere în aplicare (UE) nr. 1008/2011 al Consiliului de instituire a unei taxe antidumping definitive la importurile de transpalete manuale și componente de bază ale acestora originare din Republica Populară Chineză, astfel cum a fost modificat prin Regulamentul de punere în aplicare (UE) nr. 372/2013 al Consiliului, de abrogare a taxei asupra importurilor care provin de la un exportator din această țară și de impunere a obligativității de înregistrare a acestor importuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0032",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b71a3d7c-7dcb-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c553c2dc2725e3952cb1643c17f64de4d1641b32eeaf8193fb30a9cf23040e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-332-2014",
+   "path": "ue/regulament/2014/332",
+   "short": "Regulamentul (UE) nr. 332/2014",
+   "title": "Regulamentul (UE) nr. 332/2014 al Parlamentului European și al Consiliului din 11 martie 2014 privind anumite proceduri de aplicare a Acordului de stabilizare și de asociere între Comunitățile Europene și statele membre ale acestora, pe de o parte, și Republica Serbia, pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0332",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b20c59e-bc8f-11e3-86f9-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "cc40c9ef100db69b2097e1d99f7e3db869898d9b011288e27310c93bd0042efd"
     }
    ]
   },
@@ -993,6 +1518,246 @@
    ]
   },
   {
+   "slug": "ue-regulament-361-2014",
+   "path": "ue/regulament/2014/361",
+   "short": "Regulamentul (UE) nr. 361/2014",
+   "title": "Regulamentul (UE) nr. 361/2014 al Comisiei din 9 aprilie 2014 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1073/2009 al Parlamentului European și al Consiliului în ceea ce privește documentele pentru transportul internațional de călători cu autocarul și autobuzul și de abrogare a Regulamentului (CE) nr. 2121/98 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0361",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad924567-c083-11e3-86f9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "169af1899653ea6a2c9ee2d174b5ada6736b8018f15ac2a6a913932839fbb51c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-42-2014",
+   "path": "ue/regulament/2014/42",
+   "short": "Regulamentul 2014/42/UE",
+   "title": "2014/42/UE: Regulamentul Consiliului din 20 ianuarie 2014 de modificare a Regulamentului (UE) nr. 267/2012 privind măsuri restrictive împotriva Iranului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0042",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49686b97-81f4-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e3052dffc4780545c2791c2ce99dcb1f0eaefdab75dd4de5812d635149fc58cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-423-2014",
+   "path": "ue/regulament/2014/423",
+   "short": "Regulamentul (UE) nr. 423/2014",
+   "title": "Regulamentul (UE) nr. 423/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de ajustare, începând cu 1 iulie 2012 , a remunerațiilor și a pensiilor funcționarilor și ale celorlalți agenți ai Uniunii Europene, precum și a coeficienților corectori aferenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0423",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70b7262e-d032-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "aa148cc0c765de4d0eb6c90ef6fce25178fd5a09630d924d79416d762d632bfd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-431-2014",
+   "path": "ue/regulament/2014/431",
+   "short": "Regulamentul (UE) nr. 431/2014",
+   "title": "Regulamentul (UE) nr. 431/2014 al Comisiei din 24 aprilie 2014 de modificare a Regulamentului (CE) nr. 1099/2008 al Parlamentului European și al Consiliului privind statisticile în domeniul energiei, în ceea ce privește punerea în aplicare a statisticilor anuale privind consumul de energie în gospodăriile populației Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0431",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d0da5a9-d100-11e3-8cd4-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "612beca5b844b7ad77820a1049ee71f65aecbfad89ec4453a4262bdd66cbdebe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-469-2014",
+   "path": "ue/regulament/2014/469",
+   "short": "Regulamentul (UE) nr. 469/2014",
+   "title": "Regulamentul (UE) nr. 469/2014 al Băncii Centrale Europene din 16 aprilie 2014 de modificare a Regulamentului (CE) nr. 2157/1999 privind competența Băncii Centrale Europene de a impune sancțiuni (BCE/1999/4) (BCE/2014/18)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0469",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/060e0ecc-db39-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "429edc7944a3b8bf227c62168b0382666f04caf4af12c77b04a5365a7f2d9625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-474-2014",
+   "path": "ue/regulament/2014/474",
+   "short": "Regulamentul (UE) nr. 474/2014",
+   "title": "Regulamentul (UE) nr. 474/2014 al Comisiei din 8 mai 2014 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește substanța 1,4-diclorbenzen Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0474",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20df35eb-e5b4-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1d082d7db171e2700ab3793da9d35c2adf48f83a893681537f3a667ab55be9d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-476-2014",
+   "path": "ue/regulament/2014/476",
+   "short": "Regulamentul (UE) nr. 476/2014",
+   "title": "Regulamentul (UE) nr. 476/2014 al Consiliului din 12 mai 2014 de modificare a Regulamentului nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0476",
+   "versions": [
+    {
+     "from": "2014-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f097d9c3-da02-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e0d6e3bfac8446542aeb8f5233f04df379081b45f7ab25783ba3a0b78707237e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-491-2014",
+   "path": "ue/regulament/2014/491",
+   "short": "Regulamentul (UE) nr. 491/2014",
+   "title": "Regulamentul (UE) nr. 491/2014 al Comisiei din 5 mai 2014 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru ametoctradin, azoxistrobin, cicloxidim, ciflutrin, dinotefuran, fenbuconazol, fenvalerat, fludioxonil, fluopiram, flutriafol, fluxapiroxad, glufosinat de amoniu, imidacloprid, indoxacarb, MCPA, metoxifenozid, pentiopirad, spinetoram și trifloxistrobin din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0491",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96dd5d78-dcc3-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "27293308dea04a6d7bfda0c607cb35beda33161ad4a7ea676fb64d8c9a86865b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-497-2014",
+   "path": "ue/regulament/2014/497",
+   "short": "Regulamentul (UE) nr. 497/2014",
+   "title": "Regulamentul (UE) nr. 497/2014 al Comisiei din 14 mai 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea substanței advantam ca îndulcitor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0497",
+   "versions": [
+    {
+     "from": "2014-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28ae90e8-dbfb-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "59d94f0169e6998817a360a0131cd5536d7da3962751697898a855d8e38134a2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-505-2014",
+   "path": "ue/regulament/2014/505",
+   "short": "Regulamentul (UE) nr. 505/2014",
+   "title": "Regulamentul (UE) nr. 505/2014 al Comisiei din 15 mai 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea coloranților pentru caramel (E 150a-d) în bere și în băuturile din malț Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0505",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/636019ff-dcc4-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "574cb1e542d2129e61a885b89967857f37aa61de02c33f69d609e1fee3e6c7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-506-2014",
+   "path": "ue/regulament/2014/506",
+   "short": "Regulamentul (UE) nr. 506/2014",
+   "title": "Regulamentul (UE) nr. 506/2014 al Comisiei din 15 mai 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea substanței etil lauroil arginat ca agent de conservare în anumite produse din carne tratate termic Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0506",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e884c13-dcc4-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "49615efb1b5162d3a984062407e53f1b93d25056536f1c246887af570ae9eb5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-508-2014",
+   "path": "ue/regulament/2014/508",
+   "short": "Regulamentul (UE) nr. 508/2014",
+   "title": "Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentelor (CE) nr. 2328/2003, (CE) nr. 861/2006, (CE) nr. 1198/2006 și (CE) nr. 791/2007 ale Consiliului și a Regulamentului (UE) nr. 1255/2011 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0508",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97e4677e-dff0-11e3-8cd4-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "fa2c6c286b6799947395fefd98c205e27569271cc1a521694688764b52884e2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-510-2014",
+   "path": "ue/regulament/2014/510",
+   "short": "Regulamentul (UE) nr. 510/2014",
+   "title": "Regulamentul (UE) nr. 510/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de stabilire a regimului comercial aplicabil anumitor mărfuri rezultate din transformarea produselor agricole și de abrogare a Regulamentelor (CE) nr. 1216/2009 și (CE) nr. 614/2009 ale Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0510",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/47e26105-dff0-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0d6cfc0113dee7ae40e275312de91504601fb5df88a35261ff2217e164071f3a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-513-2014",
+   "path": "ue/regulament/2014/513",
+   "short": "Regulamentul (UE) nr. 513/2014",
+   "title": "Regulamentul (UE) nr. 513/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de instituire, în cadrul Fondului pentru securitate internă, a instrumentului de sprijin financiar pentru cooperarea polițienească, prevenirea și combaterea criminalității și gestionarea crizelor și de abrogare a Deciziei 2007/125/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0513",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b085f141-dff0-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e52c5df1231a7b33408ffbda0ef1928edb253da62117680c09748f3e170fe817"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-515-2014",
+   "path": "ue/regulament/2014/515",
+   "short": "Regulamentul (UE) nr. 515/2014",
+   "title": "Regulamentul (UE) nr. 515/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de instituire, în cadrul Fondului pentru securitate internă, a instrumentului de sprijin financiar pentru frontiere externe și vize și de abrogare a Deciziei nr. 574/2007/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0515",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fda6f7ea-dff0-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c04a4731c833213a12b482dee2bf1dd734bcac44771a1e7cbd74c9bdce33b61"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-516-2014",
+   "path": "ue/regulament/2014/516",
+   "short": "Regulamentul (UE) nr. 516/2014",
+   "title": "Regulamentul (UE) nr. 516/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de instituire a Fondului pentru azil, migrație și integrare, de modificare a Deciziei 2008/381/CE a Consiliului și de abrogare a Deciziilor nr. 573/2007/CE și nr. 575/2007/CE ale Parlamentului European și ale Consiliului și a Deciziei 2007/435/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0516",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28b43d59-dff1-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0fa1e0a6e921f5b14d53cbb9ef9115e6b929917eb082926154adfc5733f840ea"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-536-2014",
    "path": "ue/regulament/2014/536",
    "short": "Regulamentul (UE) nr. 536/2014",
@@ -1008,6 +1773,336 @@
    ]
   },
   {
+   "slug": "ue-regulament-542-2014",
+   "path": "ue/regulament/2014/542",
+   "short": "Regulamentul (UE) nr. 542/2014",
+   "title": "Regulamentul (UE) nr. 542/2014 al Parlamentului European și al Consiliului din 15 mai 2014 de modificare a Regulamentului (UE) nr. 1215/2012 în ceea ce privește normele aplicabile cu privire la Curtea unică în materie de brevete și Curtea de Justiție din Benelux",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0542",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cea208c6e8fbbbb8e3b197720cf4005b3ed654c48dd7267d15c9c5a048b221cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-575-2014",
+   "path": "ue/regulament/2014/575",
+   "short": "Regulamentul (UE) nr. 575/2014",
+   "title": "Regulamentul (UE) nr. 575/2014 al Comisiei din 27 mai 2014 de modificare a Regulamentului (UE) nr. 383/2012 de stabilire a cerințelor tehnice cu privire la permisele de conducere care conțin un mediu de stocare (microcip) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0575",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf6d6714-e637-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4788bdaec8d0c68845464dbe144017448b42e9353e74f5b56d04e5daade0468d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-579-2014",
+   "path": "ue/regulament/2014/579",
+   "short": "Regulamentul (UE) nr. 579/2014",
+   "title": "Regulamentul (UE) nr. 579/2014 al Comisiei din 28 mai 2014 de acordare a unei derogări de la anumite dispoziții ale anexei II la Regulamentul (CE) nr. 852/2004 al Parlamentului European și al Consiliului în ceea ce privește transportul maritim al uleiurilor și al grăsimilor lichide Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0579",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7910e567-e6e0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "04a242517f3e7db12b1c4d6590a8b32fd13b3a794f576627ee5b8a98535c8d77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-588-2014",
+   "path": "ue/regulament/2014/588",
+   "short": "Regulamentul CELEX 32014R0588",
+   "title": "Regulamentul(UE) nr. 588/2014 al Comisiei din 2 iunie 2014 de modificare a anexelor III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește conținuturile maxime aplicabile reziduurilor de ulei de portocale, Phlebiopsis gigantea , acid giberelic, Paecilomyces fumosoroseus tulpina FE 9901, virusul poliedrozei nucleare Spodoptera littoralis , virusul poliedrozei nucleare Spodoptera exigua , Bacillus firmus I-1582, S-acid abscisic, acid L-ascorbic și virusul poliedrozei nucleare Helicoverpa armigera din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0588",
+   "versions": [
+    {
+     "from": "2014-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b435ee4-eae9-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a601696bf8e11db92587e3b3385e5254ea970bb74038cd6da09d6ab75300ce28"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-59-2014",
+   "path": "ue/regulament/2014/59",
+   "short": "Regulamentul (UE) nr. 59/2014",
+   "title": "Regulamentul (UE) nr. 59/2014 al Comisiei din 23 ianuarie 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea dioxidului de sulf – sulfiților (E 220-228) în produse aromatizate pe bază de vin Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0059",
+   "versions": [
+    {
+     "from": "2014-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/21a7d26e-84cf-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f90565fb9e304f7a7f74cb00c98f84e44ed10d87cf417f8e29829bd72db2e0aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-651-2014",
+   "path": "ue/regulament/2014/651",
+   "short": "Regulamentul (UE) nr. 651/2014",
+   "title": "Regulamentul (UE) nr. 651/2014 al Comisiei din 17 iunie 2014 de declarare a anumitor categorii de ajutoare compatibile cu piața internă în aplicarea articolelor 107 și 108 din tratat Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0651",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1291bb4c-fcfe-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b4311f4cb20b78b1c7fc99d34adfa6fe1b9d055f6c0e81855b1ce67d08d4378f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-653-2014",
+   "path": "ue/regulament/2014/653",
+   "short": "Regulamentul (UE) nr. 653/2014",
+   "title": "Regulamentul (UE) nr. 653/2014 al Parlamentului European și al Consiliului din 15 mai 2014 de modificare a Regulamentului (CE) nr. 1760/2000 în ceea ce privește identificarea electronică a bovinelor și etichetarea cărnii de vită și mânzat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0653",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0027e2df-0e94-11e4-a7d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "56fa97250c14415bf71a4edc100e010e8c5cd48cf4f3782fb7d0bfe1180f6513"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-654-2014",
+   "path": "ue/regulament/2014/654",
+   "short": "Regulamentul (UE) nr. 654/2014",
+   "title": "Regulamentul (UE) nr. 654/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind exercitarea drepturilor Uniunii pentru aplicarea și respectarea normelor comerțului internațional și de modificare a Regulamentului (CE) nr. 3286/94 al Consiliului privind adoptarea procedurilor comunitare în domeniul politicii comerciale comune în vederea asigurării exercitării de către Comunitate a drepturilor care îi sunt conferite de normele comerțului internațional, în special de cele instituite sub egida Organizației Mondiale a Comerțului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0654",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b9bc3f0-0e94-11e4-a7d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bfac5ba522ff163d1176458d472a0b1db5af86a9a150b2fcad7b8b7583d2334f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-656-2014",
+   "path": "ue/regulament/2014/656",
+   "short": "Regulamentul (UE) nr. 656/2014",
+   "title": "Regulamentul (UE) nr. 656/2014 al Parlamentului European și al Consiliului din 15 mai 2014 de stabilire a unor norme de supraveghere a frontierelor maritime externe în contextul cooperării operative coordonate de Agenția Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale statelor membre ale Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0656",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98c20c62-0e94-11e4-a7d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "edbb4359a7e58fa916847765643b09f5e8fa35135e83504fee7bb558eecedb51"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-685-2014",
+   "path": "ue/regulament/2014/685",
+   "short": "Regulamentul (UE) nr. 685/2014",
+   "title": "Regulamentul (UE) nr. 685/2014 al Comisiei din 20 iunie 2014 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea copolimerului grefat de alcool polivinilic și polietilenglicol în suplimentele alimentare solide Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0685",
+   "versions": [
+    {
+     "from": "2014-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42800139-f903-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e7ccbe23e9c59dc95bd57dcaeb0529c6cdbd13619d918475a9fc3bc0db858e50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-703-2014",
+   "path": "ue/regulament/2014/703",
+   "short": "Regulamentul (UE) nr. 703/2014",
+   "title": "Regulamentul (UE) nr. 703/2014 al Comisiei din 19 iunie 2014 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru acibenzolar-s-metil, etoxiquin, flusilazol, izoxaflutol, molinat, propoxicarbazon, piraflufen-etil, chinoclamină și warfarină din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0703",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d0e196d-fcfe-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fec8fdd7c7fe728f02fd57b11c95a74ace91ff62d451975eded1c324ad87212a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-709-2014",
+   "path": "ue/regulament/2014/709",
+   "short": "Regulamentul (UE) nr. 709/2014",
+   "title": "Regulamentul (UE) nr. 709/2014 al Comisiei din 20 iunie 2014 de modificare a Regulamentului (CE) nr. 152/2009 în ceea ce privește determinarea nivelurilor de dioxine și bifenili policlorurați Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0709",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d626811a-fdcc-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ad50584cf80e83e53008266642cb03be68ba061f8048bea130a88a9800be9f5d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-732-2014",
+   "path": "ue/regulament/2014/732",
+   "short": "Regulamentul (UE) nr. 732/2014",
+   "title": "Regulamentul (UE) nr. 732/2014 al Consiliului din 3 iulie 2014 de modificare a Regulamentelor (CE) nr. 754/2009 și (UE) nr. 43/2014 în ceea ce privește anumite posibilități de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0732",
+   "versions": [
+    {
+     "from": "2014-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e9105df9-0348-11e4-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "98c50d86ca6860b2f8f744303155cf6ef02c4744e083bb0bb619008676f4eb71"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-752-2014",
+   "path": "ue/regulament/2014/752",
+   "short": "Regulamentul (UE) nr. 752/2014",
+   "title": "Regulamentul (UE) nr. 752/2014 al Comisiei din 24 iunie 2014 de înlocuire a anexei I la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0752",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0eab255b-0be9-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "226322c2e107f910f1abe2927b8d1cc25d87fae1614a4276fe4ed870ff51d5dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-756-2014",
+   "path": "ue/regulament/2014/756",
+   "short": "Regulamentul (UE) nr. 756/2014",
+   "title": "Regulamentul (UE) nr. 756/2014 al Băncii Centrale Europene din 8 iulie 2014 de modificare a Regulamentului (UE) nr. 1072/2013 (BCE/2013/34) privind statisticile referitoare la ratele dobânzii practicate de instituțiile financiare monetare (BCE/2014/30)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0756",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/401f5632-0995-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "092e4d25019c6aa91930f22671e9687578fdd3402861cfb9f755c9ce32799044"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-79-2014",
+   "path": "ue/regulament/2014/79",
+   "short": "Regulamentul (UE) nr. 79/2014",
+   "title": "Regulamentul (UE) nr. 79/2014 al Comisiei din 29 ianuarie 2014 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile substanțelor bifenazat, clorprofam, esfenvalerat, fludioxonil și tiobencarb din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0079",
+   "versions": [
+    {
+     "from": "2014-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15d9f55f-8988-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c73c0c995d56d1f8f22a96ab776d8e78f73ad24f2451a1077e6a8606ab293254"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-806-2014",
+   "path": "ue/regulament/2014/806",
+   "short": "Regulamentul (UE) nr. 806/2014",
+   "title": "Regulamentul (UE) nr. 806/2014 al Parlamentului European și al Consiliului din 15 iulie 2014 de stabilire a unor norme uniforme și a unei proceduri uniforme de rezoluție a instituțiilor de credit și a anumitor firme de investiții în cadrul unui mecanism unic de rezoluție și al unui fond unic de rezoluție și de modificare a Regulamentului (UE) nr. 1093/2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0806",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59d36bcd-17b3-11e4-933d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c98bfce1c67c36511bec96968fa2d5e48d7fe2ce6a00ec90ae1c194316490ea4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-825-2014",
+   "path": "ue/regulament/2014/825",
+   "short": "Regulamentul (UE) nr. 825/2014",
+   "title": "Regulamentul (UE) nr. 825/2014 al Consiliului din 30 iulie 2014 de modificare a Regulamentului (UE) nr. 692/2014 referitor la restricții privind importul în Uniune de mărfuri originare din Crimeea sau Sevastopol, ca răspuns la anexarea ilegală a Crimeii și Sevastopolului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0825",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9852f925-1812-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0b59b6c4ea627344a0023cb76868448024af47a11d3d444074fee87654fbe9d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-866-2014",
+   "path": "ue/regulament/2014/866",
+   "short": "Regulamentul (UE) nr. 866/2014",
+   "title": "Regulamentul (UE) nr. 866/2014 al Comisiei din 8 august 2014 de modificare a anexelor III, V și VI la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0866",
+   "versions": [
+    {
+     "from": "2014-08-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f5b94614-1f8c-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e44358158664412520639155945921354d7412ef5ac7fab6ce9e009b5e57600d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-87-2014",
+   "path": "ue/regulament/2014/87",
+   "short": "Regulamentul (UE) nr. 87/2014",
+   "title": "Regulamentul (UE) nr. 87/2014 al Comisiei din 31 ianuarie 2014 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de acetamiprid, butralin, clorotoluron, daminozid, izoproturon, picoxistrobin, pirimetanil și trinexapac din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0087",
+   "versions": [
+    {
+     "from": "2014-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4591ede-8e3c-11e3-a2e2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "85dd1e2b07cab5e8c7240368db0c5dd03b0ce8f2f902250f7cb07aaf869e9d29"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-895-2014",
+   "path": "ue/regulament/2014/895",
+   "short": "Regulamentul (UE) nr. 895/2014",
+   "title": "Regulamentul (UE) nr. 895/2014 al Comisiei din 14 august 2014 de modificare a anexei XIV la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice ( „REACH” ) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0895",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b94530d6-276f-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "81af3c9c4108c328992180afbdacf4cba56f346e1ef8abb1d680e7dff6c558ed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-909-2014",
+   "path": "ue/regulament/2014/909",
+   "short": "Regulamentul (UE) nr. 909/2014",
+   "title": "Regulamentul (UE) nr. 909/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind îmbunătățirea decontării titlurilor de valoare în Uniunea Europeană și privind depozitarii centrali de titluri de valoare și de modificare a Directivelor 98/26/CE și 2014/65/UE și a Regulamentului (UE) nr. 236/2012 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0909",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e58428b4-2e81-11e4-8c3c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5644b4d7073ed2143b5d57993f55a2b72437d3d8d0f0a69efd778088771e734a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-910-2014",
    "path": "ue/regulament/2014/910",
    "short": "Regulamentul (UE) nr. 910/2014",
@@ -1019,6 +2114,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "06ad55cfc1e65fa6442da62c704730ce4431026f94869bd0b89756e8aa842fa0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-959-2014",
+   "path": "ue/regulament/2014/959",
+   "short": "Regulamentul (UE) nr. 959/2014",
+   "title": "Regulamentul (UE) nr. 959/2014 al Consiliului din 8 septembrie 2014 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0959",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efdb7dc5-3a3e-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7c4ff17ef120fbd48403f3e268090705fb08b5af03c252590b0ffd58e0f6f37b"
     }
    ]
   }

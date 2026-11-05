@@ -10330,34 +10330,34 @@
   {
    "shard": "ue/2014",
    "kind": "ue",
-   "count": 68,
+   "count": 142,
    "acts": "data/acts/ue/2014.json",
    "list": "data/acts/ue/2014.md",
    "versions": "data/versions/ue/2014.json",
    "laws": "data/laws/ue/2014.csv",
-   "laws_count": 68,
+   "laws_count": 142,
    "sources": "data/sources/ue/2014.csv"
   },
   {
    "shard": "ue/2015",
    "kind": "ue",
-   "count": 57,
+   "count": 196,
    "acts": "data/acts/ue/2015.json",
    "list": "data/acts/ue/2015.md",
    "versions": "data/versions/ue/2015.json",
    "laws": "data/laws/ue/2015.csv",
-   "laws_count": 57,
+   "laws_count": 196,
    "sources": "data/sources/ue/2015.csv"
   },
   {
    "shard": "ue/2016",
    "kind": "ue",
-   "count": 198,
+   "count": 200,
    "acts": "data/acts/ue/2016.json",
    "list": "data/acts/ue/2016.md",
    "versions": "data/versions/ue/2016.json",
    "laws": "data/laws/ue/2016.csv",
-   "laws_count": 198,
+   "laws_count": 200,
    "sources": "data/sources/ue/2016.csv"
   },
   {

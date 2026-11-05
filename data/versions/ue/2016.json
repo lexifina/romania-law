@@ -468,6 +468,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1-2016",
+   "path": "ue/regulament/2016/1",
+   "short": "Regulamentul (UE) 2016/1",
+   "title": "Regulamentul (UE) 2016/1 al Comisiei din 3 decembrie 2015 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru bifenazat, boscalid, ciazofamid, ciromazin, dazomet, ditiocarbamați, fluazifop-P, mepanipirim, metrafenonă, picloram, propamocarb, piridaben, piriofenonă, sulfoxaflor, tebuconazol, tebufenpirad și tiram din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0001",
+   "versions": [
+    {
+     "from": "2016-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59ad5cc4-b374-11e5-8d3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2bb5e2d3db3102b7747ea98e91f63ecac93c718679fd496c465e906a3c4bd38c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1002-2016",
    "path": "ue/regulament/2016/1002",
    "short": "Regulamentul (UE) 2016/1002",
@@ -1874,6 +1889,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/afe9164e-dc54-11e5-8fea-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "688b1115a75e0a9354ed04e94b1bce657db36e3c6383fee7af3f5d4b38e04a9d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-266-2016",
+   "path": "ue/regulament/2016/266",
+   "short": "Regulamentul (UE) 2016/266",
+   "title": "Regulamentul (UE) 2016/266 al Comisiei din 7 decembrie 2015 de modificare, în scopul adaptării la progresele tehnice, a Regulamentului (CE) nr. 440/2008 de stabilire a metodelor de testare în temeiul Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0266",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f757944f-df8e-11e5-8fea-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5e0a585f868af18127262e5e7855143519f0b22778bc0e8915fe6a2b3928d8a5"
     }
    ]
   },

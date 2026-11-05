@@ -3,6 +3,23 @@
 "shard": "ue/2016",
 "acts": [
 {
+"slug": "ue-regulament-1-2016",
+"path": "ue/regulament/2016/1",
+"kind": "ue",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2016/1 al Comisiei din 3 decembrie 2015 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru bifenazat, boscalid, ciazofamid, ciromazin, dazomet, ditiocarbamați, fluazifop-P, mepanipirim, metrafenonă, picloram, propamocarb, piridaben, piriofenonă, sulfoxaflor, tebuconazol, tebufenpirad și tiram din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2016/1",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-01-25",
+"latest": "2016-01-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0001"
+},
+{
 "slug": "ue-regulament-5-2016",
 "path": "ue/regulament/2016/5",
 "kind": "ue",
@@ -503,6 +520,26 @@
 "from": "2016-03-17",
 "latest": "2016-03-17",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0263"
+},
+{
+"slug": "ue-regulament-266-2016",
+"path": "ue/regulament/2016/266",
+"kind": "ue",
+"year": "2016",
+"number": "266",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2016/266 al Comisiei din 7 decembrie 2015 de modificare, în scopul adaptării la progresele tehnice, a Regulamentului (CE) nr. 440/2008 de stabilire a metodelor de testare în temeiul Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2016/266",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-03-04",
+"latest": "2016-03-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0266",
+"flags": {
+"figures_missing": 100
+}
 },
 {
 "slug": "ue-regulament-277-2016",
