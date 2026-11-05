@@ -1,2 +1,0 @@
-# Anexa 1
-PROCEDURA 11/12/2015
