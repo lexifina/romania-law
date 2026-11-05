@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12389 acts, 23,903 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12393 acts, 23,907 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8316, of which 3115 amending acts)
+## Laws (legi) (8319, of which 3118 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -777,7 +777,10 @@
 | Legea nr. 102/2000 pentru ratificarea Acordului sub forma de schimb de scrisori dintre Guvernul României şi Comunitatea Europeană, realizat la Bruxelles la 17 iunie 1999, pentru modificarea Acordului sub forma de schimb de scrisori dintre România şi Comunitatea Europeană privind stabilirea reciprocă de contingente tarifare pentru anumite vinuri, efectuat la Bruxelles la 26 noiembrie 1993 | [`lege/2000/102/`](lege/2000/102/) | amended, not consolidated | 1 | 2000-06-26 | 2000-06-26 |
 | Legea nr. 103/2000 pentru aderarea României la Convenţia internaţionala privind armonizarea controalelor mărfurilor la frontiere, semnată la Geneva la 21 octombrie 1982 | [`lege/2000/103/`](lege/2000/103/) | amended, not consolidated | 1 | 2000-06-27 | 2000-06-27 |
 | Legea nr. 105/2000 pentru aprobarea Ordonanţei Guvernului nr. 44/1997 privind transporturile rutiere şi respingerea Ordonanţei Guvernului nr. 73/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 44/1997 privind transporturile rutiere | [`lege/2000/105/`](lege/2000/105/) | amended, not consolidated | 1 | 2000-06-30 | 2000-06-30 |
+| Legea nr. 107/2000 privind aprobarea Ordonanţei Guvernului nr. 46/1999 pentru aprobarea participării României la Grupul de state împotriva corupţiei (GRECO), instituit prin Rezoluţia Consiliului Europei nr. (99)5 din 1 mai 1999 | [`lege/2000/107/`](lege/2000/107/) | amending act | 1 | 2000-06-29 | 2000-06-29 |
+| Legea nr. 108/2000 privind aprobarea Ordonanţei Guvernului nr. 43/1999 pentru ratificarea Acordului privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Skopje la 26 septembrie 1998, şi a Protocolului adiţional la Acordul privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Atena la 12 ianuarie 1999 | [`lege/2000/108/`](lege/2000/108/) | amending act | 1 | 2000-06-29 | 2000-06-29 |
 | Legea nr. 109/2000 privind aprobarea Ordonanţei Guvernului nr. 87/1999 pentru modificarea anexei A "Descrierea tehnică" la Acordul de împrumut dintre România şi Banca Europeană de Investiţii, semnat la Luxemburg şi la Bruxelles la 10 mai 1993 | [`lege/2000/109/`](lege/2000/109/) | amended, not consolidated | 1 | 2000-06-29 | 2000-06-29 |
+| Legea nr. 110/2000 privind aprobarea Ordonanţei Guvernului nr. 31/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind colaborarea financiară, semnat la Bucureşti la 17 decembrie 1998 | [`lege/2000/110/`](lege/2000/110/) | amending act | 1 | 2000-06-29 | 2000-06-29 |
 | Legea nr. 111/2000 pentru aprobarea Ordonanţei Guvernului nr. 57/1998 privind aprobarea participării Ministerului Turismului la Comisia Europeană de Turism şi la Asociaţia de Promovare Turistica Internaţionala - "Die Donau" | [`lege/2000/111/`](lege/2000/111/) | amended, not consolidated | 1 | 2000-06-29 | 2000-06-29 |
 | Legea nr. 112/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 17/1999 privind modificarea şi completarea Legii nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989 | [`lege/2000/112/`](lege/2000/112/) | amended, not consolidated | 1 | 2000-06-30 | 2000-06-30 |
 | Legea nr. 113/2000 privind aprobarea Ordonanţei Guvernului nr. 69/1999 pentru facilitarea aplicării convenţiilor internaţionale în materie de transfer al persoanelor condamnate, la care România este parte, în privinţa predării-preluării condamnaţilor | [`lege/2000/113/`](lege/2000/113/) | amended, not consolidated | 1 | 2000-07-03 | 2000-07-03 |
@@ -8354,7 +8357,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2908, of which 669 amending acts)
+## Emergency ordinances (OUG) (2909, of which 669 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8547,6 +8550,7 @@
 | Ordonanța de urgență a Guvernului nr. 79/2000 privind stingerea unei părţi din datoria Companiei Naţionale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`oug/2000/79/`](oug/2000/79/) | in force | 2 | 2000-06-22 | 2001-04-26 |
 | Ordonanța de urgență a Guvernului nr. 82/2000 | [`oug/2000/82/`](oug/2000/82/) | in force | 2 | 2000-06-28 | 2002-06-18 |
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
+| Ordonanța de urgență a Guvernului nr. 84/2000 privind garantarea unui plasament interbancar | [`oug/2000/84/`](oug/2000/84/) | in force | 1 | 2000-06-26 | 2000-06-26 |
 | Ordonanța de urgență a Guvernului nr. 85/2000 privind finanţarea drepturilor de personal cuvenite medicilor şi farmaciştilor stagiari sau rezidenţi şi personalului de cercetare din unităţile sanitare | [`oug/2000/85/`](oug/2000/85/) | amended, not consolidated | 1 | 2000-06-27 | 2000-06-27 |
 | Ordonanța de urgență a Guvernului nr. 87/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 73/1999 privind impozitul pe venit | [`oug/2000/87/`](oug/2000/87/) | amended, not consolidated | 1 | 2000-07-03 | 2000-07-03 |
 | Ordonanța de urgență a Guvernului nr. 88/2000 | [`oug/2000/88/`](oug/2000/88/) | in force | 1 | 2000-07-06 | 2000-07-06 |
@@ -12455,7 +12459,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27636 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27690 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 12574 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 710 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 550 | [`data/acts/regulament/`](data/acts/regulament/) |

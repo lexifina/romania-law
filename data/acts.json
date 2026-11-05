@@ -12599,6 +12599,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23055"
 },
 {
+"slug": "legea-107-2000",
+"path": "lege/2000/107",
+"kind": "lege",
+"year": "2000",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 107/2000 privind aprobarea Ordonanţei Guvernului nr. 46/1999 pentru aprobarea participării României la Grupul de state împotriva corupţiei (GRECO), instituit prin Rezoluţia Consiliului Europei nr. (99)5 din 1 mai 1999",
+"short": "Legea nr. 107/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-06-29",
+"latest": "2000-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23044"
+},
+{
+"slug": "legea-108-2000",
+"path": "lege/2000/108",
+"kind": "lege",
+"year": "2000",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 108/2000 privind aprobarea Ordonanţei Guvernului nr. 43/1999 pentru ratificarea Acordului privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Skopje la 26 septembrie 1998, şi a Protocolului adiţional la Acordul privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Atena la 12 ianuarie 1999",
+"short": "Legea nr. 108/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-06-29",
+"latest": "2000-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23046"
+},
+{
 "slug": "legea-109-2000",
 "path": "lege/2000/109",
 "kind": "lege",
@@ -12614,6 +12648,23 @@
 "from": "2000-06-29",
 "latest": "2000-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23048"
+},
+{
+"slug": "legea-110-2000",
+"path": "lege/2000/110",
+"kind": "lege",
+"year": "2000",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 110/2000 privind aprobarea Ordonanţei Guvernului nr. 31/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind colaborarea financiară, semnat la Bucureşti la 17 decembrie 1998",
+"short": "Legea nr. 110/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-06-29",
+"latest": "2000-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23050"
 },
 {
 "slug": "legea-111-2000",
@@ -144602,6 +144653,23 @@
 "from": "2000-06-27",
 "latest": "2025-08-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22975"
+},
+{
+"slug": "oug-84-2000",
+"path": "oug/2000/84",
+"kind": "oug",
+"year": "2000",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/2000 privind garantarea unui plasament interbancar",
+"short": "OUG nr. 84/2000",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2000-06-26",
+"latest": "2000-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22987"
 },
 {
 "slug": "oug-85-2000",

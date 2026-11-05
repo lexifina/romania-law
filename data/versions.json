@@ -84650,6 +84650,21 @@
    ]
   },
   {
+   "slug": "legea-107-2000",
+   "path": "lege/2000/107",
+   "short": "Legea nr. 107/2000",
+   "title": "Legea nr. 107/2000 privind aprobarea Ordonanţei Guvernului nr. 46/1999 pentru aprobarea participării României la Grupul de state împotriva corupţiei (GRECO), instituit prin Rezoluţia Consiliului Europei nr. (99)5 din 1 mai 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23044",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23044",
+     "sha256": "95edccd51ed5d4a3fdc9c0bc27cfb193065223320bca7e144108397f43768f1a"
+    }
+   ]
+  },
+  {
    "slug": "legea-107-2003",
    "path": "lege/2003/107",
    "short": "Legea nr. 107/2003",
@@ -84946,6 +84961,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14831",
      "sha256": "5bbbb21ed732b73df296937a045970f6a31b74523084bced573c6bcba5fbdc97"
+    }
+   ]
+  },
+  {
+   "slug": "legea-108-2000",
+   "path": "lege/2000/108",
+   "short": "Legea nr. 108/2000",
+   "title": "Legea nr. 108/2000 privind aprobarea Ordonanţei Guvernului nr. 43/1999 pentru ratificarea Acordului privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Skopje la 26 septembrie 1998, şi a Protocolului adiţional la Acordul privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Atena la 12 ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23046",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23046",
+     "sha256": "198aa5086cbd6973a09bb7217114e961ba21be0c1f8594beaca420f822eff5fd"
     }
    ]
   },
@@ -85723,6 +85753,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18457",
      "sha256": "15e32e9ee4d107b9442317fd2ee6825abc3bf97faa18c65d64eb3ff44e5db38d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-110-2000",
+   "path": "lege/2000/110",
+   "short": "Legea nr. 110/2000",
+   "title": "Legea nr. 110/2000 privind aprobarea Ordonanţei Guvernului nr. 31/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind colaborarea financiară, semnat la Bucureşti la 17 decembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23050",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23050",
+     "sha256": "adc6056a75616d7622ab27317969480030032dcb4a2e477ba07732ad9d3739c2"
     }
    ]
   },
@@ -250354,6 +250399,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11527",
      "sha256": "24d65cdc67f047443291dad7859f8b2fedb51ab0c7c6d2802627ab70746c8cab"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2000",
+   "path": "oug/2000/84",
+   "short": "OUG nr. 84/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2000 privind garantarea unui plasament interbancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22987",
+   "versions": [
+    {
+     "from": "2000-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22987",
+     "sha256": "33a159f05b8a7dc961d74bb57b24ed1f39e3b20d0fc516bf345179f1c81e9bd6"
     }
    ]
   },
