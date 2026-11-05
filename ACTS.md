@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12596 acts, 24,111 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12612 acts, 24,127 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8468, of which 3206 amending acts)
+## Laws (legi) (8484, of which 3210 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -434,11 +434,27 @@
 | Legea nr. 90/1997 pentru ratificarea Acordului prin care s-a convenit aderarea României la Acordul central european de comerţ liber (C.E.F.T.A.), Cracovia, 21 decembrie 1992, semnat la Bucureşti la 12 aprilie 1997 | [`lege/1997/90/`](lege/1997/90/) | amended, not consolidated | 1 | 1997-05-30 | 1997-05-30 |
 | Legea nr. 91/1997 privind aprobarea Ordonanţei Guvernului nr. 6/1997 pentru aprobarea menţinerii valorii cotei de participare a României la capitalul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare, vărsată în moneda naţionala şi existenta în contul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare la Banca Naţionala a României la data de 30 iunie a fiecărui an precedent | [`lege/1997/91/`](lege/1997/91/) | amended, not consolidated | 1 | 1997-06-04 | 1997-06-04 |
 | Legea nr. 95/1997 privind declararea complexului "Memorialul victimelor comunismului şi al rezistentei Sighet" ca ansamblu de interes naţional | [`lege/1997/95/`](lege/1997/95/) | amended, not consolidated | 1 | 1997-06-12 | 1997-06-12 |
+| Legea nr. 96/1997 pentru aprobarea Ordonanţei Guvernului nr. 27/1996 privind acordarea de facilităţi persoanelor care domiciliază sau lucrează în unele localităţi din Munţii Apuseni şi în Rezervaţia Biosferei "Delta Dunării" | [`lege/1997/96/`](lege/1997/96/) | amending act | 1 | 1997-06-10 | 1997-06-10 |
 | Legea nr. 97/1997 pentru aprobarea Ordonanţei Guvernului nr. 30/1996 privind reglementarea participaţiilor statului la Fondul Monetar Internaţional şi modul de regularizare a influentelor financiare rezultate din tranzacţiile cu Fondul Monetar Internaţional | [`lege/1997/97/`](lege/1997/97/) | amended, not consolidated | 1 | 1997-06-10 | 1997-06-10 |
+| Legea nr. 98/1997 pentru aprobarea Ordonanţei Guvernului nr. 7/1997 privind reglementarea modului de plată a personalului angajat prin convenţii civile pentru încasarea creanţelor bugetare | [`lege/1997/98/`](lege/1997/98/) | amending act | 1 | 1997-06-25 | 1997-06-25 |
+| Legea nr. 99/1997 pentru ratificarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Mozambic, semnat la Bucureşti la 18 septembrie 1996 | [`lege/1997/99/`](lege/1997/99/) | in force | 1 | 1997-06-30 | 1997-06-30 |
+| Legea nr. 100/1997 pentru ratificarea Acordului de cooperare economică, comercială şi tehnică dintre Guvernul României şi Guvernul Statului Qatar, semnat la Bucureşti la 6 iunie 1996 | [`lege/1997/100/`](lege/1997/100/) | in force | 1 | 1997-06-25 | 1997-06-25 |
+| Legea nr. 101/1997 pentru ratificarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Zimbabwe, semnat la Bucureşti la 11 iunie 1996 | [`lege/1997/101/`](lege/1997/101/) | in force | 1 | 1997-06-24 | 1997-06-24 |
+| Legea nr. 102/1997 privind contul general anual de execuţie a bugetului de stat pe anul 1993 | [`lege/1997/102/`](lege/1997/102/) | in force | 1 | 1997-06-30 | 1997-06-30 |
+| Legea nr. 103/1997 privind contul anual de execuţie a bugetului asigurărilor sociale de stat pe anul 1993 | [`lege/1997/103/`](lege/1997/103/) | in force | 1 | 1997-06-25 | 1997-06-25 |
+| Legea nr. 104/1997 pentru modificarea articolului 23 din Legea nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României | [`lege/1997/104/`](lege/1997/104/) | amending act | 1 | 1997-06-26 | 1997-06-26 |
 | Legea nr. 105/1997 pentru soluţionarea obiecţiunilor, contestaţiilor şi a plângerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor | [`lege/1997/105/`](lege/1997/105/) | repealed 2001-02-06 | 2 | 1997-06-30 | 2001-02-06 |
+| Legea nr. 106/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind transporturile rutiere internaţionale de persoane şi de mărfuri, semnat la Bonn la 25 iunie 1996 | [`lege/1997/106/`](lege/1997/106/) | in force | 1 | 1997-06-30 | 1997-06-30 |
+| Legea nr. 107/1997 pentru ratificarea Acordului cu privire la măsurile de întărire a încrederii şi securităţii, suplimentare fata de Documentul O.S.C.E. de la Viena, 1994, şi la dezvoltarea relaţiilor militare dintre Guvernul României şi Guvernul Republicii Ungare, semnat la Arad la 6 septembrie 1996 | [`lege/1997/107/`](lege/1997/107/) | in force | 1 | 1997-06-30 | 1997-06-30 |
 | Legea nr. 108/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/1997 cu privire la unele măsuri de protecţie pentru persoanele ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective prin aplicarea programelor de restructurare, privatizare, lichidare | [`lege/1997/108/`](lege/1997/108/) | amended, not consolidated | 1 | 1997-06-26 | 1997-06-26 |
 | Legea nr. 109/1997 | [`lege/1997/109/`](lege/1997/109/) | repealed 2011-05-13 | 4 | 1997-07-07 | 2011-05-13 |
+| Legea nr. 110/1997 pentru modificarea articolului 6 litera A i) punctul 6 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`lege/1997/110/`](lege/1997/110/) | amending act | 1 | 1997-07-07 | 1997-07-07 |
 | Legea nr. 111/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/1997 pentru modificarea şi completarea articolului 16 din Legea nr. 129/1996 privind transportul pe căile ferate române | [`lege/1997/111/`](lege/1997/111/) | amended, not consolidated | 1 | 1997-07-07 | 1997-07-07 |
+| Legea nr. 112/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Turkmenistanului în domeniul transporturilor internaţionale rutiere de persoane şi de mărfuri, semnat la Bucureşti la 16 noiembrie 1994 | [`lege/1997/112/`](lege/1997/112/) | in force | 1 | 1997-07-07 | 1997-07-07 |
+| Legea nr. 113/1997 pentru ratificarea celui de-al cincilea Protocol adiţional la Constituţia Uniunii Poştale Universale, adoptat la Seul la 14 septembrie 1994 | [`lege/1997/113/`](lege/1997/113/) | in force | 1 | 1997-07-07 | 1997-07-07 |
+| Legea nr. 114/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Coreea privind transportul aerian civil între şi dincolo de teritoriile lor, semnat la Seul la 10 martie 1994 | [`lege/1997/114/`](lege/1997/114/) | in force | 1 | 1997-07-09 | 1997-07-09 |
+| Legea nr. 115/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind serviciile aeriene, semnat la Bucureşti la 12 septembrie 1995 | [`lege/1997/115/`](lege/1997/115/) | in force | 1 | 1997-07-09 | 1997-07-09 |
+| Legea nr. 116/1997 pentru ratificarea Convenţiei europene cu privire la controlul achiziţionării şi deţinerii armelor de foc de către particulari, adoptată la Strasbourg la 28 iunie 1978 | [`lege/1997/116/`](lege/1997/116/) | in force | 1 | 1997-07-08 | 1997-07-08 |
 | Legea nr. 117/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind protecţia reciprocă a schimbului de informaţii militare secrete de stat, semnat la Debretin la 17 februarie 1997 | [`lege/1997/117/`](lege/1997/117/) | amended, not consolidated | 1 | 1997-07-08 | 1997-07-08 |
 | Legea nr. 120/1997 | [`lege/1997/120/`](lege/1997/120/) | repealed 2001-04-01 | 2 | 1997-07-11 | 2001-04-01 |
 | Legea nr. 121/1997 pentru ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Armenia pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital şi a Protocolului-anexa, semnate la Erevan la 25 martie 1996 | [`lege/1997/121/`](lege/1997/121/) | in force | 1 | 1997-07-15 | 1997-07-15 |
@@ -12662,7 +12678,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29516 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29563 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
