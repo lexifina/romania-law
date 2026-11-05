@@ -1,0 +1,17 @@
+# Anexa nr. 12
+Anexa 12 (Anexa nr. 3 la Ordinul președintelui ANRE nr. 71/2015) Prețurile reglementate pentru furnizarea gazelor naturale în regim reglementat realizată de Societatea Comercială GAZ NORD EST - S.A. pentru clienții casnici
+```
+┌────────────────────────────────────────────────────────────┬─────────────┐
+│                 Categoria de clienți                       │   Lei/MWh   │
+├────────────────────────────────────────────────────────────┴─────────────┤
+│B. Clienți conectați în sistemul de distribuție                           │
+├────────────────────────────────────────────────────────────┬─────────────┤
+│B.1. Cu un consum până la 23,25 MWh                         │      92,29  │
+├────────────────────────────────────────────────────────────┼─────────────┤
+│B.2. Cu un consum anual între 23,26 MWh și 116,28 MWh       │      91,51  │
+├────────────────────────────────────────────────────────────┼─────────────┤
+│B.3. Cu un consum anual între 116,29 MWh și 1.162,78 MWh    │      91,12  │
+├────────────────────────────────────────────────────────────┼─────────────┤
+│B.4. Cu un consum anual între 1.162,79 MWh și 11.627,78 MWh │      89,96  │
+└────────────────────────────────────────────────────────────┴─────────────┘
+```
