@@ -1,2 +1,0 @@
-# Anexa 2
-1. Denumire: Certificat de atestare fiscală pentru persoane juridice 2. Cod: 14.13.21.99/a 3. Format: A4/t1 4. Caracteristici de tipărire: file 5. Se difuzează: gratuit 6. Se utilizează la: atestarea obligațiilor de plata la buget ale persoanelor juridice 7. Se întocmește în: 2 exemplare de: organul fiscal în a cărui raza teritorială își are sediul contribuabilul 8. Circula: originalul - la contribuabil copia - la organul fiscal 9. Se arhivează: la dosarul fiscal al contribuabilului.
