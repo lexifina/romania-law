@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Hunedoara nr. 199/2021 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2021 ale unor instituții aflate în subordinea și finanțarea Consiliului Județean Hunedoara
+
+HCJ Hunedoara nr. 199/2021 · 1 versions, from 2021-07-30 (latest in force: 2021-07-30) · <https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-hunedoara-199-2021` (tags `hcj-hunedoara-199-2021/<day>`; `python tools/on.py <day> hcj-hunedoara-199-2021`).
+
+## Decisions made by hand
+
+- HCJ Hunedoara nr. 199/2021: listed from Consiliul Județean Hunedoara (www.cjhunedoara.ro); an individual decision: metadata only.
+- HCJ Hunedoara nr. 199/2021: dated from 30 July 2021, the day it was adopted (the register gives no later day of publication).
+- HCJ Hunedoara nr. 199/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

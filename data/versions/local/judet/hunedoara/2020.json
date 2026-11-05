@@ -3,6 +3,81 @@
  "shard": "local/judet/hunedoara/2020",
  "acts": [
   {
+   "slug": "hcj-hunedoara-1-2020",
+   "path": "local/judet/hunedoara/2020/1",
+   "short": "HCJ Hunedoara nr. 1/2020",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 1/2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/499-hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2020/01%20HOT%20SCAN%2023%20IAN%202020/HCJH%201.pdf",
+     "sha256": "c9dfddda1912fe5db5764bea6191b662d1f721d7321177b65ab4659d6d3ee851"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-10-2020",
+   "path": "local/judet/hunedoara/2020/10",
+   "short": "HCJ Hunedoara nr. 10/2020",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 10/2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/499-hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2020/01%20HOT%20SCAN%2023%20IAN%202020/HCJH%2010.pdf",
+     "sha256": "c89ac3986ad37664f1da8a2fca52064dff0ad7df52e56de02e5904fbef066617"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-100-2020",
+   "path": "local/judet/hunedoara/2020/100",
+   "short": "HCJ Hunedoara nr. 100/2020",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 100/2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/499-hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2020/HOTARARI%20SITE%2012%20IUNIE%202020/HCJH%20100.pdf",
+     "sha256": "e217d7caf75f879f2d8c12242031e10b73d1a60427e100a403495ff22f6053f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-101-2020",
+   "path": "local/judet/hunedoara/2020/101",
+   "short": "HCJ Hunedoara nr. 101/2020",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 101/2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/499-hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2020/HOTARARI%20SITE%2012%20IUNIE%202020/HCJH%20101.pdf",
+     "sha256": "8ccf97fc890451fee1e2a298ad71041aae9e8599993e8cdba2027c0fed97c568"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-102-2020",
+   "path": "local/judet/hunedoara/2020/102",
+   "short": "HCJ Hunedoara nr. 102/2020",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 102/2020 cu privire la proiectul ”Creșterea capacității de gestionare a crizei sanitare COVID – 19 în cadrul Spitalului Județean de Urgență Deva” în cadrul Programului Operațional Infrastructura Mare 2014 – 2020, Axa prioritară 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19, Obiectivul specific 9.1 Creșterea capacității de gestionare a crizei sanitare COVID-19",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/499-hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2020/HOTARARI%20SITE%2012%20IUNIE%202020/HCJH%20102.pdf",
+     "sha256": "df4ed796d9b688c9c8744239bccf81d92f38779bebece854d1d1beefc3894a0d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-16-2020",
    "path": "local/judet/hunedoara/2020/16",
    "short": "HCJ Hunedoara nr. 16/2020",

@@ -3,6 +3,1266 @@
  "shard": "local/judet/hunedoara/2021",
  "acts": [
   {
+   "slug": "hcj-hunedoara-1-2021",
+   "path": "local/judet/hunedoara/2021/1",
+   "short": "HCJ Hunedoara nr. 1/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 1/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20IANUARIE%202021/HCJH%201.pdf",
+     "sha256": "22ae5c4161619ffca3986d0dd84383dbfbba6a9d9f3b04ba542fe55cb55e523c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-10-2021",
+   "path": "local/judet/hunedoara/2021/10",
+   "short": "HCJ Hunedoara nr. 10/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 10/2021 pentru proba scrisă, practică sau clinică pentru ocuparea posturilor vacante de șef secție I Pneumologie – TBC și șef secție II Pneumologie – TBC la Sanatoriul de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2010.pdf",
+     "sha256": "9e0d1f6cfeaeb9666134f1fbc214c72f11861803ade5a0b5272558de5cbc987d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-100-2021",
+   "path": "local/judet/hunedoara/2021/100",
+   "short": "HCJ Hunedoara nr. 100/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 100/2021 privind solicitarea trecerii unor terenuri aferente drumului comunal DC 58A (Ulița Lacurilor) care asigură accesul la cetatea dacică Costești-Cetățuia din domeniul public al Comunei Orăștioara de Sus în domeniul public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20100.pdf",
+     "sha256": "7c28a4340db25e6cf75297df0e10d726d1871150d1b71fed6efcb5dd0412e200"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-101-2021",
+   "path": "local/judet/hunedoara/2021/101",
+   "short": "HCJ Hunedoara nr. 101/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 101/2021 privind modificarea Regulamentului de organizare și funcționare a Parcului Industrial Călan",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20101.pdf",
+     "sha256": "58d109da144810c86dc7787e40fa2de16cc2cf8d44e35d46b298f7581026b895"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-103-2021",
+   "path": "local/judet/hunedoara/2021/103",
+   "short": "HCJ Hunedoara nr. 103/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 103/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social furnizat la domiciliu Serviciul management de caz pentru serviciile de tip familial, asistenți maternali profesioniști",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20103.pdf",
+     "sha256": "451b24653523e2d9f6f65eb4c98b171462860d19ae48be82eba6c02d6f9b0f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-104-2021",
+   "path": "local/judet/hunedoara/2021/104",
+   "short": "HCJ Hunedoara nr. 104/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 104/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social furnizat la domiciliu Serviciul management de caz pentru copilul aflat în plasament familial",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20104.pdf",
+     "sha256": "4214864030d382ad8b122168a6ae6171f0d523fcdc1efe6ac296fbcf11bfceed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-105-2021",
+   "path": "local/judet/hunedoara/2021/105",
+   "short": "HCJ Hunedoara nr. 105/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 105/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare pe perioadă de lungă durată Locuința protejată pentru victimele violenței domestice Simeria",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20105.pdf",
+     "sha256": "d61384133b31e8d13b138e9b8425fd320adfc2fc9cd7ee51668a3382028048ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-106-2021",
+   "path": "local/judet/hunedoara/2021/106",
+   "short": "HCJ Hunedoara nr. 106/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 106/2021 privind aprobarea Regulamentului de organizare și funcționare a Centrului de primire în regim de urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20106.pdf",
+     "sha256": "de6c9e2bb7da067ad0b634caeb3fb7efdc4c39960b0582c5a0b528a4c52c5334"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-107-2021",
+   "path": "local/judet/hunedoara/2021/107",
+   "short": "HCJ Hunedoara nr. 107/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 107/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi Centrul de zi de recuperare pentru adulți Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20107.pdf",
+     "sha256": "86a2a5364da55bddbd6551af87ff5ab32f85023da2add39f3b1f76ee9a10f4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-108-2021",
+   "path": "local/judet/hunedoara/2021/108",
+   "short": "HCJ Hunedoara nr. 108/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 108/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane cu dizabilități Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20108.pdf",
+     "sha256": "e7b112ea9db784f107a4307422454ffd751c370b9e89c640eee7fb0c643b61bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-109-2021",
+   "path": "local/judet/hunedoara/2021/109",
+   "short": "HCJ Hunedoara nr. 109/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 109/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane cu dizabilități nr.2 Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20109.pdf",
+     "sha256": "09cbbf319c847fc0474acb3e857921c43e07ab4c6f1c4e4d48f60a3ad592ed1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-11-2021",
+   "path": "local/judet/hunedoara/2021/11",
+   "short": "HCJ Hunedoara nr. 11/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 11/2021 pentru ocuparea funcției de director medical la Sanatoriul de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2011.pdf",
+     "sha256": "512f8b559a162ab53cf599e5385167db25f267da88652f58a238633e8ba4d11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-110-2021",
+   "path": "local/judet/hunedoara/2021/110",
+   "short": "HCJ Hunedoara nr. 110/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 110/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social – centru de zi Centrul de zi pentru persoane adulte cu dizabilități Simeria",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20110.pdf",
+     "sha256": "7e844bd1df160c1fafdbf210fef470424814c5c11ad7ec79a7399fb6bef85a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-111-2021",
+   "path": "local/judet/hunedoara/2021/111",
+   "short": "HCJ Hunedoara nr. 111/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 111/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități Bretea-Strei",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20111.pdf",
+     "sha256": "4cb928cb672ec6a9ad82b73addbd63db25e15ecc77586f19f3b9f698eb4daaa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-112-2021",
+   "path": "local/judet/hunedoara/2021/112",
+   "short": "HCJ Hunedoara nr. 112/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 112/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități Brănișca",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20112.pdf",
+     "sha256": "20a685f20bc64390164ce5a1b22eafe1bba0fcbf17cfdb05ee857e380f1a05d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-113-2021",
+   "path": "local/judet/hunedoara/2021/113",
+   "short": "HCJ Hunedoara nr. 113/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 113/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20113.pdf",
+     "sha256": "5e9bd06338821316a1809a65f822bc8630282fb08fed7b6ac2daa6bc2e46aee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-114-2021",
+   "path": "local/judet/hunedoara/2021/114",
+   "short": "HCJ Hunedoara nr. 114/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 114/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Locuința maxim protejată pentru persoane adulte cu dizabilități Orăștie",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20114.pdf",
+     "sha256": "7d9e500422558d70174a25de80f8ae5ba47f8256e4daf5ff669a6744473d7893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-115-2021",
+   "path": "local/judet/hunedoara/2021/115",
+   "short": "HCJ Hunedoara nr. 115/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 115/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Locuința maxim protejată pentru persoane adulte cu dizabilități Pricaz nr.55",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20115.pdf",
+     "sha256": "79c282a2fa0748c4428bc7f9c6b77f89f184a5fb56bd8cc3d4d3cd7246f25c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-116-2021",
+   "path": "local/judet/hunedoara/2021/116",
+   "short": "HCJ Hunedoara nr. 116/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 116/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Locuința maxim protejată pentru persoane adulte cu dizabilități Pricaz nr.154",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20116.pdf",
+     "sha256": "910b162ff44d769342ffb65036a5682a646fd323011452acf0fd4bfb9e4d9ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-117-2021",
+   "path": "local/judet/hunedoara/2021/117",
+   "short": "HCJ Hunedoara nr. 117/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 117/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități Uricani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20117.pdf",
+     "sha256": "a178e2cff8aeda89bb5e78627ec91a4cb151acf0c41c7df613275a000e142e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-118-2021",
+   "path": "local/judet/hunedoara/2021/118",
+   "short": "HCJ Hunedoara nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 118/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități Petrila Pavilionul I și Pavilionul II",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20118.pdf",
+     "sha256": "8bc42b88111d5b66bb14502d0d2ab124c2e09c050098546e7f843dff7dbd6bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-119-2021",
+   "path": "local/judet/hunedoara/2021/119",
+   "short": "HCJ Hunedoara nr. 119/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 119/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Cămin pentru persoane vârstnice Pui",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20119.pdf",
+     "sha256": "baeb9def117339f682c44820863f6e693d8c723888e36e90adafa16494ad62d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-12-2021",
+   "path": "local/judet/hunedoara/2021/12",
+   "short": "HCJ Hunedoara nr. 12/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 12/2021 pentru ocuparea funcțiilor de director medical și director financiar-contabil la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2012.pdf",
+     "sha256": "f6d66d25f41e78477df5be6748ec7ff6bb1ad6e5ee9a16f91cec0657ef29508a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-120-2021",
+   "path": "local/judet/hunedoara/2021/120",
+   "short": "HCJ Hunedoara nr. 120/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 120/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități nr.1 Păclișa",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20120.pdf",
+     "sha256": "544aad8d1be1ffd343b26bce677b4c7db8d87a291e7ecf4174985f92074466cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-121-2021",
+   "path": "local/judet/hunedoara/2021/121",
+   "short": "HCJ Hunedoara nr. 121/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 121/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități nr.2 Păclișa",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20121.pdf",
+     "sha256": "91a7538458fc4607cd4b3bb4837c025cc1b60e3a545a1fd31c121215ab90d54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-122-2021",
+   "path": "local/judet/hunedoara/2021/122",
+   "short": "HCJ Hunedoara nr. 122/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 122/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul de îngrijire și asistență pentru persoane adulte cu dizabilități nr.3 Păclișa",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20122.pdf",
+     "sha256": "3a1809780653cd9ebb0ca34362919347dd4f675bfdcf3a31ddf99d04d825ea64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-123-2021",
+   "path": "local/judet/hunedoara/2021/123",
+   "short": "HCJ Hunedoara nr. 123/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 123/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi Centrul de zi de recuperare pentru copii Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20123.pdf",
+     "sha256": "a4d1f1318ebb430ec5705c41e3f88cb3b6c6b61ce5e9feba9cc1f995fd19044b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-124-2021",
+   "path": "local/judet/hunedoara/2021/124",
+   "short": "HCJ Hunedoara nr. 124/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 124/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Apartament familial Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20124.pdf",
+     "sha256": "67b6a04115d519440aa0ced2742c2c0776a7d179123c50f7cdd278a33fc86341"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-125-2021",
+   "path": "local/judet/hunedoara/2021/125",
+   "short": "HCJ Hunedoara nr. 125/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 125/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Apartament familial Vulcanaprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Apartament familial Vulcan",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20125.pdf",
+     "sha256": "592f8f9ffd2daabc3fe02c2da12643755aa1fddc040bb2000379891936e2934d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-126-2021",
+   "path": "local/judet/hunedoara/2021/126",
+   "short": "HCJ Hunedoara nr. 126/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 126/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi Centrul specializat de zi pentru resocializarea copilului predelincvent și delincvent provenit din familii dezorganizate Petroșani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20126.pdf",
+     "sha256": "7e6e30c4254655df6f3d4401f77df619965fe18bb1429b99f7b7d0fdee70b0ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-127-2021",
+   "path": "local/judet/hunedoara/2021/127",
+   "short": "HCJ Hunedoara nr. 127/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 127/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul maternal Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20127.pdf",
+     "sha256": "055c9234b1dacd2444a61030ece3364a1ca541c584a9ae89bcaa6fd56ed43d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-128-2021",
+   "path": "local/judet/hunedoara/2021/128",
+   "short": "HCJ Hunedoara nr. 128/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 128/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul specializat pentru copii cu dizabilități Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20128.pdf",
+     "sha256": "26e34126e0adcc3910144d2aa37134e30012cede51fa63152f9b5026d4798da9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-129-2021",
+   "path": "local/judet/hunedoara/2021/129",
+   "short": "HCJ Hunedoara nr. 129/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 129/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi Centrul de recuperare pentru copii cu dizabilități Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20129.pdf",
+     "sha256": "5174165127ba49c0929343bb44df8cdeef62e308160fc97dac166662ccea4c4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-13-2021",
+   "path": "local/judet/hunedoara/2021/13",
+   "short": "HCJ Hunedoara nr. 13/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 13/2021 pentru anul școlar 2021 – 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2013.pdf",
+     "sha256": "d22b36cbd28d8b92715b8c2ea5bd4e52ad8e248eb95eef25f00851d3f9129a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-130-2021",
+   "path": "local/judet/hunedoara/2021/130",
+   "short": "HCJ Hunedoara nr. 130/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 130/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale pentru copii cu dizabilități Hunedoara Casa familială 1",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20130.pdf",
+     "sha256": "b4895c705546b5bb9b85cb495dc696de1c4380cd9a9caf0c5a85000847157b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-131-2021",
+   "path": "local/judet/hunedoara/2021/131",
+   "short": "HCJ Hunedoara nr. 131/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 131/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale pentru copii cu dizabilități Hunedoara Casa familială 2",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20131.pdf",
+     "sha256": "c3b5055a69f7fd1eef0d60d92a16601a8e19aff2978350d358846b517c3d1f74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-132-2021",
+   "path": "local/judet/hunedoara/2021/132",
+   "short": "HCJ Hunedoara nr. 132/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 132/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale pentru copii cu dizabilități Vulcan Casa familială 1",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20132.pdf",
+     "sha256": "96f1e687af8318efd81f51bce455bb20f0248a2f55d317f63c3f5ea718c0cee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-133-2021",
+   "path": "local/judet/hunedoara/2021/133",
+   "short": "HCJ Hunedoara nr. 133/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 133/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale pentru copii cu dizabilități Vulcan Casa familială 2",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20133.pdf",
+     "sha256": "c663bc0ea91ef50d15b19983cdb0104d8a1bb430de218e1e677d301301a91603"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-134-2021",
+   "path": "local/judet/hunedoara/2021/134",
+   "short": "HCJ Hunedoara nr. 134/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 134/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale Orăștie Casa familială 1",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20134.pdf",
+     "sha256": "f0d8c34637f8563cf79437260be20ea3e26141c09d3e94afac0e021c8e2f5b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-135-2021",
+   "path": "local/judet/hunedoara/2021/135",
+   "short": "HCJ Hunedoara nr. 135/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 135/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale Orăștie Casa familială 2",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20135.pdf",
+     "sha256": "b45a088e00bfadb01e51c18bb2482d5dd3b5987fdbbfdc0b2d03c28a8be2a5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-136-2021",
+   "path": "local/judet/hunedoara/2021/136",
+   "short": "HCJ Hunedoara nr. 136/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 136/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Rețea de case familiale Orăștie Casa familială 3",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20136.pdf",
+     "sha256": "0a09fcd1631164014fb55c947fbf9f9ef2e843f5aad473dd583fc3440ecea8b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-137-2021",
+   "path": "local/judet/hunedoara/2021/137",
+   "short": "HCJ Hunedoara nr. 137/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 137/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul respiro pentru persoane adulte cu dizabilități Petroșani Erată",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20137.pdf",
+     "sha256": "4fd6b6b3c26bac7a7511dc4ce160aba52ce30e1492913bffb1ea6f14a39c3049"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-138-2021",
+   "path": "local/judet/hunedoara/2021/138",
+   "short": "HCJ Hunedoara nr. 138/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 138/2021 privind aprobarea Actului adițional nr.2 la Acordul de parteneriat dintre U.A.T",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20138.PDF",
+     "sha256": "2cff4b3a352bfeca2f8822f193f1a6257b376a364c15ee30e07b913b6fc1c0d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-139-2021",
+   "path": "local/judet/hunedoara/2021/139",
+   "short": "HCJ Hunedoara nr. 139/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 139/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20139.pdf",
+     "sha256": "690dc05d0d232886c5550ded2386d5280a7272a787ca0e7b78290ad3283615e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-14-2021",
+   "path": "local/judet/hunedoara/2021/14",
+   "short": "HCJ Hunedoara nr. 14/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 14/2021 pentru anul şcolar 2020 – 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2014.pdf",
+     "sha256": "6980ab244cc5ed097e7af4e829955cb41cefa9ea34a16b048b3204f7f070bf52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-140-2021",
+   "path": "local/judet/hunedoara/2021/140",
+   "short": "HCJ Hunedoara nr. 140/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 140/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20140.PDF",
+     "sha256": "539344611189d43137f31817eef389478c9f36d1282bd6d9f10efce708514497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-141-2021",
+   "path": "local/judet/hunedoara/2021/141",
+   "short": "HCJ Hunedoara nr. 141/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 141/2021 privind aprobarea rectificării bugetului propriu al Județului Hunedoara pe anul 2021 precum și modificarea programului de investiții anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20141.pdf",
+     "sha256": "b60678c48102109ae896c56ffda94f3b9dd4d0f2225b808f5c368e81f9b93896"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-142-2021",
+   "path": "local/judet/hunedoara/2021/142",
+   "short": "HCJ Hunedoara nr. 142/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 142/2021 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2020 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20142.pdf",
+     "sha256": "55dde1c7dc6f1572d38128d63579f5c2ad3bef453a0cdb8e287c8dec701508f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-143-2021",
+   "path": "local/judet/hunedoara/2021/143",
+   "short": "HCJ Hunedoara nr. 143/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 143/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Deva pe anul 2021, modificarea programului de investiții anexă la buget precum și virările de credite bugetare în cadrul aceluiași capitol al bugetului",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20143.pdf",
+     "sha256": "2d97e6cd3a5a20953a9c8927756b5bddff94bbc84749c83b90223c2a753c1252"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-144-2021",
+   "path": "local/judet/hunedoara/2021/144",
+   "short": "HCJ Hunedoara nr. 144/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 144/2021 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiții ”Execuție construcție ușoară pentru Unitatea de primiri urgențe la Spitalul Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20144.pdf",
+     "sha256": "65950b31dbe5de3750eec90e946bfd3fe0def0fbaec448bdc6134b018b2aba31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-145-2021",
+   "path": "local/judet/hunedoara/2021/145",
+   "short": "HCJ Hunedoara nr. 145/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 145/2021 privind solicitarea trecerii unui teren din domeniul public al Municipiului Deva în domeniul public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20145.pdf",
+     "sha256": "c8543a64a5e86b35f2b657fcd59c19019b4cbf7358ed334e80af8c779867e92d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-146-2021",
+   "path": "local/judet/hunedoara/2021/146",
+   "short": "HCJ Hunedoara nr. 146/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 146/2021 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20146.pdf",
+     "sha256": "4b411466160d6ab376fe7183ccc93eb4accff90ac60c63216957928d37067d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-147-2021",
+   "path": "local/judet/hunedoara/2021/147",
+   "short": "HCJ Hunedoara nr. 147/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 147/2021 privind aprobarea organigramei, a statului de funcții și a regulamentului de organizare și funcționare ale Direcției Generale de Administrare Monumente și Promovare Turistică a Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%20147.pdf",
+     "sha256": "80019dd347fd11320f0c206c55911abc9e934ae605e1cba05a1bed4583c75900"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-148-2021",
+   "path": "local/judet/hunedoara/2021/148",
+   "short": "HCJ Hunedoara nr. 148/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 148/2021 privind aprobarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20148%20ref.pdf",
+     "sha256": "ac96f238013a57e51b2ff5f7439cc8cf4c8abd95d531f848c01efaae36cb1e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-149-2021",
+   "path": "local/judet/hunedoara/2021/149",
+   "short": "HCJ Hunedoara nr. 149/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 149/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții: ”Reabilitare Drumuri Județene pentru dezvoltarea infrastructurii turistice și promovarea patrimoniului economic și cultural al județului Hunedoara” – DJ 685: Carnesti (DN 68) – Ostrov – Clopotiva – Gura Zlata – Baraj Retezat – Cabana Rotunda, km. 0+000 – km. 32+873",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20149.pdf",
+     "sha256": "40e2f980d6b592565acd24aa9e1579097c4ffb4ee9538859257a938717ba457a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-150-2021",
+   "path": "local/judet/hunedoara/2021/150",
+   "short": "HCJ Hunedoara nr. 150/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 150/2021 privind aprobarea Raportului de evaluare și a valorii de piață în vederea cumpărării de către Județul Hunedoara a imobilelor care formează ”Ansamblul istoric Mina Petrila” aflată în proprietatea Societății Naționale de Închideri de Mine Valea Jiului S.A",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20150.pdf",
+     "sha256": "7175dcf5292967f45dd463363b2773aad8bb93fe06b5029137521ed45fa14fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-152-2021",
+   "path": "local/judet/hunedoara/2021/152",
+   "short": "HCJ Hunedoara nr. 152/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 152/2021 privind aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Lucrări de reparații în regim de urgență la DJ668: culei, aripi avariate și poduri calamitate la km 37+400 și km 28+900”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20152.pdf",
+     "sha256": "5b318a27106e3a7ca13993f6d402484e4f2801f209b6c5056f6637ad74fb97f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-153-2021",
+   "path": "local/judet/hunedoara/2021/153",
+   "short": "HCJ Hunedoara nr. 153/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 153/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții „Lucrări de reparații în regim de urgență la DJ 668A la km 12+700 – km 20+500 și km 33+200 – km 33+250”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20153.pdf",
+     "sha256": "37fb2c855c4a4de9729729cbf006123b6f15231d50da0f1e9c76dc30c251b399"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-154-2021",
+   "path": "local/judet/hunedoara/2021/154",
+   "short": "HCJ Hunedoara nr. 154/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 154/2021 privind modificarea Hotărârii Consiliului Județean Hunedoara nr. 59/2021 privind aprobarea asocierii UAT- Judeţul Hunedoara prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20154.pdf",
+     "sha256": "52e79d9ea06717d1b68674918857542eaf07fb8cd3e6389718169e84df3017f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-155-2021",
+   "path": "local/judet/hunedoara/2021/155",
+   "short": "HCJ Hunedoara nr. 155/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 155/2021 privind modificarea și completarea Hotărârii nr. 63 din 31 martie 2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 80.000.000 lei",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%207%20IUNIE%202021%20PREFECTURA/HCJH%20155.pdf",
+     "sha256": "ae677a802a1529ba7853c3727cc24e75883bdfdcdafc87f9ce5ad84b3292357d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-156-2021",
+   "path": "local/judet/hunedoara/2021/156",
+   "short": "HCJ Hunedoara nr. 156/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 156/2021 privind aprobarea devizului general actualizat, a indicatorilor tehnico-economici actualizați precum și a cheltuielilor eligibile și neeligibile aferente proiectului tehnic – revizia 1 pentru Proiectul ”Modernizare și dotare laborator radiologie și imagistică medicală, laborator de medicină nucleară, extindere pentru cabinet pediatrie în cadrul Ambulatoriului Integrat al Spitalului Județean de Urg",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%2022%20iunie%202021/H%20156.pdf",
+     "sha256": "9345efbb6adb95f5f634307d9b405bd573a94a7ab51cf30cd52ee64db4ac2d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-166-2021",
+   "path": "local/judet/hunedoara/2021/166",
+   "short": "HCJ Hunedoara nr. 166/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 166/2021 privind aprobarea inventarului bunurilor care aparțin domeniului privat al județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hot%20157-178%2028%20iunie/H%20166_Redacted.pdf",
+     "sha256": "b196ec93e4fc4b68df93692492a7f1fafb96063075b957f83b7f48afa0128851"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-17-2021",
+   "path": "local/judet/hunedoara/2021/17",
+   "short": "HCJ Hunedoara nr. 17/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 17/2021 pentru anul şcolar 2020 – 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2017.pdf",
+     "sha256": "f30ae97aca02f82865fa6e04dc88405c0bcf98dc0bc8a97f53e9ef25cc166cda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-179-2021",
+   "path": "local/judet/hunedoara/2021/179",
+   "short": "HCJ Hunedoara nr. 179/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 179/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20179_Redacted.pdf",
+     "sha256": "8d3a8c317ce064cf99d9c72668bbe06863981eb6553b45b26ef67e428689a597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-18-2021",
+   "path": "local/judet/hunedoara/2021/18",
+   "short": "HCJ Hunedoara nr. 18/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 18/2021 pentru anul şcolar 2020 – 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2018.pdf",
+     "sha256": "e26cdeac66cf51ddfe8251e91716ea77cd0e27f22f0cf0ef5ae2501b0df5ca7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-180-2021",
+   "path": "local/judet/hunedoara/2021/180",
+   "short": "HCJ Hunedoara nr. 180/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 180/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20180_Redacted.pdf",
+     "sha256": "6f0ccc40b4d90c27ef720b4754e42abe470eb13f8503c8b2647d271d58423b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-181-2021",
+   "path": "local/judet/hunedoara/2021/181",
+   "short": "HCJ Hunedoara nr. 181/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 181/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20181_Redacted.pdf",
+     "sha256": "76ac64d92e4621f63f151eacbff0254d9cbca21a0c7d5ce84c7c8cc5a55f03fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-183-2021",
+   "path": "local/judet/hunedoara/2021/183",
+   "short": "HCJ Hunedoara nr. 183/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 183/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20183_Redacted.pdf",
+     "sha256": "95c73cdf4e197ff3720c6cee5a58ce61ef36fbb0157a3b8b97a325ffd0b318bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-185-2021",
+   "path": "local/judet/hunedoara/2021/185",
+   "short": "HCJ Hunedoara nr. 185/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 185/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20185_Redacted.pdf",
+     "sha256": "8abeb43ede417e70c11192815b5cc381ffda8343db93495a692eb6f9a905f66b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-186-2021",
+   "path": "local/judet/hunedoara/2021/186",
+   "short": "HCJ Hunedoara nr. 186/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 186/2021 pentru obiectivul de investiții: „Reparația și modernizarea sediului Direcției Generale de Asistență Socială și Protecția Copilului Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%201%20IULIE%202021%20IP/HCJH%20186_Redacted.pdf",
+     "sha256": "ec38f15dd46408facbd46f72bc1b34a093d968d723530776f583a749bf7f1652"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-19-2021",
+   "path": "local/judet/hunedoara/2021/19",
+   "short": "HCJ Hunedoara nr. 19/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 19/2021 pentru anul şcolar 2020 – 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2019.pdf",
+     "sha256": "64a61804e9be0531d5ee19922d7939fe65b4ed750f510c6afb2f1597b62cc4fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-193-2021",
+   "path": "local/judet/hunedoara/2021/193",
+   "short": "HCJ Hunedoara nr. 193/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 193/2021 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.19/2019 privind stabilirea salariilor de bază pentru funcțiile din familia ocupațională ”Administrație” din cadrul aparatului de specialitate al Consiliului Județean Hunedoara, cu modificările și completările ulterioare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20193_Redacted.pdf",
+     "sha256": "b96d3d12fcbbfe899bb2998848e197e85f52791402e7c683c26b559dfb44c8c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-194-2021",
+   "path": "local/judet/hunedoara/2021/194",
+   "short": "HCJ Hunedoara nr. 194/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 194/2021 privind analiza și aprobarea execuției bugetului împrumuturilor interne ale Consiliului Județean Hunedoara pentru trimestrul II 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20194_Redacted.pdf",
+     "sha256": "9fce3c8baa79c7c1237193ccf843c1d9fc37aab7f2b60c01bd3542de8784caac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-195-2021",
+   "path": "local/judet/hunedoara/2021/195",
+   "short": "HCJ Hunedoara nr. 195/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 195/2021 privind analiza și aprobarea execuției bugetelor aflate în autoritatea Consiliului Județean Hunedoara întocmite pe secțiunea de funcționare și dezvoltare pentru trimestrul II 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20195_Redacted.pdf",
+     "sha256": "7c9d52f7e32801e54bd33095edae1459e5ab2b5a5c479ea91310f8759afb90c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-196-2021",
+   "path": "local/judet/hunedoara/2021/196",
+   "short": "HCJ Hunedoara nr. 196/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 196/2021 privind aprobarea devizului general revizuit pentru obiectivul de investiții ”Lucrări în regim de urgență la clădirea Palatului Administrativ din Municipiul Deva, str.1 Decembrie 1918, nr.28, jud. Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20196_Redacted.pdf",
+     "sha256": "70c5a12260820d04fa5728168c469f75ffe72d40c0e0c60e1020cf288fc61d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-197-2021",
+   "path": "local/judet/hunedoara/2021/197",
+   "short": "HCJ Hunedoara nr. 197/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 197/2021 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.180/2017 privind aprobarea înființării și a componenței, precum și a Regulamentului de organizare și funcționare ale Comisiei pentru protecția copilului Hunedoara, cu modificările ulterioare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20197_Redacted.pdf",
+     "sha256": "5b11d83822adcc77cdd89d9bd39fc78333cf08d1cc5d08524ef5059f18f88258"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-198-2021",
+   "path": "local/judet/hunedoara/2021/198",
+   "short": "HCJ Hunedoara nr. 198/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 198/2021 privind aprobarea rectificării bugetului propriu al județului Hunedoara pe anul 2021, virările de credite bugetare în cadrul bugetului propriu al Județului Hunedoara precum și modificarea programului de investiții, anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20198_Redacted.pdf",
+     "sha256": "0088d7a5938de34db90162e0ed44ede1660c114060ff03770735b18ed05cbaf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-199-2021",
+   "path": "local/judet/hunedoara/2021/199",
+   "short": "HCJ Hunedoara nr. 199/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 199/2021 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2021 ale unor instituții aflate în subordinea și finanțarea Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20199_Redacted.pdf",
+     "sha256": "f6ce5b2785e2a17067d41d9e86c9d60c1c4e1e7fd013d078794c8019bb6e465c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-2-2021",
+   "path": "local/judet/hunedoara/2021/2",
+   "short": "HCJ Hunedoara nr. 2/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 2/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20IANUARIE%202021/HCJH%202.pdf",
+     "sha256": "d05ccd0d8aee303a1a411415443c22bf80a5e578ba11a3d24b792d8ead827fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-20-2021",
+   "path": "local/judet/hunedoara/2021/20",
+   "short": "HCJ Hunedoara nr. 20/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 20/2021 pentru anul şcolar 2020-2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2020.pdf",
+     "sha256": "88fbc7ac0f636d42ef5453f245c3fcdf1a0a3cb1c80e0fcd4c02b1ff7bb68b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-200-2021",
+   "path": "local/judet/hunedoara/2021/200",
+   "short": "HCJ Hunedoara nr. 200/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 200/2021 privind utilizarea excedentului anual al bugetului propriu al judeţului Hunedoara rezultat la închiderea exerciţiului bugetar al anului 2020, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare prevăzute în bugetul propriu al judeţului Hunedoara pe anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20200_Redacted.pdf",
+     "sha256": "8fd0df33ebcd70ded9e4db1851f06b883445de2b588d397cd3dd1b6d0ed2d73f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-201-2021",
+   "path": "local/judet/hunedoara/2021/201",
+   "short": "HCJ Hunedoara nr. 201/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 201/2021 privind aprobarea proiectului ,,Sprijin pentru pregătirea aplicației de finanțare și a documentațiilor de atribuire pentru completarea și dezvoltarea Sistemului de management integrat al deșeurilor în județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20201_Redacted.pdf",
+     "sha256": "45c37e0c81a45b0699270a3c78900e7f37491aecdfa2097df2834f6d52de09ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-202-2021",
+   "path": "local/judet/hunedoara/2021/202",
+   "short": "HCJ Hunedoara nr. 202/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 202/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20202_Redacted.pdf",
+     "sha256": "4491b87959231c526073f88fc00020497e2c830ac8c0605f8797edd25de8f7e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-204-2021",
+   "path": "local/judet/hunedoara/2021/204",
+   "short": "HCJ Hunedoara nr. 204/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 204/2021 privind modificarea Hotărârii Consiliului Județean nr.150/2020 privind aprobarea demarării procedurilor de reziliere a Contractelor de delegare a gestiunii serviciului de salubrizare în Zonele de colectare 1 Brad, 2 Hațeg și 3 Centru Județul Hunedoara, aferente Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20204_Redacted.pdf",
+     "sha256": "d350dbd3fcda4f6222b00dadeb94c0e9f082e803bf613d6dcf927565c171b235"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-205-2021",
    "path": "local/judet/hunedoara/2021/205",
    "short": "HCJ Hunedoara nr. 205/2021",
@@ -14,6 +1274,681 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2021/documente%20raport/HCJ%20205-%20Parc%20Calan.pdf",
      "sha256": "ec0c8025281e8565de1f40ebac7494ac137e2866e7869f639cad54aa4d5c7fb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-206-2021",
+   "path": "local/judet/hunedoara/2021/206",
+   "short": "HCJ Hunedoara nr. 206/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 206/2021 privind insușirea unor terenuri în domeniul public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20206_Redacted.pdf",
+     "sha256": "c477218e5ecd4dd2924e59d8e1bea28e1e7f1abe166a2112b8bbc8a16d5144b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-207-2021",
+   "path": "local/judet/hunedoara/2021/207",
+   "short": "HCJ Hunedoara nr. 207/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 207/2021 privind atestarea inventarului bunurilor care aparțin domeniului public al județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20207_Redacted.pdf",
+     "sha256": "46ce15113b6ac5c5c4570a35178024346aa7276377ad05153128c988f068786b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-208-2021",
+   "path": "local/judet/hunedoara/2021/208",
+   "short": "HCJ Hunedoara nr. 208/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 208/2021 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.166/2021 privind aprobarea inventarului bunurilor care aparțin domeniului privat al județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20208_Redacted.pdf",
+     "sha256": "6aef530d87949b2b95054e257f4f13068e1ab2557b653b340957c8c909c9b11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-209-2021",
+   "path": "local/judet/hunedoara/2021/209",
+   "short": "HCJ Hunedoara nr. 209/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 209/2021 privind aprobarea denunțării unilaterale a acordului de parteneriat între",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20209_Redacted.pdf",
+     "sha256": "b26f9e156085ecfb0937093915dbe6fefda40542d4ed535d6748151e3c43b93d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-21-2021",
+   "path": "local/judet/hunedoara/2021/21",
+   "short": "HCJ Hunedoara nr. 21/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 21/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2021_Redacted22.pdf",
+     "sha256": "17d6db39a651c31048704045efdaa8066e4e5cbea111adaaeece7eb69e3747ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-210-2021",
+   "path": "local/judet/hunedoara/2021/210",
+   "short": "HCJ Hunedoara nr. 210/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 210/2021 privind stabilirea modului de administrare a unor spații imobiliare aparținând domeniului public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2030%20IULIE%202021%20PREFECTURA/HCJH%20210_Redacted.pdf",
+     "sha256": "88d18284ff4b94ab0763928afa87b7f35e01d8eabd363395a29b53655f1fd47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-22-2021",
+   "path": "local/judet/hunedoara/2021/22",
+   "short": "HCJ Hunedoara nr. 22/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 22/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2022.pdf",
+     "sha256": "99452cba1ed80e3d896d7b108c76051a018653529ea4bf987d2c11b3adf57683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-228-2021",
+   "path": "local/judet/hunedoara/2021/228",
+   "short": "HCJ Hunedoara nr. 228/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 228/2021 privind aprobarea proiectului ,,Sprijin pentru pregătirea aplicației de finanțare și a documentațiilor de atribuire pentru completarea și dezvoltarea Sistemului de management integrat al deșeurilor în județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20SEPT%202021%20PREFECTURA/HOTARAREA%20228_Redacted.pdf",
+     "sha256": "6b89d5716423c7d86e3b4264efe7949778a3e44e26033f0f3e700d2798c31b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-229-2021",
+   "path": "local/judet/hunedoara/2021/229",
+   "short": "HCJ Hunedoara nr. 229/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 229/2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 80.000.000 lei, modificată și completată prin Hotărârea Consiliului Județean Hunedoara nr.155 din 7 iunie 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20SEPT%202021%20PREFECTURA/HOTARAREA%20229.pdf",
+     "sha256": "215b8228473be42cca52c0c691e3d9db3edbc7c9cdfaed1feb7777d5677f4cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-23-2021",
+   "path": "local/judet/hunedoara/2021/23",
+   "short": "HCJ Hunedoara nr. 23/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 23/2021 pentru Probleme Speciale Județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2023.pdf",
+     "sha256": "0231e19a0278e6da31cf431448e26ec7793f8c5494b549d61589dbbc048fc95d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-230-2021",
+   "path": "local/judet/hunedoara/2021/230",
+   "short": "HCJ Hunedoara nr. 230/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 230/2021 privind desemnarea reprezentantului Consiliului Judeţean Hunedoara în Consiliul de Administraţie al Centrului Judeţean de Resurse şi Asistenţă Educaţională Hunedoara pentru anul şcolar 2021 – 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20230_Redacted.pdf",
+     "sha256": "824ab880295ef699d8fb674724e2f27bce8e4a7dfd9712513c6022842d891e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-231-2021",
+   "path": "local/judet/hunedoara/2021/231",
+   "short": "HCJ Hunedoara nr. 231/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 231/2021 privind desemnarea reprezentanților Consiliului Judeţean Hunedoara în Consiliul de administrație al Centrului Școlar pentru Educație Incluzivă ”Rudolf Steiner” Hunedoara pentru anul şcolar 2021 – 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20231_Redacted.pdf",
+     "sha256": "7a1c82e4d56392d880a3c57233486be41e01024b161fa932250c201674715594"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-232-2021",
+   "path": "local/judet/hunedoara/2021/232",
+   "short": "HCJ Hunedoara nr. 232/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 232/2021 privind desemnarea reprezentantului Consiliului Judeţean Hunedoara în Consiliul de Administraţie al Liceului Tehnologic Energetic ”Dragomir Hurmuzescu” Deva pentru anul şcolar 2021 – 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20232_Redacted.pdf",
+     "sha256": "d868bf5a0a621984e00e3dcd8dd885d29c6cc6985050b13f0977840b49ec1819"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-233-2021",
+   "path": "local/judet/hunedoara/2021/233",
+   "short": "HCJ Hunedoara nr. 233/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 233/2021 privind desemnarea reprezentantului Consiliului Judeţean Hunedoara în Consiliul de Administraţie al Scolii Gimnaziale ”I.G.Duca” Petroșani pentru anul şcolar 2021-2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20233_Redacted.pdf",
+     "sha256": "062d6b434b066d17c4cca2c146a5bbd1b9404c5bef5f4ebd82e78a58c27a3b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-234-2021",
+   "path": "local/judet/hunedoara/2021/234",
+   "short": "HCJ Hunedoara nr. 234/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 234/2021 privind desemnarea reprezentantului Consiliului Judeţean Hunedoara în Consiliul de Administraţie al Liceului Tehnologic ”Dimitrie Leonida” Petroșani pentru anul şcolar 2021-2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20234_Redacted.pdf",
+     "sha256": "be9ea2bee1b04b3a86d10138cd59a61ab002730aac456584869871717346310e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-235-2021",
+   "path": "local/judet/hunedoara/2021/235",
+   "short": "HCJ Hunedoara nr. 235/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 235/2021 privind desemnarea reprezentanților Consiliului Județean Hunedoara în comisia de concurs/examen și în comisia de soluționare a contestațiilor pentru ocuparea funcției de director financiar-contabil la Spitalul Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20235_Redacted.pdf",
+     "sha256": "d6b348d0d6e6b22b1c43c8be41fa8bddc1f8c98d1ee2dcff66ee51ea671a1f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-236-2021",
+   "path": "local/judet/hunedoara/2021/236",
+   "short": "HCJ Hunedoara nr. 236/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 236/2021 privind aprobarea asocierii Județului Hunedoara, prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20SEP%202021%20PREFECTURA/HCJH%20236_Redacted.pdf",
+     "sha256": "afe4ac8ffc3fc4a3bf664a5768f474d77051615d9c80a039a92d293ee2bfe23d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-24-2021",
+   "path": "local/judet/hunedoara/2021/24",
+   "short": "HCJ Hunedoara nr. 24/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 24/2021 pentru obiectivul de investiții: ”Inchiderea depozitului neconform de deșeuri menajere Uricani din județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2024.pdf",
+     "sha256": "60af2da6dc9f2ee6171a782389451e71ed28478df8a9afdd0de5714b73049cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-25-2021",
+   "path": "local/judet/hunedoara/2021/25",
+   "short": "HCJ Hunedoara nr. 25/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 25/2021 pentru închiderea ecologică a depozitului neconform de deșeuri din Municipiul Vulcan",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2025.pdf",
+     "sha256": "964baa000f3f7e3fd41b9fe87f0c40a98ea184597e41a47862585343c2624a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-26-2021",
+   "path": "local/judet/hunedoara/2021/26",
+   "short": "HCJ Hunedoara nr. 26/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 26/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2026.pdf",
+     "sha256": "9579a735a0aea5a03d92ac6b9050e8d6dde3045371516c7a053cd062e2e20d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-27-2021",
+   "path": "local/judet/hunedoara/2021/27",
+   "short": "HCJ Hunedoara nr. 27/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 27/2021 pentru obiectivul de investiții: ”Montare puțuri și conducte de gaz aferente instalației de colectare a gazului de depozit din celula nr.1 a depozitului de deșeuri din Centrul de management integrat al deșeurilor Bârcea Mare”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2027.PDF",
+     "sha256": "674d90d66a8cdd50c13720e93e21c73804523e8dc19fe75f0e49a9344843f892"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-28-2021",
+   "path": "local/judet/hunedoara/2021/28",
+   "short": "HCJ Hunedoara nr. 28/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 28/2021 pentru modificarea Hotărârii Consiliului Județean Hunedoara nr.28/2021 privind trecerea unor imobile din domeniul public al Județului Hunedoara în domeniul public al Comunei Totești; doc",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2028.PDF",
+     "sha256": "090babcbde6ec4fe188f977fdd368e9e045de412a6ba22d7168ca840ef80cc35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-29-2021",
+   "path": "local/judet/hunedoara/2021/29",
+   "short": "HCJ Hunedoara nr. 29/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 29/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2029.PDF",
+     "sha256": "740ad61370ac926dcdd84a43e82e5085e2bb0cac0dcf155a2a150a0a26f6e7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-3-2021",
+   "path": "local/judet/hunedoara/2021/3",
+   "short": "HCJ Hunedoara nr. 3/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 3/2021 pentru Dezvoltare Regională a Regiunii Vest și Unitatea administrativ-teritorială Județul Hunedoara pentru realizarea Proiectului „Sprijin la nivelul Regiunii de Dezvoltare Vest pentru pregătirea de proiecte finanțate din perioada de programare 2021-2027 pe domeniile mobilitate urbană, regenerare urbană, centre de agrement/baze turistice (tabere școlare), infrastructură și servicii publice de turi",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20IANUARIE%202021/HCJH%203.pdf",
+     "sha256": "060be535194c9f27828d420d4de7bcc2702f6d5b629262c5234ac8b1eaa655b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-30-2021",
+   "path": "local/judet/hunedoara/2021/30",
+   "short": "HCJ Hunedoara nr. 30/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 30/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2030.PDF",
+     "sha256": "a2dc71a28fbe1bb533e9b1e04616c1d58c8bf3a1152b2f27b52709c73173a02f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-301-2021",
+   "path": "local/judet/hunedoara/2021/301",
+   "short": "HCJ Hunedoara nr. 301/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 301/2021 privind aprobarea acordării burselor de ajutor social/burse medicale elevilor care frecventează cursurile instituțiilor de învățământ special finanțate de",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%2029%20oct/HCJH%20301_Redacted.pdf",
+     "sha256": "ff5f9cee7cc533b9d5525310a78fe72a748e6222f391b5c36fb8a31529338314"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-302-2021",
+   "path": "local/judet/hunedoara/2021/302",
+   "short": "HCJ Hunedoara nr. 302/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 302/2021 privind desemnarea reprezentanților Consiliului Județean Hunedoara în comisia de concurs/examen și în comisia de soluționare a contestațiilor pentru ocuparea funcției de director financiar-contabil la Sanatoriul de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20NOIEMBRIE%202021/HCJH%20302_Redacted.pdf",
+     "sha256": "7f5f370c6ae24b96e9648302587ef3ded685719a1ce3903194f2f1d44cf39027"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-303-2021",
+   "path": "local/judet/hunedoara/2021/303",
+   "short": "HCJ Hunedoara nr. 303/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 303/2021 privind desemnarea unui reprezentant al asiguraților delegat de",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20NOIEMBRIE%202021/HCJH%20303_Redacted.pdf",
+     "sha256": "4b8c6f06f1e63ff7c68da8042b15d70ab45634f2f65a5bd96d97f0fb0e1ea0ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-304-2021",
+   "path": "local/judet/hunedoara/2021/304",
+   "short": "HCJ Hunedoara nr. 304/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 304/2021 privind desemnarea reprezentantului Consiliului Județean Hunedoara în comisia de evaluare a probei de interviu a concursului pentru ocuparea funcțiilor de director și director adjunct al Centrului de Pedagogie Curativă Simeria",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20NOIEMBRIE%202021/HCJH%20304_Redacted.pdf",
+     "sha256": "08e46b63416d94152bbc99505fc3359a8cb63cfd125bdfcd00e241efda932aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-305-2021",
+   "path": "local/judet/hunedoara/2021/305",
+   "short": "HCJ Hunedoara nr. 305/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 305/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții „Lucrări de reparații în regim de urgență la DJ 680 B: Pod calamitat la km 0+950, Corp de drum distrus la km 5+000 – km7+300”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20NOIEMBRIE%202021/HCJH%20305_Redacted.pdf",
+     "sha256": "37a27c8460c95fc8f2dd96b1b7a84ee4b6365a521c9dcb051833a75fc0602b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-306-2021",
+   "path": "local/judet/hunedoara/2021/306",
+   "short": "HCJ Hunedoara nr. 306/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 306/2021 privind organizarea unei comisii speciale de analiză și verificare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%209%20NOIEMBRIE%202021/HCJH%20306_Redacted.pdf",
+     "sha256": "dd2879fa15949f1ce6222da08338af1ef81924f25b5c032992f46801e7461cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-31-2021",
+   "path": "local/judet/hunedoara/2021/31",
+   "short": "HCJ Hunedoara nr. 31/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 31/2021 pentru funcționare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%2031.PDF",
+     "sha256": "0d2e86bf3bf3d15791bb04a798bd6cb6c78cf59d5c317b68a254dab673ad8b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-314-2021",
+   "path": "local/judet/hunedoara/2021/314",
+   "short": "HCJ Hunedoara nr. 314/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 314/2021 privind aprobarea organigramei și a statului de funcții ale Sanatoriului de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20314_Redacted.pdf",
+     "sha256": "e79ebe8c1f10e23fe2599985b13fd9a6c890b78b09bb9c3048ce5c5ab661e9aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-315-2021",
+   "path": "local/judet/hunedoara/2021/315",
+   "short": "HCJ Hunedoara nr. 315/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 315/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții ”Modernizare DJ 741: Crișcior – Bucureșci – Almașu Mic de Munte, km 12+450 – km 18+050”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20315_Redacted.pdf",
+     "sha256": "4db26218629343d56f197545ebb222eaf9944838ce2236d9a9f370868f0cc603"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-316-2021",
+   "path": "local/judet/hunedoara/2021/316",
+   "short": "HCJ Hunedoara nr. 316/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 316/2021 privind aprobarea unui acord de parteneriat pentru utilizarea și punerea în valoare a Galeriei Naționale de Artă ”FORMA” din Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20316_Redacted.pdf",
+     "sha256": "07d3c804aa1c637b5cecb97b1aaccfc09bc6820b8761f019e79c43cf9da17d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-317-2021",
+   "path": "local/judet/hunedoara/2021/317",
+   "short": "HCJ Hunedoara nr. 317/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 317/2021 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiții: „Montare ascensor de persoane la Secția de boli infecțioase a Spitalului Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20317_Redacted.pdf",
+     "sha256": "22de114b08cd19c915ccfb06d98d8b91e5a4935f9c7e3dbf12231e13383f05f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-318-2021",
+   "path": "local/judet/hunedoara/2021/318",
+   "short": "HCJ Hunedoara nr. 318/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 318/2021 privind stabilirea preţurilor medii ale principalelor produse agricole pentru anul 2022 și a prețului mediu la masa verde de pe pajiști pentru anul 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20318_Redacted.pdf",
+     "sha256": "26eb14657e81e118e2ab13c8201c0780e664fe3173c0700d1afe8e2875c928bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-319-2021",
+   "path": "local/judet/hunedoara/2021/319",
+   "short": "HCJ Hunedoara nr. 319/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 319/2021 privind aprobarea rectificării bugetului propriu al Județului Hunedoara pe anul 2021, virările de credite bugetare în cadrul bugetului propriu al Județului Hunedoara, precum și suplimentarea programului de investiții, anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20319_Redacted.pdf",
+     "sha256": "bafdfa56acb945946db8637285c3dc6e6a7393db941468fc617af3b18d566e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-32-2021",
+   "path": "local/judet/hunedoara/2021/32",
+   "short": "HCJ Hunedoara nr. 32/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 32/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/04%20HOT%2011%20FEBRUARIE%202021/HCJH%2032.pdf",
+     "sha256": "80e010d150a1c0dd619d9065b3207aee76c7c44ed5de2331ef9a5ba53f89cf6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-320-2021",
+   "path": "local/judet/hunedoara/2021/320",
+   "short": "HCJ Hunedoara nr. 320/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 320/2021 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2021, virărilor de credite în cadrul aceluiași capitol al bugetului ale unor instituții aflate în subordinea și finanțarea Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20320_Redacted.pdf",
+     "sha256": "5a4297ae064a41bfa3836ef3f5059f776c2c229b5cd82f4d14aca5e793b364a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-321-2021",
+   "path": "local/judet/hunedoara/2021/321",
+   "short": "HCJ Hunedoara nr. 321/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 321/2021 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2020, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20321_Redacted.pdf",
+     "sha256": "d6b2762278c40169d190028d36cd226f130273c8fab22073c608a5996229e1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-322-2021",
+   "path": "local/judet/hunedoara/2021/322",
+   "short": "HCJ Hunedoara nr. 322/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 322/2021 privind modificarea și completarea Hotărârii Consiliului Județean Hunedoara nr.301/2021 privind aprobarea acordării burselor de ajutor social/burse medicale elevilor care frecventează cursurile instituțiilor de învățământ special finanțate de",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20322_Redacted.pdf",
+     "sha256": "412cb53379ebb0776e7a74e8656ea6d900aa92159b49b7a73cc5a461ae4725d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-323-2021",
+   "path": "local/judet/hunedoara/2021/323",
+   "short": "HCJ Hunedoara nr. 323/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 323/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Județean de Urgență Deva, precum și virările de credite bugetare în cadrul aceluiași capitol al bugetului",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20323_Redacted.pdf",
+     "sha256": "a833a19e644a27ea1b4b2716d5341e9da01a28bd1d3da811cf7a423afe1a56a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-324-2021",
+   "path": "local/judet/hunedoara/2021/324",
+   "short": "HCJ Hunedoara nr. 324/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 324/2021 privind aprobarea unui acord de parteneriat pentru realizarea intervențiilor de urgență pentru acoperirea Turnului locuință nr.1 din situl arheologic Costești – Cetățuie și punerea în valoare a Cetăților dacice din Munții Orăștiei",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2026%20noiembrie%202021/H%20324_Redacted.pdf",
+     "sha256": "61d17b2637c7517cec33f8e142409d9180ce3823da2e3e9c41322726002aa172"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-327-2021",
+   "path": "local/judet/hunedoara/2021/327",
+   "short": "HCJ Hunedoara nr. 327/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 327/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20327_Redacted.pdf",
+     "sha256": "00b32290872d4ae70ad46c3b576c9303a3ae942316a885ec0f07570113492169"
     }
    ]
   },
@@ -48,6 +1983,351 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-33-2021",
+   "path": "local/judet/hunedoara/2021/33",
+   "short": "HCJ Hunedoara nr. 33/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 33/2021 pentru obiectivul de investiții: ”Reabilitare Casa de cultură Municipiul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/04%20HOT%2011%20FEBRUARIE%202021/HCJH%2033.pdf",
+     "sha256": "bc8bca1be10db85944ceb69fc3738540c540c61cbecda6b6ba97c53d2e59ac22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-330-2021",
+   "path": "local/judet/hunedoara/2021/330",
+   "short": "HCJ Hunedoara nr. 330/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 330/2021 privind desemnarea reprezentanților Consiliului Județean Hunedoara în comisia de concurs/examen și în comisia de soluționare a contestațiilor pentru ocuparea funcției de director medical la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20330_Redacted.pdf",
+     "sha256": "54188a6b370fc2b1f8af6bb5377ed40e4ce7990073d5ac56cca9de9284d34dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-331-2021",
+   "path": "local/judet/hunedoara/2021/331",
+   "short": "HCJ Hunedoara nr. 331/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 331/2021 privind aprobarea statului de funcții al Unității de Asistență Medico-Socială Baia de Criș",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20331_Redacted.pdf",
+     "sha256": "a68dd072ce7acf2ee24d98d9948b6dbfc63c22dfadb6b2825ae456f26e62c5ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-332-2021",
+   "path": "local/judet/hunedoara/2021/332",
+   "short": "HCJ Hunedoara nr. 332/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 332/2021 privind aprobarea încheierii Convenției de colaborare între Direcția Generală de Asistență Socială și Protecției Copilului Hunedoara și Consiliul Local al Comunei Pui",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20332_Redacted.pdf",
+     "sha256": "1e90fd6828e7a8d2470da465251ba8e3c0c0bd69e7ee10faad92cf92cc827e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-333-2021",
+   "path": "local/judet/hunedoara/2021/333",
+   "short": "HCJ Hunedoara nr. 333/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 333/2021 privind acordarea de stimulente financiare comitetului director din cadrul Spitalului Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20333_Redacted.pdf",
+     "sha256": "90425a4721de2d453ac74d6b18b4b16bd2bd1876d5c0f9df961ea2abd5ca93a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-334-2021",
+   "path": "local/judet/hunedoara/2021/334",
+   "short": "HCJ Hunedoara nr. 334/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 334/2021 privind aprobarea statului de funcții al Sanatoriului de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20334_Redacted.pdf",
+     "sha256": "e2a942bc4c3065506c6475c911e1d9919eca846290006462e84826ce4e9ef1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-335-2021",
+   "path": "local/judet/hunedoara/2021/335",
+   "short": "HCJ Hunedoara nr. 335/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 335/2021 privind modificarea încadrării drumului comunal DC 58A, cuprins între km 0+000 la km 2+200 de la intersecția cu drumul județean DJ668A până la cetatea dacică Costești – Cetățuia, din categoria drumurilor de interes local în categoria drumurilor de interes județean",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20335_Redacted.pdf",
+     "sha256": "a3eb9ebfaa96bbee35f3df170fb1b3abaefc2af66543ffe52d798a4c6406a6d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-336-2021",
+   "path": "local/judet/hunedoara/2021/336",
+   "short": "HCJ Hunedoara nr. 336/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 336/2021 privind aprobarea statului de funcţii al Direcției Generale de Asistență Socială și Protecția Copilului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20336_Redacted22.pdf",
+     "sha256": "2d07529e7ab6949adfca4e074009f7e2393877407845b5ac9cd68aea9b95d4e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-337-2021",
+   "path": "local/judet/hunedoara/2021/337",
+   "short": "HCJ Hunedoara nr. 337/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 337/2021 privind aprobarea Planului de investiţii pe anul 2022, aferent activelor date în administrare/concesiune prin proiectul “Sistemul de Management Integrat al Deșeurilor din Județul Hunedoara” şi care se finanţează din Fondul de Întreţinere, Înlocuire şi Dezvoltare (FIID)",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20337_Redacted.pdf",
+     "sha256": "5a24ae607c421489e527eabd46319301a113d1805ccf9278e6517b6bae3f3737"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-338-2021",
+   "path": "local/judet/hunedoara/2021/338",
+   "short": "HCJ Hunedoara nr. 338/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 338/2021 privind trecerea bunului ”Teren de sport multifuncțional” din domeniul public al Județului Hunedoara în domeniul public al Comunei Băcia",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20338_Redacted.pdf",
+     "sha256": "ae5c5675b925c8f601e7b129a2c98d55378c461a5dabff92cfd817f0742ab528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-339-2021",
+   "path": "local/judet/hunedoara/2021/339",
+   "short": "HCJ Hunedoara nr. 339/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 339/2021 privind darea în folosință gratuită a unor terenuri și clădiri aparținând domeniului public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20339_Redacted.pdf",
+     "sha256": "ae0025ed0207b977f90538a7d553cd98649ca7e165402ddb09203919059df34c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-34-2021",
+   "path": "local/judet/hunedoara/2021/34",
+   "short": "HCJ Hunedoara nr. 34/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 34/2021 pentru transportul rutier de persoane prin curse regulate pe traseul Deva-Vărmaga din Programul de transport public județean de persoane prin curse regulate în Județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/04%20HOT%2011%20FEBRUARIE%202021/HCJH%2034.pdf",
+     "sha256": "83c8fc036f9e47454fef80677187a5bd7369255d12accf802d612be1fa231823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-340-2021",
+   "path": "local/judet/hunedoara/2021/340",
+   "short": "HCJ Hunedoara nr. 340/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 340/2021 privind aprobarea rezilierii Contractului nr. 874/1975/22.08.2018 de delegare a gestiunii serviciului de salubrizare în zona de colectare 2 Hațeg și a Contractului nr.1760/760/27.11.2018 de delegare a gestiunii serviciului de salubrizare în zona de colectare 3 Centru/Bârcea Mare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20340_Redacted.pdf",
+     "sha256": "4a5055822f705124cbb8f049aa240c58b1f1059bec54b5512cb5740aff076340"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-341-2021",
+   "path": "local/judet/hunedoara/2021/341",
+   "short": "HCJ Hunedoara nr. 341/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 341/2021 privind aprobarea statului de funcții al Direcției Publice Comunitare de Evidența Persoanelor Hunedoara și modificarea Hotărârii Consiliului Județean Hunedoara nr.24/2019 pentru stabilirea salariilor de bază pentru funcțiile din familia ocupațională „administrație” din cadrul Direcției Publice Comunitare de Evidența Persoanelor Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20341_Redacted.pdf",
+     "sha256": "14e05164103e70cf31a3075529516db74557357dd3a18c14845f9774bc692f21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-342-2021",
+   "path": "local/judet/hunedoara/2021/342",
+   "short": "HCJ Hunedoara nr. 342/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 342/2021 privind aprobarea statului de funcții al Direcției Generale de Administrare a Monumentelor și Promovare Turistică a județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20342_Redacted.pdf",
+     "sha256": "fd3a9ffac1c8063eb355ac6e89894a368fdd9c87ec103f4bacd2541f1fbef327"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-343-2021",
+   "path": "local/judet/hunedoara/2021/343",
+   "short": "HCJ Hunedoara nr. 343/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 343/2021 privind aprobarea modificării procentului de restituție a apelor uzate din apa potabilă pe întreaga arie de operare a SC APA PROD SA Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20343_Redacted.pdf",
+     "sha256": "96b6a7100904b4d4c521fe16e2322d1d29fa4716795c9dc89cf6ae91c21af22e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-344-2021",
+   "path": "local/judet/hunedoara/2021/344",
+   "short": "HCJ Hunedoara nr. 344/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 344/2021 privind analiza și aprobarea execuției bugetelor aflate în autoritatea Consiliului Județean Hunedoara întocmite pe secțiunea de funcționare și dezvoltare pentru trimestrul IV 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20344_Redacted.pdf",
+     "sha256": "9b2d9b4f2cf537386be8a05337287f0f5d1e95bdcbd967311ed5a21b949d14a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-345-2021",
+   "path": "local/judet/hunedoara/2021/345",
+   "short": "HCJ Hunedoara nr. 345/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 345/2021 privind analiza și aprobarea execuției bugetului împrumuturilor interne ale Consiliului Județean Hunedoara pentru trimestrul IV 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20345_Redacted.pdf",
+     "sha256": "b475bab62f5b9bb2ceb291058a389c137127140209a71a790fc321d28397005f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-346-2021",
+   "path": "local/judet/hunedoara/2021/346",
+   "short": "HCJ Hunedoara nr. 346/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 346/2021 privind aprobarea rectificării bugetului propriu al Județului Hunedoara pe anul 2021, virările de credite bugetare în cadrul bugetului propriu al Județului Hunedoara, precum și modificarea programului de investiții, anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20346_Redacted.pdf",
+     "sha256": "a59241874e12c75b93888cb8ce3930a3c08d7b6d2a67da4c9c368e82af9a003d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-347-2021",
+   "path": "local/judet/hunedoara/2021/347",
+   "short": "HCJ Hunedoara nr. 347/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 347/2021 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2021, virărilor de credite în cadrul aceluiași capitol al bugetului ale unor instituții aflate în subordinea și finanțarea Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20347_Redacted.pdf",
+     "sha256": "4ef3ecf9d2d049835e56716a9ff4c30f8cc58ced4225987ccbbd137f7af0a8c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-348-2021",
+   "path": "local/judet/hunedoara/2021/348",
+   "short": "HCJ Hunedoara nr. 348/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 348/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2021 ale spitalelor de interes județean, precum și modificarea programului de investiții, anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20348_Redacted.pdf",
+     "sha256": "b868a16d5cf7fa695d9695f7a809e708b84bb02593b9b10199ba7436c1911504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-349-2021",
+   "path": "local/judet/hunedoara/2021/349",
+   "short": "HCJ Hunedoara nr. 349/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 349/2021 privind aprobarea Programului de lucrări și servicii de întreținere, reparații curente și periodice a drumurilor aflate în administrarea Consiliului Județean Hunedoara pentru anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20%20CJ%20HD%2017%20decembrie%202021/H%20349_Redacted.pdf",
+     "sha256": "2ceea9989405012c60dfbe5311ea693da1bf112c65a5298e5cdb80e7d7d0e5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-35-2021",
+   "path": "local/judet/hunedoara/2021/35",
+   "short": "HCJ Hunedoara nr. 35/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 35/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/04%20HOT%2011%20FEBRUARIE%202021/HCJH%2035.pdf",
+     "sha256": "a394d87a97ef943dc6116f00c076180636864d3a81b9d6e2fe5a392858636b32"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-350-2021",
    "path": "local/judet/hunedoara/2021/350",
    "short": "HCJ Hunedoara nr. 350/2021",
@@ -59,6 +2339,186 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20extra%2022%20decembrie%202021/H%20350_Redacted.pdf",
      "sha256": "73cf63d85c44ebb3063cfe4fb2962a590b521551de0483110e65e6c6d8d28256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-351-2021",
+   "path": "local/judet/hunedoara/2021/351",
+   "short": "HCJ Hunedoara nr. 351/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 351/2021 privind aprobarea rectificării bugetului propriu al Județului Hunedoara pe anul 2021, precum și modificarea programului de investiții anexă la buget",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/sedinta%20extra%2022%20decembrie%202021/H%20351_Redacted.pdf",
+     "sha256": "a522f83a9cb8d006c4bc24d4b899db49151bd22d3064d9a2e87faf8d2d82d438"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-36-2021",
+   "path": "local/judet/hunedoara/2021/36",
+   "short": "HCJ Hunedoara nr. 36/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 36/2021 pentru persoane adulte cu dizabilități Petroșani” și a cheltuielilor legate de proiect din cadrul Programului de Interes Național ”Inființarea de servicii sociale de tip centre de zi, centre respiro/centre de criză și locuințe protejate în vederea dezinstituţionalizării persoanelor cu dizabilităţi aflate în instituţii de tip vechi şi pentru prevenirea instituţionalizării persoanelor cu dizabilităţ",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/04%20HOT%2011%20FEBRUARIE%202021/HCJH%2036.pdf",
+     "sha256": "67350e851505ed094d7cb6880555b20bffc3c16d100df32613157d8f98e6a1f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-37-2021",
+   "path": "local/judet/hunedoara/2021/37",
+   "short": "HCJ Hunedoara nr. 37/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 37/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2037.pdf",
+     "sha256": "0eced1e4326d4c134c646be5e8e9fc7b72253cf362e19e2af0669fcd6dcdaa84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-38-2021",
+   "path": "local/judet/hunedoara/2021/38",
+   "short": "HCJ Hunedoara nr. 38/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 38/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2038%20ref.pdf",
+     "sha256": "d219fd79ac60c58d57c4d01cfadb2a6611e063effaa249bb5946ad68bf793efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-39-2021",
+   "path": "local/judet/hunedoara/2021/39",
+   "short": "HCJ Hunedoara nr. 39/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 39/2021 PENTRU COPII 9 Bibliotecar 10 Bibliotecar SECȚIA DE ARTĂ ȘI CARTE FRANCEZĂ 11 Bibliotecar S IA FILIALA Nr. 1 12 Bibliotecar S IA FILIALA nr. 2 13 Bibliotecar M IA FILIALA Nr. 3 14 Bibliotecar S IA FILIALA Nr. 4 15 Bibliotecar S I FILIALA Nr. 5 16 Bibliotecar S IA BiIBLIONET 17 Bibliotecar S IA 18 Bibliotecar S IA Ocupat temporar COMPPARTIMENT INFORMARE BIBLIOGRAFICĂ 19 Bibliotecar S IA 20 Bibliote",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2039%20ref.pdf",
+     "sha256": "29740defd4bd511f01e94266af7daa8f486e04264d8bbebb91eb67db97c03882"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-4-2021",
+   "path": "local/judet/hunedoara/2021/4",
+   "short": "HCJ Hunedoara nr. 4/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 4/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2015%20IANUARIE%202021/HCJH%204.pdf",
+     "sha256": "bfdb1314d6bb70ac852dc378c5e220f3e08ccd45f8d76cd54976ac0276dd1aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-40-2021",
+   "path": "local/judet/hunedoara/2021/40",
+   "short": "HCJ Hunedoara nr. 40/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 40/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2040.pdf",
+     "sha256": "dc6b11bed20c1e715c39047ead954581088d2660875f1f23d01aee30aa4947d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-41-2021",
+   "path": "local/judet/hunedoara/2021/41",
+   "short": "HCJ Hunedoara nr. 41/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 41/2021 privind trecerea unor imobile din domeniul public al Județului Hunedoara în domeniul public al comunei Totești",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2041.pdf",
+     "sha256": "c29620a3cbc066f9063da564c8893d4e8f516802cb2e54d2429ae12af3cea5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-42-2021",
+   "path": "local/judet/hunedoara/2021/42",
+   "short": "HCJ Hunedoara nr. 42/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 42/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2042.pdf",
+     "sha256": "58f90af37b22e674361efef518f54f4fc15aa3e2c5561b358366fbf6ff24da14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-43-2021",
+   "path": "local/judet/hunedoara/2021/43",
+   "short": "HCJ Hunedoara nr. 43/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 43/2021 pentru funcțiile contractuale din familia ocupațională “Administrație” din cadrul Direcției Generale de Administrare Monumente și Promovare Turistică a Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2043.pdf",
+     "sha256": "9b82f4c95bb42d837720306dd8cc88c35f1fcd3a0306f8d56a9d08876363806e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-44-2021",
+   "path": "local/judet/hunedoara/2021/44",
+   "short": "HCJ Hunedoara nr. 44/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 44/2021 pentru consumurile colective din Spitalul Județean de Urgență Deva pentru pacienții internați, față de nivelul prevăzut în Hotărârea Guvernului României nr.429/2008 privind nivelul alocațiilor de hrană pentru consumurile colective din unitățile sanitare publice, cu modificările și completările ulterioare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2044.pdf",
+     "sha256": "9a3f8a7b5749b03a1d4d159ab78670cf1416734900a61ea5eecb7f1c0eac3735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-45-2021",
+   "path": "local/judet/hunedoara/2021/45",
+   "short": "HCJ Hunedoara nr. 45/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 45/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2026%20FEB%202021%20IP/HCJH%2045.pdf",
+     "sha256": "472026d970732872347a8b73759432f7162b7f17e974d94b8d5f108aa74404fb"
     }
    ]
   },
@@ -78,6 +2538,51 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-47-2021",
+   "path": "local/judet/hunedoara/2021/47",
+   "short": "HCJ Hunedoara nr. 47/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 47/2021 pentru realizarea lucrărilor la obiectivul de investiţii „Modernizare și reabilitare drumuri, alei și parcări, Municipiul Lupeni-Zona 5”- în vederea îmbunătățirii accesului la obiectivul turistic de interes județean - Stațiunea Straja",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2047.pdf",
+     "sha256": "dba8b2f6995a0824f7c4016acf937cb8b159badca645834b000565f323d37871"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-48-2021",
+   "path": "local/judet/hunedoara/2021/48",
+   "short": "HCJ Hunedoara nr. 48/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 48/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2048.pdf",
+     "sha256": "cccafc64af45364663ca3b4699607e389dd1da2292834495ea71850c100e9ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-49-2021",
+   "path": "local/judet/hunedoara/2021/49",
+   "short": "HCJ Hunedoara nr. 49/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 49/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2049.pdf",
+     "sha256": "85a38b44ee31e3ef50bedeb4cc24705ed069adb3d90f254cf9dbd56733b9d8e7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-5-2021",
    "path": "local/judet/hunedoara/2021/5",
    "short": "HCJ Hunedoara nr. 5/2021",
@@ -89,6 +2594,246 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2021/Aparat%20CJH/HOT-NR.-5-din-30.05.2021-a-BEJ-22-HD.pdf",
      "sha256": "6d4aab702dc69e1a288bc6b566f2cc54aa9053554260dce7ebe7f0a0f491691a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-50-2021",
+   "path": "local/judet/hunedoara/2021/50",
+   "short": "HCJ Hunedoara nr. 50/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 50/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2050.pdf",
+     "sha256": "feafb3c48ba029b960bb6c6106d9e16340143dda1d2f98772c8c1d5506b47c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-51-2021",
+   "path": "local/judet/hunedoara/2021/51",
+   "short": "HCJ Hunedoara nr. 51/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 51/2021 privind aprobarea cuantumului contribuției lunare a beneficiarilor de servicii, acordate de Unitatea de Asistență Medico-Socială Baia de Criș, Județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2051.pdf",
+     "sha256": "67fc223d5d3917f30be63f18c08489fdb4fa4372d7c363e9e24d900e264e2a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-52-2021",
+   "path": "local/judet/hunedoara/2021/52",
+   "short": "HCJ Hunedoara nr. 52/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 52/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2052%20ref.pdf",
+     "sha256": "50c6c8d03189342a591aae6fae4db1a2e8d5a2d3c9c0d159f8919a51cd251263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-53-2021",
+   "path": "local/judet/hunedoara/2021/53",
+   "short": "HCJ Hunedoara nr. 53/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 53/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2053.pdf",
+     "sha256": "2db01023927a34e8332b59e7534e160f783784d3a0a00203578255592f8a5e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-54-2021",
+   "path": "local/judet/hunedoara/2021/54",
+   "short": "HCJ Hunedoara nr. 54/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 54/2021 pentru 80 de paturi cu prize oxigen”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2054.pdf",
+     "sha256": "5630bd8bcd1c2aad1ec5cd74aba8ff6afc6c95ccc976a2bc5286dd8e653b4a01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-55-2021",
+   "path": "local/judet/hunedoara/2021/55",
+   "short": "HCJ Hunedoara nr. 55/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 55/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2055.pdf",
+     "sha256": "876775b770cc49d538ca03b515b7156208c1ccc1ceec647c28bd6b21928b6236"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-56-2021",
+   "path": "local/judet/hunedoara/2021/56",
+   "short": "HCJ Hunedoara nr. 56/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 56/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2056.pdf",
+     "sha256": "2f5b20b7e2a221c556e6a7db0a08b22f94de27b0fa2b39863d314d6db9a3b964"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-57-2021",
+   "path": "local/judet/hunedoara/2021/57",
+   "short": "HCJ Hunedoara nr. 57/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 57/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2057.pdf",
+     "sha256": "532224da63e004e8fca8b7177c64726a59894467dce324d3aa6d8d17809cdd99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-58-2021",
+   "path": "local/judet/hunedoara/2021/58",
+   "short": "HCJ Hunedoara nr. 58/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 58/2021 pentru obiectivul de investiții ”Modernizare DJ 741: Crișcior – Bucureșci – Almașu Mic de Munte, km 12+450 – 18+050”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2058.pdf",
+     "sha256": "2e653dd8656ce1b826440eea6c2f800d6cb392797e72ce7d64a9a72054f3fc14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-59-2021",
+   "path": "local/judet/hunedoara/2021/59",
+   "short": "HCJ Hunedoara nr. 59/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 59/2021 pentru dezvoltare teritorială integrată Valea Jiului",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2059.pdf",
+     "sha256": "b0d69d55125615317d4864e962db306d843f243df440954c0beec77d548889b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-6-2021",
+   "path": "local/judet/hunedoara/2021/6",
+   "short": "HCJ Hunedoara nr. 6/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 6/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%206.pdf",
+     "sha256": "5cc0c55e00eb778e59b609585bb79072a973f2a49d2e58b7c28dc1dd3054accc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-60-2021",
+   "path": "local/judet/hunedoara/2021/60",
+   "short": "HCJ Hunedoara nr. 60/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 60/2021 pentru drumurile județene și comunale alocate județului Hunedoara pe anul 2021 și estimările pentru anii 2022 – 2024",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2060.pdf",
+     "sha256": "5351377ee113e286b7ffec9fe57485ff5c513cf05282e78324ef4d6dd6674705"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-61-2021",
+   "path": "local/judet/hunedoara/2021/61",
+   "short": "HCJ Hunedoara nr. 61/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 61/2021 pentru Dezvoltare Locală cu privire la proiectul ”Fotbalul este mai mult decât un joc” în cadrul Programului Operațional Capacitate Administrativă 2014 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2061.pdf",
+     "sha256": "6aa5035f5c9f43c02b587a4c1cf6c39a18a1816f2a87ea2460cbc0607954c088"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-62-2021",
+   "path": "local/judet/hunedoara/2021/62",
+   "short": "HCJ Hunedoara nr. 62/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 62/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2062.pdf",
+     "sha256": "6a3b1586fc4cb60607173a21b3283b33100de5eda4b1beca69d7df8021fd8b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-63-2021",
+   "path": "local/judet/hunedoara/2021/63",
+   "short": "HCJ Hunedoara nr. 63/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 63/2021 pentru modificarea Hotărârii Consiliului Județean Hunedoara nr.63/2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 80.000.000 lei; doc",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2063.pdf",
+     "sha256": "eeec5613676f89b8bbb7947ef494c3e55eeef363b9cb7c47102204f0e539d973"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-64-2021",
+   "path": "local/judet/hunedoara/2021/64",
+   "short": "HCJ Hunedoara nr. 64/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 64/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2064.pdf",
+     "sha256": "116e48c3cac509d6bffd2d181959f2f5cecb40ad4ec20f078892a58f037ddb02"
     }
    ]
   },
@@ -108,6 +2853,81 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-66-2021",
+   "path": "local/judet/hunedoara/2021/66",
+   "short": "HCJ Hunedoara nr. 66/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 66/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2066.pdf",
+     "sha256": "2e80781999b3978eba367d6f4022d2612347a85026b4e052f407457c5e3dec0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-67-2021",
+   "path": "local/judet/hunedoara/2021/67",
+   "short": "HCJ Hunedoara nr. 67/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 67/2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2067.pdf",
+     "sha256": "94b6d699626ea96497e5e7b1f5dc074712eaa1e15759339ee62800c3fcf95c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-68-2021",
+   "path": "local/judet/hunedoara/2021/68",
+   "short": "HCJ Hunedoara nr. 68/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 68/2021 pentru revitalizarea fizică, economică și socială a comunităților defavorizate din regiunile urbane și rurale, Obiectivul specific 13.1: Îmbunătățirea cali",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2031%20MARTIE%202021/H%2068.pdf",
+     "sha256": "2f1e189cddb5cb166babb72653cd828abea6301271450190e5a05f5edb9f1d54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-69-2021",
+   "path": "local/judet/hunedoara/2021/69",
+   "short": "HCJ Hunedoara nr. 69/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 69/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Hunedoara pentru anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2069%20.pdf",
+     "sha256": "5f89491ef37074df45414b7c51ff97b2414f79ff6f0e6f0485d8c3d7f2ec2d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-7-2021",
+   "path": "local/judet/hunedoara/2021/7",
+   "short": "HCJ Hunedoara nr. 7/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 7/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%207.pdf",
+     "sha256": "671a9900cfa26a34f8aa2ab26d3925d5ed1e8eb1902f785f5c9a09ed58beb805"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-70-2021",
    "path": "local/judet/hunedoara/2021/70",
    "short": "HCJ Hunedoara nr. 70/2021",
@@ -119,6 +2939,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2070.pdf",
      "sha256": "5e9aeacca82bf809bc14e4b8dd9d4baaa54de320bd54156212c95786f097894f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-71-2021",
+   "path": "local/judet/hunedoara/2021/71",
+   "short": "HCJ Hunedoara nr. 71/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 71/2021 pentru modificarea art.1 al Hotărârii Consiliului Județean Hunedoara nr.26/2021 privind acordarea de stimulente financiare comitetului director din cadrul Spitalului Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2071%20.pdf",
+     "sha256": "e84d41373b2b2d2357dbe9196242934f0c86c98aa4a7dc5b21d9108dc48ba691"
     }
    ]
   },
@@ -138,6 +2973,36 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-73-2021",
+   "path": "local/judet/hunedoara/2021/73",
+   "short": "HCJ Hunedoara nr. 73/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 73/2021 privind darea în administrare a terenurilor și clădirilor în care își desfășoară activitatea Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2073.pdf",
+     "sha256": "5ad3ae658a42c69eecd177530d2cda0303d28b77e638d273a287f78a744c908d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-74-2021",
+   "path": "local/judet/hunedoara/2021/74",
+   "short": "HCJ Hunedoara nr. 74/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 74/2021 privind aprobarea statului de funcții al Bibliotecii Județene ”Ovid Densușianu” Hunedoara-Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2074.pdf",
+     "sha256": "28ff49cdf798f864184616197ee05d7b096d04887e97e281634ba9cc6dfa058c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-75-2021",
    "path": "local/judet/hunedoara/2021/75",
    "short": "HCJ Hunedoara nr. 75/2021",
@@ -153,6 +3018,156 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-76-2021",
+   "path": "local/judet/hunedoara/2021/76",
+   "short": "HCJ Hunedoara nr. 76/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 76/2021 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2021 și estimările pentru anii 2022 – 2024 ale instituțiilor publice din subordinea și/sau finanțarea Consiliului Județean Hunedoara; Anexe 1-17",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2076.pdf",
+     "sha256": "e93a141cf9540132da6a3b1b14f3fe282f92a0647fe56c8c153fa3262f11d5e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-77-2021",
+   "path": "local/judet/hunedoara/2021/77",
+   "short": "HCJ Hunedoara nr. 77/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 77/2021 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2021 și estimările pe anii 2022 – 2024 ale spitalelor de interes județean; Anexe 1-3",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2077.pdf",
+     "sha256": "68532dc8921851ba1e15786fb0c2243e807a0a2d8cb36477b44cb85af9ee9fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-78-2021",
+   "path": "local/judet/hunedoara/2021/78",
+   "short": "HCJ Hunedoara nr. 78/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 78/2021 privind utilizarea excedentului anual al bugetului propriu aljudețului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2020, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2078%20.pdf",
+     "sha256": "a740dbeecc6ebac97168b4a7924441b1bceff0a78eb51777c73ee12ffd6a6d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-79-2021",
+   "path": "local/judet/hunedoara/2021/79",
+   "short": "HCJ Hunedoara nr. 79/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 79/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2079.pdf",
+     "sha256": "93278f347b797ce0529d29c7bbfd22940a38fc6a8a56410e9aca47bbc43c5912"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-8-2021",
+   "path": "local/judet/hunedoara/2021/8",
+   "short": "HCJ Hunedoara nr. 8/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 8/2021 privind constituirea și organizarea comisiilor de specialitate ale Consiliului Județean Hunedoara pe principalele domenii de activitate",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%208.pdf",
+     "sha256": "374154df2ba708b6f9f5d4f288c1514668b0f549513e78158062fc5dc4e469cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-80-2021",
+   "path": "local/judet/hunedoara/2021/80",
+   "short": "HCJ Hunedoara nr. 80/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 80/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2080.pdf",
+     "sha256": "cd454290b565abc3048f0e21fb0f64c5189d35489e521e80190260f4f9c9b73e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-81-2021",
+   "path": "local/judet/hunedoara/2021/81",
+   "short": "HCJ Hunedoara nr. 81/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 81/2021 privind aprobarea acordării burselor de ajutor social/burse medicale elevilor care frecventează cursurile instituțiilor de învățământ special finanțare de",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2081.pdf",
+     "sha256": "0cebded6f4aedb987d9dcbe85c9d6305512cf2699f36b2952d99300892bbd375"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-82-2021",
+   "path": "local/judet/hunedoara/2021/82",
+   "short": "HCJ Hunedoara nr. 82/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 82/2021 privind aprobarea plății unor cotizații pentru anul bugetar 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2082.pdf",
+     "sha256": "1b209c03c9838828304294092ca4fb0b90231ffdefe661ba606607ba4d3a4693"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-83-2021",
+   "path": "local/judet/hunedoara/2021/83",
+   "short": "HCJ Hunedoara nr. 83/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 83/2021 privind aprobarea asocierii Judeţului Hunedoara prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2083%20.pdf",
+     "sha256": "0bc66595d9c6c63e6689fd6eddf6ffffb6c2f41b4d45b3983d5bb10cc63a88f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-84-2021",
+   "path": "local/judet/hunedoara/2021/84",
+   "short": "HCJ Hunedoara nr. 84/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 84/2021 privind validarea desemnării nominale a membrilor Autorității Teritoriale de Ordine Publică Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2084.pdf",
+     "sha256": "d19987b95a4cdafb67d26c4f54d74fab147f6c238a9acb2a18bbef7b9bc4c7e3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-85-2021",
    "path": "local/judet/hunedoara/2021/85",
    "short": "HCJ Hunedoara nr. 85/2021",
@@ -164,6 +3179,231 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2085.pdf",
      "sha256": "9ff207cd7b63c7d1b9be0a19732d89315037489786721ca1b74da48f67319b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-86-2021",
+   "path": "local/judet/hunedoara/2021/86",
+   "short": "HCJ Hunedoara nr. 86/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 86/2021 privind aprobarea Raportului asupra situației gestionării bunurilor Consiliului Județean Hunedoara la 31 decembrie 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2086.pdf",
+     "sha256": "b9fb303724f56f05bc76a97564e26f91cd3d00c483d4eefadb89dc12506df17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-87-2021",
+   "path": "local/judet/hunedoara/2021/87",
+   "short": "HCJ Hunedoara nr. 87/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 87/2021 privind aprobarea devizului general actualizat, a indicatorilor tehnico-economici actualizați precum și a cheltuielilor eligibile și neeligibile pentru Proiectul ”Modernizare, extindere și dotare - Unitatea de Primiri Urgențe a Spitalului Județean de Urgență Deva”, cod SMIS 122283",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2087.pdf",
+     "sha256": "23f7c164c6ab18949a694c49929d0164c177f306604583c4dfbd51a80095de89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-88-2021",
+   "path": "local/judet/hunedoara/2021/88",
+   "short": "HCJ Hunedoara nr. 88/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 88/2021 privind aprobarea Programului anual al Consiliului Județean Hunedoara de finanțare nerambursabilă în condițiile Legii nr.350/2005 pentru anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2088.pdf",
+     "sha256": "089cfe2bd2e3bb96d85f85998d04bcacaf70ac9c2cc0cfaeecaf27841012d693"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-89-2021",
+   "path": "local/judet/hunedoara/2021/89",
+   "short": "HCJ Hunedoara nr. 89/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 89/2021 privind aprobarea Programului de lucrări și servicii de întreţinere, reparații curente şi periodice a drumurilor aflate în administrarea Consiliului Județean Hunedoara pentru anul 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2089.pdf",
+     "sha256": "4e9c1b26d3f45ef21668919f907d34fe48c7058575146be3c6bb8a9db4cb7394"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-9-2021",
+   "path": "local/judet/hunedoara/2021/9",
+   "short": "HCJ Hunedoara nr. 9/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 9/2021 pentru proba scrisă, practică sau clinică pentru ocuparea posturilor vacante de șef secție I Pneumologie și șef secție II Pneumologie la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%20SITE%2029%20IANUARIE%202021/HCJH%209.pdf",
+     "sha256": "8fa3ee0805c92470b01211c28bec7434d20c647895d3e0cb4f4237d32caf5204"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-90-2021",
+   "path": "local/judet/hunedoara/2021/90",
+   "short": "HCJ Hunedoara nr. 90/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 90/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții “Lucrări în regim de urgență la clădirea Palatului Administrativ din Municipiul Deva, str. 1 Decembrie 1918,nr. 28, jud. Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2090.pdf",
+     "sha256": "dd98e9484cefce8cbf1a906c7420b91c258bbcccdc05572a9a281a33336cb453"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-91-2021",
+   "path": "local/judet/hunedoara/2021/91",
+   "short": "HCJ Hunedoara nr. 91/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 91/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2091.pdf",
+     "sha256": "8c9e31653f90c4bbf5d754542d97ff9c97e836b369505452d01c5ad27f5f72df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-92-2021",
+   "path": "local/judet/hunedoara/2021/92",
+   "short": "HCJ Hunedoara nr. 92/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 92/2021 privind analiza şi aprobarea execuţiei bugetelor aflate în autoritatea Consiliului Judeţean Hunedoara întocmite pe secţiunea de funcţionare şi dezvoltare pentru trimestrul I 2021",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2092.pdf",
+     "sha256": "53831988cf23caaff8f8947b3190b9c7f4a9694f296ac901c8491aa19d9445a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-93-2021",
+   "path": "local/judet/hunedoara/2021/93",
+   "short": "HCJ Hunedoara nr. 93/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 93/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/Hotarari%20sedinta%2022.04.2021/H%2093.pdf",
+     "sha256": "50f7ee9f5ee600d8a08a553134e29325e05d27284dfd3d1fb843338432953528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-94-2021",
+   "path": "local/judet/hunedoara/2021/94",
+   "short": "HCJ Hunedoara nr. 94/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 94/2021 privind aprobarea contului de execuţie a bugetului propriu al judeţului Hunedoara şi a situaţiilor financiare anuale, inclusiv anexele la acestea, ale Consiliului Judeţean Hunedoara şi instituţiilor publice aflate în finanţarea acestuia, la 31 decembrie 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2094.pdf",
+     "sha256": "c0480681a12f9b5ad371af4527b5e6e07724f4f4416856e5d39571ad1a2f859d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-95-2021",
+   "path": "local/judet/hunedoara/2021/95",
+   "short": "HCJ Hunedoara nr. 95/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 95/2021 privind aprobarea statului de funcții al Sanatoriului de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2095.pdf",
+     "sha256": "8403bd58a306879c7d6273651652100592913b941b87c0c1bdb07c388a657350"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-96-2021",
+   "path": "local/judet/hunedoara/2021/96",
+   "short": "HCJ Hunedoara nr. 96/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 96/2021 privind aprobarea statului de funcții al Sanatoriului de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2096.pdf",
+     "sha256": "2cc5e11bfe1eb60917af2a75295398ef323c61d074120de4eca27921c72b5bb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-97-2021",
+   "path": "local/judet/hunedoara/2021/97",
+   "short": "HCJ Hunedoara nr. 97/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 97/2021 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.54/2021 privind însușirea Protocolului de predare-primire a investiției ”Instalație fluide medicale pentru 80 de paturi cu prize oxigen” și a Hotărârii Consiliului Județean Hunedoara nr.55/2021 privind însușirea Procesului-verbal de predare-primire a bunurilor de natura domeniului public realizate de către S.C",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2097.pdf",
+     "sha256": "e670841929e7b427eb68ee217cc8970a7c2c49d13c672b4cf10c65dc1aed3cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-98-2021",
+   "path": "local/judet/hunedoara/2021/98",
+   "short": "HCJ Hunedoara nr. 98/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 98/2021 privind solicitarea trecerii unor terenuri aferente DJ 687F: Teliucu Superior – Govăjdia – Lelese din domeniul public al Comunei Lelese în domeniul public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2098.pdf",
+     "sha256": "660c7d38eca5e6289a4781692a0920aa0a398db68d75e146b03f1bcd61e11c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-99-2021",
+   "path": "local/judet/hunedoara/2021/99",
+   "short": "HCJ Hunedoara nr. 99/2021",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 99/2021 privind solicitarea trecerii unor terenuri aferente DJ 687F: Teliucu Superior – Govăjdia – Lelese din domeniul public al Comunei Ghelari în domeniul public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/551-hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2021/Hotarari/HOTARARI%2027%20MAI%202021/HCJH%2099.pdf",
+     "sha256": "3531876bcbf94b8a3614b1a50ef2c6996a41629e7dd7a3d782a0e01277e01c1b"
     }
    ]
   }
