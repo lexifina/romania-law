@@ -25,6 +25,25 @@ def git(repo: Path, *args: str) -> str:
     return subprocess.run(['git', *args], cwd=repo, capture_output=True, text=True, encoding='utf-8', check=True).stdout
 
 
+def git_split(repo: Path, sep: str, *args: str):
+    """git(repo, *args).split(sep), piece by piece as git writes them instead of all at once (2026-11-05: a walk of
+    the whole history was hundreds of MB of text)."""
+    p = subprocess.Popen(['git', *args], cwd=repo, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True,
+                         encoding='utf-8')
+    buf: list[str] = []
+    for line in p.stdout:
+        while sep in line:
+            before, _, line = line.partition(sep)
+            buf.append(before)
+            yield ''.join(buf)
+            buf = []
+        buf.append(line)
+    yield ''.join(buf)
+    err = p.stderr.read()
+    if p.wait():
+        raise subprocess.CalledProcessError(p.returncode, p.args, None, err)
+
+
 class Cat:
     """One long-lived `git cat-file --batch` for every blob read."""
 
@@ -70,9 +89,11 @@ def all_commits_by_act(repo: Path, branch: str, acts) -> dict[str, list[tuple[st
     dirs = acts if isinstance(acts, dict) else {a: [a] for a in acts}
     want = {d: a for a, ds in dirs.items() for d in ds}
     rows: dict[str, list[tuple[str, str]]] = {a: [] for a in dirs}
-    out = git(repo, 'log', '--no-merges', '--no-renames', '--name-only',
-              '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
-    for rec in out.split('\x00')[1:]:
+    # Read as git writes it, one commit at a time: the whole history's file names are hundreds of MB.
+    recs = git_split(repo, '\x00', 'log', '--no-merges', '--no-renames', '--name-only',
+                     '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
+    next(recs)  # what comes before the first record
+    for rec in recs:
         head, _, names = rec.partition('\n')
         h, _, d = head.partition('\t')
         d = d.strip()
@@ -145,14 +166,33 @@ def _tree_oids(cat: 'Cat', commit: str, act: str, cache: dict) -> dict[str, str]
     return cache[key]
 
 
+class _Every:
+    """A set holding every act: append.load_corpus() then keeps each provision as its git blob id only."""
+
+    def __contains__(self, slug) -> bool:
+        return True
+
+
+def text_oid(text: str) -> str:
+    """blob_oid() of a provision's text, which append.load_corpus() may already have taken (a LeanText)."""
+    import append
+    return text[:-1] if isinstance(text, append.LeanText) else blob_oid(text)
+
+
 def check(repo: Path, corpus: Path) -> dict:
     sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from build import load  # the same corpus.json + corpus.d/ merge the build used
-    c, raw = load(corpus.parent)
+    # The same corpus.json + corpus.d/ merge the build used (build.load), read the way append.py reads it
+    # (2026-11-05): one part at a time from its part store, every provision kept as the blob id this check compares,
+    # never its words. build.load() held every word and its 1.8 GB cache, ~9 GB at 100,000 acts.
+    import append
+    store = append.PartStore(append.cache_prefix(corpus.parent))
+    try:
+        c, raw, _ = append.load_corpus(corpus.parent, _Every(), store)
+    finally:
+        store.close()
     future = c['country'].get('future_branch', 'futuro')
     has_future = bool(git(repo, 'branch', '--list', future).strip())
     cat = Cat(repo)
-    trees: dict = {}
     mismatches, versions, details = 0, 0, []
     dirs = act_dirs(repo, [a['slug'] for a in c['acts']])
     by_act = all_commits_by_act(repo, future if has_future else 'main', dirs)
@@ -162,8 +202,10 @@ def check(repo: Path, corpus: Path) -> dict:
     for act in c['acts']:
         slug = act['slug']
         rows = by_act[slug]
+        trees: dict = {}  # per act: its folders' trees, read once for all its days
         prev = None
         vs = [v for v in act['versions'] if cutoff is None or v['from'] <= cutoff]
+        act['versions'] = ()  # read once; let it go as soon as the act is checked
         for i, v in enumerate(vs):
             versions += 1
             # With same-day versions only the last one of the day is the text in force at the end of that day, and
@@ -184,7 +226,7 @@ def check(repo: Path, corpus: Path) -> dict:
                     details.append(f'{slug}: nothing in force on {day}')
                     continue
                 files = tree_oids(cat, h, dirs[slug], trees)
-                expect = {f'{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
+                expect = {f'{k}.md': text_oid(u['text']) for k, u in want['units'].items()}
                 for f in sorted(set(files) | set(expect)):
                     if files.get(f) != expect.get(f):
                         mismatches += 1
@@ -194,8 +236,8 @@ def check(repo: Path, corpus: Path) -> dict:
     cat.close()
     trailer_errors, missing_in_force = 0, 0
     refs = ['main'] + ([future] if has_future else [])
-    out = git(repo, 'log', '--no-merges', '--format=%H%x1f%an%x1f%(trailers:only,unfold,separator=%x1e)%x1d', *refs)
-    for rec in out.split('\x1d'):
+    for rec in git_split(repo, '\x1d', 'log', '--no-merges',
+                         '--format=%H%x1f%an%x1f%(trailers:only,unfold,separator=%x1e)%x1d', *refs):
         rec = rec.strip('\n')
         if not rec:
             continue
@@ -219,7 +261,7 @@ def check(repo: Path, corpus: Path) -> dict:
             'future_dated': future_dated, 'details': details,
             # Which corpus this check read (a main build reads only the verified parts), so REPRODUCE.md quotes a check
             # only in the build it describes.
-            'corpus_sha256': hashlib.sha256(raw).hexdigest()}
+            'corpus_sha256': raw.sha.hexdigest()}
 
 
 def main():
