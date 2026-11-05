@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-16: adopted by the Senate
 - 2026-10-14: adopted by the Chamber of Deputies
 - 2026-10-26: sent for promulgation
+- 2026-11-05: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,16 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L415FC.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-4cbc39e1.md](axs-4cbc39e1.md); official file https://www.senat.ro/legis/PDF/2026/26L415AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-0612167f.md](lp-0612167f.md); official file https://www.senat.ro/legis/PDF/2026/26L415LP.PDF
+- 2026-11-05: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L415AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (CF): [cf-0b51cd1f.md](cf-0b51cd1f.md); official file https://www.senat.ro/legis/PDF/2026/26L415CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L415AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (CC): [cc-545d5301.md](cc-545d5301.md); official file https://www.senat.ro/legis/PDF/2026/26L415CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (RX1): [rx1-2fcd8205.md](rx1-2fcd8205.md); official file https://www.senat.ro/legis/PDF/2026/26L415RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (XA1): [xa1-fcf44ed2.md](xa1-fcf44ed2.md); official file https://www.senat.ro/legis/PDF/2026/26L415XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (CX): [cx-723cfe52.md](cx-723cfe52.md); official file https://www.senat.ro/legis/PDF/2026/26L415CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (XD1): [xd1-9f9660be.md](xd1-9f9660be.md); official file https://www.senat.ro/legis/PDF/2026/26L415XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (SX1): [sx1-3d183e10.md](sx1-3d183e10.md); official file https://www.senat.ro/legis/PDF/2026/26L415SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (DX1): [dx1-79dcd364.md](dx1-79dcd364.md); official file https://www.senat.ro/legis/PDF/2026/26L415DX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (XXS1): [xxs1-bf207668.md](xxs1-bf207668.md); official file https://www.senat.ro/legis/PDF/2026/26L415XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (PX1): [px1-51b5d581.md](px1-51b5d581.md); official file https://www.senat.ro/legis/PDF/2026/26L415PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-05: Document (SC): [sc-54d20398.md](sc-54d20398.md); official file https://www.senat.ro/legis/PDF/2026/26L415SC.PDF (its day is not given by the bill file: shown from the last stage held)
