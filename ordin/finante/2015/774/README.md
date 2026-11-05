@@ -2,7 +2,7 @@
 
 Ordin finante nr. 774/2015 · 1 versions, from 2015-07-07 (latest in force: 2015-07-07) · <https://legislatie.just.ro/Public/DetaliiDocument/169518>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 9* ┌──────────────────────────────────────────┐ │ORDIN DE PLATĂ LOTERIA BONURILOR FISCALE │ └──────────────────────────────────────────┘ ┌────────┐ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 9*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-finante-774-2015` (tags `ordin-finante-774-2015/<day>`; `python t
 - Ordin finante nr. 774/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 774/2015: the first version is the order as published in Monitorul Oficial nr. 500 of 7 July 2015 (document 169518 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 774/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 774/2015: Anexa nr. 1 (*Font 9* ┌──────────────────────────────────────────┐ │ORDIN DE PLATĂ LOTERIA BONURILOR FISCALE │ └──────────────────────────────────────────┘ ┌────────┐ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 774/2015: Anexa nr. 1 (*Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

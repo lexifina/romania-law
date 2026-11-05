@@ -61,6 +61,21 @@
      "sha256": "c2af42c28f5d90c9573296c334a3443675deacf5193e8e318abb247d718a0fbc"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-171-2011",
+   "path": "instructiuni/interne/2011/171",
+   "short": "Instrucțiuni interne nr. 171/2011",
+   "title": "Instrucțiunile nr. 171/2011 privind investigarea evenimentelor de navigație produse cu nave, ambarcațiuni sau mijloace plutitoare aparținând Ministerului Administrației și Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131181",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131181",
+     "sha256": "bbcd3c2fd95a1c948d0ed23c8465c33a3c5213e3082283d3b56c89b0ac03ef80"
+    }
+   ]
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 7/2011 · 1 versions, from 2011-08-18 (latest in force: 2011-08-18) · <https://legislatie.just.ro/Public/DetaliiDocument/130872>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1307 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,5 @@ Act id: `ordin-bnr-7-2011` (tags `ordin-bnr-7-2011/<day>`; `python tools/on.py <
 - Ordin bnr nr. 7/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin bnr nr. 7/2011: the first version is the order as published in Monitorul Oficial nr. 585 of 18 August 2011 (document 130872 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin bnr nr. 7/2011: the signatures and the place and date line after its last article are not article text.
+- Ordin bnr nr. 7/2011: the official text prints 1307 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin bnr nr. 7/2011: the publisher's notes run into its text (*) Se completează doar de către instituţiile de credit.; **) Pentru statutul de «persoane juridice afiliate» se vor avea în vedere prevederile art. 7 pct. 21 din Legea nr. 571/2; ***) Cheltuielile de inovare se determină potrivit Regulamentului (CE) nr. 1.450/2004 al Comisiei din 13 august 2004 de ; ****) Se va completa cu cheltuielile efectuate pentru activitatea de cercetare-dezvoltare, respectiv cercetarea fundamen) are not text.

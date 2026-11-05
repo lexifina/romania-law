@@ -2,7 +2,7 @@
 
 Norma asf nr. 9/2019 · 1 versions, from 2019-04-24 (latest in force: 2019-04-24) · <https://legislatie.just.ro/Public/DetaliiDocument/213280>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (nr. D2 la normă...): its text could not yet be split into provisions without losing or adding words; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (nr. D2 la normă...): its text could not yet be split into provisions without losing or adding words; text printed after its signature (117 words, likely an annex or a table) is not included; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,5 @@ Act id: `norma-asf-9-2019` (tags `norma-asf-9-2019/<day>`; `python tools/on.py <
 - Norma asf nr. 9/2019: the first version is the norm as published in Monitorul Oficial nr. 322 of 24 April 2019 (document 213280 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma asf nr. 9/2019: the signatures and the place and date line after its last article are not article text.
 - Norma asf nr. 9/2019: Anexa nr. 1 (nr. D2 la normă...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+- Norma asf nr. 9/2019: the official text prints 117 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Norma asf nr. 9/2019: the publisher's note "*) Anexa nr. A1 este reprodusă în facsimil." sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.

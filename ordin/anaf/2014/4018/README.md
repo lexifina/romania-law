@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 4018/2014 · 1 versions, from 2014-12-29 (latest in force: 2014-12-29) · <https://legislatie.just.ro/Public/DetaliiDocument/164212>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE PRIVIND DESTINAȚIA SUMEI REPREZENTÂND ┌─────────────┐ PÂNĂ LA 2% DIN IMPOZITUL ANUAL PE VENITURILE │ SIGLA │ DIN SALARII ȘI ASIMILATE SALARIILOR 230 │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE PRIVIND DESTINAȚIA SUMEI REPREZENTÂND): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,4 @@ Act id: `ordin-anaf-4018-2014` (tags `ordin-anaf-4018-2014/<day>`; `python tools
 - Ordin anaf nr. 4018/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 4018/2014: the first version is the order as published in Monitorul Oficial nr. 952 of 29 December 2014 (document 164212 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 4018/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 4018/2014: Anexa nr. 1 (1 CERERE PRIVIND DESTINAȚIA SUMEI REPREZENTÂND ┌─────────────┐ PÂNĂ LA 2% DIN IMPOZITUL ANUAL PE VENITURILE │ SIGLA │ DIN SALARII ȘI ASIMILATE SALARIILOR 230 │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 4018/2014: Anexa nr. 1 (1 CERERE PRIVIND DESTINAȚIA SUMEI REPREZENTÂND) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

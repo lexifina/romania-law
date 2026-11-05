@@ -2,7 +2,7 @@
 
 Ordin finante nr. 546/2005 · 1 versions, from 2005-05-17 (latest in force: 2005-05-17) · <https://legislatie.just.ro/Public/DetaliiDocument/61695>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I ┌─────────────┬────────────────────────────────────────────┬───────────────────┐ │ │ FIȘA FISCALĂ │ │ │ │ privind impozitul pe veniturile din salarii│ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,4 +32,4 @@ Act id: `ordin-finante-546-2005` (tags `ordin-finante-546-2005/<day>`; `python t
 - Ordin finante nr. 546/2005: Anexa nr. 2 (III PROCEDURA de depunere a fisei fiscale 1. Fișele fiscale se depun de către angajatori la unitatea fiscală în a carei raza teritorială aceștia își au domiciliul fiscal sau sunt luati în evidenta fis) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 61695 of the official web service.
 - Ordin finante nr. 546/2005: Anexa nr. 3 (IV Informațiile din fișele fiscale pot fi transmise fie: a) în fisier format text ASCII, în care fiecare înregistrare (linie) se termina cu "carriage return" și "linefeed".... Nu se admit în cadrul în) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 61695 of the official web service.
 - Ordin finante nr. 546/2005: Anexa nr. 4 (V CARACTERISTICILE DE TIPĂRIRE, MODUL DE DIFUZARE, DE UTILIZARE Sl PĂSTRARE A FISEI FISCALE Denumirea formularului: Fișa fiscală privind impozitul pe veniturile din salarii Cod: 14.13.01.13/1 Format:) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 61695 of the official web service.
-- Ordin finante nr. 546/2005: Anexa nr. 1 (I ┌─────────────┬────────────────────────────────────────────┬───────────────────┐ │ │ FIȘA FISCALĂ │ │ │ │ privind impozitul pe veniturile din salarii│ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 546/2005: Anexa nr. 1 (I) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

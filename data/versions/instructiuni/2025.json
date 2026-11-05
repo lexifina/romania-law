@@ -3,6 +3,21 @@
  "shard": "instructiuni/2025",
  "acts": [
   {
+   "slug": "instructiuni-interne-112-2025",
+   "path": "instructiuni/interne/2025/112",
+   "short": "Instrucțiuni interne nr. 112/2025",
+   "title": "Instrucțiunile nr. 112/2025 privind măsurile de natură organizatorică și tehnică pentru asigurarea securității prelucrărilor de date cu caracter personal efectuate de către structurile/unitățile/instituțiile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301200",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301200",
+     "sha256": "c024516aaf0c3a1c5440a8faaeff59abb828e776070444163315c76b6e345aed"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-sanatate-1452-2025",
    "path": "instructiuni/sanatate/2025/1452",
    "short": "Instrucțiuni sanatate nr. 1452/2025",

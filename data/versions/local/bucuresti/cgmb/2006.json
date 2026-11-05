@@ -5101,6 +5101,21 @@
      "sha256": "38a0b4b2ab0b472835a40316c7f94264389242f2abc74ab03dc23ce577bb66fd"
     }
    ]
+  },
+  {
+   "slug": "hcgmb-99-2006",
+   "path": "local/bucuresti/cgmb/2006/99",
+   "short": "HCGMB nr. 99/2006",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2006",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/17048",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2006/17048/h099_06.pdf",
+     "sha256": "7f1729665b84fd0f37652c2b5f639f02152496bce647024f1e09e829af07b827"
+    }
+   ]
   }
  ]
 }

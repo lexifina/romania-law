@@ -2,7 +2,7 @@
 
 Norma asf nr. 26/2014 · 1 versions, from 2015-04-01 (latest in force: 2015-04-01) · <https://legislatie.just.ro/Public/DetaliiDocument/164143>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 NOTIFICARE ┌────────────────────────────────────────────────────────────────────────────┐ │ Subsemnatul,..../(numele și prenumele)........, posesor al BI/CI ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 NOTIFICARE): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,4 +43,4 @@ Act id: `norma-asf-26-2014` (tags `norma-asf-26-2014/<day>`; `python tools/on.py
 - Norma asf nr. 26/2014: the signatures and the place and date line after its last article are not article text.
 - Norma asf nr. 26/2014: Anexa nr. 2 (2 FORMULA DE CALCUL PENTRU VALOAREA GARANTATĂ t t t G(t) = GT(0) * \'f0 e^-r(c)[h] + Σ (C(h)(1-e(h)) * \'f0 e^-r(c)[j]) h=0 h=1 j=h unde: GT(0) = valoarea garantată calculată de administratorul anteri) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 164143 of the official web service.
 - Norma asf nr. 26/2014: Anexa nr. 3 (3 FORMULA DE CALCUL PENTRU VALOAREA TRANSFERATĂ NETĂ Penalitatea de transfer se aplică valorii de numerar ce urmează a fi transferată în numele participantului. Valoarea ce urmează a fi transferată re) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 164143 of the official web service.
-- Norma asf nr. 26/2014: Anexa nr. 1 (1 NOTIFICARE ┌────────────────────────────────────────────────────────────────────────────┐ │ Subsemnatul,..../(numele și prenumele)........, posesor al BI/CI ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 26/2014: Anexa nr. 1 (1 NOTIFICARE) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

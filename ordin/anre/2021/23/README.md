@@ -2,7 +2,7 @@
 
 Ordin anre nr. 23/2021 · 1 versions, from 2021-04-06 (latest in force: 2021-04-06) · <https://legislatie.just.ro/Public/DetaliiDocument/240702>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (600 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -49,3 +49,4 @@ Act id: `ordin-anre-23-2021` (tags `ordin-anre-23-2021/<day>`; `python tools/on.
 - Ordin anre nr. 23/2021: Anexa nr. 8 ((Anexa nr. 8 la regulament) MODEL DE AUTORIZAȚIE În baza Regulamentului pentru autorizarea persoanelor juridice care desfășoară activități de montare și exploatare a sistemelor de repartizare a costur) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 240702 of the official web service.
 - Ordin anre nr. 23/2021: Anexa nr. 9 ((Anexa nr. 10 la regulament) CERERE de eliberare a unui duplicat Subsemnatul................................ (numele și prenumele), în calitate de reprezentant legal al societății.....................) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 240702 of the official web service.
 - Ordin anre nr. 23/2021: Anexa nr. 10 ((Anexa nr. 11 la regulament) Model Machete pentru raportarea anuală Raport anul......... 1. Titularii autorizațiilor de montare a sistemelor de repartizare a costurilor pentru încălzire și/sau apă cal) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 240702 of the official web service.
+- Ordin anre nr. 23/2021: the official text prints 600 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

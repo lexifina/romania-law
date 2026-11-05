@@ -2,7 +2,7 @@
 
 Ordin anre nr. 8/2002 · 1 versions, from 2002-04-10 (latest in force: 2002-04-10) · <https://legislatie.just.ro/Public/DetaliiDocument/34899>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (2a) TARIFE MEDII pentru activitățile de transport și distribuție a energiei electrice Valabile după 5 zile de la data publicării ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (2a) TARIFE MEDII pentru activitățile de transport și distribuție a energiei electrice Valabile după 5 zile de la data publicării): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,5 +55,5 @@ Act id: `ordin-anre-8-2002` (tags `ordin-anre-8-2002/<day>`; `python tools/on.py
 - Ordin anre nr. 8/2002: Anexa nr. 7 (3.1 ZONELE ORARE utilizate la tariful A33 Luna Ore de vârf Ore de gol Ore normale Ianuarie zile lucrătoare 8,00-10,00 17,00-22,00 0,00-6,00 10,00-17,00; 22,00-0,00; 6,00-8,00 sâmbăta și duminica - - 2) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 34899 of the official web service.
 - Ordin anre nr. 8/2002: Anexa nr. 8 (3.2 ZONELE ORARE utilizate la tarifele A și B Luna Ore de vârf de seară Restul orelor Ianuarie 17,00-22,00 22,00-17,00 Februarie 17,00-22,00 22,00-17,00 Martie 18,00-22,00 22,00-18,00 Aprilie 19,00-22) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 34899 of the official web service.
 - Ordin anre nr. 8/2002: Anexa nr. 9 (3.3 ZONELE ORARE utilizate pentru tarifele CA3 și CP3 Sezon Ore de vârf Ore de gol Ore normale Vară 8,00-9,00 0,00-8,00 21,00-0,00 vineri, ora 21,00 până luni, ora 8,00 9,00-21,00 Iarnă 8,00-10,00 0,0) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 34899 of the official web service.
-- Ordin anre nr. 8/2002: Anexa nr. 5 (2a) TARIFE MEDII pentru activitățile de transport și distribuție a energiei electrice Valabile după 5 zile de la data publicării ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 8/2002: Anexa nr. 5 (2a) TARIFE MEDII pentru activitățile de transport și distribuție a energiei electrice Valabile după 5 zile de la data publicării) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 8/2002: the publisher's notes run into its text (*) Inclusiv pentru dispecerizarea SEN.; *) Preţurile pentru energia electrica reactiva se aplică consumatorilor agenţi economici cu factor de putere mediu lunar; *) Se aplica şi consumului înregistrat în perioada vineri, ora 20,00 - luni, ora 6,00.; *) Tarif mediu.; **) Tariful pentru transportul energiei electrice între doua zone este suma dintre componentele C1 a zonei în care se in) are not text.

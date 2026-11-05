@@ -2,7 +2,7 @@
 
 Regulament asf nr. 8/2022 · 1 versions, from 2022-05-02 (latest in force: 2022-05-02) · <https://legislatie.just.ro/Public/DetaliiDocument/254562>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (GHID cu privire la anumite aspecte ale cerințelor MiFID II privind funcția de asigurare a conformității I. Domeniu de aplicare Cui i se aplică? 1. Prezentul ...): its text could not yet be split into provisions without losing or adding words.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (GHID cu privire la anumite aspecte ale cerințelor MiFID II privind funcția de asigurare a conformității I. Domeniu de aplicare Cui i se aplică? 1. Prezentul ...): its text could not yet be split into provisions without losing or adding words; text printed after its signature (357 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,3 +20,4 @@ Act id: `regulament-asf-8-2022` (tags `regulament-asf-8-2022/<day>`; `python too
 - Regulament asf nr. 8/2022: the signatures and the place and date line after its last article are not article text.
 - Regulament asf nr. 8/2022: Anexa nr. 1 (PAGINA 1/1 OPIS DOCUMENTE PENTRU AUTORIZAREA MODIFICĂRILOR ÎN MODUL DE ORGANIZARE ȘI FUNCȚIONARE AL SOCIETĂȚII DE SERVICII DE INVESTIȚII FINANCIARE....................................^1 ^1 Se va compl) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 254562 of the official web service.
 - Regulament asf nr. 8/2022: Anexa nr. 2 (GHID cu privire la anumite aspecte ale cerințelor MiFID II privind funcția de asigurare a conformității I. Domeniu de aplicare Cui i se aplică? 1. Prezentul ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+- Regulament asf nr. 8/2022: the official text prints 357 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-7-2000",
+   "path": "norma/bnr/2000/7",
+   "short": "Norma bnr nr. 7/2000",
+   "title": "Norma nr. 7/2000 privind autorizarea organizațiilor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27442",
+   "versions": [
+    {
+     "from": "2000-09-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27442",
+     "sha256": "a862f2f6b5dc765ed58b70c807a74efd3fa09c0d34ce74abbd4af40250b5ddba"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-8-2000",
    "path": "norma/bnr/2000/8",
    "short": "Norma bnr nr. 8/2000",

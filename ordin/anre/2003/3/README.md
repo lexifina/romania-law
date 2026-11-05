@@ -2,7 +2,7 @@
 
 Ordin anre nr. 3/2003 · 1 versions, from 2003-03-10 (latest in force: 2003-03-10) · <https://legislatie.just.ro/Public/DetaliiDocument/42233>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (693 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,5 @@ Act id: `ordin-anre-3-2003` (tags `ordin-anre-3-2003/<day>`; `python tools/on.py
 - Ordin anre nr. 3/2003: the first version is the order as published in Monitorul Oficial nr. 153 of 10 March 2003 (document 42233 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 3/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 3/2003: Anexa nr. 1 (2 CONTRIBUȚIILE pe anul 2003 ale agenților economici a căror activitate, potrivit legii, se afla în competența de reglementare a Autorității Naționale de Reglementare în Domeniul Energiei 1. Contribuț) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 42233 of the official web service.
+- Ordin anre nr. 3/2003: the official text prints 693 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin anre nr. 3/2003: the publisher's notes run into its text (*) valoarea se diminuează de 5 ori pentru capacitatile şi instalaţiile existente în funcţiune la data intrării în vigoar; **) putere maxima absorbită de către consumatori conform contractelor de furnizare pe anul 2002; ***) putere maxima de contract pe anul anterior; ****) reprezintă suma fixa, achitată la momentul depunerii cererii de acreditare) are not text.

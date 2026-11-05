@@ -3,6 +3,261 @@
  "shard": "local/bucuresti/cgmb/2004",
  "acts": [
   {
+   "slug": "hcgmb-1-2004",
+   "path": "local/bucuresti/cgmb/2004/1",
+   "short": "HCGMB nr. 1/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11609",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11609/h01_04.pdf",
+     "sha256": "b9406bfae0b1a7bf38914119ad729aa668236ffd7cad4af5b93af0cd2f16a597"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2004",
+   "path": "local/bucuresti/cgmb/2004/10",
+   "short": "HCGMB nr. 10/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2004 PRIVIND TRANSMITEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 2 A SPATIULUI SITUAT IN B-DUL BASARABIEI NR.170-176 SI A TERENULUI AFERENT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11602",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11602/h010_04.pdf",
+     "sha256": "aaf515e163752dd51a72a9f1048f4504c91cf069826023a998e92117b2cdabc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2004",
+   "path": "local/bucuresti/cgmb/2004/100",
+   "short": "HCGMB nr. 100/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2004 PRIVIND VALIDAREA MANDATELOR CONSILIERILOR GENERALI AI CONSILIULUI GENERAL AL MUN.BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12790",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12790/H100_04.pdf",
+     "sha256": "0a59d4b1b5f26a7074c6bdc6a8df84a21ee20503cbd98827bb249b17f830d476"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2004",
+   "path": "local/bucuresti/cgmb/2004/101",
+   "short": "HCGMB nr. 101/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2004 PRIVIND CONSTITUIREA LEGALA A C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12791",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12791/h0101_04.pdf",
+     "sha256": "ff0067e2754d0e200d32ba64f012bfab0a333d59e1cc0a51ac97cf15d8376bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2004",
+   "path": "local/bucuresti/cgmb/2004/102",
+   "short": "HCGMB nr. 102/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2004 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12792",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12792/h0102_04.pdf",
+     "sha256": "632363932db8af36837cd8febf4c2db1e43cfb29104290b4933bcd19770c964f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2004",
+   "path": "local/bucuresti/cgmb/2004/103",
+   "short": "HCGMB nr. 103/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2004 PRIVIND ALEGEREA VICEPRIMARILOR MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12793",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12793/h0103_04.pdf",
+     "sha256": "3cfcd152a171c4e3555372dc3a1e978007b6e11309971ca6021c2e78876aecfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2004",
+   "path": "local/bucuresti/cgmb/2004/104",
+   "short": "HCGMB nr. 104/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2004 PRIVIND VALIDAREA A DOUA MANDATE DE CONSILIERI GENERALI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12794",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12794/h0104_04.pdf",
+     "sha256": "e5f661743e882663ea15169a56475c96ae17e0fe0ce4b043dcb3134d1b16cc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2004",
+   "path": "local/bucuresti/cgmb/2004/105",
+   "short": "HCGMB nr. 105/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2004 PRIVIND CONSTITUIREA COMISIILOR DE SPECIALITATE ALE CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12801",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12801/h0105_04.pdf",
+     "sha256": "1f8cf8372aa178185f682beb015bb829504cf797f52a9cc1315e2081a1da7638"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2004",
+   "path": "local/bucuresti/cgmb/2004/106",
+   "short": "HCGMB nr. 106/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2004 PRIVIND REGLEMENTAREA CIRCULATIEI PE TIMP DE VARA A AUTOVEHICULELOR GRELE SI A UTILAJELOR IN MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12838",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12838/h0106_04.pdf",
+     "sha256": "c6e33a3bc7ff3e414c52d8bc43ebea84cfc2feb7ee0c63b40d840b656c55f27f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2004",
+   "path": "local/bucuresti/cgmb/2004/107",
+   "short": "HCGMB nr. 107/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12839",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12839/h0107_04.pdf",
+     "sha256": "3981ca19d744cb8be0fc5f5865a4edf5f1b0b96410d37335f223b5e41b287c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2004",
+   "path": "local/bucuresti/cgmb/2004/108",
+   "short": "HCGMB nr. 108/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12879",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12879/h0108_04.pdf",
+     "sha256": "9c7b9caa6b6ff0eaa4408a4e308bf684848d7c277b0208406cd0c23032fd5163"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-2004",
+   "path": "local/bucuresti/cgmb/2004/109",
+   "short": "HCGMB nr. 109/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2004 PRIVIND APROBAREA UNOR MASURI DE PROTECTIE A MEDIULUI SI A INFRASTRUCTURII URBANE IN MUN. BUCURESTI SE ABROGA PRIN HCGMB NR. 120/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12840",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12840/h0109_04.pdf",
+     "sha256": "a77c7fc1017b958f02541ed7399e14e72f3c065251af6a400fe7e74df46403e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2004",
+   "path": "local/bucuresti/cgmb/2004/11",
+   "short": "HCGMB nr. 11/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2004 PRIVIND MODIFICAREA HOTARARII CGMB NR.257/2003, REFERITOARE LA IMPUTERNICIREA COMISIEI PENTRU APLICAREA LEGII NR.550/2002 LA NIVELUL MUNICIPIULUI BUCURESTI SA ANALIZEZE SITUATIILE DEOSEBITE APARUTE LA SECTOARELE MUNICIPIULUI BUCURESTI IN APLICAREA LEGII NR.550/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11603",
+   "versions": [
+    {
+     "from": "2004-02-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11603/h011_04.pdf",
+     "sha256": "3f71c23a41f1acb556b4d1af06baba4119faa3854b156137f0361bb208d5f7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2004",
+   "path": "local/bucuresti/cgmb/2004/110",
+   "short": "HCGMB nr. 110/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2004 PRIVIND APROBAREA PROIECTULUI DE INVESTITII \"PARCAJ SUBTERAN PARKING NORD\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12835",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12835/h0110_04.pdf",
+     "sha256": "722e813b5dd2babf08c99a6d473f8d9e1078c7b6707325a6ac9d4a0f4aa49e90"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2004",
+   "path": "local/bucuresti/cgmb/2004/111",
+   "short": "HCGMB nr. 111/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2004 PRIVIND APROBAREA PROIECTULUI DE INVESTITII \"MODERNIZAREA VAGOANELOR DE TRAMVAI T4R\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12836",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12836/h0111_04.pdf",
+     "sha256": "889608c2a9263bec296532e930ba20a643cf52a974fc8e7b624dacb5bef67b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2004",
+   "path": "local/bucuresti/cgmb/2004/112",
+   "short": "HCGMB nr. 112/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2004 PRIVIND APROBAREA PROIECTULUI DE INVESTITII \"REABILITAREA DRUMURILOR URBANE-BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12837",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12837/h0112_04.pdf",
+     "sha256": "9f2a85d8e96e22fad7f25798425c3c87f4098d2081eadf3ca159209dad4d3eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2004",
+   "path": "local/bucuresti/cgmb/2004/113",
+   "short": "HCGMB nr. 113/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2004 PRIVIND ADOPTAREA UNOR MASURI PENTRU IMBUNATATIREA CLIMATULUI DE VIATA IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12841",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12841/h0113_04.pdf",
+     "sha256": "e10fdd3f798584b5930ad9e1d08db24025ff96c94fe89b9a939fd022a40d38e9"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-114-2004",
    "path": "local/bucuresti/cgmb/2004/114",
    "short": "HCGMB nr. 114/2004",
@@ -14,6 +269,21 @@
      "units": 10,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12842/h0114_04.pdf",
      "sha256": "978a6cc3dae7ba15b9448a2fc2dd0b9d5d91732ce2d15bb3d89e1ea76b1041c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2004",
+   "path": "local/bucuresti/cgmb/2004/115",
+   "short": "HCGMB nr. 115/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12843",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12843/h0115_04.pdf",
+     "sha256": "fa289e97710af2fdebdfb33cf6c63de2b2e6efa7e9be573f68446980c8e04ed8"
     }
    ]
   },
@@ -33,6 +303,186 @@
    ]
   },
   {
+   "slug": "hcgmb-117-2004",
+   "path": "local/bucuresti/cgmb/2004/117",
+   "short": "HCGMB nr. 117/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12857",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12857/h0117_04.pdf",
+     "sha256": "a7d82541dc2302fdde1571f020acd17e221327a6b4b6c9d1147499e64b848da1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2004",
+   "path": "local/bucuresti/cgmb/2004/118",
+   "short": "HCGMB nr. 118/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12859",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12859/h0118_04.pdf",
+     "sha256": "b05a26f3710569640487cc728eca56b9f394e5fe84eb0a378252179f61539f0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2004",
+   "path": "local/bucuresti/cgmb/2004/119",
+   "short": "HCGMB nr. 119/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12844",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12844/h0119_04.pdf",
+     "sha256": "26e869188aab6ea77175e75930c6ab6ce702abb24a66925c1f042efa778619eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2004",
+   "path": "local/bucuresti/cgmb/2004/12",
+   "short": "HCGMB nr. 12/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2004 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL ADMINISTRATIEI GRADINA ZOOLOGICA BUCURESTI SI DE ORGANIZARE SI DESFASURARE A CONCURSULUI DE OCUPARE A FUNCTIEI DE DIRECTOR SI DIRECTOR ADJUNCT LA ACEASTA INSTITUTIE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11610",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11610/h012_04.pdf",
+     "sha256": "60f575886f76bd0c9f8fe88e60114474037b5f3f4c400a7862bcd74bbf1ca78c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2004",
+   "path": "local/bucuresti/cgmb/2004/120",
+   "short": "HCGMB nr. 120/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12845",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12845/h0120_04.pdf",
+     "sha256": "85c4b3ae6bef45d8f267c9730e8c4bf27a2a6c5736979ed8e8797189284085b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2004",
+   "path": "local/bucuresti/cgmb/2004/121",
+   "short": "HCGMB nr. 121/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12846",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12846/h0121_04.pdf",
+     "sha256": "7d00256c02178219d51df6ec56b7827db6711c9256ba7c5a4868e2f0de7868af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2004",
+   "path": "local/bucuresti/cgmb/2004/122",
+   "short": "HCGMB nr. 122/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2004 PRIVIND ELABORAREA PLANULUI STRATEGIC DE DEZVOLTARE A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12847",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12847/h0122_04.pdf",
+     "sha256": "ed119fe0be14029deb9d4775c0ed9256a7ad4eb7cd16b0c1ea248754c2fcb952"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2004",
+   "path": "local/bucuresti/cgmb/2004/123",
+   "short": "HCGMB nr. 123/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2004 PRIVIND DESEMNAREA A SASE CONSILIERI GENERALI CA MEMBRI AI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI SE MODIFICA PRIN HCGMB NR. 182/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12848",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12848/h0123_04.pdf",
+     "sha256": "d6f10726f05775fac2c1cbebfd72de1e6016743793cdcdd5e980f812abce0d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2004",
+   "path": "local/bucuresti/cgmb/2004/124",
+   "short": "HCGMB nr. 124/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12849",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12849/h0124_04.pdf",
+     "sha256": "4cf6b56e8d849ec83ecf67c89b5aafc0fed1e857573e5e18b0a5c515a89485c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2004",
+   "path": "local/bucuresti/cgmb/2004/125",
+   "short": "HCGMB nr. 125/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12850",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12850/h0125_04.pdf",
+     "sha256": "df068bed193c8e077e551eee34ef122f210d3d8eefa6f6aaacdd785954adc295"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2004",
+   "path": "local/bucuresti/cgmb/2004/126",
+   "short": "HCGMB nr. 126/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2004 PRIVIND \"CONDITIILE DE REFACERE A SISTEMULUI RUTIER SI PIETONAL DE PE TERITORIUL MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12851",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12851/h0126_04.pdf",
+     "sha256": "ff42856a95a16246bb7999fb173821f6a0c41d4e3e5cf88c4d5a2e830171ae1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2004",
+   "path": "local/bucuresti/cgmb/2004/127",
+   "short": "HCGMB nr. 127/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2004 PRIVIND REORGANIZAREA ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13012",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13012/h0127_04.pdf",
+     "sha256": "7009dfee1cc8151e9df8d5e7b9e28d6605b019f33b6d0ced2bfc6248ebca838f"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-128-2004",
    "path": "local/bucuresti/cgmb/2004/128",
    "short": "HCGMB nr. 128/2004",
@@ -44,6 +494,21 @@
      "units": 5,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13013/h0128_04.pdf",
      "sha256": "5a70e7a9bceea787fc05984fd559c953c5ab67f9e41385addebf2548454bf016"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2004",
+   "path": "local/bucuresti/cgmb/2004/129",
+   "short": "HCGMB nr. 129/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2004 PRIVIND RECTIFICAREA BUGETULUI CGMB PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13014",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13014/h0129_04.pdf",
+     "sha256": "65e418ffc446e90e5a5b2d07d39f084f6cc4f3d0cff41ddedd805252ace0278a"
     }
    ]
   },
@@ -63,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcgmb-130-2004",
+   "path": "local/bucuresti/cgmb/2004/130",
+   "short": "HCGMB nr. 130/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13015",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13015/h0130_04.pdf",
+     "sha256": "cbc7b01b0991beb55a19b4bcd5dfcadffae87617dffdd757c8a33af3563cfaf8"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-131-2004",
    "path": "local/bucuresti/cgmb/2004/131",
    "short": "HCGMB nr. 131/2004",
@@ -74,6 +554,36 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13016/h0131_04.pdf",
      "sha256": "632e0fb4f79af5e78a4804657a1458402b6ad348aa1224b5e6995e31a52c9a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-2004",
+   "path": "local/bucuresti/cgmb/2004/132",
+   "short": "HCGMB nr. 132/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2004 ABROGATA PRIN HCGMB NR. 313/2008 PRIVIND VALIDAREA MEMBRILOR AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUN. BUCURESTI MODIFICATA PRIN HCGMB NR. 315/2007 SE MODIFICA PRIN HCGMB NR. 182/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13017",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13017/h0132_04.pdf",
+     "sha256": "04fb0e1bbf110270bbfe9798b426dcaa2f6fb0bb79dda1c38b15ba44910987f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2004",
+   "path": "local/bucuresti/cgmb/2004/133",
+   "short": "HCGMB nr. 133/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2004 PRIVIND ADOPTAREA MASURILOR PENTRU REALIZAREA ACTIUNILOR DE EFECTUARE SI PASTRARE A CURATENIEI IN MUN. BUCURESTI SE ABROGA PRIN HCGMB NR. 120/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13018",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13018/h0133_04.pdf",
+     "sha256": "f72deba2b2ccc2ecc39258aa84ea3b7c8897f9c59444fac9ff26699685c0d5fa"
     }
    ]
   },
@@ -93,6 +603,81 @@
    ]
   },
   {
+   "slug": "hcgmb-135-2004",
+   "path": "local/bucuresti/cgmb/2004/135",
+   "short": "HCGMB nr. 135/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13020",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13020/h0135_04.pdf",
+     "sha256": "017e8a828cd6da5fbce37124c06d1aadeab517b9f875948d7c34cc913880ac30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2004",
+   "path": "local/bucuresti/cgmb/2004/136",
+   "short": "HCGMB nr. 136/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2004 PRIVIND CUMPARAREA ACTIVELOR \"SATULUI FRANCEZ\" DIN CADRUL SOCIETATII WORLD TRADE CENTER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13217",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13217/h0136_04.pdf",
+     "sha256": "d9162bcf93947577bb71eb885e87ad3b5529df89309faf25fcf7095b60100721"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2004",
+   "path": "local/bucuresti/cgmb/2004/137",
+   "short": "HCGMB nr. 137/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2004 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI LACURI PARCURI SI AGREMENT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13296",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13296/h0137_04.pdf",
+     "sha256": "a84b6d7aa1df06b1ba0538f03ac05a94bdda84cb62b38d840fca867b66f8b78a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2004",
+   "path": "local/bucuresti/cgmb/2004/138",
+   "short": "HCGMB nr. 138/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13241",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13241/h0138_04.pdf",
+     "sha256": "bb8576505338f3e6e39776d353ccb565a9acde897d053756c952cb0f96021dbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2004",
+   "path": "local/bucuresti/cgmb/2004/139",
+   "short": "HCGMB nr. 139/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13218",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13218/h0139_04.pdf",
+     "sha256": "bc85fff4cc0be14f60c3f2af434797afa883ed20f42509b447cb20b00f8699a9"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-14-2004",
    "path": "local/bucuresti/cgmb/2004/14",
    "short": "HCGMB nr. 14/2004",
@@ -104,6 +689,156 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11605/h014_04.pdf",
      "sha256": "0209b2a1fec7b5386825bc09d02f7f144729c131a0ab667146ae33fb6d0f5c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2004",
+   "path": "local/bucuresti/cgmb/2004/140",
+   "short": "HCGMB nr. 140/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13219",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13219/h0140_04.pdf",
+     "sha256": "434adba8f561987b8d687b40a04e3bb11ebdf3579e080ef1a3f2e63d3e67ec53"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2004",
+   "path": "local/bucuresti/cgmb/2004/141",
+   "short": "HCGMB nr. 141/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13220",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13220/h0141_04.pdf",
+     "sha256": "5f05c87baf36ac192b62384abb80a89b9b6b85d28227fd3b88d7383b178200df"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2004",
+   "path": "local/bucuresti/cgmb/2004/142",
+   "short": "HCGMB nr. 142/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13221",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13221/h0142_04.pdf",
+     "sha256": "371b4706cfd0f800f779ebeb6da7b524f5d7491827c138a4475a2737f692b753"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2004",
+   "path": "local/bucuresti/cgmb/2004/143",
+   "short": "HCGMB nr. 143/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13222",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13222/h0143_04.pdf",
+     "sha256": "1cc12cf3c96fabfdfb681d5150538f2e9888556b0508839f6a1bd7d66c82a307"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2004",
+   "path": "local/bucuresti/cgmb/2004/144",
+   "short": "HCGMB nr. 144/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13223",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13223/h0144_04.pdf",
+     "sha256": "1747df4b1bb45070e35d248d82cdb0f147ad4638cf68b432621d2f50d08f72a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2004",
+   "path": "local/bucuresti/cgmb/2004/145",
+   "short": "HCGMB nr. 145/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13224",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13224/h0145_04.pdf",
+     "sha256": "18079d2f8525cf10c14f143317168a14bdd7d9ea2a43cc685dcd5a56d160d0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2004",
+   "path": "local/bucuresti/cgmb/2004/146",
+   "short": "HCGMB nr. 146/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13225",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13225/h0146_04.pdf",
+     "sha256": "7764ed52ab5416a542bcda32bd2adde7c6eb819878ca5a35509d70837b031713"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2004",
+   "path": "local/bucuresti/cgmb/2004/147",
+   "short": "HCGMB nr. 147/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13226",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13226/h0147_04.pdf",
+     "sha256": "1a47f8d80844823fa988a9b4f6a2879a5aa9b0bf798f03163899cf4e548de24a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2004",
+   "path": "local/bucuresti/cgmb/2004/148",
+   "short": "HCGMB nr. 148/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13227",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13227/h0148_04.pdf",
+     "sha256": "715d641f65e24cb5c04cf5c603c657d6b3ac4be7d0c21a3280a97d6a8209d98b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2004",
+   "path": "local/bucuresti/cgmb/2004/149",
+   "short": "HCGMB nr. 149/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13228",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13228/h0149_04.pdf",
+     "sha256": "916e4106f2f206e3dbbf163fb7786b8673f8fe0a22d7bebcd265883ea1b220e8"
     }
    ]
   },
@@ -123,6 +858,156 @@
    ]
   },
   {
+   "slug": "hcgmb-150-2004",
+   "path": "local/bucuresti/cgmb/2004/150",
+   "short": "HCGMB nr. 150/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13229",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13229/h0150_04.pdf",
+     "sha256": "8361ce76e1df1377fbbaefd4b61961dbe035b600505c056e7f68d7ffa7dc21e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2004",
+   "path": "local/bucuresti/cgmb/2004/151",
+   "short": "HCGMB nr. 151/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13230",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13230/h0151_04.pdf",
+     "sha256": "e9f95657880fda43e764f0bb9f091f7f3804ee1d8931d0b601fd93a739ca63c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2004",
+   "path": "local/bucuresti/cgmb/2004/152",
+   "short": "HCGMB nr. 152/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2004 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR A UNOR SUME DE LA BUGETUL DE STAT PENTRU FINANTAREA CHELTUIELILOR DE PERSONAL LA INSTITUTIILE DE INVATAMANT PREUNIVERSITAR DE STAT, PENTRU PRODUSE LACTATE SI DE PANIFICATIE PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13231",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13231/h0152_04.pdf",
+     "sha256": "dc113722a0f47747f5cb2bcd1e6c79aa985612a1c64d9e2f36d345a2ecec9764"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2004",
+   "path": "local/bucuresti/cgmb/2004/153",
+   "short": "HCGMB nr. 153/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2004 PRIVIND SUPLIMENTAREA SI MODIFICAREA REPARTIZARII PE BUGETELE COMPONENTE ALE BUGETULUI MUN. BUCURESTI A SUMELOR DE LA BUGETUL DE STAT PENTRU PROTECTIA SOCIALA PRIVIND ASIGURAREA AJUTORULUI SOCIAL, AJUTORULUI PENTRU INCALZIREA LOCUINTEI SI SUSTINEREA SISTEMULUI DE PROTECTIE A PERSOANELOR CU HANDICAP, PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13232",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13232/h0153_04.pdf",
+     "sha256": "6fa67e49e0c46791fe2f86a76177fabacc716cb5636511023098cd08106d195f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2004",
+   "path": "local/bucuresti/cgmb/2004/154",
+   "short": "HCGMB nr. 154/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2004 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR A UNOR SUME DE LA BUGETUL DE STAT PENTRU FINANTAREA CHELTUIELILOR DE PERSONAL LA INSTITUTIILE DE INVATAMANT PREUNIVERSITAR DE STAT PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13233",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13233/h0154_04.pdf",
+     "sha256": "2c8180b372f3dc81d9938e6dc8eefbb1d97075970b012b4bf88942f215e74a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2004",
+   "path": "local/bucuresti/cgmb/2004/155",
+   "short": "HCGMB nr. 155/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2004 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESTITII \"REDUCEREA PIERDERILOR DE CALDURA PE MAGISTRALELE DE TERMOFICARE POZATE SUPRATERAN REFACEREA IZOLATIEI PE MAGISTRALA I VEST\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13234",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13234/h0155_04.pdf",
+     "sha256": "e42e68305586d45a9051f36b8d84ad800a9170370aebc43bd4a6b0eb6bdbba23"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2004",
+   "path": "local/bucuresti/cgmb/2004/156",
+   "short": "HCGMB nr. 156/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2004 PRIVIND COLABORAREA INTRE PAROHIA STAVROPOLEOS SI ADMINISTRATIA MONUMENTELOR SI PATRIMONIULUI TURISTIC IN SCOPUL DERULARII PROIECTULUI CONSERVARE SI RESTAURARE A PICTURILOR MURALE EXTERIOARE DE LA BISERICA STAVROPOLEOS DIN MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13235",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13235/h0156_04.pdf",
+     "sha256": "97ad8d4e992a7d93c45e81bf3fdf68afd4941d9fce587592a8f5b986cb569aed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2004",
+   "path": "local/bucuresti/cgmb/2004/157",
+   "short": "HCGMB nr. 157/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13236",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13236/h0157_04.pdf",
+     "sha256": "c19e2f1376f767f609eb3e05981ac51155af54eca546310dbbad3565d6489f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2004",
+   "path": "local/bucuresti/cgmb/2004/158",
+   "short": "HCGMB nr. 158/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13237",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13237/h0158_04.pdf",
+     "sha256": "584a5b0638473fd4350f23abf49d32985311e1c6b54060b4ee8a6808ad58dd73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2004",
+   "path": "local/bucuresti/cgmb/2004/159",
+   "short": "HCGMB nr. 159/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2004 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"EXTINDERE RETELE PUBLICE DE TRANSPORT APA POTABILA (ARTERE) IN ZONA DE NORD A MUN. BUCURESTI, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13238",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13238/h0159_04.pdf",
+     "sha256": "622ba9498afd5d38f8e020605e7004d178f61c6d085b7afafab90aaa1d559c5d"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-16-2004",
    "path": "local/bucuresti/cgmb/2004/16",
    "short": "HCGMB nr. 16/2004",
@@ -134,6 +1019,66 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11607/h016_04.pdf",
      "sha256": "3b270702e79e03017453be68714bcf225a921d98f7c83298f378767d4778fe86"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2004",
+   "path": "local/bucuresti/cgmb/2004/160",
+   "short": "HCGMB nr. 160/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2004 PRIVIND APROBAREA PROIECTULUI DE INVESTITII \"PASAJ RUTIER DENIVELAT SUPERIOR BASARAB\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13239",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13239/h0160_04.pdf",
+     "sha256": "7a399e0962015b3a37f3aeaedf5102816dc26c6edaa8d31567ff2b187e0c5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2004",
+   "path": "local/bucuresti/cgmb/2004/161",
+   "short": "HCGMB nr. 161/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2004 PRIVIND APROBAREA EMITERII DE OBLIGATIUNI MUNICIPALE PE PIATA INTERNATIONALA DE CAPITAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13240",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13240/h0161_04.pdf",
+     "sha256": "0e457d2c9f75d05442cfbe5ffe6ce8889d458aa63d83e2a396c92ba32bb6b267"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2004",
+   "path": "local/bucuresti/cgmb/2004/162",
+   "short": "HCGMB nr. 162/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2004 PRIVIND EXTINDEREA TERMENULUI DE IMPLEMENTARE A PROIECTULUI \"INFRASTRUCTURA URBANA IN BUCURESTI\" SI REALOCAREA SUMELOR NEANGAJATE PROVENITE DIN ECONOMII, LA SUBPROIECTUL \"REABILITAREA DRUMURILOR URBANE - BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13319",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13319/h0162_04.pdf",
+     "sha256": "e9e798c342cea4ad9dfcde6e93ae5548e0a20cde1aa2cd750f4cca450835a009"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2004",
+   "path": "local/bucuresti/cgmb/2004/163",
+   "short": "HCGMB nr. 163/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2004 PRIVIND REORGANIZAREA ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR. HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 127/26.08.2004 SE ABROGA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13331",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13331/h0163_04.pdf",
+     "sha256": "b6f42e3a40d9e5d5f4c99bd41ff1ea8633c0c16932ce1b2a4a7498464a037fef"
     }
    ]
   },
@@ -153,6 +1098,51 @@
    ]
   },
   {
+   "slug": "hcgmb-165-2004",
+   "path": "local/bucuresti/cgmb/2004/165",
+   "short": "HCGMB nr. 165/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2004 PRIVIND INFIINTAREA ADMINISTRATIEI SEMAFOARE, MARCAJE RUTIERE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13318",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13318/h0165_04.pdf",
+     "sha256": "5a4c9015a8cf6ff1db18972e93b56cd825dd37ae8195a33eea03989535d0526c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2004",
+   "path": "local/bucuresti/cgmb/2004/166",
+   "short": "HCGMB nr. 166/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2004 PRIVIND REORGANIZAREA ADMINISTRATIEI STRAZILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13312",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13312/h0166_04.pdf",
+     "sha256": "5b3d6a8d171cf7370442793b3cdc4ba2a6a96cc542a89f0b7e5719d7d4d18642"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2004",
+   "path": "local/bucuresti/cgmb/2004/167",
+   "short": "HCGMB nr. 167/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13313",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13313/h0167_04.pdf",
+     "sha256": "729589a740d17be606e95427c60d3736c8229506b4e90178acfb58a990175c4d"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-168-2004",
    "path": "local/bucuresti/cgmb/2004/168",
    "short": "HCGMB nr. 168/2004",
@@ -164,6 +1154,411 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13314/h0168_04.pdf",
      "sha256": "4e38f9e690dfca3daf8bc41f771fa0322f105c742f6b94bbcb6a2145076ac722"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2004",
+   "path": "local/bucuresti/cgmb/2004/169",
+   "short": "HCGMB nr. 169/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2004 PRIVIND APROBAREA PROIECTULUI \"ZONELE CENTRALE SI DE INTERES DIN MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13315",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13315/h0169_04.pdf",
+     "sha256": "77d21acd73014a8fe121be375b127cbcae9adda2aaa5c76f8d0ff68567fde017"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2004",
+   "path": "local/bucuresti/cgmb/2004/17",
+   "short": "HCGMB nr. 17/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2004 PRIVIND VACANTAREA UNUI LOC DE CONSILIER AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11751",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11751/h017_04.pdf",
+     "sha256": "8ac259736c9ecbfa021a762e3214b2cdf47bc269940a5d9afdba9ca5281db5c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2004",
+   "path": "local/bucuresti/cgmb/2004/170",
+   "short": "HCGMB nr. 170/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13316",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13316/h0170_04.pdf",
+     "sha256": "51a0eaaa354a90a0a2bd44e49ab5484ae845fbc819912305cc072853db833a07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2004",
+   "path": "local/bucuresti/cgmb/2004/171",
+   "short": "HCGMB nr. 171/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2004 PRIVIND STUDIUL DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"REABILITAREA SI EXTINDEREA SISTEMULUI DE CANALIZARE IN INCINTA GRADINII ZOOLOGICE A MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13297",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13297/h0171_04.pdf",
+     "sha256": "96d0807da1d6d485f49f84aae4d9fe339789eca6c1ca282a1c8eaa5ed9020275"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2004",
+   "path": "local/bucuresti/cgmb/2004/172",
+   "short": "HCGMB nr. 172/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2004 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"REABILITAREA SI EXTINDEREA SISTEMULUI DE ALIMENTARE CU APA IN INCINTA GRADINII ZOOLOGICE A MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13298",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13298/h0172_04.pdf",
+     "sha256": "a3978824c79e3fd5e9ddd93e0569d8514d6b2f305407832489fdef5a11ce3c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2004",
+   "path": "local/bucuresti/cgmb/2004/173",
+   "short": "HCGMB nr. 173/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2004 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"EXTINDEREA RETELEI DE CANALIZARE IN ZONE DEFICITARE ALE MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13299",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13299/h0173_04.pdf",
+     "sha256": "424ee79840b414b2c88066e415da9d4db013fb256db92d5ccf3e3925dc8da4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2004",
+   "path": "local/bucuresti/cgmb/2004/174",
+   "short": "HCGMB nr. 174/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2004 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"REFACERI SI COMPLETARI IN SISTEMUL DE CANALIZARE AL MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13300",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13300/h0174_04.pdf",
+     "sha256": "838d69c669ce9e7e296277f332805a6bc0730f6c8e28b490f1571d44419c26c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2004",
+   "path": "local/bucuresti/cgmb/2004/175",
+   "short": "HCGMB nr. 175/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13301",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13301/h0175_04.pdf",
+     "sha256": "5940c9f0058d3a11caa2c5388aff0733625200d263234a83603eadd23fcd83d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2004",
+   "path": "local/bucuresti/cgmb/2004/176",
+   "short": "HCGMB nr. 176/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13302",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13302/h0176_04.pdf",
+     "sha256": "8c26937c35a28b91cc0dd6d22d494fde2561873d557c6cddc033fbdc95b03a12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2004",
+   "path": "local/bucuresti/cgmb/2004/177",
+   "short": "HCGMB nr. 177/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13303",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13303/h0177_04.pdf",
+     "sha256": "5f67356fc6e9a6bb7d89f4d24bb59c85c1765bd82f5e01bdfff758f926013c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2004",
+   "path": "local/bucuresti/cgmb/2004/178",
+   "short": "HCGMB nr. 178/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13304",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13304/h0178_04.pdf",
+     "sha256": "599dfef01f8c255bc30ded48df0bf26f8c99533a09a032e4e16092af605a1778"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2004",
+   "path": "local/bucuresti/cgmb/2004/179",
+   "short": "HCGMB nr. 179/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13305",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13305/h0179_04.pdf",
+     "sha256": "5f38eca635209c2f84a0a969b1a7dccc6d4c1c76101212e6d4133cefdcba196d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2004",
+   "path": "local/bucuresti/cgmb/2004/18",
+   "short": "HCGMB nr. 18/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2004 PRIVIND VALIDAREA UNUI MANDAT DE CONSILIER AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11752",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11752/h018_04.pdf",
+     "sha256": "5405e34a9ee8ea23809ba5576278994fd6810f243248b3bfcd1999694f706cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2004",
+   "path": "local/bucuresti/cgmb/2004/180",
+   "short": "HCGMB nr. 180/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13306",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13306/h0180_04.pdf",
+     "sha256": "0f0ec260332e61f3c5cb8dafaa9c156aba0e92b819c559cde4734169ce30ed87"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2004",
+   "path": "local/bucuresti/cgmb/2004/181",
+   "short": "HCGMB nr. 181/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13317",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13317/h0181_04.pdf",
+     "sha256": "ae95041b46f484a8fc343b0cdc1af9d426fbbc867ce8646d738ef96240bb07a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2004",
+   "path": "local/bucuresti/cgmb/2004/182",
+   "short": "HCGMB nr. 182/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13307",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13307/h0182_04.pdf",
+     "sha256": "b374317bc66758a152039ac15e889dd4e236fbcfd50b7807bb0d8f79c5819e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2004",
+   "path": "local/bucuresti/cgmb/2004/183",
+   "short": "HCGMB nr. 183/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13308",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13308/h0183_04.pdf",
+     "sha256": "7836cbf7478ad47b5004fa1bd2709b6951c305cae7291fd1aa49dbfd2057b4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2004",
+   "path": "local/bucuresti/cgmb/2004/184",
+   "short": "HCGMB nr. 184/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13309",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13309/h0184_04.pdf",
+     "sha256": "bd45eb824df5efedbbe6a4cffb47a717ab851d18c119ef90879df2df62a76796"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2004",
+   "path": "local/bucuresti/cgmb/2004/185",
+   "short": "HCGMB nr. 185/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2004 PRIVIND DESEMNAREA UNUI CONSILIER GENERAL IN COMISIILE PENTRU EFECTUAREA CERCETARII PREALABILE IN VEDEREA DECLARARII UTILITATII PUBLICE A LUCRARII DE INTERES LOCAL \"FINALIZAREA BLOCURILOR INCEPUTE ANTERIOR ANULUI 1990 PE TERITORIUL MUN. BUCURESTI, CONFORM ORDONANTEI DE URGENTA A GUVERNULUI NR.149/2002\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13310",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13310/h0185_04.pdf",
+     "sha256": "81725413547678f2e1c9ed45658aa7bbcd24e7363b9e7cd9e6a60f8f930eb000"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2004",
+   "path": "local/bucuresti/cgmb/2004/186",
+   "short": "HCGMB nr. 186/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2004 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI INVESTITIEI \"LUCRARI DE REABILITARE ECLUZA HERASTRAU, DESCARCATORI SI SISTEME EXISTENTE PE RAUL COLENTINA, PUNEREA IN SIGURANTA A BARAJELOR, EXTINDERI APARARI DE MALURI PE VALEA RAULUI COLENTINA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13370",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13370/h0186_04.pdf",
+     "sha256": "c31050da68e20ee6ddaea789e83de0beddb1ab33adbe9413e489111e29ee57dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2004",
+   "path": "local/bucuresti/cgmb/2004/187",
+   "short": "HCGMB nr. 187/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2004 PRIVIND CONCESIONAREA, FARA LICITATIE PUBLICA, A UNOR SPATII CU DESTINATIA DE CABINETE MEDICALE SE MODIFICA ANEXA NR. 1 PRIN HCGMB NR. 55/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13373",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13373/h0187_04.pdf",
+     "sha256": "1d3352a9e8abb0a06a11c247eba8fa995906f5a81ad4a1ac259a49c1e8d693e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2004",
+   "path": "local/bucuresti/cgmb/2004/188",
+   "short": "HCGMB nr. 188/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13375",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13375/h0188_04.pdf",
+     "sha256": "df67dba5ea4c2a7014f2b36dc6e2c1cbf024678992c8a28716ef46e24864c7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2004",
+   "path": "local/bucuresti/cgmb/2004/189",
+   "short": "HCGMB nr. 189/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2004 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13377",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13377/h0189_04.pdf",
+     "sha256": "9a73ef4c64003ff639fb0e27a220f07f566e3232de76ad89a79d05765ac2143d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2004",
+   "path": "local/bucuresti/cgmb/2004/19",
+   "short": "HCGMB nr. 19/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2004 PRIVIND SCHIMBAREA DENUMIRII ACTUALEI STRAZI \"ORLANDO\" SITUATA IN SECTORUL 1 IN STRADA \"GINA PATRICHI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11753",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11753/h019_04.pdf",
+     "sha256": "3d8fa9064ec9aac204f6aebfaaed727a9e9e18960282bd38a83fe76b6b9a1882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2004",
+   "path": "local/bucuresti/cgmb/2004/190",
+   "short": "HCGMB nr. 190/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2004 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13378",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13378/h0190_04.pdf",
+     "sha256": "92e7523be78d13bd55019352e53580b6fc95addb4c9c7fcf3d4a75bcfbf6e7b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2004",
+   "path": "local/bucuresti/cgmb/2004/191",
+   "short": "HCGMB nr. 191/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2004 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2003",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13379",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13379/h0191_04.pdf",
+     "sha256": "475beaf54a0b98b7b780b7ee1dde6f54ed728c8155cdc6a85a595831c156717e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2004",
+   "path": "local/bucuresti/cgmb/2004/192",
+   "short": "HCGMB nr. 192/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2004 PRIVIND STABILIREA CUANTUMULUI CHIRIILOR DATORATE PENTRU UTILIZAREA UNUI LOC DE PARCARE DIN PARCAJELE DE UTILITATE PRIVATA CU PLATA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13380",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13380/h0192_04.pdf",
+     "sha256": "874619a87a68765fe85fb8c7126b918ab688a135d81c6f451e8246eba7341d0e"
     }
    ]
   },
@@ -213,6 +1608,51 @@
    ]
   },
   {
+   "slug": "hcgmb-196-2004",
+   "path": "local/bucuresti/cgmb/2004/196",
+   "short": "HCGMB nr. 196/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13384",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13384/h0196_04.pdf",
+     "sha256": "bf964c5410f326361da8a61885b53bc8b6e8b5e0c366e6cbe1bb660a74db5e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2004",
+   "path": "local/bucuresti/cgmb/2004/197",
+   "short": "HCGMB nr. 197/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13385",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13385/h0197_04.pdf",
+     "sha256": "2eb214d6c5b2601ba959bccc6e0f3bcbe287b428a422c9e9c81643b4ec9a373e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2004",
+   "path": "local/bucuresti/cgmb/2004/198",
+   "short": "HCGMB nr. 198/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"PRACTIC\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13386",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13386/h0198_04.pdf",
+     "sha256": "284b761156fbb9f8fd043f9d37cf911231d7786d2ece9ecd7179031e45b82895"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-199-2004",
    "path": "local/bucuresti/cgmb/2004/199",
    "short": "HCGMB nr. 199/2004",
@@ -228,6 +1668,171 @@
    ]
   },
   {
+   "slug": "hcgmb-2-2004",
+   "path": "local/bucuresti/cgmb/2004/2",
+   "short": "HCGMB nr. 2/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2004 PRIVIND APROBAREA \"PROGRAMULUI DE REORGANIZARE, RESTRUCTURARE, EFICIENTIZARE A RADET - BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12011",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12011/h02_04.pdf",
+     "sha256": "d73b95cf601f189bf8002d9436caa3e7376a64704e2991a77ca28f526f4db89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2004",
+   "path": "local/bucuresti/cgmb/2004/20",
+   "short": "HCGMB nr. 20/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2004 PRIVIND SCHIMBAREA DESTINATIEI SPATIILOR DIN IMOBILUL SITUAT IN BUCURESTI, B-DUL ION MIHALACHE NR.323 A, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11754",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11754/h020_04.pdf",
+     "sha256": "b5afda0fd4b8bdc1d82caa3f8faa48779e23db3ad79e2c5672ac9eb33b026ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2004",
+   "path": "local/bucuresti/cgmb/2004/200",
+   "short": "HCGMB nr. 200/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2004 PRIVIND ASIGURAREA CONTINUITATII UTILITATILOR PUBLICE IN ORASUL BUFTEA SI OTOPENI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13388",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13388/h0200_04.pdf",
+     "sha256": "f0719b292878e751d006f8b7406d668734af3f35fa7f00ded542843b861bddc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2004",
+   "path": "local/bucuresti/cgmb/2004/201",
+   "short": "HCGMB nr. 201/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2004 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI CIMITIRELOR SI CREMATORIILOR UMANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13389",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13389/h0201_04.pdf",
+     "sha256": "459fe39686f6270b45e47bfc8acf9b662196a3ed301badf3dd6e0e83a90f3edf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2004",
+   "path": "local/bucuresti/cgmb/2004/202",
+   "short": "HCGMB nr. 202/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2004 PRIVIND APROBAREA PROGRAMULUI DE TRANSPORT RUTIER DE PERSOANE PRIN SERVICII REGULATE IN TRAFIC INTERJUDETEAN LIMITROF INTRE MUNICIPIUL BUCURESTI SI JUDETUL ILFOV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13390",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13390/h0202_04.pdf",
+     "sha256": "4ef25cae2ea54bc8115776af693c1866b9f36798c13dc0c75ce0931197cb377b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2004",
+   "path": "local/bucuresti/cgmb/2004/203",
+   "short": "HCGMB nr. 203/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13401",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13401/h0203_04.pdf",
+     "sha256": "5c660174e75f2bb3b34493a2af37316864028a40843a1a8b6e275645ee679550"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2004",
+   "path": "local/bucuresti/cgmb/2004/204",
+   "short": "HCGMB nr. 204/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2004 PRIVIND COMPLETAREA COMPONENTEI NOMINALE A COMISIEI DE URBANISM SI AMENAJAREA TERITORIULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13402",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13402/h0204_04.pdf",
+     "sha256": "128c97218f2136fe5a56774103d89365a0895766526fc1241de990194e768e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2004",
+   "path": "local/bucuresti/cgmb/2004/205",
+   "short": "HCGMB nr. 205/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2004 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AL REGIEI GENERALE DE APA BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13405",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13405/h0205_04.pdf",
+     "sha256": "f3b06e365ace13149c7c35b8175e7301c7d7326936227b0a91df3c0873ddbc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2004",
+   "path": "local/bucuresti/cgmb/2004/206",
+   "short": "HCGMB nr. 206/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2004 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR A UNOR SUME DE LA BUGETUL DE STAT PENTRU FINANTAREA CHELTUIELILOR DE PERSONAL LA INSTITUTIILE DE INVATAMANT PREUNIVERSITAR DE STAT PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13406",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13406/h0206_04.pdf",
+     "sha256": "f3c96a74ab6e214e4aec65e966059105e17a1bf681f6ded6ae1e909688c39777"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2004",
+   "path": "local/bucuresti/cgmb/2004/207",
+   "short": "HCGMB nr. 207/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13407",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13407/h0207_04.pdf",
+     "sha256": "3bb9d31528ce93d41f2562dcd8e337842037a15c492988ec255e7a2e61423a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-2004",
+   "path": "local/bucuresti/cgmb/2004/208",
+   "short": "HCGMB nr. 208/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2004 PRIVIND DECLARAREA DE UTILITATE PUBLICA A LUCRARII DE INTERES LOCAL \"PROTECTIE APEDUCT ARCUDA-NORD\" IN ZONA CALEA GRIVITEI - STR. CARPATI, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13408",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13408/h0208_04.pdf",
+     "sha256": "4fe0b287a83c0a71e7d43aa7a0516d4daa6b6d82a2cd65828a6d789464f6dd2f"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-209-2004",
    "path": "local/bucuresti/cgmb/2004/209",
    "short": "HCGMB nr. 209/2004",
@@ -239,6 +1844,21 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13409/h0209_04.pdf",
      "sha256": "81bb22c91740cc797243531921f6c980c90fcdf9c18b1608de7dab0165f9647a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2004",
+   "path": "local/bucuresti/cgmb/2004/21",
+   "short": "HCGMB nr. 21/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2004 PRIVIND APROBAREA PROGRAMULUI DE TRANSPORT RUTIER DE PERSOANE PRIN CURSE REGULATE PRIN INFIINTAREA TRASEELOR INTERJUDETENE LIMITROFE, INTRE MUNICIPIUL BUCURESTI SI JUDETUL ILFOV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11789",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11789/h021_04.pdf",
+     "sha256": "edbe7439a786489278c824a156a32ac649f866047b160b84c4a9e9009c7d01a5"
     }
    ]
   },
@@ -333,6 +1953,51 @@
    ]
   },
   {
+   "slug": "hcgmb-216-2004",
+   "path": "local/bucuresti/cgmb/2004/216",
+   "short": "HCGMB nr. 216/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13416",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13416/h0216_04.pdf",
+     "sha256": "6e5773fb3dc4baf2e51fb65348c69e7d462572dbe9363c18548133fab88d023c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2004",
+   "path": "local/bucuresti/cgmb/2004/217",
+   "short": "HCGMB nr. 217/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2004 PRIVIND INCEPEREA PROCEDURII DE NUMIRE A UNUI LICHIDATOR IN VEDEREA LICHIDARII REGIEI GENERALE DE APA BUCURESTI (RGAB)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13417",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13417/h0217_04.pdf",
+     "sha256": "2ae34eaa03b91aab1c4e192eaf51b028d10d2db9d6fb98860466d07203e5cda8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2004",
+   "path": "local/bucuresti/cgmb/2004/218",
+   "short": "HCGMB nr. 218/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13418",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13418/h0218_04.pdf",
+     "sha256": "f1ca8482078042fdcb484fce0316c4f12705bda5b0a28b0a5c4627e284bc127c"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-219-2004",
    "path": "local/bucuresti/cgmb/2004/219",
    "short": "HCGMB nr. 219/2004",
@@ -348,6 +2013,231 @@
    ]
   },
   {
+   "slug": "hcgmb-22-2004",
+   "path": "local/bucuresti/cgmb/2004/22",
+   "short": "HCGMB nr. 22/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11998",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11998/h022_04.pdf",
+     "sha256": "7e14fb9cff1954db7b3374995613d9046ce54b085ae1846de20087a924785d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2004",
+   "path": "local/bucuresti/cgmb/2004/220",
+   "short": "HCGMB nr. 220/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13420",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13420/h0220_04.pdf",
+     "sha256": "4f5f9843d75ac49075f0ef5f71cad93a0a1d86e5eaf525a156b2f36242a4083b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2004",
+   "path": "local/bucuresti/cgmb/2004/221",
+   "short": "HCGMB nr. 221/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2004 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL PRIMARIEI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13481",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13481/h0221_04.pdf",
+     "sha256": "9f0dfb3ff830b123c66acf30ab49e211e889cba17680105cba1ecc97eb442667"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-2004",
+   "path": "local/bucuresti/cgmb/2004/222",
+   "short": "HCGMB nr. 222/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13483",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13483/h0222_04.pdf",
+     "sha256": "90c297c366d91d6baefa6a187ec25f85c08a31cc884d8fdd047a3b503cf2a5e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-2004",
+   "path": "local/bucuresti/cgmb/2004/223",
+   "short": "HCGMB nr. 223/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2004 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE MUZEULUI NATIONAL \"GEORGE ENESCU\" INSTITUTIE PUBLICA DE CULTURA DIN SUBORDINEA C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13485",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13485/h0223_04.pdf",
+     "sha256": "8b865f6335a3a2fada9921ca79d4ed5ad438b6305cdf19aeb3eec8391ef09d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2004",
+   "path": "local/bucuresti/cgmb/2004/224",
+   "short": "HCGMB nr. 224/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13488",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13488/h0224_04.pdf",
+     "sha256": "59ef5e22571fe3a7c0658184417ba6ebd06d7a0ceeeaa1fc0df1348ffe073e40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2004",
+   "path": "local/bucuresti/cgmb/2004/225",
+   "short": "HCGMB nr. 225/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13489",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13489/h0225_04.pdf",
+     "sha256": "d3218ed31ceede82d3510ede91eca775009e493d4bad3ac88b942a0ac6720761"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2004",
+   "path": "local/bucuresti/cgmb/2004/226",
+   "short": "HCGMB nr. 226/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13490",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13490/h0226_04.pdf",
+     "sha256": "de9f7c9fd03815bb5d2bb2575ece572a0fab68ee840b392be817d774ada72def"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2004",
+   "path": "local/bucuresti/cgmb/2004/227",
+   "short": "HCGMB nr. 227/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13491",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13491/h0227_04.pdf",
+     "sha256": "a25f2a894ed900e51816f8575105e0a0f537d45d70eec0fa14719dec9637e5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2004",
+   "path": "local/bucuresti/cgmb/2004/228",
+   "short": "HCGMB nr. 228/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13492",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13492/h0228_04.pdf",
+     "sha256": "cd202765e883a94be503c5ac16332fb26a22ceb81d448fee80982a0cd82d87ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2004",
+   "path": "local/bucuresti/cgmb/2004/229",
+   "short": "HCGMB nr. 229/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13493",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13493/h0229_04.pdf",
+     "sha256": "0ab827c47b4fa7f3e363b06e313f8827d716835eb5e84b5e31df22f8c33d8882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2004",
+   "path": "local/bucuresti/cgmb/2004/23",
+   "short": "HCGMB nr. 23/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2004 PRIVIND APROBAREA PROIECTULUI \"RETEA DE AMPLASAMENTE PENTRU PUNCTE DE DIFUZARE A PRESEI IN MUNICIPIUL BUCURESTI - FAZA PUZ/PUD - ETAPA I/2003 - RETEA 30 DE AMPLASAMENTE\" COMPLETATA PRIN HCGMB NR. 29/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12010",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12010/h023_04.pdf",
+     "sha256": "f9d5eadb2159d89f566f60a4d6c8b4f20748ac20b51f2eaa106d9df1878a9830"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2004",
+   "path": "local/bucuresti/cgmb/2004/230",
+   "short": "HCGMB nr. 230/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13494",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13494/h0230_04.pdf",
+     "sha256": "b15b33c7275694075dbb91dee6b2970d30c5f118ee4fe1bf7f4836a252562f40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2004",
+   "path": "local/bucuresti/cgmb/2004/231",
+   "short": "HCGMB nr. 231/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2004 PRIVIND APROBAREA TRANSMITERII DIN ADMINISTRAREA ADMINISTRATIEI FONDULUI IMOBILIAR IN ADMINISTRAREA ADMINISTRATIEI SEMAFOARE SI MARCAJE RUTIERE A SCARILOR RULANTE AFLATE IN PASAJUL UNIVERSITATII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13495",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13495/h0231_04.pdf",
+     "sha256": "de6dd601eec894a25fb648f95135dc275947ec36006c539695a36e8a2e27b2d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2004",
+   "path": "local/bucuresti/cgmb/2004/232",
+   "short": "HCGMB nr. 232/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13496",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13496/h0232_04.pdf",
+     "sha256": "0c38fdab9df4edcd28323878f042d51dccc37ddb6bbd2643ee1e43643451d957"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-233-2004",
    "path": "local/bucuresti/cgmb/2004/233",
    "short": "HCGMB nr. 233/2004",
@@ -359,6 +2249,51 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13497/h0233_04.pdf",
      "sha256": "3ad2198aa19bde7f39d0c8be3164cce4d8169a517df2d5bfcae6291c42569651"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2004",
+   "path": "local/bucuresti/cgmb/2004/234",
+   "short": "HCGMB nr. 234/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2004 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA FINANTAREA CHELTUIELILOR AGENTIEI PENTRU DEZVOLTARE REGIONALA BUCURESTI - ILFOV PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13498",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13498/h0234_04.pdf",
+     "sha256": "afcae92a102d7ece79e6fcc42a0e5c286b04519b96cbf0ce3e1702175cec99ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2004",
+   "path": "local/bucuresti/cgmb/2004/235",
+   "short": "HCGMB nr. 235/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2004 PRIVIND APROBAREA STUDIILOR DE FEZABILITATE PENTRU CONSTRUIREA CIMITIRELOR PROGRESUL SI DOMNESTI VEST",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13499",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13499/h0235_04.pdf",
+     "sha256": "d7fa2c075592f06ac2c8fb397c70d752c66aa37b64a502098302bca7a6da7a67"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2004",
+   "path": "local/bucuresti/cgmb/2004/236",
+   "short": "HCGMB nr. 236/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2004 PRIVIND ACHIZITIONAREA DE CATRE REGIA AUTONOMA DE TRANSPORT BUCURESTI A UNUI NUMAR DE 500 DE AUTOBUZE PENTRU REABILITAREA TRANSPORTULUI URBAN DE CALATORI DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13500",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13500/h0236_04.pdf",
+     "sha256": "a910430ead20cb7c05c8c57c891d6f5b247b7ff06bbbaf744113fb3ee627b350"
     }
    ]
   },
@@ -393,6 +2328,21 @@
    ]
   },
   {
+   "slug": "hcgmb-239-2004",
+   "path": "local/bucuresti/cgmb/2004/239",
+   "short": "HCGMB nr. 239/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13503",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13503/h0239_04.pdf",
+     "sha256": "2bd2ca3e8a8040109b817bcf9d70e2a463b5b928730177e852d1a1cb1d1c7447"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-24-2004",
    "path": "local/bucuresti/cgmb/2004/24",
    "short": "HCGMB nr. 24/2004",
@@ -404,6 +2354,201 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11999/h024_04.pdf",
      "sha256": "a2e3ba21f54961505dcf9ad1832410e4e57bf461966a415d3ab63c041598958e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-2004",
+   "path": "local/bucuresti/cgmb/2004/240",
+   "short": "HCGMB nr. 240/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/2004 PRIVIND TRANSMITEREA IN ADMINISTRAREA SERVICIULUI PAZA SI DESERVIRE GENERALA A OBIECTIVELOR DE PROTECTIE CIVILA A UNOR SPATII NECESARE DESFASURARII ACTIVITATII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13504",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13504/h0240_04.pdf",
+     "sha256": "3dcbab22c6988b627757586f14913251105bbaa4c57fb02d398f3092a66ee477"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-2004",
+   "path": "local/bucuresti/cgmb/2004/241",
+   "short": "HCGMB nr. 241/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13505",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13505/h0241_04.pdf",
+     "sha256": "47a1442e2bb12c17757b8509a030a1ffe6653ec6eb38aec3a2d3f9018de4019d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-2004",
+   "path": "local/bucuresti/cgmb/2004/242",
+   "short": "HCGMB nr. 242/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13506",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13506/h0242_04.pdf",
+     "sha256": "cf642f5918e4f964cc54ec0c6e7c78bb98ac566026d4c45bf24ed02d814eb87c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-2004",
+   "path": "local/bucuresti/cgmb/2004/243",
+   "short": "HCGMB nr. 243/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13507",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13507/h0243_04.pdf",
+     "sha256": "b609dd1f107637f545dce138b2743f42b081be139109d1d3dbde1200f78fc605"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-2004",
+   "path": "local/bucuresti/cgmb/2004/244",
+   "short": "HCGMB nr. 244/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"COTROCENI\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13508",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13508/h0244_04.pdf",
+     "sha256": "7347f7aed2426184df9fefd596a9d43e7d46b26532bbb32d5cef696cc3256015"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2004",
+   "path": "local/bucuresti/cgmb/2004/245",
+   "short": "HCGMB nr. 245/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2004 PRIVIND VACANTAREA UNUI POST DE CONSILIER IN C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13729",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13729/h0245_04.pdf",
+     "sha256": "9a78689ed8078668771e92e2fdc55ad3f2da5e0813fd4b43fb4032b95975d520"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2004",
+   "path": "local/bucuresti/cgmb/2004/246",
+   "short": "HCGMB nr. 246/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2004 PRIVIND VALIDAREA UNUI MANDAT DE CONSILIER IN C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13730",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13730/h0246_04.pdf",
+     "sha256": "24c0f54f3c88f649e05c13ab7fe712975b880679e1676130c1723f01002814d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-2004",
+   "path": "local/bucuresti/cgmb/2004/247",
+   "short": "HCGMB nr. 247/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13732",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13732/h0247_04.pdf",
+     "sha256": "6fad46ec9d97a655b6114b485541fd82574a93edb7d32fe9540c497a4a486475"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-2004",
+   "path": "local/bucuresti/cgmb/2004/248",
+   "short": "HCGMB nr. 248/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/2004 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR A UNOR SUME DE LA BUGETUL DE STAT PENTRU FINANTAREA CHELTUIELILOR DE PERSONAL LA INSTITUTIILE DE INVATAMANT PREUNIVERSITAR DE STAT PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13733",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13733/h0248_04.pdf",
+     "sha256": "1e20a0855ec984704ae933f3216cc696f33302662ab3f658e1da0f708a1fd106"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-2004",
+   "path": "local/bucuresti/cgmb/2004/249",
+   "short": "HCGMB nr. 249/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/2004 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A VENITURILOR BUGETULUI LOCAL AL MUN. BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13734",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13734/h0249_04.pdf",
+     "sha256": "bd985dbb091e7f56fbcd661b5586167e9229824c5636a49db6c19ed444ad8e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2004",
+   "path": "local/bucuresti/cgmb/2004/25",
+   "short": "HCGMB nr. 25/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12000",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12000/h025_04.pdf",
+     "sha256": "97390eca6f12b9fa873c7d322efe829367255423c526810236d29b150e853b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-2004",
+   "path": "local/bucuresti/cgmb/2004/250",
+   "short": "HCGMB nr. 250/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/2004 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A SUMELOR DEFALCATE DIN UNELE VENITURI ALE BUGETULUI DE STAT APROBATE MUN. BUCURESTI PRIN LEGEA BUGETULUI DE STAT PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13735",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13735/h0250_04.pdf",
+     "sha256": "354addf574becc1b8cef57bded0a988c57233c7a411ece95900153fb28c2e356"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-2004",
+   "path": "local/bucuresti/cgmb/2004/251",
+   "short": "HCGMB nr. 251/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/2004 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A SUMELOR DIN COTA DEFALCATA DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE ALE SECTOARELOR SI BUGETUL MUN. BUCURESTI (BUGETUL PROPRIU AL C.G.M.B.) PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13736",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13736/h0251_04.pdf",
+     "sha256": "d8f992abf29a4b4db25ba3f7dadf90ba4a323fac2a0b1f87cad86abf7025ce07"
     }
    ]
   },
@@ -423,6 +2568,216 @@
    ]
   },
   {
+   "slug": "hcgmb-253-2004",
+   "path": "local/bucuresti/cgmb/2004/253",
+   "short": "HCGMB nr. 253/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13731",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13731/h0253_04.pdf",
+     "sha256": "9e1fc3859fa9a96941d723665598e67d63a4f94da8b0a447c46bf51546ee85b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-2004",
+   "path": "local/bucuresti/cgmb/2004/254",
+   "short": "HCGMB nr. 254/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/2004 PRIVIND INCREDINTAREA GESTIONARII SI INTRETINERII POSTGARANTIE A STRAZILOR REABILITATE AFLATE IN ADMINISTRAREA P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13738",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13738/h0254_04.pdf",
+     "sha256": "3b677357438d9f84927e47d333cf8fab628dc2144216d5644ddcaa5350269678"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-2004",
+   "path": "local/bucuresti/cgmb/2004/255",
+   "short": "HCGMB nr. 255/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/2004 PRIVIND INFIINTAREA DIRECTIEI GENERALE DE EVIDENTA A PERSOANELOR A MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13739",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13739/h0255_04.pdf",
+     "sha256": "18713bb4cebd4a36b28798238ed432b869617021e235ebfd2f3fd8a2a568b3ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-2004",
+   "path": "local/bucuresti/cgmb/2004/256",
+   "short": "HCGMB nr. 256/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13740",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13740/h0256_04.pdf",
+     "sha256": "20c99aa822e4c4358c77047b0259a5a01d5ea7edd0b0bd7ea67282bc396860ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-2004",
+   "path": "local/bucuresti/cgmb/2004/257",
+   "short": "HCGMB nr. 257/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/2004 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI TOTAL DE POSTURI, STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI STRAZILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13741",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13741/h0257_04.pdf",
+     "sha256": "b626e6adcfab541bfd060f0fdf9d74afbf671f11e4884be4218fa75459dd803f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-2004",
+   "path": "local/bucuresti/cgmb/2004/258",
+   "short": "HCGMB nr. 258/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13742",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13742/h0258_04.pdf",
+     "sha256": "8c3fd109159819c694584ee7b263e6e6859efaffa3c5e7cbd491120a9954d968"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-2004",
+   "path": "local/bucuresti/cgmb/2004/259",
+   "short": "HCGMB nr. 259/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/2004 PRIVIND DESEMNAREA UNUI VICEPRIMAR AL MUN. BUCURESTI SA EXERCITE ATRIBUTIILE FUNCTIEI DE PRIMAR GENERAL AL MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13728",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13728/h0259_04.pdf",
+     "sha256": "56a7a932993c078b15a6b6b289904aa1635d5ff2e4fbaa0210e7f68b6ce8a1bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2004",
+   "path": "local/bucuresti/cgmb/2004/26",
+   "short": "HCGMB nr. 26/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12001",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12001/h026_04.pdf",
+     "sha256": "3e2d15e5eb998e1be0fdce80787a0b4bacf8339135cac971de7ac0b222af6f1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-2004",
+   "path": "local/bucuresti/cgmb/2004/260",
+   "short": "HCGMB nr. 260/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/2004 PRIVIND APROBAREA PROIECTULUI \"REVITALIZAREA ZONEI PALATUL VOIEVODAL CURTEA VECHE APARTINAND CENTRULUI ISTORIC AL MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13744",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13744/h0260_04.pdf",
+     "sha256": "b4d0b912a05c304a1809402b344c55fec1170538ffcd276e4abf108e142b3592"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-2004",
+   "path": "local/bucuresti/cgmb/2004/261",
+   "short": "HCGMB nr. 261/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13745",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13745/h0261_04.pdf",
+     "sha256": "c144fe5f0b04b6dc7e18e997cb35fa160a3b81dba17cbdb346b8861b4517c094"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-262-2004",
+   "path": "local/bucuresti/cgmb/2004/262",
+   "short": "HCGMB nr. 262/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 262/2004 PRIVIND STABILIREA CULORII AUTOVEHICULELOR IN VEDEREA ELIBERARII AUTORIZATIILOR TAXI PERMANENTE PE TERITORIUL MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13746",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13746/h0262_04.pdf",
+     "sha256": "3860caae5c847b9a66605477624d99b7d07b0dd03931b7dd758dde80d2e9c42d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-2004",
+   "path": "local/bucuresti/cgmb/2004/263",
+   "short": "HCGMB nr. 263/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13747",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13747/h0263_04.pdf",
+     "sha256": "ecdf5eb7f911b77102c7926c7591970fe7c402e378085a7387f15cdf71f61650"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-2004",
+   "path": "local/bucuresti/cgmb/2004/264",
+   "short": "HCGMB nr. 264/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13748",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13748/h0264_04.pdf",
+     "sha256": "37883b97050e9fb3687328eb0aec8124b7cb19a308f086e1e5c1da8907f71bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-2004",
+   "path": "local/bucuresti/cgmb/2004/265",
+   "short": "HCGMB nr. 265/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/2004 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE CENTRULUI DE CALCUL SE MODIFICA PRIN HCGMB NR. 7/2010 SE ABROGA PRIN HCGMB NR. 174/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13749",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13749/h0265_04.pdf",
+     "sha256": "5c014546c5ee659e278c6155bca92ecfdeb66a69f6fb5a55de87f480599cfd5c"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-266-2004",
    "path": "local/bucuresti/cgmb/2004/266",
    "short": "HCGMB nr. 266/2004",
@@ -434,6 +2789,351 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13750/h0266_04.pdf",
      "sha256": "f93fb44867bc9c28343981c8f7b88b608e22786881d09504918a7ab9f4917edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-2004",
+   "path": "local/bucuresti/cgmb/2004/267",
+   "short": "HCGMB nr. 267/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/2004 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIUL LOCAL AL SECTORULUI 1 A ATRIBUTIILOR PRIVIND ORGANIGRAMA, STATUL DE FUNCTII SI REGULAMENTUL DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI PIETELOR SECTOR 1 SI NUMIREA SI ELIBERAREA DIN FUNCTIE A CONDUCATORULUI ACESTEIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13743",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13743/h0267_04.pdf",
+     "sha256": "8df69f271c387bc8e46f53d45f8c3d96f50366aefae0671d51156165ea020164"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-2004",
+   "path": "local/bucuresti/cgmb/2004/268",
+   "short": "HCGMB nr. 268/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/2004 PRIVIND NUMIREA MEMBRILOR CGMB IN ADUNAREA REPREZENTANTILOR A CASEI NATIONALE DE ASIGURARI DE SANATATE ABROGATA PRIN HCGMB NR. 89/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13751",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13751/h0268_04.pdf",
+     "sha256": "9b3cdfd77d00614354b63d0c5f8d36dce66a575f91bf3f9b04e29a85bbd8b9d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2004",
+   "path": "local/bucuresti/cgmb/2004/27",
+   "short": "HCGMB nr. 27/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"ORIZONT\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12012",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12012/h027_04.pdf",
+     "sha256": "908c984fb91c6a1151c00b71fe8fc6593e426b71046dcb2ed80d6345662e17a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-2004",
+   "path": "local/bucuresti/cgmb/2004/28",
+   "short": "HCGMB nr. 28/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12013",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12013/h028_04.pdf",
+     "sha256": "f72143483d6922191f2bed04713086b5f9eb580e73f1bd05cfde1494c7da9b34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-2004",
+   "path": "local/bucuresti/cgmb/2004/29",
+   "short": "HCGMB nr. 29/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/2004 ANULATA PRIN SENTINTA CIVILA NR. 3465/17.09.2004 PRIVIND REPARTIZAREA PE TRIMESTRE A SUBVENTIEI REPREZENTAND PROTECTIE SOCIALA ACORDATA CALATORILOR PE MIJLOACELE DE TRANSPORT IN COMUN ALE R.A.T.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12014",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12014/h029_04.pdf",
+     "sha256": "7a9fceba291ca198718da38aba59144711c66ed8f496f8805c233645a8dec035"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2004",
+   "path": "local/bucuresti/cgmb/2004/3",
+   "short": "HCGMB nr. 3/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2004 PRIVIND TRANSMITEREA CU TITLU GRATUIT A UNUI IMOBIL IN PROPRIETATEA REPUBLICII FEDERALE GERMANIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11593",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11593/h03_04.pdf",
+     "sha256": "37cbc02a666bee4c261ce056a573efcdac4559385d3b7c47a8c1dee6e29b0db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2004",
+   "path": "local/bucuresti/cgmb/2004/30",
+   "short": "HCGMB nr. 30/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2004 PRIVIND APROBAREA STATULUI DE FUNCTII PE ANUL 2004, AL BIBLIOTECII METROPOLITANE BUCURESTI, INSTITUTIE PUBLICA DE CULTURA DIN SUBORDINEA C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12015",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12015/h030_04.pdf",
+     "sha256": "572393ec0f7ece1b523a3b17980fc0b6ad6d51ba7021ede43f927bdaea55d2b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2004",
+   "path": "local/bucuresti/cgmb/2004/31",
+   "short": "HCGMB nr. 31/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2004 ANULATA PRIN SENTINTA NR. 3916/24.09.2004 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL SERVICIULUI ASISTENTA TEHNICA A C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12016",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12016/h031_04.pdf",
+     "sha256": "dbff01773d83a8d57ae65ce48b9107b8d53938f37df44e1a5839f5d4f387c28d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-2004",
+   "path": "local/bucuresti/cgmb/2004/32",
+   "short": "HCGMB nr. 32/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/2004 PRIVIND COMPLETAREA LISTEI SPATIILOR COMERCIALE SI DE PRESTARI SERVICII CARE SE VAND IN TEMEIUL LEGII NR. 550/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12017",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12017/h032_04.pdf",
+     "sha256": "6ee6b831b89697266cc85967990437a2a0487bcfe58e587a3c33b16d528df1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2004",
+   "path": "local/bucuresti/cgmb/2004/33",
+   "short": "HCGMB nr. 33/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12018",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12018/h033_04.pdf",
+     "sha256": "57d702f1e85095d7af676ee865632fd97c110aeb113ef7b0bf363833b2aa968e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2004",
+   "path": "local/bucuresti/cgmb/2004/34",
+   "short": "HCGMB nr. 34/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12019",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12019/h034_04.pdf",
+     "sha256": "723444aa85791a3eabac5be205f12c9939e6496fbfb837ac73dd3ed80fd91531"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2004",
+   "path": "local/bucuresti/cgmb/2004/35",
+   "short": "HCGMB nr. 35/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12021",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12021/h035_04.pdf",
+     "sha256": "122b5a3ea4317921e9933664e3e7a6f73af8ddc59dbeaf05c6bcf52bcfb76b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-2004",
+   "path": "local/bucuresti/cgmb/2004/36",
+   "short": "HCGMB nr. 36/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12020",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12020/h036_04.pdf",
+     "sha256": "39e4b3a25e2a0dc0272fe79f89ffe605cf48dc753cfd338e179f8441851d2476"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2004",
+   "path": "local/bucuresti/cgmb/2004/37",
+   "short": "HCGMB nr. 37/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12138",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12138/h037_04.pdf",
+     "sha256": "7ece5bd0b281fb81f8a96dd3d09daee8b882dad5a870ff60e10df5dac2f49d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-2004",
+   "path": "local/bucuresti/cgmb/2004/38",
+   "short": "HCGMB nr. 38/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/2004 PRIVIND APROBAREA CUANTUMULUI COTIZATIEI ANUALE A PRIMARIEI MUNICIPIULUI BUCURESTI CATRE ASOCIATIA EUROCITIES",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12139",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12139/h038_04.pdf",
+     "sha256": "a661d7cab6ebce4d11be3fcf4156bc8c0b3f39a14b25c932048427e354c0dc6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2004",
+   "path": "local/bucuresti/cgmb/2004/39",
+   "short": "HCGMB nr. 39/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12140",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12140/h039_04.pdf",
+     "sha256": "8dcf9d410252a2a1751065a3c489297036e5bc23cf678d33084508c18a9a5a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2004",
+   "path": "local/bucuresti/cgmb/2004/4",
+   "short": "HCGMB nr. 4/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11594",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11594/h04_04.pdf",
+     "sha256": "d348c3ac40932565a7d5161e0696628d647d2a7a45b2667f30853cb3785a4610"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2004",
+   "path": "local/bucuresti/cgmb/2004/40",
+   "short": "HCGMB nr. 40/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12141",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12141/h040_04.pdf",
+     "sha256": "a625a3fcb2603e4db2f0ba87ca18e83f9714aaecc9be55a203dc399230d8da73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2004",
+   "path": "local/bucuresti/cgmb/2004/41",
+   "short": "HCGMB nr. 41/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12146",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12146/h041_04.pdf",
+     "sha256": "ad6eced1430d13ee050935f97387a4e878379e43ad0b563edf823a434b500092"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2004",
+   "path": "local/bucuresti/cgmb/2004/42",
+   "short": "HCGMB nr. 42/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12142",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12142/h042_04.pdf",
+     "sha256": "8c6b4bb4af54a59b76c6afb9bf6f5ca18246f8bcb6e8f6fe30fe07ed2023ca94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2004",
+   "path": "local/bucuresti/cgmb/2004/43",
+   "short": "HCGMB nr. 43/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12147",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12147/h043_04.pdf",
+     "sha256": "ca0d6b0297711fe64a7d2d7ec8dd60a334d8f03b7461e6b9ddf27fb238a1ae73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2004",
+   "path": "local/bucuresti/cgmb/2004/44",
+   "short": "HCGMB nr. 44/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12148",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12148/h044_04.pdf",
+     "sha256": "8e282e29b3837783846c586bb07ac51c4dd0774bc13fd328eab88dda8f9afbbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2004",
+   "path": "local/bucuresti/cgmb/2004/45",
+   "short": "HCGMB nr. 45/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12143",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12143/h045_04.pdf",
+     "sha256": "f6ee8092e1a986bfcfd9b6c639089da15f68ba57e2f50b8e5fc6b49ea71a16ff"
     }
    ]
   },
@@ -483,6 +3183,81 @@
    ]
   },
   {
+   "slug": "hcgmb-49-2004",
+   "path": "local/bucuresti/cgmb/2004/49",
+   "short": "HCGMB nr. 49/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12134",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12134/h049_04.pdf",
+     "sha256": "a03963f02ee899b96f6ccd9e3d31d87712c536efc7b61b29ed41275abdb5a07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2004",
+   "path": "local/bucuresti/cgmb/2004/5",
+   "short": "HCGMB nr. 5/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11595",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11595/h05_04.pdf",
+     "sha256": "f537d909439e70817ba26cfef26b4e6300278bc73b819fc439f20c86cdf0db30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2004",
+   "path": "local/bucuresti/cgmb/2004/50",
+   "short": "HCGMB nr. 50/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12135",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12135/h050_04.pdf",
+     "sha256": "96a736ff25817875fae1e1f2138ce0fa20b1787eb23ea67de148a8be234ef4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2004",
+   "path": "local/bucuresti/cgmb/2004/51",
+   "short": "HCGMB nr. 51/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12136",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12136/h051_04.pdf",
+     "sha256": "c1e3377b562bb94a5855f6080abc8171a0549ce5226fae6167c067592dc45692"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2004",
+   "path": "local/bucuresti/cgmb/2004/52",
+   "short": "HCGMB nr. 52/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12137",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12137/h052_04.pdf",
+     "sha256": "5544407cd8c25c48bf1bd52d11fc9ceaa519cb6e6633fba025ab74492e7c7d5b"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-53-2004",
    "path": "local/bucuresti/cgmb/2004/53",
    "short": "HCGMB nr. 53/2004",
@@ -494,6 +3269,216 @@
      "units": 9,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12190/h053_04.pdf",
      "sha256": "2e210afcc45352f2ef5ef97832294b418c1912bfced72e47a098247d19984393"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2004",
+   "path": "local/bucuresti/cgmb/2004/54",
+   "short": "HCGMB nr. 54/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12191",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12191/h054_04.pdf",
+     "sha256": "e40bb9c0afb8401b17830f6d30b959ee760e0fa4912d94cc5a0af32effe22756"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2004",
+   "path": "local/bucuresti/cgmb/2004/55",
+   "short": "HCGMB nr. 55/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2004 PENTRU APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITIE \"REABILITAREA ECOLOGICA A SALBEI DE LACURI DE PE RAUL COLENTINA SI CURATAREA ZONELOR ADIACENTE DE INTERES TURISTIC IN VEDEREA REINTRODUCERII ACESTORA IN CIRCUITUL TURISTIC AL MUNICIPIULUI BUCURESTI\" ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 376/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12192",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12192/h055_04.pdf",
+     "sha256": "edabfc2d334366c36970a6f9752bf8e07fbf1a60391a22bc016cd1dd99d5874d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2004",
+   "path": "local/bucuresti/cgmb/2004/56",
+   "short": "HCGMB nr. 56/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2004 PRIVIND APROBAREA MAJORARII AFERENTE OBIECTIVULUI DE INVESTITII REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI COFINANTAT DIN CREDITE BEI SI BDCE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12211",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12211/h056_04.pdf",
+     "sha256": "079363b383a31d40d6baa8236927d8cf4f79e042303f2186390925d3c18e419f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2004",
+   "path": "local/bucuresti/cgmb/2004/57",
+   "short": "HCGMB nr. 57/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2004 PRIVIND APROBAREA INCHEIERII, TERMENILOR SI CONDITIILOR CONTRACTULUI DE ASISTENTA TEHNICA, ACHIZITII SI CONSTRUCTII (\"EPC CONTRACT\") DE CATRE SC APA NOVA BUCURESTI SA CU CONSORTIUL FORMAT DIN SOCIETATILE OTV SA FRANTA SI GBB SA (TURCIA), PRECUM SI APROBAREA INCHEIERII, TERMENILOR SI CONDITIILOR CONTRACTULUI DIRECT EPC DE CATRE SC APA NOVA BUCURESTI SA CU CONSORTIUL MAI SUS MENTIONAT, BERD SI DEG, ANEXAT CONTRACTULUI DE ASISTENTA TEHNICA, ACHIZITII SI CONSTRUCTII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12158",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12158/h057_04.pdf",
+     "sha256": "6e30abb6a0c0d1bf242db36d3f2327763560913b6af3b942f3d368594d4b862b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2004",
+   "path": "local/bucuresti/cgmb/2004/58",
+   "short": "HCGMB nr. 58/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2004 PRIVIND VALIDAREA UNUI MANDAT DE CONSILIER AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12159",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12159/h058_04.pdf",
+     "sha256": "bfc8c2c370446d0f754f30421a04b5c7ee634ab3a91b82ad214f5854eb67d7c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2004",
+   "path": "local/bucuresti/cgmb/2004/59",
+   "short": "HCGMB nr. 59/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"DOLPHIN INVEST\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12368",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12368/h059_04.pdf",
+     "sha256": "7698deb14780e5c2dcfab3788a16ccfb04df75a8dac9c38e378f3d42af6601a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2004",
+   "path": "local/bucuresti/cgmb/2004/6",
+   "short": "HCGMB nr. 6/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11596",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11596/h06_04.pdf",
+     "sha256": "77f8f14e8fe4d7becd43b8c3c1d983ac4399789d3ecda104168b97aaf76bb974"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2004",
+   "path": "local/bucuresti/cgmb/2004/60",
+   "short": "HCGMB nr. 60/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"FOISOR\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12369",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12369/h060_04.pdf",
+     "sha256": "7a94db395fbb9d384929e2296fc7742176c5992bbcb19e9b28c59c11b1538082"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-2004",
+   "path": "local/bucuresti/cgmb/2004/61",
+   "short": "HCGMB nr. 61/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/2004 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"FOISOR\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12370",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12370/h061_04.pdf",
+     "sha256": "f083a7003109069057964022c29a6298b5b951b498137521785813967cc4156f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-2004",
+   "path": "local/bucuresti/cgmb/2004/62",
+   "short": "HCGMB nr. 62/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12371",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12371/h062_04.pdf",
+     "sha256": "767c355911cac6dae392915a3c3ccb886674aaae9641162c309c2e73d7f38093"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-2004",
+   "path": "local/bucuresti/cgmb/2004/63",
+   "short": "HCGMB nr. 63/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12372",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12372/h063_04.pdf",
+     "sha256": "eaddb4b67899653e2e9c89bbbc9f6012ea2d588485f72a07c804e494a134c7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-2004",
+   "path": "local/bucuresti/cgmb/2004/64",
+   "short": "HCGMB nr. 64/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12373",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12373/h064_04.pdf",
+     "sha256": "a104a023aa65b5b00d5d03337f69b02169f6254c4a6b281f3c94159fc94b9be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-2004",
+   "path": "local/bucuresti/cgmb/2004/65",
+   "short": "HCGMB nr. 65/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2004 PRIVIND PRELUNGIREA TERMENULUI DE VALABILITATE AL LICENTELOR DE TRANSPORT, DE EXECUTIE, DE TRASEU SI A CAIETELOR DE SARCINI ALE LICENTELOR DE TRASEU ELIBERATE IN CONFORMITATE CU PREVEDERILE H.C.G.M.B NR.234/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12374",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12374/h065_04.pdf",
+     "sha256": "1d163497612f67e0cd2e5aad83441192b9e999af41a9b374a37c3425f93a14c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-2004",
+   "path": "local/bucuresti/cgmb/2004/66",
+   "short": "HCGMB nr. 66/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12375",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12375/h066_04.pdf",
+     "sha256": "fa04ea5838a8a27cd2fee07e89f02078702547feea4991fdd4f8d433db207e9b"
     }
    ]
   },
@@ -513,6 +3498,141 @@
    ]
   },
   {
+   "slug": "hcgmb-68-2004",
+   "path": "local/bucuresti/cgmb/2004/68",
+   "short": "HCGMB nr. 68/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/2004 PRIVIND APROBAREA COOPERARII CONSILIULUI LOCAL AL SECTORULUI 1 CU ASOCIATIA EQUILIBRE IN VEDEREA FINANTARII SI REALIZARII IN COMUN A SERVICIILOR COMUNITARE DE INGRIJIRE LA DOMICILIU A PERSOANELOR VARSTNICE PRECUM SI A CALIFICARII PERSONALULUI SPECIALIZAT IN OFERIREA DE SERVICII DE INGRIJIRE LA DOMICILIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12376",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12376/h068_04.pdf",
+     "sha256": "d9deff675e26f5ee52cb81411ac59cb5763c49b34a99b95428a4e9b89d843ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2004",
+   "path": "local/bucuresti/cgmb/2004/69",
+   "short": "HCGMB nr. 69/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2004 PRIVIND INFIINTAREA PRIN REORGANIZARE A CENTRULUI MEDICAL COMUNITAR \"CARAIMAN\" APROBAREA ORGANIGRAMEI, STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE SI NUMIREA SI ELIBERAREA DIN FUNCTIE A CONDUCATORULUI ACESTUIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12377",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12377/h069_04.pdf",
+     "sha256": "5351ae1265aeda0ab70b59374fd62c451dd365852f86f72d382df976ba4cfd68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2004",
+   "path": "local/bucuresti/cgmb/2004/7",
+   "short": "HCGMB nr. 7/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11597",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11597/h07_04.pdf",
+     "sha256": "e7fe090ddc59153bb3aef254f68dd53cd9b446189495859060b20c908c5ba01d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2004",
+   "path": "local/bucuresti/cgmb/2004/70",
+   "short": "HCGMB nr. 70/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12361",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12361/h070_04.pdf",
+     "sha256": "5786952b527f2155569bbbdc9c34e0e7cdf19e2641ac47db2f5478dd2de086c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2004",
+   "path": "local/bucuresti/cgmb/2004/71",
+   "short": "HCGMB nr. 71/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12382",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12382/h071_04.pdf",
+     "sha256": "c989191c8dbd1953da64be757beb835fd540fe30466ff5f3f6d65b0d7df08812"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2004",
+   "path": "local/bucuresti/cgmb/2004/72",
+   "short": "HCGMB nr. 72/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12383",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12383/h072_04.pdf",
+     "sha256": "3f75b37edb01f8f4d2da3b3b3f322295f5f50d4bd02055a94cc8d83734dd3f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2004",
+   "path": "local/bucuresti/cgmb/2004/73",
+   "short": "HCGMB nr. 73/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12384",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12384/h073_04.pdf",
+     "sha256": "8597ea310f51b0b867175bc3c8ea6a0d82fc5aeba231307293c18bab0d0f38ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2004",
+   "path": "local/bucuresti/cgmb/2004/74",
+   "short": "HCGMB nr. 74/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12385",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12385/h074_04.pdf",
+     "sha256": "1407869a53c9b2d12cadb22b53d160ea60cf62d59471d3c7e01074bccb509727"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2004",
+   "path": "local/bucuresti/cgmb/2004/75",
+   "short": "HCGMB nr. 75/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2004 PRIVIND TRANSMITEREA TERENULUI SITUAT IN PIATA CHARLES DE GAULLE / BDUL PRIMAVERII NR.2, SETOR 1, DIN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN ADMINISTRAREA CURTII DE CONTURI A ROMANIEI IN VEDEREA CONSTRUIRII UNUI NOU SEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12386",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12386/h075_04.pdf",
+     "sha256": "67ccc9536cadeada1d98ae10dbdb8ef374b0fed9d621040f186f5ac4a77523e3"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-76-2004",
    "path": "local/bucuresti/cgmb/2004/76",
    "short": "HCGMB nr. 76/2004",
@@ -524,6 +3644,126 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12387/h076_04.pdf",
      "sha256": "ec9ee04f259096c4b291a9b07c00adada27841e524cf36a3528cccaee4e33105"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2004",
+   "path": "local/bucuresti/cgmb/2004/77",
+   "short": "HCGMB nr. 77/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2004 ANULATA PRIN SENTINTA CIVILA NR. 3436/15.09.2004 PRIVIND ELIBERAREA DE AUTORIZATII PERMANENTE PENTRU OPERATORI INDEPENDENTI DE TRANSPORT PERSOANE IN REGIM DE TAXI DIN JUDETUL ILFOV, PRECUM SI DE AUTORIZATII PENTRU TRANSPORTUL DE MARFA IN REGIM DE TAXI, PE RAZA MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12393",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12393/h077_04.pdf",
+     "sha256": "2e4274e63e5805a247de9d9cf036d7209f8ec9b1211130ad10b88fd6d8b47f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-2004",
+   "path": "local/bucuresti/cgmb/2004/78",
+   "short": "HCGMB nr. 78/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12388",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12388/h078_04.pdf",
+     "sha256": "a6dced2a70b9b70e449ccd33a6fd2ed4a7fc2cd604445f949c7da52e3ec85ddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-2004",
+   "path": "local/bucuresti/cgmb/2004/79",
+   "short": "HCGMB nr. 79/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12392",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12392/h079_04.pdf",
+     "sha256": "b5d65e31076e376d13250c64198e9f74b0281d690c91358119e0a051c3f4d4d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2004",
+   "path": "local/bucuresti/cgmb/2004/8",
+   "short": "HCGMB nr. 8/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2004 PRIVIND INCLUDEREA ORASULUI BUCURESTI CA ORAS PARTENER IN CADRUL \"INITIATIVEI ORASE DURABILE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11600",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11600/h08_04.pdf",
+     "sha256": "cc1545b59b1468c9e4753a4d40e5f3ab1a3b7c4c24d2f1ce841e4879a42bb104"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2004",
+   "path": "local/bucuresti/cgmb/2004/80",
+   "short": "HCGMB nr. 80/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2004 PRIVIND COMPETENTELE DE ORGANIZARE SI DESFASURARE A CONCURSURILOR (EXAMENELOR) DE OCUPARE A FUNCTIILOR LIBERE PE BAZA DE CONTRACT INDIVIDUAL DE MUNCA SI DE PROMOVARE A PERSONALULUI IN INSTITUTIILE SI SERVICIILE PUBLICE (CU SAU FARA PERSONALITATE JURIDICA) IN SOCIETATILE COMERCIALE SI REGIILE AUTONOME DIN SUBORDINEA CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12362",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12362/h080_04.pdf",
+     "sha256": "f0555745064365e90d9891ba6a72161846eeab876726aa4eeb4545bc96aefd7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2004",
+   "path": "local/bucuresti/cgmb/2004/81",
+   "short": "HCGMB nr. 81/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12363",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12363/h081_04.pdf",
+     "sha256": "414147ae80c2d5a2cafdb7c7f7142bf95e924dc2998962aa1bce07e9b46aa47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-2004",
+   "path": "local/bucuresti/cgmb/2004/82",
+   "short": "HCGMB nr. 82/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/2004 PRIVIND CONSTITUIREA CGMB CA PARTE CIVILA IN SOLICITAREA DE DAUNE DE NEEXECUTARE A CONTRACTELOR CU B.E.I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12364",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12364/h082_04.pdf",
+     "sha256": "6e4f185fe7dd351a309c6c2d138aa96848e5901cc59d490cde8803d37731537e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2004",
+   "path": "local/bucuresti/cgmb/2004/83",
+   "short": "HCGMB nr. 83/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12394",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12394/h083_04.pdf",
+     "sha256": "bca7d0f7f9d015aefd0a50710785f6a105471bea24a18b6b89cbbd23ee9bc14c"
     }
    ]
   },
@@ -543,6 +3783,96 @@
    ]
   },
   {
+   "slug": "hcgmb-85-2004",
+   "path": "local/bucuresti/cgmb/2004/85",
+   "short": "HCGMB nr. 85/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12366",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12366/h085_04.pdf",
+     "sha256": "2b4e71838807d5ad8a278995199834500f9708814ad6aeed9fc45bd99feba160"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2004",
+   "path": "local/bucuresti/cgmb/2004/86",
+   "short": "HCGMB nr. 86/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2004 PRIVIND APROBAREA PROGRAMELOR DE TRANSPORT RUTIER DE PERSOANE PRIN CURSE REGULATE PRIN INFIINTAREA TRASEELOR INTERJUDETENE LIMITROFE, INTRE MUNICIPIUL BUCURESTI SI JUDETUL ILFOV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12367",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12367/h086_04.pdf",
+     "sha256": "394745d1cc5fc65fb84d590c297f5819aa8819c45a111ec4a3116b958a4ffaac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2004",
+   "path": "local/bucuresti/cgmb/2004/87",
+   "short": "HCGMB nr. 87/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2004 PRIVIND REORGANIZAREA ADMINISTRATIEI LACURILOR SI AGREMENT BUCURESTI PRIN COMASARE PRIN ABSORBIREA ADMINISTRATIEI PARCURILOR SI GRADINILOR SI SCHIMBAREA DENUMIRII IN ADMINISTRATIA LACURI PARCULUI SI AGREMENT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12499",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12499/h087_04.pdf",
+     "sha256": "93b3dcb3be0a94ec58a496428a02590313f13eaf899db8c02c72aa9eee36127d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2004",
+   "path": "local/bucuresti/cgmb/2004/88",
+   "short": "HCGMB nr. 88/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12378",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12378/h088_04.pdf",
+     "sha256": "1f68ad2f24bf610c8443d6b5343c15b9edf963e07c55a232f8e6115576dc23f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2004",
+   "path": "local/bucuresti/cgmb/2004/89",
+   "short": "HCGMB nr. 89/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12379",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12379/h089_04.pdf",
+     "sha256": "f4d3747264b56142f054b316b9f79d62f806a077f97af750e93a7442c9df9291"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-2004",
+   "path": "local/bucuresti/cgmb/2004/9",
+   "short": "HCGMB nr. 9/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11601",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11601/h09_04.pdf",
+     "sha256": "62d544dca1e81ad41f23e70258e3f2d9fef8bbd620847fe7f1065e33b16e1670"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-90-2004",
    "path": "local/bucuresti/cgmb/2004/90",
    "short": "HCGMB nr. 90/2004",
@@ -554,6 +3884,141 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12380/h090_04.pdf",
      "sha256": "066ec4969fa685327336508be8050bca71dc59ab6c0efe2301de310fd30ced20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2004",
+   "path": "local/bucuresti/cgmb/2004/91",
+   "short": "HCGMB nr. 91/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2004 PRIVIND COMPLETAREA LISTEI SPATIILOR COMERCIALE PROPRIETATE PRIVATA A STATULUI SI A CELOR DE PRESTARI SERVICII CE SE VOR VALORIFICA POTRIVIT LEGII NR.550/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12395",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12395/h091_04.pdf",
+     "sha256": "9fa1b516c0647c0a936d784b7017f938acbdb5918564cd035f9a0537fd8b30c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2004",
+   "path": "local/bucuresti/cgmb/2004/92",
+   "short": "HCGMB nr. 92/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12381",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12381/h092_04.pdf",
+     "sha256": "ef974ba1a0898b8d813d1f1227efec0ce44aee835e63e197cc8bf27c9211a709"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2004",
+   "path": "local/bucuresti/cgmb/2004/93",
+   "short": "HCGMB nr. 93/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2004 PRIVIND RECTIFICAREA BUGETULUI CGMB PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12684",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12684/h093_04.pdf",
+     "sha256": "ebaf5d28eac940c3efef2d30c65503174f0475992a01f48245f41cc114e60a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2004",
+   "path": "local/bucuresti/cgmb/2004/94",
+   "short": "HCGMB nr. 94/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2004 PRIVIND APROBAREA ASOCIERII MUNICIPIULUI BUCURESTI CU COMUNA GLINA JUD.ILFOV IN VEDEREA REALIZARII INVESTITIEI \"FINALIZAREA LUCRARILOR SI MODERNIZAREA STATIEI DE EPURARE A APELOR UZATE BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12586",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12586/h094_04.pdf",
+     "sha256": "9faff6771455af3c6132e441ef8deaba8d211769b42efe1ccda3ead39b34ea55"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2004",
+   "path": "local/bucuresti/cgmb/2004/95",
+   "short": "HCGMB nr. 95/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12587",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12587/h095_04.pdf",
+     "sha256": "09f9379e38da1cd1aeb10c9b6447c25aaf551dafe04193864eb01cb6cda4a4c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2004",
+   "path": "local/bucuresti/cgmb/2004/96",
+   "short": "HCGMB nr. 96/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12588",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12588/h096_04.pdf",
+     "sha256": "b97f4e50d996765085a923147604ccd87f65d3cf51d4cc25c3dbab825a558c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2004",
+   "path": "local/bucuresti/cgmb/2004/97",
+   "short": "HCGMB nr. 97/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12589",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12589/h097_04.pdf",
+     "sha256": "c4785c04f8de87e029138943ba458d17219bcc4cc5836578d4224484229e8205"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2004",
+   "path": "local/bucuresti/cgmb/2004/98",
+   "short": "HCGMB nr. 98/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2004 PRIVIND CONSTITUIREA COMISIEI DE PREDARE A TERENULUI SITUAT IN PIATA CHARLES DE GAULLE / B-DUL PRIMAVERII NR.2, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12590",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12590/h098_04.pdf",
+     "sha256": "550a51ff6311fcaa230089d1d2073fbcdf8a3a55fae70421ed1f78c7c7b89458"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2004",
+   "path": "local/bucuresti/cgmb/2004/99",
+   "short": "HCGMB nr. 99/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2004 PRIVIND ALEGEREA COMISIEI DE VALIDARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12789",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12789/h099_04.pdf",
+     "sha256": "f1746e8bb8229f41f979b5323f0b36174c537f9eb511eae8f802b359cb3a1c89"
     }
    ]
   }

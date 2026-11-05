@@ -3,6 +3,21 @@
  "shard": "precizari/1999",
  "acts": [
   {
+   "slug": "precizari-dezvoltare-5122-nn-1999",
+   "path": "precizari/dezvoltare/1999/5122-nn",
+   "short": "Precizări dezvoltare nr. 5122/NN/1999",
+   "title": "Precizările nr. 5.122/NN/1999 privind modul de constituire și virare de către investitori sau proprietari a cotei de 0,5% din valoarea devizului de construcții, cu corespondent în devizul general al lucrării, cota aferentă Casei Sociale a Constructorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18780",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18780",
+     "sha256": "9104ec53604c17745e0f3a574478df8a719471d662cdbcbf657eb3a67c5c8622"
+    }
+   ]
+  },
+  {
    "slug": "precizari-munca-1384-1999",
    "path": "precizari/munca/1999/1384",
    "short": "Precizări munca nr. 1384/1999",

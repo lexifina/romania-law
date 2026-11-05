@@ -2,7 +2,7 @@
 
 Norma bnr nr. 14/2006 · 1 versions, from 2007-01-01 (latest in force: 2007-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/74110>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Ratele medii ale dobânzii aferente creditelor și ale dobânzii aferente depozitelor Moneda: RON/EUR/USD ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Ratele medii ale dobânzii aferente creditelor și ale dobânzii aferente depozitelor Moneda: RON/EUR/USD): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,4 +43,4 @@ Act id: `norma-bnr-14-2006` (tags `norma-bnr-14-2006/<day>`; `python tools/on.py
 - Norma bnr nr. 14/2006: Anexa nr. 1 (1 Formule de calcul N r. c r t. Formula de calcul Explicatii 1. l,m Σ R [C(i)/D(j) x S [C(i)/D(j)] _ i,j=1 r (C/D) =) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 74110 of the official web service.
 - Norma bnr nr. 14/2006: Anexa nr. 3 (3 Ratele medii ale dobânzii aferente depozitelor overnight, depozitelor rambursabile după notificare și creditelor acordate pe descoperit de cont Moneda: RON\EUR\USD Credite/depozite Nr. crt. Societăț) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 74110 of the official web service.
 - Norma bnr nr. 14/2006: Anexa nr. 4 (4 Ratele medii ale dobânzii aferente creditelor noi și ale dobânzii aferente depozitelor noi Moneda: RON\EUR\USD Credite noi/depozite noi Durata inițială Perioada inițială fixă a ratei dobânzii Nr. cr) is part of the norm and is published in its folder, anexa-4/ (paragraphs), from document 74110 of the official web service.
-- Norma bnr nr. 14/2006: Anexa nr. 2 (2 Ratele medii ale dobânzii aferente creditelor și ale dobânzii aferente depozitelor Moneda: RON/EUR/USD ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 14/2006: Anexa nr. 2 (2 Ratele medii ale dobânzii aferente creditelor și ale dobânzii aferente depozitelor Moneda: RON/EUR/USD) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

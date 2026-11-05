@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1450/2010 · 1 versions, from 2010-12-09 (latest in force: 2010-12-09) · <https://legislatie.just.ro/Public/DetaliiDocument/124286>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 (Anexa nr. III la Ordinul nr. 399/2006) INFORMAȚII PRIVIND ETICHETAREA ┌─────────────────────────────────────────────────────────────────────────────┐ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 (Anexa nr. III la Ordinul nr. 399/2006) INFORMAȚII PRIVIND ETICHETAREA): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-sanatate-1450-2010` (tags `ordin-sanatate-1450-2010/<day>`; `pyth
 - Ordin sanatate nr. 1450/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1450/2010: Anexa nr. 1 (1 (Anexa nr. I la Ordinul nr. 399/2006) Prospect: informații pentru utilizator (Nume (inventat) concentrația forma farmaceutică) (Substanța (ele) activă(e)) &lt;Citiți cu atenție și în întregime acest) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 124286 of the official web service.
 - Ordin sanatate nr. 1450/2010: Anexa nr. 2 (2 (Anexa nr. II la Ordinul nr. 399/2006) Rezumatul caracteristicilor produsului 1. Denumirea comercială a medicamentului (Numele (inventat) concentrația forma farmaceutică) 2. Compoziția calitativă și) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 124286 of the official web service.
-- Ordin sanatate nr. 1450/2010: Anexa nr. 3 (3 (Anexa nr. III la Ordinul nr. 399/2006) INFORMAȚII PRIVIND ETICHETAREA ┌─────────────────────────────────────────────────────────────────────────────┐ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1450/2010: Anexa nr. 3 (3 (Anexa nr. III la Ordinul nr. 399/2006) INFORMAȚII PRIVIND ETICHETAREA) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 52/2011 · 1 versions, from 2011-01-26 (latest in force: 2011-01-26) · <https://legislatie.just.ro/Public/DetaliiDocument/125600>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │Cod de identificare│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ fiscală │ │ │ │ │ │ │ │ │ │ │ │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 ┌───────────────────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │Cod de identificare│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ fiscală │ │ │ │ │ │ │ │ │ │ │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened; Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,6 +24,6 @@ Act id: `ordin-anaf-52-2011` (tags `ordin-anaf-52-2011/<day>`; `python tools/on.
 - Ordin anaf nr. 52/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 52/2011: the first version is the order as published in Monitorul Oficial nr. 68 of 26 January 2011 (document 125600 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 52/2011: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 52/2011: Anexa nr. 1 (1 ┌───────────────────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │Cod de identificare│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ fiscală │ │ │ │ │ │ │ │ │ │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 52/2011: Anexa nr. 2 (2 ┌───────────────────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │Cod de identificare│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ fiscală │ │ │ │ │ │ │ │ │ │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 52/2011: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 52/2011: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 52/2011: the publisher's notes run into its text (*) Se înscrie codul de identificare al sediului principal, înregistrat ca plătitor de impozite, taxe şi contribuţii.) are not text.

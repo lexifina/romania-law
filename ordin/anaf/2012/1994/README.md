@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1994/2012 · 1 versions, from 2013-01-07 (latest in force: 2013-01-07) · <https://legislatie.just.ro/Public/DetaliiDocument/144373>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Sigla [ANAF] Agenția Națională de ┌──────────────────────────────────────────────┬─────┐ Administrare Fiscală │ Notificare │ │ │ privind modificarea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Sigla [ANAF] Agenția Națională de): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,5 +27,5 @@ Act id: `ordin-anaf-1994-2012` (tags `ordin-anaf-1994-2012/<day>`; `python tools
 - Ordin anaf nr. 1994/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1994/2012: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (012) "Notificare privind modificarea sistemului anual/trimestrial de declarare și plată a impozitului pe profit" Formularul (012) "Notificare privind modif) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 144373 of the official web service.
 - Ordin anaf nr. 1994/2012: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de utilizare și de arhivare ale formularului (012) "Notificare privind modificarea sistemului anual/trimestrial de declarare și plată a impozitului pe profit" 1.) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 144373 of the official web service.
-- Ordin anaf nr. 1994/2012: Anexa nr. 1 (1 Sigla [ANAF] Agenția Națională de ┌──────────────────────────────────────────────┬─────┐ Administrare Fiscală │ Notificare │ │ │ privind modificarea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1994/2012: Anexa nr. 1 (1 Sigla [ANAF] Agenția Națională de) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 1994/2012: the publisher's notes run into its text (*) Opţiunea este valabilă pentru cel puţin 2 ani consecutivi.) are not text.

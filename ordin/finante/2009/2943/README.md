@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2943/2009 · 1 versions, from 2009-11-10 (latest in force: 2009-11-10) · <https://legislatie.just.ro/Public/DetaliiDocument/113213>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 9* ┌──────────────────────┬───────────────────────────────────────────────────┬───────────────┐ │ 505 │ │ │ │ Număr de operator de │ FIȘA DE ÎNSCRIERE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 9*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-finante-2943-2009` (tags `ordin-finante-2943-2009/<day>`; `python
 - Ordin finante nr. 2943/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2943/2009: Anexa nr. 2 (2 CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor Fișa de înscriere în cazierul fiscal a atragerii răspunderii solidare cu debitorul declarat insolvabil sau) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 113213 of the official web service.
 - Ordin finante nr. 2943/2009: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 113213 of the official web service.
-- Ordin finante nr. 2943/2009: Anexa nr. 1 (1 *Font 9* ┌──────────────────────┬───────────────────────────────────────────────────┬───────────────┐ │ 505 │ │ │ │ Număr de operator de │ FIȘA DE ÎNSCRIERE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2943/2009: Anexa nr. 1 (1 *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

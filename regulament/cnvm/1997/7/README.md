@@ -2,7 +2,7 @@
 
 Regulament cnvm nr. 7/1997 · 1 versions, from 1997-07-07 (latest in force: 1997-07-07) · <https://legislatie.just.ro/Public/DetaliiDocument/10876>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (la regulament ORGANIGRAMA Comisiei Naționale a Valorilor Mobiliare *Font 7* ┌──────────┐ │PREȘEDINTE│ └────┬─────┘ ┌──────────┬─┐ │ │ Șef │1├────────┤ ┌ ─ ─ ─ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (la regulament ORGANIGRAMA Comisiei Naționale a Valorilor Mobiliare *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `regulament-cnvm-7-1997` (tags `regulament-cnvm-7-1997/<day>`; `python t
 - Regulament cnvm nr. 7/1997: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament cnvm nr. 7/1997: the first version is the regulation as published in Monitorul Oficial nr. 142 of 7 July 1997 (document 10876 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Regulament cnvm nr. 7/1997: the signatures and the place and date line after its last article are not article text.
-- Regulament cnvm nr. 7/1997: Anexa nr. 1 (la regulament ORGANIGRAMA Comisiei Naționale a Valorilor Mobiliare *Font 7* ┌──────────┐ │PREȘEDINTE│ └────┬─────┘ ┌──────────┬─┐ │ │ Șef │1├────────┤ ┌ ─ ─ ─ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament cnvm nr. 7/1997: Anexa nr. 1 (la regulament ORGANIGRAMA Comisiei Naționale a Valorilor Mobiliare *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

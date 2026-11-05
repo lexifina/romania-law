@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 880/2006 · 1 versions, from 2006-07-28 (latest in force: 2006-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/73911>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a autorității de sănătate publică județene, respectiv a municipiului București ┌───────────────────┐ │ DIRECTOR EXECUTIV │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a autorității de sănătate publică județene, respectiv a municipiului București): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -47,4 +47,4 @@ Act id: `ordin-sanatate-880-2006` (tags `ordin-sanatate-880-2006/<day>`; `python
 - Ordin sanatate nr. 880/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 880/2006: Anexa nr. 1 (1 REGULAMENT de organizare și funcționare a autorităților de sănătate publică județene, respectiv a municipiului București) is part of the order and is published in its folder, anexa-1/ (16 articles), from document 73911 of the official web service; the service's copy of it as a document of its own (73912) reads the same words.
 - Ordin sanatate nr. 880/2006: Anexa nr. 3 (3 LISTA centrelor regionale și județele arondate Centrul Regional 1 - coordonator - Autoritatea de Sănătate Publică Iași: ASP Iași, ASP Neamț, ASP Botoșani, ASP Suceava, ASP Bacău, ASP Vaslui Centrul) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 73911 of the official web service.
-- Ordin sanatate nr. 880/2006: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a autorității de sănătate publică județene, respectiv a municipiului București ┌───────────────────┐ │ DIRECTOR EXECUTIV │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 880/2006: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a autorității de sănătate publică județene, respectiv a municipiului București) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

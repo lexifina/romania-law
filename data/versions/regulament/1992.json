@@ -16,6 +16,21 @@
      "sha256": "79eaed2320caba8c9dcd2d1d5be212a3ab65473a70d640f13ae9d01435026892"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-3616-1992",
+   "path": "regulament/bnr/1992/3616",
+   "short": "Regulament bnr nr. 3616/1992",
+   "title": "Regulamentul nr. 3.616/1992 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2946",
+   "versions": [
+    {
+     "from": "1992-05-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2946",
+     "sha256": "02e7f61f235f6c4a63901237bf8261b2ba8c0109e1e9f294838fcec24ddb2da3"
+    }
+   ]
   }
  ]
 }

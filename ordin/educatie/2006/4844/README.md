@@ -2,7 +2,7 @@
 
 Ordin educatie nr. 4844/2006 · 1 versions, from 2006-08-08 (latest in force: 2006-08-08) · <https://legislatie.just.ro/Public/DetaliiDocument/74136>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ȘCOALA NAȚIONALĂ DE SĂNĂTATE PUBLICĂ ȘI MANAGEMENT SANITAR STRUCTURA ORGANIZATORICĂ ┌─────────────────────────┐ ┌─────────────┐ ┌──────────────────┐ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ȘCOALA NAȚIONALĂ DE SĂNĂTATE PUBLICĂ ȘI MANAGEMENT SANITAR STRUCTURA ORGANIZATORICĂ): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -71,4 +71,4 @@ Act id: `ordin-educatie-4844-2006` (tags `ordin-educatie-4844-2006/<day>`; `pyth
 - Ordin educatie nr. 4844/2006: Anexa nr. 1 (1 REGULAMENT de organizare și funcționare al Școlii Naționale de Sănătate Publică și Management Sanitar) is part of the order and is published in its folder, anexa-1/ (22 articles), from document 74136 of the official web service.
 - Ordin educatie nr. 4844/2006: Anexa nr. 2 (2 STATUTUL Școlii Naționale de Sănătate Publică și Management Sanitar) is part of the order and is published in its folder, anexa-2/ (21 articles), from document 74136 of the official web service.
 - Ordin educatie nr. 4844/2006: Anexa nr. 4 (4 STATUL DE FUNCȚII ȘI STRUCTURA DE PERSONAL ALE SNSPMS I. Stat de funcții Nr. crt. Funcția Specialitatea Nivelul studiilor Număr total de posturi 1 2 3 4 5 A. FUNCȚII DE CONDUCERE din care: 1 Directo) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 74136 of the official web service.
-- Ordin educatie nr. 4844/2006: Anexa nr. 3 (3 ȘCOALA NAȚIONALĂ DE SĂNĂTATE PUBLICĂ ȘI MANAGEMENT SANITAR STRUCTURA ORGANIZATORICĂ ┌─────────────────────────┐ ┌─────────────┐ ┌──────────────────┐ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin educatie nr. 4844/2006: Anexa nr. 3 (3 ȘCOALA NAȚIONALĂ DE SĂNĂTATE PUBLICĂ ȘI MANAGEMENT SANITAR STRUCTURA ORGANIZATORICĂ) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

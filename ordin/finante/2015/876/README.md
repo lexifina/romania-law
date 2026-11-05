@@ -2,7 +2,7 @@
 
 Ordin finante nr. 876/2015 · 1 versions, from 2015-08-25 (latest in force: 2015-08-25) · <https://legislatie.just.ro/Public/DetaliiDocument/170841>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 PAG [1] ┌──────────────┬──────────────────────────────────────────────────┬───────────┐ │ SIGLA │ DECLARAȚIE INFORMATIVĂ PRIVIND │ │ │ ANAF │ PROPRIETĂȚILE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 PAG [1]): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ Act id: `ordin-finante-876-2015` (tags `ordin-finante-876-2015/<day>`; `python t
 - Ordin finante nr. 876/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 876/2015: the first version is the order as published in Monitorul Oficial nr. 643 of 25 August 2015 (document 170841 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 876/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 876/2015: a joint order of Ministerul Finanțelor Publice nr. 876 din 27 July 2015; Ministerul Dezvoltării Regionale și Administrației Publice nr. 506 din 14 August 2015. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-506-2015` name it too (data/paths.json aliases).
 - Ordin finante nr. 876/2015: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului 401 "Declarație informativă privind proprietățile imobiliare deținute de rezidenți ai altor state membre ale Uniunii Europene pe teritoriul României" I. Dep) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 170841 of the official web service.
 - Ordin finante nr. 876/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului Denumire: 401 "Declarație informativă privind proprietățile imobiliare deținute de rezidenți ai altor stat) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 170841 of the official web service.
-- Ordin finante nr. 876/2015: Anexa nr. 1 (1 PAG [1] ┌──────────────┬──────────────────────────────────────────────────┬───────────┐ │ SIGLA │ DECLARAȚIE INFORMATIVĂ PRIVIND │ │ │ ANAF │ PROPRIETĂȚILE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 876/2015: Anexa nr. 1 (1 PAG [1]) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 876/2015: a joint order of Ministerul Finanțelor Publice nr. 876 din 27 July 2015; Ministerul Dezvoltării Regionale și Administrației Publice nr. 506 din 14 August 2015. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-506-2015` name it too (data/paths.json aliases).

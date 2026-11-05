@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3713/2013 · 1 versions, from 2013-12-04 (latest in force: 2013-12-04) · <https://legislatie.just.ro/Public/DetaliiDocument/153291>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────┬──────────────┐ │Declarație pe propira răspundere pentru îndeplinirea│ │ [SIGLA] │condiției prevăzute ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,4 @@ Act id: `ordin-anaf-3713-2013` (tags `ordin-anaf-3713-2013/<day>`; `python tools
 - Ordin anaf nr. 3713/2013: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (089) "Declarație pe propria răspundere pentru îndeplinirea condiției prevăzute la art. 160 alin. (2) lit. e) pct. 2 din Codul fiscal" Formularul (089) "Dec) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 153291 of the official web service.
 - Ordin anaf nr. 3713/2013: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularului 1.1. Denumire: "Declarație pe propria răspundere pentru îndeplinirea condiției prevăzute la art. 160 alin.) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 153291 of the official web service.
 - Ordin anaf nr. 3713/2013: Anexa nr. 4 (4 PROCEDURĂ de gestionare a Declarației pe propria răspundere pentru îndeplinirea condiției prevăzute la art. 160 alin. (2) lit. e) pct. 2 din Codul fiscal 1. Dispoziții generale 1.1. În condițiile pr) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 153291 of the official web service.
-- Ordin anaf nr. 3713/2013: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────┬──────────────┐ │Declarație pe propira răspundere pentru îndeplinirea│ │ [SIGLA] │condiției prevăzute ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3713/2013: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

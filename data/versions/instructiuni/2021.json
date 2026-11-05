@@ -3,6 +3,36 @@
  "shard": "instructiuni/2021",
  "acts": [
   {
+   "slug": "instructiuni-interne-164-2021",
+   "path": "instructiuni/interne/2021/164",
+   "short": "Instrucțiuni interne nr. 164/2021",
+   "title": "Instrucțiunile nr. 164/2021 pentru modificarea Listei nr. 13 din anexa nr. 1 la Instrucțiunile ministrului afacerilor interne nr. 166/2016 privind scăderea pierderilor determinate de perisabilități, la bunurile materiale, în unitățile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247888",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247888",
+     "sha256": "ae7e3db68bacdfce328b65ffcce45d746e9eb141c25f1655e86049527cc4c555"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-43-2021",
+   "path": "instructiuni/interne/2021/43",
+   "short": "Instrucțiuni interne nr. 43/2021",
+   "title": "Instrucțiunile nr. 43/2021 pentru abrogarea anexei nr. 10 la Instrucțiunile ministrului afacerilor interne nr. 9/2013 privind efectuarea analizelor de risc la securitatea fizică a unităților ce fac obiectul Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239670",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239670",
+     "sha256": "76eb8c94c77fe50f4949e2dd23a4ca6a437bf121d6f4ecce06bb346b386ed47a"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-sanatate-2503-2021",
    "path": "instructiuni/sanatate/2021/2503",
    "short": "Instrucțiuni sanatate nr. 2503/2021",

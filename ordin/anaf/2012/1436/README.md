@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1436/2012 · 1 versions, from 2012-10-05 (latest in force: 2012-10-05) · <https://legislatie.just.ro/Public/DetaliiDocument/141755>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 ┌─────────┬───────────────────────────────────────────────────┬────────────────┐ │ │ Cerere de înregistrare în scopuri de taxă pe │ 099 │ │ SIGLA │ valoarea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -39,4 +39,4 @@ Act id: `ordin-anaf-1436-2012` (tags `ordin-anaf-1436-2012/<day>`; `python tools
 - Ordin anaf nr. 1436/2012: Anexa nr. 4 (4 SIGLA MINISTERUL FINANȚELOR PUBLICE M.F.P. AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ SIGLA ANAF Adresa:.............. Unitatea fiscală........................................... Tel.:...............) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 141755 of the official web service.
 - Ordin anaf nr. 1436/2012: Anexa nr. 5 (5 INSTRUCȚIUNI de completare a formularului (099) "Cerere de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit art. 153 alin. (9^1) lit. b)-d) din Legea nr. 571/ 2003 privind Codul fiscal) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 141755 of the official web service.
 - Ordin anaf nr. 1436/2012: Anexa nr. 6 (6 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularelor 1. Denumire: "Cerere de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit art. 153 alin. (9^1) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 141755 of the official web service.
-- Ordin anaf nr. 1436/2012: Anexa nr. 2 (2 ┌─────────┬───────────────────────────────────────────────────┬────────────────┐ │ │ Cerere de înregistrare în scopuri de taxă pe │ 099 │ │ SIGLA │ valoarea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1436/2012: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

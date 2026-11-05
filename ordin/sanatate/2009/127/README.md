@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 127/2009 · 1 versions, from 2009-02-11 (latest in force: 2009-02-11) · <https://legislatie.just.ro/Public/DetaliiDocument/102274>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a direcțiilor de sănătate publică județene și a municipiului București *Font 8* ┌─────────────────┐ ┌────────────────┐ │ │ │Comitet ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a direcțiilor de sănătate publică județene și a municipiului București *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,5 +45,5 @@ Act id: `ordin-sanatate-127-2009` (tags `ordin-sanatate-127-2009/<day>`; `python
 - Ordin sanatate nr. 127/2009: the first version is the order as published in Monitorul Oficial nr. 81 of 11 February 2009 (document 102274 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 127/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 127/2009: Anexa nr. 1 (1 REGULAMENT de organizare și funcționare a direcțiilor de sănătate publică județene și a municipiului București) is part of the order and is published in its folder, anexa-1/ (18 articles), from document 102274 of the official web service; the service's copy of it as a document of its own (102275) reads the same words.
-- Ordin sanatate nr. 127/2009: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a direcțiilor de sănătate publică județene și a municipiului București *Font 8* ┌─────────────────┐ ┌────────────────┐ │ │ │Comitet ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 127/2009: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a direcțiilor de sănătate publică județene și a municipiului București *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 127/2009: the publisher's notes run into its text (*) În cazul unui deficit de personal calificat la nivel teritorial, pot fi operate comasări de birouri/compartimente/col) are not text.

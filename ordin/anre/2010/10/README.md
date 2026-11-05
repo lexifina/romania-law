@@ -2,7 +2,7 @@
 
 Ordin anre nr. 10/2010 · 1 versions, from 2010-04-23 (latest in force: 2010-04-23) · <https://legislatie.just.ro/Public/DetaliiDocument/118180>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 PUNCTE RELEVANTE DE IEȘIRE aferente Sistemului național de transport al gazelor naturale ┌────┬────────┬──────────────────────────────────────────┐ │ Nr.│ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 PUNCTE RELEVANTE DE IEȘIRE aferente Sistemului național de transport al gazelor naturale): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,4 @@ Act id: `ordin-anre-10-2010` (tags `ordin-anre-10-2010/<day>`; `python tools/on.
 - Ordin anre nr. 10/2010: the first version is the order as published in Monitorul Oficial nr. 266 of 23 April 2010 (document 118180 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 10/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 10/2010: Anexa nr. 1 (1 PUNCTE RELEVANTE DE INTRARE aferente Sistemului național de transport al gazelor naturale Nr. crt. Cod unic Denumire 1 PM0001 COLIBI I 2 PM0002 COLIBI II 3 PM0004 FILITELNIC-COROI 4 PM0005 LASLAU 5) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 118180 of the official web service.
-- Ordin anre nr. 10/2010: Anexa nr. 2 (2 PUNCTE RELEVANTE DE IEȘIRE aferente Sistemului național de transport al gazelor naturale ┌────┬────────┬──────────────────────────────────────────┐ │ Nr.│ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 10/2010: Anexa nr. 2 (2 PUNCTE RELEVANTE DE IEȘIRE aferente Sistemului național de transport al gazelor naturale) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

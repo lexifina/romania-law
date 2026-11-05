@@ -4905,6 +4905,72 @@
    ]
   },
   {
+   "slug": "hg-320-2000",
+   "path": "hg/2000/320",
+   "short": "HG nr. 320/2000",
+   "title": "Hotărârea Guvernului nr. 320/2000 pentru modificarea Hotărârii Guvernului nr. 447/1997 privind organizarea şi funcţionarea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22047",
+   "versions": [
+    {
+     "from": "2000-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22047",
+     "sha256": "c3de386b4cb39966ff6cbebe807537fdb9f56ee0b36b5427a010093c47238bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-321-2000",
+   "path": "hg/2000/321",
+   "short": "HG nr. 321/2000",
+   "title": "Hotărârea Guvernului nr. 321/2000 privind completarea Hotărârii Guvernului nr. 469/1999 pentru constituirea Comisiei de privatizare a Băncii Comerciale Române - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22023",
+   "versions": [
+    {
+     "from": "2000-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22023",
+     "sha256": "278508e13f0b83ccbca1573e19022b705a47b8c15baf6f5e2e1f5a7be36b6e27"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-2000",
+   "path": "hg/2000/322",
+   "short": "HG nr. 322/2000",
+   "title": "Hotărârea Guvernului nr. 322/2000 privind modificarea şi completarea Hotărârii Guvernului nr. 1.182/1996 pentru aplicarea Legii nr. 15/1996 privind statutul şi regimul refugiaţilor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22002",
+   "versions": [
+    {
+     "from": "2000-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22002",
+     "sha256": "8b37a9f4c3bec713b3a8eefe78251a0825bf5d7388f64a196bf54649355389a7"
+    },
+    {
+     "from": "2000-11-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47538",
+     "sha256": "0fdcb2006702ec7651969cf2b641054a30ca17730e965dc14350493333c9a267"
+    }
+   ]
+  },
+  {
+   "slug": "hg-324-2000",
+   "path": "hg/2000/324",
+   "short": "HG nr. 324/2000",
+   "title": "Hotărârea Guvernului nr. 324/2000 pentru aprobarea unor amendamente convenite la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma în domeniul protecţiei copilului, semnat la Washington la 15 iulie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22090",
+   "versions": [
+    {
+     "from": "2000-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22090",
+     "sha256": "49c8d5d38794de019251bf01f9c266809c6a4d0b7a03a8a4fb0ff6739444dd89"
+    }
+   ]
+  },
+  {
    "slug": "hg-326-2000",
    "path": "hg/2000/326",
    "short": "HG nr. 326/2000",
@@ -4935,6 +5001,51 @@
    ]
   },
   {
+   "slug": "hg-329-2000",
+   "path": "hg/2000/329",
+   "short": "HG nr. 329/2000",
+   "title": "Hotărârea Guvernului nr. 329/2000 pentru acordarea unui împrumut Ministerului Agriculturii şi Alimentaţiei din disponibilităţile contului general al trezoreriei statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22091",
+   "versions": [
+    {
+     "from": "2000-05-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22091",
+     "sha256": "a5b12d9f057177192a89f278d1cceb5f70f9d03a62298d81c51b3fd89732a06c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-330-2000",
+   "path": "hg/2000/330",
+   "short": "HG nr. 330/2000",
+   "title": "Hotărârea Guvernului nr. 330/2000 pentru modificarea Hotărârii Guvernului nr. 131/2000 privind unele măsuri pentru asigurarea finanţării parţiale a importurilor de păcura şi ţiţei necesare pentru realizarea Programului energetic 1999-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22092",
+   "versions": [
+    {
+     "from": "2000-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22092",
+     "sha256": "461c85ef815e4c0fc04e9d4a215a615e2cef9835f4b9c91d8bddd0cdc7e9f619"
+    }
+   ]
+  },
+  {
+   "slug": "hg-331-2000",
+   "path": "hg/2000/331",
+   "short": "HG nr. 331/2000",
+   "title": "Hotărârea Guvernului nr. 331/2000 pentru modificarea şi completarea Hotărârii Guvernului nr. 6/1999 privind organizarea şi funcţionarea Ministerului Agriculturii şi Alimentaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22353",
+   "versions": [
+    {
+     "from": "2000-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22353",
+     "sha256": "4be7c595f94b743d4dd3847b3af834f03eb4dbcfd51397e04ec7fa4b93bf1b1e"
+    }
+   ]
+  },
+  {
    "slug": "hg-332-2000",
    "path": "hg/2000/332",
    "short": "HG nr. 332/2000",
@@ -4950,6 +5061,21 @@
    ]
   },
   {
+   "slug": "hg-333-2000",
+   "path": "hg/2000/333",
+   "short": "HG nr. 333/2000",
+   "title": "Hotărârea Guvernului nr. 333/2000 pentru prelungirea termenului de aplicare a prevederilor Hotărârii Guvernului nr. 87/2000 privind exceptarea temporară de la plata taxei vamale a hârtiei de ziar provenite din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22105",
+   "versions": [
+    {
+     "from": "2000-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22105",
+     "sha256": "062666addad54f3effd1fd23b23c7054db1e4a799bf62b123069c85d3b7de349"
+    }
+   ]
+  },
+  {
    "slug": "hg-334-2000",
    "path": "hg/2000/334",
    "short": "HG nr. 334/2000",
@@ -4961,6 +5087,516 @@
      "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22263",
      "sha256": "13be0b0897e9afdeae2081587d6c4eba63ced8baa9b8e02d00c8687e598bc831"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-2000",
+   "path": "hg/2000/335",
+   "short": "HG nr. 335/2000",
+   "title": "Hotărârea Guvernului nr. 335/2000 privind aprobarea achiziţionării dintr-o singura sursa a unor materiale necesare în vederea organizării şi desfăşurării alegerilor locale din anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22254",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22254",
+     "sha256": "c7034be3fbaae3368a009c0497bc9d203d2cf6f4032b01ed408f84325e124cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-336-2000",
+   "path": "hg/2000/336",
+   "short": "HG nr. 336/2000",
+   "title": "Hotărârea Guvernului nr. 336/2000 privind aprobarea Normelor metodologice de aplicare a art. 77 alin. (1)-(7) din Legea nr. 70/1991 privind alegerile locale, republicată, astfel cum a fost modificat prin Ordonanţa de urgenţă a Guvernului nr. 28/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22188",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22188",
+     "sha256": "0488375779bb3045dd7eeeab7da4d6784518f2dc0c73c8d33bcdb56f1976bc4b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-2000",
+   "path": "hg/2000/337",
+   "short": "HG nr. 337/2000",
+   "title": "Hotărârea Guvernului nr. 337/2000 privind stabilirea modelelor proceselor-verbale pentru consemnarea rezultatelor alegerilor locale din anul 2000, a modelului certificatului doveditor al alegerii consilierilor locali şi a primarilor, precum şi a consilierilor judeţeni şi a modelului adeverinţei privind exercitarea dreptului de vot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22243",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22243",
+     "sha256": "3f576a6f4aa7154f5bb9e80abb08e0d935b883f31ef357d4d38779de8a4a29a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-338-2000",
+   "path": "hg/2000/338",
+   "short": "HG nr. 338/2000",
+   "title": "Hotărârea Guvernului nr. 338/2000 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22183",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22183",
+     "sha256": "c1a1343416f6f16356ffdd46e45bf5100db53165e42419ea002feb25f1be3f91"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-2000",
+   "path": "hg/2000/339",
+   "short": "HG nr. 339/2000",
+   "title": "Hotărârea Guvernului nr. 339/2000 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22184",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22184",
+     "sha256": "9a2060db715f4c13e3149624f186807781a3481bb6eca32f7d27ead9a529d167"
+    }
+   ]
+  },
+  {
+   "slug": "hg-340-2000",
+   "path": "hg/2000/340",
+   "short": "HG nr. 340/2000",
+   "title": "Hotărârea Guvernului nr. 340/2000 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22185",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22185",
+     "sha256": "e0dc8292f9c8cb7b4f0b9ac3e00192adab630dbc462168861d75253a69869c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-341-2000",
+   "path": "hg/2000/341",
+   "short": "HG nr. 341/2000",
+   "title": "Hotărârea Guvernului nr. 341/2000 pentru aprobarea contractării unui credit extern de către Societatea Comercială de Avioane Craiova - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22234",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22234",
+     "sha256": "d4a14d590d782d8c070d6c466fb4a3283d69c68edaab1a6bd32ae1dd4a5b80e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-2000",
+   "path": "hg/2000/342",
+   "short": "HG nr. 342/2000",
+   "title": "Hotărârea Guvernului nr. 342/2000 pentru modificarea Regulamentului de organizare şi funcţionare a Comisiei Naţionale pentru Controlul Activităţilor Nucleare, aprobat prin Hotărârea Guvernului nr. 287/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22190",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22190",
+     "sha256": "12dc3f59e7261af8e45d413a8dc13508866c9e5fc5b7c4b5cd10d72e7059abb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-2000",
+   "path": "hg/2000/343",
+   "short": "HG nr. 343/2000",
+   "title": "Hotărârea Guvernului nr. 343/2000 privind transmiterea în administrare a unor imobile, proprietate publică a statului, situate în municipiul Constanţa, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22235",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22235",
+     "sha256": "b23abe683996e76ad4f7ad505cecdd3705ed804184a0824a40899a897732b521"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-2000",
+   "path": "hg/2000/344",
+   "short": "HG nr. 344/2000",
+   "title": "Hotărârea Guvernului nr. 344/2000 privind trecerea, cu plată, a unui imobil situat în municipiul Brăila, judeţul Brăila, de la Societatea Comercială \"Start\" - S.A. Brăila în proprietatea publică a statului şi în administrarea Ministerului Educaţiei Naţionale, pentru Inspectoratul Şcolar Judeţean Brăila - Grupul Şcolar Industrial de Transporturi \"Panait Istrati\" din municipiul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22236",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22236",
+     "sha256": "30dc635ff0dab713c99b88191cf2d1efeea036eaedba02b312742565ffc88669"
+    }
+   ]
+  },
+  {
+   "slug": "hg-345-2000",
+   "path": "hg/2000/345",
+   "short": "HG nr. 345/2000",
+   "title": "Hotărârea Guvernului nr. 345/2000 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Justiţiei în administrarea Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22237",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22237",
+     "sha256": "d6fc5c74fbd4df57954f9e7ac59d8a409add923277fecc159a0c329c93a80f37"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-2000",
+   "path": "hg/2000/346",
+   "short": "HG nr. 346/2000",
+   "title": "Hotărârea Guvernului nr. 346/2000 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Consiliului Local al Comunei Otopeni în administrarea Serviciului Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22238",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22238",
+     "sha256": "0fa29df942c8e132e250deed78b6ca30754a20ea0f32ecd4cd2e28bd663c3ed4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-347-2000",
+   "path": "hg/2000/347",
+   "short": "HG nr. 347/2000",
+   "title": "Hotărârea Guvernului nr. 347/2000 privind trecerea unor imobile din domeniul public al statului în domeniul privat al comunei Otopeni, judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22239",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22239",
+     "sha256": "fd7ca4977e14ef32ad5e336b58427090036677d7e7b13525507ed10d3ccad6b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-2000",
+   "path": "hg/2000/348",
+   "short": "HG nr. 348/2000",
+   "title": "Hotărârea Guvernului nr. 348/2000 privind trecerea, fără plata, a unui teren agricol, proprietate publică a statului, din administrarea Societăţii Comerciale \"Agrap\" - S.A. Apahida, judeţul Cluj, în administrarea Ministerului Educaţiei Naţionale pentru Universitatea de Ştiinţe Agricole şi Medicina Veterinara din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22240",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22240",
+     "sha256": "c02cf6dc945c57b2aa210c61db50cf8a6b52eefb0b6d001f9aaa26d5e9fedbc8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2000",
+   "path": "hg/2000/349",
+   "short": "HG nr. 349/2000",
+   "title": "Hotărârea Guvernului nr. 349/2000 privind trecerea a 5 centre pentru testarea soiurilor şi a unor bunuri, proprietate publică a statului, din administrarea Institutului de Stat pentru Testarea şi Înregistrarea Soiurilor în administrarea Agenţiei Naţionale de Consultanţa Agricolă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22192",
+   "versions": [
+    {
+     "from": "2000-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22192",
+     "sha256": "6697e1c258c2efe444b790dad6e2308ebde4d7139ce5e84150137a79a56d5293"
+    }
+   ]
+  },
+  {
+   "slug": "hg-350-2000",
+   "path": "hg/2000/350",
+   "short": "HG nr. 350/2000",
+   "title": "Hotărârea Guvernului nr. 350/2000 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22340",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22340",
+     "sha256": "967b5175bd00d4f353ef9626e70523ab991ccfd156946bbc9cfb444f426d7c55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-351-2000",
+   "path": "hg/2000/351",
+   "short": "HG nr. 351/2000",
+   "title": "Hotărârea Guvernului nr. 351/2000 privind eliberarea din funcţia de prefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22186",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22186",
+     "sha256": "08f4641389522fe1651b5d3fcf5e8bdf047cb148c0338ab33d0f8034b9fa4e72"
+    }
+   ]
+  },
+  {
+   "slug": "hg-352-2000",
+   "path": "hg/2000/352",
+   "short": "HG nr. 352/2000",
+   "title": "Hotărârea Guvernului nr. 352/2000 privind eliberarea din funcţia de subprefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22093",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22093",
+     "sha256": "a1de35f3c07d82e0b4f87c6a60c2ac79c3d87b31ed04d560b6c01daa32fa6830"
+    }
+   ]
+  },
+  {
+   "slug": "hg-353-2000",
+   "path": "hg/2000/353",
+   "short": "HG nr. 353/2000",
+   "title": "Hotărârea Guvernului nr. 353/2000 privind numirea în funcţia de prefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22094",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22094",
+     "sha256": "a663015fd9e1ea2072a2a2b438630a6596879b87a1917935ba71e98735148be1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-354-2000",
+   "path": "hg/2000/354",
+   "short": "HG nr. 354/2000",
+   "title": "Hotărârea Guvernului nr. 354/2000 privind numirea în funcţia de subprefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22174",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22174",
+     "sha256": "dbfcae7ca96c2506e3a46802c3c51605ecbe34072a46a9082fd085746fa25fd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-355-2000",
+   "path": "hg/2000/355",
+   "short": "HG nr. 355/2000",
+   "title": "Hotărârea Guvernului nr. 355/2000 privind eliberarea din funcţia de subprefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22175",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22175",
+     "sha256": "6af3fe3a4f670368dd5c4448826b3f53223e4d32ce83745257b720cd91afad37"
+    }
+   ]
+  },
+  {
+   "slug": "hg-356-2000",
+   "path": "hg/2000/356",
+   "short": "HG nr. 356/2000",
+   "title": "Hotărârea Guvernului nr. 356/2000 privind numirea în funcţia de prefect al judeţului Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22176",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22176",
+     "sha256": "f94133b0af5b7783218513c8babb6be433600520c50c7f726737e7c89db85e41"
+    }
+   ]
+  },
+  {
+   "slug": "hg-358-2000",
+   "path": "hg/2000/358",
+   "short": "HG nr. 358/2000",
+   "title": "Hotărârea Guvernului nr. 358/2000 privind acordarea unui împrumut de la trezoreria generală a statului Agenţiei Naţionale pentru Ocupare şi Formare Profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22191",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22191",
+     "sha256": "0222b63f88ec5dcad50f75c4c4dc45f6289cea53ab02a55a2a07b9a3c7f44de3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-2000",
+   "path": "hg/2000/359",
+   "short": "HG nr. 359/2000",
+   "title": "Hotărârea Guvernului nr. 359/2000 privind eliberarea din funcţia de subprefect al judeţului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22225",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22225",
+     "sha256": "856c71974a26ea5a3dac8260d01527870825a072ad58f9d93c4aa56afb1fbe69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-360-2000",
+   "path": "hg/2000/360",
+   "short": "HG nr. 360/2000",
+   "title": "Hotărârea Guvernului nr. 360/2000 privind eliberarea din funcţia de prefect al judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22227",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22227",
+     "sha256": "8f1c2f5e3a35d4673d120c8cd42ffbbf7a19cc161c1ba6d38f2b246a3a000487"
+    }
+   ]
+  },
+  {
+   "slug": "hg-361-2000",
+   "path": "hg/2000/361",
+   "short": "HG nr. 361/2000",
+   "title": "Hotărârea Guvernului nr. 361/2000 privind numirea în funcţia de prefect al judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22228",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22228",
+     "sha256": "85c8d9bf94775cd198771d1a0cc23538b69f34fa21781f8a73707e5de33f7990"
+    }
+   ]
+  },
+  {
+   "slug": "hg-363-2000",
+   "path": "hg/2000/363",
+   "short": "HG nr. 363/2000",
+   "title": "Hotărârea Guvernului nr. 363/2000 privind aprobarea unor cheltuieli în legătură cu emisiunea de obligaţiuni denominate în mărci germane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22288",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22288",
+     "sha256": "462f7aaf8e9b0d1adbdf9b30cf3f96c718d8575e49412cc076ef5ac0ff1fefda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-364-2000",
+   "path": "hg/2000/364",
+   "short": "HG nr. 364/2000",
+   "title": "Hotărârea Guvernului nr. 364/2000 privind eliberarea din funcţia de prefect al judeţului Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22229",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22229",
+     "sha256": "119410269d5f42adcd7b29e588aec1e9b250f650eb706dc95b23d296d5bf6250"
+    }
+   ]
+  },
+  {
+   "slug": "hg-365-2000",
+   "path": "hg/2000/365",
+   "short": "HG nr. 365/2000",
+   "title": "Hotărârea Guvernului nr. 365/2000 privind numirea în funcţia de subprefect al judeţului Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22230",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22230",
+     "sha256": "91e372c9f04c1ce9643c818631698e895f60389aa156f3e8be7f64022bd8af0a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-366-2000",
+   "path": "hg/2000/366",
+   "short": "HG nr. 366/2000",
+   "title": "Hotărârea Guvernului nr. 366/2000 privind numirea în funcţia de prefect al judeţului Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22231",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22231",
+     "sha256": "41b8af275a621285e4531415f9571b4a02348a6d305fe6d72c8b837c9be56532"
+    }
+   ]
+  },
+  {
+   "slug": "hg-367-2000",
+   "path": "hg/2000/367",
+   "short": "HG nr. 367/2000",
+   "title": "Hotărârea Guvernului nr. 367/2000 pentru modificarea şi completarea Hotărârii Guvernului nr. 104/1999 privind organizarea şi funcţionarea Ministerului Apelor, Pădurilor şi Protecţiei Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22347",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22347",
+     "sha256": "75e71343147b87c067334b187de176973d4cec161549090e7d3baf3a54c34593"
+    }
+   ]
+  },
+  {
+   "slug": "hg-368-2000",
+   "path": "hg/2000/368",
+   "short": "HG nr. 368/2000",
+   "title": "Hotărârea Guvernului nr. 368/2000 pentru aprobarea Convenţiei dintre Ministerul Agriculturii şi Alimentaţiei din România şi Ministerul Agriculturii şi Alimentaţiei din Federaţia Rusa privind cooperarea economică şi tehnico-ştiinţifică în domeniul agriculturii şi industriei alimentare, semnată la Moscova la 25 noiembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22341",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22341",
+     "sha256": "7c7aa714b880a2b3ad262402c51e48a04e87f69bfeedcce7988f9a1c8218ac6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-2000",
+   "path": "hg/2000/369",
+   "short": "HG nr. 369/2000",
+   "title": "Hotărârea Guvernului nr. 369/2000 pentru aprobarea încheierii Contractului de consultanţa în vederea recuperării creanţelor României din Republica Arabă Siriana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22289",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22289",
+     "sha256": "0da82d83b770bbf20c01a1e722a32a189f0df66ef7fab7d9e19296128b2aaa64"
+    }
+   ]
+  },
+  {
+   "slug": "hg-370-2000",
+   "path": "hg/2000/370",
+   "short": "HG nr. 370/2000",
+   "title": "Hotărârea Guvernului nr. 370/2000 privind suplimentarea bugetului Secretariatului de Stat pentru Culte din Fondul de rezerva bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22343",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22343",
+     "sha256": "b12b8f47ef882a4af3332f2c2cab61f17accf805763a3821d121a5fac68757da"
     }
    ]
   },

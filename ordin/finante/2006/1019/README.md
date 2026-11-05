@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1019/2006 · 1 versions, from 2006-07-04 (latest in force: 2006-07-04) · <https://legislatie.just.ro/Public/DetaliiDocument/73153>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I Ministerul Finanțelor Publice ┌─────┐ Agentia Naționala de │ MFP │ Administrare Fiscala └─────┘ Administratia Finanțelor Nr. înregistrare...... Numar de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I Ministerul Finanțelor Publice): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-finante-1019-2006` (tags `ordin-finante-1019-2006/<day>`; `python
 - Ordin finante nr. 1019/2006: the first version is the order as published in Monitorul Oficial nr. 578 of 4 July 2006 (document 73153 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 1019/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1019/2006: Anexa nr. 2 (II Caracteristicile de tipărire, modul de difuzare, de utilizare și păstrare a formularelor Decizie de impunere anuală pentru veniturile realizate din România de persoanele fizice, cod 14.13.02.13/a 1) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 73153 of the official web service.
-- Ordin finante nr. 1019/2006: Anexa nr. 1 (I Ministerul Finanțelor Publice ┌─────┐ Agentia Naționala de │ MFP │ Administrare Fiscala └─────┘ Administratia Finanțelor Nr. înregistrare...... Numar de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1019/2006: Anexa nr. 1 (I Ministerul Finanțelor Publice) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

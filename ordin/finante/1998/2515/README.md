@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2515/1998 · 1 versions, from 1998-12-17 (latest in force: 1998-12-17) · <https://legislatie.just.ro/Public/DetaliiDocument/16406>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (9358 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,3 +24,4 @@ Act id: `ordin-finante-2515-1998` (tags `ordin-finante-2515-1998/<day>`; `python
 - Ordin finante nr. 2515/1998: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2515/1998: Anexa nr. 1 (1 PROGRAM CALENDARISTIC privind derularea principalelor operațiuni de încheiere a exercițiului bugetar pe anul 1998 Nr. crt. Explicarea operațiunilor Zilele de efectuare a operațiunilor în luna decemb) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 16406 of the official web service.
 - Ordin finante nr. 2515/1998: Anexa nr. 2 (2 LISTA cuprinzând operațiunile pentru care unele instituții publice pot păstra sume la finele anului 1998 contul "Sume de mandat și sume în depozit", deschis la băncile comerciale și la trezoreria st) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 16406 of the official web service.
+- Ordin finante nr. 2515/1998: the official text prints 9358 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

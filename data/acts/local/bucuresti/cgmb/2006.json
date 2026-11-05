@@ -2207,6 +2207,29 @@
 }
 },
 {
+"slug": "hcgmb-99-2006",
+"path": "local/bucuresti/cgmb/2006/99",
+"kind": "local",
+"year": "2006",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 99/2006",
+"short": "HCGMB nr. 99/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-05-04",
+"latest": "2006-05-04",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/17048",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcgmb-100-2006",
 "path": "local/bucuresti/cgmb/2006/100",
 "kind": "local",

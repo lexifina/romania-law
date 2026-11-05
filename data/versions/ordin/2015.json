@@ -3,6 +3,21 @@
  "shard": "ordin/2015",
  "acts": [
   {
+   "slug": "ordin-agricultura-1565-2015",
+   "path": "ordin/agricultura/2015/1565",
+   "short": "Ordin agricultura nr. 1565/2015",
+   "title": "Ordinul nr. 1.565/2015 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului dezvoltării regionale și administrației publice nr. 20/208/2015 privind punerea în aplicare a prevederilor art. 9 alin. (1) din Legea nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169531",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169531",
+     "sha256": "ca2134ab129bbb1de6f33fc0a747e6c079bdb1a63aaa57b2e5b17de8eda6385c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1692-2015",
    "path": "ordin/agricultura/2015/1692",
    "short": "Ordin agricultura nr. 1692/2015",
@@ -44,6 +59,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171545",
      "sha256": "a04249bcbcefdb47a04e905996bb46a258ae8cd449db7a1db15230f5b98dc6ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2015",
+   "path": "ordin/agricultura/2015/20",
+   "short": "Ordin agricultura nr. 20/2015",
+   "title": "Ordinul nr. 20/2015 privind punerea în aplicare a prevederilor art. 9 alin. (1) din Legea nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165162",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165162",
+     "sha256": "47f3a2b32c78c790137e6ed59605e413c8f94eb6564f570b47c34804c0df75eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-571-2015",
+   "path": "ordin/agricultura/2015/571",
+   "short": "Ordin agricultura nr. 571/2015",
+   "title": "Ordinul nr. 571/2015 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 407/2.051/2013 pentru aprobarea contractelor-cadru de concesiune și închiriere a suprafețelor de pajiști aflate în domeniul public/privat al comunelor, orașelor, respectiv al municipiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170306",
+   "versions": [
+    {
+     "from": "2015-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170306",
+     "sha256": "2587679eddebe803e848dafd399040634d8569ea69fa47b84d562800e287bbb0"
     }
    ]
   },
@@ -3648,6 +3693,156 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1036-2015",
+   "path": "ordin/dezvoltare/2015/1036",
+   "short": "Ordin dezvoltare nr. 1036/2015",
+   "title": "Ordinul nr. 1.036/2015 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului dezvoltării regionale și administrației publice nr. 951/2015 pentru aprobarea Programului național multianual privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173009",
+   "versions": [
+    {
+     "from": "2015-11-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173009",
+     "sha256": "1d1881eab091b0fec0f73ee59bbcdca239da6a6fd744a727268443f02d9c6281"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1090-2015",
+   "path": "ordin/dezvoltare/2015/1090",
+   "short": "Ordin dezvoltare nr. 1090/2015",
+   "title": "Ordinul nr. 1.090/2015 pentru modificarea și completarea Ordinului ministrului dezvoltării regionale și locuinței nr. 636/2009 privind aprobarea categoriilor de cheltuieli eligibile efectuate pentru implementarea Proiectului de asistență tehnică finanțat în cadrul Programului de cooperare transfrontalieră Ungaria - România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173500",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173500",
+     "sha256": "b1c56cdf98eb25a7d14cfa12f92fe9fa31d7b9908b63f190e564b81cc6f3f455"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1157-2015",
+   "path": "ordin/dezvoltare/2015/1157",
+   "short": "Ordin dezvoltare nr. 1157/2015",
+   "title": "Ordinul nr. 1.157/2015 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173884",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173884",
+     "sha256": "a2d7dfbc310b5362a5d91bd192d7ee3ed40cdfb81dc329c38dcda0285204ca17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-158-2015",
+   "path": "ordin/dezvoltare/2015/158",
+   "short": "Ordin dezvoltare nr. 158/2015",
+   "title": "Ordinul nr. 158/2015 privind modificarea și completarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164683",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164683",
+     "sha256": "6256c3d44ccd885dbd5e845349a1e3b5c29049ae2fbba09c87efbf0983a6fb6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-164-2015",
+   "path": "ordin/dezvoltare/2015/164",
+   "short": "Ordin dezvoltare nr. 164/2015",
+   "title": "Ordinul nr. 164/2015 privind aprobarea reglementării tehnice \"Procedură pentru inspecția tehnică a echipamentelor tehnologice pentru executarea, profilarea și finisarea lucrărilor de pământ specifice la drumuri, aeroporturi și fundații speciale\", indicativ PCC 024-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169530",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169530",
+     "sha256": "4b5c32f736018f4e06836a8e43bba87e45890fdb4c489c44dcf358c102292467"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1982-2015",
+   "path": "ordin/dezvoltare/2015/1982",
+   "short": "Ordin dezvoltare nr. 1982/2015",
+   "title": "Ordinul nr. 1.982/2015 pentru modificarea și înlocuirea anexei la Ordinul ministrului dezvoltării regionale și administrației publice nr. 252/2015 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform Programului \"Termoficare 2006-2015 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173851",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173851",
+     "sha256": "79bbea18458e059d45e407e79420cddbe84259c743573da9f90e5a7ba58d66c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2008-2015",
+   "path": "ordin/dezvoltare/2015/2008",
+   "short": "Ordin dezvoltare nr. 2008/2015",
+   "title": "Ordinul nr. 2.008/2015 privind aprobarea Instrucțiunii pentru aplicarea unitară a prevederilor art. 6 alin. (1) din Legea nr. 121/2014 privind eficiența energetică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174169",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174169",
+     "sha256": "6e0c9f6bdfac4b9359e23bee465cba64d8661592db44bae0529e5c656cd746af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2123-2015",
+   "path": "ordin/dezvoltare/2015/2123",
+   "short": "Ordin dezvoltare nr. 2123/2015",
+   "title": "Ordinul nr. 2.123/2015 privind aprobarea instrucțiunilor pentru emiterea unitară a formularului tipizat Model 2016 ITL Regim special - 001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174545",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174545",
+     "sha256": "eb5bd437c9f402dab9fc06e232d1499be3863c6587402bf7c3cc5c103eacff50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-252-2015",
+   "path": "ordin/dezvoltare/2015/252",
+   "short": "Ordin dezvoltare nr. 252/2015",
+   "title": "Ordinul nr. 252/2015 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților, conform Programului \"Termoficare 2006-2015 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169558",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169558",
+     "sha256": "5db8d8b6b400f50fecc0ed2768563faf30d41adc110407ede5594293cbf142ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-263-2015",
+   "path": "ordin/dezvoltare/2015/263",
+   "short": "Ordin dezvoltare nr. 263/2015",
+   "title": "Ordinul nr. 263/2015 privind inventarierea clădirilor încălzite și/sau răcite, deținute și ocupate de administrația publică centrală, cu o suprafață totală utilă cuprinsă între 250 mp și 500 mp, și punerea inventarului la dispoziția publicului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169408",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169408",
+     "sha256": "241e32a447663ecf28a2d3cf504db69eac7ee44db15900e7ec7cf8543bb89d88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-282-2015",
    "path": "ordin/dezvoltare/2015/282",
    "short": "Ordin dezvoltare nr. 282/2015",
@@ -3678,6 +3873,81 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-339-2015",
+   "path": "ordin/dezvoltare/2015/339",
+   "short": "Ordin dezvoltare nr. 339/2015",
+   "title": "Ordinul nr. 339/2015 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166276",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166276",
+     "sha256": "f0f2a29b98ba2a9a36300ea4fec41058591113f239f1ed4b612a6b613ce89f3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-355-2015",
+   "path": "ordin/dezvoltare/2015/355",
+   "short": "Ordin dezvoltare nr. 355/2015",
+   "title": "Ordinul nr. 355/2015 pentru modificarea Ordinului ministrului dezvoltării regionale și administrației publice nr. 496/2015 privind contravaloarea alocației valorice a normei de hrană acordată personalului poliției locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169982",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169982",
+     "sha256": "be620fc8da0e8385f3b6d97b3a55de9c9d67422f3d530499c2a84816428212e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-373-2015",
+   "path": "ordin/dezvoltare/2015/373",
+   "short": "Ordin dezvoltare nr. 373/2015",
+   "title": "Ordinul nr. 373/2015 pentru stabilirea valorii de înlocuire pe metru pătrat, pentru anul 2015, în vederea vânzării locuințelor pentru tineri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170123",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170123",
+     "sha256": "6c1a17d3a01bd3f26efcdbddbb789cd747e4182117edc46ff10f8d7e0d58f0fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-465-2015",
+   "path": "ordin/dezvoltare/2015/465",
+   "short": "Ordin dezvoltare nr. 465/2015",
+   "title": "Ordinul nr. 465/2015 privind modificarea și completarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170543",
+   "versions": [
+    {
+     "from": "2015-08-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170543",
+     "sha256": "9c66071bbfa8ce0f68d5975efe6471d7e40af2ddf6b7983668488391c3247d62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-481-2015",
+   "path": "ordin/dezvoltare/2015/481",
+   "short": "Ordin dezvoltare nr. 481/2015",
+   "title": "Ordinul nr. 481/2015 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170694",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170694",
+     "sha256": "ad6c7c58e22fdedb1c5b4f88bd3eed65ea66d8dae78d1676c4e698c43dbd3936"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-490-2015",
    "path": "ordin/dezvoltare/2015/490",
    "short": "Ordin dezvoltare nr. 490/2015",
@@ -3689,6 +3959,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171707",
      "sha256": "3dfc57647aced36184cc45259838b7511840404e2ea8c19e61c8e5c7f0a5c2d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-496-2015",
+   "path": "ordin/dezvoltare/2015/496",
+   "short": "Ordin dezvoltare nr. 496/2015",
+   "title": "Ordinul nr. 496/2015 privind contravaloarea alocației valorice a normei de hrană acordată personalului poliției locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166833",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166833",
+     "sha256": "7126275b7485208b45d82e146de3208d2e4e668029d4efed9cf3a7e82b7d11e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-502-2015",
+   "path": "ordin/dezvoltare/2015/502",
+   "short": "Ordin dezvoltare nr. 502/2015",
+   "title": "Ordinul nr. 502/2015 pentru modificarea Ordinului ministrului dezvoltării regionale și administrației publice nr. 496/2015 privind contravaloarea alocației valorice a normei de hrană acordată personalului poliției locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170614",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170614",
+     "sha256": "2f00aeb11da98a00d3b4cfdacb514f90a8b84bce9a0f60dc7811d36fe3d2a178"
     }
    ]
   },
@@ -3708,6 +4008,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-591-2015",
+   "path": "ordin/dezvoltare/2015/591",
+   "short": "Ordin dezvoltare nr. 591/2015",
+   "title": "Ordinul nr. 591/2015 privind modificarea Ordinului ministrului dezvoltării regionale și locuinței nr. 547/2009 pentru aprobarea categoriilor de cheltuieli eligibile în cadrul componentei de Asistență tehnică a Programului operațional comun \"Marea Neagră 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171217",
+   "versions": [
+    {
+     "from": "2015-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171217",
+     "sha256": "d504b9e60a07d702b3ecfad3fca7e450b89488b2b3ca8593c7acd22684e60c8d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-661-2015",
    "path": "ordin/dezvoltare/2015/661",
    "short": "Ordin dezvoltare nr. 661/2015",
@@ -3719,6 +4034,171 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172327",
      "sha256": "0723836d20572fcff01e00cff31ce4b952af37fabacc58e4d972c776b7797f69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-728-2015",
+   "path": "ordin/dezvoltare/2015/728",
+   "short": "Ordin dezvoltare nr. 728/2015",
+   "title": "Ordinul nr. 728/2015 privind aprobarea Strategiei pentru integritate a Ministerului Dezvoltării Regionale și Administrației Publice 2015-2020 și a Planului de acțiune pentru implementarea Strategiei pentru integritate a Ministerului Dezvoltării Regionale și Administrației Publice 2015-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167961",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167961",
+     "sha256": "77c3a981cac5cfc592220c3dd69e4acce6429b8f5cfc3d9e3162ccbaf57edc0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-774-2015",
+   "path": "ordin/dezvoltare/2015/774",
+   "short": "Ordin dezvoltare nr. 774/2015",
+   "title": "Ordinul nr. 774/2015 privind aprobarea reglementării tehnice \"Specificație tehnică privind cerințele tehnice specifice pentru echiparea căilor de trafic rutier cu dispozitive de reducere a zgomotului\", indicativ ST 052-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168167",
+   "versions": [
+    {
+     "from": "2015-06-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168167",
+     "sha256": "04e3edfd74a8e5a3e4a44a2672648d5583fb93d5d57d4383fe6aa97956bf26a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-776-2015",
+   "path": "ordin/dezvoltare/2015/776",
+   "short": "Ordin dezvoltare nr. 776/2015",
+   "title": "Ordinul nr. 776/2015 pentru modificarea Ordinului ministrului dezvoltării regionale și administrației publice nr. 496/2015 privind contravaloarea alocației valorice a normei de hrană acordată personalului poliției locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171712",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171712",
+     "sha256": "107fea7311b089f8cba9195ac1ade3993bef8b55a3cea35838a8ea141cafe31d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-821-2015",
+   "path": "ordin/dezvoltare/2015/821",
+   "short": "Ordin dezvoltare nr. 821/2015",
+   "title": "Ordinul nr. 821/2015 privind aprobarea reglementării tehnice \"Procedură pentru inspecția tehnică a echipamentelor pentru punerea în operă a mixturilor asfaltice la lucrări de drumuri și aeroporturi\", indicativ PCC 022 - 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168080",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168080",
+     "sha256": "293fefd004cd5faa268e57f48e9cfb9f32ce0b76ffe6284548e36c1cfbbff5e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-844-2015",
+   "path": "ordin/dezvoltare/2015/844",
+   "short": "Ordin dezvoltare nr. 844/2015",
+   "title": "Ordinul nr. 844/2015 pentru aprobarea Procedurii privind exercitarea unitară a controlului de stat pentru supravegherea pieței produselor pentru construcții - PC 001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168024",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168024",
+     "sha256": "091061ad8768faba188e3bcd62b3f40d7a5fe1106cb28aaa8171db8c7f78b8ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-892-2015",
+   "path": "ordin/dezvoltare/2015/892",
+   "short": "Ordin dezvoltare nr. 892/2015",
+   "title": "Ordinul nr. 892/2015 privind acordarea celui de-al treilea titlu de parc industrial Societății \"EUROBUSINESS PARC ORADEA\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168043",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168043",
+     "sha256": "d7d62452561c022887740854d2d72d71ac111ca33fbfa2acdfa2a9550305842e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-901-2015",
+   "path": "ordin/dezvoltare/2015/901",
+   "short": "Ordin dezvoltare nr. 901/2015",
+   "title": "Ordinul nr. 901/2015 privind aprobarea Metodologiei de emitere a avizului tehnic de către Inspectoratul de Stat în Construcții - I.S.C. pentru documentațiile tehnico-economice aferente obiectivelor de investiții finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168363",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168363",
+     "sha256": "0c04985ebd5a150751dbfe44ccbb12b4a05fe49cc61f138bcd2f7cf381ca6660"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-91-2015",
+   "path": "ordin/dezvoltare/2015/91",
+   "short": "Ordin dezvoltare nr. 91/2015",
+   "title": "Ordinul nr. 91/2015 privind aprobarea reglementării tehnice \"Procedură pentru inspecția tehnică a stațiilor pentru prepararea mixturilor asfaltice pentru lucrări de drumuri și aeroporturi\", indicativ PCC 019 - 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169373",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169373",
+     "sha256": "b0aff0119b608c1552fac8fb65a0dfc44bb8c8ad68586c760be388a56c59897b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-947-2015",
+   "path": "ordin/dezvoltare/2015/947",
+   "short": "Ordin dezvoltare nr. 947/2015",
+   "title": "Ordinul nr. 947/2015 privind modificarea și completarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172509",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172509",
+     "sha256": "4a7efd4f59d23a150d92df48f4b6af0edd523adc38cf84727fd97dcfe094f81b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-951-2015",
+   "path": "ordin/dezvoltare/2015/951",
+   "short": "Ordin dezvoltare nr. 951/2015",
+   "title": "Ordinul nr. 951/2015 pentru aprobarea Programului național multianual privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168177",
+   "versions": [
+    {
+     "from": "2015-05-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168177",
+     "sha256": "bd45331ec440938448b7342f12ca5dc1a7af98a627d668f9abfd90fbf82b939e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-954-2015",
+   "path": "ordin/dezvoltare/2015/954",
+   "short": "Ordin dezvoltare nr. 954/2015",
+   "title": "Ordinul nr. 954/2015 privind aprobarea cifrei anuale de școlarizare și a cuantumului taxei de participare la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172712",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172712",
+     "sha256": "87f68420585a671cdffa271d32d72fab98687cac41367d69ab55d3d5b47cf7e3"
     }
    ]
   },
@@ -5358,6 +5838,291 @@
    ]
   },
   {
+   "slug": "ordin-interne-100-2015",
+   "path": "ordin/interne/2015/100",
+   "short": "Ordin interne nr. 100/2015",
+   "title": "Ordinul nr. 100/2015 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171072",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171072",
+     "sha256": "b9f18ded527dac03ffb29a011a4f734cec401f2ba12568fe737f853709e8710a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-104-2015",
+   "path": "ordin/interne/2015/104",
+   "short": "Ordin interne nr. 104/2015",
+   "title": "Ordinul nr. 104/2015 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru unele structuri din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171019",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171019",
+     "sha256": "a021318e65a2dddd0026090272d86be9a6baa935e6f543582c20f3caa7dbc420"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-105-2015",
+   "path": "ordin/interne/2015/105",
+   "short": "Ordin interne nr. 105/2015",
+   "title": "Ordinul nr. 105/2015 pentru aprobarea Procedurii de organizare și desfășurare a examenului de promovare a personalului contractual din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171085",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171085",
+     "sha256": "80781dfb97e2a8cf57bcc3b3b8e1e8d50850446395cb2d620ec80c2e66e7d2d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-108-2015",
+   "path": "ordin/interne/2015/108",
+   "short": "Ordin interne nr. 108/2015",
+   "title": "Ordinul nr. 108/2015 pentru modificarea și completarea Procedurii privind desemnarea organismelor de evaluare tehnică europeană a produselor pentru construcții, aprobată prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, și al ministrului afacerilor interne nr. 2.142/91/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171356",
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171356",
+     "sha256": "2d132f831dd1ae0c95cfd83369f87fb0706b3c2581594dafe829f900c54f41d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-11-2015",
+   "path": "ordin/interne/2015/11",
+   "short": "Ordin interne nr. 11/2015",
+   "title": "Ordinul nr. 11/2015 pentru modificarea anexei la Ordinul ministrului internelor și reformei administrative nr. 521/2008 privind asigurarea structurilor Ministerului Afacerilor Interne care nu dispun de suport logistic propriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165561",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165561",
+     "sha256": "4ea8195be3ff7df3f69e8631213259d27cd5a66c5dc1582ee952f491c278635c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-115-2015",
+   "path": "ordin/interne/2015/115",
+   "short": "Ordin interne nr. 115/2015",
+   "title": "Ordinul nr. 115/2015 pentru modificarea și completarea Normelor metodologice privind planificarea și evidența activităților productive din unitățile Ministerului Afacerilor Interne, aprobate prin Ordinul ministrului internelor și reformei administrative nr. 657/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171785",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171785",
+     "sha256": "b447fefa54ae5b10e5079bf0d8548059ed5b406b6696e64a5e413e6d9603e864"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-116-2015",
+   "path": "ordin/interne/2015/116",
+   "short": "Ordin interne nr. 116/2015",
+   "title": "Ordinul nr. 116/2015 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 695/2008 privind uniforma și gradele profesionale ale personalului medical, paramedical și civil din cadrul serviciilor mobile de urgență, reanimare și descarcerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171558",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171558",
+     "sha256": "c16f99fcdac11032660912dac62d6fb6245e98fca11a1854cb115f887ec8c2ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-119-2015",
+   "path": "ordin/interne/2015/119",
+   "short": "Ordin interne nr. 119/2015",
+   "title": "Ordinul nr. 119/2015 privind stabilirea condițiilor de funcționare a Cursului Superior Internațional în cadrul Școlii de Aplicație pentru Ofițeri \"Mihai Viteazul\" a Jandarmeriei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171591",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171591",
+     "sha256": "f4983a2be914305b62af66ba8984213f06b91ed17ce2bd1c3603e12e8919953a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-122-2015",
+   "path": "ordin/interne/2015/122",
+   "short": "Ordin interne nr. 122/2015",
+   "title": "Ordinul nr. 122/2015 pentru modificarea și completarea Normelor metodologice privind utilizarea unor spații aflate în administrarea Ministerului Afacerilor Interne, aprobate prin Ordinul ministrului administrației și internelor nr. 243/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171767",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171767",
+     "sha256": "8b7b83dd91d46c82d2a896d5ec991fff2e716ca4beca78646c07b6d011260a81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-124-2015",
+   "path": "ordin/interne/2015/124",
+   "short": "Ordin interne nr. 124/2015",
+   "title": "Ordinul nr. 124/2015 privind stabilirea procedurilor de selecție în vederea trimiterii în misiune a personalului Jandarmeriei Române la Comandamentul permanent al Forței de Jandarmerie Europeană, a celor specifice gestionării raporturilor de serviciu și alte aspecte organizatorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171787",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171787",
+     "sha256": "fb274ede0e1bf0aa906b1c66601b285f7c7d10703dc9061d2c745b732ccee304"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-125-2015",
+   "path": "ordin/interne/2015/125",
+   "short": "Ordin interne nr. 125/2015",
+   "title": "Ordinul nr. 125/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției Generale Anticorupție, aprobat prin Ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 119/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171788",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171788",
+     "sha256": "80ebb2e00f8513a4baf096c8801d8a11591aa7b4fbcddf9285b1b2de81fbfa26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-127-2015",
+   "path": "ordin/interne/2015/127",
+   "short": "Ordin interne nr. 127/2015",
+   "title": "Ordinul nr. 127/2015 privind criteriile pentru stabilirea majorării contribuției financiare nerambursabile la proiectele de grant atribuite în cadrul Programului național al României de sprijin din Fondul pentru azil, migrație și integrare pentru perioada 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171848",
+   "versions": [
+    {
+     "from": "2015-10-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171848",
+     "sha256": "5c5521cd41f43ed2452ae09f99e749db705531acab94ed5301556a3f8ce0596d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-131-2015",
+   "path": "ordin/interne/2015/131",
+   "short": "Ordin interne nr. 131/2015",
+   "title": "Ordinul nr. 131/2015 pentru aprobarea Regulamentului de organizare și funcționare a Academiei de Poliție \"Alexandru Ioan Cuza\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171904",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 117,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171904",
+     "sha256": "f2d0f988130a0816e627e5be6cf0f09b51c4e5aab02c72aac8362e4837105697"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-135-2015",
+   "path": "ordin/interne/2015/135",
+   "short": "Ordin interne nr. 135/2015",
+   "title": "Ordinul nr. 135/2015 pentru aprobarea \"Normelor tehnice privind managementul activităților de intervenție pentru asanarea terenurilor de munițiile rămase neexplodate din timpul conflictelor armate și executarea lucrărilor de distrugere a zăpoarelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172322",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172322",
+     "sha256": "90577bbcb06f0f380e3f4b625a251de2a8e731c6f36cda346077ed7a1ea8f6c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-140-2015",
+   "path": "ordin/interne/2015/140",
+   "short": "Ordin interne nr. 140/2015",
+   "title": "Ordinul nr. 140/2015 privind organizarea, coordonarea și controlul activității de protecție a mediului în unitățile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172704",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172704",
+     "sha256": "e1963b06f0ac51d6de757f962d30ebc88301405a609e06c247b547f58ea4a45a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-15-2015",
+   "path": "ordin/interne/2015/15",
+   "short": "Ordin interne nr. 15/2015",
+   "title": "Ordinul nr. 15/2015 pentru aprobarea Regulamentului de organizare și funcționare a Direcției informare și relații publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165800",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165800",
+     "sha256": "b03dae26535b6568a6014dc243305ab6c87b9f07db5c9f95e853702663497590"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-152-2015",
+   "path": "ordin/interne/2015/152",
+   "short": "Ordin interne nr. 152/2015",
+   "title": "Ordinul nr. 152/2015 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173472",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173472",
+     "sha256": "4aeeefb065bb0c63d2c614f9744ba48604525ccda5959a3574d1e6e6cd329a92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-154-2015",
+   "path": "ordin/interne/2015/154",
+   "short": "Ordin interne nr. 154/2015",
+   "title": "Ordinul nr. 154/2015 pentru prorogarea termenului de intrare în vigoare a Ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 143/2015 privind activitățile de relații internaționale și de afaceri europene la nivelul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173609",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173609",
+     "sha256": "1f85e8634c6f6a67a710033904d22336e5beb8396605b36aa915b7f66b09080d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-157-2015",
+   "path": "ordin/interne/2015/157",
+   "short": "Ordin interne nr. 157/2015",
+   "title": "Ordinul nr. 157/2015 privind condițiile de acordare a majorării salariale pentru personalul Ministerului Afacerilor Interne care desfășoară activități în zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează, în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174233",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174233",
+     "sha256": "bbebb104a3adf6687ae8738e58624556845e7d2ea3d01e34aac4870b4aba24ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-158-2015",
    "path": "ordin/interne/2015/158",
    "short": "Ordin interne nr. 158/2015",
@@ -5373,6 +6138,381 @@
    ]
   },
   {
+   "slug": "ordin-interne-16-2015",
+   "path": "ordin/interne/2015/16",
+   "short": "Ordin interne nr. 16/2015",
+   "title": "Ordinul nr. 16/2015 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului afacerilor interne nr. 393/87/2013 pentru aprobarea activităților și costurilor maxime generate de activitățile prevăzute la art. 4 alin. (1) lit. l) din Ordonanța de urgență a Guvernului nr. 82/2011 privind unele măsuri de organizare a activității de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165983",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165983",
+     "sha256": "3693b7e9dcb772625090b54f2ebfab794b91bf25b427cd33f7294991d3142f3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-160-2015",
+   "path": "ordin/interne/2015/160",
+   "short": "Ordin interne nr. 160/2015",
+   "title": "Ordinul nr. 160/2015 privind coordonarea activității și delegarea unor competențe în cadrul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174272",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174272",
+     "sha256": "61f0bb1e0187207dcb0a98d645637b15c6597a4e84803baca4ff9ed6ef3bf469"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-18-2015",
+   "path": "ordin/interne/2015/18",
+   "short": "Ordin interne nr. 18/2015",
+   "title": "Ordinul nr. 18/2015 pentru aprobarea Normelor metodologice privind exercitarea auditului public intern în Ministerul Afacerilor Interne și a Cartei auditului intern în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167404",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167404",
+     "sha256": "004d3964cae457d9cfcc09f6fac3fc60175861e186e703e1caf6e92c72b72448"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-19-2015",
+   "path": "ordin/interne/2015/19",
+   "short": "Ordin interne nr. 19/2015",
+   "title": "Ordinul nr. 19/2015 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 38/2014 privind coordonarea activității și delegarea unor competențe în cadrul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165979",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165979",
+     "sha256": "92d73d8c9279a44ee51a149c69f8e06b384c171c68b6fd74e6a65d7f6b1ccd18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-21-2015",
+   "path": "ordin/interne/2015/21",
+   "short": "Ordin interne nr. 21/2015",
+   "title": "Ordinul nr. 21/2015 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166175",
+   "versions": [
+    {
+     "from": "2015-03-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166175",
+     "sha256": "90cdecfbd09d5b280809edcb7c1e5a8b636cd6720ae69357f27f50b5f23987a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-22-2015",
+   "path": "ordin/interne/2015/22",
+   "short": "Ordin interne nr. 22/2015",
+   "title": "Ordinul nr. 22/2015 pentru modificarea și completarea unor acte normative din domeniul resurselor umane în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166192",
+   "versions": [
+    {
+     "from": "2015-03-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166192",
+     "sha256": "d37907adc73a30582069501b3f1e2a2891a9822e551b2653dcdd220a2d0d3fa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-23-2015",
+   "path": "ordin/interne/2015/23",
+   "short": "Ordin interne nr. 23/2015",
+   "title": "Ordinul nr. 23/2015 privind activitatea de psihologie în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166386",
+   "versions": [
+    {
+     "from": "2015-04-15",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166386",
+     "sha256": "a6d2b392cf5a93f28a496812cfe58aa16aa34cc0bf1151a700b2ebfd665d03c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-24-2015",
+   "path": "ordin/interne/2015/24",
+   "short": "Ordin interne nr. 24/2015",
+   "title": "Ordinul nr. 24/2015 pentru aprobarea Metodologiei de organizare și desfășurare a examenului de absolvire a învățământului postliceal din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166548",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166548",
+     "sha256": "58a1aa85c5b8edbf60171c31f288229dadd4c818da8afe6eb576463432945409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-26-2015",
+   "path": "ordin/interne/2015/26",
+   "short": "Ordin interne nr. 26/2015",
+   "title": "Ordinul nr. 26/2015 pentru modificarea și completarea Ordinului ministrului administrației și internelor nr. 60/2010 privind organizarea și executarea activităților de menținere a ordinii și siguranței publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166892",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166892",
+     "sha256": "b80064800082e5251d9b7563a1d659920d387c46e40d31e3d02cda144f3d74d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-27-2015",
+   "path": "ordin/interne/2015/27",
+   "short": "Ordin interne nr. 27/2015",
+   "title": "Ordinul nr. 27/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției Generale de Pașapoarte, aprobat prin Ordinul ministrului administrației și internelor nr. 288/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167080",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167080",
+     "sha256": "06b988533dee9838099d871fe1ccac005441a13d8f629e10cd63c69ce979344b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-3-2015",
+   "path": "ordin/interne/2015/3",
+   "short": "Ordin interne nr. 3/2015",
+   "title": "Ordinul nr. 3/2015 pentru abrogarea art. 3 lit. b) din Ordinul ministrului afacerilor interne nr. 149/2013 privind structura organizatorică la nivelul Ministerului Afacerilor Interne în calitate de operator de program pentru domeniul de finanțare \"Cooperare în spațiul Schengen și combaterea crimei organizate și a infracționalității transfrontaliere, inclusiv a traficului și a grupurilor infracționale itinerante\" din Mecanismul financiar norvegian pe perioada de programare 2009-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165166",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165166",
+     "sha256": "f38fbe812115dd1ddb18ab6c7c7fb37e88493ba1d20111cbd582afc96c47d5b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-30-2015",
+   "path": "ordin/interne/2015/30",
+   "short": "Ordin interne nr. 30/2015",
+   "title": "Ordinul nr. 30/2015 pentru aprobarea Regulamentului de organizare și funcționare a Inspectoratului General de Aviație al Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167632",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167632",
+     "sha256": "c26f626c234537786a32513a25ef15dad7ad1e5b992129224aa236087b44ba3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-36-2015",
+   "path": "ordin/interne/2015/36",
+   "short": "Ordin interne nr. 36/2015",
+   "title": "Ordinul nr. 36/2015 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului Ministerului Afacerilor Interne, devenite executorii în perioada 1 ianuarie-31 decembrie 2015, precum și a sumelor reprezentând drepturi de natură salarială prevăzute prin hotărâri judecătorești devenite executorii până la data de 31 decembrie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167540",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167540",
+     "sha256": "49141c3087f2ab6ba6e9cac48558488cdf19682012bb1842bb38f7bc3d1185c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-4-2015",
+   "path": "ordin/interne/2015/4",
+   "short": "Ordin interne nr. 4/2015",
+   "title": "Ordinul nr. 4/2015 privind condițiile de acordare a majorării salariale pentru personalul Ministerului Afacerilor Interne care desfășoară activități în zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164918",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164918",
+     "sha256": "38cdede5eb8a8d5636c24dd82f312cb3812b86e235080b55db353c41ff3e2416"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-42-2015",
+   "path": "ordin/interne/2015/42",
+   "short": "Ordin interne nr. 42/2015",
+   "title": "Ordinul nr. 42/2015 pentru modificarea și completarea Normelor metodologice privind decontarea cheltuielilor de transport în unele situații în care cadrele militare, polițiștii și personalul civil se deplasează la și de la locul de muncă, aprobate prin Ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 51/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167864",
+   "versions": [
+    {
+     "from": "2015-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167864",
+     "sha256": "46c8c31a594a55901cebfe9b6628da725da51cc8d5b9ba27d8530952ca1c8935"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-48-2015",
+   "path": "ordin/interne/2015/48",
+   "short": "Ordin interne nr. 48/2015",
+   "title": "Ordinul nr. 48/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției generale juridice, aprobat prin Ordinul ministrului administrației și internelor nr. 100/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168138",
+   "versions": [
+    {
+     "from": "2015-05-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168138",
+     "sha256": "ef3fe361097497b57aa5ba0e0160829332781e6f0deae58da1ba795ad47fd56a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-49-2015",
+   "path": "ordin/interne/2015/49",
+   "short": "Ordin interne nr. 49/2015",
+   "title": "Ordinul nr. 49/2015 pentru aprobarea Regulamentului de organizare și funcționare a Clubului Sportiv DINAMO București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168370",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168370",
+     "sha256": "79f5d690acb7d53bb486f8d3babdf67785d2f0616002e64575475700ea80ce6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-51-2015",
+   "path": "ordin/interne/2015/51",
+   "short": "Ordin interne nr. 51/2015",
+   "title": "Ordinul nr. 51/2015 privind modificarea art. 11 alin. (3) din Ordinul ministrului internelor și reformei administrative nr. 321/2007 pentru aplicarea, în unitățile Ministerului Afacerilor Interne, a unor dispoziții din Legea nr. 384/2006 privind statutul soldaților și gradaților profesioniști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168614",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168614",
+     "sha256": "2bd26d530d875528f0ac060fba8aa3b9a583d4b03109d11d7e816a895e8f848e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-52-2015",
+   "path": "ordin/interne/2015/52",
+   "short": "Ordin interne nr. 52/2015",
+   "title": "Ordinul nr. 52/2015 pentru modificarea art. 6 alin. (3) din Normele metodologice privind decontarea cheltuielilor de transport în unele situații în care cadrele militare, polițiștii și personalul civil se deplasează la și de la locul de muncă, aprobate prin Ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 51/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168592",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168592",
+     "sha256": "a21d8c256c44b0a55ca678c43cb5523e5c16d81133a5cf892167bfc96a3141e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-53-2015",
+   "path": "ordin/interne/2015/53",
+   "short": "Ordin interne nr. 53/2015",
+   "title": "Ordinul nr. 53/2015 pentru modificarea Ordinului viceprim-ministrului, ministrul administrației și internelor, interimar, nr. 274/2009 privind desemnarea responsabilităților pentru implementarea părții A din cadrul Proiectului de diminuare a riscurilor în cazul producerii calamităților naturale și pregătirea pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169028",
+   "versions": [
+    {
+     "from": "2015-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169028",
+     "sha256": "aacb0745b2bb322105cf63d8cbbd551a84caf36afe8bef0051b43505ecc8f931"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-54-2015",
+   "path": "ordin/interne/2015/54",
+   "short": "Ordin interne nr. 54/2015",
+   "title": "Ordinul nr. 54/2015 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru unele structuri din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169104",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169104",
+     "sha256": "2f1548c5f1e8c56c94dbb193bcfae28d17be329307f28ceca4ba87afa9b70b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-56-2015",
+   "path": "ordin/interne/2015/56",
+   "short": "Ordin interne nr. 56/2015",
+   "title": "Ordinul nr. 56/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Agenției Naționale Antidrog, aprobat prin Ordinul ministrului administrației și internelor nr. 52/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169259",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169259",
+     "sha256": "935414c379474b3397c4c982001a98252ac865821b58e050d6e1503c73cdfeea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-64-2015",
+   "path": "ordin/interne/2015/64",
+   "short": "Ordin interne nr. 64/2015",
+   "title": "Ordinul nr. 64/2015 privind stabilirea unor măsuri organizatorice în scopul asigurării exercitării dreptului de a consulta dosarul penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169511",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169511",
+     "sha256": "ff063167ffd276b840752b3912a98a50368bea52880d51fd764f03b4984589f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-66-2015",
+   "path": "ordin/interne/2015/66",
+   "short": "Ordin interne nr. 66/2015",
+   "title": "Ordinul nr. 66/2015 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru unele structuri din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169671",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169671",
+     "sha256": "23a316c3cafc1d256215e5a55d6769b1588703bee87f5800047d20bb47a0c590"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-68-2015",
+   "path": "ordin/interne/2015/68",
+   "short": "Ordin interne nr. 68/2015",
+   "title": "Ordinul nr. 68/2015 privind constituirea Comisiei ministeriale pentru romi la nivelul Ministerului Afacerilor Interne și pentru aprobarea Regulamentului de organizare și funcționare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169639",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169639",
+     "sha256": "db4979cb555dd64059f89903beaad6e8686305148c5b847e365a0b6aaa99c428"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-71-2015",
    "path": "ordin/interne/2015/71",
    "short": "Ordin interne nr. 71/2015",
@@ -5384,6 +6524,231 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172706",
      "sha256": "14676749730f10b9937ac4209d0edcd900a0ab28ed8d80107a4a819ebd1c5c20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-73-2015",
+   "path": "ordin/interne/2015/73",
+   "short": "Ordin interne nr. 73/2015",
+   "title": "Ordinul nr. 73/2015 pentru aprobarea Regulamentului de organizare și funcționare a Direcției generale logistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170169",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170169",
+     "sha256": "3a090d041941da21b843cd7513b8515aab2f92a7932fc15390db15b7a6ce9bb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-74-2015",
+   "path": "ordin/interne/2015/74",
+   "short": "Ordin interne nr. 74/2015",
+   "title": "Ordinul nr. 74/2015 privind supravegherea autorității responsabile pentru Cadrul financiar multianual 2014-2020, domeniul Afaceri interne, și reexaminarea desemnării acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169641",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169641",
+     "sha256": "2e440304b11c83b76e762d2289636b4ad1cb0fc293f11fcd12a824c3814f46be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-75-2015",
+   "path": "ordin/interne/2015/75",
+   "short": "Ordin interne nr. 75/2015",
+   "title": "Ordinul nr. 75/2015 privind evaluarea și selecția proiectelor de grant în cadrul Programului național al României de sprijin din Fondul pentru azil, migrație și integrare pentru perioada 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169637",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169637",
+     "sha256": "37604caa567247c704cec49208d856dbab10c2839c073479a468d1a5018dacfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-76-2015",
+   "path": "ordin/interne/2015/76",
+   "short": "Ordin interne nr. 76/2015",
+   "title": "Ordinul nr. 76/2015 privind regulile de eligibilitate aplicabile cheltuielilor în cadrul Fondului pentru securitate internă și Fondului pentru azil, migrație și integrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169645",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169645",
+     "sha256": "2853a7d136c80cc3f99e6808fdbd78bcdac37eedd14530ef065d328a830b82b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-77-2015",
+   "path": "ordin/interne/2015/77",
+   "short": "Ordin interne nr. 77/2015",
+   "title": "Ordinul nr. 77/2015 privind sistemul decizional și de coordonare pentru implementarea programelor naționale și pentru gestionarea asistenței financiare aferente Cadrului financiar multianual 2014-2020, domeniul Afaceri interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169638",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169638",
+     "sha256": "b099ef2a2b3d9c48d6f30932503fbba0390ee25da0747817a5a0418919a8b3ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-80-2015",
+   "path": "ordin/interne/2015/80",
+   "short": "Ordin interne nr. 80/2015",
+   "title": "Ordinul nr. 80/2015 privind modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 441/2008 pentru stabilirea atribuțiilor autorităților responsabile cu implementarea datelor în sistemul Eurodac și pentru stabilirea metodologiei practice de cooperare în vederea aplicării regulamentelor europene în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169981",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169981",
+     "sha256": "c8bef079081f9e4e141bedbe72020eab0d1890fe4adc872df09aa40e196168ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-82-2015",
+   "path": "ordin/interne/2015/82",
+   "short": "Ordin interne nr. 82/2015",
+   "title": "Ordinul nr. 82/2015 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 597/2008 privind stabilirea conținutului-cadru, întocmirea și avizarea documentațiilor tehnico-economice aferente obiectivelor de investiții noi și/sau lucrărilor de intervenții la construcții existente, cuprinse în programele Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170252",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170252",
+     "sha256": "4dd6fbe3326ba9c5f5bc0ab8569f888321f36d2150acdd816d967bdf9e719f02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-86-2015",
+   "path": "ordin/interne/2015/86",
+   "short": "Ordin interne nr. 86/2015",
+   "title": "Ordinul nr. 86/2015 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170408",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170408",
+     "sha256": "9623ea87b3f77d01bb0a122d9547d2eb523c78774a90212c96504c3009118d55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-87-2015",
+   "path": "ordin/interne/2015/87",
+   "short": "Ordin interne nr. 87/2015",
+   "title": "Ordinul nr. 87/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției secretariat general și protocol, aprobat prin Ordinul ministrului afacerilor interne nr. 53/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170498",
+   "versions": [
+    {
+     "from": "2015-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170498",
+     "sha256": "2345d1229fa54e6246d4886b64136d5c1be74172bca68a6ad70e85072d5bfaa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-89-2015",
+   "path": "ordin/interne/2015/89",
+   "short": "Ordin interne nr. 89/2015",
+   "title": "Ordinul nr. 89/2015 pentru modificarea Metodologiei de organizare, asigurare a activităților de evacuare a persoanelor, bunurilor, documentelor și materialelor care conțin informații clasificate, în situații de conflict armat, aprobată prin Ordinul ministrului administrației și internelor nr. 1.352/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170458",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170458",
+     "sha256": "1748b0ddacf0a610b79baf1a6c1337b0f436161fcc4b9284aa75003efa8c434e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-9-2015",
+   "path": "ordin/interne/2015/9",
+   "short": "Ordin interne nr. 9/2015",
+   "title": "Ordinul nr. 9/2015 privind formarea inițială, în anul 2015, în instituțiile de formare ale Ministerului Afacerilor Interne a polițiștilor locali cu atribuții în domeniul ordinii și liniștii publice și în domeniul circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165490",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165490",
+     "sha256": "88bc04e761f9e04e70b6d7d46e2e81a9c9e4b1e96bbd0227b40cc40f12cbd461"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-90-2015",
+   "path": "ordin/interne/2015/90",
+   "short": "Ordin interne nr. 90/2015",
+   "title": "Ordinul nr. 90/2015 pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 90/2013 privind funcționarea Comisiei de dialog social la nivelul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170380",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170380",
+     "sha256": "a5dd0313bcaab797b0ad717b06497d089d91754374710efc20c379e78bfccd65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-97-2015",
+   "path": "ordin/interne/2015/97",
+   "short": "Ordin interne nr. 97/2015",
+   "title": "Ordinul nr. 97/2015 pentru modificarea și completarea Ordinului ministrului administrației și internelor nr. 268/2010 privind procedura de examinare pentru obținerea permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170782",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170782",
+     "sha256": "ff4ba9c7c4c384268fbf3180af4a62aa49c23024e9c7315c60e3f012a00c109c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-98-2015",
+   "path": "ordin/interne/2015/98",
+   "short": "Ordin interne nr. 98/2015",
+   "title": "Ordinul nr. 98/2015 pentru modificarea Ordinului ministrului administrației și internelor nr. 8/2011 privind constituirea și funcționarea Comisiei de însemne heraldice a Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170981",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170981",
+     "sha256": "2da670f02cc8ea50c60e545547d2891191cc6b44d7f5a2261459d95b6cc66321"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-99-2015",
+   "path": "ordin/interne/2015/99",
+   "short": "Ordin interne nr. 99/2015",
+   "title": "Ordinul nr. 99/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției medicale, aprobat prin Ordinul ministrului afacerilor interne nr. 176/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171219",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171219",
+     "sha256": "0e531cf3b7f8ada2a7acee17371784b131f8b767fbae3dd4e2fde392c7b433f8"
     }
    ]
   },
@@ -7994,6 +9359,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170825",
      "sha256": "0592a81401ae73f355a4056f08a29642af80840b7fa1464d93c2bb4bc1c0bddf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1219-2015",
+   "path": "ordin/transporturi/2015/1219",
+   "short": "Ordin transporturi nr. 1219/2015",
+   "title": "Ordinul nr. 1.219/2015 pentru modificarea art. 22 alin. (4) din reglementarea tehnică \"Normativ privind prevenirea și combaterea înzăpezirii drumurilor publice\", indicativ AND 525-2013, aprobată prin Ordinul ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine și al viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 289/2.170/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173307",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173307",
+     "sha256": "dc74ee12887af893f91906694bc299ccf38f1d35d94256343a2f19faa28905fa"
     }
    ]
   },

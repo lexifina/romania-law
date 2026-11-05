@@ -12140,6 +12140,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22027"
 },
 {
+"slug": "legea-65-2000",
+"path": "lege/2000/65",
+"kind": "lege",
+"year": "2000",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 65/2000 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 57/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Serviciului de Telecomunicaţii Speciale",
+"short": "Legea nr. 65/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-04-26",
+"latest": "2000-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22012"
+},
+{
 "slug": "legea-66-2000",
 "path": "lege/2000/66",
 "kind": "lege",
@@ -12155,6 +12172,23 @@
 "from": "2000-05-02",
 "latest": "2000-05-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22077"
+},
+{
+"slug": "legea-67-2000",
+"path": "lege/2000/67",
+"kind": "lege",
+"year": "2000",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 67/2000 pentru completarea anexei nr. 2 la Legea nr. 27/1994 privind impozitele şi taxele locale",
+"short": "Legea nr. 67/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-04-27",
+"latest": "2000-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22039"
 },
 {
 "slug": "legea-69-2000",
@@ -12189,6 +12223,23 @@
 "from": "2000-05-10",
 "latest": "2000-05-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22196"
+},
+{
+"slug": "legea-71-2000",
+"path": "lege/2000/71",
+"kind": "lege",
+"year": "2000",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 71/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind transportul combinat internaţional, semnat la Baku la 30 iunie 1998",
+"short": "Legea nr. 71/2000",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2000-05-10",
+"latest": "2000-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22199"
 },
 {
 "slug": "legea-72-2000",
@@ -12274,6 +12325,23 @@
 "from": "2000-05-18",
 "latest": "2022-07-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22361"
+},
+{
+"slug": "legea-79-2000",
+"path": "lege/2000/79",
+"kind": "lege",
+"year": "2000",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 79/2000 pentru aprobarea Ordonanţei Guvernului nr. 31/1999 privind aprobarea primei de export la grâu şi porumb boabe",
+"short": "Legea nr. 79/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-05-16",
+"latest": "2000-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22322"
 },
 {
 "slug": "legea-80-2000",

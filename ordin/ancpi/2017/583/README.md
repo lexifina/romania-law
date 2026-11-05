@@ -2,7 +2,7 @@
 
 Ordin ancpi nr. 583/2017 · 1 versions, from 2017-06-22 (latest in force: 2017-06-22) · <https://legislatie.just.ro/Public/DetaliiDocument/190322>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PLANUL DE ACȚIUNI al Programului național de cadastru și carte funciară pe anul 2017 *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PLANUL DE ACȚIUNI al Programului național de cadastru și carte funciară pe anul 2017 *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,4 @@ Act id: `ordin-ancpi-583-2017` (tags `ordin-ancpi-583-2017/<day>`; `python tools
 - Ordin ancpi nr. 583/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin ancpi nr. 583/2017: the first version is the order as published in Monitorul Oficial nr. 473 of 22 June 2017 (document 190322 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin ancpi nr. 583/2017: the signatures and the place and date line after its last article are not article text.
-- Ordin ancpi nr. 583/2017: Anexa nr. 1 (PLANUL DE ACȚIUNI al Programului național de cadastru și carte funciară pe anul 2017 *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ancpi nr. 583/2017: Anexa nr. 1 (PLANUL DE ACȚIUNI al Programului național de cadastru și carte funciară pe anul 2017 *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

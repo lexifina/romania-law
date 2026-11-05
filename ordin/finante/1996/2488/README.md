@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2488/1996 · 1 versions, from 1996-12-30 (latest in force: 1996-12-30) · <https://legislatie.just.ro/Public/DetaliiDocument/10693>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (8538 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,3 +24,4 @@ Act id: `ordin-finante-2488-1996` (tags `ordin-finante-2488-1996/<day>`; `python
 - Ordin finante nr. 2488/1996: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2488/1996: Anexa nr. 1 (1 LISTA operațiunilor pentru care unele instituții publice pot păstra sumele la finele anului 1996 în contul "Sume de mandat și sume în depozit" deschis la băncile comerciale și la trezoreria statului) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 10693 of the official web service.
 - Ordin finante nr. 2488/1996: Anexa nr. 2 (2 LISTA fondurilor speciale aprobate pe bază de legi, care se reportează, la finele anului 1996, în anul următor Nr. crt. Denumirea fondului special Baza legală Cod/Cont la bănci la trezorerii 1. Fond) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 10693 of the official web service.
+- Ordin finante nr. 2488/1996: the official text prints 8538 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

@@ -2,7 +2,7 @@
 
 Ordin ancpi nr. 558/2006 · 1 versions, from 2006-09-21 (latest in force: 2006-09-21) · <https://legislatie.just.ro/Public/DetaliiDocument/75295>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODEL DE LEGITIMAȚIE INTERIOR 4 cm 4 cm ◄───────────────────────────────────► ◄─────────────────────────────────► ┌──────────────────────────────────────┐ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODEL DE LEGITIMAȚIE INTERIOR 4 cm 4 cm ◄───────────────────────────────────► ◄─────────────────────────────────►): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,5 +23,5 @@ Act id: `ordin-ancpi-558-2006` (tags `ordin-ancpi-558-2006/<day>`; `python tools
 - Ordin ancpi nr. 558/2006: the first version is the order as published in Monitorul Oficial nr. 795 of 21 September 2006 (document 75295 of the official web service), in force on its day of publication, as it states.
 - Ordin ancpi nr. 558/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin ancpi nr. 558/2006: Anexa nr. 2 (2 PROCES-VERBAL de constatare și sancționare a contravențiilor Nr................, încheiat astăzi,............... - model - 1. Subsemnatul........................., în calitate de.................. î) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 75295 of the official web service.
-- Ordin ancpi nr. 558/2006: Anexa nr. 1 (1 MODEL DE LEGITIMAȚIE INTERIOR 4 cm 4 cm ◄───────────────────────────────────► ◄─────────────────────────────────► ┌──────────────────────────────────────┐ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ancpi nr. 558/2006: Anexa nr. 1 (1 MODEL DE LEGITIMAȚIE INTERIOR 4 cm 4 cm ◄───────────────────────────────────► ◄─────────────────────────────────►) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin ancpi nr. 558/2006: the publisher's notes run into its text (*) În cazul în care aceeaşi persoană a săvârşit mai multe contravenţii, sancţiunea se aplică pentru fiecare contravenţie) are not text.

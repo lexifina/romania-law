@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 399/2006 · 1 versions, from 2006-04-20 (latest in force: 2006-04-20) · <https://legislatie.just.ro/Public/DetaliiDocument/70975>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (III INFORMAȚII PRIVIND ETICHETAREA ┌────────────────────────────────────────────────────────────────┐ │ INFORMAȚII CARE TREBUIE SĂ APARĂ PE &lt;AMBALAJUL ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (III INFORMAȚII PRIVIND ETICHETAREA): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-sanatate-399-2006` (tags `ordin-sanatate-399-2006/<day>`; `python
 - Ordin sanatate nr. 399/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 399/2006: Anexa nr. 1 (I PROSPECT: INFORMAȚII PENTRU UTILIZATOR (Nume (inventat), concentrația, forma farmaceutică) (Substanța(ele) activă(e)) &lt;Cițiți cu atenție și în întregime acest prospect înainte de a începe &lt;să) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 70975 of the official web service.
 - Ordin sanatate nr. 399/2006: Anexa nr. 2 (II REZUMATUL CARACTERISTICILOR PRODUSULUI 1. DENUMIREA COMERCIALĂ A MEDICAMENTULUI (Numele (inventat) concentrația forma farmaceutică) 2. COMPOZIȚIA CALITATIVĂ ȘI CANTITATIVĂ &lt;Excipient(ți):&gt; Pe) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 70975 of the official web service.
-- Ordin sanatate nr. 399/2006: Anexa nr. 3 (III INFORMAȚII PRIVIND ETICHETAREA ┌────────────────────────────────────────────────────────────────┐ │ INFORMAȚII CARE TREBUIE SĂ APARĂ PE &lt;AMBALAJUL ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 399/2006: Anexa nr. 3 (III INFORMAȚII PRIVIND ETICHETAREA) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-4101-nn-1997",
+   "path": "ordin/dezvoltare/1997/4101-nn",
+   "short": "Ordin dezvoltare nr. 4101/NN/1997",
+   "title": "Ordinul nr. 4.101/NN/1997 privind situația terenurilor destinate construcțiilor de locuințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10995",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10995",
+     "sha256": "73f7bbf3db8ae6f5495539be92767fd44af22aefc69ebb82eabbd16f1227e160"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-90-n-1997",
    "path": "ordin/dezvoltare/1997/90-n",
    "short": "Ordin dezvoltare nr. 90/N/1997",
@@ -344,6 +359,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11567",
      "sha256": "6e67e461c1a003ad71cd715bb4c24964cefc859f7f620e8c4a0e10b4c45b1054"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1017-1997",
+   "path": "ordin/finante/1997/1017",
+   "short": "Ordin finante nr. 1017/1997",
+   "title": "Ordinul nr. 1.017/1997 privind modificarea și completarea Ordinului ministrului de stat, ministrul finanțelor, nr. 1.801/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13788",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13788",
+     "sha256": "915e7d71b21d8e439883393acb43d306022417a29db9507dfdb9978d35d34b93"
     }
    ]
   },
@@ -1349,6 +1379,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13876",
      "sha256": "021676349eb9cacd56ec4ec1a5adcd7e1656830859283496c45949d49283c26d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-685-1997",
+   "path": "ordin/interne/1997/685",
+   "short": "Ordin interne nr. 685/1997",
+   "title": "Ordinul nr. 685/1997 pentru aprobarea Procedurii de emitere a avizelor și autorizațiilor de prevenire și stingere a incendiilor (p.s.i.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13460",
+   "versions": [
+    {
+     "from": "1997-10-08",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13460",
+     "sha256": "8bbc85ce9ab93d0c6f82fcbc34fb730a458e1bc07545dc08f36651820096365c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-695-1997",
+   "path": "ordin/interne/1997/695",
+   "short": "Ordin interne nr. 695/1997",
+   "title": "Ordinul nr. 695/1997 pentru aprobarea Normelor metodologice privind aplicarea prevederilor art. 31 din Legea nr. 18 din 4 aprilie 1996 și ale art. 3 din Hotărârea Guvernului nr. 1.164 din 11 noiembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13481",
+   "versions": [
+    {
+     "from": "1997-10-20",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13481",
+     "sha256": "62e9236c24f6e2644367b0a424b820eeb81cacda839bc66a95a08d7dbda3a1bf"
     }
    ]
   },

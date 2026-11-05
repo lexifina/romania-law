@@ -77,6 +77,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164180",
 "issuer": "asf",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-140-2014",
+"path": "instructiuni/interne/2014/140",
+"kind": "instructiuni",
+"year": "2014",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 140/2014 privind modalitățile tehnice de întocmire și transmitere a documentelor și datelor necesare stabilirii drepturilor de pensie",
+"short": "Instrucțiuni interne nr. 140/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-22",
+"latest": "2014-09-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161471",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

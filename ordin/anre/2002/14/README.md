@@ -2,7 +2,7 @@
 
 Ordin anre nr. 14/2002 · 1 versions, from 2002-07-01 (latest in force: 2002-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/36888>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (2b) TARIFE ZONALE pentru transportul energiei electrice Valabile după 5 zile de la data publicării ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (2b) TARIFE ZONALE pentru transportul energiei electrice Valabile după 5 zile de la data publicării): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,4 +55,4 @@ Act id: `ordin-anre-14-2002` (tags `ordin-anre-14-2002/<day>`; `python tools/on.
 - Ordin anre nr. 14/2002: Anexa nr. 7 (3.1 ZONELE ORARE utilizate la tariful A33 Luna Ore vârf Ore gol Ore normale Ianuarie zile lucrătoare 8 - 10 17 - 22 0 - 6 10 - 17, 22 - 0, 6-8 sâmbătă, duminică 22 - 17 17 - 22 Februarie zile lucrătoa) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 36888 of the official web service.
 - Ordin anre nr. 14/2002: Anexa nr. 8 (3.2 ZONELE ORARE utilizate la tarifele A și B Luna Ore de vârf seara Rest orelor Ianuarie 17-22 22-17 Februarie 17-22 22-17 Martie 18-22 22-18 Aprilie 19-22 22-19 Mai 20-22 22-20 Iunie - 0-24 Iulie -) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 36888 of the official web service.
 - Ordin anre nr. 14/2002: Anexa nr. 9 (3.3 ZONELE ORARE utilizate pentru tarifele CA3 și CP3 SEZON Ore de vârf Ore de gol Ore normale VARA 08:00-9:00 00:00-08:00 21:00-00:00 vineri, ora 21:00 până luni, ora 08:00 09:00-21:00 IARNA 08:00-10) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 36888 of the official web service.
-- Ordin anre nr. 14/2002: Anexa nr. 6 (2b) TARIFE ZONALE pentru transportul energiei electrice Valabile după 5 zile de la data publicării ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 14/2002: Anexa nr. 6 (2b) TARIFE ZONALE pentru transportul energiei electrice Valabile după 5 zile de la data publicării) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

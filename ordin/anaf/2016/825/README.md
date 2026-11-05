@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 825/2016 · 1 versions, from 2016-03-04 (latest in force: 2016-03-04) · <https://legislatie.just.ro/Public/DetaliiDocument/176320>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 8* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ ┌────────┐ │ Sigla │ Direcția Generală Regională a Finanțelor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 8* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-anaf-825-2016` (tags `ordin-anaf-825-2016/<day>`; `python tools/o
 - Ordin anaf nr. 825/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 825/2016: Anexa nr. 2 (2 INSTRUCȚIUNILE de completare și utilizare a formularului "Decizie de reverificare" 1. Formularul "Decizie de reverificare" este actul administrativ care are ca obiect dispunerea reverificării unei a) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 176320 of the official web service.
 - Ordin anaf nr. 825/2016: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului "Decizie de reverificare" 1. Denumire: Decizie de reverificare 2. Format: A4/t1 (număr variabil de pagini)) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 176320 of the official web service.
-- Ordin anaf nr. 825/2016: Anexa nr. 1 (1 *Font 8* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ ┌────────┐ │ Sigla │ Direcția Generală Regională a Finanțelor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 825/2016: Anexa nr. 1 (1 *Font 8* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

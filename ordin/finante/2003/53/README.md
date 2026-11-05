@@ -2,7 +2,7 @@
 
 Ordin finante nr. 53/2003 · 1 versions, from 2003-01-23 (latest in force: 2003-01-23) · <https://legislatie.just.ro/Public/DetaliiDocument/41402>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL și conținutul formularului "Declarație privind impozitul pe profit" cod 14.13.01.04 ┌──────────┐ DECLARAȚIE │ ROMÂNIA │ PRIVIND IMPOZITUL PE PROFIT │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL și conținutul formularului "Declarație privind impozitul pe profit" cod 14.13.01.04): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,4 +27,4 @@ Act id: `ordin-finante-53-2003` (tags `ordin-finante-53-2003/<day>`; `python too
 - Ordin finante nr. 53/2003: the first version is the order as published in Monitorul Oficial nr. 39 of 23 January 2003 (document 41402 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 53/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 53/2003: Anexa nr. 2 (3 CARACTERISTICILE de tipărire, modul de difuzare, utilizare și păstrare a formularului "Declarație privind impozitul pe profit" cod 14.13.01.04 1. Denumire: Declarație privind impozitul pe profit 2.) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 41402 of the official web service.
-- Ordin finante nr. 53/2003: Anexa nr. 1 (1 MODELUL și conținutul formularului "Declarație privind impozitul pe profit" cod 14.13.01.04 ┌──────────┐ DECLARAȚIE │ ROMÂNIA │ PRIVIND IMPOZITUL PE PROFIT │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 53/2003: Anexa nr. 1 (1 MODELUL și conținutul formularului "Declarație privind impozitul pe profit" cod 14.13.01.04) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

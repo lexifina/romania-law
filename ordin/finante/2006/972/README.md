@@ -2,7 +2,7 @@
 
 Ordin finante nr. 972/2006 · 1 versions, from 2006-06-19 (latest in force: 2006-06-19) · <https://legislatie.just.ro/Public/DetaliiDocument/72775>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ AGENȚIA NAȚIONALA DE │ │ MFP │ │ ADMINISTRARE FISCALĂ │ └─────┘ │ Direcția generală.......... Nr. înregistrare...... │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,4 +31,4 @@ Act id: `ordin-finante-972-2006` (tags `ordin-finante-972-2006/<day>`; `python t
 - Ordin finante nr. 972/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 972/2006: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului "Decizia de impunere privind obligațiile fiscale suplimentare de plată stabilite de inspecția fiscală" a) "Decizia de impunere privind obligațiile fiscale s) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 72775 of the official web service.
 - Ordin finante nr. 972/2006: Anexa nr. 3 (3 CARACTERISTICILE DE TIPĂRIRE, MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE ale formularului "Decizie de impunere privind obligațiile fiscale suplimentare de plată stabilite de inspecția fiscală", cod 14) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 72775 of the official web service.
-- Ordin finante nr. 972/2006: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ AGENȚIA NAȚIONALA DE │ │ MFP │ │ ADMINISTRARE FISCALĂ │ └─────┘ │ Direcția generală.......... Nr. înregistrare...... │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 972/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

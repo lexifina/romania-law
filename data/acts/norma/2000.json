@@ -98,6 +98,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-7-2000",
+"path": "norma/bnr/2000/7",
+"kind": "norma",
+"year": "2000",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 7/2000 privind autorizarea organizațiilor cooperatiste de credit",
+"short": "Norma bnr nr. 7/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-09-13",
+"latest": "2000-09-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/27442",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-8-2000",
 "path": "norma/bnr/2000/8",
 "kind": "norma",

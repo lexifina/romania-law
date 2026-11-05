@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1498/2008 · 1 versions, from 2008-11-03 (latest in force: 2008-11-03) · <https://legislatie.just.ro/Public/DetaliiDocument/98744>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────┐ │ │ │ SIGLĂ │ │ │ DECONT SPECIAL │ Agenția Națională │ DE TAXĂ PE VALOAREA ADĂUGATĂ 301 │ de Administrare │ │ Fiscală │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,5 +28,5 @@ Act id: `ordin-anaf-1498-2008` (tags `ordin-anaf-1498-2008/<day>`; `python tools
 - Ordin anaf nr. 1498/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1498/2008: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (301) "Decont special de taxă pe valoarea adăugată" I. Contribuabilii care au obligația să depună decontul special de taxă pe valoarea adăugată Secțiunea 1) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 98744 of the official web service.
 - Ordin anaf nr. 1498/2008: Anexa nr. 3 (3 CARACTERISTICILE DE TIPĂRIRE modul de difuzare, de utilizare și de păstrare ale formularului (301) "Decont special de taxă pe valoarea adăugată" Denumirea formularului: Decont special de taxă pe val) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 98744 of the official web service.
-- Ordin anaf nr. 1498/2008: Anexa nr. 1 (1 ┌───────────────────┐ │ │ │ SIGLĂ │ │ │ DECONT SPECIAL │ Agenția Națională │ DE TAXĂ PE VALOAREA ADĂUGATĂ 301 │ de Administrare │ │ Fiscală │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1498/2008: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 1498/2008: the publisher's notes run into its text (*) Pentru a evita orice neconcordanţă între livrările intracomunitare de bunuri, scutite de TVA în statul membru de orig) are not text.

@@ -2,7 +2,7 @@
 
 Norma bnr nr. 4/2002 · 1 versions, from 2002-04-26 (latest in force: 2002-04-26) · <https://legislatie.just.ro/Public/DetaliiDocument/35601>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (822 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,5 @@ Act id: `norma-bnr-4-2002` (tags `norma-bnr-4-2002/<day>`; `python tools/on.py <
 - Norma bnr nr. 4/2002: the signatures and the place and date line after its last article are not article text.
 - Norma bnr nr. 4/2002: Anexa nr. 1 (2) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 35601 of the official web service.
 - Norma bnr nr. 4/2002: Anexa nr. 2 (3) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 35601 of the official web service.
+- Norma bnr nr. 4/2002: the official text prints 822 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Norma bnr nr. 4/2002: the publisher's notes run into its text (*) Se completează personal de către fondatorii şi actionarii semnificativi ai băncii, persoane fizice; dacă spaţiul este) are not text.

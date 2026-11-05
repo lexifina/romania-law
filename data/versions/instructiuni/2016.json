@@ -31,6 +31,36 @@
      "sha256": "f92c88d75bd5b52e4b21365f4afe7cf8be562764a4012aaf0c6eaff61ccf2dff"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-115-2016",
+   "path": "instructiuni/interne/2016/115",
+   "short": "Instrucțiuni interne nr. 115/2016",
+   "title": "Instrucțiunile nr. 115/2016 pentru modificarea anexei la Instrucțiunile ministrului afacerilor interne nr. 111/2013 privind atestarea personalului navigant care încadrează ori urmează să încadreze posturile de specialitate de la bordul navelor aparținând Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180554",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180554",
+     "sha256": "1e78fc1963ebfd865cf5f86061729959eda94ad7c4f05dd99b4a7ebbea6a19c5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-147-2016",
+   "path": "instructiuni/interne/2016/147",
+   "short": "Instrucțiuni interne nr. 147/2016",
+   "title": "Instrucțiunile nr. 147/2016 pentru modificarea și completarea Instrucțiunilor ministrului afacerilor interne nr. 82/2010 privind organizarea și desfășurarea activității de eliberare a apostilei pentru actele oficiale administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182456",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182456",
+     "sha256": "0eda6eefb943cc231d1b58af792f624b26a4bd8a4a83f54fe09bb583d578f9a4"
+    }
+   ]
   }
  ]
 }

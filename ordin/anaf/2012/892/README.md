@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 892/2012 · 1 versions, from 2012-06-28 (latest in force: 2012-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/139182>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (3 INSTRUCȚIUNI pentru transmiterea în format electronic a Declarației informative privind impozitul pe veniturile din transferul proprietăților imobiliare din ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (3 INSTRUCȚIUNI pentru transmiterea în format electronic a Declarației informative privind impozitul pe veniturile din transferul proprietăților imobiliare din ...): it is a table that the official text holds only flattened; text printed after its signature (485 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,3 +24,4 @@ Act id: `ordin-anaf-892-2012` (tags `ordin-anaf-892-2012/<day>`; `python tools/o
 - Ordin anaf nr. 892/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 892/2012: Anexa nr. 1 (2 INSTRUCȚIUNI de completare a formularului 208 "Declarație informativă privind impozitul pe veniturile din transferul proprietăților imobiliare din patrimoniul personal", cod 14.13.01.13/10i I. Depun) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 139182 of the official web service.
 - Ordin anaf nr. 892/2012: Anexa nr. 2 (3 INSTRUCȚIUNI pentru transmiterea în format electronic a Declarației informative privind impozitul pe veniturile din transferul proprietăților imobiliare din ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 892/2012: the official text prints 485 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

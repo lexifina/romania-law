@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2371/2007 · 1 versions, from 2007-12-21 (latest in force: 2007-12-21) · <https://legislatie.just.ro/Public/DetaliiDocument/88113>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (3 [SIGLA ANAF] DECLARAȚIE PRIVIND VENITUL ESTIMAT 220 Anul [][][][] I. DATE DE IDENTIFICARE A CONTRIBUABILULUI ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (3 [SIGLA ANAF] DECLARAȚIE PRIVIND VENITUL ESTIMAT 220 Anul [][][][] I. DATE DE IDENTIFICARE A CONTRIBUABILULUI): it is a table that the official text holds only flattened; text printed after its signature (12836 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,4 +35,5 @@ Act id: `ordin-finante-2371-2007` (tags `ordin-finante-2371-2007/<day>`; `python
 - Ordin finante nr. 2371/2007: Anexa nr. 3 (6 CARACTERISTICILE DE TIPĂRIRE, MODUL DE DIFUZARE, DE UTILIZARE ȘI DE PĂSTRARE A FORMULARELOR 1. Denumire: Declarație privind veniturile realizate (formularul 200) 1.1 Cod: 14.13.01.13 1.2 Format: A3/) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 88113 of the official web service.
 - Ordin finante nr. 2371/2007: Anexa nr. 4 (7 INSTRUCȚIUNI pentru transmiterea pe cale electronică a Declarației informative privind impozitul reținut pe veniturile cu regim de reținere la sursă, pe beneficiari de venit, cod 14.13.01.13/I Decla) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 88113 of the official web service.
 - Ordin finante nr. 2371/2007: Anexa nr. 5 (8 BORDEROU de însoțire a Declarației informative privind impozitul reținut pe veniturile cu regim de reținere la sursă, pe beneficiari de venit, pentru anul........ Cod de identificare fiscală plătito) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 88113 of the official web service.
-- Ordin finante nr. 2371/2007: Anexa nr. 1 (3 [SIGLA ANAF] DECLARAȚIE PRIVIND VENITUL ESTIMAT 220 Anul [][][][] I. DATE DE IDENTIFICARE A CONTRIBUABILULUI ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2371/2007: Anexa nr. 1 (3 [SIGLA ANAF] DECLARAȚIE PRIVIND VENITUL ESTIMAT 220 Anul [][][][] I. DATE DE IDENTIFICARE A CONTRIBUABILULUI) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2371/2007: the official text prints 12836 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

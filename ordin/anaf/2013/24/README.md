@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 24/2013 · 1 versions, from 2013-01-21 (latest in force: 2013-01-21) · <https://legislatie.just.ro/Public/DetaliiDocument/144825>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 [SIGLA] Agenția Națională de Administrare FISCALĂ 260 Direcția Generală a Finanțelor Publice ______ Administrația Finanțelor Publice ____________ DECIZIE DE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 [SIGLA] Agenția Națională de Administrare FISCALĂ 260 Direcția Generală a Finanțelor Publice ______ Administrația Finanțelor Publice ____________ DECIZIE DE ...): it is a table that the official text holds only flattened; text printed after its signature (1008 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,5 @@ Act id: `ordin-anaf-24-2013` (tags `ordin-anaf-24-2013/<day>`; `python tools/on.
 - Ordin anaf nr. 24/2013: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 24/2013: Anexa nr. 2 (3 INSTRUCȚIUNI privind completarea și depunerea formularului 200 "Declarație privind veniturile realizate din România", cod 14.13.01.13 1. Depunerea declarației Declarația se depune de către persoanel) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 144825 of the official web service.
 - Ordin anaf nr. 24/2013: Anexa nr. 1 (2 [SIGLA] Agenția Națională de Administrare FISCALĂ 260 Direcția Generală a Finanțelor Publice ______ Administrația Finanțelor Publice ____________ DECIZIE DE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 24/2013: the official text prints 1008 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin anaf nr. 24/2013: the publisher's notes run into its text (*) Potrivit Ordinului ministrului finanţelor publice nr. 2.875/2011 privind aprobarea Nomenclatorului activităţilor inde) are not text.

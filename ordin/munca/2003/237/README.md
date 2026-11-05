@@ -2,7 +2,7 @@
 
 Ordin munca nr. 237/2003 · 1 versions, from 2003-07-25 (latest in force: 2003-07-25) · <https://legislatie.just.ro/Public/DetaliiDocument/45235>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────┐ ROMÂNIA │ │ MINISTERUL MUNCII, SOLIDARITĂȚII SOCIALE ȘI FAMILIEI │stema│ Oficiul Pentru Migratia Forței de Muncă │ │ Str. Walter Maracineanu nr. 1-3, ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-munca-237-2003` (tags `ordin-munca-237-2003/<day>`; `python tools
 - Ordin munca nr. 237/2003: the first version is the order as published in Monitorul Oficial nr. 538 of 25 July 2003 (document 45235 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 237/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 237/2003: Anexa nr. 2 (2 CONDIȚIILE ȘI PROCEDURA de eliberare a atestatelor de recunoaștere a pregătirii profesionale 1. Persoanele care doresc să obțină atestatul de recunoaștere a pregătirii profesionale, prevăzut la art.) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 45235 of the official web service.
-- Ordin munca nr. 237/2003: Anexa nr. 1 (1 ┌─────┐ ROMÂNIA │ │ MINISTERUL MUNCII, SOLIDARITĂȚII SOCIALE ȘI FAMILIEI │stema│ Oficiul Pentru Migratia Forței de Muncă │ │ Str. Walter Maracineanu nr. 1-3, ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 237/2003: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

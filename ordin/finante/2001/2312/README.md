@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2312/2001 · 1 versions, from 2002-01-01 (latest in force: 2002-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/33113>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────────────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ │ └─────┘ │ │MINISTERUL FINANȚELOR│ │ PUBLICE │ └─────────────────────┘ DECLARAȚIE PRIVIND ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,5 +25,5 @@ Act id: `ordin-finante-2312-2001` (tags `ordin-finante-2312-2001/<day>`; `python
 - Ordin finante nr. 2312/2001: the first version is the order as published in Monitorul Oficial nr. 842 of 28 December 2001 (document 33113 of the official web service), in force on 1 January 2002, the day it states for itself.
 - Ordin finante nr. 2312/2001: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2312/2001: Anexa nr. 2 (3 CARACTERISTICI DE TIPĂRIRE 1. Declarație privind veniturile estimate din cedarea folosinței bunurilor, cod 14.13.01.13/3p 1. Denumire: Declarație privind veniturile estimate din cedarea folosinței b) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 33113 of the official web service.
-- Ordin finante nr. 2312/2001: Anexa nr. 1 (1 ┌─────────────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ │ └─────┘ │ │MINISTERUL FINANȚELOR│ │ PUBLICE │ └─────────────────────┘ DECLARAȚIE PRIVIND ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2312/2001: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 2312/2001: the publisher's notes run into its text (*) Declaraţia rectificativa se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control) are not text.

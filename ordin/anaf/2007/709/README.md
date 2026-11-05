@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 709/2007 · 1 versions, from 2007-05-29 (latest in force: 2007-05-29) · <https://legislatie.just.ro/Public/DetaliiDocument/82403>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Fila 1 ┌──────────────────────────────────────┬───────────────────────────────────────┐ │ │ │ │ [SIGLA] AGENȚIA NAȚIONALĂ DE │ [SIGLA] AGENȚIA NAȚIONALĂ DE │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Fila 1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,4 +30,4 @@ Act id: `ordin-anaf-709-2007` (tags `ordin-anaf-709-2007/<day>`; `python tools/o
 - Ordin anaf nr. 709/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 709/2007: Anexa nr. 2 (1a) DESCRIEREA legitimației de inspecție fiscală 1. Descriere legitimație: a) dimensiuni: 62 mm/51 mm;... b) carton grosime 1 mm;... c) culori: roșu, galben, albastru sidefat (BT 32), negru, alb.... 2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 82403 of the official web service.
 - Ordin anaf nr. 709/2007: Anexa nr. 3 (2 REPARTIZAREA plajei de numere pentru legitimațiile de inspecție fiscală Nr. crt. Județul Plaja de început Plaja de sfârșit 1. A.N.A.F. 00001 01000 2. ALBA 01001 02000 3. ARAD 02001 03000 4. ARGEȘ 03) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 82403 of the official web service.
-- Ordin anaf nr. 709/2007: Anexa nr. 1 (1 Fila 1 ┌──────────────────────────────────────┬───────────────────────────────────────┐ │ │ │ │ [SIGLA] AGENȚIA NAȚIONALĂ DE │ [SIGLA] AGENȚIA NAȚIONALĂ DE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 709/2007: Anexa nr. 1 (1 Fila 1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

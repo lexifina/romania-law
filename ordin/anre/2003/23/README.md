@@ -2,7 +2,7 @@
 
 Ordin anre nr. 23/2003 · 1 versions, from 2003-09-01 (latest in force: 2003-09-01) · <https://legislatie.just.ro/Public/DetaliiDocument/45922>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE MEDII pentru activitățile de transport, servicii de sistem, administrare a pieței angro și distribuție a energiei electrice ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 TARIFE ZONALE pentru transportul energiei electrice ┌─────┬────────────────────────────────┬───────────────────────────────────────┐ │Numa-│Noduri principale ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE MEDII pentru activitățile de transport, servicii de sistem, administrare a pieței angro și distribuție a energiei electrice): it is a table that the official text holds only flattened; Anexa nr. 2 (2 TARIFE ZONALE pentru transportul energiei electrice): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,6 @@ Act id: `ordin-anre-23-2003` (tags `ordin-anre-23-2003/<day>`; `python tools/on.
 - Ordin anre nr. 23/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 23/2003: the first version is the order as published in Monitorul Oficial nr. 614 of 29 August 2003 (document 45922 of the official web service), in force on 1 September 2003, the day it states for itself.
 - Ordin anre nr. 23/2003: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 23/2003: Anexa nr. 1 (1 TARIFE MEDII pentru activitățile de transport, servicii de sistem, administrare a pieței angro și distribuție a energiei electrice ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 23/2003: Anexa nr. 2 (2 TARIFE ZONALE pentru transportul energiei electrice ┌─────┬────────────────────────────────┬───────────────────────────────────────┐ │Numa-│Noduri principale ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 23/2003: Anexa nr. 1 (1 TARIFE MEDII pentru activitățile de transport, servicii de sistem, administrare a pieței angro și distribuție a energiei electrice) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 23/2003: Anexa nr. 2 (2 TARIFE ZONALE pentru transportul energiei electrice) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 23/2003: the publisher's notes run into its text (*) Tariful pentru transportul energiei electrice între doua zone este suma) are not text.

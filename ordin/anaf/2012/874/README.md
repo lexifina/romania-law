@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 874/2012 · 1 versions, from 2012-06-25 (latest in force: 2012-06-25) · <https://legislatie.just.ro/Public/DetaliiDocument/139069>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE ┌─────────────┐ privind venitul asigurat la │ SIGLA │ sistemul public de pensii 600 │ Agenția │ ┌──┬──┬──┬──┐ │ Națională │ pentru anul ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,8 +30,8 @@ Act id: `ordin-anaf-874-2012` (tags `ordin-anaf-874-2012/<day>`; `python tools/o
 - Ordin anaf nr. 874/2012: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 874/2012: the first version is the order as published in Monitorul Oficial nr. 421 of 25 June 2012 (document 139069 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 874/2012: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 874/2012: a joint order of Agenția Națională de Administrare Fiscală nr. 874 din 20 June 2012; Casa Națională de Pensii Publice nr. 221 din 20 June 2012. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnpp-221-2012` name it too (data/paths.json aliases).
 - Ordin anaf nr. 874/2012: Anexa nr. 2 (2 INSTRUCȚIUNI DE COMPLETARE a formularului "Declarație privind venitul asigurat la sistemul public de pensii" cod 14.13.03.03 1. Depunerea declarației În conformitate cu prevederile art. 296^21 alin.) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 139069 of the official web service.
 - Ordin anaf nr. 874/2012: Anexa nr. 3 (3 INSTRUCȚIUNI DE GESTIONARE a formularului "Declarație privind venitul asigurat la sistemul public de pensii" cod 14.13.03.03 1. În conformitate cu prevederile art. 296^25 alin. (1) din Legea nr. 571) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 139069 of the official web service.
 - Ordin anaf nr. 874/2012: Anexa nr. 4 (4 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului Denumire: "Declarație privind venitul asigurat la sistemul public de pensii" 1. Cod: 14.13.03.03 2. Format) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 139069 of the official web service.
-- Ordin anaf nr. 874/2012: Anexa nr. 1 (1 DECLARAȚIE ┌─────────────┐ privind venitul asigurat la │ SIGLA │ sistemul public de pensii 600 │ Agenția │ ┌──┬──┬──┬──┐ │ Națională │ pentru anul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 874/2012: Anexa nr. 1 (1 DECLARAȚIE) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 874/2012: a joint order of Agenția Națională de Administrare Fiscală nr. 874 din 20 June 2012; Casa Națională de Pensii Publice nr. 221 din 20 June 2012. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnpp-221-2012` name it too (data/paths.json aliases).

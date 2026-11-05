@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1607/2009 · 1 versions, from 2009-11-05 (latest in force: 2009-11-05) · <https://legislatie.just.ro/Public/DetaliiDocument/113122>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (4232 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,3 +22,4 @@ Act id: `ordin-anaf-1607-2009` (tags `ordin-anaf-1607-2009/<day>`; `python tools
 - Ordin anaf nr. 1607/2009: the first version is the order as published in Monitorul Oficial nr. 757 of 5 November 2009 (document 113122 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1607/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1607/2009: Anexa nr. 1 (3 NOMENCLATORUL PRIVIND ACCIZELE Nr. crt. Denumire creanță fiscală Temei legal "22 Accize pentru autoturismele care au făcut obiectul unor contracte de leasing inițiate înainte de 1 ianuarie 2007 Art.) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 113122 of the official web service.
+- Ordin anaf nr. 1607/2009: the official text prints 4232 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

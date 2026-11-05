@@ -3,6 +3,21 @@
  "shard": "ordin/2008",
  "acts": [
   {
+   "slug": "ordin-agricultura-138-2008",
+   "path": "ordin/agricultura/2008/138",
+   "short": "Ordin agricultura nr. 138/2008",
+   "title": "Ordinul nr. 138/2008 pentru completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale și al ministrului administrației și internelor nr. 143/610/2005 privind definirea și caracterizarea spațiului rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90091",
+   "versions": [
+    {
+     "from": "2008-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90091",
+     "sha256": "c9531e5912dc6a3b4b9714f776bd816bb4d3dac24cf695387bbb0807d0239f9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-142-2008",
    "path": "ordin/agricultura/2008/142",
    "short": "Ordin agricultura nr. 142/2008",
@@ -1833,6 +1848,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-31-2008",
+   "path": "ordin/ansvsa/2008/31",
+   "short": "Ordin ansvsa nr. 31/2008",
+   "title": "Ordinul nr. 31/2008 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 205/2004 privind protecția animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95380",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95380",
+     "sha256": "009667cf1eb17f2af1dbb98e15bfa6bfc516074e922daf016d1b4aef5fed728b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-2008",
    "path": "ordin/bnr/2008/1",
    "short": "Ordin bnr nr. 1/2008",
@@ -2703,6 +2733,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1037-2008",
+   "path": "ordin/dezvoltare/2008/1037",
+   "short": "Ordin dezvoltare nr. 1037/2008",
+   "title": "Ordinul nr. 1.037/2008 privind modificarea art. 14 alin. (2) lit. b) din Procedura de desemnare a organismelor pentru atestarea conformității produselor pentru construcții, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului și al ministrului administrației și internelor nr. 2.134/460/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97740",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97740",
+     "sha256": "33011ea6de78e20148d6f473aedb13ffcae2ba4a875633577b71fefc4b182371"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1147-2008",
    "path": "ordin/dezvoltare/2008/1147",
    "short": "Ordin dezvoltare nr. 1147/2008",
@@ -2733,6 +2778,36 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1298-2008",
+   "path": "ordin/dezvoltare/2008/1298",
+   "short": "Ordin dezvoltare nr. 1298/2008",
+   "title": "Ordinul nr. 1.298/2008 privind modificarea Metodologiei de emitere a avizului tehnic de către Inspectoratul de Stat în Construcții - I.S.C. pentru documentațiile tehnico-economice aferente obiectivelor de investiții finanțate din fonduri publice, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 726/2007 și Ordinul inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 549/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98314",
+   "versions": [
+    {
+     "from": "2008-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98314",
+     "sha256": "8634217125fdb8c5f57fc87520c5d8ccb31e408e0f9c2cacebf84fc4cd4ad2c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1299-2008",
+   "path": "ordin/dezvoltare/2008/1299",
+   "short": "Ordin dezvoltare nr. 1299/2008",
+   "title": "Ordinul nr. 1.299/2008 pentru modificarea Procedurii privind emiterea acordului de către Inspectoratul de Stat în Construcții - I.S.C. pentru intervenții în timp asupra construcțiilor existente, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor și al inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 486/500/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98323",
+   "versions": [
+    {
+     "from": "2008-10-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98323",
+     "sha256": "258c9887d4295541c2ac74562070b77f6d94858072a41260bccac5e3e9c8fd1e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-144-2008",
    "path": "ordin/dezvoltare/2008/144",
    "short": "Ordin dezvoltare nr. 144/2008",
@@ -2744,6 +2819,36 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90258",
      "sha256": "df0e780fc805be71d6aa39e2d3fb39042181b23e4cc0ac42e792590f61cd14c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1481-2008",
+   "path": "ordin/dezvoltare/2008/1481",
+   "short": "Ordin dezvoltare nr. 1481/2008",
+   "title": "Ordinul nr. 1.481/2008 privind aprobarea Programului \"Patinoare artificiale\" realizat prin Compania Națională de Investiții \"C.N.I.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100092",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100092",
+     "sha256": "5407172b8a5799487bb23c96d3ff754f538e7e3cb3fa768b9c5901924937e907"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1525-2008",
+   "path": "ordin/dezvoltare/2008/1525",
+   "short": "Ordin dezvoltare nr. 1525/2008",
+   "title": "Ordinul nr. 1.525/2008 privind ridicarea suspendării, retragerea notificării și prelungirea valabilității notificării la Comisia Europeană a unor organisme care realizează evaluarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100458",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100458",
+     "sha256": "455f3f5fbbd54bd2f1a81cae8619dc42632c75a59618f3540e61cc9235df14db"
     }
    ]
   },
@@ -2763,6 +2868,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1583-2008",
+   "path": "ordin/dezvoltare/2008/1583",
+   "short": "Ordin dezvoltare nr. 1583/2008",
+   "title": "Ordinul nr. 1.583/2008 privind aplicarea standardelor referitoare la sisteme de control și evacuare a fumului și gazelor fierbinți din construcții și de limitare a propagării fumului în caz de incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100991",
+   "versions": [
+    {
+     "from": "2009-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100991",
+     "sha256": "535c3e5d3069f1f48b0c1648f7f20861c1c078257a18178a437e4acbf886bbb9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-185-2008",
    "path": "ordin/dezvoltare/2008/185",
    "short": "Ordin dezvoltare nr. 185/2008",
@@ -2774,6 +2894,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90304",
      "sha256": "13ebbdc6e940c7282b5e6e613e13510691868e3323265c063318000fcb516bd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-234-2008",
+   "path": "ordin/dezvoltare/2008/234",
+   "short": "Ordin dezvoltare nr. 234/2008",
+   "title": "Ordinul nr. 234/2008 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate și ale specificațiilor tehnice recunoscute din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91142",
+   "versions": [
+    {
+     "from": "2008-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91142",
+     "sha256": "d61fae72034300b436d8628afbc30a812586a06eefc3ec13bffd87eda878f30f"
     }
    ]
   },
@@ -2808,6 +2943,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-269-2008",
+   "path": "ordin/dezvoltare/2008/269",
+   "short": "Ordin dezvoltare nr. 269/2008",
+   "title": "Ordinul nr. 269/2008 pentru modificarea și completarea Regulamentului privind clasificarea și încadrarea produselor pentru construcții pe baza performanțelor de comportare la foc, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.822/2004 și Ordinul ministrului administrației și internelor nr. 394/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91638",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91638",
+     "sha256": "e7ac9ddcc00a9a84779aab366098a982ab1ad077a19788ffe67c695cafcd4c6e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-275-2008",
    "path": "ordin/dezvoltare/2008/275",
    "short": "Ordin dezvoltare nr. 275/2008",
@@ -2838,6 +2988,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-345-2008",
+   "path": "ordin/dezvoltare/2008/345",
+   "short": "Ordin dezvoltare nr. 345/2008",
+   "title": "Ordinul nr. 345/2008 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.228/2005 pentru aprobarea Reglementării tehnice \"Cod de proiectare. Evaluarea acțiunii zăpezii asupra construcțiilor\", indicativ CR 1-1-3-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90695",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90695",
+     "sha256": "a04b8ebb21079c9f5254bda56717491caa1333b591bff46a17e42ca1476a5f29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-349-2008",
+   "path": "ordin/dezvoltare/2008/349",
+   "short": "Ordin dezvoltare nr. 349/2008",
+   "title": "Ordinul nr. 349/2008 privind suspendarea desemnării unor laboratoare de încercări, organisme de certificare și de inspecție notificate care realizează evaluarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91373",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91373",
+     "sha256": "eff18b470c40a255ed4c77c47b987764bc4628ec04ee196e0e91a07a6e7e79e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-413-2008",
+   "path": "ordin/dezvoltare/2008/413",
+   "short": "Ordin dezvoltare nr. 413/2008",
+   "title": "Ordinul nr. 413/2008 pentru modificarea anexei la Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 155/2008 privind aprobarea Schemei de ajutor de minimis pentru sprijinirea microîntreprinderilor pentru domeniul major de intervenție \"Sprijinirea dezvoltării microîntreprinderilor\" în cadrul axei prioritare \"Sprijinirea dezvoltării mediului de afaceri regional și local\" din cadrul Programului operațional regional 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91652",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91652",
+     "sha256": "59dd6336792b8aa35edc495a2c267ba51b25fbfaf47bf8a03b37036fb956f856"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-665-2008",
    "path": "ordin/dezvoltare/2008/665",
    "short": "Ordin dezvoltare nr. 665/2008",
@@ -2849,6 +3044,36 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97543",
      "sha256": "0bf408abf2392b2a68300543a81cc77985ab61d14a062b0cdccd2323bc31bf6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-697-2008",
+   "path": "ordin/dezvoltare/2008/697",
+   "short": "Ordin dezvoltare nr. 697/2008",
+   "title": "Ordinul nr. 697/2008 privind modificarea și completarea Normelor metodologice pentru punerea în aplicare a Programului național privind sprijinirea construirii de locuințe proprietate personală, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor și al ministrului internelor și reformei administrative nr. 166/216/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95278",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95278",
+     "sha256": "e2c4c07b45f9124cc5748c2df878fb16354a6944d05da8d8e529b8fb392d5e7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-708-2008",
+   "path": "ordin/dezvoltare/2008/708",
+   "short": "Ordin dezvoltare nr. 708/2008",
+   "title": "Ordinul nr. 708/2008 pentru modificarea Reglementării tehnice \"Îndrumător pentru atestarea auditorilor energetici pentru clădiri și instalațiile aferente\", aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 550/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93658",
+   "versions": [
+    {
+     "from": "2008-06-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93658",
+     "sha256": "921c32fc6e990d53531ad6a775918ebd1567bc26daf5b55267b15cbce2aad0af"
     }
    ]
   },
@@ -2868,6 +3093,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-851-2008",
+   "path": "ordin/dezvoltare/2008/851",
+   "short": "Ordin dezvoltare nr. 851/2008",
+   "title": "Ordinul nr. 851/2008 privind aprobarea Ghidului operațional pentru Programul prioritar național pentru reabilitarea, modernizarea infrastructurii culturale și dotarea așezămintelor culturale din mediul mic urban",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96677",
+   "versions": [
+    {
+     "from": "2008-08-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96677",
+     "sha256": "ce395818e68cb17fa7b7d1a92d1f22c10b647ef7d984bd329328ff914816bfa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-863-2008",
+   "path": "ordin/dezvoltare/2008/863",
+   "short": "Ordin dezvoltare nr. 863/2008",
+   "title": "Ordinul nr. 863/2008 pentru aprobarea \"Instrucțiunilor de aplicare a unor prevederi din Hotărârea Guvernului nr. 28/2008 privind aprobarea conținutului-cadru al documentației tehnico-economice aferente investițiilor publice, precum și a structurii și metodologiei de elaborare a devizului general pentru obiective de investiții și lucrări de intervenții\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95555",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95555",
+     "sha256": "e06b063fb7274efbc6db0c67dde2f54c5a1b7aa7ed21ee388f6c5c6712b292e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-930-2008",
+   "path": "ordin/dezvoltare/2008/930",
+   "short": "Ordin dezvoltare nr. 930/2008",
+   "title": "Ordinul nr. 930/2008 privind aprobarea componenței Comitetului tehnic de coordonare generală, a structurii și componenței comitetelor tehnice de specialitate, precum și a regulamentului de organizare și funcționare al acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96391",
+   "versions": [
+    {
+     "from": "2008-09-06",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96391",
+     "sha256": "746f306c4ead30ca7fdd628bf00f57e5286d99f2bbb33276cc13ceb428b589a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-969-2008",
    "path": "ordin/dezvoltare/2008/969",
    "short": "Ordin dezvoltare nr. 969/2008",
@@ -2879,6 +3149,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97671",
      "sha256": "3013a957e368278357bf71471bc16db80dcb1c5a2dd3cc3a3e419f745c7fec43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-970-2008",
+   "path": "ordin/dezvoltare/2008/970",
+   "short": "Ordin dezvoltare nr. 970/2008",
+   "title": "Ordinul nr. 970/2008 pentru aprobarea Procedurii de inventariere a locuințelor afectate de calamități naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96161",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96161",
+     "sha256": "159e325de4a724965052ba73a7aa579188394596e0541b52cf18fc140f638e65"
     }
    ]
   },
@@ -4608,6 +4893,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-390-2008",
+   "path": "ordin/interne/2008/390",
+   "short": "Ordin interne nr. 390/2008",
+   "title": "Ordinul nr. 390/2008 privind constituirea și funcționarea Comisiei de Însemne Heraldice a Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89143",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89143",
+     "sha256": "5a148fb973636f364f081f1ce0d66a5a821ec62dbf3d3c021c8f9a57058be1bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-392-2008",
    "path": "ordin/interne/2008/392",
    "short": "Ordin interne nr. 392/2008",
@@ -4619,6 +4919,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98359",
      "sha256": "06da45d138eb7093894f469188020d09f582436ac04e237bf0930cf72bcfef79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-395-2008",
+   "path": "ordin/interne/2008/395",
+   "short": "Ordin interne nr. 395/2008",
+   "title": "Ordinul nr. 395/2008 privind acordarea sporului pentru păstrarea confidențialității în legătură cu informațiile clasificate pentru personalul din Administrația Națională a Rezervelor de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89257",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89257",
+     "sha256": "e5d1f733aba7613056246c01831c2b0e8b77d45bd3f759d04d7e25218e31455f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-397-2008",
+   "path": "ordin/interne/2008/397",
+   "short": "Ordin interne nr. 397/2008",
+   "title": "Ordinul nr. 397/2008 pentru alocarea sumelor în vederea compensării creșterilor neprevizionate ale prețurilor combustibililor utilizați pentru producerea energiei termice furnizate populației în sistem centralizat conform Ordonanței Guvernului nr. 36/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89359",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89359",
+     "sha256": "b2861a2a128311df9e8ccce5c31725af95543afeb2be4fc9dc0725b45a1e8586"
     }
    ]
   },
@@ -4638,6 +4968,141 @@
    ]
   },
   {
+   "slug": "ordin-interne-399-2008",
+   "path": "ordin/interne/2008/399",
+   "short": "Ordin interne nr. 399/2008",
+   "title": "Ordinul nr. 399/2008 pentru aprobarea Regulamentului de funcționare al Unității de management al Programului \"Electrificare 2007-2009\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89523",
+   "versions": [
+    {
+     "from": "2008-02-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89523",
+     "sha256": "c780c3b9729b656b6491aab31a6efba66b0568cb382712e4a911420f0f882884"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-403-2008",
+   "path": "ordin/interne/2008/403",
+   "short": "Ordin interne nr. 403/2008",
+   "title": "Ordinul nr. 403/2008 pentru aprobarea normelor privind condițiile în care soldații și gradații voluntari din Ministerul Internelor și Reformei Administrative pot beneficia de compensație lunară pentru chirie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89941",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89941",
+     "sha256": "b1d7f6234058cde0e2f97989567b2061f6adb081869fdd66aea761ff12bbac02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-409-2008",
+   "path": "ordin/interne/2008/409",
+   "short": "Ordin interne nr. 409/2008",
+   "title": "Ordinul nr. 409/2008 privind organizarea, coordonarea și controlul activității de protecție a mediului în unitățile Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90222",
+   "versions": [
+    {
+     "from": "2008-03-11",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90222",
+     "sha256": "2c4e34c3b483d9fd2a26d42fa5e9074c7077d2855e8c1b51296dfcbd2f1279bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-432-2008",
+   "path": "ordin/interne/2008/432",
+   "short": "Ordin interne nr. 432/2008",
+   "title": "Ordinul nr. 432/2008 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 371/2007 privind aprobarea tarifelor pentru serviciile furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91483",
+   "versions": [
+    {
+     "from": "2008-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91483",
+     "sha256": "2508231125621f2ab01ca45f60a53ff881082464397a26d817cf7539920ece01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-433-2008",
+   "path": "ordin/interne/2008/433",
+   "short": "Ordin interne nr. 433/2008",
+   "title": "Ordinul nr. 433/2008 pentru completarea anexei nr. 1 la Ordinul ministrului administrației și internelor nr. 134/2007 privind aprobarea criteriilor de evaluare, a punctajelor și a metodologiei de punctare, aplicabile în vederea atribuirii traseelor pentru transportul rutier public de persoane prin servicii regulate în trafic județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91263",
+   "versions": [
+    {
+     "from": "2008-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91263",
+     "sha256": "95a010e519438819b5643becb00e932f09271be8c382e5df732cb659193f5bc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-439-2008",
+   "path": "ordin/interne/2008/439",
+   "short": "Ordin interne nr. 439/2008",
+   "title": "Ordinul nr. 439/2008 privind asigurarea asistării polițiștilor, la cerere, pe parcursul cercetării disciplinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91264",
+   "versions": [
+    {
+     "from": "2008-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91264",
+     "sha256": "cbdded1bd9c07650e2966e05096b5db24715c4e8f190ef217f809111c8cf80aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-440-2008",
+   "path": "ordin/interne/2008/440",
+   "short": "Ordin interne nr. 440/2008",
+   "title": "Ordinul nr. 440/2008 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 262/2007 privind aprobarea Regulamentului pentru compunerea și portul uniformelor militare, precum și a Regulilor pentru aplicarea normelor privind echiparea militarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91141",
+   "versions": [
+    {
+     "from": "2008-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91141",
+     "sha256": "6814243facbf8b18655268d0396e887d3ee8a6974111b975211840f1aaf05084"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-441-2008",
+   "path": "ordin/interne/2008/441",
+   "short": "Ordin interne nr. 441/2008",
+   "title": "Ordinul nr. 441/2008 pentru stabilirea atribuțiilor autorităților responsabile cu implementarea datelor în sistemul Eurodac și pentru stabilirea metodologiei practice de cooperare în vederea aplicării regulamentelor europene în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91271",
+   "versions": [
+    {
+     "from": "2008-04-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91271",
+     "sha256": "b62cb4836520b4cbcf22ad1137b369bc2de2a0e991b02ff2d47f1ec4d068cf00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-447-2008",
+   "path": "ordin/interne/2008/447",
+   "short": "Ordin interne nr. 447/2008",
+   "title": "Ordinul nr. 447/2008 privind aprobarea modelului angajamentelor pentru participanții declarați admiși la programele de formare specializată prevăzute la art. 4 alin. (1) din Ordonanța de urgență a Guvernului nr. 56/2004 privind crearea statutului special al funcționarului public denumit manager public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91636",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91636",
+     "sha256": "4313016bba92e9821f963060f465970a058ef0e7e9233051ba1a0f7cd5d0ed3c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-453-2008",
    "path": "ordin/interne/2008/453",
    "short": "Ordin interne nr. 453/2008",
@@ -4649,6 +5114,111 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92854",
      "sha256": "1964e6a11708a4de205125bfc1ed76e152b887bf7a66e65e7775cce061b2de1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-460-2008",
+   "path": "ordin/interne/2008/460",
+   "short": "Ordin interne nr. 460/2008",
+   "title": "Ordinul nr. 460/2008 pentru alocarea sumelor în vederea compensării creșterilor neprevizionate ale prețurilor combustibililor utilizați pentru producerea energiei termice furnizate populației în sistem centralizat, conform Ordonanței Guvernului nr. 36/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92055",
+   "versions": [
+    {
+     "from": "2008-05-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92055",
+     "sha256": "210a155c5cf6aa3bde2ebbdc31a25c59a594968770bae9c5b4c1b853e02c7fb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-462-2008",
+   "path": "ordin/interne/2008/462",
+   "short": "Ordin interne nr. 462/2008",
+   "title": "Ordinul nr. 462/2008 privind acordarea celui de-al treilea titlu de parc industrial Societății Comerciale \"Tetarom\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92165",
+   "versions": [
+    {
+     "from": "2008-05-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92165",
+     "sha256": "ec67b6a6cfbac2dd7edf078ed64ec0fac91903d8c24153aa2e41237d7611207e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-471-2008",
+   "path": "ordin/interne/2008/471",
+   "short": "Ordin interne nr. 471/2008",
+   "title": "Ordinul nr. 471/2008 privind aprobarea Regulamentului pentru implementarea programului \"Termoficare 2006-2015 - căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92709",
+   "versions": [
+    {
+     "from": "2008-05-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92709",
+     "sha256": "963073652f7fc2692e42cff163a3f8f898de9e24426437bb8479ea2a67da53a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-483-2008",
+   "path": "ordin/interne/2008/483",
+   "short": "Ordin interne nr. 483/2008",
+   "title": "Ordinul nr. 483/2008 privind organizarea și desfășurarea programelor de pregătire a specialiștilor compartimentelor pentru prevenire din serviciile voluntare pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93315",
+   "versions": [
+    {
+     "from": "2008-05-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93315",
+     "sha256": "35a538ffd2ce98795607156837ea23dbb97911d34f522cc21c5d7ddf03c7124d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-484-2008",
+   "path": "ordin/interne/2008/484",
+   "short": "Ordin interne nr. 484/2008",
+   "title": "Ordinul nr. 484/2008 pentru aprobarea Regulamentului de organizare și funcționare a Unității de politici publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93329",
+   "versions": [
+    {
+     "from": "2008-05-23",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93329",
+     "sha256": "0fb42a917b743319967986c021ff2c93d05e944cae5787f1e2c0e8eafb7af9de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-485-2008",
+   "path": "ordin/interne/2008/485",
+   "short": "Ordin interne nr. 485/2008",
+   "title": "Ordinul nr. 485/2008 privind aprobarea Regulamentului general pentru trageri al Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93763",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93763",
+     "sha256": "6cd1c7981893cbbe60aad30928787c9cb5538026d46d95cd2f8f8229fa7967d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-490-2008",
+   "path": "ordin/interne/2008/490",
+   "short": "Ordin interne nr. 490/2008",
+   "title": "Ordinul nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93837",
+   "versions": [
+    {
+     "from": "2008-06-09",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93837",
+     "sha256": "5be576c94cf5d0e8b91a4c7387d5cf5476446f829b90fc2e6673b0c526c29890"
     }
    ]
   },
@@ -4668,6 +5238,456 @@
    ]
   },
   {
+   "slug": "ordin-interne-498-2008",
+   "path": "ordin/interne/2008/498",
+   "short": "Ordin interne nr. 498/2008",
+   "title": "Ordinul nr. 498/2008 privind organizarea, coordonarea și controlul activităților de inspecție a muncii, de prevenire a riscurilor profesionale și de protecție a lucrătorilor la locul de muncă în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93816",
+   "versions": [
+    {
+     "from": "2008-06-09",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93816",
+     "sha256": "0840b387e09068521a9135f7ab637ee47396aab92805586fb11cd20e7f2b4813"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-500-2008",
+   "path": "ordin/interne/2008/500",
+   "short": "Ordin interne nr. 500/2008",
+   "title": "Ordinul nr. 500/2008 pentru aprobarea Normelor metodologice privind managementul și organizarea activității de cercetare-dezvoltare în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94481",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94481",
+     "sha256": "5ab665c4866221832bd9dd10470d5fd8d0bdaedd81618b3aff4d0f4f9ab0e6be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-503-2008",
+   "path": "ordin/interne/2008/503",
+   "short": "Ordin interne nr. 503/2008",
+   "title": "Ordinul nr. 503/2008 privind asigurarea structurilor și efectivelor cu materiale de resortul echipamentului, de întreținere și alte materiale specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95709",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95709",
+     "sha256": "28329ad3eaa184974c4313bb3edc3a19126897a1964b6c09e7e94f09221da9d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-504-2008",
+   "path": "ordin/interne/2008/504",
+   "short": "Ordin interne nr. 504/2008",
+   "title": "Ordinul nr. 504/2008 privind aprobarea cifrei anuale de școlarizare, a comisiei de concurs și a comisiei de soluționare a contestațiilor, a tematicii, a cuantumului taxei de participare la program, a modalității privind plata acesteia și a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93938",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93938",
+     "sha256": "e916d8a54f0c1e370f8de9ab76135f8b98dd97263548eca8a2c6237b241d2462"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-506-2008",
+   "path": "ordin/interne/2008/506",
+   "short": "Ordin interne nr. 506/2008",
+   "title": "Ordinul nr. 506/2008 privind modificarea și completarea Ordinului ministrului administrației și internelor nr. 1.033/2005 pentru aprobarea Structurii organizatorice și a Regulamentului de organizare și funcționare ale Agenției Naționale de Cadastru și Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93966",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93966",
+     "sha256": "9b190ec4fa57b75d8cb7939fca4bc12ca6bf2deddb443169ec408413b5eaa87c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-516-2008",
+   "path": "ordin/interne/2008/516",
+   "short": "Ordin interne nr. 516/2008",
+   "title": "Ordinul nr. 516/2008 pentru modificarea anexei la Ordinul ministrului internelor și reformei administrative nr. 371/2007 privind aprobarea tarifelor pentru serviciile furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94673",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94673",
+     "sha256": "4307059af959a53db27fdf5ff1c3896eaf746f90d88ffc1870d40e2e4d25ab7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-519-2008",
+   "path": "ordin/interne/2008/519",
+   "short": "Ordin interne nr. 519/2008",
+   "title": "Ordinul nr. 519/2008 privind modificarea Ordinului ministrului administrației și internelor nr. 1.134/2006 pentru aprobarea Regulamentului privind planificarea, pregătirea, organizarea, desfășurarea și conducerea acțiunilor de intervenție ale serviciilor de urgență profesioniste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95516",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95516",
+     "sha256": "1fd9cb75df0853d5b0a16e21d28aacd3ad86bed5400a8c7a36c196a4232360c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-521-2008",
+   "path": "ordin/interne/2008/521",
+   "short": "Ordin interne nr. 521/2008",
+   "title": "Ordinul nr. 521/2008 privind asigurarea structurilor Ministerului Internelor și Reformei Administrative care nu dispun de suport logistic propriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95392",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95392",
+     "sha256": "11b54d25b27c4d4058fc3f7a94bec437989ef41730045e7ab2e526e584e35604"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-524-2008",
+   "path": "ordin/interne/2008/524",
+   "short": "Ordin interne nr. 524/2008",
+   "title": "Ordinul nr. 524/2008 privind depunerea și gestionarea declarațiilor de avere și a declarațiilor de interese în cadrul Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95368",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95368",
+     "sha256": "f8689160b2eff4c9dee7d3631576b2589080fde50f47b625884e35354f3a6af8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-532-2008",
+   "path": "ordin/interne/2008/532",
+   "short": "Ordin interne nr. 532/2008",
+   "title": "Ordinul nr. 532/2008 pentru aprobarea Ghidului privind adoptarea valorilor-limită și a modului de aplicare a acestora atunci când se elaborează planurile de acțiune, pentru indicatorii L(zsn) și L(noapte), în cazul zgomotului produs de traficul rutier pe drumurile principale și în aglomerări, traficul feroviar pe căile ferate principale și în aglomerări, traficul aerian pe aeroporturile mari și/sau urbane și pentru zgomotul produs în zonele din aglomerări unde se desfășoară activități industriale prevăzute în anexa nr. 1 la Ordonanța de urgență a Guvernului nr. 152/2005 privind prevenirea și controlul integrat al poluării, aprobată cu modificări și completări prin Legea nr. 84/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95640",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95640",
+     "sha256": "0abe274c1ea7100066f05566c01789f8ab11fb74676294745ca0d42c570900df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-534-2008",
+   "path": "ordin/interne/2008/534",
+   "short": "Ordin interne nr. 534/2008",
+   "title": "Ordinul nr. 534/2008 privind alocarea sumelor în vederea compensării creșterilor neprevizionate ale prețurilor combustibililor utilizați pentru producerea energiei termice furnizate populației în sistem centralizat, conform Ordonanței Guvernului nr. 36/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95910",
+   "versions": [
+    {
+     "from": "2008-07-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95910",
+     "sha256": "44c38385a342c6ec7915ebfe36b9283ecdda4dd9abeb7d76f1c24bbb12ccec89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-535-2008",
+   "path": "ordin/interne/2008/535",
+   "short": "Ordin interne nr. 535/2008",
+   "title": "Ordinul nr. 535/2008 privind modificarea și completarea anexei la Ordinul ministrului administrației și internelor nr. 1.435/2006 pentru aprobarea Normelor metodologice de avizare și autorizare privind securitatea la incendiu și protecția civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95550",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95550",
+     "sha256": "07ba3365d802167289608ca2c688345d3a47d25fc57d74c37a17b00682ae63a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-538-2008",
+   "path": "ordin/interne/2008/538",
+   "short": "Ordin interne nr. 538/2008",
+   "title": "Ordinul nr. 538/2008 pentru aprobarea Normelor metodologice privind utilizarea unor spații aflate în administrarea Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96878",
+   "versions": [
+    {
+     "from": "2008-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96878",
+     "sha256": "e28ad02bfe5ad6e0b5eb9dd59439126b863e0c699c0430ce3505935fad9c7c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-540-2008",
+   "path": "ordin/interne/2008/540",
+   "short": "Ordin interne nr. 540/2008",
+   "title": "Ordinul nr. 540/2008 pentru aprobarea Regulamentului privind organizarea, funcționarea și atribuțiile Comitetului strategic pentru sprijinirea activității Direcției generale anticorupție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95885",
+   "versions": [
+    {
+     "from": "2008-07-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95885",
+     "sha256": "7d457ea5503dc090de68f4a9a570eeaab0de8bc63c2a5a001a398b29d984cf61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-547-2008",
+   "path": "ordin/interne/2008/547",
+   "short": "Ordin interne nr. 547/2008",
+   "title": "Ordinul nr. 547/2008 privind organizarea și exercitarea controlului financiar preventiv propriu pentru bugetul propriu al ordonatorului principal de credite, în cazul operațiunilor privind gestionarea și implementarea asistenței financiare nerambursabile alocate Programului operațional \"Dezvoltarea capacității administrative\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96723",
+   "versions": [
+    {
+     "from": "2008-08-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96723",
+     "sha256": "3145bd1ce30b61a896b6624635dbcf453d9ee3f9b9e2e90592de763172a927c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-561-2008",
+   "path": "ordin/interne/2008/561",
+   "short": "Ordin interne nr. 561/2008",
+   "title": "Ordinul nr. 561/2008 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97353",
+   "versions": [
+    {
+     "from": "2008-09-15",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97353",
+     "sha256": "9f2c53b35acc065ce2bfb590981e937b2df971d6cceed0b9930e693e0ce0450b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-562-2008",
+   "path": "ordin/interne/2008/562",
+   "short": "Ordin interne nr. 562/2008",
+   "title": "Ordinul nr. 562/2008 privind aprobarea componenței și a Regulamentului de funcționare a Comitetului pentru Situații de Urgență al Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96469",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96469",
+     "sha256": "c1e34b4f89df55a13bbd3101021a1113f1c83b3c7de258076c2b83805661f27e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-563-2008",
+   "path": "ordin/interne/2008/563",
+   "short": "Ordin interne nr. 563/2008",
+   "title": "Ordinul nr. 563/2008 pentru aprobarea Regulamentului privind implementarea Programului \"Electrificare 2007-2009\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96510",
+   "versions": [
+    {
+     "from": "2008-08-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96510",
+     "sha256": "1bd0779027e762fd1a6e9eee4ed236a94cecd08a1ca4a26e1b3d7ca4837d4a5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-565-2008",
+   "path": "ordin/interne/2008/565",
+   "short": "Ordin interne nr. 565/2008",
+   "title": "Ordinul nr. 565/2008 privind desemnarea domnilor Paul Victor Dobre și Marian Petrache ca reprezentanți ai Ministerului Internelor și Reformei Administrative în Comisia Centrală pentru Recensământul Agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96440",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96440",
+     "sha256": "91727597929eb4692ea3e9a6580a51f32e30cf1a371da7c414d99b1fff643f8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-572-2008",
+   "path": "ordin/interne/2008/572",
+   "short": "Ordin interne nr. 572/2008",
+   "title": "Ordinul nr. 572/2008 pentru modificarea anexei nr. 1 la Ordinul ministrului internelor și reformei administrative nr. 504/2008 privind aprobarea cifrei anuale de școlarizare, a comisiei de concurs și a comisiei de soluționare a contestațiilor, a tematicii, a cuantumului taxei de participare la program, a modalității privind plata acesteia și a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96388",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96388",
+     "sha256": "a7ad73a413b7961d6dcf304113a5846c4a63650ba01be4c264ef9c96bac4587c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-577-2008",
+   "path": "ordin/interne/2008/577",
+   "short": "Ordin interne nr. 577/2008",
+   "title": "Ordinul nr. 577/2008 privind programul de lucru al polițiștilor, formele de organizare a acestuia și acordarea repausului săptămânal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96790",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96790",
+     "sha256": "0a28d875751cd799aee4946d90cfd3926f3d00de23656836ec8e2556e5bcdedb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-581-2008",
+   "path": "ordin/interne/2008/581",
+   "short": "Ordin interne nr. 581/2008",
+   "title": "Ordinul nr. 581/2008 pentru aprobarea Componentei de programare bugetară a Planului strategic al Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97123",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97123",
+     "sha256": "026a3b83318f62d329a72b792bdb83c8429febd0487d776e33be812099f88cec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-592-2008",
+   "path": "ordin/interne/2008/592",
+   "short": "Ordin interne nr. 592/2008",
+   "title": "Ordinul nr. 592/2008 privind alocarea unor sume pentru lucrări de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform programului \"Termoficare 2006-2015 - căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96915",
+   "versions": [
+    {
+     "from": "2008-08-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96915",
+     "sha256": "b9cbc676c6b477544f4185ae92414d326fa4e7649be28b7df74a98c4c1995410"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-596-2008",
+   "path": "ordin/interne/2008/596",
+   "short": "Ordin interne nr. 596/2008",
+   "title": "Ordinul nr. 596/2008 pentru modificarea Ordinului ministrului internelor și reformei administrative nr. 371/2007 privind aprobarea tarifelor pentru serviciile furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97126",
+   "versions": [
+    {
+     "from": "2008-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97126",
+     "sha256": "addccd203e9600d79ffc34cfa1b4efc212765b193b1f40475ba855508ad0a9dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-597-2008",
+   "path": "ordin/interne/2008/597",
+   "short": "Ordin interne nr. 597/2008",
+   "title": "Ordinul nr. 597/2008 privind stabilirea conținutului-cadru, întocmirea și avizarea documentațiilor tehnico-economice aferente obiectivelor de investiții noi și/sau lucrărilor de intervenții la construcții existente, cuprinse în programele Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97910",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97910",
+     "sha256": "a31e53ab100e0d9eb550dc99855cc591b81281a74055530ebec3402de69b13e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-599-2008",
+   "path": "ordin/interne/2008/599",
+   "short": "Ordin interne nr. 599/2008",
+   "title": "Ordinul nr. 599/2008 pentru aprobarea Normativului privind asigurarea tehnică de autovehicule a structurilor Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99693",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99693",
+     "sha256": "e53f49bf9aeef047b1d04d74d0798b5030c6e4aa870f3d31245546f6edf3bbfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-601-2008",
+   "path": "ordin/interne/2008/601",
+   "short": "Ordin interne nr. 601/2008",
+   "title": "Ordinul nr. 601/2008 privind organizarea angajării, lichidării, ordonanțării și plății cheltuielilor din bugetul propriu al ordonatorului principal de credite în cazul operațiunilor privind gestionarea și implementarea asistenței financiare nerambursabile alocate Programului operațional \"Dezvoltarea capacității administrative\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97339",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97339",
+     "sha256": "edba5b7649d075bd76cb182ae65a3611012cedbe504ee3f09dc1f253f6b83880"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-602-2008",
+   "path": "ordin/interne/2008/602",
+   "short": "Ordin interne nr. 602/2008",
+   "title": "Ordinul nr. 602/2008 privind modificarea anexei nr. 2 la Ordinul ministrului administrației și internelor nr. 1.033/2005 pentru aprobarea Structurii organizatorice și a Regulamentului de organizare și funcționare ale Agenției Naționale de Cadastru și Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97202",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97202",
+     "sha256": "36ed42d4d234a1a4d8f0988c3bc37facdbd7ee13f4cb4aaa17a6c1a746431e9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-604-2008",
+   "path": "ordin/interne/2008/604",
+   "short": "Ordin interne nr. 604/2008",
+   "title": "Ordinul nr. 604/2008 privind sistemul decizional și de monitorizare a implementării proiectelor din cadrul Programului general \"Solidaritatea și gestionarea fluxurilor migratorii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97340",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97340",
+     "sha256": "8902e9437e7edcab99fa684f7afdf51497356547ed939e11dfd8f57f4d5ec6ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-605-2008",
+   "path": "ordin/interne/2008/605",
+   "short": "Ordin interne nr. 605/2008",
+   "title": "Ordinul nr. 605/2008 pentru aprobarea Dispozițiilor generale de apărare împotriva incendiilor pe timpul utilizării focului deschis la arderea de miriști, vegetație uscată și resturi vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97519",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97519",
+     "sha256": "f65e9b6511aab9fe83507d0e29b363682448818a109f832cd5f491ca139a55ae"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-606-2008",
    "path": "ordin/interne/2008/606",
    "short": "Ordin interne nr. 606/2008",
@@ -4683,6 +5703,96 @@
    ]
   },
   {
+   "slug": "ordin-interne-612-2008",
+   "path": "ordin/interne/2008/612",
+   "short": "Ordin interne nr. 612/2008",
+   "title": "Ordinul nr. 612/2008 privind conducerea, controlul și comunicarea pe durata implementării Sistemului de Management Informațional pentru Situații de Urgență - SMISU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97516",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97516",
+     "sha256": "daf75b75844b62f094a588246051bcf37929f0ab0691f37d84eee61d7b60f8d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-625-2008",
+   "path": "ordin/interne/2008/625",
+   "short": "Ordin interne nr. 625/2008",
+   "title": "Ordinul nr. 625/2008 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97593",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97593",
+     "sha256": "7d79835a36599e9b0302e3ef2838ffb91f145aadc0aa8ca34ec56b0eb62cb624"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-630-2008",
+   "path": "ordin/interne/2008/630",
+   "short": "Ordin interne nr. 630/2008",
+   "title": "Ordinul nr. 630/2008 privind asigurarea secretariatului Comitetului interministerial pentru urmărirea respectării normelor aplicabile privind acordarea ajutoarelor de stat de către autoritățile administrației publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98093",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98093",
+     "sha256": "344495e5ac1804a98d691256021edc5c08ba64e813ba47348682e35b7f9e44be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-631-2008",
+   "path": "ordin/interne/2008/631",
+   "short": "Ordin interne nr. 631/2008",
+   "title": "Ordinul nr. 631/2008 privind alocarea sumelor în vederea compensării creșterilor neprevizionate ale prețurilor combustibililor utilizați pentru producerea energiei termice furnizate populației în sistem centralizat conform Ordonanței Guvernului nr. 36/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97893",
+   "versions": [
+    {
+     "from": "2008-10-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97893",
+     "sha256": "911166775d15fe4eb391f2b71d53b573bda92f0d494efaf336c08e64af407739"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-632-2008",
+   "path": "ordin/interne/2008/632",
+   "short": "Ordin interne nr. 632/2008",
+   "title": "Ordinul nr. 632/2008 privind implementarea Strategiei naționale de comunicare și informare publică pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98584",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98584",
+     "sha256": "cc11311a7c9c0d060be89e67de032c3643003828b847b2f6feffa0a29262359d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-633-2008",
+   "path": "ordin/interne/2008/633",
+   "short": "Ordin interne nr. 633/2008",
+   "title": "Ordinul nr. 633/2008 privind normele de stabilire a parametrilor necesari desfășurării activităților în spațiile aflate în administrarea Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102291",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102291",
+     "sha256": "5acf05fd5faaff71e025b69446db80b73460d1d3927295df4aeff5685ad64985"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-634-2008",
    "path": "ordin/interne/2008/634",
    "short": "Ordin interne nr. 634/2008",
@@ -4694,6 +5804,231 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100730",
      "sha256": "1ad48e8bdde1851a2d86593b3416dcaa775bbcbe0d13f54aae6397dc1595afbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-636-2008",
+   "path": "ordin/interne/2008/636",
+   "short": "Ordin interne nr. 636/2008",
+   "title": "Ordinul nr. 636/2008 pentru aprobarea Normativului privind asigurarea tehnică de marină a structurilor deținătoare de nave din Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99711",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99711",
+     "sha256": "3c77f7d067fb56b057a1e2e2deced48648ab40e3a0dbdadb3a2a912af491c4b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-637-2008",
+   "path": "ordin/interne/2008/637",
+   "short": "Ordin interne nr. 637/2008",
+   "title": "Ordinul nr. 637/2008 pentru aprobarea Regulamentului-cadru de organizare și funcționare a inspectoratelor de jandarmi județene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100416",
+   "versions": [
+    {
+     "from": "2009-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100416",
+     "sha256": "0b36d64120e53f5c5f47c230655c2e434d1efafb2399f1e65c085d9439cd95b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-639-2008",
+   "path": "ordin/interne/2008/639",
+   "short": "Ordin interne nr. 639/2008",
+   "title": "Ordinul nr. 639/2008 privind aprobarea cuantumului indemnizațiilor membrilor comisiei de concurs și ai comisiei de soluționare a contestațiilor, precum și ale persoanelor care asigură secretariatul comisiilor la concursul național de admitere la programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98845",
+   "versions": [
+    {
+     "from": "2008-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98845",
+     "sha256": "3700acc87fc6c9bf8f2abb6a39d4d88c26736820cb184c97433df1401655a3ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-657-2008",
+   "path": "ordin/interne/2008/657",
+   "short": "Ordin interne nr. 657/2008",
+   "title": "Ordinul nr. 657/2008 pentru aprobarea Normelor metodologice privind planificarea și evidența activităților productive din unitățile Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99838",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99838",
+     "sha256": "b40a7829ff6a437b76c0e5cbc18fb7bde2c36b13ac80c3c8cc68bd29e0d4739b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-662-2008",
+   "path": "ordin/interne/2008/662",
+   "short": "Ordin interne nr. 662/2008",
+   "title": "Ordinul nr. 662/2008 privind aprobarea cifrei anuale de școlarizare pentru program, a numărului comisiilor de concurs și al comisiilor de soluționare a contestațiilor, a componenței nominale a acestora, a tematicii pentru concurs, a cuantumului taxei de participare la program, a modalității privind plata acesteia și a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99758",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99758",
+     "sha256": "761fb71bd4d83ff38e0e10fa284573d6ec9644ab044e67e27409027dcc5440f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-663-2008",
+   "path": "ordin/interne/2008/663",
+   "short": "Ordin interne nr. 663/2008",
+   "title": "Ordinul nr. 663/2008 pentru modificarea și completarea Metodologiei privind identificarea, evaluarea și controlul riscurilor de incendiu, aprobată prin Ordinul ministrului internelor și reformei administrative nr. 210/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99982",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99982",
+     "sha256": "04e8a0de4c7b3fdd46e8e4171f4050adc4dc6436a7ebac5a8557cd84f1842451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-665-2008",
+   "path": "ordin/interne/2008/665",
+   "short": "Ordin interne nr. 665/2008",
+   "title": "Ordinul nr. 665/2008 privind unele activități de management resurse umane în unitățile Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100194",
+   "versions": [
+    {
+     "from": "2009-01-10",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100194",
+     "sha256": "e72478c9899049f0c49c9c20b21db8f5a40d1c7d36ecbe5703fc1b1001635db2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-667-2008",
+   "path": "ordin/interne/2008/667",
+   "short": "Ordin interne nr. 667/2008",
+   "title": "Ordinul nr. 667/2008 pentru modificarea anexei la Ordinul ministrului internelor și reformei administrative nr. 371/2007 privind aprobarea tarifelor pentru serviciile furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100064",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100064",
+     "sha256": "990fd498a82ab5e879eca5c3245073a7db40c9ac5300b757247fc495d5c81692"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-668-2008",
+   "path": "ordin/interne/2008/668",
+   "short": "Ordin interne nr. 668/2008",
+   "title": "Ordinul nr. 668/2008 pentru alocarea sumelor în vederea compensării creșterilor neprevizionate ale prețurilor combustibililor utilizați pentru producerea energiei termice furnizate populației în sistem centralizat, conform Ordonanței Guvernului nr. 36/2006 privind instituirea prețurilor locale de referință pentru energia termică furnizată populației prin sisteme centralizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100139",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100139",
+     "sha256": "f722ba022767b999896b0e4e5784976d834ef55462660307367aabadc84c5a05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-672-2008",
+   "path": "ordin/interne/2008/672",
+   "short": "Ordin interne nr. 672/2008",
+   "title": "Ordinul nr. 672/2008 privind modificarea Regulamentului general pentru trageri al Ministerului Internelor și Reformei Administrative, aprobat prin Ordinul ministrului internelor și reformei administrative nr. 485/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100393",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100393",
+     "sha256": "b59fcf65e71537e30e54fbead96698056a531d966868fb2cbea9f14e189ed701"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-673-2008",
+   "path": "ordin/interne/2008/673",
+   "short": "Ordin interne nr. 673/2008",
+   "title": "Ordinul nr. 673/2008 privind pregătirea în domeniul situațiilor de urgență a reprezentanților instituțiilor prefectului și a personalului cu funcții de conducere din administrația publică locală, în perioada 2009-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100390",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100390",
+     "sha256": "101eeab07051dd2adf41fb8da91ca63f36970d28c83aae6a011b64fedab3a7b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-678-2008",
+   "path": "ordin/interne/2008/678",
+   "short": "Ordin interne nr. 678/2008",
+   "title": "Ordinul nr. 678/2008 pentru aprobarea Normelor metodologice privind vânzarea unor locuințe de serviciu aflate în administrarea Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100581",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100581",
+     "sha256": "4277997a466df7a16c26776fafc8b722cd508da944877c27abf0b70c5632e28f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-681-2008",
+   "path": "ordin/interne/2008/681",
+   "short": "Ordin interne nr. 681/2008",
+   "title": "Ordinul nr. 681/2008 privind competențele de achiziție a produselor și serviciilor în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100933",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100933",
+     "sha256": "51fde38a89b50a435f9ef8f5388f9e9edf625b2603bdf8639befaff8d119555d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-689-2008",
+   "path": "ordin/interne/2008/689",
+   "short": "Ordin interne nr. 689/2008",
+   "title": "Ordinul nr. 689/2008 pentru aprobarea Regulamentului de organizare și funcționare al Colegiului Național de Afaceri Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100797",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100797",
+     "sha256": "eb0b40c50879b3bf5115e21547ab7baf9f9f3f7af6ced3ce4b8c4adb3d3cb5d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-695-2008",
+   "path": "ordin/interne/2008/695",
+   "short": "Ordin interne nr. 695/2008",
+   "title": "Ordinul nr. 695/2008 privind aprobarea Regulamentului pentru compunerea și portul uniformei personalului medical, paramedical și civil din cadrul serviciilor mobile de urgență, reanimare și descarcerare, a normelor privind echiparea acestor categorii de personal, precum și a regulilor pentru aplicarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101459",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101459",
+     "sha256": "52f415a36a71ee487841edc410a7957066a189bcb47dff0191ea8a68d52f5232"
     }
    ]
   },
@@ -7844,6 +9179,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91551",
      "sha256": "5d7eaea103aa16743027650febaffce0d576f75177de853e1a0d5fa33eed00e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-377-2008",
+   "path": "ordin/transporturi/2008/377",
+   "short": "Ordin transporturi nr. 377/2008",
+   "title": "Ordinul nr. 377/2008 privind introducerea unor restricții temporare de circulație pe anumite sectoare de drumuri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90701",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90701",
+     "sha256": "013246ab7462e5bc988a37dcccdc18f8138aaedf3d933a70eb83cf183f342895"
     }
    ]
   },

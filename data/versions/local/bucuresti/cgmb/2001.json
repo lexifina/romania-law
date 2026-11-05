@@ -3,6 +3,66 @@
  "shard": "local/bucuresti/cgmb/2001",
  "acts": [
   {
+   "slug": "hcgmb-1-2001",
+   "path": "local/bucuresti/cgmb/2001/1",
+   "short": "HCGMB nr. 1/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5850",
+   "versions": [
+    {
+     "from": "2001-01-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5850/h01_01.pdf",
+     "sha256": "4bed4299dfc7fd93cba582b309acc4caed214027b11b380b8655249bbbca388b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2001",
+   "path": "local/bucuresti/cgmb/2001/10",
+   "short": "HCGMB nr. 10/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6003",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6003/h010_01.pdf",
+     "sha256": "73fbbd24ea28e87e453b230e16a4321c1271a4b5792288ba27f65fde3055ec0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2001",
+   "path": "local/bucuresti/cgmb/2001/100",
+   "short": "HCGMB nr. 100/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6533",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6533/h0100_01.pdf",
+     "sha256": "3a5746553b694713094dc54185ee32ed09a40798ac09ac5e6df075046602167c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2001",
+   "path": "local/bucuresti/cgmb/2001/101",
+   "short": "HCGMB nr. 101/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6798",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6798/H101_01.pdf",
+     "sha256": "f1d23cab6213a22fbf469a97861b0f0dd5d41c0e78128495e0270527c6914115"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-102-2001",
    "path": "local/bucuresti/cgmb/2001/102",
    "short": "HCGMB nr. 102/2001",
@@ -14,6 +74,36 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6534/h0102_01.pdf",
      "sha256": "9ac53f99e3bd1de4690b3ad8826024e37c6031283fcac7ad6435c11cc19717dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2001",
+   "path": "local/bucuresti/cgmb/2001/103",
+   "short": "HCGMB nr. 103/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2001 PRIVIND APROBAREA CAIETULUI DE SARCINI SI A PLANULUI DE URBANISM PENTRU DEMARAREA LICITATIEI DE INCHIRIERE A TOALETELOR ECOLOGICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6879",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6879/h0103_01.pdf",
+     "sha256": "b1f940a88e2ba066c99e5837b3ada7250dc3cd541b5b2f538bff248d0920bf5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2001",
+   "path": "local/bucuresti/cgmb/2001/104",
+   "short": "HCGMB nr. 104/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6535",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6535/h0104_01.pdf",
+     "sha256": "60f8fb0dd8174605ed079a4d73b7b66ad39956e818fc7fb80dcdfffa24fb9c6d"
     }
    ]
   },
@@ -48,6 +138,141 @@
    ]
   },
   {
+   "slug": "hcgmb-108-2001",
+   "path": "local/bucuresti/cgmb/2001/108",
+   "short": "HCGMB nr. 108/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2001 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA DE LOCUINTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6537",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6537/h0108_01.pdf",
+     "sha256": "86700949452a5a5c185ff3bd317e338c8cfa413785c42017dc49cd972d0af27c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-2001",
+   "path": "local/bucuresti/cgmb/2001/109",
+   "short": "HCGMB nr. 109/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE PE TEREN PROPRIETATE PRIVATA PERSOANA JURIDICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6538",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6538/h0109_01.pdf",
+     "sha256": "e3bea6b6cc6d903959c3c6df228ad003bd4f5609a8e942a8ec001175a12e7d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2001",
+   "path": "local/bucuresti/cgmb/2001/11",
+   "short": "HCGMB nr. 11/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2001 PRIVIND NUMIREA REPREZENTANTILOR PMB IN CONSILIUL DE ADMINISTRATIE AL REGIEI AUTONOME DE TRANSPORT BUCURESTI- R.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6002",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6002/h011_01.pdf",
+     "sha256": "97014afc4fe96362d5396ba10565243751ae5092b2947084b63c5408e11f365d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2001",
+   "path": "local/bucuresti/cgmb/2001/110",
+   "short": "HCGMB nr. 110/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2001 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA IMOBIL BIROURI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6540",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6540/h0110_01.pdf",
+     "sha256": "1796d4cc3c47ec8327b8e73c9d951a77f2982a1e0e98f12b46585e76701dc23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2001",
+   "path": "local/bucuresti/cgmb/2001/111",
+   "short": "HCGMB nr. 111/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA LOCUINTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6541",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6541/h0111_01.pdf",
+     "sha256": "3a2a951467edc06d17b13138e586b3875d085f779be36a3441535fbd23494613"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2001",
+   "path": "local/bucuresti/cgmb/2001/112",
+   "short": "HCGMB nr. 112/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA LOCUINTA, SERVICII, COMERT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6542",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6542/h0112_01.pdf",
+     "sha256": "ca46f5144c5b9647125b9d999c4c4ac3b84fe55988a90d2b852e5b8766c133e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2001",
+   "path": "local/bucuresti/cgmb/2001/113",
+   "short": "HCGMB nr. 113/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6543",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6543/h0113_01.pdf",
+     "sha256": "b59e84f6d2f76531ff4a2066ab424aefea26dd2161c3527dae514e33aee5e191"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2001",
+   "path": "local/bucuresti/cgmb/2001/114",
+   "short": "HCGMB nr. 114/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6544",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6544/h0114_01.pdf",
+     "sha256": "55c3b89e8228386b41db10648165f5c7513e80261ac9db1196121cbc88a134f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2001",
+   "path": "local/bucuresti/cgmb/2001/115",
+   "short": "HCGMB nr. 115/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE CU FUNCTIUNEA STATIE DISTRIBUTIE CARBURANTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6545",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6545/h0115_01.pdf",
+     "sha256": "c70af32baad7e842f17298660df01eb864425858d6499ed059eaa1eb82f30e61"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-116-2001",
    "path": "local/bucuresti/cgmb/2001/116",
    "short": "HCGMB nr. 116/2001",
@@ -59,6 +284,216 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6546/h0116_01.pdf",
      "sha256": "1938e636ef7f460ad33d24330c3a24e1246fe9c3643ecef3410178731b883a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2001",
+   "path": "local/bucuresti/cgmb/2001/117",
+   "short": "HCGMB nr. 117/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIA DIN STR. SOLDAT V. CROITORU, SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6547",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6547/h0117_01.pdf",
+     "sha256": "ad6aaa508cdc762049ea6be1f30feb47d7b87660c9eb5514ff1e732cedd7c319"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2001",
+   "path": "local/bucuresti/cgmb/2001/118",
+   "short": "HCGMB nr. 118/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6548",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6548/h0118_01.pdf",
+     "sha256": "d54eba3f785fd3d39c7ee86babb9bbfbce731304940cf1671af2672672899474"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2001",
+   "path": "local/bucuresti/cgmb/2001/119",
+   "short": "HCGMB nr. 119/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE PE TEREN PROPRIETATE PRIVATA PERSOANA JURIDICA, CU FUNCTIUNEA DEPOZIT, MAGAZIN SI BIROURI, PE UN TEREN IN SUPRAFATA DE 10923 MP, SITUAT IN GALEA PROGRESUL, SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6549",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6549/h119_01.pdf",
+     "sha256": "0561d673854b16e78f3052fcc597be1ed5706063c215c593eb3b5cd5bd0084eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2001",
+   "path": "local/bucuresti/cgmb/2001/12",
+   "short": "HCGMB nr. 12/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2001 PRIVIND NUMIREA REPREZENTANTILOR PMB IN CONSILIUL DE ADMINISTRATIE AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6001",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6001/h012_01.pdf",
+     "sha256": "67ba357aed9acd918866279e9f9cb4c5258ae1d5436974d91899d17ee7cd1e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2001",
+   "path": "local/bucuresti/cgmb/2001/120",
+   "short": "HCGMB nr. 120/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6550",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6550/h0120_01.pdf",
+     "sha256": "87720647354aa312aa2c7611eb65654bb68c125455ca2f79d7e34438f175ab89"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2001",
+   "path": "local/bucuresti/cgmb/2001/123",
+   "short": "HCGMB nr. 123/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU TERENUL DIN BD. GHENCEA, SECTOR 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6551",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6551/h0123_01.pdf",
+     "sha256": "af62a0c3830800335de81ef3d31d087d00f1d28e93dfd9ed4cc7f6ba39b5ddc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2001",
+   "path": "local/bucuresti/cgmb/2001/124",
+   "short": "HCGMB nr. 124/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6552",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6552/h0124_01.pdf",
+     "sha256": "3e5173772a9fa6cc939d06e413bd81f73d873d4333792e8ac4dc286083688394"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2001",
+   "path": "local/bucuresti/cgmb/2001/125",
+   "short": "HCGMB nr. 125/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2001 PRIVIND MODIFICAREA ORGANIGRAMEI SI STATULUI DE FUNCTII APARATULUI PROPRIU AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6553",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6553/h0125_01.pdf",
+     "sha256": "0c8e02d9abeb8a831ab6fa529e40996745a9d3eede1735b1419a19d2f0add76f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2001",
+   "path": "local/bucuresti/cgmb/2001/126",
+   "short": "HCGMB nr. 126/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6554",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6554/h0126_01.pdf",
+     "sha256": "8d28c23d8431cc849816d706ec26b833a457662a12485a61b04e875e27eac64d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2001",
+   "path": "local/bucuresti/cgmb/2001/127",
+   "short": "HCGMB nr. 127/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6555",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6555/h0127_01.pdf",
+     "sha256": "0c148b336b3462b35c296c0198ff173d15f28c9610cc28a2698aff6c1c7c828e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2001",
+   "path": "local/bucuresti/cgmb/2001/128",
+   "short": "HCGMB nr. 128/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6556",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6556/h0128_01.pdf",
+     "sha256": "979f9423a4739c6b15a41e659b812c68b593d8aeaee53bda4c571677c0c50818"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2001",
+   "path": "local/bucuresti/cgmb/2001/129",
+   "short": "HCGMB nr. 129/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6557",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6557/h0129_01.pdf",
+     "sha256": "d4e0c8cd2689d77011c9dcf2469ab776ba069ad18b3619dfb3240d540694e8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2001",
+   "path": "local/bucuresti/cgmb/2001/13",
+   "short": "HCGMB nr. 13/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2001 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6000",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6000/h013_01.pdf",
+     "sha256": "e35015169600a1bc166af7e140485d0dc9e0c6c0eb53614c9dc6b94f8bd6868e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2001",
+   "path": "local/bucuresti/cgmb/2001/130",
+   "short": "HCGMB nr. 130/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2001 PRIVIND SUPUNEREA DEZBATERII PUBLICE A VARIANTEI PRELIMINARE DE REPARTIZARE PE BUGETE COMPONENTE A VENITURILOR SI CHELTUIELILOR BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6813",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6813/h0130_01.pdf",
+     "sha256": "de198736b4a05f7cf83fd0e1b911a497bf3865c14e9f21bb5a317a8f84b3e010"
     }
    ]
   },
@@ -78,6 +513,201 @@
    ]
   },
   {
+   "slug": "hcgmb-132-2001",
+   "path": "local/bucuresti/cgmb/2001/132",
+   "short": "HCGMB nr. 132/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2001 PRIVIND APROBAREA CONFINANTARII ASISTENTEI TEHNICE PENTRU SPRIJINIREA MUNICIPALITATII IN VEDEREA PREGATIRII PROIECTULUI \"FINALIZAREA SI MODERNIZAREA STATIEI DE EPURARE APE UZATE A MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6559",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6559/h0132_01.pdf",
+     "sha256": "05c8e5c8d2883131fef3a5df94501302c9e032485e9bc3cf2096d0cd4e4e6721"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2001",
+   "path": "local/bucuresti/cgmb/2001/133",
+   "short": "HCGMB nr. 133/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2001 PRIVIND ATRIBUIREA NUMELUI DE \"PIATA MONTREAL\"- CAPITALA PROVINCIEI QUEBEC PIATETA REZULTATA LA INTERSECTIA DINTRE B-DUL MARASTI SI B-DUL EXPOZITIEI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6560",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6560/h0133_01.pdf",
+     "sha256": "f0dbb74b08dd98f5f9152921d3e90f66b933055e7ce943a2e244e22ddf4fa9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2001",
+   "path": "local/bucuresti/cgmb/2001/134",
+   "short": "HCGMB nr. 134/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6799",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6799/h0134_01.pdf",
+     "sha256": "165581780e8031f2fb661f50af17d85e40d365607455fc9ba9c14bc031c48ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-2001",
+   "path": "local/bucuresti/cgmb/2001/135",
+   "short": "HCGMB nr. 135/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6561",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6561/h0135_01.pdf",
+     "sha256": "eab4bdc5f337b831bacd6d0b098bc33636b7b14e0fe49be860bed0a4a6e36724"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2001",
+   "path": "local/bucuresti/cgmb/2001/136",
+   "short": "HCGMB nr. 136/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6800",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6800/h0136_01.pdf",
+     "sha256": "cf1dd7a2e9be1d1f143754af9d527f35e8da43cc7232357b94195d1fe8cf9fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2001",
+   "path": "local/bucuresti/cgmb/2001/137",
+   "short": "HCGMB nr. 137/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2001 PRIVIND IMPUTERNICIREA CONSILIILOR LOCALE ALE SECTOARELOR 1-6 SA EXERCITE ATRIBUTIILE DE ADMINISTRARE A BUNURILOR PROPRIETATE PUBLICA SI PRIVATA A MUNICIPIULUI BUCURESTI SE ANULEAZA HOTARAREA 137 DIN 21.06.2001 PRIN SENTINTA CIVILA NR. 363 IN SEDINTA PUBLICA DIN 25.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6960",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6960/h0137_01.pdf",
+     "sha256": "3ca0fd454507984053f012e1a481676ae055e370e37bfca7bf494977a177d41a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2001",
+   "path": "local/bucuresti/cgmb/2001/138",
+   "short": "HCGMB nr. 138/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2001 PRIVIND TRANSMITEREA UNUI SPATIU DIN ADMINISTRAREA CGMB IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6562",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6562/h0138_01.pdf",
+     "sha256": "1579648a07cd7fd95f9ece27d54ce321865cbe182634f4fd03eed21d6c66720c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2001",
+   "path": "local/bucuresti/cgmb/2001/139",
+   "short": "HCGMB nr. 139/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2001 PRIVIND TRANSMITEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 2 A UNUI TEREN DESTINAT REALIZARII DE UTILITATI PUBLICE SI LOCUINTE IN ZONA RAUSENI- SILISTEA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6563",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6563/h0139_01.pdf",
+     "sha256": "db5fb3f05d1526aed46f71bd68e47089cd87c581f457e5c31f1c2ecc8f14581c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2001",
+   "path": "local/bucuresti/cgmb/2001/14",
+   "short": "HCGMB nr. 14/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5999",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5999/h014_01.pdf",
+     "sha256": "9aede011798092be630914ce9bfa08c2129d86bf2b8ccc90bcd301166abd1865"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2001",
+   "path": "local/bucuresti/cgmb/2001/140",
+   "short": "HCGMB nr. 140/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2001 PRIVIND TRECEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 6 IN SCOPUL REALIZARII DE LOCUINTE PENTRU TINERET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6564",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6564/h0140_01.pdf",
+     "sha256": "2ecd707504434a6991a578f91a90d52ef9c7cdab37d52e877b35993694e1d2de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2001",
+   "path": "local/bucuresti/cgmb/2001/141",
+   "short": "HCGMB nr. 141/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2001 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A VENITURILOR SI CHELTUIELILOR BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6814",
+   "versions": [
+    {
+     "from": "2001-07-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6814/h0141_01.pdf",
+     "sha256": "f4a6c6601a146723727afe35347f782618bf67d1f822a9a7a0e01035a7a221b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2001",
+   "path": "local/bucuresti/cgmb/2001/142",
+   "short": "HCGMB nr. 142/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2001 PRIVIND APROBAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6801",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6801/h0142_01.pdf",
+     "sha256": "12cad75295c75013d537c5232e037b192afa3bcb19bda3b6229629df588d1c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2001",
+   "path": "local/bucuresti/cgmb/2001/143",
+   "short": "HCGMB nr. 143/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2001 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A UNOR SURSE ALE BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6802",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6802/h0143_01.pdf",
+     "sha256": "d8bbdca5bcbfdef2063c9f9b37207892052304be9fc63cf44a68695d7b925764"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-144-2001",
    "path": "local/bucuresti/cgmb/2001/144",
    "short": "HCGMB nr. 144/2001",
@@ -89,6 +719,186 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6880/h0144_01.pdf",
      "sha256": "3fe7b1cc2f90c36195021aec7661f7b6a4442967abf6f0907737a13c03f24ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2001",
+   "path": "local/bucuresti/cgmb/2001/145",
+   "short": "HCGMB nr. 145/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6803",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6803/h0145_01.pdf",
+     "sha256": "59b94cef9cbc2bfe0bf416e2debff63c4a9343710eb688c50e45518e9b951205"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2001",
+   "path": "local/bucuresti/cgmb/2001/146",
+   "short": "HCGMB nr. 146/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2001 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII ALE ADMINISTRATIEI CIMITIRELOR SI CREMATORIILOR UMANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6810",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6810/h0146_01.pdf",
+     "sha256": "e64e4f4f8b05eda1fff152dc5f66401bf0ea66f38801e1b966738a31d4ecf84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2001",
+   "path": "local/bucuresti/cgmb/2001/147",
+   "short": "HCGMB nr. 147/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6804",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6804/h0147_01.pdf",
+     "sha256": "9b51fd5b6bea0a61fb0fd515d1718c9d686c7d1294a5b7567e9a3debe8df2677"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2001",
+   "path": "local/bucuresti/cgmb/2001/148",
+   "short": "HCGMB nr. 148/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2001 PRIVIND TRECEREA CANTINEI CENTRALE DE AJUTOR SOCIAL IN SUBORDINEA CONSILIULUI LOCAL AL SECTORULUI 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6805",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6805/h0148_01.pdf",
+     "sha256": "316537cd8f8d0849086c09af34e8fbc98c5f14b8762e451a0c5b09b9f77cf968"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2001",
+   "path": "local/bucuresti/cgmb/2001/149",
+   "short": "HCGMB nr. 149/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6806",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6806/h0149_01.pdf",
+     "sha256": "faa6d6bbd89b0526f527c91fb2502e5a15b8d51f14d593d8ea903a11900f34a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-2001",
+   "path": "local/bucuresti/cgmb/2001/15",
+   "short": "HCGMB nr. 15/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5998",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5998/h015_01.pdf",
+     "sha256": "49cd533e857e9df0508320bab905b3a9820faaeeaebe56cbae41b9fd805970a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2001",
+   "path": "local/bucuresti/cgmb/2001/150",
+   "short": "HCGMB nr. 150/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2001 PRIVIND TRANSMITEREA UNOR IMOBILE DIN ADMINISTRAREA REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE IN ADMINISTRAREA SERVICIULUI PUBLIC PENTRU FINANTE PUBLICE LOCALE SECTOR 6 IN ADMINISTRAREA DOMENIULUI PUBLIC SECTOR 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6807",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6807/h0150_01.pdf",
+     "sha256": "28f6ed2f1e275ce888c3c9175a9977e51e68dfaacb69efa34493ee6168f3cb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2001",
+   "path": "local/bucuresti/cgmb/2001/151",
+   "short": "HCGMB nr. 151/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2001 PRIVIND TRECEREA UNITATILOR DE INVATAMANT PREUNIVERSITAR DE STAT IN ADMINISTRAREA CONSILIILOR LOCALE ALE SECTOARELOR 1-6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6808",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6808/h0151_01.pdf",
+     "sha256": "39605b466738c25fd517035d6c1f133edeff9746d596063bfbe9d3cd081d6f73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2001",
+   "path": "local/bucuresti/cgmb/2001/152",
+   "short": "HCGMB nr. 152/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2001 PRIVIND MODIFICAREA SI COMPLETAREA HCGMB NR. 101/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6809",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6809/h0152_01.pdf",
+     "sha256": "198c4862bf5f65b374f85b22cdbd086f973c3f2de8429966de9af8869b81413b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2001",
+   "path": "local/bucuresti/cgmb/2001/153",
+   "short": "HCGMB nr. 153/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2001 PRIVIND APROBAREA INFIINTARII AGENTIEI DE REGLEMENTARE A NIVELELOR DE SERVICII A MUNICIPIULUI BUCURESTI SECTIUNEA APA- CANAL DENUMITA ARBAC SE ABROGA PRIN HCGMB NR. 339/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6815",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6815/h0153_01.pdf",
+     "sha256": "0d2ea4ecb7d8996a82259bba685b1fcf8ecbd99ea18c772b8f3609c955b381c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2001",
+   "path": "local/bucuresti/cgmb/2001/154",
+   "short": "HCGMB nr. 154/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6816",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6816/h0154_01.pdf",
+     "sha256": "4576185b9b30d9ce1b7b12db88c64edeebdde3389e28d45418f960864ca190cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2001",
+   "path": "local/bucuresti/cgmb/2001/155",
+   "short": "HCGMB nr. 155/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2001 PRIVIND STABILIREA CONSUMULUI LUNAR DE CARBURANTI PENTRU ACTIVITATI SPECIFICE ADMINISTRATIEI CIMITIRELOR SI CREMATORIILOR UMANE DIN SUBORDINEA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6817",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6817/h0155_01.pdf",
+     "sha256": "e25f3c506158d868e212c3e29be8f8a982e286d67a7766d9c2df33c2bd13c3d0"
     }
    ]
   },
@@ -108,6 +918,666 @@
    ]
   },
   {
+   "slug": "hcgmb-157-2001",
+   "path": "local/bucuresti/cgmb/2001/157",
+   "short": "HCGMB nr. 157/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2001 PRIVIND REASEZAREA ZONELOR FISCALE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6881",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6881/h0157_01.pdf",
+     "sha256": "4a17869a44738b63d20fc400bc8d2d8f1eef6a0e6ee9656d83d8fcb86612f492"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2001",
+   "path": "local/bucuresti/cgmb/2001/158",
+   "short": "HCGMB nr. 158/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2001 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI PARCURILOR SI GRADINILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7057",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7057/h0158_01.pdf",
+     "sha256": "5db59e7c9fad7de0d12b0d245fc50985dbde6bcc2dd281b2b0146765cbeca455"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2001",
+   "path": "local/bucuresti/cgmb/2001/159",
+   "short": "HCGMB nr. 159/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2001 PRIVIND APROBAREA ACORDULUI DE COOPERARE DINTRE MUNICIPIUL BUCURESTI SI ORASUL MONTREAL- CANADA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6819",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6819/h0159_01.pdf",
+     "sha256": "3ae9a0ebc52f93dddb4f4772a65496e304c01450a010d5e5270b8ac6547bfd0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2001",
+   "path": "local/bucuresti/cgmb/2001/16",
+   "short": "HCGMB nr. 16/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5997",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5997/h016_01.pdf",
+     "sha256": "84721b3d11f594e37b735919a062a3da47d5666d86ef64fb4a53b2bb8cae8242"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2001",
+   "path": "local/bucuresti/cgmb/2001/160",
+   "short": "HCGMB nr. 160/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2001 PRIVIND TRANSMITEREA IN ADMINISTRAREA CONSILIILOR LOCALE ALE SECTOARELOR 1-4 A UNOR GRADINI PUBLICE, PARCURI SI ZONE VERZI DE PE TERITORIUL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7056",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7056/h0160_01.pdf",
+     "sha256": "a628d50c05036737cd73abf4996f4fd68355aa5c9ac82d9613c75f9b996ceb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2001",
+   "path": "local/bucuresti/cgmb/2001/161",
+   "short": "HCGMB nr. 161/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2001 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 272/11.11.1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6820",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6820/h0161_01.pdf",
+     "sha256": "00b1e4246f2dc5ced8cabd0b2a4a62d51fe0bc1ad24a8d2eeb83ac05100a1ae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2001",
+   "path": "local/bucuresti/cgmb/2001/162",
+   "short": "HCGMB nr. 162/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2001 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 106/29.05.2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6821",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6821/h0162_01.pdf",
+     "sha256": "f9ee431402b0bd3091e50a540e4628e7a0655979bc4a14a871015adab9e816a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2001",
+   "path": "local/bucuresti/cgmb/2001/163",
+   "short": "HCGMB nr. 163/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6822",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6822/h0163_01.pdf",
+     "sha256": "e8f9d567531b141381ee868eff07f75dfa5f5e350df92501e5f5eb286f82164e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2001",
+   "path": "local/bucuresti/cgmb/2001/164",
+   "short": "HCGMB nr. 164/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6823",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6823/h0164_01.pdf",
+     "sha256": "8994acc2b0d8ebfe7f807dd5e218285f397854592b7a34f842f01ec4d21aaaea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2001",
+   "path": "local/bucuresti/cgmb/2001/165",
+   "short": "HCGMB nr. 165/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6824",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6824/h0165_01.pdf",
+     "sha256": "edc0a9664740b02556832a681a8e32be5f5a454c9db293b0f8e55286d7a05b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2001",
+   "path": "local/bucuresti/cgmb/2001/166",
+   "short": "HCGMB nr. 166/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA LOCUINTE, COMERT, PE UN TEREN IN SUPRAFATA DE 180 MP., SITUAT IN STR. NOVACI, NR. 11A- 11B, SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6710",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6710/h0166_01.pdf",
+     "sha256": "b3ec8bbdf559ce751200118881c5a12cde5ce412be4b8a7f32bca331cab48030"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2001",
+   "path": "local/bucuresti/cgmb/2001/167",
+   "short": "HCGMB nr. 167/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6711",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6711/h0167_01.pdf",
+     "sha256": "2bca7d65567e63180abc9a243a5c531e3c3ad505045010b98f2edd1fccee6e86"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2001",
+   "path": "local/bucuresti/cgmb/2001/168",
+   "short": "HCGMB nr. 168/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6712",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6712/h0168_01.pdf",
+     "sha256": "7fb19215eed191fd7d708fc37d67a048c5aeef7d98bd5af2098ad8025156a09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2001",
+   "path": "local/bucuresti/cgmb/2001/169",
+   "short": "HCGMB nr. 169/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6713",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6713/h0169_01.pdf",
+     "sha256": "1e42d205b86bdf40efa006c3f3a38163b7ed0cd38f86481ac84b3905aaabd57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2001",
+   "path": "local/bucuresti/cgmb/2001/17",
+   "short": "HCGMB nr. 17/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5996",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5996/h017_01.pdf",
+     "sha256": "eae822f9272583de9431d80a06df1eee59a7aa2e684978e46f3ac0c472c07c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2001",
+   "path": "local/bucuresti/cgmb/2001/170",
+   "short": "HCGMB nr. 170/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6714",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6714/h0170_01.pdf",
+     "sha256": "f312e8b7ffec1a1697e1c73bda1063323f263f68f2a5c6f1d39384176ff06de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2001",
+   "path": "local/bucuresti/cgmb/2001/171",
+   "short": "HCGMB nr. 171/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6715",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6715/h0171_01.pdf",
+     "sha256": "434c32afea9acdde80d2bb47043634f4c1e231f0afce850a140ec675acc850e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2001",
+   "path": "local/bucuresti/cgmb/2001/172",
+   "short": "HCGMB nr. 172/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA EXTINDERE LOCUINTA, PE UN TEREN IN SUPRAFATA DE 470.27 MP., SITUAT IN STR. REMETEA x STR. SICA ALEXANDRESCU, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6716",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6716/h0172_01.pdf",
+     "sha256": "3403b0007fc87a509bc25659937ffc3268138434cfc6474cf3dea60205cb9d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2001",
+   "path": "local/bucuresti/cgmb/2001/173",
+   "short": "HCGMB nr. 173/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6717",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6717/h0173_01.pdf",
+     "sha256": "89bfd9721b773be56e4bcf2c958c7b2b6bf65eace81966340683bddf4c28b40b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2001",
+   "path": "local/bucuresti/cgmb/2001/174",
+   "short": "HCGMB nr. 174/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6718",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6718/h0174_01.pdf",
+     "sha256": "cf080d216eee18b2b7e94f9800d03f2425d9c6ec4537e47124782dabd7d0f7b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2001",
+   "path": "local/bucuresti/cgmb/2001/175",
+   "short": "HCGMB nr. 175/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA PRODUCTIE, DEPOZITARE, PE UN TEREN IN SUPRAFATA DE 27874 MP, SITUAT IN BD. THEODOR PALLADY- STR. FETESTI, SECTOR 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6719",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6719/h0175_01.pdf",
+     "sha256": "d1be2618eee548ebe68754f9138193cb09edececa62833dee55195345e0dd6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2001",
+   "path": "local/bucuresti/cgmb/2001/176",
+   "short": "HCGMB nr. 176/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6720",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6720/h0176_01.pdf",
+     "sha256": "df4f2ef3f4ca406e993b2e1cb620010986f8947bb7105a38205735d450a6242a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2001",
+   "path": "local/bucuresti/cgmb/2001/177",
+   "short": "HCGMB nr. 177/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6721",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6721/h0177_01.pdf",
+     "sha256": "db4296b2c0a4a1e49c857475d410626b3b8314ae2f79915e1554520382646d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2001",
+   "path": "local/bucuresti/cgmb/2001/178",
+   "short": "HCGMB nr. 178/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6722",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6722/h0178_01.pdf",
+     "sha256": "317167b64812e4cc8448c7c697921ac6142eae6bc5bd10e184b7f0e09bb2e49f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2001",
+   "path": "local/bucuresti/cgmb/2001/179",
+   "short": "HCGMB nr. 179/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6723",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6723/h0179_01.pdf",
+     "sha256": "85068802d4edcb8d4dd8004ccd66309a614242817f358dedc4513f35d6771f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2001",
+   "path": "local/bucuresti/cgmb/2001/18",
+   "short": "HCGMB nr. 18/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5994",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5994/h018_01.pdf",
+     "sha256": "8b57520286b866ceca8792b0c7aa39b3edd485edd5d1fa6ee0660577d7e4da72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2001",
+   "path": "local/bucuresti/cgmb/2001/180",
+   "short": "HCGMB nr. 180/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6724",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6724/h0180_01.pdf",
+     "sha256": "8b335a56de26c8314016d1f45cdbf9441ae0d6b178e8b1b2a4549c0ce43051a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2001",
+   "path": "local/bucuresti/cgmb/2001/181",
+   "short": "HCGMB nr. 181/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6725",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6725/h0181_01.pdf",
+     "sha256": "7e346852cb0f1f0f9c51e23019664e33fae8b0631b4c43354aa4c7754bf144ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2001",
+   "path": "local/bucuresti/cgmb/2001/182",
+   "short": "HCGMB nr. 182/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6726",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6726/h0182_01.pdf",
+     "sha256": "54d736af5c63e4b8e6aef2845902d18e93c7518b5d11b8a3100e13b0c4e5c720"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2001",
+   "path": "local/bucuresti/cgmb/2001/183",
+   "short": "HCGMB nr. 183/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6727",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6727/h0183_01.pdf",
+     "sha256": "9afd4e6ba08d140ccb965ea8ce117a843a260a39cd51308a62893d0ee3d5adbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2001",
+   "path": "local/bucuresti/cgmb/2001/184",
+   "short": "HCGMB nr. 184/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6728",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6728/h0184_01.pdf",
+     "sha256": "d8c6d99ba53c8a27a9e72bfb0377e4bb21791e29f084c9839c775d29899b26c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2001",
+   "path": "local/bucuresti/cgmb/2001/185",
+   "short": "HCGMB nr. 185/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6729",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6729/h0185_01.pdf",
+     "sha256": "0577b5ec25c4e321f06f02b2e7b5415c467d95167d497b9c59fb1002b1398b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2001",
+   "path": "local/bucuresti/cgmb/2001/186",
+   "short": "HCGMB nr. 186/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6730",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6730/h0186_01.pdf",
+     "sha256": "01cba3003f57ffd0d8e2213dcb87ee115eeeb6a96a73126acf6ca52acad02157"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2001",
+   "path": "local/bucuresti/cgmb/2001/187",
+   "short": "HCGMB nr. 187/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6731",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6731/h0187_01.pdf",
+     "sha256": "516a3e201dfca7eaeb283a3eb86b36e905aeeb7c0ade51dd34ab2c406dea5edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2001",
+   "path": "local/bucuresti/cgmb/2001/188",
+   "short": "HCGMB nr. 188/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6732",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6732/h0188_01.pdf",
+     "sha256": "d6aa6d623cc4f4d48129380736a7e3479fc0d8699d3833bc83ba761510ee316a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2001",
+   "path": "local/bucuresti/cgmb/2001/189",
+   "short": "HCGMB nr. 189/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6733",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6733/h0189_01.pdf",
+     "sha256": "9995c549e9879c369f5a721c3663e5f5bbaa24221df042441e8d7bbf37277e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2001",
+   "path": "local/bucuresti/cgmb/2001/19",
+   "short": "HCGMB nr. 19/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5995",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5995/h019_01.pdf",
+     "sha256": "cfc5bbaf49992e4efb761fb3ee9cf68823e5751690a93392c716fda935dd5753"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2001",
+   "path": "local/bucuresti/cgmb/2001/190",
+   "short": "HCGMB nr. 190/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA HOTEL,COMERT, BIROURI, PE UN TEREN IN SUPRAFATA DE 1507.91 MP, SITUAT IN CALEA MOSILOR- STR. PALEOLOGU, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6734",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6734/h0190_01.pdf",
+     "sha256": "df4180ec750d33a73b1d784cf5a7139e9bbae3a87983af785073732f1054bca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2001",
+   "path": "local/bucuresti/cgmb/2001/191",
+   "short": "HCGMB nr. 191/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA BIROURI, PE UN TEREN IN SUPRAFATA DE 1136 MP, SITUAT IN DR. SERGIU, NR. 18-12A-20, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6735",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6735/h0191_01.pdf",
+     "sha256": "81db9d44541690b2aae567d8b0b50fd63c2076a4beea2fd879b88b2bda2bb0be"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2001",
+   "path": "local/bucuresti/cgmb/2001/192",
+   "short": "HCGMB nr. 192/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6736",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6736/h0192_01.pdf",
+     "sha256": "a8cdae21a316734ef9dc4aa094ffc2dbb1d5a89d29004f9ce080c7b0353d44ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2001",
+   "path": "local/bucuresti/cgmb/2001/193",
+   "short": "HCGMB nr. 193/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6737",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6737/h0193_01.pdf",
+     "sha256": "011b274940b97c1ea6070c605bb68f0db4a7433ab505365108a9ef46b0a94fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2001",
+   "path": "local/bucuresti/cgmb/2001/194",
+   "short": "HCGMB nr. 194/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6738",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6738/h0194_01.pdf",
+     "sha256": "6543a1e45fc3eefdea2054d2ab6e68415c91adf989431166b06e2a0a88ef7c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2001",
+   "path": "local/bucuresti/cgmb/2001/195",
+   "short": "HCGMB nr. 195/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6739",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6739/h0195_01.pdf",
+     "sha256": "f2d4b8ba860f2845995bfbc9cd809f3502dadf1c11dbbb7c9c87a5f9c2d5d1d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2001",
+   "path": "local/bucuresti/cgmb/2001/196",
+   "short": "HCGMB nr. 196/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6740",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6740/h0196_01.pdf",
+     "sha256": "79d74415ca93ae91511c9ff7ec33951fe5bb2870c5d9e0af07b114da1c1acb24"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-197-2001",
    "path": "local/bucuresti/cgmb/2001/197",
    "short": "HCGMB nr. 197/2001",
@@ -119,6 +1589,171 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6741/h0197_01.pdf",
      "sha256": "9eb27e8842554ec34636f79674310099d03b75b67dea906b9dba676441f58231"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2001",
+   "path": "local/bucuresti/cgmb/2001/198",
+   "short": "HCGMB nr. 198/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6742",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6742/h0198_01.pdf",
+     "sha256": "1dd3348bb7c55acd7b9b09d741f8b07e44f608e0b9b2550a964abe88e698628c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2001",
+   "path": "local/bucuresti/cgmb/2001/199",
+   "short": "HCGMB nr. 199/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6743",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6743/h0199_01.pdf",
+     "sha256": "14ef3cd76fe4386e7c5edb1db3d334f616317b8e586e2223347e18a043e88417"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2001",
+   "path": "local/bucuresti/cgmb/2001/2",
+   "short": "HCGMB nr. 2/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2001 PRIVIND VACANTAREA A PATRU LOCURI DE CONSILIERI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6009",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6009/h02_01.pdf",
+     "sha256": "b77e1888967466d5bc33fb86ec56fecfbbeed903ca5522c6254986fe12fdec12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2001",
+   "path": "local/bucuresti/cgmb/2001/200",
+   "short": "HCGMB nr. 200/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6744",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6744/h0200_01.pdf",
+     "sha256": "d397644e95729653f5adaca110b804c6ccf9b72124cead6a3fa49232eb17397a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2001",
+   "path": "local/bucuresti/cgmb/2001/201",
+   "short": "HCGMB nr. 201/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6745",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6745/h0201_01.pdf",
+     "sha256": "81499d8638ad35fc8148574fd8bbf4f1a3e7863f2044a2f9c50faa06b75ff35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2001",
+   "path": "local/bucuresti/cgmb/2001/202",
+   "short": "HCGMB nr. 202/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6746",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6746/h0202_01.pdf",
+     "sha256": "738ef6df66360633efd7e7673427c2637a7f2a6c6391c8484ebaaa08b2713033"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2001",
+   "path": "local/bucuresti/cgmb/2001/203",
+   "short": "HCGMB nr. 203/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6747",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6747/h0203_01.pdf",
+     "sha256": "79c76594da90f327f79273bfe64bd90dd57bd3bc85a85437d7af64430a82a060"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2001",
+   "path": "local/bucuresti/cgmb/2001/204",
+   "short": "HCGMB nr. 204/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA ANSAMBLU REZIDENTIAL, PE UN TEREN IN SUPRAFATA DE 10.7 HA SITUAT IN STRAULESTI 1, FABRICA DE CARAMIDA LOT A, B, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6748",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6748/h0204_01.pdf",
+     "sha256": "2b99e1e4108fa49973dbd6826fedca522e941bd542b9bbc4f803c896b8dc9bab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2001",
+   "path": "local/bucuresti/cgmb/2001/205",
+   "short": "HCGMB nr. 205/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6749",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6749/h0205_01.pdf",
+     "sha256": "c8369395ff166486b30c37e0a2d82dacb649b194b30607e6be48b8ee6917290e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2001",
+   "path": "local/bucuresti/cgmb/2001/206",
+   "short": "HCGMB nr. 206/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6750",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6750/h0206_01.pdf",
+     "sha256": "c91677d6b5cca561d4f39757e74f3ac2b71bb1a52cbbdf8bde181b22ba5e780f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2001",
+   "path": "local/bucuresti/cgmb/2001/207",
+   "short": "HCGMB nr. 207/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA CAP DE LINIE COMPLEX SI SUBSTATIE IN CADRUL TERMINALULUI MULTIMODAL PIATA PRESEI LIBERE, PE UN TEREN IN SUPRAFATA DE 132,6 MP, SITUAT IN PIATA PRESEI LIBERE, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6751",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6751/h0207_01.pdf",
+     "sha256": "b0f08e3effcca0350ff7a5f579651890210ccc6291a44d9248b29217a6ac498e"
     }
    ]
   },
@@ -153,6 +1788,21 @@
    ]
   },
   {
+   "slug": "hcgmb-21-2001",
+   "path": "local/bucuresti/cgmb/2001/21",
+   "short": "HCGMB nr. 21/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2001 PRIVIND SCHIMBAREA DENUMIRII UNEI ARTERE DE CIRCULATIE DIN MUNICIPIUL BUCURESTI, SECTORUL 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6011",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6011/h021_01.pdf",
+     "sha256": "ed47cff802cd89c494f43373093cb663e5e2bbd9f35a985dca3e7b1847f97d7f"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-210-2001",
    "path": "local/bucuresti/cgmb/2001/210",
    "short": "HCGMB nr. 210/2001",
@@ -168,6 +1818,156 @@
    ]
   },
   {
+   "slug": "hcgmb-211-2001",
+   "path": "local/bucuresti/cgmb/2001/211",
+   "short": "HCGMB nr. 211/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6754",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6754/h0211_01.pdf",
+     "sha256": "0507778acf69a401a0acd0387bc8d81d2b17102e246f9185daa4bb055642c2da"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2001",
+   "path": "local/bucuresti/cgmb/2001/212",
+   "short": "HCGMB nr. 212/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA COMERT, MULTIPLEX, ALIMENTATIE PUBLICA, PE UN TEREN SITUAT IN SOS. ORHIDEELOR, SECTOR 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6826",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6826/h0212_01.pdf",
+     "sha256": "a2a58d8a6b4303d88018e4551dd4963d278c20ee13dcf7af4caac10e35da33ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2001",
+   "path": "local/bucuresti/cgmb/2001/213",
+   "short": "HCGMB nr. 213/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6755",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6755/h0213_01.pdf",
+     "sha256": "e738737c01b3e21f9c3357d10b001ad7da8b39a95027b04dc9448309554209f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2001",
+   "path": "local/bucuresti/cgmb/2001/214",
+   "short": "HCGMB nr. 214/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2001 PRIVIND IMPARTIREA TERITORIULUI MUNICIPIULUI BUCURESTI IN SECTOARE DE RECENSAMANT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6827",
+   "versions": [
+    {
+     "from": "2001-09-07",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6827/h0214_01.pdf",
+     "sha256": "a22b6c9222040ddcb504a5d5405837f286b84ffc9912a7ce5c621ad78272d79a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2001",
+   "path": "local/bucuresti/cgmb/2001/215",
+   "short": "HCGMB nr. 215/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2001 PRIVIND VACANTAREA UNUI LOC DE CONSILIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6828",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6828/h0215_01.pdf",
+     "sha256": "b3cf5c8ae8aeff24739f4918f479f8db57bf8b0ca7519c5c807f4284a9ada599"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-2001",
+   "path": "local/bucuresti/cgmb/2001/216",
+   "short": "HCGMB nr. 216/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2001 PRIVIND VACANTAREA UNUI LOC DE CONSILIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6829",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6829/h0216_01.pdf",
+     "sha256": "bc8aaae4b776ead28f15a43db2e37a3a14b8521f157d0e5e8cf7ca26fc1c7331"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2001",
+   "path": "local/bucuresti/cgmb/2001/217",
+   "short": "HCGMB nr. 217/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6830",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6830/h0217_01.pdf",
+     "sha256": "f1be88b42d8da683ecbcceb7b72ca88676cc0da7a96746999f8c3ec91dc1d67d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2001",
+   "path": "local/bucuresti/cgmb/2001/218",
+   "short": "HCGMB nr. 218/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6831",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6831/h0218_01.pdf",
+     "sha256": "ecc6876de159f263f346ff440daf21aa50ad2a12294ffe532ec34c0545e87dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2001",
+   "path": "local/bucuresti/cgmb/2001/219",
+   "short": "HCGMB nr. 219/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6832",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6832/h0219_01.pdf",
+     "sha256": "dfcc655d7672a4f40885f39a59ce919cf39495f65bd5fb2258b35c64049a74a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-2001",
+   "path": "local/bucuresti/cgmb/2001/22",
+   "short": "HCGMB nr. 22/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6797",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6797",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-220-2001",
    "path": "local/bucuresti/cgmb/2001/220",
    "short": "HCGMB nr. 220/2001",
@@ -179,6 +1979,21 @@
      "units": 13,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6833/h0220_01.pdf",
      "sha256": "fdeab95e9ded3f1983306362a793917972a52a56b54eafbdd63fdfc06af68334"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2001",
+   "path": "local/bucuresti/cgmb/2001/221",
+   "short": "HCGMB nr. 221/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6834",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6834/H221_01.pdf",
+     "sha256": "ea1559c8fee4ce0b04361428079bb7b685644f4195d61c084cc5d029c2d3ab42"
     }
    ]
   },
@@ -213,6 +2028,186 @@
    ]
   },
   {
+   "slug": "hcgmb-227-2001",
+   "path": "local/bucuresti/cgmb/2001/227",
+   "short": "HCGMB nr. 227/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6837",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6837/h0227_01.pdf",
+     "sha256": "6e8fc7da1afd78855c58b90c3cddeab4b8a5de94745fb4f97d305fa3eccd9ba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2001",
+   "path": "local/bucuresti/cgmb/2001/228",
+   "short": "HCGMB nr. 228/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6838",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6838/h0228_01.pdf",
+     "sha256": "1c458e393c9d96196246031d1486fca2ea1d5a7343994faa1b8c31bde651c418"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2001",
+   "path": "local/bucuresti/cgmb/2001/229",
+   "short": "HCGMB nr. 229/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6839",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6839/h0229_01.pdf",
+     "sha256": "c7be553762f0c608f59841756e4cc635aa924390be7af8127a2cc9a08c83d2d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2001",
+   "path": "local/bucuresti/cgmb/2001/23",
+   "short": "HCGMB nr. 23/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2001 PRIVIND APROBAREA PROPUNERII DE PROIECT DE HOTARARE DE GUVERN, PENTRU TRANSMITEREA DIN ADMINISTRAREA MINISTERULUI CULTURII, IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI A TERENULUI SITUAT IN B-DUL UNIRII, INTRE BIBLIOTECA NATIONALA SI STR. NERVA TRAIAN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6010",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6010/h023_01.pdf",
+     "sha256": "0606e2a3a6d10b9a438fa9954ad116c0f91e04b7c64d38ed468689aa1bce99b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2001",
+   "path": "local/bucuresti/cgmb/2001/230",
+   "short": "HCGMB nr. 230/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6840",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6840/h0230_01.pdf",
+     "sha256": "cafe2cc80c94fb854be104f9f1ae6936581b43d8a7d823bc27919dc2d25efe8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2001",
+   "path": "local/bucuresti/cgmb/2001/231",
+   "short": "HCGMB nr. 231/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6841",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6841/h0231_01.pdf",
+     "sha256": "69f8c3db7cbd00024bea778b769e9ab50f8306bdc9c4706e01da9fc294e068b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2001",
+   "path": "local/bucuresti/cgmb/2001/233",
+   "short": "HCGMB nr. 233/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7272",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7272/h0233_01.pdf",
+     "sha256": "b29e193c78a68f16b4cfd0ea6b60f39bfa5268992d46a6ed7a55ee2b9d28711f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2001",
+   "path": "local/bucuresti/cgmb/2001/234",
+   "short": "HCGMB nr. 234/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7273",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7273/h0234_01.pdf",
+     "sha256": "7f6dc8d01da47972ee7c2f1849248760f85e33229a6b2435df7c4c2550099c1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2001",
+   "path": "local/bucuresti/cgmb/2001/235",
+   "short": "HCGMB nr. 235/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2001 PRIVIND TRANSMITEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 2 A UNUI TEREN DESTINAT REALIZARII DE UTILITATI PUBLICE SI LOCUINTE IN ZONA BANEASA- ANCUTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6882",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6882/h0235_01.pdf",
+     "sha256": "a48215049e190271d999922686c5631e625816dc7ffe8eb44f262547b2ea37ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2001",
+   "path": "local/bucuresti/cgmb/2001/236",
+   "short": "HCGMB nr. 236/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7274",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7274/h0236_01.pdf",
+     "sha256": "a2cdaf48de0a7a3d22841c4d19d107ee38bf834a7f3b820e44e0bfc9202e1580"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2001",
+   "path": "local/bucuresti/cgmb/2001/237",
+   "short": "HCGMB nr. 237/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7275",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7275/h0237_01.pdf",
+     "sha256": "eb172cd31e216bfac369869c13e84276fe4fedda11c15d8a4465432eb5c57bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-2001",
+   "path": "local/bucuresti/cgmb/2001/238",
+   "short": "HCGMB nr. 238/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/2001 PRIVIND TRECEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 3 IN SCOPUL REALIZARII DE LOCUINTE PENTRU TINERET A UNUI TEREN IN SUPRAFATA DE 20.000 MP., PE O PERIOADA DE 49 DE ANI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7054",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7054/h0238_01.pdf",
+     "sha256": "7c0126deebfb3596eaa11763bf28ae74c2cf2c6342411ccb4d2a34b601d47481"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-239-2001",
    "path": "local/bucuresti/cgmb/2001/239",
    "short": "HCGMB nr. 239/2001",
@@ -224,6 +2219,51 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6883/h0239_01.pdf",
      "sha256": "fcbe670eb8abadd23b5382232e4e6674e4a9eaff2676a46eb14e73fa1bfbeee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2001",
+   "path": "local/bucuresti/cgmb/2001/24",
+   "short": "HCGMB nr. 24/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2001 PRIVIND VACANTAREA UNUI LOC DE CONSILIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6014",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6014/h024_01.pdf",
+     "sha256": "1b32e97bfc50e6fa50673afc6508cd9b3861f0f1222b55de7c9f223cbe66c0e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-2001",
+   "path": "local/bucuresti/cgmb/2001/240",
+   "short": "HCGMB nr. 240/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/2001 PRIVIND NUMIREA REPREZENTANTILOR CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE ADMINISTRATIE AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6884",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6884/h0240_01.pdf",
+     "sha256": "51a6798548ef43f754b756bb450affa3aaa4cf4ace11af83149aa4cd29f77042"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-2001",
+   "path": "local/bucuresti/cgmb/2001/241",
+   "short": "HCGMB nr. 241/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/2001 PRIVIND NUMIREA REPREZENTANTILOR CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE ADMINISTRATIE AL REGIEI AUTONOME DE TRANSPORT BUCURESTI- R.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6885",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6885/h0241_01.pdf",
+     "sha256": "0e18b4a3b48a509f1a4c9b94844af3fcec075a0fe4b67c6b14c5ee09268663d1"
     }
    ]
   },
@@ -243,6 +2283,21 @@
    ]
   },
   {
+   "slug": "hcgmb-243-2001",
+   "path": "local/bucuresti/cgmb/2001/243",
+   "short": "HCGMB nr. 243/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/2001 PRIVIND CONSTITUIREA UNEI COMISII DE COORDONARE SI CONTROL A ACTIVITATII ADMINISTRATIEI DE AGREMENT SI LACURI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6842",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6842/h0243_01.pdf",
+     "sha256": "019d2f24d2f457c303f007f0b6c12d59b342d545586ffb0c37047f0fc4879fce"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-244-2001",
    "path": "local/bucuresti/cgmb/2001/244",
    "short": "HCGMB nr. 244/2001",
@@ -254,6 +2309,111 @@
      "units": 2,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6843/h0244_01.pdf",
      "sha256": "582c212ab58a925288c1c99704cbc95737e8a0bc375736c9d8d9cb96175d1eac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2001",
+   "path": "local/bucuresti/cgmb/2001/245",
+   "short": "HCGMB nr. 245/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2001 PRIVIND STABILIREA CATEGORIILOR DE CONSTRUCTII SI AMENAJARI URBANISTICE DIN CADRUL SECTOARELOR MUNICIPIULUI BUCURESTI PENTRU CARE AUTORIZATIILE DE CONSTRUIRE SE EMIT DE PRIMARII SECTOARELOR 1-6 HOTARAREA 245 DIN 02/10/2001 SE SUSPENDA PANA LA SOLUTIONAREA ACTIUNII CE FORMEAZA OBIECTUL DOSARULUI NR.896/CA/2001 AL ACESTEI SECTII. CU RECURS",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6844",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6844/h0245_01.pdf",
+     "sha256": "8f74aae514fecee66997343ab5cf9063a3245817286de2f6d3ac611f3e65def2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2001",
+   "path": "local/bucuresti/cgmb/2001/246",
+   "short": "HCGMB nr. 246/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7055",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7055/h0246_01.pdf",
+     "sha256": "d60212a6722cd3bc3b985d629102fba521ab75fb18ac450ea60ce609d8a81890"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-2001",
+   "path": "local/bucuresti/cgmb/2001/247",
+   "short": "HCGMB nr. 247/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/2001 PRIVIND MODIFICAREA REPARTIZARII PE BUGETE COMPONENTE A UNOR SURSE ALE BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001, PENTRU FINANTAREA CHELTUIELILOR UNITATILOR DE INVATAMANT PREUNIVERSITAR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7052",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7052/h0247_01.pdf",
+     "sha256": "52040f73b94fac4347a260971c9a1e925e930cf9aec342163acd77b6c3bb46de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-2001",
+   "path": "local/bucuresti/cgmb/2001/248",
+   "short": "HCGMB nr. 248/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/2001 PRIVIND ADERAREA PRIMARIEI MUNICIPIULUI BUCURESTI IN CALITATE DE MEMBRU CU DREPTURI DEPLINE LA ASOCIATIA EUROCITIES",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7276",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7276/h0248_01.pdf",
+     "sha256": "f50f2644cf73b5b36e1720d0177e7a1fc7c8885ef5ecbb1baabeb33448d166ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-2001",
+   "path": "local/bucuresti/cgmb/2001/249",
+   "short": "HCGMB nr. 249/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/2001 PRIVIND CONTINUAREA PARTICIPARII PMB IN CALITATE DE MEMBRU CU DREPTURI DEPLINE LA ASOCIATIA METROPOLIS- ASOCIATIA MONDIALA A MARILOR METROPOLE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7277",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7277/h0249_01.pdf",
+     "sha256": "fd6ba9104a6a5a1f6de105902aa4d60751b45c118b30541cc393ae51ee6e5b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2001",
+   "path": "local/bucuresti/cgmb/2001/25",
+   "short": "HCGMB nr. 25/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6013",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6013/h025_01.pdf",
+     "sha256": "ad17548200e7448f46f539b3b2e10c8c7e9ab989224d7b159b20dfb188ad0d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-2001",
+   "path": "local/bucuresti/cgmb/2001/250",
+   "short": "HCGMB nr. 250/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/2001 PRIVIND TRECEREA IN ADMINISTRAREA REGIEI GENERALE DE APA BUCURESTI A UNOR BUNURI PROPRIETATE PUBLICA A MUNICIPIULUI BUCURESTI DATE IN CONCESIONARE CATRE SC APA NOVA BUCURESTI SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7053",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7053/h0250_01.pdf",
+     "sha256": "b33b81fc9adad165381eba3d28ca2bd3bad80d1f2ffa3dcfb83aafe5ff9e1838"
     }
    ]
   },
@@ -273,6 +2433,351 @@
    ]
   },
   {
+   "slug": "hcgmb-252-2001",
+   "path": "local/bucuresti/cgmb/2001/252",
+   "short": "HCGMB nr. 252/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7033",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7033/h0252_01.pdf",
+     "sha256": "27e3d9c3e13fd86218caff8f4e3b68f5344c8dde0a9684382d6b2ebef8ecb143"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-2001",
+   "path": "local/bucuresti/cgmb/2001/253",
+   "short": "HCGMB nr. 253/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7034",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7034/h0253_01.pdf",
+     "sha256": "aafc440ad48cf42e138fa2c059e747fdec39a557278121b7065b1d595f6b30e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-2001",
+   "path": "local/bucuresti/cgmb/2001/254",
+   "short": "HCGMB nr. 254/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7035",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7035/h0254_01.pdf",
+     "sha256": "d97e228c5197661d8423250518d4653169649c9f496a8894d285efe586f08810"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-2001",
+   "path": "local/bucuresti/cgmb/2001/255",
+   "short": "HCGMB nr. 255/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7036",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7036/h0255_01.pdf",
+     "sha256": "957961207646af1b26a2c6e9df47e92bcf8e2362205a7af79c2b3367ce7cdde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-2001",
+   "path": "local/bucuresti/cgmb/2001/256",
+   "short": "HCGMB nr. 256/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7037",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7037/h0256_01.pdf",
+     "sha256": "bac5009b5ccaf18887c89896e525e29fa4b34021a6533ee41c91dccbe33f9257"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-2001",
+   "path": "local/bucuresti/cgmb/2001/257",
+   "short": "HCGMB nr. 257/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7038",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7038/h0257_01.pdf",
+     "sha256": "77c5bf3d40f8dbecadeb380cc47ff901c38bdd1e04ad0d22035f51ba4d7d4201"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-2001",
+   "path": "local/bucuresti/cgmb/2001/258",
+   "short": "HCGMB nr. 258/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7039",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7039/h0258_01.pdf",
+     "sha256": "0b2bfabe64da12ca4d196024a9af201a4d194b9d9c742aa2e7a61aab7f84b7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-2001",
+   "path": "local/bucuresti/cgmb/2001/259",
+   "short": "HCGMB nr. 259/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7040",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7040/h0259_01.pdf",
+     "sha256": "3e518867a3f3102c1d4516d60378f355f6711544f55e984bfd34474d29508d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2001",
+   "path": "local/bucuresti/cgmb/2001/26",
+   "short": "HCGMB nr. 26/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2001 PRIVIND ALEGEREA VICEPRIMARULUI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6012",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6012/h026_01.pdf",
+     "sha256": "8273d3c607fdf6945f0f7f2c8b9e6622840c77c714e2ca159b51386d1bdfc2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-2001",
+   "path": "local/bucuresti/cgmb/2001/260",
+   "short": "HCGMB nr. 260/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7041",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7041/h0260_01.pdf",
+     "sha256": "278849d92d9b093ca9596aabadc18eb4b28361ef8857ebe7a38ae7ec73a6d6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-2001",
+   "path": "local/bucuresti/cgmb/2001/261",
+   "short": "HCGMB nr. 261/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7042",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7042/h0261_01.pdf",
+     "sha256": "bed534862a9ba6e0ede6953cd4ed58804d1027634dc92ff395a074522cfd5c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-262-2001",
+   "path": "local/bucuresti/cgmb/2001/262",
+   "short": "HCGMB nr. 262/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 262/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7043",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7043/h0262_01.pdf",
+     "sha256": "738a884fb353be1141a3e04fd90ce8a5977b1a114ea689634291f51e049892ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-2001",
+   "path": "local/bucuresti/cgmb/2001/263",
+   "short": "HCGMB nr. 263/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7279",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7279/h0263_01.pdf",
+     "sha256": "6ceb73effc0173befde60b3515da2eeb5c335b5775d759ff3134bc8b7d374ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-2001",
+   "path": "local/bucuresti/cgmb/2001/264",
+   "short": "HCGMB nr. 264/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNEA TERMINAL AUTOBUZE SI PARCARE GARA DE NORD, PE UN TEREN IN SUPRAFATA DE 4970 MP., SITUAT IN CALEA GRIVITEI, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7044",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7044/h0264_01.pdf",
+     "sha256": "898f5ecf1ba45f54276eb442fd61a7c7df0a826ed64a1782b5c7fe87dd84932b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-2001",
+   "path": "local/bucuresti/cgmb/2001/265",
+   "short": "HCGMB nr. 265/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTII DEFINITIVE CU FUNCTIUNILE PARKING SUBTERAN, PE UN TEREN IN SUPRAFATA DE 4180 MP, SITUAT IN CALEA DOROBANTI - SOS. STEFAN CEL MARE, BLOC PERLA, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7280",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7280/h0265_01.pdf",
+     "sha256": "ace63d0764046e2ce4a0f14f84d161357cffa9a70128b04f774cb9a55291d153"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-266-2001",
+   "path": "local/bucuresti/cgmb/2001/266",
+   "short": "HCGMB nr. 266/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 266/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA MODERNIZARE, EXTINDERE PIATA AGROALIMENTARA BERCENI SUD, PE UN TEREN IN SUPRAFATA DE 2871 MP., SITUAT IN STR. STRADUINTEI, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7045",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7045/h0266_01.pdf",
+     "sha256": "e9b0b2262dda086e57392cbee3f488d448e2821dce19ef2677da274b7812ae0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-2001",
+   "path": "local/bucuresti/cgmb/2001/267",
+   "short": "HCGMB nr. 267/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA REVITALIZARE PIATA RESITA, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7046",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7046/h0267_01.pdf",
+     "sha256": "4cbc3f375304d5ce8888eeab46b84c0e10d01f4d503e4f5c696b9d2cf299fd00"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-2001",
+   "path": "local/bucuresti/cgmb/2001/268",
+   "short": "HCGMB nr. 268/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7047",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7047/h0268_01.pdf",
+     "sha256": "514c319cfe494b9d780fd9e4e4c72c6541c6a2131286882d4c215bd8d934ac7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-269-2001",
+   "path": "local/bucuresti/cgmb/2001/269",
+   "short": "HCGMB nr. 269/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 269/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7048",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7048/h0269_01.pdf",
+     "sha256": "ca0c6ca703b8d44d6b880f6e8077ead94c11869b377788c014707df5f8bef311"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2001",
+   "path": "local/bucuresti/cgmb/2001/27",
+   "short": "HCGMB nr. 27/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2001 PRIVIND TRANSMITEREA UNUI MONUMENT ISTORIC PROPRIETATE A MUNICIPIULUI BUCURESTI IN ADMINISTRAREA MUZEULUI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6015",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6015/h027_01.pdf",
+     "sha256": "78e72496ea6ec9ea7573f9a23f9cac1615b94d5259458991582f43280ce492af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-270-2001",
+   "path": "local/bucuresti/cgmb/2001/270",
+   "short": "HCGMB nr. 270/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 270/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA PARCARE, PE UN TEREN IN SUPRAFATA DE 370 MP., SITUAT IN STR. FABRICA DE GLUCOZA, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7049",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7049/h0270_01.pdf",
+     "sha256": "95410a3a3d6795d9b95a5cf817200ac85b566303be0b1e22ab05da2c736b8ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-272-2001",
+   "path": "local/bucuresti/cgmb/2001/272",
+   "short": "HCGMB nr. 272/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 272/2001 PRIVIND REPARTIZAREA PE BUGETE A SUMELOR ALOCATE DE LA BUGETUL DE STAT PENTRU EFECTUAREA CHELTUIELILOR NECESARE IN VEDEREA PREGATIRII SI ORGANIZARII RECENSAMANTULUI POPULATIEI SI AL LOCUINTELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7050",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7050/h0272_01.pdf",
+     "sha256": "cb4456e1c352b8852e298b34ba3ea0df371e03325361f6317d62c92e7828b932"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-273-2001",
+   "path": "local/bucuresti/cgmb/2001/273",
+   "short": "HCGMB nr. 273/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 273/2001 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7051",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7051/h0273_01.pdf",
+     "sha256": "cf6fe9ef0a9c113ce15ff050c7d88a0d0feefd3897afd3398e99f6baecd1d4fa"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-274-2001",
    "path": "local/bucuresti/cgmb/2001/274",
    "short": "HCGMB nr. 274/2001",
@@ -284,6 +2789,81 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7026/h0274_01.pdf",
      "sha256": "be0bf04d2aa05b96f66dc26464ec5883ae22681592c81c972ee4e0e70178f4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-275-2001",
+   "path": "local/bucuresti/cgmb/2001/275",
+   "short": "HCGMB nr. 275/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 275/2001 PRIVIND PREZENTAREA INFORMARII DE CATRE PRIMARUL GENERAL AL MUNICIPIULUI BUCURESTI PRIVIND STAREA ECONOMICA SI SOCIALA A ORASULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7027",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7027/h0275_01.pdf",
+     "sha256": "8871c5e4bc8dff89cc45e1a9d8659456dbc31b0cbd9a05218cd96f205dca00a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-276-2001",
+   "path": "local/bucuresti/cgmb/2001/276",
+   "short": "HCGMB nr. 276/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 276/2001 PRIVIND PREZENTAREA DE CATRE PRIMARUL GENERAL AL MUNICIPIULUI BUCURESTI A SITUATIEI CONTRACTELOR DE ASOCIERE SAU COLABORARE LA CARE PRIMARIA MUNICIPIULUI BUCURESTI ESTE PARTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7028",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7028/h0276_01.pdf",
+     "sha256": "2b67e491221c8820cc90fdbb31e0956735532cacbe51ea81016599c8c3839505"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-277-2001",
+   "path": "local/bucuresti/cgmb/2001/277",
+   "short": "HCGMB nr. 277/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 277/2001 PRIVIND ACORDAREA TITLULUI DE \"CETATEAN DE ONOARE AL MUNICIPIULUI BUCURESTI\" DOMNEI IOLANDA BALAS SOTER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7029",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7029/h0277_01.pdf",
+     "sha256": "7c78506be1839068d3b3c6fbd9d1ab10c5c8442aff9130c88b066676454eca79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-278-2001",
+   "path": "local/bucuresti/cgmb/2001/278",
+   "short": "HCGMB nr. 278/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 278/2001 PRIVIND DOTAREA PRIMARULUI GENERAL, VICEPRIMARILOR, SECRETARULUI GENERAL AL MUNICIPIULUI BUCURESTI SI CONSILIERILOR MUNICIPALI CU ABONAMENTE DE TELEFONIE MOBILA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7030",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7030/h0278_01.pdf",
+     "sha256": "70ada2f3169c934907040e3dc61a86679eceba8b1191127e4421481834678a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-279-2001",
+   "path": "local/bucuresti/cgmb/2001/279",
+   "short": "HCGMB nr. 279/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 279/2001 PRIVIND MODIFICAREA ANEXEI LA HOTARAREA NR. 272/2001, PRIVIND REPARTIZAREA PE BUGETE A SUMELOR ALOCATE MUNICIPIULUI BUCURESTI DE LA BUGETUL DE STAT PENTRU EFECTUAREA CHELTUIELILOR NECESARE IN VEDEREA PREGATIRII SI ORGANIZARII RECENSAMANTULUI POLULATIEI SI AL LOCUINTELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7031",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7031/h0279_01.pdf",
+     "sha256": "2ae8930f2dabc5b926dcbc3962f8e82af7533480db2f05013d47a43808ba8625"
     }
    ]
   },
@@ -303,6 +2883,156 @@
    ]
   },
   {
+   "slug": "hcgmb-280-2001",
+   "path": "local/bucuresti/cgmb/2001/280",
+   "short": "HCGMB nr. 280/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 280/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7032",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7032/h0280_01.pdf",
+     "sha256": "c7471e5913e93b8f9b4cd043c6a92780c94ff7d94ef9a5f44a5089b3a5dba4af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-281-2001",
+   "path": "local/bucuresti/cgmb/2001/281",
+   "short": "HCGMB nr. 281/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 281/2001 PRIVIND APROBAREA AMPLASARII CATEDRALEI PATRIARHALE IN AXUL BD. UNIRII SECTOR 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7281",
+   "versions": [
+    {
+     "from": "2001-10-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7281/h0281_01.pdf",
+     "sha256": "775c250cefb9fa7f078e6cdc324cd9e8751a7d231d6877112970e203de322188"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-282-2001",
+   "path": "local/bucuresti/cgmb/2001/282",
+   "short": "HCGMB nr. 282/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 282/2001 PRIVIND VACANTAREA UNUI LOC DE CONSILIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7282",
+   "versions": [
+    {
+     "from": "2001-10-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7282/h0282_01.pdf",
+     "sha256": "513d9521e3f0feb620c5c20a8a633b15f2594786223f0ec7a02069df1ceb8d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-283-2001",
+   "path": "local/bucuresti/cgmb/2001/283",
+   "short": "HCGMB nr. 283/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 283/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7283",
+   "versions": [
+    {
+     "from": "2001-10-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7283/h0283_01.pdf",
+     "sha256": "f0cc5b9168e747e91b0c8d26d910aa9e384bbb2866898f76b76da1dbbe6be457"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-284-2001",
+   "path": "local/bucuresti/cgmb/2001/284",
+   "short": "HCGMB nr. 284/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 284/2001 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE MODERNIZARE PUNCTE TERMICE: ANSAMBLUL MICRO 3 DRUMUL TABEREI, RETEA DE TERMOFICARE 2 DN 500 BUCURESTII NOI, RETEA DE TERMOFICARE PT1 SI PT2 VETERANILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7284",
+   "versions": [
+    {
+     "from": "2001-01-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7284/h0284_01.pdf",
+     "sha256": "346648e648dbe71e12ce8b13132483078a4404a1ec903bafd430e0ad43f42876"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-285-2001",
+   "path": "local/bucuresti/cgmb/2001/285",
+   "short": "HCGMB nr. 285/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 285/2001 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE MODERNIZARE PUNCTE TERMICE: SECTIA GIURGIU ZONA A, SECTIA GIURGIU ZONA B, SECTIA PANTELIMON, SECTIA TITAN, SECTIA VITAN SI SECTIA COLENTINA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7285",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7285/h0285_01.pdf",
+     "sha256": "5e58761f4168545095e43df30834a84b1cd26c27c4faecc05544b448cafabf24"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-286-2001",
+   "path": "local/bucuresti/cgmb/2001/286",
+   "short": "HCGMB nr. 286/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 286/2001 PRIVIND ACORDUL ASUPRA CONTINUTULUI DOSARULUI DEPUS DE SC APA NOVA BUCURESTI S.A REFERITOR LA FINANTAREA, FINALIZAREA, DAREA IN FOLOSINTA SI EXPLOATAREA STATIEI DE TRATARE A APEI CRIVINA- OGREZENI, A INTINDERII SI A CUANTUMULUI \"AJUSTARII EXTRAORDINARE A TARIFULUI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7286",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7286/h0286_01.pdf",
+     "sha256": "972ffa4fd70d7982fd40453f0a84286abeaddc44cbce5a24795076f7056f0c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-287-2001",
+   "path": "local/bucuresti/cgmb/2001/287",
+   "short": "HCGMB nr. 287/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 287/2001 PRIVIND OPTIMIZAREA ACTIVITATII ADMINISTRATIEI PENTRU SUPRAVEGHEREA ANIMALELOR (A.S.A.)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7287",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7287/h0287_01.pdf",
+     "sha256": "dc7a1ffb6bbd5bcf74e60dcbf56835a72252611e30ca609dcbff1d0b951bdc74"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-288-2001",
+   "path": "local/bucuresti/cgmb/2001/288",
+   "short": "HCGMB nr. 288/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 288/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7093",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7093/h0288_01.pdf",
+     "sha256": "1677cab21c6fa2b43475602aadbe298e0ae38cc0da1b94d120de718e125fcd91"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-289-2001",
+   "path": "local/bucuresti/cgmb/2001/289",
+   "short": "HCGMB nr. 289/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 289/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7094",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7094/h0289_01.pdf",
+     "sha256": "eef96f9a2b5aee40086ca3f9bd61a2afc4c877de0419fc127bbeab52c2e84ba0"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-29-2001",
    "path": "local/bucuresti/cgmb/2001/29",
    "short": "HCGMB nr. 29/2001",
@@ -318,6 +3048,126 @@
    ]
   },
   {
+   "slug": "hcgmb-290-2001",
+   "path": "local/bucuresti/cgmb/2001/290",
+   "short": "HCGMB nr. 290/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 290/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7095",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7095/h0290_01.pdf",
+     "sha256": "2ca5b3c8daa334ae3bb6a160d76f1d80fd35cd5d164c80a1415124b1e9c40a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-291-2001",
+   "path": "local/bucuresti/cgmb/2001/291",
+   "short": "HCGMB nr. 291/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 291/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7096",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7096/h0291_01.pdf",
+     "sha256": "943e9ebaffedbe7cd92b7445de136b503db824db67c027cbe89747cc00b95f04"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-292-2001",
+   "path": "local/bucuresti/cgmb/2001/292",
+   "short": "HCGMB nr. 292/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 292/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7097",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7097/h0292_01.pdf",
+     "sha256": "fe561f16fc1db35b6bc72d4ae247155c59caaff19c72f925adb390488d14beb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-293-2001",
+   "path": "local/bucuresti/cgmb/2001/293",
+   "short": "HCGMB nr. 293/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 293/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7098",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7098/h0293_01.pdf",
+     "sha256": "7b847e6a20bc8b88256cc865a19cf2c09166b57905477226ade2fdd200d688f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-294-2001",
+   "path": "local/bucuresti/cgmb/2001/294",
+   "short": "HCGMB nr. 294/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 294/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7099",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7099/h0294_01.pdf",
+     "sha256": "fe24de9172bbd1d6350fff24c12b81fcc94ff3d736d20d786606ecdf17eb3014"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-295-2001",
+   "path": "local/bucuresti/cgmb/2001/295",
+   "short": "HCGMB nr. 295/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 295/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7100",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7100/h0295_01.pdf",
+     "sha256": "1ca3fffed929e9032bb6877e28015d9cf2daf403aad2c199c8a1b50e37b53345"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-296-2001",
+   "path": "local/bucuresti/cgmb/2001/296",
+   "short": "HCGMB nr. 296/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 296/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7101",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7101/h0296_01.pdf",
+     "sha256": "1146af7b4fefadfb385adeb1ce845b1f42bf93327f3daf10eff0412b9c3cc865"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-297-2001",
+   "path": "local/bucuresti/cgmb/2001/297",
+   "short": "HCGMB nr. 297/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 297/2001 PRIVIND MODIFICAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7102",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7102/h0297_01.pdf",
+     "sha256": "3ba18ad8f5ed0cdb1062ba6a927c03994d63ca5ee3973d0ed837ae51206a5a3d"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-298-2001",
    "path": "local/bucuresti/cgmb/2001/298",
    "short": "HCGMB nr. 298/2001",
@@ -329,6 +3179,66 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7103/h0298_01.pdf",
      "sha256": "b1c832c1cc6fe6fccbfdf8e114a56d78a393ff036100be1b4745209ade7def0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-299-2001",
+   "path": "local/bucuresti/cgmb/2001/299",
+   "short": "HCGMB nr. 299/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 299/2001 PRIVIND ACORDAREA TITLULUI \"CETATEAN DE ONOARE AL MUNICIPIULUI BUCURESTI\" UNOR PERSONALITATI ALE TEATRULUI ROMANESC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7104",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7104/h0299_01.pdf",
+     "sha256": "cff35c46730928019a5407686ffb2d66d238e7f1d94b23d7df5ba6a9ebeb7d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2001",
+   "path": "local/bucuresti/cgmb/2001/3",
+   "short": "HCGMB nr. 3/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2001 PRIVIND VACANTAREA UNUI POST DE VICEPRIMAR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6008",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6008/h03_01.pdf",
+     "sha256": "a097e31f4f841387b7954223bc9cf713e82d03e519688d4b997e792720284872"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2001",
+   "path": "local/bucuresti/cgmb/2001/30",
+   "short": "HCGMB nr. 30/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2001 PRIVIND AMPLASAREA PE DOMENIUL PUBLIC A TOALETELOR ECOLOGICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6017",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6017/h030_01.pdf",
+     "sha256": "dd4f3d775deffe1f80501a14db22b5706be258421f86363b8522d08829df5a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-300-2001",
+   "path": "local/bucuresti/cgmb/2001/300",
+   "short": "HCGMB nr. 300/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 300/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU- CATEDRALA PATRIARHALA PE BD. UNIRII, SECTOR 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7288",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7288/h0300_01.pdf",
+     "sha256": "ad1f521563efd4ab2e005efff778a7f28a5d0b224840a28b939a8cf6bbe96d70"
     }
    ]
   },
@@ -363,6 +3273,276 @@
    ]
   },
   {
+   "slug": "hcgmb-303-2001",
+   "path": "local/bucuresti/cgmb/2001/303",
+   "short": "HCGMB nr. 303/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 303/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU, PENTRU AMPLASARE STATUIE \"PE AICI NU SE TRECE\" IN PARCUL CAROL, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7291",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7291/h0303_01.pdf",
+     "sha256": "a039431b02d6a1cf6e7f62623a3d0917604b0176396428c5e6eccdee8accb260"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-304-2001",
+   "path": "local/bucuresti/cgmb/2001/304",
+   "short": "HCGMB nr. 304/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 304/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7292",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7292/h0304_01.pdf",
+     "sha256": "6c66d0a17d1bee130f64ab305f92b61f95ff56b25c527d3feda4a2d378b2ff1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-305-2001",
+   "path": "local/bucuresti/cgmb/2001/305",
+   "short": "HCGMB nr. 305/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 305/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7293",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7293/h0305_01.pdf",
+     "sha256": "24352b42e6e4d47e297b7649c1101b5f002e87ee4680f2747a0193fcb29582eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-306-2001",
+   "path": "local/bucuresti/cgmb/2001/306",
+   "short": "HCGMB nr. 306/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 306/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7294",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7294/h0306_01.pdf",
+     "sha256": "b5a38070aabf8e71b44afe4199197db7640e3f7b55c3b77df16119284cc89e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-307-2001",
+   "path": "local/bucuresti/cgmb/2001/307",
+   "short": "HCGMB nr. 307/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 307/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7295",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7295/h0307_01.pdf",
+     "sha256": "449b157d4cdc99d44af7131fa4c7c7d7eabdeed553f25dbfd653a88392dc556c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-308-2001",
+   "path": "local/bucuresti/cgmb/2001/308",
+   "short": "HCGMB nr. 308/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 308/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7296",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7296/h0308_01.pdf",
+     "sha256": "1424fe64daa96ef16c7a3da2b577cb6e78e9ea93c0d34d734355910fc4efbe8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-309-2001",
+   "path": "local/bucuresti/cgmb/2001/309",
+   "short": "HCGMB nr. 309/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 309/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7297",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7297/h0309_01.pdf",
+     "sha256": "916b2617072fff63c03e25c34ae5107622bcf2abe0b5261c42a0cdb4bed781d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2001",
+   "path": "local/bucuresti/cgmb/2001/31",
+   "short": "HCGMB nr. 31/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2001 PRIVIND FUNCTIONAREA \"ADMINISTRATIEI LACURILOR BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6018",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6018/h031_01.pdf",
+     "sha256": "b5d7e0c3332376883e2d9aee32200c341e9618c9ee6cacea66a467e16f1ff1db"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-310-2001",
+   "path": "local/bucuresti/cgmb/2001/310",
+   "short": "HCGMB nr. 310/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 310/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7298",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7298/h0310_01.pdf",
+     "sha256": "5c556d5a78336e6adbb45ef52632992a54ed3eaa099513ef8fcca148abad6be5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-311-2001",
+   "path": "local/bucuresti/cgmb/2001/311",
+   "short": "HCGMB nr. 311/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 311/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7299",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7299/h0311_01.pdf",
+     "sha256": "34b59a4d2fb489b11ffb83d7e44937fff817cfb570c310df9b205cd62012e789"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-312-2001",
+   "path": "local/bucuresti/cgmb/2001/312",
+   "short": "HCGMB nr. 312/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 312/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7300",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7300/h0312_01.pdf",
+     "sha256": "8116e9fa8becf7fbc05094cb9aba96c88fd72a1230603f0bc765aefb40f5fd03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-313-2001",
+   "path": "local/bucuresti/cgmb/2001/313",
+   "short": "HCGMB nr. 313/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 313/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7301",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7301/h0313_01.pdf",
+     "sha256": "2ee57be0cfc3a436eacbb4e4d6fab31bef71d62f31ccfa1328a54d855d27c5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-314-2001",
+   "path": "local/bucuresti/cgmb/2001/314",
+   "short": "HCGMB nr. 314/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 314/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7302",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7302/h0314_01.pdf",
+     "sha256": "61a26f8c3a993d47985f5374ad68b8db40d7bb689b5d0e559942c73b9096e218"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-315-2001",
+   "path": "local/bucuresti/cgmb/2001/315",
+   "short": "HCGMB nr. 315/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 315/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA PARCAJ- BIROURI, PE UN TEREN IN SUPRAFATA DE 950 MP, SITUAT IN STR. GR. ALEXANDRESCU- INTR. CADEREA BASTILIEI, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7303",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7303/h0315_01.pdf",
+     "sha256": "6773b3457bc90b919a3fb1caa13e3650e2d329672e72552d4ba1787946ea5971"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-316-2001",
+   "path": "local/bucuresti/cgmb/2001/316",
+   "short": "HCGMB nr. 316/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 316/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7304",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7304/h0316_01.pdf",
+     "sha256": "c0f0b308c764a8ce2fa335c1b5e9f5a68136c7c9624da7a5413cb4ded6cd7123"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-317-2001",
+   "path": "local/bucuresti/cgmb/2001/317",
+   "short": "HCGMB nr. 317/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 317/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7305",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7305/h0317_01.pdf",
+     "sha256": "f0314157d1e9bd79c66fd2aebafc945e58b9b80a2ae8b444ac9dc1037b230bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-318-2001",
+   "path": "local/bucuresti/cgmb/2001/318",
+   "short": "HCGMB nr. 318/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 318/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7306",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7306/h0318_01.pdf",
+     "sha256": "8d85c5dc7710f3ec48cdc0599a54cb8036f41e4c82f0df05734446efc5ac3454"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-319-2001",
+   "path": "local/bucuresti/cgmb/2001/319",
+   "short": "HCGMB nr. 319/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 319/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7307",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7307/h0319_01.pdf",
+     "sha256": "a050bc54757047016a3d8fbddfa54e370e1a97e6479b5fc7ca59394c79dd81c5"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-32-2001",
    "path": "local/bucuresti/cgmb/2001/32",
    "short": "HCGMB nr. 32/2001",
@@ -374,6 +3554,336 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6019/h032_01.pdf",
      "sha256": "46bc10b4cf9c7a26c495149ea568db789edb03c7a75ed9d5833b6f70a113d2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-320-2001",
+   "path": "local/bucuresti/cgmb/2001/320",
+   "short": "HCGMB nr. 320/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 320/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7308",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7308/h0320_01.pdf",
+     "sha256": "b1591cf0cf174e3268eda4bb552140aab6938bda5c5afccaf19127f41e7993c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-321-2001",
+   "path": "local/bucuresti/cgmb/2001/321",
+   "short": "HCGMB nr. 321/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 321/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7309",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7309/h0321_01.pdf",
+     "sha256": "57b449a0ae38e0a261a8dfeaf6e9c8cd0038836210bd43d2851d035dcb09b5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-322-2001",
+   "path": "local/bucuresti/cgmb/2001/322",
+   "short": "HCGMB nr. 322/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 322/2001 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU PENTRU CONSTRUCTIE DEFINITIVA CU FUNCTIUNEA SUBSTATIE ELECTRICA DE TRACTIUNE RATB \"AVERESCU\", PE UN TEREN IN SUPRAFATA DE 259 MP, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7310",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7310/h0322_01.pdf",
+     "sha256": "ecf2dcfbc2adf3c93c6daa7d7ebcf703bda9c86ec3896288a039512c88f6ac6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-323-2001",
+   "path": "local/bucuresti/cgmb/2001/323",
+   "short": "HCGMB nr. 323/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 323/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7311",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7311/h0323_01.pdf",
+     "sha256": "047a84916737075b8462296f55af1879a16465601498d6f6939db27ac4be074c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-324-2001",
+   "path": "local/bucuresti/cgmb/2001/324",
+   "short": "HCGMB nr. 324/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 324/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7312",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7312/h0324_01.pdf",
+     "sha256": "4bdb2aa73d586f0558d7dc3937ff351944fb4dd3d9f6e70f5aaeb2585185f251"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-325-2001",
+   "path": "local/bucuresti/cgmb/2001/325",
+   "short": "HCGMB nr. 325/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 325/2001 PRIVIND INCETAREA MANDATULUI UNOR CONSILIERI GENERALI AI CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7313",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7313/h0325_01.pdf",
+     "sha256": "d5e8ab1c68799485648ec50fef1cc900246bc869977b956d32848cbeafc03922"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-326-2001",
+   "path": "local/bucuresti/cgmb/2001/326",
+   "short": "HCGMB nr. 326/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 326/2001 PRIVIND APROBAREA STATELOR DE FUNCTII PENTRU INSTITUTIILOR PUBLICE DE CULTURA ALE MUNICIPIULUI BUCURESTI SE ABROGA ANEXA NR. 2.8 PRIN HCGMB NR. 348/2008 ANEXA 2.5 SE ABROGA PRIN HCGMB NR. 227/2009 ANEXA 2.6. SE ABROGA PRIN HCGMB NR.295/2008 ABROGATA ANEXA NR. 2.3 PRIN HCGMB NR. 352/2007 SE ABROGA PRIN HCGMB NR. 174/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7419",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-327-2001",
+   "path": "local/bucuresti/cgmb/2001/327",
+   "short": "HCGMB nr. 327/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 327/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7314",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7314/h0327_01.pdf",
+     "sha256": "866447a0be9737263744f189a864bd0fb0d3993def1ccba0d980a3685d06dd99"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-328-2001",
+   "path": "local/bucuresti/cgmb/2001/328",
+   "short": "HCGMB nr. 328/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 328/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7315",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7315/h0328_01.pdf",
+     "sha256": "6645af4bd2b5ccaae7f3a3ca7ee2f76faf7f8df58a394ba40cf97065e8c5a5d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-329-2001",
+   "path": "local/bucuresti/cgmb/2001/329",
+   "short": "HCGMB nr. 329/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 329/2001 PRIVIND APROBAREA VANZARII UNOR SPATII CU ALTA DESTINATIE, NEFINALIZATE, SITUATA LA PARTERUL UNOR BLOCURI DE LOCUINTE SE MODIFICA PRIN HCGMB NR. 340/2009 POZ.2 DIN ART.1 SI PCT.2 DIN ANEXA SE ABROGA PRIN HCGMB NR. 374/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7316",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7316/h0329_01.pdf",
+     "sha256": "0b42e7f75fbc770e8ff55841f6967d9dff19074e70ef351c291515cbf451202c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2001",
+   "path": "local/bucuresti/cgmb/2001/33",
+   "short": "HCGMB nr. 33/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2001 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6020",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6020/h033_01.pdf",
+     "sha256": "38b6514af4b101c017f7b2940c1a9f0f54a03041d6603402d55b046b2a60f72d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-330-2001",
+   "path": "local/bucuresti/cgmb/2001/330",
+   "short": "HCGMB nr. 330/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 330/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7317",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7317/h0330_01.pdf",
+     "sha256": "6ef39a85b0b36447601adef37196834bfba2e8462b9b572187aea5229cf9f0f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-331-2001",
+   "path": "local/bucuresti/cgmb/2001/331",
+   "short": "HCGMB nr. 331/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 331/2001 PRIVIND APROBAREA TRECERII IN ADMINISTRAREA ADMINISTRATIEI DE AGREMENT SI LACURI BUCURESTI A UNOR BUNURI PROPRIETATE PUBLICA, DATE IN CONCESIONARE DE MUNICIPIUL BUCURESTI CATRE SC APA NOVA BUCURESTI SA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7318",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7318/h0331_01.pdf",
+     "sha256": "cb1e116079500d51df93bd2d782aef50212a3925423ee53a5d97bd569f34419e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-332-2001",
+   "path": "local/bucuresti/cgmb/2001/332",
+   "short": "HCGMB nr. 332/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 332/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7326",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7326/h0332_01.pdf",
+     "sha256": "33084a77ebfdf7f5d7cacde0f7f1aa6ebb6cb918dca34c29dd0a72ca151196e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-333-2001",
+   "path": "local/bucuresti/cgmb/2001/333",
+   "short": "HCGMB nr. 333/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 333/2001 PRIVIND VALIDAREA UNOR MANDATE DE CONSILIERI MUNICIPALI AI C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7327",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7327/h0333_01.pdf",
+     "sha256": "44a7a4ede53fe9c9bc444ffdeef9d6c14333b2a0cbab5a9e58a3f66f6830e23a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-334-2001",
+   "path": "local/bucuresti/cgmb/2001/334",
+   "short": "HCGMB nr. 334/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 334/2001 PRIVIND VALIDAREA UNOR MANDATE DE CONSILIERI MUNICIPALI AI C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7328",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7328/h0334_01.pdf",
+     "sha256": "bbe22956fe9717d64aadb0f983483b76559bad42338d0ad66f1d2e513a2d20ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-335-2001",
+   "path": "local/bucuresti/cgmb/2001/335",
+   "short": "HCGMB nr. 335/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 335/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7329",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7329/h0335_01.pdf",
+     "sha256": "1ab861f814b14e49172667cd5496e454cd43c57af0aa86c68249bae06f95ed4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-336-2001",
+   "path": "local/bucuresti/cgmb/2001/336",
+   "short": "HCGMB nr. 336/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 336/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7330",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7330/h0336_01.pdf",
+     "sha256": "fa275bda3774c76c833f71bd9e7d4a298d441d9ecbfb9497cbe5ba081663d7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-337-2001",
+   "path": "local/bucuresti/cgmb/2001/337",
+   "short": "HCGMB nr. 337/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 337/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7331",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7331/h0337_01.pdf",
+     "sha256": "ff71784c818f2ce0046be5e7315a0cf271e53dafc24b568029fbabecbe5565b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-338-2001",
+   "path": "local/bucuresti/cgmb/2001/338",
+   "short": "HCGMB nr. 338/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 338/2001 PRIVIND ACORDAREA TITLULUI DE \"CETATEAN DE ONOARE AL MUNICIPIULUI BUCURESTI\" UNOR PERSONALITATI ALE TEATRULUI ROMANESC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7332",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7332/h0338_01.pdf",
+     "sha256": "fb26baf3134baa4369c471f19b817c67e1f3cb50f3c74463b1fba38ea1434c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-339-2001",
+   "path": "local/bucuresti/cgmb/2001/339",
+   "short": "HCGMB nr. 339/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 339/2001 PRIVIND ACORDAREA TITLULUI DE \"CETATEAN DE ONOARE AL MUNICIPIULUI BUCURESTI\" UNOR ARTISTI SI OAMENI DE CULTURA DIN FOLCLORUL ROMANESC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7333",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7333/h0339_01.pdf",
+     "sha256": "6b7323cf76f3e1bc034beeef2b070380bc647f7822e8b897f84e1b49c8bd9a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2001",
+   "path": "local/bucuresti/cgmb/2001/34",
+   "short": "HCGMB nr. 34/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6021",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6021/h034_01.pdf",
+     "sha256": "0b4689cbd33f6eaceb83487dff69129669f929a481873735e352163a8cf6e41d"
     }
    ]
   },
@@ -393,6 +3903,171 @@
    ]
   },
   {
+   "slug": "hcgmb-341-2001",
+   "path": "local/bucuresti/cgmb/2001/341",
+   "short": "HCGMB nr. 341/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 341/2001 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7418",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-342-2001",
+   "path": "local/bucuresti/cgmb/2001/342",
+   "short": "HCGMB nr. 342/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 342/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7335",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7335/h0342_01.pdf",
+     "sha256": "461aefbcc8ef288c13d6109c39f69f9a8a0e6ecf33ad8882dcca921a83331a30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-347-2001",
+   "path": "local/bucuresti/cgmb/2001/347",
+   "short": "HCGMB nr. 347/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 347/2001 PRIVIND MODIFICAREA REPARTIZARII PE BUGETE COMPONENTE A SUMELOR DIN TAXA PE VALOAREA ADAUGATA ALOCATE MUNICIPIULUI BUCURESTI PENTRU FINANTAREA CHELTUIELILOR PENTRU INVATAMANTUL PREUNIVERSITAR DE STAT PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7336",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7336/h0347_01.pdf",
+     "sha256": "ce81b45119b0216146515d5a4dd6ad9cbfd1ef1b721faf6146f75cb29e316492"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-348-2001",
+   "path": "local/bucuresti/cgmb/2001/348",
+   "short": "HCGMB nr. 348/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 348/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7337",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7337/h0348_01.pdf",
+     "sha256": "987b97edeeecf888768171944fd73c339efd200ac9b283298fae5b48517e0d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-349-2001",
+   "path": "local/bucuresti/cgmb/2001/349",
+   "short": "HCGMB nr. 349/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 349/2001 PRIVIND ASIGURAREA DESFASURARII ACTIUNII \"IN ASTEPTAREA LUI MOS CRACIUN\" DE CATRE PRIMARIA SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7338",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7338/h0349_01.pdf",
+     "sha256": "315857c4b53ee3b40079bc065314eb5c90a701b6120817802eb9c40c2e29afa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2001",
+   "path": "local/bucuresti/cgmb/2001/35",
+   "short": "HCGMB nr. 35/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2001 PRIVIND DONATIA UNUI TROLEIBUZ CATRE JANDARMERIA ROMANA, MINISTERUL DE INTERNE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6022",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6022/h035_01.pdf",
+     "sha256": "f4a0760e58ce00426ff34e2b5f1d96dc7ee7f1d349a8759991a18f09829a9199"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-354-2001",
+   "path": "local/bucuresti/cgmb/2001/354",
+   "short": "HCGMB nr. 354/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 354/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7339",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7339/h0354_01.pdf",
+     "sha256": "f545f487541c6001140f18cb9556cb3083d6009530e5400fe52f38cd63f14889"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-355-2001",
+   "path": "local/bucuresti/cgmb/2001/355",
+   "short": "HCGMB nr. 355/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 355/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7340",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7340/h0355_01.pdf",
+     "sha256": "300d35c62694ec0f4b76dbbecacc05608e8c5758710e798dde39fc93cc270a62"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-356-2001",
+   "path": "local/bucuresti/cgmb/2001/356",
+   "short": "HCGMB nr. 356/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 356/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7341",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7341/h0356_01.pdf",
+     "sha256": "dad7e0f0510332bdba75ca6ae4dcdf8fa4701084fb7c076ad0e581ecaec32221"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-357-2001",
+   "path": "local/bucuresti/cgmb/2001/357",
+   "short": "HCGMB nr. 357/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 357/2001 PRIVIND VALIDAREA CONVENTIEI INTRE AUTORITATEA NATIONALA PENTRU PROTECTIA COPILULUI SI ADOPTIE SI PMB PENTRU INFIINTAREA CENTRULUI DE COORDONARE SI INFORMARE PRIVIND COPIII STRAZII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7342",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7342/h0357_01.pdf",
+     "sha256": "050cee62c6145d1dade4be7949c706483cc6343b7f59e1b7ba71955ee65d9bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-358-2001",
+   "path": "local/bucuresti/cgmb/2001/358",
+   "short": "HCGMB nr. 358/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 358/2001 PRIVIND LICHIDAREA ADMINISTRATIVA A RGAB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7343",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7343/h0358_01.pdf",
+     "sha256": "b28866cd8e794d752dc31b5e5075c738354ce0f715aa1f488608fbd2e455eac2"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-359-2001",
    "path": "local/bucuresti/cgmb/2001/359",
    "short": "HCGMB nr. 359/2001",
@@ -408,6 +4083,276 @@
    ]
   },
   {
+   "slug": "hcgmb-36-2001",
+   "path": "local/bucuresti/cgmb/2001/36",
+   "short": "HCGMB nr. 36/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2001 PRIVIND DONATIA UNUI AUTOBUZ CATRE CONSILIUL LOCAL AL SECTORULUI 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6023",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6023/h036_01.pdf",
+     "sha256": "4070d6cc2e670a0477d6d4da06b95dd8caed72fff96fd45989f2f94b376a46e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-360-2001",
+   "path": "local/bucuresti/cgmb/2001/360",
+   "short": "HCGMB nr. 360/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 360/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7352",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7352/h0360_01.pdf",
+     "sha256": "0fb622baa3d18ad76c351446cc1150c8bee7e22300ce82540ad0b3e6ce5be5a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-361-2001",
+   "path": "local/bucuresti/cgmb/2001/361",
+   "short": "HCGMB nr. 361/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 361/2001 PRIVIND TRANSMITEREA UNUI SPATIU DIN ADMINISTRAREA CGMB IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7345",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7345/h0361_01.pdf",
+     "sha256": "9e26602f4769f982b999b85621a53760af816953d0b70dcb66e54c4190818085"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-362-2001",
+   "path": "local/bucuresti/cgmb/2001/362",
+   "short": "HCGMB nr. 362/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 362/2001 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU INVESTITIILE REFERITOARE LA MODERNIZAREA PUNCTULUI TERMIC SPITAL ELIAS SI LA RACORDAREA LA TERMOFICARE A BLOCULUI 1 STR. TOPORASI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7346",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7346/h0362_01.pdf",
+     "sha256": "86f2e1ad689f395f1c0378cc2219a9dda0dc8c4e748e8a71a5934fddc8834884"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-363-2001",
+   "path": "local/bucuresti/cgmb/2001/363",
+   "short": "HCGMB nr. 363/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 363/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7348",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7348/h0363_01.pdf",
+     "sha256": "86d2574b47be0bb620d7b27e9cdfc1cf9527de5e139dcfa0ec1ad3680f27bbf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-364-2001",
+   "path": "local/bucuresti/cgmb/2001/364",
+   "short": "HCGMB nr. 364/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 364/2001 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"TROCADERO\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7776",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7776/h0364_01.pdf",
+     "sha256": "c70806645a31502c52039c0aee24a1f48ad620a9b2968880094a283724de49fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-365-2001",
+   "path": "local/bucuresti/cgmb/2001/365",
+   "short": "HCGMB nr. 365/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 365/2001 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"DIHAM\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7777",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7777/h0365_01.pdf",
+     "sha256": "cbb0b7b23d50ff35e23cc878594af93a1f2266fdb93e5a00ae2ed53c2e8d8556"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-366-2001",
+   "path": "local/bucuresti/cgmb/2001/366",
+   "short": "HCGMB nr. 366/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 366/2001 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3278",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-367-2001",
+   "path": "local/bucuresti/cgmb/2001/367",
+   "short": "HCGMB nr. 367/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 367/2001 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AL REGIEI AUTONOME AL REGIEI AUTONOME DE TRANSPORT BUCURESTI PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7347",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7347/h0367_01.pdf",
+     "sha256": "e13f865d3f90c1860b43c9d7f948473ceb1ce5bc45d5691a1c88f89ee6f198cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-368-2001",
+   "path": "local/bucuresti/cgmb/2001/368",
+   "short": "HCGMB nr. 368/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 368/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7349",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/7349/h0368_01.pdf",
+     "sha256": "0b37273f11a5da7a8d6a2c4f38118c9675e84044b74d88f51c6aa759fc0f8da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2001",
+   "path": "local/bucuresti/cgmb/2001/37",
+   "short": "HCGMB nr. 37/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2001 PRIVIND INFIINTAREA IN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI A COMISIEI DE EVALUARE SI SELECTIONARE A ASOCIATIILOR SI FUNDATIILOR CARORA LI SE VOR ACORDA SUBVENTII COFORM LEGII NR.34/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6024",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6024/h037_01.pdf",
+     "sha256": "ae36862a14c03873bd1c305e677953e241ed82243d7a88303d21c8dfc9ede9f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2001",
+   "path": "local/bucuresti/cgmb/2001/39",
+   "short": "HCGMB nr. 39/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6025",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6025/h039_01.pdf",
+     "sha256": "6ed9d4e5b4cc6a446a39ccb52581923a1d6e70a0195fef46824f6a7228ec706c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2001",
+   "path": "local/bucuresti/cgmb/2001/40",
+   "short": "HCGMB nr. 40/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2001 PRIVIND APROBAREA UNEI DONATII, AMPLASAREA UNEI LUCRARI DE ARTA PLASTICA IN MUNICIPIUL BUCURESTI SI ATRIBUIREA DENUMIRII DE PARCUL \"C-TIN BRANCUSI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6026",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6026/h040_01.pdf",
+     "sha256": "9a411cd7fa70437e7acc54d52646d89470ec2e4736c1386d537616d3fb7918b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2001",
+   "path": "local/bucuresti/cgmb/2001/41",
+   "short": "HCGMB nr. 41/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2001 PRIVIND INFIINTAREA UNEI COMISII DE ANALIZA A SITUATIEI DE LA ADMINISTRATIA CIMITIRELOR SI CREMATORIILOR UMANE DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6027",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6027/h041_01.pdf",
+     "sha256": "720b36b22d8e01ce6fddf2d5274b268144e5af7d287b9ac8203b8642b4be6f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2001",
+   "path": "local/bucuresti/cgmb/2001/42",
+   "short": "HCGMB nr. 42/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6028",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6028/h042_01.pdf",
+     "sha256": "1f005a54260bb07af91a1843562a9731ec8bcca092d3102316318e14c997b671"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2001",
+   "path": "local/bucuresti/cgmb/2001/43",
+   "short": "HCGMB nr. 43/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6029",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6029/h043_01.pdf",
+     "sha256": "5cc878803464428df3e2016d6d82d55a3cb237824df17224fae37a06e92004b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2001",
+   "path": "local/bucuresti/cgmb/2001/44",
+   "short": "HCGMB nr. 44/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2001 PRIVIND AUTORIZAREA SOCIETATILOR COMERCIALE PRESTATOARE DE SERVICII SA SALUBRIZARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6030",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6030/h044_01.pdf",
+     "sha256": "470d6e9e6b3d05ee156b4fb201480eb9fd5d4d4a310ed4855fa6fdd8ca3f8b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2001",
+   "path": "local/bucuresti/cgmb/2001/45",
+   "short": "HCGMB nr. 45/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6031",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6031/h045_01.pdf",
+     "sha256": "0a71b5f7d1c68ceea12e8ff6c40b40a50446228e7d46f3fa7761eb97fe9f29bc"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-46-2001",
    "path": "local/bucuresti/cgmb/2001/46",
    "short": "HCGMB nr. 46/2001",
@@ -419,6 +4364,246 @@
      "units": 8,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6032/h046_01.pdf",
      "sha256": "3c1201de6ce8682756c2d6d394aa788fe43fa5da85b9eb934e52d2b73e78bf46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-2001",
+   "path": "local/bucuresti/cgmb/2001/47",
+   "short": "HCGMB nr. 47/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/2001 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6033",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6033/h047_01.pdf",
+     "sha256": "c079b3823c3452f278cfcf1dfd41f15f79b110d0d114e53e819bf860bbb50bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2001",
+   "path": "local/bucuresti/cgmb/2001/48",
+   "short": "HCGMB nr. 48/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2001 PRIVIND TRECEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 3 IN SCOPUL REALIZARII DE LOCUINTE, A UNUI TEREN IN SUPRAFATA DE 15.725 MP. PE O PERIOADA DE 49 DE ANI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6034",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6034/h048_01.pdf",
+     "sha256": "c592c01f979ec98c95aa64dd33327c10c0e74bc92009bfa811e4297ec406dfdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-2001",
+   "path": "local/bucuresti/cgmb/2001/49",
+   "short": "HCGMB nr. 49/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2001 PRIVIND O ELIBERARE DIN FUNCTIE SI NUMIREA DIRECTORULUI GENERAL AL REGIEI AUTONOME DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6035",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6035/h049_01.pdf",
+     "sha256": "b220173eaf18c32c77c58dd6714e65d4672eb2189fa0a70a78f1cc06f5fc408f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2001",
+   "path": "local/bucuresti/cgmb/2001/5",
+   "short": "HCGMB nr. 5/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2001 PRIVIND TRECEREA UNITATILOR DE INVATAMANT PREUNIVERSITARE DE STAT IN ADMINISTRAREA PRIMARIILOR DE SECTOR ALE MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6007",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6007/h05_01.pdf",
+     "sha256": "f597cf12f33ae29f52aecc395a464b3b2e6a29f96954f428d15faba40c01b39a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2001",
+   "path": "local/bucuresti/cgmb/2001/50",
+   "short": "HCGMB nr. 50/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6036",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6036/h050_01.pdf",
+     "sha256": "d6567ecda994262e6945a9ecc36c58d1a3cb10d3180743ff2520e59604785d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2001",
+   "path": "local/bucuresti/cgmb/2001/51",
+   "short": "HCGMB nr. 51/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2001 PRIVIND ADMINISTRAREA IMOBILULUI DIN PIATA AMZEI NR.13, SECTORUL 1 SE MODIFICA PRIN HCGMB NR. 400/2018 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 772/2018 ART. 1 MODIFICAT SI COMPLETAT PRIN HCGMB NR. 613/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5971",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/5971/h051_01.pdf",
+     "sha256": "ce91bda5f89a1cdc1b4463a70276de35c4611d6d5501eb6433245035ed171112"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2001",
+   "path": "local/bucuresti/cgmb/2001/52",
+   "short": "HCGMB nr. 52/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2001 PRIVIND APROBAREA CRITERIILOR DE REPARTIZARE DE LOCUINTE SI A LISTEI CU ORDINEA DE PRIORITATE PENTRU SOLICITANTII INDREPTATITI SA PRIMEASCA IN 2001 O LOCUINTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7058",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2001",
+   "path": "local/bucuresti/cgmb/2001/53",
+   "short": "HCGMB nr. 53/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2001 PRIVIND ACORDAREA TICHETELOR DE MASA ANGAJATILOR DIN CADRUL APARATULUI PROPRIU AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6037",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6037/h053_01.pdf",
+     "sha256": "af5950991405b2801b1d833cb31f648e1ccb5da7addb23c383ab8c93985b14cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2001",
+   "path": "local/bucuresti/cgmb/2001/54",
+   "short": "HCGMB nr. 54/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2001 PRIVIND AVIZAREA CERERII PENTRU ALOCAREA IN LUNA APRILIE 2001 A UNOR SUME DE LA BUGETUL DE STAT PENTRU SUBVENTIONAREA ENERGIEI TERMICE LIVRATA POPULATIEI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6038",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6038/h054_01.pdf",
+     "sha256": "dcc790863550a16e2285655e68e827361a178287c8e5880f5a0f1b76aebca6b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2001",
+   "path": "local/bucuresti/cgmb/2001/55",
+   "short": "HCGMB nr. 55/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2001 PRIVIND TRANSMITEREA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 2 PE TERMEN DE 49 DE ANI, A UNUI TEREN DESTINAT CONSTRUCTIEI DE LOCUINTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6039",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6039/h055_01.pdf",
+     "sha256": "a35648db9abf5193e461bb3137b15b4d379c8c9c1fcd5f5c09e33511e4f5f2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2001",
+   "path": "local/bucuresti/cgmb/2001/56",
+   "short": "HCGMB nr. 56/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6483",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6483/h056_01.pdf",
+     "sha256": "3ee697a1e453c6e222936c333b72c76e16d1be33bd3d99e6ee82d436d6b0682d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2001",
+   "path": "local/bucuresti/cgmb/2001/57",
+   "short": "HCGMB nr. 57/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6484",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6484/h057_01.pdf",
+     "sha256": "d42259a3c70ad2f2ff49fd97cf8f7c0f3cda259c940f5874de8225ac2e608d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2001",
+   "path": "local/bucuresti/cgmb/2001/58",
+   "short": "HCGMB nr. 58/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2001 PRIVIND MODIFICAREA ART.63.02. DIN PROIECTUL DE BUGET PE ANUL 2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6040",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6040/h058_01.pdf",
+     "sha256": "1a0bf407181406a2ea0845f6ea8c93d39f902bf911678aee41c2afdb656d66ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2001",
+   "path": "local/bucuresti/cgmb/2001/59",
+   "short": "HCGMB nr. 59/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2001 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6485",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6485/h059_01.pdf",
+     "sha256": "03b22fac2507eee295dcf774d749c74ea3d8c004f0ea483d06137b5a64e40ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2001",
+   "path": "local/bucuresti/cgmb/2001/6",
+   "short": "HCGMB nr. 6/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2001 PRIVIND PREALUAREA ACITIVITATII DE SALUBRIZARE IN MUNICIPIUL BUCURESTI DE CATRE CONSILIILE LOCALE ALE SECTOARELOR SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 328/2010 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 207/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6006",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6006/h06_01.pdf",
+     "sha256": "f6556d6801341762e537da684cbe1fa047bb5704377a1efbd1fdc3483d2b1c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2001",
+   "path": "local/bucuresti/cgmb/2001/60",
+   "short": "HCGMB nr. 60/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2001 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU CONSOLIDAREA IMOBILUILUI DIN B-DUL NICOLAE BALCESCU NR. 25 (BLOC \"WILSON\"), SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6812",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6812/h060_01.pdf",
+     "sha256": "a913b37c874fc9b9be5058ac95a327fbd441fe60df137407281c97c9bd8727bf"
     }
    ]
   },
@@ -453,6 +4638,21 @@
    ]
   },
   {
+   "slug": "hcgmb-63-2001",
+   "path": "local/bucuresti/cgmb/2001/63",
+   "short": "HCGMB nr. 63/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2001 PRIVIND TRANSMITEREA UNOR SPATII CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA DIN ADMINISTRAREA PRIMARIEI SECTORULUI 1 IN ADMINISTRAREA C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6488",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6488/h063_01.pdf",
+     "sha256": "b939bb943892ceff1ef40ff88d4a396a334c0f3f0568ab5da5cd11b62b97eba1"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-64-2001",
    "path": "local/bucuresti/cgmb/2001/64",
    "short": "HCGMB nr. 64/2001",
@@ -468,6 +4668,51 @@
    ]
   },
   {
+   "slug": "hcgmb-65-2001",
+   "path": "local/bucuresti/cgmb/2001/65",
+   "short": "HCGMB nr. 65/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6489",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6489/h065_01.pdf",
+     "sha256": "8bc75731611aacb14aa2af38c7abec5aa841e10831bf56a210f339169dbb80f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-2001",
+   "path": "local/bucuresti/cgmb/2001/66",
+   "short": "HCGMB nr. 66/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6490",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6490/h066_01.pdf",
+     "sha256": "19c137f38746b458851467112263404432a1fd3bb2f06969d134ec061190a3ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2001",
+   "path": "local/bucuresti/cgmb/2001/67",
+   "short": "HCGMB nr. 67/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2001 PRIVIND APROBAREA UNOR PLANURI URBANISTICE: CONSTRUCTII DEFINITIVE PE TERENURI AFLATE IN DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6491",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6491/h067_01.pdf",
+     "sha256": "eeb5eccd1df96504f9a3bece7f9223557a5186ddcd32c95252bbb9892699d7c0"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-68-2001",
    "path": "local/bucuresti/cgmb/2001/68",
    "short": "HCGMB nr. 68/2001",
@@ -479,6 +4724,216 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6492/h068_01.pdf",
      "sha256": "0f555a103255c675fe5d38cd3ba4df55f34d9f50a405dc0c6ba960940d07fe6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2001",
+   "path": "local/bucuresti/cgmb/2001/69",
+   "short": "HCGMB nr. 69/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2001 PRIVIND ABROGAREA UNOR HCGMB SI AVIZE ALE COMISIILOR DE SPECIALITATE PENTRU PLANURILE URBANISTICE DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6493",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6493/h069_01.pdf",
+     "sha256": "9d48734febb76b68784aea88c3b03dfdad244e011e03652e714dd9183bfcd20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2001",
+   "path": "local/bucuresti/cgmb/2001/7",
+   "short": "HCGMB nr. 7/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6005",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6005/h07_01.pdf",
+     "sha256": "d4baa29c537294ddbb2196cbac15ecfe2e8184e112e508ed05109bd7815410ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2001",
+   "path": "local/bucuresti/cgmb/2001/70",
+   "short": "HCGMB nr. 70/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2001 PRIVIND APROBAREA UNOR PLANURI URBANISTICE DE DETALIU CONSTRUCTIE DEFINITIVA PE TEREN PROPRIETATEA BISERICII SF. ILIE- RAHOVA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6494",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6494/h070_01.pdf",
+     "sha256": "432e2b90e13383e6101ba4d32bd1a1e8cf3642ceca9cf8b49f61b05e579b48a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2001",
+   "path": "local/bucuresti/cgmb/2001/71",
+   "short": "HCGMB nr. 71/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2001 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU CONSTRUCTIE DEFINITIVA DOMENIU PRIVAT AL STATULUI IN ADMINISTRAREA SPITALULUI \"DR. AL. OBREGIA\" DAT IN FOLOSINTA ARHIEPISCOPIEI BUCURESTILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6495",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6495/h071_01.pdf",
+     "sha256": "7571c1512d6a45f1adb61aa6b338b4848f7e8ecc9242d8d3ebbbd10a72a0d0d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2001",
+   "path": "local/bucuresti/cgmb/2001/72",
+   "short": "HCGMB nr. 72/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2001 PRIVIND AMPLASAREA UNEI STATUI PE UN TEREN AFLAT PE DOMENIUL PRIVAT AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6496",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6496/h072_01.pdf",
+     "sha256": "b8283dead1ffe46e2a30093d0372e96af71841c07ce3618fd3f1c5fb148c75c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2001",
+   "path": "local/bucuresti/cgmb/2001/73",
+   "short": "HCGMB nr. 73/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6497",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6497/h073_01.pdf",
+     "sha256": "84ae299597dabe804d865750eb2a1f78ce08617f7bc4097197cd8e4e9b9d2d33"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2001",
+   "path": "local/bucuresti/cgmb/2001/74",
+   "short": "HCGMB nr. 74/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6498",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6498/h074_01.pdf",
+     "sha256": "2d2e37415ff08b2c523a66f0be09b56b7c5909b8e7da026c2f4e0b51937ce3e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2001",
+   "path": "local/bucuresti/cgmb/2001/75",
+   "short": "HCGMB nr. 75/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6499",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6499/h075_01.pdf",
+     "sha256": "d279eeaab141aad65021ba480d11eb513ec84d2365e6b31d2d5336e50f1f3503"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2001",
+   "path": "local/bucuresti/cgmb/2001/76",
+   "short": "HCGMB nr. 76/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6500",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6500/h076_01.pdf",
+     "sha256": "2c9737a679f3f6722edf139c622eb70396b63a3e26b5caeb292a6bc044dbf829"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2001",
+   "path": "local/bucuresti/cgmb/2001/77",
+   "short": "HCGMB nr. 77/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6501",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6501/h077_01.pdf",
+     "sha256": "04a94344a3fa1000ecc87982d2e6cb345f04d8e11cf3aa24eacdf34805804a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-2001",
+   "path": "local/bucuresti/cgmb/2001/78",
+   "short": "HCGMB nr. 78/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6502",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6502/h078_01.pdf",
+     "sha256": "26813d27d15f77bae3fba73578b00ea187b1412dc03417164a75c1b8b27824b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-2001",
+   "path": "local/bucuresti/cgmb/2001/79",
+   "short": "HCGMB nr. 79/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6503",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6503/h079_01.pdf",
+     "sha256": "d1ed8f9d7f2c5e801c8e45c7514f8c345238afe419331ea37a8ec50da993a336"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2001",
+   "path": "local/bucuresti/cgmb/2001/8",
+   "short": "HCGMB nr. 8/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2001 PRIVIND DECLARAREA UTILITATII PUBLICE DE INTERES LOCAL AL LUCRARII \"REALIZARE RETELE TEHNICO-EDILITARE AFERENTE BLOCULUI V1\" DIN ANSAMBLUL DE LOCUINTE CALEA 13 SEPTEMBRIE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6004",
+   "versions": [
+    {
+     "from": "2001-01-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6004/h08_01.pdf",
+     "sha256": "13805d790e6aa0a940c2a158fe1760655574f5a9f372ad29f4874f9ce523ad1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2001",
+   "path": "local/bucuresti/cgmb/2001/80",
+   "short": "HCGMB nr. 80/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6504",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6504/h080_01.pdf",
+     "sha256": "169f224d60ace36fb6bb1d94e67b6ecf6cbaef5e2bbb7c448a9115cde406239e"
     }
    ]
   },
@@ -509,6 +4964,246 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6506/h082_01.pdf",
      "sha256": "64f3823f0b1f4927b90392080aa7bd53ff20a1683ab49d557444e206e2843389"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2001",
+   "path": "local/bucuresti/cgmb/2001/83",
+   "short": "HCGMB nr. 83/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2001 PRIVIND MAJORITATEA CHIRIILOR AFERENTE, SPATIILOR COMERCIALE DIN PIETELE AGROALIMENTARE DE PE RAZA ADMINISTRATIV- TERITORIALA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6507",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6507/h083_01.pdf",
+     "sha256": "220a4aaf63ca9183ddeb0efbefdfc164525dcb0bd6ce1d2ff69c848fe32bf620"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-2001",
+   "path": "local/bucuresti/cgmb/2001/85",
+   "short": "HCGMB nr. 85/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2001 PRIVIND ATRIBUIREA NUMELUI \"DIMITRIE D. GEROTA\" (1867-1939) CHIRURG SI FILANTROP, UNEI PORTIUNI DIN ACTUALA STRADA JEAN LOUIS CALDERON",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6509",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6509/h085_01.pdf",
+     "sha256": "abe522ed1ef5b1f150aa3195da075421cc459117450aa7445b28582033477780"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2001",
+   "path": "local/bucuresti/cgmb/2001/86",
+   "short": "HCGMB nr. 86/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6510",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6510/h086_01.pdf",
+     "sha256": "20f376ed0a4414ed10e365b9208595e47c1728e875bc1d201bdbee3e4b2f4b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2001",
+   "path": "local/bucuresti/cgmb/2001/87",
+   "short": "HCGMB nr. 87/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6511",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6511/h087_01.pdf",
+     "sha256": "0f95472777263d78a7f5f4c4832dbb633b362c8cab26d34aadce1133d91f234f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2001",
+   "path": "local/bucuresti/cgmb/2001/88",
+   "short": "HCGMB nr. 88/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2001 PRIVIND APROBAREA SUPLIMENTARII CU 100 AUTOBUZE ROCAR U 412",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6512",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6512/h088_01.pdf",
+     "sha256": "cbd98a121dfed09a1b101e8729d26d31eb077d2ae3204a1b7c65bbfd74b44f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2001",
+   "path": "local/bucuresti/cgmb/2001/89",
+   "short": "HCGMB nr. 89/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6513",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6513/h089_01.pdf",
+     "sha256": "1c60f88707f959af6f467964cddf94c0b23bd993174b37ee24c3889708dec910"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2001",
+   "path": "local/bucuresti/cgmb/2001/90",
+   "short": "HCGMB nr. 90/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2001 PRIVIND ALOCAREA DE LA BUGETUL LOCAL A SUMELOR NECESARE PENTRU PLATA POSTURILOR TELEGONICE UTILIZATE DE CATRE SECRETARIATUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6523",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6523/h090_01.pdf",
+     "sha256": "801430fb3e12fbf26db4039b089487656b1b9c3c56171399d8f48689899b6ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2001",
+   "path": "local/bucuresti/cgmb/2001/91",
+   "short": "HCGMB nr. 91/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2001 PRIVIND VACANTAREA A DOUA LOCURI DE CONSILIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6524",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6524/h091_01.pdf",
+     "sha256": "35d5b1dba0a6e61174f4d674b2981ffc8c24201d37d5190c0d06c4f6baf599e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2001",
+   "path": "local/bucuresti/cgmb/2001/92",
+   "short": "HCGMB nr. 92/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2001",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6525",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6525/h092_01.pdf",
+     "sha256": "136e9e7ff4897b6b2551ab4de3b155cb20e5a39be1262fd597c93aaf8041b835"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2001",
+   "path": "local/bucuresti/cgmb/2001/93",
+   "short": "HCGMB nr. 93/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95, LIT.\"D\" SE ANULEAZA HOTARAREA 93 DIN 29.05.2001 PRIN SENTINTA CIVILA NR. 331/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6526",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6526/h093_01.pdf",
+     "sha256": "2476f0eba14b9a313abd251e3dedbf19e1dddae813d7594707c3d4c73490de60"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2001",
+   "path": "local/bucuresti/cgmb/2001/94",
+   "short": "HCGMB nr. 94/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95 LIT.\"C\" SE ANULEAZA HOTARAREA 94 DIN 29.05.2001 PRIN SENTINTA CIVILA NR. 332/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6527",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6527/h094_01.pdf",
+     "sha256": "e19e02378188c76b0523a72ad5e108dafccb8902c1a3166b070bae69471c6473"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2001",
+   "path": "local/bucuresti/cgmb/2001/95",
+   "short": "HCGMB nr. 95/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95, LIT.\"P\" SE ANULEAZA HOTARAREA 95 DIN 29.05.2001 PRIN SENTINTA CIVILA NR. 333/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6528",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6528/h095_01.pdf",
+     "sha256": "b5b3a60958c7576488fb554a724814f7cb06deefbd2088769e925bfe16e9c8f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2001",
+   "path": "local/bucuresti/cgmb/2001/96",
+   "short": "HCGMB nr. 96/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95 LIT.\"Q\" SE ANULEAZA HOTARAREA 96 DIN 29.05.2001 PRIN SENTINTA CIVILA NR. 334/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6529",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6529/h096_01.pdf",
+     "sha256": "f361d9a55b1f245643a548a45e1ac2fb56c865090071122dbb8efed7bd99b00e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2001",
+   "path": "local/bucuresti/cgmb/2001/97",
+   "short": "HCGMB nr. 97/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95 LIT.\"E\" SE ANULEAZA HOTARAREA 97 DIN 29.05 2001 PRIN SENTINTA CIVILA NR. 335/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6530",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6530/h097_01.pdf",
+     "sha256": "e1dfdec66394f034126c26300c2d643eb48acd4a3c0c46e84695f87be4a0502e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2001",
+   "path": "local/bucuresti/cgmb/2001/98",
+   "short": "HCGMB nr. 98/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95 LIT.\"G\" SE ANULEAZA HOTARAREA 98 DIN 29.05.2001 PRIN SENTINTA CIVILA NR. 336/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6531",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6531/h098_01.pdf",
+     "sha256": "379e2d8ea643b54d1fca9abd0af615c7d735824cd2bde59d9189bd720f4abc89"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2001",
+   "path": "local/bucuresti/cgmb/2001/99",
+   "short": "HCGMB nr. 99/2001",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2001 PRIVIND APROBAREA EXERCITARII DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A ATRIBUTIILOR STABILITE PRIN ART. 95 LIT.\"H\" SE ANULEAZA HOTARAREA 99 DIN 29.05.2001 PRIN SENTINTA CIVILA NR.337/F IN SEDINTA PUBLICA DIN 18.10.2001 CONFORM ADRESEI NR. 3457/20.12.2001 A DIRECTIEI ADMINISTRATIE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6532",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2001/6532/h099_01.pdf",
+     "sha256": "e5b66fe2c59e8f2230d62bf84fb58fc8c5b3f1ebba175667bdf6f471a5e5865f"
     }
    ]
   }

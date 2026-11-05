@@ -2,7 +2,7 @@
 
 Norma csspp nr. 4/2009 · 1 versions, from 2009-05-01 (latest in force: 2009-05-01) · <https://legislatie.just.ro/Public/DetaliiDocument/102318>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 la normă ┌──────────────────────────────────────────────────────────────────────────────┬──────────────────────────────────────────────────┐ │CURRICULUM ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 la normă): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -70,4 +70,4 @@ Act id: `norma-csspp-4-2009` (tags `norma-csspp-4-2009/<day>`; `python tools/on.
 - Norma csspp nr. 4/2009: Anexa nr. 3 (3 la normă CHESTIONAR pentru persoana responsabilă cu investirea din cadrul societății administrator de pensii facultative Acest chestionar va fi completat de către persoana propusă ca persoană respon) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 102318 of the official web service.
 - Norma csspp nr. 4/2009: Anexa nr. 4 (4 la normă DECLARAȚIA Nr. 1 privind afilierea Declarația se întocmește potrivit acestui model. Nu sunt acceptate declarațiile semnate prin reprezentare. Subsemnatul,...................................) is part of the norm and is published in its folder, anexa-4/ (paragraphs), from document 102318 of the official web service.
 - Norma csspp nr. 4/2009: Anexa nr. 5 (5 la normă DECLARAȚIA Nr. 2 privind deținerile reprezentând cel puțin 5% din capitalul social sau din drepturile de vot ale unei societăți Declarația se întocmește potrivit acestui model. Nu sunt acce) is part of the norm and is published in its folder, anexa-5/ (paragraphs), from document 102318 of the official web service.
-- Norma csspp nr. 4/2009: Anexa nr. 2 (2 la normă ┌──────────────────────────────────────────────────────────────────────────────┬──────────────────────────────────────────────────┐ │CURRICULUM ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma csspp nr. 4/2009: Anexa nr. 2 (2 la normă) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3194/2011 · 1 versions, from 2011-10-03 (latest in force: 2011-10-03) · <https://legislatie.just.ro/Public/DetaliiDocument/131896>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ │ │ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,4 +30,4 @@ Act id: `ordin-anaf-3194-2011` (tags `ordin-anaf-3194-2011/<day>`; `python tools
 - Ordin anaf nr. 3194/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3194/2011: Anexa nr. 2 (2 Instrucțiuni de completare a formularului (307) "Declarație privind sumele rezultate din ajustarea taxei pe valoarea adăugată, în situația în care beneficiarul transferului de active sau locatarul/u) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 131896 of the official web service.
 - Ordin anaf nr. 3194/2011: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare ale formularului (307) "Declarație privind sumele rezultate din ajustarea taxei pe valoarea adăugată, în situația în care) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 131896 of the official web service.
-- Ordin anaf nr. 3194/2011: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ │ │ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3194/2011: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

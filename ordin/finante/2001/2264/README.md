@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2264/2001 · 1 versions, from 2002-02-21 (latest in force: 2002-02-21) · <https://legislatie.just.ro/Public/DetaliiDocument/34173>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 FACTURA FISCALĂ (cod MOBIL 14-4-10/bA) ┌─────────────────┐ │ │ Seria și numărul facturii xxxx xxxxxxxx │ Brand │ │ Name │ │ Here │ Data facturii xxxx ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 FACTURA FISCALĂ (cod MOBIL 14-4-10/bA)): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-finante-2264-2001` (tags `ordin-finante-2264-2001/<day>`; `python
 - Ordin finante nr. 2264/2001: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2264/2001: Anexa nr. 1 (1 Furnizor: Societatea Naționala Cumpărător....................... a Petrolului "Petrom" - S.A................................... București Sucursala Petrotrans Ploiesti Nr. de înmatriculare în regist) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 34173 of the official web service.
 - Ordin finante nr. 2264/2001: Anexa nr. 3 (3 AVIZ (CERTIFICAT) DE LIVRARE) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 34173 of the official web service.
-- Ordin finante nr. 2264/2001: Anexa nr. 2 (2 FACTURA FISCALĂ (cod MOBIL 14-4-10/bA) ┌─────────────────┐ │ │ Seria și numărul facturii xxxx xxxxxxxx │ Brand │ │ Name │ │ Here │ Data facturii xxxx ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2264/2001: Anexa nr. 2 (2 FACTURA FISCALĂ (cod MOBIL 14-4-10/bA)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

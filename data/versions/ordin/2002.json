@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-185-2002",
+   "path": "ordin/agricultura/2002/185",
+   "short": "Ordin agricultura nr. 185/2002",
+   "title": "Ordinul nr. 185/2002 privind protejarea patrimoniului pomicol și viticol cu soiuri nobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36842",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36842",
+     "sha256": "bd97ed8db8ed3bfa04510a661af3b8bf6fd5855cb6b23991e91d64180982aa75"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-192-2002",
    "path": "ordin/agricultura/2002/192",
    "short": "Ordin agricultura nr. 192/2002",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-201-2002",
+   "path": "ordin/agricultura/2002/201",
+   "short": "Ordin agricultura nr. 201/2002",
+   "title": "Ordinul nr. 201/2002 privind redarea în circuitul agricol a terenurilor aferente construcțiilor agrozootehnice demolate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36187",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36187",
+     "sha256": "eea89f5984664b3869a5b36dba5c67f7861f2389a81c282d4eceb36dd574be5d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-206-2002",
    "path": "ordin/agricultura/2002/206",
    "short": "Ordin agricultura nr. 206/2002",
@@ -59,6 +89,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38541",
      "sha256": "a3897e0d9368086c424072feed993092a98bc02174708dba50f373b877b5789d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-212-2002",
+   "path": "ordin/agricultura/2002/212",
+   "short": "Ordin agricultura nr. 212/2002",
+   "title": "Ordinul nr. 212/2002 pentru aprobarea Normelor tehnice de întocmire a proiectelor de organizare a teritoriului exploatațiilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38610",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38610",
+     "sha256": "c5a62fcde2c654ce87822ecdf67e1d1e51c336b12d3def7482380700808b1b2f"
     }
    ]
   },
@@ -134,6 +179,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38500",
      "sha256": "feea91f874bf74c6448190fe95d559e71dc8819aad5c63b46d7efd510b602c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-292-2002",
+   "path": "ordin/agricultura/2002/292",
+   "short": "Ordin agricultura nr. 292/2002",
+   "title": "Ordinul nr. 292/2002 pentru aprobarea Normelor metodologice privind constituirea și utilizarea Fondului de ameliorare a fondului funciar cu destinație silvică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38916",
+   "versions": [
+    {
+     "from": "2002-10-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38916",
+     "sha256": "bf3131c5df6b65d11a1cca686ac8e6ac58bab3f2f5ee60bea331baa8ef4b140f"
     }
    ]
   },
@@ -1248,6 +1308,231 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1019-2002",
+   "path": "ordin/dezvoltare/2002/1019",
+   "short": "Ordin dezvoltare nr. 1019/2002",
+   "title": "Ordinul nr. 1.019/2002 pentru aprobarea Reglementării aeronautice civile române privind alocarea sloturilor pe aeroporturile din România - RACR-ASAP",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38562",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38562",
+     "sha256": "659035b272db0ad323583c5f496ffdfa3f5a39b3a0ceac96c9030f0e2d945eb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1105-2002",
+   "path": "ordin/dezvoltare/2002/1105",
+   "short": "Ordin dezvoltare nr. 1105/2002",
+   "title": "Ordinul nr. 1.105/2002 pentru încadrarea vehiculelor rutiere care efectuează transporturi internaționale de mărfuri în categorii de poluare și de siguranță a circulației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38502",
+   "versions": [
+    {
+     "from": "2002-09-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38502",
+     "sha256": "43eb099704b08552eb488c307bc2b48874e5cd5ac840efc9c340f62d5c1815aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-118-2002",
+   "path": "ordin/dezvoltare/2002/118",
+   "short": "Ordin dezvoltare nr. 118/2002",
+   "title": "Ordinul nr. 118/2002 pentru modificarea pct. 3.4.15 din Normele tehnice privind proiectarea și amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor, pe poduri, pasaje, viaducte și tuneluri rutiere, aprobate prin Ordinul ministrului transporturilor nr. 571/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34060",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34060",
+     "sha256": "d1df3d1df629ef1eae63e792e1a53a165c68b20993ee9cb7a2975ded1ae0c509"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1187-2002",
+   "path": "ordin/dezvoltare/2002/1187",
+   "short": "Ordin dezvoltare nr. 1187/2002",
+   "title": "Ordinul nr. 1.187/2002 pentru modificarea și completarea Normelor metodologice de autorizare și efectuare a transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.842/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38479",
+   "versions": [
+    {
+     "from": "2002-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38479",
+     "sha256": "13d0b211c2567cf9dfcd142c17502898fd5ce6d974de1ed3201f1266ffb28e8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1219-2002",
+   "path": "ordin/dezvoltare/2002/1219",
+   "short": "Ordin dezvoltare nr. 1219/2002",
+   "title": "Ordinul nr. 1.219/2002 privind certificarea unor categorii de tehnică aeronautica și autorizarea Aeroclubului României pentru atestarea unor categorii de personal aeronautic civil navigant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38930",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38930",
+     "sha256": "fa2875bc36bd2e0b3d9b312d36e14047ef9ec06c2cca7a23153c9ba035ff9279"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1234-2002",
+   "path": "ordin/dezvoltare/2002/1234",
+   "short": "Ordin dezvoltare nr. 1234/2002",
+   "title": "Ordinul nr. 1.234/2002 pentru aprobarea Proiectului de modernizare a sistemului ATM din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54064",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54064",
+     "sha256": "1512708a388ca88622d573035bd43ac73c618fff85cc322c332e8514cf81228a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-127-2002",
+   "path": "ordin/dezvoltare/2002/127",
+   "short": "Ordin dezvoltare nr. 127/2002",
+   "title": "Ordinul nr. 127/2002 ORDIN nr. 127/202/2002 pentru aprobarea Normelor metodologice privind gestionarea Fondului de ameliorare a fondului funciar, constituit potrivit anexei nr. 1 la Legea fondului funciar nr. 18/1991, republicată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36279",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36279",
+     "sha256": "af98993bf8a672f81a34f986a21c2322222d8bf23436fde7e2426bb874ecf11b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1280-2002",
+   "path": "ordin/dezvoltare/2002/1280",
+   "short": "Ordin dezvoltare nr. 1280/2002",
+   "title": "Ordinul nr. 1.280/2002 privind aprobarea Reglementării Aeronautice Civile Române RACR-31/Baloane libere pilotate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38655",
+   "versions": [
+    {
+     "from": "2002-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38655",
+     "sha256": "595698e8e8a6aa0bacdff6acd703de077bda6d87e1708570f6a65be2c0f1b81a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1283-2002",
+   "path": "ordin/dezvoltare/2002/1283",
+   "short": "Ordin dezvoltare nr. 1283/2002",
+   "title": "Ordinul nr. 1.283/2002 pentru aprobarea Reglementării aeronautice civile române RACR-LPAN2/Licențierea personalului aeronautic navigant (piloți planoare/piloți baloane libere)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38632",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38632",
+     "sha256": "7b9bc52b8f97afe92d4b1f90e0b32019c72d40f192030f2b17ab81c1c4b5c482"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1322-2002",
+   "path": "ordin/dezvoltare/2002/1322",
+   "short": "Ordin dezvoltare nr. 1322/2002",
+   "title": "Ordinul nr. 1.322/2002 privind utilizarea tarifului de securitate aeroportuara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38663",
+   "versions": [
+    {
+     "from": "2002-10-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38663",
+     "sha256": "1cee58b40f0160eb6ad0dfe8eb18aa08fd0de0feac54f788c5bbcfdca289f1db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1346-2002",
+   "path": "ordin/dezvoltare/2002/1346",
+   "short": "Ordin dezvoltare nr. 1346/2002",
+   "title": "Ordinul nr. 1.346/2002 pentru aprobarea Ediției 2/2002 a Reglementării aeronautice civile române privind înmatricularea aeronavelor civile/RACR - 47",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38923",
+   "versions": [
+    {
+     "from": "2002-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38923",
+     "sha256": "d2caa51c7ed55942b381de147140d58e4c00ba09afd134cc9c3091fe94bcbaf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1399-2002",
+   "path": "ordin/dezvoltare/2002/1399",
+   "short": "Ordin dezvoltare nr. 1399/2002",
+   "title": "Ordinul nr. 1.399/2002 pentru modificarea Ordinului ministrului transporturilor nr. 922/2000 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul de Perfecționare a Personalului din Marina Civilă și Calificare Personal pentru Exploatare Portuara Constanța, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38771",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38771",
+     "sha256": "1f30f0d6edd80d282238bbcfba60755b2e5849213cc91fb6f6759e3b6ae42e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1416-2002",
+   "path": "ordin/dezvoltare/2002/1416",
+   "short": "Ordin dezvoltare nr. 1416/2002",
+   "title": "Ordinul nr. 1.416/2002 pentru aprobarea Reglementării Aeronautice Civile Române - RACR-PNPSA Programul național de pregătire în domeniul securității aeronautice, ediția 01/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38773",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38773",
+     "sha256": "0697aee05b1c9fe303e063fde0df434411531592686bd720982d162481f54c9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1431-2002",
+   "path": "ordin/dezvoltare/2002/1431",
+   "short": "Ordin dezvoltare nr. 1431/2002",
+   "title": "Ordinul nr. 1.431/2002 pentru aprobarea Instrucțiunilor privind acordarea licențelor de lucru și a permiselor de acces în zonele libere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40367",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40367",
+     "sha256": "147f7b8bcdf16fcf642a562e07ef9c5869ed4e0152a6ee45c765a9b63566b954"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1433-2002",
+   "path": "ordin/dezvoltare/2002/1433",
+   "short": "Ordin dezvoltare nr. 1433/2002",
+   "title": "Ordinul nr. 1.433/2002 privind aprobarea Normelor metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39845",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39845",
+     "sha256": "619038f8e295edf1a85bf7ab8f787b11fa3387b5542139838e49cbd8da186638"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1434-2002",
    "path": "ordin/dezvoltare/2002/1434",
    "short": "Ordin dezvoltare nr. 1434/2002",
@@ -1263,6 +1548,201 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1767-2002",
+   "path": "ordin/dezvoltare/2002/1767",
+   "short": "Ordin dezvoltare nr. 1767/2002",
+   "title": "Ordinul nr. 1.767/2002 privind obligativitatea introducerii sistemului constructiv cu plăci elastice sau rigide la trecerile la nivel cu liniile de cale ferată amplasate pe coridoarele feroviare paneuropene, pe căile ferate programate la reparații capitale și la intersecțiile căilor ferate cu drumuri publice programate la reabilitări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39603",
+   "versions": [
+    {
+     "from": "2002-10-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39603",
+     "sha256": "84803768f311301cd0e30c30b99007e9c25c1f35439b252af3e6ac188eca84bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1835-2002",
+   "path": "ordin/dezvoltare/2002/1835",
+   "short": "Ordin dezvoltare nr. 1835/2002",
+   "title": "Ordinul nr. 1.835/2002 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40017",
+   "versions": [
+    {
+     "from": "2002-11-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40017",
+     "sha256": "5dc7e50316d62dac1cd25bfeca0a0ef8b4e32ca18d3a5d98acdce9359471c0f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1850-2002",
+   "path": "ordin/dezvoltare/2002/1850",
+   "short": "Ordin dezvoltare nr. 1850/2002",
+   "title": "Ordinul nr. 1.850/2002 pentru aprobarea reglementării tehnice \"Metodologie privind atestarea auditorilor energetici pentru clădiri\", indicativ MP 017-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39997",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39997",
+     "sha256": "4d8c01f25c1f2d1f74383e5eb1b8c9be74bd64ddf42264ed7885e0c66333af82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1851-2002",
+   "path": "ordin/dezvoltare/2002/1851",
+   "short": "Ordin dezvoltare nr. 1851/2002",
+   "title": "Ordinul nr. 1.851/2002 privind aprobarea Instrucțiunilor pentru predarea-primirea vagoanelor și modul de recuperare a lipsurilor și degradărilor constatate la acestea - nr. 271",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40205",
+   "versions": [
+    {
+     "from": "2002-11-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40205",
+     "sha256": "2ea2303f363a02a539efaaeffe0c02e74814e88293918a54547eed5841cbdbe2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1867-2002",
+   "path": "ordin/dezvoltare/2002/1867",
+   "short": "Ordin dezvoltare nr. 1867/2002",
+   "title": "Ordinul nr. 1.867/2002 pentru abrogarea art. 6 din Ordinul ministrului transporturilor nr. 595/2000 pentru aprobarea Normelor metodologice de autorizare a agenților economici care prestează servicii în porturi, pe cai și canale navigabile, cu modificările ulterioare, și a alin. (2) al art. 2 din normele metodologice prevăzute în anexa la Ordinul ministrului transporturilor nr. 595/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40035",
+   "versions": [
+    {
+     "from": "2002-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40035",
+     "sha256": "ef3f357006c482a9754c0cb81c8f4c90cf2d13902b1ff0575d84de92a4521b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1896-2002",
+   "path": "ordin/dezvoltare/2002/1896",
+   "short": "Ordin dezvoltare nr. 1896/2002",
+   "title": "Ordinul nr. 1.896/2002 privind constatarea contravențiilor și aplicarea sancțiunilor prevăzute la art. 8 din Ordonanța Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a rețelei de drumuri naționale din România, aprobată cu modificări și completări prin Legea nr. 424/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40218",
+   "versions": [
+    {
+     "from": "2002-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40218",
+     "sha256": "636a0a9941d7f514eef7c8aa74f06dd71017316a8e2cb4f7feaa4b52b69f5534"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1902-2002",
+   "path": "ordin/dezvoltare/2002/1902",
+   "short": "Ordin dezvoltare nr. 1902/2002",
+   "title": "Ordinul nr. 1.902/2002 pentru aprobarea formei și conținutului certificatelor eliberate de Autoritatea Navală Română privind aplicarea unor convenții internaționale și coduri la care România este parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40428",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40428",
+     "sha256": "0b8b1511e777b3175d6e8579a39693c0bab3995cd9ae75e908a697bf923ac64d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1908-2002",
+   "path": "ordin/dezvoltare/2002/1908",
+   "short": "Ordin dezvoltare nr. 1908/2002",
+   "title": "Ordinul nr. 1.908/2002 pentru aprobarea Metodologiei de eliberare a carnetelor de lucru în port și de înregistrare a muncitorilor portuari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40443",
+   "versions": [
+    {
+     "from": "2003-01-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40443",
+     "sha256": "b114fb58994ec5e5fdb52d6479a812dde782128b20119935b8a6b78157351798"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1959-2002",
+   "path": "ordin/dezvoltare/2002/1959",
+   "short": "Ordin dezvoltare nr. 1959/2002",
+   "title": "Ordinul nr. 1.959/2002 pentru modificarea limitelor maselor și dimensiunilor maxime admise, prevăzute de Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40743",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40743",
+     "sha256": "645939f52d898800760907bd16fb902cb91d10918c8528c6fdc9a505280bf3ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1975-2002",
+   "path": "ordin/dezvoltare/2002/1975",
+   "short": "Ordin dezvoltare nr. 1975/2002",
+   "title": "Ordinul nr. 1.975/2002 pentru completarea Regulamentului de organizare și funcționare a Inspectoratului de Stat în Construcții - I.S.C., aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.398/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40679",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40679",
+     "sha256": "213a958a8ae9f2763dcb97457840e3dd4d84a7bc8d120e2614468f1e175369ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1981-2002",
+   "path": "ordin/dezvoltare/2002/1981",
+   "short": "Ordin dezvoltare nr. 1981/2002",
+   "title": "Ordinul nr. 1.981/2002 pentru aprobarea tarifelor suplimentare de utilizare a drumurilor naționale, aplicabile transporturilor efectuate cu vehicule înmatriculate în România și în alte state, care depășesc masa totală maxima admisă, masa maxima admisă pe osie și/sau dimensiunile maxime de gabarit admise în circulație pe drumurile naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40837",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40837",
+     "sha256": "1848519449491ba4338bc977ee50f6fc7f8319f88b2a8cd55ad829d3960a0908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2026-2002",
+   "path": "ordin/dezvoltare/2002/2026",
+   "short": "Ordin dezvoltare nr. 2026/2002",
+   "title": "Ordinul nr. 2.026/2002 pentru aprobarea Părții a II-a - \"Norme de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere\" - din Normele de autorizare a funcționarii centrelor de pregătire a personalului din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41915",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41915",
+     "sha256": "dc650cdb54c4009be7d119a571d093b4d0c2692b73d4d3ab44738dd79c38f525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2027-2002",
+   "path": "ordin/dezvoltare/2002/2027",
+   "short": "Ordin dezvoltare nr. 2027/2002",
+   "title": "Ordinul nr. 2.027/2002 pentru aprobarea Reglementării aeronautice civile române RACR-AUU/Aeronave ultraușoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41853",
+   "versions": [
+    {
+     "from": "2003-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41853",
+     "sha256": "d08123c8926350ba0489f3adf503936df862e18c3939891632406dbcf6755eaf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-238-2002",
    "path": "ordin/dezvoltare/2002/238",
    "short": "Ordin dezvoltare nr. 238/2002",
@@ -1274,6 +1754,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34456",
      "sha256": "4c6a5e32cd5ba76635ea95283b822b41830020fb353b7719aaf2155e10f80887"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-264-2002",
+   "path": "ordin/dezvoltare/2002/264",
+   "short": "Ordin dezvoltare nr. 264/2002",
+   "title": "Ordinul nr. 264/2002 privind aprobarea Instrucțiunilor de acordare și anulare a titlului de parc industrial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38455",
+   "versions": [
+    {
+     "from": "2002-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38455",
+     "sha256": "1bdb8edc8446d6ae20e730592e3a0b73a2edd19669907c0d68646d96943d957d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-270-2002",
+   "path": "ordin/dezvoltare/2002/270",
+   "short": "Ordin dezvoltare nr. 270/2002",
+   "title": "Ordinul nr. 270/2002 pentru aprobarea Procedurilor de implementare a Programului \"Parcuri industriale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39012",
+   "versions": [
+    {
+     "from": "2002-10-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39012",
+     "sha256": "7b3a222e11d9f5a9f690d17573fa65305e2f8a0179d5662c351d98cfdb3bae47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-378-2002",
+   "path": "ordin/dezvoltare/2002/378",
+   "short": "Ordin dezvoltare nr. 378/2002",
+   "title": "Ordinul nr. 378/2002 pentru desemnarea persoanelor împuternicite să constate contravențiile și să aplice sancțiunile prevăzute de Ordonanța Guvernului nr. 21/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43230",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43230",
+     "sha256": "275291f7a94f08e8cf604fda1df875c60d382d5723d39608319755e896f980cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-381-2002",
+   "path": "ordin/dezvoltare/2002/381",
+   "short": "Ordin dezvoltare nr. 381/2002",
+   "title": "Ordinul nr. 381/2002 privind aprobarea Regulamentului de organizare și funcționare a Comitetului interministerial pentru programe și mari obiective de investiții de importanța naționala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40510",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40510",
+     "sha256": "b86109bdb33e87c97ac7fa433df027bd65e0684618ea2ea21f00536b79eb6ce7"
     }
    ]
   },
@@ -1308,6 +1848,111 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-41-2002",
+   "path": "ordin/dezvoltare/2002/41",
+   "short": "Ordin dezvoltare nr. 41/2002",
+   "title": "Ordinul nr. 41/2002 pentru aprobarea listelor cuprinzând drumurile publice cu limitele maselor maxime admise pentru vehicule de transport marfa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33939",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33939",
+     "sha256": "f94c4620c2aaf75dc7a6145435c7870071d7cd376adfb7a8ddba18fcdf3bd449"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-417-2002",
+   "path": "ordin/dezvoltare/2002/417",
+   "short": "Ordin dezvoltare nr. 417/2002",
+   "title": "Ordinul nr. 417/2002 pentru aprobarea Regulamentului privind obținerea certificatelor internaționale de conducător de ambarcațiune de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35852",
+   "versions": [
+    {
+     "from": "2002-05-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35852",
+     "sha256": "ef2123c4844a6d07b90a68945247eefdd2adedb91c313b473ecb0422a74a1106"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-44-2002",
+   "path": "ordin/dezvoltare/2002/44",
+   "short": "Ordin dezvoltare nr. 44/2002",
+   "title": "Ordinul nr. 44/2002 privind aprobarea aplicării Reglementării europene JAR-1/Definiții și abrevieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33766",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33766",
+     "sha256": "6e2076a6001890596059ba1fca3e160689eccab39718eb97ad9877dcbf3b2b62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-458-2002",
+   "path": "ordin/dezvoltare/2002/458",
+   "short": "Ordin dezvoltare nr. 458/2002",
+   "title": "Ordinul nr. 458/2002 pentru aprobarea Normelor metodologice privind clasificarea pe categorii a autobuzelor și microbuzelor utilizate pentru transporturi publice de persoane prin servicii regulate în trafic național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38411",
+   "versions": [
+    {
+     "from": "2002-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38411",
+     "sha256": "c2a86c6b3e78de0b33791760776af4864b73f35e3217251dcb69bbe5dc205c1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-4703-2002",
+   "path": "ordin/dezvoltare/2002/4703",
+   "short": "Ordin dezvoltare nr. 4703/2002",
+   "title": "Ordinul nr. 4.703/2002 privind intensificarea activităților de ordine publică și creșterea siguranței civice în zona unităților de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40398",
+   "versions": [
+    {
+     "from": "2002-12-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40398",
+     "sha256": "6b4ddc2599309c15809ecc8c6981d94840d8ba791b3d91be566e3ab20c1c6756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-488-2002",
+   "path": "ordin/dezvoltare/2002/488",
+   "short": "Ordin dezvoltare nr. 488/2002",
+   "title": "Ordinul nr. 488/2002 privind aprobarea Procedurii de autorizare a inspectorilor de șantier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35377",
+   "versions": [
+    {
+     "from": "2002-04-19",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35377",
+     "sha256": "c69677e20a1a9e30cf8817397c644198699f2d6b55ee1c4920abbd302bb63611"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-52-2002",
+   "path": "ordin/dezvoltare/2002/52",
+   "short": "Ordin dezvoltare nr. 52/2002",
+   "title": "Ordinul nr. 52/2002 pentru modificarea Instrucțiunilor de acordare a titlului de parc industrial, aprobate prin Ordinul ministrului dezvoltării și prognozei nr. 305/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34294",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34294",
+     "sha256": "a4fe1cadd29b78b243f28a1b07ff1b4a591ca4fe9a01b5f443303287a9e23c3a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-58-2002",
    "path": "ordin/dezvoltare/2002/58",
    "short": "Ordin dezvoltare nr. 58/2002",
@@ -1323,6 +1968,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-61-2002",
+   "path": "ordin/dezvoltare/2002/61",
+   "short": "Ordin dezvoltare nr. 61/2002",
+   "title": "Ordinul nr. 61/2002 pentru aprobarea Normelor metodologice privind procedurile de avizare, contractare, plata și desemnare a persoanelor fizice sau juridice autorizate să execute documentații tehnice necesare realizării cărții funciare și publicității imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35255",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35255",
+     "sha256": "c0e3849b10580301add75af5e2982d403446026849471b291d6e13ee2201f8b8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-649-2002",
    "path": "ordin/dezvoltare/2002/649",
    "short": "Ordin dezvoltare nr. 649/2002",
@@ -1334,6 +1994,171 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38366",
      "sha256": "de4c522e6dcd5c30176ea4fddacbab2b8335b5b7115e4ec82a603bf55292b4a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-658-2002",
+   "path": "ordin/dezvoltare/2002/658",
+   "short": "Ordin dezvoltare nr. 658/2002",
+   "title": "Ordinul nr. 658/2002 privind exercitarea controlului respectării reglementărilor din domeniul transporturilor rutiere, precum și constatarea și sancționarea contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37331",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37331",
+     "sha256": "d417547cecd40a9d67fafa5cb2c9cbb5e0e1bd816924170134fe534aa39e7d9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-669-2002",
+   "path": "ordin/dezvoltare/2002/669",
+   "short": "Ordin dezvoltare nr. 669/2002",
+   "title": "Ordinul nr. 669/2002 pentru aprobarea tarifelor privind prestațiile de servicii specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36555",
+   "versions": [
+    {
+     "from": "2002-06-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36555",
+     "sha256": "6403d4695645eb4bb4749077109266fea30fc694b898da754abc3cac8f8c8aea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-678-2002",
+   "path": "ordin/dezvoltare/2002/678",
+   "short": "Ordin dezvoltare nr. 678/2002",
+   "title": "Ordinul nr. 678/2002 pentru aprobarea Instrucțiunilor privind examinarea medicală și psihologică a personalului din transporturi cu responsabilități în siguranța circulației și a navigației, precum și organizarea, funcționarea și componenta comisiilor medicale și psihologice de siguranță circulației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40181",
+   "versions": [
+    {
+     "from": "2002-12-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40181",
+     "sha256": "9aaef22cc450cb760250c009d471151f0e63d2092820c1c4c88163bb64d24bc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-703-2002",
+   "path": "ordin/dezvoltare/2002/703",
+   "short": "Ordin dezvoltare nr. 703/2002",
+   "title": "Ordinul nr. 703/2002 pentru modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului transporturilor nr. 777/1999 privind aprobarea tarifelor pentru prestații și servicii efectuate de Inspectoratul Navigației Civile - I.N.C. și de căpităniile de port din subordine la navele sub pavilion român și străin în porturile din România, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36192",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36192",
+     "sha256": "f874bd0c67cdbc3e87191321ad303dfcddcfb9560847629ca59fd9b7bf8a8f3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-756-2002",
+   "path": "ordin/dezvoltare/2002/756",
+   "short": "Ordin dezvoltare nr. 756/2002",
+   "title": "Ordinul nr. 756/2002 privind înlocuirea anexei \"Reglementări privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică - RNTR 1\" la Ordinul ministrului transporturilor nr. 353/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38045",
+   "versions": [
+    {
+     "from": "2002-08-15",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38045",
+     "sha256": "93b8feeee5bb74cdcd280abcf0b4e6afe9d8263c24576fca6a6c57ceb15950dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-779-2002",
+   "path": "ordin/dezvoltare/2002/779",
+   "short": "Ordin dezvoltare nr. 779/2002",
+   "title": "Ordinul nr. 779/2002 privind instalațiile de recepție portuare pentru deșeurile generate de nava și reziduurile mărfii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40261",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40261",
+     "sha256": "b8b8d3c7f389fbbcf179ec45b6e3c71f72cac5a161855236a4feb2e991f7e166"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-788-2002",
+   "path": "ordin/dezvoltare/2002/788",
+   "short": "Ordin dezvoltare nr. 788/2002",
+   "title": "Ordinul nr. 788/2002 pentru aprobarea Normelor metodologice privind executarea lucrărilor de cadastru de specialitate al căilor ferate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40671",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40671",
+     "sha256": "f6a2149b5f0793ff7a7cdd62f921a0b3433be036ea3eb21afa37dd71a1d8b093"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-8-2002",
+   "path": "ordin/dezvoltare/2002/8",
+   "short": "Ordin dezvoltare nr. 8/2002",
+   "title": "Ordinul nr. 8/2002 pentru aprobarea Criteriilor de performanță pe baza cărora se face evaluarea performantelor profesionale individuale ale funcționarilor publici pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33794",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33794",
+     "sha256": "ed24fb499deee3c32f5aa945c4d70d130b88bf520c7c4437d28b9fde39ae2f24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-852-2002",
+   "path": "ordin/dezvoltare/2002/852",
+   "short": "Ordin dezvoltare nr. 852/2002",
+   "title": "Ordinul nr. 852/2002 privind aprobarea Normelor metodologice pentru organizarea și efectuarea activităților de control de către echipajele mixte de control al traficului rutier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37902",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37902",
+     "sha256": "12238c1e562f6f45dbe5e5187cd4640c8a362a653e737cba2f15b6c459d8ea04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-923-2002",
+   "path": "ordin/dezvoltare/2002/923",
+   "short": "Ordin dezvoltare nr. 923/2002",
+   "title": "Ordinul nr. 923/2002 pentru aprobarea modelului și conținutului certificatului de ambarcațiune de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37914",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37914",
+     "sha256": "33fb9ae1ccce963535301e029b480883fce3c83d3c429b160037a756af9b8fc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-955-2002",
+   "path": "ordin/dezvoltare/2002/955",
+   "short": "Ordin dezvoltare nr. 955/2002",
+   "title": "Ordinul nr. 955/2002 privind aprobarea Normelor metodologice pentru punerea în aplicare a Ordonanței de urgență a Guvernului nr. 73/2002 pentru asigurarea fondurilor necesare elaborării proiectelor aferente Programului SAPARD, Măsura 2.1 \"Dezvoltarea și îmbunătățirea infrastructurii rurale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37554",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37554",
+     "sha256": "6d82e777d449816e46082a18c2767a2f3d1f9aa6c85070abc85296afdfecc8bb"
     }
    ]
   },
@@ -1364,6 +2189,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36053",
      "sha256": "e178b6f5804a2bf4253791659971b48ed1340b4c2908eaf5c43b599bb37d0365"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-600-2002",
+   "path": "ordin/economie/2002/600",
+   "short": "Ordin economie nr. 600/2002",
+   "title": "Ordinul nr. 600/2002 privind aprobarea Programului de măsuri în scopul pregătirii și susținerii Programului de iarna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40424",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40424",
+     "sha256": "b86c57a08a835abf9faa205c4593b86b6926526099f24a050e913a4ce53cd3b5"
     }
    ]
   },
@@ -2598,6 +3438,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-213-2002",
+   "path": "ordin/interne/2002/213",
+   "short": "Ordin interne nr. 213/2002",
+   "title": "Ordinul nr. 213/2002 privind stabilirea procedurii comune de soluționare a unei cereri pentru acordarea statutului de refugiat membrilor familiei persoanei care a dobândit statutul de refugiat în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34744",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34744",
+     "sha256": "de12468c568d7e0c65ea6d1f6daa763654a3a1615fa04285e1c1aa63da996178"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-248-2002",
    "path": "ordin/interne/2002/248",
    "short": "Ordin interne nr. 248/2002",
@@ -2609,6 +3464,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35836",
      "sha256": "705718faf495bbec502bcebdeae4aee8fbe170d81adcf4312d017c6616f81817"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-290-2002",
+   "path": "ordin/interne/2002/290",
+   "short": "Ordin interne nr. 290/2002",
+   "title": "Ordinul nr. 290/2002 pentru modificarea Ordinului ministrului de interne nr. 159/2001 privind aprobarea Listei cuprinzând țările în care în general nu exista risc serios de persecuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37877",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37877",
+     "sha256": "9150762241fbbd9cda4b2e10efd0dcecdb43cca2ecd845bbdeda9d374ab47a92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-291-2002",
+   "path": "ordin/interne/2002/291",
+   "short": "Ordin interne nr. 291/2002",
+   "title": "Ordinul nr. 291/2002 pentru modificarea Ordinului ministrului de interne nr. 158/2001 privind aprobarea Listei cuprinzând țările terțe sigure",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37878",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37878",
+     "sha256": "674ee75c226f7d9c195712f51461750969aef8da864def330c9039d371269d51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-365-2002",
+   "path": "ordin/interne/2002/365",
+   "short": "Ordin interne nr. 365/2002",
+   "title": "Ordinul nr. 365/2002 pentru aprobarea Normelor metodologice privind autorizarea și condițiile de utilizare a dispozitivelor speciale cu lumini de culoare roșie sau albastra, montate pe autovehiculele aparținând unor instituții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41028",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41028",
+     "sha256": "4305ecca433c9cfec36702c68a277bc6c9231007b9e74eb9dae35c12b7be7e3d"
     }
    ]
   },
@@ -2729,6 +3629,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40531",
      "sha256": "955899bcf9bbab7bf23b993d2c52c39c78b23681cd509ab62a47373ebd5f3cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-115-2002",
+   "path": "ordin/mediu/2002/115",
+   "short": "Ordin mediu nr. 115/2002",
+   "title": "Ordinul nr. 115/2002 pentru aprobarea Metodologiei privind stabilirea categoriilor de importanța a barajelor - NTLH-021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36758",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36758",
+     "sha256": "f919b97cc005001d235e79cc40432ef5d42498a15123231f8c5a01b2e7cb2ec9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-116-2002",
+   "path": "ordin/mediu/2002/116",
+   "short": "Ordin mediu nr. 116/2002",
+   "title": "Ordinul nr. 116/2002 pentru aprobarea Metodologiei privind evaluarea stării de siguranță în exploatare a barajelor și lacurilor de acumulare - NTLH-022 și a Metodologiei privind evaluarea stării de siguranță în exploatare a barajelor și digurilor care realizează depozite de deșeuri industriale - NTLH-023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36744",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36744",
+     "sha256": "6436710cdf790f2325500b191fe86b41fdfb06a387e102c6376d1ff6918c444d"
     }
    ]
   },

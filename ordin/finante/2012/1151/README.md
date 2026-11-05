@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1151/2012 · 1 versions, from 2012-09-01 (latest in force: 2012-09-01) · <https://legislatie.just.ro/Public/DetaliiDocument/140981>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 8* ┌────────────┐ Declarație │ [SIGLA] │ privind contribuțiile trimestriale datorate pentru medicamentele │ Agenția │ suportate din Fondul național ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,5 +31,5 @@ Act id: `ordin-finante-1151-2012` (tags `ordin-finante-1151-2012/<day>`; `python
 - Ordin finante nr. 1151/2012: Anexa nr. 2 (2 - Model - MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Unitatea fiscală............... Nr.........../................. DECIZIE de anulare a penalităților de întârziere Dat) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 140981 of the official web service.
 - Ordin finante nr. 1151/2012: Anexa nr. 3 (3 INSTRUCȚIUNI de completare și depunere a formularului 171 "Declarație privind contribuțiile trimestriale datorate pentru medicamentele suportate din Fondul național unic de asigurări sociale de sănă) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 140981 of the official web service.
 - Ordin finante nr. 1151/2012: Anexa nr. 4 (4 CARACTERISTICI de tipărire, modul de difuzare, de utilizare și de păstrare a formularului 171 "Declarație privind contribuțiile trimestriale datorate pentru medicamentele suportate din Fondul națion) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 140981 of the official web service.
-- Ordin finante nr. 1151/2012: Anexa nr. 1 (1 *Font 8* ┌────────────┐ Declarație │ [SIGLA] │ privind contribuțiile trimestriale datorate pentru medicamentele │ Agenția │ suportate din Fondul național ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1151/2012: Anexa nr. 1 (1 *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 1151/2012: the publisher's notes run into its text (*) Art. 363^1*) a fost abrogat prin art. 11 din Ordonanţa de urgenţă a Guvernului nr. 77/2011 .) are not text.

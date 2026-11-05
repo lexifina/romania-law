@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2365/2014 · 1 versions, from 2014-08-20 (latest in force: 2014-08-20) · <https://legislatie.just.ro/Public/DetaliiDocument/160758>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 ┌────────┐ MINISTERUL FINANȚELOR PUBLICE │ │ AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ │SIGLĂ│ Unitatea fiscală.............................. │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,5 +23,5 @@ Act id: `ordin-anaf-2365-2014` (tags `ordin-anaf-2365-2014/<day>`; `python tools
 - Ordin anaf nr. 2365/2014: the first version is the order as published in Monitorul Oficial nr. 615 of 20 August 2014 (document 160758 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2365/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2365/2014: Anexa nr. 1 (1 PROCEDURA 01/08/2014) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 160758 of the official web service.
-- Ordin anaf nr. 2365/2014: Anexa nr. 2 (2 ┌────────┐ MINISTERUL FINANȚELOR PUBLICE │ │ AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ │SIGLĂ│ Unitatea fiscală.............................. │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2365/2014: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 2365/2014: the publisher's notes run into its text (*) Se menţionează denumirea organului fiscal emitent.; **) Se va folosi sigla organului fiscal emitent.; ***) Se va menţiona cauza pentru care persoana solicită recalcularea plăţilor anticipate.) are not text.

@@ -2,7 +2,7 @@
 
 Ordin ancpi nr. 415/2009 · 1 versions, from 2009-10-23 (latest in force: 2009-10-23) · <https://legislatie.just.ro/Public/DetaliiDocument/112084>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 (Anexa nr. 21 la regulament) Tabel parcelar (include toate imobilele din tarla) *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 (Anexa nr. 21 la regulament) Tabel parcelar (include toate imobilele din tarla) *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,5 +25,5 @@ Act id: `ordin-ancpi-415-2009` (tags `ordin-ancpi-415-2009/<day>`; `python tools
 - Ordin ancpi nr. 415/2009: Anexa nr. 1 (1 (Anexa nr. 20 la regulament) Plan parcelar) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 112084 of the official web service.
 - Ordin ancpi nr. 415/2009: Anexa nr. 3 (3 (Anexa nr. 22 la regulament) Către Oficiul de Cadastru și Publicitate Imobiliară........... Nr. de înregistrare.........../...../..../.............. CERERE DE INFORMAȚII pentru întocmirea planului p) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 112084 of the official web service.
 - Ordin ancpi nr. 415/2009: Anexa nr. 4 (4 (Anexa nr. 23 la regulament) MEMORIUL TEHNIC ● metode și aparatura folosite la măsurători ● sistemul de coordonate - STEREO 70 ● puncte geodezice de sprijin vechi și noi folosite ● starea punctelor) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 112084 of the official web service.
-- Ordin ancpi nr. 415/2009: Anexa nr. 2 (2 (Anexa nr. 21 la regulament) Tabel parcelar (include toate imobilele din tarla) *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ancpi nr. 415/2009: Anexa nr. 2 (2 (Anexa nr. 21 la regulament) Tabel parcelar (include toate imobilele din tarla) *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin ancpi nr. 415/2009: the publisher's notes run into its text (*) Se va completa la recepţia cadastrală.; **) În cazul în care planul parcelar este întocmit de o persoană fizică/juridică autorizată, la solicitarea autorităţilo; ***) Doar în cazul în care procedura este demarată de OCPI.; ****) Se va trece procesul-verbal de punere în posesie, în cazul în care nu s-a eliberat titlul de proprietate.) are not text.

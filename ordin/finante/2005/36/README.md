@@ -2,7 +2,7 @@
 
 Ordin finante nr. 36/2005 · 1 versions, from 2005-01-27 (latest in force: 2005-01-27) · <https://legislatie.just.ro/Public/DetaliiDocument/58881>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (12311 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,5 @@ Act id: `ordin-finante-36-2005` (tags `ordin-finante-36-2005/<day>`; `python too
 - Ordin finante nr. 36/2005: Anexa nr. 1 (III CARACTERISTICI de tipărire, modul de difuzare, utilizare și păstrare a formularelor 1. Denumire: Declarație de venit global 1.1. Cod: 14.13.01.13 1.2. Format: A4/t2 1.3. U/M: seturi 1.4. Caracteri) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 58881 of the official web service.
 - Ordin finante nr. 36/2005: Anexa nr. 2 (IV INSTRUCȚIUNI pentru transmiterea pe cale electronică a Declarației informative privind impozitul reținut pe veniturile cu regim de reținere la sursa, pe beneficiari de venit Cod 14.13.01.13/I Decla) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 58881 of the official web service.
 - Ordin finante nr. 36/2005: Anexa nr. 3 (V Număr de operator de date cu caracter personal - 1067 ROMÂNIA DECLARAȚIE MFP 220 PRIVIND VENITURILE ESTIMATE DIN CEDAREA FOLOSINȚEI BUNURILOR MINISTERUL FINANȚELOR PUBLICE Anul A. DATE DE IDENTIFICA) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 58881 of the official web service.
+- Ordin finante nr. 36/2005: the official text prints 12311 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin finante nr. 36/2005: the publisher's notes run into its text (*) Declaraţia rectificativa se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de cont ro; *) Declaraţia rectificativa se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control) are not text.

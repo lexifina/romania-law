@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-91-1991",
+   "path": "ordin/dezvoltare/1991/91",
+   "short": "Ordin dezvoltare nr. 91/1991",
+   "title": "Ordinul nr. 91/1991 pentru aprobarea formularelor, a procedurii de autorizare și a conținutului documentațiilor prevăzute de Legea nr. 50/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1589",
+   "versions": [
+    {
+     "from": "1991-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1589",
+     "sha256": "c54c717ec202bd13a721656ed39358fe72566156bdfd52e4b8cc75b03bd91bbf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1105-1991",
    "path": "ordin/finante/1991/1105",
    "short": "Ordin finante nr. 1105/1991",

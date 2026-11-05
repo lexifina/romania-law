@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 254/2008 · 1 versions, from 2008-02-26 (latest in force: 2008-02-26) · <https://legislatie.just.ro/Public/DetaliiDocument/89879>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────┐ │ │ │ SIGLĂ │ │ │ DECONT SPECIAL │ Agenția Națională │ DE TAXĂ PE VALOAREA ADĂUGATĂ 301 │ de Administrare │ │ Fiscală │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,5 +28,5 @@ Act id: `ordin-anaf-254-2008` (tags `ordin-anaf-254-2008/<day>`; `python tools/o
 - Ordin anaf nr. 254/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 254/2008: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (301) "Decont special de taxă pe valoarea adăugată" I. Contribuabilii care au obligația să depună decontul special de taxă pe valoarea adăugată Secțiunea 1) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 89879 of the official web service.
 - Ordin anaf nr. 254/2008: Anexa nr. 3 (3 CARACTERISTICI DE TIPĂRIRE, MODUL DE DIFUZARE, DE UTILIZARE ȘI DE PĂSTRARE ale formularului (301) "Decont special de taxă pe valoarea adăugată" Denumirea formularului: Decont special de taxă pe valo) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 89879 of the official web service.
-- Ordin anaf nr. 254/2008: Anexa nr. 1 (1 ┌───────────────────┐ │ │ │ SIGLĂ │ │ │ DECONT SPECIAL │ Agenția Națională │ DE TAXĂ PE VALOAREA ADĂUGATĂ 301 │ de Administrare │ │ Fiscală │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 254/2008: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 254/2008: the publisher's notes run into its text (*) Pentru a evita orice neconcordanţă între livrările intracomunitare de bunuri scutite de TVA în statul membru de origi) are not text.

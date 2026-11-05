@@ -31,6 +31,51 @@
      "sha256": "d1273d7158ed13a269438634c56f5d9d2566ac1fae78f231a10719897c305709"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-10-2015",
+   "path": "instructiuni/interne/2015/10",
+   "short": "Instrucțiuni interne nr. 10/2015",
+   "title": "Instrucțiunile nr. 10/2015 pentru modificarea și completarea Instrucțiunilor viceprim-ministrului, ministrul administrației și internelor, nr. 167/2009 privind scoaterea din funcțiune, valorificarea și casarea bunurilor în unitățile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165543",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165543",
+     "sha256": "70e063fe7693e591b1d6ef7f2da58a3f9890225a0bca79a7b9c319400b68d6c0"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-45-2015",
+   "path": "instructiuni/interne/2015/45",
+   "short": "Instrucțiuni interne nr. 45/2015",
+   "title": "Instrucțiunile nr. 45/2015 privind Corpul instructorilor de ordine publică din instituțiile de formare profesională inițială ale Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167930",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167930",
+     "sha256": "a566768f6ad26f60400090697883ad02e6bb79d19a0059ce26c94bc0bc4444ea"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-50-2015",
+   "path": "instructiuni/interne/2015/50",
+   "short": "Instrucțiuni interne nr. 50/2015",
+   "title": "Instrucțiunile nr. 50/2015 pentru modificarea și completarea Instrucțiunilor ministrului administrației și internelor nr. 82/2010 privind organizarea și desfășurarea activității de eliberare a apostilei pentru actele oficiale administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168450",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168450",
+     "sha256": "a1b8e8e863d1067f31dd4cd6e542739568db2bc9e57cd18b6502177ca02f23af"
+    }
+   ]
   }
  ]
 }

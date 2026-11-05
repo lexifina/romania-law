@@ -2,7 +2,7 @@
 
 Norma asf nr. 25/2022 · 1 versions, from 2022-10-11 (latest in force: 2022-10-11) · <https://legislatie.just.ro/Public/DetaliiDocument/260304>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (454 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -63,3 +63,4 @@ Act id: `norma-asf-25-2022` (tags `norma-asf-25-2022/<day>`; `python tools/on.py
 - Norma asf nr. 25/2022: Anexa nr. 6 (Documentația pentru aprobarea proiectului de transfer de portofoliu) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 260304 of the official web service.
 - Norma asf nr. 25/2022: Anexa nr. 7 (Documentația pentru aprobarea fuziunii sau divizării) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 260304 of the official web service.
 - Norma asf nr. 25/2022: Anexa nr. 8 (Documentația privind avizarea dizolvării și lichidării voluntare) is part of the norm and is published in its folder, anexa-8/ (paragraphs), from document 260304 of the official web service.
+- Norma asf nr. 25/2022: the official text prints 454 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

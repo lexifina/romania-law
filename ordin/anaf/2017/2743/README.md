@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2743/2017 · 1 versions, from 2017-09-26 (latest in force: 2017-09-26) · <https://legislatie.just.ro/Public/DetaliiDocument/193383>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Anexa nr. 1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-anaf-2743-2017` (tags `ordin-anaf-2743-2017/<day>`; `python tools
 - Ordin anaf nr. 2743/2017: the first version is the order as published in Monitorul Oficial nr. 763 of 26 September 2017 (document 193383 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2743/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2743/2017: Anexa nr. 2 (Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularului (086) „Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA” 1. Denumire: „Notifi) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 193383 of the official web service.
-- Ordin anaf nr. 2743/2017: Anexa nr. 1 (┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2743/2017: Anexa nr. 1 (Anexa nr. 1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

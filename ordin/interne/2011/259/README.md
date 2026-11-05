@@ -2,7 +2,7 @@
 
 Ordin interne nr. 259/2011 · 1 versions, from 2011-11-25 (latest in force: 2011-11-25) · <https://legislatie.just.ro/Public/DetaliiDocument/133195>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (┌────────────────┐ │ Stema unității │ │ administrativ- │ ┌────────────────────┐ │ teritoriale │ │ Model 2011 ITL 104 │ └────────────────┘ ROMÂNIA ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Anexa nr. 1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,6 +23,6 @@ Act id: `ordin-interne-259-2011` (tags `ordin-interne-259-2011/<day>`; `python t
 - Ordin interne nr. 259/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin interne nr. 259/2011: the first version is the order as published in Monitorul Oficial nr. 838 of 25 November 2011 (document 133195 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin interne nr. 259/2011: the signatures and the place and date line after its last article are not article text.
-- Ordin interne nr. 259/2011: a joint order of Ministerul Administrației și Internelor nr. 259 din 18 November 2011; Ministerul Finanțelor Publice nr. 2.842 din 22 November 2011. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-2842-2011` name it too (data/paths.json aliases).
-- Ordin interne nr. 259/2011: Anexa nr. 1 (┌────────────────┐ │ Stema unității │ │ administrativ- │ ┌────────────────────┐ │ teritoriale │ │ Model 2011 ITL 104 │ └────────────────┘ ROMÂNIA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin interne nr. 259/2011: Anexa nr. 1 (Anexa nr. 1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin interne nr. 259/2011: the publisher's notes run into its text (*) Se vor completa: codul de identificare fiscală (codul numeric personal, numărul de identificare fiscală, după caz) et) are not text.
+- Ordin interne nr. 259/2011: a joint order of Ministerul Administrației și Internelor nr. 259 din 18 November 2011; Ministerul Finanțelor Publice nr. 2.842 din 22 November 2011. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-2842-2011` name it too (data/paths.json aliases).

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1290/2009 · 1 versions, from 2009-07-02 (latest in force: 2009-07-02) · <https://legislatie.just.ro/Public/DetaliiDocument/109194>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (Anexa nr. 1 la Ordinul nr. 101/2008) [SIGLA] ANAF DECLARAȚIE 100 PRIVIND OBLIGAȚIILE DE PLATĂ LA BUGETUL DE STAT ┌───────────────────────────────────┐ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (Anexa nr. 1 la Ordinul nr. 101/2008) [SIGLA] ANAF DECLARAȚIE 100 PRIVIND OBLIGAȚIILE DE PLATĂ LA BUGETUL DE STAT): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-anaf-1290-2009` (tags `ordin-anaf-1290-2009/<day>`; `python tools
 - Ordin anaf nr. 1290/2009: the first version is the order as published in Monitorul Oficial nr. 458 of 2 July 2009 (document 109194 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1290/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1290/2009: Anexa nr. 2 (3 (Anexa nr. 8 la Ordinul nr. 101/2008) INSTRUCȚIUNI de completare a formularului 100 "Declarație privind obligațiile de plată la bugetul de stat", cod 14.13.01.99/bs I. Depunerea declarației Declaraț) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 109194 of the official web service.
-- Ordin anaf nr. 1290/2009: Anexa nr. 1 (1 (Anexa nr. 1 la Ordinul nr. 101/2008) [SIGLA] ANAF DECLARAȚIE 100 PRIVIND OBLIGAȚIILE DE PLATĂ LA BUGETUL DE STAT ┌───────────────────────────────────┐ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1290/2009: Anexa nr. 1 (1 (Anexa nr. 1 la Ordinul nr. 101/2008) [SIGLA] ANAF DECLARAȚIE 100 PRIVIND OBLIGAȚIILE DE PLATĂ LA BUGETUL DE STAT) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

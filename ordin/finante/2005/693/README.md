@@ -2,7 +2,7 @@
 
 Ordin finante nr. 693/2005 · 1 versions, from 2005-06-13 (latest in force: 2005-06-13) · <https://legislatie.just.ro/Public/DetaliiDocument/62296>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 FACTURA FISCALA Seria...... nr. NUMĂR INTERN Data emiterii: Data scadentei: Perioada de facturare: FURNIZOR CLIENT S.C. Adresa: Adresa de corespondenta: Cod ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 FACTURA FISCALA Seria...... nr. NUMĂR INTERN Data emiterii: Data scadentei: Perioada de facturare: FURNIZOR CLIENT S.C. Adresa: Adresa de corespondenta: Cod ...): its text could not yet be split into provisions without losing or adding words.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,4 +31,4 @@ Act id: `ordin-finante-693-2005` (tags `ordin-finante-693-2005/<day>`; `python t
 - Ordin finante nr. 693/2005: Anexa nr. 1 (1 Seria...... nr....... Furnizor:............... Client:............... Nr. ord.reg.com./an:..... (denumire, formă juridică) A.F./C.U.I.: A.F./C.U.I:........... Sediul:................. Sediul:.......) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 62296 of the official web service.
 - Ordin finante nr. 693/2005: Anexa nr. 2 (2 Serie...... Numar...... Factura Fiscală Data Furnizor Subunitatea Cod fiscal ORC Adresa Capital social Din care vărsat Banca Cont Beneficiar Codul fiscal ORC Adresa Banca Cont Cod client Contract De) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 62296 of the official web service.
 - Ordin finante nr. 693/2005: Anexa nr. 3 (3 FACTURĂ FISCALĂ Seria:............ Data emiterii:.......... Nr. factura:...... Scadenta la data de...... S.C................................. Furnizor: Client:............ Adresă:............ Adresa) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 62296 of the official web service.
-- Ordin finante nr. 693/2005: Anexa nr. 4 (4 FACTURA FISCALA Seria...... nr. NUMĂR INTERN Data emiterii: Data scadentei: Perioada de facturare: FURNIZOR CLIENT S.C. Adresa: Adresa de corespondenta: Cod ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 693/2005: Anexa nr. 4 (4 FACTURA FISCALA Seria...... nr. NUMĂR INTERN Data emiterii: Data scadentei: Perioada de facturare: FURNIZOR CLIENT S.C. Adresa: Adresa de corespondenta: Cod ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.

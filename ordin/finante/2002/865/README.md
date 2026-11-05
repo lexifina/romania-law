@@ -2,7 +2,7 @@
 
 Ordin finante nr. 865/2002 · 1 versions, from 2002-07-02 (latest in force: 2002-07-02) · <https://legislatie.just.ro/Public/DetaliiDocument/37022>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Modelul și conținutul formularului "Decont privind taxa pe valoarea adăugată", cod 14.13.01.02 ┌─────────┐ DECONT ┌──────────┐ │ 300 │ privind taxa pe ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Modelul și conținutul formularului "Decont privind taxa pe valoarea adăugată", cod 14.13.01.02): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-finante-865-2002` (tags `ordin-finante-865-2002/<day>`; `python t
 - Ordin finante nr. 865/2002: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 865/2002: Anexa nr. 2 (3 CARACTERISTICILE de tipărire și modul de difuzare, utilizare și păstrare a formularului "Decont privind taxa pe valoarea adăugată", cod 14.13.01.02 1. Denumire: Decont privind taxa pe valoarea adăug) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 37022 of the official web service.
 - Ordin finante nr. 865/2002: Anexa nr. 3 (4 CONDIȚII pentru transmiterea formularului "Decont privind taxa pe valoarea adăugată" pe cale electronică 1. Condiții generale Formularul "Decont privind taxa pe valoarea adăugată" în format electron) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 37022 of the official web service.
-- Ordin finante nr. 865/2002: Anexa nr. 1 (1 Modelul și conținutul formularului "Decont privind taxa pe valoarea adăugată", cod 14.13.01.02 ┌─────────┐ DECONT ┌──────────┐ │ 300 │ privind taxa pe ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 865/2002: Anexa nr. 1 (1 Modelul și conținutul formularului "Decont privind taxa pe valoarea adăugată", cod 14.13.01.02) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

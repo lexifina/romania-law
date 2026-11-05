@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1508/2016 · 1 versions, from 2017-01-06 (latest in force: 2017-01-06) · <https://legislatie.just.ro/Public/DetaliiDocument/185522>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5 (Anexa nr. 5 la norme) CERERE de aprobare a prețurilor la medicamente pentru nevoi speciale ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5 (Anexa nr. 5 la norme) CERERE de aprobare a prețurilor la medicamente pentru nevoi speciale): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,5 +35,5 @@ Act id: `ordin-sanatate-1508-2016` (tags `ordin-sanatate-1508-2016/<day>`; `pyth
 - Ordin sanatate nr. 1508/2016: Anexa nr. 3 (3 (Anexa nr. 3 la norme) AGENȚIA NAȚIONALĂ A MEDICAMENTULUI ȘI A DISPOZITIVELOR MEDICALE AUTORIZAȚIE privind furnizarea de medicamente pentru nevoi speciale conform art. 703 alin. (1) din Legea nr. 95) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 185522 of the official web service.
 - Ordin sanatate nr. 1508/2016: Anexa nr. 4 (4 (Anexa nr. 4 la norme) AGENȚIA NAȚIONALĂ A MEDICAMENTULUI ȘI A DISPOZITIVELOR MEDICALE AUTORIZAȚIE privind furnizarea de medicamente pentru nevoi speciale conform art. 703 alin. (2) din Legea nr. 95) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 185522 of the official web service.
 - Ordin sanatate nr. 1508/2016: Anexa nr. 6 (6 (Anexa nr. 6 la norme) DECLARAȚIE Subsemnata/Subsemnatul,........................, deținătoare/deținător a/al CI/BI/P seria........., nr.........., cu domiciliul în......................, codul nume) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 185522 of the official web service.
-- Ordin sanatate nr. 1508/2016: Anexa nr. 5 (5 (Anexa nr. 5 la norme) CERERE de aprobare a prețurilor la medicamente pentru nevoi speciale ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1508/2016: Anexa nr. 5 (5 (Anexa nr. 5 la norme) CERERE de aprobare a prețurilor la medicamente pentru nevoi speciale) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1508/2016: the publisher's notes run into its text (*) Se precizează cantitatea pentru cel mult un an.; *) Se prescrie cantitatea pentru cel mult un an.) are not text.

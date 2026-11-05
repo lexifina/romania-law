@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 768/1997 · 1 versions, from 1997-09-16 (latest in force: 1997-09-16) · <https://legislatie.just.ro/Public/DetaliiDocument/13587>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (2305 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,3 +17,4 @@ Act id: `ordin-sanatate-768-1997` (tags `ordin-sanatate-768-1997/<day>`; `python
 - Ordin sanatate nr. 768/1997: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 768/1997: the first version is the order as published in Monitorul Oficial nr. 242 of 16 September 1997 (document 13587 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Ordin sanatate nr. 768/1997: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 768/1997: the official text prints 2305 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

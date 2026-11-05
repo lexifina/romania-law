@@ -2,7 +2,7 @@
 
 Ordin finante nr. 914/2005 · 1 versions, from 2005-07-13 (latest in force: 2005-07-13) · <https://legislatie.just.ro/Public/DetaliiDocument/63112>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I ┌───────────────────────────┬───────────────────────────────────┬─────────────────────────────────────────┐ │208 │ DECLARAȚIE INFORMATIVĂ PRIVIND │ │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,5 +32,5 @@ Act id: `ordin-finante-914-2005` (tags `ordin-finante-914-2005/<day>`; `python t
 - Ordin finante nr. 914/2005: Anexa nr. 2 (III PROCEDURA privind stabilirea impozitului pe veniturile din transferul proprietăților imobiliare din patrimoniul personal În situația în care transferul dreptului de proprietate asupra construcțiil) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 63112 of the official web service.
 - Ordin finante nr. 914/2005: Anexa nr. 3 (IV Caracteristici de tipărire, modul de difuzare, de utilizare și păstrare a formularelor Declarație informativă privind impozitul pe veniturile din transferul proprietăților imobiliare din patrimoniu) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 63112 of the official web service.
 - Ordin finante nr. 914/2005: Anexa nr. 4 (V INSTRUCȚIUNI pentru transmitere pe cale electronică a declarației informative privind impozitul pe veniturile din transferul proprietăților imobiliare din patrimoniul personal Declarația informativă) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 63112 of the official web service.
-- Ordin finante nr. 914/2005: Anexa nr. 1 (I ┌───────────────────────────┬───────────────────────────────────┬─────────────────────────────────────────┐ │208 │ DECLARAȚIE INFORMATIVĂ PRIVIND │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 914/2005: Anexa nr. 1 (I) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 914/2005: the publisher's notes run into its text (*) Declaraţia rectificativă se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control; *) Declaraţia rectîficativă se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control) are not text.

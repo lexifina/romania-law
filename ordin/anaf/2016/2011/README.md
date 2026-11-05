@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2011/2016 · 1 versions, from 2016-08-13 (latest in force: 2016-08-13) · <https://legislatie.just.ro/Public/DetaliiDocument/180622>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 ┌──────────────────────────────────────────────────────────────────────────────┐ │A. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,4 +37,4 @@ Act id: `ordin-anaf-2011-2016` (tags `ordin-anaf-2011-2016/<day>`; `python tools
 - Ordin anaf nr. 2011/2016: Anexa nr. 3 (3 DECIZIE privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (12) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioa) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 180622 of the official web service.
 - Ordin anaf nr. 2011/2016: Anexa nr. 4 (4 DECIZIE privind respingerea Cererii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (12) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 180622 of the official web service.
 - Ordin anaf nr. 2011/2016: Anexa nr. 5 (5 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularelor 1. Denumire: "Cerere de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit art. 316 alin. (12)) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 180622 of the official web service.
-- Ordin anaf nr. 2011/2016: Anexa nr. 2 (2 ┌──────────────────────────────────────────────────────────────────────────────┐ │A. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2011/2016: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12396 acts, 23,910 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12400 acts, 23,914 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8320, of which 3119 amending acts)
+## Laws (legi) (8324, of which 3122 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -750,14 +750,18 @@
 | Legea nr. 61/2000 pentru aplicarea Acordului dintre statele părţi la Tratatul Atlanticului de Nord şi celelalte state participante la Parteneriatul pentru Pace cu privire la statutul forţelor lor, încheiat la Bruxelles la 19 iunie 1995 | [`lege/2000/61/`](lege/2000/61/) | amended, not consolidated | 1 | 2000-04-28 | 2000-04-28 |
 | Legea nr. 63/2000 pentru aprobarea Ordonanţei Guvernului nr. 52/1998 privind planificarea apărării naţionale a României | [`lege/2000/63/`](lege/2000/63/) | amended, not consolidated | 1 | 2000-04-28 | 2000-04-28 |
 | Legea nr. 64/2000 privind aprobarea Ordonanţei Guvernului nr. 58/1997 pentru modificarea Ordonanţei Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare, astfel cum a fost aprobată şi modificată prin Legea nr. 51/1996 , cu modificările ulterioare | [`lege/2000/64/`](lege/2000/64/) | amended, not consolidated | 1 | 2000-04-27 | 2000-04-27 |
+| Legea nr. 65/2000 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 57/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Serviciului de Telecomunicaţii Speciale | [`lege/2000/65/`](lege/2000/65/) | amending act | 1 | 2000-04-26 | 2000-04-26 |
 | Legea nr. 66/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Danemarcei privind readmisia cetăţenilor proprii şi a străinilor, semnat la Bucureşti la 25 februarie 1999 | [`lege/2000/66/`](lege/2000/66/) | amended, not consolidated | 1 | 2000-05-02 | 2000-05-02 |
+| Legea nr. 67/2000 pentru completarea anexei nr. 2 la Legea nr. 27/1994 privind impozitele şi taxele locale | [`lege/2000/67/`](lege/2000/67/) | amending act | 1 | 2000-04-27 | 2000-04-27 |
 | Legea nr. 69/2000 | [`lege/2000/69/`](lege/2000/69/) | in force | 57 | 2000-08-07 | 2026-01-15 |
 | Legea nr. 70/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Georgiei privind transportul combinat internaţional, semnat la Bucureşti la 11 decembrie 1997 | [`lege/2000/70/`](lege/2000/70/) | amended, not consolidated | 1 | 2000-05-10 | 2000-05-10 |
+| Legea nr. 71/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind transportul combinat internaţional, semnat la Baku la 30 iunie 1998 | [`lege/2000/71/`](lege/2000/71/) | in force | 1 | 2000-05-10 | 2000-05-10 |
 | Legea nr. 72/2000 pentru aprobarea afilierii României la Asociaţia Internaţionala pentru Ştiinţe şi Tehnologii Cerealiere, precum şi a plăţii cotizaţiei anuale | [`lege/2000/72/`](lege/2000/72/) | amended, not consolidated | 1 | 2000-05-12 | 2000-05-12 |
 | Legea nr. 73/2000 | [`lege/2000/73/`](lege/2000/73/) | in force | 5 | 2000-05-11 | 2005-05-27 |
 | Legea nr. 74/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Armenia privind transportul combinat internaţional, semnat la Erevan la 3 iulie 1998 | [`lege/2000/74/`](lege/2000/74/) | amended, not consolidated | 1 | 2000-05-10 | 2000-05-10 |
 | Legea nr. 75/2000 pentru ratificarea Protocolului adiţional la Convenţia din 18 august 1948 privind regimul navigaţiei pe Dunăre, semnat la Budapesta la 26 martie 1998 | [`lege/2000/75/`](lege/2000/75/) | amended, not consolidated | 1 | 2000-05-12 | 2000-05-12 |
 | Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție | [`lege/2000/78/`](lege/2000/78/) | in force | 13 | 2000-05-18 | 2022-07-23 |
+| Legea nr. 79/2000 pentru aprobarea Ordonanţei Guvernului nr. 31/1999 privind aprobarea primei de export la grâu şi porumb boabe | [`lege/2000/79/`](lege/2000/79/) | amending act | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 80/2000 privind aprobarea Ordonanţei Guvernului nr. 58/1999 pentru aderarea României la Convenţia privind facilitarea traficului maritim internaţional (FAL), adoptată la Londra la 9 aprilie 1965 de Conferinţa internaţionala privind facilitarea voiajului şi transportului maritim, modificată şi completată prin amendamentele din 1984, 1986, 1989, 1991, 1993 şi 1994 | [`lege/2000/80/`](lege/2000/80/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 81/2000 privind respingerea Ordonanţei Guvernului nr. 1/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/2000/81/`](lege/2000/81/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 83/2000 pentru aprobarea Ordonanţei Guvernului nr. 86/1999 privind ratificarea Memorandumului înţelegere pentru facilitarea transportului rutier internaţional de mărfuri în regiunea SECI, semnat la Atena la 28 aprilie 1999 | [`lege/2000/83/`](lege/2000/83/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
@@ -12462,14 +12466,14 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27748 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 12574 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 710 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 550 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 132 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
-| Clarifications (precizări) | 28 | [`data/acts/precizari/`](data/acts/precizari/) |
+| Government decisions (HG) | 27790 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 14525 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 719 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 551 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Instructions (instrucțiuni) | 167 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Clarifications (precizări) | 31 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 1 | [`data/acts/metodologie/`](data/acts/metodologie/) |
-| Criteria (criterii) | 1 | [`data/acts/criterii/`](data/acts/criterii/) |
+| Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |
@@ -12478,4 +12482,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 10553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 12053 | [`data/acts/local/`](data/acts/local/) |

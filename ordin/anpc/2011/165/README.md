@@ -2,7 +2,7 @@
 
 Ordin anpc nr. 165/2011 · 1 versions, from 2011-09-16 (latest in force: 2011-09-16) · <https://legislatie.just.ro/Public/DetaliiDocument/131165>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SCĂDERI ale cantității nete pentru pâine datorate pierderii de umiditate pe durata de valabilitate ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SCĂDERI ale cantității nete pentru pâine datorate pierderii de umiditate pe durata de valabilitate): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-anpc-165-2011` (tags `ordin-anpc-165-2011/<day>`; `python tools/o
 - Ordin anpc nr. 165/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anpc nr. 165/2011: the first version is the order as published in Monitorul Oficial nr. 622 of 1 September 2011 (document 131165 of the official web service), in force on 16 September 2011, the day it states for itself.
 - Ordin anpc nr. 165/2011: the signatures and the place and date line after its last article are not article text.
-- Ordin anpc nr. 165/2011: Anexa nr. 1 (SCĂDERI ale cantității nete pentru pâine datorate pierderii de umiditate pe durata de valabilitate ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anpc nr. 165/2011: Anexa nr. 1 (SCĂDERI ale cantității nete pentru pâine datorate pierderii de umiditate pe durata de valabilitate) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

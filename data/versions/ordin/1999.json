@@ -453,6 +453,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-15-n-1999",
+   "path": "ordin/dezvoltare/1999/15-n",
+   "short": "Ordin dezvoltare nr. 15/N/1999",
+   "title": "Ordinul nr. 15/N/1999 ORDIN nr. 19a/2.286 din 12 martie 1999 privind aprobarea conținutului pliantului \"Cum sa te protejezi și sa intervii în caz de cutremur\", destinat educației antiseismice a populației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17451",
+   "versions": [
+    {
+     "from": "1999-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17451",
+     "sha256": "3fff49d6417139267869b5f25ae5f23edcf21a07866cec04e14d8f5bff4e5c2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-38-n-1999",
+   "path": "ordin/dezvoltare/1999/38-n",
+   "short": "Ordin dezvoltare nr. 38/N/1999",
+   "title": "Ordinul nr. 38/N/1999 privind avizarea, din punct de vedere tehnic, a soluțiilor de intervenție prin demolarea totală a construcțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18510",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18510",
+     "sha256": "2f562c58f7061767d836e592bdff96242a26fe9dd922cc295475bc66e82d31ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7570-nn-1999",
+   "path": "ordin/dezvoltare/1999/7570-nn",
+   "short": "Ordin dezvoltare nr. 7570/NN/1999",
+   "title": "Ordinul nr. 7.570/NN/1999 pentru aprobarea efectuării în comun a controlului corespunzător prevederilor Ordinului ministrului lucrărilor publice și amenajării teritoriului nr. 63/N/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18996",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18996",
+     "sha256": "23cc2b52827c2c15ed217c016de0102656e0b542dacaa9ece70f1f8ce791009e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-20-1999",
    "path": "ordin/economie/1999/20",
    "short": "Ordin economie nr. 20/1999",
@@ -1383,6 +1428,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-1023-1999",
+   "path": "ordin/interne/1999/1023",
+   "short": "Ordin interne nr. 1023/1999",
+   "title": "Ordinul nr. 1.023/1999 privind aprobarea Dispozițiilor generale de ordine interioară pentru prevenirea și stingerea incendiilor - DG P.S.I.-001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21119",
+   "versions": [
+    {
+     "from": "2000-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21119",
+     "sha256": "f20719546ee1e4ae14ce2a18b3ec18ac4af9518600fbe9444bfbdc72858d769c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2628-c-1999",
    "path": "ordin/justitie/1999/2628-c",
    "short": "Ordin justitie nr. 2628/C/1999",
@@ -1454,6 +1514,51 @@
      "units": 47,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18959",
      "sha256": "f056a490a35e9364317bb1291134802bbf44ace77fd43a70227dd933f16843e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1098-1999",
+   "path": "ordin/mediu/1999/1098",
+   "short": "Ordin mediu nr. 1098/1999",
+   "title": "Ordinul nr. 1.098/1999 pentru aprobarea Metodologiei privind stabilirea categoriilor de importanța a lucrărilor hidrotehnice - NTLH-021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21954",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21954",
+     "sha256": "ec9ac15a313dba8a5faf17c40dd8894dcf2b717741f9dbd87ee3a2867599dcf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1099-1999",
+   "path": "ordin/mediu/1999/1099",
+   "short": "Ordin mediu nr. 1099/1999",
+   "title": "Ordinul nr. 1.099/1999 pentru aprobarea metodologiilor privind evaluarea stării de siguranță în exploatare a lucrărilor hidrotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21932",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21932",
+     "sha256": "b2039e7c0952235660d97aaff671d3eb7eab92a85c07318fcfd1cca3623051e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-214-rt-1999",
+   "path": "ordin/mediu/1999/214-rt",
+   "short": "Ordin mediu nr. 214/RT/1999",
+   "title": "Ordinul nr. 214/RT/1999 pentru aprobarea procedurilor de promovare a documentațiilor și de emitere a acordului de mediu la planurile de urbanism și de amenajare a teritoriului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18071",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18071",
+     "sha256": "4df3b3ec2148ed955dcdb1992cc95724077c25e142394049d9e98524ee14464f"
     }
    ]
   },
@@ -1844,6 +1949,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20044",
      "sha256": "68e5e6610130933bda5c1d57f3c7ee3e41ae921711fd3c3cfa02e7a72c47a7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-407-1999",
+   "path": "ordin/transporturi/1999/407",
+   "short": "Ordin transporturi nr. 407/1999",
+   "title": "Ordinul nr. 407/1999 pentru aprobarea Normelor privind autorizarea și efectuarea transporturilor rutiere cu greutăți și/sau cu dimensiuni de gabarit care depășesc limitele maxime prevăzute în Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19734",
+   "versions": [
+    {
+     "from": "1999-11-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19734",
+     "sha256": "9a87189fcc9bd212020b89e5052e7537dbe3a340f36f9b7da5355dc6ce219bd5"
     }
    ]
   }

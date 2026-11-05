@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1019-2005",
+   "path": "ordin/agricultura/2005/1019",
+   "short": "Ordin agricultura nr. 1019/2005",
+   "title": "Ordinul nr. 1.019/2005 privind înlocuirea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale și al ministrului de stat, ministrul administrației și internelor, nr. 328/321/2004 pentru aprobarea delimitării municipiilor, orașelor și comunelor din zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66931",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66931",
+     "sha256": "27e164a4f69c743f6be65e35bf290b63c784c7bf9c66d3c60b086cd2c2882d5a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1050-2005",
    "path": "ordin/agricultura/2005/1050",
    "short": "Ordin agricultura nr. 1050/2005",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1258-2005",
+   "path": "ordin/agricultura/2005/1258",
+   "short": "Ordin agricultura nr. 1258/2005",
+   "title": "Ordinul nr. 1.258/2005 pentru aprobarea recensământului plantațiilor de pomi fructiferi, arbuști fructiferi și căpșuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68275",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68275",
+     "sha256": "5794cf2f6222a371875fc4e3b8427f7b19332307ea9251633190ca32818fd86e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1272-2005",
    "path": "ordin/agricultura/2005/1272",
    "short": "Ordin agricultura nr. 1272/2005",
@@ -89,6 +119,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67478",
      "sha256": "ca622afd05ca00d516ee5b1bb090d2a3facc698c2f9d99b80171c1f47a7c8cf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-143-2005",
+   "path": "ordin/agricultura/2005/143",
+   "short": "Ordin agricultura nr. 143/2005",
+   "title": "Ordinul nr. 143/2005 privind definirea și caracterizarea spațiului rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61388",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61388",
+     "sha256": "4de8a37796d51d34d1104d3bd34654cf1ec173cf194fbbb4b435b69c5a5795c0"
     }
    ]
   },
@@ -209,6 +254,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64353",
      "sha256": "a01ca33699be12335589624d95ae227be19514e5cf41ea993723143ad7ec76e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-897-2005",
+   "path": "ordin/agricultura/2005/897",
+   "short": "Ordin agricultura nr. 897/2005",
+   "title": "Ordinul nr. 897/2005 pentru aprobarea Regulamentului privind conținutul documentațiilor referitoare la scoaterea terenurilor din circuitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65078",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65078",
+     "sha256": "adbff691d1f00462b505ea47311d9baed75e3dbfac2cdeec536775dceb14aa16"
     }
    ]
   },
@@ -4413,6 +4473,456 @@
    ]
   },
   {
+   "slug": "ordin-interne-1012-2005",
+   "path": "ordin/interne/2005/1012",
+   "short": "Ordin interne nr. 1012/2005",
+   "title": "Ordinul nr. 1.012/2005 privind aprobarea Regulamentului-cadru pentru organizarea examenului de promovare în clasă a funcționarilor publici, încadrați pe funcții publice cu nivel de studii inferior, care absolvesc o formă de învățământ superior de lungă sau de scurtă durată în specialitatea în care își desfășoară activitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61501",
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61501",
+     "sha256": "987db849f9a579f3f0fd5c0ed9477a4fead6a7a123c4716930d350a3c2fb0881"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1033-2005",
+   "path": "ordin/interne/2005/1033",
+   "short": "Ordin interne nr. 1033/2005",
+   "title": "Ordinul nr. 1.033/2005 pentru aprobarea Structurii organizatorice și a Regulamentului de organizare și funcționare ale Agenției Naționale de Cadastru și Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68049",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68049",
+     "sha256": "f22284e40f922af0cb37dce1ebd059b4ff7f97d24df56d8cf39dce90de2814be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1090-2005",
+   "path": "ordin/interne/2005/1090",
+   "short": "Ordin interne nr. 1090/2005",
+   "title": "Ordinul nr. 1.090/2005 privind modificarea și completarea anexei la Ordinul ministrului administrației și internelor nr. 456/2004 pentru aprobarea tarifelor privind activitățile desfășurate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66714",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66714",
+     "sha256": "98f75ab801aba485506244f89a314fd76cde20fe97ca1d6f4eb40035981b8927"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1100-2005",
+   "path": "ordin/interne/2005/1100",
+   "short": "Ordin interne nr. 1100/2005",
+   "title": "Ordinul nr. 1.100/2005 pentru modificarea și completarea Metodologiei de control privind supravegherea pieței produselor pentru construcții cu rol în satisfacerea cerinței de securitate la incendiu, aprobată prin Ordinul ministrului administrației și internelor nr. 607/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67864",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67864",
+     "sha256": "477f314397bca86b4409e213095aca9fa3f972a23128a007c422e46da73415a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-478-2005",
+   "path": "ordin/interne/2005/478",
+   "short": "Ordin interne nr. 478/2005",
+   "title": "Ordinul nr. 478/2005 pentru nominalizarea structurilor proprii prin care Ministerul Administrației și Internelor poate să vândă locuințe de serviciu, precum și a celor abilitate să soluționeze contestațiile la deciziile asupra cererilor de cumpărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58745",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58745",
+     "sha256": "cfa2f8964334c01217cf557270d41b1fc148bf3e501244b9fac95dd56ed3c280"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-492-2005",
+   "path": "ordin/interne/2005/492",
+   "short": "Ordin interne nr. 492/2005",
+   "title": "Ordinul nr. 492/2005 privind modul de eliberare, forma și conținutul legitimației de detectiv particular",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59299",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59299",
+     "sha256": "c3b0dd554be111a29f3cc268178304f45a159257896f6cbeffee41fdc5280b01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-511-2005",
+   "path": "ordin/interne/2005/511",
+   "short": "Ordin interne nr. 511/2005",
+   "title": "Ordinul nr. 511/2005 privind separarea fluxurilor de pasageri în porturile din România, în conformitate cu recomandările și cele mai bune practici cuprinse în catalogul Schengen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59376",
+   "versions": [
+    {
+     "from": "2005-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59376",
+     "sha256": "b606335b36c37dc4801b59c77c2e0642b560c25ee7845ed0aa509fd01dedc7f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-522-2005",
+   "path": "ordin/interne/2005/522",
+   "short": "Ordin interne nr. 522/2005",
+   "title": "Ordinul nr. 522/2005 privind modelele registrelor de evidență a operațiunilor cu arme și muniții desfășurate de armurierii autorizați în condițiile Legii nr. 295/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60758",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60758",
+     "sha256": "5960c17ad9ac98cf2ee4b2e0561f7f95a2a2404ce69aebef28f36c7b5ddea533"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-551-2005",
+   "path": "ordin/interne/2005/551",
+   "short": "Ordin interne nr. 551/2005",
+   "title": "Ordinul nr. 551/2005 pentru stabilirea structurilor cu responsabilități în organizarea și desfășurarea ceremonialurilor funerare, conform prevederilor art. 5 din Hotărârea Guvernului nr. 1.802/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60851",
+   "versions": [
+    {
+     "from": "2005-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60851",
+     "sha256": "4e3aceb869f1e5231f4321e903e572655c5db19fe1fd6b573faccf92ca680978"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-570-2005",
+   "path": "ordin/interne/2005/570",
+   "short": "Ordin interne nr. 570/2005",
+   "title": "Ordinul nr. 570/2005 privind preschimbarea permiselor de conducere străine cu documente similare românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60559",
+   "versions": [
+    {
+     "from": "2005-05-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60559",
+     "sha256": "efeb21f3444594255091e2f3a9f777dcbdf77668ac59a08b465b80d28d74a882"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-585-2005",
+   "path": "ordin/interne/2005/585",
+   "short": "Ordin interne nr. 585/2005",
+   "title": "Ordinul nr. 585/2005 pentru aprobarea unor măsuri privind organizarea și funcționarea Comisiei de recunoaștere a organismelor pentru atestarea conformității produselor pentru construcții cu rol în satisfacerea cerinței securitate la incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60977",
+   "versions": [
+    {
+     "from": "2005-04-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60977",
+     "sha256": "8853cdc78e28975b0d35025c7c67ea224eda74deefb410917f9aa2b8481be630"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-592-2005",
+   "path": "ordin/interne/2005/592",
+   "short": "Ordin interne nr. 592/2005",
+   "title": "Ordinul nr. 592/2005 privind anularea titlului de parc industrial Societății Comerciale \"Pro Roman\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61204",
+   "versions": [
+    {
+     "from": "2005-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61204",
+     "sha256": "af1d814c01a9ba55f67caef2c4bd1a03ad5bea639a6dd4a0e9cc0e1d766c5bb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-607-2005",
+   "path": "ordin/interne/2005/607",
+   "short": "Ordin interne nr. 607/2005",
+   "title": "Ordinul nr. 607/2005 pentru aprobarea Metodologiei de control privind supravegherea pieței produselor pentru construcții cu rol în satisfacerea cerinței de securitate la incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61386",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61386",
+     "sha256": "908e0d1bf72146c3afff971aa1ae3d454fd2903b037dd7401aedaa97829b533a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-612-2005",
+   "path": "ordin/interne/2005/612",
+   "short": "Ordin interne nr. 612/2005",
+   "title": "Ordinul nr. 612/2005 privind atribuțiile și funcționarea Comisiei interimare pentru managerii publici, înființată în temeiul art. 21 alin. (2) din Ordonanța de urgență a Guvernului nr. 56/2004 privind crearea statutului special al funcționarului public denumit manager public, aprobată cu modificări și completări prin Legea nr. 452/2004, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61500",
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61500",
+     "sha256": "13c166c91df45e89c97f6934c7263ca29ccb8872a5223c0192b7842cebcb37b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-620-2005",
+   "path": "ordin/interne/2005/620",
+   "short": "Ordin interne nr. 620/2005",
+   "title": "Ordinul nr. 620/2005 privind modalitățile de recunoaștere a certificatelor de calificare sau a atestatelor pentru exercitarea profesiei de detectiv particular, eliberate în unul dintre statele membre ale Uniunii Europene sau ale Spațiului Economic European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61560",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61560",
+     "sha256": "bb2a2d24796946eeecfc1c82dc12af9f701c4479dfdece0121bb1bd9c862a214"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-638-2005",
+   "path": "ordin/interne/2005/638",
+   "short": "Ordin interne nr. 638/2005",
+   "title": "Ordinul nr. 638/2005 pentru aprobarea Regulamentului privind gestionarea situațiilor de urgență generate de inundații, fenomene meteorologice periculoase, accidente la construcții hidrotehnice și poluări accidentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62095",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62095",
+     "sha256": "a916a01b64375e7723031e6ba12a77cb506d0c35ae3da8b590d95281407f87c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-647-2005",
+   "path": "ordin/interne/2005/647",
+   "short": "Ordin interne nr. 647/2005",
+   "title": "Ordinul nr. 647/2005 pentru aprobarea Normelor metodologice privind elaborarea planurilor de urgență în caz de accidente în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62050",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62050",
+     "sha256": "25ff904bb07723fe43b868ff7a856ecd7969360312abb963d83577c996e25ec9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-665-2005",
+   "path": "ordin/interne/2005/665",
+   "short": "Ordin interne nr. 665/2005",
+   "title": "Ordinul nr. 665/2005 pentru aprobarea Regulamentului de planificare, organizare, pregătire, desfășurare și evaluare a activității de prevenire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62601",
+   "versions": [
+    {
+     "from": "2005-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62601",
+     "sha256": "0fdb1d45d249f4d7c831aec3d43896b9a6043ea1f1d72929ef429d18c64b9208"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-683-2005",
+   "path": "ordin/interne/2005/683",
+   "short": "Ordin interne nr. 683/2005",
+   "title": "Ordinul nr. 683/2005 privind aprobarea Procedurilor generice pentru colectarea datelor, validare și răspuns pe timpul unei urgente radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62497",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62497",
+     "sha256": "0affb19f6a506c36f709afb4269f9a79495270d7a1a12f3deecbcd07b993153f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-684-2005",
+   "path": "ordin/interne/2005/684",
+   "short": "Ordin interne nr. 684/2005",
+   "title": "Ordinul nr. 684/2005 pentru aprobarea Normelor metodologice privind planificarea, pregătirea și intervenția în caz de accident nuclear sau urgență radiologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62591",
+   "versions": [
+    {
+     "from": "2005-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62591",
+     "sha256": "1b75355bed1fc2d66fed192ec2b1827d0396a3065d630b0812f1fa421bd098cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-687-2005",
+   "path": "ordin/interne/2005/687",
+   "short": "Ordin interne nr. 687/2005",
+   "title": "Ordinul nr. 687/2005 pentru completarea Regulamentului privind autorizarea persoanelor fizice și juridice care pot să realizeze și să verifice lucrări de specialitate în domeniile cadastrului, geodeziei și cartografiei pe teritoriul României, aprobat prin Ordinul ministrului administrației publice nr. 538/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62440",
+   "versions": [
+    {
+     "from": "2005-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62440",
+     "sha256": "8342eac803357150d9edffb84104c610a1a7be5cab5171fdab5c6dd6b98f7e8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-708-2005",
+   "path": "ordin/interne/2005/708",
+   "short": "Ordin interne nr. 708/2005",
+   "title": "Ordinul nr. 708/2005 privind comunicarea principalelor caracteristici ale cutremurelor produse pe teritoriul României și convocarea, după caz, a structurilor privind gestionarea riscului la cutremure",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62798",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62798",
+     "sha256": "ae0f6bd796736e2467bf3e34f550c861ba6b00e2f312c177d6d118a27da2b87e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-718-2005",
+   "path": "ordin/interne/2005/718",
+   "short": "Ordin interne nr. 718/2005",
+   "title": "Ordinul nr. 718/2005 pentru aprobarea Criteriilor de performanță privind structura organizatorică și dotarea serviciilor voluntare pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63381",
+   "versions": [
+    {
+     "from": "2005-08-19",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63381",
+     "sha256": "78869dd8ea068ae9fd5e238b3fd565281be8031ad717ec80846fb74337eb3c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-724-2005",
+   "path": "ordin/interne/2005/724",
+   "short": "Ordin interne nr. 724/2005",
+   "title": "Ordinul nr. 724/2005 privind stabilirea baremelor medicale pentru dobândirea calității de detectiv particular",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63287",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63287",
+     "sha256": "72140e0c3319ef3d5fc7f97b02f617f70e9ae9ced7a40b1a57929c0ea1735694"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-735-2005",
+   "path": "ordin/interne/2005/735",
+   "short": "Ordin interne nr. 735/2005",
+   "title": "Ordinul nr. 735/2005 privind evidenta, gestionarea, depozitarea și distribuirea ajutoarelor interne și internaționale destinate populației în situații de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63629",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63629",
+     "sha256": "3d65a0d355f215ec09ad6d991196ea5625d67f718756ecc08fdeedcd36aedec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-736-2005",
+   "path": "ordin/interne/2005/736",
+   "short": "Ordin interne nr. 736/2005",
+   "title": "Ordinul nr. 736/2005 privind instituirea serviciului de permanenta la toate primăriile din zona de risc în caz de iminenta a producerii unor situații de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63630",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63630",
+     "sha256": "14c45f6940e6029f63088b185091c756932860cd24e3ddebfd313ac73607d2ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-770-2005",
+   "path": "ordin/interne/2005/770",
+   "short": "Ordin interne nr. 770/2005",
+   "title": "Ordinul nr. 770/2005 pentru aprobarea Regulamentului de autorizare a laboratoarelor și poligoanelor de încercări la foc și a celor de distrugere a muniției neexplodate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64793",
+   "versions": [
+    {
+     "from": "2005-09-05",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64793",
+     "sha256": "269aa6f33db7151244bb7ee4e895a4a101b5e20f24700e50c10fbd2a751e6db9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-786-2005",
+   "path": "ordin/interne/2005/786",
+   "short": "Ordin interne nr. 786/2005",
+   "title": "Ordinul nr. 786/2005 privind modificarea și completarea Ordinului ministrului administrației și internelor nr. 712/2005 pentru aprobarea Dispozițiilor generale privind instruirea salariaților în domeniul situațiilor de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65081",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65081",
+     "sha256": "d0af7ebd4e68e15165b2a6d4c18200a702a8f10f7509f54eb60ea7fbb4c4100b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-820-2005",
+   "path": "ordin/interne/2005/820",
+   "short": "Ordin interne nr. 820/2005",
+   "title": "Ordinul nr. 820/2005 pentru stabilirea documentelor și a cuantumului sumei minime în valută pe care cetățenii români trebuie să le dețină la ieșirea din țară, când călătoresc în statele membre ale Uniunii Europene sau în alte state pentru care nu este necesară viza de intrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65356",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65356",
+     "sha256": "39a77a59c1084cd31be98f8b0ece2182d03c9229d8907b302581c6f5c2bc53ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-900-2005",
+   "path": "ordin/interne/2005/900",
+   "short": "Ordin interne nr. 900/2005",
+   "title": "Ordinul nr. 900/2005 privind modificarea și completarea Ordinului ministrului administrației și internelor nr. 820/2005 pentru stabilirea documentelor și a cuantumului sumei minime în valută pe care cetățenii români trebuie să le dețină la ieșirea din țară, când călătoresc în statele membre ale Uniunii Europene sau în alte state pentru care nu este necesară viza de intrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31568",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31568",
+     "sha256": "7227aeb7f264fe00b5a12d4b7df74ff4dc7f44453f04bf4de187d8b79489f908"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1026-c-2005",
    "path": "ordin/justitie/2005/1026-c",
    "short": "Ordin justitie nr. 1026/C/2005",
@@ -4638,6 +5148,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1229-2005",
+   "path": "ordin/mediu/2005/1229",
+   "short": "Ordin mediu nr. 1229/2005",
+   "title": "Ordinul nr. 1.229/2005 pentru aprobarea Procedurii și criteriilor de autorizare a operatorilor economici în vederea preluării responsabilității privind realizarea obiectivelor anuale de valorificare și reciclare a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67828",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67828",
+     "sha256": "54b8e51e1e1b4fff00f42fa3ab67ad01458366d908d66ea9d46710000bc8f88d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1234-2005",
    "path": "ordin/mediu/2005/1234",
    "short": "Ordin mediu nr. 1234/2005",
@@ -4649,6 +5174,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67946",
      "sha256": "1e3796b173f9377ce9928bc389ba4cbbe45eccad94dc36d75637dc3162a906d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1240-2005",
+   "path": "ordin/mediu/2005/1240",
+   "short": "Ordin mediu nr. 1240/2005",
+   "title": "Ordinul nr. 1.240/2005 privind aprobarea Manualului prefectului pentru managementul situațiilor de urgenta în caz de inundații și a Manualului primarului pentru managementul situațiilor de urgenta în caz de inundații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69213",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69213",
+     "sha256": "785233f1a508aba0baf41062fd6341da26ea8af9941be26fd53a98eef58f9bdb"
     }
    ]
   },
@@ -4679,6 +5219,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65239",
      "sha256": "192f1c2c17943c2b768fb1142043f603b13c586e9aa08651302ad3de8cdcfaf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-833-2005",
+   "path": "ordin/mediu/2005/833",
+   "short": "Ordin mediu nr. 833/2005",
+   "title": "Ordinul nr. 833/2005 pentru aprobarea Programului național de reducere a emisiilor de dioxid de sulf, oxizi de azot și pulberi provenite din instalații mari de ardere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65446",
+   "versions": [
+    {
+     "from": "2005-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65446",
+     "sha256": "3ab9dd6d156153b674d78e330c5175d9b08dd69997f821ae1b2950ee6f9f76bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-87-2005",
+   "path": "ordin/mediu/2005/87",
+   "short": "Ordin mediu nr. 87/2005",
+   "title": "Ordinul nr. 87/2005 privind aprobarea modelului și a condițiilor de emitere a certificatului de distrugere la preluarea vehiculelor scoase din uz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60604",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60604",
+     "sha256": "8de65aca0f67890047c49daf8c9dc27d2b83756ac583c140d851f7a67590f894"
     }
    ]
   },
@@ -6944,6 +7514,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65374",
      "sha256": "343fa5795ff70246e01e554d600f561d1f3ce61e36d7a77181abf51aec8df8ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1577-2005",
+   "path": "ordin/transporturi/2005/1577",
+   "short": "Ordin transporturi nr. 1577/2005",
+   "title": "Ordinul nr. 1.577/2005 pentru modificarea anexelor nr. 1 și 2 la Hotărârea Guvernului nr. 1.777/2004 privind introducerea restricției de circulație pe unele sectoare de drumuri naționale europene (E) pentru vehiculele rutiere, altele decât cele destinate exclusiv transportului de persoane, în zilele de sâmbătă, duminică și de sărbătoare legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31643",
+   "versions": [
+    {
+     "from": "2005-10-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31643",
+     "sha256": "2ce3b0329ebc6fe1047114698632364dfaeb7f9e70333b5d2bb74c07edd3fc2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1995-2005",
+   "path": "ordin/transporturi/2005/1995",
+   "short": "Ordin transporturi nr. 1995/2005",
+   "title": "Ordinul nr. 1.995/2005 pentru aprobarea Regulamentului privind prevenirea și gestionarea situațiilor de urgenta specifice riscului la cutremure și/sau alunecări de teren",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69563",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69563",
+     "sha256": "1c0755c7421767ec8fc18f3d4e0427ba5b8b63af09c8a1e499ae11928bd0af25"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1340/2009 · 1 versions, from 2009-07-23 (latest in force: 2009-07-23) · <https://legislatie.just.ro/Public/DetaliiDocument/109846>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE RECTIFICATIVĂ 710 [SIGLA] ANAF ┌───────────────────────────────┐ │ Perioada de raportare │ │ │ │ Luna [][] ANUL [][][][] │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE RECTIFICATIVĂ 710 [SIGLA] ANAF): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-anaf-1340-2009` (tags `ordin-anaf-1340-2009/<day>`; `python tools
 - Ordin anaf nr. 1340/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1340/2009: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului 710 "Declarație rectificativă", cod 14.13.01.00/r 1. Declarația rectificativă se utilizează pentru corectarea impozitelor, taxelor și contribuțiilor adminis) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 109846 of the official web service.
 - Ordin anaf nr. 1340/2009: Anexa nr. 3 (3 CARACTERISTICI de tipărire, modul de difuzare, utilizare și păstrare a formularului 1. Denumire: 710 "Declarație rectificativă" 2. Cod: 14.13.01.00/r 3. Caracteristici de tipărire: se utilizează ech) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 109846 of the official web service.
-- Ordin anaf nr. 1340/2009: Anexa nr. 1 (1 DECLARAȚIE RECTIFICATIVĂ 710 [SIGLA] ANAF ┌───────────────────────────────┐ │ Perioada de raportare │ │ │ │ Luna [][] ANUL [][][][] │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1340/2009: Anexa nr. 1 (1 DECLARAȚIE RECTIFICATIVĂ 710 [SIGLA] ANAF) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

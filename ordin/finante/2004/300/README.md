@@ -2,7 +2,7 @@
 
 Ordin finante nr. 300/2004 · 1 versions, from 2004-03-08 (latest in force: 2004-03-08) · <https://legislatie.just.ro/Public/DetaliiDocument/50260>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ┌────────┐ │ STEMA │ ROMÂNIA │ROMÂNIEI│ MINISTERUL FINANTELOR PUBLICE MFP └────────┘ CERTIFICAT DE INREGISTRARE FISCALA ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3): it is a table that the official text holds only flattened; text printed after its signature (3988 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,4 +32,5 @@ Act id: `ordin-finante-300-2004` (tags `ordin-finante-300-2004/<day>`; `python t
 - Ordin finante nr. 300/2004: Anexa nr. 1 (1 Modelul, conținutul și instrucțiunile de completare ale formularelor Instrucțiuni de completare a formularului "Declarație de înregistrare fiscala/Declarație de mențiuni pentru persoane juridice, as) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 50260 of the official web service.
 - Ordin finante nr. 300/2004: Anexa nr. 2 (2 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor 1. Declarație de înregistrare fiscala/Declarație de mențiuni pentru persoane juridice, asociații familiale) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 50260 of the official web service.
 - Ordin finante nr. 300/2004: Anexa nr. 4 (4 CARACTERISTICILE DE TIPARIRE PENTRU FORMULARUL "CERTIFICAT DE INREGISTRARE FISCALA" 1. Denumire: Certificat de înregistrare fiscala 2. Cod: 14.13.20.99 3. Format: A5. Se tiparesc doua certificate pe) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 50260 of the official web service.
-- Ordin finante nr. 300/2004: Anexa nr. 3 (3 ┌────────┐ │ STEMA │ ROMÂNIA │ROMÂNIEI│ MINISTERUL FINANTELOR PUBLICE MFP └────────┘ CERTIFICAT DE INREGISTRARE FISCALA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 300/2004: Anexa nr. 3 (3) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 300/2004: the official text prints 3988 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

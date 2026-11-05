@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 233/2011 · 1 versions, from 2011-02-08 (latest in force: 2011-02-08) · <https://legislatie.just.ro/Public/DetaliiDocument/126065>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE ┌─────────────┐ privind veniturile realizate │ SIGLA │ din străinătate │ Agenția │ ┌──┬──┬──┬──┐ 201 │ Națională │ Anul └──┴──┴──┴──┘ │ de │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 DECLARAȚIE): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,4 @@ Act id: `ordin-anaf-233-2011` (tags `ordin-anaf-233-2011/<day>`; `python tools/o
 - Ordin anaf nr. 233/2011: Anexa nr. 2 (3 BORDEROU CENTRALIZATOR *) de însoțire a declarației informative....... pentru anul...... Codul de identificare fiscală al plătitorului de venit: Denumirea/Numele și prenumele: Adresa: Telefonul: Per) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 126065 of the official web service.
 - Ordin anaf nr. 233/2011: Anexa nr. 3 (4 INSTRUCȚIUNI privind depunerea în format electronic a formularului 205 "Declarație informativă privind impozitul reținut la sursă, pe beneficiari de venit", cod 14.13.01.13/I Declarația informativă) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 126065 of the official web service.
 - Ordin anaf nr. 233/2011: Anexa nr. 4 (5 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor 1. Denumire: "Declarație privind veniturile realizate din România" (formularul 200) 1.1. Cod: 14.13.01.13) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 126065 of the official web service.
-- Ordin anaf nr. 233/2011: Anexa nr. 1 (1 DECLARAȚIE ┌─────────────┐ privind veniturile realizate │ SIGLA │ din străinătate │ Agenția │ ┌──┬──┬──┬──┐ 201 │ Națională │ Anul └──┴──┴──┴──┘ │ de │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 233/2011: Anexa nr. 1 (1 DECLARAȚIE) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

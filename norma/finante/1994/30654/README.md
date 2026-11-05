@@ -2,7 +2,7 @@
 
 Norma finante nr. 30654/1994 · 1 versions, from 1994-10-12 (latest in force: 1994-10-12) · <https://legislatie.just.ro/Public/DetaliiDocument/5590>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 SINTEZA RAPORTULUI DE EXPERTIZA ┌─────────────────────────────────────────────────────────────────────────────┐ │ Proiectant: │ │ Antet │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 SINTEZA RAPORTULUI DE EXPERTIZA): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -79,4 +79,4 @@ Act id: `norma-finante-30654-1994` (tags `norma-finante-30654-1994/<day>`; `pyth
 - Norma finante nr. 30654/1994: Anexa nr. 11 (11 CONSILIUL JUDEȚEAN...................... CĂTRE............................... (asociația de locatari sau proprietari) Str.................. nr....... sectorul............. Codul poștal.............) is part of the norm and is published in its folder, anexa-11/ (paragraphs), from document 5590 of the official web service.
 - Norma finante nr. 30654/1994: Anexa nr. 12 (12 CONSILIUL JUDEȚEAN............. DECONT JUSTIFICATIV privind alocațiile de la bugetul de stat pentru expertizare, acordate în baza Ordonanței Guvernului nr. 20/1994, pe luna................ - mii le) is part of the norm and is published in its folder, anexa-12/ (paragraphs), from document 5590 of the official web service.
 - Norma finante nr. 30654/1994: Anexa nr. 13 (13 BANCA ROMÂNĂ PENTRU DEZVOLTARE - S.A. DECONT JUSTIFICATIV privind alocațiile pentru acoperirea diferențelor de dobinzi la creditele bancare pentru proiectarea și execuția lucrărilor de punere în si) is part of the norm and is published in its folder, anexa-13/ (paragraphs), from document 5590 of the official web service.
-- Norma finante nr. 30654/1994: Anexa nr. 1 (1 SINTEZA RAPORTULUI DE EXPERTIZA ┌─────────────────────────────────────────────────────────────────────────────┐ │ Proiectant: │ │ Antet │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma finante nr. 30654/1994: Anexa nr. 1 (1 SINTEZA RAPORTULUI DE EXPERTIZA) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

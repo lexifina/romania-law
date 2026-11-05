@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1224/2008 · 1 versions, from 2008-04-25 (latest in force: 2008-04-25) · <https://legislatie.just.ro/Public/DetaliiDocument/91820>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 [SIGLA] ANAF DECLARAȚIE privind subvențiile sau transferurile primite de la bugetul de stat, neregularizate și nerestituite în termenul legal ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 [SIGLA] ANAF DECLARAȚIE privind subvențiile sau transferurile primite de la bugetul de stat, neregularizate și nerestituite în termenul legal): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,5 +24,5 @@ Act id: `ordin-finante-1224-2008` (tags `ordin-finante-1224-2008/<day>`; `python
 - Ordin finante nr. 1224/2008: the first version is the order as published in Monitorul Oficial nr. 329 of 25 April 2008 (document 91820 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 1224/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1224/2008: Anexa nr. 2 (2 CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, de utilizare și de păstrare a formularului 1. Denumire: Declarație privind subvențiile sau transferurile primite de la bugetul de stat, neregularizat) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 91820 of the official web service.
-- Ordin finante nr. 1224/2008: Anexa nr. 1 (1 [SIGLA] ANAF DECLARAȚIE privind subvențiile sau transferurile primite de la bugetul de stat, neregularizate și nerestituite în termenul legal ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1224/2008: Anexa nr. 1 (1 [SIGLA] ANAF DECLARAȚIE privind subvențiile sau transferurile primite de la bugetul de stat, neregularizate și nerestituite în termenul legal) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 1224/2008: the publisher's notes run into its text (*) anul acordării alocaţiei bugetare; **) denumirea subvenţiei sau transferului de la bugetul de stat conform actului normativ a aprobare) are not text.

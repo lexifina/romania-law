@@ -77,6 +77,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134905",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-171-2011",
+"path": "instructiuni/interne/2011/171",
+"kind": "instructiuni",
+"year": "2011",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 171/2011 privind investigarea evenimentelor de navigație produse cu nave, ambarcațiuni sau mijloace plutitoare aparținând Ministerului Administrației și Internelor",
+"short": "Instrucțiuni interne nr. 171/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-09-01",
+"latest": "2011-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/131181",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 35/2005 · 1 versions, from 2005-01-24 (latest in force: 2005-01-24) · <https://legislatie.just.ro/Public/DetaliiDocument/58796>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1529 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,3 +29,4 @@ Act id: `ordin-finante-35-2005` (tags `ordin-finante-35-2005/<day>`; `python too
 - Ordin finante nr. 35/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 35/2005: Anexa nr. 1 (2 INSTRUCȚIUNI pentru completarea formularelor 101"Declarație privind impozitul pe profit", 120"Decont privind accizele" și 130"Decont privind impozitul la țițeiul și la gazele naturale din producția) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 58796 of the official web service.
 - Ordin finante nr. 35/2005: Anexa nr. 2 (3 CARACTERISTICI de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor 101 "Declarație privind impozitul pe profit" Denumire: 101 "Declarație privind impozitul pe profit" Cod: 14.) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 58796 of the official web service.
+- Ordin finante nr. 35/2005: the official text prints 1529 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

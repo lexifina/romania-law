@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1801/2014 · 1 versions, from 2015-01-05 (latest in force: 2015-01-05) · <https://legislatie.just.ro/Public/DetaliiDocument/164346>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 9* CEC PENTRU RIDICARE NUMERAR MULTIPLU ┌────────────────────┐ ┌───────────┐ ┌────────────┐ │COD BARE │ NUMĂR │ │ DATA │ │ │ │ └───────────┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 9* CEC PENTRU RIDICARE NUMERAR MULTIPLU): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-finante-1801-2014` (tags `ordin-finante-1801-2014/<day>`; `python
 - Ordin finante nr. 1801/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 1801/2014: the first version is the order as published in Monitorul Oficial nr. 4 of 5 January 2015 (document 164346 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 1801/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 1801/2014: Anexa nr. 1 (*Font 9* CEC PENTRU RIDICARE NUMERAR MULTIPLU ┌────────────────────┐ ┌───────────┐ ┌────────────┐ │COD BARE │ NUMĂR │ │ DATA │ │ │ │ └───────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1801/2014: Anexa nr. 1 (*Font 9* CEC PENTRU RIDICARE NUMERAR MULTIPLU) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

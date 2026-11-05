@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3833/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174502>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────────┬─────────────────────────┬──────────────────────────┐ │ SIGLA │ Direcția.............. │ Nr. înregistrare....... │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,5 +28,5 @@ Act id: `ordin-anaf-3833-2015` (tags `ordin-anaf-3833-2015/<day>`; `python tools
 - Ordin anaf nr. 3833/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3833/2015: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului "Dispoziție privind măsurile stabilite de organele de inspecție fiscală" Formularul "Dispoziție privind măsurile stabilite de organele de inspecție fiscală") is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 174502 of the official web service.
 - Ordin anaf nr. 3833/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale formularului "Dispoziție privind măsurile stabilite de organele de inspecție fiscală" 1. Denumire: Dispoziție privind măsur) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 174502 of the official web service.
-- Ordin anaf nr. 3833/2015: Anexa nr. 1 (1 ┌───────────────────────┬─────────────────────────┬──────────────────────────┐ │ SIGLA │ Direcția.............. │ Nr. înregistrare....... │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3833/2015: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3833/2015: the publisher's notes run into its text (*1) Se completează cu denumirea acţiunii de inspecţie fiscală/control care poate fi: inspecţie fiscală generală, parţial; *4) Se completează măsura dispusă de organul de inspecţie fiscală.; *5) Se completează cu termenul pentru ducerea la îndeplinire a măsurii dispuse.; *6) Se prezintă pe scurt fapta care a condus la necesitatea dispunerii măsurilor.; *7) Pentru fiecare faptă descrisă se menţionează actele normative încălcate.) are not text.

@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "norma-dezvoltare-3291-2001",
+   "path": "norma/dezvoltare/2001/3291",
+   "short": "Norma dezvoltare nr. 3291/2001",
+   "title": "Norma nr. 3.291/2001 privind constituirea și utilizarea veniturilor cu destinație specială pentru aviația civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30110",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30110",
+     "sha256": "8c06e5288a9fdc2aaf289ddac784b7ab619f580ede1bad6a7e8d61775f33f38e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-3705-mm-2001",
+   "path": "norma/dezvoltare/2001/3705-mm",
+   "short": "Norma dezvoltare nr. 3705/MM/2001",
+   "title": "Norma nr. 3.705/MM/2001 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30764",
+   "versions": [
+    {
+     "from": "2001-09-19",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30764",
+     "sha256": "535970f035be352f91a934b3174a48d772c7fad1915fc447ae934694675aeccb"
+    }
+   ]
+  },
+  {
    "slug": "norma-finante-21137-2001",
    "path": "norma/finante/2001/21137",
    "short": "Norma finante nr. 21137/2001",

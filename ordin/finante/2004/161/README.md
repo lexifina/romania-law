@@ -2,7 +2,7 @@
 
 Ordin finante nr. 161/2004 · 1 versions, from 2004-02-12 (latest in force: 2004-02-12) · <https://legislatie.just.ro/Public/DetaliiDocument/49732>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 210 ┌──────────┐ FISA FISCALA 1 │ ROMÂNIA │ (pentru venituri din salarii │ ┌─────┐ │ la functia de baza - FF1) │ │ MFP │ │ │ └─────┘ │ │MINISTERUL│ Pentru ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 210): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,4 +35,4 @@ Act id: `ordin-finante-161-2004` (tags `ordin-finante-161-2004/<day>`; `python t
 - Ordin finante nr. 161/2004: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 49732 of the official web service.
 - Ordin finante nr. 161/2004: Anexa nr. 4 (4 CONDIȚII pentru transmiterea fiselor fiscale pe cale electronică Informațiile din fisele fiscale (FF1 și FF2) pot fi transmise fie: a) în fișiere format text ASCII, în care fiecare înregistrare (lin) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 49732 of the official web service.
 - Ordin finante nr. 161/2004: Anexa nr. 5 (5 CARACTERISTICILE de tipărire, modul de difuzare, utilizare și păstrare a fișelor fiscale 1. Denumirea formularului: Fișa fiscală 1 (pentru venituri din salarii la funcția de bază - FF1) Cod: 14.13.0) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 49732 of the official web service.
-- Ordin finante nr. 161/2004: Anexa nr. 1 (1 210 ┌──────────┐ FISA FISCALA 1 │ ROMÂNIA │ (pentru venituri din salarii │ ┌─────┐ │ la functia de baza - FF1) │ │ MFP │ │ │ └─────┘ │ │MINISTERUL│ Pentru ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 161/2004: Anexa nr. 1 (1 210) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

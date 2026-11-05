@@ -2,7 +2,7 @@
 
 Ordin anre nr. 1/2000 · 1 versions, from 2000-08-14 (latest in force: 2000-08-14) · <https://legislatie.just.ro/Public/DetaliiDocument/23722>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 7 (2b) TARIFELE ZONALE pentru transportul energiei electrice ┌───┬───────────────────────────────────────┬──────────────────────────────────┐ │Nr.│ │ Componentele ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 7 (2b) TARIFELE ZONALE pentru transportul energiei electrice): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -52,5 +52,5 @@ Act id: `ordin-anre-1-2000` (tags `ordin-anre-1-2000/<day>`; `python tools/on.py
 - Ordin anre nr. 1/2000: Anexa nr. 5 (1.5 DEFINIREA orelor de vârf, a orelor normale și a orelor de gol pentru consumatorii casnici care aleg tariful diferențiat pe trei zone orare Sezon Ore de vârf Ore de gol Ore normale Vara 8,00-9,00 0) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 23722 of the official web service.
 - Ordin anre nr. 1/2000: Anexa nr. 6 (2a) TARIFELE MEDII pentru activitățile de transport și distribuție a energiei electrice, aplicate de Compania Naționala de Electricitate - S.A. Agentul economic din cadrul Companiei Naționale de Elect) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 23722 of the official web service.
 - Ordin anre nr. 1/2000: Anexa nr. 8 (3 ORELE DE VARF ale Sistemului electroenergetic național și alte zone orare Luna Ore de vârf Ore de gol Ore normale Ianuarie zile lucrătoare 8-10 17-22 0-6 10-17, 22-0, 6-8 sâmbăta și duminica - - 22-) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 23722 of the official web service.
-- Ordin anre nr. 1/2000: Anexa nr. 7 (2b) TARIFELE ZONALE pentru transportul energiei electrice ┌───┬───────────────────────────────────────┬──────────────────────────────────┐ │Nr.│ │ Componentele ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 1/2000: Anexa nr. 7 (2b) TARIFELE ZONALE pentru transportul energiei electrice) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 1/2000: the publisher's notes run into its text (*) Inclusiv pentru dispecerizarea SEN.; *) Se aplica şi consumului înregistrat în perioada: vineri, ora 22,00 - luni, ora 6,00.; *) Tarif mediu.; **) Tariful pentru transportul energiei electrice între doua zone este suma dintre componenta C1 a zonei în care se intr) are not text.

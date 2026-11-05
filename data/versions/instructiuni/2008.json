@@ -16,6 +16,36 @@
      "sha256": "5bc2f6918bedb1512a7fc51e9d47cef7faa1edac75401104cbb3aee5565a1a81"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-549-2008",
+   "path": "instructiuni/interne/2008/549",
+   "short": "Instrucțiuni interne nr. 549/2008",
+   "title": "Instrucțiunile nr. 549/2008 privind organizarea cadastrului pentru structurile din Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96213",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96213",
+     "sha256": "acd7b426dcddafb73a22a829fff297455a3162ab1ec11a146e77320c5498cee1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-664-2008",
+   "path": "instructiuni/interne/2008/664",
+   "short": "Instrucțiuni interne nr. 664/2008",
+   "title": "Instrucțiunile nr. 664/2008 privind normele de asigurare tehnică a construcțiilor aflate în administrarea Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100392",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100392",
+     "sha256": "ae6606cc8f55040d04b14e425bbcc2b9f6be9a96d018135cec5cb7b0c4b3f5c7"
+    }
+   ]
   }
  ]
 }

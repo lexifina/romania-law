@@ -2,7 +2,7 @@
 
 Ordin finante nr. 955/2006 · 1 versions, from 2006-08-16 (latest in force: 2006-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/74330>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────┬───────────────────────────────────────────┬──────────┬──────────────┐ │390 │DECLARAȚIE RECAPITULATIVĂ │(Sigla │ │ │VIES │PRIVIND ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,4 +31,4 @@ Act id: `ordin-finante-955-2006` (tags `ordin-finante-955-2006/<day>`; `python t
 - Ordin finante nr. 955/2006: Anexa nr. 2 (2 INSTRUCȚIUNI pentru completarea Declarației recapitulative privind livrările/achizițiile intracomunitare de bunuri 1. Declarația recapitulativă privind livrările/achizițiile intracomunitare de bunur) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 74330 of the official web service; the service's copy of it as a document of its own (74331) reads the same words.
 - Ordin finante nr. 955/2006: Anexa nr. 3 (3 CARACTERISTICILE de tipărire, modul de difuzare, utilizare și arhivare a Declarației recapitulative privind livrările/achizițiile intracomunitare de bunuri Denumire formular: Declarație recapitulati) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 74330 of the official web service.
 - Ordin finante nr. 955/2006: Anexa nr. 4 (4 PROCEDURĂ de gestionare a Declarației recapitulative privind livrările/achizițiile intracomunitare de bunuri În vederea îndeplinirii cerințelor Regulamentului CE nr. 1798/2003, persoanele impozabile) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 74330 of the official web service; the service's copy of it as a document of its own (74332) reads the same words.
-- Ordin finante nr. 955/2006: Anexa nr. 1 (1 ┌───────┬───────────────────────────────────────────┬──────────┬──────────────┐ │390 │DECLARAȚIE RECAPITULATIVĂ │(Sigla │ │ │VIES │PRIVIND ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 955/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

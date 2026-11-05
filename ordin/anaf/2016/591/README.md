@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 591/2016 · 1 versions, from 2016-02-08 (latest in force: 2016-02-08) · <https://legislatie.just.ro/Public/DetaliiDocument/175643>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 I. DATE DE IDENTIFICARE ┌─────────────────────────────────────────────────────────────────────────────┐ │Cod de ┌─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐ │ │identificare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 I. DATE DE IDENTIFICARE): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,4 +34,4 @@ Act id: `ordin-anaf-591-2016` (tags `ordin-anaf-591-2016/<day>`; `python tools/o
 - Ordin anaf nr. 591/2016: Anexa nr. 2 (2 INSTRUCȚIUNI pentru completarea formularului (390 VIES) "Declarație recapitulativă privind livrările/achizițiile/ prestările intracomunitare" 1.1. Declarația recapitulativă se depune lunar, în condi) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 175643 of the official web service.
 - Ordin anaf nr. 591/2016: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale Declarației recapitulative privind livrările/achizițiile/prestările intracomunitare Denumirea formularului: (390 VIES) Decl) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 175643 of the official web service.
 - Ordin anaf nr. 591/2016: Anexa nr. 4 (4 PROCEDURA DE GESTIONARE a Declarației recapitulative privind livrările/achizițiile/prestările intracomunitare În vederea îndeplinirii cerințelor Regulamentului (UE) nr. 904/2010 al Consiliului din 7) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 175643 of the official web service.
-- Ordin anaf nr. 591/2016: Anexa nr. 1 (1 I. DATE DE IDENTIFICARE ┌─────────────────────────────────────────────────────────────────────────────┐ │Cod de ┌─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐ │ │identificare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 591/2016: Anexa nr. 1 (1 I. DATE DE IDENTIFICARE) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

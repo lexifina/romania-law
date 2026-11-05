@@ -543,6 +543,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1-2000",
+   "path": "ordin/dezvoltare/2000/1",
+   "short": "Ordin dezvoltare nr. 1/2000",
+   "title": "Ordinul nr. 1/2000 privind stabilirea activităților economice conform domeniilor de interes pentru realizarea de investiții în zonele defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22456",
+   "versions": [
+    {
+     "from": "2000-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22456",
+     "sha256": "d8223575b1aae4db1961bb8c4741242c05b601d5b161e555616a91c3748a3a02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-38-n-2000",
+   "path": "ordin/dezvoltare/2000/38-n",
+   "short": "Ordin dezvoltare nr. 38/N/2000",
+   "title": "Ordinul nr. 38/N/2000 privind obligația de marcare a construcțiilor cu plăcute de identificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23085",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23085",
+     "sha256": "76d7590e6e839714bc74401f43fb6c133bd6dfc6d94d06b4e0fe3d2e3bd159cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-66-n-2000",
+   "path": "ordin/dezvoltare/2000/66-n",
+   "short": "Ordin dezvoltare nr. 66/N/2000",
+   "title": "Ordinul nr. 66/N/2000 pentru aprobarea Specificației tehnice pentru proiectarea, execuția și exploatarea drumurilor cu o singura banda de circulație din mediul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23967",
+   "versions": [
+    {
+     "from": "2000-09-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23967",
+     "sha256": "e43f4c3ec6babfff486c0f3c7299cfba7da152c7ac2bbc6e75610db21f3a211e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-102000-2000",
    "path": "ordin/economie/2000/102000",
    "short": "Ordin economie nr. 102000/2000",
@@ -1563,6 +1608,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-1112-2000",
+   "path": "ordin/interne/2000/1112",
+   "short": "Ordin interne nr. 1112/2000",
+   "title": "Ordinul nr. 1.112/2000 pentru aprobarea Normelor metodologice privind condițiile de închidere a circulației și de instituire a restricțiilor de circulație în vederea executării de lucrări în zona drumului public și/sau pentru protejarea drumului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23874",
+   "versions": [
+    {
+     "from": "2000-10-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23874",
+     "sha256": "d1292fcb4e36c6dc45c996e8604553e948727d74abe1b1e4eb2e32a0aa9c8f1e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1076-c-2000",
    "path": "ordin/justitie/2000/1076-c",
    "short": "Ordin justitie nr. 1076/C/2000",
@@ -1724,6 +1784,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25162",
      "sha256": "ab0c35e99f4efdafaa73a126edb084fd624ae9789a34505d476b74e5cdc80700"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1184-2000",
+   "path": "ordin/mediu/2000/1184",
+   "short": "Ordin mediu nr. 1184/2000",
+   "title": "Ordinul nr. 1.184/2000 pentru aprobarea reglementării tehnice \"Ghid metodologic privind elaborarea analizelor de evaluare a impactului asupra mediului ca parte integrantă a planurilor de amenajare a teritoriului și a planurilor de urbanism - Indicativ GM 008-2000\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24285",
+   "versions": [
+    {
+     "from": "2000-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24285",
+     "sha256": "515bf03e6092a5bb77e2ec26c8d49616e8702f801030fbc0afb2ec78f25e6707"
     }
    ]
   },

@@ -184346,6 +184346,21 @@
    ]
   },
   {
+   "slug": "legea-65-2000",
+   "path": "lege/2000/65",
+   "short": "Legea nr. 65/2000",
+   "title": "Legea nr. 65/2000 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 57/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Serviciului de Telecomunicaţii Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22012",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22012",
+     "sha256": "f8badba703c48db632d6cc6bc2499852770dd0e0c9c1b2d41a40227ff40fc9cd"
+    }
+   ]
+  },
+  {
    "slug": "legea-65-2002",
    "path": "lege/2002/65",
    "short": "Legea nr. 65/2002",
@@ -185467,6 +185482,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3220",
      "sha256": "fb74dd47af2702128ad6326dde0563c0bfcbc4e9beb24eb168e6809b0755d490"
+    }
+   ]
+  },
+  {
+   "slug": "legea-67-2000",
+   "path": "lege/2000/67",
+   "short": "Legea nr. 67/2000",
+   "title": "Legea nr. 67/2000 pentru completarea anexei nr. 2 la Legea nr. 27/1994 privind impozitele şi taxele locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22039",
+   "versions": [
+    {
+     "from": "2000-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22039",
+     "sha256": "a42bc841a67a9881e242f3307c5abbdfd470eb1e352afcbc28efec7432656430"
     }
    ]
   },
@@ -187702,6 +187732,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/8393",
      "sha256": "310d0cde6a6420ee0283de11ea38b240c9d1be30d364079380ce43e1d3611932"
+    }
+   ]
+  },
+  {
+   "slug": "legea-71-2000",
+   "path": "lege/2000/71",
+   "short": "Legea nr. 71/2000",
+   "title": "Legea nr. 71/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind transportul combinat internaţional, semnat la Baku la 30 iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22199",
+   "versions": [
+    {
+     "from": "2000-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22199",
+     "sha256": "1786ceac41d49b53a251a2bbca6b73099cb0a3889e12873a432de5ab23334c24"
     }
    ]
   },
@@ -191125,6 +191170,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11494",
      "sha256": "13dd3b4160b05e0c1015ab5bc076a06a06ea7cfe75641cbade5023222e7a5ac8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-79-2000",
+   "path": "lege/2000/79",
+   "short": "Legea nr. 79/2000",
+   "title": "Legea nr. 79/2000 pentru aprobarea Ordonanţei Guvernului nr. 31/1999 privind aprobarea primei de export la grâu şi porumb boabe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22322",
+   "versions": [
+    {
+     "from": "2000-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22322",
+     "sha256": "04ea6c8c118b79f01c76e32549bf7e2677b128073aad2aeed83a466f4d27110e"
     }
    ]
   },

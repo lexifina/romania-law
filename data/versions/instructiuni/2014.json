@@ -61,6 +61,21 @@
      "sha256": "ddbef49a5830906b815a49f7e7df82110419178c5be0078ec0c227ee991937ba"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-140-2014",
+   "path": "instructiuni/interne/2014/140",
+   "short": "Instrucțiuni interne nr. 140/2014",
+   "title": "Instrucțiunile nr. 140/2014 privind modalitățile tehnice de întocmire și transmitere a documentelor și datelor necesare stabilirii drepturilor de pensie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161471",
+   "versions": [
+    {
+     "from": "2014-09-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161471",
+     "sha256": "20d2b05917605ade5bf7e4adc841ccfad09bd35d0656d20d0d4ccf515e205c9c"
+    }
+   ]
   }
  ]
 }

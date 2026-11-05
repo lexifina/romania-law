@@ -31,6 +31,36 @@
      "sha256": "d5a9e22447adf80571b0f0b1b804c288b54987609ba26b509bf5d77bced25586"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-23-2017",
+   "path": "instructiuni/interne/2017/23",
+   "short": "Instrucțiuni interne nr. 23/2017",
+   "title": "Instrucțiunile nr. 23/2017 pentru modificarea Instrucțiunilor ministrului administrației și internelor nr. 82/2010 privind organizarea și desfășurarea activității de eliberare a apostilei pentru actele oficiale administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187153",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187153",
+     "sha256": "1baf7128af68400142a46c86a81312a6df7f75572dd5e8b2042b6f9f8452961f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-94-2017",
+   "path": "instructiuni/interne/2017/94",
+   "short": "Instrucțiuni interne nr. 94/2017",
+   "title": "Instrucțiunile nr. 94/2017 pentru modificarea și completarea Instrucțiunilor viceprim-ministrului, ministrul afacerilor interne, nr. 45/2015 privind Corpul instructorilor de ordine publică din instituțiile de formare profesională inițială ale Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192140",
+   "versions": [
+    {
+     "from": "2017-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192140",
+     "sha256": "d885b61fc724d971bc1d9b5a07bd01a9f3611503b5999a112aef04f9ba7d7a5a"
+    }
+   ]
   }
  ]
 }

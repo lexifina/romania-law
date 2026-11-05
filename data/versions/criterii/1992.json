@@ -3,6 +3,21 @@
  "shard": "criterii/1992",
  "acts": [
   {
+   "slug": "criterii-dezvoltare-311-1992",
+   "path": "criterii/dezvoltare/1992/311",
+   "short": "Criterii dezvoltare nr. 311/1992",
+   "title": "Criteriile nr. 311/1992 privind stabilirea și evaluarea terenurilor aflate în patrimoniul societăților comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109488",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109488",
+     "sha256": "309dce937f7119c5a5f2ea3a7743860534f1c34ba314f267ffc6b44c4006335c"
+    }
+   ]
+  },
+  {
    "slug": "criterii-finante-2665-1992",
    "path": "criterii/finante/1992/2665",
    "short": "Criterii finante nr. 2665/1992",

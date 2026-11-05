@@ -2,7 +2,7 @@
 
 Ordin munca nr. 170/2008 · 1 versions, from 2008-03-21 (latest in force: 2008-03-21) · <https://legislatie.just.ro/Public/DetaliiDocument/90517>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (2192 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,5 @@ Act id: `ordin-munca-170-2008` (tags `ordin-munca-170-2008/<day>`; `python tools
 - Ordin munca nr. 170/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin munca nr. 170/2008: the first version is the order as published in Monitorul Oficial nr. 219 of 21 March 2008 (document 90517 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 170/2008: the signatures and the place and date line after its last article are not article text.
+- Ordin munca nr. 170/2008: the official text prints 2192 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin munca nr. 170/2008: a joint order of Ministerul Muncii, Familiei și Egalității de Șanse nr. 170 din 10 March 2008; Institutul Național de Statistică nr. 179 din 13 March 2008. It is published once, here, under the issuer its EMITENT block lists first; `ordin-ins-179-2008` name it too (data/paths.json aliases).

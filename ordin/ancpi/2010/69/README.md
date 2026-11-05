@@ -2,7 +2,7 @@
 
 Ordin ancpi nr. 69/2010 · 1 versions, from 2010-03-03 (latest in force: 2010-03-03) · <https://legislatie.just.ro/Public/DetaliiDocument/116724>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 STRUCTURA ORGANIZATORICĂ a Centrului Național de Geodezie, Cartografie, Fotogrammetrie și Teledetecție *Font 9* ┌─────────────────────┐ │ Director │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a oficiilor de cadastru și publicitate imobiliară ┌─────────────────────┐ │ Director │ └─────────┬───────────┘ │ ↓ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 STRUCTURA ORGANIZATORICĂ a Centrului Național de Geodezie, Cartografie, Fotogrammetrie și Teledetecție *Font 9*): it is a table that the official text holds only flattened; Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a oficiilor de cadastru și publicitate imobiliară): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,5 +20,5 @@ Act id: `ordin-ancpi-69-2010` (tags `ordin-ancpi-69-2010/<day>`; `python tools/o
 - Ordin ancpi nr. 69/2010: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin ancpi nr. 69/2010: the first version is the order as published in Monitorul Oficial nr. 141 of 3 March 2010 (document 116724 of the official web service), in force on its day of publication, as it states.
 - Ordin ancpi nr. 69/2010: the signatures and the place and date line after its last article are not article text.
-- Ordin ancpi nr. 69/2010: Anexa nr. 1 (1 STRUCTURA ORGANIZATORICĂ a Centrului Național de Geodezie, Cartografie, Fotogrammetrie și Teledetecție *Font 9* ┌─────────────────────┐ │ Director │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin ancpi nr. 69/2010: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a oficiilor de cadastru și publicitate imobiliară ┌─────────────────────┐ │ Director │ └─────────┬───────────┘ │ ↓ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ancpi nr. 69/2010: Anexa nr. 1 (1 STRUCTURA ORGANIZATORICĂ a Centrului Național de Geodezie, Cartografie, Fotogrammetrie și Teledetecție *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ancpi nr. 69/2010: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a oficiilor de cadastru și publicitate imobiliară) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

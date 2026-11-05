@@ -31,6 +31,51 @@
      "sha256": "39e9ee0dea50bade15c3da04646f9ce132e6dcae16e69f02360a8cca24f1ad3d"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-191-2010",
+   "path": "instructiuni/interne/2010/191",
+   "short": "Instrucțiuni interne nr. 191/2010",
+   "title": "Instrucțiunile nr. 191/2010 de aplicare a Hotărârii Guvernului nr. 735/2010 pentru recalcularea pensiilor stabilite potrivit legislației privind pensiile militare de stat, a pensiilor de stat ale polițiștilor și ale funcționarilor publici cu statut special din sistemul administrației penitenciarelor, conform Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121789",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121789",
+     "sha256": "d6ced4d182206996c93a70e174bc21d05b825529fe89490f5563db71946dbf26"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-27-2010",
+   "path": "instructiuni/interne/2010/27",
+   "short": "Instrucțiuni interne nr. 27/2010",
+   "title": "Instrucțiunile nr. 27/2010 privind măsurile de natură organizatorică și tehnică pentru asigurarea securității prelucrărilor de date cu caracter personal efectuate de către structurile/unitățile Ministerului Administrației și Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116177",
+   "versions": [
+    {
+     "from": "2010-05-13",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116177",
+     "sha256": "bd0839b313adca10776ab2dfcf59aff3d302b8f42ba5659e8329ba0f4805740b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-82-2010",
+   "path": "instructiuni/interne/2010/82",
+   "short": "Instrucțiuni interne nr. 82/2010",
+   "title": "Instrucțiunile nr. 82/2010 privind organizarea și desfășurarea activității de eliberare a apostilei pentru actele oficiale administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117661",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117661",
+     "sha256": "7a095aa70c9e9c11e381bb5a6fd662aa2ca42c34b2d8ade2f5acddb7739d82be"
+    }
+   ]
   }
  ]
 }

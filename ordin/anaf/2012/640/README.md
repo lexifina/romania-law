@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 640/2012 · 1 versions, from 2012-05-11 (latest in force: 2012-05-11) · <https://legislatie.just.ro/Public/DetaliiDocument/137764>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea taxei pe │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,4 +30,4 @@ Act id: `ordin-anaf-640-2012` (tags `ordin-anaf-640-2012/<day>`; `python tools/o
 - Ordin anaf nr. 640/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 640/2012: Anexa nr. 2 (2 Instrucțiuni de completare a formularului (307) "Declarație privind sumele rezultate din ajustarea taxei pe valoarea adăugată" Declarația privind sumele rezultate din ajustarea taxei pe valoarea adă) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 137764 of the official web service.
 - Ordin anaf nr. 640/2012: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularului (307) "Declarație privind sumele rezultate din ajustarea taxei pe valoarea adăugată" 1. Denumirea formular) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 137764 of the official web service.
-- Ordin anaf nr. 640/2012: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea taxei pe │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 640/2012: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

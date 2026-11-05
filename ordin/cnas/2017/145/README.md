@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 145/2017 · 1 versions, from 2017-03-21 (latest in force: 2017-03-21) · <https://legislatie.just.ro/Public/DetaliiDocument/187639>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (.1.4 la normele tehnice Societatea Comercială................................ Nr. contract........ încheiat cu CAS.......... Nr.............. Data........ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (.1.4 la normele tehnice Societatea Comercială................................ Nr. contract........ încheiat cu CAS.......... Nr.............. Data........ ...): it is a table that the official text holds only flattened; text printed after its signature (431 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,5 @@ Act id: `ordin-cnas-145-2017` (tags `ordin-cnas-145-2017/<day>`; `python tools/o
 - Ordin cnas nr. 145/2017: the first version is the order as published in Monitorul Oficial nr. 197 of 21 March 2017 (document 187639 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin cnas nr. 145/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 145/2017: Anexa nr. 1 (.1.4 la normele tehnice Societatea Comercială................................ Nr. contract........ încheiat cu CAS.......... Nr.............. Data........ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 145/2017: the official text prints 431 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin cnas nr. 145/2017: the publisher's notes run into its text (*) Se completează numai în situaţia completării coloanei (8) sau (9).) are not text.

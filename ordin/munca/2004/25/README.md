@@ -2,7 +2,7 @@
 
 Ordin munca nr. 25/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/50634>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: documents 50635 of the official web service, published with it, may be its annexes; the order names none, so they are not included.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: documents 50635 of the official web service, published with it, may be its annexes; the order names none, so they are not included; text printed after its signature (8927 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,3 +18,4 @@ Act id: `ordin-munca-25-2004` (tags `ordin-munca-25-2004/<day>`; `python tools/o
 - Ordin munca nr. 25/2004: the first version is the order as published in Monitorul Oficial nr. 247 of 22 March 2004 (document 50634 of the official web service), in force on 1 January 2005, the day it states for itself.
 - Ordin munca nr. 25/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 25/2004: the official web service holds documents published with it on the same day (50635) that may be its annexes; the order prints and points to no annex, so they are not included. They will be added if they are found to be part of it.
+- Ordin munca nr. 25/2004: the official text prints 8927 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

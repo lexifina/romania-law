@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 5/2010 · 1 versions, from 2010-01-15 (latest in force: 2010-01-15) · <https://legislatie.just.ro/Public/DetaliiDocument/115349>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I PROCEDURA 04/01/2010): its text is a document of its own that could not be matched to one record held; Anexa nr. 2 (II *Font 8* ┌───────────────┬──────────────────────────────────────────────────────────────┬────────────────────────┐ │ │ Cerere de rambursare pentru ...): it is a table that the official text holds only flattened; an annex it points to is not in the records held (I       Procedura of 2010-01-04).
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I PROCEDURA 04/01/2010): its text is a document of its own that could not be matched to one record held; Anexa nr. 2 (II *Font 8*): it is a table that the official text holds only flattened; an annex it points to is not in the records held (I       Procedura of 2010-01-04).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -36,6 +36,6 @@ Act id: `ordin-anaf-5-2010` (tags `ordin-anaf-5-2010/<day>`; `python tools/on.py
 - Ordin anaf nr. 5/2010: Anexa nr. 4 (IV Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale formularului 313 "Cerere de rambursare pentru persoanele impozabile neînregistrate în scopuri de TVA în România, stabilite) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 115349 of the official web service.
 - Ordin anaf nr. 5/2010: Anexa nr. 5 (V MINISTERUL FINANȚELOR PUBLICE SIGLA AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ MFP Direcția Generală a Finanțelor Publice a.............. Administrația Finanțelor Publice a.................... Nr....) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 115349 of the official web service.
 - Ordin anaf nr. 5/2010: Anexa nr. 1 (I PROCEDURA 04/01/2010) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
-- Ordin anaf nr. 5/2010: Anexa nr. 2 (II *Font 8* ┌───────────────┬──────────────────────────────────────────────────────────────┬────────────────────────┐ │ │ Cerere de rambursare pentru ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 5/2010: Anexa nr. 2 (II *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 5/2010: an annex it points to (I       Procedura of 2010-01-04) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin anaf nr. 5/2010: the publisher's notes run into its text (*) A - achiziţie, I - import, S - prestări de servicii.) are not text.

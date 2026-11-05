@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 622/2013 · 1 versions, from 2013-06-17 (latest in force: 2013-06-17) · <https://legislatie.just.ro/Public/DetaliiDocument/149011>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la procedură) Evidența cererilor de stabilire a sumei reprezentând timbrul de mediu pentru autovehicule *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la procedură) Evidența cererilor de stabilire a sumei reprezentând timbrul de mediu pentru autovehicule *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,5 +18,5 @@ Act id: `ordin-anaf-622-2013` (tags `ordin-anaf-622-2013/<day>`; `python tools/o
 - Ordin anaf nr. 622/2013: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 622/2013: the first version is the order as published in Monitorul Oficial nr. 359 of 17 June 2013 (document 149011 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 622/2013: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 622/2013: Anexa nr. 1 ((Anexa la procedură) Evidența cererilor de stabilire a sumei reprezentând timbrul de mediu pentru autovehicule *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 622/2013: Anexa nr. 1 ((Anexa la procedură) Evidența cererilor de stabilire a sumei reprezentând timbrul de mediu pentru autovehicule *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 622/2013: the publisher's notes run into its text (*) AS - autovehicule echipate cu motor cu aprindere prin scânteie.; **) Se completează cu:) are not text.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2481/2010 · 1 versions, from 2010-11-02 (latest in force: 2010-11-02) · <https://legislatie.just.ro/Public/DetaliiDocument/123228>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Formularul nr. 1 ROMÂNIA ┌───────────────┐ Județul..............................................*1) │Stema unității │ Unitatea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Formularul nr. 1 ROMÂNIA): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-finante-2481-2010` (tags `ordin-finante-2481-2010/<day>`; `python
 - Ordin finante nr. 2481/2010: the first version is the order as published in Monitorul Oficial nr. 729 of 2 November 2010 (document 123228 of the official web service), in force on its day of publication, as it states.
 - Ordin finante nr. 2481/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2481/2010: Anexa nr. 2 (2 Formularul nr. 6 ACT ADIȚIONAL Nr. 1 la Convenția de împrumut nr...../....../2010 În temeiul prevederilor art. 5 alin. (5) și (6) din Ordonanța de urgență a Guvernului nr. 51/2010 privind reglementa) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 123228 of the official web service.
-- Ordin finante nr. 2481/2010: Anexa nr. 1 (1 Formularul nr. 1 ROMÂNIA ┌───────────────┐ Județul..............................................*1) │Stema unității │ Unitatea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2481/2010: Anexa nr. 1 (1 Formularul nr. 1 ROMÂNIA) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

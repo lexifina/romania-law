@@ -2,7 +2,7 @@
 
 Ordin concurenta nr. 34/1998 · 1 versions, from 1998-05-07 (latest in force: 1998-05-07) · <https://legislatie.just.ro/Public/DetaliiDocument/14660>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (986 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,3 +18,4 @@ Act id: `ordin-concurenta-34-1998` (tags `ordin-concurenta-34-1998/<day>`; `pyth
 - Ordin concurenta nr. 34/1998: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin concurenta nr. 34/1998: the first version is the order as published in Monitorul Oficial nr. 175 of 7 May 1998 (document 14660 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Ordin concurenta nr. 34/1998: the signatures and the place and date line after its last article are not article text.
+- Ordin concurenta nr. 34/1998: the official text prints 986 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

@@ -77,6 +77,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25811",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-1120-2000",
+"path": "instructiuni/interne/2000/1120",
+"kind": "instructiuni",
+"year": "2000",
+"number": "1120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1.120/2000 privind preschimbarea permiselor de conducere străine cu documente similare românești",
+"short": "Instrucțiuni interne nr. 1120/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-06-22",
+"latest": "2000-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22913",
+"issuer": "interne",
+"joint": []
+},
+{
+"slug": "instructiuni-interne-1224-2000",
+"path": "instructiuni/interne/2000/1224",
+"kind": "instructiuni",
+"year": "2000",
+"number": "1224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1.224/2000 privind autorizarea profesorilor de legislație rutieră și a instructorilor de conducere auto",
+"short": "Instrucțiuni interne nr. 1224/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-03-03",
+"latest": "2001-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26475",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

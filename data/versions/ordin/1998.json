@@ -243,6 +243,81 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-246668-1998",
+   "path": "ordin/dezvoltare/1998/246668",
+   "short": "Ordin dezvoltare nr. 246668/1998",
+   "title": "Ordinul nr. 246.668/1998 pentru modificarea Normelor tehnice nr. 101.325/M.C./1998 privind unele măsuri pentru stimularea realizării de obiective complexe și a producției cu ciclu lung de fabricăție, destinate exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15768",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15768",
+     "sha256": "ff4db84242a7ddc5f27133bbc00190e3a8beff6a93f039c5e38250f20854bfa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-59-n-1998",
+   "path": "ordin/dezvoltare/1998/59-n",
+   "short": "Ordin dezvoltare nr. 59/N/1998",
+   "title": "Ordinul nr. 59/N/1998 ORDIN nr. 19 a/3.822 din 28 iulie 1998 privind aplicarea Hotărârii Guvernului nr. 413/1998 pentru refacerea locuințelor afectate de calamitățile naturale produse în luna iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15618",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15618",
+     "sha256": "99fd198c5be1f6bfdb65c1a7dfe97fe5d545c9a479ed0088da57c5fe6e319d45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-62-n-1998",
+   "path": "ordin/dezvoltare/1998/62-n",
+   "short": "Ordin dezvoltare nr. 62/N/1998",
+   "title": "Ordinul nr. 62/N/1998 ORDIN nr. 19.o/288 din 31 iulie 1998 privind delimitarea zonelor expuse riscurilor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15714",
+   "versions": [
+    {
+     "from": "1998-09-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15714",
+     "sha256": "c868df987f6708b39fcffb9940520138509806c38e68cf7fba2eff7e81fed694"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-63-n-1998",
+   "path": "ordin/dezvoltare/1998/63-n",
+   "short": "Ordin dezvoltare nr. 63/N/1998",
+   "title": "Ordinul nr. 63/N/1998 privind obligația afișării la loc vizibil a panoului de identificare a investiției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15659",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15659",
+     "sha256": "4ed011eaf6435fe336879bc31fbc36cd9ebf03733f14907e33f4c5be03da29c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-81-n-1998",
+   "path": "ordin/dezvoltare/1998/81-n",
+   "short": "Ordin dezvoltare nr. 81/N/1998",
+   "title": "Ordinul nr. 81/N/1998 pentru modificarea și completarea Ordinului nr. 59/N/1998 - 19a/3.822/1998 privind aplicarea Hotărârii Guvernului nr. 413/1998 pentru refacerea locuințelor afectate de calamitățile naturale produse în luna iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16235",
+   "versions": [
+    {
+     "from": "1998-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16235",
+     "sha256": "23a212d41e12209db65b80fd229cdb6272c1273737f06ca1a978f5ef04d940f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-220795-1998",
    "path": "ordin/economie/1998/220795",
    "short": "Ordin economie nr. 220795/1998",
@@ -1049,6 +1124,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14841",
      "sha256": "ee9847e797defb345fddada45f13c305e01868947782abc54d5b1ccc147f0b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-791-1998",
+   "path": "ordin/interne/1998/791",
+   "short": "Ordin interne nr. 791/1998",
+   "title": "Ordinul nr. 791/1998 pentru aprobarea Normelor metodologice de avizare și autorizare privind prevenirea și stingerea incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15851",
+   "versions": [
+    {
+     "from": "1998-11-08",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15851",
+     "sha256": "88475a5c376a623a052cdc5c16e6dee7ee9ac02245cd81e3e82462547566b0f1"
     }
    ]
   },

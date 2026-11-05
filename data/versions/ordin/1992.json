@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-589-1992",
+   "path": "ordin/dezvoltare/1992/589",
+   "short": "Ordin dezvoltare nr. 589/1992",
+   "title": "Ordinul nr. 589/1992 privind unele măsuri ce se impun în vederea împiedicării degradării, distrugerii, precum și protejării bunurilor imobile cu valoare de patrimoniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2785",
+   "versions": [
+    {
+     "from": "1992-01-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2785",
+     "sha256": "5f06cbee8df2e0f0c89715d21cc8ae4e1f42527bb5bd068832886751660e045a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1309-1992",
    "path": "ordin/finante/1992/1309",
    "short": "Ordin finante nr. 1309/1992",
@@ -89,6 +104,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2087",
      "sha256": "02350487a33097ac244b15e63183c9a395dc4b3c3fb3db0f4bebf7e8e361b6b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-225-1992",
+   "path": "ordin/interne/1992/225",
+   "short": "Ordin interne nr. 225/1992",
+   "title": "Ordinul nr. 225/1992 pentru aprobarea procedurii de eliberare a avizului și autorizației de prevenire și stingere a incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2536",
+   "versions": [
+    {
+     "from": "1992-06-05",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2536",
+     "sha256": "39d66cfcd66223cfa08789240624b7e919b4f2e1ef060bae5427aadedb4d39fb"
     }
    ]
   },

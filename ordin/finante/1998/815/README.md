@@ -2,7 +2,7 @@
 
 Ordin finante nr. 815/1998 · 1 versions, from 1998-06-12 (latest in force: 1998-06-12) · <https://legislatie.just.ro/Public/DetaliiDocument/14903>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (MINISTERUL FINANȚELOR DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A JUDEȚULUI................... Unitatea fiscală............ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (MINISTERUL FINANȚELOR DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A JUDEȚULUI................... Unitatea fiscală............): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-finante-815-1998` (tags `ordin-finante-815-1998/<day>`; `python t
 - Ordin finante nr. 815/1998: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 815/1998: the first version is the order as published in Monitorul Oficial nr. 216 of 12 June 1998 (document 14903 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Ordin finante nr. 815/1998: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 815/1998: Anexa nr. 1 (MINISTERUL FINANȚELOR DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A JUDEȚULUI................... Unitatea fiscală............ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 815/1998: Anexa nr. 1 (MINISTERUL FINANȚELOR DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A JUDEȚULUI................... Unitatea fiscală............) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

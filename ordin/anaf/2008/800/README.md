@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 800/2008 · 1 versions, from 2008-05-19 (latest in force: 2008-05-19) · <https://legislatie.just.ro/Public/DetaliiDocument/93058>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE de autorizare ca operator economic comerciant de tutun brut și/sau tutun parțial prelucrat ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE de autorizare ca operator economic comerciant de tutun brut și/sau tutun parțial prelucrat): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,5 +27,5 @@ Act id: `ordin-anaf-800-2008` (tags `ordin-anaf-800-2008/<day>`; `python tools/o
 - Ordin anaf nr. 800/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 800/2008: Anexa nr. 2 (2 AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ AUTORITATEA NAȚIONALĂ A VĂMILOR Direcția județeană pentru accize și operațiuni vamale........ AUTORIZAȚIE de operator economic comerciant de tutun brut și/s) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 93058 of the official web service.
 - Ordin anaf nr. 800/2008: Anexa nr. 3 (3 INSTRUCȚIUNI privind procedura de soluționare a cererii de autorizare a operatorilor economici care doresc să comercializeze tutun brut și/sau tutun parțial prelucrat 1. Autorizarea activității de c) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 93058 of the official web service; the service's copy of it as a document of its own (93059) reads the same words.
-- Ordin anaf nr. 800/2008: Anexa nr. 1 (1 CERERE de autorizare ca operator economic comerciant de tutun brut și/sau tutun parțial prelucrat ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 800/2008: Anexa nr. 1 (1 CERERE de autorizare ca operator economic comerciant de tutun brut și/sau tutun parțial prelucrat) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 800/2008: the publisher's notes run into its text (*) Tipul de tutun: tutun brut sau tutun parţial prelucrat.) are not text.

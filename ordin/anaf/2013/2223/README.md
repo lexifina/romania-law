@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2223/2013 · 1 versions, from 2013-08-29 (latest in force: 2013-08-29) · <https://legislatie.just.ro/Public/DetaliiDocument/151071>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea/corecția │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,4 +30,4 @@ Act id: `ordin-anaf-2223-2013` (tags `ordin-anaf-2223-2013/<day>`; `python tools
 - Ordin anaf nr. 2223/2013: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2223/2013: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (307) "Declarație privind sumele rezultate din ajustarea/corecția ajustărilor/regularizarea taxei pe valoarea adăugată" Declarația privind sumele rezultate) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 151071 of the official web service.
 - Ordin anaf nr. 2223/2013: Anexa nr. 3 (3 CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și de arhivare a formularului (307) "Declarație privind sumele rezultate din ajustarea/corecția ajustărilor/regularizarea taxei pe valoa) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 151071 of the official web service.
-- Ordin anaf nr. 2223/2013: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 307 │ │ │ privind sumele rezultate din ajustarea/corecția │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2223/2013: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 260/2007 · 1 versions, from 2007-06-08 (latest in force: 2007-06-08) · <https://legislatie.just.ro/Public/DetaliiDocument/82699>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────┬─────────────────────────────────────────┬───────┐ │ 500 │ │ │ │Numar de operator │ FISA DE INSCRIERE IN CAZIERUL FISCAL │[SIGLA]│ │de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,4 +32,4 @@ Act id: `ordin-finante-260-2007` (tags `ordin-finante-260-2007/<day>`; `python t
 - Ordin finante nr. 260/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 260/2007: Anexa nr. 2 (2 CARACTERISTICI de tipărire, modul de difuzare, de utilizare și de păstrare ale formularelor 1. Fișa de înscriere în cazierul fiscal, cod 14.13.43.15/1 1. Denumire: Fișa de înscriere în cazierul fisc) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 82699 of the official web service.
 - Ordin finante nr. 260/2007: Anexa nr. 3 (3 1. Procedura de înscriere a datelor în bazele de date cuprinzând cazierul fiscal 1.1. Înscrierea datelor în cazierul fiscal se face numai pe baza fișelor de înscriere. 1.2. Fișele de înscriere a fap) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 82699 of the official web service.
-- Ordin finante nr. 260/2007: Anexa nr. 1 (1 ┌───────────────────┬─────────────────────────────────────────┬───────┐ │ 500 │ │ │ │Numar de operator │ FISA DE INSCRIERE IN CAZIERUL FISCAL │[SIGLA]│ │de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 260/2007: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

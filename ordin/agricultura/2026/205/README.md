@@ -2,7 +2,7 @@
 
 Ordin agricultura nr. 205/2026 · 1 versions, from 2026-09-23 (latest in force: 2026-09-23) · <https://legislatie.just.ro/Public/DetaliiDocument/314774>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (73 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,5 @@ Act id: `ordin-agricultura-205-2026` (tags `ordin-agricultura-205-2026/<day>`; `
 - Ordin agricultura nr. 205/2026: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin agricultura nr. 205/2026: the first version is the order as published in Monitorul Oficial nr. 807 of 23 September 2026 (document 314774 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin agricultura nr. 205/2026: the signatures and the place and date line after its last article are not article text.
+- Ordin agricultura nr. 205/2026: the official text prints 73 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin agricultura nr. 205/2026: a joint order of Ministerul Agriculturii și Dezvoltării Rurale nr. 205 din 22 July 2026; Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 927 din 14 August 2026; Ministerul Afacerilor Interne nr. 133 din 25 August 2026; Ministerul Finanțelor nr. 1.223 din 14 September 2026; Institutul Național de Statistică nr. 702 din 9 September 2026; Agenția Națională de Cadastru și Publicitate Imobiliară nr. 26.119 din 28 July 2026; Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 852 din 28 August 2026. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-927-2026`, `ordin-interne-133-2026`, `ordin-finante-1223-2026`, `ordin-ins-702-2026`, `ordin-ancpi-26119-2026`, `ordin-ansvsa-852-2026` name it too (data/paths.json aliases).

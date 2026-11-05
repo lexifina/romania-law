@@ -2,7 +2,7 @@
 
 Ordin anre nr. 183/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174521>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 8* ┌────┬───────────────────────────────────────────┬──────┬─────────────────────────────┬────────────┐ │Nr. │ Indicatori │ U.M. │ Formulă de calcul │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,5 +19,5 @@ Act id: `ordin-anre-183-2015` (tags `ordin-anre-183-2015/<day>`; `python tools/o
 - Ordin anre nr. 183/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 183/2015: the first version is the order as published in Monitorul Oficial nr. 988 of 31 December 2015 (document 174521 of the official web service), in force on 1 January 2016, the day it states for itself.
 - Ordin anre nr. 183/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 183/2015: Anexa nr. 1 (*Font 8* ┌────┬───────────────────────────────────────────┬──────┬─────────────────────────────┬────────────┐ │Nr. │ Indicatori │ U.M. │ Formulă de calcul │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 183/2015: Anexa nr. 1 (*Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 183/2015: the publisher's notes run into its text (*) Prin Metodologie se înţelege Metodologia de stabilire a cotelor anuale obligatorii de energie electrică produsă din s) are not text.

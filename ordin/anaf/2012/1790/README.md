@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1790/2012 · 1 versions, from 2012-11-26 (latest in force: 2012-11-26) · <https://legislatie.just.ro/Public/DetaliiDocument/143124>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┬───────────────────────────────────────────────┬───────────────────┐ │ 300 │ DECONT │ SIGLA │ │ │ DE TAXĂ PE VALOAREA ADĂUGATĂ │ ANAF │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,5 +28,5 @@ Act id: `ordin-anaf-1790-2012` (tags `ordin-anaf-1790-2012/<day>`; `python tools
 - Ordin anaf nr. 1790/2012: the first version is the order as published in Monitorul Oficial nr. 791 of 26 November 2012 (document 143124 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1790/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1790/2012: Anexa nr. 2 (3 Caracteristicile de tipărire, modul de utilizare și păstrare ale formularului (300) "Decont de taxă pe valoarea adăugată" Denumirea formularului: Decont de taxă pe valoarea adăugată Cod MFP: 14.13.0) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 143124 of the official web service.
-- Ordin anaf nr. 1790/2012: Anexa nr. 1 (1 ┌──────────┬───────────────────────────────────────────────┬───────────────────┐ │ 300 │ DECONT │ SIGLA │ │ │ DE TAXĂ PE VALOAREA ADĂUGATĂ │ ANAF │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1790/2012: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 1790/2012: the publisher's notes run into its text (*) Prin jurnale de vânzări şi jurnale de cumpărări se înţelege orice jurnale, registre, evidenţe sau alte documente simi; **) Pentru a evita orice neconcordanţă între livrările intracomunitare de bunuri, scutite de TVA, care se includ în deco) are not text.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 411/2006 · 1 versions, from 2006-03-31 (latest in force: 2006-03-31) · <https://legislatie.just.ro/Public/DetaliiDocument/70396>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I ┌───────────────────┬──────────────────────────────────┬───────────────────────┐ │ │ DECLARATIE │ Ministerul Finanțelor │ │ 215 │PRIVIND VENITURILE DIN ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,4 +32,4 @@ Act id: `ordin-finante-411-2006` (tags `ordin-finante-411-2006/<day>`; `python t
 - Ordin finante nr. 411/2006: Anexa nr. 2 (II) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 70396 of the official web service.
 - Ordin finante nr. 411/2006: Anexa nr. 3 (III PROCEDURA de stabilire a impozitului pe veniturile din activități agricole impuse pe bază de norme de venit 1. Impozitul pe venitul net din activități agricole se stabilește de organul fiscal comp) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 70396 of the official web service.
 - Ordin finante nr. 411/2006: Anexa nr. 4 (IV CARACTERISTICI DE TIPĂRIRE modul de difuzare, de utilizare și de păstrare a formularelor I. Declarație privind veniturile din activități agricole - impunere pe norme de venit, cod 14.13.01.13/9 1.) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 70396 of the official web service.
-- Ordin finante nr. 411/2006: Anexa nr. 1 (I ┌───────────────────┬──────────────────────────────────┬───────────────────────┐ │ │ DECLARATIE │ Ministerul Finanțelor │ │ 215 │PRIVIND VENITURILE DIN ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 411/2006: Anexa nr. 1 (I) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

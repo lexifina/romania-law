@@ -2,7 +2,7 @@
 
 Norma bnr nr. 18/1995 · 1 versions, from 1996-05-28 (latest in force: 1996-05-28) · <https://legislatie.just.ro/Public/DetaliiDocument/5817>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (95 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,3 +22,4 @@ Act id: `norma-bnr-18-1995` (tags `norma-bnr-18-1995/<day>`; `python tools/on.py
 - Norma bnr nr. 18/1995: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma bnr nr. 18/1995: the first version is the norm as published in Monitorul Oficial nr. 108 of 28 May 1996 (document 5817 of the official web service), in force on its day of publication, as it states.
 - Norma bnr nr. 18/1995: the signatures and the place and date line after its last article are not article text.
+- Norma bnr nr. 18/1995: the official text prints 95 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

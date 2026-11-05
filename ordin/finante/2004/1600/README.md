@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1600/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/57988>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL, CONȚINUTUL ȘI INSTRUCȚIUNILE DE COMPLETARE ALE FORMULARELOR Instrucțiuni de completare a formularului "Declarație de înregistrare fiscală/Declarație ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 │ ROMANIA │ DECLARATIE DE INREGISTRARE FISCALA/ │ ┌───┐ │ 060 DECLARATIE DE MENTIUNI PENTRU │ │MFP│ │ SEDIILE SECUNDARE │ └───┘ │ │MINISTERUL│ │FINANTELOR│ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL, CONȚINUTUL ȘI INSTRUCȚIUNILE DE COMPLETARE ALE FORMULARELOR Instrucțiuni de completare a formularului "Declarație de înregistrare fiscală/Declarație ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,4 @@ Act id: `ordin-finante-1600-2004` (tags `ordin-finante-1600-2004/<day>`; `python
 - Ordin finante nr. 1600/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1600/2004: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului "Declarație de înregistrare fiscală/Declarație de mențiuni pentru sediile secundare (060)" 1. Cod: 14.13.0) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 57988 of the official web service.
 - Ordin finante nr. 1600/2004: Anexa nr. 1 (1 MODELUL, CONȚINUTUL ȘI INSTRUCȚIUNILE DE COMPLETARE ALE FORMULARELOR Instrucțiuni de completare a formularului "Declarație de înregistrare fiscală/Declarație ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 1600/2004: Anexa nr. 2 (2 │ ROMANIA │ DECLARATIE DE INREGISTRARE FISCALA/ │ ┌───┐ │ 060 DECLARATIE DE MENTIUNI PENTRU │ │MFP│ │ SEDIILE SECUNDARE │ └───┘ │ │MINISTERUL│ │FINANTELOR│ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1600/2004: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

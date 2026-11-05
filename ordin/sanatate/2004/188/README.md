@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 188/2004 · 1 versions, from 2004-05-11 (latest in force: 2004-05-11) · <https://legislatie.just.ro/Public/DetaliiDocument/50348>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TABEL cuprinzând bolile profesionale cu declarare obligatorie ┌─────┬───────────────────────────────────┬──────────────────────────────────┐ │Nr. │ │ │ │crt. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TABEL cuprinzând bolile profesionale cu declarare obligatorie): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -41,4 +41,4 @@ Act id: `ordin-sanatate-188-2004` (tags `ordin-sanatate-188-2004/<day>`; `python
 - Ordin sanatate nr. 188/2004: Anexa nr. 2 (2 Nr......./data............ Județul.................... Localitatea................ Unitatea sanitară.......... FIȘA DE SEMNALARE BP(1) Către.................................. Numele.................) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 50348 of the official web service.
 - Ordin sanatate nr. 188/2004: Anexa nr. 3 (3 Județul........................... Localitatea....................... Unitatea sanitară................. PROCES - VERBAL Nr......... de cercetare a cazului de boală profesională anul..... luna......) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 50348 of the official web service.
 - Ordin sanatate nr. 188/2004: Anexa nr. 4 (4 FIȘA de declarare a cazului de boală profesională BP(2) 1. Nr. fișă.............................. 1 2 3 4 5 6 7 8 9 10 11 12 2. Nr. matricol........................ [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 50348 of the official web service.
-- Ordin sanatate nr. 188/2004: Anexa nr. 1 (1 TABEL cuprinzând bolile profesionale cu declarare obligatorie ┌─────┬───────────────────────────────────┬──────────────────────────────────┐ │Nr. │ │ │ │crt. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 188/2004: Anexa nr. 1 (1 TABEL cuprinzând bolile profesionale cu declarare obligatorie) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

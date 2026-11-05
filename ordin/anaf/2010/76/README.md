@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 76/2010 · 1 versions, from 2010-01-29 (latest in force: 2010-01-29) · <https://legislatie.just.ro/Public/DetaliiDocument/115693>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────┐ DECLARAȚIE RECAPITULATIVĂ 390 │ SIGLA │ PRIVIND LIVRĂRILE/ACHIZIȚIILE/PRESTĂRILE VIES │ ANAF │ INTRACOMUNITARE └───────┘ [] Declarație inițială ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,4 +35,4 @@ Act id: `ordin-anaf-76-2010` (tags `ordin-anaf-76-2010/<day>`; `python tools/on.
 - Ordin anaf nr. 76/2010: Anexa nr. 2 (2 INSTRUCȚIUNI pentru completarea formularului (390 VIES) "Declarație recapitulativă privind livrările/achizițiile/prestările intracomunitare" 1.1. Declarația recapitulativă se depune lunar, în condiț) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 115693 of the official web service.
 - Ordin anaf nr. 76/2010: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale Declarației recapitulative privind livrările/achizițiile/prestările intracomunitare Denumirea formularului: Declarație reca) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 115693 of the official web service.
 - Ordin anaf nr. 76/2010: Anexa nr. 4 (4 PROCEDURA DE GESTIONARE a Declarației recapitulative privind livrările/achizițiile/prestările intracomunitare În vederea îndeplinirii cerințelor Regulamentului (CE) nr. 1.798/2003 al Consiliului din) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 115693 of the official web service.
-- Ordin anaf nr. 76/2010: Anexa nr. 1 (1 ┌───────┐ DECLARAȚIE RECAPITULATIVĂ 390 │ SIGLA │ PRIVIND LIVRĂRILE/ACHIZIȚIILE/PRESTĂRILE VIES │ ANAF │ INTRACOMUNITARE └───────┘ [] Declarație inițială ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 76/2010: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 160/2004 · 1 versions, from 2004-02-02 (latest in force: 2004-02-02) · <https://legislatie.just.ro/Public/DetaliiDocument/49516>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ 220 │ └─────┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ DECLARATIE PRIVIND VENITURILE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-finante-160-2004` (tags `ordin-finante-160-2004/<day>`; `python t
 - Ordin finante nr. 160/2004: the first version is the order as published in Monitorul Oficial nr. 95 of 2 February 2004 (document 49516 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 160/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 160/2004: Anexa nr. 2 (3 Caracteristici de tipărire MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE A FORMULARELOR 1. Declarație privind veniturile estimate din cedarea folosinței bunurilor, cod 14.13.01.13/3p 1. Denumire: Declara) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 49516 of the official web service.
-- Ordin finante nr. 160/2004: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ 220 │ └─────┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ DECLARATIE PRIVIND VENITURILE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 160/2004: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

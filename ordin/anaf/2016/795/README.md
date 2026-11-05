@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 795/2016 · 1 versions, from 2016-02-25 (latest in force: 2016-02-25) · <https://legislatie.just.ro/Public/DetaliiDocument/176114>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────────────────────┬───────┬─────────────────────────┬───────┬─────────┐ │Perioada de raportare │Luna │ │Anul │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-anaf-795-2016` (tags `ordin-anaf-795-2016/<day>`; `python tools/o
 - Ordin anaf nr. 795/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 795/2016: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe val) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 176114 of the official web service.
 - Ordin anaf nr. 795/2016: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare ale formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 176114 of the official web service.
-- Ordin anaf nr. 795/2016: Anexa nr. 1 (1 ┌──────────────────────────┬───────┬─────────────────────────┬───────┬─────────┐ │Perioada de raportare │Luna │ │Anul │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 795/2016: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

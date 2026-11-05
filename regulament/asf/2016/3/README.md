@@ -2,7 +2,7 @@
 
 Regulament asf nr. 3/2016 · 1 versions, from 2016-04-05 (latest in force: 2016-04-05) · <https://legislatie.just.ro/Public/DetaliiDocument/177187>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1878 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -65,4 +65,5 @@ Act id: `regulament-asf-3-2016` (tags `regulament-asf-3-2016/<day>`; `python too
 - Regulament asf nr. 3/2016: the signatures and the place and date line after its last article are not article text.
 - Regulament asf nr. 3/2016: Anexa nr. 1 (FORMULAR privind informații suplimentare corespunzătoare nivelului participației ce urmează a fi deținută) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 177187 of the official web service.
 - Regulament asf nr. 3/2016: Anexa nr. 2 (FORMULAR privind informații simplificate) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 177187 of the official web service.
+- Regulament asf nr. 3/2016: the official text prints 1878 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Regulament asf nr. 3/2016: the publisher's note "*) Dispunerea de măsuri nr. 12 din 7 iunie 2010 nu a fost publicată în Monitorul Oficial al României, Partea I." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.

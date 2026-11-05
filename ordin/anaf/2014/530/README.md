@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 530/2014 · 1 versions, from 2014-04-07 (latest in force: 2014-04-07) · <https://legislatie.just.ro/Public/DetaliiDocument/157123>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────────────┐ │ SIGLA │ DECLARAȚIE │ Agenția │ privind veniturile din activități agricole 221 │ Națională │ impuse pe bază de norme de venit │ de │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,5 +22,5 @@ Act id: `ordin-anaf-530-2014` (tags `ordin-anaf-530-2014/<day>`; `python tools/o
 - Ordin anaf nr. 530/2014: the first version is the order as published in Monitorul Oficial nr. 247 of 7 April 2014 (document 157123 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 530/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 530/2014: Anexa nr. 2 (2 Anexa nr. 1 CNP/NIF SITUAȚIE privind modul de stabilire a venitului net pe baza normelor de venit A. Activități comerciale Nr. crt. Cod CAEN Locul de desfășurare a activității Norma de venit corespu) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 157123 of the official web service.
-- Ordin anaf nr. 530/2014: Anexa nr. 1 (1 ┌─────────────┐ │ SIGLA │ DECLARAȚIE │ Agenția │ privind veniturile din activități agricole 221 │ Națională │ impuse pe bază de norme de venit │ de │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 530/2014: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 530/2014: the publisher's notes run into its text (*) Se generează, după caz, în funcţie de activitatea desfăşurată de contribuabil.; **) Activităţi prevăzute în Ordinul ministrului finanţelor publice nr. 2.875/2011 privind aprobarea Nomenclatorului acti) are not text.

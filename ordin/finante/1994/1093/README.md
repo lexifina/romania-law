@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1093/1994 · 1 versions, from 1994-09-22 (latest in force: 1994-09-22) · <https://legislatie.just.ro/Public/DetaliiDocument/5550>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 2 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌──────┐ │ │ │ MF │ │ │ └──────┘ │ │ MINISTERUL │ │ FINANȚELOR │ └────────────┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 2 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,5 +24,5 @@ Act id: `ordin-finante-1093-1994` (tags `ordin-finante-1093-1994/<day>`; `python
 - Ordin finante nr. 1093/1994: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1093/1994: Anexa nr. 1 (NORME METODOLOGICE pentru aplicarea prevederilor Ordonanței Guvernului nr. 28/1994 privind plata majorărilor de întârziere și a unor sume restante datorate statului În baza prevederilor art. 6 din Ord) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 5550 of the official web service.
 - Ordin finante nr. 1093/1994: Anexa nr. 3 (2 Denumirea agentului economic............................................. (societatea comercială sau regia autonomă) Sediul.................................................................... Înregi) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 5550 of the official web service.
-- Ordin finante nr. 1093/1994: Anexa nr. 2 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌──────┐ │ │ │ MF │ │ │ └──────┘ │ │ MINISTERUL │ │ FINANȚELOR │ └────────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1093/1994: Anexa nr. 2 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 1093/1994: the publisher's notes run into its text (*) Cu nominalizări conform anexei nr. 1 din Legea bugetului de stat pe anul 1994 nr. 36/1994.) are not text.

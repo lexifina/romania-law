@@ -3,6 +3,36 @@
  "shard": "instructiuni/2024",
  "acts": [
   {
+   "slug": "instructiuni-interne-137-2024",
+   "path": "instructiuni/interne/2024/137",
+   "short": "Instrucțiuni interne nr. 137/2024",
+   "title": "Instrucțiunile nr. 137/2024 pentru modificarea art. 3 alin. (1) din Instrucțiunile ministrului afacerilor interne nr. 111/2013 privind atestarea personalului navigant care încadrează ori urmează să încadreze posturile de specialitate de la bordul navelor aparținând Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287756",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287756",
+     "sha256": "40dcc8d5e3e5a5a72276001f471ac2caf24f68ee971ba440a50e3e262fd7e5d1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-152-2024",
+   "path": "instructiuni/interne/2024/152",
+   "short": "Instrucțiuni interne nr. 152/2024",
+   "title": "Instrucțiunile nr. 152/2024 pentru aplicarea în Ministerul Afacerilor Interne a Ordonanței Guvernului nr. 121/1998 privind răspunderea materială a militarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289097",
+   "versions": [
+    {
+     "from": "2024-10-06",
+     "units": 116,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289097",
+     "sha256": "60f65ba9775c31113efa20f54cd73a1a4f3298336f3c2c903d215468122457a7"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-sanatate-4480-2024",
    "path": "instructiuni/sanatate/2024/4480",
    "short": "Instrucțiuni sanatate nr. 4480/2024",

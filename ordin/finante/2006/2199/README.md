@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2199/2006 · 1 versions, from 2007-01-03 (latest in force: 2007-01-03) · <https://legislatie.just.ro/Public/DetaliiDocument/78305>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 [SIGLA] Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală 224 Număr de operator DECLARAȚIE PRIVIND VENITURILE de date cu caracter SUB ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 [SIGLA] Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală 224 Număr de operator DECLARAȚIE PRIVIND VENITURILE de date cu caracter SUB ...): it is a table that the official text holds only flattened; text printed after its signature (229 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,3 +30,4 @@ Act id: `ordin-finante-2199-2006` (tags `ordin-finante-2199-2006/<day>`; `python
 - Ordin finante nr. 2199/2006: Anexa nr. 3 (4 INSTRUCȚIUNI de completare a formularului 224 "Declarație privind veniturile sub formă de salarii din străinătate obținute de către persoanele fizice care desfășoară activitate în România și de cătr) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 78305 of the official web service.
 - Ordin finante nr. 2199/2006: Anexa nr. 4 (5 Caracteristici de tipărire, modul de difuzare, de utilizare și păstrare a formularelor 1. Declarație privind veniturile estimate din cedarea folosinței bunurilor, cod 14.13.01.13/3p 1. Denumire: Dec) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 78305 of the official web service.
 - Ordin finante nr. 2199/2006: Anexa nr. 1 (2 [SIGLA] Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală 224 Număr de operator DECLARAȚIE PRIVIND VENITURILE de date cu caracter SUB ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2199/2006: the official text prints 229 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

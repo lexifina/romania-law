@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 5/2024 · 1 versions, from 2024-11-06 (latest in force: 2024-11-06) · <https://legislatie.just.ro/Public/DetaliiDocument/290381>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (471 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-bnr-5-2024` (tags `ordin-bnr-5-2024/<day>`; `python tools/on.py <
 - Ordin bnr nr. 5/2024: the first version is the order as published in Monitorul Oficial nr. 1108 of 6 November 2024 (document 290381 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin bnr nr. 5/2024: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 5/2024: Anexa nr. 1 (MODIFICĂRI ȘI COMPLETĂRI ale Reglementărilor contabile conforme cu directivele europene, aprobate prin Ordinul Băncii Naționale a României nr. 6/2015 1. La punctul 2, după litera a^3) se introduce o n) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 290381 of the official web service.
+- Ordin bnr nr. 5/2024: the official text prints 471 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 585/2005 · 1 versions, from 2005-06-24 (latest in force: 2005-06-24) · <https://legislatie.just.ro/Public/DetaliiDocument/61952>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (MODEL [SIGLA] REGIM SPECIAL MINISTERUL FINANȚELOR PUBLICE Seria........... AGENȚIA NATI0NALA DE ADMINISTRARE FISCALA CHITANȚĂ nr........*2) D.G.F.P....... ...): it is a table that the official text holds only flattened; Anexa nr. 2 (------ la Procesul-verbal): it is a table that the official text holds only flattened; Anexa nr. 3 (la Procesul-verbal de sechestru nr........ din................ Dosar de executare Nr.........../.................. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (MODEL [SIGLA] REGIM SPECIAL MINISTERUL FINANȚELOR PUBLICE Seria........... AGENȚIA NATI0NALA DE ADMINISTRARE FISCALA CHITANȚĂ nr........*2) D.G.F.P....... ...): it is a table that the official text holds only flattened; Anexa nr. 2 (------ la Procesul-verbal): it is a table that the official text holds only flattened; Anexa nr. 3 (la Procesul-verbal de sechestru nr........ din................ Dosar de executare Nr.........../..................): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-finante-585-2005` (tags `ordin-finante-585-2005/<day>`; `python t
 - Ordin finante nr. 585/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 585/2005: Anexa nr. 1 (MODEL [SIGLA] REGIM SPECIAL MINISTERUL FINANȚELOR PUBLICE Seria........... AGENȚIA NATI0NALA DE ADMINISTRARE FISCALA CHITANȚĂ nr........*2) D.G.F.P....... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 585/2005: Anexa nr. 2 (------ la Procesul-verbal) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 585/2005: Anexa nr. 3 (la Procesul-verbal de sechestru nr........ din................ Dosar de executare Nr.........../.................. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 585/2005: Anexa nr. 3 (la Procesul-verbal de sechestru nr........ din................ Dosar de executare Nr.........../..................) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

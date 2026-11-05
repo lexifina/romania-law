@@ -2,7 +2,7 @@
 
 Norma asf nr. 20/2016 · 1 versions, from 2016-04-11 (latest in force: 2016-04-11) · <https://legislatie.just.ro/Public/DetaliiDocument/177377>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE pentru obținerea avizului în vederea înregistrării la oficiul registrului comerțului ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 CERERE pentru acordarea autorizației de funcționare ┌─────────────────────────────────────────────────────────────────────┬──────┐ │1. Denumirea completă a ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CERERE pentru obținerea avizului în vederea înregistrării la oficiul registrului comerțului): it is a table that the official text holds only flattened; Anexa nr. 2 (2 CERERE pentru acordarea autorizației de funcționare): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,5 +29,5 @@ Act id: `norma-asf-20-2016` (tags `norma-asf-20-2016/<day>`; `python tools/on.py
 - Norma asf nr. 20/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 20/2016: the first version is the norm as published in Monitorul Oficial nr. 271 of 11 April 2016 (document 177377 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 20/2016: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 20/2016: Anexa nr. 1 (1 CERERE pentru obținerea avizului în vederea înregistrării la oficiul registrului comerțului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 20/2016: Anexa nr. 2 (2 CERERE pentru acordarea autorizației de funcționare ┌─────────────────────────────────────────────────────────────────────┬──────┐ │1. Denumirea completă a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 20/2016: Anexa nr. 1 (1 CERERE pentru obținerea avizului în vederea înregistrării la oficiul registrului comerțului) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 20/2016: Anexa nr. 2 (2 CERERE pentru acordarea autorizației de funcționare) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

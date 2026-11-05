@@ -2,7 +2,7 @@
 
 Ordin munca nr. 104/1991 · 1 versions, from 1992-07-22 (latest in force: 1992-07-22) · <https://legislatie.just.ro/Public/DetaliiDocument/1605>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (1147 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,3 +24,4 @@ Act id: `ordin-munca-104-1991` (tags `ordin-munca-104-1991/<day>`; `python tools
 - Ordin munca nr. 104/1991: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 104/1991: Anexa nr. 1 (1 MINISTERUL MUNCII ȘI PROTECȚIEI SOCIALE DEPARTAMENTUL PROTECȚIEI MUNCII Inspectoratul de stat teritorial pentru protecția muncii Județul............... AUTORIZAȚIE DE FUNCȚIONARE DIN PUNCT DE VEDERE) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 1605 of the official web service.
 - Ordin munca nr. 104/1991: Anexa nr. 2 (2 MINISTERUL MUNCII ȘI PROTECȚIEI SOCIALE DEPARTAMENTUL PROTECȚIEI MUNCII Inspectoratul de stat teritorial pentru protecția muncii Județul..................... AUTORIZAȚIE PARȚIALĂ DE FUNCȚIONARE DIN) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 1605 of the official web service.
+- Ordin munca nr. 104/1991: the official text prints 1147 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

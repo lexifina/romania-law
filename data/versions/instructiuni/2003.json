@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "instructiuni-dezvoltare-3615-if-2003",
+   "path": "instructiuni/dezvoltare/2003/3615-if",
+   "short": "Instrucțiuni dezvoltare nr. 3615/IF/2003",
+   "title": "Instrucțiunile nr. 3.615/IF/2003 pentru aplicarea Ordonanței Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41436",
+   "versions": [
+    {
+     "from": "2003-01-27",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41436",
+     "sha256": "4d310a4ca3056cdc8d5bbed88352d49f688aea1511dd6f41c49325fad39f59a5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-507-2003",
+   "path": "instructiuni/interne/2003/507",
+   "short": "Instrucțiuni interne nr. 507/2003",
+   "title": "Instrucțiunile nr. 507/2003 de aplicare a Normelor privind organizarea, funcționarea și finanțarea unităților de asistența medico-sociale, aprobate prin Hotărârea Guvernului nr. 412/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45758",
+   "versions": [
+    {
+     "from": "2003-08-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45758",
+     "sha256": "a38ce240e64023eea11d254117b2414c61ef70ea61d7b1bdf45932fce4edcaa7"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-525-2003",
+   "path": "instructiuni/interne/2003/525",
+   "short": "Instrucțiuni interne nr. 525/2003",
+   "title": "Instrucțiunile nr. 525/2003 privind organizarea și desfășurarea examenului pentru obținerea permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46425",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46425",
+     "sha256": "9fc732e389d98fb5e84c0311172c305059e41432e16e8ed377004f23be8cceae"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-justitie-3128-c-2003",
    "path": "instructiuni/justitie/2003/3128-c",
    "short": "Instrucțiuni justitie nr. 3128/C/2003",

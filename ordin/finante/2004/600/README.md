@@ -2,7 +2,7 @@
 
 Ordin finante nr. 600/2004 · 1 versions, from 2004-05-04 (latest in force: 2004-05-04) · <https://legislatie.just.ro/Public/DetaliiDocument/51662>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────┐ │ ROMÂNIA │ │ MFP │ 710 DECLARAȚIE RECTIFICATIVA │ MINISTERUL│ │ FINANTELOR│ │ PUBLICE │ └───────────┘ Nu se utilizează pentru corectarea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-finante-600-2004` (tags `ordin-finante-600-2004/<day>`; `python t
 - Ordin finante nr. 600/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 600/2004: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului 710 "Declarație rectificativă", cod 14.13.01.00/r 1. Declarația rectificativă se utilizează pentru corectarea impozitelor/taxelor declarate la bugetul de st) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 51662 of the official web service.
 - Ordin finante nr. 600/2004: Anexa nr. 3 (3 CARACTERISTICILE de tipărire, modul de difuzare, utilizare și păstrare a formularului Denumire: Declarație rectificativă Cod: 14.13.01.00/r Caracteristici de tipărire: se utilizează echipament infor) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 51662 of the official web service.
-- Ordin finante nr. 600/2004: Anexa nr. 1 (1 ┌───────────┐ │ ROMÂNIA │ │ MFP │ 710 DECLARAȚIE RECTIFICATIVA │ MINISTERUL│ │ FINANTELOR│ │ PUBLICE │ └───────────┘ Nu se utilizează pentru corectarea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 600/2004: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -3,6 +3,171 @@
  "shard": "local/bucuresti/cgmb/2000",
  "acts": [
   {
+   "slug": "hcgmb-1-2000",
+   "path": "local/bucuresti/cgmb/2000/1",
+   "short": "HCGMB nr. 1/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2000 PRIVIND APROBAREA UTILIZARII FONDULUI DE RULMENT AL BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3754",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3754/h01_00.pdf",
+     "sha256": "be51ff88a7f39dc9352949b8e028aa89322eda35c2e70260eaf04f173a5f1c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2000",
+   "path": "local/bucuresti/cgmb/2000/10",
+   "short": "HCGMB nr. 10/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2000 PRIVIND TRANSMITEREA UNOR SPATII DIN EVIDENTA DIRECTIEI GENERALE DE INVESTITII DIN CADRUL DEPARTAMENTULUI PATRIMONIU IMOBILIAR LA DISPOZITIA DIRECTIEI GENERALE DE ASISTENTA SOCIALA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3761",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3761/h010_00.pdf",
+     "sha256": "cb6bbd27386a1233f1a590db4d34491336fc9b93961b017ebf592ff3bdfce26c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2000",
+   "path": "local/bucuresti/cgmb/2000/100",
+   "short": "HCGMB nr. 100/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4655",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4655/h0100_00.pdf",
+     "sha256": "4f63109d45c26bb5ceb3ae31720bbc4cb5eaac6da3f9bb4c7c9c5a647b208d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2000",
+   "path": "local/bucuresti/cgmb/2000/101",
+   "short": "HCGMB nr. 101/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2000 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"OVIDIU\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4474",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4474/h0101_00.pdf",
+     "sha256": "b39fb52874959533c502d1764d56858806d0041a8bb3d05eea5639ccf1babdb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2000",
+   "path": "local/bucuresti/cgmb/2000/102",
+   "short": "HCGMB nr. 102/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4259",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4259/h0102_00.pdf",
+     "sha256": "9de6a3f428d17fcfc1598ba42cc6f240297baa893d0e50b8499bbd60aec358bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2000",
+   "path": "local/bucuresti/cgmb/2000/103",
+   "short": "HCGMB nr. 103/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4251",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4251/h0103_00.pdf",
+     "sha256": "10bfb7ff654f4d3e75b608455dbf4a913ecac187b99770c340a48014d17efd4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2000",
+   "path": "local/bucuresti/cgmb/2000/104",
+   "short": "HCGMB nr. 104/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4468",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4468/h0104_00.pdf",
+     "sha256": "8c6c959cc570ddcacd783d0e768f9e62c7eb60fac419ff229c415230d19ee52e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2000",
+   "path": "local/bucuresti/cgmb/2000/105",
+   "short": "HCGMB nr. 105/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2000 PRIVIND APROBAREA PROCESELOR-VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4260",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4260/h0105_00.pdf",
+     "sha256": "ebe8f16a042dbe28aea7205e3311a11c6148680f5a189db0a9da24f50fe6e841"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2000",
+   "path": "local/bucuresti/cgmb/2000/106",
+   "short": "HCGMB nr. 106/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4252",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4252/h0106_00.pdf",
+     "sha256": "72086c5d26434276643252818b3b867c8c35447f1730e76ff13889885cc29663"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2000",
+   "path": "local/bucuresti/cgmb/2000/107",
+   "short": "HCGMB nr. 107/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4249",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4249/h0107_00.pdf",
+     "sha256": "a7fb09a1586694d28aa4277b5fa23089e2d8a688daca6a22446b01ad4eab3a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2000",
+   "path": "local/bucuresti/cgmb/2000/108",
+   "short": "HCGMB nr. 108/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4250",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4250/h0108_00.pdf",
+     "sha256": "61e6d58d458aabe4a9fad92ef5ffd584a101ee8654a8d0dbbc992e35bb1b541e"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-109-2000",
    "path": "local/bucuresti/cgmb/2000/109",
    "short": "HCGMB nr. 109/2000",
@@ -14,6 +179,96 @@
      "units": 7,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4656/h0109_00.pdf",
      "sha256": "ccfbf21f0ac2b101cfab2a4694653ae4511ec9dcf0ba56282bf7a3d369de3ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2000",
+   "path": "local/bucuresti/cgmb/2000/11",
+   "short": "HCGMB nr. 11/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2000 PRIVIND TRECEREA UNUI TEREN PROPRIETATEA PUBLICA IN DOMENIUL PUBLIC A MUNICIPIULUI BUCURESTI ANULATA PRIN SENTINTA CIVILA NR. 1002/24.06.2003",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3762",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3762/h011_00.pdf",
+     "sha256": "8b6c9eb7ef8ef90e099d097b0749cb3286d17283d7d6ea7aa46c3c07a67022be"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2000",
+   "path": "local/bucuresti/cgmb/2000/110",
+   "short": "HCGMB nr. 110/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2000 PRIVIND ACORDUL CGMB PENTRU CONTRACTUL DINTRE MUNICIPIUL BUCURESTI SI FIRMA CINDESOL INC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4261",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4261/h0110_00.pdf",
+     "sha256": "c513dbbcf2d59039449018bf0797fa77aa9c083a4c6ca41580f87794ac8b1c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2000",
+   "path": "local/bucuresti/cgmb/2000/111",
+   "short": "HCGMB nr. 111/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2000 PRIVIND APROBAREA DOCUMENTATIILOR TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESTITII \" EXTINDEREA RETELELOR DE ALIMENTARE CU APA SI CANALIZARE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4247",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4247/h0111_00.pdf",
+     "sha256": "29b02fb3e56a0c776fff9998794fb8b578c49dbe123ce86fb03bf85e23bfac0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2000",
+   "path": "local/bucuresti/cgmb/2000/112",
+   "short": "HCGMB nr. 112/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2000 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI, CONFORM HOTARARII GUVERNULUI 505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4262",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4262/h0112_00.pdf",
+     "sha256": "ba5b6a4d60f7bd79a9ac9879fb7b03577be6f835e13496c88d1641f1cd419f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2000",
+   "path": "local/bucuresti/cgmb/2000/113",
+   "short": "HCGMB nr. 113/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4246",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4246/h0113_00.pdf",
+     "sha256": "bdf11d79022b905f5ad5ae8abaef2d2c96a0dafaf9f8fc9890cee41105ddf9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2000",
+   "path": "local/bucuresti/cgmb/2000/114",
+   "short": "HCGMB nr. 114/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2000 PRIVIND PARTICIPAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI LA CONSTITUIREA FONDULUI PENTRU DEZVOLTARE REGIONALA AL REGIUNII BUCURESTI-ILFOV PE ANUL 2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4248",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4248/h0114_00.pdf",
+     "sha256": "43e7261aae4bf88192b91a18636a983521de506939c87f9c3bf7b29260f7ba9c"
     }
    ]
   },
@@ -33,6 +288,441 @@
    ]
   },
   {
+   "slug": "hcgmb-116-2000",
+   "path": "local/bucuresti/cgmb/2000/116",
+   "short": "HCGMB nr. 116/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4470",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4470/h0116_00.pdf",
+     "sha256": "847df8341fbd51d279fb1ea64652b342038c6fb32e7151709020b5cccbff535e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2000",
+   "path": "local/bucuresti/cgmb/2000/117",
+   "short": "HCGMB nr. 117/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2000 PRIVIND DONATIA UNUI SEMNAL DOTAT CU CEASURI ELECTRONICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4469",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4469/h0117_00.pdf",
+     "sha256": "18c9d92591a2e0802ec3ae98b495ab63c4f570677e1b42bba01021e763f6a93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2000",
+   "path": "local/bucuresti/cgmb/2000/118",
+   "short": "HCGMB nr. 118/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2000 PRIVIND INFIINTAREA SOCIETATII COMERCIALE \"ANTREPRIZA DE CONSTRUCTII MONTAJ LITRAC- S.A.\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4460",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4460/h0118_00.pdf",
+     "sha256": "767214f8a3a717c5640e7a8be4d4bced4edbbdc2970a9d35bd372888fe8d7ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2000",
+   "path": "local/bucuresti/cgmb/2000/119",
+   "short": "HCGMB nr. 119/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4464",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4464/h0119_00.pdf",
+     "sha256": "708869c214c54237c54951d6be54b8c13a462ea5a148e888e5a3dc3f6e70a8dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2000",
+   "path": "local/bucuresti/cgmb/2000/12",
+   "short": "HCGMB nr. 12/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3763",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3763/h012_00.pdf",
+     "sha256": "e8ba84ab152a8ce08512f095d20d965d7135943c91b2259c7e52928368d2e204"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2000",
+   "path": "local/bucuresti/cgmb/2000/121",
+   "short": "HCGMB nr. 121/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4462",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4462/h0121_00.pdf",
+     "sha256": "ad1fd4b96c8edf9d9466322d5a144d99e3d4737de3518592c5c58f2575d08bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2000",
+   "path": "local/bucuresti/cgmb/2000/122",
+   "short": "HCGMB nr. 122/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4461",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4461/h0122_00.pdf",
+     "sha256": "77ebf091d1b51a52c17c9a08878186a32372903c77f72cb2db914cc541f42509"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2000",
+   "path": "local/bucuresti/cgmb/2000/123",
+   "short": "HCGMB nr. 123/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4459",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4459/h0123_00.pdf",
+     "sha256": "156cb834aae8e23a9b76585900f91bafb2edaca8424c25c23372ce7713f8f1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2000",
+   "path": "local/bucuresti/cgmb/2000/124",
+   "short": "HCGMB nr. 124/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2000 privind aprobarea unor planuri urbanistice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4463",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4463/h0124_00.pdf",
+     "sha256": "54ccc60c63e66f28f5ba04a680b13d93dc0de0ee2cbe067088af47804bdc8d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2000",
+   "path": "local/bucuresti/cgmb/2000/125",
+   "short": "HCGMB nr. 125/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2000 PRIVIND APROBAREA DOCUMETATIEI TEHNICO-ECONOMICE PENTRU INVESTITIA: SISTEM DISPECER DE SUPRAVEGHERE SI CONDUCERE OPERATIVA A SISTEMULUI DE TERMOFICARE DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4467",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4467/h0125_00.pdf",
+     "sha256": "a9c4c20738b70cfc190f4a750337681d75651f16b836b6fdfeccb3001fd832c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2000",
+   "path": "local/bucuresti/cgmb/2000/126",
+   "short": "HCGMB nr. 126/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4657",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4657/h0126_00.pdf",
+     "sha256": "62ec694319e1a4391c8351e7e98d0e4446530ce0d982f94c72f80efe7e45acb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2000",
+   "path": "local/bucuresti/cgmb/2000/127",
+   "short": "HCGMB nr. 127/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2000 PRIVIND DAREA IN ADMINISTRARE, PE DURATA EXISTENTEI CONSTRUCTIEI, A UNUI TEREN DE 750 MP. SITUAT IN BUCURESTI, SECTOR 5, CATRE MINISTERUL APARARII NATIONALE, IN VEDEREA CONSTRUIRII UNUI LACAS DE CULT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4663",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4663/h0127_00.pdf",
+     "sha256": "0bf07bd1671f1fec91fc6ec3aa1deac518da54ba2e174e7359d31579678d78c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2000",
+   "path": "local/bucuresti/cgmb/2000/128",
+   "short": "HCGMB nr. 128/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4686",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4686/h0128_00.pdf",
+     "sha256": "569609f3dad51a52c135f348986ad2d894a1e13bc60a0800d3d96d887a4b8603"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2000",
+   "path": "local/bucuresti/cgmb/2000/129",
+   "short": "HCGMB nr. 129/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2000 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 272/11.11.1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4664",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4664/h0129_00.pdf",
+     "sha256": "efc80d56403d3b56378ab75ace4f6479444b7497af11615c59e52de70ce4fe56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2000",
+   "path": "local/bucuresti/cgmb/2000/13",
+   "short": "HCGMB nr. 13/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2000 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \"FUNDATIE SI STRUNG DE BANDAJE LA R.A.T.B.\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3764",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3764/h013_00.pdf",
+     "sha256": "053effe85aaba168560525325b32c18529e105c86db90f4b5d43df461e189761"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2000",
+   "path": "local/bucuresti/cgmb/2000/130",
+   "short": "HCGMB nr. 130/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4687",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4687/h0130_00.pdf",
+     "sha256": "a30d984a694b5ab9c98fbf3f9957c260e55bd238f0ceecbb93fcdb93475cabe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-2000",
+   "path": "local/bucuresti/cgmb/2000/131",
+   "short": "HCGMB nr. 131/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/2000 PRIVIND APROBAREA UNOR PLANURI URABANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4757",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4757/h0131_00.pdf",
+     "sha256": "aa8ffc2ddd0b8223cdbed49679644d9fe86d902e1bb3d1285658dc195b7e47b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-2000",
+   "path": "local/bucuresti/cgmb/2000/132",
+   "short": "HCGMB nr. 132/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4747",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4747/h0132_00.pdf",
+     "sha256": "e0738f72e545dbe56a834af866c63bd7db83b50305847fa6f030e9c82bfe4307"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2000",
+   "path": "local/bucuresti/cgmb/2000/133",
+   "short": "HCGMB nr. 133/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4741",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4741/h0133_00.pdf",
+     "sha256": "9c999b313a5af4e4b531acff13d162263f68a97e9831d0dd8feaed31eff1aef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2000",
+   "path": "local/bucuresti/cgmb/2000/134",
+   "short": "HCGMB nr. 134/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4742",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4742/h0134_00.pdf",
+     "sha256": "90293639f119f3fa0290b8b80fdc0d3b9bd7752aa214fe11a32e2786d764e864"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2000",
+   "path": "local/bucuresti/cgmb/2000/136",
+   "short": "HCGMB nr. 136/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2000 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4753",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4753/h0136_00.pdf",
+     "sha256": "d4a0773b7dcd9d5cc0f3b8f8ed98267138867e522c2c08179a9e0a971cd56031"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2000",
+   "path": "local/bucuresti/cgmb/2000/137",
+   "short": "HCGMB nr. 137/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2000 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI, CONFORM HOTARARII GUVERNULUI NR. 505/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4749",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4749/h0137_00.pdf",
+     "sha256": "6eafeae3b402e03b1d741b0239288e8517940b6acacd4b3e1fe58676c0458fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2000",
+   "path": "local/bucuresti/cgmb/2000/138",
+   "short": "HCGMB nr. 138/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2000 PRIVIND APROBAREA UNUI PLAN URBANISTIC DE DETALIU PENTRU PANOU PUBLICITAR ELECTRONIC DINAMIC SI AMPLASAREA ACESTUIA PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4665",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4665/h0138_00.pdf",
+     "sha256": "4ad3f2bac2f6773bec2ee43c04e218a93722961a39e967f002d0ea249124941e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2000",
+   "path": "local/bucuresti/cgmb/2000/139",
+   "short": "HCGMB nr. 139/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4751",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4751/h0139_00.pdf",
+     "sha256": "dde879ed9f57910fff60a8eca4d861a03b6a280cc6b2886e6ff2e4f33a4fa9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2000",
+   "path": "local/bucuresti/cgmb/2000/14",
+   "short": "HCGMB nr. 14/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2000 PRIVIND EXECUTIA LUCRARILOR PRIN LICITATIE PUBLICA LA SOSEAUA DE CENTURA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4840",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4840/h014_00.pdf",
+     "sha256": "ff96bf138d194f26ef0ce50df56018691beba15103d3d0e4b6b216e10f1bb550"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2000",
+   "path": "local/bucuresti/cgmb/2000/140",
+   "short": "HCGMB nr. 140/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4666",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4666/h0140_00.pdf",
+     "sha256": "9ea7b12a3eb5f5bffeb0fc360e6d2ed114ab36f8b83c78106b893feb0b3495f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2000",
+   "path": "local/bucuresti/cgmb/2000/141",
+   "short": "HCGMB nr. 141/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4743",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4743/h0141_00.pdf",
+     "sha256": "29413b1ebf6e6ee1c87dc5ed579aeef0c56b43772da55f42101a1cb11d27a41e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2000",
+   "path": "local/bucuresti/cgmb/2000/142",
+   "short": "HCGMB nr. 142/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4668",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4668/h0142_00.pdf",
+     "sha256": "651fc7bb39a6b118f216e030ade3bf855a728966c28b5a2c950d59d55f213e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2000",
+   "path": "local/bucuresti/cgmb/2000/143",
+   "short": "HCGMB nr. 143/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2000 PRIVIND APROBAREA ORGANIGRAMEI , NUMARULUI DE PERSONAL SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI STRAZILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4843",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4843/h0143_00.pdf",
+     "sha256": "22a1a759f7cc406eebc13500720b6c29fe06cec7edda11698e928f725f2344ff"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-144-2000",
    "path": "local/bucuresti/cgmb/2000/144",
    "short": "HCGMB nr. 144/2000",
@@ -44,6 +734,66 @@
      "units": 5,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4671/h0144_00.pdf",
      "sha256": "6a72fd1cb577bc136fa87a3880371f66cc65565d86ae2707c9f11c6320ea9ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2000",
+   "path": "local/bucuresti/cgmb/2000/145",
+   "short": "HCGMB nr. 145/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2000 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"COMPANIA DE LIBRARII\"S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4758",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4758/h0145_00.pdf",
+     "sha256": "a719344997c66797130118f393ac8a0784d4701fc74362f83cf8957aee4aa134"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2000",
+   "path": "local/bucuresti/cgmb/2000/146",
+   "short": "HCGMB nr. 146/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4673",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4673/h0146_00.pdf",
+     "sha256": "d957169e061f744348c716f4b5fe2aa8b4a0436e95efbd04c855ac958b0314fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2000",
+   "path": "local/bucuresti/cgmb/2000/147",
+   "short": "HCGMB nr. 147/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4676",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4676/h0147_00.pdf",
+     "sha256": "968b27a3fc86c3b6dd9ca8785a0d7e7edc67283b09fd804093f34affaf75bcc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2000",
+   "path": "local/bucuresti/cgmb/2000/148",
+   "short": "HCGMB nr. 148/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2000 PRIVIND APROBAREA COLABORARII DINTRE CGMB,MINISTERUL TRANSPORTURILOR PRIN SAAF SI CAMPENON BERNARD SGE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4850",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4850/h0148_00.pdf",
+     "sha256": "3b502d14f798c41e23bf3e466ecff469b6eb2b9a8351ebb2ccf771b149886726"
     }
    ]
   },
@@ -63,6 +813,201 @@
    ]
   },
   {
+   "slug": "hcgmb-15-2000",
+   "path": "local/bucuresti/cgmb/2000/15",
+   "short": "HCGMB nr. 15/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2000 PRIVIND APROBAREA INFIINTARII AGENTIEI DE REGLEMENTARE A NIVELELOR DE SERVICIU A MUNICIPIULUI BUCURESTI, SECTIUNEA APA-CANAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3765",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3765/h015_00.pdf",
+     "sha256": "92729c3b8902566a9b1b3c446536bb85a5dd040ccea86ec954ea16a60e9cc67a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2000",
+   "path": "local/bucuresti/cgmb/2000/150",
+   "short": "HCGMB nr. 150/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4752",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4752/h0150_00.pdf",
+     "sha256": "c8c2d39ac1930b1bf75980a6367f0f784c2539522c32feb90db1a7b8cebf0351"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2000",
+   "path": "local/bucuresti/cgmb/2000/151",
+   "short": "HCGMB nr. 151/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4750",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4750/h0151_00.pdf",
+     "sha256": "a7005d28e04c252392e3add34ee63cc5890a2528531d95a359642abb8a99d1e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2000",
+   "path": "local/bucuresti/cgmb/2000/152",
+   "short": "HCGMB nr. 152/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4815",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4815/h0152_00.pdf",
+     "sha256": "63d511a171e01520a02dcb6af81c8cde1759bd9be1a7ab9b4afd33611bfcfe5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2000",
+   "path": "local/bucuresti/cgmb/2000/153",
+   "short": "HCGMB nr. 153/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4777",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4777/h0153_00.pdf",
+     "sha256": "942baf3d544176b0e58f0e086eeaf3b263b126286a12e863c1ba3b961d670699"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2000",
+   "path": "local/bucuresti/cgmb/2000/154",
+   "short": "HCGMB nr. 154/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3404",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3404/h0154_00.pdf",
+     "sha256": "f0ae2cfb831bab766cf84775b16e9673956cceb971c429c914def0a2734d177c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2000",
+   "path": "local/bucuresti/cgmb/2000/155",
+   "short": "HCGMB nr. 155/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4677",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4677/h0155_00.pdf",
+     "sha256": "c1e7ac789fb0594ec4408d1ac376c44e21593cdf43928629727a73fbbe3d13ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2000",
+   "path": "local/bucuresti/cgmb/2000/156",
+   "short": "HCGMB nr. 156/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2000 PRIVIND APROBAREA UNUI PLAN URBANISITC DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4669",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4669/h0156_00.pdf",
+     "sha256": "f4c918c2752a4f048069d454e3fdf53b03d0f906ceaafc3cb0e1f3f2335e5123"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2000",
+   "path": "local/bucuresti/cgmb/2000/157",
+   "short": "HCGMB nr. 157/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4816",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4816/h0157_00.pdf",
+     "sha256": "3339f3b01c8a23ce6e16f9743ec75fb5e39c948cef782808ea1deba112e2d42b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2000",
+   "path": "local/bucuresti/cgmb/2000/158",
+   "short": "HCGMB nr. 158/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36125",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/36125/H158_2000.pdf",
+     "sha256": "ed17a6bd507df3e4d7c71cf43a403befd43389cf44164dc22b999d684eb70053"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2000",
+   "path": "local/bucuresti/cgmb/2000/16",
+   "short": "HCGMB nr. 16/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2000 PRIVIND INFIINTAREA COMISIEIDE SPECIALITATE PENTRU ANALIZAREA CERERILOR SI INTOCMIREA DOSARELOR, IN VEDEREA ACORDARII INLESNIRILOR LA PLATA IMOZITELOR, TAXELOR SI ALTOR VENITURI ALE BUGETULUI LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3766",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3766/h016_00.pdf",
+     "sha256": "988346625e9f390188ba7166c5d9163b8c0f8549866b7d42da36538e33809952"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2000",
+   "path": "local/bucuresti/cgmb/2000/160",
+   "short": "HCGMB nr. 160/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4781",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4781/h0160_00.pdf",
+     "sha256": "efc7866f9914fb0d8e86a9d6166ba9b27045fa215e96ffa16e0b03a167b1a97a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2000",
+   "path": "local/bucuresti/cgmb/2000/161",
+   "short": "HCGMB nr. 161/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2000 PRIVIND TRANSMITEREA LINIEI DE TRANSPORT ELECTRIC CALATORI JILAVA DIN ADMINISTRAREA PRIMARIEI MUNICIPIULUI BUCURESTI-REGIA AUTONOMA DE TRANSPORT BUCURESTI, IN ADMINISTRAREA COMUNEI JILAVA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4670",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4670/h0161_00.pdf",
+     "sha256": "b9bcc41519d02b3b4ce5e6b88b6921de85ecf0ff27a667932dc3fe808b2f0898"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-162-2000",
    "path": "local/bucuresti/cgmb/2000/162",
    "short": "HCGMB nr. 162/2000",
@@ -74,6 +1019,111 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4773/h0162_00.pdf",
      "sha256": "b771f58c41accdcc5806f274f82f06bd50005a88617fa5ae3a44fd8a5d5c1235"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2000",
+   "path": "local/bucuresti/cgmb/2000/164",
+   "short": "HCGMB nr. 164/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4776",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4776/h0164_00.pdf",
+     "sha256": "6c28413295614d70d5786b42984d20bea305d84c8951830fb8ba0771d1a57651"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2000",
+   "path": "local/bucuresti/cgmb/2000/165",
+   "short": "HCGMB nr. 165/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2000 PRIVIND TRANSMITEREA UNUI IMOBIL IN ADMINISTRAREA MUZEULUI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4672",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4672/h0165_00.pdf",
+     "sha256": "a61953dc4a1dc452af9da678d0e0a2f668fc087db56a9cdca60f4f9fbce09e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2000",
+   "path": "local/bucuresti/cgmb/2000/166",
+   "short": "HCGMB nr. 166/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2000 PRIVIND APROBAREA CONTULUI DE INCHIERE A EXERCITIULUI BUGETAR PE ANUL 1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3449",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2000",
+   "path": "local/bucuresti/cgmb/2000/167",
+   "short": "HCGMB nr. 167/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2000 PRIVIND APROBAREA CONCESIONARII UNOR TERENURI APARTINAND DOMENIULUI PUBLIC SAU PRIVAT AL PRIMARIEI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4674",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4674/h0167_00.pdf",
+     "sha256": "183a0b79cbd8258ddf8c5ee65408344c61b19787bc4d3a04487a962135508cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2000",
+   "path": "local/bucuresti/cgmb/2000/168",
+   "short": "HCGMB nr. 168/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2000 PRIVIND ASOCIEREA DINTRE CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI SI COMPANIA ROMPETROL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4675",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4675/h0168_00.pdf",
+     "sha256": "7b83856357c39991e932c3b2c4bfab76c8a0df71ff1c07180ed959cae0966d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2000",
+   "path": "local/bucuresti/cgmb/2000/169",
+   "short": "HCGMB nr. 169/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4837",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4837/h0169_00.pdf",
+     "sha256": "427d31294d157844b0471636e1534c0647b84ac6f386c0f161042c014495879f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2000",
+   "path": "local/bucuresti/cgmb/2000/17",
+   "short": "HCGMB nr. 17/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3767",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3767/h017_00.pdf",
+     "sha256": "66eae3a6fe74c158c8d8c2f79f192ccc084d6409542df8f6d614ff277bc895f2"
     }
    ]
   },
@@ -123,6 +1173,621 @@
    ]
   },
   {
+   "slug": "hcgmb-174-2000",
+   "path": "local/bucuresti/cgmb/2000/174",
+   "short": "HCGMB nr. 174/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4992",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4992/h0174_00.pdf",
+     "sha256": "94723d2ce39332c98e59bdfcc421b5c4ecafa6d2db396a0c780955a331c7b812"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2000",
+   "path": "local/bucuresti/cgmb/2000/178",
+   "short": "HCGMB nr. 178/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2000 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4838",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4838/h0178_00.pdf",
+     "sha256": "ec65aa898752b1720c2f04d42d184da37d61be5bc7233bba6bd15014ed5cafed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2000",
+   "path": "local/bucuresti/cgmb/2000/179",
+   "short": "HCGMB nr. 179/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2000 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI RECTIFICAT PE ANUL 1999 AL R.A.T.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4841",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4841/h0179_00.pdf",
+     "sha256": "2d94c04b40bdc451dae135cd2a80aa0c08cd721585d540d99c3a9da8d241266d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2000",
+   "path": "local/bucuresti/cgmb/2000/180",
+   "short": "HCGMB nr. 180/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2000 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4984",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2000",
+   "path": "local/bucuresti/cgmb/2000/181",
+   "short": "HCGMB nr. 181/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2000 PRIVIND ADMINISTRAREA RETELEI STRADALE PRINCIPALE SI A LUCRARILOR DE ARTA DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4813",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2000",
+   "path": "local/bucuresti/cgmb/2000/182",
+   "short": "HCGMB nr. 182/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4862",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4862/h0182_00.pdf",
+     "sha256": "88773dc8e0205eb6eca1a307d726f75a557c4458d7def1f24fdca147c6139cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2000",
+   "path": "local/bucuresti/cgmb/2000/183",
+   "short": "HCGMB nr. 183/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2000 PRIVIND APROBAREA STUDIILOR DE FEZABILITATE PENTRU CONSOLIDARE A 11 IMOBILE DIN MUNICIPIUL BUCURESTI SE MODIFICA PRIN HCGMB NR. 334/2019",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4818",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4818/h0183_00.pdf",
+     "sha256": "9dff140df442f2b5719f5a4ca73569cb083b7dbcf1ebc90ea0b3191644dfad75"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2000",
+   "path": "local/bucuresti/cgmb/2000/184",
+   "short": "HCGMB nr. 184/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2000 PRIVIND DECLARAREA DE UTILITATE PUBLICA LOCALA A LUCRARII ANSAMBLUL DE LOCUINTE SOCIALE \" CALEA RAHOVEI-STR. PROGRESULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4985",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4985/h0184_00.pdf",
+     "sha256": "30791da316f5ddb1a116564c4f18656c067bda6c17ace33bab730ecc2999e410"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2000",
+   "path": "local/bucuresti/cgmb/2000/185",
+   "short": "HCGMB nr. 185/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2000 PRIVIND ALEGEREA COMISIEI DE VALIDARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4987",
+   "versions": [
+    {
+     "from": "2000-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4987/h0185_00.pdf",
+     "sha256": "dc3768eb1fb41107da6876a24376cc331116c13a971e1a7c802eafc7f44e73a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2000",
+   "path": "local/bucuresti/cgmb/2000/187",
+   "short": "HCGMB nr. 187/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4988",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4988/h0187_00.pdf",
+     "sha256": "53032d6c02fa29950a768c9ac10855e6c61c338fd5a3f6ada973f3f5534ca60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2000",
+   "path": "local/bucuresti/cgmb/2000/188",
+   "short": "HCGMB nr. 188/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2000 PRIVIND ALEGEREA COMISIILOR DE SPECIALITATE ALE CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4989",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4989/h0188_00.pdf",
+     "sha256": "26c8bd405940d48b407596bda96e5c0a61288a73a77d9b8e6d8d001d75a1b7e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2000",
+   "path": "local/bucuresti/cgmb/2000/19",
+   "short": "HCGMB nr. 19/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2000 PRIVIND TRANSMITEREA UNUI IMOBIL DIN ADMINISTRAREA REGIEI AUTONOME DE TRANSPORT BUCURESTI IN ADMINISTRAREA TEATRULUI \"MASCA\" ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 167/2017",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3768",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3768/h019_00.pdf",
+     "sha256": "6e0fb4ea59b795056da8f41b48d2a8f44549a99489ce84b9af2b6710fa901ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2000",
+   "path": "local/bucuresti/cgmb/2000/190",
+   "short": "HCGMB nr. 190/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2000 PRIVIND ALEGEREA VICEPRIMARILOR MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4990",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4990/h0190_00.pdf",
+     "sha256": "d2ddf9d6b3e1ace608c1953d4f01145ec29c6370bce7efbc8d03035731cb4cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2000",
+   "path": "local/bucuresti/cgmb/2000/196",
+   "short": "HCGMB nr. 196/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2000 PRIVIND ATRIBUIREA DE DENUMIRI PENTRU ARTERE, PIETE SI OBIECTIVE DE INTERES LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4983",
+   "versions": [
+    {
+     "from": "2000-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4983/h0196_00.pdf",
+     "sha256": "b41c21d87d00cf62ccb36b7458aff6ce2881d43dbe260526bec3213af6bbd02b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2000",
+   "path": "local/bucuresti/cgmb/2000/197",
+   "short": "HCGMB nr. 197/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5301",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5301/h0197_00.pdf",
+     "sha256": "ba7837f361a6e92b3866559629ebd73e0c56a1e951102ac3d3b00ee6e937ed54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2000",
+   "path": "local/bucuresti/cgmb/2000/199",
+   "short": "HCGMB nr. 199/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2000 PRIVIND REPARTIZAREA PE BUGETE COMPONENTE A VENITURILOR SI CHELTUIELILOR BUGETULUI LOCAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5302",
+   "versions": [
+    {
+     "from": "2000-08-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5302/h0199_00.pdf",
+     "sha256": "898135bf3f86941849562d5af0a7e1cbc71da95896342311716391cb00e3d3fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2000",
+   "path": "local/bucuresti/cgmb/2000/2",
+   "short": "HCGMB nr. 2/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3755",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3755/h02_00.pdf",
+     "sha256": "7ee6de35a7ffc5cff2437ad83e68b12383cc3593dc29da35136c7a9ee3f5c48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2000",
+   "path": "local/bucuresti/cgmb/2000/20",
+   "short": "HCGMB nr. 20/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4767",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4767/h020_00.pdf",
+     "sha256": "4aadc89e0acc267727c2f00c3bf8e0d9bbd5a52236a5ccc5ce54003c04c9ad0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2000",
+   "path": "local/bucuresti/cgmb/2000/200",
+   "short": "HCGMB nr. 200/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2000 PRIVIND APROBAREA PROCESELOR VERBALE ALE COMISIILOR DE NEGOCIERE REFERITOARE LA VANZAREA SPATIILOR COMERCIALE CONSTRUITE DIN FONDURILE STATULUI, CONFORM HOTARARII GUVERNULUI NR. 505/ 1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5303",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5303/h0200_00.pdf",
+     "sha256": "17a6aa86b7158f2e7e8d74704df898053e2bbf51105edb7a7d071d2d93dfa040"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2000",
+   "path": "local/bucuresti/cgmb/2000/201",
+   "short": "HCGMB nr. 201/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5307",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5307/h0201_00.pdf",
+     "sha256": "a16e1888b0a10b44be808aac7a45cde68b6f0608e3dc2aaf75881c898bf1222e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2000",
+   "path": "local/bucuresti/cgmb/2000/202",
+   "short": "HCGMB nr. 202/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5306",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5306/h0202_00.pdf",
+     "sha256": "fb197b430a48ebe38306d41d2e880e4e4c3ab301c363322a68461cd383d28dc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2000",
+   "path": "local/bucuresti/cgmb/2000/203",
+   "short": "HCGMB nr. 203/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5305",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5305/h0203_00.pdf",
+     "sha256": "45665123125490a01e3d606636fe0ded24899a9aaf229718760446eb4c79f4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2000",
+   "path": "local/bucuresti/cgmb/2000/204",
+   "short": "HCGMB nr. 204/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2000 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PRIVIND LUCRARILE TEHNICO-EDILITARE SI DE ALIMENTARE CU ENERGIE TERMICA A BLOCURILOR DE LOCUINTE 52,55 SI 56 DIN ANSAMBLUL OLTENITEI NORD",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5304",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5304/h0204_00.pdf",
+     "sha256": "c5dd2018b083d48c0a59e874d0d172ec42f62bb20c4aac3228de8e6f65fed7a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2000",
+   "path": "local/bucuresti/cgmb/2000/206",
+   "short": "HCGMB nr. 206/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2000 PRIVIND APROBAREA BUGETULUI C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7350",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/7350/h0206_00.pdf",
+     "sha256": "9ef79c0d863ff482ef04a4839451d16c85452449e1f41e8962609a150569152b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2000",
+   "path": "local/bucuresti/cgmb/2000/207",
+   "short": "HCGMB nr. 207/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2000 PRIVIND APROBAREA DOCUMENTELOR NECESARE TRANSFERULUI DREPTURILOR SI OBLIGATIILOR R.G.A.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5364",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5364/h0207_00.pdf",
+     "sha256": "e97e06a1c45a0c68bec66f12eaf17dff5d716375610076151bc6a8ca951f781b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-2000",
+   "path": "local/bucuresti/cgmb/2000/208",
+   "short": "HCGMB nr. 208/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5365",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5365/h0208_00.pdf",
+     "sha256": "40544026ce90cdc61e06987586c119f230478e58ca31649c96c434969436532f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2000",
+   "path": "local/bucuresti/cgmb/2000/209",
+   "short": "HCGMB nr. 209/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2000 PRIVIND MANDATAREA PRIMARULUI GENERAL DE A SEMNA DOCUMENTE PRIVIND INTRAREA IN VIGOARE A CONTRACTULUI DE CONCESIUNE A SERVICIILOR PUBLICE DE ALIMENTARE CU APA SI DE CANALIZARE SI DE A ADUCE LA INDEPLINIRE UNELE DISPOZITII PREVAZUTE IN ACEST CONTRACT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5366",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5366/h0209_00.pdf",
+     "sha256": "eeea9f31b03fb2fc90a9661d54e6abe6f93c5f1de56c880226ac948e3453f1ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2000",
+   "path": "local/bucuresti/cgmb/2000/21",
+   "short": "HCGMB nr. 21/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4770",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4770/h021_00.pdf",
+     "sha256": "07a6b0b6ebd73024687aee0050190b897e891bb42195c54811f0ce03eb06c471"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2000",
+   "path": "local/bucuresti/cgmb/2000/210",
+   "short": "HCGMB nr. 210/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2000 PRIVIND MODIFICAREA ANEXEI NR. 5 LA HCGMB NR. 207/2000 PRIVIND APROBAREA DOCUMENTELOR NECESARE TRASFERULUI DREPTULUI SI A OBLIGATIILOR REGIEI GENERALE DE APA BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5410",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5410/h0210_00.pdf",
+     "sha256": "c8f8b000d250236ebef0281444d38c96c799252a247d524df0399b28aae408bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2000",
+   "path": "local/bucuresti/cgmb/2000/211",
+   "short": "HCGMB nr. 211/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2000 PRIVIND PRELUNGIREA SAU REINOIREA CONTRACTELOR DE INCHIRIERE PENTRU UNELE SPATII CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA, APARTINAND PRIMARIEI MUNICIPIULUI BUCURESTI, AFLATE IN EVIDENTA DIRECTIEI GENERALE DE ASISTENTA SOCIALA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5404",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5404/h0211_00.pdf",
+     "sha256": "9367e80974c820efca0f7f013abc462c692df3c8b4aec998a65107cf15a4e532"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2000",
+   "path": "local/bucuresti/cgmb/2000/212",
+   "short": "HCGMB nr. 212/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2000 PRIVIND PROTEJAREA PRIN IMPREJMUIRE A TERENURILOR VIRANE DE PE RAZA MUNICIPIULUI BUCURESTI SE MODIFICA PRIN HCGMB NR. 121/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5407",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5407/h0212_00.pdf",
+     "sha256": "1a5ad90a46330e9d599f3a98785ab6797baa1bb6e9911f070b9e059ddb5b4140"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2000",
+   "path": "local/bucuresti/cgmb/2000/213",
+   "short": "HCGMB nr. 213/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2000 PRIVIND DESEMNAREA REPREZENTANTULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL NATIONAL DE COORDONARE AL AGENTIEI NATIONALE PENTRU LOCUINTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5402",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5402/h0213_00.pdf",
+     "sha256": "59f9940288cdd8be1f2dccbc389cd2b12b64c43e629d81ad43a3e6ffee839526"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2000",
+   "path": "local/bucuresti/cgmb/2000/214",
+   "short": "HCGMB nr. 214/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2000 PRIVIND CEREREA ADRESATA GUVERNULUI ROMANIEI PENTRU TRECEREA DIN DOMENIUL PUBLIC AL STATULUI IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI A UNOR IMOBILE (CONSTRUCTII SI TERENURI AFERENTE) AFLATE IN PARCUL \"CAROL\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5406",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5406/h0214_00.pdf",
+     "sha256": "173bc676b0517d6164ad6494b0cbb05aa19a861b3b02ddbea97fff60473027c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2000",
+   "path": "local/bucuresti/cgmb/2000/215",
+   "short": "HCGMB nr. 215/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2000 PRIVIND RATIFICAREA CONTRACTULUI COLECTIV DE MUNCA LA NIVEL DE RAMURA- CULTURA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5405",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5405/h0215_00.pdf",
+     "sha256": "5c6292bd7cbb248060942adeb4b988848f9e4b9ed201bceaa06dc8d2f33c3674"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-2000",
+   "path": "local/bucuresti/cgmb/2000/216",
+   "short": "HCGMB nr. 216/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2000 PRIVIND INFIINTAREA \"ADMINISTRATIEI DE AGREMENT SI LACURI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6041",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/6041/h0216_00.pdf",
+     "sha256": "fb80a45d48745585d919826c240ff33ad2d5f191c1264c96067338616a1ea268"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2000",
+   "path": "local/bucuresti/cgmb/2000/217",
+   "short": "HCGMB nr. 217/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2000 PRIVIND STABILIREA COMPETENTELOR CONSIILOR LOCALE ALE SECTOARELOR DE A INFIINTA INSTITUTII SI AGENTI ECONOMICI DE INTERES LOCAL SI DE A PARTICIPA CU CAPITAL SAU BUNURI LA SOCIETATI COMERCIALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5403",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5403/h0217_00.pdf",
+     "sha256": "8ad87345bf38a0d0d1e0640018b652c6abec86941b9b7b0c0cfb48b7c5f73823"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2000",
+   "path": "local/bucuresti/cgmb/2000/218",
+   "short": "HCGMB nr. 218/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5408",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5408/h0218_00.pdf",
+     "sha256": "5fde84ac0a945a5a24ef2d5f1f6eb2b854b012835198a5643846cbe8017e33e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2000",
+   "path": "local/bucuresti/cgmb/2000/219",
+   "short": "HCGMB nr. 219/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5409",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5409/h0219_00.pdf",
+     "sha256": "054483b6deb6c56edd9324d676878d4777887cf5cf1ec4cc1127912bff13dedd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2000",
+   "path": "local/bucuresti/cgmb/2000/220",
+   "short": "HCGMB nr. 220/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2000 PRIVIND INFIINTAREA \"ADMINISTRATIEI DE AGREMENT SI LACURI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5643",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5643/h0220_00.pdf",
+     "sha256": "dc1fb3e545cefc6cebbbdf43d7eecb8d09107e8f69919a987aff683412aadda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2000",
+   "path": "local/bucuresti/cgmb/2000/221",
+   "short": "HCGMB nr. 221/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2000 PRIVIND DESEMNAREA REPREZENTANTILOR CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN ADUNAREA GENERALA A ACTIONARILOR LA S.C.- A.C.M.- LIRTRAC S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5518",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5518/h0221_00.pdf",
+     "sha256": "70996fa9168afd946c3ccad46a4fa4c67cae6239f7c825a37d695a3a2e614bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-2000",
+   "path": "local/bucuresti/cgmb/2000/222",
+   "short": "HCGMB nr. 222/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5644",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5644/h0222_00.pdf",
+     "sha256": "7609e0b59151b46e55852d1de5302aa37d91b2512f3b00aa4acbb65d34d3d34e"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-223-2000",
    "path": "local/bucuresti/cgmb/2000/223",
    "short": "HCGMB nr. 223/2000",
@@ -134,6 +1799,156 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5519/h0223_00.pdf",
      "sha256": "8a4176baf1ead27f9d4d13f493d640f1925887df0e62882b1725cd9e31030a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2000",
+   "path": "local/bucuresti/cgmb/2000/224",
+   "short": "HCGMB nr. 224/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5520",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5520/h0224_00.pdf",
+     "sha256": "feb5e8bc1af8bfca06506f653ea82c341eab2df64a7d5bb0564d84e5861fd1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2000",
+   "path": "local/bucuresti/cgmb/2000/225",
+   "short": "HCGMB nr. 225/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5521",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5521/h0225_00.pdf",
+     "sha256": "6eae97ea5756c0b7c39690644677fb96ddb2d11a09d4909ad4977f3d3172f013"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2000",
+   "path": "local/bucuresti/cgmb/2000/226",
+   "short": "HCGMB nr. 226/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5522",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5522/h0226_00.pdf",
+     "sha256": "246ddc106d4ad274c974d45ff39df931ac8bcafdc93a191966414714096462ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2000",
+   "path": "local/bucuresti/cgmb/2000/227",
+   "short": "HCGMB nr. 227/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5523",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5523/h0227_00.pdf",
+     "sha256": "29af15bb1c7727cb1a0a224c330e6de86df02844b8d1c35ec7c9f4c28d39ae39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2000",
+   "path": "local/bucuresti/cgmb/2000/228",
+   "short": "HCGMB nr. 228/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5524",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5524/h0228_00.pdf",
+     "sha256": "3d70a8840877c0b4c10f07a08d7ea4663b2870755c0c9689bdd2e9abe71d9602"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2000",
+   "path": "local/bucuresti/cgmb/2000/229",
+   "short": "HCGMB nr. 229/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2000 PRIVIND APROBAREA UNOR PLANURI URBANISTICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5525",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5525/h0229_00.pdf",
+     "sha256": "9052cac13e3ebfcc3c05befb3fa1528ba07231c4f34cfa415ccccf0b6cfdbf01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2000",
+   "path": "local/bucuresti/cgmb/2000/23",
+   "short": "HCGMB nr. 23/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3769",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3769/h023_00.pdf",
+     "sha256": "45f79bb54a21d9ce6aa616c70a2dd6ee7e47968b59efc9cb6bb7ef74f979fd53"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2000",
+   "path": "local/bucuresti/cgmb/2000/230",
+   "short": "HCGMB nr. 230/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2000 PRIVIND ABROGAREA UNOR HCGMB SI AVIZE ALE COMISIILOR DE SPECIALITATE PENTRU PLANURILE URBANISTICE ZONALE SI DE DETALIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5710",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2000",
+   "path": "local/bucuresti/cgmb/2000/231",
+   "short": "HCGMB nr. 231/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2000 PRIVIND REGLEMENTAREA SITUATIEI CONTRACTELOR INCHEIATE CU PERSOANELE FIZICE/JURIDICE PENTRU SPITALELE AFLATE IN ADMINISTRAREA PRIMARIEI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5526",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5526/h0231_00.pdf",
+     "sha256": "60d64933c9fb3760dbdcc3ff5989de3378e28a84453836ef87f97e2bd3fdc12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2000",
+   "path": "local/bucuresti/cgmb/2000/232",
+   "short": "HCGMB nr. 232/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2000 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE A INVESTITIEI \"AMENAJARE SI EXTINDERE IMOBILE STR. DOMNITA ANCUTA, NR. 1, SECTOR 1\"- SEDIUL ADMINISTRATIEI STRAZILOR- FAZA S.F",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5527",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5527/h0232_00.pdf",
+     "sha256": "70d9c98fad34475f800210e844d791bcfb71711c4309f2afe26d90cd1640c2be"
     }
    ]
   },
@@ -164,6 +1979,81 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/6539/h0234_00.pdf",
      "sha256": "1ea247858eea2b32ed792269550a799ba0150d12a6f5c3be20f4a0f211293111"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2000",
+   "path": "local/bucuresti/cgmb/2000/235",
+   "short": "HCGMB nr. 235/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5529",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5529/h0235_00.pdf",
+     "sha256": "90ef005f757be334bb01ae6bfe5a6ccf3a73a7a03a15c0139f074fc719e083b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2000",
+   "path": "local/bucuresti/cgmb/2000/236",
+   "short": "HCGMB nr. 236/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2000 PRIVIND DESEMNAREA REPREZENTANTILOR MUNICIPIULUI BUCURESTI IN CONSILIUL PENTRU DEZVOLTAREA REGIONALA BUCURESTI- ILFOV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5530",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5530/h0236_00.pdf",
+     "sha256": "9ed0340e424a84e8c3c3af7738e64629c4b532e2310e68665f6185815567c991"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2000",
+   "path": "local/bucuresti/cgmb/2000/237",
+   "short": "HCGMB nr. 237/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5531",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5531/h0237_00.pdf",
+     "sha256": "31c90080856b6dfaed543cf0945bd64933da24624c99eaf877ff7a4645f8d754"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-2000",
+   "path": "local/bucuresti/cgmb/2000/238",
+   "short": "HCGMB nr. 238/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/2000 PRIVIND CONFERIREA TITLULUI DE \"CETATEAN DE ONOARE AL MUNICIPIULUI BUCURESTI\" UNOR SPORTIVI MEDALIATI CU AUR, ARGINT SI BRONZ LA JOCURILE OLIMPICE DE VARA DE LA SYDNEY",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5532",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5532/h0238_00.pdf",
+     "sha256": "f34ab94e71f22f9a9099d5cb263d1c62599a293824d13cd0a19a3c3e9d079a47"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-2000",
+   "path": "local/bucuresti/cgmb/2000/239",
+   "short": "HCGMB nr. 239/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/2000 PRIVIND CEREREA ADRESATA GUVERNULUI ROMANIEI PENTRU TRECEREA DIN DOMENIUL PUBLIC AL STATULUI IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI A IMOBILELOR FOSTELOR CASE DE CULTURA ALE TINERETULUI DIN SECTOARELE MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5533",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5533/h0239_00.pdf",
+     "sha256": "e2470e641ab9edf92768188fffc4d98c651c2ea9677628193a733893672bbf98"
     }
    ]
   },

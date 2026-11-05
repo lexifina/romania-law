@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1850/2003 · 1 versions, from 2004-01-09 (latest in force: 2004-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/48989>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2004, before its publication; dated here by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2004, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (11376 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,4 +30,5 @@ Act id: `ordin-finante-1850-2003` (tags `ordin-finante-1850-2003/<day>`; `python
 - Ordin finante nr. 1850/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1850/2003: Anexa nr. 1 (III CARACTERISTICI DE TIPĂRIRE, MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE A FORMULARELOR 1. Denumire: Declarație de venit global; 1.1. Cod: 14.13.01.13; 1.2. Format: A4/t2; 1.3. U/M: seturi; 1.4. Carac) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 48989 of the official web service.
 - Ordin finante nr. 1850/2003: Anexa nr. 2 (IV INSTRUCȚIUNI pentru transmitere pe cale electronică a Declarației informative privind impozitul reținut pe veniturile cu regim de reținere la sursa, pe beneficiari de venit Cod 14.13.01.13/I În ved) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 48989 of the official web service.
+- Ordin finante nr. 1850/2003: the official text prints 11376 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin finante nr. 1850/2003: the publisher's notes run into its text (*) Declaraţia rectificativa se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control) are not text.

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-340-2007",
+   "path": "ordin/agricultura/2007/340",
+   "short": "Ordin agricultura nr. 340/2007",
+   "title": "Ordinul nr. 340/2007 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale, al ministrului mediului și gospodăririi apelor, al ministrului administrației și internelor și al ministrului transporturilor, construcțiilor și turismului nr. 810/2006/9/120/141/2007 pentru aprobarea punctelor de trecere a frontierei de stat prin care se efectuează importul, exportul și tranzitul de vegetale și produse vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85786",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85786",
+     "sha256": "4aa03e47c1ae0bc7149ee443b1d7529f537d5ea03a2a0443dfe282efae46b112"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-344-2007",
    "path": "ordin/agricultura/2007/344",
    "short": "Ordin agricultura nr. 344/2007",
@@ -2703,6 +2718,81 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1287-2007",
+   "path": "ordin/dezvoltare/2007/1287",
+   "short": "Ordin dezvoltare nr. 1287/2007",
+   "title": "Ordinul nr. 1.287/2007 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului și al ministrului administrației și internelor nr. 2.134/460/2004 privind aprobarea Procedurii de desemnare a organismelor pentru atestarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87458",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87458",
+     "sha256": "d917e60a31e80033dbb8448831d57371c443283d493a53821e0f6313a4dc789a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1329-2007",
+   "path": "ordin/dezvoltare/2007/1329",
+   "short": "Ordin dezvoltare nr. 1329/2007",
+   "title": "Ordinul nr. 1.329/2007 pentru modificarea și înlocuirea anexelor nr. 6 și 7 la Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.430/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87993",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87993",
+     "sha256": "4caba1482c069e8ffcd30568ec0ab4bd91cd148e3457502af313f9e169a86ed7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1357-2007",
+   "path": "ordin/dezvoltare/2007/1357",
+   "short": "Ordin dezvoltare nr. 1357/2007",
+   "title": "Ordinul nr. 1.357/2007 privind aprobarea modelului Contractului-cadru de finanțare a Programului multianual \"Asistență tehnică pentru sprijinirea autorităților administrației publice locale în pregătirea tehnică a proiectelor de investiții publice, finanțate din Programul operațional regional 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88894",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88894",
+     "sha256": "e51c233d7d19aa31e4c3b68cfeeecc426ef8fb57e5ca6ff0d8a0d4cb80704470"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-448-2007",
+   "path": "ordin/dezvoltare/2007/448",
+   "short": "Ordin dezvoltare nr. 448/2007",
+   "title": "Ordinul nr. 448/2007 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate și ale specificațiilor tehnice recunoscute din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83775",
+   "versions": [
+    {
+     "from": "2007-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83775",
+     "sha256": "c776228ace8f4e7d8f74900a52e1bff2eb484075e1378f023f55db69b56f1673"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-486-2007",
+   "path": "ordin/dezvoltare/2007/486",
+   "short": "Ordin dezvoltare nr. 486/2007",
+   "title": "Ordinul nr. 486/2007 pentru aprobarea Procedurii privind emiterea acordului de către Inspectoratul de Stat în Construcții - I.S.C. pentru intervenții în timp asupra construcțiilor existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84292",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84292",
+     "sha256": "b66cb879b1d66f02b01ea695e1da8cf1bf1ff6d95b79603ee9a02cdfaca2baa5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-607-2007",
    "path": "ordin/dezvoltare/2007/607",
    "short": "Ordin dezvoltare nr. 607/2007",
@@ -2718,6 +2808,66 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-612-2007",
+   "path": "ordin/dezvoltare/2007/612",
+   "short": "Ordin dezvoltare nr. 612/2007",
+   "title": "Ordinul nr. 612/2007 pentru aprobarea Normei metodologice de aplicare a Hotărârii Guvernului nr. 577/1997 privind pietruirea, reabilitarea, modernizarea și/sau asfaltarea drumurilor de interes local clasate și alimentarea cu apă a satelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86122",
+   "versions": [
+    {
+     "from": "2007-10-12",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86122",
+     "sha256": "5a1d4336c9abfe7df1e87f0127a473710ad89cdeac7145439b415640f31e598a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-651-2007",
+   "path": "ordin/dezvoltare/2007/651",
+   "short": "Ordin dezvoltare nr. 651/2007",
+   "title": "Ordinul nr. 651/2007 privind modificarea reglementării tehnice \"Îndrumător pentru atestarea tehnico-profesională a specialiștilor cu activitate în construcții\", aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 777/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84747",
+   "versions": [
+    {
+     "from": "2007-08-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84747",
+     "sha256": "6eb20ca02eca8cac5b1a2ff7355733f8d8f92872b304fafc39b8e9a81fc0524b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-688-2007",
+   "path": "ordin/dezvoltare/2007/688",
+   "short": "Ordin dezvoltare nr. 688/2007",
+   "title": "Ordinul nr. 688/2007 pentru modificarea și completarea Reglementării tehnice \"Cod de proiectare seismică - Partea I - Prevederi de proiectare pentru clădiri\", indicativ P 100-1/2006, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.711/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87748",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87748",
+     "sha256": "b0e7401d1a9582fbe888ff019dc45458fc6821526df97c6bcbe53fb96b9eafa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-690-2007",
+   "path": "ordin/dezvoltare/2007/690",
+   "short": "Ordin dezvoltare nr. 690/2007",
+   "title": "Ordinul nr. 690/2007 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 165/2005 pentru aprobarea Reglementării tehnice \"Cod de proiectare. Bazele proiectării și acțiuni asupra construcțiilor. Acțiunea vântului\", indicativ NP-082-04",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85163",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85163",
+     "sha256": "5984f3d80ba1f322d2b7036770640fc4a42840a5cf26bb2993c7381780e8d46d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-691-2007",
    "path": "ordin/dezvoltare/2007/691",
    "short": "Ordin dezvoltare nr. 691/2007",
@@ -2729,6 +2879,36 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86093",
      "sha256": "752a637676621d2c48945746fc9d7971f2060de72cca91c44fad39d301967c6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-726-2007",
+   "path": "ordin/dezvoltare/2007/726",
+   "short": "Ordin dezvoltare nr. 726/2007",
+   "title": "Ordinul nr. 726/2007 privind aprobarea Metodologiei de emitere a avizului tehnic de către Inspectoratul de Stat în Construcții - I.S.C. pentru documentațiile tehnico-economice aferente obiectivelor de investiții finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84849",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84849",
+     "sha256": "8c498c711ad412090ae006514edd0fa0643ce721a67a8c1dc21da0d0e514a7c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-794-2007",
+   "path": "ordin/dezvoltare/2007/794",
+   "short": "Ordin dezvoltare nr. 794/2007",
+   "title": "Ordinul nr. 794/2007 privind modificarea Normelor metodologice pentru punerea în aplicare a Programului național privind sprijinirea construirii de locuințe proprietate personală, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor și al ministrului internelor și reformei administrative nr. 166/216/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85774",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85774",
+     "sha256": "20be148350ee1518a9189c26a61e89ef05e830e94011b545a9377b7f13945bd2"
     }
    ]
   },
@@ -4623,6 +4803,141 @@
    ]
   },
   {
+   "slug": "ordin-interne-105-2007",
+   "path": "ordin/interne/2007/105",
+   "short": "Ordin interne nr. 105/2007",
+   "title": "Ordinul nr. 105/2007 privind modificarea Ordinului ministrului administrației și internelor nr. 585/2005 pentru aprobarea unor măsuri privind organizarea și funcționarea Comisiei de recunoaștere a organismelor pentru atestarea conformității produselor pentru construcții cu rol în satisfacerea cerinței securitate la incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78701",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78701",
+     "sha256": "97bca8a901d6d5f12cd7e37f7ba9f2f2347590b4558e8ab6821184036ae9a31c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-106-2007",
+   "path": "ordin/interne/2007/106",
+   "short": "Ordin interne nr. 106/2007",
+   "title": "Ordinul nr. 106/2007 pentru aprobarea Criteriilor de stabilire a consiliilor locale și operatorilor economici care au obligația de a angaja cel puțin un cadru tehnic sau personal de specialitate cu atribuții în domeniul apărării împotriva incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78704",
+   "versions": [
+    {
+     "from": "2007-07-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78704",
+     "sha256": "d1d996725388ed57b7a17b380e5b8a06b1e1f232a987e521ab62d8e1d0daa943"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-110-2007",
+   "path": "ordin/interne/2007/110",
+   "short": "Ordin interne nr. 110/2007",
+   "title": "Ordinul nr. 110/2007 privind aprobarea Calendarului de desfășurare a concursului național de admitere și a Componenței nominale a comisiilor de organizare, de admitere și de contestații, constituite pentru concursul național de admitere la programul de formare specializată destinat funcționarilor publici de conducere, anul de studii 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78745",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78745",
+     "sha256": "e7acf0ba973bad5e089026705bd47cf779bc845c9b849167b4e6a23a7962d23f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-111-2007",
+   "path": "ordin/interne/2007/111",
+   "short": "Ordin interne nr. 111/2007",
+   "title": "Ordinul nr. 111/2007 privind stabilirea tarifelor de participare la programul de formare specializată destinat funcționarilor publici de conducere, anul de studii 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78730",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78730",
+     "sha256": "ec30ccbc9a1d664a8c5faac845244b44236d43b18009e9d07b7b04b2513bf018"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-125-2007",
+   "path": "ordin/interne/2007/125",
+   "short": "Ordin interne nr. 125/2007",
+   "title": "Ordinul nr. 125/2007 privind aprobarea Schemei de ajutor de stat pentru compensarea pierderilor înregistrate ca urmare a prestării serviciilor de interes economic general de către societățile care produc, transportă, distribuie și furnizează energie termică, conținută de Ordonanța Guvernului nr. 36/2006 privind instituirea prețurilor locale de referință pentru energia termică furnizată populației prin sisteme centralizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79249",
+   "versions": [
+    {
+     "from": "2007-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79249",
+     "sha256": "e38ab913f6c254253d9bb0c912d64dac9b9f805a592e812fdc81b3eac09a44fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-128-2007",
+   "path": "ordin/interne/2007/128",
+   "short": "Ordin interne nr. 128/2007",
+   "title": "Ordinul nr. 128/2007 privind aprobarea tarifelor pentru activitățile desfășurate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79000",
+   "versions": [
+    {
+     "from": "2007-01-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79000",
+     "sha256": "88286852438a34d7be46502245c6753521165a35278a267743a3fe4c84e2ddc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-130-2007",
+   "path": "ordin/interne/2007/130",
+   "short": "Ordin interne nr. 130/2007",
+   "title": "Ordinul nr. 130/2007 pentru aprobarea Metodologiei de elaborare a scenariilor de securitate la incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79233",
+   "versions": [
+    {
+     "from": "2007-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79233",
+     "sha256": "64b8827665a902f51cb002d976aa9eff8280856cad1260725d07dc3ab8553aee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-132-2007",
+   "path": "ordin/interne/2007/132",
+   "short": "Ordin interne nr. 132/2007",
+   "title": "Ordinul nr. 132/2007 pentru aprobarea Metodologiei de elaborare a Planului de analiză și acoperire a riscurilor și a Structurii-cadru a Planului de analiză și acoperire a riscurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79181",
+   "versions": [
+    {
+     "from": "2007-03-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79181",
+     "sha256": "f0a7a850ec1b13dbe466f440a1fafb97cdee0ae443aa10fa3c478d93f9f25883"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-134-2007",
+   "path": "ordin/interne/2007/134",
+   "short": "Ordin interne nr. 134/2007",
+   "title": "Ordinul nr. 134/2007 privind aprobarea criteriilor de evaluare, a punctajelor și a metodologiei de punctare, aplicabile în vederea atribuirii traseelor pentru transportul rutier public de persoane prin servicii regulate în trafic județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79269",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79269",
+     "sha256": "a2d62d9f7bfee27b27e00b4b0e992ca333c0d7566fd20a36c196ca771b354540"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-154-2007",
    "path": "ordin/interne/2007/154",
    "short": "Ordin interne nr. 154/2007",
@@ -4634,6 +4949,171 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79797",
      "sha256": "aabea150afac47716bcb9a2211a8816da1d2a1ecd341bc788a44973cbf51e895"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-158-2007",
+   "path": "ordin/interne/2007/158",
+   "short": "Ordin interne nr. 158/2007",
+   "title": "Ordinul nr. 158/2007 pentru aprobarea Criteriilor de performanță privind constituirea, încadrarea și dotarea serviciilor private pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79896",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79896",
+     "sha256": "3cee0ee40e8bf16885c66edfd69cbc97b117a6702b90068b2ab17b92d5fd99aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-160-2007",
+   "path": "ordin/interne/2007/160",
+   "short": "Ordin interne nr. 160/2007",
+   "title": "Ordinul nr. 160/2007 pentru aprobarea Regulamentului de planificare, organizare, desfășurare și finalizare a activității de prevenire a situațiilor de urgență prestate de serviciile voluntare și private pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80030",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80030",
+     "sha256": "4dc3397ccbf897586ca303df94362016676ec32d0f776de5f07f224a96aa6ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-163-2007",
+   "path": "ordin/interne/2007/163",
+   "short": "Ordin interne nr. 163/2007",
+   "title": "Ordinul nr. 163/2007 pentru aprobarea Normelor generale de apărare împotriva incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80730",
+   "versions": [
+    {
+     "from": "2007-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80730",
+     "sha256": "ac8c53c80b3cd3e26ba8400878aff8f6cf00c0a044276a6803d46780dbd75469"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-164-2007",
+   "path": "ordin/interne/2007/164",
+   "short": "Ordin interne nr. 164/2007",
+   "title": "Ordinul nr. 164/2007 pentru aprobarea Regulamentului de acordare a brevetului de pompier specialist personalului serviciilor de urgență profesioniste căruia i-au încetat raporturile de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80123",
+   "versions": [
+    {
+     "from": "2007-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80123",
+     "sha256": "f2711337ae195daeb1f0d34ba40e20909e675e89185cd7651335ea6d5a54ad45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-171-2007",
+   "path": "ordin/interne/2007/171",
+   "short": "Ordin interne nr. 171/2007",
+   "title": "Ordinul nr. 171/2007 privind unele măsuri pentru avertizarea populației din zonele expuse riscului la cutremur",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80237",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80237",
+     "sha256": "765bf242133686db3202ad117a032597a8ad1d3fc968493371786c9cab0fd0a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-174-2007",
+   "path": "ordin/interne/2007/174",
+   "short": "Ordin interne nr. 174/2007",
+   "title": "Ordinul nr. 174/2007 pentru modificarea Ordinului ministrului administrației și internelor nr. 134/2007 privind aprobarea criteriilor de evaluare, a punctajelor și a metodologiei de punctare, aplicabile în vederea atribuirii traseelor pentru transportul rutier public de persoane prin servicii regulate în trafic județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80332",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80332",
+     "sha256": "66aed3347c3d6e72f4899a6919dee29be81fe4b4d1add2e6f2712b8ba2396c22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-195-2007",
+   "path": "ordin/interne/2007/195",
+   "short": "Ordin interne nr. 195/2007",
+   "title": "Ordinul nr. 195/2007 privind modificarea și completarea Ordinului ministrului administrației și internelor nr. 718/2005 pentru aprobarea Criteriilor de performanță privind structura organizatorică și dotarea serviciilor voluntare pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81561",
+   "versions": [
+    {
+     "from": "2007-05-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81561",
+     "sha256": "c55e5e51eb853d8a3885bf79147f14aa0edcf276ca3edd9a0bf9aea57da99008"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-196-2007",
+   "path": "ordin/interne/2007/196",
+   "short": "Ordin interne nr. 196/2007",
+   "title": "Ordinul nr. 196/2007 pentru modificarea Ordinului ministrului administrației și internelor nr. 1.512/2006 privind stabilirea tarifelor de participare la Programul de formare specializată destinat înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81697",
+   "versions": [
+    {
+     "from": "2007-05-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81697",
+     "sha256": "e7999c7f94aa82f639c11f9e7fa5f9144adfe77956ed5adc8539ff1da601e440"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-216-2007",
+   "path": "ordin/interne/2007/216",
+   "short": "Ordin interne nr. 216/2007",
+   "title": "Ordinul nr. 216/2007 privind aprobarea Normelor metodologice pentru punerea în aplicare a Programului național privind sprijinirea construirii de locuințe proprietate personală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82787",
+   "versions": [
+    {
+     "from": "2007-06-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82787",
+     "sha256": "f2d1b01deaf01d233a6c0f039f1de51e973b4b7b792075e31681b3177496a4c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-217-2007",
+   "path": "ordin/interne/2007/217",
+   "short": "Ordin interne nr. 217/2007",
+   "title": "Ordinul nr. 217/2007 privind modificarea Ordinului ministrului administrației și internelor nr. 1.474/2006 pentru aprobarea Regulamentului de planificare, organizare, pregătire și desfășurare a activității de prevenire a situațiilor de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82615",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82615",
+     "sha256": "393c573eeaf6293972a03194b96b08cdb491853ed36e8361f4bf638ae66eb578"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-235-2007",
+   "path": "ordin/interne/2007/235",
+   "short": "Ordin interne nr. 235/2007",
+   "title": "Ordinul nr. 235/2007 privind modificarea Ordinului ministrului administrației și internelor nr. 1.033/2005 pentru aprobarea Structurii organizatorice și a Regulamentului de organizare și funcționare ale Agenției Naționale de Cadastru și Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83296",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83296",
+     "sha256": "2575b867ec03e8dd2e23c67de3e5ee49a6886ae6baed2523631bc02b63204241"
     }
    ]
   },
@@ -4653,6 +5133,96 @@
    ]
   },
   {
+   "slug": "ordin-interne-252-2007",
+   "path": "ordin/interne/2007/252",
+   "short": "Ordin interne nr. 252/2007",
+   "title": "Ordinul nr. 252/2007 pentru aprobarea Metodologiei de atestare a persoanelor care proiectează, execută, verifică, întrețin și/sau repară sisteme și instalații de apărare împotriva incendiilor, efectuează lucrări de termoprotecție și ignifugare, de verificare, întreținere și reparare a autospecialelor și/sau a altor mijloace tehnice destinate apărării împotriva incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84783",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84783",
+     "sha256": "086235305806114d72e819e4a2923f78e35cb21daa8d68ff05677b0251f874b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-257-2007",
+   "path": "ordin/interne/2007/257",
+   "short": "Ordin interne nr. 257/2007",
+   "title": "Ordinul nr. 257/2007 privind activitatea de psihologie în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84575",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84575",
+     "sha256": "af52dd9339b7a21064702c3c532d763e9b97e67ed973dcfe86906dd6490ca0ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-261-2007",
+   "path": "ordin/interne/2007/261",
+   "short": "Ordin interne nr. 261/2007",
+   "title": "Ordinul nr. 261/2007 privind aprobarea Regulamentului pentru compunerea și portul uniformelor de poliție, precum și a Regulilor pentru aplicarea normelor privind echiparea polițiștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84817",
+   "versions": [
+    {
+     "from": "2007-08-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84817",
+     "sha256": "b3812b9980ee7157495a90f11c5437bf3f534ad736ae96692ea6039ccb220d6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-262-2007",
+   "path": "ordin/interne/2007/262",
+   "short": "Ordin interne nr. 262/2007",
+   "title": "Ordinul nr. 262/2007 privind aprobarea Regulamentului pentru compunerea și portul uniformelor militare, precum și a Regulilor pentru aplicarea normelor privind echiparea militarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84822",
+   "versions": [
+    {
+     "from": "2007-08-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84822",
+     "sha256": "38750e21735446c90db1417f1cbf279c3150735b6d324ef39f3089068a4c9508"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-266-2007",
+   "path": "ordin/interne/2007/266",
+   "short": "Ordin interne nr. 266/2007",
+   "title": "Ordinul nr. 266/2007 privind aprobarea Regulamentului de organizare și funcționare al Unității de management al proiectului pentru implementarea și monitorizarea programului \"Termoficare 2006-2009 calitate și eficiență\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85064",
+   "versions": [
+    {
+     "from": "2007-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85064",
+     "sha256": "54776f39f40e3925d529b0647da2e769cb282c8be9faa29823a1e447885f3fe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-269-2007",
+   "path": "ordin/interne/2007/269",
+   "short": "Ordin interne nr. 269/2007",
+   "title": "Ordinul nr. 269/2007 privind asigurarea asistenței materiale pentru persoanele cazate în centrele din subordinea Oficiului Român pentru Imigrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85645",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85645",
+     "sha256": "dbf9ed0b7bde7ce213842d64ca063fc2a725707cd2237cda23bd71c71a83819c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-286-2007",
    "path": "ordin/interne/2007/286",
    "short": "Ordin interne nr. 286/2007",
@@ -4664,6 +5234,186 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87230",
      "sha256": "d6d958d1b0d290087ac7380d9cddf4750f0a9177753edd44e554304a0f39cec1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-295-2007",
+   "path": "ordin/interne/2007/295",
+   "short": "Ordin interne nr. 295/2007",
+   "title": "Ordinul nr. 295/2007 privind aprobarea cifrei anuale de școlarizare pentru program, a numărului comisiilor de concurs și al comisiilor de soluționare a contestațiilor, a componenței nominale a acestora, a tematicii pentru concurs, a cuantumului taxei de participare la program, a modalității privind plata acesteia și a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85520",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85520",
+     "sha256": "a1dca0d1f406f4c6d43ca87a978d8ddb28978cd9c94a88c9366c071f288c81ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-296-2007",
+   "path": "ordin/interne/2007/296",
+   "short": "Ordin interne nr. 296/2007",
+   "title": "Ordinul nr. 296/2007 privind aprobarea schemei de ajutor de stat regional acordat pentru investițiile realizate în parcurile industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85962",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85962",
+     "sha256": "7e9c22c783fec11d31c71c582153163b54365ec6c7f9ecc527aff6197fc79dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-297-2007",
+   "path": "ordin/interne/2007/297",
+   "short": "Ordin interne nr. 297/2007",
+   "title": "Ordinul nr. 297/2007 pentru aprobarea Planului strategic al Ministerului Internelor și Reformei Administrative pentru perioada 2007-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89705",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89705",
+     "sha256": "66a01704ece3ddbd3973e8d24b76fecb3015ae86e1118a64a3250b5ef74ea31f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-299-2007",
+   "path": "ordin/interne/2007/299",
+   "short": "Ordin interne nr. 299/2007",
+   "title": "Ordinul nr. 299/2007 pentru aprobarea Regulamentului privind organizarea și funcționarea Colegiului Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85772",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85772",
+     "sha256": "e9ae21104ab1508d072ddd64cbdfe4256fa0ef6f465beb39441afcf09839358f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-311-2007",
+   "path": "ordin/interne/2007/311",
+   "short": "Ordin interne nr. 311/2007",
+   "title": "Ordinul nr. 311/2007 privind modificarea Regulamentului de autorizare a laboratoarelor și poligoanelor de încercări la foc și a celor de distrugere a muniției neexplodate, aprobat prin Ordinul ministrului administrației și internelor nr. 770/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85904",
+   "versions": [
+    {
+     "from": "2007-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85904",
+     "sha256": "01b943808c3b62c106081837b76e0b0d916033d37eed78ed981657092840278c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-312-2007",
+   "path": "ordin/interne/2007/312",
+   "short": "Ordin interne nr. 312/2007",
+   "title": "Ordinul nr. 312/2007 pentru modificarea Ordinului ministrului administrației și internelor nr. 125/2007 privind aprobarea Schemei de ajutor de stat pentru compensarea pierderilor înregistrate ca urmare a prestării serviciilor de interes economic general de către societățile care produc, transportă, distribuie și furnizează energie termică, conținută de Ordonanța Guvernului nr. 36/2006 privind instituirea prețurilor locale de referință pentru energia termică furnizată populației prin sisteme centralizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85866",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85866",
+     "sha256": "838bf5ee227f64d2192f46877986d09e49277b999a8b229c5414a7e08898fa7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-318-2007",
+   "path": "ordin/interne/2007/318",
+   "short": "Ordin interne nr. 318/2007",
+   "title": "Ordinul nr. 318/2007 privind organizarea și executarea inspecțiilor și controalelor în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86270",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86270",
+     "sha256": "a0f5815fa6714553f40240c0f2de7ca5454a5742bc30744689de1ff66ce1104e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-321-2007",
+   "path": "ordin/interne/2007/321",
+   "short": "Ordin interne nr. 321/2007",
+   "title": "Ordinul nr. 321/2007 pentru aplicarea, în unitățile Ministerului Internelor și Reformei Administrative, a unor dispoziții din Legea nr. 384/2006 privind statutul soldaților și gradaților voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86448",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86448",
+     "sha256": "b3ba9f71f4f4af7c7b9c86df5e5db92ec03a2ee05a8ee865b5d7f507209d3140"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-353-2007",
+   "path": "ordin/interne/2007/353",
+   "short": "Ordin interne nr. 353/2007",
+   "title": "Ordinul nr. 353/2007 pentru aprobarea Normelor de aplicare a Legii serviciilor de transport public local nr. 92/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87463",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87463",
+     "sha256": "2dcf5300ff3ddcdf414e9b1acce60ba4e84e402c953bf4045790c8161b97c378"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-356-2007",
+   "path": "ordin/interne/2007/356",
+   "short": "Ordin interne nr. 356/2007",
+   "title": "Ordinul nr. 356/2007 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87470",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87470",
+     "sha256": "7c5922a50ed4bbf6c1f6b6896590950395a66b348dd564579bbe2d35ef15b474"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-371-2007",
+   "path": "ordin/interne/2007/371",
+   "short": "Ordin interne nr. 371/2007",
+   "title": "Ordinul nr. 371/2007 privind aprobarea tarifelor pentru serviciile furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88352",
+   "versions": [
+    {
+     "from": "2008-01-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88352",
+     "sha256": "8158a946c973ad3dfdf192e508efb8a514e7b9ed6a579e7e96de27c267fa4ddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-373-2007",
+   "path": "ordin/interne/2007/373",
+   "short": "Ordin interne nr. 373/2007",
+   "title": "Ordinul nr. 373/2007 pentru stabilirea Zilei aniversare a Oficiului Român pentru Imigrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88459",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88459",
+     "sha256": "bcc09d3959dd494175abe067f352f5f764aeca0814db6ecb3490bd44c5bbb2ce"
     }
    ]
   },
@@ -7694,6 +8444,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83455",
      "sha256": "992f2f1fdc67615383dd5704492ed47be9129f8bcb7f8e87a5d8019481f9fdd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-510-2007",
+   "path": "ordin/transporturi/2007/510",
+   "short": "Ordin transporturi nr. 510/2007",
+   "title": "Ordinul nr. 510/2007 pentru aprobarea Reglementărilor privind controlul tehnic în trafic al vehiculelor rutiere - RNTR 11",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83796",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83796",
+     "sha256": "a32eced63194db4639c2890dc5c37df52a52755c6bc8475926a7cd6152cd8fa0"
     }
    ]
   }

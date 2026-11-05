@@ -3,6 +3,36 @@
  "shard": "ordin/2017",
  "acts": [
   {
+   "slug": "ordin-agricultura-274-2017",
+   "path": "ordin/agricultura/2017/274",
+   "short": "Ordin agricultura nr. 274/2017",
+   "title": "Ordinul nr. 274/2017 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, și al viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.846/2.408/2014 privind punerea în aplicare a prevederilor art. 5 alin. (1) din Legea nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193202",
+   "versions": [
+    {
+     "from": "2017-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193202",
+     "sha256": "65cfb1bfb0cec434c98a59cc1f317014e6fd4b4452b37ed4f55bec2dc3970cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-275-2017",
+   "path": "ordin/agricultura/2017/275",
+   "short": "Ordin agricultura nr. 275/2017",
+   "title": "Ordinul nr. 275/2017 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului dezvoltării regionale și administrației publice nr. 20/208/2015 privind punerea în aplicare a prevederilor art. 9 alin. (1) din Legea nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193204",
+   "versions": [
+    {
+     "from": "2017-09-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193204",
+     "sha256": "65f64403617e58dfae68cb2e5c17e8bc428c55bb357f53f1f1ff86838d85356f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-296-2017",
    "path": "ordin/agricultura/2017/296",
    "short": "Ordin agricultura nr. 296/2017",
@@ -18,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-31-2017",
+   "path": "ordin/agricultura/2017/31",
+   "short": "Ordin agricultura nr. 31/2017",
+   "title": "Ordinul nr. 31/2017 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului dezvoltării regionale și administrației publice nr. 1.846 / 2.408/2014 privind punerea în aplicare a prevederilor art. 5 alin. (1) din Legea nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187915",
+   "versions": [
+    {
+     "from": "2017-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187915",
+     "sha256": "c33ec01c5a596b2947e4e1c4b9cef6612355ef6977b7928ce13e73ec397efe4b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-32-2017",
    "path": "ordin/agricultura/2017/32",
    "short": "Ordin agricultura nr. 32/2017",
@@ -29,6 +74,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191293",
      "sha256": "89b03e2ba144cdfe85dae7d6d25aa9731c5ab5e2cde745537b34ba981b3005a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-377-2017",
+   "path": "ordin/agricultura/2017/377",
+   "short": "Ordin agricultura nr. 377/2017",
+   "title": "Ordinul nr. 377/2017 privind abrogarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale și al ministrului administrației și internelor nr. 897/798/2005 pentru aprobarea Regulamentului privind conținutul documentațiilor referitoare la scoaterea terenurilor din circuitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198104",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198104",
+     "sha256": "40e4bdda0d0f4954c0cf501edd2ae38bff1977c2569faeb1bfa36e077beb0f07"
     }
    ]
   },
@@ -3573,6 +3633,171 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-209-2017",
+   "path": "ordin/dezvoltare/2017/209",
+   "short": "Ordin dezvoltare nr. 209/2017",
+   "title": "Ordinul nr. 209/2017 privind modificarea și completarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186423",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186423",
+     "sha256": "683958f71fee662b1f71da1db1509298beeab43e2eaec8d147e5fdf0e18878a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2400-2017",
+   "path": "ordin/dezvoltare/2017/2400",
+   "short": "Ordin dezvoltare nr. 2400/2017",
+   "title": "Ordinul nr. 2.400/2017 privind aprobarea măsurii de sprijin prin acordarea unor ajutoare de minimis pentru IMM-uri sub formă de garanție neplafonată de portofoliu din cadrul Programului operațional „Inițiativa pentru IMM”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187901",
+   "versions": [
+    {
+     "from": "2017-04-03",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187901",
+     "sha256": "70846f0b72f8d0e3dbdd570dc1e611d6bfbb36bf2425f5ed46b698b4a146c6ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2422-2017",
+   "path": "ordin/dezvoltare/2017/2422",
+   "short": "Ordin dezvoltare nr. 2422/2017",
+   "title": "Ordinul nr. 2.422/2017 privind aplicarea prevederilor art. III alin. (11) din Ordonanța de urgență a Guvernului nr. 63/2010 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru stabilirea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187683",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187683",
+     "sha256": "e28eb64a80c4168a8cf6f3a618d29801a55820bd018789b26c7cf9fd378bca3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2578-2017",
+   "path": "ordin/dezvoltare/2017/2578",
+   "short": "Ordin dezvoltare nr. 2578/2017",
+   "title": "Ordinul nr. 2.578/2017 privind aprobarea schemei de ajutor de minimis pentru sprijinirea dezvoltării microîntreprinderilor pe teritoriul acoperit de Investiția teritorială integrată Delta Dunării prin Programul operațional regional 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188093",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188093",
+     "sha256": "c2c4aa49718d140ac020df5b72cd915402968230e8b08858604b644d83626f3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2586-2017",
+   "path": "ordin/dezvoltare/2017/2586",
+   "short": "Ordin dezvoltare nr. 2586/2017",
+   "title": "Ordinul nr. 2.586/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura energetică în scopul preluării energiei produse din resurse regenerabile în condiții de siguranță a SEN, precum și implementarea sistemelor de măsurare inteligentă a energiei electrice la consumatorii casnici, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 6, obiectivul specific 6.1 „Creșterea producției de energie din resurse regenerabile mai puțin exploatate (biomasă, biogaz, geotermal), sectorul distribuție\" și obiectivul specific 6.3 „Reducerea consumului mediu de energie electrică la nivelul locuințelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188602",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188602",
+     "sha256": "94f4d7fe2728a2847fd571dbb10c5ee8d6e2d7ae7afc6e6499f9afbab97b803a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2587-2017",
+   "path": "ordin/dezvoltare/2017/2587",
+   "short": "Ordin dezvoltare nr. 2587/2017",
+   "title": "Ordinul nr. 2.587/2017 pentru aprobarea Schemei de ajutor de minimis privind monitorizarea consumului de energie la nivelul consumatorilor industriali, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 6, obiectivul specific 6.2 „Reducerea consumului de energie la nivelul consumatorilor industriali”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188604",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188604",
+     "sha256": "ea0f703aaffdca861a324e88595fb1afb9a62c6e532c4c954e623e4cc879ad95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2632-2017",
+   "path": "ordin/dezvoltare/2017/2632",
+   "short": "Ordin dezvoltare nr. 2632/2017",
+   "title": "Ordinul nr. 2.632/2017 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192700",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192700",
+     "sha256": "df2b46d50e6784d6cb87349b4a0cb8d96dd0286c6ce8dea45d14e1df2708cca7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2641-2017",
+   "path": "ordin/dezvoltare/2017/2641",
+   "short": "Ordin dezvoltare nr. 2641/2017",
+   "title": "Ordinul nr. 2.641/2017 privind modificarea și completarea reglementării tehnice „Metodologie de calcul al performanței energetice a clădirilor”, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 157/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188101",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188101",
+     "sha256": "281badec668bfa4efa1150a945f5f18e4eb36d2b8624e79d61443a3c7b704895"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2822-2017",
+   "path": "ordin/dezvoltare/2017/2822",
+   "short": "Ordin dezvoltare nr. 2822/2017",
+   "title": "Ordinul nr. 2.822/2017 pentru aprobarea Programului național privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189161",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189161",
+     "sha256": "e2888ddc32b82832e3400d5c17521df1911f8c449a9c8e89a537457ccfcefa30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2939-2017",
+   "path": "ordin/dezvoltare/2017/2939",
+   "short": "Ordin dezvoltare nr. 2939/2017",
+   "title": "Ordinul nr. 2.939/2017 privind procedura de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din instituții publice devenite executorii în perioada 1 ianuarie-31 decembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189654",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189654",
+     "sha256": "b64a9a6c5b8c892aac958ea7770a18886221d1c54fbca09487bae55aee71709c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2940-2017",
+   "path": "ordin/dezvoltare/2017/2940",
+   "short": "Ordin dezvoltare nr. 2940/2017",
+   "title": "Ordinul nr. 2.940/2017 pentru aprobarea Procedurii speciale privind autorizarea, construirea, executarea și operarea conductelor care transportă gazele naturale de la zăcămintele situate în largul Mării Negre până la conducta/conductele proiectelor de importanță națională sau, după caz, până la alte conducte care fac obiectul proiectelor cuprinse în planurile de dezvoltare a Sistemului național de transport al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189271",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189271",
+     "sha256": "e5b0617418498a5d0a609f5e36c83529129653530df2c587619d0dc779555086"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-3067-2017",
    "path": "ordin/dezvoltare/2017/3067",
    "short": "Ordin dezvoltare nr. 3067/2017",
@@ -3584,6 +3809,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189539",
      "sha256": "8f0bfbd0f447a1099ad4f40a99b7c5a174c36a7f11a5d714651a63fe01d78886"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-3423-2017",
+   "path": "ordin/dezvoltare/2017/3423",
+   "short": "Ordin dezvoltare nr. 3423/2017",
+   "title": "Ordinul nr. 3.423/2017 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform Programului \"Termoficare 2006-2020 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190421",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190421",
+     "sha256": "99ef4b79b4e60aee981e093a9f2724d8676327200ee490c489357e9a3b850416"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-3710-2017",
+   "path": "ordin/dezvoltare/2017/3710",
+   "short": "Ordin dezvoltare nr. 3710/2017",
+   "title": "Ordinul nr. 3.710/2017 privind aprobarea Metodologiei pentru stabilirea distanțelor adecvate față de sursele potențiale de risc din cadrul amplasamentelor care se încadrează în prevederile Legii nr. 59/2016 privind controlul asupra pericolelor de accident major în care sunt implicate substanțe periculoase în activitățile de amenajare a teritoriului și urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193309",
+   "versions": [
+    {
+     "from": "2017-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193309",
+     "sha256": "eb2fd766fa0ac024733a9dfdd2f8ff3e29e8c79ef62a986d3d93d1a87c788010"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-3776-2017",
+   "path": "ordin/dezvoltare/2017/3776",
+   "short": "Ordin dezvoltare nr. 3776/2017",
+   "title": "Ordinul nr. 3.776/2017 pentru stabilirea valorii de înlocuire pe metru pătrat, pentru anul 2017, în vederea vânzării locuințelor pentru tineri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191971",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191971",
+     "sha256": "6102ce408382087faf99d7f78c064f477b930ce10e53a2aabcbc11ea055f9088"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5591-2017",
+   "path": "ordin/dezvoltare/2017/5591",
+   "short": "Ordin dezvoltare nr. 5591/2017",
+   "title": "Ordinul nr. 5.591/2017 pentru modificarea și completarea Normelor de aplicare a Ordonanței Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013, aprobate prin Ordinul ministrului mediului și schimbărilor climatice nr. 2.112/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192440",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192440",
+     "sha256": "0e459e00e933a3d48dd1a532c6dedd51d69c44a40a4820ac5913eb298df0927d"
     }
    ]
   },
@@ -3603,6 +3888,171 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-5744-2017",
+   "path": "ordin/dezvoltare/2017/5744",
+   "short": "Ordin dezvoltare nr. 5744/2017",
+   "title": "Ordinul nr. 5.744/2017 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192762",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192762",
+     "sha256": "ecaf288f84aed7c52a6024fb4407545e98dd962fd622c8230c7acb68394bc02d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5795-2017",
+   "path": "ordin/dezvoltare/2017/5795",
+   "short": "Ordin dezvoltare nr. 5795/2017",
+   "title": "Ordinul nr. 5.795/2017 privind aprobarea Schemei de ajutor de stat pentru organizarea și derularea de programe de formare a adulților, având ca obiectiv \"Creșterea numărului de angajați care beneficiază de instrumente, metode, practici, standard de management al resurselor umane și de condiții de lucru îmbunătățite în vederea adaptării activității la dinamica sectoarelor economice cu potențial competitiv identificate conform Strategiei naționale de competitivitate/domeniilor de specializare inteligentă conform Strategiei naționale de cercetare, dezvoltare și inovare 2014-2020\", aferentă Programului operațional Capital uman 2014-2020, axa prioritară 3 \"Locuri de muncă pentru toți\", obiectivul specific 3.8",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193259",
+   "versions": [
+    {
+     "from": "2017-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193259",
+     "sha256": "27229019812074940ddd68f435d287101a06122a8cfceb15eb3191ad076bbff4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5976-2017",
+   "path": "ordin/dezvoltare/2017/5976",
+   "short": "Ordin dezvoltare nr. 5976/2017",
+   "title": "Ordinul nr. 5.976/2017 privind modificarea schemei de ajutor de minimis „Diaspora Start Up”, aferentă Programului operațional Capital uman 2014-2020, axa prioritară 3 \"Locuri de muncă pentru toți\", obiectivul specific 3.7 \"Creșterea ocupării prin susținerea întreprinderilor cu profil nonagricol din zona urbană\", aprobată prin Ordinul ministrului fondurilor europene nr. 2.044/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193820",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193820",
+     "sha256": "7a6b1e2798ba69c011627193c87bd1ae1695db1dc09336487c29e00658250bab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6394-2017",
+   "path": "ordin/dezvoltare/2017/6394",
+   "short": "Ordin dezvoltare nr. 6394/2017",
+   "title": "Ordinul nr. 6.394/2017 privind modificarea anexei nr. 1 la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 2.822/2017 pentru aprobarea Programului național privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194217",
+   "versions": [
+    {
+     "from": "2017-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194217",
+     "sha256": "6b71ef4d5e9a6c6ee1a73b94445455dc58d4a02e0254325555d977625ef0a38f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6398-2017",
+   "path": "ordin/dezvoltare/2017/6398",
+   "short": "Ordin dezvoltare nr. 6398/2017",
+   "title": "Ordinul nr. 6.398/2017 pentru modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 3.423/2017 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform Programului \"Termoficare 2006-2020 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194145",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194145",
+     "sha256": "1b9dcb77142ef02d83565e4f5af6540ac4799f2fd93dde777455813f9b511090"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6509-2017",
+   "path": "ordin/dezvoltare/2017/6509",
+   "short": "Ordin dezvoltare nr. 6509/2017",
+   "title": "Ordinul nr. 6.509/2017 privind stabilirea schemei de ajutor de minimis pentru activități din cadrul priorităților de investiții 6/c - Conservarea, protejarea, promovarea și dezvoltarea patrimoniului natural și cultural, 7/c - Dezvoltarea și îmbunătățirea sistemelor de transport ecologice (inclusiv cu un nivel redus de zgomot) și cu emisii reduse de carbon, inclusiv transporturile fluviale interne și maritime, porturile, legăturile multimodale și infrastructura aeroportuară, pentru promovarea mobilității regionale și locale durabile și 8/b - Sprijinirea unei creșteri favorabile ocupării forței de muncă, prin dezvoltarea potențialului endogen ca parte a unei strategii teritoriale pentru anumite zone, care să includă reconversia regiunilor industriale aflate în declin, precum și sporirea accesibilității și dezvoltarea resurselor naturale și culturale specifice, prin Programul Interreg V-A România-Ungaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194448",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194448",
+     "sha256": "0f6bc150f3ea19d93fc79222209360192b8579f429e84db2bef2c958af1d4806"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6510-2017",
+   "path": "ordin/dezvoltare/2017/6510",
+   "short": "Ordin dezvoltare nr. 6510/2017",
+   "title": "Ordinul nr. 6.510/2017 privind stabilirea unei scheme transparente de ajutor de stat destinate finanțării priorităților de investiții 6/c - Conservarea, protejarea, promovarea și dezvoltarea patrimoniului natural și cultural și 8/b - Sprijinirea unei creșteri favorabile ocupării forței de muncă, prin dezvoltarea potențialului endogen ca parte a unei strategii teritoriale pentru anumite zone, care să includă reconversia regiunilor industriale aflate în declin, precum și sporirea accesibilității și dezvoltarea resurselor naturale și culturale specifice prin Programul Interreg V-A România-Ungaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194484",
+   "versions": [
+    {
+     "from": "2017-11-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194484",
+     "sha256": "5560f7ddcc4015f42081bf6a3833e0dbeffdb6337d30677e60f5da9b0b4ccfc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6609-2017",
+   "path": "ordin/dezvoltare/2017/6609",
+   "short": "Ordin dezvoltare nr. 6609/2017",
+   "title": "Ordinul nr. 6.609/2017 pentru modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 3.423/2017 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform Programului \"Termoficare 2006-2020 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194504",
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194504",
+     "sha256": "8e815e8aee48b800c45297f902a9727d9decd6de275e6d98634aa6023e07146e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6712-2017",
+   "path": "ordin/dezvoltare/2017/6712",
+   "short": "Ordin dezvoltare nr. 6712/2017",
+   "title": "Ordinul nr. 6.712/2017 privind aprobarea modului de efectuare a achizițiilor în cadrul proiectelor cu finanțare europeană implementate în parteneriat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195037",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195037",
+     "sha256": "5270519b935280db897e991249976acbb340a08b669752b757c77d22e8e1a084"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6783-2017",
+   "path": "ordin/dezvoltare/2017/6783",
+   "short": "Ordin dezvoltare nr. 6783/2017",
+   "title": "Ordinul nr. 6.783/2017 privind modificarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura energetică în scopul preluării energiei produse din resurse regenerabile în condiții de siguranță a SEN, precum și implementarea sistemelor de măsurare inteligentă a energiei electrice la consumatorii casnici, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 6, obiectivul specific 6.1 \"Creșterea producției de energie din resurse regenerabile mai puțin exploatate (biomasă, biogaz, geotermal), sectorul distribuție\" și obiectivul specific 6.3 \"Reducerea consumului mediu de energie electrică la nivelul locuințelor\", aprobată prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 2.586/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195006",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195006",
+     "sha256": "1d1995bcbc7e5b5d1932ac33c2759a7383c66f777fd8cc169f011d546ee231c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6795-2017",
+   "path": "ordin/dezvoltare/2017/6795",
+   "short": "Ordin dezvoltare nr. 6795/2017",
+   "title": "Ordinul nr. 6.795/2017 privind aprobarea măsurii de sprijin, constând în acordarea unor ajutoare de stat și ajutoare de minimis pentru consolidarea poziției pe piață a întreprinderilor mici și mijlocii în domeniile competitive identificate în Strategia națională de competitivitate și planurile regionale de dezvoltare prin sprijinirea incubatoarelor de afaceri în cadrul Programului operațional regional 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194910",
+   "versions": [
+    {
+     "from": "2017-11-21",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194910",
+     "sha256": "9cafb7c640d72b5dc0c3290707961d3a1add0ecc4eda7078985a701b151cf1f9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-6962-2017",
    "path": "ordin/dezvoltare/2017/6962",
    "short": "Ordin dezvoltare nr. 6962/2017",
@@ -3618,6 +4068,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-6965-2017",
+   "path": "ordin/dezvoltare/2017/6965",
+   "short": "Ordin dezvoltare nr. 6965/2017",
+   "title": "Ordinul nr. 6.965/2017 privind procedura de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din instituții publice devenite executorii în perioada 1 ianuarie-31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195473",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195473",
+     "sha256": "44d48360c3a2e5bb4ce79b98334c089394a8d2f791ba87197d4f053518889494"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-7029-2017",
    "path": "ordin/dezvoltare/2017/7029",
    "short": "Ordin dezvoltare nr. 7029/2017",
@@ -3629,6 +4094,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196680",
      "sha256": "91d578cfbf1d2015884fbb831712544d20a6822d2aa78938ae28fd6cee704afa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7067-2017",
+   "path": "ordin/dezvoltare/2017/7067",
+   "short": "Ordin dezvoltare nr. 7067/2017",
+   "title": "Ordinul nr. 7.067/2017 privind modificarea anexei nr. 1 la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 2.822/2017 pentru aprobarea Programului național privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195666",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195666",
+     "sha256": "26a5bb3a1135d7112f67952ccc945eb3024dd6fb6c93dc805bbba3f3b55982eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7110-2017",
+   "path": "ordin/dezvoltare/2017/7110",
+   "short": "Ordin dezvoltare nr. 7110/2017",
+   "title": "Ordinul nr. 7.110/2017 pentru modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 3.423/2017 privind alocarea unor sume pentru cofinanțarea lucrărilor de investiții în vederea reabilitării sistemelor centralizate de alimentare cu energie termică a localităților conform Programului \"Termoficare 2006-2020 căldură și confort\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195748",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195748",
+     "sha256": "cb25ba957bd175d55ff114bf2e0b393d5308ba9c38d304e1eef57fe381520c24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7136-2017",
+   "path": "ordin/dezvoltare/2017/7136",
+   "short": "Ordin dezvoltare nr. 7136/2017",
+   "title": "Ordinul nr. 7.136/2017 privind aprobarea schemei de ajutor de minimis \"Implementarea strategiilor de dezvoltare locală în comunitățile marginalizate din zona rurală și/sau în orașe cu o populație de până la 20.000 locuitori\", aferentă Programului operațional Capital uman 2014-2020, axa prioritară 5 \"Dezvoltare locală plasată sub responsabilitatea comunității\", obiectivul specific 5.2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196222",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196222",
+     "sha256": "cb758c0d21b8093f4607e72c87c5f87b68978e2e593ea5d89c991c90c8c82d6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7195-2017",
+   "path": "ordin/dezvoltare/2017/7195",
+   "short": "Ordin dezvoltare nr. 7195/2017",
+   "title": "Ordinul nr. 7.195/2017 privind modificarea anexei nr. 1 la Ordinul viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 2.822/2017 pentru aprobarea Programului național privind creșterea performanței energetice a blocurilor de locuințe, cu finanțare în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196216",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196216",
+     "sha256": "a6440f4a9ed873495acada36123db370470f00bcac0f216d1594e1a01a1cf0fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7209-2017",
+   "path": "ordin/dezvoltare/2017/7209",
+   "short": "Ordin dezvoltare nr. 7209/2017",
+   "title": "Ordinul nr. 7.209/2017 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 3.254/2016 privind aprobarea măsurii de sprijin, constând în acordarea unor ajutoare de stat și ajutoare de minimis pentru îmbunătățirea competitivității economice prin creșterea productivității muncii în întreprinderi mici și mijlocii în cadrul Programului operațional regional 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196217",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196217",
+     "sha256": "d99d5e00ab84bae7bff946b40d101202b25ef83600089964a136ef256d81a45a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7211-2017",
+   "path": "ordin/dezvoltare/2017/7211",
+   "short": "Ordin dezvoltare nr. 7211/2017",
+   "title": "Ordinul nr. 7.211/2017 privind modificarea Schemei de ajutor de minimis \"România Start UP Plus\", aferentă Programului operațional Capital uman 2014-2020, axa prioritară 3 \"Locuri de muncă pentru toți\", obiectivul specific 3.7 \"Creșterea ocupării prin susținerea întreprinderilor cu profil nonagricol din zona urbană\", aprobată prin Ordinul ministrului fondurilor europene nr. 1.838/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196221",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196221",
+     "sha256": "fd6b9d0c2cdace856c963bdb5b34047f2a1abed77bc3b5f01d18dca3a531ad74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7331-2017",
+   "path": "ordin/dezvoltare/2017/7331",
+   "short": "Ordin dezvoltare nr. 7331/2017",
+   "title": "Ordinul nr. 7.331/2017 pentru modificarea și completarea Ordinului ministrului delegat pentru fonduri europene nr. 5.559/2017 privind aprobarea măsurii de sprijin, constând în acordarea unor ajutoare de stat și ajutoare de minimis pentru îmbunătățirea competitivității economice prin creșterea productivității muncii în întreprinderi mici și mijlocii pe teritoriul acoperit de Investiția Teritorială Integrată Delta Dunării prin Programul operațional regional 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196440",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196440",
+     "sha256": "0003cfc28c481683dd12b44dddb87a135973587f52c6f852cc13a7d849b65ea7"
     }
    ]
   },
@@ -4638,6 +5208,276 @@
    ]
   },
   {
+   "slug": "ordin-interne-10-2017",
+   "path": "ordin/interne/2017/10",
+   "short": "Ordin interne nr. 10/2017",
+   "title": "Ordinul nr. 10/2017 pentru aprobarea Regulamentului de organizare și funcționare a aparatului propriu al Inspectoratului General pentru Imigrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186755",
+   "versions": [
+    {
+     "from": "2017-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186755",
+     "sha256": "e032870f36aeea43b3b9c1d456ea4525edc5322db664cf4c9afd7e542b8133e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-102-2017",
+   "path": "ordin/interne/2017/102",
+   "short": "Ordin interne nr. 102/2017",
+   "title": "Ordinul nr. 102/2017 pentru aprobarea componenței și Regulamentului de organizare și funcționare a Comisiei de evaluare a organismelor de evaluare și verificare a constanței performanței și a organismelor de evaluare tehnică europeană a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192798",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192798",
+     "sha256": "fa42d9ac3f16da421b30500875ec4225fb6e4e7ef437f6f0e94732c5838bb5dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-107-2017",
+   "path": "ordin/interne/2017/107",
+   "short": "Ordin interne nr. 107/2017",
+   "title": "Ordinul nr. 107/2017 privind asistența juridică în Ministerul Afacerilor Interne și în unitățile, instituțiile și structurile din subordinea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192915",
+   "versions": [
+    {
+     "from": "2017-09-07",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192915",
+     "sha256": "d1f503c4bcf23bb0bce19509216700edc0eadbdf052bb781c78d25e58bac93e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-110-2017",
+   "path": "ordin/interne/2017/110",
+   "short": "Ordin interne nr. 110/2017",
+   "title": "Ordinul nr. 110/2017 pentru modificarea Ordinului ministrului afacerilor interne nr. 4/2017 privind formarea inițială, în anul 2017, în instituțiile de formare ale Ministerului Afacerilor Interne a polițiștilor locali cu atribuții în domeniul ordinii și liniștii publice și în domeniul circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193132",
+   "versions": [
+    {
+     "from": "2017-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193132",
+     "sha256": "fc04e7cb7a699c339a33aae674fca43b703051aa461395784c44e50b3f641473"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-113-2017",
+   "path": "ordin/interne/2017/113",
+   "short": "Ordin interne nr. 113/2017",
+   "title": "Ordinul nr. 113/2017 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 269/2007 privind asigurarea asistenței materiale pentru persoanele cazate în centrele din subordinea Inspectoratului General pentru Imigrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193353",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193353",
+     "sha256": "43a9fa3f71c12e4503bc1299dca18f9db0efd4c2783cea0a0d0376a264f1ca73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-119-2017",
+   "path": "ordin/interne/2017/119",
+   "short": "Ordin interne nr. 119/2017",
+   "title": "Ordinul nr. 119/2017 privind organizarea activităților cu caracter preventiv în domeniul ordinii și siguranței publice desfășurate de structurile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193843",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193843",
+     "sha256": "628b761c7ab85a116c391726f89c58376d01f83bc19cf7271df9a0d5b537c745"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-12-2017",
+   "path": "ordin/interne/2017/12",
+   "short": "Ordin interne nr. 12/2017",
+   "title": "Ordinul nr. 12/2017 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru unele structuri din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186339",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186339",
+     "sha256": "008dc193ec420e3c948e05fd653a607169bcc0ab136365cd006034e370c0c949"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-128-2017",
+   "path": "ordin/interne/2017/128",
+   "short": "Ordin interne nr. 128/2017",
+   "title": "Ordinul nr. 128/2017 pentru modificarea Ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 74/2015 privind supravegherea autorității responsabile pentru Cadrul financiar multianual 2014-2020, domeniul Afaceri interne, și reexaminarea desemnării acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194522",
+   "versions": [
+    {
+     "from": "2017-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194522",
+     "sha256": "46a8b781bd3ba0961e3990f86da43397da232ccdce52d14bcd69b314f47f87f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-134-2017",
+   "path": "ordin/interne/2017/134",
+   "short": "Ordin interne nr. 134/2017",
+   "title": "Ordinul nr. 134/2017 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 521/2008 privind asigurarea structurilor Ministerului Afacerilor Interne care nu dispun de suport logistic propriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194959",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194959",
+     "sha256": "1ff4a4108b9c5abd68f903bb0a6078692ec8283d2dd213aae7f06ce17d4d9b47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-136-2017",
+   "path": "ordin/interne/2017/136",
+   "short": "Ordin interne nr. 136/2017",
+   "title": "Ordinul nr. 136/2017 pentru aprobarea Regulilor de aplicare a normelor de hrană, a Regulilor privind organizarea și funcționarea popotelor, a structurii normelor de hrană pentru animalele de serviciu, precum și a structurii normelor de dotare cu bunuri materiale necesare aprovizionării, depozitării și păstrării produselor alimentare, preparării, transportului și servirii hranei în unitățile Ministerului Afacerilor Interne, pe timp de pace",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194732",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194732",
+     "sha256": "ffdc53181535ca482418b72be620917cebb98e9ca227d4e41d6d238df4ac9558"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-138-2017",
+   "path": "ordin/interne/2017/138",
+   "short": "Ordin interne nr. 138/2017",
+   "title": "Ordinul nr. 138/2017 pentru modificarea și completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru unele structuri din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194960",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194960",
+     "sha256": "3b555080469ded31d5d5eb999d0fc5f04e761dac1fe52538cce249509dae6c53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-139-2017",
+   "path": "ordin/interne/2017/139",
+   "short": "Ordin interne nr. 139/2017",
+   "title": "Ordinul nr. 139/2017 pentru aprobarea Normelor metodologice de aplicare în Ministerul Afacerilor Interne a prevederilor Legii nr. 270/2015 privind Statutul rezerviștilor voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194967",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194967",
+     "sha256": "f640dd18e9d2e84eed13614e0cf39d49fd6a3cb57a66db35634f8c3e8eec0a03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-14-2017",
+   "path": "ordin/interne/2017/14",
+   "short": "Ordin interne nr. 14/2017",
+   "title": "Ordinul nr. 14/2017 pentru aprobarea Regulamentului de organizare și funcționare a Academiei de Poliție \"Alexandru Ioan Cuza\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186719",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186719",
+     "sha256": "332955face125c6f955a5791611f08cd42ab491f2da03dd588704f968f228880"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-140-2017",
+   "path": "ordin/interne/2017/140",
+   "short": "Ordin interne nr. 140/2017",
+   "title": "Ordinul nr. 140/2017 privind situația centralizată a clădirilor care sunt necorespunzătoare din punctul de vedere al condițiilor de detenție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194722",
+   "versions": [
+    {
+     "from": "2017-11-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194722",
+     "sha256": "a89696e7a5b74da727b9bb174ec6e4fab5a0eca42d9fa472d4de282527611334"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-143-2017",
+   "path": "ordin/interne/2017/143",
+   "short": "Ordin interne nr. 143/2017",
+   "title": "Ordinul nr. 143/2017 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 77/2015 privind sistemul decizional și de coordonare pentru implementarea programelor naționale și pentru gestionarea asistenței financiare aferente Cadrului financiar multianual 2014-2020, domeniul Afaceri Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194974",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194974",
+     "sha256": "34f55387ffb24f23773ed5c225418da4050727d36ac604856db414a8ba52474c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-144-2017",
+   "path": "ordin/interne/2017/144",
+   "short": "Ordin interne nr. 144/2017",
+   "title": "Ordinul nr. 144/2017 privind modificarea și completarea Ordinului ministrului afacerilor interne nr. 140/2016 privind activitatea de management resurse umane în unitățile de poliție ale Ministerului Afacerilor Interne și a Ordinului ministrului afacerilor interne nr. 177/2016 privind activitatea de management resurse umane în unitățile militare ale Ministerului Afacerilor Interne, precum și încetarea aplicabilității unor dispoziții din Ordinul ministrului administrației și internelor nr. 154/2004 privind activitățile de educație fizică și sport în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194922",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194922",
+     "sha256": "af211e61c92faafbe4cd07a5e3084539f0e70a30d0f5d08614d49066003b7948"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-145-2017",
+   "path": "ordin/interne/2017/145",
+   "short": "Ordin interne nr. 145/2017",
+   "title": "Ordinul nr. 145/2017 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri și funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195002",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195002",
+     "sha256": "bfbc7563d9b177d73e9c75485a89e79058b50f0998e8b549cea3aff5b78ea35b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-146-2017",
+   "path": "ordin/interne/2017/146",
+   "short": "Ordin interne nr. 146/2017",
+   "title": "Ordinul nr. 146/2017 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195003",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195003",
+     "sha256": "03b0fc0a245e275c39f537b53c34c6aedbbf312bf864a7826308a27ea2a16927"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-147-2017",
    "path": "ordin/interne/2017/147",
    "short": "Ordin interne nr. 147/2017",
@@ -4649,6 +5489,546 @@
      "units": 71,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196888",
      "sha256": "d3d021a6cf0a8cf7cffb53f0ea55de33512bef161c56d8c579b851b68a41dbcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-151-2017",
+   "path": "ordin/interne/2017/151",
+   "short": "Ordin interne nr. 151/2017",
+   "title": "Ordinul nr. 151/2017 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195673",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195673",
+     "sha256": "fe9cd08e622e4fd6c01eebd64e51fc44266ea216c88a2308b0b324da9023e667"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-156-2017",
+   "path": "ordin/interne/2017/156",
+   "short": "Ordin interne nr. 156/2017",
+   "title": "Ordinul nr. 156/2017 pentru aprobarea Normelor metodologice privind elaborarea și testarea planurilor de urgență în caz de accidente majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196703",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196703",
+     "sha256": "a639705dfc55ff86e0025cbe4aad6fa3cafbf1d8b8fc44f305d6ad5c68d73103"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-158-2017",
+   "path": "ordin/interne/2017/158",
+   "short": "Ordin interne nr. 158/2017",
+   "title": "Ordinul nr. 158/2017 pentru aprobarea Regulamentului de organizare și funcționare a Direcției Generale Anticorupție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196422",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196422",
+     "sha256": "fe00a260dbff0f349e8fd286f127689e2c72c4bf58be7422a0c8d159d7fb3024"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-160-2017",
+   "path": "ordin/interne/2017/160",
+   "short": "Ordin interne nr. 160/2017",
+   "title": "Ordinul nr. 160/2017 privind asigurarea protecției personalului Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196699",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196699",
+     "sha256": "7d57ad74395fc0911d206df9ae1a68df242c78f1a414a4b159666827d9addac7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-162-2017",
+   "path": "ordin/interne/2017/162",
+   "short": "Ordin interne nr. 162/2017",
+   "title": "Ordinul nr. 162/2017 privind prorogarea termenului prevăzut la art. 2 alin. (2) din Ordinul ministrului afacerilor interne nr. 96/2016 pentru aprobarea Criteriilor de performanță privind constituirea, încadrarea și dotarea serviciilor voluntare și a serviciilor private pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196297",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196297",
+     "sha256": "b36979961fe8d2a3e8aef0cb05bedeaa480b7f5d6de55acc855501c38239f9a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-2-2017",
+   "path": "ordin/interne/2017/2",
+   "short": "Ordin interne nr. 2/2017",
+   "title": "Ordinul nr. 2/2017 pentru modificarea Ordinului ministrului administrației și internelor nr. 157/2012 privind forma și conținutul permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185802",
+   "versions": [
+    {
+     "from": "2017-01-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185802",
+     "sha256": "cd39649cfdc352b2d1ed71ffb91966cece1ae569cd45fdd459d0d9b4d1e51ef7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-20-2017",
+   "path": "ordin/interne/2017/20",
+   "short": "Ordin interne nr. 20/2017",
+   "title": "Ordinul nr. 20/2017 pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 90/2013 privind funcționarea Comisiei de dialog social la nivelul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186796",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186796",
+     "sha256": "ce7a10c423c5b8fd2edfeafc805dd05b1ea96ac9eef9e9857206b8861a2471a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-24-2017",
+   "path": "ordin/interne/2017/24",
+   "short": "Ordin interne nr. 24/2017",
+   "title": "Ordinul nr. 24/2017 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187148",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187148",
+     "sha256": "0adcb4d562bc53af33becbc3118f411760561f8ecffab384a9067c1d4855fdc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-28-2017",
+   "path": "ordin/interne/2017/28",
+   "short": "Ordin interne nr. 28/2017",
+   "title": "Ordinul nr. 28/2017 privind condițiile de acordare a majorării salariale pentru personalul Ministerului Afacerilor Interne care desfășoară activități în zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează, în perioada 1 martie-31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186956",
+   "versions": [
+    {
+     "from": "2017-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186956",
+     "sha256": "3eb95a95aa08c1555e97d95e3fb02075b4c1a21cb4db41342642249aa0c2e6f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-3-2017",
+   "path": "ordin/interne/2017/3",
+   "short": "Ordin interne nr. 3/2017",
+   "title": "Ordinul nr. 3/2017 pentru aprobarea Regulamentului de autorizare a laboratoarelor de încercări la foc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186324",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186324",
+     "sha256": "22cdcaa5daa687cf524403b6c55d15afd15d9c55fb8c415f59d8a121604a9f1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-30-2017",
+   "path": "ordin/interne/2017/30",
+   "short": "Ordin interne nr. 30/2017",
+   "title": "Ordinul nr. 30/2017 privind activitatea de standardizare în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187540",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187540",
+     "sha256": "7349e99a65a7b736c4b11784382c5ed56060d47a047fcbbb312d289a53dd7f05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-32-2017",
+   "path": "ordin/interne/2017/32",
+   "short": "Ordin interne nr. 32/2017",
+   "title": "Ordinul nr. 32/2017 pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 138/2016 privind organizarea și executarea controalelor în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187729",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187729",
+     "sha256": "2d6e91e71eeeec91e18ea161bedf5aba333fef70a8dce4fcb8ef8a6f81dc4f55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-36-2017",
+   "path": "ordin/interne/2017/36",
+   "short": "Ordin interne nr. 36/2017",
+   "title": "Ordinul nr. 36/2017 pentru modificarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188445",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188445",
+     "sha256": "18f012994bc8b1155dd58cb1aacd5e3171bbdcbf78814c6d2bd5ea4a6020b7a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-4-2017",
+   "path": "ordin/interne/2017/4",
+   "short": "Ordin interne nr. 4/2017",
+   "title": "Ordinul nr. 4/2017 privind formarea inițială, în anul 2017, în instituțiile de formare ale Ministerului Afacerilor Interne a polițiștilor locali cu atribuții în domeniul ordinii și liniștii publice și în domeniul circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186195",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186195",
+     "sha256": "5e18c47509fad0971c7086d1e9733b70ee27a8b371bece1421a0e61ca5e5109e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-40-2017",
+   "path": "ordin/interne/2017/40",
+   "short": "Ordin interne nr. 40/2017",
+   "title": "Ordinul nr. 40/2017 privind aprobarea criteriilor specifice de distribuire la nivelul Ministerului Afacerilor Interne a sumelor rezultate din valorificarea bunurilor mobile și imobile confiscate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188508",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188508",
+     "sha256": "d808b2192eaebe13c6722a5c9236997d78eefce5a70944b1c607d567b84d2ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-42-2017",
+   "path": "ordin/interne/2017/42",
+   "short": "Ordin interne nr. 42/2017",
+   "title": "Ordinul nr. 42/2017 pentru modificarea Regulamentului de organizare și funcționare a Oficiului Responsabilului cu Protecția Datelor Personale, aprobat prin Ordinul ministrului afacerilor interne nr. 133/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188732",
+   "versions": [
+    {
+     "from": "2017-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188732",
+     "sha256": "16b455f6f76b8778e1cdea2c32b1ffda3a518c5bb6f87a03d308876fae8d601c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-48-2017",
+   "path": "ordin/interne/2017/48",
+   "short": "Ordin interne nr. 48/2017",
+   "title": "Ordinul nr. 48/2017 pentru aprobarea Regulamentului de organizare și funcționare a Direcției generale pentru comunicații și tehnologia informației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189203",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189203",
+     "sha256": "c9239622c05a8d1d9f2691d2078bbc140cbe6b1921207c7bbe812a36151b3e1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-5-2017",
+   "path": "ordin/interne/2017/5",
+   "short": "Ordin interne nr. 5/2017",
+   "title": "Ordinul nr. 5/2017 privind paza obiectivelor, bunurilor, valorilor și a transporturilor speciale aparținând Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186194",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186194",
+     "sha256": "c4bf7d4de09635c672194e167d19cef9660726970893562e710b67c821f7ee70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-53-2017",
+   "path": "ordin/interne/2017/53",
+   "short": "Ordin interne nr. 53/2017",
+   "title": "Ordinul nr. 53/2017 privind acceptarea donațiilor, darurilor manuale, comodatelor și sponsorizărilor în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189485",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189485",
+     "sha256": "19031ef290ba630af223c08bab379751dc9c8e38f477d15085fac4c9e41e2fa0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-58-2017",
+   "path": "ordin/interne/2017/58",
+   "short": "Ordin interne nr. 58/2017",
+   "title": "Ordinul nr. 58/2017 pentru modificarea și completarea unor acte normative privind proceduri referitoare la înmatricularea vehiculelor și permisul de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190033",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190033",
+     "sha256": "4cc775fdd77fbe88dbd35401f1ffe68211c70e392c9d29d3307d727939f30d88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-6-2017",
+   "path": "ordin/interne/2017/6",
+   "short": "Ordin interne nr. 6/2017",
+   "title": "Ordinul nr. 6/2017 privind prelungirea termenului de aplicare a Ordinului ministrului afacerilor interne nr. 188/2016 pentru aprobarea unor măsuri în domeniul resurselor umane, necesare operaționalizării Direcției Generale de Protecție Internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186061",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186061",
+     "sha256": "d33806758bb4c2ccf66b99c4e619e993b8a59975ecc0f591635fb6c5239c6923"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-62-2017",
+   "path": "ordin/interne/2017/62",
+   "short": "Ordin interne nr. 62/2017",
+   "title": "Ordinul nr. 62/2017 pentru stabilirea Standardelor necesar a fi respectate la contractarea de către Inspectoratul General pentru Imigrări din subordinea Ministerului Afacerilor Interne a serviciilor de specialitate pentru recepția și cazarea solicitanților de azil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189545",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189545",
+     "sha256": "7196632618ba7b78ff27ca55350ea315aa4c3c05978875aced097058d444f012"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-65-2017",
+   "path": "ordin/interne/2017/65",
+   "short": "Ordin interne nr. 65/2017",
+   "title": "Ordinul nr. 65/2017 pentru aprobarea Regulamentului de organizare și funcționare a Direcției generale management urgențe medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190086",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190086",
+     "sha256": "d04fa050bc8c67a4dfadc4a872a6e8456c20ed2fb0495b89b77556c2a3d00c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-67-2017",
+   "path": "ordin/interne/2017/67",
+   "short": "Ordin interne nr. 67/2017",
+   "title": "Ordinul nr. 67/2017 privind elaborarea analizei de risc la securitatea fizică a obiectivelor, bunurilor, valorilor și transporturilor speciale din responsabilitatea structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190357",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190357",
+     "sha256": "a7c8a88373f50a83389b6ab97e2dbabc873f22d560c1d5a8583138815de59769"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-70-2017",
+   "path": "ordin/interne/2017/70",
+   "short": "Ordin interne nr. 70/2017",
+   "title": "Ordinul nr. 70/2017 privind aprobarea Planului de acțiuni pentru implementarea Strategiei de consolidare și dezvoltare a Inspectoratului General pentru Situații de Urgență pentru perioada 2017-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190353",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190353",
+     "sha256": "5280c70a2737a297edaf7bfbb64039ea11449fe87e7541b1ec239717164c326b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-72-2017",
+   "path": "ordin/interne/2017/72",
+   "short": "Ordin interne nr. 72/2017",
+   "title": "Ordinul nr. 72/2017 privind aprobarea Planului de integritate pentru implementarea, la nivelul Ministerului Afacerilor Interne, în perioada 2017-2020, a Strategiei naționale anticorupție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190354",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190354",
+     "sha256": "64883cfe7c9d30696483149a4139876282cd9993bc3113f7348caab87d99e4e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-73-2017",
+   "path": "ordin/interne/2017/73",
+   "short": "Ordin interne nr. 73/2017",
+   "title": "Ordinul nr. 73/2017 pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 149/2016 privind coordonarea activității și delegarea unor competențe în cadrul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190203",
+   "versions": [
+    {
+     "from": "2017-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190203",
+     "sha256": "f0fa09340618b5ba007d148afae3f9ae2a9c4a535610a9f5145572a15ef12dee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-76-2017",
+   "path": "ordin/interne/2017/76",
+   "short": "Ordin interne nr. 76/2017",
+   "title": "Ordinul nr. 76/2017 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 76/2015 privind regulile de eligibilitate aplicabile cheltuielilor în cadrul Fondului pentru securitate internă și Fondului pentru azil, migrație și integrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190395",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190395",
+     "sha256": "2480f85ca0f15179542ff3f3d018fb99ff150075a88ffe58dc077bd1f54476b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-78-2017",
+   "path": "ordin/interne/2017/78",
+   "short": "Ordin interne nr. 78/2017",
+   "title": "Ordinul nr. 78/2017 privind condițiile de acordare a majorării salariale pentru personalul Ministerului Afacerilor Interne planificat să asigure continuitatea îndeplinirii atribuțiilor specifice, în afara programului normal de lucru, de la domiciliu, precum și activitățile pentru care se asigură continuitatea îndeplinirii atribuțiilor specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190631",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190631",
+     "sha256": "7a2078fda51d117b13fc5df4f764414abc0473e782d67e4e53bfba523f200a5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-8-2017",
+   "path": "ordin/interne/2017/8",
+   "short": "Ordin interne nr. 8/2017",
+   "title": "Ordinul nr. 8/2017 pentru aprobarea Regulamentului-cadru privind organizarea și funcționarea inspectoratelor pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186349",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186349",
+     "sha256": "72eb6ff70e68c59dac5dbf911621df2d935cab5f355a8b212ad74ce74a208b49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-84-2017",
+   "path": "ordin/interne/2017/84",
+   "short": "Ordin interne nr. 84/2017",
+   "title": "Ordinul nr. 84/2017 privind sistemul de control intern managerial în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191174",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191174",
+     "sha256": "fdb7e6c305e79bd0f79f65619931a4d0f490a3fbad6bc7881600f2b2901a287c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-87-2017",
+   "path": "ordin/interne/2017/87",
+   "short": "Ordin interne nr. 87/2017",
+   "title": "Ordinul nr. 87/2017 pentru modificarea unor acte normative din domeniul managementului resurselor umane în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191428",
+   "versions": [
+    {
+     "from": "2017-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191428",
+     "sha256": "1815891b97217d2614d2afd1caa0cf26a2b3132a8e073ee23c6a461e38f913dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-90-2017",
+   "path": "ordin/interne/2017/90",
+   "short": "Ordin interne nr. 90/2017",
+   "title": "Ordinul nr. 90/2017 privind prorogarea termenului prevăzut la art. 2 alin. (2) din Ordinul ministrului afacerilor interne nr. 96/2016 pentru aprobarea Criteriilor de performanță privind constituirea, încadrarea și dotarea serviciilor voluntare și a serviciilor private pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191505",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191505",
+     "sha256": "1e612b82b14ca7a85c405de23512b046e1af43d7452b52fde9c2dc01d6be2afc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-91-2017",
+   "path": "ordin/interne/2017/91",
+   "short": "Ordin interne nr. 91/2017",
+   "title": "Ordinul nr. 91/2017 pentru aprobarea Metodologiei valorificării rezultatelor activităților operaționale desfășurate la nivelul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192101",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192101",
+     "sha256": "adbe5595bdf6f6b90a9d6b6067a8eb208aa3b8bd438c55b37b4c5aca61dc447e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-97-2017",
+   "path": "ordin/interne/2017/97",
+   "short": "Ordin interne nr. 97/2017",
+   "title": "Ordinul nr. 97/2017 privind procedura și condițiile tehnice în care se realizează și se stochează înregistrările examenului de obținere a permisului de conducere și măsurile pentru protejarea acestora și a datelor cu caracter personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192464",
+   "versions": [
+    {
+     "from": "2017-08-19",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192464",
+     "sha256": "51d8cde44be6fd589e84716ade28a4cddd02758d555f89da484e0d0fd8f7d419"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-98-2017",
+   "path": "ordin/interne/2017/98",
+   "short": "Ordin interne nr. 98/2017",
+   "title": "Ordinul nr. 98/2017 pentru modificarea și completarea Ordinului ministrului administrației și internelor nr. 1.454/2006 privind forma, dimensiunile și conținutul certificatului de înmatriculare și ale celui de înregistrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192504",
+   "versions": [
+    {
+     "from": "2018-05-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192504",
+     "sha256": "6d9918e8c76526ede4268c7445c6117238e60a55f84663888327fc54b8cd49fc"
     }
    ]
   },
@@ -5054,6 +6434,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192522",
      "sha256": "f6756570d0a33b29fa5d41c499802e0b659ace72ba6ece7e6e29df9251c6fe1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1430-2017",
+   "path": "ordin/mediu/2017/1430",
+   "short": "Ordin mediu nr. 1430/2017",
+   "title": "Ordinul nr. 1.430/2017 privind aprobarea Planului național de tranziție pentru instalații de ardere aflate sub incidența prevederilor cap. III din Legea nr. 278/2013 privind emisiile industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197603",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197603",
+     "sha256": "22bad08b7e5055535864ed62ffe7b61a5cb601ffb25c778f457e12212d54720d"
     }
    ]
   },

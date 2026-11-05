@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2017/2005 · 1 versions, from 2006-01-20 (latest in force: 2006-01-20) · <https://legislatie.just.ro/Public/DetaliiDocument/68087>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I 200 DECLARAȚIE SPECIALĂ Număr de operatori de date PRIVIND VENITURILE REALIZATE Ministerul Finanțelor Publice cu caracter personal-1067 ┌──┬──┬──┬──┐ Agenția ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I 200 DECLARAȚIE SPECIALĂ Număr de operatori de date PRIVIND VENITURILE REALIZATE Ministerul Finanțelor Publice cu caracter personal-1067): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -30,5 +30,5 @@ Act id: `ordin-finante-2017-2005` (tags `ordin-finante-2017-2005/<day>`; `python
 - Ordin finante nr. 2017/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2017/2005: Anexa nr. 2 (III CARACTERISTICI DE TIPĂRIRE, MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE A FORMULARELOR 1. Denumire: Declarație specială privind veniturile realizate; 1.1. Cod: 14.13.01.13; 1.2. Format: A3/t2; 1.3. U) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 68087 of the official web service.
 - Ordin finante nr. 2017/2005: Anexa nr. 3 (IV INSTRUCȚIUNI pentru transmitere pe cale electronică a Declarației informative privind impozitul reținut pe veniturile cu regim de reținere la sursă, pe beneficiari de venit Cod 14.13.01.13/l Declar) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 68087 of the official web service.
-- Ordin finante nr. 2017/2005: Anexa nr. 1 (I 200 DECLARAȚIE SPECIALĂ Număr de operatori de date PRIVIND VENITURILE REALIZATE Ministerul Finanțelor Publice cu caracter personal-1067 ┌──┬──┬──┬──┐ Agenția ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2017/2005: Anexa nr. 1 (I 200 DECLARAȚIE SPECIALĂ Număr de operatori de date PRIVIND VENITURILE REALIZATE Ministerul Finanțelor Publice cu caracter personal-1067) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 2017/2005: the publisher's notes run into its text (*) Declaraţia rectificativă se poate depune până în momentul iniţierii de câtre organul fiscal a unei acţiuni de control; *) Declaraţia rectificativă se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control; *) Declaraţia rectificatîvă se poate depune până în momentul iniţierii de către organul fiscal a unei acţiuni de control) are not text.

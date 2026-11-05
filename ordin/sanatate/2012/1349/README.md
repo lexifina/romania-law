@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1349/2012 · 1 versions, from 2013-01-07 (latest in force: 2013-01-07) · <https://legislatie.just.ro/Public/DetaliiDocument/144382>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la Ordinul nr. 232/2010) STRUCTURA ORGANIZATORICĂ a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov *Font 8* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la Ordinul nr. 232/2010) STRUCTURA ORGANIZATORICĂ a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,5 +17,5 @@ Act id: `ordin-sanatate-1349-2012` (tags `ordin-sanatate-1349-2012/<day>`; `pyth
 - Ordin sanatate nr. 1349/2012: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1349/2012: the first version is the order as published in Monitorul Oficial nr. 10 of 7 January 2013 (document 144382 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1349/2012: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1349/2012: Anexa nr. 1 ((Anexa la Ordinul nr. 232/2010) STRUCTURA ORGANIZATORICĂ a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1349/2012: Anexa nr. 1 ((Anexa la Ordinul nr. 232/2010) STRUCTURA ORGANIZATORICĂ a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1349/2012: the publisher's notes run into its text (*) Compartimentele se pot organiza ca servicii cu minimum 5 posturi şi ca birouri cu minimum 3 posturi.) are not text.

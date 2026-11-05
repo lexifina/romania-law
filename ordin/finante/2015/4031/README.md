@@ -2,7 +2,7 @@
 
 Ordin finante nr. 4031/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174440>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 PAG [1] [] Declarație rectificativă ┌─┬─┬─┬─┐ Anul │ │ │ │ │ [] Declarație fără deținători de proprietăți └─┴─┴─┴─┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 PAG [1] [] Declarație rectificativă): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,7 +27,7 @@ Act id: `ordin-finante-4031-2015` (tags `ordin-finante-4031-2015/<day>`; `python
 - Ordin finante nr. 4031/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 4031/2015: the first version is the order as published in Monitorul Oficial nr. 972 of 29 December 2015 (document 174440 of the official web service), in force on 1 January 2016, the day it states for itself.
 - Ordin finante nr. 4031/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 4031/2015: a joint order of Ministerul Finanțelor Publice nr. 4.031 din 11 December 2015; Ministerul Dezvoltării Regionale și Administrației Publice nr. 2.067 din 22 December 2015. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-2067-2015` name it too (data/paths.json aliases).
 - Ordin finante nr. 4031/2015: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului 401 "Declarație informativă privind proprietățile imobiliare deținute de rezidenți ai altor state membre ale Uniunii Europene pe teritoriul României" I. Dep) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 174440 of the official web service.
 - Ordin finante nr. 4031/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului Denumire: 401 "Declarație informativă privind proprietățile imobiliare deținute de rezidenți ai altor stat) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 174440 of the official web service.
-- Ordin finante nr. 4031/2015: Anexa nr. 1 (1 PAG [1] [] Declarație rectificativă ┌─┬─┬─┬─┐ Anul │ │ │ │ │ [] Declarație fără deținători de proprietăți └─┴─┴─┴─┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 4031/2015: Anexa nr. 1 (1 PAG [1] [] Declarație rectificativă) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 4031/2015: a joint order of Ministerul Finanțelor Publice nr. 4.031 din 11 December 2015; Ministerul Dezvoltării Regionale și Administrației Publice nr. 2.067 din 22 December 2015. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-2067-2015` name it too (data/paths.json aliases).

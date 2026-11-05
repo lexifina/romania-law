@@ -31,6 +31,66 @@
      "sha256": "7ba3c526834be70d93e286bce9a99972772516532bdc63ebad62529822506563"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-111-2013",
+   "path": "instructiuni/interne/2013/111",
+   "short": "Instrucțiuni interne nr. 111/2013",
+   "title": "Instrucțiunile nr. 111/2013 privind atestarea personalului navigant care încadrează ori urmează să încadreze posturile de specialitate de la bordul navelor aparținând Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150139",
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150139",
+     "sha256": "dd4b54c78c695ba73dcb131aa60dd44372fe2be7efd6bf7324699a749b504d6c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-156-2013",
+   "path": "instructiuni/interne/2013/156",
+   "short": "Instrucțiuni interne nr. 156/2013",
+   "title": "Instrucțiunile nr. 156/2013 privind organizarea și desfășurarea examenului de promovare în funcții a personalului contractual de specialitate medico-sanitar, personalului de specialitate din compartimentele paraclinice medico-sanitare și a celui auxiliar sanitar, încadrat cu contract individual de muncă în unitățile Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152786",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152786",
+     "sha256": "d3f6d98346e91ebd999bb0378d237a21b388986a63c6c2f6255e74a342ba7ad4"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-75-2013",
+   "path": "instructiuni/interne/2013/75",
+   "short": "Instrucțiuni interne nr. 75/2013",
+   "title": "Instrucțiunile nr. 75/2013 pentru modificarea și completarea Instrucțiunilor ministrului internelor și reformei administrative nr. 664/2008 privind normele de asigurare tehnică a construcțiilor aflate în administrarea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148771",
+   "versions": [
+    {
+     "from": "2013-06-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148771",
+     "sha256": "a14997dabf8e381f390a8d5282806207c79194442d7298f10b8b5c61354e1c2e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-9-2013",
+   "path": "instructiuni/interne/2013/9",
+   "short": "Instrucțiuni interne nr. 9/2013",
+   "title": "Instrucțiunile nr. 9/2013 privind efectuarea analizelor de risc la securitatea fizică a unităților ce fac obiectul Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146412",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146412",
+     "sha256": "fd22f4d90f34260d42a4e515ed66e6b0f54447acd2dc6b37a7d2da1ab75b9f9e"
+    }
+   ]
   }
  ]
 }

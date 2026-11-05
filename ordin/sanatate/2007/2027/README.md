@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 2027/2007 · 1 versions, from 2007-12-03 (latest in force: 2007-12-03) · <https://legislatie.just.ro/Public/DetaliiDocument/87459>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────┬─────────────────────┐ │ONC - FORMULAR DE RAPORTARE A UNUI CAZ DE CANCER │Notă: rubricile mar- │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,4 +35,4 @@ Act id: `ordin-sanatate-2027-2007` (tags `ordin-sanatate-2027-2007/<day>`; `pyth
 - Ordin sanatate nr. 2027/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 2027/2007: Anexa nr. 2 (2 ATRIBUȚIILE ȘI RESPONSABILITĂȚILE instituțiilor, unităților sanitare și personalului implicat în activitatea de înregistrare pe baze populaționale a datelor bolnavilor de cancer A. Atribuții și resp) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 87459 of the official web service.
 - Ordin sanatate nr. 2027/2007: Anexa nr. 3 (3 INDICATORI DE CALITATE ai activității de înregistrare pe baze populaționale a datelor bolnavilor de cancer 1. Procentul de DCD (doar certificat de deces) reprezintă procentul de cazuri noi de cancer) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 87459 of the official web service.
-- Ordin sanatate nr. 2027/2007: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────┬─────────────────────┐ │ONC - FORMULAR DE RAPORTARE A UNUI CAZ DE CANCER │Notă: rubricile mar- │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 2027/2007: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

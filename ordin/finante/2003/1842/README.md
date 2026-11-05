@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1842/2003 · 1 versions, from 2004-01-09 (latest in force: 2004-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/48980>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2004, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ DECLARATIE │ ┌───┐ │ privind contribuțiile sociale │ │MFP│ │ │ └───┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2004, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-finante-1842-2003` (tags `ordin-finante-1842-2003/<day>`; `python
 - Ordin finante nr. 1842/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1842/2003: Anexa nr. 2 (3 NOMENCLATORUL OBLIGAȚIILOR BUGETARE Nr. crt. Denumire obligație bugetară Temei legal 1. Contribuția individuală de asigurări sociale reținută de la asigurați Legea nr. 19/2000 privind sistemul publi) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 48980 of the official web service.
 - Ordin finante nr. 1842/2003: Anexa nr. 3 (4 CARACTERISTICI de tipărire, modul de difuzare, utilizare și păstrare a formularului Denumire: Declarație privind contribuțiile sociale Cod: 14.13.01.01/c Format: A4/t1 U/M: seturi Caracteristici de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 48980 of the official web service.
-- Ordin finante nr. 1842/2003: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ DECLARATIE │ ┌───┐ │ privind contribuțiile sociale │ │MFP│ │ │ └───┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1842/2003: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

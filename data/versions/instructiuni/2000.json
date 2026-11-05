@@ -61,6 +61,36 @@
      "sha256": "b1e332f36022fdbf2810beccba218704851a5d629ad5246bfbd5a1730552525e"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-interne-1120-2000",
+   "path": "instructiuni/interne/2000/1120",
+   "short": "Instrucțiuni interne nr. 1120/2000",
+   "title": "Instrucțiunile nr. 1.120/2000 privind preschimbarea permiselor de conducere străine cu documente similare românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22913",
+   "versions": [
+    {
+     "from": "2000-06-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22913",
+     "sha256": "5ea9b21cca1fe4c0495585279b93801b33d94f5244aba0318445f34346cd8afc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-1224-2000",
+   "path": "instructiuni/interne/2000/1224",
+   "short": "Instrucțiuni interne nr. 1224/2000",
+   "title": "Instrucțiunile nr. 1.224/2000 privind autorizarea profesorilor de legislație rutieră și a instructorilor de conducere auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26475",
+   "versions": [
+    {
+     "from": "2001-03-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26475",
+     "sha256": "cf4b97b00cef17c9f1f8b8575f4cb4a3d5733b4a527408d988128d2e3f99cb91"
+    }
+   ]
   }
  ]
 }

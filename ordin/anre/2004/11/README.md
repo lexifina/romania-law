@@ -2,7 +2,7 @@
 
 Ordin anre nr. 11/2004 · 1 versions, from 2004-07-01 (latest in force: 2004-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/53079>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE MEDII PENTRU ACTIVITĂȚILE DE TRANSPORT, SERVICII DE SISTEM, ADMINISTRARE PIATA ANGRO ȘI DISTRIBUTIE A ENERGIEI ELECTRICE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE MEDII PENTRU ACTIVITĂȚILE DE TRANSPORT, SERVICII DE SISTEM, ADMINISTRARE PIATA ANGRO ȘI DISTRIBUTIE A ENERGIEI ELECTRICE): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,5 +23,5 @@ Act id: `ordin-anre-11-2004` (tags `ordin-anre-11-2004/<day>`; `python tools/on.
 - Ordin anre nr. 11/2004: the first version is the order as published in Monitorul Oficial nr. 573 of 29 June 2004 (document 53079 of the official web service), in force on 1 July 2004, the day it states for itself.
 - Ordin anre nr. 11/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 11/2004: Anexa nr. 2 (2 TARIFE ZONALE PENTRU TRANSPORTUL ENERGIEI ELECTRICE Componentele tarifului de transport Nr. z o n e i Noduri principale ale retelei de transport aparținând zonei C1 - pentru introducerea de energie) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 53079 of the official web service.
-- Ordin anre nr. 11/2004: Anexa nr. 1 (1 TARIFE MEDII PENTRU ACTIVITĂȚILE DE TRANSPORT, SERVICII DE SISTEM, ADMINISTRARE PIATA ANGRO ȘI DISTRIBUTIE A ENERGIEI ELECTRICE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 11/2004: Anexa nr. 1 (1 TARIFE MEDII PENTRU ACTIVITĂȚILE DE TRANSPORT, SERVICII DE SISTEM, ADMINISTRARE PIATA ANGRO ȘI DISTRIBUTIE A ENERGIEI ELECTRICE) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 11/2004: the publisher's notes run into its text (*) Tariful pentru transportul energiei electrice între doua zone este suma dintre componentele C1 a zonei în care se int) are not text.

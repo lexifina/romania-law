@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 632/2015 · 1 versions, from 2015-03-16 (latest in force: 2015-03-16) · <https://legislatie.just.ro/Public/DetaliiDocument/166393>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 311 │ │ SIGLA │ privind taxa pe valoarea adăugată ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-anaf-632-2015` (tags `ordin-anaf-632-2015/<day>`; `python tools/o
 - Ordin anaf nr. 632/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 632/2015: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (311) "Declarație privind taxa pe valoarea adăugată colectată, datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe va) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 166393 of the official web service.
 - Ordin anaf nr. 632/2015: Anexa nr. 3 (3 CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și de arhivare ale formularului (311) "Declarație privind taxa pe valoarea adăugată colectată, datorată de către persoanele impozabile a) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 166393 of the official web service.
-- Ordin anaf nr. 632/2015: Anexa nr. 1 (1 ┌──────────┬────────────────────────────────────────────────────┬──────────────┐ │ │ Declarație │ 311 │ │ SIGLA │ privind taxa pe valoarea adăugată ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 632/2015: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

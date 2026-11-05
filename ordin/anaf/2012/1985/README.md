@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1985/2012 · 1 versions, from 2013-01-09 (latest in force: 2013-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/144471>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ┌───────────────────────┬────────────────────────────────┬─────────────────────┐ │ Agenția Națională de │ DECLARAȚIE │ Număr de operator │ │ Administrare ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 ┌───────────────────────┬────────────────────────────────┬─────────────────────┐ │ Agenția Națională de │ DECLARAȚIE │ Număr de operator │ │ Administrare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3): it is a table that the official text holds only flattened; Anexa nr. 4 (4): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,5 +27,5 @@ Act id: `ordin-anaf-1985-2012` (tags `ordin-anaf-1985-2012/<day>`; `python tools
 - Ordin anaf nr. 1985/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1985/2012: Anexa nr. 1 (1 PROCEDURA 21/12/2012) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 144471 of the official web service.
 - Ordin anaf nr. 1985/2012: Anexa nr. 2 (2 PROCEDURA 21/12/2012) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 144471 of the official web service.
-- Ordin anaf nr. 1985/2012: Anexa nr. 3 (3 ┌───────────────────────┬────────────────────────────────┬─────────────────────┐ │ Agenția Națională de │ DECLARAȚIE │ Număr de operator │ │ Administrare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 1985/2012: Anexa nr. 4 (4 ┌───────────────────────┬────────────────────────────────┬─────────────────────┐ │ Agenția Națională de │ DECLARAȚIE │ Număr de operator │ │ Administrare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1985/2012: Anexa nr. 3 (3) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1985/2012: Anexa nr. 4 (4) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

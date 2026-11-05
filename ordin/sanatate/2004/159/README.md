@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 159/2004 · 1 versions, from 2004-02-20 (latest in force: 2004-02-20) · <https://legislatie.just.ro/Public/DetaliiDocument/49901>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (730 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,3 +27,4 @@ Act id: `ordin-sanatate-159-2004` (tags `ordin-sanatate-159-2004/<day>`; `python
 - Ordin sanatate nr. 159/2004: the first version is the order as published in Monitorul Oficial nr. 150 of 20 February 2004 (document 49901 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 159/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 159/2004: Anexa nr. 1 (2 MACHETA II MONITORIZAREA TRIMESTRIALĂ A CHELTUIELILOR EFECTUATE LA NIVELUL UNITĂȚILOR SANITARE CU PATURI -mii lei- Nr. crt. Denumirea indicatorilor Prevederi anuale Prevederi trim. Plăți trim. 1 2 3) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 49901 of the official web service.
+- Ordin sanatate nr. 159/2004: the official text prints 730 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

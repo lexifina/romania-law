@@ -2,7 +2,7 @@
 
 Ordin finante nr. 914/2003 · 1 versions, from 2003-07-31 (latest in force: 2003-07-31) · <https://legislatie.just.ro/Public/DetaliiDocument/45365>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 700 Modelul și conținutul formularului "Declarație rectificativa", cod 14.13.01.00/R ┌──────────┐ │ROMÂNIA │ DECLARAȚIE RECTIFICATA │ ┌───┐ │ │ │MFP│ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 700 Modelul și conținutul formularului "Declarație rectificativa", cod 14.13.01.00/R): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,4 @@ Act id: `ordin-finante-914-2003` (tags `ordin-finante-914-2003/<day>`; `python t
 - Ordin finante nr. 914/2003: Anexa nr. 1 (1 B. Procedura întocmirii și depunerii declarației rectificative 1. Declarațiile de impozite și taxe pot fi corectate de către plătitori, din proprie inițiativă, prin depunerea unei declarații rectifi) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 45365 of the official web service.
 - Ordin finante nr. 914/2003: Anexa nr. 3 (3 Instrucțiuni de completare a formularului "Declarație rectificativa", cod 14.13.01.00/R 1. Declarația rectificativa se utilizează pentru rectificarea impozitelor/taxelor/contribuțiilor stabilite de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 45365 of the official web service.
 - Ordin finante nr. 914/2003: Anexa nr. 4 (4 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare a formularului "Declarație rectificativa", cod 14.13.01.00/R Denumire: Declarație rectificativa 1. Cod: 14.13.01.00/R 2. Format) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 45365 of the official web service.
-- Ordin finante nr. 914/2003: Anexa nr. 2 (2 700 Modelul și conținutul formularului "Declarație rectificativa", cod 14.13.01.00/R ┌──────────┐ │ROMÂNIA │ DECLARAȚIE RECTIFICATA │ ┌───┐ │ │ │MFP│ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 914/2003: Anexa nr. 2 (2 700 Modelul și conținutul formularului "Declarație rectificativa", cod 14.13.01.00/R) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

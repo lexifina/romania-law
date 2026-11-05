@@ -3,6 +3,51 @@
  "shard": "instructiuni/2002",
  "acts": [
   {
+   "slug": "instructiuni-dezvoltare-1872-2002",
+   "path": "instructiuni/dezvoltare/2002/1872",
+   "short": "Instrucțiuni dezvoltare nr. 1872/2002",
+   "title": "Instrucțiunile nr. 1.872/2002 privind acordarea bonurilor valorice reprezentând contravaloarea cotei unice, necesare achiziționării carburanților auto utilizați în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36046",
+   "versions": [
+    {
+     "from": "2002-05-17",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36046",
+     "sha256": "a2416c0ed2286d50b8c33576d913d154915f6dfa73f3d77c60607c1d6800e658"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-dezvoltare-904-2002",
+   "path": "instructiuni/dezvoltare/2002/904",
+   "short": "Instrucțiuni dezvoltare nr. 904/2002",
+   "title": "Instrucțiunile nr. 904/2002 pentru decontarea cartelelor magnetice de călătorie gratuita cu metroul, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37713",
+   "versions": [
+    {
+     "from": "2002-07-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37713",
+     "sha256": "18cf77cf14080f2aaa7c73081037c22e8bcace3659509bc045883025ecbbf56b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-dezvoltare-905-2002",
+   "path": "instructiuni/dezvoltare/2002/905",
+   "short": "Instrucțiuni dezvoltare nr. 905/2002",
+   "title": "Instrucțiunile nr. 905/2002 privind decontarea cartelelor magnetice de călătorie gratuita cu metroul, emise în baza prevederilor Legii nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37714",
+   "versions": [
+    {
+     "from": "2002-07-30",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37714",
+     "sha256": "620fb281a2c967fe85a1a7b236d306d3849042e2b1830128b21d38d9d20d5716"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-finante-20239-2002",
    "path": "instructiuni/finante/2002/20239",
    "short": "Instrucțiuni finante nr. 20239/2002",
@@ -29,6 +74,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37715",
      "sha256": "c7d9160591b995edb738102c5cf40072574bd9d0bd85f8b36ac1e80a2d24034e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-63722-2002",
+   "path": "instructiuni/interne/2002/63722",
+   "short": "Instrucțiuni interne nr. 63722/2002",
+   "title": "Instrucțiunile nr. 63.722/2002 privind acordarea vizelor de intrare în România de către Poliția de Frontiera în situații de excepție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38021",
+   "versions": [
+    {
+     "from": "2002-08-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38021",
+     "sha256": "fde09eb8b0c47bb7309d5ab624c68cd27ce5384b4d6ca5d087298c06e8d6cd8b"
     }
    ]
   }

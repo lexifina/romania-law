@@ -2,7 +2,7 @@
 
 Regulament asf nr. 1/2019 · 1 versions, from 2019-02-12 (latest in force: 2019-02-12) · <https://legislatie.just.ro/Public/DetaliiDocument/210909>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1279 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -65,3 +65,4 @@ Act id: `regulament-asf-1-2019` (tags `regulament-asf-1-2019/<day>`; `python too
 - Regulament asf nr. 1/2019: Anexa nr. 2 (LISTA abilităților/aptitudinilor pentru evaluarea adecvării competențelor membrilor structurii de conducere Fără ca enumerarea să fie exhaustivă, următoarele abilități/aptitudini sunt luate în conside) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 210909 of the official web service.
 - Regulament asf nr. 1/2019: Anexa nr. 3 (Matricea privind evaluarea adecvării în mod colectiv a membrilor structurii de conducere Introducere și instrucțiuni Responsabilitatea structurii de conducere este colectivă. Structura de conducere îș) is part of the regulation and is published in its folder, anexa-3/ (paragraphs), from document 210909 of the official web service.
 - Regulament asf nr. 1/2019: Anexa nr. 4 (Fișa de evaluare a persoanei intervievate Numele și prenumele persoanei evaluate Denumirea entității reglementate Poziția/Funcția vizată Nr. crt. Criterii evaluate Punctajul acordat^1) (1-5) Calificat) is part of the regulation and is published in its folder, anexa-4/ (paragraphs), from document 210909 of the official web service.
+- Regulament asf nr. 1/2019: the official text prints 1279 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

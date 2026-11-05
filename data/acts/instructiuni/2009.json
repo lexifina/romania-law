@@ -20,6 +20,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106815",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-167-2009",
+"path": "instructiuni/interne/2009/167",
+"kind": "instructiuni",
+"year": "2009",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 167/2009 privind scoaterea din funcțiune, valorificarea și casarea bunurilor în unitățile Ministerului Administrației și Internelor",
+"short": "Instrucțiuni interne nr. 167/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-08-31",
+"latest": "2009-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/110937",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

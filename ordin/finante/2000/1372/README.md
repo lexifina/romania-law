@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1372/2000 · 1 versions, from 2001-01-01 (latest in force: 2001-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/24924>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (3750 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,3 +32,4 @@ Act id: `ordin-finante-1372-2000` (tags `ordin-finante-1372-2000/<day>`; `python
 - Ordin finante nr. 1372/2000: Anexa nr. 1 (II INSTRUCȚIUNI DE COMPLETARE A FORMULARELOR) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 24924 of the official web service.
 - Ordin finante nr. 1372/2000: Anexa nr. 2 (III CARACTERISTICI DE TIPĂRIRE, MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE A FORMULARELOR 1. Denumire: Declarație de venit global 1.1. Cod: 14.13.01.13 1.2. Format: A4/t2 1.3. Caracteristici de tipărire) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 24924 of the official web service.
 - Ordin finante nr. 1372/2000: Anexa nr. 3 (IV INSTRUCȚIUNI pentru transmitere pe cale electronică Transmiterea pe cale electronică a declarațiilor plătitorilor de venit privitoare la beneficiarii de venit, cod 208, 209, 210, 211, 212 și 213 1.) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 24924 of the official web service.
+- Ordin finante nr. 1372/2000: the official text prints 3750 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

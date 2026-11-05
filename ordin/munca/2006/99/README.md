@@ -2,7 +2,7 @@
 
 Ordin munca nr. 99/2006 · 1 versions, from 2006-03-30 (latest in force: 2006-03-30) · <https://legislatie.just.ro/Public/DetaliiDocument/69382>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────────────────────┐ ┌─────────────────────────────────┐ │.................... │ │Inspectoratul Teritorial de Munca│ │(denumire angajator) │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-munca-99-2006` (tags `ordin-munca-99-2006/<day>`; `python tools/o
 - Ordin munca nr. 99/2006: the first version is the order as published in Monitorul Oficial nr. 190 of 28 February 2006 (document 69382 of the official web service), in force on 30 March 2006, the day it states for itself.
 - Ordin munca nr. 99/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 99/2006: Anexa nr. 2 (2 INSTRUCȚIUNI de completare și depunere a Declarației-inventar privind comisionul datorat A. Mențiuni cu privire la obligația de depunere a Declarației-inventar privind comisionul datorat 1. Au oblig) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 69382 of the official web service.
-- Ordin munca nr. 99/2006: Anexa nr. 1 (1 ┌─────────────────────┐ ┌─────────────────────────────────┐ │.................... │ │Inspectoratul Teritorial de Munca│ │(denumire angajator) │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 99/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

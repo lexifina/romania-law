@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 1332/2018 · 1 versions, from 2018-10-01 (latest in force: 2018-10-01) · <https://legislatie.just.ro/Public/DetaliiDocument/205410>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1852 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,3 +28,4 @@ Act id: `ordin-cnas-1332-2018` (tags `ordin-cnas-1332-2018/<day>`; `python tools
 - Ordin cnas nr. 1332/2018: Anexa nr. 1 ((Anexa 1.20 la Ordinul nr. 299/2017) UNITATEA SANITARĂ............................... PROGRAMUL NAȚIONAL DE DIAGNOSTIC ȘI TRATAMENT CU AJUTORUL APARATURII DE ÎNALTĂ PERFORMANȚĂ - SUBPROGRAMUL DE DIAGN) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 205410 of the official web service.
 - Ordin cnas nr. 1332/2018: Anexa nr. 2 (Nr. 5 (Anexa 2.9.1 la Ordinul nr. 299/2017) CASA DE ASIGURĂRI DE SĂNĂTATE............................... PROGRAMUL NAȚIONAL DE DIABET ZAHARAT - medicamente, pompe de insulină, materiale consumabile pe) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 205410 of the official web service.
 - Ordin cnas nr. 1332/2018: Anexa nr. 3 ((Anexa 2.21 la Ordinul nr. 299/2017) CASA DE ASIGURĂRI DE SĂNĂTATE............................... PROGRAMUL NAȚIONAL DE DIAGNOSTIC ȘI TRATAMENT CU AJUTORUL APARATURII DE ÎNALTĂ PERFORMANȚĂ - SUBPROGRA) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 205410 of the official web service.
+- Ordin cnas nr. 1332/2018: the official text prints 1852 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

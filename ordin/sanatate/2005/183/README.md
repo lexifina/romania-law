@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 183/2005 · 1 versions, from 2005-03-18 (latest in force: 2005-03-18) · <https://legislatie.just.ro/Public/DetaliiDocument/60093>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 9* ORGANIGRAMA AGENTIEI NAȚIONALE DE TRANSPLANT ┌─────────────────────┐ │ Agentia Naționala │ │ de transplant │ └──────────┬──────────┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 9* ORGANIGRAMA AGENTIEI NAȚIONALE DE TRANSPLANT): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,4 +57,4 @@ Act id: `ordin-sanatate-183-2005` (tags `ordin-sanatate-183-2005/<day>`; `python
 - Ordin sanatate nr. 183/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 183/2005: Anexa nr. 1 (1 REGULAMENT de organizare și functionare a Agentiei Naționale de Transplant) is part of the order and is published in its folder, anexa-1/ (34 articles), from document 60093 of the official web service; the service's copy of it as a document of its own (60094) reads the same words.
 - Ordin sanatate nr. 183/2005: Anexa nr. 3 (3 COMPONENTA Consiliului științific al Agentiei Naționale de Transplant 1. Conf. dr. Istvan Benedek - Spitalul Clinic Judetean Targu Mures - Hematologie 2. Dr. Serban Bradisteanu - Spitalul Clinic de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 60093 of the official web service.
-- Ordin sanatate nr. 183/2005: Anexa nr. 2 (2 *Font 9* ORGANIGRAMA AGENTIEI NAȚIONALE DE TRANSPLANT ┌─────────────────────┐ │ Agentia Naționala │ │ de transplant │ └──────────┬──────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 183/2005: Anexa nr. 2 (2 *Font 9* ORGANIGRAMA AGENTIEI NAȚIONALE DE TRANSPLANT) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin anre nr. 129/2021 · 1 versions, from 2021-12-28 (latest in force: 2021-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/249951>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (339 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,3 +18,4 @@ Act id: `ordin-anre-129-2021` (tags `ordin-anre-129-2021/<day>`; `python tools/o
 - Ordin anre nr. 129/2021: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 129/2021: the first version is the order as published in Monitorul Oficial nr. 1233 of 28 December 2021 (document 249951 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 129/2021: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 129/2021: the official text prints 339 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

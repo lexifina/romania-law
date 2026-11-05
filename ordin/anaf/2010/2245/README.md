@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2245/2010 · 1 versions, from 2010-08-03 (latest in force: 2010-08-03) · <https://legislatie.just.ro/Public/DetaliiDocument/121148>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 7* ┌──────────────┬────────────────────────────────────────────────────────────────────────────────────┬──────────────────┐ │ │ │ │ │ 300 │ DECONT DE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,5 +27,5 @@ Act id: `ordin-anaf-2245-2010` (tags `ordin-anaf-2245-2010/<day>`; `python tools
 - Ordin anaf nr. 2245/2010: the first version is the order as published in Monitorul Oficial nr. 539 of 3 August 2010 (document 121148 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2245/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2245/2010: Anexa nr. 2 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare ale formularului (300) "Decont de taxă pe valoarea adăugată" Denumirea formularului: Decont de taxă pe valoarea adăugată) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 121148 of the official web service.
-- Ordin anaf nr. 2245/2010: Anexa nr. 1 (1 *Font 7* ┌──────────────┬────────────────────────────────────────────────────────────────────────────────────┬──────────────────┐ │ │ │ │ │ 300 │ DECONT DE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2245/2010: Anexa nr. 1 (1 *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 2245/2010: the publisher's notes run into its text (*) Prin jurnale de vânzări şi jurnale de cumpărări se înţelege orice jurnale, registre, evidenţe sau alte documente simi; **) Pentru a evita orice neconcordanţă între livrările intracomunitare de bunuri, scutite de TVA, care se includ în deco) are not text.

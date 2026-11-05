@@ -2,7 +2,7 @@
 
 Norma finante nr. 48211/1994 · 1 versions, from 1994-10-17 (latest in force: 1994-10-17) · <https://legislatie.just.ro/Public/DetaliiDocument/5595>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: text printed after its signature (93 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,3 +43,4 @@ Act id: `norma-finante-48211-1994` (tags `norma-finante-48211-1994/<day>`; `pyth
 - Norma finante nr. 48211/1994: Anexa nr. 7 (7 INSTRUCȚIUNI privind conținutul și funcționarea conturilor nou-introduse Contul 119 "Disponibil din fonduri cu destinație specială" Cu ajutorul acestui cont organizațiile obștești țin evidenta mijlo) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 5595 of the official web service.
 - Norma finante nr. 48211/1994: Anexa nr. 8 (8 MONOGRAFIE privind înregistrarea în contabilitate a principalelor operațiuni economico-financiare Nr. crt. Explicarea operațiunii Contul debitor Contul creditor 0 1 2 3 1. Sume încasate în numerar p) is part of the norm and is published in its folder, anexa-8/ (paragraphs), from document 5595 of the official web service.
 - Norma finante nr. 48211/1994: Anexa nr. 9 (9 LISTA organizațiilor de creatori care, până la data elaborării prezentelor norme metodologice, au făcut dovada infiintarii, organizării și funcționarii conform prevederilor legale în vigoare 1. Uniu) is part of the norm and is published in its folder, anexa-9/ (paragraphs), from document 5595 of the official web service.
+- Norma finante nr. 48211/1994: the official text prints 93 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

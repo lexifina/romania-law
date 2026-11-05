@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1094/2008 · 1 versions, from 2008-06-12 (latest in force: 2008-06-12) · <https://legislatie.just.ro/Public/DetaliiDocument/93970>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a Centrului Național de Sănătate Mintală ┌──────────┐ │ Director │ └────┬─────┘ │ │ │ ┌──────────────┐ ├────────────┤ Contabil-șef │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a Centrului Național de Sănătate Mintală): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -41,4 +41,4 @@ Act id: `ordin-sanatate-1094-2008` (tags `ordin-sanatate-1094-2008/<day>`; `pyth
 - Ordin sanatate nr. 1094/2008: the first version is the order as published in Monitorul Oficial nr. 443 of 12 June 2008 (document 93970 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1094/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1094/2008: Anexa nr. 1 (1 REGULAMENT de organizare și funcționare al Centrului Național de Sănătate Mintală) is part of the order and is published in its folder, anexa-1/ (16 articles), from document 93970 of the official web service; the service's copy of it as a document of its own (93973) reads the same words.
-- Ordin sanatate nr. 1094/2008: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a Centrului Național de Sănătate Mintală ┌──────────┐ │ Director │ └────┬─────┘ │ │ │ ┌──────────────┐ ├────────────┤ Contabil-șef │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1094/2008: Anexa nr. 2 (2 STRUCTURA ORGANIZATORICĂ a Centrului Național de Sănătate Mintală) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin munca nr. 143/2010 · 1 versions, from 2010-03-17 (latest in force: 2010-03-17) · <https://legislatie.just.ro/Public/DetaliiDocument/117125>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (175 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,5 @@ Act id: `ordin-munca-143-2010` (tags `ordin-munca-143-2010/<day>`; `python tools
 - Ordin munca nr. 143/2010: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin munca nr. 143/2010: the first version is the order as published in Monitorul Oficial nr. 173 of 17 March 2010 (document 117125 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 143/2010: the signatures and the place and date line after its last article are not article text.
+- Ordin munca nr. 143/2010: the official text prints 175 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin munca nr. 143/2010: a joint order of Ministerul Muncii, Familiei și Protecției Sociale nr. 143 din 17 February 2010; Ministerul Educației, Cercetării, Tineretului și Sportului nr. 3.381 din 5 March 2010. It is published once, here, under the issuer its EMITENT block lists first; `ordin-educatie-3381-2010` name it too (data/paths.json aliases).

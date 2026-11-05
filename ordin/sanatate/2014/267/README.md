@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 267/2014 · 1 versions, from 2014-03-11 (latest in force: 2014-03-11) · <https://legislatie.just.ro/Public/DetaliiDocument/156283>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (5918 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,5 @@ Act id: `ordin-sanatate-267-2014` (tags `ordin-sanatate-267-2014/<day>`; `python
 - Ordin sanatate nr. 267/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 267/2014: the first version is the order as published in Monitorul Oficial nr. 175 of 11 March 2014 (document 156283 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 267/2014: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 267/2014: the official text prints 5918 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin sanatate nr. 267/2014: the publisher's notes run into its text (*) se includ şi actele adiţionale la contractele încheiate cu casele de asigurări de sănătate.; **) se cuprind sumele alocate de MS de la bugetul de stat, pe destinaţii, pentru unităţile sanitare care sunt în reţeaua; ***) se cuprind sumele alocate de MS din venituri proprii (accize), pe destinaţii, pentru unităţile sanitare care sunt î; ****) se introduce soldul înregistrat la finele anului precedent şi care se află sub formă de disponibilităţi la Trezore) are not text.

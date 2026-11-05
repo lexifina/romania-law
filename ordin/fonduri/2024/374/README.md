@@ -2,7 +2,7 @@
 
 Ordin fonduri nr. 374/2024 · 1 versions, from 2024-02-14 (latest in force: 2024-02-14) · <https://legislatie.just.ro/Public/DetaliiDocument/279022>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (172 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,5 +22,6 @@ Act id: `ordin-fonduri-374-2024` (tags `ordin-fonduri-374-2024/<day>`; `python t
 - Ordin fonduri nr. 374/2024: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin fonduri nr. 374/2024: the first version is the order as published in Monitorul Oficial nr. 127 of 14 February 2024 (document 279022 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin fonduri nr. 374/2024: the signatures and the place and date line after its last article are not article text.
-- Ordin fonduri nr. 374/2024: a joint order of Ministerul Investițiilor și Proiectelor Europene nr. 374 din 9 February 2024; Ministerul Finanțelor nr. 332 din 14 February 2024; Ministerul Muncii și Solidarității Sociale nr. 617 din 12 February 2024; Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 788 din 8 February 2024. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-332-2024`, `ordin-munca-617-2024`, `ordin-dezvoltare-788-2024` name it too (data/paths.json aliases).
 - Ordin fonduri nr. 374/2024: Anexa nr. 1 (- Format - SITUAȚIE CENTRALIZATOARE cu beneficiarii^1 sprijinului material sub formă de tichet social pe suport electronic pentru produse alimentare și mese calde, actualizată cu evidențierea separată) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 279022 of the official web service.
+- Ordin fonduri nr. 374/2024: the official text prints 172 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
+- Ordin fonduri nr. 374/2024: a joint order of Ministerul Investițiilor și Proiectelor Europene nr. 374 din 9 February 2024; Ministerul Finanțelor nr. 332 din 14 February 2024; Ministerul Muncii și Solidarității Sociale nr. 617 din 12 February 2024; Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 788 din 8 February 2024. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-332-2024`, `ordin-munca-617-2024`, `ordin-dezvoltare-788-2024` name it too (data/paths.json aliases).

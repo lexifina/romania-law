@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-226-2003",
+   "path": "ordin/agricultura/2003/226",
+   "short": "Ordin agricultura nr. 226/2003",
+   "title": "Ordinul nr. 226/2003 pentru aprobarea Strategiei privind organizarea activității de îmbunătățire și exploatare a pajiștilor la nivel național, pe termen mediu și lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44444",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44444",
+     "sha256": "2a642eb5db6fc194cdd1b1676d96d8032793d4519ecb6f05c142507254c023e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-229-2003",
+   "path": "ordin/agricultura/2003/229",
+   "short": "Ordin agricultura nr. 229/2003",
+   "title": "Ordinul nr. 229/2003 privind aprobarea Normelor și procedurilor pentru punerea la dispoziție, de către Regia Naționala a Pădurilor, a masei lemnoase pe picior ce se aloca Agenției Naționale pentru Locuințe în scopul construirii de locuințe pentru ținerii proveniți din instituții de ocrotire socială și care au împlinit vârsta de 18 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43610",
+   "versions": [
+    {
+     "from": "2003-05-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43610",
+     "sha256": "3c7be0c712ecdb5fceedad8ec457ad4c406849bb0df7c8cb3609f1f8ad5012f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-232-2003",
    "path": "ordin/agricultura/2003/232",
    "short": "Ordin agricultura nr. 232/2003",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-470-2003",
+   "path": "ordin/agricultura/2003/470",
+   "short": "Ordin agricultura nr. 470/2003",
+   "title": "Ordinul nr. 470/2003 pentru aprobarea Metodologiei de realizare și de întreținere a cadastrului viticol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46493",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46493",
+     "sha256": "55d7f9321fff2b326172124beb2a2153fa9cd543acdadbccf20926e1407ea514"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-474-2003",
    "path": "ordin/agricultura/2003/474",
    "short": "Ordin agricultura nr. 474/2003",
@@ -179,6 +224,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45636",
      "sha256": "f2e15597fe3e29d5835482248d009e78d91d9284fa4f6f27101da20823530f75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-499-2003",
+   "path": "ordin/agricultura/2003/499",
+   "short": "Ordin agricultura nr. 499/2003",
+   "title": "Ordinul nr. 499/2003 pentru aprobarea Normelor metodologice privind constituirea și utilizarea Fondului de ameliorare a fondului funciar cu destinație silvică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46104",
+   "versions": [
+    {
+     "from": "2003-09-05",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46104",
+     "sha256": "60284998379e02ff2e8c339facc2f6053742f69ae730c8b3588703d06581be4a"
     }
    ]
   },
@@ -288,6 +348,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-620-2003",
+   "path": "ordin/agricultura/2003/620",
+   "short": "Ordin agricultura nr. 620/2003",
+   "title": "Ordinul nr. 620/2003 privind aprobarea modelului Registrului exploatațiilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47521",
+   "versions": [
+    {
+     "from": "2003-12-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47521",
+     "sha256": "831bdfd6b7307d075c4b36e528de854bc3c37025b791913a0e363d60fda0c749"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-64-2003",
+   "path": "ordin/agricultura/2003/64",
+   "short": "Ordin agricultura nr. 64/2003",
+   "title": "Ordinul nr. 64/2003 pentru aprobarea modelului Registrului plantațiilor viticole și implementarea acestuia în teritoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42168",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42168",
+     "sha256": "b5045df8bd4571564a9d7bdabe8b41f9e9cfb9f363e0e391f56640cf7b37e105"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-679-2003",
    "path": "ordin/agricultura/2003/679",
    "short": "Ordin agricultura nr. 679/2003",
@@ -314,6 +404,36 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46975",
      "sha256": "7f9fef00635944aab6fdd16f469eab473bb6d9837bfb2d71cab0737ecac455d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-712-2003",
+   "path": "ordin/agricultura/2003/712",
+   "short": "Ordin agricultura nr. 712/2003",
+   "title": "Ordinul nr. 712/2003 pentru aprobarea Ghidului privind elaborarea propunerilor de programe de reducere progresivă a emisiilor anuale de dioxid de sulf, oxizi de azot și pulberi provenite din instalații mari de ardere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49811",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49811",
+     "sha256": "a07caa4db2f66a35c1443304e2f60eb9e91415f8873118790a6fa6524ad287fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-861-2003",
+   "path": "ordin/agricultura/2003/861",
+   "short": "Ordin agricultura nr. 861/2003",
+   "title": "Ordinul nr. 861/2003 pentru aprobarea Normelor tehnice privind organizarea și funcționarea stațiunilor și punctelor comunale de montă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49408",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49408",
+     "sha256": "3cf0b2ed54536515813c088fca30f8fa3ad7b407c3b7fe3e7f0433060dba1623"
     }
    ]
   },
@@ -1323,6 +1443,501 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-101-2003",
+   "path": "ordin/dezvoltare/2003/101",
+   "short": "Ordin dezvoltare nr. 101/2003",
+   "title": "Ordinul nr. 101/2003 privind aprobarea Procedurilor de implementare, monitorizare și evaluare a subprogramului \"Dezvoltarea orașelor prin stimularea activităților întreprinderilor mici și mijlocii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44106",
+   "versions": [
+    {
+     "from": "2003-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44106",
+     "sha256": "a00eb09f4afd9fe445c201f100a7ed2d876772b5887c7818dd194fd1146e1dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-102-2003",
+   "path": "ordin/dezvoltare/2003/102",
+   "short": "Ordin dezvoltare nr. 102/2003",
+   "title": "Ordinul nr. 102/2003 pentru aprobarea prelungirii până la data de 10 decembrie 2003 a perioadei de derulare a proiectelor finanțate din bugetele programelor de dezvoltare, prevăzută în anexa la Ordinul ministrului dezvoltării și prognozei nr. 292/2001 pentru aprobarea Procedurilor privind implementarea, monitorizarea și evaluarea unor programe de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43322",
+   "versions": [
+    {
+     "from": "2003-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43322",
+     "sha256": "3da611ca8c51b85ffecdb9647ab596c2e28f95ba0b45c8613c6b8cf8686a8169"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-104-2003",
+   "path": "ordin/dezvoltare/2003/104",
+   "short": "Ordin dezvoltare nr. 104/2003",
+   "title": "Ordinul nr. 104/2003 privind aprobarea Procedurii de implementare a subprogramului \"Structura parteneriatului între consiliile județene în vederea implementării proiectelor pentru dezvoltare regională\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43391",
+   "versions": [
+    {
+     "from": "2003-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43391",
+     "sha256": "dba91dff94d7ed5716748ca7f48c4db5c657ce1c11881f47c0a96c012421b330"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-147-2003",
+   "path": "ordin/dezvoltare/2003/147",
+   "short": "Ordin dezvoltare nr. 147/2003",
+   "title": "Ordinul nr. 147/2003 pentru aprobarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul de activitate al Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42660",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42660",
+     "sha256": "7b761ef1e185590a0908665e1f7aec3232a9cf927e2e1bd28ee1fe09eb150814"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-166-2003",
+   "path": "ordin/dezvoltare/2003/166",
+   "short": "Ordin dezvoltare nr. 166/2003",
+   "title": "Ordinul nr. 166/2003 pentru aprobarea Ghidului de interpretare a cerințelor esențiale ale construcției, în vederea stabilirii adecvării la o utilizare prevăzută a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42019",
+   "versions": [
+    {
+     "from": "2005-02-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42019",
+     "sha256": "f4a7776a5ae953905c995b20d82cd8b8077f613d1af415f09799fd76cb9f51ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-167-2003",
+   "path": "ordin/dezvoltare/2003/167",
+   "short": "Ordin dezvoltare nr. 167/2003",
+   "title": "Ordinul nr. 167/2003 pentru aprobarea Normelor metodologice privind desemnarea și notificarea organismelor de certificare și a laboratoarelor care realizează evaluarea conformității ambarcațiunilor de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42402",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42402",
+     "sha256": "98e481c8009d95bf7e63c43f2ee4ca7dce8946257c40fd5d62c7c266260b9e9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-169-2003",
+   "path": "ordin/dezvoltare/2003/169",
+   "short": "Ordin dezvoltare nr. 169/2003",
+   "title": "Ordinul nr. 169/2003 pentru aprobarea: Sistemului privind certificarea conformității navelor care arborează pavilionul român cu regulile și reglementările tehnice aplicabile; Criteriilor minime pe care trebuie să le îndeplinească o societate de clasificare în vederea delegării de către Ministerul Lucrărilor Publice, Transporturilor și Locuinței a competentelor privind emiterea certificatelor statutare navelor care arborează pavilionul român; Listei societăților de clasificare care îndeplinesc criteriile minime stabilite de Uniunea Europeană și ale căror reguli de clasificare sunt recunoscute de Ministerul Lucrărilor Publice, Transporturilor și Locuinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42040",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42040",
+     "sha256": "dabe0ac53e150402345b7728cc040cc098f680350fd7ff6e9d8360ef96e25671"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-17-2003",
+   "path": "ordin/dezvoltare/2003/17",
+   "short": "Ordin dezvoltare nr. 17/2003",
+   "title": "Ordinul nr. 17/2003 privind aprobarea tarifului pentru prestațiile de servicii specifice efectuate de Centrul de Perfecționare a Personalului din Navigația Fluviala Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41772",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41772",
+     "sha256": "edad7de82c7e12ac012f395092ee354afabcaba26b616245c8175a2a4c3c0170"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-197-2003",
+   "path": "ordin/dezvoltare/2003/197",
+   "short": "Ordin dezvoltare nr. 197/2003",
+   "title": "Ordinul nr. 197/2003 pentru aprobarea Normelor metodologice privind procedura și competentele de acordare a înlesnirilor la plata taxelor de timbru pentru activitatea notarială, datorate anticipat prestării serviciului taxabil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43572",
+   "versions": [
+    {
+     "from": "2003-05-08",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43572",
+     "sha256": "b5ed91182d242d448a849dd5e4cacbe6193f1234be5a6e4733ba28c48d21f3d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-205-2003",
+   "path": "ordin/dezvoltare/2003/205",
+   "short": "Ordin dezvoltare nr. 205/2003",
+   "title": "Ordinul nr. 205/2003 pentru modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului transporturilor nr. 319/1999 privind definirea și folosirea specificațiilor tehnice compatibile în vederea procurării echipamentelor și sistemelor pentru managementul traficului aerian, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41836",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41836",
+     "sha256": "26ab0a161c948080b411910ea9da25bba45b1d47b58721167564adb0587650cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-207-2003",
+   "path": "ordin/dezvoltare/2003/207",
+   "short": "Ordin dezvoltare nr. 207/2003",
+   "title": "Ordinul nr. 207/2003 pentru aprobarea formei și conținutului Documentului de conformitate, Documentului de conformitate interimar, Certificatului de management al siguranței și Certificatului de management al siguranței interimar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42039",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42039",
+     "sha256": "26fb912f275d5f2897ce5e66fd899284d9a767c7362b2e9417d8bc8bc4f004d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-211-2003",
+   "path": "ordin/dezvoltare/2003/211",
+   "short": "Ordin dezvoltare nr. 211/2003",
+   "title": "Ordinul nr. 211/2003 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43273",
+   "versions": [
+    {
+     "from": "2003-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43273",
+     "sha256": "d46cbd3d98cbb904f4a0a5da4034a9a176c76e74c940f64734734bd7e266e794"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-224-2003",
+   "path": "ordin/dezvoltare/2003/224",
+   "short": "Ordin dezvoltare nr. 224/2003",
+   "title": "Ordinul nr. 224/2003 pentru modificarea Normelor metodologice privind gestionarea Fondului de ameliorare a fondului funciar, constituit potrivit anexei nr. 1 la Legea fondului funciar nr. 18/1991, republicată, cu modificările ulterioare, aprobate prin Ordinul ministrului administrației publice și al ministrului agriculturii, alimentației și pădurilor nr. 127/202/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43836",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43836",
+     "sha256": "376ce5bb7166fb48690c7def2160d7748928dc8b37c8ee3d3e554b254e6a12ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-233-2003",
+   "path": "ordin/dezvoltare/2003/233",
+   "short": "Ordin dezvoltare nr. 233/2003",
+   "title": "Ordinul nr. 233/2003 privind măsurile ce trebuie luate pentru circulația autovehiculelor cu masa totală maxima autorizata mai mare de 3,5 tone pe drumurile publice acoperite cu zăpada, gheața sau polei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42282",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42282",
+     "sha256": "9e0a4fcc0062c3b5f6427257819dcd9def1f04d31b4f54e025e8abde1c284656"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-242-2003",
+   "path": "ordin/dezvoltare/2003/242",
+   "short": "Ordin dezvoltare nr. 242/2003",
+   "title": "Ordinul nr. 242/2003 privind modalitatea de decontare a cheltuielilor efectuate de către asistenții maternali profesioniști pentru creșterea și îngrijirea copiilor aflați în plasament sau încredințare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44143",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44143",
+     "sha256": "f5970d74c8c276723180b94fe82c3ded11cf0a72b4a315e77e0aa88451ae1585"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-252-2003",
+   "path": "ordin/dezvoltare/2003/252",
+   "short": "Ordin dezvoltare nr. 252/2003",
+   "title": "Ordinul nr. 252/2003 pentru aprobarea Normelor metodologice privind instruirea și specializarea în domeniul informaticii a funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44489",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44489",
+     "sha256": "0eb033ecbef27dc1658b311eb02aafd675ba293c3a091d4d396f3de567ee5371"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-266-2003",
+   "path": "ordin/dezvoltare/2003/266",
+   "short": "Ordin dezvoltare nr. 266/2003",
+   "title": "Ordinul nr. 266/2003 pentru aprobarea Normelor metodologice privind acordarea facilităților de transport pe calea ferată și cu metroul pentru elevii și studenții, cursuri de zi, din învățământul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42071",
+   "versions": [
+    {
+     "from": "2003-03-03",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42071",
+     "sha256": "f3b4c551454617cd703d1e190a86c8d7025c179cb0dc5ea51280735cab60b1a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-269-2003",
+   "path": "ordin/dezvoltare/2003/269",
+   "short": "Ordin dezvoltare nr. 269/2003",
+   "title": "Ordinul nr. 269/2003 privind aprobarea tarifelor pentru servicii de consultanța și pentru activitățile de pregătire și specializare profesională a personalului operatorilor furnizori/prestatori de servicii publice de gospodărie comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44706",
+   "versions": [
+    {
+     "from": "2003-06-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44706",
+     "sha256": "ae735a95c92ca156e5d18941c9f83628f6846fe699e704cb0a5fe3c38145f396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-274-2003",
+   "path": "ordin/dezvoltare/2003/274",
+   "short": "Ordin dezvoltare nr. 274/2003",
+   "title": "Ordinul nr. 274/2003 privind utilizarea echipamentelor, instalațiilor, utilajelor și mijloacelor tehnice de aerodrom și de protecția navigației aeriene, precum și a sistemelor și echipamentelor de securitate aeronautica în desfășurarea de activități aeronautice civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42696",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42696",
+     "sha256": "6b047d0d98557cc5639dff6b22ebb779cb826be24ae89c157365ec42cfecbb0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-275-2003",
+   "path": "ordin/dezvoltare/2003/275",
+   "short": "Ordin dezvoltare nr. 275/2003",
+   "title": "Ordinul nr. 275/2003 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44899",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44899",
+     "sha256": "80fc2aab5468b8884922227517299e8c5d2a045f5e1f8cfd2cf9d9a7f6f8b981"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-284-2003",
+   "path": "ordin/dezvoltare/2003/284",
+   "short": "Ordin dezvoltare nr. 284/2003",
+   "title": "Ordinul nr. 284/2003 pentru aprobarea listelor cuprinzând drumurile publice cu limitele maselor și dimensiunilor maxime admise pentru vehicule de transport marfa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42641",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42641",
+     "sha256": "7e373181de17683d1baa68c794641612f781d222b92930d9b021022f51e46ef8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-286-2003",
+   "path": "ordin/dezvoltare/2003/286",
+   "short": "Ordin dezvoltare nr. 286/2003",
+   "title": "Ordinul nr. 286/2003 privind modificarea și completarea Normelor metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.433/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42454",
+   "versions": [
+    {
+     "from": "2003-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42454",
+     "sha256": "d5f6086c300e87a1f20cf7f0588ef434307167bf105b79bdaa24fc3fd0fa6a17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-287-2003",
+   "path": "ordin/dezvoltare/2003/287",
+   "short": "Ordin dezvoltare nr. 287/2003",
+   "title": "Ordinul nr. 287/2003 privind autorizarea agenților economici care desfășoară activități de transport naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43406",
+   "versions": [
+    {
+     "from": "2003-05-24",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43406",
+     "sha256": "9b98d40ac50e3ffd22ea2a19f5b2659211c9f7ec5da4aa24637feff8022f4ea5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-288-2003",
+   "path": "ordin/dezvoltare/2003/288",
+   "short": "Ordin dezvoltare nr. 288/2003",
+   "title": "Ordinul nr. 288/2003 pentru aprobarea Procedurii de recunoaștere a specificațiilor tehnice existente la nivel național, utilizate ca referințe pentru aplicarea marcajului CS în domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42681",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42681",
+     "sha256": "2ae6bc6021b7edfa0e6f340d0dbf9fe750e045652736016a48a922ef4004192f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-289-2003",
+   "path": "ordin/dezvoltare/2003/289",
+   "short": "Ordin dezvoltare nr. 289/2003",
+   "title": "Ordinul nr. 289/2003 pentru aprobarea Procedurii de evaluare a organismelor abilitate sa elaboreze agremente tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43004",
+   "versions": [
+    {
+     "from": "2003-07-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43004",
+     "sha256": "11e9dc196869ccafaab845e3f8ddf835105f276d616e51211b891689de8fa1c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-308-2003",
+   "path": "ordin/dezvoltare/2003/308",
+   "short": "Ordin dezvoltare nr. 308/2003",
+   "title": "Ordinul nr. 308/2003 pentru aprobarea Procedurii de evaluare și desemnare a organismelor abilitate pentru atestarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43503",
+   "versions": [
+    {
+     "from": "2003-08-03",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43503",
+     "sha256": "bc770bf15d185c1717fe094c9e22f6945085c0c543603cde450d96e282be24ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-31-2003",
+   "path": "ordin/dezvoltare/2003/31",
+   "short": "Ordin dezvoltare nr. 31/2003",
+   "title": "Ordinul nr. 31/2003 pentru aprobarea Reglementării aeronautice civil-militare române privind stabilirea cerințelor de siguranță pentru personalul serviciilor de management al traficului aerian - RACMR ESARR 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41846",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41846",
+     "sha256": "bb98697b6550c2daa51825f336623168d0b0a7a9188a11cd1187df5449322ebf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-331-2003",
+   "path": "ordin/dezvoltare/2003/331",
+   "short": "Ordin dezvoltare nr. 331/2003",
+   "title": "Ordinul nr. 331/2003 pentru aprobarea măsurilor privind întărirea managementului siguranței navelor de tip Ro-Ro ferry care transporta și pasageri și care operează în serviciu regulat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42750",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42750",
+     "sha256": "4bff22922435efb3218cc2aee96774e548f262715248fcea5aa5bf7e8f8aab74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-349-2003",
+   "path": "ordin/dezvoltare/2003/349",
+   "short": "Ordin dezvoltare nr. 349/2003",
+   "title": "Ordinul nr. 349/2003 privind instituirea procedurii de administrare specială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42615",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42615",
+     "sha256": "5e9eec1ef7a4252fc95700f6e65df4a2adb26372180de3f48c40bbde5124b2fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-39-2003",
+   "path": "ordin/dezvoltare/2003/39",
+   "short": "Ordin dezvoltare nr. 39/2003",
+   "title": "Ordinul nr. 39/2003 pentru aprobarea Procedurilor privind implementarea subprogramului \"Investiții în servicii sociale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42412",
+   "versions": [
+    {
+     "from": "2003-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42412",
+     "sha256": "f2a5ead151533e73bd6c62eaecf069d3d58c1cc43e9ebd1960b861fc9d82c146"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-421-2003",
+   "path": "ordin/dezvoltare/2003/421",
+   "short": "Ordin dezvoltare nr. 421/2003",
+   "title": "Ordinul nr. 421/2003 privind aprobarea Regulamentului de organizare și funcționare a Comisiei interministeriale pentru zone construite protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44472",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44472",
+     "sha256": "f3c6d05363d6a4201a2a4c6071e427a9d945ddcea6c11dc08148962fb4e0e6b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-447-2003",
+   "path": "ordin/dezvoltare/2003/447",
+   "short": "Ordin dezvoltare nr. 447/2003",
+   "title": "Ordinul nr. 447/2003 pentru aprobarea Instrucțiunilor privind examinarea medicală și psihologică a personalului din transporturi cu responsabilități în siguranța circulației și a navigației, precum și organizarea, funcționarea și componenta comisiilor medicale și psihologice de siguranță circulației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43965",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43965",
+     "sha256": "f0c0fdb34d561eb948b6267aad2544f70b8ad83ed67c9d81a8ca4b2b2d617052"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-483-2003",
+   "path": "ordin/dezvoltare/2003/483",
+   "short": "Ordin dezvoltare nr. 483/2003",
+   "title": "Ordinul nr. 483/2003 pentru înlocuirea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.835/2002 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43607",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43607",
+     "sha256": "4b1e883c3ec9b2e6d925ce69dbe3255a576a084f5973faea3175d37f1f8793c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-49-2003",
    "path": "ordin/dezvoltare/2003/49",
    "short": "Ordin dezvoltare nr. 49/2003",
@@ -1338,6 +1953,186 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-538-2003",
+   "path": "ordin/dezvoltare/2003/538",
+   "short": "Ordin dezvoltare nr. 538/2003",
+   "title": "Ordinul nr. 538/2003 privind aprobarea Sistemului de inspecții obligatorii pentru operarea în siguranța a navelor de tip Ro-Ro ferry care transporta și pasageri, precum și a navelor de pasageri de mare viteza care operează în serviciu regulat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43194",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43194",
+     "sha256": "63ebb5b5f55d1a938c84dd3add758a266311bd5528667b8e0b9d9ed1c85a5dd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-541-2003",
+   "path": "ordin/dezvoltare/2003/541",
+   "short": "Ordin dezvoltare nr. 541/2003",
+   "title": "Ordinul nr. 541/2003 pentru aprobarea Sistemului intensificat de inspecții aplicabil navelor comerciale maritime care arborează pavilionul român și efectuează voiajuri internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44053",
+   "versions": [
+    {
+     "from": "2003-05-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44053",
+     "sha256": "9ffce63b5285038895aa4e941bc6421404dba3f8e007f69f36a4805018412b92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-550-2003",
+   "path": "ordin/dezvoltare/2003/550",
+   "short": "Ordin dezvoltare nr. 550/2003",
+   "title": "Ordinul nr. 550/2003 pentru aprobarea Reglementării tehnice \"Îndrumător pentru atestarea auditorilor energetici pentru clădiri și instalațiile aferente\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43352",
+   "versions": [
+    {
+     "from": "2003-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43352",
+     "sha256": "b43293078431b073d4151a76c2b8315388dd73a453e5b43ce63bda510a15719b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-558-2003",
+   "path": "ordin/dezvoltare/2003/558",
+   "short": "Ordin dezvoltare nr. 558/2003",
+   "title": "Ordinul nr. 558/2003 privind înlocuirea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.894/2002 pentru aprobarea Manualului privind controlul statului pavilionului la navele care arborează pavilionul român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44235",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44235",
+     "sha256": "bb690fb76afb206c59117c9106118513f94f21926ac95309853f39e7a66dcea9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-581-2003",
+   "path": "ordin/dezvoltare/2003/581",
+   "short": "Ordin dezvoltare nr. 581/2003",
+   "title": "Ordinul nr. 581/2003 pentru completarea Părții a II-a - \"Norme de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere\" - din Normele de autorizare a funcționarii centrelor de pregătire a personalului din domeniul transporturilor rutiere, aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 2.026/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43367",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43367",
+     "sha256": "60652a5b7f63650a6120fed58a22892f022b50c65b97db36c10aec690e928516"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-582-2003",
+   "path": "ordin/dezvoltare/2003/582",
+   "short": "Ordin dezvoltare nr. 582/2003",
+   "title": "Ordinul nr. 582/2003 pentru aprobarea Normelor tehnice privind aprobarea de tip a echipamentelor și produselor pentru nave maritime, prevăzute de convențiile internaționale la care România este parte, cod MLPTL.ANR-EM-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44243",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44243",
+     "sha256": "dddae4046be49662f11697243b46cd45f8e2ead72159659996ee58f6695edc8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-595-2003",
+   "path": "ordin/dezvoltare/2003/595",
+   "short": "Ordin dezvoltare nr. 595/2003",
+   "title": "Ordinul nr. 595/2003 privind aprobarea Cerințelor tehnice minime pentru navele fluviale care arborează pavilionul român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44056",
+   "versions": [
+    {
+     "from": "2003-05-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44056",
+     "sha256": "2f9ac4dc93ac01216c92b8ae6c66618c4f25baa6819f6c71bb439524a4e4c552"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-597-2003",
+   "path": "ordin/dezvoltare/2003/597",
+   "short": "Ordin dezvoltare nr. 597/2003",
+   "title": "Ordinul nr. 597/2003 privind aprobarea Normelor pentru stabilirea condițiilor de obținere a atestatului profesional de către conducătorii auto care efectuează transport rutier de mărfuri cu vehicule a căror masă maxima autorizata este mai mare de 7,5 tone, transport rutier public de persoane și transport rutier cu vehicule având mase și/sau dimensiuni de gabarit depășite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43643",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43643",
+     "sha256": "05ff06ef1d7a4a89878e53d6cd65a0c300cbf67c5b242118c56e678bcbbd722e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-628-2003",
+   "path": "ordin/dezvoltare/2003/628",
+   "short": "Ordin dezvoltare nr. 628/2003",
+   "title": "Ordinul nr. 628/2003 pentru aplicarea Acordului privind adoptarea de condiții uniforme pentru inspecțiile tehnice periodice ale vehiculelor rutiere și recunoașterea reciprocă a acestor inspecții, încheiat la Viena la 13 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43712",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43712",
+     "sha256": "b4cdc56d05070bb96b04924cbe1e644596e919e3b21618f271ff33b1b5701fd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-653-2003",
+   "path": "ordin/dezvoltare/2003/653",
+   "short": "Ordin dezvoltare nr. 653/2003",
+   "title": "Ordinul nr. 653/2003 pentru aprobarea Normelor tehnice privind construcția și echiparea navelor maritime de pescuit cu lungimea de 24 m sau mai mare, cod MLPTL.ANR-NPESC-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44057",
+   "versions": [
+    {
+     "from": "2003-05-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44057",
+     "sha256": "5b89f2e57e9a305b514bc7ddb13984be651e23cdae2edc9b88ce9c1e17f4aed4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-654-2003",
+   "path": "ordin/dezvoltare/2003/654",
+   "short": "Ordin dezvoltare nr. 654/2003",
+   "title": "Ordinul nr. 654/2003 pentru aprobarea Regulamentului de aplicare a prevederilor Ordonanței Guvernului nr. 38/2000 privind implementarea standardelor internaționale pentru siguranța navelor, prevenirea poluării și asigurarea condițiilor de muncă și viață la bordul navelor maritime sub pavilion străin care utilizează porturile sau instalațiile românești din largul marii, care operează pe sau deasupra platoului continental românesc (controlul statului portului)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44090",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44090",
+     "sha256": "6e6cf76b54f57c7849436f2b008f7a984a913eb4066f4ff5d789e585c771350c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-657-2003",
+   "path": "ordin/dezvoltare/2003/657",
+   "short": "Ordin dezvoltare nr. 657/2003",
+   "title": "Ordinul nr. 657/2003 privind modificarea și completarea Ordinului ministrului transporturilor nr. 536/1997 pentru aprobarea Reglementărilor privind certificarea și/sau omologarea echipamentelor, pieselor de schimb și materialelor utilizate la vehicule rutiere, precum și evaluarea capabilității tehnice și autorizarea agenților economici care prestează servicii de reparație, reglare și/sau desfășoară activitate de reconstrucție a vehiculelor rutiere - RNTR 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43845",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43845",
+     "sha256": "ef24a19c12812e2afe2f89f77e2079b572fadd1ee33947456f73b0e59a43f1b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-68-2003",
    "path": "ordin/dezvoltare/2003/68",
    "short": "Ordin dezvoltare nr. 68/2003",
@@ -1349,6 +2144,216 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43818",
      "sha256": "bebeb504b3b0eef697e7f5ed35155a5f28b0e7e876cf8605a17badc254762f39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-69-2003",
+   "path": "ordin/dezvoltare/2003/69",
+   "short": "Ordin dezvoltare nr. 69/2003",
+   "title": "Ordinul nr. 69/2003 pentru aprobarea Ediției 2/2003 a Reglementărilor aeronautice civile române privind licențierea personalului tehnic aeronautic/RACR-LPTA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41835",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41835",
+     "sha256": "bd7661107f4bb97ac171cc7286113d679a6d7b3bec26161657b8005d6b98be17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-704-2003",
+   "path": "ordin/dezvoltare/2003/704",
+   "short": "Ordin dezvoltare nr. 704/2003",
+   "title": "Ordinul nr. 704/2003 pentru aprobarea Listei specificațiilor tehnice și a documentelor tehnice directoare de referința în domeniul produselor pentru construcții și al construcțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44190",
+   "versions": [
+    {
+     "from": "2003-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44190",
+     "sha256": "bb6cd55900f8a9b5cbd6175b0fb28735bdb19451395305907b1e23906af07fa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-728-2003",
+   "path": "ordin/dezvoltare/2003/728",
+   "short": "Ordin dezvoltare nr. 728/2003",
+   "title": "Ordinul nr. 728/2003 pentru aprobarea Sistemului de informare și monitorizare a traficului navelor care intra/ies în/din apele naționale navigabile ale României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44082",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44082",
+     "sha256": "5dd10c0fc1b3b92d77b0c27e126ae81c3cfc6fc367ddf730a8fb8e56f178456a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-744-2003",
+   "path": "ordin/dezvoltare/2003/744",
+   "short": "Ordin dezvoltare nr. 744/2003",
+   "title": "Ordinul nr. 744/2003 pentru aprobarea Reglementării aeronautice civile române privind autorizarea aeroporturilor RACR-AD-AADC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43966",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43966",
+     "sha256": "6a77fe0efc55d8189b3d473cffbd767b53af3fe1a201b3d09b0316d157aa20b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-76-2003",
+   "path": "ordin/dezvoltare/2003/76",
+   "short": "Ordin dezvoltare nr. 76/2003",
+   "title": "Ordinul nr. 76/2003 pentru modificarea anexei nr. 1 la anexa la Ordinul ministrului dezvoltării și prognozei nr. 292/2001 pentru aprobarea Procedurilor privind implementarea, monitorizarea și evaluarea unor programe de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42884",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42884",
+     "sha256": "996f3ba339bd310c05db8de430c2b90f058bfe36dcc2d8dd5335c6428242f4f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-769-2003",
+   "path": "ordin/dezvoltare/2003/769",
+   "short": "Ordin dezvoltare nr. 769/2003",
+   "title": "Ordinul nr. 769/2003 pentru modificarea și completarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 1.896/2002 privind constatarea contravențiilor și aplicarea sancțiunilor prevăzute la art. 8 din Ordonanța Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a rețelei de drumuri naționale din România, aprobată cu modificări și completări prin Legea nr. 424/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44079",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44079",
+     "sha256": "ed01872148f44b04624f9992ee16479130b46eb73e7a6ea83517c82c130d726a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-777-2003",
+   "path": "ordin/dezvoltare/2003/777",
+   "short": "Ordin dezvoltare nr. 777/2003",
+   "title": "Ordinul nr. 777/2003 pentru aprobarea reglementării tehnice \"Îndrumător pentru atestarea tehnico-profesională a specialiștilor cu activitate în construcții\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44233",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44233",
+     "sha256": "a7da6c5538d6a59ff2e02fb87fad32bdec212bc1a813843b24f7db9f54529d23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-806-2003",
+   "path": "ordin/dezvoltare/2003/806",
+   "short": "Ordin dezvoltare nr. 806/2003",
+   "title": "Ordinul nr. 806/2003 privind instituirea procedurii de administrare specială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44338",
+   "versions": [
+    {
+     "from": "2003-06-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44338",
+     "sha256": "7b0f12af8d2d6303b8e5ad8640ba6eade201e3d13c0bf7827a2b6d2aa38b9a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-814-2003",
+   "path": "ordin/dezvoltare/2003/814",
+   "short": "Ordin dezvoltare nr. 814/2003",
+   "title": "Ordinul nr. 814/2003 pentru modificarea și înlocuirea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 955/2002 privind aprobarea Normelor metodologice pentru punerea în aplicare a Ordonanței de urgență a Guvernului nr. 73/2002 pentru asigurarea fondurilor necesare elaborării proiectelor aferente Programului SAPARD, Măsura 2.1 \"Dezvoltarea și îmbunătățirea infrastructurii rurale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44429",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44429",
+     "sha256": "ebb768dbc4c9dcc76569d6c840f2fd86406a2ccff900da8747caeff37ddd0ec9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-827-2003",
+   "path": "ordin/dezvoltare/2003/827",
+   "short": "Ordin dezvoltare nr. 827/2003",
+   "title": "Ordinul nr. 827/2003 pentru aprobarea tarifelor suplimentare de utilizare a drumurilor naționale, aplicabile transporturilor efectuate cu vehicule înmatriculate în România și în alte state, care depășesc masa totală maxima admisă, masa maxima admisă pe osie și/sau dimensiunile maxime de gabarit admise în circulație pe drumurile naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44417",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44417",
+     "sha256": "d8caf60f03f44c500b8346870e3fe5a29628ceaaf5ba9947ad4ade6d17121f09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-84-2003",
+   "path": "ordin/dezvoltare/2003/84",
+   "short": "Ordin dezvoltare nr. 84/2003",
+   "title": "Ordinul nr. 84/2003 privind aprobarea Procedurii de implementare a subprogramului \"Întărirea capacității consiliilor locale de a implementa proiecte pentru dezvoltarea locală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42887",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42887",
+     "sha256": "0b3e4212821ead8cb5d4c4b4831ff0361bd7904e7e24998c79e6200f8d307268"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-853-2003",
+   "path": "ordin/dezvoltare/2003/853",
+   "short": "Ordin dezvoltare nr. 853/2003",
+   "title": "Ordinul nr. 853/2003 pentru aprobarea Programului național de dezvoltare a colaborării civil-militare în managementul traficului aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44921",
+   "versions": [
+    {
+     "from": "2003-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44921",
+     "sha256": "13ce25e863581ed5e4e32f0fc7056c17a6208a4d7b9443f71dce834860075cd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-891-2003",
+   "path": "ordin/dezvoltare/2003/891",
+   "short": "Ordin dezvoltare nr. 891/2003",
+   "title": "Ordinul nr. 891/2003 pentru stabilirea unor reguli privind transportul mărfurilor periculoase pe calea ferată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44504",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44504",
+     "sha256": "3d501f01c1d9909f775cd9163a657eab8bbd737346772bc211cff07267a33b62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-956-2003",
+   "path": "ordin/dezvoltare/2003/956",
+   "short": "Ordin dezvoltare nr. 956/2003",
+   "title": "Ordinul nr. 956/2003 pentru aprobarea Regulamentului de exploatare portuara a porturilor maritime românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44763",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44763",
+     "sha256": "8f3f0b7010a50bfbb07f6f00894cce1adf949e6f3116853dd2bf99e3f18a4fc0"
     }
    ]
   },
@@ -2988,6 +3993,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-290-2003",
+   "path": "ordin/guvern/2003/290",
+   "short": "Ordin guvern nr. 290/2003",
+   "title": "Ordinul nr. 290/2003 pentru aprobarea normelor metodologice privind modalitatea de acordare a gratuității transportului urban cu mijloacele de transport în comun de suprafața sau cu metroul și interurban, precum și pentru stabilirea cuantumului acestei gratuități pentru persoanele cu handicap accentuat și grav, precum și pentru asistenții personali sau însoțitorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43940",
+   "versions": [
+    {
+     "from": "2003-05-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43940",
+     "sha256": "6e0cb781308aa9f7a87eeb28a948d91f8bb7890c67dd763f2d6fbc752be5e20e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-imm-259-2003",
    "path": "ordin/imm/2003/259",
    "short": "Ordin imm nr. 259/2003",
@@ -2999,6 +4019,66 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49575",
      "sha256": "1f8f734fd8786949186245b321c6b15f8596af81461fdd47256227dcf8a32c95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-518-2003",
+   "path": "ordin/interne/2003/518",
+   "short": "Ordin interne nr. 518/2003",
+   "title": "Ordinul nr. 518/2003 pentru punerea în aplicare a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46060",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46060",
+     "sha256": "88686fe92633818bf2a9390f54abfdfcc42cbb502828b0106a9f8b3fd9e9d0c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-529-2003",
+   "path": "ordin/interne/2003/529",
+   "short": "Ordin interne nr. 529/2003",
+   "title": "Ordinul nr. 529/2003 pentru aprobarea Regulamentului de autorizare a laboratoarelor și poligoanelor de încercări la foc, de testări și experimentări în domeniul prevenirii și stingerii incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46280",
+   "versions": [
+    {
+     "from": "2003-09-17",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46280",
+     "sha256": "88b581c1c696f65588eaf3df57c1dd439079a79e046e2f4bf0c138e959deeeb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-547-2003",
+   "path": "ordin/interne/2003/547",
+   "short": "Ordin interne nr. 547/2003",
+   "title": "Ordinul nr. 547/2003 privind modificarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere, aprobate prin Ordinul ministrului administrației publice nr. 275/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47005",
+   "versions": [
+    {
+     "from": "2003-10-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47005",
+     "sha256": "748f90d5c987603c850a2add363d3657f7a2685141d4a7e7e958bf168306dbd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-602-2003",
+   "path": "ordin/interne/2003/602",
+   "short": "Ordin interne nr. 602/2003",
+   "title": "Ordinul nr. 602/2003 pentru aprobarea Normelor privind avizarea pe linie de protecție civilă a documentațiilor de investiții în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48395",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48395",
+     "sha256": "bad8ccd9e79cbc6e0afe53f0f62b6d7b668fb37a734fffd6df063cc1d276ba35"
     }
    ]
   },
@@ -4814,6 +5894,21 @@
      "units": 57,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43682",
      "sha256": "b74c28fafc8046ccdf92fee5256136ee70740de51dabde20492e5628095e2baf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-365-2003",
+   "path": "ordin/transporturi/2003/365",
+   "short": "Ordin transporturi nr. 365/2003",
+   "title": "Ordinul nr. 365/2003 pentru introducerea regimului de frontieră internă pe aeroporturile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46913",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46913",
+     "sha256": "d66feeae02c7d3226da18ba27b3f6d53bf21c531341c28376c8bde808d15bd6a"
     }
    ]
   },

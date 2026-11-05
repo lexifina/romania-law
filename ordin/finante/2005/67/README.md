@@ -2,7 +2,7 @@
 
 Ordin finante nr. 67/2005 · 1 versions, from 2005-02-02 (latest in force: 2005-02-02) · <https://legislatie.just.ro/Public/DetaliiDocument/58969>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────────────────────────────────────────────────────────────────────────────┐ │ │ │ 121 DECONT ┌─────────────────────┐│ │ de scutire de accize │Ministerul ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-finante-67-2005` (tags `ordin-finante-67-2005/<day>`; `python too
 - Ordin finante nr. 67/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 67/2005: Anexa nr. 2 (2 Instrucțiuni de completare a Decontului de scutire de accize I. Decontul de scutire de accize se depune de către beneficiarii produselor supuse accizelor armonizate, pentru care se acordă scutire in) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 58969 of the official web service.
 - Ordin finante nr. 67/2005: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a Decontului de scutire de accize Denumirea formularului: Decont de scutire de accize Cod: 14.13.01.03/a Format: A4/t1 Ca) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 58969 of the official web service.
-- Ordin finante nr. 67/2005: Anexa nr. 1 (1 ┌─────────────────────────────────────────────────────────────────────────────┐ │ │ │ 121 DECONT ┌─────────────────────┐│ │ de scutire de accize │Ministerul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 67/2005: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

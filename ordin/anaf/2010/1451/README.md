@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1451/2010 · 1 versions, from 2010-02-12 (latest in force: 2010-02-12) · <https://legislatie.just.ro/Public/DetaliiDocument/116178>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Agenția Națională de Administrare Fiscală DECLARAȚIE PRIVIND TAXELE DE ORGANIZARE ȘI 105 EXPLOATARE A JOCURILOR DE NOROC Perioada de raportare Luna|_|_| ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 NOMENCLATORUL privind taxele de organizare și exploatare a jocurilor de noroc ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Agenția Națională de Administrare Fiscală DECLARAȚIE PRIVIND TAXELE DE ORGANIZARE ȘI 105 EXPLOATARE A JOCURILOR DE NOROC Perioada de raportare Luna|_|_| ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 NOMENCLATORUL privind taxele de organizare și exploatare a jocurilor de noroc): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-anaf-1451-2010` (tags `ordin-anaf-1451-2010/<day>`; `python tools
 - Ordin anaf nr. 1451/2010: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului 105 "Declarație privind taxele de organizare și exploatare a jocurilor de noroc", cod 14.13.03.14/j I. Depunerea declarației Formularul 105 "Declarație priv) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 116178 of the official web service.
 - Ordin anaf nr. 1451/2010: Anexa nr. 4 (4 CARACTERISTICI de tipărire, modul de difuzare, de utilizare și de păstrare a formularului 1. Denumire: 105 "Declarație privind taxele de organizare și exploatare a jocurilor de noroc", cod 14.13.03.) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 116178 of the official web service.
 - Ordin anaf nr. 1451/2010: Anexa nr. 1 (1 Agenția Națională de Administrare Fiscală DECLARAȚIE PRIVIND TAXELE DE ORGANIZARE ȘI 105 EXPLOATARE A JOCURILOR DE NOROC Perioada de raportare Luna|_|_| ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 1451/2010: Anexa nr. 3 (3 NOMENCLATORUL privind taxele de organizare și exploatare a jocurilor de noroc ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1451/2010: Anexa nr. 3 (3 NOMENCLATORUL privind taxele de organizare și exploatare a jocurilor de noroc) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

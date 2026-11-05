@@ -2,7 +2,7 @@
 
 Ordin finante nr. 35/2007 · 1 versions, from 2007-01-25 (latest in force: 2007-01-25) · <https://legislatie.just.ro/Public/DetaliiDocument/78942>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────┐ Ministerul Finanțelor │SIGLA│ Publice 300 DECONT └─────┘ Agentia Naționala de DE TAXA PE VALOAREA ADAUGATA Administrare Fiscala Perioada de raportare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-finante-35-2007` (tags `ordin-finante-35-2007/<day>`; `python too
 - Ordin finante nr. 35/2007: the first version is the order as published in Monitorul Oficial nr. 62 of 25 January 2007 (document 78942 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 35/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 35/2007: Anexa nr. 2 (3 CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularului (300) "Decont de taxă pe valoarea adăugată" Denumirea formularului: Decont de taxă pe valoarea adăugată Cod MF:) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 78942 of the official web service.
-- Ordin finante nr. 35/2007: Anexa nr. 1 (1 ┌─────┐ Ministerul Finanțelor │SIGLA│ Publice 300 DECONT └─────┘ Agentia Naționala de DE TAXA PE VALOAREA ADAUGATA Administrare Fiscala Perioada de raportare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 35/2007: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

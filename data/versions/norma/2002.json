@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "norma-dezvoltare-1521-mm-2002",
+   "path": "norma/dezvoltare/2002/1521-mm",
+   "short": "Norma dezvoltare nr. 1521/MM/2002",
+   "title": "Norma nr. 1.521/MM/2002 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36197",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36197",
+     "sha256": "a95a6a6d09bba15cab7e127935a6b89cd52cdbf11a5cc8f93c84c4e97d109018"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-4404-mm-2002",
+   "path": "norma/dezvoltare/2002/4404-mm",
+   "short": "Norma dezvoltare nr. 4404/MM/2002",
+   "title": "Norma nr. 4.404/MM/2002 privind constituirea și utilizarea veniturilor cu destinație specială pentru drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44625",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44625",
+     "sha256": "6273521f881425758ec2a87fca2d1907289ed80016dd746b0a9424e4fc58a472"
+    }
+   ]
+  },
+  {
    "slug": "norma-finante-521821-2002",
    "path": "norma/finante/2002/521821",
    "short": "Norma finante nr. 521821/2002",

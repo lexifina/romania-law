@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 727/2016 · 1 versions, from 2016-02-26 (latest in force: 2016-02-26) · <https://legislatie.just.ro/Public/DetaliiDocument/176149>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 9* ┌──────────────────────────────────────────────┬─────────────────────────────────────────┐ │ A. CERERE DE ÎNREGISTRARE [] │ B. CERERE DE RADIERE [] ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 9*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -38,4 +38,4 @@ Act id: `ordin-anaf-727-2016` (tags `ordin-anaf-727-2016/<day>`; `python tools/o
 - Ordin anaf nr. 727/2016: Anexa nr. 4 (4 DECIZIE privind radierea, la cerere, din Registrul operatorilor intracomunitari Către: Denumirea/Numele și prenumele......................................................... Domiciliul fiscal: Local) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 176149 of the official web service.
 - Ordin anaf nr. 727/2016: Anexa nr. 5 (5 DECIZIE privind radierea, din oficiu, din Registrul operatorilor intracomunitari Către: Denumirea/Numele și prenumele.................................................................................) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 176149 of the official web service.
 - Ordin anaf nr. 727/2016: Anexa nr. 6 (6 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularelor 1. Cerere de înregistrare în/radiere din Registrul operatorilor intracomunitari 1.1. Denumire: "Cerere de) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 176149 of the official web service.
-- Ordin anaf nr. 727/2016: Anexa nr. 2 (2 *Font 9* ┌──────────────────────────────────────────────┬─────────────────────────────────────────┐ │ A. CERERE DE ÎNREGISTRARE [] │ B. CERERE DE RADIERE [] ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 727/2016: Anexa nr. 2 (2 *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

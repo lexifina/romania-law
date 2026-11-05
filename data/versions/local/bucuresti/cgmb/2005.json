@@ -3,6 +3,171 @@
  "shard": "local/bucuresti/cgmb/2005",
  "acts": [
   {
+   "slug": "hcgmb-1-2005",
+   "path": "local/bucuresti/cgmb/2005/1",
+   "short": "HCGMB nr. 1/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2005 PRIVIND UTILIZAREA IN ANUL 2005 A UNOR SUME DIN FONDUL DE RULMENT AL BUGETULUI C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13795",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13795/h01_05.pdf",
+     "sha256": "c2fbc319dce80b9d10d96b1c3560e0bce48076268debddfd5a66d6fd9a8ccd15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2005",
+   "path": "local/bucuresti/cgmb/2005/10",
+   "short": "HCGMB nr. 10/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13804",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13804/h010_05.pdf",
+     "sha256": "6db85287133a21592d988c3072a1a1349e69f4595c5a78b47456ddb0996235e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2005",
+   "path": "local/bucuresti/cgmb/2005/100",
+   "short": "HCGMB nr. 100/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14646",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14646/h0100_05.pdf",
+     "sha256": "e91993bd6cd4668126f927d5c4e4eb597d9853bd67bb75660a41581a598d32aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2005",
+   "path": "local/bucuresti/cgmb/2005/101",
+   "short": "HCGMB nr. 101/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2005 PRIVIND TRANSMITEREA UNOR SPATII IN ADMINISTRAREA BIBLIOTECII METROPOLITANE BUCURESTI SI IN ADMINISTRAREA ADMINISTRATIEI LACURI, PARCURI SI AGREMENT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14647",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14647/h0101_05.pdf",
+     "sha256": "f7c3f2d2582bcc3d4d4a9ae9c5649f0c3941989c41d89afcece83b0e980041ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2005",
+   "path": "local/bucuresti/cgmb/2005/102",
+   "short": "HCGMB nr. 102/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14648",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14648/h0102_05.pdf",
+     "sha256": "2ce37503d0bc3ce7b6c8b5129b186e4364362cca363e7ec3456e64ac0bb1ef5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2005",
+   "path": "local/bucuresti/cgmb/2005/103",
+   "short": "HCGMB nr. 103/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2005 PRIVIND ELABORAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATEASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"ROMARTA\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14649",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14649/h0103_05.pdf",
+     "sha256": "4ecfa80415c9794d6de9ae73b3349bf565adaef9039c5cb67aaaab88773b1f5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2005",
+   "path": "local/bucuresti/cgmb/2005/104",
+   "short": "HCGMB nr. 104/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2005 PRIVIND APROBAREA PROIECTULUI DE INVESTITII \"REABILITAREA DRUMURILOR URBANE - ETAPA A II-A\" MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14650",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14650/h0104_05.pdf",
+     "sha256": "53c58a7e7f68594cd25c563d863c982837fc30bcb6c33b812da511385591afa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2005",
+   "path": "local/bucuresti/cgmb/2005/105",
+   "short": "HCGMB nr. 105/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2005 PRIVIND ACHIZITIONAREA DE CATRE REGIA AUTONOMA DE TRANSPORT BUCURESTI A UNUI NUMAR DE 50 DE TRAMVAIE PENTRU REABILITAREA TRANSPORTULUI URBAN DE CALATORI DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14651",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14651/h0105_05.pdf",
+     "sha256": "e502794c9494eee74c64399878d85b4c7164c96bb7709d46cde0808a4873c75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2005",
+   "path": "local/bucuresti/cgmb/2005/106",
+   "short": "HCGMB nr. 106/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2005 PRIVIND COMPONENTA COMISIEI SPECIALE PENTRU INTOCMIREA INVENTARULUI BUNURILOR CE ALCATUIESC DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 331/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14652",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14652/h0106_05.pdf",
+     "sha256": "f6abca38eecb4bf33b8c7f9265e9308e119c7c6c77102f9bd6983cb003a18150"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2005",
+   "path": "local/bucuresti/cgmb/2005/107",
+   "short": "HCGMB nr. 107/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2005 PRIVIND DESEMNAREA A DOI CONSILIERI GENERALI CA MEMBRI IN AUTORITATEA TERITORIALA DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14653",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14653/h0107_05.pdf",
+     "sha256": "c22161172a92c632a504aeae770567ff941b830491a4cafda1daa2bbf2e88642"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2005",
+   "path": "local/bucuresti/cgmb/2005/108",
+   "short": "HCGMB nr. 108/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2005 PRIVIND APROBAREA COMPONENTEI NOMINALE A COMISIILOR DE SPECIALITATE ALE CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14654",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14654/h0108_05.pdf",
+     "sha256": "dd953e08254c9cd2880d021d0e3d239b306ac21317b14955359dec0de0e5948a"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-109-2005",
    "path": "local/bucuresti/cgmb/2005/109",
    "short": "HCGMB nr. 109/2005",
@@ -14,6 +179,366 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14721/h0109_05.pdf",
      "sha256": "9580f14c199050e969f7854382eb8e8b364f4af4d6c89d8c89a2bdbdb8a5a04e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2005",
+   "path": "local/bucuresti/cgmb/2005/11",
+   "short": "HCGMB nr. 11/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13805",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13805/h011_05.pdf",
+     "sha256": "745083d6f2b23b4ee6650b4de29545165c44c44eb7ac7e4407c2cfed8a05eebf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2005",
+   "path": "local/bucuresti/cgmb/2005/110",
+   "short": "HCGMB nr. 110/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2005 PRIVIND APROBAREA PROTOCOLULUI DE INFRATIRE INTRE MUNICIPIUL BUCURESTI (ROMANIA) SI MUNICIPALITATEA BEIJING (CHINA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14722",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14722/h0110_05.pdf",
+     "sha256": "245439122e9dab294d7b1fa52512833090cb335d0d82c4b34b89f2c3e75fd0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2005",
+   "path": "local/bucuresti/cgmb/2005/111",
+   "short": "HCGMB nr. 111/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14723",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14723/h0111_05.pdf",
+     "sha256": "f15d813b0bbac0c018005bf50d4141d6b477bb51c76bbaad7e1452752ff4fffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2005",
+   "path": "local/bucuresti/cgmb/2005/112",
+   "short": "HCGMB nr. 112/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14724",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14724/h0112_05.pdf",
+     "sha256": "291283c82302d80a7fcb6ff4c3f8e5c53588b6dc19531f2ec37acfa7856a133e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2005",
+   "path": "local/bucuresti/cgmb/2005/113",
+   "short": "HCGMB nr. 113/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14725",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14725/h0113_05.pdf",
+     "sha256": "70aa0fa57e2460744c1caa20c8f470ab649657c65c35cdce1f26619e0eee14b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2005",
+   "path": "local/bucuresti/cgmb/2005/114",
+   "short": "HCGMB nr. 114/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14726",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14726/h0114_05.pdf",
+     "sha256": "f48c38193a07425a2ebe0b1723e6b97ad69068977435301a725526af7c87db30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2005",
+   "path": "local/bucuresti/cgmb/2005/115",
+   "short": "HCGMB nr. 115/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14727",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14727/h0115_05.pdf",
+     "sha256": "8b76955dae0907108ab4e1b17cee32ca74c309d3b6c0ea25258423ed4c196579"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-2005",
+   "path": "local/bucuresti/cgmb/2005/116",
+   "short": "HCGMB nr. 116/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2005 PRIVIND TRANSMITEREA UNUI SPATIU CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA DIN ADMINISTRAREA ADMINISTRATIEI FONDULUI IMOBILIAR IN ADMINISTRAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14728",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14728/h0116_05.pdf",
+     "sha256": "76e2432f0520dab8fca2fa4c2b95b495a6bf16e8f41e250a5f4e086e9aea97d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2005",
+   "path": "local/bucuresti/cgmb/2005/117",
+   "short": "HCGMB nr. 117/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14729",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14729/h0117_05.pdf",
+     "sha256": "a6b36044daf178e7d629ecdcc8b46d96f656f0439dc201e8b39c85c07e224fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2005",
+   "path": "local/bucuresti/cgmb/2005/118",
+   "short": "HCGMB nr. 118/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2005 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14730",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14730/h0118_05.pdf",
+     "sha256": "ba319c2fd9fd86198cb116cf314d37cbe2af1167331838c096b7aa38007a403e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2005",
+   "path": "local/bucuresti/cgmb/2005/119",
+   "short": "HCGMB nr. 119/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2005 PRIVIND AMENAJAREA A CINCI BIROURI DIN CADRUL PRIMARIEI MUNICIPIULUI BUCURESTI PENTRU ACTIVITATEA COMISIILOR DE SPECIALITATE ALE CONSILIULUI GENERAL AL MUNICPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14731",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14731/h0119_05.pdf",
+     "sha256": "5a5faccfca55c8a4118e0942f4655157c1b7f8669148f1fd17613aea6f7e3445"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2005",
+   "path": "local/bucuresti/cgmb/2005/12",
+   "short": "HCGMB nr. 12/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13819",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13819/h012_05.pdf",
+     "sha256": "6e4c8edfb23b358cf10bd9a54abab9f5d191e148acb7783dc333f7b5142052dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2005",
+   "path": "local/bucuresti/cgmb/2005/120",
+   "short": "HCGMB nr. 120/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2005 PRIVIND DESEMNAREA REPREZENTANTULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE ADMINISTRATIE AL CASEI DE ASIGURARI DE SANATATE A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14732",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14732/h0120_05.pdf",
+     "sha256": "1da1c4eb9b570c0585fe8ec9cf31d43c7d4c8d90d3c8a6552443deab81cf4701"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2005",
+   "path": "local/bucuresti/cgmb/2005/121",
+   "short": "HCGMB nr. 121/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2005 PRIVIND SCHIMBAREA CLASIFICARII MUZEULUI MUNICIPIULUI BUCURESTI DIN MUZEU DE IMPORTANTA JUDETEANA IN MUZEU DE IMPORTANTA NATIONALA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14760",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14760/h0121_05.pdf",
+     "sha256": "ce166c80f8707738596e62f9ab9c437ff1b727d3bb627aaa703ee1a34cfb16de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2005",
+   "path": "local/bucuresti/cgmb/2005/122",
+   "short": "HCGMB nr. 122/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2005 PRIVIND ATRIBUREA DENUMIRII DE \"BULEVARDUL BEIJING\" ARTEREI DE CIRCULATIE CUPRINSA INTRE B-DUL MIRCEA ELIADE SI STR. NICOLAE G. CARAMFIL, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14761",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14761/h0122_05.pdf",
+     "sha256": "5add8312292035fb588d78b2e48990c1779efa5df58061e21eb8401bea23d709"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2005",
+   "path": "local/bucuresti/cgmb/2005/123",
+   "short": "HCGMB nr. 123/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2005 PRIVIND ATRIBUIREA DENUMIRII DE \"STRADA NEGOITA TARGOVISTEANU\" ARTEREI DE CIRCULATIE CUPRINSA INTRE SOS. BUCURESTI - MAGURELE SI STR. TEIUS, SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14762",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14762/h0123_05.pdf",
+     "sha256": "34b36ec28419794c5cb68472cf4ae5cf603b54d52a4c3cd11b72f8046fa702c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2005",
+   "path": "local/bucuresti/cgmb/2005/124",
+   "short": "HCGMB nr. 124/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14763",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14763/h0124_05.pdf",
+     "sha256": "55796a8b612c6c4da083e0490b0c36ee0f072afe695b8b710b7836f275f831c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2005",
+   "path": "local/bucuresti/cgmb/2005/125",
+   "short": "HCGMB nr. 125/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14764",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14764/h0125_05.pdf",
+     "sha256": "1b490d2910483bf3b794c711180374945d4443954b6bdcb1c3a26993721a3781"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2005",
+   "path": "local/bucuresti/cgmb/2005/126",
+   "short": "HCGMB nr. 126/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14765",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14765/h0126_05.pdf",
+     "sha256": "ac222ebdbf670d434988f9db0d6e6bc90a9850b46ed3f7471ddae472d13e75bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2005",
+   "path": "local/bucuresti/cgmb/2005/127",
+   "short": "HCGMB nr. 127/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14766",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14766/h0127_05.pdf",
+     "sha256": "f8f0746a0c5d66f638e6088bc4dcb72b0c2ab0ca074cbca1238737f8b4ef819a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2005",
+   "path": "local/bucuresti/cgmb/2005/128",
+   "short": "HCGMB nr. 128/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14767",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14767/h0128_05.pdf",
+     "sha256": "53d5f1a865fb70debafebac5dffce080be26e5c43a0aa0556e6a812dc145d452"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2005",
+   "path": "local/bucuresti/cgmb/2005/129",
+   "short": "HCGMB nr. 129/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2005 PRIVIND ADERAREA MUNICIPIULUI BUCURESTI LA RETEAUA +30 NETWORK",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14768",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14768/h0129_05.pdf",
+     "sha256": "f0c8d44cffee082757cfb489da849ea81a1603ced5511726bbddc8d365b97eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2005",
+   "path": "local/bucuresti/cgmb/2005/13",
+   "short": "HCGMB nr. 13/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13820",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13820/h013_05.pdf",
+     "sha256": "748a6acb8cf40f8254a5898d16adc57bc1e626be93ede6f02ce10ebbb44d93fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2005",
+   "path": "local/bucuresti/cgmb/2005/130",
+   "short": "HCGMB nr. 130/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14769",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14769/h0130_05.pdf",
+     "sha256": "19e647e0eb271d1d30ab501cdae9e63fa53c33877e829525b706925fb4d478f4"
     }
    ]
   },
@@ -48,6 +573,66 @@
    ]
   },
   {
+   "slug": "hcgmb-133-2005",
+   "path": "local/bucuresti/cgmb/2005/133",
+   "short": "HCGMB nr. 133/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14973",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14973/h0133_05.pdf",
+     "sha256": "aee0a14a3dc8cf1642060bb189301b70c28868ddc84c3ff894e72e18ae2c1d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2005",
+   "path": "local/bucuresti/cgmb/2005/134",
+   "short": "HCGMB nr. 134/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2005 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESTITII EFICIENTIZAREA FUNCTIONARII PUNCTELOR TERMICE NEMODERNIZATE RADET- PROIECT RADET IN CADRUL PROIECTULUI \" PROGRAM MULTI-SECTOR AL MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14952",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14952/h0134_05.pdf",
+     "sha256": "9f358480d44bf1c2dcfa0a5c3647ad38940296ee0a3a03620d055d70b97b9785"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-2005",
+   "path": "local/bucuresti/cgmb/2005/135",
+   "short": "HCGMB nr. 135/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2005 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14972",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14972/h0135_05.pdf",
+     "sha256": "4f7a8dc473efb30ef54534bf81945076c804e7a163fe8a89a852122a708e2a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2005",
+   "path": "local/bucuresti/cgmb/2005/136",
+   "short": "HCGMB nr. 136/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14971",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14971/h0136_05.pdf",
+     "sha256": "175ae71147f70aba77927b5ac1ea4997c2a845de0837cdf84318add4991f3bcf"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-137-2005",
    "path": "local/bucuresti/cgmb/2005/137",
    "short": "HCGMB nr. 137/2005",
@@ -59,6 +644,156 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14947/h0137_05.pdf",
      "sha256": "a567aedc672bcab3203b1b04876e94dc26f860a4391315d7d4465e4b77f1815a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2005",
+   "path": "local/bucuresti/cgmb/2005/138",
+   "short": "HCGMB nr. 138/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2005 PRIVIND TRANSMITEREA UNOR TERENURI DIN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14964",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14964/h0138_05.pdf",
+     "sha256": "62ae3d37d8362b86dd063515c6aecc7dcb66d1747ea6c0813a4853577186f947"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2005",
+   "path": "local/bucuresti/cgmb/2005/139",
+   "short": "HCGMB nr. 139/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14965",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14965/h0139_05.pdf",
+     "sha256": "852975e83949286edd2eb3219de36c6d6db4b0ed913c682373e3a2e19d158989"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2005",
+   "path": "local/bucuresti/cgmb/2005/14",
+   "short": "HCGMB nr. 14/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13821",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13821/h014_05.pdf",
+     "sha256": "3a9cb9377d08c7499502f69c3efb4115892f569b49129b5ba378175ab0ecac0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2005",
+   "path": "local/bucuresti/cgmb/2005/140",
+   "short": "HCGMB nr. 140/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14966",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14966/h0140_05.pdf",
+     "sha256": "522b80f161c64b37954e344d8c1e82c180a6dd47eeec49668edecb0d6af5e69c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2005",
+   "path": "local/bucuresti/cgmb/2005/141",
+   "short": "HCGMB nr. 141/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2005 PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE BIBLIOTECII METROPOLITANE BUCURESTI ABROGA HCGMB NR. 213/ 2003 ABROGATA PRIN HCGMB NR. 354/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14946",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14946/h0141_05.pdf",
+     "sha256": "1ce4bcbc0bf891147eae98ae33a2f8662c4749198a3d48e7e29bfc272689260d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2005",
+   "path": "local/bucuresti/cgmb/2005/142",
+   "short": "HCGMB nr. 142/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14948",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14948/h0142_05.pdf",
+     "sha256": "ec56fb8793201d558ba62c945604b8d3e672139035ed9d57777482a8a46c404f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2005",
+   "path": "local/bucuresti/cgmb/2005/143",
+   "short": "HCGMB nr. 143/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2005 PRIVIND APROBAREA INFIINTARII DE CATRE CONSILIUL LOCAL AL SECTORULUI 1 A UNUI CLUB SPORTIV, PERSOANA JURIDICA DE DREPT PUBLIC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14967",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14967/h0143_05.pdf",
+     "sha256": "8b9660b141be169e1bdee28501816faadf60624f31b70cc7783d57a2473b1372"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2005",
+   "path": "local/bucuresti/cgmb/2005/144",
+   "short": "HCGMB nr. 144/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2005 PRIVIND APROBAREA INCHEIERII ACORDULUI DE COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI (ROMANIA) SI CONSILIUL LOCAL AL DISTRICTULUI CHARLOTTENBURG-WILMESDOLF DIN BERLIN (REPUBLICA FEDERALA GERMANIA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14968",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14968/h0144_05.pdf",
+     "sha256": "c2a6f7e365294979424b86d7741a8cb2d2fdf4e5780cd06ea660c37426b26dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2005",
+   "path": "local/bucuresti/cgmb/2005/145",
+   "short": "HCGMB nr. 145/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2005 PRIVIND APROBAREA ASOCIERII DINTRE CONSILIUL LOCAL AL SECTORULUI 1 SI INSPECTORATUL SCOLAR AL MUNICIPIULUI BUCURESTI, IN VEDEREA DERULARII PROGRAMULUI PHARE 2005 \" UNIUNEA EUROPEANA MAI APROAPE DE SCOALA ROMANEASCA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14969",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14969/h0145_05.pdf",
+     "sha256": "615246f1d423417dcd02189c4054e6c318093400951d59a059012059a0251bbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2005",
+   "path": "local/bucuresti/cgmb/2005/146",
+   "short": "HCGMB nr. 146/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2005 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE A SERVICIILOR PUBLICE DE SALUBRIZARE IN MUNICIPIUL BUCURESTI SE ABROGA PRIN HCGMB NR. 119/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14953",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14953/h0146_05.pdf",
+     "sha256": "488fe8f36fcf6c8ae0514c05ce7b3d9485ee3ead6feb711846b6f8c5156edd04"
     }
    ]
   },
@@ -78,6 +813,36 @@
    ]
   },
   {
+   "slug": "hcgmb-148-2005",
+   "path": "local/bucuresti/cgmb/2005/148",
+   "short": "HCGMB nr. 148/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2005 PRIVIND COLECTAREA SELECTIVA A AMBALAJELOR RECICLABILE SI REFOLOSIBILE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14950",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14950/h0148_05.pdf",
+     "sha256": "3e8cc8855625ffcf813f00a26509311029a277762ded9d8b736d66b690b90bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2005",
+   "path": "local/bucuresti/cgmb/2005/149",
+   "short": "HCGMB nr. 149/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14954",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14954/h0149_05.pdf",
+     "sha256": "e119de998aaab40a559f193d488761fc8fcc9ac66f13309e64f4474498dea5f9"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-15-2005",
    "path": "local/bucuresti/cgmb/2005/15",
    "short": "HCGMB nr. 15/2005",
@@ -89,6 +854,156 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13822/h015_05.pdf",
      "sha256": "d3910d38ab08a8b6207e802ae655e62cdea913a828ca17174cac951632326f75"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2005",
+   "path": "local/bucuresti/cgmb/2005/150",
+   "short": "HCGMB nr. 150/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14945",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14945/h0150_05.pdf",
+     "sha256": "5313a812f7b59d39b51f3a49de4684a425648900b5d374f83eb15158dd0bc687"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2005",
+   "path": "local/bucuresti/cgmb/2005/151",
+   "short": "HCGMB nr. 151/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14959",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14959/h0151_05.pdf",
+     "sha256": "e41eae71e38bc1cee3c3a363c024aa78482ec924d44e70f5984d64ec914df139"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2005",
+   "path": "local/bucuresti/cgmb/2005/152",
+   "short": "HCGMB nr. 152/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14958",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14958/h0152_05.pdf",
+     "sha256": "b0e8546eb8625a31075f578f79555ca5b5afc33a6bfac7e9dafcbb16c38d8e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2005",
+   "path": "local/bucuresti/cgmb/2005/153",
+   "short": "HCGMB nr. 153/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14957",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14957/h0153_05.pdf",
+     "sha256": "157c26a7974bb7e2489666a59eaf640cbec7ff843fd5b9c7bc52641f93e358cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2005",
+   "path": "local/bucuresti/cgmb/2005/154",
+   "short": "HCGMB nr. 154/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14956",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14956/h0154_05.pdf",
+     "sha256": "200aeae1375f0df909f65a2ee8c12b3e882013297899c9ca8feb4e0db589935f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2005",
+   "path": "local/bucuresti/cgmb/2005/155",
+   "short": "HCGMB nr. 155/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14955",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14955/h0155_05.pdf",
+     "sha256": "b821df18c5d74be4a1cb8d3b9fdb62659f21471edb5b31bedfcf073253b04778"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2005",
+   "path": "local/bucuresti/cgmb/2005/156",
+   "short": "HCGMB nr. 156/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2005 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14962",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14962/h0156_05.pdf",
+     "sha256": "5c1ab551ee7aca8e3d87a87fc415ccb90a3bd9d13f70d6e45f2ded731cc78b20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2005",
+   "path": "local/bucuresti/cgmb/2005/157",
+   "short": "HCGMB nr. 157/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14970",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14970/h0157_05.pdf",
+     "sha256": "27ea8899785ff789a5a9ed00a439b3e21de78e6448778d6ace52c96ce3d30ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2005",
+   "path": "local/bucuresti/cgmb/2005/158",
+   "short": "HCGMB nr. 158/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2005 PRIVIND APROBAREA BUGETULUI MONITORULUI OFICIAL AL MUNICIPIULUI BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14960",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14960/h0158_05.pdf",
+     "sha256": "0e9ef37de79491fc4b2b8bbec1557ff1e430ba147410c20180d0ba8c1aa0ac8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2005",
+   "path": "local/bucuresti/cgmb/2005/159",
+   "short": "HCGMB nr. 159/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14944",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14944/h0159_05.pdf",
+     "sha256": "5a4c91cfe086d43110e256364239f4d863137ec66e74b5050289447a11c4f990"
     }
    ]
   },
@@ -108,6 +1023,156 @@
    ]
   },
   {
+   "slug": "hcgmb-160-2005",
+   "path": "local/bucuresti/cgmb/2005/160",
+   "short": "HCGMB nr. 160/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14961",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14961/h0160_05.pdf",
+     "sha256": "e8a5e3ea7a1e438b885ca604a52b16b333fd8ea20ea63921cf8f7883b9d01c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2005",
+   "path": "local/bucuresti/cgmb/2005/161",
+   "short": "HCGMB nr. 161/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14949",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14949/h0161_05.pdf",
+     "sha256": "08c5bf8aeeaef554dadf5ec4b1cee0897c80b52532ad7e7d5bb6ba389dd30cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2005",
+   "path": "local/bucuresti/cgmb/2005/162",
+   "short": "HCGMB nr. 162/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2005 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15053",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15053/h0162_05.pdf",
+     "sha256": "2b6a981eda71c1d5affaec35b8d9f4bd6d4edb667827eb85bd90a2fb8257e34e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2005",
+   "path": "local/bucuresti/cgmb/2005/163",
+   "short": "HCGMB nr. 163/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15067",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15067/h0163_05.pdf",
+     "sha256": "97f986b8b1e05e83a2557225297c837d958ebce0e183d5fd559b567af01e40c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2005",
+   "path": "local/bucuresti/cgmb/2005/164",
+   "short": "HCGMB nr. 164/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15057",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15057/h0164_05.pdf",
+     "sha256": "401af1e1e44bc58a3ddf0b58c4d6a02132ea4697c08a301e8f904e5edc1979f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2005",
+   "path": "local/bucuresti/cgmb/2005/165",
+   "short": "HCGMB nr. 165/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15058",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15058/h0165_05.pdf",
+     "sha256": "da793970f14715a5505924bc8b2e06d185e62209caeaac2c244934495c95ef29"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2005",
+   "path": "local/bucuresti/cgmb/2005/166",
+   "short": "HCGMB nr. 166/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15059",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15059/h0166_05.pdf",
+     "sha256": "4adecc61ee68b53110eaf1eb9c235882df88da32f03682ee54e2078d109a2e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2005",
+   "path": "local/bucuresti/cgmb/2005/167",
+   "short": "HCGMB nr. 167/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15060",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15060/h0167_05.pdf",
+     "sha256": "3b9cced0c9fa4db7014028657a5e4d363884cd56462c69a7b3a98a1043f4d9cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2005",
+   "path": "local/bucuresti/cgmb/2005/168",
+   "short": "HCGMB nr. 168/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2005 PRIVIND APROBAREA PROIECTULUI DE ASISTENTA SOCIO-MEDICALA \"INFIINTAREA CENTRULUI DE ALARMA PENTRU URGENTE MEDICO-SOCIALE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15061",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15061/h0168_05.pdf",
+     "sha256": "a35faac67932dd98f4ade22d0157812a85fc70342bb34c81c7dade4b997f5a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2005",
+   "path": "local/bucuresti/cgmb/2005/169",
+   "short": "HCGMB nr. 169/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2005 PRIVIND APROBAREA STRATEGIEI DE INFORMATIZARE A ADMINISTRATIEI PUBLICE LOCALE A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15051",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15051/h0169_05.pdf",
+     "sha256": "324e51437b9e5e0c4ec0c7c388b0a5891832434530450d1a8367fb6234e1ad3c"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-17-2005",
    "path": "local/bucuresti/cgmb/2005/17",
    "short": "HCGMB nr. 17/2005",
@@ -119,6 +1184,621 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13824/h017_05.pdf",
      "sha256": "63cf60efe427e5733de1f4b9702370f0a81052d50bc605ba3f1d0017e9891f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2005",
+   "path": "local/bucuresti/cgmb/2005/170",
+   "short": "HCGMB nr. 170/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2005 PRIVIND APROBAREA ACORDULUI DE IMPRUMUT NERAMBURSABIL INCHEIAT INTRE AGENTIA PENTRU COMERT SI DEZVOLTARE (USTDA) SI PRIMARIA MUNICIPIULUI BUCURESTI PENTRU FINALIZAREA REALIZARII STUDIULUI DE FEZABILITATE PENTRU UN SISTEM GEOSPATIAL DE E-GOVERNMENT PENTRU PLANIFICAREA SI CONTROLUL DEZVOLTARII URBANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15052",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15052/h0170_05.pdf",
+     "sha256": "4da859bd9f56c5f40a48e560500fcba77d510548503dfdf1a82084aa2ff474d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2005",
+   "path": "local/bucuresti/cgmb/2005/171",
+   "short": "HCGMB nr. 171/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2005 PRIVIND IMPUTERNICIREA PRIMARULUI GENERAL AL MUNICIPIULUI BUCURESTI SA NEGOCIEZE SI SA SEMNEZE, IN CONDITIILE LEGII, UN CONTRACT DE ASOCIERE PENTRU ORGANIZAREA UNEI CURSE AUTOMOBILISTICE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15054",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15054/h0171_05.pdf",
+     "sha256": "fb21fd8a0636f638d0f42ba10aff3df01cb17d5cba1ff33523f324e4b185f667"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2005",
+   "path": "local/bucuresti/cgmb/2005/172",
+   "short": "HCGMB nr. 172/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2005 PRIVIND ATRIBUIREA DE DENUMIRI STRAZILOR CE FAC OBIECTUL PLANULUI URBANISTIC ZONAL \"AEROPORT BANEASA PENTRU O SUPRAFATA DE 220 HA SITUAT INTRE ALEEA PRIVIGHETORILOR - CAMPUL PIPERA - INCINTA AEROPORT BANEASA - SOS BUCURESTI-PLOIESTI, SECTOR 1\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15056",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15056/h0172_05.pdf",
+     "sha256": "b6dc8ac96cd0bac0b1a79824a319376f863c3bd03722429f4c82fe527bfe46ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2005",
+   "path": "local/bucuresti/cgmb/2005/173",
+   "short": "HCGMB nr. 173/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2005 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR A SUMELOR DE LA BUGETUL DE STAT PENTRU FINANTAREA CGHELTUIELILOR DE PERSONAL LA INSTITUTIILE DE INVATAMANT PREUNIVERSITAR DE STAT SI A CHELTUIELILOR DE INVATAMANT SPECIAL PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15062",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15062/h0173_05.pdf",
+     "sha256": "e17f074d1157ad646b87fbf0000b47fe77d1a3acbeac3532c320893cf67d0c31"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2005",
+   "path": "local/bucuresti/cgmb/2005/174",
+   "short": "HCGMB nr. 174/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2005 PRIVIND ELIBERAREA CERTIFICATULUI DE ATESTARE A DREPTULUI DE PROPRIETATE ASUPRA TERENURILOR AFLATE IN PATRIMONIUL SOCIETATII COMERCIALE \"BUJORENI\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15063",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15063/h0174_05.pdf",
+     "sha256": "1ae4655a22721145072c3610d05531c99dfcca6e5a985bb1ee5ce2f6f6bb3e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2005",
+   "path": "local/bucuresti/cgmb/2005/175",
+   "short": "HCGMB nr. 175/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2005 PRIVIND REORGANIZAREA ADMINISTRATIEI STRAZILOR PRIN ABSORBIREA AMINISTRATIEI SEMAFOARE MARCAJE RUTIERE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15064",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15064/h0175_05.pdf",
+     "sha256": "f67460bab1c7ecd4e6859c02bae1cd86b9fdc7f850c402fbd78a1e0b5866f3d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2005",
+   "path": "local/bucuresti/cgmb/2005/176",
+   "short": "HCGMB nr. 176/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2005 CU PRIVIRE LA INSUSIREA, CU TITLU PRELIMINAR, IN VEDEREA LANSARII DEZBATERII PUBLICE, A DIRECTIILOR DE DEZVOLTARE SPATIALA INTEGRATA CONFORM MODELULUI DE DEZVOLTARE \"PAZ - ZONA AGLOMERATIEI URBANE SI ZONA METROPOLITANA ALE MUNICIPIULUI BUCURESTI, ACTUALIZARE SI ANALIZA SITUATIE EXISTENTA, DIAGNOZA, REGLEMENTARI, MODEL DIGITAL AL TERENULUI, PLAN DE ACTIUNE, PROGRAME PRIORITARE\" - ETAPELE 3003-2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15068",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15068/h0176_05.pdf",
+     "sha256": "43e88c8413f9ee4a16b6b1321284ec527dca5a53ab108333d6816bd1613c8a70"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2005",
+   "path": "local/bucuresti/cgmb/2005/177",
+   "short": "HCGMB nr. 177/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2005 PRIVIND STABILIREA SI FACTURAREA CANTITATII DE APA UZATA EVACUATA DE UTILIZATORII BRANSATI LA SISTEMUL PUBLIC CENTRALIZAT DE ALIMENTARE CU APA SI DE CANALIZARE AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15069",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15069/h0177_05.pdf",
+     "sha256": "0b972827bc97f0bbbc8c384a328ab965373c9b6dc19d1a33f2a30a5d6fd99c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2005",
+   "path": "local/bucuresti/cgmb/2005/178",
+   "short": "HCGMB nr. 178/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2005 PRIVIND ATRIBUIREA DENUMIRII DE \"STRADA GANDULUI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15070",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15070/h0178_05.pdf",
+     "sha256": "d2678ca296170b7b1256151a8bb780942ee4fd01443bbf955645780be41e190e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2005",
+   "path": "local/bucuresti/cgmb/2005/179",
+   "short": "HCGMB nr. 179/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15071",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15071/h0179_05.pdf",
+     "sha256": "566a595706c65b6b4640f18eae52576a0754b01b536b09387425f7f63f016bd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2005",
+   "path": "local/bucuresti/cgmb/2005/18",
+   "short": "HCGMB nr. 18/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2005 SE APROBA CONCESIONAREA, PRIN LICITATIE PUBLICA, PENTRU O PERIOADA DE 49 ANI, A TERENULUI SITUAT LA INTERSECTIA SOS. FUNDENI/STR. MAIOR BACILA (LOT 1), SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13825",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13825/h018_05.pdf",
+     "sha256": "6e61930295e708e0c0062d8c7856bf16f05861906c712f1b6dbf095f15c5a91c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2005",
+   "path": "local/bucuresti/cgmb/2005/180",
+   "short": "HCGMB nr. 180/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15065",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15065/h0180_05.pdf",
+     "sha256": "bfc9ccb403c115f209de1b1615b1c78eeab58b2ac68325748d86cbe427a2cb6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2005",
+   "path": "local/bucuresti/cgmb/2005/181",
+   "short": "HCGMB nr. 181/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15066",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15066/h0181_05.pdf",
+     "sha256": "d1e2a7763be88a13a4106f4855c1e60d8ab8f2068e62929b492eaade9f89edb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2005",
+   "path": "local/bucuresti/cgmb/2005/182",
+   "short": "HCGMB nr. 182/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15106",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15106/h0182_05.pdf",
+     "sha256": "552ecb0e64eef9a4aba6a689c116caaddecd897540d8cf4a52ec8925e829c2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2005",
+   "path": "local/bucuresti/cgmb/2005/183",
+   "short": "HCGMB nr. 183/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15055",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15055/h0183_05.pdf",
+     "sha256": "a769c3dfda8ca8eaad8cb50c6b661136b183f75777d224e3f02410d532117522"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2005",
+   "path": "local/bucuresti/cgmb/2005/184",
+   "short": "HCGMB nr. 184/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15187",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15187/h0184_05.pdf",
+     "sha256": "ef6176f26975188fd044d5272d5ad086ea22d8eff2a63d3fae942957af30fd18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2005",
+   "path": "local/bucuresti/cgmb/2005/185",
+   "short": "HCGMB nr. 185/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15188",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15188/h0185_05.pdf",
+     "sha256": "030f474642965f09a0ad2128b17796f46b31cb842f9165279848bbad7213e208"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2005",
+   "path": "local/bucuresti/cgmb/2005/186",
+   "short": "HCGMB nr. 186/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15193",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15193/h0186_05.pdf",
+     "sha256": "9da8139873734757cd32ff6f54ee7bb75dd289fab4ee05490368aa1da607ae11"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2005",
+   "path": "local/bucuresti/cgmb/2005/187",
+   "short": "HCGMB nr. 187/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15189",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15189/h0187_05.pdf",
+     "sha256": "c0c1ea5ba95316889fd55dbfde68b62510a0367b368eba6ef1a884bbe686cfc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2005",
+   "path": "local/bucuresti/cgmb/2005/188",
+   "short": "HCGMB nr. 188/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15190",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15190/h0188_05.pdf",
+     "sha256": "7cf2bdf6e162719c263cacab90671c50ba6735a22301e4939a5490d8b772964c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2005",
+   "path": "local/bucuresti/cgmb/2005/189",
+   "short": "HCGMB nr. 189/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2005 PRIVIND APROBAREA NUMARULUI TOTAL DE POSTURI, STATUL DE FUNCTII SI REGULAMENTUL DE ORGANIZARE SI FUNCTIONARE ALE RADET ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 76/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15191",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15191/h0189_05.pdf",
+     "sha256": "4355ab7d703c897510304a4301075c371f6005b5525d7bdabd5dbb41ea39c58c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2005",
+   "path": "local/bucuresti/cgmb/2005/19",
+   "short": "HCGMB nr. 19/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2005 SE APROBA CONCESIONAREA, PRIN LICITATIE PUBLICA, A TERENULUI SITUAT IN BDUL MARESAL AVERESCU NR. 15A, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13826",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13826/h019_05.pdf",
+     "sha256": "bd735184892e99368294782d855eb1806fbe97f6be38c2b88687aa0505e1ed9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2005",
+   "path": "local/bucuresti/cgmb/2005/190",
+   "short": "HCGMB nr. 190/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15192",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15192/h0190_05.pdf",
+     "sha256": "0810948bdfe8f5af817a6bd6eca518b41563fa293896f5e7dda154dcc0e5225f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2005",
+   "path": "local/bucuresti/cgmb/2005/191",
+   "short": "HCGMB nr. 191/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2005 PRIVIND ASIGURAREA CONTINUITATII UTILITATILOR PUBLICE IN ORASELE BUFTEA SI OTOPENI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15203",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15203/h0191_05.pdf",
+     "sha256": "a8b637d3f9b0c4d8d820ca553024448931199fdb4d7598ccc3e18f5f95d02825"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2005",
+   "path": "local/bucuresti/cgmb/2005/192",
+   "short": "HCGMB nr. 192/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15204",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15204/h0192_05.pdf",
+     "sha256": "6f0a3a7a5fd0aa21b1acf331abcc5dcde24703a1e4ec4d601b88a68ef05c97cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2005",
+   "path": "local/bucuresti/cgmb/2005/193",
+   "short": "HCGMB nr. 193/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2005 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE SI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI \"REABILITAREA STATIEI DE EPURARE A APELOR UZATE BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15195",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15195/h0193_05.pdf",
+     "sha256": "c1222764e63be79be27458e50a5e9ac9b20f813a2a42698e1c2dc56339a05435"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2005",
+   "path": "local/bucuresti/cgmb/2005/194",
+   "short": "HCGMB nr. 194/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15202",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15202/h0194_05.pdf",
+     "sha256": "ea04cf70e452267f9df5d27eca5b6e906fe7065ff6234e5c31878a317d965b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2005",
+   "path": "local/bucuresti/cgmb/2005/195",
+   "short": "HCGMB nr. 195/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15200",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15200/h0195_05.pdf",
+     "sha256": "5abd70adbd5f5239d1cbfe770313206c75aa879e3e38dcae35b36f890393d304"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2005",
+   "path": "local/bucuresti/cgmb/2005/196",
+   "short": "HCGMB nr. 196/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15196",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15196/h0196_05.pdf",
+     "sha256": "430f2b208dcadf61597c393da4e351ebf2ad3557d2ea0af279e716edd8373f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2005",
+   "path": "local/bucuresti/cgmb/2005/197",
+   "short": "HCGMB nr. 197/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15198",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15198/h0197_05.pdf",
+     "sha256": "6c909e1f384b519dd025e408729d19284302d29ec9cfebdae0cc6563aec66267"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2005",
+   "path": "local/bucuresti/cgmb/2005/198",
+   "short": "HCGMB nr. 198/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15199",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15199/h0198_05.pdf",
+     "sha256": "b9adacf5400c8c6dddacfe0590a6875f0010323f1d1f5f0568cc50a456353be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2005",
+   "path": "local/bucuresti/cgmb/2005/199",
+   "short": "HCGMB nr. 199/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15201",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15201/h0199_05.pdf",
+     "sha256": "c8b2e7bf32d3543aff03a2117a41d71ac2319ffd7b3aea238b32442428ff2c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2005",
+   "path": "local/bucuresti/cgmb/2005/2",
+   "short": "HCGMB nr. 2/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2005 PRIVIND APROBAREA STATULUI DE FUNCTII AL P.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13796",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13796/h02_05.pdf",
+     "sha256": "a17ea82ea50b2eae682f1b8d2ef5d1016424a9f0c1e2f88a2d68649b69a33dcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2005",
+   "path": "local/bucuresti/cgmb/2005/20",
+   "short": "HCGMB nr. 20/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13827",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13827/h020_05.pdf",
+     "sha256": "1bf0b399345066d5c046760d589c3bc62c2dc4c43c576671a15722261e251b25"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2005",
+   "path": "local/bucuresti/cgmb/2005/200",
+   "short": "HCGMB nr. 200/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15194",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15194/h0200_05.pdf",
+     "sha256": "43b799c6d1c3303d79f34995aa15612df5771bd4c20b7ec56344a4331442ab84"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2005",
+   "path": "local/bucuresti/cgmb/2005/201",
+   "short": "HCGMB nr. 201/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2005 PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A PROPUNERII DE EMITERE A UNEI HOTARARI DE GUVERN PRIVIND TRANSMITEREA CU TITLU GRATUIT DIN PATRIMONIUL STATULUI IN PATRIMONIUL MUNICIPIULUI BUCURESTI A UNOR IMOBILE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15205",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15205/h0201_05.pdf",
+     "sha256": "1088810180fea5bdc1fa1600d6dfcc6461a6a4c9bad97fb0f6054d6c3aed5695"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2005",
+   "path": "local/bucuresti/cgmb/2005/202",
+   "short": "HCGMB nr. 202/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2005 PRIVIND TRANSMITEREA UNOR TERENURI APARTINAND DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI, IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 3 IN VEDEREA REALIZARII UNOR OBIECTIVE DE INTERES LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15206",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15206/h0202_05.pdf",
+     "sha256": "7f02ff2b3cec6a40f69e5b2a7baf7adb95851e3995412f7120232360b380b49f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2005",
+   "path": "local/bucuresti/cgmb/2005/203",
+   "short": "HCGMB nr. 203/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2005 PRIVIND PUNEREA IN APLICARE A CLAUZEI 52.18.2 CU PRIVIRE LA DECIZIA DE MEDIERE A EXPERTULUI TEHNIC DIN 26.11.2004, PRIVIND LITIGIUL DINTRE ANB SI ARBAC IN LEGATURA CU EVALUAREA NS C1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15207",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15207/h0203_05.pdf",
+     "sha256": "946844918d8c8a567b8e4148faea2d93fbbc4ce4fafdd8ac982b9adf453804b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2005",
+   "path": "local/bucuresti/cgmb/2005/204",
+   "short": "HCGMB nr. 204/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15197",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15197/h0204_05.pdf",
+     "sha256": "7538b6ffb7297dd3080c01cc326a4f9a15b1f527f9294afbeb14e934a01cbb01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2005",
+   "path": "local/bucuresti/cgmb/2005/205",
+   "short": "HCGMB nr. 205/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15208",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15208/h0205_05.pdf",
+     "sha256": "6b59469bf2cc4bd182627cfff0114391226d43a74943eee7465d1b81bffac6c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2005",
+   "path": "local/bucuresti/cgmb/2005/206",
+   "short": "HCGMB nr. 206/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15346",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15346/h0206_05.pdf",
+     "sha256": "d05b33a7375421b6521002ba735406c0965c399868ba3feaed0ed582761ac544"
     }
    ]
   },
@@ -138,6 +1818,96 @@
    ]
   },
   {
+   "slug": "hcgmb-208-2005",
+   "path": "local/bucuresti/cgmb/2005/208",
+   "short": "HCGMB nr. 208/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2005 PRIVIND CONCESIONAREA UNOR TERENURI, APARTINAND PROPRIETATII MUNICIPIULUI BUCURESTI, IN VEDEREA REALIZARII DE CONSTRUCTII CU DESTINATIE DIVERSA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15348",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15348/h0208_05.pdf",
+     "sha256": "1a8c89a5cb6e950ff0b06b915af0abd09c5ab70f309901f21158a109a13d198f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2005",
+   "path": "local/bucuresti/cgmb/2005/209",
+   "short": "HCGMB nr. 209/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2005 PRIVIND CONCESIONAREA UNOR TERENURI, APARTINAND PROPRIETATII MUNICIPIULUI BUCURESTI, IN VEDEREA REALIZARII DE LOCUINTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15349",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15349/h0209_05.pdf",
+     "sha256": "ebf032ef73b437ee02fa5fae54ff6dafaa1dd4ff6e8e7fe15e520fef1938b064"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2005",
+   "path": "local/bucuresti/cgmb/2005/21",
+   "short": "HCGMB nr. 21/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13828",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13828/h021_05.pdf",
+     "sha256": "3c912eebde31484bfe0f95dee16039516d34ab7549f06892a0c2104f1a1f1631"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2005",
+   "path": "local/bucuresti/cgmb/2005/210",
+   "short": "HCGMB nr. 210/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2005 PRIVIND CONCESIONAREA UNOR TERENURI APARTINAND PROPRIETATII MUNICIPIULUI BUCURESTI PENTRU REALIZAREA DE CONSTRUCTII CU CARACTER DEFINITIV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15350",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15350/h0210_05.pdf",
+     "sha256": "e917589bf20a5789f724f1694bd2f1f4be7a7b6423992daf6b92a1bfcbb3e60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2005",
+   "path": "local/bucuresti/cgmb/2005/211",
+   "short": "HCGMB nr. 211/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2005 PRIVIND CONCESIONAREA UNOR TERENURI, APARTINAND PROPRIETATII MUNICIPIULUI BUCURESTI, IN VEDEREA REALIZARII DE EXTINDERI LA IMOBILELE DEJA EXISTENTE (PROPRIETATI PARTICULARE)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15351",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15351/h0211_05.pdf",
+     "sha256": "6a4211a13549f66f927cb144a4f3bad6a6d6e25420c82e5eae9c07b401ab9d34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2005",
+   "path": "local/bucuresti/cgmb/2005/212",
+   "short": "HCGMB nr. 212/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15352",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15352/h0212_05.pdf",
+     "sha256": "ccc00753062953dce9b575bd32f01d15f3f1f9368ed96a7d9cc1ce7d13ab242f"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-213-2005",
    "path": "local/bucuresti/cgmb/2005/213",
    "short": "HCGMB nr. 213/2005",
@@ -149,6 +1919,36 @@
      "units": 1,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/37483/H213_05.pdf",
      "sha256": "8211b1412bc8d5cff0348b50ca979a4dd853f80549bde1a38172c5b786686985"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2005",
+   "path": "local/bucuresti/cgmb/2005/214",
+   "short": "HCGMB nr. 214/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2005 PRIVIND TRANSMITEREA CERERII CATRE MINISTERUL TRANSPORTURILOR, CONSTRUCTIILOR SI TURISMULUI DE INITIERE A UNEI HATARARI DE GUVERN CU PRIVIRE LA TRANSMITEREA IN PROPRIETATEA MUNICIPIULUI BUCURESTI SI IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 6 A UNOR TERENURI DIN CARTIERUL DE LOCUINTE \"CONSTANTIN BRANCUSI\", PRECUM SI IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 6 DE A ADMINISTRA ACEST CARTIER",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15354",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15354/h0214_05.pdf",
+     "sha256": "028a18604f0fe73df2b7723d425ead35013a1fbbb55ea5e0835665e02f03dd81"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2005",
+   "path": "local/bucuresti/cgmb/2005/215",
+   "short": "HCGMB nr. 215/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2005 PRIVIND TRANSMITEREA UNOR TERENURI APARTINAND DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI, IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 3 IN VEDEREA REALIZARII UNOR OBIECTIVE DE INTERES LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15355",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15355/h0215_05.pdf",
+     "sha256": "e212dc5bd0ad54e32432cba2a6597fb9101d544e82c006baae55670c380379e1"
     }
    ]
   },
@@ -168,6 +1968,96 @@
    ]
   },
   {
+   "slug": "hcgmb-217-2005",
+   "path": "local/bucuresti/cgmb/2005/217",
+   "short": "HCGMB nr. 217/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15470",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15470/h0217_05.pdf",
+     "sha256": "45340f3bd21f1310bd583fa00c3678fe67eb129f70cbd4b0ca3b05296e270d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2005",
+   "path": "local/bucuresti/cgmb/2005/218",
+   "short": "HCGMB nr. 218/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15471",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15471/h0218_05.pdf",
+     "sha256": "d9740ab76a360253d8374b3b5f8bdcb68f5d34604b4b5ad2ed5162825621a553"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2005",
+   "path": "local/bucuresti/cgmb/2005/219",
+   "short": "HCGMB nr. 219/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2005 PRIVIND APROBAREA COOPERARII CONSILIULUI LOCAL AL SECTORULUI 1 PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 1, SCOALA GENERALA NR. 152 URUGUAY CU ORGANIZATIA WORLD VISION INTERNATIONAL- PROGRAMUL PENTRU ROMANIA- IN VEDEREA FINANTARII SI REALIZARII IN COMUN A PROIECTULUI \"CENTRUL COMUNITAR URUGUAY\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15472",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15472/h0219_05.pdf",
+     "sha256": "f4b1998dc44bb2a9db5babda07ea492508e9c930908d8cb1c71573f52efc288a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-2005",
+   "path": "local/bucuresti/cgmb/2005/22",
+   "short": "HCGMB nr. 22/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2005 SE APROBA ORGANIGRAMA SI NUMARUL TOTAL DE POSTURI AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE - R.A.D.E.T",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13829",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13829/h022_05.pdf",
+     "sha256": "7a42a38221044d72cf7950df62d49448bf154680db2da2a29022f558f71e7ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2005",
+   "path": "local/bucuresti/cgmb/2005/220",
+   "short": "HCGMB nr. 220/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15473",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15473/h0220_05.pdf",
+     "sha256": "1b964209d094fb0c639cf44f10c0b94715e845f83c3211a1020c9842806815fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2005",
+   "path": "local/bucuresti/cgmb/2005/221",
+   "short": "HCGMB nr. 221/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15474",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15474/h0221_05.pdf",
+     "sha256": "3b5b09108549726b1bca1ef2a87b3334e1de0872ca969f3557d6c3770f16f0eb"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-222-2005",
    "path": "local/bucuresti/cgmb/2005/222",
    "short": "HCGMB nr. 222/2005",
@@ -183,6 +2073,246 @@
    ]
   },
   {
+   "slug": "hcgmb-223-2005",
+   "path": "local/bucuresti/cgmb/2005/223",
+   "short": "HCGMB nr. 223/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15476",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15476/h0223_05.pdf",
+     "sha256": "719e7bfa6a53a28a807d6e4a7b161019fbad6378906dac5932e26bb406f56f54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2005",
+   "path": "local/bucuresti/cgmb/2005/224",
+   "short": "HCGMB nr. 224/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2005 PRIVIND PROCEDURA DE EDITARE, PUBLICARE SI DIFUZARE A MONITORULUI OFICIAL AL MUNICIPIULUI BUCURESTI ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 130/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15477",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15477/h0224_05.pdf",
+     "sha256": "68bdfd0586db560c22006c422574469166b0952e5ec705914d13769f9bacc3cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2005",
+   "path": "local/bucuresti/cgmb/2005/225",
+   "short": "HCGMB nr. 225/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2005 PRIVIND CONSTITUIREA COMANDAMENTULUI ANTIEPIZOOTIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15478",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15478/h0225_05.pdf",
+     "sha256": "83b40f0b39a3342a7eade3e6c96444a797d85b452cc460b1a827e144d7e3b319"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2005",
+   "path": "local/bucuresti/cgmb/2005/226",
+   "short": "HCGMB nr. 226/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15479",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15479/h0226_05.pdf",
+     "sha256": "12a036e16214a19d6e761f14e20e34f64f16f89130db3720c7efb68d41057b25"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2005",
+   "path": "local/bucuresti/cgmb/2005/227",
+   "short": "HCGMB nr. 227/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15489",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15489/h0227_05.pdf",
+     "sha256": "85293f679bcb95fcf025f51ee104bfb73892400d15486d28e07c04e4cf4da703"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2005",
+   "path": "local/bucuresti/cgmb/2005/228",
+   "short": "HCGMB nr. 228/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15490",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15490/h0228_05.pdf",
+     "sha256": "74bd84832e6470bdff6143f8abebd1669494648356ac9b22d4ff1e0ba5210c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2005",
+   "path": "local/bucuresti/cgmb/2005/229",
+   "short": "HCGMB nr. 229/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15491",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15491/h0229_05.pdf",
+     "sha256": "5987aba2bf7cf23939a8a03d426cec6f7b6c2d68cf85fb4522157df697a0118b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2005",
+   "path": "local/bucuresti/cgmb/2005/23",
+   "short": "HCGMB nr. 23/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2005 SE APROBA ASOCIEREA, IN CONDITIILE LEGII, CONSILIULUI LOCAL AL SECTORULUI 2 CU CONSILIUL LOCAL AL ORASULUI VOLUNTARI SI CONSILIUL JUDETEAN ILFOV, IN VEDEREA REALIZARII IN COMUN A PROIECTULUI DE REABILITARE INFRASTRUCTURA URBANA - PASAJE SUPRATERANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13830",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13830/h023_05.pdf",
+     "sha256": "7c57a4f42845b3fa9653c5f3b1ef33f096deca530b712496c6a2d50eb7555abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2005",
+   "path": "local/bucuresti/cgmb/2005/230",
+   "short": "HCGMB nr. 230/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15492",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15492/h0230_05.pdf",
+     "sha256": "f4bd49bc24d44ee8e17474b96ca623773c7b50e0b7903ea6a9cf79212e2624cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2005",
+   "path": "local/bucuresti/cgmb/2005/231",
+   "short": "HCGMB nr. 231/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15493",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15493/h0231_05.pdf",
+     "sha256": "96cfbd695a9dd8c57371ef668ec35a7891b60074f89fe240973204bd8f26a3e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2005",
+   "path": "local/bucuresti/cgmb/2005/232",
+   "short": "HCGMB nr. 232/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2005 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15494",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15494/h0232_05.pdf",
+     "sha256": "1b8be56aa51f4de0459185105521928638ff508eeeaf0679057e2575a05725e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2005",
+   "path": "local/bucuresti/cgmb/2005/233",
+   "short": "HCGMB nr. 233/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15495",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15495/h0233_05.pdf",
+     "sha256": "91aa9d79fb5ddcd06a02b91cf4c2130989bc5876bfc73e39cd3ffe360f30d64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2005",
+   "path": "local/bucuresti/cgmb/2005/234",
+   "short": "HCGMB nr. 234/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2005 PRIVIND APROBAREA DEMARARII PROCEDURILOR DE PARTENERIAT PUBLIC-PRIVAT PRIVIND OBIECTIVELE DE INVESTITII \"PARCAJ SUBTERAN PIATA REVOLUTIEI-ATENEUL ROMAN\" SI \"PARCAJ SUBTERAN - GARA DE NORD\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15496",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15496/h0234_05.pdf",
+     "sha256": "7bde78c55bcd092f45564705f1e6f56bf8dc2acbf755183e87611cee1729ee78"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2005",
+   "path": "local/bucuresti/cgmb/2005/235",
+   "short": "HCGMB nr. 235/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15497",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15497/h0235_05.pdf",
+     "sha256": "8e84d53c235c4eebf8951578ff70008e3b97cb8f5ae4581ff8f7c711c35daf12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2005",
+   "path": "local/bucuresti/cgmb/2005/236",
+   "short": "HCGMB nr. 236/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15498",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15498/h0236_05.pdf",
+     "sha256": "fc8c3bcb5d27e3e46d29985f5c64cd50f7f9b8c9ede0651408f6e030826c94c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2005",
+   "path": "local/bucuresti/cgmb/2005/237",
+   "short": "HCGMB nr. 237/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2005 PRIVIND APROBAREA CONTRIBUTIEI MUNICIPIULUI BUCURESTI LA FINANTAREA CHELTUIELILOR AGENTIEI PENTRU DEZVOLTARE REGIONALA BUCURESTI - ILFOV PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15499",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15499/h0237_05.pdf",
+     "sha256": "490e632fcbf5b2801b5c27ab7593bfd573758a58eb9fb74e92a2523b6e82d366"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-238-2005",
    "path": "local/bucuresti/cgmb/2005/238",
    "short": "HCGMB nr. 238/2005",
@@ -194,6 +2324,66 @@
      "units": 4,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15500/h0238_05.pdf",
      "sha256": "1963602881ae67e1b1b36aff4f278add1b6ebd5676e4ace5675cc25b88bb98bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-2005",
+   "path": "local/bucuresti/cgmb/2005/239",
+   "short": "HCGMB nr. 239/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15501",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15501/h0239_05.pdf",
+     "sha256": "c3639a9f4c52cb029775ca5a56bb0108394276c1de680ac75f3a538a6926721a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2005",
+   "path": "local/bucuresti/cgmb/2005/24",
+   "short": "HCGMB nr. 24/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2005 SE IA ACT DE TRANSMITEREA IMOBILELOR PREVAZUTE IN ANEXA DIN PROPRIETATEA PUBLICA A STATULUI SI DIN ADMINISTRAREA MINISTERULUI ADMINISTRATIEI SI INTERNELOR, IN PROPRIETATEA PUBLICA A MUNICIPIULUI BUCURESTI ANEXA SE MODIFICA PRIN HCGMB NR. 463/2026 ANEXA SE MODIFICA PRIN HCGMB NR. 464/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13831",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13831/h024_05.pdf",
+     "sha256": "93cb7d7b29f899e8fa55534f3d0f3f9806ca4fe8536a467c3ef969b739dc7378"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-2005",
+   "path": "local/bucuresti/cgmb/2005/240",
+   "short": "HCGMB nr. 240/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15502",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15502/h0240_05.pdf",
+     "sha256": "58557d12194e37039122ca6f79557921bec65497b44b8a861b5717d3bdb73d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-2005",
+   "path": "local/bucuresti/cgmb/2005/241",
+   "short": "HCGMB nr. 241/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15503",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15503/h0241_05.pdf",
+     "sha256": "35854d49c272004971d0152449eb3cd803cb4fe04b420c3962708522e3190d9d"
     }
    ]
   },
@@ -228,6 +2418,306 @@
    ]
   },
   {
+   "slug": "hcgmb-244-2005",
+   "path": "local/bucuresti/cgmb/2005/244",
+   "short": "HCGMB nr. 244/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/2005 PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A PROPUNERII DE EMITERE A UNEI HOTARARI DE GUVERN PRIVIND TRANSMITEREA CU TITLU GRATUIT DIN PATRIMONIUL STATULUI IN PATRIMONIUL MUNICIPIULUI BUCURESTI A UNOR IMOBILE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15506",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15506/h0244_05.pdf",
+     "sha256": "483c93dfa1946376e336fa004d81a4b61d360998e25316637b0c21e9881a1b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2005",
+   "path": "local/bucuresti/cgmb/2005/245",
+   "short": "HCGMB nr. 245/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2005 PRIVIND APROBAREA CONTRACTARII UNOR IMPRUMUTURI EXTERNE DE LA BANCA EUROPEANA PENTRU RECONSTRUCTIE SI DEZVOLTARE PENTRU FINANTAREA OBIECTIVULUI \"REABILITARE STATIE DE EPURARE A APELOR UZATE BUCURESTI - FAZA 1\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15507",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15507/h0245_05.pdf",
+     "sha256": "831da8ecf92de46c27464e8933289f46573ad49a61c40046d3c2efc8f675e829"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2005",
+   "path": "local/bucuresti/cgmb/2005/246",
+   "short": "HCGMB nr. 246/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2005 PRIVIND APROBAREA PROTOCOLULUI DE PRIETENIE SI COOPERARE INTRE MUNICIPIUL BUCURESTI (ROMANIA) SI ORASUL SEUL (REPUBLICA COREEA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15722",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15722/h0246_05.pdf",
+     "sha256": "186f4e069e1a8ed438db3db1a79d0fbf920602b543e2f005721671a8c1bd2a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-2005",
+   "path": "local/bucuresti/cgmb/2005/247",
+   "short": "HCGMB nr. 247/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15723",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15723/h0247_05.pdf",
+     "sha256": "81abf4f3e49a988e499e97df69515404ead43e89926c06f572d97c7479754f24"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-2005",
+   "path": "local/bucuresti/cgmb/2005/248",
+   "short": "HCGMB nr. 248/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15724",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15724/h0248_05.pdf",
+     "sha256": "ce5e7ca54536f70e5dbf45fb302aa684105adfaba0cda95b037b09f0fbc24af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-2005",
+   "path": "local/bucuresti/cgmb/2005/249",
+   "short": "HCGMB nr. 249/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/2005 PRIVIND ACCEPTAREA DONATIEI IN VALOAREA DE 275.380 EURO PENTRU FINANTAREA STUDIULUI FINAL DE FEZABILITATE LA PROIECTUL DE REABILITARE A DRUMURILOR IN MUNICIPIUL BUCURESTI, DIN PARTEA REGATULUI SPANIEI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15726",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15726/h0249_05.pdf",
+     "sha256": "fb9a4dcb678732002c5003a6908d0f09805e5149adcedf4a91cc5dbaa0204f6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2005",
+   "path": "local/bucuresti/cgmb/2005/25",
+   "short": "HCGMB nr. 25/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13832",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13832/h025_05.pdf",
+     "sha256": "2666d1af1e30353d02f9c8266a7daa3cadc75c4d1ccc68473f0b04485135f4d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-2005",
+   "path": "local/bucuresti/cgmb/2005/250",
+   "short": "HCGMB nr. 250/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/2005 PRIVIND APROBAREA PARTICIPARII CENTRULUI DE PLANIFICARE URBANA SI METROPOLITANA BUCURESTI, CA PARTENER IN PROIECTUL MODUR, PE TEMA \"PROMOVAREA MOBILITATII URBANE DURABILE IN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15727",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15727/h0250_05.pdf",
+     "sha256": "7371b8457a24d746220fdac169edf33cec8dcfec68d1c741ea646d11d8dd8110"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-2005",
+   "path": "local/bucuresti/cgmb/2005/251",
+   "short": "HCGMB nr. 251/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15728",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15728/h0251_05.pdf",
+     "sha256": "f21392b283f16d006e882644fe0fd04c3c97fed270eb4b23d84f7c11339a36ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-2005",
+   "path": "local/bucuresti/cgmb/2005/252",
+   "short": "HCGMB nr. 252/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15729",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15729/h0252_05.pdf",
+     "sha256": "f5098ff137ed05a03bb699adfec63ff670ac3ceb4ce3148b0970a6e35d8263d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-2005",
+   "path": "local/bucuresti/cgmb/2005/253",
+   "short": "HCGMB nr. 253/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/2005 PRIVIND COMPLETAREA DOCUMENTATIEI TEHNICO-ECONOMICE A OBIECTIVULUI DE INVESTITII \"PASAJ RUTIER DENIVELAT SUPERIOR BASARAB\" SE MODIFICA PRIN HCGMB NR. 155/2010 MODIFICATA PRIN HCGMB NR. 184/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15730",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15730/h0253_05.pdf",
+     "sha256": "b6f29e3b7d8e901ab5656b7f352a506a28908a99888f01e0a2e874a725b18891"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-2005",
+   "path": "local/bucuresti/cgmb/2005/254",
+   "short": "HCGMB nr. 254/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/2005 PRIVIND ACHIZITIONAREA DE CATRE RATB A UNUI NUMAR DE 100 DE TROLEIBUZE PENTRU REABILITAREA TRANSPORTULUI URBAN DE CALATORI DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15721",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15721/h0254_05.pdf",
+     "sha256": "956646cbc34e6e76b1aac0b4cde6f7ebb03c7e8a750a400f2037208aefccf5d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-2005",
+   "path": "local/bucuresti/cgmb/2005/255",
+   "short": "HCGMB nr. 255/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15725",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15725/h0255_05.pdf",
+     "sha256": "11bce40985b532572eb090fc5da70b360d79c3416cb1b7b20fa90684765324d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-2005",
+   "path": "local/bucuresti/cgmb/2005/256",
+   "short": "HCGMB nr. 256/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/2005 PRIVIND COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 245/20.10.2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15719",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15719/h0256_05.pdf",
+     "sha256": "ee558cb8cb6642fd822439c9e1fff79fbe597ae91186e5e43382e51cb9f0a17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-2005",
+   "path": "local/bucuresti/cgmb/2005/257",
+   "short": "HCGMB nr. 257/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15731",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15731/h0257_05.pdf",
+     "sha256": "67c9893ed65f5f078a8e3303e96b231b848c4f5bd0e7455b8116960b9a67dd1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-2005",
+   "path": "local/bucuresti/cgmb/2005/258",
+   "short": "HCGMB nr. 258/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/2005 PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A PROPUNERII DE EMITERE A UNEI HOTARARI DE GUVERN PRIVIND TRANSMITEREA FARA PLATA A UNUI IMOBIL DIN DOMENIUL PUBLIC AL STATULUI SI DIN ADMINISTRAREA MINISTERULUI EDUCATIEI SI CERCETARII IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15733",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15733/h0258_05.pdf",
+     "sha256": "6382f07a92973601b1139a4295a97ce30e873eee03842f68c1cc4dfb8a01e246"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-2005",
+   "path": "local/bucuresti/cgmb/2005/259",
+   "short": "HCGMB nr. 259/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15732",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15732/h0259_05.pdf",
+     "sha256": "1cde77715ce63d26a3a123e7ea260f27872cdc48d5e5c97524440879b091e143"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2005",
+   "path": "local/bucuresti/cgmb/2005/26",
+   "short": "HCGMB nr. 26/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2005 SE APROBA ACHIZITIONAREA DE TELEFOANE MOBILE, CONFORM LEGISLATIEI IN VIGOARE PENTRU DOTAREA CONSILIERILOR GENERALI AI MUNICIPIULUI BUCURESTI, SECRETARULUI GENERAL AL MUNICIPIULUI BUCURESTI, VICEPRIMARILOR PRECUM SI A PRIMARULUI GENERAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13833",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13833/h026_05.pdf",
+     "sha256": "dee1dc80108a21ecd16092dc2ad0475615eb119b2b7d233b7a3bbf646e9076d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-2005",
+   "path": "local/bucuresti/cgmb/2005/260",
+   "short": "HCGMB nr. 260/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/2005 PRIVIND ACCESUL AUTOVEHICULELOR ISTORICE CU MASA PROPRIE MAI MARE DE 3,5 TONE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15720",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15720/h0260_05.pdf",
+     "sha256": "ca8d74e871a389310f6c901c337f31d0e4e7ade045d28bfe10813961bdf991fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-2005",
+   "path": "local/bucuresti/cgmb/2005/261",
+   "short": "HCGMB nr. 261/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/2005 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15783",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15783/h0261_05.pdf",
+     "sha256": "331599ec90444860c8c50e91393e488354cb45f4081cd0e0892ecbb261c7ec5a"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-262-2005",
    "path": "local/bucuresti/cgmb/2005/262",
    "short": "HCGMB nr. 262/2005",
@@ -239,6 +2729,381 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15784/h0262_05.pdf",
      "sha256": "5fd7ae6fbf268d2afc523ee31bebf382e03f3038e12b496313b0b82e227072d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-2005",
+   "path": "local/bucuresti/cgmb/2005/263",
+   "short": "HCGMB nr. 263/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15785",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15785/h0263_05.pdf",
+     "sha256": "fd871d7009a401fbc01bedc79ce3ce0e705ccf56fd1de4c0e8aa69efc9a2bd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-2005",
+   "path": "local/bucuresti/cgmb/2005/264",
+   "short": "HCGMB nr. 264/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15786",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15786/h0264_05.pdf",
+     "sha256": "079d81902ba386914d4d8558b94af2498bed1bfac7442578feaa586014b89b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-2005",
+   "path": "local/bucuresti/cgmb/2005/265",
+   "short": "HCGMB nr. 265/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/2005 PRIVIND INAINTAREA DE CATRE GUVERNUL ROMANIEI A PROPUNERII DE EMITERE A UNEI HOTARARI DE GUVERN PRIVIND TRANSMITEREA FARA PLATA A BAZEI SPORTIVE \"VOINICELUL\" - CONSTRUCTII SI TEREN - DIN DOMENIUL PUBLIC AL STATULUI, SI DIN ADMINISTRAREA MINISTERULUI EDUCATIEI SI CERCETARII - CLUBUL COPIILOR DIN SECTORUL 3 IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15787",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15787/h0265_05.pdf",
+     "sha256": "3d2a0cf0a82afb6087bc1d97151eabcc9ec00eab40c5b4a8584136090c10d660"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-266-2005",
+   "path": "local/bucuresti/cgmb/2005/266",
+   "short": "HCGMB nr. 266/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 266/2005 PRIVIND INSTITUIREA OBLIGATIVITATII PRODUCATORILOR DE DESEURI DIN CONSTRUCTII SI DEMOLARI DE A LE DEPOZITA SI RECICLA LA RAMPELE EXISTENTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15788",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15788/h0266_05.pdf",
+     "sha256": "d6afca08510288a8c2c43576673f2d8ff0a118ff11dc30f0ac7af67c95056393"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-2005",
+   "path": "local/bucuresti/cgmb/2005/267",
+   "short": "HCGMB nr. 267/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15789",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15789/h0267_05.pdf",
+     "sha256": "58eaa32699e0812dc6cc70b7958ea0b521b95421570b098046dae77a75cf86fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-2005",
+   "path": "local/bucuresti/cgmb/2005/268",
+   "short": "HCGMB nr. 268/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/2005 PRIVIND APROBAREA PARTICIPARII CENTRULUI DE PLANIFICARE URBANA SI METROPOLITANA BUCURESTI, CA PARTENER IN CONSORTIUL CONSTITUIT IN SCOPUL EXECUTARII PROIECTULUI \"SISTEM DE SUPRAVEGHERE AI AVERTIZARE PRIVIND IMPACTUL POLUARII AERULUI ASUPRA MEDIULUI URBAN - AIR AWARE\", IN CADRUL PROGRAMULUI LIFE III - MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15791",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15791/h0268_05.pdf",
+     "sha256": "3bbff616287ea4858e566efea607bd4e52c724ba9930a35fe77e076013f73773"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-269-2005",
+   "path": "local/bucuresti/cgmb/2005/269",
+   "short": "HCGMB nr. 269/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 269/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15792",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15792/h0269_05.pdf",
+     "sha256": "6d2e717d4e03440386d7540ebfc89265a8ada1c9c7e78440332ff25515a512e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2005",
+   "path": "local/bucuresti/cgmb/2005/27",
+   "short": "HCGMB nr. 27/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13975",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13975/h027_05.pdf",
+     "sha256": "0665d182421f5b289b7fc6602ae6515a197aaa5d50c2b6685791fca3cc646284"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-270-2005",
+   "path": "local/bucuresti/cgmb/2005/270",
+   "short": "HCGMB nr. 270/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 270/2005 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR SUPLIMENTARE ALOCATE MUNICIPIULUI BUCURESTI PRIN OUG NR. 154/2005 PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15790",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15790/h0270_05.pdf",
+     "sha256": "ddbb0d681e1ffb49fc745f3a4a0f9256aef5e3d873cdf9895957e56ec6bd769f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-271-2005",
+   "path": "local/bucuresti/cgmb/2005/271",
+   "short": "HCGMB nr. 271/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 271/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15793",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15793/h0271_05.pdf",
+     "sha256": "7147519c321e746977e3501e026ff8e51d4ec9afe22a1a8c6d3c7e30257b59d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-272-2005",
+   "path": "local/bucuresti/cgmb/2005/272",
+   "short": "HCGMB nr. 272/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 272/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15794",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15794/h0272_05.pdf",
+     "sha256": "4fff19b515ba670a1018f7a8b3f6267fd2fa903198a6a6f846a0965934a12e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-273-2005",
+   "path": "local/bucuresti/cgmb/2005/273",
+   "short": "HCGMB nr. 273/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 273/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15809",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15809/h0273_05.pdf",
+     "sha256": "89c08ac64637f94746ac79bc231e4e0a8f28dea39eb895e73d9976c45dfa0f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-274-2005",
+   "path": "local/bucuresti/cgmb/2005/274",
+   "short": "HCGMB nr. 274/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 274/2005 PRIVIND UTILIZAREA IN ANUL 2006 A UNOR SUME DIN FONDUL DE RULMENT AL BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15810",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15810/h0274_05.pdf",
+     "sha256": "0f283331a130dda4ccfa64812028e5118a66d0edc2f4fc1bcbec2d3f08cadc23"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-275-2005",
+   "path": "local/bucuresti/cgmb/2005/275",
+   "short": "HCGMB nr. 275/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 275/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15811",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15811/h0275_05.pdf",
+     "sha256": "e74c2c9b7557a9899cc1720d310585eae6a89b57001e30c614a0a1e7fd8a59e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-276-2005",
+   "path": "local/bucuresti/cgmb/2005/276",
+   "short": "HCGMB nr. 276/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 276/2005 PRIVIND APROBAREA TRECERII IN ADMINISTRAREA ADMINISTRATIEI LACURI, PARCURI SI AGREMENT BUCURESTI A CEASURILOR ANALOGICE AMPLASATE PE DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15812",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15812/h0276_05.pdf",
+     "sha256": "931f83194b65058db3438895b6c67a65531e85f6395404455d7c7c83895e67d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-277-2005",
+   "path": "local/bucuresti/cgmb/2005/277",
+   "short": "HCGMB nr. 277/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 277/2005 PRIVIND ATRIBUIREA DE DENUMIRI PENTRU ARTERELE DE CIRCULATIE SITUATE IN ZONA A DIN CARTIERUL BRANCUSI- DRUMUL TABEREI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15814",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15814/h0277_05.pdf",
+     "sha256": "ccdd5aa1e1d1a936d308261ebefddd2ab20f3928e3d9731834155c9753d64af6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-278-2005",
+   "path": "local/bucuresti/cgmb/2005/278",
+   "short": "HCGMB nr. 278/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 278/2005 PRIVIND APROBAREA UNOR PLANURI URBANISTICE ZONALE SE MODIFICA PRIN HCGMB NR. 159/2009 SE MODIFICA PRIN HCGMB NR. 172/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15815",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15815/h0278_05.pdf",
+     "sha256": "8b17f1072ff1d41167300d610e6b71142fddd982f2810b36718aac2992e64c04"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-279-2005",
+   "path": "local/bucuresti/cgmb/2005/279",
+   "short": "HCGMB nr. 279/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 279/2005 PRIVIND CONCESIONAREA, FARA LICITATIE, A UNOR TERENURI APARTINAND DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI, IN VEDEREA REALIZARII DE EXTINDERI LA IMOBILE DEJA EXISTENTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15816",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15816/h0279_05.pdf",
+     "sha256": "c5c09682f7a6fa64a30c5c4b1ae7ba59cc57cb91565ac4730068669fd7046b72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-2005",
+   "path": "local/bucuresti/cgmb/2005/28",
+   "short": "HCGMB nr. 28/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13976",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13976/h028_05.pdf",
+     "sha256": "8ee44c6b2f80417c823c38ffd7ff9706294c22994e4eb0d792732e356ca63509"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-280-2005",
+   "path": "local/bucuresti/cgmb/2005/280",
+   "short": "HCGMB nr. 280/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 280/2005 PRIVIND CONCESIONAREA UNOR TERENURI, APARTINAND DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI, IN VEDEREA REALIZARII DE CONSTRUCTII CU DESTINATIE DIVERSA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15817",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15817/h0280_05.pdf",
+     "sha256": "4846ad4948614d64e81d11f43228a207f4ffad294d3292b99da9ec98a2e6a7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-281-2005",
+   "path": "local/bucuresti/cgmb/2005/281",
+   "short": "HCGMB nr. 281/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 281/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15818",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15818/h0281_05.pdf",
+     "sha256": "fc5b527107d76f37240175a61109b458c1024329d0ed3b26075ee10593cbe86b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-282-2005",
+   "path": "local/bucuresti/cgmb/2005/282",
+   "short": "HCGMB nr. 282/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 282/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15819",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15819/h0282_05.pdf",
+     "sha256": "bebf1197414b961f2dd1745b7098cbcfa4ffd02e8f3095999aa96f00ae24e66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-283-2005",
+   "path": "local/bucuresti/cgmb/2005/283",
+   "short": "HCGMB nr. 283/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 283/2005 PRIVIND ABROGAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 215/29.09.2005 PRIVIND TRANSMITEREA UNOR TERENURI APARTINAND DOMENIULUI PRIVAT AL MUNICIPIULUI BUCURESTI, IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 3 IN VEDEREA REALIZARII UNOR OBIECTIVE DE INTERES LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15820",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15820/h0283_05.pdf",
+     "sha256": "bb809b8a17c4acdff79781e3a101a8254062b5f0902511af0bbe670c76f90943"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-284-2005",
+   "path": "local/bucuresti/cgmb/2005/284",
+   "short": "HCGMB nr. 284/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 284/2005 PENTRU APROBAREA INITIERII PROIECTULUI PRIVIND \"PROGRAMUL DE SUPRAVEGHERE AUDIO-VIDEO A UNITATILOR DE INVATAMANT PREUNIVERSITAR DE STAT DIN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15821",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15821/h0284_05.pdf",
+     "sha256": "672259693988c834dc8291f649b3cc66e6791cf25581beccfc05d4d242b690d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-285-2005",
+   "path": "local/bucuresti/cgmb/2005/285",
+   "short": "HCGMB nr. 285/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 285/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15822",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15822/h0285_05.pdf",
+     "sha256": "0f02edbcd50e6f09b39596faa9abe9e14a3378aa75540a7e483d0892c96e20f4"
     }
    ]
   },
@@ -258,6 +3123,471 @@
    ]
   },
   {
+   "slug": "hcgmb-287-2005",
+   "path": "local/bucuresti/cgmb/2005/287",
+   "short": "HCGMB nr. 287/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 287/2005 PRIVIND CUMPARAREA TERENURILOR SITUATE LA INTERSECTIA STRAZII RAZOARE CU BULEVARDUL GENIULUI, IN SUPRAFATA DE 1000 M.P",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15824",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15824/h0287_05.pdf",
+     "sha256": "e8cdc163cd4f5328c91fbf873322e2d7d4350c53655dee8847482de01d303d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-288-2005",
+   "path": "local/bucuresti/cgmb/2005/288",
+   "short": "HCGMB nr. 288/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 288/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15825",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15825/h0288_05.pdf",
+     "sha256": "7de6522bdfba457ede550951b309738fdca49bcb07fbb42e4fda58ae71e53c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-289-2005",
+   "path": "local/bucuresti/cgmb/2005/289",
+   "short": "HCGMB nr. 289/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 289/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15826",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15826/h0289_05.pdf",
+     "sha256": "038190f9f32ecf5265ebc1714ba4d215a4bf22904a6c1850a7cf9303dfd6c473"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-2005",
+   "path": "local/bucuresti/cgmb/2005/29",
+   "short": "HCGMB nr. 29/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13977",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13977/h029_05.pdf",
+     "sha256": "db3a5fb05f2c1cbe1c4b574e82a52c1cefba934d1bdc8aea373978ccea76b1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-290-2005",
+   "path": "local/bucuresti/cgmb/2005/290",
+   "short": "HCGMB nr. 290/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 290/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15827",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15827/h0290_05.pdf",
+     "sha256": "a1e6d131768c6ef100aba3fbdcd2f58b3cfde02914abae38a59541047ddb46ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-291-2005",
+   "path": "local/bucuresti/cgmb/2005/291",
+   "short": "HCGMB nr. 291/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 291/2005 PRIVIND APROBAREA STUDIULUI DE FAEZABILITATE PENTRU CONSOLIDAREA IMOBILULUI SITUAT IN BUCURESTI, SECTOR 1, INTR. VICTOR EFTIMIU NR. 9 SE MODIFICA PRIN HCGMB NR. 337/2019",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15828",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15828/h0291_05.pdf",
+     "sha256": "8e8053afef98d2a5a278b454ef37e53f7df36e71349271798bc546abeb291d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-292-2005",
+   "path": "local/bucuresti/cgmb/2005/292",
+   "short": "HCGMB nr. 292/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 292/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15829",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15829/h0292_05.pdf",
+     "sha256": "012d783bd5766fcee7bc507e75a24113257001ac0144b667e4ef5ae11148fb3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-293-2005",
+   "path": "local/bucuresti/cgmb/2005/293",
+   "short": "HCGMB nr. 293/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 293/2005 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"EXTINDERE RETELE PUBLICE DE ALIMENTARE CU APA SI CANALIZARE PE STRAZILE DE PAMANT, LOCALIZATE IN SECTORUL 3\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15830",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15830/h0293_05.pdf",
+     "sha256": "a0ce30d993d09b1550072a7fbf0f3ee38719245bb6867ed1c7b15d10cad3a900"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-294-2005",
+   "path": "local/bucuresti/cgmb/2005/294",
+   "short": "HCGMB nr. 294/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 294/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15832",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15832/h0294_05.pdf",
+     "sha256": "d4203f52220d275fd05915aa7b2e5e05cd08c2af0f6b975c93dc10ae42daa5bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-295-2005",
+   "path": "local/bucuresti/cgmb/2005/295",
+   "short": "HCGMB nr. 295/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 295/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15831",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15831/h0295_05.pdf",
+     "sha256": "c1471634f3d25a45c2a3a1fec4fcfdd25206961f4bb1b5314ee84700cda4798e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-296-2005",
+   "path": "local/bucuresti/cgmb/2005/296",
+   "short": "HCGMB nr. 296/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 296/2005 PRIVIND ATRIBUIREA DENUMIRII DE \"STRADA SFANTUL PETRU TEI\" ARTEREI DE CIRCULATIE CARE POARTA DENUMIREA DE \"STRADA LOPATARILOR\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15833",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15833/h0296_05.pdf",
+     "sha256": "63fcc036cd030f76def657c66e47acd7029041364434359bf7afd45bd30dd2a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-297-2005",
+   "path": "local/bucuresti/cgmb/2005/297",
+   "short": "HCGMB nr. 297/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 297/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/15813",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/15813/h0297_05.pdf",
+     "sha256": "85c9b7be048dda6f7c2d7796e218909dea893447c2c97d42939b7f359663e671"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2005",
+   "path": "local/bucuresti/cgmb/2005/3",
+   "short": "HCGMB nr. 3/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2005 PRIVIND PARTICIPAREA LA CURSURI DE PERFECTIONARE PROFESIONALA A CONSILIERILOR GENERALI AI MUNICIPIULUI BUCURESTI SI A PERSONALULUI DIN CADRUL APARATULUI PERMANENT DE LUCRU AL C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13797",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13797/h03_05.pdf",
+     "sha256": "c0d633919894e4d52f88b30a8c1342bcba1742be7a1f11a011c9a01938c6a28a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2005",
+   "path": "local/bucuresti/cgmb/2005/30",
+   "short": "HCGMB nr. 30/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2005 PRIVIND ALEGEREA DLUI CONSILIER GENERAL MURG CALIN CA MEMBRU IN COMISIA DE VALIDARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13978",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13978/h030_05.pdf",
+     "sha256": "2d7d6e48c99581f3492ee210bb18f6cf0ed872c24a33ef25b985a1cc469191a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2005",
+   "path": "local/bucuresti/cgmb/2005/31",
+   "short": "HCGMB nr. 31/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13979",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13979/h031_05.pdf",
+     "sha256": "865cefa278a24669bb476ba1021a2d53a86bdf940240db0c1b152023c1637ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-2005",
+   "path": "local/bucuresti/cgmb/2005/32",
+   "short": "HCGMB nr. 32/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13980",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13980/h032_05.pdf",
+     "sha256": "e2140c67a5aa70d4a960c38fa0e61b86a2f96e903b25f2fdc4c58d1bd1f9ea90"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2005",
+   "path": "local/bucuresti/cgmb/2005/33",
+   "short": "HCGMB nr. 33/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13981",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13981/h033_05.pdf",
+     "sha256": "c676da7f399f6e8f5d26ed242e1f2e35ad46d4954fd27c90d18f1acf5a83564a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2005",
+   "path": "local/bucuresti/cgmb/2005/34",
+   "short": "HCGMB nr. 34/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13982",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13982/h034_05.pdf",
+     "sha256": "af5d00cf27ce8104d96b2cacaeb9795812da5358015e3f975f00fb31800db2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2005",
+   "path": "local/bucuresti/cgmb/2005/35",
+   "short": "HCGMB nr. 35/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2005 PRIVIND PROCEDURA DE EDITARE, PUBLICARE SI DIFUZARE A MONITORULUI OFICIAL AL MUNICIPIULUI BUCURESTI ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 130/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13983",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13983/h035_05.pdf",
+     "sha256": "1e95fe878b2b4f4eec43b502619ad4f01b92e91db2e9b0655953f6361e3d381c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-2005",
+   "path": "local/bucuresti/cgmb/2005/36",
+   "short": "HCGMB nr. 36/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2005 PRIVIND ACORDAREA DE GRATUITATI ANUMITOR CATEGORII DE CALATORI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13984",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13984/h036_05.pdf",
+     "sha256": "36b811e7e6e31c39d21a52e0920f7e071c478696ebff0e58fcb97dab6b6c5bc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2005",
+   "path": "local/bucuresti/cgmb/2005/37",
+   "short": "HCGMB nr. 37/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13985",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13985/h037_05.pdf",
+     "sha256": "4f7fff4a6ce74e1a6116a83dab73f806065afb99b7717e760909c0b903a6151c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-2005",
+   "path": "local/bucuresti/cgmb/2005/38",
+   "short": "HCGMB nr. 38/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13986",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13986/h038_05.pdf",
+     "sha256": "d766bdbe5d37e86a7052f9c671eef818a0211ced28b259659f75f91192c8e278"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2005",
+   "path": "local/bucuresti/cgmb/2005/39",
+   "short": "HCGMB nr. 39/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13987",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13987/h039_05.pdf",
+     "sha256": "d22aacf231f21b614b67b3e0c377b215d9f2af38f90b01db5a4aa8867bace37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2005",
+   "path": "local/bucuresti/cgmb/2005/4",
+   "short": "HCGMB nr. 4/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2005 PRIVIND APROBAREA BUGETULUI AGENTIEI DE REGLEMENTARE A NIVELELOR DE SERVICII APA-CANAL A MUNICIPIULUI BUCURESTI (ARBAC) PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13798",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13798/h04_05.pdf",
+     "sha256": "a229e4305820fa3090002d5112f53f406cb372ab62e312914fec2ae58c0da18e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2005",
+   "path": "local/bucuresti/cgmb/2005/40",
+   "short": "HCGMB nr. 40/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2005 PRIVIND VACANTAREA UNUI POST DE CONSILIER IN C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13994",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13994/h040_05.pdf",
+     "sha256": "a7743c1d559435711e773901adff5635f015865a857ddd5b09862421ee55833a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2005",
+   "path": "local/bucuresti/cgmb/2005/41",
+   "short": "HCGMB nr. 41/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2005 PRIVIND VALIDAREA UNUI MANDAT DE CONSILIER IN C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13995",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13995/h041_05.pdf",
+     "sha256": "c43e37b5de61d91eadc8ca517db3c8d50a91007161f6fc3b3158fdcb1b3d737a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2005",
+   "path": "local/bucuresti/cgmb/2005/42",
+   "short": "HCGMB nr. 42/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13996",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13996/h042_05.pdf",
+     "sha256": "c0d6d5b44b5e7d8fd0c87c1e32d3bc64d64eeec9b4dd098ce6fec71313279565"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2005",
+   "path": "local/bucuresti/cgmb/2005/43",
+   "short": "HCGMB nr. 43/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2005 PRIVIND APROBAREA PLANULUI DE RESTRUCTURARE INTERNA A R.A.D.E.T",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13997",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13997/h043_05.pdf",
+     "sha256": "e9637ee2f9ead09a5a3cb089b7f411b9e37687e47267b37eca4c9df246d7119b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2005",
+   "path": "local/bucuresti/cgmb/2005/44",
+   "short": "HCGMB nr. 44/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2005 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESTITII \"INLOCUIREA CONTOARELOR MECANICE PE CIRCUITUL PRIMAR IN PUNCTELE TERMICE RADET\" SI INCLUDEREA ACESTUIA IN OBIECTIVUL DE INVESTITII \"REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI COFINANTAT DIN CREDITE BEI SI BDCE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14000",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14000/h044_05.pdf",
+     "sha256": "313785b917a2ed6c56ac086507e2e12c78585a59cfebd93a77fd4eacfa590aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2005",
+   "path": "local/bucuresti/cgmb/2005/45",
+   "short": "HCGMB nr. 45/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14001",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14001/h045_05.pdf",
+     "sha256": "d56cac1c740cd9573e74173f6e366bc1bce50300c1aba03ce591d3cf674aa491"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2005",
+   "path": "local/bucuresti/cgmb/2005/46",
+   "short": "HCGMB nr. 46/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14002",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14002/h046_05.pdf",
+     "sha256": "9f0f99ec8f33ce64dd3e3fd843bde137bfb87b2c7dc950fb8c381ee36a8832f7"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-47-2005",
    "path": "local/bucuresti/cgmb/2005/47",
    "short": "HCGMB nr. 47/2005",
@@ -269,6 +3599,231 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14003/h047_05.pdf",
      "sha256": "e407a0683030e3122f3d5e337885650a378250f28422f74ef4f7b5220d2d3566"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2005",
+   "path": "local/bucuresti/cgmb/2005/48",
+   "short": "HCGMB nr. 48/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2005 PRIVIND CLARIFICAREA IN JUSTITIE A STATUTULUI JURIDIC AL \"RETELELOR TELESCOPICE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14004",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14004/h048_05.pdf",
+     "sha256": "db3628c810529cd003aa6fb68d0960f5870789c07b000f69fc661dc05405650c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-2005",
+   "path": "local/bucuresti/cgmb/2005/49",
+   "short": "HCGMB nr. 49/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14007",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14007/h049_05.pdf",
+     "sha256": "d6dc8de9d19351c6d8d42079e84cc40915119558e8894ce146f5a26a5e0530c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2005",
+   "path": "local/bucuresti/cgmb/2005/5",
+   "short": "HCGMB nr. 5/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13799",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13799/h05_05.pdf",
+     "sha256": "9803ecdc2fe2e3c0c3acc43617f41e8f3af0673de2e3018e4c35efcd75e18377"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2005",
+   "path": "local/bucuresti/cgmb/2005/50",
+   "short": "HCGMB nr. 50/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14009",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14009/h050_05.pdf",
+     "sha256": "d6c37a7f3743dcaa9004551cd92d29cc349055fe7fb9a7d17fcefee3ba0b53a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2005",
+   "path": "local/bucuresti/cgmb/2005/51",
+   "short": "HCGMB nr. 51/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2005 PRIVIND INFIINTAREA POLITIEI COMUNITARE A MUNICIPIULUI BUCURESTI, SERVICIU PUBLIC CU PERSONALITATE JURIDICA IN SUBORDINEA C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14183",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14183/h051_05.pdf",
+     "sha256": "5d10e36a4b8a11b68eb831b9bae2b40fa67a6df19201326bf868da2e03749a07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2005",
+   "path": "local/bucuresti/cgmb/2005/52",
+   "short": "HCGMB nr. 52/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14184",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14184/h052_05.pdf",
+     "sha256": "690893026b54a01601302abf54ad03e71e3d66f43b5cd7d5606a762a8ceb1764"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2005",
+   "path": "local/bucuresti/cgmb/2005/53",
+   "short": "HCGMB nr. 53/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14185",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14185/h053_05.pdf",
+     "sha256": "ec2539c31a8ff3beb817657c5590b027f2663769f5e7a343350d747a979d6bb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2005",
+   "path": "local/bucuresti/cgmb/2005/54",
+   "short": "HCGMB nr. 54/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14186",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14186/h054_05.pdf",
+     "sha256": "6d8b149325f9af03e8e8d92bfa31332594b3afd9701f139d9c520c3610cb8cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2005",
+   "path": "local/bucuresti/cgmb/2005/55",
+   "short": "HCGMB nr. 55/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2005 PRIVIND INFIINTAREA DE INFO-CHIOSCURI PE TERITORIUL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14187",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14187/h055_05.pdf",
+     "sha256": "b7f1884c5823b128d18860bde70c653b7f2dff45d5c3c418f3eb6793799750b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2005",
+   "path": "local/bucuresti/cgmb/2005/56",
+   "short": "HCGMB nr. 56/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14188",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14188/h056_05.pdf",
+     "sha256": "fc8fa7bb08fee0148a970982fab45a93868760c420869b649d609d621898a220"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2005",
+   "path": "local/bucuresti/cgmb/2005/57",
+   "short": "HCGMB nr. 57/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14189",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14189/h057_05.pdf",
+     "sha256": "88761599f863acf33885eccfd8b27f58b7b38420a1b345eca8c20e6f91fc2f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2005",
+   "path": "local/bucuresti/cgmb/2005/58",
+   "short": "HCGMB nr. 58/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14190",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14190/h058_05.pdf",
+     "sha256": "5cac4773e13743311288efa67de15aa46f5c4f16d4c69e0b94fdfad6f2114044"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2005",
+   "path": "local/bucuresti/cgmb/2005/59",
+   "short": "HCGMB nr. 59/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14191",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14191/h059_05.pdf",
+     "sha256": "875fcccfdd45c0d90ad8cd048ad18cc2511c117b2f26c5e29a91e90ec5e8c57c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2005",
+   "path": "local/bucuresti/cgmb/2005/6",
+   "short": "HCGMB nr. 6/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2005 PRIVIND APROBAREA INCHEIERII ACORDULUI DE COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI (ROMANIA) SI CONSILIUL LOCAL AL PROVINCIEI DI CASERTA NAPOLI (REPUBLICA ITALIANA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13800",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13800/h06_05.pdf",
+     "sha256": "a16be1f0afe36a772aec92fa33a682b1383fea998f0d178abed8c5da8ac37d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2005",
+   "path": "local/bucuresti/cgmb/2005/60",
+   "short": "HCGMB nr. 60/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14231",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14231/h060_05.pdf",
+     "sha256": "fc19a1d5ae02a33efaf73c023e04a80ab5cf9506802fa89913bb71c264b1c30c"
     }
    ]
   },
@@ -288,6 +3843,66 @@
    ]
   },
   {
+   "slug": "hcgmb-62-2005",
+   "path": "local/bucuresti/cgmb/2005/62",
+   "short": "HCGMB nr. 62/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14233",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14233/h062_05.pdf",
+     "sha256": "c0484784f59ba6b24a4f091fe541b6336853f688f141a85fa5eff8a49d36c09d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-2005",
+   "path": "local/bucuresti/cgmb/2005/63",
+   "short": "HCGMB nr. 63/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14234",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14234/h063_05.pdf",
+     "sha256": "2b8b516c018138d04af68244c239ba537f1cba3662d34c149998d6431eccd3d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-2005",
+   "path": "local/bucuresti/cgmb/2005/64",
+   "short": "HCGMB nr. 64/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14235",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14235/h064_05.pdf",
+     "sha256": "616f2da181b24dc51db838c18dae5fe8605bdc4163551f7744966af4520c39e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-2005",
+   "path": "local/bucuresti/cgmb/2005/65",
+   "short": "HCGMB nr. 65/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14236",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14236/h065_05.pdf",
+     "sha256": "50611d5798635b4b3614f5398a8c65ec19c68277edb173626c80685120c6f147"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-66-2005",
    "path": "local/bucuresti/cgmb/2005/66",
    "short": "HCGMB nr. 66/2005",
@@ -299,6 +3914,186 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14380/h066_05.pdf",
      "sha256": "050213ed0f835b7d7376a29216a0ad27bb629f302145bd73e2ca63f520e1bd46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2005",
+   "path": "local/bucuresti/cgmb/2005/67",
+   "short": "HCGMB nr. 67/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2005 PRIVIND COMISIA DE TESTARE PROFESIONALA A PERSONALULUI CE VA FI ANGAJAT DIN RANDUL GARDIENILOR PUBLICI LA INFIINTAREA POLITIEI COMUNITARE A MUNICIPIULUI BUCURESTI, SERVICIU PUBLIC CU PERSONALITATE JURIDICA IN SUBORDINEA C.G.M.B",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14382",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14382/h067_05.pdf",
+     "sha256": "ffc47bee4064e8d0390e9a807959461ed5a36fb1bb8b0e18134afcd65a9a2c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-2005",
+   "path": "local/bucuresti/cgmb/2005/68",
+   "short": "HCGMB nr. 68/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/2005 PRIVIND MODIFICAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14381",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14381/h068_05.pdf",
+     "sha256": "e8437a0a639103d9ccc4970f462f711a2cf2291b7f10fbbf535034e6410f9938"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2005",
+   "path": "local/bucuresti/cgmb/2005/69",
+   "short": "HCGMB nr. 69/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2005 PRIVIND MODIFICAREA \"MONITORULUI OFICIAL AL MUNICIPIULUI BUCURESTI\", PRIN EXTERNALIZAREA DIRECTIEI DE REDACTARE SI EDITARE A MONITORULUI OFICIAL AL MUNICIPIULUI BUCURESTI DIN CADRUL PRIMARIEI MUNICIPIULUI BUCURESTI SE MODIFICA PRIN HCGMB NR. 7/2010 SE ABROGA PRIN HCGMB NR. 174/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14383",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14383/h069_05.pdf",
+     "sha256": "9827e799b68bbd0d5d7566d52611bb8553e554cd741414ced3bbe6bad5f222c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2005",
+   "path": "local/bucuresti/cgmb/2005/7",
+   "short": "HCGMB nr. 7/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13801",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13801/h07_05.pdf",
+     "sha256": "5721aaa6e592acb3803ba0728f5ce611a2e1410a052043012f7d86dd9af12cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2005",
+   "path": "local/bucuresti/cgmb/2005/70",
+   "short": "HCGMB nr. 70/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2005 PRIVIND VACANTAREA UNUI POST DE CONSILIER IN CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14384",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14384/h070_05.pdf",
+     "sha256": "158d6f535a1ab35f7bd61586d6f434b96aad663550176b154280144821302677"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2005",
+   "path": "local/bucuresti/cgmb/2005/71",
+   "short": "HCGMB nr. 71/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14385",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14385/h071_05.pdf",
+     "sha256": "ad50fe3188e3eee540d4c04352182d2b82135083e1815bbf1938781aabe57359"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2005",
+   "path": "local/bucuresti/cgmb/2005/72",
+   "short": "HCGMB nr. 72/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2005 PRIVIND VALIDAREA UNUI MANDAT DE CONSILIER IN CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14386",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14386/h072_05.pdf",
+     "sha256": "08e0948e27b217a94655820b9b012401564fc0cad426d254ee44f75a39f35e49"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2005",
+   "path": "local/bucuresti/cgmb/2005/73",
+   "short": "HCGMB nr. 73/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2005 PRIVIND INFIINTAREA COMITETULUI TEHNIC PENTRU DESCENTRALIZARE AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14538",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14538/h073_05.pdf",
+     "sha256": "336475e415cd049a0ff5493151b16316e7db333445708d6298c0834c3f41c9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2005",
+   "path": "local/bucuresti/cgmb/2005/74",
+   "short": "HCGMB nr. 74/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14539",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14539/h074_05.pdf",
+     "sha256": "e39dde42672891576d497f2332671c9d43b44c14b1ce190765424508e55afb92"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2005",
+   "path": "local/bucuresti/cgmb/2005/75",
+   "short": "HCGMB nr. 75/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2005 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL DIRECTIEI GENERALE DE EVIDENTA A PERSOANELOR A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14540",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14540/h075_05.pdf",
+     "sha256": "fa9e5b6c3736c431f208d0fa1d6702c3a92f07ba171a4fc658afb50d82575f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2005",
+   "path": "local/bucuresti/cgmb/2005/76",
+   "short": "HCGMB nr. 76/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2005 PRIVIND DELIMITAREA DE CATRE CONSILIILE LOCALE ALE SECTOARELOR 1-6 A TERENURILOR PE CARE SE AFLA AMPLASATE PIETELE AGROALIMENTARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14541",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14541/h076_05.pdf",
+     "sha256": "8a899d78ca9500f17c82ff11114aa23bb8276aad19f1e491672ac42b3d96353c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2005",
+   "path": "local/bucuresti/cgmb/2005/77",
+   "short": "HCGMB nr. 77/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2005 PRIVIND APROBAREA DERULARII PROIECTULUI \"NEVOI - RESURSE IN DOMENIUL ASISTENTEI SOCIALE LA NIVELUL MUNICIPIULUI BUCURESTI\" DE CATRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14542",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14542/h077_05.pdf",
+     "sha256": "45fa7515a025d8f97ec931c37fa35ea487c7b156c91d51d39e3ca69e5118dba8"
     }
    ]
   },
@@ -333,6 +4128,171 @@
    ]
   },
   {
+   "slug": "hcgmb-8-2005",
+   "path": "local/bucuresti/cgmb/2005/8",
+   "short": "HCGMB nr. 8/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13802",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13802/h08_05.pdf",
+     "sha256": "279d3312027c0144edfd59b988ff5bc3485796133c01969b7f57021d113a84f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2005",
+   "path": "local/bucuresti/cgmb/2005/80",
+   "short": "HCGMB nr. 80/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2005 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI ETAPEI I A PROIECTULUI \"REABILITAREA INFRASTRUCTURII EDUCATIONALE IN BUCURESTI\" - 45 DE UNITATI DE IVATAMANT PREUNIVERSITAR DE STAT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14545",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14545/h080_05.pdf",
+     "sha256": "b2d68e3657aa8d37111955e767135ef88e72f3b6615332954e9b8bc363986b95"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2005",
+   "path": "local/bucuresti/cgmb/2005/81",
+   "short": "HCGMB nr. 81/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2005 PRIVIND ORGANIZAREA EVENIMENTULUI SPORTIV INTERNATIONAL CHALLANGE DAY",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14546",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14546/h081_05.pdf",
+     "sha256": "56756b99c4fb9d5b01ca306572aa2644b0e7dcb09c9e539209a4bd5263a5bb27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-2005",
+   "path": "local/bucuresti/cgmb/2005/82",
+   "short": "HCGMB nr. 82/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/2005 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU REALIZAREA INVESTITIEI \"EXTINDERE RETELE PUBLICE DE ALIMENTARE CU APA SI CANALIZARE PE STRAZILE DIN ANEXA, LOCALIZARE IN SECTORUL 3\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14547",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14547/h082_05.pdf",
+     "sha256": "cfdfdcd23d8fe941e3959dfda98b639edcb211dbd2904e6b3edd465e1ce1be8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2005",
+   "path": "local/bucuresti/cgmb/2005/83",
+   "short": "HCGMB nr. 83/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14548",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14548/h083_05.pdf",
+     "sha256": "67a8c656d2a64711e42aaca9eff60d770ec5512d2aa402d6b85e1fad6b2c327e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-2005",
+   "path": "local/bucuresti/cgmb/2005/84",
+   "short": "HCGMB nr. 84/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14549",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14549/h084_05.pdf",
+     "sha256": "ee0d97a8ed9572bd53463594118ca38701727cc08e17cb3662edfdce2f12ffa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-2005",
+   "path": "local/bucuresti/cgmb/2005/85",
+   "short": "HCGMB nr. 85/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2005 PRIVIND TRANSMITEREA UNUI TEREN APARTINAND DOMENIULUI PUBLIC AL MUNICIPIULUI BUCURESTI, IN CONFORMITATE CU HGR NR.190/2005, IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14550",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14550/h085_05.pdf",
+     "sha256": "f1e6ec518e46ecd86d988e301affc7b6b12f809f0fc68e64dc04ee932215c31f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2005",
+   "path": "local/bucuresti/cgmb/2005/86",
+   "short": "HCGMB nr. 86/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14551",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14551/h086_05.pdf",
+     "sha256": "4db41275771c68aa64be3c53b4cb0a8dc31df9b67f81e65668b60aa41c5d6f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2005",
+   "path": "local/bucuresti/cgmb/2005/87",
+   "short": "HCGMB nr. 87/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2005 PRIVIND APROBAREA ADERARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PRIN CENTRUL DE PLANIFICARE URBANA SI METROPOLITANA BUCURESTI, LA ASOCIATIA \"RETEAUA ZONELOR SI REGIUNILOR METROPOLITANE EUROPENE (METREX)\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14552",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14552/h087_05.pdf",
+     "sha256": "b348cf1cb5a29e74e948ad3d9e97e88003e489df090fdbe7529f9e8765fbb2c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2005",
+   "path": "local/bucuresti/cgmb/2005/88",
+   "short": "HCGMB nr. 88/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2005 PRIVIND RECTIFICAREA BUGETULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14634",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14634/h088_05.pdf",
+     "sha256": "8bc52def6ab8e0d6dffc1bcc69922deccdb5236c74591c922ffdaeac91f12b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2005",
+   "path": "local/bucuresti/cgmb/2005/89",
+   "short": "HCGMB nr. 89/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2005 PRIVIND APROBAREA SITUATIILOR FINANCIARE ALE CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE ANUL 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14635",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14635/h089_05.pdf",
+     "sha256": "335a8dc1e6d25196c8b2536111e9e0664eab8ca49bb512d6a4f651f1e7680e25"
+    }
+   ]
+  },
+  {
    "slug": "hcgmb-9-2005",
    "path": "local/bucuresti/cgmb/2005/9",
    "short": "HCGMB nr. 9/2005",
@@ -344,6 +4304,156 @@
      "units": 6,
      "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/13803/h09_05.pdf",
      "sha256": "caa9d8ba69879dce52d35d921ce905f7c4e5f112a571f8726674e645e4fcba9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2005",
+   "path": "local/bucuresti/cgmb/2005/90",
+   "short": "HCGMB nr. 90/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2005 PRIVIND STABILIREA MODELULUI LEGITIMATIEI CONSILIERILOR GENERALI SI A PRIMARULUI GENERAL AL MUNICIPIULUI BUCURESTI, PRECUM SI A MODELULUI SEMNULUI DISTINCTIV AL CALITATII ACESTORA. ABROGATA PRIN HCGMB NR. 299/2024",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14636",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14636/h090_05.pdf",
+     "sha256": "e4515286637dda3ff32869a5ea100dabae714ca8dcc8a834df064cdc1dde2c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2005",
+   "path": "local/bucuresti/cgmb/2005/91",
+   "short": "HCGMB nr. 91/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2005 PRIVIND APROBAREA COOPERARII INTRE CONSILIUL LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI, PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SECTOR 1 SI ASOCIATIA \"ALERNATIVA 2003\" IN VEDEREA FINALIZARII SI REALIZARII IN COMUN A PROIECTULUI \"CENTRUL DE ZI ALTERNATIVA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14637",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14637/h091_05.pdf",
+     "sha256": "6e3c771615a96fe6682ba0b92c1cf7f5c8fdcd71c3701c18f3977dd45ec75a17"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2005",
+   "path": "local/bucuresti/cgmb/2005/92",
+   "short": "HCGMB nr. 92/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2005 PRIVIND APROBAREA COOPERARII INTRE CONSILIUL LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SECTOR 1 SI ASOCIATIA \"SFANTA ANA\", IN VEDEREA FINALIZARII SI REALIZARII IN COMUN A PROIECTULUI \"CENTRUL DE ZI ANA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14638",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14638/h092_05.pdf",
+     "sha256": "519c1d07a30882088d45d9a68674325370247a69d0e42c2782eea56b65080527"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2005",
+   "path": "local/bucuresti/cgmb/2005/93",
+   "short": "HCGMB nr. 93/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2005 PRIVIND APROBAREA INCHEIERII ACORDULUI DE COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI (ROMANIA) SI CONSILIUL LOCAL AL MUNICIPIULUI ROMA II (REPUBLICA ITALIANA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14639",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14639/h093_05.pdf",
+     "sha256": "6ab4def0cee403edf70f03f57fa28ff27ff4b77037fd94e373e40294bdf6b779"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2005",
+   "path": "local/bucuresti/cgmb/2005/94",
+   "short": "HCGMB nr. 94/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2005 PRIVIND APROBAREA INCHEIERII ACORDULUI DE COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI (ROMANIA) SI PRIMARIA IX DIN ROMA (REPUBLICA ITALIANA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14640",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14640/h094_05.pdf",
+     "sha256": "9cbcc4a9bb3d67127860b80b25f9f4d661628e63edcdc6b101896c914fc3873e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2005",
+   "path": "local/bucuresti/cgmb/2005/95",
+   "short": "HCGMB nr. 95/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14641",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14641/h095_05.pdf",
+     "sha256": "7e188da8617e4cc8cd693fe8a53661d7ad8447d7cc703c30507ad58d3400d66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2005",
+   "path": "local/bucuresti/cgmb/2005/96",
+   "short": "HCGMB nr. 96/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14642",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14642/h096_05.pdf",
+     "sha256": "3d4bb33cad103e80530e94187c130e2f47d636c9669a5048d718515a495cec0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2005",
+   "path": "local/bucuresti/cgmb/2005/97",
+   "short": "HCGMB nr. 97/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2005 PRIVIND APROBAREA STUDIULUI DE PREFEZABILITATE PENTRYU BLOCUL 11 SCARILE 1 SI 2 CU LUCRARILE EXTERIOARE AFERENTE DIN ANSAMBLUL DE LOCUINTE DESISULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14643",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14643/h097_05.pdf",
+     "sha256": "fc311b85646d97d224fa4b05907b8784cbca741a21c4d156f6bff13cf4791d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2005",
+   "path": "local/bucuresti/cgmb/2005/98",
+   "short": "HCGMB nr. 98/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2005 PRIVIND APROBAREA STUDIULUI DE PREFEZABILITATE PENTRU BLOCUL 10 SCARILE 3 SI 4 CU LUCRARILE EXTERIOARE AFERENTE DIN ANSAMBLUL DE LOCUINTE DESISULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14644",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14644/h098_05.pdf",
+     "sha256": "43c74a6ea65198ccedeb934d230e5d3884fa83f46766ac92facdccb055dc773b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2005",
+   "path": "local/bucuresti/cgmb/2005/99",
+   "short": "HCGMB nr. 99/2005",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2005 PRIVIND APROBAREA STUDIULUI DE PREFEXABILITATE PENTRU BLOCUL V34B CU LUCRARILE EXTERIOARE AFERENTE DIN ANSAMBLUL DE LOCUINTE VITAN-DUDESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/14645",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2005/14645/h099_05.pdf",
+     "sha256": "cb34b3c46037b833944f16b6469f8d3809a9fbc2cfd487f193938db5b93ac74f"
     }
    ]
   }

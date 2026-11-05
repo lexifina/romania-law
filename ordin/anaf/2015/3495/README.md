@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3495/2015 · 1 versions, from 2015-12-10 (latest in force: 2015-12-10) · <https://legislatie.just.ro/Public/DetaliiDocument/173766>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────────────────────────────────────────────────────────────────────────┐ │ I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-anaf-3495-2015` (tags `ordin-anaf-3495-2015/<day>`; `python tools
 - Ordin anaf nr. 3495/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3495/2015: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului (014) "Notificare privind modificarea anului fiscal" Formularul (014) "Notificare privind modificarea anului fiscal" se utilizează de către contribuabili pe) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 173766 of the official web service.
 - Ordin anaf nr. 3495/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de utilizare și de arhivare a formularului (014) "Notificare privind modificarea anului fiscal" 1. Denumire: "Notificare privind modificarea anului fiscal" (014)) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 173766 of the official web service.
-- Ordin anaf nr. 3495/2015: Anexa nr. 1 (1 ┌──────────────────────────────────────────────────────────────────────────────┐ │ I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3495/2015: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

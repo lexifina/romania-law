@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2661/2017 · 1 versions, from 2017-09-19 (latest in force: 2017-09-19) · <https://legislatie.just.ro/Public/DetaliiDocument/193263>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (la normele tehnice Biroul Vamal de Supraveghere......................... DECIZIE DE APROBARE A EVIDENȚEI OPERATIVE ...): its text could not yet be split into provisions without losing or adding words.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (la normele tehnice Biroul Vamal de Supraveghere......................... DECIZIE DE APROBARE A EVIDENȚEI OPERATIVE ...): its text could not yet be split into provisions without losing or adding words; text printed after its signature (209 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,3 +17,4 @@ Act id: `ordin-anaf-2661-2017` (tags `ordin-anaf-2661-2017/<day>`; `python tools
 - Ordin anaf nr. 2661/2017: the first version is the order as published in Monitorul Oficial nr. 750 of 19 September 2017 (document 193263 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2661/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2661/2017: Anexa nr. 1 (la normele tehnice Biroul Vamal de Supraveghere......................... DECIZIE DE APROBARE A EVIDENȚEI OPERATIVE ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+- Ordin anaf nr. 2661/2017: the official text prints 209 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

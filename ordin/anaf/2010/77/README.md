@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 77/2010 · 1 versions, from 2010-01-29 (latest in force: 2010-01-29) · <https://legislatie.just.ro/Public/DetaliiDocument/115692>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌─────┬───────────────────────────────────────────────────────────┬─────┐ │ │ │SIGLA│ │ 300 │ DECONT │ANAF │ │ │ DE TAXĂ PE VALOAREA ADĂUGATĂ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,5 +27,5 @@ Act id: `ordin-anaf-77-2010` (tags `ordin-anaf-77-2010/<day>`; `python tools/on.
 - Ordin anaf nr. 77/2010: the first version is the order as published in Monitorul Oficial nr. 67 of 29 January 2010 (document 115692 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 77/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 77/2010: Anexa nr. 2 (3 CARACTERISTICILE DE TIPĂRIRE, MODUL DE DIFUZARE, DE UTILIZARE ȘI DE PĂSTRARE ALE FORMULARULUI (300) "DECONT DE TAXĂ PE VALOAREA ADĂUGATĂ" Denumirea formularului: Decont de taxă pe valoarea adăugată) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 115692 of the official web service.
-- Ordin anaf nr. 77/2010: Anexa nr. 1 (1 ┌─────┬───────────────────────────────────────────────────────────┬─────┐ │ │ │SIGLA│ │ 300 │ DECONT │ANAF │ │ │ DE TAXĂ PE VALOAREA ADĂUGATĂ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 77/2010: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 77/2010: the publisher's notes run into its text (*) Prin jurnale de vânzări și jurnale de cumpărări se înțelege orice jurnale, registre, evidențe sau alte documente simi; **) Pentru a evita orice neconcordanță între livrările intracomunitare de bunuri, scutite de TVA, care se includ în deco) are not text.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1706/2008 · 1 versions, from 2008-07-15 (latest in force: 2008-07-15) · <https://legislatie.just.ro/Public/DetaliiDocument/95658>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (2739 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,9 +34,10 @@ Act id: `ordin-finante-1706-2008` (tags `ordin-finante-1706-2008/<day>`; `python
 - Ordin finante nr. 1706/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 1706/2008: the first version is the order as published in Monitorul Oficial nr. 533 of 15 July 2008 (document 95658 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 1706/2008: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 1706/2008: a joint order of Ministerul Economiei și Finanțelor nr. 1.706 din 30 May 2008; Ministerul Justiției nr. 1.889/C din 8 July 2008. It is published once, here, under the issuer its EMITENT block lists first; `ordin-justitie-1889-c-2008` name it too (data/paths.json aliases).
 - Ordin finante nr. 1706/2008: Anexa nr. 1 (3 PROCEDURĂ privind declararea și plata impozitului pe veniturile din transferul proprietăților imobiliare din patrimoniul personal 1. Procedura privind declararea și plata impozitului pe veniturile d) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 95658 of the official web service.
 - Ordin finante nr. 1706/2008: Anexa nr. 2 (4 PROCEDURĂ de emitere a Deciziei de impunere privind venitul din transferul proprietăților imobiliare din patrimoniul personal, cod 14.13.02.13/10 1. În situația în care transferul dreptului de propr) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 95658 of the official web service.
 - Ordin finante nr. 1706/2008: Anexa nr. 3 (5 PROCEDURĂ de rectificare a impozitului pe veniturile din transferul proprietăților imobiliare din patrimoniul personal 1. În cazul în care, după autentificarea actului sau întocmirea încheierii de f) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 95658 of the official web service.
 - Ordin finante nr. 1706/2008: Anexa nr. 4 (6 INSTRUCȚIUNI pentru transmiterea în format electronic a Declarației informative privind impozitul pe veniturile din transferul proprietăților imobiliare din patrimoniul personal, cod 14.13.01.13/10i) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 95658 of the official web service.
 - Ordin finante nr. 1706/2008: Anexa nr. 5 (7 Caracteristici de tipărire, modul de difuzare, de utilizare și de păstrare ale formularelor prevăzute la art. 1 din ordin I. Formularul 208 "Declarație informativă privind impozitul pe veniturile di) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 95658 of the official web service.
+- Ordin finante nr. 1706/2008: the official text prints 2739 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
+- Ordin finante nr. 1706/2008: a joint order of Ministerul Economiei și Finanțelor nr. 1.706 din 30 May 2008; Ministerul Justiției nr. 1.889/C din 8 July 2008. It is published once, here, under the issuer its EMITENT block lists first; `ordin-justitie-1889-c-2008` name it too (data/paths.json aliases).

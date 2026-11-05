@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1964/2017 · 1 versions, from 2017-07-17 (latest in force: 2017-07-17) · <https://legislatie.just.ro/Public/DetaliiDocument/191286>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (a la Decizia de impunere anuală ┌───────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │CNP/NIF│ │ │ │ │ │ │ │ │ │ │ │ │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (b la Decizia de impunere anuală ┌───────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │CNP/NIF│ │ │ │ │ │ │ │ │ │ │ │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (a la Decizia de impunere anuală): it is a table that the official text holds only flattened; Anexa nr. 3 (b la Decizia de impunere anuală): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,5 +28,5 @@ Act id: `ordin-anaf-1964-2017` (tags `ordin-anaf-1964-2017/<day>`; `python tools
 - Ordin anaf nr. 1964/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1964/2017: Anexa nr. 1 (Anexa nr. 1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 191286 of the official web service.
 - Ordin anaf nr. 1964/2017: Anexa nr. 4 (Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor A. Denumire: „Decizie de impunere anuală pentru stabilirea contribuției de asigurări sociale de sănătate și) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 191286 of the official web service.
-- Ordin anaf nr. 1964/2017: Anexa nr. 2 (a la Decizia de impunere anuală ┌───────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │CNP/NIF│ │ │ │ │ │ │ │ │ │ │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 1964/2017: Anexa nr. 3 (b la Decizia de impunere anuală ┌───────┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐ │CNP/NIF│ │ │ │ │ │ │ │ │ │ │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1964/2017: Anexa nr. 2 (a la Decizia de impunere anuală) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1964/2017: Anexa nr. 3 (b la Decizia de impunere anuală) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

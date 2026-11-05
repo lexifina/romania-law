@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1423/1999 · 1 versions, from 2000-01-01 (latest in force: 2000-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/20146>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────┐ ┌───────────────────────┐ │ ROMÂNIA │ │Înregistrat la unitatea│ │ ┌────┐ │ DECLARAȚIE │ fiscală │ │ │ MF │ │ PRIVIND VENITURILE │Nr. ____ Data ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-finante-1423-1999` (tags `ordin-finante-1423-1999/<day>`; `python
 - Ordin finante nr. 1423/1999: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1423/1999: Anexa nr. 2 (2 INSTRUCȚIUNI DE COMPLETARE A FORMULARELOR) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 20146 of the official web service.
 - Ordin finante nr. 1423/1999: Anexa nr. 3 (3 CARACTERISTICI DE TIPĂRIRE 1. Declarație privind veniturile estimate din cedarea folosinței bunurilor, cod 14.13.01.13/3p 1. Denumire: Declarație privind veniturile estimate din cedarea folosinței b) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 20146 of the official web service.
-- Ordin finante nr. 1423/1999: Anexa nr. 1 (1 ┌──────────┐ ┌───────────────────────┐ │ ROMÂNIA │ │Înregistrat la unitatea│ │ ┌────┐ │ DECLARAȚIE │ fiscală │ │ │ MF │ │ PRIVIND VENITURILE │Nr. ____ Data ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1423/1999: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

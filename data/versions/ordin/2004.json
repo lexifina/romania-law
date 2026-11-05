@@ -3,6 +3,21 @@
  "shard": "ordin/2004",
  "acts": [
   {
+   "slug": "ordin-agricultura-173-2004",
+   "path": "ordin/agricultura/2004/173",
+   "short": "Ordin agricultura nr. 173/2004",
+   "title": "Ordinul nr. 173/2004 privind definirea și caracterizarea noțiunii de spațiu rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51148",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51148",
+     "sha256": "7abf5bbc9a88778972e61642d5fd14e8fc9ad74a5fc346688a24e1c78c41e21c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-206-2004",
    "path": "ordin/agricultura/2004/206",
    "short": "Ordin agricultura nr. 206/2004",
@@ -14,6 +29,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51034",
      "sha256": "65672e378588b2a1985fd983e236879e465614f6aeafce1b537404406d2add53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-229-2004",
+   "path": "ordin/agricultura/2004/229",
+   "short": "Ordin agricultura nr. 229/2004",
+   "title": "Ordinul nr. 229/2004 privind înființarea Centrului de monitorizare prin satelit a navelor de pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51587",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51587",
+     "sha256": "433eaeb2a6538e4028518883262e3aedf388008e9728757e78b47008cbd3fc06"
     }
    ]
   },
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-545-2004",
+   "path": "ordin/agricultura/2004/545",
+   "short": "Ordin agricultura nr. 545/2004",
+   "title": "Ordinul nr. 545/2004 privind aprobarea Regulamentului de autorizare a administrației piețelor, târgurilor, oboarelor, a burselor de mărfuri și a altora asemenea, pentru comercializarea materialelor lemnoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56123",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56123",
+     "sha256": "fcacd35f9411b442656e3f1737bff6ecc7cac706be0f7f5d8294021101b0dae2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-549-2004",
    "path": "ordin/agricultura/2004/549",
    "short": "Ordin agricultura nr. 549/2004",
@@ -164,6 +209,21 @@
      "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49429",
      "sha256": "ffde3d75e27faf46a261bd150975e9321ee1d11fd52c220578601550348c3e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-65-2004",
+   "path": "ordin/agricultura/2004/65",
+   "short": "Ordin agricultura nr. 65/2004",
+   "title": "Ordinul nr. 65/2004 pentru aprobarea Normelor metodologice de întocmire a cadastrului amenajărilor de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50303",
+   "versions": [
+    {
+     "from": "2004-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50303",
+     "sha256": "c97ffd5d6b21a30d2dede1749ee8f452ea631d9b627ec6680599977819cb82df"
     }
    ]
   },
@@ -1683,6 +1743,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-30-2004",
+   "path": "ordin/ansvsa/2004/30",
+   "short": "Ordin ansvsa nr. 30/2004",
+   "title": "Ordinul nr. 30/2004 pentru aprobarea posturilor de inspecție la frontieră stabilite pentru importul, exportul și tranzitul tipurilor de mărfuri supuse controalelor veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55699",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55699",
+     "sha256": "03a68dfec55493d865d5d7e95eb41662382214dcecec1c076084d33b294cfac9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-39-2004",
    "path": "ordin/ansvsa/2004/39",
    "short": "Ordin ansvsa nr. 39/2004",
@@ -2718,6 +2793,21 @@
    ]
   },
   {
+   "slug": "ordin-copii-123-2004",
+   "path": "ordin/copii/2004/123",
+   "short": "Ordin copii nr. 123/2004",
+   "title": "Ordinul nr. 123/2004 privind aprobarea Regulamentului de organizare și funcționare a Subgrupului pentru coordonarea și evaluarea activității de prevenire și de combatere a traficului de copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57356",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57356",
+     "sha256": "4f4c9f8e93e19eb6ba6cabd07621a73a3b7ad053ff74554d2f08263e7d803c7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-3101-2004",
    "path": "ordin/csa/2004/3101",
    "short": "Ordin csa nr. 3101/2004",
@@ -2984,6 +3074,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57617",
      "sha256": "c708d87e4cc7f30b790a1d8bb0a1440384708b53b57da2e54010ba17a93f7ae4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-786-2004",
+   "path": "ordin/economie/2004/786",
+   "short": "Ordin economie nr. 786/2004",
+   "title": "Ordinul nr. 786/2004 pentru modificarea Ordinului ministrului industriei și resurselor și al ministrului administrației publice nr. 265/503/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57815",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57815",
+     "sha256": "397e199c0375550d94ecdde762f35ee2ec4efc352e3b3bb30816f057000db580"
     }
    ]
   },
@@ -4743,6 +4848,66 @@
    ]
   },
   {
+   "slug": "ordin-interne-103-2004",
+   "path": "ordin/interne/2004/103",
+   "short": "Ordin interne nr. 103/2004",
+   "title": "Ordinul nr. 103/2004 pentru modificarea Instrucțiunilor ministrului administrației și internelor nr. 525/2003 privind organizarea și desfășurarea examenului pentru obținerea permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49277",
+   "versions": [
+    {
+     "from": "2004-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49277",
+     "sha256": "d7013f7e5868df2f569aa0365dabd268b139970bf7706490c513f6f4de18dd60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-234-2004",
+   "path": "ordin/interne/2004/234",
+   "short": "Ordin interne nr. 234/2004",
+   "title": "Ordinul nr. 234/2004 pentru aprobarea Normelor metodologice privind vânzarea și folosirea în public de către persoanele fizice a obiectelor artizanale și de distracție fabricate sau confecționate pe bază de amestecuri pirotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52472",
+   "versions": [
+    {
+     "from": "2004-06-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52472",
+     "sha256": "12ebc356c8d6abee0e5569e36ec5379851dd017de444466a17d3ef4bc132da58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-251-2004",
+   "path": "ordin/interne/2004/251",
+   "short": "Ordin interne nr. 251/2004",
+   "title": "Ordinul nr. 251/2004 pentru aprobarea Normelor tehnice privind deținerea și comercializarea detectoarelor de metale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54141",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54141",
+     "sha256": "4283c9ba34b3c93408626483b22d3d7b7cce0f3fec1b68b62c75dcec2a3f8cd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-252-2004",
+   "path": "ordin/interne/2004/252",
+   "short": "Ordin interne nr. 252/2004",
+   "title": "Ordinul nr. 252/2004 pentru aprobarea nivelului studiilor și a condițiilor de ocupare a funcțiilor specifice din serviciile publice de salvamont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52593",
+   "versions": [
+    {
+     "from": "2004-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52593",
+     "sha256": "2606a035f121a8df5cf0fff4f9c01c246642de4830a45e50badc6fd206a2ca30"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-277-2004",
    "path": "ordin/interne/2004/277",
    "short": "Ordin interne nr. 277/2004",
@@ -4758,6 +4923,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-295-2004",
+   "path": "ordin/interne/2004/295",
+   "short": "Ordin interne nr. 295/2004",
+   "title": "Ordinul nr. 295/2004 privind modificarea pct. 3 din anexa la Ordinul ministrului de stat, ministrul administrației și internelor, și al ministrului transporturilor, construcțiilor și turismului nr. 252/877/2004 pentru aprobarea nivelului studiilor și a condițiilor de ocupare a funcțiilor specifice din serviciile publice de salvamont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53995",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53995",
+     "sha256": "66a4df1dce4a70640760f79429203c6c10fb9866b2c96e2da05bda1d3d0719b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-304-2004",
    "path": "ordin/interne/2004/304",
    "short": "Ordin interne nr. 304/2004",
@@ -4769,6 +4949,141 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54957",
      "sha256": "da8b3ea3bd0a3956d81c7044b55cd3e7f163774793362c59168dc7cb0f21cce8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-321-2004",
+   "path": "ordin/interne/2004/321",
+   "short": "Ordin interne nr. 321/2004",
+   "title": "Ordinul nr. 321/2004 pentru aprobarea delimitării municipiilor, orașelor și comunelor din zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54573",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54573",
+     "sha256": "6e97b77ccb7e15cdb110cec819af9bb49978601a29a8a1b48147e6e819649b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-323-2004",
+   "path": "ordin/interne/2004/323",
+   "short": "Ordin interne nr. 323/2004",
+   "title": "Ordinul nr. 323/2004 privind completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere, aprobate prin Ordinul ministrului administrației publice nr. 275/2003, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54317",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54317",
+     "sha256": "ef208619da64c7d6d66e93a7dc72dc89dfdf9ab98f8e8aeddd53dd1fc766ee08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-349-2004",
+   "path": "ordin/interne/2004/349",
+   "short": "Ordin interne nr. 349/2004",
+   "title": "Ordinul nr. 349/2004 pentru abrogarea și modificarea unor acte normative interne care fac referire la standardele naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55973",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55973",
+     "sha256": "cd77168d79d6e139031ce037b5a950a334a48d7d14d036dc8b254cc98044b21e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-370-2004",
+   "path": "ordin/interne/2004/370",
+   "short": "Ordin interne nr. 370/2004",
+   "title": "Ordinul nr. 370/2004 pentru aprobarea structurii-cadru a Regulamentului privind organizarea și funcționarea inspectoratelor județene, respectiv al municipiului București, pentru situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55989",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55989",
+     "sha256": "4e8cf11adf466b296ad77ec47d35dffe04132a1a3eedf5ba2bebd51dfca5a075"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-382-2004",
+   "path": "ordin/interne/2004/382",
+   "short": "Ordin interne nr. 382/2004",
+   "title": "Ordinul nr. 382/2004 pentru aprobarea Ghidului de aplicare a ajutoarelor de stat acordate în temeiul Ordonanței de urgență a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56148",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56148",
+     "sha256": "2613cbc5fb7d70222b87226fe49c4cc5d4b0a6e6f1359618bfef0373fbfe0f0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-389-2004",
+   "path": "ordin/interne/2004/389",
+   "short": "Ordin interne nr. 389/2004",
+   "title": "Ordinul nr. 389/2004 privind organizarea și funcționarea Registrului Național al Armelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59000",
+   "versions": [
+    {
+     "from": "2005-02-02",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59000",
+     "sha256": "26f79de0be100d0f4487db24daaec20cc196b80d354cf7c0b3edb9dba8535d25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-4520-2004",
+   "path": "ordin/interne/2004/4520",
+   "short": "Ordin interne nr. 4520/2004",
+   "title": "Ordinul nr. 4.520/2004 pentru aprobarea Criteriilor de performanță pe baza cărora se face evaluarea performanțelor profesionale individuale ale funcționarilor publici pentru anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57791",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57791",
+     "sha256": "783ea76b59a83e8eb2c07616060a3b79c68b52593a1525418df021a8102353a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-456-2004",
+   "path": "ordin/interne/2004/456",
+   "short": "Ordin interne nr. 456/2004",
+   "title": "Ordinul nr. 456/2004 pentru aprobarea tarifelor privind activitățile desfășurate de Agenția Națională de Cadastru și Publicitate Imobiliară și unitățile sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58240",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58240",
+     "sha256": "3478314239702685035e00d5a19a036ccc3964f651dfd1f25fb64db22cfdd300"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-463-2004",
+   "path": "ordin/interne/2004/463",
+   "short": "Ordin interne nr. 463/2004",
+   "title": "Ordinul nr. 463/2004 pentru aprobarea Instrucțiunilor comune de organizare și desfășurare a activităților specifice pe linia aplicării prevederilor actelor internaționale la care România este parte cu privire la controlul armamentelor, creșterea încrederii și securității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58397",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58397",
+     "sha256": "ecebf4477e2d61e44ebce165d3a3e19adc4ad8f4051ef1ee10429a2d733fa170"
     }
    ]
   },
@@ -5054,6 +5369,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57055",
      "sha256": "e171b54d1d6371497eb24b5956902bd396f36458459cdc320cf5dde81b23736e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1-2004",
+   "path": "ordin/mediu/2004/1",
+   "short": "Ordin mediu nr. 1/2004",
+   "title": "Ordinul nr. 1/2004 pentru aprobarea Regulamentului de organizare și funcționare a Comandamentului Operativ pentru Depoluare Marină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51588",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51588",
+     "sha256": "b62df1b1e094297e9855c3cfd1a8c27fe70a2d462e64e9921f3b87b72ab48366"
     }
    ]
   },
@@ -5714,6 +6044,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56001",
      "sha256": "22be69fb49e70b040d23e568362a6c2ff999d163d5bfaaf3712a773c808c3b6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rezervestat-2061-2004",
+   "path": "ordin/rezervestat/2004/2061",
+   "short": "Ordin rezervestat nr. 2061/2004",
+   "title": "Ordinul nr. 2.061/2004 privind aprobarea modelului, caracteristicilor, condițiilor de tipărire și păstrare a cartelelor pentru distribuirea către populație a principalelor produse alimentare și nealimentare pe bază de rații și cartele, în caz de mobilizare sau de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55004",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55004",
+     "sha256": "13f8b70cf11ae59eb13b46cccbf3f3beec0bce98a135507ecf2a4c423761f568"
     }
    ]
   },
@@ -7938,6 +8283,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1-2004",
+   "path": "ordin/transporturi/2004/1",
+   "short": "Ordin transporturi nr. 1/2004",
+   "title": "Ordinul nr. 1/2004 pentru aprobarea procedurilor privind restricționarea sau interzicerea temporară a circulației autovehiculelor categoria N(3), care se deplasează pe drumurile publice acoperite cu zăpadă, gheață sau polei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48993",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48993",
+     "sha256": "5c5f2237f6755c3148105aebbc58932cc413938a63f2f63f3d8a413787499e7c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1502-2004",
    "path": "ordin/transporturi/2004/1502",
    "short": "Ordin transporturi nr. 1502/2004",
@@ -7964,6 +8324,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55647",
      "sha256": "83cb4f513e40ab91deae19969e5d4252b8a83f619da4f04a86b2769244ade961"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2059-2004",
+   "path": "ordin/transporturi/2004/2059",
+   "short": "Ordin transporturi nr. 2059/2004",
+   "title": "Ordinul nr. 2.059/2004 pentru aprobarea Instrucțiunilor privind acordarea avizului prevăzut la art. 220^1 alin. (3) din Regulamentul de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 85/2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59155",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59155",
+     "sha256": "3a6f2f8c1a261188e27b06120a7a6172afeecfa323da98a99100d6e7b231ffb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2134-2004",
+   "path": "ordin/transporturi/2004/2134",
+   "short": "Ordin transporturi nr. 2134/2004",
+   "title": "Ordinul nr. 2.134/2004 privind aprobarea Procedurii de desemnare a organismelor pentru atestarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58626",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58626",
+     "sha256": "0c93bfdbb04f90fc37e34c322fdda3f76da45036c4fc1aa913145d2afa3d43c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-618-2004",
+   "path": "ordin/transporturi/2004/618",
+   "short": "Ordin transporturi nr. 618/2004",
+   "title": "Ordinul nr. 618/2004 privind reglementarea controlului în traficul rutier al ansamblurilor de vehicule formate din autotractoare cu axa simplă motoare și semiremorci specializate basculante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51209",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51209",
+     "sha256": "131f921188ae5c3cf9d62915b31ded5ae97c0d079d4805431a0ad82f85589851"
     }
    ]
   }

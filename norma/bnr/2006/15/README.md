@@ -2,7 +2,7 @@
 
 Norma bnr nr. 15/2006 · 1 versions, from 2007-01-01 (latest in force: 2007-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/74631>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA raportarilor incluse în SIRBNR *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA raportarilor incluse în SIRBNR *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,4 +34,4 @@ Act id: `norma-bnr-15-2006` (tags `norma-bnr-15-2006/<day>`; `python tools/on.py
 - Norma bnr nr. 15/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma bnr nr. 15/2006: the first version is the norm as published in Monitorul Oficial nr. 720 of 23 August 2006 (document 74631 of the official web service), in force on 1 January 2007, the day it states for itself.
 - Norma bnr nr. 15/2006: the signatures and the place and date line after its last article are not article text.
-- Norma bnr nr. 15/2006: Anexa nr. 1 (LISTA raportarilor incluse în SIRBNR *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 15/2006: Anexa nr. 1 (LISTA raportarilor incluse în SIRBNR *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

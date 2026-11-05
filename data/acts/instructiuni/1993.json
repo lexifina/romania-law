@@ -39,6 +39,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3739",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-290-1993",
+"path": "instructiuni/interne/1993/290",
+"kind": "instructiuni",
+"year": "1993",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 290/1993 de aplicare a Hotărârii Guvernului nr. 610/1992 privind cartea de identitate a vehiculului",
+"short": "Instrucțiuni interne nr. 290/1993",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1993-05-28",
+"latest": "1993-05-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3455",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

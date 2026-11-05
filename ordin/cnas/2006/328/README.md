@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 328/2006 · 1 versions, from 2006-07-31 (latest in force: 2006-07-31) · <https://legislatie.just.ro/Public/DetaliiDocument/73928>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────────────────────────┐ │ CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE │ │ Casa de Asigurări de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-cnas-328-2006` (tags `ordin-cnas-328-2006/<day>`; `python tools/o
 - Ordin cnas nr. 328/2006: the first version is the order as published in Monitorul Oficial nr. 657 of 31 July 2006 (document 73928 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin cnas nr. 328/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 328/2006: Anexa nr. 2 (2 CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE Casa de Asigurări de Sănătate............................. PROCES-VERBAL de constatare și sancționare a contravențiilor în domeniul asigurărilor sociale de să) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 73928 of the official web service.
-- Ordin cnas nr. 328/2006: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────────────────────────┐ │ CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE │ │ Casa de Asigurări de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 328/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

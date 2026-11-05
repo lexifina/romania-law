@@ -2,7 +2,7 @@
 
 Ordin anpc nr. 392/2013 · 1 versions, from 2014-01-15 (latest in force: 2014-01-15) · <https://legislatie.just.ro/Public/DetaliiDocument/153630>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SCĂDERI ale cantității nete pentru produsele de panificație datorate pierderii de umiditate pe durata de valabilitate ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SCĂDERI ale cantității nete pentru produsele de panificație datorate pierderii de umiditate pe durata de valabilitate): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,4 @@ Act id: `ordin-anpc-392-2013` (tags `ordin-anpc-392-2013/<day>`; `python tools/o
 - Ordin anpc nr. 392/2013: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anpc nr. 392/2013: the first version is the order as published in Monitorul Oficial nr. 786 of 16 December 2013 (document 153630 of the official web service), in force on 15 January 2014, the day it states for itself.
 - Ordin anpc nr. 392/2013: the signatures and the place and date line after its last article are not article text.
-- Ordin anpc nr. 392/2013: Anexa nr. 1 (SCĂDERI ale cantității nete pentru produsele de panificație datorate pierderii de umiditate pe durata de valabilitate ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anpc nr. 392/2013: Anexa nr. 1 (SCĂDERI ale cantității nete pentru produsele de panificație datorate pierderii de umiditate pe durata de valabilitate) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-381-1994",
+   "path": "ordin/dezvoltare/1994/381",
+   "short": "Ordin dezvoltare nr. 381/1994",
+   "title": "Ordinul nr. 381/1994 pentru aprobarea Normelor generale de prevenire și stingere a incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4946",
+   "versions": [
+    {
+     "from": "1994-06-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4946",
+     "sha256": "55c591ac71e27a74bade75c0fbc1c682b875a78a5a2cd16bd7f08cec60690d96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1052-1994",
    "path": "ordin/finante/1994/1052",
    "short": "Ordin finante nr. 1052/1994",
@@ -299,6 +314,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5547",
      "sha256": "5080354532cbf54adf392486ac7cfc163e214e2d97083e070ba40d112b469524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-158-1994",
+   "path": "ordin/interne/1994/158",
+   "short": "Ordin interne nr. 158/1994",
+   "title": "Ordinul nr. 158/1994 privind verificarea îndeplinirii condițiilor tehnice de către autovehiculele și remorcile acestora care circulă pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4612",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4612",
+     "sha256": "a440d3a561e867f53cedc09a6670df12ffc8691d1ec013c64b2ea88033e4470c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-388-1994",
+   "path": "ordin/interne/1994/388",
+   "short": "Ordin interne nr. 388/1994",
+   "title": "Ordinul nr. 388/1994 privind modificarea și completarea condițiilor tehnice pentru vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România, aprobate prin Ordinul comun al ministrului transporturilor și ministrului de interne nr. 172/4093/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4953",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4953",
+     "sha256": "edf29bb099aee252eca8225f3d3936bd0dea336eea6c90f1ba35b327c14fe095"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-389-1994",
+   "path": "ordin/interne/1994/389",
+   "short": "Ordin interne nr. 389/1994",
+   "title": "Ordinul nr. 389/1994 pentru aprobarea Revizuirii nr. 1 la Reglementările privind inspecția tehnică periodică a autovehiculelor și remorcilor acestora (RNTR-1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4955",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4955",
+     "sha256": "1df14c5d4ec4168821858ab9dfd6656d672473d8fcb7899eed04e348aced6a76"
     }
    ]
   },

@@ -20,6 +20,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90675",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-549-2008",
+"path": "instructiuni/interne/2008/549",
+"kind": "instructiuni",
+"year": "2008",
+"number": "549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 549/2008 privind organizarea cadastrului pentru structurile din Ministerul Internelor și Reformei Administrative",
+"short": "Instrucțiuni interne nr. 549/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-08-11",
+"latest": "2008-08-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/96213",
+"issuer": "interne",
+"joint": []
+},
+{
+"slug": "instructiuni-interne-664-2008",
+"path": "instructiuni/interne/2008/664",
+"kind": "instructiuni",
+"year": "2008",
+"number": "664",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 664/2008 privind normele de asigurare tehnică a construcțiilor aflate în administrarea Ministerului Internelor și Reformei Administrative",
+"short": "Instrucțiuni interne nr. 664/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-12-16",
+"latest": "2008-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/100392",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

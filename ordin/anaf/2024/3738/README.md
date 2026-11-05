@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3738/2024 · 1 versions, from 2024-07-17 (latest in force: 2024-07-17) · <https://legislatie.just.ro/Public/DetaliiDocument/285515>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1255 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,3 +27,4 @@ Act id: `ordin-anaf-3738-2024` (tags `ordin-anaf-3738-2024/<day>`; `python tools
 - Ordin anaf nr. 3738/2024: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3738/2024: Anexa nr. 1 (PROCEDURĂ din 9 iulie 2024 privind modalitatea în care se realizează colaborarea dintre organul fiscal local și organul fiscal central privind primirea/transmiterea unor informații referitoare la ...) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 285516 of the official web service.
 - Ordin anaf nr. 3738/2024: Anexa nr. 2 (Caracteristicile de editare, modul de difuzare, de utilizare și de păstrare a formularului 216 „Declarație privind impozitul special pe bunurile imobile și mobile de valoare mare” Denumire: „Declarați) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 285515 of the official web service.
+- Ordin anaf nr. 3738/2024: the official text prints 1255 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

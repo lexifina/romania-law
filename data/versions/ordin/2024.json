@@ -3,6 +3,36 @@
  "shard": "ordin/2024",
  "acts": [
   {
+   "slug": "ordin-agricultura-271-2024",
+   "path": "ordin/agricultura/2024/271",
+   "short": "Ordin agricultura nr. 271/2024",
+   "title": "Ordinul nr. 271/2024 pentru modificarea anexei nr. 4 la Regulamentul privind gestionarea situațiilor de urgență generate de fenomene meteorologice periculoase având ca efect producerea secetei pedologice, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului afacerilor interne nr. 97/63/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285234",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285234",
+     "sha256": "f8d88006502994d3ef2f5cbafe30fbe991701e4212a089c6a4beb868b6fa3348"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-293-2024",
+   "path": "ordin/agricultura/2024/293",
+   "short": "Ordin agricultura nr. 293/2024",
+   "title": "Ordinul nr. 293/2024 pentru modificarea și completarea Regulamentului privind gestionarea situațiilor de urgență generate de fenomene meteorologice periculoase având ca efect producerea secetei pedologice, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului afacerilor interne nr. 97/63/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286236",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286236",
+     "sha256": "1a8be2d53d101754eb5dc5965ade27cc5b9a76b7504e696f9c61c1059fa254a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-356-2024",
    "path": "ordin/agricultura/2024/356",
    "short": "Ordin agricultura nr. 356/2024",
@@ -1788,6 +1818,36 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-155-2024",
+   "path": "ordin/ansvsa/2024/155",
+   "short": "Ordin ansvsa nr. 155/2024",
+   "title": "Ordinul nr. 155/2024 privind stabilirea unor măsuri suplimentare pentru controlul și eradicarea pestei micilor rumegătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288117",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288117",
+     "sha256": "8846f3d282ec60f2821261f108bc49c61087ee3233746519a89e420f65161cbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-163-2024",
+   "path": "ordin/ansvsa/2024/163",
+   "short": "Ordin ansvsa nr. 163/2024",
+   "title": "Ordinul nr. 163/2024 pentru modificarea art. 1 din Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor, al viceprim-ministrului, ministrul afacerilor interne, și al ministrului agriculturii și dezvoltării rurale nr. 155/143/347/2024 privind stabilirea unor măsuri suplimentare pentru controlul și eradicarea pestei micilor rumegătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289184",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289184",
+     "sha256": "57a2774aa07b318514627d33a47ca2232227d19da27359f414117c80c26c11f5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-167-2024",
    "path": "ordin/ansvsa/2024/167",
    "short": "Ordin ansvsa nr. 167/2024",
@@ -2703,6 +2763,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-4177-2024",
+   "path": "ordin/dezvoltare/2024/4177",
+   "short": "Ordin dezvoltare nr. 4177/2024",
+   "title": "Ordinul nr. 4.177/2024 privind modificarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții \"Anghel Saligny\", pentru categoriile de investiții prevăzute la art. 4 alin. (1) lit. a)-d) din Ordonanța de urgență a Guvernului nr. 95/2021, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.333/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291784",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291784",
+     "sha256": "53285220664be726425f9f38f20474cba27821e0eaf91df70e51503f8eb4f055"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-4284-2024",
    "path": "ordin/dezvoltare/2024/4284",
    "short": "Ordin dezvoltare nr. 4284/2024",
@@ -2714,6 +2789,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
      "sha256": "0971a4439bb803ce2766cac07406755488625f4b811815ed96396a85a35d5596"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-4341-2024",
+   "path": "ordin/dezvoltare/2024/4341",
+   "short": "Ordin dezvoltare nr. 4341/2024",
+   "title": "Ordinul nr. 4.341/2024 privind completarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293134",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293134",
+     "sha256": "cad89ee32710a7e38bc7aebc865bce94eeb7d43e4093ac30615308e3520c7fe6"
     }
    ]
   },
@@ -2748,6 +2838,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-691-2024",
+   "path": "ordin/dezvoltare/2024/691",
+   "short": "Ordin dezvoltare nr. 691/2024",
+   "title": "Ordinul nr. 691/2024 privind modificarea anexei nr. 4 la Normele metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții \"Anghel Saligny\", pentru categoriile de investiții prevăzute la art. 4 alin. (1) lit. a) - d) din Ordonanța de urgență a Guvernului nr. 95/2021, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.333/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279634",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279634",
+     "sha256": "85ae6c0f817f7a6ec495b524caa767efc6c95271ea12913bca445ef1107b2b47"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-770-2024",
    "path": "ordin/dezvoltare/2024/770",
    "short": "Ordin dezvoltare nr. 770/2024",
@@ -2763,6 +2868,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-855-2024",
+   "path": "ordin/dezvoltare/2024/855",
+   "short": "Ordin dezvoltare nr. 855/2024",
+   "title": "Ordinul nr. 855/2024 pentru modificarea și completarea anexei nr. 1 la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 2.980/2013 privind aprobarea condițiilor de acordare a măsurilor de sprijin pentru investițiile realizate în parcurile industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280188",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280188",
+     "sha256": "bf45be8c7fb9fef7b69b9995e684ce7062d8ef367ebc9fafc3eb8806f844acbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-921-2024",
+   "path": "ordin/dezvoltare/2024/921",
+   "short": "Ordin dezvoltare nr. 921/2024",
+   "title": "Ordinul nr. 921/2024 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor, privind derularea Programului național de consolidare a clădirilor cu risc seismic ridicat, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279684",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279684",
+     "sha256": "04cf5f2ce50e7c89128620b977a41118e950464e4188b6cad82b440da4b2af8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-954-2024",
+   "path": "ordin/dezvoltare/2024/954",
+   "short": "Ordin dezvoltare nr. 954/2024",
+   "title": "Ordinul nr. 954/2024 pentru aplicarea prevederilor art. III alin. (11) din Ordonanța de urgență a Guvernului nr. 63/2010 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru stabilirea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279778",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279778",
+     "sha256": "fc3d1f5d41327cbe22ee10dc422ebcde70ca3e1935b07262ebc0a1782d82547d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-105-2024",
    "path": "ordin/economie/2024/105",
    "short": "Ordin economie nr. 105/2024",
@@ -2774,6 +2924,156 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278829",
      "sha256": "6807e1beed5744465b87731f0e999e914932cff534f836a7c34618ac725f64d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1440-2024",
+   "path": "ordin/economie/2024/1440",
+   "short": "Ordin economie nr. 1440/2024",
+   "title": "Ordinul nr. 1.440/2024 privind aprobarea Schemei de ajutor de minimis prevăzute în cadrul Programului \"ELECTRIC UP\" privind finanțarea întreprinderilor mici și mijlocii și a operatorilor economici care activează în domeniul HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 150 kWp necesară consumului propriu, a unui sistem de stocare a energiei produse pentru creșterea gradului de autoconsum, a cel puțin o stație de reîncărcare de minimum 22 kW pentru vehicule electrice și electrice hibrid plug-in pentru reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic, precum și a sistemului alternativ de încălzire/răcire pentru creșterea gradului de utilizare a energiei produse din surse regenerabile în încălzire și răcire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289325",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289325",
+     "sha256": "51e44e63018ff5ca8a3252e735bb491f1cbea874a1ad35e0cb5bd42f9dca4ecd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1441-2024",
+   "path": "ordin/economie/2024/1441",
+   "short": "Ordin economie nr. 1441/2024",
+   "title": "Ordinul nr. 1.441/2024 privind aprobarea Ghidului de finanțare pentru Programul \"ELECTRIC UP\" privind finanțarea întreprinderilor mici și mijlocii și a operatorilor economici care activează în domeniul HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 150 kWp necesară consumului propriu, a unui sistem de stocare a energiei produse pentru creșterea gradului de autoconsum, a cel puțin o stație de reîncărcare de minimum 22 kW pentru vehicule electrice și electrice hibrid plug-in pentru reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic, precum și a sistemului alternativ de încălzire/răcire pentru creșterea gradului de utilizare a energiei produse din surse regenerabile în încălzire și răcire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289326",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289326",
+     "sha256": "d55680e476ea0f83482a846c946bdd2893173422fcd336f83abee78a60d849cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1561-2024",
+   "path": "ordin/economie/2024/1561",
+   "short": "Ordin economie nr. 1561/2024",
+   "title": "Ordinul nr. 1.561/2024 pentru aprobarea Îndrumarului metodologic privind modul de lucru pentru beneficiarii privați finanțați din Fondul pentru modernizare, care nu au obligația respectării prevederilor legale aplicabile în domeniul achizițiilor publice/sectoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290641",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290641",
+     "sha256": "6f6bc19866bc2a2ac12b7fafd0b4e422a5c088561f97bf7a3d2d382174c53173"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1626-2024",
+   "path": "ordin/economie/2024/1626",
+   "short": "Ordin economie nr. 1626/2024",
+   "title": "Ordinul nr. 1.626/2024 pentru aprobarea Ghidului solicitantului privind sprijinirea investițiilor în dezvoltarea capacităților de stocare a energiei electrice (baterii) cu finanțare din Fondul pentru modernizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290870",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290870",
+     "sha256": "242eddddc957e86f217e36a47637d2962dc1de7bde6538ec6544920bb446a0ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1946-2024",
+   "path": "ordin/economie/2024/1946",
+   "short": "Ordin economie nr. 1946/2024",
+   "title": "Ordinul nr. 1.946/2024 pentru aprobarea Regulamentului privind constituirea, organizarea și funcționarea Comisiei pentru desemnarea destinațiilor ecoturistice, precum și a Procedurii de evaluare pentru desemnarea destinațiilor ecoturistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286531",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286531",
+     "sha256": "f146902fd20ded8330fb5c3edef3646cba5c6a19b87f0fedfc8775e0fc7a4ef8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1974-2024",
+   "path": "ordin/economie/2024/1974",
+   "short": "Ordin economie nr. 1974/2024",
+   "title": "Ordinul nr. 1.974/2024 privind aprobarea Procedurii de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285906",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285906",
+     "sha256": "36b25719389b504c5781c5d0f02a2ac9cb28efe094b15f7fbb256fba67544488"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2731-2024",
+   "path": "ordin/economie/2024/2731",
+   "short": "Ordin economie nr. 2731/2024",
+   "title": "Ordinul nr. 2.731/2024 privind aprobarea Procedurii de implementare a Programului național multianual pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287593",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287593",
+     "sha256": "97a609df6e6ac8350cd3021122ccfe4065fa2a27cd692260a25f2f915602fd76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-3057-2024",
+   "path": "ordin/economie/2024/3057",
+   "short": "Ordin economie nr. 3057/2024",
+   "title": "Ordinul nr. 3.057/2024 privind aprobarea Ghidului de plată adresat beneficiarilor de ajutor de stat în baza Ordonanței de urgență a Guvernului nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții - CONSTRUCTPLUS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+     "sha256": "bf8abd41d47f14c3670a0a0ee41bab58a07c81c1e07e2baffcdd1bda39bbf28c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-604-2024",
+   "path": "ordin/economie/2024/604",
+   "short": "Ordin economie nr. 604/2024",
+   "title": "Ordinul nr. 604/2024 privind stabilirea nivelului stocurilor minime și aprobarea modului de calcul al stocurilor de urgență pentru țiței și/sau produse petroliere a căror constituire revine titularilor obligațiilor de stocare în vederea menținerii acestora în perioada 1 iulie 2024-30 iunie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283764",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283764",
+     "sha256": "c611b225ed14543b2389544fe57a0db99ae436b8caff24c9ee1520df94b8ee2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-633-2024",
+   "path": "ordin/economie/2024/633",
+   "short": "Ordin economie nr. 633/2024",
+   "title": "Ordinul nr. 633/2024 pentru aprobarea Ghidului solicitantului - Condiții specifice de accesare a finanțării din Fondul pentru modernizare - sprijinirea investițiilor în cogenerare de înaltă eficiență în sectorul încălzirii centralizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283347",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283347",
+     "sha256": "132af4646fd9b17f82d32bd28bd4fcded8467d06c5618a73cffd6bd43b458faf"
     }
    ]
   },
@@ -2804,6 +3104,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292749",
      "sha256": "34b5f61cc8ff6383d29ffe62fdea7ba03473ceb355ea059b0a94445aaf391e53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2351-2024",
+   "path": "ordin/externe/2024/2351",
+   "short": "Ordin externe nr. 2351/2024",
+   "title": "Ordinul nr. 2.351/2024 privind introducerea obligativității deținerii vizei de tranzit aeroportuar pentru cetățenii unor state terțe care tranzitează aeroporturile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292747",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292747",
+     "sha256": "3922b51898c27a94feed39dc4d6ce768e4408c2ee4da15e093aeb684bcf85c45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-546-2024",
+   "path": "ordin/externe/2024/546",
+   "short": "Ordin externe nr. 546/2024",
+   "title": "Ordinul nr. 546/2024 privind introducerea obligativității deținerii vizei de tranzit aeroportuar pentru cetățenii unor state terțe care tranzitează aeroporturile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280616",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280616",
+     "sha256": "b8cd707bb251f46a9c753d6a58f90ba7972f596a53613f6cd2fc78d22b995b18"
     }
    ]
   },
@@ -4053,6 +4383,96 @@
    ]
   },
   {
+   "slug": "ordin-interne-100-2024",
+   "path": "ordin/interne/2024/100",
+   "short": "Ordin interne nr. 100/2024",
+   "title": "Ordinul nr. 100/2024 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru Ministerul Afacerilor Interne și structuri ale acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284842",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284842",
+     "sha256": "7e5fcd4524d30d25041342292989d7fcc0faaef227ab468936e096d954b9f7a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-101-2024",
+   "path": "ordin/interne/2024/101",
+   "short": "Ordin interne nr. 101/2024",
+   "title": "Ordinul nr. 101/2024 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285900",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285900",
+     "sha256": "e1458a373ae6ac25c9273cfb02379851c3637409c1b32fc2459071a061b394f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-116-2024",
+   "path": "ordin/interne/2024/116",
+   "short": "Ordin interne nr. 116/2024",
+   "title": "Ordinul nr. 116/2024 privind completarea anexei nr. 2 la Normele de aplicare în Ministerul Afacerilor Interne a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului afacerilor interne nr. 48/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285735",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285735",
+     "sha256": "63feeba4f1d466ecca90ddba76db78cdf928c3293301e378e00818d235ea40d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-117-2024",
+   "path": "ordin/interne/2024/117",
+   "short": "Ordin interne nr. 117/2024",
+   "title": "Ordinul nr. 117/2024 pentru modificarea anexei nr. 5 la Procedura de căutare și de furnizare a datelor privind înmatricularea vehiculelor, precum și elementele acestor date, stabilită prin Ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 65/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285824",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285824",
+     "sha256": "dcba6ff6d3ce5548e7866cbe2b5408613a17e2e5a758a6579775ccb5fe394945"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-118-2024",
+   "path": "ordin/interne/2024/118",
+   "short": "Ordin interne nr. 118/2024",
+   "title": "Ordinul nr. 118/2024 pentru aprobarea Procedurii de ocupare a funcțiilor specifice corpului instructorilor din unitățile de învățământ ale Ministerului Afacerilor Interne, precum și pentru stabilirea condițiilor de funcționare a instructorilor asociați în unitățile de învățământ postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286253",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286253",
+     "sha256": "6fc6484acb54dfe454a462960176c95addfa66a101dae485739dc1e7de70c076"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-124-2024",
+   "path": "ordin/interne/2024/124",
+   "short": "Ordin interne nr. 124/2024",
+   "title": "Ordinul nr. 124/2024 pentru modificarea și completarea Regulamentului de organizare și funcționare al Direcției suport decizional, aprobat prin Ordinul ministrului afacerilor interne nr. 122/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286768",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286768",
+     "sha256": "b810a395fc44e0c37f3e9b8a9e6dde2f1b76080ead65c8a9fe0554c4f5bc993d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-13-2024",
    "path": "ordin/interne/2024/13",
    "short": "Ordin interne nr. 13/2024",
@@ -4068,6 +4488,81 @@
    ]
   },
   {
+   "slug": "ordin-interne-138-2024",
+   "path": "ordin/interne/2024/138",
+   "short": "Ordin interne nr. 138/2024",
+   "title": "Ordinul nr. 138/2024 privind stabilirea modalității de gestionare de către polițiști a cazurilor privind actele de violență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287721",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287721",
+     "sha256": "11a88e56984c971285785450c790e88a496328b7313180e13ea09be4301da21d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-142-2024",
+   "path": "ordin/interne/2024/142",
+   "short": "Ordin interne nr. 142/2024",
+   "title": "Ordinul nr. 142/2024 privind aprobarea Regulamentului de organizare și funcționare a Direcției generale pentru relațiile cu instituțiile prefectului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288200",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288200",
+     "sha256": "66e3bd54c861467e497c45b963e608c8112ffcaf34b033b61bad8d7ad76396f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-145-2024",
+   "path": "ordin/interne/2024/145",
+   "short": "Ordin interne nr. 145/2024",
+   "title": "Ordinul nr. 145/2024 pentru modificarea și completarea Normelor metodologice de aplicare la nivelul Ministerului Afacerilor Interne a Hotărârii Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, aprobate prin Ordinul ministrului afacerilor interne nr. 181/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288166",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288166",
+     "sha256": "d088aaa0f78042ccc222d0b39f9eab618f36f23f66d1920bc9825f591e0a03fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-150-2024",
+   "path": "ordin/interne/2024/150",
+   "short": "Ordin interne nr. 150/2024",
+   "title": "Ordinul nr. 150/2024 pentru stabilirea aspectelor administrative privind operaționalizarea și funcționarea platformei informatice prevăzute de art. 2^2 alin. (1) din Legea nr. 158/2019 pentru stabilirea unor măsuri de punere în aplicare a Acordului dintre Guvernul României și Guvernul Statelor Unite ale Americii privind intensificarea cooperării în prevenirea și combaterea infracțiunilor grave, semnat la 5 octombrie 2015 la Washington D.C., precum și cooperarea interinstituțională în acest scop",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288385",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288385",
+     "sha256": "00feb0bf3d9f53f0e9ff4913b2ba8073fc5010e28b685b173ea11110c11a28a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-153-2024",
+   "path": "ordin/interne/2024/153",
+   "short": "Ordin interne nr. 153/2024",
+   "title": "Ordinul nr. 153/2024 privind forma, conținutul și procedura emiterii permisului de conducere internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288896",
+   "versions": [
+    {
+     "from": "2024-10-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288896",
+     "sha256": "aa67d96de05582a30d99cedfd7e7a27f5ca54d7e134e889f4cc2550de45dca2c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-168-2024",
    "path": "ordin/interne/2024/168",
    "short": "Ordin interne nr. 168/2024",
@@ -4079,6 +4574,471 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290080",
      "sha256": "624412eea8949414f01014a9e45d05166ca79f9d42bcaecb119985578c066025"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-177-2024",
+   "path": "ordin/interne/2024/177",
+   "short": "Ordin interne nr. 177/2024",
+   "title": "Ordinul nr. 177/2024 privind stabilirea condițiilor și a procedurii de luare în evidență în Academia de Poliție \"Alexandru Ioan Cuza\" a studenților școlarizați în instituții civile de învățământ superior, pentru nevoi ale Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290217",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290217",
+     "sha256": "1de8bdb84cd54d8ffcbc189ee104775bcc5305b970a3d5bdc467695b12f85e48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-178-2024",
+   "path": "ordin/interne/2024/178",
+   "short": "Ordin interne nr. 178/2024",
+   "title": "Ordinul nr. 178/2024 pentru modificarea și completarea unor acte normative în domeniul permiselor de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290257",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290257",
+     "sha256": "a52efb5213f8ef56469748aa24198ea0ada7c6110978e7292dd83e877e6f52c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-180-2024",
+   "path": "ordin/interne/2024/180",
+   "short": "Ordin interne nr. 180/2024",
+   "title": "Ordinul nr. 180/2024 privind modificarea Ordinului ministrului afacerilor interne nr. 150/2018 pentru aprobarea atribuțiilor specifice structurilor din cadrul Inspectoratului General pentru Situații de Urgență, precum și a fișelor posturilor personalului din conducerea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291347",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291347",
+     "sha256": "f6fcbf56de3e100bff9975de554702ee92a61a027dda009dc90e4ac0a45bd9e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-181-2024",
+   "path": "ordin/interne/2024/181",
+   "short": "Ordin interne nr. 181/2024",
+   "title": "Ordinul nr. 181/2024 privind procedura înmatriculării, înregistrării, radierii și eliberării autorizației de circulație provizorie sau pentru probe a vehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290993",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290993",
+     "sha256": "3e3910a33017a3d89d4c9be4bf484a82c8606aea0b14c25590ad94c843fbb169"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-185-2024",
+   "path": "ordin/interne/2024/185",
+   "short": "Ordin interne nr. 185/2024",
+   "title": "Ordinul nr. 185/2024 pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 105/2020 privind examinarea medicală a candidaților la concursurile de admitere în instituțiile de învățământ care formează personal pentru nevoile Ministerului Afacerilor Interne, precum și la concursurile de încadrare în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291035",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291035",
+     "sha256": "bf26b35c0244a4338c9e96d632176b61be39cca230a1eafdcd1ccd77c49c2b90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-195-2024",
+   "path": "ordin/interne/2024/195",
+   "short": "Ordin interne nr. 195/2024",
+   "title": "Ordinul nr. 195/2024 pentru modificarea Ordinului ministrului administrației și internelor nr. 262/2011 privind conferirea distincțiilor onorifice în Jandarmeria Română, Inspectoratul General pentru Situații de Urgență și Inspectoratul General de Aviație din Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290623",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290623",
+     "sha256": "2ca9b9122370a58297579bb0f13953a5c12448b9de378d5e384e7af6bb3b8e60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-196-2024",
+   "path": "ordin/interne/2024/196",
+   "short": "Ordin interne nr. 196/2024",
+   "title": "Ordinul nr. 196/2024 pentru modificarea art. 6 alin. (5) din Ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 76/2015 privind regulile de eligibilitate aplicabile cheltuielilor în cadrul Fondului pentru securitate internă și Fondului pentru azil, migrație și integrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290624",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290624",
+     "sha256": "d5070f9cb401b99c8ec09ccc68b469c7178084eef51df919107da0b70308fcca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-197-2024",
+   "path": "ordin/interne/2024/197",
+   "short": "Ordin interne nr. 197/2024",
+   "title": "Ordinul nr. 197/2024 pentru modificarea și completarea Regulamentului de organizare și funcționare a Centrului Național pentru Securitate la Incendiu și Protecție Civilă, aprobat prin Ordinul ministrului afacerilor interne nr. 3/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290625",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290625",
+     "sha256": "6ee5255bb1558202dd3db36a9b1e48a7e42a662dce3a7831e6910fbc7d7625c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-200-2024",
+   "path": "ordin/interne/2024/200",
+   "short": "Ordin interne nr. 200/2024",
+   "title": "Ordinul nr. 200/2024 pentru aprobarea aspectelor procedurale privind accesarea unor servicii din domeniul managementului resurselor umane în Ministerul Afacerilor Interne prin intermediul platformei \"Hub de servicii la nivelul MAI\", precum și pentru modificarea și completarea unor acte normative din domeniul managementului resurselor umane în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290872",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290872",
+     "sha256": "71ca07ed3a4a11a2fb2778bb17bc81e9e717a731f0e8b84757c2fc46cab87021"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-203-2024",
+   "path": "ordin/interne/2024/203",
+   "short": "Ordin interne nr. 203/2024",
+   "title": "Ordinul nr. 203/2024 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri, funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de ofițeri, și preoți militari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291174",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291174",
+     "sha256": "57840e790ba202c4904390517d88694d6c54f6ab0371fd08c5c39244a00234c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-204-2024",
+   "path": "ordin/interne/2024/204",
+   "short": "Ordin interne nr. 204/2024",
+   "title": "Ordinul nr. 204/2024 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri, soldați și gradați profesioniști și funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291175",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291175",
+     "sha256": "7aedcd07877960888c8ac71962b6db4916c5a79eb0247afb625af2e8f531fc09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-206-2024",
+   "path": "ordin/interne/2024/206",
+   "short": "Ordin interne nr. 206/2024",
+   "title": "Ordinul nr. 206/2024 pentru dobândirea personalității juridice de către Depozitul 230 Rezerve Proprii Tecuci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291426",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291426",
+     "sha256": "ae4876a1512fdaaf64959293c87a6d23557c73de8e9a012521d2acc294881108"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-208-2024",
+   "path": "ordin/interne/2024/208",
+   "short": "Ordin interne nr. 208/2024",
+   "title": "Ordinul nr. 208/2024 privind modificarea și completarea Ordinului ministrului afacerilor interne nr. 91/2017 pentru aprobarea Metodologiei valorificării rezultatelor activităților operaționale desfășurate la nivelul Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291768",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291768",
+     "sha256": "864d330cec2cc073c161e26b6bab3dcb3ff07c0adc7cdc1adf7d3c0414b85869"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-211-2024",
+   "path": "ordin/interne/2024/211",
+   "short": "Ordin interne nr. 211/2024",
+   "title": "Ordinul nr. 211/2024 pentru aprobarea Regulamentului de organizare și funcționare a Colegiului Național de Afaceri Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292105",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292105",
+     "sha256": "788f37fc95f936f0da0794c9f36a738b3412ad1499e262fcdeb3eee91c6c5a4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-224-2024",
+   "path": "ordin/interne/2024/224",
+   "short": "Ordin interne nr. 224/2024",
+   "title": "Ordinul nr. 224/2024 pentru aprobarea Regulamentului de organizare și funcționare a Direcției fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292278",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292278",
+     "sha256": "f4ceb14d46c1444399d8732621c0a19871399b70e7b01c1346094a3d8565fe4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-23-2024",
+   "path": "ordin/interne/2024/23",
+   "short": "Ordin interne nr. 23/2024",
+   "title": "Ordinul nr. 23/2024 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din instituțiile și autoritățile publice, devenite executorii în perioada 1 ianuarie-31 decembrie 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279048",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279048",
+     "sha256": "8bb6feef73768395b4da24ee636b8702f78ce47ed555691a79d09998eb5cfdaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-232-2024",
+   "path": "ordin/interne/2024/232",
+   "short": "Ordin interne nr. 232/2024",
+   "title": "Ordinul nr. 232/2024 pentru modificarea Ordinului ministrului afacerilor interne nr. 183/2021 privind aprobarea Regulamentului pentru compunerea și portul uniformelor de poliție, precum și a Regulilor pentru aplicarea normelor privind echiparea polițiștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293124",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293124",
+     "sha256": "b656658c795b39e3fbc6acd4391c4002082c7d322bec38c98a48beff9c2d5085"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-2415-2024",
+   "path": "ordin/interne/2024/2415",
+   "short": "Ordin interne nr. 2415/2024",
+   "title": "Ordinul nr. 2.415/2024 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292133",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292133",
+     "sha256": "f9be2ab142b77034e2a9a20f4c73c258a38e4559bdc5ae9ffb606e5267d4d0f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-25-2024",
+   "path": "ordin/interne/2024/25",
+   "short": "Ordin interne nr. 25/2024",
+   "title": "Ordinul nr. 25/2024 pentru modificarea și completarea Metodologiei de întocmire a dosarului de pensionare, aprobată prin Ordinul ministrului apărării naționale, al ministrului afacerilor interne și al directorului Serviciului Român de Informații nr. M.24/30/8.147/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279495",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279495",
+     "sha256": "b46189b75c6b444c1a4a808be48d30554f490194f8de80a44280ecccd6880419"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-27-2024",
+   "path": "ordin/interne/2024/27",
+   "short": "Ordin interne nr. 27/2024",
+   "title": "Ordinul nr. 27/2024 privind condițiile de stabilire a majorării salariale pentru munca suplimentară prestată în cursul anului 2024 de personalul cu statut special, precum și activitățile deosebite cu caracter operativ sau neprevăzut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279377",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279377",
+     "sha256": "4196813246e9f0f94c8316e39785aad880e5238574b90ea11505a454eb97f56e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-33-2024",
+   "path": "ordin/interne/2024/33",
+   "short": "Ordin interne nr. 33/2024",
+   "title": "Ordinul nr. 33/2024 pentru aprobarea Regulamentului de organizare și funcționare a Academiei de Poliție \"Alexandru Ioan Cuza\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279492",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279492",
+     "sha256": "13cd5d537981778ae868818e43a6951b0665793830f3966ca015371dc0ca91d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-35-2024",
+   "path": "ordin/interne/2024/35",
+   "short": "Ordin interne nr. 35/2024",
+   "title": "Ordinul nr. 35/2024 privind completarea anexei la Ordinul ministrului afacerilor interne nr. 137/2018 pentru aprobarea Normei de dotare cu mijloace tehnice și bunuri materiale necesare Instituției Prefectului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279717",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279717",
+     "sha256": "97a5e09d7761091cd4c5df48ee72eacb5bc32335e7e3af3850e5ca3102665e1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-49-2024",
+   "path": "ordin/interne/2024/49",
+   "short": "Ordin interne nr. 49/2024",
+   "title": "Ordinul nr. 49/2024 privind modificarea anexei nr. 2 la Ordinul ministrului administrației și internelor nr. 128/2011 pentru organizarea activităților privind accesul poliției locale la baze de date ale Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280402",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280402",
+     "sha256": "76327280e6192f77b9bb1ee6c70a06ae966406a5cbd824dd6b93d0010bfcad63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-5-2024",
+   "path": "ordin/interne/2024/5",
+   "short": "Ordin interne nr. 5/2024",
+   "title": "Ordinul nr. 5/2024 pentru modificarea și completarea Ordinului ministrului internelor și reformei administrative nr. 490/2008 privind însemnele heraldice ale structurilor Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278415",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278415",
+     "sha256": "21065199df4c622b0488236d2e9a31d29ef75d27718900167260bbb69d8696a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-58-2024",
+   "path": "ordin/interne/2024/58",
+   "short": "Ordin interne nr. 58/2024",
+   "title": "Ordinul nr. 58/2024 pentru aprobarea procedurilor de lucru privind activitățile autorităților naționale competente din cadrul sau din subordinea Ministerului Afacerilor Interne aferente semnalărilor din Sistemul informatic național de semnalări sau Sistemul de informații Schengen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280596",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280596",
+     "sha256": "a1a3efcc5089ee7e201e89cf2a0ad7402d51411977d654a03bb4c296308004fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-59-2024",
+   "path": "ordin/interne/2024/59",
+   "short": "Ordin interne nr. 59/2024",
+   "title": "Ordinul nr. 59/2024 privind stabilirea criteriilor specifice de distribuire la nivelul Ministerului Afacerilor Interne a sumelor alocate prin Mecanismul național de susținere a prevenirii criminalității și a modalității de selectare a proiectelor sau programelor în vederea finanțării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280715",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280715",
+     "sha256": "7981eab5e3ae512c3d8eb3ff46f4393d28957df3e9c645fb3988b6131c0cd193"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-6-2024",
+   "path": "ordin/interne/2024/6",
+   "short": "Ordin interne nr. 6/2024",
+   "title": "Ordinul nr. 6/2024 privind formarea inițială, în anul 2024, în instituțiile de formare ale Ministerului Afacerilor Interne a polițiștilor locali cu atribuții în domeniul ordinii și liniștii publice și în domeniul circulației rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278303",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278303",
+     "sha256": "27951cd98b31c53633a2699281c871fbe0403dc02207d5356635d50e7178e8ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-67-2024",
+   "path": "ordin/interne/2024/67",
+   "short": "Ordin interne nr. 67/2024",
+   "title": "Ordinul nr. 67/2024 pentru modificarea și completarea Normativului privind asigurarea tehnică de autovehicule a structurilor Ministerului Afacerilor Interne, aprobat prin Ordinul ministrului internelor și reformei administrative nr. 599/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281602",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281602",
+     "sha256": "adca7b3ad60c9740fb1d24f1f1a9a95b77ca7f24d99a9a8c7f3ffae1094b2eea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-7-2024",
+   "path": "ordin/interne/2024/7",
+   "short": "Ordin interne nr. 7/2024",
+   "title": "Ordinul nr. 7/2024 pentru completarea Ordinului ministrului administrației și internelor nr. 176/2012 privind atribuirea de denumiri onorifice și stabilirea de zile aniversare pentru Ministerul Afacerilor Interne și structuri ale acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278346",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278346",
+     "sha256": "74929d87c7e4305d039b6ebae7bd958e43bd4d78eb8be53c35a6fb0042365201"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-75-2024",
+   "path": "ordin/interne/2024/75",
+   "short": "Ordin interne nr. 75/2024",
+   "title": "Ordinul nr. 75/2024 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului necompetitiv de proiecte - cod: PNRR/2024/C.7/I.8/1, componenta C7 - Transformare digitală, investiția 8 - Carte de identitate electronică și semnătura digitală, jalonul 174 - Punerea în aplicare a măsurilor de sprijin pentru implementarea cărții de identitate electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282329",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282329",
+     "sha256": "d3e2c3551c8e3700167224cf9fc539eb0923967d98b4015b3066bf8e7f59f9c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-82-2024",
+   "path": "ordin/interne/2024/82",
+   "short": "Ordin interne nr. 82/2024",
+   "title": "Ordinul nr. 82/2024 privind condițiile de eliberare a permisului de conducere cu o nouă valabilitate administrativă sau a duplicatului acestuia în cazul pierderii, furtului sau al deteriorării permisului de conducere ori în cazul schimbării numelui titularului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283372",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283372",
+     "sha256": "d2d5b975a2ee15de57f7d168924dd9a4b01ed89c6f8e3754791d0bd6d9e64330"
     }
    ]
   },
@@ -6704,6 +7664,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279085",
      "sha256": "f3f423cc59f66f057839390a62e078ce6d9d88c19b93571d256ab402dfa3978a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1091-2024",
+   "path": "ordin/transporturi/2024/1091",
+   "short": "Ordin transporturi nr. 1091/2024",
+   "title": "Ordinul nr. 1.091/2024 pentru aprobarea Procedurii privind aplicarea măsurii de suspendare a dreptului de utilizare a unui autovehicul prin reținerea plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare, precum și a Procedurii privind modalitatea concretă prin care contravenientul face dovada îndeplinirii condițiilor legale pentru continuarea transportului/deplasării și condițiile necesare care trebuie îndeplinite pentru încetarea măsurii de imobilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292270",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292270",
+     "sha256": "c4e44c58e567df980117c947c90c4bb80f698c82a00609ecd91c20c5c3c0f476"
     }
    ]
   },

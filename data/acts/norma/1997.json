@@ -60,6 +60,25 @@
 "joint": []
 },
 {
+"slug": "norma-dezvoltare-6529-nn-1997",
+"path": "norma/dezvoltare/1997/6529-nn",
+"kind": "norma",
+"year": "1997",
+"number": "6529-nn",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 6.529/NN/1997 de aplicare a Programului privind pietruirea drumurilor comunale și alimentarea cu apă a satelor, aprobat prin Hotărârea Guvernului nr. 577/1997",
+"short": "Norma dezvoltare nr. 6529/NN/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-10-27",
+"latest": "1997-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/13891",
+"issuer": "dezvoltare",
+"joint": []
+},
+{
 "slug": "norma-finante-147-tb-1997",
 "path": "norma/finante/1997/147-tb",
 "kind": "norma",
@@ -95,6 +114,25 @@
 "latest": "1997-12-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13899",
 "issuer": "finante",
+"joint": []
+},
+{
+"slug": "norma-interne-683-1997",
+"path": "norma/interne/1997/683",
+"kind": "norma",
+"year": "1997",
+"number": "683",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 683/1997 privind modalitățile tehnice de prestare a serviciilor supuse taxelor consulare și controlul încasărilor rezultate din aceste servicii",
+"short": "Norma interne nr. 683/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-01-20",
+"latest": "1998-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/13455",
+"issuer": "interne",
 "joint": []
 },
 {

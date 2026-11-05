@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1475-2006",
+   "path": "ordin/agricultura/2006/1475",
+   "short": "Ordin agricultura nr. 1475/2006",
+   "title": "Ordinul nr. 1.475/2006 pentru aprobarea Regulamentului privind monitorizarea și gestionarea riscurilor cauzate de căderile de grindină și secetă severă, a Regulamentului privind gestionarea situațiilor de urgență în domeniul fitosanitar - invazii ale agenților de dăunare și contaminarea culturilor agricole cu produse de uz fitosanitar și a Regulamentului privind gestionarea situațiilor de urgență ca urmare a incendiilor de pădure",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78224",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78224",
+     "sha256": "52d620bb6d90969137dc792e7a72bc8b22a08d552e0277ea7bc1a50da415d4b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-212-2006",
+   "path": "ordin/agricultura/2006/212",
+   "short": "Ordin agricultura nr. 212/2006",
+   "title": "Ordinul nr. 212/2006 privind aprobarea tarifului unic pentru activitățile specifice desfășurate de Agenția Națională de Cadastru și Publicitate Imobiliară și de instituțiile sale subordonate, perceput pentru terenurile agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71256",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71256",
+     "sha256": "903eba4a3b7c3db0ca56716be877aa9d0277336ab20efc5962e726687195b332"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-317-2006",
    "path": "ordin/agricultura/2006/317",
    "short": "Ordin agricultura nr. 317/2006",
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-462-2006",
+   "path": "ordin/agricultura/2006/462",
+   "short": "Ordin agricultura nr. 462/2006",
+   "title": "Ordinul nr. 462/2006 pentru aprobarea Normelor de instituire și gestionare a drepturilor individuale de plantare/replantare a viței-de-vie cu struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74221",
+   "versions": [
+    {
+     "from": "2006-10-09",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74221",
+     "sha256": "98e0bbe9590f789e4608b5d066e4b7b1d7c397dc1133bfca90da55e959ba0854"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-560-2006",
    "path": "ordin/agricultura/2006/560",
    "short": "Ordin agricultura nr. 560/2006",
@@ -389,6 +434,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81338",
      "sha256": "74f6040cb8e8a860a58939a43ae0816057bfc48d6f7d655b0916e97bd0ed36bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-810-2006",
+   "path": "ordin/agricultura/2006/810",
+   "short": "Ordin agricultura nr. 810/2006",
+   "title": "Ordinul nr. 810/2006 pentru aprobarea punctelor de trecere a frontierei de stat prin care se efectuează importul, exportul și tranzitul de vegetale și produse vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79405",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79405",
+     "sha256": "637c45457c6a6e4c517de7e7643f1a831ac2b7c6bd3dd1cee396d9ee2c07a67a"
     }
    ]
   },
@@ -2508,6 +2568,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-470-2006",
+   "path": "ordin/comunicatii/2006/470",
+   "short": "Ordin comunicatii nr. 470/2006",
+   "title": "Ordinul nr. 470/2006 pentru aprobarea Regulamentului privind managementul situațiilor de urgență specifice tipurilor de riscuri din domeniul de competență al Ministerului Comunicațiilor și Tehnologiei Informației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69119",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69119",
+     "sha256": "0ff62d86bf9dbb89abb6e6940659e41c51ce989af4cdfbc87b360b339c5c5531"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-119-2006",
    "path": "ordin/concurenta/2006/119",
    "short": "Ordin concurenta nr. 119/2006",
@@ -3119,6 +3194,21 @@
      "units": 53,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74136",
      "sha256": "e2fd9e86e94fa89a6e9fe32bcf37ca5b0f285996a0db5de3b2377d726f6ba47f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-811-2006",
+   "path": "ordin/externe/2006/811",
+   "short": "Ordin externe nr. 811/2006",
+   "title": "Ordinul nr. 811/2006 privind procedura aplicabilă în cazul necooperării unor reprezentanțe diplomatice în legătură cu eliberarea documentelor de călătorie necesare pentru îndepărtarea străinilor de pe teritoriul statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72434",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72434",
+     "sha256": "f81af9b132fe6cab9d13845ebdfe38a73bf9ee2072bd273fa4b8487f2e0abf39"
     }
    ]
   },
@@ -4533,6 +4623,111 @@
    ]
   },
   {
+   "slug": "ordin-interne-1134-2006",
+   "path": "ordin/interne/2006/1134",
+   "short": "Ordin interne nr. 1134/2006",
+   "title": "Ordinul nr. 1.134/2006 pentru aprobarea Regulamentului privind planificarea, pregătirea, organizarea, desfășurarea și conducerea acțiunilor de intervenție ale serviciilor de urgență profesioniste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68030",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68030",
+     "sha256": "8a5f31f78106d0635cbcf4e587d9b0b684130901d7c726f72281f4914f16e89a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1152-2006",
+   "path": "ordin/interne/2006/1152",
+   "short": "Ordin interne nr. 1152/2006",
+   "title": "Ordinul nr. 1.152/2006 privind acordarea celui de-al doilea titlu de parc industrial Societății Comerciale \"Tetarom\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68233",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68233",
+     "sha256": "e62a893546f8d38e03301754b87789a5659ba52687ddc778b7c9f8ccc2f20bee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1180-2006",
+   "path": "ordin/interne/2006/1180",
+   "short": "Ordin interne nr. 1180/2006",
+   "title": "Ordinul nr. 1.180/2006 pentru aprobarea Normelor tehnice privind întreținerea, repararea, depozitarea și evidența mijloacelor tehnice de protecție civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69221",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69221",
+     "sha256": "58aa488a638d50c8da617e444c95233ceac3decf695e1043ec878b680a41c5b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1181-2006",
+   "path": "ordin/interne/2006/1181",
+   "short": "Ordin interne nr. 1181/2006",
+   "title": "Ordinul nr. 1.181/2006 privind calendarul de desfășurare a concursului național de admitere și componența nominală a comisiilor de organizare, de admitere și de contestații, constituite pentru concursul național de admitere la Programul de formare specializată destinat funcționarilor publici de conducere, anul de studii 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68727",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68727",
+     "sha256": "9fe7f533aed243d5fe6fdc26d63a15acdb148ea1940c8537dfcc16fe5f040275"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1182-2006",
+   "path": "ordin/interne/2006/1182",
+   "short": "Ordin interne nr. 1182/2006",
+   "title": "Ordinul nr. 1.182/2006 privind stabilirea tarifelor de participare la Programul de formare specializată destinat funcționarilor publici de conducere, anul de studii 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68725",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68725",
+     "sha256": "3441a1e44d33869294466544682dc14f196820827427f3b9ddd42023a1450a2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1184-2006",
+   "path": "ordin/interne/2006/1184",
+   "short": "Ordin interne nr. 1184/2006",
+   "title": "Ordinul nr. 1.184/2006 pentru aprobarea Normelor privind organizarea și asigurarea activității de evacuare în situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69160",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69160",
+     "sha256": "d8f7c5cd15ac8acf3fdc4eeef558d746aa3cb3e76c4f70a7bc4eb64e1156b179"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1224-2006",
+   "path": "ordin/interne/2006/1224",
+   "short": "Ordin interne nr. 1224/2006",
+   "title": "Ordinul nr. 1.224/2006 privind accesul gratuit al luptătorilor pentru victoria Revoluției din decembrie 1989 și al urmașilor eroilor-martiri la tratamente și medicamente în spitale, centre medicale de diagnostic și tratament ambulatoriu și baze de tratament din Ministerul Administrației și Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70068",
+   "versions": [
+    {
+     "from": "2006-03-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70068",
+     "sha256": "904e3cbb0b4b1818991024284e9f73b0abe1dd242f7551fe6d9701b34f39eb03"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1253-2006",
    "path": "ordin/interne/2006/1253",
    "short": "Ordin interne nr. 1253/2006",
@@ -4544,6 +4739,36 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70547",
      "sha256": "27bd0cce775bfbfc2ce9391bcd3a58114037afee5768a52e764fe81e5584fdd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1259-2006",
+   "path": "ordin/interne/2006/1259",
+   "short": "Ordin interne nr. 1259/2006",
+   "title": "Ordinul nr. 1.259/2006 pentru aprobarea Normelor privind organizarea și asigurarea activității de înștiințare, avertizare, prealarmare și alarmare în situații de protecție civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70912",
+   "versions": [
+    {
+     "from": "2006-05-18",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70912",
+     "sha256": "160a82c2924e52ddde9fe43d7246d6782a4f4f1df13a9b9e4339d976f4c17f2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1260-2006",
+   "path": "ordin/interne/2006/1260",
+   "short": "Ordin interne nr. 1260/2006",
+   "title": "Ordinul nr. 1.260/2006 pentru aprobarea Metodologiei privind organizarea și funcționarea ghișeului unic în cadrul serviciilor publice comunitare locale de evidență a persoanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71228",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71228",
+     "sha256": "ff71a1badcdeb9ec04a6a20dccf6aa6fc25d76f7d96a966a16d2936addfc10f8"
     }
    ]
   },
@@ -4563,6 +4788,306 @@
    ]
   },
   {
+   "slug": "ordin-interne-1286-2006",
+   "path": "ordin/interne/2006/1286",
+   "short": "Ordin interne nr. 1286/2006",
+   "title": "Ordinul nr. 1.286/2006 privind cazurile care justifică deținerea simultană a două sau mai multe pașapoarte simple",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71543",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71543",
+     "sha256": "4ade124f9ad937c58fadc0066ea0925ca47d7787b309ed0426e0570e33ed8c2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1287-2006",
+   "path": "ordin/interne/2006/1287",
+   "short": "Ordin interne nr. 1287/2006",
+   "title": "Ordinul nr. 1.287/2006 privind materialele care se confecționează și se distribuie gratuit serviciilor publice comunitare de evidență a persoanelor de către Ministerul Administrației și Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71548",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71548",
+     "sha256": "73fe302c13bd6c65798c3053d85cd366584d62d7d0abcbe0bdbb17aba24e8de4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1298-2006",
+   "path": "ordin/interne/2006/1298",
+   "short": "Ordin interne nr. 1298/2006",
+   "title": "Ordinul nr. 1.298/2006 pentru aprobarea Normelor metodologice de avizare și autorizare privind protecția civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71723",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71723",
+     "sha256": "f2d6bbe6cef6fa513b58b4912eeaf4a4161f0c8c34e651193ee4b79d4f8c0af2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1311-2006",
+   "path": "ordin/interne/2006/1311",
+   "short": "Ordin interne nr. 1311/2006",
+   "title": "Ordinul nr. 1.311/2006 privind anularea titlului de parc industrial acordat Societății Comerciale \"PISA - Parcul Industrial Sebeș-Alba\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72075",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72075",
+     "sha256": "cf98c9feca15faf11a2ff536493f13de50003a5c2c819c86d2c5e0f5483f63c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1312-2006",
+   "path": "ordin/interne/2006/1312",
+   "short": "Ordin interne nr. 1312/2006",
+   "title": "Ordinul nr. 1.312/2006 pentru aprobarea Normelor metodologice de avizare și autorizare privind prevenirea și stingerea incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72156",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72156",
+     "sha256": "15d41f39720102ad455ec9c1a0f26ee550ae119a40ea333a64dae09870b4f1b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1315-2006",
+   "path": "ordin/interne/2006/1315",
+   "short": "Ordin interne nr. 1315/2006",
+   "title": "Ordinul nr. 1.315/2006 privind modificarea Ordinului ministrului administrației și internelor nr. 518/2003 pentru punerea în aplicare a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72373",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72373",
+     "sha256": "439dd0f7f0924c7645d981b7ba7f397cf1ef644ec9c1f49c7363f28f23ff98fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1318-2006",
+   "path": "ordin/interne/2006/1318",
+   "short": "Ordin interne nr. 1318/2006",
+   "title": "Ordinul nr. 1.318/2006 privind aprobarea Procedurii de investigare a accidentelor majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72778",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72778",
+     "sha256": "f24b31dd4df771533a564aa51d32aa518a0ff6fb845c8b8e1aaef43d9f68869b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1319-2006",
+   "path": "ordin/interne/2006/1319",
+   "short": "Ordin interne nr. 1319/2006",
+   "title": "Ordinul nr. 1.319/2006 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor în domeniul arhivistic, precum și a modelului de legitimație a persoanelor împuternicite să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72368",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72368",
+     "sha256": "48662708fb11456df018d173e46b2972042522e4fe67ec7f193af096dd8bc0fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1352-2006",
+   "path": "ordin/interne/2006/1352",
+   "short": "Ordin interne nr. 1352/2006",
+   "title": "Ordinul nr. 1.352/2006 pentru aprobarea Metodologiei de organizare, asigurare a activităților de evacuare a persoanelor, bunurilor, documentelor și materialelor care conțin informații clasificate, în situații de conflict armat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73173",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73173",
+     "sha256": "925e680e552dc1703615eabad2fbc07a9d160c1876731818aee9b920b1815fac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1414-2006",
+   "path": "ordin/interne/2006/1414",
+   "short": "Ordin interne nr. 1414/2006",
+   "title": "Ordinul nr. 1.414/2006 privind modificarea anexei nr. 1 la Ordinul ministrului administrației și internelor nr. 1.319/2006 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor în domeniul arhivistic, precum și a modelului de legitimație a persoanelor împuternicite să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74666",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74666",
+     "sha256": "6c6843ddcdde136f8b0cb31d268e714e3fb1f8179918e55f1902deab99d81cfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1428-2006",
+   "path": "ordin/interne/2006/1428",
+   "short": "Ordin interne nr. 1428/2006",
+   "title": "Ordinul nr. 1.428/2006 pentru aprobarea \"P.M. - 2, Norme privind condițiile în care pot circula pe drumurile publice vehiculele speciale de luptă, controlul circulației autovehiculelor aparținând Ministerului Apărării și însoțirea coloanelor militare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75259",
+   "versions": [
+    {
+     "from": "2006-09-20",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75259",
+     "sha256": "bf5803623619f3fc661e7c87a53005862a0a43589a938657bb2d67bdb1035982"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1433-2006",
+   "path": "ordin/interne/2006/1433",
+   "short": "Ordin interne nr. 1433/2006",
+   "title": "Ordinul nr. 1.433/2006 privind aprobarea tarifelor pentru eliberarea avizelor și autorizațiilor de securitate la incendiu și protecție civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75379",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75379",
+     "sha256": "f9b8c6046c7b9ee871df16503daf57c2eca8ca4a1535445f6219b5571782e51f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1435-2006",
+   "path": "ordin/interne/2006/1435",
+   "short": "Ordin interne nr. 1435/2006",
+   "title": "Ordinul nr. 1.435/2006 pentru aprobarea Normelor metodologice de avizare și autorizare privind securitatea la incendiu și protecția civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75551",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75551",
+     "sha256": "1dcb6e492d476a8048986b86f4c17461ccce4dad2254157aca2ad2f23500cd62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1436-2006",
+   "path": "ordin/interne/2006/1436",
+   "short": "Ordin interne nr. 1436/2006",
+   "title": "Ordinul nr. 1.436/2006 pentru aprobarea Metodologiei privind organizarea și desfășurarea activității de avizare a normelor și reglementărilor tehnice de apărare împotriva incendiilor, emise de ministere și celelalte organe ale administrației publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75548",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75548",
+     "sha256": "f3c6002ebecf2a6bd0cca66379d797dd983349020bbf381aa3feaa224e5f22a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1462-2006",
+   "path": "ordin/interne/2006/1462",
+   "short": "Ordin interne nr. 1462/2006",
+   "title": "Ordinul nr. 1.462/2006 privind modificarea Ordinului ministrului mediului și gospodăririi apelor, al ministrului economiei și comerțului și al ministrului administrației și internelor nr. 1.229/731/1.095/2005 pentru aprobarea Procedurii și criteriilor de autorizare a operatorilor economici în vederea preluării responsabilității privind realizarea obiectivelor anuale de valorificare și reciclare a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75833",
+   "versions": [
+    {
+     "from": "2006-10-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75833",
+     "sha256": "3f06dae03a6b5bb35e42fcfc54da5617d5871eb83f1e41c4aa1182b576c9c60b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1474-2006",
+   "path": "ordin/interne/2006/1474",
+   "short": "Ordin interne nr. 1474/2006",
+   "title": "Ordinul nr. 1.474/2006 pentru aprobarea Regulamentului de planificare, organizare, pregătire și desfășurare a activității de prevenire a situațiilor de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76347",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76347",
+     "sha256": "cab52307d76cab8e5edace71c081b737eae7463a53269c2ce48dd89b465d996a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1489-2006",
+   "path": "ordin/interne/2006/1489",
+   "short": "Ordin interne nr. 1489/2006",
+   "title": "Ordinul nr. 1.489/2006 pentru aprobarea Codului de etică și deontologie a personalului din Inspectoratul General pentru Situații de Urgență și din structurile subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76719",
+   "versions": [
+    {
+     "from": "2006-11-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76719",
+     "sha256": "e01bf0f698e391183080e36ad72d2b3e78a8f6f5f3331d97ac6167b54a3e3402"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1494-2006",
+   "path": "ordin/interne/2006/1494",
+   "short": "Ordin interne nr. 1494/2006",
+   "title": "Ordinul nr. 1.494/2006 pentru aprobarea Normelor tehnice privind organizarea și funcționarea taberelor pentru sinistrați în situații de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76814",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76814",
+     "sha256": "4baf058f2cec087de65128b4a49cd5990f3aa08577606e641d92ac4f4f401cc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1508-2006",
+   "path": "ordin/interne/2006/1508",
+   "short": "Ordin interne nr. 1508/2006",
+   "title": "Ordinul nr. 1.508/2006 pentru realizarea și implementarea în sistemul educațional a Programului național de educație antiseismică a elevilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78381",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78381",
+     "sha256": "4adab7ce8c1cdef8e9a366d18c9e62be4e915a41994ee4643275777cf554e518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-1513-2006",
+   "path": "ordin/interne/2006/1513",
+   "short": "Ordin interne nr. 1513/2006",
+   "title": "Ordinul nr. 1.513/2006 privind calendarul de desfășurare a concursului național de admitere și componența nominală a comisiilor de organizare, de admitere și de contestații, constituite pentru concursul național de admitere la Programul de formare specializată destinat înalților funcționari publici, anul de studii 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77235",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77235",
+     "sha256": "713d47ad495df29ba82e64ec1a0da45ad7753752b16e19a04a7b2b3d2f0ffef9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1540-2006",
    "path": "ordin/interne/2006/1540",
    "short": "Ordin interne nr. 1540/2006",
@@ -4574,6 +5099,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78494",
      "sha256": "7f279084cefaf031f05648bc1084d4385a7bdf125f459e3484cec9145d4226dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-614-2006",
+   "path": "ordin/interne/2006/614",
+   "short": "Ordin interne nr. 614/2006",
+   "title": "Ordinul nr. 614/2006 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 558/2006 privind stabilirea persoanelor împuternicite să constate contravențiile și faptele ce pot fi considerate infracțiuni și să aplice sancțiunile pentru contravențiile constatate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75858",
+   "versions": [
+    {
+     "from": "2006-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75858",
+     "sha256": "91a277b18b0ba8a0456dfb2aba66b04da7d30fbddaac10de2dc16fcd76da4eb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-9055-2006",
+   "path": "ordin/interne/2006/9055",
+   "short": "Ordin interne nr. 9055/2006",
+   "title": "Ordinul nr. 9.055/2006 pentru stabilirea modalității de acordare a calificativelor și aprobarea Criteriilor de performanță pe baza cărora se face evaluarea performanțelor profesionale individuale ale funcționarilor publici pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75980",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75980",
+     "sha256": "09434ccb1f422b7241230999b0ebce97ee265a261c397a76e2e8eaf1e5614b45"
     }
    ]
   },
@@ -4968,6 +5523,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1281-2006",
+   "path": "ordin/mediu/2006/1281",
+   "short": "Ordin mediu nr. 1281/2006",
+   "title": "Ordinul nr. 1.281/2006 privind stabilirea modalităților de identificare a containerelor pentru diferite tipuri de materiale în scopul aplicării colectării selective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68066",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68066",
+     "sha256": "5379774197ea8c355180a420a8fef94a4d12befc2bab5b0cd44de3f1dfb687a3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1371-2006",
    "path": "ordin/mediu/2006/1371",
    "short": "Ordin mediu nr. 1371/2006",
@@ -4979,6 +5549,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78568",
      "sha256": "8c5ba88c03f1496c60f4f14c308c5d3dc6703e7eef37204421657a9e6fe393a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-194-2006",
+   "path": "ordin/mediu/2006/194",
+   "short": "Ordin mediu nr. 194/2006",
+   "title": "Ordinul nr. 194/2006 pentru modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor, al ministrului economiei și comerțului și al ministrului administrației și internelor nr. 1.229/731/1.095/2005 pentru aprobarea Procedurii și criteriilor de autorizare a operatorilor economici în vederea preluării responsabilității privind realizarea obiectivelor anuale de valorificare și reciclare a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72464",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72464",
+     "sha256": "d743950d81412658dcf9215b623cdc68cdf3299e766c51a4f7fa0671f04fffb6"
     }
    ]
   },
@@ -5024,6 +5609,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74619",
      "sha256": "fe37baabda1a1f859664cc1a4100632bd836296c4a5ac191e7858488a6b0d23b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-823-2006",
+   "path": "ordin/mediu/2006/823",
+   "short": "Ordin mediu nr. 823/2006",
+   "title": "Ordinul nr. 823/2006 pentru aprobarea procedurilor de codificare a atenționărilor și avertizărilor meteorologice și a avertizărilor și alertelor hidrologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75301",
+   "versions": [
+    {
+     "from": "2006-09-21",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75301",
+     "sha256": "01914db8b3b618e3531f0307a4fd68c5477ae34010db217554951d14a2f6c01f"
     }
    ]
   },
@@ -8223,6 +8823,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-133-2006",
+   "path": "ordin/transporturi/2006/133",
+   "short": "Ordin transporturi nr. 133/2006",
+   "title": "Ordinul nr. 133/2006 pentru modificarea și completarea Regulamentului privind clasificarea și încadrarea produselor pentru construcții pe baza performanțelor de comportare la foc, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului și al ministrului administrației și internelor nr. 1.822/394/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70443",
+   "versions": [
+    {
+     "from": "2006-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70443",
+     "sha256": "272ce4a910164e7e9bae04ddae264b15ec5bc7f268176e24551a9b15c8a849cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-135-2006",
+   "path": "ordin/transporturi/2006/135",
+   "short": "Ordin transporturi nr. 135/2006",
+   "title": "Ordinul nr. 135/2006 pentru modificarea Normelor metodologice privind executarea lucrărilor de cadastru de specialitate al căilor ferate, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței și al ministrului administrației publice nr. 788/205/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69573",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69573",
+     "sha256": "0d5276ab86190fb0e88d209fe2e14becddf5bca2b3f8c1f9ca1b9bb548015768"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1373-2006",
+   "path": "ordin/transporturi/2006/1373",
+   "short": "Ordin transporturi nr. 1373/2006",
+   "title": "Ordinul nr. 1.373/2006 privind aprobarea Normelor metodologice pentru punerea în aplicare a Programului național privind sprijinirea construirii de locuințe proprietate personală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74623",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74623",
+     "sha256": "a5babffbf11d73543a2c833fee8735bf367a302c3b187413bb58260e978a40bb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1532-2006",
    "path": "ordin/transporturi/2006/1532",
    "short": "Ordin transporturi nr. 1532/2006",
@@ -8234,6 +8879,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74636",
      "sha256": "938f6155ff932d0154fc1aab649fcc7596693433fa7c57e0c6d771b9b1ca41b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1945-2006",
+   "path": "ordin/transporturi/2006/1945",
+   "short": "Ordin transporturi nr. 1945/2006",
+   "title": "Ordinul nr. 1.945/2006 pentru aprobarea reglementării tehnice \"Normativ privind prevenirea și combaterea înzăpezirii drumurilor publice\", indicativ AND 525-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72245",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72245",
+     "sha256": "4201d4f6de2cbecda0c3410cbb148217a4106a8fd80b68b991d79a7d02aef1be"
     }
    ]
   },
