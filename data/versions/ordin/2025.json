@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-14-2025",
+   "path": "ordin/agricultura/2025/14",
+   "short": "Ordin agricultura nr. 14/2025",
+   "title": "Ordinul nr. 14/2025 privind completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 195/2018 privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 420/2019, și a Normelor metodologice pentru aplicarea prevederilor Legii nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019, precum și pentru stabilirea unor măsuri de aplicare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293979",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293979",
+     "sha256": "f576b3f149442c22ec1f79aede03c7850b8f99484448d02ae6b31839e6cfd403"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-144-2025",
    "path": "ordin/agricultura/2025/144",
    "short": "Ordin agricultura nr. 144/2025",
@@ -29,6 +44,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299022",
      "sha256": "139fd5dc4dd44ac78e6885b6658e414e64eb0e3052628ef1c556a88f6ac42dbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-145-2025",
+   "path": "ordin/agricultura/2025/145",
+   "short": "Ordin agricultura nr. 145/2025",
+   "title": "Ordinul nr. 145/2025 pentru modificarea și completarea art. 20 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 107/2024 privind implementarea măsurilor și intervențiilor compensatorii de mediu și climă din Programul Național de Dezvoltare Rurală 2014-2020 și din Planul strategic PAC 2023-2027, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296679",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296679",
+     "sha256": "246e6a655a8df432df1743a46482f655070d19c66b42f8b9eb2a7730815f8210"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-147-2025",
+   "path": "ordin/agricultura/2025/147",
+   "short": "Ordin agricultura nr. 147/2025",
+   "title": "Ordinul nr. 147/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 73/2025 privind aprobarea formularului-tip al cererii de plată pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296784",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296784",
+     "sha256": "12fc463a8d2d50cf8b2fa9ffabab574497012bde8adfdf7b4028adc4fd237d76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-154-2025",
+   "path": "ordin/agricultura/2025/154",
+   "short": "Ordin agricultura nr. 154/2025",
+   "title": "Ordinul nr. 154/2025 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.731/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor și întreprinderilor mici din spațiul rural pentru înființarea și dezvoltarea activităților economice neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296892",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296892",
+     "sha256": "57c0e5399e3678658b630edde6797ec84487b4f1057452f75d44ad0b10105745"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-155-2025",
+   "path": "ordin/agricultura/2025/155",
+   "short": "Ordin agricultura nr. 155/2025",
+   "title": "Ordinul nr. 155/2025 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 107/2017 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru implementarea acțiunilor în cadrul strategiei de dezvoltare locală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296893",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296893",
+     "sha256": "2d4c6497183b63dbe8b34dc8c4249f3986f1ce80851494e02cf3fb2533b0e3c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-159-2025",
+   "path": "ordin/agricultura/2025/159",
+   "short": "Ordin agricultura nr. 159/2025",
+   "title": "Ordinul nr. 159/2025 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 45/2022 pentru aprobarea regulilor privind înregistrarea activității operatorilor/grupurilor de operatori în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297991",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297991",
+     "sha256": "3e1f57a66b69ab1e21685951901c34b6e6b9a51937eecb6e0fa22c2571fc53c8"
     }
    ]
   },
@@ -63,6 +153,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-168-2025",
+   "path": "ordin/agricultura/2025/168",
+   "short": "Ordin agricultura nr. 168/2025",
+   "title": "Ordinul nr. 168/2025 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 91/2023 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298404",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298404",
+     "sha256": "c8c77b88e9162b7c59a691f7f50fdd26ab88f9c3e4cd6ed1badded67010d1008"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-178-2025",
+   "path": "ordin/agricultura/2025/178",
+   "short": "Ordin agricultura nr. 178/2025",
+   "title": "Ordinul nr. 178/2025 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 125/2024 pentru aprobarea criteriilor de eligibilitate, a documentelor justificative și a condițiilor pentru implementarea intervențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul de cerere 2024, și a art. 2 alin. (1^5) din Ordinul ministrului agriculturii și dezvoltării rurale nr. 45/2022 pentru aprobarea regulilor privind înregistrarea activității operatorilor/grupurilor de operatori în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298375",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298375",
+     "sha256": "3ede87e284d7313dee3ccb254a3c3d974f61690b2d87db874750fe21359541af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-179-2025",
+   "path": "ordin/agricultura/2025/179",
+   "short": "Ordin agricultura nr. 179/2025",
+   "title": "Ordinul nr. 179/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 106/2024 privind modalitatea de implementare, îndeplinirea criteriilor de eligibilitate, a condițiilor și altor cerințe specifice, inclusiv tipurile de documente justificative pentru intervențiile aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298340",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298340",
+     "sha256": "3a813926546bc5dfdd371a191cfa106d1fb06f1222d1a8a4afc9727c1d61cb41"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-187-2025",
    "path": "ordin/agricultura/2025/187",
    "short": "Ordin agricultura nr. 187/2025",
@@ -74,6 +209,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298531",
      "sha256": "8593f97314fff9027912e3e52a546ea61f737d830241ada502168e8308481a89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-188-2025",
+   "path": "ordin/agricultura/2025/188",
+   "short": "Ordin agricultura nr. 188/2025",
+   "title": "Ordinul nr. 188/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 73/2025 privind aprobarea formularului-tip al cererii de plată pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298461",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298461",
+     "sha256": "61b8bd4346a7398f6d434f855556ef30ac90f1d11f6b5def06087c2084aa5ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-19-2025",
+   "path": "ordin/agricultura/2025/19",
+   "short": "Ordin agricultura nr. 19/2025",
+   "title": "Ordinul nr. 19/2025 privind modificarea unor acte normative în domeniul calității semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294273",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294273",
+     "sha256": "0ac61418d376e91754dff6ffd24d7f678e9141607a1132423b42c73674d981a6"
     }
    ]
   },
@@ -108,6 +273,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-192-2025",
+   "path": "ordin/agricultura/2025/192",
+   "short": "Ordin agricultura nr. 192/2025",
+   "title": "Ordinul nr. 192/2025 privind modificarea și completarea anexei nr. 21 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 278/2024 pentru aprobarea sistemului de sancțiuni aplicabil intervențiilor și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor de plată începând cu anul de cerere 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298462",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298462",
+     "sha256": "c820fc2d0331cac10720c54aa0d41a59df62dbddbbc2d3a7a6b5583648459e43"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-20-2025",
    "path": "ordin/agricultura/2025/20",
    "short": "Ordin agricultura nr. 20/2025",
@@ -119,6 +299,21 @@
      "units": 68,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294168",
      "sha256": "07a1c1f193a77ae0b35732fca4acd2749386366426c4c716569726150c73cdbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-203-2025",
+   "path": "ordin/agricultura/2025/203",
+   "short": "Ordin agricultura nr. 203/2025",
+   "title": "Ordinul nr. 203/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 362/2021 pentru aprobarea Programului național privind realizarea și reactualizarea Sistemului național de monitorizare sol-teren pentru agricultură, a Normelor de conținut pentru studiile pedologice și agrochimice elaborate în vederea realizării și reactualizării periodice a Sistemului județean de monitorizare sol-teren pentru agricultură și a realizării Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazelor de date aferente, a Metodologiei privind realizarea și reactualizarea Sistemului județean de monitorizare sol-teren pentru agricultură și a Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazelor de date aferente, a Normelor de conținut privind realizarea Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazei de date aferente rețelei de profile 8 x 8 km, precum și realizarea bazei de date la nivel național aferente Sistemului județean de monitorizare sol-teren pentru agricultură și a Modului de finanțare a Sistemului județean de monitorizare sol-teren pentru agricultură, a Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km, precum și a bazelor de date aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299073",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299073",
+     "sha256": "89a17a183ee2424ace756d1984cf1fda9ce6470c5f4f85086cef34b78572410b"
     }
    ]
   },
@@ -138,6 +333,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-213-2025",
+   "path": "ordin/agricultura/2025/213",
+   "short": "Ordin agricultura nr. 213/2025",
+   "title": "Ordinul nr. 213/2025 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 117/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervenției IS-V-01 \"Restructurarea și reconversia plantațiilor viticole\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299043",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299043",
+     "sha256": "2395dfc83f68226e9689f289e578fa1fee5dc4b33c863ebd7632b78053e80eed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-215-2025",
    "path": "ordin/agricultura/2025/215",
    "short": "Ordin agricultura nr. 215/2025",
@@ -153,6 +363,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-218-2025",
+   "path": "ordin/agricultura/2025/218",
+   "short": "Ordin agricultura nr. 218/2025",
+   "title": "Ordinul nr. 218/2025 privind completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 165/2025 pentru aprobarea măsurilor privind exploatarea prin pescuit comercial a resurselor acvatice vii din habitatele acvatice naturale, cu excepția celor din Rezervația Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299129",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299129",
+     "sha256": "f30ad0248729badc44ea458eb5b0fc5299842a12fe1013149831e3148e287f12"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-22-2025",
    "path": "ordin/agricultura/2025/22",
    "short": "Ordin agricultura nr. 22/2025",
@@ -164,6 +389,21 @@
      "units": 64,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295794",
      "sha256": "072e689484c49f51a1bdd0972da17b56f7d11cb9b4bad061be6d50d57a450333"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-221-2025",
+   "path": "ordin/agricultura/2025/221",
+   "short": "Ordin agricultura nr. 221/2025",
+   "title": "Ordinul nr. 221/2025 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 185/2025 pentru aprobarea cuantumului unitar al plăților directe aferente cererilor de plată depuse în anul 2024, finanțate din Fondul european de garantare agricolă prin intervențiile din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299186",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299186",
+     "sha256": "6a375d9d507554cc87a297ade4d51159963aebf0800cfe5068d386a7f01815cf"
     }
    ]
   },
@@ -288,6 +528,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-288-2025",
+   "path": "ordin/agricultura/2025/288",
+   "short": "Ordin agricultura nr. 288/2025",
+   "title": "Ordinul nr. 288/2025 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 453/2009 privind instituirea procedurii de administrare specială la Societatea Comercială \"Agroprodcom\" - S.A. Odorheiu Secuiesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301889",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301889",
+     "sha256": "fa8e46a50659ba68e69c1eea773fa2ae6abdc687003e02877578acb45c5a7269"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-297-2025",
+   "path": "ordin/agricultura/2025/297",
+   "short": "Ordin agricultura nr. 297/2025",
+   "title": "Ordinul nr. 297/2025 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 393/2023 privind aprobarea Sistemului de sancțiuni administrative pentru condiționalitate începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301907",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301907",
+     "sha256": "53fc219078d3788aa72e716ee670fabcb8dc9f92fc3f5553dc506d1032b925b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-298-2025",
+   "path": "ordin/agricultura/2025/298",
+   "short": "Ordin agricultura nr. 298/2025",
+   "title": "Ordinul nr. 298/2025 pentru modificarea anexelor la Ordinul ministrului agriculturii și dezvoltării rurale nr. 49/2025 privind modalitatea de implementare a intervenției IS-V-02 \"Investiții în active corporale și necorporale\" și a intervenției IS-V-07 \"Investiții în active corporale și necorporale menite să sporească durabilitatea producției de vin\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301914",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301914",
+     "sha256": "84952865eab897848414e96cd6d145e2a4c9c01724a3697ae89d1e69fa13ce58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-299-2025",
+   "path": "ordin/agricultura/2025/299",
+   "short": "Ordin agricultura nr. 299/2025",
+   "title": "Ordinul nr. 299/2025 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 148/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervenției IS-V-03 \"Asigurarea recoltelor\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301964",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301964",
+     "sha256": "95b573762eb8c5f2432a64cf470fe146b6ca698b0c9a4364a1c7cc9298b91978"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-3-2025",
    "path": "ordin/agricultura/2025/3",
    "short": "Ordin agricultura nr. 3/2025",
@@ -299,6 +599,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293545",
      "sha256": "1130eb7aec29d0578c803c29b930c5f55df20fe5d3a2e69402a8eac626111c86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-332-2025",
+   "path": "ordin/agricultura/2025/332",
+   "short": "Ordin agricultura nr. 332/2025",
+   "title": "Ordinul nr. 332/2025 privind aprobarea Procedurii de acordare a garanțiilor prevăzute la art. IX din Ordonanța Guvernului nr. 19/2025 pentru modificarea și completarea unor acte normative din domeniul garantării, creditării și gestionării fondurilor europene nerambursabile aferente politicii agricole comune, regulile de gestionare a plafonului de garantare, criteriile de eligibilitate pentru acordarea garanțiilor, garanțiile suplimentare aferente creditului, plata garanțiilor, recuperarea creanțelor, dispozițiile privind raportarea, precum și a modelului Convenției de garantare și Convenției de implementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302701",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302701",
+     "sha256": "a2444affc67868b4b599c120959034b2e47a8307112986a41558b785d87af94e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-336-2025",
+   "path": "ordin/agricultura/2025/336",
+   "short": "Ordin agricultura nr. 336/2025",
+   "title": "Ordinul nr. 336/2025 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 499/2023 pentru aprobarea Procedurii privind acordarea garanțiilor pentru beneficiarii Programului național de dezvoltare și susținere a industriei alimentare INVESTALIM aferent perioadei 2023-2026, regulile de gestionare a plafonului de garantare, criteriile de eligibilitate pentru acordarea garanțiilor, garanțiile suplimentare aferente creditului, plata garanțiilor, recuperarea creanțelor, dispozițiile privind transparența, monitorizarea și raportarea, precum și a modelelor convenției de garantare și convenției de implementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302960",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302960",
+     "sha256": "708eba080f088e1ce81796d28788acb8ae3e28f777267d44bb1caaf840a7e891"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-340-2025",
+   "path": "ordin/agricultura/2025/340",
+   "short": "Ordin agricultura nr. 340/2025",
+   "title": "Ordinul nr. 340/2025 privind modificarea anexelor nr. 5 și 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a anexelor nr. 4 și 5 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303348",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303348",
+     "sha256": "3abf0adf13619e28e16f9a218d843ae629d30bd89fad83e58e6d84880a7c8973"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-343-2025",
+   "path": "ordin/agricultura/2025/343",
+   "short": "Ordin agricultura nr. 343/2025",
+   "title": "Ordinul nr. 343/2025 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al președintelui Agenției Naționale pentru Achiziții Publice nr. 346/1.718/2023 pentru aprobarea criteriilor de calificare privind capacitatea ofertanților, a factorilor de evaluare și a caietului de sarcini aferente atribuirii acordului-cadru/contractului de achiziție publică de produse - fructe, legume, lapte și produse lactate și produse de panificație în cadrul Programului pentru școli al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303701",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303701",
+     "sha256": "6ddbd3ba8f5e429f8d648dccedbebedc536cef9b0174b8dc0a49043b7788658b"
     }
    ]
   },
@@ -329,6 +689,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302962",
      "sha256": "38890f91fba55e6fa604c1068ac2960c926c7e0a79231a48190704d34e584c3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-358-2025",
+   "path": "ordin/agricultura/2025/358",
+   "short": "Ordin agricultura nr. 358/2025",
+   "title": "Ordinul nr. 358/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 286/2024 privind aprobarea sistemelor de sancțiuni aferente intervențiilor cu caracter compensatoriu din cadrul Planului strategic PAC 2023-2027, gestionate prin Sistemul integrat de administrare și control, aplicabile cererilor de plată depuse începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303703",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303703",
+     "sha256": "652153e159cfe31931c56b53925b2f853bc3498ad4f7ef44a526e8198f8a0b68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-362-2025",
+   "path": "ordin/agricultura/2025/362",
+   "short": "Ordin agricultura nr. 362/2025",
+   "title": "Ordinul nr. 362/2025 privind abrogarea art. 13^1 din Normele metodologice pentru aplicarea prevederilor Legii nr. 195/2018 privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 420/2019, și a art. 11^1 din Normele metodologice pentru aplicarea prevederilor Legii nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304039",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304039",
+     "sha256": "a25b9b91e09750dbda8f47ce8f21772388609cbeae964806110265383d9f4277"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-371-2025",
+   "path": "ordin/agricultura/2025/371",
+   "short": "Ordin agricultura nr. 371/2025",
+   "title": "Ordinul nr. 371/2025 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 137/2020 privind aprobarea sistemului de sancțiuni aplicabil pentru cererile de sprijin/plată, depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", aferentă măsurii 15 \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", submăsura 15.1 \"Plăți pentru angajamente de silvomediu\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303989",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303989",
+     "sha256": "1e6bdd2d1794cbf1242c58d86c4673b6ddcbf23d72f6c56ec2dbec6c0afea9c2"
     }
    ]
   },
@@ -378,6 +783,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-387-2025",
+   "path": "ordin/agricultura/2025/387",
+   "short": "Ordin agricultura nr. 387/2025",
+   "title": "Ordinul nr. 387/2025 pentru modificarea unor acte normative care vizează cerințe de raportare și notificări către Comisia Europeană în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304808",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304808",
+     "sha256": "b68d76c782769c0ed055a97f1466bb4223a1792b2c4b1cd85b3a6e3af1c99874"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-390-2025",
    "path": "ordin/agricultura/2025/390",
    "short": "Ordin agricultura nr. 390/2025",
@@ -404,6 +824,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305006",
      "sha256": "f88579b455436af4a3abb0f23ebf89b30d42c5ad3d29500e5ffc22e547ffcc70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-4-2025",
+   "path": "ordin/agricultura/2025/4",
+   "short": "Ordin agricultura nr. 4/2025",
+   "title": "Ordinul nr. 4/2025 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.366/2018 pentru aprobarea Procedurii privind scoaterea din circuitul agricol a pajiștilor permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293458",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293458",
+     "sha256": "6bfbe5a3b7a1c67240e9be253ac55165bf5bc27db0a5eccb927dd2cdbf34aea0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-404-2025",
+   "path": "ordin/agricultura/2025/404",
+   "short": "Ordin agricultura nr. 404/2025",
+   "title": "Ordinul nr. 404/2025 pentru modificarea art. 21 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305161",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305161",
+     "sha256": "a7ae648722a82fb2f52b3a9aec9d9376207f0aa35b8f55a1744623af31d18c17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-411-2025",
+   "path": "ordin/agricultura/2025/411",
+   "short": "Ordin agricultura nr. 411/2025",
+   "title": "Ordinul nr. 411/2025 pentru modificarea art. III din Ordinul ministrului agriculturii și dezvoltării rurale nr. 71/2025 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 105/2023 pentru aprobarea criteriilor de eligibilitate, documentelor justificative, condițiilor și modului de implementare a intervențiilor aferente sectorului apicol prevăzute la art. 1 alin. (2) lit. e) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305819",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305819",
+     "sha256": "29c011928b2e3448933eb9c4b326243f08575755dd5a19c9eccd105280f09292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-417-2025",
+   "path": "ordin/agricultura/2025/417",
+   "short": "Ordin agricultura nr. 417/2025",
+   "title": "Ordinul nr. 417/2025 pentru completarea art. 11 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 877/2016 privind aprobarea schemei de ajutor de stat \"Sprijin acordat întreprinderilor pentru investiții necesare dezvoltării, modernizării sau adaptării infrastructurii silvice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305820",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305820",
+     "sha256": "d5360af1c2ce5bf2870ac3af0df18d8fb1a2e9866d7ec50f80ea777620022026"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-418-2025",
+   "path": "ordin/agricultura/2025/418",
+   "short": "Ordin agricultura nr. 418/2025",
+   "title": "Ordinul nr. 418/2025 pentru modificarea art. 8 alin. (3) din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.198/2018 pentru aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\" în cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305821",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305821",
+     "sha256": "ddcb7896b27f7c9acc5f3be2827e0e746557fb02d4dd343563a75fed6f00c9b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-419-2025",
+   "path": "ordin/agricultura/2025/419",
+   "short": "Ordin agricultura nr. 419/2025",
+   "title": "Ordinul nr. 419/2025 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 107/2017 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru implementarea acțiunilor în cadrul strategiei de dezvoltare locală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305822",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305822",
+     "sha256": "cbcb5c8d42ac26a78bf9d859d3a19be7e86084a8a9b8d90e63475602924359d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-42-2025",
+   "path": "ordin/agricultura/2025/42",
+   "short": "Ordin agricultura nr. 42/2025",
+   "title": "Ordinul nr. 42/2025 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 106/2024 privind modalitatea de implementare, îndeplinirea criteriilor de eligibilitate, a condițiilor și altor cerințe specifice, inclusiv tipurile de documente justificative pentru intervențiile aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294692",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294692",
+     "sha256": "64f8930668f3922e66c7556fa7482e486719b16120ef48b6e505fa46b8434453"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-420-2025",
+   "path": "ordin/agricultura/2025/420",
+   "short": "Ordin agricultura nr. 420/2025",
+   "title": "Ordinul nr. 420/2025 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.731/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor și întreprinderilor mici din spațiul rural pentru înființarea și dezvoltarea activităților economice neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305823",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305823",
+     "sha256": "a4c04096f067162771ef8b7dac966961a5bedfe17b4e8dee81ddcec0f0ee88cc"
     }
    ]
   },
@@ -438,6 +978,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-50-2025",
+   "path": "ordin/agricultura/2025/50",
+   "short": "Ordin agricultura nr. 50/2025",
+   "title": "Ordinul nr. 50/2025 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 125/2024 pentru aprobarea criteriilor de eligibilitate, a documentelor justificative și a condițiilor pentru implementarea intervențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul de cerere 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294787",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294787",
+     "sha256": "ab22e25dcb3c9ffd912eba80e8934c860a7f53cbb792a6035b50f80c9a0c7d51"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-51-2025",
    "path": "ordin/agricultura/2025/51",
    "short": "Ordin agricultura nr. 51/2025",
@@ -453,6 +1008,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-57-2025",
+   "path": "ordin/agricultura/2025/57",
+   "short": "Ordin agricultura nr. 57/2025",
+   "title": "Ordinul nr. 57/2025 privind modificarea anexelor nr. 5 și 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și anexelor nr. 4 și 5 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295381",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295381",
+     "sha256": "9de44d92b0b26e54439844c4deca03cec5cc779bf96d06d9094a182f8492c967"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-62-2025",
    "path": "ordin/agricultura/2025/62",
    "short": "Ordin agricultura nr. 62/2025",
@@ -464,6 +1034,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295363",
      "sha256": "7da26b5728dceb1f8dfcc8e9a2b60b8558e9e494c0df46de69d8e5f8c9acbe7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-71-2025",
+   "path": "ordin/agricultura/2025/71",
+   "short": "Ordin agricultura nr. 71/2025",
+   "title": "Ordinul nr. 71/2025 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 105/2023 pentru aprobarea criteriilor de eligibilitate, documentelor justificative, condițiilor și modului de implementare a intervențiilor aferente sectorului apicol prevăzute la art. 1 alin. (2) lit. e) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295149",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295149",
+     "sha256": "e94435f23e5b10c7d26d2f0590a8b3c6633a24ddcac871f667666b862da85f31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-72-2025",
+   "path": "ordin/agricultura/2025/72",
+   "short": "Ordin agricultura nr. 72/2025",
+   "title": "Ordinul nr. 72/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 106/2024 privind modalitatea de implementare, îndeplinirea criteriilor de eligibilitate, a condițiilor și altor cerințe specifice, inclusiv tipurile de documente justificative pentru intervențiile aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294994",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294994",
+     "sha256": "a28109c9fa2966e2202b9e3c5c8219de4bab3bc28588618b1abc111844d844f2"
     }
    ]
   },
@@ -513,6 +1113,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-92-2025",
+   "path": "ordin/agricultura/2025/92",
+   "short": "Ordin agricultura nr. 92/2025",
+   "title": "Ordinul nr. 92/2025 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 784/2016 privind cerințele specifice pentru genurile și speciile de plante fructifere menționate în anexa I la Directiva 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe, cerințele specifice pe care trebuie să le îndeplinească furnizorii și normele detaliate privind inspecțiile oficiale care intră în domeniul de aplicare al Directivei 2008/90/CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295749",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295749",
+     "sha256": "65917a4f190ce1d1a8295469b68cf7e4fb6770d5bed8373e11eb7fcb98d841ab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-97-2025",
    "path": "ordin/agricultura/2025/97",
    "short": "Ordin agricultura nr. 97/2025",
@@ -539,6 +1154,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295947",
      "sha256": "3b8d1c651274f087cd222a470accc49cf2e28d49ead4a61070d7fc05a68013d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-99-2025",
+   "path": "ordin/agricultura/2025/99",
+   "short": "Ordin agricultura nr. 99/2025",
+   "title": "Ordinul nr. 99/2025 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 91/2023 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295694",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295694",
+     "sha256": "015910c4d98a555bb6ac3c0a6c4160723b76dec0319bd5c5aed2c92844a223ef"
     }
    ]
   },
@@ -2399,6 +3029,381 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299609",
      "sha256": "e15efd59c784046325f09ab5d6a52336d3d912b1b233c18665e9f551c4e534ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-105-2025",
+   "path": "ordin/aparare/2025/105",
+   "short": "Ordin aparare nr. 105/2025",
+   "title": "Ordinul nr. 105/2025 pentru aprobarea Instrucțiunilor privind căutarea și salvarea victimelor și supraviețuitorilor unui accident de aviație în care este implicată o aeronavă de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299576",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299576",
+     "sha256": "816efe7b1fc4992461a1636bfdf89085cb119f196b8961c899727d084f04e190"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-11-2025",
+   "path": "ordin/aparare/2025/11",
+   "short": "Ordin aparare nr. 11/2025",
+   "title": "Ordinul nr. 11/2025 pentru modificarea și completarea Normelor metodologice privind sistemul de control intern managerial în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.100/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293816",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293816",
+     "sha256": "0f252f95246b1d2c9a77b75bfffaeb55c67ccd64e0fe9ff4bbbd3e2b119f4000"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-112-2025",
+   "path": "ordin/aparare/2025/112",
+   "short": "Ordin aparare nr. 112/2025",
+   "title": "Ordinul nr. 112/2025 pentru completarea anexei nr. 1 la Normele de aplicare în Ministerul Apărării Naționale a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului apărării naționale nr. M.7/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299699",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299699",
+     "sha256": "21e629586aa5d44ad4fa31c73d559847eb65b23853300cc474cc15394392552b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-125-2025",
+   "path": "ordin/aparare/2025/125",
+   "short": "Ordin aparare nr. 125/2025",
+   "title": "Ordinul nr. 125/2025 pentru aprobarea normelor de aplicare a prevederilor Hotărârii Guvernului nr. 1.314/2004 privind asigurarea de către Ministerul Apărării Naționale a școlarizării, în instituții de învățământ din România, a personalului aparținând armatelor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300346",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300346",
+     "sha256": "3aa88bd00b26a2b22d712ecdf186866f8cdc82d6956e670556e4886fa65adf3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-133-2025",
+   "path": "ordin/aparare/2025/133",
+   "short": "Ordin aparare nr. 133/2025",
+   "title": "Ordinul nr. 133/2025 pentru completarea Regulamentului de organizare și funcționare a Colegiului Ministerului Apărării Naționale, aprobat prin Ordinul ministrului apărării nr. M.112/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301186",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301186",
+     "sha256": "2a0cc5bd89782eb1078798c72d6100cac1ad9bbb898e014e87bc04a57d0369b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-148-2025",
+   "path": "ordin/aparare/2025/148",
+   "short": "Ordin aparare nr. 148/2025",
+   "title": "Ordinul nr. 148/2025 pentru modificarea și completarea Regulamentului de organizare și funcționare a Casei de pensii sectoriale a Ministerului Apărării Naționale, aprobat prin Ordinul ministrului apărării naționale nr. M.188/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302338",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302338",
+     "sha256": "ea6d0aac58f22442c2d48d0f65fd8fa51c2dfbe3b34e6a4344d65b830815009e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-158-2025",
+   "path": "ordin/aparare/2025/158",
+   "short": "Ordin aparare nr. 158/2025",
+   "title": "Ordinul nr. 158/2025 privind conferirea Semnului onorific În Serviciul Patriei unui subofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302403",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302403",
+     "sha256": "0b0bb10e0fad8b93b2d7d553f0558ecaf8746d4379a6736577cdcfb525968831"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-159-2025",
+   "path": "ordin/aparare/2025/159",
+   "short": "Ordin aparare nr. 159/2025",
+   "title": "Ordinul nr. 159/2025 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302404",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302404",
+     "sha256": "e499a4a8cd938c7a04f98c33fae55628f4a5c2eba5b2918e7d6615e0338f1eda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-160-2025",
+   "path": "ordin/aparare/2025/160",
+   "short": "Ordin aparare nr. 160/2025",
+   "title": "Ordinul nr. 160/2025 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302405",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302405",
+     "sha256": "c7b8789bc565fd7e569223c208e7222e90c80bfb54e682552647acbfb16ccdc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-161-2025",
+   "path": "ordin/aparare/2025/161",
+   "short": "Ordin aparare nr. 161/2025",
+   "title": "Ordinul nr. 161/2025 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302406",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302406",
+     "sha256": "febb84a3e9d9223841e4375ddf095e31a1389a7cd425cab2c69232f735c13177"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-162-2025",
+   "path": "ordin/aparare/2025/162",
+   "short": "Ordin aparare nr. 162/2025",
+   "title": "Ordinul nr. 162/2025 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302407",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302407",
+     "sha256": "9392cbbbd60ecd6df45a10c6db2ed263dc68a1508bbcd4476db2de36fd843297"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-18-2025",
+   "path": "ordin/aparare/2025/18",
+   "short": "Ordin aparare nr. 18/2025",
+   "title": "Ordinul nr. 18/2025 pentru modificarea și completarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294256",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294256",
+     "sha256": "67a72ab2eb14eb48f5d33c418d4a793eac91e2903293aaa476fd60e8b90b2fbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-202-2025",
+   "path": "ordin/aparare/2025/202",
+   "short": "Ordin aparare nr. 202/2025",
+   "title": "Ordinul nr. 202/2025 pentru modificarea și completarea Instrucțiunilor privind organizarea și desfășurarea activității de securitate și sănătate în muncă în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.191/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304114",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304114",
+     "sha256": "bba9170196fadd8cea032b92cda1e048c1dc542a071dc0cb920ff999acd6839d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-207-2025",
+   "path": "ordin/aparare/2025/207",
+   "short": "Ordin aparare nr. 207/2025",
+   "title": "Ordinul nr. 207/2025 privind managementul cercetării-dezvoltării și inovării și managementul procesului de omologare a produselor militare și/sau sensibile în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304648",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 125,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304648",
+     "sha256": "66c2e17433879cdd645c5125a8671ff042768321bd3640429952458d05f3c979"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-215-2025",
+   "path": "ordin/aparare/2025/215",
+   "short": "Ordin aparare nr. 215/2025",
+   "title": "Ordinul nr. 215/2025 pentru aprobarea Normelor privind obținerea, menținerea și ridicarea titlurilor de clasificare și specializare pentru personalul aeronautic din Ministerul Apărării Naționale și din alte instituții sau structuri care desfășoară activități aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304961",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304961",
+     "sha256": "89c9751ce84a378414580640e7cc2e168e2cfac547721f5d248be2b37b0ed3ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-216-2025",
+   "path": "ordin/aparare/2025/216",
+   "short": "Ordin aparare nr. 216/2025",
+   "title": "Ordinul nr. 216/2025 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de achiziții, aprobat prin Ordinul ministrului apărării naționale nr. M.195/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304915",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304915",
+     "sha256": "c26b6b703456793c5fc09065c105baae78505bb40d37864f3379668fc407145d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-217-2025",
+   "path": "ordin/aparare/2025/217",
+   "short": "Ordin aparare nr. 217/2025",
+   "title": "Ordinul nr. 217/2025 pentru completarea Instrucțiunii privind Sistemul de management al achizițiilor de echipamente militare destinate înzestrării, aprobată prin Ordinul ministrului apărării naționale nr. M.20/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304916",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304916",
+     "sha256": "4697925372fa0cab7ad1ad5defec035f94eb7bfbf9372a56fe1416623da8c656"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-26-2025",
+   "path": "ordin/aparare/2025/26",
+   "short": "Ordin aparare nr. 26/2025",
+   "title": "Ordinul nr. 26/2025 pentru aprobarea Regulamentului serviciului interior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294903",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294903",
+     "sha256": "56e1240c704f5c0863da19ba1153b269d4957e4a26420c6624be72c00e34657e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-47-2025",
+   "path": "ordin/aparare/2025/47",
+   "short": "Ordin aparare nr. 47/2025",
+   "title": "Ordinul nr. 47/2025 pentru modificarea și completarea Metodologiei-cadru privind organizarea și desfășurarea admiterii în școlile militare de maiștri militari și subofițeri, aprobată prin Ordinul ministrului apărării naționale nr. M.113/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295951",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295951",
+     "sha256": "ab1312069b1caceb3583fc1661eca55113fa9fd7e0294aaf60c9fc6cc961a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-5-2025",
+   "path": "ordin/aparare/2025/5",
+   "short": "Ordin aparare nr. 5/2025",
+   "title": "Ordinul nr. 5/2025 pentru aprobarea Instrucțiunilor privind organizarea și funcționarea colegiilor naționale militare, precum și a Statutului elevului de colegiu național militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294203",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 98,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294203",
+     "sha256": "0286b5e5dca5c54f5a2c6f2918cbf1f80a85c23064b833001497d5dff3f996d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-57-2025",
+   "path": "ordin/aparare/2025/57",
+   "short": "Ordin aparare nr. 57/2025",
+   "title": "Ordinul nr. 57/2025 pentru modificarea art. 8 lit. a) din Instrucțiunile privind chemarea/rechemarea în activitate în corpul subofițerilor a grefierilor de la instanțele sau parchetele civile, transferați la instanțele ori parchetele militare, aprobate prin Ordinul ministrului apărării naționale nr. M.49/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296410",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296410",
+     "sha256": "f5efc15c1ef581561287a9475d172c78853aa9f08139480c832c33fd9b338e06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-58-2025",
+   "path": "ordin/aparare/2025/58",
+   "short": "Ordin aparare nr. 58/2025",
+   "title": "Ordinul nr. 58/2025 pentru abrogarea Ordinului ministrului apărării naționale nr. M.12/2010 privind activitatea de evaluare a gradului de ocupare a spațiilor construite și terenurilor din cazărmile Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296525",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296525",
+     "sha256": "2b934c0a60a3ab8ecfc11f5a8c8647780d59af53da50ff2401060612801fbb66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-6-2025",
+   "path": "ordin/aparare/2025/6",
+   "short": "Ordin aparare nr. 6/2025",
+   "title": "Ordinul nr. 6/2025 pentru aprobarea Regulamentului-cadru privind organizarea și funcționarea școlilor militare de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294073",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294073",
+     "sha256": "6ddf425f1e26ebb65700ef2338fb04ba324083f1841032cce5d3b70abd33d112"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-72-2025",
+   "path": "ordin/aparare/2025/72",
+   "short": "Ordin aparare nr. 72/2025",
+   "title": "Ordinul nr. 72/2025 pentru completarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297821",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297821",
+     "sha256": "c2c84d1c45b2aa99db2eef29942e35106e6145edf2aa97f492b371109bfb374b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-73-2025",
+   "path": "ordin/aparare/2025/73",
+   "short": "Ordin aparare nr. 73/2025",
+   "title": "Ordinul nr. 73/2025 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.102/2012 privind sistemul de distincții militare din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297386",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297386",
+     "sha256": "933d4b8953489cbdd143aa1d2c701f0accfd4246c2a29e6f1fa6c3c705867b8f"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 6/2006 · 1 versions, from 2006-11-15 (latest in force: 2006-11-15) · <https://legislatie.just.ro/Public/DetaliiDocument/76817>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ┌───┬───────────────────────────────────────────────────────────┬────────────┐ │Nr.│ DENUMIRE INDICATOR │ FRECVENȚA │ │crt│ │ RAPORTĂRII │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,6 +57,8 @@ Regulament bnr nr. 6/2006 · 1 versions, from 2006-11-15 (latest in force: 2006-
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `regulament-bnr-6-2006` (tags `regulament-bnr-6-2006/<day>`; `python tools/on.py <day> regulament-bnr-6-2006`).
 
@@ -68,4 +70,4 @@ Act id: `regulament-bnr-6-2006` (tags `regulament-bnr-6-2006/<day>`; `python too
 - Regulament bnr nr. 6/2006: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 6/2006: Anexa nr. 1 (1 Formular de notificare emitere carduri......................................., înmatriculată la oficiul registrului comerțului sub (numele emitentului) nr............., având cod unic de înregistrar) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 76817 of the official web service.
 - Regulament bnr nr. 6/2006: Anexa nr. 2 (2 Formular de notificare emitere internet/home/ mobile banking........................................, înmatriculată la oficiul registrului comerțului sub (numele emitentului) nr............., având) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 76817 of the official web service.
-- Regulament bnr nr. 6/2006: Anexa nr. 3 (3 ┌───┬───────────────────────────────────────────────────────────┬────────────┐ │Nr.│ DENUMIRE INDICATOR │ FRECVENȚA │ │crt│ │ RAPORTĂRII │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 6/2006: Anexa nr. 3 (3) is part of the regulation and is published in its folder, anexa-3/ (paragraphs and tables), from document 76817 of the official web service.

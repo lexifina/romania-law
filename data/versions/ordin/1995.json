@@ -3,6 +3,81 @@
  "shard": "ordin/1995",
  "acts": [
   {
+   "slug": "ordin-agricultura-18-1995",
+   "path": "ordin/agricultura/1995/18",
+   "short": "Ordin agricultura nr. 18/1995",
+   "title": "Ordinul nr. 18/1995 privind prohibiția pescuitului în anul 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5816",
+   "versions": [
+    {
+     "from": "1995-03-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5816",
+     "sha256": "f24f927313b27fa0541dea9a119bd0fdd4c6d1f46451dec1de14aee0bea7184c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-45-1995",
+   "path": "ordin/agricultura/1995/45",
+   "short": "Ordin agricultura nr. 45/1995",
+   "title": "Ordinul nr. 45/1995 pentru aprobarea Normei sanitare veterinare privind decelarea trichinei din carnea proaspătă de porcine, vânat (urs, mistreț) și cabaline, și a Normei sanitare veterinare cuprinzând măsurile de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și produsele lor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6007",
+   "versions": [
+    {
+     "from": "1995-08-10",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6007",
+     "sha256": "07ff536ee40fd4fdf84233e11596cbb81ba476f9dda99999c87d2e36ced27438"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-1995",
+   "path": "ordin/agricultura/1995/6",
+   "short": "Ordin agricultura nr. 6/1995",
+   "title": "Ordinul nr. 6/1995 privind stabilirea conținutului formularelor-tip - certificate, autorizații și cereri - prevăzute la art. 38 din Ordonanța Guvernului nr. 4 din 20 ianuarie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5686",
+   "versions": [
+    {
+     "from": "1995-01-30",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5686",
+     "sha256": "9ae11ba8e124f7c61542d3b61533bd2e6b0c7c7df7ea95c274f7fd70e0a5ab31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-1995",
+   "path": "ordin/agricultura/1995/83",
+   "short": "Ordin agricultura nr. 83/1995",
+   "title": "Ordinul nr. 83/1995 pentru aprobarea Regulamentului cu privire la acordarea licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6167",
+   "versions": [
+    {
+     "from": "1995-10-23",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6167",
+     "sha256": "639aea912be9311c348e1949471c618231e611d22b528910246d6f985301c0dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-92-1995",
+   "path": "ordin/agricultura/1995/92",
+   "short": "Ordin agricultura nr. 92/1995",
+   "title": "Ordinul nr. 92/1995 privind Lista oficială a soiurilor (hibrizilor) de plante de cultura din România pentru anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6210",
+   "versions": [
+    {
+     "from": "1995-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6210",
+     "sha256": "15b0211ac790e8d0cc528a14152c5619ad1d6f1b8ba189e13859fce7b297746d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-138-1995",
    "path": "ordin/bnr/1995/138",
    "short": "Ordin bnr nr. 138/1995",

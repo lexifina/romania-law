@@ -3,6 +3,66 @@
  "shard": "ordin/2003",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2003",
+   "path": "ordin/agricultura/2003/10",
+   "short": "Ordin agricultura nr. 10/2003",
+   "title": "Ordinul nr. 10/2003 pentru aprobarea Normei sanitare veterinare care stabilește documentul de identitate (pașaportul) ce însoțește ecvideele înregistrate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42222",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42222",
+     "sha256": "933afcf8344be84c7049c6db16db548e71ed1a66f0040d32d0e28120bac45f14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1009-2003",
+   "path": "ordin/agricultura/2003/1009",
+   "short": "Ordin agricultura nr. 1009/2003",
+   "title": "Ordinul nr. 1.009/2003 privind înlocuirea anexei la Norma sanitară veterinară referitoare la finanțarea inspecțiilor și controalelor veterinare la frontieră, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 259/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48663",
+   "versions": [
+    {
+     "from": "2004-01-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48663",
+     "sha256": "7785279d56f20850cbe1687e52142f4762ee1d82a6e2264445eadd472ec6ff21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1011-2003",
+   "path": "ordin/agricultura/2003/1011",
+   "short": "Ordin agricultura nr. 1011/2003",
+   "title": "Ordinul nr. 1.011/2003 privind aprobarea deciziilor de acordare a dreptului de producere a vinurilor cu denumire de origine controlată în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48457",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48457",
+     "sha256": "856de02d15b64f1e701a77757fbd8de2bd1beb1fd1e370a1786a7e1da2920e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-102-2003",
+   "path": "ordin/agricultura/2003/102",
+   "short": "Ordin agricultura nr. 102/2003",
+   "title": "Ordinul nr. 102/2003 privind stabilirea speciilor de animale vii, categoriilor de producție, greutății minime și a perioadei admise pentru export în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41790",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41790",
+     "sha256": "3afda873fb9bd3dafeda159f7c86779347740d3e9ad2d6ae45a67ba38134b91a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-103-2003",
    "path": "ordin/agricultura/2003/103",
    "short": "Ordin agricultura nr. 103/2003",
@@ -14,6 +74,276 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42208",
      "sha256": "0802d3c5f43b1f55794fada917398e1c7648cc3af236327bc5876edc89c0d0f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1044-2003",
+   "path": "ordin/agricultura/2003/1044",
+   "short": "Ordin agricultura nr. 1044/2003",
+   "title": "Ordinul nr. 1.044/2003 privind autorizarea unităților de procesare primară a tulpinilor de în și cânepă pentru fibră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48487",
+   "versions": [
+    {
+     "from": "2003-12-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48487",
+     "sha256": "481ae1a1402b4b3cb4c27b6b66e7c0cca9cda656d988a226df5685c014582272"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1048-2003",
+   "path": "ordin/agricultura/2003/1048",
+   "short": "Ordin agricultura nr. 1048/2003",
+   "title": "Ordinul nr. 1.048/2003 privind aprobarea metodelor de prelevare a probelor de plante și produse vegetale în vederea efectuării analizelor de laborator pentru determinarea oficială a nivelului de reziduuri de pesticide",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48566",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48566",
+     "sha256": "d6759e84c47a392a1819af2f65d664474fe52aabcc9996ef3ad3d85621bb2ef3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-105-2003",
+   "path": "ordin/agricultura/2003/105",
+   "short": "Ordin agricultura nr. 105/2003",
+   "title": "Ordinul nr. 105/2003 pentru aprobarea Regulamentului de organizare și funcționare a comisiei de evaluare a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului prin achiziționare de către autoritatea publică centrala care răspunde de silvicultura, prin Regia Naționala a Pădurilor, și pentru aprobarea Regulamentului de organizare și funcționare a comisiei de negociere a contractelor de vânzare-cumpărare ce urmează să fie încheiate pentru includerea în fondul forestier proprietate publică a statului a terenurilor achiziționate prin Regia Naționala a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41982",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41982",
+     "sha256": "5b5860ef14ea46987aa32631b08264882f19c40b6c37898c2561ac4867384ba8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1052-2003",
+   "path": "ordin/agricultura/2003/1052",
+   "short": "Ordin agricultura nr. 1052/2003",
+   "title": "Ordinul nr. 1.052/2003 privind organizarea și funcționarea Secretariatului tehnic pentru controlul activităților instalațiilor mari de ardere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49093",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49093",
+     "sha256": "171ed005e00dbbf66f367a2dc13643968105557bc9efed157744975c9e8742e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1069-2003",
+   "path": "ordin/agricultura/2003/1069",
+   "short": "Ordin agricultura nr. 1069/2003",
+   "title": "Ordinul nr. 1.069/2003 pentru aprobarea Metodologiei cu privire la desfășurarea activităților specifice de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49245",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49245",
+     "sha256": "beb7761333c81d57f51eb4cf49aade587f41642dee1a1c7bd1b0c0e29430280b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-107-2003",
+   "path": "ordin/agricultura/2003/107",
+   "short": "Ordin agricultura nr. 107/2003",
+   "title": "Ordinul nr. 107/2003 privind extinderea rețelei experimentale de informații contabile agricole și a studiului de contabilitate a fermei în exploatațiile agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42093",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42093",
+     "sha256": "f4dddff7217c190c43636b845437b80f3d8e8f1763cfbead0804df4b2b08a979"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1072-2003",
+   "path": "ordin/agricultura/2003/1072",
+   "short": "Ordin agricultura nr. 1072/2003",
+   "title": "Ordinul nr. 1.072/2003 privind aprobarea organizării Monitoringului suport național integrat de supraveghere, control și decizii pentru reducerea aportului de poluanți proveniți din surse agricole în apele subterane și de suprafață și pentru aprobarea Programului de supraveghere și control corespunzător și a procedurilor și instrucțiunilor de evaluare a datelor de monitorizare a poluanților proveniți din surse agricole în apele de suprafață și în apele subterane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49418",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49418",
+     "sha256": "f94646cd1117331de04c068ca72f3a054ebeaaef8044db43764ffa0f3096f3c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1073-2003",
+   "path": "ordin/agricultura/2003/1073",
+   "short": "Ordin agricultura nr. 1073/2003",
+   "title": "Ordinul nr. 1.073/2003 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48751",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48751",
+     "sha256": "d0caeb45690a3a30c469e02e93599b26d95816308b1115d7b37383b62863da60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1084-2003",
+   "path": "ordin/agricultura/2003/1084",
+   "short": "Ordin agricultura nr. 1084/2003",
+   "title": "Ordinul nr. 1.084/2003 privind aprobarea procedurilor de notificare a activităților care prezintă pericole de producere a accidentelor majore în care sunt implicate substanțe periculoase și, respectiv, a accidentelor majore produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49631",
+   "versions": [
+    {
+     "from": "2004-02-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49631",
+     "sha256": "8cf5c2411d3d3574c58b25eeff839c2165d263e244c704825d7fdad60b3cbfa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-11-2003",
+   "path": "ordin/agricultura/2003/11",
+   "short": "Ordin agricultura nr. 11/2003",
+   "title": "Ordinul nr. 11/2003 pentru aprobarea Normei sanitare veterinare care stabilește garanțiile adiționale privind Salmonella la găinile ouătoare destinate exportului în Finlanda și Suedia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42225",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42225",
+     "sha256": "6c633c26d48c8eb44b3fe4d2fbedb0389bfa834ca3c1984902ac5e878481c1e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1106-2003",
+   "path": "ordin/agricultura/2003/1106",
+   "short": "Ordin agricultura nr. 1106/2003",
+   "title": "Ordinul nr. 1.106/2003 privind aprobarea Programului de acțiuni pentru îmbunătățirea calității și salubrității laptelui materie primă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49322",
+   "versions": [
+    {
+     "from": "2004-02-22",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49322",
+     "sha256": "a79f2e471ccad97273d42b61e8c5055101a39bed48d091b42fa7014a3bcd1883"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1107-2003",
+   "path": "ordin/agricultura/2003/1107",
+   "short": "Ordin agricultura nr. 1107/2003",
+   "title": "Ordinul nr. 1.107/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea principiilor și liniilor directoare referitoare la buna practica de fabricăție pentru produsele medicinale de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50177",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50177",
+     "sha256": "e6569d7e6a60af2d9e34746026177be5c2973acf35f3357ed7a342953e1abba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1108-2003",
+   "path": "ordin/agricultura/2003/1108",
+   "short": "Ordin agricultura nr. 1108/2003",
+   "title": "Ordinul nr. 1.108/2003 pentru aprobarea Normei sanitare veterinare privind procedura de evaluare a cererilor pentru variații în termenii unei autorizații de punere pe piața, acordată în conformitate cu prevederile Normei sanitare veterinare privind procedurile naționale pentru autorizarea și supravegherea produselor medicinale de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50178",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50178",
+     "sha256": "69402b0dc2ce7aa6324cd20daefbf70e3d5fbb078256c8058b544fb005be5379"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1109-2003",
+   "path": "ordin/agricultura/2003/1109",
+   "short": "Ordin agricultura nr. 1109/2003",
+   "title": "Ordinul nr. 1.109/2003 pentru aprobarea Normei sanitare veterinare cu privire la examinarea variațiilor în termenii unei autorizații de comercializare pentru produsele medicinale veterinare, acordată de autoritatea veterinara a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50257",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50257",
+     "sha256": "c52bd47dbf2c8cd1707f2b1dc245c6a88aa0a0f0a80dfba65e0740a4b3c538ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1110-2003",
+   "path": "ordin/agricultura/2003/1110",
+   "short": "Ordin agricultura nr. 1110/2003",
+   "title": "Ordinul nr. 1.110/2003 pentru aprobarea Normei sanitare veterinare privind procedura naționala pentru raportarea reacțiilor adverse neașteptate, suspecte, ce nu sunt evaluate ca fiind grave, ale produselor medicinale veterinare autorizate oficial și care apar pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50179",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50179",
+     "sha256": "304142fbccaa2626f498cd307150ef6f9995b55f71627b8c0e3e5da2c9ed448a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1111-2003",
+   "path": "ordin/agricultura/2003/1111",
+   "short": "Ordin agricultura nr. 1111/2003",
+   "title": "Ordinul nr. 1.111/2003 pentru aprobarea Normei sanitare veterinare privind codul referitor la produsele medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50824",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50824",
+     "sha256": "5797d24bfbb32077b65d8a9c92cb8fa0315a506b71ab2543a8208c2b7f692f65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1113-2003",
+   "path": "ordin/agricultura/2003/1113",
+   "short": "Ordin agricultura nr. 1113/2003",
+   "title": "Ordinul nr. 1.113/2003 pentru aprobarea Normei sanitare veterinare privind Planul de urgență pentru pesta porcină clasica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50059",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50059",
+     "sha256": "4b7b5c52d3de2fd6cd5a4c339f111d865db5ee0e81070242ded417d153ed4266"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1114-2003",
+   "path": "ordin/agricultura/2003/1114",
+   "short": "Ordin agricultura nr. 1114/2003",
+   "title": "Ordinul nr. 1.114/2003 pentru aprobarea Normei sanitare veterinare privind Planul de contingenta și Manualul de instrucțiuni pentru boala de Newcastle",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50060",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50060",
+     "sha256": "97d4b21c386bc4c74d6a7d22b95d42637ae97677525c283d6ee71ea3ace4e19b"
     }
    ]
   },
@@ -33,6 +363,276 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-126-2003",
+   "path": "ordin/agricultura/2003/126",
+   "short": "Ordin agricultura nr. 126/2003",
+   "title": "Ordinul nr. 126/2003 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 421/2002 pentru aprobarea numărului de exemplare din speciile urs, lup, pisica sălbatică și uliu care se pot recolta în cadrul sezonului de vânătoare 2002-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42012",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42012",
+     "sha256": "020600a5ea49eee2094c5b6e951047e4b890cb3fb5bbd41da57b9b540cd6961d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-140-2003",
+   "path": "ordin/agricultura/2003/140",
+   "short": "Ordin agricultura nr. 140/2003",
+   "title": "Ordinul nr. 140/2003 pentru aprobarea Normei sanitare veterinare care stabilește criteriile ce reglementează înregistrarea în registrele genealogice a porcinelor de reproducție crescute în rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42295",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42295",
+     "sha256": "fddd0b47c5e70b30bf4d451381783aa3d4f8e037c20ebe5bc77d8c0987a799b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-141-2003",
+   "path": "ordin/agricultura/2003/141",
+   "short": "Ordin agricultura nr. 141/2003",
+   "title": "Ordinul nr. 141/2003 pentru aprobarea Normei sanitare veterinare care stabilește criteriile pentru autorizarea și supravegherea asociațiilor de crescători, a organizațiilor de înmulțire, a întreprinderilor particulare sau a serviciilor oficiale ce stabilesc sau țin registre pentru porcinele de reproducție hibride",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42296",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42296",
+     "sha256": "0a1d037a5e6353e83a7163ad52efb9bc7798eabf40f7cedc8a32365bd03ae61f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-142-2003",
+   "path": "ordin/agricultura/2003/142",
+   "short": "Ordin agricultura nr. 142/2003",
+   "title": "Ordinul nr. 142/2003 pentru aprobarea Normei sanitare veterinare care stabilește modelele de certificate pentru porcine de reproducție de rasa pura, material seminal, ovule și pentru embrioni de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42298",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42298",
+     "sha256": "5bc38abe0d42a8de8a715e91a2d03f264ab71ea60c4529ac94f19c00892a15cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-143-2003",
+   "path": "ordin/agricultura/2003/143",
+   "short": "Ordin agricultura nr. 143/2003",
+   "title": "Ordinul nr. 143/2003 pentru aprobarea Normei sanitare veterinare care stabilește metodele de monitorizare a performantei și metodele pentru evaluarea valorii genetice a porcinelor de reproducție de rasa pura și hibride",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42299",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42299",
+     "sha256": "76a43eca0386bb0d955b158f145d3283161d30f9718a8fa5bddd0cc549b7330d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-145-2003",
+   "path": "ordin/agricultura/2003/145",
+   "short": "Ordin agricultura nr. 145/2003",
+   "title": "Ordinul nr. 145/2003 pentru aprobarea Regulamentului Comisiei centrale pentru epizootii și supraveghere a contaminării radioactive, chimice sau biologice a produselor vegetale și animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43334",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43334",
+     "sha256": "d6134a87a250f934bcf856d4d2de553d2b2802eac0da9f5a27d245f38f7dfeec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-146-2003",
+   "path": "ordin/agricultura/2003/146",
+   "short": "Ordin agricultura nr. 146/2003",
+   "title": "Ordinul nr. 146/2003 pentru desemnarea direcției de specialitate din cadrul Ministerului Agriculturii, Alimentației și Pădurilor și a inspectoratelor teritoriale de regim silvic și cinegetic ca responsabile cu controlul calității materialelor forestiere de reproducere utilizate în cultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42160",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42160",
+     "sha256": "d50d0da7a713b99aa2ef0291f051da2fa7d06e62cf91c66d1ecc2d42a7332791"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-147-2003",
+   "path": "ordin/agricultura/2003/147",
+   "short": "Ordin agricultura nr. 147/2003",
+   "title": "Ordinul nr. 147/2003 pentru modificarea anexelor la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42535",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42535",
+     "sha256": "889637839bdaea4f48c5d39e076e5b07d289b92daadfafd03a2943276582607a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-158-2003",
+   "path": "ordin/agricultura/2003/158",
+   "short": "Ordin agricultura nr. 158/2003",
+   "title": "Ordinul nr. 158/2003 privind aprobarea componentei, organizarea și funcționarea Comisiei pentru derularea mecanismului de acordare a sprijinului financiar de la bugetul de stat prin Programul de creștere a competitivității produselor agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42300",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42300",
+     "sha256": "78bea0e0590bf825e28cd1af9f775ac28c241a3279bcde0b33516e9da384e21e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-16-2003",
+   "path": "ordin/agricultura/2003/16",
+   "short": "Ordin agricultura nr. 16/2003",
+   "title": "Ordinul nr. 16/2003 pentru aprobarea Normei sanitare veterinare privind finanțarea inspecțiilor și controalelor veterinare efectuate asupra produselor destinate comerțului României cu statele membre ale Uniunii Europene sau importului din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42226",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42226",
+     "sha256": "751560503dd56fb27f81ada2dfee1cbc28fba4306895857232317efd6b15c6bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-164-2003",
+   "path": "ordin/agricultura/2003/164",
+   "short": "Ordin agricultura nr. 164/2003",
+   "title": "Ordinul nr. 164/2003 pentru aprobarea Normei sanitare veterinare care stabilește criteriile ce guvernează înscrierea în registre genealogice a ovinelor și caprinelor de reproducție în rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42938",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42938",
+     "sha256": "80401d7832a128c72d285b42b6e0a8a1275f57d7dae6ea1fe78153d77645269d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-165-2003",
+   "path": "ordin/agricultura/2003/165",
+   "short": "Ordin agricultura nr. 165/2003",
+   "title": "Ordinul nr. 165/2003 pentru aprobarea Normei sanitare veterinare care stabilește modelul și informațiile ce trebuie să fie înscrise în certificatul de pedigree al animalelor de reproducție de rasa pura din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42939",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42939",
+     "sha256": "b4700289e37ec426b2475c33fa13514b964e4d267148e10cc3657f34983c964b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-166-2003",
+   "path": "ordin/agricultura/2003/166",
+   "short": "Ordin agricultura nr. 166/2003",
+   "title": "Ordinul nr. 166/2003 pentru aprobarea Normei sanitare veterinare privind identificarea și înregistrarea suinelor, ovinelor și caprinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42940",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42940",
+     "sha256": "92826b8c8ea22126ca4961d346e4e95496f84f437b4ee46d8ae12a4160221b53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-167-2003",
+   "path": "ordin/agricultura/2003/167",
+   "short": "Ordin agricultura nr. 167/2003",
+   "title": "Ordinul nr. 167/2003 pentru aprobarea Normei sanitare veterinare privind identificarea ecvinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42946",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42946",
+     "sha256": "5b3b2d7731d0ffc18802934ab1aacfe83565db036a5a750b7019bd872337b924"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-17-2003",
+   "path": "ordin/agricultura/2003/17",
+   "short": "Ordin agricultura nr. 17/2003",
+   "title": "Ordinul nr. 17/2003 pentru aprobarea Normei sanitare veterinare care stabilește cerințele de sănătate a animalelor și certificarea veterinara pentru importul în România de păsări, altele decât păsările de ferma, și condițiile pentru carantinarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42228",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42228",
+     "sha256": "e36cf8e8cea560dcdd69f073b950feb3dcdd9c44f55d68a061ca0b870be009d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-171-2003",
+   "path": "ordin/agricultura/2003/171",
+   "short": "Ordin agricultura nr. 171/2003",
+   "title": "Ordinul nr. 171/2003 privind stabilirea prețurilor pentru cabalinele trecute la turma de baza",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42505",
+   "versions": [
+    {
+     "from": "2003-03-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42505",
+     "sha256": "8fc6d8a596ac46c2bcabfded4b270a1a63336fe152f9598bd17cd541fe2ba7bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-172-2003",
+   "path": "ordin/agricultura/2003/172",
+   "short": "Ordin agricultura nr. 172/2003",
+   "title": "Ordinul nr. 172/2003 privind normele de bonitare și certificare a hameiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43302",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43302",
+     "sha256": "84acd71684f28252aef6ada243cf2ef76cc38126af6435a94bb0616b7f1a310b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-173-2003",
+   "path": "ordin/agricultura/2003/173",
+   "short": "Ordin agricultura nr. 173/2003",
+   "title": "Ordinul nr. 173/2003 privind reorganizarea și funcționarea Comisiei Naționale de Clasare și Evaluare a Cabalinelor de Rasa, înființată prin Ordinul ministrului agriculturii și alimentației nr. 104/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42360",
+   "versions": [
+    {
+     "from": "2003-03-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42360",
+     "sha256": "a045c0db294b4fbd2798132e3d20c95f483f77f5761bece9ec2d244ddff961dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-174-2003",
    "path": "ordin/agricultura/2003/174",
    "short": "Ordin agricultura nr. 174/2003",
@@ -44,6 +644,411 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42638",
      "sha256": "bd2c883e297fb12a7edcdd467b5cff5fcff3965598f2b056b36da212e32ae332"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-177-2003",
+   "path": "ordin/agricultura/2003/177",
+   "short": "Ordin agricultura nr. 177/2003",
+   "title": "Ordinul nr. 177/2003 pentru aprobarea Normei sanitare veterinare privind criteriile pentru autorizarea organizațiilor și asociațiilor de crescători care stabilesc sau mențin registre genealogice pentru ovine și caprine reproducătoare de rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42947",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42947",
+     "sha256": "8230204d1f9a2a54e32e68c3ce6a165caf85a86ea2fb7e81d47823e9678acf13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-178-2003",
+   "path": "ordin/agricultura/2003/178",
+   "short": "Ordin agricultura nr. 178/2003",
+   "title": "Ordinul nr. 178/2003 privind aprobarea Normei sanitare veterinare care stabilește metodele pentru monitorizarea performantei și estimarea valorii genetice a ovinelor și caprinelor de reproducție în rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42948",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42948",
+     "sha256": "c71e1e72f4cc1637bf32bc14409994703efe3dcdbb872eb0682323b8b38ffba6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-179-2003",
+   "path": "ordin/agricultura/2003/179",
+   "short": "Ordin agricultura nr. 179/2003",
+   "title": "Ordinul nr. 179/2003 privind aprobarea Normei sanitare veterinare care stabilește pedigree-ul și certificatele zootehnice pentru importul în România de animale de reproducție, material seminal, ovule și embrioni de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42949",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42949",
+     "sha256": "089f4fe5ef5a13796144d69c112f17ead6bfa9e009419ccb38e11abf97484a35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-18-2003",
+   "path": "ordin/agricultura/2003/18",
+   "short": "Ordin agricultura nr. 18/2003",
+   "title": "Ordinul nr. 18/2003 pentru aprobarea Normei sanitare veterinare stabilind reguli detaliate pentru aplicarea prevederilor art. 9 din Norma sanitară veterinara ce reglementează organizarea controalelor veterinare pentru produsele de origine animala importate din tari terțe în România referitoare la transbordarea produselor la un post de inspecție de frontieră unde transporturile sunt destinate pentru un eventual import în România și care modifica Norma sanitară veterinara stabilind metodele de control veterinar pentru produsele provenite din tari terțe și destinate pentru zone libere, depozite libere sau depozite vamale, precum și pe durata prin România a transportului dintr-o țara terță către alta țara terță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42237",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42237",
+     "sha256": "bf7bafd629a28e6604efd06c52f8b5777ead673965a23379546df592b3d8abc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-180-2003",
+   "path": "ordin/agricultura/2003/180",
+   "short": "Ordin agricultura nr. 180/2003",
+   "title": "Ordinul nr. 180/2003 privind aprobarea Normei sanitare veterinare care stabilește criteriile pentru acceptarea în scopuri de reproducție a ovinelor și caprinelor de reproducție în rasa pura și utilizarea materialului seminal, a ovulelor sau embrionilor acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42950",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42950",
+     "sha256": "19805fd2a12c95c6e08a32826f62244e69d1aaf8335a0f0b6653421b40f2638f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-181-2003",
+   "path": "ordin/agricultura/2003/181",
+   "short": "Ordin agricultura nr. 181/2003",
+   "title": "Ordinul nr. 181/2003 privind aprobarea Normei sanitare veterinare care stabilește criteriile pentru înscrierea bovinelor în registre genealogice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42951",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42951",
+     "sha256": "ae3bd440cd3734eaeb2e3ee2f4e07a7c0b22953d9bfa252c73636dd633b5efd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-182-2003",
+   "path": "ordin/agricultura/2003/182",
+   "short": "Ordin agricultura nr. 182/2003",
+   "title": "Ordinul nr. 182/2003 privind aprobarea Normei sanitare veterinare care stabilește certificatele zootehnice pentru ovinele și caprinele de reproducție de rasa pura, material seminal, ovule și embrioni de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42952",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42952",
+     "sha256": "b8145fe5df43ecac7a58d469419ce698640c446b2ecd18d7cb7de866a8c5df44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-183-2003",
+   "path": "ordin/agricultura/2003/183",
+   "short": "Ordin agricultura nr. 183/2003",
+   "title": "Ordinul nr. 183/2003 privind aprobarea Normei sanitare veterinare care stabilește cerințele zootehnice și genealogice pentru comercializarea animalelor de rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42953",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42953",
+     "sha256": "218b0ad976ac59fe8672a05420da029e9d3e44e2f26529afae6529827b468b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-184-2003",
+   "path": "ordin/agricultura/2003/184",
+   "short": "Ordin agricultura nr. 184/2003",
+   "title": "Ordinul nr. 184/2003 pentru aprobarea Normei sanitare veterinare cu privire la reproducerea în rasa pura a ovinelor și caprinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42955",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42955",
+     "sha256": "5ede8bae7271c2d10d7719525916aaa4162f5e90c66d08e3d4e7ec72761d2ace"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-19-2003",
+   "path": "ordin/agricultura/2003/19",
+   "short": "Ordin agricultura nr. 19/2003",
+   "title": "Ordinul nr. 19/2003 pentru aprobarea Normei sanitare veterinare care stabilește reguli detaliate pentru aplicarea Normei sanitare veterinare ce stabilește principiile care reglementează organizarea controalelor veterinare pentru produsele de origine animala importate din tari terțe în România, referitoare la tranzitul produselor de origine animala dintr-o țara terță către alta țara terță pe uscat doar prin România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42240",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42240",
+     "sha256": "4bbb4a676343f9748204dda869300558fa1575a6a2b79a363ce75ca0b7689954"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-195-2003",
+   "path": "ordin/agricultura/2003/195",
+   "short": "Ordin agricultura nr. 195/2003",
+   "title": "Ordinul nr. 195/2003 pentru aprobarea Normei sanitare veterinare privind preluarea de către autoritatea veterinara centrala a României a autorizării provizorii de către Comisia Europeană a planurilor pentru reziduuri trimise de țările terțe în concordanta cu Norma sanitară veterinara privind măsurile de control al unor substanțe și al reziduurilor acestora la animalele vii și produsele lor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43335",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43335",
+     "sha256": "e2a0c5cac77747ac6e1be5840b27e1692902702b6afcb532dcb6438f77febc19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-197-2003",
+   "path": "ordin/agricultura/2003/197",
+   "short": "Ordin agricultura nr. 197/2003",
+   "title": "Ordinul nr. 197/2003 pentru aprobarea Normei sanitare veterinare privind cerințele de sănătate animala și certificarea veterinara pentru importul de ovule și embrioni de la specia ecvine din tari terțe în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42956",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42956",
+     "sha256": "c580bc10bd92de6493b9442feef9aed9a004bb036d1a3cb5df13448206d3e4e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-198-2003",
+   "path": "ordin/agricultura/2003/198",
+   "short": "Ordin agricultura nr. 198/2003",
+   "title": "Ordinul nr. 198/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea principiilor referitoare la condițiile zootehnice și genealogice aplicabile activităților de import din tari terțe de animale, material seminal, ovule și embrioni ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42958",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42958",
+     "sha256": "4e7e843e774b584a93c42679c114c26dc8d173294d80fc0ec0333773732aa6ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-199-2003",
+   "path": "ordin/agricultura/2003/199",
+   "short": "Ordin agricultura nr. 199/2003",
+   "title": "Ordinul nr. 199/2003 privind aprobarea Normei sanitare veterinare care stabilește certificatele zootehnice pentru material seminal, ovule și embrioni de la ecvideele înregistrate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43336",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43336",
+     "sha256": "d7f6b52c784c5f51442e96d5cd5092cded316dfba7bad0d6e76435b60a3b45e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2003",
+   "path": "ordin/agricultura/2003/20",
+   "short": "Ordin agricultura nr. 20/2003",
+   "title": "Ordinul nr. 20/2003 pentru aprobarea Normei sanitare veterinare care stabilește modelul de certificat pentru comerțul României cu statele membre ale Uniunii Europene cu material seminal, ovule și embrioni de la speciile ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42241",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42241",
+     "sha256": "dc75ef053fc84be0be39878736636b37d290fa3af92c8e480f5e50d8ca638d29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-202-2003",
+   "path": "ordin/agricultura/2003/202",
+   "short": "Ordin agricultura nr. 202/2003",
+   "title": "Ordinul nr. 202/2003 pentru aprobarea Normei sanitare veterinare privind laboratoarele de referința pentru monitorizarea biotoxinelor marine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42962",
+   "versions": [
+    {
+     "from": "2003-07-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42962",
+     "sha256": "8c50b992a2120498817d24d54cb3036137585deb386dfa46b8b31ba67e602535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-203-2003",
+   "path": "ordin/agricultura/2003/203",
+   "short": "Ordin agricultura nr. 203/2003",
+   "title": "Ordinul nr. 203/2003 privind aprobarea Normei sanitare veterinare care stabilește certificatul pentru porcine hibride de reproducție, material seminal, ovule și embrioni de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42963",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42963",
+     "sha256": "074d5b702dae26cee7af2f6c10101be5e3c79ab6f30330d772164bd92b773354"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-204-2003",
+   "path": "ordin/agricultura/2003/204",
+   "short": "Ordin agricultura nr. 204/2003",
+   "title": "Ordinul nr. 204/2003 privind aprobarea Normei sanitare veterinare care stabilește unele reguli pentru a se asigura coordonarea între organizațiile și asociațiile ce dețin sau stabilesc registre genealogice pentru ecvidee înregistrate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42964",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42964",
+     "sha256": "7477e023de2e4f3bb6e597aa7481edbdcefb93be22b44fcdedc87886c1fd1e23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-205-2003",
+   "path": "ordin/agricultura/2003/205",
+   "short": "Ordin agricultura nr. 205/2003",
+   "title": "Ordinul nr. 205/2003 pentru aprobarea Normei sanitare veterinare privind admiterea la reproducție a porcinelor de rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43337",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43337",
+     "sha256": "351ba8233f7e6ff2f7126eed0535f8e32bdd50f66cbe174c212b75582072beef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-206-2003",
+   "path": "ordin/agricultura/2003/206",
+   "short": "Ordin agricultura nr. 206/2003",
+   "title": "Ordinul nr. 206/2003 privind aprobarea Normei sanitare veterinare care stabilește modelul de certificate de pedigree pentru ovulele animalelor de reproducție din specia bovine și informațiile ce vor fi înscrise pe aceste certificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42965",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42965",
+     "sha256": "1ccb858caf1f72a34870615d48f6356b50e51cb6d86615a69d8d3afda863dd8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-208-2003",
+   "path": "ordin/agricultura/2003/208",
+   "short": "Ordin agricultura nr. 208/2003",
+   "title": "Ordinul nr. 208/2003 privind aprobarea Normei sanitare veterinare care stabilește specimenul de certificat de sănătate animala pentru comercializarea ovulelor și a embrionilor pentru specia ecvina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42966",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42966",
+     "sha256": "3f94653d2c958b90524d954f450ee421bf79ca8c382475ba67593dddec91957b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-21-2003",
+   "path": "ordin/agricultura/2003/21",
+   "short": "Ordin agricultura nr. 21/2003",
+   "title": "Ordinul nr. 21/2003 pentru aprobarea Normei sanitare veterinare privind controalele veterinare pentru comerțul dintre România și statele membre ale Uniunii Europene cu produse animaliere și de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42242",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42242",
+     "sha256": "943e95a02eddc60b6b8610e4fc3df07b568d86662481837b4dddbdd11a5a069e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-214-2003",
+   "path": "ordin/agricultura/2003/214",
+   "short": "Ordin agricultura nr. 214/2003",
+   "title": "Ordinul nr. 214/2003 privind aprobarea Normei sanitare veterinare de implementare a măsurilor de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și la produsele lor privind performanta metodelor analitice și interpretarea rezultatelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43533",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43533",
+     "sha256": "757d208d6b353183a150a0fafa269a3bf08ff286ce93a14ebb543bbf5256bb8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-216-2003",
+   "path": "ordin/agricultura/2003/216",
+   "short": "Ordin agricultura nr. 216/2003",
+   "title": "Ordinul nr. 216/2003 privind stabilirea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare în punctele de inspecție la frontiera",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42851",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42851",
+     "sha256": "bd0eef2a3d4a7b31b892306d315bab9968991e8cfa9f91c74a4cd835c9cead44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2003",
+   "path": "ordin/agricultura/2003/218",
+   "short": "Ordin agricultura nr. 218/2003",
+   "title": "Ordinul nr. 218/2003 pentru aprobarea normelor privind modul de acordare a cheltuielilor finanțate de la bugetul de stat pentru întreținerea patrimoniului genetic național de cabaline",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43988",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43988",
+     "sha256": "1aab1150a768b17511da6e6317c91d4892193990f03d12478b2a89dff7c79e16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-224-2003",
+   "path": "ordin/agricultura/2003/224",
+   "short": "Ordin agricultura nr. 224/2003",
+   "title": "Ordinul nr. 224/2003 pentru aprobarea Normei sanitare veterinare care stabilește tehnologia de creștere și exploatare a struților în România, precum și certificarea și carantinarea acestora după import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43534",
+   "versions": [
+    {
+     "from": "2003-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43534",
+     "sha256": "a7308705abfc35a9609d9f037c60167e926c36e0baf3d141941084828d137974"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-225-2003",
+   "path": "ordin/agricultura/2003/225",
+   "short": "Ordin agricultura nr. 225/2003",
+   "title": "Ordinul nr. 225/2003 privind aprobarea Regulamentului de atestare a producătorilor agricoli care conduc și administrează exploatații agricole familiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42632",
+   "versions": [
+    {
+     "from": "2003-03-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42632",
+     "sha256": "2e641720f6016474a909cad0cb2cf6699e5f99ec56c25b136204b65edaacf19a"
     }
    ]
   },
@@ -63,6 +1068,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-228-2003",
+   "path": "ordin/agricultura/2003/228",
+   "short": "Ordin agricultura nr. 228/2003",
+   "title": "Ordinul nr. 228/2003 privind stabilirea tarifelor pentru efectuarea controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și pentru efectuarea testelor de calitate a semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42815",
+   "versions": [
+    {
+     "from": "2003-04-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42815",
+     "sha256": "ddd73d120180460d2392f75291047339f8337a3e4ac278d32e1f72185a395c27"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-229-2003",
    "path": "ordin/agricultura/2003/229",
    "short": "Ordin agricultura nr. 229/2003",
@@ -74,6 +1094,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43610",
      "sha256": "3c7be0c712ecdb5fceedad8ec457ad4c406849bb0df7c8cb3609f1f8ad5012f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-231-2003",
+   "path": "ordin/agricultura/2003/231",
+   "short": "Ordin agricultura nr. 231/2003",
+   "title": "Ordinul nr. 231/2003 pentru aprobarea Normei sanitare veterinare privind condițiile specifice de sănătate publică pentru punerea pe piața a unor tipuri de oua",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43339",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43339",
+     "sha256": "958fe57bff3566e65a9fca3c567b760119e05f7442d6787c108aa900d3847e53"
     }
    ]
   },
@@ -93,6 +1128,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-233-2003",
+   "path": "ordin/agricultura/2003/233",
+   "short": "Ordin agricultura nr. 233/2003",
+   "title": "Ordinul nr. 233/2003 pentru aprobarea Instrucțiunilor de organizare și desfășurare a procedurii de concesionare a fondului piscicol administrat de Compania Națională de Administrare a Fondului Piscicol, prin licitație publică deschisă cu preselecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42858",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42858",
+     "sha256": "39b7afa9ccad732d547df988ea36e806d2d901f138dec21298c34506318ffb40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2003",
+   "path": "ordin/agricultura/2003/234",
+   "short": "Ordin agricultura nr. 234/2003",
+   "title": "Ordinul nr. 234/2003 pentru aprobarea Normei sanitare veterinare privind admiterea la reproducție a porcinelor hibride de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43340",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43340",
+     "sha256": "6440e4662842c94acbc9e1dc81d83555a751ad52995e926c75aa93848b40388c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-235-2003",
+   "path": "ordin/agricultura/2003/235",
+   "short": "Ordin agricultura nr. 235/2003",
+   "title": "Ordinul nr. 235/2003 pentru aprobarea Normei sanitare veterinare care stabilește criteriile ce reglementează înregistrarea porcinelor hibride de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43341",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43341",
+     "sha256": "ec8de3f64c47c593e1ad977e86a493276eee80587b3a79812cf2a8d8a7c53920"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-236-2003",
+   "path": "ordin/agricultura/2003/236",
+   "short": "Ordin agricultura nr. 236/2003",
+   "title": "Ordinul nr. 236/2003 pentru aprobarea Normei sanitare veterinare cu privire la colectarea de date referitoare la competițiile de ecvidee la care se referă art. 4 alin. (2) din Norma sanitară veterinara care privește comerțul cu ecvidee destinate competițiilor și care stabilește condițiile de participare la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43535",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43535",
+     "sha256": "4cc5b35544afbf42fd4d5b90c7c22a6629d3a6c6281ba2ad75f1c4834318b510"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-240-2003",
    "path": "ordin/agricultura/2003/240",
    "short": "Ordin agricultura nr. 240/2003",
@@ -104,6 +1199,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44648",
      "sha256": "8dfc0cf32b37da75d3c3eb32e719b87005e5f16d5af6671274865962410ca55a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-241-2003",
+   "path": "ordin/agricultura/2003/241",
+   "short": "Ordin agricultura nr. 241/2003",
+   "title": "Ordinul nr. 241/2003 pentru aprobarea Normei sanitare veterinare care stabilește criteriile pentru înscrierea și înregistrarea ecvideelor în registre genealogice, în scopul reproducției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43537",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43537",
+     "sha256": "49ae1c22a3018d947f6d286e7ac5a6c6641ba4b143ca8591fbc326da558e19ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-242-2003",
+   "path": "ordin/agricultura/2003/242",
+   "short": "Ordin agricultura nr. 242/2003",
+   "title": "Ordinul nr. 242/2003 privind aprobarea Normei sanitare veterinare care stabilește reguli pentru a se asigura coordonarea între organizațiile și asociațiile ce dețin sau stabilesc registre genealogice pentru ecvidee înregistrate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44276",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44276",
+     "sha256": "bb6a14257a5300cba088f187f5ba7fe330690e0c58f8fcea356b1f33101f8c6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2003",
+   "path": "ordin/agricultura/2003/243",
+   "short": "Ordin agricultura nr. 243/2003",
+   "title": "Ordinul nr. 243/2003 pentru aprobarea Normei sanitare veterinare cu privire la admiterea în scopuri de reproducție a animalelor de reproducție de rasa pura din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43538",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43538",
+     "sha256": "cc4aa5a0bd5b7c5393c88e326788faff8981e97f08edceffad436a7c93f60fbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-244-2003",
+   "path": "ordin/agricultura/2003/244",
+   "short": "Ordin agricultura nr. 244/2003",
+   "title": "Ordinul nr. 244/2003 pentru aprobarea Normei sanitare veterinare care stabilește reguli detaliate specifice de aplicare a regimului de restituire a plăților de export în ceea ce privește bunăstarea animalelor din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43540",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43540",
+     "sha256": "c4ff23bdb6f8ceeafd2a5f69053698b343ce0178fe7c8339e23cfa658c6199ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-245-2003",
+   "path": "ordin/agricultura/2003/245",
+   "short": "Ordin agricultura nr. 245/2003",
+   "title": "Ordinul nr. 245/2003 pentru aprobarea Normei sanitare veterinare cu privire la standardele zootehnice aplicabile animalelor de reproducție din specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43539",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43539",
+     "sha256": "a44f412887c371a9c7ab24d6c7408bfa022f2a25f0d6a2e121c968afe909d966"
     }
    ]
   },
@@ -123,6 +1293,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-247-2003",
+   "path": "ordin/agricultura/2003/247",
+   "short": "Ordin agricultura nr. 247/2003",
+   "title": "Ordinul nr. 247/2003 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 640/2002 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43055",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43055",
+     "sha256": "cfb8131cc4ab2e6393b5778d3787cef167d451097884e11a7523f5a01ea76d27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-248-2003",
+   "path": "ordin/agricultura/2003/248",
+   "short": "Ordin agricultura nr. 248/2003",
+   "title": "Ordinul nr. 248/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42925",
+   "versions": [
+    {
+     "from": "2003-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42925",
+     "sha256": "0e4a556fafe46e4594a2dd3e5a456f56d6ede59d37a62300001560470176da61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2003",
+   "path": "ordin/agricultura/2003/252",
+   "short": "Ordin agricultura nr. 252/2003",
+   "title": "Ordinul nr. 252/2003 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 384/2001 pentru aprobarea Normelor metodologice privind condițiile și modul de acordare și utilizare, precum și controlul utilizării sumelor alocate de la bugetul de stat pentru suportarea unor categorii de cheltuieli în domeniul îmbunătățirilor funciare, cu modificările și completările ulterioare, și a Ordinului ministrului agriculturii, alimentației și pădurilor nr. 481/2001 pentru aprobarea Normelor metodologice privind condițiile și modul de acordare și utilizare, precum și controlul utilizării sumelor alocate de la bugetul de stat pentru suportarea unor categorii de cheltuieli în domeniul îmbunătățirilor funciare ale asociațiilor utilizatorilor de apa pentru irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43882",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43882",
+     "sha256": "b31cc1c3eaad83f0d3a559ebd4008b5b12e6552285d966acd4b61e57d2237d69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-253-2003",
+   "path": "ordin/agricultura/2003/253",
+   "short": "Ordin agricultura nr. 253/2003",
+   "title": "Ordinul nr. 253/2003 pentru modificarea Regulamentului de organizare și funcționare a consiliilor de disciplina prevăzute în Statutul personalului silvic, aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 274/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43056",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43056",
+     "sha256": "f8d242f2de71c4bd2ae2a3bf6fb166481afc34c0d143c8b149b1a34b20953cea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-256-2003",
+   "path": "ordin/agricultura/2003/256",
+   "short": "Ordin agricultura nr. 256/2003",
+   "title": "Ordinul nr. 256/2003 pentru aprobarea modelului de ștampila, precum și a modelului de proces-verbal ce vor fi utilizate de către departamentul de inspecții din cadrul direcțiilor generale pentru agricultura și industrie alimentară județene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43190",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43190",
+     "sha256": "fa11195bbedb9983a2513056c92413b47b6c145900c6bc13bffffffb8b4e470a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-258-2003",
+   "path": "ordin/agricultura/2003/258",
+   "short": "Ordin agricultura nr. 258/2003",
+   "title": "Ordinul nr. 258/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala și de sănătate publică, precum și certificarea veterinara pentru activitățile de import de carne tocata și carne preparata din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44221",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44221",
+     "sha256": "923219336ddec8ffbd9beab785f08306cf85407a3fddd7ab16585f8aa3bbe975"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-261-2003",
+   "path": "ordin/agricultura/2003/261",
+   "short": "Ordin agricultura nr. 261/2003",
+   "title": "Ordinul nr. 261/2003 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinara a unităților și de aprobare a activității de export, precum și definirea unităților supuse controlului sanitar veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43589",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43589",
+     "sha256": "a52b52b9ab21efe9e13206b7f81d7946f356435cb5b927ebddc142d6fae513ad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-262-2003",
    "path": "ordin/agricultura/2003/262",
    "short": "Ordin agricultura nr. 262/2003",
@@ -134,6 +1409,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43908",
      "sha256": "4446da506ea45d6781779353eb533507452f60cd9d455d465f5e35336d369c8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-264-2003",
+   "path": "ordin/agricultura/2003/264",
+   "short": "Ordin agricultura nr. 264/2003",
+   "title": "Ordinul nr. 264/2003 pentru stabilirea caracteristicilor minime ale muniției permise pentru vânarea unor specii de vânat în România cu arme de vânătoare cu țevi ghintuite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43228",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43228",
+     "sha256": "44359beda783d9502c9b50665a7cd833afb164e8b5c0d5289ec4985ee5fd9324"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-265-2003",
+   "path": "ordin/agricultura/2003/265",
+   "short": "Ordin agricultura nr. 265/2003",
+   "title": "Ordinul nr. 265/2003 pentru aprobarea Programului de extindere a fondului forestier național în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43229",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43229",
+     "sha256": "cbc5fda247b41f6155a3c0f72e38d2a0bb80039f1d87f9b233e1131f5a14b6f1"
     }
    ]
   },
@@ -168,6 +1473,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-279-2003",
+   "path": "ordin/agricultura/2003/279",
+   "short": "Ordin agricultura nr. 279/2003",
+   "title": "Ordinul nr. 279/2003 privind aprobarea Instrucțiunilor de calcul al tarifelor de atribuire în gestiune, respectiv de pornire la licitația pentru atribuirea dreptului de gestionare a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43436",
+   "versions": [
+    {
+     "from": "2003-04-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43436",
+     "sha256": "d21a05837404ee549c388a6591886eebe26a34499f91d501bf22a61f4ce53be1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-280-2003",
+   "path": "ordin/agricultura/2003/280",
+   "short": "Ordin agricultura nr. 280/2003",
+   "title": "Ordinul nr. 280/2003 pentru aprobarea Reglementărilor tehnice privind jujeul purtat de câinii pentru paza care însoțesc turmele și cirezile de animale pe fondurile de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43370",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43370",
+     "sha256": "7ba02ac8eb22c492ff57c4c4ecbe43a2701041f9d857e8372c475bb261cd57f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-282-2003",
+   "path": "ordin/agricultura/2003/282",
+   "short": "Ordin agricultura nr. 282/2003",
+   "title": "Ordinul nr. 282/2003 pentru aprobarea Criteriilor tehnico-profesionale ce trebuie îndeplinite de persoanele care urmează să fie angajate de gestionării fondurilor de vânătoare pentru asigurarea pazei fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43372",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43372",
+     "sha256": "2c2c0f47ebeea643109a2cc73e46f8e782fb3a83fa5473abb7e51b3e86898a3d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-291-2003",
    "path": "ordin/agricultura/2003/291",
    "short": "Ordin agricultura nr. 291/2003",
@@ -179,6 +1529,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44590",
      "sha256": "8e31fce01721f1ce5717ed21e2d570a8c50e2b1760cbbe737468179510a2740a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-305-2003",
+   "path": "ordin/agricultura/2003/305",
+   "short": "Ordin agricultura nr. 305/2003",
+   "title": "Ordinul nr. 305/2003 pentru abrogarea Ordinului ministrului agriculturii, alimentației și pădurilor și al ministrului afacerilor externe nr. 18/102C/2002 privind instituirea sistemului de licențe de import automate, emise în scop statistic, pentru importurile de grâu și făina de grâu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43803",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43803",
+     "sha256": "6305e5817907bf35c160380b13e8b9779609c4b8ee1e365b5b174f0a4e15de58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-315-2003",
+   "path": "ordin/agricultura/2003/315",
+   "short": "Ordin agricultura nr. 315/2003",
+   "title": "Ordinul nr. 315/2003 pentru aprobarea Normei sanitare veterinare privind protecția animalelor în timpul transportului, cu referire la stabilirea punctelor de oprire, a punctelor de transfer și a planului de ruta, în cazul transporturilor internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43913",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43913",
+     "sha256": "7c94eab07b6c85bd9869056f3720dd83fa7448f3aec89ef51b608e4ed1a6caed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-317-2003",
+   "path": "ordin/agricultura/2003/317",
+   "short": "Ordin agricultura nr. 317/2003",
+   "title": "Ordinul nr. 317/2003 privind aprobarea Normelor tehnice pentru punerea în valoare și exploatarea exemplarelor de cireș din arboretele de amestec",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43560",
+   "versions": [
+    {
+     "from": "2003-05-08",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43560",
+     "sha256": "5ef470d5be11e41c4597493f12329accbf9f9dfc4bacae6edbc308d42724209c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-318-2003",
+   "path": "ordin/agricultura/2003/318",
+   "short": "Ordin agricultura nr. 318/2003",
+   "title": "Ordinul nr. 318/2003 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 102/2003 privind stabilirea speciilor de animale vii, categoriilor de producție, greutății minime și a perioadei admise pentru export în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43629",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43629",
+     "sha256": "03ed47399940fed798c27607e801aca18794d7565903e301f82165c5b2a431e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-319-2003",
+   "path": "ordin/agricultura/2003/319",
+   "short": "Ordin agricultura nr. 319/2003",
+   "title": "Ordinul nr. 319/2003 privind aprobarea Listei cuprinzând deținătorii de patrimoniu genetic al animalelor în anul 2003 pentru speciile ovine, păsări, animale de blana, viermi de mătase, albine, pești, taurine, porcine și palmipede, pe rase și linii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43664",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43664",
+     "sha256": "8c5d589bff419da44709932e8121225ca82770c3baba09fe3ec768ff6ce1672a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-32-2003",
+   "path": "ordin/agricultura/2003/32",
+   "short": "Ordin agricultura nr. 32/2003",
+   "title": "Ordinul nr. 32/2003 pentru autorizarea Organizației Interprofesionale \"Carne de porc\" din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41864",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41864",
+     "sha256": "d7c4cffc033e8e15e56a9e6ff670783a9f9dac3fefd0e43d917f25426a453fc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-321-2003",
+   "path": "ordin/agricultura/2003/321",
+   "short": "Ordin agricultura nr. 321/2003",
+   "title": "Ordinul nr. 321/2003 privind abrogarea art. I lit. b) din Ordinul ministrului agriculturii, alimentației și pădurilor nr. 229/2002 pentru modificarea și completarea Programului privind sprijinirea producătorilor agricoli și asociațiilor utilizatorilor de apa pentru irigații în vederea achiziționării de instalații de irigat noi din producția internă, finanțat din Fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 117/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43562",
+   "versions": [
+    {
+     "from": "2003-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43562",
+     "sha256": "f9fa166121e2c5c64931429c261eff01de3ca9738f0dbc404ec7d46cb2186b92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-322-2003",
+   "path": "ordin/agricultura/2003/322",
+   "short": "Ordin agricultura nr. 322/2003",
+   "title": "Ordinul nr. 322/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate care reglementează producerea și comercializarea produselor din carne și a altor produse de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43914",
+   "versions": [
+    {
+     "from": "2003-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43914",
+     "sha256": "b0ae1050a36a7f2775f44f2a97f5347e2474fcb3ec5258b577a634c54143ab23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-334-2003",
+   "path": "ordin/agricultura/2003/334",
+   "short": "Ordin agricultura nr. 334/2003",
+   "title": "Ordinul nr. 334/2003 privind aprobarea Listei cuprinzând indicațiile geografice protejate și recunoscute în România pentru băuturile alcoolice distilate din vin, din subproduse rezultate la fabricarea vinului și din fructe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44127",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44127",
+     "sha256": "b65ecc9b2d423b393d1fcec6decd4c05b0b10b0f0ec65701f38a88dbc59be3c3"
     }
    ]
   },
@@ -198,6 +1683,291 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-337-2003",
+   "path": "ordin/agricultura/2003/337",
+   "short": "Ordin agricultura nr. 337/2003",
+   "title": "Ordinul nr. 337/2003 pentru modificarea punctului II.1 din Instrucțiunile de organizare și desfășurare a procedurii de concesionare a fondului piscicol administrat de Compania Națională de Administrare a Fondului Piscicol, prin licitație publică deschisă cu preselecție, anexa la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 233/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43811",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43811",
+     "sha256": "e9ccd73f06ffc527b4fa61418a0583fd9485f75869a172051628b42eef581a47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-338-2003",
+   "path": "ordin/agricultura/2003/338",
+   "short": "Ordin agricultura nr. 338/2003",
+   "title": "Ordinul nr. 338/2003 privind aprobarea cotelor de recolta pentru speciile de fauna de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2003-14 mai 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43853",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43853",
+     "sha256": "542e855963c516f95db8127b1e851e155ab60b91cd4b70c026a375147118ef23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-339-2003",
+   "path": "ordin/agricultura/2003/339",
+   "short": "Ordin agricultura nr. 339/2003",
+   "title": "Ordinul nr. 339/2003 privind aprobarea Listei cuprinzând indicațiile geografice protejate și recunoscute în România pentru produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43883",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43883",
+     "sha256": "5ecefb50ca6001c5187ec9ad183d5b8bb5d27cee4bfecd16060571ba5f0d9aca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-347-2003",
+   "path": "ordin/agricultura/2003/347",
+   "short": "Ordin agricultura nr. 347/2003",
+   "title": "Ordinul nr. 347/2003 pentru aprobarea Normei privind limitele maxime de perisabilitate admise, pe categorii de produse de uz veterinar, în timpul transportului, depozitarii și desfacerii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46519",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46519",
+     "sha256": "3095cfbe9cb52f61565a0d1ee838249b884105b890d6e146197ee06048654c9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-348-2003",
+   "path": "ordin/agricultura/2003/348",
+   "short": "Ordin agricultura nr. 348/2003",
+   "title": "Ordinul nr. 348/2003 pentru modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 225/2003 privind aprobarea Regulamentului de atestare a producătorilor agricoli care conduc și administrează exploatații agricole familiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44006",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44006",
+     "sha256": "378749f1e9595115595f6954f4903ef793c54bf3f72de0200118b4933dbfa5fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-355-2003",
+   "path": "ordin/agricultura/2003/355",
+   "short": "Ordin agricultura nr. 355/2003",
+   "title": "Ordinul nr. 355/2003 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 120/2002 privind corelarea gradelor profesionale și a gradatiilor stabilite pentru personalul silvic cu funcțiile deținute de personalul silvic aflat în activitate la data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată și modificată prin Legea nr. 427/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44025",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44025",
+     "sha256": "ba8392a884741671c762062c1d496f842e2dbc7752f7e0beccf6b7b948a0c27a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-356-2003",
+   "path": "ordin/agricultura/2003/356",
+   "short": "Ordin agricultura nr. 356/2003",
+   "title": "Ordinul nr. 356/2003 pentru aprobarea Regulamentului privind licențele de gradator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44004",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44004",
+     "sha256": "66731c54a1c854ae47df21ee00227d04f302395b2ce4105f50fd86cfe8d0fded"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-357-2003",
+   "path": "ordin/agricultura/2003/357",
+   "short": "Ordin agricultura nr. 357/2003",
+   "title": "Ordinul nr. 357/2003 pentru aprobarea Regulamentului cu privire la acordarea, suspendarea și retragerea (anularea) licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44299",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44299",
+     "sha256": "4adb824e82d86a47a2e3680713367dd9583c8d1dbbf73aaebb86f01d04ff1228"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-363-2003",
+   "path": "ordin/agricultura/2003/363",
+   "short": "Ordin agricultura nr. 363/2003",
+   "title": "Ordinul nr. 363/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Sere\" - S.A. Brașov, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44218",
+   "versions": [
+    {
+     "from": "2003-06-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44218",
+     "sha256": "b69d0ccc66ba52fa2f4df1de5386d15742c0e6105121f25f5a3583938c211494"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-364-2003",
+   "path": "ordin/agricultura/2003/364",
+   "short": "Ordin agricultura nr. 364/2003",
+   "title": "Ordinul nr. 364/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Corias\" - S.A. Corabia, județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44219",
+   "versions": [
+    {
+     "from": "2003-06-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44219",
+     "sha256": "ce503acd9b363adca746f981a8a75868338488a1acca68be1db602ad9dc6c817"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-365-2003",
+   "path": "ordin/agricultura/2003/365",
+   "short": "Ordin agricultura nr. 365/2003",
+   "title": "Ordinul nr. 365/2003 pentru aprobarea Programului național de alerta și intervenție în caz de necesitate pentru febra aftoasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49891",
+   "versions": [
+    {
+     "from": "2004-03-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49891",
+     "sha256": "29291682a46deb24322f7c06daf66f3f8625801b6bedaefac5187168e0016358"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-367-2003",
+   "path": "ordin/agricultura/2003/367",
+   "short": "Ordin agricultura nr. 367/2003",
+   "title": "Ordinul nr. 367/2003 pentru aprobarea Normei sanitare veterinare cu privire la certificarea animalelor și a produselor de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44280",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44280",
+     "sha256": "127228c3d614f52aee26dee1337929bd52bac6a7370f319d26cf729d634c58c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-368-2003",
+   "path": "ordin/agricultura/2003/368",
+   "short": "Ordin agricultura nr. 368/2003",
+   "title": "Ordinul nr. 368/2003 pentru aprobarea Normei sanitare veterinare privind controlul oficial al produselor alimentare de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44282",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44282",
+     "sha256": "81e15caaad20f3d1f0349e288fe4c5d97d8b0d2024e2d50e2a2b2f3c9230b125"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-369-2003",
+   "path": "ordin/agricultura/2003/369",
+   "short": "Ordin agricultura nr. 369/2003",
+   "title": "Ordinul nr. 369/2003 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 643/2002 pentru aprobarea Normei sanitare veterinare care stabilește lista țărilor terțe din care se avizează importul în România de păsări vii și oua de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44279",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44279",
+     "sha256": "4f1faffa8a46d9ce68c9484db65e2bc2bdabb190f54c0f1ad5ee4f4b44a39749"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-377-2003",
+   "path": "ordin/agricultura/2003/377",
+   "short": "Ordin agricultura nr. 377/2003",
+   "title": "Ordinul nr. 377/2003 pentru aprobarea Listei cu gradatori autorizați și a Formularului-tip pentru licența de gradator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44274",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44274",
+     "sha256": "ecd77b48efc1722258b6711656c3230c4c98383e51d20401c717aa21dd65edf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-379-2003",
+   "path": "ordin/agricultura/2003/379",
+   "short": "Ordin agricultura nr. 379/2003",
+   "title": "Ordinul nr. 379/2003 pentru aprobarea metodologiei de evaluare a trofeelor de vânat, în conformitate cu metodologia Consiliului Internațional de Vânătoare și Protecție a Vânatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44263",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44263",
+     "sha256": "da208422f8281163207b488307e617bf19979e685728a0c9f1e7ec2fd7e9ff76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-381-2003",
+   "path": "ordin/agricultura/2003/381",
+   "short": "Ordin agricultura nr. 381/2003",
+   "title": "Ordinul nr. 381/2003 privind completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 640/2002 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44383",
+   "versions": [
+    {
+     "from": "2003-06-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44383",
+     "sha256": "544a70d711171fe2b9a44935d8b15e5f220cd510a335bdfb777cdf391d7150e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-382-2003",
+   "path": "ordin/agricultura/2003/382",
+   "short": "Ordin agricultura nr. 382/2003",
+   "title": "Ordinul nr. 382/2003 pentru modificarea prevederilor Ordinului ministrului agriculturii, alimentației și pădurilor nr. 228/2003 privind stabilirea tarifelor pentru efectuarea controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și pentru efectuarea testelor de calitate a semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44485",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44485",
+     "sha256": "23fd834bc837b4ca54fd5eaa62cdaa64c70b82a7ad05ee00211c8487319324b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-383-2003",
+   "path": "ordin/agricultura/2003/383",
+   "short": "Ordin agricultura nr. 383/2003",
+   "title": "Ordinul nr. 383/2003 pentru aprobarea cuantumului sumei fixe/tona de semințe de consum recepționate și a Formularului-tip de raportare lunară a cantităților de semințe de consum recepționate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44385",
+   "versions": [
+    {
+     "from": "2003-06-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44385",
+     "sha256": "42ac7e47a6b00d9bf9534f3abf67c6caaf54d0ad156d295b88ac07423357fd0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-388-2003",
    "path": "ordin/agricultura/2003/388",
    "short": "Ordin agricultura nr. 388/2003",
@@ -209,6 +1979,261 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45248",
      "sha256": "f672b0dc7ab1c2f3b9c99db5c359efb206bc44ec8a231febabb1fb060e70180c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-391-2003",
+   "path": "ordin/agricultura/2003/391",
+   "short": "Ordin agricultura nr. 391/2003",
+   "title": "Ordinul nr. 391/2003 privind predarea spre exploatare a masei lemnoase din fondul forestier proprietate publică a statului, care face obiectul vânzării de către Regia Naționala a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44486",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44486",
+     "sha256": "91f578a1ec350be4748db643218732e540746389e69be7706ea0751ca86c7d7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-397-2003",
+   "path": "ordin/agricultura/2003/397",
+   "short": "Ordin agricultura nr. 397/2003",
+   "title": "Ordinul nr. 397/2003 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45006",
+   "versions": [
+    {
+     "from": "2003-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45006",
+     "sha256": "af302162d18c221f4639c8a80f3739b044a34b0f9ae1cc6a5c72ac58e3d53877"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-412-2003",
+   "path": "ordin/agricultura/2003/412",
+   "short": "Ordin agricultura nr. 412/2003",
+   "title": "Ordinul nr. 412/2003 pentru aprobarea Normei sanitare veterinare privind circulația furajelor combinate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45657",
+   "versions": [
+    {
+     "from": "2003-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45657",
+     "sha256": "2d6379e224fb4f3c96f5d97be757fc49584f57d57c51a1c959082d8383fa620f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-427-2003",
+   "path": "ordin/agricultura/2003/427",
+   "short": "Ordin agricultura nr. 427/2003",
+   "title": "Ordinul nr. 427/2003 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45151",
+   "versions": [
+    {
+     "from": "2003-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45151",
+     "sha256": "b155b3e291da57897bf2d0956e64fcf070a93cfa2c3c3bf99195a705fe0c1688"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-428-2003",
+   "path": "ordin/agricultura/2003/428",
+   "short": "Ordin agricultura nr. 428/2003",
+   "title": "Ordinul nr. 428/2003 pentru aprobarea Normei sanitare veterinare cu referire la măsurile de protecție privind activitățile de import în România al unor specii de animale și produse ale acestora din Albania, Bulgaria, fosta Republică Iugoslavă a Macedoniei și Republica Federală Iugoslavia, cu privire la boala limbii albastre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45049",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45049",
+     "sha256": "ece96703f694b68e31aae46653019331a13df3c1433479bc1169c86622d7d4bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-43-2003",
+   "path": "ordin/agricultura/2003/43",
+   "short": "Ordin agricultura nr. 43/2003",
+   "title": "Ordinul nr. 43/2003 pentru aprobarea Normei sanitare veterinare privind criteriile care se aplica în întreprinderile producătoare de produse din carne și care nu au o structura sau o capacitate de producție industriala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42258",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42258",
+     "sha256": "55a42931b31d58fb0e427b061aa5ffee34badb1b3c1858c399a5be2e9007d187"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-431-2003",
+   "path": "ordin/agricultura/2003/431",
+   "short": "Ordin agricultura nr. 431/2003",
+   "title": "Ordinul nr. 431/2003 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45023",
+   "versions": [
+    {
+     "from": "2003-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45023",
+     "sha256": "52235ee33042224291276a2165d30cfd25195ec863a4b0258591c2720df1da90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-432-2003",
+   "path": "ordin/agricultura/2003/432",
+   "short": "Ordin agricultura nr. 432/2003",
+   "title": "Ordinul nr. 432/2003 privind aprobarea categoriilor de integratori care beneficiază de prevederile Legii creditului agricol pentru producție nr. 150/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45051",
+   "versions": [
+    {
+     "from": "2003-07-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45051",
+     "sha256": "0b028cca2a1d1044610f3e7f2b546a0a210cea3355ddbfd13e612d6bb8f7f336"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-433-2003",
+   "path": "ordin/agricultura/2003/433",
+   "short": "Ordin agricultura nr. 433/2003",
+   "title": "Ordinul nr. 433/2003 pentru aprobarea Normei sanitare veterinare care stabilește informațiile minime necesare pentru baza de date privind animalele și produsele de origine animala introduse în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45351",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45351",
+     "sha256": "7d49e2f048dce13a623fd56871e3dcd56c13261a7c6164315ef493dc8504ca30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-44-2003",
+   "path": "ordin/agricultura/2003/44",
+   "short": "Ordin agricultura nr. 44/2003",
+   "title": "Ordinul nr. 44/2003 pentru aprobarea Normei sanitare veterinare privind măsurile pentru controlul febrei aftoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42259",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42259",
+     "sha256": "067e2e58d23aaada5be4a55999431a7b15292ccff69a49ee930008c6f229a15b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-45-2003",
+   "path": "ordin/agricultura/2003/45",
+   "short": "Ordin agricultura nr. 45/2003",
+   "title": "Ordinul nr. 45/2003 pentru aprobarea Normei sanitare veterinare privind procedurile detaliate pentru efectuarea de controale referitoare la respectarea punctului de congelare a laptelui crud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42260",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42260",
+     "sha256": "9b681711bd8971266046c46b31009d811fcdf78a0c4c1a8c288f6909a3343064"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-455-2003",
+   "path": "ordin/agricultura/2003/455",
+   "short": "Ordin agricultura nr. 455/2003",
+   "title": "Ordinul nr. 455/2003 pentru aprobarea Normei sanitare veterinare care stabilește măsuri interimare de siguranță cu privire la activitățile de import de produse de origine animala pentru consum personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45419",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45419",
+     "sha256": "b9fcd0dd762a51c4acf8769ada2adee797eda9bf52292e300229aa40226fc273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-456-2003",
+   "path": "ordin/agricultura/2003/456",
+   "short": "Ordin agricultura nr. 456/2003",
+   "title": "Ordinul nr. 456/2003 pentru aprobarea Normei sanitare veterinare privind informațiile ce trebuie să fie introduse în fișierul computerizat privind activitățile de transport de animale sau produse animaliere care provin din tari terțe și care sunt reexpediate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45417",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45417",
+     "sha256": "f743d5416790cb2e1552c36124b54127bd403024daec35d251f9b6afc69eeae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-457-2003",
+   "path": "ordin/agricultura/2003/457",
+   "short": "Ordin agricultura nr. 457/2003",
+   "title": "Ordinul nr. 457/2003 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45219",
+   "versions": [
+    {
+     "from": "2003-07-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45219",
+     "sha256": "1889c92de8a26863cb20399c7d86e16a65e14c6604c7b37d6010dce1b7b5edad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-458-2003",
+   "path": "ordin/agricultura/2003/458",
+   "short": "Ordin agricultura nr. 458/2003",
+   "title": "Ordinul nr. 458/2003 privind aprobarea Listei denumirilor de origine, a indicațiilor geografice și a mențiunilor tradiționale ale vinurilor, a Listei denumirilor de origine ale vinurilor spumante și a Listei denumirilor de origine ale vinarsurilor admise spre utilizare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45426",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45426",
+     "sha256": "09d9eca49a41f1b8bcf5091c7ac8c26d5e71e41df14a4b0c80f5ca323081553b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-46-2003",
+   "path": "ordin/agricultura/2003/46",
+   "short": "Ordin agricultura nr. 46/2003",
+   "title": "Ordinul nr. 46/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor care reglementează comerțul cu produse din carne dintre România și statele membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42261",
+   "versions": [
+    {
+     "from": "2003-03-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42261",
+     "sha256": "64c41358b6610da47c716544c95b5fb155e6021e60a3604a2c40c982cad53e96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-462-2003",
+   "path": "ordin/agricultura/2003/462",
+   "short": "Ordin agricultura nr. 462/2003",
+   "title": "Ordinul nr. 462/2003 privind evidenta agenților economici care cultiva plante modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45280",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45280",
+     "sha256": "9f3445734e2da68b897d1c5184c8e212de37345dabfb33993d7bdd79346d964f"
     }
    ]
   },
@@ -243,6 +2268,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-483-2003",
+   "path": "ordin/agricultura/2003/483",
+   "short": "Ordin agricultura nr. 483/2003",
+   "title": "Ordinul nr. 483/2003 privind aprobarea Regulamentului de organizare și funcționare a Comisiei pentru acordarea licențelor de depozit pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45520",
+   "versions": [
+    {
+     "from": "2003-08-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45520",
+     "sha256": "3b0ef8e0645c495ca2035bd1454d016387b87fde0d2262ee623c1376605860bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-484-2003",
+   "path": "ordin/agricultura/2003/484",
+   "short": "Ordin agricultura nr. 484/2003",
+   "title": "Ordinul nr. 484/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 344/2002 pentru aprobarea Normei sanitare veterinare privind documentele necesare trecerii frontierei pentru animale vii importate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45450",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45450",
+     "sha256": "fec5550cd4d5e3ef81b76695740d5a61352555b47875b1d8388094a697e35b7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-485-2003",
+   "path": "ordin/agricultura/2003/485",
+   "short": "Ordin agricultura nr. 485/2003",
+   "title": "Ordinul nr. 485/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 343/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea procedurilor controalelor veterinare la punctele de inspecție de frontieră din România asupra produselor provenite din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45451",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45451",
+     "sha256": "7d4cf4ed0473fb53636d1559c041cb3d13e014bb2b54a894d6a9dec19419cb88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-487-2003",
+   "path": "ordin/agricultura/2003/487",
+   "short": "Ordin agricultura nr. 487/2003",
+   "title": "Ordinul nr. 487/2003 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și alimentației nr. 70/1998 pentru aprobarea Normei sanitare veterinare privind condițiile și procedura de avizare sanitară veterinara a importului, exportului, tranzitului cu animale, produse și subproduse de origine animala, furaje și alte produse și materii care pot influența starea de sănătate a animalelor și sănătatea publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45594",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45594",
+     "sha256": "5c789ffda9dbfc782b4dc20b0dab561d5d25769194b4329165c8a38fc0c7bd7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-488-2003",
+   "path": "ordin/agricultura/2003/488",
+   "short": "Ordin agricultura nr. 488/2003",
+   "title": "Ordinul nr. 488/2003 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 640/2002 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45602",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45602",
+     "sha256": "cbaae95d6dd706e3f9902947cb10a55e9697d9fe8503d0f304daaa9cb3681f3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-491-2003",
+   "path": "ordin/agricultura/2003/491",
+   "short": "Ordin agricultura nr. 491/2003",
+   "title": "Ordinul nr. 491/2003 privind modificarea perioadei legale de vânare la specia Coturnix coturnix (prepelița) pentru sezonul de vânătoare 2003/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45425",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45425",
+     "sha256": "3ad25fda2cb3290d778d9bf16dcf5c12a56188fabca3a819e0c224c121343d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-497-2003",
+   "path": "ordin/agricultura/2003/497",
+   "short": "Ordin agricultura nr. 497/2003",
+   "title": "Ordinul nr. 497/2003 pentru modificarea și completarea Ordinului ministrului agriculturii și alimentației nr. 139/1999 privind atribuțiile Oficiului de reglementare a asociațiilor utilizatorilor de apa pentru irigații și înființarea Registrului național al asociațiilor utilizatorilor de apa pentru irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45456",
+   "versions": [
+    {
+     "from": "2003-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45456",
+     "sha256": "eded156e4961017624c607bc85685b5c2f54265681e4d0aab0374418606701e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-498-2003",
    "path": "ordin/agricultura/2003/498",
    "short": "Ordin agricultura nr. 498/2003",
@@ -273,6 +2403,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-502-2003",
+   "path": "ordin/agricultura/2003/502",
+   "short": "Ordin agricultura nr. 502/2003",
+   "title": "Ordinul nr. 502/2003 privind contractul-tip de vânzare-cumpărare a tutunului brut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45498",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45498",
+     "sha256": "295bdf9d90d79270f348b62c6a68520db2148a7880b1907f9b680b93047e8968"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-503-2003",
+   "path": "ordin/agricultura/2003/503",
+   "short": "Ordin agricultura nr. 503/2003",
+   "title": "Ordinul nr. 503/2003 privind autorizarea unităților prim-procesatoare de tutun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45494",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45494",
+     "sha256": "498d459e18d1569d3320883acea65f8ed835208e547ab3746cc11818973e2196"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-505-2003",
+   "path": "ordin/agricultura/2003/505",
+   "short": "Ordin agricultura nr. 505/2003",
+   "title": "Ordinul nr. 505/2003 privind aprobarea Normei sanitare veterinare ce stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutriției animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46407",
+   "versions": [
+    {
+     "from": "2003-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46407",
+     "sha256": "cff5c8efdf31450ad98957816fc37bdec6ca495eb826e158da54ba9894427c40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-506-2003",
+   "path": "ordin/agricultura/2003/506",
+   "short": "Ordin agricultura nr. 506/2003",
+   "title": "Ordinul nr. 506/2003 pentru aprobarea Normei sanitare veterinare privind aprobarea listei posturilor de inspecție de frontieră în care sunt organizate controale sanitare veterinare, a condițiilor de agreere a posturilor de inspecție de frontieră responsabile pentru controalele veterinare ale animalelor vii și produselor provenind din țări terțe, precum și stabilirea atribuțiilor personalului posturilor de inspecție de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46880",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46880",
+     "sha256": "bdef9b13fd75ab03f8e36acaae564d1c6d6f998339ba27781f1ac4edc3aa7119"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-507-2003",
+   "path": "ordin/agricultura/2003/507",
+   "short": "Ordin agricultura nr. 507/2003",
+   "title": "Ordinul nr. 507/2003 pentru aprobarea Normei sanitare veterinare privind circulația și utilizarea materiilor prime furajere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46518",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46518",
+     "sha256": "2e01f5fe50bef629f0bd0a0e930f4e3254a3834902a18b3ccc80cefb9bbaa2d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-510-2003",
    "path": "ordin/agricultura/2003/510",
    "short": "Ordin agricultura nr. 510/2003",
@@ -299,6 +2504,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46370",
      "sha256": "efb035aa63ad652564e6c5784e68a409505bb70b4873618323677aec3a90208e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-52-2003",
+   "path": "ordin/agricultura/2003/52",
+   "short": "Ordin agricultura nr. 52/2003",
+   "title": "Ordinul nr. 52/2003 privind aprobarea Normelor metodologice pentru producerea și comercializarea vinurilor cu denumire de origine și a Regulamentului de organizare și funcționare a Oficiului Național al Denumirilor de Origine pentru Vinuri și Alte Produse Vitivinicole (ONDOV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42355",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42355",
+     "sha256": "422cef5ad19f06a541a0862da3f2603352506d1d0872db35da644bee35b49760"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-520-2003",
+   "path": "ordin/agricultura/2003/520",
+   "short": "Ordin agricultura nr. 520/2003",
+   "title": "Ordinul nr. 520/2003 privind normele de aplicare a standardelor de calitate, calibrare și condiționare pentru plantele ornamentale și produsele din floricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45986",
+   "versions": [
+    {
+     "from": "2003-08-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45986",
+     "sha256": "5226c659a7687fa9fb0bf3e0ae35d162720bd017d37099678ddd924722253d4b"
     }
    ]
   },
@@ -348,6 +2583,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-525-2003",
+   "path": "ordin/agricultura/2003/525",
+   "short": "Ordin agricultura nr. 525/2003",
+   "title": "Ordinul nr. 525/2003 pentru aprobarea Normei sanitare veterinare ce stabilește unele reguli detaliate cu privire la controalele veterinare pentru animale ce sunt importate din tari terțe în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45779",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45779",
+     "sha256": "3829e6abf9cca613c99db1c9aebf562e798117efb0078ae440e10d0d695ed5c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-526-2003",
+   "path": "ordin/agricultura/2003/526",
+   "short": "Ordin agricultura nr. 526/2003",
+   "title": "Ordinul nr. 526/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46052",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46052",
+     "sha256": "f9d3d3af72aa7e5fc697c68bf7e7a523c6755379ba186ebe3f7b2e605ef1176d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-527-2003",
+   "path": "ordin/agricultura/2003/527",
+   "short": "Ordin agricultura nr. 527/2003",
+   "title": "Ordinul nr. 527/2003 pentru aprobarea Regulilor privind sistemul de inspecție și certificare și condițiile de acreditare a organismelor de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45985",
+   "versions": [
+    {
+     "from": "2003-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45985",
+     "sha256": "2102367e1b429795e7e19c37c34795ffc09577f3efb55c01e4ed7ad0afbfd7ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-530-2003",
+   "path": "ordin/agricultura/2003/530",
+   "short": "Ordin agricultura nr. 530/2003",
+   "title": "Ordinul nr. 530/2003 pentru aprobarea Normei sanitare veterinare care stabilește derogări de la condițiile de aprobare a posturilor de inspecție de frontieră localizate în porturile în care se debarca peste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46724",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46724",
+     "sha256": "5769bc1acc8fd96898567b25b26763a45b1e4874c9f60ed8d82c4a875145bd5e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-544-2003",
    "path": "ordin/agricultura/2003/544",
    "short": "Ordin agricultura nr. 544/2003",
@@ -378,6 +2673,96 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-547-2003",
+   "path": "ordin/agricultura/2003/547",
+   "short": "Ordin agricultura nr. 547/2003",
+   "title": "Ordinul nr. 547/2003 pentru aprobarea Normei sanitare veterinare care stabilește specificațiile tehnice pentru mărcile de identificare și dispozitivele de citire în vederea identificării cabalinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46151",
+   "versions": [
+    {
+     "from": "2003-09-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46151",
+     "sha256": "522467fe0a1865e1de6cf49ed2545d1218cc939e38f1e7db939597dace92c8b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-552-2003",
+   "path": "ordin/agricultura/2003/552",
+   "short": "Ordin agricultura nr. 552/2003",
+   "title": "Ordinul nr. 552/2003 privind aprobarea zonarii interioare a parcurilor naționale și a parcurilor naturale, din punct de vedere al necesității de conservare a diversității biologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46248",
+   "versions": [
+    {
+     "from": "2003-09-11",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46248",
+     "sha256": "1f90fa68f5c5785350c9cbdc9add1e8df529153659449b80a08566e8dbd612c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-553-2003",
+   "path": "ordin/agricultura/2003/553",
+   "short": "Ordin agricultura nr. 553/2003",
+   "title": "Ordinul nr. 553/2003 privind obligativitatea întocmirii notelor de vânzare a peștelui și a altor viețuitoare acvatice la centrele de vânzare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45980",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45980",
+     "sha256": "c058452b3a8b9ad76da41bf9d4e31a455af4e6f76510f56a382a1f1efeb7f40a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-555-2003",
+   "path": "ordin/agricultura/2003/555",
+   "short": "Ordin agricultura nr. 555/2003",
+   "title": "Ordinul nr. 555/2003 privind identificarea suprafețelor din fondul forestier național exceptate de la reconstituirea dreptului de proprietate pe vechile amplasamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46053",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46053",
+     "sha256": "cc28ccec51d6ba09564216e3f7d3fb1cf06e1da36e5df6f7abd85ba0dc5575aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-556-2003",
+   "path": "ordin/agricultura/2003/556",
+   "short": "Ordin agricultura nr. 556/2003",
+   "title": "Ordinul nr. 556/2003 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46022",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46022",
+     "sha256": "510078d0ce2343b1e4611df92f58f21f893603f9940c20e8f04cc29bf25d9ab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-564-2003",
+   "path": "ordin/agricultura/2003/564",
+   "short": "Ordin agricultura nr. 564/2003",
+   "title": "Ordinul nr. 564/2003 pentru aprobarea Regulilor și normelor tehnice interne privind producerea în vederea comercializării, prelucrarea, controlul și/sau certificarea calității semințelor și a materialului săditor din unele specii de plante produse și comercializate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46255",
+   "versions": [
+    {
+     "from": "2003-09-16",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46255",
+     "sha256": "65dfccf26b0783e23da53d1c6349833639a3c2c720b6d170f0c33276a2e36edf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-565-2003",
    "path": "ordin/agricultura/2003/565",
    "short": "Ordin agricultura nr. 565/2003",
@@ -389,6 +2774,126 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48069",
      "sha256": "8f37e351e9a298d87a2c223d8d72d58bf66e5cfba9b8c4e9a58409d3fa1c90b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-58-2003",
+   "path": "ordin/agricultura/2003/58",
+   "short": "Ordin agricultura nr. 58/2003",
+   "title": "Ordinul nr. 58/2003 pentru aprobarea Metodologiei de calcul al taxei, garanției, contravalorii terenului, chiriei, contravalorii pierderii de creștere și al celorlalte obligații financiare pentru scoaterea definitivă sau temporară a unor terenuri din fondul forestier național și a Metodologiei de finanțare și de executare a lucrărilor de reinstalare a vegetației forestiere și de întreținere a acesteia, până la realizarea stării de masiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41959",
+   "versions": [
+    {
+     "from": "2003-02-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41959",
+     "sha256": "891dd5a053c0ee826032484ee9c1682d73379a3ccf7997273336e7a34207a371"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-59-2003",
+   "path": "ordin/agricultura/2003/59",
+   "short": "Ordin agricultura nr. 59/2003",
+   "title": "Ordinul nr. 59/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea criteriilor uniforme pentru acordarea de derogări unor unități ce fabrica produse pe bază de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42262",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42262",
+     "sha256": "07726eb0eca7cf97b1fdf9ed81f9c5c2f64b1311e8c2315cbc3df0cc6f9fb6c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-2003",
+   "path": "ordin/agricultura/2003/6",
+   "short": "Ordin agricultura nr. 6/2003",
+   "title": "Ordinul nr. 6/2003 privind aprobarea Normei sanitare veterinare care desemnează instituția specifica responsabilă pentru stabilirea criteriilor necesare pentru standardizarea testelor serologice în scopul monitorizării eficientei vaccinurilor antirabice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42219",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42219",
+     "sha256": "00d52fa5acdb8e4ac3ae03e77158471029ef49d296c2ad31deac2c18e984e400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-60-2003",
+   "path": "ordin/agricultura/2003/60",
+   "short": "Ordin agricultura nr. 60/2003",
+   "title": "Ordinul nr. 60/2003 pentru aprobarea Normei sanitare veterinare care stabilește modelul documentelor de circulație la care se referă art. 14 din Norma sanitară veterinara privind condițiile de sănătate a animalelor ce reglementează punerea pe piața României a animalelor și produselor de acvacultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42263",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42263",
+     "sha256": "00ad1b50f0516d151d563dd1ab256f48644d7a71ba93068b5f06ead6ac20ab4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2003",
+   "path": "ordin/agricultura/2003/61",
+   "short": "Ordin agricultura nr. 61/2003",
+   "title": "Ordinul nr. 61/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și certificarea veterinara pentru admiterea temporară în România a cabalinelor înregistrate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42264",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42264",
+     "sha256": "9726477015ec377651b4d1eb13f95210f0f8861d7354686a7d4a8140a6739c6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-618-2003",
+   "path": "ordin/agricultura/2003/618",
+   "short": "Ordin agricultura nr. 618/2003",
+   "title": "Ordinul nr. 618/2003 pentru aprobarea Normei sanitare veterinare ce stabilește o lista a bolilor epizootice în conformitate cu Norma sanitară veterinara privind problemele de sănătate și inspecție veterinara după importul în România din tari terțe de bovine, ovine, caprine și porcine și carne proaspăta provenită de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46461",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46461",
+     "sha256": "8c136dce6fac0f6417e3d51b64fe5d42fc02da080a801dce395d1d307f41d8ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-619-2003",
+   "path": "ordin/agricultura/2003/619",
+   "short": "Ordin agricultura nr. 619/2003",
+   "title": "Ordinul nr. 619/2003 pentru aprobarea colectivelor de specialiști pentru delimitarea zonelor legumicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46209",
+   "versions": [
+    {
+     "from": "2003-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46209",
+     "sha256": "cd071c274dfa05e2cc4e7e5919a59f7170e0e0ec6a10dc672dc5572cefe88eb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-62-2003",
+   "path": "ordin/agricultura/2003/62",
+   "short": "Ordin agricultura nr. 62/2003",
+   "title": "Ordinul nr. 62/2003 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 640/2002 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41719",
+   "versions": [
+    {
+     "from": "2003-02-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41719",
+     "sha256": "f59a0492962ebad235b79fef83d5d922d8221f22d7c3cb8acbe59722c322759d"
     }
    ]
   },
@@ -408,6 +2913,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-63-2003",
+   "path": "ordin/agricultura/2003/63",
+   "short": "Ordin agricultura nr. 63/2003",
+   "title": "Ordinul nr. 63/2003 pentru aprobarea Normei sanitare veterinare referitoare la laboratoarele de referința pentru monitorizarea contaminării bacteriologice și virale a moluștelor bivalve",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42265",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42265",
+     "sha256": "1600e02497ea4fdb0c559ca4f9253cfb23b06b3d864ff843d4b5d8527a39c83a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-64-2003",
    "path": "ordin/agricultura/2003/64",
    "short": "Ordin agricultura nr. 64/2003",
@@ -419,6 +2939,81 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42168",
      "sha256": "b5045df8bd4571564a9d7bdabe8b41f9e9cfb9f363e0e391f56640cf7b37e105"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2003",
+   "path": "ordin/agricultura/2003/66",
+   "short": "Ordin agricultura nr. 66/2003",
+   "title": "Ordinul nr. 66/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și modelele de certificate veterinare pentru importul de carne proaspăta de pasare din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42266",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42266",
+     "sha256": "cdc9953fbf41905c3304fa7a5c8c6e3c76bd134b7b40a0582ad49e8f4698a49f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-668-2003",
+   "path": "ordin/agricultura/2003/668",
+   "short": "Ordin agricultura nr. 668/2003",
+   "title": "Ordinul nr. 668/2003 pentru aprobarea numărului de exemplare din speciile urs, lup și pisica sălbatică care se pot recolta în cadrul sezonului de vânătoare 2003-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46327",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46327",
+     "sha256": "b201dc13ca7412d2e7f5dbbca69a4782c79a2f4b370b6deb02a79d2dd29df95c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2003",
+   "path": "ordin/agricultura/2003/67",
+   "short": "Ordin agricultura nr. 67/2003",
+   "title": "Ordinul nr. 67/2003 pentru aprobarea Normei sanitare veterinare privind aprobarea unui sistem de identificare pentru taurii destinați evenimentelor culturale și sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42267",
+   "versions": [
+    {
+     "from": "2003-03-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42267",
+     "sha256": "2ffcfce2bf67f98ef371d19bdcc8865e79832df10f690ddb510c9ab646c967f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-675-2003",
+   "path": "ordin/agricultura/2003/675",
+   "short": "Ordin agricultura nr. 675/2003",
+   "title": "Ordinul nr. 675/2003 pentru aprobarea Normei sanitare veterinare care desemnează centrul național \"ANIMO\" pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46463",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46463",
+     "sha256": "a7dc25bc896ed144060526c52722d7c0e9e98fbc44d4f7472ed28be9972ad38e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-678-2003",
+   "path": "ordin/agricultura/2003/678",
+   "short": "Ordin agricultura nr. 678/2003",
+   "title": "Ordinul nr. 678/2003 privind restricționarea vânătorii la speciile de păsări de balta și de pasaj pe fondurile de vânătoare constituite pe teritoriul Rezervației Biosferei \"Delta Dunării\", sit Ramsar de importanța internaționala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46287",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46287",
+     "sha256": "88b424a05fab2d325144e4564a48ecb6b70f8c57a97b66d868359f8c39016895"
     }
    ]
   },
@@ -438,6 +3033,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-68-2003",
+   "path": "ordin/agricultura/2003/68",
+   "short": "Ordin agricultura nr. 68/2003",
+   "title": "Ordinul nr. 68/2003 privind aprobarea Normei sanitare veterinare care stabilește forma codificata și codurile de notificare pentru bolile animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42268",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42268",
+     "sha256": "4e78a0d3285d63c62cd95de0e83b03f22468794136188ffa929d69b04bd2566b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-681-2003",
+   "path": "ordin/agricultura/2003/681",
+   "short": "Ordin agricultura nr. 681/2003",
+   "title": "Ordinul nr. 681/2003 pentru aprobarea Metodologiei privind atestarea persoanelor fizice și juridice care efectuează studii de teren, elaborează documentații tehnico-economice și executa lucrări de îmbunătățiri funciare în domeniul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46497",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46497",
+     "sha256": "d07e488a24633ac6575813b830b8d8b44995a3d6df6ea125f3eb5c385f7b80b8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-682-2003",
    "path": "ordin/agricultura/2003/682",
    "short": "Ordin agricultura nr. 682/2003",
@@ -449,6 +3074,111 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46975",
      "sha256": "7f9fef00635944aab6fdd16f469eab473bb6d9837bfb2d71cab0737ecac455d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-683-2003",
+   "path": "ordin/agricultura/2003/683",
+   "short": "Ordin agricultura nr. 683/2003",
+   "title": "Ordinul nr. 683/2003 privind aprobarea Normei sanitare veterinare care stabilește reguli detaliate pentru implementarea Normei sanitare veterinare privind sistemul de identificare și înregistrare a bovinelor corelat cu etichetarea cărnii de bovine și a produselor din carne de bovina, cu referire la nivelul minim de controale ce trebuie efectuate în acest domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46571",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46571",
+     "sha256": "17ef8731fca4c51be52a94fa9c9b6cf5c939e549054de18de5052851c95640d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-688-2003",
+   "path": "ordin/agricultura/2003/688",
+   "short": "Ordin agricultura nr. 688/2003",
+   "title": "Ordinul nr. 688/2003 pentru autorizarea Organizației Interprofesionale \"Cereale și Produse Derivate din România\" - C.P.D.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46465",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46465",
+     "sha256": "c2d24be25ff441212ffd9f197ffcf7d35af279bd43afa466c31a590302079cc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-69-2003",
+   "path": "ordin/agricultura/2003/69",
+   "short": "Ordin agricultura nr. 69/2003",
+   "title": "Ordinul nr. 69/2003 pentru aprobarea Normei sanitare veterinare care stabilește lista provizorie a țărilor terțe din care România autorizează importul de material seminal, ovule și embrioni de la speciile ovine, caprine și ecvine, precum și importul de ovule și embrioni de la specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42274",
+   "versions": [
+    {
+     "from": "2003-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42274",
+     "sha256": "47e11c1476770ef2b9e23187c89f5dacbdb93efdcab348348c5830e99dd32267"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-7-2003",
+   "path": "ordin/agricultura/2003/7",
+   "short": "Ordin agricultura nr. 7/2003",
+   "title": "Ordinul nr. 7/2003 pentru aprobarea Normei sanitare veterinare privind desemnarea laboratorului național de referința pentru identificarea virusului febrei aftoase și funcțiile acestui laborator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42220",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42220",
+     "sha256": "bf8b141c29ff1ce0b8bf562ef9dfce18f90a06d01255b25d22823c0f31b52524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-70-2003",
+   "path": "ordin/agricultura/2003/70",
+   "short": "Ordin agricultura nr. 70/2003",
+   "title": "Ordinul nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41850",
+   "versions": [
+    {
+     "from": "2003-02-18",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41850",
+     "sha256": "0ccd065d81ee45fbeba2e43a858cdde6957f01c8ca3bfaf10472e130ea7a08c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-71-2003",
+   "path": "ordin/agricultura/2003/71",
+   "short": "Ordin agricultura nr. 71/2003",
+   "title": "Ordinul nr. 71/2003 pentru aprobarea Normei sanitare veterinare ce stabilește principiile care reglementează organizarea controalelor veterinare privind produsele care intră în România din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42275",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42275",
+     "sha256": "8ce3db4646d9236c050a4b62b60575a79db181d36eb1e72ded428adb568e8a9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-710-2003",
+   "path": "ordin/agricultura/2003/710",
+   "short": "Ordin agricultura nr. 710/2003",
+   "title": "Ordinul nr. 710/2003 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 486/2001 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul sănătății animalelor, ale căror cheltuieli sunt suportate de către proprietarii animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46573",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46573",
+     "sha256": "073cb386f6b2a2f8ab0053c624ab79e5ac838762bd18b09b2c0a8719f57bfd0e"
     }
    ]
   },
@@ -468,6 +3198,681 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-717-2003",
+   "path": "ordin/agricultura/2003/717",
+   "short": "Ordin agricultura nr. 717/2003",
+   "title": "Ordinul nr. 717/2003 pentru aprobarea Normei sanitare veterinare privind principiile ce reglementează organizarea inspecțiilor oficiale în domeniul nutriției animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46746",
+   "versions": [
+    {
+     "from": "2003-11-07",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46746",
+     "sha256": "9245a559ee5443138e929d693fdcfa9e10a3eb907624d44c8a81562f4887db04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-718-2003",
+   "path": "ordin/agricultura/2003/718",
+   "short": "Ordin agricultura nr. 718/2003",
+   "title": "Ordinul nr. 718/2003 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 196/2002 privind stabilirea calității tip a sfeclei de zahăr rezultate din producția anului 2003, recepționată de societățile comerciale pentru industrializarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46615",
+   "versions": [
+    {
+     "from": "2003-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46615",
+     "sha256": "a6a19963f3c69e7503ff71f1644dc5806578bb8384cee1af75a365890623b50d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-72-2003",
+   "path": "ordin/agricultura/2003/72",
+   "short": "Ordin agricultura nr. 72/2003",
+   "title": "Ordinul nr. 72/2003 pentru aprobarea Normei sanitare veterinare privind criteriile pentru autorizarea și supravegherea asociațiilor de crescători și organizațiilor de înmulțire care stabilesc sau țin registre genealogice pentru porcine de reproducție de rasa pura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42276",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42276",
+     "sha256": "0636b9908821631718d7b6b54ebf5623d5c23d1e0d73922df87d2fb034435da6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-720-2003",
+   "path": "ordin/agricultura/2003/720",
+   "short": "Ordin agricultura nr. 720/2003",
+   "title": "Ordinul nr. 720/2003 pentru aprobarea modelului siglei și fanionului Inspecției Piscicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46936",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46936",
+     "sha256": "eb54a9a77102296a765ac6dc7d20697801fa18ae5a34cb0af4f4c2433231dc1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-721-2003",
+   "path": "ordin/agricultura/2003/721",
+   "short": "Ordin agricultura nr. 721/2003",
+   "title": "Ordinul nr. 721/2003 pentru aprobarea Regulilor privind importul și exportul produselor agroalimentare ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46718",
+   "versions": [
+    {
+     "from": "2003-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46718",
+     "sha256": "d6fc42ee0300c5bfc25c8af5b87179b7e7aa2e17d16a452f83733a9ffae6c87c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-723-2003",
+   "path": "ordin/agricultura/2003/723",
+   "short": "Ordin agricultura nr. 723/2003",
+   "title": "Ordinul nr. 723/2003 pentru aprobarea Normei sanitare veterinare ce stabilește reguli de sănătate cu privire la subprodusele de la animale, ce nu sunt destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48016",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48016",
+     "sha256": "098ff7ef0603b7247ec5e572cb513ddcd384fbca5ab25d9cb3df55d321254e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-724-2003",
+   "path": "ordin/agricultura/2003/724",
+   "short": "Ordin agricultura nr. 724/2003",
+   "title": "Ordinul nr. 724/2003 privind aprobarea Planului național pentru situații de necesitate privind encefalopatiile spongiforme transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48076",
+   "versions": [
+    {
+     "from": "2003-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48076",
+     "sha256": "a420e9424d207947127e61ca29ca0bd83dbed288d947bec6efb67cdbd55a4004"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-725-2003",
+   "path": "ordin/agricultura/2003/725",
+   "short": "Ordin agricultura nr. 725/2003",
+   "title": "Ordinul nr. 725/2003 pentru aprobarea Normei sanitare veterinare privind produsele medicinale veterinare imunologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46953",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46953",
+     "sha256": "963a6532ab9a9cf91158a709548fe8f8b45ead77a4af37170a0b599b49ceaf7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-728-2003",
+   "path": "ordin/agricultura/2003/728",
+   "short": "Ordin agricultura nr. 728/2003",
+   "title": "Ordinul nr. 728/2003 pentru aprobarea Normei sanitare veterinare privind coloranții care pot fi adăugați pentru colorarea produselor medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46971",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46971",
+     "sha256": "6c2246eba96366bd779cbd237c902ea650ce2c2ca7b63c49dd733ead82fbf875"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-729-2003",
+   "path": "ordin/agricultura/2003/729",
+   "short": "Ordin agricultura nr. 729/2003",
+   "title": "Ordinul nr. 729/2003 pentru aprobarea Normei sanitare veterinare privind crearea unui certificat de protecție suplimentar pentru produsele medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46973",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46973",
+     "sha256": "a4cb84e8486b9ec627ef2c85ee2cc631caa00159330e2d3006338b1add45bcdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-73-2003",
+   "path": "ordin/agricultura/2003/73",
+   "short": "Ordin agricultura nr. 73/2003",
+   "title": "Ordinul nr. 73/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea listei produselor pe bază de lapte în temeiul căreia România este autorizata sa acorde derogări individuale sau generale în aplicarea art. 8 alin. (2) din Norma sanitară veterinara privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte, precum și natura derogărilor aplicabile fabricării unor astfel de produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42277",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42277",
+     "sha256": "2b2467f55d671c5e859e87d2434af2e7d6b1a18e5d5f2e06b133dde64a69886d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-730-2003",
+   "path": "ordin/agricultura/2003/730",
+   "short": "Ordin agricultura nr. 730/2003",
+   "title": "Ordinul nr. 730/2003 pentru aprobarea Normei sanitare veterinare privind echipamentele electromedicale utilizate în medicina veterinara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47191",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47191",
+     "sha256": "ae31650d4ef96435f896642d6e23633ee1e42beeda9a6353b392aad41eaef5f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-731-2003",
+   "path": "ordin/agricultura/2003/731",
+   "short": "Ordin agricultura nr. 731/2003",
+   "title": "Ordinul nr. 731/2003 pentru aprobarea Normei sanitare veterinare privind activitatea Agenției Naționale Sanitare Veterinare în domeniul inspecției farmaceutice veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47221",
+   "versions": [
+    {
+     "from": "2003-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47221",
+     "sha256": "4ad329fad3ca075944e73d926055cb21e6cb7f473ab87d06cf99f859dc404aff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-739-2003",
+   "path": "ordin/agricultura/2003/739",
+   "short": "Ordin agricultura nr. 739/2003",
+   "title": "Ordinul nr. 739/2003 pentru aprobarea Normei sanitare veterinare ce stabilește categoriile de materii prime furajere ce pot fi utilizate în scopul etichetării furajelor combinate pentru animalele de companie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47017",
+   "versions": [
+    {
+     "from": "2003-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47017",
+     "sha256": "2655f082a5cf462eefb2be84d4ed2275dc9d334e230705dd486a7218245709ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-74-2003",
+   "path": "ordin/agricultura/2003/74",
+   "short": "Ordin agricultura nr. 74/2003",
+   "title": "Ordinul nr. 74/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea modelelor de certificate de sănătate pentru importul în România din tari terțe de lapte tratat termic, produse pe bază de lapte, precum și de lapte crud pentru consum uman, destinat acceptării într-un centru de colectare, centru de standardizare, unitate de tratare sau unitate de procesare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42278",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42278",
+     "sha256": "047ceefa61b82ab4e89569f308dd249ac5e3ce2639a0435aa2e713bd227a2ca0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-740-2003",
+   "path": "ordin/agricultura/2003/740",
+   "short": "Ordin agricultura nr. 740/2003",
+   "title": "Ordinul nr. 740/2003 pentru aprobarea Normei sanitare veterinare ce autorizează, în unele cazuri, comercializarea furajelor combinate în ambalaje sau containere nesigilate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47011",
+   "versions": [
+    {
+     "from": "2003-11-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47011",
+     "sha256": "01908ee047205ed70dd041dce9da28e61a3a644ccc4be20b854f1be2ca67cda3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-741-2003",
+   "path": "ordin/agricultura/2003/741",
+   "short": "Ordin agricultura nr. 741/2003",
+   "title": "Ordinul nr. 741/2003 pentru modificarea și completarea Normei sanitare veterinare privind stabilirea regulilor de prevenire, control și eradicare a unor encefalopatii spongiforme transmisibile, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 144/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47855",
+   "versions": [
+    {
+     "from": "2003-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47855",
+     "sha256": "bbb562ee4b391015ceefcd30264128ea36c3ac3407922fc5ba3cdbc84ed1ca04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-742-2003",
+   "path": "ordin/agricultura/2003/742",
+   "short": "Ordin agricultura nr. 742/2003",
+   "title": "Ordinul nr. 742/2003 pentru modificarea și completarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 640/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47208",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47208",
+     "sha256": "9ea3441e43ce50e16c524561aa343e18b16b8dcf008ce4f821adac8e8a3ac817"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-75-2003",
+   "path": "ordin/agricultura/2003/75",
+   "short": "Ordin agricultura nr. 75/2003",
+   "title": "Ordinul nr. 75/2003 pentru aprobarea Normei sanitare veterinare privind condițiile în care se stabilesc listele provizorii cu unitățile din țările terțe din care se avizează importul anumitor produse de origine animala, produse din pescuit sau moluște bivalve vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42279",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42279",
+     "sha256": "6bfee13b9394a342a1eae22a94899b52cfd89b08efee79387d90f74c8a9750d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-76-2003",
+   "path": "ordin/agricultura/2003/76",
+   "short": "Ordin agricultura nr. 76/2003",
+   "title": "Ordinul nr. 76/2003 pentru aprobarea Normei sanitare veterinare privind metodele de referința pentru detectarea reziduurilor de metale grele și arsen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42280",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42280",
+     "sha256": "ef8fb4a3988dec698e439a8ec9aaac5c98e0ec0a5207e58ee1d5dc5112b1b27e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-77-2003",
+   "path": "ordin/agricultura/2003/77",
+   "short": "Ordin agricultura nr. 77/2003",
+   "title": "Ordinul nr. 77/2003 pentru aprobarea Normei sanitare veterinare privind măsurile de protecție împotriva unor zoonoze specifice și a agenților zoonotici specifici la animale și produse de origine animala, în scopul prevenirii focarelor de toxiinfecții alimentare și intoxicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42281",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42281",
+     "sha256": "1f496fce5433b68c2ad76b51c560249d7f2be2a1aa23ad9ba79e9435e53d39ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-779-2003",
+   "path": "ordin/agricultura/2003/779",
+   "short": "Ordin agricultura nr. 779/2003",
+   "title": "Ordinul nr. 779/2003 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție de frontieră în baza Normei sanitare veterinare care stabilește principiile ce reglementează organizarea controalelor veterinare privind produsele ce intră în România din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47587",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47587",
+     "sha256": "d104eeb9114e93e39870be44667f1d131270b008d4b9d327cef4b27810911f86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-78-2003",
+   "path": "ordin/agricultura/2003/78",
+   "short": "Ordin agricultura nr. 78/2003",
+   "title": "Ordinul nr. 78/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea excepțiilor de la Norma sanitară veterinara privind condițiile de sănătate care reglementează producerea și comercializarea produselor din carne și a altor produse de origine animala pentru unele produse ce conțin alte alimente și numai un procent mic de carne sau produse din carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42284",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42284",
+     "sha256": "6b4a010bf7d60e49ea734732511c0c9fdd79ecc6fcdc321f598ae054513fdaaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-780-2003",
+   "path": "ordin/agricultura/2003/780",
+   "short": "Ordin agricultura nr. 780/2003",
+   "title": "Ordinul nr. 780/2003 pentru aprobarea Normei sanitare veterinare ce interzice utilizarea în furaje a produselor proteice obținute din levuri Candida cultivate pe n-alcani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47006",
+   "versions": [
+    {
+     "from": "2003-11-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47006",
+     "sha256": "7258c49dd115043639ab09b833ad61f2c1a402e2bef00c45354d243fb5800d8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-781-2003",
+   "path": "ordin/agricultura/2003/781",
+   "short": "Ordin agricultura nr. 781/2003",
+   "title": "Ordinul nr. 781/2003 pentru aprobarea Normei sanitare veterinare privind instituirea în România a rețelei veterinare computerizate ANIMO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47225",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47225",
+     "sha256": "aaa245c78d00e83cbf73fda9097046e6b788d8c3c293b811c137f2808b7de7ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-79-2003",
+   "path": "ordin/agricultura/2003/79",
+   "short": "Ordin agricultura nr. 79/2003",
+   "title": "Ordinul nr. 79/2003 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate pentru autorizarea unităților din piețele cu vânzare en gros",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42285",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42285",
+     "sha256": "e4346a9ed49c232d081e2b6354e5a800d76572d6255b3b6f6596aac4e4e6cc14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-796-2003",
+   "path": "ordin/agricultura/2003/796",
+   "short": "Ordin agricultura nr. 796/2003",
+   "title": "Ordinul nr. 796/2003 pentru aprobarea Normei sanitare veterinare care stabilește forma de cooperare între centrul \"ANIMO\"-gazdă și România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46994",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46994",
+     "sha256": "7d8a6619889f16a1d50138b18453b4fb515a69e432a77dc588b81f663e159b40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-797-2003",
+   "path": "ordin/agricultura/2003/797",
+   "short": "Ordin agricultura nr. 797/2003",
+   "title": "Ordinul nr. 797/2003 privind aprobarea repartizării pe județe a volumului maxim de masa lemnoasă pe picior care poate fi recoltata în anul 2004 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situata pe terenuri din afară fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47177",
+   "versions": [
+    {
+     "from": "2003-10-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47177",
+     "sha256": "1ff3c87393cc08f0a3459af11f72baef6a66786521266d8f03c45cb58409ffc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-2003",
+   "path": "ordin/agricultura/2003/8",
+   "short": "Ordin agricultura nr. 8/2003",
+   "title": "Ordinul nr. 8/2003 pentru aprobarea Normei sanitare veterinare privind lista posturilor de inspecție veterinara de frontieră aprobate pentru controale veterinare ale produselor de origine animala și animalelor provenite din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42221",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42221",
+     "sha256": "867c74d6f0c5b2ff7029b9c5e76b62c78d0f9752b33d5f580d9f2078e90704d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-80-2003",
+   "path": "ordin/agricultura/2003/80",
+   "short": "Ordin agricultura nr. 80/2003",
+   "title": "Ordinul nr. 80/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea metodelor de analiza și testare a laptelui tratat termic pentru consum uman direct",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42286",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42286",
+     "sha256": "92c386130c40c53f54c4a98e1261d92d9de56ad9f8c4f3e656e7609cf73f8f47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-802-2003",
+   "path": "ordin/agricultura/2003/802",
+   "short": "Ordin agricultura nr. 802/2003",
+   "title": "Ordinul nr. 802/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47143",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47143",
+     "sha256": "ea722516723fb6749aef7bb6409f48f52532e75f443901bd7fb45c11765fa603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-805-2003",
+   "path": "ordin/agricultura/2003/805",
+   "short": "Ordin agricultura nr. 805/2003",
+   "title": "Ordinul nr. 805/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea unui sistem de tarife în sectorul nutriției animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48321",
+   "versions": [
+    {
+     "from": "2004-01-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48321",
+     "sha256": "54abc912cc4f3d4f2342894aa2e666da806b777e416a11588fa2426e61666882"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-806-2003",
+   "path": "ordin/agricultura/2003/806",
+   "short": "Ordin agricultura nr. 806/2003",
+   "title": "Ordinul nr. 806/2003 pentru aprobarea Normei sanitare veterinare referitoare la unele măsuri de protecție cu privire la unele produse de origine animala destinate nutriției animale, importate din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47474",
+   "versions": [
+    {
+     "from": "2003-12-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47474",
+     "sha256": "1c10e397995b45a19495caafc8f23cff43bd7960d30e966751180c04f90da7a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-807-2003",
+   "path": "ordin/agricultura/2003/807",
+   "short": "Ordin agricultura nr. 807/2003",
+   "title": "Ordinul nr. 807/2003 pentru aprobarea Normei sanitare veterinare ce stabilește documentul-standard și unele reguli pentru controale ale furajelor la importul din țări terțe în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48507",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48507",
+     "sha256": "64a9f6228a4cc1116ae4ec0533dc334c5cfa32d2f6fa8e9f4788858f36224000"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-812-2003",
+   "path": "ordin/agricultura/2003/812",
+   "short": "Ordin agricultura nr. 812/2003",
+   "title": "Ordinul nr. 812/2003 privind aprobarea repartizării pe județe a volumului maxim de masa lemnoasă pe picior care poate fi recoltata în anul 2003 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situata pe terenuri din afară fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47178",
+   "versions": [
+    {
+     "from": "2003-10-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47178",
+     "sha256": "87c4f0f5cb4e588cc5cc7637353582d5638db04702d030fd40fae40363f64a47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-814-2003",
+   "path": "ordin/agricultura/2003/814",
+   "short": "Ordin agricultura nr. 814/2003",
+   "title": "Ordinul nr. 814/2003 privind aprobarea Listei societăților de asigurare și asigurare-reasigurare care practica asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor, Apelor și Mediului, pentru anul agricol 2003/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47058",
+   "versions": [
+    {
+     "from": "2003-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47058",
+     "sha256": "8c678990415e2726d8dc9c00ddaacb4e4bc256d7764c3c09d2237cefbccc06bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-818-2003",
+   "path": "ordin/agricultura/2003/818",
+   "short": "Ordin agricultura nr. 818/2003",
+   "title": "Ordinul nr. 818/2003 pentru aprobarea Procedurii de emitere a autorizației integrate de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47681",
+   "versions": [
+    {
+     "from": "2003-11-13",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47681",
+     "sha256": "591a740466baa5384775741d4ba4c28d1a428380da9a36aa078c14b9e969cd67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-820-2003",
+   "path": "ordin/agricultura/2003/820",
+   "short": "Ordin agricultura nr. 820/2003",
+   "title": "Ordinul nr. 820/2003 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate în elaborarea de studii, proiecte, în execuție, consultanța în domeniul gospodăririi apelor și documentații tehnice pentru obținerea avizelor și a autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47324",
+   "versions": [
+    {
+     "from": "2003-10-30",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47324",
+     "sha256": "83318cb8ceb92fd81f6644ee69bc39c87bb01fc04689856f019f486826cd4c16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-821-2003",
+   "path": "ordin/agricultura/2003/821",
+   "short": "Ordin agricultura nr. 821/2003",
+   "title": "Ordinul nr. 821/2003 privind recunoașterea prevederilor Acordului interprofesional pentru sfecla de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47300",
+   "versions": [
+    {
+     "from": "2003-10-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47300",
+     "sha256": "b118e8ed3f12d433045807ea5bec6542b92806573007f78f774ff6741d13ea5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-828-2003",
+   "path": "ordin/agricultura/2003/828",
+   "short": "Ordin agricultura nr. 828/2003",
+   "title": "Ordinul nr. 828/2003 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 686/2003 privind aprobarea Planului pentru eradicarea accelerata a anemiei infecțioase ecvine pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47393",
+   "versions": [
+    {
+     "from": "2003-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47393",
+     "sha256": "9e1d4ec63f78fd3cca69b1a38257f6d74e4d2691876fcf67629973e45146f273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2003",
+   "path": "ordin/agricultura/2003/83",
+   "short": "Ordin agricultura nr. 83/2003",
+   "title": "Ordinul nr. 83/2003 pentru aprobarea Normei sanitare veterinare privind stabilirea principiilor care reglementează organizarea controalelor veterinare pentru animalele care intră în România din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42293",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42293",
+     "sha256": "e81ecc332f1c2fb355d50a10a3015713e01b7ac067d3902753a0f8e24e4d10c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-84-2003",
+   "path": "ordin/agricultura/2003/84",
+   "short": "Ordin agricultura nr. 84/2003",
+   "title": "Ordinul nr. 84/2003 pentru aprobarea Regulamentului privind testarea și înregistrarea soiurilor de plante de cultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42094",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42094",
+     "sha256": "6516dc207ef4a3a33051067569dc8a1d65071334a9f30b5b52d25a53af28c4e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-847-2003",
+   "path": "ordin/agricultura/2003/847",
+   "short": "Ordin agricultura nr. 847/2003",
+   "title": "Ordinul nr. 847/2003 pentru aprobarea numărului de personal necesar desfășurării activității de control sanitar veterinar de frontieră și a programului de lucru al posturilor de inspecție la frontiera în care sunt organizate controale sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47297",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47297",
+     "sha256": "ba9843e8ae62ab5e21877196cd895f0a738253e7baadf53162262df64118652f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-849-2003",
+   "path": "ordin/agricultura/2003/849",
+   "short": "Ordin agricultura nr. 849/2003",
+   "title": "Ordinul nr. 849/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Munca\" - S.A. Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47650",
+   "versions": [
+    {
+     "from": "2003-11-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47650",
+     "sha256": "66af279fbae0da2923bb19038052874aed3c575f7e4c78b713671e403ceeacf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2003",
+   "path": "ordin/agricultura/2003/85",
+   "short": "Ordin agricultura nr. 85/2003",
+   "title": "Ordinul nr. 85/2003 pentru aprobarea Instrucțiunilor privind verificarea și certificarea condițiilor tehnice și financiare ale depozitelor pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42018",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42018",
+     "sha256": "7ee7df832ef3ba5e05046a31d479b260f1de63f5dd9e8458d2830e106a8d9044"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-861-2003",
    "path": "ordin/agricultura/2003/861",
    "short": "Ordin agricultura nr. 861/2003",
@@ -483,6 +3888,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-863-2003",
+   "path": "ordin/agricultura/2003/863",
+   "short": "Ordin agricultura nr. 863/2003",
+   "title": "Ordinul nr. 863/2003 pentru completarea anexei la Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 814/2003 privind aprobarea Listei societăților de asigurare și asigurare-reasigurare care practica asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor, Apelor și Mediului, pentru anul agricol 2003/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47646",
+   "versions": [
+    {
+     "from": "2003-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47646",
+     "sha256": "4afdcaa79ececdebb352167f4b2704eb6931fbb7403bf98b8fe9991b4f1a42e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-866-2003",
+   "path": "ordin/agricultura/2003/866",
+   "short": "Ordin agricultura nr. 866/2003",
+   "title": "Ordinul nr. 866/2003 pentru aprobarea Normei sanitare veterinare privind Programul de măsuri pentru prevenirea poluării laptelui materie prima cu reziduuri de pesticide sau substanțe utilizate în agricultura și în tratamentele medicale la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47758",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47758",
+     "sha256": "1536a418852a0d0a29e55e2fab43e5a13873415d91c42d331496388c74b921b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-868-2003",
+   "path": "ordin/agricultura/2003/868",
+   "short": "Ordin agricultura nr. 868/2003",
+   "title": "Ordinul nr. 868/2003 pentru modificarea Normei sanitare veterinare privind marcarea și certificarea cărnii proaspete destinate consumului uman, aprobată prin Ordinul ministrului agriculturii și alimentației nr. 117/1998, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48356",
+   "versions": [
+    {
+     "from": "2004-01-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48356",
+     "sha256": "b99a0d5dd166651c663a321c14d4c2ce3afa1864afc083260d78a98465479668"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-869-2003",
+   "path": "ordin/agricultura/2003/869",
+   "short": "Ordin agricultura nr. 869/2003",
+   "title": "Ordinul nr. 869/2003 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 506/2003 pentru aprobarea Normei sanitare veterinare privind aprobarea listei posturilor de inspecție de frontieră în care sunt organizate controale sanitare veterinare, a condițiilor de agreere a posturilor de inspecție de frontieră responsabile pentru controalele veterinare ale animalelor vii și produselor provenind din țări terțe, precum și stabilirea atribuțiilor personalului posturilor de inspecție de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47814",
+   "versions": [
+    {
+     "from": "2003-11-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47814",
+     "sha256": "415f72199d2e567adb3d7c3acce68f9edbcdb134aa3dd718638c8f74849119f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-88-2003",
+   "path": "ordin/agricultura/2003/88",
+   "short": "Ordin agricultura nr. 88/2003",
+   "title": "Ordinul nr. 88/2003 pentru autorizarea Organizației Naționale Interprofesionale \"Vitivinicolă\" - O.N.I.V. din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41865",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41865",
+     "sha256": "881267902c37ad9917dd1cbc65829308e99120006f523f56f4344e6897f33872"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-89-2003",
+   "path": "ordin/agricultura/2003/89",
+   "short": "Ordin agricultura nr. 89/2003",
+   "title": "Ordinul nr. 89/2003 privind stabilirea condițiilor în care anumite organisme dăunătoare, plante, produse vegetale sau articole reglementate, prevăzute în anexele nr. 1-5 la Normele metodologice de aplicare a Ordonanței Guvernului nr. 136/2000 privind măsurile de protecție împotriva introducerii și răspândirii organismelor de carantina dăunătoare plantelor sau produselor vegetale în România, aprobate prin Hotărârea Guvernului nr. 1.030/2001, pot fi introduse sau puse în circulație pe teritoriul României ori în zonele protejate din România, pentru experiențe, scopuri științifice sau experimentale și lucrări pe selecții varietale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46260",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46260",
+     "sha256": "b5f8f3b8091d9bd10b82e58b9427645c40605d52c4f65a8ff6dcc4a75a0fd8f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-9-2003",
+   "path": "ordin/agricultura/2003/9",
+   "short": "Ordin agricultura nr. 9/2003",
+   "title": "Ordinul nr. 9/2003 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 499/2002 pentru aprobarea Normelor tehnice privind aprecierea porcinelor de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41987",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41987",
+     "sha256": "fa6d66ccd3e2629cb240e5d85c1a7854d87cf7fb8462a00ed03798274157a724"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-90-2003",
    "path": "ordin/agricultura/2003/90",
    "short": "Ordin agricultura nr. 90/2003",
@@ -494,6 +4004,216 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42063",
      "sha256": "d9101bde66bce99b8c43cb83a960515995dfeea9be54b9640dba0d6ad73f8a62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-920-2003",
+   "path": "ordin/agricultura/2003/920",
+   "short": "Ordin agricultura nr. 920/2003",
+   "title": "Ordinul nr. 920/2003 privind modificarea și completarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul expertizei produselor de origine animala și de supraveghere a unităților, ale căror cheltuieli se suporta de către agenții economici, persoane fizice și juridice, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 487/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47760",
+   "versions": [
+    {
+     "from": "2003-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47760",
+     "sha256": "e642f1246d9d7b245ebe23e49d8b380eed59b9f77324f6df218441315f1f0f35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-924-2003",
+   "path": "ordin/agricultura/2003/924",
+   "short": "Ordin agricultura nr. 924/2003",
+   "title": "Ordinul nr. 924/2003 pentru completarea Normei sanitare veterinare privind protecția animalelor în timpul sacrificării sau uciderii, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 425/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48133",
+   "versions": [
+    {
+     "from": "2003-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48133",
+     "sha256": "925aecb5022b896ac08e414c903c042fe37749c92b16a9501a12ef7b9093934d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-93-2003",
+   "path": "ordin/agricultura/2003/93",
+   "short": "Ordin agricultura nr. 93/2003",
+   "title": "Ordinul nr. 93/2003 pentru stabilirea Criteriilor de acordare a licenței de funcționare pentru gestionării fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42245",
+   "versions": [
+    {
+     "from": "2003-03-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42245",
+     "sha256": "bcda46db566f3df805d0d6d4b06e6aa9778f4466d514acb5ef9d02de295f9e59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-936-2003",
+   "path": "ordin/agricultura/2003/936",
+   "short": "Ordin agricultura nr. 936/2003",
+   "title": "Ordinul nr. 936/2003 privind restricționarea vânătorii la un număr de 20 de specii de păsări de baltă și de pasaj pe fondurile de vânătoare constituite pe teritoriul Rezervației Biosferei \"Delta Dunării\", sit Ramsar de importanță internațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48015",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48015",
+     "sha256": "8496001c30e9db5e92d4393b1492102ce89b7ee44f7239d1418d174834d37e81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-938-2003",
+   "path": "ordin/agricultura/2003/938",
+   "short": "Ordin agricultura nr. 938/2003",
+   "title": "Ordinul nr. 938/2003 privind organizarea și funcționarea sistemului de monitorizare a prețurilor produselor pescărești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48153",
+   "versions": [
+    {
+     "from": "2003-12-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48153",
+     "sha256": "cb61fce40ba9958d4b11b54a079a5e4169fbb538b2319807ccd78374c623a760"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-94-2003",
+   "path": "ordin/agricultura/2003/94",
+   "short": "Ordin agricultura nr. 94/2003",
+   "title": "Ordinul nr. 94/2003 privind stabilirea raselor de câini admise la vânătoare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42243",
+   "versions": [
+    {
+     "from": "2003-03-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42243",
+     "sha256": "daa355b1dce4c7bfeb1444d87064ecda6233bf8b754468d5296584e5000c8785"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-946-2003",
+   "path": "ordin/agricultura/2003/946",
+   "short": "Ordin agricultura nr. 946/2003",
+   "title": "Ordinul nr. 946/2003 privind ambalarea și valorificarea vinurilor de calitate cu indicație geografică în sistem Bag în Box (B.I.B.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48075",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48075",
+     "sha256": "e799b5437ecf6f1c877f2aeffbe78cd8137d3a3eb011531dec2315783d6e373f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-95-2003",
+   "path": "ordin/agricultura/2003/95",
+   "short": "Ordin agricultura nr. 95/2003",
+   "title": "Ordinul nr. 95/2003 pentru aprobarea Regulamentului privind stabilirea criteriilor de atribuire a dreptului de gestionare a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42112",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42112",
+     "sha256": "442ad74316008c9a635b7a19b764b02b8a7d6c3b1992b053d5398073678f55a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-967-2003",
+   "path": "ordin/agricultura/2003/967",
+   "short": "Ordin agricultura nr. 967/2003",
+   "title": "Ordinul nr. 967/2003 privind aprobarea Normei sanitare veterinare ce stabilește metode naționale de analiză pentru determinarea vitaminei A, a vitaminei E și a triptofanului din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48962",
+   "versions": [
+    {
+     "from": "2004-01-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48962",
+     "sha256": "154c3873940a12e209d1b7c7f96714933d59b3d67a8e1673a41f4142e8d67b65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-968-2003",
+   "path": "ordin/agricultura/2003/968",
+   "short": "Ordin agricultura nr. 968/2003",
+   "title": "Ordinul nr. 968/2003 privind aprobarea Normei sanitare veterinare ce stabilește metode de analiză pentru controlul oficial al furajelor privind amidonul, proteina brută, proteina brută descompusă de pepsină și acid clorhidric, estimarea activității pepsinei, a gossipolului liber și cu referire la identificarea antibioticelor din grupul tetraciclinelor, al clortetraciclinelor, oxitetraciclinelor și tetraciclinelor, a oleandomicinei și a virginiamicinei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49307",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49307",
+     "sha256": "1c6c8083c655f1fb20709a2ef405eb0ea957e9caacb92571b951aeccd8d1d59c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-976-2003",
+   "path": "ordin/agricultura/2003/976",
+   "short": "Ordin agricultura nr. 976/2003",
+   "title": "Ordinul nr. 976/2003 pentru modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 503/2003 privind autorizarea unităților prim-procesatoare de tutun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48200",
+   "versions": [
+    {
+     "from": "2003-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48200",
+     "sha256": "d2f8b7747e4f8a77ecedf3b489a897cc5041f3d7c00cf82782950a0811f3ace6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-977-2003",
+   "path": "ordin/agricultura/2003/977",
+   "short": "Ordin agricultura nr. 977/2003",
+   "title": "Ordinul nr. 977/2003 privind modificarea și completarea prevederilor Ordinului ministrului agriculturii, alimentației și pădurilor nr. 550/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul, certificarea calității și comercializarea materialului de înmulțire viticol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48350",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48350",
+     "sha256": "982806a8148c9027415f88f2fcf763d9613510886b7929015ef098a6f19278ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-978-2003",
+   "path": "ordin/agricultura/2003/978",
+   "short": "Ordin agricultura nr. 978/2003",
+   "title": "Ordinul nr. 978/2003 privind Regulamentul de atestare a persoanelor fizice și juridice care elaborează studii de evaluare a impactului asupra mediului și bilanțuri de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48960",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48960",
+     "sha256": "93660bd249de2e5817ba8107b614dbdde98a596b214965e06251f19a2794b0c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-98-2003",
+   "path": "ordin/agricultura/2003/98",
+   "short": "Ordin agricultura nr. 98/2003",
+   "title": "Ordinul nr. 98/2003 pentru aprobarea modului de calcul și a modului de plată a redevenței obținute din concesionarea terenurilor forestiere proprietate publică a statului, aferente activelor vândute de Regia Naționala a Pădurilor, precum și a modelului de contract de concesiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41931",
+   "versions": [
+    {
+     "from": "2003-02-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41931",
+     "sha256": "b70a3e550d192a4625af479a3a92bf96c8629a9440cc39821f459e22af0407d8"
     }
    ]
   },
@@ -1004,6 +4724,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41776",
      "sha256": "ca8bfcba32b804cc582e668ef12330691c0b52d0d5089e11b92224592c932a07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-80-2003",
+   "path": "ordin/aparare/2003/80",
+   "short": "Ordin aparare nr. 80/2003",
+   "title": "Ordinul nr. 80/2003 privind punerea în aplicare în Ministerul Apărării Naționale a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44795",
+   "versions": [
+    {
+     "from": "2003-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44795",
+     "sha256": "f8f50660f495fae2c5b81524e4120c8ea46a3ef372c2d07739c7ef138bfd0586"
     }
    ]
   },

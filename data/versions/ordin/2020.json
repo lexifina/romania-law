@@ -3,6 +3,21 @@
  "shard": "ordin/2020",
  "acts": [
   {
+   "slug": "ordin-agricultura-1-2020",
+   "path": "ordin/agricultura/2020/1",
+   "short": "Ordin agricultura nr. 1/2020",
+   "title": "Ordinul nr. 1/2020 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222501",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222501",
+     "sha256": "a6bdb07c889e1c0b9833d2453a23dfad60104e402cd8330a1b81d5f32257acb1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-112-2020",
    "path": "ordin/agricultura/2020/112",
    "short": "Ordin agricultura nr. 112/2020",
@@ -14,6 +29,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226972",
      "sha256": "e886d2d0697a397ea1ae35b7aacea21e33bb05b3bb570260ba5cc46c84ed7b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-115-2020",
+   "path": "ordin/agricultura/2020/115",
+   "short": "Ordin agricultura nr. 115/2020",
+   "title": "Ordinul nr. 115/2020 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 194/2019 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2019 pentru măsurile 10 \"Agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226168",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226168",
+     "sha256": "2a55bb24cdf0d0504d26f4f01ff05af6b39ada738da1fc98e5314ed27a22192c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-117-2020",
+   "path": "ordin/agricultura/2020/117",
+   "short": "Ordin agricultura nr. 117/2020",
+   "title": "Ordinul nr. 117/2020 privind completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225344",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225344",
+     "sha256": "eabf4609df8d0a17bc56a197acd9e5549faabb6da5b5c21355a7dcfeb40bdeff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-119-2020",
+   "path": "ordin/agricultura/2020/119",
+   "short": "Ordin agricultura nr. 119/2020",
+   "title": "Ordinul nr. 119/2020 pentru modificarea și completarea unor acte normative în domeniul calității semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225570",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225570",
+     "sha256": "ac2ffd030e5ed4b1cc796f6d468ae566193b04cdd0a11b5692cd37e405d5cbff"
     }
    ]
   },
@@ -63,6 +123,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-127-2020",
+   "path": "ordin/agricultura/2020/127",
+   "short": "Ordin agricultura nr. 127/2020",
+   "title": "Ordinul nr. 127/2020 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225520",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225520",
+     "sha256": "a6c6446392635b5de69c7ce0cefed5bc382a77462ee9820bb49146e3622395a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-130-2020",
+   "path": "ordin/agricultura/2020/130",
+   "short": "Ordin agricultura nr. 130/2020",
+   "title": "Ordinul nr. 130/2020 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 52/2020 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225873",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225873",
+     "sha256": "621ce68ae1edb1a8bda311e2b55179c753fd98943922659811ac9b9a61f33337"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-134-2020",
    "path": "ordin/agricultura/2020/134",
    "short": "Ordin agricultura nr. 134/2020",
@@ -104,6 +194,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226505",
      "sha256": "e23301f581863f8a864a6c6603df101ddd3750d71da0713ff25bde1ea160eda4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-155-2020",
+   "path": "ordin/agricultura/2020/155",
+   "short": "Ordin agricultura nr. 155/2020",
+   "title": "Ordinul nr. 155/2020 pentru modificarea și completarea unor acte normative în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226887",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226887",
+     "sha256": "3d56837adf237d263c1c4845af7e27f956891e0e05d2a416531929623cb3a46f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-176-2020",
+   "path": "ordin/agricultura/2020/176",
+   "short": "Ordin agricultura nr. 176/2020",
+   "title": "Ordinul nr. 176/2020 privind completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 406/2017 pentru aprobarea Normelor privind recunoașterea organizațiilor de producători și a altor forme asociative din sectorul fructelor și legumelor și modul de accesare a sprijinului financiar de către acestea, precum și pentru aprobarea unor măsuri excepționale temporare aplicabile în sectorul legume-fructe pentru prevenirea perturbării pieței, provocată de pandemia de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227653",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227653",
+     "sha256": "52c8cf6cd822cbac127bdca2451fc67660a0a11d70f5bcd875ad96753cfdfb84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-179-2020",
+   "path": "ordin/agricultura/2020/179",
+   "short": "Ordin agricultura nr. 179/2020",
+   "title": "Ordinul nr. 179/2020 privind completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227746",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227746",
+     "sha256": "b67cbcca1851b9767d32650a736c4ed723279bf084ba3be67ae7e101cfaa828d"
     }
    ]
   },
@@ -183,6 +318,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-216-2020",
+   "path": "ordin/agricultura/2020/216",
+   "short": "Ordin agricultura nr. 216/2020",
+   "title": "Ordinul nr. 216/2020 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 310/2019 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228704",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228704",
+     "sha256": "847b17dece5e6fa7814d98b392b344488b543131f85d703cfb13e9cb830063e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2020",
+   "path": "ordin/agricultura/2020/218",
+   "short": "Ordin agricultura nr. 218/2020",
+   "title": "Ordinul nr. 218/2020 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 406/2017 pentru aprobarea Normelor privind recunoașterea organizațiilor de producători și a altor forme asociative din sectorul fructelor și legumelor și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229169",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229169",
+     "sha256": "c1fef4fbaf07d0bba9f861a704b79d1226620c56be284a3f56156b8dd28dccc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-219-2020",
+   "path": "ordin/agricultura/2020/219",
+   "short": "Ordin agricultura nr. 219/2020",
+   "title": "Ordinul nr. 219/2020 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 74/2012 privind autorizarea unităților prim-procesatoare de tutun brut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229170",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229170",
+     "sha256": "f6bee1571091ad503f07bcb548b096871889e5ab282ee8634646e2b61d15f0d4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-224-2020",
    "path": "ordin/agricultura/2020/224",
    "short": "Ordin agricultura nr. 224/2020",
@@ -194,6 +374,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229312",
      "sha256": "5b84dd16f0cb786b9512ce8c9129892b06c154f646f6efca78396f235acb00fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2020",
+   "path": "ordin/agricultura/2020/234",
+   "short": "Ordin agricultura nr. 234/2020",
+   "title": "Ordinul nr. 234/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.205/2018 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229775",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229775",
+     "sha256": "148a06fa965fad3286c7f4b047446feff433c31156322f04151f7afab0fb6a73"
     }
    ]
   },
@@ -213,6 +408,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-241-2020",
+   "path": "ordin/agricultura/2020/241",
+   "short": "Ordin agricultura nr. 241/2020",
+   "title": "Ordinul nr. 241/2020 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.253/2013 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229733",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229733",
+     "sha256": "6e4f4bc12f50006f6967c953e0733146461a828ffff925a254af355232747a9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-242-2020",
+   "path": "ordin/agricultura/2020/242",
+   "short": "Ordin agricultura nr. 242/2020",
+   "title": "Ordinul nr. 242/2020 privind completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229706",
+   "versions": [
+    {
+     "from": "2020-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229706",
+     "sha256": "38ab472e4f45fd771f14be288cde4ae48923c015d49ff3f0e26e4229db98424b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-247-2020",
+   "path": "ordin/agricultura/2020/247",
+   "short": "Ordin agricultura nr. 247/2020",
+   "title": "Ordinul nr. 247/2020 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 483/2016 pentru aprobarea Manualului de procedură privind efectuarea controlului pe teren pentru cererile unice de plată aferente măsurii 10, pachetul 8 \"Creșterea animalelor de fermă din rase locale în pericol de abandon\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229604",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229604",
+     "sha256": "b342331020e3d5157aa9c95b6ffe82d322aba2a34871ad523f969d98a77e830e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-25-2020",
    "path": "ordin/agricultura/2020/25",
    "short": "Ordin agricultura nr. 25/2020",
@@ -224,6 +464,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224803",
      "sha256": "f55b83b11701644069d5dd300ae2be44b35002cdc2f4065a3dc641f4c106e36e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2020",
+   "path": "ordin/agricultura/2020/252",
+   "short": "Ordin agricultura nr. 252/2020",
+   "title": "Ordinul nr. 252/2020 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 30/2016 privind aprobarea Manualului de procedură pentru implementarea proiectelor finanțate prin măsura 20 \"Asistență tehnică\" descrisă în capitolul 15.6 din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229755",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229755",
+     "sha256": "17aeb0354dda87207ad651e5545118fc8a69a6dbe40ce47fc33a19c7f434c677"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-258-2020",
+   "path": "ordin/agricultura/2020/258",
+   "short": "Ordin agricultura nr. 258/2020",
+   "title": "Ordinul nr. 258/2020 pentru abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 182/2020 privind aprobarea Normelor de prevenire și stingere a incendiilor specifice activităților sectoarelor din domeniul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229718",
+   "versions": [
+    {
+     "from": "2020-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229718",
+     "sha256": "97c470fd9f146bb767ff9efcdd3611de761db11ff5891f4e9d5bef24344632a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-261-2020",
+   "path": "ordin/agricultura/2020/261",
+   "short": "Ordin agricultura nr. 261/2020",
+   "title": "Ordinul nr. 261/2020 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 568/2019 privind aprobarea tarifelor pentru prestarea serviciilor fitosanitare din domeniul protecției plantelor și carantinei fitosanitare și din domeniul comercializării și utilizării produselor de protecție a plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230444",
+   "versions": [
+    {
+     "from": "2020-10-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230444",
+     "sha256": "450b400234f34a7f9905ee0b11c52fc4490d8c39118f1757eb8a794cee733ade"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-264-2020",
+   "path": "ordin/agricultura/2020/264",
+   "short": "Ordin agricultura nr. 264/2020",
+   "title": "Ordinul nr. 264/2020 pentru modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2020 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230352",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230352",
+     "sha256": "dd583bfe9e335229c1139084de00595ed4ea65e66e1c2931d5c08801e2512f62"
     }
    ]
   },
@@ -258,6 +558,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-293-2020",
+   "path": "ordin/agricultura/2020/293",
+   "short": "Ordin agricultura nr. 293/2020",
+   "title": "Ordinul nr. 293/2020 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 240/2020 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de distilare a vinului în situații de criză, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023, precum și modificarea art. VI din Ordinul ministrului agriculturii și dezvoltării rurale nr. 281/2020 pentru modificarea și completarea unor acte normative în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231047",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231047",
+     "sha256": "b71481f534380d55ba7bfd285ada5b49764225943fa08159f2a62286c703c07f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-294-2020",
    "path": "ordin/agricultura/2020/294",
    "short": "Ordin agricultura nr. 294/2020",
@@ -273,6 +588,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-297-2020",
+   "path": "ordin/agricultura/2020/297",
+   "short": "Ordin agricultura nr. 297/2020",
+   "title": "Ordinul nr. 297/2020 pentru modificarea poziției 6 din anexa nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231506",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231506",
+     "sha256": "8e23450c26862c7ccf5722b0266d574d804c3932682817e987152de451508dc6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-304-2020",
    "path": "ordin/agricultura/2020/304",
    "short": "Ordin agricultura nr. 304/2020",
@@ -284,6 +614,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232538",
      "sha256": "03f3b76ad61a80d089e0afd95d9ec36ff04368f580acde1e7290862fe2fdc910"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-307-2020",
+   "path": "ordin/agricultura/2020/307",
+   "short": "Ordin agricultura nr. 307/2020",
+   "title": "Ordinul nr. 307/2020 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.731/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor și întreprinderilor mici din spațiul rural pentru înființarea și dezvoltarea activităților economice neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232028",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232028",
+     "sha256": "91d78720114009510fb951ccba54d95a23df2664fbed2fd21cb9a16f73704bff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-308-2020",
+   "path": "ordin/agricultura/2020/308",
+   "short": "Ordin agricultura nr. 308/2020",
+   "title": "Ordinul nr. 308/2020 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 107/2017 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru implementarea acțiunilor în cadrul strategiei de dezvoltare locală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232060",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232060",
+     "sha256": "40f2f9ad2a6023153e20d013a91f7fca84e0ba7bfac00d2f7ef7175434bb7fab"
     }
    ]
   },
@@ -318,6 +678,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-319-2020",
+   "path": "ordin/agricultura/2020/319",
+   "short": "Ordin agricultura nr. 319/2020",
+   "title": "Ordinul nr. 319/2020 pentru modificarea și completarea anexelor nr. 1-3 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 194/2019 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2019 pentru măsurile 10 \"Agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233128",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233128",
+     "sha256": "74aa444259f8f8af52d28c47eb33220d7cea39bd362a482a81c9b7f4df49bc13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-32-2020",
+   "path": "ordin/agricultura/2020/32",
+   "short": "Ordin agricultura nr. 32/2020",
+   "title": "Ordinul nr. 32/2020 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222703",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222703",
+     "sha256": "0087519813262cf43ed7158e025678f86ea40d72b7c9343590af8e37996f908e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-323-2020",
    "path": "ordin/agricultura/2020/323",
    "short": "Ordin agricultura nr. 323/2020",
@@ -329,6 +719,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233608",
      "sha256": "e7284ff5fe3e6a4a99acc265728947fd98d97787ded8d92bea9fb649e1a70878"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-330-2020",
+   "path": "ordin/agricultura/2020/330",
+   "short": "Ordin agricultura nr. 330/2020",
+   "title": "Ordinul nr. 330/2020 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 857/2016 privind aprobarea schemei de ajutor de stat \"Sprijin pentru prima împădurire și crearea de suprafețe împădurite\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234342",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234342",
+     "sha256": "7aefa955f16519639cc6881f77388ee21f8a39e91ec67dc9e09cfd97ae6aae84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-341-2020",
+   "path": "ordin/agricultura/2020/341",
+   "short": "Ordin agricultura nr. 341/2020",
+   "title": "Ordinul nr. 341/2020 pentru modificarea art. 20 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235276",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235276",
+     "sha256": "10a424279f0771f3112f693f31911aeef0fe0fb96d654a40906d651499983472"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-342-2020",
+   "path": "ordin/agricultura/2020/342",
+   "short": "Ordin agricultura nr. 342/2020",
+   "title": "Ordinul nr. 342/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.353/2018 pentru instituirea schemei de ajutor de minimis \"Împrumuturi cu partajarea riscului la nivel de portofoliu finanțate din Programul Național de Dezvoltare Rurală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235277",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235277",
+     "sha256": "f473dfcb43eddd8b9040d51c21e63c0cd6227ae02daccde18b14c0fca43fec97"
     }
    ]
   },
@@ -348,6 +783,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-349-2020",
+   "path": "ordin/agricultura/2020/349",
+   "short": "Ordin agricultura nr. 349/2020",
+   "title": "Ordinul nr. 349/2020 pentru modificarea alin. (1) al art. 11 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 877/2016 privind aprobarea schemei de ajutor de stat \"Sprijin acordat întreprinderilor pentru investiții necesare dezvoltării, modernizării sau adaptării infrastructurii silvice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235524",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235524",
+     "sha256": "d39964b87db70d1bd2d2b9ea7fcb69595826b89e30cbb3457a5c219203ff017a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-358-2020",
    "path": "ordin/agricultura/2020/358",
    "short": "Ordin agricultura nr. 358/2020",
@@ -359,6 +809,66 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237220",
      "sha256": "9ae989758379ddb0318cc87c0f859977540f200ae11b150868192fff340a8e25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-359-2020",
+   "path": "ordin/agricultura/2020/359",
+   "short": "Ordin agricultura nr. 359/2020",
+   "title": "Ordinul nr. 359/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.198/2018 pentru aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\" în cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235789",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235789",
+     "sha256": "2ba425519b289af59214338b5ff4f4073ea8c62ea7fd037f84d57f7ed47717cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-36-2020",
+   "path": "ordin/agricultura/2020/36",
+   "short": "Ordin agricultura nr. 36/2020",
+   "title": "Ordinul nr. 36/2020 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223133",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223133",
+     "sha256": "d83188b68bd7dbf1c3d2244602c4c58716c8c21414ad1cfac3a85f83e42f48e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-360-2020",
+   "path": "ordin/agricultura/2020/360",
+   "short": "Ordin agricultura nr. 360/2020",
+   "title": "Ordinul nr. 360/2020 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 285/2016 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru servicii de consultanță în vederea implementării proiectelor de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole și a produselor din sectorul pomicol\", derulate prin schema de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\", aferentă Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235790",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235790",
+     "sha256": "26742439e6177b2d0a95f3d0bbef6dcec1494cdf3a38248195a89d16287a6964"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-39-2020",
+   "path": "ordin/agricultura/2020/39",
+   "short": "Ordin agricultura nr. 39/2020",
+   "title": "Ordinul nr. 39/2020 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.343/2018 privind aprobarea valorii tarifului datorat pentru scoaterea definitivă sau temporară din circuitul agricol a terenurilor aflate în extravilan, precum și pentru introducerea terenurilor agricole în intravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222814",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222814",
+     "sha256": "c370568240ace57d71322cf665d84081d7bbb97d320790c3cbc89f370582b75d"
     }
    ]
   },
@@ -393,6 +903,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-44-2020",
+   "path": "ordin/agricultura/2020/44",
+   "short": "Ordin agricultura nr. 44/2020",
+   "title": "Ordinul nr. 44/2020 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 45/2019 privind aprobarea modelelor cererilor de plată pentru Măsura 14 - \"Bunăstarea animalelor\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020 - pachetul a) - Plăți în favoarea bunăstării porcinelor și pachetul b) - Plăți în favoarea bunăstării păsărilor și pentru aprobarea modelului de notificare privind cerințele specifice aferente subpachetului 3b)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223076",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223076",
+     "sha256": "2ca2b38ac55c8aea5cd59194ea291231543e5ea171aee1b8432d7f7ec17b6243"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-50-2020",
    "path": "ordin/agricultura/2020/50",
    "short": "Ordin agricultura nr. 50/2020",
@@ -419,6 +944,111 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223219",
      "sha256": "d20df14ff5ecb0a5d0c7991ffa36b4d277476d74ec867e673f85f4a17a29e5c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-64-2020",
+   "path": "ordin/agricultura/2020/64",
+   "short": "Ordin agricultura nr. 64/2020",
+   "title": "Ordinul nr. 64/2020 privind modificarea Procedurii de emitere a certificatului de origine pentru biomasa provenită din agricultură și industriile conexe, utilizată drept combustibil sau materie primă pentru producția de energie electrică, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 46/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224822",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224822",
+     "sha256": "78bde1aa6722ea4a315de5a6d23b1032d082ff004da2a640ecea031f17b4d2e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2020",
+   "path": "ordin/agricultura/2020/67",
+   "short": "Ordin agricultura nr. 67/2020",
+   "title": "Ordinul nr. 67/2020 pentru modificarea art. 21 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223451",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223451",
+     "sha256": "31f067ec865c3c1b127bed98dbd35bcfa03ba2885d7794b149abb7533477932d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-7-2020",
+   "path": "ordin/agricultura/2020/7",
+   "short": "Ordin agricultura nr. 7/2020",
+   "title": "Ordinul nr. 7/2020 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 772/2016 privind cerințele referitoare la etichetarea, sigilarea și ambalarea materialului de înmulțire și plantare fructifer destinat producției de fructe, care intră în domeniul de aplicare al Directivei 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222449",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222449",
+     "sha256": "47080c909bfaf447c4a13cf1595943cd113032af0524daabb40bf57d7516a269"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-75-2020",
+   "path": "ordin/agricultura/2020/75",
+   "short": "Ordin agricultura nr. 75/2020",
+   "title": "Ordinul nr. 75/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.205/2018 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224444",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224444",
+     "sha256": "e05b2e9fdd50158946494593f57c1c92c6770f89702654c4e17cdeb2011f461f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-2020",
+   "path": "ordin/agricultura/2020/8",
+   "short": "Ordin agricultura nr. 8/2020",
+   "title": "Ordinul nr. 8/2020 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.366/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul și certificarea calității și/sau comercializarea semințelor de legume, precum și a anexelor nr. 2 și 3 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.269/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul calității și/sau comercializarea materialului de înmulțire și plantare legumicol, altul decât semințele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222450",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222450",
+     "sha256": "ad7c55421eaf802e67bab103664e6168fc5f4bdaf5b5e2603967c5c007a00393"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-88-2020",
+   "path": "ordin/agricultura/2020/88",
+   "short": "Ordin agricultura nr. 88/2020",
+   "title": "Ordinul nr. 88/2020 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 310/2019 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224914",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224914",
+     "sha256": "77a0cf7d33b6d00dc46cceaec8405121af20f677cb2186e9b09952a58bfb6928"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-93-2020",
+   "path": "ordin/agricultura/2020/93",
+   "short": "Ordin agricultura nr. 93/2020",
+   "title": "Ordinul nr. 93/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.508/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224974",
+   "versions": [
+    {
+     "from": "2020-04-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224974",
+     "sha256": "8e697a49b5e5ea083b027b40e0a7c6ba78966d270976f1b4fcce2c26d8cbb485"
     }
    ]
   },
@@ -3239,6 +3869,201 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226531",
      "sha256": "d1e52a3752e839d2436b1d199961bb19c3f00cf1d6c8f6dc59b5b5d255d7ae8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-103-2020",
+   "path": "ordin/aparare/2020/103",
+   "short": "Ordin aparare nr. 103/2020",
+   "title": "Ordinul nr. 103/2020 pentru aprobarea Instrucțiunilor privind activitatea de informare și relații publice în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226555",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226555",
+     "sha256": "e4f1fa0d12933900d4e3d979432fe0ddd5e1bd78d46f401b46e6a8f65d65b58c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-163-2020",
+   "path": "ordin/aparare/2020/163",
+   "short": "Ordin aparare nr. 163/2020",
+   "title": "Ordinul nr. 163/2020 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229731",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229731",
+     "sha256": "9d7853d6c987549d4c45d6d1f9ca3592996e272a626199779cb8d44a8e969780"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-164-2020",
+   "path": "ordin/aparare/2020/164",
+   "short": "Ordin aparare nr. 164/2020",
+   "title": "Ordinul nr. 164/2020 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229732",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229732",
+     "sha256": "7dd5175ee693e00227fa0c139f94d31ac226406d0f1e865b07d69db69a8842ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-178-2020",
+   "path": "ordin/aparare/2020/178",
+   "short": "Ordin aparare nr. 178/2020",
+   "title": "Ordinul nr. 178/2020 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230947",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230947",
+     "sha256": "c737637096f4454479a047c14126da1c4006658d838fd4035bbbc9868aa481ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-179-2020",
+   "path": "ordin/aparare/2020/179",
+   "short": "Ordin aparare nr. 179/2020",
+   "title": "Ordinul nr. 179/2020 privind conferirea Semnului onorific În Serviciul Patriei unui preot militar din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230948",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230948",
+     "sha256": "c9d6d83a8104dc5c1045dff0d4913581bf2298d5152658b36b0cde00c80a9f9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-181-2020",
+   "path": "ordin/aparare/2020/181",
+   "short": "Ordin aparare nr. 181/2020",
+   "title": "Ordinul nr. 181/2020 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230651",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230651",
+     "sha256": "2938d35214a9eaf319e8e85b3d5097426080af6b1cec9c02390ef5cdf487e825"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-182-2020",
+   "path": "ordin/aparare/2020/182",
+   "short": "Ordin aparare nr. 182/2020",
+   "title": "Ordinul nr. 182/2020 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230653",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230653",
+     "sha256": "13a08d25120b5621ae810300d4e5e5c10b8f22361ab8c1e72dfb28a6ed40e277"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-195-2020",
+   "path": "ordin/aparare/2020/195",
+   "short": "Ordin aparare nr. 195/2020",
+   "title": "Ordinul nr. 195/2020 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului de achiziții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232935",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232935",
+     "sha256": "b07fecad45dcb966531bfb914b28104cf7df82d3a76f99a5e3aa9b0d7d156921"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-197-2020",
+   "path": "ordin/aparare/2020/197",
+   "short": "Ordin aparare nr. 197/2020",
+   "title": "Ordinul nr. 197/2020 pentru aprobarea Instrucțiunilor de aplicare a Regulamentului privind organizarea procedurilor pentru valorificarea bunurilor aflate în administrarea Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233597",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233597",
+     "sha256": "cb2211cb1e1de7840f09d335980c87c405c2daaef7747fcc20f0475be37c6eb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-203-2020",
+   "path": "ordin/aparare/2020/203",
+   "short": "Ordin aparare nr. 203/2020",
+   "title": "Ordinul nr. 203/2020 privind aplicarea la nivelul Ministerului Apărării Naționale a prevederilor Strategiei naționale și a Planului național de acțiune privind implementarea Rezoluției 1.325 (2000) a Consiliului de Securitate al Organizației Națiunilor Unite - Femeile, pacea și securitatea pentru perioada 2020-2023, aprobate prin Hotărârea Guvernului nr. 561/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233626",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233626",
+     "sha256": "720e543b86720268cee023840f77e873ca9c5dd322e58a582e267e76e9480c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-39-2020",
+   "path": "ordin/aparare/2020/39",
+   "short": "Ordin aparare nr. 39/2020",
+   "title": "Ordinul nr. 39/2020 privind conferirea Semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223926",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223926",
+     "sha256": "513df64b1c39144298902d5274f50e4161596882225fdc89c6a88d705b04a9c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-40-2020",
+   "path": "ordin/aparare/2020/40",
+   "short": "Ordin aparare nr. 40/2020",
+   "title": "Ordinul nr. 40/2020 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223927",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223927",
+     "sha256": "dc6559a33c110a05f971666cc7ed0b6acb5458a79fdd87f892699b3dd3d35d06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-95-2020",
+   "path": "ordin/aparare/2020/95",
+   "short": "Ordin aparare nr. 95/2020",
+   "title": "Ordinul nr. 95/2020 privind aplicarea prevederilor art. 8 alin. (2) lit. i) și art. 9 alin. (1) din Legea nr. 237/2019 pentru continuarea dezvoltării capabilității operaționale aeriene cuprinse în Etapa de tranziție inițială a Concepției de realizare graduală a capabilității de apărare aeriană în cadrul programului \"Avion multirol al Forțelor Aeriene\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225829",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225829",
+     "sha256": "82412e383954a315444e69027bc5bea5040858ca904f9a5b84cd3a80cea0f595"
     }
    ]
   },

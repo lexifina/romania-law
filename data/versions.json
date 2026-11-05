@@ -200321,6 +200321,21 @@
    ]
   },
   {
+   "slug": "og-12-2000",
+   "path": "og/2000/12",
+   "short": "OG nr. 12/2000",
+   "title": "Ordonanța Guvernului nr. 12/2000 pentru ratificarea Protocolului adiţional suplimentar la Acordul dintre statele părţi la Tratatul Atlanticului de Nord şi celelalte state participante la Parteneriatul pentru Pace cu privire la statutul forţelor lor, adoptat la Bruxelles la 19 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20733",
+   "versions": [
+    {
+     "from": "2000-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20733",
+     "sha256": "e7a4048a45ce68a381d0f605d03d89e69dd1549d5c9d4e2c9df9282e6f65271b"
+    }
+   ]
+  },
+  {
    "slug": "og-12-2004",
    "path": "og/2004/12",
    "short": "OG nr. 12/2004",
@@ -203146,6 +203161,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14078",
      "sha256": "1fe2c0f42b7c39d0f9da13976d1d720d7468fd60d2238e16c0e09a1ded8ed782"
+    }
+   ]
+  },
+  {
+   "slug": "og-21-2000",
+   "path": "og/2000/21",
+   "short": "OG nr. 21/2000",
+   "title": "Ordonanța Guvernului nr. 21/2000 privind aprobarea reglementării obligaţiilor reciproce dintre România şi Republica Islamica Iran, rezultate din stingerea soldului contului de cliring româno-iranian şi din aplicarea clauzei valutare în baza Acordului interguvernamental româno-iranian din 14 mai 1974, conform Minutei semnate la Teheran la 22 octombrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20722",
+   "versions": [
+    {
+     "from": "2000-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20722",
+     "sha256": "1a982821b367328015c94ff902480fb1d10e4dfa30bd4a04689cba1387c83b7a"
     }
    ]
   },

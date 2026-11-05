@@ -3,6 +3,66 @@
  "shard": "ordin/2002",
  "acts": [
   {
+   "slug": "ordin-agricultura-102-2002",
+   "path": "ordin/agricultura/2002/102",
+   "short": "Ordin agricultura nr. 102/2002",
+   "title": "Ordinul nr. 102/2002 privind aprobarea listei cuprinzând localitățile din zona montană din care vor face parte beneficiarii sprijinului ce se acordă producătorilor de lapte și ai sprijinului ce se acordă producătorilor agricoli pentru creșterea producției de carne și a efectivelor de animale, pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34444",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34444",
+     "sha256": "1dd73f3765dab39b3d601b03bcbb82eb117d0359145ad165ccb52d0871509b0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-105-2002",
+   "path": "ordin/agricultura/2002/105",
+   "short": "Ordin agricultura nr. 105/2002",
+   "title": "Ordinul nr. 105/2002 pentru aprobarea Normei sanitare veterinare cu privire la condițiile de sănătate a animalelor și certificarea veterinara pentru importul din tari terțe de material seminal provenit de la bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37687",
+   "versions": [
+    {
+     "from": "2002-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37687",
+     "sha256": "14f1eba0e20e272d1b98657b3615b3f4fe8dc10e6dea29ba9497eca8b05ac6d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-106-2002",
+   "path": "ordin/agricultura/2002/106",
+   "short": "Ordin agricultura nr. 106/2002",
+   "title": "Ordinul nr. 106/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate și certificarea veterinara pentru importul de ovine și caprine din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37870",
+   "versions": [
+    {
+     "from": "2002-08-21",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37870",
+     "sha256": "befe24ef7d35d97077a069fcdbdab21618002e3b21fc46b2fe06d1277bfd479d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-111-2002",
+   "path": "ordin/agricultura/2002/111",
+   "short": "Ordin agricultura nr. 111/2002",
+   "title": "Ordinul nr. 111/2002 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 29/2000 privind sprijinul acordat producătorilor de lapte, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34574",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34574",
+     "sha256": "fb66a6d66697cd77462c287680da574f3499ad2b64df76f10a0dddded360d781"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-114-2002",
    "path": "ordin/agricultura/2002/114",
    "short": "Ordin agricultura nr. 114/2002",
@@ -14,6 +74,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34892",
      "sha256": "b27bff261a8eb6290c377d02ace955aafb73471a7e75da52968d2c260eddd0b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-115-2002",
+   "path": "ordin/agricultura/2002/115",
+   "short": "Ordin agricultura nr. 115/2002",
+   "title": "Ordinul nr. 115/2002 pentru aprobarea Regulamentului privind atribuțiile, constituirea și funcționarea comisiilor de încadrare și promovare a personalului silvic pe grade profesionale și gradații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34833",
+   "versions": [
+    {
+     "from": "2002-04-02",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34833",
+     "sha256": "5a27a6698ca1c27436cc6e3f50ff2d262c89d0c177756b2a8dfec060493499ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-116-2002",
+   "path": "ordin/agricultura/2002/116",
+   "short": "Ordin agricultura nr. 116/2002",
+   "title": "Ordinul nr. 116/2002 pentru aprobarea Instrucțiunilor privind autorizarea personalului silvic, avizarea constituirii și autorizarea funcționării structurilor silvice pentru gospodărirea pădurilor proprietate privată și a celor proprietate publică aparținând comunelor, orașelor și municipiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34756",
+   "versions": [
+    {
+     "from": "2002-04-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34756",
+     "sha256": "845ee3c7d214c0815420fa606ee3f048937cf2d24a60fda845d006d5e66a62e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-117-2002",
+   "path": "ordin/agricultura/2002/117",
+   "short": "Ordin agricultura nr. 117/2002",
+   "title": "Ordinul nr. 117/2002 pentru aprobarea Programului privind sprijinirea producătorilor agricoli și asociațiilor utilizatorilor de apa pentru irigații în vederea achiziționării de instalații de irigat noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\".",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34661",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34661",
+     "sha256": "6f2f66e7adf268f879f1b5906789727a3a6645fe72d71263495b550df42aaab0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-120-2002",
+   "path": "ordin/agricultura/2002/120",
+   "short": "Ordin agricultura nr. 120/2002",
+   "title": "Ordinul nr. 120/2002 privind corelarea gradelor profesionale și a gradatiilor stabilite pentru personalul silvic cu funcțiile deținute de personalul silvic aflat în activitate la data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată și modificată prin Legea nr. 427/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35155",
+   "versions": [
+    {
+     "from": "2002-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35155",
+     "sha256": "66ad5588edd5df96f5f2920abbb70a8deebcd495d406af6ee07808e121b7955a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-130-2002",
+   "path": "ordin/agricultura/2002/130",
+   "short": "Ordin agricultura nr. 130/2002",
+   "title": "Ordinul nr. 130/2002 privind completarea anexei la Ordinul ministrului agriculturii și alimentației nr. 70/1998 pentru aprobarea Normei sanitare veterinare privind condițiile și procedura de avizare sanitară veterinara a importului, exportului, tranzitului cu animale, produse și subproduse de origine animala, furaje și alte produse și materii care pot influența starea de sănătate a animalelor și sănătatea publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34854",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34854",
+     "sha256": "23238c578dc3c548d0796b87232431d90cc95899c13cd86d2f451608a0f09e07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-131-2002",
+   "path": "ordin/agricultura/2002/131",
+   "short": "Ordin agricultura nr. 131/2002",
+   "title": "Ordinul nr. 131/2002 privind completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 285/2001 pentru aprobarea Listei cuprinzând animalele vii, produsele și subprodusele de origine animala și alte mărfuri supuse controlului veterinar la punctele de control pentru trecerea frontierei de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34853",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34853",
+     "sha256": "6f4ceba489edaefe59bfe154130127f4a4a2c4603b14aa65bec0994a55461836"
     }
    ]
   },
@@ -33,6 +183,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-141-2002",
+   "path": "ordin/agricultura/2002/141",
+   "short": "Ordin agricultura nr. 141/2002",
+   "title": "Ordinul nr. 141/2002 privind aprobarea Programului pentru sprijinirea fermierilor privați în vederea achiziționării de animale de reproducție, creștere și îngrășare, din speciile taurine și porcine, și procurării de utilaje noi specifice activităților din zootehnie, cu acordarea de mijloace financiare din fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34837",
+   "versions": [
+    {
+     "from": "2002-04-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34837",
+     "sha256": "55d5601966de85bba436680a34f30914631479176d0bf1b0425daac8149255c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-143-2002",
    "path": "ordin/agricultura/2002/143",
    "short": "Ordin agricultura nr. 143/2002",
@@ -44,6 +209,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38545",
      "sha256": "a5c2c71e5681083ca5765c98fe1d82b430ab34dfffad82a55170639220f56daa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-144-2002",
+   "path": "ordin/agricultura/2002/144",
+   "short": "Ordin agricultura nr. 144/2002",
+   "title": "Ordinul nr. 144/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea regulilor de prevenire, control și eradicare a unor encefalopatii spongiforme transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36786",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36786",
+     "sha256": "2ddca92a177de72428ef11fae8bdede6423ff3f4f344b79df7007b4f1516eebe"
     }
    ]
   },
@@ -63,6 +243,141 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-147-2002",
+   "path": "ordin/agricultura/2002/147",
+   "short": "Ordin agricultura nr. 147/2002",
+   "title": "Ordinul nr. 147/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea protocoalelor de testare și condițiile de autorizare a târgurilor de animale, fermelor de carantina sau centrelor de colectare în cazul importurilor de animale vii din speciile bovine și porcine provenite din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38280",
+   "versions": [
+    {
+     "from": "2002-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38280",
+     "sha256": "adb447752ba088b69f7950f427e03cb11535d130de9e349dc07d969231dd3bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-154-2002",
+   "path": "ordin/agricultura/2002/154",
+   "short": "Ordin agricultura nr. 154/2002",
+   "title": "Ordinul nr. 154/2002 privind recoltarea prin împușcare a unor exemplare din speciile de fauna sălbatică de interes cinegetic, în situații excepționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35907",
+   "versions": [
+    {
+     "from": "2002-05-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35907",
+     "sha256": "cf6a71e412d0a0289a6361dee249aa7c4366d6e87faa2b43f877aea273cb7d9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-155-2002",
+   "path": "ordin/agricultura/2002/155",
+   "short": "Ordin agricultura nr. 155/2002",
+   "title": "Ordinul nr. 155/2002 pentru stabilirea Criteriilor de acordare a licenței de funcționare pentru gestionării fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35908",
+   "versions": [
+    {
+     "from": "2002-05-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35908",
+     "sha256": "19490a210c119a6a345186b66d8596de04622eb000933f17fb78829f6f21b7f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-157-2002",
+   "path": "ordin/agricultura/2002/157",
+   "short": "Ordin agricultura nr. 157/2002",
+   "title": "Ordinul nr. 157/2002 pentru aprobarea metodologiei de evaluare a trofeelor de vânat, în conformitate cu metodologia Consiliului Internațional de Vânătoare și Protecție a Vânatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36603",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36603",
+     "sha256": "d654476b64edfc0c7a7b131c2dc3ae62c0a47d3f438433b7fc499c7111506f5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-159-2002",
+   "path": "ordin/agricultura/2002/159",
+   "short": "Ordin agricultura nr. 159/2002",
+   "title": "Ordinul nr. 159/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea condițiilor de sănătate a animalelor, ce reglementează comerțul României cu statele membre ale Uniunii Europene și importul din țările terțe de animale, material seminal, ovule și embrioni de la specii ce nu sunt prevăzute de legislația specifica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38497",
+   "versions": [
+    {
+     "from": "2002-09-30",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38497",
+     "sha256": "3c86dda3314a4ee0828e629008c5418f236ce06cb722855efd05653c80d3861f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-160-2002",
+   "path": "ordin/agricultura/2002/160",
+   "short": "Ordin agricultura nr. 160/2002",
+   "title": "Ordinul nr. 160/2002 pentru aprobarea Regulamentului privind atribuirea dreptului de gestionare a fondurilor de vânătoare și organizarea licitațiilor pentru atribuirea în gestiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35787",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35787",
+     "sha256": "563bc198e1f8ec7039f0185c5c9a932c90eb74490e3c7ef001dee1937985e2a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-161-2002",
+   "path": "ordin/agricultura/2002/161",
+   "short": "Ordin agricultura nr. 161/2002",
+   "title": "Ordinul nr. 161/2002 privind aprobarea Instrucțiunilor de calcul al tarifelor de atribuire în gestiune, respectiv de pornire la licitația pentru atribuirea dreptului de gestionare a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35789",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35789",
+     "sha256": "22657f2b76c82c666394e53e8a2278dbb6e711cf1fe9a77643b104d994ed4f13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-163-2002",
+   "path": "ordin/agricultura/2002/163",
+   "short": "Ordin agricultura nr. 163/2002",
+   "title": "Ordinul nr. 163/2002 privind controlul tortricidelor frunzelor de garoafa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35830",
+   "versions": [
+    {
+     "from": "2002-07-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35830",
+     "sha256": "7767a55669e152c876eb4f0bed74e484203f097e353ed2079ee4228bddcc9f27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-168-2002",
+   "path": "ordin/agricultura/2002/168",
+   "short": "Ordin agricultura nr. 168/2002",
+   "title": "Ordinul nr. 168/2002 pentru aprobarea Listei țărilor terțe și a centrelor de colectare a materialului seminal porcin, aprobate pentru import în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36058",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36058",
+     "sha256": "a5f336f889a43cb45b35f0a868e0970871bbb78000850ab4413126b4558ccdf8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-170-2002",
    "path": "ordin/agricultura/2002/170",
    "short": "Ordin agricultura nr. 170/2002",
@@ -74,6 +389,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36059",
      "sha256": "d010a5b52611422bc222f1d3e17ab0669e5652fda65ed8dce008084f1ecce6b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-172-2002",
+   "path": "ordin/agricultura/2002/172",
+   "short": "Ordin agricultura nr. 172/2002",
+   "title": "Ordinul nr. 172/2002 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 102/2002 pentru aprobarea listei cuprinzând localitățile din zona montană din care vor face parte beneficiarii sprijinului ce se acordă producătorilor de lapte și ai sprijinului ce se acordă producătorilor agricoli pentru creșterea producției de carne și a efectivelor de animale, pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35831",
+   "versions": [
+    {
+     "from": "2002-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35831",
+     "sha256": "812cb30d35d244476de74b7911db2c575bef9e7caeb17f635039c64ee3092942"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-18-2002",
+   "path": "ordin/agricultura/2002/18",
+   "short": "Ordin agricultura nr. 18/2002",
+   "title": "Ordinul nr. 18/2002 privind instituirea sistemului de licențe de import automate, emise în scop statistic, pentru importurile de grâu și făina de grâu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33332",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33332",
+     "sha256": "f5423078dca07039cd80fdd4bd11f9be2743611a0f38f6b7e4c989269fdacdfd"
     }
    ]
   },
@@ -93,6 +438,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-186-2002",
+   "path": "ordin/agricultura/2002/186",
+   "short": "Ordin agricultura nr. 186/2002",
+   "title": "Ordinul nr. 186/2002 pentru aprobarea Cerințelor de inspecție și măsurilor de precauție din cadrul programului de inspecție și înregistrarea operatorilor pe piața produselor agroalimentare ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36767",
+   "versions": [
+    {
+     "from": "2002-07-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36767",
+     "sha256": "b3b406a7a11496ae7b779c66eb09df7cc59d9621de0cb8d50d5157e88ded8aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-187-2002",
+   "path": "ordin/agricultura/2002/187",
+   "short": "Ordin agricultura nr. 187/2002",
+   "title": "Ordinul nr. 187/2002 privind modificarea și completarea Programului pentru sprijinirea fermierilor privați în vederea achiziționării de animale de reproducție, creștere și îngrășare, din speciile taurine și porcine, și procurării de utilaje noi specifice activităților din zootehnie, cu acordarea de mijloace financiare din fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 141/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36185",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36185",
+     "sha256": "dd27d33ed531bc8dcc35e401b23259574356f8d3c7cc36ca485e44d743a4db9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-188-2002",
+   "path": "ordin/agricultura/2002/188",
+   "short": "Ordin agricultura nr. 188/2002",
+   "title": "Ordinul nr. 188/2002 pentru aprobarea Normei sanitare veterinare privind măsurile generale pentru controlul unor boli ale animalelor și măsurile specifice referitoare la boala veziculoasa a porcului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39362",
+   "versions": [
+    {
+     "from": "2002-11-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39362",
+     "sha256": "f570deb0eb8d192c78aa6fc73beebd8d90ec58ead679e4b3c39c2d61436962a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-189-2002",
+   "path": "ordin/agricultura/2002/189",
+   "short": "Ordin agricultura nr. 189/2002",
+   "title": "Ordinul nr. 189/2002 pentru aprobarea Listei cuprinzând țările terțe și centrele de colectare a embrionilor proveniți de la animale domestice din specia bovina, aprobate pentru import în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36460",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36460",
+     "sha256": "607781d022bb1e089c5aff8ef8a1ead9bc2fc5b82829b0e2f72902d4fde24ec2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-191-2002",
+   "path": "ordin/agricultura/2002/191",
+   "short": "Ordin agricultura nr. 191/2002",
+   "title": "Ordinul nr. 191/2002 pentru abrogarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 69/2002 privind aprobarea Regulamentului de acreditare a persoanelor fizice care pot conduce și administra exploatații agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35935",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35935",
+     "sha256": "f1691e2e282e5d4e516edca3cb9e998d673f18a7a098af54d794ebd8957d7eab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-192-2002",
    "path": "ordin/agricultura/2002/192",
    "short": "Ordin agricultura nr. 192/2002",
@@ -104,6 +524,51 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37922",
      "sha256": "395192317ac60a03788e90fb31741d769a79524d607d5798f9b3c96ddd357117"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-193-2002",
+   "path": "ordin/agricultura/2002/193",
+   "short": "Ordin agricultura nr. 193/2002",
+   "title": "Ordinul nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35927",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35927",
+     "sha256": "895b3bba941ed9b829f4b2c20e951a18b66ad181494592d400735b7cd3c3d536"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-196-2002",
+   "path": "ordin/agricultura/2002/196",
+   "short": "Ordin agricultura nr. 196/2002",
+   "title": "Ordinul nr. 196/2002 privind stabilirea calității tip a sfeclei de zahăr rezultate din producția anului 2003, recepționată de societățile comerciale pentru industrializarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36186",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36186",
+     "sha256": "f39f6ee21910e696a3786179fb779a2da2dd337e6223999fcb17cbafdaeeea60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2002",
+   "path": "ordin/agricultura/2002/20",
+   "short": "Ordin agricultura nr. 20/2002",
+   "title": "Ordinul nr. 20/2002 pentru aprobarea Normei sanitare veterinare privind interzicerea utilizării anumitor subproduse animale în furajarea animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33656",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33656",
+     "sha256": "e8236219bf93e4b089bb52c4e15fcda64249f67800e3f55d52a7276c678a8101"
     }
    ]
   },
@@ -138,6 +603,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-207-2002",
+   "path": "ordin/agricultura/2002/207",
+   "short": "Ordin agricultura nr. 207/2002",
+   "title": "Ordinul nr. 207/2002 privind aprobarea cotelor de recolta pentru speciile de fauna sălbatică de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2002-14 mai 2003, precum și a condițiilor de realizare a cotelor aprobate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36604",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36604",
+     "sha256": "426c4fc9c9a69289224b934c3139053c02c9247a00c6e0cdf8fe31785e7ac5b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-21-2002",
+   "path": "ordin/agricultura/2002/21",
+   "short": "Ordin agricultura nr. 21/2002",
+   "title": "Ordinul nr. 21/2002 pentru aprobarea Normei sanitare veterinare cu privire la unele măsuri de protecție în ceea ce privește encefalopatiile spongiforme transmisibile și furajarea animalelor cu proteina animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33659",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33659",
+     "sha256": "8fe5e4aefd88381b32759779f96a86d44323bdd4a79082bf4a36de522b35fdb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-211-2002",
+   "path": "ordin/agricultura/2002/211",
+   "short": "Ordin agricultura nr. 211/2002",
+   "title": "Ordinul nr. 211/2002 pentru aprobarea Regulamentului privind dobândirea permisului de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36511",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36511",
+     "sha256": "3107c3a82e77574f3d8f1ced062ca562ce42558ed5a56f72342e891e104c4a70"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-212-2002",
    "path": "ordin/agricultura/2002/212",
    "short": "Ordin agricultura nr. 212/2002",
@@ -153,6 +663,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-214-2002",
+   "path": "ordin/agricultura/2002/214",
+   "short": "Ordin agricultura nr. 214/2002",
+   "title": "Ordinul nr. 214/2002 privind stațiile de pompare din sistemele de irigații și desecări, cu consumurile specifice de energie electrică și randamentele sistemelor de irigații din administrarea Societății Naționale \"Îmbunătățiri Funciare\" - S.A., precum și cele din administrarea altor agenți economici și instituții publice și cele preluate prin protocol de la Societatea Naționala \"Îmbunătățiri Funciare\" - S.A. de către asociațiile utilizatorilor de apa pentru irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36543",
+   "versions": [
+    {
+     "from": "2002-06-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36543",
+     "sha256": "363615058dc88659095c55b2dd328336cfd839cf52bb181ea0d3791e52cde60d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-220-2002",
+   "path": "ordin/agricultura/2002/220",
+   "short": "Ordin agricultura nr. 220/2002",
+   "title": "Ordinul nr. 220/2002 privind aprobarea Manualului operațional pentru schema competitivă de granturi pentru cercetare aplicativa și extensie din cadrul Proiectului pentru sprijinirea serviciilor din agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39680",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39680",
+     "sha256": "881f008563b6c3e57affc53c82a1b8342ece83c59c2d2ef21a2378fd8aa240e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-221-2002",
+   "path": "ordin/agricultura/2002/221",
+   "short": "Ordin agricultura nr. 221/2002",
+   "title": "Ordinul nr. 221/2002 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziționarea de tractoare, combine de recoltat, mașini și utilaje agricole noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36447",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36447",
+     "sha256": "5f360c14815741d819a7e48f4d7772ee66281f24c8b077aa04525227f8e46a7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-224-2002",
+   "path": "ordin/agricultura/2002/224",
+   "short": "Ordin agricultura nr. 224/2002",
+   "title": "Ordinul nr. 224/2002 privind modul în care se face precizarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37027",
+   "versions": [
+    {
+     "from": "2002-07-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37027",
+     "sha256": "2adcb0c22e9e355d449f048f6644f4842bab662fef1b6e45e0a1350e27f39e29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-226-2002",
+   "path": "ordin/agricultura/2002/226",
+   "short": "Ordin agricultura nr. 226/2002",
+   "title": "Ordinul nr. 226/2002 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 486/2001 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul sănătății animalelor, ale căror cheltuieli sunt suportate de către proprietarii animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36708",
+   "versions": [
+    {
+     "from": "2002-06-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36708",
+     "sha256": "ecc131c3c296a83f39f7a14d5c25808321482707a191b72434636bd60c065b5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-227-2002",
+   "path": "ordin/agricultura/2002/227",
+   "short": "Ordin agricultura nr. 227/2002",
+   "title": "Ordinul nr. 227/2002 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 485/2001 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36765",
+   "versions": [
+    {
+     "from": "2002-06-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36765",
+     "sha256": "4ef7c8384dd6eb51c8deede10a3da663f8fb5950b50929240744c34958b5865d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-229-2002",
+   "path": "ordin/agricultura/2002/229",
+   "short": "Ordin agricultura nr. 229/2002",
+   "title": "Ordinul nr. 229/2002 pentru modificarea și completarea Programului privind sprijinirea producătorilor agricoli și asociațiilor utilizatorilor de apa pentru irigații în vederea achiziționării de instalații de irigat noi din producția internă, finanțat din Fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 117/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36544",
+   "versions": [
+    {
+     "from": "2002-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36544",
+     "sha256": "c4b93259aff45c1c38682b5452a66e694e6118dbf5c86ed2075034932c5d60dc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-230-2002",
    "path": "ordin/agricultura/2002/230",
    "short": "Ordin agricultura nr. 230/2002",
@@ -164,6 +779,141 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38508",
      "sha256": "953a6d990468c5ba31290ae54737cb580a05d19a979caee555d92f807e3ca424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2002",
+   "path": "ordin/agricultura/2002/234",
+   "short": "Ordin agricultura nr. 234/2002",
+   "title": "Ordinul nr. 234/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea listei țărilor terțe din care România avizează importul de lapte și produse lactate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36847",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36847",
+     "sha256": "e26dc49eeee18208aebc8e323048dc81958797a4ff793cd462a30f7fa5962e9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-237-2002",
+   "path": "ordin/agricultura/2002/237",
+   "short": "Ordin agricultura nr. 237/2002",
+   "title": "Ordinul nr. 237/2002 privind organizarea activității de control administrativ al livrărilor de tutun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36957",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36957",
+     "sha256": "73c8f4cedec543ac05ae05a1def38fdb9f0278bbb17877618823682226482900"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-24-2002",
+   "path": "ordin/agricultura/2002/24",
+   "short": "Ordin agricultura nr. 24/2002",
+   "title": "Ordinul nr. 24/2002 privind aprobarea Normei sanitare veterinare pentru stabilirea Listei cuprinzând țările terțe și centrele de colectare a materialului seminal, din care se autorizează importul de material seminal de bovine în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33868",
+   "versions": [
+    {
+     "from": "2002-02-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33868",
+     "sha256": "04c3214a5788e64b70097157c98a02aebd267621afff941882aa34cf657dca55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-241-2002",
+   "path": "ordin/agricultura/2002/241",
+   "short": "Ordin agricultura nr. 241/2002",
+   "title": "Ordinul nr. 241/2002 pentru aprobarea Normei sanitare veterinare cu privire la măsurile minime pentru controlul anumitor boli ale peștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39752",
+   "versions": [
+    {
+     "from": "2002-11-23",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39752",
+     "sha256": "5b44cba04c5bd3d18ec982e3f33ac901313eb4f927cc78e19ced1cf61002287e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-242-2002",
+   "path": "ordin/agricultura/2002/242",
+   "short": "Ordin agricultura nr. 242/2002",
+   "title": "Ordinul nr. 242/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea listei țărilor terțe din care România avizează importul de bovine, porcine, ecvidee, ovine, caprine, precum și de carne proaspăta și produse din carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38937",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38937",
+     "sha256": "128a0a8d2bf805199dbd3d4d9ed568304b72952c7769870ba725f9b89550c3b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2002",
+   "path": "ordin/agricultura/2002/243",
+   "short": "Ordin agricultura nr. 243/2002",
+   "title": "Ordinul nr. 243/2002 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare pentru producerea și comercializarea moluștelor bivalve vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38516",
+   "versions": [
+    {
+     "from": "2002-09-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38516",
+     "sha256": "b7fa9088d22f5a845431eef0fe71a6d01c0b309dce4f410fe9d781489b34eb81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-244-2002",
+   "path": "ordin/agricultura/2002/244",
+   "short": "Ordin agricultura nr. 244/2002",
+   "title": "Ordinul nr. 244/2002 pentru aprobarea Metodologiei de monitorizare sol-vegetație forestieră pentru silvicultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40025",
+   "versions": [
+    {
+     "from": "2002-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40025",
+     "sha256": "ab7ae59c2f9db25bbf4c35a2e5993a7fa3c873888f1075132b8cc116c2c8daf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-247-2002",
+   "path": "ordin/agricultura/2002/247",
+   "short": "Ordin agricultura nr. 247/2002",
+   "title": "Ordinul nr. 247/2002 privind aprobarea licitației publice cu strigare ca metoda de privatizare a societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37095",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37095",
+     "sha256": "a2e373e1c06d9b0cac00a8970621f4d03531fffb0eca07c10e2047bd3fb9d017"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-249-2002",
+   "path": "ordin/agricultura/2002/249",
+   "short": "Ordin agricultura nr. 249/2002",
+   "title": "Ordinul nr. 249/2002 privind stabilirea tarifelor pentru efectuarea controlului în vederea certificării, înregistrării, supravegherii, monitorizării și acreditării unor activități ale agenților economici pentru producerea, prelucrarea și/sau comercializarea semințelor și materialului săditor, precum și pentru efectuarea testelor de calitate a semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36898",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36898",
+     "sha256": "18ec585a391f329701cf223de440221d7ec9ba5eb4bf383e5e1404010ada9415"
     }
    ]
   },
@@ -213,6 +963,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-253-2002",
+   "path": "ordin/agricultura/2002/253",
+   "short": "Ordin agricultura nr. 253/2002",
+   "title": "Ordinul nr. 253/2002 pentru aprobarea Metodologiei privind înregistrarea agenților economici, persoane fizice și juridice, pentru producerea, prelucrarea și/sau comercializarea semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37040",
+   "versions": [
+    {
+     "from": "2002-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37040",
+     "sha256": "f6d5ecd3990e933a4150321fdcfb0625914fc2eb1d6d3832e8d17799951f3f0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-256-2002",
+   "path": "ordin/agricultura/2002/256",
+   "short": "Ordin agricultura nr. 256/2002",
+   "title": "Ordinul nr. 256/2002 pentru aprobarea Normei sanitare veterinare cu privire la măsurile minime pentru controlul unor boli ale moluștelor bivalve",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39266",
+   "versions": [
+    {
+     "from": "2002-11-08",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39266",
+     "sha256": "422447ef423e3ca4973f1dcb9baa29160b34522a4593d6c609a78721bac7c32d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-257-2002",
+   "path": "ordin/agricultura/2002/257",
+   "short": "Ordin agricultura nr. 257/2002",
+   "title": "Ordinul nr. 257/2002 pentru aprobarea Regulamentului privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38114",
+   "versions": [
+    {
+     "from": "2002-08-23",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38114",
+     "sha256": "568541500dc1b2f65a12aaa139774ee3c7809fdddecb28de69a21f1e2f044a82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-258-2002",
+   "path": "ordin/agricultura/2002/258",
+   "short": "Ordin agricultura nr. 258/2002",
+   "title": "Ordinul nr. 258/2002 privind atestarea de către Ministerul Agriculturii, Alimentației și Pădurilor a evaluatorilor funciari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37346",
+   "versions": [
+    {
+     "from": "2002-07-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37346",
+     "sha256": "03756f32e57b5eed8dd1a012886d94320b9db695410e1aac541a776ed7f50f42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-259-2002",
+   "path": "ordin/agricultura/2002/259",
+   "short": "Ordin agricultura nr. 259/2002",
+   "title": "Ordinul nr. 259/2002 pentru aprobarea Normei sanitare veterinare referitoare la finanțarea inspecțiilor și controalelor veterinare la frontiera",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38130",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38130",
+     "sha256": "bd25aee3126079c820f05fb7f2b07981650e1003d56e3aad01a83cda304bab0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-272-2002",
+   "path": "ordin/agricultura/2002/272",
+   "short": "Ordin agricultura nr. 272/2002",
+   "title": "Ordinul nr. 272/2002 pentru aprobarea Normei sanitare veterinare privind regionalizarea anumitor tari terțe pentru importul de ecvidee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38400",
+   "versions": [
+    {
+     "from": "2002-09-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38400",
+     "sha256": "b60fd5bad0747e0b00345a6be8d6c02ff50bd39c215a267c09a970bf36dfbd9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-274-2002",
+   "path": "ordin/agricultura/2002/274",
+   "short": "Ordin agricultura nr. 274/2002",
+   "title": "Ordinul nr. 274/2002 pentru aprobarea Regulamentului de organizare și funcționare a consiliilor de disciplina prevăzute în Statutul personalului silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38419",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38419",
+     "sha256": "0424b2364c9ece1828ea3db2b831d1a42564fd4f583ade714439b835fb0e95b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-277-2002",
+   "path": "ordin/agricultura/2002/277",
+   "short": "Ordin agricultura nr. 277/2002",
+   "title": "Ordinul nr. 277/2002 privind aprobarea Regulamentului de organizare și funcționare a Companiei Naționale de Administrare a Fondului Piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37787",
+   "versions": [
+    {
+     "from": "2002-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37787",
+     "sha256": "699d32a6075ee72cf79fb75eba821bbf95e33c30a0a714a45ea310dc9e5e0b53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-278-2002",
    "path": "ordin/agricultura/2002/278",
    "short": "Ordin agricultura nr. 278/2002",
@@ -224,6 +1094,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38500",
      "sha256": "feea91f874bf74c6448190fe95d559e71dc8819aad5c63b46d7efd510b602c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-285-2002",
+   "path": "ordin/agricultura/2002/285",
+   "short": "Ordin agricultura nr. 285/2002",
+   "title": "Ordinul nr. 285/2002 pentru aprobarea Normei sanitare veterinare privind cerințele de sănătate a animalelor, certificarea, precum și declarația oficială pentru importul de piei prelucrate și neprelucrate provenite de la animalele ongulate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38776",
+   "versions": [
+    {
+     "from": "2002-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38776",
+     "sha256": "93a0fb32aa7c87aacc4a068bc6caf40c7e0657817a12006fcf666b275f3caeb6"
     }
    ]
   },
@@ -243,6 +1128,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-294-2002",
+   "path": "ordin/agricultura/2002/294",
+   "short": "Ordin agricultura nr. 294/2002",
+   "title": "Ordinul nr. 294/2002 pentru aprobarea Normei sanitare veterinare privind limitele maxime admise pentru unele substanțe și produse în furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38803",
+   "versions": [
+    {
+     "from": "2002-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38803",
+     "sha256": "34b539ab2a6150c173fbfb79884cc4b698ef6075ec4ce5a7c7577b659d6619ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-295-2002",
    "path": "ordin/agricultura/2002/295",
    "short": "Ordin agricultura nr. 295/2002",
@@ -254,6 +1154,381 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38712",
      "sha256": "8b71132afd445bb081321de9647ccfdb1f0199119d1e6d141562585affeaa23b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-303-2002",
+   "path": "ordin/agricultura/2002/303",
+   "short": "Ordin agricultura nr. 303/2002",
+   "title": "Ordinul nr. 303/2002 pentru aprobarea Instrucțiunilor privind stabilirea suprafețelor maxime care pot fi defrișate pentru realizarea obiectivelor prevăzute la art. 23 alin. (1) lit. b), c) și d) din Ordonanța Guvernului nr. 96/1998 privind reglementarea regimului silvic și administrarea fondului forestier național, republicată, modificată și completată prin Legea nr. 75/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37961",
+   "versions": [
+    {
+     "from": "2002-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37961",
+     "sha256": "0409343ebcb7c0622219ab163d7b9d8a01cd7fba15fe35fa012cf04719d490db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-304-2002",
+   "path": "ordin/agricultura/2002/304",
+   "short": "Ordin agricultura nr. 304/2002",
+   "title": "Ordinul nr. 304/2002 pentru aprobarea Normei sanitare veterinare privind importul și comercializarea fainei de peste și din alte animale marine, cu excepția mamiferelor, și ale produselor, inclusiv amestecuri, altele decât alimentele pentru animalele de companie, care conțin aceste produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38809",
+   "versions": [
+    {
+     "from": "2002-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38809",
+     "sha256": "b2c1395e7871e517908fb8fb1b1ad6d818be3a1bb878b01c138e465b3c241810"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-309-2002",
+   "path": "ordin/agricultura/2002/309",
+   "short": "Ordin agricultura nr. 309/2002",
+   "title": "Ordinul nr. 309/2002 privind recunoașterea prevederilor Acordului interprofesional pentru sfecla de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37859",
+   "versions": [
+    {
+     "from": "2002-08-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37859",
+     "sha256": "0ff5e36c8ec72562aa8f40d116c756febeef07aebb0b6ffbb5c0939191a22ec0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-31-2002",
+   "path": "ordin/agricultura/2002/31",
+   "short": "Ordin agricultura nr. 31/2002",
+   "title": "Ordinul nr. 31/2002 pentru aprobarea Regulamentului privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33898",
+   "versions": [
+    {
+     "from": "2002-02-04",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33898",
+     "sha256": "15c2677db6ab657ca6f484988ebdb54aa2c8dbdbf2c97a0b01ac0d79b64b4800"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-319-2002",
+   "path": "ordin/agricultura/2002/319",
+   "short": "Ordin agricultura nr. 319/2002",
+   "title": "Ordinul nr. 319/2002 pentru aprobarea procedurii de aprobare, modificare și casare a actelor de evaluare a volumului de lemn provenit din fondul forestier, altul decât cel proprietate publică a statului, administrat prin ocoale silvice proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37963",
+   "versions": [
+    {
+     "from": "2002-08-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37963",
+     "sha256": "d136b8348b22e8bc7b7ecbf3bb2a81f4db6a92e90e2d9cdb5ab890d9fb3d7cea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-320-2002",
+   "path": "ordin/agricultura/2002/320",
+   "short": "Ordin agricultura nr. 320/2002",
+   "title": "Ordinul nr. 320/2002 pentru aprobarea Normei sanitare veterinare privind condițiile detaliate de implementare a sistemului de identificare și înregistrare a bovinelor, referitoare la înregistrarea exploatațiilor, crotalii auriculare, registrele de exploatație și pașapoartele bovinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39269",
+   "versions": [
+    {
+     "from": "2002-11-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39269",
+     "sha256": "e8862c29216e95c78b6588ae09eabc68d46e8d2a3d04d295a52cceb860606b8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-321-2002",
+   "path": "ordin/agricultura/2002/321",
+   "short": "Ordin agricultura nr. 321/2002",
+   "title": "Ordinul nr. 321/2002 pentru aprobarea Normei sanitare veterinare privind definirea categoriilor de masculi din specia ecvidee, cărora li se aplică condițiile prevăzute la art. 15 alin. (1) lit. b) pct. 2 din Ordinul ministrului agriculturii, alimentației și pădurilor nr. 65/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala ce guvernează mișcarea ecvideelor între statele membre ale Uniunii Europene și România și importul din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37967",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37967",
+     "sha256": "b1c6ec7337f4cee9b863a7c11a57f9b0d9291beb723a64b009db703d37c12331"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-325-2002",
+   "path": "ordin/agricultura/2002/325",
+   "short": "Ordin agricultura nr. 325/2002",
+   "title": "Ordinul nr. 325/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala și certificare veterinara pentru membranele naturale destinate importului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37857",
+   "versions": [
+    {
+     "from": "2002-08-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37857",
+     "sha256": "702b48fb17fbcde15a05954c1f78515810b44fe0b227d4d14c71e765fa9e43e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-326-2002",
+   "path": "ordin/agricultura/2002/326",
+   "short": "Ordin agricultura nr. 326/2002",
+   "title": "Ordinul nr. 326/2002 pentru aprobarea Normei sanitare veterinare privind modelul de certificat de sănătate pentru importul în România din țările terțe de gelatina destinată consumului uman, precum și pentru importul materiilor prime destinate producerii de gelatina pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37923",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37923",
+     "sha256": "129325a2ce714d2ae11fdc4625138d7409600a35662c2ad8b5769bfaf7e0ee2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-327-2002",
+   "path": "ordin/agricultura/2002/327",
+   "short": "Ordin agricultura nr. 327/2002",
+   "title": "Ordinul nr. 327/2002 privind stabilirea persoanelor împuternicite să constate și să aplice sancțiunile prevăzute de Legea nr. 266/2002 privind producerea, prelucrarea, controlul și certificarea calității, comercializarea semințelor și a materialului săditor, precum și înregistrarea soiurilor de plante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37925",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37925",
+     "sha256": "83c31a330d206b37562c1b9f5dc978b32faa0c0661b7c7c624fbf1e9d3ef895e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-328-2002",
+   "path": "ordin/agricultura/2002/328",
+   "short": "Ordin agricultura nr. 328/2002",
+   "title": "Ordinul nr. 328/2002 privind aprobarea Listei cuprinzând deținătorii de patrimoniu genetic al animalelor în anul 2002 pentru speciile ovine, păsări, animale de blana, viermi de mătase, pești, taurine și porcine, pe rase și linii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37659",
+   "versions": [
+    {
+     "from": "2002-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37659",
+     "sha256": "064ccc5e395226fa98c9a248ff407bdba36af3b31211e99109cc8e0610c6eba1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-329-2002",
+   "path": "ordin/agricultura/2002/329",
+   "short": "Ordin agricultura nr. 329/2002",
+   "title": "Ordinul nr. 329/2002 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare pentru producerea și comercializarea produselor din pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38056",
+   "versions": [
+    {
+     "from": "2002-08-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38056",
+     "sha256": "e6edd18d9c3fb07076988be39dfc85e94371590f74b05e869002a648a5bb4f29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-33-2002",
+   "path": "ordin/agricultura/2002/33",
+   "short": "Ordin agricultura nr. 33/2002",
+   "title": "Ordinul nr. 33/2002 pentru aprobarea Regulamentului privind confecționarea și folosirea ciocanelor silvice din dotarea structurilor silvice constituite la nivel de ocoale silvice, necesare pentru gospodărirea pădurilor proprietate privată și a celor proprietate publică aparținând comunelor, orașelor și municipiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33679",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33679",
+     "sha256": "0f89aca497251cfeff2bdb5d90d0ab2d77128d6fbfde71b26fe6253995bd5f60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-330-2002",
+   "path": "ordin/agricultura/2002/330",
+   "short": "Ordin agricultura nr. 330/2002",
+   "title": "Ordinul nr. 330/2002 privind identificarea punctelor de debarcare a peștelui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37697",
+   "versions": [
+    {
+     "from": "2002-07-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37697",
+     "sha256": "5645c6c2b41a3272849b72efade079209dcb4df59d3bf60f36a1c3fb0e2711b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-333-2002",
+   "path": "ordin/agricultura/2002/333",
+   "short": "Ordin agricultura nr. 333/2002",
+   "title": "Ordinul nr. 333/2002 pentru aprobarea Normei sanitare veterinare privind producerea, comercializarea și utilizarea cărnii separate mecanic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39732",
+   "versions": [
+    {
+     "from": "2003-01-06",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39732",
+     "sha256": "d1b75f0d65efcf2895503816e3e933991f1573f3aaf53b802f4a610ab1a11526"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-341-2002",
+   "path": "ordin/agricultura/2002/341",
+   "short": "Ordin agricultura nr. 341/2002",
+   "title": "Ordinul nr. 341/2002 privind aprobarea tarifelor de plată pentru acțiunile sanitare veterinare publice de interes național, efectuate de medicii veterinari liber-profesionisti în baza contractului de concesionare, pentru anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38073",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38073",
+     "sha256": "5872795a312c2dbb3f61f95b1c86a6cc2c5f7bfa5757e8c660a2e203d17e8b76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-342-2002",
+   "path": "ordin/agricultura/2002/342",
+   "short": "Ordin agricultura nr. 342/2002",
+   "title": "Ordinul nr. 342/2002 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare specifice aplicabile schimburilor și importurilor de melci destinați consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38887",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38887",
+     "sha256": "bf449793970070b816d351f9985a3a9e2809ee12bb74db765a0c32caf2a1e91a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-343-2002",
+   "path": "ordin/agricultura/2002/343",
+   "short": "Ordin agricultura nr. 343/2002",
+   "title": "Ordinul nr. 343/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea procedurilor controalelor veterinare la punctele de inspecție de frontieră din România asupra produselor provenite din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40054",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40054",
+     "sha256": "e5a1d05c60042ff0cb72374fb86a654b428d3055856cc8267e5a3b31ea5901d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-344-2002",
+   "path": "ordin/agricultura/2002/344",
+   "short": "Ordin agricultura nr. 344/2002",
+   "title": "Ordinul nr. 344/2002 pentru aprobarea Normei sanitare veterinare privind documentele necesare trecerii frontierei pentru animale vii importate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38482",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38482",
+     "sha256": "04f9f72964bd29bb0d116ab7e9c50cc25d8dbf7d0baf12b924a0cf58e07e0f35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-345-2002",
+   "path": "ordin/agricultura/2002/345",
+   "short": "Ordin agricultura nr. 345/2002",
+   "title": "Ordinul nr. 345/2002 pentru aprobarea Normei sanitare veterinare privind sistemul de identificare și înregistrare a bovinelor corelat cu etichetarea cărnii de bovine și a produselor din carne de bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40308",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40308",
+     "sha256": "0190e1ccdc5a5d3ca93c5e0a90d20e5b43b91a679fa2c42f7880e083e008aa6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-346-2002",
+   "path": "ordin/agricultura/2002/346",
+   "short": "Ordin agricultura nr. 346/2002",
+   "title": "Ordinul nr. 346/2002 pentru aprobarea Normei sanitare veterinare privind condițiile generale de igiena în exploatațiile de animale producătoare de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38285",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38285",
+     "sha256": "9dc66c4282dc756b8e05e2c65a18fe333f414eac040193c37e3ce7e8fe223541"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-350-2002",
+   "path": "ordin/agricultura/2002/350",
+   "short": "Ordin agricultura nr. 350/2002",
+   "title": "Ordinul nr. 350/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, prelucrarea, controlul și certificarea calității, precum și comercializarea semințelor de cereale, oleaginoase și textile, plante furajere, sfecla, cartof și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38161",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38161",
+     "sha256": "c4187ede0580ceba9970a71ff93fc2a0ceff09a7ffe0ae5ad4a3d11973716764"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-351-2002",
+   "path": "ordin/agricultura/2002/351",
+   "short": "Ordin agricultura nr. 351/2002",
+   "title": "Ordinul nr. 351/2002 privind aprobarea Regulamentului de organizare și funcționare a Comisiei de licențiere a depozitelor de cereale și semințe oleaginoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38037",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38037",
+     "sha256": "80a906e41a680ee4e3d53702f00c7a089d3be92d77b38a8e26d5acf68e783c45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-355-2002",
+   "path": "ordin/agricultura/2002/355",
+   "short": "Ordin agricultura nr. 355/2002",
+   "title": "Ordinul nr. 355/2002 pentru aprobarea Condițiilor și procedurilor privind acreditarea persoanelor pentru efectuarea inspecțiilor în camp în vederea certificării unor culturi semincere sub supraveghere oficială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39207",
+   "versions": [
+    {
+     "from": "2002-10-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39207",
+     "sha256": "a54da0958a98e0536ca261f16732849fea23430a07fa533f1fe9c89050185ced"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-356-2002",
+   "path": "ordin/agricultura/2002/356",
+   "short": "Ordin agricultura nr. 356/2002",
+   "title": "Ordinul nr. 356/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate și igiena pentru producerea și comercializarea produselor din oua",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40143",
+   "versions": [
+    {
+     "from": "2002-11-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40143",
+     "sha256": "c45c5eea253b590b593b2b93282c946317f05b14e7070dcd3b5da4c171520490"
     }
    ]
   },
@@ -273,6 +1548,186 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-360-2002",
+   "path": "ordin/agricultura/2002/360",
+   "short": "Ordin agricultura nr. 360/2002",
+   "title": "Ordinul nr. 360/2002 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziționarea de tractoare noi din producția Societății Comerciale \"Tractorul UTB\" - S.A. Brașov, finanțat din fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37939",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37939",
+     "sha256": "ad3146c8b1652ec8b2e5592cc72fdb28db999c81ae4b7296c718861082f92289"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-363-2002",
+   "path": "ordin/agricultura/2002/363",
+   "short": "Ordin agricultura nr. 363/2002",
+   "title": "Ordinul nr. 363/2002 pentru autorizarea Organizației Interprofesionale Naționale \"Zahărul\" din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38529",
+   "versions": [
+    {
+     "from": "2002-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38529",
+     "sha256": "f287b08c210d412d21d78e6b76b02b7ce1c194e30457e69ad8eaed61d646eb7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-367-2002",
+   "path": "ordin/agricultura/2002/367",
+   "short": "Ordin agricultura nr. 367/2002",
+   "title": "Ordinul nr. 367/2002 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare specifice aplicabile comerțului și importurilor de pulpe de broasca destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38889",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38889",
+     "sha256": "07f84518d290f878c250b51d63e69f0a4deb61b4ef45976a4c7a1e4f6bb531da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-37-2002",
+   "path": "ordin/agricultura/2002/37",
+   "short": "Ordin agricultura nr. 37/2002",
+   "title": "Ordinul nr. 37/2002 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 487/2001 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul expertizei produselor de origine animala și de supraveghere a unităților, ale căror cheltuieli se suporta de către agenții economici, persoane fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33880",
+   "versions": [
+    {
+     "from": "2002-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33880",
+     "sha256": "e29588b8124a965022c691e3c7bbaf8e7fd27184ea4213b8f23ba59e92e8607b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-377-2002",
+   "path": "ordin/agricultura/2002/377",
+   "short": "Ordin agricultura nr. 377/2002",
+   "title": "Ordinul nr. 377/2002 pentru aprobarea Normei sanitare veterinare privind Sistemul rapid de alerta în domeniul alimentelor de origine animala și furajelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38819",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38819",
+     "sha256": "3e8920a2f58f5e3f49e760ed01b645815e2be1939abd07522f3cf94116afad2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-380-2002",
+   "path": "ordin/agricultura/2002/380",
+   "short": "Ordin agricultura nr. 380/2002",
+   "title": "Ordinul nr. 380/2002 privind condițiile minime de calitate în baza cărora se aloca sume pentru recepționarea, depozitarea și păstrarea graului pentru panificație din recolta anului 2002, în limita cantității de 1.500 mii tone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38167",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38167",
+     "sha256": "ac5b36fea5d5ef9f3cc428eae43762ff48a940bdfc27a21f1d815dc2ee285ae9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-381-2002",
+   "path": "ordin/agricultura/2002/381",
+   "short": "Ordin agricultura nr. 381/2002",
+   "title": "Ordinul nr. 381/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul calității și/sau comercializarea materialului de înmulțire și plantare legumicol, altul decât semințele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38933",
+   "versions": [
+    {
+     "from": "2002-10-14",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38933",
+     "sha256": "fed93766bf48d0c06b3d6d75dbdc08345f5c955d64fec713b705205f0c79e197"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-382-2002",
+   "path": "ordin/agricultura/2002/382",
+   "short": "Ordin agricultura nr. 382/2002",
+   "title": "Ordinul nr. 382/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul, certificarea calității și/sau comercializarea materialului săditor pomicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39704",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39704",
+     "sha256": "8b7513ef2a625aff2b6895e6b2bbf2b281d2204d95a6d25867f9a29c3ed65814"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-389-2002",
+   "path": "ordin/agricultura/2002/389",
+   "short": "Ordin agricultura nr. 389/2002",
+   "title": "Ordinul nr. 389/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40222",
+   "versions": [
+    {
+     "from": "2002-11-28",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40222",
+     "sha256": "2d5e9429977c28c44dc62779c85967b2bd3d68fe59432e2d5b7e15355c308316"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-391-2002",
+   "path": "ordin/agricultura/2002/391",
+   "short": "Ordin agricultura nr. 391/2002",
+   "title": "Ordinul nr. 391/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala care reglementează comerțul României cu statele membre ale Uniunii Europene și importul din tari terțe de carne proaspăta de pasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38815",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38815",
+     "sha256": "49e9b69bd9da5648234b69dfc716ac8e8d76abed9f174b47f7172e76dc54f2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-394-2002",
+   "path": "ordin/agricultura/2002/394",
+   "short": "Ordin agricultura nr. 394/2002",
+   "title": "Ordinul nr. 394/2002 pentru aprobarea procedurii de eliberare a pașaportului fitosanitar și a pașaportului fitosanitar de înlocuire, folosite pentru circulația anumitor plante, produse vegetale sau articole reglementate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38797",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38797",
+     "sha256": "cdf3510b8bbdab79b3a8c380b341ca3f7f396a2add7dc6bbee7d55453d7add81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-395-2002",
+   "path": "ordin/agricultura/2002/395",
+   "short": "Ordin agricultura nr. 395/2002",
+   "title": "Ordinul nr. 395/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea, prelucrarea, controlul calității și/sau comercializarea materialului de înmulțire al plantelor ornamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38965",
+   "versions": [
+    {
+     "from": "2002-10-16",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38965",
+     "sha256": "59e1de3af9d8c6086e7cf2f06ca5679a98103b5d6c5a12eff45841032992cb2f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-396-2002",
    "path": "ordin/agricultura/2002/396",
    "short": "Ordin agricultura nr. 396/2002",
@@ -288,6 +1743,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-401-2002",
+   "path": "ordin/agricultura/2002/401",
+   "short": "Ordin agricultura nr. 401/2002",
+   "title": "Ordinul nr. 401/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate pentru producerea și comercializarea cărnii proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41384",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41384",
+     "sha256": "86ed792caaac568709da149db0a3a3234f8c6f5e2ea73bde8e150b5f28de8e45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-402-2002",
+   "path": "ordin/agricultura/2002/402",
+   "short": "Ordin agricultura nr. 402/2002",
+   "title": "Ordinul nr. 402/2002 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate care reglementează producerea și comerțul cu carne proaspăta de pasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41596",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41596",
+     "sha256": "e0356657e513a7d28c7c67d918607b7b8761e89c93b54b9e216dc66d25f23fd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-404-2002",
+   "path": "ordin/agricultura/2002/404",
+   "short": "Ordin agricultura nr. 404/2002",
+   "title": "Ordinul nr. 404/2002 pentru aprobarea Normei sanitare veterinare cu privire la măsurile de control al pestei porcine clasice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43279",
+   "versions": [
+    {
+     "from": "2003-05-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43279",
+     "sha256": "ab722e876aecf269bc18b725ed7a7b55ca87a2b73325911eaa83b3b703b60f4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-417-2002",
    "path": "ordin/agricultura/2002/417",
    "short": "Ordin agricultura nr. 417/2002",
@@ -299,6 +1799,141 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39332",
      "sha256": "1e16df091287257bf0e4568b3a2bca74ce6a22f05fd9a95c0890a77473379bf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-419-2002",
+   "path": "ordin/agricultura/2002/419",
+   "short": "Ordin agricultura nr. 419/2002",
+   "title": "Ordinul nr. 419/2002 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 381/2002 privind acordarea despăgubirilor în caz de calamitați naturale în agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38598",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38598",
+     "sha256": "5921cadcc58f757e46b5acc9de595fe57e19e041bdcea3e792c9cae31f72ba30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-420-2002",
+   "path": "ordin/agricultura/2002/420",
+   "short": "Ordin agricultura nr. 420/2002",
+   "title": "Ordinul nr. 420/2002 privind aprobarea modelelor de acte adiționale care trebuie încheiate la contractele de gestionare a fondurilor de vânătoare, în temeiul Legii fondului cinegetic și a protecției vânatului nr. 103/1996, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38538",
+   "versions": [
+    {
+     "from": "2002-09-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38538",
+     "sha256": "b3a2df524c8074c79ae2acab1456f67692d9be5f8f90db336000a56b581d9997"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-421-2002",
+   "path": "ordin/agricultura/2002/421",
+   "short": "Ordin agricultura nr. 421/2002",
+   "title": "Ordinul nr. 421/2002 pentru aprobarea numărului de exemplare din speciile urs, lup, pisica sălbatică și uliu care se pot recolta în cadrul sezonului de vânătoare 2002-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38580",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38580",
+     "sha256": "61f5892639b70dab0f711b52794b8af819cf424b95136cb68c726cf503221782"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-424-2002",
+   "path": "ordin/agricultura/2002/424",
+   "short": "Ordin agricultura nr. 424/2002",
+   "title": "Ordinul nr. 424/2002 privind completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 110/2002 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 54/2002 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2002, producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38782",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38782",
+     "sha256": "fe58091b703c8d797c28dd50d24948cbe9f573e6af657ef42f4eba310d3b30d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-425-2002",
+   "path": "ordin/agricultura/2002/425",
+   "short": "Ordin agricultura nr. 425/2002",
+   "title": "Ordinul nr. 425/2002 pentru aprobarea Normei sanitare veterinare privind protecția animalelor în timpul sacrificării sau uciderii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40438",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40438",
+     "sha256": "5c216f2fcf72908ca4a70fe5d66677fd98ab5147750545242f812a51bf228c49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-437-2002",
+   "path": "ordin/agricultura/2002/437",
+   "short": "Ordin agricultura nr. 437/2002",
+   "title": "Ordinul nr. 437/2002 pentru aprobarea Regulamentului privind atestarea persoanelor fizice și juridice care pot întocmi studii de specialitate pentru gestionarea durabilă a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39349",
+   "versions": [
+    {
+     "from": "2002-10-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39349",
+     "sha256": "7eeab8ae652ac1b4f81674821d083ac2cf64f5921da6d84dd8d83cfc499c749f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-443-2002",
+   "path": "ordin/agricultura/2002/443",
+   "short": "Ordin agricultura nr. 443/2002",
+   "title": "Ordinul nr. 443/2002 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 102/2002 privind aprobarea listei cuprinzând localitățile din zona montană din care vor face parte beneficiarii sprijinului ce se acordă producătorilor de lapte și ai sprijinului ce se acordă producătorilor agricoli pentru creșterea producției de carne și a efectivelor de animale, pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38814",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38814",
+     "sha256": "ef64d83ed4728baa8021ee197dd3023e64abec77f8648e8084b73d2ec76ce921"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-444-2002",
+   "path": "ordin/agricultura/2002/444",
+   "short": "Ordin agricultura nr. 444/2002",
+   "title": "Ordinul nr. 444/2002 pentru stabilirea culturilor agricole și speciilor de animale, păsări, familii de albine și pești pentru care se subvenționează primele de asigurare pentru factorii de risc asigurați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38901",
+   "versions": [
+    {
+     "from": "2002-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38901",
+     "sha256": "fad0d1d138a3f9d825e732f568e1ae74a4f27779f42a2afded5ccd79dc5095f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-445-2002",
+   "path": "ordin/agricultura/2002/445",
+   "short": "Ordin agricultura nr. 445/2002",
+   "title": "Ordinul nr. 445/2002 pentru aprobarea listei societăților de asigurare și asigurare-reasigurare care practica asigurări pentru culturile agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Alimentației și Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38902",
+   "versions": [
+    {
+     "from": "2002-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38902",
+     "sha256": "56d3948da264f7b9a521af78070f964041a2af3c7641ab0a0b96d07b15e47a30"
     }
    ]
   },
@@ -348,6 +1983,171 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-468-2002",
+   "path": "ordin/agricultura/2002/468",
+   "short": "Ordin agricultura nr. 468/2002",
+   "title": "Ordinul nr. 468/2002 pentru aprobarea Normei sanitare veterinare privind modelul de certificat de sănătate animala pentru comercializarea ovulelor și embrionilor pentru specia ecvidee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39982",
+   "versions": [
+    {
+     "from": "2002-12-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39982",
+     "sha256": "6fd332a80d314d151311019989bab2831323063f9bfe760fe6b003ef9be85aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-471-2002",
+   "path": "ordin/agricultura/2002/471",
+   "short": "Ordin agricultura nr. 471/2002",
+   "title": "Ordinul nr. 471/2002 pentru aprobarea Normei sanitare veterinare privind planurile de prelevare, metodele de diagnostic, determinarea și confirmarea prezenței septicemiei hemoragice virale - SHV - și necrozei hematopoetice infecțioase - NHI - la pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40192",
+   "versions": [
+    {
+     "from": "2002-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40192",
+     "sha256": "0a09a1b295567cec54d8a1d714f55431653a1d166eb7640fb5a6a0383ba8ccfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-477-2002",
+   "path": "ordin/agricultura/2002/477",
+   "short": "Ordin agricultura nr. 477/2002",
+   "title": "Ordinul nr. 477/2002 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziționarea de mașini agricole noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39328",
+   "versions": [
+    {
+     "from": "2002-10-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39328",
+     "sha256": "c7cc80775b5a6c2be509068b100f6e651f83d0a369a309cd7cb2ac15ce669c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-478-2002",
+   "path": "ordin/agricultura/2002/478",
+   "short": "Ordin agricultura nr. 478/2002",
+   "title": "Ordinul nr. 478/2002 privind aprobarea Normelor de întocmire a studiilor de specialitate pentru gestionarea durabilă a vânatului și a Instrucțiunilor de aplicare a Normelor de întocmire a studiilor de specialitate pentru gestionarea durabilă a vânatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39351",
+   "versions": [
+    {
+     "from": "2002-10-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39351",
+     "sha256": "52e50af37e7745f2fbf930e1aac01f00de5583d911b647519c80155a84e9f27e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-48-2002",
+   "path": "ordin/agricultura/2002/48",
+   "short": "Ordin agricultura nr. 48/2002",
+   "title": "Ordinul nr. 48/2002 privind completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 97/2001 pentru aprobarea Programului privind sprijinirea producătorilor agricoli și a prestatorilor de servicii în agricultura pentru achiziționarea de tractoare, combine, mașini și utilaje agricole, precum și instalații de irigat din producția internă, finanțat din Fondul special \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33848",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33848",
+     "sha256": "312cd1695559edab4305c92774e63c7f4031cb84a799add2ce2f8a6c68075567"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-481-2002",
+   "path": "ordin/agricultura/2002/481",
+   "short": "Ordin agricultura nr. 481/2002",
+   "title": "Ordinul nr. 481/2002 pentru modificarea Catalogului național al surselor pentru materiale forestiere de reproducere din România - 2001, aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 269/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39843",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39843",
+     "sha256": "76003331d96fd84798a46956a24dabca665de0caa28f358e4e15b96868e6ced4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-482-2002",
+   "path": "ordin/agricultura/2002/482",
+   "short": "Ordin agricultura nr. 482/2002",
+   "title": "Ordinul nr. 482/2002 pentru aprobarea Normei sanitare veterinare privind criteriile ce trebuie aplicate la elaborarea planului de urgență pentru febra aftoasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40179",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40179",
+     "sha256": "a5058c883f4b777aa6b5759e7d76c4ce35791554220498c659fb5a9908f481ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-484-2002",
+   "path": "ordin/agricultura/2002/484",
+   "short": "Ordin agricultura nr. 484/2002",
+   "title": "Ordinul nr. 484/2002 pentru aprobarea Normei sanitare veterinare privind procedurile de diagnostic, metodele de prelevare de probe și criteriile pentru evaluarea rezultatelor testelor de laborator, pentru confirmarea și diagnosticul diferențial al bolii veziculoase a porcului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40358",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40358",
+     "sha256": "16813322d74f1dadb2fee7ab0f2f5cad38fcce2600e914109c98a72c8d0c49f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-488-2002",
+   "path": "ordin/agricultura/2002/488",
+   "short": "Ordin agricultura nr. 488/2002",
+   "title": "Ordinul nr. 488/2002 pentru aprobarea Regulamentului privind organizarea și desfășurarea examenului pentru dobândirea calității de expert tehnic extrajudiciar în specialitatea \"vânătoare\", precum și privind activitatea experților tehnici extrajudiciari în specialitatea \"vânătoare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39889",
+   "versions": [
+    {
+     "from": "2002-11-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39889",
+     "sha256": "83798b7521c6b45aec9fb79ef5247d2392b08323d49c18bb9d8713c25925d64b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-490-2002",
+   "path": "ordin/agricultura/2002/490",
+   "short": "Ordin agricultura nr. 490/2002",
+   "title": "Ordinul nr. 490/2002 pentru aprobarea Normei sanitare veterinare privind condițiile pentru producerea și comercializarea cărnii tocate și a cărnii preparate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42555",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42555",
+     "sha256": "8180352acca2cda3a96f05c58259828bc0238f8f304655f984f6584898936a80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-491-2002",
+   "path": "ordin/agricultura/2002/491",
+   "short": "Ordin agricultura nr. 491/2002",
+   "title": "Ordinul nr. 491/2002 pentru aprobarea Normei sanitare veterinare stabilind criteriile pentru vaccinurile utilizate contra bolii de Newcastle în contextul programelor de vaccinare de rutina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39652",
+   "versions": [
+    {
+     "from": "2002-11-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39652",
+     "sha256": "62279667d601a5175b2e0e3452002ac0bf749a17ba135c95990fe02c086ec068"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-494-2002",
    "path": "ordin/agricultura/2002/494",
    "short": "Ordin agricultura nr. 494/2002",
@@ -378,6 +2178,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-498-2002",
+   "path": "ordin/agricultura/2002/498",
+   "short": "Ordin agricultura nr. 498/2002",
+   "title": "Ordinul nr. 498/2002 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 144/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea regulilor de prevenire, control și eradicare a unor encefalopatii spongiforme transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39912",
+   "versions": [
+    {
+     "from": "2002-11-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39912",
+     "sha256": "be7eb5e7f04a878edc73088a5fe48d518e9e40ca72d6b82c7a1d197ac16a82b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-50-2002",
+   "path": "ordin/agricultura/2002/50",
+   "short": "Ordin agricultura nr. 50/2002",
+   "title": "Ordinul nr. 50/2002 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 400/2001 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității personalului sanitar veterinar în unitățile prevăzute la art. 30 alin. 3 din Legea sanitară veterinara nr. 60/1974, republicată, cu modificările și completările ulterioare, precum și privind aprobarea tarifelor care se percep pentru activitatea de asistența, inspecție și control sanitar veterinar de stat în unitățile de tăiere a animalelor, inclusiv a păsărilor, de colectare, prelucrare, procesare, depozitare și valorificare a produselor de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33966",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33966",
+     "sha256": "f1b3089a82c0a48defd708fe91878ba9d8792cb76bf4f753635748cc537ee341"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-510-2002",
    "path": "ordin/agricultura/2002/510",
    "short": "Ordin agricultura nr. 510/2002",
@@ -389,6 +2219,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42004",
      "sha256": "c9ed7ac739264e528df812e698bb9159ae561a7a03a2a754896aa603e9437135"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-514-2002",
+   "path": "ordin/agricultura/2002/514",
+   "short": "Ordin agricultura nr. 514/2002",
+   "title": "Ordinul nr. 514/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și certificarea veterinara pentru reintrarea căilor înregistrați pentru curse, competiții și evenimente culturale, după un export temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41335",
+   "versions": [
+    {
+     "from": "2003-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41335",
+     "sha256": "ddf2c4d3af91c037130c701715deacd5b155a52269dbc680cc3a7820769affff"
     }
    ]
   },
@@ -408,6 +2253,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-516-2002",
+   "path": "ordin/agricultura/2002/516",
+   "short": "Ordin agricultura nr. 516/2002",
+   "title": "Ordinul nr. 516/2002 privind aprobarea repartizării pe județe a volumului maxim de masa lemnoasă pe picior, care poate fi recoltat în anul 2003 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situata pe terenuri din afară fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40033",
+   "versions": [
+    {
+     "from": "2002-11-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40033",
+     "sha256": "47b82f5d4754307d6271694f278a99bc0d357459f5fc355d2aea779f33a52c14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-523-2002",
+   "path": "ordin/agricultura/2002/523",
+   "short": "Ordin agricultura nr. 523/2002",
+   "title": "Ordinul nr. 523/2002 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 141/2002 privind aprobarea Programului pentru sprijinirea fermierilor privați în vederea achiziționării de animale de reproducție, creștere și îngrășare, din speciile taurine și porcine, și procurării de utilaje noi specifice activităților din zootehnie, cu acordarea de mijloace financiare din Fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39975",
+   "versions": [
+    {
+     "from": "2002-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39975",
+     "sha256": "3a076d6c9d265d6b0f44865f931ec95c1ac33120855dda84edbb41ab485cc178"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-524-2002",
    "path": "ordin/agricultura/2002/524",
    "short": "Ordin agricultura nr. 524/2002",
@@ -419,6 +2294,51 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42124",
      "sha256": "3c39cc7499930cf562fef4b6cf0119b562f33010304060e118b6769a12593141"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-537-2002",
+   "path": "ordin/agricultura/2002/537",
+   "short": "Ordin agricultura nr. 537/2002",
+   "title": "Ordinul nr. 537/2002 pentru aprobarea prețului mediu al unui metru cub de masa lemnoasă pe picior, pe baza căruia se calculează valoarea despăgubirilor pentru pagubele produse fondului forestier și vegetației forestiere din afară fondului forestier, precum și pentru calculul obligațiilor bănești aferente ocupării terenurilor din fondul forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40105",
+   "versions": [
+    {
+     "from": "2002-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40105",
+     "sha256": "a6fea4088f04a198260846b1c65e3509253873d3eea747d0ef24380b2f5de543"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-539-2002",
+   "path": "ordin/agricultura/2002/539",
+   "short": "Ordin agricultura nr. 539/2002",
+   "title": "Ordinul nr. 539/2002 privind modificarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 234/2001 pentru aprobarea Normei sanitare veterinare privind admiterea la import a produselor de origine animala, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40407",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40407",
+     "sha256": "fd400144ab49d8ddc1e503097dda8c209925cd616c393e09107799ca1f1f3cbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-540-2002",
+   "path": "ordin/agricultura/2002/540",
+   "short": "Ordin agricultura nr. 540/2002",
+   "title": "Ordinul nr. 540/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de tratare a laptelui și produselor lactate destinate consumului uman, provenite din tari sau regiuni unde exista riscul de apariție a febrei aftoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40512",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40512",
+     "sha256": "2415f86473a7886dee14b08f59905362074ba4f14f5ad7a24f33be5af662cee2"
     }
    ]
   },
@@ -438,6 +2358,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-543-2002",
+   "path": "ordin/agricultura/2002/543",
+   "short": "Ordin agricultura nr. 543/2002",
+   "title": "Ordinul nr. 543/2002 pentru aprobarea Normei sanitare veterinare care stabilește criteriile de testare anuală a păsărilor de reproducție pentru boala de Newcastle, în vederea aplicării art. 12 alin. (2) din Norma sanitară veterinara privind condițiile de sănătate a animalelor, care reglementează comerțul României cu statele membre ale Uniunii Europene și importul din tari terțe de păsări și oua de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40589",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40589",
+     "sha256": "c9612c00f2fcd5bd0ca3e78aa43f885e089d1e5aeb36a63fcfaab59321591072"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-544-2002",
+   "path": "ordin/agricultura/2002/544",
+   "short": "Ordin agricultura nr. 544/2002",
+   "title": "Ordinul nr. 544/2002 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate și inspecție veterinara după importul în România din tari terțe de bovine, ovine, caprine, porcine, carne proaspăta sau produse din carne provenite de la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43088",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43088",
+     "sha256": "0c401c8567ede8b873d103ccf3af71d8bc145ac2bb99392bdb46b9079c70bd2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-546-2002",
+   "path": "ordin/agricultura/2002/546",
+   "short": "Ordin agricultura nr. 546/2002",
+   "title": "Ordinul nr. 546/2002 privind aprobarea \"Zonarii soiurilor de viță de vie roditoare din sortimentul de baza al României, recomandate și autorizate pentru cultura în arealele viticole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40416",
+   "versions": [
+    {
+     "from": "2002-12-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40416",
+     "sha256": "18a37ece40d553cc879410c1eb7ccbfbc940208ef605bfb1e8da2fc70559bce2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-550-2002",
+   "path": "ordin/agricultura/2002/550",
+   "short": "Ordin agricultura nr. 550/2002",
+   "title": "Ordinul nr. 550/2002 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul, certificarea calității și comercializarea materialului de înmulțire viticol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40868",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40868",
+     "sha256": "53bf50cfca4bdd4e445ba462039264ad47897cd5119c0b716530d42bd87000fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-553-2002",
+   "path": "ordin/agricultura/2002/553",
+   "short": "Ordin agricultura nr. 553/2002",
+   "title": "Ordinul nr. 553/2002 pentru aprobarea Programului privind sprijinirea producătorilor agricoli din zonele de deal și de munte, precum și a pescarilor profesioniști din zona Deltei Dunării pentru achiziționarea de dotări specifice noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40517",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40517",
+     "sha256": "ab015d8dd014458b013354e511216e72505b50146578789252f816b813e2a400"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-555-2002",
    "path": "ordin/agricultura/2002/555",
    "short": "Ordin agricultura nr. 555/2002",
@@ -449,6 +2444,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42932",
      "sha256": "434c661924946bd5ff40c82ac4adeec5cf83a9636befd463802c07f48643be3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-559-2002",
+   "path": "ordin/agricultura/2002/559",
+   "short": "Ordin agricultura nr. 559/2002",
+   "title": "Ordinul nr. 559/2002 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate publică și de sănătate a animalelor, care reglementează producerea și comercializarea cărnii de iepure și a cărnii de vânat de crescătorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43146",
+   "versions": [
+    {
+     "from": "2003-04-14",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43146",
+     "sha256": "374ac529abeea7d638260d197d0e4259f479764e9e572e0c7abe64d881cd3ee7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-560-2002",
+   "path": "ordin/agricultura/2002/560",
+   "short": "Ordin agricultura nr. 560/2002",
+   "title": "Ordinul nr. 560/2002 privind stabilirea regulilor pentru monitorizările efectuate în scopul recunoașterii unei zone protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40686",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40686",
+     "sha256": "c8db47246fe3c36f0208115bfd086a9e7a27079d0ca97e52bf2797a6c3d8da16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-563-2002",
+   "path": "ordin/agricultura/2002/563",
+   "short": "Ordin agricultura nr. 563/2002",
+   "title": "Ordinul nr. 563/2002 pentru aprobarea Normelor privind producerea și comercializarea ouălor pentru incubație și a puilor de ferma",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40710",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40710",
+     "sha256": "a671fc602abcab39b2a6d63a75adfbec613a32c56f51aace09cd107d10fa1b51"
     }
    ]
   },
@@ -483,6 +2523,726 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-577-2002",
+   "path": "ordin/agricultura/2002/577",
+   "short": "Ordin agricultura nr. 577/2002",
+   "title": "Ordinul nr. 577/2002 pentru modificarea Instrucțiunilor privind autorizarea personalului silvic, avizarea constituirii și autorizarea funcționării structurilor silvice pentru gospodărirea pădurilor proprietate privată și a celor proprietate publică aparținând comunelor, orașelor și municipiilor, aprobate prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 116/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40944",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40944",
+     "sha256": "38f84787c1eaa0f33616f414cf71361ff37c4d6f9972f62239853325dfe941c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-578-2002",
+   "path": "ordin/agricultura/2002/578",
+   "short": "Ordin agricultura nr. 578/2002",
+   "title": "Ordinul nr. 578/2002 pentru aprobarea Normei sanitare veterinare privind criteriile de testare a păsărilor pentru tăiere ce provin dintr-o zona de supraveghere a bolii de Newcastle, în aplicarea art. 5 alin. (3) din Norma sanitară veterinara privind condițiile de sănătate animala care reglementează comerțul României cu statele membre ale Uniunii Europene și importul din tari terțe de carne proaspăta de pasare, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 391/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41020",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41020",
+     "sha256": "8fd11fc272c55b01570190652b6a16ed4d4725c4ddc976aa561391c5bcd1edab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-579-2002",
+   "path": "ordin/agricultura/2002/579",
+   "short": "Ordin agricultura nr. 579/2002",
+   "title": "Ordinul nr. 579/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala și certificarea veterinara pentru importul de ecvidee înregistrate și ecvidee pentru reproducție și producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44341",
+   "versions": [
+    {
+     "from": "2003-06-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44341",
+     "sha256": "b6eb9d6bc50b7b0a352e9184fa830045eeef8453956d692ccc06fab61fd7484a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-580-2002",
+   "path": "ordin/agricultura/2002/580",
+   "short": "Ordin agricultura nr. 580/2002",
+   "title": "Ordinul nr. 580/2002 pentru aprobarea Normei sanitare veterinare privind controalele veterinare și zootehnice aplicabile comerțului României cu statele membre ale Uniunii Europene cu unele animale vii și produse de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43086",
+   "versions": [
+    {
+     "from": "2003-04-26",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43086",
+     "sha256": "ae60cd556e83a02bf31adf06cc5c589af50ceb09a5ed52f3ab88f826827bf610"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-581-2002",
+   "path": "ordin/agricultura/2002/581",
+   "short": "Ordin agricultura nr. 581/2002",
+   "title": "Ordinul nr. 581/2002 pentru aprobarea Normei sanitare veterinare privind criteriile pentru clasificarea țărilor terțe cu privire la influența aviara și boala de Newcastle, în legătură cu activitățile de import de păsări vii și oua de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42942",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42942",
+     "sha256": "b088c5615e3d4c5de6dd1339a7bd1ea1d2a7ee07534ffd39713f795780bc5889"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-582-2002",
+   "path": "ordin/agricultura/2002/582",
+   "short": "Ordin agricultura nr. 582/2002",
+   "title": "Ordinul nr. 582/2002 pentru aprobarea Normei sanitare veterinare de implementare a prevederilor Normei sanitare veterinare privind controalele veterinare referitoare la comerțul României cu statele membre ale Uniunii Europene cu produse animaliere și de origine animala, cu referire la informațiile care trebuie furnizate pentru aceste controale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40946",
+   "versions": [
+    {
+     "from": "2003-01-22",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40946",
+     "sha256": "17958ce5790d318e96dea5358771093bc208d6c4bb32a3540dcf1300e813dd06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-583-2002",
+   "path": "ordin/agricultura/2002/583",
+   "short": "Ordin agricultura nr. 583/2002",
+   "title": "Ordinul nr. 583/2002 privind stabilirea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40948",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40948",
+     "sha256": "5986f395880729eae446ca184705b0b513c6816456fd918bfd24f2bbec0ce754"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-584-2002",
+   "path": "ordin/agricultura/2002/584",
+   "short": "Ordin agricultura nr. 584/2002",
+   "title": "Ordinul nr. 584/2002 pentru aprobarea Normei sanitare veterinare care stabilește regulile detaliate de aplicare a Normei sanitare veterinare privind controalele veterinare și zootehnice aplicabile comerțului României cu statele membre ale Uniunii Europene pentru unele animale vii și produse de origine animala, privitoare la prelevarea probelor în scopul inspecțiilor veterinare la locul de destinație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40907",
+   "versions": [
+    {
+     "from": "2003-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40907",
+     "sha256": "75438a89d71b4a5e7103d8a1c1be8270c9c66e0e041f30ee40048812322de28b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-585-2002",
+   "path": "ordin/agricultura/2002/585",
+   "short": "Ordin agricultura nr. 585/2002",
+   "title": "Ordinul nr. 585/2002 privind necesitatea raportării de către societățile comerciale din sectorul zahărului a unor date statistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40738",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40738",
+     "sha256": "b5957ae1ca99faaac0964856caf5e62928039c58407862980fc5fd0830982893"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-595-2002",
+   "path": "ordin/agricultura/2002/595",
+   "short": "Ordin agricultura nr. 595/2002",
+   "title": "Ordinul nr. 595/2002 privind completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 445/2002 pentru aprobarea listei societăților de asigurare și asigurare-reasigurare care practica asigurări pentru culturile agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii Alimentației și Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40870",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40870",
+     "sha256": "0c940abc9f16831eb99a596bebdd8b757c29c485e0bbf9dd7000641a30c1ce56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-600-2002",
+   "path": "ordin/agricultura/2002/600",
+   "short": "Ordin agricultura nr. 600/2002",
+   "title": "Ordinul nr. 600/2002 pentru modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 141/2002 privind aprobarea Programului pentru sprijinirea fermierilor privați în vederea achiziționării de animale de reproducție, creștere și îngrășare, din speciile taurine și porcine, și procurării de utilaje noi specifice activităților din zootehnie, cu acordarea de mijloace financiare din fondul \"Dezvoltarea agriculturii românești\", cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40898",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40898",
+     "sha256": "5c8ac80445ce2fbf94d90db6b425c1a5d24d8e63566ef99c83062ce224ee2a97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-601-2002",
+   "path": "ordin/agricultura/2002/601",
+   "short": "Ordin agricultura nr. 601/2002",
+   "title": "Ordinul nr. 601/2002 pentru autorizarea Organizației Interprofesionale \"Orz-Bere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40873",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40873",
+     "sha256": "11e9b1e6afc6e9dd5eda83cfd7e1be177bea8eccf6a5cb86dac59f92e7f14f98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-607-2002",
+   "path": "ordin/agricultura/2002/607",
+   "short": "Ordin agricultura nr. 607/2002",
+   "title": "Ordinul nr. 607/2002 pentru aprobarea Normei sanitare veterinare care stabilește regulile detaliate de aplicare a art. 9 alin. (1) din Norma sanitară veterinara privind controalele veterinare și zootehnice aplicabile comerțului României cu statele membre ale Uniunii Europene cu unele animale vii și produse de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41001",
+   "versions": [
+    {
+     "from": "2003-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41001",
+     "sha256": "0c952d5e6738896a761efc26c477e1135c8f7672622d1921d6dcfc162a04d1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-615-2002",
+   "path": "ordin/agricultura/2002/615",
+   "short": "Ordin agricultura nr. 615/2002",
+   "title": "Ordinul nr. 615/2002 pentru aprobarea Normei sanitare veterinare ce stabilește modelul de certificat pentru comerțul României cu statele membre ale Uniunii Europene cu ovule și embrioni provenind de la suine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43333",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43333",
+     "sha256": "6d37113aafacf653b765a24b72195100fb29b6f19a373497bfaf001bec5fa1ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-617-2002",
+   "path": "ordin/agricultura/2002/617",
+   "short": "Ordin agricultura nr. 617/2002",
+   "title": "Ordinul nr. 617/2002 pentru aprobarea Normei sanitare veterinare de stabilire a unui sistem de identificare, în vederea plasării pe piața în Regatul Unit al Marii Britanii și Irlanda, a pisicilor și câinilor care nu au originea în aceste tari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42137",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42137",
+     "sha256": "610eaebda458d5d13894e006aecf39e0b28e711ff0642cdecea04797ad000c26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-618-2002",
+   "path": "ordin/agricultura/2002/618",
+   "short": "Ordin agricultura nr. 618/2002",
+   "title": "Ordinul nr. 618/2002 pentru aprobarea Normei sanitare veterinare referitoare la certificarea sănătății pentru importul din tari terțe de faguri sau stupi de albine, mătci și albine lucrătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42138",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42138",
+     "sha256": "6b87f3f557ca692e8baf8e6f817f1885451711811f8c10189c469ccd79300680"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-619-2002",
+   "path": "ordin/agricultura/2002/619",
+   "short": "Ordin agricultura nr. 619/2002",
+   "title": "Ordinul nr. 619/2002 pentru aprobarea Normei sanitare veterinare privind criteriile pentru programele de eradicare și monitorizare a unor boli la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42139",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42139",
+     "sha256": "24f8d1b938978354f2324a89991abae20f1f5c6dcaed74e64241a78c4f861a08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-620-2002",
+   "path": "ordin/agricultura/2002/620",
+   "short": "Ordin agricultura nr. 620/2002",
+   "title": "Ordinul nr. 620/2002 pentru aprobarea Normei sanitare veterinare care stabilește condițiile de sănătate a animalelor și certificatele sanitare veterinare pentru importul din tari terțe de păsări și oua de incubație, altele decât ratitele și ouăle acestora, precum și măsurile de sănătate animala ce urmează a fi aplicate după un astfel de import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42140",
+   "versions": [
+    {
+     "from": "2003-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42140",
+     "sha256": "8fdc87716c4f8fa68a5e4e3dbeb530a117c2bae4dfbf9b458d18191e23cb7e2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-621-2002",
+   "path": "ordin/agricultura/2002/621",
+   "short": "Ordin agricultura nr. 621/2002",
+   "title": "Ordinul nr. 621/2002 privind extinderea procedurii de înregistrare a producătorilor sau a depozitelor colective ori a centrelor de expediere din zonele de producție, pentru anumite plante neprevăzute în partea A din anexa nr. 5 la Hotărârea Guvernului nr. 1.030/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41859",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41859",
+     "sha256": "0b513a6151c2bf276a94fa99c2b2c9ecab46eaeec4b80b1e3477d08a2e6f128f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-623-2002",
+   "path": "ordin/agricultura/2002/623",
+   "short": "Ordin agricultura nr. 623/2002",
+   "title": "Ordinul nr. 623/2002 privind stabilirea zonelor de cultura a hameiului, recunoscute pentru certificarea denumirii de origine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40955",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40955",
+     "sha256": "7f367acfcfdb20f8714055be109e9a09fb1ad66e0e3c059b2e8aafa4da1c8bde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-624-2002",
+   "path": "ordin/agricultura/2002/624",
+   "short": "Ordin agricultura nr. 624/2002",
+   "title": "Ordinul nr. 624/2002 privind modificarea Programului privind sprijinirea producătorilor agricoli și asociațiilor utilizatorilor de apa pentru irigații în vederea achiziționării de instalații de irigat noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 117/2002, modificat și completat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 229/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40956",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40956",
+     "sha256": "50b164e91a3e128368b8ee11644578a19886e77438ff018b995f7228caef916a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-625-2002",
+   "path": "ordin/agricultura/2002/625",
+   "short": "Ordin agricultura nr. 625/2002",
+   "title": "Ordinul nr. 625/2002 pentru modificarea Programului privind sprijinirea producătorilor agricoli pentru achiziționarea de tractoare, combine de recoltat, mașini și utilaje agricole noi din producția internă, finanțat din fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 221/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40972",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40972",
+     "sha256": "66cfb9fa859c0be9901f9e7afe05f3d08915f0f8573f14d133d29d0581d28a8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-626-2002",
+   "path": "ordin/agricultura/2002/626",
+   "short": "Ordin agricultura nr. 626/2002",
+   "title": "Ordinul nr. 626/2002 pentru modificarea Programului privind sprijinirea producătorilor agricoli pentru achiziționarea de tractoare noi din producția Societății Comerciale \"Tractorul UTB\" - S.A. Brașov, finanțat din fondul \"Dezvoltarea agriculturii românești\", aprobat prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 360/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40973",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40973",
+     "sha256": "7b8aa6e37422e4323a2da04534535fddf37c4bce22065911a958a779539b6e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-629-2002",
+   "path": "ordin/agricultura/2002/629",
+   "short": "Ordin agricultura nr. 629/2002",
+   "title": "Ordinul nr. 629/2002 pentru aprobarea Normei sanitare veterinare care stabilește modelul de certificat de sănătate a animalelor pentru comerțul cu material seminal de la specia ecvidee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42141",
+   "versions": [
+    {
+     "from": "2003-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42141",
+     "sha256": "50594cbe40fc99438aa2c848256e8a24de7952843a7a34642b6ed77ce14d1ce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-630-2002",
+   "path": "ordin/agricultura/2002/630",
+   "short": "Ordin agricultura nr. 630/2002",
+   "title": "Ordinul nr. 630/2002 pentru aprobarea Normei sanitare veterinare referitoare la certificarea veterinara pentru punerea pe piața în Regatul Unit al Marii Britanii și Irlandei de Nord a câinilor și pisicilor ce nu sunt originari din aceasta țara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41207",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41207",
+     "sha256": "6561997a3205a6f7e05200f955559980c57204c08f2dd16648c7d24fabf0b7fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-631-2002",
+   "path": "ordin/agricultura/2002/631",
+   "short": "Ordin agricultura nr. 631/2002",
+   "title": "Ordinul nr. 631/2002 pentru aprobarea Normei sanitare veterinare privind asistența mutuala între autoritatea veterinara centrala a României și autoritățile veterinare centrale ale statelor membre ale Uniunii Europene și cooperarea acestora cu Comisia Europeană, în scopul asigurării aplicării corecte a legislației din domeniul veterinar și zootehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42142",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42142",
+     "sha256": "06755d2a1b98642b913280d13d95964f31db132576a3d25e203c51f3ea401257"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-632-2002",
+   "path": "ordin/agricultura/2002/632",
+   "short": "Ordin agricultura nr. 632/2002",
+   "title": "Ordinul nr. 632/2002 privind controlul bacteriei Ralstonia solanacearum (Smith) Yabuuchi et al.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43681",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43681",
+     "sha256": "03f0c354daf495c0ff70a0d5fa44d59c0b33c3ea55c8c320f723c2771060482a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-635-2002",
+   "path": "ordin/agricultura/2002/635",
+   "short": "Ordin agricultura nr. 635/2002",
+   "title": "Ordinul nr. 635/2002 pentru aprobarea Normelor privind stabilirea termenelor, modalităților și perioadelor de exploatare a masei lemnoase din păduri și din vegetația forestieră din afară fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41759",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41759",
+     "sha256": "26eaec616057174d5bd1acc4f557a9d29d517d428699ac64f95b9dc0ca088f78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-636-2002",
+   "path": "ordin/agricultura/2002/636",
+   "short": "Ordin agricultura nr. 636/2002",
+   "title": "Ordinul nr. 636/2002 privind aprobarea Îndrumărilor tehnice silvice pentru înființarea, îngrijirea și conducerea vegetației forestiere din perdelele forestiere de protecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41860",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41860",
+     "sha256": "c2b92d6cea8d3cb9a84e0b77c440f0c72024dab7c93fa9b913f0ca85d46e1a15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-64-2002",
+   "path": "ordin/agricultura/2002/64",
+   "short": "Ordin agricultura nr. 64/2002",
+   "title": "Ordinul nr. 64/2002 pentru modificarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 234/2001 pentru aprobarea Normei sanitare veterinare privind admiterea la import a produselor de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34059",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34059",
+     "sha256": "d55eed8c1f2fc7ac7a5cf9c4e23a51bc289464b9b8649dac150b1396a9eeb135"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-640-2002",
+   "path": "ordin/agricultura/2002/640",
+   "short": "Ordin agricultura nr. 640/2002",
+   "title": "Ordinul nr. 640/2002 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41423",
+   "versions": [
+    {
+     "from": "2003-01-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41423",
+     "sha256": "98c529b571b0b715f904f6a232c536d169f06870b4bf1dd7586100b6b9fb2930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-641-2002",
+   "path": "ordin/agricultura/2002/641",
+   "short": "Ordin agricultura nr. 641/2002",
+   "title": "Ordinul nr. 641/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala și certificarea veterinara pentru importul din tari terțe de lapte și produse pe bază de lapte ce nu sunt destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42143",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42143",
+     "sha256": "4c392d6e321b21c3ce9a07aa1f2c75f1188b60bc3c88feb5dcb438dc0b96ebd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-642-2002",
+   "path": "ordin/agricultura/2002/642",
+   "short": "Ordin agricultura nr. 642/2002",
+   "title": "Ordinul nr. 642/2002 pentru aprobarea Normei sanitare veterinare cu privire la recunoașterea vaccinurilor antirabice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42144",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42144",
+     "sha256": "8f02c717869a6bb253077c1c3b5e5293b8b976fb2cec5785448d8ac21859a2fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-643-2002",
+   "path": "ordin/agricultura/2002/643",
+   "short": "Ordin agricultura nr. 643/2002",
+   "title": "Ordinul nr. 643/2002 pentru aprobarea Normei sanitare veterinare care stabilește lista țărilor terțe din care se avizează importul în România de păsări vii și oua de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42145",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42145",
+     "sha256": "85321b55c6ffb0e295cdb24f523902032ef3befe63ec29d6466157cb199bf2bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-644-2002",
+   "path": "ordin/agricultura/2002/644",
+   "short": "Ordin agricultura nr. 644/2002",
+   "title": "Ordinul nr. 644/2002 pentru aprobarea Normei sanitare veterinare care stabilește condițiile de sănătate a animalelor și cerințele de certificare pentru importul în România din tari terțe de Crassostrea gigas, în scopul repopulării pentru purificarea apelor naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42203",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42203",
+     "sha256": "36c4158d58c8de1393dd9bd27f79bb6a9ebd77dc9788856cd39b3e7bf54bd5da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-645-2002",
+   "path": "ordin/agricultura/2002/645",
+   "short": "Ordin agricultura nr. 645/2002",
+   "title": "Ordinul nr. 645/2002 pentru aprobarea Normei sanitare veterinare privind frecventa redusă a controalelor fizice ale activităților de transport al unor produse care urmează a fi importate din tari terțe, în baza Normei sanitare veterinare care stabilește principiile care reglementează organizarea controalelor veterinare pentru produsele de origine animala importate din tari terțe în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42205",
+   "versions": [
+    {
+     "from": "2003-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42205",
+     "sha256": "b03b16bb7d4939fb34fd1b8ee25c571351b76597f7eb74b32ec702ac7fcf4d95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-646-2002",
+   "path": "ordin/agricultura/2002/646",
+   "short": "Ordin agricultura nr. 646/2002",
+   "title": "Ordinul nr. 646/2002 pentru aprobarea Normei sanitare veterinare cu privire la colectarea de date referitoare la competițiile de ecvidee la care se referă art. 4 alin. (2) din Norma sanitară veterinara privind comerțul cu ecvidee destinate competițiilor și care stabilește condițiile de participare la acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42426",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42426",
+     "sha256": "693d25363dcad4f297cc62943027b2a02149ec4a06a37b4b8643ebfba2f13d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-647-2002",
+   "path": "ordin/agricultura/2002/647",
+   "short": "Ordin agricultura nr. 647/2002",
+   "title": "Ordinul nr. 647/2002 pentru aprobarea Normei sanitare veterinare ce stabilește cerințele de pedigree și zootehnice pentru importul de material seminal de la anumite animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42206",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42206",
+     "sha256": "7b7ec441f784bcf3df892b9d901627e7d99fac235f2a800a9ce7200986f66f93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-648-2002",
+   "path": "ordin/agricultura/2002/648",
+   "short": "Ordin agricultura nr. 648/2002",
+   "title": "Ordinul nr. 648/2002 privind aprobarea Normei sanitare veterinare stabilind metodele pentru controalele veterinare pentru produsele provenite din tari terțe, destinate introducerii în zonele libere, depozite libere, depozite vamale sau care furnizează mijloace de transport maritim pentru trecerea frontierei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42207",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42207",
+     "sha256": "5108ce8464ba198326d642154a043894447f9ffa0b8be7ab8066760fff7d57ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-65-2002",
+   "path": "ordin/agricultura/2002/65",
+   "short": "Ordin agricultura nr. 65/2002",
+   "title": "Ordinul nr. 65/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate animala ce guvernează mișcarea ecvideelor între statele membre ale Uniunii Europene și România și importul lor din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37042",
+   "versions": [
+    {
+     "from": "2002-07-18",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37042",
+     "sha256": "bb78f428d6d8ea5f15cb1303d6df051aa209396ca32f1b2dbc6141beffa28d53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-655-2002",
+   "path": "ordin/agricultura/2002/655",
+   "short": "Ordin agricultura nr. 655/2002",
+   "title": "Ordinul nr. 655/2002 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 333/2002 pentru aprobarea Normei sanitare veterinare privind producerea, comercializarea și utilizarea cărnii separate mecanic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41051",
+   "versions": [
+    {
+     "from": "2003-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41051",
+     "sha256": "a2a41ba0437fd873c9b56cfcc010f5bbde226638a18dd81d0d285a9d49729746"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-657-2002",
+   "path": "ordin/agricultura/2002/657",
+   "short": "Ordin agricultura nr. 657/2002",
+   "title": "Ordinul nr. 657/2002 pentru aprobarea Programului de ameliorare a efectivelor de porcine din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42065",
+   "versions": [
+    {
+     "from": "2003-03-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42065",
+     "sha256": "938b42caea15a25b591344f2e23cb03160800fc6f0ed9282be82dee188282b9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-658-2002",
+   "path": "ordin/agricultura/2002/658",
+   "short": "Ordin agricultura nr. 658/2002",
+   "title": "Ordinul nr. 658/2002 pentru aprobarea Normelor tehnice de calitate privind ouăle de viermi de mătase comerciale și gogoșile de viermi de mătase crude, din specia Bombyx mori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42074",
+   "versions": [
+    {
+     "from": "2003-03-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42074",
+     "sha256": "5a406198ac8d9f2c0a0940dfc5d5a8c3365eafa66cb90128fd526903d8cff919"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2002",
+   "path": "ordin/agricultura/2002/66",
+   "short": "Ordin agricultura nr. 66/2002",
+   "title": "Ordinul nr. 66/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate și certificarea veterinara pentru comerțul României cu statele membre ale Comunității Europene cu ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35843",
+   "versions": [
+    {
+     "from": "2002-05-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35843",
+     "sha256": "768f27d2a22d5d96ea059078a1d899b44cb8e942a28dccfdf0dbc15b901e34e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2002",
+   "path": "ordin/agricultura/2002/67",
+   "short": "Ordin agricultura nr. 67/2002",
+   "title": "Ordinul nr. 67/2002 pentru aprobarea Normei sanitare veterinare care stabilește prevederi specifice pentru controlul și eradicarea bolii limbii albastre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34693",
+   "versions": [
+    {
+     "from": "2002-04-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34693",
+     "sha256": "a92a7719c71ac686df6c2ea1c35ea216040081bd6efa6c5ed749ac0d1333a522"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-69-2002",
+   "path": "ordin/agricultura/2002/69",
+   "short": "Ordin agricultura nr. 69/2002",
+   "title": "Ordinul nr. 69/2002 privind aprobarea Regulamentului de acreditare a persoanelor fizice care pot conduce și administra exploatații agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34167",
+   "versions": [
+    {
+     "from": "2002-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34167",
+     "sha256": "9be850e89a6e4228d4d69a63c4126be06f0d6c3754c0ff277fa71adcd41c2cc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-72-2002",
+   "path": "ordin/agricultura/2002/72",
+   "short": "Ordin agricultura nr. 72/2002",
+   "title": "Ordinul nr. 72/2002 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 486/2001 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul sănătății animalelor, ale căror cheltuieli sunt suportate de către proprietarii animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34422",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34422",
+     "sha256": "e406fadab919c2de6c37e7cf7b76b1eb681efebafae358dd4b38fd01e0aab4d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-74-2002",
+   "path": "ordin/agricultura/2002/74",
+   "short": "Ordin agricultura nr. 74/2002",
+   "title": "Ordinul nr. 74/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează comerțul României cu statele membre ale Uniunii Europene și importul din tari terțe de embrioni proaspeți și congelați proveniți de la animale domestice din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34748",
+   "versions": [
+    {
+     "from": "2002-04-11",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34748",
+     "sha256": "974a3512c03f7feb1a44c4e69bd065348c860b087010c741a25e48c4fcb7ea00"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-75-2002",
    "path": "ordin/agricultura/2002/75",
    "short": "Ordin agricultura nr. 75/2002",
@@ -494,6 +3254,66 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34198",
      "sha256": "266f1b514a83f4663bf45fbe7f691629df6eac5a3a8cc1eb9bc8ad4d99fca402"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2002",
+   "path": "ordin/agricultura/2002/85",
+   "short": "Ordin agricultura nr. 85/2002",
+   "title": "Ordinul nr. 85/2002 pentru aprobarea Regulamentului privind confecționarea și folosirea ciocanelor silvice pentru control de către personalul silvic din cadrul autorității publice centrale care răspunde de silvicultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34329",
+   "versions": [
+    {
+     "from": "2002-03-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34329",
+     "sha256": "3a70cb360921eba33eecb18e97692aacb469cb475c9fa23360f1dbe3ca430e46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-88-2002",
+   "path": "ordin/agricultura/2002/88",
+   "short": "Ordin agricultura nr. 88/2002",
+   "title": "Ordinul nr. 88/2002 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare pentru producerea, comerțul cu statele membre ale Uniunii Europene și importul din tari terțe al unor alimente pentru animalele de companie și al unor produse comestibile neprelucrate pentru animalele de companie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37540",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37540",
+     "sha256": "70676d097564d68c3d76a0663e52e576fa956095e1219ef8c732ba715031cc25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-95-2002",
+   "path": "ordin/agricultura/2002/95",
+   "short": "Ordin agricultura nr. 95/2002",
+   "title": "Ordinul nr. 95/2002 pentru aprobarea modelului de act adițional la contractele de gestionare a fondurilor de vânătoare, în vederea aplicării prevederilor legale referitoare la modalitatea de achitare a tarifelor de atribuire a dreptului de gestionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35821",
+   "versions": [
+    {
+     "from": "2002-05-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35821",
+     "sha256": "6b7dd493dcf555d95d7559e3f87d05f706c3e6ef3c38371154f96376a0a01cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-97-2002",
+   "path": "ordin/agricultura/2002/97",
+   "short": "Ordin agricultura nr. 97/2002",
+   "title": "Ordinul nr. 97/2002 pentru aprobarea legitimațiilor de inspector al poliției sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34695",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34695",
+     "sha256": "b6dcd088a407e89eff70f5befeef11bcbb3d0a43908e938da6ba89da84d8cef5"
     }
    ]
   },

@@ -3,6 +3,25 @@
 "shard": "ordin/1990",
 "acts": [
 {
+"slug": "ordin-agricultura-15-1990",
+"path": "ordin/agricultura/1990/15",
+"kind": "ordin",
+"year": "1990",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 15/1990 privind prohibiția pescuitului în anul 1990",
+"short": "Ordin agricultura nr. 15/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-04-09",
+"latest": "1990-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21619",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-economie-18-1990",
 "path": "ordin/economie/1990/18",
 "kind": "ordin",

@@ -3,6 +3,25 @@
 "shard": "instructiuni/1996",
 "acts": [
 {
+"slug": "instructiuni-agricultura-6280-1996",
+"path": "instructiuni/agricultura/1996/6280",
+"kind": "instructiuni",
+"year": "1996",
+"number": "6280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 6.280/1996 privind coordonarea, îndrumarea și controlul de către Agenția Naționala pentru Ameliorare și Reproducție în Zootehnie \"Prof. dr. G.K. Constantinescu\" a activităților de ameliorare și reproducție desfășurate de oficiile județene de reproducție și selecție a animalelor",
+"short": "Instrucțiuni agricultura nr. 6280/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-11-29",
+"latest": "1996-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10704",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "instructiuni-cnvm-1-1996",
 "path": "instructiuni/cnvm/1996/1",
 "kind": "instructiuni",

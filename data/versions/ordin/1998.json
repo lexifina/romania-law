@@ -3,6 +3,81 @@
  "shard": "ordin/1998",
  "acts": [
   {
+   "slug": "ordin-agricultura-117-1998",
+   "path": "ordin/agricultura/1998/117",
+   "short": "Ordin agricultura nr. 117/1998",
+   "title": "Ordinul nr. 117/1998 pentru aprobarea Normei sanitare veterinare privind marcarea și certificarea cărnii proaspete destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16664",
+   "versions": [
+    {
+     "from": "1999-02-01",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16664",
+     "sha256": "e94f9513f15520f078ee40ba3480dd7bceb6f697fe3b54c50c3eaf3f0d084f8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-22-1998",
+   "path": "ordin/agricultura/1998/22",
+   "short": "Ordin agricultura nr. 22/1998",
+   "title": "Ordinul nr. 22/1998 privind aprobarea Programului de restructurare a Societății Naționale \"Tutunul Românesc\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14083",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14083",
+     "sha256": "3fe6b580e97ef05f30d0734e7bfe819e6db2c554e933d713ed6a837fa403ff74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-23-1998",
+   "path": "ordin/agricultura/1998/23",
+   "short": "Ordin agricultura nr. 23/1998",
+   "title": "Ordinul nr. 23/1998 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14875",
+   "versions": [
+    {
+     "from": "1998-06-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14875",
+     "sha256": "892d6abf0a481a47737d5a381a87cc995b43b2223e6f7c30f65be6444d8c32ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-30-1998",
+   "path": "ordin/agricultura/1998/30",
+   "short": "Ordin agricultura nr. 30/1998",
+   "title": "Ordinul nr. 30/1998 pentru aprobarea Metodologiei de atestare a persoanelor juridice care au capacitatea de a desfășura activități de îmbunătățiri funciare, în scopul participării acestora la licitațiile pentru adjudecarea studiilor de teren, a proiectării și executării lucrărilor de îmbunătățiri funciare de utilitate publică din domeniul agricol, organizate potrivit legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14919",
+   "versions": [
+    {
+     "from": "1998-06-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14919",
+     "sha256": "8ced3293e9c3f2af8cbedd5da39dbff33b7abd489cc19d346dc344eef63c4437"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-86-1998",
+   "path": "ordin/agricultura/1998/86",
+   "short": "Ordin agricultura nr. 86/1998",
+   "title": "Ordinul nr. 86/1998 pentru aprobarea Listei cuprinzând indicațiile geografice și mențiunile tradiționale, admise spre utilizare în România, pentru vinuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16017",
+   "versions": [
+    {
+     "from": "1998-10-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16017",
+     "sha256": "6ab23b08201dce20beece38e26d14aa85b05bfeefb69def2fe85aa8847f8e9c9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-336-1998",
    "path": "ordin/ancpi/1998/336",
    "short": "Ordin ancpi nr. 336/1998",

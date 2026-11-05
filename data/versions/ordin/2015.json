@@ -3,6 +3,21 @@
  "shard": "ordin/2015",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2015",
+   "path": "ordin/agricultura/2015/10",
+   "short": "Ordin agricultura nr. 10/2015",
+   "title": "Ordinul nr. 10/2015 pentru modificarea Listei laboratoarelor desemnate pentru efectuarea analizelor în cadrul controlului oficial în sectorul vitivinicol, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 272/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164690",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164690",
+     "sha256": "3f443861985919b3507c3cd0cc2bf1e305325d50118129aa0f523b198b535db1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1005-2015",
    "path": "ordin/agricultura/2015/1005",
    "short": "Ordin agricultura nr. 1005/2015",
@@ -14,6 +29,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168331",
      "sha256": "21424b88de944a88d19cc29d0fff3fe6d7650f47cb21f02c226b553582f08343"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1017-2015",
+   "path": "ordin/agricultura/2015/1017",
+   "short": "Ordin agricultura nr. 1017/2015",
+   "title": "Ordinul nr. 1.017/2015 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.253/2013 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167979",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167979",
+     "sha256": "289cf117881b1fac1d9d43e20c5b3e8cb77e2307e7b08ed7d27b18272a8664e2"
     }
    ]
   },
@@ -48,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1412-2015",
+   "path": "ordin/agricultura/2015/1412",
+   "short": "Ordin agricultura nr. 1412/2015",
+   "title": "Ordinul nr. 1.412/2015 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.266/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, certificarea calității și comercializarea cartofului pentru sămânță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168887",
+   "versions": [
+    {
+     "from": "2015-06-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168887",
+     "sha256": "4b850b1cb8ec2959fea03eba12658e123fec1cde4df20a1c445f62017f90591c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1414-2015",
    "path": "ordin/agricultura/2015/1414",
    "short": "Ordin agricultura nr. 1414/2015",
@@ -59,6 +104,66 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168563",
      "sha256": "5f799b9f8fa320ee83fdc999fba2e9f274fa5fc939d2f4af4d5fc47abd4b0cad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1420-2015",
+   "path": "ordin/agricultura/2015/1420",
+   "short": "Ordin agricultura nr. 1420/2015",
+   "title": "Ordinul nr. 1.420/2015 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168791",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168791",
+     "sha256": "d6b795a6591ea7fd73f9f75c7ca8adb8766a26b90c0501efb5d925f846124792"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1468-2015",
+   "path": "ordin/agricultura/2015/1468",
+   "short": "Ordin agricultura nr. 1468/2015",
+   "title": "Ordinul nr. 1.468/2015 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168720",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168720",
+     "sha256": "d3702cfbdd36a437390ea8c20b218d847d47984dfff1d35d70d1a317e16832da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1474-2015",
+   "path": "ordin/agricultura/2015/1474",
+   "short": "Ordin agricultura nr. 1474/2015",
+   "title": "Ordinul nr. 1.474/2015 privind modificarea Ordinului viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.648/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de promovare a vinurilor, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018, și pentru aprobarea modelului de contract privind punerea în aplicare a programelor de promovare a vinurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168884",
+   "versions": [
+    {
+     "from": "2015-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168884",
+     "sha256": "e13cc182984bc3411ccb3cc6737277d837844d40d6b1657e74cbb34baf74a2ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1541-2015",
+   "path": "ordin/agricultura/2015/1541",
+   "short": "Ordin agricultura nr. 1541/2015",
+   "title": "Ordinul nr. 1.541/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168836",
+   "versions": [
+    {
+     "from": "2015-06-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168836",
+     "sha256": "0a577718332c5d2453adc90e53e226dfbf7b248008831625270b5f7c8ea9e7d5"
     }
    ]
   },
@@ -89,6 +194,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169235",
      "sha256": "fc8d1ff9556d719c42997dcf98ebd3d103852d0e40f5ef01a77b2a11ad31b459"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1641-2015",
+   "path": "ordin/agricultura/2015/1641",
+   "short": "Ordin agricultura nr. 1641/2015",
+   "title": "Ordinul nr. 1.641/2015 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.125/2013 pentru aprobarea modelului Cererii de plată pentru măsura 215 - pachet b) - Plăți în favoarea bunăstării păsărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169276",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169276",
+     "sha256": "5f009d5ba43515c2f11755d098e09f8e32a42e63136f54253ac15756733d9d34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1650-2015",
+   "path": "ordin/agricultura/2015/1650",
+   "short": "Ordin agricultura nr. 1650/2015",
+   "title": "Ordinul nr. 1.650/2015 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169983",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169983",
+     "sha256": "89bee0128b7ec3fe8b17be2514bbd485143f5115130198e81d8fb49d79d6d4d9"
     }
    ]
   },
@@ -138,6 +273,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1726-2015",
+   "path": "ordin/agricultura/2015/1726",
+   "short": "Ordin agricultura nr. 1726/2015",
+   "title": "Ordinul nr. 1.726/2015 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 650/2015 privind nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169786",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169786",
+     "sha256": "63ed0d22f4658a5da814cfd92e1c4e5c57a05b3eb188c6a67c92970c4d735880"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1731-2015",
    "path": "ordin/agricultura/2015/1731",
    "short": "Ordin agricultura nr. 1731/2015",
@@ -168,6 +318,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1778-2015",
+   "path": "ordin/agricultura/2015/1778",
+   "short": "Ordin agricultura nr. 1778/2015",
+   "title": "Ordinul nr. 1.778/2015 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170361",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170361",
+     "sha256": "90b96a0872bc0f487566522e1f027c7c7cda2bb6562bc39cf9caf7c4e1238506"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1803-2015",
    "path": "ordin/agricultura/2015/1803",
    "short": "Ordin agricultura nr. 1803/2015",
@@ -194,6 +359,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170696",
      "sha256": "d474c822f6eea5ba61cec661fbb59bdaf92a32720f88932437d43f7e6d03796f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1844-2015",
+   "path": "ordin/agricultura/2015/1844",
+   "short": "Ordin agricultura nr. 1844/2015",
+   "title": "Ordinul nr. 1.844/2015 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 181/2012 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170576",
+   "versions": [
+    {
+     "from": "2015-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170576",
+     "sha256": "ec404c460c9506b31a66aec1ea2432ed5828e546fd4e21aa0946fe5f011ea33f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1874-2015",
+   "path": "ordin/agricultura/2015/1874",
+   "short": "Ordin agricultura nr. 1874/2015",
+   "title": "Ordinul nr. 1.874/2015 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.266/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, certificarea calității și comercializarea cartofului pentru sămânță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170786",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170786",
+     "sha256": "c94d98b654f8fd165831782da06ce48d0b5ceb5fb4dbc2958149fb33a4d872c7"
     }
    ]
   },
@@ -288,6 +483,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2-2015",
+   "path": "ordin/agricultura/2015/2",
+   "short": "Ordin agricultura nr. 2/2015",
+   "title": "Ordinul nr. 2/2015 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164480",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164480",
+     "sha256": "c06af2a043c5ccedcc546377f2320435d8e99aeca497b9fad5a3ec22dda5d564"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-20-2015",
    "path": "ordin/agricultura/2015/20",
    "short": "Ordin agricultura nr. 20/2015",
@@ -299,6 +509,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165162",
      "sha256": "47f3a2b32c78c790137e6ed59605e413c8f94eb6564f570b47c34804c0df75eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2010-2015",
+   "path": "ordin/agricultura/2015/2010",
+   "short": "Ordin agricultura nr. 2010/2015",
+   "title": "Ordinul nr. 2.010/2015 pentru modificarea și completarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018, aprobate prin Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.801/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171640",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171640",
+     "sha256": "8bc0c33ab63f0a8025221e1f65c8dc851ef5908e4d780da5cb74c287b42220b1"
     }
    ]
   },
@@ -333,6 +558,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2088-2015",
+   "path": "ordin/agricultura/2015/2088",
+   "short": "Ordin agricultura nr. 2088/2015",
+   "title": "Ordinul nr. 2.088/2015 pentru modificarea și completarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018, aprobate prin Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.763/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171694",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171694",
+     "sha256": "c85050be71040098bd0abf4aab43f8ce715608c08fe5735464f8d90eb535484f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-2111-2015",
    "path": "ordin/agricultura/2015/2111",
    "short": "Ordin agricultura nr. 2111/2015",
@@ -359,6 +599,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172622",
      "sha256": "7fd1c25a887d44f8e6df62f5f425808d16c1902b261bd907e1f7b8d432bc9d90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2128-2015",
+   "path": "ordin/agricultura/2015/2128",
+   "short": "Ordin agricultura nr. 2128/2015",
+   "title": "Ordinul nr. 2.128/2015 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 650/2015 privind nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171955",
+   "versions": [
+    {
+     "from": "2015-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171955",
+     "sha256": "19a72acaebbca1b15698568f6dfb67ca964982f87bf9114f3d1c8ee5523cdefc"
     }
    ]
   },
@@ -393,6 +648,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2221-2015",
+   "path": "ordin/agricultura/2015/2221",
+   "short": "Ordin agricultura nr. 2221/2015",
+   "title": "Ordinul nr. 2.221/2015 pentru completarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.997/2015 privind aprobarea Manualului de procedură specifică pentru evaluarea, selectarea și contractarea cererilor de finanțare pentru proiecte aferente submăsurilor, măsurilor și schemelor de ajutor de stat sau de minimis aferente Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172575",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172575",
+     "sha256": "8a0d311af35937a011f50d84ca59311cc72692eba111f5cc4ddc768ab42d5a3c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-2236-2015",
    "path": "ordin/agricultura/2015/2236",
    "short": "Ordin agricultura nr. 2236/2015",
@@ -404,6 +674,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172436",
      "sha256": "0fa8ec34ab1c953ef0514c62d2601fb3330e7fdc3a0b9ec997ac5ebbbd792043"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2281-2015",
+   "path": "ordin/agricultura/2015/2281",
+   "short": "Ordin agricultura nr. 2281/2015",
+   "title": "Ordinul nr. 2.281/2015 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.997/2015 privind aprobarea Manualului de procedură specifică pentru evaluarea, selectarea și contractarea cererilor de finanțare pentru proiecte aferente submăsurilor, măsurilor și schemelor de ajutor de stat sau de minimis aferente Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173268",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173268",
+     "sha256": "570e473680daf2f6efb585419bd880d460b61dedddbfccba6c3f329153d4b838"
     }
    ]
   },
@@ -438,6 +723,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2346-2015",
+   "path": "ordin/agricultura/2015/2346",
+   "short": "Ordin agricultura nr. 2346/2015",
+   "title": "Ordinul nr. 2.346/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173185",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173185",
+     "sha256": "a3a9cf22a9d817dd648f690d84a266753e3953410ba1e90aecfb6a3a1ccd04d2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-2373-2015",
    "path": "ordin/agricultura/2015/2373",
    "short": "Ordin agricultura nr. 2373/2015",
@@ -468,6 +768,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2508-2015",
+   "path": "ordin/agricultura/2015/2508",
+   "short": "Ordin agricultura nr. 2508/2015",
+   "title": "Ordinul nr. 2.508/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173944",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173944",
+     "sha256": "1c3b57186a2a9bedec305cf30cc4348d017a994816638f81bd2ae9652a3cc2d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-2828-2015",
    "path": "ordin/agricultura/2015/2828",
    "short": "Ordin agricultura nr. 2828/2015",
@@ -479,6 +794,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174112",
      "sha256": "d9ba152a15c6c1bfcb888198d066e91b6718d3b1bb61ad1b85ac5014cb6c9a6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-287-2015",
+   "path": "ordin/agricultura/2015/287",
+   "short": "Ordin agricultura nr. 287/2015",
+   "title": "Ordinul nr. 287/2015 pentru modificarea anexelor nr. 1 și 2 la Procedurile specifice de implementare și control, precum și formularistica necesară aplicării schemei temporare de ajutor de stat, reglementată de Hotărârea Guvernului nr. 1.108/2014 privind acordarea unui ajutor de stat pentru motorina utilizată în agricultură în trimestrul IV al anului 2014, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 83/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165304",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165304",
+     "sha256": "fe2953e2386bc6b88ad6275bcfd375e31e4c0d6da16b10ad19fdd37818e1565d"
     }
    ]
   },
@@ -509,6 +839,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165634",
      "sha256": "25a567f67142e335569eb48ffc4b8fe6a1a2ab24563cdcaa1194b1a02fd16e30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3432-2015",
+   "path": "ordin/agricultura/2015/3432",
+   "short": "Ordin agricultura nr. 3432/2015",
+   "title": "Ordinul nr. 3.432/2015 pentru modificarea alin. (3) al art. 1 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 143/2010 privind componența și funcționarea Comitetului pentru Organizațiile Interprofesionale pentru Produsele Agroalimentare, precum și procedurile de recunoaștere, monitorizare și control, retragere a recunoașterii, extindere a acordurilor interprofesionale și delegare de atribuții pentru organizațiile interprofesionale pentru produsele agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174839",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174839",
+     "sha256": "249a8acde394e0ec648357025775ac69ca01ff6b200c061b5e1771663f21394b"
     }
    ]
   },
@@ -603,6 +948,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-510-2015",
+   "path": "ordin/agricultura/2015/510",
+   "short": "Ordin agricultura nr. 510/2015",
+   "title": "Ordinul nr. 510/2015 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166375",
+   "versions": [
+    {
+     "from": "2015-03-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166375",
+     "sha256": "92e52a0f48f5fb20d6c75f991ede8814f71c5f6d4edec61bd05a900123a50c80"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-557-2015",
    "path": "ordin/agricultura/2015/557",
    "short": "Ordin agricultura nr. 557/2015",
@@ -663,6 +1023,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-619-2015",
+   "path": "ordin/agricultura/2015/619",
+   "short": "Ordin agricultura nr. 619/2015",
+   "title": "Ordinul nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167010",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 129,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167010",
+     "sha256": "a06eee4a9c2d3cef064ecb0e4bfcdee05584abb04fb9e23beb59c84ed903f641"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-650-2015",
    "path": "ordin/agricultura/2015/650",
    "short": "Ordin agricultura nr. 650/2015",
@@ -678,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-699-2015",
+   "path": "ordin/agricultura/2015/699",
+   "short": "Ordin agricultura nr. 699/2015",
+   "title": "Ordinul nr. 699/2015 pentru completarea anexei nr. 2 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 171/2002 privind aprobarea denumirilor comerciale ale speciilor de pești și alte viețuitoare acvatice care pot fi valorificate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167446",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167446",
+     "sha256": "c1fa6866f25c3f817dbb191ae2fabefe610db7b513d50d97e857a992a7df1278"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-708-2015",
    "path": "ordin/agricultura/2015/708",
    "short": "Ordin agricultura nr. 708/2015",
@@ -689,6 +1079,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167523",
      "sha256": "8a5025bacea96bff660939eb04eef434281230b9def4d0d4981778ffa2cacb1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-711-2015",
+   "path": "ordin/agricultura/2015/711",
+   "short": "Ordin agricultura nr. 711/2015",
+   "title": "Ordinul nr. 711/2015 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167762",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167762",
+     "sha256": "ae1353e93bde267162e2edee30c475e27713d5906f23845a88b771f313f8eb0b"
     }
    ]
   },
@@ -719,6 +1124,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171154",
      "sha256": "af2898b3f95bbf5d95f79c785c9879ce86722aed23745ca2a70705764ff2361d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-737-2015",
+   "path": "ordin/agricultura/2015/737",
+   "short": "Ordin agricultura nr. 737/2015",
+   "title": "Ordinul nr. 737/2015 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167608",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167608",
+     "sha256": "0fb0a90a97954d26662aef666c795981f26a225f316d27e34acf30883e1c7082"
     }
    ]
   },
@@ -3854,6 +4274,201 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171980",
      "sha256": "59e345bdf6f7aa143c0554fe465056ee9f4b9e5eee7795551f29a64ccbf5c222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-123-2015",
+   "path": "ordin/aparare/2015/123",
+   "short": "Ordin aparare nr. 123/2015",
+   "title": "Ordinul nr. 123/2015 pentru aprobarea Normelor metodologice privind încadrarea în condiții deosebite, condiții speciale și alte condiții, specifice personalului militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174493",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174493",
+     "sha256": "1c0502185fbebb484c1465a2a858e5b8f9749cfd229b4d0d96b351d9a483099f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-15-2015",
+   "path": "ordin/aparare/2015/15",
+   "short": "Ordin aparare nr. 15/2015",
+   "title": "Ordinul nr. 15/2015 pentru aprobarea Normelor privind obținerea, menținerea și ridicarea titlurilor de clasificare și specializare pentru personalul aeronautic din Ministerul Apărării Naționale și din alte instituții sau structuri care desfășoară activități aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166967",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166967",
+     "sha256": "2d83434605882fb08960c7c397e41eccb62ae38cc4ec131decf4a242f7706c31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-34-2015",
+   "path": "ordin/aparare/2015/34",
+   "short": "Ordin aparare nr. 34/2015",
+   "title": "Ordinul nr. 34/2015 privind avansarea onorifică a veteranilor de război, cu prilejul zilei de 9 Mai - Ziua Victoriei Coaliției Națiunilor Unite în cel de-al Doilea Război Mondial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167688",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167688",
+     "sha256": "495ce44e86840d375ebbe9ec964bf25e89412a0f3d52117ea48ca216aa199879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-53-2015",
+   "path": "ordin/aparare/2015/53",
+   "short": "Ordin aparare nr. 53/2015",
+   "title": "Ordinul nr. 53/2015 pentru aprobarea Normelor de apărare împotriva incendiilor în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168854",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168854",
+     "sha256": "2afb1b8067b8695e1e7dce8311d0d74a6988c01dcb3e3fc16e3739c2ee1c7b43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-59-2015",
+   "path": "ordin/aparare/2015/59",
+   "short": "Ordin aparare nr. 59/2015",
+   "title": "Ordinul nr. 59/2015 pentru aprobarea Normelor privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313980",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313980",
+     "sha256": "24c4ba20b565aa412b87704e4ca64b552a4357677dacae249230e06f2d2f2bb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-63-2015",
+   "path": "ordin/aparare/2015/63",
+   "short": "Ordin aparare nr. 63/2015",
+   "title": "Ordinul nr. 63/2015 privind conferirea Semnului onorific În Serviciul Patriei unui subofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169788",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169788",
+     "sha256": "4f5a27bf96f27da63fb0fc829eaff3f43bb1cbe691e0233fff3ea040e7e98637"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-65-2015",
+   "path": "ordin/aparare/2015/65",
+   "short": "Ordin aparare nr. 65/2015",
+   "title": "Ordinul nr. 65/2015 privind conferirea Semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169763",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169763",
+     "sha256": "3ea881fde8ac6c9dca92f5ec3324c7b333bced620f438f5da4ffcdffa2f2b716"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-68-2015",
+   "path": "ordin/aparare/2015/68",
+   "short": "Ordin aparare nr. 68/2015",
+   "title": "Ordinul nr. 68/2015 pentru aprobarea Normelor privind ocuparea prin concurs ori examen a unui post vacant sau temporar vacant de personal civil contractual în Ministerul Apărării Naționale, precum și a Procedurii de organizare și desfășurare a examenului de promovare a personalului civil contractual în grade ori trepte profesionale imediat superioare sau într-o funcție cu un nivel de studii superior în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170020",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170020",
+     "sha256": "45e39711bba2b36611f81aa9b94d7372263f905d98ee4ce7e6169c0332e4e879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-69-2015",
+   "path": "ordin/aparare/2015/69",
+   "short": "Ordin aparare nr. 69/2015",
+   "title": "Ordinul nr. 69/2015 pentru aprobarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170396",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170396",
+     "sha256": "87b8c3b8fce77a178331db4234af03c7dc9ea207912487a74c07e1f3d34ee096"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-75-2015",
+   "path": "ordin/aparare/2015/75",
+   "short": "Ordin aparare nr. 75/2015",
+   "title": "Ordinul nr. 75/2015 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171033",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171033",
+     "sha256": "8d850e3badac646c723a051ac45bdfeb43263ab308f9e6294672aef12f31804d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-76-2015",
+   "path": "ordin/aparare/2015/76",
+   "short": "Ordin aparare nr. 76/2015",
+   "title": "Ordinul nr. 76/2015 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171032",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171032",
+     "sha256": "72b4d0ab6b4b93f709b022d8868e2668d8ba89d3dac0b7ed9533bb31d1be14bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-82-2015",
+   "path": "ordin/aparare/2015/82",
+   "short": "Ordin aparare nr. 82/2015",
+   "title": "Ordinul nr. 82/2015 pentru aprobarea Instrucțiunilor privind modalitățile tehnice de întocmire și transmitere a documentelor și datelor necesare stabilirii drepturilor de pensie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171089",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171089",
+     "sha256": "2047ba115c6eb73d09d23670d7154775e753bf57903824e9760fe851f24e2523"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-88-2015",
+   "path": "ordin/aparare/2015/88",
+   "short": "Ordin aparare nr. 88/2015",
+   "title": "Ordinul nr. 88/2015 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171305",
+   "versions": [
+    {
+     "from": "2015-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171305",
+     "sha256": "07827470bf2491cdd43f46b374483b355c03ca18d3eb3030147cbf7a0604282b"
     }
    ]
   },

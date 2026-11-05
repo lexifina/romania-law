@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-212-2019",
+   "path": "ordin/agricultura/2019/212",
+   "short": "Ordin agricultura nr. 212/2019",
+   "title": "Ordinul nr. 212/2019 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212228",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212228",
+     "sha256": "611b8c4692e424cef974abef7d0bada4ab36ad06aa1124fa6e08b141f6dedfb9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-224-2019",
    "path": "ordin/agricultura/2019/224",
    "short": "Ordin agricultura nr. 224/2019",
@@ -74,6 +89,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213911",
      "sha256": "4d6c8e91ee7293db308f076a8c90b9221f621dbf59d93ed7769856e5944f682f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2019",
+   "path": "ordin/agricultura/2019/252",
+   "short": "Ordin agricultura nr. 252/2019",
+   "title": "Ordinul nr. 252/2019 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 60/2017 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului recreativ în habitatele piscicole naturale, cu excepția Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212604",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212604",
+     "sha256": "639114b758568266f109805788421ce3562bcd63c2959e16584591e02d8580da"
     }
    ]
   },
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-271-2019",
+   "path": "ordin/agricultura/2019/271",
+   "short": "Ordin agricultura nr. 271/2019",
+   "title": "Ordinul nr. 271/2019 privind modificarea anexei nr. 4 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 188/2017 pentru aprobarea Ghidurilor solicitantului aferente măsurilor I.6, I.23, II.2, IV.4 din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214969",
+   "versions": [
+    {
+     "from": "2019-06-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214969",
+     "sha256": "d4c1ad92976a6d75d9d3065ac9504f57e6ab9feabd13254a741d594ab9b9a26b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-276-2019",
    "path": "ordin/agricultura/2019/276",
    "short": "Ordin agricultura nr. 276/2019",
@@ -149,6 +194,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213256",
      "sha256": "79834146e46444a15f7a50acb2cb9114895448344cdb32e503f4c036b0773b6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-281-2019",
+   "path": "ordin/agricultura/2019/281",
+   "short": "Ordin agricultura nr. 281/2019",
+   "title": "Ordinul nr. 281/2019 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 266/2017 pentru aprobarea Procedurilor de control și verificare în vederea autorizării plantațiilor producătoare de struguri destinați obținerii de vinuri cu denumire de origine controlată, indicație geografică sau varietale, autorizării producătorilor de vinuri cu denumire de origine controlată, indicație geografică sau varietale, certificării vinurilor cu denumire de origine controlată, indicație geografică și a vinurilor varietale și stabilirii însemnului de certificare a calității vinurilor cu denumire de origine controlată, indicație geografică și a vinurilor varietale îmbuteliate, precum și pentru aprobarea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu denumire de origine controlată, indicație geografică sau varietale și a cuantumului taxei de certificare a vinurilor cu denumire de origine controlată, indicație geografică sau varietale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213247",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213247",
+     "sha256": "4d61861859a6cf04f01ebbbf492cc4f989aa8fbeed25a3b55ac632ed872f0ab5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-294-2019",
+   "path": "ordin/agricultura/2019/294",
+   "short": "Ordin agricultura nr. 294/2019",
+   "title": "Ordinul nr. 294/2019 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.523/2018 pentru aprobarea sistemului de sancțiuni aplicabil cererilor de plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", măsurii 15 \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", submăsurii 15.1 \"Plăți pentru angajamente de silvomediu\" din cadrul Programului național de dezvoltare rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213925",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213925",
+     "sha256": "b3a62ad00c3121cffe4d3cc7bd650945594a18c8622d58e17efb9a2fe6f76d6a"
     }
    ]
   },
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-298-2019",
+   "path": "ordin/agricultura/2019/298",
+   "short": "Ordin agricultura nr. 298/2019",
+   "title": "Ordinul nr. 298/2019 privind modificarea anexei nr. 4 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.404/2018 pentru aprobarea modelului documentelor cuprinse în Hotărârea Guvernului nr. 748/2018 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213915",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213915",
+     "sha256": "1936f6a9a5ea34dc30467df8dc672deab65d1a82051f30ba49079bd53c79bdd9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-310-2019",
    "path": "ordin/agricultura/2019/310",
    "short": "Ordin agricultura nr. 310/2019",
@@ -179,6 +269,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214737",
      "sha256": "14ddb58fd82d2dfd26afb4ed0cc1b13a7fdedb3576a941773bdf8ee4152271ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-328-2019",
+   "path": "ordin/agricultura/2019/328",
+   "short": "Ordin agricultura nr. 328/2019",
+   "title": "Ordinul nr. 328/2019 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2017 privind aprobarea Procedurii de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative \"produs montan\" și de verificare a respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214780",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214780",
+     "sha256": "adfc8f02de59b760e250cc7699fde24b831709befaf273c9383a6aa954709c5b"
     }
    ]
   },
@@ -213,6 +318,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-357-2019",
+   "path": "ordin/agricultura/2019/357",
+   "short": "Ordin agricultura nr. 357/2019",
+   "title": "Ordinul nr. 357/2019 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.531/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215458",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215458",
+     "sha256": "48bdd56fcb20489e3025b3467b67bee0560f4cdac61359fa31218f47d6283f1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-365-2019",
+   "path": "ordin/agricultura/2019/365",
+   "short": "Ordin agricultura nr. 365/2019",
+   "title": "Ordinul nr. 365/2019 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215628",
+   "versions": [
+    {
+     "from": "2019-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215628",
+     "sha256": "e458a04049be59baf5cf27a93ae50c08b1dadabefc94f2694a91724fa9fbf959"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-369-2019",
    "path": "ordin/agricultura/2019/369",
    "short": "Ordin agricultura nr. 369/2019",
@@ -224,6 +359,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215686",
      "sha256": "bfd5290df7ad433bf272904bad7e5cb082028de2f828efd59986bf893edf7e39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-375-2019",
+   "path": "ordin/agricultura/2019/375",
+   "short": "Ordin agricultura nr. 375/2019",
+   "title": "Ordinul nr. 375/2019 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216626",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216626",
+     "sha256": "19582bcfb48011156886dff4d08652e6fc56bd1f00ac02064cad43eb6fcfc2e3"
     }
    ]
   },
@@ -258,6 +408,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-406-2019",
+   "path": "ordin/agricultura/2019/406",
+   "short": "Ordin agricultura nr. 406/2019",
+   "title": "Ordinul nr. 406/2019 privind modificarea și completarea anexelor la Ordinul ministrului agriculturii și dezvoltării rurale nr. 83/2018 pentru aprobarea Procedurii privind scoaterea definitivă sau temporară din circuitul agricol a terenurilor situate în extravilanul localităților, precum și pentru aprobarea Procedurii privind restituirea tarifului achitat la Fondul de ameliorare a fondului funciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216573",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216573",
+     "sha256": "ca8d61754de92a6318b8ad4ab32d5769a1711bdf224a449412f10a5d74a3df08"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-418-2019",
    "path": "ordin/agricultura/2019/418",
    "short": "Ordin agricultura nr. 418/2019",
@@ -269,6 +434,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217150",
      "sha256": "bdf6edadde5bd85c8b5c81394c3749b4bc511eeb9d9dbe748f8a0fce337eb0af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-440-2019",
+   "path": "ordin/agricultura/2019/440",
+   "short": "Ordin agricultura nr. 440/2019",
+   "title": "Ordinul nr. 440/2019 privind modificarea anexei nr. 16 la Procedurile specifice de implementare și control, precum și formularistica necesară aplicării schemei de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.727/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216911",
+   "versions": [
+    {
+     "from": "2019-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216911",
+     "sha256": "5731eac6019b292b9bdf57dfc2bca35ce04648908db2b5a09d3b35131e3d48ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-443-2019",
+   "path": "ordin/agricultura/2019/443",
+   "short": "Ordin agricultura nr. 443/2019",
+   "title": "Ordinul nr. 443/2019 pentru modificarea și completarea Regulamentului privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 34/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217229",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217229",
+     "sha256": "58517d2475841e8fc0a0635b5c7c44823a0b3ae80c1334c5b77b119281276e96"
     }
    ]
   },
@@ -333,6 +528,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-49-2019",
+   "path": "ordin/agricultura/2019/49",
+   "short": "Ordin agricultura nr. 49/2019",
+   "title": "Ordinul nr. 49/2019 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2017 privind aprobarea Procedurii de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative \"produs montan\" și de verificare a respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210544",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210544",
+     "sha256": "2163d502aba0d4fa03b14552ff7b2f649f725516a9b67362532366da0e8de339"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-497-2019",
+   "path": "ordin/agricultura/2019/497",
+   "short": "Ordin agricultura nr. 497/2019",
+   "title": "Ordinul nr. 497/2019 privind modificarea anexei nr. 3 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 188/2017 pentru aprobarea Ghidurilor solicitantului aferente măsurilor I.6, I.23, II.2, IV.4 din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218961",
+   "versions": [
+    {
+     "from": "2019-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218961",
+     "sha256": "c980736251b8f9174af9016574fc677c85096cca568445794d02df14ddac2f24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-498-2019",
+   "path": "ordin/agricultura/2019/498",
+   "short": "Ordin agricultura nr. 498/2019",
+   "title": "Ordinul nr. 498/2019 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 406/2017 pentru aprobarea Normelor privind recunoașterea organizațiilor de producători și a altor forme asociative din sectorul fructelor și legumelor și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218706",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218706",
+     "sha256": "788ceb7ef90a3679f40c625de72b1b816f7e28ea298ece17702e011fb5e2140b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-50-2019",
    "path": "ordin/agricultura/2019/50",
    "short": "Ordin agricultura nr. 50/2019",
@@ -344,6 +584,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210012",
      "sha256": "ba1bc42e3462d64655faad4087a54869affbe8e6879f26f0a44fb2b84d1cb33c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-500-2019",
+   "path": "ordin/agricultura/2019/500",
+   "short": "Ordin agricultura nr. 500/2019",
+   "title": "Ordinul nr. 500/2019 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 816/2016 privind aprobarea Listei detaliate a cheltuielilor eligibile pentru operațiunile finanțate, inclusiv cheltuielile de personal ale Autorității de management, în cadrul Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218852",
+   "versions": [
+    {
+     "from": "2019-10-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218852",
+     "sha256": "ca79617094f147e3059e0229be0fb888e4ab7a4b3ced9c2e6587dcae28b988d2"
     }
    ]
   },
@@ -363,6 +618,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-503-2019",
+   "path": "ordin/agricultura/2019/503",
+   "short": "Ordin agricultura nr. 503/2019",
+   "title": "Ordinul nr. 503/2019 pentru modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 341/2019 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2019-2022, \"Agricultură și Dezvoltare Rurală - ADER 2022\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218793",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218793",
+     "sha256": "15ea856664bf8627ee00f8d6f853e86d669dfb90397256fa44b38db7664102ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-508-2019",
    "path": "ordin/agricultura/2019/508",
    "short": "Ordin agricultura nr. 508/2019",
@@ -374,6 +644,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219145",
      "sha256": "61817cf0383c8fc316eae3f8258d88e92173e8b0a89ff77daf9d393968c1668d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-527-2019",
+   "path": "ordin/agricultura/2019/527",
+   "short": "Ordin agricultura nr. 527/2019",
+   "title": "Ordinul nr. 527/2019 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 999/2016 privind aprobarea sistemului de sancțiuni administrative pentru ecocondiționalitate aplicabil schemelor și măsurilor de sprijin pentru fermieri începând cu anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219439",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219439",
+     "sha256": "168214458790b004c505b7268e20c08b3c520db63ad959646fa2f425a4f6f373"
     }
    ]
   },
@@ -468,6 +753,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-577-2019",
+   "path": "ordin/agricultura/2019/577",
+   "short": "Ordin agricultura nr. 577/2019",
+   "title": "Ordinul nr. 577/2019 pentru modificarea și completarea Normelor metodologice privind atestarea persoanelor fizice și juridice care își manifestă intenția de a desfășura, pe terenuri din domeniul agricol, activități de îmbunătățiri funciare, studii, proiectare, executare de lucrări și servicii și/sau de fabricare a instalațiilor de irigat, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 182/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221718",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221718",
+     "sha256": "fa443be04f82de237d32dbd612292d904b6d071c0112de145a6cc0ab6dfa2e9c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-58-2019",
    "path": "ordin/agricultura/2019/58",
    "short": "Ordin agricultura nr. 58/2019",
@@ -479,6 +779,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210432",
      "sha256": "5cd3999440ae7a3a4c1e8d2d07073397d1517efb0b0dfed278e9ccbc8991baf0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-585-2019",
+   "path": "ordin/agricultura/2019/585",
+   "short": "Ordin agricultura nr. 585/2019",
+   "title": "Ordinul nr. 585/2019 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2017 privind aprobarea Procedurii de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative „produs montan” și de verificare a respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221745",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221745",
+     "sha256": "5db4e433409aaf3eb1aa2c507848cbe44e7f1734da3214e11f307e2b73702ea0"
     }
    ]
   },
@@ -509,6 +824,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210330",
      "sha256": "bc027260016760d3168e5cd71676543d7b1de89899bc71c2e2e7f3b3949bb8fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2019",
+   "path": "ordin/agricultura/2019/66",
+   "short": "Ordin agricultura nr. 66/2019",
+   "title": "Ordinul nr. 66/2019 privind modificarea punctului 9 subpunctul 9.2 - Derularea și verificarea procedurii de achiziții din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 167/2017 pentru aprobarea Ghidului solicitantului aferent măsurii II.3 \"Investiții productive în acvacultură - eficiența resurselor, reducerea utilizării de apă și substanțe chimice, sisteme de recirculare pentru reducerea la minimum a utilizării apei\" din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210919",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210919",
+     "sha256": "9fd37ca1415db9647199116a52bbf20a28888099247b9a654bfc1d106ddc8992"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-68-2019",
+   "path": "ordin/agricultura/2019/68",
+   "short": "Ordin agricultura nr. 68/2019",
+   "title": "Ordinul nr. 68/2019 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.343/2018 privind aprobarea valorii tarifului datorat pentru scoaterea definitivă sau temporară din circuitul agricol a terenurilor aflate în extravilan, precum și pentru introducerea terenurilor agricole în intravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210397",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210397",
+     "sha256": "8bf3d34b1eb04c6e28536052814d8a7d135ce9172c28edc9a31c720882523b40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-90-2019",
+   "path": "ordin/agricultura/2019/90",
+   "short": "Ordin agricultura nr. 90/2019",
+   "title": "Ordinul nr. 90/2019 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210974",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210974",
+     "sha256": "e7fe4e2cf788bdb0d6600cb62fdc6bc984661335327294b21a61617cabe7f8a7"
     }
    ]
   },
@@ -3528,6 +3888,321 @@
    ]
   },
   {
+   "slug": "ordin-aparare-100-2019",
+   "path": "ordin/aparare/2019/100",
+   "short": "Ordin aparare nr. 100/2019",
+   "title": "Ordinul nr. 100/2019 pentru aprobarea Normelor metodologice privind sistemul de control intern managerial în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214799",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214799",
+     "sha256": "51d53b69cace345a099bb622d8044797354df3dd812b43699b30b6171a9b9bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-132-2019",
+   "path": "ordin/aparare/2019/132",
+   "short": "Ordin aparare nr. 132/2019",
+   "title": "Ordinul nr. 132/2019 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216033",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216033",
+     "sha256": "52c11172021141c5acbd5d681b4402a85f04b14a5ea5b6a27765a19ce18f0b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-16-2019",
+   "path": "ordin/aparare/2019/16",
+   "short": "Ordin aparare nr. 16/2019",
+   "title": "Ordinul nr. 16/2019 ORDIN nr. S.M.Ap./S-16 din 15 martie 2019 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212282",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212282",
+     "sha256": "deb4776c8145ea91b5c51a3c9fb5f7b8337504cecc514b3b65a598c00d679749"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-161-2019",
+   "path": "ordin/aparare/2019/161",
+   "short": "Ordin aparare nr. 161/2019",
+   "title": "Ordinul nr. 161/2019 pentru aprobarea Normelor privind încheierea contractelor în vederea exercitării profesiei de cadru militar în activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217275",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217275",
+     "sha256": "e7de70e81cd13e19ddc0b744b52e61c696bc88b28d7683726c9676995f0f305b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-173-2019",
+   "path": "ordin/aparare/2019/173",
+   "short": "Ordin aparare nr. 173/2019",
+   "title": "Ordinul nr. 173/2019 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217908",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217908",
+     "sha256": "44a1a1923cbc1537f3200a957ed5f84030630aef6a3d60fbbeb480bfcc6826bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-174-2019",
+   "path": "ordin/aparare/2019/174",
+   "short": "Ordin aparare nr. 174/2019",
+   "title": "Ordinul nr. 174/2019 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217909",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217909",
+     "sha256": "d01136ceaac786fe17ce5935cc0be0380379756cb11b4206e81e76a5a04412d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-186-2019",
+   "path": "ordin/aparare/2019/186",
+   "short": "Ordin aparare nr. 186/2019",
+   "title": "Ordinul nr. 186/2019 pentru aprobarea Instrucțiunilor privind asigurarea sprijinului națiunii gazdă, de către România, forțelor armate străine care intră, staționează, desfășoară operațiuni sau tranzitează teritoriul național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218598",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218598",
+     "sha256": "8d416d8649652a3fd96a4676a966aa044b35c3c9f898b3c5da2c3ab16bef0be9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-191-2019",
+   "path": "ordin/aparare/2019/191",
+   "short": "Ordin aparare nr. 191/2019",
+   "title": "Ordinul nr. 191/2019 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea activității de securitate și sănătate în muncă în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219561",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 201,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219561",
+     "sha256": "23f796ad1abeb74c9927bd5870bdd5764a900c6aa7a98762381f167f744cf435"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-193-2019",
+   "path": "ordin/aparare/2019/193",
+   "short": "Ordin aparare nr. 193/2019",
+   "title": "Ordinul nr. 193/2019 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218817",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218817",
+     "sha256": "7c639ed95e32be7c4fdc5e97bbd047477ce2749da5dd5a047ab7d9f13c534d71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-194-2019",
+   "path": "ordin/aparare/2019/194",
+   "short": "Ordin aparare nr. 194/2019",
+   "title": "Ordinul nr. 194/2019 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218818",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218818",
+     "sha256": "0af7c43ca7a21babb3447ed83542a51744c1efbacd101ecf97ae1b20bc86e4e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-212-2019",
+   "path": "ordin/aparare/2019/212",
+   "short": "Ordin aparare nr. 212/2019",
+   "title": "Ordinul nr. 212/2019 pentru aprobarea Normelor metodologice privind încadrarea în condiții deosebite, condiții speciale și alte condiții, specifice personalului militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219878",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219878",
+     "sha256": "f180fc1809534d6e2f0a6159c9834c96acce6b98d465a98e9c1dc7fd8d5f896e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-217-2019",
+   "path": "ordin/aparare/2019/217",
+   "short": "Ordin aparare nr. 217/2019",
+   "title": "Ordinul nr. 217/2019 pentru aprobarea condițiilor și criteriilor de recrutare, precum și a instrucțiunilor privind organizarea și funcționarea sistemului de recrutare, selecție și formare profesională inițială a candidaților la profesia militară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220749",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220749",
+     "sha256": "308927c5a0e92eb6a390a7d91c91771223185b686448d7a7914231cb91e02b56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-223-2019",
+   "path": "ordin/aparare/2019/223",
+   "short": "Ordin aparare nr. 223/2019",
+   "title": "Ordinul nr. 223/2019 privind pregătirea și executarea misiunilor în străinătate de către personalul Ministerului Apărării Naționale în baza Legii nr. 46/2018 pentru realizarea \"Capabilității de sprijin de foc indirect\", aferentă programului de înzestrare \"Sistem lansator multiplu de rachete cu bătaie mare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220747",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220747",
+     "sha256": "5b5c010acd79aedb9a47360a60c9515a9ab5ccb6dcab963d9f253887bffaf021"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-238-2019",
+   "path": "ordin/aparare/2019/238",
+   "short": "Ordin aparare nr. 238/2019",
+   "title": "Ordinul nr. 238/2019 pentru stabilirea criteriilor sectoriale și pragurilor critice aferente sectorului ICN - infrastructură critică națională - \"Sănătate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221950",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221950",
+     "sha256": "60db05338245306a36e0b67a5b55aedb9860e1707941cbfe5113a1d1349ce6cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-46-2019",
+   "path": "ordin/aparare/2019/46",
+   "short": "Ordin aparare nr. 46/2019",
+   "title": "Ordinul nr. 46/2019 privind înființarea, organizarea și funcționarea Consiliului consultativ al militarilor în rezervă și în retragere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212265",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212265",
+     "sha256": "0b6ceba76bc922e100ee90d55290e201e899a2e6a5987aa134430825f80f3a5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-67-2019",
+   "path": "ordin/aparare/2019/67",
+   "short": "Ordin aparare nr. 67/2019",
+   "title": "Ordinul nr. 67/2019 privind conferirea Semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213275",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213275",
+     "sha256": "845de5e9468684a3f598b86ef12cbc3c58ba4097a22315f86f2036620312459e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-68-2019",
+   "path": "ordin/aparare/2019/68",
+   "short": "Ordin aparare nr. 68/2019",
+   "title": "Ordinul nr. 68/2019 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213276",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213276",
+     "sha256": "03df0f3345c500ad06fe985c2ee97cbddee35ccf04e8cf05ae8941daab5bc5ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-69-2019",
+   "path": "ordin/aparare/2019/69",
+   "short": "Ordin aparare nr. 69/2019",
+   "title": "Ordinul nr. 69/2019 privind avansarea onorifică în grad a veteranilor de război, cu prilejul Zilei Veteranilor de Război - 29 aprilie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213324",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213324",
+     "sha256": "c2f3777dee35d0e4e0d1326b7d7e9aa586a3e126b403c906bc97f5d08cdb9a24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-73-2019",
+   "path": "ordin/aparare/2019/73",
+   "short": "Ordin aparare nr. 73/2019",
+   "title": "Ordinul nr. 73/2019 ORDIN nr. S.M.Ap/S-73 din 26 august 2019 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217988",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217988",
+     "sha256": "1316fceae3bfc37f802e33556b1137278d32c0bb83c5535ea57e99894038161e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-8-2019",
+   "path": "ordin/aparare/2019/8",
+   "short": "Ordin aparare nr. 8/2019",
+   "title": "Ordinul nr. 8/2019 privind pregătirea și executarea misiunilor în străinătate de către personalul Ministerului Apărării Naționale în baza Legii nr. 222/2017 pentru realizarea \"Capabilității de apărare aeriană cu baza la sol\", aferentă programului de înzestrare esențial \"Sistem de rachete sol-aer cu bătaie mare (HSAM)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210329",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210329",
+     "sha256": "17af27c058a160c1a76b1145fad0ea0387e3417ba921cdd9d46413133b0d165f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-83-2019",
+   "path": "ordin/aparare/2019/83",
+   "short": "Ordin aparare nr. 83/2019",
+   "title": "Ordinul nr. 83/2019 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213849",
+   "versions": [
+    {
+     "from": "2019-05-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213849",
+     "sha256": "5b55039568de30bffdaef9a1cf2eb06b1792801bcce936e084bfbf48426e2287"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aspaas-201-2019",
    "path": "ordin/aspaas/2019/201",
    "short": "Ordin aspaas nr. 201/2019",
@@ -5924,6 +6599,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221936",
      "sha256": "23472f8bcb20b7319078a5e342191d6acac87dcc9e617246b59de683fbe35e42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-693-2019",
+   "path": "ordin/externe/2019/693",
+   "short": "Ordin externe nr. 693/2019",
+   "title": "Ordinul nr. 693/2019 privind constatarea lipsei de efecte juridice de la data semnării Aranjamentului dintre Ministerul Apărării Naționale din România și Comandamentul Marinei SUA din Europa privind sprijinul logistic furnizat prin Programul de susținere a națiunii gazdă (HNP) în România, semnat la Napoli la 18 mai 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215962",
+   "versions": [
+    {
+     "from": "2019-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215962",
+     "sha256": "d119d4b2808153b17e6d5dd58334859dda0b22f2a4aaba1639770f61c019e228"
     }
    ]
   },

@@ -3,6 +3,21 @@
  "shard": "ordin/2010",
  "acts": [
   {
+   "slug": "ordin-agricultura-104-2010",
+   "path": "ordin/agricultura/2010/104",
+   "short": "Ordin agricultura nr. 104/2010",
+   "title": "Ordinul nr. 104/2010 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118461",
+   "versions": [
+    {
+     "from": "2010-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118461",
+     "sha256": "0cd50c4c603165150325548d5df80197cbcd86db47b4973ce264e3efda113b84"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-107-2010",
    "path": "ordin/agricultura/2010/107",
    "short": "Ordin agricultura nr. 107/2010",
@@ -14,6 +29,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119515",
      "sha256": "c3de0c4247506c881fc5b3abb82d97584c40262ca05b8739054cd5fab9d02a91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-109-2010",
+   "path": "ordin/agricultura/2010/109",
+   "short": "Ordin agricultura nr. 109/2010",
+   "title": "Ordinul nr. 109/2010 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.366/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul și certificarea calității și/sau comercializarea semințelor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118779",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118779",
+     "sha256": "df30d15a8412beaef9936b921c1a3793157ed3c783028e3f405b005d720b9ab5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-113-2010",
+   "path": "ordin/agricultura/2010/113",
+   "short": "Ordin agricultura nr. 113/2010",
+   "title": "Ordinul nr. 113/2010 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 74/2009 privind gestionarea fondurilor comunitare nerambursabile provenite din Fondul european de garantare agricolă, Fondul european agricol de dezvoltare rurală și Fondul european pentru pescuit și a fondurilor alocate de la bugetul de stat, privind gestionarea fondurilor nerambursabile alocate de la Comunitatea Europeană și a fondurilor alocate de la bugetul de stat aferente programului de colectare și gestionare a datelor necesare desfășurării politicii comune în domeniul pescuitului și a programului de control, inspecție și supraveghere în domeniul pescuitului și pentru modificarea art. 10 din Legea nr. 218/2005 privind stimularea absorbției fondurilor SAPARD, Fondul european agricol pentru dezvoltare rurală, Fondul european pentru pescuit, Fondul european de garantare agricolă, prin preluarea riscului de creditare de către fondurile de garantare, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119584",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119584",
+     "sha256": "a506ade160c9e04b417b400fc7d260a777f9de54da840d84cf178e1bf17a8350"
     }
    ]
   },
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-124-2010",
+   "path": "ordin/agricultura/2010/124",
+   "short": "Ordin agricultura nr. 124/2010",
+   "title": "Ordinul nr. 124/2010 pentru modificarea Normei cu privire la animalele de reproducție de rasă pură din specia bovine, aprobată prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 765/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119102",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119102",
+     "sha256": "958bef48d1e3d3f956d64743e149a2fe7a38c8e9a5e3b8cae7dea21586a497e7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-126-2010",
    "path": "ordin/agricultura/2010/126",
    "short": "Ordin agricultura nr. 126/2010",
@@ -74,6 +134,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119100",
      "sha256": "18e72960c45138eac11a125d1e119f23fa8db1ccc2cbf28fb9b3693291a2fee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-131-2010",
+   "path": "ordin/agricultura/2010/131",
+   "short": "Ordin agricultura nr. 131/2010",
+   "title": "Ordinul nr. 131/2010 privind modificarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 397/2003 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119302",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119302",
+     "sha256": "3c784c94aaaee160c91955d24eef87fc126a2b3db33962b97a6db726876e15c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-132-2010",
+   "path": "ordin/agricultura/2010/132",
+   "short": "Ordin agricultura nr. 132/2010",
+   "title": "Ordinul nr. 132/2010 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 247/2008 privind aprobarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, derulate cu sprijin comunitar pentru campaniile 2008/2009-2013/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119304",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119304",
+     "sha256": "8ed0b68842a442236038e8825ad5b4ae9a172ee278230fad07faee2575119046"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-138-2010",
+   "path": "ordin/agricultura/2010/138",
+   "short": "Ordin agricultura nr. 138/2010",
+   "title": "Ordinul nr. 138/2010 pentru modificarea și completarea Schemei de ajutor de minimis \"Sprijinirea activităților economice în vederea diversificării economiei rurale și a creșterii calității vieții în spațiul rural\", aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 567/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119503",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119503",
+     "sha256": "33e2808fe8a00bdc788990cc537f0dc4d6ca58c49c92755a862e5fb39b269e83"
     }
    ]
   },
@@ -104,6 +209,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121594",
      "sha256": "c5bc71ac69cc68496e7107bb7886540fb197e7626ad8da73543d568b3aa9b525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-145-2010",
+   "path": "ordin/agricultura/2010/145",
+   "short": "Ordin agricultura nr. 145/2010",
+   "title": "Ordinul nr. 145/2010 pentru completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119812",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119812",
+     "sha256": "7a102ad5499a4c9947f39a571f09d121951c52010140904d6941acac6576cf74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-146-2010",
+   "path": "ordin/agricultura/2010/146",
+   "short": "Ordin agricultura nr. 146/2010",
+   "title": "Ordinul nr. 146/2010 pentru modificarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 126/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119708",
+   "versions": [
+    {
+     "from": "2010-06-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119708",
+     "sha256": "612f61b26c6a5ff497a9b32aac2bc81c79c2615eddff32822cdfc49d57cd4f47"
     }
    ]
   },
@@ -168,6 +303,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-16-2010",
+   "path": "ordin/agricultura/2010/16",
+   "short": "Ordin agricultura nr. 16/2010",
+   "title": "Ordinul nr. 16/2010 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 74/2009 privind gestionarea fondurilor comunitare nerambursabile provenite din Fondul european de garantare agricolă, Fondul european agricol de dezvoltare rurală și Fondul european pentru pescuit și a fondurilor alocate de la bugetul de stat, privind gestionarea fondurilor nerambursabile alocate de la Comunitatea Europeană și a fondurilor alocate de la bugetul de stat aferente programului de colectare și gestionare a datelor necesare desfășurării politicii comune în domeniul pescuitului și a programului de control, inspecție și supraveghere în domeniul pescuitului și pentru modificarea art. 10 din Legea nr. 218/2005 privind stimularea absorbției fondurilor SAPARD, Fondul european agricol pentru dezvoltare rurală, Fondul european pentru pescuit, Fondul european de garantare agricolă, prin preluarea riscului de creditare de către fondurile de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115890",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115890",
+     "sha256": "5e9586b4220d4c667e06c7eaec968298784092240928c002800104b56a939579"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-161-2010",
+   "path": "ordin/agricultura/2010/161",
+   "short": "Ordin agricultura nr. 161/2010",
+   "title": "Ordinul nr. 161/2010 pentru modificarea Statutului Comisiei de clasificare a carcaselor de porcine, bovine și ovine, în care se stabilesc atribuțiile, modul de organizare și funcționare, precum și alte reglementări specifice, aprobat prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120449",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120449",
+     "sha256": "3dea4c28d2ac61a1491c1d242eee13806df5e5909aead594aef6958f04cab885"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-177-2010",
+   "path": "ordin/agricultura/2010/177",
+   "short": "Ordin agricultura nr. 177/2010",
+   "title": "Ordinul nr. 177/2010 pentru modificarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 126/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121184",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121184",
+     "sha256": "c876aecea0db1f1547f75e053560bc9ab5effaaef572934d7a5c817eeca08dd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-185-2010",
+   "path": "ordin/agricultura/2010/185",
+   "short": "Ordin agricultura nr. 185/2010",
+   "title": "Ordinul nr. 185/2010 privind modificarea anexei nr. 7 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 445/2008 pentru aprobarea Normelor metodologice privind organizarea și funcționarea Sistemului Informațional pentru Piața Produselor Agricole și Alimentare și a metodologiilor de colectare, prelucrare, interpretare și difuzare a datelor statistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121984",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121984",
+     "sha256": "8d1c82e531391995cd0b717c0ed9ee3dfaa44338721695a2ac7b2fd19e07e292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-188-2010",
+   "path": "ordin/agricultura/2010/188",
+   "short": "Ordin agricultura nr. 188/2010",
+   "title": "Ordinul nr. 188/2010 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121950",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121950",
+     "sha256": "889dd828ec3e44ed01fe0cf01ef6513aaff0ad8ed01e7009ae04b892cd7ed18d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-19-2010",
    "path": "ordin/agricultura/2010/19",
    "short": "Ordin agricultura nr. 19/2010",
@@ -224,6 +434,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122631",
      "sha256": "66307b4cf9221918b17baab80ed46d6655770aab7500727258be911d84de3af5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-214-2010",
+   "path": "ordin/agricultura/2010/214",
+   "short": "Ordin agricultura nr. 214/2010",
+   "title": "Ordinul nr. 214/2010 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2007 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122549",
+   "versions": [
+    {
+     "from": "2010-10-04",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122549",
+     "sha256": "29463ee87cc90440f887c98611e1d5718be4123e174fa5e226fe60d3daf48861"
     }
    ]
   },
@@ -333,6 +558,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-232-2010",
+   "path": "ordin/agricultura/2010/232",
+   "short": "Ordin agricultura nr. 232/2010",
+   "title": "Ordinul nr. 232/2010 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 631/2006 privind controlul și certificarea calității semințelor prin testarea soiurilor nemodificate genetic și care pot fi impurificate cu soiuri modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122896",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122896",
+     "sha256": "13f8f97ffa29e92db89d2a9c013ea139b21aed6fc186645afc9020d9d4de21ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-236-2010",
    "path": "ordin/agricultura/2010/236",
    "short": "Ordin agricultura nr. 236/2010",
@@ -344,6 +584,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123211",
      "sha256": "c4ec4b090d8b2b579948cb0536e574343532b94d86a40a1358bcd43e17ea768c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-238-2010",
+   "path": "ordin/agricultura/2010/238",
+   "short": "Ordin agricultura nr. 238/2010",
+   "title": "Ordinul nr. 238/2010 pentru modificarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 279/2010 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură aferente schemelor de plăți directe, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 97/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123780",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123780",
+     "sha256": "edee84d9576fb7b39667091e2c1be05f04360d8bd461d04de1631169f6a02563"
     }
    ]
   },
@@ -363,6 +618,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-246-2010",
+   "path": "ordin/agricultura/2010/246",
+   "short": "Ordin agricultura nr. 246/2010",
+   "title": "Ordinul nr. 246/2010 privind completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 126/2010 pentru aprobarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123390",
+   "versions": [
+    {
+     "from": "2010-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123390",
+     "sha256": "ae00b4045952966dc7ba7797f56927d9017ae90b0732ffed9308bba274ac5744"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-251-2010",
+   "path": "ordin/agricultura/2010/251",
+   "short": "Ordin agricultura nr. 251/2010",
+   "title": "Ordinul nr. 251/2010 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 215/2010 privind stabilirea modului de implementare, a condițiilor specifice, a criteriilor de eligibilitate și a termenilor de referință pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic la specia bovine, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123509",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123509",
+     "sha256": "8fcdde737e5ed764dae1e4aa1793ae3074fb467cfe3a78bfa52e734072cdacef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-256-2010",
    "path": "ordin/agricultura/2010/256",
    "short": "Ordin agricultura nr. 256/2010",
@@ -374,6 +659,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124834",
      "sha256": "917a81b76a3f98149496628e0089cb3f060958ddacc09774e0219de2a224390f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-265-2010",
+   "path": "ordin/agricultura/2010/265",
+   "short": "Ordin agricultura nr. 265/2010",
+   "title": "Ordinul nr. 265/2010 pentru modificarea anexei \"Modul de implementare, condițiile specifice și criteriile de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic la speciile ovine/caprine, în acord cu reglementările comunitare în domeniu\" la Ordinul ministrului agriculturii și dezvoltării rurale nr. 98/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124133",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124133",
+     "sha256": "eb33466aa31568d148366924c9a13af22170b08a32cb9d8f2858393a6c0df4fc"
     }
    ]
   },
@@ -423,6 +723,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-275-2010",
+   "path": "ordin/agricultura/2010/275",
+   "short": "Ordin agricultura nr. 275/2010",
+   "title": "Ordinul nr. 275/2010 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124488",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124488",
+     "sha256": "1ae6690511bedc214c7b118253dc2cb00c084ede84e66adf9672cb5688846ac5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-278-2010",
    "path": "ordin/agricultura/2010/278",
    "short": "Ordin agricultura nr. 278/2010",
@@ -434,6 +749,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125467",
      "sha256": "b00ba751f3a72f1fbb7b32a8dccf13143ce40c68febdec1d7ae13862603934e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-280-2010",
+   "path": "ordin/agricultura/2010/280",
+   "short": "Ordin agricultura nr. 280/2010",
+   "title": "Ordinul nr. 280/2010 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 694/2008 privind condițiile de recunoaștere a organizațiilor de producători și a grupurilor de producători recunoscute preliminar în sectorul fructe și legume, precum și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125157",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125157",
+     "sha256": "5c89e472682a8c0c311028909260219b4e664e1767e8b3c538404cbe7ca6dde4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-286-2010",
+   "path": "ordin/agricultura/2010/286",
+   "short": "Ordin agricultura nr. 286/2010",
+   "title": "Ordinul nr. 286/2010 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 762/2007 privind instituirea procedurii de administrare specială la Societatea Națională \"Îmbunătățiri Funciare\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124956",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124956",
+     "sha256": "ab55ce6c0ff539adf64c20fbd86d1e54771e82bffa022b5f2d0ca738d9684702"
     }
    ]
   },
@@ -498,6 +843,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-39-2010",
+   "path": "ordin/agricultura/2010/39",
+   "short": "Ordin agricultura nr. 39/2010",
+   "title": "Ordinul nr. 39/2010 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116534",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116534",
+     "sha256": "59911c9a06685236d93c9a1fd215b9acd894325e65a62f335f9449923b3f197c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-4-2010",
+   "path": "ordin/agricultura/2010/4",
+   "short": "Ordin agricultura nr. 4/2010",
+   "title": "Ordinul nr. 4/2010 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2007 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115351",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115351",
+     "sha256": "8bb57b6dea1a2a788d40ba6a8bc013576848e14e61260f4b374d7448a357f793"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-403-2010",
+   "path": "ordin/agricultura/2010/403",
+   "short": "Ordin agricultura nr. 403/2010",
+   "title": "Ordinul nr. 403/2010 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 348/2010 de stabilire a atribuțiilor Direcției generale pescuit - Autoritatea de management pentru Programul Operațional pentru Pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118462",
+   "versions": [
+    {
+     "from": "2010-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118462",
+     "sha256": "a80f5f0610485571032485bb90c42149df5a9148e20c33152812de6c70aa8cd7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-41-2010",
    "path": "ordin/agricultura/2010/41",
    "short": "Ordin agricultura nr. 41/2010",
@@ -513,6 +903,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-49-2010",
+   "path": "ordin/agricultura/2010/49",
+   "short": "Ordin agricultura nr. 49/2010",
+   "title": "Ordinul nr. 49/2010 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 6/2010 privind stabilirea programului de lucru și a numărului de posturi necesare efectuării controlului fitosanitar vamal pentru inspectoratele de carantină fitosanitară vamală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116700",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116700",
+     "sha256": "a429476f755d81aaf9afa4a4127e60f38d510851795edbff4ca2300d22d904b1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-5-2010",
    "path": "ordin/agricultura/2010/5",
    "short": "Ordin agricultura nr. 5/2010",
@@ -524,6 +929,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115407",
      "sha256": "2fc1724420b82d2fdc16f7c0743d513c90705c435ef1cc2c9f379e1ac624cee7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-50-2010",
+   "path": "ordin/agricultura/2010/50",
+   "short": "Ordin agricultura nr. 50/2010",
+   "title": "Ordinul nr. 50/2010 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 20/2010 privind condițiile de practicare a pescuitului recreativ/sportiv, regulamentul de practicare a pescuitului recreativ/sportiv, precum și modelele permiselor de pescuit sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116655",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116655",
+     "sha256": "9faf485fc4b486e98da60de710f60bdf0da9d0b34b38f448b4ed285048b1cbf7"
     }
    ]
   },
@@ -588,6 +1008,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-66-2010",
+   "path": "ordin/agricultura/2010/66",
+   "short": "Ordin agricultura nr. 66/2010",
+   "title": "Ordinul nr. 66/2010 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117487",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117487",
+     "sha256": "65d08ee66c71720e96d1512ebbae290e82e259ffe0cfaa4e3a7d2d9dcda3a1d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-68-2010",
+   "path": "ordin/agricultura/2010/68",
+   "short": "Ordin agricultura nr. 68/2010",
+   "title": "Ordinul nr. 68/2010 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117380",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117380",
+     "sha256": "b941b8348c33a796a04ef7de50568aa311569ee4a535e41eb42e3a4959689efd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-7-2010",
    "path": "ordin/agricultura/2010/7",
    "short": "Ordin agricultura nr. 7/2010",
@@ -614,6 +1064,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117520",
      "sha256": "b6298c4a68e1eee56c9fed7a7c5e66e2f16ce8e43a70c7a5a080bfec17472028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-71-2010",
+   "path": "ordin/agricultura/2010/71",
+   "short": "Ordin agricultura nr. 71/2010",
+   "title": "Ordinul nr. 71/2010 pentru modificarea art. 8 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 20/2010 privind condițiile de practicare a pescuitului recreativ/sportiv, regulamentul de practicare a pescuitului recreativ/sportiv, precum și modelele permiselor de pescuit sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117579",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117579",
+     "sha256": "688e31cd0f5d0a392377bd113d3d1e1dc967b7d3010382da09c3a566c47afab5"
     }
    ]
   },
@@ -734,6 +1199,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120018",
      "sha256": "39406f2daabac6e61428f422f6a3b0b26ef85cc574005becdca34423802b13ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-92-2010",
+   "path": "ordin/agricultura/2010/92",
+   "short": "Ordin agricultura nr. 92/2010",
+   "title": "Ordinul nr. 92/2010 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 341/2009 privind stabilirea tarifelor pentru efectuarea controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și pentru efectuarea testelor de calitate a semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118246",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118246",
+     "sha256": "6550d4e1760484d11612b7dff81154afb90b382bc4761d3f1cd6ce774ddfead2"
     }
    ]
   },
@@ -2894,6 +3374,306 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116378",
      "sha256": "a729d044a7e9c54d3962a21b047afab59137de4f2c48118cbf14b61a5927b292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-101-2010",
+   "path": "ordin/aparare/2010/101",
+   "short": "Ordin aparare nr. 101/2010",
+   "title": "Ordinul nr. 101/2010 privind aplicarea în Ministerul Apărării Naționale a Hotărârii Guvernului nr. 735/2010 pentru recalcularea pensiilor stabilite potrivit legislației privind pensiile militare de stat, a pensiilor de stat ale polițiștilor și ale funcționarilor publici cu statut special din sistemul administrației penitenciarelor, conform Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121770",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121770",
+     "sha256": "7047135f9e982f6ff3a0653b0a72c68d7caea4debb6487841ee9b02b070ee538"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-111-2010",
+   "path": "ordin/aparare/2010/111",
+   "short": "Ordin aparare nr. 111/2010",
+   "title": "Ordinul nr. 111/2010 pentru aprobarea schimbării denumirii Spitalului Militar de Urgență \"Dr. Victor Popescu\" în Spitalul Clinic Militar de Urgență \"Dr. Victor Popescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122623",
+   "versions": [
+    {
+     "from": "2010-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122623",
+     "sha256": "4341e4bc979b42d9079f7be779e48392c536577fcbfc83d9682f4b5b54a44f8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-12-2010",
+   "path": "ordin/aparare/2010/12",
+   "short": "Ordin aparare nr. 12/2010",
+   "title": "Ordinul nr. 12/2010 privind activitatea de evaluare a gradului de ocupare a spațiilor construite și terenurilor din cazărmile Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115731",
+   "versions": [
+    {
+     "from": "2010-01-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115731",
+     "sha256": "c16f738b3503cf20f9b4aa5a4cb9f41562ff37291e1b6b0eb21f2897ac533c15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-121-2010",
+   "path": "ordin/aparare/2010/121",
+   "short": "Ordin aparare nr. 121/2010",
+   "title": "Ordinul nr. 121/2010 pentru aprobarea Normelor privind consumurile de combustibili pentru încălziri centrale, ventilații și activități administrativ-gospodărești în unitățile militare ale Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123716",
+   "versions": [
+    {
+     "from": "2010-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123716",
+     "sha256": "30be1fde8d00993c2c8d158f4d7970dc82414a753a8d836ef84ce16448ab2b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-128-2010",
+   "path": "ordin/aparare/2010/128",
+   "short": "Ordin aparare nr. 128/2010",
+   "title": "Ordinul nr. 128/2010 privind resubordonarea Institutului Național de Medicină Aeronautică și Spațială \"General doctor aviator Victor Anastasiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124709",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124709",
+     "sha256": "72b415dee962a42aa6fbc222355226f42ff9fd2996b0c43ca0eb4eae3f855c66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-20-2010",
+   "path": "ordin/aparare/2010/20",
+   "short": "Ordin aparare nr. 20/2010",
+   "title": "Ordinul nr. 20/2010 pentru aprobarea Procedurii de supraveghere, în domeniul de activitate al Ministerului Apărării Naționale, a aplicării în plan intern a sancțiunilor internaționale obligatorii pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115928",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115928",
+     "sha256": "addb0f8b9205a1d845707eb8dcfb5028d77da9e0f4779f46c21855a138536efc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-22-2010",
+   "path": "ordin/aparare/2010/22",
+   "short": "Ordin aparare nr. 22/2010",
+   "title": "Ordinul nr. 22/2010 pentru aprobarea Normelor privind organizarea și funcționarea sistemului de selecție și ierarhizare în vederea evoluției în carieră a cadrelor militare din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116336",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116336",
+     "sha256": "55d30cebe8a5bec32f01e6a5df2836e0297f6056b0d9d8cb7a5ac5445a10bafb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-26-2010",
+   "path": "ordin/aparare/2010/26",
+   "short": "Ordin aparare nr. 26/2010",
+   "title": "Ordinul nr. 26/2010 privind delegarea către secretarul de stat pentru relația cu Parlamentul, informare publică și creșterea calității vieții personalului a competenței îndeplinirii unor atribuții aflate în responsabilitatea ministrului apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116696",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116696",
+     "sha256": "96dc50bc86be2a09c47d95993e02377599c05d86b5177a7137f32e3c4eba3174"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-31-2010",
+   "path": "ordin/aparare/2010/31",
+   "short": "Ordin aparare nr. 31/2010",
+   "title": "Ordinul nr. 31/2010 privind resubordonarea Universității Naționale de Apărare \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117043",
+   "versions": [
+    {
+     "from": "2010-03-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117043",
+     "sha256": "64c31286fb32d45834b7eff765cf7e34977ff5098b7326e77085de8b9d8bc797"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-32-2010",
+   "path": "ordin/aparare/2010/32",
+   "short": "Ordin aparare nr. 32/2010",
+   "title": "Ordinul nr. 32/2010 pentru aprobarea atribuțiilor directorului Oficiului Național pentru Cultul Eroilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117044",
+   "versions": [
+    {
+     "from": "2010-03-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117044",
+     "sha256": "6ae6f3a3851a27cc4c41ae62e7fa113e64d157e4c3abdc899944a2e7ff9d85b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-37-2010",
+   "path": "ordin/aparare/2010/37",
+   "short": "Ordin aparare nr. 37/2010",
+   "title": "Ordinul nr. 37/2010 pentru aprobarea Normelor privind asigurarea protecției la foc a personalului și bunurilor, pregătirea pompierilor și conducerea intervenției pe timpul operațiilor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117942",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117942",
+     "sha256": "e45a4749cbd01cbf5b233c27cdd22782df86447cbc15f4c594684f0cc384958e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-39-2010",
+   "path": "ordin/aparare/2010/39",
+   "short": "Ordin aparare nr. 39/2010",
+   "title": "Ordinul nr. 39/2010 privind aprobarea Instrucțiunilor de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 384/2006 privind statutul soldaților și gradaților voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118023",
+   "versions": [
+    {
+     "from": "2010-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118023",
+     "sha256": "374e276a548c58b2a91de8f91c469fb95a1a230475400d80aa87bae13c1be7de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-49-2010",
+   "path": "ordin/aparare/2010/49",
+   "short": "Ordin aparare nr. 49/2010",
+   "title": "Ordinul nr. 49/2010 privind avansarea onorifică a veteranilor de război, cu ocazia Zilei Veteranilor de Război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118193",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118193",
+     "sha256": "242016e33b4f7c5ea9c1c3039e6ac75ce87d03d527d9e9511cc1189626977c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-54-2010",
+   "path": "ordin/aparare/2010/54",
+   "short": "Ordin aparare nr. 54/2010",
+   "title": "Ordinul nr. 54/2010 privind organizarea și atribuțiile Secretariatului tehnic permanent al Comisiei interministeriale pentru legătura cu forțele armate străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118685",
+   "versions": [
+    {
+     "from": "2010-05-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118685",
+     "sha256": "71d086b53b2a3ebbd2b9900a5f90eff235abca1284bba7cb3295e3134c9fec8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-69-2010",
+   "path": "ordin/aparare/2010/69",
+   "short": "Ordin aparare nr. 69/2010",
+   "title": "Ordinul nr. 69/2010 privind desfășurarea unor activități în memoria personalului militar căzut la datorie în misiuni în străinătate, în teatrele de operații, în acțiuni de luptă sau în atentate teroriste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119931",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119931",
+     "sha256": "f7f2092d232da1a5ae4fc47f28223a797f1d2e9a3bee378bf41501660b0e3ed5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-82-2010",
+   "path": "ordin/aparare/2010/82",
+   "short": "Ordin aparare nr. 82/2010",
+   "title": "Ordinul nr. 82/2010 privind organizarea și funcționarea Comitetului director al proiectului \"Sistem informatic de sprijin al acțiunilor militare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120787",
+   "versions": [
+    {
+     "from": "2010-07-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120787",
+     "sha256": "32bcd2dca434391e5056a293be1dc6f893b220aa866e97664fb9542d67822849"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-86-2010",
+   "path": "ordin/aparare/2010/86",
+   "short": "Ordin aparare nr. 86/2010",
+   "title": "Ordinul nr. 86/2010 pentru aprobarea Regulamentului privind organizarea și funcționarea Consiliului de Supraveghere a Cerințelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120959",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120959",
+     "sha256": "5dfe99c0eebf7a1582e5785a431eaa76ada61e21f6cdae74084377e4faa0ad60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-91-2010",
+   "path": "ordin/aparare/2010/91",
+   "short": "Ordin aparare nr. 91/2010",
+   "title": "Ordinul nr. 91/2010 pentru aprobarea \" Metodologiei privind derularea de către Ministerul Apărării Naționale a achizițiilor de produse, lucrări și servicii prin Agenția NATO pentru Aprovizionare și Mentenanță\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299927",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299927",
+     "sha256": "54478bbd31283c9945137b7ab356e0caea4e012e3e9896cbdc8d7b7982d876e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-97-2010",
+   "path": "ordin/aparare/2010/97",
+   "short": "Ordin aparare nr. 97/2010",
+   "title": "Ordinul nr. 97/2010 privind instituirea Emblemei Onoarea Armatei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121651",
+   "versions": [
+    {
+     "from": "2010-08-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121651",
+     "sha256": "91cbcfe57796747a9d4e595e8ef162a3f60c9cdfff351e5b8f45efc33d1d25c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-99-2010",
+   "path": "ordin/aparare/2010/99",
+   "short": "Ordin aparare nr. 99/2010",
+   "title": "Ordinul nr. 99/2010 pentru aprobarea Normelor privind activitatea de pregătire în străinătate a personalului din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121767",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121767",
+     "sha256": "c50e369c35e6fea39031c0a79eb5cd74147d4e692b6fc27cc4058911a1e97727"
     }
    ]
   },

@@ -3,6 +3,21 @@
  "shard": "ordin/2008",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2008",
+   "path": "ordin/agricultura/2008/10",
+   "short": "Ordin agricultura nr. 10/2008",
+   "title": "Ordinul nr. 10/2008 privind modificarea anexei H la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89003",
+   "versions": [
+    {
+     "from": "2008-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89003",
+     "sha256": "a77aecca95ad7925846a4cc092b0ef34662f48049ff73c04b5a4234ee9a6ae7c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-138-2008",
    "path": "ordin/agricultura/2008/138",
    "short": "Ordin agricultura nr. 138/2008",
@@ -14,6 +29,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90091",
      "sha256": "c9531e5912dc6a3b4b9714f776bd816bb4d3dac24cf695387bbb0807d0239f9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-139-2008",
+   "path": "ordin/agricultura/2008/139",
+   "short": "Ordin agricultura nr. 139/2008",
+   "title": "Ordinul nr. 139/2008 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 64/B/2008 privind aprobarea formularului de cerere de plată pentru schemele de sprijin pe suprafață pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89884",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89884",
+     "sha256": "48df5c23c14bd8202304067856060072656b91d0a029547a2e446e8cc803c868"
     }
    ]
   },
@@ -48,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-157-2008",
+   "path": "ordin/agricultura/2008/157",
+   "short": "Ordin agricultura nr. 157/2008",
+   "title": "Ordinul nr. 157/2008 privind modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 609/2005 pentru aprobarea listei personalului împuternicit cu controlul producerii, comercializării și utilizării materialelor forestiere de reproducere și cu certificarea materialelor forestiere de reproducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90826",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90826",
+     "sha256": "9fc5c0d894b63d16c0584b681d694273795819300acf0ef7fc298c1128205118"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-160-2008",
    "path": "ordin/agricultura/2008/160",
    "short": "Ordin agricultura nr. 160/2008",
@@ -78,6 +123,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-174-2008",
+   "path": "ordin/agricultura/2008/174",
+   "short": "Ordin agricultura nr. 174/2008",
+   "title": "Ordinul nr. 174/2008 privind modificarea și completarea anexelor E, F, H, J, K și L la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90821",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90821",
+     "sha256": "4ff3fca406941dd46019dfb9509e5cead44e29436514d98df3eaa8a10e38f0c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-210-2008",
+   "path": "ordin/agricultura/2008/210",
+   "short": "Ordin agricultura nr. 210/2008",
+   "title": "Ordinul nr. 210/2008 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 66/2008 privind aprobarea sumelor, a condițiilor și a modului de acordare a acestor sume pentru achiziția materialului seminal congelat de taur și a agentului criogenic folosit la conservare în anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90858",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90858",
+     "sha256": "a78c404a01596cdd602c4f0fd49525fab57ecac38dacb5ebf113d90e2baa543f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-211-2008",
    "path": "ordin/agricultura/2008/211",
    "short": "Ordin agricultura nr. 211/2008",
@@ -89,6 +164,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91049",
      "sha256": "7a0c6c128b12a3225b948b070bc76156f24230d3ee815140ef5c7869180b512d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-215-2008",
+   "path": "ordin/agricultura/2008/215",
+   "short": "Ordin agricultura nr. 215/2008",
+   "title": "Ordinul nr. 215/2008 pentru modificarea art. 2 din Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 718/2006 privind aprobarea prețurilor pentru cabalinele trecute în categoria Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90945",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90945",
+     "sha256": "5dffbeb5964e761e1cf354e2fc4b5604097272f517800d5c2166d4e2762ade86"
     }
    ]
   },
@@ -288,6 +378,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-255-2008",
+   "path": "ordin/agricultura/2008/255",
+   "short": "Ordin agricultura nr. 255/2008",
+   "title": "Ordinul nr. 255/2008 privind modificarea și completarea anexei \"Modul de implementare, condițiile specifice și criteriile de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu\" la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92101",
+   "versions": [
+    {
+     "from": "2008-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92101",
+     "sha256": "0705308733bfbbbd641704cdeebbf7cf363dd672c96bc6ff305f155b45bacf99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-260-2008",
+   "path": "ordin/agricultura/2008/260",
+   "short": "Ordin agricultura nr. 260/2008",
+   "title": "Ordinul nr. 260/2008 privind modificarea alin. (1) al art. 15 din anexa F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92401",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92401",
+     "sha256": "7b8901a3dda584c39d3cc26f65728d8c09f7288faab2540007b427550206f73b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-277-2008",
+   "path": "ordin/agricultura/2008/277",
+   "short": "Ordin agricultura nr. 277/2008",
+   "title": "Ordinul nr. 277/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92967",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92967",
+     "sha256": "c6fe029dc5b0193226c94629869eb642e665e2cab3316893b0229ce11ab693e4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-279-2008",
    "path": "ordin/agricultura/2008/279",
    "short": "Ordin agricultura nr. 279/2008",
@@ -299,6 +434,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92958",
      "sha256": "d1c2d3cdf875b85e45a34078ff513b77e3c4ac81674bc3d85e712e31aa64e451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-288-2008",
+   "path": "ordin/agricultura/2008/288",
+   "short": "Ordin agricultura nr. 288/2008",
+   "title": "Ordinul nr. 288/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93527",
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93527",
+     "sha256": "f1aaeb32b921dddb143de970cb2cec4ce1e4a229a259d129737aad26f8d0970f"
     }
    ]
   },
@@ -438,6 +588,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-358-2008",
+   "path": "ordin/agricultura/2008/358",
+   "short": "Ordin agricultura nr. 358/2008",
+   "title": "Ordinul nr. 358/2008 pentru modificarea anexei \"Modul de implementare, condițiile specifice și criteriile de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu\" la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94005",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94005",
+     "sha256": "1d09c2264d6ac3ad2e310145e5aa400fa755c51487a4f90ed2fc9005b5d6a9a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-366-2008",
+   "path": "ordin/agricultura/2008/366",
+   "short": "Ordin agricultura nr. 366/2008",
+   "title": "Ordinul nr. 366/2008 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.202/2005 privind aprobarea Listei specialiștilor împuterniciți să constate și să sancționeze contravențiile prevăzute la art. 82 din Legea îmbunătățirilor funciare nr. 138/2004, cu modificările și completările ulterioare, a modelului legitimației de identificare a acestora, precum și a modelului procesului-verbal de constatare și sancționare a contravențiilor în domeniul îmbunătățirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94328",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94328",
+     "sha256": "bd7dbc2232c3718eae7df9522f7bd359532efc98acde16f21a43e76c034045a9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-368-2008",
    "path": "ordin/agricultura/2008/368",
    "short": "Ordin agricultura nr. 368/2008",
@@ -464,6 +644,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94337",
      "sha256": "39565eab84ac4802067c8ba06706108fc539bfbc295658fde138c9b4647d5eec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-411-2008",
+   "path": "ordin/agricultura/2008/411",
+   "short": "Ordin agricultura nr. 411/2008",
+   "title": "Ordinul nr. 411/2008 privind modificarea alin. (2) al art. 45 din anexa L la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94670",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94670",
+     "sha256": "a59fe87b0a0f5938c9c0442dc31caa0ba17056a2031b4eb3df9486e718aca041"
     }
    ]
   },
@@ -528,6 +723,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-436-2008",
+   "path": "ordin/agricultura/2008/436",
+   "short": "Ordin agricultura nr. 436/2008",
+   "title": "Ordinul nr. 436/2008 privind modificarea anexei H la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95345",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95345",
+     "sha256": "a6a54837529cb50e240b1519250ca5c9a40bae2e29dfc5906bbc0dbc40dc3c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-438-2008",
+   "path": "ordin/agricultura/2008/438",
+   "short": "Ordin agricultura nr. 438/2008",
+   "title": "Ordinul nr. 438/2008 privind modificarea și completarea Normelor metodologice privind alocarea și acordarea subvențiilor de la bugetul de stat pentru acoperirea unor categorii de cheltuieli necesare desfășurării activităților de îmbunătățiri funciare, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.230/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97153",
+   "versions": [
+    {
+     "from": "2008-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97153",
+     "sha256": "466e4daaabb6695b7341595ee6d61e6e21cdacfe74d00d099de1a7325e60d81f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-442-2008",
+   "path": "ordin/agricultura/2008/442",
+   "short": "Ordin agricultura nr. 442/2008",
+   "title": "Ordinul nr. 442/2008 privind modificarea pozițiilor 30 și 36 din anexa la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95659",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95659",
+     "sha256": "3c1dda83bb9cef11972d7d5d5b06e25d4a2b3622782bb1eb30efe2e545c265bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-443-2008",
+   "path": "ordin/agricultura/2008/443",
+   "short": "Ordin agricultura nr. 443/2008",
+   "title": "Ordinul nr. 443/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95549",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95549",
+     "sha256": "8c616f787685e9de6784555a968e6752a6874d875903b409613b42bc23fdeef6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-445-2008",
    "path": "ordin/agricultura/2008/445",
    "short": "Ordin agricultura nr. 445/2008",
@@ -539,6 +794,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95982",
      "sha256": "b9d22162b40307b30e9d5450c30e708be87b7e508a2fb95d644f75d261941400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-446-2008",
+   "path": "ordin/agricultura/2008/446",
+   "short": "Ordin agricultura nr. 446/2008",
+   "title": "Ordinul nr. 446/2008 privind modificarea anexei N la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95660",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95660",
+     "sha256": "2bb6ac3b2768017fe50cfab36cd6a53f016ab85e2ced6fc802a3eb46fcb7fc43"
     }
    ]
   },
@@ -573,6 +843,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-458-2008",
+   "path": "ordin/agricultura/2008/458",
+   "short": "Ordin agricultura nr. 458/2008",
+   "title": "Ordinul nr. 458/2008 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 648/2006 privind autorizarea laboratorului în vederea executării de analize pentru îngrășămintele care circulă pe piață, a inspectorilor împuterniciți să execute controlul, privind aprobarea modelului de legitimație, a indicativului ștampilei și a zonei de exercitare a acestei activități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95817",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95817",
+     "sha256": "9cc23085edf1b62a632f88b1e18f859ce0b3aee59a3943e56a7722e30ae421d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-459-2008",
+   "path": "ordin/agricultura/2008/459",
+   "short": "Ordin agricultura nr. 459/2008",
+   "title": "Ordinul nr. 459/2008 pentru modificarea anexei nr. 3a) la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 849/2004 privind aprobarea modelelor de cereri de autorizare pentru activitatea de clasificare a carcaselor, a modelelor formularelor-tip pentru atestatul de clasificator și pentru autorizația de clasificare și a modelelor rapoartelor de clasificare și registrului agențiilor de clasificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95799",
+   "versions": [
+    {
+     "from": "2008-08-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95799",
+     "sha256": "e56ba862c4d4e2b759e586389df86ff18fc70aa441188113ef230471f363dc38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-460-2008",
+   "path": "ordin/agricultura/2008/460",
+   "short": "Ordin agricultura nr. 460/2008",
+   "title": "Ordinul nr. 460/2008 privind modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 457/2004 pentru aprobarea Normelor tehnice de clasificare a carcaselor de porci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95844",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95844",
+     "sha256": "56565a221ce1ec27e6a2a2d325ce7faa969ea3bafdf2306839b316a7a56259a2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-470-2008",
    "path": "ordin/agricultura/2008/470",
    "short": "Ordin agricultura nr. 470/2008",
@@ -588,6 +903,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-481-2008",
+   "path": "ordin/agricultura/2008/481",
+   "short": "Ordin agricultura nr. 481/2008",
+   "title": "Ordinul nr. 481/2008 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 942/2004 privind aprobarea introducerii însemnului de certificare a calității vinurilor DOC îmbuteliate, destinate comercializării, și aprobarea modificării nivelului sumelor percepute ca taxe pentru eliberarea autorizației de producător de vinuri cu denumire de origine (DOC) și a certificatului de atestare a dreptului de comercializare a vinurilor cu denumire de origine (DOC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96491",
+   "versions": [
+    {
+     "from": "2008-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96491",
+     "sha256": "bc32b776d5a0d5f25287006dc970538d85da63ae951d1ad1ccc224322f0049a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-485-2008",
+   "path": "ordin/agricultura/2008/485",
+   "short": "Ordin agricultura nr. 485/2008",
+   "title": "Ordinul nr. 485/2008 privind modificarea anexei nr. 12 la anexa F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96284",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96284",
+     "sha256": "d5c27f7420de876180905099142a5b03f57192279d63af1a005249f6e48483fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-486-2008",
+   "path": "ordin/agricultura/2008/486",
+   "short": "Ordin agricultura nr. 486/2008",
+   "title": "Ordinul nr. 486/2008 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 689/2007 privind aprobarea cuantumului estimat al plafonului maxim la hectar, unitar la nivel național, al subvențiilor de la bugetul de stat ce se acordă pentru acoperirea cheltuielilor necesare desfășurării activității de irigații pentru sezonul de irigații al anului 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96346",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96346",
+     "sha256": "a61224f8faadeb7f6674732b05e6cccf0c17a8d86f9b75398f73f22422714f9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-487-2008",
    "path": "ordin/agricultura/2008/487",
    "short": "Ordin agricultura nr. 487/2008",
@@ -599,6 +959,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96895",
      "sha256": "93e6368b9c62a766354f937901ce571dac2733bb526d542cad12c8fc7182f447"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-490-2008",
+   "path": "ordin/agricultura/2008/490",
+   "short": "Ordin agricultura nr. 490/2008",
+   "title": "Ordinul nr. 490/2008 pentru abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 581/2007 privind recunoașterea zonelor protejate expuse anumitor riscuri fitosanitare în Comunitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96548",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96548",
+     "sha256": "b2ac6a5f22d967e63e15a33d280b28868f7d9be2c0c4d04c1bc9743fbfcec8a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-491-2008",
+   "path": "ordin/agricultura/2008/491",
+   "short": "Ordin agricultura nr. 491/2008",
+   "title": "Ordinul nr. 491/2008 privind modificarea și completarea anexelor J și K la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96587",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96587",
+     "sha256": "76971a9db37b8a10626885a8535fe8b518c0fbe8ac4d83a8aecd49995fca4945"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-497-2008",
+   "path": "ordin/agricultura/2008/497",
+   "short": "Ordin agricultura nr. 497/2008",
+   "title": "Ordinul nr. 497/2008 privind abrogarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 231/2006 pentru aprobarea Normei tehnice interne cu privire la gestionarea durabilă a resurselor acvatice vii din apele de munte gestionate de Regia Națională a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96686",
+   "versions": [
+    {
+     "from": "2008-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96686",
+     "sha256": "a00a03ce0cdc99372733e5ab2f8832d6f11237ef904f1d26e098b18e27bcd567"
     }
    ]
   },
@@ -633,6 +1038,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-556-2008",
+   "path": "ordin/agricultura/2008/556",
+   "short": "Ordin agricultura nr. 556/2008",
+   "title": "Ordinul nr. 556/2008 pentru abrogarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 102/2006 privind măsurile de urgență pentru prevenirea răspândirii în România a dăunătorului Diabrotica virgifera Le Conte, viermele vestic al rădăcinilor de porumb",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97125",
+   "versions": [
+    {
+     "from": "2008-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97125",
+     "sha256": "2bd3fdb61a23cf2204a2bf0ac12f65cc2e01996e6238007614d025bc25a8546e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-567-2008",
    "path": "ordin/agricultura/2008/567",
    "short": "Ordin agricultura nr. 567/2008",
@@ -648,6 +1068,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-570-2008",
+   "path": "ordin/agricultura/2008/570",
+   "short": "Ordin agricultura nr. 570/2008",
+   "title": "Ordinul nr. 570/2008 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 762/2007 privind instituirea procedurii de administrare specială la Societatea Națională \"Îmbunătățiri Funciare\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97116",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97116",
+     "sha256": "5059e5037b7d01ebef761811f8ad7a240c14ef1ad1be209c2583463cb5ddfc71"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-572-2008",
    "path": "ordin/agricultura/2008/572",
    "short": "Ordin agricultura nr. 572/2008",
@@ -659,6 +1094,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97190",
      "sha256": "15fd3445dd5c170fa3faa1193398dc0c22c445e384f799764c3a0e7654529d99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-574-2008",
+   "path": "ordin/agricultura/2008/574",
+   "short": "Ordin agricultura nr. 574/2008",
+   "title": "Ordinul nr. 574/2008 privind completarea art. 1 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 430/2008 pentru aprobarea tipurilor de investiții și a plafoanelor maxime ale creditelor ce se acordă în anul 2008, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97431",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97431",
+     "sha256": "fff6c656c9bc3696e72f503f9e2eb92c65a4f65afe99104dc84350d6bde435f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-58-2008",
+   "path": "ordin/agricultura/2008/58",
+   "short": "Ordin agricultura nr. 58/2008",
+   "title": "Ordinul nr. 58/2008 privind modificarea art. 10 din anexa la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 196/2006 pentru aprobarea Instrucțiunilor privind avizarea și autorizarea funcționării ocoalelor silvice pentru gospodărirea pădurilor proprietate privată a persoanelor fizice și juridice și a celor proprietate publică aparținând unităților administrativ-teritoriale și pentru autorizarea personalului silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89227",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89227",
+     "sha256": "17387a527d1d5593204993261bc431d7d3970d2c9973684fcd6575a10fc15dff"
     }
    ]
   },
@@ -738,6 +1203,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-589-2008",
+   "path": "ordin/agricultura/2008/589",
+   "short": "Ordin agricultura nr. 589/2008",
+   "title": "Ordinul nr. 589/2008 pentru modificarea Statutului Comisiei de clasificare a carcaselor de porcine, bovine și ovine, în care se stabilesc atribuțiile, modul de organizare și funcționare, precum și alte reglementări specifice, aprobat prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97504",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97504",
+     "sha256": "28b087c3e438b51efa1a640df419ca3887136892edbc373e62f62ab79620f258"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-590-2008",
+   "path": "ordin/agricultura/2008/590",
+   "short": "Ordin agricultura nr. 590/2008",
+   "title": "Ordinul nr. 590/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97506",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97506",
+     "sha256": "fbcdee62a92fc111751b16d25b65b30eb12d20e04712447be2b150a85c91c522"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-596-2008",
+   "path": "ordin/agricultura/2008/596",
+   "short": "Ordin agricultura nr. 596/2008",
+   "title": "Ordinul nr. 596/2008 pentru modificarea secțiunii 1 \"Îmbunătățirea calității producțiilor de carne prin susținerea financiară a implementării sistemului de clasificare a carcaselor de porcine, bovine și ovine\" a cap. II \"Îmbunătățirea calității produselor de origine animală\" din anexa L la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97573",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97573",
+     "sha256": "d8063c1b9717ac3c63c89381633d9bc508366537a3e5f42aa48b5fdad26c8fb3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-6-2008",
    "path": "ordin/agricultura/2008/6",
    "short": "Ordin agricultura nr. 6/2008",
@@ -749,6 +1259,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88762",
      "sha256": "ed99c1c2d230c5e28259ac1b972b58155292baa4c54d04e6de2d9e5b9abc2ce5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-600-2008",
+   "path": "ordin/agricultura/2008/600",
+   "short": "Ordin agricultura nr. 600/2008",
+   "title": "Ordinul nr. 600/2008 privind modificarea art. 2 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 353/2008 pentru aprobarea Regulamentului privind autorizarea, organizarea și practicarea vânătorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97669",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97669",
+     "sha256": "37aa2dfcb3b0ad18949e8290f245e559482de8ad3f6971b91f76baf8497f8369"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-603-2008",
+   "path": "ordin/agricultura/2008/603",
+   "short": "Ordin agricultura nr. 603/2008",
+   "title": "Ordinul nr. 603/2008 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 567/2008 pentru aprobarea Schemei de ajutor de minimis \"Sprijinirea activităților economice în vederea diversificării economiei rurale și a creșterii calității vieții în spațiul rural\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97894",
+   "versions": [
+    {
+     "from": "2008-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97894",
+     "sha256": "ddfacb04a622aef1b8da2d7e3c0faa257d914a876e3956b01436595178137306"
     }
    ]
   },
@@ -783,6 +1323,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-609-2008",
+   "path": "ordin/agricultura/2008/609",
+   "short": "Ordin agricultura nr. 609/2008",
+   "title": "Ordinul nr. 609/2008 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/ 2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98130",
+   "versions": [
+    {
+     "from": "2008-10-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98130",
+     "sha256": "f2190d770bde0d5eadf341ec4975346d45ca96ed9d13513c0d24c58834b4e50d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-61-2008",
    "path": "ordin/agricultura/2008/61",
    "short": "Ordin agricultura nr. 61/2008",
@@ -794,6 +1349,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89416",
      "sha256": "b63739b73da883b7eb1b95432ac7ef7c07aea497409f1704f54b3335366af52a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-610-2008",
+   "path": "ordin/agricultura/2008/610",
+   "short": "Ordin agricultura nr. 610/2008",
+   "title": "Ordinul nr. 610/2008 privind modificarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 430/2008 pentru aprobarea tipurilor de investiții și a plafoanelor maxime ale creditelor ce se acordă în anul 2008, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98236",
+   "versions": [
+    {
+     "from": "2008-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98236",
+     "sha256": "0ddb7aa41e8f888b733fae4b08fa9e0e281fb6415578a5f5940a735b37084392"
     }
    ]
   },
@@ -843,6 +1413,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-640-2008",
+   "path": "ordin/agricultura/2008/640",
+   "short": "Ordin agricultura nr. 640/2008",
+   "title": "Ordinul nr. 640/2008 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98949",
+   "versions": [
+    {
+     "from": "2008-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98949",
+     "sha256": "88d1ae482700cffd981ec31c484b6770c159bab39d2a5c126c386ede3a8ec0f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-642-2008",
    "path": "ordin/agricultura/2008/642",
    "short": "Ordin agricultura nr. 642/2008",
@@ -869,6 +1454,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99068",
      "sha256": "e394e33c7c8e98cdd5f3f5bf84643af57f8a9467818e32f98612248135f409e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-65-2008",
+   "path": "ordin/agricultura/2008/65",
+   "short": "Ordin agricultura nr. 65/2008",
+   "title": "Ordinul nr. 65/2008 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89294",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89294",
+     "sha256": "b907d3eb05102408d61f029e3058b0c36042ed1aca5e96003814ca3c218dcd58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-653-2008",
+   "path": "ordin/agricultura/2008/653",
+   "short": "Ordin agricultura nr. 653/2008",
+   "title": "Ordinul nr. 653/2008 pentru modificarea alin. (4) al art. 10 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 246/2008 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți directe și plăți naționale directe complementare în sectorul vegetal, pentru acordarea sprijinului aferent măsurilor de agromediu și zone defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98661",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98661",
+     "sha256": "6f4b740bdd1504f798eb5bd4417145812f4feb45929af986d61345fa82dc3809"
     }
    ]
   },
@@ -914,6 +1529,21 @@
      "units": 88,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99590",
      "sha256": "bcc5165b23baeedfc023a91c84bdd9c565c8f04e19aebefdcd98a6c41dc89451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-671-2008",
+   "path": "ordin/agricultura/2008/671",
+   "short": "Ordin agricultura nr. 671/2008",
+   "title": "Ordinul nr. 671/2008 privind modificarea art. 2 alin. (1) din Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2007 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99160",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99160",
+     "sha256": "d818f415e4f6d609b9242f438ae594f8ddeec403f17e0b8516f3db20ba6c5d9e"
     }
    ]
   },
@@ -993,6 +1623,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-708-2008",
+   "path": "ordin/agricultura/2008/708",
+   "short": "Ordin agricultura nr. 708/2008",
+   "title": "Ordinul nr. 708/2008 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.263/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de plante furajere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99850",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99850",
+     "sha256": "c3f9c0df290c41a73503527ae5c752cfa81b62b19e78dee3d9abe5d3020e996d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-715-2008",
    "path": "ordin/agricultura/2008/715",
    "short": "Ordin agricultura nr. 715/2008",
@@ -1008,6 +1653,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-716-2008",
+   "path": "ordin/agricultura/2008/716",
+   "short": "Ordin agricultura nr. 716/2008",
+   "title": "Ordinul nr. 716/2008 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 457/2008 privind aprobarea cotelor de recoltă pentru speciile de mamifere, altele decât cerb comun, cerb lopătar, căprior, capră neagră și muflon, și de păsări admise la vânătoare pentru sezonul de vânătoare 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99930",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99930",
+     "sha256": "329e22be5a8bd5eb7605bf21beae4897c746373070dd45e7e490ca09c9d33666"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-717-2008",
    "path": "ordin/agricultura/2008/717",
    "short": "Ordin agricultura nr. 717/2008",
@@ -1019,6 +1679,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99987",
      "sha256": "1e71d77bbc9af70d283614de8f13859a1203ae96b8a2b8f6f35bd50775dd1be0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-718-2008",
+   "path": "ordin/agricultura/2008/718",
+   "short": "Ordin agricultura nr. 718/2008",
+   "title": "Ordinul nr. 718/2008 privind completarea anexei \"Modul de implementare, condițiile specifice și criteriile de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu\" la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100065",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100065",
+     "sha256": "53efe2ec6509d3115baa5bede5c651c14226b2ddb9028bfa06bc8866e3e132e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-723-2008",
+   "path": "ordin/agricultura/2008/723",
+   "short": "Ordin agricultura nr. 723/2008",
+   "title": "Ordinul nr. 723/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100091",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100091",
+     "sha256": "f8352cf16ecc56861dd85bc543a41ab16d7572114397ddb957af6a6a42130e7e"
     }
    ]
   },
@@ -1049,6 +1739,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100360",
      "sha256": "505722565542cfc655203f38e610d5b1aab2bd9b5e96e81db53e7059b663fd63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-735-2008",
+   "path": "ordin/agricultura/2008/735",
+   "short": "Ordin agricultura nr. 735/2008",
+   "title": "Ordinul nr. 735/2008 privind modificarea anexei A la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100534",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100534",
+     "sha256": "6a438af145c5cec596335af55456f0012aee1059b4ebc5584249d3f00904b7b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-739-2008",
+   "path": "ordin/agricultura/2008/739",
+   "short": "Ordin agricultura nr. 739/2008",
+   "title": "Ordinul nr. 739/2008 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 642/2008 pentru aprobarea normelor metodologice de acordare a sprijinului financiar, prevăzute de Hotărârea Guvernului nr. 1.195/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100254",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100254",
+     "sha256": "a75c5c5b3f3cf096d1a322827c6464882b29ff2cf71038ea9796491271386015"
     }
    ]
   },
@@ -1113,6 +1833,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-759-2008",
+   "path": "ordin/agricultura/2008/759",
+   "short": "Ordin agricultura nr. 759/2008",
+   "title": "Ordinul nr. 759/2008 privind modificarea și completarea anexei H la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100711",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100711",
+     "sha256": "62fe1ba06ddb63de18276317f885200be9ef6a44b50009f176566637d03b1cdb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-761-2008",
    "path": "ordin/agricultura/2008/761",
    "short": "Ordin agricultura nr. 761/2008",
@@ -1154,6 +1889,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100912",
      "sha256": "611a664b954a079389df457072bf77a79d2b3ea75be46d686c646babc6ee234a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-89-2008",
+   "path": "ordin/agricultura/2008/89",
+   "short": "Ordin agricultura nr. 89/2008",
+   "title": "Ordinul nr. 89/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89701",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89701",
+     "sha256": "692a803ee1f334ce464a274f62e32759c17c173b171b96d55e3a003fd6b2092f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-9-2008",
+   "path": "ordin/agricultura/2008/9",
+   "short": "Ordin agricultura nr. 9/2008",
+   "title": "Ordinul nr. 9/2008 privind modificarea alin. (1) al art. 15 din anexa F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88581",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88581",
+     "sha256": "944d94b2b74f4819ae436c6cec962e63e1f67617d81c3f30037cc1adc70a0a25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-90-2008",
+   "path": "ordin/agricultura/2008/90",
+   "short": "Ordin agricultura nr. 90/2008",
+   "title": "Ordinul nr. 90/2008 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89733",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89733",
+     "sha256": "ce62ebe881e43a82311d6e5faede57f68bc35df0f034813c660781f1cc4e14bd"
     }
    ]
   },
@@ -3404,6 +4184,396 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99198",
      "sha256": "02105526d7de5c666df4acec7eb4ef394fe152ed9a4ed77577b932b8e7566b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-103-2008",
+   "path": "ordin/aparare/2008/103",
+   "short": "Ordin aparare nr. 103/2008",
+   "title": "Ordinul nr. 103/2008 pentru aprobarea Regulamentului privind investigarea și punerea în siguranță provizorie a construcțiilor din patrimoniul Ministerului Apărării în cazul producerii unui dezastru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98610",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98610",
+     "sha256": "2a8a3fbba28143fa8e8ec59fd13dcb6f94b7b0f6f56f6697f72a7835befa40a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-110-2008",
+   "path": "ordin/aparare/2008/110",
+   "short": "Ordin aparare nr. 110/2008",
+   "title": "Ordinul nr. 110/2008 privind măsurile care se aplică în Ministerul Apărării pentru preluarea, asigurarea și gestionarea copreședinției Grupului NATO în domeniul neproliferării \"NATO Senior Defence Group on Proliferation - DGP\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99308",
+   "versions": [
+    {
+     "from": "2008-11-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99308",
+     "sha256": "259e3a855d8074232a9c54de9d0a5f684693ff00ddbaf8c390634e0ce24d01dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-111-2008",
+   "path": "ordin/aparare/2008/111",
+   "short": "Ordin aparare nr. 111/2008",
+   "title": "Ordinul nr. 111/2008 pentru aprobarea Normelor de apărare împotriva incendiilor în Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100600",
+   "versions": [
+    {
+     "from": "2008-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100600",
+     "sha256": "e9685ddf7d3caaa31e2ca826b60c5d00d836c1217f4ae3b55f78204133b74997"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-112-2008",
+   "path": "ordin/aparare/2008/112",
+   "short": "Ordin aparare nr. 112/2008",
+   "title": "Ordinul nr. 112/2008 pentru aprobarea Regulamentului de organizare și funcționare a Colegiului Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99452",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99452",
+     "sha256": "f85d061fe6ecbfbbe75ce32b9bff19bd3ef9574e3c32b311df6189eb5b28fb99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-113-2008",
+   "path": "ordin/aparare/2008/113",
+   "short": "Ordin aparare nr. 113/2008",
+   "title": "Ordinul nr. 113/2008 privind supravegherea stării de sănătate a personalului din ministerul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99465",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99465",
+     "sha256": "582a34b6e5d57a2483b8a7aec80eef1496cd0133bb8690c4c135d9b47b7cabcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-121-2008",
+   "path": "ordin/aparare/2008/121",
+   "short": "Ordin aparare nr. 121/2008",
+   "title": "Ordinul nr. 121/2008 privind responsabilitățile comandanților/șefilor unităților militare pentru păstrarea integrității patrimoniului imobiliar al Ministerului Apărării și unele măsuri privind modul de administrare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100384",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100384",
+     "sha256": "018e4347e4103c46412ab07fda7612c3187ab13e146c6568f35cf6a2959c1067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-126-2008",
+   "path": "ordin/aparare/2008/126",
+   "short": "Ordin aparare nr. 126/2008",
+   "title": "Ordinul nr. 126/2008 privind responsabilitățile structurilor militare pentru evacuarea medicală și monitorizarea răniților și bolnavilor din teatrele de operații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100959",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100959",
+     "sha256": "87b7d6cc0ae3b392fd6f9c24149083f956de1f6773b38225f8dd0dd9935646bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-127-2008",
+   "path": "ordin/aparare/2008/127",
+   "short": "Ordin aparare nr. 127/2008",
+   "title": "Ordinul nr. 127/2008 pentru aprobarea Normelor privind stabilirea calității de veteran de război de către Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101070",
+   "versions": [
+    {
+     "from": "2009-01-08",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101070",
+     "sha256": "60405f3563f25f16c2d1fbac311b33791cf304628cadb943c4fba30538b9d530"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-128-2008",
+   "path": "ordin/aparare/2008/128",
+   "short": "Ordin aparare nr. 128/2008",
+   "title": "Ordinul nr. 128/2008 pentru aprobarea Instrucțiunilor privind folosirea de către personalul armatei și alți beneficiari a fondului construit al Ministerului Apărării, destinat cazării, refacerii capacității de muncă și activităților recreative și sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101072",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101072",
+     "sha256": "a2bb9a1675621007f863ac51f84d7de4c47e685e14e01ab2a42677b50f06880c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-14-2008",
+   "path": "ordin/aparare/2008/14",
+   "short": "Ordin aparare nr. 14/2008",
+   "title": "Ordinul nr. 14/2008 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea activității de protecție a mediului în Armata României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89998",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89998",
+     "sha256": "b529296931bba22ba6b4ab34a77d977f2a6ad5ab2265f8b94a1722ad5667abb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-15-2008",
+   "path": "ordin/aparare/2008/15",
+   "short": "Ordin aparare nr. 15/2008",
+   "title": "Ordinul nr. 15/2008 privind accesul gratuit al luptătorilor pentru victoria Revoluției din decembrie 1989 și al urmașilor eroilor-martiri la tratamente și medicamente în spitale, centre medicale de diagnostic și tratament ambulatoriu și baze de tratament din Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93935",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93935",
+     "sha256": "37f5e233aaf02f77cee9dd01d24c1e85699a193e412de105cdd89fc2aaafcfbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-31-2008",
+   "path": "ordin/aparare/2008/31",
+   "short": "Ordin aparare nr. 31/2008",
+   "title": "Ordinul nr. 31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91040",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91040",
+     "sha256": "da074289864b3385d64179954bb74d86f29266c6b515815aaf542896a9ad7032"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-39-2008",
+   "path": "ordin/aparare/2008/39",
+   "short": "Ordin aparare nr. 39/2008",
+   "title": "Ordinul nr. 39/2008 pentru delegarea către șeful Direcției management resurse umane a competenței îndeplinirii atribuțiilor privind coordonarea și controlul Universității Naționale de Apărare \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92231",
+   "versions": [
+    {
+     "from": "2008-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92231",
+     "sha256": "7e5e86d56b0a2e17a0399b73c037dafc49faf5bbb516ff9db5f3aa763ffb97a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-45-2008",
+   "path": "ordin/aparare/2008/45",
+   "short": "Ordin aparare nr. 45/2008",
+   "title": "Ordinul nr. 45/2008 pentru aprobarea Normelor tehnice de domenii și infrastructuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93541",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93541",
+     "sha256": "1846a04a887f7e8242c2da2c8e9d37f6f836df74b5cb7aba8ceecb237431a7f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-47-2008",
+   "path": "ordin/aparare/2008/47",
+   "short": "Ordin aparare nr. 47/2008",
+   "title": "Ordinul nr. 47/2008 pentru aprobarea Normelor privind achiziția serviciului de pază și intervenție la obiectivele militare prin societăți specializate de pază și protecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93525",
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93525",
+     "sha256": "1ad666fafd92de46c7e61d3b9c8d887ce9fb2b675848d4da18407d839c8b01e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-5-2008",
+   "path": "ordin/aparare/2008/5",
+   "short": "Ordin aparare nr. 5/2008",
+   "title": "Ordinul nr. 5/2008 pentru aprobarea Normelor privind reconversia profesională în Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89181",
+   "versions": [
+    {
+     "from": "2008-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89181",
+     "sha256": "360b24d14dc66dbe1417febcddd8794652d0278c8fbaae6a5c963f04fa2dc931"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-59-2008",
+   "path": "ordin/aparare/2008/59",
+   "short": "Ordin aparare nr. 59/2008",
+   "title": "Ordinul nr. 59/2008 pentru aprobarea Instrucțiunilor privind mentenanța tehnicii de apărare aeriană cu baza la sol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95487",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95487",
+     "sha256": "76d142ff6ae90667f95e302322876a965461bea8ad160d4810710f43791770e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-64-2008",
+   "path": "ordin/aparare/2008/64",
+   "short": "Ordin aparare nr. 64/2008",
+   "title": "Ordinul nr. 64/2008 privind aprobarea Instrucțiunilor pentru aplicarea prevederilor Legii nr. 384/2006 privind statutul soldaților și gradaților voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96884",
+   "versions": [
+    {
+     "from": "2008-08-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96884",
+     "sha256": "05002761e83de922a1a7c33a6445b1d33bdb1c6a92466ec03115b7e4b96aaec3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-74-2008",
+   "path": "ordin/aparare/2008/74",
+   "short": "Ordin aparare nr. 74/2008",
+   "title": "Ordinul nr. 74/2008 pentru aprobarea Normelor privind exercitarea inspecției de sănătate publică și a inspecției sanitar-veterinare și pentru siguranța alimentelor în Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97403",
+   "versions": [
+    {
+     "from": "2008-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97403",
+     "sha256": "77e17d752ab3b988f251dc50981f34d1dfeff8b40357986de17442fa4814e139"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-82-2008",
+   "path": "ordin/aparare/2008/82",
+   "short": "Ordin aparare nr. 82/2008",
+   "title": "Ordinul nr. 82/2008 pentru stabilirea domeniilor și condițiilor privind angajarea și executarea, la cerere, prin unitățile ministerului apărării, a prestărilor de servicii pentru persoane juridice sau pentru persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97028",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97028",
+     "sha256": "700baedda1efdd50340af067eb13cc56ab514188e74de8703a8e27bd6d99f851"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-89-2008",
+   "path": "ordin/aparare/2008/89",
+   "short": "Ordin aparare nr. 89/2008",
+   "title": "Ordinul nr. 89/2008 pentru aprobarea Normelor privind închirierea unor imobile sau părți din acestea, disponibile, aflate în administrarea Ministerului Apărării și în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97457",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97457",
+     "sha256": "505d77e60cb1556b75ba9cf11f66cdd12a9c75eb3c097505888cf04c90f2fab3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-9-2008",
+   "path": "ordin/aparare/2008/9",
+   "short": "Ordin aparare nr. 9/2008",
+   "title": "Ordinul nr. 9/2008 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului de Planificare a Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89608",
+   "versions": [
+    {
+     "from": "2008-02-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89608",
+     "sha256": "d01d186d84c2e3c1d65d1a7a0316c08b89f6c7de9073113aa001e6b3ca61ac13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-90-2008",
+   "path": "ordin/aparare/2008/90",
+   "short": "Ordin aparare nr. 90/2008",
+   "title": "Ordinul nr. 90/2008 privind acordarea sporului de prevenție personalului de specialitate medico-sanitar și auxiliar sanitar din structurile sanitare ale Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97512",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97512",
+     "sha256": "72adaa374c34b22f9d74bdc36e1344696d47bd43ad557c56c5074870e0841759"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-91-2008",
+   "path": "ordin/aparare/2008/91",
+   "short": "Ordin aparare nr. 91/2008",
+   "title": "Ordinul nr. 91/2008 pentru aprobarea Regulamentului proprietății imobiliare în Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97630",
+   "versions": [
+    {
+     "from": "2008-09-26",
+     "units": 189,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97630",
+     "sha256": "4f872b2015825c916c157bcc47e6b3e35730bf04434156b70793c9c4a3fa2263"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-93-2008",
+   "path": "ordin/aparare/2008/93",
+   "short": "Ordin aparare nr. 93/2008",
+   "title": "Ordinul nr. 93/2008 pentru aprobarea Criteriilor și metodologiei privind selecționarea personalului și stabilirea duratei participării acestuia la misiuni individuale în afara teritoriului statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97677",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97677",
+     "sha256": "4bbb12bd56801df460f89430a1596de034ff358a05bf5c5d5d931025fdd21d4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-94-2008",
+   "path": "ordin/aparare/2008/94",
+   "short": "Ordin aparare nr. 94/2008",
+   "title": "Ordinul nr. 94/2008 pentru aprobarea \" A.N.S.-2, Regulamentul privind organizarea și funcționarea Comisiei superioare pentru acte normative specifice a Ministerului Apărării Naționale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299553",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299553",
+     "sha256": "dcb6e76e01c44a7d12ee88d416bee73038feead2aea768c70b5e7c03aa38588f"
     }
    ]
   },

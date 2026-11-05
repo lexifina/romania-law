@@ -3,6 +3,51 @@
  "shard": "ordin/1996",
  "acts": [
   {
+   "slug": "ordin-agricultura-14-1996",
+   "path": "ordin/agricultura/1996/14",
+   "short": "Ordin agricultura nr. 14/1996",
+   "title": "Ordinul nr. 14/1996 pentru modificarea Regulamentului cu privire la acordarea licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7917",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7917",
+     "sha256": "3d5254ba88f157abf64c524bfe267798c4463b1fd69415d64ca73d5af9cbea9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-31-1996",
+   "path": "ordin/agricultura/1996/31",
+   "short": "Ordin agricultura nr. 31/1996",
+   "title": "Ordinul nr. 31/1996 pentru modificarea Regulamentului cu privire la acordarea licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8118",
+   "versions": [
+    {
+     "from": "1996-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8118",
+     "sha256": "5f5ad884d8200263e9cec1a072379b9d35c2eea0cc2855d964fa81c65b9233bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-1996",
+   "path": "ordin/agricultura/1996/8",
+   "short": "Ordin agricultura nr. 8/1996",
+   "title": "Ordinul nr. 8/1996 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7823",
+   "versions": [
+    {
+     "from": "1996-04-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7823",
+     "sha256": "c2ff7da0f3145ec232fd9a8f4b64f9f454d6c61c335440032bc3e0a1655d8773"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-1996",
    "path": "ordin/cnvm/1996/1",
    "short": "Ordin cnvm nr. 1/1996",

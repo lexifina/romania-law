@@ -3,6 +3,21 @@
  "shard": "instructiuni/2002",
  "acts": [
   {
+   "slug": "instructiuni-agricultura-195-2002",
+   "path": "instructiuni/agricultura/2002/195",
+   "short": "Instrucțiuni agricultura nr. 195/2002",
+   "title": "Instrucțiunile nr. 195/2002 privind acordarea bonurilor valorice reprezentând contravaloarea cotei unice, necesare achiziționării carburanților auto utilizați în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36045",
+   "versions": [
+    {
+     "from": "2002-05-17",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36045",
+     "sha256": "46fe6d7702981251beea2c861c7066ce44fa349d1b7c815922e340cb57d27d1f"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-dezvoltare-1872-2002",
    "path": "instructiuni/dezvoltare/2002/1872",
    "short": "Instrucțiuni dezvoltare nr. 1872/2002",

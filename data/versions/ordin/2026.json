@@ -3,6 +3,111 @@
  "shard": "ordin/2026",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2026",
+   "path": "ordin/agricultura/2026/10",
+   "short": "Ordin agricultura nr. 10/2026",
+   "title": "Ordinul nr. 10/2026 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.343/2018 privind aprobarea valorii tarifului datorat pentru scoaterea definitivă sau temporară din circuitul agricol a terenurilor aflate în extravilan, precum și pentru introducerea terenurilor agricole în intravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306580",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306580",
+     "sha256": "1f4e98fc9099057ca2a84382e85dbb7bbff6dc3bea4c8b94e3feafd7c4f1109f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-101-2026",
+   "path": "ordin/agricultura/2026/101",
+   "short": "Ordin agricultura nr. 101/2026",
+   "title": "Ordinul nr. 101/2026 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 364/2016 pentru aprobarea Normelor privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309606",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309606",
+     "sha256": "2044c98d60e927db069d2b459315d9abc86b93b1c6ab83489be0794569c77d0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-127-2026",
+   "path": "ordin/agricultura/2026/127",
+   "short": "Ordin agricultura nr. 127/2026",
+   "title": "Ordinul nr. 127/2026 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 703/2013 privind aprobarea condițiilor în care se vor încheia convențiile dintre instituțiile financiare bancare și nebancare și Agenția de Plăți și Intervenție pentru Agricultură, în vederea finanțării de către acestea a activităților curente ale beneficiarilor plăților derulate prin Agenția de Plăți și Intervenție pentru Agricultură, în baza adeverințelor eliberate de Agenția de Plăți și Intervenție pentru Agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309829",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309829",
+     "sha256": "38a575a86b7ee19bcfcca2aebf5ebd7ac7f3b416f0c95b68c7a7ee7e5ace8645"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-130-2026",
+   "path": "ordin/agricultura/2026/130",
+   "short": "Ordin agricultura nr. 130/2026",
+   "title": "Ordinul nr. 130/2026 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 20/2025 pentru aprobarea Normelor privind modul de accesare a sprijinului financiar din cadrul Planului strategic PAC 2023-2027, de către organizațiile de producători și alte forme asociative din sectorul fructelor și legumelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309793",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309793",
+     "sha256": "614a869c3179dcf5ee62fe09660d923961aa8cdc13f716db86683ba10cbe0d86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-132-2026",
+   "path": "ordin/agricultura/2026/132",
+   "short": "Ordin agricultura nr. 132/2026",
+   "title": "Ordinul nr. 132/2026 pentru modificarea art. 1 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 9/2026 privind aprobarea nivelului comisioanelor de garantare pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309830",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309830",
+     "sha256": "e3d3d90f0e02855ab05ca45cddf11ebd658fffb1d67372246fdff7a2d69f36e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-133-2026",
+   "path": "ordin/agricultura/2026/133",
+   "short": "Ordin agricultura nr. 133/2026",
+   "title": "Ordinul nr. 133/2026 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 70/2023 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309776",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309776",
+     "sha256": "bbe5ecb0ef425fa79b722f2711e0346b25cb95e1aab299b0e1a16d8bb3e94546"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-138-2026",
+   "path": "ordin/agricultura/2026/138",
+   "short": "Ordin agricultura nr. 138/2026",
+   "title": "Ordinul nr. 138/2026 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 105/2023 pentru aprobarea criteriilor de eligibilitate, documentelor justificative, condițiilor și modului de implementare a intervențiilor aferente sectorului apicol prevăzute la art. 1 alin. (2) lit. e) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 20232027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309958",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309958",
+     "sha256": "0f25946efd9923a043ce6b956f7e2c1a1f49202f00772fe1edbdb028ac1b2510"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-140-2026",
    "path": "ordin/agricultura/2026/140",
    "short": "Ordin agricultura nr. 140/2026",
@@ -63,6 +168,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-151-2026",
+   "path": "ordin/agricultura/2026/151",
+   "short": "Ordin agricultura nr. 151/2026",
+   "title": "Ordinul nr. 151/2026 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2025 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit alocate anual, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310501",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310501",
+     "sha256": "624b169248baf2b21f2937e7a3443ae0cc44cc19141770c63aeb35a674248f70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-152-2026",
+   "path": "ordin/agricultura/2026/152",
+   "short": "Ordin agricultura nr. 152/2026",
+   "title": "Ordinul nr. 152/2026 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 57/2026 privind aprobarea denumirilor comerciale ale speciilor de pești și altor viețuitoare acvatice, acceptate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310502",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310502",
+     "sha256": "3ef1ff6ba5204bf1f42ef7b3186279bd9e9797632e70d5d7a819e2c45e79b30a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-154-2026",
    "path": "ordin/agricultura/2026/154",
    "short": "Ordin agricultura nr. 154/2026",
@@ -93,6 +228,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-185-2026",
+   "path": "ordin/agricultura/2026/185",
+   "short": "Ordin agricultura nr. 185/2026",
+   "title": "Ordinul nr. 185/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 312/2021 privind organizarea sistemului de control și certificare, de aprobare a organismelor de control și de supraveghere a activității acestora în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311511",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311511",
+     "sha256": "95e83f9c3f469d4d8e35cb09376150f4131285c00d669a647d2614e120a19787"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-187-2026",
+   "path": "ordin/agricultura/2026/187",
+   "short": "Ordin agricultura nr. 187/2026",
+   "title": "Ordinul nr. 187/2026 privind modificarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 42/2026 pentru aprobarea cuantumului unitar al plăților directe aferente cererilor de plată depuse în anul 2025, finanțate din Fondul european de garantare agricolă prin intervențiile din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311855",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311855",
+     "sha256": "a1fdc658ac2def972f42ac2609da30af9eb1b9cd3fdb5b2710bf8090804c5625"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-198-2026",
    "path": "ordin/agricultura/2026/198",
    "short": "Ordin agricultura nr. 198/2026",
@@ -108,6 +273,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-20-2026",
+   "path": "ordin/agricultura/2026/20",
+   "short": "Ordin agricultura nr. 20/2026",
+   "title": "Ordinul nr. 20/2026 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 521/2024 pentru aprobarea Sistemului de sancțiuni aplicabil pentru cererile de finanțare/plată, depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat \"Silvomediu și climă\", aferentă intervenției DR-07 \"Silvomediu și climă\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307114",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307114",
+     "sha256": "de5674df7b8cda9e857422199c8c8020069a8ff1985c78b799f79b0118fa7d07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-200-2026",
    "path": "ordin/agricultura/2026/200",
    "short": "Ordin agricultura nr. 200/2026",
@@ -119,6 +299,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312462",
      "sha256": "160cd784622fd286ff498e216972cd0f55ae7c17476b63cad3c0ab75cf30984e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-201-2026",
+   "path": "ordin/agricultura/2026/201",
+   "short": "Ordin agricultura nr. 201/2026",
+   "title": "Ordinul nr. 201/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 286/2024 privind aprobarea sistemelor de sancțiuni aferente intervențiilor cu caracter compensatoriu din cadrul Planului strategic PAC 2023-2027, gestionate prin Sistemul integrat de administrare și control, aplicabile cererilor de plată depuse începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312762",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312762",
+     "sha256": "6d4fd5631e02407080644d15019987defa4218f29644e82d1c48bb6b7df7acd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-203-2026",
+   "path": "ordin/agricultura/2026/203",
+   "short": "Ordin agricultura nr. 203/2026",
+   "title": "Ordinul nr. 203/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 49/2025 privind modalitatea de implementare a intervenției IS-V-02 \"Investiții în active corporale și necorporale\" și a intervenției IS-V-07 \"Investiții în active corporale și necorporale menite să sporească durabilitatea producției de vin\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312770",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312770",
+     "sha256": "c1894dc9fe37a3a9765fe6e931d53fc446554d79f37686e2e8c4768854ff75bd"
     }
    ]
   },
@@ -179,6 +389,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313349",
      "sha256": "772af18684be666c1fe9c0b11f80bc7dda03f21f45ffa35577c2d32db5d80252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-250-2026",
+   "path": "ordin/agricultura/2026/250",
+   "short": "Ordin agricultura nr. 250/2026",
+   "title": "Ordinul nr. 250/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 5/2026 privind nominalizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele acvatice naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313841",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313841",
+     "sha256": "4b988e3e561c0b2cce1ecabfee8bc0bb50f64b7337ff642a0a23dd59d2a8baaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2026",
+   "path": "ordin/agricultura/2026/252",
+   "short": "Ordin agricultura nr. 252/2026",
+   "title": "Ordinul nr. 252/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 393/2023 privind aprobarea Sistemului de sancțiuni administrative pentru condiționalitate începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313909",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313909",
+     "sha256": "d7c0db2d789b8dee9c71082b48433de71fd5ca7f5844af54e82a88c3ffa1adae"
     }
    ]
   },
@@ -258,6 +498,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-29-2026",
+   "path": "ordin/agricultura/2026/29",
+   "short": "Ordin agricultura nr. 29/2026",
+   "title": "Ordinul nr. 29/2026 privind modificarea anexelor nr. 5 și 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și anexei nr. 4 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307471",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307471",
+     "sha256": "5d064e1ac373feacd9a30cc1f9758fa586fc791040b96ee506f58f25d63d0735"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-294-2026",
+   "path": "ordin/agricultura/2026/294",
+   "short": "Ordin agricultura nr. 294/2026",
+   "title": "Ordinul nr. 294/2026 pentru modificarea anexelor nr. 9a-9g la anexa Ordinului ministrului agriculturii și dezvoltării rurale nr. 304/2021 privind aprobarea termenelor și modelelor de cereri de autorizare pentru activitatea de clasificare a carcaselor și a documentelor necesare obținerii autorizației de clasificare a carcaselor, modelului formularului-tip pentru autorizația de clasificare, pe specii, precum și a modelului Registrului de evidență a autorizațiilor de clasificare a carcaselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315730",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315730",
+     "sha256": "00d024df0aa4430e001fdf58797b209012f692350d3eb9736979e5903b6446bc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-33-2026",
    "path": "ordin/agricultura/2026/33",
    "short": "Ordin agricultura nr. 33/2026",
@@ -303,6 +573,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-44-2026",
+   "path": "ordin/agricultura/2026/44",
+   "short": "Ordin agricultura nr. 44/2026",
+   "title": "Ordinul nr. 44/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 106/2024 privind modalitatea de implementare, îndeplinirea criteriilor de eligibilitate, a condițiilor și altor cerințe specifice, inclusiv tipurile de documente justificative pentru intervențiile aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307598",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307598",
+     "sha256": "31826e4e75bad2f1e2fac2c381504c5ae0b752ab10f06c42a3ae650bc4bb1d0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-45-2026",
+   "path": "ordin/agricultura/2026/45",
+   "short": "Ordin agricultura nr. 45/2026",
+   "title": "Ordinul nr. 45/2026 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 107/2024 privind implementarea măsurilor și intervențiilor compensatorii de mediu și climă din Programul Național de Dezvoltare Rurală 2014-2020 și din Planul strategic PAC 2023-2027, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307610",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307610",
+     "sha256": "d52aaee88b0dd8236848533065bb4f3d7b0ea347b7d224f1370b8e37ab366390"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-49-2026",
    "path": "ordin/agricultura/2026/49",
    "short": "Ordin agricultura nr. 49/2026",
@@ -329,6 +629,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306467",
      "sha256": "a2f33ccbcfa2b94e541db3dc8bd75b8d849389e3d404f9861823051222abf4ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-56-2026",
+   "path": "ordin/agricultura/2026/56",
+   "short": "Ordin agricultura nr. 56/2026",
+   "title": "Ordinul nr. 56/2026 pentru modificarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2025 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit alocate anual, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308113",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308113",
+     "sha256": "45278f7b00e3cada46a9bd077268e2aa050a6293bc3cdb77f74a1f5d54e6b4b0"
     }
    ]
   },
@@ -2459,6 +2774,351 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315823",
      "sha256": "52a6070039656756f62e9c11e97d6605336f414774006d678e4926bb11b559c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-131-2026",
+   "path": "ordin/aparare/2026/131",
+   "short": "Ordin aparare nr. 131/2026",
+   "title": "Ordinul nr. 131/2026 pentru completarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312288",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312288",
+     "sha256": "7f2851e0e49b91c53980e6e0181617247b723282945fb709459e050b80916c86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-132-2026",
+   "path": "ordin/aparare/2026/132",
+   "short": "Ordin aparare nr. 132/2026",
+   "title": "Ordinul nr. 132/2026 pentru modificarea și completarea Normelor privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.59/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312293",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312293",
+     "sha256": "17d7bd68695d46836c55a3078c1551394a464106a39118e3a8d4fc003d8f827d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-142-2026",
+   "path": "ordin/aparare/2026/142",
+   "short": "Ordin aparare nr. 142/2026",
+   "title": "Ordinul nr. 142/2026 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.101/2011 pentru aprobarea Criteriilor și metodologiei privind selecția personalului în vederea participării la misiuni și operații în afara teritoriului statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313563",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313563",
+     "sha256": "4214097739eb0774d6906372dd2e4dedbe1ae79010c7fc2d539609683fc3f095"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-151-2026",
+   "path": "ordin/aparare/2026/151",
+   "short": "Ordin aparare nr. 151/2026",
+   "title": "Ordinul nr. 151/2026 pentru completarea Instrucțiunilor privind formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313800",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313800",
+     "sha256": "e86dbb7fa449e1c838de9e5e89fb5e7a53381d3f09b1cd4738ba4fd2b9370a6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-155-2026",
+   "path": "ordin/aparare/2026/155",
+   "short": "Ordin aparare nr. 155/2026",
+   "title": "Ordinul nr. 155/2026 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313953",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313953",
+     "sha256": "f868fcf27a9e099970e6f624b25561387752193d07331c1864fed8a492e8ac30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-156-2026",
+   "path": "ordin/aparare/2026/156",
+   "short": "Ordin aparare nr. 156/2026",
+   "title": "Ordinul nr. 156/2026 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313954",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313954",
+     "sha256": "3e33be1f05692013acd1fb60922dcc029eb4bd71648838e7a999cfbd04d14883"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-162-2026",
+   "path": "ordin/aparare/2026/162",
+   "short": "Ordin aparare nr. 162/2026",
+   "title": "Ordinul nr. 162/2026 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314641",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314641",
+     "sha256": "ac42ca8c4388b6bb4d1b6c0a26f5f8039495f93d62972239154c2a9e67ac8411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-165-2026",
+   "path": "ordin/aparare/2026/165",
+   "short": "Ordin aparare nr. 165/2026",
+   "title": "Ordinul nr. 165/2026 privind conferirea semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314644",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314644",
+     "sha256": "2a1a4aad50b5f9e25560f6610e02010aef3abdb90d0b122e456a66914fa4ad89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-166-2026",
+   "path": "ordin/aparare/2026/166",
+   "short": "Ordin aparare nr. 166/2026",
+   "title": "Ordinul nr. 166/2026 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314645",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314645",
+     "sha256": "b33e2ba71a077c2b0427b767e18e7d60ac3e3c969a431b4796e33cca3c0809a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-167-2026",
+   "path": "ordin/aparare/2026/167",
+   "short": "Ordin aparare nr. 167/2026",
+   "title": "Ordinul nr. 167/2026 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314646",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314646",
+     "sha256": "34b67540b1d2f3c9809b90351788a8bb37b49a14f53728c9736fd7239bd2c095"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-168-2026",
+   "path": "ordin/aparare/2026/168",
+   "short": "Ordin aparare nr. 168/2026",
+   "title": "Ordinul nr. 168/2026 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314647",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314647",
+     "sha256": "59fdbb0539ea8a40ced139dc67ec661e2ff4ab8a1ab3287e5f8aea47b8cb90ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-17-2026",
+   "path": "ordin/aparare/2026/17",
+   "short": "Ordin aparare nr. 17/2026",
+   "title": "Ordinul nr. 17/2026 pentru modificarea și completarea Normelor privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.59/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307296",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307296",
+     "sha256": "955d7605cc1e6c1a81216ba15f43e66ae7bfdb0382488f965860075fce770b65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-171-2026",
+   "path": "ordin/aparare/2026/171",
+   "short": "Ordin aparare nr. 171/2026",
+   "title": "Ordinul nr. 171/2026 privind conferirea Semnului onorific În Serviciul Patriei unui subofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314650",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314650",
+     "sha256": "28614975588315f3d8d316b2521f3cc5416ac516c2ce57b23ad0f4bbd28f822f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-174-2026",
+   "path": "ordin/aparare/2026/174",
+   "short": "Ordin aparare nr. 174/2026",
+   "title": "Ordinul nr. 174/2026 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314653",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314653",
+     "sha256": "4b10c41aeb096822d85346bfeebdb3cf32a49938e4670ff2a6ae40b812dcda9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-18-2026",
+   "path": "ordin/aparare/2026/18",
+   "short": "Ordin aparare nr. 18/2026",
+   "title": "Ordinul nr. 18/2026 privind modificarea și completarea Ordinului ministrului apărării naționale nr. M.217/2019 pentru aprobarea condițiilor și criteriilor de recrutare, precum și a instrucțiunilor privind organizarea și funcționarea sistemului de recrutare, selecție și formare profesională inițială a candidaților la profesia militară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306550",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306550",
+     "sha256": "dfaf25ec8abcf1a2da964833f3f67929325f9a0813cf3d734125eb40c0967a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-190-2026",
+   "path": "ordin/aparare/2026/190",
+   "short": "Ordin aparare nr. 190/2026",
+   "title": "Ordinul nr. 190/2026 pentru modificarea și completarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315045",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315045",
+     "sha256": "1f3f3da7e9ec62400e67b6d7defe2729a8cea04cdd5c3b93713d53ea7098b5b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-194-2026",
+   "path": "ordin/aparare/2026/194",
+   "short": "Ordin aparare nr. 194/2026",
+   "title": "Ordinul nr. 194/2026 pentru modificarea și completarea Regulamentului de organizare și funcționare a comisiilor pentru problemele sociale ale personalului din Ministerul Apărării Naționale, aprobat prin Ordinul ministrului apărării naționale nr. M.87/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315082",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315082",
+     "sha256": "3bdd683f7bd97c83140dfbc8059d629ff75e9b44a91f9b1f69030d68a8a86be8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-201-2026",
+   "path": "ordin/aparare/2026/201",
+   "short": "Ordin aparare nr. 201/2026",
+   "title": "Ordinul nr. 201/2026 pentru modificarea și completarea anexei nr. 1 la Ordinul ministrului apărării naționale nr. M.233/2023 privind încheierea contractelor educaționale de către elevii/elevele din unitățile de învățământ preuniversitar militar ale Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315278",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315278",
+     "sha256": "7454e28c4e13f2de0ead1812a86565818dacbe35fd93851c95745e287ae646cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-202-2026",
+   "path": "ordin/aparare/2026/202",
+   "short": "Ordin aparare nr. 202/2026",
+   "title": "Ordinul nr. 202/2026 pentru modificarea și completarea Regulamentului serviciului la bordul navelor militare, aprobat prin Ordinul ministrului apărării naționale nr. M.24/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315357",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315357",
+     "sha256": "39fe259ad06dbd878e90a07632b9803a15fc6ab8a2b5a56f92a6bb7b9b03e646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-205-2026",
+   "path": "ordin/aparare/2026/205",
+   "short": "Ordin aparare nr. 205/2026",
+   "title": "Ordinul nr. 205/2026 pentru aprobarea Regulamentului privind descrierea, compunerea și portul uniformelor militare ale personalului Armatei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315661",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 298,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315661",
+     "sha256": "e6ee094e495f989b77d0797d825a058e0f48dfb93eadd7db20284e6d9937d782"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-21-2026",
+   "path": "ordin/aparare/2026/21",
+   "short": "Ordin aparare nr. 21/2026",
+   "title": "Ordinul nr. 21/2026 pentru modificarea Instrucțiunilor privind activitatea legislativă, de reprezentare și asistență juridică în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.75/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306537",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306537",
+     "sha256": "183e82cbc77bea973b132247ceeead22885ce886cf6b8e450e4a388deff7a6d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-46-2026",
+   "path": "ordin/aparare/2026/46",
+   "short": "Ordin aparare nr. 46/2026",
+   "title": "Ordinul nr. 46/2026 pentru aprobarea Normelor metodologice de selecție și expertiză medicală și psihologică a personalului aeronautic care desfășoară activități aeronautice militare și a Normelor metodologice de efectuare a cursului de instruire și certificare în performanțele și siguranța factorului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307409",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307409",
+     "sha256": "9b1b3bb14a816d77f549203b144f015b5d3749286f96bedb5bbc080b46010b38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-95-2026",
+   "path": "ordin/aparare/2026/95",
+   "short": "Ordin aparare nr. 95/2026",
+   "title": "Ordinul nr. 95/2026 pentru modificarea Instrucțiunilor privind asistența medicală și farmaceutică în Ministerul Apărării Naționale pe timp de pace, aprobate prin Ordinul ministrului apărării naționale nr. M.110/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310521",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310521",
+     "sha256": "3ff9207186115f6d0d41e44eb28ea98dd8875f22d5276d775557ea7906a01aa4"
     }
    ]
   },

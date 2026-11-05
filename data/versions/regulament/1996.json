@@ -176,7 +176,7 @@
    "versions": [
     {
      "from": "1996-08-05",
-     "units": 59,
+     "units": 61,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7737",
      "sha256": "025719783c8af56dbfffe074a536c3e77c865a67395fc9753729d13b7d84097b"
     }
@@ -191,7 +191,7 @@
    "versions": [
     {
      "from": "1996-08-05",
-     "units": 9,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7753",
      "sha256": "e8b5120d1ede4618e1dc0d52fb1f39f7f63cdf881e287595741dd005c9f6bd7a"
     }

@@ -3,6 +3,261 @@
  "shard": "ordin/2004",
  "acts": [
   {
+   "slug": "ordin-agricultura-101-2004",
+   "path": "ordin/agricultura/2004/101",
+   "short": "Ordin agricultura nr. 101/2004",
+   "title": "Ordinul nr. 101/2004 privind acțiunile fitosanitare de interes național și modul de finanțare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49752",
+   "versions": [
+    {
+     "from": "2004-02-13",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49752",
+     "sha256": "09b14b84b81906260471aab14a9ded25a0bc2b43c50df76a0ff572afe3d7b222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-107-2004",
+   "path": "ordin/agricultura/2004/107",
+   "short": "Ordin agricultura nr. 107/2004",
+   "title": "Ordinul nr. 107/2004 pentru aprobarea Programului de extindere a fondului forestier național în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49831",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49831",
+     "sha256": "2cd027b21d0b11e8a628e275cf7d6a3a9821e11b24c0c81aefae56db5e2dc4f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-108-2004",
+   "path": "ordin/agricultura/2004/108",
+   "short": "Ordin agricultura nr. 108/2004",
+   "title": "Ordinul nr. 108/2004 pentru aprobarea Normei sanitare veterinare privind Programul de supraveghere, profilaxie și combatere a bolilor la animale, de prevenire a transmiterii de boli de la animale la om și de protecție a mediului pentru anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50282",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50282",
+     "sha256": "4bc7ce5ea4cf1e33042d0a9df5499edfee9046543d059e14ce36ea62dc99f0ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-119-2004",
+   "path": "ordin/agricultura/2004/119",
+   "short": "Ordin agricultura nr. 119/2004",
+   "title": "Ordinul nr. 119/2004 privind aprobarea Criteriilor pentru atestarea eligibilității crescătorilor de viermi de mătase din specia Bombyx mori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49859",
+   "versions": [
+    {
+     "from": "2004-02-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49859",
+     "sha256": "16b28e890d7ede49dafc219adae161fba9bc8e8919afe9c11d50824fea7e215b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-126-2004",
+   "path": "ordin/agricultura/2004/126",
+   "short": "Ordin agricultura nr. 126/2004",
+   "title": "Ordinul nr. 126/2004 pentru aprobarea modelului de contract-cadru de gestionare a fondurilor de vânătoare specifice fiecărei categorii de gestionari prevăzute de Legea fondului cinegetic și a protecției vânatului nr. 103/1996, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50197",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50197",
+     "sha256": "b6b46481c23922098ae7f1acd0b49c65e1838e010e3b4940b12c47ba09755cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-130-2004",
+   "path": "ordin/agricultura/2004/130",
+   "short": "Ordin agricultura nr. 130/2004",
+   "title": "Ordinul nr. 130/2004 pentru aprobarea zonelor deficitare în păduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50140",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50140",
+     "sha256": "7f6e3fad632865c513549bca0e29b771a790c04b982217790f8e7478a7d125f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-137-2004",
+   "path": "ordin/agricultura/2004/137",
+   "short": "Ordin agricultura nr. 137/2004",
+   "title": "Ordinul nr. 137/2004 privind modificarea și completarea prevederilor Ordinului ministrului agriculturii, alimentației și pădurilor nr. 84/2003 pentru aprobarea Regulamentului privind testarea și înregistrarea soiurilor de plante de cultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50469",
+   "versions": [
+    {
+     "from": "2004-03-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50469",
+     "sha256": "a1fb59a779f87fbb55ae11b1df835d8e8dabc939851633c3da307a5e3a2c0ca1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-142-2004",
+   "path": "ordin/agricultura/2004/142",
+   "short": "Ordin agricultura nr. 142/2004",
+   "title": "Ordinul nr. 142/2004 pentru aprobarea Procedurii de evaluare a raportului de securitate privind activitățile care prezintă pericole de producere a accidentelor majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50190",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50190",
+     "sha256": "55a9c4ea7e4210041c4bbae53a4afa362a56d4c25ee47cb439b78979b59d4e2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-143-2004",
+   "path": "ordin/agricultura/2004/143",
+   "short": "Ordin agricultura nr. 143/2004",
+   "title": "Ordinul nr. 143/2004 privind aprobarea organizării și funcționării Inspecției de stat pentru controlul tehnic în producerea și valorificarea legumelor și fructelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50214",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50214",
+     "sha256": "27063a5d542243121f336bac98e3bbbb6e7b204e34805ea9a32954bef0dc56e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-145-2004",
+   "path": "ordin/agricultura/2004/145",
+   "short": "Ordin agricultura nr. 145/2004",
+   "title": "Ordinul nr. 145/2004 pentru aprobarea Normei veterinare privind măsuri de urgență pentru protecția împotriva encefalopatiei spongiforme bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50467",
+   "versions": [
+    {
+     "from": "2004-03-17",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50467",
+     "sha256": "bdaebef694051456dd3ac5fd13fa59834c822f7c277eb6ffbb899611cecde7e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-149-2004",
+   "path": "ordin/agricultura/2004/149",
+   "short": "Ordin agricultura nr. 149/2004",
+   "title": "Ordinul nr. 149/2004 privind aprobarea formularelor-tip privind autorizarea plantării și defrișării plantațiilor pomicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50138",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50138",
+     "sha256": "05649103b8a824262bc261d24fabf177ee890c6c8399f470238aeeaa95347b20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-152-2004",
+   "path": "ordin/agricultura/2004/152",
+   "short": "Ordin agricultura nr. 152/2004",
+   "title": "Ordinul nr. 152/2004 privind stabilirea termenilor de referință pentru organizarea și funcționarea Sistemului integrat de administrare și control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50139",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50139",
+     "sha256": "25bb45cb1f2a84e231255db176de1d35e8d41af5f898d2c996f4f248f19a6d7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-168-2004",
+   "path": "ordin/agricultura/2004/168",
+   "short": "Ordin agricultura nr. 168/2004",
+   "title": "Ordinul nr. 168/2004 privind stabilirea speciilor de animale vii, categoriilor de producție, greutății minime și perioadei admise pentru export în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50307",
+   "versions": [
+    {
+     "from": "2004-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50307",
+     "sha256": "8e1ab0d4d2cb2b1a0899c5be305f630c590052ce76107c0bf923816587f2b8f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-169-2004",
+   "path": "ordin/agricultura/2004/169",
+   "short": "Ordin agricultura nr. 169/2004",
+   "title": "Ordinul nr. 169/2004 pentru aprobarea, prin metoda confirmării directe, a Documentelor de referință privind cele mai bune tehnici disponibile (BREF), aprobate de Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50271",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50271",
+     "sha256": "3c9c225c5367d6c76b2a321acd200197bbdf77e0065654ed289725ab45af20c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-170-2004",
+   "path": "ordin/agricultura/2004/170",
+   "short": "Ordin agricultura nr. 170/2004",
+   "title": "Ordinul nr. 170/2004 pentru aprobarea Normei veterinare privind sistemul de identificare și înregistrare a suinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50424",
+   "versions": [
+    {
+     "from": "2004-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50424",
+     "sha256": "9b0d9516d66e3e0528b42080d1f0b2b0b3b51a67d477b0a2f17b2cdb90aa7491"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-171-2004",
+   "path": "ordin/agricultura/2004/171",
+   "short": "Ordin agricultura nr. 171/2004",
+   "title": "Ordinul nr. 171/2004 pentru aprobarea Normei veterinare privind sistemul de identificare și înregistrare a ovinelor și caprinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50426",
+   "versions": [
+    {
+     "from": "2004-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50426",
+     "sha256": "e5f0aaf6df1d9a5439baaf7b80fd70bb44054229d20cd31d1f261831cf502d4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-172-2004",
+   "path": "ordin/agricultura/2004/172",
+   "short": "Ordin agricultura nr. 172/2004",
+   "title": "Ordinul nr. 172/2004 privind aprobarea Listei cuprinzând laboratoarele autorizate în vederea executării de analize pentru vinurile și celelalte băuturi pe bază de must și vin destinate exportului și pentru vinurile cu denumire de origine controlată, precum și specialiștii împuterniciți să semneze documentele de atestare a calității acestor produse destinate exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50308",
+   "versions": [
+    {
+     "from": "2004-03-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50308",
+     "sha256": "6752b9798a0e6abfa6ad47b2466d9a70582f15f67ffb9a2b432a255677fec11f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-173-2004",
    "path": "ordin/agricultura/2004/173",
    "short": "Ordin agricultura nr. 173/2004",
@@ -33,6 +288,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-203-2004",
+   "path": "ordin/agricultura/2004/203",
+   "short": "Ordin agricultura nr. 203/2004",
+   "title": "Ordinul nr. 203/2004 privind aprobarea Listei cuprinzând deținătorii de patrimoniu genetic al animalelor în anul 2004 pentru speciile ovine, păsări, animale de blană, viermi de mătase, albine, pești, taurine, porcine și palmipede, pe rase și linii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50920",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50920",
+     "sha256": "5dce6b6de2782e0d01177cabd67467bccac3adc0bc6ee8ee854b670877038120"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-205-2004",
+   "path": "ordin/agricultura/2004/205",
+   "short": "Ordin agricultura nr. 205/2004",
+   "title": "Ordinul nr. 205/2004 privind stabilirea Procedurii de prelevare a probelor în cazul inspecției fitosanitare la import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50865",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50865",
+     "sha256": "7a7232d6a496b9f14121b391283e7b71b3286cc8cba829c6594eb13b32333a8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-206-2004",
    "path": "ordin/agricultura/2004/206",
    "short": "Ordin agricultura nr. 206/2004",
@@ -44,6 +329,66 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51034",
      "sha256": "65672e378588b2a1985fd983e236879e465614f6aeafce1b537404406d2add53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-207-2004",
+   "path": "ordin/agricultura/2004/207",
+   "short": "Ordin agricultura nr. 207/2004",
+   "title": "Ordinul nr. 207/2004 privind prohibiția pescuitului în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51030",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51030",
+     "sha256": "bc4a925fab4b6c14ffd7ebdce38ba18197bbb292423dee0e4af304f3eabc1219"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-210-2004",
+   "path": "ordin/agricultura/2004/210",
+   "short": "Ordin agricultura nr. 210/2004",
+   "title": "Ordinul nr. 210/2004 privind modificarea Ordinului ministrului apelor și protecției mediului nr. 860/2002 pentru aprobarea Procedurii de evaluare a impactului asupra mediului și de emitere a acordului de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51028",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51028",
+     "sha256": "775a754f8842548c913316af54d30017fb7eafac85d424a895e2fc97d589920b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-212-2004",
+   "path": "ordin/agricultura/2004/212",
+   "short": "Ordin agricultura nr. 212/2004",
+   "title": "Ordinul nr. 212/2004 privind aprobarea Listei cuprinzând indicațiile geografice și denumirile de origine protejate și recunoscute în România pentru produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51063",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51063",
+     "sha256": "5b9a75dd8faa2b8f8ac4e39b6aa46da2c954bb5a26cc131d3f2a2e4e22e256b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-214-2004",
+   "path": "ordin/agricultura/2004/214",
+   "short": "Ordin agricultura nr. 214/2004",
+   "title": "Ordinul nr. 214/2004 privind aprobarea Listei cuprinzând denumirile geografice protejate și recunoscute în România pentru băuturi spirtoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51348",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51348",
+     "sha256": "3e8e324c5bbbea2ff906819f45970148c8c6ba56b3ff8cff6d7e00ac095b1bc9"
     }
    ]
   },
@@ -74,6 +419,171 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51587",
      "sha256": "433eaeb2a6538e4028518883262e3aedf388008e9728757e78b47008cbd3fc06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2004",
+   "path": "ordin/agricultura/2004/234",
+   "short": "Ordin agricultura nr. 234/2004",
+   "title": "Ordinul nr. 234/2004 privind aprobarea documentelor de însoțire a transporturilor de produse vitivinicole și evidențelor obligatorii în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51461",
+   "versions": [
+    {
+     "from": "2004-06-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51461",
+     "sha256": "ba3bb985ed4ec31619cc26a97bea348b98b3865a3075dccee5ed3ae453f6d70f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-241-2004",
+   "path": "ordin/agricultura/2004/241",
+   "short": "Ordin agricultura nr. 241/2004",
+   "title": "Ordinul nr. 241/2004 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 70/2003 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.556/2002 privind sprijinul direct al statului prin acordarea de subvenții în anul 2003 producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51655",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51655",
+     "sha256": "fa50b7369fe6aa7b6e0d2baeb9ce71fb25f888da3cabce31c5290bf402dce66a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-242-2004",
+   "path": "ordin/agricultura/2004/242",
+   "short": "Ordin agricultura nr. 242/2004",
+   "title": "Ordinul nr. 242/2004 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51388",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51388",
+     "sha256": "f6dea4f6c8f1bdcd47cb2cbb92502251beb5bcfe6000ddfe2d2c167dc8332474"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-255-2004",
+   "path": "ordin/agricultura/2004/255",
+   "short": "Ordin agricultura nr. 255/2004",
+   "title": "Ordinul nr. 255/2004 privind organizarea controlului în sectorul plantelor ornamentale și florilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51702",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51702",
+     "sha256": "644b198b36987b2e7798f372f5f3b22e29045291f11ea357e0cb7252d19934d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-257-2004",
+   "path": "ordin/agricultura/2004/257",
+   "short": "Ordin agricultura nr. 257/2004",
+   "title": "Ordinul nr. 257/2004 privind componența Comisiei de atestare a agenților economici în activitatea de exploatare forestieră și aprobarea Regulamentului privind organizarea și funcționarea Comisiei de atestare a agenților economici în activitatea de exploatare forestieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51652",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51652",
+     "sha256": "3b83da20fd35f30aaffa547402b55febd8395808eb0d613fd70bfaf8497bc9c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-259-2004",
+   "path": "ordin/agricultura/2004/259",
+   "short": "Ordin agricultura nr. 259/2004",
+   "title": "Ordinul nr. 259/2004 pentru aprobarea Statutului Comisiei de clasificare a carcaselor de porcine, bovine și ovine, în care se stabilesc atribuțiile, modul de organizare și funcționare, precum și alte reglementări specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51528",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51528",
+     "sha256": "4e0b1befee05fe0271cb3ffb893f49187ac6153afc7b577b458d396324c6717e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-280-2004",
+   "path": "ordin/agricultura/2004/280",
+   "short": "Ordin agricultura nr. 280/2004",
+   "title": "Ordinul nr. 280/2004 pentru aprobarea modelului și conținutului formularului de cazier tehnic de exploatare a masei lemnoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51773",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51773",
+     "sha256": "d65801cdc9b94bc208a91349fd9c067b57b1cae137030dc22336b800c3cae4d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-285-2004",
+   "path": "ordin/agricultura/2004/285",
+   "short": "Ordin agricultura nr. 285/2004",
+   "title": "Ordinul nr. 285/2004 pentru aprobarea Normelor privind protecția denumirilor de origine și indicațiilor geografice ale produselor agricole și produselor alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51754",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51754",
+     "sha256": "2a068c5a992901fb8688c332923b7450c3cfa864d82e03e7af233925c873c364"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-311-2004",
+   "path": "ordin/agricultura/2004/311",
+   "short": "Ordin agricultura nr. 311/2004",
+   "title": "Ordinul nr. 311/2004 pentru aprobarea modelului filei Listei naționale a materialului de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52399",
+   "versions": [
+    {
+     "from": "2004-06-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52399",
+     "sha256": "495371fd73287df58a4d54ef4d6a67db1fcbc09acdadb41431c89a0982638e57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-312-2004",
+   "path": "ordin/agricultura/2004/312",
+   "short": "Ordin agricultura nr. 312/2004",
+   "title": "Ordinul nr. 312/2004 pentru aprobarea modelului buletinului de analiză a calității semințelor forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52401",
+   "versions": [
+    {
+     "from": "2004-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52401",
+     "sha256": "48746829ce9a2c7a7dc6622935a5c7fc06ee214a012826fc0ef43e9a696d73a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-358-2004",
+   "path": "ordin/agricultura/2004/358",
+   "short": "Ordin agricultura nr. 358/2004",
+   "title": "Ordinul nr. 358/2004 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52244",
+   "versions": [
+    {
+     "from": "2004-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52244",
+     "sha256": "f9c9fa162ad92935e51e7fc07661abad1783e3d090e5e6530434cf5d21261d47"
     }
    ]
   },
@@ -153,6 +663,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-4-2004",
+   "path": "ordin/agricultura/2004/4",
+   "short": "Ordin agricultura nr. 4/2004",
+   "title": "Ordinul nr. 4/2004 privind declarația beneficiarului în scopul obținerii sprijinului financiar solicitat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49066",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49066",
+     "sha256": "ef34ec605e4d8a12bdc761912808171ee30fc94fb1412b0b4fed2ea0bcc0afd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-43-2004",
+   "path": "ordin/agricultura/2004/43",
+   "short": "Ordin agricultura nr. 43/2004",
+   "title": "Ordinul nr. 43/2004 pentru autorizarea și recunoașterea Asociației Degustătorilor Autorizați din România (ADAR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49121",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49121",
+     "sha256": "0fc92e62c98d0156cb0d891870cfb0cba0f60e3c76fb17633cf07ad81d8a2c61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-434-2004",
+   "path": "ordin/agricultura/2004/434",
+   "short": "Ordin agricultura nr. 434/2004",
+   "title": "Ordinul nr. 434/2004 privind aprobarea cantităților de produse pe culturi pentru care se acordă sprijin direct al statului în anul 2004, precum și condițiile de eligibilitate a producătorilor agricoli",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53623",
+   "versions": [
+    {
+     "from": "2004-07-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53623",
+     "sha256": "8fdfa24071a73ff7309bf44e19963ae76497322c7cddba3d8765de29f5926d9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-438-2004",
+   "path": "ordin/agricultura/2004/438",
+   "short": "Ordin agricultura nr. 438/2004",
+   "title": "Ordinul nr. 438/2004 pentru modificarea anexei nr. 1 la Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 720/2003 pentru aprobarea modelului siglei și fanionului Inspecției Piscicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53563",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53563",
+     "sha256": "5a168016df588e646d034eabf3018885f11566c8be9c636e26c852d18de966ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-457-2004",
+   "path": "ordin/agricultura/2004/457",
+   "short": "Ordin agricultura nr. 457/2004",
+   "title": "Ordinul nr. 457/2004 pentru aprobarea Normelor tehnice de clasificare a carcaselor de porci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52946",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52946",
+     "sha256": "b44dbcf03bb59298dc0e071773ab866f74394e7b30fc46631c612fc8cc7d5326"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-459-2004",
+   "path": "ordin/agricultura/2004/459",
+   "short": "Ordin agricultura nr. 459/2004",
+   "title": "Ordinul nr. 459/2004 de aprobare a notificării Normelor tehnice privind comerțul cu produse vitivinicole cu țări terțe Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53448",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53448",
+     "sha256": "d9b67417663a0d2c9fad9d92908e5c50553aae89a777564499736a7de733053e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-460-2004",
+   "path": "ordin/agricultura/2004/460",
+   "short": "Ordin agricultura nr. 460/2004",
+   "title": "Ordinul nr. 460/2004 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53900",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53900",
+     "sha256": "128ebed382c5a0bdb88ba69400264aefb65ccf90d084ef0023a9ebdb9adb910f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-461-2004",
    "path": "ordin/agricultura/2004/461",
    "short": "Ordin agricultura nr. 461/2004",
@@ -164,6 +779,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56005",
      "sha256": "a295c0fd6651f562e1daff6b7043efecf88220054ebbaa46acb6d7f3b56048dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-466-2004",
+   "path": "ordin/agricultura/2004/466",
+   "short": "Ordin agricultura nr. 466/2004",
+   "title": "Ordinul nr. 466/2004 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53648",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53648",
+     "sha256": "025e6b41bdedaa283f2f1781bfbf61ebd5c412e405d663a25fe1f63d85a07c74"
     }
    ]
   },
@@ -183,6 +813,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-48-2004",
+   "path": "ordin/agricultura/2004/48",
+   "short": "Ordin agricultura nr. 48/2004",
+   "title": "Ordinul nr. 48/2004 pentru modificarea și completarea anexei nr. 1 la Norma sanitară veterinară privind aprobarea listei posturilor de inspecție de frontieră în care sunt organizate controale sanitare veterinare, a condițiilor de agreere a posturilor de inspecție de frontieră responsabile pentru controalele veterinare ale animalelor vii și produselor provenind din țări terțe, precum și stabilirea atribuțiilor personalului posturilor de inspecție de frontieră, aprobată prin Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 506/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49341",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49341",
+     "sha256": "4b90528724894024366681d3ed231b2b57f673224e4fc4f1f11df1374640b7c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-49-2004",
+   "path": "ordin/agricultura/2004/49",
+   "short": "Ordin agricultura nr. 49/2004",
+   "title": "Ordinul nr. 49/2004 pentru aprobarea Normelor tehnice privind protecția mediului și în special a solurilor, când se utilizează nămoluri de epurare în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49378",
+   "versions": [
+    {
+     "from": "2004-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49378",
+     "sha256": "18b2f3cc18c258649845d1041ec1333c5eed6d7ed78ce0ba4336ab1de41ad7dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-493-2004",
+   "path": "ordin/agricultura/2004/493",
+   "short": "Ordin agricultura nr. 493/2004",
+   "title": "Ordinul nr. 493/2004 privind aprobarea Regulamentului de organizare și funcționare a Comitetului interministerial pentru zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54025",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54025",
+     "sha256": "2ccc731bb6ec305275f8fa2e96c5a8adc1d7a0ba120bab3fcaee1ff2567c4de6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-494-2004",
+   "path": "ordin/agricultura/2004/494",
+   "short": "Ordin agricultura nr. 494/2004",
+   "title": "Ordinul nr. 494/2004 pentru aprobarea modelului de etichetă care însoțește lotul/lotul divizat de material forestier de reproducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54213",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54213",
+     "sha256": "5d0c2f45ce27d11bd726add7ac684ba59c555a1cb186f9b06e6e71b761e78dbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-496-2004",
+   "path": "ordin/agricultura/2004/496",
+   "short": "Ordin agricultura nr. 496/2004",
+   "title": "Ordinul nr. 496/2004 pentru aprobarea formularului de proces-verbal - fișa de inspecție fitosanitară la import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54342",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54342",
+     "sha256": "f2a3a22bf5c05c2b7f38a203a1ed644b7a9b55d4243975c7441523ae67449c7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-497-2004",
+   "path": "ordin/agricultura/2004/497",
+   "short": "Ordin agricultura nr. 497/2004",
+   "title": "Ordinul nr. 497/2004 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53804",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53804",
+     "sha256": "f10edebfa59787e2f59de2952440a4576d16cf108d515410d8cd455ccbdea502"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-50-2004",
+   "path": "ordin/agricultura/2004/50",
+   "short": "Ordin agricultura nr. 50/2004",
+   "title": "Ordinul nr. 50/2004 privind Stabilirea procedurii de organizare și coordonare a schemelor de management de mediu și audit (EMAS) în vederea participării voluntare a organizațiilor la aceste scheme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49466",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49466",
+     "sha256": "ac827f2e9234dc63f9b33d328b166e78125dacc4858965b267176f70ad51e259"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-516-2004",
+   "path": "ordin/agricultura/2004/516",
+   "short": "Ordin agricultura nr. 516/2004",
+   "title": "Ordinul nr. 516/2004 privind repartizarea pe județe și distribuirea cantităților de produse acordate cu titlu gratuit producătorilor agricoli, persoane fizice, ca urmare a fenomenelor meteorologice nefavorabile din perioada mai-iulie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54519",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54519",
+     "sha256": "177216aff7430f66668116eb16c2850ac65bbc4818d12dcaa4d1291b201cb525"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-530-2004",
    "path": "ordin/agricultura/2004/530",
    "short": "Ordin agricultura nr. 530/2004",
@@ -194,6 +944,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54745",
      "sha256": "51e4014245987475b9abb6ddb67f205a9655098d742d6b79fecb7f5995fc6f66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-532-2004",
+   "path": "ordin/agricultura/2004/532",
+   "short": "Ordin agricultura nr. 532/2004",
+   "title": "Ordinul nr. 532/2004 privind aprobarea Listei standardelor de comercializare pentru legume și fructe proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54195",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54195",
+     "sha256": "f188ac8b2bcf621438cfb15665a4dc427bd522dba9e9008a221a70429700e56a"
     }
    ]
   },
@@ -213,6 +978,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-535-2004",
+   "path": "ordin/agricultura/2004/535",
+   "short": "Ordin agricultura nr. 535/2004",
+   "title": "Ordinul nr. 535/2004 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 277/2004 privind constituirea, recunoașterea și funcționarea grupurilor de producători, pentru comercializarea produselor agricole, silvice și piscicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54593",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54593",
+     "sha256": "ff72b397d9d40e8369674fe2dd5f4f131fc2bfa7bc15edfc2d21855b75118024"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-536-2004",
+   "path": "ordin/agricultura/2004/536",
+   "short": "Ordin agricultura nr. 536/2004",
+   "title": "Ordinul nr. 536/2004 privind produsele pentru a căror comercializare se pot constitui grupuri de producători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54560",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54560",
+     "sha256": "7c2f319a00c80487fc7ddafcebd3f0aca3f33b55b4e63a1096624ceb79f27e8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-545-2004",
    "path": "ordin/agricultura/2004/545",
    "short": "Ordin agricultura nr. 545/2004",
@@ -224,6 +1019,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56123",
      "sha256": "fcacd35f9411b442656e3f1737bff6ecc7cac706be0f7f5d8294021101b0dae2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-547-2004",
+   "path": "ordin/agricultura/2004/547",
+   "short": "Ordin agricultura nr. 547/2004",
+   "title": "Ordinul nr. 547/2004 privind stabilirea suprafețelor din fondul forestier național exceptate de la reconstituirea dreptului de proprietate pe vechile amplasamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54348",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54348",
+     "sha256": "64ded6911ee0990f6173542dff0905a2f3107f5e001124a668fcda54824aae84"
     }
    ]
   },
@@ -258,6 +1068,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-583-2004",
+   "path": "ordin/agricultura/2004/583",
+   "short": "Ordin agricultura nr. 583/2004",
+   "title": "Ordinul nr. 583/2004 pentru aprobarea modelelor de acte adiționale la contractele de gestionare a fondurilor de vânătoare, în vederea actualizării contractelor de gestionare încheiate până la data de 18 februarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54728",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54728",
+     "sha256": "6b120baa3b7fad6b4034dbad6e4b6c5d107f74f5fcda19c3de9d49850dfefd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-594-2004",
+   "path": "ordin/agricultura/2004/594",
+   "short": "Ordin agricultura nr. 594/2004",
+   "title": "Ordinul nr. 594/2004 privind aprobarea Zonării soiurilor de viță de vie roditoare recomandate și autorizate pentru cultură în arealele viticole din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54859",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54859",
+     "sha256": "dfd20d5f3292b054293ef3597c5c51a9a4d7fe463c4beb1cd1eac06b39a7030c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-596-2004",
+   "path": "ordin/agricultura/2004/596",
+   "short": "Ordin agricultura nr. 596/2004",
+   "title": "Ordinul nr. 596/2004 pentru aprobarea Normelor metodologice privind definirea, modalitățile de desemnare și stabilirea centrelor de intervenție pe piața cerealelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54861",
+   "versions": [
+    {
+     "from": "2004-10-31",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54861",
+     "sha256": "a30ade516b44e04aed99aad605a73b156a6d7dbc5c5ce75f49bc5b83d3b747cb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-6-2004",
    "path": "ordin/agricultura/2004/6",
    "short": "Ordin agricultura nr. 6/2004",
@@ -273,6 +1128,156 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-614-2004",
+   "path": "ordin/agricultura/2004/614",
+   "short": "Ordin agricultura nr. 614/2004",
+   "title": "Ordinul nr. 614/2004 privind aprobarea Normelor tehnice generale pentru exploatarea, întreținerea și repararea rețelelor de conducte îngropate din amenajările de irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54832",
+   "versions": [
+    {
+     "from": "2004-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54832",
+     "sha256": "f8646580c700507542ca11e7d0e794045665aceebe8aa7ea67a2b8ed26793ba7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-615-2004",
+   "path": "ordin/agricultura/2004/615",
+   "short": "Ordin agricultura nr. 615/2004",
+   "title": "Ordinul nr. 615/2004 pentru modificarea anexelor la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54895",
+   "versions": [
+    {
+     "from": "2004-09-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54895",
+     "sha256": "1413f32d567f9db5f8a9ad85ca69d65cd1553f36d9867607edea5553705fca4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-616-2004",
+   "path": "ordin/agricultura/2004/616",
+   "short": "Ordin agricultura nr. 616/2004",
+   "title": "Ordinul nr. 616/2004 privind aprobarea Normei tehnice pentru punerea în valoare și exploatarea exemplarelor de cireș din arboretele de amestec",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54869",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54869",
+     "sha256": "43f7742ff4376fe0c53889bf93c401e388b5b9a68c12edf00d019ba5f66033f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-62-2004",
+   "path": "ordin/agricultura/2004/62",
+   "short": "Ordin agricultura nr. 62/2004",
+   "title": "Ordinul nr. 62/2004 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 389/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49685",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49685",
+     "sha256": "600f167576d2e957604df2c915c4ad854c807fd1eee3dd1e1c38762872617f30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-624-2004",
+   "path": "ordin/agricultura/2004/624",
+   "short": "Ordin agricultura nr. 624/2004",
+   "title": "Ordinul nr. 624/2004 privind revizuirea pe categorii de resurse a volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2004 și pe destinații pentru pădurile proprietate publică a statului administrate de Regia Națională a Pădurilor - Romsilva și pentru aprobarea repartizării pe județe a volumului maxim de masă lemnoasă provenind din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54947",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54947",
+     "sha256": "d77199f70436f6b230bec60376509b977760cbbb9036cd8f942ada6e97eb3ed8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-625-2004",
+   "path": "ordin/agricultura/2004/625",
+   "short": "Ordin agricultura nr. 625/2004",
+   "title": "Ordinul nr. 625/2004 privind recunoașterea prevederilor Acordului interprofesional pentru sfecla de zahăr recolta anului 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55285",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55285",
+     "sha256": "9eb135244e00957b55a0e30a4e177799ad2ab771b243cb26c6fe0b0d1aee9e49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-629-2004",
+   "path": "ordin/agricultura/2004/629",
+   "short": "Ordin agricultura nr. 629/2004",
+   "title": "Ordinul nr. 629/2004 privind aprobarea repartizării pe județe a volumului maxim de masă lemnoasă care poate fi recoltată în anul 2005 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55021",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55021",
+     "sha256": "8ce6934ea7f37811616f1dfd498ce326a512eb36677dd61544527f951c4ca01c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-630-2004",
+   "path": "ordin/agricultura/2004/630",
+   "short": "Ordin agricultura nr. 630/2004",
+   "title": "Ordinul nr. 630/2004 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55055",
+   "versions": [
+    {
+     "from": "2004-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55055",
+     "sha256": "7dadd206357af916cdc053c56012d3faec30f89323be411f6f7c7d686bc9c245"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-635-2004",
+   "path": "ordin/agricultura/2004/635",
+   "short": "Ordin agricultura nr. 635/2004",
+   "title": "Ordinul nr. 635/2004 pentru aprobarea Regulamentului privind dobândirea permisului de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55248",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55248",
+     "sha256": "7d14c6a0bbd53629e0e50d9a5e9da5b880dbaad40dbdb65dc6b37027462a0ff9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-638-2004",
+   "path": "ordin/agricultura/2004/638",
+   "short": "Ordin agricultura nr. 638/2004",
+   "title": "Ordinul nr. 638/2004 privind actele normative emise de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, care conțin referiri la standarde",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55205",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55205",
+     "sha256": "bd781a63a65f1f29656cf677bc8e8f2cea045f9dae64d008be386ef5b105d146"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-65-2004",
    "path": "ordin/agricultura/2004/65",
    "short": "Ordin agricultura nr. 65/2004",
@@ -284,6 +1289,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50303",
      "sha256": "c97ffd5d6b21a30d2dede1749ee8f452ea631d9b627ec6680599977819cb82df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-668-2004",
+   "path": "ordin/agricultura/2004/668",
+   "short": "Ordin agricultura nr. 668/2004",
+   "title": "Ordinul nr. 668/2004 pentru aprobarea numărului de exemplare din speciile urs, pisică sălbatică și lup care se pot recolta, pe gestionari și fonduri de vânătoare, în cadrul sezonului de vânătoare 2004-2005, precum și a condițiilor speciale de recoltare a exemplarelor aprobate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55254",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55254",
+     "sha256": "003e0b52ea5cda98bf5653ae1e1d5840bacac8361db0b312fb6bdb075ee84fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-672-2004",
+   "path": "ordin/agricultura/2004/672",
+   "short": "Ordin agricultura nr. 672/2004",
+   "title": "Ordinul nr. 672/2004 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55607",
+   "versions": [
+    {
+     "from": "2004-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55607",
+     "sha256": "e718494b87ec25b7001702ac54db9eaa7ceb768369f6ee0645e4ab061baecb3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-676-2004",
+   "path": "ordin/agricultura/2004/676",
+   "short": "Ordin agricultura nr. 676/2004",
+   "title": "Ordinul nr. 676/2004 pentru aprobarea Metodologiei de autorizare a producătorului de material forestier de reproducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55808",
+   "versions": [
+    {
+     "from": "2004-10-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55808",
+     "sha256": "6606c28ffb417ee434255ecfaf8ffeabac05a553f361de53d375c14010b82653"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-677-2004",
+   "path": "ordin/agricultura/2004/677",
+   "short": "Ordin agricultura nr. 677/2004",
+   "title": "Ordinul nr. 677/2004 privind desemnarea unui laborator pentru determinarea conținutului de tetrahydrocanabinol la soiurile de cânepă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55425",
+   "versions": [
+    {
+     "from": "2004-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55425",
+     "sha256": "323b745cb45debac01bf6ce39c5b7067755bc59001465f37452e92cd49e170e3"
     }
    ]
   },
@@ -314,6 +1379,216 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56002",
      "sha256": "1429f781369231a081ab68d989ac3aba8c8eb7c2b75978f40680350c34ad2250"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-691-2004",
+   "path": "ordin/agricultura/2004/691",
+   "short": "Ordin agricultura nr. 691/2004",
+   "title": "Ordinul nr. 691/2004 pentru aprobarea Normelor privind modul de acordare a cheltuielilor finanțate de la bugetul de stat pentru întreținerea patrimoniului genetic național de cabaline",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56298",
+   "versions": [
+    {
+     "from": "2004-10-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56298",
+     "sha256": "5d73b95688d0c796c7dbdd36ca241e45a07790b34580318e4b860cd10e01b09c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-692-2004",
+   "path": "ordin/agricultura/2004/692",
+   "short": "Ordin agricultura nr. 692/2004",
+   "title": "Ordinul nr. 692/2004 privind denumirea și sediul sucursalelor teritoriale ale Administrației Naționale a Îmbunătățirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55758",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55758",
+     "sha256": "916b9c8d236080fd15cca4ba3dbd27b20b93e361872b03740ee71f6001b61052"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-71-2004",
+   "path": "ordin/agricultura/2004/71",
+   "short": "Ordin agricultura nr. 71/2004",
+   "title": "Ordinul nr. 71/2004 pentru aprobarea Regulamentului cu privire la înscrierea agenților economici care desfășoară activități în domeniul vitivinicol în Registrul Industriilor Vitivinicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49528",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49528",
+     "sha256": "6dd0fb648efa7d9cc4d427fdd67082f176a94555f81460f5d80ff928cb94165c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-715-2004",
+   "path": "ordin/agricultura/2004/715",
+   "short": "Ordin agricultura nr. 715/2004",
+   "title": "Ordinul nr. 715/2004 pentru completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 212/2004, privind aprobarea Listei cuprinzând indicațiile geografice și denumirile de origine protejate și recunoscute în România pentru produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55714",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55714",
+     "sha256": "20fb5f67b05cad843986516c12d489501aad979e875442fd1dac4f9c1898a0d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-72-2004",
+   "path": "ordin/agricultura/2004/72",
+   "short": "Ordin agricultura nr. 72/2004",
+   "title": "Ordinul nr. 72/2004 pentru contingentarea consumului și producției de substanțe care epuizează stratul de ozon în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49467",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49467",
+     "sha256": "8e0d6fd314afbe0ab9eb07a62afcb4952232f3c6ab36eef96ff383a0ca771e2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-74-2004",
+   "path": "ordin/agricultura/2004/74",
+   "short": "Ordin agricultura nr. 74/2004",
+   "title": "Ordinul nr. 74/2004 privind organismele de certificare și controlul certificării în vederea denumirii de origine a hameiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49499",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49499",
+     "sha256": "f7dc0ef7b68b2becbf868d931a74a15e6fa024a3de30210ed083b5597dfa8ab0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-749-2004",
+   "path": "ordin/agricultura/2004/749",
+   "short": "Ordin agricultura nr. 749/2004",
+   "title": "Ordinul nr. 749/2004 pentru aprobarea Normelor metodologice privind alocarea și acordarea subvențiilor de la bugetul de stat pentru acoperirea unor categorii de cheltuieli necesare desfășurării activităților de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57241",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57241",
+     "sha256": "fc16b2a20871c0dfc2adf1a2e3fd1cbc71a05417cbb90e19699452bf2257626f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-75-2004",
+   "path": "ordin/agricultura/2004/75",
+   "short": "Ordin agricultura nr. 75/2004",
+   "title": "Ordinul nr. 75/2004 privind aprobarea documentelor de evidență a producției vitivinicole: declarații de stocuri, declarații de recoltă și declarații de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49444",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49444",
+     "sha256": "6b518adc1b80376e6bdadc8ab52de9aad052c1bdfaf1fd80afdfeac6792ea101"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-751-2004",
+   "path": "ordin/agricultura/2004/751",
+   "short": "Ordin agricultura nr. 751/2004",
+   "title": "Ordinul nr. 751/2004 pentru modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 158/2003 privind aprobarea componenței, organizarea și funcționarea Comisiei pentru derularea mecanismului de acordare a sprijinului financiar de la bugetul de stat prin Programul de creștere a competitivității produselor agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56134",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56134",
+     "sha256": "d0dbd2261e8c02d072e8d696da25e758f5021efbc7a763701a6a2aa0904e7fc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-758-2004",
+   "path": "ordin/agricultura/2004/758",
+   "short": "Ordin agricultura nr. 758/2004",
+   "title": "Ordinul nr. 758/2004 pentru aprobarea Normelor tehnice privind confecționarea dispozitivelor de marcat materialul lemnos rotund, cioplit sau ecarisat și folosirea acestor dispozitive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56108",
+   "versions": [
+    {
+     "from": "2004-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56108",
+     "sha256": "d350bd91c1efdc391a030e261468fb906f382d1b8248f6c8affdc363dcf98870"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-761-2004",
+   "path": "ordin/agricultura/2004/761",
+   "short": "Ordin agricultura nr. 761/2004",
+   "title": "Ordinul nr. 761/2004 privind autorizarea Organizației interprofesionale pentru carne de pasăre, ouă și procesate din acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56113",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56113",
+     "sha256": "8b4999a53a138198080f04355f6b1e72532ea84e2a445fdf62c2ec34b38c2020"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-762-2004",
+   "path": "ordin/agricultura/2004/762",
+   "short": "Ordin agricultura nr. 762/2004",
+   "title": "Ordinul nr. 762/2004 privind aprobarea Listei societăților de asigurare și asigurare-reasigurare care practică asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, pentru anul agricol 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56112",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56112",
+     "sha256": "914b396d292c676cd9570412ce1eb6d76a9dd0172bd46530778e7d2b892bdcf0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-764-2004",
+   "path": "ordin/agricultura/2004/764",
+   "short": "Ordin agricultura nr. 764/2004",
+   "title": "Ordinul nr. 764/2004 privind modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56421",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56421",
+     "sha256": "68b1f30f9b1c8e292bbf144070955ceb2860ed53b5f93f70137626ab61384417"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-768-2004",
+   "path": "ordin/agricultura/2004/768",
+   "short": "Ordin agricultura nr. 768/2004",
+   "title": "Ordinul nr. 768/2004 pentru aprobarea modelului filei Catalogului național al materialelor de bază și, respectiv, a modelului filei de registru al producătorului/furnizorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58310",
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58310",
+     "sha256": "098d1e008c539616666e5a0064d8e0c94bb64d8837647d7f1cabbd0c09d74aa0"
     }
    ]
   },
@@ -528,6 +1803,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-81-2004",
+   "path": "ordin/agricultura/2004/81",
+   "short": "Ordin agricultura nr. 81/2004",
+   "title": "Ordinul nr. 81/2004 privind regimul de import al mostrelor de produse de uz fitosanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49501",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49501",
+     "sha256": "67f75563e22613a8c9e1bd97f24cdcec2220b99519a845bf1860354194df5818"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-821-2004",
+   "path": "ordin/agricultura/2004/821",
+   "short": "Ordin agricultura nr. 821/2004",
+   "title": "Ordinul nr. 821/2004 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56751",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56751",
+     "sha256": "0c8bcf0e3eeee290f3a3c3c1d9dffcce3bce4611f1b93158ad9baa04edf425f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-822-2004",
+   "path": "ordin/agricultura/2004/822",
+   "short": "Ordin agricultura nr. 822/2004",
+   "title": "Ordinul nr. 822/2004 privind schimbarea sediului sucursalei teritoriale Olt-Argeș a Administrației Naționale a Îmbunătățirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57258",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57258",
+     "sha256": "200697334ba526232fc24ccd9610cd6915700b6f8683303b4ca50694aa5c0e60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-845-2004",
+   "path": "ordin/agricultura/2004/845",
+   "short": "Ordin agricultura nr. 845/2004",
+   "title": "Ordinul nr. 845/2004 pentru modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 168/2004 privind stabilirea speciilor de animale vii, categoriilor de producție, greutății minime și perioadei admise pentru export în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56823",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56823",
+     "sha256": "5b72681959e15c6945f8d7d92a48b87051c4771e07f9095196c1dbd9b4838e73"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-847-2004",
    "path": "ordin/agricultura/2004/847",
    "short": "Ordin agricultura nr. 847/2004",
@@ -539,6 +1874,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58735",
      "sha256": "f72f6a4e727fa3ad931a9abf3c7bb946c015a157b915637f8d0972f54f26e30d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-848-2004",
+   "path": "ordin/agricultura/2004/848",
+   "short": "Ordin agricultura nr. 848/2004",
+   "title": "Ordinul nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56898",
+   "versions": [
+    {
+     "from": "2004-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56898",
+     "sha256": "280e4fc903ab21793cf40d05a364fec07506e011cf0ab8c98f84155ddbe8aeea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-849-2004",
+   "path": "ordin/agricultura/2004/849",
+   "short": "Ordin agricultura nr. 849/2004",
+   "title": "Ordinul nr. 849/2004 privind aprobarea modelelor de cereri de autorizare pentru activitatea de clasificare a carcaselor, a modelelor formularelor-tip pentru atestatul de clasificator și pentru autorizația de clasificare și a modelelor rapoartelor de clasificare și registrului agențiilor de clasificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57208",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57208",
+     "sha256": "3dd93dd334241d2bef2c3c1e984438efc3246bd1dddf96491e3686282b66b92e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-87-2004",
+   "path": "ordin/agricultura/2004/87",
+   "short": "Ordin agricultura nr. 87/2004",
+   "title": "Ordinul nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49570",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49570",
+     "sha256": "11ee204978b63918f563a77758db946aebc475d0a6ea1203c49d2a040c2ff2a1"
     }
    ]
   },
@@ -708,6 +2088,261 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-882-2004",
+   "path": "ordin/agricultura/2004/882",
+   "short": "Ordin agricultura nr. 882/2004",
+   "title": "Ordinul nr. 882/2004 pentru aprobarea Normelor tehnice de clasificare a carcaselor de bovine adulte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57334",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57334",
+     "sha256": "f7ec975a3671feb4aa8fb85c6ad75453a1e6c4ca15886d23da0413b663ba0d55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-883-2004",
+   "path": "ordin/agricultura/2004/883",
+   "short": "Ordin agricultura nr. 883/2004",
+   "title": "Ordinul nr. 883/2004 pentru aprobarea Normelor tehnice de clasificare a carcaselor de ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57518",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57518",
+     "sha256": "f2c1fde3757ac64e2ef1f9d0e1ea8ef8af31240e7265c12a2f20d4d372b78d28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-904-2004",
+   "path": "ordin/agricultura/2004/904",
+   "short": "Ordin agricultura nr. 904/2004",
+   "title": "Ordinul nr. 904/2004 privind modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 87/2004 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.593/2003 privind sprijinul direct al statului prin acordarea de subvenții în anul 2004 producătorilor agricoli din sectorul animalier, pentru creșterea producției animaliere și a efectivelor de animale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57664",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57664",
+     "sha256": "b91d6a442d9a50ac4fecf56ffb105f63bfdb3aa9008cb4d5e6e973f1e4910ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-911-2004",
+   "path": "ordin/agricultura/2004/911",
+   "short": "Ordin agricultura nr. 911/2004",
+   "title": "Ordinul nr. 911/2004 privind acțiunile fitosanitare de interes național și modul de finanțare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58136",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58136",
+     "sha256": "a824c8f7b07c341f359c448c2779e6b223258b20ec079e949499e26554da421b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-912-2004",
+   "path": "ordin/agricultura/2004/912",
+   "short": "Ordin agricultura nr. 912/2004",
+   "title": "Ordinul nr. 912/2004 privind controlul putregaiului inelar al cartofului, produs de Clavibacter michiganensis ssp. sepedonicus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59150",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59150",
+     "sha256": "d3b0a85c3758af8576f44dd164c9ac0e8a0dd0706a15ff3051a2e89ff1009a35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-915-2004",
+   "path": "ordin/agricultura/2004/915",
+   "short": "Ordin agricultura nr. 915/2004",
+   "title": "Ordinul nr. 915/2004 privind modalitățile de acordare a autorizației pentru pescuit în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58094",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58094",
+     "sha256": "108ca809820924c6aae0b9d90a7884019f4a56b1182bdc39225f565502bfc01f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-916-2004",
+   "path": "ordin/agricultura/2004/916",
+   "short": "Ordin agricultura nr. 916/2004",
+   "title": "Ordinul nr. 916/2004 privind organizarea și funcționarea Registrului unităților de producție din acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58140",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58140",
+     "sha256": "89518ee6431bc34d3c231cc03cb6482c3d65c40ee2422ae942d9b926eea29c37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-918-2004",
+   "path": "ordin/agricultura/2004/918",
+   "short": "Ordin agricultura nr. 918/2004",
+   "title": "Ordinul nr. 918/2004 pentru modificarea anexelor nr. 2-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57567",
+   "versions": [
+    {
+     "from": "2004-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57567",
+     "sha256": "3d3ba47befe8215eed5a76bf7909c7ba56b5a26884c4d407a3f05da22ae84aba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-919-2004",
+   "path": "ordin/agricultura/2004/919",
+   "short": "Ordin agricultura nr. 919/2004",
+   "title": "Ordinul nr. 919/2004 privind constituirea sistemului informațional de piață pentru legume și fructe proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58486",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58486",
+     "sha256": "70ce873fe2925602bf6dc960c059dd1e091f653cb21d2369156cb0de25c4fd1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-921-2004",
+   "path": "ordin/agricultura/2004/921",
+   "short": "Ordin agricultura nr. 921/2004",
+   "title": "Ordinul nr. 921/2004 pentru stabilirea procentului minim al contribuției proprii anticipate la tariful anual, la tariful de livrare a apei pentru irigații pe fiecare punct de livrare a apei pentru irigații și la costurile cu energia electrică sau termică necesară pompării apei prin punctele de livrare a apei pentru irigații ce se achită de organizațiile de îmbunătățiri funciare și de federațiile de organizații de îmbunătățiri funciare, precum și de alți utilizatori de apă pentru irigații pentru sezonul de irigații 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57812",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57812",
+     "sha256": "b4e4141c7a0ad1ee706623591f4dc500fb89e81bc97246abe5b0e039f462ca6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-942-2004",
+   "path": "ordin/agricultura/2004/942",
+   "short": "Ordin agricultura nr. 942/2004",
+   "title": "Ordinul nr. 942/2004 privind aprobarea introducerii însemnului de certificare a calității vinurilor DOC îmbuteliate, destinate comercializării, și aprobarea modificării nivelului sumelor percepute ca taxe pentru eliberarea autorizației de producător de vinuri cu denumire de origine (DOC) și a certificatului de atestare a dreptului de comercializare a vinurilor cu denumire de origine (DOC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58059",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58059",
+     "sha256": "ea6ba4876b7a63776eef0c56b7230c023d363241c7b1e90d8705e811b9e402ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-943-2004",
+   "path": "ordin/agricultura/2004/943",
+   "short": "Ordin agricultura nr. 943/2004",
+   "title": "Ordinul nr. 943/2004 privind aprobarea repartizării pe județe a volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2004 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat și din vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58461",
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58461",
+     "sha256": "7b96758287aeee8b93008814b3897d5b878db452d5baecd66967ff5bc44716d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-945-2004",
+   "path": "ordin/agricultura/2004/945",
+   "short": "Ordin agricultura nr. 945/2004",
+   "title": "Ordinul nr. 945/2004 privind regimul mostrelor, ajutoarelor și donațiilor la produse de uz fitosanitar și îngrășăminte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58420",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58420",
+     "sha256": "f6d110a6cba9436e4cf0558eeee161b19d21b6820c8d46c943cc4cdc132989e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-952-2004",
+   "path": "ordin/agricultura/2004/952",
+   "short": "Ordin agricultura nr. 952/2004",
+   "title": "Ordinul nr. 952/2004 privind completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57998",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57998",
+     "sha256": "5c06a2e115410b59361a10fe561c0d9edf3ee7859e8797b90dbfce8f11e9e4ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-955-2004",
+   "path": "ordin/agricultura/2004/955",
+   "short": "Ordin agricultura nr. 955/2004",
+   "title": "Ordinul nr. 955/2004 privind stabilirea speciilor de animale vii, a categoriilor de producție, a greutății minime și a perioadei admise pentru export în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58525",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58525",
+     "sha256": "cb2c36e234bd37898dcce2170ee9f9355df0aa0a4e156bdff74e609c7fe81ac5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-956-2004",
+   "path": "ordin/agricultura/2004/956",
+   "short": "Ordin agricultura nr. 956/2004",
+   "title": "Ordinul nr. 956/2004 pentru aprobarea Regulamentului privind condițiile de aprobare a organismelor de inspecție și certificare a conformității indicațiilor geografice și denumirilor de origine ale produselor agricole și produselor alimentare și a atestatelor de specificitate pentru produsele agricole și produsele alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58520",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58520",
+     "sha256": "016f82d4cc139ce56c9cf37983c1599bd4a4b274f81e0193cd900b885b397c59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-967-2004",
+   "path": "ordin/agricultura/2004/967",
+   "short": "Ordin agricultura nr. 967/2004",
+   "title": "Ordinul nr. 967/2004 privind aprobarea structurii organizatorice și a statului de funcții ale Oficiului Național al Denumirilor de Origine pentru Vinuri și Alte Produse Vitivinicole (ONDOV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58378",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58378",
+     "sha256": "276f2cda36eb63fb0b3d1d4763388c4b8cf26cde27e94b3f13373dafc4896791"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-969-2004",
    "path": "ordin/agricultura/2004/969",
    "short": "Ordin agricultura nr. 969/2004",
@@ -869,6 +2504,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61757",
      "sha256": "d5e6e4718f0b8debdbe5f698c3ee95f45e48fcb95467d5d4d0716e438702a86c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-98-2004",
+   "path": "ordin/agricultura/2004/98",
+   "short": "Ordin agricultura nr. 98/2004",
+   "title": "Ordinul nr. 98/2004 pentru aprobarea Normei sanitare veterinare care stabilește condițiile de sănătate a animalelor și de sănătate publică care reglementează comerțul României cu statele membre ale Uniunii Europene și importul în România de produse care nu sunt supuse cerințelor și regulilor specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50184",
+   "versions": [
+    {
+     "from": "2004-04-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50184",
+     "sha256": "dd28a1e066c54bd397598a1353f50e757471bfe8cfadea5773c607074df68f21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-989-2004",
+   "path": "ordin/agricultura/2004/989",
+   "short": "Ordin agricultura nr. 989/2004",
+   "title": "Ordinul nr. 989/2004 pentru aprobarea normelor metodologice de aplicare a Ordinului ministrului agriculturii, alimentației și pădurilor nr. 89/2003 privind stabilirea condițiilor în care anumite organisme dăunătoare, plante, produse vegetale sau articole reglementate, prevăzute în anexele nr. 1-5 la Normele metodologice de aplicare a Ordonanței Guvernului nr. 136/2000 privind măsurile de protecție împotriva introducerii și răspândirii organismelor de carantină dăunătoare plantelor sau produselor vegetale în România, aprobate prin Hotărârea Guvernului nr. 1.030/2001, pot fi introduse sau puse în circulație pe teritoriul României ori în zonele protejate din România, pentru experiențe, scopuri științifice sau experimentale și lucrări pe selecții varietale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58655",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58655",
+     "sha256": "e6d5905c0bedc953c740ab1e2f0517b2a5987cc950c79814670104277ec000a5"
     }
    ]
   },

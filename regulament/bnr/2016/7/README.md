@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 7/2016 · 1 versions, from 2017-01-01 (latest in force: 2017-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/182424>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (COMISIOANELE încasate de Banca Națională a României pentru operațiuni aferente pieței primare a titlurilor de stat ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,6 +57,8 @@ Regulament bnr nr. 7/2016 · 1 versions, from 2017-01-01 (latest in force: 2017-
 | Art. 49 | [art-049.md](art-049.md) | 0 |  |
 | Art. 50 | [art-050.md](art-050.md) | 0 |  |
 | Art. 51 | [art-051.md](art-051.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `regulament-bnr-7-2016` (tags `regulament-bnr-7-2016/<day>`; `python tools/on.py <day> regulament-bnr-7-2016`).
 
@@ -66,5 +68,5 @@ Act id: `regulament-bnr-7-2016` (tags `regulament-bnr-7-2016/<day>`; `python too
 - Regulament bnr nr. 7/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament bnr nr. 7/2016: the first version is the regulation as published in Monitorul Oficial nr. 797 of 10 October 2016 (document 182424 of the official web service), in force on 1 January 2017, the day it states for itself.
 - Regulament bnr nr. 7/2016: the signatures and the place and date line after its last article are not article text.
-- Regulament bnr nr. 7/2016: Anexa nr. 1 (COMISIOANELE încasate de Banca Națională a României pentru operațiuni aferente pieței primare a titlurilor de stat ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 7/2016: Anexa nr. 1 (COMISIOANELE încasate de Banca Națională a României pentru operațiuni aferente pieței primare a titlurilor de stat) is part of the regulation and is published in its folder, anexa-1/ (paragraphs and tables), from document 182424 of the official web service.
 - Regulament bnr nr. 7/2016: the publisher's notes run into its text (*) Pentru piaţa primară, maturitatea aferentă titlurilor nou-emise o reprezintă maturitatea iniţială a seriei de titluri) are not text.

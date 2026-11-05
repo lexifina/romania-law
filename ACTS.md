@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12404 acts, 23,918 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12406 acts, 23,920 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11280,7 +11280,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (999, of which 116 amending acts)
+## Ordinances (OG) (1001, of which 117 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11521,7 +11521,9 @@
 | Ordonanța Guvernului nr. 9/2000 | [`og/2000/9/`](og/2000/9/) | in force | 3 | 2000-01-25 | 2011-08-31 |
 | Ordonanța Guvernului nr. 10/2000 privind desfăşurarea activităţii de realizare şi de verificare a lucrărilor de specialitate din domeniile cadastrului, geodeziei şi cartografiei de către persoanele fizice şi juridice autorizate pe teritoriul României | [`og/2000/10/`](og/2000/10/) | amended, not consolidated | 1 | 2000-02-24 | 2000-02-24 |
 | Ordonanța Guvernului nr. 11/2000 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de închidere a minelor şi de atenuare a impactului social, în valoare de 44,5 milioane dolari S.U.A., semnat la Bucureşti la 13 octombrie 1999 | [`og/2000/11/`](og/2000/11/) | amended, not consolidated | 1 | 2000-01-26 | 2000-01-26 |
+| Ordonanța Guvernului nr. 12/2000 pentru ratificarea Protocolului adiţional suplimentar la Acordul dintre statele părţi la Tratatul Atlanticului de Nord şi celelalte state participante la Parteneriatul pentru Pace cu privire la statutul forţelor lor, adoptat la Bruxelles la 19 decembrie 1997 | [`og/2000/12/`](og/2000/12/) | in force | 1 | 2000-01-29 | 2000-01-29 |
 | Ordonanța Guvernului nr. 15/2000 pentru aderarea României la Protocolul din 1992 pentru amendarea Convenţiei internaţionale privind răspunderea civilă pentru pagubele produse prin poluare cu hidrocarburi, 1969, încheiat la Londra la 27 noiembrie 1992 | [`og/2000/15/`](og/2000/15/) | amended, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
+| Ordonanța Guvernului nr. 21/2000 privind aprobarea reglementării obligaţiilor reciproce dintre România şi Republica Islamica Iran, rezultate din stingerea soldului contului de cliring româno-iranian şi din aplicarea clauzei valutare în baza Acordului interguvernamental româno-iranian din 14 mai 1974, conform Minutei semnate la Teheran la 22 octombrie 1999 | [`og/2000/21/`](og/2000/21/) | amending act | 1 | 2000-01-29 | 2000-01-29 |
 | Ordonanța Guvernului nr. 23/2000 privind plata cu prioritate a obligaţiilor către regiile autonome şi societăţile/companiile naţionale beneficiare de împrumuturi externe contractate direct de stat sau cu garanţia statului | [`og/2000/23/`](og/2000/23/) | amended, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
 | Ordonanța Guvernului nr. 25/2000 pentru modificarea Ordonanţei Guvernului nr. 63/1994 privind actualizarea unor normative de cheltuieli pentru autorităţile şi instituţiile publice | [`og/2000/25/`](og/2000/25/) | amended, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
@@ -12470,11 +12472,11 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27924 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 22496 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
+| Government decisions (HG) | 27930 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 24493 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 725 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 183 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Instructions (instrucțiuni) | 185 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |

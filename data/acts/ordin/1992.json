@@ -3,6 +3,25 @@
 "shard": "ordin/1992",
 "acts": [
 {
+"slug": "ordin-agricultura-54-1992",
+"path": "ordin/agricultura/1992/54",
+"kind": "ordin",
+"year": "1992",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 54/1992 privind Lista oficială a soiurilor (hibrizilor) de plante de cultură din România pentru anul 1993",
+"short": "Ordin agricultura nr. 54/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1993-01-29",
+"latest": "1993-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/92675",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-bnr-216-1992",
 "path": "ordin/bnr/1992/216",
 "kind": "ordin",

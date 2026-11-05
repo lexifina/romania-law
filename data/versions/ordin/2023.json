@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-120-2023",
+   "path": "ordin/agricultura/2023/120",
+   "short": "Ordin agricultura nr. 120/2023",
+   "title": "Ordinul nr. 120/2023 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 364/2016 pentru aprobarea Normelor privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267425",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267425",
+     "sha256": "b67598e4791cd2f0e94f3b298c7ba763fc492e8f0179aa202a726dc0b84b49a4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-146-2023",
    "path": "ordin/agricultura/2023/146",
    "short": "Ordin agricultura nr. 146/2023",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-149-2023",
+   "path": "ordin/agricultura/2023/149",
+   "short": "Ordin agricultura nr. 149/2023",
+   "title": "Ordinul nr. 149/2023 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.366/2018 pentru aprobarea Procedurii privind scoaterea din circuitul agricol a pajiștilor permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267288",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267288",
+     "sha256": "6b35595705b5201d6af65672179234fee73ae7f66666c9748bbdd5015e52ca57"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-177-2023",
    "path": "ordin/agricultura/2023/177",
    "short": "Ordin agricultura nr. 177/2023",
@@ -104,6 +134,66 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267595",
      "sha256": "7bd61d1bffdcf48b46bd499161fcdecc78096cebd169e97b18224ef67ac4f98b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-188-2023",
+   "path": "ordin/agricultura/2023/188",
+   "short": "Ordin agricultura nr. 188/2023",
+   "title": "Ordinul nr. 188/2023 privind modificarea și completarea unor ordine ale ministrului agriculturii și dezvoltării rurale în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270201",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270201",
+     "sha256": "0fe8b0f3aae54cc2cb28caf7b8e829d9e80878205d1b477c9f4231e501884531"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-189-2023",
+   "path": "ordin/agricultura/2023/189",
+   "short": "Ordin agricultura nr. 189/2023",
+   "title": "Ordinul nr. 189/2023 pentru modificarea și completarea anexelor la Ordinul ministrului agriculturii și dezvoltării rurale nr. 194/2019 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2019 pentru măsurile 10 \"Agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270508",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270508",
+     "sha256": "2905134b089f886d87525126c92f04e73189594d723449a9f31870ad64852e65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-190-2023",
+   "path": "ordin/agricultura/2023/190",
+   "short": "Ordin agricultura nr. 190/2023",
+   "title": "Ordinul nr. 190/2023 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 80/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a)-c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270499",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270499",
+     "sha256": "d7d2db7a9b07f5046ec566cbf276e5c193b655e6a1b5c2aa1eaded938f795806"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-196-2023",
+   "path": "ordin/agricultura/2023/196",
+   "short": "Ordin agricultura nr. 196/2023",
+   "title": "Ordinul nr. 196/2023 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 83/2023 privind aprobarea formularului-tip al cererii de plată pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270612",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270612",
+     "sha256": "24b1cdbcc8053cc534f45414def9ad0872b98b275a40d5e30a576313334097fe"
     }
    ]
   },
@@ -134,6 +224,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263908",
      "sha256": "6c391580b53f8ca2aa1094014da3821d825d13369d830181bc8523584ffc76c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2023",
+   "path": "ordin/agricultura/2023/20",
+   "short": "Ordin agricultura nr. 20/2023",
+   "title": "Ordinul nr. 20/2023 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.343/2018 privind aprobarea valorii tarifului datorat pentru scoaterea definitivă sau temporară din circuitul agricol a terenurilor aflate în extravilan, precum și pentru introducerea terenurilor agricole în intravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264025",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264025",
+     "sha256": "78e8924b5ab608a485f5de6a2eb44ba0c8ac97f968716427aa0f24378fdb4172"
     }
    ]
   },
@@ -183,6 +288,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-246-2023",
+   "path": "ordin/agricultura/2023/246",
+   "short": "Ordin agricultura nr. 246/2023",
+   "title": "Ordinul nr. 246/2023 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.440/2018 pentru aprobarea Normelor metodologice privind gestionarea, stabilirea domeniilor, precum și modul de utilizare a Fondului de ameliorare a fondului funciar, constituit potrivit anexei nr. 1 din Legea fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271243",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271243",
+     "sha256": "52bce9cdac9bd3d7b4f1fc89bb0292bab1f3a9bd28349169989f8bb44385b8b7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-252-2023",
    "path": "ordin/agricultura/2023/252",
    "short": "Ordin agricultura nr. 252/2023",
@@ -194,6 +314,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271660",
      "sha256": "773e6743c5a3c651d95f5c6fc7d67947e7da2ee858019e6d6a15a65976643540"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-282-2023",
+   "path": "ordin/agricultura/2023/282",
+   "short": "Ordin agricultura nr. 282/2023",
+   "title": "Ordinul nr. 282/2023 pentru modificarea anexei nr. 5 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 994/2016 privind actualizarea Băncii naționale de date analitice pentru fiecare an de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272399",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272399",
+     "sha256": "92dd5e79d5c306a5d86b5f0a5d0f157d3c6a641a93d3be64dabf82a05a223410"
     }
    ]
   },
@@ -243,6 +378,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-317-2023",
+   "path": "ordin/agricultura/2023/317",
+   "short": "Ordin agricultura nr. 317/2023",
+   "title": "Ordinul nr. 317/2023 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 80/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intevențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a)-c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273602",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273602",
+     "sha256": "e8c0cc8069acc706b0130c1e78982d7d7cf3a3fa1a5a414d84ddc5e5c4a46060"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-32-2023",
    "path": "ordin/agricultura/2023/32",
    "short": "Ordin agricultura nr. 32/2023",
@@ -254,6 +404,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264550",
      "sha256": "dbc34b36843470cc7c2d168cc36763cd7a44c3f3d4cd56f3374dcba75ba8bdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-343-2023",
+   "path": "ordin/agricultura/2023/343",
+   "short": "Ordin agricultura nr. 343/2023",
+   "title": "Ordinul nr. 343/2023 privind modificarea art. 5 alin. (1) lit. i) din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 387/2017 pentru aprobarea procedurii privind schimbarea categoriei de folosință a terenurilor agricole situate în extravilanul localităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273984",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273984",
+     "sha256": "ee031a1ce905d933c87b3149d9d0ccfb095d1ae94a9367976699729333916c01"
     }
    ]
   },
@@ -299,6 +464,36 @@
      "units": 74,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274290",
      "sha256": "dbbe935a7c05d44872de6559d3d6d4e0377422b8b5e6ecbb76c97f842a5ae9ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-353-2023",
+   "path": "ordin/agricultura/2023/353",
+   "short": "Ordin agricultura nr. 353/2023",
+   "title": "Ordinul nr. 353/2023 privind modificarea și completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 195/2018 privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 420/2019, precum și ale Normelor metodologice pentru aplicarea prevederilor Legii nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274201",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274201",
+     "sha256": "9a60bc9400b464fa7ed23130628c893380a7aa53d5b7e8930468b456bd52b2fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-358-2023",
+   "path": "ordin/agricultura/2023/358",
+   "short": "Ordin agricultura nr. 358/2023",
+   "title": "Ordinul nr. 358/2023 privind modificarea anexelor nr. 5 și 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și anexelor nr. 4 și 5 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274555",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274555",
+     "sha256": "1c4e14990e8e7b91e8eb8270d458ac5c47410ad71fb4ff463779fc69a62fa782"
     }
    ]
   },
@@ -363,6 +558,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-40-2023",
+   "path": "ordin/agricultura/2023/40",
+   "short": "Ordin agricultura nr. 40/2023",
+   "title": "Ordinul nr. 40/2023 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.268/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea, prelucrarea, controlul calității și/sau comercializarea materialului de înmulțire a plantelor ornamentale, precum și pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 784/2016 privind cerințele specifice pentru genurile și speciile de plante fructifere menționate în anexa I la Directiva 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe, cerințele specifice pe care trebuie să le îndeplinească furnizorii și normele detaliate privind inspecțiile oficiale care intră în domeniul de aplicare al Directivei 2008/90/CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264823",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264823",
+     "sha256": "11c19c84a7be38a677a56ac99b7c91b93ea31a9eb1e8956666edb7cfee74a927"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-406-2023",
+   "path": "ordin/agricultura/2023/406",
+   "short": "Ordin agricultura nr. 406/2023",
+   "title": "Ordinul nr. 406/2023 pentru modificarea unor acte normative în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274973",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274973",
+     "sha256": "afa228e77f039fb5900146400518091aab6d9345ae3ac108c75bb450c2677303"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-437-2023",
    "path": "ordin/agricultura/2023/437",
    "short": "Ordin agricultura nr. 437/2023",
@@ -374,6 +599,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275515",
      "sha256": "5258ea42b1b3a065ae063d5f4f7c4f1475bedb2263139d36f785ae5b64e7f3f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-449-2023",
+   "path": "ordin/agricultura/2023/449",
+   "short": "Ordin agricultura nr. 449/2023",
+   "title": "Ordinul nr. 449/2023 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 70/2023 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275609",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275609",
+     "sha256": "e2b407591f6fcee1005dbbab30d70bb0bff0fec2cdb787f80e27f8e46d3cd5e7"
     }
    ]
   },
@@ -393,6 +633,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-453-2023",
+   "path": "ordin/agricultura/2023/453",
+   "short": "Ordin agricultura nr. 453/2023",
+   "title": "Ordinul nr. 453/2023 pentru modificarea pct. 1-3 din capitolul III \"Cerințele tehnice care trebuie îndeplinite de actul de identificare al ecvideelor\" al anexei nr. 1 \"Cerințele tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a ecvideelor existente pe teritoriul României\" la Ordinul ministrului agriculturii și dezvoltării rurale nr. 114/2013 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a ecvideelor existente pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275995",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275995",
+     "sha256": "6546b2ba18afe40496e424276aa78430a9314fb801073f2c88b3a167eff720ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-481-2023",
+   "path": "ordin/agricultura/2023/481",
+   "short": "Ordin agricultura nr. 481/2023",
+   "title": "Ordinul nr. 481/2023 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 447/2023 pentru aprobarea în anul 2023 a realocării sumelor și stabilirea condițiilor de acordare a avansului pentru plățile directe decuplate finanțate din Fondul european de garantare agricolă, din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276127",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276127",
+     "sha256": "d3aaa5dcc6c0388de589dd875fbbcd186ebb32bdadfde66f992af0e2eb4eb72a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-483-2023",
    "path": "ordin/agricultura/2023/483",
    "short": "Ordin agricultura nr. 483/2023",
@@ -404,6 +674,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276251",
      "sha256": "6fa1c4d478191d45df8a12405ea8c6499239b21b965e755ccb829c33b61498b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-493-2023",
+   "path": "ordin/agricultura/2023/493",
+   "short": "Ordin agricultura nr. 493/2023",
+   "title": "Ordinul nr. 493/2023 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 70/2023 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276497",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276497",
+     "sha256": "4cba27f4cbb77dafca733833b063d9d2b0bcc2cfea41d845fb45786bfdb543c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-495-2023",
+   "path": "ordin/agricultura/2023/495",
+   "short": "Ordin agricultura nr. 495/2023",
+   "title": "Ordinul nr. 495/2023 pentru completarea Instrucțiunilor privind stabilirea suprafețelor de teren cu destinație agricolă ce se atribuie direct, prin concesionare, conform prevederilor Hotărârii Guvernului nr. 354/2005, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 804/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276698",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276698",
+     "sha256": "9d43f1d9f834abd787d4731957d1c0e9bd8066201edc404f3ec8186f15e0c61c"
     }
    ]
   },
@@ -423,6 +723,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-5-2023",
+   "path": "ordin/agricultura/2023/5",
+   "short": "Ordin agricultura nr. 5/2023",
+   "title": "Ordinul nr. 5/2023 pentru abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 2.143/2015 privind aprobarea Manualului de procedură specifică pentru implementarea submăsurii 19.1 \"Sprijin pregătitor\" pentru elaborarea strategiilor de dezvoltare locală LEADER, cod manual M01-09.1, din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263842",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263842",
+     "sha256": "62ac201758b0eda9730c20c786abaa4ad585b60b34d1625617c73ef0109b2bc4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-500-2023",
    "path": "ordin/agricultura/2023/500",
    "short": "Ordin agricultura nr. 500/2023",
@@ -434,6 +749,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277513",
      "sha256": "5e4ef7d57c0bfe853a610686611e17dcbb65e94629a1c3be1a5e65a807f11357"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-504-2023",
+   "path": "ordin/agricultura/2023/504",
+   "short": "Ordin agricultura nr. 504/2023",
+   "title": "Ordinul nr. 504/2023 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 107/2017 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru implementarea acțiunilor în cadrul strategiei de dezvoltare locală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277035",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277035",
+     "sha256": "66b92f822e968e210e60665169fc9ef05257bed373f3d77a5346a3a85a4897c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-506-2023",
+   "path": "ordin/agricultura/2023/506",
+   "short": "Ordin agricultura nr. 506/2023",
+   "title": "Ordinul nr. 506/2023 privind modificarea alineatului (3) al articolului 8 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.198/2018 pentru aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\" în cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277036",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277036",
+     "sha256": "983114ddaa274fc3981cd972d38fbff8176c8890c9c44aa538e6bb6885b28d11"
     }
    ]
   },
@@ -464,6 +809,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277505",
      "sha256": "71bf91a3aeb26c4abed43c447d6523ca3b158114e468132de68fd3153444e620"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-554-2023",
+   "path": "ordin/agricultura/2023/554",
+   "short": "Ordin agricultura nr. 554/2023",
+   "title": "Ordinul nr. 554/2023 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 146/2023 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2023-2026, \"Agricultură și Dezvoltare Rurală - ADER 2026\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277879",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277879",
+     "sha256": "288654b610b5d50b095047de130f3e7296bde4cd0faffdda6b6f13f24410642d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-555-2023",
+   "path": "ordin/agricultura/2023/555",
+   "short": "Ordin agricultura nr. 555/2023",
+   "title": "Ordinul nr. 555/2023 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.353/2018 pentru instituirea schemei de ajutor de minimis \"Împrumuturi cu partajarea riscului la nivel de portofoliu finanțate din Programul Național de Dezvoltare Rurală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277600",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277600",
+     "sha256": "53ad51ea940ef7a41685151554d3543041fbe4665a86c7300900aac74695b4b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-56-2023",
+   "path": "ordin/agricultura/2023/56",
+   "short": "Ordin agricultura nr. 56/2023",
+   "title": "Ordinul nr. 56/2023 pentru modificarea poziției 3 din anexa nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265146",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265146",
+     "sha256": "7a80152ea9183877d214044ad8447af2ad702f205dc5f292b31a270806c75a66"
     }
    ]
   },
@@ -513,6 +903,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-60-2023",
+   "path": "ordin/agricultura/2023/60",
+   "short": "Ordin agricultura nr. 60/2023",
+   "title": "Ordinul nr. 60/2023 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265347",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265347",
+     "sha256": "3d8a4d47e324c38df7d2e4950529954442e2c09bcfeb1c58b79e9cf77852e463"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2023",
+   "path": "ordin/agricultura/2023/61",
+   "short": "Ordin agricultura nr. 61/2023",
+   "title": "Ordinul nr. 61/2023 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265343",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265343",
+     "sha256": "1593d882dd16a36a4dd9fb2fdde0a1faff0715178511ba8b1ad744a140e71b96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-62-2023",
    "path": "ordin/agricultura/2023/62",
    "short": "Ordin agricultura nr. 62/2023",
@@ -558,6 +978,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-8-2023",
+   "path": "ordin/agricultura/2023/8",
+   "short": "Ordin agricultura nr. 8/2023",
+   "title": "Ordinul nr. 8/2023 privind modificarea anexelor nr. 1A, 2A, 3A, 4A și 5A la Normele metodologice pentru aplicarea prevederilor Legii nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263956",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263956",
+     "sha256": "1f3146e3babcf366cb55658ff039737cf8e344bea73f386013b7e9667d4fff17"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-80-2023",
    "path": "ordin/agricultura/2023/80",
    "short": "Ordin agricultura nr. 80/2023",
@@ -599,6 +1034,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265380",
      "sha256": "142a06a6ad075a30eeb8d6998171e8c9537d591211c512e6434b7bb56b287402"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-84-2023",
+   "path": "ordin/agricultura/2023/84",
+   "short": "Ordin agricultura nr. 84/2023",
+   "title": "Ordinul nr. 84/2023 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.205/2018 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265598",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265598",
+     "sha256": "35f2cb7b23d84651e10cf8638d1715b7d7f9bf5d4305bbc2cece4e677d956a10"
     }
    ]
   },
@@ -2984,6 +3434,546 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273648",
      "sha256": "a5e180bd7d31f3ccb766469decfc0e6e39e55376374ad42b93ae3538f9aa83d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-1-2023",
+   "path": "ordin/aparare/2023/1",
+   "short": "Ordin aparare nr. 1/2023",
+   "title": "Ordinul nr. 1/2023 ORDIN nr. D.G.-S1 din 29 august 2023 privind conferirea Semnului onorific În Serviciul Patriei unor gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274330",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274330",
+     "sha256": "69534e960444d68fbc1f0d98b2f69ecf8c842ece4652a3b14153872e6dabcc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-114-2023",
+   "path": "ordin/aparare/2023/114",
+   "short": "Ordin aparare nr. 114/2023",
+   "title": "Ordinul nr. 114/2023 privind abrogarea Ordinului ministrului apărării naționale nr. M.27/2014 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de jurisdicție a imputațiilor din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270857",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270857",
+     "sha256": "cdbda621bb09e2a5ec34d23a6cb11bfc8c3a33f7d9293bca11efaf11caf49551"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-116-2023",
+   "path": "ordin/aparare/2023/116",
+   "short": "Ordin aparare nr. 116/2023",
+   "title": "Ordinul nr. 116/2023 pentru aprobarea Procedurii de punere în aplicare, în Ministerul Apărării Naționale, a prevederilor Ordonanței de urgență a Guvernului nr. 178/2022 privind sprijinirea entităților juridice stabilite în România, în vederea participării la proiecte de colaborare susținute financiar prin intermediul Fondului European de Apărare (EDF)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271270",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271270",
+     "sha256": "e6ffdc962db94dceba72fbb72effa3c8e35eb8d920bf9e6e5fc066f277b3adea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-126-2023",
+   "path": "ordin/aparare/2023/126",
+   "short": "Ordin aparare nr. 126/2023",
+   "title": "Ordinul nr. 126/2023 pentru modificarea Regulamentului privind organizarea și funcționarea Consiliului tehnico-economic al Ministerului Apărării Naționale, aprobat prin Ordinul ministrului apărării naționale nr. M.94/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271484",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271484",
+     "sha256": "de621652213905cf6bf7e5c61401529fcf354c2f7b800e5be27b5677704f9b01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-135-2023",
+   "path": "ordin/aparare/2023/135",
+   "short": "Ordin aparare nr. 135/2023",
+   "title": "Ordinul nr. 135/2023 pentru modificarea art. 6 lit. b) din Ordinul ministrului apărării nr. M.31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271977",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271977",
+     "sha256": "0d484114c503c8aba0c03803bd144906f335ba6bd56d3563af01d692f7b76610"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-139-2023",
+   "path": "ordin/aparare/2023/139",
+   "short": "Ordin aparare nr. 139/2023",
+   "title": "Ordinul nr. 139/2023 pentru aprobarea Normelor privind certificarea Institutului Național de Medicină Aeronautică și Spațială \"General doctor aviator Victor Anastasiu\" pentru a desfășura activitățile de selecție și expertiză medicală și psihologică a personalului aeronautic care desfășoară activități aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273344",
+   "versions": [
+    {
+     "from": "2023-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273344",
+     "sha256": "6fed8fe424bd69478e3c309aceace23035566dd6baf331032582f86234f2891f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-140-2023",
+   "path": "ordin/aparare/2023/140",
+   "short": "Ordin aparare nr. 140/2023",
+   "title": "Ordinul nr. 140/2023 privind modificarea și completarea Ordinului ministrului apărării naționale nr. M.70/2016 pentru aprobarea Condițiilor și a Metodologiei privind chemarea/rechemarea în activitate, în corpul ofițerilor, în vederea ocupării posturilor de medic, medic dentist, farmacist, biolog, biochimist și chimist, în unitățile și structurile sanitare din rețeaua Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272040",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272040",
+     "sha256": "22f2942fe699d7e27b9c15109996a7a42f0cc06a1c83c02383154a111903487c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-145-2023",
+   "path": "ordin/aparare/2023/145",
+   "short": "Ordin aparare nr. 145/2023",
+   "title": "Ordinul nr. 145/2023 pentru modificarea și completarea Instrucțiunii privind Sistemul de management al achizițiilor de echipamente militare destinate înzestrării, aprobată prin Ordinul ministrului apărării naționale nr. M.20/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272162",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272162",
+     "sha256": "60906740c626986b299819763573baff9cdad61288389f9f1378a689acadd4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-150-2023",
+   "path": "ordin/aparare/2023/150",
+   "short": "Ordin aparare nr. 150/2023",
+   "title": "Ordinul nr. 150/2023 privind abrogarea Ordinului ministrului apărării naționale nr. M.95/2006 privind folosirea, pe termen limitat, de către personalul armatei și alți beneficiari, a sălilor și spațiilor, altele decât cele de cazare, din Muzeul Militar Național, popotele, restaurantele, hotelurile și căminele militare de garnizoană, centrele de refacere a capacității de muncă a personalului armatei, casele de odihnă și sanatoriile militare, cabanele și bazele sportive, precum și alte amenajări recreative și sportive, aflate în administrarea Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272437",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272437",
+     "sha256": "bcdc5f4d9d93cac3c5e3739cc04b09bd46e473ed3917e3f658a96fec6140ed3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-157-2023",
+   "path": "ordin/aparare/2023/157",
+   "short": "Ordin aparare nr. 157/2023",
+   "title": "Ordinul nr. 157/2023 pentru modificarea Regulamentului de organizare și funcționare al Clubului Sportiv al Armatei \"Steaua\", aprobat prin Ordinul ministrului apărării naționale nr. M.115/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273322",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273322",
+     "sha256": "49b48653b1e52bf4782c418bad391a0cd087a791031c6c388bd9c61d76c582a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-158-2023",
+   "path": "ordin/aparare/2023/158",
+   "short": "Ordin aparare nr. 158/2023",
+   "title": "Ordinul nr. 158/2023 pentru modificarea și completarea Regulamentului privind asistența religioasă în Armata României, aprobat prin Ordinul ministrului apărării naționale nr. M.2/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273433",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273433",
+     "sha256": "ccab70e07cd1d3b8f7ebc8dd8dedce4a783bc157e4162f037350aa9ea213f176"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-162-2023",
+   "path": "ordin/aparare/2023/162",
+   "short": "Ordin aparare nr. 162/2023",
+   "title": "Ordinul nr. 162/2023 pentru aprobarea Normelor metodologice privind selecția și expertiza medicală și psihologică a personalului aeronautic care desfășoară activități aeronautice militare, a Normelor tehnico-metodologice de expertiză medicală și psihologică privind capacitatea individuală de exercitare a atribuțiilor în activități aeronautice și spațiale (bareme medicale și psihologice), precum și a Normelor metodologice privind efectuarea cursului de instruire și certificare a competenței în performanțele și siguranța factorului uman pentru personalul aeronavigant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273576",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273576",
+     "sha256": "d86f3a4f5d59167dba0dbc363c2bc02cf66b62f44bf04ea54348abd75964fcad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-164-2023",
+   "path": "ordin/aparare/2023/164",
+   "short": "Ordin aparare nr. 164/2023",
+   "title": "Ordinul nr. 164/2023 pentru aprobarea Normelor privind servituțile aeronautice militare și stabilirea zonelor supuse servituților aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273799",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273799",
+     "sha256": "d29099a6310d45bcf066e85748ca85f7917cc840a7545ff1551eb43da5414992"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-175-2023",
+   "path": "ordin/aparare/2023/175",
+   "short": "Ordin aparare nr. 175/2023",
+   "title": "Ordinul nr. 175/2023 pentru completarea art. 3 din Regulamentul de organizare și funcționare a Consiliului de Planificare a Apărării, aprobat prin Ordinul ministrului apărării nr. M.9/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273842",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273842",
+     "sha256": "69e5441d4cb13934b0f4395a5e52d282e2bd434f9de24783ec3a2c45f0d88c7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-190-2023",
+   "path": "ordin/aparare/2023/190",
+   "short": "Ordin aparare nr. 190/2023",
+   "title": "Ordinul nr. 190/2023 pentru modificarea și completarea Regulamentului educației fizice militare, aprobat prin Ordinul ministrului apărării naționale nr. M.149/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274308",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274308",
+     "sha256": "549fdc24933ae58017db873cfd81cc89282d055ef81c2c6fab3e3b2fb81a3c12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-194-2023",
+   "path": "ordin/aparare/2023/194",
+   "short": "Ordin aparare nr. 194/2023",
+   "title": "Ordinul nr. 194/2023 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274309",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274309",
+     "sha256": "44cd933a3063b17d04872cc13f45c097ffb2452e3c12ba25642eaeddbc2d9acf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-195-2023",
+   "path": "ordin/aparare/2023/195",
+   "short": "Ordin aparare nr. 195/2023",
+   "title": "Ordinul nr. 195/2023 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274310",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274310",
+     "sha256": "4920025456d67550d86758a547ba9812e75be509e27d4d3636562fd2820d9d02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-196-2023",
+   "path": "ordin/aparare/2023/196",
+   "short": "Ordin aparare nr. 196/2023",
+   "title": "Ordinul nr. 196/2023 privind conferirea Semnului onorific În Serviciul Patriei unui preot militar din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274311",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274311",
+     "sha256": "ded9634c23138094a4899292c15af80be16686637bf02cceea6bab007e8efc1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-208-2023",
+   "path": "ordin/aparare/2023/208",
+   "short": "Ordin aparare nr. 208/2023",
+   "title": "Ordinul nr. 208/2023 pentru modificarea Ordinului ministrului apărării naționale nr. M.129/2009 privind conducerea unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274741",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274741",
+     "sha256": "3a6f27eb228eb9f52ff43f57e448fe472a0d2e9aa9bd2ff774e06a436069ac64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-210-2023",
+   "path": "ordin/aparare/2023/210",
+   "short": "Ordin aparare nr. 210/2023",
+   "title": "Ordinul nr. 210/2023 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274908",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274908",
+     "sha256": "32ccb131b17cfb2b3dc7dd8b7c3b591c4559def52eef8b64d5298707c72c90bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-212-2023",
+   "path": "ordin/aparare/2023/212",
+   "short": "Ordin aparare nr. 212/2023",
+   "title": "Ordinul nr. 212/2023 privind conferirea Semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275146",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275146",
+     "sha256": "500a98ef89cff241ce4055399a482c12041afe81e45722dd8d4f7c958d724c00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-214-2023",
+   "path": "ordin/aparare/2023/214",
+   "short": "Ordin aparare nr. 214/2023",
+   "title": "Ordinul nr. 214/2023 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274911",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274911",
+     "sha256": "686ebdf513ccaa9c68c70669787dc00c1feff2cd325d4421371948da863b04fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-218-2023",
+   "path": "ordin/aparare/2023/218",
+   "short": "Ordin aparare nr. 218/2023",
+   "title": "Ordinul nr. 218/2023 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275147",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275147",
+     "sha256": "6043372b74dffe04ffa450db1ccc657c0d0a763385c5f8c1a7e9ca60eb696d5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-219-2023",
+   "path": "ordin/aparare/2023/219",
+   "short": "Ordin aparare nr. 219/2023",
+   "title": "Ordinul nr. 219/2023 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274915",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274915",
+     "sha256": "ba562e1466fa786e882ed2c9ab1169c4c4a89e51dbbc77d15555c184783fcf6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-220-2023",
+   "path": "ordin/aparare/2023/220",
+   "short": "Ordin aparare nr. 220/2023",
+   "title": "Ordinul nr. 220/2023 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274916",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274916",
+     "sha256": "752f9583510ddc7611b67d88c005c3abc8b249709124ce9a7078b853c704a560"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-229-2023",
+   "path": "ordin/aparare/2023/229",
+   "short": "Ordin aparare nr. 229/2023",
+   "title": "Ordinul nr. 229/2023 pentru modificarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275000",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275000",
+     "sha256": "dcc48ef879ca87327fcefefc65245d94554e4daa633c6cd9c01d1a9d1162f775"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-233-2023",
+   "path": "ordin/aparare/2023/233",
+   "short": "Ordin aparare nr. 233/2023",
+   "title": "Ordinul nr. 233/2023 privind încheierea contractelor educaționale de către elevii/elevele din unitățile de învățământ preuniversitar militar ale Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275080",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275080",
+     "sha256": "28ca35520eb477660fa4d3c6dc6e3bd3ad659983b3b6b5b9e172b4e9f43a9511"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-234-2023",
+   "path": "ordin/aparare/2023/234",
+   "short": "Ordin aparare nr. 234/2023",
+   "title": "Ordinul nr. 234/2023 pentru modificarea Condițiilor și criteriilor de recrutare a candidaților la profesia militară, precum și pentru modificarea și completarea Instrucțiunilor privind organizarea și funcționarea sistemului de recrutare și selecție a candidaților în vederea admiterii la studii/cursuri de formare a cadrelor militare în activitate, respectiv pentru dobândirea calității de soldat/gradat profesionist în structurile Ministerului Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.217/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275081",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275081",
+     "sha256": "8df107c9ba8a51e3fbbfec44d42adf48dade0c14acabef9fa20253c7b0ef4e28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-238-2023",
+   "path": "ordin/aparare/2023/238",
+   "short": "Ordin aparare nr. 238/2023",
+   "title": "Ordinul nr. 238/2023 pentru modificarea și completarea Normelor metodologice de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 270/2015 privind Statutul rezerviștilor voluntari, aprobate prin Ordinul ministrului apărării naționale nr. M.25/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275330",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275330",
+     "sha256": "04affe1b5f83d79ffd088a39076f7ad1dcf45a9d24809d3dad47378dc75d90d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-239-2023",
+   "path": "ordin/aparare/2023/239",
+   "short": "Ordin aparare nr. 239/2023",
+   "title": "Ordinul nr. 239/2023 pentru aprobarea Normelor privind certificarea operatorilor aeronavelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275635",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275635",
+     "sha256": "ab6b6ec8218f12282d0e0e9f98c8230fc2eb47bbd9c36d756dc9fe6feae0d34f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-240-2023",
+   "path": "ordin/aparare/2023/240",
+   "short": "Ordin aparare nr. 240/2023",
+   "title": "Ordinul nr. 240/2023 pentru aprobarea unor măsuri temporare de încadrare a unor funcții vacante de subofițer din structurile subordonate Statului Major al Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275424",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275424",
+     "sha256": "9dfd7e30d2b819e7323188adba9cbf058d39fe4f5ce3eaa56f4ca463a29a4f7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-248-2023",
+   "path": "ordin/aparare/2023/248",
+   "short": "Ordin aparare nr. 248/2023",
+   "title": "Ordinul nr. 248/2023 pentru completarea art. 13 din Normele privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.59/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275864",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275864",
+     "sha256": "1aca8eb382cc78bb2473b6c5850d241aeab80094ab7a6e395fd101147cdfc068"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-258-2023",
+   "path": "ordin/aparare/2023/258",
+   "short": "Ordin aparare nr. 258/2023",
+   "title": "Ordinul nr. 258/2023 pentru aprobarea Metodologiei privind procedura de repartiție a absolvenților colegiilor naționale militare în instituțiile de învățământ superior militar și calculul mediei de repartiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277053",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277053",
+     "sha256": "1e52a29014ee363e5d90ed2458970f54b2263a18f6bffb161f04cb68f73f9aec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-39-2023",
+   "path": "ordin/aparare/2023/39",
+   "short": "Ordin aparare nr. 39/2023",
+   "title": "Ordinul nr. 39/2023 privind pregătirea și executarea misiunilor în străinătate de către personalul Ministerului Apărării Naționale în baza Legii nr. 214/2022 pentru realizarea capabilității operaționale aeriene de tranziție prevăzută în Concepția de realizare graduală a capabilității de apărare aeriană în cadrul programului \"Avion multirol al Forțelor Aeriene\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265553",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265553",
+     "sha256": "2f06d218e389f86352cc56d15ca5447bbf7c6c06ea7b34d890bd3a7abc21442b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-56-2023",
+   "path": "ordin/aparare/2023/56",
+   "short": "Ordin aparare nr. 56/2023",
+   "title": "Ordinul nr. 56/2023 ORDIN nr. S.M.Ap.-56 din 30 august 2023 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274385",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274385",
+     "sha256": "219c9ce24a2c093c44944b488e6037d55cbb845582496d5ab0334b4ab2b90a36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-97-2023",
+   "path": "ordin/aparare/2023/97",
+   "short": "Ordin aparare nr. 97/2023",
+   "title": "Ordinul nr. 97/2023 privind modificarea și completarea anexei la Ordinul ministrului apărării naționale nr. M.94/2018 pentru aplicarea prevederilor art. 2 alin. (2), art. 3 alin. (2) și art. 6 din Ordonanța Guvernului nr. 24/2017 privind formarea inițială a ofițerilor în activitate din Ministerul Apărării Naționale în instituții de învățământ superior militar din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270247",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270247",
+     "sha256": "ed35392e95b8d7181a5ade9e14e0d49d1770a79c1701c8017153ca64ad97b17c"
     }
    ]
   },

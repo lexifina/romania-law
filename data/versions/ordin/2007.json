@@ -3,6 +3,96 @@
  "shard": "ordin/2007",
  "acts": [
   {
+   "slug": "ordin-agricultura-147-2007",
+   "path": "ordin/agricultura/2007/147",
+   "short": "Ordin agricultura nr. 147/2007",
+   "title": "Ordinul nr. 147/2007 privind modificarea și completarea anexei nr. 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.265/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de sfeclă de zahăr și sfeclă furajeră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80199",
+   "versions": [
+    {
+     "from": "2007-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80199",
+     "sha256": "56a7737a6a3d7a959c0c30643d834db780044a31adbfbfee009444c61a5189b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-148-2007",
+   "path": "ordin/agricultura/2007/148",
+   "short": "Ordin agricultura nr. 148/2007",
+   "title": "Ordinul nr. 148/2007 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.263/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de plante furajere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80466",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80466",
+     "sha256": "5f123d7c41e5d34ebaabcb9771ea4f5c57fcc51f5254afc07c6d593a8ac5da7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-149-2007",
+   "path": "ordin/agricultura/2007/149",
+   "short": "Ordin agricultura nr. 149/2007",
+   "title": "Ordinul nr. 149/2007 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.262/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80234",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80234",
+     "sha256": "44c27a20f0f8a3b54d80171bc05bee4c962f11a1eb8a805d3ccb60465472210d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-2007",
+   "path": "ordin/agricultura/2007/150",
+   "short": "Ordin agricultura nr. 150/2007",
+   "title": "Ordinul nr. 150/2007 privind modificarea și completarea anexei nr. 7 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.264/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de plante oleaginoase și textile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80516",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80516",
+     "sha256": "21d98c1eb2b06810ecf6f9538e460fb32a55e7793f22947c2bacf1d2f06d945c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-192-2007",
+   "path": "ordin/agricultura/2007/192",
+   "short": "Ordin agricultura nr. 192/2007",
+   "title": "Ordinul nr. 192/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80182",
+   "versions": [
+    {
+     "from": "2007-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80182",
+     "sha256": "44a7b2bb1b7b320e560a6496a4fb4d535f2d0e864cf45d777753c482581f5030"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-193-2007",
+   "path": "ordin/agricultura/2007/193",
+   "short": "Ordin agricultura nr. 193/2007",
+   "title": "Ordinul nr. 193/2007 privind modificarea anexei F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80162",
+   "versions": [
+    {
+     "from": "2007-03-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80162",
+     "sha256": "de364db12c72b0b669a49262bc76e76e67427db80f8d500f25a07130d4614911"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-2-2007",
    "path": "ordin/agricultura/2007/2",
    "short": "Ordin agricultura nr. 2/2007",
@@ -18,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-208-2007",
+   "path": "ordin/agricultura/2007/208",
+   "short": "Ordin agricultura nr. 208/2007",
+   "title": "Ordinul nr. 208/2007 pentru modificarea și completarea anexei L \"Norme metodologice privind modul de acordare a sprijinului financiar și condițiile de eligibilitate pentru activitățile din sectorul zootehnic, așa cum sunt prevăzute la lit. a), b) și d) din anexa nr. 3 la Ordonanța de urgenta a Guvernului nr. 123/2006 \" la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80379",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80379",
+     "sha256": "82f4255da2506ff027c038ad7c4b8360f9f1c2dcf1ffdde843b32e299f7a1d1e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-211-2007",
    "path": "ordin/agricultura/2007/211",
    "short": "Ordin agricultura nr. 211/2007",
@@ -29,6 +134,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80385",
      "sha256": "f015536459df8eb0dc2b2e124cd8ee7fe55f262218ea020fc74a1f15ea7c3e08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-213-2007",
+   "path": "ordin/agricultura/2007/213",
+   "short": "Ordin agricultura nr. 213/2007",
+   "title": "Ordinul nr. 213/2007 privind completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80625",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80625",
+     "sha256": "f7da87e7f990cb36cccdd4d88e8d86800ba95dbd4585282d50ad844503c6aee0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-214-2007",
+   "path": "ordin/agricultura/2007/214",
+   "short": "Ordin agricultura nr. 214/2007",
+   "title": "Ordinul nr. 214/2007 pentru modificarea Normelor de apreciere a bovinelor de reproducție, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 19/2006, și a Normelor de apreciere a ovinelor și caprinelor de reproducție, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 22/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80531",
+   "versions": [
+    {
+     "from": "2007-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80531",
+     "sha256": "3a585db586528cdc19d3165b468792a0b59b6cc219e5f1501e18654685926839"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-215-2007",
+   "path": "ordin/agricultura/2007/215",
+   "short": "Ordin agricultura nr. 215/2007",
+   "title": "Ordinul nr. 215/2007 pentru modificarea anexei nr. 3^b) la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 849/2004 privind aprobarea modelelor de cereri de autorizare pentru activitatea de clasificare a carcaselor, a modelelor formularelor-tip pentru atestatul de clasificator și pentru autorizația de clasificare și a modelelor rapoartelor de clasificare și registrului agențiilor de clasificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80734",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80734",
+     "sha256": "8b8eaa34f8339ab14ca58f4c5fb0e92a78a45134b1bf2b3dd192a9f475b71811"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2007",
+   "path": "ordin/agricultura/2007/218",
+   "short": "Ordin agricultura nr. 218/2007",
+   "title": "Ordinul nr. 218/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 765/2006 pentru aprobarea Listei cuprinzând societățile de asigurare și asigurare-reasigurare care practică asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, pentru anul agricol 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80586",
+   "versions": [
+    {
+     "from": "2007-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80586",
+     "sha256": "bd4b65aaca7352a2fd807c1bc00e1bb984ada3d799d45bbe3975b86bbae76333"
     }
    ]
   },
@@ -78,6 +243,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-241-2007",
+   "path": "ordin/agricultura/2007/241",
+   "short": "Ordin agricultura nr. 241/2007",
+   "title": "Ordinul nr. 241/2007 pentru modificarea Statutului Comisiei de clasificare a carcaselor de porcine, bovine și ovine, în care se stabilesc atribuțiile, modul de organizare și funcționare, precum și alte reglementări specifice, aprobat prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80962",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80962",
+     "sha256": "d65deb1be5d837cd0aadea363e7b313d9516ecfb8aed04d082540d5fd44751b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-261-2007",
+   "path": "ordin/agricultura/2007/261",
+   "short": "Ordin agricultura nr. 261/2007",
+   "title": "Ordinul nr. 261/2007 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 564/2006 privind aprobarea normelor de cheltuieli finanțate de la bugetul de stat, prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru întreținerea cabalinelor din categoria Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80922",
+   "versions": [
+    {
+     "from": "2007-04-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80922",
+     "sha256": "b2d894eebdefe1ec1df5109a273dfff016fb4c0685a3ed7aeb89abbd40bdf2b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-293-2007",
+   "path": "ordin/agricultura/2007/293",
+   "short": "Ordin agricultura nr. 293/2007",
+   "title": "Ordinul nr. 293/2007 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81337",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81337",
+     "sha256": "bd4e6c3cf11c1c48c1a09a73802dd64b076cba9a92c367363ccd8901bb3e816c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-295-2007",
    "path": "ordin/agricultura/2007/295",
    "short": "Ordin agricultura nr. 295/2007",
@@ -93,6 +303,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-296-2007",
+   "path": "ordin/agricultura/2007/296",
+   "short": "Ordin agricultura nr. 296/2007",
+   "title": "Ordinul nr. 296/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81106",
+   "versions": [
+    {
+     "from": "2007-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81106",
+     "sha256": "19cd64ff94d0c504a6c284b035d331766dfadd34a604a23fb740e4ca740cb055"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3-2007",
+   "path": "ordin/agricultura/2007/3",
+   "short": "Ordin agricultura nr. 3/2007",
+   "title": "Ordinul nr. 3/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2006 privind aprobarea sumelor pe speciile de animale pentru care se acordă subvenții în conformitate cu prevederile Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78510",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78510",
+     "sha256": "0d3a2fe8182362c05338ce5fff9a32f0e660ef51134e0d7f57e85b5e07911b51"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-325-2007",
    "path": "ordin/agricultura/2007/325",
    "short": "Ordin agricultura nr. 325/2007",
@@ -104,6 +344,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82843",
      "sha256": "65eafe7462079edb692d45ad14d0e1809f6def2b28a6f5789c0872100ef55358"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-33-2007",
+   "path": "ordin/agricultura/2007/33",
+   "short": "Ordin agricultura nr. 33/2007",
+   "title": "Ordinul nr. 33/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizati",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79072",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79072",
+     "sha256": "5d7ec00e49e92a36d38e3ecaf9ce797a45177a81be916145ed4855a06cdf9167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-336-2007",
+   "path": "ordin/agricultura/2007/336",
+   "short": "Ordin agricultura nr. 336/2007",
+   "title": "Ordinul nr. 336/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2006 privind aprobarea sumelor pe speciile de animale pentru care se acordă subvenții în conformitate cu prevederile Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81432",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81432",
+     "sha256": "6e21f75be2a381c20a7389f9defdf4a7abea7e83f7da5623c3eb85dc6c6f9e31"
     }
    ]
   },
@@ -228,6 +498,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-361-2007",
+   "path": "ordin/agricultura/2007/361",
+   "short": "Ordin agricultura nr. 361/2007",
+   "title": "Ordinul nr. 361/2007 privind modificarea unor poziții din cadrul anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 397/2003 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82039",
+   "versions": [
+    {
+     "from": "2007-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82039",
+     "sha256": "e030e6f03da1cfaddcfbb91de726a626ddefd83e277d1681971974d3ee9486be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-374-2007",
+   "path": "ordin/agricultura/2007/374",
+   "short": "Ordin agricultura nr. 374/2007",
+   "title": "Ordinul nr. 374/2007 privind modificarea anexei nr. 1 la Metodologia de atestare a șefilor de proiect pentru lucrări de amenajare a pădurilor, aprobată prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 729/2005 pentru aprobarea Metodologiei de atestare a experților care certifică, din punct de vedere tehnic, calitatea lucrărilor de amenajare a pădurilor și a Metodologiei de atestare a șefilor de proiect",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82344",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82344",
+     "sha256": "acba352b982613d061c40d627dad4f72e9b5d56556cb40bc06e22d7301f4d7d0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-378-2007",
    "path": "ordin/agricultura/2007/378",
    "short": "Ordin agricultura nr. 378/2007",
@@ -239,6 +539,126 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82348",
      "sha256": "063cdd8287c03d14ea5c16002e55c657da6feb9eab0029d942addbf10cce9fc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-381-2007",
+   "path": "ordin/agricultura/2007/381",
+   "short": "Ordin agricultura nr. 381/2007",
+   "title": "Ordinul nr. 381/2007 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82321",
+   "versions": [
+    {
+     "from": "2007-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82321",
+     "sha256": "2c4a06695b63a0c9ff7bad822145c42c979c5891cbe7422fcb16e3e87eb7bfe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-388-2007",
+   "path": "ordin/agricultura/2007/388",
+   "short": "Ordin agricultura nr. 388/2007",
+   "title": "Ordinul nr. 388/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 676/2006 privind aprobarea cuantumului estimat al plafonului maxim la hectar, unitar la nivel național, al subvențiilor de la bugetul de stat ce se acordă pentru acoperirea cheltuielilor necesare desfășurării activității de irigații pentru sezonul de irigații al anului 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82354",
+   "versions": [
+    {
+     "from": "2007-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82354",
+     "sha256": "ee58cb46a336ba71138cddc00a6f939f3ae6d9702b755b738806fa694af6dd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-432-2007",
+   "path": "ordin/agricultura/2007/432",
+   "short": "Ordin agricultura nr. 432/2007",
+   "title": "Ordinul nr. 432/2007 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.269/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea, controlul calității și/sau comercializarea materialului de înmulțire și plantare legumicol, altul decât semințele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82492",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82492",
+     "sha256": "2ffb4e8ac025c074329e4ef71629983d77478723f3754549a9433d58b9aa7325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-436-2007",
+   "path": "ordin/agricultura/2007/436",
+   "short": "Ordin agricultura nr. 436/2007",
+   "title": "Ordinul nr. 436/2007 privind modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.230/2005 pentru aprobarea Normelor metodologice privind alocarea și acordarea subvențiilor de la bugetul de stat pentru acoperirea unor categorii de cheltuieli necesare desfășurării activităților de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85032",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85032",
+     "sha256": "bb1227da785c10bad5c3e3406d831686ead476a6e9239ff2201fd8681a6cb769"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-440-2007",
+   "path": "ordin/agricultura/2007/440",
+   "short": "Ordin agricultura nr. 440/2007",
+   "title": "Ordinul nr. 440/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 564/2006 privind aprobarea normelor de cheltuieli finanțate de la bugetul de stat, prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru întreținerea cabalinelor din categoria Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82881",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82881",
+     "sha256": "c9f22183f7bd8e1c641592cc8515072fb7404e7c8c7c833a0bbe5da22994c19f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-441-2007",
+   "path": "ordin/agricultura/2007/441",
+   "short": "Ordin agricultura nr. 441/2007",
+   "title": "Ordinul nr. 441/2007 privind modificarea și completarea anexelor H, J, K și L la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82561",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82561",
+     "sha256": "2adbf532bd94df2529df51ee776170321d5e766f818173149895cd8796fa062d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-444-2007",
+   "path": "ordin/agricultura/2007/444",
+   "short": "Ordin agricultura nr. 444/2007",
+   "title": "Ordinul nr. 444/2007 privind modificarea și completarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, pentru campaniile 2006-2007 și 2007-2008, derulate cu sprijin comunitar, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 211/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82645",
+   "versions": [
+    {
+     "from": "2007-06-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82645",
+     "sha256": "5e5ff5626bd186b7ee5b547b483e675e56419bebc181091423e45dbfb14769b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-472-2007",
+   "path": "ordin/agricultura/2007/472",
+   "short": "Ordin agricultura nr. 472/2007",
+   "title": "Ordinul nr. 472/2007 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 692/2004 privind denumirea și sediul sucursalelor teritoriale ale Administrației Naționale a Îmbunătățirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83007",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83007",
+     "sha256": "4dcc91577a52908867418dc019ccec78430e187ce811e244e648eccea0196b03"
     }
    ]
   },
@@ -288,6 +708,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-534-2007",
+   "path": "ordin/agricultura/2007/534",
+   "short": "Ordin agricultura nr. 534/2007",
+   "title": "Ordinul nr. 534/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83375",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83375",
+     "sha256": "a86fd3ac6c1dc23f29d79e49fee77f58d95e9546ac7694e08b010e20813557b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-549-2007",
    "path": "ordin/agricultura/2007/549",
    "short": "Ordin agricultura nr. 549/2007",
@@ -314,6 +749,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79310",
      "sha256": "974af95a681b0c5e0dc2f47b53905db678c3900daf82e41357f5d96f0f9a3d73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-573-2007",
+   "path": "ordin/agricultura/2007/573",
+   "short": "Ordin agricultura nr. 573/2007",
+   "title": "Ordinul nr. 573/2007 privind abrogarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 311/2004 pentru aprobarea modelului filei Listei naționale a materialului de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83836",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83836",
+     "sha256": "54f4bd5a9a793b11c7ee71500016bd7b19ad50bcf00580855d8764e25d1b46f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-574-2007",
+   "path": "ordin/agricultura/2007/574",
+   "short": "Ordin agricultura nr. 574/2007",
+   "title": "Ordinul nr. 574/2007 pentru modificarea și completarea Regulilor privind testarea și înregistrarea soiurilor de legume, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83793",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83793",
+     "sha256": "624f89aeb6afeb94f8653c976e91c734dca69f62ce2d9608d30caaa14e6d63b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-575-2007",
+   "path": "ordin/agricultura/2007/575",
+   "short": "Ordin agricultura nr. 575/2007",
+   "title": "Ordinul nr. 575/2007 privind modificarea și completarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83838",
+   "versions": [
+    {
+     "from": "2007-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83838",
+     "sha256": "1597669b31a72b3e489017cada5c432c438ff8978ac82e2028ca3819e7d8f032"
     }
    ]
   },
@@ -438,6 +918,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-608-2007",
+   "path": "ordin/agricultura/2007/608",
+   "short": "Ordin agricultura nr. 608/2007",
+   "title": "Ordinul nr. 608/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84397",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84397",
+     "sha256": "15665c2e0c8604b5d2313bd58e0cb833be874917573e368d047624cb14d39738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-609-2007",
+   "path": "ordin/agricultura/2007/609",
+   "short": "Ordin agricultura nr. 609/2007",
+   "title": "Ordinul nr. 609/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84380",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84380",
+     "sha256": "ef9d3e7db93cb15033e79951f6d4b0db0174d7e9c87a7743cbeb021c83121276"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-640-2007",
    "path": "ordin/agricultura/2007/640",
    "short": "Ordin agricultura nr. 640/2007",
@@ -543,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-687-2007",
+   "path": "ordin/agricultura/2007/687",
+   "short": "Ordin agricultura nr. 687/2007",
+   "title": "Ordinul nr. 687/2007 privind modificarea anexei F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84407",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84407",
+     "sha256": "e4e9ec1a0c494772edcd233b7479f9cab7023d900129173e2f87b0f53f88ba2f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-688-2007",
    "path": "ordin/agricultura/2007/688",
    "short": "Ordin agricultura nr. 688/2007",
@@ -618,6 +1143,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-70-2007",
+   "path": "ordin/agricultura/2007/70",
+   "short": "Ordin agricultura nr. 70/2007",
+   "title": "Ordinul nr. 70/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 765/2006 pentru aprobarea Listei cuprinzând societățile de asigurare și asigurare-reasigurare care practică asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, pentru anul agricol 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79516",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79516",
+     "sha256": "bd85540a68b19d1eed0d7fa203354447831ce81c6d8083c9fbbba0a11f737775"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-700-2007",
    "path": "ordin/agricultura/2007/700",
    "short": "Ordin agricultura nr. 700/2007",
@@ -629,6 +1169,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85123",
      "sha256": "bc50379e2a70f3cf21b054a575c1b8ac8bf9e424504ad391b4ce14af56a31c5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-704-2007",
+   "path": "ordin/agricultura/2007/704",
+   "short": "Ordin agricultura nr. 704/2007",
+   "title": "Ordinul nr. 704/2007 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți directe și plăți naționale directe complementare în sectorul vegetal și pentru abrogarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 607/2006 pentru aprobarea produselor agricole care beneficiază de plăți naționale directe complementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85012",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85012",
+     "sha256": "2685d9c5e8b836ea85ffaa40f15a9172b97d35f495cc5d58ed55f7bdac356e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-707-2007",
+   "path": "ordin/agricultura/2007/707",
+   "short": "Ordin agricultura nr. 707/2007",
+   "title": "Ordinul nr. 707/2007 privind modificarea anexei H la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85238",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85238",
+     "sha256": "ca5ce25c6cbe24326d12269e5e66a3da19480a2867182a437bff06e72634b001"
     }
    ]
   },
@@ -689,6 +1259,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85126",
      "sha256": "f93b8a634f0e64fe0c9f9b6527822d58f9d9eb7df253b54602dd92c96146ebe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-763-2007",
+   "path": "ordin/agricultura/2007/763",
+   "short": "Ordin agricultura nr. 763/2007",
+   "title": "Ordinul nr. 763/2007 privind modificarea anexelor A și I la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85660",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85660",
+     "sha256": "effc64459255a4f1381d3045b9ea63479cb891073626ee1db166ea646d434980"
     }
    ]
   },
@@ -783,6 +1368,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-806-2007",
+   "path": "ordin/agricultura/2007/806",
+   "short": "Ordin agricultura nr. 806/2007",
+   "title": "Ordinul nr. 806/2007 pentru modificarea și completarea anexei \"Modul de implementare, condițiile specifice și criteriile de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu\" la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85480",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85480",
+     "sha256": "27b0942775e91567fb37f6237f8b58a70c5d5e3e6f41d2c4cc0cd8b9cd926626"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-813-2007",
+   "path": "ordin/agricultura/2007/813",
+   "short": "Ordin agricultura nr. 813/2007",
+   "title": "Ordinul nr. 813/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85701",
+   "versions": [
+    {
+     "from": "2007-09-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85701",
+     "sha256": "fbc229830cc5e948f8ac471da6046b39b5dd32155de935f1d1432abccb0e80d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-819-2007",
+   "path": "ordin/agricultura/2007/819",
+   "short": "Ordin agricultura nr. 819/2007",
+   "title": "Ordinul nr. 819/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 508/2005 privind aprobarea componenței, organizarea și funcționarea Comisiei pentru derularea mecanismului de acordare a sprijinului financiar de la bugetul de stat prin Programul de creștere a competitivității produselor agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85913",
+   "versions": [
+    {
+     "from": "2007-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85913",
+     "sha256": "b476e978aecd8bb47e25e8297fc7f3239268cf284a289de4aaae5940b5741db4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-820-2007",
+   "path": "ordin/agricultura/2007/820",
+   "short": "Ordin agricultura nr. 820/2007",
+   "title": "Ordinul nr. 820/2007 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 816/2006 pentru repartizarea cotelor de producție de zahăr și izoglucoză",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86064",
+   "versions": [
+    {
+     "from": "2007-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86064",
+     "sha256": "f7dc1f97b3c89dee9b2c9f13b57aafeeecde5e77219de2163b871d2fb4f24cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-821-2007",
+   "path": "ordin/agricultura/2007/821",
+   "short": "Ordin agricultura nr. 821/2007",
+   "title": "Ordinul nr. 821/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85939",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85939",
+     "sha256": "8b6aaaca2e55436a1e626e272bf96d70d66f7eb6d84e4b641623f30ca83d51e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-824-2007",
    "path": "ordin/agricultura/2007/824",
    "short": "Ordin agricultura nr. 824/2007",
@@ -798,6 +1458,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-825-2007",
+   "path": "ordin/agricultura/2007/825",
+   "short": "Ordin agricultura nr. 825/2007",
+   "title": "Ordinul nr. 825/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85979",
+   "versions": [
+    {
+     "from": "2007-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85979",
+     "sha256": "9aba3d21e20ec989d7726fd48a4c084e613478e648f1e7b72551ca897d66f0c4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-832-2007",
    "path": "ordin/agricultura/2007/832",
    "short": "Ordin agricultura nr. 832/2007",
@@ -809,6 +1484,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84088",
      "sha256": "a668b088eae6b99687d16d28741a7c7cc22fc835164012a66bbd49f933150e62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2007",
+   "path": "ordin/agricultura/2007/85",
+   "short": "Ordin agricultura nr. 85/2007",
+   "title": "Ordinul nr. 85/2007 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 627/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 45/2006 privind acordarea unor facilități financiare producătorilor agricoli care dețin suprafețe de pajiști în zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79670",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79670",
+     "sha256": "38d75c1fe22f490f9bca8910f8300b823e88349a9f4beda2c6414fabef46ff2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-868-2007",
+   "path": "ordin/agricultura/2007/868",
+   "short": "Ordin agricultura nr. 868/2007",
+   "title": "Ordinul nr. 868/2007 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86351",
+   "versions": [
+    {
+     "from": "2007-10-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86351",
+     "sha256": "f59c563bce42357ba752a3e22cc094315de52a4821c7ef60a5ba2897a5b01696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-869-2007",
+   "path": "ordin/agricultura/2007/869",
+   "short": "Ordin agricultura nr. 869/2007",
+   "title": "Ordinul nr. 869/2007 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86352",
+   "versions": [
+    {
+     "from": "2007-10-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86352",
+     "sha256": "c6374f0d52ca37673f354a0a2fef58d6cf14098ff91cbdf6b0613958ece7a256"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-870-2007",
+   "path": "ordin/agricultura/2007/870",
+   "short": "Ordin agricultura nr. 870/2007",
+   "title": "Ordinul nr. 870/2007 privind modificarea anexei F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86080",
+   "versions": [
+    {
+     "from": "2007-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86080",
+     "sha256": "99c080e280a9bcf2b2866d378fbe6a097c99f784455b3aa81b5672d5ea1f2e35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-875-2007",
+   "path": "ordin/agricultura/2007/875",
+   "short": "Ordin agricultura nr. 875/2007",
+   "title": "Ordinul nr. 875/2007 pentru modificarea anexei nr. 1 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 97/2007 privind aprobarea structurii serviciilor și a tarifelor prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă și ale unităților subordonate acesteia, a cuantumului tarifelor, precum și a modalităților de încasare și de utilizare a fondurilor pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86235",
+   "versions": [
+    {
+     "from": "2007-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86235",
+     "sha256": "af808a76830627b21b7a0fe29ad40d0ae069de60149d8947234ce717097b70b7"
     }
    ]
   },
@@ -858,6 +1608,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-908-2007",
+   "path": "ordin/agricultura/2007/908",
+   "short": "Ordin agricultura nr. 908/2007",
+   "title": "Ordinul nr. 908/2007 privind modificarea anexei F la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86609",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86609",
+     "sha256": "0e2388888b9a50cb5dac3ef95afd7e8088e1fbf3423caa8ad396ba0fc4f62080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-909-2007",
+   "path": "ordin/agricultura/2007/909",
+   "short": "Ordin agricultura nr. 909/2007",
+   "title": "Ordinul nr. 909/2007 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 549/2007 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemei de plăți directe pe suprafață pentru culturi energetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86729",
+   "versions": [
+    {
+     "from": "2007-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86729",
+     "sha256": "908279f5485cbf84e7ba5bf3d772e6056a042da324118fd33b6a510d27df9ce7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-917-2007",
    "path": "ordin/agricultura/2007/917",
    "short": "Ordin agricultura nr. 917/2007",
@@ -873,6 +1653,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-921-2007",
+   "path": "ordin/agricultura/2007/921",
+   "short": "Ordin agricultura nr. 921/2007",
+   "title": "Ordinul nr. 921/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87335",
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87335",
+     "sha256": "8d5cc4cd2279397e28880361fb3f566fc747a9375dc298993b94959ef104dd2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-927-2007",
+   "path": "ordin/agricultura/2007/927",
+   "short": "Ordin agricultura nr. 927/2007",
+   "title": "Ordinul nr. 927/2007 pentru modificarea alin. (5) și (6) ale art. 2 din Normele metodologice de aplicare a Ordonanței Guvernului nr. 31/2007 privind reglementarea unor măsuri financiare pentru stimularea gradului de absorbție a fondurilor alocate prin Programul SAPARD, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 700/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87406",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87406",
+     "sha256": "bfc0fb95ca0e5673a6306db3f4a061732030d030d641de74775e79c07ff9f590"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-93-2007",
+   "path": "ordin/agricultura/2007/93",
+   "short": "Ordin agricultura nr. 93/2007",
+   "title": "Ordinul nr. 93/2007 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2006 privind aprobarea sumelor pe speciile de animale pentru care se acordă subvenții în conformitate cu prevederile Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79862",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79862",
+     "sha256": "2c91d3317ac6a3a9d7397008a881f0da5162bc307098641b7421040ea2f261b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-933-2007",
    "path": "ordin/agricultura/2007/933",
    "short": "Ordin agricultura nr. 933/2007",
@@ -884,6 +1709,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87747",
      "sha256": "9ab642c0152162c7f529fa822d5a5e28beac8ea3bfb8bb00b1589654d49462bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-959-2007",
+   "path": "ordin/agricultura/2007/959",
+   "short": "Ordin agricultura nr. 959/2007",
+   "title": "Ordinul nr. 959/2007 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 641/2007 privind aprobarea sumelor, a condițiilor și a modului de acordare a acestor sume pentru achiziția materialului seminal congelat de taur și a agentului criogenic folosit la conservare în anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87712",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87712",
+     "sha256": "2cde93c7a3b5ad7c7681b7644f623e201eaba4b094ab0802c51bcdd5621ede9d"
     }
    ]
   },
@@ -918,6 +1758,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-974-2007",
+   "path": "ordin/agricultura/2007/974",
+   "short": "Ordin agricultura nr. 974/2007",
+   "title": "Ordinul nr. 974/2007 privind modificarea Listei resurselor genetice animale în stare critică, în pericol de dispariție și a celor vulnerabile, care sunt supuse programelor de conservare în anul 2007, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 767/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87991",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87991",
+     "sha256": "99f1097c9c3ccf03f21d808aec19b7a3940cdb9324c28a64c18de28e61195009"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-976-2007",
    "path": "ordin/agricultura/2007/976",
    "short": "Ordin agricultura nr. 976/2007",
@@ -929,6 +1784,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88217",
      "sha256": "2fb306099d9204816d69466c6086dc85818fd79b3a88e81b79b5d14f982b54fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-983-2007",
+   "path": "ordin/agricultura/2007/983",
+   "short": "Ordin agricultura nr. 983/2007",
+   "title": "Ordinul nr. 983/2007 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89697",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89697",
+     "sha256": "218707356fed25d89e77c4dc4f2437a64f1728bd3179a15ee92a4298cce40403"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 3/2016 · 1 versions, from 2016-11-25 (latest in force: 2016-11-25) · <https://legislatie.just.ro/Public/DetaliiDocument/181160>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Nivelurile marjelor de ajustare a valorii aplicate activelor eligibile Tabel cu nivelurile marjelor de ajustare a valorii aplicate activelor eligibile ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,6 +29,8 @@ Regulament bnr nr. 3/2016 · 1 versions, from 2016-11-25 (latest in force: 2016-
 | Art. 21 | [art-021.md](art-021.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `regulament-bnr-3-2016` (tags `regulament-bnr-3-2016/<day>`; `python tools/on.py <day> regulament-bnr-3-2016`).
 
@@ -39,5 +41,5 @@ Act id: `regulament-bnr-3-2016` (tags `regulament-bnr-3-2016/<day>`; `python too
 - Regulament bnr nr. 3/2016: the first version is the regulation as published in Monitorul Oficial nr. 652 of 25 August 2016 (document 181160 of the official web service), in force on 25 November 2016, the day it states for itself.
 - Regulament bnr nr. 3/2016: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 3/2016: Anexa nr. 1 (1 [ANTET APLICANȚI] Nr. de înregistrare/Data emiterii.........../.............. Către Banca Națională a României Str. Lipscani nr. 25, sectorul 3 030031, București Fax. +40 21 312 7198 +40 21 312 7169) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 181160 of the official web service.
-- Regulament bnr nr. 3/2016: Anexa nr. 2 (2 Nivelurile marjelor de ajustare a valorii aplicate activelor eligibile Tabel cu nivelurile marjelor de ajustare a valorii aplicate activelor eligibile ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 3/2016: Anexa nr. 2 (2 Nivelurile marjelor de ajustare a valorii aplicate activelor eligibile Tabel cu nivelurile marjelor de ajustare a valorii aplicate activelor eligibile) is part of the regulation and is published in its folder, anexa-2/ (paragraphs and tables), from document 181160 of the official web service.
 - Regulament bnr nr. 3/2016: the publisher's notes run into its text (*) Marjele de ajustare a valorii activelor eligibile (haircut) aferente instrumentelor financiare emise de către institu) are not text.

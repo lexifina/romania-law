@@ -2,7 +2,7 @@
 
 Regulament cnvm nr. 4/1996 · 1 versions, from 1996-08-05 (latest in force: 1996-08-05) · <https://legislatie.just.ro/Public/DetaliiDocument/7753>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 S.V.M................ Sediul.................. Tel:................ Autorizație C.N.V.M. nr............... ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 S.V.M................ Sediul.................. Tel:................ ┌───────────────────────────────────────────────────────────────────────────┐ │ FORMULAR ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 S.V.M................ Sediul.................. Tel:................ ┌───────────────────────────────────────────────────────────────────────────┐ │ RAPORT DE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 2 (2 S.V.M................ Sediul.................. Tel:................): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,10 @@ Regulament cnvm nr. 4/1996 · 1 versions, from 1996-08-05 (latest in force: 1996
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `regulament-cnvm-4-1996` (tags `regulament-cnvm-4-1996/<day>`; `python tools/on.py <day> regulament-cnvm-4-1996`).
 
@@ -24,7 +28,7 @@ Act id: `regulament-cnvm-4-1996` (tags `regulament-cnvm-4-1996/<day>`; `python t
 - Regulament cnvm nr. 4/1996: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament cnvm nr. 4/1996: the first version is the regulation as published in Monitorul Oficial nr. 176 of 5 August 1996 (document 7753 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Regulament cnvm nr. 4/1996: the signatures and the place and date line after its last article are not article text.
-- Regulament cnvm nr. 4/1996: Anexa nr. 1 (1 S.V.M................ Sediul.................. Tel:................ Autorizație C.N.V.M. nr............... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 4/1996: Anexa nr. 2 (2 S.V.M................ Sediul.................. Tel:................ ┌───────────────────────────────────────────────────────────────────────────┐ │ FORMULAR ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 4/1996: Anexa nr. 3 (3 S.V.M................ Sediul.................. Tel:................ ┌───────────────────────────────────────────────────────────────────────────┐ │ RAPORT DE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament cnvm nr. 4/1996: Anexa nr. 1 (1 S.V.M................ Sediul.................. Tel:................ Autorizație C.N.V.M. nr...............) is part of the regulation and is published in its folder, anexa-1/ (paragraphs and tables), from document 7753 of the official web service.
+- Regulament cnvm nr. 4/1996: Anexa nr. 3 (3 S.V.M................ Sediul.................. Tel:................) is part of the regulation and is published in its folder, anexa-3/ (paragraphs and tables), from document 7753 of the official web service.
+- Regulament cnvm nr. 4/1996: Anexa nr. 2 (2 S.V.M................ Sediul.................. Tel:................) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Regulament cnvm nr. 4/1996: the publisher's notes run into its text (*) În afara cazului când pentru acea acţiune există un preţ de cumpărare ferm.) are not text.

@@ -3,6 +3,51 @@
  "shard": "ordin/1997",
  "acts": [
   {
+   "slug": "ordin-agricultura-21-1997",
+   "path": "ordin/agricultura/1997/21",
+   "short": "Ordin agricultura nr. 21/1997",
+   "title": "Ordinul nr. 21/1997 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11070",
+   "versions": [
+    {
+     "from": "1997-04-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11070",
+     "sha256": "1a20768dace6de1ca3b0c7e4a20bc36af42810c5fb5993c7844e8dc9d8b60041"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-89-1997",
+   "path": "ordin/agricultura/1997/89",
+   "short": "Ordin agricultura nr. 89/1997",
+   "title": "Ordinul nr. 89/1997 privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11554",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11554",
+     "sha256": "92da64e65be606bb41c457d0313acf12490754234423e70a91b7a482c85c36f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-96-1997",
+   "path": "ordin/agricultura/1997/96",
+   "short": "Ordin agricultura nr. 96/1997",
+   "title": "Ordinul nr. 96/1997 privind Lista oficială a soiurilor (hibrizilor) de plante de cultura din România pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11594",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11594",
+     "sha256": "8a723f4db06697e41665bd71ec8a0b47f311370105a212ba191eb7001004795e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-232-1997",
    "path": "ordin/bnr/1997/232",
    "short": "Ordin bnr nr. 232/1997",

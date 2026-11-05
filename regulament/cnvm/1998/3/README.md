@@ -2,7 +2,7 @@
 
 Regulament cnvm nr. 3/1998 · 1 versions, from 1998-03-16 (latest in force: 1998-03-16) · <https://legislatie.just.ro/Public/DetaliiDocument/13949>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 FORMULAR S.V.M. Formular nou........... Modificări.......... CERERE pentru autorizarea unei societăți de valori mobiliare OPIS 1. Cererea de eliberare a ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 FORMULAR S.V.M. - R CERERE de retragere a autorizației unei societăți de valori mobiliare Cererile completate trebuie înaintate spre avizare organismului de ...): it is a table that the official text holds only flattened; Anexa nr. 5 (4.1. DENUMIREA SOCIETĂȚII........................ SITUAȚIE FINANCIARĂ LUNARĂ ACTIVELE PONDERATE ȘI ACTUALIZATE ALE PIEȚEI DE VALORI MOBILIARE - mii lei - ...): it is a table that the official text holds only flattened; Anexa nr. 6 (4.2 DENUMIREA SOCIETĂȚII..................... SITUAȚIE FINANCIARĂ LUNARĂ SITUAȚIA PASIVULUI SOCIETĂȚII - mii lei - ...): it is a table that the official text holds only flattened; Anexa nr. 7 (4.3 DENUMIREA SOCIETĂȚII.................. SITUAȚIE FINANCIARĂ LUNARĂ Calculul capitalului net și al gradului de îndatorare - mii lei - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 FORMULAR S.V.M. Formular nou........... Modificări.......... CERERE pentru autorizarea unei societăți de valori mobiliare OPIS 1. Cererea de eliberare a ...): it is a table that the official text holds only flattened; Anexa nr. 6 (4.2 DENUMIREA SOCIETĂȚII..................... SITUAȚIE FINANCIARĂ LUNARĂ SITUAȚIA PASIVULUI SOCIETĂȚII - mii lei -): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -69,10 +69,16 @@ Regulament cnvm nr. 3/1998 · 1 versions, from 1998-03-16 (latest in force: 1998
 | Art. 61 | [art-061.md](art-061.md) | 0 |  |
 | Art. 62 | [art-062.md](art-062.md) | 0 |  |
 | Art. 63 | [art-063.md](art-063.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
 | Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 
@@ -84,11 +90,11 @@ Act id: `regulament-cnvm-3-1998` (tags `regulament-cnvm-3-1998/<day>`; `python t
 - Regulament cnvm nr. 3/1998: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament cnvm nr. 3/1998: the first version is the regulation as published in Monitorul Oficial nr. 114 of 16 March 1998 (document 13949 of the official web service), in force on its day of publication, as it states.
 - Regulament cnvm nr. 3/1998: the signatures and the place and date line after its last article are not article text.
+- Regulament cnvm nr. 3/1998: Anexa nr. 2 (2 FORMULAR S.V.M. - R CERERE de retragere a autorizației unei societăți de valori mobiliare Cererile completate trebuie înaintate spre avizare organismului de autoreglementare la care societatea este) is part of the regulation and is published in its folder, anexa-2/ (paragraphs and tables), from document 13949 of the official web service.
 - Regulament cnvm nr. 3/1998: Anexa nr. 3 (3 DECLARAȚIE Subsemnatul............., născut la data de........., cu domiciliul în............, posesor al B.I. seria.... nr......, eliberat de Circa de poliție......... la data de..........., în cal) is part of the regulation and is published in its folder, anexa-3/ (paragraphs), from document 13949 of the official web service.
 - Regulament cnvm nr. 3/1998: Anexa nr. 4 (4 SOCIETATEA DE VALORI MOBILIARE............................ Nr. de înmatriculare la registrul comerțului.............. Codul fiscal.............................................. SITUAȚIA FINANCIARĂ L) is part of the regulation and is published in its folder, anexa-4/ (paragraphs), from document 13949 of the official web service.
+- Regulament cnvm nr. 3/1998: Anexa nr. 5 (4.1. DENUMIREA SOCIETĂȚII........................ SITUAȚIE FINANCIARĂ LUNARĂ ACTIVELE PONDERATE ȘI ACTUALIZATE ALE PIEȚEI DE VALORI MOBILIARE - mii lei -) is part of the regulation and is published in its folder, anexa-5/ (paragraphs and tables), from document 13949 of the official web service.
+- Regulament cnvm nr. 3/1998: Anexa nr. 7 (4.3 DENUMIREA SOCIETĂȚII.................. SITUAȚIE FINANCIARĂ LUNARĂ Calculul capitalului net și al gradului de îndatorare - mii lei -) is part of the regulation and is published in its folder, anexa-7/ (paragraphs and tables), from document 13949 of the official web service.
 - Regulament cnvm nr. 3/1998: Anexa nr. 8 (5 PROCEDURI privind autorizarea, atestarea, notificarea modificărilor în modul de organizare și funcționare a S.V.M. Sunt supuse autorizării următoarele modificări în organizarea și funcționarea S.V.M) is part of the regulation and is published in its folder, anexa-8/ (paragraphs), from document 13949 of the official web service.
 - Regulament cnvm nr. 3/1998: Anexa nr. 1 (1 FORMULAR S.V.M. Formular nou........... Modificări.......... CERERE pentru autorizarea unei societăți de valori mobiliare OPIS 1. Cererea de eliberare a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 3/1998: Anexa nr. 2 (2 FORMULAR S.V.M. - R CERERE de retragere a autorizației unei societăți de valori mobiliare Cererile completate trebuie înaintate spre avizare organismului de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 3/1998: Anexa nr. 5 (4.1. DENUMIREA SOCIETĂȚII........................ SITUAȚIE FINANCIARĂ LUNARĂ ACTIVELE PONDERATE ȘI ACTUALIZATE ALE PIEȚEI DE VALORI MOBILIARE - mii lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 3/1998: Anexa nr. 6 (4.2 DENUMIREA SOCIETĂȚII..................... SITUAȚIE FINANCIARĂ LUNARĂ SITUAȚIA PASIVULUI SOCIETĂȚII - mii lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament cnvm nr. 3/1998: Anexa nr. 7 (4.3 DENUMIREA SOCIETĂȚII.................. SITUAȚIE FINANCIARĂ LUNARĂ Calculul capitalului net și al gradului de îndatorare - mii lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament cnvm nr. 3/1998: Anexa nr. 6 (4.2 DENUMIREA SOCIETĂȚII..................... SITUAȚIE FINANCIARĂ LUNARĂ SITUAȚIA PASIVULUI SOCIETĂȚII - mii lei -) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

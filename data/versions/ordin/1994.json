@@ -3,6 +3,66 @@
  "shard": "ordin/1994",
  "acts": [
   {
+   "slug": "ordin-agricultura-26-1994",
+   "path": "ordin/agricultura/1994/26",
+   "short": "Ordin agricultura nr. 26/1994",
+   "title": "Ordinul nr. 26/1994 pentru aprobarea Normelor metodologice orientative de calcul al arendei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4016",
+   "versions": [
+    {
+     "from": "1994-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4016",
+     "sha256": "b8b63535cd994e1ac8ac8a0161bd14784ee125a8c04582a67aced332c3580ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-51-1994",
+   "path": "ordin/agricultura/1994/51",
+   "short": "Ordin agricultura nr. 51/1994",
+   "title": "Ordinul nr. 51/1994 pentru modificarea Ordinului nr. 26/1994 pentru aprobarea Normelor metodologice orientative de calcul al arendei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4178",
+   "versions": [
+    {
+     "from": "1994-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4178",
+     "sha256": "beb020bdcbf3ffde51f769e165a0599ed342353262a7e23fa31fc82e17689af1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-53-1994",
+   "path": "ordin/agricultura/1994/53",
+   "short": "Ordin agricultura nr. 53/1994",
+   "title": "Ordinul nr. 53/1994 pentru aprobarea Regulamentului privind încercarea, omologarea și înregistrarea soiurilor (hibrizilor) de plante agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4189",
+   "versions": [
+    {
+     "from": "1994-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4189",
+     "sha256": "3dbc1d4b633085ba4ff83ca293fc42dc5f51e517b1fdd15d747ed47a9fb817b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-55-1994",
+   "path": "ordin/agricultura/1994/55",
+   "short": "Ordin agricultura nr. 55/1994",
+   "title": "Ordinul nr. 55/1994 privind Lista oficială a soiurilor (hibrizilor) de plante de cultura din România pentru anul 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4200",
+   "versions": [
+    {
+     "from": "1994-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4200",
+     "sha256": "7991203d5c5f998379de98aa6a32a44e3c2e780a80f87628e628bcda1f625588"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-123-1994",
    "path": "ordin/bnr/1994/123",
    "short": "Ordin bnr nr. 123/1994",

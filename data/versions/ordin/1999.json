@@ -3,6 +3,51 @@
  "shard": "ordin/1999",
  "acts": [
   {
+   "slug": "ordin-agricultura-11-1999",
+   "path": "ordin/agricultura/1999/11",
+   "short": "Ordin agricultura nr. 11/1999",
+   "title": "Ordinul nr. 11/1999 privind Lista oficială a soiurilor (hibrizilor) de plante de cultura din România pentru anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17258",
+   "versions": [
+    {
+     "from": "1999-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17258",
+     "sha256": "16965eb1e220c6208c922da30860a91941379df0868c1fd998ed0dae68e5fe81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-122-1999",
+   "path": "ordin/agricultura/1999/122",
+   "short": "Ordin agricultura nr. 122/1999",
+   "title": "Ordinul nr. 122/1999 pentru aprobarea simbolurilor societăților comerciale cu activitate în producția de conserve alimentare destinate consumului uman, ambalate în recipiente metalice, și a numerelor de ordine ale grupelor și sortimentelor de conserve alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20553",
+   "versions": [
+    {
+     "from": "2000-02-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20553",
+     "sha256": "0209b0079ed8ccb719e99e7cbb10913eba0fd9c4c7aac5b5eb553f060d4b003b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-137-1999",
+   "path": "ordin/agricultura/1999/137",
+   "short": "Ordin agricultura nr. 137/1999",
+   "title": "Ordinul nr. 137/1999 pentru aprobarea Programului de restructurare a Societății Naționale \"Tutunul Românesc\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19955",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19955",
+     "sha256": "c8010c5ca5e4d8b13e0366492d594321d6c0b88db6c6182d211eb960c7942e8e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-138929-1999",
    "path": "ordin/agricultura/1999/138929",
    "short": "Ordin agricultura nr. 138929/1999",
@@ -14,6 +59,141 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19322",
      "sha256": "008d9d11e00af5831f97a1857d669ed6fabc754614ca2019c31a5ba90e01c43e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-139-1999",
+   "path": "ordin/agricultura/1999/139",
+   "short": "Ordin agricultura nr. 139/1999",
+   "title": "Ordinul nr. 139/1999 privind atribuțiile Oficiului de reglementare a asociațiilor utilizatorilor de apa pentru irigații și înființarea Registrului național al asociațiilor utilizatorilor de apa pentru irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20200",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20200",
+     "sha256": "bae73e5741ce8ce47638eb422c8a3e1c0abb9fb263dc4572d2c0d9b7397d33b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-1999",
+   "path": "ordin/agricultura/1999/150",
+   "short": "Ordin agricultura nr. 150/1999",
+   "title": "Ordinul nr. 150/1999 privind modificarea art. 16 din anexa la Ordinul ministrului agriculturii și alimentației nr. 103/1998 pentru aprobarea Normei sanitare veterinare privind condițiile sanitare veterinare și procedura de autorizare sanitară veterinara de funcționare a unităților supuse controlului sanitar veterinar și privind aprobarea efectuării de activități de export cu produse de origine animala și cu alte produse supuse controlului sanitar veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20351",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20351",
+     "sha256": "9940a836039f9a7684c678238e10cdc3cc4ecc646ed2394693d518c4d3403ff8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-156-1999",
+   "path": "ordin/agricultura/1999/156",
+   "short": "Ordin agricultura nr. 156/1999",
+   "title": "Ordinul nr. 156/1999 pentru aprobarea Normei sanitare veterinare privind anunțarea, declararea și notificarea unor boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21566",
+   "versions": [
+    {
+     "from": "2000-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21566",
+     "sha256": "38da87ce6a94f9c041453f828bbeb749e06fc6607c8499d3a06a87aa16cab28b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-26-1999",
+   "path": "ordin/agricultura/1999/26",
+   "short": "Ordin agricultura nr. 26/1999",
+   "title": "Ordinul nr. 26/1999 privind măsurile pentru prevenirea introducerii, diseminării și diminuării pagubelor produse de bacteria Clavibacter michiganensis subsp. sepedonicus (Spieckermann &amp; Kotthoff) Davis et al. care produce putregaiul inelar al cartofului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19451",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19451",
+     "sha256": "56624ff8952af49a3f1c07d7b08a7f172b710db712276c44f0e3d18bbbfc001a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-27-1999",
+   "path": "ordin/agricultura/1999/27",
+   "short": "Ordin agricultura nr. 27/1999",
+   "title": "Ordinul nr. 27/1999 privind măsurile pentru prevenirea răspândirii și diminuarea pagubelor produse de nematozii cu chiști (Globodera spp.) la cultura cartofului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19452",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19452",
+     "sha256": "880e2569ffb823c72329c46a304cdd4ef53b5fdd1626ab4976ce9b421634578f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-28-1999",
+   "path": "ordin/agricultura/1999/28",
+   "short": "Ordin agricultura nr. 28/1999",
+   "title": "Ordinul nr. 28/1999 privind măsurile pentru prevenirea răspândirii și diminuarea pagubelor produse de raia neagra a cartofului, produsă de ciuperca Synchytrium endobioticum(Schilb.) Perc.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19453",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19453",
+     "sha256": "96e32f55269133fe422cfbd2262aa7ebdd5750b9c5ef7d3fbe12f08e7677bdb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-29-1999",
+   "path": "ordin/agricultura/1999/29",
+   "short": "Ordin agricultura nr. 29/1999",
+   "title": "Ordinul nr. 29/1999 privind stabilirea procedurii de notificare a interceptării unui transport sau a unui organism de carantina la importul vegetalelor, produselor vegetale și al altor articole reglementate, ca urmare a nerespectării reglementărilor fitosanitare ale României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19467",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19467",
+     "sha256": "728d410b34218abc99f1c733f94deca8758a1d7966065538f600a84af73feba3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-58-1999",
+   "path": "ordin/agricultura/1999/58",
+   "short": "Ordin agricultura nr. 58/1999",
+   "title": "Ordinul nr. 58/1999 pentru aprobarea Regulamentului cu privire la acordarea licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18750",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18750",
+     "sha256": "aba0515022f3bbf32f8615d81c37e93e32c707982a8e507a55729fddbf5932fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-60-1999",
+   "path": "ordin/agricultura/1999/60",
+   "short": "Ordin agricultura nr. 60/1999",
+   "title": "Ordinul nr. 60/1999 privind Lista oficială suplimentară a soiurilor (hibrizilor) de plante de cultura din România pentru anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18339",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18339",
+     "sha256": "3648fbe0dfc01de120f0f5823ebf2108374a904d6e9df1e7f5dbfbf606ab15c3"
     }
    ]
   },

@@ -3,6 +3,21 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-agricultura-1000-2016",
+   "path": "ordin/agricultura/2016/1000",
+   "short": "Ordin agricultura nr. 1000/2016",
+   "title": "Ordinul nr. 1.000/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185148",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185148",
+     "sha256": "18405fb989fa5e65c4fc6e67ca0f30f5ccdfb470a53a8e4746d530f5b5dd3797"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1002-2016",
    "path": "ordin/agricultura/2016/1002",
    "short": "Ordin agricultura nr. 1002/2016",
@@ -14,6 +29,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185569",
      "sha256": "dd43a567a1e4475282298445db937d7024c4833cfaf3de17678ddd942a5736a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1003-2016",
+   "path": "ordin/agricultura/2016/1003",
+   "short": "Ordin agricultura nr. 1003/2016",
+   "title": "Ordinul nr. 1.003/2016 privind completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 364/2016 pentru aprobarea Normelor privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185174",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185174",
+     "sha256": "d4483d7069a4ff90602c4f81b017dc80d786db76c8dd48df73f4afae475d2de9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1134-2016",
+   "path": "ordin/agricultura/2016/1134",
+   "short": "Ordin agricultura nr. 1134/2016",
+   "title": "Ordinul nr. 1.134/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului afacerilor externe nr. 1.026/1.125/2016 privind aprobarea criteriilor de selecție și a modalității de organizare a concursului de ocupare a funcțiilor publice specifice de atașat agricol din cadrul Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181467",
+   "versions": [
+    {
+     "from": "2016-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181467",
+     "sha256": "20667d15471a77fad16a989673e034f828fce65ad5e45bed2f33f898b63428a5"
     }
    ]
   },
@@ -108,6 +153,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-215-2016",
+   "path": "ordin/agricultura/2016/215",
+   "short": "Ordin agricultura nr. 215/2016",
+   "title": "Ordinul nr. 215/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 150/2010 privind comercializarea semințelor de plante oleaginoase și pentru fibre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176336",
+   "versions": [
+    {
+     "from": "2016-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176336",
+     "sha256": "ac2304198c1655c12386ebebbcc057686494ca6406945228d2f552f28a9314ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-228-2016",
+   "path": "ordin/agricultura/2016/228",
+   "short": "Ordin agricultura nr. 228/2016",
+   "title": "Ordinul nr. 228/2016 pentru abrogarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 1.044/2003 privind autorizarea unităților de procesare primară a tulpinilor de in și cânepă pentru fibră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176048",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176048",
+     "sha256": "32d34f7c61f0b91f512b09f58376c3a31743270a54cd0583ebc409dd9bf6bbf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2016",
+   "path": "ordin/agricultura/2016/234",
+   "short": "Ordin agricultura nr. 234/2016",
+   "title": "Ordinul nr. 234/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020, și pentru abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 246/2008 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți directe și plăți naționale directe complementare în sectorul vegetal, pentru acordarea sprijinului aferent măsurilor de agromediu și zone defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176057",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176057",
+     "sha256": "a14951a105538a5126ab25b6cfb27b7b06135eee5f43c187faf2c1c1e5fe53ca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-236-2016",
    "path": "ordin/agricultura/2016/236",
    "short": "Ordin agricultura nr. 236/2016",
@@ -198,6 +288,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-315-2016",
+   "path": "ordin/agricultura/2016/315",
+   "short": "Ordin agricultura nr. 315/2016",
+   "title": "Ordinul nr. 315/2016 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020, precum și pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 249/2016 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176654",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176654",
+     "sha256": "bfe13535a6585c75b3f78258d0c45f4543ed0a2df13a621242a57910bf4ca18c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-321-2016",
+   "path": "ordin/agricultura/2016/321",
+   "short": "Ordin agricultura nr. 321/2016",
+   "title": "Ordinul nr. 321/2016 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177011",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177011",
+     "sha256": "a535d1be13f3c0922274b239be471e99539ede51c2abe70bd8a9359cb9de7fec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-331-2016",
+   "path": "ordin/agricultura/2016/331",
+   "short": "Ordin agricultura nr. 331/2016",
+   "title": "Ordinul nr. 331/2016 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 249/2016 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176757",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176757",
+     "sha256": "4c6a5d5dd6bc40d3bb84edbda3a2d1fdffe9a244a8c1f9e85a5e1212bd5feb0e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-358-2016",
    "path": "ordin/agricultura/2016/358",
    "short": "Ordin agricultura nr. 358/2016",
@@ -224,6 +359,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177334",
      "sha256": "1b4d5bb824e4918a4e3e447d2fc6008ffc50a9503ffd9abba47a30e9b8813c51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-360-2016",
+   "path": "ordin/agricultura/2016/360",
+   "short": "Ordin agricultura nr. 360/2016",
+   "title": "Ordinul nr. 360/2016 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 708/2015 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2015-2018, \"Agricultură și Dezvoltare Rurală - ADER 2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176977",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176977",
+     "sha256": "91092bc220262b9f6f4da11db7cd7e2fae54adbbb5028ad34ed4cd4949ccbebf"
     }
    ]
   },
@@ -273,6 +423,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-388-2016",
+   "path": "ordin/agricultura/2016/388",
+   "short": "Ordin agricultura nr. 388/2016",
+   "title": "Ordinul nr. 388/2016 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 449/2008 privind caracteristicile tehnice, condițiile de folosire a uneltelor admise la pescuitul comercial și metodele de pescuit comercial în apele maritime și continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177496",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177496",
+     "sha256": "2d1a526a2af6146753f1e0654cc1d650529d234ea1f8f62cf1d9a552595451eb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-423-2016",
    "path": "ordin/agricultura/2016/423",
    "short": "Ordin agricultura nr. 423/2016",
@@ -318,6 +483,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-456-2016",
+   "path": "ordin/agricultura/2016/456",
+   "short": "Ordin agricultura nr. 456/2016",
+   "title": "Ordinul nr. 456/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.997/2015 privind aprobarea Manualului de procedură specifică pentru evaluarea, selectarea și contractarea cererilor de finanțare pentru proiecte aferente submăsurilor, măsurilor și schemelor de ajutor de stat sau de minimis aferente Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177511",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177511",
+     "sha256": "ddc99d86cb19dc2e45769acd746779b2165c42a03582c5da324b465a9f212fa2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-476-2016",
    "path": "ordin/agricultura/2016/476",
    "short": "Ordin agricultura nr. 476/2016",
@@ -344,6 +524,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177566",
      "sha256": "ea82d94102a885f3ba36eacfd4cdb45a138e4534e6e98e97f6fa8cfba3eeb90b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-520-2016",
+   "path": "ordin/agricultura/2016/520",
+   "short": "Ordin agricultura nr. 520/2016",
+   "title": "Ordinul nr. 520/2016 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 650/2015 privind nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177701",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177701",
+     "sha256": "944b0b51dc9e00950512b221d0dceebbd236635078bdf2f90f630ca47a9baf19"
     }
    ]
   },
@@ -408,6 +603,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-776-2016",
+   "path": "ordin/agricultura/2016/776",
+   "short": "Ordin agricultura nr. 776/2016",
+   "title": "Ordinul nr. 776/2016 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178086",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178086",
+     "sha256": "9f002b99bffd8ee424315a71e739c5c464528ab2a59455ce12ed5ea371a8a12c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-782-2016",
    "path": "ordin/agricultura/2016/782",
    "short": "Ordin agricultura nr. 782/2016",
@@ -438,6 +648,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-788-2016",
+   "path": "ordin/agricultura/2016/788",
+   "short": "Ordin agricultura nr. 788/2016",
+   "title": "Ordinul nr. 788/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 2.143/2015 privind aprobarea Manualului de procedură specifică pentru implementarea submăsurii 19.1 \"Sprijin pregătitor\" pentru elaborarea strategiilor de dezvoltare locală LEADER, cod manual M01-09.1, din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178179",
+   "versions": [
+    {
+     "from": "2016-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178179",
+     "sha256": "948a67f8a1a51fde8d6febcf7e05eb24922ea0088d07746be779f077bdfec7ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-793-2016",
+   "path": "ordin/agricultura/2016/793",
+   "short": "Ordin agricultura nr. 793/2016",
+   "title": "Ordinul nr. 793/2016 privind abrogarea unor ordine ale ministrului agriculturii și dezvoltării rurale pentru aprobarea manualelor de procedură aferente măsurilor, submăsurilor și schemelor de ajutor de stat sau de minimis din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178065",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178065",
+     "sha256": "1c9c46e8478777deede19c3ffdc26d24eb1d0c92410ec53950767305beb152d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-796-2016",
+   "path": "ordin/agricultura/2016/796",
+   "short": "Ordin agricultura nr. 796/2016",
+   "title": "Ordinul nr. 796/2016 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 694/2008 privind condițiile de recunoaștere a organizațiilor de producători și a grupurilor de producători recunoscute preliminar în sectorul fructe și legume, precum și modul de accesare a sprijinului financiar de către acestea și pentru stabilirea unor măsuri de aplicare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178015",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178015",
+     "sha256": "a9ef5a922df255284ccae371d1b8c70c2ceec021c59e7cf6c48a21c2ee5d5301"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-800-2016",
+   "path": "ordin/agricultura/2016/800",
+   "short": "Ordin agricultura nr. 800/2016",
+   "title": "Ordinul nr. 800/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178297",
+   "versions": [
+    {
+     "from": "2016-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178297",
+     "sha256": "306e692fcd2e6f663449a88ff0b907f7fb41c1b2ee2853c71489759df211f78a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-802-2016",
    "path": "ordin/agricultura/2016/802",
    "short": "Ordin agricultura nr. 802/2016",
@@ -449,6 +719,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178382",
      "sha256": "65615fdbe05264e49d68ba15665139d1de04d577b6100236850161c324d02008"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-804-2016",
+   "path": "ordin/agricultura/2016/804",
+   "short": "Ordin agricultura nr. 804/2016",
+   "title": "Ordinul nr. 804/2016 privind modificarea anexei nr. 13 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 181/2012 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178484",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178484",
+     "sha256": "6118c45aa19aa6db2c897186290a40c70f52a019250a7df220117b666ebc5c46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-806-2016",
+   "path": "ordin/agricultura/2016/806",
+   "short": "Ordin agricultura nr. 806/2016",
+   "title": "Ordinul nr. 806/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 708/2015 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2015-2018, \"Agricultură și Dezvoltare Rurală - ADER 2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178563",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178563",
+     "sha256": "96c19d9a75ce1ecca89780a2ded06d54bca2e62146f0ef54f40655ace4be2636"
     }
    ]
   },
@@ -468,6 +768,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-808-2016",
+   "path": "ordin/agricultura/2016/808",
+   "short": "Ordin agricultura nr. 808/2016",
+   "title": "Ordinul nr. 808/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.977/2014 pentru aprobarea componenței Comitetului consultativ pentru sectorul pescăresc și a regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178669",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178669",
+     "sha256": "c59307c799f0a6b5aefff5de334a71738fcdbb81299e5fba574bb5816066fce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-809-2016",
+   "path": "ordin/agricultura/2016/809",
+   "short": "Ordin agricultura nr. 809/2016",
+   "title": "Ordinul nr. 809/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178490",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178490",
+     "sha256": "bc79e8e2b7ee23ffb49fffba6c612d30d20a42ba91a27ddae8b7dd3af3210697"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-816-2016",
    "path": "ordin/agricultura/2016/816",
    "short": "Ordin agricultura nr. 816/2016",
@@ -479,6 +809,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178769",
      "sha256": "0bb36bd6dd20af4d2be3c615f5a7ae740acbec83f017b146ad316b164fa69620"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-817-2016",
+   "path": "ordin/agricultura/2016/817",
+   "short": "Ordin agricultura nr. 817/2016",
+   "title": "Ordinul nr. 817/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 619/2015 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură, precum și a condițiilor specifice de implementare pentru măsurile compensatorii de dezvoltare rurală aplicabile pe terenurile agricole, prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178880",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178880",
+     "sha256": "6d477f7580e9dab897605c798321eb912fdcf57c0096ee2c64554e5f361168ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-818-2016",
+   "path": "ordin/agricultura/2016/818",
+   "short": "Ordin agricultura nr. 818/2016",
+   "title": "Ordinul nr. 818/2016 privind completarea art. 18 din Normele privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 364/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178946",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178946",
+     "sha256": "2ba83dbec1cd264a150c5ac99d207e61f720853f79d2e7e612c513fff5e5cee1"
     }
    ]
   },
@@ -509,6 +869,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179518",
      "sha256": "2a1d3259efb2e477612ab8348db9788db09a0e2a75105ff13ec54ef278fd0bd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-823-2016",
+   "path": "ordin/agricultura/2016/823",
+   "short": "Ordin agricultura nr. 823/2016",
+   "title": "Ordinul nr. 823/2016 privind modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.801/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179032",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179032",
+     "sha256": "ec305573dceb85a9c5f627fe90fb2d37ac96b1b286016680e9125509119a79b1"
     }
    ]
   },
@@ -573,6 +948,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-834-2016",
+   "path": "ordin/agricultura/2016/834",
+   "short": "Ordin agricultura nr. 834/2016",
+   "title": "Ordinul nr. 834/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 2.373/2015 privind aprobarea Manualului de procedură pentru evaluarea și selecția proiectelor depuse în cadrul apelurilor de propuneri de proiecte aferente măsurii 1 \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\" din cadrul Programului Național de Dezvoltare Rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180129",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180129",
+     "sha256": "58494a588a8aade13ac119edfcab3badf6092adebfc519c0643b6a14ee436369"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-835-2016",
+   "path": "ordin/agricultura/2016/835",
+   "short": "Ordin agricultura nr. 835/2016",
+   "title": "Ordinul nr. 835/2016 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 116/2016 privind aprobarea Regulamentului de organizare și funcționare a Comitetului de selecție și a Comisiei de soluționare a contestațiilor pentru proiectele aferente măsurii 1 \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\" din Programul Național de Dezvoltare Rurală 2014-2020 (PNDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179688",
+   "versions": [
+    {
+     "from": "2016-07-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179688",
+     "sha256": "8c421f327d758101430985f28ea6ce2d1e028ec1d37c715c901a5fb4b39e55aa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-837-2016",
    "path": "ordin/agricultura/2016/837",
    "short": "Ordin agricultura nr. 837/2016",
@@ -584,6 +989,96 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179788",
      "sha256": "e91a330723e804002f8178c4a9a3756ed234f9c759db5197624f417d9716b6b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-838-2016",
+   "path": "ordin/agricultura/2016/838",
+   "short": "Ordin agricultura nr. 838/2016",
+   "title": "Ordinul nr. 838/2016 privind modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.763/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179556",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179556",
+     "sha256": "96f76e24f4b97d1f5b290e7982d794211146d3aa95d05e5049565c1bb4869bbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-839-2016",
+   "path": "ordin/agricultura/2016/839",
+   "short": "Ordin agricultura nr. 839/2016",
+   "title": "Ordinul nr. 839/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 703/2013 privind aprobarea condițiilor în care se vor încheia convențiile dintre instituțiile financiare bancare și nebancare și Agenția de Plăți și Intervenție pentru Agricultură, în vederea finanțării de către acestea a activităților curente ale beneficiarilor plăților derulate prin Agenția de Plăți și Intervenție pentru Agricultură, în baza adeverințelor eliberate de Agenția de Plăți și Intervenție pentru Agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179791",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179791",
+     "sha256": "555971c662ed5c6b7633516d3bfc4b34d054e10081be71b11d04a724867f5d9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-842-2016",
+   "path": "ordin/agricultura/2016/842",
+   "short": "Ordin agricultura nr. 842/2016",
+   "title": "Ordinul nr. 842/2016 privind abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 117/2016 pentru aprobarea Manualului de procedură privind achizițiile publice de servicii de consiliere finanțate prin Măsura 2 \"Servicii de consiliere, servicii de gestionare a fermei și servicii de înlocuire în cadrul fermei\", din cadrul Programului Național de Dezvoltare Rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179932",
+   "versions": [
+    {
+     "from": "2016-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179932",
+     "sha256": "3ce1ec3d302695618cae5cce3f54642325555dc5a3cc83101968fcdcac8e1211"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-851-2016",
+   "path": "ordin/agricultura/2016/851",
+   "short": "Ordin agricultura nr. 851/2016",
+   "title": "Ordinul nr. 851/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 2.112/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat pentru stimularea investițiilor asociate conservării patrimoniului și pentru menținerea tradițiilor și moștenirii spirituale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180231",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180231",
+     "sha256": "b8111c47bfc5a32d639c7cfc5978a614294fe8c3ebd2195b5b6a83074bc3a603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-852-2016",
+   "path": "ordin/agricultura/2016/852",
+   "short": "Ordin agricultura nr. 852/2016",
+   "title": "Ordinul nr. 852/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.731/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor și întreprinderilor mici din spațiul rural pentru înființarea și dezvoltarea activităților economice neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180241",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180241",
+     "sha256": "ed591b2534bb53d40e08816b6a5789dbaf1fde7f27ac713dfda6060d3e10ef0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-854-2016",
+   "path": "ordin/agricultura/2016/854",
+   "short": "Ordin agricultura nr. 854/2016",
+   "title": "Ordinul nr. 854/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 3.433/2015 privind aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180322",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180322",
+     "sha256": "5da3524f29d8e72499b77b8f81f92ed47c367e6e06eccef36ef5f95b417e3141"
     }
    ]
   },
@@ -603,6 +1098,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-859-2016",
+   "path": "ordin/agricultura/2016/859",
+   "short": "Ordin agricultura nr. 859/2016",
+   "title": "Ordinul nr. 859/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 285/2016 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru servicii de consultanță în vederea implementării proiectelor de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole și a produselor din sectorul pomicol\", derulate prin schema de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\", aferentă Programului Național de Dezvoltare Rurală 2014-2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180465",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180465",
+     "sha256": "b57fd272e5ebba672e90ca761278cc8d78bcb19c8de6bd57cdda161a9bd4ff91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-863-2016",
+   "path": "ordin/agricultura/2016/863",
+   "short": "Ordin agricultura nr. 863/2016",
+   "title": "Ordinul nr. 863/2016 privind modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.763/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180368",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180368",
+     "sha256": "54c66f065d2ae060dafb5ffe3d451cd92a8128f0f97fabdfe31c969ed664fb22"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-864-2016",
    "path": "ordin/agricultura/2016/864",
    "short": "Ordin agricultura nr. 864/2016",
@@ -614,6 +1139,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180459",
      "sha256": "2d33ef986d4ee8120a4ed7077798bf7dfd6364cb31e4015ff75f960851e65d2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-866-2016",
+   "path": "ordin/agricultura/2016/866",
+   "short": "Ordin agricultura nr. 866/2016",
+   "title": "Ordinul nr. 866/2016 pentru modificarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018, aprobate prin Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.801/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180490",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180490",
+     "sha256": "cc7219a7770230bdf47a56a496f3d785797d7c39d946c2e6870dae37da6f4376"
     }
    ]
   },
@@ -633,6 +1173,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-871-2016",
+   "path": "ordin/agricultura/2016/871",
+   "short": "Ordin agricultura nr. 871/2016",
+   "title": "Ordinul nr. 871/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 181/2012 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180550",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180550",
+     "sha256": "284024e255a02372d10b24e9a79de6ebee12339bbbb71acc586cd3cb1655131a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-877-2016",
    "path": "ordin/agricultura/2016/877",
    "short": "Ordin agricultura nr. 877/2016",
@@ -644,6 +1199,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180680",
      "sha256": "6e383a9a2ef4ed5b40b7014de38058c9062ecfc52db527885a97f97937bfe03c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-878-2016",
+   "path": "ordin/agricultura/2016/878",
+   "short": "Ordin agricultura nr. 878/2016",
+   "title": "Ordinul nr. 878/2016 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180834",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180834",
+     "sha256": "cbbfe34d319c76dbc1988cb8ae35544d537ea2b2c29c3bb84546d24df7bda8fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-881-2016",
+   "path": "ordin/agricultura/2016/881",
+   "short": "Ordin agricultura nr. 881/2016",
+   "title": "Ordinul nr. 881/2016 pentru modificarea art. 21 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 476/2016 privind sistemul de sancțiuni aplicabil schemelor de plăți directe și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor unice de plată depuse la Agenția de Plăți și Intervenție pentru Agricultură, începând cu anul de cerere 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180684",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180684",
+     "sha256": "acf45ac5e0462608702cf8531289947d8ee839db480b4e798fd68563ad05a53f"
     }
    ]
   },
@@ -663,6 +1248,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-885-2016",
+   "path": "ordin/agricultura/2016/885",
+   "short": "Ordin agricultura nr. 885/2016",
+   "title": "Ordinul nr. 885/2016 pentru abrogarea art. 3 alin. (2) din Ordinul ministrului agriculturii și dezvoltării rurale nr. 242/2008 privind denaturarea stocurilor excedentare de zahăr în vederea utilizării în hrana animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180798",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180798",
+     "sha256": "f94f5128f977aa2b95174a9c5500ee1e9eedcada301cf2cfc0d4e057e21ecfdc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-895-2016",
    "path": "ordin/agricultura/2016/895",
    "short": "Ordin agricultura nr. 895/2016",
@@ -674,6 +1274,66 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181300",
      "sha256": "2aba6cc2ba5b75f82615a5a1cfe7d030431f5860662c607e4e882ca6c5be1d4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-896-2016",
+   "path": "ordin/agricultura/2016/896",
+   "short": "Ordin agricultura nr. 896/2016",
+   "title": "Ordinul nr. 896/2016 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 202/2016 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181293",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181293",
+     "sha256": "7486c049e7e45b30adab5fe6f0a79c8d160943de95d53406b241f1a21a629c69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-897-2016",
+   "path": "ordin/agricultura/2016/897",
+   "short": "Ordin agricultura nr. 897/2016",
+   "title": "Ordinul nr. 897/2016 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 449/2008 privind caracteristicile tehnice, condițiile de folosire a uneltelor admise la pescuitul comercial și metodele de pescuit comercial în apele maritime și continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181260",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181260",
+     "sha256": "59572ba8023e3ddbe55b45786b4276293b9e27c0ab1927b3f0f553118299e519"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-898-2016",
+   "path": "ordin/agricultura/2016/898",
+   "short": "Ordin agricultura nr. 898/2016",
+   "title": "Ordinul nr. 898/2016 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 30/2016 privind aprobarea Manualului de procedură pentru implementarea proiectelor finanțate prin măsura 20 \"Asistență tehnică\" descrisă în capitolul 15.6 din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181501",
+   "versions": [
+    {
+     "from": "2016-09-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181501",
+     "sha256": "276aad84ee3f093a0b6d965f6033f549851031b0843eac25ae74e2829dd22a81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-90-2016",
+   "path": "ordin/agricultura/2016/90",
+   "short": "Ordin agricultura nr. 90/2016",
+   "title": "Ordinul nr. 90/2016 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 2.284/2015 pentru aprobarea manualelor de proceduri aferente activității specifice Agenției pentru Finanțarea Investițiilor Rurale de finanțare privind submăsurile, măsurile și schemele de ajutor de stat sau de minimis din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175394",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175394",
+     "sha256": "5601cc2a4677a9690550900c0050dfd0ddbb67f513680941e14bd1b55658600e"
     }
    ]
   },
@@ -783,6 +1443,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-918-2016",
+   "path": "ordin/agricultura/2016/918",
+   "short": "Ordin agricultura nr. 918/2016",
+   "title": "Ordinul nr. 918/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 143/2010 privind componența și funcționarea Comitetului pentru Organizațiile Interprofesionale pentru Produsele Agroalimentare, precum și procedurile de recunoaștere, monitorizare și control, retragere a recunoașterii, extindere a acordurilor interprofesionale și delegare de atribuții pentru organizațiile interprofesionale pentru produsele agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182153",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182153",
+     "sha256": "783ae9efa46a7e3a887f58a25bc13e782bd01dac05f2b2778c59d6993aabec3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-92-2016",
+   "path": "ordin/agricultura/2016/92",
+   "short": "Ordin agricultura nr. 92/2016",
+   "title": "Ordinul nr. 92/2016 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 149/2010 privind comercializarea semințelor de cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175501",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175501",
+     "sha256": "0ee212eb181118d6b31cd2415efec3c48a5ac747a7a52c2a5c29cac3115b9c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-924-2016",
+   "path": "ordin/agricultura/2016/924",
+   "short": "Ordin agricultura nr. 924/2016",
+   "title": "Ordinul nr. 924/2016 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 816/2016 privind aprobarea Listei detaliate a cheltuielilor eligibile pentru operațiunile finanțate, inclusiv cheltuielile de personal ale Autorității de management, în cadrul Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182382",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182382",
+     "sha256": "981587fed25258c561e238fdbafab798570659c2ecd90b298b0e5e22e903c6c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-933-2016",
+   "path": "ordin/agricultura/2016/933",
+   "short": "Ordin agricultura nr. 933/2016",
+   "title": "Ordinul nr. 933/2016 privind modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 1.763/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182649",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182649",
+     "sha256": "6a933efba720bf0f3d4f3adf8afb6903ced5982948a63dee0b05cf254d9cdb75"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-934-2016",
    "path": "ordin/agricultura/2016/934",
    "short": "Ordin agricultura nr. 934/2016",
@@ -794,6 +1514,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182650",
      "sha256": "1b392c320b44cff8fa065845a9500e51d0f62a0eaa75d302f07a866597bcc29a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-954-2016",
+   "path": "ordin/agricultura/2016/954",
+   "short": "Ordin agricultura nr. 954/2016",
+   "title": "Ordinul nr. 954/2016 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică, precum și pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 249/2016 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183129",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183129",
+     "sha256": "80e20fcc85350d553b1d5b80a7dbc82d78fe10b2fda0b26cca249f691334f64a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-965-2016",
+   "path": "ordin/agricultura/2016/965",
+   "short": "Ordin agricultura nr. 965/2016",
+   "title": "Ordinul nr. 965/2016 pentru completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 155/2010 privind producerea în vederea comercializării și comercializarea semințelor de plante furajere, Ordinului ministrului agriculturii și dezvoltării rurale nr. 149/2010 privind comercializarea semințelor de cereale, Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.265/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul, certificarea calității și comercializarea semințelor de sfeclă de zahăr și sfeclă furajeră, Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.366/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, controlul și certificarea calității și/sau comercializarea semințelor de legume, Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.266/2005 pentru aprobarea Regulilor și normelor tehnice privind producerea în vederea comercializării, certificarea calității și comercializarea cartofului pentru sămânță și Ordinului ministrului agriculturii și dezvoltării rurale nr. 150/2010 privind comercializarea semințelor de plante oleaginoase și pentru fibre privind eticheta oficială de pe ambalajele de semințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183733",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183733",
+     "sha256": "2ecb5ca4b489d36a7a001d1e87e137a3ee60e92e6231599cbff2334d6c797883"
     }
    ]
   },
@@ -813,6 +1563,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-967-2016",
+   "path": "ordin/agricultura/2016/967",
+   "short": "Ordin agricultura nr. 967/2016",
+   "title": "Ordinul nr. 967/2016 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183789",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183789",
+     "sha256": "ec42b4403f8d05022badddc7b7a587c559708c7943be7cb789e496cbb623df49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-974-2016",
    "path": "ordin/agricultura/2016/974",
    "short": "Ordin agricultura nr. 974/2016",
@@ -824,6 +1589,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184637",
      "sha256": "e09473ac85cbf93de8f4afa1a5fdc08ff44c0de1850943f35c8f84277262ccf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-975-2016",
+   "path": "ordin/agricultura/2016/975",
+   "short": "Ordin agricultura nr. 975/2016",
+   "title": "Ordinul nr. 975/2016 privind abrogarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 423/2016 pentru aprobarea Manualului de procedură pentru implementarea Măsurii 20 - \"Asistență tehnică\" și plata contractelor de achiziție publică finanțate prin Măsura 1 - \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\", Măsura 2 - \"Servicii de consiliere, servicii de gestionare a fermei și servicii de înlocuire în cadrul fermei\" și Măsura 20 - \"Asistență tehnică\" din cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184611",
+   "versions": [
+    {
+     "from": "2016-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184611",
+     "sha256": "8237b979e3a15e9a172e41f4e433de0939d83e5ae1d11835a7bdb04ab138bcec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-976-2016",
+   "path": "ordin/agricultura/2016/976",
+   "short": "Ordin agricultura nr. 976/2016",
+   "title": "Ordinul nr. 976/2016 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 816/2016 privind aprobarea Listei detaliate a cheltuielilor eligibile pentru operațiunile finanțate, inclusiv cheltuielile de personal ale Autorității de management, în cadrul Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184594",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184594",
+     "sha256": "6abf74123070cc46137e54d429f79bc0a7822919bece4c16cc6197fd0da14710"
     }
    ]
   },
@@ -854,6 +1649,36 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184631",
      "sha256": "442313a4dadf068b4afba70fbad7b97abe4cb5845d1050e66464fcbeebce8050"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-996-2016",
+   "path": "ordin/agricultura/2016/996",
+   "short": "Ordin agricultura nr. 996/2016",
+   "title": "Ordinul nr. 996/2016 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.515/2013 privind aprobarea introducerii noului însemn de certificare a calității vinurilor cu denumire de origine controlată și indicație geografică îmbuteliate și stabilirea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu denumire de origine controlată sau cu indicație geografică, a cuantumului taxei pentru atestarea dreptului de utilizare a denumirii de origine controlată sau a indicației geografice pentru comercializarea vinurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184801",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184801",
+     "sha256": "4bfbfe655fcd17647aa8c5b2c012ebaa818e4cd2fca9cb019dad275e21acbc76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-997-2016",
+   "path": "ordin/agricultura/2016/997",
+   "short": "Ordin agricultura nr. 997/2016",
+   "title": "Ordinul nr. 997/2016 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.638/2015 pentru stabilirea condițiilor și a procedurii de înregistrare în Registrul prim-cumpărătorilor de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184883",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184883",
+     "sha256": "434f672f78fba59de7ac4fde800b757831d9b943c39779a11889101c16a09559"
     }
    ]
   },
@@ -4259,6 +5084,261 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181530",
      "sha256": "4a9392ee232660c9a4783f266b4a2ea7c1e33822afa7f0c960ffaa23e0c1aeea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-101-2016",
+   "path": "ordin/aparare/2016/101",
+   "short": "Ordin aparare nr. 101/2016",
+   "title": "Ordinul nr. 101/2016 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181586",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181586",
+     "sha256": "cd55f6c7342044f870b7916086b5a8a1889d56b8b599319bdd7ce4b5414d1a9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-102-2016",
+   "path": "ordin/aparare/2016/102",
+   "short": "Ordin aparare nr. 102/2016",
+   "title": "Ordinul nr. 102/2016 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181587",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181587",
+     "sha256": "04731e6dd392823f087c373828e20c6ac6063c273de3dbb282737b485ba9be31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-104-2016",
+   "path": "ordin/aparare/2016/104",
+   "short": "Ordin aparare nr. 104/2016",
+   "title": "Ordinul nr. 104/2016 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181787",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181787",
+     "sha256": "b2cbb80047356d207631caab9dd9c5c72c6f9dcff5c7badd186faef18a8b3243"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-105-2016",
+   "path": "ordin/aparare/2016/105",
+   "short": "Ordin aparare nr. 105/2016",
+   "title": "Ordinul nr. 105/2016 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181820",
+   "versions": [
+    {
+     "from": "2016-09-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181820",
+     "sha256": "d6a2576993bbcf5b9847e19b67fb5810ed03e6f0291208b1a1ccb30287f45e7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-117-2016",
+   "path": "ordin/aparare/2016/117",
+   "short": "Ordin aparare nr. 117/2016",
+   "title": "Ordinul nr. 117/2016 pentru aprobarea Regulamentului privind organizarea și administrarea cimitirelor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183028",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183028",
+     "sha256": "770abec060c009e02216d95be39fa640126f9a639570ab56813fa3f53994dff3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-122-2016",
+   "path": "ordin/aparare/2016/122",
+   "short": "Ordin aparare nr. 122/2016",
+   "title": "Ordinul nr. 122/2016 pentru aprobarea Instrucțiunilor privind organizarea și funcționarea școlilor militare de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182857",
+   "versions": [
+    {
+     "from": "2016-10-24",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182857",
+     "sha256": "e0d44401707a0ba1b228bb4a08da78da8dcb1488fb876b377495952932c6a27b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-129-2016",
+   "path": "ordin/aparare/2016/129",
+   "short": "Ordin aparare nr. 129/2016",
+   "title": "Ordinul nr. 129/2016 privind stabilirea datelor publice obținute din activitatea hidrografică maritimă care se pun la dispoziția utilizatorilor, a activităților hidrografice, cartografice și de publicare ce se pot desfășura contra cost, precum și a tarifelor aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183527",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183527",
+     "sha256": "10679101a2604f7be0a0047c706cee90e0936e626452eea47fe3f4a24dd10356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-134-2016",
+   "path": "ordin/aparare/2016/134",
+   "short": "Ordin aparare nr. 134/2016",
+   "title": "Ordinul nr. 134/2016 pentru aprobarea Regulamentului de organizare și funcționare a Casei de pensii sectoriale a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183923",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183923",
+     "sha256": "072fc7babc12fab8a6499e8f224186fe6ada333a5f5e3aba5404538910c3500e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-16-2016",
+   "path": "ordin/aparare/2016/16",
+   "short": "Ordin aparare nr. 16/2016",
+   "title": "Ordinul nr. 16/2016 pentru aprobarea Ghidului de clasificare a informațiilor în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176014",
+   "versions": [
+    {
+     "from": "2016-02-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176014",
+     "sha256": "82f4d87fb4f5ad3d077243d28960acd835083803c96bf97912f8f85dd976bbe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-19-2016",
+   "path": "ordin/aparare/2016/19",
+   "short": "Ordin aparare nr. 19/2016",
+   "title": "Ordinul nr. 19/2016 pentru aprobarea Normelor de aplicare în Ministerul Apărării Naționale a prevederilor Ordonanței Guvernului nr. 27/2014 privind finanțarea instituțiilor de învățământ superior militar, de informații, de ordine publică și de securitate națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175725",
+   "versions": [
+    {
+     "from": "2016-02-10",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175725",
+     "sha256": "b9a6fb6a2411e7f2f0ac0a6c1744d200f36e5134b343c0469a382b8933dcd304"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-40-2016",
+   "path": "ordin/aparare/2016/40",
+   "short": "Ordin aparare nr. 40/2016",
+   "title": "Ordinul nr. 40/2016 privind coordonarea procesului de planificare a armamentelor pentru dotarea structurilor militare din cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177103",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177103",
+     "sha256": "8360884de331b5c20d46bd512a86b84ec70b30a60a0c74fba12b2ec74a81300d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-6-2016",
+   "path": "ordin/aparare/2016/6",
+   "short": "Ordin aparare nr. 6/2016",
+   "title": "Ordinul nr. 6/2016 pentru aprobarea Instrucțiunilor privind organizarea și funcționarea Cercului Militar Național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175301",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175301",
+     "sha256": "69326290543cc8c2715d4eb9fc71e34901349ab5905047a34b3e4695b0432364"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-70-2016",
+   "path": "ordin/aparare/2016/70",
+   "short": "Ordin aparare nr. 70/2016",
+   "title": "Ordinul nr. 70/2016 pentru aprobarea Condițiilor și a Metodologiei privind chemarea/rechemarea în activitate, în corpul ofițerilor, în vederea ocupării posturilor de medic, medic dentist, farmacist, biolog, biochimist și chimist, în unitățile și structurile sanitare din rețeaua Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178972",
+   "versions": [
+    {
+     "from": "2016-06-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178972",
+     "sha256": "e584a43c16a318a4a6467aec9eca433051e2770561c4833d87d6af399b014b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-73-2016",
+   "path": "ordin/aparare/2016/73",
+   "short": "Ordin aparare nr. 73/2016",
+   "title": "Ordinul nr. 73/2016 pentru aprobarea Instrucțiunilor privind organizarea și funcționarea cercurilor militare de garnizoană în Armata României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179279",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179279",
+     "sha256": "5799a533631c70b54b1b3d66d11c8d2463faf2acd6ec791fe336da528a68abf0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-76-2016",
+   "path": "ordin/aparare/2016/76",
+   "short": "Ordin aparare nr. 76/2016",
+   "title": "Ordinul nr. 76/2016 pentru aprobarea Instrucțiunilor privind activitatea de informare și relații publice în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179301",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 138,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179301",
+     "sha256": "cb4407c8c901a7911b1c00c9a8eb7b183b5ff25c4e4b8d1c12fe581c58726dd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-84-2016",
+   "path": "ordin/aparare/2016/84",
+   "short": "Ordin aparare nr. 84/2016",
+   "title": "Ordinul nr. 84/2016 pentru aprobarea Normelor metodologice privind sistemul de control intern/managerial în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180197",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180197",
+     "sha256": "143dde440bac9e86eeaea3aba8b9e8c53d581c5945ca2b137218f828c6a7b4bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-88-2016",
+   "path": "ordin/aparare/2016/88",
+   "short": "Ordin aparare nr. 88/2016",
+   "title": "Ordinul nr. 88/2016 privind aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 82/2006 pentru recunoașterea meritelor personalului armatei participant la acțiuni militare și acordarea unor drepturi acestuia și urmașilor celui decedat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180849",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180849",
+     "sha256": "4c8e3110d8024ca284c9de4ae0a3feadc259ccca7717f6237b1bea060e4dac99"
     }
    ]
   },

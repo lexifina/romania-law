@@ -3,6 +3,25 @@
 "shard": "norma/1996",
 "acts": [
 {
+"slug": "norma-agricultura-844-1996",
+"path": "norma/agricultura/1996/844",
+"kind": "norma",
+"year": "1996",
+"number": "844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 844/1996 pentru aplicarea Legii nr. 20 din 8 aprilie 1996 privind unele măsuri necesare pentru desfășurarea campaniei agricole din primăvara anului 1996, ca urmare a stării de urgenta din agricultura",
+"short": "Norma agricultura nr. 844/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-04-09",
+"latest": "1996-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/9908",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "norma-bnr-1-1996",
 "path": "norma/bnr/1996/1",
 "kind": "norma",

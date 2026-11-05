@@ -3,6 +3,21 @@
  "shard": "ordin/1991",
  "acts": [
   {
+   "slug": "ordin-agricultura-55-1991",
+   "path": "ordin/agricultura/1991/55",
+   "short": "Ordin agricultura nr. 55/1991",
+   "title": "Ordinul nr. 55/1991 privind Lista oficială a soiurilor (hibrizilor) de plante de cultura din România pentru anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1526",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1526",
+     "sha256": "cd379b2bd522dcdb1c1bbccfd37bdac20eb50906e5d121d97a10bf848a8ad23e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-548-1991",
    "path": "ordin/bnr/1991/548",
    "short": "Ordin bnr nr. 548/1991",

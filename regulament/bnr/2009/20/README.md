@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 20/2009 · 1 versions, from 2009-10-21 (latest in force: 2009-10-21) · <https://legislatie.just.ro/Public/DetaliiDocument/112508>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (3 JUDEȚUL ______________________│_│_│ DENUMIREA INSTITUȚIEI FINANCIARE NEBANCARE: ________________________ ADRESA LOC: ______,sector _________ STR.: ...): it is a table that the official text holds only flattened; Anexa nr. 8 (6 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei - ...): it is a table that the official text holds only flattened; Anexa nr. 10 (8 RAPORTAREA expunerilor mari și a expunerii agregate - lei - Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (3 JUDEȚUL ______________________): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -124,6 +124,8 @@ Regulament bnr nr. 20/2009 · 1 versions, from 2009-10-21 (latest in force: 2009
 | Art. 116 | [art-116.md](art-116.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
 | Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
 | Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
@@ -136,6 +138,8 @@ Regulament bnr nr. 20/2009 · 1 versions, from 2009-10-21 (latest in force: 2009
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 | Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
 | Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
@@ -153,9 +157,9 @@ Act id: `regulament-bnr-20-2009` (tags `regulament-bnr-20-2009/<day>`; `python t
 - Regulament bnr nr. 20/2009: Anexa nr. 5 (4 FORMULAR de calcul și raportare a nivelului fondurilor proprii Denumirea instituției financiare nebancare: Data raportării: - lei - Elemente luate în calcul Nr. rd. Valoare Capital social subscris ș) is part of the regulation and is published in its folder, anexa-5/ (paragraphs), from document 112508 of the official web service.
 - Regulament bnr nr. 20/2009: Anexa nr. 6 (5a CRITERII DE ÎNCADRARE a elementelor de activ în categorii de risc de credit a) Pondere 0%:... - elemente de activ constituind creanțe și elemente din afara bilanțului, reprezentând expuneri înregis) is part of the regulation and is published in its folder, anexa-6/ (paragraphs), from document 112508 of the official web service.
 - Regulament bnr nr. 20/2009: Anexa nr. 7 (5b CRITERII DE ÎNCADRARE a elementelor din afara bilanțului în categorii de risc de transformare în echivalent credit Grad de risc de transformare în echivalent credit Elemente din afara bilanțului Co) is part of the regulation and is published in its folder, anexa-7/ (paragraphs), from document 112508 of the official web service.
+- Regulament bnr nr. 20/2009: Anexa nr. 8 (6 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei -) is part of the regulation and is published in its folder, anexa-8/ (paragraphs and tables), from document 112508 of the official web service.
 - Regulament bnr nr. 20/2009: Anexa nr. 9 (7 FORMULAR DE CALCUL al expunerilor nete înregistrate de instituțiile financiare nebancare - lei - Expunere din Expunere din elemente Nr. Debitor elemente de activ în afara bilanțului Expu- crt. puner) is part of the regulation and is published in its folder, anexa-9/ (paragraphs), from document 112508 of the official web service.
+- Regulament bnr nr. 20/2009: Anexa nr. 10 (8 RAPORTAREA expunerilor mari și a expunerii agregate - lei - Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii) is part of the regulation and is published in its folder, anexa-10/ (paragraphs and tables), from document 112508 of the official web service.
 - Regulament bnr nr. 20/2009: Anexa nr. 11 (9 STRUCTURA grupurilor reprezentând "un singur debitor" și/sau "persoane aflate în relații speciale" față de care instituția financiară nebancară înregistrează expuneri mari "Un singur debitor" și/sau) is part of the regulation and is published in its folder, anexa-11/ (paragraphs), from document 112508 of the official web service.
-- Regulament bnr nr. 20/2009: Anexa nr. 4 (3 JUDEȚUL ______________________│_│_│ DENUMIREA INSTITUȚIEI FINANCIARE NEBANCARE: ________________________ ADRESA LOC: ______,sector _________ STR.: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 20/2009: Anexa nr. 8 (6 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 20/2009: Anexa nr. 10 (8 RAPORTAREA expunerilor mari și a expunerii agregate - lei - Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 20/2009: Anexa nr. 4 (3 JUDEȚUL ______________________) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Regulament bnr nr. 20/2009: the publisher's notes run into its text (*) n - reprezintă perioadele de raportare trimestrială, succesive) are not text.

@@ -3,6 +3,21 @@
  "shard": "ordin/2022",
  "acts": [
   {
+   "slug": "ordin-agricultura-129-2022",
+   "path": "ordin/agricultura/2022/129",
+   "short": "Ordin agricultura nr. 129/2022",
+   "title": "Ordinul nr. 129/2022 pentru completarea art. 18 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 262/2021 privind sistemul de sancțiuni aplicabil schemelor de plăți directe și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor unice de plată din anii de cerere 2021 și 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255623",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255623",
+     "sha256": "1e4bc70ef907e3f87bb931707f0252c74dc5ace25eaab6bdd1022e0fc6021654"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-13-2022",
    "path": "ordin/agricultura/2022/13",
    "short": "Ordin agricultura nr. 13/2022",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-150-2022",
+   "path": "ordin/agricultura/2022/150",
+   "short": "Ordin agricultura nr. 150/2022",
+   "title": "Ordinul nr. 150/2022 pentru modificarea și completarea unor acte normative în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256467",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256467",
+     "sha256": "ae353007a773a7364ff283a6fc79e2f658e589f3dc102c730a2aeb2490be9b30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-152-2022",
+   "path": "ordin/agricultura/2022/152",
+   "short": "Ordin agricultura nr. 152/2022",
+   "title": "Ordinul nr. 152/2022 pentru modificarea unor acte normative în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256592",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256592",
+     "sha256": "042297be4148c671e1508a2830e57217a2ed92ba54c7611f8705a256d7d5dd76"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-159-2022",
    "path": "ordin/agricultura/2022/159",
    "short": "Ordin agricultura nr. 159/2022",
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-17-2022",
+   "path": "ordin/agricultura/2022/17",
+   "short": "Ordin agricultura nr. 17/2022",
+   "title": "Ordinul nr. 17/2022 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.343/2018 privind aprobarea valorii tarifului datorat pentru scoaterea definitivă sau temporară din circuitul agricol a terenurilor aflate în extravilan, precum și pentru introducerea terenurilor agricole în intravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250623",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250623",
+     "sha256": "b205269dd5d09f7e020e79bbf3aca492a1adb22249aec3fe503bb76f05684aef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-177-2022",
    "path": "ordin/agricultura/2022/177",
    "short": "Ordin agricultura nr. 177/2022",
@@ -134,6 +194,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256961",
      "sha256": "de903e31e99098d0da02ba8f6e591319e84024f671961b132d9e9c983d808b29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-179-2022",
+   "path": "ordin/agricultura/2022/179",
+   "short": "Ordin agricultura nr. 179/2022",
+   "title": "Ordinul nr. 179/2022 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 999/2016 privind aprobarea sistemului de sancțiuni administrative pentru ecocondiționalitate aplicabil schemelor și măsurilor de sprijin pentru fermieri începând cu anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257369",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257369",
+     "sha256": "ea500a0e5db0e3ae2158c0bd4e2751274123af99c9393fd190f66a80f659e3d1"
     }
    ]
   },
@@ -183,6 +258,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-207-2022",
+   "path": "ordin/agricultura/2022/207",
+   "short": "Ordin agricultura nr. 207/2022",
+   "title": "Ordinul nr. 207/2022 privind modificarea anexelor nr. 5 și 6 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și anexelor nr. 4 și 5 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257951",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257951",
+     "sha256": "ceef20a4addd6c5852e578b120110af9f1fd96a30c3e01090cbe833056c3822a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-214-2022",
    "path": "ordin/agricultura/2022/214",
    "short": "Ordin agricultura nr. 214/2022",
@@ -198,6 +288,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-215-2022",
+   "path": "ordin/agricultura/2022/215",
+   "short": "Ordin agricultura nr. 215/2022",
+   "title": "Ordinul nr. 215/2022 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.508/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257933",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257933",
+     "sha256": "b222cba03373d35bd6022d536d0526fc4c0ee130c1201d4248df2cf2eee3849f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-217-2022",
+   "path": "ordin/agricultura/2022/217",
+   "short": "Ordin agricultura nr. 217/2022",
+   "title": "Ordinul nr. 217/2022 privind modificarea anexei Ordinului ministrului agriculturii și dezvoltării rurale nr. 483/2016 pentru aprobarea Procedurii operaționale privind efectuarea controlului pe teren pentru cererile unice de plată aferente măsurii 10, pachetul 8 \"Creșterea animalelor de fermă din rase locale în pericol de abandon\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258224",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258224",
+     "sha256": "83a94c166bc3d316e7775638b3b4c98cae799cca528a0f4ec11e6ffb97ebda4a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-238-2022",
    "path": "ordin/agricultura/2022/238",
    "short": "Ordin agricultura nr. 238/2022",
@@ -209,6 +329,66 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258435",
      "sha256": "c1eb9c4cb3f56c125f37b34edd581ad85697bc8098e1afc5064b5042b741dbce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-239-2022",
+   "path": "ordin/agricultura/2022/239",
+   "short": "Ordin agricultura nr. 239/2022",
+   "title": "Ordinul nr. 239/2022 privind modificarea și completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 195/2018 privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 420/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258507",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258507",
+     "sha256": "5f78229df4a63516d678ea8f513568d4a90670eb57a769000bc12eb05171c409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-240-2022",
+   "path": "ordin/agricultura/2022/240",
+   "short": "Ordin agricultura nr. 240/2022",
+   "title": "Ordinul nr. 240/2022 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.531/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258522",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258522",
+     "sha256": "85dbccd81e9d4a718d57eae18c397f2e8614620637c726543432cb915999683e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-244-2022",
+   "path": "ordin/agricultura/2022/244",
+   "short": "Ordin agricultura nr. 244/2022",
+   "title": "Ordinul nr. 244/2022 privind completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 406/2017 pentru aprobarea Normelor privind recunoașterea organizațiilor de producători și a altor forme asociative din sectorul fructelor și legumelor și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258721",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258721",
+     "sha256": "f8867879a05e7b1dcb4f371d7cb00f679adc5d015ea0f29acf2f5ca9edfec700"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-249-2022",
+   "path": "ordin/agricultura/2022/249",
+   "short": "Ordin agricultura nr. 249/2022",
+   "title": "Ordinul nr. 249/2022 privind modificarea și completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258583",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258583",
+     "sha256": "a84c27a5ef3d3b21e1a259ba6e8fa0efc3574cfea2957fd6b07c9f16de4d93ca"
     }
    ]
   },
@@ -273,6 +453,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-28-2022",
+   "path": "ordin/agricultura/2022/28",
+   "short": "Ordin agricultura nr. 28/2022",
+   "title": "Ordinul nr. 28/2022 pentru modificarea unor acte normative privind măsura 14 \"Bunăstarea animalelor\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251664",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251664",
+     "sha256": "67fc6b7720d865614da3c7883f9020c69e1674fe096767ba2e2bf92ba2313b14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-281-2022",
+   "path": "ordin/agricultura/2022/281",
+   "short": "Ordin agricultura nr. 281/2022",
+   "title": "Ordinul nr. 281/2022 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 194/2019 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2019 pentru măsurile 10 \"Agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"„Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259741",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259741",
+     "sha256": "b88a3d41e29315a4b2026e5d77f762c63b8e7cf24b91c91a1ac883976d81f07a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-284-2022",
    "path": "ordin/agricultura/2022/284",
    "short": "Ordin agricultura nr. 284/2022",
@@ -288,6 +498,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-299-2022",
+   "path": "ordin/agricultura/2022/299",
+   "short": "Ordin agricultura nr. 299/2022",
+   "title": "Ordinul nr. 299/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 83/2018 pentru aprobarea Procedurii privind scoaterea definitivă sau temporară din circuitul agricol a terenurilor situate în extravilanul localităților, precum și pentru aprobarea Procedurii privind restituirea tarifului achitat la Fondul de ameliorare a fondului funciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260278",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260278",
+     "sha256": "8599a3a0fb2e123af6340a1e0ad406a01aa5a05869797810949779724f26ee8a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-300-2022",
    "path": "ordin/agricultura/2022/300",
    "short": "Ordin agricultura nr. 300/2022",
@@ -299,6 +524,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259876",
      "sha256": "cdce4cdf7a18ed0a37859857582ecb9504cbc7a1bb4f3a7d1cb51a48f4fdf80c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-301-2022",
+   "path": "ordin/agricultura/2022/301",
+   "short": "Ordin agricultura nr. 301/2022",
+   "title": "Ordinul nr. 301/2022 pentru modificarea articolului 1 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 284/2022 privind stabilirea cotei pentru decontarea cheltuielilor aferente consumului de energie electrică pentru irigații, realizat până la 30 iunie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259906",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259906",
+     "sha256": "779a94f1f42e012159fff7d11464651443061fbbb81ac2b09d79d58fb45edc68"
     }
    ]
   },
@@ -363,6 +603,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-326-2022",
+   "path": "ordin/agricultura/2022/326",
+   "short": "Ordin agricultura nr. 326/2022",
+   "title": "Ordinul nr. 326/2022 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 136/2020 pentru aprobarea sistemelor de sancțiuni aplicabile începând cu anul 2020 cererilor de plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat \"Sprijin pentru prima împădurire și crearea de suprafețe împădurite\", aferentă măsurii 08 \"Investiții în dezvoltarea zonelor împădurite și în îmbunătățirea viabilității pădurilor\", submăsura 8.1 \"Împăduriri și crearea de suprafețe împădurite\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260772",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260772",
+     "sha256": "5de7722b393afbfe886f2ba3b7369113e79f9b06149b812951465a01a568c53f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-33-2022",
+   "path": "ordin/agricultura/2022/33",
+   "short": "Ordin agricultura nr. 33/2022",
+   "title": "Ordinul nr. 33/2022 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 149/2010 privind comercializarea semințelor de cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252440",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252440",
+     "sha256": "50e978baca5f947742fe1c59f3101b7baf11f0c82e5013d6558343f1c24b77c9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-338-2022",
    "path": "ordin/agricultura/2022/338",
    "short": "Ordin agricultura nr. 338/2022",
@@ -378,6 +648,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-340-2022",
+   "path": "ordin/agricultura/2022/340",
+   "short": "Ordin agricultura nr. 340/2022",
+   "title": "Ordinul nr. 340/2022 pentru modificarea anexei nr. 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 296/2022 privind stabilirea indicatorilor pentru realizarea evaluării Programului pentru școli al României aferente perioadei 2017-2022 și a obligațiilor evaluatorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261450",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261450",
+     "sha256": "e2d9a4896ae5eceb8ac9d7670b14b874e9bb47f3467697bfc7346caa5f8b0f31"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-344-2022",
    "path": "ordin/agricultura/2022/344",
    "short": "Ordin agricultura nr. 344/2022",
@@ -389,6 +674,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262411",
      "sha256": "0f6d59582fbee26c13aa80f1c85cf55b6d621460f21659a20f3942d62cfbbf7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-360-2022",
+   "path": "ordin/agricultura/2022/360",
+   "short": "Ordin agricultura nr. 360/2022",
+   "title": "Ordinul nr. 360/2022 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 994/2016 privind actualizarea Băncii naționale de date analitice pentru fiecare an de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262862",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262862",
+     "sha256": "36190055180ef101b66429a7f5e802a5d9b873799b2921e3a0302be8a11f3c40"
     }
    ]
   },
@@ -423,6 +723,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-37-2022",
+   "path": "ordin/agricultura/2022/37",
+   "short": "Ordin agricultura nr. 37/2022",
+   "title": "Ordinul nr. 37/2022 privind abrogarea alin. (2) al art. 8 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 251/2017 pentru aprobarea Sistemului unitar de identificare a stupinelor și stupilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252450",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252450",
+     "sha256": "e42105b6b6df4d385d1616486a67e354506967346b78039f157e38d187a33607"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-379-2022",
    "path": "ordin/agricultura/2022/379",
    "short": "Ordin agricultura nr. 379/2022",
@@ -438,6 +753,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-38-2022",
+   "path": "ordin/agricultura/2022/38",
+   "short": "Ordin agricultura nr. 38/2022",
+   "title": "Ordinul nr. 38/2022 pentru completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.369/2018 privind caracteristicile tehnice, condițiile de folosire a uneltelor admise la pescuitul comercial și metodele de pescuit comercial în apele marine și continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251950",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251950",
+     "sha256": "aa8a61e9b96c910a87683c7717539a5c3ce6c63ecea374fc3c58db53c9ad4b03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-385-2022",
+   "path": "ordin/agricultura/2022/385",
+   "short": "Ordin agricultura nr. 385/2022",
+   "title": "Ordinul nr. 385/2022 pentru modificarea art. 1 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 368/2022 privind stabilirea cotei pentru decontarea cheltuielilor aferente consumului de energie electrică pentru irigații, realizat în perioada 1 iulie-30 octombrie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263210",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263210",
+     "sha256": "2e638b2ca94b0453e0daa6e3ac2ae84b56033de0e493610cf8192061aed3fabc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-396-2022",
    "path": "ordin/agricultura/2022/396",
    "short": "Ordin agricultura nr. 396/2022",
@@ -449,6 +794,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264566",
      "sha256": "d4924284bea80a136eccc47c6e698b0fb3b2f689f71e5a8f3f71196d8aaddbe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-41-2022",
+   "path": "ordin/agricultura/2022/41",
+   "short": "Ordin agricultura nr. 41/2022",
+   "title": "Ordinul nr. 41/2022 privind modificarea art. 1 alin. (3) din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 125/2017 pentru aprobarea Procedurii privind recepția studiilor pedologice și agrochimice care stau la baza întocmirii planului de fertilizare și a stabilirii măsurilor agropedoameliorative, necesare realizării amenajamentelor pastorale ale suprafețelor de pajiști permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252204",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252204",
+     "sha256": "b4421c081527e44b220fef31e77d21daa1817648e25cbd0455e06949a2bc3be3"
     }
    ]
   },
@@ -498,6 +858,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-53-2022",
+   "path": "ordin/agricultura/2022/53",
+   "short": "Ordin agricultura nr. 53/2022",
+   "title": "Ordinul nr. 53/2022 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 364/2016 pentru aprobarea Normelor privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252463",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252463",
+     "sha256": "3f738185b5ee72375ce71ee73f286fe1fb72a839ef1437366b8792a8fa9149da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-57-2022",
    "path": "ordin/agricultura/2022/57",
    "short": "Ordin agricultura nr. 57/2022",
@@ -513,6 +888,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-61-2022",
+   "path": "ordin/agricultura/2022/61",
+   "short": "Ordin agricultura nr. 61/2022",
+   "title": "Ordinul nr. 61/2022 privind modificarea anexei nr. 1 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 266/2017 pentru aprobarea Procedurilor de control și verificare în vederea autorizării plantațiilor producătoare de struguri destinați obținerii de vinuri cu denumire de origine controlată, indicație geografică sau varietale, autorizării producătorilor de vinuri cu denumire de origine controlată, indicație geografică sau varietale, certificării vinurilor cu denumire de origine controlată, indicație geografică și a vinurilor varietale și stabilirii însemnului de certificare a calității vinurilor cu denumire de origine controlată, indicație geografică și a vinurilor varietale îmbuteliate, precum și pentru aprobarea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu denumire de origine controlată, indicație geografică sau varietale și a cuantumului taxei de certificare a vinurilor cu denumire de origine controlată, indicație geografică sau varietale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252702",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252702",
+     "sha256": "593a52790b77a3caadf06d56011ea7a949a90712f5b37ead9443e4ccf1f8f665"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2022",
+   "path": "ordin/agricultura/2022/67",
+   "short": "Ordin agricultura nr. 67/2022",
+   "title": "Ordinul nr. 67/2022 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 310/2019 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253154",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253154",
+     "sha256": "b19449c30294bdaa24345688f88e421b90c0493e18b38850ddeee0676af0df99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-68-2022",
+   "path": "ordin/agricultura/2022/68",
+   "short": "Ordin agricultura nr. 68/2022",
+   "title": "Ordinul nr. 68/2022 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 857/2016 privind aprobarea schemei de ajutor de stat \"Sprijin pentru prima împădurire și crearea de suprafețe împădurite\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253202",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253202",
+     "sha256": "bb8ed8498e35d3b5a5cc8cf5aab2134a62fdb9735b0997bdd9c1fb6f434e069f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-69-2022",
+   "path": "ordin/agricultura/2022/69",
+   "short": "Ordin agricultura nr. 69/2022",
+   "title": "Ordinul nr. 69/2022 pentru modificarea art. 21 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253244",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253244",
+     "sha256": "aeddc6f8543f43dcf1790629cff585555e97f0b27d8cee622204e2557e42e456"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2022",
+   "path": "ordin/agricultura/2022/85",
+   "short": "Ordin agricultura nr. 85/2022",
+   "title": "Ordinul nr. 85/2022 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 137/2020 privind aprobarea sistemului de sancțiuni aplicabil începând cu anul 2020 pentru cererile de sprijin/plată depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", aferentă măsurii 15 \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", submăsura 15.1 \"Plăți pentru angajamente de silvomediu\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254341",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254341",
+     "sha256": "d5b00145a79bcd04b7f4fb392bd06508c486adecf3d78747db3bbf635cdd71d9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-86-2022",
    "path": "ordin/agricultura/2022/86",
    "short": "Ordin agricultura nr. 86/2022",
@@ -524,6 +974,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254432",
      "sha256": "e820eab7c41477b5bcabfd0c0fe3daf04080db906775a40436a3e59cd96b9e5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-97-2022",
+   "path": "ordin/agricultura/2022/97",
+   "short": "Ordin agricultura nr. 97/2022",
+   "title": "Ordinul nr. 97/2022 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 174/2021 privind aprobarea Procedurii de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative \"produs montan\"și de realizare a controlului în vederea verificării respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254401",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254401",
+     "sha256": "d1fb73dc62cbdef32eb7b5ef5bd2eeb67ae250679818b9901f9fa6ae72241b87"
     }
    ]
   },
@@ -3584,6 +4049,231 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256516",
      "sha256": "8ddb3183a0240cd3a95c943d2493b4a78f3ba90554220ae45e199a40d757b651"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-137-2022",
+   "path": "ordin/aparare/2022/137",
+   "short": "Ordin aparare nr. 137/2022",
+   "title": "Ordinul nr. 137/2022 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259352",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259352",
+     "sha256": "d6c90919a107b781ff89f17efdad9888f677cab79805497a3ca06a402aa85385"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-144-2022",
+   "path": "ordin/aparare/2022/144",
+   "short": "Ordin aparare nr. 144/2022",
+   "title": "Ordinul nr. 144/2022 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260262",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260262",
+     "sha256": "d36412609103a140e35de5a4753cdf56fc827cd60de899045b80ad043010d15b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-146-2022",
+   "path": "ordin/aparare/2022/146",
+   "short": "Ordin aparare nr. 146/2022",
+   "title": "Ordinul nr. 146/2022 privind conferirea Semnului onorific În Serviciul Patriei unui ofițer din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260264",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260264",
+     "sha256": "3096142ed3446f7b04cb2e4d054e014877b5d095b4fdfae08979db4346237177"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-147-2022",
+   "path": "ordin/aparare/2022/147",
+   "short": "Ordin aparare nr. 147/2022",
+   "title": "Ordinul nr. 147/2022 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260265",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260265",
+     "sha256": "2ba1a40dce681e07a256188453b0b98ac61327213b54094a4170332d9b7f959b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-149-2022",
+   "path": "ordin/aparare/2022/149",
+   "short": "Ordin aparare nr. 149/2022",
+   "title": "Ordinul nr. 149/2022 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260267",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260267",
+     "sha256": "d57eca4c82ad9cf5a1e0f4a701def7afbb91c9c3cd5c63f157a59df6ea507b51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-152-2022",
+   "path": "ordin/aparare/2022/152",
+   "short": "Ordin aparare nr. 152/2022",
+   "title": "Ordinul nr. 152/2022 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260270",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260270",
+     "sha256": "95a99f34f99bfa46ad07c6917e56f9b077bd98ac8ad9fb0651cc3fffce2ba7b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-155-2022",
+   "path": "ordin/aparare/2022/155",
+   "short": "Ordin aparare nr. 155/2022",
+   "title": "Ordinul nr. 155/2022 privind conferirea Semnului onorific În Serviciul Patriei unui preot militar din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260273",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260273",
+     "sha256": "b51850380939d79f765a16c675ef6f92eac44c7e1ac58aa60634f584f6a09ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-163-2022",
+   "path": "ordin/aparare/2022/163",
+   "short": "Ordin aparare nr. 163/2022",
+   "title": "Ordinul nr. 163/2022 pentru aprobarea Normelor privind certificarea aerodromurilor pe care se desfășoară activități aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260554",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260554",
+     "sha256": "3217aa21a757ac54b847cb67e89273f364e2f7d8804ca6b147c4bc5e1b8b5eaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-20-2022",
+   "path": "ordin/aparare/2022/20",
+   "short": "Ordin aparare nr. 20/2022",
+   "title": "Ordinul nr. 20/2022 pentru aprobarea Regulamentului serviciului interior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251814",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251814",
+     "sha256": "fda3a3f6fca95110e24fc8f980d3809e66803ed69d555f05ac17c4ff656e6ef4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-24-2022",
+   "path": "ordin/aparare/2022/24",
+   "short": "Ordin aparare nr. 24/2022",
+   "title": "Ordinul nr. 24/2022 pentru aprobarea Regulamentului serviciului la bordul navelor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251595",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251595",
+     "sha256": "8ed9e7e8016877d4c5bdbfaf4731fd0b1baf2aaf2f2b1f16099b3616749cfad7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-25-2022",
+   "path": "ordin/aparare/2022/25",
+   "short": "Ordin aparare nr. 25/2022",
+   "title": "Ordinul nr. 25/2022 privind înființarea, organizarea și funcționarea Consiliului de mediere al personalului militar în rezervă și în retragere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251628",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251628",
+     "sha256": "027295bc12ee15b1ce6b5031901a553f19b0ee11bbc7dcd9455677ce51fc7860"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-73-2022",
+   "path": "ordin/aparare/2022/73",
+   "short": "Ordin aparare nr. 73/2022",
+   "title": "Ordinul nr. 73/2022 ORDIN nr. S.M.Ap./S-73 din 6 septembrie 2022 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259346",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259346",
+     "sha256": "bc313d2cc5ea73220438b11a88974a0ac8267603dc0934a834852cfd526cf66a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-81-2022",
+   "path": "ordin/aparare/2022/81",
+   "short": "Ordin aparare nr. 81/2022",
+   "title": "Ordinul nr. 81/2022 privind modalitatea de organizare și desfășurare a examenului pentru ocuparea posturilor, pe perioadă nedeterminată, pentru personalul care, în perioada stării de alertă sau a situațiilor de risc epidemiologic, a ocupat fără concurs posturi de execuție, pe perioadă determinată, în unități ale Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255622",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255622",
+     "sha256": "f1d2b57f45311538b6d6ef9ba6b86a5f4a40eb6f6d5866f3fbf9e34d7c4041e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-84-2022",
+   "path": "ordin/aparare/2022/84",
+   "short": "Ordin aparare nr. 84/2022",
+   "title": "Ordinul nr. 84/2022 pentru aprobarea Instrucțiunilor privind siguranța activităților aeronautice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255893",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255893",
+     "sha256": "f1814a736b82c23d9813343e6e71e5620f40712a1e0cba13daf525fa0a2d3068"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-88-2022",
+   "path": "ordin/aparare/2022/88",
+   "short": "Ordin aparare nr. 88/2022",
+   "title": "Ordinul nr. 88/2022 pentru transformarea funcțiilor civile de medic din structurile rețelei sanitare a Ministerului Apărării Naționale în funcții militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256528",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256528",
+     "sha256": "ee92c92c9d012d13c7d03334464e6ca5cd6f44663d442092a59db93d7410c3ea"
     }
    ]
   },

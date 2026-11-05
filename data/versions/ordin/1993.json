@@ -3,6 +3,36 @@
  "shard": "ordin/1993",
  "acts": [
   {
+   "slug": "ordin-agricultura-23-1993",
+   "path": "ordin/agricultura/1993/23",
+   "short": "Ordin agricultura nr. 23/1993",
+   "title": "Ordinul nr. 23/1993 privind prohibiția pescuitului în anul 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3077",
+   "versions": [
+    {
+     "from": "1993-04-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3077",
+     "sha256": "d56e9c67351e91f11ee63868936c37ad00bbc4a3472570e73b2db9ea2aec8e6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-48-1993",
+   "path": "ordin/agricultura/1993/48",
+   "short": "Ordin agricultura nr. 48/1993",
+   "title": "Ordinul nr. 48/1993 privind Lista oficială a soiurilor (hibrizilor) de plante de cultură din România pentru anul 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3174",
+   "versions": [
+    {
+     "from": "1993-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3174",
+     "sha256": "27a11ab854b6fd29d358e9f498e15cd688f82b36a502adfbd39bd1a160d7644a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-469-1993",
    "path": "ordin/bnr/1993/469",
    "short": "Ordin bnr nr. 469/1993",

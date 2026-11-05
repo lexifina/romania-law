@@ -3,6 +3,66 @@
  "shard": "ordin/2013",
  "acts": [
   {
+   "slug": "ordin-agricultura-1002-2013",
+   "path": "ordin/agricultura/2013/1002",
+   "short": "Ordin agricultura nr. 1002/2013",
+   "title": "Ordinul nr. 1.002/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 694/2008 privind condițiile de recunoaștere a organizațiilor de producători și a grupurilor de producători recunoscute preliminar în sectorul fructe și legume, precum și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151905",
+   "versions": [
+    {
+     "from": "2013-10-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151905",
+     "sha256": "bbedc7353bd3e951baeadf0df42cd2e53d91dcb90ac3cc1be44ce7e904ad4a30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1053-2013",
+   "path": "ordin/agricultura/2013/1053",
+   "short": "Ordin agricultura nr. 1053/2013",
+   "title": "Ordinul nr. 1.053/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 124/2011 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2011-2014, \"Agricultură și Dezvoltare Rurală - Orizont PAC 2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151766",
+   "versions": [
+    {
+     "from": "2013-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151766",
+     "sha256": "75ead6304742bc241fcc5cc466f6560d8ecaaee031c508fc7feb915e8b7b42d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1075-2013",
+   "path": "ordin/agricultura/2013/1075",
+   "short": "Ordin agricultura nr. 1075/2013",
+   "title": "Ordinul nr. 1.075/2013 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 756/2008 privind aprobarea Normelor metodologice de acordare a sprijinului financiar producătorilor din sectorul vitivinicol pentru asigurarea recoltei de struguri pentru vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151921",
+   "versions": [
+    {
+     "from": "2013-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151921",
+     "sha256": "82df8b6d8eef67f4cfd78a92de28356b6e54487245e2c9143c9f182597b062c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1122-2013",
+   "path": "ordin/agricultura/2013/1122",
+   "short": "Ordin agricultura nr. 1122/2013",
+   "title": "Ordinul nr. 1.122/2013 pentru modificarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, derulate cu sprijin comunitar pentru campaniile 2008/2009-2013/2014, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 247/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152006",
+   "versions": [
+    {
+     "from": "2013-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152006",
+     "sha256": "1b6c85a75ca7ab752a40c844b39bfcdc7a99d03245fcb6ababbc5f97baed42c0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1125-2013",
    "path": "ordin/agricultura/2013/1125",
    "short": "Ordin agricultura nr. 1125/2013",
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-122-2013",
+   "path": "ordin/agricultura/2013/122",
+   "short": "Ordin agricultura nr. 122/2013",
+   "title": "Ordinul nr. 122/2013 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 149/2005 pentru aprobarea Listei cuprinzând agențiile autorizate de clasificare a carcaselor de porcine, bovine și ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146341",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146341",
+     "sha256": "90ed68a643f8fdeae6bfc3a93027d5e83a99b367ba614ae97172e7ef233e06ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1229-2013",
    "path": "ordin/agricultura/2013/1229",
    "short": "Ordin agricultura nr. 1229/2013",
@@ -138,6 +213,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1316-2013",
+   "path": "ordin/agricultura/2013/1316",
+   "short": "Ordin agricultura nr. 1316/2013",
+   "title": "Ordinul nr. 1.316/2013 privind modificarea anexei la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 397/2003 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152937",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152937",
+     "sha256": "07a2466af41a65dd796fe8117dc125aa23fd2223e1a6ed4330cf1e1129b7cb19"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1337-2013",
    "path": "ordin/agricultura/2013/1337",
    "short": "Ordin agricultura nr. 1337/2013",
@@ -153,6 +243,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1348-2013",
+   "path": "ordin/agricultura/2013/1348",
+   "short": "Ordin agricultura nr. 1348/2013",
+   "title": "Ordinul nr. 1.348/2013 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153356",
+   "versions": [
+    {
+     "from": "2013-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153356",
+     "sha256": "86f9157c5ddfecddf600806c2451e9f68ae8f54cace91a2a72f195c76e5f59bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1357-2013",
+   "path": "ordin/agricultura/2013/1357",
+   "short": "Ordin agricultura nr. 1357/2013",
+   "title": "Ordinul nr. 1.357/2013 pentru modificarea art. 21 din Schema de ajutor de minimis \"Sprijinirea activităților economice în vederea diversificării economiei rurale și a creșterii calității vieții în spațiul rural\", aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 567/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153162",
+   "versions": [
+    {
+     "from": "2013-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153162",
+     "sha256": "a2d844ce5c7be69821c0a837c43d4b7cdbb60a82a46cd6155c8c69bae0d51fb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1391-2013",
+   "path": "ordin/agricultura/2013/1391",
+   "short": "Ordin agricultura nr. 1391/2013",
+   "title": "Ordinul nr. 1.391/2013 pentru modificarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.229/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153460",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153460",
+     "sha256": "f33ff6525774b7d596fa4ddab74d276ded90b1e4f60e718e311884f56475d858"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1412-2013",
    "path": "ordin/agricultura/2013/1412",
    "short": "Ordin agricultura nr. 1412/2013",
@@ -164,6 +299,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153609",
      "sha256": "e8c560d9fbb3d71e162c8382ce67decd3691d3c32b61ca26d800f0019345b02c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1415-2013",
+   "path": "ordin/agricultura/2013/1415",
+   "short": "Ordin agricultura nr. 1415/2013",
+   "title": "Ordinul nr. 1.415/2013 pentru prorogarea termenului prevăzut la art. 23 din Schema de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții pentru procesarea produselor agricole și forestiere în vederea obținerii de produse neagricole\", aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 12/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153710",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153710",
+     "sha256": "bfc891186fcf38fdc7269f840a4c396970828efe4b7f0e0eedcb7a657e5f3da1"
     }
    ]
   },
@@ -198,6 +348,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1493-2013",
+   "path": "ordin/agricultura/2013/1493",
+   "short": "Ordin agricultura nr. 1493/2013",
+   "title": "Ordinul nr. 1.493/2013 pentru modificarea și completarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.229/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154188",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154188",
+     "sha256": "07c2e5f24c49b22f3f753faf1856332b92a2220d94371f7c51b1a97cc2034439"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1501-2013",
    "path": "ordin/agricultura/2013/1501",
    "short": "Ordin agricultura nr. 1501/2013",
@@ -224,6 +389,51 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154433",
      "sha256": "aa51da3c845d54134963ef1cd796c72006bc47d5f761853536a917b6d4a3599a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1521-2013",
+   "path": "ordin/agricultura/2013/1521",
+   "short": "Ordin agricultura nr. 1521/2013",
+   "title": "Ordinul nr. 1.521/2013 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 155/2010 privind producerea în vederea comercializării și comercializarea semințelor de plante furajere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154272",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154272",
+     "sha256": "312a08ba4b964fba8f24d527f3d16d3f1703b932f2244c48f7648c1913df5595"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1522-2013",
+   "path": "ordin/agricultura/2013/1522",
+   "short": "Ordin agricultura nr. 1522/2013",
+   "title": "Ordinul nr. 1.522/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 149/2010 privind comercializarea semințelor de cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154273",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154273",
+     "sha256": "4c1e801c8fa653e055e30c8391019f0caa88c5c9bb7448b0018fdcca5c750b51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-165-2013",
+   "path": "ordin/agricultura/2013/165",
+   "short": "Ordin agricultura nr. 165/2013",
+   "title": "Ordinul nr. 165/2013 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 98/2010 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic la speciile ovine/caprine, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146517",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146517",
+     "sha256": "af38e34cd1f9f111d63db67ebc914ebef8dde10ff216587adb6d701a904c5f9f"
     }
    ]
   },
@@ -273,6 +483,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-207-2013",
+   "path": "ordin/agricultura/2013/207",
+   "short": "Ordin agricultura nr. 207/2013",
+   "title": "Ordinul nr. 207/2013 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 143/2010 privind componența și funcționarea Comitetului pentru Organizațiile Interprofesionale pentru Produsele Agroalimentare, precum și procedurile de recunoaștere, monitorizare și control, retragere a recunoașterii, extindere a acordurilor interprofesionale și delegare de atribuții pentru organizațiile interprofesionale pentru produsele agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146943",
+   "versions": [
+    {
+     "from": "2013-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146943",
+     "sha256": "4e97322719334b44cc8a848ed78ace4db1fd0b291c67b854198b155b22110593"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-24-2013",
+   "path": "ordin/agricultura/2013/24",
+   "short": "Ordin agricultura nr. 24/2013",
+   "title": "Ordinul nr. 24/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 165/2012 privind stabilirea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu indicație geografică, a cuantumului taxei pentru atestarea dreptului de utilizare a indicației geografice pentru comercializarea vinurilor cu indicație geografică și aprobarea introducerii însemnului de certificare a calității vinurilor cu indicație geografică îmbuteliate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146048",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146048",
+     "sha256": "a498d2bf94fcd42ba3a6cf50579cb16415d8489677a2537201d0aa2bf6ff0709"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-25-2013",
    "path": "ordin/agricultura/2013/25",
    "short": "Ordin agricultura nr. 25/2013",
@@ -288,6 +528,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-27-2013",
+   "path": "ordin/agricultura/2013/27",
+   "short": "Ordin agricultura nr. 27/2013",
+   "title": "Ordinul nr. 27/2013 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 163/2012 privind aprobarea Normelor tehnice pentru producerea vinurilor cu indicație geografică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145766",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145766",
+     "sha256": "fd32fbabfc05e45b081e72f84ba806ebef57c517fb64465778d00bb589d63e48"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-289-2013",
    "path": "ordin/agricultura/2013/289",
    "short": "Ordin agricultura nr. 289/2013",
@@ -299,6 +554,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148573",
      "sha256": "288cc2f9942d314edce74a6ba98a46e0feeb934bd9f32dbe785b11cd648bb8f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-30-2013",
+   "path": "ordin/agricultura/2013/30",
+   "short": "Ordin agricultura nr. 30/2013",
+   "title": "Ordinul nr. 30/2013 pentru modificarea Normelor metodologice privind calculul și plata tarifelor pentru serviciile de îmbunătățiri funciare, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 120/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145941",
+   "versions": [
+    {
+     "from": "2013-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145941",
+     "sha256": "b2b614db6c05a6ccd72dc8568b1e79e12365b94e85c4db5c8b7bfa609246ce9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-31-2013",
+   "path": "ordin/agricultura/2013/31",
+   "short": "Ordin agricultura nr. 31/2013",
+   "title": "Ordinul nr. 31/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 246/2008 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți directe și plăți naționale directe complementare în sectorul vegetal, pentru acordarea sprijinului aferent măsurilor de agromediu și zone defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145759",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145759",
+     "sha256": "4fa35bbe5769915b24cf0ab8fc30cca291fb1867cf3ab8263ef9603a500483d1"
     }
    ]
   },
@@ -378,6 +663,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-378-2013",
+   "path": "ordin/agricultura/2013/378",
+   "short": "Ordin agricultura nr. 378/2013",
+   "title": "Ordinul nr. 378/2013 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 219/2007 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148435",
+   "versions": [
+    {
+     "from": "2013-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148435",
+     "sha256": "2b92b26623fd8a71ac794eddc988e2c82a2f8ebae9abc8994bb1748aa0fd9127"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-383-2013",
+   "path": "ordin/agricultura/2013/383",
+   "short": "Ordin agricultura nr. 383/2013",
+   "title": "Ordinul nr. 383/2013 privind modificarea anexei nr. 8 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 181/2012 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148436",
+   "versions": [
+    {
+     "from": "2013-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148436",
+     "sha256": "3ffdad697dd7976756e4053270bcf96448a412e1e80d5fa709998d027afac9aa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-393-2013",
    "path": "ordin/agricultura/2013/393",
    "short": "Ordin agricultura nr. 393/2013",
@@ -404,6 +719,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148740",
      "sha256": "11e5460d0812e224def0bb2698e2285471a77f9e04b04130d9c92c364ca8d3e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-471-2013",
+   "path": "ordin/agricultura/2013/471",
+   "short": "Ordin agricultura nr. 471/2013",
+   "title": "Ordinul nr. 471/2013 pentru completarea Listei cu rasele de taurine de carne, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 168/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148953",
+   "versions": [
+    {
+     "from": "2013-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148953",
+     "sha256": "fde1c778b9ac08c5ceeb24c6b4955081992efa0bd77107d9dcfce709dbf62626"
     }
    ]
   },
@@ -453,6 +783,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-583-2013",
+   "path": "ordin/agricultura/2013/583",
+   "short": "Ordin agricultura nr. 583/2013",
+   "title": "Ordinul nr. 583/2013 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 119/2011 pentru aprobarea Sistemului unitar de identificare a stupinelor și stupilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149539",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149539",
+     "sha256": "98c4a1d67225fec2cfaf81b6c074121641227d811c4a708e3e7f8b089d0d26db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-6-2013",
    "path": "ordin/agricultura/2013/6",
    "short": "Ordin agricultura nr. 6/2013",
@@ -479,6 +824,66 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148880",
      "sha256": "880cec5ce234c3510b6c96de0ccedf73becf92c6e64bb1a413e04e8384766250"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-605-2013",
+   "path": "ordin/agricultura/2013/605",
+   "short": "Ordin agricultura nr. 605/2013",
+   "title": "Ordinul nr. 605/2013 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 340/2013 pentru aprobarea procedurilor de autorizare a operatorilor economici care desfășoară activități și servicii în domeniul însămânțărilor artificiale la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149619",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149619",
+     "sha256": "e176cf62e3a35c62424d3b252eac26c09cbef3e083e2d80994f61cb1e43ea607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-62-2013",
+   "path": "ordin/agricultura/2013/62",
+   "short": "Ordin agricultura nr. 62/2013",
+   "title": "Ordinul nr. 62/2013 pentru modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 83/2009 privind stabilirea condițiilor de acordare a cotei individuale de lapte din rezerva națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146006",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146006",
+     "sha256": "34396c8e3ffcb6f9cd3e23e6a6c126f158ec8a90f00cc361b832a58224c234d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-63-2013",
+   "path": "ordin/agricultura/2013/63",
+   "short": "Ordin agricultura nr. 63/2013",
+   "title": "Ordinul nr. 63/2013 pentru modificarea anexei nr. 1 \"Condiții de aprobare a cumpărătorilor de lapte de vacă\" la Ordinul ministrului agriculturii și dezvoltării rurale nr. 695/2008 privind stabilirea Condițiilor de aprobare a cumpărătorilor de lapte de vacă și a formularului de cerere pentru aprobarea și înscrierea acestora în Registrul cumpărătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146007",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146007",
+     "sha256": "e3af2fa909562b554d75ab0b01c5bc6516f5b628d8869a5033da29ea3845f606"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-647-2013",
+   "path": "ordin/agricultura/2013/647",
+   "short": "Ordin agricultura nr. 647/2013",
+   "title": "Ordinul nr. 647/2013 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149794",
+   "versions": [
+    {
+     "from": "2013-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149794",
+     "sha256": "1fd7698033fa59fd5f2281be3d4d900a2e3119bda27eaf85f82fe4751ba0ff30"
     }
    ]
   },
@@ -543,6 +948,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-730-2013",
+   "path": "ordin/agricultura/2013/730",
+   "short": "Ordin agricultura nr. 730/2013",
+   "title": "Ordinul nr. 730/2013 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 165/2012 privind stabilirea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu indicație geografică, a cuantumului taxei pentru atestarea dreptului de utilizare a indicației geografice pentru comercializarea vinurilor cu indicație geografică și aprobarea introducerii însemnului de certificare a calității vinurilor cu indicație geografică îmbuteliate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150339",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150339",
+     "sha256": "799762ffcfc55c9513856a74d4997ed13ab0edaaa62aa498a38444215af44b36"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-732-2013",
    "path": "ordin/agricultura/2013/732",
    "short": "Ordin agricultura nr. 732/2013",
@@ -584,6 +1004,21 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150881",
      "sha256": "8bd4154537f79f2224b00bb30c118fb23c9283188cd11efd0715fd3e477e1772"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-784-2013",
+   "path": "ordin/agricultura/2013/784",
+   "short": "Ordin agricultura nr. 784/2013",
+   "title": "Ordinul nr. 784/2013 pentru aprobarea modelului cererii de plată privind măsura 215 - pachet a) - Plăți în favoarea bunăstării porcinelor pentru sesiunile 1 și 2 și pentru completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 239/2012 privind aprobarea modelului Cererii de ajutor privind măsura 215 - Plăți privind bunăstarea animalelor - pachetul b) - păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150648",
+   "versions": [
+    {
+     "from": "2013-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150648",
+     "sha256": "1935f1d990a19ff1f5b280c599111fe0c96ac716ce89828716ab083716c5471d"
     }
    ]
   },
@@ -633,6 +1068,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-860-2013",
+   "path": "ordin/agricultura/2013/860",
+   "short": "Ordin agricultura nr. 860/2013",
+   "title": "Ordinul nr. 860/2013 pentru modificarea art. 46 alin. (2) lit. a), c), d) și e) din Regulamentul privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 34/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151153",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151153",
+     "sha256": "0e3f60c1e8a284cf02f06c2424acf7a7625f271c3292c6179816a044139dadff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-864-2013",
+   "path": "ordin/agricultura/2013/864",
+   "short": "Ordin agricultura nr. 864/2013",
+   "title": "Ordinul nr. 864/2013 pentru modificarea anexei nr. 1 la Procedura de emitere a certificatului de origine pentru biomasa provenită din agricultură și industriile conexe, utilizată drept combustibil sau materie primă pentru producția de energie electrică, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 46/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151126",
+   "versions": [
+    {
+     "from": "2013-09-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151126",
+     "sha256": "208b8e8665f0d8e675c7bd08f45a59dbae459fe721a7659083323339e6ae9ab5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-89-2013",
    "path": "ordin/agricultura/2013/89",
    "short": "Ordin agricultura nr. 89/2013",
@@ -644,6 +1109,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146147",
      "sha256": "09a8fb549b1c00c653b10c68b096e081660aaf6cb33e502fff6e308d009795f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-891-2013",
+   "path": "ordin/agricultura/2013/891",
+   "short": "Ordin agricultura nr. 891/2013",
+   "title": "Ordinul nr. 891/2013 privind modificarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.348/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de plante agricole și a Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.349/2005 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151652",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151652",
+     "sha256": "51f9506d51b7ad7b9ce0024a439600963e219d450b472f9525b5f1bcc8433ae5"
     }
    ]
   },
@@ -663,6 +1143,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-918-2013",
+   "path": "ordin/agricultura/2013/918",
+   "short": "Ordin agricultura nr. 918/2013",
+   "title": "Ordinul nr. 918/2013 privind completarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 848/2004 pentru aprobarea Listei cu clasificatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151423",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151423",
+     "sha256": "001f427f02d01e93d234a20688e6ad6611e57f8a579bdf3cdbf02435d5b1829e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-920-2013",
    "path": "ordin/agricultura/2013/920",
    "short": "Ordin agricultura nr. 920/2013",
@@ -674,6 +1169,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151387",
      "sha256": "afa6f634c319247557800ac2367178f357fb612d3919cffe0b1bd7d98caa8373"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-922-2013",
+   "path": "ordin/agricultura/2013/922",
+   "short": "Ordin agricultura nr. 922/2013",
+   "title": "Ordinul nr. 922/2013 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 340/2013 pentru aprobarea procedurilor de autorizare a operatorilor economici care desfășoară activități și servicii în domeniul însămânțărilor artificiale la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151421",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151421",
+     "sha256": "3960d091d0f408a9cf2b2fbed32bcc46256511c59b32d0f5818ea575c4fd01a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-949-2013",
+   "path": "ordin/agricultura/2013/949",
+   "short": "Ordin agricultura nr. 949/2013",
+   "title": "Ordinul nr. 949/2013 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 247/2008 privind aprobarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, derulate cu sprijin comunitar pentru campaniile 2008/2009-2013/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151489",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151489",
+     "sha256": "7ef70f971d9d2055ce06d242f8160ec2fdd1e4ad0d0b088bf1e93256146004b6"
     }
    ]
   },
@@ -3419,6 +3944,366 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145136",
      "sha256": "e3572f033a1e6b07b1e717bcd97fa0e4ef6175cb4d4408df70f75a9349e3c356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-10-2013",
+   "path": "ordin/aparare/2013/10",
+   "short": "Ordin aparare nr. 10/2013",
+   "title": "Ordinul nr. 10/2013 privind aprobarea Procedurii de decontare a cheltuielilor de transport pentru rezerviștii chemați la exercițiile și antrenamentele de mobilizare, la mobilizare sau la război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145692",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145692",
+     "sha256": "eca4a1f8e5c4637588dd87ba1ce0fd6a076eb761d169e26c5f3ec5d7451e4dd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-108-2013",
+   "path": "ordin/aparare/2013/108",
+   "short": "Ordin aparare nr. 108/2013",
+   "title": "Ordinul nr. 108/2013 pentru aprobarea Normelor metodologice privind acordarea exceptărilor prevăzute la art. 2 alin. (3) din Regulamentul (CE) nr. 1.907/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), de înființare a Agenției Europene pentru Produse Chimice, de modificare a Directivei 1999/45/CE și de abrogare a Regulamentului (CEE) nr. 793/93 al Consiliului și a Regulamentului (CE) nr. 1.488/94 al Comisiei, precum și a Directivei 76/769/CEE a Consiliului și a Directivelor 91/155/CEE, 93/67/CEE, 93/105/CE și 2000/21/CE ale Comisiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152400",
+   "versions": [
+    {
+     "from": "2013-11-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152400",
+     "sha256": "89967a9bf2d9b0bf34ee0566aaafb10a3c19e0ad0f781fdbc189e4aea6370a94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-115-2013",
+   "path": "ordin/aparare/2013/115",
+   "short": "Ordin aparare nr. 115/2013",
+   "title": "Ordinul nr. 115/2013 pentru aprobarea Regulamentului de organizare și funcționare al Clubului Sportiv al Armatei \"Steaua\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153264",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153264",
+     "sha256": "e05fd96ceef0122d99d027a9d1e7019d4a63dd3cb703906eb14a32698801f04e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-116-2013",
+   "path": "ordin/aparare/2013/116",
+   "short": "Ordin aparare nr. 116/2013",
+   "title": "Ordinul nr. 116/2013 pentru aprobarea Instrucțiunilor de aplicare a prevederilor Hotărârii Guvernului nr. 466/1999 privind înființarea Departamentului Regional de Studii pentru Managementul Resurselor de Apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153266",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153266",
+     "sha256": "a1d5def875012c7364a3ac7a4553d625eb971a875ddd61b391b261e0bce06acf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-117-2013",
+   "path": "ordin/aparare/2013/117",
+   "short": "Ordin aparare nr. 117/2013",
+   "title": "Ordinul nr. 117/2013 privind competențele de aprobare a documentațiilor tehnico-economice ale obiectivelor de investiții imobiliare în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153272",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153272",
+     "sha256": "3025e25360d9da8774c8a28785a9933caae815f152c21c376d7f349e4b100978"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-119-2013",
+   "path": "ordin/aparare/2013/119",
+   "short": "Ordin aparare nr. 119/2013",
+   "title": "Ordinul nr. 119/2013 privind clasificarea, amenajarea, organizarea și omologarea poligoanelor în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153358",
+   "versions": [
+    {
+     "from": "2013-12-06",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153358",
+     "sha256": "6bd4bd32e0949b5e54b268b832f6a6f8524b364f8da648f229fb638a377612e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-122-2013",
+   "path": "ordin/aparare/2013/122",
+   "short": "Ordin aparare nr. 122/2013",
+   "title": "Ordinul nr. 122/2013 pentru aprobarea Normelor metodologice privind elaborarea bugetelor de venituri și cheltuieli ale unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153788",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153788",
+     "sha256": "f8826109c2cdb7676ed61ea34118ea959b295dad6434505149f4835ca3b9029d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-13-2013",
+   "path": "ordin/aparare/2013/13",
+   "short": "Ordin aparare nr. 13/2013",
+   "title": "Ordinul nr. 13/2013 pentru aprobarea P.M.-1, Regulamentul structurilor de poliție militară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235579",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235579",
+     "sha256": "fe4b9d1d1b0f7280390418486118bc5ae6d0d72da856658a9162b8e810509cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-14-2013",
+   "path": "ordin/aparare/2013/14",
+   "short": "Ordin aparare nr. 14/2013",
+   "title": "Ordinul nr. 14/2013 privind aprobarea Criteriilor specifice de performanță pentru evaluarea anuală sau ori de câte ori este nevoie a comandanților unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale, în baza cărora contractul de management poate fi prelungit sau poate înceta înainte de termen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145726",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145726",
+     "sha256": "faa842c52f0a26e9affee639cdb897e7349c5d92e488179e5bfdcf3b11c17d17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-15-2013",
+   "path": "ordin/aparare/2013/15",
+   "short": "Ordin aparare nr. 15/2013",
+   "title": "Ordinul nr. 15/2013 pentru aprobarea P.M.-3, Instrucțiuni pentru gestionarea evenimentelor în Armata României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219082",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219082",
+     "sha256": "455009160c3792709cd716976b99f3b3d184d3d301b7bfc372548e8f47efccbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-49-2013",
+   "path": "ordin/aparare/2013/49",
+   "short": "Ordin aparare nr. 49/2013",
+   "title": "Ordinul nr. 49/2013 pentru stabilirea coordonatelor poziției punctului de referință prevăzut la art. 2 lit. b) din Legea nr. 73/2013 privind instituirea unor măsuri speciale pentru protecția obiectivelor militare care fac parte din Sistemul de apărare împotriva rachetelor balistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148679",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148679",
+     "sha256": "4d7f73ae8817f10208fedd681b75699a57720020fc61a454ad89d8a18c7b329a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-58-2013",
+   "path": "ordin/aparare/2013/58",
+   "short": "Ordin aparare nr. 58/2013",
+   "title": "Ordinul nr. 58/2013 pentru aprobarea Instrucțiunilor privind corpul instructorilor militari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148632",
+   "versions": [
+    {
+     "from": "2013-06-04",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148632",
+     "sha256": "e41a9dabd62cca9d67a51f01908b741319eed9348ea0df0911c441cc08f05639"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-59-2013",
+   "path": "ordin/aparare/2013/59",
+   "short": "Ordin aparare nr. 59/2013",
+   "title": "Ordinul nr. 59/2013 pentru aprobarea Fi.-11/1, Instrucțiuni privind scăderea pierderilor din rebuturi și stabilirea scăzămintelor procentuale determinate de perisabilități, transport, depozitare, conservare, manipulare și transformare a bunurilor, precum și a modului în care se aplică scăzămintele în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236039",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236039",
+     "sha256": "4c45a378463f5c36df6cb9654fa8366c3e0bef5f79bde9c7f15d5d8ae7cf9fe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-63-2013",
+   "path": "ordin/aparare/2013/63",
+   "short": "Ordin aparare nr. 63/2013",
+   "title": "Ordinul nr. 63/2013 pentru aprobarea Regulamentului onorurilor și ceremoniilor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149378",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149378",
+     "sha256": "61ea5c1d013d2a3ab3b23441861594a7760ba58ce20b32ab54d55c42cc40c03f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-68-2013",
+   "path": "ordin/aparare/2013/68",
+   "short": "Ordin aparare nr. 68/2013",
+   "title": "Ordinul nr. 68/2013 privind aprobarea Criteriilor specifice de performanță pentru evaluarea anuală sau ori de câte ori este nevoie a activității comandanților unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale, în baza cărora contractul de management poate fi prelungit sau poate înceta înainte de termen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149649",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149649",
+     "sha256": "e1bf80ea2ab7f53617497931832e35f7da294fcc34e4659ffe84b51c8907d8a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-79-2013",
+   "path": "ordin/aparare/2013/79",
+   "short": "Ordin aparare nr. 79/2013",
+   "title": "Ordinul nr. 79/2013 pentru aprobarea Instrucțiunilor privind realizarea, recepționarea și stabilirea valorii definitive a lucrărilor de construcții și instalații aferente acestora, executate în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151152",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151152",
+     "sha256": "c05dde5ea352d87d633774e444b269c357625ac53b2d29bbb26932e952ff31ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-8-2013",
+   "path": "ordin/aparare/2013/8",
+   "short": "Ordin aparare nr. 8/2013",
+   "title": "Ordinul nr. 8/2013 pentru aprobarea Metodologiei privind evaluarea stării de sănătate și stabilirea aptitudinii medico-militare a personalului participant la misiuni și operații în afara teritoriului statului român și a baremului medical aferent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145748",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145748",
+     "sha256": "c2dd817f91f03efe4ea0a3b906cdd442ad485d1f8587e24467f5c14b3c1459fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-83-2013",
+   "path": "ordin/aparare/2013/83",
+   "short": "Ordin aparare nr. 83/2013",
+   "title": "Ordinul nr. 83/2013 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151291",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151291",
+     "sha256": "d9d25f444d77638129bda214ee20ae938dcb5c319fc99a457331e192db104e80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-84-2013",
+   "path": "ordin/aparare/2013/84",
+   "short": "Ordin aparare nr. 84/2013",
+   "title": "Ordinul nr. 84/2013 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151292",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151292",
+     "sha256": "53ff1f868d9617573affdb79d03fa5c0a8bda1d7abb0e2c38f93ccff1ddd9f59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-87-2013",
+   "path": "ordin/aparare/2013/87",
+   "short": "Ordin aparare nr. 87/2013",
+   "title": "Ordinul nr. 87/2013 pentru aprobarea Normelor privind managementul sistemului de formare continuă în domeniul limbilor străine în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151294",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151294",
+     "sha256": "a88b9695ae078b5e3db3a2b263ba0a918650fb30f82bc2ab4ecf31a96aedf13a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-89-2013",
+   "path": "ordin/aparare/2013/89",
+   "short": "Ordin aparare nr. 89/2013",
+   "title": "Ordinul nr. 89/2013 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151269",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151269",
+     "sha256": "e6a179b9363006d054e4813ea360ef77533ebf2f8160aef8311f2fd0f0b79016"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-9-2013",
+   "path": "ordin/aparare/2013/9",
+   "short": "Ordin aparare nr. 9/2013",
+   "title": "Ordinul nr. 9/2013 pentru aprobarea Normelor privind protecția informațiilor clasificate în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145817",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145817",
+     "sha256": "7bf0656eb86abba01832916d7bdc7bc6b5b654545f9f20e3ceb77d35a9044603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-90-2013",
+   "path": "ordin/aparare/2013/90",
+   "short": "Ordin aparare nr. 90/2013",
+   "title": "Ordinul nr. 90/2013 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151270",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151270",
+     "sha256": "31af96d7f7f746206d8bfa4e199751379f52bb89e8f97c663e2f36a59b67521d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-92-2013",
+   "path": "ordin/aparare/2013/92",
+   "short": "Ordin aparare nr. 92/2013",
+   "title": "Ordinul nr. 92/2013 pentru aprobarea Instrucțiunilor privind scoaterea din funcțiune și casarea activelor fixe, precum și declasarea și casarea bunurilor materiale, altele decât activele fixe, în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151635",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151635",
+     "sha256": "5c05c5a2da3daeb6d07ed363231066fe060cfdf22234ea5a89ee1b1a1b2b3a77"
     }
    ]
   },
