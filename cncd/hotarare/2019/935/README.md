@@ -1,0 +1,15 @@
+# Hotărârea CNCD nr. 935/2019: Petenta, reclamă faptul că angajatorul o discriminează pe criteriul vârstei, refuzând să îi prelungească contractul de muncă după împlinirea vârstei standard de pensionare.
+
+Hotărârea CNCD nr. 935/2019 · 1 versions, from 2019-12-11 (latest in force: 2019-12-11) · <https://www.cncd.ro/hotarari/hotarare-935-19/>
+
+**Status:** Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `cncd-hotarare-2019-935` (tags `cncd-hotarare-2019-935/<day>`; `python tools/on.py <day> cncd-hotarare-2019-935`).
+
+## Decisions made by hand
+
+- Hotărârea CNCD nr. 935/2019: added by Lexifina's cncd source lane from the decision as CNCD publishes it (https://www.cncd.ro/hotarari/hotarare-935-19/). Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.

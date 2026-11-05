@@ -1,0 +1,16 @@
+# Decizia ANSPDCP nr. 100/2007: privind stabilirea cazurilor în care nu este necesară notificarea prelucrării unor date cu caracter personal - A fost abrogată prin Decizia 200/2015
+
+Decizia ANSPDCP nr. 100/2007 · 1 versions, from 2007-11-23 (latest in force: 2007-11-23) · <https://www.dataprotection.ro/servlet/ViewDocument?id=204>
+
+**Status:** Published as ANSPDCP published it on its website (www.dataprotection.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `anspdcp-decizie-2007-100` (tags `anspdcp-decizie-2007-100/<day>`; `python tools/on.py <day> anspdcp-decizie-2007-100`).
+
+## Decisions made by hand
+
+- Decizia ANSPDCP nr. 100/2007: added by Lexifina's anspdcp source lane from the decision as ANSPDCP publishes it (https://www.dataprotection.ro/servlet/ViewDocument?id=204). Published as ANSPDCP published it on its website (www.dataprotection.ro); later changes, such as a court annulling it, are not yet recorded.
+- Decizia ANSPDCP nr. 100/2007: ANSPDCP notes that it was repealed by Decizia 200/2015; the repeal is not yet recorded as a version here.

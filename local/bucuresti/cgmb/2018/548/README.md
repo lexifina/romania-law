@@ -1,17 +1,25 @@
-# Hotărârea Consiliului General al Municipiului București nr. 548/2018 PRIVIND APROBAREA TARIFELOR DE INCHIRIERE A UNOR BUNURI APARTINAND ADMINISTRATIEI STRAZILOR
+# Hotărârea Consiliului General al Municipiului București nr. 548/2018 privind aprobarea tarifelor de închiriere a unor bunuri aparținănd-Administrație Străzilor
 
 HCGMB nr. 548/2018 · 1 versions, from 2018-08-23 (latest in force: 2018-08-23) · <https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38535>
 
-**Status:** Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+**Status:** Published as the council published it; later amendments or repeal, if any, are not yet applied. Read by OCR from a scan: it may hold reading errors. Not included yet: Anexa nr. 1 (a scan whose text is not read by OCR yet).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Metadata | [metadata.md](metadata.md) | 0 |  |
+| Adoption | [adoptare.md](adoptare.md) | 0 |  |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Preambul | [preambul.md](preambul.md) | 0 |  |
 
 Act id: `hcgmb-548-2018` (tags `hcgmb-548-2018/<day>`; `python tools/on.py <day> hcgmb-548-2018`).
 
 ## Decisions made by hand
 
-- HCGMB nr. 548/2018: listed from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro); metadata only for now: its text is a scan that has not been read by OCR yet.
-- HCGMB nr. 548/2018: dated from 23 August 2018, the day it was adopted and published.
-- HCGMB nr. 548/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
+- HCGMB nr. 548/2018: added from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro): the decision as the council published it (https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38535), its text read from an optical character reading (OCR) of the scanned PDF (PDF sha256 e12eec3809c71e23cd9cd6837b7f23d8c2054de8cef6bb5119c05cfe04f3529a). Whether later decisions amended or repealed it has not yet been checked; amendments, if any, are not applied here.
+- HCGMB nr. 548/2018: built by Lexifina with the default rules for a council decision: the letterhead, page numbers, the signatures and the register number and date after the adoption formula are not text; lines are joined into paragraphs, one per line; no word of the body is lost or added.
+- HCGMB nr. 548/2018: in force from 23 August 2018, the day it was adopted and published.
+- HCGMB nr. 548/2018: screened before publishing for natural persons' names, personal numerical codes and home addresses; none was found in the text published.
+- HCGMB nr. 548/2018: Anexa nr. 1 is not included yet: a scan whose text is not read by OCR yet. It will be added when it can be published in full.

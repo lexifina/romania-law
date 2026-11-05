@@ -1,17 +1,21 @@
-# Hotărârea Consiliului General al Municipiului București nr. 232/2018
+# Hotărârea Consiliului General al Municipiului București nr. 232/2018 privind prelungirea valabilității Planului Urbanistic Zonal Extindere Puz – Ansamblul A.N.L. „Henri Coandă” pe traseul Drumul Nisipoasa – Str. Avionului, Sector 1 aprobat prin Hotărârea C.G.M.B. nr. 176 din 30.05.2013
 
 HCGMB nr. 232/2018 · 1 versions, from 2018-04-19 (latest in force: 2018-04-19) · <https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38183>
 
-**Status:** Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record. Its title names a private person or a private property, so it is not shown.
+**Status:** Published as the council published it; later amendments or repeal, if any, are not yet applied. Read by OCR from a scan: it may hold reading errors.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Metadata | [metadata.md](metadata.md) | 0 |  |
+| Adoption | [adoptare.md](adoptare.md) | 0 |  |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Preambul | [preambul.md](preambul.md) | 0 |  |
 
 Act id: `hcgmb-232-2018` (tags `hcgmb-232-2018/<day>`; `python tools/on.py <day> hcgmb-232-2018`).
 
 ## Decisions made by hand
 
-- HCGMB nr. 232/2018: listed from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro); metadata only for now: its text is a scan that has not been read by OCR yet.
-- HCGMB nr. 232/2018: dated from 19 April 2018, the day it was adopted and published.
-- HCGMB nr. 232/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; the title is withheld.
+- HCGMB nr. 232/2018: added from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro): the decision as the council published it (https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38183), its text read from an optical character reading (OCR) of the scanned PDF (PDF sha256 e8fffbf6e920512e107ae941c2e041ae6155d2cf979421bfb8300d69bd498a7f). Whether later decisions amended or repealed it has not yet been checked; amendments, if any, are not applied here.
+- HCGMB nr. 232/2018: built by Lexifina with the default rules for a council decision: the letterhead, page numbers, the signatures and the register number and date after the adoption formula are not text; lines are joined into paragraphs, one per line; no word of the body is lost or added.
+- HCGMB nr. 232/2018: in force from 19 April 2018, the day it was adopted and published.
+- HCGMB nr. 232/2018: screened before publishing for natural persons' names, personal numerical codes and home addresses; none was found in the text published.
