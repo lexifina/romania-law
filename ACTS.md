@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12484 acts, 23,999 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12498 acts, 24,013 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8372, of which 3153 amending acts)
+## Laws (legi) (8386, of which 3163 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -564,13 +564,27 @@
 | Legea nr. 176/1998 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 87/1997 pentru modificarea art. 8 alin. 1 din Ordonanţa Guvernului nr. 59/1994 privind reglementarea operaţiunilor de import-export care se derulează prin cliring, barter şi cooperare economică internaţionala în baza acordurilor comerciale şi de plăti guvernamentale | [`lege/1998/176/`](lege/1998/176/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
 | Legea nr. 177/1998 pentru completarea art. 2 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite | [`lege/1998/177/`](lege/1998/177/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
 | Legea nr. 178/1998 pentru modificarea art. 47 din Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor | [`lege/1998/178/`](lege/1998/178/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
+| Legea nr. 179/1998 pentru aprobarea Ordonanţei Guvernului nr. 11/1997 privind acordarea unor facilităţi agenţilor economici din domeniul transporturilor, la scoaterea din funcţiune a mijloacelor fixe uzate fizic sau moral, neamortizate integral | [`lege/1998/179/`](lege/1998/179/) | amending act | 1 | 1998-10-14 | 1998-10-14 |
 | Legea nr. 180/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/1997 pentru completarea art. 6 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`lege/1998/180/`](lege/1998/180/) | amended, not consolidated | 1 | 1998-10-14 | 1998-10-14 |
+| Legea nr. 181/1998 pentru modificarea art. 28 din Legea nr. 14/1992 privind organizarea şi funcţionarea Serviciului Român de Informaţii | [`lege/1998/181/`](lege/1998/181/) | amending act | 1 | 1998-10-14 | 1998-10-14 |
+| Legea nr. 182/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/1998 privind reglementarea amortizării activelor corporale pentru anul 1998 | [`lege/1998/182/`](lege/1998/182/) | amending act | 1 | 1998-10-14 | 1998-10-14 |
+| Legea nr. 185/1998 privind aprobarea Ordonanţei Guvernului nr. 35/1998 pentru modificarea anexei nr. 1 şi a anexei nr. 3 la Ordonanţa de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor taxe indirecte | [`lege/1998/185/`](lege/1998/185/) | amending act | 1 | 1998-10-15 | 1998-10-15 |
+| Legea nr. 186/1998 privind aprobarea Ordonanţei Guvernului nr. 33/1998 pentru aderarea României la Statutul Organizaţiei Intraeuropene a Administraţiilor Fiscale, adoptat la Casta Papiernicka, Slovacia, la 29 septembrie 1997 | [`lege/1998/186/`](lege/1998/186/) | amending act | 1 | 1998-10-16 | 1998-10-16 |
+| Legea nr. 187/1998 pentru aprobarea Ordonanţei Guvernului nr. 63/1997 privind stabilirea unor facilităţi pentru dezvoltarea turismului rural | [`lege/1998/187/`](lege/1998/187/) | amending act | 1 | 1998-10-16 | 1998-10-16 |
+| Legea nr. 188/1998 privind aprobarea Ordonanţei Guvernului nr. 18/1998 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Societatea Naţionala de Telecomunicaţii "Romtelecom" - S.A., semnat la Luxembourg şi la Bucureşti la 12 şi, respectiv, la 14 noiembrie 1997, aferent transei a II-a, privind finanţarea Proiectului de dezvoltare a telecomunicaţiilor | [`lege/1998/188/`](lege/1998/188/) | amending act | 1 | 1998-10-16 | 1998-10-16 |
 | Legea nr. 189/1998 | [`lege/1998/189/`](lege/1998/189/) | repealed 2004-01-01 | 3 | 1999-01-01 | 2004-01-01 |
+| Legea nr. 190/1998 pentru modificarea art. 16 alin. 2 din Legea nr. 18/1996 privind paza obiectivelor, bunurilor şi valorilor | [`lege/1998/190/`](lege/1998/190/) | amending act | 1 | 1998-10-16 | 1998-10-16 |
 | Legea nr. 191/1998 privind organizarea şi funcţionarea Serviciului de Protecţie şi Paza | [`lege/1998/191/`](lege/1998/191/) | amended, not consolidated | 1 | 1998-10-22 | 1998-10-22 |
+| Legea nr. 192/1998 privind aprobarea Ordonanţei Guvernului nr. 31/1998 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată la unele produse şi echipamente importate pentru înzestrarea Ministerului Apărării Naţionale, Serviciului de Telecomunicaţii Speciale, Serviciului Român de Informaţii, Serviciului de Informaţii Externe şi industriei de apărare | [`lege/1998/192/`](lege/1998/192/) | amending act | 1 | 1998-10-23 | 1998-10-23 |
+| Legea nr. 193/1998 privind restituirea sumelor reţinute cu titlu de garanţie de 10% din valoarea utilajelor, echipamentelor, aparatajului şi construcţiilor metalice livrate pentru Combinatul minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina şi compensarea cu aceste sume a obligaţiilor de plată ale societăţilor comerciale furnizoare către bugetul de stat | [`lege/1998/193/`](lege/1998/193/) | in force | 1 | 1998-10-23 | 1998-10-23 |
 | Legea nr. 195/1998 privind aprobarea Ordonanţei Guvernului nr. 2/1998 pentru modificarea Ordonanţei Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`lege/1998/195/`](lege/1998/195/) | amended, not consolidated | 1 | 1998-10-30 | 1998-10-30 |
 | Legea nr. 196/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/1998/196/`](lege/1998/196/) | amended, not consolidated | 1 | 1998-11-05 | 1998-11-05 |
 | Legea nr. 197/1998 pentru aprobarea Ordonanţei Guvernului nr. 19/1997 privind transporturile | [`lege/1998/197/`](lege/1998/197/) | amended, not consolidated | 1 | 1998-11-11 | 1998-11-11 |
+| Legea nr. 198/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/1998 pentru ratificarea Memorandumului de finanţare a Programului Operaţional de Ţara PHARE 1997, semnat la Bucureşti la 19 decembrie 1997 | [`lege/1998/198/`](lege/1998/198/) | amending act | 1 | 1998-11-11 | 1998-11-11 |
+| Legea nr. 200/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Arabe Siriene privind serviciile aeriene, semnat la Bucureşti la 20 ianuarie 1998 | [`lege/1998/200/`](lege/1998/200/) | in force | 1 | 1998-11-12 | 1998-11-12 |
 | Legea nr. 202/1998 | [`lege/1998/202/`](lege/1998/202/) | in force | 16 | 1998-12-10 | 2021-04-05 |
+| Legea nr. 203/1998 pentru ratificarea Protocolului de amendare a Convenţiei de la Viena privind răspunderea civilă pentru daune nucleare, adoptat la Viena la 12 septembrie 1997 | [`lege/1998/203/`](lege/1998/203/) | in force | 1 | 1998-11-18 | 1998-11-18 |
+| Legea nr. 205/1998 privind declararea ca municipiu a oraşului Tarnaveni, judeţul Mureş | [`lege/1998/205/`](lege/1998/205/) | in force | 1 | 1998-11-12 | 1998-11-12 |
 | Legea nr. 206/1998 pentru aprobarea afilierii instituţiei Avocatul Poporului la Institutul Internaţional al Ombudsmanului şi la Institutul European al Ombudsmanului | [`lege/1998/206/`](lege/1998/206/) | amending act | 1 | 1998-11-23 | 1998-11-23 |
 | Legea nr. 207/1998 pentru aprobarea Ordonanţei Guvernului nr. 15/1998 privind înfiinţarea, organizarea şi funcţionarea Institutului European din România | [`lege/1998/207/`](lege/1998/207/) | amended, not consolidated | 1 | 1998-11-12 | 1998-11-12 |
 | Legea nr. 208/1998 pentru aprobarea Ordonanţei Guvernului nr. 36/1996 privind unele măsuri specifice pentru împrospătarea stocurilor de produse petroliere din rezervele de mobilizare ale armatei | [`lege/1998/208/`](lege/1998/208/) | amending act | 1 | 1998-11-12 | 1998-11-12 |
@@ -12550,7 +12564,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28656 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28724 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
