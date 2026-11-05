@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12582 acts, 24,097 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12585 acts, 24,100 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8455, of which 3200 amending acts)
+## Laws (legi) (8457, of which 3202 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -457,6 +457,8 @@
 | Legea nr. 149/1997 | [`lege/1997/149/`](lege/1997/149/) | in force | 1 | 1997-07-30 | 1997-07-30 |
 | Legea nr. 150/1997 | [`lege/1997/150/`](lege/1997/150/) | in force | 1 | 1997-07-29 | 1997-07-29 |
 | Legea nr. 151/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1997 cu privire la diminuarea blocajului financiar şi a pierderilor din economie | [`lege/1997/151/`](lege/1997/151/) | amended, not consolidated | 1 | 1997-07-28 | 1997-07-28 |
+| Legea nr. 153/1997 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 27/1997 privind derularea împrumutului de euroobligaţiuni în mărci germane | [`lege/1997/153/`](lege/1997/153/) | amending act | 1 | 1997-09-08 | 1997-09-08 |
+| Legea nr. 154/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 18/1997 privind asigurarea unor facilităţi furnizorilor de îngrăşăminte chimice şi de produse de uz fitosanitar | [`lege/1997/154/`](lege/1997/154/) | amending act | 1 | 1997-09-19 | 1997-09-19 |
 | Legea nr. 155/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/1997 privind autorizarea Băncii Naţionale a României pentru efectuarea unor operaţiuni pe piaţa monetara | [`lege/1997/155/`](lege/1997/155/) | amending act | 1 | 1997-10-09 | 1997-10-09 |
 | Legea nr. 157/1997 | [`lege/1997/157/`](lege/1997/157/) | in force | 1 | 1997-10-13 | 1997-10-13 |
 | Legea nr. 158/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 44/1997 privind suspendarea impozitului pe venitul agricol | [`lege/1997/158/`](lege/1997/158/) | amended, not consolidated | 1 | 1997-10-24 | 1997-10-24 |
@@ -11429,7 +11431,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1028, of which 121 amending acts)
+## Ordinances (OG) (1029, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11551,6 +11553,7 @@
 | Ordonanța Guvernului nr. 53/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996 | [`og/1997/53/`](og/1997/53/) | amended, not consolidated | 1 | 1997-08-30 | 1997-08-30 |
 | Ordonanța Guvernului nr. 54/1997 pentru modificarea și completarea Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale | [`og/1997/54/`](og/1997/54/) | amending act | 2 | 1997-08-30 | 1998-12-09 |
 | Ordonanța Guvernului nr. 55/1997 pentru modificarea şi completarea Legii nr. 56/1996 privind salarizarea şi alte drepturi ale judecătorilor Curţii Supreme de Justiţie, ale magistraţilor-asistenţi şi ale celorlalte categorii de personal | [`og/1997/55/`](og/1997/55/) | amended, not consolidated | 1 | 1997-08-30 | 1997-08-30 |
+| Ordonanța Guvernului nr. 57/1997 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991 | [`og/1997/57/`](og/1997/57/) | in force | 1 | 1997-08-30 | 1997-08-30 |
 | Ordonanța Guvernului nr. 59/1997 cu privire la finanţarea, în sistem descentralizat, în domeniul ştiinţei, tehnologiei şi inovării | [`og/1997/59/`](og/1997/59/) | repealed 2002-08-30 | 2 | 1997-08-30 | 2002-08-30 |
 | Ordonanța Guvernului nr. 60/1997 | [`og/1997/60/`](og/1997/60/) | repealed 2006-07-24 | 4 | 1997-08-30 | 2006-07-24 |
 | Ordonanța Guvernului nr. 61/1997 pentru modificarea şi completarea Legii nr. 27/1994 privind impozitele şi taxele locale, cu modificările ulterioare | [`og/1997/61/`](og/1997/61/) | amended, not consolidated | 1 | 1997-08-30 | 1997-08-30 |
@@ -12648,7 +12651,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29349 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29427 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

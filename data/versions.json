@@ -101657,6 +101657,21 @@
    ]
   },
   {
+   "slug": "legea-153-1997",
+   "path": "lege/1997/153",
+   "short": "Legea nr. 153/1997",
+   "title": "Legea nr. 153/1997 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 27/1997 privind derularea împrumutului de euroobligaţiuni în mărci germane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11839",
+   "versions": [
+    {
+     "from": "1997-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11839",
+     "sha256": "075ed8b972cc679e818f728843c65a402a07601efb5b1a348de0dee5ffd9e32d"
+    }
+   ]
+  },
+  {
    "slug": "legea-153-1998",
    "path": "lege/1998/153",
    "short": "Legea nr. 153/1998",
@@ -101938,6 +101953,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303499",
      "sha256": "e4a30b280c493a83baed648ebe2221ad69f762169fce1be336413ebc39cc2118"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-1997",
+   "path": "lege/1997/154",
+   "short": "Legea nr. 154/1997",
+   "title": "Legea nr. 154/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 18/1997 privind asigurarea unor facilităţi furnizorilor de îngrăşăminte chimice şi de produse de uz fitosanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11843",
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11843",
+     "sha256": "7602ad2f8533c9625b5cae8dada02a1b2442245f837a6ddece469ec8f5c2f176"
     }
    ]
   },
@@ -211405,6 +211435,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208874",
      "sha256": "12acd7937f31dd7eac82988e007ee7b0739429cd5b254854bd1ba4b00829a3be"
+    }
+   ]
+  },
+  {
+   "slug": "og-57-1997",
+   "path": "og/1997/57",
+   "short": "OG nr. 57/1997",
+   "title": "Ordonanța Guvernului nr. 57/1997 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11362",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11362",
+     "sha256": "a028dcbab55bf485f8141be18ae29a1055ffa6ea708d87c4a27384a8f43e4fd6"
     }
    ]
   },
