@@ -1,6 +1,6 @@
 # Every act in this repository
 
-68206 acts, 81,964 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+68227 acts, 81,985 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8313, of which 3112 amending acts)
+## Laws (legi) (8315, of which 3114 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -799,9 +799,11 @@
 | Legea nr. 146/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 194/1999 privind instituirea medaliei comemorative "150 de ani de la naşterea lui Mihai Eminescu" | [`lege/2000/146/`](lege/2000/146/) | amended, not consolidated | 1 | 2000-08-03 | 2000-08-03 |
 | Legea nr. 147/2000 | [`lege/2000/147/`](lege/2000/147/) | in force | 4 | 2001-01-01 | 2012-03-25 |
 | Legea nr. 148/2000 | [`lege/2000/148/`](lege/2000/148/) | in force | 7 | 2000-10-31 | 2024-07-25 |
+| Legea nr. 149/2000 privind aprobarea Ordonanţei Guvernului nr. 5/2000 pentru completarea Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale şi necorporale | [`lege/2000/149/`](lege/2000/149/) | amending act | 1 | 2000-07-28 | 2000-07-28 |
 | Legea nr. 150/2000 pentru aprobarea Ordonanţei Guvernului nr. 62/1999 privind înfiinţarea Centrului de Management pentru Finanţarea Învăţământului Superior şi a Cercetării Ştiinţifice Universitare | [`lege/2000/150/`](lege/2000/150/) | amended, not consolidated | 1 | 2000-07-28 | 2000-07-28 |
 | Legea nr. 151/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/1999 pentru interzicerea publicităţii produselor din tutun în sălile de spectacol şi interzicerea vânzării produselor din tutun minorilor | [`lege/2000/151/`](lege/2000/151/) | amended, not consolidated | 1 | 2000-07-28 | 2000-07-28 |
 | Legea nr. 152/2000 pentru aprobarea Ordonanţei Guvernului nr. 46/2000 privind declararea Complexului Memorialul Revoluţiei - Decembrie 1989 din municipiul Timişoara ansamblu de interes naţional | [`lege/2000/152/`](lege/2000/152/) | amended, not consolidated | 1 | 2000-08-08 | 2000-08-08 |
+| Legea nr. 153/2000 privind aprobarea Ordonanţei Guvernului nr. 12/2000 pentru ratificarea Protocolului adiţional suplimentar la Acordul dintre statele părţi la Tratatul Atlanticului de Nord şi celelalte state participante la Parteneriatul pentru Pace cu privire la statutul forţelor lor, adoptat la Bruxelles la 19 decembrie 1997 | [`lege/2000/153/`](lege/2000/153/) | amending act | 1 | 2000-07-28 | 2000-07-28 |
 | Legea nr. 156/2000 | [`lege/2000/156/`](lege/2000/156/) | in force | 10 | 2000-08-04 | 2022-02-23 |
 | Legea nr. 158/2000 privind aprobarea Ordonanţei Guvernului nr. 15/2000 pentru aderarea României la Protocolul din 1992 pentru amendarea Convenţiei internaţionale privind răspunderea civilă pentru pagubele produse prin poluare cu hidrocarburi, 1969, încheiat la Londra la 27 noiembrie 1992 | [`lege/2000/158/`](lege/2000/158/) | amended, not consolidated | 1 | 2000-10-05 | 2000-10-05 |
 | Legea nr. 159/2000 | [`lege/2000/159/`](lege/2000/159/) | in force | 1 | 2000-10-05 | 2000-10-05 |
@@ -12261,7 +12263,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (27517, of which 12770 amending acts)
+## Government decisions (HG) (27536, of which 12778 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13199,7 +13201,26 @@
 | Hotărârea Guvernului nr. 614/2000 pentru aprobarea modului de repartizare şi de utilizare a sumelor destinate acţiunilor prevăzute la lit. a)-d) şi f)-h) din anexa nr. 3/11 la Legea bugetului de stat pe anul 2000 nr. 76/2000 | [`hg/2000/614/`](hg/2000/614/) | amended, not consolidated | 1 | 2000-07-26 | 2000-07-26 |
 | Hotărârea Guvernului nr. 627/2000 privind reorganizarea Companiei Naţionale de Electricitate - S.A | [`hg/2000/627/`](hg/2000/627/) | in force | 2 | 2000-07-31 | 2001-05-29 |
 | Hotărârea Guvernului nr. 628/2000 privind aprobarea Acordului dintre Guvernul României (Beneficiarul) şi Statele Unite ale Americii acţionând prin intermediul Agenţiei Statelor Unite pentru Dezvoltare Internaţionala (A.S.U.D.I.), pentru promovarea revigorării economice şi susţinerea Programului de asistenţa pentru ajutorarea copiilor orfani şi cu handicap, în valoare de 14,0 milioane dolari S.U.A | [`hg/2000/628/`](hg/2000/628/) | amended, not consolidated | 1 | 2000-07-21 | 2000-07-21 |
+| Hotărârea Guvernului nr. 632/2000 privind mandatarea Ministerului Industriei şi Comerţului în vederea privatizării Societăţii Naţionale "Plafar" - S.A. Bucureşti | [`hg/2000/632/`](hg/2000/632/) | in force | 1 | 2000-08-16 | 2000-08-16 |
 | Hotărârea Guvernului nr. 633/2000 pentru modificarea şi completarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2000, aprobat prin Hotărârea Guvernului nr. 399/2000 | [`hg/2000/633/`](hg/2000/633/) | amended, not consolidated | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 634/2000 privind acordarea unui ajutor financiar | [`hg/2000/634/`](hg/2000/634/) | in force | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 635/2000 privind acordarea unui ajutor financiar | [`hg/2000/635/`](hg/2000/635/) | in force | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 636/2000 privind acordarea unor ajutoare de urgenta | [`hg/2000/636/`](hg/2000/636/) | in force | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 638/2000 privind acordarea unor ajutoare de urgenta | [`hg/2000/638/`](hg/2000/638/) | in force | 1 | 2000-08-04 | 2000-08-04 |
+| Hotărârea Guvernului nr. 639/2000 privind numirea în funcţia de subprefect al judeţului Ilfov | [`hg/2000/639/`](hg/2000/639/) | in force | 1 | 2000-08-04 | 2000-08-04 |
+| Hotărârea Guvernului nr. 640/2000 privind eliberarea din funcţia de prefect al judeţului Arad | [`hg/2000/640/`](hg/2000/640/) | in force | 1 | 2000-08-04 | 2000-08-04 |
+| Hotărârea Guvernului nr. 641/2000 privind numirea în funcţia de prefect al judeţului Arad | [`hg/2000/641/`](hg/2000/641/) | in force | 1 | 2000-08-04 | 2000-08-04 |
+| Hotărârea Guvernului nr. 645/2000 privind profilurile, specializările, durata studiilor, precum şi titlurile obţinute de absolvenţii învăţământului universitar, cursuri de zi | [`hg/2000/645/`](hg/2000/645/) | in force | 1 | 2000-08-15 | 2000-08-15 |
+| Hotărârea Guvernului nr. 649/2000 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Romcif" - S.A | [`hg/2000/649/`](hg/2000/649/) | amending act | 1 | 2000-08-10 | 2000-08-10 |
+| Hotărârea Guvernului nr. 650/2000 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Moldocim" - S.A | [`hg/2000/650/`](hg/2000/650/) | amending act | 1 | 2000-08-10 | 2000-08-10 |
+| Hotărârea Guvernului nr. 651/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Axon" - S.R.L | [`hg/2000/651/`](hg/2000/651/) | amending act | 1 | 2000-08-10 | 2000-08-10 |
+| Hotărârea Guvernului nr. 652/2000 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Naţionala a Sării "Salrom" - S.A | [`hg/2000/652/`](hg/2000/652/) | amending act | 1 | 2000-08-10 | 2000-08-10 |
+| Hotărârea Guvernului nr. 653/2000 pentru completarea anexei la Hotărârea Guvernului nr. 89/2000 privind alocaţiile de hrana pentru consumurile colective din unităţile sanitare publice | [`hg/2000/653/`](hg/2000/653/) | amending act | 1 | 2000-08-10 | 2000-08-10 |
+| Hotărârea Guvernului nr. 654/2000 privind aprobarea Programului cercetărilor statistice în anul 2000 | [`hg/2000/654/`](hg/2000/654/) | amending act | 1 | 2000-08-14 | 2000-08-14 |
+| Hotărârea Guvernului nr. 655/2000 privind acordarea unor înlesniri la plata obligaţiilor bugetare datorate de unele societăţi comerciale supuse privatizării | [`hg/2000/655/`](hg/2000/655/) | in force | 1 | 2000-08-14 | 2000-08-14 |
+| Hotărârea Guvernului nr. 656/2000 privind aprobarea prealabilă, în vederea recunoaşterii funcţionării în România a Asociaţiei "Research Triangle Institute" din Statele Unite ale Americii prin intermediul unei filiale | [`hg/2000/656/`](hg/2000/656/) | amending act | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 657/2000 privind drepturile băneşti cuvenite personalului încadrat în unităţile mixte constituite între Armata României şi armatele altor tari | [`hg/2000/657/`](hg/2000/657/) | in force | 1 | 2000-08-16 | 2000-08-16 |
+| Hotărârea Guvernului nr. 658/2000 pentru suspendarea aplicării Hotărârii Guvernului nr. 793/1993 privind aplicarea de către România a Rezoluţiei nr. 883 (1993) a Consiliului de Securitate al O.N.U | [`hg/2000/658/`](hg/2000/658/) | amending act | 1 | 2000-08-16 | 2000-08-16 |
 | Hotărârea Guvernului nr. 661/2000 privind alocarea unor sume din bugetul de stat pe anul 2000 pentru înlăturarea efectelor epizootiei de antrax manifestate pe teritoriul judeţului Tulcea | [`hg/2000/661/`](hg/2000/661/) | in force | 1 | 2000-08-17 | 2000-08-17 |
 | Hotărârea Guvernului nr. 662/2000 pentru modificarea Hotărârii Guvernului nr. 335/1995 privind regimul constituirii, utilizării şi deductibilităţii fiscale a provizioanelor agenţilor economici şi societăţilor bancare | [`hg/2000/662/`](hg/2000/662/) | amending act | 1 | 2000-08-17 | 2000-08-17 |
 | Hotărârea Guvernului nr. 663/2000 pentru aprobarea amendamentelor convenite prin schimb de scrisori între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 7 octombrie 1991 | [`hg/2000/663/`](hg/2000/663/) | amending act | 1 | 2000-08-17 | 2000-08-17 |
