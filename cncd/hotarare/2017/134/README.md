@@ -1,0 +1,15 @@
+# Hotărârea CNCD nr. 134/2017: neacordarea unor drepturi bănești (prime de zi de naștere și tichete de masă) în perioada 01.06.2016 – 14.07.2016 cât timp Constractul Colectiv de Muncă pentru anii 2014 – 20116 a expirat.
+
+Hotărârea CNCD nr. 134/2017 · 1 versions, from 2017-02-22 (latest in force: 2017-02-22) · <https://www.cncd.ro/hotarari/hotarare-134-17/>
+
+**Status:** Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `cncd-hotarare-2017-134` (tags `cncd-hotarare-2017-134/<day>`; `python tools/on.py <day> cncd-hotarare-2017-134`).
+
+## Decisions made by hand
+
+- Hotărârea CNCD nr. 134/2017: added by Lexifina's cncd source lane from the decision as CNCD publishes it (https://www.cncd.ro/hotarari/hotarare-134-17/). Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
