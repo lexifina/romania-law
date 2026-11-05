@@ -10984,6 +10984,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19584"
 },
 {
+"slug": "legea-164-1999",
+"path": "lege/1999/164",
+"kind": "lege",
+"year": "1999",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 164/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 54/1998 pentru finalizarea procesului de privatizare cu titlu gratuit",
+"short": "Legea nr. 164/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-11-11",
+"latest": "1999-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19841"
+},
+{
 "slug": "legea-165-1999",
 "path": "lege/1999/165",
 "kind": "lege",
@@ -143958,6 +143975,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19811"
 },
 {
+"slug": "oug-174-1999",
+"path": "oug/1999/174",
+"kind": "oug",
+"year": "1999",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 174/1999 privind acordarea unui sprijin financiar Fundaţiei Atletismul Românesc (Fundaţia Română de Atletism)",
+"short": "OUG nr. 174/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-11-09",
+"latest": "1999-11-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19813"
+},
+{
 "slug": "oug-177-1999",
 "path": "oug/1999/177",
 "kind": "oug",
@@ -143973,6 +144007,23 @@
 "from": "1999-11-11",
 "latest": "1999-11-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19831"
+},
+{
+"slug": "oug-178-1999",
+"path": "oug/1999/178",
+"kind": "oug",
+"year": "1999",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 178/1999 privind majorarea capitalului social al băncilor cu capital majoritar privat",
+"short": "OUG nr. 178/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-11-11",
+"latest": "1999-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19832"
 },
 {
 "slug": "oug-180-1999",

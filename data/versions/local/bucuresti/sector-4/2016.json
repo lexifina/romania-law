@@ -3,6 +3,276 @@
  "shard": "local/bucuresti/sector-4/2016",
  "acts": [
   {
+   "slug": "hcls4-1-2016",
+   "path": "local/bucuresti/sector-4/2016/1",
+   "short": "HCLS4 nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2016 Privind alegerea Comisiei de validare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=101",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_1_com-validare-1.pdf",
+     "sha256": "9ff86fd7b06e24abe2e433f1a3fe026138e009df87dcf7cc1a601de2ccf5223d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2016",
+   "path": "local/bucuresti/sector-4/2016/10",
+   "short": "HCLS4 nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2016 pentru completarea Hotărârii Consiliului Local Sector 4 nr.42/26.02.2015 privind organizarea rețelei unităților de învățământ preuniversitar de stat și particular, la nivelul Sectorului 4, în anul școlar 2015-2016",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=101",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_10_.pdf",
+     "sha256": "e17b7030b510b9978fb2e0762999ad1ced734d094002e904505bac1ed424b662"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-100-2016",
+   "path": "local/bucuresti/sector-4/2016/100",
+   "short": "HCLS4 nr. 100/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 100/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_100_.pdf",
+     "sha256": "00aa259aa300f9b6df4acd8a340a155310ee5da2c34591bd68f7b70f71fde5cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-101-2016",
+   "path": "local/bucuresti/sector-4/2016/101",
+   "short": "HCLS4 nr. 101/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 101/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_101_.pdf",
+     "sha256": "d78d6a788102b344b2c721af0023e0d2bb6cdb84ee17edb983313419bde8be88"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-102-2016",
+   "path": "local/bucuresti/sector-4/2016/102",
+   "short": "HCLS4 nr. 102/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 102/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_102_.pdf",
+     "sha256": "3c294ba81efd72d44af2ac8d5b331c916b984f5e3f6e2f5eead1723d58e5f482"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-103-2016",
+   "path": "local/bucuresti/sector-4/2016/103",
+   "short": "HCLS4 nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_103_.pdf",
+     "sha256": "c760eabb40372e933bce3c2dbfaa75abbfd82f1c70848b8dded0876e541daedb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-104-2016",
+   "path": "local/bucuresti/sector-4/2016/104",
+   "short": "HCLS4 nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_104_.pdf",
+     "sha256": "dd9ee963a991121beaf532b8a397068eb9658057e5a7bdd9e074563a0661a2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-105-2016",
+   "path": "local/bucuresti/sector-4/2016/105",
+   "short": "HCLS4 nr. 105/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 105/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_105_.pdf",
+     "sha256": "03a10441dd5b0364336aaf81efad27ead2b5c52078996a2b3213b67ef61876b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-106-2016",
+   "path": "local/bucuresti/sector-4/2016/106",
+   "short": "HCLS4 nr. 106/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 106/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_106_.pdf",
+     "sha256": "09405ba8bb5a0eb65c1e1b7f76c057d0308e74bcfbf8eb3b5e796567c9e4c03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-107-2016",
+   "path": "local/bucuresti/sector-4/2016/107",
+   "short": "HCLS4 nr. 107/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_107_.pdf",
+     "sha256": "266e2d553bc70a71665e7e62a49e024efa7784360c4d86f37f43d090a67b331b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-108-2016",
+   "path": "local/bucuresti/sector-4/2016/108",
+   "short": "HCLS4 nr. 108/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_108_.pdf",
+     "sha256": "d220b674fe6567b581f6c7cf3ee5fce6a993b4715e7b7400af4127069bd46372"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-109-2016",
+   "path": "local/bucuresti/sector-4/2016/109",
+   "short": "HCLS4 nr. 109/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2016 privind aprobarea participării Sectorului 4 al Municipiului București prin intermediul Aparatului de Specialitate al Primarului la apelul de propuneri de proiecte lansat în cadrul Programului Operațional Capital Uman (POCU) 2014-2020 - ”Sprijin pregătitor pentru elaborarea Strategiilor de Dezvoltare Locală” - orașe/ municipii cu populație de peste 20.000 locuitori AP 5/ PI 9.vi/ OS 5.1.REGIUNEA BUCUREȘTI-ILFOV",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_109_-2.pdf",
+     "sha256": "0bf572a87950911e7c93e619dbfd9edd4c06f6a7d08d4fce987c37ab88af563c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2016",
+   "path": "local/bucuresti/sector-4/2016/11",
+   "short": "HCLS4 nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2016 pentru completarea Hotărârii Consiliului Local Sector 4 nr.38/29.02.2016 privind organizarea rețelei unităților de învățământ preuniversitar de stat și particular, la nivelul Sectorului 4, în anul școlar 2016-2017",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=101",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_11_.pdf",
+     "sha256": "6c4797b77db244aa837316a594490663efcf13b9ac77b3058859a272dedc9593"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-110-2016",
+   "path": "local/bucuresti/sector-4/2016/110",
+   "short": "HCLS4 nr. 110/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 110/2016 privind aprobarea strategiei locale in domeniul eficientei energetice de reducere a consumului de energie si a emisiei de CO2 pentru blocurile de locuinte din Sectorul 4 al Municipiului Bucuresti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_110_.pdf",
+     "sha256": "8d4f5242011de21db5b879a03248431ec1038cee7694a1372c33606350dfb572"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-111-2016",
+   "path": "local/bucuresti/sector-4/2016/111",
+   "short": "HCLS4 nr. 111/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 111/2016 privind modificarea si completarea Hotararii Consiliului Local al Sectorului 4 nr. 38/27.03.2014 privind aprobarea programului multianual de reabilitare termica a blocurilor de locuinte din Sectorul 4 al Municipiului Bucuresti in perioada 2014-2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_111_.pdf",
+     "sha256": "182c90e8e13ca7bc3e489aa831bfe2a6810fed4c6aaecb402da6da3437eb1394"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-112-2016",
+   "path": "local/bucuresti/sector-4/2016/112",
+   "short": "HCLS4 nr. 112/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 112/2016 privind aprobarea proiectului „Reducerea consumului de energie si CO2 pentru blocurile de locuinte din Sectorul 4 al Municipiului Bucuresti – POR/CF1” si a cheltuielilor legate de proiect",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_112_.pdf",
+     "sha256": "1bd03721a900168933397b1383c13c4f4fd5c7b67c9eddd94bdd7d2677f17f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-113-2016",
+   "path": "local/bucuresti/sector-4/2016/113",
+   "short": "HCLS4 nr. 113/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 113/2016 privind aprobarea cererii de finantare “Reducerea consumurilor de energie si CO2 pentru blocurile de locuinte din Sectorul 4 al Municipiului Bucuresti – POR/CF1” si a cheltuielilor aferente acesteia, in vederea depunerii spre finantare si rambursarii ulterioare a cheltuielilor eligibile prin Programul Operational Regional 2014-2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_113_.pdf",
+     "sha256": "0ad7719b833617ab915e2b10346d06f8ed6e1c0fd9c6d74f120bf133bb1d57fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-114-2016",
+   "path": "local/bucuresti/sector-4/2016/114",
+   "short": "HCLS4 nr. 114/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 114/2016 privind aprobarea proiectului „Reducerea consumului de energie si CO2 pentru blocurile de locuinte din Sectorul 4 al Municipiului Bucuresti – POR/CF2” si a cheltuielilor legate de proiect",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=98",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_114_-1.pdf",
+     "sha256": "1b6ba61534c5d5d12d65981386e6b814a4f8e3b932a3915748bade61f673d980"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-122-2016",
    "path": "local/bucuresti/sector-4/2016/122",
    "short": "HCLS4 nr. 122/2016",

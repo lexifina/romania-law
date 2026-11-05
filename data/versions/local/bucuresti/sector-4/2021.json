@@ -3,6 +3,51 @@
  "shard": "local/bucuresti/sector-4/2021",
  "acts": [
   {
+   "slug": "hcls4-1-2021",
+   "path": "local/bucuresti/sector-4/2021/1",
+   "short": "HCLS4 nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2021 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/01/H_1_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2021",
+   "path": "local/bucuresti/sector-4/2021/10",
+   "short": "HCLS4 nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2021 privind componența Comisiei nr. 7 - Comisia pentru muncă, sănătate, familie, protecție socială, protecția copilului, minorități și relația cu societatea civilă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_10_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-100-2021",
+   "path": "local/bucuresti/sector-4/2021/100",
+   "short": "HCLS4 nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 100/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 68 din 26.05.2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 108.895.000 lei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_100_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-101-2021",
    "path": "local/bucuresti/sector-4/2021/101",
    "short": "HCLS4 nr. 101/2021",
@@ -33,6 +78,126 @@
    ]
   },
   {
+   "slug": "hcls4-103-2021",
+   "path": "local/bucuresti/sector-4/2021/103",
+   "short": "HCLS4 nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2021 privind revocarea atribuțiilor delegate Directorului Colegiului Național Gheorghe Șincai prin Hotărârea Consiliului Local Sector 4 nr. 198/05.09.2019",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_103_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-104-2021",
+   "path": "local/bucuresti/sector-4/2021/104",
+   "short": "HCLS4 nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al Sectorului 4 pe o perioadă de 3 luni, respectiv 01.08.2021 – 31.10.2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_104_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-105-2021",
+   "path": "local/bucuresti/sector-4/2021/105",
+   "short": "HCLS4 nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 105/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_105_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-106-2021",
+   "path": "local/bucuresti/sector-4/2021/106",
+   "short": "HCLS4 nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 106/2021 privind aprobarea și actualizarea indicatorilor tehnico-economici pentru obiective de investiții de pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_106_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-107-2021",
+   "path": "local/bucuresti/sector-4/2021/107",
+   "short": "HCLS4 nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 49/12.04.2021 privind aprobarea Statutului Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Municipale în Municipiul București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_107_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-108-2021",
+   "path": "local/bucuresti/sector-4/2021/108",
+   "short": "HCLS4 nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_108_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-109-2021",
+   "path": "local/bucuresti/sector-4/2021/109",
+   "short": "HCLS4 nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4, de a hotărî cu privire la înființarea unei societăți în condițiile legii",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_109_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2021",
+   "path": "local/bucuresti/sector-4/2021/11",
+   "short": "HCLS4 nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2021 privind aprobarea Programului obiectivelor de investiții în continuare, până la aprobarea bugetului de venituri și cheltuieli pe anul 2021, precum și deblocarea și utilizarea excedentului bugetar al anului 2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_11_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-110-2021",
    "path": "local/bucuresti/sector-4/2021/110",
    "short": "HCLS4 nr. 110/2021",
@@ -43,6 +208,81 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_110_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-111-2021",
+   "path": "local/bucuresti/sector-4/2021/111",
+   "short": "HCLS4 nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 111/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_111_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-112-2021",
+   "path": "local/bucuresti/sector-4/2021/112",
+   "short": "HCLS4 nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 112/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_112_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-113-2021",
+   "path": "local/bucuresti/sector-4/2021/113",
+   "short": "HCLS4 nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 113/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_113_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-114-2021",
+   "path": "local/bucuresti/sector-4/2021/114",
+   "short": "HCLS4 nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 114/2021 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 12/12.02.2021, privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_114_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-115-2021",
+   "path": "local/bucuresti/sector-4/2021/115",
+   "short": "HCLS4 nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 115/2021 privind aprobarea „Strategiei de management integrat al deșeurilor la nivelul Sectorului 4 al Municipiului București”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_115_.pdf",
      "sha256": null
     }
    ]
@@ -63,6 +303,141 @@
    ]
   },
   {
+   "slug": "hcls4-117-2021",
+   "path": "local/bucuresti/sector-4/2021/117",
+   "short": "HCLS4 nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 117/2021 privind aprobarea “Studiului de oportunitate și de fundamentare pentru delegarea gestiunii serviciului public de salubrizare al Sectorului 4 din Municipiul București”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_117_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-118-2021",
+   "path": "local/bucuresti/sector-4/2021/118",
+   "short": "HCLS4 nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 118/2021 privind aprobarea modelului de contract de închiriere pentru suprafețele cu destinația de locuință socială, precum și aprobarea modelului de contract de închiriere pentru suprafețele cu destinația de locuință de necesitate aflate în administrarea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_118_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-119-2021",
+   "path": "local/bucuresti/sector-4/2021/119",
+   "short": "HCLS4 nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 119/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_119_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-12-2021",
+   "path": "local/bucuresti/sector-4/2021/12",
+   "short": "HCLS4 nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_12_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-120-2021",
+   "path": "local/bucuresti/sector-4/2021/120",
+   "short": "HCLS4 nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 120/2021 pentru modificarea sediului Direcției Generale de Administrare a Unităților de Învățământ și de Sport Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_120_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-121-2021",
+   "path": "local/bucuresti/sector-4/2021/121",
+   "short": "HCLS4 nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 121/2021 privind aprobarea și actualizarea indicatorilor tehnico-economici pentru 17 blocuri de locuințe de pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_121_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-122-2021",
+   "path": "local/bucuresti/sector-4/2021/122",
+   "short": "HCLS4 nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 122/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: ”Lucrări de amenajare în vederea obținerii autorizației de securitate la incendiu - a spațiului cu funcțiunea grădiniță în incinta Grand Arena Mall, etaj 1 – scară exterioară și amenajări interioare”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_122_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-123-2021",
+   "path": "local/bucuresti/sector-4/2021/123",
+   "short": "HCLS4 nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 123/2021 privind solicitarea către Consiliului General al Municipiului București de atribuire a denumirii ”Pasajul Europa Unită”, pasajului rutier suprateran în curs de realizare situat la intersecția Str. Turnu Magurele - Bd. Metalurgiei - Bd. Alexandru Obregia” din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_123_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-124-2021",
+   "path": "local/bucuresti/sector-4/2021/124",
+   "short": "HCLS4 nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 124/2021 privind aprobarea participării Sectorului 4 al Municipiului București alături de Municipiul București la administrarea Parcului Natural Văcărești precum și împuternicirea Primarului Sectorului 4 de a întreprinde toate demersurile în vederea depunerii dosarului de candidatură",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_124_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-125-2021",
    "path": "local/bucuresti/sector-4/2021/125",
    "short": "HCLS4 nr. 125/2021",
@@ -73,6 +448,81 @@
      "from": "2021-09-10",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_125_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-126-2021",
+   "path": "local/bucuresti/sector-4/2021/126",
+   "short": "HCLS4 nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 126/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_126_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-127-2021",
+   "path": "local/bucuresti/sector-4/2021/127",
+   "short": "HCLS4 nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 127/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiţii \"Anghel Saligny\" pentru obiectivul de investiții Construire pasaj rutier suprateran intersecția strada Turnu Măgurele - B-dul. Metalurgiei - B-dul. Alexandru Obregia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_127_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-128-2021",
+   "path": "local/bucuresti/sector-4/2021/128",
+   "short": "HCLS4 nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 128/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 68 din 26.05.2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 160.000.000 lei, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_128_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-129-2021",
+   "path": "local/bucuresti/sector-4/2021/129",
+   "short": "HCLS4 nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 129/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/hot-129-site.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-13-2021",
+   "path": "local/bucuresti/sector-4/2021/13",
+   "short": "HCLS4 nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 13/2021 privind alegerea viceprimarilor sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_13_.pdf",
      "sha256": null
     }
    ]
@@ -93,6 +543,81 @@
    ]
   },
   {
+   "slug": "hcls4-131-2021",
+   "path": "local/bucuresti/sector-4/2021/131",
+   "short": "HCLS4 nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 131/2021 privind modificarea denumirii Centrului European Cultural şi de Tineret pentru UNESCO “Nicolae Bălcescu” în Centrul European Cultural şi de Tineret “Nicolae Bălcescu”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_131_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-132-2021",
+   "path": "local/bucuresti/sector-4/2021/132",
+   "short": "HCLS4 nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 132/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_132_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-133-2021",
+   "path": "local/bucuresti/sector-4/2021/133",
+   "short": "HCLS4 nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 133/2021 pentru modificarea Anexelor la Hotărârile Consiliului Local Sector 4 nr. 4/08.02.2021, respectiv nr. 8/08.02.2021 privind componența comisiilor nr. 1 și 5",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_133_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-134-2021",
+   "path": "local/bucuresti/sector-4/2021/134",
+   "short": "HCLS4 nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 134/2021 privind desemnarea consilierilor locali să participe și să reprezinte Sectorul 4 al Municipiului București la semnarea acordului de cooperare cu Pretura Sectorului Buiucani, Municipiul Chișinău din Republica Moldova",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_134_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-135-2021",
+   "path": "local/bucuresti/sector-4/2021/135",
+   "short": "HCLS4 nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 135/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 91/27.10.2016 privind stabilirea situațiilor deosebite pentru care se acordă ajutoare de urgență și aprobarea metodologiei de întocmire a dosarelor și de acordare a ajutorului (ca măsură de prevenire și combatere a marginalizării sociale)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_135_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-136-2021",
    "path": "local/bucuresti/sector-4/2021/136",
    "short": "HCLS4 nr. 136/2021",
@@ -103,6 +628,36 @@
      "from": "2021-10-08",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_136_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-137-2021",
+   "path": "local/bucuresti/sector-4/2021/137",
+   "short": "HCLS4 nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 137/2021 privind constatarea și aprobarea actualizării suprafețelor unităților de învățământ preuniversitar de stat de pe raza Sectorului 4, referitor la imobile, teren și clădiri",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_137_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-138-2021",
+   "path": "local/bucuresti/sector-4/2021/138",
+   "short": "HCLS4 nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 138/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_138_.pdf",
      "sha256": null
     }
    ]
@@ -123,6 +678,156 @@
    ]
   },
   {
+   "slug": "hcls4-14-2021",
+   "path": "local/bucuresti/sector-4/2021/14",
+   "short": "HCLS4 nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 14/2021 privind realizarea proiectului de reţea școlară a unităţilor de învăţământ preuniversitar de stat şi particular, la nivelul Sectorului 4, pentru anul şcolar 2021-2022",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_14_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-140-2021",
+   "path": "local/bucuresti/sector-4/2021/140",
+   "short": "HCLS4 nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 140/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_140_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-141-2021",
+   "path": "local/bucuresti/sector-4/2021/141",
+   "short": "HCLS4 nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 141/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivele de investiții derulate pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_141_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-142-2021",
+   "path": "local/bucuresti/sector-4/2021/142",
+   "short": "HCLS4 nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 142/2021 pentru modificarea sursei de finanțare a Direcției Mobilitate Urbană Sector 4 precum și modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 187/29.12.2020 privind reorganizarea activității și aprobarea Organigramei, Statului de Funcții și Regulamentului de Organizare și Funcționare ale Direcției Mobilitate Urbană Sector 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_142_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-143-2021",
+   "path": "local/bucuresti/sector-4/2021/143",
+   "short": "HCLS4 nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 143/2021 privind predarea în vederea desfășurării activității de administrare și exploatare de către Direcția Mobilitate Urbană Sector 4, a parcărilor aflate pe domeniul public sau privat al Municipiului București de pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_143_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-144-2021",
+   "path": "local/bucuresti/sector-4/2021/144",
+   "short": "HCLS4 nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 144/2021 privind aprobarea contractului de management administrativ-financiar încheiat între directorii unităților de învățământ de stat și Primarul Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_144_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-145-2021",
+   "path": "local/bucuresti/sector-4/2021/145",
+   "short": "HCLS4 nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 145/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4 de a hotărî, cu privire la asocierea Sectorului 4 al Municipiului București cu Consiliul Județean Ilfov și Spitalul Clinic de Urgență ”Sf. Ioan” pentru finanţarea şi realizarea în comun de investiții în scopul dezvoltării infrastructurii sanitare din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_145_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-146-2021",
+   "path": "local/bucuresti/sector-4/2021/146",
+   "short": "HCLS4 nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 146/2021 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică necesar a fi efectuată în vederea reîntregirii Parcului Lumea Copiilor şi a edificării în cadrul acestuia a parcului tematic România Parc",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_146_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-147-2021",
+   "path": "local/bucuresti/sector-4/2021/147",
+   "short": "HCLS4 nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 147/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4, de a hotărî, cu privire la înființarea unei instituții publice de interes local, în subordinea Consiliului Local Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_147_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-148-2021",
+   "path": "local/bucuresti/sector-4/2021/148",
+   "short": "HCLS4 nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 148/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr.335/28.11.2017, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_148_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-149-2021",
    "path": "local/bucuresti/sector-4/2021/149",
    "short": "HCLS4 nr. 149/2021",
@@ -133,6 +838,351 @@
      "from": "2021-10-26",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_149_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-15-2021",
+   "path": "local/bucuresti/sector-4/2021/15",
+   "short": "HCLS4 nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2021 privind însușirea și asumarea Strategiei de Dezvoltare a Sectorului 4 pentru perioada 2020-2024",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_15_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-150-2021",
+   "path": "local/bucuresti/sector-4/2021/150",
+   "short": "HCLS4 nr. 150/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 150/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivele de investiții Amenajare birouri în spațiul situat în B-dul Metalurgiei nr.12-18, Grand Arena, etaj 1, Sectorul 4 destinat desfășurării activității DGITL Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_150_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-151-2021",
+   "path": "local/bucuresti/sector-4/2021/151",
+   "short": "HCLS4 nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 151/2021 privind aprobarea și actualizarea unor indicatori tehnico-economici, pentru obiective de interes local, în vederea amenajării spațiilor verzi și a dezvoltării infrastructurii educaționale pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_151_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-152-2021",
+   "path": "local/bucuresti/sector-4/2021/152",
+   "short": "HCLS4 nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 152/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 68 din 26.05.2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 160.000.000 lei, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_152_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-153-2021",
+   "path": "local/bucuresti/sector-4/2021/153",
+   "short": "HCLS4 nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 153/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al Sectorului 4 pe o perioadă de 3 luni, respectiv 01.11.2021 – 31.01.2022",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_153_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-154-2021",
+   "path": "local/bucuresti/sector-4/2021/154",
+   "short": "HCLS4 nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 154/2021 pentru modificarea Hotărării Consiliului Local Sector 4 nr. 48/26.03.2020 privind modificarea componenței Comisiei pentru Protecția Copilului Sector 4 al Municipiului București, aprobată prin Hotărârea Consiliului Local Sector 4 nr. 294/21.11.2018, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_154_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-155-2021",
+   "path": "local/bucuresti/sector-4/2021/155",
+   "short": "HCLS4 nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 155/2021 privind aprobarea modificării componenței nominale a Comisiei de evaluare a persoanelor adulte cu handicap Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_155_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-156-2021",
+   "path": "local/bucuresti/sector-4/2021/156",
+   "short": "HCLS4 nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 156/2021 pentru modificarea unor poziții din Anexa la Hotărârea Consiliului Local Sector 4 nr. 28/12.02.2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în consiliile de administraţie ale unităţilor de învăţământ preuniversitar de stat și particular din sectorul 4, cu completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_156_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-157-2021",
+   "path": "local/bucuresti/sector-4/2021/157",
+   "short": "HCLS4 nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 157/2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în Comisiile de evaluare a probei de interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ special din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_157_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-158-2021",
+   "path": "local/bucuresti/sector-4/2021/158",
+   "short": "HCLS4 nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 158/2021 pentru modificarea și completarea HCL nr.157/26.10.2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în Comisiile de evaluare a probei de interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ special din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_158_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-159-2021",
+   "path": "local/bucuresti/sector-4/2021/159",
+   "short": "HCLS4 nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 159/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiţii \"Anghel Saligny\" pentru obiectivul de investiții Construire pasaj rutier intersecția strada Ion Iriceanu - strada Turnu Măgurele",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_159_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-16-2021",
+   "path": "local/bucuresti/sector-4/2021/16",
+   "short": "HCLS4 nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 16/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4 de a hotărî cu privire la asocierea Sectorului 4 al Municipiului București cu Consiliul Județean Ilfov, în vederea finanţării şi realizării în comun a unor acţiuni, lucrări, servicii sau proiecte de interes public local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_16_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-160-2021",
+   "path": "local/bucuresti/sector-4/2021/160",
+   "short": "HCLS4 nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 160/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_160_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-161-2021",
+   "path": "local/bucuresti/sector-4/2021/161",
+   "short": "HCLS4 nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 161/2021 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 149 din 14.10.2020 privind aprobarea „Planului de Acțiune pentru regenerarea urbană a Sectorului 4 – 2020-2025”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_161_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-162-2021",
+   "path": "local/bucuresti/sector-4/2021/162",
+   "short": "HCLS4 nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 162/2021 privind aprobarea colaborării și a protocolului de colaborare dintre Sectorul 4 al Municipiului București și Asociația ”Sfinții Români”, pentru sprijinirea grupurilor sociale vulnerabile și pentru promovarea educației în rândurile acestora",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_162_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-163-2021",
+   "path": "local/bucuresti/sector-4/2021/163",
+   "short": "HCLS4 nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 163/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_163_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-164-2021",
+   "path": "local/bucuresti/sector-4/2021/164",
+   "short": "HCLS4 nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 164/2021 privind constatarea și aprobarea actualizării suprafețelor unităților de învățământ preuniversitar de stat de pe raza Sectorului 4, referitor la imobile, teren și clădiri",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_164_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-165-2021",
+   "path": "local/bucuresti/sector-4/2021/165",
+   "short": "HCLS4 nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 165/2021 privind aprobarea depunerii cererii de finanțare cu titlul „Regenerare ZUM - Reabilitarea blocurilor de locuinte sociale din sectorul 4” în cadrul apelului de proiecte POR/2019/9/9.1/1/BI",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_165_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-166-2021",
+   "path": "local/bucuresti/sector-4/2021/166",
+   "short": "HCLS4 nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 166/2021 privind participarea Sectorului 4 al Municipiului București la sesiunea de finanțare 2021 din cadrul „Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” și aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: „Rețea stații de încărcare pentru vehicule electrice pe raza Sectorului 4, București”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_166_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-167-2021",
+   "path": "local/bucuresti/sector-4/2021/167",
+   "short": "HCLS4 nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 167/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_167_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-168-2021",
+   "path": "local/bucuresti/sector-4/2021/168",
+   "short": "HCLS4 nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 168/2021 pentru modificarea Hotărârii Consiliului Local al Sectorului 4 nr. 142/26.10.2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_168_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-169-2021",
+   "path": "local/bucuresti/sector-4/2021/169",
+   "short": "HCLS4 nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 169/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_169_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-17-2021",
+   "path": "local/bucuresti/sector-4/2021/17",
+   "short": "HCLS4 nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 17/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_17_.pdf",
      "sha256": null
     }
    ]
@@ -153,6 +1203,291 @@
    ]
   },
   {
+   "slug": "hcls4-171-2021",
+   "path": "local/bucuresti/sector-4/2021/171",
+   "short": "HCLS4 nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 171/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_171_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-172-2021",
+   "path": "local/bucuresti/sector-4/2021/172",
+   "short": "HCLS4 nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 172/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 181/21.12.2020 privind sprijinirea activităților comerciale din piețele aflate în administrarea Consiliului Local al Sectorului 4, prin scutirea comercianților de la plata chiriei datorate, pe o perioadă de 6 luni",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_172_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-173-2021",
+   "path": "local/bucuresti/sector-4/2021/173",
+   "short": "HCLS4 nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 173/2021 privind aprobarea Planului Urbanistic de Detaliu, pentru CONSTRUIRE IMOBIL P+2E+M - LOCUINŢĂ COLECTIVĂ, pe terenul proprietate particulară în suprafață de 202 mp, situat în str. ŞOIMUŞ nr. 76, Sector 4, București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_173_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-174-2021",
+   "path": "local/bucuresti/sector-4/2021/174",
+   "short": "HCLS4 nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 174/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_174_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-175-2021",
+   "path": "local/bucuresti/sector-4/2021/175",
+   "short": "HCLS4 nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 175/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_175_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-176-2021",
+   "path": "local/bucuresti/sector-4/2021/176",
+   "short": "HCLS4 nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 176/2021 privind aprobarea Planului Urbanistic de Detaliu pentru EXTINDERE ŞI SUPRAETAJARE CORP C1 ŞI C2 REZULTÂND UN IMOBIL CU REGIM DE ÎNĂLŢIME S+P+1E+2E-3ER+4ER, CU FUNCŢIUNEA DE LOCUINŢE ŞI COMERŢ, pe terenul proprietate particulară în suprafață de 543,78 mp din acte (571mp din măsurători), situat în CALEA ŞERBAN VODĂ NR. 86-88, Sector 4, București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_176_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-177-2021",
+   "path": "local/bucuresti/sector-4/2021/177",
+   "short": "HCLS4 nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 177/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_177_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-178-2021",
+   "path": "local/bucuresti/sector-4/2021/178",
+   "short": "HCLS4 nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 178/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_178_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-179-2021",
+   "path": "local/bucuresti/sector-4/2021/179",
+   "short": "HCLS4 nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 179/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_179_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-18-2021",
+   "path": "local/bucuresti/sector-4/2021/18",
+   "short": "HCLS4 nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 18/2021 pentru modificarea Hotărârii Consililului Local Sector 4 nr. 141/30.05.2018 privind aprobarea indicatorilor tehnico - economici pentru cele 9 componente din cererea de finanțare „Creșterea Performanței Energetice pentru blocurile de locuințe din Sectorul 4 al Municipiului București – CPE2”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_18_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-180-2021",
+   "path": "local/bucuresti/sector-4/2021/180",
+   "short": "HCLS4 nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 180/2021 privind aprobarea Planului Urbanistic de Detaliu, pentru CONSTRUIRE IMOBIL LOCUINŢE COLECTIVE P+5E CU SPAŢIU COMERCIAL ŞI PARCARE LA PARTER, pe terenul proprietate particulară în suprafață de 362 mp, situat în ŞOS. GIURGIULUI NR. 27, Sector 4, București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_180_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-181-2021",
+   "path": "local/bucuresti/sector-4/2021/181",
+   "short": "HCLS4 nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 181/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_181_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-182-2021",
+   "path": "local/bucuresti/sector-4/2021/182",
+   "short": "HCLS4 nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 182/2021 pentru aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții, privind amenajare birouri în spațiul situat în B-dul Metalurgiei, Nr. 12-18, Grand Arena, Et. 1, Sector 4, București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_182_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-183-2021",
+   "path": "local/bucuresti/sector-4/2021/183",
+   "short": "HCLS4 nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 183/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 68 din 26.05.2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 160.000.000 lei, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_183_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-184-2021",
+   "path": "local/bucuresti/sector-4/2021/184",
+   "short": "HCLS4 nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 184/2021 privind aprobarea numărului de burse și cuantumului acestora acordate elevilor din unitățile de învățământ de stat din Sectorul 4 al Municipiului București, în semestrul I pentru anul școlar 2021-2022",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_184_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-185-2021",
+   "path": "local/bucuresti/sector-4/2021/185",
+   "short": "HCLS4 nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 185/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: „Supraveghere video în vederea reducerii criminalității pe raza Sectorului 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_185_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-186-2021",
+   "path": "local/bucuresti/sector-4/2021/186",
+   "short": "HCLS4 nr. 186/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 186/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr.39/26.03.2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: Modernizarea, reabilitarea și obținerea autorizației de funcționare pentru ”Colegiul Național Mihai Eminescu”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_186_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-187-2021",
+   "path": "local/bucuresti/sector-4/2021/187",
+   "short": "HCLS4 nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 187/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_187_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-188-2021",
+   "path": "local/bucuresti/sector-4/2021/188",
+   "short": "HCLS4 nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 188/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 166/25.11.2021 privind participarea Sectorului 4 al Municipiului București la sesiunea de finanțare 2021 din cadrul „Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” și aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: „Rețea stații de încărcare pentru vehicule electrice pe raza Sectorului 4, București”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_188_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-189-2021",
    "path": "local/bucuresti/sector-4/2021/189",
    "short": "HCLS4 nr. 189/2021",
@@ -163,6 +1498,126 @@
      "from": "2021-12-20",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_189_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-19-2021",
+   "path": "local/bucuresti/sector-4/2021/19",
+   "short": "HCLS4 nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 19/2021 pentru îndreptarea erorilor materiale privind denumirea unor obiective de investiții - blocuri de locuințe de pe raza Sectorului 4 al Municipiului București, menționate în hotărâri ale Consiliului Local Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_19_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-190-2021",
+   "path": "local/bucuresti/sector-4/2021/190",
+   "short": "HCLS4 nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 190/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4 ca, în numele și pentru Municipiul București, să participe la realizarea obiectivului de investitii – Construire Canal Colector Cheile Turzii, inclusiv prin asocierea cu alte autorități/entități",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_190_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-191-2021",
+   "path": "local/bucuresti/sector-4/2021/191",
+   "short": "HCLS4 nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 191/2021 pentru aprobarea înființării Direcției pentru Digitalizare și Regenerare Urbană Sector 4 precum și aprobarea numărului de posturi la nivelul subdiviziunii administrativ-teritoriale Sectorul 4 al municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_191_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-192-2021",
+   "path": "local/bucuresti/sector-4/2021/192",
+   "short": "HCLS4 nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 192/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 68 din 26.05.2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 160.000.000 lei, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_192_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-193-2021",
+   "path": "local/bucuresti/sector-4/2021/193",
+   "short": "HCLS4 nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 193/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: ”Reabilitare/modernizare sistem rutier, amenajări spații urbane, extindere de la două la patru benzi de circulație a Bulevardului Metalurgiei, tronson cuprins între sensul giratoriu Metro Berceni și Șoseaua Berceni”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_193_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-194-2021",
+   "path": "local/bucuresti/sector-4/2021/194",
+   "short": "HCLS4 nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 194/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_194_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-195-2021",
+   "path": "local/bucuresti/sector-4/2021/195",
+   "short": "HCLS4 nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 195/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_195_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-196-2021",
+   "path": "local/bucuresti/sector-4/2021/196",
+   "short": "HCLS4 nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 196/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_196_.pdf",
      "sha256": null
     }
    ]
@@ -183,6 +1638,111 @@
    ]
   },
   {
+   "slug": "hcls4-198-2021",
+   "path": "local/bucuresti/sector-4/2021/198",
+   "short": "HCLS4 nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 198/2021 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 55/12.04.2021 privind organizarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular, la nivelul Sectorului 4, în anul şcolar 2021-2022",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_198_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-199-2021",
+   "path": "local/bucuresti/sector-4/2021/199",
+   "short": "HCLS4 nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 199/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_199_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-2-2021",
+   "path": "local/bucuresti/sector-4/2021/2",
+   "short": "HCLS4 nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 2/2021 privind alegerea viceprimarilor sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_2_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-20-2021",
+   "path": "local/bucuresti/sector-4/2021/20",
+   "short": "HCLS4 nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2021 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 4 în Consiliul pentru Dezvoltare Regională în Bucureşti-Ilfov",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_20_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-200-2021",
+   "path": "local/bucuresti/sector-4/2021/200",
+   "short": "HCLS4 nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 200/2021 pentru modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 346/2018, privind stabilirea salariilor de bază la nivelul Sectorului 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_200_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-201-2021",
+   "path": "local/bucuresti/sector-4/2021/201",
+   "short": "HCLS4 nr. 201/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 201/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_201_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-202-2021",
+   "path": "local/bucuresti/sector-4/2021/202",
+   "short": "HCLS4 nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 202/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_202_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-203-2021",
    "path": "local/bucuresti/sector-4/2021/203",
    "short": "HCLS4 nr. 203/2021",
@@ -193,6 +1753,21 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_203_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-204-2021",
+   "path": "local/bucuresti/sector-4/2021/204",
+   "short": "HCLS4 nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 204/2021 privind reorganizarea Aparatului de Specialitate al Primarului Sectorului 4 al municipiului București, aprobarea Organigramei, a Statului de Funcții și a Regulamentului de Organizare și Funcționare ale acestuia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_204_.pdf",
      "sha256": null
     }
    ]
@@ -213,6 +1788,186 @@
    ]
   },
   {
+   "slug": "hcls4-206-2021",
+   "path": "local/bucuresti/sector-4/2021/206",
+   "short": "HCLS4 nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 206/2021 privind aprobarea ,,Listei cu ordinea de prioritatea cererilor înregistrate în anul 2021, în vederea atribuirii unei locuințe sociale”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_206_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-207-2021",
+   "path": "local/bucuresti/sector-4/2021/207",
+   "short": "HCLS4 nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 207/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr.57/11.05.2020 privind aprobarea indicatorilor tehnico-economici - la faza Studiu de Fezabilitate - pentru obiectivul de investiții construire pasaj rutier suprateran intersecția strada Turnu Măgurele x B-dul Metalurgiei x B-dul Alexandru Obregia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_207_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-208-2021",
+   "path": "local/bucuresti/sector-4/2021/208",
+   "short": "HCLS4 nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 208/2021 pentru modificarea Anexei 32 la Hotărârea Consiliului Local Sector 4 nr. 74/22.06.2020privind aprobarea indicatorilor tehnico-economici – la faza Studiu de Fezabilitate – pentru eficientizarea energetică a blocurilor de locuințe de pe raza Sectorului 4 și alte obiective de investiții, precum și reactualizarea indicatorilor tehnico-economici pentru obiective de investiții de pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_208_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-209-2021",
+   "path": "local/bucuresti/sector-4/2021/209",
+   "short": "HCLS4 nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 209/2021 privind aprobarea indicatorilor tehnico-economici, faza studiu de fezabilitate, pentru proiectul Sistematizarea, dezvoltarea si implementarea modului smart al parcarilor din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_209_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-21-2021",
+   "path": "local/bucuresti/sector-4/2021/21",
+   "short": "HCLS4 nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 21/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_21_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-210-2021",
+   "path": "local/bucuresti/sector-4/2021/210",
+   "short": "HCLS4 nr. 210/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 210/2021 privind reorganizarea activităţii şi aprobarea Organigramei, Statului de Funcţii şi Regulamentului de Organizare şi Funcţionare ale Direcţiei Generale de Evidenţă a Persoanelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_210_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-211-2021",
+   "path": "local/bucuresti/sector-4/2021/211",
+   "short": "HCLS4 nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 211/2021 privind reorganizarea activității și aprobarea structurii organizatorice a Direcției Generale de Asistență Socială și Protecția Copilului Sector 4 și prevederea creșelor ca instituții publice cu personalitate juridică în subordinea Consiliului Local Sector 4 și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_211_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-212-2021",
+   "path": "local/bucuresti/sector-4/2021/212",
+   "short": "HCLS4 nr. 212/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 212/2021 privind aprobarea Organigramei, a Statului de Funcții și a Regulamentului de Organizare și Funcționare ale Direcției pentru Digitalizare și Regenerare Urbană Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_212_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-213-2021",
+   "path": "local/bucuresti/sector-4/2021/213",
+   "short": "HCLS4 nr. 213/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 213/2021 privind reorganizarea activității și aprobarea Organigramei, Statului de Funcții și Regulamentului de Organizare și Funcționare ale Direcției Mobilitate Urbană Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=47",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_213_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-22-2021",
+   "path": "local/bucuresti/sector-4/2021/22",
+   "short": "HCLS4 nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2021 privind reorganizarea Direcției Generale de Impozite și Taxe Locale Sector 4, aprobarea Organigramei, Statului de funcții și a Regulamentului de Organizare și Funcționare ale acesteia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_22_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-23-2021",
+   "path": "local/bucuresti/sector-4/2021/23",
+   "short": "HCLS4 nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 23/2021 privind reorganizarea activității și aprobarea Organigramei, Statului de Funcții și Regulamentului de Organizare și Funcționare ale Centrului European Cultural şi de Tineret pentru UNESCO “Nicolae Bălcescu”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_23_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-24-2021",
+   "path": "local/bucuresti/sector-4/2021/24",
+   "short": "HCLS4 nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 24/2021 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local al Sectorului 4 nr. 347/27.12.2018 pentru aprobarea Regulmentului, procedurii și modelului de contract privind parcările/parcajele publice aflate în administrarea Sectorului 4 al Municipiului București, prin Direcția Mobilitate Urbană Sector 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_24_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-25-2021",
    "path": "local/bucuresti/sector-4/2021/25",
    "short": "HCLS4 nr. 25/2021",
@@ -223,6 +1978,186 @@
      "from": "2021-02-12",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_25_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-26-2021",
+   "path": "local/bucuresti/sector-4/2021/26",
+   "short": "HCLS4 nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 26/2021 privind aprobarea Regulamentului de organizare și funcționare a Comisiei de evaluare a persoanelor adulte cu handicap sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_26_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-27-2021",
+   "path": "local/bucuresti/sector-4/2021/27",
+   "short": "HCLS4 nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 27/2021 privind revocarea Hotărârii Consiliului Local Sector 4 nr. 51/31.10.2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_27_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-28-2021",
+   "path": "local/bucuresti/sector-4/2021/28",
+   "short": "HCLS4 nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 28/2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în consiliile de administraţie ale unităţilor de învăţământ preuniversitar de stat și particular din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_28_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-29-2021",
+   "path": "local/bucuresti/sector-4/2021/29",
+   "short": "HCLS4 nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 29/2021 privind încetarea de drept a unui mandat de consilier local, precum și vacantarea locului consilierului local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_29_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-3-2021",
+   "path": "local/bucuresti/sector-4/2021/3",
+   "short": "HCLS4 nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 3/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al Sectorului 4 pe o perioadă de 3 luni, respectiv 01.02.2021 – 30.04.2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_3_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-30-2021",
+   "path": "local/bucuresti/sector-4/2021/30",
+   "short": "HCLS4 nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 30/2021 pentru modificarea și completarea Anexei 4 din Hotărârea Consiliului Local al Sectorului 4 nr.129/30.09.2020 privind aprobarea indicatorilor tehnico-economici – la faza Studiu de Fezabilitate – pentru obiective de investiții privind creșterea siguranței traficului pietonal și fluidizarea circulației rutiere pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_30_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-31-2021",
+   "path": "local/bucuresti/sector-4/2021/31",
+   "short": "HCLS4 nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 31/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_31_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-32-2021",
+   "path": "local/bucuresti/sector-4/2021/32",
+   "short": "HCLS4 nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 32/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_32_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-33-2021",
+   "path": "local/bucuresti/sector-4/2021/33",
+   "short": "HCLS4 nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2021 pentru modificarea Hotărârii Consiliului Local al Sectorului 4 nr. 300/11.12.2019 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică „Edificare parc în zona de sud a Mun. București – Bulevardul Metalurgiei”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_33_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-34-2021",
+   "path": "local/bucuresti/sector-4/2021/34",
+   "short": "HCLS4 nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 34/2021 pentru modificarea Anexei 32 la Hotărârea Consiliului Local Sector 4 nr. 74/22.06.2020 privind aprobarea indicatorilor tehnico-economici – la faza Studiu de Fezabilitate – pentru eficientizarea energetică a blocurilor de locuințe de pe raza Sectorului 4 și alte obiective de investiții, precum și reactualizarea indicatorilor tehnico-economici pentru obiective de investiții de pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_34_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-35-2021",
+   "path": "local/bucuresti/sector-4/2021/35",
+   "short": "HCLS4 nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 35/2021 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică „Extinderea nodului intermodal Șos. Berceni – Stație metrou cu o parcare, conectată la accesul E aferent proiectului Edificarea unei stații de metrou la nivel suprateran situată între stația de metrou Berceni și Șoseaua de Centură cod SMIS 137950, finanțat prin POIM 2014-2020.”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_35_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-36-2021",
+   "path": "local/bucuresti/sector-4/2021/36",
+   "short": "HCLS4 nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 36/2021 pentru modificarea și completarea Anexei nr.16, Anexei nr.72 și Anexei nr.78 din Hotărârea Consiliului Local al Sectorului 4 nr.169/21.12.2020 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2020 și modificarea, completarea și aprobarea indicatorilor tehnico-economici pentru obiective de investiții de pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_36_.pdf",
      "sha256": null
     }
    ]
@@ -243,6 +2178,111 @@
    ]
   },
   {
+   "slug": "hcls4-38-2021",
+   "path": "local/bucuresti/sector-4/2021/38",
+   "short": "HCLS4 nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 38/2021 pentru completarea Hotărârii Consiliului Local Sector 4 nr. 28/12.02.2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în consiliile de administraţie ale unităţilor de învăţământ preuniversitar de stat și particular din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_38_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-39-2021",
+   "path": "local/bucuresti/sector-4/2021/39",
+   "short": "HCLS4 nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 39/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_39_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-4-2021",
+   "path": "local/bucuresti/sector-4/2021/4",
+   "short": "HCLS4 nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 4/2021 privind componența Comisiei nr. 1 - Comisia pentru activități economico-financiare, buget și finanțe, comerț, fonduri europene, mediul de afaceri și transparență financiară",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_4_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-40-2021",
+   "path": "local/bucuresti/sector-4/2021/40",
+   "short": "HCLS4 nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 40/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_40_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-41-2021",
+   "path": "local/bucuresti/sector-4/2021/41",
+   "short": "HCLS4 nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 41/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_41_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-42-2021",
+   "path": "local/bucuresti/sector-4/2021/42",
+   "short": "HCLS4 nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 42/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_42_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-43-2021",
+   "path": "local/bucuresti/sector-4/2021/43",
+   "short": "HCLS4 nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 43/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_43_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-44-2021",
    "path": "local/bucuresti/sector-4/2021/44",
    "short": "HCLS4 nr. 44/2021",
@@ -253,6 +2293,81 @@
      "from": "2021-03-25",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_44_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-45-2021",
+   "path": "local/bucuresti/sector-4/2021/45",
+   "short": "HCLS4 nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2021 privind alegerea viceprimarilor sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_45_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-46-2021",
+   "path": "local/bucuresti/sector-4/2021/46",
+   "short": "HCLS4 nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 46/2021 pentru solicitarea acordului Consiliului General al Municipiului București privind transmiterea din administrarea Consiliului General al Municipiului București prin Administrația Străzilor în administrarea Consiliului Local al Sectorului 4 a Pieței Eroii Revoluției, în scopul continuării lucrărilor aferente proiectului \"Modernizare Piata Eroii Revolutiei si pasaj pietonal\", precum și predarea integrală a documentației elaborate până în prezent",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_46_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-47-2021",
+   "path": "local/bucuresti/sector-4/2021/47",
+   "short": "HCLS4 nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 47/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_47_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-48-2021",
+   "path": "local/bucuresti/sector-4/2021/48",
+   "short": "HCLS4 nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 48/2021 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică „Construire pasaj rutier suprateran la intersecția Str. Turnu Magurele - Bd. Metalurgiei - Bd. Alexandru Obregia”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_48_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-49-2021",
+   "path": "local/bucuresti/sector-4/2021/49",
+   "short": "HCLS4 nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 49/2021 privind aprobarea Statutului Asociației de dezvoltare intercomunitară pentru gestionarea integrată a deșeurilor municipale in Municipiul București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_49_.pdf",
      "sha256": null
     }
    ]
@@ -288,6 +2403,381 @@
    ]
   },
   {
+   "slug": "hcls4-51-2021",
+   "path": "local/bucuresti/sector-4/2021/51",
+   "short": "HCLS4 nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 51/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_51_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-52-2021",
+   "path": "local/bucuresti/sector-4/2021/52",
+   "short": "HCLS4 nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 52/2021 privind modificarea Anexei la HCL S4 nr. 213/2018 privind aprobarea contractarii unei/unor finantari rambursabile interne in valoare de pana la 268.034.074,41 lei in vederea asigurarii prefinantarii si/sau cofinantarii proiectelor care beneficiaza de finantare nerambursabila de la Uniunea Europeana prin Programul Operational Regional 2014-2020, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_52_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-53-2021",
+   "path": "local/bucuresti/sector-4/2021/53",
+   "short": "HCLS4 nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 53/2021 privind aprobarea Planului anual de acţiuni şi lucrări de interes local pentru repartizarea și efectuarea orelor de muncă, pe anul 2021, de către beneficiarii Legii nr. 416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_53_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-54-2021",
+   "path": "local/bucuresti/sector-4/2021/54",
+   "short": "HCLS4 nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 54/2021 pentru modificarea Anexei nr. 1 a Hotărârii Consiliului Local Sector 4 nr.184/29.12.2020 privind reorganizarea Aparatului de Specialitate al Primarului Sectorului 4, aprobarea Organigramei, Statului de funcţii şi Regulamentului de Organizare şi Funcţionare ale acestuia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_54_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-55-2021",
+   "path": "local/bucuresti/sector-4/2021/55",
+   "short": "HCLS4 nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 55/2021 privind organizarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular, la nivelul Sectorului 4, în anul şcolar 2021-2022",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_55_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-56-2021",
+   "path": "local/bucuresti/sector-4/2021/56",
+   "short": "HCLS4 nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 56/2021 pentru îndreptarea unor erori din Hotărârea Consiliului Local Sector 4 nr. 12/12.02.2021 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_56_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-57-2021",
+   "path": "local/bucuresti/sector-4/2021/57",
+   "short": "HCLS4 nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 57/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_57_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-58-2021",
+   "path": "local/bucuresti/sector-4/2021/58",
+   "short": "HCLS4 nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 58/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_58_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2021",
+   "path": "local/bucuresti/sector-4/2021/59",
+   "short": "HCLS4 nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_59_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-6-2021",
+   "path": "local/bucuresti/sector-4/2021/6",
+   "short": "HCLS4 nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 6/2021 privind componența Comisiei nr. 3 - Comisia pentru protecţia mediului înconjurător, ecologie, salubrizare, economie circulară, mobilitate urbană, gospodărire comunală și administrarea piețelor",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_6_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-60-2021",
+   "path": "local/bucuresti/sector-4/2021/60",
+   "short": "HCLS4 nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 60/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_60_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-61-2021",
+   "path": "local/bucuresti/sector-4/2021/61",
+   "short": "HCLS4 nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 61/2021 privind aprobarea Planului Urbanistic de Detaliu, pentru CONSTRUIRE LOCUINŢĂ UNIFAMILIALĂ P+1E+E2R, pe terenul proprietate particulară în suprafață de 855 mp, aparținând ................., situat în Intr. SERELOR nr. 83-85, Sector 4, București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_61_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-62-2021",
+   "path": "local/bucuresti/sector-4/2021/62",
+   "short": "HCLS4 nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 62/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_62_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-63-2021",
+   "path": "local/bucuresti/sector-4/2021/63",
+   "short": "HCLS4 nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 63/2021 privind aprobarea bugetului general consolidat de venituri și cheltuieli al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_63_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-64-2021",
+   "path": "local/bucuresti/sector-4/2021/64",
+   "short": "HCLS4 nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 64/2021 privind aprobarea numărului de burse și cuantumului acestora acordate elevilor din unitățile de învățământ de stat din Sectorul 4 al Municipiului București, în semestrul al II-lea pentru anul școlar 2020-2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_64_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-65-2021",
+   "path": "local/bucuresti/sector-4/2021/65",
+   "short": "HCLS4 nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 65/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al Sectorului 4 pe o perioadă de 3 luni, respectiv 01.05.2021 – 31.07.2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_65_-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-66-2021",
+   "path": "local/bucuresti/sector-4/2021/66",
+   "short": "HCLS4 nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 66/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local Sector 4, de a hotărî cu privire la cooperarea, înfrățirea și semnarea Înțelegerii de cooperare dintre Sectorul 4 al Municipiului București prin Primarul Sectorului 4 cu Pretura Sectorului Buiucani, Municipiul Chișinău, Republica Moldova",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_66_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-67-2021",
+   "path": "local/bucuresti/sector-4/2021/67",
+   "short": "HCLS4 nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 67/2021 privind desemnarea reprezentanților Consiliului Local Sector 4 în Adunarea Generală a Acționarilor societății Totul Verde. S.A",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_67_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-68-2021",
+   "path": "local/bucuresti/sector-4/2021/68",
+   "short": "HCLS4 nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 68/2021 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 108.895.000 lei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_68_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-69-2021",
+   "path": "local/bucuresti/sector-4/2021/69",
+   "short": "HCLS4 nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 69/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 109 din 10.06.2019 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 100.000.000 lei, în vederea asigurării finanțării investițiilor publice de interes local, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_69_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-7-2021",
+   "path": "local/bucuresti/sector-4/2021/7",
+   "short": "HCLS4 nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 7/2021 privind componența Comisiei nr. 4 - Comisia de învățământ, activități științifice, cultură și culte, tineret, sport și activități de agrement",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_7_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-70-2021",
+   "path": "local/bucuresti/sector-4/2021/70",
+   "short": "HCLS4 nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 70/2021 privind aprobarea indicatorilor tehnico-economici pentru două obiective de interes public privind modernizarea sistemului rutier de pe raza Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_70_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-71-2021",
+   "path": "local/bucuresti/sector-4/2021/71",
+   "short": "HCLS4 nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 71/2021 pentru aprobarea depunerii cererii de finantare „Regenerare ZUM – Construirea unei cladiri cu functiunea Centru de zi” si aprobarea indicatorilor tehnico-economici in cadrul apelului de proiecte POR/2019/9/9.1/1/BI",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_71_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-72-2021",
+   "path": "local/bucuresti/sector-4/2021/72",
+   "short": "HCLS4 nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 72/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_72_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-73-2021",
+   "path": "local/bucuresti/sector-4/2021/73",
+   "short": "HCLS4 nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 73/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: ”Lucrări de consolidare, creșterea eficienței energetice, modernizări, obținerea autorizației de securitate la incendiu, refacere împrejmuire” pentru unitățile de învățământ preuniversitar de stat din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_73_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-74-2021",
    "path": "local/bucuresti/sector-4/2021/74",
    "short": "HCLS4 nr. 74/2021",
@@ -318,6 +2808,261 @@
    ]
   },
   {
+   "slug": "hcls4-76-2021",
+   "path": "local/bucuresti/sector-4/2021/76",
+   "short": "HCLS4 nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_76_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-77-2021",
+   "path": "local/bucuresti/sector-4/2021/77",
+   "short": "HCLS4 nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 77/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: Amenajare spații verzi și teren de sport în incinta Școlii Gimnaziale nr.190",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_77_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-78-2021",
+   "path": "local/bucuresti/sector-4/2021/78",
+   "short": "HCLS4 nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 78/2021 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică „Amenajare spații verzi și teren de sport în incinta Școlii Gimnaziale nr. 190, sector 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_78_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-79-2021",
+   "path": "local/bucuresti/sector-4/2021/79",
+   "short": "HCLS4 nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 79/2021 pentru îndreptarea erorilor strecurate în Raportul comun de Specialitate nr P.7/1311/11.12.2020, în Anexa nr. 1 (Organigrama), Anexa nr 2 (Statul de Funcții) si Anexa 3 (Regulamentului de Organizare și Funcționare) ale Hotărârii Consiliului Local Sector 4 nr.184/29.12.2020 privind reorganizarea Aparatului de Specialitate al Primarului Sectorului 4, aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_79_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-8-2021",
+   "path": "local/bucuresti/sector-4/2021/8",
+   "short": "HCLS4 nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 8/2021 privind componența Comisiei nr. 5 - Comisia pentru utilități publice, organizarea instituțiilor și serviciilor publice de interes local și turism",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_8_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-80-2021",
+   "path": "local/bucuresti/sector-4/2021/80",
+   "short": "HCLS4 nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 80/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_80_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-81-2021",
+   "path": "local/bucuresti/sector-4/2021/81",
+   "short": "HCLS4 nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2021 pentru modificarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 10/08.02.2021 privind componența Comisiei nr. 7 - Comisia pentru muncă, sănătate, familie, protecție socială, protecția copilului, minorități și relația cu societatea civilă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_81_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-82-2021",
+   "path": "local/bucuresti/sector-4/2021/82",
+   "short": "HCLS4 nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 82/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 168/18.12.2020 privind aprobarea componenţei Comisiei Locale de Ordine Publică la nivelul Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_82_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-83-2021",
+   "path": "local/bucuresti/sector-4/2021/83",
+   "short": "HCLS4 nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 83/2021 pentru modificarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 192/29.12.2020 privind desemnarea consilierilor locali care vor face parte din Comisia de Analiză a Cererilor și de Repartizare a Locuințelor din fondul locativ de stat, aflate în administrarea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_83_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-84-2021",
+   "path": "local/bucuresti/sector-4/2021/84",
+   "short": "HCLS4 nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 84/2021 pentru completarea Hotărârii Consiliului Local Sector 4 nr. 28/12.02.2021 privind desemnarea reprezentanţilor Consiliului Local Sector 4 în consiliile de administraţie ale unităţilor de învăţământ preuniversitar de stat și particular din sectorul 4, cu completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/06/H_84_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-85-2021",
+   "path": "local/bucuresti/sector-4/2021/85",
+   "short": "HCLS4 nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 85/2021 pentru modificarea Hotărârii Consiliului Local Sector 4 nr. 49/12.04.2021 precum și a Hotărârii Consiliului Local Sector 4 nr. 110/30.09.2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_85_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-86-2021",
+   "path": "local/bucuresti/sector-4/2021/86",
+   "short": "HCLS4 nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 86/2021 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 4 de a hotărî cu privire la cooperarea dintre Sectorul 4 al Municipiului București și Federația Română de Judo",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_86_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-87-2021",
+   "path": "local/bucuresti/sector-4/2021/87",
+   "short": "HCLS4 nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 87/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_87_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-88-2021",
+   "path": "local/bucuresti/sector-4/2021/88",
+   "short": "HCLS4 nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 88/2021 pentru îndreptarea erorii materiale privind denumirea obiectivului de investiții din Hotărârea Consiliului Local al Sectorului 4 nr. 148/14.10.2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: “Reconfigurare și extindere sistem rutier aferent obiectivului Supralărgire Șos. Berceni (Șos. Olteniței până la limita administrativă – Șos. Centură): Tronson II - str. Ion Iriceanu și stația metrou IMGB (supralărgire), Tronson III - stația de metrou IMGB și linia de centură în vederea coordonării cu alte obiective de investiții de utilitate publică demarate în zonă”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_88_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-89-2021",
+   "path": "local/bucuresti/sector-4/2021/89",
+   "short": "HCLS4 nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 89/2021 pentru aprobarea proiectului „Vara în...Grădiniță” și a stimulentelor financiare pentru personalul implicat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_89_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-9-2021",
+   "path": "local/bucuresti/sector-4/2021/9",
+   "short": "HCLS4 nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 9/2021 privind componența Comisiei nr. 6 - Comisia juridică, de disciplină, apărarea ordinii publice, respectarea drepturilor cetăţeneşti, resurse umane, administrarea patrimoniului, protecția consumatorului",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_9_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-90-2021",
+   "path": "local/bucuresti/sector-4/2021/90",
+   "short": "HCLS4 nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 90/2021 privind constatarea și aprobarea suprafețelor unităților de învățământ preuniversitar și special de stat de pe raza sectorului 4, referitor la imobile teren și clădiri",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_90_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-91-2021",
    "path": "local/bucuresti/sector-4/2021/91",
    "short": "HCLS4 nr. 91/2021",
@@ -328,6 +3073,126 @@
      "from": "2021-06-30",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_91_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-92-2021",
+   "path": "local/bucuresti/sector-4/2021/92",
+   "short": "HCLS4 nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 92/2021 pentru îndreptarea erorii materiale privind denumirea obiectivului de investiții din Hotărârea Consiliului Local al Sectorului 4 nr. 247/29.10.2019 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții “Modernizare, reabilitare și obținere a autorizației de funcționare pentru Liceul Dacia – corp situat în B-dul Metalurgiei și a sălii de sport din incintă” și din Anexa nr. 36 la Hotărârea Consiliului Local al Sectorului 4 nr. 92/16.07.2020 privind aprobarea indicatorilor tehnico-economici - la faza Proiect Tehnic - pentru obiective de investiții de pe raza Sectorului 4, pentru creșterea performanței energetice a blocurilor de locuințe și aprobarea indicatorilor tehnico-economici în urma revizuirii proiectelor tehnice pentru alte obiective de investiții de pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_92_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-93-2021",
+   "path": "local/bucuresti/sector-4/2021/93",
+   "short": "HCLS4 nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 93/2021 pentru modificarea și completarea Hotărârii Consiliului Local nr. 22/12.02.2021 privind reorganizarea Direcției Generale de Impozite și Taxe Locale Sector 4, aprobarea Organigramei, Statului de funcții și a Regulamentului de Organizare și Funcționare ale acesteia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_93_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-94-2021",
+   "path": "local/bucuresti/sector-4/2021/94",
+   "short": "HCLS4 nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 94/2021 privind transmiterea din administrarea Direcției Generale de Asistență Socială și Protecția Copilului Sector 4 în administrarea Consiliului Local Sector 4 prin Sectorul 4 al Municipiului București, a imobilului situat in B-dul. Metalurgiei nr. 89, Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_94_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-95-2021",
+   "path": "local/bucuresti/sector-4/2021/95",
+   "short": "HCLS4 nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 95/2021 privind aprobarea “Listei cu ordinea de prioritate ce cuprinde cererile depuse și actualizate în anul 2020 în vederea atribuirii unei locuințe sociale”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_95_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-96-2021",
+   "path": "local/bucuresti/sector-4/2021/96",
+   "short": "HCLS4 nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 96/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_96_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-97-2021",
+   "path": "local/bucuresti/sector-4/2021/97",
+   "short": "HCLS4 nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 97/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_97_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-98-2021",
+   "path": "local/bucuresti/sector-4/2021/98",
+   "short": "HCLS4 nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 98/2021 privind rectificarea bugetului local al Sectorului 4 al Municipiului București pentru anul 2021",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_98_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-99-2021",
+   "path": "local/bucuresti/sector-4/2021/99",
+   "short": "HCLS4 nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 99/2021 pentru modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 171/21.12.2020 privind aprobarea contractării și garantării unei/unor finanțări rambursabile interne și/sau externe în baza garanțiilor proprii, în valoare de până la 32.000.000 euro, sau echivalentul în lei, în vederea finanțării și/sau cofinanțării proiectelor de investiții publice de interes local, inclusiv a celor ce beneficiază de fonduri externe nerambursabile de la Uniunea Europeană",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_99_.pdf",
      "sha256": null
     }
    ]

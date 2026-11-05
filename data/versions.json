@@ -105125,6 +105125,21 @@
    ]
   },
   {
+   "slug": "legea-164-1999",
+   "path": "lege/1999/164",
+   "short": "Legea nr. 164/1999",
+   "title": "Legea nr. 164/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 54/1998 pentru finalizarea procesului de privatizare cu titlu gratuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19841",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19841",
+     "sha256": "dae2d8aeeb7095c23a4e6ccb53b119c7f5f80ef27168c2baf20ed04623154b1f"
+    }
+   ]
+  },
+  {
    "slug": "legea-164-2000",
    "path": "lege/2000/164",
    "short": "Legea nr. 164/2000",
@@ -225908,6 +225923,21 @@
    ]
   },
   {
+   "slug": "oug-174-1999",
+   "path": "oug/1999/174",
+   "short": "OUG nr. 174/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 174/1999 privind acordarea unui sprijin financiar Fundaţiei Atletismul Românesc (Fundaţia Română de Atletism)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19813",
+   "versions": [
+    {
+     "from": "1999-11-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19813",
+     "sha256": "57b35c65c1c6e91e6a1e9f19d489b7d2b366a7d5943e23fdb1348486c10ad4bd"
+    }
+   ]
+  },
+  {
    "slug": "oug-174-2000",
    "path": "oug/2000/174",
    "short": "OUG nr. 174/2000",
@@ -226198,6 +226228,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262817",
      "sha256": "54a916d615aa7ddecc6dce65d972174cb79cc6f102269725244fd1f102223c19"
+    }
+   ]
+  },
+  {
+   "slug": "oug-178-1999",
+   "path": "oug/1999/178",
+   "short": "OUG nr. 178/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 178/1999 privind majorarea capitalului social al băncilor cu capital majoritar privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19832",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19832",
+     "sha256": "83c41b0235c8a07aaf7fd14d8e98c1184153a46f57dfa27703943ba5e8cd0095"
     }
    ]
   },

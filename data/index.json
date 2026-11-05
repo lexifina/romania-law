@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 12418
+  "count": 12421
  },
  "shards": [
   {
@@ -749,12 +749,12 @@
   {
    "shard": "hg/1999",
    "kind": "hg",
-   "count": 192,
+   "count": 200,
    "acts": "data/acts/hg/1999.json",
    "list": "data/acts/hg/1999.md",
    "versions": "data/versions/hg/1999.json",
    "laws": "data/laws/hg/1999.csv",
-   "laws_count": 192,
+   "laws_count": 200,
    "sources": "data/sources/hg/1999.csv"
   },
   {
@@ -2377,78 +2377,78 @@
   {
    "shard": "local/bucuresti/sector-4/2016",
    "kind": "local",
-   "count": 16,
+   "count": 34,
    "acts": "data/acts/local/bucuresti/sector-4/2016.json",
    "list": "data/acts/local/bucuresti/sector-4/2016.md",
    "versions": "data/versions/local/bucuresti/sector-4/2016.json",
    "laws": "data/laws/local/bucuresti/sector-4/2016.csv",
-   "laws_count": 16,
+   "laws_count": 34,
    "sources": "data/sources/local/bucuresti/sector-4/2016.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2017",
    "kind": "local",
-   "count": 23,
+   "count": 384,
    "acts": "data/acts/local/bucuresti/sector-4/2017.json",
    "list": "data/acts/local/bucuresti/sector-4/2017.md",
    "versions": "data/versions/local/bucuresti/sector-4/2017.json",
    "laws": "data/laws/local/bucuresti/sector-4/2017.csv",
-   "laws_count": 23,
+   "laws_count": 384,
    "sources": "data/sources/local/bucuresti/sector-4/2017.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2018",
    "kind": "local",
-   "count": 19,
+   "count": 351,
    "acts": "data/acts/local/bucuresti/sector-4/2018.json",
    "list": "data/acts/local/bucuresti/sector-4/2018.md",
    "versions": "data/versions/local/bucuresti/sector-4/2018.json",
    "laws": "data/laws/local/bucuresti/sector-4/2018.csv",
-   "laws_count": 19,
+   "laws_count": 351,
    "sources": "data/sources/local/bucuresti/sector-4/2018.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2019",
    "kind": "local",
-   "count": 20,
+   "count": 320,
    "acts": "data/acts/local/bucuresti/sector-4/2019.json",
    "list": "data/acts/local/bucuresti/sector-4/2019.md",
    "versions": "data/versions/local/bucuresti/sector-4/2019.json",
    "laws": "data/laws/local/bucuresti/sector-4/2019.csv",
-   "laws_count": 20,
+   "laws_count": 320,
    "sources": "data/sources/local/bucuresti/sector-4/2019.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2020",
    "kind": "local",
-   "count": 10,
+   "count": 193,
    "acts": "data/acts/local/bucuresti/sector-4/2020.json",
    "list": "data/acts/local/bucuresti/sector-4/2020.md",
    "versions": "data/versions/local/bucuresti/sector-4/2020.json",
    "laws": "data/laws/local/bucuresti/sector-4/2020.csv",
-   "laws_count": 10,
+   "laws_count": 193,
    "sources": "data/sources/local/bucuresti/sector-4/2020.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2021",
    "kind": "local",
-   "count": 22,
+   "count": 213,
    "acts": "data/acts/local/bucuresti/sector-4/2021.json",
    "list": "data/acts/local/bucuresti/sector-4/2021.md",
    "versions": "data/versions/local/bucuresti/sector-4/2021.json",
    "laws": "data/laws/local/bucuresti/sector-4/2021.csv",
-   "laws_count": 22,
+   "laws_count": 213,
    "sources": "data/sources/local/bucuresti/sector-4/2021.csv"
   },
   {
    "shard": "local/bucuresti/sector-4/2022",
    "kind": "local",
-   "count": 241,
+   "count": 356,
    "acts": "data/acts/local/bucuresti/sector-4/2022.json",
    "list": "data/acts/local/bucuresti/sector-4/2022.md",
    "versions": "data/versions/local/bucuresti/sector-4/2022.json",
    "laws": "data/laws/local/bucuresti/sector-4/2022.csv",
-   "laws_count": 241,
+   "laws_count": 356,
    "sources": "data/sources/local/bucuresti/sector-4/2022.csv"
   },
   {

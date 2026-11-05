@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12418 acts, 23,932 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12421 acts, 23,935 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8337, of which 3129 amending acts)
+## Laws (legi) (8338, of which 3130 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -682,6 +682,7 @@
 | Legea nr. 155/1999 pentru ratificarea Tratatului de prietenie şi colaborare dintre România şi Republica Uzbekistan, semnat la Bucureşti la 6 iunie 1996 | [`lege/1999/155/`](lege/1999/155/) | amended, not consolidated | 1 | 1999-10-18 | 1999-10-18 |
 | Legea nr. 156/1999 pentru modificarea şi completarea Legii nr. 101/1998 privind Statutul Băncii Naţionale a României | [`lege/1999/156/`](lege/1999/156/) | amended, not consolidated | 1 | 1999-10-18 | 1999-10-18 |
 | Legea nr. 157/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/1998 privind unele măsuri pentru restructurarea Guvernului | [`lege/1999/157/`](lege/1999/157/) | amended, not consolidated | 1 | 1999-10-18 | 1999-10-18 |
+| Legea nr. 164/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 54/1998 pentru finalizarea procesului de privatizare cu titlu gratuit | [`lege/1999/164/`](lege/1999/164/) | amending act | 1 | 1999-11-11 | 1999-11-11 |
 | Legea nr. 165/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/1999 privind aprobarea primei de export la carnea de porc şi de pasăre | [`lege/1999/165/`](lege/1999/165/) | amended, not consolidated | 1 | 1999-11-12 | 1999-11-12 |
 | Legea nr. 166/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 69/1998 privind regimul de autorizare a activităţilor din domeniul jocurilor de noroc | [`lege/1999/166/`](lege/1999/166/) | amended, not consolidated | 1 | 1999-11-11 | 1999-11-11 |
 | Legea nr. 167/1999 pentru modificarea Legii nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`lege/1999/167/`](lege/1999/167/) | amending act | 1 | 1999-11-11 | 1999-11-11 |
@@ -8375,7 +8376,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2912, of which 670 amending acts)
+## Emergency ordinances (OUG) (2914, of which 670 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8509,7 +8510,9 @@
 | Ordonanța de urgență a Guvernului nr. 165/1999 pentru completarea alin. 1 al art. 5 din Ordonanţa Guvernului nr. 29/1994 privind constituirea şi utilizarea Fondului special pentru dezvoltarea sistemului energetic | [`oug/1999/165/`](oug/1999/165/) | amended, not consolidated | 1 | 1999-11-02 | 1999-11-02 |
 | Ordonanța de urgență a Guvernului nr. 170/1999 privind acordarea, în mod gratuit, a asistenţei medicale, medicamentelor şi protezelor pentru unele categorii de persoane prevăzute în legi speciale | [`oug/1999/170/`](oug/1999/170/) | amended, not consolidated | 1 | 1999-11-05 | 1999-11-05 |
 | Ordonanța de urgență a Guvernului nr. 172/1999 pentru modificarea şi completarea Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940 | [`oug/1999/172/`](oug/1999/172/) | amended, not consolidated | 1 | 1999-11-09 | 1999-11-09 |
+| Ordonanța de urgență a Guvernului nr. 174/1999 privind acordarea unui sprijin financiar Fundaţiei Atletismul Românesc (Fundaţia Română de Atletism) | [`oug/1999/174/`](oug/1999/174/) | in force | 1 | 1999-11-09 | 1999-11-09 |
 | Ordonanța de urgență a Guvernului nr. 177/1999 pentru modificarea şi completarea Ordonanţei de urgenta a Guvernului nr. 142/1999 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înfiinţării culturilor de cereale păioase şi efectuării arăturilor din toamna anului 1999 | [`oug/1999/177/`](oug/1999/177/) | amended, not consolidated | 1 | 1999-11-11 | 1999-11-11 |
+| Ordonanța de urgență a Guvernului nr. 178/1999 privind majorarea capitalului social al băncilor cu capital majoritar privat | [`oug/1999/178/`](oug/1999/178/) | in force | 1 | 1999-11-11 | 1999-11-11 |
 | Ordonanța de urgență a Guvernului nr. 180/1999 pentru modificarea Legii bugetului de stat pe anul 1999 nr. 36/1999 | [`oug/1999/180/`](oug/1999/180/) | amended, not consolidated | 1 | 1999-11-15 | 1999-11-15 |
 | Ordonanța de urgență a Guvernului nr. 181/1999 pentru modificarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 77/1999 privind unele măsuri pentru prevenirea incapacităţii de plată | [`oug/1999/181/`](oug/1999/181/) | amended, not consolidated | 1 | 1999-11-15 | 1999-11-15 |
 | Ordonanța de urgență a Guvernului nr. 182/1999 | [`oug/1999/182/`](oug/1999/182/) | in force | 2 | 1999-11-15 | 2002-04-30 |
@@ -12484,7 +12487,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28028 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28036 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12500,4 +12503,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 22553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 24053 | [`data/acts/local/`](data/acts/local/) |
