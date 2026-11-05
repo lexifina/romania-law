@@ -1,6 +1,6 @@
 # Every act in this repository
 
-63360 acts, 77,114 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+63366 acts, 77,120 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8344,7 +8344,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2894, of which 665 amending acts)
+## Emergency ordinances (OUG) (2896, of which 666 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8594,8 +8594,10 @@
 | Ordonanța de urgență a Guvernului nr. 184/2000 pentru modificarea şi completarea Legii nr. 16/2000 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional al Persoanelor Vârstnice | [`oug/2000/184/`](oug/2000/184/) | amended, not consolidated | 1 | 2000-11-09 | 2000-11-09 |
 | Ordonanța de urgență a Guvernului nr. 189/2000 privind stingerea unor obligaţii bugetare | [`oug/2000/189/`](oug/2000/189/) | amended, not consolidated | 1 | 2000-11-15 | 2000-11-15 |
 | Ordonanța de urgență a Guvernului nr. 190/2000 | [`oug/2000/190/`](oug/2000/190/) | in force | 8 | 2000-12-16 | 2018-03-16 |
+| Ordonanța de urgență a Guvernului nr. 192/2000 privind exceptarea de la plata accizelor a cantităţilor de 1.000 tone de benzina şi 300 tone de ulei mineral, acordate ca ajutor umanitar Republicii Moldova | [`oug/2000/192/`](oug/2000/192/) | in force | 1 | 2000-11-16 | 2000-11-16 |
 | Ordonanța de urgență a Guvernului nr. 194/2000 privind exceptarea de la plata taxei pentru ocuparea definitivă a unor terenuri din fondul forestier naţional | [`oug/2000/194/`](oug/2000/194/) | amended, not consolidated | 1 | 2000-11-16 | 2000-11-16 |
 | Ordonanța de urgență a Guvernului nr. 195/2000 privind scutirea de la plata taxelor vamale, precum şi a suprataxelor vamale pentru instalaţii, echipamente, utilaje şi părţi ale acestora, know-how, precum şi combustibili energetici care sunt importaţi prin credite externe contractate cu garanţia statului de companii şi societăţi naţionale, instituţii publice şi societăţi comerciale | [`oug/2000/195/`](oug/2000/195/) | amended, not consolidated | 1 | 2000-11-20 | 2000-11-20 |
+| Ordonanța de urgență a Guvernului nr. 198/2000 pentru aprobarea participării Consiliului Naţional al Audiovizualului la lucrările Platformei Europene a Autorităţilor de Reglementare în Domeniul Audiovizualului - EPRA | [`oug/2000/198/`](oug/2000/198/) | amending act | 1 | 2000-11-20 | 2000-11-20 |
 | Ordonanța de urgență a Guvernului nr. 199/2000 | [`oug/2000/199/`](oug/2000/199/) | in force | 13 | 2000-11-20 | 2024-07-29 |
 | Ordonanța de urgență a Guvernului nr. 200/2000 | [`oug/2000/200/`](oug/2000/200/) | in force | 4 | 2000-11-22 | 2006-09-03 |
 | Ordonanța de urgență a Guvernului nr. 202/2000 privind finanţarea continuării şi finalizării lucrărilor pentru Centrul Regional pentru Prevenirea şi Combaterea Infracţionalităţii Transfrontaliere (SECI) | [`oug/2000/202/`](oug/2000/202/) | in force | 1 | 2000-11-21 | 2000-11-21 |
@@ -12239,7 +12241,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (27246, of which 12650 amending acts)
+## Government decisions (HG) (27250, of which 12650 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13206,6 +13208,10 @@
 | Hotărârea Guvernului nr. 1034/2000 pentru modificarea şi completarea Hotărârii Guvernului nr. 778/2000 privind cheltuielile pentru organizarea şi desfăşurarea alegerii Camerei Deputaţilor, a Senatului şi a Preşedintelui României din anul 2000 | [`hg/2000/1034/`](hg/2000/1034/) | amended, not consolidated | 1 | 2000-11-10 | 2000-11-10 |
 | Hotărârea Guvernului nr. 1042/2000 privind modificarea cuantumului ajutorului bănesc şi a limitelor de venituri în funcţie de care acesta se acordă categoriilor defavorizate ale populaţiei ale căror locuinţe sunt racordate la sisteme centralizate de furnizare a energiei termice | [`hg/2000/1042/`](hg/2000/1042/) | amended, not consolidated | 1 | 2000-11-10 | 2000-11-10 |
 | Hotărârea Guvernului nr. 1043/2000 pentru aprobarea încheierii Contractului de cesiune cu Societatea Comercială "Argirom Internaţional" - S.A. în vederea recuperării creanţelor României rezultate din activitatea de comerţ exterior derulată până la data de 31 decembrie 1989 din Republica Angola | [`hg/2000/1043/`](hg/2000/1043/) | amended, not consolidated | 1 | 2000-11-20 | 2000-11-20 |
+| Hotărârea Guvernului nr. 1058/2000 privind darea în folosinţa gratuită Fundaţiei Umanitare "Columna", pe o perioadă de 5 ani, a unor imobile proprietate publică a statului, aflate în administrarea Ministerului Agriculturii şi Alimentaţiei, Direcţia Judeţeana pentru Ameliorare şi Reproducţie în Zootehnie Neamţ | [`hg/2000/1058/`](hg/2000/1058/) | in force | 1 | 2000-11-15 | 2000-11-15 |
+| Hotărârea Guvernului nr. 1061/2000 privind acordarea unor ajutoare | [`hg/2000/1061/`](hg/2000/1061/) | in force | 1 | 2000-11-14 | 2000-11-14 |
+| Hotărârea Guvernului nr. 1062/2000 privind acordarea unor ajutoare | [`hg/2000/1062/`](hg/2000/1062/) | in force | 1 | 2000-11-14 | 2000-11-14 |
+| Hotărârea Guvernului nr. 1063/2000 privind acoperirea unor cheltuieli ale unor instituţii şi unităţi de interes public | [`hg/2000/1063/`](hg/2000/1063/) | in force | 1 | 2000-11-15 | 2000-11-15 |
 | Hotărârea Guvernului nr. 1064/2000 pentru modificarea şi completarea Hotărârii Guvernului nr. 974/2000 privind alocarea unei sume din bugetul de stat pentru finanţarea construcţiei sediului Centrului de Cardiologie Craiova | [`hg/2000/1064/`](hg/2000/1064/) | amending act | 1 | 2000-11-16 | 2000-11-16 |
 | Hotărârea Guvernului nr. 1065/2000 privind aprobarea Statutului Casei Naţionale de Pensii şi Alte Drepturi de Asigurări Sociale | [`hg/2000/1065/`](hg/2000/1065/) | amended, not consolidated | 1 | 2000-11-17 | 2000-11-17 |
 | Hotărârea Guvernului nr. 1066/2000 pentru completarea Hotărârii Guvernului nr. 260/2000 privind aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului aflat în dificultate şi a Hotărârii Guvernului nr. 610/2000 privind aprobarea Programului în domeniul protecţiei drepturilor copilului "Susţinerea activităţii serviciilor publice specializate în cadrul cărora s-au reorganizat instituţiile prevăzute de Hotărârea Guvernului nr. 261/2000 " | [`hg/2000/1066/`](hg/2000/1066/) | amending act | 1 | 2000-11-15 | 2000-11-15 |
