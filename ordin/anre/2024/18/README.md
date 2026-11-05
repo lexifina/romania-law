@@ -1,8 +1,8 @@
 # Ordinul nr. 18/2024 pentru modificarea și completarea unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei privind piața de energie electrică
 
-Ordin anre nr. 18/2024 · 1 versions, from 2024-05-30 (latest in force: 2024-05-30) · <https://legislatie.just.ro/Public/DetaliiDocument/283389>
+Ordin anre nr. 18/2024 · 1 versions, from 2024-06-01 (latest in force: 2024-06-01) · <https://legislatie.just.ro/Public/DetaliiDocument/283389>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 June 2024; this record still dates it from 30 May 2024, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-anre-18-2024` (tags `ordin-anre-18-2024/<day>`; `python tools/on.
 - Ordin anre nr. 18/2024: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 18/2024: the first version is the order as published in Monitorul Oficial nr. 504 of 30 May 2024 (document 283389 of the official web service), in force on 1 June 2024, the day it states for itself.
 - Ordin anre nr. 18/2024: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 18/2024: first published here dated 30 May 2024; its in-force clause states 1 June 2024. The record keeps the first date until it is corrected by hand.
+- Ordin anre nr. 18/2024: re-dated by a correction: in force from 1 June 2024 (first published dated 30 May 2024).

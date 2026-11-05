@@ -1,8 +1,8 @@
 # Ordinul nr. 1.225/2003 privind aprobarea Metodologiei pentru organizarea și certificarea instruirii profesionale a personalului privind însușirea noțiunilor fundamentale de igienă
 
-Ordin sanatate nr. 1225/2003 · 1 versions, from 2004-01-20 (latest in force: 2004-01-20) · <https://legislatie.just.ro/Public/DetaliiDocument/49254>
+Ordin sanatate nr. 1225/2003 · 1 versions, from 2004-03-20 (latest in force: 2004-03-20) · <https://legislatie.just.ro/Public/DetaliiDocument/49254>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (METODOLOGIE 26/09/2003): it is a table that the official text holds only flattened. Its in-force clause states 20 March 2004; this record still dates it from 20 January 2004, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (METODOLOGIE 26/09/2003): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-sanatate-1225-2003` (tags `ordin-sanatate-1225-2003/<day>`; `pyth
 - Ordin sanatate nr. 1225/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1225/2003: Anexa nr. 1 (METODOLOGIE 26/09/2003) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1225/2003: a joint order of Ministerul Sănătății nr. 1.225 din 24 December 2003; Ministerul Educației, Cercetării și Tineretului nr. 5.031 din 26 September 2003. It is published once, here, under the issuer its EMITENT block lists first; `ordin-educatie-5031-2003` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 1225/2003: first published here dated 20 January 2004; its in-force clause states 20 March 2004. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1225/2003: re-dated by a correction: in force from 20 March 2004 (first published dated 20 January 2004).

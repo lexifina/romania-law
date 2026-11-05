@@ -1,8 +1,8 @@
 # Ordinul nr. 2.405/2022 pentru aprobarea reglementării tehnice "Normativ privind proiectarea geotehnică a fundațiilor pe piloți, indicativ NP 123-2022"
 
-Ordin dezvoltare nr. 2405/2022 · 1 versions, from 2022-09-21 (latest in force: 2022-09-21) · <https://legislatie.just.ro/Public/DetaliiDocument/259494>
+Ordin dezvoltare nr. 2405/2022 · 1 versions, from 2022-10-21 (latest in force: 2022-10-21) · <https://legislatie.just.ro/Public/DetaliiDocument/259494>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 21 October 2022; this record still dates it from 21 September 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-dezvoltare-2405-2022` (tags `ordin-dezvoltare-2405-2022/<day>`; `
 - Ordin dezvoltare nr. 2405/2022: the first version is the order as published in Monitorul Oficial nr. 924 of 21 September 2022 (document 259494 of the official web service), in force on 21 October 2022, the day it states for itself.
 - Ordin dezvoltare nr. 2405/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 2405/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 924 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bl. P33, parter, sectorul 5, Buc" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
-- Ordin dezvoltare nr. 2405/2022: first published here dated 21 September 2022; its in-force clause states 21 October 2022. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 2405/2022: re-dated by a correction: in force from 21 October 2022 (first published dated 21 September 2022).

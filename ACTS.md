@@ -12468,8 +12468,8 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27847 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 16510 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Government decisions (HG) | 27876 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 18510 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 173 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -12484,4 +12484,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 13553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 15053 | [`data/acts/local/`](data/acts/local/) |

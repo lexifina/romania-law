@@ -3,6 +3,21 @@
  "shard": "ordin/2023",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2023",
+   "path": "ordin/agricultura/2023/10",
+   "short": "Ordin agricultura nr. 10/2023",
+   "title": "Ordinul nr. 10/2023 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264431",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264431",
+     "sha256": "3edfba24ee67266b8a0323959ff695181a78f666d23dce1491f547622c1790b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-197-2023",
    "path": "ordin/agricultura/2023/197",
    "short": "Ordin agricultura nr. 197/2023",
@@ -44,6 +59,51 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275833",
      "sha256": "3affdc3203c48c73dac5cf0a3ec6dd1e1467272d28c31a45fff845fee3828ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-45-2023",
+   "path": "ordin/agricultura/2023/45",
+   "short": "Ordin agricultura nr. 45/2023",
+   "title": "Ordinul nr. 45/2023 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit alocate pentru anul 2023, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265413",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265413",
+     "sha256": "61d6da4fd826e1e9842f83533b3a466b896b398b595123a6805f7fc9d68b3492"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-54-2023",
+   "path": "ordin/agricultura/2023/54",
+   "short": "Ordin agricultura nr. 54/2023",
+   "title": "Ordinul nr. 54/2023 pentru punerea în aplicare a normelor privind condiționalitatea în cadrul intervențiilor sub formă de plăți directe și al unor intervenții și măsuri pentru dezvoltare rurală, începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265382",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265382",
+     "sha256": "2075306bc201c2998be60e4a3704f3dc9b97be8cd75d0977c3a9d7ef1fb1f305"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-561-2023",
+   "path": "ordin/agricultura/2023/561",
+   "short": "Ordin agricultura nr. 561/2023",
+   "title": "Ordinul nr. 561/2023 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii în anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278218",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278218",
+     "sha256": "dfb0fbfacd41e90b6c73ac68ef41f746ddb746eba38803b813cdd7ff777e49cb"
     }
    ]
   },
@@ -730,7 +790,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/272176",
    "versions": [
     {
-     "from": "2023-07-17",
+     "from": "2023-08-01",
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272176",
      "sha256": "14a57d959309b71ba5dd0b16c39bf023c222f58f8a4eced615115ca78aa7142d"
@@ -1953,6 +2013,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-23-2023",
+   "path": "ordin/ansvsa/2023/23",
+   "short": "Ordin ansvsa nr. 23/2023",
+   "title": "Ordinul nr. 23/2023 pentru aprobarea Procedurii de incinerare și/sau îngropare la fața locului a subproduselor de origine animală care nu sunt destinate consumului uman în cazul unei epizootii care implică o boală cu declarare obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266618",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266618",
+     "sha256": "18c3547258d9168abff2002211cb68c776e87a354c8fc9a7efd1a9559be82d02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-31-2023",
    "path": "ordin/ansvsa/2023/31",
    "short": "Ordin ansvsa nr. 31/2023",
@@ -2650,7 +2725,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/267501",
    "versions": [
     {
-     "from": "2023-05-02",
+     "from": "2023-06-01",
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267501",
      "sha256": "74a836e5d6b1be53bc0860c2c51ea0d02ea342d988f95a4a7052e00e6bd459e2"
@@ -2875,7 +2950,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263984",
    "versions": [
     {
-     "from": "2023-01-17",
+     "from": "2023-02-16",
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263984",
      "sha256": "79b3a168436e03247a3153455038b3d1c30f21254be67e342b4b63f1955b844f"
@@ -2905,7 +2980,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/264636",
    "versions": [
     {
-     "from": "2023-02-07",
+     "from": "2023-03-09",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264636",
      "sha256": "2b51e0e584822b2e15c9604f3ba8b9184d0e1779968cae1277e486a865529668"
@@ -2920,7 +2995,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263962",
    "versions": [
     {
-     "from": "2023-01-16",
+     "from": "2023-02-15",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263962",
      "sha256": "123570c8abbbfd4d572fed93057eddac865f71ab14ded11286f1a227466d7dd4"
@@ -2965,7 +3040,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275652",
    "versions": [
     {
-     "from": "2023-10-25",
+     "from": "2023-11-24",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275652",
      "sha256": "c4add157914a8015cd952fb7d5470647e0481ed95430427d3d0adf6856c8d311"
@@ -2980,7 +3055,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275687",
    "versions": [
     {
-     "from": "2023-10-26",
+     "from": "2023-11-25",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275687",
      "sha256": "819bf8c817166de4b21c9d95aa7feb02721483269ae2600ac377489597e09eee"
@@ -2995,7 +3070,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275502",
    "versions": [
     {
-     "from": "2023-10-20",
+     "from": "2023-11-19",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275502",
      "sha256": "f7477f3ec1a4640d416fe2b02d50026ac59e8243f3598040d8b03bb2acb9e325"
@@ -3010,7 +3085,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275496",
    "versions": [
     {
-     "from": "2023-10-20",
+     "from": "2023-11-19",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275496",
      "sha256": "03dcf66816d1630147f154aeb5daf38ffba7c4e0f01dd5a8492f7465e2223727"
@@ -3025,7 +3100,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275721",
    "versions": [
     {
-     "from": "2023-10-26",
+     "from": "2023-11-25",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275721",
      "sha256": "a9e050d3c333dc8ed070d55957f113af6cbe73843bf53ed081f0b3f835407580"
@@ -3040,7 +3115,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/275734",
    "versions": [
     {
-     "from": "2023-10-27",
+     "from": "2023-11-26",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275734",
      "sha256": "e6e196524e6c56af183459c7d045700142bb02a99e66408b565662585ad61eae"
@@ -3055,7 +3130,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/276300",
    "versions": [
     {
-     "from": "2023-11-14",
+     "from": "2023-12-14",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276300",
      "sha256": "96c318c0b355e5a36aead5fca3061ffb02120b61920afc33e2ed386e7e0653f7"
@@ -3070,7 +3145,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/265158",
    "versions": [
     {
-     "from": "2023-02-17",
+     "from": "2023-03-19",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158",
      "sha256": "b95d4391e1155ddefabd2763b428cd8efb52a1036bd84a4f7c8d59fcf8d20658"
@@ -3145,7 +3220,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263990",
    "versions": [
     {
-     "from": "2023-01-17",
+     "from": "2023-02-16",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263990",
      "sha256": "91f31d756fe802901086041f41e35b50395ca0b0e5c9cf8ac8b80bda6ab4e2e2"
@@ -3175,7 +3250,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/264039",
    "versions": [
     {
-     "from": "2023-01-19",
+     "from": "2023-04-19",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264039",
      "sha256": "cfc0b10bb1905fcd236f3b3b921f5e84da002b40680634e5d75300f4fc227278"
@@ -3295,7 +3370,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/266632",
    "versions": [
     {
-     "from": "2023-04-06",
+     "from": "2023-04-09",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266632",
      "sha256": "51cdff4abb4566da239506da60670e03bfd5b3eaa886fb331c5d83cd56bcaa4e"
@@ -4810,7 +4885,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/277789",
    "versions": [
     {
-     "from": "2023-12-28",
+     "from": "2024-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277789",
      "sha256": "27d5aeb0e74035f6bea1983f2c6267658c9a84288a7357a4639a09463008c8e5"
@@ -4855,7 +4930,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/277777",
    "versions": [
     {
-     "from": "2023-12-28",
+     "from": "2024-01-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277777",
      "sha256": "a1cc9b1446c007ed797db9412040c4188f71c1af3bed789f8117fe1c261d4ce9"
@@ -4930,7 +5005,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/277860",
    "versions": [
     {
-     "from": "2023-12-29",
+     "from": "2024-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277860",
      "sha256": "45920d53de17be5e62d0c9461f9bb2c9d849d5403ec7cba1493c53e6b99bd19e"
@@ -6168,6 +6243,501 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1016-2023",
+   "path": "ordin/mediu/2023/1016",
+   "short": "Ordin mediu nr. 1016/2023",
+   "title": "Ordinul nr. 1.016/2023 privind abrogarea Ordinului ministrului mediului și gospodăririi apelor nr. 245/2005 pentru aprobarea Metodologiei de evaluare a riscului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase în mediul acvatic prin modelare matematică și a Metodologiei de evaluare a impactului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase asupra mediului acvatic prin teste ecotoxicologice - alge verzi, dafnia, pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267406",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267406",
+     "sha256": "dc462794ff3dcef5e730648b0f29c9a739263c7c540093b5321315509d1e06fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1017-2023",
+   "path": "ordin/mediu/2023/1017",
+   "short": "Ordin mediu nr. 1017/2023",
+   "title": "Ordinul nr. 1.017/2023 privind abrogarea Ordinului ministrului mediului și gospodăririi apelor nr. 479/2006 pentru aprobarea metodologiei și chestionarelor de raportare a datelor din domeniul apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267407",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267407",
+     "sha256": "22f85cce2f15d9e592fd467ef29b0b2bd84e185da984ad8c5007214743e9ea82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1028-2023",
+   "path": "ordin/mediu/2023/1028",
+   "short": "Ordin mediu nr. 1028/2023",
+   "title": "Ordinul nr. 1.028/2023 pentru abrogarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 501/2003 privind aprobarea Regulamentului pentru întocmirea inventarului inițial al surselor de poluare pentru mediul acvatic și apele subterane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267408",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267408",
+     "sha256": "c84ebaaa3d12fb9ee0d864b524288bae81e82bbd54ab1751629b6c084da50791"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1029-2023",
+   "path": "ordin/mediu/2023/1029",
+   "short": "Ordin mediu nr. 1029/2023",
+   "title": "Ordinul nr. 1.029/2023 pentru aprobarea Ghidului specific privind condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C2/S/I.2.A, pentru subinvestiția I.2.A. \"Acordarea de sprijin de stat pentru dezvoltarea de capacități moderne de producere a materialului forestier de reproducere\", investiția 2. \"Dezvoltarea de capacități moderne de producere a materialului forestier de reproducere\", schemă de ajutor de stat, componenta 2. Păduri și protecția biodiversității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267353",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267353",
+     "sha256": "f501521b9496784eecf9d7da8fe90526d16b1b5922b0c141f90219d39c4ac6a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1063-2023",
+   "path": "ordin/mediu/2023/1063",
+   "short": "Ordin mediu nr. 1063/2023",
+   "title": "Ordinul nr. 1.063/2023 pentru aprobarea Ghidului de finanțare a Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum și livrării surplusului în rețeaua națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267458",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267458",
+     "sha256": "d20b4df197e61da3366a94a5aac096fab8c59126e8cc5ed75935aabae4b9e8e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1064-2023",
+   "path": "ordin/mediu/2023/1064",
+   "short": "Ordin mediu nr. 1064/2023",
+   "title": "Ordinul nr. 1.064/2023 privind aprobarea cotelor de recoltă pentru specia căprior (Capreolus capreolus) pentru perioada 1 mai 2023 - 30 aprilie 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267414",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267414",
+     "sha256": "5b17202e13e1bb954f94ddc3ff19f9694c71c17f08aabb435b1b9361f7ebac49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1066-2023",
+   "path": "ordin/mediu/2023/1066",
+   "short": "Ordin mediu nr. 1066/2023",
+   "title": "Ordinul nr. 1.066/2023 pentru modificarea anexelor nr. 1-3 la Ordinul ministrului mediului, apelor și pădurilor nr. 203/2020 privind stabilirea cadrului legal și instituțional necesar aplicării Regulamentului delegat (UE) 2019/1.603 al Comisiei din 18 iulie 2019 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește măsurile adoptate de Organizația Aviației Civile Internaționale pentru monitorizarea, raportarea și verificarea emisiilor generate de aviație în scopul punerii în aplicare a unei măsuri globale bazate pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271034",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271034",
+     "sha256": "184a432ab9c323288b5f59552417b5c29015c2b423f04b99225835bdaa2a7464"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1132-2023",
+   "path": "ordin/mediu/2023/1132",
+   "short": "Ordin mediu nr. 1132/2023",
+   "title": "Ordinul nr. 1.132/2023 pentru modificarea Listei programelor care se implementează pe bază de contract de delegare încheiat cu unitățile administrativ-teritoriale sau cu subdiviziunile administrativ-teritoriale ale municipiilor, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 3.287/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270202",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270202",
+     "sha256": "2b2df3b7943371bd814300e315ff74b4f4a2b3250db6729a4e9f3b6f488edd30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1133-2023",
+   "path": "ordin/mediu/2023/1133",
+   "short": "Ordin mediu nr. 1133/2023",
+   "title": "Ordinul nr. 1.133/2023 pentru modificarea anexei nr. 3 la Legea nr. 212/2015 privind modalitatea de gestionare a vehiculelor și a vehiculelor scoase din uz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270240",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270240",
+     "sha256": "a284f1a65a010b67beae73a0dd50684fdb2828f96530f5f0ab9651bd5412538f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1136-2023",
+   "path": "ordin/mediu/2023/1136",
+   "short": "Ordin mediu nr. 1136/2023",
+   "title": "Ordinul nr. 1.136/2023 privind aprobarea Regulamentului Parcului Natural Văcărești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270241",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270241",
+     "sha256": "cf29c49b9cd8ccf5ff9150e21d40c5e3972fa0b01c173a8e042e4742ca475274"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1365-2023",
+   "path": "ordin/mediu/2023/1365",
+   "short": "Ordin mediu nr. 1365/2023",
+   "title": "Ordinul nr. 1.365/2023 pentru completarea Ordinului ministrului mediului, apelor și pădurilor nr. 890/2023 privind modificarea și completarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.366/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.B, pentru subinvestiția I1.B. \"Construirea de insule ecologice digitalizate\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270578",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270578",
+     "sha256": "0b38fc3f8d56b8c6bec951186db357dd8541d1e527d865841e1614ef3d1eae60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1547-2023",
+   "path": "ordin/mediu/2023/1547",
+   "short": "Ordin mediu nr. 1547/2023",
+   "title": "Ordinul nr. 1.547/2023 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271150",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271150",
+     "sha256": "872d0b96320461cb0d28dda2f8d82bd76efcc63e9280658533749b70f34ad2d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1572-2023",
+   "path": "ordin/mediu/2023/1572",
+   "short": "Ordin mediu nr. 1572/2023",
+   "title": "Ordinul nr. 1.572/2023 privind modificarea și completarea Ordinului ministrului mediului, apelor și pădurilor nr. 2.227/2016 pentru constituirea și funcționarea Comisiei Patrimoniului Speologic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271244",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271244",
+     "sha256": "02cc928c8a32518149b05d7185871db48181d4e69a8e4f79e377b98b33f2cf06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-161-2023",
+   "path": "ordin/mediu/2023/161",
+   "short": "Ordin mediu nr. 161/2023",
+   "title": "Ordinul nr. 161/2023 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264443",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264443",
+     "sha256": "56a4c98cd15743c04dbc1c44d48c95e9f578bc35a652c91830a177c7135c9738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1624-2023",
+   "path": "ordin/mediu/2023/1624",
+   "short": "Ordin mediu nr. 1624/2023",
+   "title": "Ordinul nr. 1.624/2023 pentru modificarea și completarea Metodologiei privind scoaterea definitivă, ocuparea temporară și schimbul de terenuri și de calcul al obligațiilor bănești, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 694/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271480",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271480",
+     "sha256": "8aeecd5f6db6cb8c78e12bffdbdd2f759ee5c7ef3ca6a4324a6a5cd40fe4f77a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1656-2023",
+   "path": "ordin/mediu/2023/1656",
+   "short": "Ordin mediu nr. 1656/2023",
+   "title": "Ordinul nr. 1.656/2023 pentru aprobarea modalității de acordare a despăgubirilor prevăzute la art. 13^1 din Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271579",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271579",
+     "sha256": "d56749f8c61d3fa1b46c31ebde592a3053134d70f26173161a247c942adfe405"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1675-2023",
+   "path": "ordin/mediu/2023/1675",
+   "short": "Ordin mediu nr. 1675/2023",
+   "title": "Ordinul nr. 1.675/2023 privind modificarea și completarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.367/2022 pentru aprobarea Ghidului specific privind regulile și condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.A, pentru subinvestiția I1.a. \"Înființarea de centre de colectare prin aport voluntar\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271481",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271481",
+     "sha256": "993b25f6e9e481f1f9b91039f70dd924e4b3c99c375110ba7c2ff767706b472b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1676-2023",
+   "path": "ordin/mediu/2023/1676",
+   "short": "Ordin mediu nr. 1676/2023",
+   "title": "Ordinul nr. 1.676/2023 pentru modificarea și completarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.523/2022 privind aprobarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.C, pentru subinvestiția I.1.c \"Centre integrate de colectare separată prin aport voluntar destinate aglomerărilor urbane\", componenta 3: Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271537",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271537",
+     "sha256": "79d584b231cc11b528a32dfcccad54e9a63dd5eabd7c5d2c7e9094c96ebd2cf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1679-2023",
+   "path": "ordin/mediu/2023/1679",
+   "short": "Ordin mediu nr. 1679/2023",
+   "title": "Ordinul nr. 1.679/2023 pentru aprobarea Ghidului metodologic specific privind evaluarea adecvată a efectelor potențiale ale planurilor/proiectelor din domeniile de interes",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271555",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271555",
+     "sha256": "7936d4c91fc97d03d4f943c79790cac3013a7faf8673bdf887f2a9a792376d67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1680-2023",
+   "path": "ordin/mediu/2023/1680",
+   "short": "Ordin mediu nr. 1680/2023",
+   "title": "Ordinul nr. 1.680/2023 privind aprobarea Planului de management al siturilor Natura 2000 ROSCI0323 Munții Ciucului și ROSPA0034 Depresiunea și Munții Ciucului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271705",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271705",
+     "sha256": "2acd8d967caaa0f14331cf30fdd2196d091902deadd6cdff98f0675efdf70881"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1681-2023",
+   "path": "ordin/mediu/2023/1681",
+   "short": "Ordin mediu nr. 1681/2023",
+   "title": "Ordinul nr. 1.681/2023 privind aprobarea Planului de management al Parcului Național Călimani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271567",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271567",
+     "sha256": "b983dea714232f0e675bf19c51b12ad64f20e022479011d96ff006b93293a60d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1682-2023",
+   "path": "ordin/mediu/2023/1682",
+   "short": "Ordin mediu nr. 1682/2023",
+   "title": "Ordinul nr. 1.682/2023 pentru aprobarea Ghidului metodologic privind evaluarea adecvată a efectelor potențiale ale planurilor sau proiectelor asupra ariilor naturale protejate de interes comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271581",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271581",
+     "sha256": "56ea05c42f51d68a2249b4ba444d506ddb5a1cd63769a40209994d9f848850ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1759-2023",
+   "path": "ordin/mediu/2023/1759",
+   "short": "Ordin mediu nr. 1759/2023",
+   "title": "Ordinul nr. 1.759/2023 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271917",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271917",
+     "sha256": "c67fc4f915eb253a1a47c8c44281df461fa18a39c90995f5172041608d2e9453"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1804-2023",
+   "path": "ordin/mediu/2023/1804",
+   "short": "Ordin mediu nr. 1804/2023",
+   "title": "Ordinul nr. 1.804/2023 privind completarea anexei nr. 1 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272145",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272145",
+     "sha256": "993d38e7561fca6af017418e2705702f7990ee82b761028f2818d10ab306f9ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-185-2023",
+   "path": "ordin/mediu/2023/185",
+   "short": "Ordin mediu nr. 185/2023",
+   "title": "Ordinul nr. 185/2023 pentru aprobarea modelului și conținutului formularului \"Declarație privind anumite produse din plastic de unică folosință\" și a instrucțiunilor de completare și depunere a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264825",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264825",
+     "sha256": "28bac6b3cb5b49a229208d05e78a0534e788fba992a8301d2e04da972e6552ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1908-2023",
+   "path": "ordin/mediu/2023/1908",
+   "short": "Ordin mediu nr. 1908/2023",
+   "title": "Ordinul nr. 1.908/2023 privind modificarea Ordinului viceprim-ministrului, ministrul mediului, nr. 572/2019 pentru depunerea declarațiilor privind obligațiile la Fondul pentru mediu prin mijloace electronice de transmitere la distanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272074",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272074",
+     "sha256": "3d035b00a35dfb14b46dc0855db8022402f7ba07857d68efdccee902ac7c413f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1934-2023",
+   "path": "ordin/mediu/2023/1934",
+   "short": "Ordin mediu nr. 1934/2023",
+   "title": "Ordinul nr. 1.934/2023 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272304",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272304",
+     "sha256": "928ac646b4b369e4838322690544955f6780a44b3e06a6967179dbb87c1d3145"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1951-2023",
+   "path": "ordin/mediu/2023/1951",
+   "short": "Ordin mediu nr. 1951/2023",
+   "title": "Ordinul nr. 1.951/2023 pentru modificarea Normelor metodologice privind constituirea și utilizarea Fondului de ameliorare a fondului funciar cu destinație silvică, aprobate prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.337/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273487",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273487",
+     "sha256": "62f2be44b838ca421361a57f3ff8249d0a2ee290ec98fd506f462be733601080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1952-2023",
+   "path": "ordin/mediu/2023/1952",
+   "short": "Ordin mediu nr. 1952/2023",
+   "title": "Ordinul nr. 1.952/2023 privind aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273304",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273304",
+     "sha256": "db559baf4ff479a44eeae4c63ae860edb671347346db103fd0e0395a156b3f19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1973-2023",
+   "path": "ordin/mediu/2023/1973",
+   "short": "Ordin mediu nr. 1973/2023",
+   "title": "Ordinul nr. 1.973/2023 privind modificarea Schemei de ajutor de stat regional pentru investiții având ca scop reducerea efectelor negative ale deșeurilor asupra mediului și reducerea consumului de resurse primare, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.269/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273393",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273393",
+     "sha256": "8ce6a648f13b566862077601a2fe52a7b837a92aae3126b7e828bc1f0159ecf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1975-2023",
+   "path": "ordin/mediu/2023/1975",
+   "short": "Ordin mediu nr. 1975/2023",
+   "title": "Ordinul nr. 1.975/2023 privind aprobarea derogării în scop științific pentru specia Pelecanus crispus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273443",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273443",
+     "sha256": "330f13383f1fe5be58703883f6cc327d358a645b8c9f43929de31d137202cb4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1982-2023",
+   "path": "ordin/mediu/2023/1982",
+   "short": "Ordin mediu nr. 1982/2023",
+   "title": "Ordinul nr. 1.982/2023 privind aprobarea derogării în scop științific pentru unele specii de pești de interes comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273305",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273305",
+     "sha256": "5ce6b85f810e72963cc697ea8b1011bc9073401be83d5905f84b9d80edda51f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1993-2023",
+   "path": "ordin/mediu/2023/1993",
+   "short": "Ordin mediu nr. 1993/2023",
+   "title": "Ordinul nr. 1.993/2023 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273365",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273365",
+     "sha256": "4dfc94edb2a1ea6d8be1f196846bdf2de1bdc06a3a653d10e662007ed8b370f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2002-2023",
    "path": "ordin/mediu/2023/2002",
    "short": "Ordin mediu nr. 2002/2023",
@@ -6183,6 +6753,771 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2047-2023",
+   "path": "ordin/mediu/2023/2047",
+   "short": "Ordin mediu nr. 2047/2023",
+   "title": "Ordinul nr. 2.047/2023 privind aprobarea derogării în scop științific pentru specia Myotis myotis",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273651",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273651",
+     "sha256": "9df7ffc4731ad9799fa3cc2ea5d00829d1edaec95d633a939d635de68a9a0f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-216-2023",
+   "path": "ordin/mediu/2023/216",
+   "short": "Ordin mediu nr. 216/2023",
+   "title": "Ordinul nr. 216/2023 pentru aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2023, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264481",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264481",
+     "sha256": "507ea3035c2310a90c3d10fbb038ced953331442da9642f33f087e5ca6750ffc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-217-2023",
+   "path": "ordin/mediu/2023/217",
+   "short": "Ordin mediu nr. 217/2023",
+   "title": "Ordinul nr. 217/2023 pentru aprobarea schemei de ajutor de stat \"Sprijin pentru investiții în pepiniere și tehnologii moderne de producere a puieților forestieri, în capacități de condiționare a semințelor forestiere și în realizarea de rezervații semincere și plantaje forestiere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264607",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264607",
+     "sha256": "d423a456bc54f9dab261007a8e91e2afd6999abe4f3e1d74e06ea1f77dd7855d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2183-2023",
+   "path": "ordin/mediu/2023/2183",
+   "short": "Ordin mediu nr. 2183/2023",
+   "title": "Ordinul nr. 2.183/2023 pentru aprobarea nivelului de intervenție și de prevenție în cazul speciei urs brun (Ursus arctos), în interesul sănătății și securității populației și în scopul prevenirii unor daune importante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273935",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273935",
+     "sha256": "6c3333a041293f4f5202fb205349864b46d223acc6941c5b97596504f3b53eec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2192-2023",
+   "path": "ordin/mediu/2023/2192",
+   "short": "Ordin mediu nr. 2192/2023",
+   "title": "Ordinul nr. 2.192/2023 pentru aprobarea Ghidului de finanțare a Programului privind îmbunătățirea calității aerului și reducerea cantității de emisii de gaze cu efect de seră, prin utilizarea pentru transportul elevilor a autovehiculelor mai puțin poluante de tipul microbuzelor electrice, hibride și alimentate cu gaz natural comprimat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273990",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273990",
+     "sha256": "e70c1a26295af815fbf0d2eafdc1b4e9bc1cda179ae6afc65c70a620c6ed8e64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2195-2023",
+   "path": "ordin/mediu/2023/2195",
+   "short": "Ordin mediu nr. 2195/2023",
+   "title": "Ordinul nr. 2.195/2023 privind modificarea Schemei de ajutor de stat \"Sprijin pentru investiții în noi suprafețe ocupate de păduri\", aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.121/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274222",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274222",
+     "sha256": "ae2dff4177346c7b3fe21e4779af348180136e907d38b741a05786553016f2d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2208-2023",
+   "path": "ordin/mediu/2023/2208",
+   "short": "Ordin mediu nr. 2208/2023",
+   "title": "Ordinul nr. 2.208/2023 privind restrângerea perioadei legale de vânătoare pentru specia turturică (Streptopelia turtur)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274084",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274084",
+     "sha256": "cbebdc29f9493ebfbf1489b00413121305561c736aa84da9569b5d8ffcdb1a21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-223-2023",
+   "path": "ordin/mediu/2023/223",
+   "short": "Ordin mediu nr. 223/2023",
+   "title": "Ordinul nr. 223/2023 privind aprobarea derogării pentru unele specii din fauna sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264412",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264412",
+     "sha256": "fcbe3393392de5f1adf4c7fa3925f3c2f7e192bcfcb11a7fd8f5b1d423e27c34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2346-2023",
+   "path": "ordin/mediu/2023/2346",
+   "short": "Ordin mediu nr. 2346/2023",
+   "title": "Ordinul nr. 2.346/2023 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0405 Dealurile Strehaia-Bâtlanele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274401",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274401",
+     "sha256": "8edd6dd342d995d125107c43a8d794d79fd956d27dc67a99fd7b098491e134ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2408-2023",
+   "path": "ordin/mediu/2023/2408",
+   "short": "Ordin mediu nr. 2408/2023",
+   "title": "Ordinul nr. 2.408/2023 privind aprobarea cotelor de recoltă pentru specia cocoș de munte (Tetrao urogallus), pentru perioada septembrie-30 noiembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274556",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274556",
+     "sha256": "a1f821478a437e3b2183572bce9ca415a3baa28f0b50b71b5e7b8961c1f3ca2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2424-2023",
+   "path": "ordin/mediu/2023/2424",
+   "short": "Ordin mediu nr. 2424/2023",
+   "title": "Ordinul nr. 2.424/2023 pentru modificarea anexelor nr. 1 și 2 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274806",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274806",
+     "sha256": "8e33c8171c384d36d01fd149350e3d1112264b057f6c3734720572c7f0394743"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2426-2023",
+   "path": "ordin/mediu/2023/2426",
+   "short": "Ordin mediu nr. 2426/2023",
+   "title": "Ordinul nr. 2.426/2023 pentru modificarea și completarea Metodologiei privind organizarea și funcționarea SUMAL 2.0, obligațiile utilizatorilor SUMAL 2.0, precum și structura și modalitatea de transmitere a informațiilor standardizate și costurile serviciilor de emitere a avizelor de însoțire pentru situațiile prevăzute la art. 11 din Normele referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și cele privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 118/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274629",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274629",
+     "sha256": "aefd5e04ef26d614d3e8eb5087bf144c63dd518ae3e6f8e475f2ec279522a8a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2443-2023",
+   "path": "ordin/mediu/2023/2443",
+   "short": "Ordin mediu nr. 2443/2023",
+   "title": "Ordinul nr. 2.443/2023 pentru aprobarea Ghidului specific privind condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C3/S/I.2.A-B, pentru subinvestiția I2.A-B \"Sisteme integrate de colectare și valorificare a gunoiului de grajd\", investiția I2. \"Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile\", componenta C3 - Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274787",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274787",
+     "sha256": "7032b02916fd263b482a86cee794982251e927e89483258c7efa08d0975c03c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2446-2023",
+   "path": "ordin/mediu/2023/2446",
+   "short": "Ordin mediu nr. 2446/2023",
+   "title": "Ordinul nr. 2.446/2023 pentru aprobarea derogării în scopul cercetării științifice pentru specia Osmoderma barnabita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274957",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274957",
+     "sha256": "c61441ee136a345963dab3eb8f075f0fc633203681b79fe3914ec218d662a6e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2451-2023",
+   "path": "ordin/mediu/2023/2451",
+   "short": "Ordin mediu nr. 2451/2023",
+   "title": "Ordinul nr. 2.451/2023 privind stabilirea frecvenței de monitorizare pentru categoriile de folosințe de ape",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274941",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274941",
+     "sha256": "af01634d5562a59a631833a7c6d488253b8612f7fcdf3e4738f8ce5f056ea650"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2627-2023",
+   "path": "ordin/mediu/2023/2627",
+   "short": "Ordin mediu nr. 2627/2023",
+   "title": "Ordinul nr. 2.627/2023 pentru modificarea anexelor nr. 3 și 4 la Ordinul ministrului mediului, apelor și pădurilor nr. 1.630/2023 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada iunie 2023-14 mai 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275553",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275553",
+     "sha256": "0740bd61479a4f88f314ef84a3fc6520dae3af927fa115fd97b49a7616a543a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2641-2023",
+   "path": "ordin/mediu/2023/2641",
+   "short": "Ordin mediu nr. 2641/2023",
+   "title": "Ordinul nr. 2.641/2023 privind modificarea Ordinului ministrului mediului, apelor și pădurilor nr. 2.057/2020 pentru aprobarea Ghidului de finanțare din anul 2021 a Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275497",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275497",
+     "sha256": "ab2652bb585a67724ad2320d0de5f2cfddef3744021e6b3382cdb9a4deb01b13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2650-2023",
+   "path": "ordin/mediu/2023/2650",
+   "short": "Ordin mediu nr. 2650/2023",
+   "title": "Ordinul nr. 2.650/2023 privind completarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275638",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275638",
+     "sha256": "c417c331752487fd5f420310fceb4946d845032db9b2d143ad60d201680d4e67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2667-2023",
+   "path": "ordin/mediu/2023/2667",
+   "short": "Ordin mediu nr. 2667/2023",
+   "title": "Ordinul nr. 2.667/2023 pentru aprobarea Regulamentului privind certificarea personalului de exploatare pentru activitatea de urmărire a comportării în timp a barajelor, NTLH-031",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276080",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276080",
+     "sha256": "b979fa68d90aa0514e65789aee9c57010c91a48c7a4ba34a4fd9323fab45ac0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2668-2023",
+   "path": "ordin/mediu/2023/2668",
+   "short": "Ordin mediu nr. 2668/2023",
+   "title": "Ordinul nr. 2.668/2023 privind aprobarea derogării în scop științific pentru șase exemplare din specia Pelecanus crispus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275836",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275836",
+     "sha256": "522a0a270aacbd69b75f57349ee7af74c1fd2f67481b34a808082b45300b8b5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2673-2023",
+   "path": "ordin/mediu/2023/2673",
+   "short": "Ordin mediu nr. 2673/2023",
+   "title": "Ordinul nr. 2.673/2023 pentru aprobarea Metodologiei de raportare a administratorului sistemului de garanție-returnare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275920",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275920",
+     "sha256": "cd94f53cb9a976d47b21590faf6a0b58100c5bf59335f59df49878533cb736e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2729-2023",
+   "path": "ordin/mediu/2023/2729",
+   "short": "Ordin mediu nr. 2729/2023",
+   "title": "Ordinul nr. 2.729/2023 privind modificarea și completarea Ordinului ministrului mediului, apelor și pădurilor nr. 1.124/2019 pentru aprobarea modelului și conținutului formularelor \"Decizie privind recuperarea sumelor acordate cu titlu de finanțare din Fondul pentru mediu\" și \"Decizie privind recuperarea sumelor acordate cu titlu de finanțare din Fondul pentru mediu, ce constituie ajutor de stat/de minimis\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276135",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276135",
+     "sha256": "a448b8fa3a163b6b6f292620895741f0a63a384ff9998294badfdc18469d840e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3147-2023",
+   "path": "ordin/mediu/2023/3147",
+   "short": "Ordin mediu nr. 3147/2023",
+   "title": "Ordinul nr. 3.147/2023 privind aprobarea Procedurii de emitere a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277436",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277436",
+     "sha256": "f2657d6e64e74b25c67bf0b74f2fb86c693dc56082e05cc668d8588cc40029a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3153-2023",
+   "path": "ordin/mediu/2023/3153",
+   "short": "Ordin mediu nr. 3153/2023",
+   "title": "Ordinul nr. 3.153/2023 privind aprobarea derogării în scop științific pentru 81 de specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277459",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277459",
+     "sha256": "52029831925627b2a44a4455376532ebcdfcabec96ef34c9a56a0e2e5b12ca34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3155-2023",
+   "path": "ordin/mediu/2023/3155",
+   "short": "Ordin mediu nr. 3155/2023",
+   "title": "Ordinul nr. 3.155/2023 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul mediului, nr. 592/2017 pentru aprobarea modelelor formularelor utilizate în domeniul colectării creanțelor la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277426",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277426",
+     "sha256": "becb7d2f89e217d815ced828a85178359c7150e80d530e3778c3cb607e8f31de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3170-2023",
+   "path": "ordin/mediu/2023/3170",
+   "short": "Ordin mediu nr. 3170/2023",
+   "title": "Ordinul nr. 3.170/2023 pentru modificarea pct. 4 din anexa nr. 6 la Regulamentul privind atestarea persoanelor juridice care realizează lucrări de regenerare și întreținere a semintisurilor și plantațiilor, lucrări de îngrijire a arboretelor, precum și atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare în domeniul silvic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.763/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277868",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277868",
+     "sha256": "4bafe230ca0df8189b02ef1781e2729c3e4eab97bf5849675a1b8750797fc4be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3172-2023",
+   "path": "ordin/mediu/2023/3172",
+   "short": "Ordin mediu nr. 3172/2023",
+   "title": "Ordinul nr. 3.172/2023 privind aprobarea derogării pentru unele specii din fauna sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277487",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277487",
+     "sha256": "97703e65509a0eda5b1d0232e829f801b46b5c760cd45f31d88237db4a7a62e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3173-2023",
+   "path": "ordin/mediu/2023/3173",
+   "short": "Ordin mediu nr. 3173/2023",
+   "title": "Ordinul nr. 3.173/2023 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile la Fondul pentru mediu\" și a instrucțiunilor de completare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277546",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277546",
+     "sha256": "95fe32ce101a0750bb397e85ac18901dbb1cc83195f0bb58431de04a579b2828"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-320-2023",
+   "path": "ordin/mediu/2023/320",
+   "short": "Ordin mediu nr. 320/2023",
+   "title": "Ordinul nr. 320/2023 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C2/I.1.B, pentru subinvestiția I.1.B \"Sprijin pentru refacerea potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare și de evenimente catastrofale\", investiția 1 \"Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane\", schemă de ajutor de stat, componenta C2: Păduri și protecția biodiversității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264597",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264597",
+     "sha256": "fe712100228f3b89c08427247b2dab79b9327f3d01ccbe6b64baae27b3902d33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3220-2023",
+   "path": "ordin/mediu/2023/3220",
+   "short": "Ordin mediu nr. 3220/2023",
+   "title": "Ordinul nr. 3.220/2023 privind aprobarea Planului de management aferent sitului Natura 2000 ROSCI0021 Câmpia Ierului împreună cu aria protejată 2.183 Complexul Hidrografic Valea Rece",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278007",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278007",
+     "sha256": "8cc54f108655f0d275fc9d9e302a710513dfaf03e697b4e5a6da40c96229e776"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3221-2023",
+   "path": "ordin/mediu/2023/3221",
+   "short": "Ordin mediu nr. 3221/2023",
+   "title": "Ordinul nr. 3.221/2023 privind aprobarea Planului de management aferent sitului Natura 2000 ROSCI0020 Câmpia Careiului împreună cu ariile protejate 2.676 Pădurea Urziceni, 2.677 Dunele de nisip Foieni, 2.679 Mlaștina Vermeș și 2.182 Pășunea cu Corynephorus de la Voievozi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277994",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277994",
+     "sha256": "b49a5071072ebb8961037479ca52e8658b14d2c2db5fafcde1e6dc80ae235177"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3255-2023",
+   "path": "ordin/mediu/2023/3255",
+   "short": "Ordin mediu nr. 3255/2023",
+   "title": "Ordinul nr. 3.255/2023 privind aprobarea Planului de management și Regulamentului Parcului Natural Grădiștea Muncelului-Cioclovina și al ariilor naturale protejate suprapuse cu acesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278713",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278713",
+     "sha256": "fefa7fc7f6b779d64f268e0236e906f15ced24504a504d719ab252600f1eb787"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3256-2023",
+   "path": "ordin/mediu/2023/3256",
+   "short": "Ordin mediu nr. 3256/2023",
+   "title": "Ordinul nr. 3.256/2023 pentru modificarea și completarea Ghidului specific privind regulile și condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.A, pentru subinvestiția I1.a. \"Înființarea de centre de colectare prin aport voluntar\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.367/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277757",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277757",
+     "sha256": "34d5d159f5ebeac08104cb32cbd3e49db6bfa16961d6975cf16b7ebe41d17335"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-326-2023",
+   "path": "ordin/mediu/2023/326",
+   "short": "Ordin mediu nr. 326/2023",
+   "title": "Ordinul nr. 326/2023 pentru aprobarea Ghidului de finanțare privind modalitatea de acordare a primei de sechestrare forestieră persoanelor fizice și juridice, precum și unităților administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264789",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264789",
+     "sha256": "6239ae0170a47d0b3164055122e166d3e07f08c2f229e92349a18827b08b15e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-328-2023",
+   "path": "ordin/mediu/2023/328",
+   "short": "Ordin mediu nr. 328/2023",
+   "title": "Ordinul nr. 328/2023 pentru modificarea și completarea Normelor metodologice privind controlul transferurilor de deșeuri, aprobate prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.647/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264693",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264693",
+     "sha256": "3025ad12126b7baa7b6be77f21c5529f67b1147f7289a4fd85b4f727a5b7662f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-332-2023",
+   "path": "ordin/mediu/2023/332",
+   "short": "Ordin mediu nr. 332/2023",
+   "title": "Ordinul nr. 332/2023 privind modificarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.366/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.B, pentru subinvestiția I1.B. \"Construirea de insule ecologice digitalizate\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264589",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264589",
+     "sha256": "bd58067740a230bffa671866e4a29f1a5d6e3ca9ed1273be1d473b7babb5c11e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3352-2023",
+   "path": "ordin/mediu/2023/3352",
+   "short": "Ordin mediu nr. 3352/2023",
+   "title": "Ordinul nr. 3.352/2023 pentru aprobarea Ghidului privind protocoalele de monitorizare și metodologiile unitare de monitorizare a stării de conservare a habitatelor de interes comunitar din România, din cadrul proiectului \"Completarea nivelului de cunoaștere a biodiversității prin implementarea sistemului de monitorizare a stării de conservare a speciilor și habitatelor de interes comunitar din România și raportarea în baza articolului 17 al Directivei Habitate 92/43/CEE\" Cod MYSMIS 2014+ 120009, finanțat prin Programul operațional Infrastructura mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278170",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278170",
+     "sha256": "0fa777b4b0b6b6c37496e15f4b7a875ca437240e2ace2733ff7c7e1c964a842e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3370-2023",
+   "path": "ordin/mediu/2023/3370",
+   "short": "Ordin mediu nr. 3370/2023",
+   "title": "Ordinul nr. 3.370/2023 pentru aprobarea derogării în scop științific pentru 20 de exemplare din specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277827",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277827",
+     "sha256": "2dec102a0fb75678c4582c9949d14c50611da378235bfffa16a169900665dd3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3391-2023",
+   "path": "ordin/mediu/2023/3391",
+   "short": "Ordin mediu nr. 3391/2023",
+   "title": "Ordinul nr. 3.391/2023 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0285 Codrii Seculari de la Strâmbu-Băiuț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278228",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278228",
+     "sha256": "6369779b2b33fb839f36dc694308f02c81a9f61e5c714e708d27f0cd54893e0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-531-2023",
+   "path": "ordin/mediu/2023/531",
+   "short": "Ordin mediu nr. 531/2023",
+   "title": "Ordinul nr. 531/2023 pentru modificarea anexelor nr. 1 și 2 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265191",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265191",
+     "sha256": "3eab22a38a53ed7b2ae397b8c2f1852860a4711d4c542e84f42937ec68d48bf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-554-2023",
+   "path": "ordin/mediu/2023/554",
+   "short": "Ordin mediu nr. 554/2023",
+   "title": "Ordinul nr. 554/2023 pentru modificarea Regulamentului de atestare a experților care evaluează starea de siguranță în exploatare a digurilor de apărare împotriva inundațiilor, NTLH-073, aprobat prin Ordinul ministrului apelor și pădurilor nr. 359/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265569",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265569",
+     "sha256": "044ee1e8f5667ce3400607217d840d4238e197015c53c6e542e7723caa58db7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-578-2023",
+   "path": "ordin/mediu/2023/578",
+   "short": "Ordin mediu nr. 578/2023",
+   "title": "Ordinul nr. 578/2023 privind modificarea alin. (1) al art. 85 din Instrucțiunile pentru evaluarea efectivelor unor specii de faună cinegetică admise la vânătoare și pentru reglementarea modului de stabilire a cotelor de recoltă pentru acestea, aprobate prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.847/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265513",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265513",
+     "sha256": "40637e1119bb81b156c8adf0a16883d7982d7638e38d6333f22291f19150ad04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-581-2023",
+   "path": "ordin/mediu/2023/581",
+   "short": "Ordin mediu nr. 581/2023",
+   "title": "Ordinul nr. 581/2023 privind aprobarea Planului național de acțiune pentru conservarea lostriței - Hucho hucho",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266051",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266051",
+     "sha256": "5a30a1b93154ac23b365480a70f6be6d1868fd44dfefe99a9baedf54b45ff1bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-716-2023",
+   "path": "ordin/mediu/2023/716",
+   "short": "Ordin mediu nr. 716/2023",
+   "title": "Ordinul nr. 716/2023 privind aprobarea derogării în scop științific pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265718",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265718",
+     "sha256": "318c499df83a5b86519fb6b7bb5a7e51eb7b75464335a9e92b878e015086304f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-722-2023",
+   "path": "ordin/mediu/2023/722",
+   "short": "Ordin mediu nr. 722/2023",
+   "title": "Ordinul nr. 722/2023 privind aprobarea derogării pentru unele specii din fauna sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266046",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266046",
+     "sha256": "dfab89a03bb1d00f874f5eeb331d2d9a5b7cb0abc95c3e5911370c4c4e9a5ca5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-745-2023",
+   "path": "ordin/mediu/2023/745",
+   "short": "Ordin mediu nr. 745/2023",
+   "title": "Ordinul nr. 745/2023 privind modificarea anexei la Ordinul ministrului apelor și pădurilor nr. 393/2019 pentru aprobarea Instrucțiunilor de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a digurilor de apărare împotriva inundațiilor, NTLH - 074",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266279",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266279",
+     "sha256": "f82d8c44a8d803c2e0ce9b82029a72f55410f8d32ca254bf59cbc99cc248aa27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-768-2023",
+   "path": "ordin/mediu/2023/768",
+   "short": "Ordin mediu nr. 768/2023",
+   "title": "Ordinul nr. 768/2023 pentru aprobarea Ghidului specific privind condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C2/S/I.2.B, pentru subinvestiția I.2.B. \"Acordarea de sprijin de minimis pentru dezvoltarea de capacități moderne de producere a materialului forestier de reproducere\", investiția 2. \"Dezvoltarea de capacități moderne de producere a materialului forestier de reproducere\", schemă de ajutor de minimis, componenta 2. \"Păduri și protecția biodiversității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266038",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266038",
+     "sha256": "8b8e2c231d0c635e2a31b89a65c589276a69f23e4b7fd93e0d6bd8996333ece1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-783-2023",
+   "path": "ordin/mediu/2023/783",
+   "short": "Ordin mediu nr. 783/2023",
+   "title": "Ordinul nr. 783/2023 pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266102",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266102",
+     "sha256": "38c3da00e795e7913240b0e27112e77c71b18cc990ba333646efd64dfa498178"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-784-2023",
+   "path": "ordin/mediu/2023/784",
+   "short": "Ordin mediu nr. 784/2023",
+   "title": "Ordinul nr. 784/2023 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266103",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266103",
+     "sha256": "8eceb80667c44be30cd2654c082c434f367e57c33d2a63b0bfebae91afa347d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-859-2023",
+   "path": "ordin/mediu/2023/859",
+   "short": "Ordin mediu nr. 859/2023",
+   "title": "Ordinul nr. 859/2023 pentru aprobarea derogării în scop științific pentru 7 exemplare din specia zimbru (Bison bonasus)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266673",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266673",
+     "sha256": "c42376f5a259436a634f9e20938bf4e433f33232fc328947900653f57bd7a3e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-864-2023",
+   "path": "ordin/mediu/2023/864",
+   "short": "Ordin mediu nr. 864/2023",
+   "title": "Ordinul nr. 864/2023 pentru modificarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.261/2022 pentru aprobarea Ghidului de finanțare a Programului privind casarea autovehiculelor uzate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266557",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266557",
+     "sha256": "f734d395b1de382bc93bf37c82b808ccc659377e91c4f56e15255db663070406"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-868-2023",
    "path": "ordin/mediu/2023/868",
    "short": "Ordin mediu nr. 868/2023",
@@ -6194,6 +7529,81 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267326",
      "sha256": "0d9d92633392d15df5287e8e88ab4a64f269ddb254ca8bf0f902d65168bb9d45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-872-2023",
+   "path": "ordin/mediu/2023/872",
+   "short": "Ordin mediu nr. 872/2023",
+   "title": "Ordinul nr. 872/2023 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială, stabilite în favoarea personalului Ministerului Mediului, Apelor și Pădurilor și al unităților ce funcționează în subordinea, sub autoritatea sau în coordonarea sa, devenite executorii în perioada 1 ianuarie-31 decembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266633",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266633",
+     "sha256": "53a6c8b5963bda26ec97e629ba68e21c7d84e6628fd57f00b8ee446a08e3a0ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-890-2023",
+   "path": "ordin/mediu/2023/890",
+   "short": "Ordin mediu nr. 890/2023",
+   "title": "Ordinul nr. 890/2023 privind modificarea și completarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 2.366/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.B, pentru subinvestiția I1.B. \"Construirea de insule ecologice digitalizate\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266635",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266635",
+     "sha256": "0c595497a1efb30933b80bdb9ae7bba5334e23f867e4f51f56f598019fc7feaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-901-2023",
+   "path": "ordin/mediu/2023/901",
+   "short": "Ordin mediu nr. 901/2023",
+   "title": "Ordinul nr. 901/2023 privind aprobarea Ghidului de elaborare a Planului de management al ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267533",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267533",
+     "sha256": "a5c8ad8e83db81c6c9849413655bf60c955758615273db606ad2b955ddc4d8f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-905-2023",
+   "path": "ordin/mediu/2023/905",
+   "short": "Ordin mediu nr. 905/2023",
+   "title": "Ordinul nr. 905/2023 privind aprobarea Planului de management al Sitului Natura 2000 ROSCI0383 Râul Târnava Mare între Odorheiu Secuiesc și Vânători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267235",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267235",
+     "sha256": "d9f697deb1e63b7e1a4d9ad493ddfb039c32bd5b9d125179815598ab37567ef4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-908-2023",
+   "path": "ordin/mediu/2023/908",
+   "short": "Ordin mediu nr. 908/2023",
+   "title": "Ordinul nr. 908/2023 privind aprobarea Planului de management al siturilor Natura 2000 ROSCI0131 Oltenița-Mostiștea-Chiciu (incluzând rezervația naturală IV.20. Ostrovul Haralambie), ROSPA0021 Ciocănești-Dunăre (incluzând rezervația naturală IV.21 Ostrovul Ciocănești), ROSPA0055 Lacul Gălățui, ROSPA0105 Valea Mostiștea, ROSPA 0136 Oltenița-Ulmeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267538",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267538",
+     "sha256": "a5d0a627c01a63af71bd571eaa756e5895599fd814e5367d9c5d6985f087c5f2"
     }
    ]
   },
@@ -7030,7 +8440,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/270914",
    "versions": [
     {
-     "from": "2023-05-31",
+     "from": "2023-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270914",
      "sha256": "dbbc522448678e4a878c87bc8313662876da1df3fe6320cb845a3fd2efa29780"
@@ -7420,7 +8830,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/273425",
    "versions": [
     {
-     "from": "2023-08-01",
+     "from": "2023-08-31",
      "units": 50,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273425",
      "sha256": "b4ca4f26efbb73a8001a8bc69cd56f2e176f66c4af6c841697efaeb9c302f585"
@@ -8545,7 +9955,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/277735",
    "versions": [
     {
-     "from": "2023-12-27",
+     "from": "2024-01-01",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277735",
      "sha256": "2eaaf88ebe15c0d6da2466b1fec11afa63f4f444b3e556b3b94ae90c4414421f"
@@ -9003,6 +10413,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1007-2023",
+   "path": "ordin/transporturi/2023/1007",
+   "short": "Ordin transporturi nr. 1007/2023",
+   "title": "Ordinul nr. 1.007/2023 pentru modificarea anexelor nr. 1, 2 și 4 la Ordinul ministrului transporturilor nr. 444/2018 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270232",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270232",
+     "sha256": "c7060ecc2656a9e05487bcccf2eb528d00eb91241c0188d8123c08bd30160d78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-101-2023",
+   "path": "ordin/transporturi/2023/101",
+   "short": "Ordin transporturi nr. 101/2023",
+   "title": "Ordinul nr. 101/2023 pentru modificarea Ordinului ministrului transporturilor nr. 1.266/2014 privind aprobarea formei și conținutului carnetelor de marinar, brevetelor, certificatelor de capacitate și atestatelor pentru personalul navigant maritim și maritim portuar, precum și a formei și conținutului documentelor de atestare pentru personalul navigant pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264473",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264473",
+     "sha256": "36bb137243dda7f010c4c9ff06994caca83c3da3d25c20c410a508747bb0227d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1014-2023",
+   "path": "ordin/transporturi/2023/1014",
+   "short": "Ordin transporturi nr. 1014/2023",
+   "title": "Ordinul nr. 1.014/2023 privind modificarea și completarea Ordinului ministrului transporturilor, infrastructurii și comunicațiilor nr. 852/2020 pentru aprobarea Condițiilor de închiriere a bunurilor imobile sau părți din acestea, proprietate publică a statului, aflate în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor și în concesiunea Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270074",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270074",
+     "sha256": "a5b8da05ccc232707377c74307ad6dba51f250321dad651d680bd71bb5546867"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1022-2023",
+   "path": "ordin/transporturi/2023/1022",
+   "short": "Ordin transporturi nr. 1022/2023",
+   "title": "Ordinul nr. 1.022/2023 pentru modificarea Ordinului ministrului transporturilor nr. 1.266/2014 privind aprobarea formei și conținutului carnetelor de marinar, brevetelor, certificatelor de capacitate și atestatelor pentru personalul navigant maritim și maritim portuar, precum și a formei și conținutului certificatelor de calificare națională pentru personalul navigant pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270249",
+   "versions": [
+    {
+     "from": "2023-08-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270249",
+     "sha256": "b6c7ba2c2c41e0f3581d9bcc464097597c2cb74603353f572c2e946f6121ced8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1114-2023",
    "path": "ordin/transporturi/2023/1114",
    "short": "Ordin transporturi nr. 1114/2023",
@@ -9033,6 +10503,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1127-2023",
+   "path": "ordin/transporturi/2023/1127",
+   "short": "Ordin transporturi nr. 1127/2023",
+   "title": "Ordinul nr. 1.127/2023 pentru modificarea și completarea Reglementărilor privind inspecția tehnică periodică a vehiculelor înmatriculate sau înregistrate în România - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270797",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270797",
+     "sha256": "1e6645ea2bf4b78e7dca34d7b5fe4c432d39653121015aaf25da74e2826c16a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1191-2023",
    "path": "ordin/transporturi/2023/1191",
    "short": "Ordin transporturi nr. 1191/2023",
@@ -9044,6 +10529,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271190",
      "sha256": "af7a4b753a76331f9d6b69c902415a4cd82f6c772aa06ac4a013de684547d906"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1197-2023",
+   "path": "ordin/transporturi/2023/1197",
+   "short": "Ordin transporturi nr. 1197/2023",
+   "title": "Ordinul nr. 1.197/2023 pentru modificarea Ordinului ministrului transporturilor și infrastructurii nr. 422/2011 privind normele tehnice de siguranță pentru navele maritime de pasageri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271554",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271554",
+     "sha256": "4f1dd604c6656b7dd32b97ea57fc16db9c026ea9cde26eae48ab2150602f6e37"
     }
    ]
   },
@@ -9063,6 +10563,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1201-2023",
+   "path": "ordin/transporturi/2023/1201",
+   "short": "Ordin transporturi nr. 1201/2023",
+   "title": "Ordinul nr. 1.201/2023 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271354",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271354",
+     "sha256": "38d7f4e1cbdee0046060cd2aa50968df7071154d3685f35f83d10d3af609fe79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1202-2023",
+   "path": "ordin/transporturi/2023/1202",
+   "short": "Ordin transporturi nr. 1202/2023",
+   "title": "Ordinul nr. 1.202/2023 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 275/2021 pentru aprobarea Reglementării aeronautice civile române privind certificarea furnizorilor de servicii de handling la sol, RACR-AD-FSH",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271191",
+   "versions": [
+    {
+     "from": "2023-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271191",
+     "sha256": "e1cda747364fd08938912fa253fdf2f15d4bb930952b2066363dd48ab8d2aa62"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1268-2023",
    "path": "ordin/transporturi/2023/1268",
    "short": "Ordin transporturi nr. 1268/2023",
@@ -9078,6 +10608,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1375-2023",
+   "path": "ordin/transporturi/2023/1375",
+   "short": "Ordin transporturi nr. 1375/2023",
+   "title": "Ordinul nr. 1.375/2023 pentru modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.203/2022 pentru aprobarea Regulamentului privind criteriile minime de pregătire, perfecționare și brevetare a piloților maritimi, alții decât piloții de mare largă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271996",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271996",
+     "sha256": "c8c6e2a61ad2adc692ed5b1799001334e578ac00568c2722234c8421e43bacc1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1431-2023",
    "path": "ordin/transporturi/2023/1431",
    "short": "Ordin transporturi nr. 1431/2023",
@@ -9089,6 +10634,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273943",
      "sha256": "80fa16b975dd58bdae27460d89877054db3b64355d226777ddd2adc0fda8dfa1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1443-2023",
+   "path": "ordin/transporturi/2023/1443",
+   "short": "Ordin transporturi nr. 1443/2023",
+   "title": "Ordinul nr. 1.443/2023 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 615/2015 privind aprobarea Procedurii pentru obținerea permisului de mecanic de locomotivă, Cerințelor privind procedurile de eliberare și actualizare a certificatului și Cerințelor și procedurii de recunoaștere a persoanelor și organismelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273539",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273539",
+     "sha256": "2703a0f43dbf6bec8138856ee17fd96bff92868c1cbfa897f871944289962aea"
     }
    ]
   },
@@ -9138,6 +10698,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1500-2023",
+   "path": "ordin/transporturi/2023/1500",
+   "short": "Ordin transporturi nr. 1500/2023",
+   "title": "Ordinul nr. 1.500/2023 privind modificarea și completarea Ordinului ministrului transporturilor nr. 139/2014 pentru publicarea unor instrucțiuni și linii directoare necesare punerii în aplicare a anexei VI la MARPOL, adoptate de Organizația Maritimă Internațională prin Rezoluția MEPC.182(59), Rezoluția MEPC.184(59) și Rezoluția MEPC.259(68)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273891",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273891",
+     "sha256": "1a8af73a8e40669cb9343c8847e51bead3384fbf599363ffe0afcaec63edbee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1504-2023",
+   "path": "ordin/transporturi/2023/1504",
+   "short": "Ordin transporturi nr. 1504/2023",
+   "title": "Ordinul nr. 1.504/2023 pentru modificarea alin. (2) al art. 5 din Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 2.144/2020 privind acordarea unui ajutor de exploatare și a unui ajutor de investiții, exceptate de la obligația notificării, Societății Naționale \"Aeroportul Internațional Mihail Kogălniceanu - Constanța\" - S.A., pentru anii 2021-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273855",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273855",
+     "sha256": "89a32bcb0c4d8caee97422447ed1045ac6e6f93849c9b695cc9d28986d157f0a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1553-2023",
    "path": "ordin/transporturi/2023/1553",
    "short": "Ordin transporturi nr. 1553/2023",
@@ -9145,7 +10735,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
    "versions": [
     {
-     "from": "2024-07-10",
+     "from": "2024-09-08",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
      "sha256": "788db90b77a5eb038febcc2f95f305e2d4331373bd50b8f4d6da42cf44926067"
@@ -9164,6 +10754,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273893",
      "sha256": "ddb3ff99e79ae9dbf0e687b5e342025eb3102bd70ba1856eaf3408d22ae7d94f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1636-2023",
+   "path": "ordin/transporturi/2023/1636",
+   "short": "Ordin transporturi nr. 1636/2023",
+   "title": "Ordinul nr. 1.636/2023 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de \"Autoritatea Aeronautică Civilă Română\" pentru efectuarea activităților prevăzute la art. 6 alin. (2) lit. a) din Hotărârea Guvernului nr. 405/1993 privind înființarea Autorității Aeronautice Civile Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274377",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274377",
+     "sha256": "c81055c0b0557784af147c27bb343057691ecd3910ca277881cc641574b22ef9"
     }
    ]
   },
@@ -9198,6 +10803,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1670-2023",
+   "path": "ordin/transporturi/2023/1670",
+   "short": "Ordin transporturi nr. 1670/2023",
+   "title": "Ordinul nr. 1.670/2023 pentru modificarea Ordinului ministrului transporturilor nr. 1.266/2014 privind aprobarea formei și conținutului carnetelor de marinar, brevetelor, certificatelor de capacitate și atestatelor pentru personalul navigant maritim și maritim portuar, precum și a formei și conținutului certificatelor de calificare națională pentru personalul navigant pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274667",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274667",
+     "sha256": "74acd1df047a6e2ee6863ddf37a8c2ad97d0da60fad8ee06b223741646d83135"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1711-2023",
    "path": "ordin/transporturi/2023/1711",
    "short": "Ordin transporturi nr. 1711/2023",
@@ -9224,6 +10844,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274795",
      "sha256": "f768b7eac6108101bdd6fa6bd1be76456ec1d9cafd48bf35baf6f1b5a5cf6355"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1822-2023",
+   "path": "ordin/transporturi/2023/1822",
+   "short": "Ordin transporturi nr. 1822/2023",
+   "title": "Ordinul nr. 1.822/2023 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând porturile și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275128",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275128",
+     "sha256": "57d1ca1a054d76cd72fa3f440450d74b7321cb8deb3d0e251dafb4a753ebe78e"
     }
    ]
   },
@@ -9273,6 +10908,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1850-2023",
+   "path": "ordin/transporturi/2023/1850",
+   "short": "Ordin transporturi nr. 1850/2023",
+   "title": "Ordinul nr. 1.850/2023 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 1.532/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura portuară și în infrastructura locală intermodală/multimodală, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 1, obiectivul specific 1.3 - Creșterea gradului de utilizare a căilor navigabile și a porturilor situate pe rețeaua TEN-T centrală, și axa prioritară 2 - Dezvoltarea unui sistem de transport multimodal, de calitate, durabil și eficient, obiectivul specific 2.4 - Creșterea volumului de mărfuri tranzitate prin terminale intermodale și porturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275411",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275411",
+     "sha256": "19e33f20565a3870d529f4a94742d1d1e6a0ecfe436618173ba8b76f60130829"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1863-2023",
+   "path": "ordin/transporturi/2023/1863",
+   "short": "Ordin transporturi nr. 1863/2023",
+   "title": "Ordinul nr. 1.863/2023 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275552",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275552",
+     "sha256": "2cf5882564b26942157c115f7c84869157fde45e4a090c0019e0857c8bfba101"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1936-2023",
    "path": "ordin/transporturi/2023/1936",
    "short": "Ordin transporturi nr. 1936/2023",
@@ -9284,6 +10949,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276072",
      "sha256": "cef9002105491afe92b8abd7b71380e24c21d86dc82768ff15113e1910d61dec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1937-2023",
+   "path": "ordin/transporturi/2023/1937",
+   "short": "Ordin transporturi nr. 1937/2023",
+   "title": "Ordinul nr. 1.937/2023 pentru modificarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275830",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275830",
+     "sha256": "de4d5a93ad459b03f777c706c9968bddcb019e0b0516b081562daa320169f103"
     }
    ]
   },
@@ -9378,6 +11058,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2079-2023",
+   "path": "ordin/transporturi/2023/2079",
+   "short": "Ordin transporturi nr. 2079/2023",
+   "title": "Ordinul nr. 2.079/2023 pentru modificarea anexei nr. 1 la Ordinul ministrului transporturilor și infrastructurii și al ministrului investițiilor și proiectelor europene nr. 1.337/1.903/2022 privind aprobarea elementelor de cost semnificative pentru proiectele de infrastructură de transport feroviar de interes național sau european și pentru proiectele de infrastructură de transport cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277652",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277652",
+     "sha256": "72f6e991b963d4529c3235e4d9726761549a63f972f58ae5be82dd51a4b093e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2099-2023",
+   "path": "ordin/transporturi/2023/2099",
+   "short": "Ordin transporturi nr. 2099/2023",
+   "title": "Ordinul nr. 2.099/2023 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 315/2011 privind aprobarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277380",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277380",
+     "sha256": "fe3d382c0c3120a039c3bf73421152f805a53f82e15f351c550f055e06c8b093"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2100-2023",
    "path": "ordin/transporturi/2023/2100",
    "short": "Ordin transporturi nr. 2100/2023",
@@ -9438,6 +11148,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2302-2023",
+   "path": "ordin/transporturi/2023/2302",
+   "short": "Ordin transporturi nr. 2302/2023",
+   "title": "Ordinul nr. 2.302/2023 privind modificarea Ordinului ministrului transporturilor, infrastructurii și comunicațiilor nr. 232/2020 pentru eliberarea autorizației de siguranță administratorului/ gestionarilor de infrastructură feroviară din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278181",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278181",
+     "sha256": "e87d3b4e31d8f4af47ab0154664f314928f7486c1b69d68e2acd8f159feec06f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2303-2023",
+   "path": "ordin/transporturi/2023/2303",
+   "short": "Ordin transporturi nr. 2303/2023",
+   "title": "Ordinul nr. 2.303/2023 pentru modificarea și completarea Ordinului ministrului transporturilor, infrastructurii și comunicațiilor nr. 2.144/2020 privind acordarea unui ajutor de exploatare și a unui ajutor de investiții, exceptate de la obligația notificării, Societății Naționale \"Aeroportul Internațional Mihail Kogălniceanu - Constanța\" - S.A., pentru anii 2021-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277575",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277575",
+     "sha256": "fea25db5ba67aeb18630437c15a6ebfdc34269ab33824c2ab407a8716e743a3b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2306-2023",
    "path": "ordin/transporturi/2023/2306",
    "short": "Ordin transporturi nr. 2306/2023",
@@ -9449,6 +11189,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277755",
      "sha256": "6de8fb221f1af28c58399ccb3ee4d7e6a91ce577d0a62523c5ba853dcce2824d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2325-2023",
+   "path": "ordin/transporturi/2023/2325",
+   "short": "Ordin transporturi nr. 2325/2023",
+   "title": "Ordinul nr. 2.325/2023 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 1.493/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura aeroportuară, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 2 - Dezvoltarea unui sistem de transport multimodal, de calitate, durabil și eficient, obiectivul specific 2.3 - Creșterea gradului de utilizare sustenabilă a aeroporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277728",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277728",
+     "sha256": "ace301a1dab61e5792c0dfcb20c01d8a7f9bf12d3470bd09cea5d6e2399d876d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2355-2023",
+   "path": "ordin/transporturi/2023/2355",
+   "short": "Ordin transporturi nr. 2355/2023",
+   "title": "Ordinul nr. 2.355/2023 pentru modificarea Ordinului ministrului transporturilor și infrastructurii nr. 536/2012 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278106",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278106",
+     "sha256": "8147a177e50d9f0e50c09019ca97bacb32fced1962fcc4091d1d66581062bb9f"
     }
    ]
   },
@@ -9479,6 +11249,66 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278521",
      "sha256": "d2a877d4d1a1660398601db4d0b82528c77cc5ba4867359a62b75265cd883c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-248-2023",
+   "path": "ordin/transporturi/2023/248",
+   "short": "Ordin transporturi nr. 248/2023",
+   "title": "Ordinul nr. 248/2023 pentru modificarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264632",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264632",
+     "sha256": "da45d78fe619633fc7b0d86fa7f2cb8ae655d0bf8d4b0a3721599118126067a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-388-2023",
+   "path": "ordin/transporturi/2023/388",
+   "short": "Ordin transporturi nr. 388/2023",
+   "title": "Ordinul nr. 388/2023 pentru modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 271/2022 pentru aprobarea Reglementării aeronautice civile române RACR-LMET \"Licența de meteorolog aeronautic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264800",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264800",
+     "sha256": "599fb4492ff46c69424110a986f518ddea5469ec8bec86b0b3e0ab40f6509fe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-4-2023",
+   "path": "ordin/transporturi/2023/4",
+   "short": "Ordin transporturi nr. 4/2023",
+   "title": "Ordinul nr. 4/2023 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263770",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263770",
+     "sha256": "846bd11cca1dea76b21ae850ecddc4f564135eebcabb5f71f5ae4bef32d6a461"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-404-2023",
+   "path": "ordin/transporturi/2023/404",
+   "short": "Ordin transporturi nr. 404/2023",
+   "title": "Ordinul nr. 404/2023 pentru modificarea articolului 2 din anexa la Ordinul ministrului transporturilor nr. 683/2017 privind aprobarea tarifelor pentru prestațiile de activități specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264778",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264778",
+     "sha256": "e30becdf3c2d801a762a64f1babcbb5e2aed8e40e7e178883d2af826aa9b1ad5"
     }
    ]
   },
@@ -9528,6 +11358,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-495-2023",
+   "path": "ordin/transporturi/2023/495",
+   "short": "Ordin transporturi nr. 495/2023",
+   "title": "Ordinul nr. 495/2023 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265692",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265692",
+     "sha256": "fd0618ddd0b95a0ed45f59b49eda70e83b73e2eed41bff8e62069801fa23a976"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-497-2023",
+   "path": "ordin/transporturi/2023/497",
+   "short": "Ordin transporturi nr. 497/2023",
+   "title": "Ordinul nr. 497/2023 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005 pentru aprobarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265568",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265568",
+     "sha256": "59f13ed6afb0bebb3c2282286174e9ac83a05d7899545990826e9935fe3f0d88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-498-2023",
    "path": "ordin/transporturi/2023/498",
    "short": "Ordin transporturi nr. 498/2023",
@@ -9543,6 +11403,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-580-2023",
+   "path": "ordin/transporturi/2023/580",
+   "short": "Ordin transporturi nr. 580/2023",
+   "title": "Ordinul nr. 580/2023 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266226",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266226",
+     "sha256": "565133aa59266128d1c7f091c206d97bff54879e6be0242b847c89b2f5cd8f63"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-832-2023",
    "path": "ordin/transporturi/2023/832",
    "short": "Ordin transporturi nr. 832/2023",
@@ -9554,6 +11429,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266782",
      "sha256": "a5113405c9b64028d10037b61f13ea2524fec6f194a28a361b13c0b90397b144"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-893-2023",
+   "path": "ordin/transporturi/2023/893",
+   "short": "Ordin transporturi nr. 893/2023",
+   "title": "Ordinul nr. 893/2023 privind modificarea anexei la Ordinul ministrului transporturilor nr. 677/2018 pentru aprobarea Reglementării aeronautice civile române RACR-SPAR \"Salturi cu parașuta\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267205",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267205",
+     "sha256": "4f13e6932aa19140bd7d49e525736007976d56499ad8f741d7a211acfa9c4acc"
     }
    ]
   },
@@ -9614,6 +11504,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
      "sha256": "5720b24bfe12d5d7092ab64d2dd63f4392503ce5b079c9008778aab5cbe6fe33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-994-2023",
+   "path": "ordin/transporturi/2023/994",
+   "short": "Ordin transporturi nr. 994/2023",
+   "title": "Ordinul nr. 994/2023 privind modificarea și completarea Ordinului ministrului transporturilor nr. 1.079/2014 pentru stabilirea procedurilor privind evidența și înmatricularea ambarcațiunilor de agrement, condițiile tehnice și încadrarea cu personal navigant a acestora și avizarea operatorilor economici pentru desfășurarea activităților de agrement nautic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267476",
+   "versions": [
+    {
+     "from": "2023-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267476",
+     "sha256": "da897a4269df92b4582babb5b78ba24fbc16e8e41b512480fe3380fccee5c454"
     }
    ]
   }

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.214/2003 pentru aprobarea Normelor privind suplimentele alimentare
 
-Ordin sanatate nr. 1214/2003 · 1 versions, from 2004-01-21 (latest in force: 2004-01-21) · <https://legislatie.just.ro/Public/DetaliiDocument/49265>
+Ordin sanatate nr. 1214/2003 · 1 versions, from 2004-04-20 (latest in force: 2004-04-20) · <https://legislatie.just.ro/Public/DetaliiDocument/49265>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 20 April 2004; this record still dates it from 21 January 2004, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -40,4 +40,4 @@ Act id: `ordin-sanatate-1214-2003` (tags `ordin-sanatate-1214-2003/<day>`; `pyth
 - Ordin sanatate nr. 1214/2003: the first version is the order as published in Monitorul Oficial nr. 50 of 21 January 2004 (document 49265 of the official web service), in force on 20 April 2004, the day it states for itself.
 - Ordin sanatate nr. 1214/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1214/2003: Anexa nr. 1 (NORME din 23 decembrie 2003 privind suplimentele alimentare) is part of the order and is published in its folder, anexa-1/ (16 articles), from document 49266 of the official web service.
-- Ordin sanatate nr. 1214/2003: first published here dated 21 January 2004; its in-force clause states 20 April 2004. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1214/2003: re-dated by a correction: in force from 20 April 2004 (first published dated 21 January 2004).

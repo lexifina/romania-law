@@ -1,8 +1,8 @@
 # Ordinul nr. 770/2025 pentru aprobarea reglementării tehnice "Normativ privind urmărirea comportării în exploatare a construcțiilor, indicativ P 130-2025"
 
-Ordin dezvoltare nr. 770/2025 · 1 versions, from 2025-06-19 (latest in force: 2025-06-19) · <https://legislatie.just.ro/Public/DetaliiDocument/299154>
+Ordin dezvoltare nr. 770/2025 · 1 versions, from 2025-07-19 (latest in force: 2025-07-19) · <https://legislatie.just.ro/Public/DetaliiDocument/299154>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 19 July 2025; this record still dates it from 19 June 2025, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-dezvoltare-770-2025` (tags `ordin-dezvoltare-770-2025/<day>`; `py
 - Ordin dezvoltare nr. 770/2025: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 770/2025: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 30 mai 2025 Normativ privind urmărirea comportării în exploatare a construcțiilor, indicativ P 130-2025) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 299190 of the official web service.
 - Ordin dezvoltare nr. 770/2025: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 568 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, Bu" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
-- Ordin dezvoltare nr. 770/2025: first published here dated 19 June 2025; its in-force clause states 19 July 2025. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 770/2025: re-dated by a correction: in force from 19 July 2025 (first published dated 19 June 2025).

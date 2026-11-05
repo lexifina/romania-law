@@ -1,8 +1,8 @@
 # Ordinul nr. 1.073/2014 privind modificarea și completarea Ordinului ministrului sănătății nr. 245/2012 pentru aprobarea prețurilor la medicamentele de uz uman cuprinse în Catalogul național al prețurilor medicamentelor de uz uman autorizate de punere pe piață în România
 
-Ordin sanatate nr. 1073/2014 · 1 versions, from 2014-09-17 (latest in force: 2014-09-17) · <https://legislatie.just.ro/Public/DetaliiDocument/161376>
+Ordin sanatate nr. 1073/2014 · 1 versions, from 2014-10-01 (latest in force: 2014-10-01) · <https://legislatie.just.ro/Public/DetaliiDocument/161376>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 October 2014; this record still dates it from 17 September 2014, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-sanatate-1073-2014` (tags `ordin-sanatate-1073-2014/<day>`; `pyth
 - Ordin sanatate nr. 1073/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1073/2014: the first version is the order as published in Monitorul Oficial nr. 680 of 17 September 2014 (document 161376 of the official web service), in force on 1 October 2014, the day it states for itself.
 - Ordin sanatate nr. 1073/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1073/2014: first published here dated 17 September 2014; its in-force clause states 1 October 2014. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1073/2014: re-dated by a correction: in force from 1 October 2014 (first published dated 17 September 2014).

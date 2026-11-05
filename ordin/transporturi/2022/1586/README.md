@@ -1,8 +1,8 @@
 # Ordinul nr. 1.586/2022 ORDIN 1.586 din 20 septembrie 2022 pentru aprobarea reglementării tehnice "Metodologie de evaluare a aptitudinii de exploatare a podurilor rutiere corespunzătoare cerințelor clasei E de încărcare - conform Eurocoduri"
 
-Ordin transporturi nr. 1586/2022 · 1 versions, from 2022-10-12 (latest in force: 2022-10-12) · <https://legislatie.just.ro/Public/DetaliiDocument/260327>
+Ordin transporturi nr. 1586/2022 · 1 versions, from 2022-11-11 (latest in force: 2022-11-11) · <https://legislatie.just.ro/Public/DetaliiDocument/260327>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 11 November 2022; this record still dates it from 12 October 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-transporturi-1586-2022` (tags `ordin-transporturi-1586-2022/<day>
 - Ordin transporturi nr. 1586/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin transporturi nr. 1586/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 988 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bl. P33, parter, sectorul 5, Buc" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Ordin transporturi nr. 1586/2022: a joint order of Ministerul Transporturilor și Infrastructurii nr. 1.586 din 20 September 2022; Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 2.518 din 28 September 2022. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-2518-2022` name it too (data/paths.json aliases).
-- Ordin transporturi nr. 1586/2022: first published here dated 12 October 2022; its in-force clause states 11 November 2022. The record keeps the first date until it is corrected by hand.
+- Ordin transporturi nr. 1586/2022: re-dated by a correction: in force from 11 November 2022 (first published dated 12 October 2022).

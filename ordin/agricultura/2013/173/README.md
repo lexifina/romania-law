@@ -1,8 +1,8 @@
 # Ordinul nr. 173/2013 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 510/768/319/2003 pentru aprobarea Normelor cu privire la natura, compoziția, fabricarea și etichetarea sucurilor din fructe și ale altor produse similare destinate consumului uman
 
-Ordin agricultura nr. 173/2013 · 1 versions, from 2013-05-29 (latest in force: 2013-05-29) · <https://legislatie.just.ro/Public/DetaliiDocument/148484>
+Ordin agricultura nr. 173/2013 · 1 versions, from 2013-10-28 (latest in force: 2013-10-28) · <https://legislatie.just.ro/Public/DetaliiDocument/148484>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 28 October 2013; this record still dates it from 29 May 2013, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,4 @@ Act id: `ordin-agricultura-173-2013` (tags `ordin-agricultura-173-2013/<day>`; `
 - Ordin agricultura nr. 173/2013: Anexa nr. 4 (4) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 148484 of the official web service.
 - Ordin agricultura nr. 173/2013: Anexa nr. 5 (5) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 148484 of the official web service.
 - Ordin agricultura nr. 173/2013: a joint order of Ministerul Agriculturii și Dezvoltării Rurale nr. 173 din 2 April 2013; Ministerul Sănătății nr. 515 din 15 April 2013; Autoritatea Națională pentru Protecția Consumatorilor nr. 180 din 24 April 2013. It is published once, here, under the issuer its EMITENT block lists first; `ordin-sanatate-515-2013`, `ordin-anpc-180-2013` name it too (data/paths.json aliases).
-- Ordin agricultura nr. 173/2013: first published here dated 29 May 2013; its in-force clause states 28 October 2013. The record keeps the first date until it is corrected by hand.
+- Ordin agricultura nr. 173/2013: re-dated by a correction: in force from 28 October 2013 (first published dated 29 May 2013).

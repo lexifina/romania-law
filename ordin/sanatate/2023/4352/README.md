@@ -1,8 +1,8 @@
 # Ordinul nr. 4.352/2023 pentru modificarea și completarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.857/441/2023
 
-Ordin sanatate nr. 4352/2023 · 1 versions, from 2023-12-27 (latest in force: 2023-12-27) · <https://legislatie.just.ro/Public/DetaliiDocument/277735>
+Ordin sanatate nr. 4352/2023 · 1 versions, from 2024-01-01 (latest in force: 2024-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/277735>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2024; this record still dates it from 27 December 2023, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-sanatate-4352-2023` (tags `ordin-sanatate-4352-2023/<day>`; `pyth
 - Ordin sanatate nr. 4352/2023: the first version is the order as published in Monitorul Oficial nr. 1180 of 27 December 2023 (document 277735 of the official web service), in force on 1 January 2024, the day it states for itself.
 - Ordin sanatate nr. 4352/2023: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 4352/2023: a joint order of Ministerul Sănătății nr. 4.352 din 27 December 2023; Casa Națională de Asigurări de Sănătate nr. 1.259 din 27 December 2023. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-1259-2023` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 4352/2023: first published here dated 27 December 2023; its in-force clause states 1 January 2024. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 4352/2023: re-dated by a correction: in force from 1 January 2024 (first published dated 27 December 2023).

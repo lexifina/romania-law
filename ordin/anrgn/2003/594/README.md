@@ -1,8 +1,8 @@
 # Ordinul nr. 594/2003 privind aprobarea prețurilor și stabilirea tarifelor reglementate în sectorul gazelor naturale
 
-Ordin anrgn nr. 594/2003 · 1 versions, from 2003-08-18 (latest in force: 2003-08-18) · <https://legislatie.just.ro/Public/DetaliiDocument/45659>
+Ordin anrgn nr. 594/2003 · 1 versions, from 2003-09-02 (latest in force: 2003-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/45659>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 2 September 2003; this record still dates it from 18 August 2003, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-anrgn-594-2003` (tags `ordin-anrgn-594-2003/<day>`; `python tools
 - Ordin anrgn nr. 594/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin anrgn nr. 594/2003: Anexa nr. 1 (TARIFELE REGLEMENTATE pentru serviciile de inmagazinare a gazelor naturale în depozitele subterane operate de Societatea Naționala de Gaze Naturale "Romgaz" - S.A. Medias, pentru un ciclu complet de i) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 45659 of the official web service.
 - Ordin anrgn nr. 594/2003: a joint order of Autoritatea Naționala de Reglementare în Domeniul Gazelor Naturale nr. 594 din 7 August 2003; Agenția Naționala pentru Resurse Minerale nr. 141 din 7 August 2003. It is published once, here, under the issuer its EMITENT block lists first; `ordin-anrm-141-2003` name it too (data/paths.json aliases).
-- Ordin anrgn nr. 594/2003: first published here dated 18 August 2003; its in-force clause states 2 September 2003. The record keeps the first date until it is corrected by hand.
+- Ordin anrgn nr. 594/2003: re-dated by a correction: in force from 2 September 2003 (first published dated 18 August 2003).

@@ -1,8 +1,8 @@
 # Norma nr. 39/2016 privind asigurările auto din România
 
-Norma asf nr. 39/2016 · 1 versions, from 2016-12-08 (latest in force: 2016-12-08) · <https://legislatie.just.ro/Public/DetaliiDocument/184402>
+Norma asf nr. 39/2016 · 1 versions, from 2016-12-23 (latest in force: 2016-12-23) · <https://legislatie.just.ro/Public/DetaliiDocument/184402>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 8 (CONSTATARE AMIABILĂ EUROPEANĂ): the official text prints its heading only, and its text is not in the records held. Its in-force clause states 23 December 2016; this record still dates it from 8 December 2016, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 8 (CONSTATARE AMIABILĂ EUROPEANĂ): the official text prints its heading only, and its text is not in the records held.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -81,4 +81,4 @@ Act id: `norma-asf-39-2016` (tags `norma-asf-39-2016/<day>`; `python tools/on.py
 - Norma asf nr. 39/2016: Anexa nr. 6 (FORMULAR DOCUMENT INTERNAȚIONAL DE ASIGURARE PENTRU AUTOVEHICULE EMIS SUB AUTORITATEA BIROULUI ASIGURĂTORILOR DE AUTOVEHICULE DIN ROMÂNIA (B.A.A.R.) CONTRACT DE ASIGURARE DE RĂSPUNDERE CIVILĂ AUTO RCA) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 184402 of the official web service.
 - Norma asf nr. 39/2016: Anexa nr. 7 (Anexa nr. 7) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 184402 of the official web service.
 - Norma asf nr. 39/2016: Anexa nr. 8 (CONSTATARE AMIABILĂ EUROPEANĂ) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
-- Norma asf nr. 39/2016: first published here dated 8 December 2016; its in-force clause states 23 December 2016. The record keeps the first date until it is corrected by hand.
+- Norma asf nr. 39/2016: re-dated by a correction: in force from 23 December 2016 (first published dated 8 December 2016).

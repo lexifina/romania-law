@@ -1,8 +1,8 @@
 # Ordinul nr. 872/2006 pentru aprobarea Normelor privind procedura de acordare a exceptării de la obligația prezenței anumitor informații pe etichetă și în prospect și de la obligația ca prospectul să fie în limba română, în cazul medicamentelor de uz uman care nu sunt destinate eliberării directe către pacient
 
-Ordin sanatate nr. 872/2006 · 1 versions, from 2006-07-26 (latest in force: 2006-07-26) · <https://legislatie.just.ro/Public/DetaliiDocument/73793>
+Ordin sanatate nr. 872/2006 · 1 versions, from 2006-07-28 (latest in force: 2006-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/73793>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 28 July 2006; this record still dates it from 26 July 2006, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-sanatate-872-2006` (tags `ordin-sanatate-872-2006/<day>`; `python
 - Ordin sanatate nr. 872/2006: the first version is the order as published in Monitorul Oficial nr. 647 of 26 July 2006 (document 73793 of the official web service), in force on 28 July 2006, the day it states for itself.
 - Ordin sanatate nr. 872/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 872/2006: Anexa nr. 1 (NORME privind procedura de acordare a exceptării de la obligația prezenței anumitor informații pe etichetă și în prospect și de la obligația ca prospectul să fie în limba română, în cazul medicamentel) is part of the order and is published in its folder, anexa-1/ (3 articles), from document 73793 of the official web service.
-- Ordin sanatate nr. 872/2006: first published here dated 26 July 2006; its in-force clause states 28 July 2006. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 872/2006: re-dated by a correction: in force from 28 July 2006 (first published dated 26 July 2006).

@@ -1,8 +1,8 @@
 # Ordinul nr. 2.061/2025 pentru aprobarea reglementării tehnice "Instalații de telecomunicații în clădiri. Proiectare, instalare și verificare, indicativ RTC 15-2025"
 
-Ordin dezvoltare nr. 2061/2025 · 1 versions, from 2026-02-26 (latest in force: 2026-02-26) · <https://legislatie.just.ro/Public/DetaliiDocument/307582>
+Ordin dezvoltare nr. 2061/2025 · 1 versions, from 2026-03-28 (latest in force: 2026-03-28) · <https://legislatie.just.ro/Public/DetaliiDocument/307582>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 28 March 2026; this record still dates it from 26 February 2026, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-dezvoltare-2061-2025` (tags `ordin-dezvoltare-2061-2025/<day>`; `
 - Ordin dezvoltare nr. 2061/2025: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 23 decembrie 2025 "Instalații de telecomunicații în clădiri - Proiectare, instalare și verificare, indicativ RTC 15-2025") is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 307605 of the official web service.
 - Ordin dezvoltare nr. 2061/2025: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 148 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, Bu" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
 - Ordin dezvoltare nr. 2061/2025: a joint order of Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 2.061 din 23 December 2025; Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului nr. 171 din 5 February 2026; Autoritatea Națională pentru Administrare și Reglementare în Comunicații nr. 3.344 din 12 February 2026. It is published once, here, under the issuer its EMITENT block lists first; `ordin-economie-171-2026`, `ordin-ancom-3344-2026` name it too (data/paths.json aliases).
-- Ordin dezvoltare nr. 2061/2025: first published here dated 26 February 2026; its in-force clause states 28 March 2026. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 2061/2025: re-dated by a correction: in force from 28 March 2026 (first published dated 26 February 2026).

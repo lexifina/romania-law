@@ -1,8 +1,8 @@
 # Ordinul nr. 888/2006 privind revizuirea reglementărilor referitoare la examinările radiologice de masă
 
-Ordin sanatate nr. 888/2006 · 1 versions, from 2006-07-26 (latest in force: 2006-07-26) · <https://legislatie.just.ro/Public/DetaliiDocument/73802>
+Ordin sanatate nr. 888/2006 · 1 versions, from 2006-10-26 (latest in force: 2006-10-26) · <https://legislatie.just.ro/Public/DetaliiDocument/73802>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 26 October 2006; this record still dates it from 26 July 2006, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-sanatate-888-2006` (tags `ordin-sanatate-888-2006/<day>`; `python
 - Ordin sanatate nr. 888/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 888/2006: the first version is the order as published in Monitorul Oficial nr. 647 of 26 July 2006 (document 73802 of the official web service), in force on 26 October 2006, the day it states for itself.
 - Ordin sanatate nr. 888/2006: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 888/2006: first published here dated 26 July 2006; its in-force clause states 26 October 2006. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 888/2006: re-dated by a correction: in force from 26 October 2006 (first published dated 26 July 2006).

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.553/2023 pentru aprobarea reglementării tehnice "Instrucțiuni tehnice pentru marcaje rutiere", indicativ AND 616-2022
 
-Ordin transporturi nr. 1553/2023 · 1 versions, from 2024-07-10 (latest in force: 2024-07-10) · <https://legislatie.just.ro/Public/DetaliiDocument/285240>
+Ordin transporturi nr. 1553/2023 · 1 versions, from 2024-09-08 (latest in force: 2024-09-08) · <https://legislatie.just.ro/Public/DetaliiDocument/285240>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGLEMENTARE TEHNICĂ "Instrucțiuni tehnice pentru marcaje rutiere", indicativ AND 616-2022): its text could not yet be split into provisions without losing or adding words; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 8 September 2024; this record still dates it from 10 July 2024, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGLEMENTARE TEHNICĂ "Instrucțiuni tehnice pentru marcaje rutiere", indicativ AND 616-2022): its text could not yet be split into provisions without losing or adding words; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-transporturi-1553-2023` (tags `ordin-transporturi-1553-2023/<day>
 - Ordin transporturi nr. 1553/2023: Anexa nr. 1 (REGLEMENTARE TEHNICĂ "Instrucțiuni tehnice pentru marcaje rutiere", indicativ AND 616-2022) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin transporturi nr. 1553/2023: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 656 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, Bu" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Ordin transporturi nr. 1553/2023: a joint order of Ministerul Transporturilor și Infrastructurii nr. 1.553 din 18 August 2023; Ministerul Afacerilor Interne nr. 12 din 5 February 2024; Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 1.400 din 20 May 2024. It is published once, here, under the issuer its EMITENT block lists first; `ordin-interne-12-2024`, `ordin-dezvoltare-1400-2024` name it too (data/paths.json aliases).
-- Ordin transporturi nr. 1553/2023: first published here dated 10 July 2024; its in-force clause states 8 September 2024. The record keeps the first date until it is corrected by hand.
+- Ordin transporturi nr. 1553/2023: re-dated by a correction: in force from 8 September 2024 (first published dated 10 July 2024).

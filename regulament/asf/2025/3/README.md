@@ -1,8 +1,8 @@
 # Regulamentul nr. 3/2025 privind supravegherea punerii în aplicare a sancțiunilor internaționale de către entitățile reglementate de Autoritatea de Supraveghere Financiară
 
-Regulament asf nr. 3/2025 · 1 versions, from 2025-07-23 (latest in force: 2025-07-23) · <https://legislatie.just.ro/Public/DetaliiDocument/299981>
+Regulament asf nr. 3/2025 · 1 versions, from 2025-09-21 (latest in force: 2025-09-21) · <https://legislatie.just.ro/Public/DetaliiDocument/299981>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 21 September 2025; this record still dates it from 23 July 2025, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,4 +43,4 @@ Act id: `regulament-asf-3-2025` (tags `regulament-asf-3-2025/<day>`; `python too
 - Regulament asf nr. 3/2025: the first version is the regulation as published in Monitorul Oficial nr. 689 of 23 July 2025 (document 299981 of the official web service), in force on 21 September 2025, the day it states for itself.
 - Regulament asf nr. 3/2025: the signatures and the place and date line after its last article are not article text.
 - Regulament asf nr. 3/2025: Anexa nr. 1 (Notificarea ofițerului de conformitate sancțiuni internaționale (OCSI) (format electronic) Notificarea ofițerului de conformitate sancțiuni internaționale va cuprinde următoarele informații: 1. Numele) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 299981 of the official web service.
-- Regulament asf nr. 3/2025: first published here dated 23 July 2025; its in-force clause states 21 September 2025. The record keeps the first date until it is corrected by hand.
+- Regulament asf nr. 3/2025: re-dated by a correction: in force from 21 September 2025 (first published dated 23 July 2025).

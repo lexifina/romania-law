@@ -1,8 +1,8 @@
 # Ordinul nr. 667/2000 privind stabilirea textului și a dimensiunilor inscriptiilor-avertisment de pe produsele din tutun
 
-Ordin sanatate nr. 667/2000 · 1 versions, from 2000-09-08 (latest in force: 2000-09-08) · <https://legislatie.just.ro/Public/DetaliiDocument/24217>
+Ordin sanatate nr. 667/2000 · 1 versions, from 2000-11-01 (latest in force: 2000-11-01) · <https://legislatie.just.ro/Public/DetaliiDocument/24217>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 November 2000; this record still dates it from 8 September 2000, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-sanatate-667-2000` (tags `ordin-sanatate-667-2000/<day>`; `python
 - Ordin sanatate nr. 667/2000: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 667/2000: the first version is the order as published in Monitorul Oficial nr. 445 of 8 September 2000 (document 24217 of the official web service), in force on 1 November 2000, the day it states for itself.
 - Ordin sanatate nr. 667/2000: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 667/2000: first published here dated 8 September 2000; its in-force clause states 1 November 2000. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 667/2000: re-dated by a correction: in force from 1 November 2000 (first published dated 8 September 2000).

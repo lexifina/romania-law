@@ -3,6 +3,51 @@
  "shard": "ordin/2017",
  "acts": [
   {
+   "slug": "ordin-agricultura-12-2017",
+   "path": "ordin/agricultura/2017/12",
+   "short": "Ordin agricultura nr. 12/2017",
+   "title": "Ordinul nr. 12/2017 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186882",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186882",
+     "sha256": "f5e209ff5f7300e42b2c72e6e73086b6607ec42462ae8088f8d58a754c051c12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-126-2017",
+   "path": "ordin/agricultura/2017/126",
+   "short": "Ordin agricultura nr. 126/2017",
+   "title": "Ordinul nr. 126/2017 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale din ariile naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190157",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190157",
+     "sha256": "949e3507f839a0372ec5965c57f38c44dfcbaab02ed82ad2a7a092f6f407c2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-13-2017",
+   "path": "ordin/agricultura/2017/13",
+   "short": "Ordin agricultura nr. 13/2017",
+   "title": "Ordinul nr. 13/2017 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2017, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186892",
+   "versions": [
+    {
+     "from": "2017-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186892",
+     "sha256": "bad721ed738408ed6b92986c15651eb0adcb2d89472a9ba45b0ee08257acdef6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-274-2017",
    "path": "ordin/agricultura/2017/274",
    "short": "Ordin agricultura nr. 274/2017",
@@ -820,7 +865,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/186412",
    "versions": [
     {
-     "from": "2017-02-07",
+     "from": "2017-02-17",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186412",
      "sha256": "6a3db4bea9c26e0b032721a04f07837d42232428a189490ec4e1e149c851bf5e"
@@ -3505,7 +3550,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/196810",
    "versions": [
     {
-     "from": "2018-01-18",
+     "from": "2018-02-01",
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196810",
      "sha256": "2532f9fdc4f69ef5292167647c6d0617670bac754e38e4d20a6e9df1e8ce2825"
@@ -4885,7 +4930,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/193949",
    "versions": [
     {
-     "from": "2017-10-16",
+     "from": "2017-10-19",
      "units": 55,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193949",
      "sha256": "bab405eafad15bd9cc2952e35db2e514a0a04429f9f3ed741eb8761c1c3ed86c"
@@ -5005,7 +5050,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/195462",
    "versions": [
     {
-     "from": "2017-12-06",
+     "from": "2018-01-01",
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195462",
      "sha256": "c6a6a4bda230f4deeb164bf5f9c4fa8d1bfad05536c9d6dffa0c9f15c4f3e588"
@@ -6768,6 +6813,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1093-2017",
+   "path": "ordin/mediu/2017/1093",
+   "short": "Ordin mediu nr. 1093/2017",
+   "title": "Ordinul nr. 1.093/2017 privind aprobarea Metodologiei pentru închirierea lacurilor de acumulare aflate în administrarea Administrației Naționale \"Apele Române\", în care se poate practica și activitatea de piscicultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194677",
+   "versions": [
+    {
+     "from": "2017-11-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194677",
+     "sha256": "a99e821bdfb28369b991697c40085b774d185d05d4efec28cc9ca31b1cadbaba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1131-2017",
+   "path": "ordin/mediu/2017/1131",
+   "short": "Ordin mediu nr. 1131/2017",
+   "title": "Ordinul nr. 1.131/2017 pentru aprobarea derogării pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193302",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193302",
+     "sha256": "708884aa0ca91bb59d491e8abf2a7fc97e4fbd12925d3cb98aaa6c1b4eea29d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1143-2017",
+   "path": "ordin/mediu/2017/1143",
+   "short": "Ordin mediu nr. 1143/2017",
+   "title": "Ordinul nr. 1.143/2017 pentru aprobarea derogării pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193303",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193303",
+     "sha256": "f83c02fb81c40b02798e490cd94512774fda57cff1b7d34ef3d1cda128ce7b43"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1144-2017",
    "path": "ordin/mediu/2017/1144",
    "short": "Ordin mediu nr. 1144/2017",
@@ -6779,6 +6869,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192522",
      "sha256": "f6756570d0a33b29fa5d41c499802e0b659ace72ba6ece7e6e29df9251c6fe1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1149-2017",
+   "path": "ordin/mediu/2017/1149",
+   "short": "Ordin mediu nr. 1149/2017",
+   "title": "Ordinul nr. 1.149/2017 privind aprobarea derogării pentru unele specii de lilieci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193138",
+   "versions": [
+    {
+     "from": "2017-09-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193138",
+     "sha256": "2b4dff61025d5602827b4b56ec31ea11a040fa35772e26fe2d598b2f0e2f1f88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1169-2017",
+   "path": "ordin/mediu/2017/1169",
+   "short": "Ordin mediu nr. 1169/2017",
+   "title": "Ordinul nr. 1.169/2017 pentru aprobarea nivelului de intervenție în cazul speciilor de urs și lup, în interesul sănătății și securității populației și în scopul prevenirii unor daune importante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192825",
+   "versions": [
+    {
+     "from": "2017-09-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192825",
+     "sha256": "a9d99541f40f800235ebc5aa6082bc729b9ea3e0bd08c10c48058f02738fc53e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1291-2017",
+   "path": "ordin/mediu/2017/1291",
+   "short": "Ordin mediu nr. 1291/2017",
+   "title": "Ordinul nr. 1.291/2017 privind aprobarea Planului de management și a Regulamentului Sitului Natura 2000 ROSPA0003 Avrig-Scorei-Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194436",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194436",
+     "sha256": "3cc244a74b856a1a488238cd1a67839429dcc007c30271bdb904af954f6a6b71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1293-2017",
+   "path": "ordin/mediu/2017/1293",
+   "short": "Ordin mediu nr. 1293/2017",
+   "title": "Ordinul nr. 1.293/2017 pentru aprobarea derogării pentru unele specii de floră sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194111",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194111",
+     "sha256": "4b3b0a32ceab259dcf382f1a87a29515f0148c3f7807ad4d072fbfda91af4077"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1331-2017",
+   "path": "ordin/mediu/2017/1331",
+   "short": "Ordin mediu nr. 1331/2017",
+   "title": "Ordinul nr. 1.331/2017 privind aprobarea Regulamentului ariei naturale protejate 2.460 Lacul Rat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194564",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194564",
+     "sha256": "036eb87673b8943e246667512156b68f073955951191349f370ec7cf2c81cf77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1332-2017",
+   "path": "ordin/mediu/2017/1332",
+   "short": "Ordin mediu nr. 1332/2017",
+   "title": "Ordinul nr. 1.332/2017 privind aprobarea Regulamentului sitului de importanță comunitară ROSCI0357 Porumbeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194566",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194566",
+     "sha256": "b478a5bb9c712250e6c66efbe57873ea118f7e6939f7deb858293f4d6a29c7d1"
     }
    ]
   },
@@ -6798,6 +6978,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1447-2017",
+   "path": "ordin/mediu/2017/1447",
+   "short": "Ordin mediu nr. 1447/2017",
+   "title": "Ordinul nr. 1.447/2017 privind aprobarea Metodologiei de atribuire în administrare și custodie a ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195778",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195778",
+     "sha256": "b2b30c6dfbacdfb5d9e3ccbf30d1dce3fc1557fdca7416d8aa90e41e25e8aacb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1488-2017",
    "path": "ordin/mediu/2017/1488",
    "short": "Ordin mediu nr. 1488/2017",
@@ -6809,6 +7004,231 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196281",
      "sha256": "57c85ea7172564cac03f3d1e43574fa6d1815ebd9fd2b211db551d2f0977bc10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1529-2017",
+   "path": "ordin/mediu/2017/1529",
+   "short": "Ordin mediu nr. 1529/2017",
+   "title": "Ordinul nr. 1.529/2017 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea licitațiilor publice pentru atribuirea contractelor de închiriere a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Administrației Naționale \"Apele Române\", a Contractului-cadru de închiriere a bunurilor imobile aflate în proprietatea publică a statului și în administrarea Administrației Naționale \"Apele Române\", precum și a Listei cuprinzând bunurile imobile propuse spre închiriere și durata închirierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196337",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196337",
+     "sha256": "c099522fb28192c6fab7590509d307c092ce4e65364dd8c57758cc5e3955ef3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-316-2017",
+   "path": "ordin/mediu/2017/316",
+   "short": "Ordin mediu nr. 316/2017",
+   "title": "Ordinul nr. 316/2017 privind aprobarea cotelor de recoltă pentru specia Căprior (Capreolus capreolus) pentru perioada de vânătoare 1 mai 2017-15 februarie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188583",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188583",
+     "sha256": "4fd18223869ad6cf4ea1d48b28660e68b5be1abfa8bdba28b0c2e7fff0d51f99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-428-2017",
+   "path": "ordin/mediu/2017/428",
+   "short": "Ordin mediu nr. 428/2017",
+   "title": "Ordinul nr. 428/2017 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada de vânătoare mai 2017-14 mai 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189316",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189316",
+     "sha256": "94b07f6e18252732a2c4d9760b63a74fa4c53a79aebcd2f5fb7c50268f44692c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-584-2017",
+   "path": "ordin/mediu/2017/584",
+   "short": "Ordin mediu nr. 584/2017",
+   "title": "Ordinul nr. 584/2017 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190378",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190378",
+     "sha256": "3fa7063cc65779a0cf53b5abcbfcf2b1ce738e8154e3959dad5ced260135e287"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-591-2017",
+   "path": "ordin/mediu/2017/591",
+   "short": "Ordin mediu nr. 591/2017",
+   "title": "Ordinul nr. 591/2017 pentru aprobarea modelului și conținutului formularului „Declarație privind obligațiile la Fondul pentru mediu” și a instrucțiunilor de completare și depunere a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188523",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188523",
+     "sha256": "5214d3d4bb686286f6340f859619d5812cdcac9400d00b9fba20ef505e05a6b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-601-2017",
+   "path": "ordin/mediu/2017/601",
+   "short": "Ordin mediu nr. 601/2017",
+   "title": "Ordinul nr. 601/2017 privind aprobarea Planului de management și a Regulamentului ariei naturale protejate de interes național Dealul Melcului (Firtuș)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189259",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189259",
+     "sha256": "3a96d2ea59b26eec78dd6dbc39ae83e8d2cb19960f2e8e3ad159a31f6c7d1a27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-602-2017",
+   "path": "ordin/mediu/2017/602",
+   "short": "Ordin mediu nr. 602/2017",
+   "title": "Ordinul nr. 602/2017 privind aprobarea Planului de management și a Regulamentului Rezervației naturale Muntele de Sare Praid",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189273",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189273",
+     "sha256": "06563c18698b09e78db878ff4bba098e0f3e31f445c7560b6feb699003a66f7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-603-2017",
+   "path": "ordin/mediu/2017/603",
+   "short": "Ordin mediu nr. 603/2017",
+   "title": "Ordinul nr. 603/2017 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI 0244 Tinovul de la Fântâna Brazilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189276",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189276",
+     "sha256": "d6f4604b2f0881bde58c2c0a7a73d52a95cf6341bd7306f5052e94d66f25110a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-637-2017",
+   "path": "ordin/mediu/2017/637",
+   "short": "Ordin mediu nr. 637/2017",
+   "title": "Ordinul nr. 637/2017 pentru aprobarea derogării pentru specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188539",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188539",
+     "sha256": "edb1de11e1905304d72af8005dc9dfab29b2a69861b83b3d3e8786403d766944"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-660-2017",
+   "path": "ordin/mediu/2017/660",
+   "short": "Ordin mediu nr. 660/2017",
+   "title": "Ordinul nr. 660/2017 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2017-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188550",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188550",
+     "sha256": "c1eb43c6734258d214ea3c9ce800883e9a151376d6aa6027dd2b2f8a87b1bcf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-661-2017",
+   "path": "ordin/mediu/2017/661",
+   "short": "Ordin mediu nr. 661/2017",
+   "title": "Ordinul nr. 661/2017 privind aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2017-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188552",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188552",
+     "sha256": "1034bfbfecb2f8b01c2123537e43b6840a15c5bfd1dde13877a0b6932eba8b99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-739-2017",
+   "path": "ordin/mediu/2017/739",
+   "short": "Ordin mediu nr. 739/2017",
+   "title": "Ordinul nr. 739/2017 privind aprobarea Procedurii de înregistrare a operatorilor economici care nu se supun autorizării de mediu conform prevederilor Legii nr. 211/2011 privind regimul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189414",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189414",
+     "sha256": "a90ab71d60bf732692ee9f35b49f4b7b2f0950c8bcf90cebb809ac6b03fa9081"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-757-2017",
+   "path": "ordin/mediu/2017/757",
+   "short": "Ordin mediu nr. 757/2017",
+   "title": "Ordinul nr. 757/2017 pentru aprobarea modelului și conținutului formularului „Decizie de impunere privind suma reprezentând contravaloarea certificatelor verzi neachiziționate”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189416",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189416",
+     "sha256": "4bb9245ffeb059265c3da76807840c7578c7c3ee7372610827e8b1327a07c028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-838-2017",
+   "path": "ordin/mediu/2017/838",
+   "short": "Ordin mediu nr. 838/2017",
+   "title": "Ordinul nr. 838/2017 pentru aprobarea derogării pentru specia Castor fiber",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190308",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190308",
+     "sha256": "bbce5f52f650d986deccfe62c4c1037f8c9cdb69f74ed4fdd7a6466dbdae8fb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-842-2017",
+   "path": "ordin/mediu/2017/842",
+   "short": "Ordin mediu nr. 842/2017",
+   "title": "Ordinul nr. 842/2017 pentru aprobarea derogării pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190316",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190316",
+     "sha256": "dfd10dcfa7dba3d2ae43c251c6c092aef856dbc5cc67485dea725b9670e2e61e"
     }
    ]
   },
@@ -7900,7 +8320,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/196770",
    "versions": [
     {
-     "from": "2018-01-17",
+     "from": "2018-02-16",
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196770",
      "sha256": "3d67fac8f9619b1efb3814f738a8f0db904aec94717141054c746c4d0e843b54"
@@ -7915,7 +8335,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/196731",
    "versions": [
     {
-     "from": "2018-01-16",
+     "from": "2018-02-15",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196731",
      "sha256": "b9c9a258618cc3da7b8ae403f85574f3ae6a246abd45f1a6f93f9a7daa33bc01"
@@ -7975,7 +8395,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/186957",
    "versions": [
     {
-     "from": "2017-03-01",
+     "from": "2017-04-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186957",
      "sha256": "05a83a3e2918976e3079db8d6453aad9bff49ee380a84ade50e9207cefab90fc"
@@ -9108,6 +9528,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1203-2017",
+   "path": "ordin/transporturi/2017/1203",
+   "short": "Ordin transporturi nr. 1203/2017",
+   "title": "Ordinul nr. 1.203/2017 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 422/2011 privind normele tehnice de siguranță pentru navele maritime de pasageri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192399",
+   "versions": [
+    {
+     "from": "2017-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192399",
+     "sha256": "b027a43dea9e834a368b3dab958624906b15fc05ac8ddb42ec76713fe81ce319"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1236-2017",
    "path": "ordin/transporturi/2017/1236",
    "short": "Ordin transporturi nr. 1236/2017",
@@ -9134,6 +9569,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192561",
      "sha256": "6fc1124b6d817c53887293a871501afaee1e166f11c2c2bf32751f05959206fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1292-2017",
+   "path": "ordin/transporturi/2017/1292",
+   "short": "Ordin transporturi nr. 1292/2017",
+   "title": "Ordinul nr. 1.292/2017 privind completarea anexei nr. 1.1 \"Lista funcțiilor de conducere și control care beneficiază de autorizații de călătorie pe căile ferate române conform articolului 2 alineatul (2) din ordonanță \" la anexa nr. 1 \"Metodologia privind încadrarea în categoria de tren, clasă, condițiile de emitere, gestionare și folosire a legitimațiilor de călătorie pe căile ferate române\", aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 1.697/2012 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și interes personal pe căile ferate române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193335",
+   "versions": [
+    {
+     "from": "2017-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193335",
+     "sha256": "11a21c62a7953ece8be2a590704a8223f83878c612ef8d6e45fbba5ecf31ed2c"
     }
    ]
   },
@@ -9209,6 +9659,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193162",
      "sha256": "ad78435ccf38179927502b0c7a8da90bc73b970c278c53403eb91310e3f9cb9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1314-2017",
+   "path": "ordin/transporturi/2017/1314",
+   "short": "Ordin transporturi nr. 1314/2017",
+   "title": "Ordinul nr. 1.314/2017 privind aprobarea modelului contractelor de performanță prevăzute la cap. V din Ordonanța de urgență a Guvernului nr. 83/2016 privind unele măsuri de eficientizare a implementării proiectelor de infrastructură de transport, unele măsuri în domeniul transporturilor, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193256",
+   "versions": [
+    {
+     "from": "2017-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193256",
+     "sha256": "65cc5a5f4670fed8d24b159646d896a5553d19153a34a7be2f270d36b13186aa"
     }
    ]
   },
@@ -9303,6 +9768,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1575-2017",
+   "path": "ordin/transporturi/2017/1575",
+   "short": "Ordin transporturi nr. 1575/2017",
+   "title": "Ordinul nr. 1.575/2017 privind modificarea Ordinului ministrului transporturilor și al ministrului mediului și pădurilor nr. 169/1.801/2011 pentru aprobarea Planului național de acțiune privind reducerea emisiilor de gaze cu efect de seră în domeniul aviației civile pentru perioada 2011-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194762",
+   "versions": [
+    {
+     "from": "2017-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194762",
+     "sha256": "364e93e492106742312bc043b29c8fbc28c14c59f8dc09b55eacfbc6030fa894"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1580-2017",
+   "path": "ordin/transporturi/2017/1580",
+   "short": "Ordin transporturi nr. 1580/2017",
+   "title": "Ordinul nr. 1.580/2017 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194623",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194623",
+     "sha256": "463f29318f6a1ecceb693ee536449d1138dc1a72a12ee782193bcef2aabaedde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1591-2017",
+   "path": "ordin/transporturi/2017/1591",
+   "short": "Ordin transporturi nr. 1591/2017",
+   "title": "Ordinul nr. 1.591/2017 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 1.723/2014 pentru aprobarea Reglementării Aeronautice Civile Române RACR-ATS \"Serviciile de trafic aerian\", ediția 3.0/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194633",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194633",
+     "sha256": "03c2307aca095139029e169f04c033bf85f7922b9bcc71f10df4e3b944801d1d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1600-2017",
    "path": "ordin/transporturi/2017/1600",
    "short": "Ordin transporturi nr. 1600/2017",
@@ -9314,6 +9824,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195524",
      "sha256": "ede8b017d6be05b7e442634777935ef0910d48e3dae68892a3f96a9d2612d527"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1678-2017",
+   "path": "ordin/transporturi/2017/1678",
+   "short": "Ordin transporturi nr. 1678/2017",
+   "title": "Ordinul nr. 1.678/2017 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195699",
+   "versions": [
+    {
+     "from": "2017-12-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195699",
+     "sha256": "1947139346baf23bfbccb591e78670637f9e146c857e7b226a39d7b6f4cae849"
     }
    ]
   },
@@ -9408,6 +9933,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-22-2017",
+   "path": "ordin/transporturi/2017/22",
+   "short": "Ordin transporturi nr. 22/2017",
+   "title": "Ordinul nr. 22/2017 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185641",
+   "versions": [
+    {
+     "from": "2017-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185641",
+     "sha256": "e51c0656054e66c64d681d218ba769ca8540d8cd069a556a97872af590cf7f21"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-266-2017",
    "path": "ordin/transporturi/2017/266",
    "short": "Ordin transporturi nr. 266/2017",
@@ -9438,6 +9978,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-33-2017",
+   "path": "ordin/transporturi/2017/33",
+   "short": "Ordin transporturi nr. 33/2017",
+   "title": "Ordinul nr. 33/2017 pentru modificarea și completarea Reglementării aeronautice civile române privind stabilirea zonelor cu servituți aeronautice civile și a condițiilor de avizare a documentațiilor tehnice aferente obiectivelor din aceste zone sau din alte zone în care pot constitui obstacole pentru navigația aeriană și/sau pot afecta siguranța zborului pe teritoriul și în spațiul aerian al României RACR-ZSAC, ediția 1/2015, aprobată prin Ordinul ministrului transporturilor nr. 735/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186366",
+   "versions": [
+    {
+     "from": "2017-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186366",
+     "sha256": "20f695f5f102bec7fadd299367d3ece1d0784130d099e6e1366f239553204925"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-342-2017",
    "path": "ordin/transporturi/2017/342",
    "short": "Ordin transporturi nr. 342/2017",
@@ -9453,6 +10008,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-403-2017",
+   "path": "ordin/transporturi/2017/403",
+   "short": "Ordin transporturi nr. 403/2017",
+   "title": "Ordinul nr. 403/2017 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 358/2012 pentru aprobarea Liniilor directoare cu privire la măsurile de îmbunătățire a siguranței circulației pe infrastructura rutieră, în vederea aplicării Directivei 2008/96/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind gestionarea siguranței infrastructurii rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188491",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188491",
+     "sha256": "71533d1f0c02a2773eaec64052b861bf3b246839c57ecdbd658d5535d6f41049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-407-2017",
+   "path": "ordin/transporturi/2017/407",
+   "short": "Ordin transporturi nr. 407/2017",
+   "title": "Ordinul nr. 407/2017 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 536/2012 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188467",
+   "versions": [
+    {
+     "from": "2017-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188467",
+     "sha256": "ae8ab3fa4b67f740fdedab9472555f392ac73646b791f1c369ddb94ead6fbace"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-459-2017",
    "path": "ordin/transporturi/2017/459",
    "short": "Ordin transporturi nr. 459/2017",
@@ -9464,6 +10049,36 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189131",
      "sha256": "90d862d949d3e598bdd34a0e134b3aa371560cb166fe60b34718c47f59b7a570"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-477-2017",
+   "path": "ordin/transporturi/2017/477",
+   "short": "Ordin transporturi nr. 477/2017",
+   "title": "Ordinul nr. 477/2017 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de atestare, disciplină și soluționare a contestațiilor, aprobat prin Ordinul ministrului transporturilor nr. 655/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189136",
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189136",
+     "sha256": "34af9d80fa8cbdd89fb592004c9f0d5489718c54c3d3453017d27ac8c3ade7c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-478-2017",
+   "path": "ordin/transporturi/2017/478",
+   "short": "Ordin transporturi nr. 478/2017",
+   "title": "Ordinul nr. 478/2017 pentru modificarea și completarea Metodologiei de atestare a auditorilor de siguranță rutieră, aprobată prin Ordinul ministrului transporturilor nr. 656/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189270",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189270",
+     "sha256": "889202d792e62784796aa1ba1c273c2794cf1b4c3bf112f4e7c314a4b3dd6978"
     }
    ]
   },
@@ -9498,6 +10113,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-494-2017",
+   "path": "ordin/transporturi/2017/494",
+   "short": "Ordin transporturi nr. 494/2017",
+   "title": "Ordinul nr. 494/2017 pentru modificarea și completarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189385",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189385",
+     "sha256": "c8ec30615906765a8c581b68c10bba83684a982a8e51596a227111375bd4b497"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-516-2017",
    "path": "ordin/transporturi/2017/516",
    "short": "Ordin transporturi nr. 516/2017",
@@ -9509,6 +10139,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189198",
      "sha256": "4f043a00dad6e82b4db61d30536de4dcc04871541147cc01ac83210780cffbd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-600-2017",
+   "path": "ordin/transporturi/2017/600",
+   "short": "Ordin transporturi nr. 600/2017",
+   "title": "Ordinul nr. 600/2017 pentru modificarea anexei nr. 1 la Ordinul ministrului transporturilor și infrastructurii nr. 146/2011 privind aprobarea condițiilor contractuale speciale ale contractelor pentru echipamente și construcții, inclusiv proiectare, și ale contractelor pentru construcții clădiri și lucrări inginerești proiectate de către beneficiar ale Federației Internaționale a Inginerilor Consultanți în Domeniul Construcțiilor (FIDIC), pentru obiective de investiții din domeniul infrastructurii rutiere de transport de interes național, finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190062",
+   "versions": [
+    {
+     "from": "2017-06-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190062",
+     "sha256": "7457e53145a409add907451a8a8d0f3f079e565dc27f2cf6b71ada95d692f9e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-601-2017",
+   "path": "ordin/transporturi/2017/601",
+   "short": "Ordin transporturi nr. 601/2017",
+   "title": "Ordinul nr. 601/2017 pentru modificarea și completarea Normelor metodologice privind modul de efectuare a inspecțiilor și controlului asupra transporturilor rutiere, a activităților conexe acestora, a activității centrelor de pregătire și perfecționare a personalului de specialitate din domeniul transporturilor rutiere, a activității școlilor de conducători auto și a activității instructorilor auto autorizați, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 995/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190205",
+   "versions": [
+    {
+     "from": "2017-06-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190205",
+     "sha256": "a2346b86460cacf7ae997de302c6c1a3a80cabaee3551aa0081f8a06f0ff968d"
     }
    ]
   },
@@ -9558,6 +10218,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-708-2017",
+   "path": "ordin/transporturi/2017/708",
+   "short": "Ordin transporturi nr. 708/2017",
+   "title": "Ordinul nr. 708/2017 pentru modificarea alin. (2) al art. 2 din Ordinul ministrului transporturilor și infrastructurii nr. 1.008/2012 pentru stabilirea modului de derulare a serviciului de pilotaj al navelor maritime",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190753",
+   "versions": [
+    {
+     "from": "2017-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190753",
+     "sha256": "557c3da14829fc132c3296c8f85cb134ce74e0cbc582c08e0d037a60c77dbe36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-716-2017",
+   "path": "ordin/transporturi/2017/716",
+   "short": "Ordin transporturi nr. 716/2017",
+   "title": "Ordinul nr. 716/2017 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191414",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191414",
+     "sha256": "246bcb88c69a2879c739f785f120ebab5fdf8f5b676ad4c7c4b7d6a3548ff336"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-722-2017",
    "path": "ordin/transporturi/2017/722",
    "short": "Ordin transporturi nr. 722/2017",
@@ -9569,6 +10259,36 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191224",
      "sha256": "76d2c3014d6d33dea00bb046d4a7ba3f1e285324962a74ce4f9eeb4057f00f01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-731-2017",
+   "path": "ordin/transporturi/2017/731",
+   "short": "Ordin transporturi nr. 731/2017",
+   "title": "Ordinul nr. 731/2017 pentru modificarea art. 19 și 20 din anexa nr. 1 \"Norme privind autorizarea școlilor de conducători auto și a instructorilor auto\" la Ordinul ministrului transporturilor nr. 733/2013 pentru aprobarea Normelor privind autorizarea școlilor de conducători auto și a instructorilor auto, a Normelor privind atestarea profesorilor de legislație rutieră și a instructorilor de conducere auto, a Metodologiei de organizare și desfășurare a cursurilor de pregătire teoretică și practică a persoanelor în vederea obținerii permisului de conducere, a Programei de școlarizare, precum și privind condițiile și obligațiile pentru pregătirea teoretică și practică a persoanelor în vederea obținerii permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190921",
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190921",
+     "sha256": "670465167001725f03a45f450320fb71be997c3aced769e4cf96b91e90700ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-770-2017",
+   "path": "ordin/transporturi/2017/770",
+   "short": "Ordin transporturi nr. 770/2017",
+   "title": "Ordinul nr. 770/2017 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191575",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191575",
+     "sha256": "e5dc930c7278592e895fb3293f1e338219ceba46fe2ab48eb1dd8921bb5f3c60"
     }
    ]
   },

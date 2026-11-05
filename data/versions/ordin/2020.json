@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-124-2020",
+   "path": "ordin/agricultura/2020/124",
+   "short": "Ordin agricultura nr. 124/2020",
+   "title": "Ordinul nr. 124/2020 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2020, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226619",
+   "versions": [
+    {
+     "from": "2020-06-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226619",
+     "sha256": "c56b552c4825673cb68caa37673be2fd6763873fbf00541bd833539d9f91e911"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-143-2020",
    "path": "ordin/agricultura/2020/143",
    "short": "Ordin agricultura nr. 143/2020",
@@ -89,6 +104,36 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237160",
      "sha256": "9820bd076327dcb5ce37fd72a8f0952725b5867f256c72dcf8478631189dec48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-358-2020",
+   "path": "ordin/agricultura/2020/358",
+   "short": "Ordin agricultura nr. 358/2020",
+   "title": "Ordinul nr. 358/2020 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului mediului, apelor și pădurilor nr. 358/763/2016 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 37/2005 privind recunoașterea și funcționarea grupurilor și organizațiilor de producători, pentru comercializarea produselor agricole și silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237220",
+   "versions": [
+    {
+     "from": "2021-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237220",
+     "sha256": "9ae989758379ddb0318cc87c0f859977540f200ae11b150868192fff340a8e25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-43-2020",
+   "path": "ordin/agricultura/2020/43",
+   "short": "Ordin agricultura nr. 43/2020",
+   "title": "Ordinul nr. 43/2020 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii în anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223480",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223480",
+     "sha256": "3889cfd65b93b2d06ac7c8d56d9c4947b199c0c740ea0d165f1eb9b6a849b53b"
     }
    ]
   },
@@ -340,7 +385,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/235750",
    "versions": [
     {
-     "from": "2020-12-30",
+     "from": "2021-03-30",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235750",
      "sha256": "2cfa69bcc0fcfc8d7d8b267a2c7c52384ed1157ce8a2cfd5744184dadc1f15a2"
@@ -355,7 +400,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/235742",
    "versions": [
     {
-     "from": "2020-12-30",
+     "from": "2021-01-09",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235742",
      "sha256": "9232541079154fc89dd4cf14b22e784621394e4a6fc50b0e9d061b4b23f73e37"
@@ -2650,7 +2695,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/230500",
    "versions": [
     {
-     "from": "2020-09-29",
+     "from": "2020-11-13",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230500",
      "sha256": "bf7e8fc2a3dad8ffe59e38345dad078aaa4e46cff82c163cdf2cbad8ca7b9c74"
@@ -4675,7 +4720,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/223777",
    "versions": [
     {
-     "from": "2020-03-12",
+     "from": "2020-03-27",
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223777",
      "sha256": "2cfd12979739d9c8ec69a389da864893060652327ec7269cd16789b49e7c8780"
@@ -6513,6 +6558,156 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1011-2020",
+   "path": "ordin/mediu/2020/1011",
+   "short": "Ordin mediu nr. 1011/2020",
+   "title": "Ordinul nr. 1.011/2020 pentru aprobarea Metodologiei de atestare a unităților specializate să elaboreze amenajamente silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225874",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225874",
+     "sha256": "5b71443221b4c770836d81c606893f7447ad7993b780732239aab33664aa0721"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1058-2020",
+   "path": "ordin/mediu/2020/1058",
+   "short": "Ordin mediu nr. 1058/2020",
+   "title": "Ordinul nr. 1.058/2020 privind aprobarea procedurii și formularelor utilizate pentru aplicarea cap. II din Ordonanța Guvernului nr. 6/2019 privind instituirea unor facilități fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226040",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226040",
+     "sha256": "72fc913d163d3c3e997bd903437a1f167cb6351d3785cd1908f3709454f6798a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1081-2020",
+   "path": "ordin/mediu/2020/1081",
+   "short": "Ordin mediu nr. 1081/2020",
+   "title": "Ordinul nr. 1.081/2020 pentru prelungirea termenului de valabilitate a Ordinului ministrului apelor și pădurilor nr. 673/2019 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada 15 mai 2019-14 mai 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225572",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225572",
+     "sha256": "86e058dbdf181d8335c0c2aee9e3c0ac01eb9a9e6d41fefeb039f03d3f31c870"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1087-2020",
+   "path": "ordin/mediu/2020/1087",
+   "short": "Ordin mediu nr. 1087/2020",
+   "title": "Ordinul nr. 1.087/2020 privind aprobarea normelor de cheltuieli finanțate de la bugetul de stat pentru întreținerea cabalinelor care fac parte din categoria Herghelia Națională, precum și aprobarea prețurilor de decontare pentru cabalinele promovate în Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226592",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226592",
+     "sha256": "4e26568cc7183b498233a524063b9da227d417514299eedbfbe58ab59f2dbb9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1134-2020",
+   "path": "ordin/mediu/2020/1134",
+   "short": "Ordin mediu nr. 1134/2020",
+   "title": "Ordinul nr. 1.134/2020 privind aprobarea condițiilor de elaborare a studiilor de mediu, a criteriilor de atestare a persoanelor fizice și juridice și a componenței și Regulamentului privind organizarea și funcționarea Comisiei de atestare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226107",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226107",
+     "sha256": "8df4a8eed75895dba0c0349c6a9ffd37acc0f0db7fb23a147fdd73aa0812fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1150-2020",
+   "path": "ordin/mediu/2020/1150",
+   "short": "Ordin mediu nr. 1150/2020",
+   "title": "Ordinul nr. 1.150/2020 privind aprobarea Procedurii de aplicare a vizei anuale a autorizației de mediu și autorizației integrate de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226702",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226702",
+     "sha256": "798cdf59f03351b295871266b0436dd50a5ffa28f9b22a86e9b6066adf72603d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1162-2020",
+   "path": "ordin/mediu/2020/1162",
+   "short": "Ordin mediu nr. 1162/2020",
+   "title": "Ordinul nr. 1.162/2020 pentru aprobarea Ghidului de finanțare a Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226549",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226549",
+     "sha256": "b0aab5e229de454829ded8d5a4decadc73b611753e66ef0cb7908d348b9804b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1230-2020",
+   "path": "ordin/mediu/2020/1230",
+   "short": "Ordin mediu nr. 1230/2020",
+   "title": "Ordinul nr. 1.230/2020 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226862",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226862",
+     "sha256": "9f46e143f5e965d24d65f3f60131e88a8f8ec5730d563b063b7b351c1f3468a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1256-2020",
+   "path": "ordin/mediu/2020/1256",
+   "short": "Ordin mediu nr. 1256/2020",
+   "title": "Ordinul nr. 1.256/2020 pentru aprobarea Procedurii de emitere a autorizației privind emisiile de gaze cu efect de seră pentru perioada 2021-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226935",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226935",
+     "sha256": "d7f0e2c671f0cda2f335d23bb582a2fe6626d922568d9190ec3a8079361ca7ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1263-2020",
+   "path": "ordin/mediu/2020/1263",
+   "short": "Ordin mediu nr. 1263/2020",
+   "title": "Ordinul nr. 1.263/2020 privind modificarea alin. (2) al art. 10 din Conținutul registrului național al administratorilor de păduri și al ocoalelor silvice, modelul documentelor de constituire, organizare și funcționare, procedura de constituire și autorizare pentru toate ocoalele silvice și atribuțiile acestora, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.112/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227575",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227575",
+     "sha256": "ef4d4458f077d688eab7d8a2a7ae6ed6c01f1c639365057c24621ebf82c85698"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1274-2020",
    "path": "ordin/mediu/2020/1274",
    "short": "Ordin mediu nr. 1274/2020",
@@ -6524,6 +6719,126 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227851",
      "sha256": "9c997d5baa3c5c9443c0ae6411a1a2111d27a54d6265a508c723976cdd04f11a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1276-2020",
+   "path": "ordin/mediu/2020/1276",
+   "short": "Ordin mediu nr. 1276/2020",
+   "title": "Ordinul nr. 1.276/2020 privind aprobarea caracteristicilor tehnice de identificare a pungilor de transport fabricate din materialele care respectă cerințele SR EN 13432:2002, pentru care nu se aplică ecotaxa prevăzută la art. 9 alin. (1) lit. q) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227405",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227405",
+     "sha256": "657fb9df103a448c83d1319018b200db5d00af062c4ee42674445ad28f7ccbe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1345-2020",
+   "path": "ordin/mediu/2020/1345",
+   "short": "Ordin mediu nr. 1345/2020",
+   "title": "Ordinul nr. 1.345/2020 privind aprobarea comisiilor de evaluare a hărților strategice de zgomot de la nivelul autorităților pentru protecția mediului și a Regulamentului de funcționare și organizare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227801",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227801",
+     "sha256": "fb30c70ff7721fcaeab0ab0703e7563dc2edce96c97c25ad637dce575697a404"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1347-2020",
+   "path": "ordin/mediu/2020/1347",
+   "short": "Ordin mediu nr. 1347/2020",
+   "title": "Ordinul nr. 1.347/2020 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020, și pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227678",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227678",
+     "sha256": "9510be61973bf53606d201ff6e1ec70eeeb9e4357037cf72206dca35dad40f0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1380-2020",
+   "path": "ordin/mediu/2020/1380",
+   "short": "Ordin mediu nr. 1380/2020",
+   "title": "Ordinul nr. 1.380/2020 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227983",
+   "versions": [
+    {
+     "from": "2020-07-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227983",
+     "sha256": "206d469c23e1a435109822ae469cf4919d2f3e78021f8f97b3dda972b19d3f3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1382-2020",
+   "path": "ordin/mediu/2020/1382",
+   "short": "Ordin mediu nr. 1382/2020",
+   "title": "Ordinul nr. 1.382/2020 pentru completarea art. 24 din Instrucțiunile de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a barajelor - NTLH - 040, aprobate prin Ordinul ministrului apelor și protecției mediului nr. 105/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228017",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228017",
+     "sha256": "05dcd75bebbf993f08e653f1ae94ef35d43b09414a56742cb52e697b2a549d1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1396-2020",
+   "path": "ordin/mediu/2020/1396",
+   "short": "Ordin mediu nr. 1396/2020",
+   "title": "Ordinul nr. 1.396/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228033",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228033",
+     "sha256": "0dad21f080ed3d05cdd8e8705f128b985756b9fb508b6a838346a780cb6ca912"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1400-2020",
+   "path": "ordin/mediu/2020/1400",
+   "short": "Ordin mediu nr. 1400/2020",
+   "title": "Ordinul nr. 1.400/2020 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada 2020-14 mai 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227787",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227787",
+     "sha256": "2347fbd17a4517a0960029028c4db3c750cf5ba0632fa819ce0e04fa52737f9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1401-2020",
+   "path": "ordin/mediu/2020/1401",
+   "short": "Ordin mediu nr. 1401/2020",
+   "title": "Ordinul nr. 1.401/2020 privind aprobarea numărului de certificate de emisii de gaze cu efect de seră alocate cu titlu gratuit aferente anului 2020 pentru fiecare instalație din sectorul staționar în care se desfășoară una sau mai multe dintre activitățile prevăzute în anexa nr. 1 la Hotărârea Guvernului nr. 780/2006 privind stabilirea schemei de comercializare a certificatelor de emisii de gaze cu efect de seră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228635",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228635",
+     "sha256": "2bb32a6404f40142dba0f2932f95011e45a236a4d2d9662284690d61aa3fe03d"
     }
    ]
   },
@@ -6543,6 +6858,831 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1438-2020",
+   "path": "ordin/mediu/2020/1438",
+   "short": "Ordin mediu nr. 1438/2020",
+   "title": "Ordinul nr. 1.438/2020 pentru aprobarea Ghidului de finanțare a Programului privind efectuarea de lucrări destinate creșterii eficienței energetice în locuințe unifamiliale, beneficiari persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228507",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228507",
+     "sha256": "3d9c076b5543323cc8109b207bfe24e4c520742701c81319f86f92ac64d5895d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-144-2020",
+   "path": "ordin/mediu/2020/144",
+   "short": "Ordin mediu nr. 144/2020",
+   "title": "Ordinul nr. 144/2020 pentru aprobarea derogării pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223366",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223366",
+     "sha256": "a8a5bca0d8239a5122d244ecc6f81a9b5f932332ecc01e30e05834e97159341f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1448-2020",
+   "path": "ordin/mediu/2020/1448",
+   "short": "Ordin mediu nr. 1448/2020",
+   "title": "Ordinul nr. 1.448/2020 pentru modificarea Ordinului ministrului mediului, apelor și pădurilor nr. 1.276/2020 privind aprobarea caracteristicilor tehnice de identificare a pungilor de transport fabricate din materialele care respectă cerințele SR EN 13432:2002, pentru care nu se aplică ecotaxa prevăzută la art. 9 alin. (1) lit. q) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228465",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228465",
+     "sha256": "4c93a0443951302be7b8d38a403921a3d70b0385035c3abc8ff59f6a88799002"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-145-2020",
+   "path": "ordin/mediu/2020/145",
+   "short": "Ordin mediu nr. 145/2020",
+   "title": "Ordinul nr. 145/2020 pentru completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223134",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223134",
+     "sha256": "6962b6db224bdf9a0aba19cee8ba173614a9c027a80c55de93adbcc2a3ed8657"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1555-2020",
+   "path": "ordin/mediu/2020/1555",
+   "short": "Ordin mediu nr. 1555/2020",
+   "title": "Ordinul nr. 1.555/2020 pentru modificarea și completarea Procedurii de autorizare, avizare anuală și de retragere a dreptului de operare a organizațiilor care implementează obligațiile privind răspunderea extinsă a producătorului, aprobată prin Ordinul viceprim-ministrului, ministrul mediului, nr. 1.362/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229567",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229567",
+     "sha256": "2acf238df937c8b94ebdf04b48376c06289bc8a05d51882800a0ac6a4fbe02d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1699-2020",
+   "path": "ordin/mediu/2020/1699",
+   "short": "Ordin mediu nr. 1699/2020",
+   "title": "Ordinul nr. 1.699/2020 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230362",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230362",
+     "sha256": "c2fd9677194166567680a9c9d7eae39554633984199f3c9d01296583e84a0223"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1708-2020",
+   "path": "ordin/mediu/2020/1708",
+   "short": "Ordin mediu nr. 1708/2020",
+   "title": "Ordinul nr. 1.708/2020 pentru aprobarea conținutului-cadru al protocolului privind utilizarea terenurilor din domeniul public al apelor administrat de Administrația Națională \"Apele Române\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229934",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229934",
+     "sha256": "27c8f43f96f0794cc7716627a5c819578e1cc0426423cccc92c0aaec15decc86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1715-2020",
+   "path": "ordin/mediu/2020/1715",
+   "short": "Ordin mediu nr. 1715/2020",
+   "title": "Ordinul nr. 1.715/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230368",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230368",
+     "sha256": "c39d74d86755449ec81715e1c193cd743fe5f46cb10831eb8dd073ac6fcee991"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1719-2020",
+   "path": "ordin/mediu/2020/1719",
+   "short": "Ordin mediu nr. 1719/2020",
+   "title": "Ordinul nr. 1.719/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230307",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230307",
+     "sha256": "e423cdfed864d0cf2cc28a2c21090f49725e01d6d77807356265345aea757012"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1724-2020",
+   "path": "ordin/mediu/2020/1724",
+   "short": "Ordin mediu nr. 1724/2020",
+   "title": "Ordinul nr. 1.724/2020 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230590",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230590",
+     "sha256": "ae7defc1c156e588fe10de0fbdb59ac05d7a7b65dcfbddea7a17442c5a1469b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1759-2020",
+   "path": "ordin/mediu/2020/1759",
+   "short": "Ordin mediu nr. 1759/2020",
+   "title": "Ordinul nr. 1.759/2020 pentru completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231260",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231260",
+     "sha256": "c6f6f68a45955c5a3de17dd50c711af46a7933b73ea3eeec8583fa20656bd429"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1764-2020",
+   "path": "ordin/mediu/2020/1764",
+   "short": "Ordin mediu nr. 1764/2020",
+   "title": "Ordinul nr. 1.764/2020 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0357 Porumbeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231169",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231169",
+     "sha256": "4756dcfcaea18377ed489a48dfe663527da15f3049dd2c006269915b31945a24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1768-2020",
+   "path": "ordin/mediu/2020/1768",
+   "short": "Ordin mediu nr. 1768/2020",
+   "title": "Ordinul nr. 1.768/2020 pentru aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230810",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230810",
+     "sha256": "4d69127c3933cfbff0ee6a80197720ed313168ccd91f5fb1cd3af2c67eb6ba0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1776-2020",
+   "path": "ordin/mediu/2020/1776",
+   "short": "Ordin mediu nr. 1776/2020",
+   "title": "Ordinul nr. 1.776/2020 pentru modificarea anexelor nr. 7 și 8 la Regulamentul privind atribuirea în gestiune a faunei cinegetice, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.020/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230884",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230884",
+     "sha256": "fc29bcbc2c1f961d865208682977ccbbb0eed673d09ddaa47226c96400d87e47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1790-2020",
+   "path": "ordin/mediu/2020/1790",
+   "short": "Ordin mediu nr. 1790/2020",
+   "title": "Ordinul nr. 1.790/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230929",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230929",
+     "sha256": "09747aa1432e2a84ff881529dbbff08df0155e9376588949e7bd70e8b17d20c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1819-2020",
+   "path": "ordin/mediu/2020/1819",
+   "short": "Ordin mediu nr. 1819/2020",
+   "title": "Ordinul nr. 1.819/2020 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0283 Cheile Doftanei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231564",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231564",
+     "sha256": "6a0d5669d7033b7800f737e454172f067e3d1d363380378ea94943eb99390a6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1850-2020",
+   "path": "ordin/mediu/2020/1850",
+   "short": "Ordin mediu nr. 1850/2020",
+   "title": "Ordinul nr. 1.850/2020 pentru modificarea unor acte normative din domeniul cinegetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231513",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231513",
+     "sha256": "7dfaf4790a47cea8fafbeb83d85bf8082e4cd15866f4adc1ec3ce46fd979059b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1865-2020",
+   "path": "ordin/mediu/2020/1865",
+   "short": "Ordin mediu nr. 1865/2020",
+   "title": "Ordinul nr. 1.865/2020 pentru modificarea anexelor nr. 1-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232577",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232577",
+     "sha256": "67d96460ffe9a876ff77b78d565c599752a098f49ec354294eba4098f924eb89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1871-2020",
+   "path": "ordin/mediu/2020/1871",
+   "short": "Ordin mediu nr. 1871/2020",
+   "title": "Ordinul nr. 1.871/2020 privind aprobarea derogării în interesul protejării faunei și florei sălbatice și al conservării habitatelor naturale pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231733",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231733",
+     "sha256": "a086de3203900a90e9e4c8b1336b9b1b537083fce0405d4dc6dc3f983af7870c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1873-2020",
+   "path": "ordin/mediu/2020/1873",
+   "short": "Ordin mediu nr. 1873/2020",
+   "title": "Ordinul nr. 1.873/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231735",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231735",
+     "sha256": "0004da573011cc8928f2121085d5a7ef19b64fb1af98f14ccb7b68aedba2609c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1907-2020",
+   "path": "ordin/mediu/2020/1907",
+   "short": "Ordin mediu nr. 1907/2020",
+   "title": "Ordinul nr. 1.907/2020 pentru aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232544",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232544",
+     "sha256": "e659465895dad36b1b1a796f3083c2850385d751d8a7b1b73a1a46fe8fb12cd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-203-2020",
+   "path": "ordin/mediu/2020/203",
+   "short": "Ordin mediu nr. 203/2020",
+   "title": "Ordinul nr. 203/2020 privind stabilirea cadrului legal și instituțional necesar aplicării Regulamentului delegat (UE) 2019/1.603 al Comisiei din 18 iulie 2019 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește măsurile adoptate de Organizația Aviației Civile Internaționale pentru monitorizarea, raportarea și verificarea emisiilor generate de aviație în scopul punerii în aplicare a unei măsuri globale bazate pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223028",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223028",
+     "sha256": "412b82e70a11a8fa91a255da1fea617b04381f547913054de50b3c5b60ef9fb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2030-2020",
+   "path": "ordin/mediu/2020/2030",
+   "short": "Ordin mediu nr. 2030/2020",
+   "title": "Ordinul nr. 2.030/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233631",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233631",
+     "sha256": "d48f94b5c57f7e5dd727c036252c287859a4055613ccc9f0e868951153264229"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2048-2020",
+   "path": "ordin/mediu/2020/2048",
+   "short": "Ordin mediu nr. 2048/2020",
+   "title": "Ordinul nr. 2.048/2020 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233549",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233549",
+     "sha256": "b69fdd7cd41fe57586a155d942fd954cc2e5b02cc3b5257e123cbb51700ed78f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2057-2020",
+   "path": "ordin/mediu/2020/2057",
+   "short": "Ordin mediu nr. 2057/2020",
+   "title": "Ordinul nr. 2.057/2020 pentru aprobarea Ghidului de finanțare a Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice cu destinație de unități de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233611",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233611",
+     "sha256": "8ee19093649edbd5679bc59fd7e51914d69339c374337367a0f16b2721948a19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-208-2020",
+   "path": "ordin/mediu/2020/208",
+   "short": "Ordin mediu nr. 208/2020",
+   "title": "Ordinul nr. 208/2020 pentru modificarea anexei nr. 2 la Ordinul ministrului mediului și pădurilor nr. 2.851/2011 privind aprobarea alocării certificatelor de emisii de gaze cu efect de seră cu titlu gratuit pentru activitățile de aviație, pentru anul 2012 și perioada 2013-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223029",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223029",
+     "sha256": "22c83d3c77f0bc8021f6730ad18a9f6a0099ec8eb250f30e0f2fe97d81fd6339"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2082-2020",
+   "path": "ordin/mediu/2020/2082",
+   "short": "Ordin mediu nr. 2082/2020",
+   "title": "Ordinul nr. 2.082/2020 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234191",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234191",
+     "sha256": "56c78e0f9493add48d1106d320e16be17762b4c164a0f866764238b722003644"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2088-2020",
+   "path": "ordin/mediu/2020/2088",
+   "short": "Ordin mediu nr. 2088/2020",
+   "title": "Ordinul nr. 2.088/2020 pentru aprobarea Procedurii de anulare a obligațiilor de plată accesorii, conform cap. II din Ordonanța de urgență a Guvernului nr. 69/2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, precum și pentru instituirea unor măsuri fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235048",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235048",
+     "sha256": "c8aa5d46e93f142f94fc39ba0adf2cef0f550aa2a30a3c8d15a5b5307fe127d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2089-2020",
+   "path": "ordin/mediu/2020/2089",
+   "short": "Ordin mediu nr. 2089/2020",
+   "title": "Ordinul nr. 2.089/2020 pentru aprobarea Ghidului de finanțare a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233703",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233703",
+     "sha256": "1f03f275efdda1e600002d106d55791114dfb0c5843687a0e0d11c2282d88da6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2092-2020",
+   "path": "ordin/mediu/2020/2092",
+   "short": "Ordin mediu nr. 2092/2020",
+   "title": "Ordinul nr. 2.092/2020 pentru modificarea și completarea Ghidului de finanțare a Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.162/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234274",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234274",
+     "sha256": "9325d017b2167a73f7b5f265d7fdeea99d39c328f0ed81a2d943c401651220a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2109-2020",
+   "path": "ordin/mediu/2020/2109",
+   "short": "Ordin mediu nr. 2109/2020",
+   "title": "Ordinul nr. 2.109/2020 pentru aprobarea derogării în scop științific pentru specia Ursus arctos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235620",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235620",
+     "sha256": "9b625bedfa1f0b9f16c8f5480fb3b168b3a57ce891f33b9fe32dd734e2ad45f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2118-2020",
+   "path": "ordin/mediu/2020/2118",
+   "short": "Ordin mediu nr. 2118/2020",
+   "title": "Ordinul nr. 2.118/2020 pentru aprobarea componenței, regulamentului de organizare și funcționare a Comisiei pentru desemnarea asociațiilor profesionale în domeniul protecției mediului în vederea atestării persoanelor fizice și juridice care desfășoară activități din domeniul gestionării siturilor contaminate, precum și a procedurii pentru desemnarea asociațiilor profesionale în domeniul protecției mediului în vederea atestării persoanelor fizice și juridice care desfășoară activități din domeniul gestionării siturilor contaminate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235364",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235364",
+     "sha256": "632317f023b92c909afe0d1f8609ff0f9426773792c928313b50004e78ec403b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2200-2020",
+   "path": "ordin/mediu/2020/2200",
+   "short": "Ordin mediu nr. 2200/2020",
+   "title": "Ordinul nr. 2.200/2020 pentru modificarea Ghidului de finanțare a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.089/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235200",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235200",
+     "sha256": "0c820808786526313be1a68949511ff20c419f7ef4060e8eec945cfbd80fc959"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2202-2020",
+   "path": "ordin/mediu/2020/2202",
+   "short": "Ordin mediu nr. 2202/2020",
+   "title": "Ordinul nr. 2.202/2020 privind aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235835",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235835",
+     "sha256": "034683348641b3cf5044c69ea0f59be047e0aa409c95e5f320f38868b2b89afc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2259-2020",
+   "path": "ordin/mediu/2020/2259",
+   "short": "Ordin mediu nr. 2259/2020",
+   "title": "Ordinul nr. 2.259/2020 pentru aprobarea derogării pentru unele specii de faună și floră sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235823",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235823",
+     "sha256": "eee17cb554ac0856f86bdb22c11635ced0dc375da5439e69f5f8138c95c4c252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2303-2020",
+   "path": "ordin/mediu/2020/2303",
+   "short": "Ordin mediu nr. 2303/2020",
+   "title": "Ordinul nr. 2.303/2020 privind modificarea și completarea Procedurii de emitere a certificatelor de origine pentru biomasa provenită din silvicultură și industriile conexe și utilizată în producerea de energie electrică din surse regenerabile de energie, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.534/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236119",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236119",
+     "sha256": "71be5bd1f5e8e5735b42265ab8a346599bbf1061260cbc05978563480d2a664b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2339-2020",
+   "path": "ordin/mediu/2020/2339",
+   "short": "Ordin mediu nr. 2339/2020",
+   "title": "Ordinul nr. 2.339/2020 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul mediului, nr. 64/2019 pentru aprobarea structurii specifice și a regulamentului de funcționare a Comisiei de supraveghere a răspunderii extinse a producătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235998",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235998",
+     "sha256": "308c689d452fc2bf5fd5b1a593c8cd53d11199ec75dc627edbe0cc62ff07bf5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-262-2020",
+   "path": "ordin/mediu/2020/262",
+   "short": "Ordin mediu nr. 262/2020",
+   "title": "Ordinul nr. 262/2020 pentru modificarea Ghidului metodologic privind evaluarea adecvată a efectelor potențiale ale planurilor sau proiectelor asupra ariilor naturale protejate de interes comunitar, aprobat prin Ordinul ministrului mediului și pădurilor nr. 19/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223491",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223491",
+     "sha256": "b91e645faf4204eedb87ef80c7f44ab0f75cfdbcb0df7295444a368255171a6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-269-2020",
+   "path": "ordin/mediu/2020/269",
+   "short": "Ordin mediu nr. 269/2020",
+   "title": "Ordinul nr. 269/2020 privind aprobarea ghidului general aplicabil etapelor procedurii de evaluare a impactului asupra mediului, a ghidului pentru evaluarea impactului asupra mediului în context transfrontieră și a altor ghiduri specifice pentru diferite domenii și categorii de proiecte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223826",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223826",
+     "sha256": "29c01b1d085ab37314f174d7bf0be5cb8f88153de235d9cca23754984289ac4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-302-2020",
+   "path": "ordin/mediu/2020/302",
+   "short": "Ordin mediu nr. 302/2020",
+   "title": "Ordinul nr. 302/2020 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0124 Lacurile de pe Valea Ilfovului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223850",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223850",
+     "sha256": "d03b33a2b14dbb363699be6aa73e921cf452912453ce2a8cfafcc469eff2b325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-318-2020",
+   "path": "ordin/mediu/2020/318",
+   "short": "Ordin mediu nr. 318/2020",
+   "title": "Ordinul nr. 318/2020 privind aprobarea procesului de urmat pentru adoptarea restricțiilor de operare referitoare la zgomot, definite la art. 2 pct. 6 din Regulamentul (UE) nr. 598/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de stabilire a normelor și a procedurilor cu privire la introducerea restricțiilor de operare referitoare la zgomot pe aeroporturile din Uniune în cadrul unei abordări echilibrate și de abrogare a Directivei 2002/30/CE, și desemnarea autorităților pentru protecția mediului responsabile cu stabilirea restricțiilor de operare referitoare la zgomot și monitorizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223521",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223521",
+     "sha256": "3812e9abb176542509ca97b33a03ec22d2f5135b0302308ae54ec400b9a6e71d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-323-2020",
+   "path": "ordin/mediu/2020/323",
+   "short": "Ordin mediu nr. 323/2020",
+   "title": "Ordinul nr. 323/2020 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223452",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223452",
+     "sha256": "68360f7128a72e408e4470d6b37d6e2dbc50750a1d97fcb788e6ba1ebd0d5ab9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-324-2020",
+   "path": "ordin/mediu/2020/324",
+   "short": "Ordin mediu nr. 324/2020",
+   "title": "Ordinul nr. 324/2020 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223458",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223458",
+     "sha256": "acd8f758cc99e977d3b01ee040be4a7d21212bf37b17138a10602abab4c581e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-329-2020",
+   "path": "ordin/mediu/2020/329",
+   "short": "Ordin mediu nr. 329/2020",
+   "title": "Ordinul nr. 329/2020 privind completarea anexei nr. 1 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223723",
+   "versions": [
+    {
+     "from": "2020-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223723",
+     "sha256": "794903aee0a97582505b178b9c6b8a4809ccd77ef3434f062fe442ca3afd2c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-392-2020",
+   "path": "ordin/mediu/2020/392",
+   "short": "Ordin mediu nr. 392/2020",
+   "title": "Ordinul nr. 392/2020 privind Normele aferente tipului, frecvenței și formatului informațiilor referitoare la evenimentele de neconformare pentru instalațiile medii de ardere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223860",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223860",
+     "sha256": "58e129aa064a401bbda750ada54d40cbbec4077ef64c927388d34b82a9cb318b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-401-2020",
+   "path": "ordin/mediu/2020/401",
+   "short": "Ordin mediu nr. 401/2020",
+   "title": "Ordinul nr. 401/2020 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului Ministerului Mediului, Apelor și Pădurilor și al unităților ce funcționează în subordinea sa, devenite executorii în perioada 1 ianuarie 2019-31 decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223851",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223851",
+     "sha256": "253087b0ef2685306b4741f17fe7bf4d9270c59a10d27c9df81089594c24e962"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-452-2020",
+   "path": "ordin/mediu/2020/452",
+   "short": "Ordin mediu nr. 452/2020",
+   "title": "Ordinul nr. 452/2020 pentru modificarea și completarea anexei nr. 3 la Legea nr. 212/2015 privind modalitatea de gestionare a vehiculelor și a vehiculelor scoase din uz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224268",
+   "versions": [
+    {
+     "from": "2020-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224268",
+     "sha256": "9eec2807d64d5262f11c97e292a83e862ec3978cd484bbfb8dcdc4e671fe9e0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-485-2020",
+   "path": "ordin/mediu/2020/485",
+   "short": "Ordin mediu nr. 485/2020",
+   "title": "Ordinul nr. 485/2020 pentru modificarea și completarea Regulamentului privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224510",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224510",
+     "sha256": "bb2e18b3c9ec279094477d9202dc5872ab6ab9ab5320c20ff894b475271f37c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-488-2020",
+   "path": "ordin/mediu/2020/488",
+   "short": "Ordin mediu nr. 488/2020",
+   "title": "Ordinul nr. 488/2020 privind aprobarea Listei speciilor marine periclitate de la litoralul românesc al Mării Negre în vederea protejării și conservării lor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224756",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224756",
+     "sha256": "916bca6ec5b67580f1df52f23f23719092d23daf2acf9d4c39c67f2080ef7dce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-491-2020",
+   "path": "ordin/mediu/2020/491",
+   "short": "Ordin mediu nr. 491/2020",
+   "title": "Ordinul nr. 491/2020 pentru aprobarea Regulamentului privind constituirea, funcționarea și atribuțiile comisiilor de încadrare și promovare a personalului silvic pe grade profesionale și gradații și a Procedurii de organizare și funcționare a consiliilor de disciplină care funcționează în cadrul administratorilor fondului forestier proprietate publică a statului și al ocoalelor silvice de regim",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224781",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224781",
+     "sha256": "264e8bee9edd0d42a4149fd051a95787743d72c1085a156c826702b76d389106"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-560-2020",
+   "path": "ordin/mediu/2020/560",
+   "short": "Ordin mediu nr. 560/2020",
+   "title": "Ordinul nr. 560/2020 privind modificarea anexelor la Ordinul ministrului mediului și gospodăririi apelor nr. 594/2006 pentru aprobarea Certificatului de atestare privind obligațiile la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224712",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224712",
+     "sha256": "4decfe3ab3bac78310c698f7ea8276042e0d3c6dc40a05c5b863d8fb144e9b43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-60-2020",
+   "path": "ordin/mediu/2020/60",
+   "short": "Ordin mediu nr. 60/2020",
+   "title": "Ordinul nr. 60/2020 privind modificarea și completarea anexelor la Ordinul viceprim-ministrului, ministrul mediului, nr. 591/2017 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile la Fondul pentru mediu\" și a instrucțiunilor de completare și depunere a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222482",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222482",
+     "sha256": "f088f73384c13e1bc44df3b47b4d585702a579fce4e06e49c9e0e366246e05ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-71-2020",
+   "path": "ordin/mediu/2020/71",
+   "short": "Ordin mediu nr. 71/2020",
+   "title": "Ordinul nr. 71/2020 pentru aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2020, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222656",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222656",
+     "sha256": "2c17124af7effdca3c735cc52d95fe9d8c53ca3d417da5366f6577442be5093b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-934-2020",
+   "path": "ordin/mediu/2020/934",
+   "short": "Ordin mediu nr. 934/2020",
+   "title": "Ordinul nr. 934/2020 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020, pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020, și pentru instituirea unor măsuri privind programele finanțate din Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224717",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224717",
+     "sha256": "2fa1b6258ccfeba5385fd66c0b119f66871f8c794760276dd511f9a2fc5d4aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-944-2020",
+   "path": "ordin/mediu/2020/944",
+   "short": "Ordin mediu nr. 944/2020",
+   "title": "Ordinul nr. 944/2020 pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localității Turia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224757",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224757",
+     "sha256": "929b034ab30db476b5bd755f722cddc9526827e226774643c24fc2d088ccd276"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-975-2020",
    "path": "ordin/mediu/2020/975",
    "short": "Ordin mediu nr. 975/2020",
@@ -6554,6 +7694,51 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226645",
      "sha256": "dcaad6efe4694a7c5ef4817998ba04775ef6b892a32f359373f22f93167b3db3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-98-2020",
+   "path": "ordin/mediu/2020/98",
+   "short": "Ordin mediu nr. 98/2020",
+   "title": "Ordinul nr. 98/2020 pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localității Aiud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222825",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222825",
+     "sha256": "db4b66e2d9086c160843c69a09ae647317cde9ea4478abec9d7933f3193bc27d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-981-2020",
+   "path": "ordin/mediu/2020/981",
+   "short": "Ordin mediu nr. 981/2020",
+   "title": "Ordinul nr. 981/2020 pentru completarea art. 24 din Metodologia privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și silvicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224957",
+   "versions": [
+    {
+     "from": "2020-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224957",
+     "sha256": "bcd59875c31c509773e5b952227e28717a6a845eaf7df5e2dc40497d75dc4b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-992-2020",
+   "path": "ordin/mediu/2020/992",
+   "short": "Ordin mediu nr. 992/2020",
+   "title": "Ordinul nr. 992/2020 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225385",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225385",
+     "sha256": "0940c17aa559945babd94807d8cab60f121b437f37dc79a05a2c6ebde5479bf4"
     }
    ]
   },
@@ -10308,6 +11493,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1021-2020",
+   "path": "ordin/transporturi/2020/1021",
+   "short": "Ordin transporturi nr. 1021/2020",
+   "title": "Ordinul nr. 1.021/2020 privind modificarea anexei la Ordinul ministrului transporturilor nr. 490/2000 pentru aprobarea Instrucțiunilor privind tratarea defectelor unor produse feroviare critice aflate în termen de garanție - 906",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226578",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226578",
+     "sha256": "ec9c5a5e4b109495cf2ae27e9d42cd5a0f85c2a5057561baabe638233b49d2b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1030-2020",
    "path": "ordin/transporturi/2020/1030",
    "short": "Ordin transporturi nr. 1030/2020",
@@ -10353,6 +11553,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1447-2020",
+   "path": "ordin/transporturi/2020/1447",
+   "short": "Ordin transporturi nr. 1447/2020",
+   "title": "Ordinul nr. 1.447/2020 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 411/2016 privind publicarea acceptării amendamentelor la Convenția internațională din 1974 pentru ocrotirea vieții omenești pe mare, așa cum a fost amendată, adoptate de Organizația Maritimă Internațională prin Rezoluția MSC.380(94) a Comitetului de siguranță maritimă din 21 noiembrie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228695",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228695",
+     "sha256": "cd1b20660c927f2c7aa8fa5e5d2135a54ca1f5b15f5dac438554dda3af84c990"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1448-2020",
+   "path": "ordin/transporturi/2020/1448",
+   "short": "Ordin transporturi nr. 1448/2020",
+   "title": "Ordinul nr. 1.448/2020 privind modificarea și completarea Ordinului ministrului transporturilor nr. 917/2013 pentru publicarea acceptării Rezoluției A.761(18) - Recomandarea cu privire la condițiile de autorizare a stațiilor de întreținere a plutelor de salvare gonflabile, adoptată la 4 noiembrie 1993, precum și a Rezoluției MSC.55(66) - Adoptarea amendamentelor la Recomandarea cu privire la condițiile de autorizare a stațiilor de întreținere a plutelor de salvare gonflabile [ Rezoluția A.761(18)], adoptată la 30 mai 1996 de către Comitetul de siguranță maritimă al Organizației Maritime Internaționale, și stabilirea unor măsuri de aplicare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228696",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228696",
+     "sha256": "b3e64cf5997be89a928221e7bc1f18a6cc0f96209751309fa47e25c76d243a9c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1476-2020",
    "path": "ordin/transporturi/2020/1476",
    "short": "Ordin transporturi nr. 1476/2020",
@@ -10394,6 +11624,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229647",
      "sha256": "c2d982fa258fafa2d785c139487cbd6f480addcdd2fc3d852cfce6423c22dd25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1629-2020",
+   "path": "ordin/transporturi/2020/1629",
+   "short": "Ordin transporturi nr. 1629/2020",
+   "title": "Ordinul nr. 1.629/2020 privind abrogarea art. 1 din Ordinul ministrului transporturilor nr. 611/2019 pentru aprobarea Reglementării aeronautice civile române privind autorizarea agenților aeronautici civili în domeniul aeroportuar, RACR-AD-AACDA, ediția 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229131",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229131",
+     "sha256": "de02884376bdc6b00f8e940bb48e9c3495fa3478f3a453ed72132a88e2d431c4"
     }
    ]
   },
@@ -10458,6 +11703,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1745-2020",
+   "path": "ordin/transporturi/2020/1745",
+   "short": "Ordin transporturi nr. 1745/2020",
+   "title": "Ordinul nr. 1.745/2020 pentru modificarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230029",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230029",
+     "sha256": "d706cefb8c770469e747a48bdf2833458aec41dfdc42af167998fce73878cc98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1785-2020",
    "path": "ordin/transporturi/2020/1785",
    "short": "Ordin transporturi nr. 1785/2020",
@@ -10518,6 +11778,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1875-2020",
+   "path": "ordin/transporturi/2020/1875",
+   "short": "Ordin transporturi nr. 1875/2020",
+   "title": "Ordinul nr. 1.875/2020 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 767/2015 pentru aprobarea Reglementării aeronautice civile române RACR-HA \"Hărți aeronautice\", ediția 3/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231166",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231166",
+     "sha256": "7658908faf87439a5171463a1e1b14ed4913e720e3afe34deb25a7a26019e5f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1876-2020",
    "path": "ordin/transporturi/2020/1876",
    "short": "Ordin transporturi nr. 1876/2020",
@@ -10533,6 +11808,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1908-2020",
+   "path": "ordin/transporturi/2020/1908",
+   "short": "Ordin transporturi nr. 1908/2020",
+   "title": "Ordinul nr. 1.908/2020 pentru modificarea și completarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231571",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231571",
+     "sha256": "2939599e2d9d25e108c4c40159cdce7b88c35331d3d585e73dd5bac7bb1ce5ee"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1926-2020",
    "path": "ordin/transporturi/2020/1926",
    "short": "Ordin transporturi nr. 1926/2020",
@@ -10544,6 +11834,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233312",
      "sha256": "0c5acfa05c863ed390135e61548184fc234374a087b1016a8c705685d7f87c2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1937-2020",
+   "path": "ordin/transporturi/2020/1937",
+   "short": "Ordin transporturi nr. 1937/2020",
+   "title": "Ordinul nr. 1.937/2020 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 1.874/2020 privind aprobarea Procedurii operaționale pentru identificarea, selectarea și rezervarea prin promisiune de închiriere a imobilelor, cod: PO-19-01, ediția I, revizia 0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231609",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231609",
+     "sha256": "4f6ce5b962c88704ba935819a5481ac206da6ff10d656039a49fc013685067f6"
     }
    ]
   },
@@ -10593,6 +11898,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2061-2020",
+   "path": "ordin/transporturi/2020/2061",
+   "short": "Ordin transporturi nr. 2061/2020",
+   "title": "Ordinul nr. 2.061/2020 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234004",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234004",
+     "sha256": "fb33fbb1b15061d5c27761ac6119e6a226c050a8cc49306f6d8ad9b572c4988c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2092-2020",
+   "path": "ordin/transporturi/2020/2092",
+   "short": "Ordin transporturi nr. 2092/2020",
+   "title": "Ordinul nr. 2.092/2020 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 1.493/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura aeroportuară, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 2 - Dezvoltarea unui sistem de transport multimodal, de calitate, durabil și eficient, obiectivul specific 2.3 - Creșterea gradului de utilizare sustenabilă a aeroporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234439",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234439",
+     "sha256": "318a296b7094293a3fcc808f5005e5713464f9be062af7d20e0612e54d43577e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2093-2020",
+   "path": "ordin/transporturi/2020/2093",
+   "short": "Ordin transporturi nr. 2093/2020",
+   "title": "Ordinul nr. 2.093/2020 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 1.532/2017 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura portuară și în infrastructura locală intermodală/multimodală, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară 1, obiectivul specific 1.3 - Creșterea gradului de utilizare a căilor navigabile și a porturilor situate pe rețeaua TEN-T centrală, și axa prioritară 2 - Dezvoltarea unui sistem de transport multimodal, de calitate, durabil și eficient, obiectivul specific 2.4 - Creșterea volumului de mărfuri tranzitate prin terminale intermodale și porturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234440",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234440",
+     "sha256": "743015a2d9df3672cd839ff57027d30a1f71a6ad3c650bb2e26974a83618fdf8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2131-2020",
    "path": "ordin/transporturi/2020/2131",
    "short": "Ordin transporturi nr. 2131/2020",
@@ -10604,6 +11954,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235965",
      "sha256": "6edd826f5a2c1c5a200e4b62526c092c663014aba84d74ffee9bfc8d9b80024b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2133-2020",
+   "path": "ordin/transporturi/2020/2133",
+   "short": "Ordin transporturi nr. 2133/2020",
+   "title": "Ordinul nr. 2.133/2020 pentru modificarea anexei nr. 2 la Ordinul ministrului transporturilor și infrastructurii nr. 153/2011 privind modificarea și completarea Regulamentului pentru circulația trenurilor și manevra vehiculelor feroviare - nr. 005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.816/2005, și pentru definirea trenurilor de călători în funcție de serviciile oferite de operatorii de transport feroviar de călători și completarea anexei la Ordinul ministrului transporturilor nr. 1.050/2013 pentru aprobarea tarifelor de deservire generală din transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235093",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235093",
+     "sha256": "ed610231efc147fe00e7339cb374ee1391fe62c1e1312fadf093bdf8ff48bc14"
     }
    ]
   },
@@ -10698,6 +12063,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2205-2020",
+   "path": "ordin/transporturi/2020/2205",
+   "short": "Ordin transporturi nr. 2205/2020",
+   "title": "Ordinul nr. 2.205/2020 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235687",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235687",
+     "sha256": "d7c90586d18d19338bbfde6e13039e0e25f4a1640b1beb9dab3b2e6f8d103794"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2209-2020",
    "path": "ordin/transporturi/2020/2209",
    "short": "Ordin transporturi nr. 2209/2020",
@@ -10724,6 +12104,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235752",
      "sha256": "e54b585b9205b51ba0a0ca422e8c2e6962a60247ddecd6aa6222b556f4e0f4d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2222-2020",
+   "path": "ordin/transporturi/2020/2222",
+   "short": "Ordin transporturi nr. 2222/2020",
+   "title": "Ordinul nr. 2.222/2020 pentru modificarea și completarea Reglementărilor privind autorizarea operatorilor economici care desfășoară activități de reparații, de întreținere, de reglare, de modificări constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor scoase din uz - RNTR 9, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.131/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236159",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236159",
+     "sha256": "765f0040aeea09426551e0019addb3b1967607fcc206e4825a98085dab4d9007"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2223-2020",
+   "path": "ordin/transporturi/2020/2223",
+   "short": "Ordin transporturi nr. 2223/2020",
+   "title": "Ordinul nr. 2.223/2020 pentru modificarea și completarea Reglementărilor privind omologarea individuală, eliberarea cărții de identitate și certificarea autenticității vehiculelor rutiere - RNTR 7, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235987",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235987",
+     "sha256": "3e5bf338b8295ef367453e4e85dbbfeddfca8c9c6fa080fc0d33816d00a01935"
     }
    ]
   },
@@ -10758,6 +12168,81 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-26-2020",
+   "path": "ordin/transporturi/2020/26",
+   "short": "Ordin transporturi nr. 26/2020",
+   "title": "Ordinul nr. 26/2020 pentru modificarea anexei nr. 1 la Normele tehnice privind proiectarea, construirea și modernizarea drumurilor, aprobate prin Ordinul ministrului transporturilor nr. 1.296/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235955",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235955",
+     "sha256": "dfa83773329999aeab0d3974269ee65db2b8dd25c3ff0f79cb1c4777b9ed462d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-46-2020",
+   "path": "ordin/transporturi/2020/46",
+   "short": "Ordin transporturi nr. 46/2020",
+   "title": "Ordinul nr. 46/2020 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.190/2005 privind utilizarea tarifului de securitate aeroportuară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222118",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222118",
+     "sha256": "5211005c418bff9fb523be348033ef92ab798fc8591c2999f063cb6fca5bb7bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-57-2020",
+   "path": "ordin/transporturi/2020/57",
+   "short": "Ordin transporturi nr. 57/2020",
+   "title": "Ordinul nr. 57/2020 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222502",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222502",
+     "sha256": "d1b7bade2431ffcd58921cf244b6c4e975364b9ceb02d08723856670d2739684"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-642-2020",
+   "path": "ordin/transporturi/2020/642",
+   "short": "Ordin transporturi nr. 642/2020",
+   "title": "Ordinul nr. 642/2020 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 1.723/2014 pentru aprobarea Reglementării Aeronautice Civile Române RACR-ATS \"Serviciile de trafic aerian\", ediția 3.0/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223377",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223377",
+     "sha256": "89638759f3a334308138ea7bbfdda87855d8acd8fdec55596951920260437230"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-661-2020",
+   "path": "ordin/transporturi/2020/661",
+   "short": "Ordin transporturi nr. 661/2020",
+   "title": "Ordinul nr. 661/2020 privind modificarea Ordinului ministrului transporturilor și infrastructurii și al ministrului mediului și pădurilor nr. 169/1.801/2011 pentru aprobarea Planului național de acțiune privind reducerea emisiilor de gaze cu efect de seră în domeniul aviației civile pentru perioada 2011-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224742",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224742",
+     "sha256": "898ad5c46271ae7d3eb54401e7d999dbe6eb777d7fe39b67c7d74d4a29db0795"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-668-2020",
    "path": "ordin/transporturi/2020/668",
    "short": "Ordin transporturi nr. 668/2020",
@@ -10784,6 +12269,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223482",
      "sha256": "7cf89dd9374f57fed318bf97bab7e46c7f93888cc54bd4da98481e8aadf8d512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-700-2020",
+   "path": "ordin/transporturi/2020/700",
+   "short": "Ordin transporturi nr. 700/2020",
+   "title": "Ordinul nr. 700/2020 privind modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 218/2006 pentru aprobarea Normelor privind înregistrarea persoanelor aflate la bordul navelor de pasageri care operează spre sau dinspre porturi maritime românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223882",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223882",
+     "sha256": "4748fc8099cdc9bcdfe7b80bf1ad9d38e9f51546172a9d4eff8519bf2ac933eb"
     }
    ]
   },
@@ -10833,6 +12333,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-77-2020",
+   "path": "ordin/transporturi/2020/77",
+   "short": "Ordin transporturi nr. 77/2020",
+   "title": "Ordinul nr. 77/2020 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005 pentru aprobarea Reglementărilor privind inspecția tehnică periodică a vehiculelor înmatriculate sau înregistrate în România - RNTR 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222398",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222398",
+     "sha256": "956150abb9358917064cfccbdf71773db8b274e7f5d892efe51fdf7941978d48"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-852-2020",
    "path": "ordin/transporturi/2020/852",
    "short": "Ordin transporturi nr. 852/2020",
@@ -10848,6 +12363,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-892-2020",
+   "path": "ordin/transporturi/2020/892",
+   "short": "Ordin transporturi nr. 892/2020",
+   "title": "Ordinul nr. 892/2020 privind modificarea anexei la Ordinul ministrului transporturilor nr. 1.064/2007 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224982",
+   "versions": [
+    {
+     "from": "2020-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224982",
+     "sha256": "770279b0aee100283fe01999f320abc188787578e77b2066c26b006c04178861"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-893-2020",
    "path": "ordin/transporturi/2020/893",
    "short": "Ordin transporturi nr. 893/2020",
@@ -10859,6 +12389,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225306",
      "sha256": "ea0021a4d065852da987d4369b343cfce08e2bf45857e38b91f708cee3f5cadd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-907-2020",
+   "path": "ordin/transporturi/2020/907",
+   "short": "Ordin transporturi nr. 907/2020",
+   "title": "Ordinul nr. 907/2020 pentru modificarea pct. 10 din anexa nr. 1 la Ordonanța Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române și a pct. 10 din anexa nr. 1.2 la Metodologia privind încadrarea în categoria de tren, clasă, condițiile de emitere, gestionare și folosire a legitimațiilor de călătorie pe căile ferate române, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 1.697/2012 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225469",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225469",
+     "sha256": "37ba0b813fad8e8c0aa15b32e8b6b9e958b00e6807eb2b65b1565036eb6f3387"
     }
    ]
   },
@@ -10889,6 +12434,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225563",
      "sha256": "bb745f16145b91595c2df8fd00d215edf54a04da2a9be980105cf74143e80049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-910-2020",
+   "path": "ordin/transporturi/2020/910",
+   "short": "Ordin transporturi nr. 910/2020",
+   "title": "Ordinul nr. 910/2020 pentru modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 630/2007 privind modul de reglementare a domeniului aeronauticii civile cu aeronave ultraușoare din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225500",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225500",
+     "sha256": "4549264c5fa26ed85d171e9205754ba71f5d579b0aed1cf2c66f80303f654f40"
     }
    ]
   },
@@ -10938,6 +12498,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-960-2020",
+   "path": "ordin/transporturi/2020/960",
+   "short": "Ordin transporturi nr. 960/2020",
+   "title": "Ordinul nr. 960/2020 pentru modificarea unor acte normative cu privire la prevederile referitoare la profesiile reglementate pentru care Regia Autonomă \"Registrul Auto Român\" este autoritate competentă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225968",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225968",
+     "sha256": "00e71fa7905770605d5d598a7375c2c701e71b29219d360b5cd2dc4b6c6f3baa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-965-2020",
    "path": "ordin/transporturi/2020/965",
    "short": "Ordin transporturi nr. 965/2020",
@@ -10949,6 +12524,36 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225523",
      "sha256": "70cf023824321e6e46f8217684af2f27bc6dd96c00eff13141231c1307ad56fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-975-2020",
+   "path": "ordin/transporturi/2020/975",
+   "short": "Ordin transporturi nr. 975/2020",
+   "title": "Ordinul nr. 975/2020 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225596",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225596",
+     "sha256": "2088604a869a299d11026f4ba4de5c92da00a62ae81fad61aa6211a784cc6d30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-983-2020",
+   "path": "ordin/transporturi/2020/983",
+   "short": "Ordin transporturi nr. 983/2020",
+   "title": "Ordinul nr. 983/2020 pentru modificarea Normelor privind autorizarea și controlul centrelor de pregătire și perfecționare profesională a personalului de specialitate din domeniul transporturilor rutiere, aprobate prin Ordinul ministrului transporturilor nr. 1.212/2015, și pentru modificarea și completarea Normelor privind pregătirea și atestarea profesională a anumitor categorii de conducători auto, prevăzute în anexa nr. 2 la Ordinul ministrului transporturilor nr. 1.214/2015 pentru aprobarea normelor privind pregătirea și atestarea profesională a personalului de specialitate din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225973",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225973",
+     "sha256": "63d825016e1f936bfbc8195280bd059df43da6ba171dfbdf01c4c6819b6c7f0c"
     }
    ]
   },

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.092/2026 pentru aprobarea reglementării tehnice "Normativ privind proiectarea soluțiilor de îmbunătățire a terenului de fundare și a lucrărilor din pământ, indicativ RTC 16-2026", precum și a reglementării tehnice "Instrucțiune tehnică de execuție pentru soluțiile de îmbunătățire a terenului de fundare, indicativ RTC 17-2026"
 
-Ordin dezvoltare nr. 1092/2026 · 1 versions, from 2026-10-06 (latest in force: 2026-10-06) · <https://legislatie.just.ro/Public/DetaliiDocument/315037>
+Ordin dezvoltare nr. 1092/2026 · 1 versions, from 2026-11-05 (latest in force: 2026-11-05) · <https://legislatie.just.ro/Public/DetaliiDocument/315037>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 5 November 2026; this record still dates it from 6 October 2026, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,4 +27,4 @@ Act id: `ordin-dezvoltare-1092-2026` (tags `ordin-dezvoltare-1092-2026/<day>`; `
 - Ordin dezvoltare nr. 1092/2026: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 17 septembrie 2026 Normativ privind proiectarea soluțiilor de îmbunătățire a terenului de fundare și a lucrărilor din pământ, indicativ RTC 16-2026) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 315164 of the official web service.
 - Ordin dezvoltare nr. 1092/2026: Anexa nr. 2 (REGLEMENTARE TEHNICĂ din 17 septembrie 2026 Instrucțiune tehnică de execuție pentru soluțiile de îmbunătățire a terenului de fundare, indicativ RTC 17-2026) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 315165 of the official web service.
 - Ordin dezvoltare nr. 1092/2026: the publisher's note "*) Anexele nr. 1 și 2 se publică în Monitorul Oficial al României, Partea I, nr. 843 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, s" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1, Anexa nr. 2. The note itself is not text.
-- Ordin dezvoltare nr. 1092/2026: first published here dated 6 October 2026; its in-force clause states 5 November 2026. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 1092/2026: re-dated by a correction: in force from 5 November 2026 (first published dated 6 October 2026).

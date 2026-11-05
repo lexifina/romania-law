@@ -1,8 +1,8 @@
 # Ordinul nr. 1.048/2024 pentru aprobarea Procedurii de eliberare a unor adeverințe de către organul fiscal central, în cazul persoanelor fizice, precum și a modelului și conținutului unor formulare
 
-Ordin anaf nr. 1048/2024 · 1 versions, from 2024-06-06 (latest in force: 2024-06-06) · <https://legislatie.just.ro/Public/DetaliiDocument/283800>
+Ordin anaf nr. 1048/2024 · 1 versions, from 2024-09-04 (latest in force: 2024-09-04) · <https://legislatie.just.ro/Public/DetaliiDocument/283800>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 4 September 2024; this record still dates it from 6 June 2024, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,4 +37,4 @@ Act id: `ordin-anaf-1048-2024` (tags `ordin-anaf-1048-2024/<day>`; `python tools
 - Ordin anaf nr. 1048/2024: Anexa nr. 3 (SIGLĂ Ministerul Finanțelor Agenția Națională de Administrare Fiscală Direcția Generală Regională a Finanțelor Publice............ Unitatea fiscală........................ Nr. de înregistrare.........) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 283800 of the official web service.
 - Ordin anaf nr. 1048/2024: Anexa nr. 4 (PROCEDURĂ de eliberare a unor adeverințe de către organul fiscal central, în cazul persoanelor fizice 1. Formularul 232 „Adeverință de venit” reprezintă documentul prin care se atestă veniturile reali) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 283800 of the official web service.
 - Ordin anaf nr. 1048/2024: Anexa nr. 5 (CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și păstrare a formularelor a) Denumire: „Cerere pentru eliberarea unei adeverințe” (formular 231) 1. Formatul: A4/t1... 2. U/M: seturi...) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 283800 of the official web service.
-- Ordin anaf nr. 1048/2024: first published here dated 6 June 2024; its in-force clause states 4 September 2024. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 1048/2024: re-dated by a correction: in force from 4 September 2024 (first published dated 6 June 2024).

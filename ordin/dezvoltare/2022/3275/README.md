@@ -1,8 +1,8 @@
 # Ordinul nr. 3.275/2022 pentru aprobarea reglementării tehnice "Îndrumător privind cazuri particulare de expertizare tehnică a clădirilor pentru cerința fundamentală „rezistență mecanică și stabilitate”, indicativ C 254-2022"
 
-Ordin dezvoltare nr. 3275/2022 · 1 versions, from 2022-12-27 (latest in force: 2022-12-27) · <https://legislatie.just.ro/Public/DetaliiDocument/263139>
+Ordin dezvoltare nr. 3275/2022 · 1 versions, from 2023-01-26 (latest in force: 2023-01-26) · <https://legislatie.just.ro/Public/DetaliiDocument/263139>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 26 January 2023; this record still dates it from 27 December 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-dezvoltare-3275-2022` (tags `ordin-dezvoltare-3275-2022/<day>`; `
 - Ordin dezvoltare nr. 3275/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 3275/2022: Anexa nr. 1 (REGLEMENTĂRI TEHNICE din 19 decembrie 2022 Îndrumător privind cazuri particulare de expertizare tehnică a clădirilor pentru cerința fundamentală "rezistență mecanică și stabilitate", indicativ C ...) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 263168 of the official web service.
 - Ordin dezvoltare nr. 3275/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 1255 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, B" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
-- Ordin dezvoltare nr. 3275/2022: first published here dated 27 December 2022; its in-force clause states 26 January 2023. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 3275/2022: re-dated by a correction: in force from 26 January 2023 (first published dated 27 December 2022).

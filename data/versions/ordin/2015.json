@@ -78,6 +78,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-307-2015",
+   "path": "ordin/agricultura/2015/307",
+   "short": "Ordin agricultura nr. 307/2015",
+   "title": "Ordinul nr. 307/2015 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165634",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165634",
+     "sha256": "25a567f67142e335569eb48ffc4b8fe6a1a2ab24563cdcaa1194b1a02fd16e30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-352-2015",
+   "path": "ordin/agricultura/2015/352",
+   "short": "Ordin agricultura nr. 352/2015",
+   "title": "Ordinul nr. 352/2015 pentru aprobarea normelor privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168313",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168313",
+     "sha256": "e026fed61b3694500706dc8740e55802d20f31f0841bc3273cc71ff6a7db952e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-386-2015",
+   "path": "ordin/agricultura/2015/386",
+   "short": "Ordin agricultura nr. 386/2015",
+   "title": "Ordinul nr. 386/2015 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit alocate pentru anul 2015, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166246",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166246",
+     "sha256": "81d7e160f128016f8fe328b65b8d25f162dbb37a93ec3cd7637c06e124ec62f2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-571-2015",
    "path": "ordin/agricultura/2015/571",
    "short": "Ordin agricultura nr. 571/2015",
@@ -670,7 +715,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/174049",
    "versions": [
     {
-     "from": "2015-12-18",
+     "from": "2016-01-01",
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174049",
      "sha256": "334072bb77aec797798b0bb1aa3ccefa3466c917649ce93bf73291c34530612a"
@@ -865,7 +910,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/174347",
    "versions": [
     {
-     "from": "2015-12-28",
+     "from": "2016-01-01",
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174347",
      "sha256": "d2d0c107f4f7b9bfcf0d5402f47f5d47827fc258fa40950819dabb57530b65e5"
@@ -910,7 +955,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/174332",
    "versions": [
     {
-     "from": "2015-12-28",
+     "from": "2016-01-01",
      "units": 65,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174332",
      "sha256": "ad5f29ac6c349438012cb5b46d09be34f1b2e2c3c69f2d89a3aec841ff1e44bf"
@@ -5635,7 +5680,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/168079",
    "versions": [
     {
-     "from": "2015-05-19",
+     "from": "2015-05-20",
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168079",
      "sha256": "e51eb0e8b1bb242f80131988d99eef0ea7f39938dc77657dbbd0acaf8517defc"
@@ -7443,6 +7488,396 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1115-2015",
+   "path": "ordin/mediu/2015/1115",
+   "short": "Ordin mediu nr. 1115/2015",
+   "title": "Ordinul nr. 1.115/2015 pentru aprobarea Criteriilor de acordare a licenței pentru gestionarii fondurilor cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170067",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170067",
+     "sha256": "f271dd22dfb510cb531aff48430313ed2cdaf12fec49829f1de658a0ed10b377"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1169-2015",
+   "path": "ordin/mediu/2015/1169",
+   "short": "Ordin mediu nr. 1169/2015",
+   "title": "Ordinul nr. 1.169/2015 pentru aprobarea derogării în scop științific pentru specia Ursus arctos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171123",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171123",
+     "sha256": "b509872493a84597af716a212a91c4a6fb38550928a403ebca305b89452bcc49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1206-2015",
+   "path": "ordin/mediu/2015/1206",
+   "short": "Ordin mediu nr. 1206/2015",
+   "title": "Ordinul nr. 1.206/2015 pentru aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171201",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171201",
+     "sha256": "deecd3500d93ca7892fb7e74f49869d035dee5c714b4a271e668c6ae7700f05c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1209-2015",
+   "path": "ordin/mediu/2015/1209",
+   "short": "Ordin mediu nr. 1209/2015",
+   "title": "Ordinul nr. 1.209/2015 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171124",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171124",
+     "sha256": "783787d546348259c003d9319624152a7731fa9178ce6cd58b88947803ff5e0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1211-2015",
+   "path": "ordin/mediu/2015/1211",
+   "short": "Ordin mediu nr. 1211/2015",
+   "title": "Ordinul nr. 1.211/2015 pentru aprobarea derogării în scop științific pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171192",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171192",
+     "sha256": "780bfbae3b56ed7839fcccae18e9955d6e115dbdc458dd7e97a47412285c5bf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1213-2015",
+   "path": "ordin/mediu/2015/1213",
+   "short": "Ordin mediu nr. 1213/2015",
+   "title": "Ordinul nr. 1.213/2015 pentru aprobarea derogării în scop științific pentru unele specii de floră și faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171353",
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171353",
+     "sha256": "3176aebea4d16521205de3d0bebc967bbcf7d97a2814e6b58b916051ae487207"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1287-2015",
+   "path": "ordin/mediu/2015/1287",
+   "short": "Ordin mediu nr. 1287/2015",
+   "title": "Ordinul nr. 1.287/2015 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0007 Bazinul Ciucului de Jos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174824",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174824",
+     "sha256": "2a26c181323745565f673e7479616ce593516937ccdd0d7d6965f589e32cf2b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1323-2015",
+   "path": "ordin/mediu/2015/1323",
+   "short": "Ordin mediu nr. 1323/2015",
+   "title": "Ordinul nr. 1.323/2015 privind aprobarea metodelor dendrometrice pentru evaluarea volumului de lemn destinat valorificării și valorile necesare calculului volumului de lemn destinat valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171770",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171770",
+     "sha256": "fddc9d877ca103f31cd03e32726bdc4ef99cbea71aebcca77e9548d32c6a49c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1330-2015",
+   "path": "ordin/mediu/2015/1330",
+   "short": "Ordin mediu nr. 1330/2015",
+   "title": "Ordinul nr. 1.330/2015 pentru aprobarea Regulamentului privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171315",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171315",
+     "sha256": "fd76f58e6ed9ca2aacef67f71d5e5447a87ef545551f09cb8a0550d7a3915053"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1439-2015",
+   "path": "ordin/mediu/2015/1439",
+   "short": "Ordin mediu nr. 1439/2015",
+   "title": "Ordinul nr. 1.439/2015 pentru aprobarea derogărilor în cazul speciilor urs, lup și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171603",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171603",
+     "sha256": "ac22c4ed76d97c1f848b92cf27d268e453cfc4ebb40914914ed01ea7f994518b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1558-2015",
+   "path": "ordin/mediu/2015/1558",
+   "short": "Ordin mediu nr. 1558/2015",
+   "title": "Ordinul nr. 1.558/2015 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172001",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172001",
+     "sha256": "ba08e6aa789d292a4dafe8c7a3d83a7c83e935262dba0302fe32cffc3f202a7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1563-2015",
+   "path": "ordin/mediu/2015/1563",
+   "short": "Ordin mediu nr. 1563/2015",
+   "title": "Ordinul nr. 1.563/2015 pentru aprobarea derogării în scop științific pentru specia Spermophilus citellus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172288",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172288",
+     "sha256": "020f90a858c6076915f0f004442797c4da6d13cb9deb598abf7cf3a263fe3ab6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1568-2015",
+   "path": "ordin/mediu/2015/1568",
+   "short": "Ordin mediu nr. 1568/2015",
+   "title": "Ordinul nr. 1.568/2015 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172349",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172349",
+     "sha256": "a636ff354851843b6dbc4785caca6e2f4d64a0a72da4d52a737d574fdc6fdb3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-167-2015",
+   "path": "ordin/mediu/2015/167",
+   "short": "Ordin mediu nr. 167/2015",
+   "title": "Ordinul nr. 167/2015 privind aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2015, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165831",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165831",
+     "sha256": "141545b7a88c24c02215a8ac45504d6557c011ca493a100ca14108ad8e8ca634"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1763-2015",
+   "path": "ordin/mediu/2015/1763",
+   "short": "Ordin mediu nr. 1763/2015",
+   "title": "Ordinul nr. 1.763/2015 pentru aprobarea Regulamentului privind atestarea persoanelor juridice care realizează lucrări de regenerare și întreținere a semințișurilor și plantațiilor, lucrări de îngrijire a arboretelor, precum și atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare în domeniul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173426",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173426",
+     "sha256": "fb16964c4b1af83a41d2a14108d642fa83d2c5db622f202aa78859f79e9c0508"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1934-2015",
+   "path": "ordin/mediu/2015/1934",
+   "short": "Ordin mediu nr. 1934/2015",
+   "title": "Ordinul nr. 1.934/2015 privind aprobarea Planului de management și a Regulamentului Parcului Național Ceahlău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176113",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176113",
+     "sha256": "9dc6a82b583d45b1d61cf990eab8c78fca1bbe05838ed7bb4ce20a8e9b4d65f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1935-2015",
+   "path": "ordin/mediu/2015/1935",
+   "short": "Ordin mediu nr. 1935/2015",
+   "title": "Ordinul nr. 1.935/2015 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI 0096 Lacul Bâlbâitoarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175895",
+   "versions": [
+    {
+     "from": "2016-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175895",
+     "sha256": "3e73f5f9e965fe70ac836b2e0934913b5fd241babb4a344fd62eafcaf848c631"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1954-2015",
+   "path": "ordin/mediu/2015/1954",
+   "short": "Ordin mediu nr. 1954/2015",
+   "title": "Ordinul nr. 1.954/2015 privind aprobarea Planului de management al sitului ROSCI0117 Movila lui Burcel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176587",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176587",
+     "sha256": "b096c88894d12d0e525b99aa95cde3741f9250c310f7be8427701d02f98a32ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1968-2015",
+   "path": "ordin/mediu/2015/1968",
+   "short": "Ordin mediu nr. 1968/2015",
+   "title": "Ordinul nr. 1.968/2015 privind aprobarea Planului de management al sitului Natura 2000 ROSCI 0138 Pădurea Bolintin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175896",
+   "versions": [
+    {
+     "from": "2016-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175896",
+     "sha256": "4b93040850092159a16feb73f4ad0dfee02529d7b4e8ebfa894b7c986414b21c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1969-2015",
+   "path": "ordin/mediu/2015/1969",
+   "short": "Ordin mediu nr. 1969/2015",
+   "title": "Ordinul nr. 1.969/2015 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0235 Stânca Tohani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178778",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178778",
+     "sha256": "4446ae21d14ab65e0b748eb82226aee72289de58c5aea1d6f66654ce66343174"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1970-2015",
+   "path": "ordin/mediu/2015/1970",
+   "short": "Ordin mediu nr. 1970/2015",
+   "title": "Ordinul nr. 1.970/2015 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0153 Pădurea Glodeasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176528",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176528",
+     "sha256": "3223efee7eb69582de0ab238006f0028a6aec479fe3a2be467d984cd212f5041"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1971-2015",
+   "path": "ordin/mediu/2015/1971",
+   "short": "Ordin mediu nr. 1971/2015",
+   "title": "Ordinul nr. 1.971/2015 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0072 Lunca Siretului Mijlociu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176723",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176723",
+     "sha256": "fbab52e113d39cbeec002ac7607770a4782f75d1ca6723f55b4e95db8d4d40ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1972-2015",
+   "path": "ordin/mediu/2015/1972",
+   "short": "Ordin mediu nr. 1972/2015",
+   "title": "Ordinul nr. 1.972/2015 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0209 Racâș-Hida și al ariei naturale protejate de interes național 2.684. Poiana cu narcise de la Racâș-Hida",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176120",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176120",
+     "sha256": "da3cb22c195ddc987dd80fa9232d3e69b74468616243763ce2ee8945024d2575"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2001-2015",
+   "path": "ordin/mediu/2015/2001",
+   "short": "Ordin mediu nr. 2001/2015",
+   "title": "Ordinul nr. 2.001/2015 privind aprobarea numărului de certificate de emisii de gaze cu efect de seră alocate cu titlu gratuit aferente anului 2015 pentru fiecare instalație din sectorul staționar în care se desfășoară una sau mai multe dintre activitățile prevăzute în anexa nr. 1 la Hotărârea Guvernului nr. 780/2006 privind stabilirea schemei de comercializare a certificatelor de emisii de gaze cu efect de seră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174371",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174371",
+     "sha256": "4607dbbf67b80b46b25ef4bf8d4cb9cd5e69ad639143b9816bfa10e9ff3028c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2017-2015",
+   "path": "ordin/mediu/2015/2017",
+   "short": "Ordin mediu nr. 2017/2015",
+   "title": "Ordinul nr. 2.017/2015 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0359 Prigoria Bengești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178841",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178841",
+     "sha256": "e3e116dcb9e3ea67e1542af4d0ee8525019764ca2c410725ae3964b779f0a8bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2036-2015",
+   "path": "ordin/mediu/2015/2036",
+   "short": "Ordin mediu nr. 2036/2015",
+   "title": "Ordinul nr. 2.036/2015 privind aprobarea Planului de management al sitului ROSCI0330 Oșești-Bârzești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179200",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179200",
+     "sha256": "7c2a8fac8b53106262351ab6b6b5a3123e98de58186570ea42b0de36e58daeac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-225-2015",
    "path": "ordin/mediu/2015/225",
    "short": "Ordin mediu nr. 225/2015",
@@ -7454,6 +7889,186 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176247",
      "sha256": "65057f2ee632d5cef098b3ec5523b2c2b146688c7e0234ac88f5406fe98b43fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-387-2015",
+   "path": "ordin/mediu/2015/387",
+   "short": "Ordin mediu nr. 387/2015",
+   "title": "Ordinul nr. 387/2015 pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localității Schitu Golești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166215",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166215",
+     "sha256": "715b8891b6943987fee5852bffd832f0dd1ee53e5b10407b8877983ca3209b90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-425-2015",
+   "path": "ordin/mediu/2015/425",
+   "short": "Ordin mediu nr. 425/2015",
+   "title": "Ordinul nr. 425/2015 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166603",
+   "versions": [
+    {
+     "from": "2015-03-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166603",
+     "sha256": "b226ed1be57cde61e21b4e6c25c76e1592374ed1bcd0e92f5c0f21d0008d6d1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-463-2015",
+   "path": "ordin/mediu/2015/463",
+   "short": "Ordin mediu nr. 463/2015",
+   "title": "Ordinul nr. 463/2015 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0003 Arboretele de castan comestibil de la Baia Mare și al ariei naturale protejate de interes național 2.581. Arboretul de castan comestibil de la Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167431",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167431",
+     "sha256": "4fc92767723a16f0efd96c38076cc678897150f08da6e6c61f39d440f6fd54e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-609-2015",
+   "path": "ordin/mediu/2015/609",
+   "short": "Ordin mediu nr. 609/2015",
+   "title": "Ordinul nr. 609/2015 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166800",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166800",
+     "sha256": "8b746dd97406e582babbf79eb080afa7c8f511df85692851fa00559ebe2aae3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-620-2015",
+   "path": "ordin/mediu/2015/620",
+   "short": "Ordin mediu nr. 620/2015",
+   "title": "Ordinul nr. 620/2015 privind aprobarea planului de management și a regulamentului ariei naturale protejate de interes național 2.324 \"Cariera Corabia\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167419",
+   "versions": [
+    {
+     "from": "2015-04-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167419",
+     "sha256": "6010c39e6d4640b9068d5bbde9cae4bcfaee3588bb5bd5b86c50c781a1c70a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-621-2015",
+   "path": "ordin/mediu/2015/621",
+   "short": "Ordin mediu nr. 621/2015",
+   "title": "Ordinul nr. 621/2015 privind aprobarea derogării în scop științific pentru unele specii de pești pe cursul râului Prut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167091",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167091",
+     "sha256": "0b69e2257c1b8b5659f62388f72a8b424c24d842432c93c76d998eb792d5c125"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-631-2015",
+   "path": "ordin/mediu/2015/631",
+   "short": "Ordin mediu nr. 631/2015",
+   "title": "Ordinul nr. 631/2015 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167524",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167524",
+     "sha256": "98c4982779ec92676c54efb8ac2977840f4f281e6f63b4ece37e8078adf37e2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-694-2015",
+   "path": "ordin/mediu/2015/694",
+   "short": "Ordin mediu nr. 694/2015",
+   "title": "Ordinul nr. 694/2015 pentru aprobarea derogării în scop științific în cazul unor specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167671",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167671",
+     "sha256": "8590f87cb68a6956081be5c13a438d4a7b4b5bb8d8e95e66262add561137a59c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-754-2015",
+   "path": "ordin/mediu/2015/754",
+   "short": "Ordin mediu nr. 754/2015",
+   "title": "Ordinul nr. 754/2015 privind aprobarea Planului de management al Rezervației Naturale \"Izvorul de la Corbii Ciungi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168689",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168689",
+     "sha256": "953d8917109c46be3ced8eea1a0377db55a2b66bd316540f93eedb18dcefc496"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-814-2015",
+   "path": "ordin/mediu/2015/814",
+   "short": "Ordin mediu nr. 814/2015",
+   "title": "Ordinul nr. 814/2015 privind aprobarea Planului de management al Rezervației Naturale Balta Cilieni - Băilești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170121",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170121",
+     "sha256": "328ae9d422c739182e20acb6be0028590792f43549f1ae5e1c9661653c7cc127"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-818-2015",
+   "path": "ordin/mediu/2015/818",
+   "short": "Ordin mediu nr. 818/2015",
+   "title": "Ordinul nr. 818/2015 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2015-14 mai 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168003",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168003",
+     "sha256": "b219c4cb9184659922f84a9231b12c6b4bf96e2031accf6548087f57c7b6e01c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-819-2015",
+   "path": "ordin/mediu/2015/819",
+   "short": "Ordin mediu nr. 819/2015",
+   "title": "Ordinul nr. 819/2015 pentru aprobarea Metodologiei de exercitare a atribuțiilor de control prevăzute la art. 2 din Hotărârea Guvernului nr. 668/2011 privind desemnarea autorității competente pentru aplicarea Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168405",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168405",
+     "sha256": "ff9c5b4f44d1b3b101e83018b8602b46f8c2492450609661c67cf3521dda4311"
     }
    ]
   },
@@ -9708,6 +10323,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1001-2015",
+   "path": "ordin/transporturi/2015/1001",
+   "short": "Ordin transporturi nr. 1001/2015",
+   "title": "Ordinul nr. 1.001/2015 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171436",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171436",
+     "sha256": "793ffe8e8ff1634f9356ca74a4a570be0539855e520ee9af5d621aa6e2b87b42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1048-2015",
+   "path": "ordin/transporturi/2015/1048",
+   "short": "Ordin transporturi nr. 1048/2015",
+   "title": "Ordinul nr. 1.048/2015 pentru modificarea pct. 6 din Metodologia de decontare a legitimațiilor de călătorie pe căile ferate române, acordate în baza Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, republicată, a căror contravaloare se suportă din bugetul Ministerului Transporturilor și Infrastructurii, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 1.697/2012 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172537",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172537",
+     "sha256": "6b2a68b9e591fbfccca5c061c78425e400d42737a776bcda2a6edbaa2b3f1ae6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1064-2015",
+   "path": "ordin/transporturi/2015/1064",
+   "short": "Ordin transporturi nr. 1064/2015",
+   "title": "Ordinul nr. 1.064/2015 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171842",
+   "versions": [
+    {
+     "from": "2015-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171842",
+     "sha256": "7ce3b2e2db008083762ca13c9ea5aa56f2627ad4ede7d76605b173532b199baa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1067-2015",
    "path": "ordin/transporturi/2015/1067",
    "short": "Ordin transporturi nr. 1067/2015",
@@ -9749,6 +10409,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172233",
      "sha256": "571febb89cf465a973772591260e7dc13f9778e927146cf5b263a78f250b7e24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1169-2015",
+   "path": "ordin/transporturi/2015/1169",
+   "short": "Ordin transporturi nr. 1169/2015",
+   "title": "Ordinul nr. 1.169/2015 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 536/2012 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172822",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172822",
+     "sha256": "c660042751a99d42a3ac813971ea96de2c1e726e9af31dd13503423c8df5b866"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1170-2015",
+   "path": "ordin/transporturi/2015/1170",
+   "short": "Ordin transporturi nr. 1170/2015",
+   "title": "Ordinul nr. 1.170/2015 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172824",
+   "versions": [
+    {
+     "from": "2015-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172824",
+     "sha256": "074686fa20ce8796316124216f304eeb9e8f7f5ddfb7b7fd57f73d93e32ccd83"
     }
    ]
   },
@@ -9873,6 +10563,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1235-2015",
+   "path": "ordin/transporturi/2015/1235",
+   "short": "Ordin transporturi nr. 1235/2015",
+   "title": "Ordinul nr. 1.235/2015 pentru completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173271",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173271",
+     "sha256": "a694ecc6ec333c99ccafecc4a88d777699f66606c47ac282055683f3f32ffe8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1236-2015",
    "path": "ordin/transporturi/2015/1236",
    "short": "Ordin transporturi nr. 1236/2015",
@@ -9884,6 +10589,96 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173633",
      "sha256": "73b3cf1b482913835c893aad2ace3caf2ce7e7cca8d8f446b452edf93d9cb190"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1237-2015",
+   "path": "ordin/transporturi/2015/1237",
+   "short": "Ordin transporturi nr. 1237/2015",
+   "title": "Ordinul nr. 1.237/2015 privind abrogarea Ordinului ministrului transporturilor și infrastructurii nr. 1.308/2012 pentru interzicerea utilizării armelor cu muniție cu proiectil împotriva păsărilor și animalelor în perimetrul aeroporturilor civile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173274",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173274",
+     "sha256": "e712b9123f74ca45ce75410f9a51b975eeb6973e0ea2fd912b83b24ccd18f403"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-130-2015",
+   "path": "ordin/transporturi/2015/130",
+   "short": "Ordin transporturi nr. 130/2015",
+   "title": "Ordinul nr. 130/2015 pentru abrogarea Ordinului ministrului transporturilor nr. 222/2014 privind asigurarea transparenței documentațiilor de atribuire aferente procedurilor de achiziții publice demarate de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166145",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166145",
+     "sha256": "5dcb802eda03e7a6749ce9baa866ca687f44361c692d9e6353572ac4876b485a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-148-2015",
+   "path": "ordin/transporturi/2015/148",
+   "short": "Ordin transporturi nr. 148/2015",
+   "title": "Ordinul nr. 148/2015 privind modificarea și completarea Reglementării aeronautice civile române RACR-AD-PETH \"Proiectarea și exploatarea tehnică a heliporturilor\", ediția 3/2014, aprobată prin Ordinul ministrului transporturilor nr. 1.312/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166262",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166262",
+     "sha256": "ec12a45331ffdb5cd9b30c05c61a5521c6b9ff4d299a3ad0a8d0da3f3d47068e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-150-2015",
+   "path": "ordin/transporturi/2015/150",
+   "short": "Ordin transporturi nr. 150/2015",
+   "title": "Ordinul nr. 150/2015 privind abrogarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 977/2004 pentru aprobarea Reglementării aeronautice civile române RACR - 11 \"Elaborarea și emiterea reglementărilor aeronautice civile române și a procedurilor de aplicare a acestora\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166492",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166492",
+     "sha256": "506c341b001dde5fc1c96949d79c68c84cd0288043fe4683b1e9a4b2f2e92d0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1688-2015",
+   "path": "ordin/transporturi/2015/1688",
+   "short": "Ordin transporturi nr. 1688/2015",
+   "title": "Ordinul nr. 1.688/2015 pentru modificarea Regulamentului de semnalizare nr. 004, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.482/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174263",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174263",
+     "sha256": "2b06ace51bd2614e81ef4abbbb8f092125e3b774c15849b3f791a0c9dbc0eacd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-179-2015",
+   "path": "ordin/transporturi/2015/179",
+   "short": "Ordin transporturi nr. 179/2015",
+   "title": "Ordinul nr. 179/2015 privind abrogarea Ordinului ministrului transporturilor nr. 742/1998 pentru aprobarea Reglementărilor Aeronautice Civile Române R.A.C.R. - 1/Definiții și abrevieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166493",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166493",
+     "sha256": "060c3dd9166429fd667c970ffcf3dada88db1d4a5a19fdb7cae2a891d1df9f1d"
     }
    ]
   },
@@ -9903,6 +10698,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2-2015",
+   "path": "ordin/transporturi/2015/2",
+   "short": "Ordin transporturi nr. 2/2015",
+   "title": "Ordinul nr. 2/2015 pentru modificarea pct. III din anexa nr. 1 la Ordinul ministrului transporturilor și infrastructurii nr. 709/2010 privind aprobarea Listei cuprinzând porturile și locurile de operare deschise accesului public și limitele acestora, a căror infrastructură de transport naval aparține domeniului public al statului, precum și a Listei cuprinzând limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164827",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164827",
+     "sha256": "92a597ed82843601a853ba05572f0e44809a9730ad528542ff4187ace1b68fe6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-200-2015",
    "path": "ordin/transporturi/2015/200",
    "short": "Ordin transporturi nr. 200/2015",
@@ -9914,6 +10724,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166992",
      "sha256": "20dc305e29afe05c0fe20fec089dfb6063045d0d13b59b72bfb173d47d7b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-44-2015",
+   "path": "ordin/transporturi/2015/44",
+   "short": "Ordin transporturi nr. 44/2015",
+   "title": "Ordinul nr. 44/2015 privind abrogarea Ordinului ministrului transporturilor nr. 437/1999 pentru aprobarea aplicării reglementărilor europene JAR-OPS 1 - Transportul aerian comercial (avioane) și JAR-OPS 3 - Transportul aerian comercial (elicoptere) și a Ordinului ministrului transporturilor nr. 1.268/2008 pentru aprobarea Reglementării aeronautice civile române RACR-SAFA privind evaluarea siguranței zborului la aeronavele din terțe țări, ediția 02/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164786",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164786",
+     "sha256": "29e59e022b0a4f19b32ee312ee31dd2e3795a4119f68a22c5c8eee7b48b20ba4"
     }
    ]
   },
@@ -9933,6 +10758,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-497-2015",
+   "path": "ordin/transporturi/2015/497",
+   "short": "Ordin transporturi nr. 497/2015",
+   "title": "Ordinul nr. 497/2015 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 1.031/2014 privind emiterea certificatelor tehnice pentru vehiculele rutiere care efectuează transport rutier internațional de mărfuri în vederea acordării și utilizării autorizațiilor CEMT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167007",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167007",
+     "sha256": "7afafd709860973d3da72e5591822c728a074d7fd730bf7daf1f86449a8a62d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-498-2015",
+   "path": "ordin/transporturi/2015/498",
+   "short": "Ordin transporturi nr. 498/2015",
+   "title": "Ordinul nr. 498/2015 pentru modificarea și completarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167034",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167034",
+     "sha256": "eaeb8a9dd701094af3fd11a2a642e882551740e3f2ae62d5a3dc3643c263e6ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-505-2015",
    "path": "ordin/transporturi/2015/505",
    "short": "Ordin transporturi nr. 505/2015",
@@ -9944,6 +10799,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166719",
      "sha256": "e829e352e1d85f46f2e1a15a826cd0c2a4b5152dbf4eff1be8fac7f2b91daae5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-521-2015",
+   "path": "ordin/transporturi/2015/521",
+   "short": "Ordin transporturi nr. 521/2015",
+   "title": "Ordinul nr. 521/2015 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167043",
+   "versions": [
+    {
+     "from": "2015-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167043",
+     "sha256": "2a2cdf0f69c94ca85ace499ea9024cda6ed8490477bd8ac0350266b638749cea"
     }
    ]
   },
@@ -9993,6 +10863,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-616-2015",
+   "path": "ordin/transporturi/2015/616",
+   "short": "Ordin transporturi nr. 616/2015",
+   "title": "Ordinul nr. 616/2015 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 2.180/2012 privind aprobarea tarifelor pentru prestațiile de activități specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167557",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167557",
+     "sha256": "30c8cc757b9141792c46cafa5b9ace441534ac826a6981d446edc921f1634ec2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-621-2015",
+   "path": "ordin/transporturi/2015/621",
+   "short": "Ordin transporturi nr. 621/2015",
+   "title": "Ordinul nr. 621/2015 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.681/2005 pentru aprobarea Listei standardelor românești care adoptă standardele europene armonizate, ale căror prevederi se referă la ambarcațiunile de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167721",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167721",
+     "sha256": "3e82f613f01be24bc7b934e89282e8e613c37d1c9b701744d1729cf8a41169ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-624-2015",
+   "path": "ordin/transporturi/2015/624",
+   "short": "Ordin transporturi nr. 624/2015",
+   "title": "Ordinul nr. 624/2015 pentru modificarea \"Regulamentului de navigație pe Dunăre în sectorul românesc\" - ediția 2013, aprobat prin Ordinul ministrului transporturilor nr. 859/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167940",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167940",
+     "sha256": "91f688e8418d62bc63e9e90b00d180da3dd3854cfecebff72f3f7bf9185bcad9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-635-2015",
    "path": "ordin/transporturi/2015/635",
    "short": "Ordin transporturi nr. 635/2015",
@@ -10008,6 +10923,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-639-2015",
+   "path": "ordin/transporturi/2015/639",
+   "short": "Ordin transporturi nr. 639/2015",
+   "title": "Ordinul nr. 639/2015 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 920/2003 pentru aprobarea Regulamentului de navigație pe lacul Snagov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168077",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168077",
+     "sha256": "daf30f0b01ea067f7b7d1147794ca46dd3589303622f7ff4aa2d71653c95612e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-64-2015",
+   "path": "ordin/transporturi/2015/64",
+   "short": "Ordin transporturi nr. 64/2015",
+   "title": "Ordinul nr. 64/2015 pentru modificarea Ordinului ministrului transporturilor nr. 75/2014 privind reglementarea activității de pregătire a persoanelor în vederea obținerii permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165456",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165456",
+     "sha256": "d58ac459a8c9fa4e44e669d66e5e12e4f99c446a090d53a94de3eba36d210920"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-640-2015",
    "path": "ordin/transporturi/2015/640",
    "short": "Ordin transporturi nr. 640/2015",
@@ -10019,6 +10964,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168330",
      "sha256": "f95cb477e9e1989730922b9952b981c8aad3396ac0b99328eca242517a2195d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-646-2015",
+   "path": "ordin/transporturi/2015/646",
+   "short": "Ordin transporturi nr. 646/2015",
+   "title": "Ordinul nr. 646/2015 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 819/2013 privind aplicarea Instrucțiunilor de inspecție din 2011 în conformitate cu Sistemul armonizat de inspectare și certificare (HSSC), adoptate de Adunarea Organizației Maritime Internaționale prin Rezoluția A.1053(27) din 30 noiembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168624",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168624",
+     "sha256": "e8267095720535e08ea1c74eee6ba1e12295f5298452b8fb6986401acfaaeb5b"
     }
    ]
   },
@@ -10053,6 +11013,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-673-2015",
+   "path": "ordin/transporturi/2015/673",
+   "short": "Ordin transporturi nr. 673/2015",
+   "title": "Ordinul nr. 673/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului transporturilor și infrastructurii nr. 480/2011 pentru aprobarea programelor-cadru de formare, instruire și perfecționare profesională a auditorilor de siguranță rutieră, a tarifelor pentru efectuarea evaluării de impact, a auditului de siguranță rutieră și a inspecției de siguranță, a onorariilor cuvenite auditorilor de siguranță rutieră, precum și a contractelor-cadru care se încheie de către Autoritatea Rutieră Română - A.R.R. cu investitorii, cu administratorii și cu auditorii de siguranță rutieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168763",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168763",
+     "sha256": "fb4ed297875f278aeb0edca478b5e787efdd4b422de19b70438a2e0c5559c33b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-679-2015",
+   "path": "ordin/transporturi/2015/679",
+   "short": "Ordin transporturi nr. 679/2015",
+   "title": "Ordinul nr. 679/2015 pentru modificarea Normelor metodologice privind activitatea de control al respectării perioadelor de conducere, pauzelor și perioadelor de odihnă ale conducătorilor auto și al utilizării aparatelor de înregistrare a activității acestora, aprobate prin Ordinul ministrului transporturilor nr. 1.058/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168706",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168706",
+     "sha256": "a2a878e176bf5b194df27e9b5414ce3b7b78224d0b53b3f82aa0a4c89f349995"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-681-2015",
    "path": "ordin/transporturi/2015/681",
    "short": "Ordin transporturi nr. 681/2015",
@@ -10064,6 +11054,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168966",
      "sha256": "f11ecfb2efd95b1025209d8873d744931a5d613f5fa8b6592820a5cbb1650137"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-682-2015",
+   "path": "ordin/transporturi/2015/682",
+   "short": "Ordin transporturi nr. 682/2015",
+   "title": "Ordinul nr. 682/2015 pentru modificarea și completarea Reglementărilor privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168814",
+   "versions": [
+    {
+     "from": "2015-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168814",
+     "sha256": "2f6758946193fe8bf75ffd095db1c8249c4e8356abde62b0d92ed97ff58a6d85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-706-2015",
+   "path": "ordin/transporturi/2015/706",
+   "short": "Ordin transporturi nr. 706/2015",
+   "title": "Ordinul nr. 706/2015 pentru modificarea Ordinului ministrului transporturilor și infrastructurii nr. 249/2011 privind inspecția, supravegherea tehnică și certificarea navelor maritime care arborează pavilionul român și efectuează voiajuri internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168707",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168707",
+     "sha256": "fe59d1bb5a41bab6c10fd6aa69c8b9275928a4eba65364ffa5474289fdb32bf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-707-2015",
+   "path": "ordin/transporturi/2015/707",
+   "short": "Ordin transporturi nr. 707/2015",
+   "title": "Ordinul nr. 707/2015 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.156/2005 privind tarifele pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168815",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168815",
+     "sha256": "41e544775adb85f36daa58b85045e67eccd5dfcd9b682a07b36b119676bcdc28"
     }
    ]
   },
@@ -10094,6 +11129,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168655",
      "sha256": "ef2288ee9747de249c8670e14744db814b315c883dfa53eefedb5129f8cfcaac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-723-2015",
+   "path": "ordin/transporturi/2015/723",
+   "short": "Ordin transporturi nr. 723/2015",
+   "title": "Ordinul nr. 723/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului transporturilor și infrastructurii nr. 153/2011 privind modificarea și completarea Regulamentului pentru circulația trenurilor și manevra vehiculelor feroviare - nr. 005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.816/2005, și pentru definirea trenurilor de călători în funcție de serviciile oferite de operatorii de transport feroviar de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168955",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168955",
+     "sha256": "c1153e503f5e2ac6357e886e2087951b715d801d460d07d255edb185c6b1263a"
     }
    ]
   },
@@ -10229,6 +11279,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169714",
      "sha256": "fa6ac3d270678750ffa257481e74a03ad7abd242cd7649c45072bf1e8184b4fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-920-2015",
+   "path": "ordin/transporturi/2015/920",
+   "short": "Ordin transporturi nr. 920/2015",
+   "title": "Ordinul nr. 920/2015 privind modificarea și completarea Ordinului ministrului transporturilor nr. 1.079/2014 pentru stabilirea procedurilor privind evidența și înmatricularea ambarcațiunilor de agrement, condițiile tehnice și încadrarea cu personal navigant a acestora și avizarea operatorilor economici pentru desfășurarea activităților de agrement nautic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170765",
+   "versions": [
+    {
+     "from": "2015-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170765",
+     "sha256": "8b573d978901ab78cbe4b0e560860033d2ca3a4360683137953abc66e750afb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-924-2015",
+   "path": "ordin/transporturi/2015/924",
+   "short": "Ordin transporturi nr. 924/2015",
+   "title": "Ordinul nr. 924/2015 privind abrogarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170591",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170591",
+     "sha256": "a3684a407238580e0730f011ce17655a2d3a17e62fc845d0c3ef2cc15f8fd5be"
     }
    ]
   }

@@ -40,7 +40,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/148484",
    "versions": [
     {
-     "from": "2013-05-29",
+     "from": "2013-10-28",
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148484",
      "sha256": "c3223a2aab2ab0f795714e33280878048f6167d838a5945dafe7d84bde410f4b"
@@ -5140,7 +5140,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/153656",
    "versions": [
     {
-     "from": "2013-12-16",
+     "from": "2014-01-01",
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153656",
      "sha256": "fa71a9d4748d265f281efd0f4e736767da79bac08d09641f00210ab214f97258"
@@ -5395,7 +5395,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/146639",
    "versions": [
     {
-     "from": "2013-04-03",
+     "from": "2013-05-01",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146639",
      "sha256": "bdfe372668547ddbc768f79836041482d7ed3a8e353cfebc4812f028aaaa4c69"
@@ -7098,6 +7098,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1225-2013",
+   "path": "ordin/mediu/2013/1225",
+   "short": "Ordin mediu nr. 1225/2013",
+   "title": "Ordinul nr. 1.225/2013 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2013-14 mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147827",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147827",
+     "sha256": "44b05327cdf17f03bd1330a2774b49bdf86c7d2f34d9666114a44988685906d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1231-2013",
+   "path": "ordin/mediu/2013/1231",
+   "short": "Ordin mediu nr. 1231/2013",
+   "title": "Ordinul nr. 1.231/2013 pentru aprobarea derogării în scop științific în cazul unor specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148546",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148546",
+     "sha256": "5350608001c9551866d84d5aee9129cbdc67c7f64059633f08f1be2146209b02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1239-2013",
+   "path": "ordin/mediu/2013/1239",
+   "short": "Ordin mediu nr. 1239/2013",
+   "title": "Ordinul nr. 1.239/2013 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147871",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147871",
+     "sha256": "f822a006985ac01c9434bfa99dd71b36fd306c28e33e42de402b7972800202a7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1311-2013",
    "path": "ordin/mediu/2013/1311",
    "short": "Ordin mediu nr. 1311/2013",
@@ -7109,6 +7154,276 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150211",
      "sha256": "f80c31dab16f8196b4c308db7715e4aed938f2a00691f2723271e82966e72602"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1318-2013",
+   "path": "ordin/mediu/2013/1318",
+   "short": "Ordin mediu nr. 1318/2013",
+   "title": "Ordinul nr. 1.318/2013 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148554",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148554",
+     "sha256": "139bb50a8c898f88e8ad844b5ece6b826f45908f41706061c7c5f6ec6749d42e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1356-2013",
+   "path": "ordin/mediu/2013/1356",
+   "short": "Ordin mediu nr. 1356/2013",
+   "title": "Ordinul nr. 1.356/2013 pentru aprobarea modelelor și conținutului formularelor utilizate în activitatea de inspecție fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148875",
+   "versions": [
+    {
+     "from": "2013-06-12",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148875",
+     "sha256": "7efceb878e4e5e0e2d8871bcf8d05732b2f01aaa2af1da9669d1b23367b697ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1470-2013",
+   "path": "ordin/mediu/2013/1470",
+   "short": "Ordin mediu nr. 1470/2013",
+   "title": "Ordinul nr. 1.470/2013 privind aprobarea Metodologiei de atribuire a administrării și a custodiei ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149974",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149974",
+     "sha256": "dd615bdfcb4010e06d2c77baca136e25d6b4c53a202a7063c0ea4a38d02a102f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1471-2013",
+   "path": "ordin/mediu/2013/1471",
+   "short": "Ordin mediu nr. 1471/2013",
+   "title": "Ordinul nr. 1.471/2013 privind condițiile de acordare a autorizației speciale de pescuit în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149042",
+   "versions": [
+    {
+     "from": "2013-06-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149042",
+     "sha256": "f7c85eb019df4df81ebe8c74eeba21e7a04e72a3c0727b7acc10508fe97b3c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1601-2013",
+   "path": "ordin/mediu/2013/1601",
+   "short": "Ordin mediu nr. 1601/2013",
+   "title": "Ordinul nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150166",
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150166",
+     "sha256": "493db311861bf61ed0e2e0e7555dc7a7e5896a832b8369a78013db89b56cd487"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1613-2013",
+   "path": "ordin/mediu/2013/1613",
+   "short": "Ordin mediu nr. 1613/2013",
+   "title": "Ordinul nr. 1.613/2013 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149825",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149825",
+     "sha256": "1743ad94d9cea707f41a58daf3824a52b5036b5d3570ab9da7dc00c3ac0db4aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1644-2013",
+   "path": "ordin/mediu/2013/1644",
+   "short": "Ordin mediu nr. 1644/2013",
+   "title": "Ordinul nr. 1.644/2013 pentru aprobarea Regulamentului privind controlul producătorilor, furnizorilor și beneficiarilor de materiale forestiere de reproducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149676",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149676",
+     "sha256": "36f57faecb06ba87bce0ae2363c3038e139189bb5f67676ca1a0d4da6b9cf181"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1645-2013",
+   "path": "ordin/mediu/2013/1645",
+   "short": "Ordin mediu nr. 1645/2013",
+   "title": "Ordinul nr. 1.645/2013 pentru aprobarea Catalogului național al materialelor de bază și a modelului filei Catalogului național al materialelor de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150903",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150903",
+     "sha256": "487df46fc14674ffed6a30c05b06820e3e7b156ae9d05bfbba0bba6be7ef9443"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1721-2013",
+   "path": "ordin/mediu/2013/1721",
+   "short": "Ordin mediu nr. 1721/2013",
+   "title": "Ordinul nr. 1.721/2013 privind aprobarea Normelor metodologice pentru primirea, verificarea și acceptarea licențelor FLEGT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150160",
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150160",
+     "sha256": "a91ae23520f3c237c2d74d602f7699e05d6201a7b0c86abcb360d8bb99b2f34b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2112-2013",
+   "path": "ordin/mediu/2013/2112",
+   "short": "Ordin mediu nr. 2112/2013",
+   "title": "Ordinul nr. 2.112/2013 pentru aprobarea Normelor de aplicare a Ordonanței Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial mediu 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151511",
+   "versions": [
+    {
+     "from": "2013-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151511",
+     "sha256": "8e6945889c4452544c6644cb63f6763f9b912c2f4e75fc0e25b6f596a618c7f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2187-2013",
+   "path": "ordin/mediu/2013/2187",
+   "short": "Ordin mediu nr. 2187/2013",
+   "title": "Ordinul nr. 2.187/2013 pentru aprobarea derogărilor în cazul speciilor urs, lup și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151556",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151556",
+     "sha256": "418d317df1bd1fd12ddf2f6f845e91e1b65d3c3eedb21e890c6db9c60b828c42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-229-2013",
+   "path": "ordin/mediu/2013/229",
+   "short": "Ordin mediu nr. 229/2013",
+   "title": "Ordinul nr. 229/2013 privind nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155605",
+   "versions": [
+    {
+     "from": "2014-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155605",
+     "sha256": "21b885a883594b26d81500c6f46f111b5c8769cf01924bbdbad5c1717a34b166"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2366-2013",
+   "path": "ordin/mediu/2013/2366",
+   "short": "Ordin mediu nr. 2366/2013",
+   "title": "Ordinul nr. 2.366/2013 pentru aprobarea Ghidului de finanțare a Programului de promovare a vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151806",
+   "versions": [
+    {
+     "from": "2013-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151806",
+     "sha256": "358e1433ec1504b050497400f2dc04100c78fb7c9180cf1ce24ce2fd90d5a4d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2421-2013",
+   "path": "ordin/mediu/2013/2421",
+   "short": "Ordin mediu nr. 2421/2013",
+   "title": "Ordinul nr. 2.421/2013 privind aprobarea componenței, organizării și funcționării Comitetului consultativ pentru sectorul pescăresc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152867",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152867",
+     "sha256": "8418671977bebb6c0e748035cc95eccc2f14686098a4bb362c274b8e86fb10e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-249-2013",
+   "path": "ordin/mediu/2013/249",
+   "short": "Ordin mediu nr. 249/2013",
+   "title": "Ordinul nr. 249/2013 privind aprobarea Planului de management al sitului Natura 2000 Pădurea Plopeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145986",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145986",
+     "sha256": "171eeed50b46dd189cbf332497c97bdc77712aeb278096826cca6dda0f48ddd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2532-2013",
+   "path": "ordin/mediu/2013/2532",
+   "short": "Ordin mediu nr. 2532/2013",
+   "title": "Ordinul nr. 2.532/2013 privind aprobarea Planului de management al ariei naturale protejate de interes național B1 \"Rezervația de orbeți de la Apahida\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152648",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152648",
+     "sha256": "80ee87a5a5cf5e7ce48442db7aad43687cbd7f16a6f4b03d23ae92708366d9fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2533-2013",
+   "path": "ordin/mediu/2013/2533",
+   "short": "Ordin mediu nr. 2533/2013",
+   "title": "Ordinul nr. 2.533/2013 pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152563",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152563",
+     "sha256": "0a707aaa55e8724ba69dcaf19daf66c3bc3638a9751c4f42f72777cd91a60763"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2947-2013",
+   "path": "ordin/mediu/2013/2947",
+   "short": "Ordin mediu nr. 2947/2013",
+   "title": "Ordinul nr. 2.947/2013 pentru aprobarea Regulamentului de administrare a Fondului național de date meteorologice al Administrației Naționale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154315",
+   "versions": [
+    {
+     "from": "2014-01-07",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154315",
+     "sha256": "3ba2d6e273721c204ec9bebd49cb3c5f7f04b693fa447849fe9204f6ab1109f5"
     }
    ]
   },
@@ -7128,6 +7443,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-400-2013",
+   "path": "ordin/mediu/2013/400",
+   "short": "Ordin mediu nr. 400/2013",
+   "title": "Ordinul nr. 400/2013 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146160",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146160",
+     "sha256": "24a86596a9669da0d5a0b068340ee36c6dc8892240d638851985f5bde1ab78ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-44-2013",
+   "path": "ordin/mediu/2013/44",
+   "short": "Ordin mediu nr. 44/2013",
+   "title": "Ordinul nr. 44/2013 pentru aprobarea caracteristicilor tehnice ale curselor și capcanelor care se folosesc în scopul capturării exemplarelor din speciile de faună de interes cinegetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144584",
+   "versions": [
+    {
+     "from": "2013-01-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144584",
+     "sha256": "10e52e6e0b8393c21f178af7947de6441d2e314cc1035ac03d49d902f3be1673"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-454-2013",
+   "path": "ordin/mediu/2013/454",
+   "short": "Ordin mediu nr. 454/2013",
+   "title": "Ordinul nr. 454/2013 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea licitației publice pentru atribuirea contractelor de închiriere a plajei Mării Negre, a Contractului-cadru de închiriere a plajei Mării Negre și a Listei sectoarelor de plajă libere propuse spre închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146346",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146346",
+     "sha256": "f97dfcbbbf82152f8a8035543b1ef62e3ab2f9254b29e281ca6b4fcb008acf2d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-490-2013",
    "path": "ordin/mediu/2013/490",
    "short": "Ordin mediu nr. 490/2013",
@@ -7139,6 +7499,51 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146491",
      "sha256": "eafc8a241a7e45b38180d019ae00ea2cc9dae35273191759fa633479a915038f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-702-2013",
+   "path": "ordin/mediu/2013/702",
+   "short": "Ordin mediu nr. 702/2013",
+   "title": "Ordinul nr. 702/2013 privind nominalizarea punctelor de debarcare și centrelor de primă vânzare autorizate pentru pescuitul comercial în Delta Dunării pe anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147671",
+   "versions": [
+    {
+     "from": "2013-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147671",
+     "sha256": "cfa29df68f36fcb15dd5642be52caa39a2bfe38fd8de7cb0b3c374620929cce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-86-2013",
+   "path": "ordin/mediu/2013/86",
+   "short": "Ordin mediu nr. 86/2013",
+   "title": "Ordinul nr. 86/2013 pentru aprobarea Listei prețurilor de referință pentru anul 2013, folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 4 alin. (7) din Hotărârea Guvernului nr. 996/2008 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145424",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145424",
+     "sha256": "47eb9701acfbbb66b2527cbef7b2285cd36e64c4c58000cd51b19ec78ccd8580"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-89-2013",
+   "path": "ordin/mediu/2013/89",
+   "short": "Ordin mediu nr. 89/2013",
+   "title": "Ordinul nr. 89/2013 pentru aprobarea Metodologiei privind alocarea certificatelor de emisii de gaze cu efect de seră din Rezerva pentru instalațiile nou-intrate, pentru instalațiile nou-intrate, pentru instalațiile cu modificări semnificative de capacitate și pentru instalațiile care își încetează parțial sau total funcționarea (închideri) pentru perioada 2013-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145662",
+   "versions": [
+    {
+     "from": "2013-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145662",
+     "sha256": "62f62b4e66bae1a1bf03c18d511c629719ad24bd6afd4634faed27410faa36b7"
     }
    ]
   },
@@ -7915,7 +8320,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/151596",
    "versions": [
     {
-     "from": "2013-09-27",
+     "from": "2013-10-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151596",
      "sha256": "edb2ad5eac7bee2565c8e40f70bf92c4ac6b70c585ee197d0dd9db98a179918b"
@@ -8065,7 +8470,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/145457",
    "versions": [
     {
-     "from": "2013-02-11",
+     "from": "2013-02-26",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145457",
      "sha256": "4ea3688009a2a36dc753c5a181fe33d522ead9ce1af50ede325326cb115a4b8b"
@@ -8335,7 +8740,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/153800",
    "versions": [
     {
-     "from": "2013-12-19",
+     "from": "2014-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153800",
      "sha256": "5c7c3808256eda40d53e9e82dda48d732f64c0ebda02c19f5181475b3ee64428"
@@ -8650,7 +9055,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/146474",
    "versions": [
     {
-     "from": "2013-03-29",
+     "from": "2013-04-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146474",
      "sha256": "c1230cd814b47f45ad89e11cb886990312bc30d0e2515a89c416f3f581e405f3"
@@ -9115,7 +9520,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/149305",
    "versions": [
     {
-     "from": "2013-06-28",
+     "from": "2013-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149305",
      "sha256": "f63e74672d1df59de432860a5c20befe86bde29446a8ad1ac91f803410f751d6"
@@ -9363,6 +9768,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1015-2013",
+   "path": "ordin/transporturi/2013/1015",
+   "short": "Ordin transporturi nr. 1015/2013",
+   "title": "Ordinul nr. 1.015/2013 privind modificarea art. 5 alin. (1) din Ordinul ministrului transporturilor și infrastructurii nr. 1.571/2012 pentru aplicarea prevederilor Ordonanței Guvernului nr. 17/2011 privind controlul calității în domeniul securității aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150752",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150752",
+     "sha256": "3c7dcdb36c1ececdb8e445c5da93c2e84ece99203a9168c5e8ad75629ac92f85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1022-2013",
+   "path": "ordin/transporturi/2013/1022",
+   "short": "Ordin transporturi nr. 1022/2013",
+   "title": "Ordinul nr. 1.022/2013 pentru modificarea și completarea Reglementărilor privind autorizarea operatorilor economici care desfășoară activități de reparații, de întreținere, de reglare, de modificări constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor scoase din uz - RNTR 9, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.131/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151035",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151035",
+     "sha256": "821188ba9dd75b3cc01333bbdaf23ece40b97bb29bace547bb2740a60fe0ef0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1044-2013",
+   "path": "ordin/transporturi/2013/1044",
+   "short": "Ordin transporturi nr. 1044/2013",
+   "title": "Ordinul nr. 1.044/2013 pentru modificarea și completarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150998",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150998",
+     "sha256": "7fb3f75fe7ff03894dfa1e5bcafca9d12a717aed1c7e532b77649cf483303cae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1049-2013",
+   "path": "ordin/transporturi/2013/1049",
+   "short": "Ordin transporturi nr. 1049/2013",
+   "title": "Ordinul nr. 1.049/2013 pentru modificarea și completarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003, precum și pentru modificarea și completarea Reglementărilor privind omologarea individuală, eliberarea cărții de identitate și certificarea autenticității vehiculelor rutiere - RNTR 7, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151197",
+   "versions": [
+    {
+     "from": "2013-10-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151197",
+     "sha256": "c4636c8e62bbf2d0a53defbf5308d64d9844655d42513b4695a992f35a4ea557"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1050-2013",
    "path": "ordin/transporturi/2013/1050",
    "short": "Ordin transporturi nr. 1050/2013",
@@ -9374,6 +9839,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150844",
      "sha256": "679b7918f25c84b558cee176d993f3b387392e9bce1e497f038a4a0068308f92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1051-2013",
+   "path": "ordin/transporturi/2013/1051",
+   "short": "Ordin transporturi nr. 1051/2013",
+   "title": "Ordinul nr. 1.051/2013 pentru modificarea Regulamentului de remorcare și frânare nr. 006, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.815/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150939",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150939",
+     "sha256": "b0d7b67995fd100a0310b22e53efe4755e2f4b847d33690a976a3ecd2caece12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1055-2013",
+   "path": "ordin/transporturi/2013/1055",
+   "short": "Ordin transporturi nr. 1055/2013",
+   "title": "Ordinul nr. 1.055/2013 pentru completarea Regulamentului privind închirierea infrastructurii de transport naval care aparține domeniului public al statului și este concesionată administrațiilor portuare și/sau de căi navigabile interioare, aprobat prin Ordinul ministrului transporturilor și infrastructurii nr. 1.286/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151052",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151052",
+     "sha256": "a2beed94fb5ccfcca4df3f258379aba4a78fd3b18dfbdff3c437cfd2c276f4fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1068-2013",
+   "path": "ordin/transporturi/2013/1068",
+   "short": "Ordin transporturi nr. 1068/2013",
+   "title": "Ordinul nr. 1.068/2013 pentru modificarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 536/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151420",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151420",
+     "sha256": "32c68141c3a5f2036ce2ca585e37992688398c1833887dee7ebb2a0d5c2234e5"
     }
    ]
   },
@@ -9404,6 +9914,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151397",
      "sha256": "e84243ff6de22cbdb0f65a026a3ae27f28e5d9e917e173fc5d7f687f5c0c0294"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1152-2013",
+   "path": "ordin/transporturi/2013/1152",
+   "short": "Ordin transporturi nr. 1152/2013",
+   "title": "Ordinul nr. 1.152/2013 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151637",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151637",
+     "sha256": "de49089087ec844908a5bd19b36d6748e75558429b63418d8d6e3341a21721fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1216-2013",
+   "path": "ordin/transporturi/2013/1216",
+   "short": "Ordin transporturi nr. 1216/2013",
+   "title": "Ordinul nr. 1.216/2013 pentru modificarea secțiunii 2.2 \"Cerințe privind sistemul de management al calității\" a cap. II \"Cerințe pentru desfășurarea activităților de proiectare a procedurilor de zbor instrumental\" din Reglementarea aeronautică civilă română RACR-CPPZI \"Cerințe privind proiectarea procedurilor de zbor instrumental\", ediția 1/2011, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 69/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151720",
+   "versions": [
+    {
+     "from": "2013-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151720",
+     "sha256": "7e43a6d0f8b15279a7a43278ecfc557a5a80d3da0959e97e287f1456a302d554"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1227-2013",
+   "path": "ordin/transporturi/2013/1227",
+   "short": "Ordin transporturi nr. 1227/2013",
+   "title": "Ordinul nr. 1.227/2013 pentru modificarea și completarea Reglementării aeronautice civile române RACR-ASMET \"Asistența meteorologică a activităților aeronautice civile\", ediția 4/2008, aprobată prin Ordinul ministrului transporturilor nr. 1.553/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155201",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155201",
+     "sha256": "9bea2b9d721757b3e08b95a3d5f2372f476dcdf0f60caa81aaea7e77d8f52693"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1254-2013",
+   "path": "ordin/transporturi/2013/1254",
+   "short": "Ordin transporturi nr. 1254/2013",
+   "title": "Ordinul nr. 1.254/2013 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 1.447/2008 privind aprobarea cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152107",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152107",
+     "sha256": "ff37f86665ac929fbb30e60139b80dc8d04a0c1e394dade1bd95a41bdd93e141"
     }
    ]
   },
@@ -9528,6 +10098,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1282-2013",
+   "path": "ordin/transporturi/2013/1282",
+   "short": "Ordin transporturi nr. 1282/2013",
+   "title": "Ordinul nr. 1.282/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151917",
+   "versions": [
+    {
+     "from": "2013-10-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151917",
+     "sha256": "1c608702a11758b3d4b22aa301a70bfb2bf60e7cfd8377e8f66347a62e2f38f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1291-2013",
    "path": "ordin/transporturi/2013/1291",
    "short": "Ordin transporturi nr. 1291/2013",
@@ -9543,6 +10128,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1322-2013",
+   "path": "ordin/transporturi/2013/1322",
+   "short": "Ordin transporturi nr. 1322/2013",
+   "title": "Ordinul nr. 1.322/2013 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 2.180/2012 privind aprobarea tarifelor pentru prestațiile de activități specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152293",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152293",
+     "sha256": "9e361bd00298914ae447cc16f69869b7d0dce42032dee7ea4d71c0ad95cb84be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1328-2013",
    "path": "ordin/transporturi/2013/1328",
    "short": "Ordin transporturi nr. 1328/2013",
@@ -9554,6 +10154,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155372",
      "sha256": "3c1708dddd6709d4ad6483a9dead08f1ddd8f92435fb64ca0724ff63f878e8f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1348-2013",
+   "path": "ordin/transporturi/2013/1348",
+   "short": "Ordin transporturi nr. 1348/2013",
+   "title": "Ordinul nr. 1.348/2013 pentru completarea anexei nr. 6 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 318/2006 privind aprobarea standardelor de instruire, confirmarea competenței și eliberarea documentelor de atestare a personalului navigant pentru navele de navigație interioară care arborează pavilion român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152364",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152364",
+     "sha256": "e91ee3b3781f2090d1e52a376d12590affbab682236720c87d3f30c59386026c"
     }
    ]
   },
@@ -9588,6 +10203,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1387-2013",
+   "path": "ordin/transporturi/2013/1387",
+   "short": "Ordin transporturi nr. 1387/2013",
+   "title": "Ordinul nr. 1.387/2013 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152612",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152612",
+     "sha256": "61bd25d16589882e9c2d31e35ddab20c660bc7a8ca8dac98bed0148b9b0da135"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1406-2013",
    "path": "ordin/transporturi/2013/1406",
    "short": "Ordin transporturi nr. 1406/2013",
@@ -9603,6 +10233,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1442-2013",
+   "path": "ordin/transporturi/2013/1442",
+   "short": "Ordin transporturi nr. 1442/2013",
+   "title": "Ordinul nr. 1.442/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153111",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153111",
+     "sha256": "572dd5411550ac637871f439e63886dd814cddea1cfdf0bd1c8e0258a19d840f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1518-2013",
+   "path": "ordin/transporturi/2013/1518",
+   "short": "Ordin transporturi nr. 1518/2013",
+   "title": "Ordinul nr. 1.518/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153950",
+   "versions": [
+    {
+     "from": "2013-12-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153950",
+     "sha256": "041312f5cec0d5e29ee76ef97d70a9f035c3ccac4483918738880d165f9ffa78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1529-2013",
+   "path": "ordin/transporturi/2013/1529",
+   "short": "Ordin transporturi nr. 1529/2013",
+   "title": "Ordinul nr. 1.529/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154404",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154404",
+     "sha256": "5dcbb248ee67ddf3b706b2be83c22c93b448b1479ada3713dd071cd6a11dd799"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1547-2013",
    "path": "ordin/transporturi/2013/1547",
    "short": "Ordin transporturi nr. 1547/2013",
@@ -9614,6 +10289,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154031",
      "sha256": "65ce59ce982a058f5f9f55c57e2e630c5e2f16d4ab565a91bceb6ddd83005257"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1567-2013",
+   "path": "ordin/transporturi/2013/1567",
+   "short": "Ordin transporturi nr. 1567/2013",
+   "title": "Ordinul nr. 1.567/2013 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154222",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154222",
+     "sha256": "ac7784340f10c700629fcdacc7547f11bb3669a9b41f7f7aa225e37e7070b2fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-207-2013",
+   "path": "ordin/transporturi/2013/207",
+   "short": "Ordin transporturi nr. 207/2013",
+   "title": "Ordinul nr. 207/2013 pentru modificarea lit. A \"Tarife pentru pregătirea de specialitate (formare)\" de la pct. I \"Tarife pentru cursuri de formare a personalului navigant\" din anexa la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146271",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146271",
+     "sha256": "221cdb0f67a4c8402cc64fa6e26ebf620530d725bb92c9920b336b8f35f9ccb1"
     }
    ]
   },
@@ -9663,6 +10368,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-266-2013",
+   "path": "ordin/transporturi/2013/266",
+   "short": "Ordin transporturi nr. 266/2013",
+   "title": "Ordinul nr. 266/2013 privind modificarea art. 1 din Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.258/2005 pentru stabilirea unităților responsabile cu cartarea zgomotului pentru căile ferate, drumurile, porturile din interiorul aglomerărilor și aeroporturile, aflate în administrarea lor, elaborarea hărților strategice de zgomot și a planurilor de acțiune aferente acestora, din domeniul propriu de activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146771",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146771",
+     "sha256": "967c78e99c099c7055969152ab2b9fc223ccf636274849912118f62dcf708a14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-286-2013",
+   "path": "ordin/transporturi/2013/286",
+   "short": "Ordin transporturi nr. 286/2013",
+   "title": "Ordinul nr. 286/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146784",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146784",
+     "sha256": "f46867c7e8c123cd5b2f996c8133d3aa47d447dc8f3ea2793ee5bb5970899045"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-681-2013",
+   "path": "ordin/transporturi/2013/681",
+   "short": "Ordin transporturi nr. 681/2013",
+   "title": "Ordinul nr. 681/2013 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.681/2005 pentru aprobarea Listei standardelor românești care adoptă standardele europene armonizate, ale căror prevederi se referă la ambarcațiunile de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147174",
+   "versions": [
+    {
+     "from": "2013-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147174",
+     "sha256": "1cf3f6062f2b5cdd0dc7aa10bb041536fb0f05e6313f903d13a5bffad1b29797"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-732-2013",
    "path": "ordin/transporturi/2013/732",
    "short": "Ordin transporturi nr. 732/2013",
@@ -9689,6 +10439,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147763",
      "sha256": "65db009cfb93f434344baf9b8805d4605cbf26eb6ea2ed9d6b5d66bcb51daa75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-738-2013",
+   "path": "ordin/transporturi/2013/738",
+   "short": "Ordin transporturi nr. 738/2013",
+   "title": "Ordinul nr. 738/2013 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 894/2010 privind aprobarea tarifului pentru supravegherea menținerii obiectivelor necesare siguranței pasagerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147847",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147847",
+     "sha256": "df3b984a579cff39b45b289669575d03ace04c305ff0c637ee30d33be7d4a3a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-740-2013",
+   "path": "ordin/transporturi/2013/740",
+   "short": "Ordin transporturi nr. 740/2013",
+   "title": "Ordinul nr. 740/2013 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147734",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147734",
+     "sha256": "623cd21fcc642197bf0d188f3c11a88aa98c26738b4302c781d77fdd133dc07e"
     }
    ]
   },
@@ -9723,6 +10503,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-767-2013",
+   "path": "ordin/transporturi/2013/767",
+   "short": "Ordin transporturi nr. 767/2013",
+   "title": "Ordinul nr. 767/2013 pentru modificarea Regulamentului privind compunerea, portul și modul de acordare a uniformei de serviciu cu însemnele specifice ale acesteia, pentru personalul Autorității Navale Române, aprobat prin Ordinul ministrului transporturilor și infrastructurii nr. 1.294/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148083",
+   "versions": [
+    {
+     "from": "2013-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148083",
+     "sha256": "09288babd079fd8da59ad0ee2761d5a5f4a8071df04979489e3a7e4a5ac9a3e6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-768-2013",
    "path": "ordin/transporturi/2013/768",
    "short": "Ordin transporturi nr. 768/2013",
@@ -9749,6 +10544,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148316",
      "sha256": "19be41386d8d45d0241335bda89d8b0c57f5fe3f7cdcce4adf328800ac601544"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-788-2013",
+   "path": "ordin/transporturi/2013/788",
+   "short": "Ordin transporturi nr. 788/2013",
+   "title": "Ordinul nr. 788/2013 privind modificarea art. III din Ordinul ministrului transporturilor și infrastructurii nr. 1.640/2012 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148185",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148185",
+     "sha256": "0e4906ff39ed96268b34acc1e269e8fe22fd42f34709adbde0464b763457c490"
     }
    ]
   },
@@ -9843,6 +10653,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-895-2013",
+   "path": "ordin/transporturi/2013/895",
+   "short": "Ordin transporturi nr. 895/2013",
+   "title": "Ordinul nr. 895/2013 pentru modificarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 982/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149680",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149680",
+     "sha256": "3c744c494afd3c986e919f9e8f03adef88d33720beb9f44776dbe31c75292b73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-914-2013",
+   "path": "ordin/transporturi/2013/914",
+   "short": "Ordin transporturi nr. 914/2013",
+   "title": "Ordinul nr. 914/2013 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149748",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149748",
+     "sha256": "f7fdfaea1b55d9b51bce66cf577f3d760ef38295e541f21da1777292ab454256"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-947-2013",
    "path": "ordin/transporturi/2013/947",
    "short": "Ordin transporturi nr. 947/2013",
@@ -9869,6 +10709,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150153",
      "sha256": "1ef6bffd851817e880c730cdf859b7f5df63e715170190cc1febfb597e321975"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-980-2013",
+   "path": "ordin/transporturi/2013/980",
+   "short": "Ordin transporturi nr. 980/2013",
+   "title": "Ordinul nr. 980/2013 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150226",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150226",
+     "sha256": "293ede2571f6123a7256fe99b0b2c3c79a5341eed7996419e94a4f5b6f6977e4"
     }
    ]
   }

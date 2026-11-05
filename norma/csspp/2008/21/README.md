@@ -1,8 +1,8 @@
 # Norma nr. 21/2008 privind supravegherea specială a administratorilor fondurilor de pensii facultative
 
-Norma csspp nr. 21/2008 · 1 versions, from 2008-10-09 (latest in force: 2008-10-09) · <https://legislatie.just.ro/Public/DetaliiDocument/97901>
+Norma csspp nr. 21/2008 · 1 versions, from 2008-11-08 (latest in force: 2008-11-08) · <https://legislatie.just.ro/Public/DetaliiDocument/97901>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 8 November 2008; this record still dates it from 9 October 2008, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,4 +33,4 @@ Act id: `norma-csspp-21-2008` (tags `norma-csspp-21-2008/<day>`; `python tools/o
 - Norma csspp nr. 21/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma csspp nr. 21/2008: the first version is the norm as published in Monitorul Oficial nr. 689 of 9 October 2008 (document 97901 of the official web service), in force on 8 November 2008, the day it states for itself.
 - Norma csspp nr. 21/2008: the signatures and the place and date line after its last article are not article text.
-- Norma csspp nr. 21/2008: first published here dated 9 October 2008; its in-force clause states 8 November 2008. The record keeps the first date until it is corrected by hand.
+- Norma csspp nr. 21/2008: re-dated by a correction: in force from 8 November 2008 (first published dated 9 October 2008).

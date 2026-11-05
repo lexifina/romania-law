@@ -1728,6 +1728,111 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1097-1997",
+   "path": "ordin/mediu/1997/1097",
+   "short": "Ordin mediu nr. 1097/1997",
+   "title": "Ordinul nr. 1.097/1997 privind aprobare normelor tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13793",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13793",
+     "sha256": "22e828c68bb5b0e68c42ed1a5ad34f1e9a32740b526d5b1663cc6a8ecb2b987e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1098-1997",
+   "path": "ordin/mediu/1997/1098",
+   "short": "Ordin mediu nr. 1098/1997",
+   "title": "Ordinul nr. 1.098/1997 referitor la aprobarea Normativului privind dotarea cu aparatură, materiale și sticlărie a laboratoarelor de profil din cadrul unităților de gospodărire a apelor, NTPA - 006/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13794",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13794",
+     "sha256": "a8076d4c8912d7fd5dd60545b406792accd0ee538338db7bfe6c58da0db03447"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-201-1997",
+   "path": "ordin/mediu/1997/201",
+   "short": "Ordin mediu nr. 201/1997",
+   "title": "Ordinul nr. 201/1997 pentru aprobarea procedurii de autorizare a activităților de recoltare, capturare și achiziție a plantelor și animalelor din flora și fauna sălbatică, de pe teritoriul tarii, în scopul comercializării pe piața internă sau la export",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12043",
+   "versions": [
+    {
+     "from": "1997-05-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12043",
+     "sha256": "7d0045948fa6e5d1a1cc3f21757ecb95709d6c28a5b7d275f97e02ddaa583389"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-318-1997",
+   "path": "ordin/mediu/1997/318",
+   "short": "Ordin mediu nr. 318/1997",
+   "title": "Ordinul nr. 318/1997 pentru aprobarea Normativului de acordare și de utilizare a echipamentului individual de protecție la radiații ionizante RP 06/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12435",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12435",
+     "sha256": "e2a18a5fdba8b59605b931ef745c729a32436b593778dcf5e988d3e0cada4d31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-396-1997",
+   "path": "ordin/mediu/1997/396",
+   "short": "Ordin mediu nr. 396/1997",
+   "title": "Ordinul nr. 396/1997 privind aprobarea Regulamentului-cadru pentru elaborarea regulamentelor de exploatare a barajelor, lacurilor de acumulare și prizelor pentru alimentări cu apă, cu sau fără baraje, și stabilirea competențelor de elaborare și aprobare a regulamentelor de exploatare bazinale și a programelor de exploatare lunară a lacurilor de acumulare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12618",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12618",
+     "sha256": "cf2ec7d2a6da1603c4fcc2537e96485a706537be1049ebbda4649853dda4acfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-399-1997",
+   "path": "ordin/mediu/1997/399",
+   "short": "Ordin mediu nr. 399/1997",
+   "title": "Ordinul nr. 399/1997 privind aprobarea Metodologiei de organizare, păstrare și gestionare a Cadastrului apelor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12625",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12625",
+     "sha256": "0aa41c0bd864822b86ad762a7d64a6042da0ed4bd9271e316b17179f89d7eae6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-418-1997",
+   "path": "ordin/mediu/1997/418",
+   "short": "Ordin mediu nr. 418/1997",
+   "title": "Ordinul nr. 418/1997 privind aprobarea Regulamentului de taxe și tarife pentru autorizarea și controlul activităților nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12664",
+   "versions": [
+    {
+     "from": "1997-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12664",
+     "sha256": "116d6f71d91f909338dc79faaece33a6f8b54662d4bd8fb1e172c64a0326addc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-129-1997",
    "path": "ordin/munca/1997/129",
    "short": "Ordin munca nr. 129/1997",
@@ -2328,6 +2433,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-22-1997",
+   "path": "ordin/transporturi/1997/22",
+   "short": "Ordin transporturi nr. 22/1997",
+   "title": "Ordinul nr. 22/1997 pentru modificarea Ordinului ministrului transporturilor nr. 353/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11082",
+   "versions": [
+    {
+     "from": "1997-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11082",
+     "sha256": "a6b5e02177a66bc8f40843aa4b110642749a08b48b1bf97baf1c6afe625c3edf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-229-1997",
+   "path": "ordin/transporturi/1997/229",
+   "short": "Ordin transporturi nr. 229/1997",
+   "title": "Ordinul nr. 229/1997 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 105/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12155",
+   "versions": [
+    {
+     "from": "1997-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12155",
+     "sha256": "b0553200e1a0e6fc8ed4e0c9e5a11256866407efba535209d9bb0f8d2b279458"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-313-1997",
    "path": "ordin/transporturi/1997/313",
    "short": "Ordin transporturi nr. 313/1997",
@@ -2339,6 +2474,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12420",
      "sha256": "3ce2a290c2639321bfc682cd5164238f07523517b5101597520e51edf3528489"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-325-1997",
+   "path": "ordin/transporturi/1997/325",
+   "short": "Ordin transporturi nr. 325/1997",
+   "title": "Ordinul nr. 325/1997 pentru încetarea aplicabilității Ordinului ministrului transporturilor nr. 384 din 25 octombrie 1996 privind modificarea tarifelor pentru inspecția tehnică în funcție de categoria vehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12455",
+   "versions": [
+    {
+     "from": "1997-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12455",
+     "sha256": "4f8601f540cd608250681e598bc701ff59a1c1c8bb9a6bb41042ae9f0b09a357"
     }
    ]
   },
@@ -2369,6 +2519,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13005",
      "sha256": "700768a3761c681ff26037e23b9807c9d2fe7215910bf68cff59d23cc3c1f167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-537-1997",
+   "path": "ordin/transporturi/1997/537",
+   "short": "Ordin transporturi nr. 537/1997",
+   "title": "Ordinul nr. 537/1997 pentru modificarea și completarea Reglementărilor privind condițiile tehnice pentru vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13009",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13009",
+     "sha256": "1075101575925f7aa8ebdfe619a15cebfb685e67f6d651244c92db9d9f15c4c6"
     }
    ]
   },
@@ -2414,6 +2579,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11485",
      "sha256": "a27b7bbf3bfe5cd1d731970cb41294777e30e12bd34ad37583116c0614a5533f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-78-1997",
+   "path": "ordin/transporturi/1997/78",
+   "short": "Ordin transporturi nr. 78/1997",
+   "title": "Ordinul nr. 78/1997 pentru modificarea Ordinului ministrului transporturilor nr. 461/1995 privind reglementarea activității de pilotaj pe Canalul Dunăre-Marea Neagra",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11491",
+   "versions": [
+    {
+     "from": "1997-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11491",
+     "sha256": "8e6f2141bb1013d6f25381ffd6460aa632af45f801ac5feb2522679b8a45cea4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-84-1997",
+   "path": "ordin/transporturi/1997/84",
+   "short": "Ordin transporturi nr. 84/1997",
+   "title": "Ordinul nr. 84/1997 privind modificarea Ordinului ministrului transporturilor nr. 215/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11525",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11525",
+     "sha256": "7e5e481909ca361e902079880226abfe5211e6bd5cebd47861b1d56e2046e45d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-55-1997",
+   "path": "ordin/turism/1997/55",
+   "short": "Ordin turism nr. 55/1997",
+   "title": "Ordinul nr. 55/1997 pentru modificarea Normelor metodologice privind clasificarea autocarelor utilizate pentru transporturi turistice în trafic intern și internațional și pentru transporturi publice de persoane în trafic internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11347",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11347",
+     "sha256": "ea0b913214885732193c842f2515a2e88ae0c42cd6502b680f51a1689b04311d"
     }
    ]
   }

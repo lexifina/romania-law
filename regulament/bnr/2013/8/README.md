@@ -1,8 +1,8 @@
 # Regulamentul nr. 8/2013 pentru abrogarea art. 4 din Regulamentul Băncii Naționale a României nr. 7/2012 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de eliberare și primire de numerar în relația cu instituțiile de credit și Trezoreria Statului
 
-Regulament bnr nr. 8/2013 · 1 versions, from 2014-01-08 (latest in force: 2014-01-08) · <https://legislatie.just.ro/Public/DetaliiDocument/154345>
+Regulament bnr nr. 8/2013 · 1 versions, from 2014-02-07 (latest in force: 2014-02-07) · <https://legislatie.just.ro/Public/DetaliiDocument/154345>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 7 February 2014; this record still dates it from 8 January 2014, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,4 +17,4 @@ Act id: `regulament-bnr-8-2013` (tags `regulament-bnr-8-2013/<day>`; `python too
 - Regulament bnr nr. 8/2013: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament bnr nr. 8/2013: the first version is the regulation as published in Monitorul Oficial nr. 11 of 8 January 2014 (document 154345 of the official web service), in force on 7 February 2014, the day it states for itself.
 - Regulament bnr nr. 8/2013: the signatures and the place and date line after its last article are not article text.
-- Regulament bnr nr. 8/2013: first published here dated 8 January 2014; its in-force clause states 7 February 2014. The record keeps the first date until it is corrected by hand.
+- Regulament bnr nr. 8/2013: re-dated by a correction: in force from 7 February 2014 (first published dated 8 January 2014).

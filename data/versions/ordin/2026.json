@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-33-2026",
+   "path": "ordin/agricultura/2026/33",
+   "short": "Ordin agricultura nr. 33/2026",
+   "title": "Ordinul nr. 33/2026 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale, al ministrului mediului, apelor și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 54/570/32/2023 pentru punerea în aplicare a normelor privind condiționalitatea în cadrul intervențiilor sub formă de plăți directe și al unor intervenții și măsuri pentru dezvoltare rurală, începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308096",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308096",
+     "sha256": "1063f6cf460ac5d495f41187dd68f0475d65aca810d089f6fccb93225143bc37"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-59-2026",
    "path": "ordin/agricultura/2026/59",
    "short": "Ordin agricultura nr. 59/2026",
@@ -790,7 +805,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/311359",
    "versions": [
     {
-     "from": "2026-06-15",
+     "from": "2026-06-17",
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311359",
      "sha256": "490cb7b4455c6c968e902ec7601612d8e681cc63533a621d4ae9518326153869"
@@ -1840,7 +1855,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/315037",
    "versions": [
     {
-     "from": "2026-10-06",
+     "from": "2026-11-05",
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315037",
      "sha256": "a06ac99808e60f1a02d78e49eb183db3402a7ac68c1769c294f90055bbda1c00"
@@ -4338,6 +4353,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1-2026",
+   "path": "ordin/mediu/2026/1",
+   "short": "Ordin mediu nr. 1/2026",
+   "title": "Ordinul nr. 1/2026 privind aprobarea derogării în vederea relocării unui exemplar din specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306480",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306480",
+     "sha256": "24c8bab89fada26a712416d6fb4785ca3ba8cef2bf4f151b1fc90f06147b0bfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1018-2026",
+   "path": "ordin/mediu/2026/1018",
+   "short": "Ordin mediu nr. 1018/2026",
+   "title": "Ordinul nr. 1.018/2026 privind aprobarea derogării în vederea relocării unor exemplare din specia castor (Castor fiber)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310890",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310890",
+     "sha256": "5ebd9ca2cbdf59d9df4f840f0b609b2c6e1ce2a02d71059cc94ab1ed4e38ae70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1019-2026",
+   "path": "ordin/mediu/2026/1019",
+   "short": "Ordin mediu nr. 1019/2026",
+   "title": "Ordinul nr. 1.019/2026 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea activităților de inspecție și control în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311061",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311061",
+     "sha256": "c13eb2f194adb07495721704a5f3a8d6009ae848f2a97bba985096ea91d5514f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1048-2026",
    "path": "ordin/mediu/2026/1048",
    "short": "Ordin mediu nr. 1048/2026",
@@ -4349,6 +4409,621 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311244",
      "sha256": "6c4dc38465fc6f5ba4132e77c78fea949062af5803e70aa2cd8f513a8e607920"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1053-2026",
+   "path": "ordin/mediu/2026/1053",
+   "short": "Ordin mediu nr. 1053/2026",
+   "title": "Ordinul nr. 1.053/2026 pentru modificarea art. 89 din Instrucțiunile pentru evaluarea efectivelor unor specii de faună cinegetică admise la vânătoare și pentru reglementarea modului de stabilire a cotelor de recoltă pentru acestea, aprobate prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.847/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310989",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310989",
+     "sha256": "1c91d71f9e57eb51f85a72d474707a572b6f80b03dbbfa8c144735b544bb58b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1066-2026",
+   "path": "ordin/mediu/2026/1066",
+   "short": "Ordin mediu nr. 1066/2026",
+   "title": "Ordinul nr. 1.066/2026 privind aprobarea Metodologiei de identificare a zonelor prioritare pentru biodiversitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311180",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311180",
+     "sha256": "4da20fd8f128ad4145b575cf24ed39932657f28643306f88052a7334c1705696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-11-2026",
+   "path": "ordin/mediu/2026/11",
+   "short": "Ordin mediu nr. 11/2026",
+   "title": "Ordinul nr. 11/2026 privind aprobarea Planului de management al Parcului Național Munții Măcinului, al ROSCI0123 Munții Măcinului și al ROSPA0073 Măcin-Niculițel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306481",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306481",
+     "sha256": "b373ec27527b77cd6ce457c43bdd6a274a50ea4d9a9abc5133df9fd679edc93e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1121-2026",
+   "path": "ordin/mediu/2026/1121",
+   "short": "Ordin mediu nr. 1121/2026",
+   "title": "Ordinul nr. 1.121/2026 pentru aprobarea Instrucțiunilor privind organizarea și programul activității rețelei hidrometrice pe râuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311512",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311512",
+     "sha256": "8c90715194bd5ac7760f609b48a9f75bd5e92f1b5752950beaaff59e69cd8a51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1159-2026",
+   "path": "ordin/mediu/2026/1159",
+   "short": "Ordin mediu nr. 1159/2026",
+   "title": "Ordinul nr. 1.159/2026 pentru stabilirea procedurii de transmitere și publicare a autorizațiilor de gospodărire a apelor emise de către Administrația Națională \"Apele Române\" și de structurile teritoriale aflate în subordinea sa pentru activități de exploatare a agregatelor minerale din albiile și terasele cursurilor de apă, precum și a obiectivelor de tip stații de sortare și spălare a agregatelor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311387",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311387",
+     "sha256": "58fbfdac5b0e5933a731f28407c227a5360bd603a3cdd331eac40c2941b7b7cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1221-2026",
+   "path": "ordin/mediu/2026/1221",
+   "short": "Ordin mediu nr. 1221/2026",
+   "title": "Ordinul nr. 1.221/2026 pentru aprobarea Ghidului de finanțare a Programului integrat de dezvoltare a infrastructurii sportive durabile pentru Festivalul Olimpic al Tineretului European 2027, în vederea creșterii eficienței energetice a domeniului schiabil din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311325",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311325",
+     "sha256": "3bd9cf0b76c84f37793e29203f179effbe180236011c0f6bf875afc2832e53b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1254-2026",
+   "path": "ordin/mediu/2026/1254",
+   "short": "Ordin mediu nr. 1254/2026",
+   "title": "Ordinul nr. 1.254/2026 privind stabilirea activităților și subactivităților rămase de realizat din calendarul de implementare a țintelor și jaloanelor din cadrul Planului național de redresare și reziliență, precum și aprobarea modelului raportului individual lunar de activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311860",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311860",
+     "sha256": "27692ef76d3f0efbc3841597c898f42cc1c8b3109d00ed43cd1bcfdd478bdc5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1274-2026",
+   "path": "ordin/mediu/2026/1274",
+   "short": "Ordin mediu nr. 1274/2026",
+   "title": "Ordinul nr. 1.274/2026 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311846",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311846",
+     "sha256": "50761f8fc5e180aa68b1bad795eab9079fdb0c862c0f3a734ab7310e8cf4e3a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1285-2026",
+   "path": "ordin/mediu/2026/1285",
+   "short": "Ordin mediu nr. 1285/2026",
+   "title": "Ordinul nr. 1.285/2026 pentru aprobarea Normelor tehnice privind protecția pădurilor împotriva bolilor și dăunătorilor și a Ghidului privind protecția pădurilor împotriva bolilor și dăunătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311938",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311938",
+     "sha256": "e61a3a97809f8a8521316e5f399471bffaa71e461b54b25b13e11f0c077c1d34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1376-2026",
+   "path": "ordin/mediu/2026/1376",
+   "short": "Ordin mediu nr. 1376/2026",
+   "title": "Ordinul nr. 1.376/2026 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312261",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312261",
+     "sha256": "f3a28cb87be1bd756b78ac0a64b9ba779bb92227de036476c0b08e0d2d2981a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1377-2026",
+   "path": "ordin/mediu/2026/1377",
+   "short": "Ordin mediu nr. 1377/2026",
+   "title": "Ordinul nr. 1.377/2026 privind aprobarea derogării în scop științific pentru 333 de specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312276",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312276",
+     "sha256": "a0ecf87cf755695752e9557f55b1c38a5bad4b24cafc035668f1230e5dfd7b54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1393-2026",
+   "path": "ordin/mediu/2026/1393",
+   "short": "Ordin mediu nr. 1393/2026",
+   "title": "Ordinul nr. 1.393/2026 privind aprobarea derogării în scop științific pentru un număr de exemplare din specii de Lepidoptere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312190",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312190",
+     "sha256": "829f8b4467dcfd9e36dc8fb260062d9bc8abbb3574f9edf151de4e7a3f7034a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1518-2026",
+   "path": "ordin/mediu/2026/1518",
+   "short": "Ordin mediu nr. 1518/2026",
+   "title": "Ordinul nr. 1.518/2026 privind aprobarea derogării în scopul cercetării științifice pentru specia de carnivore mari Ursus arctos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313108",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313108",
+     "sha256": "4bc0deef9547337a069c84e50c2b84bf2eb686d61ef467fc3fb17a52d4c13e67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-158-2026",
+   "path": "ordin/mediu/2026/158",
+   "short": "Ordin mediu nr. 158/2026",
+   "title": "Ordinul nr. 158/2026 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306581",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306581",
+     "sha256": "3eed59ba29c087c5872595eacf68c85c2f98b231ec6c9a2fb9301f03b922b17d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-162-2026",
+   "path": "ordin/mediu/2026/162",
+   "short": "Ordin mediu nr. 162/2026",
+   "title": "Ordinul nr. 162/2026 privind modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență, componenta 2. Păduri și protecția biodiversității, investiția 2. Dezvoltarea de capacități moderne de producere a materialului forestier de reproducere, subinvestiția I.2.B. Acordarea de sprijin pentru investiții în pepiniere și tehnologii moderne de producere a puieților forestieri finanțat prin Planul național de redresare și reziliență, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 3.134/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306416",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306416",
+     "sha256": "67e907b1404795218ffd8d4334e06486cc6470cee523abc5ed8020bada0b3ec7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-163-2026",
+   "path": "ordin/mediu/2026/163",
+   "short": "Ordin mediu nr. 163/2026",
+   "title": "Ordinul nr. 163/2026 pentru modificarea și completarea anexei nr. 1 la Ordinul ministrului mediului, apelor și pădurilor nr. 2.202/2024 privind aprobarea metodologiei de calcul al tarifului de gestionare și al tarifului de administrare pentru ambalajele din sistemul de garanție-returnare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306559",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306559",
+     "sha256": "4531095da7eac3055551a920fefe8bc7536feb986e04bb77dc763951156d3c2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1635-2026",
+   "path": "ordin/mediu/2026/1635",
+   "short": "Ordin mediu nr. 1635/2026",
+   "title": "Ordinul nr. 1.635/2026 pentru restrângerea perioadei legale de vânătoare pentru specia turturică (Streptopelia turtur)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313414",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313414",
+     "sha256": "7a1a7fc3d38dfb953b4aa8e0e1207ad22824a8cb57c3da2940fe7fa9413929f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1682-2026",
+   "path": "ordin/mediu/2026/1682",
+   "short": "Ordin mediu nr. 1682/2026",
+   "title": "Ordinul nr. 1.682/2026 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313573",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313573",
+     "sha256": "8a82077ac84d064b3daf7addb42b861aee0d854e16112996b455fdc2581f093b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1757-2026",
+   "path": "ordin/mediu/2026/1757",
+   "short": "Ordin mediu nr. 1757/2026",
+   "title": "Ordinul nr. 1.757/2026 privind aprobarea derogării în scop științific în vederea montării de colare pentru 5 exemplare din specia Ursus arctos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313956",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313956",
+     "sha256": "ee9525239bb0ab0005922b99361ad239ce1076d1ec8dce404177a4b22d4776d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1766-2026",
+   "path": "ordin/mediu/2026/1766",
+   "short": "Ordin mediu nr. 1766/2026",
+   "title": "Ordinul nr. 1.766/2026 privind aprobarea Metodologiei pentru înființarea, organizarea și funcționarea subunităților din cadrul unităților fără personalitate juridică din Regia Națională a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313957",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313957",
+     "sha256": "ed05289e4468f8a51bac03ca89d53032bdf94ce0d30977fb5f22dcdfe3ee63da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1786-2026",
+   "path": "ordin/mediu/2026/1786",
+   "short": "Ordin mediu nr. 1786/2026",
+   "title": "Ordinul nr. 1.786/2026 privind aprobarea Catalogului național al zonelor prioritare pentru biodiversitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313881",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313881",
+     "sha256": "1ea7e311f8c049284afc843f2407ed62909490eead6e66e9326dc3419fbefdb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1902-2026",
+   "path": "ordin/mediu/2026/1902",
+   "short": "Ordin mediu nr. 1902/2026",
+   "title": "Ordinul nr. 1.902/2026 pentru aprobarea derogării în scopul cercetării științifice pentru specia de pești Cottus poecilopus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314549",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314549",
+     "sha256": "a0c81548ef5ce6f3f4c8a92fd7f12747e41698fb65c51117b60d578cf494048c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1904-2026",
+   "path": "ordin/mediu/2026/1904",
+   "short": "Ordin mediu nr. 1904/2026",
+   "title": "Ordinul nr. 1.904/2026 pentru aprobarea Ghidului de finanțare a Programului privind instalarea sistemelor de stocare a energiei electrice produse din surse regenerabile, în vederea acumulării necesarului pentru consum propriu și livrării surplusului energetic în rețeaua națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314478",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314478",
+     "sha256": "2e02b804ef7d5dcb257d052fcb9e085a3ed89105abb7b977d559c420da495929"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1914-2026",
+   "path": "ordin/mediu/2026/1914",
+   "short": "Ordin mediu nr. 1914/2026",
+   "title": "Ordinul nr. 1.914/2026 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314680",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314680",
+     "sha256": "d751c5c9d3f691be8fc6a63a4ea615279cf1d23c6ffb8b42418c001a227f5df5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1942-2026",
+   "path": "ordin/mediu/2026/1942",
+   "short": "Ordin mediu nr. 1942/2026",
+   "title": "Ordinul nr. 1.942/2026 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314910",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314910",
+     "sha256": "5cf26b8492b63b7492e99e5bb531a2d6660fc491c11ee53044ba55cafdcbdbca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2078-2026",
+   "path": "ordin/mediu/2026/2078",
+   "short": "Ordin mediu nr. 2078/2026",
+   "title": "Ordinul nr. 2.078/2026 pentru modificarea și completarea Regulamentului privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315168",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315168",
+     "sha256": "7d3cb5319629f9e5007297bf5949a2b41a10e4922f78b974c71c0ec8c28aa974"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2137-2026",
+   "path": "ordin/mediu/2026/2137",
+   "short": "Ordin mediu nr. 2137/2026",
+   "title": "Ordinul nr. 2.137/2026 privind modificarea Procedurii de emitere a autorizației integrate de mediu, aprobată prin Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 818/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315366",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315366",
+     "sha256": "16682631bb7df693d1889442a6bd82ac6394074ed049dd0bfc46a1c5163ae0d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2167-2026",
+   "path": "ordin/mediu/2026/2167",
+   "short": "Ordin mediu nr. 2167/2026",
+   "title": "Ordinul nr. 2.167/2026 privind aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315717",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315717",
+     "sha256": "d0f9be883dd09800cd3fa20fa44613cfb3a92eb2d303c504e9845dd58dc6a002"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2175-2026",
+   "path": "ordin/mediu/2026/2175",
+   "short": "Ordin mediu nr. 2175/2026",
+   "title": "Ordinul nr. 2.175/2026 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315759",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315759",
+     "sha256": "9f4639528087a3249faa9feac1b18b9c260fb1205e57d9c057d216d3697d814a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-238-2026",
+   "path": "ordin/mediu/2026/238",
+   "short": "Ordin mediu nr. 238/2026",
+   "title": "Ordinul nr. 238/2026 privind aprobarea derogării în vederea relocării a două exemplare din specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307331",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307331",
+     "sha256": "d07aedbad0b60dd304f2d664b02ed1da5e83bb55c37cb31c488f862f2aaca3d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-244-2026",
+   "path": "ordin/mediu/2026/244",
+   "short": "Ordin mediu nr. 244/2026",
+   "title": "Ordinul nr. 244/2026 privind aprobarea Planului de management al Parcului Natural Porțile de Fier și al siturilor Natura 2000 ROSCI0206 Porțile de Fier, ROSPA0026 Cursul Dunării Baziaș-Porțile de Fier și ROSPA0080 Munții Almăjului-Locvei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307309",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307309",
+     "sha256": "c31fdd9295559555ff92effd16bff1f5f0aa941458e03a7ae408c090b8747074"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-311-2026",
+   "path": "ordin/mediu/2026/311",
+   "short": "Ordin mediu nr. 311/2026",
+   "title": "Ordinul nr. 311/2026 privind aprobarea derogării pentru unele specii din fauna sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307363",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307363",
+     "sha256": "edef87be54d6b229eccd835acddd0dd271f3dcf59baaf018f7faf06669f20628"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-353-2026",
+   "path": "ordin/mediu/2026/353",
+   "short": "Ordin mediu nr. 353/2026",
+   "title": "Ordinul nr. 353/2026 privind aprobarea derogării în scop științific pentru 100 de exemplare din specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308114",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308114",
+     "sha256": "6ffc8e1eae7ea59d784127197c795515d166b04ca8cb91b1b5eff74a8f36d84a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-386-2026",
+   "path": "ordin/mediu/2026/386",
+   "short": "Ordin mediu nr. 386/2026",
+   "title": "Ordinul nr. 386/2026 pentru modificarea anexei nr. 2 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308154",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308154",
+     "sha256": "3e4e41a0059b1a6fc160573f0b1e7f3d7d1c471618de1d3c51548fd0e9783c29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-396-2026",
+   "path": "ordin/mediu/2026/396",
+   "short": "Ordin mediu nr. 396/2026",
+   "title": "Ordinul nr. 396/2026 pentru aprobarea Regulamentului privind forma și modul de utilizare a dispozitivelor speciale de marcat, precum și modul de marcare a arborilor sau a unor loturi de arbori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308207",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308207",
+     "sha256": "381063069462f63b2d4caf3c87e92272a9e519af858701297ca494a08135c574"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-403-2026",
+   "path": "ordin/mediu/2026/403",
+   "short": "Ordin mediu nr. 403/2026",
+   "title": "Ordinul nr. 403/2026 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de amfibieni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308242",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308242",
+     "sha256": "50d436544de8629de8928a5ed32317a1f0fdc68df491c38ad71c5348f6ddd7a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-795-2026",
+   "path": "ordin/mediu/2026/795",
+   "short": "Ordin mediu nr. 795/2026",
+   "title": "Ordinul nr. 795/2026 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 539/2009 pentru aprobarea regimului permiselor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310351",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310351",
+     "sha256": "9ea1e40b6f318a79bf9feafe1dc83d7511947ee5069c1458fe58a47702a31cdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-800-2026",
+   "path": "ordin/mediu/2026/800",
+   "short": "Ordin mediu nr. 800/2026",
+   "title": "Ordinul nr. 800/2026 privind aprobarea cotelor de recoltă pentru specia căprior (Capreolus capreolus) pentru perioada de vânătoare mai 2026-30 aprilie 2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310219",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310219",
+     "sha256": "647079060edda04883e59fc574230ce80c43c1b091bcfa6b5ac120207957c493"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-869-2026",
+   "path": "ordin/mediu/2026/869",
+   "short": "Ordin mediu nr. 869/2026",
+   "title": "Ordinul nr. 869/2026 pentru aprobarea Procedurii privind înregistrarea și fixarea cu mijloace foto-audio-video, din dotarea Gărzii Naționale de Mediu, a activităților specifice, precum și stocarea și accesarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310571",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310571",
+     "sha256": "6fcccc7143bf94e873a7eaad10557110bf623c09e199efdedb565587d95aa405"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-900-2026",
+   "path": "ordin/mediu/2026/900",
+   "short": "Ordin mediu nr. 900/2026",
+   "title": "Ordinul nr. 900/2026 privind aprobarea Planului de management integrat al Parcului Național Cheile Nerei-Beușnița - RONPA0003 - Cheile Nerei-Beușnița, al ariilor naturale de interes comunitar și național suprapuse - ROSCI0031 Cheile Nerei-Beușnița, ROSPA0020 Cheile Nerei-Beușnița, RN 2.276 Cheile Nerei-Beușnița (RONPA0293), RN 2.277 Valea Ciclovei-Ilidia (RONPA0294), RN 2.278 Cheile Șușarei (RONPA0295), RN 2.279 Izvorul Bigăr (RONPA0296), RN 2.280 Lisovacea (RONPA0297), RN 2.281 Ducin (RONPA0298), RN IV.18 Dealul Cărăula (RONPA0869) și al sitului Patrimoniului natural universal (UNESCO) - Păduri seculare și virgine de fag din Carpați și din alte regiuni ale Europei, componenta Cheile Nerei-Beușnița (ID039)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310591",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310591",
+     "sha256": "1ee9fc8d725cf5f29bbc555d1ced91d4998ee4ae75ed9b5158dace2780ab0a94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-912-2026",
+   "path": "ordin/mediu/2026/912",
+   "short": "Ordin mediu nr. 912/2026",
+   "title": "Ordinul nr. 912/2026 pentru modificarea anexei nr. 1 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310526",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310526",
+     "sha256": "a5acc6f0b4a0bd3051b66200dce09cb7a355e312aab7bd98517a13d22a813c69"
     }
    ]
   },
@@ -5950,7 +6625,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/308348",
    "versions": [
     {
-     "from": "2026-03-20",
+     "from": "2026-05-19",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308348",
      "sha256": "11c6172c6e0421c9fec79807fd25bbaa01b327671dcf2d2d9bd6f923f843b65b"

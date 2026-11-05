@@ -1,8 +1,8 @@
 # Ordinul nr. 21.813/2022 privind încadrarea în activitatea de creare de programe pentru calculator
 
-Ordin comunicatii nr. 21813/2022 · 1 versions, from 2022-12-23 (latest in force: 2022-12-23) · <https://legislatie.just.ro/Public/DetaliiDocument/263115>
+Ordin comunicatii nr. 21813/2022 · 1 versions, from 2023-01-01 (latest in force: 2023-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/263115>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2023; this record still dates it from 23 December 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-comunicatii-21813-2022` (tags `ordin-comunicatii-21813-2022/<day>
 - Ordin comunicatii nr. 21813/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin comunicatii nr. 21813/2022: Anexa nr. 1 (LISTA cuprinzând ocupațiile specifice activităților de creare de programe pentru calculator Nr. crt. SECȚIUNEA 1 Ocupația SECȚIUNEA a 2-a Descrierea activității 1. Administrator baze de date Activităț) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 263115 of the official web service.
 - Ordin comunicatii nr. 21813/2022: a joint order of Ministerul Cercetării, Inovării și Digitalizării nr. 21.813 din 15 December 2022; Ministerul Educației nr. 6.421 din 16 December 2022; Ministerul Muncii și Solidarității Sociale nr. 2.246 din 20 December 2022; Ministerul Finanțelor nr. 4.433 din 22 December 2022. It is published once, here, under the issuer its EMITENT block lists first; `ordin-educatie-6421-2022`, `ordin-munca-2246-2022`, `ordin-finante-4433-2022` name it too (data/paths.json aliases).
-- Ordin comunicatii nr. 21813/2022: first published here dated 23 December 2022; its in-force clause states 1 January 2023. The record keeps the first date until it is corrected by hand.
+- Ordin comunicatii nr. 21813/2022: re-dated by a correction: in force from 1 January 2023 (first published dated 23 December 2022).

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.078/2010 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București
 
-Ordin sanatate nr. 1078/2010 · 1 versions, from 2010-08-05 (latest in force: 2010-08-05) · <https://legislatie.just.ro/Public/DetaliiDocument/121234>
+Ordin sanatate nr. 1078/2010 · 1 versions, from 2010-08-16 (latest in force: 2010-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/121234>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Structura organizatorică a direcțiilor de sănătate publică județene și a municipiului București MINISTERUL SĂNĂTĂȚII Direcția de Sănătate Publică a ...): it is a table that the official text holds only flattened. Its in-force clause states 16 August 2010; this record still dates it from 5 August 2010, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Structura organizatorică a direcțiilor de sănătate publică județene și a municipiului București MINISTERUL SĂNĂTĂȚII Direcția de Sănătate Publică a ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-sanatate-1078-2010` (tags `ordin-sanatate-1078-2010/<day>`; `pyth
 - Ordin sanatate nr. 1078/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1078/2010: Anexa nr. 1 (1 REGULAMENT 27/07/2010) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 121234 of the official web service.
 - Ordin sanatate nr. 1078/2010: Anexa nr. 2 (2 Structura organizatorică a direcțiilor de sănătate publică județene și a municipiului București MINISTERUL SĂNĂTĂȚII Direcția de Sănătate Publică a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 1078/2010: first published here dated 5 August 2010; its in-force clause states 16 August 2010. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1078/2010: re-dated by a correction: in force from 16 August 2010 (first published dated 5 August 2010).

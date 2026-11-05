@@ -1,8 +1,8 @@
 # Ordinul nr. 612/2002 pentru aprobarea Normelor privind modul de calcul al prețurilor la medicamentele de uz uman
 
-Ordin sanatate nr. 612/2002 · 1 versions, from 2002-08-22 (latest in force: 2002-08-22) · <https://legislatie.just.ro/Public/DetaliiDocument/38093>
+Ordin sanatate nr. 612/2002 · 1 versions, from 2002-09-02 (latest in force: 2002-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/38093>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 2 September 2002; this record still dates it from 22 August 2002, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,4 +45,4 @@ Act id: `ordin-sanatate-612-2002` (tags `ordin-sanatate-612-2002/<day>`; `python
 - Ordin sanatate nr. 612/2002: the first version is the order as published in Monitorul Oficial nr. 621 of 22 August 2002 (document 38093 of the official web service), in force on 2 September 2002, the day it states for itself.
 - Ordin sanatate nr. 612/2002: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 612/2002: Anexa nr. 1 (NORME din 13 august 2002 privind modul de calcul al prețurilor la medicamentele de uz uman) is part of the order and is published in its folder, anexa-1/ (24 articles), from document 38094 of the official web service.
-- Ordin sanatate nr. 612/2002: first published here dated 22 August 2002; its in-force clause states 2 September 2002. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 612/2002: re-dated by a correction: in force from 2 September 2002 (first published dated 22 August 2002).

@@ -3,6 +3,36 @@
  "shard": "local/bucuresti/sector-1/2024",
  "acts": [
   {
+   "slug": "hcls1-1-2024",
+   "path": "local/bucuresti/sector-1/2024/1",
+   "short": "HCLS1 nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 1/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/142916/1.2024_AN.pdf",
+     "sha256": "e78ed3145508330601f3f60c030ef2e586349326e19f4158d7429bed4b0419dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-10-2024",
+   "path": "local/bucuresti/sector-1/2024/10",
+   "short": "HCLS1 nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 10/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/130079/10.2024_AN.pdf",
+     "sha256": "1ce27d852f7081fabdf219f3707e891a26497793eb7b4d0019ad7f5a7416a8fd"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-100-2024",
    "path": "local/bucuresti/sector-1/2024/100",
    "short": "HCLS1 nr. 100/2024",
@@ -14,6 +44,966 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152502/100.2024_AN.pdf",
      "sha256": "de603aa4c84550fefef852ba21577239f5eac8d8b7b1662d254ccb9519058226"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-101-2024",
+   "path": "local/bucuresti/sector-1/2024/101",
+   "short": "HCLS1 nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 101/2024 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Fundația Viață și Lumină, în vederea derulării proiectului ”Centrul de plasament Viață și Lumină”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155528/101.2024_AN.pdf",
+     "sha256": "ba0d74ed0f2243671bf78d987812424598f5b459e3b1d9e9e7a58c74d6e705bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-102-2024",
+   "path": "local/bucuresti/sector-1/2024/102",
+   "short": "HCLS1 nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 102/2024 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și ”Asociația Congregația Inimii Neprihănite” în scopul implementării proiectului ”Casa Familie Sfânta Maria”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155533/102.2024_AN.pdf",
+     "sha256": "0e9909ca76a3a5805dfb59a703ba7cc5f303640a58f221ff514272604cf11374"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-103-2024",
+   "path": "local/bucuresti/sector-1/2024/103",
+   "short": "HCLS1 nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 103/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152273/103.2024_AN.pdf",
+     "sha256": "27fb287832cb7ee8681504c0dc15cd05e5d3ee20a84f1133f9ba32841a083421"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-104-2024",
+   "path": "local/bucuresti/sector-1/2024/104",
+   "short": "HCLS1 nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 104/2024 privind modificarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 100/26.07.2023 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții Proiectare și execuție „Modernizare și repararea infrastructurii urbane din Sectorul 1 al Municipiului București – Lot 3 – Strada Intrarea Catedrei”, sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157058/104.2024_AN.pdf",
+     "sha256": "1899713df6aabcdc8071c82f203a9484a8babc06e9320763eb1bda3a3a8bdeee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-105-2024",
+   "path": "local/bucuresti/sector-1/2024/105",
+   "short": "HCLS1 nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 105/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157042/105.2024_AN.pdf",
+     "sha256": "3a3a6beeaa3f804bb2824276d560dc5b396d316c037125dc654b4b60aadee836"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-106-2024",
+   "path": "local/bucuresti/sector-1/2024/106",
+   "short": "HCLS1 nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 106/2024 privind aprobarea Planului Urbanistic de Detaliu( PUD) Drumul Muntele Găina Nr, 169A, sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157043/106.2024_AN.pdf",
+     "sha256": "a2b57053bddecc49ec04cd94ac4b470e02e576e4dd0f67fcb020d6d9fc4803c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-107-2024",
+   "path": "local/bucuresti/sector-1/2024/107",
+   "short": "HCLS1 nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 107/2024 Proiect de hotărâre privind aprobarea Planului Urbanistic de Detaliu( PUD) Drumul Piscu Vechi, Nr.6, sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157044/107.2024_AN.pdf",
+     "sha256": "68de3176bfb5cce4d389fe5c7ec391ac7adfa6f22df9aa9b0b387c3950fecb36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-108-2024",
+   "path": "local/bucuresti/sector-1/2024/108",
+   "short": "HCLS1 nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 108/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157747/108.2024_AN.pdf",
+     "sha256": "aad3f47923cdb34f5259c205910f7398364904e2d07c7e7663ebe32d8306497e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-109-2024",
+   "path": "local/bucuresti/sector-1/2024/109",
+   "short": "HCLS1 nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 109/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157748/109.2024_AN.pdf",
+     "sha256": "2d1096eea141f43ca8eb63d92f385ef62856534107db89be59fb421bb5feaac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-11-2024",
+   "path": "local/bucuresti/sector-1/2024/11",
+   "short": "HCLS1 nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 11/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140509/11.2024_AN.pdf",
+     "sha256": "6faa00a54a44197c2a353b02e12fad5079b70807d8485083a02c212b50b4603e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-110-2024",
+   "path": "local/bucuresti/sector-1/2024/110",
+   "short": "HCLS1 nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 110/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157750/110.2024_AN.pdf",
+     "sha256": "f20540961257321bf6ac0d6ee8e405073b2dfa69e7852b3dec7ee7a4f245cdb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-111-2024",
+   "path": "local/bucuresti/sector-1/2024/111",
+   "short": "HCLS1 nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 111/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158605/111.2024_AN.pdf",
+     "sha256": "05583a23b91431cb793d1367cd2d91f6a2182d320749d3b5e016a6d671083117"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-112-2024",
+   "path": "local/bucuresti/sector-1/2024/112",
+   "short": "HCLS1 nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 112/2024 privind aprobarea și finanțarea proiectului cu titlul “Sport pentru fiecare”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162422/112.2024%20%2BOM.13_12.06.2024_AN.pdf",
+     "sha256": "b4097ddc35e4111f2ed656b4fe0edcc779c2c2441dd12280d1fea8948ca3ac7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-113-2024",
+   "path": "local/bucuresti/sector-1/2024/113",
+   "short": "HCLS1 nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 113/2024 privind aprobarea implementării Proiectului cultural ”Carte pentru Vacanță” la nivelul tuturor unităților de învățământ de stat aflate în administrarea Sectorului 1 al Municipiului București, pentru anul școlar 2023 - 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162425/113.2024_AN.pdf",
+     "sha256": "30b00e53f699d50c1b3b5923e85d032cc5838ee36811df03edfe39b6d9ec003a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-114-2024",
+   "path": "local/bucuresti/sector-1/2024/114",
+   "short": "HCLS1 nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 114/2024 privind aprobarea cuantumului de stimulente financiare pentru elevii din ultimul an de studii, care au obținut rezultate deosebite la olimpiadele și concursurile naționale și internaționale, în anul școlar 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162426/114.2024%20%2BOM.14_12.06.2024_AN.pdf",
+     "sha256": "fece8cfa576825c9c3366ab14a7fa8f85fe6964f01d1504b41750f80facc5053"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-115-2024",
+   "path": "local/bucuresti/sector-1/2024/115",
+   "short": "HCLS1 nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 115/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157755/115.2024%20%2BOM.15_12.06.2024_AN.pdf",
+     "sha256": "b9a25a297cfe74a557aba61f841bceaef6dafd4c3eed732a222eef0e9253ad0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-116-2024",
+   "path": "local/bucuresti/sector-1/2024/116",
+   "short": "HCLS1 nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 116/2024 privind solicitarea către Consiliul General al Municipiului București de a aproba modificarea Hotărârii nr. 210/2019 în vederea schimbării destinației imobilului, (lot 3), având numărul cadastral actual 275836, din piață agroalimentară în spațiu destinat desfășurării activităților specifice unităților de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149505/116.2024_AN.pdf",
+     "sha256": "71bd6277e0a26fe2487f6772fe66f1ffe1f9636ed874af8047a8de77d505510b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-117-2024",
+   "path": "local/bucuresti/sector-1/2024/117",
+   "short": "HCLS1 nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 117/2024 privind solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru cauză de utilitate publică asupra imobilului monument istoric, situat în B-dul Magheru nr. 6-8, Sector 1, București, în vederea realizării lucrărilor de protecție și restaurare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159435/117.2024_AN.pdf",
+     "sha256": "f8eec2bf17138a2d9261f0449012ea76cd45a4fc1a19c64d04c1f2088ddc82c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-118-2024",
+   "path": "local/bucuresti/sector-1/2024/118",
+   "short": "HCLS1 nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 118/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159436/118.2024_AN.pdf",
+     "sha256": "f6f6f74de66428ac392c1185d6cbbae9166541242810c0eadf790bba9e002b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-119-2024",
+   "path": "local/bucuresti/sector-1/2024/119",
+   "short": "HCLS1 nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 119/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159632/119.2024_AN.pdf",
+     "sha256": "0f006e15a84fee0a6eff6d8c6300d699910b1fabcd8b53b35a0ed71982d312ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-12-2024",
+   "path": "local/bucuresti/sector-1/2024/12",
+   "short": "HCLS1 nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 12/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140510/12.2024_AN.pdf",
+     "sha256": "ec8c35b13052f0e50ebe427cab74d94bec27767f2fdb792e5e67cde40f2a9fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-120-2024",
+   "path": "local/bucuresti/sector-1/2024/120",
+   "short": "HCLS1 nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 120/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162424/120.2024_AN.pdf",
+     "sha256": "8002da9fb671e5889ed48c6c175e101a0024e9456cb04d63c319c2224647fcb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-121-2024",
+   "path": "local/bucuresti/sector-1/2024/121",
+   "short": "HCLS1 nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 121/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162429/121.2024_AN.pdf",
+     "sha256": "f6fb99c5745e80d71c3f4a723948dea2f668f11eaa373665d5dac42aa810b5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-122-2024",
+   "path": "local/bucuresti/sector-1/2024/122",
+   "short": "HCLS1 nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 122/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162430/122.2024_AN.pdf",
+     "sha256": "98b3522d732a222128c3bf8a9252278a488b0ace9e0297e35cfb1655eb6cfb47"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-123-2024",
+   "path": "local/bucuresti/sector-1/2024/123",
+   "short": "HCLS1 nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 123/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/160258/123.2024_AN.pdf",
+     "sha256": "3471329f2c6d36ce55dcea1d6cfc45ed80beb9d0305b49a5eeea7a2efc47cd37"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-124-2024",
+   "path": "local/bucuresti/sector-1/2024/124",
+   "short": "HCLS1 nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 124/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162427/124.2024_AN.pdf",
+     "sha256": "790f933be97aa3682fcf6ed563dc75bbca1f3a8fcf6352e4b6c88bec5f194624"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-125-2024",
+   "path": "local/bucuresti/sector-1/2024/125",
+   "short": "HCLS1 nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 125/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157752/125.2024_AN.pdf",
+     "sha256": "f2ab6e581cafe5313e30b0b28eab0a9aa1a03c11c02f931e3306644c318918bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-126-2024",
+   "path": "local/bucuresti/sector-1/2024/126",
+   "short": "HCLS1 nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 126/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158610/126.2024_AN.pdf",
+     "sha256": "701f7eeec3293d5a3d86d1866ee29d7135e333e4f1616beba5cdeb4437f67e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-127-2024",
+   "path": "local/bucuresti/sector-1/2024/127",
+   "short": "HCLS1 nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 127/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162421/127.2024_AN.pdf",
+     "sha256": "c04898dd058c2d16d881fc9b2e6f0defd97c7f865f0d14127bcbd30103be3a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-128-2024",
+   "path": "local/bucuresti/sector-1/2024/128",
+   "short": "HCLS1 nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 128/2024 privind aprobarea rectificării, la data de 19.06.2024, a bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163282/128.2024_AN.pdf",
+     "sha256": "6776435df09a03634df9419e364db1ac8bbc66269589f3e601fc8bb1ee55aa30"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-129-2024",
+   "path": "local/bucuresti/sector-1/2024/129",
+   "short": "HCLS1 nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 129/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163281/129.2024_AN.pdf",
+     "sha256": "d86d9eb8b86db84b60e3641183d45e37202cf3e775498db8ff2a71d86dc24634"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-13-2024",
+   "path": "local/bucuresti/sector-1/2024/13",
+   "short": "HCLS1 nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 13/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140511/13.2024_AN.pdf",
+     "sha256": "8d69b731221984618e3fd6d728d2e1dd2a3b92d0781bacdf9a59ad0b44cf86e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-130-2024",
+   "path": "local/bucuresti/sector-1/2024/130",
+   "short": "HCLS1 nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 130/2024 privind aprobarea rectificării, la data de 03.07.2024, a bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/164549/130.2024_AN.pdf",
+     "sha256": "314e4b06a5b25178a66339f1ea652bce13267db1e0e315a106593538364a83e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-131-2024",
+   "path": "local/bucuresti/sector-1/2024/131",
+   "short": "HCLS1 nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 131/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 36/21.03.2024 privind aprobarea implementării Proiectului educațional ”Școala de vară, perioada iulie-august 2024”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/164410/131.2024_AN.pdf",
+     "sha256": "0a45627a4b1d7ec1dcca9baa55cf4e44b5e021b81b350c0832651f42ac047271"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-132-2024",
+   "path": "local/bucuresti/sector-1/2024/132",
+   "short": "HCLS1 nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 132/2024 privind aprobarea ,,Planului Comitetului Local pentru Situații de Urgență Sector 1, de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență (P.A.R.U.M.F) pentru anul 2024,,",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/164060/132.2024_AN.pdf",
+     "sha256": "14adda6151d1d6ee31e8f2a1cde0e83150d674b169a66dc7cb4188ca3eec478d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-133-2024",
+   "path": "local/bucuresti/sector-1/2024/133",
+   "short": "HCLS1 nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 133/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/164413/133.2024_Anonimizata.pdf",
+     "sha256": "222e67039467287d6c5fac93d1693cd908b3a62b74a0ce46d4af989770754406"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-134-2024",
+   "path": "local/bucuresti/sector-1/2024/134",
+   "short": "HCLS1 nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 134/2024 privind modificarea Anexei nr. 2 – stat de funcții, a Hotărârii Consiliului Local al Sectorului 1 nr. 291/04.12.2020, privind aprobarea organigramei, statului de funcții, numărului de personal și regulamentului de organizare și funcționare ale aparatului de specialitate al Primarului Sectorului 1 al Municipiului Bucureşti şi ale instituției subordonate Consiliului Local Sector 1 - Direcţia Publică de Evidenţă a Persoanelor şi Stare Civilă Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162423/134.2024_Anonimizata.pdf",
+     "sha256": "6ab183be64d378038300837681e3dcf1faca327d6504ce83d2e015fc8208567e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-135-2024",
+   "path": "local/bucuresti/sector-1/2024/135",
+   "short": "HCLS1 nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 135/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/164409/135.2024_Anonimizata.pdf",
+     "sha256": "41f7bf5bf9689cce3e779cf750c6661b72aa95eefdd0e9687c123105c640a688"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-136-2024",
+   "path": "local/bucuresti/sector-1/2024/136",
+   "short": "HCLS1 nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 136/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/166267/136.2024_Anonimizata.pdf",
+     "sha256": "4f75bb85cd24cff025dd3e7f0a3567c70ce2d12775254bd75e584480425ce3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-137-2024",
+   "path": "local/bucuresti/sector-1/2024/137",
+   "short": "HCLS1 nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 137/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 122/29.07.2022 privind înființarea unității de învățământ pentru educație timpurie – nivel antepreșcolar – Creșa ”RODACIE”, ca instituție cu personalitate juridică, prin reorganizarea Centrelor de zi de tip creșă din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/166268/137.2024_Anonimizata.pdf",
+     "sha256": "68f78ec880ca8cc04172a91460c4172cef22cad0344f72537520094786ed20f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-138-2024",
+   "path": "local/bucuresti/sector-1/2024/138",
+   "short": "HCLS1 nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 138/2024 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea protocolului de cooperare între Sectorul 1 al Municipiului București și Fundația ”The Institute” în vederea finanțării și realizării în comun a proiectului cultural – artistic, de interes public local, ”Diploma Show”, care va avea loc în perioada 4 – 13 octombrie 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-139-2024",
+   "path": "local/bucuresti/sector-1/2024/139",
+   "short": "HCLS1 nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 139/2024 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea protocolului de cooperare între Sectorul 1 al Municipiului București și Fundația Calea Griviței în vederea finanțării și realizării în comun a proiectului cultural de interes public local ”Undercloud - Festival de Teatru Independent Ediția 17”, care va avea loc în perioada 2 - 8 septembrie 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-14-2024",
+   "path": "local/bucuresti/sector-1/2024/14",
+   "short": "HCLS1 nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 14/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140512/14.2024_AN.pdf",
+     "sha256": "efb377e50ea2992253d379beb1383baef91683eb82ec1e4b764968ee4ee9832e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-140-2024",
+   "path": "local/bucuresti/sector-1/2024/140",
+   "short": "HCLS1 nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 140/2024 Proiect de hotărâre privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea protocolului de cooperare între Sectorul 1 al Municipiului București și Oistat România în vederea finanțării și realizării în comun a proiectului cultural, de interes public local, ”Bucharest Scenography Biennale”, care va avea loc în perioada 18 – 27 octombrie 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-141-2024",
+   "path": "local/bucuresti/sector-1/2024/141",
+   "short": "HCLS1 nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 141/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163271/141.2024_Anonimizata.pdf",
+     "sha256": "8b1a9b13284c0a4e767de285f8a502ed8004f645bf0443d9dda3c0d0dfb9a378"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-142-2024",
+   "path": "local/bucuresti/sector-1/2024/142",
+   "short": "HCLS1 nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 142/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163273/142.2024_Anonimizata.pdf",
+     "sha256": "f4135f896ce48078cd9a37af9b5e78f1225a9357ba6bf76789127d903b671ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-143-2024",
+   "path": "local/bucuresti/sector-1/2024/143",
+   "short": "HCLS1 nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 143/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163274/143.2024_Anonimizata.pdf",
+     "sha256": "90d45150f6d5dd4a2e85965ca24e18213ec0ed967f622c80e7161295d53dc7c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-144-2024",
+   "path": "local/bucuresti/sector-1/2024/144",
+   "short": "HCLS1 nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/166263/144.2024_Anonimizata.pdf",
+     "sha256": "27e86d0bc7949a9ba194e156e33eabbc7c443a53787d16f8864de740568d0187"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-145-2024",
+   "path": "local/bucuresti/sector-1/2024/145",
+   "short": "HCLS1 nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 145/2024 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui acord de parteneriat între Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 1 și Asociația SOS Satele Copiilor România, în vederea aprobării participării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1 ca Partener pentru depunerea cererii de finanțare în cadrul apelului de proiecte ,,Servicii comunitare pentru copii și familii în vederea prevenirii separării și în vederea susținerii reintegrării în familie a copiilor proveniți din sistemul de protecție specială”, PO5. Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziune socială și ceilalți copii, Programul Incluziune și Demnitate Socială 2021-2027 și aprobarea cheltuielilor legate de implementare proiectului ,,Copii, familie, comunitate un model inovativ pentru prevenirea separării copiilor de părinți și pentru reintegrarea copiilor în familie”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/166594/145.2024_Anonimizata.pdf",
+     "sha256": "a0cf9f4593c5cca9284a44a11300e8c907fb63f7ca9615eeb1b66a0e5dace2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-146-2024",
+   "path": "local/bucuresti/sector-1/2024/146",
+   "short": "HCLS1 nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 146/2024 privind aprobarea încheierii Actului adițional nr.1 la Protocolul nr. J 1919 din 28.07.2021 privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și Parohia “Izvorul Tămăduirii” – Mavrogheni din București, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/165420/146.2024_Anonimizata.pdf",
+     "sha256": "b23d45dd16a67f663bde27b20676f8a2fbfedf395134da8caa7ad46743c7e20b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-147-2024",
+   "path": "local/bucuresti/sector-1/2024/147",
+   "short": "HCLS1 nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 147/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 81/11.04.2024 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/165421/147.2024_Anonimizata.pdf",
+     "sha256": "c28d0ab75cae39d68253a33c420dde1541b489eef3d0eb2f32f7e58750574c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-148-2024",
+   "path": "local/bucuresti/sector-1/2024/148",
+   "short": "HCLS1 nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 148/2024 privind acordarea unui sprijin financiar Colegiului Tehnic ”Mircea cel Bătrân” în vederea susținerii implementării proiectelor ”SPE – Stagii de practică pentru elevii Colegiului Tehnic Mircea cel Bătrân - București”, cod SMIS 316618, ”EPE – Educație prin practică pentru elevii Colegiului Tehnic Mircea cel Bătrân - București” cod SMIS 315960, finanțate prin Programul Educație și Ocupare 2021-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169056/148.2024_AN.pdf",
+     "sha256": "f1645049b7e94d52a299ce2aabb848d60af757a5c5d9f5d592eadeb851587aa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-149-2024",
+   "path": "local/bucuresti/sector-1/2024/149",
+   "short": "HCLS1 nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 149/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169057/149.2024_AN.pdf",
+     "sha256": "278cd998dcf1c9ddbcd586c388ec4d741b710ce3fce76f47070238bc5fe1264f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-15-2024",
+   "path": "local/bucuresti/sector-1/2024/15",
+   "short": "HCLS1 nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 15/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140513/15.2024_AN.pdf",
+     "sha256": "5a1e21d5aad35f1e8a4ffb2edb1df72c730057436c2d9689318488e541af7e89"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-150-2024",
+   "path": "local/bucuresti/sector-1/2024/150",
+   "short": "HCLS1 nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 150/2024 privind aprobarea rectificării, la data de 06.08.2024, a bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169058/150.2024_AN.pdf",
+     "sha256": "716a0177f0b74252eefcd9c53556978b3fe1ddca60d34160fe278f4173f11672"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-151-2024",
+   "path": "local/bucuresti/sector-1/2024/151",
+   "short": "HCLS1 nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 151/2024 privind aprobarea încheierii Actului adițional nr.1 la Protocolul privind parteneriatul între Patriarhia Română, Arhiepiscopia Bucureștilor și Sectorul 1 al Municipiului București nr.36185 din 28.08.2019",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169062/151.2024_AN.pdf",
+     "sha256": "edf3bd9f3588bd46ee9ea9b8a9505b9187a10ee351eb7aacb296e69fa21c7b4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-152-2024",
+   "path": "local/bucuresti/sector-1/2024/152",
+   "short": "HCLS1 nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 152/2024 privind modificarea Anexei nr. 2 la Hotărârea Consiliului Local al Sectorului 1 nr. 240/27.08.2020 privind aprobarea reorganizării unor servicii sociale, Organigrama, Statul de funcții și Regulamentul de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169063/152.2024_an.pdf",
+     "sha256": "6617c2879fe4c100163488207025e0627f2d090c07ffaac9ea7374b398dc8dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-153-2024",
+   "path": "local/bucuresti/sector-1/2024/153",
+   "short": "HCLS1 nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 153/2024 privind modificarea Horărârii Consiliului Local Sector 1 nr. 11/2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura organizatorică a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169064/153.2024_an.pdf",
+     "sha256": "75cb5e1472d45e184124d73ef6d2e693c9b291fa72c316a526e54d7b645620b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-154-2024",
+   "path": "local/bucuresti/sector-1/2024/154",
+   "short": "HCLS1 nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 154/2024 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui acord de parteneriat între Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 1 și Asociația Create Yourself, în vederea aprobării participării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1 în calitate de Partener, pentru depunerea cererii de finanțare în cadrul apelului de proiecte ,,Servicii comunitare pentru copii și familii în vederea prevenirii separării și în vederea susținerii reintegrării în familie a copiilor proveniți din sistemul de protecție specială”, PO5. Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziune socială și ceilalți copii, Programul Incluziune și Demnitate Socială 2021-2027” și aprobarea cheltuielilor legate de implementarea proiectului cu titlul ”SOCIAL1”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169059/154.2024_an.pdf",
+     "sha256": "e66461ba99418bd7dbccaf78f38b19eb65d6e8da14cca01674617e8385cc86b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-155-2024",
+   "path": "local/bucuresti/sector-1/2024/155",
+   "short": "HCLS1 nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 155/2024 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui acord de parteneriat între Direcția Generală de Asistenţă Socială și Protecția Copilului Sector 1 și Organizația Salvați Copiii, în vederea aprobării participării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1 ca Partener pentru depunerea cererii de finanțare în cadrul apelului de proiecte ,,Servicii comunitare pentru copii și familii în vederea prevenirii separării și în vederea susținerii reintegrării în familie a copiilor proveniți din sistemul de protecție specială”, PO5. Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziune socială și ceilalți copii, Programul Incluziune și Demnitate Socială 2021-2027 și aprobarea cheltuielilor legate de implementare proiectului cu titlul „Impreuna in familie - Servicii comunitare integrate pentru copii vulnerabili si familiile lor”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169060/155.2024_an.pdf",
+     "sha256": "f10dec5a500827f714c70790fc58733ca7de83f32f78edc1e5b2e78a5c9b9515"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-156-2024",
+   "path": "local/bucuresti/sector-1/2024/156",
+   "short": "HCLS1 nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 156/2024 privind solicitarea către Consiliul General al Municipiului București de a aproba trecerea din administrarea Administrației Străzilor în administrarea Sectorului 1 al Municipiului București a străzilor Drumul Cristești și Drumul Costești, în vederea reabilitării și modernizării",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/165419/156.2024_an.pdf",
+     "sha256": "e1d9b987ee49e90576a479e292bf89cf9629f2759c7409768c7b93b7bd0846b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-157-2024",
+   "path": "local/bucuresti/sector-1/2024/157",
+   "short": "HCLS1 nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 157/2024 privind aprobarea finanțării Proiectului ”Educație pentru viață” pentru elevii din învățământul preuniversitar de stat din Sectorul 1 al Municipiului București, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169061/157.2024_an.pdf",
+     "sha256": "ecb08b9670ff7a7ea47d6555fd326b5311364380b1ff7483dfcd391c81e2ff17"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-158-2024",
+   "path": "local/bucuresti/sector-1/2024/158",
+   "short": "HCLS1 nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 158/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Liceul Greco - Catolic „Timotei Cipariu” în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169868/158.2024_an.pdf",
+     "sha256": "d524c08f6fa4c6d760964d2a557abb1ff2bd94c67965d70ebbb81071c4e41a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-159-2024",
+   "path": "local/bucuresti/sector-1/2024/159",
+   "short": "HCLS1 nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 159/2024 privind stabilirea tipului de suport alimentar și a modalității de distribuire a acestuia preșcolarilor și elevilor Școlii Gimnaziale Nr. 178, Școlii Gimnaziale Uruguay, Școlii Gimnaziale Nr. 162 și Școlii Gimnaziale Nr. 181 Sector 1, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169869/159.2024_an.pdf",
+     "sha256": "6061355864b0400e6ff34cc5a79b0aaf2f5270ac50d690b148e9a5f1fe8563af"
     }
    ]
   },
@@ -33,6 +1023,891 @@
    ]
   },
   {
+   "slug": "hcls1-160-2024",
+   "path": "local/bucuresti/sector-1/2024/160",
+   "short": "HCLS1 nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 160/2024 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții Proiectare și execuție „Modernizare și repararea infrastructurii urbane din Sectorul 1 al Municipiului București – Lot 3 – Strada Intrarea Epocii”, sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169066/160.2024_an.pdf",
+     "sha256": "6a659947a23f9bd5f454ce2a9192c66c541ad82185f5519307ed3999118a49f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-161-2024",
+   "path": "local/bucuresti/sector-1/2024/161",
+   "short": "HCLS1 nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 161/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169853/161.2024_an.pdf",
+     "sha256": "6bae933919415989aaa331c3f012154b845f29d9447699414e0a21da767c5f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-162-2024",
+   "path": "local/bucuresti/sector-1/2024/162",
+   "short": "HCLS1 nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 162/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169053/162_an_04.09.2024.pdf",
+     "sha256": "07abdfa5b496723251daefd9ad04d84b7197d8b2b0f869e21cafb51afaa3cd73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-163-2024",
+   "path": "local/bucuresti/sector-1/2024/163",
+   "short": "HCLS1 nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 163/2024 privind aprobarea constituirii comisiei de negociere și închirierea imobilului situat în Șos. Nordului, nr. 94F, Sector 1, București, în vederea desfășurării activității Grădiniței nr. 206",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169065/163_an_04.09.2024.pdf",
+     "sha256": "89ff65f8dd4d1219cf1ece702f0db9450efde1ea5a3da26e37da05113ffd1ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-164-2024",
+   "path": "local/bucuresti/sector-1/2024/164",
+   "short": "HCLS1 nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 164/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/170372/164_an_04.09.2024.pdf",
+     "sha256": "db9faf1c6360cbb907fd034d07a5b1925ecee86693b218d5602af1c77dfa1c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-165-2024",
+   "path": "local/bucuresti/sector-1/2024/165",
+   "short": "HCLS1 nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 165/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169867/165_an_04.09.2024.pdf",
+     "sha256": "e20243cf494ce57f00ab817d6ffbddfd199cd0ae2cf25bc53edb5d0b77bf3013"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-166-2024",
+   "path": "local/bucuresti/sector-1/2024/166",
+   "short": "HCLS1 nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 166/2024 privind aprobarea Acordului de parteneriat dintre Municipiul București și Sectorul 1 al Municipiului București, Sectorul 3 al Municipiului București, Sectorul 4 al Municipiului București, Sectorul 5 al Municipiului București și Sectorul 6 al Municipiului București în vederea participării în cadrul Misiunii Oglindă a Misiunii UE ”100 de orașe inteligente și neutre din punct de vedere climatic până în 2030” (M100)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/171593/166.2024_an.pdf",
+     "sha256": "955dd66df3e8522ed965cac2b0c62f3cab6f675ad360e2d859ad3fdc92a37826"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-167-2024",
+   "path": "local/bucuresti/sector-1/2024/167",
+   "short": "HCLS1 nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 167/2024 privind aprobarea rectificării, la data de 24.09.2024, a bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/173777/HCL%20167_30.09.2024_an.pdf",
+     "sha256": "698d96ae3f89fea9cbf8392886e1bffc9a6e6d8a349b946ac7e4869a106bf005"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-168-2024",
+   "path": "local/bucuresti/sector-1/2024/168",
+   "short": "HCLS1 nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 168/2024 privind aprobarea programului de deszăpezire pentru sezonul rece aferent iernii 2024-2025, precum și aprobarea fondanților chimici pentru întreținerea drumurilor pe timp de iarnă prin operațiuni preventive și curative de combatere a poleiului, gheții și zăpezii pe raza administrativă a Sectorului 1 al Municipiului București, în iarna 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/173776/168.2024_an.pdf",
+     "sha256": "be90b8139c594545361e4c6635466e23008fc0f084ee52a1f3e878e2e98dc20a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-169-2024",
+   "path": "local/bucuresti/sector-1/2024/169",
+   "short": "HCLS1 nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 169/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 44/13.04.2022",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/173037/169.2024_an.pdf",
+     "sha256": "6d744678c471432ad276885c4abde956d03753f894f9c0d950a7e91f60d54017"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-17-2024",
+   "path": "local/bucuresti/sector-1/2024/17",
+   "short": "HCLS1 nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 17/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146907/17.2024_AN%20%281%29.pdf",
+     "sha256": "fa349263f7237af7207f783106ba1bd201d5c5ffc845a39556482106f46b226f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-170-2024",
+   "path": "local/bucuresti/sector-1/2024/170",
+   "short": "HCLS1 nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 170/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172959/170.2024_an%20complet.pdf",
+     "sha256": "91a8e93a224324d4abaf810c2ba1608f63c58929882f71d5542f0cbe0915bf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-171-2024",
+   "path": "local/bucuresti/sector-1/2024/171",
+   "short": "HCLS1 nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 171/2024 privind majorarea cu 400% a impozitului pe teren pentru terenul în suprafață de 85.244, 90 mp situat în București, Sectorul 1, Str.Mimozei, nr.5, coproprietar Paraschiv Raoul-Radu, ca urmare a constituirii stării de teren neîngrijit, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172962/171.2024_an_complet.pdf",
+     "sha256": "6fb8af6c15dfe4b5d34ab3c9f0805d17023ae956dbcda7326775ac315296c74c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-172-2024",
+   "path": "local/bucuresti/sector-1/2024/172",
+   "short": "HCLS1 nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 172/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172964/172.2024_an_complet.pdf",
+     "sha256": "48c81259d51de7ad7cd803639d9aedd7457fff1fb56cd2992a7d192343c35240"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-173-2024",
+   "path": "local/bucuresti/sector-1/2024/173",
+   "short": "HCLS1 nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 173/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172965/173.2024_an_complet.pdf",
+     "sha256": "7f5ea2a8d7341b402e761030aec9479ab6ab8cf09fe8add3ef3c1532b1bfcaf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-174-2024",
+   "path": "local/bucuresti/sector-1/2024/174",
+   "short": "HCLS1 nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 174/2024 privind majorarea cu 400% a impozitului pe teren pentru terenul în suprafață de 85.244, 90 mp situat în București, Sectorul 1, Str.Mimozei, nr.5, coproprietar Gentilezza Patrick, ca urmare a constituirii stării de teren neîngrijit, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172966/174.2024_an_complet.pdf",
+     "sha256": "4c4abc9d5f351b2dd3e75bcb58c545282ac4563eb5d6ea71e30cd3a54db0e4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-175-2024",
+   "path": "local/bucuresti/sector-1/2024/175",
+   "short": "HCLS1 nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 175/2024 privind majorarea cu 400% a impozitului pe teren pentru terenul în suprafață de 85.244, 90 mp situat în București, Sectorul 1, Str.Mimozei, nr.5, coproprietar Picollo Furio, ca urmare a constituirii stării de teren neîngrijit, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172967/175.2024_an_complet.pdf",
+     "sha256": "939d9950e23467788606fa21ee8334383ea746ba39603c97e3976f033aa09189"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-176-2024",
+   "path": "local/bucuresti/sector-1/2024/176",
+   "short": "HCLS1 nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 176/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163275/HCL%20176_30.09.2024_an.pdf",
+     "sha256": "23bb8afe9a37ec75731b906beaa65caaecf79e89406352f7885260f6bc81117e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-177-2024",
+   "path": "local/bucuresti/sector-1/2024/177",
+   "short": "HCLS1 nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 177/2024 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 1 în consiliile de administraţie din unitățile de învăţământ preuniversitar de stat din Sectorul 1 al Municipiului București pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/173413/177.2024_an.pdf",
+     "sha256": "5b81a3771c37b3ea0d2270d5c78ac45718aaa965f2d954f57950c0720b2413d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-178-2024",
+   "path": "local/bucuresti/sector-1/2024/178",
+   "short": "HCLS1 nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 178/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/174094/HCL%20178_30.09.2024_an.pdf",
+     "sha256": "c2f7699eb7531a495d79484d60f90dd02557632447fc605f912d215fa12615b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-179-2024",
+   "path": "local/bucuresti/sector-1/2024/179",
+   "short": "HCLS1 nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 179/2024 privind aprobarea Organigramei, Statului de funcții, și Regulamentului de organizare și funcționare ale aparatului de specialitate al Primarului sectorului 1 al Municipiului Bucureşti şi ale instituției subordonate Consiliului Local Sector 1 - Direcţia Publică de Evidenţă a Persoanelor şi Stare Civilă Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171415/179.2024%20%2B%20NREM%20C_1275_09.12.2024%20%2B%20NREM%20C_1309_20.12.2024%20%2B%20NREM%20C_402_10.04.2025_AN.pdf",
+     "sha256": "99d7385be371ce9b8982d8e5746a4f84eff51e70df765d72adcd5ec285a2b197"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-18-2024",
+   "path": "local/bucuresti/sector-1/2024/18",
+   "short": "HCLS1 nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 18/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146909/18.2024_AN.pdf",
+     "sha256": "898f37290876863ed7ca323faef19a786fe1bd71d8646e40733585572b46760a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-180-2024",
+   "path": "local/bucuresti/sector-1/2024/180",
+   "short": "HCLS1 nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 180/2024 privind aprobarea Organigramei, Statului de funcții și a Regulamentului de organizare și funcționare ale Administrației Domeniului Public Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171424/180.2024%20%2B%20NREM%20C_403_10.04.2025_AN.pdf",
+     "sha256": "3dd73c21b82807eabcce2bc14f1fd6f99ff7070dd452687ca3c80a8a9c101575"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-181-2024",
+   "path": "local/bucuresti/sector-1/2024/181",
+   "short": "HCLS1 nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 181/2024 privind aprobarea reorganizării Direcției Generale de Impozite și Taxe Locale a Sectorului 1, a Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale Direcției Generale de Impozite și Taxe Locale a Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171425/181.2024%20%2B%20NREM%20C_1312_23.12.2024_AN.pdf",
+     "sha256": "eb28d05d9a5d9b4be501e1eaa3f9fc234ec7d0e248362645793e42f8c6b6b233"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-182-2024",
+   "path": "local/bucuresti/sector-1/2024/182",
+   "short": "HCLS1 nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 182/2024 privind aprobarea reorganizării Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, a Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171421/182.2024_AN.pdf",
+     "sha256": "c21e381058ae75017ac7ce7f01651326a023d9339abc47844fadcd9a61f1bfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-183-2024",
+   "path": "local/bucuresti/sector-1/2024/183",
+   "short": "HCLS1 nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 183/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic „Media” în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171422/183.2024_AN.pdf",
+     "sha256": "70838a7dafb6183db7679d12c3de5b91f457869d8e2b376ef813a3954b95e588"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-184-2024",
+   "path": "local/bucuresti/sector-1/2024/184",
+   "short": "HCLS1 nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 184/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic de Aeronautică ”Henri Coandă”, în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171423/184.2024_AN.pdf",
+     "sha256": "985df8a3644622d4e9e20c63d7de74a0f23dc46cfc5d2e9daa5ac3681f12f001"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-185-2024",
+   "path": "local/bucuresti/sector-1/2024/185",
+   "short": "HCLS1 nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 185/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic ”Dinicu Golescu”, în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171420/185.2024_AN.pdf",
+     "sha256": "26c2b53f353dbe7d892cdddac9f5167a42e81e9b62dd47313d05e6fc3168276a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-186-2024",
+   "path": "local/bucuresti/sector-1/2024/186",
+   "short": "HCLS1 nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 186/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Liceul Teoretic ”Constantin Brâncoveanu”, în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171419/186.2024_AN.pdf",
+     "sha256": "00f4ecaa96de95490677663308571879b6cdac76cc18a467375c4a274f6a032b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-187-2024",
+   "path": "local/bucuresti/sector-1/2024/187",
+   "short": "HCLS1 nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 187/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 157/29.08.2024 privind aprobarea finanțării Proiectului ”Educație pentru viață” pentru elevii din învățământul preuniversitar de stat din Sectorul 1 al Municipiului București, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171418/187.2024_AN.pdf",
+     "sha256": "9fcac0eacde609d0bbf8b0b16e95d80f440e5dc39b7ea4a0930b7722db018b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-188-2024",
+   "path": "local/bucuresti/sector-1/2024/188",
+   "short": "HCLS1 nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 188/2024 privind majorarea cuantumului burselor asigurate de către bugetul de stat prin suplimentare de la bugetul local pentru elevii de la cursurile cu frecvență din învățământul preuniversitar de stat Sector 1 pntru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171416/188.2024_AN.pdf",
+     "sha256": "e4f75d4c17b8e85ba839fe92eab147871d4f7f71f0d4a8cd59048c632191bfb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-189-2024",
+   "path": "local/bucuresti/sector-1/2024/189",
+   "short": "HCLS1 nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 189/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171417/189.2024_AN.pdf",
+     "sha256": "5b48e8ca5c5b54cd794f5eddc389b048f1ca1e68f3e86d2dc417e337e1aa8eff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-19-2024",
+   "path": "local/bucuresti/sector-1/2024/19",
+   "short": "HCLS1 nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 19/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/143981/19.2024_Anonimizata.pdf",
+     "sha256": "8142570cb29c56536d66466bb93c308410bac07df00a8f18efaf3672a54647b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-190-2024",
+   "path": "local/bucuresti/sector-1/2024/190",
+   "short": "HCLS1 nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 190/2024 privind aprobarea implementării Proiectului educațional „Educație și viitor pentru toți” la nivelul tuturor unităților de învățământ de stat de pe raza Sectorului 1 al Municipiului București pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171413/190.2024_AN.pdf",
+     "sha256": "88acb0dcff9251983649f2dcdeec40008f3fa38b437b7937b51e535de6489d38"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-191-2024",
+   "path": "local/bucuresti/sector-1/2024/191",
+   "short": "HCLS1 nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 191/2024 privind aprobarea și finanțarea proiectului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat, Colegiul Tehnologic „Viaceslav Harnaj”, în anul școlar 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171414/191.2024_AN.pdf",
+     "sha256": "5185e4a3dacae3210bf0387c635d6532ff984bb369f323800c347fc3e63ddecd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-192-2024",
+   "path": "local/bucuresti/sector-1/2024/192",
+   "short": "HCLS1 nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 192/2024 Proiect de hotărâre privind solicitarea acordului Consiliului General al Municipiului București pentru cooperarea dintre Sectorul 1 al Municipiului București și Administrația Străzilor București, în vederea finanțării și realizării în comun a lucrărilor de interes public local referitoare la modernizarea, reconfigurarea, întreținerea și amenajarea/reamenajarea spațiilor publice situate pe rețeaua stradală principală din Sectorul 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95670/192.2024_Anonimizata.pdf",
+     "sha256": "c0e13de1b27a2f3108a459caf6b1fde4ed5625fba4877c6727730ec62715b8df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-193-2024",
+   "path": "local/bucuresti/sector-1/2024/193",
+   "short": "HCLS1 nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 193/2024 Proiect de hotărâre prin care se solicită Consiliului General al Municipiului București trecerea în administrarea Consiliului Local al Sectorului 1 al Municipiului București a imobilelor identificate cu IE 221658, IE 242878, IE 262440, IE 206170, precum și a Spațiului verde aferent Ateneului Român, imobile aflate în domeniul public al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96045/193.2024_Anonimizata.pdf",
+     "sha256": "baf1e3d9d80bc9e52c36cb5c578de061c07cebc29e99ddcdf2305c99ed26c685"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-194-2024",
+   "path": "local/bucuresti/sector-1/2024/194",
+   "short": "HCLS1 nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 194/2024 privind darea în administrarea Administrației Domeniului Public Sector 1 a parcajului suprateran exterior, aflat sub pasajul Basarab având număr cadastral 263433-C1, în administrarea Administrației Domeniului Public Sector 1, în vederea amenajării unei parcări de reședință",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172769/194.2024_Anonimizata.pdf",
+     "sha256": "dd83fabf0f1c3fd03ebe92518f2bef1d58c25cdcdb2c76da473f30f262ada4e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-195-2024",
+   "path": "local/bucuresti/sector-1/2024/195",
+   "short": "HCLS1 nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 195/2024 privind abrogarea Hotărârii Consiliului Local nr. 204 din 19.12.2022 privind solicitarea către Consiliul General al Municipiului Bucureşti de modificarea a Hotărârii nr. 213/2015 și transmiterea imobilului “Cinematograful Giuleşti” din Cal. Giuleşti nr. 56A, în administrarea Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172781/195.2024_Anonimizata.pdf",
+     "sha256": "ab47d3c45a9c6dfd83aedde898f788b5b2520214913aa36c6d73e9b54daa8029"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-196-2024",
+   "path": "local/bucuresti/sector-1/2024/196",
+   "short": "HCLS1 nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 196/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172771/196.2024_Anonimizata.pdf",
+     "sha256": "87d30287b570c71eaae29d5f5d1012ede75d13a83a0f2d14649f5480e0b3640e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-197-2024",
+   "path": "local/bucuresti/sector-1/2024/197",
+   "short": "HCLS1 nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 197/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172780/197.2024_Anonimizata.pdf",
+     "sha256": "6c02873db18b428f7f071e56e4fe9a61002058bdbc1bd6f81210c32a75408bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-198-2024",
+   "path": "local/bucuresti/sector-1/2024/198",
+   "short": "HCLS1 nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 198/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172776/198.2024_Anonimizata.pdf",
+     "sha256": "62122ef20fe510919e32b5a500b8cbf1c62468524a1d948b9fc8d76221acad49"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-199-2024",
+   "path": "local/bucuresti/sector-1/2024/199",
+   "short": "HCLS1 nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 199/2024 aprobarea proiectului Creșterea siguranței participanților la traficul pietonal și auto prin suprailuminarea și implementarea măsurilor necesare la nivelul trecerilor de pietoni în vederea protejării pietonilor de pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172778/199.2024_Anonimizata.pdf",
+     "sha256": "a77aa0359c7a16713d22e31c411386569e9d26dae6e064d5f9f85f07dbcae95c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-2-2024",
+   "path": "local/bucuresti/sector-1/2024/2",
+   "short": "HCLS1 nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 2/2024 privind modificarea Anexei nr. 2 la Hotărârea Consiliului Local al Sectorului 1 numărul 112/28.06.2022, privind aprobarea Organigramei și a Regulamentului de Organizare și Funcționare al Administrației Domeniului Public Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140552/2.2024_AN.pdf",
+     "sha256": "475be2214e8cc2f27bb6e22f07dc7fb33f71cd6b6964a0eb6ebd97719d15b964"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-20-2024",
+   "path": "local/bucuresti/sector-1/2024/20",
+   "short": "HCLS1 nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 20/2024 pentru modificarea Hotărârii Consiliului Local nr. 200/28.12.2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “ Modernizare și refuncționalizare / realizare construcție nouă – Piața Matache”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146832/20.2024_Anonimizata.pdf",
+     "sha256": "72cf472d695703860bd71a72bb56e83e21366700f5688ae48a826b5ac2061398"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-200-2024",
+   "path": "local/bucuresti/sector-1/2024/200",
+   "short": "HCLS1 nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 200/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/171642/200.2024_Anonimizata.pdf",
+     "sha256": "0553c8ebf620b5d5088d64713aebf55cfb9652c80374e871e1f6a61cda83635e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-201-2024",
+   "path": "local/bucuresti/sector-1/2024/201",
+   "short": "HCLS1 nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 201/2024 privind aprobarea realizării unui audit extern al activității instituțiilor aflate în subordinea Consiliului Local al Sectorului 1 Municipiul București și a Aparatului de specialitate al Primarului Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/172768/201.2024_Anonimizata.pdf",
+     "sha256": "0661287fa7e5abf7f241db9c8fd630a7fab91b33ce6829c502da78ff09a68406"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-202-2024",
+   "path": "local/bucuresti/sector-1/2024/202",
+   "short": "HCLS1 nr. 202/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 202/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174067/202.2024%20AN.pdf",
+     "sha256": "f803b01a02bbc99fd6ef94859e0836b795a2db9407c1a2f7e8721aec9437608b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-203-2024",
+   "path": "local/bucuresti/sector-1/2024/203",
+   "short": "HCLS1 nr. 203/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 203/2024 privind alegerea comisiei de validare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174066/203.2024%20AN.pdf",
+     "sha256": "00a299081c72f666ab7563e2093d988d971ce1269646fa11bb5c3592ab7aba32"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-204-2024",
+   "path": "local/bucuresti/sector-1/2024/204",
+   "short": "HCLS1 nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 204/2024 prin care se aprobă stabilirea domeniilor de activitate în care se pot organiza comisii de specialitate ale Consiliului Local al Sectorului 1, a numărului și denumirii acestora, a numărului membrilor fiecărei comisii de specialitate, a modului de stabilire a locurilor ce revin fiecărui grup de consilieri sau consilieri independenți și componența nominală a acestora",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174065/204.2024%20AN.pdf",
+     "sha256": "a7e6313cab15045fbaeec17b1a6d80c1cfcf1c7cdbde6c471582a3e736ef1894"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-205-2024",
+   "path": "local/bucuresti/sector-1/2024/205",
+   "short": "HCLS1 nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 205/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174064/205.2024%20AN.pdf",
+     "sha256": "98447fbaa8ce258c0641cadb98f5c91acf205d1f57fe865bef0332c979c727d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-206-2024",
+   "path": "local/bucuresti/sector-1/2024/206",
+   "short": "HCLS1 nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 206/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174063/206.2024%20AN.pdf",
+     "sha256": "392d6adf8b4bd93fd05fe8682e44d00845894e3a8d91cc06d531b7765acd1a0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-207-2024",
+   "path": "local/bucuresti/sector-1/2024/207",
+   "short": "HCLS1 nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 207/2024 privind aprobarea depunerii spre finanțare de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 a proiectului cu titlul “Centru multifuncțional cu dotări sportive și culturale”, Cod MySMIS 336632, în cadrul apelului de tip competitiv ”Centre multifuncționale cu dotări sportive și culturale pentru copii”, finanțat din Prioritatea P5 ”Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziunea socială și ceilalți copiii”, Programul Incluziune și Demnitate Socială 2021-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/174062/207.2024%20AN.pdf",
+     "sha256": "484eae4ed8a6106fe545860274e9719c5788b47d3df8df6f91a22fa68789a8fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-208-2024",
+   "path": "local/bucuresti/sector-1/2024/208",
+   "short": "HCLS1 nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 208/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175680/208.2024-anonimizat.pdf",
+     "sha256": "b12de977cfcd890189c88e14dfb618e0057726b8b4a3055c64526daf3e31d99c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-209-2024",
+   "path": "local/bucuresti/sector-1/2024/209",
+   "short": "HCLS1 nr. 209/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 209/2024 privind modificarea Hotărârii Consiliului Local nr. 193 din 05.12.2023 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii activității serviciului public de salubrizare a Sectorului 1, de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale în stații de sortare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175681/209.2024-anonimizat.pdf",
+     "sha256": "25764bbad2596004c72373554a1c66c3d807ea96cd368f767e2c92a7d1b25c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-21-2024",
+   "path": "local/bucuresti/sector-1/2024/21",
+   "short": "HCLS1 nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 21/2024 Proiect de hotărâre privind aprobarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului Bucuresti pe anul 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/145803/21.2024_Anonimizata.pdf",
+     "sha256": "dfa94ef4832fef6e488986ae3adf4c7fa6129ca50f0330af245334930da7f04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-210-2024",
+   "path": "local/bucuresti/sector-1/2024/210",
+   "short": "HCLS1 nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 210/2024 privind aprobarea solicitării către Guvernul României de creare a cadrului legal pentru dezvoltarea unui Sistem integrat între autoritățile publice locale, centrale și societatea civilă, privind prevenția, consilierea, tratamentul și reintegrarea socială a minorilor și tinerilor, victime ale consumului de droguri",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175682/210.2024-anonimizat.pdf",
+     "sha256": "6c027396be4c2627fc98a5fa9eb596ff180cce5ea02f8207f06a90e87e20398c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-211-2024",
+   "path": "local/bucuresti/sector-1/2024/211",
+   "short": "HCLS1 nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 211/2024 privind aprobarea ROF aparat de specialitate al PS1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175683/211.2024%20%2B%20NREM%20C_404_10.04.2025%20AN%201.pdf",
+     "sha256": "24d73a4c1f879ce71b91a1d78c2c53167b976eaf5ab2826a5bae8235854f1f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-212-2024",
+   "path": "local/bucuresti/sector-1/2024/212",
+   "short": "HCLS1 nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 212/2024 privind aprobarea Regulamentului de Organizare și Funcționare al Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175685/212.2024-Anonimizat.pdf",
+     "sha256": "aa4560a02b34bb0f1829b375f63a9547c8023712d1636a4fa8c15fc23dc18352"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-213-2024",
    "path": "local/bucuresti/sector-1/2024/213",
    "short": "HCLS1 nr. 213/2024",
@@ -44,6 +1919,216 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175687/213.2024_Anonimizata.pdf",
      "sha256": "bf9823357e8bf8ee7d308c27794940fa5c080c60f876a7ffe113de269e28b496"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-214-2024",
+   "path": "local/bucuresti/sector-1/2024/214",
+   "short": "HCLS1 nr. 214/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 214/2024 privind aprobarea Regulamentului de organizare și funcționare al Direcției de Utilități Publice, Salubritate și Protecția Mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175688/214.2024_Anonimizata.pdf",
+     "sha256": "69229d93d10d7ce68838a0a8b51be7c3a7fe5ad09c53d3feed3eb298b04de576"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-215-2024",
+   "path": "local/bucuresti/sector-1/2024/215",
+   "short": "HCLS1 nr. 215/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 215/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 81/11.04.2024 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al Municipiului București pentru anul 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178683/215.2024_AN.pdf",
+     "sha256": "f08eb32a03581222d8e6e7956e64125aea17b3cf756d88921c3c310399de6115"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-216-2024",
+   "path": "local/bucuresti/sector-1/2024/216",
+   "short": "HCLS1 nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 216/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 34 din 28.03.2022 privind organizarea de piețe tradiționale, volante și târguri pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178685/216.2024_AN.pdf",
+     "sha256": "5a4e01a0cf35dd86d0a05d5b0f7779a3d7685b75e7a27198634afa285851eb54"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-217-2024",
+   "path": "local/bucuresti/sector-1/2024/217",
+   "short": "HCLS1 nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 217/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea între Sectorul 1 al Municipiului București și Filiala București a Ordinului Arhitecților din România, în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176839/217.2024_scan_AN.pdf",
+     "sha256": "e56fcb691549d69614d7f257b98c1ed9bcbd6d7ce6e6057a7aad6759cfebfdd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-218-2024",
+   "path": "local/bucuresti/sector-1/2024/218",
+   "short": "HCLS1 nr. 218/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 218/2024 privind aprobarea componenței și a Regulamentului de Organizare și Funcționare ale Comisiei Locale de Ordine Publică Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178681/218.2024_AN.pdf",
+     "sha256": "21dd4ca4d0980eec1ff78229c53f8bfa5667fc0ba73fc9ae4995fcb5ca547af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-219-2024",
+   "path": "local/bucuresti/sector-1/2024/219",
+   "short": "HCLS1 nr. 219/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 219/2024 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 în Comisia Sectorului 1 pentru analiza solicitărilor și atribuirea de locuințe din fondul locativ de stat",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178684/219.2024_AN.pdf",
+     "sha256": "4df3bf306a1a5441de33312d2d2cf38c0b877f72c8a25d90ab45e16fc7317a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-22-2024",
+   "path": "local/bucuresti/sector-1/2024/22",
+   "short": "HCLS1 nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 22/2024 privind solicitarea către Consiliul General al Municipiului București de a aproba trecerea din administrarea Administrației Străzilor în administrarea Sectorului 1 al Municipiului București a străzii Turda în vederea reabilitării și modernizării",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/147084/22.2024_Anonimizata.pdf",
+     "sha256": "01fb7e62f9e8184d56f9caaa361e154c326633bee1b8d6dd708ddbb197fb1ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-220-2024",
+   "path": "local/bucuresti/sector-1/2024/220",
+   "short": "HCLS1 nr. 220/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 220/2024 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 în Comisia Sectorului 1 pentru verificarea conformității locative",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178682/220.2024_AN.pdf",
+     "sha256": "730b09e0459fa3467b15a8f5af32b2eea9eac901b53d91433c74b86c1bee23f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-221-2024",
+   "path": "local/bucuresti/sector-1/2024/221",
+   "short": "HCLS1 nr. 221/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 221/2024 privind alegerea viceprimarului Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178082/221.2024_AN.pdf",
+     "sha256": "91ca8e2c39454a7f1c1ae78e6d5ca234fca4edcd118ff6c656c1050a0f1c8461"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-222-2024",
+   "path": "local/bucuresti/sector-1/2024/222",
+   "short": "HCLS1 nr. 222/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 222/2024 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 în Comisia pentru Vânzarea spațiilor comerciale, proprietate privată a statului și a celor de prestări de servicii, Sector 1, constituită conform Legii nr.550/2002",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178707/222.2024_AN.pdf",
+     "sha256": "1c7e09fe15f44fc93122580d57f4d78c5ee951cb86598a4019fe85e3b3eb300f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-223-2024",
+   "path": "local/bucuresti/sector-1/2024/223",
+   "short": "HCLS1 nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 223/2024 privind aprobarea Metodologiei de acordare a ajutorului de urgență pentru plata chiriei, ca măsură de prevenire și combatere a excluziunii sociale",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178699/223.2024_AN.pdf",
+     "sha256": "7182f9aed8f5ddef07a4e16e8cf10fa3a376bb9d6f3b105885879b8de11d575e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-224-2024",
+   "path": "local/bucuresti/sector-1/2024/224",
+   "short": "HCLS1 nr. 224/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 224/2024 privind acordarea unui pachet aniversar persoanelor domiciliate în sectorul 1 al Municipiului București care au împlinit vărsta de 100 de ani",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178688/224.2024_AN.pdf",
+     "sha256": "edd88668265a1cb5a1815a2c3c5dc8449e56795482b543c07ca78fb3920cd945"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-225-2024",
+   "path": "local/bucuresti/sector-1/2024/225",
+   "short": "HCLS1 nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 225/2024 privind aprobarea Procedurii de anulare a unor obligații bugetare datorate bugetului local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178083/225.2024_AN.pdf",
+     "sha256": "aa087085a3202f9a58c6b2db3580e1e2e5499a82b0fe3af7d2c0ee96aaff760c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-226-2024",
+   "path": "local/bucuresti/sector-1/2024/226",
+   "short": "HCLS1 nr. 226/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 226/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178692/226.2024_AN.pdf",
+     "sha256": "0ab6f567e07018e65f30fa20778aef76479ea76efeabe753a71dffe851c17378"
     }
    ]
   },
@@ -63,6 +2148,141 @@
    ]
   },
   {
+   "slug": "hcls1-228-2024",
+   "path": "local/bucuresti/sector-1/2024/228",
+   "short": "HCLS1 nr. 228/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 228/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea între Sectorul 1 al Municipiului București și Inspectoratut pentru Situatii de Urgenta “Dealul Spirii” București - llfov , în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178705/228.2024_AN.pdf",
+     "sha256": "0245526af62c04a0f703f6a8a02446b3ae4d70e8666d662ecbb3f539c5867e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-229-2024",
+   "path": "local/bucuresti/sector-1/2024/229",
+   "short": "HCLS1 nr. 229/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 229/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea între Sectorul 1 al Municipiului București și Direcția Generală de Poliție a Municipiului București, în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178700/229.2024_AN.pdf",
+     "sha256": "70f59b712064a7f428f39a3f9e3cde06f9062ba6390bf8a2661a4bba13167385"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-23-2024",
+   "path": "local/bucuresti/sector-1/2024/23",
+   "short": "HCLS1 nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 23/2024 privind solicitarea căre solicitarea către Consiliul General al Municipiului București de a aproba transmiterea din administrarea Administrației Străzilor în administrarea Sectorului 1 al Municipiului București a Bulevardului Laminorului, pe perioada desfășurării lucrărilor de reabilitare și sistematizare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/115415/23.2024_Anonimizata.pdf",
+     "sha256": "9280d5ed69a0096819c48000eacf240309f37d2a2d063242feb0a9d75953042c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-230-2024",
+   "path": "local/bucuresti/sector-1/2024/230",
+   "short": "HCLS1 nr. 230/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 230/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asociere între Sectorul 1 al Municipiului București și Institutul Național al Patrimoniului, în vederea realizării unor acțiuni de interes public în vederea susținerii și promovării valorilor culturale și educaționale",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178704/230.2024_AN.pdf",
+     "sha256": "79e10f4cd5ad7e4999421b1266fe51ffb4bd143734c18ed946d73bab685ee919"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-231-2024",
+   "path": "local/bucuresti/sector-1/2024/231",
+   "short": "HCLS1 nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 231/2024 privind solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri prin care să se solicite Guvernului României emiterea unei hotărâri pentru trecerea unor imobile din domeniul public al statului și administrarea Regiei Naționale a Pădurilor - Romsilva, în domeniul public al Municipiului București și în administrarea Sectorului 1 al Municipiului București, în vederea realizării obiectivului de investiții ”Pădurea Parc Băneasa”, precum și declararea acestuia ca bun de interes public local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178703/231.2024_AN.pdf",
+     "sha256": "0283e47908b2251b5e0010d41b74da5c7fcb35915ad574e805f4fdc781b35f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-232-2024",
+   "path": "local/bucuresti/sector-1/2024/232",
+   "short": "HCLS1 nr. 232/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 232/2024 solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri prin care să se solicite Guvernului României emiterea unei hotărâri pentru trecerea unor imobile, reprezentând terenuri și construcții, din domeniul public al statului, în domeniul public al Municipiului București și în administrarea Sectorului 1, în vederea realizării obiectivului de investiții ”Parc Sportiv”, precum și declararea acestuia ca bun de interes public local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178698/232.2024_AN.pdf",
+     "sha256": "42d689f3c6ac9de57aaf50005010f27e06613ebee1e48bcaefd6034bbebf7afd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-233-2024",
+   "path": "local/bucuresti/sector-1/2024/233",
+   "short": "HCLS1 nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 233/2024 privind solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri prin care să se solicite Guvernului României emiterea unei hotărâri pentru trecerea unor imobile, reprezentând terenuri și construcții, din domeniul privat al statului prin Agenția Națională pentru Sport, în domeniul privat al Municipiului București și în administrarea Consiliului Local al Sectorului 1, în vederea realizării obiectivului de investiții ”Parc Sportiv”, precum și declararea acestuia ca obiectiv de interes local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178696/233.2024_AN.pdf",
+     "sha256": "f1f1ebab5f80b5706eaeb0964dd44d61b65b35741c4354930977e89b9b73ae66"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-234-2024",
+   "path": "local/bucuresti/sector-1/2024/234",
+   "short": "HCLS1 nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 234/2024 privind solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri prin care să se solicite Guvernului României emiterea unei hotărâri pentru trecerea imobilului teren în suprafață de 5.000 mp în acte/4.194 mp măsurată situat în șos. Kiseleff, nr.61, Sector 1, București, reprezentând teren din domeniul public al statului, în domeniul public al Municipiului București și în administrarea Sectorului 1, în vederea realizării unui proiect de regenerare urbană",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178701/234.2024_AN.pdf",
+     "sha256": "dd87e3ad032e00345e316369c605c5c422784ce4b42e4521268b82b59158c911"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-235-2024",
+   "path": "local/bucuresti/sector-1/2024/235",
+   "short": "HCLS1 nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 235/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178694/235.2024_AN.pdf",
+     "sha256": "43e2fe7aae3fcc014e76c796e1126ed9f3dd23427eeb301684bfed72807a33f0"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-236-2024",
    "path": "local/bucuresti/sector-1/2024/236",
    "short": "HCLS1 nr. 236/2024",
@@ -74,6 +2294,501 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178766/236.2024_AN.pdf",
      "sha256": "20859b3b3204e8c52f0f1c981ccdf918c59e9987108ac4117a0f2fe658058a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-237-2024",
+   "path": "local/bucuresti/sector-1/2024/237",
+   "short": "HCLS1 nr. 237/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 237/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ teritoriale Sectorul 1 al municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178697/237.2024_AN.pdf",
+     "sha256": "e1f3131bc6912b79c4b2f14bd10c6bf0933635a64f7390a8c212536efae25c19"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-238-2024",
+   "path": "local/bucuresti/sector-1/2024/238",
+   "short": "HCLS1 nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 238/2024 privind aprobarea înființării la nivelul Sectorului 1 al Municipiului București a Comitetului Consultativ pentru Economia Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178693/238.2024_AN.pdf",
+     "sha256": "499d6fbd7f45e9c4717a8b0243a55e626d7025076c8e0f13d6993ecdb66c5e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-239-2024",
+   "path": "local/bucuresti/sector-1/2024/239",
+   "short": "HCLS1 nr. 239/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 239/2024 privind aprobarea achiziționării de servicii juridice consultanță, asistență juridică și/sau reprezentare a Primarului Sectorului 1 al Municipiului București și/sau a Consiliului Local Sector 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178702/239.2024_AN.pdf",
+     "sha256": "3336c66c4e49f72f992378efaef2e96ab0736b2bd3e19b07e6a7559f979d18b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-24-2024",
+   "path": "local/bucuresti/sector-1/2024/24",
+   "short": "HCLS1 nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 24/2024 Proiect de hotărâre privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1 la data de 30 septembrie 2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96117/24.2024_AN.pdf",
+     "sha256": "36515adef9ab9ea5442bfba32f4c962c934354fe6204fa18e7b344d9119c427e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-240-2024",
+   "path": "local/bucuresti/sector-1/2024/240",
+   "short": "HCLS1 nr. 240/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 240/2024 privind aprobarea încheierii Protocolului-cadru privind cooperarea între structurile aparatului de specialitate al Primarului Sectorului 1,Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1, Direcția Generală de Impozite și Taxe Locale Sector 1 și Direcția Generală de Asistență Socială și Protecția Copilului Sector 1, în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178690/240.2024_AN.pdf",
+     "sha256": "e55047bf96347e7d1ff0967447b2488f002d4c5998c84ec0b3887df243fa3b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-241-2024",
+   "path": "local/bucuresti/sector-1/2024/241",
+   "short": "HCLS1 nr. 241/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 241/2024 pentru stabilirea salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaționale ”Administrație” din cadrul aparatului de specialitate al Primarului Sectorului 1 și Direcția Publică de Evidență a Persoanelor și Stare Civilă Sector 1, precum și din instituțiile publice locale subordonate primarului/consiliului local Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178695/241.2024_AN.pdf",
+     "sha256": "23efcf698177d05868896535a792b9e1e7c0b2ca384017b97f65b9b07bb8f88d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-242-2024",
+   "path": "local/bucuresti/sector-1/2024/242",
+   "short": "HCLS1 nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 242/2024 privind aprobarea unui sprijin financiar Patriarhiei Române în valoare de 10.000.000,00 lei pentru finanțarea unor lucrări la Catedrala Mântuirii Neamului (Catedrala Neamului)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178689/242.2024_AN.pdf",
+     "sha256": "a68999c69a2470fdd1901da295d504289d1feb11ffb9414305757bb4541ea206"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-243-2024",
+   "path": "local/bucuresti/sector-1/2024/243",
+   "short": "HCLS1 nr. 243/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 243/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asociere între Sectorul 1 al Municipiului București și Ministerul Transporturilor și Infrastructurii , în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178687/243.2024_AN.pdf",
+     "sha256": "e2f6a155fcccdd4a2ff4d6290f46f2c09baf8d1b7700e20b127e83733a8f7aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-244-2024",
+   "path": "local/bucuresti/sector-1/2024/244",
+   "short": "HCLS1 nr. 244/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 244/2024 privind aprobarea implementării proiectului cultural „Promovarea performanței în Sectorul 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178691/244.2024_AN.pdf",
+     "sha256": "9f761d515c7f5416c18796e973a0e4ca2c35516601d9a2b6bab884268c831b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-245-2024",
+   "path": "local/bucuresti/sector-1/2024/245",
+   "short": "HCLS1 nr. 245/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 245/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asociere între Sectorul 1 al Municipiului București și Consiliul Național al Rectorilor , în vederea realizării unor acțiuni de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178686/245.2024_AN.pdf",
+     "sha256": "08e8d228513e0dea6142238a9fe44e311d38df5f2a61c4a9dba4b778c8e68717"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-246-2024",
+   "path": "local/bucuresti/sector-1/2024/246",
+   "short": "HCLS1 nr. 246/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 246/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ teritoriale Sectorul 1 al municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179950/hcl.246.2024_AN.pdf",
+     "sha256": "d7f36db7e56a11b334b0b9db1d4a4f4842314b464a0eecf9bf1b83b6cfb215b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-247-2024",
+   "path": "local/bucuresti/sector-1/2024/247",
+   "short": "HCLS1 nr. 247/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 247/2024 privind majorarea cu 400% a impozitului pe clădiri pentru clădirea situată în București, Sectorul 1, str. Slt. Zaharia nr....., coproprietar T. O.-A., ca urmare a constatării de clădire neîngrijită, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179951/hcl.247.2024_AN.pdf",
+     "sha256": "e74a5c75653e3114567420cfe6c5568d368255ea0d24f0aba0e41c4287a33ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-248-2024",
+   "path": "local/bucuresti/sector-1/2024/248",
+   "short": "HCLS1 nr. 248/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 248/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179952/hcl.248.2024_AN.pdf",
+     "sha256": "e4c12d69917fa383fef5f4282fa9bfd8e5c8bc6b710edb69333a7bfe8c363a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-249-2024",
+   "path": "local/bucuresti/sector-1/2024/249",
+   "short": "HCLS1 nr. 249/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 249/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179953/hcl.249.2024_AN.pdf",
+     "sha256": "5065bcf0e9235cf5fc0c998c38e2fe8323c1d7d4343fb5df776a041f138eba20"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-25-2024",
+   "path": "local/bucuresti/sector-1/2024/25",
+   "short": "HCLS1 nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 25/2024 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1, la data de 30 iunie 2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95879/25.2024.cu%20OM%20SG%206%20din%2013.03.2024_Anonimizata.pdf",
+     "sha256": "1819f273d99b8cbee27521cb90a4552b08ebe9309d94534f613ca08077db6404"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-250-2024",
+   "path": "local/bucuresti/sector-1/2024/250",
+   "short": "HCLS1 nr. 250/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 250/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179954/hcl.250.2024_AN.pdf",
+     "sha256": "e8abacfcc69bc1d46405ccea7dd8f7329a190ef535b51cc63253412a218ff94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-251-2024",
+   "path": "local/bucuresti/sector-1/2024/251",
+   "short": "HCLS1 nr. 251/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 251/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179955/hcl.251.2024_AN.pdf",
+     "sha256": "cc8256877d921dadcc7b5cb6489bfec363566c8385e4f82730901cafc9d95915"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-252-2024",
+   "path": "local/bucuresti/sector-1/2024/252",
+   "short": "HCLS1 nr. 252/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 252/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179956/hcl.252.2024_AN.pdf",
+     "sha256": "5bd86d6a79d475584c19ba641afc96e2bcd729f2f650ee5071b2ddd7d0074aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-253-2024",
+   "path": "local/bucuresti/sector-1/2024/253",
+   "short": "HCLS1 nr. 253/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 253/2024 privind majorarea cu 300% a impozitului pe clădiri pentru clădirea situată în București, Sectorul 1, str. Iulia Hașdeu nr......., coproprietar E. A.-M.-C., ca urmare a constatării stării de clădire neîngrijită, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179957/hcl.253.2024_AN.pdf",
+     "sha256": "7d9fb0f5ff69ef56101636dc395a0181a58e3d94b9fc4cdc6bcf9066c9b78694"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-254-2024",
+   "path": "local/bucuresti/sector-1/2024/254",
+   "short": "HCLS1 nr. 254/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 254/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179958/hcl.254.2024_AN.pdf",
+     "sha256": "9168e8f1d7c88d60bdc2c26aed0b674b74bc0e7f3a1bfc2e281e3503388fac1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-255-2024",
+   "path": "local/bucuresti/sector-1/2024/255",
+   "short": "HCLS1 nr. 255/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 255/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179959/hcl.255.2024_AN.pdf",
+     "sha256": "504b4dda4c9b18db0c227e766265541392d34f08e62f375c5e48002edf93f50b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-256-2024",
+   "path": "local/bucuresti/sector-1/2024/256",
+   "short": "HCLS1 nr. 256/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 256/2024 majorarea cu 300% a impozitului pe clădiri pentru clădirea situată în București, Sectorul 1, str. Iulia Hașdeu nr....., coproprietar G. A.-R., ca urmare a constatării stării de clădire neîngrijită, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179960/hcl.256.2024_AN.pdf",
+     "sha256": "fe35ca95583847628a560526b0a459f017a207e8bdd7a5e784bd4c60024b9f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-257-2024",
+   "path": "local/bucuresti/sector-1/2024/257",
+   "short": "HCLS1 nr. 257/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 257/2024 privind majorarea cu 300% a impozitului pe clădiri pentru clădirea situată în București, Sectorul 1, str. Iulia Hașdeu nr........., coproprietar S. E.-A., ca urmare a constatării stării de clădire neîngrijită, începând cu anul 2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179961/hcl.257.2024_AN.pdf",
+     "sha256": "08f06478e1daf43d31c7a198f9a9b85cb56bf25969bfd52bb87c6e85edf30fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-258-2024",
+   "path": "local/bucuresti/sector-1/2024/258",
+   "short": "HCLS1 nr. 258/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 258/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179962/hcl.258.2024_AN.pdf",
+     "sha256": "4ae6541775251309ba109a309e449eb1569d7f90162f5cd51ef6ce8484881d2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-259-2024",
+   "path": "local/bucuresti/sector-1/2024/259",
+   "short": "HCLS1 nr. 259/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 259/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179963/hcl.259.2024_AN.pdf",
+     "sha256": "a7dad68196810e156db8ec32b89c8fa6cd5db1345ce22490085e31bced7eb50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-26-2024",
+   "path": "local/bucuresti/sector-1/2024/26",
+   "short": "HCLS1 nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 26/2024 Proiect de hotărâre privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1, la data de 30 noiembrie 2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96291/26.2024_AN.pdf",
+     "sha256": "be54ff56f68461cb20e9c38459e6f56feb372da2ac692255271d6e8f3f005489"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-260-2024",
+   "path": "local/bucuresti/sector-1/2024/260",
+   "short": "HCLS1 nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 260/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-261-2024",
+   "path": "local/bucuresti/sector-1/2024/261",
+   "short": "HCLS1 nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 261/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179964/hcl.261.2024_AN.pdf",
+     "sha256": "71b789f21f4225db0eda5866db1c44c0bcfa88f372e81804feb2d43f05b14b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-262-2024",
+   "path": "local/bucuresti/sector-1/2024/262",
+   "short": "HCLS1 nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 262/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179965/hcl.262.2024_AN.pdf",
+     "sha256": "eaf160a7e69cfc176d670edded79cf23ed0dce943aec5a8c83851393693347e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-263-2024",
+   "path": "local/bucuresti/sector-1/2024/263",
+   "short": "HCLS1 nr. 263/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 263/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179966/hcl.263.2024_AN.pdf",
+     "sha256": "38a98456bfcfac20245ddda8346aca7b122baa4d8dc684b76d197f8998de0f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-264-2024",
+   "path": "local/bucuresti/sector-1/2024/264",
+   "short": "HCLS1 nr. 264/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 264/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179967/hcl.264.2024_AN.pdf",
+     "sha256": "c1770a6d9c8fe7ed03d872271abdc7f18b2021b26fa36b05ced93089bf1ffde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-265-2024",
+   "path": "local/bucuresti/sector-1/2024/265",
+   "short": "HCLS1 nr. 265/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 265/2024 privind constituirea Comisiei mixte pentru gestionarea titlurilor executorii și executărilor silite rezultate din Contractul de delegare a gestiunii prestării serviciilor de salubrizare nr. J077/S/30.06.2008, încheiat între Consiliul Local al Sectorului 1 al Municipiului București și Compania Romprest S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/179949/hcl.265.2024_AN.pdf",
+     "sha256": "6da3916d4cb9ae2d821db5a109358a183d6782dbefd802e3a0eebcefa64d7611"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-27-2024",
+   "path": "local/bucuresti/sector-1/2024/27",
+   "short": "HCLS1 nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 27/2024 privind aprobarea Conturilor de execuţie pe surse de finanţare, Situaţiile financiare, inclusiv anexele la acestea, la data de 31 decembrie 2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98160/27.2024_Anonimizata.pdf",
+     "sha256": "582ca984de036c3ddd21cf057b2a47a36957339f44071bf0bc5d2ef914386b1c"
     }
    ]
   },
@@ -93,6 +2808,711 @@
    ]
   },
   {
+   "slug": "hcls1-29-2024",
+   "path": "local/bucuresti/sector-1/2024/29",
+   "short": "HCLS1 nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 29/2024 privind alegerea președintelui de ședință pentru a continua dezbaterile ședinței extraordinare convocată de îndată a Consiliului Local al Sectorului 1 al Municipiului București din data de 08.03.2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-3-2024",
+   "path": "local/bucuresti/sector-1/2024/3",
+   "short": "HCLS1 nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 3/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 262/07.08.2018 privind aprobarea implementării Programului ”Educație pentru viață” pentru elevii din învățământul preuniversitar de stat din Sectorul 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140544/3.2024_AN.pdf",
+     "sha256": "2d273590d2f05cc16e7d19d959d81f42b3394b26bf6bc6f25b4c3adfd0855d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-30-2024",
+   "path": "local/bucuresti/sector-1/2024/30",
+   "short": "HCLS1 nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 30/2024 privind aprobarea Strategiei Smart City a Sectorului 1 al Municipiului București 2024-2030",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-31-2024",
+   "path": "local/bucuresti/sector-1/2024/31",
+   "short": "HCLS1 nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 31/2024 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1 la data de 31 martie 2022",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98336/31.2024_Anonimizata.pdf",
+     "sha256": "b44b92771bdef9f3e78f03e91ee5b3655bfe81be308e27b112af97fd31de78b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-32-2024",
+   "path": "local/bucuresti/sector-1/2024/32",
+   "short": "HCLS1 nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 32/2024 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 la data de 30.06.2022",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98791/32.2024_Anonimizata.pdf",
+     "sha256": "dceac9e7a900efa1ca8ca6326f5536101bfb06d719314acd97b327ffb0548318"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-33-2024",
+   "path": "local/bucuresti/sector-1/2024/33",
+   "short": "HCLS1 nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 33/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152274/33.2024_AN.pdf",
+     "sha256": "67da3c1b6f7badb0a3cb38fcc53af533950b132007d30d350610e8fee718b207"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-34-2024",
+   "path": "local/bucuresti/sector-1/2024/34",
+   "short": "HCLS1 nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 34/2024 pentru modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 128/14.09.2023 pentru stabilirea unor măsuri cu privire la salariile de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaționale ”Administrație” din aparatul de specialitate al Primarului Sectorului 1 și din instituția subordonată Consiliului Local Sector 1 – Direcția Publică de Evidență a Persoanelor și Stare Civilă Sector 1, precum și a instituțiilor publice locale subordonate Consiliului Local al Sectorului 1 și a Primarului Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152272/34.2024_AN.pdf",
+     "sha256": "0390e90371636ea1f2bda2b0bf8f3eccf8c188e9bd8e3acea49ab097d77fb878"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-35-2024",
+   "path": "local/bucuresti/sector-1/2024/35",
+   "short": "HCLS1 nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 35/2024 privind aprobarea implementării Proiectului educațional și social „Grădinița de Vacanță - Pachet de servicii educaționale și sociale pentru preșcolari în perioada iulie - august 2024”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152264/35.2024_AN.pdf",
+     "sha256": "5a21e46b0fd3babb3a217fda4369d95bba1f55deba24b4c0992a935c744b1321"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-36-2024",
+   "path": "local/bucuresti/sector-1/2024/36",
+   "short": "HCLS1 nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 36/2024 privind aprobarea implementării Proiectului Educațional „Școala de vară, perioada iulie-august 2024”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152268/36.2024_AN.pdf",
+     "sha256": "449089c64724fadf6f3a278dc770270604f929d9d9ac6d3fafca32dea67c29a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-37-2024",
+   "path": "local/bucuresti/sector-1/2024/37",
+   "short": "HCLS1 nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 37/2024 pentru acordarea unui stimulent financiar în cuantum de 1.000 lei, copii cu handicap grav cu asistent personal care își au domiciliul sau reședința pe raza Sectorului 1 al municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146814/37.2024_AN.pdf",
+     "sha256": "06f59c739a8a35801b12cf6e3778e85ba73255a8bf5515a3cc4d19981d6ba25a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-38-2024",
+   "path": "local/bucuresti/sector-1/2024/38",
+   "short": "HCLS1 nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 38/2024 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Asociația Sf. Ana, în vederea derulării proiectului ”Centrul de zi Ana”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152270/38.2024_AN.pdf",
+     "sha256": "c97c57733cf54d1cadbd3baee790366a8a97253788144ee1c65361c3a8278aaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-39-2024",
+   "path": "local/bucuresti/sector-1/2024/39",
+   "short": "HCLS1 nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 39/2024 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Asociația Alternativa 2003, în vederea derulării proiectului ”Centrul de zi Alternativa”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152271/39.2024_AN.pdf",
+     "sha256": "d40a0b4f18aaa619a5787d66534adcfef862336e44cc47aeca4a955d1843ba47"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-4-2024",
+   "path": "local/bucuresti/sector-1/2024/4",
+   "short": "HCLS1 nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 4/2024 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 1 nr. 122/29.07.2022 privind înființarea unității de învățământ pentru educație timpurie – nivel antepreșcolar – Creșa ”RODACIE”, ca instituție cu personalitate juridică, prin reorganizarea Centrelor de zi de tip creșă din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140553/4.2024_AN.pdf",
+     "sha256": "4ded98d3a130ff65f65de9a3540cc5c5640bb8ba9634f9a8235f4b0644b256f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-40-2024",
+   "path": "local/bucuresti/sector-1/2024/40",
+   "short": "HCLS1 nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 40/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146820/40.2024_AN.pdf",
+     "sha256": "c901c090fb9364658688ac7ff4305ee1e66957f0811aa423dfc50f6fe68e847f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-41-2024",
+   "path": "local/bucuresti/sector-1/2024/41",
+   "short": "HCLS1 nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 41/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146829/41.2024_AN.pdf",
+     "sha256": "6f893182b217f3da72ff1dc29e067c529503fcf01bd4b2380f9419496582ba59"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-42-2024",
+   "path": "local/bucuresti/sector-1/2024/42",
+   "short": "HCLS1 nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 42/2024 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții proiectare și execuție „Modernizare si Repararea Infrastructurii Urbane din Sectorul 1 al Municipiului București – Lot 1 - Strada Drumul Cavnic ”, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151160/42.2024_AN.pdf",
+     "sha256": "9339f3baf3a3eb4d3992538c47f3d0f8332de4215d979bd2de851aeb7bf8259b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-43-2024",
+   "path": "local/bucuresti/sector-1/2024/43",
+   "short": "HCLS1 nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 43/2024 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții proiectare și execuție „Modernizare si Repararea Infrastructurii Urbane din Sectorul 1 al Municipiului București – Lot 1 - Drumul Arieș ”, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151161/43.2024_AN.pdf",
+     "sha256": "fd3dc547ca1f99e4728acbbcf1cea708002ea2a6ed72ac09c372ee70b8eb6d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-44-2024",
+   "path": "local/bucuresti/sector-1/2024/44",
+   "short": "HCLS1 nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 44/2024 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții proiectare și execuție „Modernizare si Repararea Infrastructurii Urbane din Sectorul 1 al Municipiului București – Lot 1 - Drumul Ohaba ”, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151162/44.2024_AN.pdf",
+     "sha256": "cfa8a960111461b23a0b404bc9483a7cad7c5902aaa35b6a08f5d85ec2c955ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-45-2024",
+   "path": "local/bucuresti/sector-1/2024/45",
+   "short": "HCLS1 nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 45/2024 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții proiectare și execuție „Modernizare si Repararea Infrastructurii Urbane din Sectorul 1 al Municipiului București – Lot 1 - Strada Drumul Homorod ”, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151164/45.2024_AN.pdf",
+     "sha256": "2e66c84ddea14339e1630e223ea2d4212163a777f689f2dd7d6089ff98b94cac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-46-2024",
+   "path": "local/bucuresti/sector-1/2024/46",
+   "short": "HCLS1 nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 46/2024 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții proiectare și execuție „Modernizare si Repararea Infrastructurii Urbane din Sectorul 1 al Municipiului București – Lot 1 - Strada Drumul Nădlac ”, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151166/46.2024_AN.pdf",
+     "sha256": "b8bee11cf08bfa49624956b8396bf60c8611292aa64e84bcf1ff6ab74301adc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-47-2024",
+   "path": "local/bucuresti/sector-1/2024/47",
+   "short": "HCLS1 nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 47/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146804/47.2024_AN.pdf",
+     "sha256": "ed03a9579e8de532012a370374944282f0a38d0c015d7cab1331c4bbb05f2039"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-48-2024",
+   "path": "local/bucuresti/sector-1/2024/48",
+   "short": "HCLS1 nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 48/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146808/48.2024_AN.pdf",
+     "sha256": "fe6b40f910c0e0bc182733f4ad5cd8006f0011319c2e749e9fdb052ddb9d9660"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-49-2024",
+   "path": "local/bucuresti/sector-1/2024/49",
+   "short": "HCLS1 nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 49/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149513/49.2024_AN.pdf",
+     "sha256": "dc94d38c56f432b1499088be9fc412f92d92ba9cf278ddca9856294741234a1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-5-2024",
+   "path": "local/bucuresti/sector-1/2024/5",
+   "short": "HCLS1 nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 5/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 51/09.05.2023 pentru aprobarea rețelei școlare de stat și particulare pe raza sectorului 1 al municipiului București pentru anul 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/141843/5.2024_AN.pdf",
+     "sha256": "841ffaa2f1b5e535ee17b370c0f4ed43e7e2edb39fc3576ebdbe32e41779f89b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-50-2024",
+   "path": "local/bucuresti/sector-1/2024/50",
+   "short": "HCLS1 nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 50/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149515/50.2024_AN.pdf",
+     "sha256": "b5f938f9f8a542024f61f3fc2ef8699faecaecda1787413eb6ed6849774e5451"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-51-2024",
+   "path": "local/bucuresti/sector-1/2024/51",
+   "short": "HCLS1 nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 51/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149511/51.2024_AN.pdf",
+     "sha256": "85312fde82d83c3ce5cfe86aabbbfd6b8ac1ac1a49f449cbf0b459c3fe70bf10"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-52-2024",
+   "path": "local/bucuresti/sector-1/2024/52",
+   "short": "HCLS1 nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 52/2024 privind modificarea anexei 6 și 7 a Hotărârii Consiliului Local al Sectorului 1 nr.280/23.11.2020 prin care se aprobă stabilirea domeniilor de activitate în care se pot organiza comisii de specialitate ale Consiliului Local al Sectorului 1, a numărului și denumirii acestora, a numărului membrilor fiecărei comisii de specialitate, a modului de stabilire a locurilor ce revin fiecărui grup de consilieri sau consilieri independenți și componența nominală a acestora, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151144/52.2024_AN.pdf",
+     "sha256": "0424a681040be2ca6a853db326b0917d56ad242adb0b73463fbd9e691ef4e051"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-53-2024",
+   "path": "local/bucuresti/sector-1/2024/53",
+   "short": "HCLS1 nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 53/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149506/53.2024_AN.pdf",
+     "sha256": "170c200c181417f325b034aa30b531a4b7ed6eac74a805b06c223220730060be"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-54-2024",
+   "path": "local/bucuresti/sector-1/2024/54",
+   "short": "HCLS1 nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 54/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149509/54.2024_AN.pdf",
+     "sha256": "14e33e3898836594fab3b8ffddd5ebeb5cf3a080c98e16fea423658a666634ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-55-2024",
+   "path": "local/bucuresti/sector-1/2024/55",
+   "short": "HCLS1 nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 55/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 23/28.01.2021 privind desemnarea reprezentaților în Comisia Sectorului 1 pentru analiza solicitărilor și atribuirea de locuințe din fondul locativ de stat conform prevedrilor Legii locuinței nr. 114/1996, republicată cu modificările și completările ulterioare și ale Hotărârii Guvernului României nr. 1275/2000, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152269/55.2024_AN.pdf",
+     "sha256": "10757c47f385bb20776b60482187ed85bb667037226409fc5168803ca9e8f04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-56-2024",
+   "path": "local/bucuresti/sector-1/2024/56",
+   "short": "HCLS1 nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 56/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/153072/56.2024%20cu%20OM%20SG%20nr.%209%20din%2002.04.2024_Anonimizata.pdf",
+     "sha256": "2ba8b10379d832ae6891e0170d8f082d297addecf2e3b8ab230b4e2eac3b87d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-57-2024",
+   "path": "local/bucuresti/sector-1/2024/57",
+   "short": "HCLS1 nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 57/2024 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București la data de 28.03.2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154556/57.2024%20cu%20OM%20SG%20nr.%2010%20din%2010.04.2024_Anonimizata.pdf",
+     "sha256": "c3d534e707d83fcd2207a4cd5882220aa1b6e438a8405efa622829582170284a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-58-2024",
+   "path": "local/bucuresti/sector-1/2024/58",
+   "short": "HCLS1 nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 58/2024 privind aprobarea rectificării, la data de 01.04.2024, a bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154756/58.2024%20cu%20amendament%20integrat%20-%20AN.pdf",
+     "sha256": "51e4c435d2b796202fbfa1c72af5b9285353ace5359770f82b9caf1f605fadb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-59-2024",
+   "path": "local/bucuresti/sector-1/2024/59",
+   "short": "HCLS1 nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 59/2024 privind stabilirea salariilor de bază și a coeficienților pentru funcționarii publici și personalul contractual încadrați în funcții din familia ocupațională “Administrație” din administrația publică locală, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/156116/59.2024_Anonimizata.pdf",
+     "sha256": "e636069532634d2f0c913ea4790831c0b3555e846e19c2335c19b554438b293b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-6-2024",
+   "path": "local/bucuresti/sector-1/2024/6",
+   "short": "HCLS1 nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 6/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 167/23.11.2023 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 1 în Consiliile de Administraţie în unitățile de învăţământ preuniversitar de stat din Sectorul 1, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/142922/6.2024_AN.pdf",
+     "sha256": "363b2efaafeedf86f05100802f08e58f16455565012601cd793d38109bec0ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-60-2024",
+   "path": "local/bucuresti/sector-1/2024/60",
+   "short": "HCLS1 nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 60/2024 privind modificarea și completarea Hotărârii Consiliului Local nr. 155 din 07.11.2023 privind stabilirea tipului de suport alimentar și a modalității de distribuire a acestuia preșcolarilor și elevilor Școlii Gimnaziale Nr. 178 și Școlii Gimnaziale Uruguay, Sector 1 pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154923/60.2024_Anonimizata.pdf",
+     "sha256": "da1e9b82588831373a911dfd4a14ec5595fb51ebc65c529f576fa97ad3abac75"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-61-2024",
+   "path": "local/bucuresti/sector-1/2024/61",
+   "short": "HCLS1 nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 61/2024 privind aprobarea modificării denumirii Colegiului Tehnic Mecanic ”Grivița”, din Sectorul 1 al Municipiului București, în Colegiul Tehnic ”Valter Mărăcineanu”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154924/61.2024_Anonimizata.pdf",
+     "sha256": "be06aad8c3823aaa4ee1d6b21c1d3fd2948a8b3910d97357f205848575756c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-62-2024",
+   "path": "local/bucuresti/sector-1/2024/62",
+   "short": "HCLS1 nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 62/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr.149/26.10.2023 privind aprobarea implementării Proiectului educațional „Educație și viitor pentru toți” la nivelul tuturor unităților de învățământ de stat de pe raza Sectorului 1 al Municipiului București, pentru anul școlar 2023 - 2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155265/62.2024_Anonimizata.pdf",
+     "sha256": "9e9af2473e957569be292d8b03dc4b3c4fbb19adcbfc4e2e0b371e6cf62339b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-63-2024",
+   "path": "local/bucuresti/sector-1/2024/63",
+   "short": "HCLS1 nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 63/2024 privind aprobarea implementării Proiectului „Suntem lângă tine!”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155267/63.2024_Anonimizata.pdf",
+     "sha256": "13932c0de6370f63ecb7d0ba4520c27c7d3ff72a0e16ef241fca86ab7395542f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-64-2024",
+   "path": "local/bucuresti/sector-1/2024/64",
+   "short": "HCLS1 nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 64/2024 privind aprobarea altor tipuri de burse, acordate de autoritățile publice locale pentrul anul școlar 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155512/64.2024_Anonimizata.pdf",
+     "sha256": "cbedf906e05036dd9a1eac6f1b9872e13fa267041453107abecd702de48b9d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-65-2024",
+   "path": "local/bucuresti/sector-1/2024/65",
+   "short": "HCLS1 nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 65/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154755/65.2024_Anonimizata.pdf",
+     "sha256": "389bf34cb356245b2b32547b3b7bf60817cc92a0fcbebeff36666007e436f831"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-66-2024",
+   "path": "local/bucuresti/sector-1/2024/66",
+   "short": "HCLS1 nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 66/2024 privind încheierea unui contract de asociere între Sectorul 1 al Municipiului București și Sectorul 6 al Municipiului București, în vederea finanțării în comun a cheltuielilor necesare pentru realizarea lucrărilor obiectivului de investiții „Pasaj rutier superior Podul Săbăreni”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154552/66.2024_Anonimizata.pdf",
+     "sha256": "b9890b070cb28058ddf2619509a25b5f2afb635fe23e9eb8f3662cf61adc1815"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-67-2024",
+   "path": "local/bucuresti/sector-1/2024/67",
+   "short": "HCLS1 nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 67/2024 privind aprobarea Actului Adițional nr. 1 la Acordul de Parteneriat aprobat prin Hotărârea Consiliului Local al sectorului 1 nr. 127/14.09.2023 privind Aprobarea Acordul de Parteneriat, în vederea implementării proiectului ”Modernizarea Cabinetului de Planificare Familială din cadrul Complexului Multifuncţional Caraiman” în cadrul apelurilor de proiecte - cod apel: MS-0015, pilonul V: Sănătate şi rezilienţă instituţională, componenta 12: Sănătate, investiţia: I1. Dezvoltarea infrastructurii medicale prespitaliceşti, investiţia specifică: I1.5. Cabinete de planificare familială, aferent Planului naţional de redresare şi rezilienţă",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/156111/67.2024_Anonimizata.pdf",
+     "sha256": "40546f1d2be3164e5422eaa6534770bf53d03c8afabf416cf3702b85e989c5ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-68-2024",
+   "path": "local/bucuresti/sector-1/2024/68",
+   "short": "HCLS1 nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 68/2024 privind aprobarea și finanțarea proiectului cu titlul “Crearea de păduri urbane în Sectorul 1 al Municipiului București” în cadrul apelului de proiecte PNRR/2023/C2/ Componenta C2 – Păduri și protecția biodiversității",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155521/68.2024_Anonimizata%20%281%29.pdf",
+     "sha256": "49731430bd9e817cbc93e7db44ed2369c29ea05ebfcc9e8d05619d37c58eb386"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-69-2024",
+   "path": "local/bucuresti/sector-1/2024/69",
+   "short": "HCLS1 nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 69/2024 privind cooperarea dintre Direcția Generală de Asistență Socială și Protecția Copilului Sector 1 și Fundația Viață și Lumină, în vederea derulării proiectului ”Centrul de plasament Viață și Lumină”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155530/69.2024_Anonimizata.pdf",
+     "sha256": "582dae6b19d7a9f386893634f692cb60bf99807c0732991a1dff57975a9cdbf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-7-2024",
+   "path": "local/bucuresti/sector-1/2024/7",
+   "short": "HCLS1 nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 7/2024 privind aprobarea Documentației Tehnico-Economice și a indicatorilor tehnico-economici ai obiectivului de investiții „Pasaj rutier superior Podul Săbăreni, Sector 1”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/142923/7.2024_AN.pdf",
+     "sha256": "3e06adc4a64b9bd7e2c0d76cdd2bb643a674557d48e4239c3c145c2bf0479760"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-70-2024",
+   "path": "local/bucuresti/sector-1/2024/70",
+   "short": "HCLS1 nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 70/2024 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la încheierea unui protocol de cooperare între Sectorul 1 al Municipiului București și Asociația Inițiativa Civică Bucureștii Noi în vederea finanțării și realizării în comun a proiectului sportiv de interes public local denumit Jocurile Cartierului Bucureștii Noi în Parcul Bazilescu",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152750/70.2024_Anonimizata.pdf",
+     "sha256": "79395da6697a798580e5cd7da8bc710c32806debe10495b827754b8049080d3c"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-71-2024",
    "path": "local/bucuresti/sector-1/2024/71",
    "short": "HCLS1 nr. 71/2024",
@@ -104,6 +3524,456 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/150275/71.2024_Anonimizata.pdf",
      "sha256": "fec7261f289a7e78de1e164e689a1f324c448741ed9aa3c3724847ccd56f4fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-72-2024",
+   "path": "local/bucuresti/sector-1/2024/72",
+   "short": "HCLS1 nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 72/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155510/72.2024_Anonimizata.pdf",
+     "sha256": "55a4e62244125404f65e09d0d7c7335d4772c073ad438a47139c0da189b143c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-73-2024",
+   "path": "local/bucuresti/sector-1/2024/73",
+   "short": "HCLS1 nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 73/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/150277/73.2024_Anonimizata.pdf",
+     "sha256": "62518abfb8f3c57f9e2f67b65b33e7d378972dfe86a61d70b8de5abfcd81701d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-74-2024",
+   "path": "local/bucuresti/sector-1/2024/74",
+   "short": "HCLS1 nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 74/2024 pentru aprobarea Protocolului privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și Catedrala Sfântul Iosif, având ca obiect finanțarea de către Sectorul 1 al Municipiului București a cheltuielilor de investiții solicitate pentru restaurarea fațadelor la Catedrala Sfântul Iosif, situată în Strada G-ral Berthelot, Nr.17, București, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/150203/74.2024_Anonimizata%20%281%29.pdf",
+     "sha256": "38233311c84d6a687d1eab13ae98764ba2d8e9a93a5695d219eb40a4322bc9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-75-2024",
+   "path": "local/bucuresti/sector-1/2024/75",
+   "short": "HCLS1 nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 75/2024 pentru aprobarea încheierii Actului adițional nr.1 la Protocolul nr.J 2548 din 05.10.2022 privind finanțarea și realizarea în parteneriat a unor acțiuni și lucrări de interes public, între Sectorul 1 al Municipiului București și biserica “Mănăstirea Cașin”-Parohia “Parcul Domeniilor”, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/150205/75.2024_Anonimizata.pdf",
+     "sha256": "33e98969a60c1e154359d4a3489f2744143b48ecc994c65787a528868fe6a576"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-76-2024",
+   "path": "local/bucuresti/sector-1/2024/76",
+   "short": "HCLS1 nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 76/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154553/76.2024_Anonimizata.pdf",
+     "sha256": "979f40b0db639d657fec39f8750c389a7c5acd6ea3dd196260709715518ed381"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-77-2024",
+   "path": "local/bucuresti/sector-1/2024/77",
+   "short": "HCLS1 nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 77/2024 prin care se solicită Consiliului General al Municipiului București adoptarea unei hotărâri prin care să solicite Guvernului României trecerea din domeniul public al statului și administrarea Serviciului Român de Informații în domeniul public al Municipiului București și administrarea Sectorului 1 a unor imobile, în vederea realizării unor lucrări de interes public local privind prelungirea străzii Drumul Lăpuș și dezvoltare a infrastructurii edilitare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/125713/77.2024_Anonimizata.pdf",
+     "sha256": "31b506b0c14a6baf2b24b406928f46510e3326d26e771d9d7883e943b1d9f769"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-78-2024",
+   "path": "local/bucuresti/sector-1/2024/78",
+   "short": "HCLS1 nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 78/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/155524/78.2024_Anonimizata.pdf",
+     "sha256": "09df121cdb19ff32c9dfb341ed38995958cdc7c3558fb9bc707141e17044130f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-79-2024",
+   "path": "local/bucuresti/sector-1/2024/79",
+   "short": "HCLS1 nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 79/2024 privind modificarea Anexei nr. 2 Hotărârii Consiliului Local al Sectorului 1 nr.95/21.06.2023 privind aprobarea documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investitii Proiectare și execuție Modernizare și repararea infrastructurii urbane din Sectorul 1 al Municipiului București - Lot 3 - Strada Liliacului, sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152503/79.2024_Anonimizata.pdf",
+     "sha256": "f33e1439ad8f02d6a2b4d6366ebefd827c94f04359a49c42754d4dff6e8bbc6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-8-2024",
+   "path": "local/bucuresti/sector-1/2024/8",
+   "short": "HCLS1 nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 8/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “LICEUL TEORETIC ,,NICOLAE IORGA”- desfiintare sala sport existenta, construire corp de cladire nou cu sala de sport si spatii conexe desfasurarii activitatilor didactice (sali de clasa, sala de mese cu magazie alimente, birouri, cancelarie, cabinet medical, cabinet stomatologic, grupuri sanitare, biblioteca, sala de evenimente)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/143931/8.2024_AN.pdf",
+     "sha256": "754aad40ae67aee2d7580624f985aab43a1b0eb26e77aae31d9a320439af6629"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-80-2024",
+   "path": "local/bucuresti/sector-1/2024/80",
+   "short": "HCLS1 nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 80/2024 privind modificarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 118/26.07.2023 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici ai obiectivului de investiții Proiectare și execuție „Modernizare și repararea infrastructurii urbane din Sectorul 1 al Municipiului București – Lot 1 – Drumul Piscul Moșului”, sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/154048/80.2024_Anonimizata.pdf",
+     "sha256": "84ce3d2ee24c8dc2d4e92c556bb554f0e0a79d9f1035deab1fc4300b01e80bea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-81-2024",
+   "path": "local/bucuresti/sector-1/2024/81",
+   "short": "HCLS1 nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 81/2024 pentru aprobarea rețelei școlare de stat și particulare pe raza Sectorului 1 al Municipiului București pentru anul 2024-2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/146811/81.2024_Anonimizata.pdf",
+     "sha256": "928e90d7e58db78dfaad1b11b56c926fa815f5beff35bdba1346f7aa28c07d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-82-2024",
+   "path": "local/bucuresti/sector-1/2024/82",
+   "short": "HCLS1 nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 82/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/156117/82.2024_Anonimizata.pdf",
+     "sha256": "7be3b803a8d4d7b18f5a421f635b66bad109d313890a32aa1c7673571e446bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-83-2024",
+   "path": "local/bucuresti/sector-1/2024/83",
+   "short": "HCLS1 nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 83/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157741/83.2024_AN.pdf",
+     "sha256": "f3f79b8e9d123217d213f4e73c4d7cb9c4d6030a01dbf291a7f3b80c423e4c0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-84-2024",
+   "path": "local/bucuresti/sector-1/2024/84",
+   "short": "HCLS1 nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 84/2024 privind aprobarea cuantumului burselor, acordate de autoritățile publice locale pentru anu școlar 2023-2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157745/84.2024_AN.pdf",
+     "sha256": "7352bebb890b943a10a793cd21cc575dfa82e2ca89c27c37feb1099b9cde48eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-85-2024",
+   "path": "local/bucuresti/sector-1/2024/85",
+   "short": "HCLS1 nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 85/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158597/85.2024_AN.pdf",
+     "sha256": "045edb772778ccef28a3494287595101fa23166d5bb2261c08c4aa78f4c7fa62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-86-2024",
+   "path": "local/bucuresti/sector-1/2024/86",
+   "short": "HCLS1 nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 86/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158594/86.2024_AN.pdf",
+     "sha256": "7f2bd92f34c1e68fea57f0cdd3ad66fbe8f67662cde8d26747f5c5ebd921c2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-87-2024",
+   "path": "local/bucuresti/sector-1/2024/87",
+   "short": "HCLS1 nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 87/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158595/87.2024_AN.pdf",
+     "sha256": "0160c3f36e8c746c378b93c8c81fa4170b4e7bcd5a1820f35651f9ae45af3341"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-88-2024",
+   "path": "local/bucuresti/sector-1/2024/88",
+   "short": "HCLS1 nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 88/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158596/88.2024_AN.pdf",
+     "sha256": "dcecf78ac8e9b47501862389a760429435fa9c37bc5796d7c38a556d999b584f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-89-2024",
+   "path": "local/bucuresti/sector-1/2024/89",
+   "short": "HCLS1 nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 89/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159123/89.2024_AN.pdf",
+     "sha256": "0cef37c549106a74888f96c8c87c89906cce0661ff956cf579e1a517c69e08db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-9-2024",
+   "path": "local/bucuresti/sector-1/2024/9",
+   "short": "HCLS1 nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 9/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/143962/9.2024_AN.pdf",
+     "sha256": "058630b18c30a287c60b5696307805d7eacd0136e6eff2ba8286092c9adb01b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-90-2024",
+   "path": "local/bucuresti/sector-1/2024/90",
+   "short": "HCLS1 nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 90/2024 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1 la data de 30 septembrie 2022",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/99215/90.2024_AN.pdf",
+     "sha256": "65521a15ffe85f4bab800ca5029660ccbbf6e38647444d728e9bf3e04c4babbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-91-2024",
+   "path": "local/bucuresti/sector-1/2024/91",
+   "short": "HCLS1 nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 91/2024 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr.36/21.03.2024 privind aprobarea implementării Proiectului educațional \" Școala de vară, perioada iulie-august 2024\"",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/157744/91.2024_AN.pdf",
+     "sha256": "93cb78f765849e58c02c7d5ca9704c2c451449cd162e63fedcc445336fb2b49e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-92-2024",
+   "path": "local/bucuresti/sector-1/2024/92",
+   "short": "HCLS1 nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 92/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159127/92.2024_AN.pdf",
+     "sha256": "11889bac49ae170bb2f85cb3bc92b4239d0419e9cc481957948a4cd10ac60193"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-93-2024",
+   "path": "local/bucuresti/sector-1/2024/93",
+   "short": "HCLS1 nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 93/2024 privind modificarea Hotărârii Consiliului Local Sector 1 nr. 11/2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura organizatorică a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/159637/93.2024_AN.pdf",
+     "sha256": "7361d46590723879b8110ef2e8571256865dae091f95befc45bd9dfc772c6f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-94-2024",
+   "path": "local/bucuresti/sector-1/2024/94",
+   "short": "HCLS1 nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 94/2024 pentru aprobarea costului mediu lunar/persoană adultă cu dizabilități protejată în cadrul Centrelor de Îngrijire și Asistență pentru persoane adulte cu dizabilități din subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152496/94.2024_AN.pdf",
+     "sha256": "ff1f2630fc58ad3b120e02921a54c04d5f811301f0b4233974d84b8db1a3b644"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-95-2024",
+   "path": "local/bucuresti/sector-1/2024/95",
+   "short": "HCLS1 nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 95/2024 pentru aprobarea costului mediu lunar/beneficiar în cadrul centrelor de zi pentru persoane adulte cu dizabilități din structura Direcției Generale de Asistentă Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152497/95.2024_AN.pdf",
+     "sha256": "ed617ed8341df53d9183e23e8306d0dd44556d02af4f2dad6b7d946cf9f63764"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-96-2024",
+   "path": "local/bucuresti/sector-1/2024/96",
+   "short": "HCLS1 nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 96/2024 pentru aprobarea costului mediu lunar/beneficiar în cadrul Complexului Social de Servicii Odăi-Centrul de Urgență pentru Persoane fără Adăpost, servicii sociale din subordinea Direcției Generale de Asistentă Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152498/96.2024_AN.pdf",
+     "sha256": "5665434d18a986ddb10b56c61a2e15b0a49f5f88cab856ef32ab34cad8f7b2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-97-2024",
+   "path": "local/bucuresti/sector-1/2024/97",
+   "short": "HCLS1 nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 97/2024 pentru aprobarea costului mediu lunar/beneficiar în cadrul centrelor de zi de recuperare copii cu dizabilități din structura Direcției Generale de Asistentă Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152499/97.2024_AN.pdf",
+     "sha256": "a7343adc25e46a21bc341ec69ba1a62d6986a0640c97cdf0f7a66aec3267d50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-98-2024",
+   "path": "local/bucuresti/sector-1/2024/98",
+   "short": "HCLS1 nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 98/2024 pentru aprobarea costului mediu lunar/persoană adultă cu dizabilități protejată în cadrul Centrelor de Abilitare și Reabilitare pentru persoane adulte cu dizabilități din subordinea Direcției Generale de Asistentă Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152500/98.2024_AN.pdf",
+     "sha256": "ee970be094152774eaa5151372b7a21ab6e859d3a41e199ad0519ffdfa6bb5a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-99-2024",
+   "path": "local/bucuresti/sector-1/2024/99",
+   "short": "HCLS1 nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 99/2024 pentru aprobarea costului mediu lunar/copil protejat în cadrul serviciilor sociale de tip rezidențial destinate copiilor, centrelor de zi de tip creșp și modulelor pavilionare de recuperare și reabilitare neuropsihiatrică destinate copiilor și în sistemul de asistență maternală din cadrul Direcției Generale de Asistentă Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152501/99.2024_AN.pdf",
+     "sha256": "e94d4d2b60530aacef183f1591303e86c8ecb93c8666bbc93615a4ed34811872"
     }
    ]
   }

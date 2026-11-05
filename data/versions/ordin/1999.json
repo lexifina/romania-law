@@ -1675,7 +1675,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/18579",
    "versions": [
     {
-     "from": "1999-06-30",
+     "from": "1999-07-01",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18579",
      "sha256": "2eb1d712461baeebaa0c6bd19cf6beab828fab6a104c3de805eb3bef575369c9"
@@ -1825,7 +1825,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/19189",
    "versions": [
     {
-     "from": "1999-09-07",
+     "from": "1999-09-22",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19189",
      "sha256": "6c35dadb77d1d7ffbf0f48e52d872df68e203c6950aa8412d9288bfae31d38af"
@@ -1915,7 +1915,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/19167",
    "versions": [
     {
-     "from": "1999-09-02",
+     "from": "1999-09-06",
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19167",
      "sha256": "27dca5beaaf298abc01609517ba7aed81054bdc57cbf74fe050bd9ecfec6225e"
@@ -1930,7 +1930,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/19949",
    "versions": [
     {
-     "from": "1999-11-18",
+     "from": "2000-01-01",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19949",
      "sha256": "27df7c1bb68f6cedca4c192f4859dc3413e3ec329c0e02e00bb8dccf40854df8"
@@ -2043,6 +2043,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-109-1999",
+   "path": "ordin/mediu/1999/109",
+   "short": "Ordin mediu nr. 109/1999",
+   "title": "Ordinul nr. 109/1999 privind privatizarea unor capacități de producție aferente activităților conexe ale Regiei Naționale a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17045",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17045",
+     "sha256": "52181898af26832f5b139fe6bcad4440a427c660a5577cc01848de66324c2b87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1096-1999",
+   "path": "ordin/mediu/1999/1096",
+   "short": "Ordin mediu nr. 1096/1999",
+   "title": "Ordinul nr. 1.096/1999 pentru aprobarea Regulamentului privind organizarea și certificarea corpului de experți pentru evaluarea stării de siguranță a barajelor și lucrărilor hidrotehnice speciale - NTLH-014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21919",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21919",
+     "sha256": "bd7bbb2756991d43275dc8be7536fe793fb87be14e39de11b8f724b0686d4588"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1097-1999",
+   "path": "ordin/mediu/1999/1097",
+   "short": "Ordin mediu nr. 1097/1999",
+   "title": "Ordinul nr. 1.097/1999 privind aprobarea Procedurii de avizare a specialiștilor pentru întocmirea evaluărilor stării de siguranță a barajelor și digurilor din categoriile de importanța C și D - NTLH-015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21921",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21921",
+     "sha256": "6e3e6dd2c2bfe0a6ce952bf23719662f60204bfee2b96793dfe866bacc0fcb47"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1098-1999",
    "path": "ordin/mediu/1999/1098",
    "short": "Ordin mediu nr. 1098/1999",
@@ -2073,6 +2118,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1152-1999",
+   "path": "ordin/mediu/1999/1152",
+   "short": "Ordin mediu nr. 1152/1999",
+   "title": "Ordinul nr. 1.152/1999 pentru aprobarea Metodologiei de calcul al prețului terenului, al chiriei, al contravalorii pierderii de creștere și al celorlalte cheltuieli determinate de scoaterea definitivă sau temporară a unor terenuri din fondul forestier național, precum și de finanțare și executare a lucrărilor de reinstalare a vegetației forestiere și de întreținere a acesteia până la realizarea stării de masiv, pe terenurile ocupate temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21865",
+   "versions": [
+    {
+     "from": "2000-04-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21865",
+     "sha256": "1690deac0c2398da8bcc1c07c80d9eb908eb7dfe8695493e23ff73a1adb761d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-214-rt-1999",
    "path": "ordin/mediu/1999/214-rt",
    "short": "Ordin mediu nr. 214/RT/1999",
@@ -2084,6 +2144,156 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18071",
      "sha256": "4df3b3ec2148ed955dcdb1992cc95724077c25e142394049d9e98524ee14464f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-264-1999",
+   "path": "ordin/mediu/1999/264",
+   "short": "Ordin mediu nr. 264/1999",
+   "title": "Ordinul nr. 264/1999 pentru aprobarea Normelor tehnice silvice privind gospodărirea vegetației forestiere de pe terenurile din afară fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18225",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18225",
+     "sha256": "3244e8540cb889bf948ee559f3eeca61f6dd5f9ec042793c6a19f878c244be01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-288-1999",
+   "path": "ordin/mediu/1999/288",
+   "short": "Ordin mediu nr. 288/1999",
+   "title": "Ordinul nr. 288/1999 privind aprobarea Programului de restructurare a Companiei Naționale \"Institutul Național de Meteorologie, Hidrologie și Gospodărirea Apelor\" - S.A. (I.N.M.H.) și a Companiei Naționale \"Apele Române\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18003",
+   "versions": [
+    {
+     "from": "1999-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18003",
+     "sha256": "73b3c1902ddfa28a508efa754695b5b93748121d402f210309ccf8e55c9e3e64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-440-1999",
+   "path": "ordin/mediu/1999/440",
+   "short": "Ordin mediu nr. 440/1999",
+   "title": "Ordinul nr. 440/1999 pentru aprobarea prețului mediu al unui metru cub de masa lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18226",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18226",
+     "sha256": "bec0a65663b0cc6cb02e27f608d0fd83fdddefc46abf02c243a19327d85390d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-496-1999",
+   "path": "ordin/mediu/1999/496",
+   "short": "Ordin mediu nr. 496/1999",
+   "title": "Ordinul nr. 496/1999 pentru aprobarea unor disponibilizări prin concedieri colective pe anul 1999 la Regia Naționala a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18354",
+   "versions": [
+    {
+     "from": "1999-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18354",
+     "sha256": "386ec39c3fd66541aac06b61b8c9d0c9dca24a8e959dd0224e9049dc14b0de51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-567-1999",
+   "path": "ordin/mediu/1999/567",
+   "short": "Ordin mediu nr. 567/1999",
+   "title": "Ordinul nr. 567/1999 pentru aprobarea Normelor privind protecția culturilor agricole, silvice și a animalelor domestice împotriva pagubelor care pot fi cauzate de vânat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22689",
+   "versions": [
+    {
+     "from": "2000-06-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22689",
+     "sha256": "55d87064157ea8997695b2ef3f812214135bc1e477f2285caa597994d021fd24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-699-1999",
+   "path": "ordin/mediu/1999/699",
+   "short": "Ordin mediu nr. 699/1999",
+   "title": "Ordinul nr. 699/1999 pentru aprobarea Procedurii și competentelor de emitere a avizelor și autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19437",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19437",
+     "sha256": "f27146c51e66950b1f2c625443a2aa532f9b0e355dffb6e453e93a3de5ea4557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-70-1999",
+   "path": "ordin/mediu/1999/70",
+   "short": "Ordin mediu nr. 70/1999",
+   "title": "Ordinul nr. 70/1999 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de atestare a agenților economici în activitatea de exploatare forestieră, în vederea participării acestora la licitațiile și negocierile directe de vânzare a masei lemnoase pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17091",
+   "versions": [
+    {
+     "from": "1999-03-05",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17091",
+     "sha256": "2d0a845076514085b4bd5b18274f831f95eef4a5b9d7899f4fb985203d385e6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-709-1999",
+   "path": "ordin/mediu/1999/709",
+   "short": "Ordin mediu nr. 709/1999",
+   "title": "Ordinul nr. 709/1999 privind conținutul avizului de mediu pentru privatizare, emis de autoritatea competentă, în aplicarea prevederilor Hotărârii Guvernului nr. 450/1999 privind aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 88/1997 privind privatizarea societăților comerciale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19438",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19438",
+     "sha256": "7d60f9573bbf9a0a3a80bc231086ad6ad2de92c125e21c30bc75ce0e2fab91a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-71-1999",
+   "path": "ordin/mediu/1999/71",
+   "short": "Ordin mediu nr. 71/1999",
+   "title": "Ordinul nr. 71/1999 pentru aprobarea Regulamentului privind confecționarea și folosirea dispozitivelor de marcat materialul lemnos de lucru care se exploatează și se transporta din pădure de către agenți economici atestați și de structurile administrației silvice a pădurilor proprietate publică a comunelor, orașelor și municipiilor sau proprietate privată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17134",
+   "versions": [
+    {
+     "from": "1999-03-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17134",
+     "sha256": "7df2f0610c8e1484c6fc385d4c21a7174cecf6e6469f1c5e81098e9ba1bfe7cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-965-1999",
+   "path": "ordin/mediu/1999/965",
+   "short": "Ordin mediu nr. 965/1999",
+   "title": "Ordinul nr. 965/1999 privind determinarea valorii reale a tarifelor de atribuire în gestiune a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20016",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20016",
+     "sha256": "8bfbb041a397bbcea813c1c08bbd17274e9ea11a5bc4ddf6bbbd012ae8bcce93"
     }
    ]
   },
@@ -2568,6 +2778,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-172-1999",
+   "path": "ordin/transporturi/1999/172",
+   "short": "Ordin transporturi nr. 172/1999",
+   "title": "Ordinul nr. 172/1999 privind modificarea art. 6^2 din Ordinul ministrului transporturilor nr. 537/1997 pentru modificarea și completarea Reglementărilor privind condițiile tehnice pentru vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18101",
+   "versions": [
+    {
+     "from": "1999-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18101",
+     "sha256": "e7553475615be8fd31a8aa7dafbee2c6e94b5aabfe5a66bfe0af294fc67930ac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-174-1999",
    "path": "ordin/transporturi/1999/174",
    "short": "Ordin transporturi nr. 174/1999",
@@ -2988,6 +3213,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-411-1999",
+   "path": "ordin/transporturi/1999/411",
+   "short": "Ordin transporturi nr. 411/1999",
+   "title": "Ordinul nr. 411/1999 privind modificarea Ordinului ministrului transporturilor nr. 215/1999 pentru aprobarea Nomenclatorului de funcții ale personalului din activitatea de transport feroviar și cu metroul, care lucrează sau concura la siguranța circulației trenurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19593",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19593",
+     "sha256": "9599a1d21be010ce2dac17289ad7fe88c6454c519b8cc3aa363d5b83f550ec8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-434-1999",
    "path": "ordin/transporturi/1999/434",
    "short": "Ordin transporturi nr. 434/1999",
@@ -3138,6 +3378,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-618-1999",
+   "path": "ordin/transporturi/1999/618",
+   "short": "Ordin transporturi nr. 618/1999",
+   "title": "Ordinul nr. 618/1999 pentru completarea anexei la Ordinul ministrului transporturilor nr. 268/1999 privind aprobarea tarifelor pentru prestații și servicii efectuate de Inspectoratul Navigației Civile - I.N.C. și de căpităniile de port din subordine la navele sub pavilion român și străin în porturile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19927",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19927",
+     "sha256": "b5376d1fc922f47ac935b6c7c1eb86e728150bb069c264fa85aab0b327a4b23b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-627-1999",
    "path": "ordin/transporturi/1999/627",
    "short": "Ordin transporturi nr. 627/1999",
@@ -3149,6 +3404,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20247",
      "sha256": "810ed3f86f405946398b37946865919ae1c7dce49c114906bb8a5889513c1f4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-660-1999",
+   "path": "ordin/transporturi/1999/660",
+   "short": "Ordin transporturi nr. 660/1999",
+   "title": "Ordinul nr. 660/1999 pentru modificarea și completarea Regulamentului privind standardele de instruire, confirmare a competentei și de eliberare a brevetelor și certificatelor de capacitate personalului navigant de siguranță a navigației din Marina civilă a României, aprobat prin Ordinul ministrului transporturilor nr. 246/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20124",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20124",
+     "sha256": "55031bfa8a03e87d59787c4d28bd1373108420c7e29df46505789593993c683d"
     }
    ]
   },
@@ -3224,6 +3494,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17547",
      "sha256": "4080c6a672750357a4d190deeb4b0ac4be5cd9374a037016ed296795b4568607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-780-1999",
+   "path": "ordin/transporturi/1999/780",
+   "short": "Ordin transporturi nr. 780/1999",
+   "title": "Ordinul nr. 780/1999 privind modificarea și completarea Ordinului ministrului transporturilor nr. 251/1999 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20795",
+   "versions": [
+    {
+     "from": "2000-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20795",
+     "sha256": "a34114f07c934242d0ea5b1fd8aa3326177b814e76256d2b9a7b765199643ccd"
     }
    ]
   },

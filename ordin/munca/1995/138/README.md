@@ -1,8 +1,8 @@
 # Ordinul nr. 138/1995 privind aprobarea Clasificării ocupațiilor din România (C.O.R.)
 
-Ordin munca nr. 138/1995 · 1 versions, from 1995-11-23 (latest in force: 1995-11-23) · <https://legislatie.just.ro/Public/DetaliiDocument/6393>
+Ordin munca nr. 138/1995 · 1 versions, from 1995-12-08 (latest in force: 1995-12-08) · <https://legislatie.just.ro/Public/DetaliiDocument/6393>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((publicată în BROȘURA din 1995)): it is a table that the official text holds only flattened. Its in-force clause states 8 December 1995; this record still dates it from 23 November 1995, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((publicată în BROȘURA din 1995)): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-munca-138-1995` (tags `ordin-munca-138-1995/<day>`; `python tools
 - Ordin munca nr. 138/1995: the first version is the order as published in Monitorul Oficial nr. 272 of 23 November 1995 (document 6393 of the official web service), in force on 8 December 1995, the day it states for itself.
 - Ordin munca nr. 138/1995: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 138/1995: Anexa nr. 1 ((publicată în BROȘURA din 1995)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 138/1995: first published here dated 23 November 1995; its in-force clause states 8 December 1995. The record keeps the first date until it is corrected by hand.
+- Ordin munca nr. 138/1995: re-dated by a correction: in force from 8 December 1995 (first published dated 23 November 1995).

@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-23-2025",
+   "path": "ordin/agricultura/2025/23",
+   "short": "Ordin agricultura nr. 23/2025",
+   "title": "Ordinul nr. 23/2025 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii din habitatele acvatice naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294196",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294196",
+     "sha256": "fec0c33f86de8e7630c3a2c4ef398bb84dd95a66562e11bf4c2070b817ad9336"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-260-2025",
+   "path": "ordin/agricultura/2025/260",
+   "short": "Ordin agricultura nr. 260/2025",
+   "title": "Ordinul nr. 260/2025 pentru modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului mediului, apelor și pădurilor nr. 23/297/2025 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii din habitatele acvatice naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302868",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302868",
+     "sha256": "d482166e99b22691e20615dcc852a6b4591f598882262da73a95ab9b41ab6350"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-51-2025",
    "path": "ordin/agricultura/2025/51",
    "short": "Ordin agricultura nr. 51/2025",
@@ -59,6 +89,21 @@
      "units": 69,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298279",
      "sha256": "a0ea36685b18997ee15aa76bede057ad59fd55b1a3fae35745e7057871271348"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-62-2025",
+   "path": "ordin/agricultura/2025/62",
+   "short": "Ordin agricultura nr. 62/2025",
+   "title": "Ordinul nr. 62/2025 pentru modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale, al ministrului mediului, apelor și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 54/570/32/2023 pentru punerea în aplicare a normelor privind condiționalitatea în cadrul intervențiilor sub formă de plăți directe și al unor intervenții și măsuri pentru dezvoltare rurală, începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295363",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295363",
+     "sha256": "7da26b5728dceb1f8dfcc8e9a2b60b8558e9e494c0df46de69d8e5f8c9acbe7a"
     }
    ]
   },
@@ -865,7 +910,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/301467",
    "versions": [
     {
-     "from": "2025-08-20",
+     "from": "2025-08-23",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301467",
      "sha256": "805f7414cb3e48b3a6f76d5d2dc02e0cdb447b002c2e48913065985a1745c919"
@@ -2275,7 +2320,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/307582",
    "versions": [
     {
-     "from": "2026-02-26",
+     "from": "2026-03-28",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307582",
      "sha256": "014f14475a5329b68303a8382168ef251f42a24d9466785dc15ed5e425c353d6"
@@ -2290,7 +2335,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/295242",
    "versions": [
     {
-     "from": "2025-03-10",
+     "from": "2025-05-09",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295242",
      "sha256": "f554fee943d52dc8e445999a4e995c02abece78b10041456d857de712a5a3343"
@@ -2410,7 +2455,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/299154",
    "versions": [
     {
-     "from": "2025-06-19",
+     "from": "2025-07-19",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299154",
      "sha256": "e3f94b9d69f54dba5111001a7f8792af9a36d06e8e304d5bf90eca627e4ed7d5"
@@ -4713,6 +4758,111 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1149-2025",
+   "path": "ordin/mediu/2025/1149",
+   "short": "Ordin mediu nr. 1149/2025",
+   "title": "Ordinul nr. 1.149/2025 pentru modificarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului național de tractoare și mașini agricole autopropulsate, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.499/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296825",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296825",
+     "sha256": "202e010fcd361068ef3ce569fe36a47a090b80d884fc01b1d9bda027c30d36b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1182-2025",
+   "path": "ordin/mediu/2025/1182",
+   "short": "Ordin mediu nr. 1182/2025",
+   "title": "Ordinul nr. 1.182/2025 pentru modificarea anexei nr. 1 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296765",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296765",
+     "sha256": "16a7cf37ae4dc0318c63bae00f6d154a5ecb7e4ca7e313f837268364e863431c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1185-2025",
+   "path": "ordin/mediu/2025/1185",
+   "short": "Ordin mediu nr. 1185/2025",
+   "title": "Ordinul nr. 1.185/2025 privind modificarea și completarea anexelor nr. 2 și 4 la Procedura de înregistrare, raportare și declarare a operatorilor economici care introduc deșeuri în țară pentru a fi valorificate, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.736/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297097",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297097",
+     "sha256": "560a1bf8615c4823919fcdb4e0f8319d319fd56df3e3f116238f5c387fc5620a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1231-2025",
+   "path": "ordin/mediu/2025/1231",
+   "short": "Ordin mediu nr. 1231/2025",
+   "title": "Ordinul nr. 1.231/2025 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296870",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296870",
+     "sha256": "3fab0c21cdb734092c3a93a8a0ff64b656de3a0665ab94cef0cd876c7dae24f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1234-2025",
+   "path": "ordin/mediu/2025/1234",
+   "short": "Ordin mediu nr. 1234/2025",
+   "title": "Ordinul nr. 1.234/2025 privind aprobarea cotelor de recoltă pentru specia căprior (Capreolus capreolus) pentru perioada de vânătoare 1 mai 2025-30 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296901",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296901",
+     "sha256": "9436b2d39c108609e68ac70fce1830d4068d4c567e7890c16820007562d44625"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1359-2025",
+   "path": "ordin/mediu/2025/1359",
+   "short": "Ordin mediu nr. 1359/2025",
+   "title": "Ordinul nr. 1.359/2025 privind aprobarea derogării în scop științific pentru 300 de exemplare din specia Leucorrhinia pectoralis",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298042",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298042",
+     "sha256": "a7541440ed975920ae7883583980bf08d12d2bffa19e99dc6f760784f8be78fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1363-2025",
+   "path": "ordin/mediu/2025/1363",
+   "short": "Ordin mediu nr. 1363/2025",
+   "title": "Ordinul nr. 1.363/2025 privind aprobarea Planului de management al Parcului Natural Văcărești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298101",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298101",
+     "sha256": "c1b8c4da930f61cc0739aa48bac8967aa064cc2b570045379cb05ae6f87a2e52"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1481-2025",
    "path": "ordin/mediu/2025/1481",
    "short": "Ordin mediu nr. 1481/2025",
@@ -4728,6 +4878,66 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1540-2025",
+   "path": "ordin/mediu/2025/1540",
+   "short": "Ordin mediu nr. 1540/2025",
+   "title": "Ordinul nr. 1.540/2025 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada iunie 2025-14 mai 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298889",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298889",
+     "sha256": "ab0ad99e89b4c91495094d492564c892ec54fc6f6819afd0fa6950009f80be51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1628-2025",
+   "path": "ordin/mediu/2025/1628",
+   "short": "Ordin mediu nr. 1628/2025",
+   "title": "Ordinul nr. 1.628/2025 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299198",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299198",
+     "sha256": "b1660a1195fef7fa25420722fb01f003da54fe7aacd8d0c80027e0b4acbe6d04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1649-2025",
+   "path": "ordin/mediu/2025/1649",
+   "short": "Ordin mediu nr. 1649/2025",
+   "title": "Ordinul nr. 1.649/2025 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea licitațiilor publice pentru atribuirea contractelor de concesiune a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Administrației Naționale \"Apele Române\", a Contractului-cadru de concesiune a bunurilor imobile aflate în proprietatea publică a statului și în administrarea Administrației Naționale \"Apele Române\", precum și valoarea redevenței aferentă contractelor de concesionare a terenurilor proprietate publică administrate de Administrația Națională \"Apele Române\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299352",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299352",
+     "sha256": "a310ebe958a61a4d596e9023562a5b04b4c52f498491b5b88cebfa2faab45be2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1743-2025",
+   "path": "ordin/mediu/2025/1743",
+   "short": "Ordin mediu nr. 1743/2025",
+   "title": "Ordinul nr. 1.743/2025 privind aprobarea Procedurii de trecere în conservare, postutilizare sau abandonare a barajelor - NTLH-033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299619",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299619",
+     "sha256": "372615a515754254aec7f4d55eb905835f6c56e92bd5c0a752337d791c5cfb76"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1887-2025",
    "path": "ordin/mediu/2025/1887",
    "short": "Ordin mediu nr. 1887/2025",
@@ -4739,6 +4949,456 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299942",
      "sha256": "3de84ac4316ae82cdeff415df7e8b24696f5d93490caaa08ea96154b3374a1ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1905-2025",
+   "path": "ordin/mediu/2025/1905",
+   "short": "Ordin mediu nr. 1905/2025",
+   "title": "Ordinul nr. 1.905/2025 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300545",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300545",
+     "sha256": "b0c1f6dbd41c9affd577a924593ec46b03299a5107e5e06c29788fc8c2131dc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1930-2025",
+   "path": "ordin/mediu/2025/1930",
+   "short": "Ordin mediu nr. 1930/2025",
+   "title": "Ordinul nr. 1.930/2025 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301132",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301132",
+     "sha256": "6028452cb10599b82a87bbccda0d75391bcf6ef58a52b95831797a41cc2ca7f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-194-2025",
+   "path": "ordin/mediu/2025/194",
+   "short": "Ordin mediu nr. 194/2025",
+   "title": "Ordinul nr. 194/2025 pentru modificarea anexei nr. 2 la Regulamentul privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor și pădurilor nr. 1.106/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294604",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294604",
+     "sha256": "c5a6eb565cec73a4057dcb073e895c3ca54f47d9a81b416315ab5cfa1731abaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2073-2025",
+   "path": "ordin/mediu/2025/2073",
+   "short": "Ordin mediu nr. 2073/2025",
+   "title": "Ordinul nr. 2.073/2025 privind restrângerea perioadei legale de vânătoare pentru specia turturică (Streptopelia turtur)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301324",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301324",
+     "sha256": "93d2c514660cf0bc7abcdaeaaf28a65c45766c95f8d21f31f95004b73484b3e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2088-2025",
+   "path": "ordin/mediu/2025/2088",
+   "short": "Ordin mediu nr. 2088/2025",
+   "title": "Ordinul nr. 2.088/2025 pentru modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență, componenta C3 - Managementul deșeurilor, investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, subinvestiția I1.D. - Construirea instalațiilor de reciclare a deșeurilor pentru a îndeplini țintele de reciclare din pachetul de economie circulară, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.606/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301621",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301621",
+     "sha256": "b26d5289baf4d5c95e8079cd1b1400228950e819de47a99d4f572a550b7d96e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-215-2025",
+   "path": "ordin/mediu/2025/215",
+   "short": "Ordin mediu nr. 215/2025",
+   "title": "Ordinul nr. 215/2025 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului mediului, apelor și pădurilor nr. 3.173/2023 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile la Fondul pentru mediu\" și a instrucțiunilor de completare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294019",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294019",
+     "sha256": "fd268a1195f7ce045bdd67cf87925371443f2aba6441cec71187bf8745fbc0d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2381-2025",
+   "path": "ordin/mediu/2025/2381",
+   "short": "Ordin mediu nr. 2381/2025",
+   "title": "Ordinul nr. 2.381/2025 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302412",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302412",
+     "sha256": "ec95db0042a6dbe2ff3615bc3d985c6808899f60e927b2c9c007ee3479d79dde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2390-2025",
+   "path": "ordin/mediu/2025/2390",
+   "short": "Ordin mediu nr. 2390/2025",
+   "title": "Ordinul nr. 2.390/2025 pentru modificarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C2/I.1.B, pentru subinvestiția I.1.B \"Sprijin pentru refacerea potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare și de evenimente catastrofale\", investiția 1 \"Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane\", schemă de ajutor de stat, componenta C2: Păduri și protecția biodiversității, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 320/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302328",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302328",
+     "sha256": "d0b2041adf0b1caeda4c5c880ebd84caba257e8813d157bba7496047281ec302"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2391-2025",
+   "path": "ordin/mediu/2025/2391",
+   "short": "Ordin mediu nr. 2391/2025",
+   "title": "Ordinul nr. 2.391/2025 pentru modificarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fonduri europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C2/I.1.A, pentru subinvestiția I.1.A \"Sprijin pentru investiții în noi suprafețe ocupate de păduri\", investiția 1: Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane, schemă de ajutor de stat, componenta 2: Păduri și protecția biodiversității, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 3.027/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302331",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302331",
+     "sha256": "400bff4c897b20b54a0b5e160949bc7ae29be3f5553c15e650a3d0fd24a31c4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2451-2025",
+   "path": "ordin/mediu/2025/2451",
+   "short": "Ordin mediu nr. 2451/2025",
+   "title": "Ordinul nr. 2.451/2025 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302534",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302534",
+     "sha256": "e62632e513b25339e94656149f9b65d9dff2328509d4e15454648ee3b45a31ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2455-2025",
+   "path": "ordin/mediu/2025/2455",
+   "short": "Ordin mediu nr. 2455/2025",
+   "title": "Ordinul nr. 2.455/2025 pentru aprobarea Ghidului specific privind condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2025/C2/S/I.2.B, componenta 2: Păduri și protecția biodiversității, investiția 2. Dezvoltarea de capacități moderne de producere a materialului forestier de reproducere, subinvestiția I.2.B. Acordarea de sprijin pentru investiții în pepiniere și tehnologii moderne de producere a puieților forestieri finanțat prin Planul național de redresare și reziliență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302859",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302859",
+     "sha256": "8e74e616d53870f4e102142ae63b0dc150c4b8b9040ee417260364293c2cb758"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2755-2025",
+   "path": "ordin/mediu/2025/2755",
+   "short": "Ordin mediu nr. 2755/2025",
+   "title": "Ordinul nr. 2.755/2025 privind aprobarea Planului de management integrat pentru ariile naturale protejate Parcul Natural Balta Mică a Brăilei și siturile Natura 2000 ROSCI0006 Balta Mică a Brăilei și ROSPA0005 Balta Mică a Brăilei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303760",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303760",
+     "sha256": "ebb91d2d990a5689c3b058e0bca2d73b8dfa963378f08c0d13aa869c83ebfe83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2761-2025",
+   "path": "ordin/mediu/2025/2761",
+   "short": "Ordin mediu nr. 2761/2025",
+   "title": "Ordinul nr. 2.761/2025 privind aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303723",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303723",
+     "sha256": "6e11fd5c15d5af25f423dfe6ce58b87e01f28a1366da5fcfe67123c7603c8842"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2792-2025",
+   "path": "ordin/mediu/2025/2792",
+   "short": "Ordin mediu nr. 2792/2025",
+   "title": "Ordinul nr. 2.792/2025 privind aprobarea cotelor de recoltă pentru specia cocoș de munte (Tetrao urogallus), pentru perioada octombrie-30 noiembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303792",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303792",
+     "sha256": "0e5f1ebada01842069eda9692186f513a8a4758c6680554ddc51f85ac120e3cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-322-2025",
+   "path": "ordin/mediu/2025/322",
+   "short": "Ordin mediu nr. 322/2025",
+   "title": "Ordinul nr. 322/2025 pentru aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2025, pentru materialele lemnoase care nu se găsesc sau care nu pot fi identificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294686",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294686",
+     "sha256": "9c5158686476ebc3e1360695977a9b0480a1a96228a2d05c6b1a1c946a981daf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3226-2025",
+   "path": "ordin/mediu/2025/3226",
+   "short": "Ordin mediu nr. 3226/2025",
+   "title": "Ordinul nr. 3.226/2025 privind aprobarea Planului de management integrat al Parcului Național Piatra Craiului, al siturilor Natura 2000 ROSAC0194 Piatra Craiului, ROSPA0165 Piatra Craiului și al rezervațiilor suprapuse cu acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305658",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305658",
+     "sha256": "72d30d97eee40aa7afbe1bf88032d346a62c99f71bbebc9f6497074f71662ce9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3311-2025",
+   "path": "ordin/mediu/2025/3311",
+   "short": "Ordin mediu nr. 3311/2025",
+   "title": "Ordinul nr. 3.311/2025 pentru modificarea și completarea Ordinului ministrului mediului, apelor și pădurilor nr. 1.818/2020 privind aprobarea indicilor de calitate a aerului, care reprezintă un sistem de codificare utilizat pentru informarea publicului privind calitatea aerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306389",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306389",
+     "sha256": "cbe3b089efb99d404fee8cf4682af1361d1d31edef09834a4fd3d2f837657090"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3400-2025",
+   "path": "ordin/mediu/2025/3400",
+   "short": "Ordin mediu nr. 3400/2025",
+   "title": "Ordinul nr. 3.400/2025 privind aprobarea Planului de management integrat al Parcului Național Buila-Vânturarița, al siturilor ROSAC0015 Buila-Vânturarița și ROSPA0025 Cozia - Buila-Vânturarița, precum și al ariilor naturale protejate de interes național incluse în acestea (RONPA0825 Pădurea Valea Cheii, RONPA0821 Muntele Stogu, RONPA0800 Peștera Caprelor, RONPA0802 Peștera Liliecilor, RONPA0803 Peștera Munteanu-Murgoci, RONPA0804 Peștera Pagodelor, RONPA0805 Peștera Rac, RONPA0806 Peștera Valea Bistrița, RONPA0807 Peștera cu Lac, RONPA0808 Peștera cu Perle, RONPA0809 Peștera Arnăuților, RONPA0810 Peștera Clopot)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306359",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306359",
+     "sha256": "04b5c5e611fb4967b30614bc6c096548d88c5d4700ee400757609b7202f74db0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-405-2025",
+   "path": "ordin/mediu/2025/405",
+   "short": "Ordin mediu nr. 405/2025",
+   "title": "Ordinul nr. 405/2025 pentru modificarea și completarea Ghidului de finanțare a Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum și livrării surplusului în rețeaua națională, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.063/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294698",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294698",
+     "sha256": "056089ffdcf55c877fb030964da96dc412c296ade00fe7b2f3138d9588b2c7e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-424-2025",
+   "path": "ordin/mediu/2025/424",
+   "short": "Ordin mediu nr. 424/2025",
+   "title": "Ordinul nr. 424/2025 pentru aprobarea derogării în scop științific pentru specia castor (Castor fiber)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294861",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294861",
+     "sha256": "a72db4ecd6734b1b61df5a29f75fe39d7b967eade06362eb79b6fd9ee4e8ffff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-602-2025",
+   "path": "ordin/mediu/2025/602",
+   "short": "Ordin mediu nr. 602/2025",
+   "title": "Ordinul nr. 602/2025 privind aprobarea însemnului heraldic al Gărzii Forestiere Naționale și al gărzilor forestiere din subordine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295691",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295691",
+     "sha256": "5faa27f058c59af7eccdd7bb38e600e7e2970d7064f44f4299dc5b9a23a04aa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-606-2025",
+   "path": "ordin/mediu/2025/606",
+   "short": "Ordin mediu nr. 606/2025",
+   "title": "Ordinul nr. 606/2025 pentru aprobarea Ghidului de finanțare a Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295296",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295296",
+     "sha256": "854ae57855e9f3de45e1c9b147eed8cc21023f63c2b48354fda926d9897b8044"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-763-2025",
+   "path": "ordin/mediu/2025/763",
+   "short": "Ordin mediu nr. 763/2025",
+   "title": "Ordinul nr. 763/2025 privind aprobarea derogării în scop științific pentru 172 de specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295806",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295806",
+     "sha256": "1bf7102020904394885362022d937dd770e9a13899db1cc8bfa04a07b04f02ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-843-2025",
+   "path": "ordin/mediu/2025/843",
+   "short": "Ordin mediu nr. 843/2025",
+   "title": "Ordinul nr. 843/2025 privind aprobarea Planului de management al ariei naturale protejate ROSCI0040 Coasta Lunii și al rezervației naturale Dealul cu Fluturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296430",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296430",
+     "sha256": "286266a00a70ea7bdf60e9117896f83c23cf13eefbd8387ff987b5a1975a6c8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-844-2025",
+   "path": "ordin/mediu/2025/844",
+   "short": "Ordin mediu nr. 844/2025",
+   "title": "Ordinul nr. 844/2025 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0232 Someșul Mare Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296444",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296444",
+     "sha256": "d6e45de44dbe68425b69967211c96ada11d0750f1f0436f66741de5ce08d6e34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-846-2025",
+   "path": "ordin/mediu/2025/846",
+   "short": "Ordin mediu nr. 846/2025",
+   "title": "Ordinul nr. 846/2025 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0051 Iezerul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296467",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296467",
+     "sha256": "4effac1a5074202c67719584b1bb4181c8721d7226fd98569d68b3f604003abb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-847-2025",
+   "path": "ordin/mediu/2025/847",
+   "short": "Ordin mediu nr. 847/2025",
+   "title": "Ordinul nr. 847/2025 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0112 Câmpia Gherghiței, incluzând rezervația naturală B.6. Lacul Rodeanu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296470",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296470",
+     "sha256": "7e4227eaca1038b8604a4a7e9c1b2a50d18c3f28538008aae0e475301a021f2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-851-2025",
+   "path": "ordin/mediu/2025/851",
+   "short": "Ordin mediu nr. 851/2025",
+   "title": "Ordinul nr. 851/2025 privind aprobarea Planului de management al ariei naturale protejate ROSPA0061 Lacul Techirghiol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296655",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296655",
+     "sha256": "fb00b1346438aa71504aa1675833caad1d7d1c377d8c1e9be9f3f1fd4aec92a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-852-2025",
+   "path": "ordin/mediu/2025/852",
+   "short": "Ordin mediu nr. 852/2025",
+   "title": "Ordinul nr. 852/2025 pentru aprobarea Planului de management al ariilor naturale protejate ROSCI0005 Balta Albă-Amara-Jirlău-Lacul Sărat Câineni, ROSPA0004 Balta Albă-Amara-Jirlău, 2.271 Balta Albă, 2.272 Balta Amara și 2.260 Lacul Jirlău-Vișani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296597",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296597",
+     "sha256": "6f018af0244978f0a52a83e2a233cb79cee520f7d07eabc9ce43f364ad5dc15b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-95-2025",
+   "path": "ordin/mediu/2025/95",
+   "short": "Ordin mediu nr. 95/2025",
+   "title": "Ordinul nr. 95/2025 privind aprobarea derogării în vederea montării de colare pentru 11 exemplare din specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293881",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293881",
+     "sha256": "3fe2189318bf0be766cbc8c727af1f717fc1d3b80585f310015da81aba8036d1"
     }
    ]
   },
@@ -6873,6 +7533,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-101-2025",
+   "path": "ordin/transporturi/2025/101",
+   "short": "Ordin transporturi nr. 101/2025",
+   "title": "Ordinul nr. 101/2025 privind modificarea art. 1 din Ordinul ministrului transporturilor nr. 1.272/2014 pentru stabilirea cuantumului indemnizației membrilor echipelor de audit, ai echipelor de inspecție și ai echipelor de test, desemnate pentru efectuarea activităților de monitorizare a conformității în securitatea aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294773",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294773",
+     "sha256": "19cea8eaeeb4eaad872ad248401a1f43a76902dbf4954769ebdfe5d82f3f26eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1139-2025",
+   "path": "ordin/transporturi/2025/1139",
+   "short": "Ordin transporturi nr. 1139/2025",
+   "title": "Ordinul nr. 1.139/2025 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 630/2007 privind modul de reglementare a domeniului aeronauticii civile cu aeronave ultraușoare din România și pentru modificarea art. 2 din Ordinul ministrului transporturilor și infrastructurii nr. 808/2011 pentru aprobarea Procedurii privind acordarea, suspendarea sau revocarea licenței de operare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301169",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301169",
+     "sha256": "96d5c92cb21daa457a1d2a3497ae030d51903def2be8be5075926ec1d47a8d72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1140-2025",
+   "path": "ordin/transporturi/2025/1140",
+   "short": "Ordin transporturi nr. 1140/2025",
+   "title": "Ordinul nr. 1.140/2025 pentru modificarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301303",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301303",
+     "sha256": "d50d969008e6d289714ecc2f9b0cb8726794d7e056d562b5ea94bcb7daf71533"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1145-2025",
    "path": "ordin/transporturi/2025/1145",
    "short": "Ordin transporturi nr. 1145/2025",
@@ -6899,6 +7604,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301252",
      "sha256": "64c7236ba9da0a97ee612400458ad6dda5762db0038a2cb227832450c336338b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1303-2025",
+   "path": "ordin/transporturi/2025/1303",
+   "short": "Ordin transporturi nr. 1303/2025",
+   "title": "Ordinul nr. 1.303/2025 privind modificarea unor acte normative din domeniul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301304",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301304",
+     "sha256": "97f5b85f43c5c551b006eb04251d8b145236214fd146235c71e8027e2f1a9b3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1317-2025",
+   "path": "ordin/transporturi/2025/1317",
+   "short": "Ordin transporturi nr. 1317/2025",
+   "title": "Ordinul nr. 1.317/2025 pentru modificarea Ordinului ministrului transporturilor și infrastructurii nr. 1.848/2023 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura de transport naval aferentă Programului Transport (PT 2021-2027), prioritatea 7 - Dezvoltarea transportului naval și multimodal, obiectivul specific 3.1. Dezvoltarea unei rețele TEN-T, reziliente la schimbările climatice, inteligente, sigure, durabile și intermodale și obiectivul specific 3.2. Dezvoltarea și ameliorarea unei mobilități naționale, regionale și locale sustenabile, reziliente la schimbările climatice, inteligente și intermodale, inclusiv îmbunătățirea accesului la TEN-T și a mobilității transfrontaliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301409",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301409",
+     "sha256": "67a1abf4d11a61eae917ee58584e30aa2824b136344559f77ada50df36babe10"
     }
    ]
   },
@@ -6933,6 +7668,126 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-132-2025",
+   "path": "ordin/transporturi/2025/132",
+   "short": "Ordin transporturi nr. 132/2025",
+   "title": "Ordinul nr. 132/2025 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295151",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295151",
+     "sha256": "8f8ce3e0d73c85a891dfc7fab2eab3f21b0e03200526cef8ea0345f0a51b8250"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1335-2025",
+   "path": "ordin/transporturi/2025/1335",
+   "short": "Ordin transporturi nr. 1335/2025",
+   "title": "Ordinul nr. 1.335/2025 privind modificarea și completarea unor instrucțiuni și reglementări din domeniul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301524",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301524",
+     "sha256": "2da58634b7a7f66311ac8553196087a0703d2f30dd0209c069d2e6b33c661d1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1336-2025",
+   "path": "ordin/transporturi/2025/1336",
+   "short": "Ordin transporturi nr. 1336/2025",
+   "title": "Ordinul nr. 1.336/2025 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 1.026/2021 privind aprobarea tarifelor de călătorie cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301479",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301479",
+     "sha256": "d9f832c3b283f832cd713eaeb2f8f2c41df4b4df5ae9ce1c36c9fd7655996b0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1727-2025",
+   "path": "ordin/transporturi/2025/1727",
+   "short": "Ordin transporturi nr. 1727/2025",
+   "title": "Ordinul nr. 1.727/2025 privind modificarea art. 11 alin. (1) lit. i) din anexa la Ordinul ministrului transporturilor și infrastructurii nr. 1.318/2025 pentru aprobarea Schemei de ajutor de stat privind promovarea infrastructurii pentru o mobilitate cu emisii zero în sprijinul întreprinderilor și comunităților (e-MOVE RO)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301620",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301620",
+     "sha256": "958f8ad786cb53489b77f6df0d9cdb622bfefe863e6c8dfacdd54dcf9c5eac34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1774-2025",
+   "path": "ordin/transporturi/2025/1774",
+   "short": "Ordin transporturi nr. 1774/2025",
+   "title": "Ordinul nr. 1.774/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301909",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301909",
+     "sha256": "fbab5e809f92edb7aa275621607e149e4c51a5f333bba4b98c37b15caec5c2f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1793-2025",
+   "path": "ordin/transporturi/2025/1793",
+   "short": "Ordin transporturi nr. 1793/2025",
+   "title": "Ordinul nr. 1.793/2025 pentru modificarea și completarea Reglementărilor privind condițiile de instalare, reparare și inspecție a tahografelor utilizate în transporturile rutiere ori a limitatoarelor de viteză care echipează autovehiculele, precum și autorizarea operatorilor economici care desfășoară astfel de activități - RNTR 8, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 3.850/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302665",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302665",
+     "sha256": "a9c09a31c3c6345a758dbe128d38af11dce552c51049bf958d94ba9199a192ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-187-2025",
+   "path": "ordin/transporturi/2025/187",
+   "short": "Ordin transporturi nr. 187/2025",
+   "title": "Ordinul nr. 187/2025 privind completarea anexei la Ordinul ministrului transporturilor nr. 1.613/2014 pentru aprobarea Programului național de control al calității în domeniul securității aviației civile - PNCC-SECA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295093",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295093",
+     "sha256": "04ee6b6591cdd586f503dedf4fdc439c29a89ad96d4324cce53ca1dc33541a2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1901-2025",
+   "path": "ordin/transporturi/2025/1901",
+   "short": "Ordin transporturi nr. 1901/2025",
+   "title": "Ordinul nr. 1.901/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 358/2012 pentru aprobarea Liniilor directoare cu privire la măsurile de îmbunătățire a siguranței circulației pe infrastructura rutieră, în vederea aplicării Directivei 2008/96/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind gestionarea siguranței infrastructurii rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302846",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302846",
+     "sha256": "9d0df36081a24a94ce4fa5da610629205f143c102941df5f3c8e3da4b45db902"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1909-2025",
    "path": "ordin/transporturi/2025/1909",
    "short": "Ordin transporturi nr. 1909/2025",
@@ -6963,6 +7818,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1975-2025",
+   "path": "ordin/transporturi/2025/1975",
+   "short": "Ordin transporturi nr. 1975/2025",
+   "title": "Ordinul nr. 1.975/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303758",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303758",
+     "sha256": "74d2b6767448c5669a6edd5cbe13c78ab30d26978cde6d76635fe495d2fef20f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1976-2025",
    "path": "ordin/transporturi/2025/1976",
    "short": "Ordin transporturi nr. 1976/2025",
@@ -6974,6 +7844,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303744",
      "sha256": "780152c8324f570618d8f183706471a94fd940c58480c96d250449f8268a899a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1982-2025",
+   "path": "ordin/transporturi/2025/1982",
+   "short": "Ordin transporturi nr. 1982/2025",
+   "title": "Ordinul nr. 1.982/2025 pentru modificarea alin. (1) al art. 11 din Regulamentul de organizare și funcționare a Comisiei de atestare, disciplină și soluționare a contestațiilor, aprobat prin Ordinul ministrului transporturilor nr. 655/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303841",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303841",
+     "sha256": "acf1cfb778683147cd55bb3c75e8eab19f64186e299db5ef39edeb5af65b9d73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2007-2025",
+   "path": "ordin/transporturi/2025/2007",
+   "short": "Ordin transporturi nr. 2007/2025",
+   "title": "Ordinul nr. 2.007/2025 pentru prorogarea termenului prevăzut la alin. (2) al art. 8 din Ordinul ministrului transporturilor nr. 615/2015 privind aprobarea Procedurii pentru obținerea permisului de mecanic de locomotivă, Cerințelor privind procedurile de eliberare și actualizare a certificatului și Cerințelor și procedurii de recunoaștere a persoanelor și organismelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303763",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303763",
+     "sha256": "83e8878b5cfc4d818e1ff55a7e88a84afa6884ae783359e9e998770a89ad774b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2116-2025",
+   "path": "ordin/transporturi/2025/2116",
+   "short": "Ordin transporturi nr. 2116/2025",
+   "title": "Ordinul nr. 2.116/2025 privind completarea Ordinului ministrului transporturilor nr. 1.252/2014 pentru aprobarea criteriilor minime de pregătire și perfecționare a personalului navigant maritim român și a sistemului de recunoaștere a brevetelor și a certificatelor de capacitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304797",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304797",
+     "sha256": "11a1f5b3c7f5f2ada831742b999457efb0053602c599871ca52ef542f70acc11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2117-2025",
+   "path": "ordin/transporturi/2025/2117",
+   "short": "Ordin transporturi nr. 2117/2025",
+   "title": "Ordinul nr. 2.117/2025 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 271/2022 pentru aprobarea Reglementării aeronautice civile române RACR-LMET \"Licența de meteorolog aeronautic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304798",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304798",
+     "sha256": "fcb7c59d5699612b67dcc312c6eb1fa07bc3dfda078624b990a5db239a492ccc"
     }
    ]
   },
@@ -7019,6 +7949,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305016",
      "sha256": "a8fdb39ec782863b3e428b33bea0e08df0a2eb89cc3a29461493bad7ece342aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-222-2025",
+   "path": "ordin/transporturi/2025/222",
+   "short": "Ordin transporturi nr. 222/2025",
+   "title": "Ordinul nr. 222/2025 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 1.039/2024 privind aprobarea tarifelor care pot fi percepute de operatorii de servicii publice pentru serviciile de transport feroviar public de călători care fac obiectul obligației de serviciu public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295382",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295382",
+     "sha256": "18be032301deaab8be1141f51d3f24a4019e3740df7415811f84c55cf8061872"
     }
    ]
   },
@@ -7263,6 +8208,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-336-2025",
+   "path": "ordin/transporturi/2025/336",
+   "short": "Ordin transporturi nr. 336/2025",
+   "title": "Ordinul nr. 336/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297023",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297023",
+     "sha256": "333100a93e367d4a31d4daee3a768b73be2e946fb0a63070a9f1faea8bb590c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-363-2025",
+   "path": "ordin/transporturi/2025/363",
+   "short": "Ordin transporturi nr. 363/2025",
+   "title": "Ordinul nr. 363/2025 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296983",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296983",
+     "sha256": "57d2cd4ce97016b4462a7de0de78a2c8a686b8671b84df47364be0237facf941"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-379-2025",
    "path": "ordin/transporturi/2025/379",
    "short": "Ordin transporturi nr. 379/2025",
@@ -7308,6 +8283,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-397-2025",
+   "path": "ordin/transporturi/2025/397",
+   "short": "Ordin transporturi nr. 397/2025",
+   "title": "Ordinul nr. 397/2025 pentru abrogarea art. 30 din anexa la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 426/2006 privind aprobarea Regulilor de navigație pe Canalul Dunăre-Marea Neagră și Canalul Poarta Albă-Midia-Năvodari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297905",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297905",
+     "sha256": "f2f9fd2126a7ad2311638d1792abc6f6d6444a107c50568695935ddc7cee3ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-398-2025",
+   "path": "ordin/transporturi/2025/398",
+   "short": "Ordin transporturi nr. 398/2025",
+   "title": "Ordinul nr. 398/2025 pentru completarea Ordinului ministrului transporturilor nr. 1.309/2014 privind măsuri pentru aplicarea Regulamentului (UE) nr. 139/2014 al Comisiei din 12 februarie 2014 de stabilire a cerințelor tehnice și a procedurilor administrative referitoare la aerodromuri în temeiul Regulamentului (CE) nr. 216/2008 al Parlamentului European și al Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297387",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297387",
+     "sha256": "1e336fd2c98617c94e8c06887f6bf3bf74c8130d2627d4b68b1a4b999756d2c4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-425-2025",
    "path": "ordin/transporturi/2025/425",
    "short": "Ordin transporturi nr. 425/2025",
@@ -7323,6 +8328,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-426-2025",
+   "path": "ordin/transporturi/2025/426",
+   "short": "Ordin transporturi nr. 426/2025",
+   "title": "Ordinul nr. 426/2025 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.262/2005 privind autorizarea personalului cu responsabilități în siguranța circulației care urmează să desfășoare pe propria răspundere activități specifice transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297880",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297880",
+     "sha256": "b01bc2791f454f16f2f87b5ed293dd241144739d85d440c8e9ab9bc1d4f87b14"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-45-2025",
    "path": "ordin/transporturi/2025/45",
    "short": "Ordin transporturi nr. 45/2025",
@@ -7334,6 +8354,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293929",
      "sha256": "de23dbf3ad9c7970d2b64e324db30c420ba4b9a86aa32dffca091714ca778885"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-457-2025",
+   "path": "ordin/transporturi/2025/457",
+   "short": "Ordin transporturi nr. 457/2025",
+   "title": "Ordinul nr. 457/2025 pentru modificarea și completarea unor acte normative în domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298138",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298138",
+     "sha256": "5dd8d26501abe2d32ba6468f638804980fcb963d6c29a2e5a0e87451e9812fa5"
     }
    ]
   },
@@ -7428,6 +8463,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-534-2025",
+   "path": "ordin/transporturi/2025/534",
+   "short": "Ordin transporturi nr. 534/2025",
+   "title": "Ordinul nr. 534/2025 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de \"Autoritatea Aeronautică Civilă Română\" pentru efectuarea activităților prevăzute la art. 6 alin. (2) lit. a) din Hotărârea Guvernului nr. 405/1993 privind înființarea Autorității Aeronautice Civile Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298852",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298852",
+     "sha256": "47e6bfd335fd19ba9266ac865c9a41b16bd371198de8de5273b0679fac2fc9cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-54-2025",
+   "path": "ordin/transporturi/2025/54",
+   "short": "Ordin transporturi nr. 54/2025",
+   "title": "Ordinul nr. 54/2025 pentru modificarea literei A din capitolul 8 al anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de \"Autoritatea Aeronautică Civilă Română\" pentru efectuarea activităților prevăzute la art. 6 alin. (2) lit. a) din Hotărârea Guvernului nr. 405/1993 privind înființarea Autorității Aeronautice Civile Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294153",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294153",
+     "sha256": "365a06cf7399d0fde8bfb85e04f748f4cbb78d2466899716d7e2e7fc20d64206"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-563-2025",
+   "path": "ordin/transporturi/2025/563",
+   "short": "Ordin transporturi nr. 563/2025",
+   "title": "Ordinul nr. 563/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate și propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanța de urgență a Guvernului nr. 12/1998 privind transportul pe căile ferate române și reorganizarea Societății Naționale a Căilor Ferate Române, precum și pentru mandatarea companiei naționale care administrează infrastructura feroviară pentru constituirea parteneriatelor și pentru încheierea protocoalelor de implementare a proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298908",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298908",
+     "sha256": "e2065f7a5c5aef614e8157e912944410b63e079846acb212f67324a855003720"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-579-2025",
    "path": "ordin/transporturi/2025/579",
    "short": "Ordin transporturi nr. 579/2025",
@@ -7443,6 +8523,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-66-2025",
+   "path": "ordin/transporturi/2025/66",
+   "short": "Ordin transporturi nr. 66/2025",
+   "title": "Ordinul nr. 66/2025 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005 pentru aprobarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294018",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294018",
+     "sha256": "24d303f7079f785bc71d39ae3afe539931aafd94088e48eb0446b2396839fe68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-676-2025",
+   "path": "ordin/transporturi/2025/676",
+   "short": "Ordin transporturi nr. 676/2025",
+   "title": "Ordinul nr. 676/2025 privind modificarea zonei interzise LRP2 Cernavodă în zonă restricționată pentru o perioadă de 30 de zile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299651",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299651",
+     "sha256": "cdd4472ea09bbe63df6b8dd00bcb0ff5ab163d2d40da40d5b6c92006ed0b034f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-695-2025",
+   "path": "ordin/transporturi/2025/695",
+   "short": "Ordin transporturi nr. 695/2025",
+   "title": "Ordinul nr. 695/2025 pentru modificarea anexei la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.359/2022 privind aprobarea Programului național de siguranță în aviația civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299826",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299826",
+     "sha256": "8a595409e8f45fad9ff66b99c0248029f86c2fe78ef2bce6c169e9c2c049c4fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-755-2025",
+   "path": "ordin/transporturi/2025/755",
+   "short": "Ordin transporturi nr. 755/2025",
+   "title": "Ordinul nr. 755/2025 pentru aprobarea Schemei de ajutor de stat privind înlocuirea utilajelor și echipamentelor neperformante din punctul de vedere al consumului de energie din sectorul transportului naval și aerian cu utilaje și echipamente cu emisii zero, precum și a vehiculelor ce asigură servicii anexe transportului feroviar și naval, pentru a se califica drept vehicule cu emisii zero",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300411",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300411",
+     "sha256": "86fde1626124d9a7f5111551b862fd78ab8aaeea09c6ce01aa7c88eb0d185d53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-756-2025",
    "path": "ordin/transporturi/2025/756",
    "short": "Ordin transporturi nr. 756/2025",
@@ -7454,6 +8594,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300541",
      "sha256": "0fa05dd0cbea1c21e9e58ac3553442dd4b29a910180ee852b9c5c769c39f97a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-975-2025",
+   "path": "ordin/transporturi/2025/975",
+   "short": "Ordin transporturi nr. 975/2025",
+   "title": "Ordinul nr. 975/2025 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.039/2024 privind aprobarea tarifelor care pot fi percepute de operatorii de servicii publice pentru serviciile de transport feroviar public de călători care fac obiectul obligației de serviciu public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300395",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300395",
+     "sha256": "a70ce743a0f9fbc6fa65097e13eeda84057b6a0f94e040e0d2ace558a363c30a"
     }
    ]
   }

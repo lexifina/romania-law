@@ -1,8 +1,8 @@
 # Ordinul nr. 803/2016 pentru aprobarea metodologiei de stabilire a prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor deficiențe organice sau funcționale în ambulatoriu, în cadrul sistemului de asigurări sociale de sănătate
 
-Ordin cnas nr. 803/2016 · 1 versions, from 2016-09-30 (latest in force: 2016-09-30) · <https://legislatie.just.ro/Public/DetaliiDocument/182134>
+Ordin cnas nr. 803/2016 · 1 versions, from 2016-10-01 (latest in force: 2016-10-01) · <https://legislatie.just.ro/Public/DetaliiDocument/182134>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 October 2016; this record still dates it from 30 September 2016, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,4 +27,4 @@ Act id: `ordin-cnas-803-2016` (tags `ordin-cnas-803-2016/<day>`; `python tools/o
 - Ordin cnas nr. 803/2016: the first version is the order as published in Monitorul Oficial nr. 768 of 30 September 2016 (document 182134 of the official web service), in force on 1 October 2016, the day it states for itself.
 - Ordin cnas nr. 803/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 803/2016: Anexa nr. 1 (LISTA prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor deficiențe organice sau funcționale în ambulatoriu) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 182134 of the official web service.
-- Ordin cnas nr. 803/2016: first published here dated 30 September 2016; its in-force clause states 1 October 2016. The record keeps the first date until it is corrected by hand.
+- Ordin cnas nr. 803/2016: re-dated by a correction: in force from 1 October 2016 (first published dated 30 September 2016).

@@ -1,8 +1,8 @@
 # Ordinul nr. 397/2018 privind aprobarea Normelor metodologice de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019
 
-Ordin sanatate nr. 397/2018 · 1 versions, from 2018-03-28 (latest in force: 2018-03-28) · <https://legislatie.just.ro/Public/DetaliiDocument/199160>
+Ordin sanatate nr. 397/2018 · 1 versions, from 2018-04-01 (latest in force: 2018-04-01) · <https://legislatie.just.ro/Public/DetaliiDocument/199160>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 1 April 2018; this record still dates it from 28 March 2018, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-sanatate-397-2018` (tags `ordin-sanatate-397-2018/<day>`; `python
 - Ordin sanatate nr. 397/2018: Anexa nr. 1 (-48 NORME METODOLOGICE de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței m) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 199160 of the official web service.
 - Ordin sanatate nr. 397/2018: the publisher's note "*) Anexele nr. 1-48 se publică în Monitorul Oficial al României, Partea I, nr. 273 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficialˮ, Bucur" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Ordin sanatate nr. 397/2018: a joint order of Ministerul Sănătății nr. 397 din 27 March 2018; Casa Națională de Asigurări de Sănătate nr. 836 din 27 March 2018. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-836-2018` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 397/2018: first published here dated 28 March 2018; its in-force clause states 1 April 2018. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 397/2018: re-dated by a correction: in force from 1 April 2018 (first published dated 28 March 2018).

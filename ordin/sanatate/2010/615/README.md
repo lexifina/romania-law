@@ -1,8 +1,8 @@
 # Ordinul nr. 615/2010 privind modificarea Normelor și protocoalelor analitice, farmacotoxicologice și clinice referitoare la testarea medicamentelor, aprobate prin Ordinul ministrului sănătății publice nr. 906/2006
 
-Ordin sanatate nr. 615/2010 · 1 versions, from 2010-06-07 (latest in force: 2010-06-07) · <https://legislatie.just.ro/Public/DetaliiDocument/119344>
+Ordin sanatate nr. 615/2010 · 1 versions, from 2010-06-17 (latest in force: 2010-06-17) · <https://legislatie.just.ro/Public/DetaliiDocument/119344>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 17 June 2010; this record still dates it from 7 June 2010, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,4 @@ Act id: `ordin-sanatate-615-2010` (tags `ordin-sanatate-615-2010/<day>`; `python
 - Ordin sanatate nr. 615/2010: the first version is the order as published in Monitorul Oficial nr. 376 of 7 June 2010 (document 119344 of the official web service), in force on 17 June 2010, the day it states for itself.
 - Ordin sanatate nr. 615/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 615/2010: Anexa nr. 1 (Anexa nr. 1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 119344 of the official web service.
-- Ordin sanatate nr. 615/2010: first published here dated 7 June 2010; its in-force clause states 17 June 2010. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 615/2010: re-dated by a correction: in force from 17 June 2010 (first published dated 7 June 2010).

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-319-2022",
+   "path": "ordin/agricultura/2022/319",
+   "short": "Ordin agricultura nr. 319/2022",
+   "title": "Ordinul nr. 319/2022 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului mediului nr. 126/807/2017 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale din ariile naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265205",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265205",
+     "sha256": "fb9c117354d17d903967f0ea0963d893d2652410d0ee25d277adae21ca9a0803"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-379-2022",
    "path": "ordin/agricultura/2022/379",
    "short": "Ordin agricultura nr. 379/2022",
@@ -104,6 +119,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264566",
      "sha256": "d4924284bea80a136eccc47c6e698b0fb3b2f689f71e5a8f3f71196d8aaddbe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-42-2022",
+   "path": "ordin/agricultura/2022/42",
+   "short": "Ordin agricultura nr. 42/2022",
+   "title": "Ordinul nr. 42/2022 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2022, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252613",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252613",
+     "sha256": "8dbc09e44935c8279763eda738a04d098b366a2b0eb473acf22a8d362842891a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-57-2022",
+   "path": "ordin/agricultura/2022/57",
+   "short": "Ordin agricultura nr. 57/2022",
+   "title": "Ordinul nr. 57/2022 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție și refacere biologică a resurselor acvatice vii în anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253220",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253220",
+     "sha256": "22e9174ad2c2ca7f6d4913ca29ffa2ea90b534ca734bb3d1ccab946b0e3b4129"
     }
    ]
   },
@@ -1570,7 +1615,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259744",
    "versions": [
     {
-     "from": "2022-09-29",
+     "from": "2022-10-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259744",
      "sha256": "5b4fc780617da1a9bc937e7b14c1ef28bd73fc833fe60d96286ab17fcd8d9ce8"
@@ -3715,7 +3760,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263115",
    "versions": [
     {
-     "from": "2022-12-23",
+     "from": "2023-01-01",
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263115",
      "sha256": "7b756cc81814dac7f02407936bea479004a2ca59ff8252697d5b1b3c58a1dc59"
@@ -3895,7 +3940,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/256575",
    "versions": [
     {
-     "from": "2022-06-21",
+     "from": "2022-07-21",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256575",
      "sha256": "b771759689a0354baeb9dded5dd700c67e6408cb44b48fafefc40939d5c541e2"
@@ -3910,7 +3955,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/257409",
    "versions": [
     {
-     "from": "2022-07-11",
+     "from": "2022-08-10",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257409",
      "sha256": "a4df1d86bc28058789e89cef152289b0a30c1b57850367792b153a37ceba33dc"
@@ -3940,7 +3985,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/257920",
    "versions": [
     {
-     "from": "2022-07-29",
+     "from": "2022-08-28",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920",
      "sha256": "86c780ba7b34667304fd6a472a858f2feded6f1728b448f4ad8df1ac96cb591e"
@@ -4000,7 +4045,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
    "versions": [
     {
-     "from": "2022-09-23",
+     "from": "2022-10-23",
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
      "sha256": "0d1ff5625f8d700146657a92944b23a4e148f7063c3712ce73c24b23479aa927"
@@ -4015,7 +4060,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259494",
    "versions": [
     {
-     "from": "2022-09-21",
+     "from": "2022-10-21",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259494",
      "sha256": "917ad14734efa83b21df644aa18bc331fa4baadf2bf88401666f6d96f131dc3e"
@@ -4030,7 +4075,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259473",
    "versions": [
     {
-     "from": "2022-09-20",
+     "from": "2022-10-20",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259473",
      "sha256": "cd9bb0fa7265c2c250b64d973e9bc32e630cd3ab1b6cbd28a2bb9dc77758f011"
@@ -4045,7 +4090,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259725",
    "versions": [
     {
-     "from": "2022-09-29",
+     "from": "2022-10-29",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259725",
      "sha256": "b333958ed8f090c5bf250d4bbb5f717581e397773d6f4eff0a27b22d932ccd49"
@@ -4060,7 +4105,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/260309",
    "versions": [
     {
-     "from": "2022-10-11",
+     "from": "2022-11-10",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260309",
      "sha256": "2651b11a846a61dfd429752957f6db028912f1fd2f36ae06e3d62bd57c3710d7"
@@ -4135,7 +4180,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/261375",
    "versions": [
     {
-     "from": "2022-11-15",
+     "from": "2022-12-15",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261375",
      "sha256": "839e71aedf7304eb9e5f5d25e29c460a6e2374d7eee42eb3124dd16672ba11f7"
@@ -4150,7 +4195,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/261380",
    "versions": [
     {
-     "from": "2022-11-15",
+     "from": "2022-12-15",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261380",
      "sha256": "fe8fd9818a14a93ff818bf6575761b6b5ff3b639e891a8417f2e70973127a87f"
@@ -4210,7 +4255,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/262177",
    "versions": [
     {
-     "from": "2022-12-06",
+     "from": "2023-01-05",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262177",
      "sha256": "c3c60e011d6e26d87801c2be4374ca29fe8015fe392163ad5be3a4e61c021b88"
@@ -4255,7 +4300,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/262849",
    "versions": [
     {
-     "from": "2022-12-19",
+     "from": "2023-01-18",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262849",
      "sha256": "f2c8db776e7d45ab50f553f586ecb294188cc104ed6ff808628238b4a810de83"
@@ -4270,7 +4315,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/262844",
    "versions": [
     {
-     "from": "2022-12-20",
+     "from": "2023-01-19",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262844",
      "sha256": "975a91b2a44097f173371bf75deb041d7e545a78f42108a2e66cf8da6768ced6"
@@ -4315,7 +4360,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263139",
    "versions": [
     {
-     "from": "2022-12-27",
+     "from": "2023-01-26",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263139",
      "sha256": "f07b7bc65e80ed11e7c41594b9b4095bcd4e1d1052a39ac2e1b372209036c77a"
@@ -5530,7 +5575,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/259121",
    "versions": [
     {
-     "from": "2022-09-07",
+     "from": "2023-01-01",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259121",
      "sha256": "9bfdf041208fb59f226416ea77215cc228c52ea91d44ce88c2fccd53205689ac"
@@ -6145,7 +6190,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/263346",
    "versions": [
     {
-     "from": "2022-12-30",
+     "from": "2023-01-01",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263346",
      "sha256": "81020933720f8ccc65cdd8d94ff0958cfc1451b6939fe5b179f29916f5d3f4a6"
@@ -7338,6 +7383,96 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1047-2022",
+   "path": "ordin/mediu/2022/1047",
+   "short": "Ordin mediu nr. 1047/2022",
+   "title": "Ordinul nr. 1.047/2022 pentru modificarea și completarea Normelor metodologice privind avizul de amplasament, aprobate prin Ordinul ministrului mediului și gospodăririi apelor nr. 2/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255525",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255525",
+     "sha256": "e11a6967338f1402dcb265080a940dde75efb0515547daa019303c6e01d41fac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-110-2022",
+   "path": "ordin/mediu/2022/110",
+   "short": "Ordin mediu nr. 110/2022",
+   "title": "Ordinul nr. 110/2022 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250569",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250569",
+     "sha256": "31dda1ddbd8c91d979d3c85ce7191dfb124d8dfd4b7e25d2ccc87f6cc6d8d109"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-119-2022",
+   "path": "ordin/mediu/2022/119",
+   "short": "Ordin mediu nr. 119/2022",
+   "title": "Ordinul nr. 119/2022 privind aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2022, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251112",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251112",
+     "sha256": "331e0390f1d983458c998c8e44743559038a59736aebe6655da925ab62ae9aad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-120-2022",
+   "path": "ordin/mediu/2022/120",
+   "short": "Ordin mediu nr. 120/2022",
+   "title": "Ordinul nr. 120/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251106",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251106",
+     "sha256": "1d6e809d8132f766fad07e1305f58f2d844949dd423d09729b0955f21d21622b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-128-2022",
+   "path": "ordin/mediu/2022/128",
+   "short": "Ordin mediu nr. 128/2022",
+   "title": "Ordinul nr. 128/2022 pentru modificarea anexelor nr. 1-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251119",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251119",
+     "sha256": "d1f75dd0d1ec3564ff232612de24d30f5aad2c44a80089d1f36efc76cd75483c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1337-2022",
+   "path": "ordin/mediu/2022/1337",
+   "short": "Ordin mediu nr. 1337/2022",
+   "title": "Ordinul nr. 1.337/2022 pentru aprobarea Normelor metodologice privind constituirea și utilizarea Fondului de ameliorare a fondului funciar cu destinație silvică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256432",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256432",
+     "sha256": "09492eb78280c87cedb48556d8b382f3e1c10a12b5138486a81a12fe99e6e4fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1368-2022",
    "path": "ordin/mediu/2022/1368",
    "short": "Ordin mediu nr. 1368/2022",
@@ -7349,6 +7484,366 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255849",
      "sha256": "d671a541d4edbf153d79ae9493e7bf0f60f3b5de029c0e83764d19919407818e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1541-2022",
+   "path": "ordin/mediu/2022/1541",
+   "short": "Ordin mediu nr. 1541/2022",
+   "title": "Ordinul nr. 1.541/2022 privind aprobarea Schemei de ajutor de stat pentru compensarea costurilor de investiții necesare pentru dezvoltarea infrastructurii de management al deșeurilor municipale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256633",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256633",
+     "sha256": "427ad3a1fd0868501da014315f50a785c3d2737330953de9850913204055a1a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1570-2022",
+   "path": "ordin/mediu/2022/1570",
+   "short": "Ordin mediu nr. 1570/2022",
+   "title": "Ordinul nr. 1.570/2022 privind stabilirea modelului-cadru al acordului de colaborare dintre gestionarul fondului cinegetic și unitățile administrativ-teritoriale de pe raza fondului cinegetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256803",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256803",
+     "sha256": "8719266b41121a43b98bdefcd2e7e7e235c1deeeee456c147f42d7700f90d16b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1571-2022",
+   "path": "ordin/mediu/2022/1571",
+   "short": "Ordin mediu nr. 1571/2022",
+   "title": "Ordinul nr. 1.571/2022 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada iunie 2022-14 mai 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256065",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256065",
+     "sha256": "b755ba110329b9ccef0ef4c34fb77daf0bfa334be427d35c93c9ce1d11192292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1642-2022",
+   "path": "ordin/mediu/2022/1642",
+   "short": "Ordin mediu nr. 1642/2022",
+   "title": "Ordinul nr. 1.642/2022 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul mediului, nr. 572/2019 pentru depunerea declarațiilor privind obligațiile la Fondul pentru mediu prin mijloace electronice de transmitere la distanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256748",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256748",
+     "sha256": "dba3ed428db5835138223116407068d86e722240b7c8ec05552fa7d2f5527e41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1646-2022",
+   "path": "ordin/mediu/2022/1646",
+   "short": "Ordin mediu nr. 1646/2022",
+   "title": "Ordinul nr. 1.646/2022 pentru modificarea Regulamentului privind forma și modul de utilizare a dispozitivelor speciale de marcat, precum și modul de marcare a arborilor sau a unor loturi de arbori, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.346/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256896",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256896",
+     "sha256": "e9dc22e2cf98dba4f173c0c243ddb08b47b7e49db28fbc6fc3b6bab2bc85a5ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1647-2022",
+   "path": "ordin/mediu/2022/1647",
+   "short": "Ordin mediu nr. 1647/2022",
+   "title": "Ordinul nr. 1.647/2022 pentru aprobarea Normelor metodologice privind controlul transferurilor de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256826",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256826",
+     "sha256": "6d06c185508478fe8798c059552dd1a1166eb96532d1584c9c8e1a7997a55550"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-165-2022",
+   "path": "ordin/mediu/2022/165",
+   "short": "Ordin mediu nr. 165/2022",
+   "title": "Ordinul nr. 165/2022 privind aprobarea derogării pentru unele specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251494",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251494",
+     "sha256": "040518e0d4f0d66e143ad6de1ed63873b6e837f32b035645a3012f15d44af7c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1704-2022",
+   "path": "ordin/mediu/2022/1704",
+   "short": "Ordin mediu nr. 1704/2022",
+   "title": "Ordinul nr. 1.704/2022 privind modificarea Ordinului ministrului mediului, apelor și pădurilor nr. 1.287/2021 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor, a studiilor hidrologice, hidrogeologice, de gospodărire a apelor și de evaluare a impactului asupra corpurilor de apă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256838",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256838",
+     "sha256": "628a5ab5e20fccd05ef3930e8c3ed03d66f3802549ca18c70fabdcbaf15a674e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1736-2022",
+   "path": "ordin/mediu/2022/1736",
+   "short": "Ordin mediu nr. 1736/2022",
+   "title": "Ordinul nr. 1.736/2022 privind aprobarea Procedurii de înregistrare, raportare și declarare a operatorilor economici care introduc deșeuri în țară pentru a fi valorificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256828",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256828",
+     "sha256": "6b44c1fdfa71d198ffeea28c9ad66b282495d275fd2f5c309180c000a4b03783"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-179-2022",
+   "path": "ordin/mediu/2022/179",
+   "short": "Ordin mediu nr. 179/2022",
+   "title": "Ordinul nr. 179/2022 privind modificarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251367",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251367",
+     "sha256": "67c26cac8654a6477b98e913a41f2bb2decc9bff9019981f3a6a332c19fda4b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1795-2022",
+   "path": "ordin/mediu/2022/1795",
+   "short": "Ordin mediu nr. 1795/2022",
+   "title": "Ordinul nr. 1.795/2022 pentru aprobarea derogării în scop științific pentru specia castor (Castor fiber)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257560",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257560",
+     "sha256": "4bb68ea29330c3f33eb4afda5e5d979a8be079c1b9a443a637d541c33030210b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-180-2022",
+   "path": "ordin/mediu/2022/180",
+   "short": "Ordin mediu nr. 180/2022",
+   "title": "Ordinul nr. 180/2022 privind modificarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251368",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251368",
+     "sha256": "aba66489769fcd549e7028e48bb16dde295b9e5b8a62767ed63d566392ff39fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1901-2022",
+   "path": "ordin/mediu/2022/1901",
+   "short": "Ordin mediu nr. 1901/2022",
+   "title": "Ordinul nr. 1.901/2022 privind aprobarea Regulamentului Parcului Natural Apuseni, al siturilor de importanță comunitară ROSCI0002 Apuseni, ROSCI0016 Buteasa, al ariei de protecție specială avifaunistică ROSPA0081 Munții Apuseni - Vlădeasa și al ariilor naturale protejate de interes național cu care se suprapun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257852",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257852",
+     "sha256": "cef4e5ed25502dbd27a472fdf050caedd3aa004da16a47dd66aa97021b4b204e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1929-2022",
+   "path": "ordin/mediu/2022/1929",
+   "short": "Ordin mediu nr. 1929/2022",
+   "title": "Ordinul nr. 1.929/2022 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0381 Râul Târgului-Argeșel-Râușor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258566",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258566",
+     "sha256": "6737cc1f5d11a4a9d8c77f8c8752861bf9c1b08dc53029319e8f4982ca6f4a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1948-2022",
+   "path": "ordin/mediu/2022/1948",
+   "short": "Ordin mediu nr. 1948/2022",
+   "title": "Ordinul nr. 1.948/2022 privind aprobarea derogării în scop științific pentru unele specii de pești de interes comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257732",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257732",
+     "sha256": "9184c22e24d2f76122286f6de4c8e9a3789ec32f79ef21751ce868e85bed9399"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1990-2022",
+   "path": "ordin/mediu/2022/1990",
+   "short": "Ordin mediu nr. 1990/2022",
+   "title": "Ordinul nr. 1.990/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258285",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258285",
+     "sha256": "45624be19b551d88fa6e42b0b8aa26e051ea6b45b14792cea1eff6643f27f16f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2001-2022",
+   "path": "ordin/mediu/2022/2001",
+   "short": "Ordin mediu nr. 2001/2022",
+   "title": "Ordinul nr. 2.001/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258258",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258258",
+     "sha256": "35d6dddef30c9c6811d89543cccf2dd550a1e15eb5ce327907219263005e433c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2011-2022",
+   "path": "ordin/mediu/2022/2011",
+   "short": "Ordin mediu nr. 2011/2022",
+   "title": "Ordinul nr. 2.011/2022 pentru modificarea și completarea Ordinului ministrului mediului, apelor și pădurilor nr. 2.202/2020 privind aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258299",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258299",
+     "sha256": "557027f3895e20bd1ea07089a46bdf832f102034ae0611db2104a4d6c694b6f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2012-2022",
+   "path": "ordin/mediu/2022/2012",
+   "short": "Ordin mediu nr. 2012/2022",
+   "title": "Ordinul nr. 2.012/2022 pentru desemnarea Asociației Române de Mediu 1998 ca organism național în vederea atestării persoanelor fizice și juridice care desfășoară activități din domeniul gestionării siturilor contaminate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258300",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258300",
+     "sha256": "c65580edd81301b058730df67fcf946c2a2f42ed08e9b7f173c449b280b6b328"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2014-2022",
+   "path": "ordin/mediu/2022/2014",
+   "short": "Ordin mediu nr. 2014/2022",
+   "title": "Ordinul nr. 2.014/2022 privind aprobarea Listei speciilor de interes comunitar pentru care România are o responsabilitate mare în asigurarea conservării acestora, în cadrul Proiectului \"Completarea nivelului de cunoaștere a biodiversității prin implementarea sistemului de monitorizare a stării de conservare a speciilor de păsări de interes comunitar din România și raportarea în baza articolului 12 al Directivei Păsări 2009/147/CE\", finanțat prin Programul operațional Infrastructura mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258400",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258400",
+     "sha256": "8023d5c2dd996e76072971866d0e2c51c08e065c1fc4c4d0e39887b32131c881"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2015-2022",
+   "path": "ordin/mediu/2022/2015",
+   "short": "Ordin mediu nr. 2015/2022",
+   "title": "Ordinul nr. 2.015/2022 privind aprobarea Listei roșii naționale a speciilor de păsări din România, folosind criteriile IUCN, în cadrul Proiectului \"Completarea nivelului de cunoaștere a biodiversității prin implementarea sistemului de monitorizare a stării de conservare a speciilor de păsări de interes comunitar din România și raportarea în baza articolului 12 al Directivei Păsări 2009/147/CE\", finanțat prin Programul operațional Infrastructura mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258409",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258409",
+     "sha256": "a1332967b563f40adff8c13fddbdd9af591612294a7cc8f16bc046a69c1a75fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2121-2022",
+   "path": "ordin/mediu/2022/2121",
+   "short": "Ordin mediu nr. 2121/2022",
+   "title": "Ordinul nr. 2.121/2022 pentru aprobarea Schemei de ajutor de stat \"Sprijin pentru investiții în noi suprafețe ocupate de păduri\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258481",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258481",
+     "sha256": "82c2629ac0e597b6ce2399d3e2aad8d29b7e433cf28227ab409e6ed83893d932"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2122-2022",
+   "path": "ordin/mediu/2022/2122",
+   "short": "Ordin mediu nr. 2122/2022",
+   "title": "Ordinul nr. 2.122/2022 pentru aprobarea Schemei de ajutor de stat \"Sprijin pentru refacerea potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare și de evenimente catastrofale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258483",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258483",
+     "sha256": "09987847c32fa1474cda5e3aef2f741504f9b2025a9e4f6007689fcc47e42247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2183-2022",
+   "path": "ordin/mediu/2022/2183",
+   "short": "Ordin mediu nr. 2183/2022",
+   "title": "Ordinul nr. 2.183/2022 pentru modificarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind gestionarea deșeurilor, aprobat prin Ordinul viceprim-ministrului, ministrul mediului, nr. 1.196/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258472",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258472",
+     "sha256": "fbc907f8280bdc81131fccaca4fa0e9dcb7ff8cd23292dae7043d51640dcbbdc"
     }
    ]
   },
@@ -7368,6 +7863,321 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2261-2022",
+   "path": "ordin/mediu/2022/2261",
+   "short": "Ordin mediu nr. 2261/2022",
+   "title": "Ordinul nr. 2.261/2022 pentru aprobarea Ghidului de finanțare a Programului privind casarea autovehiculelor uzate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258610",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258610",
+     "sha256": "fdb2cdb40b6030734e2856348dc030442904a249d1d4d004473f1f6696c29ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2268-2022",
+   "path": "ordin/mediu/2022/2268",
+   "short": "Ordin mediu nr. 2268/2022",
+   "title": "Ordinul nr. 2.268/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259116",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259116",
+     "sha256": "afac72a3030b13d591ea72ce7d160f020a6e43871b77b8b2e32e8471d0071741"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2269-2022",
+   "path": "ordin/mediu/2022/2269",
+   "short": "Ordin mediu nr. 2269/2022",
+   "title": "Ordinul nr. 2.269/2022 privind aprobarea Schemei de ajutor de stat regional pentru investiții având ca scop reducerea efectelor negative ale deșeurilor asupra mediului și reducerea consumului de resurse primare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260234",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260234",
+     "sha256": "a059c05fc10349b619f33eb95941ecc8dfa64feb404d2cc7aa956728dd322ed2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2270-2022",
+   "path": "ordin/mediu/2022/2270",
+   "short": "Ordin mediu nr. 2270/2022",
+   "title": "Ordinul nr. 2.270/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258730",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258730",
+     "sha256": "6ed1cc1acafca6ba7ff2a5594bef6ce8204281c431465db9b2a88d217ed693d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2327-2022",
+   "path": "ordin/mediu/2022/2327",
+   "short": "Ordin mediu nr. 2327/2022",
+   "title": "Ordinul nr. 2.327/2022 pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259413",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259413",
+     "sha256": "885a6c1fe83b201177150aa47fdb2bc0e2c4f576c3300df6912e81f09cf47c62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2359-2022",
+   "path": "ordin/mediu/2022/2359",
+   "short": "Ordin mediu nr. 2359/2022",
+   "title": "Ordinul nr. 2.359/2022 pentru modificarea anexei nr. 5 la Ordinul ministrului mediului, apelor și pădurilor nr. 1.571/2022 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada iunie 2022-14 mai 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259414",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259414",
+     "sha256": "5390dd691a49edd144cd10f3a9a44c01eab6824337035dda54707aa72b1cb7e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2366-2022",
+   "path": "ordin/mediu/2022/2366",
+   "short": "Ordin mediu nr. 2366/2022",
+   "title": "Ordinul nr. 2.366/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.B, pentru subinvestiția I1.B. \"Construirea de insule ecologice digitalizate\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259287",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259287",
+     "sha256": "6c36af98b4c2fabe31433a86c467ea0680534c80ec0617bab6c9f94bcc0ffa59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2367-2022",
+   "path": "ordin/mediu/2022/2367",
+   "short": "Ordin mediu nr. 2367/2022",
+   "title": "Ordinul nr. 2.367/2022 pentru aprobarea Ghidului specific privind regulile și condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.A, pentru subinvestiția I1.a. \"Înființarea de centre de colectare prin aport voluntar\", investiția I1. \"Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune\", componenta 3. Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259298",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259298",
+     "sha256": "b2d72de85f5dc901056bfe863e238731024917be08c3ad6eecfbaf1dc738482d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2437-2022",
+   "path": "ordin/mediu/2022/2437",
+   "short": "Ordin mediu nr. 2437/2022",
+   "title": "Ordinul nr. 2.437/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259609",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259609",
+     "sha256": "5abf581535894ba27898adad058fc9c3da292e7c402a3769ba371c73dadf5327"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2479-2022",
+   "path": "ordin/mediu/2022/2479",
+   "short": "Ordin mediu nr. 2479/2022",
+   "title": "Ordinul nr. 2.479/2022 privind aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259676",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259676",
+     "sha256": "2198cb29860c6e7f3d45090c7bcb15a5ad6465a23d05d1efb484b9ece8f619bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2480-2022",
+   "path": "ordin/mediu/2022/2480",
+   "short": "Ordin mediu nr. 2480/2022",
+   "title": "Ordinul nr. 2.480/2022 privind aprobarea Planului național de acțiune pentru conservarea și managementul populației de gâscă cu gât roșu - Branta ruficollis, în perioada 2022-2032",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260348",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260348",
+     "sha256": "d829b07817613d0505730f18f8dd33d74a2e5251ce55c07e5e4b07977acda7b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2481-2022",
+   "path": "ordin/mediu/2022/2481",
+   "short": "Ordin mediu nr. 2481/2022",
+   "title": "Ordinul nr. 2.481/2022 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0030 Cheile Lăpușului împreună cu aria naturală de interes național 2.583 Cheile Lăpușului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259677",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259677",
+     "sha256": "e22971c31a993e2126266ee3277fdaf6770669594f87bc837b669ed03ce7f7e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2482-2022",
+   "path": "ordin/mediu/2022/2482",
+   "short": "Ordin mediu nr. 2482/2022",
+   "title": "Ordinul nr. 2.482/2022 privind aprobarea cotelor de recoltă pentru specia cocoș de munte (Tetrao urogallus), pentru perioada septembrie-30 noiembrie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259814",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259814",
+     "sha256": "ebd20cf5f9669690459dd0ef091c3ae45610b663d90f4fd3589d07d290ccc7bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2506-2022",
+   "path": "ordin/mediu/2022/2506",
+   "short": "Ordin mediu nr. 2506/2022",
+   "title": "Ordinul nr. 2.506/2022 pentru aprobarea Ghidului de finanțare a Programului de realizare a pistelor pentru biciclete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259886",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259886",
+     "sha256": "fa4165754569c9fe9f68be8e8988bbb315e79badefa077a0a9802252ae072c8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2523-2022",
+   "path": "ordin/mediu/2022/2523",
+   "short": "Ordin mediu nr. 2523/2022",
+   "title": "Ordinul nr. 2.523/2022 privind aprobarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.C, pentru subinvestiția I.1.c \"Centre integrate de colectare separată prin aport voluntar destinate aglomerărilor urbane\", componenta 3: Managementul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259693",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259693",
+     "sha256": "ad318cd655064b531d9410f45a24f5f76fd3224042660dae066ea08de3542152"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2533-2022",
+   "path": "ordin/mediu/2022/2533",
+   "short": "Ordin mediu nr. 2533/2022",
+   "title": "Ordinul nr. 2.533/2022 pentru aprobarea Normelor tehnice privind compoziții, scheme și tehnologii de regenerare a pădurilor și de împădurire a terenurilor degradate și a Ghidului de bune practici privind compoziții, scheme și tehnologii de regenerare a pădurilor și de împădurire a terenurilor degradate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260429",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260429",
+     "sha256": "271c3e958ecbe42b1bc0e14144f0afc944988017ad943134e33002befdd70652"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2535-2022",
+   "path": "ordin/mediu/2022/2535",
+   "short": "Ordin mediu nr. 2535/2022",
+   "title": "Ordinul nr. 2.535/2022 pentru aprobarea Normelor tehnice privind alegerea și aplicarea tratamentelor și a Ghidului de bune practici privind alegerea și aplicarea tratamentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260368",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260368",
+     "sha256": "f733bd9bddf4f8abd75c67ab800f02599f1befbdf6c5e92389c58b96931a2c6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2536-2022",
+   "path": "ordin/mediu/2022/2536",
+   "short": "Ordin mediu nr. 2536/2022",
+   "title": "Ordinul nr. 2.536/2022 pentru aprobarea Normelor tehnice privind amenajarea pădurilor și a Ghidului de bune practici privind amenajarea pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260400",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260400",
+     "sha256": "660ac8c9f2fdc05490da1c817140f55aec28a2b8a99d22e4adfa1a7a9b9ed398"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2540-2022",
+   "path": "ordin/mediu/2022/2540",
+   "short": "Ordin mediu nr. 2540/2022",
+   "title": "Ordinul nr. 2.540/2022 privind aprobarea Regulamentului de organizare și funcționare al Comitetului interministerial pentru analiza cadrului legal aplicabil sectoarelor cu impact asupra biodiversității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259788",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259788",
+     "sha256": "decdfacc266d2571f94908b9e4bf102be1d2040123c632ee0038a8bfe29fc820"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2595-2022",
+   "path": "ordin/mediu/2022/2595",
+   "short": "Ordin mediu nr. 2595/2022",
+   "title": "Ordinul nr. 2.595/2022 pentru aprobarea Ghidului de finanțare a Programului privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice și/sau hibrid plug-in în localități, prin instalarea de stații de reîncărcare cu putere normală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260541",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260541",
+     "sha256": "4671d5451e91b24f67697073384a04bd5b53aefc6930ee63f42961afdf682556"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2606-2022",
+   "path": "ordin/mediu/2022/2606",
+   "short": "Ordin mediu nr. 2606/2022",
+   "title": "Ordinul nr. 2.606/2022 pentru aprobarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență, componenta C3 - Managementul deșeurilor, investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, subinvestiția I1.D. - Construirea instalațiilor de reciclare a deșeurilor pentru a îndeplini țintele de reciclare din pachetul de economie circulară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260393",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260393",
+     "sha256": "2ce8993ee5d6149e5cb8b6efb64155ce1a8e8b67a51ffd0ca544fffdfb26a94f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2806-2022",
    "path": "ordin/mediu/2022/2806",
    "short": "Ordin mediu nr. 2806/2022",
@@ -7379,6 +8189,351 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261507",
      "sha256": "6ad4775ea1b0ffc64eac1f2e1c1ecda54383e2e98438753c4bea87afcb0810c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2847-2022",
+   "path": "ordin/mediu/2022/2847",
+   "short": "Ordin mediu nr. 2847/2022",
+   "title": "Ordinul nr. 2.847/2022 privind aprobarea Instrucțiunilor pentru evaluarea efectivelor unor specii de faună cinegetică admise la vânătoare și pentru reglementarea modului de stabilire a cotelor de recoltă pentru acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261342",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261342",
+     "sha256": "d14e061f91484ee824254a458428c16564d74fc0fcaa0046ca2affd58c5efb44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3008-2022",
+   "path": "ordin/mediu/2022/3008",
+   "short": "Ordin mediu nr. 3008/2022",
+   "title": "Ordinul nr. 3.008/2022 privind aprobarea Planului național de acțiune pentru abordarea căilor de introducere prioritare a speciilor alogene invazive din România, în cadrul proiectului \"Managementul adecvat al speciilor alogene invazive din România, în conformitate cu Regulamentul (UE) nr. 1.143/2014, referitor la prevenirea și gestionarea introducerii și răspândirii speciilor alogene invazive\" finanțat prin Programul operațional Infrastructura mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262262",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262262",
+     "sha256": "d92df0bd375a35e0c4a23e45d3b180455016db24652e176d0bfea3e4cdc7f10d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3027-2022",
+   "path": "ordin/mediu/2022/3027",
+   "short": "Ordin mediu nr. 3027/2022",
+   "title": "Ordinul nr. 3.027/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C2/I.1.A, pentru subinvestiția I.1.A \"Sprijin pentru investiții în noi suprafețe ocupate de păduri\", investiția 1: Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane, schemă de ajutor de stat, componenta 2: Păduri și protecția biodiversității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261680",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261680",
+     "sha256": "e30c36338cecc65f672d141deb8b3f75597f85b0bca1ca6caa4d4aaac270b639"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3039-2022",
+   "path": "ordin/mediu/2022/3039",
+   "short": "Ordin mediu nr. 3039/2022",
+   "title": "Ordinul nr. 3.039/2022 privind completarea Ordinului ministrului mediului, apelor și pădurilor nr. 723/2022 pentru aprobarea nivelului de intervenție și de prevenție în cazul speciei urs brun (Ursus arctos), în interesul sănătății și securității populației și în scopul prevenirii unor daune importante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262272",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262272",
+     "sha256": "550c13a8eeb8dfaa4246caf8aaa3343b7565f489c301110fd8c91879a6fc0db7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3070-2022",
+   "path": "ordin/mediu/2022/3070",
+   "short": "Ordin mediu nr. 3070/2022",
+   "title": "Ordinul nr. 3.070/2022 pentru aprobarea Schemei de ajutor de minimis \"Sprijin pentru investiții în pepiniere și tehnologii moderne de producere a puieților forestieri, în capacități de condiționare a semințelor forestiere și în realizarea de plantaje forestiere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262891",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262891",
+     "sha256": "d4de3b420dfb54f79517a92ea79afa32a876aeba341880b5fb52099c46d3e55d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3200-2022",
+   "path": "ordin/mediu/2022/3200",
+   "short": "Ordin mediu nr. 3200/2022",
+   "title": "Ordinul nr. 3.200/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C1/I2, pentru investiția I.2 \"Colectarea apelor uzate în aglomerările mai mici de 2.000 de locuitori echivalenți care împiedică atingerea unei stări bune a corpurilor de apă și/sau afectează arii naturale protejate\", componenta 1. Managementul apei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262391",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262391",
+     "sha256": "7ce983096e27de1202adc0ff9f1c064d2ecec79ec76b43ac2be9bdd5a74a6cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3255-2022",
+   "path": "ordin/mediu/2022/3255",
+   "short": "Ordin mediu nr. 3255/2022",
+   "title": "Ordinul nr. 3.255/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C1/I1, pentru investiția I.1 \"Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2.000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene\", componenta 1. Managementul apei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262820",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262820",
+     "sha256": "925829c6922558eec739bb3e4e9b486d81937498f911838414c96161075aec60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3272-2022",
+   "path": "ordin/mediu/2022/3272",
+   "short": "Ordin mediu nr. 3272/2022",
+   "title": "Ordinul nr. 3.272/2022 privind modificarea anexei nr. 1 din anexa la Ordinul ministrului mediului, apelor și pădurilor nr. 3.255/2022 pentru aprobarea Ghidului specific privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C1/I1, pentru investiția I.1 \"Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2.000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene\", componenta 1. Managementul apei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262909",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262909",
+     "sha256": "320e9e04f92d8dde8d930edf691733da0eecbbd52b18d0bff37d6bfb81a52d97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3287-2022",
+   "path": "ordin/mediu/2022/3287",
+   "short": "Ordin mediu nr. 3287/2022",
+   "title": "Ordinul nr. 3.287/2022 pentru aprobarea Listei programelor care se implementează pe bază de contract de delegare încheiat cu unitățile administrativ-teritoriale sau cu subdiviziunile administrativ-teritoriale ale municipiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263271",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263271",
+     "sha256": "dfcaea810848dce659a17c12e6513c682bee580605152395ac9ac08d2e364761"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3288-2022",
+   "path": "ordin/mediu/2022/3288",
+   "short": "Ordin mediu nr. 3288/2022",
+   "title": "Ordinul nr. 3.288/2022 pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263915",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263915",
+     "sha256": "34fb45858fb83952065aa53abc9c58cb25ee8a8169c09de43bc5d3a2ff0b8e10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3289-2022",
+   "path": "ordin/mediu/2022/3289",
+   "short": "Ordin mediu nr. 3289/2022",
+   "title": "Ordinul nr. 3.289/2022 privind modificarea Schemei de ajutor de stat regional pentru investiții având ca scop reducerea efectelor negative ale deșeurilor asupra mediului și reducerea consumului de resurse primare, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.269/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263665",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263665",
+     "sha256": "de8d7e8470b624e437c1dfc0ac88e0d25d9824143b89e629b9a4a5ddafc23b39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3306-2022",
+   "path": "ordin/mediu/2022/3306",
+   "short": "Ordin mediu nr. 3306/2022",
+   "title": "Ordinul nr. 3.306/2022 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0382 Râul Târnava Mare între Copșa Mică și Mihalț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263841",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263841",
+     "sha256": "f068d42dced0404527de389382dbd22fa65c63b6a639680a0446e86ff627afa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3307-2022",
+   "path": "ordin/mediu/2022/3307",
+   "short": "Ordin mediu nr. 3307/2022",
+   "title": "Ordinul nr. 3.307/2022 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0312 Castanii comestibili de la Buia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263813",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263813",
+     "sha256": "836d0a14b85350379123c3ee1ba847b208c2bc0555220af2af4f5f3e404dedfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3308-2022",
+   "path": "ordin/mediu/2022/3308",
+   "short": "Ordin mediu nr. 3308/2022",
+   "title": "Ordinul nr. 3.308/2022 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0431 Pajiștile dintre Șeica Mare și Veșeud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263900",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263900",
+     "sha256": "aab9c0d7ffc24a74642e6a17853df2c6325971f1290f24c01a8e1e80b9b940e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3309-2022",
+   "path": "ordin/mediu/2022/3309",
+   "short": "Ordin mediu nr. 3309/2022",
+   "title": "Ordinul nr. 3.309/2022 pentru modificarea Procedurii de aplicare a vizei anuale a autorizației de mediu și autorizației integrate de mediu, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.150/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263767",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263767",
+     "sha256": "5c9f02abeee91db8a80f85efbe97db9f6c12a5adaf76983317335eed5270b82f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3310-2022",
+   "path": "ordin/mediu/2022/3310",
+   "short": "Ordin mediu nr. 3310/2022",
+   "title": "Ordinul nr. 3.310/2022 privind completarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263768",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263768",
+     "sha256": "ac043a858ccb4a47f941bfddb6bee24a8ccd0e6c2692661133284807e8eb79f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-412-2022",
+   "path": "ordin/mediu/2022/412",
+   "short": "Ordin mediu nr. 412/2022",
+   "title": "Ordinul nr. 412/2022 privind aprobarea derogării în scop științific pentru specia vipera de stepă (Vipera ursinii moldavica)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252437",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252437",
+     "sha256": "ed34a2af456c7bac68a59fa71706b2c2d1802c873d1fca90978c840b10f1d790"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-459-2022",
+   "path": "ordin/mediu/2022/459",
+   "short": "Ordin mediu nr. 459/2022",
+   "title": "Ordinul nr. 459/2022 privind aprobarea Procedurii de selecție a administratorului sistemului de garanție-returnare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251944",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251944",
+     "sha256": "0a20fb9831da7911de627a0aa52832a1e4e435b53257750d359b0ab6eaba9560"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-579-2022",
+   "path": "ordin/mediu/2022/579",
+   "short": "Ordin mediu nr. 579/2022",
+   "title": "Ordinul nr. 579/2022 privind completarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253298",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253298",
+     "sha256": "54401922c2b9de13b5cb745a6e9298b4ea1e48bc6281b025dea671e5fad0ee6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-582-2022",
+   "path": "ordin/mediu/2022/582",
+   "short": "Ordin mediu nr. 582/2022",
+   "title": "Ordinul nr. 582/2022 pentru modificarea anexei la Ordinul ministrului mediului, apelor și pădurilor nr. 811/2021 privind alocarea certificatelor de emisii de gaze cu efect de seră cu titlu gratuit pentru activitățile de aviație, pentru perioada 2021-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252676",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252676",
+     "sha256": "498e5b4613e69990c6c66248041bebbba2dc69e35c9b9a5d865f20ef7c84022d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-586-2022",
+   "path": "ordin/mediu/2022/586",
+   "short": "Ordin mediu nr. 586/2022",
+   "title": "Ordinul nr. 586/2022 privind modificarea anexei la Ordinul ministrului mediului nr. 464/2009 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea activităților de control și inspecție în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252685",
+   "versions": [
+    {
+     "from": "2022-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252685",
+     "sha256": "9d8cd9b9c9c51f7557632fc260d0021ad189b346087debd77a9aaa415eff5e52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-632-2022",
+   "path": "ordin/mediu/2022/632",
+   "short": "Ordin mediu nr. 632/2022",
+   "title": "Ordinul nr. 632/2022 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253289",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253289",
+     "sha256": "65aea865efec8cc41ab50a50f368bdb9b6893b82dbbd6cd553876209d6475b70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-668-2022",
+   "path": "ordin/mediu/2022/668",
+   "short": "Ordin mediu nr. 668/2022",
+   "title": "Ordinul nr. 668/2022 pentru aprobarea Regulamentului privind gestionarea și operarea conturilor din registrul Uniunii al emisiilor de gaze cu efect de seră, aflate sub jurisdicția statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254244",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254244",
+     "sha256": "8828552d017a0477c134ffc6e55b8108a6bcb186ba474bc7ee4bb7bf173e7f2d"
     }
    ]
   },
@@ -7398,6 +8553,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-729-2022",
+   "path": "ordin/mediu/2022/729",
+   "short": "Ordin mediu nr. 729/2022",
+   "title": "Ordinul nr. 729/2022 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254255",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254255",
+     "sha256": "3174f91c286b381e2c92fc1a2bd749255744725b4ac151e2aa0023741c07e8c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-831-2022",
    "path": "ordin/mediu/2022/831",
    "short": "Ordin mediu nr. 831/2022",
@@ -7409,6 +8579,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254508",
      "sha256": "97ba53ae9593c26f51535ce944869b96100923b4b3fb2aad092d1bc10cdee1ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-839-2022",
+   "path": "ordin/mediu/2022/839",
+   "short": "Ordin mediu nr. 839/2022",
+   "title": "Ordinul nr. 839/2022 privind aprobarea derogării pentru unele specii de animale sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254277",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254277",
+     "sha256": "0c29a6de163bafdc520999e763c4a5396633eb8980b92d8ae049367bd3a12923"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-842-2022",
+   "path": "ordin/mediu/2022/842",
+   "short": "Ordin mediu nr. 842/2022",
+   "title": "Ordinul nr. 842/2022 pentru modificarea și completarea anexelor nr. 4, 6, 7 și 9 la Ordinul ministrului mediului, apelor și pădurilor nr. 1.090/2019 privind transpunerea în legislația națională a apendicelor A-I ale anexei Directivei (UE) 2015/996 a Comisiei din 19 mai 2015 de stabilire a unor metode comune de evaluare a zgomotului, în conformitate cu Directiva 2002/49/CE a Parlamentului European și a Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254586",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254586",
+     "sha256": "a5bb8b957d70821112f0fbe23b97690c490fefcda85fb43d90ddc6c5277aefa0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-887-2022",
+   "path": "ordin/mediu/2022/887",
+   "short": "Ordin mediu nr. 887/2022",
+   "title": "Ordinul nr. 887/2022 privind aprobarea Planului de management al Parcului Natural Comana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255489",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255489",
+     "sha256": "708256abbc735beafe43bb1fe7154d101047e556c06a41e191e7e4a888e3ff4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-903-2022",
+   "path": "ordin/mediu/2022/903",
+   "short": "Ordin mediu nr. 903/2022",
+   "title": "Ordinul nr. 903/2022 pentru modificarea și completarea Metodologiei privind organizarea și funcționarea aplicațiilor SUMAL 2.0, obligațiile utilizatorilor SUMAL 2.0, structura și modalitatea de transmitere a informațiilor standardizate și costurile serviciilor de emitere a avizelor de însoțire pentru situațiile prevăzute la art. 11 din Normele referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și cele privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 118/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255083",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255083",
+     "sha256": "f525e51e869716d1935236cf52111dcf6d0a5cfd59ed86b96fdfeacbb59e6844"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-912-2022",
+   "path": "ordin/mediu/2022/912",
+   "short": "Ordin mediu nr. 912/2022",
+   "title": "Ordinul nr. 912/2022 privind aprobarea cotelor de recoltă pentru specia căprior (Capreolus capreolus) pentru perioada 1 mai 2022-30 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254448",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254448",
+     "sha256": "4b9e64144d02d896f65e095848710f3fa8b2b0f99434eba53d6ceb5b6fd13331"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-914-2022",
+   "path": "ordin/mediu/2022/914",
+   "short": "Ordin mediu nr. 914/2022",
+   "title": "Ordinul nr. 914/2022 privind aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254669",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254669",
+     "sha256": "903f24766c8378d9dd409968a7eb9c2209cb648b1ae125d5318736637ce43f94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-915-2022",
+   "path": "ordin/mediu/2022/915",
+   "short": "Ordin mediu nr. 915/2022",
+   "title": "Ordinul nr. 915/2022 privind aprobarea derogării în scop științific pentru unele specii de faună și floră sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255041",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255041",
+     "sha256": "43a70229275af0a99c2611b058f8d67564d1baafbf702b53b360aa172bd4bf7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-928-2022",
+   "path": "ordin/mediu/2022/928",
+   "short": "Ordin mediu nr. 928/2022",
+   "title": "Ordinul nr. 928/2022 pentru aprobarea derogării în scop științific pentru specia Bison bonasus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255071",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255071",
+     "sha256": "a1afddc5eeb8912c4d757ee03cf7aaf36aa1a0a6a9fe146d96536807c712f8c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-974-2022",
+   "path": "ordin/mediu/2022/974",
+   "short": "Ordin mediu nr. 974/2022",
+   "title": "Ordinul nr. 974/2022 pentru modificarea și completarea Ghidului de finanțare a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.089/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254951",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254951",
+     "sha256": "05c73ef07df6a12953a058eddcf14bb5c5409b77e22b73d54209e04d7714e2b1"
     }
    ]
   },
@@ -8680,7 +9985,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/258800",
    "versions": [
     {
-     "from": "2022-09-02",
+     "from": "2022-11-01",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258800",
      "sha256": "03e94342cb5d4918d94ad12c533ee39b9282c4fe8d9f3b5fcbdea411784f5ac1"
@@ -10218,6 +11523,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1000-2022",
+   "path": "ordin/transporturi/2022/1000",
+   "short": "Ordin transporturi nr. 1000/2022",
+   "title": "Ordinul nr. 1.000/2022 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256431",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256431",
+     "sha256": "5b5f007348d4a3445241fd97aecc95773a02349073ba47dacf3c6f3dfb5f3e79"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1054-2022",
    "path": "ordin/transporturi/2022/1054",
    "short": "Ordin transporturi nr. 1054/2022",
@@ -10229,6 +11549,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256620",
      "sha256": "3e8a0f3b7f34918ef940ea6dda8b0b8d834690d5fa29056b2e76faa23ec60c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1067-2022",
+   "path": "ordin/transporturi/2022/1067",
+   "short": "Ordin transporturi nr. 1067/2022",
+   "title": "Ordinul nr. 1.067/2022 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256735",
+   "versions": [
+    {
+     "from": "2022-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256735",
+     "sha256": "488c3a0d10ee36bcd810d922fd39a48a3d23a46f273eba00d9df2a3c740e31ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1097-2022",
+   "path": "ordin/transporturi/2022/1097",
+   "short": "Ordin transporturi nr. 1097/2022",
+   "title": "Ordinul nr. 1.097/2022 pentru modificarea Normelor privind atestarea profesională a conducătorilor auto care efectuează transport de persoane în regim de taxi sau transport în regim de închiriere și agrearea autovehiculelor care efectuează transport în regim de taxi, aprobate prin Ordinul ministrului transporturilor nr. 3/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256723",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256723",
+     "sha256": "c864ce69610614822ad55232219eb3898a26733762ea115ae4a42b8ab8e28f35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1160-2022",
+   "path": "ordin/transporturi/2022/1160",
+   "short": "Ordin transporturi nr. 1160/2022",
+   "title": "Ordinul nr. 1.160/2022 pentru prorogarea termenului prevăzut la alin. (2) al art. 8 din Ordinul ministrului transporturilor nr. 615/2015 privind aprobarea Procedurii pentru obținerea permisului de mecanic de locomotivă, Cerințelor privind procedurile de eliberare și actualizare a certificatului și Cerințelor și procedurii de recunoaștere a persoanelor și organismelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256769",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256769",
+     "sha256": "ee36b9e543a8e4407b4423f619707dd823c9c84d64d76001ccc9563fb0f852b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1207-2022",
+   "path": "ordin/transporturi/2022/1207",
+   "short": "Ordin transporturi nr. 1207/2022",
+   "title": "Ordinul nr. 1.207/2022 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 209/2022 pentru aprobarea standardelor de instruire, confirmarea competenței și certificarea calificărilor profesionale ale personalului navigant român de la bordul navelor de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257032",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257032",
+     "sha256": "0dfd971375cc51c07e3f7b4b1da5bb7a9d46f586d8160e51200249f74ee4537c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1218-2022",
+   "path": "ordin/transporturi/2022/1218",
+   "short": "Ordin transporturi nr. 1218/2022",
+   "title": "Ordinul nr. 1.218/2022 pentru modificarea și completarea Reglementărilor privind inspecția tehnică periodică a vehiculelor înmatriculate sau înregistrate în România - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257549",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257549",
+     "sha256": "c8041295b727a433af19bcc6e640a81948d2fce33b760feff62c59283a9aaf63"
     }
    ]
   },
@@ -10293,6 +11688,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1324-2022",
+   "path": "ordin/transporturi/2022/1324",
+   "short": "Ordin transporturi nr. 1324/2022",
+   "title": "Ordinul nr. 1.324/2022 pentru modificarea și completarea Normelor metodologice privind modul de efectuare a inspecțiilor și controlului asupra transporturilor rutiere, a activităților conexe acestora, a activității centrelor de pregătire și perfecționare a personalului de specialitate din domeniul transporturilor rutiere, a activității școlilor de conducători auto și a activității instructorilor auto autorizați, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 995/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257918",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257918",
+     "sha256": "f619acc15b32850658e71ad798ed26076edf1b5269cfd196fcd29225fbda471c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1337-2022",
    "path": "ordin/transporturi/2022/1337",
    "short": "Ordin transporturi nr. 1337/2022",
@@ -10304,6 +11714,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258585",
      "sha256": "4ff11b105018db6c8e3d5a582bddee59f0a0c1ac3dc3332122c940033396febe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-134-2022",
+   "path": "ordin/transporturi/2022/134",
+   "short": "Ordin transporturi nr. 134/2022",
+   "title": "Ordinul nr. 134/2022 pentru modificarea anexei nr. 2 la Ordinul ministrului transporturilor și infrastructurii nr. 153/2011 privind modificarea și completarea Regulamentului pentru circulația trenurilor și manevra vehiculelor feroviare - nr. 005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.816/2005, și pentru definirea trenurilor de călători în funcție de serviciile oferite de operatorii de transport feroviar de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251757",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251757",
+     "sha256": "8ea5c52e7e87fa9cfb7dc853420967c8a857e3adeb7801c0cbc822439c491ad4"
     }
    ]
   },
@@ -10334,6 +11759,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258368",
      "sha256": "6633ff041b766ce9e7957b2fcaff0fc705a8d5d4123bd5bc2b2e0cc11fd2928b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1459-2022",
+   "path": "ordin/transporturi/2022/1459",
+   "short": "Ordin transporturi nr. 1459/2022",
+   "title": "Ordinul nr. 1.459/2022 privind modificarea zonei interzise LRP2 CERNAVODĂ în zonă restricționată pentru o perioadă de 14 zile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259670",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259670",
+     "sha256": "5543f036c2da9cc5f6d0f99cdc3c8f650e1b7f86f9d5a54d53ad8734e8f8b285"
     }
    ]
   },
@@ -10383,6 +11823,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-152-2022",
+   "path": "ordin/transporturi/2022/152",
+   "short": "Ordin transporturi nr. 152/2022",
+   "title": "Ordinul nr. 152/2022 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.135/2005 pentru aprobarea Reglementărilor privind omologarea și certificarea produselor și materialelor de exploatare utilizate la vehiculele rutiere, precum și condițiile de introducere pe piață a acestora - RNTR 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251921",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251921",
+     "sha256": "5ecc03598976e995995eb3585c5318a194b0596918702b6f72de45ebe1e7c3a8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-153-2022",
    "path": "ordin/transporturi/2022/153",
    "short": "Ordin transporturi nr. 153/2022",
@@ -10398,6 +11853,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1556-2022",
+   "path": "ordin/transporturi/2022/1556",
+   "short": "Ordin transporturi nr. 1556/2022",
+   "title": "Ordinul nr. 1.556/2022 pentru modificarea Ordinului ministrului transporturilor nr. 1.547/2013 privind delegarea de competență și desemnarea Regiei Autonome \"Autoritatea Aeronautică Civilă Română\" ca organism tehnic specializat pentru exercitarea unor atribuții ce revin autorității competente în domeniul securității aviației civile, la nivel național, precum și pentru stabilirea unor măsuri necesare realizării acestei delegări de competențe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259579",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259579",
+     "sha256": "c3e6b23dbadff029923872e87bb83e2d6a3bb3a26b60b5da3b233804e0ef6933"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1586-2022",
    "path": "ordin/transporturi/2022/1586",
    "short": "Ordin transporturi nr. 1586/2022",
@@ -10405,7 +11875,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/260327",
    "versions": [
     {
-     "from": "2022-10-12",
+     "from": "2022-11-11",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260327",
      "sha256": "ca9f0b361a795ced62456a411d93ec5c26803f55707cb3a15e8009d7cb68297a"
@@ -10439,6 +11909,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251873",
      "sha256": "8e18013fc9ca6a4362a36065af468d26216d5c932a188f0c789fdad6ba06108b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-176-2022",
+   "path": "ordin/transporturi/2022/176",
+   "short": "Ordin transporturi nr. 176/2022",
+   "title": "Ordinul nr. 176/2022 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 422/2011 privind normele tehnice de siguranță pentru navele maritime de pasageri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251868",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251868",
+     "sha256": "4caad099d96aeca8a947b70a9783c0322b72e67af1d524922e9284d307145f02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-178-2022",
+   "path": "ordin/transporturi/2022/178",
+   "short": "Ordin transporturi nr. 178/2022",
+   "title": "Ordinul nr. 178/2022 privind modificarea anexei nr. 1 la Ordinul ministrului transporturilor nr. 161/2016 pentru clasificarea aerodromurilor civile certificate din România și pentru aprobarea Reglementării aeronautice civile române privind autorizarea aerodromurilor civile - RACR-AD-AADC și a Reglementării aeronautice civile române privind amenajarea, utilizarea și înregistrarea aerodromurilor civile - RACR-AD-IADC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251869",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251869",
+     "sha256": "1199ea8d1e3faa430d3d13bf9eed9a221f8ff4063fabeb04a9e6d278ba6dec7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-197-2022",
+   "path": "ordin/transporturi/2022/197",
+   "short": "Ordin transporturi nr. 197/2022",
+   "title": "Ordinul nr. 197/2022 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252586",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252586",
+     "sha256": "17d21d3e27d84083be945dbd3cb68ab70e9b98f928813b21ef45fcd692d421f6"
     }
    ]
   },
@@ -10488,6 +12003,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-213-2022",
+   "path": "ordin/transporturi/2022/213",
+   "short": "Ordin transporturi nr. 213/2022",
+   "title": "Ordinul nr. 213/2022 privind completarea anexei la Ordinul ministrului transporturilor nr. 1.296/2017 pentru aprobarea Normelor tehnice privind proiectarea, construirea și modernizarea drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252451",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252451",
+     "sha256": "e88b33007468a50ec0ec66533c941f4b89d71ba2dea5241f7bb9d411aa6523ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2145-2022",
+   "path": "ordin/transporturi/2022/2145",
+   "short": "Ordin transporturi nr. 2145/2022",
+   "title": "Ordinul nr. 2.145/2022 pentru modificarea Ordinului ministrului transporturilor nr. 1.135/2015 privind măsuri pentru aplicarea Regulamentului (UE) nr. 376/2014 al Parlamentului European și al Consiliului din 3 aprilie 2014 privind raportarea, analiza și acțiunile subsecvente cu privire la evenimentele de aviație civilă, de modificare a Regulamentului (UE) nr. 996/2010 al Parlamentului European și al Consiliului și de abrogare a Directivei 2003/42/CE a Parlamentului European și a Consiliului și a Regulamentelor (CE) nr. 1.321/2007 și (CE) nr. 1.330/2007 ale Comisiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260399",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260399",
+     "sha256": "fcfc9fedcb5ce45b41ece72adb8d684c17b45248147b6094a89e4fc51c22c7c4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2212-2022",
    "path": "ordin/transporturi/2022/2212",
    "short": "Ordin transporturi nr. 2212/2022",
@@ -10518,6 +12063,96 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2253-2022",
+   "path": "ordin/transporturi/2022/2253",
+   "short": "Ordin transporturi nr. 2253/2022",
+   "title": "Ordinul nr. 2.253/2022 pentru modificarea Ordinului ministrului transporturilor, infrastructurii și comunicațiilor nr. 668/2020 privind încredințarea unui serviciu de interes economic general către Școala Superioară de Aviație Civilă, instituție publică în subordinea Ministerului Transporturilor, Infrastructurii și Comunicațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261372",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261372",
+     "sha256": "5d214dbb95034f6149cb5da9e924d9b63142bc2048d10cf41e040445790eeadc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2259-2022",
+   "path": "ordin/transporturi/2022/2259",
+   "short": "Ordin transporturi nr. 2259/2022",
+   "title": "Ordinul nr. 2.259/2022 pentru modificarea Metodologiei de atestare a auditorilor de siguranță rutieră, aprobată prin Ordinul ministrului transporturilor nr. 656/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261556",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261556",
+     "sha256": "29e97a7b9aeaaece1e854bd68d5bffe57fc3eb1a0b155cc7e2cdd52f277c7dd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2260-2022",
+   "path": "ordin/transporturi/2022/2260",
+   "short": "Ordin transporturi nr. 2260/2022",
+   "title": "Ordinul nr. 2.260/2022 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 358/2012 pentru aprobarea Liniilor directoare cu privire la măsurile de îmbunătățire a siguranței circulației pe infrastructura rutieră, în vederea aplicării Directivei 2008/96/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind gestionarea siguranței infrastructurii rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261754",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261754",
+     "sha256": "d8a2a2b07bea886a41d4675b310704c17de0045c6bc984abdcd3c8da483e6164"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2261-2022",
+   "path": "ordin/transporturi/2022/2261",
+   "short": "Ordin transporturi nr. 2261/2022",
+   "title": "Ordinul nr. 2.261/2022 pentru modificarea și completarea Regulamentului de organizare și funcționare a Comisiei de atestare, disciplină și soluționare a contestațiilor, aprobat prin Ordinul ministrului transporturilor nr. 655/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261536",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261536",
+     "sha256": "8ee3836dad2e3280a5889b86fd8fd0d3505f22607d5d302a1e415f4dc90453c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2262-2022",
+   "path": "ordin/transporturi/2022/2262",
+   "short": "Ordin transporturi nr. 2262/2022",
+   "title": "Ordinul nr. 2.262/2022 privind modificarea Ordinului ministrului transporturilor nr. 1.679/2017 pentru aprobarea Metodologiei de contractare a evaluării de impact asupra siguranței rutiere și a auditului de siguranță rutieră, de desemnare și de lucru a auditorilor de siguranță rutieră, a contractelor-cadru care se încheie de către Autoritatea Rutieră Română - A.R.R. cu investitorii, antreprenorii/proiectanții mandatați, precum și cu auditorii de siguranță rutieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262336",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262336",
+     "sha256": "943e8d78303b27b9c30ac5f7e1120467b2e1f78854e0dc5159e566322e22f484"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2263-2022",
+   "path": "ordin/transporturi/2022/2263",
+   "short": "Ordin transporturi nr. 2263/2022",
+   "title": "Ordinul nr. 2.263/2022 privind modificarea și completarea Ordinului ministrului transporturilor nr. 606/2017 pentru aprobarea Metodologiei de contractare a inspecției de siguranță rutieră, a Contractului-cadru încheiat între Autoritatea Rutieră Română - A.R.R. și administratorii drumurilor, a metodologiilor de efectuare a inspecțiilor de siguranță rutieră, a listei cu dispozițiile obligatorii care pot fi dispuse de raportul de inspecție de siguranță rutieră, a modelului legitimației nominale de control, a modelului procesului-verbal de constatare și sancționare contravențională a contravențiilor, dotării și inscripționării autovehiculelor de inspecție și control, precum și a echipamentelor necesare efectuării inspecțiilor de siguranță rutieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262363",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262363",
+     "sha256": "482f1482241d6ef00f4185e6412ae340f3915216383fed02f54a2e30d54f5699"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2311-2022",
    "path": "ordin/transporturi/2022/2311",
    "short": "Ordin transporturi nr. 2311/2022",
@@ -10544,6 +12179,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262276",
      "sha256": "874ed49f2b87930f688413301821fd66e28abd7fa7d41bb0932eae066113b557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-232-2022",
+   "path": "ordin/transporturi/2022/232",
+   "short": "Ordin transporturi nr. 232/2022",
+   "title": "Ordinul nr. 232/2022 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 677/2018 pentru aprobarea Reglementării aeronautice civile române RACR-SPAR \"Salturi cu parașuta\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252485",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252485",
+     "sha256": "22093057cf4945c4e510b8a3c8e6182e70050b3c30080aba405fcbbf3cc66181"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2325-2022",
+   "path": "ordin/transporturi/2022/2325",
+   "short": "Ordin transporturi nr. 2325/2022",
+   "title": "Ordinul nr. 2.325/2022 privind modificarea și completarea anexei la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 548/2022 pentru aprobarea tarifelor de deservire generală din transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261591",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261591",
+     "sha256": "40b9e60618878b906be6f343187b67b290f9eca95fdd5e6d79c375474f2662fc"
     }
    ]
   },
@@ -10608,6 +12273,81 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2366-2022",
+   "path": "ordin/transporturi/2022/2366",
+   "short": "Ordin transporturi nr. 2366/2022",
+   "title": "Ordinul nr. 2.366/2022 privind modificarea anexei la Ordinul ministrului transporturilor nr. 527/2016 pentru aprobarea Regulamentului privind cerințele minime de pregătire, precum și condițiile de obținere a certificatelor internaționale de conducător de ambarcațiune de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262404",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262404",
+     "sha256": "48b26bcc05d57991be23003b9f88a4c24e4612ec2178331665a9359aadb2458e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2396-2022",
+   "path": "ordin/transporturi/2022/2396",
+   "short": "Ordin transporturi nr. 2396/2022",
+   "title": "Ordinul nr. 2.396/2022 privind completarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 1.984/2020 pentru aprobarea Reglementării aeronautice civile române RACR-ATSEP privind licențierea personalului electronist pentru siguranța traficului aerian, ediția 1/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262407",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262407",
+     "sha256": "7c391024ced08c61978b3d26743d5efe0a727c829b46b27bb6bd774866aea3ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2403-2022",
+   "path": "ordin/transporturi/2022/2403",
+   "short": "Ordin transporturi nr. 2403/2022",
+   "title": "Ordinul nr. 2.403/2022 pentru modificarea și completarea Reglementărilor privind omologarea individuală, eliberarea cărții de identitate și certificarea autenticității vehiculelor rutiere - RNTR 7, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262992",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262992",
+     "sha256": "6825183cc0baa43410a5ba90e5ac60a637952ce3c1524a5885ce43729d8bbbb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2418-2022",
+   "path": "ordin/transporturi/2022/2418",
+   "short": "Ordin transporturi nr. 2418/2022",
+   "title": "Ordinul nr. 2.418/2022 pentru modificarea Ordinului ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263236",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263236",
+     "sha256": "aca731e34167de2ee70a831836157b2eeca4f56de175a939b76f0e012988eda6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2426-2022",
+   "path": "ordin/transporturi/2022/2426",
+   "short": "Ordin transporturi nr. 2426/2022",
+   "title": "Ordinul nr. 2.426/2022 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 762/2016 privind aprobarea tarifelor pentru efectuarea evaluării de impact asupra siguranței rutiere, a auditului de siguranță rutieră, inspecției de siguranță rutieră, tarifelor privind onorariile cuvenite auditorilor de siguranță rutieră pentru activitățile prestate, precum și destinația sumelor provenite din încasarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262546",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262546",
+     "sha256": "c5e96e2e59e0b8defff53d3a69f7829dcef589541ddcefe11859f6eab9cd92c5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-245-2022",
    "path": "ordin/transporturi/2022/245",
    "short": "Ordin transporturi nr. 245/2022",
@@ -10619,6 +12359,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252675",
      "sha256": "b66613e47b83fa80219a8d90c0d4f9fe72195ef6b17e96934d1658c066cd52e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2456-2022",
+   "path": "ordin/transporturi/2022/2456",
+   "short": "Ordin transporturi nr. 2456/2022",
+   "title": "Ordinul nr. 2.456/2022 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 60/2016 privind aprobarea modului de calcul și a nivelului tarifar, pe tip de activitate, pentru activitățile de investigare a accidentelor și incidentelor feroviare, efectuate de Agenția de Investigare Feroviară Română - AGIFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263156",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263156",
+     "sha256": "dfe438b2bb1459d5e80557c30534b6815d6ee159555399b9cfd3ad7493a36c90"
     }
    ]
   },
@@ -10713,6 +12468,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-283-2022",
+   "path": "ordin/transporturi/2022/283",
+   "short": "Ordin transporturi nr. 283/2022",
+   "title": "Ordinul nr. 283/2022 pentru completarea Ordinului ministrului transporturilor și infrastructurii nr. 1.026/2021 privind aprobarea tarifelor de călătorie cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253181",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253181",
+     "sha256": "53258ad74b1cd94ca749a66290d27a5afbf2fd9553030c979e954f5158234cbb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-295-2022",
    "path": "ordin/transporturi/2022/295",
    "short": "Ordin transporturi nr. 295/2022",
@@ -10728,6 +12498,141 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-317-2022",
+   "path": "ordin/transporturi/2022/317",
+   "short": "Ordin transporturi nr. 317/2022",
+   "title": "Ordinul nr. 317/2022 privind modificarea Ordinului ministrului transporturilor, infrastructurii și comunicațiilor nr. 1.785/2020 pentru aprobarea Reglementării Aeronautice Civile Române RACR-AIS \"Serviciul de informare aeronautică\", ediția 4/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253753",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253753",
+     "sha256": "2964455ba0ec40248770c491b9462de9e921fb3c4674357633e6f44e24012066"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-330-2022",
+   "path": "ordin/transporturi/2022/330",
+   "short": "Ordin transporturi nr. 330/2022",
+   "title": "Ordinul nr. 330/2022 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253692",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253692",
+     "sha256": "935c3981c619e2d31ef44acb57995598ead28cda9ffd9b5a831266b0afccdd46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-331-2022",
+   "path": "ordin/transporturi/2022/331",
+   "short": "Ordin transporturi nr. 331/2022",
+   "title": "Ordinul nr. 331/2022 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253703",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253703",
+     "sha256": "22ed4677c7b9e5ebc24c97cc361ed80f05ab013bdddaf0a8358b300f8ad32f52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-336-2022",
+   "path": "ordin/transporturi/2022/336",
+   "short": "Ordin transporturi nr. 336/2022",
+   "title": "Ordinul nr. 336/2022 privind modificarea și completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005 pentru aprobarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253510",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253510",
+     "sha256": "55395c197c756a44aab94a7082b59a75a95071ff3c17fd05b84091f209f0ead0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-337-2022",
+   "path": "ordin/transporturi/2022/337",
+   "short": "Ordin transporturi nr. 337/2022",
+   "title": "Ordinul nr. 337/2022 pentru modificarea și completarea Reglementării aeronautice civile române privind stabilirea zonelor cu servituți aeronautice civile și a condițiilor de avizare a documentațiilor tehnice aferente obiectivelor din aceste zone sau din alte zone în care pot constitui obstacole pentru navigația aeriană și/sau pot afecta siguranța zborului pe teritoriul și în spațiul aerian al României RACR-ZSAC, ediția 1/2015, aprobată prin Ordinul ministrului transporturilor nr. 735/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253704",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253704",
+     "sha256": "6d0c50e5b95fd751ca26ce9c94ddd93937b0220a8d7fda54180355214ad3e065"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-338-2022",
+   "path": "ordin/transporturi/2022/338",
+   "short": "Ordin transporturi nr. 338/2022",
+   "title": "Ordinul nr. 338/2022 pentru modificarea și completarea Reglementării aeronautice civile române privind emiterea avizelor la documentațiile tehnice aferente obiectivelor din zone cu servituți aeronautice civile sau din alte zone în care pot constitui obstacole pentru navigația aeriană sau pot afecta siguranța zborului pe teritoriul și în spațiul aerian al României - RACR-AVZ, ediția 2/2020, aprobată prin Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 893/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253705",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253705",
+     "sha256": "a57689af6ba830be30747c7bf48793735e4e127a839ab6c55323d9401554da7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-370-2022",
+   "path": "ordin/transporturi/2022/370",
+   "short": "Ordin transporturi nr. 370/2022",
+   "title": "Ordinul nr. 370/2022 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253884",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253884",
+     "sha256": "b6afa8d413742ae76ff9b700f570cf538b8d5990ef64fead0f484e2e8b7a7b2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-379-2022",
+   "path": "ordin/transporturi/2022/379",
+   "short": "Ordin transporturi nr. 379/2022",
+   "title": "Ordinul nr. 379/2022 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254213",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254213",
+     "sha256": "210a56d50edf823b5cde341971e9c7aae98f13dadede718a8de698278305a1af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-382-2022",
+   "path": "ordin/transporturi/2022/382",
+   "short": "Ordin transporturi nr. 382/2022",
+   "title": "Ordinul nr. 382/2022 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 187/2015 privind efectuarea formalităților de sosire/plecare în/din porturile românești a navelor de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254227",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254227",
+     "sha256": "eea0dbc608f309a324e28f1b200a6433a9713a2e2ae546b7e6510ea47b4c7858"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-421-2022",
    "path": "ordin/transporturi/2022/421",
    "short": "Ordin transporturi nr. 421/2022",
@@ -10739,6 +12644,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254463",
      "sha256": "69d11321074310ea90f892c81dc389d85f7dfa86fbae9af6be35cc1b46e2d4af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-43-2022",
+   "path": "ordin/transporturi/2022/43",
+   "short": "Ordin transporturi nr. 43/2022",
+   "title": "Ordinul nr. 43/2022 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 342/2017 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251108",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251108",
+     "sha256": "3e98174cffd8219c8c9550aabf0c0178d335837c328d63d26d6e2e95a0106bbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-44-2022",
+   "path": "ordin/transporturi/2022/44",
+   "short": "Ordin transporturi nr. 44/2022",
+   "title": "Ordinul nr. 44/2022 privind modificarea și completarea anexelor nr. 1 și 3 la Ordinul ministrului transporturilor nr. 733/2013 pentru aprobarea Normelor privind autorizarea școlilor de conducători auto și a instructorilor auto, a Normelor privind atestarea profesorilor de legislație rutieră și a instructorilor de conducere auto, a Metodologiei de organizare și desfășurare a cursurilor de pregătire teoretică și practică a persoanelor în vederea obținerii permisului de conducere, a Programei de școlarizare, precum și privind condițiile și obligațiile pentru pregătirea teoretică și practică a persoanelor în vederea obținerii permisului de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251109",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251109",
+     "sha256": "5c9852c2b8c05dba397d36a8b876fdea61ef30bab422c299fda14b2dd2594a42"
     }
    ]
   },
@@ -10803,6 +12738,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-549-2022",
+   "path": "ordin/transporturi/2022/549",
+   "short": "Ordin transporturi nr. 549/2022",
+   "title": "Ordinul nr. 549/2022 pentru modificarea art. 2 din anexa la Ordinul ministrului transporturilor nr. 683/2017 privind aprobarea tarifelor pentru prestațiile de activități specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255783",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255783",
+     "sha256": "e642e5e0be6a8717745c6cfb9a708d4096e24be465857c3f4db3a47b5cbe8f4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-554-2022",
+   "path": "ordin/transporturi/2022/554",
+   "short": "Ordin transporturi nr. 554/2022",
+   "title": "Ordinul nr. 554/2022 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 630/2007 privind modul de reglementare a domeniului aeronauticii civile cu aeronave ultraușoare din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255888",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255888",
+     "sha256": "8c611559ef0a8481deb201e7c0657ff9f4896ba4f0f9843c837eb4052e99d5c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-555-2022",
    "path": "ordin/transporturi/2022/555",
    "short": "Ordin transporturi nr. 555/2022",
@@ -10814,6 +12779,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256024",
      "sha256": "d7f48b3e8132c055fa8a9d873f3939d8bbf71bc2982cfc1dffc277912088feef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-567-2022",
+   "path": "ordin/transporturi/2022/567",
+   "short": "Ordin transporturi nr. 567/2022",
+   "title": "Ordinul nr. 567/2022 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255989",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255989",
+     "sha256": "faf061360a503f74e4430a9250727eaadcc0240e08fdf5891870b00039c61927"
     }
    ]
   },

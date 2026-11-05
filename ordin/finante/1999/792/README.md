@@ -1,8 +1,8 @@
 # Ordinul nr. 792/1999 pentru aprobarea Instrucțiunilor cuprinzând procedura de acordare a asistenței pentru contribuabili
 
-Ordin finante nr. 792/1999 · 1 versions, from 1999-09-07 (latest in force: 1999-09-07) · <https://legislatie.just.ro/Public/DetaliiDocument/19189>
+Ordin finante nr. 792/1999 · 1 versions, from 1999-09-22 (latest in force: 1999-09-22) · <https://legislatie.just.ro/Public/DetaliiDocument/19189>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 22 September 1999; this record still dates it from 7 September 1999, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (1212 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,5 @@ Act id: `ordin-finante-792-1999` (tags `ordin-finante-792-1999/<day>`; `python t
 - Ordin finante nr. 792/1999: the first version is the order as published in Monitorul Oficial nr. 435 of 7 September 1999 (document 19189 of the official web service), in force on 22 September 1999, the day it states for itself.
 - Ordin finante nr. 792/1999: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 792/1999: Anexa nr. 1 (DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A JUDEȚULUI/ MUNICIPIULUI BUCUREȘTI........................ CENTRALIZATORUL problematicii fiscale care urmează să fie soluționat) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 19189 of the official web service.
-- Ordin finante nr. 792/1999: first published here dated 7 September 1999; its in-force clause states 22 September 1999. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 792/1999: the official text prints 1212 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
+- Ordin finante nr. 792/1999: re-dated by a correction: in force from 22 September 1999 (first published dated 7 September 1999).

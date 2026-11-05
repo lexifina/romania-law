@@ -1,8 +1,8 @@
 # Ordinul nr. 1.665/2020 privind stabilirea mijloacelor electronice de transmitere la distanță a actelor de executare și a procedurii de comunicare a acestora
 
-Ordin finante nr. 1665/2020 · 1 versions, from 2020-03-12 (latest in force: 2020-03-12) · <https://legislatie.just.ro/Public/DetaliiDocument/223777>
+Ordin finante nr. 1665/2020 · 1 versions, from 2020-03-27 (latest in force: 2020-03-27) · <https://legislatie.just.ro/Public/DetaliiDocument/223777>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (Agenția Națională de Administrare Fiscală Nr............/...................... Instituția de ...): its text could not yet be split into provisions without losing or adding words. Its in-force clause states 27 March 2020; this record still dates it from 12 March 2020, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (Agenția Națională de Administrare Fiscală Nr............/...................... Instituția de ...): its text could not yet be split into provisions without losing or adding words.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -39,4 +39,4 @@ Act id: `ordin-finante-1665-2020` (tags `ordin-finante-1665-2020/<day>`; `python
 - Ordin finante nr. 1665/2020: Anexa nr. 3 (ANTET^1) Nr......... din................. Către............................................................................................^2) ADRESĂ pentru înștiințarea instituțiilor de credit privin) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 223777 of the official web service.
 - Ordin finante nr. 1665/2020: Anexa nr. 4 (Antet^1) Nr....... din................ Către...................................................................................^2) REFERAT privind nevirarea de către instituția de credit a sumei cupri) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 223777 of the official web service.
 - Ordin finante nr. 1665/2020: Anexa nr. 2 (Agenția Națională de Administrare Fiscală Nr............/...................... Instituția de ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Ordin finante nr. 1665/2020: first published here dated 12 March 2020; its in-force clause states 27 March 2020. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 1665/2020: re-dated by a correction: in force from 27 March 2020 (first published dated 12 March 2020).

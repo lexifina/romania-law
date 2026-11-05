@@ -1,8 +1,8 @@
 # Ordinul nr. 17/2012 privind funcționarea sistemului de plăți TARGET2-România
 
-Ordin bnr nr. 17/2012 · 1 versions, from 2012-12-28 (latest in force: 2012-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/144200>
+Ordin bnr nr. 17/2012 · 1 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/144200>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I Contract de participare la sistemul de plăți TARGET2-România Între: Banca Națională a României, cu sediul central în str. Lipscani nr. 25, cod poștal 030031, ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 2 (II REGULI DE SISTEM ALE TARGET2-ROMÂNIA): its text could not yet be split into provisions without losing or adding words; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 1 January 2013; this record still dates it from 28 December 2012, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I Contract de participare la sistemul de plăți TARGET2-România Între: Banca Națională a României, cu sediul central în str. Lipscani nr. 25, cod poștal 030031, ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 2 (II REGULI DE SISTEM ALE TARGET2-ROMÂNIA): its text could not yet be split into provisions without losing or adding words; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,4 +35,4 @@ Act id: `ordin-bnr-17-2012` (tags `ordin-bnr-17-2012/<day>`; `python tools/on.py
 - Ordin bnr nr. 17/2012: Anexa nr. 1 (I Contract de participare la sistemul de plăți TARGET2-România Între: Banca Națională a României, cu sediul central în str. Lipscani nr. 25, cod poștal 030031, ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin bnr nr. 17/2012: Anexa nr. 2 (II REGULI DE SISTEM ALE TARGET2-ROMÂNIA) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin bnr nr. 17/2012: the publisher's note "*) Anexele I-V se publică în Monitorul Oficial al României, Partea I, nr. 894 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti," sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
-- Ordin bnr nr. 17/2012: first published here dated 28 December 2012; its in-force clause states 1 January 2013. The record keeps the first date until it is corrected by hand.
+- Ordin bnr nr. 17/2012: re-dated by a correction: in force from 1 January 2013 (first published dated 28 December 2012).

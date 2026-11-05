@@ -1,8 +1,8 @@
 # Ordinul nr. 581/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.775/2015 pentru aprobarea unor competențe speciale ale organului fiscal central
 
-Ordin anaf nr. 581/2017 · 1 versions, from 2017-02-07 (latest in force: 2017-02-07) · <https://legislatie.just.ro/Public/DetaliiDocument/186412>
+Ordin anaf nr. 581/2017 · 1 versions, from 2017-02-17 (latest in force: 2017-02-17) · <https://legislatie.just.ro/Public/DetaliiDocument/186412>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 17 February 2017; this record still dates it from 7 February 2017, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-anaf-581-2017` (tags `ordin-anaf-581-2017/<day>`; `python tools/o
 - Ordin anaf nr. 581/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 581/2017: the first version is the order as published in Monitorul Oficial nr. 105 of 7 February 2017 (document 186412 of the official web service), in force on 17 February 2017, the day it states for itself.
 - Ordin anaf nr. 581/2017: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 581/2017: first published here dated 7 February 2017; its in-force clause states 17 February 2017. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 581/2017: re-dated by a correction: in force from 17 February 2017 (first published dated 7 February 2017).

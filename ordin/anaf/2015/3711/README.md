@@ -1,8 +1,8 @@
 # Ordinul nr. 3.711/2015 privind modelul și conținutul formularelor și documentelor utilizate în activitatea de inspecție fiscală
 
-Ordin anaf nr. 3711/2015 · 1 versions, from 2015-12-28 (latest in force: 2015-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/174332>
+Ordin anaf nr. 3711/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174332>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2016; this record still dates it from 28 December 2015, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -109,4 +109,4 @@ Act id: `ordin-anaf-3711-2015` (tags `ordin-anaf-3711-2015/<day>`; `python tools
 - Ordin anaf nr. 3711/2015: Anexa nr. 27 (.a AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală.................................. Administrația...................................... Nr......./zz.ll.aa SOMAȚIE Domnului/Doamnei........) is part of the order and is published in its folder, anexa-27/ (paragraphs), from document 174332 of the official web service.
 - Ordin anaf nr. 3711/2015: Anexa nr. 28 (.b INSTRUCȚIUNI de completare și utilizare a formularului "Somație" Reprezintă documentul prin care un contribuabil este somat să se prezinte la sediul organului de inspecție fiscală în vederea efectu) is part of the order and is published in its folder, anexa-28/ (paragraphs), from document 174332 of the official web service.
 - Ordin anaf nr. 3711/2015: Anexa nr. 29 (.c Caracteristicile de tipărire, modul de difuzare, de utilizare și păstrare a formularului "Somație" 1. Denumire: Somație... 2. Format: A4/t1... 3. Caracteristici de tipărire: se tipărește pe o singu) is part of the order and is published in its folder, anexa-29/ (paragraphs), from document 174332 of the official web service.
-- Ordin anaf nr. 3711/2015: first published here dated 28 December 2015; its in-force clause states 1 January 2016. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 3711/2015: re-dated by a correction: in force from 1 January 2016 (first published dated 28 December 2015).

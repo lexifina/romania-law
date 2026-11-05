@@ -783,6 +783,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-171-1995",
+   "path": "ordin/mediu/1995/171",
+   "short": "Ordin mediu nr. 171/1995",
+   "title": "Ordinul nr. 171/1995 pentru aprobarea Regulamentului privind organizarea, funcționarea și exercitarea controlului silvic de stat în domeniul gospodăririi fondului forestier și a vegetației forestiere din afară acestuia, precum și a fondurilor de vânătoare și salmonicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6465",
+   "versions": [
+    {
+     "from": "1995-05-22",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6465",
+     "sha256": "559eb66f636ec62b56e279924d3e7d42755a752e8227cebff9128cc00aa9cb1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-434-1995",
+   "path": "ordin/mediu/1995/434",
+   "short": "Ordin mediu nr. 434/1995",
+   "title": "Ordinul nr. 434/1995 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de atestare a agenților economici în scopul participării acestora la licitațiile și negocierile directe de masa lemnoasă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6950",
+   "versions": [
+    {
+     "from": "1995-08-04",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6950",
+     "sha256": "1de8f4f9a0ad0a3bfa670a71d17db4c85f5c2ffdf35b8e1edef4fe7d7d3a5b0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-485-1995",
+   "path": "ordin/mediu/1995/485",
+   "short": "Ordin mediu nr. 485/1995",
+   "title": "Ordinul nr. 485/1995 privind aprobarea Regulamentului de organizare și funcționare a Sistemului de alarmare în caz de poluări accidentale ale apelor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7001",
+   "versions": [
+    {
+     "from": "1995-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7001",
+     "sha256": "8c1280aa037250b101e52a2ddc3cac1c8bd1a25ffeab6da53b8cda30ef201994"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-138-1995",
    "path": "ordin/munca/1995/138",
    "short": "Ordin munca nr. 138/1995",
@@ -790,7 +835,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/6393",
    "versions": [
     {
-     "from": "1995-11-23",
+     "from": "1995-12-08",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6393",
      "sha256": "b80cb6368b93162452f56fb1a03353abc156d9c6d2967308b6140a9102200bae"
@@ -1098,6 +1143,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-166-1995",
+   "path": "ordin/transporturi/1995/166",
+   "short": "Ordin transporturi nr. 166/1995",
+   "title": "Ordinul nr. 166/1995 privind aprobarea instrucțiunilor de aplicare a Hotărârii Guvernului nr. 152/1995 pentru modificarea și completarea unor dispoziții din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulația pe drumurile publice și pentru stabilirea și sancționarea contravențiilor în acest sector, aprobat prin H.C.M. nr. 772/1966",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6458",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6458",
+     "sha256": "c601ff3131461ebdcd6b2719aa2b8bfe5dcef8269eebdf42b8c7faa28ca7c4d4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-199-1995",
    "path": "ordin/transporturi/1995/199",
    "short": "Ordin transporturi nr. 199/1995",
@@ -1173,6 +1233,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-368-1995",
+   "path": "ordin/transporturi/1995/368",
+   "short": "Ordin transporturi nr. 368/1995",
+   "title": "Ordinul nr. 368/1995 privind modificarea și completarea Instrucțiunilor de aplicare a Hotărârii Guvernului nr. 152/1995 pentru modificarea și completarea unor dispoziții din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulația pe drumurile publice și pentru stabilirea și sancționarea contravențiilor în acest sector, aprobat prin H.C.M. nr. 772/1966, aprobate prin Ordinul ministrului transporturilor nr. 166/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6828",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6828",
+     "sha256": "cea7357a6d1a02452037e7acc19870d6a05f11303927029ae76d0aa307704ff0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-396-1995",
    "path": "ordin/transporturi/1995/396",
    "short": "Ordin transporturi nr. 396/1995",
@@ -1199,6 +1274,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6979",
      "sha256": "4efa0b3a435b9f42a726d087be8fa542cbb394b871c7344c64c59c33b159888e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-6-1995",
+   "path": "ordin/transporturi/1995/6",
+   "short": "Ordin transporturi nr. 6/1995",
+   "title": "Ordinul nr. 6/1995 pentru modificarea Ordinului ministrului transporturilor nr. 308/1994 privind acordarea licențelor și a autorizațiilor agenților economici care își desfășoară activitatea în domeniul naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5685",
+   "versions": [
+    {
+     "from": "1995-01-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5685",
+     "sha256": "e746a383affe260788b51fd47fe308d82614355f42ce6fb062c47b674e1c65c6"
     }
    ]
   },

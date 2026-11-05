@@ -1,8 +1,8 @@
 # Regulamentul nr. 32/2006 privind serviciile de investiții financiare
 
-Regulament cnvm nr. 32/2006 · 1 versions, from 2007-02-12 (latest in force: 2007-02-12) · <https://legislatie.just.ro/Public/DetaliiDocument/80566>
+Regulament cnvm nr. 32/2006 · 1 versions, from 2007-02-27 (latest in force: 2007-02-27) · <https://legislatie.just.ro/Public/DetaliiDocument/80566>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 27 February 2007; this record still dates it from 12 February 2007, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `regulament-cnvm-32-2006` (tags `regulament-cnvm-32-2006/<day>`; `python
 - Regulament cnvm nr. 32/2006: the signatures and the place and date line after its last article are not article text.
 - Regulament cnvm nr. 32/2006: the publisher's note "*) Anexele nr. 1—11 sunt reproduse în facsimil." sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Regulament cnvm nr. 32/2006: the publisher's notes run into its text (*) Acest chestionar va fi completat de către fiecare dintre acţionarii semnificativi direcţi/indirecţi ai S.S.I.F. În ca; *) Aprobat de Ordinul nr. 121/21.12.2006 publicat în Monitorul Oficial al României, Partea I, Nr. 103 din 12 februarie 2) are not text.
-- Regulament cnvm nr. 32/2006: first published here dated 12 February 2007; its in-force clause states 27 February 2007. The record keeps the first date until it is corrected by hand.
+- Regulament cnvm nr. 32/2006: re-dated by a correction: in force from 27 February 2007 (first published dated 12 February 2007).

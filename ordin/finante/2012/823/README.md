@@ -1,8 +1,8 @@
 # Ordinul nr. 823/2012 pentru aprobarea Normelor metodologice privind execuția bugetului de venituri și cheltuieli al Fondului pentru mediu
 
-Ordin finante nr. 823/2012 · 1 versions, from 2012-06-18 (latest in force: 2012-06-18) · <https://legislatie.just.ro/Public/DetaliiDocument/138891>
+Ordin finante nr. 823/2012 · 1 versions, from 2012-07-01 (latest in force: 2012-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/138891>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 12/06/2012): it is a table that the official text holds only flattened. Its in-force clause states 1 July 2012; this record still dates it from 18 June 2012, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 12/06/2012): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,4 @@ Act id: `ordin-finante-823-2012` (tags `ordin-finante-823-2012/<day>`; `python t
 - Ordin finante nr. 823/2012: the first version is the order as published in Monitorul Oficial nr. 405 of 18 June 2012 (document 138891 of the official web service), in force on 1 July 2012, the day it states for itself.
 - Ordin finante nr. 823/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 823/2012: Anexa nr. 1 (NORMA 12/06/2012) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 823/2012: first published here dated 18 June 2012; its in-force clause states 1 July 2012. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 823/2012: re-dated by a correction: in force from 1 July 2012 (first published dated 18 June 2012).

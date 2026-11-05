@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-19-2010",
+   "path": "ordin/agricultura/2010/19",
+   "short": "Ordin agricultura nr. 19/2010",
+   "title": "Ordinul nr. 19/2010 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116725",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116725",
+     "sha256": "c2dca7929a3b07915210d8b1ee6fa8edc6d12e5908bc856573182fdf6a55b78a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-203-2010",
    "path": "ordin/agricultura/2010/203",
    "short": "Ordin agricultura nr. 203/2010",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-30-2010",
+   "path": "ordin/agricultura/2010/30",
+   "short": "Ordin agricultura nr. 30/2010",
+   "title": "Ordinul nr. 30/2010 pentru aprobarea bunelor condiții agricole și de mediu în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116292",
+   "versions": [
+    {
+     "from": "2010-02-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116292",
+     "sha256": "f6a6cb547a57abb949884c49d0166070a907289311f4459f87f0311cbb383c0b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-33-2010",
    "path": "ordin/agricultura/2010/33",
    "short": "Ordin agricultura nr. 33/2010",
@@ -104,6 +134,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116229",
      "sha256": "73dbad79ef1ea00cb860b744b47fe3887e06583cf2b4607d5b43e284458bd47c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-2010",
+   "path": "ordin/agricultura/2010/8",
+   "short": "Ordin agricultura nr. 8/2010",
+   "title": "Ordinul nr. 8/2010 privind prohibiția pescuitului în anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116295",
+   "versions": [
+    {
+     "from": "2010-02-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116295",
+     "sha256": "0458c93dec1d0d98901f213c87dbdf3de14aaed628930d411cc888af894781da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2010",
+   "path": "ordin/agricultura/2010/83",
+   "short": "Ordin agricultura nr. 83/2010",
+   "title": "Ordinul nr. 83/2010 privind aprobarea Normelor metodologice de agreare a experților evaluatori, membri titulari ai Asociației Naționale a Evaluatorilor din România, care desfășoară activități de evaluare a terenurilor forestiere și agricole supuse exproprierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119067",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119067",
+     "sha256": "6eab30a882b63669f162ea6b74e0ca4b04ee5a9c0de8dd0e5f2897f78afe0f63"
     }
    ]
   },
@@ -5140,7 +5200,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/121985",
    "versions": [
     {
-     "from": "2010-09-06",
+     "from": "2010-09-09",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121985",
      "sha256": "14917ff102ba25025187879479298d682883b8a3211b38707dd0a7571e589473"
@@ -6228,6 +6288,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1028-2010",
+   "path": "ordin/mediu/2010/1028",
+   "short": "Ordin mediu nr. 1028/2010",
+   "title": "Ordinul nr. 1.028/2010 privind aprobarea delimitării și descrierii regiunilor de proveniență pentru materialele de bază din care se obțin materiale forestiere de reproducere din categoriile \"sursă identificată\" și \"selecționat\", pentru speciile de interes forestier din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121907",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121907",
+     "sha256": "cb1d99f6be7615c9e0383f51b2b9794c1106ab1147e5cbc30bf43110b8bd7e7b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1160-2010",
    "path": "ordin/mediu/2010/1160",
    "short": "Ordin mediu nr. 1160/2010",
@@ -6239,6 +6314,111 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125377",
      "sha256": "c09a0a09650f296c52c7b575b081f36d637fb39833aab229aa9017d293464f73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1179-2010",
+   "path": "ordin/mediu/2010/1179",
+   "short": "Ordin mediu nr. 1179/2010",
+   "title": "Ordinul nr. 1.179/2010 pentru aprobarea Ghidului privind gestionarea ecologică rațională a bifenililor policlorurați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121749",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121749",
+     "sha256": "5a4275e212753651b56234f6ceaf863764e037cb53c58f9284bf9107d3a89253"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1181-2010",
+   "path": "ordin/mediu/2010/1181",
+   "short": "Ordin mediu nr. 1181/2010",
+   "title": "Ordinul nr. 1.181/2010 pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121400",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121400",
+     "sha256": "a823f0f14c865df57842961060955bc93c7960775fec8792b4fecb7af7ce09fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1221-2010",
+   "path": "ordin/mediu/2010/1221",
+   "short": "Ordin mediu nr. 1221/2010",
+   "title": "Ordinul nr. 1.221/2010 pentru aprobarea Regulamentului privind atribuirea dreptului de gestionare a faunei cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121781",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121781",
+     "sha256": "f3d01119f2e9633bcc8a009ab0ba2ec5595863fab5eb72a2d5eed38ff9210cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1222-2010",
+   "path": "ordin/mediu/2010/1222",
+   "short": "Ordin mediu nr. 1222/2010",
+   "title": "Ordinul nr. 1.222/2010 privind cadrul instituțional și procedural pentru implementarea proiectelor promovate de România în cadrul Instrumentului financiar pentru mediu LIFE+ și gestionarea asistenței financiare nerambursabile acordate României prin acest instrument",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121852",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121852",
+     "sha256": "2a59145296c9dd27cb53acfd2120de0d07f0efe4624d74ab56e5b1e2ee3501b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1294-2010",
+   "path": "ordin/mediu/2010/1294",
+   "short": "Ordin mediu nr. 1294/2010",
+   "title": "Ordinul nr. 1.294/2010 privind aprobarea cuantumului tarifelor pentru verificarea și aprobarea planului de monitorizare a emisiilor de gaze cu efect de seră și a planului de monitorizare a datelor tonă-kilometru pentru activități de aviație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121768",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121768",
+     "sha256": "47b38d4ff56268388160d08cd266e502fb2b724c207e9389b4a09ec698a11802"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1342-2010",
+   "path": "ordin/mediu/2010/1342",
+   "short": "Ordin mediu nr. 1342/2010",
+   "title": "Ordinul nr. 1.342/2010 privind modul de stabilire a tarifelor de practicare a vânătorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121920",
+   "versions": [
+    {
+     "from": "2010-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121920",
+     "sha256": "ac204a5ab7abf6388d281631db3c14ee7a091a58ab975340a442bb30ffec0bce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1343-2010",
+   "path": "ordin/mediu/2010/1343",
+   "short": "Ordin mediu nr. 1343/2010",
+   "title": "Ordinul nr. 1.343/2010 pentru aprobarea prețului mediu al unui metru cub de masă lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121908",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121908",
+     "sha256": "0a7e6dab96ea2d4849f6fce74ab2866f52c90940c5f289d2f13c0a17c9447eb6"
     }
    ]
   },
@@ -6258,6 +6438,156 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1423-2010",
+   "path": "ordin/mediu/2010/1423",
+   "short": "Ordin mediu nr. 1423/2010",
+   "title": "Ordinul nr. 1.423/2010 pentru aprobarea derogărilor în cazul speciilor urs, lup, râs și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122172",
+   "versions": [
+    {
+     "from": "2010-09-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122172",
+     "sha256": "11c55a404a986ac530bf519427aea1ce92e748e8e67e1814e9587b532383a872"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1450-2010",
+   "path": "ordin/mediu/2010/1450",
+   "short": "Ordin mediu nr. 1450/2010",
+   "title": "Ordinul nr. 1.450/2010 pentru aprobarea Ghidului de finanțare a Programului vizând protecția resurselor de apă, sisteme integrate de alimentare cu apă, stații de tratare, canalizare și stații de epurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122515",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122515",
+     "sha256": "4c7728158e906d93b5bd523b2569a6cfa19c20c558e24cdf3af348c2a617f10e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1741-2010",
+   "path": "ordin/mediu/2010/1741",
+   "short": "Ordin mediu nr. 1741/2010",
+   "title": "Ordinul nr. 1.741/2010 pentru aprobarea Ghidului de finanțare a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire - beneficiari unități administrativ-teritoriale, instituții publice și unități de cult",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123254",
+   "versions": [
+    {
+     "from": "2010-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123254",
+     "sha256": "18062e208719577852fdbc5a059a34ac8a64e938573d68e73ee038d6051789c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1770-2010",
+   "path": "ordin/mediu/2010/1770",
+   "short": "Ordin mediu nr. 1770/2010",
+   "title": "Ordinul nr. 1.770/2010 pentru aprobarea Normelor metodologice referitoare la criteriile și modalitățile practice de aplicare a prevederilor Legii nr. 192/2010 privind trecerea unor drumuri forestiere din domeniul public al statului și din administrarea Regiei Naționale a Pădurilor-Romsilva în domeniul public al unor unități administrativ-teritoriale și în administrarea consiliilor locale ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123118",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123118",
+     "sha256": "612d57e8a33c5696e2db0c377ff13c5c327aa899339f1e7554d599ddef622de1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1775-2010",
+   "path": "ordin/mediu/2010/1775",
+   "short": "Ordin mediu nr. 1775/2010",
+   "title": "Ordinul nr. 1.775/2010 pentru aprobarea Ghidului de finanțare a Programului privind reducerea impactului asupra atmosferei, inclusiv monitorizarea calității aerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123352",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123352",
+     "sha256": "ce211c33e91616c6719d220f33ae1088dfbde5557650f99265703e5ca6cddd82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1898-2010",
+   "path": "ordin/mediu/2010/1898",
+   "short": "Ordin mediu nr. 1898/2010",
+   "title": "Ordinul nr. 1.898/2010 pentru aprobarea Regulamentului de vânzare a masei lemnoase care se recoltează anual din fondul forestier proprietate publică a statului administrat de Regia Națională a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124105",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124105",
+     "sha256": "2798e15f0996e24e5cd1b0e5e259263cf148af66a03a852b78bbf502d06e61af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1936-2010",
+   "path": "ordin/mediu/2010/1936",
+   "short": "Ordin mediu nr. 1936/2010",
+   "title": "Ordinul nr. 1.936/2010 pentru aprobarea unor derogări de la dispozițiile Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului, interimar, nr. 1.683/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123661",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123661",
+     "sha256": "2ec4d58d72446aad3ae7195c881b6a7540a2ce0b54cb7de60ed2fff971cdc160"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1947-2010",
+   "path": "ordin/mediu/2010/1947",
+   "short": "Ordin mediu nr. 1947/2010",
+   "title": "Ordinul nr. 1.947/2010 privind aprobarea derogării pentru unele specii de păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124109",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124109",
+     "sha256": "163bf08afeb583a1313c60f63e87d7062f466c1152cc40bdcbf7999a203bc3f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1948-2010",
+   "path": "ordin/mediu/2010/1948",
+   "short": "Ordin mediu nr. 1948/2010",
+   "title": "Ordinul nr. 1.948/2010 privind aprobarea Metodologiei de atribuire a administrării ariilor naturale protejate care necesită constituirea de structuri de administrare și a Metodologiei de atribuire a custodiei ariilor naturale protejate care nu necesită constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124191",
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124191",
+     "sha256": "cfec8516dc207172aaaa6a0af1da47d951443228297160dbc5b66ed48dfb16af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2-2010",
+   "path": "ordin/mediu/2010/2",
+   "short": "Ordin mediu nr. 2/2010",
+   "title": "Ordinul nr. 2/2010 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului național de tractoare și mașini agricole autopropulsate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115338",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115338",
+     "sha256": "69b4009908e10320a726c8f9a83908493370fbb246ee7eb816a983b8f2d9ac8d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2042-2010",
    "path": "ordin/mediu/2010/2042",
    "short": "Ordin mediu nr. 2042/2010",
@@ -6269,6 +6599,231 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125612",
      "sha256": "77790cd72798c99c1fc8c4242e8265a34e0970bdc9f4e38ebf90ee4548737dc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2053-2010",
+   "path": "ordin/mediu/2010/2053",
+   "short": "Ordin mediu nr. 2053/2010",
+   "title": "Ordinul nr. 2.053/2010 pentru aprobarea modelului, conținutului și procedurii de înscriere în Registrul național al asociațiilor de proprietari de păduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124335",
+   "versions": [
+    {
+     "from": "2010-12-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124335",
+     "sha256": "91d6f704680844378673c8f2c14ff1cead94809e6d9532901e3f7a5fadc4619d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2358-2010",
+   "path": "ordin/mediu/2010/2358",
+   "short": "Ordin mediu nr. 2358/2010",
+   "title": "Ordinul nr. 2.358/2010 pentru aprobarea Regulamentului privind organizarea și atestarea corpului de experți pentru evaluarea stării de siguranță în exploatare a echipamentelor hidroelectromecanice aferente barajelor încadrate în categoriile de importanță A, B, C și D, NTLH - 051",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125146",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125146",
+     "sha256": "cb34223d32b61af9531d69b8badc9b3703685f77aa525454e9243fcce78f1899"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-360-2010",
+   "path": "ordin/mediu/2010/360",
+   "short": "Ordin mediu nr. 360/2010",
+   "title": "Ordinul nr. 360/2010 privind stabilirea procedurii de efectuare a plății titlurilor executorii având ca obiect acordarea de drepturi salariale personalului din Ministerul Mediului și Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117342",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117342",
+     "sha256": "3a121d8ef9b8938bb3f6dc17e0bd08dd5ac2b5a06a21e94de27f5a968d54da79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-367-2010",
+   "path": "ordin/mediu/2010/367",
+   "short": "Ordin mediu nr. 367/2010",
+   "title": "Ordinul nr. 367/2010 pentru aprobarea valorii concesiunii, a modului de calcul și a modului de plată a redevenței obținute din concesionarea terenurilor forestiere proprietate publică a statului, aferente activelor vândute de Regia Națională a Pădurilor - Romsilva, precum și a modelului de contract de concesiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117505",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117505",
+     "sha256": "f0cc99ffbc7176b19cd5e39977169bce30873fbef3b4323f81e42c7d31f9d995"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-405-2010",
+   "path": "ordin/mediu/2010/405",
+   "short": "Ordin mediu nr. 405/2010",
+   "title": "Ordinul nr. 405/2010 privind constituirea și funcționarea Comisiei de analiză tehnică la nivel central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117867",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117867",
+     "sha256": "ecb3a98eeaf62ff6e60f0ab1557481f752c35e03aa675def75be09b66f8cea89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-460-2010",
+   "path": "ordin/mediu/2010/460",
+   "short": "Ordin mediu nr. 460/2010",
+   "title": "Ordinul nr. 460/2010 pentru aprobarea Metodologiei de atestare a unităților specializate să elaboreze amenajamente silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118103",
+   "versions": [
+    {
+     "from": "2010-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118103",
+     "sha256": "8cba460ee2665828d49a538a8cfcb237a285efc9b084bad3ccb231cad5782cb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-566-2010",
+   "path": "ordin/mediu/2010/566",
+   "short": "Ordin mediu nr. 566/2010",
+   "title": "Ordinul nr. 566/2010 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea licitației publice pentru atribuirea contractelor de închiriere, a Contractului-cadru de închiriere a plajei Mării Negre și a Listei sectoarelor de plajă libere propuse spre închiriere pentru sezonul estival 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117982",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117982",
+     "sha256": "6c108fd0bba825170160fbb3f5a0da1e5a0c0d4139ffa60f69e0439bd0e3054a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-713-2010",
+   "path": "ordin/mediu/2010/713",
+   "short": "Ordin mediu nr. 713/2010",
+   "title": "Ordinul nr. 713/2010 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2010 - 14 mai 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118635",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118635",
+     "sha256": "2e14dcd881b7ad18faf7331e78baad41cfc359b6dfc10ad57a53923566e8397e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-714-2010",
+   "path": "ordin/mediu/2010/714",
+   "short": "Ordin mediu nr. 714/2010",
+   "title": "Ordinul nr. 714/2010 pentru aprobarea Ghidului de finanțare a Programului privind creșterea producției de energie din surse regenerabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118970",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118970",
+     "sha256": "11391a0b58c9a0ac8b6e05cdd13ab8cf1e00a179aa872e4f7b60cbc670b61d78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-718-2010",
+   "path": "ordin/mediu/2010/718",
+   "short": "Ordin mediu nr. 718/2010",
+   "title": "Ordinul nr. 718/2010 pentru aprobarea Normelor metodologice privind atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare din domeniul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118939",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118939",
+     "sha256": "c7e0a319007df626c07fa1625cf4e23035a26a905c20955018d6a3daa036264f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-904-2010",
+   "path": "ordin/mediu/2010/904",
+   "short": "Ordin mediu nr. 904/2010",
+   "title": "Ordinul nr. 904/2010 pentru aprobarea Procedurii privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119920",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119920",
+     "sha256": "21b1e7b1b382dc9fc38f9c7bbd81ba701b8607c759146f5fde343e9b99dd5bdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-950-2010",
+   "path": "ordin/mediu/2010/950",
+   "short": "Ordin mediu nr. 950/2010",
+   "title": "Ordinul nr. 950/2010 pentru aprobarea Ghidului de finanțare a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119678",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119678",
+     "sha256": "f97c6891580904bd250058c2933440edfc1086e2ae03e42b6cad2accf0668fe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-962-2010",
+   "path": "ordin/mediu/2010/962",
+   "short": "Ordin mediu nr. 962/2010",
+   "title": "Ordinul nr. 962/2010 pentru aprobarea Normelor procedurale interne privind organizarea și desfășurarea procedurilor de încheiere a acordului-cadru pentru consultanță juridică în legătură cu contractele/acordurile/protocoalele încheiate de Ministerul Mediului și Pădurilor, prin Direcția generală AM POS Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120355",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120355",
+     "sha256": "d0dfbe7824c27e698ff9e2caa386581a30c93c95bc0498e79053ad7f14d15251"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-975-2010",
+   "path": "ordin/mediu/2010/975",
+   "short": "Ordin mediu nr. 975/2010",
+   "title": "Ordinul nr. 975/2010 pentru aprobarea Normelor privind practicarea activității de pescuit pentru consumul familial în Rezervația Biosferei Delta Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121845",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121845",
+     "sha256": "eb186ae745afa57a0fb09f8db617ade1f57600ca9ddc282ad2826bf81bd643b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-989-2010",
+   "path": "ordin/mediu/2010/989",
+   "short": "Ordin mediu nr. 989/2010",
+   "title": "Ordinul nr. 989/2010 pentru aprobarea Ghidului de finanțare a Programului de îmbunătățire a calității mediului prin împădurirea terenurilor agricole degradate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120989",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120989",
+     "sha256": "77370d59b1da8f321815d2245f9e28df13f071d67b535e0daa73a8a749daeca8"
     }
    ]
   },
@@ -7285,7 +7840,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/121234",
    "versions": [
     {
-     "from": "2010-08-05",
+     "from": "2010-08-16",
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121234",
      "sha256": "66595b922d9be106ea912e6faaa58e1d4261686c1462add41b2feacd357e2622"
@@ -7765,7 +8320,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/122490",
    "versions": [
     {
-     "from": "2010-09-30",
+     "from": "2010-10-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122490",
      "sha256": "731d285c92d7b4c00f2791f87e34c351462e4fae75754b9ebe1bc80706c15cbf"
@@ -8215,7 +8770,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/124669",
    "versions": [
     {
-     "from": "2010-12-23",
+     "from": "2011-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124669",
      "sha256": "f2a11579df152b1539b7c08e81a51d87d0c19d40d68d601918cb2d5fbae792c8"
@@ -8395,7 +8950,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/117526",
    "versions": [
     {
-     "from": "2010-03-30",
+     "from": "2010-04-01",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117526",
      "sha256": "8f119d237c07a1ced6292e6a3ddb83e9b0710355121f2e56a7ef742e473f1669"
@@ -8725,7 +9280,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/115730",
    "versions": [
     {
-     "from": "2010-01-29",
+     "from": "2010-02-01",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115730",
      "sha256": "ff07479612d8c58f5a08a39d55539865aa6ce7bd533e131623c35218056245bc"
@@ -8800,7 +9355,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/119344",
    "versions": [
     {
-     "from": "2010-06-07",
+     "from": "2010-06-17",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119344",
      "sha256": "7614f6584b90cc1ecbad9d7069b76b0024a7d7b4da94ab733c844245a7f8fe5a"
@@ -8965,7 +9520,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/119905",
    "versions": [
     {
-     "from": "2010-06-29",
+     "from": "2010-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119905",
      "sha256": "07a07b14050d5b2e47602020c81b04b900ecc8eb199affdf34d28cbca1dfd0d0"
@@ -9048,6 +9603,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1007-2010",
+   "path": "ordin/transporturi/2010/1007",
+   "short": "Ordin transporturi nr. 1007/2010",
+   "title": "Ordinul nr. 1.007/2010 pentru modificarea și completarea Normelor privind organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.892/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125213",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125213",
+     "sha256": "aef6bb716eb3415e68a257d66b5d26b7c0ff596c04b5409b17b78d75b68346d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-15-2010",
    "path": "ordin/transporturi/2010/15",
    "short": "Ordin transporturi nr. 15/2010",
@@ -9108,6 +9678,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-245-2010",
+   "path": "ordin/transporturi/2010/245",
+   "short": "Ordin transporturi nr. 245/2010",
+   "title": "Ordinul nr. 245/2010 privind modificarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117697",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117697",
+     "sha256": "1030fd61ab524c8d7d075395d6b97bd939450f0a634f814c008bb32fe3a4beda"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-247-2010",
    "path": "ordin/transporturi/2010/247",
    "short": "Ordin transporturi nr. 247/2010",
@@ -9134,6 +9719,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118194",
      "sha256": "e7fca6826be88072e4472cb47ae001e84556b26898c3bdc89d84f145bc97f23e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-344-2010",
+   "path": "ordin/transporturi/2010/344",
+   "short": "Ordin transporturi nr. 344/2010",
+   "title": "Ordinul nr. 344/2010 pentru modificarea și completarea Regulamentului privind criteriile minime de pregătire și perfecționare, precum și condițiile de obținere a certificatelor internaționale de conducător de ambarcațiune de agrement, aprobat prin Ordinul ministrului transporturilor nr. 534/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118665",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118665",
+     "sha256": "e41ce22a145c12eb655b8f16300a3973063385683a720696e27d0d8c6e1ab2af"
     }
    ]
   },
@@ -9198,6 +9798,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-382-2010",
+   "path": "ordin/transporturi/2010/382",
+   "short": "Ordin transporturi nr. 382/2010",
+   "title": "Ordinul nr. 382/2010 privind completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.288/2006 pentru aprobarea Reglementării aeronautice civile române RACR-LDOZ \"Licențierea dispecerilor operațiuni zbor\", ediția 01/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118914",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118914",
+     "sha256": "3f3616b6bfc4137c9c1029151c75a2e1f3541bb48e7adcf86b79dc59d88bccaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-385-2010",
+   "path": "ordin/transporturi/2010/385",
+   "short": "Ordin transporturi nr. 385/2010",
+   "title": "Ordinul nr. 385/2010 pentru modificarea și completarea Instrucțiunilor privind revizia tehnică și întreținerea vagoanelor în exploatare nr. 250, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.817/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119103",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119103",
+     "sha256": "fa6a85fc7ebf0651d7bb0b0c6e35eba13cea5c7626545988155a42a9932c5912"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-386-2010",
+   "path": "ordin/transporturi/2010/386",
+   "short": "Ordin transporturi nr. 386/2010",
+   "title": "Ordinul nr. 386/2010 pentru modificarea și completarea Regulamentului de remorcare și frânare nr. 006, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.815/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119163",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119163",
+     "sha256": "42aecec74db3eeb927d17b5e0595970afd51b8b0bf7bc252efaed8309cba639c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-415-2010",
    "path": "ordin/transporturi/2010/415",
    "short": "Ordin transporturi nr. 415/2010",
@@ -9228,6 +9873,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-421-2010",
+   "path": "ordin/transporturi/2010/421",
+   "short": "Ordin transporturi nr. 421/2010",
+   "title": "Ordinul nr. 421/2010 pentru modificarea și completarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119571",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119571",
+     "sha256": "829e42ad4a198ca360340e0fbf2e585ed9b1750adb646fce88595728022841dc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-443-2010",
    "path": "ordin/transporturi/2010/443",
    "short": "Ordin transporturi nr. 443/2010",
@@ -9239,6 +9899,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120387",
      "sha256": "af68266a68b9fea331176785f121ee9b99602efdace1e669a4dfbe9e5373b298"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-478-2010",
+   "path": "ordin/transporturi/2010/478",
+   "short": "Ordin transporturi nr. 478/2010",
+   "title": "Ordinul nr. 478/2010 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 669/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR-AIS \"Serviciul de informare aeronautică\", ediția 2/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120641",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120641",
+     "sha256": "82f44487fc94bcd317216ad31753f2a531021eb9969c960f717c426d346619b9"
     }
    ]
   },
@@ -9269,6 +9944,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120486",
      "sha256": "0748d980171f75191e5aee996d8a66bc0ffdb7d05497c094bd91284dca4a509c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-570-2010",
+   "path": "ordin/transporturi/2010/570",
+   "short": "Ordin transporturi nr. 570/2010",
+   "title": "Ordinul nr. 570/2010 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120923",
+   "versions": [
+    {
+     "from": "2010-07-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120923",
+     "sha256": "c6fa91deb9f6aff4df4438ab8a4a01521728c24ae56cc35c3e6cf21f33ecbe5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-629-2010",
+   "path": "ordin/transporturi/2010/629",
+   "short": "Ordin transporturi nr. 629/2010",
+   "title": "Ordinul nr. 629/2010 pentru modificarea și completarea Normelor de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere, aprobate prin Ordinul ministrului transporturilor nr. 794/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121790",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121790",
+     "sha256": "12496122059536bff0324c46df656a943d2e83120899036cd8ad39fa25c60a48"
     }
    ]
   },
@@ -9539,6 +10244,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123933",
      "sha256": "89e0fbc2a9f5e09aabcc3377bcc4954d071e43558d758312c42d31903b66fd9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-997-2010",
+   "path": "ordin/transporturi/2010/997",
+   "short": "Ordin transporturi nr. 997/2010",
+   "title": "Ordinul nr. 997/2010 pentru modificarea anexei la Ordinul ministrului transporturilor nr. 846/2007 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124668",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124668",
+     "sha256": "e19cce145d0ea702f7cbe3dae92a85d6418f0547557dbe001425595af61d6d03"
     }
    ]
   }

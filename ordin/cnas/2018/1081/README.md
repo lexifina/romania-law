@@ -1,8 +1,8 @@
 # Ordinul nr. 1.081/2018 pentru aprobarea metodologiei de stabilire a prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor deficiențe organice sau funcționale în ambulatoriu, în cadrul sistemului de asigurări sociale de sănătate
 
-Ordin cnas nr. 1081/2018 · 1 versions, from 2018-06-28 (latest in force: 2018-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/201927>
+Ordin cnas nr. 1081/2018 · 1 versions, from 2018-07-01 (latest in force: 2018-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/201927>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 July 2018; this record still dates it from 28 June 2018, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,4 +27,4 @@ Act id: `ordin-cnas-1081-2018` (tags `ordin-cnas-1081-2018/<day>`; `python tools
 - Ordin cnas nr. 1081/2018: the first version is the order as published in Monitorul Oficial nr. 535 of 28 June 2018 (document 201927 of the official web service), in force on 1 July 2018, the day it states for itself.
 - Ordin cnas nr. 1081/2018: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 1081/2018: Anexa nr. 1 (LISTA prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor deficiențe organice sau funcționale în ambulatoriu) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 201927 of the official web service.
-- Ordin cnas nr. 1081/2018: first published here dated 28 June 2018; its in-force clause states 1 July 2018. The record keeps the first date until it is corrected by hand.
+- Ordin cnas nr. 1081/2018: re-dated by a correction: in force from 1 July 2018 (first published dated 28 June 2018).

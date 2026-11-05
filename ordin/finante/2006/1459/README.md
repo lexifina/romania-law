@@ -1,8 +1,8 @@
 # Ordinul nr. 1.459/2006 privind înființarea Registrului național al operatorilor de produse accizabile armonizate și aprobarea procedurii de înființare și actualizare a acestuia
 
-Ordin finante nr. 1459/2006 · 1 versions, from 2006-09-13 (latest in force: 2006-09-13) · <https://legislatie.just.ro/Public/DetaliiDocument/75074>
+Ordin finante nr. 1459/2006 · 1 versions, from 2006-09-15 (latest in force: 2006-09-15) · <https://legislatie.just.ro/Public/DetaliiDocument/75074>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 15 September 2006; this record still dates it from 13 September 2006, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-finante-1459-2006` (tags `ordin-finante-1459-2006/<day>`; `python
 - Ordin finante nr. 1459/2006: the first version is the order as published in Monitorul Oficial nr. 777 of 13 September 2006 (document 75074 of the official web service), in force on 15 September 2006, the day it states for itself.
 - Ordin finante nr. 1459/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1459/2006: Anexa nr. 1 (PROCEDURA de înființare și actualizare a Registrului național al operatorilor de produse accizabile armonizate) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 75074 of the official web service; the service's copy of it as a document of its own (75075) reads the same words.
-- Ordin finante nr. 1459/2006: first published here dated 13 September 2006; its in-force clause states 15 September 2006. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 1459/2006: re-dated by a correction: in force from 15 September 2006 (first published dated 13 September 2006).

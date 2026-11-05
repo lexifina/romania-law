@@ -1,8 +1,8 @@
 # Regulamentul nr. 2/2000 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit
 
-Regulament bnr nr. 2/2000 · 1 versions, from 2000-07-07 (latest in force: 2000-07-07) · <https://legislatie.just.ro/Public/DetaliiDocument/23202>
+Regulament bnr nr. 2/2000 · 1 versions, from 2000-10-01 (latest in force: 2000-10-01) · <https://legislatie.just.ro/Public/DetaliiDocument/23202>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 October 2000; this record still dates it from 7 July 2000, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,4 +34,4 @@ Act id: `regulament-bnr-2-2000` (tags `regulament-bnr-2-2000/<day>`; `python too
 - Regulament bnr nr. 2/2000: the first version is the regulation as published in Monitorul Oficial nr. 316 of 7 July 2000 (document 23202 of the official web service), in force on 1 October 2000, the day it states for itself.
 - Regulament bnr nr. 2/2000: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 2/2000: Anexa nr. 1 (Tabelul nr. 1 - Criterii de încadrare pe categorii de clasificare a creditelor, pentru sectorul nebancar \ Inițiere de proceduri judiciare s-au inițiat proceduri judiciare nu s-au inițiat proceduri ju) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 23202 of the official web service.
-- Regulament bnr nr. 2/2000: first published here dated 7 July 2000; its in-force clause states 1 October 2000. The record keeps the first date until it is corrected by hand.
+- Regulament bnr nr. 2/2000: re-dated by a correction: in force from 1 October 2000 (first published dated 7 July 2000).

@@ -1,8 +1,8 @@
 # Ordinul nr. 564/2015 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 664/2012 privind autorizarea și/sau înregistrarea entităților care desfășoară activități de schimb valutar pe teritoriul României, altele decât cele care fac obiectul supravegherii Băncii Naționale a României
 
-Ordin finante nr. 564/2015 · 1 versions, from 2015-05-19 (latest in force: 2015-05-19) · <https://legislatie.just.ro/Public/DetaliiDocument/168079>
+Ordin finante nr. 564/2015 · 1 versions, from 2015-05-20 (latest in force: 2015-05-20) · <https://legislatie.just.ro/Public/DetaliiDocument/168079>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 20 May 2015; this record still dates it from 19 May 2015, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,4 +31,4 @@ Act id: `ordin-finante-564-2015` (tags `ordin-finante-564-2015/<day>`; `python t
 - Ordin finante nr. 564/2015: the first version is the order as published in Monitorul Oficial nr. 342 of 19 May 2015 (document 168079 of the official web service), in force on 20 May 2015, the day it states for itself.
 - Ordin finante nr. 564/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 564/2015: Anexa nr. 1 (PROCEDURĂ din 12 mai 2015 pentru solicitarea certificatului de atestare fiscală) is part of the order and is published in its folder, anexa-1/ (7 articles), from document 168139 of the official web service.
-- Ordin finante nr. 564/2015: first published here dated 19 May 2015; its in-force clause states 20 May 2015. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 564/2015: re-dated by a correction: in force from 20 May 2015 (first published dated 19 May 2015).

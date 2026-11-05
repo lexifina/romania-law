@@ -1,8 +1,8 @@
 # Ordinul nr. 924/2005 privind modificarea Ordinului ministrului sănătății și familiei nr. 612/2002 pentru aprobarea Normelor privind modul de calcul al prețurilor la medicamentele de uz uman
 
-Ordin sanatate nr. 924/2005 · 1 versions, from 2005-09-02 (latest in force: 2005-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/64717>
+Ordin sanatate nr. 924/2005 · 1 versions, from 2005-09-16 (latest in force: 2005-09-16) · <https://legislatie.just.ro/Public/DetaliiDocument/64717>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 16 September 2005; this record still dates it from 2 September 2005, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-sanatate-924-2005` (tags `ordin-sanatate-924-2005/<day>`; `python
 - Ordin sanatate nr. 924/2005: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 924/2005: the first version is the order as published in Monitorul Oficial nr. 801 of 2 September 2005 (document 64717 of the official web service), in force on 16 September 2005, the day it states for itself.
 - Ordin sanatate nr. 924/2005: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 924/2005: first published here dated 2 September 2005; its in-force clause states 16 September 2005. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 924/2005: re-dated by a correction: in force from 16 September 2005 (first published dated 2 September 2005).

@@ -805,7 +805,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/16775",
    "versions": [
     {
-     "from": "1999-01-27",
+     "from": "1999-02-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16775",
      "sha256": "56a8cbaf373cad90bcc050381ae5328d53c893950e3d12a38aef9885c2228b23"
@@ -880,7 +880,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/16820",
    "versions": [
     {
-     "from": "1999-01-28",
+     "from": "1999-07-27",
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16820",
      "sha256": "bd77a49c452da4b91ae25c6a1fb05b1979c2916cabf117e10a77d2fc7f956d07"
@@ -1259,6 +1259,111 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14773",
      "sha256": "70b977c5c7c7ccdb03daeaca6990bfee2c4d61e531dfd8b199d39b2d07765ae0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-449-1998",
+   "path": "ordin/mediu/1998/449",
+   "short": "Ordin mediu nr. 449/1998",
+   "title": "Ordinul nr. 449/1998 pentru aprobarea Metodologiei privind atestarea persoanelor fizice și juridice care efectuează studii de teren, elaborează documentații tehnico-economice și executa lucrări de îmbunătățiri funciare în domeniul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15240",
+   "versions": [
+    {
+     "from": "1998-07-17",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15240",
+     "sha256": "03ba49fa17a5aa0c1dcbeebba155f1203a9ae1f904356131a06c4d45cf5ddd09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-657-1998",
+   "path": "ordin/mediu/1998/657",
+   "short": "Ordin mediu nr. 657/1998",
+   "title": "Ordinul nr. 657/1998 pentru aprobarea Reglementărilor privind criteriile de atribuire a dreptului de gestionare a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16338",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16338",
+     "sha256": "c46fb9c821749767291d418ddd52354a158d6fc3aed653a54dec8318dcd50a3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-705-1998",
+   "path": "ordin/mediu/1998/705",
+   "short": "Ordin mediu nr. 705/1998",
+   "title": "Ordinul nr. 705/1998 privind unitățile și instalațiile autonome ale rețelei naționale de supraveghere meteorologică, precum și cele ale rețelei naționale de observații și măsurători hidrologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16339",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16339",
+     "sha256": "150c58d8f216c29da08a2f8a753bb8e679fbf38d42c341b0c8d2cdf00219601c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-706-1998",
+   "path": "ordin/mediu/1998/706",
+   "short": "Ordin mediu nr. 706/1998",
+   "title": "Ordinul nr. 706/1998 privind constituirea în rețeaua de observații și măsurători meteorologice specifice din administrarea unităților bazinale de gospodărire a apelor, a stațiilor meteorologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16340",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16340",
+     "sha256": "ce371f6e5d76d68d2d01b9059f20b49dae6f23c8025c45127bbf87c4f19e8dd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-728-1998",
+   "path": "ordin/mediu/1998/728",
+   "short": "Ordin mediu nr. 728/1998",
+   "title": "Ordinul nr. 728/1998 pentru aprobarea Regulamentului privind organizarea licitațiilor pentru stabilirea valorii reale de atribuire în gestiune a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16341",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16341",
+     "sha256": "3688dfbe4f60581fd91efe898c3ad56e3d87d56e0e96e784260d9907c16635e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-793-1998",
+   "path": "ordin/mediu/1998/793",
+   "short": "Ordin mediu nr. 793/1998",
+   "title": "Ordinul nr. 793/1998 privind aprobarea tarifelor unitare, în funcție de care se va calcula și se va stabili valoarea minimă de pornire a licitației pentru atribuirea în gestiune a fiecărui fond de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16342",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16342",
+     "sha256": "1ad1b255ab1a997475d5f3b028c58fbfd0753d7038b374ebcaadce874a2caf1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-965-1998",
+   "path": "ordin/mediu/1998/965",
+   "short": "Ordin mediu nr. 965/1998",
+   "title": "Ordinul nr. 965/1998 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate, publice sau private, pentru elaborarea de studii și proiecte în domeniul gospodăririi apelor și al ingineriei mediului legate de ape, precum și pentru execuția lucrărilor hidrotehnice de gospodărire a apelor și de ingineria mediului legată de ape, inclusiv întocmirea documentațiilor tehnice necesare pentru obținerea avizelor și autorizațiilor de gospodărire a apelor (NTLH - 016/1998)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16967",
+   "versions": [
+    {
+     "from": "1999-02-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16967",
+     "sha256": "5a27f507853bb585889dcb90386d8c730a587ad799dc0150a1d109b4e6006f37"
     }
    ]
   },
@@ -1769,6 +1874,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18181",
      "sha256": "7402daea7ec4141adbe1f9e3274811bf5573ee1b9b7a9b0b9f92b88ff175cbc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-634-1998",
+   "path": "ordin/transporturi/1998/634",
+   "short": "Ordin transporturi nr. 634/1998",
+   "title": "Ordinul nr. 634/1998 pentru completarea Ordinului ministrului transporturilor nr. 537/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16304",
+   "versions": [
+    {
+     "from": "1998-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16304",
+     "sha256": "d4af030b54799b689ccde570ce10288f65ffd9b36412275e42239434f6d731cb"
     }
    ]
   },

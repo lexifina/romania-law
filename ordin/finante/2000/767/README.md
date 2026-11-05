@@ -1,8 +1,8 @@
 # Ordinul nr. 767/2000 pentru aprobarea Instrucțiunilor cuprinzând procedura de asistare a contribuabililor în domeniul fiscal
 
-Ordin finante nr. 767/2000 · 1 versions, from 2000-06-30 (latest in force: 2000-06-30) · <https://legislatie.just.ro/Public/DetaliiDocument/23064>
+Ordin finante nr. 767/2000 · 1 versions, from 2000-07-15 (latest in force: 2000-07-15) · <https://legislatie.just.ro/Public/DetaliiDocument/23064>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 15 July 2000; this record still dates it from 30 June 2000, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-finante-767-2000` (tags `ordin-finante-767-2000/<day>`; `python t
 - Ordin finante nr. 767/2000: the first version is the order as published in Monitorul Oficial nr. 299 of 30 June 2000 (document 23064 of the official web service), in force on 15 July 2000, the day it states for itself.
 - Ordin finante nr. 767/2000: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 767/2000: Anexa nr. 1 (1 INSTRUCȚIUNI cuprinzând procedura de asistare a contribuabililor în domeniul fiscal 1. Asistarea contribuabililor în domeniul fiscal se exercită de următoarele structuri din cadrul aparatului centra) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 23064 of the official web service; the service's copy of it as a document of its own (23065) reads the same words.
-- Ordin finante nr. 767/2000: first published here dated 30 June 2000; its in-force clause states 15 July 2000. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 767/2000: re-dated by a correction: in force from 15 July 2000 (first published dated 30 June 2000).

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.036/2008 privind aprobarea Instrucțiunilor de completare a documentului administrativ de însoțire (DAI), utilizând aplicația RO-DAI de urmărire a mișcărilor cu produse accizabile în regim suspensiv
 
-Ordin anaf nr. 1036/2008 · 1 versions, from 2008-07-16 (latest in force: 2008-07-16) · <https://legislatie.just.ro/Public/DetaliiDocument/95669>
+Ordin anaf nr. 1036/2008 · 1 versions, from 2008-08-15 (latest in force: 2008-08-15) · <https://legislatie.just.ro/Public/DetaliiDocument/95669>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 15 August 2008; this record still dates it from 16 July 2008, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,4 +27,4 @@ Act id: `ordin-anaf-1036-2008` (tags `ordin-anaf-1036-2008/<day>`; `python tools
 - Ordin anaf nr. 1036/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1036/2008: Anexa nr. 1 (1 INSTRUCȚIUNI de completare a documentului administrativ de însoțire (DAI), utilizând aplicația RO-DAI de urmărire a mișcărilor cu produse accizabile în regim suspensiv Dispoziții generale 1. În înțe) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 95669 of the official web service.
 - Ordin anaf nr. 1036/2008: Anexa nr. 2 (2 REGULI de completare a rubricilor din e-DAI Pentru completarea unui e-DAI se apelează funcționalitatea "Modul Accize/Birou Plecare/DAI" și se lansează opțiunea "Creare", în urma căreia se deschide u) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 95669 of the official web service.
-- Ordin anaf nr. 1036/2008: first published here dated 16 July 2008; its in-force clause states 15 August 2008. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 1036/2008: re-dated by a correction: in force from 15 August 2008 (first published dated 16 July 2008).

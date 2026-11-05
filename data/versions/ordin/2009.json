@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-84-2009",
+   "path": "ordin/agricultura/2009/84",
+   "short": "Ordin agricultura nr. 84/2009",
+   "title": "Ordinul nr. 84/2009 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103134",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103134",
+     "sha256": "78d245189e6bd29900f70e92e63eb29f7f021c10d5e461ac9a5cb8e719285708"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1156-2009",
    "path": "ordin/anaf/2009/1156",
    "short": "Ordin anaf nr. 1156/2009",
@@ -1345,7 +1360,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/114325",
    "versions": [
     {
-     "from": "2009-12-09",
+     "from": "2010-01-01",
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114325",
      "sha256": "eabcd0da241eb8acb62a64d1c2e2e13a3e5d88125ed3ce135a712af8913ecef4"
@@ -2065,7 +2080,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/110228",
    "versions": [
     {
-     "from": "2009-08-05",
+     "from": "2009-11-01",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110228",
      "sha256": "9056b298246f3dc09402a8fea58e95b527f8c8bd45f407b9882861dac2023e19"
@@ -5883,6 +5898,66 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1026-2009",
+   "path": "ordin/mediu/2009/1026",
+   "short": "Ordin mediu nr. 1026/2009",
+   "title": "Ordinul nr. 1.026/2009 privind aprobarea condițiilor de elaborare a raportului de mediu, raportului privind impactul asupra mediului, bilanțului de mediu, raportului de amplasament, raportului de securitate și studiului de evaluare adecvată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110471",
+   "versions": [
+    {
+     "from": "2009-08-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110471",
+     "sha256": "d0a0a69e74d44d79321c5c3a0cd4d675ea2b5e21bde29c04cfefa2b07a4ec634"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1090-2009",
+   "path": "ordin/mediu/2009/1090",
+   "short": "Ordin mediu nr. 1090/2009",
+   "title": "Ordinul nr. 1.090/2009 pentru aprobarea Ghidului de finanțare a Programului de îmbunătățire a calității mediului prin împădurirea terenurilor agricole degradate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110819",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110819",
+     "sha256": "69d092de6f6564a632303b8bd49976ac427a7d17822b7970bb6cc5726976b501"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1104-2009",
+   "path": "ordin/mediu/2009/1104",
+   "short": "Ordin mediu nr. 1104/2009",
+   "title": "Ordinul nr. 1.104/2009 pentru aprobarea modelului autorizației privind activitățile de utilizare în condiții de izolare a microorganismelor modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111113",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111113",
+     "sha256": "8426d14d6b916972ecf055893f6e6638984f6235406c92d34afa56266480bc01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1107-2009",
+   "path": "ordin/mediu/2009/1107",
+   "short": "Ordin mediu nr. 1107/2009",
+   "title": "Ordinul nr. 1.107/2009 pentru aprobarea Ghidului de finanțare a Programului național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110967",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110967",
+     "sha256": "b5be060e0a021098a8b4c5e8a84a921498ec9a15b78d226bd903eb3df8215335"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1182-2009",
    "path": "ordin/mediu/2009/1182",
    "short": "Ordin mediu nr. 1182/2009",
@@ -5898,6 +5973,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1205-2009",
+   "path": "ordin/mediu/2009/1205",
+   "short": "Ordin mediu nr. 1205/2009",
+   "title": "Ordinul nr. 1.205/2009 pentru realizarea și funcționarea Registrului național privind locațiile introducerii în mediu a organismelor modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111844",
+   "versions": [
+    {
+     "from": "2009-10-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111844",
+     "sha256": "5f80ac9a4a32700f4c91ec215db28170dca277e6c1226258d341bc2125a84c4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1223-2009",
+   "path": "ordin/mediu/2009/1223",
+   "short": "Ordin mediu nr. 1223/2009",
+   "title": "Ordinul nr. 1.223/2009 pentru aprobarea derogărilor în cazul speciilor urs, lup, râs și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111452",
+   "versions": [
+    {
+     "from": "2009-09-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111452",
+     "sha256": "9b91d0eec063a82fc69cbb2413276d69cae4a70fe3b209db0ebbeb5b18143fda"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-133-2009",
    "path": "ordin/mediu/2009/133",
    "short": "Ordin mediu nr. 133/2009",
@@ -5909,6 +6014,111 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103014",
      "sha256": "6af12024e72b2f139b5eb9b80fa0b8038b3b60ccf0e3b73eb51bf76692995b06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1342-2009",
+   "path": "ordin/mediu/2009/1342",
+   "short": "Ordin mediu nr. 1342/2009",
+   "title": "Ordinul nr. 1.342/2009 pentru aprobarea Ghidului de finanțare a Programului privind producerea energiei din surse regenerabile: eoliană, geotermală, solară, biomasă și hidro",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112760",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112760",
+     "sha256": "982576b47c17148963201f77c7a6273365dbcae322916d10297ef09179a0cf90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-137-2009",
+   "path": "ordin/mediu/2009/137",
+   "short": "Ordin mediu nr. 137/2009",
+   "title": "Ordinul nr. 137/2009 privind aprobarea valorilor de prag pentru corpurile de ape subterane din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103545",
+   "versions": [
+    {
+     "from": "2009-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103545",
+     "sha256": "3aa65c2e85b88f661e5c00b1fc5134ac0eddd690158c69d042ad1653e3ce1ed7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1473-2009",
+   "path": "ordin/mediu/2009/1473",
+   "short": "Ordin mediu nr. 1473/2009",
+   "title": "Ordinul nr. 1.473/2009 pentru aprobarea derogărilor în cazul speciei de hârciog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113288",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113288",
+     "sha256": "f667035938b706cac78a05eb8ae5ea5a1768af0735ab54527c9cb170d7dc6e43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1683-2009",
+   "path": "ordin/mediu/2009/1683",
+   "short": "Ordin mediu nr. 1683/2009",
+   "title": "Ordinul nr. 1.683/2009 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114971",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114971",
+     "sha256": "75d8c09ab011d69605b677f38c157bc664143f98e7deab35dcf6842d27c2a924"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1718-2009",
+   "path": "ordin/mediu/2009/1718",
+   "short": "Ordin mediu nr. 1718/2009",
+   "title": "Ordinul nr. 1.718/2009 pentru aprobarea formatului autorizației și al acordului de import privind introducerea deliberată în mediu a organismelor modificate genetic, în alte scopuri decât introducerea pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114770",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114770",
+     "sha256": "0299911489fa2a5974f4d7d181ed6c4b8dc9890f3434d427e2d110c712885546"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-203-2009",
+   "path": "ordin/mediu/2009/203",
+   "short": "Ordin mediu nr. 203/2009",
+   "title": "Ordinul nr. 203/2009 privind Procedura de stabilire a derogărilor de la măsurile de protecție a speciilor de floră și de faună sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103486",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103486",
+     "sha256": "5f5aae25125d36728c136a005d9b5f7d4810934391f3c3f47281d802701853b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-254-2009",
+   "path": "ordin/mediu/2009/254",
+   "short": "Ordin mediu nr. 254/2009",
+   "title": "Ordinul nr. 254/2009 pentru aprobarea Metodologiei privind alocarea certificatelor de emisii de gaze cu efect de seră din Rezerva pentru instalațiile nou-intrate pentru perioada 2008-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103792",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103792",
+     "sha256": "2be951edf930db480b52fa2c2e770dd82c882f82c0d5ad0f9e6f0daad96227a4"
     }
    ]
   },
@@ -5943,6 +6153,81 @@
    ]
   },
   {
+   "slug": "ordin-mediu-439-2009",
+   "path": "ordin/mediu/2009/439",
+   "short": "Ordin mediu nr. 439/2009",
+   "title": "Ordinul nr. 439/2009 privind aprobarea modelelor de formulare necesare procedurii de notificare pentru utilizarea în condiții de izolare a microorganismelor modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105564",
+   "versions": [
+    {
+     "from": "2009-05-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105564",
+     "sha256": "b9f4cb73455018ebf609ec7d369febcd3b028c99440a0a1c29b85a81c196514c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-464-2009",
+   "path": "ordin/mediu/2009/464",
+   "short": "Ordin mediu nr. 464/2009",
+   "title": "Ordinul nr. 464/2009 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea activităților de control și inspecție în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105644",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105644",
+     "sha256": "b36f441ee79af64394236172d1a8c46ee5192b16be36fcfa8e07d95ed8fa04a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-565-2009",
+   "path": "ordin/mediu/2009/565",
+   "short": "Ordin mediu nr. 565/2009",
+   "title": "Ordinul nr. 565/2009 pentru aprobarea Ghidului de finanțare a Programului de înlocuire sau de completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106573",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106573",
+     "sha256": "b26960d074b7e92ad8597704ef8efd9a8a1c080b6278ea30bfc7600e0c8e37a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-610-2009",
+   "path": "ordin/mediu/2009/610",
+   "short": "Ordin mediu nr. 610/2009",
+   "title": "Ordinul nr. 610/2009 privind aprobarea tarifelor pentru lucrările și serviciile prestate de către Administrația Rezervației Biosferei \"Delta Dunării\" la solicitarea persoanelor fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106379",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106379",
+     "sha256": "13c4802b9928bd6b02239f894ec1a8648e0d0aea9eb3137d9f0db6f05856d160"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-89-2009",
+   "path": "ordin/mediu/2009/89",
+   "short": "Ordin mediu nr. 89/2009",
+   "title": "Ordinul nr. 89/2009 pentru aprobarea Instrucțiunilor privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 217/2008 privind reluarea pentru anul 2009 a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102387",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102387",
+     "sha256": "ee96aadded14a56b54f7bf145908507424a6903b81839911bb93c15508d0230b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-891-2009",
    "path": "ordin/mediu/2009/891",
    "short": "Ordin mediu nr. 891/2009",
@@ -5954,6 +6239,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109466",
      "sha256": "4fac2162e49650bc49d4cf2330d9b598f6158f2e446ac8e9e5ee40ded58fe9ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-91-2009",
+   "path": "ordin/mediu/2009/91",
+   "short": "Ordin mediu nr. 91/2009",
+   "title": "Ordinul nr. 91/2009 privind stabilirea perioadei de organizare a primei sesiuni de depunere a cererilor de finanțare pentru anul 2009 în cadrul Programului național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități, instituit prin Ordonanța de urgență a Guvernului nr. 59/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102358",
+   "versions": [
+    {
+     "from": "2009-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102358",
+     "sha256": "f047655fee7edac49d6f7ac6a7f3cb97b433bcf2e085a5ab63e38347c03e9ec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-979-2009",
+   "path": "ordin/mediu/2009/979",
+   "short": "Ordin mediu nr. 979/2009",
+   "title": "Ordinul nr. 979/2009 privind introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene prevăzute în anexele nr. 4A și 4B la Ordonanța de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice, pe teritoriul național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109709",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109709",
+     "sha256": "79604715fa6d5fd42ce829836055075bb17c1b7a343621a45f79b840a6add592"
     }
    ]
   },
@@ -6400,7 +6715,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/111503",
    "versions": [
     {
-     "from": "2009-09-29",
+     "from": "2009-10-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111503",
      "sha256": "250e012782b91d85f379ae5ba6c8f01b52dbabbfecf02fb7b3ff3acee2245998"
@@ -6565,7 +6880,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/113079",
    "versions": [
     {
-     "from": "2009-11-04",
+     "from": "2010-05-15",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113079",
      "sha256": "f0f445a34cbe9ffa6a0fb4b2cbbfe856d3ec6414116cbee094d2ab10325fabbb"
@@ -6685,7 +7000,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/114607",
    "versions": [
     {
-     "from": "2009-12-17",
+     "from": "2010-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114607",
      "sha256": "1d5d10f392417ae982b1459a835ba2b75a6e050d589ba79b38771fa4193a4fff"
@@ -7435,7 +7750,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/109034",
    "versions": [
     {
-     "from": "2009-06-30",
+     "from": "2009-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109034",
      "sha256": "142f5b9a6a192849289d4fae2c2cd829d7407e0444d2fd72de557c1530057969"
@@ -7608,6 +7923,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1056-2009",
+   "path": "ordin/transporturi/2009/1056",
+   "short": "Ordin transporturi nr. 1056/2009",
+   "title": "Ordinul nr. 1.056/2009 pentru înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.070/2006 privind aprobarea Normelor metodologice de aplicare a prevederilor anexei IV revizuite la MARPOL 73/78",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112637",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112637",
+     "sha256": "6fd58e6a7aec4b01efe29f92cb8f672ddb792b70c84909748588c61bc68415eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1096-2009",
+   "path": "ordin/transporturi/2009/1096",
+   "short": "Ordin transporturi nr. 1096/2009",
+   "title": "Ordinul nr. 1.096/2009 privind modificarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113048",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113048",
+     "sha256": "cb2d911441e9966fb1dd6d7b82effa1c7c289bfac96bbddb7d8bab62f3c1a204"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1102-2009",
    "path": "ordin/transporturi/2009/1102",
    "short": "Ordin transporturi nr. 1102/2009",
@@ -7638,6 +7983,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1104-2009",
+   "path": "ordin/transporturi/2009/1104",
+   "short": "Ordin transporturi nr. 1104/2009",
+   "title": "Ordinul nr. 1.104/2009 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.156/2005 privind tarifele pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113050",
+   "versions": [
+    {
+     "from": "2009-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113050",
+     "sha256": "ee8984608490f4a97a0d88b08cfb4f832bf0381ef0f73a960f62b227b2615b07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1114-2009",
    "path": "ordin/transporturi/2009/1114",
    "short": "Ordin transporturi nr. 1114/2009",
@@ -7649,6 +8009,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114511",
      "sha256": "1417f4b4ff35b6e00b4869ace5b4f8265b0be252421d71693edcd87a519e9bc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1123-2009",
+   "path": "ordin/transporturi/2009/1123",
+   "short": "Ordin transporturi nr. 1123/2009",
+   "title": "Ordinul nr. 1.123/2009 privind modificarea și completarea art. 9 din anexa nr. 1 la Ordinul ministrului transporturilor nr. 655/2007 pentru aprobarea Normelor uniforme privind transporturile pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113186",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113186",
+     "sha256": "70fccd395e4379fdb4e39114a79ea947295df163e94b0bec0c484d43ac2276a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1172-2009",
+   "path": "ordin/transporturi/2009/1172",
+   "short": "Ordin transporturi nr. 1172/2009",
+   "title": "Ordinul nr. 1.172/2009 pentru modificarea și completarea Normelor privind organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.892/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113627",
+   "versions": [
+    {
+     "from": "2009-11-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113627",
+     "sha256": "f5354e3c236e03077e754ffccb7fa3712120722ecfb2cb3e2a1c4ada71ab5a8a"
     }
    ]
   },
@@ -7698,6 +8088,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1268-2009",
+   "path": "ordin/transporturi/2009/1268",
+   "short": "Ordin transporturi nr. 1268/2009",
+   "title": "Ordinul nr. 1.268/2009 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 806/2007 pentru aprobarea Reglementării aeronautice civile române RACR-AZAC \"Admisibilitatea la zbor a unor categorii de aeronave civile\", ediția 01/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115138",
+   "versions": [
+    {
+     "from": "2010-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115138",
+     "sha256": "2160eac58c45726deb0cf1c8d08e15c558ec1fba782b99401d8f95d771dcc8c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1273-2009",
+   "path": "ordin/transporturi/2009/1273",
+   "short": "Ordin transporturi nr. 1273/2009",
+   "title": "Ordinul nr. 1.273/2009 pentru modificarea pct. 1 și 7 din anexa nr. 1 la Ordonanța Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române și a pct. 1 și 7 din anexa nr. 1.2 la Metodologia privind încadrarea în categoria de tren, clasă, condițiile de emitere, gestionare și folosire a legitimațiilor de călătorie pe căile ferate române, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.065/2004 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115203",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115203",
+     "sha256": "96aadc2d80611ca4722312dac0f9f6bd2f36c436a15283b9cbefcf7cb424c086"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1275-2009",
+   "path": "ordin/transporturi/2009/1275",
+   "short": "Ordin transporturi nr. 1275/2009",
+   "title": "Ordinul nr. 1.275/2009 pentru modificarea și completarea Reglementărilor privind omologarea individuală, eliberarea cărții de identitate și certificarea autenticității vehiculelor rutiere - RNTR 7, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115388",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115388",
+     "sha256": "a38b7da34a68838eb4d79df4e36486444d3c49f18febc65168db0c8e510fc306"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1279-2009",
    "path": "ordin/transporturi/2009/1279",
    "short": "Ordin transporturi nr. 1279/2009",
@@ -7709,6 +8144,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115104",
      "sha256": "4492fc8ea87100d970d71028648782c18c3513722c074ea0649ee46b7e8291da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-250-2009",
+   "path": "ordin/transporturi/2009/250",
+   "short": "Ordin transporturi nr. 250/2009",
+   "title": "Ordinul nr. 250/2009 privind înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.681/2005 pentru aprobarea Listei standardelor românești care adoptă standardele europene armonizate, ale căror prevederi se referă la ambarcațiunile de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103789",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103789",
+     "sha256": "988c4775fbe8734c1359161d4dfcb7325498e3a53a2eab36d586cee218f1bf74"
     }
    ]
   },
@@ -7773,6 +8223,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-333-2009",
+   "path": "ordin/transporturi/2009/333",
+   "short": "Ordin transporturi nr. 333/2009",
+   "title": "Ordinul nr. 333/2009 pentru completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.119/2005 privind interzicerea desfășurării unor activități de către angajații Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104152",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104152",
+     "sha256": "58b7166855eecceaa5b1cd497df1bcae3b2498b9f8e631404a0bb597b3fcc088"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-394-2009",
+   "path": "ordin/transporturi/2009/394",
+   "short": "Ordin transporturi nr. 394/2009",
+   "title": "Ordinul nr. 394/2009 privind modificarea lit. b) a art. 1 din Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.055/2006 pentru aprobarea parcului auto normat al Autorității Rutiere Române - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104534",
+   "versions": [
+    {
+     "from": "2009-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104534",
+     "sha256": "38ba78e4f6eb5d23fa4190105c42aeb6e7a019212bd9ccc7077abec0848582e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-396-2009",
+   "path": "ordin/transporturi/2009/396",
+   "short": "Ordin transporturi nr. 396/2009",
+   "title": "Ordinul nr. 396/2009 privind înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.134/2005 pentru aprobarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104836",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104836",
+     "sha256": "f5c7856ffea8e2ddbe679665d9c82a43c3f68c220d478e7842e400f88b22de98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-434-2009",
    "path": "ordin/transporturi/2009/434",
    "short": "Ordin transporturi nr. 434/2009",
@@ -7784,6 +8279,51 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105256",
      "sha256": "e757bbf529a5f0d5a7af348078a9aaa5fb62f3dc7d0e28aca0c21d97f9d065c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-438-2009",
+   "path": "ordin/transporturi/2009/438",
+   "short": "Ordin transporturi nr. 438/2009",
+   "title": "Ordinul nr. 438/2009 privind modificarea pct. 9 și 16 din anexa nr. 1 la Ordonanța Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române și a pct. 9 și 16 din anexa nr. 1.2 la Metodologia privind încadrarea în categoria de tren, clasă, condițiile de emitere, gestionare și folosire a legitimațiilor de călătorie pe căile ferate române, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.065/2004 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105073",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105073",
+     "sha256": "008a05de05e8ab28c3432d71e1b0f489a7e65b376b8e86ce189459b58d5d0b2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-544-2009",
+   "path": "ordin/transporturi/2009/544",
+   "short": "Ordin transporturi nr. 544/2009",
+   "title": "Ordinul nr. 544/2009 pentru modificarea Ordinului ministrului transporturilor nr. 1.447/2008 privind aprobarea cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105840",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105840",
+     "sha256": "f1cd106f37851356ec26f35123da1d87dcc9e78772257355f633e1315c8a8b8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-559-2009",
+   "path": "ordin/transporturi/2009/559",
+   "short": "Ordin transporturi nr. 559/2009",
+   "title": "Ordinul nr. 559/2009 pentru completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105334",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105334",
+     "sha256": "8cccf4dc1226989ad95aa318acb850a38509e284d1146a20f544e00fac0ad447"
     }
    ]
   },
@@ -7818,6 +8358,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-666-2009",
+   "path": "ordin/transporturi/2009/666",
+   "short": "Ordin transporturi nr. 666/2009",
+   "title": "Ordinul nr. 666/2009 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106651",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106651",
+     "sha256": "8aeb872cfc3c6bb3f94129e7fac63a5aacbf1fb54e652e41063c1edb8a40ed8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-681-2009",
+   "path": "ordin/transporturi/2009/681",
+   "short": "Ordin transporturi nr. 681/2009",
+   "title": "Ordinul nr. 681/2009 privind modificarea și completarea Ordinului ministrului transporturilor nr. 605/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR-ATS \"Serviciile de trafic aerian\", ediția a 2-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108142",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108142",
+     "sha256": "125953a305a90cf48f6c35a85b0459148520c7494ee51211ebaf7d72fd392432"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-706-2009",
    "path": "ordin/transporturi/2009/706",
    "short": "Ordin transporturi nr. 706/2009",
@@ -7829,6 +8399,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107176",
      "sha256": "ac71b8f2dcc99d437158a419b9ac611ba31c46948ff939c45767f69bb98c4c80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-707-2009",
+   "path": "ordin/transporturi/2009/707",
+   "short": "Ordin transporturi nr. 707/2009",
+   "title": "Ordinul nr. 707/2009 pentru modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107201",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107201",
+     "sha256": "70422a0d57df55ecab049626d4123c1e6b8dcb44e03aaae3b4e0087a7d156b45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-742-2009",
+   "path": "ordin/transporturi/2009/742",
+   "short": "Ordin transporturi nr. 742/2009",
+   "title": "Ordinul nr. 742/2009 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 1.447/2008 privind aprobarea cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109409",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109409",
+     "sha256": "c759873eaf7a9793390bf1d62cd31e99c1d02ec418529914169491601fbc7e12"
     }
    ]
   },
@@ -7878,6 +8478,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-866-2009",
+   "path": "ordin/transporturi/2009/866",
+   "short": "Ordin transporturi nr. 866/2009",
+   "title": "Ordinul nr. 866/2009 pentru modificarea anexelor la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 287/2003 privind autorizarea agenților economici care desfășoară activități de transport naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111851",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111851",
+     "sha256": "ac3500292435a5f37079f1f2ec4376026ffd44950fb22fc9cd89e63a05b2c60f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-872-2009",
    "path": "ordin/transporturi/2009/872",
    "short": "Ordin transporturi nr. 872/2009",
@@ -7889,6 +8504,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111159",
      "sha256": "cb00429ae90f6d250c25f1e143e0ebf737a5cdbef85a500c7dd4ebff8fe53f1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-874-2009",
+   "path": "ordin/transporturi/2009/874",
+   "short": "Ordin transporturi nr. 874/2009",
+   "title": "Ordinul nr. 874/2009 pentru completarea Ordinul ministrului transporturilor nr. 1.250/2008 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110846",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110846",
+     "sha256": "9231a13e55db500dbf72d3450c198465cf1ead46f8ce70101b573edcaa9e95dc"
     }
    ]
   },
@@ -7908,6 +8538,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-912-2009",
+   "path": "ordin/transporturi/2009/912",
+   "short": "Ordin transporturi nr. 912/2009",
+   "title": "Ordinul nr. 912/2009 privind modificarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.065/2004 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111268",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111268",
+     "sha256": "0c5ecdf230fbcdf449eb46e98523abf09928817856849aac18ec7b6593ad0a9e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-914-2009",
    "path": "ordin/transporturi/2009/914",
    "short": "Ordin transporturi nr. 914/2009",
@@ -7919,6 +8564,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111112",
      "sha256": "8902dd2cc9fc0efa45f39420a4aa5d4b14d6a3a99571af8b882c5a999ce51202"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-92-2009",
+   "path": "ordin/transporturi/2009/92",
+   "short": "Ordin transporturi nr. 92/2009",
+   "title": "Ordinul nr. 92/2009 pentru modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 954/2005 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Agenția Română de Salvare a Vieții Omenești pe Mare - ARSVOM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102159",
+   "versions": [
+    {
+     "from": "2009-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102159",
+     "sha256": "749f8ad7e4a680542a2f991499a1542a89b8abd2ac6a2a5c247efed8d4278f00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-511-2009",
+   "path": "ordin/turism/2009/511",
+   "short": "Ordin turism nr. 511/2009",
+   "title": "Ordinul nr. 511/2009 pentru aprobarea modelului-cadru al contractului de închiriere, a listei sectoarelor de plajă propuse spre închiriere, precum și a tarifului de referință pentru închirierea plajei, pentru sezonul estival 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106714",
+   "versions": [
+    {
+     "from": "2009-06-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106714",
+     "sha256": "3877838f261c89cc026f60ac29f93d42fca8ffda4a84dc76c369633f79b75db3"
     }
    ]
   }

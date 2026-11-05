@@ -1,8 +1,8 @@
 # Ordinul nr. 19/2023 pentru aprobarea reglementării tehnice "Normativ privind proiectarea, execuția și exploatarea sistemelor de alimentare cu apă și canalizare ale localităților, indicativ NP 133-2022, volumul III - Structuri hidroedilitare din beton armat și beton precomprimat"
 
-Ordin dezvoltare nr. 19/2023 · 1 versions, from 2023-01-16 (latest in force: 2023-01-16) · <https://legislatie.just.ro/Public/DetaliiDocument/263962>
+Ordin dezvoltare nr. 19/2023 · 1 versions, from 2023-02-15 (latest in force: 2023-02-15) · <https://legislatie.just.ro/Public/DetaliiDocument/263962>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 15 February 2023; this record still dates it from 16 January 2023, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,4 @@ Act id: `ordin-dezvoltare-19-2023` (tags `ordin-dezvoltare-19-2023/<day>`; `pyth
 - Ordin dezvoltare nr. 19/2023: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 19/2023: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 5 ianuarie 2023 Normativ privind proiectarea, execuția și exploatarea sistemelor de alimentare cu apă și canalizare ale localităților, indicativ NP 133-2022, volumul III - ...) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 264361 of the official web service.
 - Ordin dezvoltare nr. 19/2023: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 44 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, Buc" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
-- Ordin dezvoltare nr. 19/2023: first published here dated 16 January 2023; its in-force clause states 15 February 2023. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 19/2023: re-dated by a correction: in force from 15 February 2023 (first published dated 16 January 2023).

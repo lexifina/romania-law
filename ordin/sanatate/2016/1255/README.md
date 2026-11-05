@@ -1,8 +1,8 @@
 # Ordinul nr. 1.255/2016 pentru aprobarea Normelor privind înregistrarea, centralizarea și raportarea informațiilor privind expunerea medicală a populației la radiații ionizante
 
-Ordin sanatate nr. 1255/2016 · 1 versions, from 2016-11-15 (latest in force: 2016-11-15) · <https://legislatie.just.ro/Public/DetaliiDocument/183626>
+Ordin sanatate nr. 1255/2016 · 1 versions, from 2017-01-01 (latest in force: 2017-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/183626>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 07/11/2016): it is a table that the official text holds only flattened. Its in-force clause states 1 January 2017; this record still dates it from 15 November 2016, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 07/11/2016): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-sanatate-1255-2016` (tags `ordin-sanatate-1255-2016/<day>`; `pyth
 - Ordin sanatate nr. 1255/2016: the first version is the order as published in Monitorul Oficial nr. 916 of 15 November 2016 (document 183626 of the official web service), in force on 1 January 2017, the day it states for itself.
 - Ordin sanatate nr. 1255/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1255/2016: Anexa nr. 1 (NORMA 07/11/2016) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 1255/2016: first published here dated 15 November 2016; its in-force clause states 1 January 2017. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1255/2016: re-dated by a correction: in force from 1 January 2017 (first published dated 15 November 2016).

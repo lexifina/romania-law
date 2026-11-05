@@ -1,8 +1,8 @@
 # Ordinul nr. 29/2011 privind modificarea și completarea Ordinului Băncii Naționale a României nr. 27/2010 pentru aprobarea Reglementărilor contabile conforme cu Standardele Internaționale de Raportare Financiară, aplicabile instituțiilor de credit
 
-Ordin bnr nr. 29/2011 · 1 versions, from 2011-12-29 (latest in force: 2011-12-29) · <https://legislatie.just.ro/Public/DetaliiDocument/134163>
+Ordin bnr nr. 29/2011 · 1 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/134163>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2012; this record still dates it from 29 December 2011, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-bnr-29-2011` (tags `ordin-bnr-29-2011/<day>`; `python tools/on.py
 - Ordin bnr nr. 29/2011: the first version is the order as published in Monitorul Oficial nr. 933 of 29 December 2011 (document 134163 of the official web service), in force on 1 January 2012, the day it states for itself.
 - Ordin bnr nr. 29/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 29/2011: Anexa nr. 1 (MODIFICĂRI ȘI COMPLETĂRI ale Reglementărilor contabile conforme cu Standardele Internaționale de Raportare Financiară, aplicabile instituțiilor de credit, aprobate prin Ordinul Băncii Naționale a Româ) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 134163 of the official web service.
-- Ordin bnr nr. 29/2011: first published here dated 29 December 2011; its in-force clause states 1 January 2012. The record keeps the first date until it is corrected by hand.
+- Ordin bnr nr. 29/2011: re-dated by a correction: in force from 1 January 2012 (first published dated 29 December 2011).

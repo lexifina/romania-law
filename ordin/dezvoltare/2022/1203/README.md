@@ -1,8 +1,8 @@
 # Ordinul nr. 1.203/2022 pentru aprobarea reglementării tehnice "Normativ privind proiectarea, realizarea și exploatarea construcțiilor pentru școli și licee, indicativ NP 010-2022"
 
-Ordin dezvoltare nr. 1203/2022 · 1 versions, from 2022-06-21 (latest in force: 2022-06-21) · <https://legislatie.just.ro/Public/DetaliiDocument/256575>
+Ordin dezvoltare nr. 1203/2022 · 1 versions, from 2022-07-21 (latest in force: 2022-07-21) · <https://legislatie.just.ro/Public/DetaliiDocument/256575>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 21 July 2022; this record still dates it from 21 June 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-dezvoltare-1203-2022` (tags `ordin-dezvoltare-1203-2022/<day>`; `
 - Ordin dezvoltare nr. 1203/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 1203/2022: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 16 iunie 2022 "Normativ privind proiectarea, realizarea și exploatarea construcțiilor pentru școli și licee, indicativ NP 010-2022") is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 256668 of the official web service.
 - Ordin dezvoltare nr. 1203/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 604 bis, care se poate achiziționa de la Biroul pentru relații cu publicul din Str. Parcului nr. 65, intrarea A, sectorul 1, Bucureș" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
-- Ordin dezvoltare nr. 1203/2022: first published here dated 21 June 2022; its in-force clause states 21 July 2022. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 1203/2022: re-dated by a correction: in force from 21 July 2022 (first published dated 21 June 2022).

@@ -1,8 +1,8 @@
 # Norma nr. 15/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii administrat privat
 
-Norma csspp nr. 15/2009 · 1 versions, from 2009-10-03 (latest in force: 2009-10-03) · <https://legislatie.just.ro/Public/DetaliiDocument/111790>
+Norma csspp nr. 15/2009 · 1 versions, from 2009-11-02 (latest in force: 2009-11-02) · <https://legislatie.just.ro/Public/DetaliiDocument/111790>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 2 November 2009; this record still dates it from 3 October 2009, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -36,4 +36,4 @@ Act id: `norma-csspp-15-2009` (tags `norma-csspp-15-2009/<day>`; `python tools/o
 - Norma csspp nr. 15/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma csspp nr. 15/2009: the first version is the norm as published in Monitorul Oficial nr. 659 of 3 October 2009 (document 111790 of the official web service), in force on 2 November 2009, the day it states for itself.
 - Norma csspp nr. 15/2009: the signatures and the place and date line after its last article are not article text.
-- Norma csspp nr. 15/2009: first published here dated 3 October 2009; its in-force clause states 2 November 2009. The record keeps the first date until it is corrected by hand.
+- Norma csspp nr. 15/2009: re-dated by a correction: in force from 2 November 2009 (first published dated 3 October 2009).

@@ -1,8 +1,8 @@
 # Ordinul nr. 1.403/2011 pentru abrogarea Ordinului ministrului sănătății nr. 520/2011 privind aprobarea Procedurii de reglementare sanitară pentru punerea pe piață a produselor, materialelor, substanțelor chimice/amestecurilor și echipamentelor utilizate în contact cu apa potabilă
 
-Ordin sanatate nr. 1403/2011 · 1 versions, from 2011-10-12 (latest in force: 2011-10-12) · <https://legislatie.just.ro/Public/DetaliiDocument/132091>
+Ordin sanatate nr. 1403/2011 · 1 versions, from 2011-11-01 (latest in force: 2011-11-01) · <https://legislatie.just.ro/Public/DetaliiDocument/132091>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 November 2011; this record still dates it from 12 October 2011, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-sanatate-1403-2011` (tags `ordin-sanatate-1403-2011/<day>`; `pyth
 - Ordin sanatate nr. 1403/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1403/2011: the first version is the order as published in Monitorul Oficial nr. 719 of 12 October 2011 (document 132091 of the official web service), in force on 1 November 2011, the day it states for itself.
 - Ordin sanatate nr. 1403/2011: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1403/2011: first published here dated 12 October 2011; its in-force clause states 1 November 2011. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1403/2011: re-dated by a correction: in force from 1 November 2011 (first published dated 12 October 2011).

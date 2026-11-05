@@ -1,8 +1,8 @@
 # Regulamentul nr. 1/2004 privind efectuarea operațiunilor valutare
 
-Regulament bnr nr. 1/2004 · 1 versions, from 2004-02-10 (latest in force: 2004-02-10) · <https://legislatie.just.ro/Public/DetaliiDocument/49664>
+Regulament bnr nr. 1/2004 · 1 versions, from 2004-04-10 (latest in force: 2004-04-10) · <https://legislatie.just.ro/Public/DetaliiDocument/49664>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 10 April 2004; this record still dates it from 10 February 2004, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -65,4 +65,4 @@ Act id: `regulament-bnr-1-2004` (tags `regulament-bnr-1-2004/<day>`; `python too
 - Regulament bnr nr. 1/2004: Anexa nr. 5 (5 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-5/ (paragraphs), from document 49664 of the official web service.
 - Regulament bnr nr. 1/2004: Anexa nr. 6 (6 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-6/ (paragraphs), from document 49664 of the official web service.
 - Regulament bnr nr. 1/2004: the publisher's notes run into its text (*) Achiziţionarea de către rezidenţi de instrumente financiare sau unităţi ale organismelor de plasament colectiv române; *) Prin zone asimilate zonelor libere se înţelege zonele din aeroporturi şi punctele de trecere a frontierei de stat, pe) are not text.
-- Regulament bnr nr. 1/2004: first published here dated 10 February 2004; its in-force clause states 10 April 2004. The record keeps the first date until it is corrected by hand.
+- Regulament bnr nr. 1/2004: re-dated by a correction: in force from 10 April 2004 (first published dated 10 February 2004).

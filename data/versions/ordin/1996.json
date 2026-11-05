@@ -1083,6 +1083,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-125-1996",
+   "path": "ordin/mediu/1996/125",
+   "short": "Ordin mediu nr. 125/1996",
+   "title": "Ordinul nr. 125/1996 pentru aprobarea Procedurii de reglementare a activităților economice și sociale cu impact asupra mediului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8651",
+   "versions": [
+    {
+     "from": "1996-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8651",
+     "sha256": "e7ab48e404ede6ed93b98a4bee564db24a04142b546fe9185796a5775e67ab82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-397-1996",
+   "path": "ordin/mediu/1996/397",
+   "short": "Ordin mediu nr. 397/1996",
+   "title": "Ordinul nr. 397/1996 cu privire la asigurarea pazei pădurilor proprietate privată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9246",
+   "versions": [
+    {
+     "from": "1996-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9246",
+     "sha256": "cbe8987a98beb06066f22bcd89daa4b4aebe4e37531c57de804ee8698a2447a7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-115-1996",
    "path": "ordin/munca/1996/115",
    "short": "Ordin munca nr. 115/1996",
@@ -1443,6 +1473,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-15-1996",
+   "path": "ordin/transporturi/1996/15",
+   "short": "Ordin transporturi nr. 15/1996",
+   "title": "Ordinul nr. 15/1996 privind modificarea Instrucțiunilor de aplicare a Hotărârii Guvernului nr. 152/1995 pentru modificarea și completarea unor dispoziții din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulația pe drumurile publice și pentru stabilirea și sancționarea contravențiilor în acest sector, aprobat prin H.C.M. nr. 772/1966",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7932",
+   "versions": [
+    {
+     "from": "1996-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7932",
+     "sha256": "7a1974d8e4f0beb18d1c68fe3ebe3a668e009ed43b334d13e410e4ae2203903e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-173-1996",
    "path": "ordin/transporturi/1996/173",
    "short": "Ordin transporturi nr. 173/1996",
@@ -1469,6 +1514,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8872",
      "sha256": "63084ec67b49ae4e231c2eaf05c825d6bfefce0bb78da4f62fc7c85f613d60bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-215-1996",
+   "path": "ordin/transporturi/1996/215",
+   "short": "Ordin transporturi nr. 215/1996",
+   "title": "Ordinul nr. 215/1996 privind aprobarea Instrucțiunilor de aplicare a Hotărârii Guvernului nr. 152/1995 pentru modificarea și completarea unor dispoziții din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulația pe drumurile publice și pentru stabilirea și sancționarea contravențiilor în acest sector, aprobat prin H.C.M. nr. 772/1966",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8874",
+   "versions": [
+    {
+     "from": "1996-08-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8874",
+     "sha256": "fcac903df428ca8eb5177c7cba88a062af4e1dcea7b66504e77c8842cfbc3dc4"
     }
    ]
   },

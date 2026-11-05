@@ -1,8 +1,8 @@
 # Ordinul nr. 1.078/2003 pentru aprobarea Normelor metodologice privind fuziunea, divizarea, dizolvarea și lichidarea societăților comerciale, precum și retragerea sau excluderea unor asociați din cadrul societăților comerciale
 
-Ordin finante nr. 1078/2003 · 1 versions, from 2003-08-18 (latest in force: 2003-08-18) · <https://legislatie.just.ro/Public/DetaliiDocument/45662>
+Ordin finante nr. 1078/2003 · 1 versions, from 2003-09-17 (latest in force: 2003-09-17) · <https://legislatie.just.ro/Public/DetaliiDocument/45662>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 17 September 2003; this record still dates it from 18 August 2003, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,4 @@ Act id: `ordin-finante-1078-2003` (tags `ordin-finante-1078-2003/<day>`; `python
 - Ordin finante nr. 1078/2003: the first version is the order as published in Monitorul Oficial nr. 586 of 18 August 2003 (document 45662 of the official web service), in force on 17 September 2003, the day it states for itself.
 - Ordin finante nr. 1078/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1078/2003: Anexa nr. 1 (NORME METODOLOGICE privind fuziunea, divizarea, dizolvarea și lichidarea societăților comerciale, precum și retragerea sau excluderea unor asociați din cadrul societăților comerciale) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 45662 of the official web service; the service's copy of it as a document of its own (45663) reads the same words.
-- Ordin finante nr. 1078/2003: first published here dated 18 August 2003; its in-force clause states 17 September 2003. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 1078/2003: re-dated by a correction: in force from 17 September 2003 (first published dated 18 August 2003).

@@ -1,8 +1,8 @@
 # Ordinul nr. 46/2007 privind aprobarea Regulamentului pentru atestarea operatorilor de măsurare a energiei electrice în Sistemul energetic național
 
-Ordin anre nr. 46/2007 · 1 versions, from 2007-12-27 (latest in force: 2007-12-27) · <https://legislatie.just.ro/Public/DetaliiDocument/88203>
+Ordin anre nr. 46/2007 · 1 versions, from 2008-07-01 (latest in force: 2008-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/88203>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 08/11/2007): it is a table that the official text holds only flattened. Its in-force clause states 1 July 2008; this record still dates it from 27 December 2007, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 08/11/2007): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-anre-46-2007` (tags `ordin-anre-46-2007/<day>`; `python tools/on.
 - Ordin anre nr. 46/2007: the first version is the order as published in Monitorul Oficial nr. 886 of 27 December 2007 (document 88203 of the official web service), in force on 1 July 2008, the day it states for itself.
 - Ordin anre nr. 46/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 46/2007: Anexa nr. 1 (REGULAMENT 08/11/2007) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 46/2007: first published here dated 27 December 2007; its in-force clause states 1 July 2008. The record keeps the first date until it is corrected by hand.
+- Ordin anre nr. 46/2007: re-dated by a correction: in force from 1 July 2008 (first published dated 27 December 2007).

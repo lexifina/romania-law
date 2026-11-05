@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-15-2008",
+   "path": "ordin/agricultura/2008/15",
+   "short": "Ordin agricultura nr. 15/2008",
+   "title": "Ordinul nr. 15/2008 pentru adoptarea măsurilor privind bunele condiții agricole și de mediu în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89223",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89223",
+     "sha256": "a762c5cf0301c8bc3e47a5ef99f345744b07a3598428514b112408fd0a426372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-226-2008",
+   "path": "ordin/agricultura/2008/226",
+   "short": "Ordin agricultura nr. 226/2008",
+   "title": "Ordinul nr. 226/2008 privind prohibiția pescuitului în anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91380",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91380",
+     "sha256": "c100e574dffa81d145b13b8478e37f02d5887c70c7de50d92d6e197c850dccfd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-344-2008",
    "path": "ordin/agricultura/2008/344",
    "short": "Ordin agricultura nr. 344/2008",
@@ -160,7 +190,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/95669",
    "versions": [
     {
-     "from": "2008-07-16",
+     "from": "2008-08-15",
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95669",
      "sha256": "144131218a3293dd13d34b24ac2ba7d508f573f842c888c08a1f412bb5cdbded"
@@ -6708,6 +6738,186 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1092-2008",
+   "path": "ordin/mediu/2008/1092",
+   "short": "Ordin mediu nr. 1092/2008",
+   "title": "Ordinul nr. 1.092/2008 pentru aprobarea derogărilor în cazul speciilor de urs, lup, râs și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97408",
+   "versions": [
+    {
+     "from": "2008-09-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97408",
+     "sha256": "3a694a6e17efe138a2972ec55ee687c9dda761185231abb25f76d10b879a0f20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1170-2008",
+   "path": "ordin/mediu/2008/1170",
+   "short": "Ordin mediu nr. 1170/2008",
+   "title": "Ordinul nr. 1.170/2008 pentru aprobarea Ghidului privind adaptarea la efectele schimbărilor climatice - GASC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98248",
+   "versions": [
+    {
+     "from": "2008-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98248",
+     "sha256": "4f68a8d47d97b0d03b5d47afe32aab1592fbd01f7ee8c031f40b346f9f051375"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1215-2008",
+   "path": "ordin/mediu/2008/1215",
+   "short": "Ordin mediu nr. 1215/2008",
+   "title": "Ordinul nr. 1.215/2008 privind aprobarea Normativului tehnic pentru lucrări hidrotehnice NTLH-001 \"Criterii și principii pentru evaluarea și selectarea soluțiilor tehnice de proiectare și realizare a lucrărilor hidrotehnice de amenajare/reamenajare a cursurilor de apă, pentru atingerea obiectivelor de mediu din domeniul apelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98883",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98883",
+     "sha256": "c139b285f7a52306835b97c14811d7b8d19f0e16d53ba6270b2c967a1ed6dffd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1216-2008",
+   "path": "ordin/mediu/2008/1216",
+   "short": "Ordin mediu nr. 1216/2008",
+   "title": "Ordinul nr. 1.216/2008 privind aprobarea Normativului tehnic pentru evaluarea stării de siguranță în exploatare a echipamentelor hidroelectromecanice ale evacuatorilor de ape mari ai barajelor - NTLH-050",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98513",
+   "versions": [
+    {
+     "from": "2008-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98513",
+     "sha256": "ca96862ba190376dd26774ca4e2b854c036e41241e587dbdd32be24381031230"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1264-2008",
+   "path": "ordin/mediu/2008/1264",
+   "short": "Ordin mediu nr. 1264/2008",
+   "title": "Ordinul nr. 1.264/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 7 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98793",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98793",
+     "sha256": "1ac3e7bcca5609a8d8b25c9dec501e8f2e46997d0cff3fae811c2f73e9f83e3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1265-2008",
+   "path": "ordin/mediu/2008/1265",
+   "short": "Ordin mediu nr. 1265/2008",
+   "title": "Ordinul nr. 1.265/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 6 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98794",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98794",
+     "sha256": "e36dcb161a2a68901609c1db0ac5cef60f80eb2c02260d7cf49fe401ddf56962"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1266-2008",
+   "path": "ordin/mediu/2008/1266",
+   "short": "Ordin mediu nr. 1266/2008",
+   "title": "Ordinul nr. 1.266/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 5 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98795",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98795",
+     "sha256": "34fbdfd87f32f48aadc6026a14ce8b88bc58022025b355afea2c3782d646c05e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1267-2008",
+   "path": "ordin/mediu/2008/1267",
+   "short": "Ordin mediu nr. 1267/2008",
+   "title": "Ordinul nr. 1.267/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 4 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98797",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98797",
+     "sha256": "a3bef7bc67c99ba1f1753bbb509d4f3dc3d10986d221e93c3394f83b9f5a0b39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1271-2008",
+   "path": "ordin/mediu/2008/1271",
+   "short": "Ordin mediu nr. 1271/2008",
+   "title": "Ordinul nr. 1.271/2008 pentru aprobarea încadrării localităților din cadrul aglomerării București și din județele Cluj, Dolj și Iași în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98816",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98816",
+     "sha256": "412b468137471e4eac47727bd17f9f77e53992c4d50d32292e326c982187cdff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1338-2008",
+   "path": "ordin/mediu/2008/1338",
+   "short": "Ordin mediu nr. 1338/2008",
+   "title": "Ordinul nr. 1.338/2008 privind procedura de emitere a avizului Natura 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98693",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98693",
+     "sha256": "dee3203d0fa78477490fb98ac731fa27558ab7f3321d8e3da3b50dab20eac149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1339-2008",
+   "path": "ordin/mediu/2008/1339",
+   "short": "Ordin mediu nr. 1339/2008",
+   "title": "Ordinul nr. 1.339/2008 pentru aprobarea Ghidului de finanțare a Programului de înlocuire sau completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98756",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98756",
+     "sha256": "1510b78dc32c96861c705bc6f09185df0ec006b1e04fd8dfa5869cdb88012f50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1376-2008",
+   "path": "ordin/mediu/2008/1376",
+   "short": "Ordin mediu nr. 1376/2008",
+   "title": "Ordinul nr. 1.376/2008 privind aprobarea Procedurii de raportare a Inventarului național al emisiilor de gaze cu efect de seră (INEGES), precum și modalitatea de răspuns la observațiile și întrebările survenite în urma procesului de revizuire a INEGES",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99969",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99969",
+     "sha256": "510cceb552bc4d22e68b971bbd6611fc433558984f34a0c63da22aa63f822318"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1415-2008",
    "path": "ordin/mediu/2008/1415",
    "short": "Ordin mediu nr. 1415/2008",
@@ -6723,6 +6933,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1472-2008",
+   "path": "ordin/mediu/2008/1472",
+   "short": "Ordin mediu nr. 1472/2008",
+   "title": "Ordinul nr. 1.472/2008 privind aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor pentru nerespectarea legislației în domeniul protecției mediului și al regimului substanțelor și preparatelor periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99592",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99592",
+     "sha256": "78be4a5b0fdfadd938bac411cc4f22aa58a49489318a66818ce0a11e696deca9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1474-2008",
+   "path": "ordin/mediu/2008/1474",
+   "short": "Ordin mediu nr. 1474/2008",
+   "title": "Ordinul nr. 1.474/2008 pentru aprobarea Procedurii privind procesarea, arhivarea și stocarea datelor specifice Inventarului național al emisiilor de gaze cu efect de seră (INEGES)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99593",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99593",
+     "sha256": "e0c16e6f1dceaa80b7c00c2b43ed89f0ca230d51c6b9f168d4298f367f864a11"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-152-2008",
    "path": "ordin/mediu/2008/152",
    "short": "Ordin mediu nr. 152/2008",
@@ -6734,6 +6974,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95630",
      "sha256": "54c9a2db57618b0bc41f07f12719fbfd7d67d5fddeffffb5f38f3b3776f96f84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1533-2008",
+   "path": "ordin/mediu/2008/1533",
+   "short": "Ordin mediu nr. 1533/2008",
+   "title": "Ordinul nr. 1.533/2008 privind aprobarea Metodologiei de atribuire a administrării ariilor naturale protejate care necesită constituirea de structuri de administrare și a Metodologiei de atribuire a custodiei ariilor naturale protejate care nu necesită constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99771",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99771",
+     "sha256": "3f1dfe579c67708080165539384b3e3825c6cf734d6e202d4dfe2c6d26a14c31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1552-2008",
+   "path": "ordin/mediu/2008/1552",
+   "short": "Ordin mediu nr. 1552/2008",
+   "title": "Ordinul nr. 1.552/2008 pentru aprobarea listei localităților pe județe unde există surse de nitrați din activități agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100462",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100462",
+     "sha256": "77c3c889710fd7c0e614d8593f2ab6c54f499c1e4e8ffd2f6b74574fc68feaa5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-297-2008",
+   "path": "ordin/mediu/2008/297",
+   "short": "Ordin mediu nr. 297/2008",
+   "title": "Ordinul nr. 297/2008 pentru aprobarea Procedurii naționale privind utilizarea mecanismului \"Implementare în comun (JI)\" pe baza Modului I, în conformitate cu prevederile art. 6 din Protocolul de la Kyoto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91552",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91552",
+     "sha256": "b03a9737b561e71dab8178a520aa1e587a579b44fe8dab41378d5135a85511aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-333-2008",
+   "path": "ordin/mediu/2008/333",
+   "short": "Ordin mediu nr. 333/2008",
+   "title": "Ordinul nr. 333/2008 pentru aprobarea Listei laboratoarelor din România care efectuează teste conform prevederilor art. 8 alin. (2) din Regulamentul (CE) nr. 648/2004 al Parlamentului European și al Consiliului Uniunii Europene privind detergenții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93188",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93188",
+     "sha256": "4502f8a32a0de0297bc3720b89b8d7041ee5789c303cecc0134d4afcaf67c6db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-410-2008",
+   "path": "ordin/mediu/2008/410",
+   "short": "Ordin mediu nr. 410/2008",
+   "title": "Ordinul nr. 410/2008 pentru aprobarea Procedurii de autorizare a activităților de recoltare, capturare și/sau achiziție și/sau comercializare, pe teritoriul național sau la export, a florilor de mină, a fosilelor de plante și fosilelor de animale vertebrate și nevertebrate, precum și a plantelor și animalelor din flora și, respectiv, fauna sălbatice și a importului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92011",
+   "versions": [
+    {
+     "from": "2008-05-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92011",
+     "sha256": "8a170423edaaff743dcf133999099850a194e685f9d936dc5f2b25053e51ebd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-539-2008",
+   "path": "ordin/mediu/2008/539",
+   "short": "Ordin mediu nr. 539/2008",
+   "title": "Ordinul nr. 539/2008 pentru declararea zilei de 1 septembrie Ziua Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92844",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92844",
+     "sha256": "680cfc9c5cb23359ab44a286c89b537a7bbd104f55fc8d1219d4bdfcdcd828a0"
     }
    ]
   },
@@ -6764,6 +7094,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97440",
      "sha256": "acd3af205e29e22e6caa0fe7778ba748fbb2effe025a3f3352760459ec30335e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-942-2008",
+   "path": "ordin/mediu/2008/942",
+   "short": "Ordin mediu nr. 942/2008",
+   "title": "Ordinul nr. 942/2008 privind stabilirea perioadei de organizare a celei de-a doua sesiuni de depunere a cererilor de finanțare pentru anul 2008 în cadrul Programului național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități, instituit prin Ordonanța de urgență a Guvernului nr. 59/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96712",
+   "versions": [
+    {
+     "from": "2008-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96712",
+     "sha256": "af1ebf69f7c37a8f0383161c023e6f6372cc50ad6eefeb862800b08fe45c0512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-973-2008",
+   "path": "ordin/mediu/2008/973",
+   "short": "Ordin mediu nr. 973/2008",
+   "title": "Ordinul nr. 973/2008 privind înființarea Registrului activităților de utilizare în condiții de izolare a microorganismelor modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98733",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98733",
+     "sha256": "47ee6eabdbe652c866766ea69626af9b8ec9379b76ebf11414fd090ade563365"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-976-2008",
+   "path": "ordin/mediu/2008/976",
+   "short": "Ordin mediu nr. 976/2008",
+   "title": "Ordinul nr. 976/2008 privind aprobarea Metodologiei pentru determinarea bazinelor hidrografice cu caracter torențial în care se află așezări umane expuse pericolului viiturilor rapide",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97278",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97278",
+     "sha256": "288d38e2b3c51aedacacdd71aad398b95d5afc617400968985d5a5ea8adee2f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-98-2008",
+   "path": "ordin/mediu/2008/98",
+   "short": "Ordin mediu nr. 98/2008",
+   "title": "Ordinul nr. 98/2008 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei pentru Securitate Biologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89386",
+   "versions": [
+    {
+     "from": "2008-02-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89386",
+     "sha256": "4380396a4b47c51bceea0d02f61581d8061e6ac4c146b0c38e3aaabd25621d0e"
     }
    ]
   },
@@ -7465,7 +7855,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/93343",
    "versions": [
     {
-     "from": "2008-05-26",
+     "from": "2008-06-01",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93343",
      "sha256": "6fa9808c21012c5d53bc81c03281ce7ba9809c4b66b46d27fceb0286524c8276"
@@ -8845,7 +9235,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/89099",
    "versions": [
     {
-     "from": "2008-01-28",
+     "from": "2008-02-01",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89099",
      "sha256": "52539002b4007e8b0c222466644c799655d25849d384f456bf13a262676a2c65"
@@ -9183,6 +9573,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1010-2008",
+   "path": "ordin/transporturi/2008/1010",
+   "short": "Ordin transporturi nr. 1010/2008",
+   "title": "Ordinul nr. 1.010/2008 privind modificarea anexei nr. 1 la Ordinul ministrului transporturilor nr. 655/2007 pentru aprobarea Normelor uniforme privind transporturile pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96588",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96588",
+     "sha256": "8fb4735020e1df7404b9c733de04aa6396d7493961994bf97ff67de3e51716ca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-103-2008",
    "path": "ordin/transporturi/2008/103",
    "short": "Ordin transporturi nr. 103/2008",
@@ -9258,6 +9663,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1188-2008",
+   "path": "ordin/transporturi/2008/1188",
+   "short": "Ordin transporturi nr. 1188/2008",
+   "title": "Ordinul nr. 1.188/2008 pentru modificarea art. 4 din Ordinul ministrului transporturilor nr. 798/2008 privind aprobarea Cerințelor pentru amenajarea și utilizarea terenurilor, altele decât aerodromurile autorizate, pe care pot ateriza, respectiv de pe care pot decola aeronave civile care execută zboruri interne încadrate în categoria operațiunilor aeriene civile de lucru aerian sau aviație generală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97657",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97657",
+     "sha256": "bc6ed4a233de49b19b65f0198abbeba6243967102ad952ad7458c33afd892cfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1223-2008",
+   "path": "ordin/transporturi/2008/1223",
+   "short": "Ordin transporturi nr. 1223/2008",
+   "title": "Ordinul nr. 1.223/2008 pentru modificarea art. 5 alin. (3) din Ordinul ministrului transporturilor, construcțiilor și turismului nr. 322/2006 privind instalațiile portuare de preluare a deșeurilor generate de nave și a reziduurilor mărfii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97797",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97797",
+     "sha256": "bc1e8e00aeb617592cee04414719c7e23339c7daca7809285d97ef0a99ebf874"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1245-2008",
    "path": "ordin/transporturi/2008/1245",
    "short": "Ordin transporturi nr. 1245/2008",
@@ -9303,6 +9738,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1280-2008",
+   "path": "ordin/transporturi/2008/1280",
+   "short": "Ordin transporturi nr. 1280/2008",
+   "title": "Ordinul nr. 1.280/2008 privind modificarea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 207/2003 pentru aprobarea formei și conținutului Documentului de conformitate, Documentului de conformitate interimar, Certificatului de management al siguranței și Certificatului de management al siguranței interimar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98365",
+   "versions": [
+    {
+     "from": "2008-10-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98365",
+     "sha256": "8a196904f38bd78e5466caf51eece71b37edb17241d70869275ce575638b8f10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1312-2008",
+   "path": "ordin/transporturi/2008/1312",
+   "short": "Ordin transporturi nr. 1312/2008",
+   "title": "Ordinul nr. 1.312/2008 pentru modificarea anexei nr. 2 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 322/2006 privind instalațiile portuare de preluare a deșeurilor generate de nave și a reziduurilor mărfii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98946",
+   "versions": [
+    {
+     "from": "2008-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98946",
+     "sha256": "49c5dc2382ca4e8f3a6756cc42c87f9a76a63f1ba8e653be73f1be59c8b45d50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1313-2008",
+   "path": "ordin/transporturi/2008/1313",
+   "short": "Ordin transporturi nr. 1313/2008",
+   "title": "Ordinul nr. 1.313/2008 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.627/2006 pentru aprobarea criteriilor minime de pregătire și perfecționare a personalului navigant maritim român și a sistemului de recunoaștere a certificatelor de competență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98688",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98688",
+     "sha256": "0b788ca47bdb9bc789b01fd54a2f27fcbc9f15815ee6911b0b6f163b2992b7fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1352-2008",
+   "path": "ordin/transporturi/2008/1352",
+   "short": "Ordin transporturi nr. 1352/2008",
+   "title": "Ordinul nr. 1.352/2008 pentru modificarea și completarea Normelor privind organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.892/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99080",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99080",
+     "sha256": "f8789bced91e0c4787a1eb7611dc825c366b2d1c9ed27e06044298748252c2e9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1413-2008",
    "path": "ordin/transporturi/2008/1413",
    "short": "Ordin transporturi nr. 1413/2008",
@@ -9329,6 +9824,36 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100580",
      "sha256": "45e99c4cfaae390446cc3fcb02407220e51649b7dfb5157957dd42f39570dcfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1463-2008",
+   "path": "ordin/transporturi/2008/1463",
+   "short": "Ordin transporturi nr. 1463/2008",
+   "title": "Ordinul nr. 1.463/2008 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.156/2005 privind tarifele pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100096",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100096",
+     "sha256": "5b7ac64916453c3430647af1f77a6356708aa1a9578e85bba938857056137018"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1465-2008",
+   "path": "ordin/transporturi/2008/1465",
+   "short": "Ordin transporturi nr. 1465/2008",
+   "title": "Ordinul nr. 1.465/2008 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.262/2005 privind autorizarea personalului cu responsabilități în siguranța circulației care urmează să desfășoare pe proprie răspundere activități specifice transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100134",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100134",
+     "sha256": "a951e4dc8a9bd84993d48456e8d4e62d37f1d3467e38b2fbf331e1a2da00977f"
     }
    ]
   },
@@ -9378,6 +9903,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1525-2008",
+   "path": "ordin/transporturi/2008/1525",
+   "short": "Ordin transporturi nr. 1525/2008",
+   "title": "Ordinul nr. 1.525/2008 pentru modificarea și completarea Regulamentului privind modelul și însemnele uniformei, modul de acordare și portul acesteia de către inspectorii Autorității Rutiere Române - A.R.R., aprobat prin Ordinul ministrului transporturilor nr. 886/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101058",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101058",
+     "sha256": "605b0dde79e6715689cd3ccbaf48404ca4c163b1e30e7fb51577a5b2511c98da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1534-2008",
+   "path": "ordin/transporturi/2008/1534",
+   "short": "Ordin transporturi nr. 1534/2008",
+   "title": "Ordinul nr. 1.534/2008 privind modificarea și completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 21/2007 pentru aprobarea Reglementării aeronautice civile române RACR-RA, Regulile aerului, ediția 02/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101059",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101059",
+     "sha256": "a4a4e77a88a35809f518fddd5eed1178b2183d5509bf392e416ae62af179f7e1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1541-2008",
    "path": "ordin/transporturi/2008/1541",
    "short": "Ordin transporturi nr. 1541/2008",
@@ -9408,6 +9963,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1548-2008",
+   "path": "ordin/transporturi/2008/1548",
+   "short": "Ordin transporturi nr. 1548/2008",
+   "title": "Ordinul nr. 1.548/2008 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 42/2006 privind condițiile de pregătire profesională inițială și continuă a anumitor categorii de conducători auto și a anexei la Ordinul ministrului transporturilor nr. 794/2007 pentru aprobarea Normelor de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101429",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101429",
+     "sha256": "250b39ca52adfa82b86011aeaa94dc6d80ec4049541b90a51a0fbed22691f79a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1558-2008",
    "path": "ordin/transporturi/2008/1558",
    "short": "Ordin transporturi nr. 1558/2008",
@@ -9419,6 +9989,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101009",
      "sha256": "a769a33a8071f74bdb5b92270d87e00af4a4883dd7d6c1d4a6b866d757a77c57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1566-2008",
+   "path": "ordin/transporturi/2008/1566",
+   "short": "Ordin transporturi nr. 1566/2008",
+   "title": "Ordinul nr. 1.566/2008 privind modificarea și completarea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003 pentru aprobarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100854",
+   "versions": [
+    {
+     "from": "2009-01-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100854",
+     "sha256": "7c07ae52724ad46693c2aa667f87b35e91f5e2a54327e81450063cc66bc37cbc"
     }
    ]
   },
@@ -9453,6 +10038,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-25-2008",
+   "path": "ordin/transporturi/2008/25",
+   "short": "Ordin transporturi nr. 25/2008",
+   "title": "Ordinul nr. 25/2008 privind modificarea și completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 21/2007 pentru aprobarea Reglementării aeronautice civile române RACR-RA, Regulile aerului, ediția 02/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88963",
+   "versions": [
+    {
+     "from": "2008-01-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88963",
+     "sha256": "d303380f22d8629721bdaf554322ae5f5f7afe84a6a23c755c74e371d4a3f76b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-261-2008",
+   "path": "ordin/transporturi/2008/261",
+   "short": "Ordin transporturi nr. 261/2008",
+   "title": "Ordinul nr. 261/2008 privind înlocuirea secțiunii B.6 \"Tarife abonamente\" din anexa nr. 2 la Ordinul ministrului transporturilor nr. 792/2007 pentru aprobarea tarifelor în transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90100",
+   "versions": [
+    {
+     "from": "2008-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90100",
+     "sha256": "5daeafbdef10d3b754c0f111a872f03aee8aa101054b5eda32c1777408612c8d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-28-2008",
    "path": "ordin/transporturi/2008/28",
    "short": "Ordin transporturi nr. 28/2008",
@@ -9479,6 +10094,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88781",
      "sha256": "382d9e189cbf21b5fbb44611b9e88c5083316e134240326c7d3d927c1abbd679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-32-2008",
+   "path": "ordin/transporturi/2008/32",
+   "short": "Ordin transporturi nr. 32/2008",
+   "title": "Ordinul nr. 32/2008 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89042",
+   "versions": [
+    {
+     "from": "2008-01-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89042",
+     "sha256": "f4e5a733105f07dd027d5a3c995caa691ab49c1655a02624641db222b0e4710b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-330-2008",
+   "path": "ordin/transporturi/2008/330",
+   "short": "Ordin transporturi nr. 330/2008",
+   "title": "Ordinul nr. 330/2008 pentru modificarea și înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90507",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90507",
+     "sha256": "07ce424e0d378c1532d5b6a0ea7df517f495e298a639b74f7c94fa4da6877698"
     }
    ]
   },
@@ -9633,6 +10278,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-394-2008",
+   "path": "ordin/transporturi/2008/394",
+   "short": "Ordin transporturi nr. 394/2008",
+   "title": "Ordinul nr. 394/2008 pentru modificarea și completarea Normelor privind organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.892/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91014",
+   "versions": [
+    {
+     "from": "2008-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91014",
+     "sha256": "5a1bf70bb319be8811ca028abe11daa1d4278caa1cf6103e432fdf26bd76e028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-472-2008",
+   "path": "ordin/transporturi/2008/472",
+   "short": "Ordin transporturi nr. 472/2008",
+   "title": "Ordinul nr. 472/2008 privind modificarea și completarea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003 pentru aprobarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91533",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91533",
+     "sha256": "acc564d7963d1ddcf0e3256a6173e68c124961e73043a6426001a88ba507c9c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-474-2008",
+   "path": "ordin/transporturi/2008/474",
+   "short": "Ordin transporturi nr. 474/2008",
+   "title": "Ordinul nr. 474/2008 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92566",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92566",
+     "sha256": "b1cfa3442f9d597a2ae41aaa7c98cd27ae1d56042d70be7bcc584e03637f2079"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-490-2008",
    "path": "ordin/transporturi/2008/490",
    "short": "Ordin transporturi nr. 490/2008",
@@ -9644,6 +10334,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96506",
      "sha256": "50e036d986a54d5307d8a53eac21849994b82cc2717a31c5715b9ddef3e6ad97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-519-2008",
+   "path": "ordin/transporturi/2008/519",
+   "short": "Ordin transporturi nr. 519/2008",
+   "title": "Ordinul nr. 519/2008 pentru completarea anexei la Ordinul ministrului transporturilor nr. 846/2007 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92235",
+   "versions": [
+    {
+     "from": "2008-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92235",
+     "sha256": "5bea4ed6d28c1a03000d4d6a1d2ba0b92be714c540c50215df61019b6896c96a"
     }
    ]
   },
@@ -9693,6 +10398,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-603-2008",
+   "path": "ordin/transporturi/2008/603",
+   "short": "Ordin transporturi nr. 603/2008",
+   "title": "Ordinul nr. 603/2008 pentru modificarea și înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.156/2005 privind tarifele pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92853",
+   "versions": [
+    {
+     "from": "2008-05-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92853",
+     "sha256": "3878e65471f30fd641eb3db5ec25c9b84e276c104e7da061089ba6a8e19d0ca2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-605-2008",
    "path": "ordin/transporturi/2008/605",
    "short": "Ordin transporturi nr. 605/2008",
@@ -9719,6 +10439,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89715",
      "sha256": "46fc6740028e24aee74793786ea83139e2d7c5594cb0f519274a7ffdc805f892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-64-2008",
+   "path": "ordin/transporturi/2008/64",
+   "short": "Ordin transporturi nr. 64/2008",
+   "title": "Ordinul nr. 64/2008 privind abrogarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 1.416/2002 pentru aprobarea Reglementării Aeronautice Civile Române - RACR-PNPSA - Programul național de pregătire în domeniul securității aeronautice, ediția 01/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89063",
+   "versions": [
+    {
+     "from": "2008-01-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89063",
+     "sha256": "3f488e4455731c8c2d4aeaff06f8fb63666eea902e1819476c2ad9e646dc162b"
     }
    ]
   },
@@ -9813,6 +10548,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-730-2008",
+   "path": "ordin/transporturi/2008/730",
+   "short": "Ordin transporturi nr. 730/2008",
+   "title": "Ordinul nr. 730/2008 pentru abrogarea Ordinului ministrului transporturilor nr. 346/2008 pentru aprobarea Normelor privind stabilirea condițiilor de efectuare a evaluării psihologice a persoanelor în vederea obținerii permisului de conducere auto, precum și a conducătorilor de autovehicule și tramvaie pe drumurile publice și de autorizare de către Ministerul Transporturilor a laboratoarelor psihologice pentru efectuarea acestor evaluări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93869",
+   "versions": [
+    {
+     "from": "2008-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93869",
+     "sha256": "128bdf43c7aebdd62f77a591449563e86a35105500817ec051e47d3414b54109"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-740-2008",
    "path": "ordin/transporturi/2008/740",
    "short": "Ordin transporturi nr. 740/2008",
@@ -9873,6 +10623,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-861-2008",
+   "path": "ordin/transporturi/2008/861",
+   "short": "Ordin transporturi nr. 861/2008",
+   "title": "Ordinul nr. 861/2008 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.156/2005 privind tarifele pentru prestațiile specifice realizate de Autoritatea Rutieră Română - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95780",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95780",
+     "sha256": "dfd1bc29e6f652861f504b292eb05758511da3a1524fda58e495e1eea521f350"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-870-2008",
    "path": "ordin/transporturi/2008/870",
    "short": "Ordin transporturi nr. 870/2008",
@@ -9888,6 +10653,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-871-2008",
+   "path": "ordin/transporturi/2008/871",
+   "short": "Ordin transporturi nr. 871/2008",
+   "title": "Ordinul nr. 871/2008 privind abrogarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.941/2005 pentru aprobarea Reglementării aeronautice civile române referitoare la limitări privind timpul de muncă și de odihnă pentru personalul aeronautic civil navigant/RACR-LTMO, ediția 1/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95632",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95632",
+     "sha256": "a6621086d63d0c76b2091e83df893f487f9d2fcf31cf59f5c7055b9be87b3bf6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-878-2008",
    "path": "ordin/transporturi/2008/878",
    "short": "Ordin transporturi nr. 878/2008",
@@ -9899,6 +10679,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95960",
      "sha256": "0f170427fa868547aea818f2b68f85e3ba8d0e9ad6c38df2c90d8b06372b5d22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-88-2008",
+   "path": "ordin/transporturi/2008/88",
+   "short": "Ordin transporturi nr. 88/2008",
+   "title": "Ordinul nr. 88/2008 pentru modificarea și completarea Regulamentului de navigație pe Dunăre în sectorul românesc, aprobat prin Ordinul ministrului transporturilor nr. 787/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89230",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89230",
+     "sha256": "b5aa1d5add7801282ad800b1945531ef05c08f0520574aa74f66464c1f0bd60b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-955-2008",
+   "path": "ordin/transporturi/2008/955",
+   "short": "Ordin transporturi nr. 955/2008",
+   "title": "Ordinul nr. 955/2008 pentru modificarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96441",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96441",
+     "sha256": "a3baa264b94674c5855a289aa93e602308e096434c56e1aaf19da7357c90a61c"
     }
    ]
   }

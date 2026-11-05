@@ -1,8 +1,8 @@
 # Ordinul nr. 3.635/2015 pentru aprobarea Procedurii de depunere la organul fiscal a documentului de certificare întocmit de consultantul fiscal, precum și a Procedurii privind schimbul de informații între Agenția Națională de Administrare Fiscală și Camera Consultanților Fiscali
 
-Ordin anaf nr. 3635/2015 · 1 versions, from 2015-12-18 (latest in force: 2015-12-18) · <https://legislatie.just.ro/Public/DetaliiDocument/174049>
+Ordin anaf nr. 3635/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174049>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2016; this record still dates it from 18 December 2015, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,4 @@ Act id: `ordin-anaf-3635-2015` (tags `ordin-anaf-3635-2015/<day>`; `python tools
 - Ordin anaf nr. 3635/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3635/2015: Anexa nr. 1 (1 PROCEDURA 11/12/2015) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 174049 of the official web service.
 - Ordin anaf nr. 3635/2015: Anexa nr. 2 (2 PROCEDURA 11/12/2015) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 174049 of the official web service.
-- Ordin anaf nr. 3635/2015: first published here dated 18 December 2015; its in-force clause states 1 January 2016. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 3635/2015: re-dated by a correction: in force from 1 January 2016 (first published dated 18 December 2015).

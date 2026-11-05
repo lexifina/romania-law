@@ -1,8 +1,8 @@
 # Ordinul nr. 2.021/2021 privind competența de administrare a obligațiilor fiscale datorate de persoanele fizice care desfășoară activități economice în mod independent sau exercită profesii libere
 
-Ordin anaf nr. 2021/2021 · 1 versions, from 2021-12-23 (latest in force: 2021-12-23) · <https://legislatie.just.ro/Public/DetaliiDocument/249882>
+Ordin anaf nr. 2021/2021 · 1 versions, from 2022-01-01 (latest in force: 2022-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/249882>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2022; this record still dates it from 23 December 2021, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-anaf-2021-2021` (tags `ordin-anaf-2021-2021/<day>`; `python tools
 - Ordin anaf nr. 2021/2021: the first version is the order as published in Monitorul Oficial nr. 1225 of 23 December 2021 (document 249882 of the official web service), in force on 1 January 2022, the day it states for itself.
 - Ordin anaf nr. 2021/2021: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2021/2021: Anexa nr. 1 (PROCEDURĂ din 21 decembrie 2021 de administrare a obligațiilor fiscale datorate de persoanele fizice care desfășoară activități economice în mod independent sau exercită profesii libere) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 249883 of the official web service.
-- Ordin anaf nr. 2021/2021: first published here dated 23 December 2021; its in-force clause states 1 January 2022. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 2021/2021: re-dated by a correction: in force from 1 January 2022 (first published dated 23 December 2021).

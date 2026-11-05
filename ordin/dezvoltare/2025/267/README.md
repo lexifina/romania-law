@@ -1,8 +1,8 @@
 # Ordinul nr. 267/2025 pentru aprobarea reglementării tehnice "Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025"
 
-Ordin dezvoltare nr. 267/2025 · 1 versions, from 2025-03-10 (latest in force: 2025-03-10) · <https://legislatie.just.ro/Public/DetaliiDocument/295242>
+Ordin dezvoltare nr. 267/2025 · 1 versions, from 2025-05-09 (latest in force: 2025-05-09) · <https://legislatie.just.ro/Public/DetaliiDocument/295242>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGLEMENTARE TEHNICĂ Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025): its text could not yet be split into provisions without losing or adding words. Its in-force clause states 9 May 2025; this record still dates it from 10 March 2025, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGLEMENTARE TEHNICĂ Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025): its text could not yet be split into provisions without losing or adding words.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,4 +20,4 @@ Act id: `ordin-dezvoltare-267-2025` (tags `ordin-dezvoltare-267-2025/<day>`; `py
 - Ordin dezvoltare nr. 267/2025: the first version is the order as published in Monitorul Oficial nr. 204 of 10 March 2025 (document 295242 of the official web service), in force on 9 May 2025, the day it states for itself.
 - Ordin dezvoltare nr. 267/2025: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 267/2025: Anexa nr. 1 (REGLEMENTARE TEHNICĂ Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Ordin dezvoltare nr. 267/2025: first published here dated 10 March 2025; its in-force clause states 9 May 2025. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 267/2025: re-dated by a correction: in force from 9 May 2025 (first published dated 10 March 2025).

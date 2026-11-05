@@ -1,8 +1,8 @@
 # Ordinul nr. 638/1999 pentru aprobarea Instrucțiunilor de lucru privind facilitățile acordate conform art. 6-8 din Ordonanța Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internațional
 
-Ordin finante nr. 638/1999 · 1 versions, from 1999-06-30 (latest in force: 1999-06-30) · <https://legislatie.just.ro/Public/DetaliiDocument/18579>
+Ordin finante nr. 638/1999 · 1 versions, from 1999-07-01 (latest in force: 1999-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/18579>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 July 1999; this record still dates it from 30 June 1999, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-finante-638-1999` (tags `ordin-finante-638-1999/<day>`; `python t
 - Ordin finante nr. 638/1999: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 638/1999: Anexa nr. 1 (INSTRUCȚIUNI de lucru privind facilitățile acordate conform art. 6-8 din Ordonanța Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internațional I) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 18579 of the official web service.
 - Ordin finante nr. 638/1999: Anexa nr. 2 (A) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 18579 of the official web service.
-- Ordin finante nr. 638/1999: first published here dated 30 June 1999; its in-force clause states 1 July 1999. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 638/1999: re-dated by a correction: in force from 1 July 1999 (first published dated 30 June 1999).

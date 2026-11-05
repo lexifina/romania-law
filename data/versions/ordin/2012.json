@@ -3,6 +3,21 @@
  "shard": "ordin/2012",
  "acts": [
   {
+   "slug": "ordin-agricultura-116-2012",
+   "path": "ordin/agricultura/2012/116",
+   "short": "Ordin agricultura nr. 116/2012",
+   "title": "Ordinul nr. 116/2012 privind aprobarea măsurilor de reglementare a efortului de pescuit și a cotelor de pescuit alocate pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138721",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138721",
+     "sha256": "3a80f3fe8ba429767ffdd1786a6b472c8251cbd0778f7e7d0cde1d038c18d555"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-138-2012",
    "path": "ordin/agricultura/2012/138",
    "short": "Ordin agricultura nr. 138/2012",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-40-2012",
+   "path": "ordin/agricultura/2012/40",
+   "short": "Ordin agricultura nr. 40/2012",
+   "title": "Ordinul nr. 40/2012 privind prohibiția pescuitului în anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136468",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136468",
+     "sha256": "f94374c06b5bcdaf7217e2584a94b90d6b2924f1f51ecf0df1619ed0b2ac4181"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-66-2012",
    "path": "ordin/agricultura/2012/66",
    "short": "Ordin agricultura nr. 66/2012",
@@ -74,6 +104,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137438",
      "sha256": "e2044773e95c6845bc81dd48fd44dbb59d4aed8ef023863e4f0da5593428d3ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-84-2012",
+   "path": "ordin/agricultura/2012/84",
+   "short": "Ordin agricultura nr. 84/2012",
+   "title": "Ordinul nr. 84/2012 privind măsurile de refacere și conservare a populațiilor de sturioni din habitatele piscicole naturale și dezvoltarea acvaculturii de sturioni în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137634",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137634",
+     "sha256": "07e6cafc6f2b6a4331698b4137cff1442a47eed72939f87dd43fbe0cf2affc95"
     }
    ]
   },
@@ -1645,7 +1690,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/144200",
    "versions": [
     {
-     "from": "2012-12-28",
+     "from": "2013-01-01",
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144200",
      "sha256": "2fdf6d4b6d4cb064f85d2e55a4d126b1858e4c5a3c5c17001e8a191af901c3a7"
@@ -4060,7 +4105,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/138891",
    "versions": [
     {
-     "from": "2012-06-18",
+     "from": "2012-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138891",
      "sha256": "76e7eb8bf84313340b455792289cbaaab06620255950893ea3ff40f78d3ba50c"
@@ -5493,6 +5538,66 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1-2012",
+   "path": "ordin/mediu/2012/1",
+   "short": "Ordin mediu nr. 1/2012",
+   "title": "Ordinul nr. 1/2012 pentru aprobarea modelului etichetei lotului/lotului divizat de materiale forestiere de reproducere și a modelului buletinului de analiză a semințelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134596",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134596",
+     "sha256": "a464244e2d590df4f1dd6a1f187926bb079bb30763a7010a72dfac5f82735602"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1044-2012",
+   "path": "ordin/mediu/2012/1044",
+   "short": "Ordin mediu nr. 1044/2012",
+   "title": "Ordinul nr. 1.044/2012 privind aprobarea Regulamentului de organizare și funcționare a Comisiei Patrimoniului Speologic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137284",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137284",
+     "sha256": "e7b36647c16c778febab0f5ae3ef52eb3dd97f3f86b529beccfe555063340ebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1328-2012",
+   "path": "ordin/mediu/2012/1328",
+   "short": "Ordin mediu nr. 1328/2012",
+   "title": "Ordinul nr. 1.328/2012 pentru aprobarea derogării în scop științific în cazul unor specii strict protejate pe raza Parcului Național Cozia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137951",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137951",
+     "sha256": "e00609d4452f6b3ac46240eedae7791ced5cf0b61f452cdb0d75bb840153cd8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1341-2012",
+   "path": "ordin/mediu/2012/1341",
+   "short": "Ordin mediu nr. 1341/2012",
+   "title": "Ordinul nr. 1.341/2012 privind aprobarea Procedurii de emitere a certificatelor de origine pentru biomasa provenită din silvicultură și industriile conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138410",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138410",
+     "sha256": "41cc531e0f2ee4f508e2f97fde793ec2535f8f4986922c31a25dfed45448dbf3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1422-2012",
    "path": "ordin/mediu/2012/1422",
    "short": "Ordin mediu nr. 1422/2012",
@@ -5504,6 +5609,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141181",
      "sha256": "9ef2166ef04c5d82339c4d375a63cc75349a830acce081331308ec054cda23b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2266-2012",
+   "path": "ordin/mediu/2012/2266",
+   "short": "Ordin mediu nr. 2266/2012",
+   "title": "Ordinul nr. 2.266/2012 privind aprobarea modelelor de documentații standardizate aferente procedurilor de atribuire a contractelor de achiziție de lucrări publice pentru proiectele de \"proiectare și execuție de stație de tratare a apei/stație de epurare de ape reziduale\", \"execuție de rețele de canalizare și rețele de alimentare cu apă\", \"proiectare și execuție de stație de sortare, compostare și tratare mecano-biologică a deșeurilor\", \"execuție de depozit conform de deșeuri\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138925",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138925",
+     "sha256": "1c49a75dcba6db8182947092c32b0e1b294ef41cb8b36b3c97ba6df4af0f823a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2353-2012",
+   "path": "ordin/mediu/2012/2353",
+   "short": "Ordin mediu nr. 2353/2012",
+   "title": "Ordinul nr. 2.353/2012 pentru aprobarea Normelor metodologice privind constituirea și utilizarea Fondului de ameliorare a fondului funciar cu destinație silvică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139078",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139078",
+     "sha256": "013ce16b09fb460fa3208ae159a3068874669c2c30a7903234dc81bf010e8857"
     }
    ]
   },
@@ -5523,6 +5658,126 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2487-2012",
+   "path": "ordin/mediu/2012/2487",
+   "short": "Ordin mediu nr. 2487/2012",
+   "title": "Ordinul nr. 2.487/2012 pentru practicarea vânătorii în fondurile cinegetice constituite pe teritoriul Rezervației Biosferei \"Delta Dunării\" pentru sezonul de vânătoare 15 mai 2012-14 mai 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139357",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139357",
+     "sha256": "08539b511e7c512ce233f188fa7ad74bb2ba28ab29ffc3a901a99b7d462448f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2606-2012",
+   "path": "ordin/mediu/2012/2606",
+   "short": "Ordin mediu nr. 2606/2012",
+   "title": "Ordinul nr. 2.606/2012 privind stabilirea unor măsuri aplicabile managementului produselor biocide în condiții de siguranță pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140185",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140185",
+     "sha256": "e211d17ef948525241d081d0d62fb2dec62ee20d4d4a561e5fff0e000088a969"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2628-2012",
+   "path": "ordin/mediu/2012/2628",
+   "short": "Ordin mediu nr. 2628/2012",
+   "title": "Ordinul nr. 2.628/2012 privind aprobarea Regulamentului de organizare și funcționare a Comitetului național pentru Programul Hidrologic Internațional și a componenței acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140549",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140549",
+     "sha256": "250dcc058bddacf2523a3ce3ea81b9d45ca3eb71d956a2b9a89e50d6e2d42a9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2681-2012",
+   "path": "ordin/mediu/2012/2681",
+   "short": "Ordin mediu nr. 2681/2012",
+   "title": "Ordinul nr. 2.681/2012 privind aprobarea Planului de management al sitului Lacurile de acumulare Buhuși-Bacău-Berești ROSPA0063",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143971",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143971",
+     "sha256": "a9554a2d80a27b60db462af97488a7258af955f6e4e229c4c8bce6470dc7bca9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3202-2012",
+   "path": "ordin/mediu/2012/3202",
+   "short": "Ordin mediu nr. 3202/2012",
+   "title": "Ordinul nr. 3.202/2012 privind aprobarea Regulamentului sitului de importanță comunitară ROSCI0102 Leaota",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142023",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142023",
+     "sha256": "0ea49e1f7d4b2d5e1b9b286cc206d2cf6ba7ffe265da2a785b1e319f6d959bc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3283-2012",
+   "path": "ordin/mediu/2012/3283",
+   "short": "Ordin mediu nr. 3283/2012",
+   "title": "Ordinul nr. 3.283/2012 pentru aprobarea prețului mediu al unui metru cub de masă lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141437",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141437",
+     "sha256": "647e40d8cdefd4a90e05dcd600694836bef32701dae3039721f27b273cb09f4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3298-2012",
+   "path": "ordin/mediu/2012/3298",
+   "short": "Ordin mediu nr. 3298/2012",
+   "title": "Ordinul nr. 3.298/2012 pentru aprobarea Regulamentului privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141406",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141406",
+     "sha256": "39725fe8a2593864f38dcb05c1e9e1721bbfda99555bfbe0e7d75ccccd4a6ea0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3309-2012",
+   "path": "ordin/mediu/2012/3309",
+   "short": "Ordin mediu nr. 3309/2012",
+   "title": "Ordinul nr. 3.309/2012 privind stabilirea unor măsuri aplicabile managementului produselor de protecție a plantelor în condiții de siguranță pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141353",
+   "versions": [
+    {
+     "from": "2012-09-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141353",
+     "sha256": "584c3f73328c7f8b4a365f72a425ea1e29f8b1a521d65bacfd8bf27bc010457c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-3403-2012",
    "path": "ordin/mediu/2012/3403",
    "short": "Ordin mediu nr. 3403/2012",
@@ -5534,6 +5789,81 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142773",
      "sha256": "b01c86972ddbcb026c6f191a4da3c805224418a6a2c7e4f584c4b943c57dacd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3404-2012",
+   "path": "ordin/mediu/2012/3404",
+   "short": "Ordin mediu nr. 3404/2012",
+   "title": "Ordinul nr. 3.404/2012 pentru aprobarea Procedurii de emitere a permisului de traversare a lucrărilor de gospodărire a apelor cu rol de apărare împotriva inundațiilor și a Îndrumarului tehnic pentru proiectarea și realizarea lucrărilor de traversare a lucrărilor de gospodărire a apelor cu rol de apărare împotriva inundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141581",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141581",
+     "sha256": "a636477bfc8b6b329b274f347c245804cc8a7af4c8a16065185f4c7f177c8c8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3420-2012",
+   "path": "ordin/mediu/2012/3420",
+   "short": "Ordin mediu nr. 3420/2012",
+   "title": "Ordinul nr. 3.420/2012 pentru aprobarea procedurii de emitere a autorizației privind emisiile de gaze cu efect de seră pentru perioada 2013-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141622",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141622",
+     "sha256": "8c3c51cf14d6265a51661aaf3a8b0c7587eb91a1cd67d8f374ed1e09367572e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3427-2012",
+   "path": "ordin/mediu/2012/3427",
+   "short": "Ordin mediu nr. 3427/2012",
+   "title": "Ordinul nr. 3.427/2012 privind stabilirea unui formular unic în vederea depunerii cererilor pentru proiectele finanțate din fonduri UE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141748",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141748",
+     "sha256": "a6bdce44225d1ba52e98a1f50233ec3cf0d752279501892d2f68095a9e463168"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3456-2012",
+   "path": "ordin/mediu/2012/3456",
+   "short": "Ordin mediu nr. 3456/2012",
+   "title": "Ordinul nr. 3.456/2012 pentru aprobarea derogărilor în cazul speciilor urs, lup și pisică sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141401",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141401",
+     "sha256": "c449361a01a47807251e8c3d6a97a0fed004bd0d55ec9658f91ba615cbb53532"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3821-2012",
+   "path": "ordin/mediu/2012/3821",
+   "short": "Ordin mediu nr. 3821/2012",
+   "title": "Ordinul nr. 3.821/2012 pentru aprobarea unor derogări de la dispozițiile Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și pădurilor nr. 981/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142969",
+   "versions": [
+    {
+     "from": "2012-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142969",
+     "sha256": "c69fe80e27276c8dddc52dbaa319e810b215b2260d90ec4721d4ac9c6b54456c"
     }
    ]
   },
@@ -5553,6 +5883,141 @@
    ]
   },
   {
+   "slug": "ordin-mediu-3993-2012",
+   "path": "ordin/mediu/2012/3993",
+   "short": "Ordin mediu nr. 3993/2012",
+   "title": "Ordinul nr. 3.993/2012 pentru încetarea regimului de arie naturală protejată a perimetrului în suprafață de 17,6 ha aferent Carierei Meri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144243",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144243",
+     "sha256": "fd815affb6c7af0ccc0d44eedb494f1812df5546c491e9cbb909c7b98acdfa16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-4017-2012",
+   "path": "ordin/mediu/2012/4017",
+   "short": "Ordin mediu nr. 4017/2012",
+   "title": "Ordinul nr. 4.017/2012 pentru aprobarea Procedurii de predare-primire a amplasamentelor terenurilor constituite în perimetre de ameliorare și de transfer al obiectivului de investiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144383",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144383",
+     "sha256": "c968b6f932876d041bfca7702699e74bf377fd580e2ed6d92b889dbb21946116"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-4048-2012",
+   "path": "ordin/mediu/2012/4048",
+   "short": "Ordin mediu nr. 4048/2012",
+   "title": "Ordinul nr. 4.048/2012 privind desemnarea centrelor de instruire și evaluare a personalului care desfășoară activitățile prevăzute de art. 2 alin. (1) din Regulamentul (CE) nr. 303/2008 al Comisiei din 2 aprilie 2008 de stabilire, în conformitate cu Regulamentul (CE) nr. 842/2006 al Parlamentului European și al Consiliului, a cerințelor minime și a condițiilor de recunoaștere reciprocă în vederea certificării societăților comerciale și a personalului în ceea ce privește echipamentele staționare de refrigerare, de climatizare și pentru pompe de căldură care conțin anumite gaze fluorurate cu efect de seră și a personalului care desfășoară activitatea prevăzută de art. 1 din Regulamentul (CE) nr. 307/2008 al Comisiei din 2 aprilie 2008 de stabilire, în conformitate cu Regulamentul (CE) nr. 842/2006 al Parlamentului European și al Consiliului, a cerințelor minime pentru programele de formare și a condițiilor pentru recunoașterea reciprocă a certificatelor de formare pentru personal, în ceea ce privește sistemele de climatizare ale unor autovehicule care conțin anumite gaze fluorurate cu efect de seră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144380",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144380",
+     "sha256": "f12e8d0aab3f7853c81c189da1ca8201b4541516372c24c3a2ca2b4453da6a38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-4062-2012",
+   "path": "ordin/mediu/2012/4062",
+   "short": "Ordin mediu nr. 4062/2012",
+   "title": "Ordinul nr. 4.062/2012 pentru aprobarea unor derogări de la dispozițiile Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și pădurilor nr. 981/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143972",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143972",
+     "sha256": "4eeed2d32dd887068cd735c04ddb7379c24f8196d7b49232c176bf2ed3b26b9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-761-2012",
+   "path": "ordin/mediu/2012/761",
+   "short": "Ordin mediu nr. 761/2012",
+   "title": "Ordinul nr. 761/2012 privind stabilirea cerințelor pentru desemnarea organismului de evaluare și certificare a personalului care desfășoară activitatea prevăzută la art. 1 din Regulamentul (CE) nr. 305/2008 al Comisiei din 2 aprilie 2008 de stabilire, în conformitate cu Regulamentul (CE) nr. 842/2006 al Parlamentului European și al Consiliului, a cerințelor minime și a condițiilor pentru recunoașterea reciprocă a certificării personalului însărcinat cu recuperarea anumitor gaze fluorurate cu efect de seră provenite de la instalațiile de distribuție de înaltă tensiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135612",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135612",
+     "sha256": "a0716412eb0550ee1cbd8f304ab1a1f6a0b87d74b1509b25f13aef882e75a12b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-785-2012",
+   "path": "ordin/mediu/2012/785",
+   "short": "Ordin mediu nr. 785/2012",
+   "title": "Ordinul nr. 785/2012 pentru aprobarea Listei prețurilor de referință pentru anul 2012 folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 4 alin. (7) din Hotărârea Guvernului nr. 996/2008 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135259",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135259",
+     "sha256": "9282d839ff36499cd8568279c9a279c759f6899fe747b3f8a24e2244d7d5f430"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-794-2012",
+   "path": "ordin/mediu/2012/794",
+   "short": "Ordin mediu nr. 794/2012",
+   "title": "Ordinul nr. 794/2012 privind procedura de raportare a datelor referitoare la ambalaje și deșeuri de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135672",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135672",
+     "sha256": "30d6c3433e984ef5587c9ab294b1146d90b57285a6832be2b6dd3814057d24de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-799-2012",
+   "path": "ordin/mediu/2012/799",
+   "short": "Ordin mediu nr. 799/2012",
+   "title": "Ordinul nr. 799/2012 privind aprobarea Normativului de conținut al documentațiilor tehnice de fundamentare necesare obținerii avizului de gospodărire a apelor și a autorizației de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135974",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135974",
+     "sha256": "1a5624b32332c91f127519b8778a526f498b7fe4c240b0674f9e504fbbdc5e6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-801-2012",
+   "path": "ordin/mediu/2012/801",
+   "short": "Ordin mediu nr. 801/2012",
+   "title": "Ordinul nr. 801/2012 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea licitației publice pentru atribuirea contractelor de închiriere a plajei Mării Negre, a Contractului-cadru de închiriere a plajei Mării Negre și a Listei sectoarelor de plajă propuse spre închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135775",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135775",
+     "sha256": "7e1ac4e5155f1b47b48bf65cc8e7e097f7c2cfd8f4567182005425953744c13c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-85-2012",
    "path": "ordin/mediu/2012/85",
    "short": "Ordin mediu nr. 85/2012",
@@ -5564,6 +6029,66 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134691",
      "sha256": "72394fbb9e4bd6f2b86e170403c702dc7f5927cc4c4ce4c0dbe15d87a5310bb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-873-2012",
+   "path": "ordin/mediu/2012/873",
+   "short": "Ordin mediu nr. 873/2012",
+   "title": "Ordinul nr. 873/2012 pentru aprobarea Procedurii de notificare din punctul de vedere al gospodăririi apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137490",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137490",
+     "sha256": "707c2f1fbd575ada5971922e297430ba4be93597dbcfcc1a6d7cfb1e093d6dac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-945-2012",
+   "path": "ordin/mediu/2012/945",
+   "short": "Ordin mediu nr. 945/2012",
+   "title": "Ordinul nr. 945/2012 pentru aprobarea Catalogului național al resurselor genetice forestiere și a Instrucțiunilor tehnice privind managementul durabil al resurselor genetice forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139035",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139035",
+     "sha256": "b5ccd122535441a82ea183177e62338168ce2c939021b87805c4ac90f0fe1afd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-981-2012",
+   "path": "ordin/mediu/2012/981",
+   "short": "Ordin mediu nr. 981/2012",
+   "title": "Ordinul nr. 981/2012 pentru aprobarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136164",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136164",
+     "sha256": "d4be5919b0f63e250314fe609dea9153c6369608132add5908fc819d149d5d43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-988-2012",
+   "path": "ordin/mediu/2012/988",
+   "short": "Ordin mediu nr. 988/2012",
+   "title": "Ordinul nr. 988/2012 privind aprobarea derogării de la măsurile de protecție pentru unele specii de păsări aflate în mediul natural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136657",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136657",
+     "sha256": "ce2ecfb92fc0e80852bd86f1db0ee2880dda853958411917b072a4a28ffb22b6"
     }
    ]
   },
@@ -6160,7 +6685,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/143454",
    "versions": [
     {
-     "from": "2012-12-06",
+     "from": "2013-09-01",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143454",
      "sha256": "5d3c047de218e7fd9886b59aceb70528251d50d2db75dda8b6ea9eff06553cdb"
@@ -6175,7 +6700,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/143397",
    "versions": [
     {
-     "from": "2012-12-05",
+     "from": "2013-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143397",
      "sha256": "0838c530c75cafdd8e8036c589785260c31bdbebcb7281897df9d2faa6cce11d"
@@ -6895,7 +7420,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/139165",
    "versions": [
     {
-     "from": "2012-06-28",
+     "from": "2012-10-31",
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139165",
      "sha256": "71a29b0bbff3fca6db6cb568eb2a4550a30bcab80b6606d0b59aa2100d7921b0"
@@ -6925,7 +7450,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/139177",
    "versions": [
     {
-     "from": "2012-06-28",
+     "from": "2012-07-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139177",
      "sha256": "60b2ac801c92e126f32454df7ff0b758e1e3f4ba9a3ee234b6ba7adf381069d8"
@@ -7165,7 +7690,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/141516",
    "versions": [
     {
-     "from": "2012-09-26",
+     "from": "2012-10-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141516",
      "sha256": "1213871655f74c09cf9dfa9732bb7aeb4940c130a5986d86809faae044fb0b6d"
@@ -7353,6 +7878,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1107-2012",
+   "path": "ordin/transporturi/2012/1107",
+   "short": "Ordin transporturi nr. 1107/2012",
+   "title": "Ordinul nr. 1.107/2012 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere înmatriculate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139837",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139837",
+     "sha256": "5c8405ccd8e16a7e7dbed1a24b898a4fa60de00f679f4cb981fb0b0f7f328100"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1120-2012",
+   "path": "ordin/transporturi/2012/1120",
+   "short": "Ordin transporturi nr. 1120/2012",
+   "title": "Ordinul nr. 1.120/2012 privind modificarea Regulamentului pentru circulația trenurilor și manevra vehiculelor feroviare nr. 005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.816/2005, și a Regulamentului de semnalizare nr. 004, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.482/2006, precum și pentru modificarea și completarea Instrucțiunilor pentru activitatea personalului de locomotivă în transportul feroviar nr. 201, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.229/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139478",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139478",
+     "sha256": "b6681abd241988fcac7abbbcb44128a6f42c780a696e5827010b4011ff933f40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1145-2012",
+   "path": "ordin/transporturi/2012/1145",
+   "short": "Ordin transporturi nr. 1145/2012",
+   "title": "Ordinul nr. 1.145/2012 pentru modificarea și completarea normelor privind efectuarea inspecției și controlului în transporturile rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139970",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139970",
+     "sha256": "6f3ee6964c23f5c1b525cc7124525e1c379d36eace14500e817c9a7b4a3fd2c0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1165-2012",
    "path": "ordin/transporturi/2012/1165",
    "short": "Ordin transporturi nr. 1165/2012",
@@ -7379,6 +7949,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139973",
      "sha256": "5bf81a668f4f2806ee5418c7026238460c21ab5265ddf42120d78f9ecbdef0c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1253-2012",
+   "path": "ordin/transporturi/2012/1253",
+   "short": "Ordin transporturi nr. 1253/2012",
+   "title": "Ordinul nr. 1.253/2012 privind modificarea și completarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 628/2003 pentru aplicarea Acordului privind adoptarea de condiții uniforme pentru inspecțiile tehnice periodice ale vehiculelor rutiere și recunoașterea reciprocă a acestor inspecții, încheiat la Viena la 13 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140275",
+   "versions": [
+    {
+     "from": "2012-08-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140275",
+     "sha256": "ef67cf572065904cd66760265b2c0f628b986b92c1cd374d8f2694c48703711b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1254-2012",
+   "path": "ordin/transporturi/2012/1254",
+   "short": "Ordin transporturi nr. 1254/2012",
+   "title": "Ordinul nr. 1.254/2012 pentru modificarea și completarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140760",
+   "versions": [
+    {
+     "from": "2012-08-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140760",
+     "sha256": "9e7e205d6a66f1521c736fec57b15ce553bba490fab19d88acf2c143379bfdce"
     }
    ]
   },
@@ -7518,6 +8118,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1350-2012",
+   "path": "ordin/transporturi/2012/1350",
+   "short": "Ordin transporturi nr. 1350/2012",
+   "title": "Ordinul nr. 1.350/2012 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2006 pentru desemnarea și identificarea inspectorilor AVSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140967",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140967",
+     "sha256": "1d912e1a5fdf58cef0bb4b0a0d3a46b1b8be6256172f2b2640e17a0adb30813f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1352-2012",
    "path": "ordin/transporturi/2012/1352",
    "short": "Ordin transporturi nr. 1352/2012",
@@ -7533,6 +8148,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1358-2012",
+   "path": "ordin/transporturi/2012/1358",
+   "short": "Ordin transporturi nr. 1358/2012",
+   "title": "Ordinul nr. 1.358/2012 privind modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 457/2011 pentru aprobarea Strategiei de transport intermodal în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140958",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140958",
+     "sha256": "990d334400ba8b45eddc6bf8bcf39a46f042f1e2a8b1abb9fb82d1fb73789d66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1359-2012",
+   "path": "ordin/transporturi/2012/1359",
+   "short": "Ordin transporturi nr. 1359/2012",
+   "title": "Ordinul nr. 1.359/2012 pentru modificarea și completarea Normativului feroviar \"Vehicule de cale ferată. Tipuri de revizii și reparații planificate. Normele de timp sau normele de kilometri parcurși pentru efectuarea reviziilor și reparațiilor planificate\", aprobat prin Ordinul ministrului transporturilor și infrastructurii nr. 315/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141197",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141197",
+     "sha256": "a8beaf7a8b6f935691479c659c0a18105bcff93d6ce1ee9af0279b75d89d289e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1363-2012",
+   "path": "ordin/transporturi/2012/1363",
+   "short": "Ordin transporturi nr. 1363/2012",
+   "title": "Ordinul nr. 1.363/2012 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor și infrastructurii nr. 1.032/2011 pentru aprobarea listelor cuprinzând drumurile de interes național, cu masele și dimensiunile maxime admise în circulație pentru vehiculele rutiere de transport marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140982",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140982",
+     "sha256": "91fa95c87cea18ef006e67cb0beacef54351eb1d913542988765dc2cd51cc708"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1415-2012",
+   "path": "ordin/transporturi/2012/1415",
+   "short": "Ordin transporturi nr. 1415/2012",
+   "title": "Ordinul nr. 1.415/2012 privind modificarea temporară a unui tarif perceput de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141352",
+   "versions": [
+    {
+     "from": "2012-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141352",
+     "sha256": "8f7dedc0068880844ef82c79cd17d51299590e08b92ac108999d3c2a363817cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1417-2012",
    "path": "ordin/transporturi/2012/1417",
    "short": "Ordin transporturi nr. 1417/2012",
@@ -7544,6 +8219,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141366",
      "sha256": "59978a785012ada28422fedcc3225a9d0915448f6dc59e57027514fc9ac4ec4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1435-2012",
+   "path": "ordin/transporturi/2012/1435",
+   "short": "Ordin transporturi nr. 1435/2012",
+   "title": "Ordinul nr. 1.435/2012 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141511",
+   "versions": [
+    {
+     "from": "2012-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141511",
+     "sha256": "1948ef9fb92f6dbf04b610a428480f554e82ea8b787cb5d478af62fe2101fdcb"
     }
    ]
   },
@@ -7653,6 +8343,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1589-2012",
+   "path": "ordin/transporturi/2012/1589",
+   "short": "Ordin transporturi nr. 1589/2012",
+   "title": "Ordinul nr. 1.589/2012 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor anexei IV revizuite la MARPOL 73/78, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.070/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142564",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142564",
+     "sha256": "56f1b5703e9df7583ccf10f675e29ec9004607c861e31d4bf0c8fb059399ff5c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1623-2012",
    "path": "ordin/transporturi/2012/1623",
    "short": "Ordin transporturi nr. 1623/2012",
@@ -7664,6 +8369,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142691",
      "sha256": "f86c85f8f54d57630bd1b5e5a6cfb3c0800a4c95b514d1f3e7a0b01a22aee8e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1640-2012",
+   "path": "ordin/transporturi/2012/1640",
+   "short": "Ordin transporturi nr. 1640/2012",
+   "title": "Ordinul nr. 1.640/2012 pentru modificarea și completarea Normelor metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143101",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143101",
+     "sha256": "c2bac2b3c3b6548cb70e89565b76e5ed0da7baff7fa9570a36b2b2719235b89a"
     }
    ]
   },
@@ -7698,6 +8418,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1669-2012",
+   "path": "ordin/transporturi/2012/1669",
+   "short": "Ordin transporturi nr. 1669/2012",
+   "title": "Ordinul nr. 1.669/2012 privind abrogarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 956/2003 pentru aprobarea Regulamentului de exploatare portuară a porturilor maritime românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142938",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142938",
+     "sha256": "b4e7d6bc754af6f83d0b5a3a25c91ee1260727e16eaa9a5ce969e89eb652688a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1674-2012",
+   "path": "ordin/transporturi/2012/1674",
+   "short": "Ordin transporturi nr. 1674/2012",
+   "title": "Ordinul nr. 1.674/2012 pentru modificarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj, aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 536/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143109",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143109",
+     "sha256": "9868494064a06e2930a51ad1bd8b18a76bc23a758d34c13a81fc40004c97bbaa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1681-2012",
    "path": "ordin/transporturi/2012/1681",
    "short": "Ordin transporturi nr. 1681/2012",
@@ -7724,6 +8474,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143403",
      "sha256": "5557eb64d48f7dbef07ffa59dd459f1bf106b68cd0fbc42f56c421240a412f56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1692-2012",
+   "path": "ordin/transporturi/2012/1692",
+   "short": "Ordin transporturi nr. 1692/2012",
+   "title": "Ordinul nr. 1.692/2012 pentru modificarea art. 15 din Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.190/2005 privind utilizarea tarifului de securitate aeroportuară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143167",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143167",
+     "sha256": "fdca8027eafa7f14ff9fd59c650206bfcae1505446628062a60c4a3c5e9934d2"
     }
    ]
   },
@@ -7758,6 +8523,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-211-2012",
+   "path": "ordin/transporturi/2012/211",
+   "short": "Ordin transporturi nr. 211/2012",
+   "title": "Ordinul nr. 211/2012 pentru modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 146/2011 privind aprobarea condițiilor contractuale speciale ale contractelor pentru echipamente și construcții, inclusiv proiectare, și ale contractelor pentru construcții clădiri și lucrări inginerești proiectate de către beneficiar ale Federației Internaționale a Inginerilor Consultanți în Domeniul Construcțiilor (FIDIC), pentru obiectivele de investiții din domeniul infrastructurii rutiere de transport de interes național, finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136469",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136469",
+     "sha256": "0a5f22384b715131d3b8bbe16a2f598a343e78c9b5bc9e574e21e7a1b33c2379"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2166-2012",
+   "path": "ordin/transporturi/2012/2166",
+   "short": "Ordin transporturi nr. 2166/2012",
+   "title": "Ordinul nr. 2.166/2012 privind modificarea și completarea Normelor metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 769/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143274",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143274",
+     "sha256": "092d0bba7ca816dedd31a5d75bd9c241f9c44002dd97f60142b78bf77382abb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2178-2012",
+   "path": "ordin/transporturi/2012/2178",
+   "short": "Ordin transporturi nr. 2178/2012",
+   "title": "Ordinul nr. 2.178/2012 privind modificarea și completarea Ordinului ministrului transporturilor și infrastructurii nr. 744/2011 pentru stabilirea condițiilor care pot fi asociate tarifelor de aeroport și a criteriilor care pot fi aplicate la diferențierea tarifelor de aeroport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143426",
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143426",
+     "sha256": "934b69dae1266f85850f91a404348705f94e764f58d52cceb3a5445194f192ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2179-2012",
+   "path": "ordin/transporturi/2012/2179",
+   "short": "Ordin transporturi nr. 2179/2012",
+   "title": "Ordinul nr. 2.179/2012 pentru modificarea art. 16 din anexa nr. 2 la Ordinul ministrului transporturilor nr. 535/2007 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatelor de siguranță în vederea efectuării serviciilor de transport feroviar pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143661",
+   "versions": [
+    {
+     "from": "2013-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143661",
+     "sha256": "a2e1522558732c36d7195eed139efd088cde4dffcbe96e7f6336586c2a0086ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2180-2012",
    "path": "ordin/transporturi/2012/2180",
    "short": "Ordin transporturi nr. 2180/2012",
@@ -7788,6 +8613,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-221-2012",
+   "path": "ordin/transporturi/2012/221",
+   "short": "Ordin transporturi nr. 221/2012",
+   "title": "Ordinul nr. 221/2012 privind modificarea și înlocuirea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.681/2005 pentru aprobarea Listei standardelor românești care adoptă standardele europene armonizate, ale căror prevederi se referă la ambarcațiunile de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136928",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136928",
+     "sha256": "469efb7fa90aa3cd8490e450b0f03278196b65d7112cd3261fc3eb0f87030d9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2264-2012",
+   "path": "ordin/transporturi/2012/2264",
+   "short": "Ordin transporturi nr. 2264/2012",
+   "title": "Ordinul nr. 2.264/2012 pentru modificarea anexei la Normele privind pregătirea și atestarea profesională a conducătorilor auto care efectuează transport rutier de mărfuri periculoase, aprobate prin Ordinul ministrului transporturilor nr. 640/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144136",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144136",
+     "sha256": "6271661079725ec1aaf3ebcd10dc2a67f5330d9703e9ae404c276a7c90a353a7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-238-2012",
    "path": "ordin/transporturi/2012/238",
    "short": "Ordin transporturi nr. 238/2012",
@@ -7799,6 +8654,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136707",
      "sha256": "3d957815f44569c277268b4c96a446bb04563c81ddc99c9a19418ae29c0ce28f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-292-2012",
+   "path": "ordin/transporturi/2012/292",
+   "short": "Ordin transporturi nr. 292/2012",
+   "title": "Ordinul nr. 292/2012 privind modificarea Ordinului ministrului transporturilor și infrastructurii nr. 479/2010 pentru clasificarea aerodromurilor civile certificate din România și pentru aprobarea Reglementării aeronautice civile române privind autorizarea aerodromurilor civile - RACR-AD-AADC, ediția 1/2010, și a Reglementării aeronautice civile române privind amenajarea, utilizarea și înregistrarea aerodromurilor civile - RACR-AD-IADC, ediția 1/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137229",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137229",
+     "sha256": "6132c645e7a856fdc617535e1715d8465909f6c6663a6eadf0888a34d5c7c40a"
     }
    ]
   },
@@ -7878,6 +8748,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-38-2012",
+   "path": "ordin/transporturi/2012/38",
+   "short": "Ordin transporturi nr. 38/2012",
+   "title": "Ordinul nr. 38/2012 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134856",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134856",
+     "sha256": "999d3014adba27cc41e08e20f506e17d9c42647816f58a82635f09a527192f9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-450-2012",
+   "path": "ordin/transporturi/2012/450",
+   "short": "Ordin transporturi nr. 450/2012",
+   "title": "Ordinul nr. 450/2012 privind suspendarea aplicării prevederilor Ordinului ministrului transporturilor și infrastructurii nr. 69/2012 pentru aprobarea Reglementării aeronautice civile române RACR-CPPZI \"Cerințe privind proiectarea procedurilor de zbor instrumental\", ediția 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138550",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138550",
+     "sha256": "66c2b94aec0fd5166ce47ff9b939893e993be1cd961c6b65d9e44f5ddb53f2a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-496-2012",
+   "path": "ordin/transporturi/2012/496",
+   "short": "Ordin transporturi nr. 496/2012",
+   "title": "Ordinul nr. 496/2012 privind modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.473/2006 privind efectuarea formalităților de sosire/plecare în/din porturile românești a navelor de navigație interioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138584",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138584",
+     "sha256": "2635f987feddf7a15342cb699640f74c57b0e5b7b9fac7709180fd6497af817f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-5-2012",
+   "path": "ordin/transporturi/2012/5",
+   "short": "Ordin transporturi nr. 5/2012",
+   "title": "Ordinul nr. 5/2012 privind modificarea art. 10 alin. (1^1) din Normele metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 769/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134491",
+   "versions": [
+    {
+     "from": "2012-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134491",
+     "sha256": "eeddd54bcd575a5f4dece8da857abb71503c724628b7a0d7daedd3060671044f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-536-2012",
    "path": "ordin/transporturi/2012/536",
    "short": "Ordin transporturi nr. 536/2012",
@@ -7919,6 +8849,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135430",
      "sha256": "2b2dc80ae14b8f14a5604be3322d61ca5d049673c3b5b77a875bbb37ee5a45ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-70-2012",
+   "path": "ordin/transporturi/2012/70",
+   "short": "Ordin transporturi nr. 70/2012",
+   "title": "Ordinul nr. 70/2012 privind modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 605/2008 pentru aprobarea Reglementării Aeronautice Civile Române RACR-ATS \"Serviciile de trafic aerian\", ediția a 2-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135426",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135426",
+     "sha256": "beb4c9ae3f50ba3a2716a1377ed72e838e5e1c780cb6f48560b2b045e707b727"
     }
    ]
   },

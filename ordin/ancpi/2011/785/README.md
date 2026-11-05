@@ -1,8 +1,8 @@
 # Ordinul nr. 785/2011 pentru modificarea și completarea Regulamentului privind conținutul și modul de întocmire a documentațiilor cadastrale în vederea înscrierii în cartea funciară, aprobat prin Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 634/2006
 
-Ordin ancpi nr. 785/2011 · 1 versions, from 2011-06-09 (latest in force: 2011-06-09) · <https://legislatie.just.ro/Public/DetaliiDocument/129231>
+Ordin ancpi nr. 785/2011 · 1 versions, from 2011-07-09 (latest in force: 2011-07-09) · <https://legislatie.just.ro/Public/DetaliiDocument/129231>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 9 July 2011; this record still dates it from 9 June 2011, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-ancpi-785-2011` (tags `ordin-ancpi-785-2011/<day>`; `python tools
 - Ordin ancpi nr. 785/2011: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 129231 of the official web service.
 - Ordin ancpi nr. 785/2011: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 129231 of the official web service.
 - Ordin ancpi nr. 785/2011: the publisher's notes run into its text (*) Se va completa în cazul neprezentării documentelor solicitate în nota de completare sau când a fost depăşit termenul-; *) Se vor prezenta în format analogic (ca anexe) sau în format digital, în funcţie de tipul de documentaţie.) are not text.
-- Ordin ancpi nr. 785/2011: first published here dated 9 June 2011; its in-force clause states 9 July 2011. The record keeps the first date until it is corrected by hand.
+- Ordin ancpi nr. 785/2011: re-dated by a correction: in force from 9 July 2011 (first published dated 9 June 2011).

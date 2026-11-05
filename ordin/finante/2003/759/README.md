@@ -1,8 +1,8 @@
 # Ordinul nr. 759/2003 ORDIN nr. 759 bis din 12 iunie 2003 privind comercializarea produselor supuse autorizării
 
-Ordin finante nr. 759/2003 · 1 versions, from 2003-06-26 (latest in force: 2003-06-26) · <https://legislatie.just.ro/Public/DetaliiDocument/44683>
+Ordin finante nr. 759/2003 · 1 versions, from 2003-07-01 (latest in force: 2003-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/44683>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 July 2003; this record still dates it from 26 June 2003, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,4 +26,4 @@ Act id: `ordin-finante-759-2003` (tags `ordin-finante-759-2003/<day>`; `python t
 - Ordin finante nr. 759/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 759/2003: the first version is the order as published in Monitorul Oficial nr. 455 of 26 June 2003 (document 44683 of the official web service), in force on 1 July 2003, the day it states for itself.
 - Ordin finante nr. 759/2003: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 759/2003: first published here dated 26 June 2003; its in-force clause states 1 July 2003. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 759/2003: re-dated by a correction: in force from 1 July 2003 (first published dated 26 June 2003).

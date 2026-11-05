@@ -1,8 +1,8 @@
 # Ordinul nr. 950/2010 privind completarea art. 1 din Ordinul ministrului sănătății nr. 241/2010 pentru aprobarea prețurilor la medicamentele cuprinse în Catalogul național al prețurilor medicamentelor de uz uman autorizate de punere pe piață în România
 
-Ordin sanatate nr. 950/2010 · 1 versions, from 2010-06-29 (latest in force: 2010-06-29) · <https://legislatie.just.ro/Public/DetaliiDocument/119905>
+Ordin sanatate nr. 950/2010 · 1 versions, from 2010-07-01 (latest in force: 2010-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/119905>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 July 2010; this record still dates it from 29 June 2010, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-sanatate-950-2010` (tags `ordin-sanatate-950-2010/<day>`; `python
 - Ordin sanatate nr. 950/2010: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 950/2010: the first version is the order as published in Monitorul Oficial nr. 434 of 29 June 2010 (document 119905 of the official web service), in force on 1 July 2010, the day it states for itself.
 - Ordin sanatate nr. 950/2010: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 950/2010: first published here dated 29 June 2010; its in-force clause states 1 July 2010. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 950/2010: re-dated by a correction: in force from 1 July 2010 (first published dated 29 June 2010).

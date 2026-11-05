@@ -1,8 +1,8 @@
 # Ordinul nr. 3.230/2022 privind aprobarea reglementării tehnice "Ghid pentru realizarea de lucrări de intervenții integrate la clădirile rezidențiale multifamiliale și la clădirile publice, indicativ RTC 1 - 2022"
 
-Ordin dezvoltare nr. 3230/2022 · 1 versions, from 2022-12-19 (latest in force: 2022-12-19) · <https://legislatie.just.ro/Public/DetaliiDocument/262849>
+Ordin dezvoltare nr. 3230/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://legislatie.just.ro/Public/DetaliiDocument/262849>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 18 January 2023; this record still dates it from 19 December 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-dezvoltare-3230-2022` (tags `ordin-dezvoltare-3230-2022/<day>`; `
 - Ordin dezvoltare nr. 3230/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 3230/2022: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 14 decembrie 2022 Ghid pentru realizarea de lucrări de intervenții integrate la clădirile rezidențiale multifamiliale și la clădirile publice, indicativ RTC 1 - 2022) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 263752 of the official web service.
 - Ordin dezvoltare nr. 3230/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 1213 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, B" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
-- Ordin dezvoltare nr. 3230/2022: first published here dated 19 December 2022; its in-force clause states 18 January 2023. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 3230/2022: re-dated by a correction: in force from 18 January 2023 (first published dated 19 December 2022).

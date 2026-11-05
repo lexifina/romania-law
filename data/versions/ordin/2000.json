@@ -1810,7 +1810,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/23064",
    "versions": [
     {
-     "from": "2000-06-30",
+     "from": "2000-07-15",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23064",
      "sha256": "4c0cb30e64584b4425cf1f21448aaed0104d88e5acd16ea5f9493634b9024738"
@@ -2144,6 +2144,186 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24285",
      "sha256": "515bf03e6092a5bb77e2ec26c8d49616e8702f801030fbc0afb2ec78f25e6707"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1325-2000",
+   "path": "ordin/mediu/2000/1325",
+   "short": "Ordin mediu nr. 1325/2000",
+   "title": "Ordinul nr. 1.325/2000 privind participarea publicului, prin reprezentanții săi, la pregătirea planurilor, programelor, politicilor și legislației privind mediul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25064",
+   "versions": [
+    {
+     "from": "2000-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25064",
+     "sha256": "4be873b8a57a839609d0ae553a3c0e65a0a5fd8866de2615e1592bf1624e8ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1618-2000",
+   "path": "ordin/mediu/2000/1618",
+   "short": "Ordin mediu nr. 1618/2000",
+   "title": "Ordinul nr. 1.618/2000 pentru aprobarea secțiunilor reprezentative din cadrul Sistemului național de supraveghere a calității apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26026",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26026",
+     "sha256": "ae0fa720225078dd3dea69ef3b0c315ec93d74c8a9fe020a51b1b9b22ead8cc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-261-2000",
+   "path": "ordin/mediu/2000/261",
+   "short": "Ordin mediu nr. 261/2000",
+   "title": "Ordinul nr. 261/2000 privind aprobarea repartizării volumului de masa lemnoasă pe picior, aprobat pentru recoltare în anul 2000, din pădurile proprietate privată a persoanelor fizice, din pășunile împădurite, aliniamentele de arbori și din pădurile sau terenurile cu vegetație forestieră, administrate de persoane juridice, altele decât Regia Naționala a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22436",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22436",
+     "sha256": "fd1a2c3c997d74eca8f0e4210c4b691e2417470a4236f6789d150fd1e5173024"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-323-2000",
+   "path": "ordin/mediu/2000/323",
+   "short": "Ordin mediu nr. 323/2000",
+   "title": "Ordinul nr. 323/2000 pentru aprobarea prețului mediu al unui metru cub de masa lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22162",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22162",
+     "sha256": "9fb8f6c3c4e7cb24f15b897d3f831d3ac451911b50033861a87930fe60e6471b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-340-2000",
+   "path": "ordin/mediu/2000/340",
+   "short": "Ordin mediu nr. 340/2000",
+   "title": "Ordinul nr. 340/2000 pentru aprobarea Nomenclatorului de lucrări și servicii care se prestează de către autoritățile pentru protecția mediului în regim de tarifare și cuantumul tarifelor aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21806",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21806",
+     "sha256": "b6b82d002c609c696031b26e3b27d89bdac8d2409202f26db9a9f0a6c1fe99e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-371-2000",
+   "path": "ordin/mediu/2000/371",
+   "short": "Ordin mediu nr. 371/2000",
+   "title": "Ordinul nr. 371/2000 privind stabilirea nivelului tarifelor și prețurilor minime care se percep vânătorilor, cetățeni străini, pentru acțiuni de vânătoare în România, în sezonul de vânătoare 2000-2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22654",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22654",
+     "sha256": "dc3e82d126211a44e54983be3de037027168c84852d3b913945b137fd97d59f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-442-2000",
+   "path": "ordin/mediu/2000/442",
+   "short": "Ordin mediu nr. 442/2000",
+   "title": "Ordinul nr. 442/2000 privind identificarea terenurilor forestiere exceptate de la reconstituirea dreptului de proprietate pe vechile amplasamente, aflate sub observația și în administrarea Institutului de Cercetări și Amenajări Silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22226",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22226",
+     "sha256": "1bf28ffe700e2520ed44d42a7dcdf88a6005b997d43a9a10ba5714c6e4c8f437"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-552-2000",
+   "path": "ordin/mediu/2000/552",
+   "short": "Ordin mediu nr. 552/2000",
+   "title": "Ordinul nr. 552/2000 pentru aprobarea Normelor privind atestarea inspectorilor voluntari de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23625",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23625",
+     "sha256": "4c8873ab436e0d5ad0615133c390618cb18447923a1634cf8c8cc893c28edff0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-569-2000",
+   "path": "ordin/mediu/2000/569",
+   "short": "Ordin mediu nr. 569/2000",
+   "title": "Ordinul nr. 569/2000 privind stabilirea nivelului tarifelor minime ce se vor percepe vânătorilor români pentru acțiuni de vânătoare în România în sezonul de vânătoare 2000 - 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23642",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23642",
+     "sha256": "9126e3966bfb8d2f91708c88f2397c30eff97c94e4d9e692cdcdc493b30913c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-573-2000",
+   "path": "ordin/mediu/2000/573",
+   "short": "Ordin mediu nr. 573/2000",
+   "title": "Ordinul nr. 573/2000 privind aprobarea cotelor de recolta la căprior (Capreolus capreolus) pentru sezonul de vânătoare 2000-2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23644",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23644",
+     "sha256": "191ae9f2225712150a9edf2c6b174660b05586e7a56695c37788917041302e62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-664-2000",
+   "path": "ordin/mediu/2000/664",
+   "short": "Ordin mediu nr. 664/2000",
+   "title": "Ordinul nr. 664/2000 pentru aprobarea Regulamentului privind atribuirea în gestiune a fondurilor de vânătoare și organizarea licitațiilor pentru atribuirea în gestiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23026",
+   "versions": [
+    {
+     "from": "2000-06-28",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23026",
+     "sha256": "a27212bee58e43ccc99f3eac7313aad117fb3c6ed2bd0dca4213a872fa809614"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-668-2000",
+   "path": "ordin/mediu/2000/668",
+   "short": "Ordin mediu nr. 668/2000",
+   "title": "Ordinul nr. 668/2000 privind identificarea terenurilor forestiere exceptate de la reconstituirea dreptului de proprietate pe vechile amplasamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23864",
+   "versions": [
+    {
+     "from": "2000-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23864",
+     "sha256": "900cfb8cab8f509d68b7a958709deeee3f22b438eee6a944b178018540f54a35"
     }
    ]
   },
@@ -2530,7 +2710,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/24217",
    "versions": [
     {
-     "from": "2000-09-08",
+     "from": "2000-11-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24217",
      "sha256": "0a0c8a6048c8e6a429edba21665cfedcfbd100cbc4f28021faaf2be61aefd275"
@@ -2673,6 +2853,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-212-2000",
+   "path": "ordin/transporturi/2000/212",
+   "short": "Ordin transporturi nr. 212/2000",
+   "title": "Ordinul nr. 212/2000 pentru modificarea și completarea Statutului Casei Asigurărilor de Sănătate a Transporturilor, aprobat prin Ordinul ministrului transporturilor nr. 747/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22393",
+   "versions": [
+    {
+     "from": "2000-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22393",
+     "sha256": "ae3375b968143a51bfc16901e9473a7639cb199655dba6c3e1a0e47559752094"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-215-2000",
    "path": "ordin/transporturi/2000/215",
    "short": "Ordin transporturi nr. 215/2000",
@@ -2763,6 +2958,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-346-2000",
+   "path": "ordin/transporturi/2000/346",
+   "short": "Ordin transporturi nr. 346/2000",
+   "title": "Ordinul nr. 346/2000 privind modificarea și completarea Ordinului ministrului transporturilor nr. 78/1999 pentru aprobarea Nomenclatorului activităților de administrare, exploatare, întreținere și reparații la drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22641",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22641",
+     "sha256": "6f79ab2324a8c200635d2df6d2cf936226b4ea41d0667f3c98bd2f1011599d33"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-412-2000",
    "path": "ordin/transporturi/2000/412",
    "short": "Ordin transporturi nr. 412/2000",
@@ -2819,6 +3029,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23816",
      "sha256": "94fd641ba9c146714c08df9b546b01a672911ed9cfba193ce45f96c3c78fe31b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-538-2000",
+   "path": "ordin/transporturi/2000/538",
+   "short": "Ordin transporturi nr. 538/2000",
+   "title": "Ordinul nr. 538/2000 privind modificarea Ordinului ministrului transporturilor nr. 536/1997 pentru aprobarea Reglementărilor privind certificarea și/sau omologarea echipamentelor, pieselor de schimb și materialelor utilizate la vehicule rutiere și autorizarea agenților economici care prestează servicii de reparații sau desfășoară activitate de reconstrucție a vehiculelor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24052",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24052",
+     "sha256": "df0174d0e439e0de8c3658f8ec29a83c33cf2fbdabe7e3cf51a28db3725f68f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-552-2000",
+   "path": "ordin/transporturi/2000/552",
+   "short": "Ordin transporturi nr. 552/2000",
+   "title": "Ordinul nr. 552/2000 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor nr. 288/1999 privind aprobarea Normelor tehnice pentru construcții navale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23873",
+   "versions": [
+    {
+     "from": "2000-08-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23873",
+     "sha256": "8eb881667d5965405a447e1dbf4a5c9a5615900170e649fcbdc27b8130696299"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-565-2000",
+   "path": "ordin/transporturi/2000/565",
+   "short": "Ordin transporturi nr. 565/2000",
+   "title": "Ordinul nr. 565/2000 privind modificarea și completarea Ordinului ministrului transporturilor nr. 353/1998 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică - RNTR 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23993",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23993",
+     "sha256": "2060649247eab9f072fb3a5a56e8307e6caba306b784d09ba2c659c1632c9906"
     }
    ]
   },
@@ -2943,6 +3198,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-803-2000",
+   "path": "ordin/transporturi/2000/803",
+   "short": "Ordin transporturi nr. 803/2000",
+   "title": "Ordinul nr. 803/2000 pentru modificarea pct. 56 și 57 din anexa la Ordinul ministrului transporturilor nr. 777/1999 privind aprobarea tarifelor pentru prestații și servicii efectuate de Inspectoratul Navigației Civile - I.N.C. și de căpităniile de port din subordine la navele sub pavilion român și străin în porturile din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25063",
+   "versions": [
+    {
+     "from": "2000-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25063",
+     "sha256": "919dec489e406df82947256c1d1028d7e16bc83ee4f480a36d232b7048cf37c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-813-2000",
+   "path": "ordin/transporturi/2000/813",
+   "short": "Ordin transporturi nr. 813/2000",
+   "title": "Ordinul nr. 813/2000 pentru modificarea Reglementării privind acordarea licenței de transport aerian, aprobată prin Ordinul ministrului transporturilor nr. 578/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25593",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25593",
+     "sha256": "8badf0d4467547bb20fe3c6a1beea5ac60810b6c07ca5933272b9ae9c1290af6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-814-2000",
    "path": "ordin/transporturi/2000/814",
    "short": "Ordin transporturi nr. 814/2000",
@@ -2954,6 +3239,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25592",
      "sha256": "7758364d911673d29a6f8a090f80b8685f4163c79d4cb26d296b64c8194e9775"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-818-2000",
+   "path": "ordin/transporturi/2000/818",
+   "short": "Ordin transporturi nr. 818/2000",
+   "title": "Ordinul nr. 818/2000 privind modificarea Ordinului ministrului transporturilor nr. 247/1999 pentru aprobarea aplicării Reglementării europene JAR 145 - Autorizarea organizațiilor de întreținere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25591",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25591",
+     "sha256": "56ac169467e5aa70052db8d2d33a1e70c16d57e723cacbb6e9d23322bfa34d43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-825-2000",
+   "path": "ordin/transporturi/2000/825",
+   "short": "Ordin transporturi nr. 825/2000",
+   "title": "Ordinul nr. 825/2000 privind modificarea și completarea art. 6 din Ordinul ministrului transporturilor nr. 595/2000 pentru aprobarea Normelor metodologice de autorizare a agenților economici care prestează servicii în porturi, pe cai și canale navigabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25059",
+   "versions": [
+    {
+     "from": "2000-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25059",
+     "sha256": "f30ba8d7b64f98bc41bd6136703b1e9440665cf460f86b7d6ada496d76c72ab5"
     }
    ]
   },
@@ -3003,6 +3318,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-924-2000",
+   "path": "ordin/transporturi/2000/924",
+   "short": "Ordin transporturi nr. 924/2000",
+   "title": "Ordinul nr. 924/2000 pentru aprobarea Reglementărilor și normelor tehnice privind modificarea instalațiilor de alimentare a motoarelor autovehiculelor, care au fost omologate pentru circulația pe drumurile publice din România cu un anumit carburant prevăzut de constructor, pentru funcționarea și cu gaze petroliere lichefiate (GPL) și autorizarea agenților economici care execută montarea, reviziile tehnice și repararea instalațiilor de alimentare a motoarelor cu GPL - RNTR 6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26479",
+   "versions": [
+    {
+     "from": "2001-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26479",
+     "sha256": "8c069a532ba1f2cebb39310d93ca7e99ad5eab3e80bf11ab750706aea5bbc044"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-925-2000",
    "path": "ordin/transporturi/2000/925",
    "short": "Ordin transporturi nr. 925/2000",
@@ -3014,6 +3344,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25871",
      "sha256": "85fd7aa3de098df6d3387759c80ac83fefa78b8bf6da8e887a1b0ecbbff6f43d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-930-2000",
+   "path": "ordin/transporturi/2000/930",
+   "short": "Ordin transporturi nr. 930/2000",
+   "title": "Ordinul nr. 930/2000 privind modificarea Ordinului ministrului transporturilor nr. 251/1999 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25891",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25891",
+     "sha256": "0f2002fbc7b6497ba12e068bdd720806ee9a83c5445bb9cd051a137bcc6b5a1a"
     }
    ]
   }

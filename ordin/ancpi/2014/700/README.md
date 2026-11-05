@@ -1,8 +1,8 @@
 # Ordinul nr. 700/2014 privind aprobarea Regulamentului de avizare, recepție și înscriere în evidențele de cadastru și carte funciară
 
-Ordin ancpi nr. 700/2014 · 1 versions, from 2014-07-31 (latest in force: 2014-07-31) · <https://legislatie.just.ro/Public/DetaliiDocument/160315>
+Ordin ancpi nr. 700/2014 · 1 versions, from 2014-08-30 (latest in force: 2014-08-30) · <https://legislatie.just.ro/Public/DetaliiDocument/160315>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 09/07/2014): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Regulament of 2014-07-09); a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 30 August 2014; this record still dates it from 31 July 2014, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 09/07/2014): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Regulament of 2014-07-09); a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-ancpi-700-2014` (tags `ordin-ancpi-700-2014/<day>`; `python tools
 - Ordin ancpi nr. 700/2014: Anexa nr. 1 (REGULAMENT 09/07/2014) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin ancpi nr. 700/2014: an annex it points to (Regulament of 2014-07-09) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin ancpi nr. 700/2014: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 571 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
-- Ordin ancpi nr. 700/2014: first published here dated 31 July 2014; its in-force clause states 30 August 2014. The record keeps the first date until it is corrected by hand.
+- Ordin ancpi nr. 700/2014: re-dated by a correction: in force from 30 August 2014 (first published dated 31 July 2014).

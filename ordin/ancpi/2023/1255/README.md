@@ -1,8 +1,8 @@
 # Ordinul nr. 1.255/2023 privind modificarea și completarea Regulamentului de recepție și înscriere în evidențele de cadastru și carte funciară, aprobat prin Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 600/2023
 
-Ordin ancpi nr. 1255/2023 · 1 versions, from 2023-07-17 (latest in force: 2023-07-17) · <https://legislatie.just.ro/Public/DetaliiDocument/272176>
+Ordin ancpi nr. 1255/2023 · 1 versions, from 2023-08-01 (latest in force: 2023-08-01) · <https://legislatie.just.ro/Public/DetaliiDocument/272176>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 10 (*) *) Anexa nr. 10 este reprodusă în facsimil. (Anexa nr. 16 la regulament) Plan de amplasament și delimitare a imobilului): it is an image, and the official text holds no text for it; Anexa nr. 11 (*) *) Anexa nr. 11 este reprodusă în facsimil. (Anexa nr. 17 la regulament) Plan de amplasament și delimitare a imobilului cu propunerea de dezlipire): it is an image, and the official text holds no text for it. Its in-force clause states 1 August 2023; this record still dates it from 17 July 2023, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 10 (*) *) Anexa nr. 10 este reprodusă în facsimil. (Anexa nr. 16 la regulament) Plan de amplasament și delimitare a imobilului): it is an image, and the official text holds no text for it; Anexa nr. 11 (*) *) Anexa nr. 11 este reprodusă în facsimil. (Anexa nr. 17 la regulament) Plan de amplasament și delimitare a imobilului cu propunerea de dezlipire): it is an image, and the official text holds no text for it.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -47,4 +47,4 @@ Act id: `ordin-ancpi-1255-2023` (tags `ordin-ancpi-1255-2023/<day>`; `python too
 - Ordin ancpi nr. 1255/2023: Anexa nr. 9 ((Anexa nr. 15 la regulament) MEMORIU TEHNIC 1. Adresa imobilului/zona în care se desfășoară lucrarea..................... 2. Tipul lucrării:..................... 3. Suprafața planului supus recepției.) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 272176 of the official web service.
 - Ordin ancpi nr. 1255/2023: Anexa nr. 10 (*) *) Anexa nr. 10 este reprodusă în facsimil. (Anexa nr. 16 la regulament) Plan de amplasament și delimitare a imobilului) is not included yet: it is an image, and the official text holds no text for it. It will be added when it can be published in full.
 - Ordin ancpi nr. 1255/2023: Anexa nr. 11 (*) *) Anexa nr. 11 este reprodusă în facsimil. (Anexa nr. 17 la regulament) Plan de amplasament și delimitare a imobilului cu propunerea de dezlipire) is not included yet: it is an image, and the official text holds no text for it. It will be added when it can be published in full.
-- Ordin ancpi nr. 1255/2023: first published here dated 17 July 2023; its in-force clause states 1 August 2023. The record keeps the first date until it is corrected by hand.
+- Ordin ancpi nr. 1255/2023: re-dated by a correction: in force from 1 August 2023 (first published dated 17 July 2023).

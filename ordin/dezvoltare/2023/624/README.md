@@ -1,8 +1,8 @@
 # Ordinul nr. 624/2023 privind aprobarea demarării unei noi sesiuni de depuneri de cereri de finanțare prin Programul național de investiții "Anghel Saligny", pentru județele Bistrița-Năsăud, Brăila, Constanța, Dolj, Galați, Harghita, Hunedoara, Ialomița, Mehedinți, Vrancea
 
-Ordin dezvoltare nr. 624/2023 · 1 versions, from 2023-04-06 (latest in force: 2023-04-06) · <https://legislatie.just.ro/Public/DetaliiDocument/266632>
+Ordin dezvoltare nr. 624/2023 · 1 versions, from 2023-04-09 (latest in force: 2023-04-09) · <https://legislatie.just.ro/Public/DetaliiDocument/266632>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 9 April 2023; this record still dates it from 6 April 2023, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,4 +18,4 @@ Act id: `ordin-dezvoltare-624-2023` (tags `ordin-dezvoltare-624-2023/<day>`; `py
 - Ordin dezvoltare nr. 624/2023: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin dezvoltare nr. 624/2023: the first version is the order as published in Monitorul Oficial nr. 287 of 6 April 2023 (document 266632 of the official web service), in force on 9 April 2023, the day it states for itself.
 - Ordin dezvoltare nr. 624/2023: the signatures and the place and date line after its last article are not article text.
-- Ordin dezvoltare nr. 624/2023: first published here dated 6 April 2023; its in-force clause states 9 April 2023. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 624/2023: re-dated by a correction: in force from 9 April 2023 (first published dated 6 April 2023).

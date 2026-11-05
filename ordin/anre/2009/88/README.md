@@ -1,8 +1,8 @@
 # Ordinul nr. 88/2009 pentru aprobarea Procedurii privind schimbarea furnizorului de energie electrică
 
-Ordin anre nr. 88/2009 · 1 versions, from 2009-12-09 (latest in force: 2009-12-09) · <https://legislatie.just.ro/Public/DetaliiDocument/114325>
+Ordin anre nr. 88/2009 · 1 versions, from 2010-01-01 (latest in force: 2010-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/114325>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2010; this record still dates it from 9 December 2009, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -46,4 +46,4 @@ Act id: `ordin-anre-88-2009` (tags `ordin-anre-88-2009/<day>`; `python tools/on.
 - Ordin anre nr. 88/2009: the first version is the order as published in Monitorul Oficial nr. 856 of 9 December 2009 (document 114325 of the official web service), in force on 1 January 2010, the day it states for itself.
 - Ordin anre nr. 88/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 88/2009: Anexa nr. 1 (PROCEDURĂ din 12 noiembrie 2009 privind schimbarea furnizorului de energie electrică) is part of the order and is published in its folder, anexa-1/ (23 articles), from document 114326 of the official web service.
-- Ordin anre nr. 88/2009: first published here dated 9 December 2009; its in-force clause states 1 January 2010. The record keeps the first date until it is corrected by hand.
+- Ordin anre nr. 88/2009: re-dated by a correction: in force from 1 January 2010 (first published dated 9 December 2009).

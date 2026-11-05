@@ -1,8 +1,8 @@
 # Ordinul nr. 974/1999 privind actualizarea accizelor stabilite în lei prin Ordonanța de urgență a Guvernului nr. 82/1997, cu modificările ulterioare
 
-Ordin finante nr. 974/1999 · 1 versions, from 1999-09-02 (latest in force: 1999-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/19167>
+Ordin finante nr. 974/1999 · 1 versions, from 1999-09-06 (latest in force: 1999-09-06) · <https://legislatie.just.ro/Public/DetaliiDocument/19167>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 6 September 1999; this record still dates it from 2 September 1999, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,4 +29,4 @@ Act id: `ordin-finante-974-1999` (tags `ordin-finante-974-1999/<day>`; `python t
 - Ordin finante nr. 974/1999: Anexa nr. 1 (1 LISTA cuprinzând taxele speciale de consumație (accize) Nr. crt. Denumirea produsului sau a grupei de produse U.M. Acciza (lei/U.M.) 0 1 2 3 A. Alcool etilic alimentar, băuturi alcoolice și orice al) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 19167 of the official web service.
 - Ordin finante nr. 974/1999: Anexa nr. 2 (2 LISTA cuprinzând taxele speciale de consumație (accize) pentru alte produse și grupe de produse din import și din țara Nr. crt. Denumirea produsului sau a grupei de produse U.M. Acciza (lei/U.M.) 0) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 19167 of the official web service.
 - Ordin finante nr. 974/1999: Anexa nr. 3 (3 LISTA cuprinzând impozitul la țițeiul și la gazele naturale din producția interna Nr. crt. Denumirea produsului sau a grupei de produse U.M. Impozitul (lei/U.M.) 0 1 2 3 1. Țiței tonă 67.100 2. Gaze) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 19167 of the official web service.
-- Ordin finante nr. 974/1999: first published here dated 2 September 1999; its in-force clause states 6 September 1999. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 974/1999: re-dated by a correction: in force from 6 September 1999 (first published dated 2 September 1999).

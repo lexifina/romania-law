@@ -1,8 +1,8 @@
 # Ordinul nr. 152/2020 privind aprobarea Normei pentru siguranța alimentelor de origine nonanimală care stabilește condițiile în care se derulează operațiunile de import, export, tranzit și comerț intraunional de produse alimentare de origine nonanimală și de produse chimice anorganice și organice care sunt utilizate ca ingrediente pentru prepararea alimentelor destinate consumului uman supuse controlului oficial pentru siguranța alimentelor
 
-Ordin ansvsa nr. 152/2020 · 1 versions, from 2020-09-29 (latest in force: 2020-09-29) · <https://legislatie.just.ro/Public/DetaliiDocument/230500>
+Ordin ansvsa nr. 152/2020 · 1 versions, from 2020-11-13 (latest in force: 2020-11-13) · <https://legislatie.just.ro/Public/DetaliiDocument/230500>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 13 November 2020; this record still dates it from 29 September 2020, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-ansvsa-152-2020` (tags `ordin-ansvsa-152-2020/<day>`; `python too
 - Ordin ansvsa nr. 152/2020: the signatures and the place and date line after its last article are not article text.
 - Ordin ansvsa nr. 152/2020: Anexa nr. 1 (NORMA pentru siguranța alimentelor de origine nonanimală care stabilește condițiile în care se derulează operațiunile de import, export, tranzit și comerț intraunional de produse alimentare de origine) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 230500 of the official web service.
 - Ordin ansvsa nr. 152/2020: a joint order of Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 152 din 4 September 2020; Agenția Națională de Administrare Fiscală nr. 3.476 din 10 September 2020. It is published once, here, under the issuer its EMITENT block lists first; `ordin-anaf-3476-2020` name it too (data/paths.json aliases).
-- Ordin ansvsa nr. 152/2020: first published here dated 29 September 2020; its in-force clause states 13 November 2020. The record keeps the first date until it is corrected by hand.
+- Ordin ansvsa nr. 152/2020: re-dated by a correction: in force from 13 November 2020 (first published dated 29 September 2020).

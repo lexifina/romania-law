@@ -1,8 +1,8 @@
 # Ordinul nr. 763/2016 privind aprobarea Normelor metodologice de aplicare în anul 2016 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017
 
-Ordin sanatate nr. 763/2016 · 1 versions, from 2016-06-27 (latest in force: 2016-06-27) · <https://legislatie.just.ro/Public/DetaliiDocument/179485>
+Ordin sanatate nr. 763/2016 · 1 versions, from 2016-07-01 (latest in force: 2016-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/179485>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause states 1 July 2016; this record still dates it from 27 June 2016, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-sanatate-763-2016` (tags `ordin-sanatate-763-2016/<day>`; `python
 - Ordin sanatate nr. 763/2016: Anexa nr. 1 (1-51 NORMA 22/06/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 179485 of the official web service.
 - Ordin sanatate nr. 763/2016: the publisher's note "*) Anexele nr. 1-51 se publică în Monitorul Oficial al României, Partea I, nr. 477 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucur" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Ordin sanatate nr. 763/2016: a joint order of Ministerul Sănătății nr. 763 din 22 June 2016; Casa Națională de Asigurări de Sănătate nr. 377 din 21 June 2016. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-377-2016` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 763/2016: first published here dated 27 June 2016; its in-force clause states 1 July 2016. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 763/2016: re-dated by a correction: in force from 1 July 2016 (first published dated 27 June 2016).

@@ -1,8 +1,8 @@
 # Ordinul nr. 705/2026 pentru aprobarea Procedurii privind desfășurarea întâlnirilor dintre organul fiscal central și contribuabili prin utilizarea mijloacelor video de comunicare la distanță
 
-Ordin anaf nr. 705/2026 · 1 versions, from 2026-06-15 (latest in force: 2026-06-15) · <https://legislatie.just.ro/Public/DetaliiDocument/311359>
+Ordin anaf nr. 705/2026 · 1 versions, from 2026-06-17 (latest in force: 2026-06-17) · <https://legislatie.just.ro/Public/DetaliiDocument/311359>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 17 June 2026; this record still dates it from 15 June 2026, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -41,4 +41,4 @@ Act id: `ordin-anaf-705-2026` (tags `ordin-anaf-705-2026/<day>`; `python tools/o
 - Ordin anaf nr. 705/2026: the first version is the order as published in Monitorul Oficial nr. 494 of 15 June 2026 (document 311359 of the official web service), in force on 17 June 2026, the day it states for itself.
 - Ordin anaf nr. 705/2026: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 705/2026: Anexa nr. 1 (PROCEDURĂ din 5 iunie 2026 privind desfășurarea întâlnirilor dintre organul fiscal central și contribuabili prin utilizarea mijloacelor video de comunicare la distanță) is part of the order and is published in its folder, anexa-1/ (8 articles), from document 311360 of the official web service.
-- Ordin anaf nr. 705/2026: first published here dated 15 June 2026; its in-force clause states 17 June 2026. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 705/2026: re-dated by a correction: in force from 17 June 2026 (first published dated 15 June 2026).

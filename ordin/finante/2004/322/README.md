@@ -1,8 +1,8 @@
 # Ordinul nr. 322/2004 privind stabilirea indemnizațiilor lunare ale membrilor comisiilor prevăzute de Ordonanța Guvernului nr. 128/1998
 
-Ordin finante nr. 322/2004 · 1 versions, from 2004-03-03 (latest in force: 2004-03-03) · <https://legislatie.just.ro/Public/DetaliiDocument/50134>
+Ordin finante nr. 322/2004 · 1 versions, from 2004-04-01 (latest in force: 2004-04-01) · <https://legislatie.just.ro/Public/DetaliiDocument/50134>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 April 2004; this record still dates it from 3 March 2004, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,4 @@ Act id: `ordin-finante-322-2004` (tags `ordin-finante-322-2004/<day>`; `python t
 - Ordin finante nr. 322/2004: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 322/2004: the first version is the order as published in Monitorul Oficial nr. 185 of 3 March 2004 (document 50134 of the official web service), in force on 1 April 2004, the day it states for itself.
 - Ordin finante nr. 322/2004: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 322/2004: first published here dated 3 March 2004; its in-force clause states 1 April 2004. The record keeps the first date until it is corrected by hand.
+- Ordin finante nr. 322/2004: re-dated by a correction: in force from 1 April 2004 (first published dated 3 March 2004).

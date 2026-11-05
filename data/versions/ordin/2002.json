@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-140-2002",
+   "path": "ordin/agricultura/2002/140",
+   "short": "Ordin agricultura nr. 140/2002",
+   "title": "Ordinul nr. 140/2002 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34831",
+   "versions": [
+    {
+     "from": "2002-04-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34831",
+     "sha256": "84338b58a59ca74738ad37dbc5a0515b4c155c6cdd1e43a4b0ce56a3a1b8da96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-143-2002",
+   "path": "ordin/agricultura/2002/143",
+   "short": "Ordin agricultura nr. 143/2002",
+   "title": "Ordinul nr. 143/2002 pentru aprobarea Instrucțiunilor privind adăpostirea și îngrijirea animalelor folosite în scopuri științifice sau în alte scopuri experimentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38545",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38545",
+     "sha256": "a5c2c71e5681083ca5765c98fe1d82b430ab34dfffad82a55170639220f56daa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-145-2002",
    "path": "ordin/agricultura/2002/145",
    "short": "Ordin agricultura nr. 145/2002",
@@ -1004,6 +1034,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35535",
      "sha256": "f41762fa07e82493871abf75f10cef2b6134688dc2b2af67fd1c86f1ed97081b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-202-2002",
+   "path": "ordin/cncan/2002/202",
+   "short": "Ordin cncan nr. 202/2002",
+   "title": "Ordinul nr. 202/2002 pentru aprobarea Normelor privind eliberarea permiselor de exercitare a activităților nucleare și desemnarea experților acreditați în protecție radiologica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40865",
+   "versions": [
+    {
+     "from": "2002-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40865",
+     "sha256": "97d82b7638ef5a210eee05f27705c4333652d1699f82d89f7fc516a86e287c6d"
     }
    ]
   },
@@ -4518,6 +4563,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1043-2002",
+   "path": "ordin/mediu/2002/1043",
+   "short": "Ordin mediu nr. 1043/2002",
+   "title": "Ordinul nr. 1.043/2002 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile de plată la veniturile Fondului pentru mediu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40146",
+   "versions": [
+    {
+     "from": "2002-11-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40146",
+     "sha256": "d07d1ce1b90b1aa8e018bd36fa8b69462ac18e3ee5571e1408a5d13ffa3c8eee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-106-2002",
+   "path": "ordin/mediu/2002/106",
+   "short": "Ordin mediu nr. 106/2002",
+   "title": "Ordinul nr. 106/2002 pentru aprobarea Normelor privind cerințele pentru calificarea personalului care asigura paza și protecția materialelor și instalațiilor protejate în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36618",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36618",
+     "sha256": "4efad5155c58ace18387de1fd13c22374f26568cb54a2f78fb1e90a748e74f5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1103-2002",
+   "path": "ordin/mediu/2002/1103",
+   "short": "Ordin mediu nr. 1103/2002",
+   "title": "Ordinul nr. 1.103/2002 pentru aprobarea Normelor metodologice privind măsurarea și analiza emisiilor de compuși organici volatili rezultați din depozitarea și distribuția benzinei la terminale și la stațiile de benzina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33795",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33795",
+     "sha256": "fe2f3c332b2f53c0c259f3ff0c6f3e72e449b334df9a5c5dc029c4d1736283be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1112-2002",
    "path": "ordin/mediu/2002/1112",
    "short": "Ordin mediu nr. 1112/2002",
@@ -4529,6 +4619,81 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40531",
      "sha256": "955899bcf9bbab7bf23b993d2c52c39c78b23681cd509ab62a47373ebd5f3cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-114-2002",
+   "path": "ordin/mediu/2002/114",
+   "short": "Ordin mediu nr. 114/2002",
+   "title": "Ordinul nr. 114/2002 pentru aprobarea Regulamentului privind organizarea și certificarea corpului de experți pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanța A și B - NTLH-014 și a Procedurii de avizare a specialiștilor pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanța C și D - NTLH-015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36741",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36741",
+     "sha256": "b4d4d9c251c7f4fd44750fe6b02747785b92d5803aee4f84413a458d4447d721"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1141-2002",
+   "path": "ordin/mediu/2002/1141",
+   "short": "Ordin mediu nr. 1141/2002",
+   "title": "Ordinul nr. 1.141/2002 pentru aprobarea Procedurii și a competentelor de emitere a avizelor și autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41250",
+   "versions": [
+    {
+     "from": "2003-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41250",
+     "sha256": "1186fdca3c5a0fb4fc5f5f339c246349fd5e3310e0b0b5e114dfad654a24bbe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1144-2002",
+   "path": "ordin/mediu/2002/1144",
+   "short": "Ordin mediu nr. 1144/2002",
+   "title": "Ordinul nr. 1.144/2002 privind înființarea Registrului poluanților emiși de activitățile care intra sub incidența art. 3 alin. (1) lit. g) și h) din Ordonanța de urgență a Guvernului nr. 34/2002 privind prevenirea, reducerea și controlul integrat al poluării și modul de raportare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41386",
+   "versions": [
+    {
+     "from": "2003-03-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41386",
+     "sha256": "e5686c56b34be677eac51d6ee732ee63a606f2950bc1d456c30caf3bb0989dc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1146-2002",
+   "path": "ordin/mediu/2002/1146",
+   "short": "Ordin mediu nr. 1146/2002",
+   "title": "Ordinul nr. 1.146/2002 pentru aprobarea Normativului privind obiectivele de referința pentru clasificarea calității apelor de suprafața",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42642",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42642",
+     "sha256": "97b27b662fac05c0e0517c01b9e6a89ab8f6589564a3f99021484f378e008786"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1147-2002",
+   "path": "ordin/mediu/2002/1147",
+   "short": "Ordin mediu nr. 1147/2002",
+   "title": "Ordinul nr. 1.147/2002 pentru aprobarea Normativului tehnic privind depozitarea deșeurilor - construirea, exploatarea, monitorizarea și închiderea depozitelor de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42177",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42177",
+     "sha256": "78d43643fb26bc4e90f71d3a5893bf88cc1fcfe8e4d834cccfb31075ff579887"
     }
    ]
   },
@@ -4559,6 +4724,321 @@
      "units": 43,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36744",
      "sha256": "6436710cdf790f2325500b191fe86b41fdfb06a387e102c6376d1ff6918c444d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-117-2002",
+   "path": "ordin/mediu/2002/117",
+   "short": "Ordin mediu nr. 117/2002",
+   "title": "Ordinul nr. 117/2002 pentru aprobarea Regulamentului privind certificarea personalului de conducere și coordonare a activității de urmărire a comportării în timp a barajelor - NTLH-031",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36730",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36730",
+     "sha256": "9ba5c4dbebb0cd40f318351dc66100b1faeadd25c00e910e0edf53b3d05e81c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-118-2002",
+   "path": "ordin/mediu/2002/118",
+   "short": "Ordin mediu nr. 118/2002",
+   "title": "Ordinul nr. 118/2002 pentru aprobarea Procedurii de emitere a acordului și autorizației de funcționare în siguranța a barajelor - NTLH-032",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36732",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36732",
+     "sha256": "e5bdb9f5d281314db5e865f091626c0253c4257efb5eb198a1b7deb203a64d5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-119-2002",
+   "path": "ordin/mediu/2002/119",
+   "short": "Ordin mediu nr. 119/2002",
+   "title": "Ordinul nr. 119/2002 pentru aprobarea Procedurii de trecere în conservare, postutilizare sau abandonare a barajelor - NTLH-033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36734",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36734",
+     "sha256": "2a07bc935a8268f11dc1b30cffec7f34adec57c1712ad499f1964c95d04064d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1190-2002",
+   "path": "ordin/mediu/2002/1190",
+   "short": "Ordin mediu nr. 1190/2002",
+   "title": "Ordinul nr. 1.190/2002 privind procedura de raportare a datelor referitoare la ambalaje și deșeuri de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41079",
+   "versions": [
+    {
+     "from": "2003-01-07",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41079",
+     "sha256": "b9a7feb2c7377753ee95faae306f2379387c80622e709c3879bacd115ce7ecb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-120-2002",
+   "path": "ordin/mediu/2002/120",
+   "short": "Ordin mediu nr. 120/2002",
+   "title": "Ordinul nr. 120/2002 pentru aprobarea Procedurii și competentelor de efectuare a controlului privind siguranța în exploatare a barajelor - NTLH-034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36861",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36861",
+     "sha256": "b2384c1510944d4a3814d3bb777548400ce7ed0c36fb2a4fa2832b056e426051"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1202-2002",
+   "path": "ordin/mediu/2002/1202",
+   "short": "Ordin mediu nr. 1202/2002",
+   "title": "Ordinul nr. 1.202/2002 pentru contingentarea consumului și producției de substanțe care epuizează stratul de ozon, în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41838",
+   "versions": [
+    {
+     "from": "2003-02-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41838",
+     "sha256": "c441d6570cdb7345879ab1df7f82989b5504b9dac85c396230868fb26dde3e06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-147-2002",
+   "path": "ordin/mediu/2002/147",
+   "short": "Ordin mediu nr. 147/2002",
+   "title": "Ordinul nr. 147/2002 pentru aprobarea Procedurii de declarare publică a caracteristicilor generale, a categoriei de importanța și a gradului de risc asociat barajelor - NTLH-036",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36827",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36827",
+     "sha256": "828ab0b2ad9afa4d8347fc8b18a0879f8700e89abd6c46777866b0920d1e4533"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-228-2002",
+   "path": "ordin/mediu/2002/228",
+   "short": "Ordin mediu nr. 228/2002",
+   "title": "Ordinul nr. 228/2002 privind aprobarea Normelor de securitate radiologica - proceduri de acceptare a întreprinderilor externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41490",
+   "versions": [
+    {
+     "from": "2003-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41490",
+     "sha256": "fe452aa4a16cf465086e4a413e1b2352dd142cbc0140f83ca8451eb51f87d854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-439-2002",
+   "path": "ordin/mediu/2002/439",
+   "short": "Ordin mediu nr. 439/2002",
+   "title": "Ordinul nr. 439/2002 pentru aprobarea organizării acțiunii de voluntariat în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37344",
+   "versions": [
+    {
+     "from": "2002-07-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37344",
+     "sha256": "28cf2d7542bbfff875092971c27eab0edc3390bc081000066e778b0bd06b698d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-526-2002",
+   "path": "ordin/mediu/2002/526",
+   "short": "Ordin mediu nr. 526/2002",
+   "title": "Ordinul nr. 526/2002 privind aprobarea Regulamentului de organizare și funcționare a Comitetului Național Român pentru Programul Hidrologic Internațional și a componentei acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37068",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37068",
+     "sha256": "12a7d723ba1b9d81bc07970e077176866cbc94312b3bf4ece286d6b900b4c7e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-531-2002",
+   "path": "ordin/mediu/2002/531",
+   "short": "Ordin mediu nr. 531/2002",
+   "title": "Ordinul nr. 531/2002 privind aprobarea Instrucțiunilor de organizare și desfășurare a procedurii de concesionare a valorificării resurselor stuficole din zonele aparținând domeniului public de interes național, aflate în perimetrul Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37290",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37290",
+     "sha256": "06e947aa1835ce19981e956d902d354daec115d4c38c55208b7066516e9fbd2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-533-2002",
+   "path": "ordin/mediu/2002/533",
+   "short": "Ordin mediu nr. 533/2002",
+   "title": "Ordinul nr. 533/2002 privind aprobarea Instrucțiunilor de organizare și desfășurare a procedurii de concesionare a valorificării resurselor piscicole din zonele aparținând domeniului public de interes național, aflate în perimetrul Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37292",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37292",
+     "sha256": "fa2b3e90536df51287332727b30701a77b9be5abd67135d0a3c0ff4cdd58f0bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-592-2002",
+   "path": "ordin/mediu/2002/592",
+   "short": "Ordin mediu nr. 592/2002",
+   "title": "Ordinul nr. 592/2002 pentru aprobarea Normativului privind stabilirea valorilor limita, a valorilor de prag și a criteriilor și metodelor de evaluare a dioxidului de sulf, dioxidului de azot și oxizilor de azot, pulberilor în suspensie [PM(10) și PM(2,5)], plumbului, benzenului, monoxidului de carbon și ozonului în aerul înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39199",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39199",
+     "sha256": "ff64d5da36a1409a882cc7bbc9c7004362bbc9a33928a968bb9a5fe63065482b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-627-pl-2002",
+   "path": "ordin/mediu/2002/627-pl",
+   "short": "Ordin mediu nr. 627/PL/2002",
+   "title": "Ordinul nr. 627/PL/2002 privind aprobarea Studiului de oportunitate pentru concesionarea bunurilor din domeniul public al statului ce alcătuiesc obiectivul de investiții \"Acumulare Lac Văcărești\" și a modului de calcul al redevenței minime de concesionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38709",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38709",
+     "sha256": "0b26b8c8f91eec27886e490f545ee4adafe4e05b62e3777ceb2486a0291756fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-684-2002",
+   "path": "ordin/mediu/2002/684",
+   "short": "Ordin mediu nr. 684/2002",
+   "title": "Ordinul nr. 684/2002 privind aprobarea componentei Comisiei pentru Securitate Biologica și a regulamentului de organizare și funcționare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39612",
+   "versions": [
+    {
+     "from": "2002-10-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39612",
+     "sha256": "a21ac68d51ae2200a1cbff4d1bdd0c2234fb2dd0b81f013233d636822d114bcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-745-2002",
+   "path": "ordin/mediu/2002/745",
+   "short": "Ordin mediu nr. 745/2002",
+   "title": "Ordinul nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38821",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38821",
+     "sha256": "39541af0473d10a44266d90e103775739797013b8f3b73da3301ce2d0445b731"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-860-2002",
+   "path": "ordin/mediu/2002/860",
+   "short": "Ordin mediu nr. 860/2002",
+   "title": "Ordinul nr. 860/2002 pentru aprobarea Procedurii de evaluare a impactului asupra mediului și de emitere a acordului de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41594",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41594",
+     "sha256": "4fda8bdb401238dc9fd53eba3df40673fae99936d8b5cbb2f963c4a7dc346ba8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-863-2002",
+   "path": "ordin/mediu/2002/863",
+   "short": "Ordin mediu nr. 863/2002",
+   "title": "Ordinul nr. 863/2002 privind aprobarea ghidurilor metodologice aplicabile etapelor procedurii-cadru de evaluare a impactului asupra mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41589",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41589",
+     "sha256": "12cbf1e834676f12b28ec697a7cbe326f8c2f0a24088ba9b66102494529dd44e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-864-2002",
+   "path": "ordin/mediu/2002/864",
+   "short": "Ordin mediu nr. 864/2002",
+   "title": "Ordinul nr. 864/2002 pentru aprobarea Procedurii de evaluare a impactului asupra mediului în context transfrontieră și de participare a publicului la luarea deciziei în cazul proiectelor cu impact transfrontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44229",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44229",
+     "sha256": "7f5fd47a3bbf517ded454c07047a365b912254de56f89e7095c58b47d212080f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-867-2002",
+   "path": "ordin/mediu/2002/867",
+   "short": "Ordin mediu nr. 867/2002",
+   "title": "Ordinul nr. 867/2002 privind definirea criteriilor care trebuie îndeplinite de deșeuri pentru a se regăsi pe lista specifica unui depozit și pe lista naționala de deșeuri acceptate în fiecare clasa de depozit de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40169",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40169",
+     "sha256": "9a50f15e1e154273ffa99ac56a83b5daf130e5de6d09739cd90d51a899a9ca7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-9-2002",
+   "path": "ordin/mediu/2002/9",
+   "short": "Ordin mediu nr. 9/2002",
+   "title": "Ordinul nr. 9/2002 pentru contingentarea consumului și producției de substanțe care epuizează stratul de ozon în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33934",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33934",
+     "sha256": "90e2064e873eaddcb800f525797794b9bb55e1914b5331b1940b9de12df31e48"
     }
    ]
   },
@@ -5410,7 +5890,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/37098",
    "versions": [
     {
-     "from": "2002-07-05",
+     "from": "2002-07-08",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37098",
      "sha256": "e7c1cdcc53f116fb5bc745dd1f18b25c0487518c4b030ec2db2ca3f4b1ee64bd"
@@ -5515,7 +5995,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/38093",
    "versions": [
     {
-     "from": "2002-08-22",
+     "from": "2002-09-02",
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38093",
      "sha256": "b8a3fcc146c204f4034000bc63274e0a0d03554874ccada82189214d8b14be5f"

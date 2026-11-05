@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1063-2005",
+   "path": "ordin/agricultura/2005/1063",
+   "short": "Ordin agricultura nr. 1063/2005",
+   "title": "Ordinul nr. 1.063/2005 privind interzicerea pescuitului recreativ-sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34961",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34961",
+     "sha256": "1dca7c03fbffe7748e6283680e5f9cdff8465a484a864e6f4e3e285a68657d2f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-112-2005",
    "path": "ordin/agricultura/2005/112",
    "short": "Ordin agricultura nr. 112/2005",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-178-2005",
+   "path": "ordin/agricultura/2005/178",
+   "short": "Ordin agricultura nr. 178/2005",
+   "title": "Ordinul nr. 178/2005 privind prohibiția pescuitului în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60564",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60564",
+     "sha256": "769f50f1f81d50585d33685112d3adca3e8cde487ce483ca2ed053f756caee3b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-243-2005",
    "path": "ordin/agricultura/2005/243",
    "short": "Ordin agricultura nr. 243/2005",
@@ -190,7 +220,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/64457",
    "versions": [
     {
-     "from": "2005-08-24",
+     "from": "2007-01-01",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64457",
      "sha256": "2df094f3e78081eb9eaaec6efa79de120e8ba0623e9386e0f7640e0cf2de69d6"
@@ -224,6 +254,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31751",
      "sha256": "2ee83b19faa2d54091f7a8ad58d16fc9d08450fc367399dad2ac8521dc84bf02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-642-2005",
+   "path": "ordin/agricultura/2005/642",
+   "short": "Ordin agricultura nr. 642/2005",
+   "title": "Ordinul nr. 642/2005 privind instituirea unor măsuri de protecție pentru unele specii de pești cu valoare economică și/sau ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63493",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63493",
+     "sha256": "8f04ce64a3b9030053ce6dcefbeb69dc148a506b8c1042fecb0eab9890ee860c"
     }
    ]
   },
@@ -269,6 +314,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65078",
      "sha256": "adbff691d1f00462b505ea47311d9baed75e3dbfac2cdeec536775dceb14aa16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-946-2005",
+   "path": "ordin/agricultura/2005/946",
+   "short": "Ordin agricultura nr. 946/2005",
+   "title": "Ordinul nr. 946/2005 pentru aprobarea numărului de exemplare din speciile urs, lup, râs și pisică sălbatică, care se pot recolta, pe gestionari și fonduri de vânătoare, în cadrul sezonului de vânătoare 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65074",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65074",
+     "sha256": "994464f13e288169b38bac40720d916b630453853464cafef74fb1f3f65ae41e"
     }
    ]
   },
@@ -2635,7 +2695,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/63158",
    "versions": [
     {
-     "from": "2005-07-15",
+     "from": "2007-01-01",
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63158",
      "sha256": "ca8a16ca2a4efb124de97e53f5c7c642402a0cee3c4a0be9ad4b61b720b7aeed"
@@ -2650,7 +2710,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/63161",
    "versions": [
     {
-     "from": "2005-07-15",
+     "from": "2007-01-01",
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63161",
      "sha256": "029d63360302fd2eb9211091814c14789c325fb49b007b7537a62a4f686174ec"
@@ -2879,6 +2939,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67182",
      "sha256": "e397d5009ccfee6138f57bdf70575be4034f6052a6675e2a4ba3eecbd7008b32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2154-2005",
+   "path": "ordin/cultura/2005/2154",
+   "short": "Ordin cultura nr. 2154/2005",
+   "title": "Ordinul nr. 2.154/2005 pentru modificarea Ordinului ministrului lucrărilor publice și amenajării teritoriului și al ministrului culturii nr. 589/D/1992-130/1991 privind unele măsuri ce se impun în vederea împiedicării degradării, distrugerii, precum și protejării bunurilor imobile cu valoare de patrimoniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63042",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63042",
+     "sha256": "673298581da0165e6342f044b0baa7ede1ff05624292bb6ecd10449cca530def"
     }
    ]
   },
@@ -6123,6 +6198,81 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1012-2005",
+   "path": "ordin/mediu/2005/1012",
+   "short": "Ordin mediu nr. 1012/2005",
+   "title": "Ordinul nr. 1.012/2005 pentru aprobarea Procedurii privind mecanismul de acces la informațiile de interes public privind gospodărirea apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65626",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65626",
+     "sha256": "2c45848d0d9cb199938668aa10fdc8f2c8eb1fc76e4b0d8b49099e234032fe2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1018-2005",
+   "path": "ordin/mediu/2005/1018",
+   "short": "Ordin mediu nr. 1018/2005",
+   "title": "Ordinul nr. 1.018/2005 privind înființarea în cadrul Direcției deșeuri și substanțe chimice periculoase a Secretariatului pentru compuși desemnați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65578",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65578",
+     "sha256": "09d045363db61e65826b7175f36eab79f2f30ea204bfbecbffa534fa8010871f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-108-2005",
+   "path": "ordin/mediu/2005/108",
+   "short": "Ordin mediu nr. 108/2005",
+   "title": "Ordinul nr. 108/2005 privind metodele de prelevare a probelor și de determinare a cantităților de azbest în mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59968",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59968",
+     "sha256": "47285cac3e9aee86680ea53235d8ac83fc8df02d6aecdcf3eca8463cc7fbb1af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1119-2005",
+   "path": "ordin/mediu/2005/1119",
+   "short": "Ordin mediu nr. 1119/2005",
+   "title": "Ordinul nr. 1.119/2005 privind delegarea către Agenția Națională pentru Protecția Mediului a atribuțiilor ce revin Ministerului Mediului și Gospodăririi Apelor în domeniul exportului deșeurilor periculoase și al transportului deșeurilor nepericuloase în vederea importului, perfecționării active și a tranzitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66032",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66032",
+     "sha256": "c03c30af2abb4f6089af91e28c027f06235520220284197dc5f9850cec84fe6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1198-2005",
+   "path": "ordin/mediu/2005/1198",
+   "short": "Ordin mediu nr. 1198/2005",
+   "title": "Ordinul nr. 1.198/2005 pentru actualizarea anexelor nr. 2, 3, 4 și 5 la Ordonanța de urgență a Guvernului nr. 236/2000 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice, aprobată cu modificări și completări prin Legea nr. 462/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66760",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66760",
+     "sha256": "7624f95efc39c10f90ea234405d9d3698ecefcf7b40bce4a5b737ffb662f3f98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1223-2005",
    "path": "ordin/mediu/2005/1223",
    "short": "Ordin mediu nr. 1223/2005",
@@ -6213,6 +6363,291 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1274-2005",
+   "path": "ordin/mediu/2005/1274",
+   "short": "Ordin mediu nr. 1274/2005",
+   "title": "Ordinul nr. 1.274/2005 privind emiterea avizului de mediu la încetarea activităților de eliminare a deșeurilor, respectiv depozitare și incinerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67623",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67623",
+     "sha256": "462115688c1210218d5366fe4c0c84dc013065044b1aed8896035a8bc2a77574"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1276-2005",
+   "path": "ordin/mediu/2005/1276",
+   "short": "Ordin mediu nr. 1276/2005",
+   "title": "Ordinul nr. 1.276/2005 privind aprobarea Metodologiei de organizare, păstrare și gestionare a Cadastrului apelor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67624",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67624",
+     "sha256": "a0f87f17ff3feb4c5d02f2de6c77b3be00e8b8c88bb8773d760c72034d9a52bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1295-2005",
+   "path": "ordin/mediu/2005/1295",
+   "short": "Ordin mediu nr. 1295/2005",
+   "title": "Ordinul nr. 1.295/2005 pentru aprobarea Formularului de prezentare a rezumatului notificării privind introducerea deliberată în mediu a organismelor modificate genetic, în alte scopuri decât introducerea pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67983",
+   "versions": [
+    {
+     "from": "2006-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67983",
+     "sha256": "3cf7a350e78cc0114acb346f6226cccb50ebb10d17e1caf154b30cc62edf5518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1299-2005",
+   "path": "ordin/mediu/2005/1299",
+   "short": "Ordin mediu nr. 1299/2005",
+   "title": "Ordinul nr. 1.299/2005 privind aprobarea Procedurii de inspecție pentru obiectivele care prezintă pericole de producere a accidentelor majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68352",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68352",
+     "sha256": "b9087a78e0aa9fd960fb85201621bf3e5d9a9ddd827b7352de8418f032a18d54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-130-2005",
+   "path": "ordin/mediu/2005/130",
+   "short": "Ordin mediu nr. 130/2005",
+   "title": "Ordinul nr. 130/2005 pentru aprobarea Instrucțiunilor privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 99/2004 privind instituirea Programului de stimulare a înnoirii Parcului național auto, modificată și completată prin Ordonanța de urgență a Guvernului nr. 1/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59649",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59649",
+     "sha256": "edc566b7374a9d17c808a82c1ae2b5958bae668c5bf637d04f4956b26ab34c16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-171-2005",
+   "path": "ordin/mediu/2005/171",
+   "short": "Ordin mediu nr. 171/2005",
+   "title": "Ordinul nr. 171/2005 privind constituirea și funcționarea colectivului de analiza tehnică la nivel central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60199",
+   "versions": [
+    {
+     "from": "2005-03-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60199",
+     "sha256": "0af7a94c71e36ffe1588e513af7b90f6e3c181b6b82249f5dee3c63c3c82677c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-230-2005",
+   "path": "ordin/mediu/2005/230",
+   "short": "Ordin mediu nr. 230/2005",
+   "title": "Ordinul nr. 230/2005 pentru aprobarea Procedurii de raportare a datelor referitoare la substanțele existente conform Hotărârii Guvernului nr. 2.427/2004 privind evaluarea și controlul riscului substanțelor existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60611",
+   "versions": [
+    {
+     "from": "2005-04-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60611",
+     "sha256": "9cb9a7a8b5d8ce19b00a46e758fa50ff88ecef5fed3d1b5b475fbf12bdfa710c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-241-2005",
+   "path": "ordin/mediu/2005/241",
+   "short": "Ordin mediu nr. 241/2005",
+   "title": "Ordinul nr. 241/2005 pentru aprobarea Listei localităților pe județe unde există surse de nitrați din activități agricole și a Listei localităților din bazinele/spațiile hidrografice unde există surse de nitrați din activități agricole (zone vulnerabile și potențial vulnerabile)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62400",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62400",
+     "sha256": "79d7d5d65e9a99b5b2140ef4143cc25e1bfff3adb543a353e7117f6ae784f2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-242-2005",
+   "path": "ordin/mediu/2005/242",
+   "short": "Ordin mediu nr. 242/2005",
+   "title": "Ordinul nr. 242/2005 pentru aprobarea organizării Sistemului național de monitoring integrat al solului, de supraveghere, control și decizii pentru reducerea aportului de poluanți proveniți din surse agricole și de management al reziduurilor organice provenite din zootehnie în zone vulnerabile și potențial vulnerabile la poluarea cu nitrați și pentru aprobarea Programului de organizare a Sistemului național de monitoring integrat al solului, de supraveghere, control și decizii pentru reducerea aportului de poluanți proveniți din surse agricole și de management al reziduurilor organice provenite din zootehnie în zone vulnerabile și potențial vulnerabile la poluarea cu nitrați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62161",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62161",
+     "sha256": "74b81c4aa8db2d57ff2f4fc3589f3a45f4f6c3025fac3f3d2cb875ae805d9a17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-245-2005",
+   "path": "ordin/mediu/2005/245",
+   "short": "Ordin mediu nr. 245/2005",
+   "title": "Ordinul nr. 245/2005 pentru aprobarea Metodologiei de evaluare a riscului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase în mediul acvatic prin modelare matematică și a Metodologiei de evaluare a impactului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase asupra mediului acvatic prin teste ecotoxicologice - alge verzi, dafnia, pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62868",
+   "versions": [
+    {
+     "from": "2005-07-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62868",
+     "sha256": "4d71f4c2a40346dd97e0e132b54493605d461f33123a6e79837661044e806dba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-249-2005",
+   "path": "ordin/mediu/2005/249",
+   "short": "Ordin mediu nr. 249/2005",
+   "title": "Ordinul nr. 249/2005 pentru înființarea Centrului național de coordonare, informare, reactualizare a ghidurilor privind cele mai bune tehnici disponibile și de comunicare cu Biroul European pentru Prevenirea și Controlul Integrat al Poluării și cu Forumul European de Informare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60613",
+   "versions": [
+    {
+     "from": "2005-05-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60613",
+     "sha256": "1a854d27b8363409fe429a8187e293779d28910521b8002c5a1a7ced61143432"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-251-2005",
+   "path": "ordin/mediu/2005/251",
+   "short": "Ordin mediu nr. 251/2005",
+   "title": "Ordinul nr. 251/2005 pentru organizarea și funcționarea secretariatelor de risc privind controlul activităților care prezintă pericole de accidente majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60632",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60632",
+     "sha256": "c2d753c8a117fc3ac7397a4bee8e0ecd3af21377e2ef448f3c29b7c5fd4d86da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-296-2005",
+   "path": "ordin/mediu/2005/296",
+   "short": "Ordin mediu nr. 296/2005",
+   "title": "Ordinul nr. 296/2005 privind aprobarea Programului-cadru de acțiune tehnic pentru elaborarea programelor de acțiune în zone vulnerabile la poluarea cu nitrați din surse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62519",
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62519",
+     "sha256": "407c3db46de71c5f258c0d2685d27b86b2f640638b915849b68b14fa7eee588e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-379-2005",
+   "path": "ordin/mediu/2005/379",
+   "short": "Ordin mediu nr. 379/2005",
+   "title": "Ordinul nr. 379/2005 privind stabilirea condițiilor de implementare a proiectelor promovate de România și selectate de Comisia Europeană în cadrul instrumentului financiar comunitar LIFE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61363",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61363",
+     "sha256": "b81dafa0525485552d09c6f8be1ee2de796f07490be5ca9ea649d58333ec1c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-589-2005",
+   "path": "ordin/mediu/2005/589",
+   "short": "Ordin mediu nr. 589/2005",
+   "title": "Ordinul nr. 589/2005 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate în elaborarea de studii, proiecte, execuție lucrări, consultanță în domeniul gospodăririi apelor și documentații tehnice pentru obținerea avizelor și autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63365",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63365",
+     "sha256": "2ae7f212c9fb60b01518c89a77baffebb3cb533062867aa53d6173d000b22615"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-604-2005",
+   "path": "ordin/mediu/2005/604",
+   "short": "Ordin mediu nr. 604/2005",
+   "title": "Ordinul nr. 604/2005 pentru aprobarea Clasificării peșterilor și a sectoarelor de peșteri - arii naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63559",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63559",
+     "sha256": "fe971f3f753c5607e17e900cf6bc1f84a56f9b94f48d460541548b109339d077"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-606-2005",
+   "path": "ordin/mediu/2005/606",
+   "short": "Ordin mediu nr. 606/2005",
+   "title": "Ordinul nr. 606/2005 privind aprobarea Formularului pentru prezentarea rezultatelor introducerii deliberate în mediu a plantelor superioare modificate genetic, în alte scopuri decât introducerea pe piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63943",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63943",
+     "sha256": "42a3c2eaaeb3be171ca0522bb0aa91bfd32e5f2dbf5b796c22a67c95a8dcb395"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-643-2005",
+   "path": "ordin/mediu/2005/643",
+   "short": "Ordin mediu nr. 643/2005",
+   "title": "Ordinul nr. 643/2005 privind aprobarea Planului de management pentru Parcul Național Piatra Craiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63671",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63671",
+     "sha256": "fc4c9e73ee3e3e05bb79aad08e7913a12840c6aa5e74d929f981d53fb69a0d89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-663-2005",
+   "path": "ordin/mediu/2005/663",
+   "short": "Ordin mediu nr. 663/2005",
+   "title": "Ordinul nr. 663/2005 privind aprobarea Regulamentului de organizare și funcționare a Comitetului Național pentru Programul Hidrologic Internațional și a componenței acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64498",
+   "versions": [
+    {
+     "from": "2005-08-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64498",
+     "sha256": "ad4b806b77264c1082d0446684e05b71c17e253d8171e15b786fd792ede6342c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-698-2005",
    "path": "ordin/mediu/2005/698",
    "short": "Ordin mediu nr. 698/2005",
@@ -6228,6 +6663,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-798-2005",
+   "path": "ordin/mediu/2005/798",
+   "short": "Ordin mediu nr. 798/2005",
+   "title": "Ordinul nr. 798/2005 privind aprobarea abonamentului-cadru de utilizare/exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65165",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65165",
+     "sha256": "608b74adc045aa3bac81aa722d590441c415c83e4464a58fa254480a44130247"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-833-2005",
    "path": "ordin/mediu/2005/833",
    "short": "Ordin mediu nr. 833/2005",
@@ -6239,6 +6689,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65446",
      "sha256": "3ab9dd6d156153b674d78e330c5175d9b08dd69997f821ae1b2950ee6f9f76bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-838-2005",
+   "path": "ordin/mediu/2005/838",
+   "short": "Ordin mediu nr. 838/2005",
+   "title": "Ordinul nr. 838/2005 pentru aprobarea Îndrumarului privind aplicarea anexei nr. 12^2 \"Planul de monitoring\" la Ordonanța Guvernului nr. 49/2000 privind regimul de obținere, testare, utilizare și comercializare a organismelor modificate genetic prin tehnicile biotehnologiei moderne, precum și a produselor rezultate din acestea, aprobată cu modificări și completări prin Legea nr. 214/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65250",
+   "versions": [
+    {
+     "from": "2005-09-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65250",
+     "sha256": "ad9e3e822efd81871829c7735be02d495041b134652417deac7d995eb9a7711e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-859-2005",
+   "path": "ordin/mediu/2005/859",
+   "short": "Ordin mediu nr. 859/2005",
+   "title": "Ordinul nr. 859/2005 pentru aprobarea unor ghiduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65431",
+   "versions": [
+    {
+     "from": "2005-10-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65431",
+     "sha256": "cddc87a1d33270429a686454f8397f0da38e23e9f890d7cbea34e17f72b39991"
     }
    ]
   },
@@ -6269,6 +6749,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60350",
      "sha256": "be970f867f4e022f9a7407314ac56c127539efed8a0a0d12f948947cb99e9860"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-901-2005",
+   "path": "ordin/mediu/2005/901",
+   "short": "Ordin mediu nr. 901/2005",
+   "title": "Ordinul nr. 901/2005 privind aprobarea măsurilor specifice pentru colectarea deșeurilor de echipamente electrice și electronice care prezintă riscuri prin contaminare pentru securitatea și sănătatea personalului din punctele de colectare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31691",
+   "versions": [
+    {
+     "from": "2005-10-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31691",
+     "sha256": "a298289a2a27cc664e346834b79c01eb51bb2989daa6ef1ea965b156102d794d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-927-2005",
+   "path": "ordin/mediu/2005/927",
+   "short": "Ordin mediu nr. 927/2005",
+   "title": "Ordinul nr. 927/2005 privind procedura de raportare a datelor referitoare la ambalaje și deșeuri de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31807",
+   "versions": [
+    {
+     "from": "2005-10-18",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31807",
+     "sha256": "84a5612dfdd8124692e2933c41d8023bf21575856b080e8c0ae1a2177e0bb39f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-95-2005",
+   "path": "ordin/mediu/2005/95",
+   "short": "Ordin mediu nr. 95/2005",
+   "title": "Ordinul nr. 95/2005 privind stabilirea criteriilor de acceptare și procedurilor preliminare de acceptare a deșeurilor la depozitare și lista națională de deșeuri acceptate în fiecare clasă de depozit de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59751",
+   "versions": [
+    {
+     "from": "2005-05-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59751",
+     "sha256": "626b48034ca7e78ccb3cb0ca0aa7473183da42335cb57f1698b85707462c91bc"
     }
    ]
   },
@@ -8425,7 +8950,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/64717",
    "versions": [
     {
-     "from": "2005-09-02",
+     "from": "2005-09-16",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64717",
      "sha256": "6e1b12e88bc98bb4825c8c752f9adf26ba1e1d11ac4831736f423633563b5ad8"
@@ -8553,6 +9078,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1192-2005",
+   "path": "ordin/transporturi/2005/1192",
+   "short": "Ordin transporturi nr. 1192/2005",
+   "title": "Ordinul nr. 1.192/2005 pentru modificarea și înlocuirea anexei nr. 5 la Normele metodologice privind criteriile și metodologia pentru eliberarea licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 170/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63693",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63693",
+     "sha256": "903c7f105b7479aac0abb9414ea2bd5976d4899ee0905d37c9d7f65867ee314c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1230-2005",
    "path": "ordin/transporturi/2005/1230",
    "short": "Ordin transporturi nr. 1230/2005",
@@ -8564,6 +9104,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63971",
      "sha256": "176c6140f4d79592b7fc24efc3a5ffb93e37290b5d779026e6001b9d0b9b29c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1254-2005",
+   "path": "ordin/transporturi/2005/1254",
+   "short": "Ordin transporturi nr. 1254/2005",
+   "title": "Ordinul nr. 1.254/2005 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 118/2003 pentru aprobarea Reglementării aeronautice civile române privind condițiile de avizare a documentațiilor tehnice pentru obiectivele aflate în zone cu servituți aeronautice civile - RACR - CADT, ediția 02/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64086",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64086",
+     "sha256": "f46ecc43b0e89e9cd7e4233e3e33c61e62a29e136e71d6ea6f76835b5427ea81"
     }
    ]
   },
@@ -8583,6 +9138,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1315-2005",
+   "path": "ordin/transporturi/2005/1315",
+   "short": "Ordin transporturi nr. 1315/2005",
+   "title": "Ordinul nr. 1.315/2005 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 229/2003 pentru aprobarea Reglementărilor privind modificarea sistemelor de alimentare a motoarelor autovehiculelor, care au fost omologate pentru circulația pe drumurile publice din România cu un anumit carburant prevăzut de constructor, pentru funcționarea și cu gaze petroliere lichefiate (GPL) și autorizarea agenților economici care execută montarea, reviziile tehnice și repararea instalațiilor de alimentare a motoarelor cu GPL - RNTR-6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64856",
+   "versions": [
+    {
+     "from": "2005-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64856",
+     "sha256": "3524eb8047f0faf3dfe023c684307c91ed9f8a3ab768546a849398ba377b95ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1339-2005",
    "path": "ordin/transporturi/2005/1339",
    "short": "Ordin transporturi nr. 1339/2005",
@@ -8594,6 +9164,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64425",
      "sha256": "bf355b631a2d96e18c0b2f61167a4ef12a24f9b4fd802aaa9d5fc7c5d6b9588b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1343-2005",
+   "path": "ordin/transporturi/2005/1343",
+   "short": "Ordin transporturi nr. 1343/2005",
+   "title": "Ordinul nr. 1.343/2005 privind completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 254/2005 pentru aprobarea Listei cuprinzând organismele recunoscute în domeniul produselor pentru construcții, cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64435",
+   "versions": [
+    {
+     "from": "2005-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64435",
+     "sha256": "20d0f3935f9c8aae9bb3593121f9e2c99c09bdafc4ad768f9325992046373928"
     }
    ]
   },
@@ -8643,6 +9228,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1372-2005",
+   "path": "ordin/transporturi/2005/1372",
+   "short": "Ordin transporturi nr. 1372/2005",
+   "title": "Ordinul nr. 1.372/2005 privind modificarea și completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 165/2005 pentru aprobarea Reglementării tehnice \"Cod de proiectare. Bazele proiectării și acțiuni asupra construcțiilor. Acțiunea vântului\", indicativ NP-082-04",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64594",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64594",
+     "sha256": "17424efca6a26aba5dcd417cb7e2fc0d2c9b221b6e3910175d5e9b3dec432da1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1422-2005",
    "path": "ordin/transporturi/2005/1422",
    "short": "Ordin transporturi nr. 1422/2005",
@@ -8673,6 +9273,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1506-2005",
+   "path": "ordin/transporturi/2005/1506",
+   "short": "Ordin transporturi nr. 1506/2005",
+   "title": "Ordinul nr. 1.506/2005 privind modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.264/2004 pentru aprobarea Reglementării tehnice privind proiectarea și dotarea locurilor de parcare, oprire și staționare, aferente drumurilor publice, situate în extravilanul localităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31694",
+   "versions": [
+    {
+     "from": "2005-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31694",
+     "sha256": "770077c13ae249fde0fa229d225ddf9609153e92f2b728607119d3dbcab75549"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1577-2005",
    "path": "ordin/transporturi/2005/1577",
    "short": "Ordin transporturi nr. 1577/2005",
@@ -8699,6 +9314,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58643",
      "sha256": "79c923c30d364017cba3f7ab5d64a9a3156fa546c80219eaac4535781a123291"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1700-2005",
+   "path": "ordin/transporturi/2005/1700",
+   "short": "Ordin transporturi nr. 1700/2005",
+   "title": "Ordinul nr. 1.700/2005 privind modificarea și completarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31850",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31850",
+     "sha256": "8380edd78e87c1ea0417ae32547a4e48159ba69c0332afeeec34e077dc50a946"
     }
    ]
   },
@@ -8763,6 +9393,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1910-2005",
+   "path": "ordin/transporturi/2005/1910",
+   "short": "Ordin transporturi nr. 1910/2005",
+   "title": "Ordinul nr. 1.910/2005 pentru modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 137/2003 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Autoritatea Feroviară Română - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65954",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65954",
+     "sha256": "8a48e858318e261feece9cb73f9382e6c51c64cfa295ef8aaa541133201b02a9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1924-2005",
    "path": "ordin/transporturi/2005/1924",
    "short": "Ordin transporturi nr. 1924/2005",
@@ -8789,6 +9434,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66064",
      "sha256": "0de8e2fd840398b82a7c8f8e933e63727f04744e0af18c3065fc6026d57101bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1961-2005",
+   "path": "ordin/transporturi/2005/1961",
+   "short": "Ordin transporturi nr. 1961/2005",
+   "title": "Ordinul nr. 1.961/2005 pentru abrogarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 488/2002 privind aprobarea Procedurii de autorizare a inspectorilor de șantier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66211",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66211",
+     "sha256": "a9638f165d113511630acffb5a29eeda02020c86d92fef84b8eaf6904843b831"
     }
    ]
   },
@@ -8834,6 +9494,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69563",
      "sha256": "1c0755c7421767ec8fc18f3d4e0427ba5b8b63af09c8a1e499ae11928bd0af25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2000-2005",
+   "path": "ordin/transporturi/2005/2000",
+   "short": "Ordin transporturi nr. 2000/2005",
+   "title": "Ordinul nr. 2.000/2005 privind modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2004 pentru aprobarea unor măsuri privind organizarea și funcționarea Comisiei de recunoaștere a organismelor desemnate pentru atestarea conformității produselor pentru construcții, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66246",
+   "versions": [
+    {
+     "from": "2005-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66246",
+     "sha256": "0db8190713626a9b365b17652bc1dc349a1bf042af4316d89a00e32c598f507a"
     }
    ]
   },
@@ -8913,6 +9588,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2153-2005",
+   "path": "ordin/transporturi/2005/2153",
+   "short": "Ordin transporturi nr. 2153/2005",
+   "title": "Ordinul nr. 2.153/2005 pentru modificarea Listei organismelor recunoscute în domeniul produselor pentru construcții, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.746/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67259",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67259",
+     "sha256": "7a1ea17e9f13a127403b3182b3161ce3f234693af2186f8118beaba957446f32"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2156-2005",
    "path": "ordin/transporturi/2005/2156",
    "short": "Ordin transporturi nr. 2156/2005",
@@ -8943,6 +9633,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2183-2005",
+   "path": "ordin/transporturi/2005/2183",
+   "short": "Ordin transporturi nr. 2183/2005",
+   "title": "Ordinul nr. 2.183/2005 pentru modificarea și completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului și al ministrului educației, cercetării și tineretului nr. 972/5.572/2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68595",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68595",
+     "sha256": "c74aac6f48af43d8712bd2c55168c58be55408fcf6633d74a1f49648a818b8bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2190-2005",
    "path": "ordin/transporturi/2005/2190",
    "short": "Ordin transporturi nr. 2190/2005",
@@ -8969,6 +9674,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68858",
      "sha256": "71d59c71d424546950eeef3ec77bc5a7dd3c0da449a92a3523e95de4d6fe5a2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2218-2005",
+   "path": "ordin/transporturi/2005/2218",
+   "short": "Ordin transporturi nr. 2218/2005",
+   "title": "Ordinul nr. 2.218/2005 pentru modificarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69128",
+   "versions": [
+    {
+     "from": "2006-02-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69128",
+     "sha256": "3b43101d8d9f62e34883a81249d9451f8bcf73633d8de1a55b8b17b900e603b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2231-2005",
+   "path": "ordin/transporturi/2005/2231",
+   "short": "Ordin transporturi nr. 2231/2005",
+   "title": "Ordinul nr. 2.231/2005 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 176/2005 privind aprobarea reglementării tehnice \"Normativ pentru proiectarea, executarea, verificarea și exploatarea instalațiilor electrice în zone cu pericol de explozie\", indicativ NP 099-04",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68524",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68524",
+     "sha256": "6d94e352c6aae160b60364397d612d6aad7a47f9d1f42009ecc648532fb96047"
     }
    ]
   },
@@ -9033,6 +9768,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-24-2005",
+   "path": "ordin/transporturi/2005/24",
+   "short": "Ordin transporturi nr. 24/2005",
+   "title": "Ordinul nr. 24/2005 pentru modificarea și completarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 595/2003 privind aprobarea Cerințelor tehnice minime pentru navele fluviale care arborează pavilionul român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58754",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58754",
+     "sha256": "53842e7037163dcf91bb10bcbdfddb64da57ac192f76219aa51a62d9f1a18c83"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-254-2005",
    "path": "ordin/transporturi/2005/254",
    "short": "Ordin transporturi nr. 254/2005",
@@ -9044,6 +9794,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60005",
      "sha256": "43bd7aa53ef0e3d360520929b1a930b2c8f68b93943b29dfcff7dde0602f9cc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-267-2005",
+   "path": "ordin/transporturi/2005/267",
+   "short": "Ordin transporturi nr. 267/2005",
+   "title": "Ordinul nr. 267/2005 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului transporturilor, construcțiilor și turismului și al ministrului educației, cercetării și tineretului nr. 972/5.572/2003 pentru aprobarea Normelor metodologice privind acordarea facilităților de transport pe calea ferată și cu metroul pentru elevii și studenții din învățământul universitar de stat și particular acreditat, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60416",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60416",
+     "sha256": "e58eee9127952a6121d756183fdd7cc12f3f1d056edf603ea3e391d656d23421"
     }
    ]
   },
@@ -9078,6 +9843,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-415-2005",
+   "path": "ordin/transporturi/2005/415",
+   "short": "Ordin transporturi nr. 415/2005",
+   "title": "Ordinul nr. 415/2005 privind modificarea Normelor pentru acordarea autorizației de gestionare a infrastructurii feroviare neinteroperabile preluate prin închiriere de la Compania Națională de Căi Ferate \"C.F.R.\" - S.A., aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 691/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60353",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60353",
+     "sha256": "59c5e18eb0227148ff53dbecca115cda1bdd74d981834debe6f686798ffc2fb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-43-2005",
+   "path": "ordin/transporturi/2005/43",
+   "short": "Ordin transporturi nr. 43/2005",
+   "title": "Ordinul nr. 43/2005 pentru modificarea Normelor metodologice de autorizare și efectuare a transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.842/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58750",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58750",
+     "sha256": "b115f29fc03b5cc1ae4a7ad5ff73f1113b90f23ccff0af457e6b0a71fca7716e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-516-2005",
    "path": "ordin/transporturi/2005/516",
    "short": "Ordin transporturi nr. 516/2005",
@@ -9104,6 +9899,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61170",
      "sha256": "b0b4794c3f38c1b8f96a0ed97ccaa9c37fbfa1cdaf5c3950054ae0519bf3ee2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-552-2005",
+   "path": "ordin/transporturi/2005/552",
+   "short": "Ordin transporturi nr. 552/2005",
+   "title": "Ordinul nr. 552/2005 pentru modificarea și completarea Normelor metodologice de autorizare și efectuare a transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.842/2001, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61096",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61096",
+     "sha256": "0099b5fbce34e025a199fdaf5815a8c315ce8a58c1b2489a87feac07c995812d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-619-2005",
+   "path": "ordin/transporturi/2005/619",
+   "short": "Ordin transporturi nr. 619/2005",
+   "title": "Ordinul nr. 619/2005 privind completarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 254/2005 pentru aprobarea Listei cuprinzând organismele recunoscute în domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61742",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61742",
+     "sha256": "55a445eca10cf758a842f9151585dc77967bf8ceced54d7d29beb448da36f9f1"
     }
    ]
   },
@@ -9198,6 +10023,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-860-2005",
+   "path": "ordin/transporturi/2005/860",
+   "short": "Ordin transporturi nr. 860/2005",
+   "title": "Ordinul nr. 860/2005 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.239/2004 privind instituirea unor măsuri de creștere a siguranței navigației în apele naționale navigabile și în porturile românești prin introducerea accelerată pentru navele petroliere a obligativității corpului dublu sau a unor cerințe echivalente de proiectare pentru navele petroliere cu corp simplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62282",
+   "versions": [
+    {
+     "from": "2005-06-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62282",
+     "sha256": "050d2f8a0ca1b38505f06f2d8c86e8efa6eb6e00033f3b8b5425c630cadcdc19"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-862-2005",
    "path": "ordin/transporturi/2005/862",
    "short": "Ordin transporturi nr. 862/2005",
@@ -9209,6 +10049,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62374",
      "sha256": "dec88941a6854fcfa13fd2b829e9c167ff0ae3bc0ee963ac0a9cda1f68db6879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-87-2005",
+   "path": "ordin/transporturi/2005/87",
+   "short": "Ordin transporturi nr. 87/2005",
+   "title": "Ordinul nr. 87/2005 privind modificarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2004 pentru aprobarea unor măsuri privind organizarea și funcționarea Comisiei de recunoaștere a organismelor desemnate pentru atestarea conformității produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59077",
+   "versions": [
+    {
+     "from": "2005-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59077",
+     "sha256": "82d09c7ceb9576e04284436253b8917497808887f090dd47ff0bb128eff3d017"
     }
    ]
   },
@@ -9228,6 +10083,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-896-2005",
+   "path": "ordin/transporturi/2005/896",
+   "short": "Ordin transporturi nr. 896/2005",
+   "title": "Ordinul nr. 896/2005 pentru modificarea și completarea Regulamentului privind atestarea conformității produselor pentru construcții, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.558/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62589",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62589",
+     "sha256": "eb43e0808961400b8afe5cce16ef38c6fffb2eb4a0658a1a7ab0cd5d97464e9a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-924-2005",
    "path": "ordin/transporturi/2005/924",
    "short": "Ordin transporturi nr. 924/2005",
@@ -9239,6 +10109,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62976",
      "sha256": "7500c453ad09e80390f1393c5de1cb6f350a5acf299ef8a0afc8b67b1e6fc125"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-952-2005",
+   "path": "ordin/transporturi/2005/952",
+   "short": "Ordin transporturi nr. 952/2005",
+   "title": "Ordinul nr. 952/2005 pentru completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 907/2004 pentru aprobarea Reglementării tehnice \"Normativ pentru evaluarea stării de degradare a îmbrăcămintei bituminoase pentru drumuri cu structuri rutiere suple și semirigide - Revizuire AND 540-98\", indicativ AND 540-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62904",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62904",
+     "sha256": "4eef067265076e276f0afb5b1997581c4d9cd42e75ae5c1f9bd5ede4d110574e"
     }
    ]
   },

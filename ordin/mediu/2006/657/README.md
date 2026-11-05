@@ -1,0 +1,93 @@
+# Ordinul nr. 657/2006 pentru aprobarea modelelor și conținutul formularelor utilizate în activitatea de inspecție fiscala
+
+Ordin mediu nr. 657/2006 · 1 versions, from 2006-08-16 (latest in force: 2006-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/74329>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
+| Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
+| Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
+| Anexa nr. 12 | [anexa-12/text.md](anexa-12/text.md) | 0 |  |
+| Anexa nr. 13 (what it is) | [anexa-13/README.md](anexa-13/README.md) | 0 |  |
+| Anexa nr. 13 | [anexa-13/text.md](anexa-13/text.md) | 0 |  |
+| Anexa nr. 14 (what it is) | [anexa-14/README.md](anexa-14/README.md) | 0 |  |
+| Anexa nr. 14 | [anexa-14/text.md](anexa-14/text.md) | 0 |  |
+| Anexa nr. 15 (what it is) | [anexa-15/README.md](anexa-15/README.md) | 0 |  |
+| Anexa nr. 15 | [anexa-15/text.md](anexa-15/text.md) | 0 |  |
+| Anexa nr. 16 (what it is) | [anexa-16/README.md](anexa-16/README.md) | 0 |  |
+| Anexa nr. 16 | [anexa-16/text.md](anexa-16/text.md) | 0 |  |
+| Anexa nr. 17 (what it is) | [anexa-17/README.md](anexa-17/README.md) | 0 |  |
+| Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
+| Anexa nr. 18 (what it is) | [anexa-18/README.md](anexa-18/README.md) | 0 |  |
+| Anexa nr. 18 | [anexa-18/text.md](anexa-18/text.md) | 0 |  |
+| Anexa nr. 19 (what it is) | [anexa-19/README.md](anexa-19/README.md) | 0 |  |
+| Anexa nr. 19 | [anexa-19/text.md](anexa-19/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 20 (what it is) | [anexa-20/README.md](anexa-20/README.md) | 0 |  |
+| Anexa nr. 20 | [anexa-20/text.md](anexa-20/text.md) | 0 |  |
+| Anexa nr. 21 (what it is) | [anexa-21/README.md](anexa-21/README.md) | 0 |  |
+| Anexa nr. 21 | [anexa-21/text.md](anexa-21/text.md) | 0 |  |
+| Anexa nr. 22 (what it is) | [anexa-22/README.md](anexa-22/README.md) | 0 |  |
+| Anexa nr. 22 | [anexa-22/text.md](anexa-22/text.md) | 0 |  |
+| Anexa nr. 23 (what it is) | [anexa-23/README.md](anexa-23/README.md) | 0 |  |
+| Anexa nr. 23 | [anexa-23/text.md](anexa-23/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
+
+Act id: `ordin-mediu-657-2006` (tags `ordin-mediu-657-2006/<day>`; `python tools/on.py <day> ordin-mediu-657-2006`).
+
+## Decisions made by hand
+
+- Ordin mediu nr. 657/2006: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 74329, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin mediu nr. 657/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin mediu nr. 657/2006: the first version is the order as published in Monitorul Oficial nr. 702 of 16 August 2006 (document 74329 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin mediu nr. 657/2006: the signatures and the place and date line after its last article are not article text.
+- Ordin mediu nr. 657/2006: Anexa nr. 1 (1a) ANTETUL ADMINISTRAȚIEI FONDULUI PENTRU MEDIU AVIZ DE INSPECȚIE FISCALĂ Nr...... din..... Denumirea contribuabilului................................................. Cod de identificare fiscală....) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 2 (1b) INSTRUCȚIUNI de completare și utilizare a formularului "Aviz de inspecție fiscală" "Avizul de inspecție fiscală" reprezintă documentul prin care organele de inspecție ale Administrației Fondului p) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 3 (1c) CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularului "Aviz de inspecție fiscală" 1. Denumire: Aviz de inspecție fiscală 2. Format: A4. 3. Caracteristici de tipărir) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 4 (2a) ORDIN DE SERVICIU Domnul/Doamna............, având funcția de............., este delegat/delegată pentru efectuarea inspecției fiscale privind obligațiile la Fondul pentru mediu la contribuabilul:) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 5 (2b) INSTRUCȚIUNI de completare și utilizare a formularului "Ordin de serviciu" "Ordinul de serviciu" reprezintă documentul prin care organele de inspecție fiscală ale Administrației Fondului pentru Me) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 6 (2c) CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularului "Ordin de serviciu" 1. Denumire: Ordin de serviciu 2. Format: A4. 3. Caracteristici de tipărire: se tipărește) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 7 (3a) NOTĂ EXPLICATIVĂ Subsemnatul/Subsemnata........, având calitatea de........ la........ de la data de......./........./.........., domiciliat/domiciliată în......, județul/sectorul........., bd./st) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 8 (3b) INSTRUCȚIUNI de completare și utilizare a formularului "Notă explicativă" "Nota explicativă" reprezintă documentul prin care organele de inspecție fiscală ale Administrației Fondului pentru Mediu) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 9 (3c) CARACTERISTICILE DE TIPĂRIRE modul de difuzare, utilizare și păstrare a formularului "Notă explicativă" 1. Denumire: Notă explicativă 2. Format: A4 (poate avea un număr variabil de pagini) 3. Cara) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 10 (4a) INVITAȚIE Domnului/Doamnei........., în calitate de............... al......... Vă informăm că în data.................................... organele de inspecție fiscală din cadrul Administrației Fo) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 11 (4b) INSTRUCȚIUNI de completare și utilizare a formularului "Invitație" "Invitația" reprezintă documentul prin care un contribuabil este invitat la sediul Administrației Fondului pentru Mediu în vedere) is part of the order and is published in its folder, anexa-11/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 12 (4c) CARACTERISTICILE DE TIPĂRIRE modul de difuzare, utilizare și păstrare a formularului "Invitație" 1. Denumire: Invitație 2. Format: A4. 3. Caracteristici de tipărire: se tipărește pe o singură față) is part of the order and is published in its folder, anexa-12/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 13 (5a) PROCES -VERBAL*1) de constatare a contravențiilor (ziua......... luna...... anul.........)) is part of the order and is published in its folder, anexa-13/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 14 (5b) INSTRUCȚIUNI de completare și utilizare a formularului "Proces-verbal de constatare a contravențiilor") is part of the order and is published in its folder, anexa-14/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 15 (5c) CARACTERISTICILE DE TIPĂRIRE modul de difuzare, utilizare și păstrare a formularului "Proces-verbal de constatare a contravențiilor" 1. Denumire: Proces-verbal de constatare a contravențiilor 2. F) is part of the order and is published in its folder, anexa-15/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 16 (6a) PROCES -VERBAL de ridicare/restituire de înscrisuri încheiat la data de...../...../........... Subsemnații......., având funcția de......, în cadrul Administrației Fondului pentru Mediu, în baza a) is part of the order and is published in its folder, anexa-16/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 17 (6c) CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularului "Proces-verbal de ridicare/restituire de înscrisuri" 1. Denumire: Proces-verbal de ridicare/restituire de însc) is part of the order and is published in its folder, anexa-17/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 18 (7a) PROCES - VERBAL de sigilare/desigilare încheiat astăzi,.........,*1) în.........*2) Subsemnații........, având funcția de......... în cadrul Administrației Fondului pentru Mediu, în baza titlului) is part of the order and is published in its folder, anexa-18/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 19 (7b) INSTRUCȚIUNI de completare și utilizare a formularului "Proces-verbal de sigilare/desigilare" "Procesul-verbal de sigilare/desigilare" se întocmește de organele de inspecție fiscală în situațiile) is part of the order and is published in its folder, anexa-19/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 20 (7c) CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularului "Proces-verbal de sigilare/desigilare" 1. Denumire: Proces-verbal de sigilare/desigilare. 2. Format: A4 3. Car) is part of the order and is published in its folder, anexa-20/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 21 (8a) DECLARAȚIE Subsemnatul/Subsemnata........., domiciliat/domiciliată în localitatea....., bd./str....., nr....., bl......., sc......., et......., ap......., județul/sectorul........., CNP...........) is part of the order and is published in its folder, anexa-21/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 22 (8b) INSTRUCȚIUNI de completare și utilizare a formularului "Declarație" "Declarația" se întocmește și se semnează de către administratorul sau împuternicitul legal al societății, la finalizarea inspec) is part of the order and is published in its folder, anexa-22/ (paragraphs), from document 74329 of the official web service.
+- Ordin mediu nr. 657/2006: Anexa nr. 23 (8c) CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a documentului "Declarație" 1. Denumire: Declarație 2. Format: A4 3. Caracteristici de tipărire: se tipărește pe o singură fa) is part of the order and is published in its folder, anexa-23/ (paragraphs), from document 74329 of the official web service.

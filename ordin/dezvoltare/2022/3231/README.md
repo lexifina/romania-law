@@ -1,8 +1,8 @@
 # Ordinul nr. 3.231/2022 pentru aprobarea reglementării tehnice "Metodologie de evaluare vizuală rapidă a clădirilor, Indicativ RTC 10 - 2022"
 
-Ordin dezvoltare nr. 3231/2022 · 1 versions, from 2022-12-20 (latest in force: 2022-12-20) · <https://legislatie.just.ro/Public/DetaliiDocument/262844>
+Ordin dezvoltare nr. 3231/2022 · 1 versions, from 2023-01-19 (latest in force: 2023-01-19) · <https://legislatie.just.ro/Public/DetaliiDocument/262844>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 19 January 2023; this record still dates it from 20 December 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,4 +23,4 @@ Act id: `ordin-dezvoltare-3231-2022` (tags `ordin-dezvoltare-3231-2022/<day>`; `
 - Ordin dezvoltare nr. 3231/2022: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 14 decembrie 2022 "Metodologie de evaluare vizuală rapidă a clădirilor, Indicativ RTC 10 - 2022") is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 263386 of the official web service.
 - Ordin dezvoltare nr. 3231/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 1221 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, B" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
 - Ordin dezvoltare nr. 3231/2022: the publisher's note "**) Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 30/N/1994 nu a fost publicat în Monitorul Oficial al României, Partea I." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.
-- Ordin dezvoltare nr. 3231/2022: first published here dated 20 December 2022; its in-force clause states 19 January 2023. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 3231/2022: re-dated by a correction: in force from 19 January 2023 (first published dated 20 December 2022).

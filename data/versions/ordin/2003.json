@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-246-2003",
+   "path": "ordin/agricultura/2003/246",
+   "short": "Ordin agricultura nr. 246/2003",
+   "title": "Ordinul nr. 246/2003 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42891",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42891",
+     "sha256": "c9879a666d53a40d580a6b1e76f93caaf3c7ae17e9b01d26512459adf25440ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-262-2003",
+   "path": "ordin/agricultura/2003/262",
+   "short": "Ordin agricultura nr. 262/2003",
+   "title": "Ordinul nr. 262/2003 pentru aprobarea cotelor de recolta pentru speciile de fauna de interes cinegetic la care vânarea este permisă, pentru sezonul de vânătoare 2003-2004, pe fondurile de vânătoare constituite pe teritoriul Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43908",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43908",
+     "sha256": "4446da506ea45d6781779353eb533507452f60cd9d455d465f5e35336d369c8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-268-2003",
    "path": "ordin/agricultura/2003/268",
    "short": "Ordin agricultura nr. 268/2003",
@@ -865,7 +895,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/44437",
    "versions": [
     {
-     "from": "2003-06-17",
+     "from": "2003-07-02",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44437",
      "sha256": "3423c85508030825a57eb394deca72d71c4441d8e4a8d22113a529d7ba816fc8"
@@ -880,7 +910,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/45659",
    "versions": [
     {
-     "from": "2003-08-18",
+     "from": "2003-09-02",
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45659",
      "sha256": "4f7ae775b3f8a99cd8b20977b33fd891c914423de332a870244dd99ada701fa8"
@@ -895,7 +925,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/46276",
    "versions": [
     {
-     "from": "2003-09-17",
+     "from": "2003-10-02",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46276",
      "sha256": "ca5be241aab240fa1f8caeedd86f106dce83468b3d53774bd8a2b88cb411a109"
@@ -4075,7 +4105,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/45662",
    "versions": [
     {
-     "from": "2003-08-18",
+     "from": "2003-09-17",
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45662",
      "sha256": "ab25f7adae55d315045e7363a0efad84d8c2415fbdd55a102fc2b90e6e74ac86"
@@ -5410,7 +5440,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/44683",
    "versions": [
     {
-     "from": "2003-06-26",
+     "from": "2003-07-01",
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44683",
      "sha256": "528bc2ef3da52c3e96c3630916dfd9a99c66ac9f13775c425fb68463efe7f891"
@@ -5744,6 +5774,216 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46900",
      "sha256": "a287d47b625ce0e1676fd5afa35a81803928ee68e4a60f7fb1deee7d4b652e3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-105-2003",
+   "path": "ordin/mediu/2003/105",
+   "short": "Ordin mediu nr. 105/2003",
+   "title": "Ordinul nr. 105/2003 privind aprobarea Instrucțiunilor de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a barajelor - NTLH-040 și aprobarea componentelor nominale ale comisiei centrale și comisiilor teritoriale de avizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43839",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43839",
+     "sha256": "4bab23af4154d196b3f421e5b397b9932f73096975669b224b60b760ba3ca053"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1215-2003",
+   "path": "ordin/mediu/2003/1215",
+   "short": "Ordin mediu nr. 1215/2003",
+   "title": "Ordinul nr. 1.215/2003 pentru aprobarea Normativului tehnic privind incinerarea deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42180",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42180",
+     "sha256": "764940c7070457da2744f398ee17b50c10460b245f86d2004807dcd5b7c0f38d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1241-2003",
+   "path": "ordin/mediu/2003/1241",
+   "short": "Ordin mediu nr. 1241/2003",
+   "title": "Ordinul nr. 1.241/2003 pentru aprobarea Procedurii de modificare sau de retragere a avizelor și autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41884",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41884",
+     "sha256": "d384480ce515e05b587f555cd26fca1bd372aef46e50ce5bab470d318fa54e74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1388-2003",
+   "path": "ordin/mediu/2003/1388",
+   "short": "Ordin mediu nr. 1388/2003",
+   "title": "Ordinul nr. 1.388/2003 privind constituirea și funcționarea colectivului de analiza tehnică la nivel central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42706",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42706",
+     "sha256": "0bb386287eca4c60b2600de82db2fad3eb8d3cfe0bbfe6b160e827a253b41c95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1440-2003",
+   "path": "ordin/mediu/2003/1440",
+   "short": "Ordin mediu nr. 1440/2003",
+   "title": "Ordinul nr. 1.440/2003 pentru aprobarea Ghidului național de implementare a Registrului poluanților emiși de activitățile care intra sub incidența prevederilor Ordonanței de urgenta a Guvernului nr. 34/2002 privind prevenirea, reducerea și controlul integrat al poluării, aprobată și modificată prin Legea nr. 645/2002, și modul de raportare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42437",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42437",
+     "sha256": "946a4d8b33eb1b0b68bfaca7d8c22993d4a2109e810ee8a51a3516482305b2b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-35-2003",
+   "path": "ordin/mediu/2003/35",
+   "short": "Ordin mediu nr. 35/2003",
+   "title": "Ordinul nr. 35/2003 pentru aprobarea Metodelor de măsurare și analiza folosite la determinarea substanțelor prioritare/prioritare periculoase din apele uzate evacuate și apele de suprafața",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43541",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43541",
+     "sha256": "99f54caa399415f1fa3c08a7d32bc8938636643c72e3af542c402e91d9d5706e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-37-2003",
+   "path": "ordin/mediu/2003/37",
+   "short": "Ordin mediu nr. 37/2003",
+   "title": "Ordinul nr. 37/2003 pentru aprobarea Documentului de referința privind cele mai bune tehnici disponibile (BAT) pentru industria celulozei și hârtiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43052",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43052",
+     "sha256": "72f68b057317b33f2bf7566b1713af530b4d467ff3d9363ccb39205c0aa3678c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-370-2003",
+   "path": "ordin/mediu/2003/370",
+   "short": "Ordin mediu nr. 370/2003",
+   "title": "Ordinul nr. 370/2003 privind activitățile și sistemul de autorizare a laboratoarelor de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47303",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47303",
+     "sha256": "05b03d507fe4f2dbd0dcbf7e8fc088d2575849d7bea05df85c00b20686ff3000"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-65-2003",
+   "path": "ordin/mediu/2003/65",
+   "short": "Ordin mediu nr. 65/2003",
+   "title": "Ordinul nr. 65/2003 pentru aprobarea Normelor privind autorizarea sistemelor de management al calității aplicate la realizarea, funcționarea și dezafectarea instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46471",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46471",
+     "sha256": "0fb139777ebb23f43c71377d7113a9a356fac2633b168e3e02f30c07c7e30e63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-66-2003",
+   "path": "ordin/mediu/2003/66",
+   "short": "Ordin mediu nr. 66/2003",
+   "title": "Ordinul nr. 66/2003 pentru aprobarea Normelor privind cerințele generale pentru sistemele de management al calității aplicate la realizarea, funcționarea și dezafectarea instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46474",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46474",
+     "sha256": "478a87961d109908f84e9de804bb23044e894c4d80d93a3d6bcb06da1d0c5d42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-67-2003",
+   "path": "ordin/mediu/2003/67",
+   "short": "Ordin mediu nr. 67/2003",
+   "title": "Ordinul nr. 67/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate la evaluarea și alegerea amplasamentelor instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46478",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 122,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46478",
+     "sha256": "e064c9f1d3249bf92815cf8b70d2354b6bac699aba67adfdac2f1bad56641326"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-70-2003",
+   "path": "ordin/mediu/2003/70",
+   "short": "Ordin mediu nr. 70/2003",
+   "title": "Ordinul nr. 70/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate activităților de aprovizionare destinate instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46486",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46486",
+     "sha256": "281ca48b4eaeb2d166b85185044ab1b4963ba434aca610c2876474dee73740c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-72-2003",
+   "path": "ordin/mediu/2003/72",
+   "short": "Ordin mediu nr. 72/2003",
+   "title": "Ordinul nr. 72/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate activităților de construcții-montaj destinate instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46488",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46488",
+     "sha256": "4193e0734f6e8e1824ac9454baedb71939ca16153a9154055271b2b0e47313fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-73-2003",
+   "path": "ordin/mediu/2003/73",
+   "short": "Ordin mediu nr. 73/2003",
+   "title": "Ordinul nr. 73/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate activităților de punere în funcțiune a instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46489",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 104,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46489",
+     "sha256": "0ef07c9eac98674088642dbfd8c44fc2576755a01d215ecd7999b6784797a933"
     }
    ]
   },
@@ -6535,7 +6775,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/49265",
    "versions": [
     {
-     "from": "2004-01-21",
+     "from": "2004-04-20",
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49265",
      "sha256": "a779516ab5ad877191025965dc68599efa99b7187488a7579a8c3eaecb0c0a1a"
@@ -6580,7 +6820,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/49254",
    "versions": [
     {
-     "from": "2004-01-20",
+     "from": "2004-03-20",
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49254",
      "sha256": "255665a9b3892cfbd4367071a90fa96c9f5d1614815509cbe0e28ee5403306d4"
@@ -7563,6 +7803,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1043-2003",
+   "path": "ordin/transporturi/2003/1043",
+   "short": "Ordin transporturi nr. 1043/2003",
+   "title": "Ordinul nr. 1.043/2003 privind modificarea și completarea anexei la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49110",
+   "versions": [
+    {
+     "from": "2004-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49110",
+     "sha256": "461c9b9da583cfc6354ecdc44011601c3bb70199d03dbb6332754dae194cff10"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1044-2003",
    "path": "ordin/transporturi/2003/1044",
    "short": "Ordin transporturi nr. 1044/2003",
@@ -7619,6 +7874,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49097",
      "sha256": "3a8bb6d098114857ce48484748c1ffc682ecf6df729c082cd2049099394a7c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1139-2003",
+   "path": "ordin/transporturi/2003/1139",
+   "short": "Ordin transporturi nr. 1139/2003",
+   "title": "Ordinul nr. 1.139/2003 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 827/2003 pentru aprobarea tarifelor suplimentare de utilizare a drumurilor naționale, aplicabile transporturilor efectuate cu vehicule înmatriculate în România și în alte state, care depășesc masa totală maxima admisă, masa maxima admisă pe osie și/sau dimensiunile maxime de gabarit admise în circulație pe drumurile naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45306",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45306",
+     "sha256": "b46043fc7e2c9b0a0f943d0deba4ea55beffd270bbb1958f095073a48aacd696"
     }
    ]
   },
@@ -7743,6 +8013,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-229-2003",
+   "path": "ordin/transporturi/2003/229",
+   "short": "Ordin transporturi nr. 229/2003",
+   "title": "Ordinul nr. 229/2003 pentru aprobarea Reglementărilor privind modificarea sistemelor de alimentare a motoarelor autovehiculelor, care au fost omologate pentru circulația pe drumurile publice din România cu un anumit carburant prevăzut de constructor, pentru funcționarea și cu gaze petroliere lichefiate (GPL) și autorizarea agenților economici care execută montarea, reviziile tehnice și repararea instalațiilor de alimentare a motoarelor cu GPL - RNTR-6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46288",
+   "versions": [
+    {
+     "from": "2003-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46288",
+     "sha256": "7dd3dc810a30fcc9fa237c08fd65d970ffea65b8f6511923a479f98bea78eb7b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-288-2003",
    "path": "ordin/transporturi/2003/288",
    "short": "Ordin transporturi nr. 288/2003",
@@ -7863,6 +8148,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-549-2003",
+   "path": "ordin/transporturi/2003/549",
+   "short": "Ordin transporturi nr. 549/2003",
+   "title": "Ordinul nr. 549/2003 pentru modificarea anexei nr. 1 la Ordonanța Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, aprobată cu modificări și completări prin Legea nr. 210/2003, și a anexei nr. 1.2 la Metodologia privind încadrarea în categoria de tren, clasa, condițiile de emitere, gestionarea și folosirea legitimațiilor de călătorie pe căile ferate române, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.067/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47523",
+   "versions": [
+    {
+     "from": "2003-11-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47523",
+     "sha256": "af956989b558eb3bd873892f916f440c7101d39eeb8b6fbb49dd83be196b1da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-61-2003",
+   "path": "ordin/transporturi/2003/61",
+   "short": "Ordin transporturi nr. 61/2003",
+   "title": "Ordinul nr. 61/2003 privind modificarea Ordinului ministrului transporturilor nr. 353/1998 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45727",
+   "versions": [
+    {
+     "from": "2003-09-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45727",
+     "sha256": "63325f9b979bb112b16331eeefe425a691b6958e577c71bab2f253961872d440"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-62-2003",
+   "path": "ordin/transporturi/2003/62",
+   "short": "Ordin transporturi nr. 62/2003",
+   "title": "Ordinul nr. 62/2003 privind modificarea și completarea Ordinului ministrului transporturilor nr. 536/1997 pentru aprobarea Reglementărilor privind certificarea și/sau omologarea echipamentelor, pieselor de schimb și materialelor utilizate la vehicule rutiere, precum și evaluarea capabilității tehnice și autorizarea agenților economici care prestează servicii de reparație, reglare și/sau desfășoară activitate de reconstrucție a vehiculelor rutiere - RNTR 4, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45708",
+   "versions": [
+    {
+     "from": "2003-08-20",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45708",
+     "sha256": "0cee4e8dd2fed1614dabd42390ab246f481ef89b796b17f16c08b3296f28482a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-693-2003",
    "path": "ordin/transporturi/2003/693",
    "short": "Ordin transporturi nr. 693/2003",
@@ -7874,6 +8204,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49988",
      "sha256": "d4b730ac7ceef98fa31ffa261c18be7538c9cb79980f1636675676bf8698bda7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-77-2003",
+   "path": "ordin/transporturi/2003/77",
+   "short": "Ordin transporturi nr. 77/2003",
+   "title": "Ordinul nr. 77/2003 pentru completarea Părții a II-a - \"Norme de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere\" - din Normele de autorizare a funcționarii centrelor de pregătire a personalului din domeniul transporturilor rutiere, aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 2.026/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45710",
+   "versions": [
+    {
+     "from": "2003-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45710",
+     "sha256": "c88f50849aadf2706e3c853ac68b4de2fcd540d2c7f49f6cbbf969a32dd9e12a"
     }
    ]
   },
@@ -7893,6 +8238,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-830-2003",
+   "path": "ordin/transporturi/2003/830",
+   "short": "Ordin transporturi nr. 830/2003",
+   "title": "Ordinul nr. 830/2003 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 343/2003 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatului de siguranță, în vederea efectuării serviciilor de transport feroviar public și/sau în interes propriu pe căile ferate din România, precum și pentru acordarea autorizației și certificatului de operare pentru manevră agenților economici care efectuează numai operațiuni de manevră feroviară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48003",
+   "versions": [
+    {
+     "from": "2003-12-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48003",
+     "sha256": "baf8f5aa070f636cd38b18c9b5af680ad415e6f5ee49e09373f7ce3f995ffd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-84-2003",
+   "path": "ordin/transporturi/2003/84",
+   "short": "Ordin transporturi nr. 84/2003",
+   "title": "Ordinul nr. 84/2003 pentru modificarea și completarea Normelor metodologice de autorizare și efectuare a transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.842/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45723",
+   "versions": [
+    {
+     "from": "2003-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45723",
+     "sha256": "505890567041580ebb135c3e06487f9f84e307c9c30248cb2fe9f8c8fa290a42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-919-2003",
+   "path": "ordin/transporturi/2003/919",
+   "short": "Ordin transporturi nr. 919/2003",
+   "title": "Ordinul nr. 919/2003 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.067/2003 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, astfel cum a fost aprobată cu modificări și completări prin Legea nr. 210/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48320",
+   "versions": [
+    {
+     "from": "2003-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48320",
+     "sha256": "502f9c449d882523e72aca2a7232089f63174d662dac295129d2a78be5322df2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-920-2003",
    "path": "ordin/transporturi/2003/920",
    "short": "Ordin transporturi nr. 920/2003",
@@ -7904,6 +8294,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48403",
      "sha256": "cf29c6c14d47a5ae83e969d3039ab6fe4100ae6dfb9c124f70c30c6f86201e0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-958-2003",
+   "path": "ordin/transporturi/2003/958",
+   "short": "Ordin transporturi nr. 958/2003",
+   "title": "Ordinul nr. 958/2003 pentru modificarea și completarea Reglementării privind acordarea licenței de transport aerian, aprobată prin Ordinul ministrului transporturilor nr. 578/1998, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48311",
+   "versions": [
+    {
+     "from": "2004-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48311",
+     "sha256": "8fbd4fe666840f48a19787169fe336802aa296b164c67cf38abd3ba5c69e16bc"
     }
    ]
   },

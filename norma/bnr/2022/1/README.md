@@ -1,8 +1,8 @@
 # Norma nr. 1/2022 pentru aplicarea Regulamentului Băncii Naționale a României nr. 8/2022 privind operațiunile de administrare a datoriei publice guvernamentale efectuate de către Ministerul Finanțelor pe piața titlurilor de stat administrată de Banca Națională a României
 
-Norma bnr nr. 1/2022 · 1 versions, from 2022-04-26 (latest in force: 2022-04-26) · <https://legislatie.just.ro/Public/DetaliiDocument/254349>
+Norma bnr nr. 1/2022 · 1 versions, from 2022-05-01 (latest in force: 2022-05-01) · <https://legislatie.just.ro/Public/DetaliiDocument/254349>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (- Model - CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a ofertelor de participare la operațiunile de plasare a titlurilor de stat și de ...): its text could not yet be split into provisions without losing or adding words. Its in-force clause states 1 May 2022; this record still dates it from 26 April 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (- Model - CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a ofertelor de participare la operațiunile de plasare a titlurilor de stat și de ...): its text could not yet be split into provisions without losing or adding words.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -97,4 +97,4 @@ Act id: `norma-bnr-1-2022` (tags `norma-bnr-1-2022/<day>`; `python tools/on.py <
 - Norma bnr nr. 1/2022: Anexa nr. 18 (STRUCTURA ȘI CODIFICAREA conturilor de evidență a titlurilor de stat Structura și codificarea conturilor de evidență a titlurilor de stat, în conformitate cu prevederile Regulilor Sistemului de depozi) is part of the norm and is published in its folder, anexa-18/ (paragraphs), from document 254349 of the official web service.
 - Norma bnr nr. 1/2022: Anexa nr. 19 (RAPORT privind tranzacțiile de sens contrar derulate pe aceeași emisiune de titluri de stat și cu același client, pentru care diferența de preț este de maximum 10 puncte de bază în preț efectuate pe p) is part of the norm and is published in its folder, anexa-19/ (paragraphs), from document 254349 of the official web service.
 - Norma bnr nr. 1/2022: Anexa nr. 1 (- Model - CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a ofertelor de participare la operațiunile de plasare a titlurilor de stat și de ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Norma bnr nr. 1/2022: first published here dated 26 April 2022; its in-force clause states 1 May 2022. The record keeps the first date until it is corrected by hand.
+- Norma bnr nr. 1/2022: re-dated by a correction: in force from 1 May 2022 (first published dated 26 April 2022).

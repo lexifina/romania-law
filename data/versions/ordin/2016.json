@@ -3,6 +3,66 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-agricultura-154-2016",
+   "path": "ordin/agricultura/2016/154",
+   "short": "Ordin agricultura nr. 154/2016",
+   "title": "Ordinul nr. 154/2016 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175711",
+   "versions": [
+    {
+     "from": "2016-02-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175711",
+     "sha256": "8e2c57f71c76f17f803101b178e67583eef0b7bed1239260591b56eb3538c77e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-284-2016",
+   "path": "ordin/agricultura/2016/284",
+   "short": "Ordin agricultura nr. 284/2016",
+   "title": "Ordinul nr. 284/2016 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2016, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177533",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177533",
+     "sha256": "25b63de2e6175a8033225b3c02361c4df5cf7e5b9e8e190519f22ad3a3d1cd46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-358-2016",
+   "path": "ordin/agricultura/2016/358",
+   "short": "Ordin agricultura nr. 358/2016",
+   "title": "Ordinul nr. 358/2016 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 37/2005 privind recunoașterea și funcționarea grupurilor și organizațiilor de producători, pentru comercializarea produselor agricole și silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178199",
+   "versions": [
+    {
+     "from": "2016-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178199",
+     "sha256": "cf1caa40a033b91c4771109e48e89b9404e85f4ff89f1012ce2a6fe07e5806e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-545-2016",
+   "path": "ordin/agricultura/2016/545",
+   "short": "Ordin agricultura nr. 545/2016",
+   "title": "Ordinul nr. 545/2016 privind măsurile de refacere și conservare a populațiilor de sturioni din habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177729",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177729",
+     "sha256": "475bb24f2e66823b748a15f4f20989b4068cce8a167ab940bffaa752b57ed8ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-986-2016",
    "path": "ordin/agricultura/2016/986",
    "short": "Ordin agricultura nr. 986/2016",
@@ -3520,7 +3580,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/182134",
    "versions": [
     {
-     "from": "2016-09-30",
+     "from": "2016-10-01",
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182134",
      "sha256": "7c1bc41ddc17b2a9bd7ad296a48b9d690f9fd348373bf749be34baab1c3ac468"
@@ -7293,6 +7353,1761 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1003-2016",
+   "path": "ordin/mediu/2016/1003",
+   "short": "Ordin mediu nr. 1003/2016",
+   "title": "Ordinul nr. 1.003/2016 privind aprobarea Planului de management și Regulamentului siturilor Natura 2000 ROSPA0093 Pădurea Bogata și ROSCI0137 Pădurea Bogății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180636",
+   "versions": [
+    {
+     "from": "2016-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180636",
+     "sha256": "bf20d87c5dfd4d00e389b64700b9795e4ad9e2761eb6c6b9821408a13d52873d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1004-2016",
+   "path": "ordin/mediu/2016/1004",
+   "short": "Ordin mediu nr. 1004/2016",
+   "title": "Ordinul nr. 1.004/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0318 Măgura Târgu Ocna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182033",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182033",
+     "sha256": "c4829f10f29f3f8e87f539289f52441e8960a55a988ba202a67639942cc86bb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1011-2016",
+   "path": "ordin/mediu/2016/1011",
+   "short": "Ordin mediu nr. 1011/2016",
+   "title": "Ordinul nr. 1.011/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0140 Pădurea Călugărească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183673",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183673",
+     "sha256": "a1e205445a2c40fcb348cec66cf568b8933de515fcb0a969c616070cae30aad8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1012-2016",
+   "path": "ordin/mediu/2016/1012",
+   "short": "Ordin mediu nr. 1012/2016",
+   "title": "Ordinul nr. 1.012/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0174 Pădurea Studinița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185533",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185533",
+     "sha256": "02880623e4b24b732dd36b4fc7f52f7b0c8388c6aa1eeedf0d503bbc1c352d49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1013-2016",
+   "path": "ordin/mediu/2016/1013",
+   "short": "Ordin mediu nr. 1013/2016",
+   "title": "Ordinul nr. 1.013/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0011 Pădurea Braniștea Catârilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183831",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183831",
+     "sha256": "e9f33e6a340376a82d1b75ab4748c1b2456422fb7310130d5fef48d5bf4c922f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1015-2016",
+   "path": "ordin/mediu/2016/1015",
+   "short": "Ordin mediu nr. 1015/2016",
+   "title": "Ordinul nr. 1.015/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0356 Poienile de la Șard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179933",
+   "versions": [
+    {
+     "from": "2016-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179933",
+     "sha256": "405a7c6c1e64ea4c2c3a0ec40ea34c8e8037a33828c5a0681de284c9f57c5028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1016-2016",
+   "path": "ordin/mediu/2016/1016",
+   "short": "Ordin mediu nr. 1016/2016",
+   "title": "Ordinul nr. 1.016/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0159 Pădurea Homița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180091",
+   "versions": [
+    {
+     "from": "2016-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180091",
+     "sha256": "9f0f75e9f217767266636eb6836c293935e95868e22609f81d5497c886d495a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1017-2016",
+   "path": "ordin/mediu/2016/1017",
+   "short": "Ordin mediu nr. 1017/2016",
+   "title": "Ordinul nr. 1.017/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0176 Pădurea Tătăruși și al rezervației naturale Pădurea Tătăruși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180712",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180712",
+     "sha256": "3ddc185e680a39bc99ce822e35abdd06c18d7649f43c124925a44992b8abf361"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1018-2016",
+   "path": "ordin/mediu/2016/1018",
+   "short": "Ordin mediu nr. 1018/2016",
+   "title": "Ordinul nr. 1.018/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSPA0096 Pădurea Miclești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185537",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185537",
+     "sha256": "48eb92d7d54a255e378a28a01116dc83a4378177fc34d432dce36f2e8d2ed1b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1019-2016",
+   "path": "ordin/mediu/2016/1019",
+   "short": "Ordin mediu nr. 1019/2016",
+   "title": "Ordinul nr. 1.019/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0107 Lunca Mircești și al rezervației naturale Lunca Mircești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181231",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181231",
+     "sha256": "a0cdd2991e7653275e5643ce72300e784d08a438c78a3deb3aba46043d6bac23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1023-2016",
+   "path": "ordin/mediu/2016/1023",
+   "short": "Ordin mediu nr. 1023/2016",
+   "title": "Ordinul nr. 1.023/2016 privind aprobarea Planului de management și a Regulamentului ariei de protecție specială avifaunistică ROSPA0047 Hunedoara Timișană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180288",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180288",
+     "sha256": "a61d6ad3de683060f6f29ea69d711c335c3bccb742895350fe2b343616158185"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1024-2016",
+   "path": "ordin/mediu/2016/1024",
+   "short": "Ordin mediu nr. 1024/2016",
+   "title": "Ordinul nr. 1.024/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0133 Pădurea Bădeana și al rezervației naturale Pădurea Bădeana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180756",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180756",
+     "sha256": "b72bad79aa5bf17f4d374002088f82e70f1e9a97e0e29fcfa7326b16e3996505"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1025-2016",
+   "path": "ordin/mediu/2016/1025",
+   "short": "Ordin mediu nr. 1025/2016",
+   "title": "Ordinul nr. 1.025/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0169 Pădurea Seaca - Movileni și al rezervației naturale Seaca - Movileni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180837",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180837",
+     "sha256": "e75fac93a76667fd5abf2650f94e3bb91b72e782ffd9bcc53664542bc2fda022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1026-2016",
+   "path": "ordin/mediu/2016/1026",
+   "short": "Ordin mediu nr. 1026/2016",
+   "title": "Ordinul nr. 1.026/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0051 Cușma și al celor 9 arii naturale protejate de interes național incluse în sit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180692",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180692",
+     "sha256": "16aa549b68e6c291befd19e34ffca7b084f7591cac0580a95bb525e118e72ead"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1029-2016",
+   "path": "ordin/mediu/2016/1029",
+   "short": "Ordin mediu nr. 1029/2016",
+   "title": "Ordinul nr. 1.029/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0181 Pădurea Uricani și Rezervației naturale 2.538 Pădurea Uricani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185601",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185601",
+     "sha256": "27de0cb0fb96d6aa4ec01e3b3b2dd1756e76389ff0d3e57ec4c8eed94cd45372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1040-2016",
+   "path": "ordin/mediu/2016/1040",
+   "short": "Ordin mediu nr. 1040/2016",
+   "title": "Ordinul nr. 1.040/2016 privind aprobarea Planului de management al ariei de protecție specială avifaunistică ROSPA0089 Obcina Feredeului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180421",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180421",
+     "sha256": "613765c70e370e1ffe6e658c0810bfd306667de852730f8491377011cb9f6e75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1041-2016",
+   "path": "ordin/mediu/2016/1041",
+   "short": "Ordin mediu nr. 1041/2016",
+   "title": "Ordinul nr. 1.041/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0322 Muntele Șes",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180740",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180740",
+     "sha256": "36f504ff8663a373c4ff5ce1c706ffcf72bb82485c4e07914cda94f9323bf136"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1042-2016",
+   "path": "ordin/mediu/2016/1042",
+   "short": "Ordin mediu nr. 1042/2016",
+   "title": "Ordinul nr. 1.042/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0247 Tinovul Mare Poiana Stampei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180355",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180355",
+     "sha256": "ef2d8631f45e42cd7905af2a578ca6a4e0513d7cf19592a7bd5b6c66e113d0a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1043-2016",
+   "path": "ordin/mediu/2016/1043",
+   "short": "Ordin mediu nr. 1043/2016",
+   "title": "Ordinul nr. 1.043/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0104 Lunca Inferioară a Crișului Repede",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180389",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180389",
+     "sha256": "72e01fbc8c8cd6976a9651576bd348230827ab620d6463a9ccff8e047a808be0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1044-2016",
+   "path": "ordin/mediu/2016/1044",
+   "short": "Ordin mediu nr. 1044/2016",
+   "title": "Ordinul nr. 1.044/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0200 Platoul Vașcău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180838",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180838",
+     "sha256": "9dfa0b67aaf104aec9f22c2d53a903fa2584007be6ef1c62c8370b920bde4e9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1045-2016",
+   "path": "ordin/mediu/2016/1045",
+   "short": "Ordin mediu nr. 1045/2016",
+   "title": "Ordinul nr. 1.045/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0068 Diosig",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180579",
+   "versions": [
+    {
+     "from": "2016-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180579",
+     "sha256": "f3e9f63896516c15fe2ad33d14e66fec14f2bdf9e892114cf16b4cc71287ed3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1046-2016",
+   "path": "ordin/mediu/2016/1046",
+   "short": "Ordin mediu nr. 1046/2016",
+   "title": "Ordinul nr. 1.046/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0275 Bârsău - Șomcuta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180861",
+   "versions": [
+    {
+     "from": "2016-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180861",
+     "sha256": "01b084a4cf8d2168f564db9c8e8e0ef7644d6bb9e1e236fc4c593bf4b71495dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1056-2016",
+   "path": "ordin/mediu/2016/1056",
+   "short": "Ordin mediu nr. 1056/2016",
+   "title": "Ordinul nr. 1.056/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0178 Pădurea Torcești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182854",
+   "versions": [
+    {
+     "from": "2016-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182854",
+     "sha256": "634f0f596e69b66e861a11dc259d9700e300b1ab0ec2b452a4f046436ca32461"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1058-2016",
+   "path": "ordin/mediu/2016/1058",
+   "short": "Ordin mediu nr. 1058/2016",
+   "title": "Ordinul nr. 1.058/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0334 Pădurea Buciumeni - Homocea și ale Rezervației Naturale Pădurea Buciumeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182921",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182921",
+     "sha256": "6775f225d8a619c9b530f38d2a1e098310559e6325ae028c0a7d0b34cdc289bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1060-2016",
+   "path": "ordin/mediu/2016/1060",
+   "short": "Ordin mediu nr. 1060/2016",
+   "title": "Ordinul nr. 1.060/2016 privind aprobarea Planului de management și Regulamentului Parcului Național Cozia și al siturilor Natura 2000 din zona acestuia ROSCI0046 Cozia și ROSPA0025 Cozia-Buila-Vânturarița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185671",
+   "versions": [
+    {
+     "from": "2017-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185671",
+     "sha256": "e61f39a55d22b6d7de21d9591395df4afa9f3cb7eb9cda741e45e53fac853ddd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1061-2016",
+   "path": "ordin/mediu/2016/1061",
+   "short": "Ordin mediu nr. 1061/2016",
+   "title": "Ordinul nr. 1.061/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0171 Pădurea și pajiștile de la Mârzești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183894",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183894",
+     "sha256": "5e35c4fbc33c811b6830a907e864ec193d88f86ffe16663a0f6a9f8aa8c4efe2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1069-2016",
+   "path": "ordin/mediu/2016/1069",
+   "short": "Ordin mediu nr. 1069/2016",
+   "title": "Ordinul nr. 1.069/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0106 Lunca Mijlocie a Argeșului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180474",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180474",
+     "sha256": "fcdea6781741f1620f33168d1df7c972587527bd09d0cf26cfb5fd82ab1631ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1070-2016",
+   "path": "ordin/mediu/2016/1070",
+   "short": "Ordin mediu nr. 1070/2016",
+   "title": "Ordinul nr. 1.070/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0394 Someșul Mic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180066",
+   "versions": [
+    {
+     "from": "2016-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180066",
+     "sha256": "178f0d31aa505005bc3a4c4cd2c1cc7fa4edde74df54047c54dd908b955db9bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1071-2016",
+   "path": "ordin/mediu/2016/1071",
+   "short": "Ordin mediu nr. 1071/2016",
+   "title": "Ordinul nr. 1.071/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0050 Crișul Repede amonte de Oradea și ale ariei de protecție specială avifaunistică ROSPA0123 Lacurile de acumulare de pe Crișul Repede",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180835",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180835",
+     "sha256": "d006fa8ec30a26c2b4e3b7ffe01b850efcb33c600c1b392f435e0c51068539f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1072-2016",
+   "path": "ordin/mediu/2016/1072",
+   "short": "Ordin mediu nr. 1072/2016",
+   "title": "Ordinul nr. 1.072/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0223 Sărăturile Ocna Veche",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180773",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180773",
+     "sha256": "cbd46cf2a0289ed8300145cb64152e5b3d3a60ad12286d03579a9321a0dffa2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1073-2016",
+   "path": "ordin/mediu/2016/1073",
+   "short": "Ordin mediu nr. 1073/2016",
+   "title": "Ordinul nr. 1.073/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0061 Defileul Crișului Negru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180105",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180105",
+     "sha256": "36e2fbfd1fcb145770ff844eb80ec98eaff36256fe629484b9d42935d3b6c1aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1074-2016",
+   "path": "ordin/mediu/2016/1074",
+   "short": "Ordin mediu nr. 1074/2016",
+   "title": "Ordinul nr. 1.074/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0049 Crișul Negru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180799",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180799",
+     "sha256": "7411abef90032c9ef4b4a87a593dd4a7a5adb6df0a6bb8572ce4d7e6b94b69c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1075-2016",
+   "path": "ordin/mediu/2016/1075",
+   "short": "Ordin mediu nr. 1075/2016",
+   "title": "Ordinul nr. 1.075/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0103 Lunca Buzăului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181638",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181638",
+     "sha256": "30a1a1258aed5821a32c7e0041db6ddfc30d3b95c939ffe8fc243a3ecbc25a9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1076-2016",
+   "path": "ordin/mediu/2016/1076",
+   "short": "Ordin mediu nr. 1076/2016",
+   "title": "Ordinul nr. 1.076/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0216 Reghiu Scruntar și al Rezervației naturale Pădurea Reghiu-Scruntaru - cod 2.820",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181704",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181704",
+     "sha256": "c34e2f63881450743ae79ca9007ce2aa27636726782b59cdfd7e6dec33731d33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1077-2016",
+   "path": "ordin/mediu/2016/1077",
+   "short": "Ordin mediu nr. 1077/2016",
+   "title": "Ordinul nr. 1.077/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0026 Cenaru și al Rezervației naturale Pădurea Cenaru - cod 2.815",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181872",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181872",
+     "sha256": "434dd77f23f560a7ab9736061633e3eb9ec44119b987b066e9721b5fbc4d74fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1078-2016",
+   "path": "ordin/mediu/2016/1078",
+   "short": "Ordin mediu nr. 1078/2016",
+   "title": "Ordinul nr. 1.078/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0073 Dunele marine de la Agigea și al ariei naturale protejate de interes național Dunele marine de la Agigea - cod 2.366",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181791",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181791",
+     "sha256": "b20dc683576e02892e0f9a0291bb16d55cfb6bc80f1de78e30d94aa23a99edb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1079-2016",
+   "path": "ordin/mediu/2016/1079",
+   "short": "Ordin mediu nr. 1079/2016",
+   "title": "Ordinul nr. 1.079/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0009 Beștepe - Mahmudia și al ariei naturale protejate de interes național Dealurile Beștepe - cod IV 59",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181770",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181770",
+     "sha256": "d9cb7ff58e2301eeea2c1a2d70a28238072d9da4c0534c63d1000f56bdded52b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1080-2016",
+   "path": "ordin/mediu/2016/1080",
+   "short": "Ordin mediu nr. 1080/2016",
+   "title": "Ordinul nr. 1.080/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0134 Pădurea Balta-Munteni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183020",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183020",
+     "sha256": "4f5f4d9e638a7654b9f6d909b9caee5639819c3165012971caafa36be3562429"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1089-2016",
+   "path": "ordin/mediu/2016/1089",
+   "short": "Ordin mediu nr. 1089/2016",
+   "title": "Ordinul nr. 1.089/2016 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179469",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179469",
+     "sha256": "ede69c251dbb2a1b31e747321e12c94431455a94c909c62fd6cfbffc8cb4ca09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1093-2016",
+   "path": "ordin/mediu/2016/1093",
+   "short": "Ordin mediu nr. 1093/2016",
+   "title": "Ordinul nr. 1.093/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0106 Valea Oltului Inferior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183713",
+   "versions": [
+    {
+     "from": "2016-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183713",
+     "sha256": "6f683501305704ad5b7d39d48176ce2004f5b0abb0ba887d168e1793af8091ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1098-2016",
+   "path": "ordin/mediu/2016/1098",
+   "short": "Ordin mediu nr. 1098/2016",
+   "title": "Ordinul nr. 1.098/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0110 Acumulările Rogojești-Bucecea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184373",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184373",
+     "sha256": "3e6b5e4a3bb708163467521c181ff837ca626f4a7a7fcef9c17ed395ed908abf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1118-2016",
+   "path": "ordin/mediu/2016/1118",
+   "short": "Ordin mediu nr. 1118/2016",
+   "title": "Ordinul nr. 1.118/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0010 Bistrița Aurie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185116",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185116",
+     "sha256": "15ba87df59f68299af046715c5466f18cdaf36d712070b2642d89fb3932612fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1119-2016",
+   "path": "ordin/mediu/2016/1119",
+   "short": "Ordin mediu nr. 1119/2016",
+   "title": "Ordinul nr. 1.119/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0266 Valea Oltețului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186322",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186322",
+     "sha256": "bb928d5bab6e0071680e35366bcef0eeb82e618e9a76ff25e536f1041dc65ae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1120-2016",
+   "path": "ordin/mediu/2016/1120",
+   "short": "Ordin mediu nr. 1120/2016",
+   "title": "Ordinul nr. 1.120/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0337 Pădurea Neudorfului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181458",
+   "versions": [
+    {
+     "from": "2016-09-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181458",
+     "sha256": "7c2a898d50ff6c8e3dc9bc8413ca26ad6895d5960c36cbd4e4c7bbd1ddd2bc2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1121-2016",
+   "path": "ordin/mediu/2016/1121",
+   "short": "Ordin mediu nr. 1121/2016",
+   "title": "Ordinul nr. 1.121/2016 privind aprobarea Planului de management și a Regulamentului Parcului Național Domogled-Valea Cernei și al siturilor Natura 2000 ROSCI0069 și ROSPA0035",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182436",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182436",
+     "sha256": "0b6ab4d1ee52e86243eca02ce51490f80e78303d5844838d89ddccf33df591bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1122-2016",
+   "path": "ordin/mediu/2016/1122",
+   "short": "Ordin mediu nr. 1122/2016",
+   "title": "Ordinul nr. 1.122/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0262 Valea Iadei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180551",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180551",
+     "sha256": "d46ef59416c48016f969b8b4c46b139da82fb5958f2a08f3088989460811dcb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1125-2016",
+   "path": "ordin/mediu/2016/1125",
+   "short": "Ordin mediu nr. 1125/2016",
+   "title": "Ordinul nr. 1.125/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0091 Herculian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180255",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180255",
+     "sha256": "f5225dba469d28eecad1c2f05ebf3d8a8f9de68d8f7e09af0e86e9bb5537f70b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1130-2016",
+   "path": "ordin/mediu/2016/1130",
+   "short": "Ordin mediu nr. 1130/2016",
+   "title": "Ordinul nr. 1.130/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0263 Valea Ierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181746",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181746",
+     "sha256": "3c0e7d17af307703e3f4e546bba0b61e2c85feda79633603e86553b53ae8f6d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1131-2016",
+   "path": "ordin/mediu/2016/1131",
+   "short": "Ordin mediu nr. 1131/2016",
+   "title": "Ordinul nr. 1.131/2016 privind aprobarea Planului de management al sitului ROSCI0135 Pădurea Bârnova Repedea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182771",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182771",
+     "sha256": "3ff7139b06fd80fee3464f24709fdda59640a41b60a1c943b8a27feb7fdb5a41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1136-2016",
+   "path": "ordin/mediu/2016/1136",
+   "short": "Ordin mediu nr. 1136/2016",
+   "title": "Ordinul nr. 1.136/2016 privind aprobarea Planului de management și Regulamentului sitului ROSCI0321 Moldova Superioară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182114",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182114",
+     "sha256": "2992dfb669664d2aa472f4a8d7f8be88ef671a2e3168e75ad218dd818da930b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-114-2016",
+   "path": "ordin/mediu/2016/114",
+   "short": "Ordin mediu nr. 114/2016",
+   "title": "Ordinul nr. 114/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0147 Pădurea de stejar pufos de la Mirăslău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177697",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177697",
+     "sha256": "74f83102af6caf7187a77c4f6f5ffac28d1ceb86a3117d2671e976f649792c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-115-2016",
+   "path": "ordin/mediu/2016/115",
+   "short": "Ordin mediu nr. 115/2016",
+   "title": "Ordinul nr. 115/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI 0080 Fânațurile de la Glodeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176648",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176648",
+     "sha256": "a9720acca2c4ff1b34993c96ff89a4211d8079bb72590a2eefde30307538303a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1151-2016",
+   "path": "ordin/mediu/2016/1151",
+   "short": "Ordin mediu nr. 1151/2016",
+   "title": "Ordinul nr. 1.151/2016 privind aprobarea Planului de management și a Regulamentului Parcului Național Buila-Vânturarița, al siturilor Natura 2000 ROSCI0015 Buila-Vânturarița, ROSPA0025 Cozia-Buila-Vânturarița și al ariilor naturale protejate incluse în acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186063",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186063",
+     "sha256": "137361362ff9f265a3cb5ef05eb0f3002686d3818c8d94c8470e27ed2ea38bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1155-2016",
+   "path": "ordin/mediu/2016/1155",
+   "short": "Ordin mediu nr. 1155/2016",
+   "title": "Ordinul nr. 1.155/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0064 Defileul Mureșului și al ariilor naturale protejate conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181582",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181582",
+     "sha256": "857fe67c3c41a0ce87dd7521c0260d9fb7482deba15fc00092968b42f82c8d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1157-2016",
+   "path": "ordin/mediu/2016/1157",
+   "short": "Ordin mediu nr. 1157/2016",
+   "title": "Ordinul nr. 1.157/2016 privind aprobarea Planului de management și a Regulamentului Parcului Natural Munții Maramureșului, ale sitului de importanță comunitară ROSCI0124 Munții Maramureșului, ale ariei de protecție specială avifaunistică ROSPA0131 Munții Maramureșului și ale ariilor naturale protejate de interes național suprapuse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180915",
+   "versions": [
+    {
+     "from": "2016-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180915",
+     "sha256": "f50b6d8d066cc0d48d3260e74296ebfed8f4fa9fd93c4ebeeec3b8de1000340b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1158-2016",
+   "path": "ordin/mediu/2016/1158",
+   "short": "Ordin mediu nr. 1158/2016",
+   "title": "Ordinul nr. 1.158/2016 privind aprobarea Planului de management și Regulamentului siturilor Natura 2000 ROSCI0085 Frumoasa și ROSPA0043 Frumoasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181389",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181389",
+     "sha256": "8649996777321de882168d5042a99cbde01f300d0f0fa51b455dcfc0c3d125d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1159-2016",
+   "path": "ordin/mediu/2016/1159",
+   "short": "Ordin mediu nr. 1159/2016",
+   "title": "Ordinul nr. 1.159/2016 privind aprobarea Planului de management și a Regulamentului Rezervației Naturale Borca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183675",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183675",
+     "sha256": "6b2c4f443bbe8366d7445df828d7d06e42161de040414390d35c09a2b39fb6f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1160-2016",
+   "path": "ordin/mediu/2016/1160",
+   "short": "Ordin mediu nr. 1160/2016",
+   "title": "Ordinul nr. 1.160/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0161 Pădurea Medeleni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184280",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184280",
+     "sha256": "05f3998a3039f86b42c98289fedee47aba787cc2d0028b99bc6c36291eceb858"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1165-2016",
+   "path": "ordin/mediu/2016/1165",
+   "short": "Ordin mediu nr. 1165/2016",
+   "title": "Ordinul nr. 1.165/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0326 Muscelele Argeșului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181932",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181932",
+     "sha256": "7a8dcffa1b53232fbd8ae7985d76a0f3e6d84de0ce72250178d0e68059fc4f22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1167-2016",
+   "path": "ordin/mediu/2016/1167",
+   "short": "Ordin mediu nr. 1167/2016",
+   "title": "Ordinul nr. 1.167/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0098 Lacul Pețea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181092",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181092",
+     "sha256": "3a3d846c43a4cbb13a2762e8c03f1e00afa7ad1f41c758e1ad4b900902d7f204"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1168-2016",
+   "path": "ordin/mediu/2016/1168",
+   "short": "Ordin mediu nr. 1168/2016",
+   "title": "Ordinul nr. 1.168/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0255 Turbăria de la Dersca și al Rezervației Naturale Turbăria de la Dersca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185734",
+   "versions": [
+    {
+     "from": "2017-01-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185734",
+     "sha256": "215d52fa21eee6f15bf7375b001d4fa08cb793afd99a6551f13ca7dc391c46f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1169-2016",
+   "path": "ordin/mediu/2016/1169",
+   "short": "Ordin mediu nr. 1169/2016",
+   "title": "Ordinul nr. 1.169/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0038 Dunăre-Oltenița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185795",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185795",
+     "sha256": "0a9fc122ef9ff7ec27ef75349d9484092f5da65a546581b718ffa2ed755f8adb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1170-2016",
+   "path": "ordin/mediu/2016/1170",
+   "short": "Ordin mediu nr. 1170/2016",
+   "title": "Ordinul nr. 1.170/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0125 Lacurile Vaduri și Pângărați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183762",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183762",
+     "sha256": "7ae68c1607172c2ecf8b478f35bbd71b654d0ccf600f539d137398bd7ca0563b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1176-2016",
+   "path": "ordin/mediu/2016/1176",
+   "short": "Ordin mediu nr. 1176/2016",
+   "title": "Ordinul nr. 1.176/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0058 Lacul Stânca-Costești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183317",
+   "versions": [
+    {
+     "from": "2016-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183317",
+     "sha256": "eca99f2a8d3c4a1d7dd636309dab7a694d7bee5932594238a76441bebc2d6be1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1177-2016",
+   "path": "ordin/mediu/2016/1177",
+   "short": "Ordin mediu nr. 1177/2016",
+   "title": "Ordinul nr. 1.177/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0214 Râul Tur, ariei de protecție specială avifaunistică ROSPA0068 Lunca Inferioară a Turului, ariei naturale protejate de interes național VII.10 Râul Tur și rezervației naturale de interes județean Noroieni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180973",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180973",
+     "sha256": "cea7a7e54bc438c42ac81d0eea96acf5d6ee9d10fa9aefc9e51100d2523501b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1178-2016",
+   "path": "ordin/mediu/2016/1178",
+   "short": "Ordin mediu nr. 1178/2016",
+   "title": "Ordinul nr. 1.178/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0250 Ținutul Pădurenilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182608",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182608",
+     "sha256": "437a75ec81acc621643bf04d6b569f65321188bedc5a00deda4a1b53dc8763c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1179-2016",
+   "path": "ordin/mediu/2016/1179",
+   "short": "Ordin mediu nr. 1179/2016",
+   "title": "Ordinul nr. 1.179/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSCI0109 Lunca Timișului și ROSPA0095 Pădurea Macedonia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183034",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183034",
+     "sha256": "7c1be5873e437173c8acec994b9c43f6f13e7525061ce9ccbdac606eb74d7141"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1180-2016",
+   "path": "ordin/mediu/2016/1180",
+   "short": "Ordin mediu nr. 1180/2016",
+   "title": "Ordinul nr. 1.180/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA014 Câmpia Cermeiului și ale ariilor naturale protejate conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182936",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182936",
+     "sha256": "496c49936950730a750905df28aef0a48b08bdf14df6e0a97c220061fd58e3c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1181-2016",
+   "path": "ordin/mediu/2016/1181",
+   "short": "Ordin mediu nr. 1181/2016",
+   "title": "Ordinul nr. 1.181/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0015 Câmpia Crișului Alb și Crișului Negru și ariile naturale protejate conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182525",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182525",
+     "sha256": "7f70a075bd82302a2785d60183cf6c0adcaed221583d1cfe574111bea6046b8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1182-2016",
+   "path": "ordin/mediu/2016/1182",
+   "short": "Ordin mediu nr. 1182/2016",
+   "title": "Ordinul nr. 1.182/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0289 Coridorul Drocea-Codru Moma",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183987",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183987",
+     "sha256": "b0fdfc5db308fd8b05592418c935e94e30461aaccb8014a085044fa0b7f3eef1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1183-2016",
+   "path": "ordin/mediu/2016/1183",
+   "short": "Ordin mediu nr. 1183/2016",
+   "title": "Ordinul nr. 1.183/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0062 Lacurile de acumulare de pe Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182156",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182156",
+     "sha256": "ca8a34659acfaddfc34e941aff93fd332c9f1fb42eed4e679aa2433f94aced10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1184-2016",
+   "path": "ordin/mediu/2016/1184",
+   "short": "Ordin mediu nr. 1184/2016",
+   "title": "Ordinul nr. 1.184/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0298 Defileul Crișului Alb",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182864",
+   "versions": [
+    {
+     "from": "2016-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182864",
+     "sha256": "154bd2a9cb10d3827f4a2507ed3474c34b23a04eb16247315da8ad86cda709c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1185-2016",
+   "path": "ordin/mediu/2016/1185",
+   "short": "Ordin mediu nr. 1185/2016",
+   "title": "Ordinul nr. 1.185/2016 privind aprobarea Planului de management și a Regulamentului ariilor naturale protejate ROSPA0019 Cheile Dobrogei, ROSCI0215 Recifii Jurasici Cheia, 2.362 Rezervația naturală Recifii Jurasici Cheia, 2.356 Rezervația naturală Peștera La Adam, 2.357 Rezervația naturală Peștera Gura Dobrogei, B.2 Rezervația naturală Gura Dobrogei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184595",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184595",
+     "sha256": "fcc6a33b08df4b97f74a1bb89f3689364db25f1c20a34b09d1717af8bfca07cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1186-2016",
+   "path": "ordin/mediu/2016/1186",
+   "short": "Ordin mediu nr. 1186/2016",
+   "title": "Ordinul nr. 1.186/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0240 Tășad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180983",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180983",
+     "sha256": "ff44052d93c0923db9d93ca6db2d4220128836798a4d1ef28a53dafab2253448"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1187-2016",
+   "path": "ordin/mediu/2016/1187",
+   "short": "Ordin mediu nr. 1187/2016",
+   "title": "Ordinul nr. 1.187/2016 privind aprobarea Planului de management al Rezervației Naturale și Sitului Natura 2000 ROSCI0032 Cheile Rudăriei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182413",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182413",
+     "sha256": "21f3dc09ff5d94ca203691a8e3fdb117b85018d880c16dbd387a6b43c2796511"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1188-2016",
+   "path": "ordin/mediu/2016/1188",
+   "short": "Ordin mediu nr. 1188/2016",
+   "title": "Ordinul nr. 1.188/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0230 Slănic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184333",
+   "versions": [
+    {
+     "from": "2016-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184333",
+     "sha256": "2beb33f7bf1f5f533bb2a07d77931e0699190e6aabfd8d133b558b1e1a31dae9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1189-2016",
+   "path": "ordin/mediu/2016/1189",
+   "short": "Ordin mediu nr. 1189/2016",
+   "title": "Ordinul nr. 1.189/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0008 Betfia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181880",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181880",
+     "sha256": "9f2646edd29a8e2b207c8613215342249022f0bb163339cd68cc6259b300978f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1190-2016",
+   "path": "ordin/mediu/2016/1190",
+   "short": "Ordin mediu nr. 1190/2016",
+   "title": "Ordinul nr. 1.190/2016 privind aprobarea Planului de management și a Regulamentului ariei naturale protejate Brateș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184293",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184293",
+     "sha256": "d330605a023e0016221c860ab8306e01f5b3ecf6faa0b6d40e46f1450ee485f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1191-2016",
+   "path": "ordin/mediu/2016/1191",
+   "short": "Ordin mediu nr. 1191/2016",
+   "title": "Ordinul nr. 1.191/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0370 Râul Mureș între Lipova și Păuliș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181532",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181532",
+     "sha256": "2319b37e257f19c022b2e06c2f8f60c4f8289945760e48889a80a5fc38b1405f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1196-2016",
+   "path": "ordin/mediu/2016/1196",
+   "short": "Ordin mediu nr. 1196/2016",
+   "title": "Ordinul nr. 1.196/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0135 Nisipurile de la Dăbuleni și al ariei protejate de interes național 2.667 Casa Pădurii din Pădurea Potelu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185683",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185683",
+     "sha256": "574c8fcb3c50c6076107f30f3125f9d1f90711d05cb78c017e1b7d8631646bb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1197-2016",
+   "path": "ordin/mediu/2016/1197",
+   "short": "Ordin mediu nr. 1197/2016",
+   "title": "Ordinul nr. 1.197/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0076 Marea Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183974",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183974",
+     "sha256": "3766770cd445330494af11d6ebd18db260ebde028a7daa4a393292ae7625596e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1198-2016",
+   "path": "ordin/mediu/2016/1198",
+   "short": "Ordin mediu nr. 1198/2016",
+   "title": "Ordinul nr. 1.198/2016 privind aprobarea Planului de management și a Regulamentului Geoparcului Platoul Mehedinți și al ariilor naturale protejate cu care se suprapune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184870",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184870",
+     "sha256": "e5916f161c61ef7cefa5ac685b0ba4fdd1d8f17f162233d23ee93cb89b9005ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1199-2016",
+   "path": "ordin/mediu/2016/1199",
+   "short": "Ordin mediu nr. 1199/2016",
+   "title": "Ordinul nr. 1.199/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0376 Râul Olt între Mărunței și Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181967",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181967",
+     "sha256": "b833e7958d6dd4776f8a75e413923ace60d9c028130bb370c0de278a4d9cb935"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1201-2016",
+   "path": "ordin/mediu/2016/1201",
+   "short": "Ordin mediu nr. 1201/2016",
+   "title": "Ordinul nr. 1.201/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0354 Platforma Cotmeana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182403",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182403",
+     "sha256": "999b2e9ccfb6ca2666d0bc2d9fb37acf626f6704892e02e015def4bad0f20839"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1202-2016",
+   "path": "ordin/mediu/2016/1202",
+   "short": "Ordin mediu nr. 1202/2016",
+   "title": "Ordinul nr. 1.202/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0062 Defileul Crișului Repede - Pădurea Craiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181696",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181696",
+     "sha256": "4f631f139cd6b60dcfac02ab6b42f00319bfe30559fd44057aaf18d5f3dc99bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1204-2016",
+   "path": "ordin/mediu/2016/1204",
+   "short": "Ordin mediu nr. 1204/2016",
+   "title": "Ordinul nr. 1.204/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0395 Soveja",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185499",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185499",
+     "sha256": "d14d86b76f5b5260d995e219805bdf67afc537c7fe3b4e4ca6e3250136517983"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1205-2016",
+   "path": "ordin/mediu/2016/1205",
+   "short": "Ordin mediu nr. 1205/2016",
+   "title": "Ordinul nr. 1.205/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0391 Siretul Mijlociu - Bucecea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182705",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182705",
+     "sha256": "145b01aed3bb60aef8d0b90b4aa948378dcfbeac9b898f12e2b2136ba0d9b0cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1207-2016",
+   "path": "ordin/mediu/2016/1207",
+   "short": "Ordin mediu nr. 1207/2016",
+   "title": "Ordinul nr. 1.207/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0167 Pădurea Roșcani și Rezervației Naturale Pădurea Roșcani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186431",
+   "versions": [
+    {
+     "from": "2017-02-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186431",
+     "sha256": "df14c4a0b4333ccae7604ce9d56b07e3d383132bd00c5ee6ef6e3330bf393ef9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1208-2016",
+   "path": "ordin/mediu/2016/1208",
+   "short": "Ordin mediu nr. 1208/2016",
+   "title": "Ordinul nr. 1.208/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0295 Dealurile Clujului Est și ale Rezervațiilor Naturale VII.6. Fânațele Clujului \"La Copârșaie\" și VII.7. Fânațele Clujului \"La Craiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185082",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185082",
+     "sha256": "ebf450c482ddb2f7cae412c5eb2ea0bf1d5e2e966ff3f2ef675a68e9cdb31022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1214-2016",
+   "path": "ordin/mediu/2016/1214",
+   "short": "Ordin mediu nr. 1214/2016",
+   "title": "Ordinul nr. 1.214/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSCI0149 Pădurea Esechioi-Lacul Bugeac și ROSPA0053 Lacul Bugeac și ale ariilor naturale protejate de interes național 2.365 Pădurea Esechioi și IV.28 Lacul Bugeac",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182206",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182206",
+     "sha256": "226f6eed9a3da870956cb21730a363764715a05041f961c4c9ed2e83eeaab181"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1215-2016",
+   "path": "ordin/mediu/2016/1215",
+   "short": "Ordin mediu nr. 1215/2016",
+   "title": "Ordinul nr. 1.215/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0048 Ianca - Plopu Sărat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183331",
+   "versions": [
+    {
+     "from": "2016-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183331",
+     "sha256": "a2a8e782e2d0a25137702c0cbac9d906d62ebff844f8bb733f86f7392b0bcb33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1217-2016",
+   "path": "ordin/mediu/2016/1217",
+   "short": "Ordin mediu nr. 1217/2016",
+   "title": "Ordinul nr. 1.217/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0006 Balta Tătaru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184930",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184930",
+     "sha256": "adba0cc5f94344a83ef77e273d542441dcbb982da9db26b9b6ef4a52c005fe85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1218-2016",
+   "path": "ordin/mediu/2016/1218",
+   "short": "Ordin mediu nr. 1218/2016",
+   "title": "Ordinul nr. 1.218/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0188 Parâng și ale ariilor protejate de interes național 2.800 Miru Bora, 2.803 Iezerul Latorița, 2.799 Căldarea Gâlcescu, 2.528 Cheile Jiețului și 2.498 Piatra Crinului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186050",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186050",
+     "sha256": "757520637834fd91f69950a6ba18b5c509544eff88a05d1e2f6da010a75a4346"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1219-2016",
+   "path": "ordin/mediu/2016/1219",
+   "short": "Ordin mediu nr. 1219/2016",
+   "title": "Ordinul nr. 1.219/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSPA0032 Deniz Tepe și ROSCI0067 Deniz Tepe și al rezervației naturale Dealul Deniz Tepe, cod IV.70",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183566",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183566",
+     "sha256": "e2e73e82cca2def8ca4bb02d373a13493a51481c52b525278c9145faf31bde7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1220-2016",
+   "path": "ordin/mediu/2016/1220",
+   "short": "Ordin mediu nr. 1220/2016",
+   "title": "Ordinul nr. 1.220/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0299 Dunărea la Gârla Mare Maglavit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183690",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183690",
+     "sha256": "aba0ee631a2d9e79a0556d5942cb56afb5fd4450476d4e15c8fa51e0cee15df6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1221-2016",
+   "path": "ordin/mediu/2016/1221",
+   "short": "Ordin mediu nr. 1221/2016",
+   "title": "Ordinul nr. 1.221/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0077 Măxineni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184884",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184884",
+     "sha256": "9bb11a52957c9e15639118428fff010ef2cf75fe97b7faef161a1333860f6a3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1224-2016",
+   "path": "ordin/mediu/2016/1224",
+   "short": "Ordin mediu nr. 1224/2016",
+   "title": "Ordinul nr. 1.224/2016 privind aprobarea Planului de management și a Regulamentului Parcului Natural Lunca Mureșului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182812",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182812",
+     "sha256": "84da63965b9d58509d4d306ae7840c231baa51fb8f9ee26472d7aa5143a9d428"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1225-2016",
+   "path": "ordin/mediu/2016/1225",
+   "short": "Ordin mediu nr. 1225/2016",
+   "title": "Ordinul nr. 1.225/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0094 Izvoarele sulfuroase submarine de la Mangalia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184575",
+   "versions": [
+    {
+     "from": "2016-12-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184575",
+     "sha256": "98f79f97b51bdb7de7a79e08e66b53cd93349da72c86d6605b16b42a6c12693c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1227-2016",
+   "path": "ordin/mediu/2016/1227",
+   "short": "Ordin mediu nr. 1227/2016",
+   "title": "Ordinul nr. 1.227/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0083 Fântânița Murfatlar și al Rezervației naturale Fântânița - Murfatlar, cod 2.364",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181655",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181655",
+     "sha256": "c120c53fa582c3f848874f3c4ad35b041690af2fbbf75f6610d1fbc040ed1fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1228-2016",
+   "path": "ordin/mediu/2016/1228",
+   "short": "Ordin mediu nr. 1228/2016",
+   "title": "Ordinul nr. 1.228/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSCI0172 Pădurea și Valea Canaraua Fetii-Iortmac, ROSPA0008 Băneasa-Canaraua Fetii, ROSPA0054 Lacul Dunăreni, ROSPA0056 Lacul Oltina și al rezervațiilor naturale 2.363 Rezervația Naturală Pădurea Canaraua Fetii, IV.29 Rezervația Naturală Lacul Dunăreni, IV.27 Rezervația Naturală Lacul Oltina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185573",
+   "versions": [
+    {
+     "from": "2017-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185573",
+     "sha256": "ba3e1c2c28a7f33d49f9331f5a55516518ada36e2a5cd7297391ca4ce2fdc4fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1239-2016",
+   "path": "ordin/mediu/2016/1239",
+   "short": "Ordin mediu nr. 1239/2016",
+   "title": "Ordinul nr. 1.239/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0202 Silvostepa Olteniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183588",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183588",
+     "sha256": "eadc814e158c4568e0cd924c5ec17621eae5f2bffaa92ebb5b6b55160802b749"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1240-2016",
+   "path": "ordin/mediu/2016/1240",
+   "short": "Ordin mediu nr. 1240/2016",
+   "title": "Ordinul nr. 1.240/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0059 Dealul Perchiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183370",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183370",
+     "sha256": "87ed791f0e21d9001d4b08bb0a97e9c9eb0684df39e3908a26108599751100e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1243-2016",
+   "path": "ordin/mediu/2016/1243",
+   "short": "Ordin mediu nr. 1243/2016",
+   "title": "Ordinul nr. 1.243/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0128 Nordul Gorjului de Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185628",
+   "versions": [
+    {
+     "from": "2017-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185628",
+     "sha256": "0bc57308790d0e4c3d70077bcc8a7ee4887337461423e2f166af7c7a8a614e23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1245-2016",
+   "path": "ordin/mediu/2016/1245",
+   "short": "Ordin mediu nr. 1245/2016",
+   "title": "Ordinul nr. 1.245/2016 privind aprobarea Planului de management și a Regulamentului ariei de protecție specială avifaunistică ROSPA0103 Valea Alceului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180901",
+   "versions": [
+    {
+     "from": "2016-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180901",
+     "sha256": "9546bb6d22a54820605817334d6c621d778820f315375f423888f7ab3c6f940d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1248-2016",
+   "path": "ordin/mediu/2016/1248",
+   "short": "Ordin mediu nr. 1248/2016",
+   "title": "Ordinul nr. 1.248/2016 privind aprobarea Planului de management și a Regulamentului ariilor naturale protejate Ciuperceni-Desa ROSCI0039 Ciuperceni-Desa, ROSPA0013 Calafat-Ciuperceni-Dunăre, 2.392. Ciuperceni-Desa, 2.398. Balta Lată, 2.397. Balta Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185582",
+   "versions": [
+    {
+     "from": "2017-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185582",
+     "sha256": "ec2eb40e357bdee5f5e78f8a602f9b896dcf46d0c816a2aec6a702642d4dc173"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1249-2016",
+   "path": "ordin/mediu/2016/1249",
+   "short": "Ordin mediu nr. 1249/2016",
+   "title": "Ordinul nr. 1.249/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0237 Structuri submarine metanogene Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184583",
+   "versions": [
+    {
+     "from": "2016-12-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184583",
+     "sha256": "adfd42f5a66c34d23e5b013af0be39f5a2a5f4a52b5b9bc85d417c5b14a99678"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1250-2016",
+   "path": "ordin/mediu/2016/1250",
+   "short": "Ordin mediu nr. 1250/2016",
+   "title": "Ordinul nr. 1.250/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0074 Maglavit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183812",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183812",
+     "sha256": "4d94888207ddad254a5f7fd3a306c6022bce35a4c3adb2a0f34981dab5a40117"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1251-2016",
+   "path": "ordin/mediu/2016/1251",
+   "short": "Ordin mediu nr. 1251/2016",
+   "title": "Ordinul nr. 1.251/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0129 Nordul Gorjului de Vest",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183060",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183060",
+     "sha256": "41882d3f54b65ec9adb77cf66e2adfb42a32be5e76896c7fd8ec2f7d753b7936"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1252-2016",
+   "path": "ordin/mediu/2016/1252",
+   "short": "Ordin mediu nr. 1252/2016",
+   "title": "Ordinul nr. 1.252/2016 privind aprobarea Planului de management pentru ariile naturale protejate: ROSCI0022 Canaralele Dunării, ROSCI0053 Dealul Allah Bair, ROSPA0002 Allah Bair-Capidava, ROSPA0017 Canaralele de la Hârșova, ROSPA0039 Dunăre-Ostroave, Reciful neojurasic de la Topalu - 2352, Reciful fosilifer Seimenii Mari - 2355, Dealul Allah Bair - 2367, Ostrovul Șoimul - IV.19, Celea Mare-Valea lui Ene - IV.24, Pădurea Cetate - IV.25, Pădurea Bratca - IV.26, Canaralele din Portul Hârșova - 2.369, Locul fosilifer Cernavodă - 2.534, Punctul fosilifer Movila Banului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186003",
+   "versions": [
+    {
+     "from": "2017-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186003",
+     "sha256": "889ebbba34395fc1ca9d74f03916e3f094d3a886bcf986e57698537c7dde4fa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1282-2016",
+   "path": "ordin/mediu/2016/1282",
+   "short": "Ordin mediu nr. 1282/2016",
+   "title": "Ordinul nr. 1.282/2016 pentru aprobarea derogării în scop științific în cazul unor specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180713",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180713",
+     "sha256": "7a703cd5d8bd8e9db270c18cca669357ac0276825f4a7f617031a103a48d366e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1299-2016",
+   "path": "ordin/mediu/2016/1299",
+   "short": "Ordin mediu nr. 1299/2016",
+   "title": "Ordinul nr. 1.299/2016 privind aprobarea Planului de management și a Regulamentului ariei de protecție specială avifaunistică ROSPA0067 Lunca Barcăului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181134",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181134",
+     "sha256": "96c8117dc72432cbb7d580d20319ba9a8a88f4bf4d510e015ec54a45b0fe1f86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1354-2016",
+   "path": "ordin/mediu/2016/1354",
+   "short": "Ordin mediu nr. 1354/2016",
+   "title": "Ordinul nr. 1.354/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSPA0049 Iazurile de pe Valea Ibănesei-Bașeului-Podrigăi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186794",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186794",
+     "sha256": "de0bfbfe2486d2f3a36f5ea46e29c792a7b5c78d1bb4d78313821c5d27c2337b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-140-2016",
+   "path": "ordin/mediu/2016/140",
+   "short": "Ordin mediu nr. 140/2016",
+   "title": "Ordinul nr. 140/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0362 - Râul Gilort",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176578",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176578",
+     "sha256": "3deeb8d8c23238093e4f764758446de742463654d53ede793e3e7b9a9d52feef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-141-2016",
+   "path": "ordin/mediu/2016/141",
+   "short": "Ordin mediu nr. 141/2016",
+   "title": "Ordinul nr. 141/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0037 Ciomad Balvanyos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176959",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176959",
+     "sha256": "54cd2d26fae318a3e092f86b7e4c73977ea4fa56a4f788e40c6e225eba135f8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1432-2016",
+   "path": "ordin/mediu/2016/1432",
+   "short": "Ordin mediu nr. 1432/2016",
+   "title": "Ordinul nr. 1.432/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0197 Plaja submersă Eforie Nord - Eforie Sud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183605",
+   "versions": [
+    {
+     "from": "2016-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183605",
+     "sha256": "73c55981efb21f2737e1d29db95a9dc0d899109647c6619b01fd38b22f07adac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1433-2016",
+   "path": "ordin/mediu/2016/1433",
+   "short": "Ordin mediu nr. 1433/2016",
+   "title": "Ordinul nr. 1.433/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0273 Zona marină de la Capul Tuzla",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181713",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181713",
+     "sha256": "10616919a5b9cf64e29700e2c2272e6bf89c91087289bee66f57af74109b6d31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1480-2016",
+   "path": "ordin/mediu/2016/1480",
+   "short": "Ordin mediu nr. 1480/2016",
+   "title": "Ordinul nr. 1.480/2016 privind aprobarea Planului de management și a Regulamentului ariilor naturale protejate ROSCI0157 Pădurea Hagieni-Cotul Văii, ROSPA0094 Pădurea Hagieni și 2.360 Pădurea Hagieni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182010",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182010",
+     "sha256": "3d5bbe740eb8b9e83dbeb021f6a2998a154c573c999211c71e3c2be3ee9bfa47"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1494-2016",
    "path": "ordin/mediu/2016/1494",
    "short": "Ordin mediu nr. 1494/2016",
@@ -7304,6 +9119,456 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181439",
      "sha256": "6b024a08b7244ca7a3dc31d7469b46ecf540a5f074383bc774afbff32ab9d396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1507-2016",
+   "path": "ordin/mediu/2016/1507",
+   "short": "Ordin mediu nr. 1507/2016",
+   "title": "Ordinul nr. 1.507/2016 privind aprobarea Procedurii de aprobare, modificare, anulare și casare a actelor de punere în valoare pentru masa lemnoasă provenită din fondul forestier național și din vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181215",
+   "versions": [
+    {
+     "from": "2016-08-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181215",
+     "sha256": "0df4b5ec261397127469d35a01afab20ecd936247ce7e71c0174d31a4b0165dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1509-2016",
+   "path": "ordin/mediu/2016/1509",
+   "short": "Ordin mediu nr. 1509/2016",
+   "title": "Ordinul nr. 1.509/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0233 Someșul Rece",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181865",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181865",
+     "sha256": "3395891ef932d1f61717de53c4559d42ffee3f7e43dad3ff13c47c87b6b269a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-152-2016",
+   "path": "ordin/mediu/2016/152",
+   "short": "Ordin mediu nr. 152/2016",
+   "title": "Ordinul nr. 152/2016 pentru aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2016, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175698",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175698",
+     "sha256": "d6ac8c214ede7fb8a3e1894aad28191dd0a98a549ff913cd8536912cba2dd824"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1523-2016",
+   "path": "ordin/mediu/2016/1523",
+   "short": "Ordin mediu nr. 1523/2016",
+   "title": "Ordinul nr. 1.523/2016 privind aprobarea Planului de management și a Regulamentului Parcului Național Cheile Bicazului-Hășmaș și al siturilor Natura 2000 ROSCI0027 și ROSPA0018 Cheile Bicazului-Hășmaș (fără suprafața de suprapunere cu ROSCI0033 Cheile Șugăului-Munticelu)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182052",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182052",
+     "sha256": "fc8de8b9a2ca6b9cb3bff6716aaaa98c223212cd23742bf8983bfb84ec9e9790"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1525-2016",
+   "path": "ordin/mediu/2016/1525",
+   "short": "Ordin mediu nr. 1525/2016",
+   "title": "Ordinul nr. 1.525/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0074 Făgetul Clujului - Valea Morii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182144",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182144",
+     "sha256": "db9da40c2d50b704e5e1db1f115a193afce8aa9c51d6e0cc697984d740dc33b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1526-2016",
+   "path": "ordin/mediu/2016/1526",
+   "short": "Ordin mediu nr. 1526/2016",
+   "title": "Ordinul nr. 1.526/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSPA0087 Munții Trascăului, ROSCI0253 Trascău, ROSCI0300 Fânațele Pietroasa-Podeni, ROSCI0035 Cheile Turzii, ROSCI0034 Cheile Turenilor, precum și al celor 35 de arii naturale protejate de interes național de pe suprafața acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186027",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186027",
+     "sha256": "596180b7b75833fcadfdadb464010a77103529e0cb02d1b4fa89387c46844020"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1530-2016",
+   "path": "ordin/mediu/2016/1530",
+   "short": "Ordin mediu nr. 1530/2016",
+   "title": "Ordinul nr. 1.530/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0269 Vama Veche - 2 Mai",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185151",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185151",
+     "sha256": "973bff10f5de5be926ae55c6d20cb578804d539eb4f25a80f2bebfcc39b7f60d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1531-2016",
+   "path": "ordin/mediu/2016/1531",
+   "short": "Ordin mediu nr. 1531/2016",
+   "title": "Ordinul nr. 1.531/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSPA0144 Uivar-Diniaș și ROSCI0390 Sărăturile Diniaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183667",
+   "versions": [
+    {
+     "from": "2016-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183667",
+     "sha256": "f27b6d04faec2d69b0ddab316d10370ab17830f213b506f5e43d3463d6b80c8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1532-2016",
+   "path": "ordin/mediu/2016/1532",
+   "short": "Ordin mediu nr. 1532/2016",
+   "title": "Ordinul nr. 1.532/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0126 Livezile-Dolaț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182494",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182494",
+     "sha256": "31ef2e592ac480e86990c07c20ecff01583f6dea835e7b88a0d8100d148e242f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1534-2016",
+   "path": "ordin/mediu/2016/1534",
+   "short": "Ordin mediu nr. 1534/2016",
+   "title": "Ordinul nr. 1.534/2016 privind aprobarea Procedurii de emitere a certificatelor de origine pentru biomasa provenită din silvicultură și industriile conexe și utilizată în producerea de energie electrică din surse regenerabile de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180783",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180783",
+     "sha256": "4e7ced102e325b4d3b097e4a93221670ab86784948f76940f3f7cded5756b821"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1553-2016",
+   "path": "ordin/mediu/2016/1553",
+   "short": "Ordin mediu nr. 1553/2016",
+   "title": "Ordinul nr. 1.553/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSPA0028 Dealurile Târnavelor și Valea Nirajului, ROSCI0186 Pădurile de Stejar Pufos de pe Târnava Mare, ROSCI0297 Dealurile Târnavei Mici - Bicheș și ROSCI0384 Râul Târnava Mică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183612",
+   "versions": [
+    {
+     "from": "2016-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183612",
+     "sha256": "e37e9c76840413178db34d0145f27317b937691a8174ae6212d7f428730a8e65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1554-2016",
+   "path": "ordin/mediu/2016/1554",
+   "short": "Ordin mediu nr. 1554/2016",
+   "title": "Ordinul nr. 1.554/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0364 Râul Moldova între Tupilați și Roman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185156",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185156",
+     "sha256": "7a9bf94ea7a879376e13ea54f2e95d87f5151139280656a5f8815805aad14c06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1556-2016",
+   "path": "ordin/mediu/2016/1556",
+   "short": "Ordin mediu nr. 1556/2016",
+   "title": "Ordinul nr. 1.556/2016 privind aprobarea Planului de management al Parcului Natural Defileul Mureșului Superior și al ariilor naturale protejate anexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185035",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185035",
+     "sha256": "4f0353dba13aa61ab0e65e77fc7cdc59e7c7d51471f28ec9817f5c82c8c66542"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1557-2016",
+   "path": "ordin/mediu/2016/1557",
+   "short": "Ordin mediu nr. 1557/2016",
+   "title": "Ordinul nr. 1.557/2016 privind aprobarea Planului de management și a Regulamentului ariilor naturale protejate ROSCI0071 Dumbrăveni - Valea Urluia - Lacul Vederoasa, ROSPA0036 Dumbrăveni, ROSPA0001 Aliman - Adamclisi, ROSPA0007 Balta Vederoasa, 2.361 Pădurea Dumbrăveni, 2.350 Pereții calcaroși de la Petroșani - Comuna Deleni, 2.351 Locul fosilifer Aliman și IV.30 Lacul Vederoasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183593",
+   "versions": [
+    {
+     "from": "2016-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183593",
+     "sha256": "51043554e4d36f9a01412cb340161e754c8811fbdd741865db9b27fa291cdf08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1558-2016",
+   "path": "ordin/mediu/2016/1558",
+   "short": "Ordin mediu nr. 1558/2016",
+   "title": "Ordinul nr. 1.558/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0260 Valea Cepelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184531",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184531",
+     "sha256": "cac9fc07bd277fee31df30b72202c6e11d7e8379a2b6e503b0b09833f5a188b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1559-2016",
+   "path": "ordin/mediu/2016/1559",
+   "short": "Ordin mediu nr. 1559/2016",
+   "title": "Ordinul nr. 1.559/2016 pentru aprobarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice și electrice hibrid plug-in",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180693",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180693",
+     "sha256": "94fcbdb8488230dac9501bb43036f6df8043c15c83448740c537d0291838e5da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1570-2016",
+   "path": "ordin/mediu/2016/1570",
+   "short": "Ordin mediu nr. 1570/2016",
+   "title": "Ordinul nr. 1.570/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0365 Râul Moldova între Păltinoasa și Ruși",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185798",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185798",
+     "sha256": "2cb24a31f83b92b362b7be144688df0d591b84de8b3a2cafbe5523a8398a7393"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1639-2016",
+   "path": "ordin/mediu/2016/1639",
+   "short": "Ordin mediu nr. 1639/2016",
+   "title": "Ordinul nr. 1.639/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0142 Teremia Mare-Tomnatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182534",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182534",
+     "sha256": "43aafce6f790988e36b71737c905a0836a614bad8b9450ba7c9522690708b7d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1640-2016",
+   "path": "ordin/mediu/2016/1640",
+   "short": "Ordin mediu nr. 1640/2016",
+   "title": "Ordinul nr. 1.640/2016 privind aprobarea Planului de management și a Regulamentului sitului ROSCI0363 Râul Moldova între Oniceni și Mitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183649",
+   "versions": [
+    {
+     "from": "2016-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183649",
+     "sha256": "86a0210ceb6552f0b6f4d8e155e32056fe2a4af62d235ce13f8ef5f1164aae57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1641-2016",
+   "path": "ordin/mediu/2016/1641",
+   "short": "Ordin mediu nr. 1641/2016",
+   "title": "Ordinul nr. 1.641/2016 privind aprobarea Planului de management al ariei naturale protejate de interes național Lacul Adunații de Geormane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185433",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185433",
+     "sha256": "d37a74b829ea3d3ebaaed9386160a82a835f2a92a98508826bf9dcde95741d7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1642-2016",
+   "path": "ordin/mediu/2016/1642",
+   "short": "Ordin mediu nr. 1642/2016",
+   "title": "Ordinul nr. 1.642/2016 privind aprobarea Planului de management și a Regulamentului Parcului Național Cheile Nerei-Beușnița și al siturilor Natura 2000 ROSCI0031 Cheile Nerei-Beușnița și ROSPA0020 Cheile Nerei-Beușnița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182909",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182909",
+     "sha256": "75f6bac37c79f0ac38712c1365ce77097f360f299a1052cd870320fa7b75a4fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1643-2016",
+   "path": "ordin/mediu/2016/1643",
+   "short": "Ordin mediu nr. 1643/2016",
+   "title": "Ordinul nr. 1.643/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSPA0082 Munții Bodoc Baraolt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183186",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183186",
+     "sha256": "f4e221f38b35325aab8b38b939777e95a147bbc119746f7adabebc4bfb0923a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1644-2016",
+   "path": "ordin/mediu/2016/1644",
+   "short": "Ordin mediu nr. 1644/2016",
+   "title": "Ordinul nr. 1.644/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0113 Cânepiști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182070",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182070",
+     "sha256": "74aaaf30fe2f21c3ee6600a6ff7fb804934db3ad2f950eaacaf99cdf57102714"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1645-2016",
+   "path": "ordin/mediu/2016/1645",
+   "short": "Ordin mediu nr. 1645/2016",
+   "title": "Ordinul nr. 1.645/2016 privind aprobarea Planului de management și a Regulamentului ariilor naturale protejate ROSCI0045 Coridorul Jiului, ROSPA0023 Confluența Jiu-Dunăre, ROSPA0010 Bistreț și Rezervațiile Naturale Locul Fosilifer Drănic - 2.391 și Pădurea Zăval - IV.33",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182457",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182457",
+     "sha256": "b42d5462f0c3fda0a35801abb03f2d6b5fffeaf2567cc9af31133d300cdb4396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1662-2016",
+   "path": "ordin/mediu/2016/1662",
+   "short": "Ordin mediu nr. 1662/2016",
+   "title": "Ordinul nr. 1.662/2016 privind aprobarea derogării pentru specia Ursus arctos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182037",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182037",
+     "sha256": "24ed55238a8151705216742edcf008b2ce2832d83568ce78692994bbdc8b5f2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1811-2016",
+   "path": "ordin/mediu/2016/1811",
+   "short": "Ordin mediu nr. 1811/2016",
+   "title": "Ordinul nr. 1.811/2016 privind aprobarea Ghidului aplicantului - Cerere de propuneri de proiecte în cadrul fondului pentru relații bilaterale aferent Programului RO04 - Reducerea substanțelor periculoase, implementat în cadrul Mecanismului financiar SEE 2009-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186781",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186781",
+     "sha256": "88213af64fe4a927ae1d82df7482b9bd0a9660185aa91e7453898332d394d99f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1812-2016",
+   "path": "ordin/mediu/2016/1812",
+   "short": "Ordin mediu nr. 1812/2016",
+   "title": "Ordinul nr. 1.812/2016 privind aprobarea Ghidului aplicantului - Cerere de propuneri de proiecte în cadrul Fondului pentru relații bilaterale aferent Programului RO07 - Adaptarea la schimbările climatice finanțat prin granturile SEE 2009-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186784",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186784",
+     "sha256": "8440c9bd1e61b301220268e1def63f66ff44fe67e5e0b224dbbe99627f5f5bcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1813-2016",
+   "path": "ordin/mediu/2016/1813",
+   "short": "Ordin mediu nr. 1813/2016",
+   "title": "Ordinul nr. 1.813/2016 privind aprobarea Ghidului aplicantului - Cerere de propuneri de proiecte în cadrul fondului pentru relații bilaterale aferent Programului RO02 - Biodiversitate și servicii ale ecosistemelor, implementat în cadrul Mecanismului financiar SEE 2009-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186788",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186788",
+     "sha256": "2432c9853206bafefabc3c8177b3d9cab5f103167f8363a52ff7ede9a313c31a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1817-2016",
+   "path": "ordin/mediu/2016/1817",
+   "short": "Ordin mediu nr. 1817/2016",
+   "title": "Ordinul nr. 1.817/2016 pentru aprobarea Ghidului de finanțare a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire, beneficiari persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181959",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181959",
+     "sha256": "1ed085f4797f6399ff62232354580575bbc60d92653dadc7cb82fcba6d8d739a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1825-2016",
+   "path": "ordin/mediu/2016/1825",
+   "short": "Ordin mediu nr. 1825/2016",
+   "title": "Ordinul nr. 1.825/2016 privind aprobarea ghidurilor pentru evaluarea impactului asupra mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182659",
+   "versions": [
+    {
+     "from": "2016-10-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182659",
+     "sha256": "3fb1e5823c624f38d55ec0830b49a677d0826dbd78e962d9156a9acf651f0895"
     }
    ]
   },
@@ -7323,6 +9588,186 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1986-2016",
+   "path": "ordin/mediu/2016/1986",
+   "short": "Ordin mediu nr. 1986/2016",
+   "title": "Ordinul nr. 1.986/2016 privind actualizarea anexei nr. 3 la Legea nr. 212/2015 privind modalitatea de gestionare a vehiculelor și a vehiculelor scoase din uz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183065",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183065",
+     "sha256": "461476adb8f6bfd533a4e36baf169c3d9f1db1216d4901b432dad20a8fac17b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2020-2016",
+   "path": "ordin/mediu/2016/2020",
+   "short": "Ordin mediu nr. 2020/2016",
+   "title": "Ordinul nr. 2.020/2016 pentru aprobarea Regulamentului privind atribuirea în gestiune a faunei cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183367",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183367",
+     "sha256": "7a1c627ce1cb280d2f660f4f58a22e12860f634f81c7d3a1c471f4ba516146b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-208-2016",
+   "path": "ordin/mediu/2016/208",
+   "short": "Ordin mediu nr. 208/2016",
+   "title": "Ordinul nr. 208/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0199 Platoul Meledic și ale ariei naturale protejate Platoul Meledic, cod 2.267",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179558",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179558",
+     "sha256": "40cd0104523ab7fd11266874781619298400bca772e900083aaa7e96fe4cfc06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2082-2016",
+   "path": "ordin/mediu/2016/2082",
+   "short": "Ordin mediu nr. 2082/2016",
+   "title": "Ordinul nr. 2.082/2016 pentru aprobarea modelului și conținutului formularelor utilizate în activitatea de inspecție fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183759",
+   "versions": [
+    {
+     "from": "2016-11-18",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183759",
+     "sha256": "1535a39f61424e053cdca227ebe871e660eb0734ecea0aeb91b43f04b21f48b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-209-2016",
+   "path": "ordin/mediu/2016/209",
+   "short": "Ordin mediu nr. 209/2016",
+   "title": "Ordinul nr. 209/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0229 Siriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179988",
+   "versions": [
+    {
+     "from": "2016-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179988",
+     "sha256": "e0f486f1036c14981cf1771070e2347494fddad7da2896b18630453fcd666951"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-211-2016",
+   "path": "ordin/mediu/2016/211",
+   "short": "Ordin mediu nr. 211/2016",
+   "title": "Ordinul nr. 211/2016 privind aprobarea Planului de management al ariei naturale protejate Pădurea Camnița - cod 2.259",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179503",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179503",
+     "sha256": "e8760e3be1731c8b0a296b7db918a59ed36e96ad83ccbe05c7ac46786722ec20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-215-2016",
+   "path": "ordin/mediu/2016/215",
+   "short": "Ordin mediu nr. 215/2016",
+   "title": "Ordinul nr. 215/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0190 Penteleu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180574",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180574",
+     "sha256": "d9021cd1a56be6091874272766a46215cba186cd78a6ef49c4e6541863beee94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2153-2016",
+   "path": "ordin/mediu/2016/2153",
+   "short": "Ordin mediu nr. 2153/2016",
+   "title": "Ordinul nr. 2.153/2016 pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183961",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183961",
+     "sha256": "1f745d9f6709979f0bcaa180a02f7e6ac4ea8770f54f70e7bd18e88e55825db9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2204-2016",
+   "path": "ordin/mediu/2016/2204",
+   "short": "Ordin mediu nr. 2204/2016",
+   "title": "Ordinul nr. 2.204/2016 privind aprobarea Planului de management și a Regulamentului Rezervației naturale Piatra Șoimilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186816",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186816",
+     "sha256": "089fe362129d70a761b6597d0e7bf6fd623aee99edc7f0b707b96f2339b88949"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2222-2016",
+   "path": "ordin/mediu/2016/2222",
+   "short": "Ordin mediu nr. 2222/2016",
+   "title": "Ordinul nr. 2.222/2016 privind aprobarea Regulamentului de atestare a producătorilor din industria mobilei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183975",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183975",
+     "sha256": "79a5f0a50a23c4876898e4e2ba141907addec2ac4aeba5a868627d25d15656a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2227-2016",
+   "path": "ordin/mediu/2016/2227",
+   "short": "Ordin mediu nr. 2227/2016",
+   "title": "Ordinul nr. 2.227/2016 pentru constituirea și funcționarea Comisiei Patrimoniului Speologic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184823",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184823",
+     "sha256": "c197a9165bd22914dc8b5619dec140dca1eb419b176e0fee8305ac4ce78ad84c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2228-2016",
+   "path": "ordin/mediu/2016/2228",
+   "short": "Ordin mediu nr. 2228/2016",
+   "title": "Ordinul nr. 2.228/2016 pentru aprobarea Ghidului de finanțare a Programului privind efectuarea de lucrări destinate eficienței energetice, beneficiari persoane juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184831",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184831",
+     "sha256": "ace61afc212cb6ad5a6288372624c73814ecd2b0b734a8cf03d1a3f7ec39380b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-226-2016",
    "path": "ordin/mediu/2016/226",
    "short": "Ordin mediu nr. 226/2016",
@@ -7334,6 +9779,276 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177434",
      "sha256": "f7cd67a00991fdb92b062cb5870b980544ac72098e0ef560b8f94083397a975f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-230-2016",
+   "path": "ordin/mediu/2016/230",
+   "short": "Ordin mediu nr. 230/2016",
+   "title": "Ordinul nr. 230/2016 privind aprobarea Planului de management al Rezervației Naturale Codrul secular Runc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176195",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176195",
+     "sha256": "2c4bfaca1aceb6108ba9dd5ae231a89da463de057ec1c4012aaf8a053b8e981e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2416-2016",
+   "path": "ordin/mediu/2016/2416",
+   "short": "Ordin mediu nr. 2416/2016",
+   "title": "Ordinul nr. 2.416/2016 privind aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2017, pentru a fi folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 22 alin. (6) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185580",
+   "versions": [
+    {
+     "from": "2017-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185580",
+     "sha256": "889c61ec741f3de8f3cc55073fe514b81090967bcd3b1933233989d86dce6c55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2421-2016",
+   "path": "ordin/mediu/2016/2421",
+   "short": "Ordin mediu nr. 2421/2016",
+   "title": "Ordinul nr. 2.421/2016 privind aprobarea înființării Consiliului Național pentru Silvicultură, precum și a Regulamentului de organizare și funcționare al Consiliului Național pentru Silvicultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185606",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185606",
+     "sha256": "c524caeb01738c629d8788c1ece3a73b74e343ae9508adfaf4c624e80f602fbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2525-2016",
+   "path": "ordin/mediu/2016/2525",
+   "short": "Ordin mediu nr. 2525/2016",
+   "title": "Ordinul nr. 2.525/2016 privind constituirea Catalogului național al pădurilor virgine și cvasivirgine din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186018",
+   "versions": [
+    {
+     "from": "2017-01-25",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186018",
+     "sha256": "1f2a1cfbc5def375625913ce368d544151a1c66f1511ec43914c0f54ed377488"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-343-2016",
+   "path": "ordin/mediu/2016/343",
+   "short": "Ordin mediu nr. 343/2016",
+   "title": "Ordinul nr. 343/2016 privind aprobarea Planului de management al sitului ROSCI0221 Sărăturile din Valea Ilenei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176936",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176936",
+     "sha256": "7be4d54ed1d7b815f14c87e61506312877b4e5972a6d80238cbdf97b1f635aac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-344-2016",
+   "path": "ordin/mediu/2016/344",
+   "short": "Ordin mediu nr. 344/2016",
+   "title": "Ordinul nr. 344/2016 privind aprobarea Planului de management al sitului de importanță comunitară \"Fânețele seculare Ponoare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176863",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176863",
+     "sha256": "b0dc100d24a353a0d8b293a5c32bb5c59f706245e3989bac9aaf9920952b08b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-345-2016",
+   "path": "ordin/mediu/2016/345",
+   "short": "Ordin mediu nr. 345/2016",
+   "title": "Ordinul nr. 345/2016 privind aprobarea Planului de management al sitului Natura 2000 Fânețele seculare Frumoasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176983",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176983",
+     "sha256": "44a29f24f91404addcb3b2850d9ad8446ade7650ff715f776608e09f81a60120"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-346-2016",
+   "path": "ordin/mediu/2016/346",
+   "short": "Ordin mediu nr. 346/2016",
+   "title": "Ordinul nr. 346/2016 privind aprobarea Planului de management al Rezervației Naturale Secu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177121",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177121",
+     "sha256": "dc3ed269ece387b9c50c0a9cf0d9d0f1b463e84661cb2cdc5738cf60d6d88409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-36-2016",
+   "path": "ordin/mediu/2016/36",
+   "short": "Ordin mediu nr. 36/2016",
+   "title": "Ordinul nr. 36/2016 pentru aprobarea listelor cu unitățile administrativ-teritoriale întocmite în urma încadrării în regimurile de evaluare a ariilor din zonele și aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175440",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175440",
+     "sha256": "ae5a069ad6a74426b6ac550f3dadf0287f31d326e36cb9b50790b84fb21956ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-368-2016",
+   "path": "ordin/mediu/2016/368",
+   "short": "Ordin mediu nr. 368/2016",
+   "title": "Ordinul nr. 368/2016 pentru aprobarea derogării în scop științific pentru unele specii de pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176299",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176299",
+     "sha256": "cbf069d515e10fbf6d02d254bce475740545c54be4c3557fca30160c47827d26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-389-2016",
+   "path": "ordin/mediu/2016/389",
+   "short": "Ordin mediu nr. 389/2016",
+   "title": "Ordinul nr. 389/2016 pentru aprobarea derogării în scop științific pentru specia Castor fiber",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176823",
+   "versions": [
+    {
+     "from": "2016-03-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176823",
+     "sha256": "d92facba4e7bb26073b2e71ea955634cb2d78c41d86c0787a1195b7c2e21f96d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-456-2016",
+   "path": "ordin/mediu/2016/456",
+   "short": "Ordin mediu nr. 456/2016",
+   "title": "Ordinul nr. 456/2016 privind aprobarea Regulamentului de organizare și funcționare al Gărzilor forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177312",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177312",
+     "sha256": "c6daefd1ab3e1981d1c0f7a89e3f64ef4a9359a008d12189ad651e4025e2a248"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-46-2016",
+   "path": "ordin/mediu/2016/46",
+   "short": "Ordin mediu nr. 46/2016",
+   "title": "Ordinul nr. 46/2016 privind instituirea regimului de arie naturală protejată și declararea siturilor de importanță comunitară ca parte integrantă a rețelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175822",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175822",
+     "sha256": "f10c53d5c223f082f47b6b02fd3e05da6d4555fec5a4d9831f754078b6056d95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-556-2016",
+   "path": "ordin/mediu/2016/556",
+   "short": "Ordin mediu nr. 556/2016",
+   "title": "Ordinul nr. 556/2016 privind aprobarea Planului de management al Rezervației Naturale Lacul Bălătău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178103",
+   "versions": [
+    {
+     "from": "2016-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178103",
+     "sha256": "3043de9487a2ba341e475a56a5da4b2a7c71f1766304a861b03f353089cf6f33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-626-2016",
+   "path": "ordin/mediu/2016/626",
+   "short": "Ordin mediu nr. 626/2016",
+   "title": "Ordinul nr. 626/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0168 Pădurea Sarului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183632",
+   "versions": [
+    {
+     "from": "2016-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183632",
+     "sha256": "a7dc71397c229e66fd345a3993b15bb6e96a7354266a04107baaa698aaf65f63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-647-2016",
+   "path": "ordin/mediu/2016/647",
+   "short": "Ordin mediu nr. 647/2016",
+   "title": "Ordinul nr. 647/2016 pentru aprobarea Listei cuprinzând standardele române care adoptă standarde europene armonizate prevăzute la art. 6 alin. (1) lit. a) din Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178234",
+   "versions": [
+    {
+     "from": "2016-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178234",
+     "sha256": "b583a510eb660798c3e72b7133267eb29d81bde6232ad8bb18dc31058ca240c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-652-2016",
+   "path": "ordin/mediu/2016/652",
+   "short": "Ordin mediu nr. 652/2016",
+   "title": "Ordinul nr. 652/2016 privind aprobarea Planului de management și a Regulamentului ariei naturale protejate Lacul Snagov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178528",
+   "versions": [
+    {
+     "from": "2016-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178528",
+     "sha256": "5eb559c949086ba2a27cb1a67688809129fd89bd912e98be390c91594ab4dbd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-654-2016",
+   "path": "ordin/mediu/2016/654",
+   "short": "Ordin mediu nr. 654/2016",
+   "title": "Ordinul nr. 654/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0177 Pădurea Topana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185163",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185163",
+     "sha256": "e2d83ce8e78b49507394aa0b8e5dc1eaa826e2889f4c91a00fa83a1244940158"
     }
    ]
   },
@@ -7353,6 +10068,351 @@
    ]
   },
   {
+   "slug": "ordin-mediu-694-2016",
+   "path": "ordin/mediu/2016/694",
+   "short": "Ordin mediu nr. 694/2016",
+   "title": "Ordinul nr. 694/2016 pentru aprobarea Metodologiei privind scoaterea definitivă, ocuparea temporară și schimbul de terenuri și de calcul al obligațiilor bănești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178802",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178802",
+     "sha256": "d9fedc19b7db76f5cea188d4297f487640fd7e7e83a064cd31ca6abe19410b6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-711-2016",
+   "path": "ordin/mediu/2016/711",
+   "short": "Ordin mediu nr. 711/2016",
+   "title": "Ordinul nr. 711/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI 0014 Bucșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178545",
+   "versions": [
+    {
+     "from": "2016-05-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178545",
+     "sha256": "21ed29fcaef9eaf68595021cc7124a390373a834ab1b7206776cd3a2079c7c24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-712-2016",
+   "path": "ordin/mediu/2016/712",
+   "short": "Ordin mediu nr. 712/2016",
+   "title": "Ordinul nr. 712/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0119 Muntele Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179496",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179496",
+     "sha256": "9b8b090ad008261c703929554838f4b97aaf19230e63902437c24ad462b158f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-719-2016",
+   "path": "ordin/mediu/2016/719",
+   "short": "Ordin mediu nr. 719/2016",
+   "title": "Ordinul nr. 719/2016 privind aprobarea cotelor de recoltă pentru specia Căprior (Capreolus capreolus) pentru perioada de vânătoare 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177671",
+   "versions": [
+    {
+     "from": "2016-04-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177671",
+     "sha256": "aaccf842bfd24174d3cd093a2a297470ae2e524f0930c1ce6266e9a98fd28082"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-747-2016",
+   "path": "ordin/mediu/2016/747",
+   "short": "Ordin mediu nr. 747/2016",
+   "title": "Ordinul nr. 747/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0148 Pădurea de stejar pufos de la Petiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179210",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179210",
+     "sha256": "e990d0396aa725caf12cb308b33150a4c68340f6114af2a7e01a917e0c0a8690"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-753-2016",
+   "path": "ordin/mediu/2016/753",
+   "short": "Ordin mediu nr. 753/2016",
+   "title": "Ordinul nr. 753/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0252 Toplița - Scaunul Rotund Borsec",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179014",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179014",
+     "sha256": "2444b143daed81a9cc70383f2f722ee8639f7f9ee1f888c320765c4084ea0648"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-754-2016",
+   "path": "ordin/mediu/2016/754",
+   "short": "Ordin mediu nr. 754/2016",
+   "title": "Ordinul nr. 754/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0193 Peștera Tăușoare și ale ariei naturale protejate de interes național 2.206 Peștera Tăușoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178805",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178805",
+     "sha256": "a4b7cd12344d36c3135b62ac6081347652d80429e8b893ef1a3f04de0939bf52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-766-2016",
+   "path": "ordin/mediu/2016/766",
+   "short": "Ordin mediu nr. 766/2016",
+   "title": "Ordinul nr. 766/2016 pentru aprobarea derogării pentru unele specii de faună sălbatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178546",
+   "versions": [
+    {
+     "from": "2016-05-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178546",
+     "sha256": "d7d36f08afd3b0a3ee0e4a6acc7e16253b71dc67f822f7ab3db675b88da7bc30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-787-2016",
+   "path": "ordin/mediu/2016/787",
+   "short": "Ordin mediu nr. 787/2016",
+   "title": "Ordinul nr. 787/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSCI0224 Scroviștea și ROSPA0140 Scroviștea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178913",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178913",
+     "sha256": "3b1fa507b1005d3f64162b66b8c5d2d3cea82d070a7446ba3f4c24357e280e36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-794-2016",
+   "path": "ordin/mediu/2016/794",
+   "short": "Ordin mediu nr. 794/2016",
+   "title": "Ordinul nr. 794/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0403 Vânju Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178561",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178561",
+     "sha256": "c559db9996687984e67bd187ba76238b34833a0f84859c24cc1025c81715ce74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-797-2016",
+   "path": "ordin/mediu/2016/797",
+   "short": "Ordin mediu nr. 797/2016",
+   "title": "Ordinul nr. 797/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0101 Larion și al ariei naturale protejate de interes național 2.222 Crovul de la Larion",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180175",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180175",
+     "sha256": "8892cabb2292a9297445fd120d36d10d16d825dc91f69a5c75850dc364a4ba8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-813-2016",
+   "path": "ordin/mediu/2016/813",
+   "short": "Ordin mediu nr. 813/2016",
+   "title": "Ordinul nr. 813/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0102 Leaota",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178730",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178730",
+     "sha256": "00df7ba26c414b60b1ae005c730016057fc3989608e9fdfae4b99db30a0c9bda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-840-2016",
+   "path": "ordin/mediu/2016/840",
+   "short": "Ordin mediu nr. 840/2016",
+   "title": "Ordinul nr. 840/2016 privind aprobarea Planului de management al sitului de importanță comunitară ROSCI0238 Suatu-Cojocna-Crairât",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179041",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179041",
+     "sha256": "2b26fc4b2250d18c9becd7d66547031e42de9b7cb0a70fe042cdb057e226b3e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-841-2016",
+   "path": "ordin/mediu/2016/841",
+   "short": "Ordin mediu nr. 841/2016",
+   "title": "Ordinul nr. 841/2016 privind aprobarea Planului de management și a Regulamentului sitului de importanță comunitară ROSCI0099 Lacul Știucilor - Sic - Puini - Bonțida, ale ariei de protecție specială avifaunistică ROSPA0104 Bazinul Fizeșului și ale ariilor naturale protejate de importanță națională cu care acestea se suprapun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179083",
+   "versions": [
+    {
+     "from": "2016-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179083",
+     "sha256": "2bab09ca0ed7e6268c6168bb8af2e9638f84d8c4081a1a7a85a468b156362f66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-842-2016",
+   "path": "ordin/mediu/2016/842",
+   "short": "Ordin mediu nr. 842/2016",
+   "title": "Ordinul nr. 842/2016 privind aprobarea Planului de management și a Regulamentului ariei de protecție specială avifaunistică ROSPA0059 Lacul Strachina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180933",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180933",
+     "sha256": "7b74b4568aefd9fd5321fbce553d0be269d7db58f98d256a6a96a5d716636d26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-871-2016",
+   "path": "ordin/mediu/2016/871",
+   "short": "Ordin mediu nr. 871/2016",
+   "title": "Ordinul nr. 871/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0165 Pădurea Pogănești și al ariei naturale protejate Pădurea Pogănești, cod 2.417",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181052",
+   "versions": [
+    {
+     "from": "2016-08-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181052",
+     "sha256": "dff2a44d266db6dabbd053f7df73761c35c5d819a20e56e0f5582446316c5e85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-873-2016",
+   "path": "ordin/mediu/2016/873",
+   "short": "Ordin mediu nr. 873/2016",
+   "title": "Ordinul nr. 873/2016 privind aprobarea Planului de management al ariei naturale protejate Pădurea Fundeanu, cod 2.407",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181060",
+   "versions": [
+    {
+     "from": "2016-08-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181060",
+     "sha256": "d94d20a8363e90f37c3d810f2f9a8d92382a37bdb7bf72df3b8f741f3afc2a20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-874-2016",
+   "path": "ordin/mediu/2016/874",
+   "short": "Ordin mediu nr. 874/2016",
+   "title": "Ordinul nr. 874/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0205 Poienile cu narcise de la Dumbrava Vadului și Rezervației naturale Poienile cu narcise din Dumbrava Vadului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179332",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179332",
+     "sha256": "1dfb1192880784a4798202b793357f927eacfb9e146ed4b1f2b4dda34b911d85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-875-2016",
+   "path": "ordin/mediu/2016/875",
+   "short": "Ordin mediu nr. 875/2016",
+   "title": "Ordinul nr. 875/2016 privind aprobarea Planului de management și a Regulamentului Sitului ROSCI0242 Tinovul Apa Roșie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179400",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179400",
+     "sha256": "7e2f03bafdf1242316041fd13ad895e115fc945a37df498078f0af865e14bffb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-877-2016",
+   "path": "ordin/mediu/2016/877",
+   "short": "Ordin mediu nr. 877/2016",
+   "title": "Ordinul nr. 877/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0175 Pădurea Tălășmani și al ariei naturale protejate Pădurea Tălășmani, cod 2.408",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181036",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181036",
+     "sha256": "d75746d794c400fbf2938e32071c4d9561193b552d7a9c36b363a2db8363bfc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-908-2016",
+   "path": "ordin/mediu/2016/908",
+   "short": "Ordin mediu nr. 908/2016",
+   "title": "Ordinul nr. 908/2016 privind aprobarea Planului de management și a Regulamentului Sitului ROSCI0374 Râul Negru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179314",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179314",
+     "sha256": "de6a39fd5613df34b2fa62f40197aa55e67da721e27d122b82d7e9a8bfca9c10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-909-2016",
+   "path": "ordin/mediu/2016/909",
+   "short": "Ordin mediu nr. 909/2016",
+   "title": "Ordinul nr. 909/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0090 Harghita Mădăraș și al Rezervației naturale 2.493 Lacul Dracului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182816",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182816",
+     "sha256": "921e85590fede493d5b3034739133bc87cab3003e100f10e5627b9f77b17f15c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-923-2016",
+   "path": "ordin/mediu/2016/923",
+   "short": "Ordin mediu nr. 923/2016",
+   "title": "Ordinul nr. 923/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0151 Pădurea Gârboavele și al ariei naturale protejate de interes național Pădurea Gârboavele, cod 2.403",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181022",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181022",
+     "sha256": "367d7b810f83d77236ac0bd2a48b104de33e6e14fd0a844f051de0cc152e7c70"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-932-2016",
    "path": "ordin/mediu/2016/932",
    "short": "Ordin mediu nr. 932/2016",
@@ -7364,6 +10424,216 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178886",
      "sha256": "ff44a322a5737ce848c7793ae72d142f07535276e73ba6f2de05740416e63fbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-944-2016",
+   "path": "ordin/mediu/2016/944",
+   "short": "Ordin mediu nr. 944/2016",
+   "title": "Ordinul nr. 944/2016 privind aprobarea Planului de management și al Regulamentului sitului Natura 2000 ROSCI0057 Dealul Istrița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179681",
+   "versions": [
+    {
+     "from": "2016-07-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179681",
+     "sha256": "6be4ea6208dc6dddfecb779dec35f49189a6f28eafa211dfe22f2884a61ac6bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-947-2016",
+   "path": "ordin/mediu/2016/947",
+   "short": "Ordin mediu nr. 947/2016",
+   "title": "Ordinul nr. 947/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0142 Pădurea Dălhăuți și al rezervației naturale Pădurea Dălhăuți, cod 2.187",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181096",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181096",
+     "sha256": "c342c675cc149e0cfd8cfa7939b5fbbd475c5f848eb6d2d9e111f1b0b21cd581"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-948-2016",
+   "path": "ordin/mediu/2016/948",
+   "short": "Ordin mediu nr. 948/2016",
+   "title": "Ordinul nr. 948/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0060 Dealurile Agighiolului și al ariei naturale protejate Agighiol-Nucarilor, cod 2.771",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179881",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179881",
+     "sha256": "6c74725e94718f5da42b23544da29f726c5bfbc82fbe179839583f542746ca93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-949-2016",
+   "path": "ordin/mediu/2016/949",
+   "short": "Ordin mediu nr. 949/2016",
+   "title": "Ordinul nr. 949/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0071 Lunca Siretului Inferior și al ariilor naturale protejate cu care se suprapune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181169",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181169",
+     "sha256": "54fe1db65b6383955bc2a5fa5616282f5736b961922033664785859309505dd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-950-2016",
+   "path": "ordin/mediu/2016/950",
+   "short": "Ordin mediu nr. 950/2016",
+   "title": "Ordinul nr. 950/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0052 Lacul Beibugeac",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182737",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182737",
+     "sha256": "449c6b0b5c0b6ca834b4502f82190aa1977ec7bb736fde78715e258e3e4a83e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-951-2016",
+   "path": "ordin/mediu/2016/951",
+   "short": "Ordin mediu nr. 951/2016",
+   "title": "Ordinul nr. 951/2016 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânarea este permisă, pentru perioada de vânătoare mai 2016 - 14 mai 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178701",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178701",
+     "sha256": "5b81831477f916ca81a4548b2c1ef5a9b99cceb6ed67650cf19bdee36c3e7aff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-961-2016",
+   "path": "ordin/mediu/2016/961",
+   "short": "Ordin mediu nr. 961/2016",
+   "title": "Ordinul nr. 961/2016 privind aprobarea Planului de management al sitului ROSCI0245 Tinovul de la Românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180590",
+   "versions": [
+    {
+     "from": "2016-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180590",
+     "sha256": "2702ff7d70bce33ae2f795dfa138d59dffe82bfcb6b849873b4eb10340d46fc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-962-2016",
+   "path": "ordin/mediu/2016/962",
+   "short": "Ordin mediu nr. 962/2016",
+   "title": "Ordinul nr. 962/2016 privind aprobarea Planului de management al sitului ROSCI0249 Tinovul Șaru Dornei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180243",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180243",
+     "sha256": "4e7986f4369ca929e157c01cfe45eeb52852c6bfda9295a0cf29f366784c1ae0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-963-2016",
+   "path": "ordin/mediu/2016/963",
+   "short": "Ordin mediu nr. 963/2016",
+   "title": "Ordinul nr. 963/2016 privind aprobarea Planului de management și al Regulamentului sitului Natura 2000 ROSCI0093 Insulele Stepice Șura Mică - Slimnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185525",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185525",
+     "sha256": "84ab3a033aac3d20a097adf79ede01105e4f9f3c03f8a92beaa3e81ba25048e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-995-2016",
+   "path": "ordin/mediu/2016/995",
+   "short": "Ordin mediu nr. 995/2016",
+   "title": "Ordinul nr. 995/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0329 Oltul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180617",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180617",
+     "sha256": "db5c714a342c43b33865fb68402d56bc07fbb28b386076a84847681caadb8957"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-996-2016",
+   "path": "ordin/mediu/2016/996",
+   "short": "Ordin mediu nr. 996/2016",
+   "title": "Ordinul nr. 996/2016 privind aprobarea Planului de management și a Regulamentului siturilor Natura 2000 ROSPA0027 Dealurile Homoroadelor și ROSCI0036 Cheile Vârghișului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180232",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180232",
+     "sha256": "ff61255addf1f8319520761140d6f8022e2f0c9a78b261f4a8f1be2775ed35bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-997-2016",
+   "path": "ordin/mediu/2016/997",
+   "short": "Ordin mediu nr. 997/2016",
+   "title": "Ordinul nr. 997/2016 privind aprobarea Planului de management al sitului Natura 2000 ROSCI0056 Dealul Ciocaș-Dealul Vițelului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180219",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180219",
+     "sha256": "79ae6620912d06654ee363769f6513569e231fd082f935e72cfdbff727073e68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-998-2016",
+   "path": "ordin/mediu/2016/998",
+   "short": "Ordin mediu nr. 998/2016",
+   "title": "Ordinul nr. 998/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSCI0111 Mestecănișul de la Reci și al rezervației naturale VII.9 Mestecănișul Reci - Bălțile de la Ozun - Sântionlunca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181882",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181882",
+     "sha256": "c7d0ba071de2ca4a716a1332270f756b860534536bda58e4007d22828edaa47f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-999-2016",
+   "path": "ordin/mediu/2016/999",
+   "short": "Ordin mediu nr. 999/2016",
+   "title": "Ordinul nr. 999/2016 privind aprobarea Planului de management și a Regulamentului sitului Natura 2000 ROSPA0037 Dumbrăvița-Rotbav-Măgura Codlei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180320",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180320",
+     "sha256": "b3e862c8a76e76a7c1b8f048207e9c40ea90027d03aaddbbb9ce300d71a36fdb"
     }
    ]
   },
@@ -8095,7 +11365,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/183626",
    "versions": [
     {
-     "from": "2016-11-15",
+     "from": "2017-01-01",
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183626",
      "sha256": "d9fa3cf5ef3701ce3076f731adbcdfac0bdc3f5694342015a1de7aeece29999c"
@@ -8875,7 +12145,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/179485",
    "versions": [
     {
-     "from": "2016-06-27",
+     "from": "2016-07-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179485",
      "sha256": "0c8c9a70c4b0319dc1568d3351376aa3f9dc31dbfb07a76233fc1993cb1cd5e6"
@@ -9228,6 +12498,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1088-2016",
+   "path": "ordin/transporturi/2016/1088",
+   "short": "Ordin transporturi nr. 1088/2016",
+   "title": "Ordinul nr. 1.088/2016 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 536/2012 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară aparține domeniului public al unităților administrativ-teritoriale, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181612",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181612",
+     "sha256": "7eb47d1b12ab5b6e0939f853c23daae5553d43d5ae002708cdf82550e332de34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1134-2016",
+   "path": "ordin/transporturi/2016/1134",
+   "short": "Ordin transporturi nr. 1134/2016",
+   "title": "Ordinul nr. 1.134/2016 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182069",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182069",
+     "sha256": "371b11984d6cbe5a8c54ce3a6e710589dfeee59423cc07b2927debe5b84b953c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1150-2016",
    "path": "ordin/transporturi/2016/1150",
    "short": "Ordin transporturi nr. 1150/2016",
@@ -9269,6 +12569,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182953",
      "sha256": "39b52b52235788c5b502fac7b638de97a4714bc3e9e71e5fa45eb5caea4cc6bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1237-2016",
+   "path": "ordin/transporturi/2016/1237",
+   "short": "Ordin transporturi nr. 1237/2016",
+   "title": "Ordinul nr. 1.237/2016 pentru modificarea articolului 4 al anexei nr. 2 la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.262/2005 privind autorizarea personalului cu responsabilități în siguranța circulației care urmează să desfășoare pe propria răspundere activități specifice transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182873",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182873",
+     "sha256": "866f4de9f479488212004f25cb67286046fe7aed970dde342403a9203a6d7c04"
     }
    ]
   },
@@ -9318,6 +12633,66 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1319-2016",
+   "path": "ordin/transporturi/2016/1319",
+   "short": "Ordin transporturi nr. 1319/2016",
+   "title": "Ordinul nr. 1.319/2016 pentru modificarea și completarea Reglementărilor privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183054",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183054",
+     "sha256": "0c49feecaa845de6cd1b4022feefac89f78aa55a4b59ac88cbc729d09fdb1565"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1339-2016",
+   "path": "ordin/transporturi/2016/1339",
+   "short": "Ordin transporturi nr. 1339/2016",
+   "title": "Ordinul nr. 1.339/2016 pentru modificarea pct. III al anexei nr. 2 la Ordinul ministrului transporturilor și infrastructurii nr. 153/2011 privind modificarea și completarea Regulamentului pentru circulația trenurilor și manevra vehiculelor feroviare - nr. 005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.816/2005, și pentru definirea trenurilor de călători în funcție de serviciile oferite de operatorii de transport feroviar de călători, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183272",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183272",
+     "sha256": "b18f6a963213c87941f515876f4cfb6e0ec8be38630d16f7b3210367e3768c4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1392-2016",
+   "path": "ordin/transporturi/2016/1392",
+   "short": "Ordin transporturi nr. 1392/2016",
+   "title": "Ordinul nr. 1.392/2016 pentru modificarea și completarea Normelor metodologice privind activitatea de control al respectării perioadelor de conducere, pauzelor și perioadelor de odihnă ale conducătorilor auto și al utilizării aparatelor de înregistrare a activității acestora, aprobate prin Ordinul ministrului transporturilor nr. 1.058/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183666",
+   "versions": [
+    {
+     "from": "2016-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183666",
+     "sha256": "cd2c2e43e9599f5f56697319f6f4a8c3aa786ace9a990c2a85cec597e0b0195a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1423-2016",
+   "path": "ordin/transporturi/2016/1423",
+   "short": "Ordin transporturi nr. 1423/2016",
+   "title": "Ordinul nr. 1.423/2016 privind modificarea și completarea Ordinului ministrului transporturilor nr. 161/2016 pentru clasificarea aerodromurilor civile certificate din România și pentru aprobarea Reglementării aeronautice civile române privind autorizarea aerodromurilor civile - RACR-AD-AADC și a Reglementării aeronautice civile române privind amenajarea, utilizarea și înregistrarea aerodromurilor civile - RACR-AD-IADC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183916",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183916",
+     "sha256": "5446f1dd392febbe034ac146342f7085390c3249dda995d774d66fef84e2f56c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1464-2016",
    "path": "ordin/transporturi/2016/1464",
    "short": "Ordin transporturi nr. 1464/2016",
@@ -9329,6 +12704,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184852",
      "sha256": "d3a838022a31e15c06c94940e006761c7fdd225959e5a0fe265dcd4e4af89b05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1478-2016",
+   "path": "ordin/transporturi/2016/1478",
+   "short": "Ordin transporturi nr. 1478/2016",
+   "title": "Ordinul nr. 1.478/2016 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.151/2006 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184863",
+   "versions": [
+    {
+     "from": "2016-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184863",
+     "sha256": "39b1579f9ff742927a811c31d9fb00a048f97ce6b7ac3bed8fc2bd31a4bb8dac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1480-2016",
+   "path": "ordin/transporturi/2016/1480",
+   "short": "Ordin transporturi nr. 1480/2016",
+   "title": "Ordinul nr. 1.480/2016 pentru modificarea Reglementării aeronautice civile române RACR-PM \"Protecția mediului\", ediția 3/2007, aprobată prin Ordinul ministrului transporturilor nr. 1.261/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185034",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185034",
+     "sha256": "55621e48d12de3a55894649d5045f0e07c8d04e13b2e6f46ac81126f48f40cf2"
     }
    ]
   },
@@ -9363,6 +12768,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-213-2016",
+   "path": "ordin/transporturi/2016/213",
+   "short": "Ordin transporturi nr. 213/2016",
+   "title": "Ordinul nr. 213/2016 privind modificarea și completarea anexei nr. 1.1 \"Lista funcțiilor de conducere și control care beneficiază de autorizații de călătorie pe căile ferate române conform articolului 2 alineatul (2) din ordonanță\" la anexa nr. 1 \"Metodologia privind încadrarea în categoria de tren, clasă, condițiile de emitere, gestionare și folosire a legitimațiilor de călătorie pe căile ferate române\", aprobată prin Ordinul ministrului transporturilor și infrastructurii nr. 1.697/2012 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177378",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177378",
+     "sha256": "a9f2a1f692ae56a96e7eacb3cbb082c91bc0b96ce0d7d87241b302f0cfa4eb1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-25-2016",
+   "path": "ordin/transporturi/2016/25",
+   "short": "Ordin transporturi nr. 25/2016",
+   "title": "Ordinul nr. 25/2016 pentru modificarea și completarea Reglementărilor privind omologarea de tip și eliberarea cărții de identitate a vehiculelor rutiere, precum și omologarea de tip a produselor utilizate la acestea - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175710",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175710",
+     "sha256": "6f770e1ca34adb705ae4286c145edd2a87d2d87e34dbad02ac9ba6414915d7f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-26-2016",
    "path": "ordin/transporturi/2016/26",
    "short": "Ordin transporturi nr. 26/2016",
@@ -9374,6 +12809,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178013",
      "sha256": "3faf1d0022fbee309dfa75b388e3a3c812d9a68db063cba98856517d2061537a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-270-2016",
+   "path": "ordin/transporturi/2016/270",
+   "short": "Ordin transporturi nr. 270/2016",
+   "title": "Ordinul nr. 270/2016 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 535/2007 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatelor de siguranță în vederea efectuării serviciilor de transport feroviar pe căile ferate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177769",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177769",
+     "sha256": "f2bb0066dff2a81a24738d0513b1506621854daa04a3a3af69fd084bb4b22c25"
     }
    ]
   },
@@ -9404,6 +12854,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178389",
      "sha256": "b68a80981a3d7022ac73dc3ba3c247a6cb05df5d965ddd495027d819b5125f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-361-2016",
+   "path": "ordin/transporturi/2016/361",
+   "short": "Ordin transporturi nr. 361/2016",
+   "title": "Ordinul nr. 361/2016 pentru modificarea și completarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 1.305/2012 privind aprobarea tarifelor percepute de Regia Autonomă \"Autoritatea Aeronautică Civilă Română\" pentru prestarea activităților pentru care i-au fost delegate competențe de către Ministerul Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178353",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178353",
+     "sha256": "1b01ced85f3dc3bb4ba2de723453cc9052e1977dcf32b4cd3aa321c57e4aeed9"
     }
    ]
   },
@@ -9498,6 +12963,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-572-2016",
+   "path": "ordin/transporturi/2016/572",
+   "short": "Ordin transporturi nr. 572/2016",
+   "title": "Ordinul nr. 572/2016 pentru modificarea și completarea Reglementărilor privind autorizarea operatorilor economici care desfășoară activități de reparații, de întreținere, de reglare, de modificări constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor scoase din uz - RNTR 9, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.131/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180473",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180473",
+     "sha256": "02c734fc76c927e15f2e129b27c97ea164bb95caf774fa5cb4f8c92b76856731"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-587-2016",
+   "path": "ordin/transporturi/2016/587",
+   "short": "Ordin transporturi nr. 587/2016",
+   "title": "Ordinul nr. 587/2016 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180513",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180513",
+     "sha256": "72e579fad7ecb1fd9ac969532f79f2bf209fa952abe76e2deeb376343eca1ad9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-596-2016",
    "path": "ordin/transporturi/2016/596",
    "short": "Ordin transporturi nr. 596/2016",
@@ -9509,6 +13004,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181057",
      "sha256": "a9916cb521d2cbcd7c177fa3fbef3ea3f9eece07b3b27efc00e8069ea8bb7eeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-598-2016",
+   "path": "ordin/transporturi/2016/598",
+   "short": "Ordin transporturi nr. 598/2016",
+   "title": "Ordinul nr. 598/2016 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.394/2006 privind aprobarea tarifelor pentru prestațiile și serviciile specifice asigurate de Școala Superioară de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180558",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180558",
+     "sha256": "092bd82dfa5ce090f5fd4fda23408ee17d490b24acc51a5fb9d7d49bf739df22"
     }
    ]
   },
@@ -9558,6 +13068,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-601-2016",
+   "path": "ordin/transporturi/2016/601",
+   "short": "Ordin transporturi nr. 601/2016",
+   "title": "Ordinul nr. 601/2016 pentru modificarea și completarea Reglementării aeronautice civile române privind autorizarea agenților aeronautici de handling RACR-AD-AAH, ediția 2/2015, aprobată prin Ordinul ministrului transporturilor nr. 1.236/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180455",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180455",
+     "sha256": "0240bf5fbd212dd0447d098adf81049f9fc2cc58e8e71c0ed708a5565aacdace"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-655-2016",
    "path": "ordin/transporturi/2016/655",
    "short": "Ordin transporturi nr. 655/2016",
@@ -9599,6 +13124,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181003",
      "sha256": "e66b537b4813d1c5062825ae2d7101b420420caf0b8ab6fe294c330013c7cad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-678-2016",
+   "path": "ordin/transporturi/2016/678",
+   "short": "Ordin transporturi nr. 678/2016",
+   "title": "Ordinul nr. 678/2016 pentru modificarea și completarea Normelor metodologice privind modul de efectuare a inspecțiilor și controlului asupra transporturilor rutiere, a activităților conexe acestora, a activității centrelor de pregătire și perfecționare a personalului de specialitate din domeniul transporturilor rutiere, a activității școlilor de conducători auto și a activității instructorilor auto autorizați, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 995/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181236",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181236",
+     "sha256": "f40e82531ae9bd063cc0c0d97a50eeda68c71644a3509ca97ba6fef8b594a277"
     }
    ]
   },
@@ -9659,6 +13199,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181574",
      "sha256": "35599f961f04c7ab075089d55009900d9add1802774491fbb7ed66c40b1b223f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-740-2016",
+   "path": "ordin/transporturi/2016/740",
+   "short": "Ordin transporturi nr. 740/2016",
+   "title": "Ordinul nr. 740/2016 privind completarea anexei nr. 1 la Ordinul ministrului transporturilor nr. 1.252/2014 pentru aprobarea criteriilor minime de pregătire și perfecționare a personalului navigant maritim român și a sistemului de recunoaștere a brevetelor și a certificatelor de capacitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181285",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181285",
+     "sha256": "27a7318cf062ffd7add6175dfd25651ed48db6a822539d5c5229856b2b0bd8ad"
     }
    ]
   },

@@ -1,8 +1,8 @@
 # Ordinul nr. 434/2021 privind aprobarea Planului de măsuri pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19 și a listei spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și suspecte de COVID-19, conform clasificării spitalelor în 3 niveluri de competență
 
-Ordin sanatate nr. 434/2021 · 1 versions, from 2021-03-26 (latest in force: 2021-03-26) · <https://legislatie.just.ro/Public/DetaliiDocument/240092>
+Ordin sanatate nr. 434/2021 · 1 versions, from 2021-03-27 (latest in force: 2021-03-27) · <https://legislatie.just.ro/Public/DetaliiDocument/240092>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PLAN DE MĂSURI pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19): the official text prints its heading only, and its text is not in the records held; Anexa nr. 2 (*) *) Anexa nr. 2 este reprodusă în facsimil. Lista spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și ...): it is an image, and the official text holds no text for it. Its in-force clause states 27 March 2021; this record still dates it from 26 March 2021, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PLAN DE MĂSURI pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19): the official text prints its heading only, and its text is not in the records held; Anexa nr. 2 (*) *) Anexa nr. 2 este reprodusă în facsimil. Lista spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și ...): it is an image, and the official text holds no text for it.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,4 +25,4 @@ Act id: `ordin-sanatate-434-2021` (tags `ordin-sanatate-434-2021/<day>`; `python
 - Ordin sanatate nr. 434/2021: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 434/2021: Anexa nr. 1 (PLAN DE MĂSURI pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
 - Ordin sanatate nr. 434/2021: Anexa nr. 2 (*) *) Anexa nr. 2 este reprodusă în facsimil. Lista spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și ...) is not included yet: it is an image, and the official text holds no text for it. It will be added when it can be published in full.
-- Ordin sanatate nr. 434/2021: first published here dated 26 March 2021; its in-force clause states 27 March 2021. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 434/2021: re-dated by a correction: in force from 27 March 2021 (first published dated 26 March 2021).

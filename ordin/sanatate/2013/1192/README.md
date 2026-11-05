@@ -1,8 +1,8 @@
 # Ordinul nr. 1.192/2013 pentru modificarea și completarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 956/2005 privind plasarea pe piață a produselor biocide, aprobate prin Ordinul ministrului sănătății publice, al ministrului mediului și gospodăririi apelor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 1.321/2006/280/90/2007
 
-Ordin sanatate nr. 1192/2013 · 1 versions, from 2013-02-11 (latest in force: 2013-02-11) · <https://legislatie.just.ro/Public/DetaliiDocument/145457>
+Ordin sanatate nr. 1192/2013 · 1 versions, from 2013-02-26 (latest in force: 2013-02-26) · <https://legislatie.just.ro/Public/DetaliiDocument/145457>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (----- (Anexa nr. VII la normele metodologice)): it is a table that the official text holds only flattened; Anexa nr. 2 (Sumarul caracteristicilor produsului biocid (denumire...................) I. INFORMAȚII PRIVIND COMPOZIȚIA PRODUSULUI BIOCID 1. Identitatea substanței active ...): it is a table that the official text holds only flattened. Its in-force clause states 26 February 2013; this record still dates it from 11 February 2013, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (----- (Anexa nr. VII la normele metodologice)): it is a table that the official text holds only flattened; Anexa nr. 2 (Sumarul caracteristicilor produsului biocid (denumire...................) I. INFORMAȚII PRIVIND COMPOZIȚIA PRODUSULUI BIOCID 1. Identitatea substanței active ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,4 +21,4 @@ Act id: `ordin-sanatate-1192-2013` (tags `ordin-sanatate-1192-2013/<day>`; `pyth
 - Ordin sanatate nr. 1192/2013: Anexa nr. 1 (----- (Anexa nr. VII la normele metodologice)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1192/2013: Anexa nr. 2 (Sumarul caracteristicilor produsului biocid (denumire...................) I. INFORMAȚII PRIVIND COMPOZIȚIA PRODUSULUI BIOCID 1. Identitatea substanței active ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1192/2013: a joint order of Ministerul Sănătății nr. 1.192 din 21 November 2012; Ministerul Mediului și Pădurilor nr. 4.060 din 19 December 2012; Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 2 din 4 January 2013. It is published once, here, under the issuer its EMITENT block lists first; `ordin-mediu-4060-2012`, `ordin-ansvsa-2-2013` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 1192/2013: first published here dated 11 February 2013; its in-force clause states 26 February 2013. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1192/2013: re-dated by a correction: in force from 26 February 2013 (first published dated 11 February 2013).

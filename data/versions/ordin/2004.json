@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-534-2004",
+   "path": "ordin/agricultura/2004/534",
+   "short": "Ordin agricultura nr. 534/2004",
+   "title": "Ordinul nr. 534/2004 privind definirea termenilor \"unelte de pescuit fixe\" și \"unelte de pescuit în derivă\" utilizate la pescuitul în scop comercial în complexul lagunar Razelm-Sinoie și în lacurile litorale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54373",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54373",
+     "sha256": "c2d8849a9834c065b56e8c346a2c654df2f0688b2a105718da93adde0b5475f9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-545-2004",
    "path": "ordin/agricultura/2004/545",
    "short": "Ordin agricultura nr. 545/2004",
@@ -475,7 +490,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/49574",
    "versions": [
     {
-     "from": "2004-08-31",
+     "from": "2004-02-04",
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49574",
      "sha256": "e68931a7ccc0df03e04bce79f3a28121dbcbeaef2aece615c9514010829fa3ce"
@@ -1769,6 +1784,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52776",
      "sha256": "34bb639abbc1692183ab47a3596739cf0197e55b36cae38bb44da22741fe8efa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-58-2004",
+   "path": "ordin/anrm/2004/58",
+   "short": "Ordin anrm nr. 58/2004",
+   "title": "Ordinul nr. 58/2004 pentru aprobarea Instrucțiunilor tehnice privind aplicarea și urmărirea măsurilor stabilite în programul de conformare, planul de refacere a mediului și proiectul tehnic, precum și reglementarea modului de operare cu garanția financiară pentru refacerea mediului afectat de activitățile miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51716",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51716",
+     "sha256": "9bcc40d1a325b1ea27b468c0fab91a9cf3bb82c35044a9d3ca8f01d08bc2dcb1"
     }
    ]
   },
@@ -6355,7 +6385,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/50134",
    "versions": [
     {
-     "from": "2004-03-03",
+     "from": "2004-04-01",
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50134",
      "sha256": "3d64482ab8f350fa7bfdf07f4b851c0e0ffdda108716fa90928018e046bfb502"
@@ -7368,6 +7398,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-334-2004",
+   "path": "ordin/mediu/2004/334",
+   "short": "Ordin mediu nr. 334/2004",
+   "title": "Ordinul nr. 334/2004 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile de plată la veniturile Fondului pentru mediu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54667",
+   "versions": [
+    {
+     "from": "2004-08-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54667",
+     "sha256": "a6c762760e5d2da73b5a579d3e1135a84f49bff8105a1a7c646be7d246f10f93"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-338-2004",
    "path": "ordin/mediu/2004/338",
    "short": "Ordin mediu nr. 338/2004",
@@ -7379,6 +7424,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54960",
      "sha256": "f7f977e5f9e48380c517b7a8f849519121af8a6e9dd59dc3c7143c0320b964b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-344-2004",
+   "path": "ordin/mediu/2004/344",
+   "short": "Ordin mediu nr. 344/2004",
+   "title": "Ordinul nr. 344/2004 pentru aprobarea Normelor tehnice privind protecția mediului și în special a solurilor, când se utilizează nămolurile de epurare în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55968",
+   "versions": [
+    {
+     "from": "2004-10-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55968",
+     "sha256": "6bf30ca0638b312d00a06a13ca437df29318f32e68b279dc58a1d4814837281a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-347-2004",
+   "path": "ordin/mediu/2004/347",
+   "short": "Ordin mediu nr. 347/2004",
+   "title": "Ordinul nr. 347/2004 privind modelul de notificare a autorităților publice de protecție a mediului privind limitarea funcționării instalațiilor mari de ardere, în vederea derogării de la respectarea valorilor limită de emisie, conform prevederilor Hotărârii Guvernului nr. 541/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54747",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54747",
+     "sha256": "487133ad4faffca9ac567500c8398b62ba373e4d663d6f08597c5ba98f7ca52f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-374-2004",
+   "path": "ordin/mediu/2004/374",
+   "short": "Ordin mediu nr. 374/2004",
+   "title": "Ordinul nr. 374/2004 pentru aprobarea Planului de acțiune privind conservarea cetaceelor din apele românești ale Mării Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55201",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55201",
+     "sha256": "6aab7ebe600b244078318c07c0ec34ef25b1c5b5e246d6f2367ab9c182004ac3"
     }
    ]
   },
@@ -7398,6 +7488,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-50-2004",
+   "path": "ordin/mediu/2004/50",
+   "short": "Ordin mediu nr. 50/2004",
+   "title": "Ordinul nr. 50/2004 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate în elaborarea de studii, proiecte, în execuție, consultanță în domeniul gospodăririi apelor și documentații tehnice pentru obținerea avizelor și a autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51987",
+   "versions": [
+    {
+     "from": "2004-05-19",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51987",
+     "sha256": "4a48a616b60c9df87b3f929dbea678c4905e154fa432a56eac8587838692006e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-525-2004",
+   "path": "ordin/mediu/2004/525",
+   "short": "Ordin mediu nr. 525/2004",
+   "title": "Ordinul nr. 525/2004 pentru aprobarea formularului-tip al Procesului-verbal de constatare și sancționare a contravenției în domeniul apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56302",
+   "versions": [
+    {
+     "from": "2004-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56302",
+     "sha256": "c73e0f267e074011796a75231419fa6d4a12ff54306642abfed55741c5761cdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-742-2004",
+   "path": "ordin/mediu/2004/742",
+   "short": "Ordin mediu nr. 742/2004",
+   "title": "Ordinul nr. 742/2004 pentru aprobarea Instrucțiunilor privind autorizarea, inventarierea și înregistrarea grădinilor zoologice și acvariilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59018",
+   "versions": [
+    {
+     "from": "2005-02-19",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59018",
+     "sha256": "736c5b524bf7002787923b05f8d330c529997e96be60a456e1b3bb3ea6fd66a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-751-2004",
    "path": "ordin/mediu/2004/751",
    "short": "Ordin mediu nr. 751/2004",
@@ -7409,6 +7544,81 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58474",
      "sha256": "a165b14227f02c616cc6c9ecf9f57ab020a67891702cff886a0600516b9056a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-756-2004",
+   "path": "ordin/mediu/2004/756",
+   "short": "Ordin mediu nr. 756/2004",
+   "title": "Ordinul nr. 756/2004 pentru aprobarea Normativului tehnic privind incinerarea deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58861",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58861",
+     "sha256": "6f7cfec862f5f10dae9ee9510863e56bd2da73871cc251aeac867db078405ab8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-757-2004",
+   "path": "ordin/mediu/2004/757",
+   "short": "Ordin mediu nr. 757/2004",
+   "title": "Ordinul nr. 757/2004 pentru aprobarea Normativului tehnic privind depozitarea deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58862",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58862",
+     "sha256": "d80adbe6a16347f72caff00b150c21a13032a863bd035ccff09baef283a63171"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-876-2004",
+   "path": "ordin/mediu/2004/876",
+   "short": "Ordin mediu nr. 876/2004",
+   "title": "Ordinul nr. 876/2004 pentru aprobarea Procedurii de autorizare a activităților cu impact semnificativ asupra mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58548",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58548",
+     "sha256": "ce02595a1bd12f92d2a51b582f1aa89939c4467e8d552d59325cf4d5243280a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-880-2004",
+   "path": "ordin/mediu/2004/880",
+   "short": "Ordin mediu nr. 880/2004",
+   "title": "Ordinul nr. 880/2004 privind procedura de raportare a datelor referitoare la ambalaje și deșeuri de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58642",
+   "versions": [
+    {
+     "from": "2005-01-17",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58642",
+     "sha256": "380b3af5b63e8f0a167396b34a6a1ad49e488fde0c284ec45517abd00ce74e94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-886-2004",
+   "path": "ordin/mediu/2004/886",
+   "short": "Ordin mediu nr. 886/2004",
+   "title": "Ordinul nr. 886/2004 pentru aprobarea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor în domeniul meteorologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58629",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58629",
+     "sha256": "1a4b01f431894316b5c8630cb167159c81030d7690a0bd7dd6fdb5766d3fec65"
     }
    ]
   },
@@ -10338,6 +10548,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1085-2004",
+   "path": "ordin/transporturi/2004/1085",
+   "short": "Ordin transporturi nr. 1085/2004",
+   "title": "Ordinul nr. 1.085/2004 pentru înlocuirea anexelor la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.835/2002 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53540",
+   "versions": [
+    {
+     "from": "2004-07-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53540",
+     "sha256": "df57424a8ec82e2c35d12d576a6813164a523dfac300d489a3df8ef2e1096505"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1132-2004",
    "path": "ordin/transporturi/2004/1132",
    "short": "Ordin transporturi nr. 1132/2004",
@@ -10364,6 +10589,81 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54385",
      "sha256": "00b75a7b28c6a90f810f02dbaff103154bac654c3eced8be0663698c43f259db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1358-2004",
+   "path": "ordin/transporturi/2004/1358",
+   "short": "Ordin transporturi nr. 1358/2004",
+   "title": "Ordinul nr. 1.358/2004 privind modificarea anexelor nr. 2 și 3 la Ordinul ministrului transporturilor nr. 536/1997 pentru aprobarea Reglementărilor privind certificarea și/sau omologarea echipamentelor, pieselor de schimb și materialelor de exploatare utilizate la vehicule rutiere, precum și autorizarea agenților economici care desfășoară activități de reparații, de reglare, de modificări constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor uzate - RNTR 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54592",
+   "versions": [
+    {
+     "from": "2004-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54592",
+     "sha256": "151db5978fe0f09eae3ceb80de5d8ede6668bef43d060f4ce56483fc44124ed7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1359-2004",
+   "path": "ordin/transporturi/2004/1359",
+   "short": "Ordin transporturi nr. 1359/2004",
+   "title": "Ordinul nr. 1.359/2004 pentru modificarea Normelor metodologice privind clasificarea autocarelor utilizate pentru transporturi turistice în trafic intern și internațional și pentru transporturi publice de persoane în trafic internațional, aprobate prin Ordinul ministrului transporturilor și al ministrului turismului nr. 254/85/1996, precum și a Normelor metodologice privind clasificarea pe categorii a autobuzelor și microbuzelor utilizate pentru transporturi publice de persoane prin servicii regulate în trafic național, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 458/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54410",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54410",
+     "sha256": "def1b2d0f032f0167b27d8beb32983b3c7f9ba9c60cc07d27e8ddd397621e251"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1360-2004",
+   "path": "ordin/transporturi/2004/1360",
+   "short": "Ordin transporturi nr. 1360/2004",
+   "title": "Ordinul nr. 1.360/2004 pentru modificarea Reglementărilor privind omologarea de tip a limitatoarelor de viteză, precum și condițiile de montare, reparare și verificare a aparatelor de control în transporturile rutiere (tahografelor) și a limitatoarelor de viteză - RNTR 8, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 288/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54376",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54376",
+     "sha256": "7ef503833fd0b94b52c5b803281b51c8164e587f445e8837ddb5cb0be88f2b7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1361-2004",
+   "path": "ordin/transporturi/2004/1361",
+   "short": "Ordin transporturi nr. 1361/2004",
+   "title": "Ordinul nr. 1.361/2004 pentru modificarea și completarea părții a II-a \"Norme de autorizare a centrelor de pregătire și perfecționare a personalului din domeniul transporturilor rutiere\" din Normele de autorizare a funcționării centrelor de pregătire a personalului din domeniul transporturilor rutiere, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 2.026/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54377",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54377",
+     "sha256": "1a4493475a61379fec835fd31ae96f196b975c9f066c284bfa6b6422f20b12cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1410-2004",
+   "path": "ordin/transporturi/2004/1410",
+   "short": "Ordin transporturi nr. 1410/2004",
+   "title": "Ordinul nr. 1.410/2004 privind completarea art. 2 din Metodologia privind inițierea, programarea, achiziția, elaborarea, avizarea, aprobarea și valorificarea reglementărilor tehnice și a rezultatelor activităților specifice în construcții, amenajarea teritoriului, urbanism și habitat, aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 542/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54732",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54732",
+     "sha256": "1c18cf7bda860bb659fffaffa0a34b5949ddae5c0fb4f5aca68a7c4f248bd2a3"
     }
    ]
   },
@@ -10503,6 +10803,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2068-2004",
+   "path": "ordin/transporturi/2004/2068",
+   "short": "Ordin transporturi nr. 2068/2004",
+   "title": "Ordinul nr. 2.068/2004 pentru modificarea Ordinului ministrului transporturilor nr. 290/2000 privind admiterea tehnică a produselor și/sau serviciilor destinate utilizării în activitățile de construire, modernizare, întreținere și de reparare a infrastructurii feroviare și a materialului rulant, pentru transportul feroviar și cu metroul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56824",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56824",
+     "sha256": "064e5e0e7b14846d0ba199455c7093468e19ba2dddccc523b864823d5466de05"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2132-2004",
    "path": "ordin/transporturi/2004/2132",
    "short": "Ordin transporturi nr. 2132/2004",
@@ -10548,6 +10863,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2146-2004",
+   "path": "ordin/transporturi/2004/2146",
+   "short": "Ordin transporturi nr. 2146/2004",
+   "title": "Ordinul nr. 2.146/2004 privind modificarea NUT 5 la art. 66.4 din Normele uniforme pentru aplicarea Regulamentului de transport pe căile ferate din România, aprobate prin Ordinul ministrului transporturilor nr. 746/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57229",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57229",
+     "sha256": "157dfb0a1e0518e18077929b388a87ea0d0618ff38f968eaac3e240455522f54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-215-2004",
+   "path": "ordin/transporturi/2004/215",
+   "short": "Ordin transporturi nr. 215/2004",
+   "title": "Ordinul nr. 215/2004 pentru modificarea și completarea Normelor metodologice de autorizare și efectuare a transporturilor rutiere și a activităților conexe acestora, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.842/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49784",
+   "versions": [
+    {
+     "from": "2004-02-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49784",
+     "sha256": "3c1e52e7898ba66b1cc0934d65ad51d561655bedf64f3eaeba7917230c61312b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2175-2004",
    "path": "ordin/transporturi/2004/2175",
    "short": "Ordin transporturi nr. 2175/2004",
@@ -10563,6 +10908,51 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2177-2004",
+   "path": "ordin/transporturi/2004/2177",
+   "short": "Ordin transporturi nr. 2177/2004",
+   "title": "Ordinul nr. 2.177/2004 pentru modificarea și completarea anexelor nr. 2 și 3 la Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.835/2002 privind aprobarea tarifelor pentru activitățile și operațiunile specifice desfășurate sau pentru activitățile efectuate în legătură cu acestea de către Autoritatea Navală Română, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57511",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57511",
+     "sha256": "58ab60970ae97153ccc2194485475ef81dc0ed2060bcb5c5fd7de273e449c5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2194-2004",
+   "path": "ordin/transporturi/2004/2194",
+   "short": "Ordin transporturi nr. 2194/2004",
+   "title": "Ordinul nr. 2.194/2004 pentru modificarea și completarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 211/2003, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58945",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58945",
+     "sha256": "461546c9fa55352291231bb8ed431547dd04e6af30c41ce31c92f8dab0850148"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2195-2004",
+   "path": "ordin/transporturi/2004/2195",
+   "short": "Ordin transporturi nr. 2195/2004",
+   "title": "Ordinul nr. 2.195/2004 privind modificarea și completarea Ordinului ministrului transporturilor nr. 353/1998 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică - RNTR 1, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59117",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59117",
+     "sha256": "10b3fb1e4d703fd9593bef2493943d8df08d01cd6bb241d78c3236d14bcb0657"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2224-2004",
    "path": "ordin/transporturi/2004/2224",
    "short": "Ordin transporturi nr. 2224/2004",
@@ -10574,6 +10964,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57639",
      "sha256": "6ee6ccc107d72c6a23cdc6098b474869eb65dbed513c3ca5373597b20539e535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2230-2004",
+   "path": "ordin/transporturi/2004/2230",
+   "short": "Ordin transporturi nr. 2230/2004",
+   "title": "Ordinul nr. 2.230/2004 privind modificarea și completarea Normelor metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.433/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58161",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58161",
+     "sha256": "af393adaf363ccd1fb3dcecf1f44ab6f5a3a24840883fece352d8ce7c6b01b6b"
     }
    ]
   },
@@ -10604,6 +11009,66 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58614",
      "sha256": "b5d7f20a4142b432065579fb445cc3bb572ded5cf650d08f54db0721a48c6434"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2270-2004",
+   "path": "ordin/transporturi/2004/2270",
+   "short": "Ordin transporturi nr. 2270/2004",
+   "title": "Ordinul nr. 2.270/2004 pentru modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 343/2003 privind aprobarea normelor pentru acordarea licenței de transport feroviar și a certificatului de siguranță, în vederea efectuării serviciilor de transport feroviar public și/sau în interes propriu pe căile ferate din România, precum și pentru acordarea autorizației și certificatului de operare pentru manevră agenților economici care efectuează numai operațiuni de manevră feroviară, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58508",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58508",
+     "sha256": "653bef73683ee96d319172225ef6e22383e9f7802890fdfd4038d44b471234da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2275-2004",
+   "path": "ordin/transporturi/2004/2275",
+   "short": "Ordin transporturi nr. 2275/2004",
+   "title": "Ordinul nr. 2.275/2004 pentru modificarea Normelor privind condițiile de utilizare a vehiculelor deținute temporar în scopul efectuării operațiunilor de transport rutier, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.843/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57861",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57861",
+     "sha256": "59fd449f1649a62bc85e281c2834fdb032ed7a43fc7d67049ed450a847ea156d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2277-2004",
+   "path": "ordin/transporturi/2004/2277",
+   "short": "Ordin transporturi nr. 2277/2004",
+   "title": "Ordinul nr. 2.277/2004 pentru modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 280/2004 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58568",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58568",
+     "sha256": "6e6f505b307fec94bb233d198ed15b4e3b045f177e07f5ceac4889a8cdde4ae6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2315-2004",
+   "path": "ordin/transporturi/2004/2315",
+   "short": "Ordin transporturi nr. 2315/2004",
+   "title": "Ordinul nr. 2.315/2004 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.041/2003 pentru aprobarea Normelor tehnice privind siguranța navelor maritime de pasageri care nu efectuează voiaje internaționale, cod MTCT.ANR-NPAS-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58932",
+   "versions": [
+    {
+     "from": "2005-01-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58932",
+     "sha256": "2815aa86b0e0ac6b2c051be9e1cc8ac77478f06d3cbef29209f6f9d0044a2612"
     }
    ]
   },
@@ -10724,6 +11189,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50222",
      "sha256": "d50c78917c8a6931124c64a9c5925121e87aa2f41740f4cc297e0475b9ce875d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-296-2004",
+   "path": "ordin/transporturi/2004/296",
+   "short": "Ordin transporturi nr. 296/2004",
+   "title": "Ordinul nr. 296/2004 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 1.170/2003 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere - Metodologia de licențiere a transporturilor rutiere publice de persoane sau bunuri în regim de taxi, a transporturilor rutiere publice de persoane în regim de închiriere, condițiile privind agrearea și inspecția tehnică periodică a autovehiculelor care efectuează transport în regim de taxi, precum și metodologia de eliberare a certificatului de atestare a pregătirii profesionale a taximetriștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51111",
+   "versions": [
+    {
+     "from": "2004-04-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51111",
+     "sha256": "56d8ab70d238656c282cc00ddfa431596f0cc6b4527bf2398c2934980ed1acd1"
     }
    ]
   },
@@ -10859,6 +11339,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51393",
      "sha256": "39f5612bacde153d0b5f4cb8dc52b29f3a1a24dacccea9f644bceb517a9ca4b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-693-2004",
+   "path": "ordin/transporturi/2004/693",
+   "short": "Ordin transporturi nr. 693/2004",
+   "title": "Ordinul nr. 693/2004 privind modificarea Reglementărilor privind certificarea încadrării vehiculelor rutiere, înmatriculate, în normele tehnice privind siguranța circulației rutiere, protecția mediului și folosința conform destinației, prin inspecția tehnică periodică, aprobate prin Ordinul ministrului transporturilor nr. 353/1998, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51739",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51739",
+     "sha256": "0aa675190de8b141b126d81fd5333e6d450d42b169dca86990f929d4585107a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-7-2004",
+   "path": "ordin/transporturi/2004/7",
+   "short": "Ordin transporturi nr. 7/2004",
+   "title": "Ordinul nr. 7/2004 pentru modificarea art. 20 din Instrucțiunile privind examinarea medicală și psihologică a personalului din transporturi cu responsabilități în siguranța circulației și a navigației, aprobate prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 447/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49086",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49086",
+     "sha256": "dd97fd9974b9d9cb4017de28d3927153339c7dd30bfaa3a96305bb9509a09f5d"
     }
    ]
   },

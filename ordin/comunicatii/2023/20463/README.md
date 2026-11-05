@@ -1,8 +1,8 @@
 # Ordinul nr. 20.463/2023 privind încadrarea în activitatea de creare de programe pentru calculator
 
-Ordin comunicatii nr. 20463/2023 · 1 versions, from 2023-05-02 (latest in force: 2023-05-02) · <https://legislatie.just.ro/Public/DetaliiDocument/267501>
+Ordin comunicatii nr. 20463/2023 · 1 versions, from 2023-06-01 (latest in force: 2023-06-01) · <https://legislatie.just.ro/Public/DetaliiDocument/267501>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 June 2023; this record still dates it from 2 May 2023, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,4 +28,4 @@ Act id: `ordin-comunicatii-20463-2023` (tags `ordin-comunicatii-20463-2023/<day>
 - Ordin comunicatii nr. 20463/2023: the signatures and the place and date line after its last article are not article text.
 - Ordin comunicatii nr. 20463/2023: Anexa nr. 1 (LISTA cuprinzând ocupațiile specifice activităților de creare de programe pentru calculator Nr. crt. SECȚIUNEA 1 Ocupația SECȚIUNEA a 2-a Descrierea activității 1. Administrator baze de date Activităț) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 267501 of the official web service.
 - Ordin comunicatii nr. 20463/2023: a joint order of Ministerul Cercetării, Inovării și Digitalizării nr. 20.463 din 11 April 2023; Ministerul Educației nr. 3.964 din 18 April 2023; Ministerul Muncii și Solidarității Sociale nr. 967 din 20 April 2023; Ministerul Finanțelor nr. 1.415 din 25 April 2023. It is published once, here, under the issuer its EMITENT block lists first; `ordin-educatie-3964-2023`, `ordin-munca-967-2023`, `ordin-finante-1415-2023` name it too (data/paths.json aliases).
-- Ordin comunicatii nr. 20463/2023: first published here dated 2 May 2023; its in-force clause states 1 June 2023. The record keeps the first date until it is corrected by hand.
+- Ordin comunicatii nr. 20463/2023: re-dated by a correction: in force from 1 June 2023 (first published dated 2 May 2023).

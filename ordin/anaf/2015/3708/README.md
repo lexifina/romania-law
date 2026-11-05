@@ -1,8 +1,8 @@
 # Ordinul nr. 3.708/2015 pentru aprobarea modelului și conținutului formularului "Decizie de impunere provizorie privind obligațiile fiscale principale"
 
-Ordin anaf nr. 3708/2015 · 1 versions, from 2015-12-28 (latest in force: 2015-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/174347>
+Ordin anaf nr. 3708/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174347>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────┬─────────────────────────┬───────────────────────┐ │SIGLA D.G.R.F.P./D.G.A.M.C. │Direcția................│Nr. ...): it is a table that the official text holds only flattened. Its in-force clause states 1 January 2016; this record still dates it from 28 December 2015, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,6 +29,6 @@ Act id: `ordin-anaf-3708-2015` (tags `ordin-anaf-3708-2015/<day>`; `python tools
 - Ordin anaf nr. 3708/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3708/2015: Anexa nr. 2 (2 INSTRUCȚIUNI DE EMITERE ȘI COMPLETARE a formularului "Decizie de impunere provizorie privind obligațiile fiscale principale" Decizia de impunere provizorie privind obligațiile fiscale principale rep) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 174347 of the official web service.
 - Ordin anaf nr. 3708/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale formularului "Decizia de impunere provizorie privind obligațiile fiscale principale" 1. Denumire: "Decizia de impunere prov) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 174347 of the official web service.
-- Ordin anaf nr. 3708/2015: Anexa nr. 1 (1 ┌────────────────────────────┬─────────────────────────┬───────────────────────┐ │SIGLA D.G.R.F.P./D.G.A.M.C. │Direcția................│Nr. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3708/2015: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3708/2015: the publisher's notes run into its text (*) Ştampila se va aplica numai pentru coloana "aprobat".) are not text.
-- Ordin anaf nr. 3708/2015: first published here dated 28 December 2015; its in-force clause states 1 January 2016. The record keeps the first date until it is corrected by hand.
+- Ordin anaf nr. 3708/2015: re-dated by a correction: in force from 1 January 2016 (first published dated 28 December 2015).

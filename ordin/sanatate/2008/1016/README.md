@@ -1,8 +1,8 @@
 # Ordinul nr. 1.016/2008 privind modificarea și completarea Ordinului ministrului sănătății publice nr. 884/2007 pentru ajustarea prețurilor la medicamentele cuprinse în Catalogul național al prețurilor medicamentelor de uz uman autorizate de punere pe piață în România
 
-Ordin sanatate nr. 1016/2008 · 1 versions, from 2008-05-26 (latest in force: 2008-05-26) · <https://legislatie.just.ro/Public/DetaliiDocument/93343>
+Ordin sanatate nr. 1016/2008 · 1 versions, from 2008-06-01 (latest in force: 2008-06-01) · <https://legislatie.just.ro/Public/DetaliiDocument/93343>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 June 2008; this record still dates it from 26 May 2008, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,4 @@ Act id: `ordin-sanatate-1016-2008` (tags `ordin-sanatate-1016-2008/<day>`; `pyth
 - Ordin sanatate nr. 1016/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1016/2008: the first version is the order as published in Monitorul Oficial nr. 394 of 26 May 2008 (document 93343 of the official web service), in force on 1 June 2008, the day it states for itself.
 - Ordin sanatate nr. 1016/2008: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1016/2008: first published here dated 26 May 2008; its in-force clause states 1 June 2008. The record keeps the first date until it is corrected by hand.
+- Ordin sanatate nr. 1016/2008: re-dated by a correction: in force from 1 June 2008 (first published dated 26 May 2008).

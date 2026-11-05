@@ -1,8 +1,8 @@
 # Ordinul nr. 2.487/2022 pentru aprobarea reglementării tehnice "Normativ privind cerințe de calitate specifice construcțiilor pentru grădinițe de copii, indicativ NP 011-2022"
 
-Ordin dezvoltare nr. 2487/2022 · 1 versions, from 2022-09-29 (latest in force: 2022-09-29) · <https://legislatie.just.ro/Public/DetaliiDocument/259725>
+Ordin dezvoltare nr. 2487/2022 · 1 versions, from 2022-10-29 (latest in force: 2022-10-29) · <https://legislatie.just.ro/Public/DetaliiDocument/259725>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 29 October 2022; this record still dates it from 29 September 2022, as first published here, and the date will be corrected.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Act id: `ordin-dezvoltare-2487-2022` (tags `ordin-dezvoltare-2487-2022/<day>`; `
 - Ordin dezvoltare nr. 2487/2022: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 20 septembrie 2022 Normativ privind cerințe de calitate specifice construcțiilor pentru grădinițe de copii - Indicativ NP011 -2022) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 259738 of the official web service.
 - Ordin dezvoltare nr. 2487/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 950 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bl. P33, parter, sectorul 5, Buc" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
 - Ordin dezvoltare nr. 2487/2022: the publisher's note "**) Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 5/N/1997 nu a fost publicat în Monitorul Oficial al României, Partea I." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.
-- Ordin dezvoltare nr. 2487/2022: first published here dated 29 September 2022; its in-force clause states 29 October 2022. The record keeps the first date until it is corrected by hand.
+- Ordin dezvoltare nr. 2487/2022: re-dated by a correction: in force from 29 October 2022 (first published dated 29 September 2022).

@@ -3,6 +3,21 @@
  "shard": "ordin/2001",
  "acts": [
   {
+   "slug": "ordin-agricultura-105951-2001",
+   "path": "ordin/agricultura/2001/105951",
+   "short": "Ordin agricultura nr. 105951/2001",
+   "title": "Ordinul nr. 105.951/2001 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei și a Grupului de sprijin pentru aplicarea Planului de acțiune pentru protecția apelor împotriva poluării cu nitrați proveniți din surse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28827",
+   "versions": [
+    {
+     "from": "2001-06-06",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28827",
+     "sha256": "fef3dfb478fd8198db137cc772f1d4471c3456b39d2426fa9d5271f2fb80a8db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-119066-2001",
    "path": "ordin/agricultura/2001/119066",
    "short": "Ordin agricultura nr. 119066/2001",
@@ -858,6 +873,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-151-2001",
+   "path": "ordin/anrm/2001/151",
+   "short": "Ordin anrm nr. 151/2001",
+   "title": "Ordinul nr. 151/2001 pentru aprobarea Instrucțiunilor tehnice privind aplicarea și urmărirea măsurilor stabilite în Programul de conformare și în planul de refacere a mediului, precum și reglementarea modului de operare cu garanția bancară pentru refacerea mediului afectat de activitățile miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33034",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33034",
+     "sha256": "5894fdc9e5e1e2fd5d73811cbf2df25cab5ff2002cfca869b3a2d46f62cffb13"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-2-2001",
    "path": "ordin/bnr/2001/2",
    "short": "Ordin bnr nr. 2/2001",
@@ -1030,7 +1060,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/33085",
    "versions": [
     {
-     "from": "2001-12-29",
+     "from": "2002-01-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33085",
      "sha256": "8054a1487b1499087c456e1b4fc4f7ede94c964b5907cc1362858710fb2a310d"
@@ -1045,7 +1075,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/33078",
    "versions": [
     {
-     "from": "2001-12-29",
+     "from": "2002-01-01",
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33078",
      "sha256": "abb79cbaa609697d21cb28d2ef8e93cbdee685b731f5a2b144e92953d23d5508"
@@ -1120,7 +1150,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/32270",
    "versions": [
     {
-     "from": "2002-02-15",
+     "from": "2001-11-19",
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32270",
      "sha256": "197df21a3201da4526a9cc0ca4a7d89bc922d647b0e0fd3a3ac926f30ae72e50"
@@ -4304,6 +4334,96 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32942",
      "sha256": "47c80012f6359ead565a0c579da32b411ca272b6079cf5b02f2a950ca327a645"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-115-2001",
+   "path": "ordin/mediu/2001/115",
+   "short": "Ordin mediu nr. 115/2001",
+   "title": "Ordinul nr. 115/2001 privind interzicerea pescuitului pe teritoriul Rezervației Biosferei \"Delta Dunării\" până la data de 15 martie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26745",
+   "versions": [
+    {
+     "from": "2001-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26745",
+     "sha256": "f2f1d59f8e93c78b525bd2f39859b15ac67bf6f649c744f5753b9d6e56ea98f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-353-2001",
+   "path": "ordin/mediu/2001/353",
+   "short": "Ordin mediu nr. 353/2001",
+   "title": "Ordinul nr. 353/2001 pentru aprobarea Normelor de securitate radiologica privind radioprotecția operațională a lucrătorilor externi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32449",
+   "versions": [
+    {
+     "from": "2001-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32449",
+     "sha256": "5b1eff3a912706f2e44414b64ac10fd2999954c8b2ae6f3f77782dadd4502dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-366-2001",
+   "path": "ordin/mediu/2001/366",
+   "short": "Ordin mediu nr. 366/2001",
+   "title": "Ordinul nr. 366/2001 privind aprobarea Normelor de securitate radiologica - Proceduri de autorizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32450",
+   "versions": [
+    {
+     "from": "2001-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32450",
+     "sha256": "8e5e989dd12eb9fe40608be3b15d500115b05302ac701c166f52286eb49c3ef0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-374-2001",
+   "path": "ordin/mediu/2001/374",
+   "short": "Ordin mediu nr. 374/2001",
+   "title": "Ordinul nr. 374/2001 privind aprobarea Normelor pentru expediții internaționale de materiale radioactive implicând teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34096",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34096",
+     "sha256": "e0eff4677034c11e034579978f6d7b7d29f5547da968bdc49f7ddb660954d629"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-647-2001",
+   "path": "ordin/mediu/2001/647",
+   "short": "Ordin mediu nr. 647/2001",
+   "title": "Ordinul nr. 647/2001 pentru aprobarea Procedurii de autorizare a activităților de recoltare, capturare și/sau de achiziție și comercializare pe piața internă sau la export a plantelor și animalelor din flora și fauna sălbatică, precum și a importului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29850",
+   "versions": [
+    {
+     "from": "2001-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29850",
+     "sha256": "a98f5ed792c6e108dccd816dc75340a5829c27f6e9ba9eeb00167d2e7b675309"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-706-2001",
+   "path": "ordin/mediu/2001/706",
+   "short": "Ordin mediu nr. 706/2001",
+   "title": "Ordinul nr. 706/2001 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate în elaborarea de studii, proiecte, în execuție, consultanța în domeniul gospodăririi apelor și documentații tehnice pentru obținerea avizelor și a autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30526",
+   "versions": [
+    {
+     "from": "2001-09-11",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30526",
+     "sha256": "1a63f015c1ca8962396e2de36a9736d55b376c1e724efb7de2c2dff8569c0db7"
     }
    ]
   },
