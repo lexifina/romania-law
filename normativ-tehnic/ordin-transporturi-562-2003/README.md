@@ -1,6 +1,6 @@
-# : Metodologie de elaborare şi conţinutul-cadru al documentaţiilor de urbanism pentru zone construite protejate (PUZ)
+# Metodologie de elaborare şi conţinutul-cadru al documentaţiilor de urbanism pentru zone construite protejate (PUZ)
 
-Normativ tehnic · 1 versions, from 2004-02-11 (latest in force: 2004-02-11) · <https://legislatie.just.ro/Public/DetaliiDocument/49684>
+Normativ tehnic aprobat prin Ordinul nr. 562/2003 · 1 versions, from 2004-02-11 (latest in force: 2004-02-11) · <https://legislatie.just.ro/Public/DetaliiDocument/49684>
 
 **Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
@@ -13,5 +13,5 @@ Act id: `normativ-tehnic-ordin-transporturi-562-2003` (tags `normativ-tehnic-ord
 
 ## Decisions made by hand
 
-- Normativ tehnic: added by Lexifina's construction source lane: approved by ORDIN nr. 562 din 20 octombrie 2003 pentru aprobarea Reglementării tehnice "Metodologie de elaborare şi conţinutul-cadru al documentaţiilor de urbanism pentru zone construite protejate (PUZ)" (Monitorul Oficial nr. 125 of 2004-02-11). Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
-- Normativ tehnic: the norm's text is the official web service's document 90600 (REGLEMENTĂRI), matched to its approving order by same MO issue bis + sole candidate.
+- Normativ tehnic aprobat prin Ordinul nr. 562/2003: added by Lexifina's construction source lane: approved by ORDIN nr. 562 din 20 octombrie 2003 pentru aprobarea Reglementării tehnice "Metodologie de elaborare şi conţinutul-cadru al documentaţiilor de urbanism pentru zone construite protejate (PUZ)" (Monitorul Oficial nr. 125 of 2004-02-11). Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+- Normativ tehnic aprobat prin Ordinul nr. 562/2003: the norm's text is the official web service's document 90600 (REGLEMENTĂRI), matched to its approving order by same MO issue bis + sole candidate.
