@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 2 nr. 400/2022 privind actualizarea indicatorilor tehnico economici și a devizului general la faza PT pentru lucrări de reabilitare-modernizare - Corp liceu la Liceul Tehnologic Nikola Tesla din Şos. Pantelimon nr.25, Sector 2, Bucureşti, aprobaţi prin HCL Sector 2 nr.187/2018, cu modificările şi completările ulterioare Modifică/completează HCL S2 nr. 187/2018
+
+HCLS2 nr. 400/2022 · 1 versions, from 2022-11-28 (latest in force: 2022-11-28) · <https://cl.ps2.ro/index.php/consiliul-local/hotarari/2022/hotararea-nr-400-din-2022>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls2-400-2022` (tags `hcls2-400-2022/<day>`; `python tools/on.py <day> hcls2-400-2022`).
+
+## Decisions made by hand
+
+- HCLS2 nr. 400/2022: listed from Consiliul Local al Sectorului 2 (cl.ps2.ro); an individual decision: metadata only.
+- HCLS2 nr. 400/2022: dated from 28 November 2022, the day the council published it (its adoption day is not listed).
+- HCLS2 nr. 400/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

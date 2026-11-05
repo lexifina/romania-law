@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12402 acts, 23,916 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12404 acts, 23,918 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11280,7 +11280,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (997, of which 116 amending acts)
+## Ordinances (OG) (999, of which 116 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11526,7 +11526,9 @@
 | Ordonanța Guvernului nr. 25/2000 pentru modificarea Ordonanţei Guvernului nr. 63/1994 privind actualizarea unor normative de cheltuieli pentru autorităţile şi instituţiile publice | [`og/2000/25/`](og/2000/25/) | amended, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
 | Ordonanța Guvernului nr. 27/2000 | [`og/2000/27/`](og/2000/27/) | in force | 2 | 2000-02-15 | 2002-07-15 |
+| Ordonanța Guvernului nr. 28/2000 privind unele măsuri pentru accelerarea derulării creditelor garantate de Guvern în baza Hotărârii Guvernului nr. 687/1997 privind contractarea şi garantarea de către Guvern a unor credite pentru realizarea unor programe guvernamentale privind pietruirea drumurilor comunale, alimentarea cu apa a satelor, asigurarea cu locuinţe sociale, refacerea şi dezvoltarea infrastructurii în intravilanul localităţilor rurale, cu modificările şi completările ulterioare | [`og/2000/28/`](og/2000/28/) | in force | 1 | 2000-01-31 | 2000-01-31 |
 | Ordonanța Guvernului nr. 29/2000 privind reabilitarea termica a fondului construit existent şi stimularea economisirii energiei termice | [`og/2000/29/`](og/2000/29/) | amended, not consolidated | 1 | 2000-04-30 | 2000-04-30 |
+| Ordonanța Guvernului nr. 30/2000 pentru ratificarea Acordului de împrumut dintre România, în calitate de Împrumutat, Banca Naţionala a României, în calitate de Agent al Împrumutatului, şi Comunitatea Europeană, în calitate de Împrumutător, semnat la Bruxelles la 27 ianuarie 2000 | [`og/2000/30/`](og/2000/30/) | in force | 1 | 2000-01-31 | 2000-01-31 |
 | Ordonanța Guvernului nr. 34/2000 privind modificarea şi completarea Legii viei şi vinului nr. 67/1997 | [`og/2000/34/`](og/2000/34/) | amended, not consolidated | 1 | 2000-01-31 | 2000-01-31 |
 | Ordonanța Guvernului nr. 35/2000 pentru modificarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului | [`og/2000/35/`](og/2000/35/) | amended, not consolidated | 1 | 2000-01-31 | 2000-01-31 |
 | Ordonanța Guvernului nr. 36/2000 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 69/1998 privind regimul de autorizare a activităţilor din domeniul jocurilor de noroc | [`og/2000/36/`](og/2000/36/) | amended, not consolidated | 1 | 2000-01-31 | 2000-01-31 |
@@ -12468,7 +12470,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27920 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27924 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 22496 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12484,4 +12486,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 16553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 18053 | [`data/acts/local/`](data/acts/local/) |

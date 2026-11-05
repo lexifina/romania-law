@@ -204986,6 +204986,21 @@
    ]
   },
   {
+   "slug": "og-28-2000",
+   "path": "og/2000/28",
+   "short": "OG nr. 28/2000",
+   "title": "Ordonanța Guvernului nr. 28/2000 privind unele măsuri pentru accelerarea derulării creditelor garantate de Guvern în baza Hotărârii Guvernului nr. 687/1997 privind contractarea şi garantarea de către Guvern a unor credite pentru realizarea unor programe guvernamentale privind pietruirea drumurilor comunale, alimentarea cu apa a satelor, asigurarea cu locuinţe sociale, refacerea şi dezvoltarea infrastructurii în intravilanul localităţilor rurale, cu modificările şi completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20750",
+   "versions": [
+    {
+     "from": "2000-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20750",
+     "sha256": "b607fed759b170690fdab4ede99cdc5d60bc0f965ab4bfbcdf3144270d40e1f1"
+    }
+   ]
+  },
+  {
    "slug": "og-28-2002",
    "path": "og/2002/28",
    "short": "OG nr. 28/2002",
@@ -205669,6 +205684,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14127",
      "sha256": "0e64cdc8cb54f7f8c0f0c115cd855da39b8edd96f2490192f678249f5d209bf2"
+    }
+   ]
+  },
+  {
+   "slug": "og-30-2000",
+   "path": "og/2000/30",
+   "short": "OG nr. 30/2000",
+   "title": "Ordonanța Guvernului nr. 30/2000 pentru ratificarea Acordului de împrumut dintre România, în calitate de Împrumutat, Banca Naţionala a României, în calitate de Agent al Împrumutatului, şi Comunitatea Europeană, în calitate de Împrumutător, semnat la Bruxelles la 27 ianuarie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20784",
+   "versions": [
+    {
+     "from": "2000-01-31",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20784",
+     "sha256": "4aea6c7eb48a5540d7c7d147d56e850ddf3bfd815c952f3b26493a8e9b9afd85"
     }
    ]
   },

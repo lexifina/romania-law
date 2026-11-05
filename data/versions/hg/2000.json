@@ -10662,6 +10662,21 @@
    ]
   },
   {
+   "slug": "hg-65-2000",
+   "path": "hg/2000/65",
+   "short": "HG nr. 65/2000",
+   "title": "Hotărârea Guvernului nr. 65/2000 privind garantarea de către Ministerul Finanţelor a unui credit extern pentru Ministerul Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20765",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20765",
+     "sha256": "eab7db1ecbcf3affd2a0fb88f90373a65757cc75d3d34559b4acbd6d9ff4f4be"
+    }
+   ]
+  },
+  {
    "slug": "hg-650-2000",
    "path": "hg/2000/650",
    "short": "HG nr. 650/2000",
@@ -10928,6 +10943,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23991",
      "sha256": "a77aceceeded6c02ffb0b3f7ae20cdb97bca87e856dabbb5b03bf66e72d01e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-67-2000",
+   "path": "hg/2000/67",
+   "short": "HG nr. 67/2000",
+   "title": "Hotărârea Guvernului nr. 67/2000 pentru aprobarea taxei vamale aplicate în România la importul anumitor sortimente de vinuri originare din Uniunea Europeană în cadrul contingentului tarifar prevăzut pentru anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20835",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20835",
+     "sha256": "4c3fe73b15ec50918aa074ed8d278c6d9dc41f386bbbe3e0188975292f25c54f"
     }
    ]
   },
@@ -11333,6 +11363,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/23955",
      "sha256": "2d14e0492edb4bae638c6a95b353916f5ff34b9ee4a36b3d63e303b60d461326"
+    }
+   ]
+  },
+  {
+   "slug": "hg-70-2000",
+   "path": "hg/2000/70",
+   "short": "HG nr. 70/2000",
+   "title": "Hotărârea Guvernului nr. 70/2000 privind aprobarea bugetului de venituri şi cheltuieli al trezoreriei statului pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20807",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20807",
+     "sha256": "de8892df1b675a29fc886b0ecbab6a04081f56d2dcdc15364d28cb8831cd2a3e"
     }
    ]
   },
@@ -11822,6 +11867,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24049",
      "sha256": "ea7fc25b93abadbfa3698d9244373c52009cd0bde5ed09bbbb9b531ebc378e44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-74-2000",
+   "path": "hg/2000/74",
+   "short": "HG nr. 74/2000",
+   "title": "Hotărârea Guvernului nr. 74/2000 privind aprobarea unor licenţe de concesiune a activităţii de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Cariere Ilsom\" - S.A. Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20768",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20768",
+     "sha256": "0c3baae6809a50dca564d863af46dcfd92f6aeed0d18eb58a727290ae4b599d3"
     }
    ]
   },

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 2 nr. 366/2019 pentru modificarea și completarea Hotărârii Consiliului Local Sector 2 nr. 6/2012 privind includerea în Programul local multianual pentru creșterea performanței energetice a unor blocuri de locuințe din Sectorul 2 al Municipiului București, cu modificările și completările ulterioare Modifică/completează HCL S2 nr. 6/2012
+
+HCLS2 nr. 366/2019 · 1 versions, from 2020-01-06 (latest in force: 2020-01-06) · <https://cl.ps2.ro/index.php/consiliul-local/hotarari/2019/hotararea-nr-366>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls2-366-2019` (tags `hcls2-366-2019/<day>`; `python tools/on.py <day> hcls2-366-2019`).
+
+## Decisions made by hand
+
+- HCLS2 nr. 366/2019: listed from Consiliul Local al Sectorului 2 (cl.ps2.ro); an individual decision: metadata only.
+- HCLS2 nr. 366/2019: dated from 6 January 2020, the day the council published it (its adoption day is not listed).
+- HCLS2 nr. 366/2019: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
