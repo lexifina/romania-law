@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12621 acts, 24,136 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12628 acts, 24,143 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8491, of which 3214 amending acts)
+## Laws (legi) (8498, of which 3216 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -372,9 +372,16 @@
 | Legea nr. 113/1996 | [`lege/1996/113/`](lege/1996/113/) | in force | 1 | 1996-10-16 | 1996-10-16 |
 | Legea locuinței nr. 114/1996 | [`lege/1996/114/`](lege/1996/114/) | in force | 21 | 1996-10-21 | 2022-07-30 |
 | Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere | [`lege/1996/115/`](lege/1996/115/) | in force | 8 | 1996-10-28 | 2010-09-05 |
+| Legea nr. 117/1996 pentru aprobarea Ordonanţei de urgență a Guvernului nr. 2/1996 privind completarea sprijinului acordat de stat producătorilor agricoli pentru rezolvarea unor probleme urgente apărute în campania agricolă din primăvara anului 1996 | [`lege/1996/117/`](lege/1996/117/) | amending act | 1 | 1996-10-22 | 1996-10-22 |
 | Legea nr. 119/1996 | [`lege/1996/119/`](lege/1996/119/) | in force | 25 | 1997-02-09 | 2025-03-27 |
+| Legea nr. 120/1996 pentru completarea art. 31 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială | [`lege/1996/120/`](lege/1996/120/) | amending act | 1 | 1996-10-22 | 1996-10-22 |
 | Legea nr. 121/1996 | [`lege/1996/121/`](lege/1996/121/) | in force | 3 | 1996-10-23 | 2014-02-01 |
 | Legea nr. 122/1996 | [`lege/1996/122/`](lege/1996/122/) | in force | 3 | 1996-10-25 | 2009-04-22 |
+| Legea nr. 123/1996 pentru ratificarea Convenţiei consulare dintre România şi Republica Socialistă Vietnam, semnată la Hanoi la 8 iulie 1995 | [`lege/1996/123/`](lege/1996/123/) | in force | 1 | 1996-10-25 | 1996-10-25 |
+| Legea nr. 124/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Ţărilor de Jos privind transporturile rutiere internaţionale, semnat la Bucureşti la 19 aprilie 1995 | [`lege/1996/124/`](lege/1996/124/) | in force | 1 | 1996-10-28 | 1996-10-28 |
+| Legea nr. 126/1996 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Regatului Belgiei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Bruxelles la 4 martie 1996 | [`lege/1996/126/`](lege/1996/126/) | in force | 1 | 1996-10-25 | 1996-10-25 |
+| Legea nr. 127/1996 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia pentru evitarea dublei impuneri cu privire la impozitele pe venit şi pe capital, semnat la Zagreb la 25 ianuarie 1996 | [`lege/1996/127/`](lege/1996/127/) | in force | 1 | 1996-10-31 | 1996-10-31 |
+| Legea nr. 128/1996 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Ucrainei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Izmail la 29 martie 1996 | [`lege/1996/128/`](lege/1996/128/) | in force | 1 | 1996-11-01 | 1996-11-01 |
 | Legea nr. 129/1996 privind transportul pe căile ferate române | [`lege/1996/129/`](lege/1996/129/) | amended, not consolidated | 1 | 1996-11-29 | 1996-11-29 |
 | Legea nr. 130/1996 | [`lege/1996/130/`](lege/1996/130/) | repealed 2011-05-13 | 4 | 1998-05-19 | 2011-05-13 |
 | Legea nr. 131/1996 pentru aprobarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare | [`lege/1996/131/`](lege/1996/131/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
@@ -12687,7 +12694,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 30048 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 30055 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

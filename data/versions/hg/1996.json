@@ -7182,6 +7182,36 @@
    ]
   },
   {
+   "slug": "hg-983-1996",
+   "path": "hg/1996/983",
+   "short": "HG nr. 983/1996",
+   "title": "Hotărârea Guvernului nr. 983/1996 privind aprobarea volumului maxim de masa lemnoasă ce se va recolta în anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10051",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10051",
+     "sha256": "02941e89a102b0afc0159614e462f320266cc97febfe7f0dd5c104cd01555d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-985-1996",
+   "path": "hg/1996/985",
+   "short": "HG nr. 985/1996",
+   "title": "Hotărârea Guvernului nr. 985/1996 privind aprobarea efectuării unor plăti de către Grupul de Intervenţie şi Salvare Navală Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10053",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10053",
+     "sha256": "dc35d5e3d5ff11ce5e0250d33962a6abd9309800736b660bb849bb5d156cd7cd"
+    }
+   ]
+  },
+  {
    "slug": "hg-986-1996",
    "path": "hg/1996/986",
    "short": "HG nr. 986/1996",
@@ -7208,6 +7238,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10055",
      "sha256": "03168b9c46a2d7e850c4c194fb34274a710b5a2e87fe2130f3aebf767140487d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-988-1996",
+   "path": "hg/1996/988",
+   "short": "HG nr. 988/1996",
+   "title": "Hotărârea Guvernului nr. 988/1996 privind exceptarea de la plata taxelor vamale a importului de sfecla de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10056",
+   "versions": [
+    {
+     "from": "1996-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10056",
+     "sha256": "3e8d26106261a28398eb51cae4553de01f672a5e4e5ad3b5f377b9737ed7cd36"
+    }
+   ]
+  },
+  {
+   "slug": "hg-989-1996",
+   "path": "hg/1996/989",
+   "short": "HG nr. 989/1996",
+   "title": "Hotărârea Guvernului nr. 989/1996 privind exceptarea temporară de la plata taxelor vamale a unui contingent tarifar de 100 mii tone orz de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10057",
+   "versions": [
+    {
+     "from": "1996-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10057",
+     "sha256": "39a711a023dea36906a195ed695ab4398ca2e13719d6f62c49493bc59eaec309"
+    }
+   ]
+  },
+  {
+   "slug": "hg-990-1996",
+   "path": "hg/1996/990",
+   "short": "HG nr. 990/1996",
+   "title": "Hotărârea Guvernului nr. 990/1996 pentru modificarea şi completarea Hotărârii Guvernului nr. 583/1996 privind acoperirea cheltuielilor pentru organizarea şi desfăşurarea alegerii Camerei Deputaţilor, a Senatului şi a Preşedintelui României din anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10058",
+   "versions": [
+    {
+     "from": "1996-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10058",
+     "sha256": "8d5c17ddf5303611e80606f0d8808dd48eba56f34a9010619e70bd24512c74d4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-992-1996",
+   "path": "hg/1996/992",
+   "short": "HG nr. 992/1996",
+   "title": "Hotărârea Guvernului nr. 992/1996 privind asigurarea şi creditarea stocurilor de aprovizionare pentru perioada de toamna-iarna, destinate localităţilor izolate din Delta Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10059",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10059",
+     "sha256": "48ba17fdc77809dc59180c75f9cbc4f2a0603a3d3e4debf9525c2b609ea883e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-993-1996",
+   "path": "hg/1996/993",
+   "short": "HG nr. 993/1996",
+   "title": "Hotărârea Guvernului nr. 993/1996 privind transmiterea, fără plata, a unei părţi dintr-un imobil şi a terenului aferent, situate în oraşul Motru, judeţul Gorj, în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10060",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10060",
+     "sha256": "754f0c381daebba4827d234dc6c9b4b9ca124edfefddf8fb0b66fc5c14c45521"
     }
    ]
   },
