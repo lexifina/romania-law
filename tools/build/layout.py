@@ -40,6 +40,25 @@ ORDER_KINDS = {'ordin': 'Ministerial and authority orders (ordine)', 'norma': 'N
                'criterii': 'Criteria (criterii)'}
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **ORDER_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
+# The publish-first source lanes (approved 2026-11-04; sources/<lane>/ready, built into parts by
+# ro-explore/pubfirst/lane_parts.py). Each act carries the folder its lane built it in (`folder`), under one of these
+# roots, and its id starts with that root: decizie-bec/<election>/<nr>, hotarare-aep/<year>/<nr>, norma-aep/<year>/<id>,
+# curtea-de-conturi/<kind>/<year>/<nr>, avocatul-poporului/<kind>/<year>/<nr>, cncd/hotarare/<year>/<nr>,
+# anspdcp/<kind>/<year>/<nr or day>, normativ-tehnic/<code>, proiect/<initiator>/<year>/<id>.
+LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations and results (BEC)',
+              'hotarare-aep': 'Permanent Electoral Authority decisions (AEP)',
+              'norma-aep': 'Permanent Electoral Authority norms, instructions and lists (AEP)',
+              'curtea-de-conturi': 'Court of Accounts (plenum decisions, regulations)',
+              'avocatul-poporului': 'Ombudsman (Avocatul Poporului): recommendations, reports, constitutional referrals',
+              'cncd': 'Anti-discrimination council decisions (CNCD)',
+              'anspdcp': 'Data protection authority decisions and sanction notices (ANSPDCP)',
+              'normativ-tehnic': 'Technical rules for construction (normative tehnice)',
+              'proiect': 'Draft acts in consultation and bills in Parliament (proiecte)'}
+KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **LANE_KINDS,
+              'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
+LANE_ROOTS = tuple(LANE_KINDS)
+LANE_FOLDER = re.compile(r'^(?:' + '|'.join(map(re.escape, LANE_ROOTS)) + r')(?:/[a-z0-9][a-z0-9-]*){1,4}$')
+LANE_SLUG = re.compile(r'^(' + '|'.join(map(re.escape, LANE_ROOTS)) + r')-([a-z0-9][a-z0-9-]*)$')
 KIND_ORDER = list(KIND_NAMES)
 ORDER_SLUG_RE = re.compile(r'^(' + '|'.join(ORDER_KINDS) + r')-([a-z]+)-(\d+)(?:-([a-z]+))?-(\d{4})(?:-\d+)?$')
 # An optional "-2", "-3" ... marks a second act under the same number after an earlier id was withdrawn (ids are never
@@ -80,6 +99,9 @@ def act_path(slug: str, title: str = '') -> str:
     m = CODE_SLUG.match(slug)
     if m:  # a code older than numbered laws (Codul civil of 1864): cod/<year>/<name>
         return f'cod/{m.group(2)}/{m.group(1)}'
+    m = LANE_SLUG.match(slug)
+    if m:  # a source-lane act known only by id (a withdrawn row): under its root
+        return f'{m.group(1)}/{m.group(2)}'
     # Never stop a publish for want of an identifier: the act goes under alte/ until FIXED names its folder.
     print(f'layout: no official identifier for act {slug!r} ({title!r}); filed under alte/{slug}', file=sys.stderr)
     return f'alte/{slug}'
@@ -87,6 +109,12 @@ def act_path(slug: str, title: str = '') -> str:
 
 def parts_of(path: str) -> tuple[str, str, str]:
     bits = path.split('/')
+    if bits[0] in LANE_ROOTS and len(bits) >= 2:  # <root>/.../<year>/<id>: the year is the last 4-digit level, if any
+        year = next((b for b in reversed(bits[1:-1]) if re.fullmatch(r'\d{4}', b)), '')
+        if not year and bits[0] == 'decizie-bec' and len(bits) == 3:  # decizie-bec/<election>-<year>/<nr>
+            m = re.search(r'(\d{4})$', bits[1])
+            year = m.group(1) if m else ''
+        return bits[0], year, bits[-1]
     if bits[0] == 'hotarare-parlament' and len(bits) == 4:  # hotarare-parlament/<chamber>/<year>/<number>
         return bits[0], bits[2], bits[3]
     if bits[0] == 'hotarare-parlament' and len(bits) == 5:  # hotarare-parlament/<chamber>/birou/<year>/<number>
@@ -263,13 +291,21 @@ def assign(c: dict, known: dict[str, str]) -> None:
     """Give every act its folder: the recorded one, else its official identifier. Two acts may never share one."""
     seen: dict[str, str] = {}
     for a in c['acts']:
-        p = known.get(a['slug']) or act_path(a['slug'], a.get('title', ''))
+        p = known.get(a['slug']) or lane_folder(a) or act_path(a['slug'], a.get('title', ''))
         if p in seen and seen[p] != a['slug']:
             # Two corpus acts claim one identifier (a duplicate entry): keep publishing, the later one under alte/.
             print(f'layout: {a["slug"]} and {seen[p]} both claim {p}; {a["slug"]} filed under alte/', file=sys.stderr)
             p = f'alte/{a["slug"]}'
         seen[p] = a['slug']
         a['path'] = p
+
+
+def lane_folder(a: dict) -> str | None:
+    """The folder a source-lane act names for itself (`folder`), when it lies under its own id's root; else None."""
+    f, m = a.get('folder'), LANE_SLUG.match(a['slug'])
+    if isinstance(f, str) and m and LANE_FOLDER.match(f) and f.split('/', 1)[0] == m.group(1):
+        return f
+    return None
 
 
 def status(a: dict) -> str:
@@ -282,6 +318,8 @@ def status(a: dict) -> str:
         return 'amended, not consolidated'
     if a.get('amendments_checked') is False:  # published as it appeared; whether it was amended is not checked yet
         return 'as published, amendments not yet checked'
+    if a.get('record_status') and lane_folder(a):  # a source-lane act states its own (metadata only, text withheld ...)
+        return a['record_status']
     if AMENDING.search(a.get('title', '')):
         return 'amending act'
     return 'in force'
@@ -311,7 +349,9 @@ def acts_rows(c: dict) -> list[dict]:
                      'versions': len(vs), 'from': vs[0]['from'] if vs else None, 'latest': vs[-1]['from'] if vs else None,
                      'portal': a.get('url'),
                      # orders: the issuer level, and a joint order's co-issuers with the id each one's number gives it
-                     **({'issuer': issuer_of(p), 'joint': a.get('joint') or []} if issuer_of(p) else {})})
+                     **({'issuer': issuer_of(p), 'joint': a.get('joint') or []} if issuer_of(p) else {}),
+                     # a source-lane act's machine flags (text_withheld: personal_data, text_missing, annex_missing ...)
+                     **({'flags': a['lane_flags']} if a.get('lane_flags') and lane_folder(a) else {})})
     return sort_rows(rows)
 
 
