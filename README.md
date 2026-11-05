@@ -48,7 +48,7 @@ Thirty charts drawn from this repository: who makes Romanian law, how the codes 
 | `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/`, `cjue/` (Court of Justice of the EU) |
 | [ACTS.md](ACTS.md) | the primary legislation (Constitution, laws, ordinances, decrees, codes), with folder, status and span; every other kind is listed by year in `data/acts/<kind>/<year>.md` (local acts: `data/acts/local/<council>/<year>.md`) |
 | `data/` | `acts.json`, `versions.json` and `laws.csv` for the primary legislation, the same files for every other kind under `data/acts/`, `data/versions/` and `data/laws/` (one per kind and year, all listed in `data/index.json`), `paths.json` and the CSV tables below |
-| `tools/` | `on.py` and `in_vigoare_la.py` (the law on any date); `tools/build/` holds the builder |
+| `tools/` | `on.py` and `in_vigoare_la.py` (the law on any date), `freshness.py` (how current an act is); `tools/build/` holds the builder |
 | [AGENTS.md](AGENTS.md) | how a program or an AI agent should query this repository |
 
 Each act also has a short id (`codul-civil`, `legea-31-1990`) used by the tools and tags. Folders were named by id until November 2026; `git log` on one file needs `--follow` across that move.
@@ -63,6 +63,7 @@ Each act also has a short id (`codul-civil`, `legea-31-1990`) used by the tools 
 | Every change to an article, word by word | `git log --follow -p --word-diff lege/2009/286/art-297.md` |
 | Everything one act changed | `git show law/legea-200-2023` |
 | An act as it stood from a day | `git show codul-penal/2023-07-09` (tags `<id>/<in-force day>`) |
+| Is the Codul civil here current? | `python tools/freshness.py codul-civil` |
 
 Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
 
@@ -71,6 +72,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | File | What |
 | --- | --- |
 | `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
+| `data/freshness.json`, `data/freshness/` | when each act was last checked against its official source, and its status (see [How current is it](#how-current-is-it)); `data/freshness/index.json` lists the files |
 | `data/act-links.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, captured 2018–2025; not official, and not complete for later links |
 | `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both; `eu_folder` is the EU act's folder under `ue/`, once it is here |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
@@ -106,6 +108,28 @@ All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21
 - Each act's latest version is the newest consolidated form held, so later amendments may be missing. Acts marked `amended, not consolidated` hold only the act as published; their `README.md` names the amending acts.
 - Only the Monitorul Oficial, Part I is authoritative (for EU acts, the Official Journal of the EU); no consolidated text, ours included, has legal force.
 - Not included: chapter and section headings, the portal's editorial notes, and annexes or figures printed as facsimiles or in a separate issue.
+
+## How current is it
+
+Every version names the official page it was read from, so every act can be checked against its source. `data/freshness/` records, for each act, the last day a check of the official source confirmed that the version here is still the newest, how it was checked, and any change the source reports that is not here yet.
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-05; 72% of acts verified in the last 7 days, 72% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+    python tools/freshness.py codul-civil          # one act: status, last check, newest change, official link
+    python tools/freshness.py --stale --kind hg    # acts not checked within their threshold
+    python tools/freshness.py --summary            # the counts, by kind and source
+
+| Status | Meaning |
+| --- | --- |
+| `current` | checked within its threshold, and no known change is missing |
+| `pending-change` | the official source reports a change not here yet: an amendment, a repeal, a newer EU consolidated version or an end of validity |
+| `stale` | last checked longer ago than its threshold |
+| `unverified` | never checked for later changes, as with most orders ("as published, amendments not yet checked") |
+| `source-unavailable` | due for a check, but the official source is not answering |
+
+The threshold is 7 days for the Constitution, codes, laws, ordinances, decrees and Government decisions, and 30 days for orders and other secondary legislation, local council decisions, EU acts and the acts of authorities and professional bodies. A repealed act does not change again, so it has none; court decisions do not change once published and have no rows. The tool works offline from these files: to be certain, open the official link it prints.
 
 ## How it is built and checked
 

@@ -1,0 +1,749 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<shard>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "ro-freshness/1",
+ "as_of": "2026-11-05",
+ "checked_against_official_source": "2026-11-05",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal, end of validity) this repository does not have yet",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "amendment-search": "a full-text search of the official legislation service for the act's designation, every result read for a change to the act",
+  "edition-index": "the official legislation service's list of every document, each scanned for acts it changes",
+  "consolidated-form": "the act's newest consolidated form on the official portal, as the page stood on that day",
+  "in-force-list": "the EU Publications Office's list of acts in force and their consolidated versions",
+  "register-read": "the issuing council's or body's official register or site, read for the act's record"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "constitutie",
+    "cod",
+    "lege",
+    "oug",
+    "og",
+    "decret",
+    "decret-lege",
+    "hotarare-parlament",
+    "hg"
+   ],
+   "label": "Constitution, codes, laws, ordinances, decrees, Parliament and Government decisions"
+  },
+  "orders": {
+   "days": 30,
+   "kinds": [
+    "ordin",
+    "norma",
+    "regulament",
+    "instructiuni",
+    "precizari",
+    "metodologie",
+    "criterii",
+    "normativ-tehnic",
+    "anexa"
+   ],
+   "label": "orders, norms and other secondary legislation"
+  },
+  "local": {
+   "days": 30,
+   "kinds": [
+    "local"
+   ],
+   "label": "local council decisions"
+  },
+  "eu": {
+   "days": 30,
+   "kinds": [
+    "ue"
+   ],
+   "label": "EU acts"
+  },
+  "bodies": {
+   "days": 30,
+   "kinds": [
+    "cncd",
+    "anspdcp",
+    "decizie-bec",
+    "hotarare-aep",
+    "norma-aep",
+    "profesii",
+    "curtea-de-conturi",
+    "avocatul-poporului"
+   ],
+   "label": "authorities and professional bodies"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act id, or a consolidated version or end of validity for EU acts)",
+  "newest_change_date": "its day",
+  "change_in_repo": "yes if this repository has that change, no if it is still missing",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 146987,
+  "by_status": {
+   "current": 98608,
+   "pending-change": 9127,
+   "stale": 2039,
+   "unverified": 34898,
+   "source-unavailable": 2315
+  },
+  "verified_7d": 105669,
+  "verified_30d": 105703,
+  "pct_verified_7d": 71.9,
+  "pct_verified_30d": 71.9,
+  "pct_current": 67.1,
+  "newest_verified": "2026-11-05",
+  "oldest_verified": "2018-07-23"
+ },
+ "by_group": {
+  "bodies": {
+   "acts": 4097,
+   "by_status": {
+    "current": 1301,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2796,
+    "source-unavailable": 0
+   },
+   "verified_7d": 1301,
+   "verified_30d": 1301,
+   "pct_verified_7d": 31.8,
+   "pct_verified_30d": 31.8,
+   "pct_current": 31.8,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-02"
+  },
+  "eu": {
+   "acts": 10950,
+   "by_status": {
+    "current": 9087,
+    "pending-change": 1863,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "verified_7d": 9087,
+   "verified_30d": 9087,
+   "pct_verified_7d": 83.0,
+   "pct_verified_30d": 83.0,
+   "pct_current": 83.0,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  },
+  "local": {
+   "acts": 58796,
+   "by_status": {
+    "current": 55831,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 650,
+    "source-unavailable": 2315
+   },
+   "verified_7d": 55798,
+   "verified_30d": 55831,
+   "pct_verified_7d": 94.9,
+   "pct_verified_30d": 95.0,
+   "pct_current": 95.0,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2023-03-20"
+  },
+  "national": {
+   "acts": 42921,
+   "by_status": {
+    "current": 32141,
+    "pending-change": 7221,
+    "stale": 2039,
+    "unverified": 1520,
+    "source-unavailable": 0
+   },
+   "verified_7d": 39235,
+   "verified_30d": 39236,
+   "pct_verified_7d": 91.4,
+   "pct_verified_30d": 91.4,
+   "pct_current": 74.9,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2018-07-23"
+  },
+  "orders": {
+   "acts": 30223,
+   "by_status": {
+    "current": 248,
+    "pending-change": 43,
+    "stale": 0,
+    "unverified": 29932,
+    "source-unavailable": 0
+   },
+   "verified_7d": 248,
+   "verified_30d": 248,
+   "pct_verified_7d": 0.8,
+   "pct_verified_30d": 0.8,
+   "pct_current": 0.8,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-04"
+  }
+ },
+ "by_kind": {
+  "anexa": {
+   "acts": 7,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 7,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "anspdcp": {
+   "acts": 375,
+   "by_status": {
+    "current": 74,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 301,
+    "source-unavailable": 0
+   },
+   "verified_7d": 74,
+   "verified_30d": 74,
+   "pct_verified_7d": 19.7,
+   "pct_verified_30d": 19.7,
+   "pct_current": 19.7,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-11-04"
+  },
+  "avocatul-poporului": {
+   "acts": 2,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "cncd": {
+   "acts": 2315,
+   "by_status": {
+    "current": 879,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1436,
+    "source-unavailable": 0
+   },
+   "verified_7d": 879,
+   "verified_30d": 879,
+   "pct_verified_7d": 38.0,
+   "pct_verified_30d": 38.0,
+   "pct_current": 38.0,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  },
+  "cod": {
+   "acts": 3,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 1,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 66.7,
+   "newest_verified": "2026-02-16",
+   "oldest_verified": "2026-02-16"
+  },
+  "constitutie": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 1,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": "2026-07-07",
+   "oldest_verified": "2026-07-07"
+  },
+  "criterii": {
+   "acts": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "curtea-de-conturi": {
+   "acts": 18,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 15,
+    "source-unavailable": 0
+   },
+   "verified_7d": 3,
+   "verified_30d": 3,
+   "pct_verified_7d": 16.7,
+   "pct_verified_30d": 16.7,
+   "pct_current": 16.7,
+   "newest_verified": "2026-11-03",
+   "oldest_verified": "2026-11-03"
+  },
+  "decizie-bec": {
+   "acts": 290,
+   "by_status": {
+    "current": 123,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 167,
+    "source-unavailable": 0
+   },
+   "verified_7d": 123,
+   "verified_30d": 123,
+   "pct_verified_7d": 42.4,
+   "pct_verified_30d": 42.4,
+   "pct_current": 42.4,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-11-02"
+  },
+  "decret-lege": {
+   "acts": 26,
+   "by_status": {
+    "current": 24,
+    "pending-change": 0,
+    "stale": 1,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "verified_7d": 24,
+   "verified_30d": 24,
+   "pct_verified_7d": 92.3,
+   "pct_verified_30d": 92.3,
+   "pct_current": 92.3,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-02-16"
+  },
+  "hg": {
+   "acts": 30282,
+   "by_status": {
+    "current": 26915,
+    "pending-change": 2362,
+    "stale": 443,
+    "unverified": 562,
+    "source-unavailable": 0
+   },
+   "verified_7d": 29266,
+   "verified_30d": 29266,
+   "pct_verified_7d": 96.6,
+   "pct_verified_30d": 96.6,
+   "pct_current": 88.9,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2018-07-23"
+  },
+  "hotarare-aep": {
+   "acts": 201,
+   "by_status": {
+    "current": 72,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 129,
+    "source-unavailable": 0
+   },
+   "verified_7d": 72,
+   "verified_30d": 72,
+   "pct_verified_7d": 35.8,
+   "pct_verified_30d": 35.8,
+   "pct_current": 35.8,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-11-03"
+  },
+  "hotarare-parlament": {
+   "acts": 138,
+   "by_status": {
+    "current": 53,
+    "pending-change": 14,
+    "stale": 0,
+    "unverified": 71,
+    "source-unavailable": 0
+   },
+   "verified_7d": 53,
+   "verified_30d": 53,
+   "pct_verified_7d": 38.4,
+   "pct_verified_30d": 38.4,
+   "pct_current": 38.4,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-11-04"
+  },
+  "instructiuni": {
+   "acts": 220,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 219,
+    "source-unavailable": 0
+   },
+   "verified_7d": 1,
+   "verified_30d": 1,
+   "pct_verified_7d": 0.5,
+   "pct_verified_30d": 0.5,
+   "pct_current": 0.5,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  },
+  "lege": {
+   "acts": 8507,
+   "by_status": {
+    "current": 3989,
+    "pending-change": 3377,
+    "stale": 566,
+    "unverified": 575,
+    "source-unavailable": 0
+   },
+   "verified_7d": 7319,
+   "verified_30d": 7320,
+   "pct_verified_7d": 86.0,
+   "pct_verified_30d": 86.0,
+   "pct_current": 46.9,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2021-12-06"
+  },
+  "local": {
+   "acts": 58796,
+   "by_status": {
+    "current": 55831,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 650,
+    "source-unavailable": 2315
+   },
+   "verified_7d": 55798,
+   "verified_30d": 55831,
+   "pct_verified_7d": 94.9,
+   "pct_verified_30d": 95.0,
+   "pct_current": 95.0,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2023-03-20"
+  },
+  "metodologie": {
+   "acts": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "norma": {
+   "acts": 743,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 742,
+    "source-unavailable": 0
+   },
+   "verified_7d": 1,
+   "verified_30d": 1,
+   "pct_verified_7d": 0.1,
+   "pct_verified_30d": 0.1,
+   "pct_current": 0.1,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  },
+  "norma-aep": {
+   "acts": 229,
+   "by_status": {
+    "current": 147,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 82,
+    "source-unavailable": 0
+   },
+   "verified_7d": 147,
+   "verified_30d": 147,
+   "pct_verified_7d": 64.2,
+   "pct_verified_30d": 64.2,
+   "pct_current": 64.2,
+   "newest_verified": "2026-11-04",
+   "oldest_verified": "2026-11-02"
+  },
+  "normativ-tehnic": {
+   "acts": 291,
+   "by_status": {
+    "current": 0,
+    "pending-change": 37,
+    "stale": 0,
+    "unverified": 254,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "og": {
+   "acts": 1032,
+   "by_status": {
+    "current": 313,
+    "pending-change": 426,
+    "stale": 259,
+    "unverified": 34,
+    "source-unavailable": 0
+   },
+   "verified_7d": 722,
+   "verified_30d": 722,
+   "pct_verified_7d": 70.0,
+   "pct_verified_30d": 70.0,
+   "pct_current": 30.3,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2022-05-23"
+  },
+  "ordin": {
+   "acts": 28329,
+   "by_status": {
+    "current": 246,
+    "pending-change": 6,
+    "stale": 0,
+    "unverified": 28077,
+    "source-unavailable": 0
+   },
+   "verified_7d": 246,
+   "verified_30d": 246,
+   "pct_verified_7d": 0.9,
+   "pct_verified_30d": 0.9,
+   "pct_current": 0.9,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-04"
+  },
+  "oug": {
+   "acts": 2932,
+   "by_status": {
+    "current": 845,
+    "pending-change": 1042,
+    "stale": 768,
+    "unverified": 277,
+    "source-unavailable": 0
+   },
+   "verified_7d": 1851,
+   "verified_30d": 1851,
+   "pct_verified_7d": 63.1,
+   "pct_verified_30d": 63.1,
+   "pct_current": 28.8,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2018-10-22"
+  },
+  "precizari": {
+   "acts": 34,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 34,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "profesii": {
+   "acts": 667,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 664,
+    "source-unavailable": 0
+   },
+   "verified_7d": 3,
+   "verified_30d": 3,
+   "pct_verified_7d": 0.4,
+   "pct_verified_30d": 0.4,
+   "pct_current": 0.4,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  },
+  "regulament": {
+   "acts": 593,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 593,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "ue": {
+   "acts": 10950,
+   "by_status": {
+    "current": 9087,
+    "pending-change": 1863,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "verified_7d": 9087,
+   "verified_30d": 9087,
+   "pct_verified_7d": 83.0,
+   "pct_verified_30d": 83.0,
+   "pct_current": 83.0,
+   "newest_verified": "2026-11-05",
+   "oldest_verified": "2026-11-05"
+  }
+ },
+ "sources": [
+  {
+   "source": "Portalul legislativ (legislatie.just.ro), Ministerul Justiției",
+   "kinds": [
+    "anexa",
+    "avocatul-poporului",
+    "cod",
+    "constitutie",
+    "criterii",
+    "curtea-de-conturi",
+    "decizie-bec",
+    "decret-lege",
+    "hg",
+    "hotarare-aep",
+    "hotarare-parlament",
+    "instructiuni",
+    "lege",
+    "metodologie",
+    "norma",
+    "norma-aep",
+    "normativ-tehnic",
+    "og",
+    "ordin",
+    "oug",
+    "precizari",
+    "regulament"
+   ],
+   "acts": 73884,
+   "last_successful_check": "2026-11-05",
+   "unavailable_since": "2026-11-05",
+   "sites": null,
+   "sites_unavailable": null,
+   "pct_verified_7d": 53.9,
+   "pct_verified_30d": 53.9
+  },
+  {
+   "source": "EU Publications Office (CELLAR)",
+   "kinds": [
+    "ue"
+   ],
+   "acts": 10950,
+   "last_successful_check": "2026-11-05",
+   "unavailable_since": null,
+   "sites": null,
+   "sites_unavailable": null,
+   "pct_verified_7d": 83.0,
+   "pct_verified_30d": 83.0
+  },
+  {
+   "source": "Authorities' and professional bodies' official sites",
+   "kinds": [
+    "anspdcp",
+    "cncd",
+    "profesii"
+   ],
+   "acts": 1166,
+   "last_successful_check": "2026-11-05",
+   "unavailable_since": null,
+   "sites": 9,
+   "sites_unavailable": 0,
+   "pct_verified_7d": 82.0,
+   "pct_verified_30d": 82.0
+  },
+  {
+   "source": "Local council registers (official sites)",
+   "kinds": [
+    "local"
+   ],
+   "acts": 58146,
+   "last_successful_check": "2026-11-05",
+   "unavailable_since": null,
+   "sites": 89,
+   "sites_unavailable": 5,
+   "pct_verified_7d": 96.0,
+   "pct_verified_30d": 96.0
+  },
+  {
+   "source": "Court decisions (Portalul legislativ)",
+   "kinds": [
+    "jurisprudenta"
+   ],
+   "acts": 0,
+   "last_successful_check": "2026-11-05",
+   "unavailable_since": null,
+   "sites": null,
+   "sites_unavailable": null,
+   "pct_verified_7d": null,
+   "pct_verified_30d": null
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 1178
+}
