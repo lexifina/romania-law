@@ -111008,6 +111008,21 @@
    ]
   },
   {
+   "slug": "legea-18-1998",
+   "path": "lege/1998/18",
+   "short": "Legea nr. 18/1998",
+   "title": "Legea nr. 18/1998 privind declararea ca oraş a comunei Baia de Arieş, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14057",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14057",
+     "sha256": "f79adeffe47c1db9955341e4c49aa1c6b44290df640a756587fcf38c228f1b68"
+    }
+   ]
+  },
+  {
    "slug": "legea-18-2000",
    "path": "lege/2000/18",
    "short": "Legea nr. 18/2000",

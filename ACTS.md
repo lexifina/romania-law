@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12546 acts, 24,061 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12547 acts, 24,062 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8422, of which 3182 amending acts)
+## Laws (legi) (8423, of which 3182 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -485,6 +485,7 @@
 | Legea nr. 12/1998 pentru modificarea şi completarea Legii nr. 26/1990 privind Registrul comerţului | [`lege/1998/12/`](lege/1998/12/) | amended, not consolidated | 1 | 1998-02-18 | 1998-02-18 |
 | Legea nr. 13/1998 | [`lege/1998/13/`](lege/1998/13/) | in force | 1 | 1998-01-26 | 1998-01-26 |
 | Legea nr. 16/1998 pentru modificarea şi completarea Legii nr. 111/1996 privind desfăşurarea în siguranţa a activităţilor nucleare | [`lege/1998/16/`](lege/1998/16/) | amended, not consolidated | 1 | 1998-01-13 | 1998-01-13 |
+| Legea nr. 18/1998 privind declararea ca oraş a comunei Baia de Arieş, judeţul Alba | [`lege/1998/18/`](lege/1998/18/) | in force | 1 | 1998-01-16 | 1998-01-16 |
 | Legea nr. 19/1998 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 50/1997 privind aprobarea scutirii de la plata taxei pe valoarea adăugată pentru produsele de tehnică militară, materialele, piesele de schimb, componentele, echipamentele şi aparatura, importate pentru înzestrarea Ministerului Apărării Naţionale | [`lege/1998/19/`](lege/1998/19/) | amended, not consolidated | 1 | 1998-01-16 | 1998-01-16 |
 | Legea nr. 20/1998 pentru ratificarea Convenţiei europene cu privire la echivalarea perioadelor de studii universitare, adoptată la Paris la 15 decembrie 1956 | [`lege/1998/20/`](lege/1998/20/) | amended, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
 | Legea nr. 21/1998 pentru ratificarea Convenţiei europene cu privire la echivalarea generală a perioadelor de studii universitare, adoptată la Roma la 6 noiembrie 1990 | [`lege/1998/21/`](lege/1998/21/) | amended, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
