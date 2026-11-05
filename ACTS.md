@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12542 acts, 24,057 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12543 acts, 24,058 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8419, of which 3179 amending acts)
+## Laws (legi) (8420, of which 3180 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -507,6 +507,7 @@
 | Legea nr. 53/1998 pentru ratificarea Convenţiei europene privind violenta şi ieşirile necontrolate ale spectatorilor cu ocazia manifestărilor sportive, în special la meciurile de fotbal, adoptată la Strasbourg la 19 august 1985 | [`lege/1998/53/`](lege/1998/53/) | amended, not consolidated | 1 | 1998-03-10 | 1998-03-10 |
 | Legea nr. 54/1998 privind circulaţia juridică a terenurilor | [`lege/1998/54/`](lege/1998/54/) | amended, not consolidated | 1 | 1998-06-02 | 1998-06-02 |
 | Legea nr. 55/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/1997 pentru modificarea şi completarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri | [`lege/1998/55/`](lege/1998/55/) | amended, not consolidated | 1 | 1998-03-09 | 1998-03-09 |
+| Legea nr. 57/1998 pentru aprobarea Ordonanţei Guvernului nr. 39/1997 cu privire la pensionarea pentru munca depusa, cu reducere de vârsta, a femeilor care lucrează în industria miniera | [`lege/1998/57/`](lege/1998/57/) | amending act | 1 | 1998-03-10 | 1998-03-10 |
 | Legea nr. 59/1998 privind afilierea Curţii Constituţionale a României la Asociaţia Curţilor Constituţionale care utilizează parţial limba franceza (A.C.C.P.U.F.) | [`lege/1998/59/`](lege/1998/59/) | amended, not consolidated | 1 | 1998-03-11 | 1998-03-11 |
 | Legea nr. 60/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind transportul combinat internaţional şi a Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind desfăşurarea traficului feroviar realizat prin frontiera de stat, semnate la Budapesta la 12 martie 1997 | [`lege/1998/60/`](lege/1998/60/) | amended, not consolidated | 1 | 1998-03-10 | 1998-03-10 |
 | Legea nr. 62/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/1997 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare | [`lege/1998/62/`](lege/1998/62/) | amended, not consolidated | 1 | 1998-03-20 | 1998-03-20 |
@@ -12608,7 +12609,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29065 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29077 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
