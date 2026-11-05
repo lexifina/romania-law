@@ -6,7 +6,8 @@ The aim: every source a Romanian lawyer or citizen needs, in one git history. La
 
 **Scope**
 - Rebuilt Romanian law from the official texts as one git history: the Constitution, the codes and tens of thousands of laws, ordinances and Government decisions.
-- Linked Constitutional Court and High Court rulings to the articles they concern, and added the European Court of Human Rights' judgments against Romania.
+- Linked Constitutional Court and High Court rulings to the articles they concern, and added the European Court of Human Rights' judgments against Romania and the EU Court of Justice's decisions concerning Romania.
+- Added the EU regulations and directives in force, in their Romanian Official Journal text.
 
 **Use**
 - The official portal shows one version of an act at a time, so tracing how a provision changed, or what it said on a given date, means comparing versions by hand. Here it is one `git log` or `git blame`.
@@ -33,7 +34,10 @@ An AI assistant answering a question about Romanian law through the MCP: the ans
 | `og/<year>/<number>/` · `hg/<year>/<number>/` | Government ordinances · Government decisions |
 | `<act>/art-NNN.md` | one article per file, one paragraph, letter or point per line; art. 112^1 is `art-112-1.md` |
 | `<act>/README.md` | the act's articles, versions and any decisions made by hand for it |
-| `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/` |
+| `ue/<kind>/<year>/<number>/` | EU regulations and directives in force, in their Romanian Official Journal text (`ue/regulament/2016/679/` is the GDPR) |
+| `anexa/<act id>/<annex>/` | official annexes held apart from their act: court circumscriptions, small-claims and legal-aid forms |
+| `profesii/<body>/...` | the legal professions' own rules (statutes, codes of ethics, regulations, decisions): UNBR, INPPA, OCJR, UNEJ, Consiliul de Mediere, CAFR; CSM, INM and UNPIR as metadata |
+| `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/`, `cjue/` (Court of Justice of the EU) |
 | [ACTS.md](ACTS.md) | the primary legislation (Constitution, laws, ordinances, decrees, codes), with folder, status and span; every other kind is listed by year in `data/acts/<kind>/<year>.md` (local acts: `data/acts/local/<council>/<year>.md`) |
 | `data/` | `acts.json`, `versions.json` and `laws.csv` for the primary legislation, the same files for every other kind under `data/acts/`, `data/versions/` and `data/laws/` (one per kind and year, all listed in `data/index.json`), `paths.json` and the CSV tables below |
 | `tools/` | `on.py` and `in_vigoare_la.py` (the law on any date); `tools/build/` holds the builder |
@@ -60,7 +64,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | --- | --- |
 | `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
 | `data/act-links.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, captured 2018–2025; not official, and not complete for later links |
-| `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both |
+| `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both; `eu_folder` is the EU act's folder under `ue/`, once it is here |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
 | `data/promulgation.csv` | the decree that promulgated each law |
 | `data/treaty-links.csv` | treaties and the acts that ratify them |
@@ -85,12 +89,14 @@ Practical tables, each row citing the provision it comes from (information, not 
 
 All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21,561 of the Constitutional Court (from 1992), 1,863 binding decisions of the High Court of Cassation and Justice (RIL and HP, from 1998) and 319 European Court of Human Rights judgments against Romania. Each folder holds the text and `meta.json`. Each decision is one commit of kind `ruling`, tagged `ruling/<id>`; a ruling changes no act file, and a Constitutional Court decision that changed a text is a separate commit of kind `court` in that act's history. Parties' names are as the Monitorul Oficial prints them. The portal holds about 85% of the Constitutional Court's yearly totals in recent years.
 
+`jurisprudenta/cjue/` holds 568 decisions of the Court of Justice of the EU and the General Court concerning Romania (preliminary references from Romanian courts, actions by or against Romania; 574 found in CELLAR): the operative part (`dispozitiv.md`) and `meta.json`, with the referring court and the EU acts interpreted. Full texts name the parties' lawyers, so they are linked, not copied.
+
 ## Dates, authors and limits
 
 - Each commit is dated on the day the change took effect, by each act's own clause or the default rule (Constituția art. 78: three days after publication). The author is the act that made the change; the committer is Lexifina.
 - A change is credited to an act only when the portal's amendment note names it; changes no note explains are labelled "unexplained". Judgement calls are recorded in each act's `README.md` and listed in `REPRODUCE.md`.
 - Each act's latest version is the newest consolidated form held, so later amendments may be missing. Acts marked `amended, not consolidated` hold only the act as published; their `README.md` names the amending acts.
-- Only the Monitorul Oficial, Part I is authoritative; no consolidated text, ours included, has legal force.
+- Only the Monitorul Oficial, Part I is authoritative (for EU acts, the Official Journal of the EU); no consolidated text, ours included, has legal force.
 - Not included: chapter and section headings, the portal's editorial notes, and annexes or figures printed as facsimiles or in a separate issue.
 
 ## How it is built and checked
@@ -105,12 +111,13 @@ Every version names the page it was read from and that page's sha256. Every vers
 | – | archived copies of the portal's pages, each capture pinned per version |
 | [legalize-ro](https://github.com/legalize-dev/legalize-ro) | a check of the Codul fiscal's text |
 | [Camera Deputaților](https://www.cdep.ro), legislation database | `data/act-links.csv` |
-| [EU Publications Office](https://op.europa.eu) (CELLAR) | `data/eu-transposition.csv` (CC0) |
+| [EU Publications Office](https://op.europa.eu) (CELLAR) | the Romanian texts in `ue/` and the decisions in `jurisprudenta/cjue/` (© European Union, https://eur-lex.europa.eu; Commission Decision 2011/833/EU, CC BY 4.0); `data/eu-transposition.csv` (CC0) |
+| The professional bodies' own sites (unbr.ro, inppa.ro, ocjr.ro, executori.ro, consiliuldemediere.ro, cafr.ro) | the texts in `profesii/` (official texts, Legea nr. 8/1996, art. 9 lit. b) |
 | [INS SIRUTA](https://data.gov.ro) and the [BNR](https://www.bnr.ro) rate table | locality codes in the court tables; `data/legal-interest.csv` |
 
 ## Licence
 
-The legal texts are official texts of Romanian normative acts (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), excluded from copyright by Legea nr. 8/1996, art. 9 lit. b. Lexifina's arrangement, tables, commit messages and tools are in the public domain (CC0), as set out in `LICENSE`. This repository is not legal advice and not an official publication.
+The legal texts are official texts of Romanian normative acts (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), excluded from copyright by Legea nr. 8/1996, art. 9 lit. b. The EU texts in `ue/` and `jurisprudenta/cjue/` are © European Union, reused under Commission Decision 2011/833/EU. Lexifina's arrangement, tables, commit messages and tools are in the public domain (CC0), as set out in `LICENSE`. This repository is not legal advice and not an official publication.
 
 ## În limba română
 
