@@ -205238,6 +205238,21 @@
    ]
   },
   {
+   "slug": "og-19-1996",
+   "path": "og/1996/19",
+   "short": "OG nr. 19/1996",
+   "title": "Ordonanța Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7989",
+   "versions": [
+    {
+     "from": "1996-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7989",
+     "sha256": "18a28449b0c5aa66c1e2b0ccb3cfaeb441c14219713dfe9b463124d4adcdf865"
+    }
+   ]
+  },
+  {
    "slug": "og-19-1998",
    "path": "og/1998/19",
    "short": "OG nr. 19/1998",
@@ -207772,6 +207787,21 @@
      "units": 6,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/216393",
      "sha256": "fe229f7b688038e0c98ede683a31faaab88d56ec4c7a733c4b42b1efe47ef220"
+    }
+   ]
+  },
+  {
+   "slug": "og-28-1996",
+   "path": "og/1996/28",
+   "short": "OG nr. 28/1996",
+   "title": "Ordonanța Guvernului nr. 28/1996 privind scutirea de la plata taxelor prevăzute la art. 71 alin. 3 din Legea fondului funciar nr. 18/1991 , pentru realizarea obiectivului de investiţii \"Piaţa de Gros Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8088",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8088",
+     "sha256": "d74c67a777da44b45b490da44b3f76861509310dd85932a7efb230d6821a111a"
     }
    ]
   },

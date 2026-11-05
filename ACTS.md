@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12637 acts, 24,152 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12639 acts, 24,154 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11482,7 +11482,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1030, of which 121 amending acts)
+## Ordinances (OG) (1032, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11565,10 +11565,12 @@
 | Ordonanța Guvernului nr. 11/1996 | [`og/1996/11/`](og/1996/11/) | repealed 2003-01-01 | 4 | 1996-04-30 | 2003-01-01 |
 | Ordonanța Guvernului nr. 15/1996 | [`og/1996/15/`](og/1996/15/) | in force | 9 | 1996-02-10 | 2004-11-22 |
 | Ordonanța Guvernului nr. 18/1996 privind angajarea de împrumuturi guvernamentale prin emisiunea de obligaţiuni de stat în valută de pe piaţa internă | [`og/1996/18/`](og/1996/18/) | amended, not consolidated | 1 | 1996-07-25 | 1996-07-25 |
+| Ordonanța Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina | [`og/1996/19/`](og/1996/19/) | in force | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 20/1996 privind modificarea listei-anexa nr. 1 la Legea nr. 42/1993 privind accizele la produsele din import şi din ţara, precum şi impozitul la ţiţeiul din producţia internă şi gazele naturale, republicată | [`og/1996/20/`](og/1996/20/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 21/1996 privind completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată | [`og/1996/21/`](og/1996/21/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii | [`og/1996/22/`](og/1996/22/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 27/1996 | [`og/1996/27/`](og/1996/27/) | in force | 9 | 1996-08-08 | 2021-11-01 |
+| Ordonanța Guvernului nr. 28/1996 privind scutirea de la plata taxelor prevăzute la art. 71 alin. 3 din Legea fondului funciar nr. 18/1991 , pentru realizarea obiectivului de investiţii "Piaţa de Gros Bucureşti" | [`og/1996/28/`](og/1996/28/) | in force | 1 | 1996-08-08 | 1996-08-08 |
 | Ordonanța Guvernului nr. 30/1996 privind reglementarea participaţiilor statului la Fondul Monetar Internaţional şi modul de regularizare a influentelor financiare rezultate din tranzacţiile cu Fondul Monetar Internaţional | [`og/1996/30/`](og/1996/30/) | amended, not consolidated | 1 | 1996-08-12 | 1996-08-12 |
 | Ordonanța Guvernului nr. 34/1996 pentru ratificarea unor acorduri de împrumut şi de garanţie externe şi a unor amendamente la un acord de împrumut extern | [`og/1996/34/`](og/1996/34/) | amended, not consolidated | 1 | 1996-08-29 | 1996-08-29 |
 | Ordonanța Guvernului nr. 35/1996 pentru completarea Legii nr. 118/1995 privind abilitarea Ministerului Finanţelor şi Băncii Naţionale a României de a efectua împrumuturi externe pe termen mediu şi lung, precum şi aprobarea plafonului de îndatorare publică externa pe anul 1996 | [`og/1996/35/`](og/1996/35/) | amended, not consolidated | 1 | 1996-08-29 | 1996-08-29 |
@@ -12703,7 +12705,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 30277 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 30320 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
