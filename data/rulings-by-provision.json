@@ -10268,7 +10268,7 @@
 "slug": "hg-735-1990",
 "path": "hg/1990/735",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 735/1990",
 "act": [
 "iccj-hp-47-2026"
@@ -10323,7 +10323,7 @@
 "slug": "hg-158-1992",
 "path": "hg/1992/158",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 158/1992",
 "act": [
 "dcc-5-1994"
@@ -10365,7 +10365,7 @@
 "slug": "hg-279-1992",
 "path": "hg/1992/279",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 279/1992",
 "act": [
 "dcc-43-1994"
@@ -10398,7 +10398,7 @@
 "slug": "hg-728-1992",
 "path": "hg/1992/728",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 728/1992",
 "act": [
 "dcc-176-2000"
@@ -10409,7 +10409,7 @@
 "slug": "hg-730-1992",
 "path": "hg/1992/730",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 730/1992",
 "act": [
 "dcc-176-2000"
@@ -10486,7 +10486,7 @@
 "slug": "hg-506-1994",
 "path": "hg/1994/506",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 506/1994",
 "act": [
 "dcc-55-1995",
@@ -10516,7 +10516,7 @@
 "slug": "hg-1061-1995",
 "path": "hg/1995/1061",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.061/1995",
 "act": [
 "iccj-hp-10-2024"
@@ -10606,12 +10606,12 @@
 "slug": "hg-389-1996",
 "path": "hg/1996/389",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 389/1996",
 "act": [],
 "articles": {
 "1": {
-"file": null,
+"file": "art-001.md",
 "decisions": [
 "dcc-170-1999",
 "dcc-207-1999"
@@ -10679,7 +10679,7 @@
 "slug": "hg-11-1997",
 "path": "hg/1997/11",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 11/1997",
 "act": [
 "dcc-54-1999"
@@ -10703,7 +10703,7 @@
 "slug": "hg-3-1997",
 "path": "hg/1997/3",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 3/1997",
 "act": [
 "dcc-124-2004"
@@ -10725,7 +10725,7 @@
 "slug": "hg-102-1999",
 "path": "hg/1999/102",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 102/1999",
 "act": [
 "dcc-223-2000"
@@ -10736,7 +10736,7 @@
 "slug": "hg-103-1999",
 "path": "hg/1999/103",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 103/1999",
 "act": [
 "dcc-223-2000"
@@ -10747,7 +10747,7 @@
 "slug": "hg-127-1999",
 "path": "hg/1999/127",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 127/1999",
 "act": [
 "dcc-336-2002",
@@ -10759,7 +10759,7 @@
 "slug": "hg-270-1999",
 "path": "hg/1999/270",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 270/1999",
 "act": [
 "dcc-457-2006",
@@ -10838,12 +10838,12 @@
 "slug": "hg-1245-2001",
 "path": "hg/2001/1245",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.245/2001",
 "act": [],
 "articles": {
 "13": {
-"file": null,
+"file": "art-013.md",
 "decisions": [
 "dcc-217-2004"
 ]
@@ -11115,7 +11115,7 @@
 "slug": "hg-216-2002",
 "path": "hg/2002/216",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 216/2002",
 "act": [],
 "articles": {
@@ -11255,7 +11255,7 @@
 "slug": "hg-1041-2003",
 "path": "hg/2003/1041",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 1.041/2003",
 "act": [
 "iccj-scaf-3807-2022"
@@ -11315,7 +11315,7 @@
 "slug": "hg-561-2003",
 "path": "hg/2003/561",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 561/2003",
 "act": [
 "dcc-501-2008",
@@ -11446,7 +11446,7 @@
 "slug": "hg-1162-2004",
 "path": "hg/2004/1162",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.162/2004",
 "act": [
 "iccj-hp-10-2024"
@@ -11537,12 +11537,12 @@
 "slug": "hg-1725-2004",
 "path": "hg/2004/1725",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.725/2004",
 "act": [],
 "articles": {
 "2": {
-"file": null,
+"file": "art-002.md",
 "decisions": [
 "dcc-868-2007"
 ]
@@ -11584,7 +11584,7 @@
 "slug": "hg-1911-2004",
 "path": "hg/2004/1911",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 1.911/2004",
 "act": [
 "dcc-321-2012"
@@ -11595,7 +11595,7 @@
 "slug": "hg-2425-2004",
 "path": "hg/2004/2425",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 2.425/2004",
 "act": [
 "dcc-894-2006"
@@ -11677,7 +11677,7 @@
 "slug": "hg-1016-2005",
 "path": "hg/2005/1016",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 1.016/2005",
 "act": [
 "dcc-1116-2007"
@@ -11860,7 +11860,7 @@
 "slug": "hg-1052-2006",
 "path": "hg/2006/1052",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.052/2006",
 "act": [],
 "articles": {
@@ -11925,7 +11925,7 @@
 "slug": "hg-1874-2006",
 "path": "hg/2006/1874",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 1.874/2006",
 "act": [
 "iccj-scaf-2579-2010"
@@ -12122,7 +12122,7 @@
 "slug": "hg-1672-2008",
 "path": "hg/2008/1672",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârii Guvernului nr. 1672/2008",
 "act": [
 "iccj-hp-83-2018"
@@ -12421,7 +12421,7 @@
 "slug": "hg-255-2012",
 "path": "hg/2012/255",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 255/2012",
 "act": [
 "dcc-558-2012"
@@ -12448,7 +12448,7 @@
 "slug": "hg-56-2012",
 "path": "hg/2012/56",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 56/2012",
 "act": [
 "dcc-76-2023"
@@ -12704,7 +12704,7 @@
 "slug": "hg-291-2017",
 "path": "hg/2017/291",
 "kind": "hg",
-"in_repo": false,
+"in_repo": true,
 "label": "Hotărârea Guvernului nr. 291/2017",
 "act": [
 "iccj-hp-81-2018"
@@ -13070,7 +13070,7 @@
 "slug": "legea-313-1879",
 "path": "lege/1879/313",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 313/1879",
 "act": [
 "dcc-524-1997",
@@ -13284,7 +13284,7 @@
 "slug": "legea-319-1944",
 "path": "lege/1944/319",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 319/1944",
 "act": [],
 "articles": {
@@ -22148,7 +22148,7 @@
 "slug": "legea-14-1991",
 "path": "lege/1991/14",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii salarizarii nr. 14/1991",
 "act": [
 "dcc-9-1997",
@@ -23406,26 +23406,26 @@
 "slug": "legea-58-1991",
 "path": "lege/1991/58",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea privatizării societăţilor comerciale nr. 58/1991",
 "act": [],
 "articles": {
 "5": {
-"file": null,
+"file": "art-005.md",
 "decisions": [
 "dcc-9-1997",
 "dcc-115-1997"
 ]
 },
 "24": {
-"file": null,
+"file": "art-024.md",
 "decisions": [
 "dcc-9-1997",
 "dcc-115-1997"
 ]
 },
 "77": {
-"file": null,
+"file": "art-077.md",
 "decisions": [
 "dcc-147-1996",
 "dcc-234-1997"
@@ -23654,7 +23654,7 @@
 "slug": "legea-68-1991",
 "path": "lege/1991/68",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 68/1991",
 "act": [
 "dcc-12-1997",
@@ -24447,14 +24447,14 @@
 "slug": "legea-58-1992",
 "path": "lege/1992/58",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 58/1992",
 "act": [
 "dcc-6-1993"
 ],
 "articles": {
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "dcc-3-1994"
 ]
@@ -25446,7 +25446,7 @@
 "slug": "legea-55-1993",
 "path": "lege/1993/55",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 55/1993",
 "act": [],
 "articles": {
@@ -30142,7 +30142,7 @@
 "slug": "legea-105-1997",
 "path": "lege/1997/105",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 105/1997",
 "act": [
 "dcc-134-1998",
@@ -31297,7 +31297,7 @@
 "slug": "legea-177-1997",
 "path": "lege/1997/177",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 177/1997",
 "act": [
 "iccj-hp-67-2023"
@@ -31491,7 +31491,7 @@
 "slug": "legea-153-1998",
 "path": "lege/1998/153",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 153/1998",
 "act": [],
 "articles": {
@@ -32440,7 +32440,7 @@
 "slug": "legea-148-1999",
 "path": "lege/1999/148",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 148/1999",
 "act": [
 "dcc-121-2001"
@@ -33252,7 +33252,7 @@
 "slug": "legea-22-1999",
 "path": "lege/1999/22",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii pentru modificarea şi completarea Ordonanţei Guvernului nr. 22/1999",
 "act": [
 "dcc-89-2017"
@@ -37863,7 +37863,7 @@
 "slug": "legea-200-2002",
 "path": "lege/2002/200",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 200/2002",
 "act": [
 "dcc-362-2002"
@@ -38640,7 +38640,7 @@
 "slug": "legea-400-2002",
 "path": "lege/2002/400",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 400/2002",
 "act": [],
 "articles": {
@@ -51589,7 +51589,7 @@
 "slug": "legea-315-2006",
 "path": "lege/2006/315",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 315/2006",
 "act": [
 "iccj-ril-10-2011"
@@ -51833,7 +51833,7 @@
 "slug": "legea-33-2006",
 "path": "lege/2006/33",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii pentru aprobarea Ordonanţei Guvernului nr. 33/2006",
 "act": [
 "dcc-657-2006"
@@ -76874,7 +76874,7 @@
 "slug": "legea-130-2015",
 "path": "lege/2015/130",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 130/2015",
 "act": [],
 "articles": {
@@ -84808,7 +84808,7 @@
 "slug": "legea-77-2023",
 "path": "lege/2023/77",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 77/2023",
 "act": [
 "iccj-hp-penal-38-2024"
@@ -93633,7 +93633,7 @@
 "slug": "og-25-2008",
 "path": "og/2008/25",
 "kind": "og",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa Guvernului nr. 25/2008",
 "act": [
 "dcc-355-2013"
@@ -94979,7 +94979,7 @@
 "slug": "oug-18-1998",
 "path": "oug/1998/18",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa de urgenţă a Guvernului nr. 18/1998",
 "act": [],
 "articles": {
@@ -95473,7 +95473,7 @@
 "slug": "oug-63-1998",
 "path": "oug/1998/63",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţei de urgenţă a Guvernului nr. 63/1998",
 "act": [
 "dcc-565-2004"
@@ -95500,7 +95500,7 @@
 "slug": "oug-7-1998",
 "path": "oug/1998/7",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa de urgenta a Guvernului nr. 7/1998",
 "act": [
 "dcc-268-2001"
@@ -96410,7 +96410,7 @@
 "slug": "oug-42-1999",
 "path": "oug/1999/42",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţei de urgenta a Guvernului nr. 42/1999",
 "act": [
 "dcc-219-2000"
@@ -97320,7 +97320,7 @@
 "slug": "oug-102-2001",
 "path": "oug/2001/102",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa de urgenta a Guvernului nr. 102/2001",
 "act": [],
 "articles": {
@@ -97621,7 +97621,7 @@
 "slug": "oug-138-2001",
 "path": "oug/2001/138",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2001",
 "act": [],
 "articles": {
@@ -100600,7 +100600,7 @@
 "slug": "oug-110-2003",
 "path": "oug/2003/110",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2003",
 "act": [
 "dcc-197-2005"
@@ -100748,7 +100748,7 @@
 "slug": "oug-43-2003",
 "path": "oug/2003/43",
 "kind": "oug",
-"in_repo": false,
+"in_repo": true,
 "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2003",
 "act": [],
 "articles": {
