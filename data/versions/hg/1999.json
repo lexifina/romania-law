@@ -282,6 +282,21 @@
    ]
   },
   {
+   "slug": "hg-101-1999",
+   "path": "hg/1999/101",
+   "short": "HG nr. 101/1999",
+   "title": "Hotărârea Guvernului nr. 101/1999 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 690/1997 privind organizarea şi funcţionarea Ministerului Educaţiei Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17041",
+   "versions": [
+    {
+     "from": "1999-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17041",
+     "sha256": "a0a6e5701b0f32cea8548a03f82a459963a88ff1b66848ddbe1bc4219796eb7f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1010-1999",
    "path": "hg/1999/1010",
    "short": "HG nr. 1010/1999",
@@ -957,6 +972,21 @@
    ]
   },
   {
+   "slug": "hg-106-1999",
+   "path": "hg/1999/106",
+   "short": "HG nr. 106/1999",
+   "title": "Hotărârea Guvernului nr. 106/1999 privind constituirea, componenta şi funcţionarea Comisiei pentru urmărirea exploatării raţionale şi a protecţiei resurselor naturale balneoterapeutice, precum şi a refacerii echilibrului ecologic din zona Lacului Amara (Comisia Amara)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17050",
+   "versions": [
+    {
+     "from": "1999-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17050",
+     "sha256": "10f26a299eedd02a4977661c3b12562dda2200a73912fa548835b2af7c9eb965"
+    }
+   ]
+  },
+  {
    "slug": "hg-1060-1999",
    "path": "hg/1999/1060",
    "short": "HG nr. 1060/1999",
@@ -1092,6 +1122,36 @@
    ]
   },
   {
+   "slug": "hg-109-1999",
+   "path": "hg/1999/109",
+   "short": "HG nr. 109/1999",
+   "title": "Hotărârea Guvernului nr. 109/1999 privind valorificarea produselor şi serviciilor realizate în cadrul căminelor-atelier şi al altor cămine din coordonarea Secretariatului de Stat pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17042",
+   "versions": [
+    {
+     "from": "1999-02-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17042",
+     "sha256": "588731acaec87e88eb625ddd808ddde78278047cf637ef9a6c062a0a6935d517"
+    }
+   ]
+  },
+  {
+   "slug": "hg-111-1999",
+   "path": "hg/1999/111",
+   "short": "HG nr. 111/1999",
+   "title": "Hotărârea Guvernului nr. 111/1999 pentru aprobarea organizării la Bucureşti a Conferinţei internaţionale \"Parteneriatul pentru pace la 5 ani\", în perioada 28 februarie-2 martie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17043",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17043",
+     "sha256": "dad4bab7e993a96444738c6f82887c5b93c0194eebd811e69a9997bdc83be3cc"
+    }
+   ]
+  },
+  {
    "slug": "hg-113-1999",
    "path": "hg/1999/113",
    "short": "HG nr. 113/1999",
@@ -1107,6 +1167,36 @@
    ]
   },
   {
+   "slug": "hg-114-1999",
+   "path": "hg/1999/114",
+   "short": "HG nr. 114/1999",
+   "title": "Hotărârea Guvernului nr. 114/1999 privind actualizarea Programului naţional de aderare a României la Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17097",
+   "versions": [
+    {
+     "from": "1999-03-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17097",
+     "sha256": "6a91c85f80913171dbb7316c91990342239d15dd9f0e5126fced3303da5e4476"
+    }
+   ]
+  },
+  {
+   "slug": "hg-116-1999",
+   "path": "hg/1999/116",
+   "short": "HG nr. 116/1999",
+   "title": "Hotărârea Guvernului nr. 116/1999 privind actualizarea limitei creditelor bancare acordate pentru investiţii cu caracter productiv, prevăzute de Legea nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17072",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17072",
+     "sha256": "21c91333d9cfbbb964d54d1549bb2e46ef04a509f7ddcd4ac2ab727e36110169"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-1999",
    "path": "hg/1999/120",
    "short": "HG nr. 120/1999",
@@ -1118,6 +1208,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17073",
      "sha256": "c565b1c4c7984cc2aaae7ea64f329508edd0f25a37b98f57d5d5e940f2368f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-1999",
+   "path": "hg/1999/121",
+   "short": "HG nr. 121/1999",
+   "title": "Hotărârea Guvernului nr. 121/1999 privind înfiinţarea Societăţii Comerciale \"Centrul de Inovare în Inginerie INVOLTA - CII\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17082",
+   "versions": [
+    {
+     "from": "1999-03-04",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17082",
+     "sha256": "e9396c27d7f809cdb176f45350748ab58597c35295e8f96877ef08c1f64f1e66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-122-1999",
+   "path": "hg/1999/122",
+   "short": "HG nr. 122/1999",
+   "title": "Hotărârea Guvernului nr. 122/1999 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Croaţia privind cooperarea în domeniul carantinei şi protecţiei plantelor, semnată la Bucureşti la 29 septembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17162",
+   "versions": [
+    {
+     "from": "1999-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17162",
+     "sha256": "df0c47be75f4596a2e96e6d0cbcbca9e665f90a786175dc969f257a9f50fb0e8"
     }
    ]
   },
@@ -9327,6 +9447,21 @@
    ]
   },
   {
+   "slug": "hg-91-1999",
+   "path": "hg/1999/91",
+   "short": "HG nr. 91/1999",
+   "title": "Hotărârea Guvernului nr. 91/1999 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17026",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17026",
+     "sha256": "b18b1814ccf59a9b97fd7c37801c53df3d70302c07b9074a68701c2b8069fb7d"
+    }
+   ]
+  },
+  {
    "slug": "hg-910-1999",
    "path": "hg/1999/910",
    "short": "HG nr. 910/1999",
@@ -9623,6 +9758,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19901",
      "sha256": "cfb2a8817795f3920097a15f9cee61d6081b55595099a285a8eacf2146446a57"
+    }
+   ]
+  },
+  {
+   "slug": "hg-93-1999",
+   "path": "hg/1999/93",
+   "short": "HG nr. 93/1999",
+   "title": "Hotărârea Guvernului nr. 93/1999 privind acordarea ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afară serviciului ordonat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17015",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17015",
+     "sha256": "5d284835491ccc56030e0d4bd980b7162348a76ea853e35d926429ba0082cd4d"
     }
    ]
   },
