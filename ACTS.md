@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12520 acts, 24,035 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12524 acts, 24,039 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8397, of which 3168 amending acts)
+## Laws (legi) (8401, of which 3170 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -547,8 +547,12 @@
 | Legea nr. 132/1998 privind aprobarea Ordonanţei Guvernului nr. 21/1998 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare, în suma de 25,5 milioane dolari S.U.A., semnat la Washington la 23 ianuarie 1998 | [`lege/1998/132/`](lege/1998/132/) | amended, not consolidated | 1 | 1998-07-02 | 1998-07-02 |
 | Legea nr. 135/1998 privind aprobarea Ordonanței de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de această natură, suportate din fondul de salarii, care, de regulă, se acordă la finele anului | [`lege/1998/135/`](lege/1998/135/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
 | Legea nr. 136/1998 pentru aprobarea Ordonanţei Guvernului nr. 45/1997 privind înfiinţarea Societăţii Comerciale "Compania naţionala de transporturi aeriene române - TAROM" - S.A | [`lege/1998/136/`](lege/1998/136/) | amended, not consolidated | 1 | 1998-07-02 | 1998-07-02 |
+| Legea nr. 141/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 91/1997 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/1998/141/`](lege/1998/141/) | amending act | 1 | 1998-07-13 | 1998-07-13 |
 | Legea nr. 142/1998 | [`lege/1998/142/`](lege/1998/142/) | in force | 29 | 1998-07-13 | 2017-11-27 |
+| Legea nr. 143/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/1998 privind reorganizarea Consiliului pentru Reforma | [`lege/1998/143/`](lege/1998/143/) | amending act | 1 | 1998-07-13 | 1998-07-13 |
+| Legea nr. 144/1998 pentru retragerea rezervei formulate de România la art. 22 din Convenţia internaţionala privind eliminarea tuturor formelor de discriminare rasială | [`lege/1998/144/`](lege/1998/144/) | in force | 1 | 1998-07-13 | 1998-07-13 |
 | Legea nr. 145/1998 | [`lege/1998/145/`](lege/1998/145/) | repealed 2006-07-24 | 3 | 1998-07-13 | 2006-07-24 |
+| Legea nr. 146/1998 pentru declararea ca abrogat a Decretului-lege nr. 7/1989 privind repatrierea cetăţenilor români şi a foştilor cetăţeni români | [`lege/1998/146/`](lege/1998/146/) | in force | 1 | 1998-07-14 | 1998-07-14 |
 | Legea nr. 147/1998 privind impozitul pe spectacole | [`lege/1998/147/`](lege/1998/147/) | repealed 2002-02-02 | 2 | 1998-10-12 | 2002-02-02 |
 | Legea nr. 148/1998 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1998/148/`](lege/1998/148/) | amended, not consolidated | 1 | 1998-07-15 | 1998-07-15 |
 | Legea nr. 149/1998 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 75/1997 pentru completarea Legii nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti | [`lege/1998/149/`](lege/1998/149/) | amending act | 1 | 1998-07-16 | 1998-07-16 |
@@ -12586,7 +12590,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28895 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28927 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

@@ -97184,6 +97184,21 @@
    ]
   },
   {
+   "slug": "legea-141-1998",
+   "path": "lege/1998/141",
+   "short": "Legea nr. 141/1998",
+   "title": "Legea nr. 141/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 91/1997 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15200",
+   "versions": [
+    {
+     "from": "1998-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15200",
+     "sha256": "bc97b23c5d0f87294b5e23c05e56b432f062be4fadac7d2bf1a83c9ae5facd21"
+    }
+   ]
+  },
+  {
    "slug": "legea-141-1999",
    "path": "lege/1999/141",
    "short": "Legea nr. 141/1999",
@@ -97811,6 +97826,21 @@
    ]
   },
   {
+   "slug": "legea-143-1998",
+   "path": "lege/1998/143",
+   "short": "Legea nr. 143/1998",
+   "title": "Legea nr. 143/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/1998 privind reorganizarea Consiliului pentru Reforma",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15204",
+   "versions": [
+    {
+     "from": "1998-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15204",
+     "sha256": "143ca6a6c864f7056da6e9c8f3147150985373b8922fd23eb1352069a62e0fc3"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2001",
    "path": "lege/2001/143",
    "short": "Legea nr. 143/2001",
@@ -98134,6 +98164,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11797",
      "sha256": "9676abf4acafde8a5b5abd096eea7d049da72ad28de52269f44786268bea58da"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-1998",
+   "path": "lege/1998/144",
+   "short": "Legea nr. 144/1998",
+   "title": "Legea nr. 144/1998 pentru retragerea rezervei formulate de România la art. 22 din Convenţia internaţionala privind eliminarea tuturor formelor de discriminare rasială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15155",
+   "versions": [
+    {
+     "from": "1998-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15155",
+     "sha256": "e3c814d031887b6633849729ec9b4ebcf12249621c53ca09f6984af1ae149cdd"
     }
    ]
   },
@@ -98845,6 +98890,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4589",
      "sha256": "f276f0067608c4294419db74efff0db7b44a1fd63eee3acbe09626e7e388cfba"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-1998",
+   "path": "lege/1998/146",
+   "short": "Legea nr. 146/1998",
+   "title": "Legea nr. 146/1998 pentru declararea ca abrogat a Decretului-lege nr. 7/1989 privind repatrierea cetăţenilor români şi a foştilor cetăţeni români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15160",
+   "versions": [
+    {
+     "from": "1998-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15160",
+     "sha256": "d728027f1f32fbd17a2170f60d575d3f8fec61b9da1fed7a0fe57908af6072e8"
     }
    ]
   },
