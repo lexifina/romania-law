@@ -1,0 +1,7 @@
+# Anexa nr. 4: 4 *Font 9* 606 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... Unitatea fiscală.........................
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial. Its tables are shown row by row as the official text draws them.
+
+- Official web service (FreeWebService) document: 182934 (https://legislatie.just.ro/Public/DetaliiDocument/182934)
+- sha256 of that document's text as the service returned it: afe8a553eb98ba3d62fa548429215154c6827530afab467153e62588f341d311
+- Retrieved: 2026-11-03
