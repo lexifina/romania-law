@@ -1,0 +1,7 @@
+# Anexa nr. 7.b
+INSTRUCȚIUNI pentru completarea și utilizarea formularului "Proces-verbal de sigilare/desigilare"
+Se întocmește de către organele de inspecție fiscală în cadrul unei/unui inspecții fiscale/control inopinat/încrucișat/ constatări la fața locului, în situațiile în care există indicii că în locurile de producție, depozitare, comercializare se găsesc bunuri sau produse a căror proveniență nu este legală sau a căror fabricație este interzisă de lege sau se produce fără autorizație, iar acțiunea de inspecție fiscală/control nu poate fi finalizată, urmând a fi continuată în ziua lucrătoare următoare, în vederea conservării probelor constatate.
+Se poate utiliza și în situația în care există posibilitatea ca documentele și actele necesare inspecției fiscale să fie sustrase, distruse ori nu se poate face un inventar al documentelor în vederea reținerii acestora.
+În situația în care nu este prezent un reprezentant al contribuabilului, sigilarea/desigilarea se efectuează în prezența unor martori asistenți.
+Procesul-verbal de sigilare/desigilare se întocmește în două exemplare, din care un exemplar se lasă reprezentantului legal al contribuabilului/plătitorului supus inspecției fiscale/control sau deținătorului spațiului sigilat, iar celălalt exemplar se reține de echipa de inspecție fiscală și se anexează la actul de inspecție fiscală/control.
+Desigilarea se consemnează, în ambele exemplare, de regulă de aceeași echipă de inspecție fiscală care a aplicat sigiliul.

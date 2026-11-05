@@ -1,0 +1,33 @@
+# Anexa nr. 5.a
+PROCES-VERBAL ziua.... luna.... anul....
+Capitolul 1
+Subsemnații,.................................. *1), având funcția de................................... în cadrul Agenției Naționale de Administrare Fiscală - Direcția Generală......................................, Administrația......................, în baza prevederilor Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, a legitimațiilor de inspecție fiscală nr...... și a Ordinului de serviciu nr............./....................., am efectuat, în perioada..............................................., un/o..........................*2), în vederea......................................................*3) la................., cu domiciliul fiscal în localitatea........................., bd./str....... nr....., bl......, sc......, et......, ap....., județul/sectorul............................., codul de identificare fiscală...............................
+Contribuabilul are ca obiect principal de activitate........................................*4).
+Controlul s-a desfășurat la domiciliul fiscal/sucursala/filiala/sediul secundar al contribuabilului/ plătitorului, situat în..............................................................*5), sau la sediul organului fiscal.
+Controlul a fost înregistrat în Registrul unic de control, la poziția nr................................................
+Întrucât contribuabilul nu deține/nu a prezentat organelor de control Registrul unic de control, data de începere a controlului este...........................................
+Contribuabilul este reprezentat de.....................................................*6), în calitate de/având funcția de.....................................................
+Capitolul 2
+Constatări
+Ca urmare a controlului efectuat au rezultat următoarele (constatări, consecințe, responsabilități, măsuri dispuse):
+1.
+Descrierea faptei:...................................................................................................................................................................
+2.
+Prevederile legale încălcate:...................................................................................................................................................................
+3.
+Consecințe:...................................................................................................................................................................
+4.
+Măsuri dispuse:...................................................................................................................................................................
+5.
+Concluzii asupra analizei punctului de vedere al contribuabilului:...................................................................................................................................................................
+La terminarea controlului au fost restituite toate actele și documentele puse la dispoziția organelor de inspecție fiscală, cu excepția celor reținute pentru care s-a întocmit proces-verbal de ridicare de înscrisuri.
+Prezentul proces-verbal s-a întocmit în...... exemplare, înregistrate în Registrul unic de control/la registratura contribuabilului/plătitorului, după caz, cu nr........................., din care un exemplar a fost lăsat contribuabilului/plătitorului, iar...... exemplare au fost luate de organele de inspecție fiscală.
+Organe de inspecție fiscală,............................ (numele, prenumele, semnătura)
+Administrator (director general),.............................. (numele, prenumele, semnătura)
+Ștampila
+*1) Numele, prenumele organelor de inspecție fiscală.
+*2) Se completează cu tipul acțiunii: control inopinat/încrucișat/constatare la fața locului.
+*3) Denumirea exactă a tematicii și/sau obiectivelor controlului.
+*4) Denumirea și clasificarea codului CAEN al obiectului principal de activitate efectiv desfășurată.
+*5) Adresa sucursalei/filialei/sediului secundar al contribuabilului/plătitorului.
+*6) Numele, prenumele, funcția, datele de identitate, CNP.
