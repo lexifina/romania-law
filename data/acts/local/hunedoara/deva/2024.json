@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/deva/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--deva-390-2024",
+"path": "local/hunedoara/deva/2024/390",
+"kind": "local",
+"year": "2024",
+"number": "390",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 390/2024",
+"short": "HCL Deva nr. 390/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-391-2024",
+"path": "local/hunedoara/deva/2024/391",
+"kind": "local",
+"year": "2024",
+"number": "391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 391/2024 privind aprobarea Actului adițional nr. 2 la Contractul de parteneriat nr.80359/16.08.2022, încheiat între Municipiul Deva, Colegiul Tehnic \"Transilvania\"Deva și S.C",
+"short": "HCL Deva nr. 391/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-392-2024",
+"path": "local/hunedoara/deva/2024/392",
+"kind": "local",
+"year": "2024",
+"number": "392",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 392/2024 privind aprobarea Actului adițional nr.2 la Contractul de parteneriat nr.80360/16.08.2022, încheiat între Municipiul Deva, Colegiul Tehnic “Transilvania\" Deva și S.C",
+"short": "HCL Deva nr. 392/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-393-2024",
+"path": "local/hunedoara/deva/2024/393",
+"kind": "local",
+"year": "2024",
+"number": "393",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 393/2024 privind aprobarea Actuiui adițional nr. 2 la Contractul de parteneriat nr. 80351/16.08.2022, încheiat între Municipiul Deva, Liceul Tehnologic Energetic “DragomirHurmuzescu\" Deva și S.C",
+"short": "HCL Deva nr. 393/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-394-2024",
+"path": "local/hunedoara/deva/2024/394",
+"kind": "local",
+"year": "2024",
+"number": "394",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 394/2024 privind aprobarea Actului adițional nr. 1 la Contractul de parteneriat nr.115756/02.11.2023, încheiat între Municipiul Deva, Liceul Tehnologic Energetic \"Dragomir Hurmuzescu\" Deva și S.C",
+"short": "HCL Deva nr. 394/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-395-2024",
+"path": "local/hunedoara/deva/2024/395",
+"kind": "local",
+"year": "2024",
+"number": "395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 395/2024 privind aprobarea Actului adițional nr. 1 la Contractul de parteneriat nr.8523/26.01.2024, încheiat între Municipiul Deva, Liceul Tehnologic Energetic “Dragomir Hurmuzescu\" Deva și S.C",
+"short": "HCL Deva nr. 395/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-396-2024",
+"path": "local/hunedoara/deva/2024/396",
+"kind": "local",
+"year": "2024",
+"number": "396",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 396/2024 privind aprobarea execuției bugetului general al municipiului Deva la nivelul trimestrului IV 2024",
+"short": "HCL Deva nr. 396/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-397-2024",
+"path": "local/hunedoara/deva/2024/397",
+"kind": "local",
+"year": "2024",
+"number": "397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 397/2024 privind aprobarea bugetului general rectificat al municipiului Deva pe anul 2024",
+"short": "HCL Deva nr. 397/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-398-2024",
+"path": "local/hunedoara/deva/2024/398",
+"kind": "local",
+"year": "2024",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 398/2024 privind modificarea statului de funcții și a Regulamentului de organizare și funcționare pentru aparatul de specialitate al Primarului municipiului Deva",
+"short": "HCL Deva nr. 398/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-400-2024",
+"path": "local/hunedoara/deva/2024/400",
+"kind": "local",
+"year": "2024",
+"number": "400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 400/2024 privind aprobarea participării la \"Programul privind creșterea eficienței energetice a infrastructurii de iluminat public\", a documentației tehnico-economice și a indicatorilor tehnico-economici - faza Studiu fezabilitate, precum și asigurarea și susținerea cheltuiel",
+"short": "HCL Deva nr. 400/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-29",
+"latest": "2024-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

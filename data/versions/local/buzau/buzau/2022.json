@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/buzau/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--buzau-291-2022",
+   "path": "local/buzau/buzau/2022/291",
+   "short": "HCL Buzău nr. 291/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 291/2022 pentru completarea și modificarea Regulamentului de organizare și funcționare al Consiliului Local al municipiului Buzău, aprobat prin HCLM Buzau nr. 112/29.06.2022",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2023/01/HCL-291-modificare-ROF-CLM-Buzau.pdf",
+     "sha256": "74fd2916c7c33caf0fd7f7eae196de57495cc5eb7492fc72d53a0589cf2ccda4"
+    }
+   ]
+  }
+ ]
+}

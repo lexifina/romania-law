@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ramnicu-sarat/2017",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ramnicu-sarat-128-2017",
+   "path": "local/buzau/ramnicu-sarat/2017/128",
+   "short": "HCL Râmnicu Sărat nr. 128/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 128/2017",
+   "url": "https://www.primariermsarat.ro/categorie/registrul-spatiilor-verzi/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariermsarat.ro/wp-content/uploads/files/inline-files/hot%20nr%20128%20din%2027%2004%202017.pdf",
+     "sha256": "60c0280b1d8baaafc592b9d5f3935aac2a0c40865e6a7eec98a92c0914db7b1d"
+    }
+   ]
+  }
+ ]
+}

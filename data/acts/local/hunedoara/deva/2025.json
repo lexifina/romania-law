@@ -3,6 +3,162 @@
 "shard": "local/hunedoara/deva/2025",
 "acts": [
 {
+"slug": "hcl-hunedoara--deva-542-2025",
+"path": "local/hunedoara/deva/2025/542",
+"kind": "local",
+"year": "2025",
+"number": "542",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 542/2025 privind aprobarea execuției bugetului general al municipiului Deva la data de 19 decembrie 2025, aferentă trimestrului al IV-lea, al anului 2025",
+"short": "HCL Deva nr. 542/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-543-2025",
+"path": "local/hunedoara/deva/2025/543",
+"kind": "local",
+"year": "2025",
+"number": "543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 543/2025",
+"short": "HCL Deva nr. 543/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-544-2025",
+"path": "local/hunedoara/deva/2025/544",
+"kind": "local",
+"year": "2025",
+"number": "544",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 544/2025 privind majorarea cu 300% a impozitului pe teren, începând cu anul2026, pentru imobilul teren situat în municipiul Deva, parcela cuprinsă între Restaurantul \"Sava\", Registrul Auto Român - Hunedoara și accesul în municipiul Deva din direcția Simeria",
+"short": "HCL Deva nr. 544/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-545-2025",
+"path": "local/hunedoara/deva/2025/545",
+"kind": "local",
+"year": "2025",
+"number": "545",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 545/2025 privind majorarea cu 300% a impozitului pe clădiri, începând cu anul 2026, pentru imobilul clădire situat în municipiul Deva, str. Privighetorilor, nr. 17",
+"short": "HCL Deva nr. 545/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-546-2025",
+"path": "local/hunedoara/deva/2025/546",
+"kind": "local",
+"year": "2025",
+"number": "546",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 546/2025 privind majorarea cu 400% a impozitului pe teren, începând cu anul 2026, pentru imobilul teren situat în municipiul Deva, Str. Streiului, FN, C.F.77266, nr. top. 866/171717C17/1",
+"short": "HCL Deva nr. 546/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-547-2025",
+"path": "local/hunedoara/deva/2025/547",
+"kind": "local",
+"year": "2025",
+"number": "547",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 547/2025",
+"short": "HCL Deva nr. 547/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-548-2025",
+"path": "local/hunedoara/deva/2025/548",
+"kind": "local",
+"year": "2025",
+"number": "548",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 548/2025 privind aprobarea criteriilor și procedurilor de acordare a scutirilor de la plata impozitului/taxei pe clădiri și teren, pentru anul 2026",
+"short": "HCL Deva nr. 548/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-549-2025",
 "path": "local/hunedoara/deva/2025/549",
 "kind": "local",
@@ -22,6 +178,50 @@
 "council_name": "Consiliul Local al Municipiului Deva",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-550-2025",
+"path": "local/hunedoara/deva/2025/550",
+"kind": "local",
+"year": "2025",
+"number": "550",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 550/2025 privind aprobarea documentației tehnico-economice - faza Studiu de fezabilitate cu elemente de D.A.L.L și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare Piața Cetății Deva\"",
+"short": "HCL Deva nr. 550/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-551-2025",
+"path": "local/hunedoara/deva/2025/551",
+"kind": "local",
+"year": "2025",
+"number": "551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 551/2025 privind aprobarea demarării de către Municipiul Deva a procedurilor necesare încheierii unui contract de prestări servicii privind recoltarea exemplarelor din speciile de faună sălbatică din perimetrul intravilan al municipiului Deva",
+"short": "HCL Deva nr. 551/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

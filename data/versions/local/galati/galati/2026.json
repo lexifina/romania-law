@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/galati/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--galati-1-2026",
+   "path": "local/galati/galati/2026/1",
+   "short": "HCL Galați nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 1/2026",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/3EF8546CC64C6E60C2258DE7001F078C/$FILE/Hotararea%20nr.%201%20C.L.S.U.pdf",
+     "sha256": "4b14413daf5888ced42b18ff8c9507badd3d09d0398e15566aa94f63d7f87657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-2-2026",
+   "path": "local/galati/galati/2026/2",
+   "short": "HCL Galați nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 2/2026",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/585D53D091D275DBC2258DE7001F0792/$FILE/Hotararea%20nr.%202%20C.L.S.U.pdf",
+     "sha256": "9aa61cf489e20156696337f33bb3c134ffca5406926693b025ab6ad83aa3b0e3"
+    }
+   ]
+  }
+ ]
+}

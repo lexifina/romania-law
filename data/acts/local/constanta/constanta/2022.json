@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/constanta/2022",
+"acts": [
+{
+"slug": "hcl-constanta--constanta-60-2022",
+"path": "local/constanta/constanta/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 60/2022",
+"short": "HCL Constanța nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2025/06/60.-hotarare-de-consiliu-privind-aprobarea-executiei-bugetului-local-la-data-de-20-12-2022.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--constanta-273-2022",
+"path": "local/constanta/constanta/2022/273",
+"kind": "local",
+"year": "2022",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 273/2022",
+"short": "HCL Constanța nr. 273/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-29",
+"latest": "2022-06-29",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2024/02/24.-HCL-nr-273-din-29.06.2022.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

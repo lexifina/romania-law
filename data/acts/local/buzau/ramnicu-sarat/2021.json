@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/buzau/ramnicu-sarat/2021",
+"acts": [
+{
+"slug": "hcl-buzau--ramnicu-sarat-1-2021",
+"path": "local/buzau/ramnicu-sarat/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 1/2021",
+"short": "HCL Râmnicu Sărat nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-2-2021",
+"path": "local/buzau/ramnicu-sarat/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 2/2021",
+"short": "HCL Râmnicu Sărat nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-3-2021",
+"path": "local/buzau/ramnicu-sarat/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 3/2021",
+"short": "HCL Râmnicu Sărat nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-4-2021",
+"path": "local/buzau/ramnicu-sarat/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 4/2021",
+"short": "HCL Râmnicu Sărat nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-5-2021",
+"path": "local/buzau/ramnicu-sarat/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 5/2021",
+"short": "HCL Râmnicu Sărat nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-10",
+"latest": "2021-11-10",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-6-2021",
+"path": "local/buzau/ramnicu-sarat/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 6/2021",
+"short": "HCL Râmnicu Sărat nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-15",
+"latest": "2021-11-15",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-7-2021",
+"path": "local/buzau/ramnicu-sarat/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 7/2021",
+"short": "HCL Râmnicu Sărat nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-15",
+"latest": "2021-11-15",
+"portal": "https://www.primariermsarat.ro/categorie/registrul-agricol/hotarari-fond-funciar/page/2/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

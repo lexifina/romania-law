@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/constanta/2024",
+"acts": [
+{
+"slug": "hcl-constanta--constanta-241-2024",
+"path": "local/constanta/constanta/2024/241",
+"kind": "local",
+"year": "2024",
+"number": "241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 241/2024 privind aprobarea componenței inițiale a planulul de selecție pentru procedura de selecție a 5-membri în",
+"short": "HCL Constanța nr. 241/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2024/10/241.-hotarare-privind-aprobarea-componentei-initiale-a-planulul-de-selectie-pentru-procedura-de-selectie-a-5-membri-in.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

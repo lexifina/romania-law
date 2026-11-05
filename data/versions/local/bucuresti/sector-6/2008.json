@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2008",
+ "acts": [
+  {
+   "slug": "hcls6-128-2008",
+   "path": "local/bucuresti/sector-6/2008/128",
+   "short": "HCLS6 nr. 128/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 128/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/ANEXA-1-LISTA-OBIECTIVE-128-2008.pdf",
+     "sha256": "dce569fb3aff1cc67745741188fe14bed9c8264a76e201cff9411b47189b9b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-143-2008",
+   "path": "local/bucuresti/sector-6/2008/143",
+   "short": "HCLS6 nr. 143/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 143/2008 PENTRU FINANTE PUBLICE LOCALE 0.00 ADMINISTRATIA SCOLILOR 3,700.00 1 Proiect si executie mansarda cladire Gradinita 41 500.00 2 Proiect si executie mansarda cladire Gradinita 87 700.00 3 Proiect si executie mansarda cladire Gradinita 195 700.00 4 Proiect si executie mansarda cladire Gradinita 209 600.00 5 Proiect si executie mansarda cladire Gradinita 246 500.00 6 Utilitati sala sport Scoala 205 200.00 7 Executie bransament energie electrica Col. Tehnic P. Maior 500.00 B. Lucrari noi 5,025.00",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2008-2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/ANEXA-1-LISTA-OBIECTIVE-143-2008.pdf",
+     "sha256": "e5c128be6f136d65acc53a541ef9b0ecbdf2c1945cf0da5806829e439576df73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-188-2008",
+   "path": "local/bucuresti/sector-6/2008/188",
+   "short": "HCLS6 nr. 188/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 188/2008 PENTRU FINANTE PUBLICE LOCALE 0.00 ADMINISTRATIA SCOLILOR 3,700.00 1 Proiect si executie mansarda cladire Gradinita 41 500.00 2 Proiect si executie mansarda cladire Gradinita 87 700.00 3 Proiect si executie mansarda cladire Gradinita 195 700.00 4 Proiect si executie mansarda cladire Gradinita 209 600.00 5 Proiect si executie mansarda cladire Gradinita 246 500.00 6 Utilitati sala sport Scoala 205 200.00 7 Executie bransament energie electrica Col. Tehnic P. Maior 500.00 B. Lucrari noi 5,425.00",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2008-3",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/ANEXA-1-LISTA-OBIECTIVE-188-2008.pdf",
+     "sha256": "3bcd586579977dcf51550d4d974fe69b28023d5939a058687d358dc77230e8a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-22-2008",
+   "path": "local/bucuresti/sector-6/2008/22",
+   "short": "HCLS6 nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 22/2008",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-bugetului-de-venituri-si-cheltuieli-pe-anul-2008",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/Anexa%201%20-%20buget%20local%202008-initial.pdf",
+     "sha256": "022d48a4e9f5ec12d7a98bc641c3ba13ff6bb3c1266f4f803672769decf5e8f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-70-2008",
+   "path": "local/bucuresti/sector-6/2008/70",
+   "short": "HCLS6 nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 70/2008 privind alegerea preşedintelui de şedinţă",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2070%20din%2017.04.2008%20%E2%80%93%20Hot%C4%83r%C3%A2re%20privind%20alegerea%20pre%C5%9Fedintelui%20de%20%C5%9Fedin%C5%A3%C4%83.pdf",
+     "sha256": "89be16dc4107d94936e0f6f2989a76e1d6d312fbc945452f02858a7ff3f9df25"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-71-2008",
+   "path": "local/bucuresti/sector-6/2008/71",
+   "short": "HCLS6 nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 71/2008 privind rectificarea Bugetului de Venituri şi Cheltuieli pe anul 2008",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2008",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2071%20din%2017.04.2008%20%E2%80%93%20Hot%C4%83r%C3%A2re%20privind%20rectificarea%20Bugetului%20de%20Venituri%20%C5%9Fi%20Cheltuieli%20%20pe%20anul%202008.pdf",
+     "sha256": "6a9a7ecb29a0ec29776fb767cf3f6189b92d0cea6ab60ec9af6c1d8b434589e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-73-2008",
+   "path": "local/bucuresti/sector-6/2008/73",
+   "short": "HCLS6 nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 73/2008 privind înfiinţarea Centrului de excelenţă în matematică-informatică din unităţile şcolare ale sectorului 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-infiintarea-centrului-de-excelenta-matematica-informatica-din-unitatile-scolare-ale-sectorului-6",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2073-2008.pdf",
+     "sha256": "8358faa938770c3519b170d136688effbecc5a614f0a7eae0aa36fa015e5aeb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-74-2008",
+   "path": "local/bucuresti/sector-6/2008/74",
+   "short": "HCLS6 nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 74/2008 privind acordarea unei recompense băneşti echivalente cu valoarea a două salarii nete la data pensionării pentru întreaga activitate a personalului didactic, didactic auxiliar şi nedidactic care iese la pensie la limita de vârstă şi care a activat în ultimii 3 ani în unităţile de învăţământ din sectorul 6 şi au obţinut calificativul foarte bine",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-unei-recompense-banesti-echivalente-cu-valoarea-doua-salarii-nete-la-data-pensionarii",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2074-2008.pdf",
+     "sha256": "11fb5c71714ef561c30b2d2199b3bb86d3cdc0d54ca5a111bdb278b3d9df206d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-75-2008",
+   "path": "local/bucuresti/sector-6/2008/75",
+   "short": "HCLS6 nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 75/2008 privind rectificarea Bugetului de Venituri si Cheltuieli pe anul 2008",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2008-0",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2075-2008.pdf",
+     "sha256": "bb2ce9127edf1518bfd1510103d4372d015eb5b6460c448ce3db4e6932c4b0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-77-2008",
+   "path": "local/bucuresti/sector-6/2008/77",
+   "short": "HCLS6 nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 77/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2077-2008.pdf",
+     "sha256": "beafc98a93345045ec3a9f9c3385c47ef96638a4e6a90f0b56553b56d0da7cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-78-2008",
+   "path": "local/bucuresti/sector-6/2008/78",
+   "short": "HCLS6 nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 78/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2078-2008.pdf",
+     "sha256": "16f26845e6d822447728642d7ee0d5d2b34c1bd0a740b957125ac3479f60c84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-79-2008",
+   "path": "local/bucuresti/sector-6/2008/79",
+   "short": "HCLS6 nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 79/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2079-2008.pdf",
+     "sha256": "bc48b4cfb7f1a1f0803dc66318b17bb88eb56b771d26882b17d3ea8df82882a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-80-2008",
+   "path": "local/bucuresti/sector-6/2008/80",
+   "short": "HCLS6 nr. 80/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 80/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2080-2008.pdf",
+     "sha256": "4549fbb4eac0820012372031b3c0ba6f2250333dec0aa00922de08a7c16c8fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-81-2008",
+   "path": "local/bucuresti/sector-6/2008/81",
+   "short": "HCLS6 nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 81/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2081-2008.pdf",
+     "sha256": "562d1bde16fa17a338e21bb0b49e3678e7ba8fbade1e4da51e4091ae38a594f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-82-2008",
+   "path": "local/bucuresti/sector-6/2008/82",
+   "short": "HCLS6 nr. 82/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 82/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2082-2008.pdf",
+     "sha256": "2bad2fd0f5fe214f168a930c0a87563eade3d53071cba4afe7e75dccb69e390e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-83-2008",
+   "path": "local/bucuresti/sector-6/2008/83",
+   "short": "HCLS6 nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 83/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2083-2008.pdf",
+     "sha256": "fa6868d12acfc3716415ec9e67c7510138e165678a5346a44991503fec47e594"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-84-2008",
+   "path": "local/bucuresti/sector-6/2008/84",
+   "short": "HCLS6 nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 84/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2084-2008.pdf",
+     "sha256": "d78874d419c42db83207d407644925600500c1d9b4f6a9d28e80b0c5fa9dd29b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-85-2008",
+   "path": "local/bucuresti/sector-6/2008/85",
+   "short": "HCLS6 nr. 85/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 85/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2085-2008.pdf",
+     "sha256": "ea1dff167c6a2c2cdef836b8af67f9a0a76c15286c835b22030fa548009350d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-86-2008",
+   "path": "local/bucuresti/sector-6/2008/86",
+   "short": "HCLS6 nr. 86/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 86/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2086-2008.pdf",
+     "sha256": "327891912d3e4c3a44ef93d8f1f1f284bef51b890c0f12ca8d91156c89e24f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-87-2008",
+   "path": "local/bucuresti/sector-6/2008/87",
+   "short": "HCLS6 nr. 87/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 87/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2087-2008.pdf",
+     "sha256": "816cb9ab1c3d84137dd085e3f1ad37ab93bfe6748ca2c05de61820ea7cb205b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-88-2008",
+   "path": "local/bucuresti/sector-6/2008/88",
+   "short": "HCLS6 nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 88/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2088-2008.pdf",
+     "sha256": "8e1f394cc570755f4952a232c57177f164856d94edd7993b9689f18f3216f209"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-89-2008",
+   "path": "local/bucuresti/sector-6/2008/89",
+   "short": "HCLS6 nr. 89/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 89/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2089-2008.pdf",
+     "sha256": "9cc36f3cebe493c1f6fe1f4a7f78c52bf89a6b5161de945a5fdcc64492aa1805"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-90-2008",
+   "path": "local/bucuresti/sector-6/2008/90",
+   "short": "HCLS6 nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 90/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2090-2008.pdf",
+     "sha256": "5437dbaa93e720879ffcedd22be218205aa58ab1f09999fa547cb7b49d0a65bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-91-2008",
+   "path": "local/bucuresti/sector-6/2008/91",
+   "short": "HCLS6 nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 91/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2091-2008.pdf",
+     "sha256": "3e6534465076b369c65492ae12d1e74bd84249aa2c58223d88b2fc56d5afb82e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-92-2008",
+   "path": "local/bucuresti/sector-6/2008/92",
+   "short": "HCLS6 nr. 92/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 92/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2092-2008.pdf",
+     "sha256": "734562a0ce42fb84a78d38e3f4dca331a6f2e3be2f749600f4bdca21254015a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-93-2008",
+   "path": "local/bucuresti/sector-6/2008/93",
+   "short": "HCLS6 nr. 93/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 93/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2093-2008.pdf",
+     "sha256": "1bf365186349877c0dfe4eeaf1a3e18e925edb558a2e6d006cdc6e198d1e1e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-94-2008",
+   "path": "local/bucuresti/sector-6/2008/94",
+   "short": "HCLS6 nr. 94/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 94/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2094-2008.pdf",
+     "sha256": "72b73d27cc26d069e2b2cf40708213b55ddb11576f631a6ada4cbde536451984"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-95-2008",
+   "path": "local/bucuresti/sector-6/2008/95",
+   "short": "HCLS6 nr. 95/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 95/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2095-2008.pdf",
+     "sha256": "5e2aa13ff46f48666ca363c34d332ffb85aa8447aadd212622bb5f2d744f6b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-96-2008",
+   "path": "local/bucuresti/sector-6/2008/96",
+   "short": "HCLS6 nr. 96/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 96/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2096-2008.pdf",
+     "sha256": "e7843904927418d18e5f9d9741d988aab0314b846c1aea9884ed8e217e38b5cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-97-2008",
+   "path": "local/bucuresti/sector-6/2008/97",
+   "short": "HCLS6 nr. 97/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 97/2008 privind aprobarea Planului Urbanistic de Detaliu – “Intrare Godeni nr. 16A”, sector 6, pentru construire locuinţă, pe un teren în suprafaţă de 18800 m.p., proprietate de stat",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-intrare-godeni-nr-16a-sector-6-pentru-construire-locuinta-pe-un-teren-suprafata-de-18800-mp-proprietate-de-stat",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2097-2008.pdf",
+     "sha256": "4028d3753e937fd71ab1417f624d9eee4a497706525448a13d4984f69223a75a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-98-2008",
+   "path": "local/bucuresti/sector-6/2008/98",
+   "short": "HCLS6 nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 98/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2098-2008.pdf",
+     "sha256": "b169d080c42c0c94f2e1f5b3e99c9a90b352acf6790e992603b4a5f5803cf830"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-99-2008",
+   "path": "local/bucuresti/sector-6/2008/99",
+   "short": "HCLS6 nr. 99/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 99/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2099-2008.pdf",
+     "sha256": "6f41c4a659c2bfcf94f14745200da163e81a6dc90aedd0ea5f14f5a54f23d356"
+    }
+   ]
+  }
+ ]
+}

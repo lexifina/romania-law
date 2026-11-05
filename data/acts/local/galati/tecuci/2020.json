@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/galati/tecuci/2020",
+"acts": [
+{
+"slug": "hcl-galati--tecuci-81-2020",
+"path": "local/galati/tecuci/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tecuci nr. 81/2020 privind măsurile adoptate în cadrul ședinței extraordinare de lucru a Comitetului Județean pentru Situații de Urgență Galați",
+"short": "HCL Tecuci nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://primariatecuci.ro/biroul-monitorizare-situatii-urgenta/",
+"council": "galati/tecuci",
+"council_name": "Consiliul Local al Municipiului Tecuci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--tecuci-670-2020",
+"path": "local/galati/tecuci/2020/670",
+"kind": "local",
+"year": "2020",
+"number": "670",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tecuci nr. 670/2020",
+"short": "HCL Tecuci nr. 670/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-14",
+"latest": "2020-10-14",
+"portal": "https://primariatecuci.ro/wp-content/uploads/2020/10/Hotararea-CJSU-GL-nr.-670-din14.10.2020.pdf",
+"council": "galati/tecuci",
+"council_name": "Consiliul Local al Municipiului Tecuci",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

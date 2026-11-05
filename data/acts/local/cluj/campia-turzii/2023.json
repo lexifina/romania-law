@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/cluj/campia-turzii/2023",
+"acts": [
+{
+"slug": "hcl-cluj--campia-turzii-1-2023",
+"path": "local/cluj/campia-turzii/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 1/2023",
+"short": "HCL Câmpia Turzii nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://campiaturzii.ro/monitorul-oficial-local/",
+"council": "cluj/campia-turzii",
+"council_name": "Consiliul Local al Municipiului Câmpia Turzii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--campia-turzii-2-2023",
+"path": "local/cluj/campia-turzii/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 2/2023",
+"short": "HCL Câmpia Turzii nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://campiaturzii.ro/monitorul-oficial-local/",
+"council": "cluj/campia-turzii",
+"council_name": "Consiliul Local al Municipiului Câmpia Turzii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--campia-turzii-3-2023",
+"path": "local/cluj/campia-turzii/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 3/2023",
+"short": "HCL Câmpia Turzii nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://campiaturzii.ro/monitorul-oficial-local/",
+"council": "cluj/campia-turzii",
+"council_name": "Consiliul Local al Municipiului Câmpia Turzii",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

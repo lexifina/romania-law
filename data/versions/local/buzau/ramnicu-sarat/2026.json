@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ramnicu-sarat/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ramnicu-sarat-170-2026",
+   "path": "local/buzau/ramnicu-sarat/2026/170",
+   "short": "HCL Râmnicu Sărat nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 170/2026",
+   "url": "https://www.primariermsarat.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.primariermsarat.ro/wp-content/uploads/2026/10/HCL-nr.170-din-29.09.2026.pdf",
+     "sha256": "65444461764eab2661295ceb460079490ffd004784cb5b34067557dda4e389ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--ramnicu-sarat-171-2026",
+   "path": "local/buzau/ramnicu-sarat/2026/171",
+   "short": "HCL Râmnicu Sărat nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 171/2026",
+   "url": "https://www.primariermsarat.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.primariermsarat.ro/wp-content/uploads/2026/10/HCL-nr.171-din-29.09.2026.pdf",
+     "sha256": "6a803c4364f0ee521a251ea4851bb675bb9f4a2c437c7657130615a368f7e9a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--ramnicu-sarat-173-2026",
+   "path": "local/buzau/ramnicu-sarat/2026/173",
+   "short": "HCL Râmnicu Sărat nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 173/2026",
+   "url": "https://www.primariermsarat.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.primariermsarat.ro/wp-content/uploads/2026/10/HCL-nr.173-din-29.09.2026.pdf",
+     "sha256": "08fec392cf65c85f63da6b8e1aec348054a5abc69b8804293e09b6f35cab9d56"
+    }
+   ]
+  }
+ ]
+}

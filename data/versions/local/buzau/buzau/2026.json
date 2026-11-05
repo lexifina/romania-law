@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/buzau/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--buzau-33-2026",
+   "path": "local/buzau/buzau/2026/33",
+   "short": "HCL Buzău nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 33/2026 pentru clarificarea unei prevederi din Hotărârea Consiliului Local al Municipiului Buzău nr. 93 din 29.05.2025 pentru aprobarea Regulamentului de organizare și funcționare a sistemului de administrare a parcărilor publice pe domeniul public al Municipiului Buzău",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2026/03/HCL-33-clarificare-prevederi-HCL-93-din-2025-ROF-sistem-parcari.pdf",
+     "sha256": "502f5c5cd8d93867c4faad10a7d0da160b169de469160f2676d7ce66d3c51b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--buzau-38-2026",
+   "path": "local/buzau/buzau/2026/38",
+   "short": "HCL Buzău nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 38/2026 privind modificarea și completarea Regulamentului de organizare şi funcţionare a sistemului de administrare a parcărilor publice pe domeniul public al Municipiului Buzău, aprobat prin Hotărârea Consiliului Local al Municipiului Buzău nr. 93 din 29.05.2025",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2026/03/HCL-38-modificare-ROF-parcari-publice.pdf",
+     "sha256": "21c5a02215832c2e75b5177fd10146fd9c43b25542d6790960e49a36674ac8af"
+    }
+   ]
+  }
+ ]
+}

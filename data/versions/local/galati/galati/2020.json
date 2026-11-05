@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/galati/galati/2020",
+ "acts": [
+  {
+   "slug": "hcl-galati--galati-1-2020",
+   "path": "local/galati/galati/2020/1",
+   "short": "HCL Galați nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 1/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/0059FE7FDB03D2F7C2258638005655A4/$FILE/hotarare_1.pdf",
+     "sha256": "7ca2944346b6eb556fdb6fac0c1683d19a7e140221ff5cbbf5dd666b49fc3d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-10-2020",
+   "path": "local/galati/galati/2020/10",
+   "short": "HCL Galați nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 10/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/FC365A070384F114C225863800577BA2/$FILE/hotarare_10.pdf",
+     "sha256": "2c588af469b842398c979e30a813141f920209d6beea55496404b9f2d8433a60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-11-2020",
+   "path": "local/galati/galati/2020/11",
+   "short": "HCL Galați nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 11/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/53694906C8DF4F11C225863800577B9F/$FILE/hotarare_11.pdf",
+     "sha256": "1d91e8e0c75fdcb10341329892675cfef9df4107bcbeda058cad862a62df77ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-12-2020",
+   "path": "local/galati/galati/2020/12",
+   "short": "HCL Galați nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 12/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/49CCCADDA8A6028EC225863800577B9D/$FILE/hotarare_12.pdf",
+     "sha256": "054adc05fd9d04266b7f62920bb8a00ae4d88125edc24e51bb36925ee8ca6d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-13-2020",
+   "path": "local/galati/galati/2020/13",
+   "short": "HCL Galați nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 13/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/9889BD4EC59BF2BBC225863800577B99/$FILE/hotarare_13.pdf",
+     "sha256": "4608b837caae3f64039db22579cd7cbbd5e727fc1943ee6e6f336a7080bbced7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-14-2020",
+   "path": "local/galati/galati/2020/14",
+   "short": "HCL Galați nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 14/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/572C1A77D98FFB2CC225863800577B94/$FILE/hotarare_14.pdf",
+     "sha256": "e64a6c8e3ce9d79cdb2eec805bb6917bf20d2a237134256eea619bdb5b1216fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-15-2020",
+   "path": "local/galati/galati/2020/15",
+   "short": "HCL Galați nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 15/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/6D99DED6185DF58EC225863800577B91/$FILE/hotarare_15.pdf",
+     "sha256": "1707cfabac404caef96a1851bc093adeb19e7e77dc94b10260b2c0931937d723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-16-2020",
+   "path": "local/galati/galati/2020/16",
+   "short": "HCL Galați nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 16/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/CC0344D05570CCEFC225863800577B8E/$FILE/hotarare_16.pdf",
+     "sha256": "2903ed0e900d870d502b50aeace75eee2b5d97ff70f15792af9787e9c02f8bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-17-2020",
+   "path": "local/galati/galati/2020/17",
+   "short": "HCL Galați nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 17/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/F275E5F8F1DA9048C225863800577B8B/$FILE/hotarare_17.pdf",
+     "sha256": "1901bc8f2ac73ed90d188c744a4ded545df7bd2ae01ab01dd500942f60ce0303"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-18-2020",
+   "path": "local/galati/galati/2020/18",
+   "short": "HCL Galați nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 18/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/58081294147E3467C225863800577B87/$FILE/hotarare_18.pdf",
+     "sha256": "7da9ef61524955db31649193c063d76d94ff8f7b1c19176d0db29f47febb278f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-19-2020",
+   "path": "local/galati/galati/2020/19",
+   "short": "HCL Galați nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 19/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/307EABCADA924DB4C225863800577B86/$FILE/hotarare_19.pdf",
+     "sha256": "4977f9cb98d433464ef9f12360a72c3dc659dbc624a6e539e25e51444911d146"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-2-2020",
+   "path": "local/galati/galati/2020/2",
+   "short": "HCL Galați nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 2/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/DC957667B388398DC225863800577BC1/$FILE/hotarare_2.pdf",
+     "sha256": "c2ead13fbdafec6a2771605c5cef74286a79a88b6b21289dcbf221ff785f0b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-20-2020",
+   "path": "local/galati/galati/2020/20",
+   "short": "HCL Galați nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 20/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/D2FFE545C0527F23C225863800577B81/$FILE/hotararea_20.pdf",
+     "sha256": "4df38b5ab6c6829313773dec09710cb77457e43572513aa96d070f53b63c9a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-21-2020",
+   "path": "local/galati/galati/2020/21",
+   "short": "HCL Galați nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 21/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/DEBAAD92E5FFBC69C225867F0029E281/$FILE/hotarare_21.pdf",
+     "sha256": "2e2e5c10101421c82674d2b863c9945a5fc4ab1a21fa942b59fa52c63a161d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-3-2020",
+   "path": "local/galati/galati/2020/3",
+   "short": "HCL Galați nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 3/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/9FEC52F731A8CE39C225863800577BBD/$FILE/hotarare_3.pdf",
+     "sha256": "1c35320923ed2644bf47253bed1adfd1b018916c2481809b90981c5c1e48368d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-4-2020",
+   "path": "local/galati/galati/2020/4",
+   "short": "HCL Galați nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 4/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/E9579BBB208097B5C225863800577BB9/$FILE/hotarare_4.pdf",
+     "sha256": "3c5831813a3530c9d42c576f429ae9e798abf74b8dce84b3dc14c2cc09cb4194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-5-2020",
+   "path": "local/galati/galati/2020/5",
+   "short": "HCL Galați nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 5/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/18D2C88A1193F763C225863800577BB5/$FILE/hotarare_5.pdf",
+     "sha256": "be63a5b329866e80c08f128758826d86c5ac9b1941a4d3e32f5742288516e5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-6-2020",
+   "path": "local/galati/galati/2020/6",
+   "short": "HCL Galați nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 6/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/83C17497C49D229FC225863800577BB2/$FILE/hotarare_6.pdf",
+     "sha256": "ad6f03c44a5f15a6651d249d08fa006d2a0df132ee48847afeb19fa36eac0c74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-7-2020",
+   "path": "local/galati/galati/2020/7",
+   "short": "HCL Galați nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 7/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/992A966F7CB68FAEC225863800577BAF/$FILE/hotarare_7.pdf",
+     "sha256": "1679c50ca66b072d0bcf50a97d0c93080ed78b286b71c277c77fe320c9ef76c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-8-2020",
+   "path": "local/galati/galati/2020/8",
+   "short": "HCL Galați nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 8/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/A433CCB0ACEA9A6BC225863800577BAA/$FILE/hotarare_8.pdf",
+     "sha256": "ae3031307c9f24a67f096ce8b61ece983c6547eee99715f9b4dbcfb172a20ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--galati-9-2020",
+   "path": "local/galati/galati/2020/9",
+   "short": "HCL Galați nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Galați nr. 9/2020",
+   "url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-11",
+     "units": 1,
+     "source_url": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/77D7FBEFE71DD8BDC225863800577BA5/$FILE/hotarare_9.pdf",
+     "sha256": "6311ad37e5a9f13690384feb5461257e5813ba8e2d602ceee2a82f9b1d9dcb9c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/calarasi/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--calarasi-31-2024",
+"path": "local/calarasi/calarasi/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 31/2024",
+"short": "HCL Călărași nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://primariacalarasi.ro/monitorul-oficial-local/statutul-unitatii-administrativ-teritoriale/",
+"council": "calarasi/calarasi",
+"council_name": "Consiliul Local al Municipiului Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

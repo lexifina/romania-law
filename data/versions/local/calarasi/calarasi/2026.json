@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/calarasi/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--calarasi-34-2026",
+   "path": "local/calarasi/calarasi/2026/34",
+   "short": "HCL Călărași nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 34/2026 privind aprobarea inventarului bunurilor care aparțin domeniului privat al UAT Municipiul Călărași",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/statutul-unitatii-administrativ-teritoriale/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/2020/12/hcl-nr.-34-26.02.2026-inventar-bunuri-domeniul-privat.pdf",
+     "sha256": "899fe444d5e48d2336b7b85418a9cc7b216d4de37f3257cc560bb9290f837b5d"
+    }
+   ]
+  }
+ ]
+}

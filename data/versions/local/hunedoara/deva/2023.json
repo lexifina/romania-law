@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/deva/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--deva-582-2023",
+   "path": "local/hunedoara/deva/2023/582",
+   "short": "HCL Deva nr. 582/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 582/2023 privind aprobarea execuției bugetului general al municipiului Deva la trimestrul IV 2023",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C80",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/582.pdf",
+     "sha256": "fdd58ac028560debc1f7cd0f8a0776db48dd364c46746e8a5e19c9c55a2ec66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-583-2023",
+   "path": "local/hunedoara/deva/2023/583",
+   "short": "HCL Deva nr. 583/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 583/2023 privind aprobarea bugetului general rectificat al municipiului Deva pe anul 2023",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C80",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/583.pdf",
+     "sha256": "9ccee601d600372759c29da1b13d8b70e8a566c83b95fb91bf5fde42bb4e2a32"
+    }
+   ]
+  }
+ ]
+}

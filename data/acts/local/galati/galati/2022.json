@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/galati/2022",
+"acts": [
+{
+"slug": "hcl-galati--galati-4-2022",
+"path": "local/galati/galati/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Galați nr. 4/2022",
+"short": "HCL Galați nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://www.primariagalati.ro/portal/galati/portal.nsf/AllByUNID/hclsu--situatii-de-urgenta-0001bb5a?OpenDocument",
+"council": "galati/galati",
+"council_name": "Consiliul Local al Municipiului Galați",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

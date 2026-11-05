@@ -3,6 +3,21 @@
  "shard": "local/constanta/constanta/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--constanta-1-2026",
+   "path": "local/constanta/constanta/2026/1",
+   "short": "HCL Constanța nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 1/2026 privind stabilirea plafonului pentru acordarea programului Respect",
+   "url": "https://primaria-constanta.ro/wp-content/uploads/2024/02/HCL-nr.1-29.01.2026-privind-stabilirea-plafonului-pentru-acordarea-programului-Respect.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-constanta.ro/wp-content/uploads/2024/02/HCL-nr.1-29.01.2026-privind-stabilirea-plafonului-pentru-acordarea-programului-Respect.pdf",
+     "sha256": "a0a84e7ce9d60c51abe279de18eca2b25529edd2029375f0f89075d03fae5fb8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--constanta-95-2026",
    "path": "local/constanta/constanta/2026/95",
    "short": "HCL Constanța nr. 95/2026",

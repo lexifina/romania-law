@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-52-2025",
+"path": "local/hunedoara/lupeni/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 52/2025 privind aprobarea Bugetului local pe anul 2025.pdf",
+"short": "HCL Lupeni nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2025-0000f386?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

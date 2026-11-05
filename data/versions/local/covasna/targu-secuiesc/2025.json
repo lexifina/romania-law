@@ -3,6 +3,336 @@
  "shard": "local/covasna/targu-secuiesc/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--targu-secuiesc-109-2025",
+   "path": "local/covasna/targu-secuiesc/2025/109",
+   "short": "HCL Târgu Secuiesc nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 109/2025 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Târgu Secuiesc nr. 48/2025 privind aprobarea asocierii între Municipiul Târgu Secuiesc și Fundația Culturală „Vigadó” în vederea organizării și desfășurării Zilelor Municipiului Târgu Secuiesc, eveniment intitulat \"SOKADALOM\", organizat în perioada 27-29 iunie 2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/109.pdf",
+     "sha256": "52aab25075c607411cdf2d925a8c1d4ccc652ba57eb8545244570cb65fa24c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-123-2025",
+   "path": "local/covasna/targu-secuiesc/2025/123",
+   "short": "HCL Târgu Secuiesc nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 123/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/123.pdf",
+     "sha256": "a1de2248d6a780699018a8a29042f867b7e9edce367d54bedc0377c82d3fb803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-125-2025",
+   "path": "local/covasna/targu-secuiesc/2025/125",
+   "short": "HCL Târgu Secuiesc nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 125/2025 privind revocarea Hotărârii Consiliului Local nr. 180/2024, și numirea reprezentantului municipiului TÂRGU SECUIESC în Adunarea Generală a Acționarilor la HYDROKOV S.A",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/125.pdf",
+     "sha256": "00684ad1ea8b7d39e5a9f6959c0a4c33715f0ba665fbff257eb38f1aab05c4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-156-2025",
+   "path": "local/covasna/targu-secuiesc/2025/156",
+   "short": "HCL Târgu Secuiesc nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 156/2025 privind modificarea Hotărârii Consiliului Local nr. 70/2024 privind constituirea Comisiei sociale de analiză a solicitărilor de locuințe sociale, fondul locativ de stat și de necesitate, administrate de Consiliului Local al Municipiului Târgu Secuiesc",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/156.pdf",
+     "sha256": "0da9854e3d29483c62768c44699318a94a29ffc82fcce4cb9eb5e4a73142c3b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-17-2025",
+   "path": "local/covasna/targu-secuiesc/2025/17",
+   "short": "HCL Târgu Secuiesc nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 17/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/17.pdf",
+     "sha256": "2d096e48763df8be86d29a8f8b7266e27e1236afc4540627ed0232f1109e8ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-18-2025",
+   "path": "local/covasna/targu-secuiesc/2025/18",
+   "short": "HCL Târgu Secuiesc nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 18/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/18.pdf",
+     "sha256": "7a3c0fc5dfbb0136c3c696f68af11ec16cf51a022fc3fddd39423b5ead48420a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-26-2025",
+   "path": "local/covasna/targu-secuiesc/2025/26",
+   "short": "HCL Târgu Secuiesc nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 26/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/26.pdf",
+     "sha256": "99e20698ae449dc7305a59785cc4d1590095c45fd6ec6d6807e1494ec43ce93b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-27-2025",
+   "path": "local/covasna/targu-secuiesc/2025/27",
+   "short": "HCL Târgu Secuiesc nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 27/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/27.pdf",
+     "sha256": "f98037702a865098fda7c6844ab159931de2ad95c4b16f2b7995695456d65542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-28-2025",
+   "path": "local/covasna/targu-secuiesc/2025/28",
+   "short": "HCL Târgu Secuiesc nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 28/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/28.pdf",
+     "sha256": "2b23738e5444d1f16e1d8bddcab79efe73ff70b6827468321770d8a58be6ca53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-29-2025",
+   "path": "local/covasna/targu-secuiesc/2025/29",
+   "short": "HCL Târgu Secuiesc nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 29/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/29.pdf",
+     "sha256": "d8adff6cab3b8811e4a75aaefb574f1e3b5329b1cf76eae7db9062e32d36dee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-4-2025",
+   "path": "local/covasna/targu-secuiesc/2025/4",
+   "short": "HCL Târgu Secuiesc nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 4/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/4.pdf",
+     "sha256": "435c4f9febd48e796736323f1d495c40ce8395d83661c969791e234200f0de6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-40-2025",
+   "path": "local/covasna/targu-secuiesc/2025/40",
+   "short": "HCL Târgu Secuiesc nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 40/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/40.pdf",
+     "sha256": "509ba14e71a2f8ad83a2955b992babc65db33ad75df27531c288aa89c9b73de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-43-2025",
+   "path": "local/covasna/targu-secuiesc/2025/43",
+   "short": "HCL Târgu Secuiesc nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 43/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/43.pdf",
+     "sha256": "bfe66f63d668aa375118d19e9e2f9ec280d550ce72f169d6922445a0d2fd378d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-47-2025",
+   "path": "local/covasna/targu-secuiesc/2025/47",
+   "short": "HCL Târgu Secuiesc nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 47/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/47.pdf",
+     "sha256": "8ad9f07b5c1e374704e1b198a50449c63b806793fef84b8274ae77a814e6f776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-52-2025",
+   "path": "local/covasna/targu-secuiesc/2025/52",
+   "short": "HCL Târgu Secuiesc nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 52/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/52.pdf",
+     "sha256": "ad056db185a1d7bc19baab58b5d7ef4f8cd58054bb31f3ed02e3612c0b7acec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-54-2025",
+   "path": "local/covasna/targu-secuiesc/2025/54",
+   "short": "HCL Târgu Secuiesc nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 54/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/54.pdf",
+     "sha256": "4970bdb37dbecfca45b1264c57dfaf8d43f467571cbba0cb4698a720a6547d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-55-2025",
+   "path": "local/covasna/targu-secuiesc/2025/55",
+   "short": "HCL Târgu Secuiesc nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 55/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/55.pdf",
+     "sha256": "67a2b1cf2c0d1ec68b084b89932fa23703756a8d79c4eca35410d0c4c1d4a9e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-69-2025",
+   "path": "local/covasna/targu-secuiesc/2025/69",
+   "short": "HCL Târgu Secuiesc nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 69/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/69.pdf",
+     "sha256": "9414634caccab6a3df3008a1fe0240a9366ade0c06dbcf2bc8a02091688940bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-74-2025",
+   "path": "local/covasna/targu-secuiesc/2025/74",
+   "short": "HCL Târgu Secuiesc nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 74/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/74.pdf",
+     "sha256": "4a3a724a61fa40ee527cf7ca622597488909f98ae873fcbc9249ce38528cdb7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-75-2025",
+   "path": "local/covasna/targu-secuiesc/2025/75",
+   "short": "HCL Târgu Secuiesc nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 75/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/75.pdf",
+     "sha256": "9f843cd69408ae74611a9bf831a78da4e0293096a1bc4758b43a180d87e16053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-83-2025",
+   "path": "local/covasna/targu-secuiesc/2025/83",
+   "short": "HCL Târgu Secuiesc nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 83/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 144/2021 privind aprobarea Strategiei Integrată de Dezvoltare Urbană a Municipiului Târgu Secuiesc pentru perioada 2021-2030, modificată și completată prin Hotărârea Consiliului Local nr. nr. 167/2022",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/83.pdf",
+     "sha256": "091c7ac996594fb93c93832c85c73066448a6ecd56d66fb63cfcd005d6dfb808"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--targu-secuiesc-87-2025",
+   "path": "local/covasna/targu-secuiesc/2025/87",
+   "short": "HCL Târgu Secuiesc nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 87/2025",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/87.pdf",
+     "sha256": "9ae2eb4961fa031877e1c6e45aa93244eb453b5d19af8fd5bc6ce7f7c98583c3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--targu-secuiesc-96-2025",
    "path": "local/covasna/targu-secuiesc/2025/96",
    "short": "HCL Târgu Secuiesc nr. 96/2025",

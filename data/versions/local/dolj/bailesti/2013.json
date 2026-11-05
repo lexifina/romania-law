@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/bailesti/2013",
+ "acts": [
+  {
+   "slug": "hcl-dolj--bailesti-1-2013",
+   "path": "local/dolj/bailesti/2013/1",
+   "short": "HCL Băilești nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 1/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-01-din-09_01_2013.pdf",
+     "sha256": "a2d0fc0811f2322aa716af7a447f5568acc5aaceae98adaf5e457913cf876faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-10-2013",
+   "path": "local/dolj/bailesti/2013/10",
+   "short": "HCL Băilești nr. 10/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 10/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-10-din-08_02_2013.pdf",
+     "sha256": "a85f6d42b14e23db0d332719f1a28c549ebaaf267e28e7ebbc7fbd802b85b747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-11-2013",
+   "path": "local/dolj/bailesti/2013/11",
+   "short": "HCL Băilești nr. 11/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 11/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-11-din-08_02_2013.pdf",
+     "sha256": "b7920f660b011fbc02454a82a2110cd04d4b28b71ef2cce9ee22d8ff3b7c59b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-12-2013",
+   "path": "local/dolj/bailesti/2013/12",
+   "short": "HCL Băilești nr. 12/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 12/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-12-din-08_02_2013.pdf",
+     "sha256": "9d47b1379a03bf632efd7ac618e5bb3a17c90e9f4d6f1ee2753619c5acba1622"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-13-2013",
+   "path": "local/dolj/bailesti/2013/13",
+   "short": "HCL Băilești nr. 13/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 13/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-19",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-13-din-19_02_2013.pdf",
+     "sha256": "60bec54a6a9eed5e24cb28a2fb1bcde9f3a2b9fd4c761818a1be0ff4efe36e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-14-2013",
+   "path": "local/dolj/bailesti/2013/14",
+   "short": "HCL Băilești nr. 14/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 14/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-14-din-28_02_2013.pdf",
+     "sha256": "55eaeacbef671fc3103564b8fe1cb39fc8bbddf6231fa2a13cece647d81ae802"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-15-2013",
+   "path": "local/dolj/bailesti/2013/15",
+   "short": "HCL Băilești nr. 15/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 15/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-15-din-28_02_2013.pdf",
+     "sha256": "2c36e2f0e50faeec1e29211a21270cb3776503734038704346b32f7359dfc24e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-16-2013",
+   "path": "local/dolj/bailesti/2013/16",
+   "short": "HCL Băilești nr. 16/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 16/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-16-din-28_02_2013.pdf",
+     "sha256": "3ebf9204120a00eaa1935963156c2c20726f37173135484dc8c70bb6a5d1dce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-17-2013",
+   "path": "local/dolj/bailesti/2013/17",
+   "short": "HCL Băilești nr. 17/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 17/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-17-din-28_02_2013.pdf",
+     "sha256": "fdd4c24d76aba1d0c3687439c968816058d2c480ad9f740421c3ad765f48ebda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-18-2013",
+   "path": "local/dolj/bailesti/2013/18",
+   "short": "HCL Băilești nr. 18/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 18/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-18-din-28_02_2013.pdf",
+     "sha256": "6d290bcf85a0e08fb8cc9220f39d0bdaecb13d9e769955ecf46321db8df32c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-19-2013",
+   "path": "local/dolj/bailesti/2013/19",
+   "short": "HCL Băilești nr. 19/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 19/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-19-din-28_02_2013.pdf",
+     "sha256": "14b5a85cebcbff7989fc4c8037ca4d700bab6167cf9be43d5cad5699224cef05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-2-2013",
+   "path": "local/dolj/bailesti/2013/2",
+   "short": "HCL Băilești nr. 2/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 2/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-17",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-02-din-17_01_2013.pdf",
+     "sha256": "67ea2f85b2bfd20861dc90a0c6a4c27f8d4507c14284d4f1672c4adccab05b54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-20-2013",
+   "path": "local/dolj/bailesti/2013/20",
+   "short": "HCL Băilești nr. 20/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 20/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-20-din-28_02_2013.pdf",
+     "sha256": "431263d8d6bef81335664a63241eb88fd946b5d4df1c6969c2706b156cab16dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-21-2013",
+   "path": "local/dolj/bailesti/2013/21",
+   "short": "HCL Băilești nr. 21/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 21/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-21-din-28_02_2013.pdf",
+     "sha256": "0066cca93839ed07c7fcb69f12914a415f3745a9328b1960fdeef0fc4902b091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-22-2013",
+   "path": "local/dolj/bailesti/2013/22",
+   "short": "HCL Băilești nr. 22/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 22/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-22-din-28_02_2013.pdf",
+     "sha256": "680757682cb5aa7b3e8e08b63e0ea2b073524384b660a5f0c009dff2a148919e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-23-2013",
+   "path": "local/dolj/bailesti/2013/23",
+   "short": "HCL Băilești nr. 23/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 23/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-23-din-28_02_2013.pdf",
+     "sha256": "9658e01673142108d772a47a7d02e914aabf7a6fe0681e5f922db50d2f68a905"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-24-2013",
+   "path": "local/dolj/bailesti/2013/24",
+   "short": "HCL Băilești nr. 24/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 24/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-24-din-28_02_2013.pdf",
+     "sha256": "c507d8c1d1a9f91b852d0a60c0dd3da8bdad28376bc5e2fd57f803c5985d4344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-25-2013",
+   "path": "local/dolj/bailesti/2013/25",
+   "short": "HCL Băilești nr. 25/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 25/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-25-din-28_02_2013.pdf",
+     "sha256": "82a54e28c28c5a77f3a248c64317060090720e6799ceb21cd1fad638c156290c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-26-2013",
+   "path": "local/dolj/bailesti/2013/26",
+   "short": "HCL Băilești nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 26/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-26-din-28_02_2013.pdf",
+     "sha256": "8b79a2c7428ebac5ae5eaddfc8d80d9ea0c4f34bf362e6be75c10c0bff7a9807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-27-2013",
+   "path": "local/dolj/bailesti/2013/27",
+   "short": "HCL Băilești nr. 27/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 27/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-27-din-28_02_2013.pdf",
+     "sha256": "b200b1720410cbf7b8867b1ef2fd16245f19ccebb104a715fcd8de596c3304b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-3-2013",
+   "path": "local/dolj/bailesti/2013/3",
+   "short": "HCL Băilești nr. 3/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 3/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-17",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-03-din-17_01_2013.pdf",
+     "sha256": "9738b327f9e2f031f7d43aa34599308e6cc012da40de75b1285c5dac76cb75df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-4-2013",
+   "path": "local/dolj/bailesti/2013/4",
+   "short": "HCL Băilești nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 4/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-04-din-30_01_2013.pdf",
+     "sha256": "c49c85195214ec9f93c9fab4d09fca4d3f708f641841dfcc21d2e8951f9aa42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-5-2013",
+   "path": "local/dolj/bailesti/2013/5",
+   "short": "HCL Băilești nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 5/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-05-din-30_01_2013.pdf",
+     "sha256": "0c236b55ca5494fc0ce2c5b6e148318be428ac592ecf1a8f0157142dc4178639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-6-2013",
+   "path": "local/dolj/bailesti/2013/6",
+   "short": "HCL Băilești nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 6/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-06-din-30_01_2013.pdf",
+     "sha256": "eb3ea21d852665c8d768906fdd7fbc9f95ccf5d72efe3cc0d211b0ce6c71bb97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-7-2013",
+   "path": "local/dolj/bailesti/2013/7",
+   "short": "HCL Băilești nr. 7/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 7/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-07-din-30_01_2013.pdf",
+     "sha256": "08d23a6dd4eff7eb232b505b6b719a9a67e4fae650a3f9d4e81cfe0bc9f1d79d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-8-2013",
+   "path": "local/dolj/bailesti/2013/8",
+   "short": "HCL Băilești nr. 8/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 8/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-08-din-30_01_2013.pdf",
+     "sha256": "c4fb85e69adbccef4edbc30fa8c861c9948beff2cba48fd3b992596565f929eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bailesti-9-2013",
+   "path": "local/dolj/bailesti/2013/9",
+   "short": "HCL Băilești nr. 9/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Băilești nr. 9/2013",
+   "url": "https://www.primariabailesti.ro/consiliul-local-hotarari.php",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabailesti.ro/hotarari/2013-hot-09-din-30_01_2013.pdf",
+     "sha256": "0ebaa8d2de0f40e08abe609d66114fb0de72d900643d875974d5f1c5b9c2e74e"
+    }
+   ]
+  }
+ ]
+}

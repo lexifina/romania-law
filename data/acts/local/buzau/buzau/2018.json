@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/buzau/2018",
+"acts": [
+{
+"slug": "hcl-buzau--buzau-42-2018",
+"path": "local/buzau/buzau/2018/42",
+"kind": "local",
+"year": "2018",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 42/2018 privind modificarea Hotărârii nr. 326/2017",
+"short": "HCL Buzău nr. 42/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-15",
+"latest": "2018-02-15",
+"portal": "https://primariabuzau.ro/monitorul-oficial-local/",
+"council": "buzau/buzau",
+"council_name": "Consiliul Local al Municipiului Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

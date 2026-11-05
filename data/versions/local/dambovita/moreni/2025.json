@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-110-2025",
+   "path": "local/dambovita/moreni/2025/110",
+   "short": "HCL Moreni nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 110/2025",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/10/17-HCL-nr.110-din-28.04.2025-indicatori-faza-SF-Regenerare-urbana.pdf",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/17-HCL-nr.110-din-28.04.2025-indicatori-faza-SF-Regenerare-urbana.pdf",
+     "sha256": "da5322418d8178bebea9c915d8f237163272599f0434e5a569eaaaaea3da2ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-200-2025",
+   "path": "local/dambovita/moreni/2025/200",
+   "short": "HCL Moreni nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 200/2025",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/10/7-HCL-nr.200-din-06.08.2025-indicatori-SF-Politrauma.pdf",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/7-HCL-nr.200-din-06.08.2025-indicatori-SF-Politrauma.pdf",
+     "sha256": "557bbb5278435721d644bf9eec4af8da3e7e1042f95bc4ab1e1af3e414a2b996"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-251-2025",
+   "path": "local/dambovita/moreni/2025/251",
+   "short": "HCL Moreni nr. 251/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 251/2025",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/10/27-HCL-nr.251-din-25.11.2025-indicatori-SF-Amenajarea-de-zone-verzi-albastre.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/27-HCL-nr.251-din-25.11.2025-indicatori-SF-Amenajarea-de-zone-verzi-albastre.pdf",
+     "sha256": "0be9bfa1489557363e67486e0d46f4a0a53b6870e08c1e276d296dd0fa91fd84"
+    }
+   ]
+  }
+ ]
+}

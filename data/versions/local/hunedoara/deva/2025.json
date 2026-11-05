@@ -3,6 +3,111 @@
  "shard": "local/hunedoara/deva/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--deva-542-2025",
+   "path": "local/hunedoara/deva/2025/542",
+   "short": "HCL Deva nr. 542/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 542/2025 privind aprobarea execuției bugetului general al municipiului Deva la data de 19 decembrie 2025, aferentă trimestrului al IV-lea, al anului 2025",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/542_2.pdf",
+     "sha256": "348f1b6a13e460e9958ae1a00e9ceaa8e2dda53e56049f3dead8722ec0d8c466"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-543-2025",
+   "path": "local/hunedoara/deva/2025/543",
+   "short": "HCL Deva nr. 543/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 543/2025",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/543_2.pdf",
+     "sha256": "afc0765fe2359c189f52ab7353d986675f3cc72bcaa76637cac4ebda81e1b944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-544-2025",
+   "path": "local/hunedoara/deva/2025/544",
+   "short": "HCL Deva nr. 544/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 544/2025 privind majorarea cu 300% a impozitului pe teren, începând cu anul2026, pentru imobilul teren situat în municipiul Deva, parcela cuprinsă între Restaurantul \"Sava\", Registrul Auto Român - Hunedoara și accesul în municipiul Deva din direcția Simeria",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/544_2.pdf",
+     "sha256": "8bbbc89fdedc221818d192831a96f37c02dd5b766d730aa38aa93a0585c58c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-545-2025",
+   "path": "local/hunedoara/deva/2025/545",
+   "short": "HCL Deva nr. 545/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 545/2025 privind majorarea cu 300% a impozitului pe clădiri, începând cu anul 2026, pentru imobilul clădire situat în municipiul Deva, str. Privighetorilor, nr. 17",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/545_2.pdf",
+     "sha256": "48d402d375f16639d20d3f3533d57d10468969f5feaa77428f1b974c60761cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-546-2025",
+   "path": "local/hunedoara/deva/2025/546",
+   "short": "HCL Deva nr. 546/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 546/2025 privind majorarea cu 400% a impozitului pe teren, începând cu anul 2026, pentru imobilul teren situat în municipiul Deva, Str. Streiului, FN, C.F.77266, nr. top. 866/171717C17/1",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/546_2.pdf",
+     "sha256": "aef48b2c5be3f5404b9fd0924c7f2e60ae4b7e8621f4a62dab575ab58a08d797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-547-2025",
+   "path": "local/hunedoara/deva/2025/547",
+   "short": "HCL Deva nr. 547/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 547/2025",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/547_2.pdf",
+     "sha256": "4e2a7f31bf29fd236d56b5171509a07184bc13556d6619646035f35eb72b00ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-548-2025",
+   "path": "local/hunedoara/deva/2025/548",
+   "short": "HCL Deva nr. 548/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 548/2025 privind aprobarea criteriilor și procedurilor de acordare a scutirilor de la plata impozitului/taxei pe clădiri și teren, pentru anul 2026",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/548_3.pdf",
+     "sha256": "e2dfa525a9c8ee76512e006bd09b9de46d4d38ce60b4ff7f38597c2fbfcf0176"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-549-2025",
    "path": "local/hunedoara/deva/2025/549",
    "short": "HCL Deva nr. 549/2025",
@@ -14,6 +119,36 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/549_2.pdf",
      "sha256": "6a324b77b49211d6803cc0240e841ff356f3b8df1e75bd86931100aa0b179d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-550-2025",
+   "path": "local/hunedoara/deva/2025/550",
+   "short": "HCL Deva nr. 550/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 550/2025 privind aprobarea documentației tehnico-economice - faza Studiu de fezabilitate cu elemente de D.A.L.L și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare Piața Cetății Deva\"",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/550_2.pdf",
+     "sha256": "0301862d2850d6745a98012b3a2bb5ec22e9592399ed0529c3659ffb0e7a817c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-551-2025",
+   "path": "local/hunedoara/deva/2025/551",
+   "short": "HCL Deva nr. 551/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 551/2025 privind aprobarea demarării de către Municipiul Deva a procedurilor necesare încheierii unui contract de prestări servicii privind recoltarea exemplarelor din speciile de faună sălbatică din perimetrul intravilan al municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/551_2.pdf",
+     "sha256": "0af9903fc799aa344f16021578884a97a3823035ed14a84fdcf968bfa968e2bc"
     }
    ]
   }

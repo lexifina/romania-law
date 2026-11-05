@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/buzau/2019",
+"acts": [
+{
+"slug": "hcl-buzau--buzau-257-2019",
+"path": "local/buzau/buzau/2019/257",
+"kind": "local",
+"year": "2019",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 257/2019 privind modificarea și completarea Hotărârii 326/2017",
+"short": "HCL Buzău nr. 257/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-09",
+"latest": "2019-09-09",
+"portal": "https://primariabuzau.ro/monitorul-oficial-local/",
+"council": "buzau/buzau",
+"council_name": "Consiliul Local al Municipiului Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

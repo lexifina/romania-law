@@ -1638,6 +1638,66 @@
    ]
   },
   {
+   "slug": "hg-518-1999",
+   "path": "hg/1999/518",
+   "short": "HG nr. 518/1999",
+   "title": "Hotărârea Guvernului nr. 518/1999 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18647",
+   "versions": [
+    {
+     "from": "1999-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18647",
+     "sha256": "4d9f4119f5610f384216e1ffdccdb9a8b48e68d41a8147b1336894e15941dc6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-519-1999",
+   "path": "hg/1999/519",
+   "short": "HG nr. 519/1999",
+   "title": "Hotărârea Guvernului nr. 519/1999 privind aprobarea introducerii unui moratoriu asupra aplicării prevederilor Ordonanţei de urgenţă a Guvernului nr. 67/1999 privind unele măsuri pentru dezvoltarea activităţii economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18672",
+   "versions": [
+    {
+     "from": "1999-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18672",
+     "sha256": "9ebbf94c736372426dadda1a587e9167c5ea63126de9b7516911640d531b4c7a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-521-1999",
+   "path": "hg/1999/521",
+   "short": "HG nr. 521/1999",
+   "title": "Hotărârea Guvernului nr. 521/1999 pentru aprobarea tabelelor şi metodologiilor privind dreptul de autor pentru înregistrările sonore ale operelor muzicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18689",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18689",
+     "sha256": "037a29aaf4c92e77815dbf498c6797073a4c0edb377cfb5262dde03176e8271b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-522-1999",
+   "path": "hg/1999/522",
+   "short": "HG nr. 522/1999",
+   "title": "Hotărârea Guvernului nr. 522/1999 privind modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar, aprobate prin Hotărârea Guvernului nr. 458/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18675",
+   "versions": [
+    {
+     "from": "1999-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18675",
+     "sha256": "1a3c0fbacbcda1cff074f145e36c41e8e1ded1dcfc1beb5189f0b76682997239"
+    }
+   ]
+  },
+  {
    "slug": "hg-523-1999",
    "path": "hg/1999/523",
    "short": "HG nr. 523/1999",
@@ -1653,6 +1713,21 @@
    ]
   },
   {
+   "slug": "hg-524-1999",
+   "path": "hg/1999/524",
+   "short": "HG nr. 524/1999",
+   "title": "Hotărârea Guvernului nr. 524/1999 privind mandatul acordat Fondului Proprietăţii de Stat pentru negocierea şi încheierea contractului de vânzare-cumpărare cu firma \"Renault\" - S.A., având ca obiect 51,005% din acţiunile Societăţii Comerciale \"Automobile Dacia\" - S.A. ca societate comercială de interes strategic şi pentru modificarea Hotărârii Guvernului nr. 445/1999 privind acordarea de facilităţi şi condiţiile de realizare a investiţiei la Societatea Comercială \"Automobile Dacia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18638",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18638",
+     "sha256": "eaddf69d4ac4d5fb3dfb416b22ef3c3396b34a0170a21d1dc1557c753cdc0886"
+    }
+   ]
+  },
+  {
    "slug": "hg-526-1999",
    "path": "hg/1999/526",
    "short": "HG nr. 526/1999",
@@ -1664,6 +1739,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18652",
      "sha256": "2680f8f0e386656d38e80758471d00d31e7ebeaabac553d8fed4dd4abe6eb9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-527-1999",
+   "path": "hg/1999/527",
+   "short": "HG nr. 527/1999",
+   "title": "Hotărârea Guvernului nr. 527/1999 privind acordarea unor ajutoare umanitare populaţiei din judeţele Galaţi, Vrancea şi Buzău, afectată de inundaţiile din luna iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18653",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18653",
+     "sha256": "13cbc9344dbb628d5184a0ac0a99433ebcb5a58e4fad1e8f9b8ec2ea3e683479"
     }
    ]
   },

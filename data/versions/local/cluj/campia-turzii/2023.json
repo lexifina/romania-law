@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/campia-turzii/2023",
+ "acts": [
+  {
+   "slug": "hcl-cluj--campia-turzii-1-2023",
+   "path": "local/cluj/campia-turzii/2023/1",
+   "short": "HCL Câmpia Turzii nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 1/2023",
+   "url": "https://campiaturzii.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campiaturzii.ro/fisiere-campia-turzii/2020/03/Hotararea-1-din-21122023.pdf",
+     "sha256": "6be96df1767555332b3a94c3f11d8a01755467d555522a249542831b882bf6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--campia-turzii-2-2023",
+   "path": "local/cluj/campia-turzii/2023/2",
+   "short": "HCL Câmpia Turzii nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 2/2023",
+   "url": "https://campiaturzii.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campiaturzii.ro/fisiere-campia-turzii/2020/03/Hotararea-2-din-21122023.pdf",
+     "sha256": "6888f30568a10cdbbd989fc88bfbfadd65140d8ff2578f763bf42bd053ec5ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--campia-turzii-3-2023",
+   "path": "local/cluj/campia-turzii/2023/3",
+   "short": "HCL Câmpia Turzii nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpia Turzii nr. 3/2023",
+   "url": "https://campiaturzii.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campiaturzii.ro/fisiere-campia-turzii/2020/03/Hotararea-3-din-21122023.pdf",
+     "sha256": "952a8e4cb103337bac2e9f2cf7ab1810c490255408e47efb630569543144ec7c"
+    }
+   ]
+  }
+ ]
+}

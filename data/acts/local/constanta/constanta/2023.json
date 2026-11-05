@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/constanta/2023",
+"acts": [
+{
+"slug": "hcl-constanta--constanta-37-2023",
+"path": "local/constanta/constanta/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 37/2023",
+"short": "HCL Constanța nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2024/02/hcl-nr-37-din-31-01-2023-bebe-trusou.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

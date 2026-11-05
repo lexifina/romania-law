@@ -1,0 +1,1296 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2015",
+ "acts": [
+  {
+   "slug": "hcls6-1-2015",
+   "path": "local/bucuresti/sector-6/2015/1",
+   "short": "HCLS6 nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 1/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-utilizarii-excedentului-anului-precedent-pentru-finantarea-cheltuielilor-sectiunii-de-dezvoltare-0",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-1_0.pdf",
+     "sha256": "9b837583f55985ab35fe38299602df3cfedb9c9ca3c6156c41b9155c9ed64397"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-10-2015",
+   "path": "local/bucuresti/sector-6/2015/10",
+   "short": "HCLS6 nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 10/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-calea-giulesti-nr-361-363-sector-6-pentru-construire-imobil-cu-functiune-de-sediu-firma-birouri-si-locuinte-pe-un-teren-suprafata-de-1562-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-10_0.pdf",
+     "sha256": "2ce843323718cafaa26ea87a973de3d29f4102663853cb2f62e1d8e51225fa08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-11-2015",
+   "path": "local/bucuresti/sector-6/2015/11",
+   "short": "HCLS6 nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 11/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-grintiesului-nr-2b-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-992-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-11_0.pdf",
+     "sha256": "e8dce7100a3a4f42969c254215f26a664e569c59b23442272ad3ba89d3ebd72d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-12-2015",
+   "path": "local/bucuresti/sector-6/2015/12",
+   "short": "HCLS6 nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 12/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-bulevardul-uverturii-nr-161-sector-6-pentru-consolidare-extindere-si-supraetajare-locuinta-pe-un-teren-suprafata-de-329-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-12_0.pdf",
+     "sha256": "5470e10ebb3e53cc4293577f7cedd8278166a963053aedf3c3ef8dfe2b0f5381"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-13-2015",
+   "path": "local/bucuresti/sector-6/2015/13",
+   "short": "HCLS6 nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 13/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2015",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-13_0.pdf",
+     "sha256": "858569a1ae5286addce05de9730f3e7e2bfadb587ff16e76f22142bf704c5aa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-14-2015",
+   "path": "local/bucuresti/sector-6/2015/14",
+   "short": "HCLS6 nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 14/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-14_0.pdf",
+     "sha256": "99f38b790966f61da499893f55a19f2226250acebae1af3d6c5fab7a5416090e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-15-2015",
+   "path": "local/bucuresti/sector-6/2015/15",
+   "short": "HCLS6 nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 15/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-hotararii-consiliului-local-sector-6-nr-12028082014-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-emiterii-unei-hotarari-prin-care-terenul-situat-intre-sectia-25-politie-si-scoala-gimnaziala-279",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-15_0.pdf",
+     "sha256": "65860d5952ec43704a8ba53bddaf0a4f752c9a353f2207b3ecafc174891c1094"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-16-2015",
+   "path": "local/bucuresti/sector-6/2015/16",
+   "short": "HCLS6 nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 16/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-ale-aparatului-de-specialitate-al-primarului-sectorului-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-16_0.pdf",
+     "sha256": "7ee2880afce1f6fcb8cf3cf34b04119a7d3cc2f829b8036481d0e23c7ff313e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-17-2015",
+   "path": "local/bucuresti/sector-6/2015/17",
+   "short": "HCLS6 nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 17/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-reorganizarii-administratiei-pietelor-sector-6-conform-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-17_1.pdf",
+     "sha256": "aa0997776860b995010487d1aead9e83852d4cb0ec3d716b80e434cc8becb36b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-18-2015",
+   "path": "local/bucuresti/sector-6/2015/18",
+   "short": "HCLS6 nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 18/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-strategiei-antidrog-sectorului-6-al-municipiului-bucuresti-pentru-perioada-2015-2020-si-planului-de-actiune-pentru-implementarea-acesteia-perioada-2015-2016",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-18_0.pdf",
+     "sha256": "dc4abd50fe7f1bd4f907746b050ea25db7b3a3b5db869631468362fd05c1fbd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-19-2015",
+   "path": "local/bucuresti/sector-6/2015/19",
+   "short": "HCLS6 nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 19/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-burselor-scoalare-si-cuantumul-acestora-pentru-anul-scolar-2014-2015-pentru-elevii-din-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-19_0.pdf",
+     "sha256": "04d3096ec5e63c2d2a4acd22030ab22aebaead99cf83a276b2ed3dcf669a4b70"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-2-2015",
+   "path": "local/bucuresti/sector-6/2015/2",
+   "short": "HCLS6 nr. 2/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 2/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-ale-sectorului-6-al-municipiului-bucuresti-pe-trimestrul-4-al-anului-2014",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-2_0.pdf",
+     "sha256": "515e91f918d250804f8bd2ce61ef51f538bdb653e35b50d9874d7735963ceee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-20-2015",
+   "path": "local/bucuresti/sector-6/2015/20",
+   "short": "HCLS6 nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 20/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-anexei-nr-2-hcl-sector-6-nr-7-din-data-de-30012014-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-de-pe-raza-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-20_0.pdf",
+     "sha256": "f054f07854da07ebd3e75d61fa899ce6cdf753d30d3baa38ba559fcb21354c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-21-2015",
+   "path": "local/bucuresti/sector-6/2015/21",
+   "short": "HCLS6 nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 21/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2015-2016",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-21_0.pdf",
+     "sha256": "b33e4a9dcf7cbc5f1c24a1a12e6e9debed36c64ced84bbcaf5bfc12c78ee56f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-22-2015",
+   "path": "local/bucuresti/sector-6/2015/22",
+   "short": "HCLS6 nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 22/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-economu-cezarescu-nr-37-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-315-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-22_0.pdf",
+     "sha256": "d85c3fd028d147721cc63bb8e35ea30fa6dc4adc81dac4a017adff16df33bc35"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-23-2015",
+   "path": "local/bucuresti/sector-6/2015/23",
+   "short": "HCLS6 nr. 23/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 23/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-indreptarea-erorii-materiale-cuprinsa-hotararea-consiliului-local-sector-6-nr-139-din-25092014-privind-aprobarea-planului-urbanistic-de-detaliu-intrarea-paulis-nr-8-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-23_0.pdf",
+     "sha256": "e9c5d4d01eddde730caddc22fe60a05e05b2af9eb3caaa0471a055c72ee84dc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-24-2015",
+   "path": "local/bucuresti/sector-6/2015/24",
+   "short": "HCLS6 nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 24/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-incheierii-de-catre-centrul-multifunctional-de-sanatate-sfantul-nectarie-unitate-socio-medicala-unui-contract-de-asistenta-juridica-care-sa-acorde-servicii-de-consultanta-de-asistenta-si-de-reprezentare-juridica",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-24_0.pdf",
+     "sha256": "d5ec300ff2e7ac5ae97aa2997fbab80e11007907587e3360ef87b1eca20e1992"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-25-2015",
+   "path": "local/bucuresti/sector-6/2015/25",
+   "short": "HCLS6 nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 25/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-la-teatrale-cu-matale-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-25_0.pdf",
+     "sha256": "e7912d63fb712d1d295b093df8da8fc08c4bee3337d9910f5577637dcde6ed01"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-26-2015",
+   "path": "local/bucuresti/sector-6/2015/26",
+   "short": "HCLS6 nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 26/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-liga-tinerilor-sportivi-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-26_0.pdf",
+     "sha256": "48a6eaaaa6000b6a6dc2ac3e87441b457422cc7b8bfc42a8fe0313683192fc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-27-2015",
+   "path": "local/bucuresti/sector-6/2015/27",
+   "short": "HCLS6 nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 27/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-lumea-celor-64-de-patrate-proiect-educational-si-sportiv-pentru-copiii-defavorizati-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-27_0.pdf",
+     "sha256": "b8fe2410a27225bac8f3fd60bb169de0dbd454e8669bc421fb7cac4f4eb596ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-28-2015",
+   "path": "local/bucuresti/sector-6/2015/28",
+   "short": "HCLS6 nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 28/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-privind-sustinerea-si-dezvoltarea-serviciilor-de-reabilitare-si-integrare-copiilor-cu-autism-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-28_0.pdf",
+     "sha256": "86ed5a24ecbb4275b94c178507f7d90a74d72d1cec9a3b23e7367419b6cdacf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-29-2015",
+   "path": "local/bucuresti/sector-6/2015/29",
+   "short": "HCLS6 nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 29/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-scoala-de-voluntari-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-29_0.pdf",
+     "sha256": "99255ff2e31977146dd31f1aa59934c0008a8970b1891c5586d1287cdc5e3a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-3-2015",
+   "path": "local/bucuresti/sector-6/2015/3",
+   "short": "HCLS6 nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 3/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-utilizarii-excedentului-anului-precedent-pentru-finantarea-obiectivelor-de-investitii-si-unor-programe-de-dezvoltare-pe-fonduri-externe-nerambursabile-1",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-3_0.pdf",
+     "sha256": "10e5993d1c99d995733719fc5f5af6bfe6199939ca5f4b6c5de48a112cbf8e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-30-2015",
+   "path": "local/bucuresti/sector-6/2015/30",
+   "short": "HCLS6 nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 30/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-scoala-parintilor-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-30_0.pdf",
+     "sha256": "453a3a2588fbdb983a0ea5e350405f39e37cf5f9c224f53e6260914e6dae6d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-31-2015",
+   "path": "local/bucuresti/sector-6/2015/31",
+   "short": "HCLS6 nr. 31/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 31/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-sustinerea-si-dezvoltarea-serviciilor-pentru-copii-cu-dizabilitati-cadrul-complexului-servicii-de-recuperare",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-31_0.pdf",
+     "sha256": "549b5936bf5951afe9780ee62a705dce732b2928a8507e7c69bd87e9799ba2d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-32-2015",
+   "path": "local/bucuresti/sector-6/2015/32",
+   "short": "HCLS6 nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 32/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-tabere-de-dezvoltare-personala-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-32_0.pdf",
+     "sha256": "ad2a637f5df23c8d49c53b1f9f6da5e7eb81516e4db18567225d67675d43d694"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-34-2015",
+   "path": "local/bucuresti/sector-6/2015/34",
+   "short": "HCLS6 nr. 34/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 34/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2015-proiectului-peste-limite-program-de-escalada-pentru-dezvoltarea-personala-copiilor-cu-deficiente-de-auz-si-diverse-forme-de-autism-de-pe-raza-sectorului-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-34_0.pdf",
+     "sha256": "d92b96f0cd051d197f036635fbb9a63e9ac4fc1c25b257e6f0b1110816ccb6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-35-2015",
+   "path": "local/bucuresti/sector-6/2015/35",
+   "short": "HCLS6 nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 35/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-costului-mediu-lunarpersoana-si-cuantumului-contributiei-lunare-de-intretinere-caminele-pentru-persoanele-varstnice-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-anul-2015",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-35_0.pdf",
+     "sha256": "1b1274596da431a9b9f7a5312a762aa80e09f3ad65d78a664ee4b7cbce4db795"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-36-2015",
+   "path": "local/bucuresti/sector-6/2015/36",
+   "short": "HCLS6 nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 36/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-cuantumului-maxim-al-alocatiei-zilnice-de-hrana-persoanelor-adulte-cu-dizabilitati-beneficiare-de-servicii-sociale-centrul-de-recuperare-si-reabilitare-neuropsihica-uverturii",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-36_1.pdf",
+     "sha256": "e4684a30765f285c32d88b07d76c1d011e6a7a0c9866bf02f95c0a1210a60a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-37-2015",
+   "path": "local/bucuresti/sector-6/2015/37",
+   "short": "HCLS6 nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 37/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-cuantumului-maxim-al-alocatiei-zilnice-de-hrana-persoanelor-adulte-cu-dizabilitati-beneficiare-de-servicii-sociale-centrul-de-recuperare-si-reabilitare-neuropsihica-uverturii-din-cadrul-directiei-generala",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-37_0.pdf",
+     "sha256": "d19c6a590da3e56e56820d76bc9b637651cc99c5b608562c8cd67eead527797c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-38-2015",
+   "path": "local/bucuresti/sector-6/2015/38",
+   "short": "HCLS6 nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 38/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-comunitar-ghencea-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-38_0.pdf",
+     "sha256": "f24dbf1d2c21ecc8cd03fab034cc13755d803907e13c4a8d6c64b2001b68ae85"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-39-2015",
+   "path": "local/bucuresti/sector-6/2015/39",
+   "short": "HCLS6 nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 39/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-cantina-sociala-harul-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-39_0.pdf",
+     "sha256": "a91ec91ae8c62dbe1575f91af2c977e21b4c68138477e5f4a5e03467dc2a9606"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-4-2015",
+   "path": "local/bucuresti/sector-6/2015/4",
+   "short": "HCLS6 nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 4/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-de-actiuni-de-interes-local-pentru-anul-2015-vederea-repartizarii-orelor-de-munca-pentru-persoanele-apte-de-munca-beneficiare-ale-legii-nr-4162001-privind-venitul-minim-garantat-cu-modificarile-si-completarile-u",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-4_0.pdf",
+     "sha256": "98ae0ab92e6b2bb8db95f179128d2cc31326f9765e6a4e7fef8a96f088569b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-40-2015",
+   "path": "local/bucuresti/sector-6/2015/40",
+   "short": "HCLS6 nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 40/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-de-zi-romania-kids-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-40_0.pdf",
+     "sha256": "2dc244497d120ff20f6c28efe2327d7b5237b92af63470515387a4e0bd9ec35f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-41-2015",
+   "path": "local/bucuresti/sector-6/2015/41",
+   "short": "HCLS6 nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 41/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-specializat-pentru-copii-cu-dizabilitati-profunde",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-41.pdf",
+     "sha256": "16360615e5cb0c2d1e77638af0b4494c523b07bef7d30a7bed6780f55d5a3452"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-42-2015",
+   "path": "local/bucuresti/sector-6/2015/42",
+   "short": "HCLS6 nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 42/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-kinetic-therapy-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-42.pdf",
+     "sha256": "3c67d296080e1a6b4970980a50d76f1711100a4f5aff37ee524bfc25a0d21532"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-43-2015",
+   "path": "local/bucuresti/sector-6/2015/43",
+   "short": "HCLS6 nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 43/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-de-plasament-sf-marcellin-champagnat-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-43.pdf",
+     "sha256": "ff8f41e661f15756dd65a29bbd183d937bba034023b4247b1cbdc74ecd8eb591"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-44-2015",
+   "path": "local/bucuresti/sector-6/2015/44",
+   "short": "HCLS6 nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 44/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-s6-anul-2015-proiectului-centru-de-consiliere-si-sprijin-pentru-tineri-situatii-de-risc-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-s6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-44.pdf",
+     "sha256": "75b10ee6f3dca1091db587e64f8fe25da1ebf8c5485d835451edd40cd712873c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-45-2015",
+   "path": "local/bucuresti/sector-6/2015/45",
+   "short": "HCLS6 nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 45/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-de-ocrotire-copiilor-acasa-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-45.pdf",
+     "sha256": "fbdf6d42ac4795e4311d12f334617038e11caf95f8aecaeeba11e4cb7c88f1e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-46-2015",
+   "path": "local/bucuresti/sector-6/2015/46",
+   "short": "HCLS6 nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 46/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-de-zi-pentru-copii-si-parinti-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-46.pdf",
+     "sha256": "8a7135549f3472a1c2dbb4e263948ef07991a79b4f5e07f50059bfdab1a86c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-47-2015",
+   "path": "local/bucuresti/sector-6/2015/47",
+   "short": "HCLS6 nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 47/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-comunitar-generatii-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-47.pdf",
+     "sha256": "d01653270f981ad4b3e15efb25a12b6f9669ac72cc44a5c8434a7d79d66a98ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-48-2015",
+   "path": "local/bucuresti/sector-6/2015/48",
+   "short": "HCLS6 nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 48/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2015-proiectului-centrul-de-ingrijiri-paliative-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-48.pdf",
+     "sha256": "888790f949302df47662b3d6b8d47e4fd0d3c4c7fd4c7cd84b28faadaa71a331"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-49-2015",
+   "path": "local/bucuresti/sector-6/2015/49",
+   "short": "HCLS6 nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 49/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-cofinantarii-proiectelor-posdru17521s151910-program-de-asistenta-antreprenoriala-pentru-elevi-si-posdru16121g139191-consiliere-si-pregatire-practica-pentru-primul-loc-de-munca",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-49.pdf",
+     "sha256": "2850e2c2c8e8f94d3a97cc804d84ac970716d9b51af90d8d26d0f0e9bb02b740"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-5-2015",
+   "path": "local/bucuresti/sector-6/2015/5",
+   "short": "HCLS6 nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 5/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-listelor-cu-ordinea-de-prioritate-solicitantilor-indreptatiti-sa-primeasca-locuinte-sociale-din-fondul-locativ-de-stat-sau-locuinte-de-necesitate-baza-legii-privind-locuintele-nr-1141996-intocmite-pentru-anul-2015",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-5_0.pdf",
+     "sha256": "313319d2159b80cff3179acdfd8ddf91c7dc023ffe63ee09217519bab21d663d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-50-2015",
+   "path": "local/bucuresti/sector-6/2015/50",
+   "short": "HCLS6 nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 50/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-3",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-50.pdf",
+     "sha256": "2b7de4ca30be72249dc918675f3857422de74d8286587279f10d1891cdb91e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-51-2015",
+   "path": "local/bucuresti/sector-6/2015/51",
+   "short": "HCLS6 nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 51/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2015",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-51.pdf",
+     "sha256": "e76c75cd4fc79ad6c1d9c141161707a65234a4599d32bab5d1a1119595d11b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-52-2015",
+   "path": "local/bucuresti/sector-6/2015/52",
+   "short": "HCLS6 nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 52/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-transmiterii-administrarea-consiliului-local-al-sectorului-6-de-catre-consiliul-general-al-municipiului-bucuresti-unui-imobil-suprafata-de-aproximativ-1000-mp-cu-destinatia-de-sediu-casa-locala-de-pensii-sector-6",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-52.pdf",
+     "sha256": "be6fb21caea5ae2e59871dc58126ded326dd7cfc9341ecd63f296693f55287a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-53-2015",
+   "path": "local/bucuresti/sector-6/2015/53",
+   "short": "HCLS6 nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 53/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-scutirii-la-plata-impozitului-pe-cladirile-utilizate-pentru-activitati-social-umanitare-pentru-fundatia-filantropica-metropolis-fundatia-joyo-sprijin-socio-educativ-pentru-copii-tineri-si-familii-dificultate",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-53.pdf",
+     "sha256": "b8ee8918ecc7ec16063d21cc1bf59688928a128c8b6488ec6136fa2e229a1aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-54-2015",
+   "path": "local/bucuresti/sector-6/2015/54",
+   "short": "HCLS6 nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 54/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-nr-2-hcl-sector-6-nr-7-din-data-de-30012014",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-54.pdf",
+     "sha256": "e9d2941b9ad43e59a54072ea8109560eccd85205effe657bd4e0f63b1fc190c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-55-2015",
+   "path": "local/bucuresti/sector-6/2015/55",
+   "short": "HCLS6 nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 55/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-anexei-nr-2-hcl-sector-6-nr-7-din-data-de-30012014",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-55.pdf",
+     "sha256": "144ddd487303ab21d9ac3ecaac8417f77d70a372999d0cd8430d70cdcc893a55"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-56-2015",
+   "path": "local/bucuresti/sector-6/2015/56",
+   "short": "HCLS6 nr. 56/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 56/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-anexei-nr-2-hcl-sector-6-nr-21-din-data-de-16022015",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-56.pdf",
+     "sha256": "6eedfe6cb7b40d4b09eeaa3a16826c3ea2e185d13c1f9e9f85a66f6fc2fa294e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-57-2015",
+   "path": "local/bucuresti/sector-6/2015/57",
+   "short": "HCLS6 nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 57/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-intrarea-filmului-nr-35-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta-pe-un-teren-suprafata-de-192-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-57.pdf",
+     "sha256": "1883cf8e52f3331461030d5bb0e44bb2d2ac96b6c05ac3a3971a62f3cd50a018"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-58-2015",
+   "path": "local/bucuresti/sector-6/2015/58",
+   "short": "HCLS6 nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 58/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-splaiul-independentei-nr-313a-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-4098-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-58.pdf",
+     "sha256": "6d4db76f92d169c0e9e74c06ca87275957167a3aa83619c279bf32035a3eae9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-59-2015",
+   "path": "local/bucuresti/sector-6/2015/59",
+   "short": "HCLS6 nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 59/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-bulevardul-iuliu-maniu-nr-632-646-sector-6-pentru-construire-imobil-cu-functiune-mixta-pe-un-teren-suprafata-de-5151-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-59.pdf",
+     "sha256": "5ac8a030de5473a7fec6c189dc0c4fc036dc11fbc605460a46835dde1ddc4f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-6-2015",
+   "path": "local/bucuresti/sector-6/2015/6",
+   "short": "HCLS6 nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 6/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-listelor-cu-ordinea-de-prioritate-solicitantilor-indreptatiti-sa-primeasca-locuinta-temeiul-ordonantei-de-urgenta-nr-742007-intocmite-pentru-anul-2015",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-6_0.pdf",
+     "sha256": "dbdac95deb421e12ef0e14682ced31ca5001ac9b7e32fb46cad79ae3bcdfa3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-60-2015",
+   "path": "local/bucuresti/sector-6/2015/60",
+   "short": "HCLS6 nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 60/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-60_0.pdf",
+     "sha256": "c76e37afd6f7193d012db0f5c34b973c855f5e0f3a8687f6750c9ba8e76bedc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-61-2015",
+   "path": "local/bucuresti/sector-6/2015/61",
+   "short": "HCLS6 nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 61/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-61_0.pdf",
+     "sha256": "37832af2f5d77737f50d2caf432a5ac36596ec29cc5abed7f0570fea42a197bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-62-2015",
+   "path": "local/bucuresti/sector-6/2015/62",
+   "short": "HCLS6 nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 62/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-marin-calciu-nr-1-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-pe-un-teren-suprafata-de-160-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-62_0.pdf",
+     "sha256": "c8ea9764a2c6aded0d511087661f25ec27988d1c955e0c7b9a4595abd91a2f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-63-2015",
+   "path": "local/bucuresti/sector-6/2015/63",
+   "short": "HCLS6 nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 63/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-nicolae-filimon-nr-1-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-823-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-63_0.pdf",
+     "sha256": "3cad830f84d81e60cede5508264ff01aabe47eb4cb0ed63c42c7e18211598b0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-64-2015",
+   "path": "local/bucuresti/sector-6/2015/64",
+   "short": "HCLS6 nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 64/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-aleea-tibles-nr-6-sector-6-pentru-extindere-si-supraetajare-locuinta-pe-un-teren-suprafata-de-304-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-64_0.pdf",
+     "sha256": "903b99e895d8a393e1759485547937b71f49f71a12c5762da100c006918f9ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-65-2015",
+   "path": "local/bucuresti/sector-6/2015/65",
+   "short": "HCLS6 nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 65/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-b-dul-timioara-nr-35c-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-si-comert-pe-un-teren-suprafata-de-38317-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-65_0.pdf",
+     "sha256": "85c99d9f8efa05fd781deb7bfcf02f5b3fe4e6f6659042b3ea8f276f02ab1d7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-66-2015",
+   "path": "local/bucuresti/sector-6/2015/66",
+   "short": "HCLS6 nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 66/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-b-dul-uverturii-nr-55c-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-741-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-66_0.pdf",
+     "sha256": "e27e433f6648ef97d2d7fc6983dfca2a73d8ca77f2f2b9d5c6ce1c8ee321597d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-67-2015",
+   "path": "local/bucuresti/sector-6/2015/67",
+   "short": "HCLS6 nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 67/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drum-valea-doftanei-nr-131-141-sector-6-pentru-construire-imobile-cu-functiune-mixta-pe-un-teren-suprafata-de-5507-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-67_0.pdf",
+     "sha256": "acdf3a494a80b57ff2432deea92f50fd19a6915516589aea6cd91b5765426792"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-68-2015",
+   "path": "local/bucuresti/sector-6/2015/68",
+   "short": "HCLS6 nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 68/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-68_0.pdf",
+     "sha256": "0bf1d12e3f563fa733f0595cb66443743f127c1028ec19c0fdb621143d6d29a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-69-2015",
+   "path": "local/bucuresti/sector-6/2015/69",
+   "short": "HCLS6 nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 69/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indeplinirii-procedurii-de-declasificare-planului-de-aparare-040512071979-emis-de-consiliul-popular-al-sectorului-7",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-69_0.pdf",
+     "sha256": "c430d8da8c283e90f6a1cebec913cfd9cd3b8b381afde3979622a31b38e079f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-7-2015",
+   "path": "local/bucuresti/sector-6/2015/7",
+   "short": "HCLS6 nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 7/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-7_0.pdf",
+     "sha256": "9787229c2a3f880b9b43fec41aaac9ba28bca7903b697f1356e64b2a43c04c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-70-2015",
+   "path": "local/bucuresti/sector-6/2015/70",
+   "short": "HCLS6 nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 70/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indeplinirii-procedurii-de-declasificare-planului-de-aparare-nr-041216071979-emis-de-consiliul-popular-al-sectorului-7",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-70_1.pdf",
+     "sha256": "ae97e111489f7c8d64f3a31a1a00c805f80246cc8936525ad1c3b42a1ba10209"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-71-2015",
+   "path": "local/bucuresti/sector-6/2015/71",
+   "short": "HCLS6 nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 71/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-acordarii-anul-2015-sumei-de-maxim-50000-lei-pentru-premierea-elevilor-ciclului-gimnazial-si-liceal-care-sunt-scolarizati-pe-raza-sectorului-6-si-care-au-obtinut-rezultate-deosebite-la-olimpiadele-scolare-nationale-anul-scolar",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-71_1.pdf",
+     "sha256": "e78e51abc452f404c468895ec4b644c9e7188d03b1ed8154f4311687a7e7b46b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-72-2015",
+   "path": "local/bucuresti/sector-6/2015/72",
+   "short": "HCLS6 nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 72/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-demararii-procedurii-de-infiintare-centrului-de-sanatate-multifunctional-sfantul-nectarie-unitate-sanitara-cu-personalitate-juridica-aflata-subordinea-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-72_1.pdf",
+     "sha256": "52b368e2a9e0ff226b218cc93ce90e83781a399b927879ed09751e621c1c5485"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-73-2015",
+   "path": "local/bucuresti/sector-6/2015/73",
+   "short": "HCLS6 nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 73/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-chemarii-nr-19-sector-6-pentru-construirea-unui-imobil-cu-functiunea-de-locuinta-pe-un-teren-suprafata-de-273-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-73_1.pdf",
+     "sha256": "8aedcb05b4a0156220ca6c28a24a0691236cd91ddfcebd9c2f9acdaa7b7cd5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-74-2015",
+   "path": "local/bucuresti/sector-6/2015/74",
+   "short": "HCLS6 nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 74/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-ranetti-george-nr-2-8-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-si-functiuni-complementare-pe-un-teren-suprafata-de-4345-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-74_1.pdf",
+     "sha256": "847fe5d7a6440471b7cc2ff4ef5744e2fa8fa001ecbf1482b4867204a92076e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-75-2015",
+   "path": "local/bucuresti/sector-6/2015/75",
+   "short": "HCLS6 nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 75/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-aleea-lacul-morii-nr-121-123-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta-cu-partiu-special-pe-un-teren-suprafata-de-628-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-75_1.pdf",
+     "sha256": "0e6568d886ccdce55875d7a3b59d0c00acfc2de63c312010437d00e60bd5e6d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-76-2015",
+   "path": "local/bucuresti/sector-6/2015/76",
+   "short": "HCLS6 nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 76/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-lavandei-nr-16-sector-6-pentru-construirea-unui-imobil-cu-functiunea-de-locuinta-pe-un-teren-suprafata-de-40046-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-76_1.pdf",
+     "sha256": "e87c50ed4b92df6b1b396c2676d0ddd95ada507873c46ccb52290163826e5662"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-77-2015",
+   "path": "local/bucuresti/sector-6/2015/77",
+   "short": "HCLS6 nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 77/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-pietrele-doamnei-nr-15-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta-pe-un-teren-suprafata-de-360-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-77_0.pdf",
+     "sha256": "38f63352e94cdad21b9a8b7960071470f20a85af87e2d5299b69e71db838c2fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-78-2015",
+   "path": "local/bucuresti/sector-6/2015/78",
+   "short": "HCLS6 nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 78/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-rosiori-de-vede-nr-14-sector-6-pentru-construirea-unui-imobil-cu-functiunea-de-locuinta-pe-un-teren-suprafata-de-745-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-78_0.pdf",
+     "sha256": "dad12c2a6c576ef63ed5f135f5be28569e5476a2a3a78ef6a7ebfe0188778ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-79-2015",
+   "path": "local/bucuresti/sector-6/2015/79",
+   "short": "HCLS6 nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 79/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-79_1.pdf",
+     "sha256": "d0b235f540c997d02b8953389b76e3900eacf84d1477c1be1c49ac05c29cc235"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-8-2015",
+   "path": "local/bucuresti/sector-6/2015/8",
+   "short": "HCLS6 nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 8/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-de-la-bugetul-local-al-sectorului-6-unor-sume-de-bani-pentru-plata-chiriei-unor-locuinte-anul-2015-ca-masura-de-prevenire-si-combatere-marginalizarii-sociale-conform-prevederilor-legii-nr-1162002",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-8_0.pdf",
+     "sha256": "0d889a82efc921bd9320b2d4d6a3be883d7c1a7f3006afb7dfcb9b7eb532e092"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-80-2015",
+   "path": "local/bucuresti/sector-6/2015/80",
+   "short": "HCLS6 nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 80/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-1-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2015",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-80_1.pdf",
+     "sha256": "e9e1f77c41f996a0bc307805d5a271486ed254829c134c7c73d63571076c279d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-81-2015",
+   "path": "local/bucuresti/sector-6/2015/81",
+   "short": "HCLS6 nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 81/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-81_1.pdf",
+     "sha256": "ef3fb65937040de7cdd6cfe3e54548a4083ae0a9dcecc1ba34e1c1436766a017"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-82-2015",
+   "path": "local/bucuresti/sector-6/2015/82",
+   "short": "HCLS6 nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 82/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-bursei-primarului-sectorului-6-pentru-elevii-din-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-6",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-82_1.pdf",
+     "sha256": "31450b60293c921f1c8f71788b36ed95dac91a4c74845daf63c204b29909db50"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-83-2015",
+   "path": "local/bucuresti/sector-6/2015/83",
+   "short": "HCLS6 nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 83/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-ale-directiei-locale-de-evidenta-persoanelor-sector-6",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-83_1.pdf",
+     "sha256": "cd35f7a06e5f4c35a7484b1b53354f82452e7b33682997e85ad3a2863b2f469b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-84-2015",
+   "path": "local/bucuresti/sector-6/2015/84",
+   "short": "HCLS6 nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 84/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-ale-directiei-generale-de-politie-locala-sector-6-1",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-84_1.pdf",
+     "sha256": "bedca880fbc2f0a9de5e1b770d0ccff57320eba689bf7617b083f4c7866e85ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-85-2015",
+   "path": "local/bucuresti/sector-6/2015/85",
+   "short": "HCLS6 nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 85/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-ierbei-nr-7-sector-6-pentru-extindere-si-supraetajare-locuinta-pe-un-teren-suprafata-de-301-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-86_1.pdf",
+     "sha256": "b2fdcef5b6de822132b3c4fe7c770693b32465ad69b9d7ad627972d2d62c99c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-87-2015",
+   "path": "local/bucuresti/sector-6/2015/87",
+   "short": "HCLS6 nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 87/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-cantarii-nr-16-sector-6-pentru-concesionare-teren-vederea-construirii-unui-imobil-cu-functiunea-de-locuinte-pe-un-teren-suprafata-totala-de-220-mp-suprafata-teren-propus-fi-concesionat-de",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-87_1.pdf",
+     "sha256": "7fde87878c186752d6167bef809e6a26d749f46ee90e45108e98d647124aa3f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-88-2015",
+   "path": "local/bucuresti/sector-6/2015/88",
+   "short": "HCLS6 nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 88/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-13",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-88_1.pdf",
+     "sha256": "addfe7410000bc1c06820114838307624bc03ef29a13f7db785659259240ec9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-9-2015",
+   "path": "local/bucuresti/sector-6/2015/9",
+   "short": "HCLS6 nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 9/2015",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-taberei-nr-70a-x-strada-romancierilor-fn-sector-6-concesionare-teren-pentru-construire-imobil-cu-functiune-mixta-pe-un-teren-suprafata-totala-de-515-mp",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-9_0.pdf",
+     "sha256": "f33a75039c546299cdabf305c4f154cccf199a94f582aad2430688e6b9b80ce6"
+    }
+   ]
+  }
+ ]
+}

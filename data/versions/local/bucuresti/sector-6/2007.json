@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2007",
+ "acts": [
+  {
+   "slug": "hcls6-40-2007",
+   "path": "local/bucuresti/sector-6/2007/40",
+   "short": "HCLS6 nr. 40/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 40/2007 privind Bugetul de Venituri şi Cheltuieli pe anul 2007",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-bugetul-de-venituri-si-cheltuieli-pe-anul-2007",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%2040.pdf",
+     "sha256": "87d85801e990fb2390d7c1c66fb1c45074b8d35b0aa4e2b5fb5c32a1c997bb84"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-452-2007",
+   "path": "local/bucuresti/sector-6/2007/452",
+   "short": "HCLS6 nr. 452/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 452/2007 privind rectificarea Bugetului de Venituri şi Cheltuieli pe anul 2007",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2007",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-08/HCL%20452-2007.pdf",
+     "sha256": "28aefab3f7ad81c13dcd5c907ea628e63646ace02db925420b27e15eba323d9e"
+    }
+   ]
+  }
+ ]
+}

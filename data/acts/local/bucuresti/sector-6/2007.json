@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-6/2007",
+"acts": [
+{
+"slug": "hcls6-40-2007",
+"path": "local/bucuresti/sector-6/2007/40",
+"kind": "local",
+"year": "2007",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 40/2007 privind Bugetul de Venituri şi Cheltuieli pe anul 2007",
+"short": "HCLS6 nr. 40/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-02-08",
+"latest": "2007-02-08",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-bugetul-de-venituri-si-cheltuieli-pe-anul-2007",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcls6-452-2007",
+"path": "local/bucuresti/sector-6/2007/452",
+"kind": "local",
+"year": "2007",
+"number": "452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 452/2007 privind rectificarea Bugetului de Venituri şi Cheltuieli pe anul 2007",
+"short": "HCLS6 nr. 452/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-12-11",
+"latest": "2007-12-11",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2007",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

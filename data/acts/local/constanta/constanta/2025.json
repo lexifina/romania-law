@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/constanta/2025",
+"acts": [
+{
+"slug": "hcl-constanta--constanta-25-2025",
+"path": "local/constanta/constanta/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 25/2025",
+"short": "HCL Constanța nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2025/06/25.-hotarareaprobareexecutiebugetultrimii_2015.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--constanta-451-2025",
+"path": "local/constanta/constanta/2025/451",
+"kind": "local",
+"year": "2025",
+"number": "451",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 451/2025",
+"short": "HCL Constanța nr. 451/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primaria-constanta.ro/wp-content/uploads/2024/02/HCL-nr.-451-din-23.12.2025.pdf",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

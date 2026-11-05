@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-6/2011",
+"acts": [
+{
+"slug": "hcls6-75-2011",
+"path": "local/bucuresti/sector-6/2011/75",
+"kind": "local",
+"year": "2011",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 75/2011",
+"short": "HCLS6 nr. 75/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-05-31",
+"latest": "2011-05-31",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnico-economice-obiectivului2reabilitarea-termica-imobilului-d9-din-str-valea-bujorului-nr1-sector-62",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

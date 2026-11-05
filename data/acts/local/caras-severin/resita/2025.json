@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/resita/2025",
+"acts": [
+{
+"slug": "hcl-caras-severin--resita-38-2025",
+"path": "local/caras-severin/resita/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Reșița nr. 38/2025",
+"short": "HCL Reșița nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "http://www.primariaresita.ro/portal/cs/resita/portal.nsf/AllByUNID/registru-spatiilor-verzi-0004b26e?OpenDocument",
+"council": "caras-severin/resita",
+"council_name": "Consiliul Local al Municipiului Reșița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
