@@ -286,6 +286,81 @@
      "sha256": "89861811f14ed1385a38ef1fe2ee3600db478a672ec8f137d8199b0c0fcb30ea"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2016",
+   "path": "regulament/fgdb/2016/1",
+   "short": "Regulament fgdb nr. 1/2016",
+   "title": "Regulamentul nr. 1/2016 privind transmiterea către Fondul de garantare a depozitelor bancare a informațiilor necesare întocmirii listei compensațiilor de plătit și a celor necesare în procesul determinării contribuțiilor anuale ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175217",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175217",
+     "sha256": "c004b79dd878f3d64cad20e1f9f3f2f8600958f5ea503e03aca6a557a981575f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-2-2016",
+   "path": "regulament/fgdb/2016/2",
+   "short": "Regulament fgdb nr. 2/2016",
+   "title": "Regulamentul nr. 2/2016 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175889",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175889",
+     "sha256": "b8ba21ece44e60ab4316186a9d8607aba184321c0e8ee26bbd4df921263327a2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-3-2016",
+   "path": "regulament/fgdb/2016/3",
+   "short": "Regulament fgdb nr. 3/2016",
+   "title": "Regulamentul nr. 3/2016 pentru modificarea Regulamentului Fondului de garantare a depozitelor bancare nr. 1/2016 privind transmiterea către Fondul de garantare a depozitelor bancare a informațiilor necesare întocmirii listei compensațiilor de plătit și a celor necesare în procesul determinării contribuțiilor anuale ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177749",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177749",
+     "sha256": "81396bedcf216672228acaf1e78026e9665ede075b83b6c457384e223daf2b78"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-4-2016",
+   "path": "regulament/fgdb/2016/4",
+   "short": "Regulament fgdb nr. 4/2016",
+   "title": "Regulamentul nr. 4/2016 privind organizarea exercițiilor de simulare de criză de către Fondul de garantare a depozitelor bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185093",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185093",
+     "sha256": "294e71bdf94a4d85d118c2906b07002e53d6bf184f17867cd778d9a2c49bee1b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-5-2016",
+   "path": "regulament/fgdb/2016/5",
+   "short": "Regulament fgdb nr. 5/2016",
+   "title": "Regulamentul nr. 5/2016 privind selectarea instituțiilor de credit mandatate de Fond să efectueze plățile de compensații către deponenții garantați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185083",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185083",
+     "sha256": "bf8fcb5564467d5c7b0213bb20a8dd707f30949ded22ba6f9b051c7d4f7d8ba8"
+    }
+   ]
   }
  ]
 }

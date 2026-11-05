@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-achizitii-12-2026",
+   "path": "ordin/achizitii/2026/12",
+   "short": "Ordin achizitii nr. 12/2026",
+   "title": "Ordinul nr. 12/2026 privind revizuirea ratei de actualizare ce va fi utilizată la atribuirea contractelor de achiziție publică în anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306515",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306515",
+     "sha256": "afe097967a95cddc4640e477ff92900fef7f0a4f7bd88a135df07f318a2c3aec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2026",
    "path": "ordin/agricultura/2026/10",
    "short": "Ordin agricultura nr. 10/2026",
@@ -764,6 +779,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308404",
      "sha256": "94f1d3be080b133b9531067aa7787265d28b8e8ce2f25219c523facde0c06047"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-amepip-1199-2026",
+   "path": "ordin/amepip/2026/1199",
+   "short": "Ordin amepip nr. 1199/2026",
+   "title": "Ordinul nr. 1.199/2026 pentru stabilirea tarifului de monitorizare, modalitatea de declarare și achitare a cuantumului acestuia și aprobarea modelului și conținutului Declarației privind contribuția anuală datorată la bugetul Agenției pentru Monitorizarea și Evaluarea Performanțelor Întreprinderilor Publice în anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311193",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311193",
+     "sha256": "1d9ef4393659d956501345823d45af4765d306642078756aba02893f20c4b4f5"
     }
    ]
   },
@@ -1784,6 +1814,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306762",
      "sha256": "13d85a87b0b5d3d80dbcb1f944ffcf5430e734c086a19075896f39c1f73c93d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-92-2026",
+   "path": "ordin/anfp/2026/92",
+   "short": "Ordin anfp nr. 92/2026",
+   "title": "Ordinul nr. 92/2026 pentru stabilirea activităților și subactivităților rămase de realizat la nivelul Compartimentului de coordonare, monitorizare și autorizare plăți PNRR din calendarul reformelor și jaloanelor pentru care Agenția Națională a Funcționarilor Publici are calitatea de coordonator și beneficiar, precum și pentru stabilirea modelului raportului individual de activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311411",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311411",
+     "sha256": "9c2a57e6533100fc6daa8972dceb42f37cc8c0536d8cdca061a872199248b623"
     }
    ]
   },
@@ -3348,6 +3393,21 @@
    ]
   },
   {
+   "slug": "ordin-arice-191-2026",
+   "path": "ordin/arice/2026/191",
+   "short": "Ordin arice nr. 191/2026",
+   "title": "Ordinul nr. 191/2026 pentru aprobarea Regulamentului privind condițiile și modalitățile de desfășurare a concursului intern pentru trimiterea în misiune în străinătate în rețeaua externă a Agenției Române pentru Investiții și Comerț Exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311389",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311389",
+     "sha256": "b2f5fbcfd7e1fbfd5ec65aad1e87bf9079c08f29ed47c67aa58fda1dc27f4239"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aspaas-315-2026",
    "path": "ordin/aspaas/2026/315",
    "short": "Ordin aspaas nr. 315/2026",
@@ -3434,6 +3494,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311287",
      "sha256": "5d70cef272617a3fc27ed9e1243b026c8e275f0a0d422e9e0d942b87c3d9a9d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cear-80-2026",
+   "path": "ordin/cear/2026/80",
+   "short": "Ordin cear nr. 80/2026",
+   "title": "Ordinul nr. 80/2026 pentru aprobarea Regulamentului de organizare și funcționare a Centrului Euro-Atlantic pentru Reziliență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312259",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312259",
+     "sha256": "555b72a59d2f3070fe8f07b871ef5863d70d57ea92bc432b0841727bb491bae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cear-89-2026",
+   "path": "ordin/cear/2026/89",
+   "short": "Ordin cear nr. 89/2026",
+   "title": "Ordinul nr. 89/2026 pentru modificarea și completarea anexei la Ordinul președintelui Centrului Euro-Atlantic pentru Reziliență nr. 4/2023 privind constituirea și operaționalizarea Registrului Centrului Euro-Atlantic pentru Reziliență privind experții asociați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312153",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312153",
+     "sha256": "2492e4446821c1aab4d4fa3443e43dd2a7ace12a89d743430cbe813cd3de716a"
     }
    ]
   },
@@ -3573,6 +3663,81 @@
    ]
   },
   {
+   "slug": "ordin-cncan-162-2026",
+   "path": "ordin/cncan/2026/162",
+   "short": "Ordin cncan nr. 162/2026",
+   "title": "Ordinul nr. 162/2026 pentru aprobarea Normelor de securitate nucleară privind protecția instalațiilor nucleare împotriva incendiilor și exploziilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315716",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315716",
+     "sha256": "d1dd7717ceb410a4c916c7bd9bd2fa402b62552f5934f9d7f711edb6586934aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-73-2026",
+   "path": "ordin/cncan/2026/73",
+   "short": "Ordin cncan nr. 73/2026",
+   "title": "Ordinul nr. 73/2026 pentru aprobarea Normei privind cerințele de autorizare a practicii de control de securitate cu radiații ionizante a coletelor, bagajelor, containerelor de marfă, vehiculelor, trenurilor și aeronavelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310902",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310902",
+     "sha256": "14d7a46436f0011b8362a53ae9430e882a027bf8af4d4f01651f27001e52e739"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncd-43-2026",
+   "path": "ordin/cncd/2026/43",
+   "short": "Ordin cncd nr. 43/2026",
+   "title": "Ordinul nr. 43/2026 privind aprobarea modificării Procedurii interne de soluționare a petițiilor și sesizărilor, aprobată prin Ordinul președintelui Consiliului Național pentru Combaterea Discriminării nr. 27/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309565",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309565",
+     "sha256": "c3f7558ba96926714adbe11a2779b2824128bf8bebf37c0d84d34803edaa6e3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncd-46-2026",
+   "path": "ordin/cncd/2026/46",
+   "short": "Ordin cncd nr. 46/2026",
+   "title": "Ordinul nr. 46/2026 privind aprobarea modificării Procedurii interne de soluționare a petițiilor și sesizărilor Consiliului Național pentru Combaterea Discriminării, aprobată prin Ordinul președintelui Consiliului Național pentru Combaterea Discriminării nr. 27/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309706",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309706",
+     "sha256": "9c52bb874f22bb7b023e491ab3ab6d0db454cabc4c69712297a121e002e576f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-197-2026",
+   "path": "ordin/cnpp/2026/197",
+   "short": "Ordin cnpp nr. 197/2026",
+   "title": "Ordinul nr. 197/2026 privind aprobarea formularelor: \"Decizie privind acordarea pensiei pentru limită de vârstă\", \"Decizie privind acordarea pensiei anticipate\", \"Decizie privind acordarea pensiei de invaliditate\", \"Decizie privind acordarea pensiei de urmaș\", \"Decizie privind suspendarea plății pensiei și/sau a indemnizației pentru însoțitor\", \"Decizie privind încetarea plății pensiei și/sau a indemnizației pentru însoțitor\", \"Decizie privind anularea deciziei de pensie\", \"Decizie privind reluarea plății pensiei și/sau a indemnizației pentru însoțitor\", \"Decizie privind recuperarea sumelor încasate necuvenit cu titlu de prestații de asigurări sociale/alte drepturi prevăzute de legi speciale\", \"Decizie privind acordarea pensiei internaționale pentru limită de vârstă\", \"Decizie privind acordarea pensiei internaționale anticipate\", \"Decizie privind acordarea pensiei internaționale de invaliditate\" și \"Decizie privind acordarea pensiei internaționale de urmaș\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313505",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313505",
+     "sha256": "174ea4cd24bf7743908dcaf127972db79849f9112d40f7bb104ddefdac252ba3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnpp-64-2026",
    "path": "ordin/cnpp/2026/64",
    "short": "Ordin cnpp nr. 64/2026",
@@ -3614,6 +3779,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314935",
      "sha256": "b607c0ddb69039111c9d2b0060a3430f67e6613ef7b2645d621a60f8090bfa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-60-2026",
+   "path": "ordin/culte/2026/60",
+   "short": "Ordin culte nr. 60/2026",
+   "title": "Ordinul nr. 60/2026 privind procedura de acordare a avizului consultativ de către Secretariatul de Stat pentru Culte, în conformitate cu prevederile art. 41 alin. (2), art. 43 și ale art. 47 alin. (1) din Legea nr. 489/2006 privind libertatea religioasă și regimul general al cultelor și ale art. 7 alin. (2) lit. f), art. 13, art. 13^1, art.17 alin. (2) lit. f), art. 18, art. 33 și 34 din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309492",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309492",
+     "sha256": "570232d97e4c56236082e425a8e5e85114f34e523e3549f478915d3e8a72b721"
     }
    ]
   },
@@ -4019,6 +4199,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313678",
      "sha256": "aefc68f179bc7f305b79819627bff92335b61caf9703f2e601caf783587912a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dgia-1-2026",
+   "path": "ordin/dgia/2026/1",
+   "short": "Ordin dgia nr. 1/2026",
+   "title": "Ordinul nr. 1/2026 ORDIN nr. DG-1 din 27 august 2026 privind conferirea Semnului onorific În Serviciul Patriei unor gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313952",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313952",
+     "sha256": "dc1b078ae12aa9d0068978addacd110a126df2211e60d424415f6618c302d49a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-784-2026",
+   "path": "ordin/dizabilitati/2026/784",
+   "short": "Ordin dizabilitati nr. 784/2026",
+   "title": "Ordinul nr. 784/2026 privind aprobarea Regulamentului de organizare și funcționare a Comisiei superioare de evaluare a persoanelor adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314013",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314013",
+     "sha256": "3aa63461ce218e4518c50bf6f9164538b5ecec933070a9104e82ca82a4f5c6d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dnsc-1-2026",
+   "path": "ordin/dnsc/2026/1",
+   "short": "Ordin dnsc nr. 1/2026",
+   "title": "Ordinul nr. 1/2026 pentru aprobarea Măsurilor de gestionare a riscurilor de securitate cibernetică aferente rețelelor și sistemelor informatice utilizate de entitățile esențiale și importante și a Metodologiei de autoevaluare a maturității măsurilor de gestionare a riscurilor de securitate cibernetică și pentru modificarea Metodologiei privind evaluarea nivelului de risc al entităților, aprobată prin Ordinul directorului Directoratului Național de Securitate Cibernetică nr. 2/2025 pentru aprobarea Criteriilor și pragurilor de determinare a gradului de perturbare a unui serviciu și a Metodologiei privind evaluarea nivelului de risc al entităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313799",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313799",
+     "sha256": "31b63457c102b04eabea358dd706e4a1a02f7f3832f2b97c8792c65122da1b0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dnsc-2-2026",
+   "path": "ordin/dnsc/2026/2",
+   "short": "Ordin dnsc nr. 2/2026",
+   "title": "Ordinul nr. 2/2026 privind completarea Ordinului directorului Directoratului Național de Securitate Cibernetică nr. 1/2026 pentru aprobarea Măsurilor de gestionare a riscurilor de securitate cibernetică aferente rețelelor și sistemelor informatice utilizate de entitățile esențiale și importante și a Metodologiei de autoevaluare a maturității măsurilor de gestionare a riscurilor de securitate cibernetică și pentru modificarea Metodologiei privind evaluarea nivelului de risc al entităților, aprobată prin Ordinul directorului Directoratului Național de Securitate Cibernetică nr. 2/2025 pentru aprobarea Criteriilor și pragurilor de determinare a gradului de perturbare a unui serviciu și a Metodologiei privind evaluarea nivelului de risc al entităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314676",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314676",
+     "sha256": "965ab534060be2790ef8d4b9ab7c164a60e5a6b604107b8f86ad2dc44103b3a0"
     }
    ]
   },
@@ -7623,6 +7863,36 @@
    ]
   },
   {
+   "slug": "ordin-ina-28-2026",
+   "path": "ordin/ina/2026/28",
+   "short": "Ordin ina nr. 28/2026",
+   "title": "Ordinul nr. 28/2026 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici - anul 2026, promoția Erast Diti Tarangul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309110",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309110",
+     "sha256": "6ad36ef92b296a3dba0d565b6c3ad001b0fa2921ebd51b30b88f96dfdbbfb881"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-2901-2026",
+   "path": "ordin/integritate/2026/2901",
+   "short": "Ordin integritate nr. 2901/2026",
+   "title": "Ordinul nr. 2.901/2026 privind aprobarea Procedurii de transmitere prin e-DAI a declarației prevăzute la art. 7^3 alin. (1) și a notificării prevăzute la art. 7^6 alin. (1) din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, cu modificările și completările ulterioare, precum și a condițiilor în care aceasta se realizează",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307587",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307587",
+     "sha256": "21a9d247b2eefbb752a750f9bd3b140250aaacc6d0d50be09821810f01c39121"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-100-2026",
    "path": "ordin/interne/2026/100",
    "short": "Ordin interne nr. 100/2026",
@@ -7979,6 +8249,21 @@
      "units": 48,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311897",
      "sha256": "4f5e0f400a11943a2966aa60a9fb050039be71c475b574151d1ab0de080bd435"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-194-2026",
+   "path": "ordin/iscir/2026/194",
+   "short": "Ordin iscir nr. 194/2026",
+   "title": "Ordinul nr. 194/2026 privind abrogarea unor ordine ale inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314461",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314461",
+     "sha256": "41e4216499ec1afdc293eaa6a15562f68733a8b7d680b4d80cd860294f4db23d"
     }
    ]
   },
@@ -8838,6 +9123,36 @@
    ]
   },
   {
+   "slug": "ordin-moldova-23-2026",
+   "path": "ordin/moldova/2026/23",
+   "short": "Ordin moldova nr. 23/2026",
+   "title": "Ordinul nr. 23/2026 pentru aprobarea ghidului și a documentarului de finanțare nerambursabilă - D.R.R.M. 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309500",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309500",
+     "sha256": "c367880ee70b5f85b9572d44eebd9de9968711e92271edec6ac7c1d9d8299e93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-moldova-55-2026",
+   "path": "ordin/moldova/2026/55",
+   "short": "Ordin moldova nr. 55/2026",
+   "title": "Ordinul nr. 55/2026 pentru aprobarea ghidului solicitantului și a documentarului - D.R.R.M. 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311281",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311281",
+     "sha256": "b41284995d359b14a6e29b5bda4ca99f3d39a0b79794e6db4b7447f66d5bf7c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1003-2026",
    "path": "ordin/munca/2026/1003",
    "short": "Ordin munca nr. 1003/2026",
@@ -9044,6 +9359,231 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312351",
      "sha256": "536c376e235e220c9c26f5fc210d49a438b29372e43ab5e1e39de263cb0884e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-offshore-13-2026",
+   "path": "ordin/offshore/2026/13",
+   "short": "Ordin offshore nr. 13/2026",
+   "title": "Ordinul nr. 13/2026 pentru aprobarea Normelor privind procedura de obținere a Aprobării de dezvoltare a centralelor electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313896",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313896",
+     "sha256": "6ded5b65d0442f82ab47d9d6fb6aa1a1fecdb0fad9985bbcfe205f7c7e452178"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-offshore-14-2026",
+   "path": "ordin/offshore/2026/14",
+   "short": "Ordin offshore nr. 14/2026",
+   "title": "Ordinul nr. 14/2026 pentru aprobarea Normelor privind procedura de obținere a Aprobării de desființare a centralelor electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313897",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313897",
+     "sha256": "62ca59823719017e841091df53aacfad1b8b1a127621c96fa8f19313341d1df9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-offshore-15-2026",
+   "path": "ordin/offshore/2026/15",
+   "short": "Ordin offshore nr. 15/2026",
+   "title": "Ordinul nr. 15/2026 pentru aprobarea Instrucțiunilor privind siguranța operațională în etapa de explorare a proiectelor de centrale electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313898",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313898",
+     "sha256": "cab0580aa88c34f40c76eceaf45e13e35bab02fb0e25faca975a2fb44c548c4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-offshore-16-2026",
+   "path": "ordin/offshore/2026/16",
+   "short": "Ordin offshore nr. 16/2026",
+   "title": "Ordinul nr. 16/2026 pentru aprobarea Instrucțiunilor privind siguranța operațională în etapa de construcție a proiectelor de centrale electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313899",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313899",
+     "sha256": "1ea01c4fd66470543264c8891db3116d4913adcb8e0a5251091b6100a12f68d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-offshore-17-2026",
+   "path": "ordin/offshore/2026/17",
+   "short": "Ordin offshore nr. 17/2026",
+   "title": "Ordinul nr. 17/2026 pentru aprobarea Instrucțiunilor privind siguranța operațională în etapa de exploatare a proiectelor de centrale electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313900",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313900",
+     "sha256": "67875d15a489c8c3c0dbffc62e8da795c5ed84526da828e03e12fb7a641d689f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-oli-38-2026",
+   "path": "ordin/oli/2026/38",
+   "short": "Ordin oli nr. 38/2026",
+   "title": "Ordinul nr. 38/2026 pentru modificarea Instrucțiunilor privind procedura de acordare, modificare, reînnoire, suspendare și retragere a licenței industriale unice, aprobate prin Ordinul președintelui Oficiului pentru Licență Industrială nr. 2/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310154",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310154",
+     "sha256": "f8e99780b1fc95e2dccd632fe15b6b3042f07a879ed709a541cf25c267a375e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-181-2026",
+   "path": "ordin/onpcsb/2026/181",
+   "short": "Ordin onpcsb nr. 181/2026",
+   "title": "Ordinul nr. 181/2026 pentru modificarea Ordinului președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 145/2022 privind aprobarea formei și conținutului notificării prevăzute la art. 30^2 din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312466",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312466",
+     "sha256": "5387874ac7c97446a5ec4b06c7d47fa0b2eff10a57b24f450dd93e64425b17ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-26-2026",
+   "path": "ordin/orniss/2026/26",
+   "short": "Ordin orniss nr. 26/2026",
+   "title": "Ordinul nr. 26/2026 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309481",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309481",
+     "sha256": "9db4350c28412230ddad88100f516cfd46288b2155b98afcc00c846e4663b4b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-47-2026",
+   "path": "ordin/orniss/2026/47",
+   "short": "Ordin orniss nr. 47/2026",
+   "title": "Ordinul nr. 47/2026 pentru modificarea și completarea Directivei privind selectarea și instalarea echipamentelor și sistemelor care vehiculează informații clasificate în format electronic - INFOSEC 6, versiunea 2, aprobată prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 358/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311410",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311410",
+     "sha256": "200566e1684cb435a7e722598d9ebbb7ae3163bdd02dfa76280ce589527afc02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-penitenciare-105-2026",
+   "path": "ordin/penitenciare/2026/105",
+   "short": "Ordin penitenciare nr. 105/2026",
+   "title": "Ordinul nr. 105/2026 pentru modificarea Deciziei directorului general al Administrației Naționale a Penitenciarelor nr. 360/2020 privind profilarea locurilor de deținere din subordinea Administrației Naționale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308884",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308884",
+     "sha256": "b562ca15a4d43ce564563b58a0d8be1e3425d2ac2e7077dc08fe9a60a164211b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-penitenciare-153-2026",
+   "path": "ordin/penitenciare/2026/153",
+   "short": "Ordin penitenciare nr. 153/2026",
+   "title": "Ordinul nr. 153/2026 privind modalitatea de organizare, desfășurare și evaluare a activităților de pregătire fizică a personalului din sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311016",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311016",
+     "sha256": "e766143ba4606109a2e53da62571f537d6bfe967a41068571a25dc3e0871f2bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-penitenciare-221-2026",
+   "path": "ordin/penitenciare/2026/221",
+   "short": "Ordin penitenciare nr. 221/2026",
+   "title": "Ordinul nr. 221/2026 pentru aprobarea Instrucțiunilor privind procedura disciplinară aplicabilă persoanelor private de libertate custodiate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313284",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313284",
+     "sha256": "74a61799df336872d7883221200ccc59ec498dd4cb0ed3f480d0d36d9e9f60f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-penitenciare-330-2026",
+   "path": "ordin/penitenciare/2026/330",
+   "short": "Ordin penitenciare nr. 330/2026",
+   "title": "Ordinul nr. 330/2026 pentru aprobarea Normelor de consum carburanți pentru autovehiculele sistemului administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315982",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315982",
+     "sha256": "0df23f40fa63a79e7acc456d4927d7e7ce56adcdfb0088a985550a7cee730744"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rezervestat-46-2026",
+   "path": "ordin/rezervestat/2026/46",
+   "short": "Ordin rezervestat nr. 46/2026",
+   "title": "Ordinul nr. 46/2026 privind aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 598/2014 privind înființarea pe lângă Administrația Națională a Rezervelor de Stat și Probleme Speciale și pe lângă fiecare unitate teritorială a unor activități finanțate integral din venituri proprii, precum și a normelor metodologice de aplicare a dispozițiilor art. 6 alin. (3)-(5), art. 7 și art. 8 alin. (2) din Ordonanța de urgență a Guvernului nr. 110/2022 privind preluarea de către Administrația Națională a Rezervelor de Stat și Probleme Speciale prin unitățile teritoriale subordonate a unor creanțe bugetare aflate în administrarea Autorității pentru Administrarea Activelor Statului asupra unor societăți deținătoare de bunuri utile facilitării și fluidizării transportului de resurse strategice și ale rezervelor de stat, pentru asigurarea tranzitării, transbordării, transpunerii și transportului de resurse strategice și ale rezervelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309962",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309962",
+     "sha256": "88dd8c666fa0695b63550256e33a7d504c75c8c6df1e7edc0cdf91669ece1b34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rezervestat-89-2026",
+   "path": "ordin/rezervestat/2026/89",
+   "short": "Ordin rezervestat nr. 89/2026",
+   "title": "Ordinul nr. 89/2026 pentru aprobarea Metodologiei stabilirii tarifelor percepute de către Administrația Națională a Rezervelor de Stat și Probleme Speciale, în calitate de entitate centrală de stocare din România, pentru prestarea serviciilor necesare îndeplinirii obligațiilor de stocare delegate din partea titularilor obligațiilor de stocare, precum și din vânzarea stocurilor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309868",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309868",
+     "sha256": "21c2ce1b636b189da71c9a6d7cda616fabe1aef593ec01c2c37a6e3d9a95c9c3"
     }
    ]
   },
@@ -10379,6 +10919,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309539",
      "sha256": "b262a73047ef51ff34d25f103ad3ba9299cdce9da36407250aae284dbe26936b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-11-2026",
+   "path": "ordin/sport/2026/11",
+   "short": "Ordin sport nr. 11/2026",
+   "title": "Ordinul nr. 11/2026 pentru modificarea anexei nr. 2 la Ordinul președintelui Agenției Naționale pentru Sport nr. 959/2025 privind aprobarea programelor sportive de utilitate publică și a metodologiei de finanțare a federațiilor sportive naționale pe anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306497",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306497",
+     "sha256": "81ed7d7532b064d397729c936c6211ec230e4124ac1041aceb790e22407983c6"
     }
    ]
   },

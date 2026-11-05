@@ -3,6 +3,66 @@
  "shard": "ordin/2018",
  "acts": [
   {
+   "slug": "ordin-achizitii-1581-2018",
+   "path": "ordin/achizitii/2018/1581",
+   "short": "Ordin achizitii nr. 1581/2018",
+   "title": "Ordinul nr. 1.581/2018 privind aprobarea formularelor standard ale proceselor-verbale intermediare de evaluare aferente procedurilor de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206127",
+   "versions": [
+    {
+     "from": "2018-10-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206127",
+     "sha256": "c096c032e910aad85b9aec825f228dfcffcd02948f70dbf08200e5e7904ef123"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-314-2018",
+   "path": "ordin/achizitii/2018/314",
+   "short": "Ordin achizitii nr. 314/2018",
+   "title": "Ordinul nr. 314/2018 pentru aprobarea Metodologiei de control ex-post privind modul de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale, a contractelor de concesiune de lucrări și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198735",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198735",
+     "sha256": "c0c08ce59be96a50686632c1a668be9cee9722e75b1e06990ca6b781666681f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-707-2018",
+   "path": "ordin/achizitii/2018/707",
+   "short": "Ordin achizitii nr. 707/2018",
+   "title": "Ordinul nr. 707/2018 privind stabilirea unui mecanism de creștere a competitivității companiilor deținute majoritar sau integral de stat prin intermediul procedurilor de achiziție publică/sectorială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202619",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202619",
+     "sha256": "94e927a186db560d1541de4e242983cbd62ba7ccaf1773f9cc30098ffc88c6ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-941-2018",
+   "path": "ordin/achizitii/2018/941",
+   "short": "Ordin achizitii nr. 941/2018",
+   "title": "Ordinul nr. 941/2018 privind metodologia de constatare a contravențiilor și aplicare a sancțiunilor în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205109",
+   "versions": [
+    {
+     "from": "2018-09-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205109",
+     "sha256": "6ccb7bee78f2a33e7b7cb6d86f1e0c89daecd2943a7fc13cb9913bff3b3e43fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2018",
    "path": "ordin/agricultura/2018/10",
    "short": "Ordin agricultura nr. 10/2018",
@@ -1953,6 +2013,36 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1443-2018",
+   "path": "ordin/anfp/2018/1443",
+   "short": "Ordin anfp nr. 1443/2018",
+   "title": "Ordinul nr. 1.443/2018 pentru aprobarea formatului standard, a termenelor și modalității de transmitere a datelor privind comisiile paritare și acordurile colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201820",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201820",
+     "sha256": "27368372078a99295ea49b68bf500990bbd71e8e2875782e802728f513f71943"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-3260-2018",
+   "path": "ordin/anfp/2018/3260",
+   "short": "Ordin anfp nr. 3260/2018",
+   "title": "Ordinul nr. 3.260/2018 pentru aprobarea nominalizării evaluatorilor care vor realiza activitățile de evaluare externă a managerilor publici, precum și pentru aprobarea planificării desfășurării activităților de evaluare externă a managerilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208309",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208309",
+     "sha256": "1c5f8f2f6ebc070d9f1949805a6dd201b6b823b2c74dab9bd6348b1c60e25ef9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-170-2018",
    "path": "ordin/anmcs/2018/170",
    "short": "Ordin anmcs nr. 170/2018",
@@ -2054,6 +2144,36 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201059",
      "sha256": "e1793f04b8319da90f59f51af8d54fcd7868183900ba480333857a1c643d20c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-11-2018",
+   "path": "ordin/anofm/2018/11",
+   "short": "Ordin anofm nr. 11/2018",
+   "title": "Ordinul nr. 11/2018 pentru aprobarea Procedurii de profilare a persoanelor în căutarea unui loc de muncă înregistrate la agențiile pentru ocuparea forței de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198513",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198513",
+     "sha256": "df8ad60e44eb8460f99870862385ea1d68a8d4121f411deb12be576ae3756ad8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-254-2018",
+   "path": "ordin/anofm/2018/254",
+   "short": "Ordin anofm nr. 254/2018",
+   "title": "Ordinul nr. 254/2018 pentru aprobarea Procedurii privind punerea în aplicare a prevederilor art. 58 alin. (5) din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, precum și a modelului acordului de integrare în muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203757",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203757",
+     "sha256": "4b8c1baed59e754541981cb84b0447390840fbf43175e1fb3b3194a6f55c81ef"
     }
    ]
   },
@@ -3948,6 +4068,51 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-510-2018",
+   "path": "ordin/anrsc/2018/510",
+   "short": "Ordin anrsc nr. 510/2018",
+   "title": "Ordinul nr. 510/2018 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207009",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207009",
+     "sha256": "e871fd05e899d028975e1edc45d0300ec5481669c63463e40a702a83a09eb81a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-520-2018",
+   "path": "ordin/anrsc/2018/520",
+   "short": "Ordin anrsc nr. 520/2018",
+   "title": "Ordinul nr. 520/2018 pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 82/2015 privind aprobarea Regulamentului-cadru al serviciului de salubrizare a localităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208359",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208359",
+     "sha256": "6dc7f74c7cb33ed92e3274e12070196b4efd09cb077361cd63695e66e58da7b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-573-2018",
+   "path": "ordin/anrsc/2018/573",
+   "short": "Ordin anrsc nr. 573/2018",
+   "title": "Ordinul nr. 573/2018 privind modificarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 79/2017 privind modalitatea de achitare a contribuției prevăzute în Regulamentul de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C., aprobat prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 22/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209329",
+   "versions": [
+    {
+     "from": "2018-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209329",
+     "sha256": "5848ae74f23f9ac9dd58d27a0a12a41ea226e2816e095e9e25fb8f5c1a5291e4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-106-2018",
    "path": "ordin/ansvsa/2018/106",
    "short": "Ordin ansvsa nr. 106/2018",
@@ -4289,6 +4454,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203321",
      "sha256": "e515d7c4224627d67603207b3fde7f338e2e855a4ee9c814a6e7a3238b00fc6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-118-2018",
+   "path": "ordin/antidoping/2018/118",
+   "short": "Ordin antidoping nr. 118/2018",
+   "title": "Ordinul nr. 118/2018 privind aprobarea criteriilor pentru selecția membrilor Comisiei de audiere a sportivilor și a personalului asistent al sportivilor și a procedurilor de selecție și de soluționare a contestațiilor pentru desemnarea membrilor Comisiei de audiere a sportivilor și personalului asistent al sportivilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199510",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199510",
+     "sha256": "ffc061c66d1db23fe550f2cdfc8860697ce11711e584da40ba68c8c430e798fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-126-2018",
+   "path": "ordin/antidoping/2018/126",
+   "short": "Ordin antidoping nr. 126/2018",
+   "title": "Ordinul nr. 126/2018 pentru aprobarea cerințelor și procedurilor privind gestionarea rezultatului în cazul pașaportului biologic al sportivului, conforme anexei L din Standardul internațional pentru testare și investigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199860",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199860",
+     "sha256": "d16d8a667dda0e61ded87b49c27ed366b243d69fab280592ebdfe680c154f251"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-299-2018",
+   "path": "ordin/antidoping/2018/299",
+   "short": "Ordin antidoping nr. 299/2018",
+   "title": "Ordinul nr. 299/2018 privind aprobarea Listei interzise pentru anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206232",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206232",
+     "sha256": "542e5095b0848277d5e9fe794f828c971b532e2c343f298f03f92dadab09a944"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-3-2018",
+   "path": "ordin/antidoping/2018/3",
+   "short": "Ordin antidoping nr. 3/2018",
+   "title": "Ordinul nr. 3/2018 privind aprobarea cuantumului taxei de prelevare a probelor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196806",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196806",
+     "sha256": "72176a16971cbbb7b726b54d7e96909635fa814a7c807e4b32db9f8f189a3632"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-69-2018",
+   "path": "ordin/antidoping/2018/69",
+   "short": "Ordin antidoping nr. 69/2018",
+   "title": "Ordinul nr. 69/2018 privind modificarea anexei nr. 3 la Ordinul președintelui Agenției Naționale Anti-Doping nr. 230/2015 pentru aprobarea documentelor oficiale pe care le folosește ofițerul de control doping în timpul desfășurării controlului doping, prevăzute de Hotărârea Guvernului nr. 244/2015 pentru aprobarea Normelor metodologice privind organizarea și desfășurarea controlului doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198071",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198071",
+     "sha256": "727ebce3c1601b4f543b8e2c2c99a3189b8b2a549f7a5b54660af660bc27ad68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-7-2018",
+   "path": "ordin/antidoping/2018/7",
+   "short": "Ordin antidoping nr. 7/2018",
+   "title": "Ordinul nr. 7/2018 privind modificarea Ordinului președintelui Agenției Naționale Anti-Doping nr. 230/2015 pentru aprobarea documentelor oficiale pe care le folosește ofițerul de control doping în timpul desfășurării controlului doping, prevăzute de Hotărârea Guvernului nr. 244/2015 pentru aprobarea Normelor metodologice privind organizarea și desfășurarea controlului doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196849",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196849",
+     "sha256": "efe46b37a1cd82522c03bc5669a14fcd5ae1a3c8c762d160f89d8d9280eb4ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-95-2018",
+   "path": "ordin/antidoping/2018/95",
+   "short": "Ordin antidoping nr. 95/2018",
+   "title": "Ordinul nr. 95/2018 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările anti-doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198528",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198528",
+     "sha256": "f121bf88a83dfb7aaf8ddd8b3d073d895a4a11285d816bfc18bde231c0f6a5cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-96-2018",
+   "path": "ordin/antidoping/2018/96",
+   "short": "Ordin antidoping nr. 96/2018",
+   "title": "Ordinul nr. 96/2018 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198523",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198523",
+     "sha256": "fdb58bfe9f877dfa3f85ed9f7d9a7925d8da6c1975b7bdc08395ab7018a9dbf6"
     }
    ]
   },
@@ -5673,6 +5958,201 @@
    ]
   },
   {
+   "slug": "ordin-cncan-102-2018",
+   "path": "ordin/cncan/2018/102",
+   "short": "Ordin cncan nr. 102/2018",
+   "title": "Ordinul nr. 102/2018 privind modificarea și completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 202/2002 pentru aprobarea Normelor privind eliberarea permiselor de exercitare a activităților nucleare și desemnarea experților acreditați în protecție radiologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201061",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201061",
+     "sha256": "67102bc64958bebc269bf2e62deaed2e671f590506705dc31a6727e049e9f1fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-129-2018",
+   "path": "ordin/cncan/2018/129",
+   "short": "Ordin cncan nr. 129/2018",
+   "title": "Ordinul nr. 129/2018 pentru modificarea și completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 56/2004 privind aprobarea Normelor fundamentale pentru gospodărirea în siguranță a deșeurilor radioactive și a combustibilului nuclear uzat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201840",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201840",
+     "sha256": "9b120daec55932c070dd70f9bcac676153bf8a4835dbc3b2b71e06a485a9fdd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-14-2018",
+   "path": "ordin/cncan/2018/14",
+   "short": "Ordin cncan nr. 14/2018",
+   "title": "Ordinul nr. 14/2018 pentru aprobarea Procedurii privind cerințele de eliberare a avizelor pentru programele de pregătire în protecție radiologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197600",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197600",
+     "sha256": "4af98704adf8c60ef3d367649d19f6bec6a5238bf921427439b8f9b008c902e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-144-2018",
+   "path": "ordin/cncan/2018/144",
+   "short": "Ordin cncan nr. 144/2018",
+   "title": "Ordinul nr. 144/2018 pentru aprobarea Normelor privind controlul reglementat al surselor radioactive și gestionarea în siguranță a surselor orfane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202155",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202155",
+     "sha256": "2194a488ce795340d1f66e58812cf3bf89ce6b821d00f471c26f71bd9573e44f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-145-2018",
+   "path": "ordin/cncan/2018/145",
+   "short": "Ordin cncan nr. 145/2018",
+   "title": "Ordinul nr. 145/2018 pentru aprobarea Normelor privind estimarea dozelor efective și a dozelor echivalente datorate expunerii interne și externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202180",
+   "versions": [
+    {
+     "from": "2018-07-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202180",
+     "sha256": "1eda7621c31bf1945407591cecd729826968bf2b22e884ff76456e3e68d4d54a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-146-2018",
+   "path": "ordin/cncan/2018/146",
+   "short": "Ordin cncan nr. 146/2018",
+   "title": "Ordinul nr. 146/2018 pentru aprobarea Normelor privind prevenirea, pregătirea și răspunsul în caz de situații de urgență pentru categoria de pregătire pentru urgență I, categoria de pregătire pentru urgență II și categoria de pregătire pentru urgență III",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202175",
+   "versions": [
+    {
+     "from": "2018-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202175",
+     "sha256": "5f89cf7c4be0699981cbe7fddd37d4c3762a4467ee67ab954c986f25706951fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-147-2018",
+   "path": "ordin/cncan/2018/147",
+   "short": "Ordin cncan nr. 147/2018",
+   "title": "Ordinul nr. 147/2018 pentru aprobarea Normelor privind prevenirea, pregătirea și răspunsul în caz de situații de urgență pentru categoria de pregătire pentru urgență IV și categoria de pregătire pentru urgență VI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202224",
+   "versions": [
+    {
+     "from": "2018-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202224",
+     "sha256": "38e2295f9607735625fb7371994a2904af4c2d8be77f9b4ceee9e4c060cdd0c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-155-2018",
+   "path": "ordin/cncan/2018/155",
+   "short": "Ordin cncan nr. 155/2018",
+   "title": "Ordinul nr. 155/2018 pentru aprobarea Normelor privind procedurile de autorizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202304",
+   "versions": [
+    {
+     "from": "2018-08-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202304",
+     "sha256": "a0d517a8dd1f4b9ec6a17197cc5b1b37f5ea53733762c6d7daaaf2be81effc7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-316-2018",
+   "path": "ordin/cncan/2018/316",
+   "short": "Ordin cncan nr. 316/2018",
+   "title": "Ordinul nr. 316/2018 pentru aprobarea Normelor privind cerințele de securitate radiologică pentru surse naturale de radiații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208624",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 97,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208624",
+     "sha256": "71d825da7610e01c995ab13e00292c1e970b56f99305e95db901376efa7d697b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-336-2018",
+   "path": "ordin/cncan/2018/336",
+   "short": "Ordin cncan nr. 336/2018",
+   "title": "Ordinul nr. 336/2018 pentru aprobarea Normelor privind autorizarea instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209561",
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209561",
+     "sha256": "90923d09272df98c8ddad7e390b39dcd01b365a5ab81c09a6801698b124e5074"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-338-2018",
+   "path": "ordin/cncan/2018/338",
+   "short": "Ordin cncan nr. 338/2018",
+   "title": "Ordinul nr. 338/2018 pentru aprobarea Ghidului privind îndeplinirea obiectivului general de securitate nucleară stabilit prin normele fundamentale de securitate nucleară pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209334",
+   "versions": [
+    {
+     "from": "2018-12-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209334",
+     "sha256": "1ce85c309e0e02767bfb144f1e72c68c2378e767609cfcc95504d844d3c409fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-96-2018",
+   "path": "ordin/cncan/2018/96",
+   "short": "Ordin cncan nr. 96/2018",
+   "title": "Ordinul nr. 96/2018 pentru aprobarea Normelor de securitate nucleară privind supravegherea, întreținerea, testarea și inspecțiile în exploatare pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200713",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200713",
+     "sha256": "9b6802c1f682249e7bd454260dcd5247fc430a29c07449865a99d2b667585419"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-12-2018",
+   "path": "ordin/cnpp/2018/12",
+   "short": "Ordin cnpp nr. 12/2018",
+   "title": "Ordinul nr. 12/2018 pentru modificarea anexei nr. 2 la Normele cu privire la stabilirea pensiei de serviciu prevăzute de Legea nr. 7/2006 privind statutul funcționarului public parlamentar, aprobate prin Ordinul secretarului general al Camerei Deputaților, al secretarului general al Senatului și al președintelui Casei Naționale de Pensii Publice nr. 965/XXXV/3.598/274/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197631",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197631",
+     "sha256": "51b530dadea0269997472b2220309ffb8d3e220b20cbfec20b9aa422e9936ace"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-1006-2018",
    "path": "ordin/comunicatii/2018/1006",
    "short": "Ordin comunicatii nr. 1006/2018",
@@ -5834,6 +6314,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201334",
      "sha256": "a3ca40b040f5e2325ac645fe13d49d51fea665b2ecb7f20080248d3886016ffb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csm-144-2018",
+   "path": "ordin/csm/2018/144",
+   "short": "Ordin csm nr. 144/2018",
+   "title": "Ordinul nr. 144/2018 pentru modificarea Ordinului inspectorului-șef al Inspecției Judiciare nr. 134/2018 privind aprobarea Regulamentului de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208950",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208950",
+     "sha256": "5eff44e589bb6df63251a93a91c93e606beb891839a7fcdd28015202eef132d8"
     }
    ]
   },
@@ -6569,6 +7064,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209494",
      "sha256": "68073454706130126849d810c2bd803ea629b3b0279f6bc848c4a0d539cc7e47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dgia-1-2018",
+   "path": "ordin/dgia/2018/1",
+   "short": "Ordin dgia nr. 1/2018",
+   "title": "Ordinul nr. 1/2018 privind conferirea Semnului onorific În Serviciul Patriei unor gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208690",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208690",
+     "sha256": "d671b8a36d0b9e2773108024c01724bcec2fb8342df3679d6ab790b1bbf60aae"
     }
    ]
   },
@@ -9183,6 +9693,66 @@
    ]
   },
   {
+   "slug": "ordin-ina-245-2018",
+   "path": "ordin/ina/2018/245",
+   "short": "Ordin ina nr. 245/2018",
+   "title": "Ordinul nr. 245/2018 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici, anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203136",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203136",
+     "sha256": "8be423b81c965f3853abe29061e86b6e542762b3f96801947813732319d386f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1667-2018",
+   "path": "ordin/ins/2018/1667",
+   "short": "Ordin ins nr. 1667/2018",
+   "title": "Ordinul nr. 1.667/2018 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intra-UE cu bunuri în anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208333",
+   "versions": [
+    {
+     "from": "2018-12-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208333",
+     "sha256": "f511a461647a6a50d9f005d32ef6db43c45ebb01b47558836be09858e0816652"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-131-2018",
+   "path": "ordin/inspectiajudiciara/2018/131",
+   "short": "Ordin inspectiajudiciara nr. 131/2018",
+   "title": "Ordinul nr. 131/2018 privind aprobarea Regulamentului de organizare și desfășurare a concursului pentru numirea în funcție a inspectorilor judiciari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208565",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208565",
+     "sha256": "9f54706bca2a21dafb55ce5644e0042eb581c705874f5c6f285cc61b47016cfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-4587-2018",
+   "path": "ordin/integritate/2018/4587",
+   "short": "Ordin integritate nr. 4587/2018",
+   "title": "Ordinul nr. 4.587/2018 privind modificarea și completarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate, aprobat prin Ordinul președintelui Agenției Naționale de Integritate nr. 7.962/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200655",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200655",
+     "sha256": "7bd10c2fe4309ad3eb5ed2119098f59dbbdad84002cf5782d665cd2b1b3647a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-10-2018",
    "path": "ordin/interne/2018/10",
    "short": "Ordin interne nr. 10/2018",
@@ -11718,6 +12288,171 @@
    ]
   },
   {
+   "slug": "ordin-offshore-34-2018",
+   "path": "ordin/offshore/2018/34",
+   "short": "Ordin offshore nr. 34/2018",
+   "title": "Ordinul nr. 34/2018 privind aprobarea tarifului perceput de Autoritatea Competentă de Reglementare a Operațiunilor Petroliere Offshore la Marea Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204520",
+   "versions": [
+    {
+     "from": "2018-09-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204520",
+     "sha256": "4ecc2be35ef77fda160dfe15791c3ef4a1935a984ef934101159ac8b78dcf304"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-179-2018",
+   "path": "ordin/onjn/2018/179",
+   "short": "Ordin onjn nr. 179/2018",
+   "title": "Ordinul nr. 179/2018 privind aprobarea modelului de declarație lunară, sub forma unui formular-tip, pentru veniturile realizate de organizatorii jocurilor de noroc care desfășoară activități de jocuri de noroc potrivit art. 10 alin. (1) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204514",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204514",
+     "sha256": "cf8dc8ab4be686011d159ffd707b19acead5ba11eca6859a4ee23d963bb5e61c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-119-2018",
+   "path": "ordin/onpcsb/2018/119",
+   "short": "Ordin onpcsb nr. 119/2018",
+   "title": "Ordinul nr. 119/2018 pentru aprobarea Normelor metodologice privind cererile de autorizare pentru efectuarea unor transferuri de fonduri în conformitate cu Regulamentul (UE) 2017/1.509 al Consiliului din 30 august 2017 privind măsuri restrictive împotriva Republicii Populare Democrate Coreene și de abrogare a Regulamentului (CE) nr. 329/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198275",
+   "versions": [
+    {
+     "from": "2018-03-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198275",
+     "sha256": "eac9cb6d5e3c495c664f350280eb574849cf4b0e8a93630a1d1436f6fd44f15b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-131-2018",
+   "path": "ordin/orniss/2018/131",
+   "short": "Ordin orniss nr. 131/2018",
+   "title": "Ordinul nr. 131/2018 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200974",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200974",
+     "sha256": "fb38d279fa808ce0f66254e879b98f3d86cca8d912a72d23e0f3d4d69fea9ab0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-157-2018",
+   "path": "ordin/orniss/2018/157",
+   "short": "Ordin orniss nr. 157/2018",
+   "title": "Ordinul nr. 157/2018 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205054",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205054",
+     "sha256": "6a36a0290ecbbdc54f5d82312db864a142d59e4c781345c3aa686998c7a215b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-prognoza-166-2018",
+   "path": "ordin/prognoza/2018/166",
+   "short": "Ordin prognoza nr. 166/2018",
+   "title": "Ordinul nr. 166/2018 privind stabilirea criteriilor pentru încadrarea ca \"produs cultural\" a proiectelor care pot beneficia de ajutor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203949",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203949",
+     "sha256": "cc44a08a360bd35a93ce48fb8fc1a49a18c7fd65dc133845dc81acf48e3a42c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-prognoza-317-2018",
+   "path": "ordin/prognoza/2018/317",
+   "short": "Ordin prognoza nr. 317/2018",
+   "title": "Ordinul nr. 317/2018 pentru completarea anexei nr. 1 la Ordinul președintelui Comisiei Naționale de Strategie și Prognoză nr. 202/2018 privind stabilirea Procedurii de selecție a beneficiarilor și a proiectelor și structurii indicative a bugetului proiectului, cu detalii privind cheltuielile eligibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209464",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209464",
+     "sha256": "cdff1356c0f200afdd806d5991d13dfbf8115ffa407c23d7e80f301d6e937da9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romaniipretutindeni-24-2018",
+   "path": "ordin/romaniipretutindeni/2018/24",
+   "short": "Ordin romaniipretutindeni nr. 24/2018",
+   "title": "Ordinul nr. 24/2018 pentru aprobarea Procedurii de control al activității desfășurate de aparatul propriu și entitățile aflate în subordinea, în coordonarea și sub autoritatea Ministerului pentru Românii de Pretutindeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197804",
+   "versions": [
+    {
+     "from": "2018-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197804",
+     "sha256": "834f2e7a5bc5050dcc6bf62f883367a8ab419f57181b31b83739874fcf8eb4ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romaniipretutindeni-3-2018",
+   "path": "ordin/romaniipretutindeni/2018/3",
+   "short": "Ordin romaniipretutindeni nr. 3/2018",
+   "title": "Ordinul nr. 3/2018 pentru aprobarea Ghidului beneficiarului - 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196853",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196853",
+     "sha256": "b652b280a8fc622d2674acdf3d485daa79d6aa3bdf8d5e04efd822e8ff46e0f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romaniipretutindeni-70-2018",
+   "path": "ordin/romaniipretutindeni/2018/70",
+   "short": "Ordin romaniipretutindeni nr. 70/2018",
+   "title": "Ordinul nr. 70/2018 pentru aprobarea Ghidului beneficiarului - 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197952",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197952",
+     "sha256": "c85c1aa89c0c4a7f9deefb9524344d83b55c87c9322ee1b12c4c64ea603e733a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romi-156-2018",
+   "path": "ordin/romi/2018/156",
+   "short": "Ordin romi nr. 156/2018",
+   "title": "Ordinul nr. 156/2018 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203756",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203756",
+     "sha256": "af381e7a5b0b03049af3d955778ba5ff08ad472757adbc783de1faee3bb6cff6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1021-2018",
    "path": "ordin/sanatate/2018/1021",
    "short": "Ordin sanatate nr. 1021/2018",
@@ -13248,6 +13983,336 @@
    ]
   },
   {
+   "slug": "ordin-sie-284-2018",
+   "path": "ordin/sie/2018/284",
+   "short": "Ordin sie nr. 284/2018",
+   "title": "Ordinul nr. 284/2018 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206994",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206994",
+     "sha256": "ac1200acd5f0618509cc7fdc113f515ca995dabb0343117e4fcf5367e51d03ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-285-2018",
+   "path": "ordin/sie/2018/285",
+   "short": "Ordin sie nr. 285/2018",
+   "title": "Ordinul nr. 285/2018 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206995",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206995",
+     "sha256": "0de24f4eefdf08d7f2681d61989f2bf42589a29fd65daf15435da92efeb53803"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-smap-126-2018",
+   "path": "ordin/smap/2018/126",
+   "short": "Ordin smap nr. 126/2018",
+   "title": "Ordinul nr. 126/2018 ORDIN nr. S.M.Ap.-126 din 27 noiembrie 2018 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208723",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208723",
+     "sha256": "bff6029bbaf385460843bd831357da8b815700c5034c8098b087a931eb67a05c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-114-2018",
+   "path": "ordin/sport/2018/114",
+   "short": "Ordin sport nr. 114/2018",
+   "title": "Ordinul nr. 114/2018 pentru aprobarea Metodologiei privind organizarea, funcționarea și finanțarea centrelor de tineret în cadrul Programului de centre de tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197928",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197928",
+     "sha256": "279d2f5e59b064925cd222cf7428774f3d94f1f45988916aee4f1aa5aa21b82e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-120-2018",
+   "path": "ordin/sport/2018/120",
+   "short": "Ordin sport nr. 120/2018",
+   "title": "Ordinul nr. 120/2018 privind aprobarea Metodologiei pentru organizarea de proiecte proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197929",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197929",
+     "sha256": "360f7b1c65ba217b04d0b4defe119f568161ce91f355a1358b06a5e3049e516c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-121-2018",
+   "path": "ordin/sport/2018/121",
+   "short": "Ordin sport nr. 121/2018",
+   "title": "Ordinul nr. 121/2018 privind aprobarea Metodologiei pentru Concursul național/local de proiecte de tineret, respectiv pentru Concursul național de proiecte studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197930",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197930",
+     "sha256": "e22fac2ac3a361f4189fcf8b6d72c1900270244b31e874dc233d9747d9b1211d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-123-2018",
+   "path": "ordin/sport/2018/123",
+   "short": "Ordin sport nr. 123/2018",
+   "title": "Ordinul nr. 123/2018 pentru aprobarea Metodologiilor privind organizarea taberelor cu caracter social pentru elevi și a taberelor pentru preșcolarii, elevii și studenții cu handicap, împreună cu asistenții personali și asistenții personali profesioniști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198094",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198094",
+     "sha256": "7c6723ac14ed40152636152aceec28a44fe90879d177301eccaed82f03a49acb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-124-2018",
+   "path": "ordin/sport/2018/124",
+   "short": "Ordin sport nr. 124/2018",
+   "title": "Ordinul nr. 124/2018 pentru aprobarea Metodologiei și regulamentului de tabără privind organizarea și desfășurarea activităților de tabără de odihnă în centrele de agrement/bazele turistice proprii Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198018",
+   "versions": [
+    {
+     "from": "2018-02-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198018",
+     "sha256": "5c986ba6a4ca5630f6a2a878be9bb84535c271045cf1b9f3494b594b88535358"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-157-2018",
+   "path": "ordin/sport/2018/157",
+   "short": "Ordin sport nr. 157/2018",
+   "title": "Ordinul nr. 157/2018 pentru aprobarea Procedurilor și condițiilor privind autorizarea organizării și desfășurării pe teritoriul României a campionatelor mondiale, europene și regionale și a participării reprezentativelor naționale la campionatele mondiale, europene și regionale organizate în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198537",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198537",
+     "sha256": "431fffbdbb53c7cdea911022621e6cb829717867e31adfa247241cf393c78217"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-201-2018",
+   "path": "ordin/sport/2018/201",
+   "short": "Ordin sport nr. 201/2018",
+   "title": "Ordinul nr. 201/2018 pentru modificarea Metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului, în anul 2018, aprobată prin Ordinul ministrului tineretului și sportului nr. 14/2018 pentru aprobarea programelor sportive de utilitate publică și a Metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului în anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198770",
+   "versions": [
+    {
+     "from": "2018-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198770",
+     "sha256": "a2d24aeef967ed8f3f198b18c44d6f07bdeb0be3014e1313c7c4ac0cae8b419b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-277-2018",
+   "path": "ordin/sport/2018/277",
+   "short": "Ordin sport nr. 277/2018",
+   "title": "Ordinul nr. 277/2018 pentru aprobarea Metodologiei privind acreditarea persoanelor juridice și persoanelor fizice autorizate în vederea colaborării privind desfășurarea de activități de tabără pentru Programul Național \"Tabere Studențești 2018\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199774",
+   "versions": [
+    {
+     "from": "2018-04-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199774",
+     "sha256": "ab30546b0d67d34cf2546e6e57a943710287303c8ab7b8a9724bad9a0e98be5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-278-2018",
+   "path": "ordin/sport/2018/278",
+   "short": "Ordin sport nr. 278/2018",
+   "title": "Ordinul nr. 278/2018 pentru aprobarea Metodologiei privind organizarea taberelor naționale și tematice pentru copii și tineri, în centrele de agrement ale Ministerului Tineretului și Sportului, în anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199775",
+   "versions": [
+    {
+     "from": "2018-04-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199775",
+     "sha256": "56704449c0f1ee5687fa779b07c9230d7a63af32328ec062e5c730cff43b5f25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-290-2018",
+   "path": "ordin/sport/2018/290",
+   "short": "Ordin sport nr. 290/2018",
+   "title": "Ordinul nr. 290/2018 pentru aprobarea Metodologiei privind organizarea și desfășurarea Programului național \"Tabere studențești\" 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199817",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199817",
+     "sha256": "323d28c8ffb55433cf6bac1ee0bdbedc768f6efab8ec974f7e4d1599480846b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-445-2018",
+   "path": "ordin/sport/2018/445",
+   "short": "Ordin sport nr. 445/2018",
+   "title": "Ordinul nr. 445/2018 privind aprobarea Programului național de utilitate publică \"România în mișcare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202101",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202101",
+     "sha256": "87e951d7c208cc24e032578207537582a76c683efffba0704fd98383a553e8d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-460-2018",
+   "path": "ordin/sport/2018/460",
+   "short": "Ordin sport nr. 460/2018",
+   "title": "Ordinul nr. 460/2018 pentru modificarea Metodologiei privind organizarea și desfășurarea Programului național \"Tabere studențești\" 2018, aprobată prin Ordinul ministrului tineretului și sportului nr. 290/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201784",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201784",
+     "sha256": "124d6e42b7c6b8cd65c2ed438ebdcaf6d8487807d65585de0495bcfe37431420"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-519-2018",
+   "path": "ordin/sport/2018/519",
+   "short": "Ordin sport nr. 519/2018",
+   "title": "Ordinul nr. 519/2018 privind înființarea Proiectului național de tabere \"Solidaritatea\" destinat copiilor și tinerilor proveniți din familiile afectate de calamități naturale, precum inundații, viituri, cutremure, incendii și alte catastrofe naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202641",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202641",
+     "sha256": "1fed4a947dbbacb040408a12910351de1c254c0de7c993952ac68dbb65167d3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-30-2018",
+   "path": "ordin/spp/2018/30",
+   "short": "Ordin spp nr. 30/2018",
+   "title": "Ordinul nr. 30/2018 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206422",
+   "versions": [
+    {
+     "from": "2018-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206422",
+     "sha256": "bb3244eb65ad9cc812d82630ce419ab20e3f6de6789e8f50d0b38d425f6ef6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-31-2018",
+   "path": "ordin/spp/2018/31",
+   "short": "Ordin spp nr. 31/2018",
+   "title": "Ordinul nr. 31/2018 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206423",
+   "versions": [
+    {
+     "from": "2018-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206423",
+     "sha256": "97af23b24ea6bef2ec16a930d6c09be0ed849c49ccce377edd5ec28385c71636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1020-2018",
+   "path": "ordin/sri/2018/1020",
+   "short": "Ordin sri nr. 1020/2018",
+   "title": "Ordinul nr. 1.020/2018 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208183",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208183",
+     "sha256": "dd9933d6b7054a969146c04efae533111b88532a78e6fa6f0201dc502398127d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1021-2018",
+   "path": "ordin/sri/2018/1021",
+   "short": "Ordin sri nr. 1021/2018",
+   "title": "Ordinul nr. 1.021/2018 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și gradați profesioniști din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208184",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208184",
+     "sha256": "af06206e1e60fc4936b97fa07dc7c9ea6cce6a2807081761360ec2ad601064a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-785-2018",
+   "path": "ordin/sts/2018/785",
+   "short": "Ordin sts nr. 785/2018",
+   "title": "Ordinul nr. 785/2018 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206671",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206671",
+     "sha256": "174b3af9c044f9764e0d8fb70a489a3b9c500234325d72ad6fcfa04be284a224"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-786-2018",
+   "path": "ordin/sts/2018/786",
+   "short": "Ordin sts nr. 786/2018",
+   "title": "Ordinul nr. 786/2018 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206672",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206672",
+     "sha256": "b2fafecd945d345b0d835a0920a1168f3162bf2456dd356e8a4dda4b5598ff92"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1018-2018",
    "path": "ordin/transporturi/2018/1018",
    "short": "Ordin transporturi nr. 1018/2018",
@@ -14264,6 +15329,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201376",
      "sha256": "e8c7f12a0491ddf4f05cd58f984dbf454540a3db383155ad6193be49162816a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1179-2018",
+   "path": "ordin/turism/2018/1179",
+   "short": "Ordin turism nr. 1179/2018",
+   "title": "Ordinul nr. 1.179/2018 pentru modificarea și completarea Normelor metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206107",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206107",
+     "sha256": "6dd58a7da0650882df1595628976a80f94ef8bee555fd6c259c5f0326dfaa104"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1183-2018",
+   "path": "ordin/turism/2018/1183",
+   "short": "Ordin turism nr. 1183/2018",
+   "title": "Ordinul nr. 1.183/2018 pentru aprobarea modelului, conținutului, modalității de depunere și gestionare a \"Declarației privind activitatea desfășurată de către agențiile de turism organizatoare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206072",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206072",
+     "sha256": "6fd999e46f21d97d35a4f856c28ca1523fc929e16748c4a6fd4f192515c90534"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-798-2018",
+   "path": "ordin/turism/2018/798",
+   "short": "Ordin turism nr. 798/2018",
+   "title": "Ordinul nr. 798/2018 pentru modificarea anexei nr. 1.5 la Normele metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200518",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200518",
+     "sha256": "a90f8473bdcf3b333b4834278b531621da9cd3c40cc176f5cd02f8cee778e7f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-984-2018",
+   "path": "ordin/turism/2018/984",
+   "short": "Ordin turism nr. 984/2018",
+   "title": "Ordinul nr. 984/2018 pentru modificarea și completarea Normelor metodologice privind desfășurarea activității de agrement nautic, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 292/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202673",
+   "versions": [
+    {
+     "from": "2018-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202673",
+     "sha256": "0a33fdbf6e4b73e046406cfcd2b54855c33fa0ea2f795f437cacdf1158129684"
     }
    ]
   }

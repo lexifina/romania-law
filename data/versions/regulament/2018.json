@@ -3,6 +3,21 @@
  "shard": "regulament/2018",
  "acts": [
   {
+   "slug": "regulament-arhitecti-1404-2018",
+   "path": "regulament/arhitecti/2018/1404",
+   "short": "Regulament arhitecti nr. 1404/2018",
+   "title": "Regulamentul nr. 1.404/2018 privind înființarea, organizarea și funcționarea filialelor teritoriale ale Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203727",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203727",
+     "sha256": "1e2db821261707af38920717ae8f107459f8f4f6371d9287a6d0d49fbfe71e5e"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-1-2018",
    "path": "regulament/asf/2018/1",
    "short": "Regulament asf nr. 1/2018",
@@ -269,6 +284,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209590",
      "sha256": "ab9787f15e9fb99810763568e21f6716b05ed476a3f6f82a9acabfa031bbc081"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-disciplinafunctionari-966-2018",
+   "path": "regulament/disciplinafunctionari/2018/966",
+   "short": "Regulament disciplinafunctionari nr. 966/2018",
+   "title": "Regulamentul nr. 966/2018 de organizare și funcționare al Comisiei de disciplină pentru înalții funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203210",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203210",
+     "sha256": "35359045b580bde6b0769216cb74eb7e8dd905ab379462b30b09b9e13537685f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2018",
+   "path": "regulament/fgdb/2018/1",
+   "short": "Regulament fgdb nr. 1/2018",
+   "title": "Regulamentul nr. 1/2018 pentru modificarea și completarea Regulamentului Fondului de garantare a depozitelor bancare nr. 2/2016 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197950",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197950",
+     "sha256": "9418d3d7d4ffb11fc792cdb29a98306b3771228a71e69e59e451eae55a50e081"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-3-2018",
+   "path": "regulament/fgdb/2018/3",
+   "short": "Regulament fgdb nr. 3/2018",
+   "title": "Regulamentul nr. 3/2018 privind selectarea instituțiilor de credit pentru a fi mandatate de Fondul de garantare a depozitelor bancare să efectueze plăți de compensații către deponenții garantați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208958",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208958",
+     "sha256": "7e7162da828f1058f6e33e20418b0499838d8aa03ae3ba3c7066041a1c3a4294"
     }
    ]
   }

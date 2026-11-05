@@ -16,6 +16,21 @@
      "sha256": "b89dcc3400cbc17c3a9c9f095214479c795dca811b950f8602a95a099f641582"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-fga-1-2019",
+   "path": "instructiuni/fga/2019/1",
+   "short": "Instrucțiuni fga nr. 1/2019",
+   "title": "Instrucțiunile nr. 1/2019 privind întocmirea și depunerea situațiilor financiare anuale la 31 decembrie 2018 de către Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212058",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212058",
+     "sha256": "deec3eae93550cffccab981c7c11caf9d24379397751cca55dca97d4c17fb9ae"
+    }
+   ]
   }
  ]
 }

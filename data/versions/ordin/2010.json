@@ -3,6 +3,36 @@
  "shard": "ordin/2010",
  "acts": [
   {
+   "slug": "ordin-achizitii-180-2010",
+   "path": "ordin/achizitii/2010/180",
+   "short": "Ordin achizitii nr. 180/2010",
+   "title": "Ordinul nr. 180/2010 privind abrogarea Ordinului președintelui Autorității Naționale pentru Reglementarea și Monitorizarea Achizițiilor Publice nr. 183/2006 privind aplicarea dispozițiilor referitoare la contractul de publicitate media",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119511",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119511",
+     "sha256": "e7aec721baeeabdc3f91872d860cb2dedb3906bb239a4e47b78a69df69e2b295"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-314-2010",
+   "path": "ordin/achizitii/2010/314",
+   "short": "Ordin achizitii nr. 314/2010",
+   "title": "Ordinul nr. 314/2010 privind punerea în aplicare a certificatului de participare la licitații cu ofertă independentă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122837",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122837",
+     "sha256": "5f4da9f795662a7014135570f739991c671b2cfe500891cc563790722cd285c5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-104-2010",
    "path": "ordin/agricultura/2010/104",
    "short": "Ordin agricultura nr. 104/2010",
@@ -1968,6 +1998,96 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1931-2010",
+   "path": "ordin/anfp/2010/1931",
+   "short": "Ordin anfp nr. 1931/2010",
+   "title": "Ordinul nr. 1.931/2010 pentru modificarea Ordinului președintelui Agenției Naționale a Funcționarilor Publici nr. 1.233/2009 privind stabilirea domeniilor prioritare în care se organizează programe de formare pentru funcționari publici care ocupă funcții publice generale de conducere și execuție, precum și funcții publice specifice asimilate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123338",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123338",
+     "sha256": "9cb40fd3b9a650d05b9f999bab74fa1a8e8b7c178168fe300b32b06538d24ae5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-1952-2010",
+   "path": "ordin/anfp/2010/1952",
+   "short": "Ordin anfp nr. 1952/2010",
+   "title": "Ordinul nr. 1.952/2010 privind modificarea și completarea Ordinului președintelui Agenției Naționale a Funcționarilor Publici nr. 13.601/2008 pentru aprobarea termenelor și a formatului standard de transmitere a datelor și informațiilor privind planul anual de perfecționare profesională și fondurile alocate în scopul instruirii funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124432",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124432",
+     "sha256": "f19cbeceb7c18f50be651b772fd3dc33cf0d63464d4d987ebf800bb3c18b62b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-383-2010",
+   "path": "ordin/anfp/2010/383",
+   "short": "Ordin anfp nr. 383/2010",
+   "title": "Ordinul nr. 383/2010 pentru aprobarea instrucțiunilor și a formatelor-standard de întocmire a Planului de repartizare a managerilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117188",
+   "versions": [
+    {
+     "from": "2010-03-18",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117188",
+     "sha256": "7c4b136e065f5576875450da125c9056241f86dd4b3b44fcdc9877cd566a5a66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-865-2010",
+   "path": "ordin/anfp/2010/865",
+   "short": "Ordin anfp nr. 865/2010",
+   "title": "Ordinul nr. 865/2010 privind modificarea art. 8 alin. (1) din Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 4.500/2008 pentru stabilirea unui cadru unitar privind metodele de completare și transmitere a datelor și informațiilor referitoare la respectarea normelor de conduită de către funcționarii publici și la implementarea procedurilor disciplinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120881",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120881",
+     "sha256": "dd81da7a7114661cbf2917313d48028031ccb58081d35a3953e6b6f858c14520"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-56-2010",
+   "path": "ordin/anofm/2010/56",
+   "short": "Ordin anofm nr. 56/2010",
+   "title": "Ordinul nr. 56/2010 privind modificarea Schemei de ajutor de minimis \"Ocuparea temporară a forței de muncă din rândul șomerilor pentru dezvoltarea comunităților locale\", aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 308/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116868",
+   "versions": [
+    {
+     "from": "2010-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116868",
+     "sha256": "ee9b916ddfa4cb1d8f885c6824fda23ff0716061fd114ba98e4a89c6fa80c227"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-599-2010",
+   "path": "ordin/anofm/2010/599",
+   "short": "Ordin anofm nr. 599/2010",
+   "title": "Ordinul nr. 599/2010 pentru aprobarea modelului declarației privind asigurarea în sistemul asigurărilor pentru șomaj a persoanelor fizice care realizează venituri de natură profesională, altele decât cele salariale, pentru care se datorează contribuția individuală la bugetul asigurărilor pentru șomaj, conform art. III alin. (2) din Ordonanța de urgență a Guvernului nr. 58/2010 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal și alte măsuri financiar-fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121588",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121588",
+     "sha256": "e9d6710c1ede2a58cadbe7159a365959b7ab82dc22522f39d7d69f6d6b44532f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-103-2010",
    "path": "ordin/anpc/2010/103",
    "short": "Ordin anpc nr. 103/2010",
@@ -2808,6 +2928,36 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-343-2010",
+   "path": "ordin/anrsc/2010/343",
+   "short": "Ordin anrsc nr. 343/2010",
+   "title": "Ordinul nr. 343/2010 pentru aprobarea Normei tehnice privind repartizarea consumurilor de energie termică între consumatorii din imobilele de tip condominiu, în cazul folosirii sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120769",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120769",
+     "sha256": "2a633e7e9070896c179deb9fd6be46db0947aed13efd0782e8966fd08dcc8dac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-435-2010",
+   "path": "ordin/anrsc/2010/435",
+   "short": "Ordin anrsc nr. 435/2010",
+   "title": "Ordinul nr. 435/2010 pentru modificarea art. 2 alin. (1) din Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 493/2009 privind modul de achitare a contribuției de 0,1% fixate în anexa la Hotărârea Guvernului nr. 671/2007 privind aprobarea Regulamentului de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121843",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121843",
+     "sha256": "c040ea51d58072fab788c8e63a40e4f5052a87ef347601b081cb5f94933d7e1b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-101-2010",
    "path": "ordin/ansvsa/2010/101",
    "short": "Ordin ansvsa nr. 101/2010",
@@ -3539,6 +3689,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116378",
      "sha256": "a729d044a7e9c54d3962a21b047afab59137de4f2c48118cbf14b61a5927b292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-168-2010",
+   "path": "ordin/antidoping/2010/168",
+   "short": "Ordin antidoping nr. 168/2010",
+   "title": "Ordinul nr. 168/2010 privind aprobarea Listei interzise pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124596",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124596",
+     "sha256": "541ea2b892757c433e4b0ed6e0ec3227119633a0d2de86c047f6168937422cf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-73-2010",
+   "path": "ordin/antidoping/2010/73",
+   "short": "Ordin antidoping nr. 73/2010",
+   "title": "Ordinul nr. 73/2010 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116395",
+   "versions": [
+    {
+     "from": "2010-02-22",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116395",
+     "sha256": "fec5cf389141be3c77687ecacdc43db801ccb32abc899abc610a3b435a2ee1d6"
     }
    ]
   },
@@ -4803,6 +4983,21 @@
    ]
   },
   {
+   "slug": "ordin-cncan-334-2010",
+   "path": "ordin/cncan/2010/334",
+   "short": "Ordin cncan nr. 334/2010",
+   "title": "Ordinul nr. 334/2010 pentru aprobarea Normelor de securitate nucleară privind amplasarea centralelor nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124419",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124419",
+     "sha256": "8ffe3d7fe065451bef7c3df2126e59aaea856a831abe3578ad2275c3ad4db64f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-2010",
    "path": "ordin/cnvm/2010/1",
    "short": "Ordin cnvm nr. 1/2010",
@@ -5024,6 +5219,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122019",
      "sha256": "8259276a3854e9d91fe0846859ce321d5f20c2485e6315e0279a2fb86a91c63e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-152-2010",
+   "path": "ordin/conas/2010/152",
+   "short": "Ordin conas nr. 152/2010",
+   "title": "Ordinul nr. 152/2010 privind aprobarea taxei de acreditare și reevaluare a spitalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124710",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124710",
+     "sha256": "7a21a493c764c1f147db954dfa48337253c61cde02617fe681f50eece2844a38"
     }
    ]
   },
@@ -6089,6 +6299,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117031",
      "sha256": "6c37d51e31c3d0e670238eb8b5e19bfe3386378b1fec642043a1fab99546f00b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-258-2010",
+   "path": "ordin/dizabilitati/2010/258",
+   "short": "Ordin dizabilitati nr. 258/2010",
+   "title": "Ordinul nr. 258/2010 privind aprobarea Metodologiei de selectare și finanțare a proiectelor în domeniul protecției persoanelor cu handicap pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117521",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117521",
+     "sha256": "1628f890136c1a13b8a6b45194749ba722130bfd4f3fe5167a3e44fa010a1778"
     }
    ]
   },
@@ -8628,6 +8853,81 @@
    ]
   },
   {
+   "slug": "ordin-functiepublica-200-2010",
+   "path": "ordin/functiepublica/2010/200",
+   "short": "Ordin functiepublica nr. 200/2010",
+   "title": "Ordinul nr. 200/2010 privind indicele de inflație utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116206",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116206",
+     "sha256": "def01489bf7ca44818fa2c388a366f9e2bc0e06541aea91b242652ebef0f0051"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1865-2010",
+   "path": "ordin/ins/2010/1865",
+   "short": "Ordin ins nr. 1865/2010",
+   "title": "Ordinul nr. 1.865/2010 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125308",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125308",
+     "sha256": "01b86d6cfd7c327f9e2aa45d2acad50e949bb99d081a9a2de616ab2aab674b25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-635-2010",
+   "path": "ordin/ins/2010/635",
+   "short": "Ordin ins nr. 635/2010",
+   "title": "Ordinul nr. 635/2010 privind stabilirea Metodologiei cercetării statistice referitoare la cererea turistică a rezidenților în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115457",
+   "versions": [
+    {
+     "from": "2010-01-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115457",
+     "sha256": "23b0c3ab1f449a72f114c2ab17e4ececb1d257cab659f67ecabfc42ad4632292"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-636-2010",
+   "path": "ordin/ins/2010/636",
+   "short": "Ordin ins nr. 636/2010",
+   "title": "Ordinul nr. 636/2010 privind stabilirea Metodologiei cercetării statistice referitoare la cheltuielile turistice ale nerezidenților cazați în structurile de cazare turistică private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115412",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115412",
+     "sha256": "9b01bef94181b7464511385e2704486495aa664c87f99e8197443bfb490c75b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-340-2010",
+   "path": "ordin/integritate/2010/340",
+   "short": "Ordin integritate nr. 340/2010",
+   "title": "Ordinul nr. 340/2010 privind aprobarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125293",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125293",
+     "sha256": "dce828a95b80ae8c800bcc14cc1c984a60b09603f5ff73b4bf68d5777912ac15"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-104-2010",
    "path": "ordin/interne/2010/104",
    "short": "Ordin interne nr. 104/2010",
@@ -9509,6 +9809,111 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118064",
      "sha256": "05cb63910e7b485a7d0b174217fa157927ea75047bdd8f8c3644f5ee5154e4da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-153-2010",
+   "path": "ordin/isc/2010/153",
+   "short": "Ordin isc nr. 153/2010",
+   "title": "Ordinul nr. 153/2010 pentru aprobarea Procedurii privind evaluarea laboratoarelor de analiză și încercări în activitatea de construcții în vederea autorizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117356",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117356",
+     "sha256": "5c3082523ec20bbc335286e12be12bdd261f0afb186b523e68506603c2283b99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-154-2010",
+   "path": "ordin/isc/2010/154",
+   "short": "Ordin isc nr. 154/2010",
+   "title": "Ordinul nr. 154/2010 pentru aprobarea Procedurii de autorizare a diriginților de șantier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117303",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117303",
+     "sha256": "16d712d2e0a9cff8f2c6368c3a9a8d67b44b749cf4335fc15e71081d19a10f6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-12-2010",
+   "path": "ordin/iscir/2010/12",
+   "short": "Ordin iscir nr. 12/2010",
+   "title": "Ordinul nr. 12/2010 pentru modificarea art. 4 din Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 465/2009 privind aprobarea Metodologiei de atestare a personalului tehnic de specialitate în domeniul ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115550",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115550",
+     "sha256": "7144b9b55e34c4f85209a3ff2eb2b60683785818741e610e7de41482e5a8f21f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-210-2010",
+   "path": "ordin/iscir/2010/210",
+   "short": "Ordin iscir nr. 210/2010",
+   "title": "Ordinul nr. 210/2010 privind completarea anexei la Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 526/2007 privind dobândirea calității de formator în domeniul responsabililor cu supravegherea și verificarea tehnică a instalațiilor - RSVTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116836",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116836",
+     "sha256": "651ed557d1e405d3dcf8b785bc35b07486423e7cc7b1be22b49d3c05da75332b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-361-2010",
+   "path": "ordin/iscir/2010/361",
+   "short": "Ordin iscir nr. 361/2010",
+   "title": "Ordinul nr. 361/2010 privind transmiterea on-line la Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat a rapoartelor de monitorizare a ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118715",
+   "versions": [
+    {
+     "from": "2010-06-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118715",
+     "sha256": "95d57ee5c1f09d952a005df241def35322fa5e3229bced03e4f510d1a617127d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-444-2010",
+   "path": "ordin/iscir/2010/444",
+   "short": "Ordin iscir nr. 444/2010",
+   "title": "Ordinul nr. 444/2010 privind prorogarea termenului prevăzut la art. 6 din Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 361/2010 privind transmiterea on-line la Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat a rapoartelor de monitorizare a ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120393",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120393",
+     "sha256": "bf30f0ea3d696b60e01dd37c4bf04715939a73e7bf0f8f43bb09d3820309b61e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-466-2010",
+   "path": "ordin/iscir/2010/466",
+   "short": "Ordin iscir nr. 466/2010",
+   "title": "Ordinul nr. 466/2010 privind modificarea și completarea Metodologiei de atestare a personalului de specialitate în domeniul ISCIR, aprobată prin Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 465/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121498",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121498",
+     "sha256": "b285d74630d1627942d455bb643d174173ef3026fa517f86bbb0f8df77314c6a"
     }
    ]
   },
@@ -10878,6 +11283,36 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-162-2010",
+   "path": "ordin/metrologie/2010/162",
+   "short": "Ordin metrologie nr. 162/2010",
+   "title": "Ordinul nr. 162/2010 privind modificarea și completarea Ordinului directorului general al Biroului Român de Metrologie Legală nr. 48/2010 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121705",
+   "versions": [
+    {
+     "from": "2010-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121705",
+     "sha256": "c823b05464a05151423ef4b576f95b4510c20ccefc784a2952f35687038b86db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-48-2010",
+   "path": "ordin/metrologie/2010/48",
+   "short": "Ordin metrologie nr. 48/2010",
+   "title": "Ordinul nr. 48/2010 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117261",
+   "versions": [
+    {
+     "from": "2010-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117261",
+     "sha256": "9507ca7c83780dfa992b87fe7b6bd1cd53d6ebff4ab1e22fd0c109e7170b83e1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1112-2010",
    "path": "ordin/munca/2010/1112",
    "short": "Ordin munca nr. 1112/2010",
@@ -11699,6 +12134,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118911",
      "sha256": "18246174e2a2c43aff8ba13201faa063c2a1a959191372de79a267e01f17b9d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-121-2010",
+   "path": "ordin/orniss/2010/121",
+   "short": "Ordin orniss nr. 121/2010",
+   "title": "Ordinul nr. 121/2010 pentru aprobarea Procedurii naționale de lucru privind zonarea TEMPEST",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118316",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118316",
+     "sha256": "ae96a80cf4d56542030ad10f6b1749dda34f150f6bad1b5b4f6c948a43d5c5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-7-2010",
+   "path": "ordin/orniss/2010/7",
+   "short": "Ordin orniss nr. 7/2010",
+   "title": "Ordinul nr. 7/2010 pentru aprobarea Directivei INFOSEC privind Catalogul național cu pachete, produse și profile de protecție INFOSEC-INFOSEC 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115945",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115945",
+     "sha256": "e082ab9de346949633135087b7a15b3df1436e25e00f94cbcd6645bc5fac0bf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-8-2010",
+   "path": "ordin/orniss/2010/8",
+   "short": "Ordin orniss nr. 8/2010",
+   "title": "Ordinul nr. 8/2010 privind aprobarea Metodologiei de evaluare și certificare a pachetelor, produselor și profilelor de protecție INFOSEC-INFOSEC 14",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115947",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115947",
+     "sha256": "d5c79514a985114aa3ffc9325e8d26a751ebb03e2c786e613d434557b2a5c32f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-9-2010",
+   "path": "ordin/orniss/2010/9",
+   "short": "Ordin orniss nr. 9/2010",
+   "title": "Ordinul nr. 9/2010 pentru aprobarea Catalogului național cu pachete, produse și profile de protecție INFOSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116213",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116213",
+     "sha256": "573b89abf7d7a65dd12825d55fdf1702dbcc9461a1002ba34dc275b851804ec0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-230-2010",
+   "path": "ordin/parchet/2010/230",
+   "short": "Ordin parchet nr. 230/2010",
+   "title": "Ordinul nr. 230/2010 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea funcției publice vacante de manager economic și a celorlalte posturi vacante sau temporar vacante de funcționari publici și personal contractual din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122867",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122867",
+     "sha256": "77e9aa14f263a3f849ada5a1fba1694315db7afc0b9cacad7c42c37592e488b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-114-2010",
+   "path": "ordin/revolutionari/2010/114",
+   "short": "Ordin revolutionari nr. 114/2010",
+   "title": "Ordinul nr. 114/2010 privind certificarea listei finale cuprinzând persoanele cărora li s-au eliberat noile tipuri de certificate preschimbate conform prevederilor Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120316",
+   "versions": [
+    {
+     "from": "2010-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120316",
+     "sha256": "2151be0f9dc199aa71456375b1f12a3e3b55b4aeed3255079b6a9805c38237b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-115-2010",
+   "path": "ordin/revolutionari/2010/115",
+   "short": "Ordin revolutionari nr. 115/2010",
+   "title": "Ordinul nr. 115/2010 pentru aprobarea Protocolului încheiat între Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 și Autoritatea Națională pentru Sport și Tineret privind trimiterea în tabere de odihnă a copiilor-urmași ai eroilor martiri, precum și a celor cu părinți care dețin certificate doveditoare ale calității de revoluționar eliberate în baza prevederilor Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121931",
+   "versions": [
+    {
+     "from": "2010-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121931",
+     "sha256": "427f7aaec426c8631eb18ab5b2956d7b13f04a8a6bce56a830f3978e15203d28"
     }
    ]
   },
@@ -13649,6 +14189,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120735",
      "sha256": "672bce4e78c783c0b0691a29222cf2525632f9b53707da1820c1c6b6dceaa1af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-24-2010",
+   "path": "ordin/sts/2010/24",
+   "short": "Ordin sts nr. 24/2010",
+   "title": "Ordinul nr. 24/2010 pentru aprobarea declasificării corespondenței Partidului Comunist Român nr. 4985/4921, clasificată sub nr. 03652/13.12.1972",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120868",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120868",
+     "sha256": "1e39ef8e20b5f7a5d583f370b2f5afea11b29fdab98d890e5ae675f3e1a27012"
     }
    ]
   },

@@ -616,6 +616,36 @@
      "sha256": "71aed956a10381de9ea9a03626eb471aa4c9e91b53e6636b0bc7a1ac9a4eca75"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-3-2010",
+   "path": "regulament/fgdb/2010/3",
+   "short": "Regulament fgdb nr. 3/2010",
+   "title": "Regulamentul nr. 3/2010 pentru modificarea Regulamentului Fondului de garantare a depozitelor în sistemul bancar nr. 3/2009 privind transmiterea către Fondul de garantare a depozitelor în sistemul bancar a situației deponenților garantați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120052",
+   "versions": [
+    {
+     "from": "2010-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120052",
+     "sha256": "a757332dfe70864c96cf537b853b60c07b998918ac7c301b7533e67624d45dfa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-5-2010",
+   "path": "regulament/fgdb/2010/5",
+   "short": "Regulament fgdb nr. 5/2010",
+   "title": "Regulamentul nr. 5/2010 pentru modificarea și completarea Regulamentului Fondului de garantare a depozitelor în sistemul bancar nr. 3/2009 privind transmiterea către Fondul de garantare a depozitelor în sistemul bancar a situației deponenților garantați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121531",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121531",
+     "sha256": "d32d2c5884ab05f91c58aba90e2b66ed8cff3a2fb7b9faaee5d80623a99e20cd"
+    }
+   ]
   }
  ]
 }

@@ -586,6 +586,66 @@
      "sha256": "23bf81d9882028fa6fc6a4e8cc366e99f9c4bee8f23c0def823d7e44d0e56bb4"
     }
    ]
+  },
+  {
+   "slug": "ordin-turism-1-1994",
+   "path": "ordin/turism/1994/1",
+   "short": "Ordin turism nr. 1/1994",
+   "title": "Ordinul nr. 1/1994 privind aprobarea sistemelor tarifare care vor fi practicate în anul 1994 în turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3773",
+   "versions": [
+    {
+     "from": "1994-02-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3773",
+     "sha256": "808a8db4da2347b57131fa488d56ba2ecbf2a699333d8fd1afa6a00547eccb3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-207-1994",
+   "path": "ordin/turism/1994/207",
+   "short": "Ordin turism nr. 207/1994",
+   "title": "Ordinul nr. 207/1994 pentru aprobarea Normelor metodologice privind acordarea licențelor și a brevetelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4703",
+   "versions": [
+    {
+     "from": "1995-01-12",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4703",
+     "sha256": "a05e5eed07eb47c05d50391cedb07e59eac437c2f2573acbb39323cb0816487f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-216-1994",
+   "path": "ordin/turism/1994/216",
+   "short": "Ordin turism nr. 216/1994",
+   "title": "Ordinul nr. 216/1994 privind sistemele tarifare care vor fi practicate în anul 1995, conform anexelor nr. 1 - 4, care fac parte integrantă din prezentul ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4719",
+   "versions": [
+    {
+     "from": "1995-02-07",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4719",
+     "sha256": "a6abeb0c89370b3a22edb57fd311fd583610fa7ba6b98418c5901b58957b86ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-83-1994",
+   "path": "ordin/turism/1994/83",
+   "short": "Ordin turism nr. 83/1994",
+   "title": "Ordinul nr. 83/1994 pentru modificarea Ordinului ministrului turismului nr. 1/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33644",
+   "versions": [
+    {
+     "from": "1994-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33644",
+     "sha256": "2d0e6941d71c3a2c5b082f93633bf2725ac2b0de6ec118c2c8e35cf302e67ea6"
+    }
+   ]
   }
  ]
 }

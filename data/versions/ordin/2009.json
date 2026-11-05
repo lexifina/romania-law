@@ -3,6 +3,66 @@
  "shard": "ordin/2009",
  "acts": [
   {
+   "slug": "ordin-achizitii-107-2009",
+   "path": "ordin/achizitii/2009/107",
+   "short": "Ordin achizitii nr. 107/2009",
+   "title": "Ordinul nr. 107/2009 pentru aprobarea Regulamentului privind supravegherea modului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109411",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109411",
+     "sha256": "9c2461cd570d317c43a07699ef845bcd7155027467b93ccd1cc67cd109528a8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-122-2009",
+   "path": "ordin/achizitii/2009/122",
+   "short": "Ordin achizitii nr. 122/2009",
+   "title": "Ordinul nr. 122/2009 pentru modificarea Regulamentului privind supravegherea modului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii, aprobat prin Ordinul președintelui Autorității Naționale pentru Reglementarea și Monitorizarea Achizițiilor Publice nr. 107/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110555",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110555",
+     "sha256": "4e191169d083eac77479dc1723c5e6ff78c65086f6a283f5d98aa5c4f80ad396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-51-2009",
+   "path": "ordin/achizitii/2009/51",
+   "short": "Ordin achizitii nr. 51/2009",
+   "title": "Ordinul nr. 51/2009 privind accelerarea procedurilor de licitație restrânsă și negociere cu publicare prealabilă a unui anunț de participare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103477",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103477",
+     "sha256": "476ea3aa176c2ca22283a9fdf4ee60b8f6cc38306055708bb316f5e19cdfff7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-80-2009",
+   "path": "ordin/achizitii/2009/80",
+   "short": "Ordin achizitii nr. 80/2009",
+   "title": "Ordinul nr. 80/2009 pentru abrogarea Ordinului președintelui Autorității Naționale pentru Reglementarea și Monitorizarea Achizițiilor Publice nr. 155/2006 privind aprobarea Ghidului pentru atribuirea contractelor de achiziție publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105409",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105409",
+     "sha256": "68f29c70364a67af57d986bb16ce2fae3dc42d2dd86ed6a5e7aadff8a31ee3ec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-102-2009",
    "path": "ordin/agricultura/2009/102",
    "short": "Ordin agricultura nr. 102/2009",
@@ -2208,6 +2268,51 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1355-2009",
+   "path": "ordin/anfp/2009/1355",
+   "short": "Ordin anfp nr. 1355/2009",
+   "title": "Ordinul nr. 1.355/2009 pentru aprobarea Instrucțiunilor de completare a formatelor-standard și de transmitere a datelor și informațiilor cu privire la evidența funcțiilor publice și a funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110350",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110350",
+     "sha256": "a0be18aa0ee0bf28311737df741faca597ebd00512e7ef01a52b8984c349cbcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-1496-2009",
+   "path": "ordin/anfp/2009/1496",
+   "short": "Ordin anfp nr. 1496/2009",
+   "title": "Ordinul nr. 1.496/2009 pentru aprobarea formatului standard, a termenelor și modalității de transmitere a datelor privind comisiile paritare și acordurile colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111815",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111815",
+     "sha256": "7d3833d17ff5e7649f4090f4efd765050d048d33946064bea037a400856320f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-1932-2009",
+   "path": "ordin/anfp/2009/1932",
+   "short": "Ordin anfp nr. 1932/2009",
+   "title": "Ordinul nr. 1.932/2009 pentru aprobarea Regulamentului privind organizarea și desfășurarea examenului de promovare în clasă a funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115116",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115116",
+     "sha256": "149ba68d3caceee7aa1ebe945501a716794253e2a1c4e22bdb1c0b8c7ed75194"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-130-2009",
    "path": "ordin/anpc/2009/130",
    "short": "Ordin anpc nr. 130/2009",
@@ -3138,6 +3243,36 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-132-2009",
+   "path": "ordin/anrsc/2009/132",
+   "short": "Ordin anrsc nr. 132/2009",
+   "title": "Ordinul nr. 132/2009 privind modificarea unui tarif cuprins în anexa nr. 8 la Regulamentul privind acordarea licențelor în domeniul serviciilor comunitare de utilități publice, aprobat prin Hotărârea Guvernului nr. 745/2007, și a unor prevederi cuprinse în Normele privind autorizarea în domeniul montării și exploatării sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105323",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105323",
+     "sha256": "b04ff82df9d52adb7abe30744619ac2b2c6d0b189b59699b0d673db542b6356f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-493-2009",
+   "path": "ordin/anrsc/2009/493",
+   "short": "Ordin anrsc nr. 493/2009",
+   "title": "Ordinul nr. 493/2009 privind modul de achitare a contribuției de 0,1% fixate în anexa la Hotărârea Guvernului nr. 671/2007 privind aprobarea Regulamentului de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114654",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114654",
+     "sha256": "8032f99ff06d810ce63aa5c0a64782121d246c264bcd81ef8b98f1bc8703ab89"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2009",
    "path": "ordin/ansvsa/2009/1",
    "short": "Ordin ansvsa nr. 1/2009",
@@ -3359,6 +3494,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102836",
      "sha256": "d9128769d69c7f88a42af4538589ea08e888fef2a9a29d2c05a1b0b442aff4e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-100-2009",
+   "path": "ordin/antidoping/2009/100",
+   "short": "Ordin antidoping nr. 100/2009",
+   "title": "Ordinul nr. 100/2009 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de apel, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 47/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113403",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113403",
+     "sha256": "ff0a1203dc4bdc617b13923f15a16916d02cbb5cca117410383d62bbf9c602b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-20-2009",
+   "path": "ordin/antidoping/2009/20",
+   "short": "Ordin antidoping nr. 20/2009",
+   "title": "Ordinul nr. 20/2009 pentru aprobarea cuantumului taxelor de prelevare și analizare a probelor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102955",
+   "versions": [
+    {
+     "from": "2009-03-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102955",
+     "sha256": "5c16a6d14c86f0ade7497f9ac813c5db0fd81b52221fe4267018647a78f77dd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-48-2009",
+   "path": "ordin/antidoping/2009/48",
+   "short": "Ordin antidoping nr. 48/2009",
+   "title": "Ordinul nr. 48/2009 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor prevăzute de Legea nr. 227/2006 privind prevenirea și combaterea dopajului în sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106497",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106497",
+     "sha256": "a8a85af66ca585b68cc8f87fd913109cdc29efee8ae5fb408197adce13bd095f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-66-2009",
+   "path": "ordin/antidoping/2009/66",
+   "short": "Ordin antidoping nr. 66/2009",
+   "title": "Ordinul nr. 66/2009 privind modificarea anexei nr. 1 la Ordinul președintelui Agenției Naționale Anti-Doping nr. 48/2009 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor prevăzute de Legea nr. 227/2006 privind prevenirea și combaterea dopajului în sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111364",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111364",
+     "sha256": "fdc4698a175f064485c3367e87245cae2af262c524d1f2e274429831a90c3c74"
     }
    ]
   },
@@ -5793,6 +5988,96 @@
    ]
   },
   {
+   "slug": "ordin-dizabilitati-225-2009",
+   "path": "ordin/dizabilitati/2009/225",
+   "short": "Ordin dizabilitati nr. 225/2009",
+   "title": "Ordinul nr. 225/2009 privind aprobarea Metodologiei de selectare și finanțare a proiectelor în domeniul protecției persoanelor cu handicap pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105834",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105834",
+     "sha256": "386cb6632a5d1b9515fcecc7b0481665222d96780c6842bc3a041f73e4cb5625"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-277-2009",
+   "path": "ordin/dizabilitati/2009/277",
+   "short": "Ordin dizabilitati nr. 277/2009",
+   "title": "Ordinul nr. 277/2009 pentru aprobarea Metodologiei de preluare de către direcțiile generale de asistență socială și protecția copilului județene, respectiv locale ale sectoarelor municipiului București a contractelor privind angajamentul de plată a dobânzii, încheiate de Autoritatea Națională pentru Persoanele cu Handicap și de asigurare a transferurilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109055",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109055",
+     "sha256": "bda2faa7f242f838bd022e28376ea851b18fc3f8fadcef15491cbeae84311c98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-312-2009",
+   "path": "ordin/dizabilitati/2009/312",
+   "short": "Ordin dizabilitati nr. 312/2009",
+   "title": "Ordinul nr. 312/2009 privind aprobarea Metodologiei de selectare și finanțare a programelor de interes național în domeniul protecției și promovării drepturilor persoanelor cu handicap pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109986",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109986",
+     "sha256": "9ba82a34beb3119a54fb2b5b18c0147f3356bf219319ad795da6bace5215f0f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-369-2009",
+   "path": "ordin/dizabilitati/2009/369",
+   "short": "Ordin dizabilitati nr. 369/2009",
+   "title": "Ordinul nr. 369/2009 privind aprobarea Metodologiei de monitorizare a implementării proiectelor în domeniul protecției persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111067",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111067",
+     "sha256": "62c62c25518ba8e4f351364b8a4490d2a1e2b91078084f8308454ea9b7cab267"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-467-2009",
+   "path": "ordin/dizabilitati/2009/467",
+   "short": "Ordin dizabilitati nr. 467/2009",
+   "title": "Ordinul nr. 467/2009 privind stabilirea costului mediu lunar de întreținere în centrele rezidențiale pentru persoane cu handicap, precum și a nivelului contribuției lunare de întreținere datorate de adulții cu handicap asistați în centre sau de susținătorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112452",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112452",
+     "sha256": "3a439a58336c9d6a4e4b63e812fa9408d3e54755a15e10f0adecb65df7bb0fcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-468-2009",
+   "path": "ordin/dizabilitati/2009/468",
+   "short": "Ordin dizabilitati nr. 468/2009",
+   "title": "Ordinul nr. 468/2009 privind aprobarea Instrucțiunilor pentru aplicarea art. 54 alin. (4) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112379",
+   "versions": [
+    {
+     "from": "2009-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112379",
+     "sha256": "31a86150597f43574a00b469b2e84f9cc7efa7ce991d8ff6aff4a354305b66f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1019-2009",
    "path": "ordin/economie/2009/1019",
    "short": "Ordin economie nr. 1019/2009",
@@ -7083,6 +7368,66 @@
    ]
   },
   {
+   "slug": "ordin-europene-35-2009",
+   "path": "ordin/europene/2009/35",
+   "short": "Ordin europene nr. 35/2009",
+   "title": "Ordinul nr. 35/2009 pentru modificarea și completarea Metodologiei privind mecanismul intern de rambursare a cheltuielilor de transport pentru participarea experților/delegaților români la reuniunile consiliilor Uniunii Europene și ale Consiliului European, aprobată prin Ordinul secretarului de stat al Departamentului pentru Afaceri Europene nr. 120/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103175",
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103175",
+     "sha256": "c9b6b6aafab2aa00c145236fec21d8c0e8454651f067153adf1e01bf1780b909"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-1-2009",
+   "path": "ordin/exporturi/2009/1",
+   "short": "Ordin exporturi nr. 1/2009",
+   "title": "Ordinul nr. 1/2009 pentru aplicarea regimului de control, prevăzut de Ordonanța de urgență a Guvernului nr. 129/2006 privind regimul de control al exporturilor de produse și tehnologii cu dublă utilizare, unei operațiuni de export asistență tehnică, care nu figurează pe listele cuprinzând produsele și tehnologiile cu dublă utilizare supuse controlului prin Regulamentul (CE) nr. 423/2007, cu modificările și completările ulterioare, și Regulamentul (CE) nr. 1.167/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101247",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101247",
+     "sha256": "d62ca197f1958b767c54c067582be02a30b4dc0d682981a5301360e43a642f03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-124-2009",
+   "path": "ordin/exporturi/2009/124",
+   "short": "Ordin exporturi nr. 124/2009",
+   "title": "Ordinul nr. 124/2009 pentru aplicarea regimului de control prevăzut de Ordonanța de urgență a Guvernului nr. 129/2006 privind regimul de control al exporturilor de produse și tehnologii cu dublă utilizare unei operațiuni de export de mașini-unelte care nu figurează pe listele cuprinzând produsele și tehnologiile cu dublă utilizare supuse controlului prin Regulamentul (CE) nr. 1.167/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104333",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104333",
+     "sha256": "18d12225a93536cfef523ad8e0e4f2e7597cb67d14be018db0686ae8a729b49e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-125-2009",
+   "path": "ordin/exporturi/2009/125",
+   "short": "Ordin exporturi nr. 125/2009",
+   "title": "Ordinul nr. 125/2009 pentru modificarea anexei nr. 2 la Ordinul președintelui Agenției Naționale de Control al Exporturilor nr. 324/2006 privind aprobarea formularelor-tip utilizate pentru eliberarea licenței globale de import de produse militare, prevăzută de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104792",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104792",
+     "sha256": "26f077b205fa89e906e62efc0cbba533633d1f5869de39feba436d6d309ee9be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-1518-2009",
    "path": "ordin/externe/2009/1518",
    "short": "Ordin externe nr. 1518/2009",
@@ -8178,6 +8523,216 @@
    ]
   },
   {
+   "slug": "ordin-imm-658-2009",
+   "path": "ordin/imm/2009/658",
+   "short": "Ordin imm nr. 658/2009",
+   "title": "Ordinul nr. 658/2009 privind aprobarea Regulamentului de organizare și funcționare al Agenției pentru Implementarea Proiectelor și Programelor pentru Întreprinderi Mici și Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104966",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104966",
+     "sha256": "3456427c79a9516ec81a24be85ce0fd2fe3827a86fd2a1f0cdba958bb67ff55d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-676-2009",
+   "path": "ordin/imm/2009/676",
+   "short": "Ordin imm nr. 676/2009",
+   "title": "Ordinul nr. 676/2009 privind aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104823",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104823",
+     "sha256": "f3a98370583a1bcf02bc2f98b14ce219993c16517da46d3f6718394b5a1ddd4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-870-2009",
+   "path": "ordin/imm/2009/870",
+   "short": "Ordin imm nr. 870/2009",
+   "title": "Ordinul nr. 870/2009 privind abrogarea lit. j) a art. 16 din Regulamentul de organizare și funcționare al Agenției pentru Implementarea Proiectelor și Programelor pentru Întreprinderi Mici și Mijlocii, aprobat prin Ordinul ministrului întreprinderilor mici și mijlocii, comerțului și mediului de afaceri nr. 658/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106836",
+   "versions": [
+    {
+     "from": "2009-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106836",
+     "sha256": "337b429cbbd472157e9d05f96fce35470a2e53e98fb7c531618a72d477a0638a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-11-2009",
+   "path": "ordin/ins/2009/11",
+   "short": "Ordin ins nr. 11/2009",
+   "title": "Ordinul nr. 11/2009 pentru stabilirea Metodologiei cercetării statistice privind efectivele de bovine existente la 1 iunie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102079",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102079",
+     "sha256": "bf42acf702c30d8dcbdc2e20cedcdb9b10f558e842195d82225c8c3ac8c03bef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-12-2009",
+   "path": "ordin/ins/2009/12",
+   "short": "Ordin ins nr. 12/2009",
+   "title": "Ordinul nr. 12/2009 pentru stabilirea Metodologiei cercetării statistice privind efectivele de porcine existente la 1 mai",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102065",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102065",
+     "sha256": "cb5d1d261622fc1194fc39aeab61a503bed6bbc77ac012e33645fd5767c1bf6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-151-2009",
+   "path": "ordin/ins/2009/151",
+   "short": "Ordin ins nr. 151/2009",
+   "title": "Ordinul nr. 151/2009 pentru stabilirea Metodologiei cercetării statistice privind călătoriile internaționale înregistrate la frontierele României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103663",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103663",
+     "sha256": "c9fc2f2061a53c69d78be275f5fb535b08a83d04833f47b1352ad1c6b26f3b26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-152-2009",
+   "path": "ordin/ins/2009/152",
+   "short": "Ordin ins nr. 152/2009",
+   "title": "Ordinul nr. 152/2009 pentru stabilirea Metodologiei cercetării statistice privind cheltuielile turistice ale nerezidenților cazați în structurile de cazare turistică colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103679",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103679",
+     "sha256": "ecb0908ebe0f9a3678f7a7a5d9dd4b495c6c098e581b8848b89337b5b7e01485"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-153-2009",
+   "path": "ordin/ins/2009/153",
+   "short": "Ordin ins nr. 153/2009",
+   "title": "Ordinul nr. 153/2009 pentru stabilirea Metodologiei cercetării statistice privind activitatea agențiilor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104147",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104147",
+     "sha256": "2fbc6fbace31840eee02b795fc98864f1e4b8e1ba40c275276ee4342a8159388"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-193-2009",
+   "path": "ordin/ins/2009/193",
+   "short": "Ordin ins nr. 193/2009",
+   "title": "Ordinul nr. 193/2009 privind stabilirea Metodologiei de elaborare a conturilor naționale nefinanciare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105342",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105342",
+     "sha256": "e6de8330c05d8106b7f0d44b77512e451bf0524559985d9be412e1e364965ccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-217-2009",
+   "path": "ordin/ins/2009/217",
+   "short": "Ordin ins nr. 217/2009",
+   "title": "Ordinul nr. 217/2009 pentru stabilirea Metodologiei cercetării statistice privind statisticile comunitare legate de structura și activitatea filialelor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106047",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106047",
+     "sha256": "f32406dd6e190871629cb65b682b71081e929ef606d49efd29951812a0f32854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-219-2009",
+   "path": "ordin/ins/2009/219",
+   "short": "Ordin ins nr. 219/2009",
+   "title": "Ordinul nr. 219/2009 pentru stabilirea Metodologiei cercetării statistice privind inovarea în industrie și servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105813",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105813",
+     "sha256": "4f9fc22720afd455c2510220c071af05ee80f9aacd6a0a97041a5d827242b152"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-528-2009",
+   "path": "ordin/ins/2009/528",
+   "short": "Ordin ins nr. 528/2009",
+   "title": "Ordinul nr. 528/2009 privind stabilirea persoanelor împuternicite să constate contravenții și să aplice sancțiuni pentru contravențiile prevăzute de Legea organizării și funcționării statisticii oficiale în România nr. 226/2009 și de Legea nr. 422/2006 privind organizarea și funcționarea sistemului statistic de comerț internațional cu bunuri, precum și pentru aprobarea modelului legitimației persoanelor împuternicite, a modelelor proceselor-verbale de constatare și sancționare a contravenției și a modelului înștiințării de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110407",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110407",
+     "sha256": "966d82194933d4af1669ec968599471ed8ef57add4c056a74e28e7638edd3532"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-670-2009",
+   "path": "ordin/ins/2009/670",
+   "short": "Ordin ins nr. 670/2009",
+   "title": "Ordinul nr. 670/2009 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114742",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114742",
+     "sha256": "116261a53c63a1bb27d8f00e85f44456838e2ef139be5517a38852627c95acde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-671-2009",
+   "path": "ordin/ins/2009/671",
+   "short": "Ordin ins nr. 671/2009",
+   "title": "Ordinul nr. 671/2009 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114855",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114855",
+     "sha256": "3cdb78e4da986a610cdfd0a8e2b35e0d7c8af74a4f990b17bccae26732b713b1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1-2009",
    "path": "ordin/interne/2009/1",
    "short": "Ordin interne nr. 1/2009",
@@ -9104,6 +9659,141 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106505",
      "sha256": "f1313b72be58c3cf6ca45bab8f1fdbda0ab51d2164c23282e8066a7b89bf5050"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-28-2009",
+   "path": "ordin/iscir/2009/28",
+   "short": "Ordin iscir nr. 28/2009",
+   "title": "Ordinul nr. 28/2009 privind aprobarea modelului delegațiilor speciale de control utilizate de către inspectorii de specialitate din cadrul Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103197",
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103197",
+     "sha256": "59893ccb6736851595cb30cfeeb5ce005e2548a8e224eb0bcd114a792ff8804f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-33-2009",
+   "path": "ordin/iscir/2009/33",
+   "short": "Ordin iscir nr. 33/2009",
+   "title": "Ordinul nr. 33/2009 privind modificarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 8/2009 pentru aprobarea Procedurii privind atestarea formatorilor care participă la programele de formare profesională în domeniul reglementat de Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103283",
+   "versions": [
+    {
+     "from": "2009-03-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103283",
+     "sha256": "84dbe72a062e238678b8466377344184048a8cfcb16350a78894546a6e1334e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-382-2009",
+   "path": "ordin/iscir/2009/382",
+   "short": "Ordin iscir nr. 382/2009",
+   "title": "Ordinul nr. 382/2009 pentru aprobarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea și verificarea tehnică în utilizare a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112126",
+   "versions": [
+    {
+     "from": "2009-10-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112126",
+     "sha256": "052dc091512e9e697f1c944283d1b4c53dc82a4b40fa810ce11404b453fa89b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-465-2009",
+   "path": "ordin/iscir/2009/465",
+   "short": "Ordin iscir nr. 465/2009",
+   "title": "Ordinul nr. 465/2009 privind aprobarea Metodologiei de atestare a personalului tehnic de specialitate în domeniul ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113082",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113082",
+     "sha256": "23d3a7945b3f86e2e44fd8660cb9b3000599eabd673e1bfe625ce10563b5ce21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-528-2009",
+   "path": "ordin/iscir/2009/528",
+   "short": "Ordin iscir nr. 528/2009",
+   "title": "Ordinul nr. 528/2009 privind completarea anexei la Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 526/2007 privind dobândirea calității de formator în domeniul responsabililor cu supravegherea și verificarea tehnică a instalațiilor - RSVTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113498",
+   "versions": [
+    {
+     "from": "2009-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113498",
+     "sha256": "ddbf905fa2cfe7cfa3f9df35d3cd79be8f83822b452ca8682a7750d91fbcee5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-572-2009",
+   "path": "ordin/iscir/2009/572",
+   "short": "Ordin iscir nr. 572/2009",
+   "title": "Ordinul nr. 572/2009 pentru modificarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 465/2009 privind aprobarea Metodologiei de atestare a personalului tehnic de specialitate în domeniul ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113703",
+   "versions": [
+    {
+     "from": "2009-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113703",
+     "sha256": "2533e8f3d53c2ed7c51d3b4894b79139d3c23123adfdfa2330c38ce9c280689b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-663-2009",
+   "path": "ordin/iscir/2009/663",
+   "short": "Ordin iscir nr. 663/2009",
+   "title": "Ordinul nr. 663/2009 privind modificarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea și verificarea tehnică în utilizare a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI, aprobată prin Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 382/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115237",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115237",
+     "sha256": "77abc07e3f7fc9a4d5b7d39107907ddfaff4318461c0afc227fadf4283b6a9f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-8-2009",
+   "path": "ordin/iscir/2009/8",
+   "short": "Ordin iscir nr. 8/2009",
+   "title": "Ordinul nr. 8/2009 pentru aprobarea Procedurii privind atestarea formatorilor care participă la programele de formare profesională în domeniul reglementat de Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101838",
+   "versions": [
+    {
+     "from": "2009-02-28",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101838",
+     "sha256": "8f365267b314b7a11c4d1a07ba7f5a01180eda8f2c09268845c897c2167dc087"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-83-2009",
+   "path": "ordin/iscir/2009/83",
+   "short": "Ordin iscir nr. 83/2009",
+   "title": "Ordinul nr. 83/2009 pentru completarea anexei la Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 526/2007 privind dobândirea calității de formator în domeniul responsabililor cu supravegherea și verificarea tehnică a instalațiilor - RSVTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108159",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108159",
+     "sha256": "8ed72e73b15700f5ccba5094b00e23aca4e43c081c1f11c29ee4fad3dd9da790"
     }
    ]
   },
@@ -10128,6 +10818,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-187-2009",
+   "path": "ordin/metrologie/2009/187",
+   "short": "Ordin metrologie nr. 187/2009",
+   "title": "Ordinul nr. 187/2009 privind modificarea și completarea Normei de metrologie legală NML 021-05 \"Aparate pentru măsurarea vitezei de circulație a autovehiculelor (cinemometre)\", aprobată prin Ordinul directorului general al Biroului Român de Metrologie Legală nr. 301/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110281",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110281",
+     "sha256": "22df7fa645d614f18c038d18274903c830c3c65ae9faedb7b7bfe3e72f894500"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1323-2009",
    "path": "ordin/munca/2009/1323",
    "short": "Ordin munca nr. 1323/2009",
@@ -10469,6 +11174,81 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104943",
      "sha256": "0de08de0b13eda3222e5fc88ba8239208032e5f2f259f149f9c3b6c7675b3d25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-21-2009",
+   "path": "ordin/orniss/2009/21",
+   "short": "Ordin orniss nr. 21/2009",
+   "title": "Ordinul nr. 21/2009 privind modificarea Metodologiei de evaluare și certificare a produselor, profilelor și pachetelor de protecție INFOSEC-INFOSEC 14, aprobată prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 181/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101646",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101646",
+     "sha256": "8669b81e2b47153f071eca7ef31719155c6ea7aa843596d8f27a8995c6624363"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-51-2009",
+   "path": "ordin/orniss/2009/51",
+   "short": "Ordin orniss nr. 51/2009",
+   "title": "Ordinul nr. 51/2009 privind desemnarea entităților evaluatoare și de certificare a containerelor destinate protecției documentelor clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104744",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104744",
+     "sha256": "43756eb328b2ddb98fbc14484391391d65c6e94ffffcabd7c7f26806be835c01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-osim-113-2009",
+   "path": "ordin/osim/2009/113",
+   "short": "Ordin osim nr. 113/2009",
+   "title": "Ordinul nr. 113/2009 pentru modificarea Instrucțiunilor Oficiului de Stat pentru Invenții și Mărci nr. 108/2002 de aplicare a Ordonanței Guvernului nr. 66/2000 privind organizarea și exercitarea profesiei de consilier în proprietate industrială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111395",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111395",
+     "sha256": "c58de5df736a82d73233d5912eccb9fe98083b97740cd5753c0018de122d7922"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-279-2009",
+   "path": "ordin/parchet/2009/279",
+   "short": "Ordin parchet nr. 279/2009",
+   "title": "Ordinul nr. 279/2009 pentru aprobarea Regulamentului privind recrutarea, promovarea în funcții de execuție și de conducere și evaluarea personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114322",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114322",
+     "sha256": "0f6d4e9e24444d18218ecf06665b30b547cd1fbae2db336db25fda3d3f17fdc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rezervestat-175-2009",
+   "path": "ordin/rezervestat/2009/175",
+   "short": "Ordin rezervestat nr. 175/2009",
+   "title": "Ordinul nr. 175/2009 privind aprobarea Nomenclatorului bunurilor rechiziționabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113906",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113906",
+     "sha256": "30d5e5e08f80d43240e80ed3adac4725605bd50fd61671ad2eafd06e79d1af80"
     }
    ]
   },
@@ -11763,6 +12543,66 @@
    ]
   },
   {
+   "slug": "ordin-sport-1215-2009",
+   "path": "ordin/sport/2009/1215",
+   "short": "Ordin sport nr. 1215/2009",
+   "title": "Ordinul nr. 1.215/2009 pentru aprobarea Protocolului privind trimiterea în tabere de odihnă a copiilor ai căror părinți dețin certificate doveditoare ale calității de revoluționar, eliberate în baza Legii nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109760",
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109760",
+     "sha256": "438c5e6e3958eb1d2e19f43d780e9265a045dbfdbe1e629e2049d8ae94fa5f83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1732-2009",
+   "path": "ordin/sport/2009/1732",
+   "short": "Ordin sport nr. 1732/2009",
+   "title": "Ordinul nr. 1.732/2009 pentru aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului, și pentru aprobarea Contractului-cadru de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113114",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113114",
+     "sha256": "e1e04ca9f548b800d706d92b26c0d813d03ec50fe2d9df426b01518b886d42d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-28-2009",
+   "path": "ordin/sts/2009/28",
+   "short": "Ordin sts nr. 28/2009",
+   "title": "Ordinul nr. 28/2009 pentru aprobarea Instrucțiunilor privind stabilirea conținutului-cadru, întocmirea, avizarea și aprobarea documentațiilor tehnico-economice aferente obiectivelor de investiții și lucrărilor de intervenții cuprinse în programul de investiții al Serviciului de Telecomunicații Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105911",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105911",
+     "sha256": "f4e25eae1d03ba30ff3fad3cffd0f9391a9a9714231dbe1cef5b276cc7b345f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-53-2009",
+   "path": "ordin/sts/2009/53",
+   "short": "Ordin sts nr. 53/2009",
+   "title": "Ordinul nr. 53/2009 pentru aprobarea Procedurii operaționale privind eliberarea avizului de principiu referitor la stabilirea amplasamentelor stațiilor de bază pentru difuzarea serviciilor de programe audiovizuale pe calea unei frecvențe radioelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110883",
+   "versions": [
+    {
+     "from": "2009-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110883",
+     "sha256": "2d5bfce1a81d2dee2ab2a5ad52056cdcb1482056ec1601a3bd2d7a386a08098a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1019-2009",
    "path": "ordin/transporturi/2009/1019",
    "short": "Ordin transporturi nr. 1019/2009",
@@ -12438,6 +13278,21 @@
    ]
   },
   {
+   "slug": "ordin-turism-485-2009",
+   "path": "ordin/turism/2009/485",
+   "short": "Ordin turism nr. 485/2009",
+   "title": "Ordinul nr. 485/2009 pentru aprobarea Normelor metodologice privind autorizarea plajelor în scop turistic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106718",
+   "versions": [
+    {
+     "from": "2009-06-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106718",
+     "sha256": "5c20464aceb793626f3d0cfd67ae6309612235ae712a7f13b47ac4e1668e4420"
+    }
+   ]
+  },
+  {
    "slug": "ordin-turism-511-2009",
    "path": "ordin/turism/2009/511",
    "short": "Ordin turism nr. 511/2009",
@@ -12449,6 +13304,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106714",
      "sha256": "3877838f261c89cc026f60ac29f93d42fca8ffda4a84dc76c369633f79b75db3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-990-2009",
+   "path": "ordin/turism/2009/990",
+   "short": "Ordin turism nr. 990/2009",
+   "title": "Ordinul nr. 990/2009 pentru modificarea unor acte normative din domeniul turismului în vederea implementării Ordonanței de urgență a Guvernului nr. 49/2009 privind libertatea de stabilire a prestatorilor de servicii și libertatea de a furniza servicii în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114853",
+   "versions": [
+    {
+     "from": "2009-12-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114853",
+     "sha256": "da0aa8d164d54783cb658cb51b1d1dc214584e4dbab15220fe7dec8c4a6b2044"
     }
    ]
   },

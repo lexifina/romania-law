@@ -20,6 +20,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216827",
 "issuer": "asf",
 "joint": []
+},
+{
+"slug": "instructiuni-fga-1-2019",
+"path": "instructiuni/fga/2019/1",
+"kind": "instructiuni",
+"year": "2019",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2019 privind întocmirea și depunerea situațiilor financiare anuale la 31 decembrie 2018 de către Fondul de garantare a asiguraților",
+"short": "Instrucțiuni fga nr. 1/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212058",
+"issuer": "fga",
+"joint": []
 }
 ]
 }

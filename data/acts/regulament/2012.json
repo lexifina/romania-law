@@ -381,6 +381,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144248",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-1-2012",
+"path": "regulament/fgdb/2012/1",
+"kind": "regulament",
+"year": "2012",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2012 privind plata contribuțiilor și cotizațiilor de către instituțiile de credit, precum și verificarea acestora de către Fondul de garantare a depozitelor în sistemul bancar",
+"short": "Regulament fgdb nr. 1/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-09-28",
+"latest": "2012-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141584",
+"issuer": "fgdb",
+"joint": []
+},
+{
+"slug": "regulament-inaltifunctionari-2-2012",
+"path": "regulament/inaltifunctionari/2012/2",
+"kind": "regulament",
+"year": "2012",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2/2012 pentru modificarea Regulamentului Comisiei de concurs pentru recrutarea înalților funcționari publici nr. 1/2008 privind organizarea și desfășurarea concursului pentru intrarea în categoria înalților funcționari publici",
+"short": "Regulament inaltifunctionari nr. 2/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-10-24",
+"latest": "2012-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142226",
+"issuer": "inaltifunctionari",
+"joint": []
 }
 ]
 }

@@ -252,6 +252,81 @@
    ]
   },
   {
+   "slug": "hg-1025-1999",
+   "path": "hg/1999/1025",
+   "short": "HG nr. 1025/1999",
+   "title": "Hotărârea Guvernului nr. 1025/1999 privind acordarea de la bugetul de stat a unor ajutoare financiare pentru susţinerea programului naţional privind sprijinirea copiilor beneficiarilor Legii nr. 42/1990 , prin acordarea de cadouri cu ocazia Sfintelor sărbători de Crăciun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20257",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20257",
+     "sha256": "fedd7891556ea667f06baf4ef7151bf2123d3c9463835a446960cd0ffbbe9122"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1026-1999",
+   "path": "hg/1999/1026",
+   "short": "HG nr. 1026/1999",
+   "title": "Hotărârea Guvernului nr. 1026/1999 privind acordarea unui împrumut temporar Ministerului Educaţiei Naţionale din Trezoreria generală a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20245",
+   "versions": [
+    {
+     "from": "1999-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20245",
+     "sha256": "aff1ea97f17951c9f383e93a2bd94a01d320cf47d3d8ce7f32d2ea1dfc07fec8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1027-1999",
+   "path": "hg/1999/1027",
+   "short": "HG nr. 1027/1999",
+   "title": "Hotărârea Guvernului nr. 1027/1999 privind atribuirea cu titlu gratuit a unor bunuri intrate în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20258",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20258",
+     "sha256": "48cc40edc38907fa0b5f19721ad8bfe41ece58ee3b91d35a6aef948828e51e83"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1028-1999",
+   "path": "hg/1999/1028",
+   "short": "HG nr. 1028/1999",
+   "title": "Hotărârea Guvernului nr. 1028/1999 privind unele măsuri pentru finanţarea parţială a importului de combustibil energetic necesar în vederea realizării Programului de iarna 1999-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20260",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20260",
+     "sha256": "6b9e157ac7377267d12f142e913c84e9df4cf3be223ac3a03f0ab33ea72f94d3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1029-1999",
+   "path": "hg/1999/1029",
+   "short": "HG nr. 1029/1999",
+   "title": "Hotărârea Guvernului nr. 1029/1999 privind acordarea de către Ministerul Apărării Naţionale a unui ajutor umanitar populaţiei sinistrate din Republica Turcia, afectată de cutremurul din 12 noiembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20249",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20249",
+     "sha256": "0a8eae37a34e9f052de8f9fca2a9b15d88bd610619a5c49ce5c0960580c94cdf"
+    }
+   ]
+  },
+  {
    "slug": "hg-103-1999",
    "path": "hg/1999/103",
    "short": "HG nr. 103/1999",
@@ -263,6 +338,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16998",
      "sha256": "d838815d1bc46b45754454b4a775834875712d013c2d9e1e1ab231624280b9df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1030-1999",
+   "path": "hg/1999/1030",
+   "short": "HG nr. 1030/1999",
+   "title": "Hotărârea Guvernului nr. 1030/1999 privind organizarea Pomului de Crăciun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20250",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20250",
+     "sha256": "036b3af6b20cdab7272b20fe78e03f16aac118c9032ad7845b0df999f2cd0dea"
     }
    ]
   },

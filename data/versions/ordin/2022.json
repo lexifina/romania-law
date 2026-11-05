@@ -3,6 +3,36 @@
  "shard": "ordin/2022",
  "acts": [
   {
+   "slug": "ordin-achizitii-1174-2022",
+   "path": "ordin/achizitii/2022/1174",
+   "short": "Ordin achizitii nr. 1174/2022",
+   "title": "Ordinul nr. 1.174/2022 privind metodologia de constatare a contravențiilor și aplicare a sancțiunilor în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258293",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258293",
+     "sha256": "3f1c6739b436ea503ace3cd4e1e7e43a11badecf0674de5e770c1c1b68797e05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-2580-2022",
+   "path": "ordin/achizitii/2022/2580",
+   "short": "Ordin achizitii nr. 2580/2022",
+   "title": "Ordinul nr. 2.580/2022 privind revizuirea ratei de actualizare ce va fi utilizată la atribuirea contractelor de achiziție publică în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263762",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263762",
+     "sha256": "e08505c4c874a9790ea9f075443872e89a95e56c4d45edd1270fd38f76e2c858"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-129-2022",
    "path": "ordin/agricultura/2022/129",
    "short": "Ordin agricultura nr. 129/2022",
@@ -2013,6 +2043,51 @@
    ]
   },
   {
+   "slug": "ordin-anfp-233-2022",
+   "path": "ordin/anfp/2022/233",
+   "short": "Ordin anfp nr. 233/2022",
+   "title": "Ordinul nr. 233/2022 pentru aprobarea conținutului și instrucțiunilor de elaborare a planului de perfecționare profesională a funcționarilor publici, precum și a modalității de comunicare a datelor solicitate de Agenția Națională a Funcționarilor Publici cu privire la perfecționarea profesională a funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253294",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253294",
+     "sha256": "31b7890259371f9c5c0e97a88eaeb302ce37c1a10ff3e0bf7bef4b9b932a1d21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-234-2022",
+   "path": "ordin/anfp/2022/234",
+   "short": "Ordin anfp nr. 234/2022",
+   "title": "Ordinul nr. 234/2022 pentru stabilirea domeniilor prioritare de formare și perfecționare profesională și a tematicii specifice programelor de formare și perfecționare profesională a funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253296",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253296",
+     "sha256": "3be0287f1df30bad2f0f9df7a63e5b3410f8075eb49315c973d34f7262914d2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-258-2022",
+   "path": "ordin/anfp/2022/258",
+   "short": "Ordin anfp nr. 258/2022",
+   "title": "Ordinul nr. 258/2022 pentru aprobarea nominalizării evaluatorilor care vor realiza activitățile de evaluare externă a managerilor publici, precum și pentru aprobarea planificării desfășurării activităților de evaluare externă a managerilor publici, componenta externă, pentru anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253830",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253830",
+     "sha256": "516b7ca97f4ec76d772c87e3b1e81e0d1fbace942df4f9c571fcfc49cb544197"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-102-2022",
    "path": "ordin/anmcs/2022/102",
    "short": "Ordin anmcs nr. 102/2022",
@@ -2234,6 +2309,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252778",
      "sha256": "9b3dc009d45f6a8c5d711c13c36ed6680b304706ca6e120fa188e90d65288cf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-1073-2022",
+   "path": "ordin/anofm/2022/1073",
+   "short": "Ordin anofm nr. 1073/2022",
+   "title": "Ordinul nr. 1.073/2022 pentru modificarea și completarea Procedurii de profilare a persoanelor în căutarea unui loc de muncă înregistrate la agențiile pentru ocuparea forței de muncă, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 11/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263959",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263959",
+     "sha256": "b0e03a23ea2e969917c16dab87f15af663f3a3f22d84ab4b7fd7830f51f1f454"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-64-2022",
+   "path": "ordin/anofm/2022/64",
+   "short": "Ordin anofm nr. 64/2022",
+   "title": "Ordinul nr. 64/2022 privind modificarea Procedurii de anulare a obligațiilor de plată accesorii în conformitate cu prevederile cap. II - Anularea unor obligații accesorii din Ordonanța de urgență a Guvernului nr. 69/2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, precum și pentru instituirea unor măsuri fiscale, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 85/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252291",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252291",
+     "sha256": "a6385b5b54afa5d7ab8ed7345009266a867b7929b1cf991bf4c02e9166fec7e2"
     }
    ]
   },
@@ -4113,6 +4218,111 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-23-2022",
+   "path": "ordin/anrsc/2022/23",
+   "short": "Ordin anrsc nr. 23/2022",
+   "title": "Ordinul nr. 23/2022 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251096",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251096",
+     "sha256": "29143afa6482eae26da72cb504a8aa9478cc8a8eb851a2c63817e9752b748424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-323-2022",
+   "path": "ordin/anrsc/2022/323",
+   "short": "Ordin anrsc nr. 323/2022",
+   "title": "Ordinul nr. 323/2022 pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 65/2007 privind aprobarea Metodologiei de stabilire, ajustare sau modificare a prețurilor/tarifelor pentru serviciile publice de alimentare cu apă și de canalizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255102",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255102",
+     "sha256": "7a487c42e687fa693f54350f89feca8e4dc7e30e48fdd6effb95594190ae4825"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-44-2022",
+   "path": "ordin/anrsc/2022/44",
+   "short": "Ordin anrsc nr. 44/2022",
+   "title": "Ordinul nr. 44/2022 privind modificarea și completarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul de activitate al Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C., aprobat prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 505/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251342",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251342",
+     "sha256": "6069c2bc372b73e4263372019b54291f1e4240ae35e3dd4805b843397b6a088c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-634-2022",
+   "path": "ordin/anrsc/2022/634",
+   "short": "Ordin anrsc nr. 634/2022",
+   "title": "Ordinul nr. 634/2022 pentru modificarea și completarea Normelor-cadru privind stabilirea, ajustarea și modificarea tarifelor pentru serviciile publice de transport local și județean de persoane, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 272/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259115",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259115",
+     "sha256": "376bea5bbdc269b67a459ea6a609d3d9603eccb48a977487c7a4ee08b9d1af77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-640-2022",
+   "path": "ordin/anrsc/2022/640",
+   "short": "Ordin anrsc nr. 640/2022",
+   "title": "Ordinul nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile de salubrizare, precum și de calculare a tarifelor/taxelor distincte pentru gestionarea deșeurilor și a taxelor de salubrizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260303",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 115,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260303",
+     "sha256": "dafb1504058959bcd0b85ae3e5eabce04f05b639f338626a883f90fafb3c3c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-807-2022",
+   "path": "ordin/anrsc/2022/807",
+   "short": "Ordin anrsc nr. 807/2022",
+   "title": "Ordinul nr. 807/2022 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262808",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262808",
+     "sha256": "03f77347a99216957f8cd0b4915c6920c5df5cd3bf0539327ef6b3c4d03eaf8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-92-2022",
+   "path": "ordin/anrsc/2022/92",
+   "short": "Ordin anrsc nr. 92/2022",
+   "title": "Ordinul nr. 92/2022 privind modificarea Procedurii de anulare a obligațiilor de plată accesorii, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 322/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251844",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251844",
+     "sha256": "c690896bee64b0ce9389bdc2db1eefe817a37ed45fb718388147e8ecb3898613"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-108-2022",
    "path": "ordin/ansvsa/2022/108",
    "short": "Ordin ansvsa nr. 108/2022",
@@ -4529,6 +4739,111 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256516",
      "sha256": "8ddb3183a0240cd3a95c943d2493b4a78f3ba90554220ae45e199a40d757b651"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-129-2022",
+   "path": "ordin/antidoping/2022/129",
+   "short": "Ordin antidoping nr. 129/2022",
+   "title": "Ordinul nr. 129/2022 privind aprobarea modelului legitimației de acces în bazele sportive și la manifestările sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257917",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257917",
+     "sha256": "55b06743642ffa2c740eac2b8fdddf5da254731192bf98df99b0d4b6b61793fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-148-2022",
+   "path": "ordin/antidoping/2022/148",
+   "short": "Ordin antidoping nr. 148/2022",
+   "title": "Ordinul nr. 148/2022 privind aprobarea Procedurii de selecție a membrilor Comisiei de audiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258719",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258719",
+     "sha256": "306448d3c6ef3864e4ba4c6f7f73798a774ca55e697da74472556acd0fda72cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-16-2022",
+   "path": "ordin/antidoping/2022/16",
+   "short": "Ordin antidoping nr. 16/2022",
+   "title": "Ordinul nr. 16/2022 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251434",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251434",
+     "sha256": "8b5002115632671dd21a5b1de9d5bcd24617ed6893f58221932b29a6adaec0a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-218-2022",
+   "path": "ordin/antidoping/2022/218",
+   "short": "Ordin antidoping nr. 218/2022",
+   "title": "Ordinul nr. 218/2022 privind aprobarea Listei interzise pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260653",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260653",
+     "sha256": "bbc443dcf6dac02b79e6c6027d4a6378e9bf1f366c525735e0ca27da37e09642"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-27-2022",
+   "path": "ordin/antidoping/2022/27",
+   "short": "Ordin antidoping nr. 27/2022",
+   "title": "Ordinul nr. 27/2022 privind abrogarea Ordinului președintelui Agenției Naționale Anti-Doping nr. 96/2018 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252476",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252476",
+     "sha256": "5cc41e31d5911b91aadb9b2f1ad971c213e2d194818a0ea0630aba78d1dfe0a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-40-2022",
+   "path": "ordin/antidoping/2022/40",
+   "short": "Ordin antidoping nr. 40/2022",
+   "title": "Ordinul nr. 40/2022 pentru aprobarea procedurii de selecție a membrilor Comisiei de audiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252521",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252521",
+     "sha256": "96f6374e7dce06719ae54adc3c87a26bce21ca31cd6be3bd26fcc10ef7eff273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-50-2022",
+   "path": "ordin/antidoping/2022/50",
+   "short": "Ordin antidoping nr. 50/2022",
+   "title": "Ordinul nr. 50/2022 privind abrogarea Ordinului președintelui Agenției Naționale Anti-Doping nr. 126/2018 pentru aprobarea cerințelor și procedurilor privind gestionarea rezultatului în cazul pașaportului biologic al sportivului, conforme anexei L din Standardul internațional pentru testare și investigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253630",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253630",
+     "sha256": "c0ea0f4118ca97af6b8dfbadddbc2b7a39a29ace8800c6b74736f5c738e69a67"
     }
    ]
   },
@@ -5264,6 +5579,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263374",
      "sha256": "c2dd41bd0008a047d346e097d96ea8acccf581170af73a7a091ae405bd39c7e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-camera-367-2022",
+   "path": "ordin/camera/2022/367",
+   "short": "Ordin camera nr. 367/2022",
+   "title": "Ordinul nr. 367/2022 privind procedurile publicării, republicării și rectificării, precum și ale publicării în numere speciale a actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252495",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252495",
+     "sha256": "5e9391226f2754a09c99a2cdcd881d736fc9f39004d1777f9dd376bacc8d3624"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cmdpd-9-2022",
+   "path": "ordin/cmdpd/2022/9",
+   "short": "Ordin cmdpd nr. 9/2022",
+   "title": "Ordinul nr. 9/2022 privind aprobarea modelului de notificare de deces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254619",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254619",
+     "sha256": "cedf6876cefb6a502b3e58ea4e8a4464db89e353d7e6c0a962f1b56509647f0a"
     }
    ]
   },
@@ -6063,6 +6408,141 @@
    ]
   },
   {
+   "slug": "ordin-cncan-102-2022",
+   "path": "ordin/cncan/2022/102",
+   "short": "Ordin cncan nr. 102/2022",
+   "title": "Ordinul nr. 102/2022 pentru aprobarea Normei privind cerințele de securitate pentru dezafectarea instalațiilor nucleare și radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256469",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256469",
+     "sha256": "f5c6b77b1990be72d1dbbd9e7322b3e72e241e4d5384b344de3766656991160f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-103-2022",
+   "path": "ordin/cncan/2022/103",
+   "short": "Ordin cncan nr. 103/2022",
+   "title": "Ordinul nr. 103/2022 pentru aprobarea Normei privind cerințele de securitate pentru activitățile de predepozitare a deșeurilor radioactive, surselor închise uzate și a combustibilului nuclear uzat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256471",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256471",
+     "sha256": "6ec11818bb1d21cca9456f8d52dec6bf291f86f936d78dd91b7e3e3133a97a3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-104-2022",
+   "path": "ordin/cncan/2022/104",
+   "short": "Ordin cncan nr. 104/2022",
+   "title": "Ordinul nr. 104/2022 pentru aprobarea Normei privind cerințele de elaborare și implementare a programului de protecție împotriva radiațiilor ionizante pentru activitatea de transport de materiale radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256075",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256075",
+     "sha256": "3001a30e94a670698219b5c3ecfd66f36b21429e7bdb4e7b473f0112376d3b48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-155-2022",
+   "path": "ordin/cncan/2022/155",
+   "short": "Ordin cncan nr. 155/2022",
+   "title": "Ordinul nr. 155/2022 pentru aprobarea Normelor privind cerințele de eliberare a materialelor și clădirilor de sub regimul de autorizare al Comisiei Naționale pentru Controlul Activităților Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258488",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258488",
+     "sha256": "90cd331fc7b8841019607de8d78a925832eb7f489ff32510397f563e92707966"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-186-2022",
+   "path": "ordin/cncan/2022/186",
+   "short": "Ordin cncan nr. 186/2022",
+   "title": "Ordinul nr. 186/2022 pentru aprobarea Normelor de securitate radiologică în practicile de radiologie de diagnostic și radiologie intervențională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259706",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259706",
+     "sha256": "1539a1374e8660869f1693e2de25875b212f69dda41a38520de23b685c448fed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-212-2022",
+   "path": "ordin/cncan/2022/212",
+   "short": "Ordin cncan nr. 212/2022",
+   "title": "Ordinul nr. 212/2022 pentru aprobarea Normelor privind politica de securitate nucleară și evaluarea independentă a securității nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261368",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261368",
+     "sha256": "e52cd0c66e137fc4fee6b028ffa3d887209995aca48e8464f3e5404a22a3df44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-264-2022",
+   "path": "ordin/cncan/2022/264",
+   "short": "Ordin cncan nr. 264/2022",
+   "title": "Ordinul nr. 264/2022 pentru aprobarea Condițiilor specifice privind atribuirea anumitor contracte de achiziție publică și contracte sectoriale de produse, servicii și/sau lucrări destinate sistemelor care asigură funcțiile de securitate nucleară, securitate radiologică, protecție fizică, protecție împotriva amenințărilor cibernetice și exploatarea fiabilă a instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263223",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263223",
+     "sha256": "6bc467e6fdd9ab64d95a2dd125129d823f9ed6d18e036ef0b9e708236f3abb02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-28-2022",
+   "path": "ordin/cncan/2022/28",
+   "short": "Ordin cncan nr. 28/2022",
+   "title": "Ordinul nr. 28/2022 pentru aprobarea Normelor de securitate nucleară privind înregistrarea, raportarea, analiza evenimentelor și utilizarea experienței de exploatare pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252482",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252482",
+     "sha256": "dbeede67cdad7cd6e5ea48ae08335a2d8ea8c156988af14203628e9a94d87c62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-74-2022",
+   "path": "ordin/cncan/2022/74",
+   "short": "Ordin cncan nr. 74/2022",
+   "title": "Ordinul nr. 74/2022 privind aprobarea Normelor fundamentale pentru gestionarea în siguranță a deșeurilor radioactive și a combustibilului nuclear uzat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255424",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255424",
+     "sha256": "ba2ac0add4063dbbfc7824a7752ed8580631529ec36f888a52f50e336902ddc1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-20302-2022",
    "path": "ordin/comunicatii/2022/20302",
    "short": "Ordin comunicatii nr. 20302/2022",
@@ -6314,6 +6794,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255440",
      "sha256": "1703a3004057c1a556eb1d6aa5d08ecc47dc0b7e369bdc7ab9e0e972ff14b78e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-342-2022",
+   "path": "ordin/copii/2022/342",
+   "short": "Ordin copii nr. 342/2022",
+   "title": "Ordinul nr. 342/2022 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255592",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255592",
+     "sha256": "d26883c5d9528218c288a83063cb39ded391084335ee40eec8cce270e59d65b9"
     }
    ]
   },
@@ -7274,6 +7769,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255017",
      "sha256": "58f8e30a21910a1337837f8bd48380763b808fb7b415dffadd1b5939021791b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dgia-1-2022",
+   "path": "ordin/dgia/2022/1",
+   "short": "Ordin dgia nr. 1/2022",
+   "title": "Ordinul nr. 1/2022 privind conferirea Semnului onorific În Serviciul Patriei unor gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259379",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259379",
+     "sha256": "d928c36b6b19ae2f96b5b7a53455f99083276c876a9c1ab5bf4084dc923f4044"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-1001-2022",
+   "path": "ordin/dizabilitati/2022/1001",
+   "short": "Ordin dizabilitati nr. 1001/2022",
+   "title": "Ordinul nr. 1.001/2022 privind aprobarea Instrucțiunilor pentru aplicarea art. 78 alin. (2) și (3) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260623",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260623",
+     "sha256": "eaf67d21a87eff8034a32a1eede3030b8d6ad685cb0a8cac149e56c4e4a3498c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-43-2022",
+   "path": "ordin/dizabilitati/2022/43",
+   "short": "Ordin dizabilitati nr. 43/2022",
+   "title": "Ordinul nr. 43/2022 privind aprobarea procedurii de acordare a serviciilor sociale pentru persoanele adulte cu dizabilități, însoțite sau neînsoțite, intrate în România din zona conflictului armat din Ucraina și care nu solicită o formă de protecție potrivit Legii nr. 122/2006 privind azilul în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252628",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252628",
+     "sha256": "2b3c3c5d7800e9fe405de742f8a035bcebb6456117eee7595b2a7f12896f3d6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-635-2022",
+   "path": "ordin/dizabilitati/2022/635",
+   "short": "Ordin dizabilitati nr. 635/2022",
+   "title": "Ordinul nr. 635/2022 pentru aprobarea Metodologiei de modificare a planului de restructurare a centrelor rezidențiale pentru persoanele adulte cu handicap ale cărui activități au fost planificate până la 31 decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258219",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258219",
+     "sha256": "33c399cf475cbfb4011b4197b47b0609a7e523c62001cbf63653c3352df76aa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dnsc-105-2022",
+   "path": "ordin/dnsc/2022/105",
+   "short": "Ordin dnsc nr. 105/2022",
+   "title": "Ordinul nr. 105/2022 pentru aprobarea Normelor de aplicare a dispozițiilor privind verificarea și controlul îndeplinirii obligațiilor de securitate cibernetică pentru spațiul cibernetic național civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260933",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260933",
+     "sha256": "6343f41d5134ee4d8015189379942f8a0e287d9cc4147f2f8f41cdf8cd9699f0"
     }
    ]
   },
@@ -9333,6 +9903,96 @@
    ]
   },
   {
+   "slug": "ordin-familie-20561-2022",
+   "path": "ordin/familie/2022/20561",
+   "short": "Ordin familie nr. 20561/2022",
+   "title": "Ordinul nr. 20.561/2022 privind aprobarea Metodologiei pentru Concursul național de proiecte de tineret/Concursul național de proiecte studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256900",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256900",
+     "sha256": "c07c67d2b903638b03e2e7024f69a43036a8ea5419d4d9c2e40b5ce47909f5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20565-2022",
+   "path": "ordin/familie/2022/20565",
+   "short": "Ordin familie nr. 20565/2022",
+   "title": "Ordinul nr. 20.565/2022 pentru aprobarea Metodologiei privind organizarea taberelor studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257015",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257015",
+     "sha256": "0e6e137466e905eb20ecb4cc81ce8b6d197f28325ba69041a3eb577435fe93d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20569-2022",
+   "path": "ordin/familie/2022/20569",
+   "short": "Ordin familie nr. 20569/2022",
+   "title": "Ordinul nr. 20.569/2022 privind aprobarea Metodologiei pentru organizarea acțiunilor caselor de cultură ale studenților și ale Complexului Cultural Sportiv Studențesc \"Tei\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258386",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258386",
+     "sha256": "ed30c0a180a54f7c849f946a7eafbf662ce1b44de3e9bc0120b8f5498f7f3809"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20840-2022",
+   "path": "ordin/familie/2022/20840",
+   "short": "Ordin familie nr. 20840/2022",
+   "title": "Ordinul nr. 20.840/2022 pentru aprobarea Standardelor minime obligatorii privind aplicarea managementului de caz în cadrul serviciilor sociale destinate victimelor violenței domestice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260206",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260206",
+     "sha256": "8e7fc1ccd3559e7f8b807ec12aa66adf0b61138be1ebc89ef595f285da1ae1e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20841-2022",
+   "path": "ordin/familie/2022/20841",
+   "short": "Ordin familie nr. 20841/2022",
+   "title": "Ordinul nr. 20.841/2022 pentru aprobarea Standardelor minime obligatorii privind aplicarea managementului de caz în cadrul serviciilor sociale de asistență destinate agresorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260207",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260207",
+     "sha256": "e89d6d4d4ef5c1aeb20a871dca53e0446df66d4e432407234928006470a1fbb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20971-2022",
+   "path": "ordin/familie/2022/20971",
+   "short": "Ordin familie nr. 20971/2022",
+   "title": "Ordinul nr. 20.971/2022 pentru modificarea și completarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie, aprobat prin Ordinul ministrului familiei, tineretului și egalității de șanse nr. 20.898/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263708",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263708",
+     "sha256": "b9a5afbdf3d3733a52e498b7405a50be8803375e64943c094af1f9d5fe45770d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1021-2022",
    "path": "ordin/finante/2022/1021",
    "short": "Ordin finante nr. 1021/2022",
@@ -11054,6 +11714,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256016",
      "sha256": "3a550ca6cb7710536b3e4c74aba499c5ced254e8b5203f6c9fbd3ce9f4b31363"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ina-190-2022",
+   "path": "ordin/ina/2022/190",
+   "short": "Ordin ina nr. 190/2022",
+   "title": "Ordinul nr. 190/2022 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici - 2022, promoția Paul Negulescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258363",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258363",
+     "sha256": "cea8875fa6e2d26eb6694d8dced7df273851a68e986504ee2ee43c0cb45b2459"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1493-2022",
+   "path": "ordin/ins/2022/1493",
+   "short": "Ordin ins nr. 1493/2022",
+   "title": "Ordinul nr. 1.493/2022 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intra-UE cu bunuri în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260804",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260804",
+     "sha256": "e31d58b8287e7c9561a5a8bb26e79d4418daff88b82b14804ba5fb4b983936fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1623-2022",
+   "path": "ordin/ins/2022/1623",
+   "short": "Ordin ins nr. 1623/2022",
+   "title": "Ordinul nr. 1.623/2022 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263260",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263260",
+     "sha256": "ab13af12fdce98a57833710f4e8ec68f03cad4755480bffe5da3320098371694"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-5-2022",
+   "path": "ordin/ins/2022/5",
+   "short": "Ordin ins nr. 5/2022",
+   "title": "Ordinul nr. 5/2022 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251076",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251076",
+     "sha256": "c82c2c89741f9b66e653c6590bf2fc59f912b197597eb0107e377b572b956319"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-92-2022",
+   "path": "ordin/inspectiajudiciara/2022/92",
+   "short": "Ordin inspectiajudiciara nr. 92/2022",
+   "title": "Ordinul nr. 92/2022 privind aprobarea Regulamentului de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258772",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258772",
+     "sha256": "4052047e336ecb10b02f58627a416a17d286e39ea71620011b825334e8a550e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-887-2022",
+   "path": "ordin/integritate/2022/887",
+   "short": "Ordin integritate nr. 887/2022",
+   "title": "Ordinul nr. 887/2022 privind modificarea și completarea anexei la Ordinul vicepreședintelui Agenției Naționale de Integritate nr. 96/2021 pentru aprobarea Procedurii de transmitere la distanță a declarațiilor de avere și de interese, precum și condițiile în care aceasta se realizează",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250571",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250571",
+     "sha256": "31b17177c7b0a2406d1b80a4545f65ef6fe82d6535637978537edbdb80ed6b88"
     }
    ]
   },
@@ -13443,6 +14193,51 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-77-2022",
+   "path": "ordin/metrologie/2022/77",
+   "short": "Ordin metrologie nr. 77/2022",
+   "title": "Ordinul nr. 77/2022 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253631",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253631",
+     "sha256": "9ea8f379dea45ff982e06ab0cbcb5b3a845db3055be1ad7da468cc2759d99f9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-81-2022",
+   "path": "ordin/metrologie/2022/81",
+   "short": "Ordin metrologie nr. 81/2022",
+   "title": "Ordinul nr. 81/2022 privind aprobarea Normei de metrologie legală NML 034-22 „Gazcromatografe”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253683",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253683",
+     "sha256": "f641fc06dc0c38773b9afa76622fbb622c6fd371cfaed3a3967b9aee6cba7d0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-moldova-257-2022",
+   "path": "ordin/moldova/2022/257",
+   "short": "Ordin moldova nr. 257/2022",
+   "title": "Ordinul nr. 257/2022 pentru aprobarea Ghidului și a documentarului de finanțare nerambursabilă - D.R.R.M. 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251605",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251605",
+     "sha256": "b24f51cae96ecfc8688011a0766617df02088f22ec410a01e623451e94bdb68c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-112-2022",
    "path": "ordin/munca/2022/112",
    "short": "Ordin munca nr. 112/2022",
@@ -13799,6 +14594,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256541",
      "sha256": "bcf6baf569c959f20b01f128a65c4f7e869eaf885ca58b7e599c68b605c8c1ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-145-2022",
+   "path": "ordin/onpcsb/2022/145",
+   "short": "Ordin onpcsb nr. 145/2022",
+   "title": "Ordinul nr. 145/2022 privind aprobarea formei și conținutului notificării prevăzute la art. 30^2 din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255748",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255748",
+     "sha256": "946a32d395af37221825bfd671fe6d32709deb7807fa025ea6c580536e959c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-2-2022",
+   "path": "ordin/onpcsb/2022/2",
+   "short": "Ordin onpcsb nr. 2/2022",
+   "title": "Ordinul nr. 2/2022 pentru abrogarea Ordinului președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 380/2021 privind informarea Oficiului Național de Prevenire și Combatere a Spălării Banilor de către entitățile raportoare cu privire la neconcordanțele referitoare la beneficiarii reali, în temeiul art. 19 alin. (7^1) din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250470",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250470",
+     "sha256": "6d5739ab29997b86215ec377b86e21bbb3467193f818213906c79bab344173a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-131-2022",
+   "path": "ordin/orniss/2022/131",
+   "short": "Ordin orniss nr. 131/2022",
+   "title": "Ordinul nr. 131/2022 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259739",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259739",
+     "sha256": "fbb8118d1de4fd0d9b01d150625069b44cb3ea05c399520a7b0daad48b481dbf"
     }
    ]
   },
@@ -16248,6 +17088,276 @@
    ]
   },
   {
+   "slug": "ordin-sie-390-2022",
+   "path": "ordin/sie/2022/390",
+   "short": "Ordin sie nr. 390/2022",
+   "title": "Ordinul nr. 390/2022 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261577",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261577",
+     "sha256": "717038fde434f4a430d26ca4caab08ff4e6d3d7968af5aecb460353fe38025c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-391-2022",
+   "path": "ordin/sie/2022/391",
+   "short": "Ordin sie nr. 391/2022",
+   "title": "Ordinul nr. 391/2022 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261578",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261578",
+     "sha256": "e8503fc13471d53780084142e20b7a4f72c6209bd887111eb190000ed4e34c0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1204-2022",
+   "path": "ordin/sport/2022/1204",
+   "short": "Ordin sport nr. 1204/2022",
+   "title": "Ordinul nr. 1.204/2022 privind recunoașterea oficială a practicării în România a ramurii de sport \"Gimnastică estetică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263379",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263379",
+     "sha256": "b95a3c3c14129f3b65632f2d6d9b48c335f71c8778e7b3bb7df0abf7d6828dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-140-2022",
+   "path": "ordin/sport/2022/140",
+   "short": "Ordin sport nr. 140/2022",
+   "title": "Ordinul nr. 140/2022 privind recunoașterea oficială a practicării în România a ramurii de sport \"Skateboard\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253215",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253215",
+     "sha256": "05fac58c6d1d37c36feec9a7724930ef825c2c1e6130df85869301ac7bbb16b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-149-2022",
+   "path": "ordin/sport/2022/149",
+   "short": "Ordin sport nr. 149/2022",
+   "title": "Ordinul nr. 149/2022 privind recunoașterea oficială a practicării în România a ramurii de sport \"roundnet\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253702",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253702",
+     "sha256": "9c9d433aeb87694fdeac9b1a7ae19a3f78e315a7ea32ccc6a858a07ed9de97d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-150-2022",
+   "path": "ordin/sport/2022/150",
+   "short": "Ordin sport nr. 150/2022",
+   "title": "Ordinul nr. 150/2022 privind recunoașterea oficială a practicării în România a ramurii de sport \"arc istoric\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253533",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253533",
+     "sha256": "e3b445b991d58561a234c8da702c2a3b4d60bee6a4aa56366c932e5a4d5f6b81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-151-2022",
+   "path": "ordin/sport/2022/151",
+   "short": "Ordin sport nr. 151/2022",
+   "title": "Ordinul nr. 151/2022 privind aprobarea procedurilor pentru acordarea indemnizațiilor sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253293",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253293",
+     "sha256": "a154833fdb0441e0e52e1a17292aea36d000bfa4ab7556830ca9946c86ab847f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-170-2022",
+   "path": "ordin/sport/2022/170",
+   "short": "Ordin sport nr. 170/2022",
+   "title": "Ordinul nr. 170/2022 privind aprobarea Metodologiei pentru finanțarea activității sportive de excelență prin federațiile sportive naționale pe ramură de sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253740",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253740",
+     "sha256": "bee846bb1f4bdfed3888dd65a60c7f4df57dd995cfe2784941b0fe2022318e5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-359-2022",
+   "path": "ordin/sport/2022/359",
+   "short": "Ordin sport nr. 359/2022",
+   "title": "Ordinul nr. 359/2022 pentru aprobarea Normelor metodologice privind înscrierea bazelor sportive în Registrul bazelor sportive omologate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254686",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254686",
+     "sha256": "7dd468ff1c7b74d747d5c344b9dc2fe368231549d57941e5d58281bc498d6c56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-44-2022",
+   "path": "ordin/sport/2022/44",
+   "short": "Ordin sport nr. 44/2022",
+   "title": "Ordinul nr. 44/2022 privind modificarea anexei nr. 2 la Ordinul ministrului sportului nr. 994/2021 pentru aprobarea programelor sportive de utilitate publică și a metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Sportului în anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251142",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251142",
+     "sha256": "533fbe8014e01da3dbb971627aa55c108ccddf56e16e68fee6b24285019557b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-500-2022",
+   "path": "ordin/sport/2022/500",
+   "short": "Ordin sport nr. 500/2022",
+   "title": "Ordinul nr. 500/2022 privind aprobarea Instrucțiunilor de stabilire a participării sportivilor de performanță români, la nivel de seniori și tineret, într-o pondere de minimum 40% din totalul de sportivi participanți la competițiile sportive naționale oficiale, la sporturile de echipă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257397",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257397",
+     "sha256": "dd684c77fda6bdb1b04f2707fe690e23bbe7c5e8c0cb096f9302d0bc1b58ccf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-559-2022",
+   "path": "ordin/sport/2022/559",
+   "short": "Ordin sport nr. 559/2022",
+   "title": "Ordinul nr. 559/2022 privind recunoașterea oficială a practicării în România a ramurii de sport \"pole sport - sport la bară\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257925",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257925",
+     "sha256": "c232d86ac93f5e2fdba5e3a04be547acfb500b75f86341f75c9651b1bdbd9a5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-69-2022",
+   "path": "ordin/sport/2022/69",
+   "short": "Ordin sport nr. 69/2022",
+   "title": "Ordinul nr. 69/2022 pentru modificarea și completarea Ordinului ministrului tineretului și sportului nr. 664/2018 privind finanțarea din fonduri publice a proiectelor și programelor sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251561",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251561",
+     "sha256": "e9d9623f545cbc146200afca498572381d68201426cb2eb2fb974a2e1c8a5e8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-45-2022",
+   "path": "ordin/spp/2022/45",
+   "short": "Ordin spp nr. 45/2022",
+   "title": "Ordinul nr. 45/2022 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261482",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261482",
+     "sha256": "0c33827c0db9d2f6c1fadd5db1df84f5e2ddfc3ecd7885626a2d2c404537a88a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-221-2022",
+   "path": "ordin/sri/2022/221",
+   "short": "Ordin sri nr. 221/2022",
+   "title": "Ordinul nr. 221/2022 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261705",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261705",
+     "sha256": "e808473c865a2543c73bdf0fb92b9f5795912ba86ce4452746c3a78bf398ae17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-222-2022",
+   "path": "ordin/sri/2022/222",
+   "short": "Ordin sri nr. 222/2022",
+   "title": "Ordinul nr. 222/2022 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și gradați profesioniști din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261706",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261706",
+     "sha256": "c8a0c7ca298c444914b05ee6d7dd1ba6f57cf4614e8da86c2a5479818fbac134"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-1039-2022",
+   "path": "ordin/sts/2022/1039",
+   "short": "Ordin sts nr. 1039/2022",
+   "title": "Ordinul nr. 1.039/2022 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261678",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261678",
+     "sha256": "9da88a18aadeb9270976841c733ccac56653e1e55616750b5b65e8d08679d553"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-1040-2022",
+   "path": "ordin/sts/2022/1040",
+   "short": "Ordin sts nr. 1040/2022",
+   "title": "Ordinul nr. 1.040/2022 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261679",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261679",
+     "sha256": "e8156c71a007ddc33f99eb06af05a98d99b86534151b66d63d7be58d0afa3a82"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1000-2022",
    "path": "ordin/transporturi/2022/1000",
    "short": "Ordin transporturi nr. 1000/2022",
@@ -17534,6 +18644,216 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259469",
      "sha256": "b6685e1734467ded90b83906279bd6c56bdb9730dfcd9cd706139ec26de2ce0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1111-2022",
+   "path": "ordin/turism/2022/1111",
+   "short": "Ordin turism nr. 1111/2022",
+   "title": "Ordinul nr. 1.111/2022 privind aprobarea Procedurii de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMANIA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256797",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256797",
+     "sha256": "1973ed033e4fadb34af454e5b12d9d524727a630bd87975a3c914ebdae890b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1201-2022",
+   "path": "ordin/turism/2022/1201",
+   "short": "Ordin turism nr. 1201/2022",
+   "title": "Ordinul nr. 1.201/2022 privind dezvoltarea, administrarea și utilizarea Sistemului informatic integrat de gestionare a schemelor de ajutor de stat - IMM RECOVER, în vederea implementării programelor naționale de încurajare și de stimulare a înființării întreprinderilor mici și mijlocii, precum și în vederea gestionării schemelor de ajutor de stat pentru întreprinderile mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257572",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257572",
+     "sha256": "e94225bccd95ed7b52ccc9036b5fe2a9bc9001e0e3044229e09de4a3fc0c7557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1293-2022",
+   "path": "ordin/turism/2022/1293",
+   "short": "Ordin turism nr. 1293/2022",
+   "title": "Ordinul nr. 1.293/2022 pentru aprobarea Procedurii de avizare a organizațiilor de management al destinației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258523",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258523",
+     "sha256": "3967c892e251b70ec0feab365f22a2ef03d97c0fc18247353bf13769dd97d751"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1314-2022",
+   "path": "ordin/turism/2022/1314",
+   "short": "Ordin turism nr. 1314/2022",
+   "title": "Ordinul nr. 1.314/2022 privind aprobarea procedurii de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258413",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258413",
+     "sha256": "a11dbd52e450d34c6e1e7e04cb41c52887d49bf7d28409a22fe9335bdf4e0e9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1420-2022",
+   "path": "ordin/turism/2022/1420",
+   "short": "Ordin turism nr. 1420/2022",
+   "title": "Ordinul nr. 1.420/2022 privind modificarea punctului 2 subpunctul 2.2 din Procedura de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMÂNIA\", aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.111/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258738",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258738",
+     "sha256": "26f78bde29ddcd3912e595433a228ac3d7ced7c9e1940d4096b2e00ccd545221"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1544-2022",
+   "path": "ordin/turism/2022/1544",
+   "short": "Ordin turism nr. 1544/2022",
+   "title": "Ordinul nr. 1.544/2022 privind aprobarea Procedurii de certificare și monitorizare online pentru programele cu finanțare nerambursabilă aflate în implementare la Ministerul Antreprenoriatului și Turismului prin intermediul agențiilor pentru întreprinderi mici și mijlocii, atragere de investiții și promovare a exportului, precum și prin intermediul instituțiilor de credit partenere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260221",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260221",
+     "sha256": "fcb297c69b01575ea6d04791143127af71c5b661950f7c156b8e40d03090ef07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1759-2022",
+   "path": "ordin/turism/2022/1759",
+   "short": "Ordin turism nr. 1759/2022",
+   "title": "Ordinul nr. 1.759/2022 pentru aprobarea Schemei de ajutor de minimis privind susținerea operatorilor din turism pentru dezvoltarea activității de incoming",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261263",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261263",
+     "sha256": "57125cde31fdbf99d43f4087cab4bc364c1fac956e4bc24c4de9a3b332adb77e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1816-2022",
+   "path": "ordin/turism/2022/1816",
+   "short": "Ordin turism nr. 1816/2022",
+   "title": "Ordinul nr. 1.816/2022 pentru modificarea anexelor nr. 9, 10 și 12 la Normele metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261661",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261661",
+     "sha256": "0a5dbead6f2cac6c2ab6241ca6299ad8e8284feb4274ea00558c1d6eb666e363"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1982-2022",
+   "path": "ordin/turism/2022/1982",
+   "short": "Ordin turism nr. 1982/2022",
+   "title": "Ordinul nr. 1.982/2022 privind modificarea procedurii de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.314/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263036",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263036",
+     "sha256": "6a462cd90f64fc6c2073d02aa3932fdf0bac0cf1de933b0373e0e6a5f4ba223d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1983-2022",
+   "path": "ordin/turism/2022/1983",
+   "short": "Ordin turism nr. 1983/2022",
+   "title": "Ordinul nr. 1.983/2022 privind modificarea procedurii de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMANIA\", aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.111/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263037",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263037",
+     "sha256": "8b5fdc6be3b55eed38a93b33e8669692b0b04d32ee54f880c1519c26b4b4896c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-2009-2022",
+   "path": "ordin/turism/2022/2009",
+   "short": "Ordin turism nr. 2009/2022",
+   "title": "Ordinul nr. 2.009/2022 privind modificarea pct. 3.2 și 3.3 din procedura de implementare a Programului național pentru susținerea meșteșugurilor și artizanatului, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.705/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263151",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263151",
+     "sha256": "9b85b910b4a7f85ea217bf0b3fbb27e68fad0e8c85a20893a6c83715bb422f08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-510-2022",
+   "path": "ordin/turism/2022/510",
+   "short": "Ordin turism nr. 510/2022",
+   "title": "Ordinul nr. 510/2022 pentru modificarea și completarea Normelor metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252243",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252243",
+     "sha256": "1102debc75da07065583c105d30394de21fd0296e42e6362c0434222a1ecf222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-707-2022",
+   "path": "ordin/turism/2022/707",
+   "short": "Ordin turism nr. 707/2022",
+   "title": "Ordinul nr. 707/2022 pentru aprobarea Normelor metodologice proprii privind recuperarea ajutorului de minimis din domeniul programelor de promovare a exportului la nivelul Ministerului Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253812",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253812",
+     "sha256": "240f78b0efb88fdc0b62e6672e44696c7c4f44945e5d36cb654b02acd0159b9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-963-2022",
+   "path": "ordin/turism/2022/963",
+   "short": "Ordin turism nr. 963/2022",
+   "title": "Ordinul nr. 963/2022 privind aprobarea Procedurii de implementare a măsurii \"Granturi pentru capital de lucru acordate entităților din domeniul agroalimentar\" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 61/2022 privind unele măsuri pentru acordarea de microgranturi și granturi pentru capital de lucru entităților din domeniul agroalimentar cu finanțare din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255662",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255662",
+     "sha256": "fdc98c2c4b4035d9ba8d66f6d1aa281f510f3e3b89cf659eee5cec2fa0708495"
     }
    ]
   },

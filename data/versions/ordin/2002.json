@@ -3,6 +3,36 @@
  "shard": "ordin/2002",
  "acts": [
   {
+   "slug": "ordin-aaas-1-2002",
+   "path": "ordin/aaas/2002/1",
+   "short": "Ordin aaas nr. 1/2002",
+   "title": "Ordinul nr. 1/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Roman\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34782",
+   "versions": [
+    {
+     "from": "2002-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34782",
+     "sha256": "db70a67ddcafb0ada5c38f1b5af1b13df0236cf446f00844bdc1f13e56f731e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10-2002",
+   "path": "ordin/aaas/2002/10",
+   "short": "Ordin aaas nr. 10/2002",
+   "title": "Ordinul nr. 10/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Combinatul de utilaj greu (CUG)\" - S.A. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36128",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36128",
+     "sha256": "018704090e2be660068fe9e3057fd19782eab81d6e5c750f8f45d70f944995e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-100-2002",
    "path": "ordin/aaas/2002/100",
    "short": "Ordin aaas nr. 100/2002",
@@ -134,6 +164,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39976",
      "sha256": "4898b35737b9f9daefc7ddadf821eed5dd7a1d2176fc7dc99adc613dc79e0078"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-11-2002",
+   "path": "ordin/aaas/2002/11",
+   "short": "Ordin aaas nr. 11/2002",
+   "title": "Ordinul nr. 11/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Carom\" - S.A. Onești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36129",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36129",
+     "sha256": "dd868759574dd4b12693ee1d097fa0ed87165b1748813cbcea866eef1037576a"
     }
    ]
   },
@@ -348,6 +393,426 @@
    ]
   },
   {
+   "slug": "ordin-aaas-13-2002",
+   "path": "ordin/aaas/2002/13",
+   "short": "Ordin aaas nr. 13/2002",
+   "title": "Ordinul nr. 13/2002 privind instituirea procedurii de administrare specială la unele societăți comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36466",
+   "versions": [
+    {
+     "from": "2002-06-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36466",
+     "sha256": "e90f8a8d808bf2f09218203dd77e8457548423b764375b755be5b0aa19c5aed7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-14-2002",
+   "path": "ordin/aaas/2002/14",
+   "short": "Ordin aaas nr. 14/2002",
+   "title": "Ordinul nr. 14/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Turnu\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36465",
+   "versions": [
+    {
+     "from": "2002-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36465",
+     "sha256": "493219fb9d20b85edc619a098c530f37cc3d790933aac72b072c3f036de33322"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-15-2002",
+   "path": "ordin/aaas/2002/15",
+   "short": "Ordin aaas nr. 15/2002",
+   "title": "Ordinul nr. 15/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Bicapa\" - S.A. Târnăveni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36464",
+   "versions": [
+    {
+     "from": "2002-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36464",
+     "sha256": "ad8aca2fb5e0de8e8cc7a5813c1eaf0d6b89b64d7c626253d0a169810ac6f94b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-16-2002",
+   "path": "ordin/aaas/2002/16",
+   "short": "Ordin aaas nr. 16/2002",
+   "title": "Ordinul nr. 16/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Vulcan\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36463",
+   "versions": [
+    {
+     "from": "2002-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36463",
+     "sha256": "22a1d1a41b8b29bdba6a3e4f0ebd5c2ac1587deec6738056e3f8f9ef672c09de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-17-2002",
+   "path": "ordin/aaas/2002/17",
+   "short": "Ordin aaas nr. 17/2002",
+   "title": "Ordinul nr. 17/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Urbis Armături Sanitare\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36462",
+   "versions": [
+    {
+     "from": "2002-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36462",
+     "sha256": "b63b01e77f7ed0285f5590a179e38694db3a26d03da6f251e1c8eac01bd6a6e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-18-2002",
+   "path": "ordin/aaas/2002/18",
+   "short": "Ordin aaas nr. 18/2002",
+   "title": "Ordinul nr. 18/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Fortpres Cug\" - S.A. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36980",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36980",
+     "sha256": "789b3dd0500d76ef7fa387ddd9924dae25a47d8244ea177a3b084da4ae6cb432"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-19-2002",
+   "path": "ordin/aaas/2002/19",
+   "short": "Ordin aaas nr. 19/2002",
+   "title": "Ordinul nr. 19/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Hidrosib\" - S.A. Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36981",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36981",
+     "sha256": "5f01ba2eacd49007a0a93337145133578606c3d7aa77e0a84dc6f6d1316d0540"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-2-2002",
+   "path": "ordin/aaas/2002/2",
+   "short": "Ordin aaas nr. 2/2002",
+   "title": "Ordinul nr. 2/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"ICPPAM\" - S.A. Balotești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35132",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35132",
+     "sha256": "612d7bd95e6432d0fae57a33a4f08f2992e623daf50e86eeb8e244825729aef3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-20-2002",
+   "path": "ordin/aaas/2002/20",
+   "short": "Ordin aaas nr. 20/2002",
+   "title": "Ordinul nr. 20/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"I.M.U.M.\" - S.A. Medgidia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36982",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36982",
+     "sha256": "d6d3d5832c98d432e67562197e763a28ff406bc554c87bfae7ffcea694adea98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-21-2002",
+   "path": "ordin/aaas/2002/21",
+   "short": "Ordin aaas nr. 21/2002",
+   "title": "Ordinul nr. 21/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Autotransport\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36983",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36983",
+     "sha256": "b34f08e1c80d801e6ea31a5a68ca68e8b1da5771f34a7e0896a372c20974eb01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-22-2002",
+   "path": "ordin/aaas/2002/22",
+   "short": "Ordin aaas nr. 22/2002",
+   "title": "Ordinul nr. 22/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Sibac\" - S.A. Sighișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36984",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36984",
+     "sha256": "dee906e7790aaa19b5bba04357fe4ab2a2206318d4eba37b99607b2b47c983f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-23-2002",
+   "path": "ordin/aaas/2002/23",
+   "short": "Ordin aaas nr. 23/2002",
+   "title": "Ordinul nr. 23/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Aris\" - S.A. Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37063",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37063",
+     "sha256": "fb45f8c9dfa4b367ab6d4ed08ad04b1381c8d21fa702b313d6df5624790a3437"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-24-2002",
+   "path": "ordin/aaas/2002/24",
+   "short": "Ordin aaas nr. 24/2002",
+   "title": "Ordinul nr. 24/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Dobromin\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37064",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37064",
+     "sha256": "6849c4c34ae4385b0a2e3ff84a17c49d781fa38e18ea3fa1f728f300bfcc12fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-25-2002",
+   "path": "ordin/aaas/2002/25",
+   "short": "Ordin aaas nr. 25/2002",
+   "title": "Ordinul nr. 25/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"CMB\" - S.A. Bocșa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37065",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37065",
+     "sha256": "78578e8a34132b45258484d150ef9813dd01951ec943c4d4105f2bd0b4692fa5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-26-2002",
+   "path": "ordin/aaas/2002/26",
+   "short": "Ordin aaas nr. 26/2002",
+   "title": "Ordinul nr. 26/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Tepro\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37066",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37066",
+     "sha256": "d530f118bb997433d22957a14ceba4e1c504282d7099edb4a32bf7b367f1fbae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-27-2002",
+   "path": "ordin/aaas/2002/27",
+   "short": "Ordin aaas nr. 27/2002",
+   "title": "Ordinul nr. 27/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Griro\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37067",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37067",
+     "sha256": "edcdf855e1fee7e1a3db9504ca1816e04d9cb687db16d8c77d27915135764d56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3-2002",
+   "path": "ordin/aaas/2002/3",
+   "short": "Ordin aaas nr. 3/2002",
+   "title": "Ordinul nr. 3/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Republica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35133",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35133",
+     "sha256": "4c319a72a4d8a818ff2f9c4bc074f45a62159d7b735ab9171f923ee2253b9107"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-30-2002",
+   "path": "ordin/aaas/2002/30",
+   "short": "Ordin aaas nr. 30/2002",
+   "title": "Ordinul nr. 30/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Editura Scrisul Românesc\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37004",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37004",
+     "sha256": "37bace5fc749761f27e3dd9f9367ae34efc3c2a0c6903b59cc775220cd3d5769"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-31-2002",
+   "path": "ordin/aaas/2002/31",
+   "short": "Ordin aaas nr. 31/2002",
+   "title": "Ordinul nr. 31/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Siderca\" - S.A. Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37430",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37430",
+     "sha256": "b2641afbfe974de70a10987cf35e81e5084b12a3ab9d9938a523a2c251bb236c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-32-2002",
+   "path": "ordin/aaas/2002/32",
+   "short": "Ordin aaas nr. 32/2002",
+   "title": "Ordinul nr. 32/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Sidermet\" - S.A. Călan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37431",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37431",
+     "sha256": "31276fb8d6503cdfe59b36ed0817e5c77eba84731d7bf3141138006e8c3aa91e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-33-2002",
+   "path": "ordin/aaas/2002/33",
+   "short": "Ordin aaas nr. 33/2002",
+   "title": "Ordinul nr. 33/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Siderurgica\" - S.A. Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37415",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37415",
+     "sha256": "19ed973b512935a94c584647aa86ea0cdf894ae8589f843d7084cdfe69a18504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-34-2002",
+   "path": "ordin/aaas/2002/34",
+   "short": "Ordin aaas nr. 34/2002",
+   "title": "Ordinul nr. 34/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Famos\" - S.A. Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37484",
+   "versions": [
+    {
+     "from": "2002-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37484",
+     "sha256": "0a1a82514399c7e4343d0846c8570c13634a48bb552a6298b7db253e6741d101"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-35-2002",
+   "path": "ordin/aaas/2002/35",
+   "short": "Ordin aaas nr. 35/2002",
+   "title": "Ordinul nr. 35/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Moldoforest\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37485",
+   "versions": [
+    {
+     "from": "2002-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37485",
+     "sha256": "5e0d6430a2e52ef0296217a9928bcc5dc37d943b203a7f3fbb22916c05b13e14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4-2002",
+   "path": "ordin/aaas/2002/4",
+   "short": "Ordin aaas nr. 4/2002",
+   "title": "Ordinul nr. 4/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Verachim\" - S.A. Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35134",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35134",
+     "sha256": "b9233b55eab506c00707c7feffdf56da93c7872400910bd53059bb9deaeb9d2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-40-2002",
+   "path": "ordin/aaas/2002/40",
+   "short": "Ordin aaas nr. 40/2002",
+   "title": "Ordinul nr. 40/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Comes\" - S.A. Săvinești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37440",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37440",
+     "sha256": "a4a878fd7c52f799953e96995e38fe9df77c1f4366c077c405cce20964d4dff9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-41-2002",
+   "path": "ordin/aaas/2002/41",
+   "short": "Ordin aaas nr. 41/2002",
+   "title": "Ordinul nr. 41/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"U.I.M.\" - S.A. Vânători-Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37441",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37441",
+     "sha256": "13f84bf68a7eaf342827ea4dde37451e132b330b45736d47a63add3a8901b0e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-42-2002",
+   "path": "ordin/aaas/2002/42",
+   "short": "Ordin aaas nr. 42/2002",
+   "title": "Ordinul nr. 42/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Fibracis Verești\" - S.A. Verești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37442",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37442",
+     "sha256": "09abb59eca02f963ef38dfeb67380b0e762af83a78a982ef4b64e19540f462e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-43-2002",
+   "path": "ordin/aaas/2002/43",
+   "short": "Ordin aaas nr. 43/2002",
+   "title": "Ordinul nr. 43/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Fibratin\" - S.A. Cornu Luncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37443",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37443",
+     "sha256": "0da076050f8d4bd80bbfdee66239d09ca7427bc9f5893024002a444d8557f517"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-45-2002",
    "path": "ordin/aaas/2002/45",
    "short": "Ordin aaas nr. 45/2002",
@@ -359,6 +824,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37734",
      "sha256": "5608198e68e7428bb20a312216a5e144a037aa9104d4e3eb666fb35fd246f8ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-46-2002",
+   "path": "ordin/aaas/2002/46",
+   "short": "Ordin aaas nr. 46/2002",
+   "title": "Ordinul nr. 46/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Rempes\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37735",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37735",
+     "sha256": "febe6fd835bc421fc8cbd99e6268f426cba92b8a5bc452865d9dc00aa9a3b79d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-47-2002",
+   "path": "ordin/aaas/2002/47",
+   "short": "Ordin aaas nr. 47/2002",
+   "title": "Ordinul nr. 47/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"GES\" - S.A. Boldești-Scăeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37736",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37736",
+     "sha256": "7096f785212329fb04b1828b2fa7355aa876953a3bf46ff663a834da0d074600"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-48-2002",
+   "path": "ordin/aaas/2002/48",
+   "short": "Ordin aaas nr. 48/2002",
+   "title": "Ordinul nr. 48/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Tufon\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37778",
+   "versions": [
+    {
+     "from": "2002-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37778",
+     "sha256": "bc90927d9e17c0a70ded4c2cd22bb5b7dd0b59c7e0af92cb63d16ebc2851f6ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-49-2002",
+   "path": "ordin/aaas/2002/49",
+   "short": "Ordin aaas nr. 49/2002",
+   "title": "Ordinul nr. 49/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Petrovest\" - S.A. Borș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37779",
+   "versions": [
+    {
+     "from": "2002-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37779",
+     "sha256": "9c32549f8891bbec01bff6c76c299df81ea55c92eee7d6d19fd6b4d2e6723215"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5-2002",
+   "path": "ordin/aaas/2002/5",
+   "short": "Ordin aaas nr. 5/2002",
+   "title": "Ordinul nr. 5/2002 privind instituirea procedurii de administrare specială la unele societăți comerciale aflate în proces de privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35135",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35135",
+     "sha256": "66d7bf6cade01a62189b9d6a46a198e035b8007e19b270318a14bc8331588a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-50-2002",
+   "path": "ordin/aaas/2002/50",
+   "short": "Ordin aaas nr. 50/2002",
+   "title": "Ordinul nr. 50/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Mefin\" - S.A. Sinaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37780",
+   "versions": [
+    {
+     "from": "2002-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37780",
+     "sha256": "9b272d46827254d28abbe9ce97f3e3149c109ae6632734e5fd144e79a3a8cd34"
     }
    ]
   },
@@ -464,6 +1019,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38298",
      "sha256": "c7a7cabba1f6d3d571d7fb3eb215ef18ca1e052f9b30ea35fe4c41471d335a94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-6-2002",
+   "path": "ordin/aaas/2002/6",
+   "short": "Ordin aaas nr. 6/2002",
+   "title": "Ordinul nr. 6/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Băneasa\" (I.P.R.S.) - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35566",
+   "versions": [
+    {
+     "from": "2002-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35566",
+     "sha256": "ff8dab01fcba8d1db2ed6ef9c7a7a60e3ad2a7a83cdadfd398744705f52bb6c0"
     }
    ]
   },
@@ -599,6 +1169,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38386",
      "sha256": "f925694d3be3b88d703ffb80363aac0efa1e167e19ce865de06c77d60778f5a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7-2002",
+   "path": "ordin/aaas/2002/7",
+   "short": "Ordin aaas nr. 7/2002",
+   "title": "Ordinul nr. 7/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Viromet\" - S.A. Victoria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35921",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35921",
+     "sha256": "f5ef8dafd33fc175b11e1ffc61327ba7c21d28fe023e51b5a386d5627f9ffbf5"
     }
    ]
   },
@@ -749,6 +1334,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38615",
      "sha256": "d3c74876e69deb0f9c3e670e145cc0b33779a1bbf9cc27e4900709d168226bb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8-2002",
+   "path": "ordin/aaas/2002/8",
+   "short": "Ordin aaas nr. 8/2002",
+   "title": "Ordinul nr. 8/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Șantierul Naval\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35926",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35926",
+     "sha256": "93b01ae0158de08510a9f39d0b70004343426d0fbde413856a3dc66d972198ea"
     }
    ]
   },
@@ -4338,6 +4938,21 @@
    ]
   },
   {
+   "slug": "ordin-anofm-85-2002",
+   "path": "ordin/anofm/2002/85",
+   "short": "Ordin anofm nr. 85/2002",
+   "title": "Ordinul nr. 85/2002 privind aprobarea Procedurii de primire și de soluționare a cererilor de loc de muncă sau indemnizație de șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34590",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34590",
+     "sha256": "0606586f887bc5670ac247ebc790181e3926ff5cbea6178f416d5312d8cfedff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-1-2002",
    "path": "ordin/anre/2002/1",
    "short": "Ordin anre nr. 1/2002",
@@ -4878,6 +5493,66 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-66-2002",
+   "path": "ordin/anrsc/2002/66",
+   "short": "Ordin anrsc nr. 66/2002",
+   "title": "Ordinul nr. 66/2002 privind contribuțiile operatorilor furnizori/prestatori de servicii publice de gospodărie comunală la bugetul Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40138",
+   "versions": [
+    {
+     "from": "2002-12-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40138",
+     "sha256": "cf7e24c0f1858e1fc5c0e14a6df760e70decb6151913d2472e3347f4e3385d24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-avocatulpoporului-52-2002",
+   "path": "ordin/avocatulpoporului/2002/52",
+   "short": "Ordin avocatulpoporului nr. 52/2002",
+   "title": "Ordinul nr. 52/2002 privind aprobarea Cerințelor minime de securitate a prelucrărilor de date cu caracter personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36436",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36436",
+     "sha256": "c491516abf3a528c0a4abab20628c31a6043d445052d1724a253fc77ae9c5989"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-avocatulpoporului-53-2002",
+   "path": "ordin/avocatulpoporului/2002/53",
+   "short": "Ordin avocatulpoporului nr. 53/2002",
+   "title": "Ordinul nr. 53/2002 privind aprobarea formularelor tipizate ale notificărilor prevăzute de Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36440",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36440",
+     "sha256": "f7c8eebe7b87a9ccbba8ff3c7528e13d6f822dc413d323a9466c14b11ef8e070"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-avocatulpoporului-54-2002",
+   "path": "ordin/avocatulpoporului/2002/54",
+   "short": "Ordin avocatulpoporului nr. 54/2002",
+   "title": "Ordinul nr. 54/2002 privind stabilirea unor situații în care nu este necesară notificarea prelucrării unor date cu caracter personal care cad sub incidența Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36441",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36441",
+     "sha256": "a1c6eb3ae80ba22d9129251fcf10a8982b1272ed4371bffb1325ed74c2f49c60"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-6-2002",
    "path": "ordin/bnr/2002/6",
    "short": "Ordin bnr nr. 6/2002",
@@ -5073,6 +5748,81 @@
    ]
   },
   {
+   "slug": "ordin-cncan-103-2002",
+   "path": "ordin/cncan/2002/103",
+   "short": "Ordin cncan nr. 103/2002",
+   "title": "Ordinul nr. 103/2002 pentru aprobarea Regulamentului privind taxele și tarifele pentru autorizarea și controlul activităților nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36054",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36054",
+     "sha256": "1d658ddc61be36d5eb2075828ec419fb804fe792465ad8ceceb739f6227b4a33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-127-2002",
+   "path": "ordin/cncan/2002/127",
+   "short": "Ordin cncan nr. 127/2002",
+   "title": "Ordinul nr. 127/2002 pentru aprobarea Normelor de securitate radiologica privind radioprotecția operațională în mineritul și prepararea minereurilor de uraniu și toriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38397",
+   "versions": [
+    {
+     "from": "2002-09-12",
+     "units": 175,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38397",
+     "sha256": "b11586f023bfe9b7854f07fd3f67b38d3046e37e1185487280d9aa977eb4a510"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-180-2002",
+   "path": "ordin/cncan/2002/180",
+   "short": "Ordin cncan nr. 180/2002",
+   "title": "Ordinul nr. 180/2002 pentru aprobarea Normelor de dozimetrie individuală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39213",
+   "versions": [
+    {
+     "from": "2002-10-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39213",
+     "sha256": "1da437390780f24ac78bba7f3e412c04083c32e9257f20859fdedf4fe3999615"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-181-2002",
+   "path": "ordin/cncan/2002/181",
+   "short": "Ordin cncan nr. 181/2002",
+   "title": "Ordinul nr. 181/2002 privind aprobarea Normelor de dezafectare a obiectivelor și instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40268",
+   "versions": [
+    {
+     "from": "2002-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40268",
+     "sha256": "4004a16f87d07423ce0c89e90757b7d5fff25146690f4108eed30aafef92f2fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-183-2002",
+   "path": "ordin/cncan/2002/183",
+   "short": "Ordin cncan nr. 183/2002",
+   "title": "Ordinul nr. 183/2002 privind aprobarea Normelor pentru expedieri internaționale de deșeuri radioactive implicând teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40645",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40645",
+     "sha256": "d0d091a4d0211d931758109efc30e1829b0e5da270860db5b7877f5bc02de64c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cncan-202-2002",
    "path": "ordin/cncan/2002/202",
    "short": "Ordin cncan nr. 202/2002",
@@ -5084,6 +5834,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40865",
      "sha256": "97d82b7638ef5a210eee05f27705c4333652d1699f82d89f7fc516a86e287c6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-222-2002",
+   "path": "ordin/cncan/2002/222",
+   "short": "Ordin cncan nr. 222/2002",
+   "title": "Ordinul nr. 222/2002 privind aprobarea Normelor pentru transportul materialelor radioactive - proceduri de autorizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41116",
+   "versions": [
+    {
+     "from": "2003-01-09",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41116",
+     "sha256": "4cb17fe8d970e41501fe719139a3c5d4454b492722a508967f4797d2e2113df9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-73-2002",
+   "path": "ordin/cncan/2002/73",
+   "short": "Ordin cncan nr. 73/2002",
+   "title": "Ordinul nr. 73/2002 privind aprobarea Normelor de autorizare a lucrului cu surse de radiații în exteriorul incintei special amenajate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35742",
+   "versions": [
+    {
+     "from": "2002-05-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35742",
+     "sha256": "bea42a5fdb61339c5c67dfac9e8de99e013553743625c2b35c2d1543c257ac01"
     }
    ]
   },
@@ -6344,6 +7124,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37554",
      "sha256": "6d82e777d449816e46082a18c2767a2f3d1f9aa6c85070abc85296afdfecc8bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-18-2002",
+   "path": "ordin/dizabilitati/2002/18",
+   "short": "Ordin dizabilitati nr. 18/2002",
+   "title": "Ordinul nr. 18/2002 pentru modificarea și completarea anexei la Ordinul secretarului de stat al Secretariatului de Stat pentru Persoanele cu Handicap nr. 313/2001 privind stabilirea Criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției speciale a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34182",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34182",
+     "sha256": "515e25d9a455045316c7dc7c8667b05fbe79c5af2e0dee63e2ac960712b23f16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-90-2002",
+   "path": "ordin/dizabilitati/2002/90",
+   "short": "Ordin dizabilitati nr. 90/2002",
+   "title": "Ordinul nr. 90/2002 pentru aprobarea Regulamentului de organizare și funcționare a comisiilor de expertiza medicală a persoanelor cu handicap pentru adulți și a Comisiei superioare de expertiza medicală a persoanelor cu handicap pentru adulți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38557",
+   "versions": [
+    {
+     "from": "2002-09-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38557",
+     "sha256": "b1d9356fd05756f8de6c4b20a83c0a9a7b714e3e2d275cf1391df34487338325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-91-2002",
+   "path": "ordin/dizabilitati/2002/91",
+   "short": "Ordin dizabilitati nr. 91/2002",
+   "title": "Ordinul nr. 91/2002 privind aprobarea normativului de personal pentru centrele aflate în coordonarea Secretariatului de Stat pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38666",
+   "versions": [
+    {
+     "from": "2002-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38666",
+     "sha256": "f97cebda7a7dc5396183ce4340357a91a5aaa86f4e33069455ba0c72348eda24"
     }
    ]
   },
@@ -7713,6 +8538,66 @@
    ]
   },
   {
+   "slug": "ordin-exporturi-159-2002",
+   "path": "ordin/exporturi/2002/159",
+   "short": "Ordin exporturi nr. 159/2002",
+   "title": "Ordinul nr. 159/2002 pentru aprobarea Normelor metodologice privind autorizarea persoanelor juridice pentru efectuarea de operațiuni de comerț exterior cu produse strategice în baza Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34715",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34715",
+     "sha256": "1a18c6f8fd835de2bf7daee22dd8dba79566d1426c44984601431a562655d78c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-262-2002",
+   "path": "ordin/exporturi/2002/262",
+   "short": "Ordin exporturi nr. 262/2002",
+   "title": "Ordinul nr. 262/2002 privind supunerea unui produs, care nu figurează în listele cuprinzând produsele strategice, regimului de control prevăzut de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36281",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36281",
+     "sha256": "06301215821795e76f9a2cebd8e3cdf0d951a763d148e599116a96f4ec45be5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-275-2002",
+   "path": "ordin/exporturi/2002/275",
+   "short": "Ordin exporturi nr. 275/2002",
+   "title": "Ordinul nr. 275/2002 privind raportarea derulării operațiunilor de export definitiv de produse strategice supuse regimului de control prevăzut de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36286",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36286",
+     "sha256": "42ac90da53b464bdf21432bc7636d8f2cfd2627800bb3c5d65866e7aca041e41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-71-2002",
+   "path": "ordin/exporturi/2002/71",
+   "short": "Ordin exporturi nr. 71/2002",
+   "title": "Ordinul nr. 71/2002 privind aplicarea regimului de control prevăzut de Ordonanța de urgență a Guvernului nr. 158/1999 unor produse care nu figurează în lista de armamente, muniții și alte produse militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34113",
+   "versions": [
+    {
+     "from": "2002-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34113",
+     "sha256": "c9d22c5053d92a596e3d7cda4be10fe4b0ec9bde3b47ec47abda2fc3b65c0424"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-103-2002",
    "path": "ordin/externe/2002/103",
    "short": "Ordin externe nr. 103/2002",
@@ -8928,6 +9813,36 @@
    ]
   },
   {
+   "slug": "ordin-functiepublica-1010-2002",
+   "path": "ordin/functiepublica/2002/1010",
+   "short": "Ordin functiepublica nr. 1010/2002",
+   "title": "Ordinul nr. 1.010/2002 privind aplicarea scutirii de taxa pe valoarea adăugată pentru construcția, extinderea, reabilitarea și consolidarea lăcașurilor de cult religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37953",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37953",
+     "sha256": "5ce60c89e90bbb68427ab6994e1a0e1a1702e95b20a93dc796bff64faaf16646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-functiepublica-1048-2002",
+   "path": "ordin/functiepublica/2002/1048",
+   "short": "Ordin functiepublica nr. 1048/2002",
+   "title": "Ordinul nr. 1.048/2002 pentru modificarea și completarea Normelor metodologice privind procedura și competentele de acordare a înlesnirilor la plata obligațiilor restante la bugetul de stat, administrate de Ministerul Finanțelor Publice, aprobate prin Ordinul ministrului finanțelor publice nr. 580/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37938",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37938",
+     "sha256": "ff23fc175011cdc58ad6a20d7c2b6663d5f6694ee832a03abc330d5bb25cf9c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-guvern-186-2002",
    "path": "ordin/guvern/2002/186",
    "short": "Ordin guvern nr. 186/2002",
@@ -8969,6 +9884,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38976",
      "sha256": "f8dc88c4e802ecdfef26f19f92f294d7386c2317eeb064e73f250ce9efb29dd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-101-2002",
+   "path": "ordin/imm/2002/101",
+   "short": "Ordin imm nr. 101/2002",
+   "title": "Ordinul nr. 101/2002 pentru aprobarea Procedurii de implementare a Subprogramului național multianual pe perioada 2002-2005 pentru susținerea accesului întreprinderilor mici și mijlocii la servicii de instruire și consultanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38437",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38437",
+     "sha256": "0be1baab97e9f35dabfa60b8a575e6bdb16e0fcc013567b9bca8e42a56d9d627"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-103-2002",
+   "path": "ordin/imm/2002/103",
+   "short": "Ordin imm nr. 103/2002",
+   "title": "Ordinul nr. 103/2002 pentru aprobarea Procedurii de implementare a Subprogramului național multianual pe perioada 2002-2005 de sprijinire a întreprinderilor mici și mijlocii în dezvoltarea exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38447",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38447",
+     "sha256": "4a3edb60c259bda974e5ad09d0599d40568937ba7209a09b24674d39d24b095c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-208-2002",
+   "path": "ordin/ins/2002/208",
+   "short": "Ordin ins nr. 208/2002",
+   "title": "Ordinul nr. 208/2002 privind stabilirea persoanelor împuternicite să constate contravenții și să aplice amenzi pentru contravențiile prevăzute de Ordonanța Guvernului nr. 9/1992 privind organizarea statisticii oficiale, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37015",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37015",
+     "sha256": "e75f1d5af26f634629981279b5d34d5645b7c09b4617edfe2668da7a3fa6578c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-601-2002",
+   "path": "ordin/ins/2002/601",
+   "short": "Ordin ins nr. 601/2002",
+   "title": "Ordinul nr. 601/2002 privind actualizarea Clasificării activităților din economia naționala - CAEN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40666",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40666",
+     "sha256": "7e4ec2eff24acab1f1cecf2c2f7451795af78f3d64ac2dacf750770cd84cd3d7"
     }
    ]
   },
@@ -9070,8 +10045,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/39932",
    "versions": [
     {
-     "from": "2002-11-18",
-     "units": 5,
+     "from": "2003-01-01",
+     "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39932",
      "sha256": "0f1782fdefe859b6a983dde8a9b9b172b1afcc2bee12fbb3ddeb9aadc5fe6370"
     }
@@ -9149,6 +10124,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35183",
      "sha256": "936e2e42034ed27989a46ed308b55cfcd99385f22c23e2733bda327c6c0fbb72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-medici-462-2002",
+   "path": "ordin/medici/2002/462",
+   "short": "Ordin medici nr. 462/2002",
+   "title": "Ordinul nr. 462/2002 pentru modificarea pct. 1 al art. 7 din anexa nr. 1 la Normele metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate în asistența medicală primara, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate și al președintelui Colegiului Medicilor din România nr. 604/4.188/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33971",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33971",
+     "sha256": "6c8113492df643a438c5fde0fec3e94d6446da3d2c6aaf2e3aa0e0e5abcd6f13"
     }
    ]
   },
@@ -10998,6 +11988,36 @@
    ]
   },
   {
+   "slug": "ordin-turism-202-2002",
+   "path": "ordin/turism/2002/202",
+   "short": "Ordin turism nr. 202/2002",
+   "title": "Ordinul nr. 202/2002 privind constituirea Compartimentului pentru relații cu publicul în cadrul Ministerului Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34768",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34768",
+     "sha256": "681bfc5653a1c3ed87313b3be8c49bc800faedcc89f8c57c56ca9417bcb047ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-203-2002",
+   "path": "ordin/turism/2002/203",
+   "short": "Ordin turism nr. 203/2002",
+   "title": "Ordinul nr. 203/2002 privind preschimbarea certificatelor de clasificare și/sau a licențelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34769",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34769",
+     "sha256": "78ef2064eeb27608df40ea41ee959a7e5573641ea731cf9962d3aef7d3eb7318"
+    }
+   ]
+  },
+  {
    "slug": "ordin-turism-330-2002",
    "path": "ordin/turism/2002/330",
    "short": "Ordin turism nr. 330/2002",
@@ -11009,6 +12029,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35477",
      "sha256": "ae8a2ce69b24f1f227f36d11b8a0fc6f496008ed8d388d3299103ee9836eb136"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-332-2002",
+   "path": "ordin/turism/2002/332",
+   "short": "Ordin turism nr. 332/2002",
+   "title": "Ordinul nr. 332/2002 pentru cedarea dreptului de proprietate exclusiva către Societatea Comercială \"Fondul pentru Dezvoltare Turistica Sighișoara\" - S.A. asupra mărcii \"Dracula Park\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35739",
+   "versions": [
+    {
+     "from": "2002-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35739",
+     "sha256": "496c6b62e400677e070767bbe1070f9e8c1d4ab39c6085894c09e97ef571721e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-691-2002",
+   "path": "ordin/turism/2002/691",
+   "short": "Ordin turism nr. 691/2002",
+   "title": "Ordinul nr. 691/2002 pentru modificarea și completarea Normelor metodologice privind criteriile și metodologia pentru eliberarea licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 170/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38813",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38813",
+     "sha256": "274b2d67b2b3c2f8c3caa37cdb65436c403e52e750b110f8d71d1780f7f648e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-910-2002",
+   "path": "ordin/turism/2002/910",
+   "short": "Ordin turism nr. 910/2002",
+   "title": "Ordinul nr. 910/2002 pentru modificarea Normelor metodologice privind criteriile și metodologia pentru eliberarea licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 170/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40514",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40514",
+     "sha256": "5641a3616bcdd4b55ff98f51191d9e6430ad4f020cdba5b8c9dee7d4380ae3c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-911-2002",
+   "path": "ordin/turism/2002/911",
+   "short": "Ordin turism nr. 911/2002",
+   "title": "Ordinul nr. 911/2002 privind modificarea și completarea Ordinului ministrului turismului nr. 510/2002 pentru aprobarea Normelor metodologice privind clasificarea structurilor de primire turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40515",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40515",
+     "sha256": "cccf5c0ad05f0bf6fe2f4c845f9a37b259761bc6dffdd234fe32c5cb254c98ea"
     }
    ]
   }

@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "criterii/2008",
+"acts": [
+{
+"slug": "criterii-hipica-2-2008",
+"path": "criterii/hipica/2008/2",
+"kind": "criterii",
+"year": "2008",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Criteriile nr. 2/2008 privind aprecierea cabalinelor de reproducție",
+"short": "Criterii hipica nr. 2/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-07-29",
+"latest": "2008-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/96119",
+"issuer": "hipica",
+"joint": []
+}
+]
+}

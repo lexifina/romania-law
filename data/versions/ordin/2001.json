@@ -2628,6 +2628,51 @@
    ]
   },
   {
+   "slug": "ordin-cncan-363-2001",
+   "path": "ordin/cncan/2001/363",
+   "short": "Ordin cncan nr. 363/2001",
+   "title": "Ordinul nr. 363/2001 privind aprobarea Normelor de control de garanții în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32451",
+   "versions": [
+    {
+     "from": "2001-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32451",
+     "sha256": "0157ff2839189f72e9633eb89416f174d91bc392f32a1304814147867880477a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-373-2001",
+   "path": "ordin/cncan/2001/373",
+   "short": "Ordin cncan nr. 373/2001",
+   "title": "Ordinul nr. 373/2001 privind aprobarea Normelor fundamentale pentru transportul în siguranța al materialelor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38847",
+   "versions": [
+    {
+     "from": "2002-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38847",
+     "sha256": "ecd08b865eaee831f345594e5794375938df12a6e83bceeb8744d366e4f41d1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-382-2001",
+   "path": "ordin/cncan/2001/382",
+   "short": "Ordin cncan nr. 382/2001",
+   "title": "Ordinul nr. 382/2001 privind aprobarea Normelor de protecție fizica în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32452",
+   "versions": [
+    {
+     "from": "2001-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32452",
+     "sha256": "326839a7df4e9cb1ce2c90a6ed9e5ed2c970c4d9ec599023f375657a80a6f8be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-2001",
    "path": "ordin/cnvm/2001/1",
    "short": "Ordin cnvm nr. 1/2001",
@@ -3993,6 +4038,21 @@
    ]
   },
   {
+   "slug": "ordin-dizabilitati-313-2001",
+   "path": "ordin/dizabilitati/2001/313",
+   "short": "Ordin dizabilitati nr. 313/2001",
+   "title": "Ordinul nr. 313/2001 privind stabilirea Criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției speciale a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32724",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32724",
+     "sha256": "8da3a99e391ff4eedff742c4ba16d5696032a9b8ab173e0776e7e209c2133223"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-106145-2001",
    "path": "ordin/economie/2001/106145",
    "short": "Ordin economie nr. 106145/2001",
@@ -4619,6 +4679,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33526",
      "sha256": "da410615992d0b00e7928bf30c67a4347991f39a780cb0d93b7c10b44044f0b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-139-2001",
+   "path": "ordin/exporturi/2001/139",
+   "short": "Ordin exporturi nr. 139/2001",
+   "title": "Ordinul nr. 139/2001 pentru aprobarea formularelor-tip de licența și a altor documente prevăzute de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30247",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30247",
+     "sha256": "d7cdc712e61152b5d303717c135525db409a884d98c2acba74dd1ed920716aa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-148-2001",
+   "path": "ordin/exporturi/2001/148",
+   "short": "Ordin exporturi nr. 148/2001",
+   "title": "Ordinul nr. 148/2001 pentru aprobarea formularelor-tip de autorizație, permise și alte documente prevăzute în Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31867",
+   "versions": [
+    {
+     "from": "2001-10-29",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31867",
+     "sha256": "e32ed2709cf049ae507f9daa578080b70b701b6215bce95db5f1e7ca4d5b7e6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-176-2001",
+   "path": "ordin/exporturi/2001/176",
+   "short": "Ordin exporturi nr. 176/2001",
+   "title": "Ordinul nr. 176/2001 pentru aprobarea Ghidului de desfășurare a inspecțiilor internaționale OIAC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32360",
+   "versions": [
+    {
+     "from": "2001-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32360",
+     "sha256": "7ffc3c017eea031b9533e45c7b77bd201c3a29e27f3e2fc846b06ddbafe780ea"
     }
    ]
   },
@@ -6303,6 +6408,21 @@
    ]
   },
   {
+   "slug": "ordin-medici-79-2001",
+   "path": "ordin/medici/2001/79",
+   "short": "Ordin medici nr. 79/2001",
+   "title": "Ordinul nr. 79/2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26043",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26043",
+     "sha256": "49bd234c55277bcc74bfd3903a21688216f3cc892a8fa7a96b3c8e3ad5c32416"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1100-2001",
    "path": "ordin/mediu/2001/1100",
    "short": "Ordin mediu nr. 1100/2001",
@@ -6419,6 +6539,21 @@
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30526",
      "sha256": "1a63f015c1ca8962396e2de36a9736d55b376c1e724efb7de2c2dff8569c0db7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-144-2001",
+   "path": "ordin/metrologie/2001/144",
+   "short": "Ordin metrologie nr. 144/2001",
+   "title": "Ordinul nr. 144/2001 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse obligatoriu controlului metrologic al statului L.O. - 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30485",
+   "versions": [
+    {
+     "from": "2001-09-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30485",
+     "sha256": "a57279695343c8e08bbb3d2c8c49523e88a53e368dbab840d97a0b1e76bf7837"
     }
    ]
   },
@@ -7248,6 +7383,21 @@
    ]
   },
   {
+   "slug": "ordin-sport-307-2001",
+   "path": "ordin/sport/2001/307",
+   "short": "Ordin sport nr. 307/2001",
+   "title": "Ordinul nr. 307/2001 pentru aprobarea Strategiei generale de organizare și dezvoltare a activității de educație fizica și sport din România pe perioada 2001-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30520",
+   "versions": [
+    {
+     "from": "2001-09-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30520",
+     "sha256": "244de34814b05aad956a018a31e30ffdf66c769d72a23a93d9c85ce28f1777a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sri-4640-2001",
    "path": "ordin/sri/2001/4640",
    "short": "Ordin sri nr. 4640/2001",
@@ -7259,6 +7409,141 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32312",
      "sha256": "6a639d1d5d9a61f536b52dd6c9f0b8208e0c8dca88c69471d8ef7d40974c911c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-1-2001",
+   "path": "ordin/turism/2001/1",
+   "short": "Ordin turism nr. 1/2001",
+   "title": "Ordinul nr. 1/2001 privind posibilitatea acordării unor facilități pentru ziariști și reporteri de radio și televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26747",
+   "versions": [
+    {
+     "from": "2001-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26747",
+     "sha256": "245b83003e2e41a39bc64ec3ecda560236865c9b0f3a2e4a10a5007c8b539fb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-113-2001",
+   "path": "ordin/turism/2001/113",
+   "short": "Ordin turism nr. 113/2001",
+   "title": "Ordinul nr. 113/2001 privind renovarea exterioarelor construcțiilor din stațiunile turistice de pe litoral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28103",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28103",
+     "sha256": "211af5524843ec71c7124a8de374737d6052e655fafa6ba94e4f6933e632121d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-146-2001",
+   "path": "ordin/turism/2001/146",
+   "short": "Ordin turism nr. 146/2001",
+   "title": "Ordinul nr. 146/2001 privind completarea anexei la Ordinul președintelui Autorității Naționale pentru Turism nr. 61/1999 pentru aprobarea Normelor metodologice și a criteriilor privind clasificarea structurilor de primire turistice și a anexei la Ordinul ministrului turismului nr. 125/1998 pentru aprobarea Normelor metodologice privind activitatea de comercializare a serviciilor turistice, criteriile și metodologia de acordare a licențelor și brevetelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27836",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27836",
+     "sha256": "6bc221a730302483c06bc697c922e86cabd3aadda7cab655bd40c4b7ded74703"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-170-2001",
+   "path": "ordin/turism/2001/170",
+   "short": "Ordin turism nr. 170/2001",
+   "title": "Ordinul nr. 170/2001 pentru aprobarea Normelor metodologice privind criteriile și metodologia pentru eliberarea licențelor și brevetelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28234",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28234",
+     "sha256": "5276ce78e6a27f6c3eaeb62f100e515c3714700dcc082e000eff0b722b1208a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-235-2001",
+   "path": "ordin/turism/2001/235",
+   "short": "Ordin turism nr. 235/2001",
+   "title": "Ordinul nr. 235/2001 privind asigurarea turiștilor în cazul insolvabilității sau falimentului agenției de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29938",
+   "versions": [
+    {
+     "from": "2001-08-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29938",
+     "sha256": "22fb517ae98addd29e6488b6d9799d526acba74f116c5886eeff223a8e9cf148"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-263-2001",
+   "path": "ordin/turism/2001/263",
+   "short": "Ordin turism nr. 263/2001",
+   "title": "Ordinul nr. 263/2001 pentru aprobarea Normelor metodologice privind condițiile și criteriile pentru selecționarea, școlarizarea, atestarea și utilizarea ghizilor de turism, precum și atribuțiile acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29985",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29985",
+     "sha256": "3cdf60c25c25ac46498d529cbcaf1995f6b89e0a00f518a9091e67f9dddc385a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-320-2001",
+   "path": "ordin/turism/2001/320",
+   "short": "Ordin turism nr. 320/2001",
+   "title": "Ordinul nr. 320/2001 privind instituirea premiilor de excelenta în turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29934",
+   "versions": [
+    {
+     "from": "2001-08-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29934",
+     "sha256": "3fae8541d74c5ed9a6143f602ee27aecc478fe1ea05b8f1d3a59b288b3e18a6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-491-2001",
+   "path": "ordin/turism/2001/491",
+   "short": "Ordin turism nr. 491/2001",
+   "title": "Ordinul nr. 491/2001 pentru aprobarea Normelor privind omologarea, amenajarea, întreținerea și exploatarea pârtiilor și traseelor de schi pentru agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32273",
+   "versions": [
+    {
+     "from": "2001-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32273",
+     "sha256": "b559a2076fb34bba7b1ced848e3505331ad78888fa074aab65871faa611238fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-641-2001",
+   "path": "ordin/turism/2001/641",
+   "short": "Ordin turism nr. 641/2001",
+   "title": "Ordinul nr. 641/2001 pentru aprobarea Normelor metodologice privind condițiile de monitorizare a implementării Programului special de dezvoltare turistica a zonei Sighișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32171",
+   "versions": [
+    {
+     "from": "2001-11-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32171",
+     "sha256": "51ac3e8aab34e333abc54f5c5aad8c6a9db1bbc18048b529a29d0b92ae3e526d"
     }
    ]
   }

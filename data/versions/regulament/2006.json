@@ -303,6 +303,36 @@
    ]
   },
   {
+   "slug": "regulament-fgdb-4-2006",
+   "path": "regulament/fgdb/2006/4",
+   "short": "Regulament fgdb nr. 4/2006",
+   "title": "Regulamentul nr. 4/2006 pentru modificarea și completarea Statutului Fondului de garantare a depozitelor în sistemul bancar și a unor reglementări emise de acesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76207",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76207",
+     "sha256": "1ad881df2a671b1196a97a5f75405411714a2c74c87d23070e9dedc76e98f42d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-rur-26-2006",
+   "path": "regulament/rur/2006/26",
+   "short": "Regulament rur nr. 26/2006",
+   "title": "Regulamentul nr. 26/2006 referitor la organizarea și funcționarea Registrului Urbaniștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76001",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76001",
+     "sha256": "0ca8e3f4061ffd5c1e1ab4059d7c900e34f239f31b23eb63e959817a2f9310a1"
+    }
+   ]
+  },
+  {
    "slug": "regulament-transporturi-4-2006",
    "path": "regulament/transporturi/2006/4",
    "short": "Regulament transporturi nr. 4/2006",

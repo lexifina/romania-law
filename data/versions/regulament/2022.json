@@ -361,6 +361,21 @@
      "sha256": "baca3350d9cb83eaa5b040d0c516401ce2d7595932ebfdc97878fe46affb56b5"
     }
    ]
+  },
+  {
+   "slug": "regulament-macroprudential-1-2022",
+   "path": "regulament/macroprudential/2022/1",
+   "short": "Regulament macroprudential nr. 1/2022",
+   "title": "Regulamentul nr. 1/2022 pentru modificarea Regulamentului Comitetului Național pentru Supravegherea Macroprudențială nr. 2/2017 privind metodologia și procedura utilizate pentru stabilirea amortizoarelor de capital și sfera de aplicare a acestor instrumente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261676",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261676",
+     "sha256": "b92af960876ab018f0005aca4a7905019acee31f053b0cd23e1767c11c3f20c6"
+    }
+   ]
   }
  ]
 }

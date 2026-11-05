@@ -307,6 +307,25 @@
 "joint": []
 },
 {
+"slug": "norma-fgdb-1-2004",
+"path": "norma/fgdb/2004/1",
+"kind": "norma",
+"year": "2004",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 1/2004 privind stabilirea contribuției anuale majorate a instituțiilor de credit",
+"short": "Norma fgdb nr. 1/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-09-15",
+"latest": "2004-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/55176",
+"issuer": "fgdb",
+"joint": []
+},
+{
 "slug": "norma-munca-2560-2004",
 "path": "norma/munca/2004/2560",
 "kind": "norma",

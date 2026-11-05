@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "norma-iccj-64-1999",
+   "path": "norma/iccj/1999/64",
+   "short": "Norma iccj nr. 64/1999",
+   "title": "Norma nr. 64/1999 pentru aplicarea Hotărârii Guvernului nr. 409/1998 privind condițiile de acordare, în mod gratuit, a asistenței medicale, medicamentelor și protezelor pentru magistrați, personalul auxiliar de specialitate și membrii de familie ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19039",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19039",
+     "sha256": "d6c5667d1a6e5c4ca06b100be251a242ce5d9b7571191d986a98acdcdc874ca9"
+    }
+   ]
+  },
+  {
    "slug": "norma-justitie-318-fb-1999",
    "path": "norma/justitie/1999/318-fb",
    "short": "Norma justitie nr. 318/FB/1999",
@@ -179,6 +194,36 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18977",
      "sha256": "b50d52562e44785c78d461029103b1230e45fc68b9b21c4f0141ab2e45a224de"
+    }
+   ]
+  },
+  {
+   "slug": "norma-osim-242-1999",
+   "path": "norma/osim/1999/242",
+   "short": "Norma osim nr. 242/1999",
+   "title": "Norma nr. 242/1999 privind sprijinirea brevetării în străinătate a invențiilor românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16973",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16973",
+     "sha256": "26ccbb7ea3d32e5aeb6b883a9e54e1d9fd0b4112fb1f152e53711f7720206951"
+    }
+   ]
+  },
+  {
+   "slug": "norma-parchet-318-1999",
+   "path": "norma/parchet/1999/318",
+   "short": "Norma parchet nr. 318/1999",
+   "title": "Norma nr. 318/1999 pentru aplicarea Hotărârii Guvernului nr. 409/1998 privind condițiile de acordare, în mod gratuit, a asistenței medicale, medicamentelor și protezelor pentru magistrați, personalul auxiliar de specialitate și membrii de familie ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19040",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19040",
+     "sha256": "f023bcaf9f5b8f3a052d7acbd8ca7d172cdb90fbe0d90eea9e3df1bc476ff80e"
     }
    ]
   },

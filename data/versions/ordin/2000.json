@@ -378,6 +378,36 @@
    ]
   },
   {
+   "slug": "ordin-anci-106-2000",
+   "path": "ordin/anci/2000/106",
+   "short": "Ordin anci nr. 106/2000",
+   "title": "Ordinul nr. 106/2000 privind aprobarea aplicării reglementărilor tehnice europene pentru echipamentele terminale de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23436",
+   "versions": [
+    {
+     "from": "2000-07-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23436",
+     "sha256": "b0573b35b6df864bbb9a5ed8444f4a3693bd24b41cedd9c42f575ffa7f212725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-136-2000",
+   "path": "ordin/anci/2000/136",
+   "short": "Ordin anci nr. 136/2000",
+   "title": "Ordinul nr. 136/2000 pentru modificarea anexei la Ordinul ministrului comunicațiilor nr. 122/1998 privind aprobarea Condițiilor generale pentru furnizarea serviciului telefonic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22429",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22429",
+     "sha256": "64c1392804f239a31562575b7a06c93b33b89002eb859447d32727f119db1706"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-208-2000",
    "path": "ordin/ancpi/2000/208",
    "short": "Ordin ancpi nr. 208/2000",
@@ -449,6 +479,51 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26712",
      "sha256": "92c86d7b2e43c12bc560d88bd4e706fed7d5172bb554bf0b5dd776448acaa4ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancs-138-2000",
+   "path": "ordin/ancs/2000/138",
+   "short": "Ordin ancs nr. 138/2000",
+   "title": "Ordinul nr. 138/2000 pentru aprobarea Programului de restructurare a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Criogenice și Izotopice - ICSI, Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22430",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22430",
+     "sha256": "f0b7c9df8d119746b32c5ac808f23140f1173347a840cda9ac6db5ba40a458a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancs-148-2000",
+   "path": "ordin/ancs/2000/148",
+   "short": "Ordin ancs nr. 148/2000",
+   "title": "Ordinul nr. 148/2000 pentru aprobarea Programului de restructurare a Institutului Național de Cercetare-Dezvoltare Chimico-Farmaceutică - ICCF București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22612",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22612",
+     "sha256": "1682adee4559673c37e9ecf18aa3100fa3d85275a5ec9ff5721a1856537762c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancs-24-2000",
+   "path": "ordin/ancs/2000/24",
+   "short": "Ordin ancs nr. 24/2000",
+   "title": "Ordinul nr. 24/2000 privind aprobarea criteriilor de selectare a instalațiilor speciale de interes național utilizate pentru activitatea de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21213",
+   "versions": [
+    {
+     "from": "2000-02-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21213",
+     "sha256": "9d874442fd72d3aabe2e88f6dd03658ae1043f25dc541a1b985241ddcb5a633e"
     }
    ]
   },
@@ -828,6 +903,51 @@
    ]
   },
   {
+   "slug": "ordin-cinematografie-1-2000",
+   "path": "ordin/cinematografie/2000/1",
+   "short": "Ordin cinematografie nr. 1/2000",
+   "title": "Ordinul nr. 1/2000 pentru aprobarea vânzării și încheierii contractelor de leasing cu clauza irevocabilă de vânzare de active disponibile din patrimoniul Regiei Autonome a Distribuției și Exploatării Filmelor \"România Film\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20615",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20615",
+     "sha256": "003d2151522a1a924c674e7534f5701a41a7a96575b9440132cce4533d9dea57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cinematografie-36-2000",
+   "path": "ordin/cinematografie/2000/36",
+   "short": "Ordin cinematografie nr. 36/2000",
+   "title": "Ordinul nr. 36/2000 privind modificarea anexei nr. 19 la Normele metodologice pentru organizarea și funcționarea Registrului cinematografiei și pentru clasificarea operelor cinematografice, aprobate prin Ordinul președintelui Oficiului Național al Cinematografiei nr. 21 din 23 iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24514",
+   "versions": [
+    {
+     "from": "2000-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24514",
+     "sha256": "a471f12d2b10854115fae1e3dad4918281be7acabb56baa1dcda9a6b90da1f94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cinematografie-7-2000",
+   "path": "ordin/cinematografie/2000/7",
+   "short": "Ordin cinematografie nr. 7/2000",
+   "title": "Ordinul nr. 7/2000 pentru modificarea tarifelor prevăzute în anexa nr. 19 la Normele metodologice pentru organizarea și funcționarea Registrului cinematografiei și pentru clasificarea operelor cinematografice, aprobate prin Ordinul președintelui Oficiului Național al Cinematografiei nr. 21/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21288",
+   "versions": [
+    {
+     "from": "2000-03-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21288",
+     "sha256": "2bce552a0a72cfa0b9860efe5f2763941ebcff394283d7402ca93a095415d125"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-140-2000",
    "path": "ordin/cnas/2000/140",
    "short": "Ordin cnas nr. 140/2000",
@@ -944,6 +1064,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24222",
      "sha256": "2c980418cfbd6135ef103e99f192f224c6d4a2eca64ca9d8a066812cb8a918d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-104-2000",
+   "path": "ordin/cncan/2000/104",
+   "short": "Ordin cncan nr. 104/2000",
+   "title": "Ordinul nr. 104/2000 pentru aprobarea Regulamentului privind taxele și tarifele pentru autorizarea și controlul activităților nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23603",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23603",
+     "sha256": "72e399a857f5d0f7c7923decb9afd93a380f57c6116f1018811dc70737379cd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-14-2000",
+   "path": "ordin/cncan/2000/14",
+   "short": "Ordin cncan nr. 14/2000",
+   "title": "Ordinul nr. 14/2000 pentru aprobarea Normelor fundamentale de securitate radiologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23990",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23990",
+     "sha256": "922779a3ff68ea6a7fa21a9fb8b00de7051cb7e978b74b7d086b0b6128806e29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-25-2000",
+   "path": "ordin/cncan/2000/25",
+   "short": "Ordin cncan nr. 25/2000",
+   "title": "Ordinul nr. 25/2000 pentru modificarea și completarea Normelor republicane de securitate nucleara referitoare la regimul de lucru cu surse de radiații nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22391",
+   "versions": [
+    {
+     "from": "2000-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22391",
+     "sha256": "7904e16115b52ded14d14c4948bcb05e820217754e8fcdcbcffe9a27e38362de"
     }
    ]
   },
@@ -1128,6 +1293,21 @@
    ]
   },
   {
+   "slug": "ordin-copii-54-2000",
+   "path": "ordin/copii/2000/54",
+   "short": "Ordin copii nr. 54/2000",
+   "title": "Ordinul nr. 54/2000 privind criteriile de determinare a comunității locale din care provin copilul cu handicap și cel aflat în dificultate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21693",
+   "versions": [
+    {
+     "from": "2000-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21693",
+     "sha256": "cc58691d0d181c4036328e6e3779a01ea285bf24133e7e7210a454b81c702c7e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2013-2000",
    "path": "ordin/cultura/2000/2013",
    "short": "Ordin cultura nr. 2013/2000",
@@ -1214,6 +1394,51 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23967",
      "sha256": "e43f4c3ec6babfff486c0f3c7299cfba7da152c7ac2bbc6e75610db21f3a211e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-122-2000",
+   "path": "ordin/dizabilitati/2000/122",
+   "short": "Ordin dizabilitati nr. 122/2000",
+   "title": "Ordinul nr. 122/2000 privind modalitatea de decontare a abonamentului la curentul electric pentru nevăzătorii cu handicap grav",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25939",
+   "versions": [
+    {
+     "from": "2001-01-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25939",
+     "sha256": "add3a69c91594f83ea528739ef42b0977f8dcb854b8652999bf2ceb38fce172d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-24-2000",
+   "path": "ordin/dizabilitati/2000/24",
+   "short": "Ordin dizabilitati nr. 24/2000",
+   "title": "Ordinul nr. 24/2000 privind aprobarea Normarii personalului din instituțiile de interes public pentru protecția specială a persoanelor cu handicap, aflate în coordonarea Secretariatului de Stat pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23788",
+   "versions": [
+    {
+     "from": "2000-08-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23788",
+     "sha256": "91e4b1caf6c3e6a28840efa907f9e864c8625db82ade49d6439297334fdcfe5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-67-2000",
+   "path": "ordin/dizabilitati/2000/67",
+   "short": "Ordin dizabilitati nr. 67/2000",
+   "title": "Ordinul nr. 67/2000 privind decontarea contribuțiilor personale suportate de adultul cu handicap pentru achiziționarea de medicamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23737",
+   "versions": [
+    {
+     "from": "2000-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23737",
+     "sha256": "18b9c6459b6bd6b03c2558955dabdc900e6cf00f5db3171a2a8da6a1397962dc"
     }
    ]
   },
@@ -1619,6 +1844,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26641",
      "sha256": "5c1baf6f9db148a6a5e26847fabcb9dbac71f93535a7c7ed2a73bd8b814e25a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-337-2000",
+   "path": "ordin/exporturi/2000/337",
+   "short": "Ordin exporturi nr. 337/2000",
+   "title": "Ordinul nr. 337/2000 privind aprobarea Normelor metodologice de întocmire și transmitere a declarațiilor anuale industriale prevăzute de Legea nr. 56/1997 pentru aplicarea prevederilor Convenției privind interzicerea dezvoltării, producerii, stocării și folosirii armelor chimice și distrugerea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25789",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25789",
+     "sha256": "7f7ac5240ad606bb2cbe623f94eabf698cb1dbb9d7ef9d075c6c27f71d699e9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-338-2000",
+   "path": "ordin/exporturi/2000/338",
+   "short": "Ordin exporturi nr. 338/2000",
+   "title": "Ordinul nr. 338/2000 privind aprobarea Normelor metodologice de autorizare și declarare a instalațiilor și/sau laboratoarelor pentru producerea de substanțe chimice înscrise în lista nr. 1 din anexa nr. 1 la Legea nr. 56/1997 pentru aplicarea prevederilor Convenției privind interzicerea dezvoltării, producerii, stocării și folosirii armelor chimice și distrugerea acestora, precum și de declarare a acestor substanțe, în conformitate cu prevederile acestei legi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25791",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25791",
+     "sha256": "7c9d9c7c09201bb9bcb49d00b0c2ffe3b1d188e0e65a1372e3af8827171cb24f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-6-2000",
+   "path": "ordin/exporturi/2000/6",
+   "short": "Ordin exporturi nr. 6/2000",
+   "title": "Ordinul nr. 6/2000 pentru aprobarea formularelor-tip de licența și a altor documente prevăzute de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21209",
+   "versions": [
+    {
+     "from": "2000-03-09",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21209",
+     "sha256": "923e829ac5f989db353a6aedcdff7d50cd4419d84151b5525e3d85fe87c2caf6"
     }
    ]
   },
@@ -2643,6 +2913,21 @@
    ]
   },
   {
+   "slug": "ordin-ins-149-2000",
+   "path": "ordin/ins/2000/149",
+   "short": "Ordin ins nr. 149/2000",
+   "title": "Ordinul nr. 149/2000 privind stabilirea persoanelor împuternicite să constate contravenții și să aplice amenzi pentru contravențiile prevăzute de Ordonanța Guvernului nr. 9/1992 privind organizarea statisticii publice, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23525",
+   "versions": [
+    {
+     "from": "2000-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23525",
+     "sha256": "363e87a6158c187849514a7008726502d0470dc8df5ec92b07eac3b7ea28022f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1112-2000",
    "path": "ordin/interne/2000/1112",
    "short": "Ordin interne nr. 1112/2000",
@@ -3513,6 +3798,21 @@
    ]
   },
   {
+   "slug": "ordin-sport-491-2000",
+   "path": "ordin/sport/2000/491",
+   "short": "Ordin sport nr. 491/2000",
+   "title": "Ordinul nr. 491/2000 privind modalitățile de plată a rentei viagere acordate unor sportivi de performanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24023",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24023",
+     "sha256": "55a63085e4a151203369aed7e437743a096f668c318514e9efd8605e05a9dd89"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-16-2000",
    "path": "ordin/transporturi/2000/16",
    "short": "Ordin transporturi nr. 16/2000",
@@ -4079,6 +4379,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25891",
      "sha256": "0f2002fbc7b6497ba12e068bdd720806ee9a83c5445bb9cd051a137bcc6b5a1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-129-2000",
+   "path": "ordin/turism/2000/129",
+   "short": "Ordin turism nr. 129/2000",
+   "title": "Ordinul nr. 129/2000 pentru modificarea și completarea Normelor metodologice privind activitatea de comercializare a serviciilor turistice, criteriile și metodologia de acordare a licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 125 din 11 septembrie 1998 și modificate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 52 din 11 aprilie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24700",
+   "versions": [
+    {
+     "from": "2000-10-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24700",
+     "sha256": "1d6146c19c0e5d32a8fe9291250c93a72ec01f66e5499fd6c9a1350d6eca9f95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-52-2000",
+   "path": "ordin/turism/2000/52",
+   "short": "Ordin turism nr. 52/2000",
+   "title": "Ordinul nr. 52/2000 pentru modificarea și completarea Normelor metodologice privind activitatea de comercializare a serviciilor turistice, criteriile și metodologia de acordare a licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 125 din 11 septembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22435",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22435",
+     "sha256": "e852fe76687040314bc22e445e891a4fd7784bac73115ecb6043e7835458c57a"
     }
    ]
   }

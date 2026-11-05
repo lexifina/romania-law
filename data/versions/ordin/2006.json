@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-aaas-7155-2006",
+   "path": "ordin/aaas/2006/7155",
+   "short": "Ordin aaas nr. 7155/2006",
+   "title": "Ordinul nr. 7.155/2006 pentru modificarea Ordinului ministrului Autorității pentru Privatizare și Administrarea Participațiilor Statului și al ministrului comunicațiilor și tehnologiei informației nr. 106/320/2002 pentru stabilirea societăților comerciale a căror privatizare se va realiza în conformitate cu prevederile art. 3 din Hotărârea Guvernului nr. 938/2001 privind strategia de privatizare a unor societăți comerciale din portofoliul Autorității pentru Privatizare și Administrarea Participațiilor Statului, la care statul deține acțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75852",
+   "versions": [
+    {
+     "from": "2006-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75852",
+     "sha256": "52a9ae24107f33c59712a483a8e2395f6ba9e2591b61a47b2f89da44d08a4a34"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-7687-2006",
    "path": "ordin/aaas/2006/7687",
    "short": "Ordin aaas nr. 7687/2006",
@@ -89,6 +104,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75696",
      "sha256": "0c227cbc43cbc8e607896468e457688324bca5cb8f6c9b51f1b1555dcb92dc7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7692-2006",
+   "path": "ordin/aaas/2006/7692",
+   "short": "Ordin aaas nr. 7692/2006",
+   "title": "Ordinul nr. 7.692/2006 privind abrogarea Ordinului președintelui Autorității pentru Valorificarea Activelor Statului nr. 3.975/2004 de instituire a procedurii de administrare specială la Societatea Comercială \"INTEC\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75710",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75710",
+     "sha256": "116d2fb6de679f77c84a6f8fc7bf7e374cb1b58b32226eda4ebea5a14ec14d04"
     }
    ]
   },
@@ -164,6 +194,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77226",
      "sha256": "4196151ce3751cd31810b11ef2aea54f32bea5820177101b0a7535b70f66b595"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-155-2006",
+   "path": "ordin/achizitii/2006/155",
+   "short": "Ordin achizitii nr. 155/2006",
+   "title": "Ordinul nr. 155/2006 privind aprobarea Ghidului pentru atribuirea contractelor de achiziție publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76416",
+   "versions": [
+    {
+     "from": "2006-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76416",
+     "sha256": "c18892755c25aec2877a14a7771de5a533445e6154857c15f51afc2659151ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-183-2006",
+   "path": "ordin/achizitii/2006/183",
+   "short": "Ordin achizitii nr. 183/2006",
+   "title": "Ordinul nr. 183/2006 privind aplicarea dispozițiilor referitoare la contractul de publicitate media",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77489",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77489",
+     "sha256": "9ce2be76c1174a23d6a91d31cb3fd0672c680c56702688f04f09091ebc6e7263"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-73-2006",
+   "path": "ordin/achizitii/2006/73",
+   "short": "Ordin achizitii nr. 73/2006",
+   "title": "Ordinul nr. 73/2006 privind aplicarea dispozițiilor referitoare la contractul de publicitate media",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70708",
+   "versions": [
+    {
+     "from": "2006-04-12",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70708",
+     "sha256": "b0956dd00881e238ec83aca641270d488e1b90a0ec609a70056f8813a4be3d27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-136-2006",
+   "path": "ordin/adoptii/2006/136",
+   "short": "Ordin adoptii nr. 136/2006",
+   "title": "Ordinul nr. 136/2006 privind aprobarea Metodologiei, a modelului și conținutului unor formulare și documente utilizate în procedura de evaluare în vederea obținerii atestatului de persoană/familie aptă să adopte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77966",
+   "versions": [
+    {
+     "from": "2007-01-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77966",
+     "sha256": "e34443f35f816b64addc7fb22ef4980fd36240ffd9e986ee482130f6cf64b3a6"
     }
    ]
   },
@@ -3273,6 +3363,51 @@
    ]
   },
   {
+   "slug": "ordin-anfp-7100-2006",
+   "path": "ordin/anfp/2006/7100",
+   "short": "Ordin anfp nr. 7100/2006",
+   "title": "Ordinul nr. 7.100/2006 privind unele măsuri necesare organizării și desfășurării concursurilor de recrutare pentru ocuparea funcțiilor publice de execuție temporar vacante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74702",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74702",
+     "sha256": "54921743af8b970473b79543ea506afe79bc09b5d614d0a72988beee8942ba74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-968-2006",
+   "path": "ordin/anfp/2006/968",
+   "short": "Ordin anfp nr. 968/2006",
+   "title": "Ordinul nr. 968/2006 privind aprobarea Regulamentului-cadru pentru organizarea examenului de promovare în clasă a funcționarilor publici încadrați pe funcții publice cu nivel de studii inferior, care absolvă o formă de învățământ superior de lungă sau de scurtă durată în specialitatea în care își desfășoară activitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69044",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69044",
+     "sha256": "2cd86a120752609cd02888c095ac5534524cb54951311763519382852a41335e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-619-2006",
+   "path": "ordin/anofm/2006/619",
+   "short": "Ordin anofm nr. 619/2006",
+   "title": "Ordinul nr. 619/2006 privind aprobarea modelului și conținutului formularelor tipizate ale procesului-verbal de constatare și sancționare a contravențiilor și înștiințării de plată pentru debitor, destinate utilizării în activitatea de control desfășurată de organele de control măsuri active ale Agenției Naționale pentru Ocuparea Forței de Muncă și ale structurilor sale teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77513",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77513",
+     "sha256": "dc39e733c8c73479f0f11c4169f106836b0fbab26fed51141c3a1474315f1c10"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-123-2006",
    "path": "ordin/anpc/2006/123",
    "short": "Ordin anpc nr. 123/2006",
@@ -4094,6 +4229,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77332",
      "sha256": "3943c739b82eec9760f190f6f8d1a25471bf0f462d55216927faaa6b5309c046"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-255-2006",
+   "path": "ordin/anrsc/2006/255",
+   "short": "Ordin anrsc nr. 255/2006",
+   "title": "Ordinul nr. 255/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 233/2004 pentru aprobarea unor reglementări privind contorizarea consumatorilor racordați la sistemele publice centralizate de alimentare cu energie termică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71220",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71220",
+     "sha256": "a4bc1144bb0cd0debafd8ecbae0c3dc872fdda5dc6a6508c994df20ee719c3ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-258-2006",
+   "path": "ordin/anrsc/2006/258",
+   "short": "Ordin anrsc nr. 258/2006",
+   "title": "Ordinul nr. 258/2006 pentru modificarea și completarea Ordinului ministrului administrației publice nr. 269/2003 privind aprobarea tarifelor pentru servicii de consultanță și pentru activitățile de pregătire și specializare profesională a personalului operatorilor furnizori/prestatori de servicii publice de gospodărie comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71524",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71524",
+     "sha256": "6f49ef80a905dee01c0156e8a373812825e29f550576d89843f1586920ec5fca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-337-2006",
+   "path": "ordin/anrsc/2006/337",
+   "short": "Ordin anrsc nr. 337/2006",
+   "title": "Ordinul nr. 337/2006 privind modul de achitare de către operatorii de servicii publice de gospodărie comunală a tarifului de menținere a licenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73132",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73132",
+     "sha256": "bc1feb1aea9479075d97e2ff9e2acbfc468455432c770d83cfaa955a943cbc44"
     }
    ]
   },
@@ -5628,6 +5808,51 @@
    ]
   },
   {
+   "slug": "ordin-asg-189-2006",
+   "path": "ordin/asg/2006/189",
+   "short": "Ordin asg nr. 189/2006",
+   "title": "Ordinul nr. 189/2006 pentru aprobarea Programului \"Grupul de facilitatori de comunicare publică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71225",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71225",
+     "sha256": "b322cf15dbb6ddd86a0e0781bad2f9e9a9f6fcd1e39f4cc3febe15ff5a3333c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-asg-205-2006",
+   "path": "ordin/asg/2006/205",
+   "short": "Ordin asg nr. 205/2006",
+   "title": "Ordinul nr. 205/2006 pentru aprobarea Metodologiei privind finanțarea în cursul anului 2006 a proiectelor pentru comunicare, informare publică și promovarea imaginii și intereselor românești peste hotare, precum și a acțiunilor cu caracter științific și social-cultural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72076",
+   "versions": [
+    {
+     "from": "2006-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72076",
+     "sha256": "e080a0185e6080c15c023ca4e852096c429e56bd6497e8cb86772a9f835de9af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-asg-343-2006",
+   "path": "ordin/asg/2006/343",
+   "short": "Ordin asg nr. 343/2006",
+   "title": "Ordinul nr. 343/2006 pentru modificarea art. 5 din Metodologia privind finanțarea în cursul anului 2006 a proiectelor pentru comunicare, informare publică și promovarea imaginii și intereselor românești peste hotare, precum și a acțiunilor cu caracter științific și social-cultural, aprobată prin Ordinul președintelui Agenției pentru Strategii Guvernamentale nr. 205/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77374",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77374",
+     "sha256": "f60cf1d0eae254af48cec22e551ea1652a9a9ea63a86e61f3de8fdc4cba04611"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-10-2006",
    "path": "ordin/bnr/2006/10",
    "short": "Ordin bnr nr. 10/2006",
@@ -6213,6 +6438,141 @@
    ]
   },
   {
+   "slug": "ordin-cncan-135-2006",
+   "path": "ordin/cncan/2006/135",
+   "short": "Ordin cncan nr. 135/2006",
+   "title": "Ordinul nr. 135/2006 pentru aprobarea Normelor privind revizuirea periodică a securității nucleare pentru centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71908",
+   "versions": [
+    {
+     "from": "2006-05-22",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71908",
+     "sha256": "8b447c658885820370eda2957e9fd1feff7534a7d2411b62ff9c1c106bd447be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-136-2006",
+   "path": "ordin/cncan/2006/136",
+   "short": "Ordin cncan nr. 136/2006",
+   "title": "Ordinul nr. 136/2006 pentru aprobarea Normelor privind sistemul de răcire la avarie a zonei active pentru centralele nuclearoelectrice de tip CANDU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71946",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71946",
+     "sha256": "4031fd34a2b72250eacd65f2ef3b761b8ebec7aa6e7f526d51024670254dc63e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-141-2006",
+   "path": "ordin/cncan/2006/141",
+   "short": "Ordin cncan nr. 141/2006",
+   "title": "Ordinul nr. 141/2006 pentru aprobarea Normelor privind protecția centralelor nuclearoelectrice împotriva incendiilor și exploziilor interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72498",
+   "versions": [
+    {
+     "from": "2006-06-09",
+     "units": 157,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72498",
+     "sha256": "cbdcadeccc9a3db55a95e03fb8f372ab6944dc09965ce0dbab3feea38e168d61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-154-2006",
+   "path": "ordin/cncan/2006/154",
+   "short": "Ordin cncan nr. 154/2006",
+   "title": "Ordinul nr. 154/2006 pentru aprobarea Ghidului privind iluminarea exterioară a instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72578",
+   "versions": [
+    {
+     "from": "2006-06-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72578",
+     "sha256": "a8ca50df99ab9f62ba89778e83a591ddc61e7c21adc2e866e71e9d6e5a439997"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-181-2006",
+   "path": "ordin/cncan/2006/181",
+   "short": "Ordin cncan nr. 181/2006",
+   "title": "Ordinul nr. 181/2006 privind aprovizionarea cu produse pentru care nu s-a obținut autorizația de produs, model sau tip în conformitate cu prevederile art. 23 alin. (1) din Legea nr. 111/1996 privind desfășurarea în siguranță, reglementarea, autorizarea și controlul activităților nucleare, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74279",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74279",
+     "sha256": "699a9833a18cf36da9b9bbf46713f0b09608b3a012885e075c2cac633a84b2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-184-2006",
+   "path": "ordin/cncan/2006/184",
+   "short": "Ordin cncan nr. 184/2006",
+   "title": "Ordinul nr. 184/2006 pentru aprobarea Normelor de securitate radiologică privind dezafectarea instalațiilor de minerit și/sau preparare a minereurilor de uraniu și/sau toriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74653",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74653",
+     "sha256": "599c5ec009eb6ed725ef6902eb606ef8ddb2fca3c046b820b1e63548704c87d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-213-2006",
+   "path": "ordin/cncan/2006/213",
+   "short": "Ordin cncan nr. 213/2006",
+   "title": "Ordinul nr. 213/2006 pentru aprobarea Ghidului privind cerințe tehnice pentru proiectarea, amplasarea, construcția, funcționarea, închiderea și dezafectarea incintelor amenajate pentru depozitarea minereurilor de uraniu și/sau toriu și a deșeurilor rezultate de la prepararea minereurilor de uraniu și/sau toriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74894",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74894",
+     "sha256": "836e03207a50b5c0af979fd8121a5aab0437d7b6f6b8d1f0fe39fb01e3082c90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-258-2006",
+   "path": "ordin/cncan/2006/258",
+   "short": "Ordin cncan nr. 258/2006",
+   "title": "Ordinul nr. 258/2006 privind interzicerea utilizării instalațiilor radiologice medicale de microradiofotografie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75949",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75949",
+     "sha256": "13eff6d1f5d3edcd5b10ad5e44d5ad87c4e5a2e04fe16640b37400b9949bdb85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-316-2006",
+   "path": "ordin/cncan/2006/316",
+   "short": "Ordin cncan nr. 316/2006",
+   "title": "Ordinul nr. 316/2006 pentru aprobarea Normelor privind evaluările probabilistice de securitate nucleară pentru centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77471",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77471",
+     "sha256": "df647b38dc642fc6f13716e59189e885820f940b7e6b3c3e536e98a33ab4611c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cncan-321-2006",
    "path": "ordin/cncan/2006/321",
    "short": "Ordin cncan nr. 321/2006",
@@ -6228,6 +6588,51 @@
    ]
   },
   {
+   "slug": "ordin-cncan-322-2006",
+   "path": "ordin/cncan/2006/322",
+   "short": "Ordin cncan nr. 322/2006",
+   "title": "Ordinul nr. 322/2006 privind completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 274/2005 pentru aprobarea Normelor privind controlul și supravegherea expedierilor internaționale de deșeuri radioactive implicând teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77349",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77349",
+     "sha256": "2319b36a055dc72aecb2eb0892cdf7d67eb9614d5231f5f9fdc13a9a0462d024"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-323-2006",
+   "path": "ordin/cncan/2006/323",
+   "short": "Ordin cncan nr. 323/2006",
+   "title": "Ordinul nr. 323/2006 privind completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 353/2001 pentru aprobarea Normelor de securitate radiologică privind radioprotecția operațională a lucrătorilor externi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77451",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77451",
+     "sha256": "7da60ba7c9a020083d61a08e93639aa738a167fbc70a29aa9774eadea7f6e1f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-324-2006",
+   "path": "ordin/cncan/2006/324",
+   "short": "Ordin cncan nr. 324/2006",
+   "title": "Ordinul nr. 324/2006 privind completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 14/2000 pentru aprobarea Normelor fundamentale de securitate radiologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77452",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77452",
+     "sha256": "36ce7bceda07957d6f8dd371a8d2963fd116272d25a42755c9ef52c2bddb775d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cncan-66-2006",
    "path": "ordin/cncan/2006/66",
    "short": "Ordin cncan nr. 66/2006",
@@ -6239,6 +6644,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70958",
      "sha256": "9134489e6edee32c712d07d837176c813092461895f3f548f6bc7e7f8af4fbcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-8-2006",
+   "path": "ordin/cncan/2006/8",
+   "short": "Ordin cncan nr. 8/2006",
+   "title": "Ordinul nr. 8/2006 pentru aprobarea Normelor privind avizarea personalului care desfășoară activități profesionale, cu caracter permanent sau temporar, în punctele de lucru vitale din cadrul instalațiilor nucleare sau care are acces la informații secrete de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68926",
+   "versions": [
+    {
+     "from": "2006-03-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68926",
+     "sha256": "4f91139e6e539a05501a9f2649e6d339348760bc036325960f289ddd9bde7e36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-85-2006",
+   "path": "ordin/cncan/2006/85",
+   "short": "Ordin cncan nr. 85/2006",
+   "title": "Ordinul nr. 85/2006 pentru aprobarea Ghidului privind protecția instalațiilor nucleare împotriva unui sabotaj din interior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71042",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71042",
+     "sha256": "3ae90806f09c5de208409369485abdb5f2882472da051bb91c4069be4f36724d"
     }
    ]
   },
@@ -6779,6 +7214,141 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71120",
      "sha256": "3d8cbec9bcb72a34f7cb6d0c5b247d5da019a8a407198cb3fbea2876ac8bccb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-100-2006",
+   "path": "ordin/copii/2006/100",
+   "short": "Ordin copii nr. 100/2006",
+   "title": "Ordinul nr. 100/2006 pentru aprobarea Planului-cadru de acțiune în vederea reintegrării sociale a copiilor străzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70440",
+   "versions": [
+    {
+     "from": "2006-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70440",
+     "sha256": "4b9be2beb00b430f80806f45a453e8945f0793e26df226d20d7bfd902ab7706d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-101-2006",
+   "path": "ordin/copii/2006/101",
+   "short": "Ordin copii nr. 101/2006",
+   "title": "Ordinul nr. 101/2006 privind aprobarea Standardelor minime obligatorii pentru centrul maternal și a Ghidului metodologic de implementare a acestor standarde",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72119",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72119",
+     "sha256": "fff68811b93a8e2bfe9b37cd95a2e3357c0ddae23a802c711ae76d8958c4c644"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-219-2006",
+   "path": "ordin/copii/2006/219",
+   "short": "Ordin copii nr. 219/2006",
+   "title": "Ordinul nr. 219/2006 privind activitățile de identificare, intervenție și monitorizare a copiilor care sunt lipsiți de îngrijirea părinților pe perioada în care aceștia se află la muncă în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72856",
+   "versions": [
+    {
+     "from": "2006-06-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72856",
+     "sha256": "04bfd80d276d6525fbc4c48ca1aa7d13e4a3daf0f4ebadf73216e8492fc9b8cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-280-2006",
+   "path": "ordin/copii/2006/280",
+   "short": "Ordin copii nr. 280/2006",
+   "title": "Ordinul nr. 280/2006 privind introducerea informațiilor din sistemul de protecție a copilului în baza de date Child Welfare Monitoring and Tracking Information System",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73479",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73479",
+     "sha256": "dd4ee0c067b04745d027169a6fdd43b4a328a894168d44fa3f4e4239587c0175"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-286-2006",
+   "path": "ordin/copii/2006/286",
+   "short": "Ordin copii nr. 286/2006",
+   "title": "Ordinul nr. 286/2006 pentru aprobarea Normelor metodologice privind întocmirea Planului de servicii și a Normelor metodologice privind întocmirea Planului individualizat de protecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73923",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73923",
+     "sha256": "4af341ec4558ba86eab5bc2d5d980c6ff16d1ddbdbdde119a0b4c7401e08b951"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-287-2006",
+   "path": "ordin/copii/2006/287",
+   "short": "Ordin copii nr. 287/2006",
+   "title": "Ordinul nr. 287/2006 pentru aprobarea Standardelor minime obligatorii privind centrul de pregătire și sprijinire a reintegrării sau integrării copilului în familie, precum și a ghidului metodologic de implementare a acestor standarde",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73889",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73889",
+     "sha256": "25783d0c4ea817dd3a91d778b8e12d28cd17241e85174d3228188c77a763b4a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-288-2006",
+   "path": "ordin/copii/2006/288",
+   "short": "Ordin copii nr. 288/2006",
+   "title": "Ordinul nr. 288/2006 pentru aprobarea Standardelor minime obligatorii privind managementul de caz în domeniul protecției drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73764",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73764",
+     "sha256": "5754f11f0165416e18521db78027c723e51ef471a53a5b53f53c537794d428d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-289-2006",
+   "path": "ordin/copii/2006/289",
+   "short": "Ordin copii nr. 289/2006",
+   "title": "Ordinul nr. 289/2006 pentru aprobarea Standardelor minime obligatorii privind centrul de consiliere și sprijin pentru părinți și copii și a ghidului metodologic de implementare a acestor standarde",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74019",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74019",
+     "sha256": "6655588ee025dcc75e463eb0646692522634923320efc5b061172499919e47ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-95-2006",
+   "path": "ordin/copii/2006/95",
+   "short": "Ordin copii nr. 95/2006",
+   "title": "Ordinul nr. 95/2006 pentru aprobarea Metodologiei de lucru privind colaborarea dintre direcțiile generale de asistență socială și protecția copilului și serviciile publice de asistență socială/persoane cu atribuții de asistență socială, în domeniul protecției drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70550",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70550",
+     "sha256": "c3e92d65a5aa9ad2da58719159c0d43a0ba76015bab47f622e01143559f0973e"
     }
    ]
   },
@@ -7364,6 +7934,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76677",
      "sha256": "e1372cad3395f244e49d8c052a48cf09c77042158f0c3ab1b4152c1c07447649"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-106-2006",
+   "path": "ordin/dizabilitati/2006/106",
+   "short": "Ordin dizabilitati nr. 106/2006",
+   "title": "Ordinul nr. 106/2006 privind aprobarea Metodologiei de organizare a cursului de limbaj mimico-gestual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72395",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72395",
+     "sha256": "7dacd5ed838d8c2295dda30eaf90f3523c783fe0db9b17955bf9f7b4f75f689a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-73-2006",
+   "path": "ordin/dizabilitati/2006/73",
+   "short": "Ordin dizabilitati nr. 73/2006",
+   "title": "Ordinul nr. 73/2006 privind aprobarea Metodologiei de evaluare, selectare și de finanțare a proiectelor din cadrul programelor de interes național în domeniul protecției drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70774",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70774",
+     "sha256": "a53cfc0fd67f3778426a38768b6b9b18b4d3bf52546cd2d70c97b08f1eff4ef4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-780-2006",
+   "path": "ordin/dizabilitati/2006/780",
+   "short": "Ordin dizabilitati nr. 780/2006",
+   "title": "Ordinul nr. 780/2006 privind aprobarea Criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției, integrării și incluziunii sociale a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77216",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77216",
+     "sha256": "b5a34597d2180d6980da5d65827ef21347384d5478f7a6b23960d3e8c534fb29"
     }
    ]
   },
@@ -8609,6 +9224,126 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78301",
      "sha256": "f3bf0b0e87fbac405b3a3030c1901ea27551aac20318e928fe6621eaf2c23323"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-1476-2006",
+   "path": "ordin/europene/2006/1476",
+   "short": "Ordin europene nr. 1476/2006",
+   "title": "Ordinul nr. 1.476/2006 privind modificarea Procedurilor de implementare, monitorizare și evaluare a subprogramului \"Investiții în turism\", aprobate prin Ordinul ministrului integrării europene nr. 368/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78052",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78052",
+     "sha256": "25e536bb8e4f2a1cb8164b577b9181316e017f788d28e176c05da7502b4bf0b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-787-2006",
+   "path": "ordin/europene/2006/787",
+   "short": "Ordin europene nr. 787/2006",
+   "title": "Ordinul nr. 787/2006 privind aprobarea Procedurilor de implementare, monitorizare și evaluare a subprogramului \"Asistență tehnică pentru pregătirea de proiecte, finanțabile prin Programul operațional regional 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74696",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74696",
+     "sha256": "8687230fe3a82bfc6ed89dece422a5bc78ea875e70b9f648be8795e7f0c233cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-82-2006",
+   "path": "ordin/europene/2006/82",
+   "short": "Ordin europene nr. 82/2006",
+   "title": "Ordinul nr. 82/2006 privind modificarea Procedurilor de implementare, monitorizare și evaluare a subprogramului \"Dezvoltarea orașelor prin stimularea activităților întreprinderilor mici și mijlocii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70315",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70315",
+     "sha256": "116792ceec6e39cbff4bb0e9ae6f3a56cb0e714b80c2cb26d4363c1c241029df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-83-2006",
+   "path": "ordin/europene/2006/83",
+   "short": "Ordin europene nr. 83/2006",
+   "title": "Ordinul nr. 83/2006 privind modificarea Procedurilor privind implementarea subprogramului \"Investiții în servicii sociale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70317",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70317",
+     "sha256": "b87f3d010dfafe6d5349c24ac1b7c19930d5435df29696cad0c584a5da9ce5ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-238-2006",
+   "path": "ordin/exporturi/2006/238",
+   "short": "Ordin exporturi nr. 238/2006",
+   "title": "Ordinul nr. 238/2006 pentru aprobarea formularului-tip de autorizație prevăzut în Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73212",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73212",
+     "sha256": "83c7374abaa7e45703ae290d03ce6fdf81736cf590e3e70053cc976bc792cb75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-322-2006",
+   "path": "ordin/exporturi/2006/322",
+   "short": "Ordin exporturi nr. 322/2006",
+   "title": "Ordinul nr. 322/2006 privind aprobarea formularelor-tip utilizate pentru eliberarea autorizației pentru efectuarea de operațiuni de comerț exterior cu produse militare, prevăzută de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74560",
+   "versions": [
+    {
+     "from": "2006-08-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74560",
+     "sha256": "61ff74665a44cb2da86dd8c1cd2db9db75c96ca96de73473b9a032c145e5a9ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-324-2006",
+   "path": "ordin/exporturi/2006/324",
+   "short": "Ordin exporturi nr. 324/2006",
+   "title": "Ordinul nr. 324/2006 privind aprobarea formularelor-tip utilizate pentru eliberarea licenței globale de import de produse militare, prevăzută de Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74769",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74769",
+     "sha256": "0b529a1968d7a5b0244a60555a52c44e97289e21d4b1b38f758c7b0da37d328b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-517-2006",
+   "path": "ordin/exporturi/2006/517",
+   "short": "Ordin exporturi nr. 517/2006",
+   "title": "Ordinul nr. 517/2006 pentru anularea prevederilor Ordinului președintelui Agenției Naționale de Control al Exporturilor nr. 42/2005 privind aplicarea regimului de control al exporturilor unui produs care nu figurează în listele de control cuprinzând produsele și tehnologiile cu dubla utilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79075",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79075",
+     "sha256": "00e9f920eabc3dab388fc48493812202f439ec4d6dafc84a14691fffc6219777"
     }
    ]
   },
@@ -10413,6 +11148,21 @@
    ]
   },
   {
+   "slug": "ordin-functiepublica-1552-2006",
+   "path": "ordin/functiepublica/2006/1552",
+   "short": "Ordin functiepublica nr. 1552/2006",
+   "title": "Ordinul nr. 1.552/2006 pentru aprobarea Deciziei Comisiei fiscale centrale nr. 5/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75811",
+   "versions": [
+    {
+     "from": "2006-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75811",
+     "sha256": "b39d531b705ac4236f1c1a6abd4db133e8ed597555cecc830cdcfe6a3b80ac7b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-guvern-388-2006",
    "path": "ordin/guvern/2006/388",
    "short": "Ordin guvern nr. 388/2006",
@@ -10424,6 +11174,561 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74029",
      "sha256": "d0093a1caa565d2b380a804e1bbaf561ec000ff75df716058c1fd6812f94fb2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-101-2006",
+   "path": "ordin/imm/2006/101",
+   "short": "Ordin imm nr. 101/2006",
+   "title": "Ordinul nr. 101/2006 privind modificarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 64/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70318",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70318",
+     "sha256": "19cb707abbe9f68c3bd4efe72ce8840313d362d4c7a9cfa647d7ccd7019a26cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-105-2006",
+   "path": "ordin/imm/2006/105",
+   "short": "Ordin imm nr. 105/2006",
+   "title": "Ordinul nr. 105/2006 privind modificarea anexei nr. 1 la Procedura de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea accesului microîntreprinderilor și a întreprinderilor mici la servicii de instruire și consultanță, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 55/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70340",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70340",
+     "sha256": "b7b9db17622a5c91cb32a401a9984f7df31eae628a7027c25a1b37ccb22fe3de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-131-2006",
+   "path": "ordin/imm/2006/131",
+   "short": "Ordin imm nr. 131/2006",
+   "title": "Ordinul nr. 131/2006 privind modificarea Ordinului președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 54/2006 privind aprobarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71347",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71347",
+     "sha256": "840ec801d4b3a9145d7a28e2236e68d260f238fec319f7e28145a6cb3396ce8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-143-2006",
+   "path": "ordin/imm/2006/143",
+   "short": "Ordin imm nr. 143/2006",
+   "title": "Ordinul nr. 143/2006 privind implementarea Programului UNCTAD/EMPRETEC - România pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71617",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71617",
+     "sha256": "b92c577640148bd8564c724cd700f630ca03b2a280dc8e0909812ac65bebed39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-168-2006",
+   "path": "ordin/imm/2006/168",
+   "short": "Ordin imm nr. 168/2006",
+   "title": "Ordinul nr. 168/2006 privind modificarea Procedurii de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea accesului microîntreprinderilor și a întreprinderilor mici la servicii de instruire și consultanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71973",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71973",
+     "sha256": "e7cde10b29ac0a600cc7a5263a13323260d42736bf932d134d93b5a588757f43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-169-2006",
+   "path": "ordin/imm/2006/169",
+   "short": "Ordin imm nr. 169/2006",
+   "title": "Ordinul nr. 169/2006 privind modificarea Procedurii de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71974",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71974",
+     "sha256": "2c46eca7d17ef858daa713d0f5c01601820fe6034cbfa654c56ed122225378c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-171-2006",
+   "path": "ordin/imm/2006/171",
+   "short": "Ordin imm nr. 171/2006",
+   "title": "Ordinul nr. 171/2006 pentru modificarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 54/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72039",
+   "versions": [
+    {
+     "from": "2006-05-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72039",
+     "sha256": "70106eb295eab8cfdd54fdf1229cbe54d8e41cca50c0ea35249dd3813be8451a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-172-2006",
+   "path": "ordin/imm/2006/172",
+   "short": "Ordin imm nr. 172/2006",
+   "title": "Ordinul nr. 172/2006 privind modificarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 64/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72065",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72065",
+     "sha256": "2ed9e4d111e0da9e071ef7cbfeb4e17677fbddebd207745856da551e7a43a636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-173-2006",
+   "path": "ordin/imm/2006/173",
+   "short": "Ordin imm nr. 173/2006",
+   "title": "Ordinul nr. 173/2006 privind modificarea Procedurii de implementare a Programului pentru informarea și educarea comercianților, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 56/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72066",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72066",
+     "sha256": "c61780e580c8d63fd3e388f1e207dd0ddf9572d9bff1b6e6f26c1ff51e5231ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-181-2006",
+   "path": "ordin/imm/2006/181",
+   "short": "Ordin imm nr. 181/2006",
+   "title": "Ordinul nr. 181/2006 privind aprobarea Procedurii de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72820",
+   "versions": [
+    {
+     "from": "2006-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72820",
+     "sha256": "a18ffc30eecaf7f16000093442d9e533f820b2de766fa0a08f4e95835bf7048e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-214-2006",
+   "path": "ordin/imm/2006/214",
+   "short": "Ordin imm nr. 214/2006",
+   "title": "Ordinul nr. 214/2006 privind modificarea anexei la Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 65/2006 privind Centrul Român al Calității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73226",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73226",
+     "sha256": "5688628312763f48e53dbb18d887348f6cd79a89595f2ff9a9dd45e0c954c5e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-221-2006",
+   "path": "ordin/imm/2006/221",
+   "short": "Ordin imm nr. 221/2006",
+   "title": "Ordinul nr. 221/2006 privind completarea Ordinului președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 115/2005 privind aprobarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73358",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73358",
+     "sha256": "282a02306a1cf74f739ce5c0b7345ac450a59398ed1b1ae846b878d99f8e3ada"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-233-2006",
+   "path": "ordin/imm/2006/233",
+   "short": "Ordin imm nr. 233/2006",
+   "title": "Ordinul nr. 233/2006 pentru modificarea pct. 2 din Procedura de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 64/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73862",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73862",
+     "sha256": "53d250fa73a0c114063d993d8763c927f0d25c7e925b809dff6b9c30f6f67439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-252-2006",
+   "path": "ordin/imm/2006/252",
+   "short": "Ordin imm nr. 252/2006",
+   "title": "Ordinul nr. 252/2006 pentru modificarea și completarea Procedurii de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 181/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74609",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74609",
+     "sha256": "f9ad94b1b9f29284e453ec39c50727454a6093e018771abc034cebaa287f6430"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-284-2006",
+   "path": "ordin/imm/2006/284",
+   "short": "Ordin imm nr. 284/2006",
+   "title": "Ordinul nr. 284/2006 privind modificarea pct. 2 din Procedura de implementare a Programului național multianual pe perioada 2005-2008 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 49/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75599",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75599",
+     "sha256": "42c498567cfb2cd5e412e12cdd8abfb1ade5d59560a6c3201eda2636766d0a24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-300-2006",
+   "path": "ordin/imm/2006/300",
+   "short": "Ordin imm nr. 300/2006",
+   "title": "Ordinul nr. 300/2006 pentru modificarea Ordinului președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 85/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2006 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76166",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76166",
+     "sha256": "72b67ac2043242336459b2e457a2ee2581b768870cbf12f5dc1c651d6038f93d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-323-2006",
+   "path": "ordin/imm/2006/323",
+   "short": "Ordin imm nr. 323/2006",
+   "title": "Ordinul nr. 323/2006 privind modificarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77377",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77377",
+     "sha256": "8cfceeab5f530784a4b774f56608f9b4ca650726a7a56882fc5876b626ab83b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-364-2006",
+   "path": "ordin/imm/2006/364",
+   "short": "Ordin imm nr. 364/2006",
+   "title": "Ordinul nr. 364/2006 privind modificarea pct. 2 din Procedura de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 64/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77596",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77596",
+     "sha256": "315118f4808f16850dc72c3f2b2cf00e5541d0c3b3d6af0119fe1fc7deae8613"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-4-2006",
+   "path": "ordin/imm/2006/4",
+   "short": "Ordin imm nr. 4/2006",
+   "title": "Ordinul nr. 4/2006 privind modificarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67911",
+   "versions": [
+    {
+     "from": "2006-01-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67911",
+     "sha256": "9b143e6c8a3b173bf428bbc69996b9b316b8ec1e8c9f0aae8a167cbed896ac6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-49-2006",
+   "path": "ordin/imm/2006/49",
+   "short": "Ordin imm nr. 49/2006",
+   "title": "Ordinul nr. 49/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2005-2008 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69265",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69265",
+     "sha256": "7eabb4caf8ab00d1ac44ac6f5247b0a94765384ff3834c8ccc15a29319aecc23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-52-2006",
+   "path": "ordin/imm/2006/52",
+   "short": "Ordin imm nr. 52/2006",
+   "title": "Ordinul nr. 52/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2006-2009 de sprijinire a întreprinderilor mici și mijlocii în dezvoltarea exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69730",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69730",
+     "sha256": "554555e22b9c6736bd9914cbce6536821f28d356fdb33c758cbbc063a3a71ff3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-53-2006",
+   "path": "ordin/imm/2006/53",
+   "short": "Ordin imm nr. 53/2006",
+   "title": "Ordinul nr. 53/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69731",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69731",
+     "sha256": "a334c68af5575a402d0e9cc3ba266799848000ea70ba6f31d535fd7d8f84dc04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-54-2006",
+   "path": "ordin/imm/2006/54",
+   "short": "Ordin imm nr. 54/2006",
+   "title": "Ordinul nr. 54/2006 privind aprobarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piața",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69732",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69732",
+     "sha256": "fb46c697b2cf0a826b9ce00b5edbfcc4cf6c9acc0500782979fd86c031aceb2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-55-2006",
+   "path": "ordin/imm/2006/55",
+   "short": "Ordin imm nr. 55/2006",
+   "title": "Ordinul nr. 55/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea accesului microîntreprinderilor și a întreprinderilor mici la servicii de instruire și consultanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69733",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69733",
+     "sha256": "3647e92fafe1223a079985bd59cf91fbe5f9b4150c61fa51bfdc030ec0671320"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-64-2006",
+   "path": "ordin/imm/2006/64",
+   "short": "Ordin imm nr. 64/2006",
+   "title": "Ordinul nr. 64/2006 privind aprobarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69603",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69603",
+     "sha256": "f0bd1292f08ea49ee61dad6f6802b6a546bb714db6139558bc3d984eeda85c96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-65-2006",
+   "path": "ordin/imm/2006/65",
+   "short": "Ordin imm nr. 65/2006",
+   "title": "Ordinul nr. 65/2006 privind Centrul Român al Calității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69808",
+   "versions": [
+    {
+     "from": "2006-03-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69808",
+     "sha256": "4a4b70b0c84a3d6af622856b7f366649fa605872d22e372527e10ee07dae2beb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-69-2006",
+   "path": "ordin/imm/2006/69",
+   "short": "Ordin imm nr. 69/2006",
+   "title": "Ordinul nr. 69/2006 privind aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69739",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69739",
+     "sha256": "22ebb89dabd9bcf60848a1549998698e95c1ce865cbd4d2ce1a2b52ed76b1ab9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-85-2006",
+   "path": "ordin/imm/2006/85",
+   "short": "Ordin imm nr. 85/2006",
+   "title": "Ordinul nr. 85/2006 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2006 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69925",
+   "versions": [
+    {
+     "from": "2006-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69925",
+     "sha256": "9e6484350623befa7c43aaeee77795ad60bc1978a44abc308936a17660d747ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-426-2006",
+   "path": "ordin/ins/2006/426",
+   "short": "Ordin ins nr. 426/2006",
+   "title": "Ordinul nr. 426/2006 pentru stabilirea Metodologiei cercetării statistice privind potențialul productiv al plantațiilor de pomi fructiferi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70947",
+   "versions": [
+    {
+     "from": "2006-04-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70947",
+     "sha256": "12dbd71117bd7d2007af513ced9ba4b036c80322d945ee9c1923368c2d0e2b2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-443-2006",
+   "path": "ordin/ins/2006/443",
+   "short": "Ordin ins nr. 443/2006",
+   "title": "Ordinul nr. 443/2006 pentru stabilirea Metodologiei privind cercetarea statistică referitoare la traficul portuar maritim",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71380",
+   "versions": [
+    {
+     "from": "2006-05-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71380",
+     "sha256": "838f3fb6d5ed3c9a3c7be199ad755852e29ccf87608dd4ad8b4e924c78fc6cef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-446-2006",
+   "path": "ordin/ins/2006/446",
+   "short": "Ordin ins nr. 446/2006",
+   "title": "Ordinul nr. 446/2006 pentru stabilirea Metodologiei privind cercetarea statistică referitoare la traficul de mărfuri pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71480",
+   "versions": [
+    {
+     "from": "2006-05-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71480",
+     "sha256": "88dc6c45ef965281e95d881e5a7176229ec0fbf51bc670935bf815cdae3f6ad4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-536-2006",
+   "path": "ordin/ins/2006/536",
+   "short": "Ordin ins nr. 536/2006",
+   "title": "Ordinul nr. 536/2006 privind modificarea și completarea anexei la Ordinul președintelui Institutului Național de Statistică nr. 1.224/2005 pentru stabilirea Metodologiei cercetărilor statistice lunare și anuale referitoare la producția de lapte și produse lactate (IND L), modulul industrie alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72313",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72313",
+     "sha256": "6252d4a87a1466238ea1e0e545cba451efd223616096f829b07fb3162f25bf1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-537-2006",
+   "path": "ordin/ins/2006/537",
+   "short": "Ordin ins nr. 537/2006",
+   "title": "Ordinul nr. 537/2006 pentru stabilirea Metodologiei cercetării statistice privind efectivele de ovine și caprine și producția animală obținută și a Metodologiei cercetării statistice lunare și anuale referitoare la producția de carne de ovine și caprine din abatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72318",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72318",
+     "sha256": "fa94bb7900a7d61865ebf89f5c8a608dbbdd924e5ca095a82bf01c5067a29969"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-538-2006",
+   "path": "ordin/ins/2006/538",
+   "short": "Ordin ins nr. 538/2006",
+   "title": "Ordinul nr. 538/2006 privind Metodologia trecerii de la produsul intern brut la venitul național brut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72310",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72310",
+     "sha256": "46f124349219242a985f3ba377856aa5885b821b35a28eb8fc92330628feac39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-539-2006",
+   "path": "ordin/ins/2006/539",
+   "short": "Ordin ins nr. 539/2006",
+   "title": "Ordinul nr. 539/2006 privind completarea anexei la Ordinul președintelui Institutului Național de Statistică nr. 1.221/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de animale existente la 1 decembrie și producția animală obținută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72307",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72307",
+     "sha256": "a4ec1ffcdf15f3861b84f1fccaa20bd2726487c0194e52bd4b790b842f42cd39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-540-2006",
+   "path": "ordin/ins/2006/540",
+   "short": "Ordin ins nr. 540/2006",
+   "title": "Ordinul nr. 540/2006 privind completarea anexei la Ordinul președintelui Institutului Național de Statistică nr. 1.222/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de bovine existente la 1 iunie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72308",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72308",
+     "sha256": "5f532c4fdac492a0f30d097ab035619d5f793df4d4f5993cb6a8d69f16361bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-541-2006",
+   "path": "ordin/ins/2006/541",
+   "short": "Ordin ins nr. 541/2006",
+   "title": "Ordinul nr. 541/2006 privind completarea anexei la Ordinul președintelui Institutului Național de Statistică nr. 1.223/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de porcine existente la 1 aprilie/1 august",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72309",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72309",
+     "sha256": "48aa7ed52a4a26fa8805bbedb2f2a26a6ed354a8017c8f0763cf98883830464d"
     }
    ]
   },
@@ -10934,6 +12239,171 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75980",
      "sha256": "09434ccb1f422b7241230999b0ebce97ee265a261c397a76e2e8eaf1e5614b45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-293-2006",
+   "path": "ordin/isc/2006/293",
+   "short": "Ordin isc nr. 293/2006",
+   "title": "Ordinul nr. 293/2006 pentru aprobarea modelului și conținutului Legitimației de control destinate utilizării în activitatea de control al statului în amenajarea teritoriului, urbanism și autorizarea executării lucrărilor de construcții, precum și cu privire la aplicarea unitară a prevederilor legale în domeniul calității în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71993",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71993",
+     "sha256": "52372cf35a5e4b5da8b3034b5a0bfd092db962bed1bee76a2ace2eb433c983b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-362-2006",
+   "path": "ordin/isc/2006/362",
+   "short": "Ordin isc nr. 362/2006",
+   "title": "Ordinul nr. 362/2006 privind accesul la informațiile de interes public, la nivelul Inspectoratului de Stat în Construcții - I.S.C.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73043",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73043",
+     "sha256": "04125d1218f53ee8039e307b08b17660aa5912b3cf75f25eaf27bb92b5bef3ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-704-2006",
+   "path": "ordin/isc/2006/704",
+   "short": "Ordin isc nr. 704/2006",
+   "title": "Ordinul nr. 704/2006 pentru aprobarea Procedurii de autorizare a personalului de specialitate în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78505",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78505",
+     "sha256": "1deb4e58e72f566ebb8dce71c9cbc4d9cfe20571c14dfe91951836cec76fae57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-705-2006",
+   "path": "ordin/isc/2006/705",
+   "short": "Ordin isc nr. 705/2006",
+   "title": "Ordinul nr. 705/2006 pentru aprobarea Procedurii privind evaluarea laboratoarelor de analiza și încercări în construcții în vederea autorizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78506",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78506",
+     "sha256": "0c2eede495642b49e42ed46f6e3d38f12f3887df1a17bdb93953212179a50b78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-253-2006",
+   "path": "ordin/iscir/2006/253",
+   "short": "Ordin iscir nr. 253/2006",
+   "title": "Ordinul nr. 253/2006 privind aprobarea modelului de autorizație pentru responsabilul cu supravegherea și verificarea tehnică a instalațiilor (RSVTI)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71816",
+   "versions": [
+    {
+     "from": "2006-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71816",
+     "sha256": "a84400aaf229e55fcde2c79a663dd69e224a04a4b226fce78005a15673428a2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-333-2006",
+   "path": "ordin/iscir/2006/333",
+   "short": "Ordin iscir nr. 333/2006",
+   "title": "Ordinul nr. 333/2006 pentru aprobarea Procedurii privind autorizarea operatorilor responsabili cu supravegherea tehnică a instalațiilor și a modelului Autorizației pentru supravegherea și verificarea tehnică a instalațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74999",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74999",
+     "sha256": "7091661c989bdea4c4b5a8f888a0018d772187d6b6b22e87417945385b256a97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-337-2006",
+   "path": "ordin/iscir/2006/337",
+   "short": "Ordin iscir nr. 337/2006",
+   "title": "Ordinul nr. 337/2006 privind modificarea și completarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 253/2006 privind aprobarea modelului de autorizație pentru responsabilul cu supravegherea și verificarea tehnică a instalațiilor (RSVTI)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73230",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73230",
+     "sha256": "f3a759f974f142f06cd8cc570df962fbb50430328d9fe5ffc1e065bade4cff32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-36-2006",
+   "path": "ordin/iscir/2006/36",
+   "short": "Ordin iscir nr. 36/2006",
+   "title": "Ordinul nr. 36/2006 privind afișarea scadenței de verificare la ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69035",
+   "versions": [
+    {
+     "from": "2006-03-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69035",
+     "sha256": "d9f22c4b0b901dd2ab3f314677b8e7cbab140aef8947e3de74e33f71060330fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-548-2006",
+   "path": "ordin/iscir/2006/548",
+   "short": "Ordin iscir nr. 548/2006",
+   "title": "Ordinul nr. 548/2006 privind modificarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 333/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77837",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77837",
+     "sha256": "a56976193acc97913da79d79df19c2fbd80acd73b7fa9ed2c6bc25677a4ad5b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-577-2006",
+   "path": "ordin/iscir/2006/577",
+   "short": "Ordin iscir nr. 577/2006",
+   "title": "Ordinul nr. 577/2006 privind efectuarea unor controale ale echipamentelor din domeniul ISCIR deținute/utilizate de către unitățile de cultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79273",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79273",
+     "sha256": "dd32e83c140143c8e11b8e04233dba193f81ecd4183be8e5493c67a278dc884d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-580-2006",
+   "path": "ordin/iscir/2006/580",
+   "short": "Ordin iscir nr. 580/2006",
+   "title": "Ordinul nr. 580/2006 privind completarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 333/2006 pentru aprobarea Procedurii privind autorizarea operatorilor responsabili cu supravegherea tehnică a instalațiilor și a modelului Autorizației pentru supravegherea și verificarea tehnică a instalațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78750",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78750",
+     "sha256": "0248071f1e81488ea21984fa0bf3d47e5281fd0cdf5c4f9fbcde676bc7a089b3"
     }
    ]
   },
@@ -12063,6 +13533,36 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-101-2006",
+   "path": "ordin/metrologie/2006/101",
+   "short": "Ordin metrologie nr. 101/2006",
+   "title": "Ordinul nr. 101/2006 pentru aprobarea unor modificări în cuprinsul anexei la Lista oficială a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72328",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72328",
+     "sha256": "88a8e41e0f701d0dece6ed13d44c0cbc718b39e48cb78a7cd226f8d2c689b2ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-103-2006",
+   "path": "ordin/metrologie/2006/103",
+   "short": "Ordin metrologie nr. 103/2006",
+   "title": "Ordinul nr. 103/2006 privind modificarea art. 5 din unele ordine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72412",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72412",
+     "sha256": "93ed79470c82edadedeec98e497411c5ee5dfa337738d6c03763871ca5e4c788"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-10-2006",
    "path": "ordin/munca/2006/10",
    "short": "Ordin munca nr. 10/2006",
@@ -12618,6 +14118,171 @@
    ]
   },
   {
+   "slug": "ordin-orniss-11-2006",
+   "path": "ordin/orniss/2006/11",
+   "short": "Ordin orniss nr. 11/2006",
+   "title": "Ordinul nr. 11/2006 pentru aprobarea Directivei INFOSEC privind Catalogul național cu produse, profile și pachete de protecție INFOSEC - INFOSEC 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68882",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68882",
+     "sha256": "b82b1f277fe743540a227cbbc1a791ced5b3728cb346686ed3292fbad50ad8b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-13-2006",
+   "path": "ordin/orniss/2006/13",
+   "short": "Ordin orniss nr. 13/2006",
+   "title": "Ordinul nr. 13/2006 pentru aprobarea Normelor-cadru privind securitatea fizică a informațiilor UE clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68928",
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68928",
+     "sha256": "7daf161e53f1b66797305efc759fd4785bfb90f999ae238305ccd130f4fba650"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-159-2006",
+   "path": "ordin/orniss/2006/159",
+   "short": "Ordin orniss nr. 159/2006",
+   "title": "Ordinul nr. 159/2006 pentru aprobarea Directivei INFOSEC tehnice și de implementare privind securitatea emisiei - INFOSEC 6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68854",
+   "versions": [
+    {
+     "from": "2006-02-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68854",
+     "sha256": "f0bda6e259a151ea85f7e166147f60ae7ccf8810d32ac93300d05ed727fcc1cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-160-2006",
+   "path": "ordin/orniss/2006/160",
+   "short": "Ordin orniss nr. 160/2006",
+   "title": "Ordinul nr. 160/2006 pentru aprobarea Normelor-cadru privind securitatea informațiilor UE clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69252",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69252",
+     "sha256": "31c59c46e1a6336bdb6fe3d65183bf49069560c742c624534ca99e0861f35779"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-167-2006",
+   "path": "ordin/orniss/2006/167",
+   "short": "Ordin orniss nr. 167/2006",
+   "title": "Ordinul nr. 167/2006 pentru aprobarea Metodologiei de acreditare a entităților pentru evaluarea produselor de securitate IT și a sistemelor informatice și de comunicații - INFOSEC 12",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69724",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69724",
+     "sha256": "83ba60fff868e5ab18d80fb0f0da29ff06ee3d9801355a14cb8a9a5b4869d586"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-170-2006",
+   "path": "ordin/orniss/2006/170",
+   "short": "Ordin orniss nr. 170/2006",
+   "title": "Ordinul nr. 170/2006 pentru aprobarea Ghidului de securitate privind sistemul de operare Windows 2000 Server - DS 17",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70297",
+   "versions": [
+    {
+     "from": "2006-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70297",
+     "sha256": "919480f34c3a5e83e8315a09cbba1cff5f141e540d3a10613e789a979b7ac130"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-171-2006",
+   "path": "ordin/orniss/2006/171",
+   "short": "Ordin orniss nr. 171/2006",
+   "title": "Ordinul nr. 171/2006 pentru aprobarea Ghidului INFOSEC privind estimarea nivelurilor de încredere pentru medii specifice în care operează sisteme informatice și de comunicații - DS 13",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70298",
+   "versions": [
+    {
+     "from": "2006-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70298",
+     "sha256": "980189cac7d54e240b535bfa062bb839d9bf1fac8c170bb69bb0670800de4766"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-181-2006",
+   "path": "ordin/orniss/2006/181",
+   "short": "Ordin orniss nr. 181/2006",
+   "title": "Ordinul nr. 181/2006 pentru aprobarea Metodologiei de evaluare și certificare a produselor, profilelor și pachetelor de protecție INFOSEC-INFOSEC 14",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71948",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71948",
+     "sha256": "2e80580a931fb343fb5586003c8f043759df2963818e2a80d9b509254089d0da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-187-2006",
+   "path": "ordin/orniss/2006/187",
+   "short": "Ordin orniss nr. 187/2006",
+   "title": "Ordinul nr. 187/2006 pentru aprobarea Instrucțiunilor privind managementul, utilizarea și protecția materialului criptografic NATO în România, I.C.-1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71177",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71177",
+     "sha256": "0c2b3926fedb8400eaa09aa9e0510f74f3c9a93bfb84c79963b8851446e70bc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-192-2006",
+   "path": "ordin/orniss/2006/192",
+   "short": "Ordin orniss nr. 192/2006",
+   "title": "Ordinul nr. 192/2006 privind aprobarea Procedurii de acreditare, desființare sau reacreditare a componentelor Sistemului național de registre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72337",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72337",
+     "sha256": "1ba5d7d71b20653f2dfdec01d5f10761025ea6843788cebbf17c9c623a50bd52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-5-2006",
+   "path": "ordin/orniss/2006/5",
+   "short": "Ordin orniss nr. 5/2006",
+   "title": "Ordinul nr. 5/2006 pentru aprobarea Instrucțiunilor privind transportul materialelor NATO clasificate AC-1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68476",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68476",
+     "sha256": "13ef22e1fe85d7ca469b04850716a83217123e5b29e93c314d726d6bff4fdc28"
+    }
+   ]
+  },
+  {
    "slug": "ordin-prognoza-243-2006",
    "path": "ordin/prognoza/2006/243",
    "short": "Ordin prognoza nr. 243/2006",
@@ -12659,6 +14324,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74041",
      "sha256": "edcd0a6adea7446f75af8ac3e443406bc72d5b3345187c8479e375fa7802b09a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romi-172-2006",
+   "path": "ordin/romi/2006/172",
+   "short": "Ordin romi nr. 172/2006",
+   "title": "Ordinul nr. 172/2006 privind aprobarea Metodologiei de gestionare a Programului de dezvoltare comunitară în localitatea Hădăreni, comuna Chețani, județul Mureș, pentru perioada 2006-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74020",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74020",
+     "sha256": "a1c0092e3b3eb45d0a6a915abbe869104a46a2e8753dba8babda889119e4b9cf"
     }
    ]
   },

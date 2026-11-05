@@ -363,6 +363,36 @@
    ]
   },
   {
+   "slug": "ordin-privatizare-187-1993",
+   "path": "ordin/privatizare/1993/187",
+   "short": "Ordin privatizare nr. 187/1993",
+   "title": "Ordinul nr. 187/1993 privind arondarea societăților comerciale cu capital de stat, în vederea distribuirii a 30% din capitalul social al acestora, între cele cinci Fonduri ale Proprietății Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3366",
+   "versions": [
+    {
+     "from": "1993-04-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3366",
+     "sha256": "6185e0deb989f637bdf4adbebd1e3f429dde86be7c2893bc5e9375fbb8a45962"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-privatizare-340-1993",
+   "path": "ordin/privatizare/1993/340",
+   "short": "Ordin privatizare nr. 340/1993",
+   "title": "Ordinul nr. 340/1993 privind arondarea societăților comerciale care nu au fost privatizate în cadrul programului de privatizare pilot, cuprinse în anexa nr. 6 la Ordinul nr. 187/13.04.1993, în vederea distribuirii a 30% din capitalul social al acestora între cele cinci Fonduri ale Proprietății Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17642",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17642",
+     "sha256": "db76321a00dc343d5f7737d4439bc2218abcd08f39292b4414f229b66fec5f10"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1137-1993",
    "path": "ordin/sanatate/1993/1137",
    "short": "Ordin sanatate nr. 1137/1993",
@@ -389,6 +419,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3731",
      "sha256": "3548d38fbc3ef65bb1770c4a7d63e683f21df4f3205d72a7da86cdac988a81c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-102-1993",
+   "path": "ordin/turism/1993/102",
+   "short": "Ordin turism nr. 102/1993",
+   "title": "Ordinul nr. 102/1993 pentru aprobarea Instrucțiunilor privind acordarea licențelor și a brevetelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3295",
+   "versions": [
+    {
+     "from": "1993-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3295",
+     "sha256": "5fcdf36c203cea0b217db38ec079edb26cb36a78736c8b5e957df38b4deb1258"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-185-1993",
+   "path": "ordin/turism/1993/185",
+   "short": "Ordin turism nr. 185/1993",
+   "title": "Ordinul nr. 185/1993 privind aprobarea Normelor privind constituirea și utilizarea garanției financiare pentru agențiile de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3364",
+   "versions": [
+    {
+     "from": "1993-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3364",
+     "sha256": "a519444241dadc695d4f544a3a32b2e4112ec36a95ea93cd8dd859892196876e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-69-1993",
+   "path": "ordin/turism/1993/69",
+   "short": "Ordin turism nr. 69/1993",
+   "title": "Ordinul nr. 69/1993 pentru aprobarea Normelor metodologice privind stabilirea tarifelor pentru unitățile turistice de cazare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3227",
+   "versions": [
+    {
+     "from": "1993-05-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3227",
+     "sha256": "c86f7022c9ade17473d392e2e6fe429fc0c76d88066968fc8935443f3c2e5418"
     }
    ]
   }

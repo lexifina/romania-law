@@ -271,6 +271,51 @@
      "sha256": "6839e694a5a72a16163786cc0dd83ca7abee5bfd48d8147e7894eb818045a908"
     }
    ]
+  },
+  {
+   "slug": "regulament-ccir-27-2023",
+   "path": "regulament/ccir/2023/27",
+   "short": "Regulament ccir nr. 27/2023",
+   "title": "Regulamentul nr. 27/2023 privind avizarea, supravegherea, controlul și sancționarea activității burselor de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278516",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278516",
+     "sha256": "0426a903e7e70719f1542777b64d7d0b9f203d0baeb28e192464cf11d0696f40"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2023",
+   "path": "regulament/fgdb/2023/1",
+   "short": "Regulament fgdb nr. 1/2023",
+   "title": "Regulamentul nr. 1/2023 pentru modificarea Regulamentului Fondului de garantare a depozitelor bancare nr. 2/2016 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270894",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270894",
+     "sha256": "5427d88b124ae7f12aa73104c864d33ee188ac63f60cffa02b8157a48d5cac80"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-2-2023",
+   "path": "regulament/fgdb/2023/2",
+   "short": "Regulament fgdb nr. 2/2023",
+   "title": "Regulamentul nr. 2/2023 pentru abrogarea Regulamentului Fondului de garantare a depozitelor bancare nr. 4/2016 privind organizarea exercițiilor de simulare de criză de către Fondul de garantare a depozitelor bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277945",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277945",
+     "sha256": "692fdd95d48b4d25b6eead2f2e4f6530a885b60a1c3eb91f1e1b8ca7aecfb5fb"
+    }
+   ]
   }
  ]
 }

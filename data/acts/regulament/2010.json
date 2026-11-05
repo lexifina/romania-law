@@ -780,6 +780,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124011",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-3-2010",
+"path": "regulament/fgdb/2010/3",
+"kind": "regulament",
+"year": "2010",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 3/2010 pentru modificarea Regulamentului Fondului de garantare a depozitelor în sistemul bancar nr. 3/2009 privind transmiterea către Fondul de garantare a depozitelor în sistemul bancar a situației deponenților garantați",
+"short": "Regulament fgdb nr. 3/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-02",
+"latest": "2010-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120052",
+"issuer": "fgdb",
+"joint": []
+},
+{
+"slug": "regulament-fgdb-5-2010",
+"path": "regulament/fgdb/2010/5",
+"kind": "regulament",
+"year": "2010",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 5/2010 pentru modificarea și completarea Regulamentului Fondului de garantare a depozitelor în sistemul bancar nr. 3/2009 privind transmiterea către Fondul de garantare a depozitelor în sistemul bancar a situației deponenților garantați",
+"short": "Regulament fgdb nr. 5/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-08-17",
+"latest": "2010-08-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121531",
+"issuer": "fgdb",
+"joint": []
 }
 ]
 }

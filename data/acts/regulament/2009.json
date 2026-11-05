@@ -628,6 +628,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114953",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-3-2009",
+"path": "regulament/fgdb/2009/3",
+"kind": "regulament",
+"year": "2009",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 3/2009 privind transmiterea către Fondul de garantare a depozitelor în sistemul bancar a situației deponenților garantați",
+"short": "Regulament fgdb nr. 3/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-11-29",
+"latest": "2009-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/110936",
+"issuer": "fgdb",
+"joint": []
+},
+{
+"slug": "regulament-fgdb-4-2009",
+"path": "regulament/fgdb/2009/4",
+"kind": "regulament",
+"year": "2009",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 4/2009 privind participarea la Fondul de garantare a depozitelor în sistemul bancar a sucursalelor din România ale instituțiilor de credit autorizate în alte state membre",
+"short": "Regulament fgdb nr. 4/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-09-05",
+"latest": "2009-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/110932",
+"issuer": "fgdb",
+"joint": []
 }
 ]
 }

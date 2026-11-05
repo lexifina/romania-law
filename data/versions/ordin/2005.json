@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "ordin-aaas-4513-2005",
+   "path": "ordin/aaas/2005/4513",
+   "short": "Ordin aaas nr. 4513/2005",
+   "title": "Ordinul nr. 4.513/2005 pentru abrogarea Ordinului nr. 4.450/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitramonia\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60058",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60058",
+     "sha256": "41d94d06c4c8eb027edc0ffd191375b4f1213ebcedb8cf24bec87075d07367e7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-4594-2005",
    "path": "ordin/aaas/2005/4594",
    "short": "Ordin aaas nr. 4594/2005",
@@ -239,6 +254,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61999",
      "sha256": "9c91baa4d56df55058f6d1193868e8ae72ffb89bdd0393d7582b917019012375"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5023-2005",
+   "path": "ordin/aaas/2005/5023",
+   "short": "Ordin aaas nr. 5023/2005",
+   "title": "Ordinul nr. 5.023/2005 privind abrogarea Ordinului ministrului Autorității pentru Privatizare și Administrarea Participațiilor Statului nr. 49/2002 privind instituirea procedurii de administrare specială la Societatea Comercială \"Petrovest\" - S.A. Borș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62130",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62130",
+     "sha256": "e242ad316a965a0d50020bad43536beb4aed523d07fd1b62d2deb5d3647ee565"
     }
    ]
   },
@@ -2568,6 +2598,66 @@
    ]
   },
   {
+   "slug": "ordin-anfp-206-2005",
+   "path": "ordin/anfp/2005/206",
+   "short": "Ordin anfp nr. 206/2005",
+   "title": "Ordinul nr. 206/2005 pentru aprobarea Metodologiei de evaluare a posturilor și a Criteriilor de evaluare a posturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61142",
+   "versions": [
+    {
+     "from": "2005-04-22",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61142",
+     "sha256": "ed91428dcf632e85cb1e21eeeb617f784bc83b7a6131cc069bca62520326f655"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-207-2005",
+   "path": "ordin/anfp/2005/207",
+   "short": "Ordin anfp nr. 207/2005",
+   "title": "Ordinul nr. 207/2005 privind aprobarea Regulamentului-cadru pentru organizarea examenului de promovare în clasă a funcționarilor publici, încadrați pe funcții publice cu nivel de studii inferior, care absolvesc în cursul anului 2005 o formă de învățământ superior de lungă sau de scurtă durată în specialitatea în care își desfășoară activitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59697",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59697",
+     "sha256": "5d1b93d1b0a033164710ae2a1f8e43e2fcd63f80c7c0f05a4822f17f837f2c11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-211-2005",
+   "path": "ordin/anfp/2005/211",
+   "short": "Ordin anfp nr. 211/2005",
+   "title": "Ordinul nr. 211/2005 pentru modificarea anexei nr. 1 la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 2.753/2004 privind aprobarea Instrucțiunilor pentru elaborarea Planului de ocupare a funcțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59677",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59677",
+     "sha256": "83ce960e4bcd7d75ecea9440660d999cc4e6834c3c33516e1be9beef8320bf35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-4094-2005",
+   "path": "ordin/anfp/2005/4094",
+   "short": "Ordin anfp nr. 4094/2005",
+   "title": "Ordinul nr. 4.094/2005 privind aprobarea Criteriilor de performanță pe baza cărora se face evaluarea performanțelor profesionale individuale ale funcționarilor publici pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65312",
+   "versions": [
+    {
+     "from": "2005-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65312",
+     "sha256": "5e3f2ec2f15f57d269137fcab88ef41693fcea62d3ad578b5e58fe2c34c4ba1f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-106-2005",
    "path": "ordin/anpc/2005/106",
    "short": "Ordin anpc nr. 106/2005",
@@ -4023,6 +4113,51 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-293-2005",
+   "path": "ordin/anrsc/2005/293",
+   "short": "Ordin anrsc nr. 293/2005",
+   "title": "Ordinul nr. 293/2005 pentru punerea în aplicare a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62033",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62033",
+     "sha256": "5f45936a720e1aa2918622260b5b84f798f993e7c7352cd50763d2416eb372fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-659-2005",
+   "path": "ordin/anrsc/2005/659",
+   "short": "Ordin anrsc nr. 659/2005",
+   "title": "Ordinul nr. 659/2005 privind modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 259/2004 pentru aprobarea Normelor privind autorizarea în domeniul montării și exploatării sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65707",
+   "versions": [
+    {
+     "from": "2005-11-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65707",
+     "sha256": "8e91a7ce1d87b714ee0deb32201ba5fcd92537ebcfdc3a520ed44e41dbc783c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-660-2005",
+   "path": "ordin/anrsc/2005/660",
+   "short": "Ordin anrsc nr. 660/2005",
+   "title": "Ordinul nr. 660/2005 privind abrogarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 293/2005 pentru punerea în aplicare a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65696",
+   "versions": [
+    {
+     "from": "2005-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65696",
+     "sha256": "6316a6e241a0178e8af6575045d2b95adeb5228bb2e27556c04e80116a457d9e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2005",
    "path": "ordin/ansvsa/2005/1",
    "short": "Ordin ansvsa nr. 1/2005",
@@ -5403,6 +5538,21 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-43-2005",
+   "path": "ordin/antidoping/2005/43",
+   "short": "Ordin antidoping nr. 43/2005",
+   "title": "Ordinul nr. 43/2005 privind aprobarea \"Listei interzise\" pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67460",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67460",
+     "sha256": "26bcd4b262104664e02465778df05691605cb7106f902190abb10fe2aa6c782b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-22-2005",
    "path": "ordin/aparare/2005/22",
    "short": "Ordin aparare nr. 22/2005",
@@ -5579,6 +5729,171 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68679",
      "sha256": "85991d23624fb3a521908ff83e5e5bca98e3e349e4dec1578b1b609fc94812e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-156-2005",
+   "path": "ordin/cncan/2005/156",
+   "short": "Ordin cncan nr. 156/2005",
+   "title": "Ordinul nr. 156/2005 pentru aprobarea Normelor privind clasificarea deșeurilor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62843",
+   "versions": [
+    {
+     "from": "2005-07-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62843",
+     "sha256": "dfbc0222f206733e9252f35e48c333ea40d4cf76560764b3ba1b0d7337b6c8d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-221-2005",
+   "path": "ordin/cncan/2005/221",
+   "short": "Ordin cncan nr. 221/2005",
+   "title": "Ordinul nr. 221/2005 pentru aprobarea Normelor privind limitarea eliberărilor de efluenți radioactivi în mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64901",
+   "versions": [
+    {
+     "from": "2005-09-09",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64901",
+     "sha256": "405c291d04d2e358b0ac83ab13d1dcdf0c9cc8dc50fa2be11bc23e9c8453d42a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-275-2005",
+   "path": "ordin/cncan/2005/275",
+   "short": "Ordin cncan nr. 275/2005",
+   "title": "Ordinul nr. 275/2005 pentru aprobarea Normelor privind monitorizarea radioactivității mediului în vecinătatea unei instalații nucleare sau radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31837",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31837",
+     "sha256": "2d16ae6f00f21038cada07e08d7ca11338891c113a89db41f543b208e7165c94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-276-2005",
+   "path": "ordin/cncan/2005/276",
+   "short": "Ordin cncan nr. 276/2005",
+   "title": "Ordinul nr. 276/2005 pentru aprobarea Normelor privind monitorizarea emisiilor radioactive de la instalațiile nucleare și radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31786",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31786",
+     "sha256": "c75a1c0975541be998807675e2946f14e1166453932618e1bffd153525568e27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-356-2005",
+   "path": "ordin/cncan/2005/356",
+   "short": "Ordin cncan nr. 356/2005",
+   "title": "Ordinul nr. 356/2005 pentru aprobarea Normelor privind sursele orfane și controlul surselor închise de mare activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66677",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66677",
+     "sha256": "94e69f6f14382dee2f98a212f86de08fe7e54ab5c5a41c0f062e89cc5eb4600e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-357-2005",
+   "path": "ordin/cncan/2005/357",
+   "short": "Ordin cncan nr. 357/2005",
+   "title": "Ordinul nr. 357/2005 pentru aprobarea Normelor privind transportul materialelor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67057",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67057",
+     "sha256": "695c869786a5313cd112e93a54094961843f1f1b83349206f194c8814bc158af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-364-2005",
+   "path": "ordin/cncan/2005/364",
+   "short": "Ordin cncan nr. 364/2005",
+   "title": "Ordinul nr. 364/2005 pentru aprobarea Normelor privind sistemul anvelopei pentru centralele nuclearoelectrice de tip CANDU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66652",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66652",
+     "sha256": "8537264bcd1814b088c45a8dc81b51ed7ca206b5ef0d3d6fab2b2d81e113af83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-365-2005",
+   "path": "ordin/cncan/2005/365",
+   "short": "Ordin cncan nr. 365/2005",
+   "title": "Ordinul nr. 365/2005 pentru aprobarea Normelor privind sistemele de oprire rapidă pentru centralele nuclearoelectrice de tip CANDU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66405",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66405",
+     "sha256": "6f4d993fbdde306ee824fbb0f4068bd33c3ac78dbc215bccf236d42897faaa82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-372-2005",
+   "path": "ordin/cncan/2005/372",
+   "short": "Ordin cncan nr. 372/2005",
+   "title": "Ordinul nr. 372/2005 privind interzicerea utilizării instalațiilor radiologice medicale de fluoroscopie fără intensificator de imagine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66487",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66487",
+     "sha256": "1fe37063921bafe186c91f5dcc0abb3b522cc2ef988e3122ebf9ae1ff1f703ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-400-2005",
+   "path": "ordin/cncan/2005/400",
+   "short": "Ordin cncan nr. 400/2005",
+   "title": "Ordinul nr. 400/2005 pentru aprobarea Normelor privind depozitarea la suprafață a deșeurilor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70866",
+   "versions": [
+    {
+     "from": "2006-04-17",
+     "units": 152,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70866",
+     "sha256": "b8144dca3b634c4a9e13f7de1381bdca254db8e0eb3987c3a835822aef0caab4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-407-2005",
+   "path": "ordin/cncan/2005/407",
+   "short": "Ordin cncan nr. 407/2005",
+   "title": "Ordinul nr. 407/2005 pentru aprobarea Normelor privind autorizarea executării construcțiilor cu specific nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69446",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69446",
+     "sha256": "abf7bf1811ff897e334cc7c3c404a3cd6f286d9de82aa219e926d70b2d72f853"
     }
    ]
   },
@@ -6438,6 +6753,66 @@
    ]
   },
   {
+   "slug": "ordin-copii-107-2005",
+   "path": "ordin/copii/2005/107",
+   "short": "Ordin copii nr. 107/2005",
+   "title": "Ordinul nr. 107/2005 pentru aprobarea modelului de anchetă socială privind situația sociofamilială a copilului român aflat neînsoțit pe teritoriul altui stat, în vederea repatrierii acestuia și a reintegrării sale sociale, și a structurii-cadru a planului referitor la pregătirea reintegrării sociale a copilului care se află neînsoțit pe teritoriul altui stat și care urmează a fi repatriat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60409",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60409",
+     "sha256": "5888816973311dc9451514f2f020b75f14b1394a4e4badf40c418a9e03eb0f40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-112-2005",
+   "path": "ordin/copii/2005/112",
+   "short": "Ordin copii nr. 112/2005",
+   "title": "Ordinul nr. 112/2005 pentru aprobarea Metodologiei de finanțare și selectare a proiectelor din cadrul programelor de interes național în domeniul protecției copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60410",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60410",
+     "sha256": "97560a58dc15bdf0e73b3217d3466e46ae37d8365285d4e7d3e15804d500a25b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-132-2005",
+   "path": "ordin/copii/2005/132",
+   "short": "Ordin copii nr. 132/2005",
+   "title": "Ordinul nr. 132/2005 pentru aprobarea standardelor minime obligatorii privind serviciile destinate protecției copiilor străzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64214",
+   "versions": [
+    {
+     "from": "2005-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64214",
+     "sha256": "20e0d31b6359b86204b52e708efd33c112adea574b1c0a13ba30de6a65e2be56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-145-2005",
+   "path": "ordin/copii/2005/145",
+   "short": "Ordin copii nr. 145/2005",
+   "title": "Ordinul nr. 145/2005 pentru aprobarea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor în domeniul protecției drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63081",
+   "versions": [
+    {
+     "from": "2005-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63081",
+     "sha256": "ccd9f14aef47682ca968f42582c91ae5038484f1053bb7f9ac125ff883710a97"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-3101-2005",
    "path": "ordin/csa/2005/3101",
    "short": "Ordin csa nr. 3101/2005",
@@ -6884,6 +7259,126 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67121",
      "sha256": "75fb7bd4f6832069846c89233f9d47dbe6ea3f2a659b5552b033db13884b46d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-121-2005",
+   "path": "ordin/dizabilitati/2005/121",
+   "short": "Ordin dizabilitati nr. 121/2005",
+   "title": "Ordinul nr. 121/2005 privind aprobarea regulamentelor de organizare și funcționare a Autorității Naționale pentru Persoanele cu Handicap, a Comisiei superioare de expertiza medicală a persoanelor cu handicap pentru adulți, a inspecțiilor regionale și a Institutului Național pentru Prevenirea și Combaterea Excluziunii Sociale a Persoanelor cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63674",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63674",
+     "sha256": "b87446a067de6144544ac59dbbead1898d391cf31bb63210945cb29287803915"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-205-2005",
+   "path": "ordin/dizabilitati/2005/205",
+   "short": "Ordin dizabilitati nr. 205/2005",
+   "title": "Ordinul nr. 205/2005 privind aprobarea Standardelor minime de calitate pentru centre rezidențiale pentru persoane adulte cu handicap, centre de zi pentru persoane adulte cu handicap și locuințe protejate pentru persoane adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64222",
+   "versions": [
+    {
+     "from": "2005-08-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64222",
+     "sha256": "276e9c4c36a70a3f985b5714b79bcb2a9aae1f7bb499b5ef83955fe81128cd2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-245-2005",
+   "path": "ordin/dizabilitati/2005/245",
+   "short": "Ordin dizabilitati nr. 245/2005",
+   "title": "Ordinul nr. 245/2005 privind aprobarea Regulamentului de organizare și funcționare a Autorității Naționale pentru Persoanele cu Handicap, precum și a Regulamentului de organizare și funcționare a Institutului Național pentru Prevenirea și Combaterea Excluziunii Sociale a Persoanelor cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31668",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31668",
+     "sha256": "603f02a7f85af355dddf5c38f65c7280a55e595a7a537152835e86b089c0352d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-248-2005",
+   "path": "ordin/dizabilitati/2005/248",
+   "short": "Ordin dizabilitati nr. 248/2005",
+   "title": "Ordinul nr. 248/2005 privind aprobarea Metodologiei de control, inspecție și monitorizare, aplicabilă în domeniul de competență al Autorității Naționale pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31732",
+   "versions": [
+    {
+     "from": "2005-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31732",
+     "sha256": "36c90c777b457544aaa9c8d03ff679816a7033d3d7046cfec969400149b955f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-363-2005",
+   "path": "ordin/dizabilitati/2005/363",
+   "short": "Ordin dizabilitati nr. 363/2005",
+   "title": "Ordinul nr. 363/2005 pentru aprobarea Planului național privind formarea personalului din sistemul de protecție a persoanelor cu handicap pentru perioada 2006-2008 și a Programei-cadru de instruire specifică a personalului implicat în protecția și îngrijirea persoanei adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66763",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66763",
+     "sha256": "867265fbcdf9d064694c29a25c6f71d8f26b73ea0fe17954230efe721ef38a12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-367-2005",
+   "path": "ordin/dizabilitati/2005/367",
+   "short": "Ordin dizabilitati nr. 367/2005",
+   "title": "Ordinul nr. 367/2005 privind aprobarea Criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției, integrării și incluziunii sociale a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66328",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66328",
+     "sha256": "babf7dc7334e2fea4ba5e5615a4e92dd957fc57f523d217ea967dce69997ee7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-402-2005",
+   "path": "ordin/dizabilitati/2005/402",
+   "short": "Ordin dizabilitati nr. 402/2005",
+   "title": "Ordinul nr. 402/2005 privind modificarea lit. i) și j) ale pct. II.2 din cap. II al Criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției, integrării și incluziunii sociale a persoanelor cu handicap, aprobate prin Ordinul președintelui Autorității Naționale pentru Persoanele cu Handicap nr. 367/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67079",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67079",
+     "sha256": "6d8bd2069324163a1f60567b57f6d9f2137b95916f3244be9026e8a1143f88d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-94-2005",
+   "path": "ordin/dizabilitati/2005/94",
+   "short": "Ordin dizabilitati nr. 94/2005",
+   "title": "Ordinul nr. 94/2005 privind aprobarea Metodologiei de organizare a cursului pentru obținerea atestatului de interpret în limbajul mimico-gestual specific persoanelor cu deficiențe de auz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61182",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61182",
+     "sha256": "a40d19a4b89b85419d9f15fa380c010bab8cd49a2d32702d287f187b5183054e"
     }
    ]
   },
@@ -8538,6 +9033,96 @@
    ]
   },
   {
+   "slug": "ordin-egalitate-40-2005",
+   "path": "ordin/egalitate/2005/40",
+   "short": "Ordin egalitate nr. 40/2005",
+   "title": "Ordinul nr. 40/2005 privind aprobarea Regulamentului de organizare și funcționare al Comisiei naționale în domeniul egalității de șanse între femei și bărbați (CONES)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65580",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65580",
+     "sha256": "6764993650f60d6f95cbac768f477d718664b722b44905fc24c0e2e3fb6098a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-117-2005",
+   "path": "ordin/europene/2005/117",
+   "short": "Ordin europene nr. 117/2005",
+   "title": "Ordinul nr. 117/2005 privind modificarea Procedurilor de implementare, monitorizare și evaluare a subprogramului \"Investiții în turism\", aprobate prin Ordinul ministrului integrării europene nr. 368/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59456",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59456",
+     "sha256": "18175387762e483a1cb9eee1bde18b9bde2c8dcdacd7b906af8a443ee425a247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-331-2005",
+   "path": "ordin/europene/2005/331",
+   "short": "Ordin europene nr. 331/2005",
+   "title": "Ordinul nr. 331/2005 pentru aprobarea Procedurii de implementare, monitorizare și evaluare a subprogramului \"Asistență tehnică acordată birourilor regionale pentru cooperare transfrontalieră\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64780",
+   "versions": [
+    {
+     "from": "2005-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64780",
+     "sha256": "47c040d3fa0b798ca5114eb0bc3a6168ae77aad54e638577a8554506f4b942ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-177-2005",
+   "path": "ordin/exporturi/2005/177",
+   "short": "Ordin exporturi nr. 177/2005",
+   "title": "Ordinul nr. 177/2005 privind aprobarea Normelor metodologice referitoare la declarațiile industriale prevăzute de Legea nr. 56/1997 pentru aplicarea prevederilor Convenției privind interzicerea dezvoltării, producerii, stocării și folosirii armelor chimice și distrugerea acestora, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61879",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61879",
+     "sha256": "a9171d7d7c3543be1c2d05e1549ac86dcda8b6c7be30d4a91444d6eb7b833411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-42-2005",
+   "path": "ordin/exporturi/2005/42",
+   "short": "Ordin exporturi nr. 42/2005",
+   "title": "Ordinul nr. 42/2005 privind aplicarea regimului de control al exporturilor unui produs care nu figurează în listele de control cuprinzând produsele și tehnologiile cu dublă utilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59107",
+   "versions": [
+    {
+     "from": "2005-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59107",
+     "sha256": "fee0fb1e8b167635ac26ef5c9f91bc1019961483f28dcb4c7eaa059c75562a77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-59-2005",
+   "path": "ordin/exporturi/2005/59",
+   "short": "Ordin exporturi nr. 59/2005",
+   "title": "Ordinul nr. 59/2005 privind aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59323",
+   "versions": [
+    {
+     "from": "2005-03-19",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59323",
+     "sha256": "0abdea85bb3bd3138ebffdd0a6c1e4ad5f2130a9cbbbe7319224031d2b5845a1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-101-2005",
    "path": "ordin/externe/2005/101",
    "short": "Ordin externe nr. 101/2005",
@@ -10098,6 +10683,516 @@
    ]
   },
   {
+   "slug": "ordin-imm-101-2005",
+   "path": "ordin/imm/2005/101",
+   "short": "Ordin imm nr. 101/2005",
+   "title": "Ordinul nr. 101/2005 pentru aprobarea Procedurii de implementare a Programului național multianual de înființare și dezvoltare de incubatoare de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62414",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62414",
+     "sha256": "f7cbec746384c07cdff7ddae53588ef2ee1416b41026dec26dbf580e0f33afdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-102-2005",
+   "path": "ordin/imm/2005/102",
+   "short": "Ordin imm nr. 102/2005",
+   "title": "Ordinul nr. 102/2005 privind Procedura de avizare pentru conformitatea statutului asociațiilor sau uniunilor județene/naționale de societăți cooperative cu prevederile Legii nr. 1/2005 privind organizarea și funcționarea cooperației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62291",
+   "versions": [
+    {
+     "from": "2005-06-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62291",
+     "sha256": "a067848f8e84eeb58bd3d95aa1c9152c0f9a41ce1cf5ea49d27e115f073dafdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-114-2005",
+   "path": "ordin/imm/2005/114",
+   "short": "Ordin imm nr. 114/2005",
+   "title": "Ordinul nr. 114/2005 privind aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Național Cooperatist - TINCOOP 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62909",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62909",
+     "sha256": "aced1e9e7f61e3b2ea9d0814677f0215c55ae69cd6eb2d309b78054a10999083"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-115-2005",
+   "path": "ordin/imm/2005/115",
+   "short": "Ordin imm nr. 115/2005",
+   "title": "Ordinul nr. 115/2005 privind aprobarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62880",
+   "versions": [
+    {
+     "from": "2005-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62880",
+     "sha256": "54960023679b5c75fb9a50058896c778f13d8e6f2cb188f079118bdf52bf5775"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-129-2005",
+   "path": "ordin/imm/2005/129",
+   "short": "Ordin imm nr. 129/2005",
+   "title": "Ordinul nr. 129/2005 privind modificarea și completarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru impozitul pe profitul reinvestit, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 79/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63765",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63765",
+     "sha256": "8061a95abeba425f3a637a80c4335116c6e1ae51cb7235b9efa111476534eaca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-134-2005",
+   "path": "ordin/imm/2005/134",
+   "short": "Ordin imm nr. 134/2005",
+   "title": "Ordinul nr. 134/2005 privind modificarea pct. 2 din Procedura de implementare a Programului național multianual pe perioada 2002-2005 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63809",
+   "versions": [
+    {
+     "from": "2005-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63809",
+     "sha256": "af44a9437cc30ed4d04d3963dc2f5d6d8984ef9678799bbf7158ab123a9c109f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-140-2005",
+   "path": "ordin/imm/2005/140",
+   "short": "Ordin imm nr. 140/2005",
+   "title": "Ordinul nr. 140/2005 pentru aprobarea Procedurii de implementare a Programului național multianual pe perioada 2005-2008 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64087",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64087",
+     "sha256": "9999ebe6f439e453298a01f9152e6cda37b135893a7bbde99922947e2244387d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-143-2005",
+   "path": "ordin/imm/2005/143",
+   "short": "Ordin imm nr. 143/2005",
+   "title": "Ordinul nr. 143/2005 privind modificarea și completarea Procedurii de implementare a Programului național pentru susținerea meșteșugurilor și artizanatului, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 49/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64263",
+   "versions": [
+    {
+     "from": "2005-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64263",
+     "sha256": "8969bd21cf4c9696302c59e726e431b24d210ed5c888096d75259bdd785ed9ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-155-2005",
+   "path": "ordin/imm/2005/155",
+   "short": "Ordin imm nr. 155/2005",
+   "title": "Ordinul nr. 155/2005 privind modificarea subpct. 2.2 din Procedura de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64545",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64545",
+     "sha256": "cc29f45629e3b3402919531d0509823890a6f5423db08691bb0074c683226d4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-156-2005",
+   "path": "ordin/imm/2005/156",
+   "short": "Ordin imm nr. 156/2005",
+   "title": "Ordinul nr. 156/2005 privind modificarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64481",
+   "versions": [
+    {
+     "from": "2005-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64481",
+     "sha256": "5707e88798f5482f605088ede83ee755d31d722de6da122c03b6b2be18851897"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-158-2005",
+   "path": "ordin/imm/2005/158",
+   "short": "Ordin imm nr. 158/2005",
+   "title": "Ordinul nr. 158/2005 privind modificarea pct. 2 din Procedura de implementare a Programului național multianual pe perioada 2005-2008 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64598",
+   "versions": [
+    {
+     "from": "2005-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64598",
+     "sha256": "1b844fc5f6cb2d9c0481fc53fcfc917c18e3d3eb7bfd47a1424c615da207a5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-164-2005",
+   "path": "ordin/imm/2005/164",
+   "short": "Ordin imm nr. 164/2005",
+   "title": "Ordinul nr. 164/2005 privind modificarea Procedurii de implementare a Programului național multianual pe perioada 2005-2008 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91069",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91069",
+     "sha256": "9bc737529f53b12c8f86dfd13f53c90e6f1330fce6fb477b8f67b684c64c10bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-179-2005",
+   "path": "ordin/imm/2005/179",
+   "short": "Ordin imm nr. 179/2005",
+   "title": "Ordinul nr. 179/2005 privind modificarea pct. 2 din Procedura de implementare a Programului național multianual pe perioada 2002-2005 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65340",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65340",
+     "sha256": "fafa3d0aaad58a90df8d2e7381f518d9c0572cc8c3b5c9a41dac3f5205d6b17f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-197-2005",
+   "path": "ordin/imm/2005/197",
+   "short": "Ordin imm nr. 197/2005",
+   "title": "Ordinul nr. 197/2005 privind modificarea procedurii de implementare a Programului național multianual de înființare și dezvoltare de incubatoare de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65667",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65667",
+     "sha256": "37afa5093b32f114d01457f3a48fa423e590b3423d017829b44841dab390fe6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-213-2005",
+   "path": "ordin/imm/2005/213",
+   "short": "Ordin imm nr. 213/2005",
+   "title": "Ordinul nr. 213/2005 pentru modificarea Regulamentului de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66006",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66006",
+     "sha256": "3f4ecf164029ee3eb8f089c10f8cbaf4308230719186455d49f5d642cf5ababa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-216-2005",
+   "path": "ordin/imm/2005/216",
+   "short": "Ordin imm nr. 216/2005",
+   "title": "Ordinul nr. 216/2005 privind modificarea pct. 2 din Procedura de implementare a Programului național multianual pe perioada 2002-2005 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 46/2005, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66526",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66526",
+     "sha256": "f3b1450833aceaa5d96edf39fc94bf6498cab3450bb9adc9d1d8f960b38e816c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-219-2005",
+   "path": "ordin/imm/2005/219",
+   "short": "Ordin imm nr. 219/2005",
+   "title": "Ordinul nr. 219/2005 privind modificarea anexei nr. 1 la Regulamentul de organizare și funcționare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație, aprobat prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 115/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66327",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66327",
+     "sha256": "f189fc64b310856635d452be06e994ae78826343ad4c2fc3c49d3fa54094e5f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-42-2005",
+   "path": "ordin/imm/2005/42",
+   "short": "Ordin imm nr. 42/2005",
+   "title": "Ordinul nr. 42/2005 privind aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60083",
+   "versions": [
+    {
+     "from": "2005-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60083",
+     "sha256": "706bacc89204a4faa6764d565beb8ba6ace4d99c83e72165b7101563b9e1c57d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-43-2005",
+   "path": "ordin/imm/2005/43",
+   "short": "Ordin imm nr. 43/2005",
+   "title": "Ordinul nr. 43/2005 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2005 de sprijinire a întreprinderilor mici și mijlocii în dezvoltarea exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60216",
+   "versions": [
+    {
+     "from": "2005-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60216",
+     "sha256": "93214c333b41f29aaf8124de8e6a7e8df51339fbce835dcb8144b02300ac42cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-46-2005",
+   "path": "ordin/imm/2005/46",
+   "short": "Ordin imm nr. 46/2005",
+   "title": "Ordinul nr. 46/2005 pentru aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2005 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60474",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60474",
+     "sha256": "459248ac2e82f12d692ed92ff0d17fb4d12b3f1207812034080ec11d3ba443fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-47-2005",
+   "path": "ordin/imm/2005/47",
+   "short": "Ordin imm nr. 47/2005",
+   "title": "Ordinul nr. 47/2005 privind aprobarea Procedurii de implementare a Programului pentru informarea și educarea comercianților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60433",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60433",
+     "sha256": "8388a83c2cc38326bb82fee85d36db9d28056f2da7c3c87e530f55dc001ff6bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-48-2005",
+   "path": "ordin/imm/2005/48",
+   "short": "Ordin imm nr. 48/2005",
+   "title": "Ordinul nr. 48/2005 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2005 pentru susținerea accesului microîntreprinderilor și a întreprinderilor mici la servicii de instruire și consultanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60553",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60553",
+     "sha256": "2b4598b20de0bbaf4fb65d8cca05070e56019b5d957ed0509db0870670d80de4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-49-2005",
+   "path": "ordin/imm/2005/49",
+   "short": "Ordin imm nr. 49/2005",
+   "title": "Ordinul nr. 49/2005 privind aprobarea Procedurii de implementare a Programului național pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60505",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60505",
+     "sha256": "9423a951375f1c6d4f60adb547398a5464dde6f0f52d6c36e400cc97b231f663"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-56-2005",
+   "path": "ordin/imm/2005/56",
+   "short": "Ordin imm nr. 56/2005",
+   "title": "Ordinul nr. 56/2005 privind modificarea art. 3 din Regulamentul de organizare și funcționare a Grupului pentru evaluarea impactului economic al actelor normative asupra întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60414",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60414",
+     "sha256": "79de231e916a1bea5963e3fcf8ef009ba482ae2462685beffb511bc85a347ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-62-2005",
+   "path": "ordin/imm/2005/62",
+   "short": "Ordin imm nr. 62/2005",
+   "title": "Ordinul nr. 62/2005 privind modificarea subpunctului 2.1 din Procedura de implementare a Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2005, aprobată prin Ordinul președintelui Agenției Naționale pentru Întreprinderi Mici și Mijlocii și Cooperație nr. 42/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60728",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60728",
+     "sha256": "852e5c90b015aa7e4920430c380732c46eb36155362285a54d06cce5da2370fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-63-2005",
+   "path": "ordin/imm/2005/63",
+   "short": "Ordin imm nr. 63/2005",
+   "title": "Ordinul nr. 63/2005 privind aprobarea Procedurii de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60972",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60972",
+     "sha256": "b250516af228dba9e913f6fc4dcabd63882a20fa1d4530a81f9d5803261e286e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-79-2005",
+   "path": "ordin/imm/2005/79",
+   "short": "Ordin imm nr. 79/2005",
+   "title": "Ordinul nr. 79/2005 privind aprobarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru impozitul pe profitul reinvestit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61725",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61725",
+     "sha256": "a8492a1380735d357ee9f892acdf1eb81660367bf0ad310eae269db1e31a788b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-95-2005",
+   "path": "ordin/imm/2005/95",
+   "short": "Ordin imm nr. 95/2005",
+   "title": "Ordinul nr. 95/2005 privind modificarea Regulamentului de organizare și funcționare a Grupului pentru evaluarea impactului economic al actelor normative asupra întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62004",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62004",
+     "sha256": "810ec59c8bd1ed42bc99f8803c2e1cbcebb910071daf211e2657a8eb20264821"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1221-2005",
+   "path": "ordin/ins/2005/1221",
+   "short": "Ordin ins nr. 1221/2005",
+   "title": "Ordinul nr. 1.221/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de animale existente la 1 decembrie și producția animală obținută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68051",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68051",
+     "sha256": "4cfafa67a7dbcf788d66a80acf67513a9d26f932aa74d044354055154de24252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1222-2005",
+   "path": "ordin/ins/2005/1222",
+   "short": "Ordin ins nr. 1222/2005",
+   "title": "Ordinul nr. 1.222/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de bovine existente la 1 iunie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68053",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68053",
+     "sha256": "edd161ba7448e2de7c611c80583ec15faf66bb726e9def2a2c04e35a44e8a74f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1224-2005",
+   "path": "ordin/ins/2005/1224",
+   "short": "Ordin ins nr. 1224/2005",
+   "title": "Ordinul nr. 1.224/2005 pentru stabilirea Metodologiei cercetărilor statistice lunare și anuale referitoare la producția de lapte și produse lactate (IND L), modulul industrie alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68092",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68092",
+     "sha256": "73f83bf4a9bcb469349570a86ef3a42ff232a6cd4ce78dd1e2a027eb7886a1a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1227-2005",
+   "path": "ordin/ins/2005/1227",
+   "short": "Ordin ins nr. 1227/2005",
+   "title": "Ordinul nr. 1.227/2005 pentru stabilirea Metodologiei cercetării statistice privind cererea turistica a rezidenților în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68891",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68891",
+     "sha256": "fc92d94d045a676f21284bd11a8934214cc3fc3e0516e251fab35f8028cc65d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1228-2005",
+   "path": "ordin/ins/2005/1228",
+   "short": "Ordin ins nr. 1228/2005",
+   "title": "Ordinul nr. 1.228/2005 pentru stabilirea Metodologiei cercetării statistice privind frecventarea structurilor de primire turistica cu funcțiuni de cazare turistica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68892",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68892",
+     "sha256": "1943880d6084db68398ccc6319a5aa3ec2c5fcca854c00b83d23a7f3aaa04cc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-954-2005",
+   "path": "ordin/ins/2005/954",
+   "short": "Ordin ins nr. 954/2005",
+   "title": "Ordinul nr. 954/2005 privind stabilirea persoanelor împuternicite să constate contravenții și să aplice amenzi pentru contravențiile prevăzute de Ordonanța Guvernului nr. 9/1992 privind organizarea statisticii oficiale, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64261",
+   "versions": [
+    {
+     "from": "2005-08-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64261",
+     "sha256": "a24c740744ada03fae031aa21301c9cccde465a4e43495d31c74761ce8ce5d80"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1012-2005",
    "path": "ordin/interne/2005/1012",
    "short": "Ordin interne nr. 1012/2005",
@@ -10544,6 +11639,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31568",
      "sha256": "7227aeb7f264fe00b5a12d4b7df74ff4dc7f44453f04bf4de187d8b79489f908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-257-2005",
+   "path": "ordin/isc/2005/257",
+   "short": "Ordin isc nr. 257/2005",
+   "title": "Ordinul nr. 257/2005 privind aprobarea Procedurii de autorizare a diriginților de șantier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66238",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66238",
+     "sha256": "347d231cf8a101b744e7eecc4a4ca658f982fc8b29131fb1d143007a89f60f73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-304-2005",
+   "path": "ordin/iscir/2005/304",
+   "short": "Ordin iscir nr. 304/2005",
+   "title": "Ordinul nr. 304/2005 pentru aprobarea Metodologiei privind personalizarea recipientelor-butelii cu capacitate până la 26 litri pentru GPL",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62776",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62776",
+     "sha256": "fc6b4c4195821e6c3f0d73caf06ff01cde78f516f50383d3fe6b836352e22b22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-401-2005",
+   "path": "ordin/iscir/2005/401",
+   "short": "Ordin iscir nr. 401/2005",
+   "title": "Ordinul nr. 401/2005 privind aprobarea aplicării sigiliilor de către inspectorii de specialitate din cadrul Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat (ISCIR) la instalațiile și echipamentele neautorizate sau care nu prezintă siguranță în funcționare, conform Prescripțiilor tehnice - Colecția ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64075",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64075",
+     "sha256": "2724b278094a0b4cb81121ddefa6f42a83dc751ae2cc8d963e48b3b786bf753c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-542-2005",
+   "path": "ordin/iscir/2005/542",
+   "short": "Ordin iscir nr. 542/2005",
+   "title": "Ordinul nr. 542/2005 pentru efectuarea de controale inopinate privind respectarea Prescripției tehnice C 3-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66079",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66079",
+     "sha256": "34ddd9a1c5246522ce1c89af36fd64e553006a45f2baa2d93f920744614f2728"
     }
    ]
   },
@@ -11478,6 +12633,741 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-140-2005",
+   "path": "ordin/metrologie/2005/140",
+   "short": "Ordin metrologie nr. 140/2005",
+   "title": "Ordinul nr. 140/2005 pentru completarea Normei de metrologie legală NML 024-03 \"Manometre cu element elastic\", aprobată prin Ordinul directorului general al Biroului Român de Metrologie Legală nr. 268/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63005",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63005",
+     "sha256": "fab004df2595870b5905388687a89e84ddcde72d1dc31fe2d95ef870ed8a21e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-171-2005",
+   "path": "ordin/metrologie/2005/171",
+   "short": "Ordin metrologie nr. 171/2005",
+   "title": "Ordinul nr. 171/2005 pentru completarea art. 3 din unele ordine ale directorului general al Biroului Român de Metrologie Legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64546",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64546",
+     "sha256": "6989530f8cdc9b0e03d1b8e9cef09ba61a9d10764be4e67498b66c95a84a52af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-287-2005",
+   "path": "ordin/metrologie/2005/287",
+   "short": "Ordin metrologie nr. 287/2005",
+   "title": "Ordinul nr. 287/2005 privind aprobarea Normei de metrologie legală NML 008-05 ”Aparate de cântărit cu funcționare automată”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66542",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66542",
+     "sha256": "384dc911d0802f39420435502ca9a308ac2f1944036500665456cd3af519bd91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-288-2005",
+   "path": "ordin/metrologie/2005/288",
+   "short": "Ordin metrologie nr. 288/2005",
+   "title": "Ordinul nr. 288/2005 privind aprobarea Normei de metrologie legală NML 005-05 \"Contoare de energie electrică activa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66543",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66543",
+     "sha256": "e1f7d43885cbbd778d2ba59bec02fc7e3cc6e58ff4d6b8a1dc77f41313f7b56f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-289-2005",
+   "path": "ordin/metrologie/2005/289",
+   "short": "Ordin metrologie nr. 289/2005",
+   "title": "Ordinul nr. 289/2005 privind aprobarea Normei de metrologie legală NML 044-05 \"Măsuri de volum pentru cereale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66544",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66544",
+     "sha256": "44fdc385ef2ab0c2243c8f2a92fb0329e832fa1348f405db925cd2ad96e8c2f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-290-2005",
+   "path": "ordin/metrologie/2005/290",
+   "short": "Ordin metrologie nr. 290/2005",
+   "title": "Ordinul nr. 290/2005 privind aprobarea Normei de metrologie legală NML 066-05 \"Ansambluri de măsurare a puterii calorifice a combustibililor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66545",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66545",
+     "sha256": "69d5cecf8cdd41e02cfe37335b47099245a11c3958901224894c5ffa50a01ed9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-291-2005",
+   "path": "ordin/metrologie/2005/291",
+   "short": "Ordin metrologie nr. 291/2005",
+   "title": "Ordinul nr. 291/2005 privind aprobarea Normei de metrologie legală NML 059-05 \"Instalații portabile pentru determinarea sarcinii pe axa la vehicule rutiere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66546",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66546",
+     "sha256": "9aff31dab22a237fe81aff1f9aaae58389f66d57ffb8c8cb4a65a4760628786d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-292-2005",
+   "path": "ordin/metrologie/2005/292",
+   "short": "Ordin metrologie nr. 292/2005",
+   "title": "Ordinul nr. 292/2005 privind aprobarea Normei de metrologie legală NML 073-05 \"Lentile de testare oftalmologica\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66547",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66547",
+     "sha256": "a1e51bff4190b18602c3e285df9854a03b12dfae1109fe88b276455f9a90a90c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-293-2005",
+   "path": "ordin/metrologie/2005/293",
+   "short": "Ordin metrologie nr. 293/2005",
+   "title": "Ordinul nr. 293/2005 privind aprobarea Normei de metrologie legală NML 030-05 \"Audiometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66552",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66552",
+     "sha256": "09b5b683ff56340f064173908044254d6556cf326d264cc3a4d0f09ad01ace3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-294-2005",
+   "path": "ordin/metrologie/2005/294",
+   "short": "Ordin metrologie nr. 294/2005",
+   "title": "Ordinul nr. 294/2005 privind aprobarea Normei de metrologie legală NML 045-05 \"Măsuri de volum pentru lapte\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66553",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66553",
+     "sha256": "3d5084e78787729a77c2eba0fd1bc46ba591202170ec33fe075a05a6b655f48c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-295-2005",
+   "path": "ordin/metrologie/2005/295",
+   "short": "Ordin metrologie nr. 295/2005",
+   "title": "Ordinul nr. 295/2005 privind aprobarea Normei de metrologie legală NML 031-05 \"Refractometre și polarimetre pentru determinarea concentrației de zahăr\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66554",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66554",
+     "sha256": "9781b7125fc8de904e134e3483517c3285be8ce12ea611a8f84b554e7c229b64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-296-2005",
+   "path": "ordin/metrologie/2005/296",
+   "short": "Ordin metrologie nr. 296/2005",
+   "title": "Ordinul nr. 296/2005 privind aprobarea Normei de metrologie legală NML 046-05 \"Butoaie (altele decât cele pentru bere) și budane\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66555",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66555",
+     "sha256": "cd53d2d27cbf69adea727205b65e10b6a5e97771e58fdde3c11afac1a4fb4443"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-297-2005",
+   "path": "ordin/metrologie/2005/297",
+   "short": "Ordin metrologie nr. 297/2005",
+   "title": "Ordinul nr. 297/2005 privind aprobarea Normei de metrologie legală NML 080-04 \"Analizoare electrochimice pentru lichide\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66556",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66556",
+     "sha256": "e0e45fc227f88823c41f90b53c7019ddafabec68e28a0885799c9fa60056934f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-298-2005",
+   "path": "ordin/metrologie/2005/298",
+   "short": "Ordin metrologie nr. 298/2005",
+   "title": "Ordinul nr. 298/2005 privind aprobarea Normei de metrologie legală NML 076-05 \"Conductometre pentru determinarea conductivității electrolitice a soluțiilor apoase\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66557",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66557",
+     "sha256": "03ca1608377f89235e652bcaa881208463b506fa6b9e2de8506cfc4b81286598"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-299-2005",
+   "path": "ordin/metrologie/2005/299",
+   "short": "Ordin metrologie nr. 299/2005",
+   "title": "Ordinul nr. 299/2005 privind aprobarea Normei de metrologie legală NML 079-05 \"Umidimetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66558",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66558",
+     "sha256": "5c67a70ce9971740ee4b3ffa9bd96e08f55dbe6be967527e541fdc4780a39372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-300-2005",
+   "path": "ordin/metrologie/2005/300",
+   "short": "Ordin metrologie nr. 300/2005",
+   "title": "Ordinul nr. 300/2005 privind aprobarea Normei de metrologie legală NML 064-05 \"Termometre medicale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66559",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66559",
+     "sha256": "02071a54ce2fa3847e097442fc87abb05cf1a425ccce2d411234e5bf479e1a0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-301-2005",
+   "path": "ordin/metrologie/2005/301",
+   "short": "Ordin metrologie nr. 301/2005",
+   "title": "Ordinul nr. 301/2005 privind aprobarea Normei de metrologie legală NML 021-05 \"Aparate pentru măsurarea vitezei de circulație a autovehiculelor (cinemometre)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66560",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66560",
+     "sha256": "109a80378f1d082b8a8a0567bfa40985e81c4aac258948cc67be802cbe79835a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-305-2005",
+   "path": "ordin/metrologie/2005/305",
+   "short": "Ordin metrologie nr. 305/2005",
+   "title": "Ordinul nr. 305/2005 privind aprobarea Normei de metrologie legală NML 056-05 \"Aparate de cântărit cu funcționare neautomată\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66564",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66564",
+     "sha256": "cf9ba654bedaae2588f46c62ecd33e29ddc5c02d343cb7d253cf584fb6538d11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-306-2005",
+   "path": "ordin/metrologie/2005/306",
+   "short": "Ordin metrologie nr. 306/2005",
+   "title": "Ordinul nr. 306/2005 privind aprobarea Normei de metrologie legală NML 055-05 \"Aparate pentru măsurarea masei hectolitrice a cerealelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66586",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66586",
+     "sha256": "b64ede2ce4a7a5e653fd0b1eda2fc6c479f9b72526982fa2da5f871672a24922"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-307-2005",
+   "path": "ordin/metrologie/2005/307",
+   "short": "Ordin metrologie nr. 307/2005",
+   "title": "Ordinul nr. 307/2005 privind aprobarea Normei de metrologie legală NML 071-05 \"Densitometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66587",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66587",
+     "sha256": "6c3958eeb4e1c932f8251e94d0edb494ab048e146e4ed876cf05cbac29c8958b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-309-2005",
+   "path": "ordin/metrologie/2005/309",
+   "short": "Ordin metrologie nr. 309/2005",
+   "title": "Ordinul nr. 309/2005 privind aprobarea Normei de metrologie legală NML 072-05 \"Dioptrimetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66589",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66589",
+     "sha256": "dba8f7ac19806d745faa1421b5f29e26f541e90d7e4886c02bcf48d57280108a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-315-2005",
+   "path": "ordin/metrologie/2005/315",
+   "short": "Ordin metrologie nr. 315/2005",
+   "title": "Ordinul nr. 315/2005 privind aprobarea Normei de metrologie legală NML 023-05 \"Standuri cu role pentru verificarea sistemului de frânare al vehiculelor rutiere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66694",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66694",
+     "sha256": "ed1b8bb309b71ac133430c10afde5fa08f1862035dc03c8be0cb674e4a891730"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-316-2005",
+   "path": "ordin/metrologie/2005/316",
+   "short": "Ordin metrologie nr. 316/2005",
+   "title": "Ordinul nr. 316/2005 privind aprobarea Normei de metrologie legală NML 062-05 \"Instalații pentru determinarea sarcinii pe roti la locomotive\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66699",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66699",
+     "sha256": "d81486579ce11af60d397709d28bce5cd17b33a88d2c2deeafb2cd6928787c99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-317-2005",
+   "path": "ordin/metrologie/2005/317",
+   "short": "Ordin metrologie nr. 317/2005",
+   "title": "Ordinul nr. 317/2005 pentru aprobarea Normei de metrologie legală NML 039-05 \"Electroencefalografe\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66700",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66700",
+     "sha256": "b8037b163b0e3255582a34b4946828aaf9fd7c1533bcf2936e98e0cc543e6783"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-318-2005",
+   "path": "ordin/metrologie/2005/318",
+   "short": "Ordin metrologie nr. 318/2005",
+   "title": "Ordinul nr. 318/2005 pentru aprobarea Normei de metrologie legală NML 006-05 \"Contoare de energie termica\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66702",
+   "versions": [
+    {
+     "from": "2006-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66702",
+     "sha256": "f917e6b7aa1059f84489963f28ee6d4de141b3fd18f1dcd035e9b0faa2136d13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-319-2005",
+   "path": "ordin/metrologie/2005/319",
+   "short": "Ordin metrologie nr. 319/2005",
+   "title": "Ordinul nr. 319/2005 pentru aprobarea Normei de metrologie legală NML 077-05 \"Higrometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66703",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66703",
+     "sha256": "6c4890bfa302007b6f20493d25abcb695e3e853f829ed6a0caafe8b9e4e8b169"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-320-2005",
+   "path": "ordin/metrologie/2005/320",
+   "short": "Ordin metrologie nr. 320/2005",
+   "title": "Ordinul nr. 320/2005 privind aprobarea Normei de metrologie legală NML 060-05 \"Mașini/aparate pentru încercarea materialelor la solicitări mecanice și măsurarea cuplului mecanic. Partea I. Mașini/aparate pentru încercarea materialelor la solicitări mecanice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66704",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66704",
+     "sha256": "6f53f133f5bcdf3492fc632e3c06461919e5d4515814fe56386b2767a8d2ea44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-321-2005",
+   "path": "ordin/metrologie/2005/321",
+   "short": "Ordin metrologie nr. 321/2005",
+   "title": "Ordinul nr. 321/2005 pentru aprobarea Normei de metrologie legală NML 050-05 \"Sisteme/echipamente de măsurare și taxare a duratei convorbirilor telefonice și comunicațiilor telex\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66706",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66706",
+     "sha256": "aa15c76a4dc6c3d92ef03c69645dd6f2cc50264204bc4853d5f292a7c6edb528"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-322-2005",
+   "path": "ordin/metrologie/2005/322",
+   "short": "Ordin metrologie nr. 322/2005",
+   "title": "Ordinul nr. 322/2005 pentru aprobarea Normei de metrologie legală NML 007-05 \"Sisteme de măsurare continua și dinamica a cantităților de lichide, altele decât apa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66708",
+   "versions": [
+    {
+     "from": "2006-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66708",
+     "sha256": "eac74d26c4c65e703e4daf756d76f20cf47b3cce38171128cefd34052b864fce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-323-2005",
+   "path": "ordin/metrologie/2005/323",
+   "short": "Ordin metrologie nr. 323/2005",
+   "title": "Ordinul nr. 323/2005 pentru aprobarea Normei de metrologie legală NML 043-05 \"Butirometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66709",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66709",
+     "sha256": "f941bc2eb0e3ce6433fba324cd4d0b07341f417083c23da76657b63dcbdaf525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-324-2005",
+   "path": "ordin/metrologie/2005/324",
+   "short": "Ordin metrologie nr. 324/2005",
+   "title": "Ordinul nr. 324/2005 pentru aprobarea Normei de metrologie legală NML 026-05 \"Transformatoare pentru măsurare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66710",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66710",
+     "sha256": "7b55439c48d2f27d691cefe5e9f88aaf113b2b7939c439aea8a30cfec5234102"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-325-2005",
+   "path": "ordin/metrologie/2005/325",
+   "short": "Ordin metrologie nr. 325/2005",
+   "title": "Ordinul nr. 325/2005 pentru aprobarea Normei de metrologie legală NML 019-05 \"Viscozimetrie\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66711",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66711",
+     "sha256": "2a4dd3f3d71855862c7cc3c6625ec09238caa60e7d5e7474a358936bdb29b346"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-326-2005",
+   "path": "ordin/metrologie/2005/326",
+   "short": "Ordin metrologie nr. 326/2005",
+   "title": "Ordinul nr. 326/2005 pentru aprobarea Normei de metrologie legală NML 016-05 \"Planimetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66713",
+   "versions": [
+    {
+     "from": "2005-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66713",
+     "sha256": "0e1533495f2ed70e850a9f7be94a7e61c54c802b0df0db1432bf4f0624327ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-344-2005",
+   "path": "ordin/metrologie/2005/344",
+   "short": "Ordin metrologie nr. 344/2005",
+   "title": "Ordinul nr. 344/2005 privind aprobarea Normei de metrologie legală NML 037-05 \"Dozimetre/debitmetre pentru radiații\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67349",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67349",
+     "sha256": "ca58c372ff1a41af3be47e0865132c1a7bbc6f3dbc363a7c3060dc07feb47815"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-345-2005",
+   "path": "ordin/metrologie/2005/345",
+   "short": "Ordin metrologie nr. 345/2005",
+   "title": "Ordinul nr. 345/2005 privind aprobarea Normei de metrologie legală NML 036-05 \"Contaminometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67350",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67350",
+     "sha256": "c58f1f2c3087ba380bd776891167f67e5899f1beb8357a3f28036aa034db1333"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-346-2005",
+   "path": "ordin/metrologie/2005/346",
+   "short": "Ordin metrologie nr. 346/2005",
+   "title": "Ordinul nr. 346/2005 privind aprobarea Normei de metrologie legală NML 038-05 \"Avertizoare de expunere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67351",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67351",
+     "sha256": "914facc05f7fa1b345f4a7a3b242c6c84cba59070b3f04e946fcfca8c8c71f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-347-2005",
+   "path": "ordin/metrologie/2005/347",
+   "short": "Ordin metrologie nr. 347/2005",
+   "title": "Ordinul nr. 347/2005 privind aprobarea Normei de metrologie legală NML 035-05 \"Instalație de măsurare a activității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67352",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67352",
+     "sha256": "067801c5a0292d25e2f86a9443aef51f6346f9805fa6b3fdf7ad0e8a21ad654d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-348-2005",
+   "path": "ordin/metrologie/2005/348",
+   "short": "Ordin metrologie nr. 348/2005",
+   "title": "Ordinul nr. 348/2005 privind aprobarea Normei de metrologie legală NML 051-05 \"Anemometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67353",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67353",
+     "sha256": "5b57ab133eb0d9a53065d150f56ffac98b7d0bb826cea3dec857ef0c53ce9592"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-349-2005",
+   "path": "ordin/metrologie/2005/349",
+   "short": "Ordin metrologie nr. 349/2005",
+   "title": "Ordinul nr. 349/2005 privind aprobarea Normei de metrologie legală NML 061-05 \"Dinamometre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67354",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67354",
+     "sha256": "65bfba35da9bdbc83840d8ee5975ddf52ebe12759ce9eeb4bc09d6e902ac711d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-350-2005",
+   "path": "ordin/metrologie/2005/350",
+   "short": "Ordin metrologie nr. 350/2005",
+   "title": "Ordinul nr. 350/2005 privind aprobarea Normei de metrologie legală NML 070-05 \"Luxmetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67355",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67355",
+     "sha256": "ed2776dfffeaf7bbb05a92b0579b7a0b7da6f2312d72d4314b6ec2e6352a33a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-351-2005",
+   "path": "ordin/metrologie/2005/351",
+   "short": "Ordin metrologie nr. 351/2005",
+   "title": "Ordinul nr. 351/2005 privind aprobarea Normei de metrologie legală NML 081-05 \"Electrocardiografe și electrocardioscoape\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67369",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67369",
+     "sha256": "483241682a0cdfb472b4057375d87649d0e3554680a9aaeb9614b15b3c385cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-352-2005",
+   "path": "ordin/metrologie/2005/352",
+   "short": "Ordin metrologie nr. 352/2005",
+   "title": "Ordinul nr. 352/2005 privind aprobarea Normei de metrologie legală NML 028-05 \"Spectro(foto)metre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67370",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67370",
+     "sha256": "c8f5b06ceb6b66cd9563987edfc2461903bfa4becce5cefd4ff9304c0df05e2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-353-2005",
+   "path": "ordin/metrologie/2005/353",
+   "short": "Ordin metrologie nr. 353/2005",
+   "title": "Ordinul nr. 353/2005 privind aprobarea Normei de metrologie legală NML 068-05 \"Aparate pentru măsurarea rezistenței electrice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67371",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67371",
+     "sha256": "5c6c8f63b86a1d35514c2929467b3ff60925d1801ad916d5dc2c6435b5420069"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-354-2005",
+   "path": "ordin/metrologie/2005/354",
+   "short": "Ordin metrologie nr. 354/2005",
+   "title": "Ordinul nr. 354/2005 privind aprobarea Normei de metrologie legală NML 027-05 \"Contoare de energie electrică reactivă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67372",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67372",
+     "sha256": "dbe5b0781bd3059ae000f8808a67523fc6f6b024e6521c59d3f009a7b73ebec3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-355-2005",
+   "path": "ordin/metrologie/2005/355",
+   "short": "Ordin metrologie nr. 355/2005",
+   "title": "Ordinul nr. 355/2005 privind aprobarea Normei de metrologie legală NML 069-05 \"Totalizatoare pentru energie electrică și putere medie maximă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67373",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67373",
+     "sha256": "60e8b1abff0a23610aae0fdd583abd6a27a28a317c0106b12f32ff6ec2c2dab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-358-2005",
+   "path": "ordin/metrologie/2005/358",
+   "short": "Ordin metrologie nr. 358/2005",
+   "title": "Ordinul nr. 358/2005 privind aprobarea Normei de metrologie legală NML 002-05 \"Măsuri de lungime\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67374",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67374",
+     "sha256": "efcec066ae6a99db315b5aeafb9036e531a14b7d1d2694ded16ce36b17179255"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-359-2005",
+   "path": "ordin/metrologie/2005/359",
+   "short": "Ordin metrologie nr. 359/2005",
+   "title": "Ordinul nr. 359/2005 privind aprobarea Normei de metrologie legală NML 029-05 \"Opacimetre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67375",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67375",
+     "sha256": "b5c85ebe4be9eaa82f93914228db7fc64a66f38b95c16784ecbae0d70abb11bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-360-2005",
+   "path": "ordin/metrologie/2005/360",
+   "short": "Ordin metrologie nr. 360/2005",
+   "title": "Ordinul nr. 360/2005 privind aprobarea Normei de metrologie legală NML 011-05 \"Aparate pentru măsurări dimensionale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67376",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67376",
+     "sha256": "d9dc9cf8e377bc72b8bd05ddc72ee59b70f3cd9a751fd8917ce75e15048609a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-95-2005",
+   "path": "ordin/metrologie/2005/95",
+   "short": "Ordin metrologie nr. 95/2005",
+   "title": "Ordinul nr. 95/2005 pentru completarea Normei de metrologie legală NML 009-03 \"Taximetre electronice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62080",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62080",
+     "sha256": "cf78ee1779902370a26765c2ad0fec6af99977056491aaf8255a00c3876d6914"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-133-2005",
    "path": "ordin/munca/2005/133",
    "short": "Ordin munca nr. 133/2005",
@@ -11879,6 +13769,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68003",
      "sha256": "38b6c0571b5a153180a3970357a5a7f860d2d110fdab9162c186c690c12ea7c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-146-2005",
+   "path": "ordin/onpcsb/2005/146",
+   "short": "Ordin onpcsb nr. 146/2005",
+   "title": "Ordinul nr. 146/2005 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64090",
+   "versions": [
+    {
+     "from": "2005-08-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64090",
+     "sha256": "29c8d5d92d47f68d6e9a7cd8bd908382299fe1b4d2ed729103fe02cfda669487"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-28-2005",
+   "path": "ordin/onpcsb/2005/28",
+   "short": "Ordin onpcsb nr. 28/2005",
+   "title": "Ordinul nr. 28/2005 pentru aprobarea modelului formularului \"Proces-verbal de constatare și sancționare a contravențiilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59366",
+   "versions": [
+    {
+     "from": "2005-02-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59366",
+     "sha256": "d8b4579bab75235ec08f181349a17e6448d37364f627f1c8d99254445bac7757"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-149-2005",
+   "path": "ordin/orniss/2005/149",
+   "short": "Ordin orniss nr. 149/2005",
+   "title": "Ordinul nr. 149/2005 pentru aprobarea Metodologiei privind elaborarea Planului pentru continuarea activității în situații de urgență pentru sisteme informatice și de comunicații (SIC) care vehiculează informații clasificate - DS 7",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61346",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61346",
+     "sha256": "c9d32ffaeaf8c29fc5c5a597c6d3941f3cc7443f6d4d22f1c42ced500f4aae7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-3-2005",
+   "path": "ordin/orniss/2005/3",
+   "short": "Ordin orniss nr. 3/2005",
+   "title": "Ordinul nr. 3/2005 pentru aprobarea Ghidului INFOSEC privind analiza naturii și proporțiilor amenințărilor și vulnerabilităților la adresa sistemelor informatice și de comunicații (SIC) - DS 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58746",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58746",
+     "sha256": "6d613e1d185011a957ef47319f016d91b3b4f8c20edde6c242d10d81c0ebf32a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-4-2005",
+   "path": "ordin/orniss/2005/4",
+   "short": "Ordin orniss nr. 4/2005",
+   "title": "Ordinul nr. 4/2005 pentru aprobarea Ghidului general de securitate a sistemelor informatice și de comunicații - DS 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58747",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58747",
+     "sha256": "306a01cfdebc2c4f04350cef770e7b40f893a464f5f8528210e3ee059490fb0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-475-2005",
+   "path": "ordin/orniss/2005/475",
+   "short": "Ordin orniss nr. 475/2005",
+   "title": "Ordinul nr. 475/2005 privind aprobarea Cerințelor minime de securitate fizica pentru încăperile speciale de securitate destinate protecției informațiilor NATO clasificate și a celor echivalente, potrivit legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66069",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66069",
+     "sha256": "e34aedd827f9b9f2ac45611d747dbda9d2315d897b89a77c8f105fc4785cff6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-490-2005",
+   "path": "ordin/orniss/2005/490",
+   "short": "Ordin orniss nr. 490/2005",
+   "title": "Ordinul nr. 490/2005 pentru stabilirea condițiilor de acces la informații U.E. clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67229",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67229",
+     "sha256": "f06863d1a5a4d832dd676a64f23116259417a58a0e79973a2abf12bbb61fa3f5"
     }
    ]
   },
@@ -13739,6 +15734,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65374",
      "sha256": "343fa5795ff70246e01e554d600f561d1f3ce61e36d7a77181abf51aec8df8ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-207-2005",
+   "path": "ordin/sport/2005/207",
+   "short": "Ordin sport nr. 207/2005",
+   "title": "Ordinul nr. 207/2005 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei Naționale de Disciplină Sportivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63051",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63051",
+     "sha256": "e5207283dc8bdbe3d82dea5b4eff2ddb13ccaf8e0128c7f3a7b453af4fa1eca6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-208-2005",
+   "path": "ordin/sport/2005/208",
+   "short": "Ordin sport nr. 208/2005",
+   "title": "Ordinul nr. 208/2005 privind aprobarea Regulamentului de procedură al Comisiei Naționale de Disciplină Sportivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63053",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63053",
+     "sha256": "7c26024d81555f4f18ba219608c5d93fd159ec2652fa1b16d6975e4a83cf119f"
     }
    ]
   },

@@ -271,6 +271,36 @@
      "sha256": "a8f50b0e56c88f2ba865ad0c6463daee2ecd82f800c9835ea448b92d81137e67"
     }
    ]
+  },
+  {
+   "slug": "regulament-ccir-25-2014",
+   "path": "regulament/ccir/2014/25",
+   "short": "Regulament ccir nr. 25/2014",
+   "title": "Regulamentul nr. 25/2014 privind avizarea, supravegherea, controlul și sancționarea activității burselor de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163143",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163143",
+     "sha256": "4cf92232d013feff42a448592bf0e2fe01b2532f651857128e0187ab1b1b509b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-inaltifunctionari-3-2014",
+   "path": "regulament/inaltifunctionari/2014/3",
+   "short": "Regulament inaltifunctionari nr. 3/2014",
+   "title": "Regulamentul nr. 3/2014 pentru modificarea și completarea Regulamentului nr. 1/2008 privind organizarea și desfășurarea concursului pentru intrarea în categoria înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160115",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160115",
+     "sha256": "3b43a2bb23304a78f7dac17e96d170835e58c092c60226fba93fc5eb6689c4b7"
+    }
+   ]
   }
  ]
 }

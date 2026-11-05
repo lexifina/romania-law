@@ -3,6 +3,81 @@
  "shard": "instructiuni/2017",
  "acts": [
   {
+   "slug": "instructiuni-achizitii-1-2017",
+   "path": "instructiuni/achizitii/2017/1",
+   "short": "Instrucțiuni achizitii nr. 1/2017",
+   "title": "Instrucțiunile nr. 1/2017 emisă în aplicarea prevederilor art. 179 lit. g) și art. 187 alin. (8) lit. a) din Legea nr. 98/2016 privind achizițiile publice, respectiv a art. 192 lit. g) și a art. 209 alin. (8) din Legea nr. 99/2016 privind achizițiile sectoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185620",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185620",
+     "sha256": "0dc2d86c7d5ade0f71329ff5e0a039f755d5caa9de6a80b006c0643b5f992472"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-achizitii-2-2017",
+   "path": "instructiuni/achizitii/2017/2",
+   "short": "Instrucțiuni achizitii nr. 2/2017",
+   "title": "Instrucțiunile nr. 2/2017 emisă în aplicarea prevederilor art. 178 și art. 179 lit. a) și b) din Legea nr. 98/2016 privind achizițiile publice, cu completările ulterioare, respectiv a prevederilor art. 191 și art. 192 lit. a) și b) din Legea nr. 99/2016 privind achizițiile sectoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188614",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188614",
+     "sha256": "cb0e3a05830ecc377a0d6f99348046a67e4f2564b20466ca574ec26f0cf197e3"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-1-2017",
+   "path": "instructiuni/aep/2017/1",
+   "short": "Instrucțiuni aep nr. 1/2017",
+   "title": "Instrucțiunile nr. 1/2017 privind unele măsuri pentru organizarea și desfășurarea unitară a alegerilor locale parțiale pentru primari din data de 11 iunie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189148",
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189148",
+     "sha256": "d0d0c83f760e97425823463b135fb25f5508ad45a1251a193d752cdd28413d5a"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-3-2017",
+   "path": "instructiuni/aep/2017/3",
+   "short": "Instrucțiuni aep nr. 3/2017",
+   "title": "Instrucțiunile nr. 3/2017 privind unele măsuri pentru organizarea și desfășurarea unitară a alegerilor locale parțiale pentru primari și un consiliu local din data de 5 noiembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193750",
+   "versions": [
+    {
+     "from": "2017-10-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193750",
+     "sha256": "5832113158fbbc4b86daa9d086e4823c027ee827876adfda0c05f5d1cdfe73fb"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-5-2017",
+   "path": "instructiuni/aep/2017/5",
+   "short": "Instrucțiuni aep nr. 5/2017",
+   "title": "Instrucțiunile nr. 5/2017 privind organizarea și desfășurarea referendumului local pentru demiterea primarului orașului Sângeorz-Băi, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195406",
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195406",
+     "sha256": "2a5801e3f987eef641946e61b10fd57bcb68a07427fc733bd5b0e88fefdf39f1"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-asf-1-2017",
    "path": "instructiuni/asf/2017/1",
    "short": "Instrucțiuni asf nr. 1/2017",
@@ -44,6 +119,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196857",
      "sha256": "88cfe80bdcc1b561903ef9a51ae30ba818a6aa30878c1aafdaa6a2066da23d95"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-fga-2-2017",
+   "path": "instructiuni/fga/2017/2",
+   "short": "Instrucțiuni fga nr. 2/2017",
+   "title": "Instrucțiunile nr. 2/2017 privind întocmirea și depunerea raportării contabile la 30 iunie 2017 de către Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191780",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191780",
+     "sha256": "93bedd3c70c94966bf59509a94079b897fefacac65898ac884f0fdbf2754a9ed"
     }
    ]
   },

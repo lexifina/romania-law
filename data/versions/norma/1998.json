@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "norma-iccj-98-1998",
+   "path": "norma/iccj/1998/98",
+   "short": "Norma iccj nr. 98/1998",
+   "title": "Norma nr. 98/1998 pentru aplicarea Hotărârii Guvernului nr. 269/1998 privind reducerile și gratuitățile acordate magistraților și personalului auxiliar de specialitate de la instanțe și parchete pentru transportul intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16085",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16085",
+     "sha256": "84619514ddfda507b6b581feb35df892fe78ae2f21cc043995dbd53605a8ebe3"
+    }
+   ]
+  },
+  {
    "slug": "norma-justitie-1887-1998",
    "path": "norma/justitie/1998/1887",
    "short": "Norma justitie nr. 1887/1998",
@@ -119,6 +134,36 @@
      "units": 109,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14701",
      "sha256": "cc7a92fecfadf7b8923f32bcb0359cc7524a04c4326b9e6a3309ff285c89ca62"
+    }
+   ]
+  },
+  {
+   "slug": "norma-osim-211-1998",
+   "path": "norma/osim/1998/211",
+   "short": "Norma osim nr. 211/1998",
+   "title": "Norma nr. 211/1998 de aplicare a Legii nr. 93/1998 privind protecția tranzitorie a brevetelor de invenție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15769",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15769",
+     "sha256": "21c69d7b3611fa6ceed55d566b0e3e18aafb58cf43b6d38998df7829e87d8424"
+    }
+   ]
+  },
+  {
+   "slug": "norma-parchet-1160-1998",
+   "path": "norma/parchet/1998/1160",
+   "short": "Norma parchet nr. 1160/1998",
+   "title": "Norma nr. 1.160/1998 pentru aplicarea Hotărârii Guvernului nr. 269/1998 privind reducerile și gratuitățile acordate magistraților și personalului auxiliar de specialitate de la instanțe și parchete pentru transportul intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16087",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16087",
+     "sha256": "60712a82e2bea215913fb9816c15975ae8e52ef5897785cfa05693b1c95bfcdb"
     }
    ]
   },

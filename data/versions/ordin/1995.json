@@ -963,6 +963,36 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-13-1995",
+   "path": "ordin/metrologie/1995/13",
+   "short": "Ordin metrologie nr. 13/1995",
+   "title": "Ordinul nr. 13/1995 pentru aprobarea Listei oficiale - 1995 a mijloacelor de măsurare supuse obligatoriu controlului metrologic al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5766",
+   "versions": [
+    {
+     "from": "1995-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5766",
+     "sha256": "36540363ee632dc73eb534c55216795b538d3f3c2b786cfc854fcb2d87f9fea3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-32-1995",
+   "path": "ordin/metrologie/1995/32",
+   "short": "Ordin metrologie nr. 32/1995",
+   "title": "Ordinul nr. 32/1995 privind completarea și modificarea Listei oficiale - 1995 a mijloacelor de măsurare supuse obligatoriu controlului metrologic al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5919",
+   "versions": [
+    {
+     "from": "1995-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5919",
+     "sha256": "9c34909370ac7a679ce73c2a4884f14050b8eebc2e6d11f888dcb1ef817dac46"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-138-1995",
    "path": "ordin/munca/1995/138",
    "short": "Ordin munca nr. 138/1995",
@@ -1439,6 +1469,96 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6162",
      "sha256": "bf789ca632396ad6ed7d332926a65c6e5e4752dd6141dfeff7056abc7bae076c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-103-1995",
+   "path": "ordin/turism/1995/103",
+   "short": "Ordin turism nr. 103/1995",
+   "title": "Ordinul nr. 103/1995 pentru aprobarea Metodologiei organizării și desfășurării cursurilor de calificare profesională în meseriile de baza din activitățile hoteliere și de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6261",
+   "versions": [
+    {
+     "from": "1996-06-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6261",
+     "sha256": "7dee2ce3160bb8ac82ae6e4751f0f0a23dedda5c213b014e83e5900df030f680"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-20-1995",
+   "path": "ordin/turism/1995/20",
+   "short": "Ordin turism nr. 20/1995",
+   "title": "Ordinul nr. 20/1995 pentru aprobarea normelor și a criteriilor minime privind clasificarea pe stele a pensiunilor turistice și a fermelor agroturistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5834",
+   "versions": [
+    {
+     "from": "1995-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5834",
+     "sha256": "c5d060dc9b640faf86f8fdb038c797bbd3cc6e0f0f682b6f88010c4f851a3478"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-56-1995",
+   "path": "ordin/turism/1995/56",
+   "short": "Ordin turism nr. 56/1995",
+   "title": "Ordinul nr. 56/1995 pentru aprobarea Normelor metodologice și a criteriilor privind clasificarea pe stele și categorii a structurilor de primire turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6058",
+   "versions": [
+    {
+     "from": "1995-09-25",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6058",
+     "sha256": "837c9300dbeb03396f3f12b405fca533b78170afeeb1fb25aad8ec49819be892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-87-1995",
+   "path": "ordin/turism/1995/87",
+   "short": "Ordin turism nr. 87/1995",
+   "title": "Ordinul nr. 87/1995 pentru modificarea Normelor metodologice privind acordarea licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 207/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6186",
+   "versions": [
+    {
+     "from": "1995-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6186",
+     "sha256": "102760a9ec1b5a874f3cde55a0a94cb8a82791f1f3cc8990607ff211034a2874"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-89-1995",
+   "path": "ordin/turism/1995/89",
+   "short": "Ordin turism nr. 89/1995",
+   "title": "Ordinul nr. 89/1995 ORDIN Nr. 89 din 23 octombrie 1995 pentru aprobarea Instrucțiunilor privind acordarea diplomei de \"Maestru în arta culinara\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6195",
+   "versions": [
+    {
+     "from": "1996-06-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6195",
+     "sha256": "a59a416e4a25382391b483aabb34feef6a3efe54f29fb34cab438879d380410c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-96-1995",
+   "path": "ordin/turism/1995/96",
+   "short": "Ordin turism nr. 96/1995",
+   "title": "Ordinul nr. 96/1995 privind aprobarea sistemelor tarifare ce vor fi practicate în structurile de primire turistice în anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6228",
+   "versions": [
+    {
+     "from": "1996-02-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6228",
+     "sha256": "2d2120db980638dbc439f5634e1276288c3083c1a5edc8323df507f14f6dd360"
     }
    ]
   }

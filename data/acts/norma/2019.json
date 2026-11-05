@@ -3,6 +3,25 @@
 "shard": "norma/2019",
 "acts": [
 {
+"slug": "norma-aep-18-2019",
+"path": "norma/aep/2019/18",
+"kind": "norma",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 18/2019 pentru modificarea lit. a) și b) ale art. 4 din Norma nr. 7/2010 privind ratele de rentabilitate ale fondurilor de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 9/2010",
+"short": "Norma aep nr. 18/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-07-01",
+"latest": "2019-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/215610",
+"issuer": "aep",
+"joint": []
+},
+{
 "slug": "norma-asf-1-2019",
 "path": "norma/asf/2019/1",
 "kind": "norma",

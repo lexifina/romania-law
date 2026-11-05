@@ -3,6 +3,66 @@
  "shard": "ordin/2020",
  "acts": [
   {
+   "slug": "ordin-achizitii-2376-2020",
+   "path": "ordin/achizitii/2020/2376",
+   "short": "Ordin achizitii nr. 2376/2020",
+   "title": "Ordinul nr. 2.376/2020 privind conținutul, modalitatea de completare și modul de utilizare a documentelor standard \"Instrucțiuni pentru ofertanți/candidați\" și \"Caiet de sarcini\" la atribuirea acordului-cadru/contractului de achiziție publică/sectorial având ca obiect măști de protecție de uz sanitar de tip II, II R, FFP2, FFP3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235136",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235136",
+     "sha256": "32f91e0dcf61cc14b47f8cad980ef9f0cd04c99e2bf0641caf28d977051a6008"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-2389-2020",
+   "path": "ordin/achizitii/2020/2389",
+   "short": "Ordin achizitii nr. 2389/2020",
+   "title": "Ordinul nr. 2.389/2020 privind revizuirea ratei de actualizare ce va fi utilizată la atribuirea contractelor de achiziție publică în anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235817",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235817",
+     "sha256": "56fa0f2d3055ee8b559dbd769f99cf2410ebb5313dcb6907049268e4bd916dbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-45-2020",
+   "path": "ordin/achizitii/2020/45",
+   "short": "Ordin achizitii nr. 45/2020",
+   "title": "Ordinul nr. 45/2020 privind revizuirea ratei de actualizare ce va fi utilizată la atribuirea contractelor de achiziție publică în anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223913",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223913",
+     "sha256": "879ada66c9bf794d63c292c154c8f649f31c911183b0206840a74a09568b9e46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aep-726-2020",
+   "path": "ordin/aep/2020/726",
+   "short": "Ordin aep nr. 726/2020",
+   "title": "Ordinul nr. 726/2020 privind stabilirea atribuțiilor compartimentelor Autorității Electorale Permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233610",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233610",
+     "sha256": "a3f6a0eb6ec8886c74d0a51a98b4b0299c25bc4c8eec950ea3f73a1bc7134330"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1-2020",
    "path": "ordin/agricultura/2020/1",
    "short": "Ordin agricultura nr. 1/2020",
@@ -1578,6 +1638,36 @@
    ]
   },
   {
+   "slug": "ordin-andpdca-1360-2020",
+   "path": "ordin/andpdca/2020/1360",
+   "short": "Ordin andpdca nr. 1360/2020",
+   "title": "Ordinul nr. 1.360/2020 privind stabilirea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231246",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231246",
+     "sha256": "86ee71b8491614eeb2a87e8dc826c365a45a0f08ea51aa215ca968d31654c3ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-193-2020",
+   "path": "ordin/anfp/2020/193",
+   "short": "Ordin anfp nr. 193/2020",
+   "title": "Ordinul nr. 193/2020 pentru aprobarea Procedurii de redistribuire a funcționarilor publici, precum și a modalității de desfășurare a testării profesionale în vederea redistribuirii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223038",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223038",
+     "sha256": "c05211f9a35bb5f60c007a58786298b0d97f0d817ac8d34f18863666efc8fe8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-135-2020",
    "path": "ordin/anmcs/2020/135",
    "short": "Ordin anmcs nr. 135/2020",
@@ -1889,6 +1979,96 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223371",
      "sha256": "8e33601cb12d5154b298d27c7e461d9b27e2cbce3fde51e2ade6efc3c0d4b930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-286-2020",
+   "path": "ordin/anofm/2020/286",
+   "short": "Ordin anofm nr. 286/2020",
+   "title": "Ordinul nr. 286/2020 privind modificarea și completarea Procedurii de primire și de soluționare a cererilor de loc de muncă sau indemnizație de șomaj, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 85/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223315",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223315",
+     "sha256": "840cac311fa08ef8682d3c499f11a62d36b7792b1344b80758bfee0a73fe3833"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-342-2020",
+   "path": "ordin/anofm/2020/342",
+   "short": "Ordin anofm nr. 342/2020",
+   "title": "Ordinul nr. 342/2020 privind modificarea și completarea Procedurii de primire și de soluționare a cererilor de loc de muncă sau indemnizație de șomaj, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 85/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224519",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224519",
+     "sha256": "112c0a7bced236422adfd589f0256ee216cbf221c86cc50fb883e79b99811f6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-346-2020",
+   "path": "ordin/anofm/2020/346",
+   "short": "Ordin anofm nr. 346/2020",
+   "title": "Ordinul nr. 346/2020 privind aprobarea modelului declarației pe propria răspundere prevăzute la art. 3 alin. (1) lit. c) din Hotărârea Guvernului nr. 217/2020 pentru aplicarea prevederilor Legii nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224509",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224509",
+     "sha256": "05a9e76c5b503dbe2793c68c3e7d5f4980779947d09de5d2b8f7d8e75350eddd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-456-2020",
+   "path": "ordin/anofm/2020/456",
+   "short": "Ordin anofm nr. 456/2020",
+   "title": "Ordinul nr. 456/2020 pentru aprobarea Procedurii de acordare a sumelor prevăzute de art. III alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 92/2020 pentru instituirea unor măsuri active de sprijin destinate angajaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226630",
+   "versions": [
+    {
+     "from": "2020-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226630",
+     "sha256": "913389d242192f37cf302d872c941c68643f4582b05bddb4311f305fcf4c8a3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-457-2020",
+   "path": "ordin/anofm/2020/457",
+   "short": "Ordin anofm nr. 457/2020",
+   "title": "Ordinul nr. 457/2020 privind aprobarea modelului documentelor prevăzute de art. II alin. (2) din Ordonanța de urgență a Guvernului nr. 92/2020 pentru instituirea unor măsuri active de sprijin destinate angajaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226603",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226603",
+     "sha256": "d97e31be65a26b20080f13d45140ec08d7b28d4e0a95c0b6bbe7fadd3961307d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-593-2020",
+   "path": "ordin/anofm/2020/593",
+   "short": "Ordin anofm nr. 593/2020",
+   "title": "Ordinul nr. 593/2020 privind aprobarea Procedurii de decontare a sumelor pentru plata indemnizației pentru fiecare zi liberă acordată în condițiile art. 1 din Ordonanța de urgență a Guvernului nr. 147/2020 privind acordarea unor zile libere pentru părinți în vederea supravegherii copiilor, în situația limitării sau suspendării activităților didactice care presupun prezența efectivă a copiilor în unitățile de învățământ și în unitățile de educație timpurie antepreșcolară, ca urmare a răspândirii coronavirusului SARS-CoV-2, a documentelor justificative, precum și a modelului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229923",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229923",
+     "sha256": "a5dce7b1b75d959881ae6ad44827d06b791507d71fa7138f565c58de8b3890dd"
     }
    ]
   },
@@ -4128,6 +4308,96 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-168-2020",
+   "path": "ordin/anrsc/2020/168",
+   "short": "Ordin anrsc nr. 168/2020",
+   "title": "Ordinul nr. 168/2020 pentru aprobarea Procedurii de mediere, precum și a documentelor pe care debitorii le prezintă în vederea susținerii situației economice și financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225415",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225415",
+     "sha256": "0675a79b855a81466ac629cb8ab340a51d9a4379a31c19a728ae8a81ab93ada1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-43-2020",
+   "path": "ordin/anrsc/2020/43",
+   "short": "Ordin anrsc nr. 43/2020",
+   "title": "Ordinul nr. 43/2020 privind aprobarea modelelor de formulare utilizate în domeniul colectării creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223282",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223282",
+     "sha256": "532e535009f727e229d2aff95767ca3d08cd6d8cfd5ca55cf0bfde1553b4312f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-467-2020",
+   "path": "ordin/anrsc/2020/467",
+   "short": "Ordin anrsc nr. 467/2020",
+   "title": "Ordinul nr. 467/2020 privind modificarea Regulamentului de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C., aprobat prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 22/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232576",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232576",
+     "sha256": "6d27fb8e22737c2ce5b7e59f4b7c742bd787949a31a01d0b340c26b3d9d33d6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-469-2020",
+   "path": "ordin/anrsc/2020/469",
+   "short": "Ordin anrsc nr. 469/2020",
+   "title": "Ordinul nr. 469/2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C., aprobat prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 22/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232866",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232866",
+     "sha256": "49462d275743c7b1dd2b23247e9b72a6d0a5ad172a4e435e7a7d0865f1525165"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-556-2020",
+   "path": "ordin/anrsc/2020/556",
+   "short": "Ordin anrsc nr. 556/2020",
+   "title": "Ordinul nr. 556/2020 pentru aprobarea Procedurii privind restituirea unor sume reprezentând venituri ale Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice, plătite în plus sau necuvenit și pentru care, după caz, nu există obligația de declarare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235821",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235821",
+     "sha256": "dafdecf9b0e72836752b4557c8a9a148473065be8b3171c8ffa293218d8c650f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-563-2020",
+   "path": "ordin/anrsc/2020/563",
+   "short": "Ordin anrsc nr. 563/2020",
+   "title": "Ordinul nr. 563/2020 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 79/2017 privind modalitatea de achitare a contribuției prevăzute în Regulamentul de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C., aprobat prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 22/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235666",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235666",
+     "sha256": "f8019282cddf068fc6b06ddd503cd58c96f451764f438b673aad74efac1a4f44"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-109-2020",
    "path": "ordin/ansvsa/2020/109",
    "short": "Ordin ansvsa nr. 109/2020",
@@ -4409,6 +4679,66 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226531",
      "sha256": "d1e52a3752e839d2436b1d199961bb19c3f00cf1d6c8f6dc59b5b5d255d7ae8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-113-2020",
+   "path": "ordin/antidoping/2020/113",
+   "short": "Ordin antidoping nr. 113/2020",
+   "title": "Ordinul nr. 113/2020 privind modificarea și completarea Regulamentului pentru organizarea și funcționarea Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările anti-doping, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 95/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225982",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225982",
+     "sha256": "b4cd0ec2f703de701f67e4c4630d7560562c5d4256adfa51bef29172cc884194"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-114-2020",
+   "path": "ordin/antidoping/2020/114",
+   "short": "Ordin antidoping nr. 114/2020",
+   "title": "Ordinul nr. 114/2020 pentru modificarea și completarea Regulamentului de organizare și funcționare a Comisiei de apel, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 96/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225983",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225983",
+     "sha256": "6252a920f9f09bb19334a1b2754686dd8278994ae01c291bb95a4111d64b141f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-123-2020",
+   "path": "ordin/antidoping/2020/123",
+   "short": "Ordin antidoping nr. 123/2020",
+   "title": "Ordinul nr. 123/2020 pentru modificarea Ordinului președintelui Agenției Naționale Anti-Doping nr. 160/2011 privind aprobarea taxei pentru autorizarea desfășurării activităților în sălile de culturism sau de fitness, precum și a Metodologiei de organizare a cursului de instruire antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227617",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227617",
+     "sha256": "aa84751ea33d36da274ed06760ce3e427b2fd2700704a4a746daca3bdaf34280"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-180-2020",
+   "path": "ordin/antidoping/2020/180",
+   "short": "Ordin antidoping nr. 180/2020",
+   "title": "Ordinul nr. 180/2020 privind aprobarea Listei interzise pentru anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231582",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231582",
+     "sha256": "ccca99a9c001aca09ca60e5b48f1258632697be587001a64f3c8807193770c45"
     }
    ]
   },
@@ -5163,6 +5493,36 @@
    ]
   },
   {
+   "slug": "ordin-camera-523-2020",
+   "path": "ordin/camera/2020/523",
+   "short": "Ordin camera nr. 523/2020",
+   "title": "Ordinul nr. 523/2020 pentru completarea Ordinului secretarului general al Camerei Deputaților nr. 1.173/2018 privind procedurile publicării, republicării și rectificării, precum și ale publicării în numere speciale, cu tiraj limitat, a actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224256",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224256",
+     "sha256": "c8cf7bfcd8d2df7b85cf952acbf87779ce9b83e5c4a7911f329baa131af8943c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-camera-710-2020",
+   "path": "ordin/camera/2020/710",
+   "short": "Ordin camera nr. 710/2020",
+   "title": "Ordinul nr. 710/2020 privind stabilirea perioadei în care sunt aplicabile prevederile art. 3 alin. (2) din Ordinul secretarului general al Camerei Deputaților nr. 1.173/2018 privind procedurile publicării, republicării și rectificării, precum și ale publicării în numere speciale, cu tiraj limitat, a actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225816",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225816",
+     "sha256": "c76b5b43fc0abfb5ea496c3be7d685e3e28ea8d05db1087be24aa55f3d496d4e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-1073-2020",
    "path": "ordin/cnas/2020/1073",
    "short": "Ordin cnas nr. 1073/2020",
@@ -5778,6 +6138,66 @@
    ]
   },
   {
+   "slug": "ordin-cncan-102-2020",
+   "path": "ordin/cncan/2020/102",
+   "short": "Ordin cncan nr. 102/2020",
+   "title": "Ordinul nr. 102/2020 pentru aprobarea Normelor de securitate nucleară privind pregătirea răspunsului la tranzienți, accidente și situații de urgență la centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226139",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226139",
+     "sha256": "c05eb60785ccc561914b30187258f82d281ba9d3089699de7f3d86dfb5b574c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-114-2020",
+   "path": "ordin/cncan/2020/114",
+   "short": "Ordin cncan nr. 114/2020",
+   "title": "Ordinul nr. 114/2020 pentru aprobarea Normelor privind utilizarea standardelor pentru evaluarea și îmbunătățirea continuă a securității nucleare pentru centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227012",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227012",
+     "sha256": "14b84b482c86db79d9359d7c1722414228ce8421cfb6f2833ca6b763fc60b4fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-122-2020",
+   "path": "ordin/cncan/2020/122",
+   "short": "Ordin cncan nr. 122/2020",
+   "title": "Ordinul nr. 122/2020 pentru aprobarea Normelor de securitate nucleară privind supravegherea, întreținerea, testarea și inspecțiile în exploatare pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227814",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227814",
+     "sha256": "8f6c66790f2eb5450314c4c8470a7b2021a14fd39f2a880ad290066341c9658a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-86-2020",
+   "path": "ordin/cncan/2020/86",
+   "short": "Ordin cncan nr. 86/2020",
+   "title": "Ordinul nr. 86/2020 privind aprobarea Normelor fundamentale de securitate nucleară pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227671",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227671",
+     "sha256": "42de16b5c9a4a3eb1797d0bbe5a71a7baa4aeee60e227b6385a9cfd3c9b9d339"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-1076-2020",
    "path": "ordin/concurenta/2020/1076",
    "short": "Ordin concurenta nr. 1076/2020",
@@ -5939,6 +6359,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225831",
      "sha256": "173c1d8a1f3d415e95d9fc2fa204269e4aa69bda0a957b9be8f342787b056fa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-127-2020",
+   "path": "ordin/culte/2020/127",
+   "short": "Ordin culte nr. 127/2020",
+   "title": "Ordinul nr. 127/2020 privind modificarea și completarea Statutului Cultului Creștin Penticostal - Biserica lui Dumnezeu Apostolică din România, recunoscut prin Hotărârea Guvernului nr. 189/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228305",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228305",
+     "sha256": "41f23d7abf811684b1e339489d9ba6d767ce6e0ddcbc7536c5bfb01639583287"
     }
    ]
   },
@@ -10293,6 +10728,81 @@
    ]
   },
   {
+   "slug": "ordin-igsu-4309-ig-2020",
+   "path": "ordin/igsu/2020/4309-ig",
+   "short": "Ordin igsu nr. 4309/IG/2020",
+   "title": "Ordinul nr. 4.309/IG/2020 pentru modificarea și completarea Metodologiei privind emiterea avizului în vederea autorizării furnizorilor de formare profesională a adulților în ocupațiile din domeniul reglementat de Inspectoratul General pentru Situații de Urgență, aprobată prin Ordinul inspectorului general al Inspectoratului General pentru Situații de Urgență nr. 223/IG/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227794",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227794",
+     "sha256": "2e85e2c82d679e1e1d7e9c0e2b64ca061d73af3c64f9d8f8053e73510eb210f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1075-2020",
+   "path": "ordin/ins/2020/1075",
+   "short": "Ordin ins nr. 1075/2020",
+   "title": "Ordinul nr. 1.075/2020 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intra-UE cu bunuri în anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232540",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232540",
+     "sha256": "acd6c441b0228a7e990d97cef07c3b9cba6d1403271a763c80b2aa25446af3e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1129-2020",
+   "path": "ordin/ins/2020/1129",
+   "short": "Ordin ins nr. 1129/2020",
+   "title": "Ordinul nr. 1.129/2020 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235294",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235294",
+     "sha256": "aa5c6e6dbe1eadfc10ba3274f0c81cb742db702d9e5fff9d1ddb115fd8cb1535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-722-2020",
+   "path": "ordin/ins/2020/722",
+   "short": "Ordin ins nr. 722/2020",
+   "title": "Ordinul nr. 722/2020 privind aprobarea Normelor de confidențialitate a datelor statistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227102",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227102",
+     "sha256": "a1b4799c5b725e19a9110ae055007ea74e537927cd4479fb1e6f827932bc26ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-81-2020",
+   "path": "ordin/inspectiajudiciara/2020/81",
+   "short": "Ordin inspectiajudiciara nr. 81/2020",
+   "title": "Ordinul nr. 81/2020 pentru modificarea Regulamentului de organizare și funcționare a Inspecției Judiciare, aprobat prin Ordinul inspectorului-șef al Inspecției Judiciare nr. 134/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228475",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228475",
+     "sha256": "126236d62f3e74cdc11092d43eac09dbb72bcfd9fb10815ba2f94edbdc878bbe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1-2020",
    "path": "ordin/interne/2020/1",
    "short": "Ordin interne nr. 1/2020",
@@ -12899,6 +13409,156 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225015",
      "sha256": "af44e9717a400a2afb5553a25982a904b8ac327f3a74a4ae1bae60a80b711160"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-404-2020",
+   "path": "ordin/onjn/2020/404",
+   "short": "Ordin onjn nr. 404/2020",
+   "title": "Ordinul nr. 404/2020 privind aprobarea Condițiilor minime tehnice de verificare a mijloacelor de joc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235934",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235934",
+     "sha256": "2290f7db9ad25bbe591e6b11b4274edfc336aecf73c5d45999c1c647f5b9b3db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-102-2020",
+   "path": "ordin/onpcsb/2020/102",
+   "short": "Ordin onpcsb nr. 102/2020",
+   "title": "Ordinul nr. 102/2020 privind aprobarea Normelor de aplicare a prevederilor Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative pentru entitățile raportoare supravegheate și controlate de Oficiul Național de Prevenire și Combatere a Spălării Banilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222657",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222657",
+     "sha256": "b65d1bdc61e43f3ba1faf60aa7649c2d30962a5ac4cebd64546c6ad2f86e7c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-208-2020",
+   "path": "ordin/onpcsb/2020/208",
+   "short": "Ordin onpcsb nr. 208/2020",
+   "title": "Ordinul nr. 208/2020 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", ale legitimației de control, precum și a caracteristicilor de tipărire a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236526",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236526",
+     "sha256": "bb1e1cbaef8b1786d7402b868ff494c61452d001a33b732627d514c17a65bafc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-104-2020",
+   "path": "ordin/orniss/2020/104",
+   "short": "Ordin orniss nr. 104/2020",
+   "title": "Ordinul nr. 104/2020 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224711",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224711",
+     "sha256": "4871384a73d0e971c5be46e4a02d67375dbbb380701007bc56e878202a9d584f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-109-2020",
+   "path": "ordin/orniss/2020/109",
+   "short": "Ordin orniss nr. 109/2020",
+   "title": "Ordinul nr. 109/2020 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225372",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225372",
+     "sha256": "eeb367174b480e2314d7220386835f13a9d677b95d6be6ddb1cc7f20e88537b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-132-2020",
+   "path": "ordin/orniss/2020/132",
+   "short": "Ordin orniss nr. 132/2020",
+   "title": "Ordinul nr. 132/2020 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227981",
+   "versions": [
+    {
+     "from": "2020-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227981",
+     "sha256": "cb8bff1e54b2c42638018090ae2bf272804f777c887331ec43bf6c2de11a8e10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-135-2020",
+   "path": "ordin/orniss/2020/135",
+   "short": "Ordin orniss nr. 135/2020",
+   "title": "Ordinul nr. 135/2020 pentru aprobarea Procedurii naționale privind aprobarea produselor protejate TEMPEST",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228381",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228381",
+     "sha256": "a49824d735efe280e70a6bbc727c419b9d29d118c997a5a9d9d3280f85cab60c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-136-2020",
+   "path": "ordin/orniss/2020/136",
+   "short": "Ordin orniss nr. 136/2020",
+   "title": "Ordinul nr. 136/2020 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229506",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229506",
+     "sha256": "b53f9db670dab44516e9b554cb56c5e207d41ca3302c7e4cc5bf8d64d631864f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-87-2020",
+   "path": "ordin/orniss/2020/87",
+   "short": "Ordin orniss nr. 87/2020",
+   "title": "Ordinul nr. 87/2020 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222651",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222651",
+     "sha256": "7ad0e34432f1f915ca937274f63a05d67b30107d2c3128b39ee5cd2dec7e0d89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-penitenciare-384-2020",
+   "path": "ordin/penitenciare/2020/384",
+   "short": "Ordin penitenciare nr. 384/2020",
+   "title": "Ordinul nr. 384/2020 privind modificarea anexei la Decizia directorului general al Administrației Naționale a Penitenciarelor nr. 490/2016 pentru aprobarea graficului efectuării transportului deținuților între unitățile penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224409",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224409",
+     "sha256": "06db8703f134d9f9c74335ae117f5f9bebea6b1c54e495442ad0543b7499fac1"
     }
    ]
   },
@@ -16098,6 +16758,81 @@
    ]
   },
   {
+   "slug": "ordin-sie-311-2020",
+   "path": "ordin/sie/2020/311",
+   "short": "Ordin sie nr. 311/2020",
+   "title": "Ordinul nr. 311/2020 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232621",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232621",
+     "sha256": "1cb871961c2833132f74cb6c7341fa1c92333bc5507ef0bd254508acaffb2a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-312-2020",
+   "path": "ordin/sie/2020/312",
+   "short": "Ordin sie nr. 312/2020",
+   "title": "Ordinul nr. 312/2020 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232622",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232622",
+     "sha256": "98597aab61da5f8494069f1714db8b2b99128a910d03dc80cb45ed5af7510da1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-smap-80-2020",
+   "path": "ordin/smap/2020/80",
+   "short": "Ordin smap nr. 80/2020",
+   "title": "Ordinul nr. 80/2020 ORDIN nr. S.M.Ap.-80 din 2 septembrie 2020 privind conferirea Semnului onorific În Serviciul Patriei unor soldați și gradați profesioniști din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229900",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229900",
+     "sha256": "d10abf40cc31fe2e985d13fadfb9f0b6b441ed380c5c3723d772e33a694c99cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1178-2020",
+   "path": "ordin/sport/2020/1178",
+   "short": "Ordin sport nr. 1178/2020",
+   "title": "Ordinul nr. 1.178/2020 privind modificarea Ordinului ministrului tineretului și sportului nr. 1.166/2019 pentru aprobarea programelor sportive de utilitate publică și a metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului în anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230062",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230062",
+     "sha256": "7e170643ccfce71e7cd1a21c69806da9a024590f7e8f94647935eabebb79c9c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1189-2020",
+   "path": "ordin/sport/2020/1189",
+   "short": "Ordin sport nr. 1189/2020",
+   "title": "Ordinul nr. 1.189/2020 pentru modificarea anexei la Ordinul ministrului tineretului și sportului nr. 832/2017 privind aprobarea Regulamentului-cadru de organizare și funcționare al cluburilor sportive - unități aflate în subordinea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229933",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229933",
+     "sha256": "6f43feabde5e94b80b93772d9922fd7ba426c2942841c77ca714c71c6124806b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sport-1219-2020",
    "path": "ordin/sport/2020/1219",
    "short": "Ordin sport nr. 1219/2020",
@@ -16109,6 +16844,96 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230416",
      "sha256": "6def1230a7bd39ba7c4d16757a7366ae4a17ed750597c1839dd04184b86a8d56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1344-2020",
+   "path": "ordin/sport/2020/1344",
+   "short": "Ordin sport nr. 1344/2020",
+   "title": "Ordinul nr. 1.344/2020 pentru modificarea Metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului în anul 2020, aprobată prin Ordinul ministrului tineretului și sportului nr. 1.166/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230853",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230853",
+     "sha256": "88101e3648b51958919c6f3d739844d6c4bfd4a48a437e1cfedff62c078aadca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1350-2020",
+   "path": "ordin/sport/2020/1350",
+   "short": "Ordin sport nr. 1350/2020",
+   "title": "Ordinul nr. 1.350/2020 pentru modificarea anexei la Ordinul ministrului tineretului și sportului nr. 553/2019 privind aprobarea modelului Protocolului pentru formarea și atestarea ca antrenor într-o ramură de sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231219",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231219",
+     "sha256": "653d197d6a013683938c2cfbc2e0ba3a32d83b05aa23f99ccfd1aef49d32def1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1415-2020",
+   "path": "ordin/sport/2020/1415",
+   "short": "Ordin sport nr. 1415/2020",
+   "title": "Ordinul nr. 1.415/2020 pentru modificarea Normelor metodologice privind acordarea unui ajutor financiar sub formă de voucher pentru încurajarea și sprijinirea copiilor în practicarea sportului de performanță, aprobate prin Ordinul ministrului tineretului și sportului nr. 1.199/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232029",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232029",
+     "sha256": "d6e902115e50fd637e81bb1d03bfda867f118f50676f28da92f5828a0557f4bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1441-2020",
+   "path": "ordin/sport/2020/1441",
+   "short": "Ordin sport nr. 1441/2020",
+   "title": "Ordinul nr. 1.441/2020 privind aprobarea Metodologiei pentru finanțarea activității sportive de excelență prin federațiile sportive naționale pe ramură de sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233265",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233265",
+     "sha256": "d5ccc9b30134831881383c7782ebad286b847595abe98744855e10bbb23818b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1488-2020",
+   "path": "ordin/sport/2020/1488",
+   "short": "Ordin sport nr. 1488/2020",
+   "title": "Ordinul nr. 1.488/2020 privind aprobarea Metodologiei de finanțare prin Programul \"Generația 28\" a activităților de selecție, pregătire și realizare de competiții pentru copii și persoane cu nevoi speciale, pe baza unor proiecte și programe ale federațiilor sportive naționale, cu scopul de a forma performeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235158",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235158",
+     "sha256": "2cacfdd38785afa8f1f61a51209e7e4fc78cbf1037064c4f3ae08f957e908b58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-525-2020",
+   "path": "ordin/sport/2020/525",
+   "short": "Ordin sport nr. 525/2020",
+   "title": "Ordinul nr. 525/2020 privind completarea Ordinului ministrului tineretului și sportului nr. 1.166/2019 pentru aprobarea programelor sportive de utilitate publică și a metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului în anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225410",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225410",
+     "sha256": "279e79044e4386d854dc809fa0a4ef43732191d919b3544db458596e5561fff5"
     }
    ]
   },
@@ -16158,6 +16983,21 @@
    ]
   },
   {
+   "slug": "ordin-sport-610-2020",
+   "path": "ordin/sport/2020/610",
+   "short": "Ordin sport nr. 610/2020",
+   "title": "Ordinul nr. 610/2020 privind aprobarea Metodologiei pentru organizarea acțiunilor caselor de cultură ale studenților și ale Complexului Cultural Sportiv Studențesc \"Tei\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227404",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227404",
+     "sha256": "27179ffa412bc4577f5684109f49d93fd6a241a21276a19ff6ecf3d181278b19"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sport-619-2020",
    "path": "ordin/sport/2020/619",
    "short": "Ordin sport nr. 619/2020",
@@ -16188,6 +17028,21 @@
    ]
   },
   {
+   "slug": "ordin-sport-734-2020",
+   "path": "ordin/sport/2020/734",
+   "short": "Ordin sport nr. 734/2020",
+   "title": "Ordinul nr. 734/2020 pentru aprobarea Normelor metodologice privind fundamentarea, acordarea și justificarea sumelor primite de la bugetul de stat, prin bugetul Ministerului Tineretului și Sportului, pentru activitatea Comitetului Olimpic și Sportiv Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228666",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228666",
+     "sha256": "e78f14edfc7f3874e66b4c366f27d714e0f0e6caf3063bb1fed96e935891543c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sport-978-2020",
    "path": "ordin/sport/2020/978",
    "short": "Ordin sport nr. 978/2020",
@@ -16199,6 +17054,171 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229315",
      "sha256": "0d66325050208a027b084e5471a2cc155485671b6efe8095a871182f34117b09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-979-2020",
+   "path": "ordin/sport/2020/979",
+   "short": "Ordin sport nr. 979/2020",
+   "title": "Ordinul nr. 979/2020 privind modificarea și completarea anexei la Ordinul ministrului tineretului și sportului nr. 455/2019 pentru aprobarea Metodologiei privind organizarea, funcționarea și finanțarea centrelor de tineret în cadrul Programului de centre de tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229639",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229639",
+     "sha256": "a7e1c7720671fd54be122ab9a674bb46f80f62bdd6733ef352f7628badc3c6ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-980-2020",
+   "path": "ordin/sport/2020/980",
+   "short": "Ordin sport nr. 980/2020",
+   "title": "Ordinul nr. 980/2020 pentru modificarea și completarea anexei la Ordinul ministrului tineretului și sportului nr. 471/2019 privind aprobarea Metodologiei pentru organizarea de proiecte proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229640",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229640",
+     "sha256": "b6b0b4fe60bce27f97d0178ac9d901682d69275c95ddb44f402545658aeded23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-985-2020",
+   "path": "ordin/sport/2020/985",
+   "short": "Ordin sport nr. 985/2020",
+   "title": "Ordinul nr. 985/2020 privind aprobarea Metodologiei pentru Concursul local de proiecte de tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229641",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229641",
+     "sha256": "264f78e452168ea8171462d1e84ebd0282f87a3354f886d111fd6fd07e664ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-991-2020",
+   "path": "ordin/sport/2020/991",
+   "short": "Ordin sport nr. 991/2020",
+   "title": "Ordinul nr. 991/2020 privind aprobarea Procedurii pentru reglementarea modului de avizare a închirierii bunurilor imobile, temporar disponibile, aflate în proprietatea publică a statului și administrarea Ministerului Tineretului și Sportului, în vederea aprobării închirierii acestor bunuri prin hotărâre a Guvernului, și a Procedurii-cadru de închiriere a bunurilor imobile aflate în proprietatea publică a statului și administrarea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229642",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229642",
+     "sha256": "aed1a189f4d50a37ea9070715f5eaa5127d40d42d5556e9e08d3423af16d3636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-44-2020",
+   "path": "ordin/spp/2020/44",
+   "short": "Ordin spp nr. 44/2020",
+   "title": "Ordinul nr. 44/2020 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232573",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232573",
+     "sha256": "5f29da995dcf6316360acd17689ca346cb521967e49fed1325a35f3ec2ad9e0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-45-2020",
+   "path": "ordin/spp/2020/45",
+   "short": "Ordin spp nr. 45/2020",
+   "title": "Ordinul nr. 45/2020 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232574",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232574",
+     "sha256": "2b611447db02c3da92067e49e6f9b591e0e3dce4d28f1e93fe4c5735e83cb814"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-640-2020",
+   "path": "ordin/sri/2020/640",
+   "short": "Ordin sri nr. 640/2020",
+   "title": "Ordinul nr. 640/2020 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233487",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233487",
+     "sha256": "5efd44046adbacdd368e85424c0b78b91ea4bee8dbfea1a14c775519584dade4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-641-2020",
+   "path": "ordin/sri/2020/641",
+   "short": "Ordin sri nr. 641/2020",
+   "title": "Ordinul nr. 641/2020 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și gradați profesioniști din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233488",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233488",
+     "sha256": "cd3173612b90b875d1c9a66ea1a9084a135558478b872b5e3b139149a92d058c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-8-2020",
+   "path": "ordin/sts/2020/8",
+   "short": "Ordin sts nr. 8/2020",
+   "title": "Ordinul nr. 8/2020 pentru aprobarea Procedurii privind modalitatea de transmitere către Serviciul de Telecomunicații Speciale a informațiilor tehnico-operaționale de interes pentru Sistemul de avertizare a populației în situații de urgență \"RO-ALERT\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224845",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224845",
+     "sha256": "c64fc41dcbe9f188114d739ff2f15f03a5d29a24115dddcdbe9aed40b475fa84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-806-2020",
+   "path": "ordin/sts/2020/806",
+   "short": "Ordin sts nr. 806/2020",
+   "title": "Ordinul nr. 806/2020 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232938",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232938",
+     "sha256": "e6b29168502cc09d59e5156083b28252a043fd5f1c5e7d1a3af281651e3f3347"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-807-2020",
+   "path": "ordin/sts/2020/807",
+   "short": "Ordin sts nr. 807/2020",
+   "title": "Ordinul nr. 807/2020 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232939",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232939",
+     "sha256": "3c13a2e5589bbd9feeef379c3c9d27839dc69622853677a2120d78be4578dd04"
     }
    ]
   },

@@ -3,6 +3,126 @@
  "shard": "ordin/2012",
  "acts": [
   {
+   "slug": "ordin-achizitii-138-2012",
+   "path": "ordin/achizitii/2012/138",
+   "short": "Ordin achizitii nr. 138/2012",
+   "title": "Ordinul nr. 138/2012 privind aprobarea modelelor de documentații standardizate pentru atribuirea contractelor de lucrări pentru proiectele de investiții din domeniul de transport rutier care utilizează condițiile contractuale ale Federației Internaționale a Inginerilor Consultanți în Domeniul Construcțiilor (FIDIC) CARTE ROȘIE și CARTE GALBENĂ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137939",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137939",
+     "sha256": "eabd79e58cf914bde92a7441b2d3c8d7068a20c6f83ea47ef9d24a8b1871c4d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-170-2012",
+   "path": "ordin/achizitii/2012/170",
+   "short": "Ordin achizitii nr. 170/2012",
+   "title": "Ordinul nr. 170/2012 privind interpretarea art. 69^1 din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137985",
+   "versions": [
+    {
+     "from": "2012-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137985",
+     "sha256": "cc22a6403c5303c48b786d0b6d0f1a32cb0867fe462a14f99defcc49bace7b1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-171-2012",
+   "path": "ordin/achizitii/2012/171",
+   "short": "Ordin achizitii nr. 171/2012",
+   "title": "Ordinul nr. 171/2012 cu privire la clarificările ce vizează conținutul documentației de atribuire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137986",
+   "versions": [
+    {
+     "from": "2012-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137986",
+     "sha256": "d27ba80bad93c5dc200c153ec44b390317b784e0a4306ee8ff5b42a4a03a1359"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-546-2012",
+   "path": "ordin/adoptii/2012/546",
+   "short": "Ordin adoptii nr. 546/2012",
+   "title": "Ordinul nr. 546/2012 privind aprobarea modelului-cadru al convențiilor încheiate între Oficiul Român pentru Adopții și cabinete individuale, cabinete asociate și societăți civile profesionale de asistență socială și/sau psihologie pentru realizarea unor noi evaluări în cadrul procedurii de contestare a raportului final de evaluare a persoanei/familiei adoptatoare în vederea obținerii atestatului și, respectiv, pentru realizarea activităților postadopție prevăzute de legislația în vigoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136883",
+   "versions": [
+    {
+     "from": "2012-04-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136883",
+     "sha256": "d20781fe895c8fd97d92e7388e6e0d14cea4138a76c8a7bc9d372ee9d1917c93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-550-2012",
+   "path": "ordin/adoptii/2012/550",
+   "short": "Ordin adoptii nr. 550/2012",
+   "title": "Ordinul nr. 550/2012 privind aprobarea criteriilor pe baza cărora se realizează potrivirea teoretică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136968",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136968",
+     "sha256": "3fd3b8c3fb2cb7be16e0d5714f2999339f35cb44f6da4c436c892016b27bf526"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-552-2012",
+   "path": "ordin/adoptii/2012/552",
+   "short": "Ordin adoptii nr. 552/2012",
+   "title": "Ordinul nr. 552/2012 privind aprobarea modelului-cadru al atestatului de persoană sau familie aptă să adopte, precum și a modelului și conținutului unor formulare, instrumente și documente utilizate în procedura adopției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137090",
+   "versions": [
+    {
+     "from": "2012-04-11",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137090",
+     "sha256": "cf8c885a7ea0e595a99120ea7e25f3d6d970781abf4dc97b9e3039499b4c9421"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-582-2012",
+   "path": "ordin/adoptii/2012/582",
+   "short": "Ordin adoptii nr. 582/2012",
+   "title": "Ordinul nr. 582/2012 privind aprobarea formularelor-model ale procesului-verbal de constatare a contravențiilor și înștiințării de plată utilizate în activitatea de constatare a contravențiilor și aplicare a sancțiunilor prevăzute de Legea nr. 273/2004 privind regimul juridic al adopției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140003",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140003",
+     "sha256": "b775c24e3b8d6315a17f8d645611ceb615608f6fcc1725e8c26cb18ae2ca7313"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-617-2012",
+   "path": "ordin/adoptii/2012/617",
+   "short": "Ordin adoptii nr. 617/2012",
+   "title": "Ordinul nr. 617/2012 privind aprobarea unor măsuri vizând asigurarea transparenței unor etape administrative derulate în cadrul procedurilor de adopție și coordonarea intervenției Compartimentului adopții și postadopții în relația cu managerul de caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144292",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144292",
+     "sha256": "00a796677116bf02b9278b40c444998fe4b7430862b5935cb27af867c71d757b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-110-2012",
    "path": "ordin/agricultura/2012/110",
    "short": "Ordin agricultura nr. 110/2012",
@@ -1923,6 +2043,96 @@
    ]
   },
   {
+   "slug": "ordin-anfp-2845-2012",
+   "path": "ordin/anfp/2012/2845",
+   "short": "Ordin anfp nr. 2845/2012",
+   "title": "Ordinul nr. 2.845/2012 pentru stabilirea domeniilor prioritare în care se organizează programe de formare pentru funcționarii publici care ocupă funcții publice generale de conducere și execuție, precum și funcții publice specifice asimilate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140428",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140428",
+     "sha256": "cc091938c6d0d17992310596e449a846ffc2599cc7b3ceb1ca8ded81b0109d83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-4040-2012",
+   "path": "ordin/anfp/2012/4040",
+   "short": "Ordin anfp nr. 4040/2012",
+   "title": "Ordinul nr. 4.040/2012 privind aprobarea listei documentelor necesare pentru obținerea avizului Agenției Naționale a Funcționarilor Publici, precum și a modalității de transmitere a acestora de către autoritățile și instituțiile publice și pentru aprobarea modelului-cadru de stat de funcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142188",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142188",
+     "sha256": "7985724840014e6a9c0cbca2a3f990858f815c6b11c887da7f63f49691249b0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-4189-2012",
+   "path": "ordin/anfp/2012/4189",
+   "short": "Ordin anfp nr. 4189/2012",
+   "title": "Ordinul nr. 4.189/2012 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2012, seria a II-a de admitere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142126",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142126",
+     "sha256": "08d5662cb605323110e04daa58a746a5a51d569150d89a3fae226adeed663ae3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-4190-2012",
+   "path": "ordin/anfp/2012/4190",
+   "short": "Ordin anfp nr. 4190/2012",
+   "title": "Ordinul nr. 4.190/2012 pentru aprobarea Calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2012, seria a III-a de admitere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142132",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142132",
+     "sha256": "3c86f92e6049f036b2c55cd5d07c7e658223711b23b6d6251973eda01688f022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-4763-2012",
+   "path": "ordin/anfp/2012/4763",
+   "short": "Ordin anfp nr. 4763/2012",
+   "title": "Ordinul nr. 4.763/2012 pentru modificarea Regulamentului privind organizarea și desfășurarea examenului de promovare în clasă a funcționarilor publici, aprobat prin Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 1.932/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143660",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143660",
+     "sha256": "10360af86d382cbd32ab66c42186f7c4be075c147d9e66785712a87e2f23ac05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-829-2012",
+   "path": "ordin/anfp/2012/829",
+   "short": "Ordin anfp nr. 829/2012",
+   "title": "Ordinul nr. 829/2012 privind stabilirea taxei de participare la programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici în anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136305",
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136305",
+     "sha256": "2c095a81246b0935212276a240c87c0ba0cd8322108ce9fdb38e36862b976ee1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-1-2012",
    "path": "ordin/anpc/2012/1",
    "short": "Ordin anpc nr. 1/2012",
@@ -3303,6 +3513,81 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-1-2012",
+   "path": "ordin/antidoping/2012/1",
+   "short": "Ordin antidoping nr. 1/2012",
+   "title": "Ordinul nr. 1/2012 pentru aprobarea condițiilor tehnice ale camerei pentru produse cu substanțe interzise, a procedurii de depozitare și păstrare a substanțelor dopante cu grad mare de risc ridicate în vederea confiscării și a formularelor proceselor-verbale prevăzute la art. 26 alin. (1) din Normele metodologice pentru aplicarea prevederilor Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc, aprobate prin Hotărârea Guvernului nr. 956/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134643",
+   "versions": [
+    {
+     "from": "2012-01-19",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134643",
+     "sha256": "5bdff055e57c1f9ad0f7ff27bddcf4fabdf50dc13cbc5cc29f78ca65efe80839"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-128-2012",
+   "path": "ordin/antidoping/2012/128",
+   "short": "Ordin antidoping nr. 128/2012",
+   "title": "Ordinul nr. 128/2012 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140187",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140187",
+     "sha256": "025876db37c70891b337f6ac33a9c5ea62590f20a343621df9d962f3ad1c5390"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-156-2012",
+   "path": "ordin/antidoping/2012/156",
+   "short": "Ordin antidoping nr. 156/2012",
+   "title": "Ordinul nr. 156/2012 pentru aprobarea formularului-tip de proces-verbal de constatare și sancționare a contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141021",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141021",
+     "sha256": "190feb220a49d8331a94c0b299f1dd17fede2253c787c791595e20ccda033f50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-212-2012",
+   "path": "ordin/antidoping/2012/212",
+   "short": "Ordin antidoping nr. 212/2012",
+   "title": "Ordinul nr. 212/2012 privind aprobarea Listei interzise pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142793",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142793",
+     "sha256": "5b06d1adb467c4f0835486023bc92dc8564f576bf16039e21c7075f5c3d0f09f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-42-2012",
+   "path": "ordin/antidoping/2012/42",
+   "short": "Ordin antidoping nr. 42/2012",
+   "title": "Ordinul nr. 42/2012 pentru aprobarea procedurii de control privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc și a formularului-tip de proces-verbal de constatare și sancționare a contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138457",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138457",
+     "sha256": "f665947f42ec1b42d872b3c8b7ab82bd871d1964c3aaa0b7dc023731eeaf1a36"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-10-2012",
    "path": "ordin/aparare/2012/10",
    "short": "Ordin aparare nr. 10/2012",
@@ -4038,6 +4323,21 @@
    ]
   },
   {
+   "slug": "ordin-camera-747-2012",
+   "path": "ordin/camera/2012/747",
+   "short": "Ordin camera nr. 747/2012",
+   "title": "Ordinul nr. 747/2012 privind abrogarea Ordinului secretarului general al Camerei Deputaților nr. 1.432/2010 privind procedurile publicării, republicării și rectificării, precum și ale publicării în numere speciale, cu tiraj limitat, a actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139682",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139682",
+     "sha256": "53f5961c5d15f4b94690d17583aca2e0dd38b39a5f80ed982b185222f2a884da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-24-2012",
    "path": "ordin/cnas/2012/24",
    "short": "Ordin cnas nr. 24/2012",
@@ -4139,6 +4439,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143021",
      "sha256": "18cecc8fb1f5c838e5f6c4257bcf730aa9b05e27e6d44f6a7fc7d3c3db5e002b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-214-2012",
+   "path": "ordin/cnpp/2012/214",
+   "short": "Ordin cnpp nr. 214/2012",
+   "title": "Ordinul nr. 214/2012 privind procura specială utilizată în sistemul public de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138842",
+   "versions": [
+    {
+     "from": "2012-06-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138842",
+     "sha256": "3d4bee2872ac137d22efb5ce39b39f23b9c06de180eb12b0b6a3440dd38cfab4"
     }
    ]
   },
@@ -4409,6 +4724,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134765",
      "sha256": "1e8ccc842e8a8be080444dc3e947027f7f0973fdcc988bd6ad283ec926f460b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-394-2012",
+   "path": "ordin/conas/2012/394",
+   "short": "Ordin conas nr. 394/2012",
+   "title": "Ordinul nr. 394/2012 privind aprobarea Listei unităților spitalicești acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144305",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144305",
+     "sha256": "e51406750fe8e87e505993e4c675746a80a3c9ecd637f276bdac797da2c00936"
     }
    ]
   },
@@ -4754,6 +5084,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138004",
      "sha256": "8b3a1881fda3d75286ecd37f07b555f699dbbd5f18b2b32195906bf7c4c0a576"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-15-2012",
+   "path": "ordin/culte/2012/15",
+   "short": "Ordin culte nr. 15/2012",
+   "title": "Ordinul nr. 15/2012 privind procedura de acordare a avizului consultativ de către Secretariatul de Stat pentru Culte pentru înființarea asociațiilor religioase sau, după caz, pentru dobândirea statutului de asociație religioasă de către asociațiile existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136814",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136814",
+     "sha256": "f2f95545664845b2b9b301b2da6277577eb84ce0a45f273d5edb4bf11a30502e"
     }
    ]
   },
@@ -7098,6 +7443,21 @@
    ]
   },
   {
+   "slug": "ordin-europene-1050-2012",
+   "path": "ordin/europene/2012/1050",
+   "short": "Ordin europene nr. 1050/2012",
+   "title": "Ordinul nr. 1.050/2012 privind aprobarea Procedurii de atribuire aplicabile beneficiarilor privați de proiecte finanțate din instrumente structurale, obiectivul \"Convergență\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142894",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142894",
+     "sha256": "05c36082966ce8e35daa85cf2029cae798bd6a3606fd7fe41190bb2229a1bc87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-europene-120-2012",
    "path": "ordin/europene/2012/120",
    "short": "Ordin europene nr. 120/2012",
@@ -7109,6 +7469,36 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135570",
      "sha256": "35bc732ba97ea69d88d98006cb4b8636ff56f24ddadba063be4e3f18954f6d33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-348-2012",
+   "path": "ordin/europene/2012/348",
+   "short": "Ordin europene nr. 348/2012",
+   "title": "Ordinul nr. 348/2012 pentru aprobarea Normelor procedurale interne pentru organizarea și desfășurarea procedurii de selecție de oferte în vederea închirierii unui spațiu într-o clădire de birouri, dotată cu mobilier de birouri, utilități și spații de parcare, necesar funcționării Direcției generale Autoritatea pentru coordonarea instrumentelor structurale din cadrul Ministerului Afacerilor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137722",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137722",
+     "sha256": "932255e7ecf6cca4bfbdf8d1b7df3a03725c11f1d163e61b4150f3fb9ff54e79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-869-2012",
+   "path": "ordin/europene/2012/869",
+   "short": "Ordin europene nr. 869/2012",
+   "title": "Ordinul nr. 869/2012 privind aprobarea Normelor procedurale interne pentru atribuirea contractului de închiriere a unui spațiu într-o clădire de birouri, dotată cu mobilier de birouri, utilități și spații de parcare, necesar funcționării Direcției generale Autoritatea pentru coordonarea instrumentelor structurale din cadrul Ministerului Afacerilor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140633",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140633",
+     "sha256": "b1f76f3edfa343d771bfb7715ac13f085282024e592e8b45860badc5dd309878"
     }
    ]
   },
@@ -8268,6 +8658,51 @@
    ]
   },
   {
+   "slug": "ordin-ins-1940-2012",
+   "path": "ordin/ins/2012/1940",
+   "short": "Ordin ins nr. 1940/2012",
+   "title": "Ordinul nr. 1.940/2012 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144375",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144375",
+     "sha256": "c84f900d8813a212c3d475da5066a005dd6e18de09ff8311fc85987918397591"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1948-2012",
+   "path": "ordin/ins/2012/1948",
+   "short": "Ordin ins nr. 1948/2012",
+   "title": "Ordinul nr. 1.948/2012 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144348",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144348",
+     "sha256": "587806b1cee0f1b81d78623ef2c17eca85140621b0bb4d9af09650a5b106ee6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-24-2012",
+   "path": "ordin/inspectiajudiciara/2012/24",
+   "short": "Ordin inspectiajudiciara nr. 24/2012",
+   "title": "Ordinul nr. 24/2012 privind aprobarea Regulamentului de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141831",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141831",
+     "sha256": "7e6e31daa9f991527239cde0d11973a0ebd368e131f930f2778973253aa282e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-113-2012",
    "path": "ordin/interne/2012/113",
    "short": "Ordin interne nr. 113/2012",
@@ -9209,6 +9644,51 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137023",
      "sha256": "efd99c4d0970b2aa267c149fa5b1b89ae4ba6950f47e1a83b4f0874b72d2461f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-163-2012",
+   "path": "ordin/iscir/2012/163",
+   "short": "Ordin iscir nr. 163/2012",
+   "title": "Ordinul nr. 163/2012 pentru aprobarea Metodologiei privind prelungirea autorizării de funcționare și modificarea termenelor scadente pentru realizarea verificărilor tehnice periodice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142457",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142457",
+     "sha256": "e7b9a1fedeadfe866da6205b59b992adf8b93f4723c62811f18b117ee6bd1c07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-46-2012",
+   "path": "ordin/iscir/2012/46",
+   "short": "Ordin iscir nr. 46/2012",
+   "title": "Ordinul nr. 46/2012 pentru modificarea și completarea Metodologiei privind atestarea personalului tehnic de specialitate în domeniul ISCIR, aprobată prin Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 165/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137688",
+   "versions": [
+    {
+     "from": "2012-06-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137688",
+     "sha256": "fea66f73ddbb6a93f66dd299d9f51cfc076e4688d9e6570a39e185d3b8c8fdad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-83-2012",
+   "path": "ordin/iscir/2012/83",
+   "short": "Ordin iscir nr. 83/2012",
+   "title": "Ordinul nr. 83/2012 pentru modificarea și completarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea tehnică a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI, aprobată prin Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 130/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139447",
+   "versions": [
+    {
+     "from": "2012-08-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139447",
+     "sha256": "241c31368ed9b13746bc91b4e7735e321c932a523f066ed8ffaa1388f869b0e3"
     }
    ]
   },
@@ -10338,6 +10818,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-148-2012",
+   "path": "ordin/metrologie/2012/148",
+   "short": "Ordin metrologie nr. 148/2012",
+   "title": "Ordinul nr. 148/2012 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138435",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138435",
+     "sha256": "502d2ff1760088a9e3d48b4eec14972f19f77a87a33b9389ab30ddf13e80c56d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-115-2012",
    "path": "ordin/munca/2012/115",
    "short": "Ordin munca nr. 115/2012",
@@ -10679,6 +11174,126 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138468",
      "sha256": "11c5f8dcf873502e4f24333ea6a63d813673df1c33addb3b146034ec6de6c143"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-270-2012",
+   "path": "ordin/onpcsb/2012/270",
+   "short": "Ordin onpcsb nr. 270/2012",
+   "title": "Ordinul nr. 270/2012 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", precum și a caracteristicilor de tipărire a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142504",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142504",
+     "sha256": "d8a481badee70930914c4b9fdab63c05db9fac82fd8f4e5f0e8f2224353163bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-21-2012",
+   "path": "ordin/orniss/2012/21",
+   "short": "Ordin orniss nr. 21/2012",
+   "title": "Ordinul nr. 21/2012 privind aprobarea Metodologiei de evaluare și certificare a pachetelor, produselor și profilelor de protecție INFOSEC-INFOSEC 14",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136998",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136998",
+     "sha256": "4319afd7db31fd1b33fb75a3e5fa102f4eb1f695d155c5ed865726f7395dc371"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-22-2012",
+   "path": "ordin/orniss/2012/22",
+   "short": "Ordin orniss nr. 22/2012",
+   "title": "Ordinul nr. 22/2012 pentru aprobarea Directivei INFOSEC privind Catalogul național cu pachete, produse și profile de protecție INFOSEC - INFOSEC 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136931",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136931",
+     "sha256": "1f8e2484982a992863220f457ca2e43e3f2c738b1aeb554cbbf932d9eb5c8ce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-23-2012",
+   "path": "ordin/orniss/2012/23",
+   "short": "Ordin orniss nr. 23/2012",
+   "title": "Ordinul nr. 23/2012 privind aprobarea Metodologiei de acreditare a entităților pentru evaluarea produselor de securitate IT și a sistemelor informatice și de comunicații - INFOSEC 12",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136989",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136989",
+     "sha256": "ee80ef27b060711e504fe972e017ad29bc5dd6ba7d1c27f8f3d652b0af8181e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-25-2012",
+   "path": "ordin/orniss/2012/25",
+   "short": "Ordin orniss nr. 25/2012",
+   "title": "Ordinul nr. 25/2012 privind aprobarea Catalogului național cu pachete, produse și profile de protecție INFOSEC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137071",
+   "versions": [
+    {
+     "from": "2012-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137071",
+     "sha256": "83dd81c9851ce5233c785657672cce15677a3e0d03273fea53bb37ea814c38d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-92-2012",
+   "path": "ordin/revolutionari/2012/92",
+   "short": "Ordin revolutionari nr. 92/2012",
+   "title": "Ordinul nr. 92/2012 privind organizarea și desfășurarea activităților Școlii de Vară \"Revoluția Română din Decembrie 1989\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140972",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140972",
+     "sha256": "d44eec93be384bba7517b8963001e5cd31a17e3a539f7f20e206daa0fb62934f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-93-2012",
+   "path": "ordin/revolutionari/2012/93",
+   "short": "Ordin revolutionari nr. 93/2012",
+   "title": "Ordinul nr. 93/2012 privind participarea la activitățile Școlii de Vară \"Revoluția Română din Decembrie 1989\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140974",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140974",
+     "sha256": "4ea753189ae1ee7912241292b2c52c1af5ce4d9cdf04d4d77bc7cea8dc744a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-99-2012",
+   "path": "ordin/revolutionari/2012/99",
+   "short": "Ordin revolutionari nr. 99/2012",
+   "title": "Ordinul nr. 99/2012 privind completarea anexei nr. 2 la Protocolul încheiat între Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 și Autoritatea Națională pentru Sport și Tineret privind trimiterea în tabere de odihnă a copiilor urmași ai eroilor-martiri sau ai căror părinți dețin certificate doveditoare ale calității de revoluționar eliberate în baza Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004, aprobat prin Ordinul secretarului de stat al Secretariatului de Stat pentru Problemele Revoluționarilor din Decembrie 1989 nr. 75/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141662",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141662",
+     "sha256": "a492d77378b9a013ac5eb30cd9a9f3e5aee9fb0a65ea21bbeb7e0dd2d83a82ca"
     }
    ]
   },
@@ -12089,6 +12704,126 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142500",
      "sha256": "d041df1eca4074f492eea60330f37a06f1c6750d56b2e7cddd06eb58d14cc7b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-177-2012",
+   "path": "ordin/sie/2012/177",
+   "short": "Ordin sie nr. 177/2012",
+   "title": "Ordinul nr. 177/2012 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143114",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143114",
+     "sha256": "d6389a56dfe86c71af57c44b2d36544cdf5ecec4f321c0dd545a99f9855ad735"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-178-2012",
+   "path": "ordin/sie/2012/178",
+   "short": "Ordin sie nr. 178/2012",
+   "title": "Ordinul nr. 178/2012 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143153",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143153",
+     "sha256": "82a2d440f11daa03697bc4ebc239eb61a943f1d6be14ef30e439f2987aaa9b82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-20-2012",
+   "path": "ordin/spp/2012/20",
+   "short": "Ordin spp nr. 20/2012",
+   "title": "Ordinul nr. 20/2012 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141736",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141736",
+     "sha256": "d13bb9a2c570788fe71d028e78e2bb578a35e57bdbe46d0f29cde9ec804564dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-21-2012",
+   "path": "ordin/spp/2012/21",
+   "short": "Ordin spp nr. 21/2012",
+   "title": "Ordinul nr. 21/2012 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141749",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141749",
+     "sha256": "caf082a3ebedaa4c7c23ada932d2118dfe697cf9bad3b685deb2f38ddca75afa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-405-2012",
+   "path": "ordin/sri/2012/405",
+   "short": "Ordin sri nr. 405/2012",
+   "title": "Ordinul nr. 405/2012 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142795",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142795",
+     "sha256": "6bfd58f9d1b49d75097937a4d06e101d60aa768bfff9e5fbb75c4a9b20c90c08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-406-2012",
+   "path": "ordin/sri/2012/406",
+   "short": "Ordin sri nr. 406/2012",
+   "title": "Ordinul nr. 406/2012 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142802",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142802",
+     "sha256": "89322fff8efd796cc9045b38ae0e9f4c535436187214341889eaecf350e452e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-271-2012",
+   "path": "ordin/sts/2012/271",
+   "short": "Ordin sts nr. 271/2012",
+   "title": "Ordinul nr. 271/2012 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142892",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142892",
+     "sha256": "914bee466513e2acc537e377333656cd3f8198fa82340df983a8609469cec3f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-272-2012",
+   "path": "ordin/sts/2012/272",
+   "short": "Ordin sts nr. 272/2012",
+   "title": "Ordinul nr. 272/2012 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142893",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142893",
+     "sha256": "09c9e71f9df0c402f637524a900c06acdae591bf4f3bbd3f339a719eb6ed14e3"
     }
    ]
   },

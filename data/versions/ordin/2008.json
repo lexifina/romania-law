@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "ordin-achizitii-113-2008",
+   "path": "ordin/achizitii/2008/113",
+   "short": "Ordin achizitii nr. 113/2008",
+   "title": "Ordinul nr. 113/2008 pentru aprobarea Regulamentului privind supravegherea modului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93108",
+   "versions": [
+    {
+     "from": "2008-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93108",
+     "sha256": "dd41e90aef9c3eb8ed98246a504cbe1b8a39bbbe40c87d73e25e7c5627f4fa2a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2008",
    "path": "ordin/agricultura/2008/10",
    "short": "Ordin agricultura nr. 10/2008",
@@ -2898,6 +2913,66 @@
    ]
   },
   {
+   "slug": "ordin-anfp-10280-2008",
+   "path": "ordin/anfp/2008/10280",
+   "short": "Ordin anfp nr. 10280/2008",
+   "title": "Ordinul nr. 10.280/2008 privind aprobarea Regulamentului-cadru pentru organizarea și desfășurarea examenului de promovare în clasă a funcționarilor publici încadrați pe funcții publice cu nivel de studii inferior, care absolvă o formă de învățământ superior de lungă sau de scurtă durată în specialitatea în care își desfășoară activitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98013",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98013",
+     "sha256": "f6e7cd760b2bf190041229ccb6bb4073cd680fe046669409a68eaa850342437c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-13601-2008",
+   "path": "ordin/anfp/2008/13601",
+   "short": "Ordin anfp nr. 13601/2008",
+   "title": "Ordinul nr. 13.601/2008 pentru aprobarea termenelor și a formatului standard de transmitere a datelor și informațiilor privind planul anual de perfecționare profesională și fondurile alocate în scopul instruirii funcționarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101069",
+   "versions": [
+    {
+     "from": "2009-01-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101069",
+     "sha256": "db5383b9ad23d5f0cb30a0cf8c2e274eed76682c44107b394ccf5709a8056002"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-112-2008",
+   "path": "ordin/anofm/2008/112",
+   "short": "Ordin anofm nr. 112/2008",
+   "title": "Ordinul nr. 112/2008 privind aprobarea calificărilor/competențelor profesionale pentru care se acordă în anul 2008 sumele prevăzute la art. 17 din Legea nr. 279/2005 privind ucenicia la locul de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90275",
+   "versions": [
+    {
+     "from": "2008-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90275",
+     "sha256": "35756b3b89504bc4c8f6aba2c067149221c2355a51837f0b9aeff73c1dd0ae1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-57-2008",
+   "path": "ordin/anofm/2008/57",
+   "short": "Ordin anofm nr. 57/2008",
+   "title": "Ordinul nr. 57/2008 pentru aprobarea Instrucțiunilor de aplicare a prevederilor Regulamentului Consiliului (CEE) nr. 1.408 din 14 iunie 1971 privind aplicarea regimurilor de securitate socială lucrătorilor salariați, lucrătorilor independenți și membrilor familiilor lor care se deplasează în interiorul Comunității și ale Regulamentului Consiliului (CEE) nr. 574 din 21 martie 1972 care stabilește modalitățile de aplicare a Regulamentului Consiliului (CEE) nr. 1.408 din 14 iunie 1971 privind aplicarea regimurilor de securitate socială lucrătorilor salariați, lucrătorilor independenți și membrilor familiilor lor care se deplasează în interiorul Comunității, în domeniul prestațiilor de șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89806",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89806",
+     "sha256": "4564205bfee4555ed5e00adc626dbae0e04421cd28867f746ca51f2df1eb7a60"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-130-2008",
    "path": "ordin/anpc/2008/130",
    "short": "Ordin anpc nr. 130/2008",
@@ -4038,6 +4113,81 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-275-2008",
+   "path": "ordin/anrsc/2008/275",
+   "short": "Ordin anrsc nr. 275/2008",
+   "title": "Ordinul nr. 275/2008 privind completarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 243/2007 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru serviciile de transport public local de persoane, bunuri ori mărfuri în regim de taxi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93327",
+   "versions": [
+    {
+     "from": "2008-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93327",
+     "sha256": "52f4978774691deb22dded3154c6ef3ae71cd4e603f9c5f3e925fa25c09caa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-343-2008",
+   "path": "ordin/anrsc/2008/343",
+   "short": "Ordin anrsc nr. 343/2008",
+   "title": "Ordinul nr. 343/2008 privind modificarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C. nr. 116/2007 privind aprobarea tarifelor pentru servicii de consultanță și pentru activitățile de pregătire și specializare profesională a personalului operatorilor furnizori/prestatori de servicii comunitare de utilități publice, precum și a altor persoane interesate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94570",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94570",
+     "sha256": "23f12b0a4cb5104c1adb7beb720c40a2564facfebbecc2f064988f8f5394ed0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-376-2008",
+   "path": "ordin/anrsc/2008/376",
+   "short": "Ordin anrsc nr. 376/2008",
+   "title": "Ordinul nr. 376/2008 pentru modificarea Normelor privind autorizarea în domeniul montării și exploatării sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96083",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96083",
+     "sha256": "b6ffb6175b69b0c183a7d63d33656ea0d335d32e388b1e8b54a45ea2fc9ea8f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-440-2008",
+   "path": "ordin/anrsc/2008/440",
+   "short": "Ordin anrsc nr. 440/2008",
+   "title": "Ordinul nr. 440/2008 privind modificarea tarifelor pentru acordarea și menținerea licențelor în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97483",
+   "versions": [
+    {
+     "from": "2008-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97483",
+     "sha256": "eea5b7274a4324ba5d00c469edca4a00a12dd9df1c74ad9e2afb46612dc70e89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-483-2008",
+   "path": "ordin/anrsc/2008/483",
+   "short": "Ordin anrsc nr. 483/2008",
+   "title": "Ordinul nr. 483/2008 privind aprobarea Contractului-cadru de furnizare a energiei termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98644",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98644",
+     "sha256": "a884c2527378719e92303b2fdb733db0ab632132f69ccc6d434418f373c5603c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-10-2008",
    "path": "ordin/ansvsa/2008/10",
    "short": "Ordin ansvsa nr. 10/2008",
@@ -4518,6 +4668,21 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-2-2008",
+   "path": "ordin/antidoping/2008/2",
+   "short": "Ordin antidoping nr. 2/2008",
+   "title": "Ordinul nr. 2/2008 pentru modificarea anexei la Ordinul președintelui Agenției Naționale Anti-Doping nr. 115/2007 privind aprobarea Listei interzise pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88918",
+   "versions": [
+    {
+     "from": "2008-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88918",
+     "sha256": "e2d5e688c852fae2b742aedc90006e4605c8ad74a4f08f935dcc9a8b09bbfbbe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-103-2008",
    "path": "ordin/aparare/2008/103",
    "short": "Ordin aparare nr. 103/2008",
@@ -4934,6 +5099,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299553",
      "sha256": "dcb6e76e01c44a7d12ee88d416bee73038feead2aea768c70b5e7c03aa38588f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-asg-12-2008",
+   "path": "ordin/asg/2008/12",
+   "short": "Ordin asg nr. 12/2008",
+   "title": "Ordinul nr. 12/2008 pentru aprobarea Metodologiei privind finanțarea în cursul anului 2008 a proiectelor pentru comunicare, informare publică și promovarea imaginii și intereselor românești peste hotare, precum și a acțiunilor cu caracter științific și social-cultural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89936",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89936",
+     "sha256": "1443128d161ab529b6ead488039d99d34a07ea6bd6841f0de254b1516fa69563"
     }
    ]
   },
@@ -5358,6 +5538,51 @@
    ]
   },
   {
+   "slug": "ordin-cncan-342-2008",
+   "path": "ordin/cncan/2008/342",
+   "short": "Ordin cncan nr. 342/2008",
+   "title": "Ordinul nr. 342/2008 pentru aprobarea Ghidului privind termenii utilizați în reglementarea, autorizarea și controlul activităților nucleare, acordurile și convențiile în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99978",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99978",
+     "sha256": "1ea4b048293465f13a0d37c34a95ae7360e3f31098c5acfd463e6b4b71882f52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-443-2008",
+   "path": "ordin/cncan/2008/443",
+   "short": "Ordin cncan nr. 443/2008",
+   "title": "Ordinul nr. 443/2008 pentru aprobarea Normelor privind supravegherea și controlul expedierilor internaționale de deșeuri radioactive și combustibil nuclear uzat implicând teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99648",
+   "versions": [
+    {
+     "from": "2008-12-25",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99648",
+     "sha256": "8a044f462df4a2a51bf66c037b0dddd2977e9e79d4fc159fdf4fe285225a8393"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncd-144-2008",
+   "path": "ordin/cncd/2008/144",
+   "short": "Ordin cncd nr. 144/2008",
+   "title": "Ordinul nr. 144/2008 privind aprobarea Procedurii interne de soluționare a petițiilor și sesizărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92178",
+   "versions": [
+    {
+     "from": "2008-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92178",
+     "sha256": "97397e990b59037d450e85c3bef57d9fec04f3e04a0562e7a64ab47814aca546"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-36-2008",
    "path": "ordin/cnvm/2008/36",
    "short": "Ordin cnvm nr. 36/2008",
@@ -5519,6 +5744,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101283",
      "sha256": "72cf622118936f85ed0820b450905b673ddfeebe566d6323f8fb0ddae4d5d568"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-253-2008",
+   "path": "ordin/copii/2008/253",
+   "short": "Ordin copii nr. 253/2008",
+   "title": "Ordinul nr. 253/2008 pentru aprobarea Metodologiei privind trimiterea copiilor care beneficiază de o măsură de protecție specială la tratament medical în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100385",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100385",
+     "sha256": "87c5d4366ccb10a801f34f739ca77e2333ce2ec06e3e998f8eeaaab58c944038"
     }
    ]
   },
@@ -5849,6 +6089,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94326",
      "sha256": "3bcee1a183c33ee4b07114b42dd90f35e555890e1261a0134f8da1456b8ae52b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csm-866-c-2008",
+   "path": "ordin/csm/2008/866-c",
+   "short": "Ordin csm nr. 866/C/2008",
+   "title": "Ordinul nr. 866/C/2008 privind stabilirea plafonului maxim în limita căruia se poate deconta chiria pentru judecători, procurori, personalul asimilat acestora și magistrații-asistenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91984",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91984",
+     "sha256": "944e9fef06f5c43eb24ff86601c0c36ad378a349c7f80889cf9bef50450c5388"
     }
    ]
   },
@@ -6389,6 +6644,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96161",
      "sha256": "159e325de4a724965052ba73a7aa579188394596e0541b52cf18fc140f638e65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-11-2008",
+   "path": "ordin/dizabilitati/2008/11",
+   "short": "Ordin dizabilitati nr. 11/2008",
+   "title": "Ordinul nr. 11/2008 privind elaborarea Metodologiei de evaluare a proiectelor și criteriilor pe baza cărora se efectuează selecția proiectelor în domeniul protecției, integrării și incluziunii sociale a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88668",
+   "versions": [
+    {
+     "from": "2008-01-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88668",
+     "sha256": "45ca3444424fadcd965eb560e7e6c2a23d455ef90548ad26469b6baa106cba07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-559-2008",
+   "path": "ordin/dizabilitati/2008/559",
+   "short": "Ordin dizabilitati nr. 559/2008",
+   "title": "Ordinul nr. 559/2008 privind aprobarea Standardelor specifice de calitate pentru centrele rezidențiale, centrele de zi și locuințele protejate pentru persoane adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98950",
+   "versions": [
+    {
+     "from": "2008-11-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98950",
+     "sha256": "5f517e19c693096a918e6144312fb48ec8610ab33fceaa4d8053b08520bc3ba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-590-2008",
+   "path": "ordin/dizabilitati/2008/590",
+   "short": "Ordin dizabilitati nr. 590/2008",
+   "title": "Ordinul nr. 590/2008 privind aprobarea Instrucțiunilor pentru aplicarea art. 78 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99865",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99865",
+     "sha256": "e155350be237dedb3ef5a6b69ace0e75b225e5463242eebbbf6a31b21495222f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-651-2008",
+   "path": "ordin/dizabilitati/2008/651",
+   "short": "Ordin dizabilitati nr. 651/2008",
+   "title": "Ordinul nr. 651/2008 privind aprobarea Metodologiei de monitorizare a implementării standardelor specifice de calitate în centrele pentru persoanele cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100969",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100969",
+     "sha256": "cd558cf217ff6a74101de0c91cae4254d65791fb17b4147eae3253c4ba789392"
     }
    ]
   },
@@ -9108,6 +9423,111 @@
    ]
   },
   {
+   "slug": "ordin-geodezi-14-2008",
+   "path": "ordin/geodezi/2008/14",
+   "short": "Ordin geodezi nr. 14/2008",
+   "title": "Ordinul nr. 14/2008 pentru aprobarea Listei geodezilor cu drept de semnătură, autorizați de Ordinul Geodezilor din România în baza Legii nr. 16/2007 privind organizarea și exercitarea profesiei de geodez",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91122",
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91122",
+     "sha256": "1b096c9c7e88537171c09b75c9b6e65084a82fb98faab1d70a585ea1faac0316"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-geodezi-16-2008",
+   "path": "ordin/geodezi/2008/16",
+   "short": "Ordin geodezi nr. 16/2008",
+   "title": "Ordinul nr. 16/2008 pentru aprobarea listei geodezilor cu drept de semnătură autorizați de Ordinul Geodezilor din România în baza Legii nr. 16/2007 privind organizarea și exercitarea profesiei de geodez",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94483",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94483",
+     "sha256": "3e250e96cfaa1e31a2fa361aa1d5b901bd28285d37b7e0bdd4472b4e68341390"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iiccr-1-2008",
+   "path": "ordin/iiccr/2008/1",
+   "short": "Ordin iiccr nr. 1/2008",
+   "title": "Ordinul nr. 1/2008 privind Normele de cheltuieli pentru realizarea programelor Institutului de Investigare a Crimelor Comunismului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96328",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96328",
+     "sha256": "b8b95652288f2ed3da9503e60971f6dfb819a0428579ed66f3f761930820bd29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-100-2008",
+   "path": "ordin/imm/2008/100",
+   "short": "Ordin imm nr. 100/2008",
+   "title": "Ordinul nr. 100/2008 privind implementarea Programului UNCTAD/EMPRETEC - România pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89298",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89298",
+     "sha256": "90056319929e2c3f7a4b2a94d8c89f94ba879bb6be61241f83009466f6ddf94a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1096-2008",
+   "path": "ordin/imm/2008/1096",
+   "short": "Ordin imm nr. 1096/2008",
+   "title": "Ordinul nr. 1.096/2008 pentru aprobarea Normelor metodologice privind acreditarea centrelor naționale de informare și promovare turistică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97450",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97450",
+     "sha256": "8a559f4f9eda38291ea4399353e988f5c78867933ed0dfdcdde48bafc13db384"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-11-2008",
+   "path": "ordin/imm/2008/11",
+   "short": "Ordin imm nr. 11/2008",
+   "title": "Ordinul nr. 11/2008 privind aprobarea nivelului tarifelor percepute în anul 2008 de către Centrul Român pentru Promovarea Comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92404",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92404",
+     "sha256": "0e432b675dfb5285a4c946b627610310d4e989b2a4a7a7916d3f4e27f62f9ba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1137-2008",
+   "path": "ordin/imm/2008/1137",
+   "short": "Ordin imm nr. 1137/2008",
+   "title": "Ordinul nr. 1.137/2008 privind implementarea programelor de susținere a întreprinderilor mici și mijlocii din fonduri de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97537",
+   "versions": [
+    {
+     "from": "2008-09-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97537",
+     "sha256": "eee79dcc27b18e0f207ea1584b24d26b127a8ddd47d21100c15a1a49461de269"
+    }
+   ]
+  },
+  {
    "slug": "ordin-imm-114-2008",
    "path": "ordin/imm/2008/114",
    "short": "Ordin imm nr. 114/2008",
@@ -9119,6 +9539,276 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93276",
      "sha256": "a4da7b05a28593a35caf4d569137d535f8accc8f21b350953d53face800519fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1147-2008",
+   "path": "ordin/imm/2008/1147",
+   "short": "Ordin imm nr. 1147/2008",
+   "title": "Ordinul nr. 1.147/2008 privind modificarea anexei nr. 11 la Procedura de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul ministrului pentru întreprinderi mici și mijlocii, comerț, turism și profesii liberale nr. 724/2008, și înscrierea la programele pentru susținerea finanțării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97539",
+   "versions": [
+    {
+     "from": "2008-09-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97539",
+     "sha256": "cd6c633b1bfc3c4d78f6697fda3f345a2b472d358928155c01bcc332fd3bc700"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1293-2008",
+   "path": "ordin/imm/2008/1293",
+   "short": "Ordin imm nr. 1293/2008",
+   "title": "Ordinul nr. 1.293/2008 pentru aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2011 de înființare și dezvoltare de incubatoare tehnologice și de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97974",
+   "versions": [
+    {
+     "from": "2008-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97974",
+     "sha256": "32b684d7cada12fb5216c036da8ca361b1418a8d2c369245456115f993f5cdfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1345-2008",
+   "path": "ordin/imm/2008/1345",
+   "short": "Ordin imm nr. 1345/2008",
+   "title": "Ordinul nr. 1.345/2008 privind implementarea Programului pentru organizarea Târgului Național Cooperatist TINCOOP 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97976",
+   "versions": [
+    {
+     "from": "2008-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97976",
+     "sha256": "3157f0e74e2f01aab2444b7b2c1463b806c94acf9b7ffc869ea4a2c5e5220738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1346-2008",
+   "path": "ordin/imm/2008/1346",
+   "short": "Ordin imm nr. 1346/2008",
+   "title": "Ordinul nr. 1.346/2008 privind implementarea Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97977",
+   "versions": [
+    {
+     "from": "2008-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97977",
+     "sha256": "101c0fa43e1d07d61f815b3d1ff7e0224cf7a4f9d8a26385489f8f2f7fe309a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1347-2008",
+   "path": "ordin/imm/2008/1347",
+   "short": "Ordin imm nr. 1347/2008",
+   "title": "Ordinul nr. 1.347/2008 privind modificarea procedurilor de implementare a programelor pentru susținerea finanțării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98042",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98042",
+     "sha256": "e4a6cab6167ddebf83f84a7ca92667e4ef6be6e3abd0b56a0e063a37674bef86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1448-2008",
+   "path": "ordin/imm/2008/1448",
+   "short": "Ordin imm nr. 1448/2008",
+   "title": "Ordinul nr. 1.448/2008 privind modificarea și completarea Normelor metodologice privind clasificarea structurilor de primire turistice, aprobate prin Ordinul ministrului pentru întreprinderi mici și mijlocii, comerț, turism și profesii liberale nr. 636/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99636",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99636",
+     "sha256": "8735b3e94a5762643acee9a3c7713519187a56417f1d8ea6b3cd2dcb7c3349d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-351-2008",
+   "path": "ordin/imm/2008/351",
+   "short": "Ordin imm nr. 351/2008",
+   "title": "Ordinul nr. 351/2008 privind unele măsuri de reorganizare a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90804",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90804",
+     "sha256": "db3b65b55f164536fc61debb60999ca1abec15f3bd7ff22c2ece6dd165590164"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-636-2008",
+   "path": "ordin/imm/2008/636",
+   "short": "Ordin imm nr. 636/2008",
+   "title": "Ordinul nr. 636/2008 pentru aprobarea Normelor metodologice privind clasificarea structurilor de primire turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93055",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93055",
+     "sha256": "07fa12b85e1e663e2ea323c6c6540cdb4dbec917f4f31d7fa329ba1860a6ab40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-721-2008",
+   "path": "ordin/imm/2008/721",
+   "short": "Ordin imm nr. 721/2008",
+   "title": "Ordinul nr. 721/2008 pentru aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii - TIMM 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93646",
+   "versions": [
+    {
+     "from": "2008-06-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93646",
+     "sha256": "1fc804c6134195da0d01ce816f192bd4ca5a51c61ba8394380c0547a7de197a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-722-2008",
+   "path": "ordin/imm/2008/722",
+   "short": "Ordin imm nr. 722/2008",
+   "title": "Ordinul nr. 722/2008 privind aprobarea Procedurii de implementare a Programului pentru sprijinirea transferului afacerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93772",
+   "versions": [
+    {
+     "from": "2008-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93772",
+     "sha256": "685cbfa213c4790e398036fc740a430ed90010d9f9096416c31b824473004801"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-723-2008",
+   "path": "ordin/imm/2008/723",
+   "short": "Ordin imm nr. 723/2008",
+   "title": "Ordinul nr. 723/2008 pentru aprobarea Procedurii de implementare a Programului pentru organizarea Târgului Național Cooperatist - TINCOOP 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93647",
+   "versions": [
+    {
+     "from": "2008-06-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93647",
+     "sha256": "cfd81ab0f4dbdc1c0e980e28b04c77cc16577b9ed65b65b52b19c0f9b5bea670"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-724-2008",
+   "path": "ordin/imm/2008/724",
+   "short": "Ordin imm nr. 724/2008",
+   "title": "Ordinul nr. 724/2008 pentru aprobarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93859",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93859",
+     "sha256": "5957a05cadd531f5e235da1c81a6296aed55329f418ec1f3738f932e64b6c90a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-725-2008",
+   "path": "ordin/imm/2008/725",
+   "short": "Ordin imm nr. 725/2008",
+   "title": "Ordinul nr. 725/2008 privind aprobarea Procedurii de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93903",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93903",
+     "sha256": "7250dac739e101ff162c87e7bc9be829ec39e4cfe2c1edbda9c3189cfeb9fabe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-790-2008",
+   "path": "ordin/imm/2008/790",
+   "short": "Ordin imm nr. 790/2008",
+   "title": "Ordinul nr. 790/2008 privind aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2011 pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95315",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95315",
+     "sha256": "dc3f2ccf853c5cf44b6af5fa3a2a6828ae14ce84b76fe991e42136c8a4a3f8e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-793-2008",
+   "path": "ordin/imm/2008/793",
+   "short": "Ordin imm nr. 793/2008",
+   "title": "Ordinul nr. 793/2008 privind aprobarea Procedurii de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95347",
+   "versions": [
+    {
+     "from": "2008-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95347",
+     "sha256": "66e09727d346ccef790e00a6607bd9fb57097c5b9e535b610f123bd0c98a2d55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-928-2008",
+   "path": "ordin/imm/2008/928",
+   "short": "Ordin imm nr. 928/2008",
+   "title": "Ordinul nr. 928/2008 privind înlocuirea unor anexe la procedurile de implementare a programelor pentru susținerea finanțării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96019",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96019",
+     "sha256": "b778020c014335aa9218fafdef8a8a627ef56d4e2d6f535987741d1d2dad0ff8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-281-2008",
+   "path": "ordin/ins/2008/281",
+   "short": "Ordin ins nr. 281/2008",
+   "title": "Ordinul nr. 281/2008 privind stabilirea persoanelor împuternicite să constate contravenții și să aplice sancțiuni pentru contravențiile prevăzute de Ordonanța Guvernului nr. 9/1992 privind organizarea statisticii oficiale și de Legea nr. 422/2006 privind organizarea și funcționarea sistemului statistic de comerț internațional cu bunuri, precum și pentru aprobarea modelului legitimației persoanelor împuternicite, a modelelor proceselor-verbale de constatare și sancționare a contravenției și a modelului înștiințării de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91540",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91540",
+     "sha256": "4fcfe753fd62583f48f265a518aa7d2fc6900e87c819ae5c0a169ac6f1bd5ea3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-684-2008",
+   "path": "ordin/ins/2008/684",
+   "short": "Ordin ins nr. 684/2008",
+   "title": "Ordinul nr. 684/2008 privind Normele de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100259",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100259",
+     "sha256": "f460835dff76027007bf879417e0862f4e770dada5d44b54aa488a7138c8b951"
     }
    ]
   },
@@ -10278,6 +10968,96 @@
    ]
   },
   {
+   "slug": "ordin-isc-1484-2008",
+   "path": "ordin/isc/2008/1484",
+   "short": "Ordin isc nr. 1484/2008",
+   "title": "Ordinul nr. 1.484/2008 pentru modificarea și completarea Ordinului inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 362/2006 privind accesul la informațiile de interes public, la nivelul Inspectoratului de Stat în Construcții - I.S.C.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98088",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98088",
+     "sha256": "0c7e38c6de4a0d80ccfaefef1350a7e03e58da8033b37d08c7c4f457e6048fc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-1485-2008",
+   "path": "ordin/isc/2008/1485",
+   "short": "Ordin isc nr. 1485/2008",
+   "title": "Ordinul nr. 1.485/2008 pentru modificarea Procedurii privind evaluarea laboratoarelor de analiză și încercări în construcții în vederea autorizării, aprobată prin Ordinul inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 705/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97849",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97849",
+     "sha256": "686e968866320fb08994cfa6c9d5488cfbac0c7fc66be91982ae5613d547a338"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-1486-2008",
+   "path": "ordin/isc/2008/1486",
+   "short": "Ordin isc nr. 1486/2008",
+   "title": "Ordinul nr. 1.486/2008 privind modificarea Ordinului inspectorului general de stat al Inspectoratului de Stat în Construcții - I.S.C. nr. 293/2006 pentru aprobarea modelului și conținutului Legitimației de control destinate utilizării în activitatea de control al statului în amenajarea teritoriului, urbanism și autorizarea executării lucrărilor de construcții, precum și cu privire la aplicarea unitară a prevederilor legale în domeniul calității în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97866",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97866",
+     "sha256": "8c4726f1920afe8c82865470459ad5b5247b8015ab47c14a795bf98553270a0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-1488-2008",
+   "path": "ordin/isc/2008/1488",
+   "short": "Ordin isc nr. 1488/2008",
+   "title": "Ordinul nr. 1.488/2008 pentru modificarea Procedurii de autorizare a diriginților de șantier, aprobată prin Ordinul inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 595/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98095",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98095",
+     "sha256": "8c38c5862755ef77f5463309787dbf5788ce5d2106816e0791a08919b23bb629"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-67-2008",
+   "path": "ordin/isc/2008/67",
+   "short": "Ordin isc nr. 67/2008",
+   "title": "Ordinul nr. 67/2008 pentru modificarea Procedurii de autorizare a diriginților de șantier, aprobată prin Ordinul inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 595/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89732",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89732",
+     "sha256": "2cc71affdda6d223b026bddf4b4941ba958c64d8bb53dfec221cb6af272a06ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-280-2008",
+   "path": "ordin/iscir/2008/280",
+   "short": "Ordin iscir nr. 280/2008",
+   "title": "Ordinul nr. 280/2008 privind aprobarea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor utilizat de către inspectorii de specialitate din cadrul Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96238",
+   "versions": [
+    {
+     "from": "2008-08-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96238",
+     "sha256": "b631a689958540bf9c22dffebb55d353ab1f9e56078bd05fee73ce7572b3ecda"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1129-c-2008",
    "path": "ordin/justitie/2008/1129-c",
    "short": "Ordin justitie nr. 1129/C/2008",
@@ -11433,6 +12213,66 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-124-2008",
+   "path": "ordin/metrologie/2008/124",
+   "short": "Ordin metrologie nr. 124/2008",
+   "title": "Ordinul nr. 124/2008 privind aprobarea Normei de metrologie legală NML 052-08 \"Instalații de măsurare a vitezei vehiculelor feroviare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95716",
+   "versions": [
+    {
+     "from": "2008-07-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95716",
+     "sha256": "9ba643d50a8c9c4faf22474d2c5884003ca18925e80af03eb005e7c7c460416d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-125-2008",
+   "path": "ordin/metrologie/2008/125",
+   "short": "Ordin metrologie nr. 125/2008",
+   "title": "Ordinul nr. 125/2008 privind modificarea și completarea Ordinului directorului general al Biroului Român de Metrologie Legală nr. 318/2005 pentru aprobarea Normei de metrologie legală NML 006-05 \"Contoare de energie termică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96027",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96027",
+     "sha256": "8e7a9d9db7c3e649df116bf1bc7b360a29a21e5ec28f48da66cb03cfa7a5ee0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-126-2008",
+   "path": "ordin/metrologie/2008/126",
+   "short": "Ordin metrologie nr. 126/2008",
+   "title": "Ordinul nr. 126/2008 privind aprobarea Normei de metrologie legală NML 074-08 \"Mijloace de măsurare a nivelului de presiune acustică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95801",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95801",
+     "sha256": "873a303e6792802064db409afaf48fc43f22e79825c2493cf57e9b86103ba3ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-127-2008",
+   "path": "ordin/metrologie/2008/127",
+   "short": "Ordin metrologie nr. 127/2008",
+   "title": "Ordinul nr. 127/2008 privind modificarea și completarea Normei de metrologie legală NML 005-05 \"Contoare de energie electrică activă\", aprobată prin Ordinul directorului general al Biroului Român de Metrologie Legală nr. 288/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95803",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95803",
+     "sha256": "24faa0ba3b8dc29c95d4a289b3f065e58e92ed0cefa892eef123f245c8ef3811"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-100-2008",
    "path": "ordin/munca/2008/100",
    "short": "Ordin munca nr. 100/2008",
@@ -12074,6 +12914,171 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99585",
      "sha256": "c01d1546f2046a8329470bfb0811eb54d679f7c99f2d9e4a037440f5e0f9ba28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-13-2008",
+   "path": "ordin/onpcsb/2008/13",
+   "short": "Ordin onpcsb nr. 13/2008",
+   "title": "Ordinul nr. 13/2008 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", precum și a caracteristicilor de tipărire a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90073",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90073",
+     "sha256": "3d96460c8567caeade11ff76956fd51d8beb9b8bbc208feb24ae298523dc963d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-171-2008",
+   "path": "ordin/orniss/2008/171",
+   "short": "Ordin orniss nr. 171/2008",
+   "title": "Ordinul nr. 171/2008 privind modificarea Metodologiei de evaluare și certificare a produselor, profilelor și pachetelor de protecție INFOSEC-INFOSEC 14, aprobată prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 181/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94669",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94669",
+     "sha256": "010561f9f726a2cceee4a5be666f286927e16ba29d57dccf4e872f751d2b9235"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-198-2008",
+   "path": "ordin/orniss/2008/198",
+   "short": "Ordin orniss nr. 198/2008",
+   "title": "Ordinul nr. 198/2008 pentru aprobarea Ghidului INFOSEC tehnic și de implementare privind identificarea și autentificarea în sistemele informatice și de comunicații care vehiculează informații clasificate - DS 11",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97295",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97295",
+     "sha256": "ec311a72a0a4191d15184d22d89edfa24adf302776939661d1fac0c5af07d9b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-199-2008",
+   "path": "ordin/orniss/2008/199",
+   "short": "Ordin orniss nr. 199/2008",
+   "title": "Ordinul nr. 199/2008 pentru aprobarea Politicii de interconectare a sistemelor informatice și de comunicații care vehiculează informații UE clasificate - INFOSEC 8",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97296",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97296",
+     "sha256": "d3a88de68bb49ef158ae67996679e354dd0174ab6383ae5632d4c62bec85035d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-27-2008",
+   "path": "ordin/orniss/2008/27",
+   "short": "Ordin orniss nr. 27/2008",
+   "title": "Ordinul nr. 27/2008 privind modificarea Cerințelor minime pentru containerele destinate protecției informațiilor clasificate, pentru mecanismele de închidere, sistemele cu cifru și încuietorile acestora, aprobate prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 443/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90678",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90678",
+     "sha256": "7fd3826b17761c2e6b2e6c9f73911caeb0251a0788a916c2a050768f3aa1028d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-28-2008",
+   "path": "ordin/orniss/2008/28",
+   "short": "Ordin orniss nr. 28/2008",
+   "title": "Ordinul nr. 28/2008 privind modificarea Procedurii de acreditare, desființare sau reacreditare a componentelor Sistemului național de registre, aprobată prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 192/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90679",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90679",
+     "sha256": "69ec395a9ea0cac0ca18df8f636c6adadbbea399920adbb1a64d023b91c2236d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-33-2008",
+   "path": "ordin/orniss/2008/33",
+   "short": "Ordin orniss nr. 33/2008",
+   "title": "Ordinul nr. 33/2008 pentru aprobarea Instrucțiunilor de implementare a măsurilor de protecție a informațiilor clasificate NATO ATOMAL",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91013",
+   "versions": [
+    {
+     "from": "2008-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91013",
+     "sha256": "29b630c08993ea674ecc2dcde7ef51aab9ad8770d08443b671d4d826f81d6250"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-358-2008",
+   "path": "ordin/orniss/2008/358",
+   "short": "Ordin orniss nr. 358/2008",
+   "title": "Ordinul nr. 358/2008 pentru aprobarea Directivei privind selectarea și instalarea echipamentelor și sistemelor care vehiculează informații clasificate în format electronic - INFOSEC 6, versiunea 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100619",
+   "versions": [
+    {
+     "from": "2008-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100619",
+     "sha256": "636b7781f3adbcdd8c64acbeec43a1dd18284c87530275c8ce25a5dfec16a118"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-osim-112-2008",
+   "path": "ordin/osim/2008/112",
+   "short": "Ordin osim nr. 112/2008",
+   "title": "Ordinul nr. 112/2008 pentru aprobarea Instrucțiunilor privind depunerea cererilor de brevet de invenție prin mijloace electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100679",
+   "versions": [
+    {
+     "from": "2009-03-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100679",
+     "sha256": "47a69ff218bbf20c9f2c6713abbbcedd16f5c43b632f4afc7df0feaed552e248"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-osim-63-2008",
+   "path": "ordin/osim/2008/63",
+   "short": "Ordin osim nr. 63/2008",
+   "title": "Ordinul nr. 63/2008 pentru aprobarea Instrucțiunilor privind instituirea serviciului Plicul cu idei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95587",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95587",
+     "sha256": "072b1d56eb5c556f94c38fad6acc670064253193e8e99d1541f291819e0a86ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-373-2008",
+   "path": "ordin/parchet/2008/373",
+   "short": "Ordin parchet nr. 373/2008",
+   "title": "Ordinul nr. 373/2008 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea funcției publice de manager economic și a celorlalte posturi vacante de funcționari publici și personal contractual din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101792",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101792",
+     "sha256": "9b1eaf16321ac182bc98d6fcf59a0f07d9be5f93c55fbe77a9c774ee5bc2c2c1"
     }
    ]
   },
@@ -13814,6 +14819,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93169",
      "sha256": "16071d4abaa2878615a56397ae6b72baca71f71ac615e3d1edd7b66b1f57ec6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-233-2008",
+   "path": "ordin/sport/2008/233",
+   "short": "Ordin sport nr. 233/2008",
+   "title": "Ordinul nr. 233/2008 privind aprobarea acordării Premiului național pentru sport pentru rezultate de excepție în anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93921",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93921",
+     "sha256": "7748a9ae05421141e16ce07005552677390555bc9898ef880a0d7fad03ac6b71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-269-2008",
+   "path": "ordin/sport/2008/269",
+   "short": "Ordin sport nr. 269/2008",
+   "title": "Ordinul nr. 269/2008 privind obligațiile aflate în sarcina organizatorului de competiții sau jocuri sportive desfășurate în eșaloanele inferioare, precum și pentru sporturile la care participă un număr redus de spectatori și care de regulă nu sunt generatoare de violență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94917",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94917",
+     "sha256": "78d4ccfc0633f36d86d33c9fa3ae340f163ad187b97d50b5c4dc0d95a9316a3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-71-2008",
+   "path": "ordin/sts/2008/71",
+   "short": "Ordin sts nr. 71/2008",
+   "title": "Ordinul nr. 71/2008 pentru aprobarea Instrucțiunilor de aplicare a Regulamentului privind organizarea și desfășurarea procedurilor pentru valorificarea bunurilor aflate în administrarea Serviciului de Telecomunicații Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100900",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100900",
+     "sha256": "38c779642af0f1cb3ffc76f805c397e1971822ac41826f09a3a6c8dc32155aa1"
     }
    ]
   },

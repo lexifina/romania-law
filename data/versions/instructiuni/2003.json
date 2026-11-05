@@ -3,6 +3,21 @@
  "shard": "instructiuni/2003",
  "acts": [
   {
+   "slug": "instructiuni-anofm-1008-2003",
+   "path": "instructiuni/anofm/2003/1008",
+   "short": "Instrucțiuni anofm nr. 1008/2003",
+   "title": "Instrucțiunile nr. 1.008/2003 privind aplicarea art. 43 alin. (2) din Ordonanța de urgență a Guvernului nr. 102/1999 privind protecția specială și încadrarea în munca a persoanelor cu handicap, aprobată cu modificări și completări prin Legea nr. 519/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43967",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43967",
+     "sha256": "9b88f040cda3e71e94a7ce45612fa03e602613ea4a2e0183e8104cc8b62aba25"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-1-2003",
    "path": "instructiuni/cnvm/2003/1",
    "short": "Instrucțiuni cnvm nr. 1/2003",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "instructiuni-dizabilitati-220-2003",
+   "path": "instructiuni/dizabilitati/2003/220",
+   "short": "Instrucțiuni dizabilitati nr. 220/2003",
+   "title": "Instrucțiunile nr. 220/2003 privind aplicarea art. 43 alin. (2) din Ordonanța de urgență a Guvernului nr. 102/1999 privind protecția specială și încadrarea în munca a persoanelor cu handicap, aprobată cu modificări și completări prin Legea nr. 519/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43986",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43986",
+     "sha256": "931ea695a36e2e5dc1b888a45d255912625450d3fe62b9dd5befb016e04e4a3a"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-interne-507-2003",
    "path": "instructiuni/interne/2003/507",
    "short": "Instrucțiuni interne nr. 507/2003",
@@ -104,6 +134,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47476",
      "sha256": "be5e6307ed58c45560e69ac6e092d6557b70af517bc65b61ff008485f6c8654b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-revolutionari-1113-2003",
+   "path": "instructiuni/revolutionari/2003/1113",
+   "short": "Instrucțiuni revolutionari nr. 1113/2003",
+   "title": "Instrucțiunile nr. 1.113/2003 privind trimiterea în tabere de odihnă a copiilor persoanelor prevăzute de Legea nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42831",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42831",
+     "sha256": "b87743304520b6b3cb216c6d7fff1dbd56691163d325b8744091fd3ff1ff8e3f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-revolutionari-2451-2003",
+   "path": "instructiuni/revolutionari/2003/2451",
+   "short": "Instrucțiuni revolutionari nr. 2451/2003",
+   "title": "Instrucțiunile nr. 2.451/2003 privind acordarea de materiale sanitare și dispozitive medicale persoanelor prevăzute de Legea nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989, invalizi gradul I și mari mutilați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43482",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43482",
+     "sha256": "97ede461bff75457e4ce982f0eca167584ec02f45bdc44eb864f7bb0d2494d0d"
     }
    ]
   },

@@ -229,6 +229,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304638",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-1-2025",
+"path": "regulament/fgdb/2025/1",
+"kind": "regulament",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2025 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+"short": "Regulament fgdb nr. 1/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298151",
+"issuer": "fgdb",
+"joint": []
+},
+{
+"slug": "regulament-fgdb-2-2025",
+"path": "regulament/fgdb/2025/2",
+"kind": "regulament",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2/2025 pentru modificarea anexei nr. 2 la Regulamentul Fondului de garantare a depozitelor bancare nr. 1/2024 privind selectarea instituțiilor de credit mandatate de Fondul de garantare a depozitelor bancare pentru efectuarea plăților de compensații",
+"short": "Regulament fgdb nr. 2/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303716",
+"issuer": "fgdb",
+"joint": []
 }
 ]
 }

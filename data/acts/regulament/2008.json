@@ -362,6 +362,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96816",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-inaltifunctionari-1-2008",
+"path": "regulament/inaltifunctionari/2008/1",
+"kind": "regulament",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2008 privind organizarea și desfășurarea concursului pentru intrarea în categoria înalților funcționari publici",
+"short": "Regulament inaltifunctionari nr. 1/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-06-02",
+"latest": "2008-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93585",
+"issuer": "inaltifunctionari",
+"joint": []
 }
 ]
 }

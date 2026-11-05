@@ -3,6 +3,36 @@
  "shard": "instructiuni/2021",
  "acts": [
   {
+   "slug": "instructiuni-aep-1-2021",
+   "path": "instructiuni/aep/2021/1",
+   "short": "Instrucțiuni aep nr. 1/2021",
+   "title": "Instrucțiunile nr. 1/2021 privind unele măsuri pentru organizarea alegerilor locale parțiale din data de 27 iunie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243005",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243005",
+     "sha256": "3f5f113e591f6d2af09b050f5adb145d3cdc6755b9a4b73c85ce6f5a12f50310"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-2-2021",
+   "path": "instructiuni/aep/2021/2",
+   "short": "Instrucțiuni aep nr. 2/2021",
+   "title": "Instrucțiunile nr. 2/2021 privind acreditarea observatorilor, a delegaților mass-mediei străini și a delegaților formațiunilor politice la alegerile locale parțiale din data de 27 iunie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243290",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243290",
+     "sha256": "0ad77458a4344590faa6faa8978d1a4be693172a44cb5d81be8dd96bf67f81b3"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-interne-164-2021",
    "path": "instructiuni/interne/2021/164",
    "short": "Instrucțiuni interne nr. 164/2021",

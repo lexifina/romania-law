@@ -121,6 +121,21 @@
      "sha256": "fde09eb8b0c47bb7309d5ab624c68cd27ce5384b4d6ca5d087298c06e8d6cd8b"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-osim-108-2002",
+   "path": "instructiuni/osim/2002/108",
+   "short": "Instrucțiuni osim nr. 108/2002",
+   "title": "Instrucțiunile nr. 108/2002 de aplicare a Ordonanței Guvernului nr. 66/2000 privind organizarea și exercitarea profesiei de consilier în proprietate industriala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39892",
+   "versions": [
+    {
+     "from": "2002-11-15",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39892",
+     "sha256": "681d35fcc8d268cd2ad4c1582d9a4ec1f12ea019a53c600c00c7b62686995343"
+    }
+   ]
   }
  ]
 }

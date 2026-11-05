@@ -256,6 +256,36 @@
      "sha256": "4e278fcf9245ca9286a1e795cc1316f495a58fb5fe292f7c14ae1ea5ac55cc5e"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2017",
+   "path": "regulament/fgdb/2017/1",
+   "short": "Regulament fgdb nr. 1/2017",
+   "title": "Regulamentul nr. 1/2017 pentru modificarea și completarea Regulamentului nr. 2/2016 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187004",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187004",
+     "sha256": "f5a28f9214e977437a26e48acadba5c981fa58a9546f241d10eff5f01a26367e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-macroprudential-2-2017",
+   "path": "regulament/macroprudential/2017/2",
+   "short": "Regulament macroprudential nr. 2/2017",
+   "title": "Regulamentul nr. 2/2017 privind metodologia și procedura utilizate pentru stabilirea amortizoarelor de capital și sfera de aplicare a acestor instrumente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196404",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196404",
+     "sha256": "77a189424bd62cfe0c7f8d1acab81ade709df28a2ef9674442ffd81c4bcc7037"
+    }
+   ]
   }
  ]
 }

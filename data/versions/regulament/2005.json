@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "regulament-fgdb-1-2005",
+   "path": "regulament/fgdb/2005/1",
+   "short": "Regulament fgdb nr. 1/2005",
+   "title": "Regulamentul nr. 1/2005 pentru modificarea și completarea Statutului Fondului de garantare a depozitelor în sistemul bancar și a unor reglementări emise de acesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68748",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68748",
+     "sha256": "a5dfe499c7646fdd91941faed3df84e68a0ffe6bfd917a637f6a878d28d402d3"
+    }
+   ]
+  },
+  {
    "slug": "regulament-transporturi-5-2005",
    "path": "regulament/transporturi/2005/5",
    "short": "Regulament transporturi nr. 5/2005",

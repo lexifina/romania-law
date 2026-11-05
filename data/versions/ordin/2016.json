@@ -3,6 +3,21 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-achizitii-842-2016",
+   "path": "ordin/achizitii/2016/842",
+   "short": "Ordin achizitii nr. 842/2016",
+   "title": "Ordinul nr. 842/2016 privind aprobarea metodologiei de calcul al ratei de actualizare ce va fi utilizată la atribuirea contractelor de achiziție publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184860",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184860",
+     "sha256": "538c76457de58446aae32216111e0d46f9ad38e61c58bbae8304a84448b43cf1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1000-2016",
    "path": "ordin/agricultura/2016/1000",
    "short": "Ordin agricultura nr. 1000/2016",
@@ -3783,6 +3798,36 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1423-2016",
+   "path": "ordin/anfp/2016/1423",
+   "short": "Ordin anfp nr. 1423/2016",
+   "title": "Ordinul nr. 1.423/2016 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179046",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179046",
+     "sha256": "b9dbfc431fd1f4df2bc638bb31b4792f9fe7a86b213f571167fe126c24758ba0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-964-2016",
+   "path": "ordin/anfp/2016/964",
+   "short": "Ordin anfp nr. 964/2016",
+   "title": "Ordinul nr. 964/2016 privind aprobarea numărului comisiilor de concurs și al comisiilor de soluționare a contestațiilor, componenței nominale a acestora, tematicii pentru concurs, calendarului de desfășurare a concursului și a modalităților pentru plata taxei de participare la concursul național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177600",
+   "versions": [
+    {
+     "from": "2016-04-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177600",
+     "sha256": "b64a8ccaaf6880ca011a7e9a84d62fc0cfaef4c9b4fce8bf1eb7359de8ab7d6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-152-2016",
    "path": "ordin/anmcs/2016/152",
    "short": "Ordin anmcs nr. 152/2016",
@@ -5418,6 +5463,66 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-151-2016",
+   "path": "ordin/antidoping/2016/151",
+   "short": "Ordin antidoping nr. 151/2016",
+   "title": "Ordinul nr. 151/2016 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările anti-doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178970",
+   "versions": [
+    {
+     "from": "2016-06-03",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178970",
+     "sha256": "bf7c2ada5c3bb6494e9fe28b68d4f7be4d37a0e7502c732c4cc0abfd07e8d038"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-212-2016",
+   "path": "ordin/antidoping/2016/212",
+   "short": "Ordin antidoping nr. 212/2016",
+   "title": "Ordinul nr. 212/2016 privind completarea anexei la Ordinul președintelui Agenției Naționale Anti-Doping nr. 49/2015 pentru aprobarea cuantumului taxelor de prelevare și analizare a probelor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181170",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181170",
+     "sha256": "11af0e5ac55be0403a24a4961902ac5e8d0321e98b808a3a3595e20992d74c54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-265-2016",
+   "path": "ordin/antidoping/2016/265",
+   "short": "Ordin antidoping nr. 265/2016",
+   "title": "Ordinul nr. 265/2016 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182766",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182766",
+     "sha256": "bdf62cc0bd8a77303f6c6f07f78f56d21a2b06a54cec38ccf0d802a3b3e8b1d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-278-2016",
+   "path": "ordin/antidoping/2016/278",
+   "short": "Ordin antidoping nr. 278/2016",
+   "title": "Ordinul nr. 278/2016 privind aprobarea Listei interzise pentru anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182912",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182912",
+     "sha256": "f936eff95b27548d94ac2d08d2813cbbe2361d2aa6c856d5d8e26a2edafc4359"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-101-2016",
    "path": "ordin/aparare/2016/101",
    "short": "Ordin aparare nr. 101/2016",
@@ -6303,6 +6408,21 @@
    ]
   },
   {
+   "slug": "ordin-cncan-137-2016",
+   "path": "ordin/cncan/2016/137",
+   "short": "Ordin cncan nr. 137/2016",
+   "title": "Ordinul nr. 137/2016 privind aprobarea Listei cuprinzând organismele de dozimetrie individuală acreditate, desemnate de Comisia Națională pentru Controlul Activităților Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180940",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180940",
+     "sha256": "291be22de1f2741a183993b59f1981039bc68dffd64c7bf7e6759b2a3e85e669"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-282-2016",
    "path": "ordin/comunicatii/2016/282",
    "short": "Ordin comunicatii nr. 282/2016",
@@ -6370,8 +6490,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/185544",
    "versions": [
     {
-     "from": "2017-01-09",
-     "units": 8,
+     "from": "2017-02-01",
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185544",
      "sha256": "84f0cb7a6546374afdba5bdf7b31788b6cee8174febc395479fd525563dba6e0"
     }
@@ -6569,6 +6689,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184612",
      "sha256": "a9c1073481c05c784a0404af586878003359e50253a47e06f804eaeec8da9590"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-curteadeconturi-285-2016",
+   "path": "ordin/curteadeconturi/2016/285",
+   "short": "Ordin curteadeconturi nr. 285/2016",
+   "title": "Ordinul nr. 285/2016 privind aprobarea Normelor cu privire la stabilirea pensiei de serviciu conform prevederilor Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, astfel cum a fost modificată și completată prin Legea nr. 7/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177624",
+   "versions": [
+    {
+     "from": "2016-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177624",
+     "sha256": "7d9ca00cbc4079eb846ae5ddec2ccfdc791c4578b0cfbd0d61f2c3da880d1c1c"
     }
    ]
   },
@@ -10623,6 +10758,66 @@
    ]
   },
   {
+   "slug": "ordin-ins-1302-2016",
+   "path": "ordin/ins/2016/1302",
+   "short": "Ordin ins nr. 1302/2016",
+   "title": "Ordinul nr. 1.302/2016 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184626",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184626",
+     "sha256": "127fed49d840292e365705b0175f746c08ee270c3d5d85b4c45aa0498ea6288a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1475-2016",
+   "path": "ordin/ins/2016/1475",
+   "short": "Ordin ins nr. 1475/2016",
+   "title": "Ordinul nr. 1.475/2016 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185586",
+   "versions": [
+    {
+     "from": "2017-01-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185586",
+     "sha256": "840d46c77344da219053a31b42339ef76231d1b1569830596e5fec8cea013fa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-12343-2016",
+   "path": "ordin/integritate/2016/12343",
+   "short": "Ordin integritate nr. 12343/2016",
+   "title": "Ordinul nr. 12.343/2016 privind modificarea și completarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate, aprobat prin Ordinul președintelui Agenției Naționale de Integritate nr. 7.962/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181097",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181097",
+     "sha256": "00ca355c21b53efcdbabf148cf10800cd277c1ca78b4a94b720b0ccc3f271eb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-7962-2016",
+   "path": "ordin/integritate/2016/7962",
+   "short": "Ordin integritate nr. 7962/2016",
+   "title": "Ordinul nr. 7.962/2016 privind aprobarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179033",
+   "versions": [
+    {
+     "from": "2016-06-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179033",
+     "sha256": "b202923e40a152fd85205f781fa06c58be9af1f1e83d6105df50f044ef273730"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-10-2016",
    "path": "ordin/interne/2016/10",
    "short": "Ordin interne nr. 10/2016",
@@ -11508,6 +11703,21 @@
    ]
   },
   {
+   "slug": "ordin-isc-261-2016",
+   "path": "ordin/isc/2016/261",
+   "short": "Ordin isc nr. 261/2016",
+   "title": "Ordinul nr. 261/2016 privind accesul la informațiile de interes public la nivelul Inspectoratului de Stat în Construcții - I.S.C.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178242",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178242",
+     "sha256": "30aeed1d843d654f10da259a007cd17a9d2a8f03cbf0c246503b6b1b7b8e24b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1132-2016",
    "path": "ordin/justitie/2016/1132",
    "short": "Ordin justitie nr. 1132/2016",
@@ -12014,6 +12224,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177158",
      "sha256": "0a8d14e4346279f65802d7bc562b83e355b00bd873e9e81a8c1c40348de4ee0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-luptatori-73-2016",
+   "path": "ordin/luptatori/2016/73",
+   "short": "Ordin luptatori nr. 73/2016",
+   "title": "Ordinul nr. 73/2016 privind aprobarea Protocolului încheiat între Secretariatul de stat pentru recunoașterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989 și Ministerul Tineretului și Sportului privind trimiterea în tabere de odihnă a copiilor ai căror părinți dețin certificate doveditoare ale calității de revoluționar eliberate în temeiul Legii recunoștinței pentru victoria Revoluției Române din Decembrie 1989 și pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181125",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181125",
+     "sha256": "9623ff503afe0458fa489f9fd298d13771608d458220bf77ab3147fd4bf455b8"
     }
    ]
   },
@@ -16023,6 +16248,156 @@
    ]
   },
   {
+   "slug": "ordin-onjn-134-2016",
+   "path": "ordin/onjn/2016/134",
+   "short": "Ordin onjn nr. 134/2016",
+   "title": "Ordinul nr. 134/2016 pentru modificarea Ordinului președintelui Oficiului Național pentru Jocuri de Noroc nr. 47/2016 privind aprobarea conținutului, rapoartelor și a accesului la informații transmise de către organizatorii de jocuri de noroc la distanță, definite la art. 10 alin. (1) lit. h)-n) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, către Oficiul Național pentru Jocuri de Noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179208",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179208",
+     "sha256": "9328e91379329744caa9a6c16c2cfd65ecabed4f0fdef115413ede764c13e216"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-135-2016",
+   "path": "ordin/onjn/2016/135",
+   "short": "Ordin onjn nr. 135/2016",
+   "title": "Ordinul nr. 135/2016 privind aprobarea Normelor generale de întocmire și utilizare a registrelor și formularelor obligatorii specifice în domeniul jocurilor de noroc, a Normelor specifice de completare și utilizare a registrelor și formularelor obligatorii specifice în domeniul jocurilor de noroc, precum și a modelelor acestora, pe tipuri de jocuri de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179519",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179519",
+     "sha256": "911f75b89d1e8344d78f310049db8cce4cd0bfb601f9b4d09205e797269611cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-310-2016",
+   "path": "ordin/onjn/2016/310",
+   "short": "Ordin onjn nr. 310/2016",
+   "title": "Ordinul nr. 310/2016 pentru modificarea Ordinului președintelui Oficiului Național pentru Jocuri de Noroc nr. 141/2013 privind aprobarea modelelor utilizate de personalul din cadrul Oficiului Național pentru Jocuri de Noroc pentru legitimația de serviciu, insignă, ordinul de serviciu permanent, procesul-verbal, procesul-verbal de constatare și sancționare a contravențiilor și chitanțier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181041",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181041",
+     "sha256": "7dacaf9e9214f8eef828baed691ccb29c0714289e80fda05bec224019478e8d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-335-2016",
+   "path": "ordin/onjn/2016/335",
+   "short": "Ordin onjn nr. 335/2016",
+   "title": "Ordinul nr. 335/2016 privind modificarea și completarea Ordinului președintelui Oficiului Național pentru Jocuri de Noroc nr. 141/2013 privind aprobarea modelelor utilizate de personalul din cadrul Oficiului Național pentru Jocuri de Noroc pentru legitimația de serviciu, insignă, ordinul de serviciu permanent, procesul-verbal, procesul-verbal de constatare și sancționare a contravențiilor și chitanțier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181727",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181727",
+     "sha256": "fde0a8c75915277745abc2bfedb68ced6bcc840bbff96e0621a2752bf7b7df10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-47-2016",
+   "path": "ordin/onjn/2016/47",
+   "short": "Ordin onjn nr. 47/2016",
+   "title": "Ordinul nr. 47/2016 privind aprobarea conținutului, rapoartelor și a accesului la informații transmise de către organizatorii de jocuri de noroc la distanță, definite la art. 10 alin. (1) lit. h)-n) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, către Oficiul Național pentru Jocuri de Noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177043",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177043",
+     "sha256": "a3ea873571a09609a6f2c539e31cf346fca22db2c21e67be5fa3c621c4fce29f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-48-2016",
+   "path": "ordin/onjn/2016/48",
+   "short": "Ordin onjn nr. 48/2016",
+   "title": "Ordinul nr. 48/2016 privind aprobarea Procedurii pentru îndeplinirea condițiilor de conectare a jocurilor de noroc de tip slot machine și pariuri joc tradițional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177017",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177017",
+     "sha256": "9ca2135952bbc18bf696c10a552c019d6f8f69b3e479d41f63c0d26685d55184"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-20-2016",
+   "path": "ordin/onpcsb/2016/20",
+   "short": "Ordin onpcsb nr. 20/2016",
+   "title": "Ordinul nr. 20/2016 pentru abrogarea Ordinului președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 81/2015 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor transferuri de fonduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175812",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175812",
+     "sha256": "58470cf635da4c70be5b6a4f15036eb9b1539576f04d8ff1e68c50b1da0fd424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-10-2016",
+   "path": "ordin/orniss/2016/10",
+   "short": "Ordin orniss nr. 10/2016",
+   "title": "Ordinul nr. 10/2016 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175305",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175305",
+     "sha256": "fe0daf3adaea01c0880161627ef5e9753b466e1e1818bf576730475093a0bc3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-151-2016",
+   "path": "ordin/orniss/2016/151",
+   "short": "Ordin orniss nr. 151/2016",
+   "title": "Ordinul nr. 151/2016 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183019",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183019",
+     "sha256": "2798a0de888b90ee06bfd75573288c4740b2b89d9aa01ce1c43b14a7fe6e0d2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-52-2016",
+   "path": "ordin/orniss/2016/52",
+   "short": "Ordin orniss nr. 52/2016",
+   "title": "Ordinul nr. 52/2016 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180109",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180109",
+     "sha256": "86d6bdc6ef85e97b8ba8417018fcdf37e74c9489d40ba0931638334dac44ca3d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1008-2016",
    "path": "ordin/sanatate/2016/1008",
    "short": "Ordin sanatate nr. 1008/2016",
@@ -17508,6 +17883,246 @@
    ]
   },
   {
+   "slug": "ordin-sie-250-2016",
+   "path": "ordin/sie/2016/250",
+   "short": "Ordin sie nr. 250/2016",
+   "title": "Ordinul nr. 250/2016 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184009",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184009",
+     "sha256": "b85530a5ebdb535062ab7555122733b9ec9b362e2579ad22dc1abf4f8eee53af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-251-2016",
+   "path": "ordin/sie/2016/251",
+   "short": "Ordin sie nr. 251/2016",
+   "title": "Ordinul nr. 251/2016 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184098",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184098",
+     "sha256": "db743b06f611677a1aa525b51845da57f3ae5c3ab9df5687ae161ab03eff3b3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-247-2016",
+   "path": "ordin/sport/2016/247",
+   "short": "Ordin sport nr. 247/2016",
+   "title": "Ordinul nr. 247/2016 privind acordarea \"Premiului național pentru sport\", pentru rezultate de excepție obținute de Andreea Chițu și Cristina Neagu în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176617",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176617",
+     "sha256": "ed2f6830ba882bf25524bafe6254b6850030e260ff6e2219364b3a9beb012e51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-373-2016",
+   "path": "ordin/sport/2016/373",
+   "short": "Ordin sport nr. 373/2016",
+   "title": "Ordinul nr. 373/2016 pentru aprobarea metodologiei de finanțare a proiectelor de tineret și studențești proprii și proprii în parteneriat ale Ministerului Tineretului și Sportului și ale direcțiilor județene pentru sport și tineret, respectiv a municipiului București, pentru programele în domeniul tineretului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177649",
+   "versions": [
+    {
+     "from": "2016-04-18",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177649",
+     "sha256": "c2f5556ff37aa7dd6ef618a8cba10f2bd197f42cb01885b6869550ae8292a969"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-417-2016",
+   "path": "ordin/sport/2016/417",
+   "short": "Ordin sport nr. 417/2016",
+   "title": "Ordinul nr. 417/2016 privind aprobarea Metodologiei pentru Concursul național/local de proiecte de tineret, respectiv pentru Concursul național de proiecte studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178271",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178271",
+     "sha256": "dd226142da0bc7d0be901e2b2fcc3bac8e36859481cfb76ec8da727ae67297ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-440-2016",
+   "path": "ordin/sport/2016/440",
+   "short": "Ordin sport nr. 440/2016",
+   "title": "Ordinul nr. 440/2016 pentru aprobarea Normelor metodologice privind acreditarea persoanelor juridice și persoanelor fizice autorizate în vederea colaborării privind desfășurarea de activități de tabără pentru Programul național \"Tabere studențești 2016\" și alte activități privind segmentul studențesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178789",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178789",
+     "sha256": "0b219ad9a0df13c80d0cf76bdc68e05f1ae033e13172dd36bbca18990dbaa1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-468-2016",
+   "path": "ordin/sport/2016/468",
+   "short": "Ordin sport nr. 468/2016",
+   "title": "Ordinul nr. 468/2016 privind aprobarea Normelor metodologice pentru organizarea și desfășurarea activităților de tabără de odihnă în centrele de agrement/bazele turistice proprii Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178909",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178909",
+     "sha256": "47d78a1478b28672ea7868e663e78c01ebd63473f9cd2dad55ec454e95a9e08f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-473-2016",
+   "path": "ordin/sport/2016/473",
+   "short": "Ordin sport nr. 473/2016",
+   "title": "Ordinul nr. 473/2016 pentru aprobarea Procedurii de finanțare a activităților de promovare și reprezentare prin sport, prevăzute în Hotărârea Guvernului nr. 311/2003 privind aprobarea înființării pe lângă Ministerul Tineretului și Sportului a unei activități finanțate integral din venituri proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179298",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179298",
+     "sha256": "3b54827227da614a9e70bb874596466e7de9fd576cb582c5a9d55ddded6b661e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-563-2016",
+   "path": "ordin/sport/2016/563",
+   "short": "Ordin sport nr. 563/2016",
+   "title": "Ordinul nr. 563/2016 privind recunoașterea oficială a practicării în România a ramurii de sport \"SKANDENBERG - ARMWRESTLING\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181059",
+   "versions": [
+    {
+     "from": "2016-08-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181059",
+     "sha256": "4fc395c7352e7878f048aa69b98eb92fdb3d21b144de0bae71fe2e85d88dcaef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-7-2016",
+   "path": "ordin/sport/2016/7",
+   "short": "Ordin sport nr. 7/2016",
+   "title": "Ordinul nr. 7/2016 privind aprobarea Metodologiei de alocare a fondurilor pentru activitatea sportivă de excelență a federațiilor sportive naționale pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174857",
+   "versions": [
+    {
+     "from": "2016-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174857",
+     "sha256": "c10cdcb2eb1df7af8e1d6fe886d954ced4d62d0ad6eb6e1edafc673c92735299"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-41-2016",
+   "path": "ordin/spp/2016/41",
+   "short": "Ordin spp nr. 41/2016",
+   "title": "Ordinul nr. 41/2016 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182711",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182711",
+     "sha256": "7ab9fcc06cd64d033e321a7ea22d027b2d3cde1833f78dc4e8d49a62e4cab469"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-42-2016",
+   "path": "ordin/spp/2016/42",
+   "short": "Ordin spp nr. 42/2016",
+   "title": "Ordinul nr. 42/2016 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182715",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182715",
+     "sha256": "60aa405f7e4cd032c768850c3a6cf8903ce55a9501bc74f9099b97647edbe6e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1100-2016",
+   "path": "ordin/sri/2016/1100",
+   "short": "Ordin sri nr. 1100/2016",
+   "title": "Ordinul nr. 1.100/2016 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183882",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183882",
+     "sha256": "56b4b57bef10b37d85f55f86efdcc9ec53dfc12b9a4530426b36a90485da6465"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1101-2016",
+   "path": "ordin/sri/2016/1101",
+   "short": "Ordin sri nr. 1101/2016",
+   "title": "Ordinul nr. 1.101/2016 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183900",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183900",
+     "sha256": "deff8ef46a955a615f7a871820216d0f6b65bcbcd999506c85734de0751d4869"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-33-2016",
+   "path": "ordin/sts/2016/33",
+   "short": "Ordin sts nr. 33/2016",
+   "title": "Ordinul nr. 33/2016 pentru aprobarea Procedurii operaționale privind eliberarea avizului de principiu referitor la stabilirea amplasamentelor stațiilor de bază pentru servicii de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186347",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186347",
+     "sha256": "dc81c809511145f42d4ffa36861ce8b0944ca392a8bd5947a95828d40bb786d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-777-2016",
+   "path": "ordin/sts/2016/777",
+   "short": "Ordin sts nr. 777/2016",
+   "title": "Ordinul nr. 777/2016 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183706",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183706",
+     "sha256": "125939c4d2bb0acd67f20b80ec01152560d8fccf00da0bc2c490ee57b155e5df"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1088-2016",
    "path": "ordin/transporturi/2016/1088",
    "short": "Ordin transporturi nr. 1088/2016",
@@ -18269,6 +18884,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181599",
      "sha256": "ac27b64e31b57833b71c9b3ed19a78943fff05eea8e4e7014340a3d78982976c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-199-2016",
+   "path": "ordin/turism/2016/199",
+   "short": "Ordin turism nr. 199/2016",
+   "title": "Ordinul nr. 199/2016 privind procedura emiterii avizului prealabil de funcționare pentru structurile de primire turistice cu funcțiuni de agrement din stațiunile turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179398",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179398",
+     "sha256": "342ae850dc3f4539d7fc16a73ecc979e17688aa54dac96143c20203d921e8565"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-415-2016",
+   "path": "ordin/turism/2016/415",
+   "short": "Ordin turism nr. 415/2016",
+   "title": "Ordinul nr. 415/2016 pentru modificarea și completarea Normelor metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181676",
+   "versions": [
+    {
+     "from": "2016-09-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181676",
+     "sha256": "34ec57338e09e93759dd062759c5e8a46918e698c153ab629d8641159e5f6983"
     }
    ]
   }

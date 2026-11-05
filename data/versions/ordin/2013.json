@@ -3,6 +3,36 @@
  "shard": "ordin/2013",
  "acts": [
   {
+   "slug": "ordin-achizitii-129-2013",
+   "path": "ordin/achizitii/2013/129",
+   "short": "Ordin achizitii nr. 129/2013",
+   "title": "Ordinul nr. 129/2013 pentru aprobarea modelului de documentație de atribuire standard privind încheierea acordului-cadru pentru servicii de transport aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149845",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149845",
+     "sha256": "08851d087a5a51ae41e37cccd15619797ddde4a30df9cc748c237a7888e488fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-adoptii-631-2013",
+   "path": "ordin/adoptii/2013/631",
+   "short": "Ordin adoptii nr. 631/2013",
+   "title": "Ordinul nr. 631/2013 privind documentele care se anexează cererii de evaluare în vederea eliberării unui nou atestat de persoană sau familie aptă să adopte, ca urmare a expirării atestatului anterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144926",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144926",
+     "sha256": "cc7c8cc524aa6733b5d75a564f24d583c010565049e7239fca6d9434f77e9501"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1002-2013",
    "path": "ordin/agricultura/2013/1002",
    "short": "Ordin agricultura nr. 1002/2013",
@@ -2103,6 +2133,126 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1200-2013",
+   "path": "ordin/anfp/2013/1200",
+   "short": "Ordin anfp nr. 1200/2013",
+   "title": "Ordinul nr. 1.200/2013 privind monitorizarea respectării normelor de conduită de către funcționarii publici și a implementării procedurilor disciplinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146905",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 92,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146905",
+     "sha256": "851893d2d61dfc899875844177515c1a0b5fe102d30c3ef4d24e80fa9959f777"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-1306-2013",
+   "path": "ordin/anfp/2013/1306",
+   "short": "Ordin anfp nr. 1306/2013",
+   "title": "Ordinul nr. 1.306/2013 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147177",
+   "versions": [
+    {
+     "from": "2013-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147177",
+     "sha256": "df99cca957e9c23327663b8839a7d9d9764c84356abf5faa8f1e5e00cd58528c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-1596-2013",
+   "path": "ordin/anfp/2013/1596",
+   "short": "Ordin anfp nr. 1596/2013",
+   "title": "Ordinul nr. 1.596/2013 pentru modificarea anexei la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 4.189/2012 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2012, seriile a II-a și a III-a de admitere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148037",
+   "versions": [
+    {
+     "from": "2013-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148037",
+     "sha256": "c468032e3b5351d6fdeafe5980e7403cd8946787c8b723a1ec08c9c399bb7a7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-192-2013",
+   "path": "ordin/anfp/2013/192",
+   "short": "Ordin anfp nr. 192/2013",
+   "title": "Ordinul nr. 192/2013 pentru aprobarea formatului standard al adeverinței care atestă vechimea în muncă și vechimea în specialitatea studiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144854",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144854",
+     "sha256": "12a6a867178a737e1697cbc0f2abd2d4988c6f8c611b925418e8c31b3fbfc567"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-22-2013",
+   "path": "ordin/anfp/2013/22",
+   "short": "Ordin anfp nr. 22/2013",
+   "title": "Ordinul nr. 22/2013 pentru modificarea Ordinului președintelui Agenției Naționale a Funcționarilor Publici nr. 4.189/2012 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2012, seria a II-a de admitere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144579",
+   "versions": [
+    {
+     "from": "2013-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144579",
+     "sha256": "eaa66a885779488bcb405a977d73500c2a76101c136da77f3847e0d2791272f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-2284-2013",
+   "path": "ordin/anfp/2013/2284",
+   "short": "Ordin anfp nr. 2284/2013",
+   "title": "Ordinul nr. 2.284/2013 pentru modificarea anexei nr. 2 la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 4.040/2012 privind aprobarea listei documentelor necesare pentru obținerea avizului Agenției Naționale a Funcționarilor Publici, precum și a modalității de transmitere a acestora de către autoritățile și instituțiile publice și pentru aprobarea modelului-cadru de stat de funcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149703",
+   "versions": [
+    {
+     "from": "2013-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149703",
+     "sha256": "4234c95cefceb9437ffe6d526aea60c97fe2afe2273fcb1404e1fb20fefd36ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-2408-2013",
+   "path": "ordin/anfp/2013/2408",
+   "short": "Ordin anfp nr. 2408/2013",
+   "title": "Ordinul nr. 2.408/2013 pentru modificarea anexei nr. 2 la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 4.040/2012 privind aprobarea listei documentelor necesare pentru obținerea avizului Agenției Naționale a Funcționarilor Publici, precum și a modalității de transmitere a acestora de către autoritățile și instituțiile publice și pentru aprobarea modelului-cadru de stat de funcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150056",
+   "versions": [
+    {
+     "from": "2013-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150056",
+     "sha256": "f0c634569e5181ffff6e3ea52b95185de728932d7f80d1dba0c748942d150175"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-3415-2013",
+   "path": "ordin/anfp/2013/3415",
+   "short": "Ordin anfp nr. 3415/2013",
+   "title": "Ordinul nr. 3.415/2013 privind aprobarea numărului comisiilor de concurs și al comisiei de soluționare a contestațiilor, a componenței nominale a acestora, a tematicii pentru concurs, a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2013, precum și a modalităților privind plata taxei de participare la program",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152005",
+   "versions": [
+    {
+     "from": "2013-10-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152005",
+     "sha256": "1ced634497d9adb7cbe1dd5caa9afa146217da82f49b69a7510f4e391cdb93cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-111-2013",
    "path": "ordin/anpc/2013/111",
    "short": "Ordin anpc nr. 111/2013",
@@ -3783,6 +3933,21 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-236-2013",
+   "path": "ordin/anrsc/2013/236",
+   "short": "Ordin anrsc nr. 236/2013",
+   "title": "Ordinul nr. 236/2013 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148456",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148456",
+     "sha256": "b1deb4aa478ad7e39fc9c08d2d036ea3c9fb8f06e549cce47f249be6ecfa1714"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-109-2013",
    "path": "ordin/ansvsa/2013/109",
    "short": "Ordin ansvsa nr. 109/2013",
@@ -4079,6 +4244,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145136",
      "sha256": "e3572f033a1e6b07b1e717bcd97fa0e4ef6175cb4d4408df70f75a9349e3c356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-101-2013",
+   "path": "ordin/antidoping/2013/101",
+   "short": "Ordin antidoping nr. 101/2013",
+   "title": "Ordinul nr. 101/2013 pentru aprobarea modelului certificatului de funcționare din punctul de vedere al respectării reglementărilor antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146157",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146157",
+     "sha256": "d131fe222480d7ff6f4551a4eb42fac84f9abcb6ef798f669cbbe39d5e1ea03c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-250-2013",
+   "path": "ordin/antidoping/2013/250",
+   "short": "Ordin antidoping nr. 250/2013",
+   "title": "Ordinul nr. 250/2013 privind aprobarea tarifului pentru formarea și perfecționarea ofițerilor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149126",
+   "versions": [
+    {
+     "from": "2013-06-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149126",
+     "sha256": "41466bef2a33e66bc3bcf12251a33184bc08322039d145c82e777a7f535a7dd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-37-2013",
+   "path": "ordin/antidoping/2013/37",
+   "short": "Ordin antidoping nr. 37/2013",
+   "title": "Ordinul nr. 37/2013 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145460",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145460",
+     "sha256": "9d22c5daf96a636a709c9e9003b62dbba17df1b19b32fe7c8a9b1cf27ea4b4e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-38-2013",
+   "path": "ordin/antidoping/2013/38",
+   "short": "Ordin antidoping nr. 38/2013",
+   "title": "Ordinul nr. 38/2013 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145115",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145115",
+     "sha256": "b9b45fa1b0250da19ea98b1006f54a9d8c40ba911a12eb6cf8c9bc5091ff9d2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-383-2013",
+   "path": "ordin/antidoping/2013/383",
+   "short": "Ordin antidoping nr. 383/2013",
+   "title": "Ordinul nr. 383/2013 privind aprobarea Listei interzise pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152135",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152135",
+     "sha256": "4b7d814fcf1e76e52c6ef665e785a09624db2770266190cd751d150f74798d75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-414-2013",
+   "path": "ordin/antidoping/2013/414",
+   "short": "Ordin antidoping nr. 414/2013",
+   "title": "Ordinul nr. 414/2013 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările antidoping, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 37/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152805",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152805",
+     "sha256": "fc1d3f691357f0c97d083c69f2f683b261ecf66588956031df5625aa769deeb8"
     }
    ]
   },
@@ -5073,6 +5328,36 @@
    ]
   },
   {
+   "slug": "ordin-cncan-217-2013",
+   "path": "ordin/cncan/2013/217",
+   "short": "Ordin cncan nr. 217/2013",
+   "title": "Ordinul nr. 217/2013 privind modificarea și completarea Ordinului președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 56/2004 privind aprobarea Normelor fundamentale pentru gospodărirea în siguranță a deșeurilor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154431",
+   "versions": [
+    {
+     "from": "2014-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154431",
+     "sha256": "499bc16aa879946a8a5d61533ffc91b03633b7502eff404a8c171df08032954e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-96-2013",
+   "path": "ordin/cncan/2013/96",
+   "short": "Ordin cncan nr. 96/2013",
+   "title": "Ordinul nr. 96/2013 privind modificarea și completarea Normelor de dozimetrie individuală, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 180/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149766",
+   "versions": [
+    {
+     "from": "2013-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149766",
+     "sha256": "fbaf657abc664c2c6bbd18f5c09b524b9dd9ef5580cd3fd68081979ac3e957e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-20-2013",
    "path": "ordin/cnvm/2013/20",
    "short": "Ordin cnvm nr. 20/2013",
@@ -5114,6 +5399,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147633",
      "sha256": "ed77cdfcea99999cab0467e55e9c841c7efd9f15f44c5914f9af97c053c21108"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-147-2013",
+   "path": "ordin/conas/2013/147",
+   "short": "Ordin conas nr. 147/2013",
+   "title": "Ordinul nr. 147/2013 privind aprobarea taxei de acreditare și reevaluare a spitalelor aferentă anului 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149985",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149985",
+     "sha256": "2310865fa6d16cd9fecae67bd204fe0dfdcc0502cc9e5b7e0ca2c8838daba00b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-197-2013",
+   "path": "ordin/conas/2013/197",
+   "short": "Ordin conas nr. 197/2013",
+   "title": "Ordinul nr. 197/2013 privind confirmarea nivelului taxei individuale aferente procesului de reevaluare a evaluatorilor de spitale - persoane din afara Comisiei Naționale de Acreditare a Spitalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151280",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151280",
+     "sha256": "1eb5ce0449c381bc6208842a68b68fadc3f512382c51e669e37f31d05d0cdc82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-199-2013",
+   "path": "ordin/conas/2013/199",
+   "short": "Ordin conas nr. 199/2013",
+   "title": "Ordinul nr. 199/2013 privind aprobarea categoriilor de acreditare a unităților sanitare cu paturi aferente primului ciclu de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151281",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151281",
+     "sha256": "10c67e8971d8c38f07559920c32dd032a3e9287220eadf23893c3424df3b7fa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-280-2013",
+   "path": "ordin/conas/2013/280",
+   "short": "Ordin conas nr. 280/2013",
+   "title": "Ordinul nr. 280/2013 privind stabilirea cuantumului taxei individuale aferente programului de instruire a evaluatorilor de spitale certificați de către Comisia Națională de Acreditare a Spitalelor, precum și al taxei anuale de valabilitate a certificatului de evaluator de spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153428",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153428",
+     "sha256": "3e2e5ee2683b4bd2902d29f3b3951b7918deca647b75da0644ae0df2414e1feb"
     }
    ]
   },
@@ -8410,8 +8755,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/153845",
    "versions": [
     {
-     "from": "2013-12-19",
-     "units": 3,
+     "from": "2014-01-01",
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153845",
      "sha256": "15f4f553e9a54a68a52a5947ffaf5bd4d9b2027168c57e5c28762b8c65fe4c5b"
     }
@@ -9243,6 +9588,36 @@
    ]
   },
   {
+   "slug": "ordin-functiepublica-2007-2013",
+   "path": "ordin/functiepublica/2013/2007",
+   "short": "Ordin functiepublica nr. 2007/2013",
+   "title": "Ordinul nr. 2.007/2013 pentru modificarea și completarea Normelor metodologice privind utilizarea și completarea ordinului de plată pentru Trezoreria Statului (OPT), aprobate prin Ordinul ministrului finanțelor publice nr. 246/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153655",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153655",
+     "sha256": "30931c94248514256076ebd50cbbdda3b190f3f8e8ac1db63e0f016080100548"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-functiepublica-614-2013",
+   "path": "ordin/functiepublica/2013/614",
+   "short": "Ordin functiepublica nr. 614/2013",
+   "title": "Ordinul nr. 614/2013 pentru aprobarea Normelor metodologice de aplicare a prevederilor art. 4^2 din Legea nr. 273/2006 privind finanțele publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148194",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148194",
+     "sha256": "d658fb0d1c504187a453bee2ee8e6e278702d5fafb0538fbe478453e8fb75118"
+    }
+   ]
+  },
+  {
    "slug": "ordin-guvern-205-2013",
    "path": "ordin/guvern/2013/205",
    "short": "Ordin guvern nr. 205/2013",
@@ -9273,6 +9648,21 @@
    ]
   },
   {
+   "slug": "ordin-infrastructura-460-2013",
+   "path": "ordin/infrastructura/2013/460",
+   "short": "Ordin infrastructura nr. 460/2013",
+   "title": "Ordinul nr. 460/2013 pentru aprobarea Regulamentului de organizare și funcționare privind procedurile de atribuire a contractelor de achiziție publică, a Regulamentului de organizare și funcționare privind monitorizarea și execuția contractelor de asistență tehnică, servicii de consultanță și contracte de lucrări în baza Condițiilor generale de contract de construcție de lucrări de inginerie și clădiri proiectate de către beneficiar (FIDIC Roșu - ed. 1999) și a Regulamentului de organizare și funcționare privind monitorizarea și execuția contractelor de asistență tehnică, servicii de consultanță și contracte de lucrări în baza Condițiilor generale de contract de construcție-proiectare și echipamente (FIDIC Galben - ed. 1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152756",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152756",
+     "sha256": "acf1e9ff360cf390af08885e4d5008e9b3aec3765e5145ccbb395cb85b491612"
+    }
+   ]
+  },
+  {
    "slug": "ordin-infrastructura-481-2013",
    "path": "ordin/infrastructura/2013/481",
    "short": "Ordin infrastructura nr. 481/2013",
@@ -9284,6 +9674,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155273",
      "sha256": "ad0ff863da92d13b5d45d3cb6ff3bf52e2d1faaf6d9cfa41c1625b1d2406c9db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1042-2013",
+   "path": "ordin/ins/2013/1042",
+   "short": "Ordin ins nr. 1042/2013",
+   "title": "Ordinul nr. 1.042/2013 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153844",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153844",
+     "sha256": "522367fcd1ccfc100694de86265303c7984e706d49c765bc54af2d3034fe2cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-86-2013",
+   "path": "ordin/integritate/2013/86",
+   "short": "Ordin integritate nr. 86/2013",
+   "title": "Ordinul nr. 86/2013 privind aprobarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146358",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146358",
+     "sha256": "aff6d5d22346d8665175644ffcbce4a36da8ac3d26e7091eb3a95d8a3804c717"
     }
    ]
   },
@@ -10199,6 +10619,36 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151683",
      "sha256": "01f808917a0fa6c2ad5e7a48cb7b09abae3dfe6a5e4c659b300febf36d966082"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-225-2013",
+   "path": "ordin/iscir/2013/225",
+   "short": "Ordin iscir nr. 225/2013",
+   "title": "Ordinul nr. 225/2013 pentru modificarea și completarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea tehnică a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI, aprobată prin Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 130/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150393",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150393",
+     "sha256": "de06773ad1fa47d992e766b79c4671b79ecc5bb8cd2f5218542ef5a364473f75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-7-2013",
+   "path": "ordin/iscir/2013/7",
+   "short": "Ordin iscir nr. 7/2013",
+   "title": "Ordinul nr. 7/2013 referitor la măsuri privind siguranța ascensoarelor de persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145680",
+   "versions": [
+    {
+     "from": "2013-02-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145680",
+     "sha256": "32bd44b070d9e793c3c051489fdbda1f763d86198505ff076710d1d6a4ad1ca7"
     }
    ]
   },
@@ -11238,6 +11688,36 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-463-2013",
+   "path": "ordin/metrologie/2013/463",
+   "short": "Ordin metrologie nr. 463/2013",
+   "title": "Ordinul nr. 463/2013 privind modificarea și completarea tabelului prevăzut în Lista oficială a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2012, aprobată prin Ordinul directorului general al Biroului Român de Metrologie Legală nr. 148/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153121",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153121",
+     "sha256": "f41f2c549c1057b532616e8a619ca1af2e52417c686f1d7eee3f136726d025ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-485-2013",
+   "path": "ordin/metrologie/2013/485",
+   "short": "Ordin metrologie nr. 485/2013",
+   "title": "Ordinul nr. 485/2013 privind aprobarea Normei de metrologie legală NML 082-13 \"Echipamente electronice pentru măsurarea lemnului rotund\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152768",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152768",
+     "sha256": "efa392d154e305083ecff3aa5c3a0c3c12def0615d43cbc447a76736f333f9cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1068-2013",
    "path": "ordin/munca/2013/1068",
    "short": "Ordin munca nr. 1068/2013",
@@ -11774,6 +12254,141 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148652",
      "sha256": "25c25036c969b5c7df7176904d9a2250c2561de9322ece37f04e73c6c26e92fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-141-2013",
+   "path": "ordin/onjn/2013/141",
+   "short": "Ordin onjn nr. 141/2013",
+   "title": "Ordinul nr. 141/2013 privind aprobarea modelelor utilizate de personalul din cadrul Oficiului Național pentru Jocuri de Noroc pentru legitimația de serviciu, insignă, ordinul de serviciu permanent, procesul-verbal, procesul-verbal de constatare și sancționare a contravențiilor și chitanțier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151021",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151021",
+     "sha256": "a9eb2a3db4e872056df07618956e738f8d09b41ebc5e6f604a4b27582bf7b1cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-136-2013",
+   "path": "ordin/onpcsb/2013/136",
+   "short": "Ordin onpcsb nr. 136/2013",
+   "title": "Ordinul nr. 136/2013 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor tranzacții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151188",
+   "versions": [
+    {
+     "from": "2013-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151188",
+     "sha256": "46dcd62e9f81cfca473faa3d2507720e23bee6bc0eab9378b89a9c1ba0e5fee7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-12-2013",
+   "path": "ordin/orniss/2013/12",
+   "short": "Ordin orniss nr. 12/2013",
+   "title": "Ordinul nr. 12/2013 privind modificarea și completarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 25/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145864",
+   "versions": [
+    {
+     "from": "2013-03-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145864",
+     "sha256": "a719656c5e5ed0bd7d943cf3749e853a1e722c24626db5cc157dcb9e71c17022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-198-2013",
+   "path": "ordin/orniss/2013/198",
+   "short": "Ordin orniss nr. 198/2013",
+   "title": "Ordinul nr. 198/2013 privind completarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 25/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154095",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154095",
+     "sha256": "fa76c8615c29ea87f0d789448c2899dac778bcc7c176ecf531f6f640b099ab7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-45-2013",
+   "path": "ordin/orniss/2013/45",
+   "short": "Ordin orniss nr. 45/2013",
+   "title": "Ordinul nr. 45/2013 privind completarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 25/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149474",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149474",
+     "sha256": "13cc9ce21b6624d602e63ad89aff24899e338613077697dcb5ee55f0752ee0e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-86-2013",
+   "path": "ordin/orniss/2013/86",
+   "short": "Ordin orniss nr. 86/2013",
+   "title": "Ordinul nr. 86/2013 pentru aprobarea Directivei privind structurile cu responsabilități în domeniul INFOSEC - INFOSEC 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151774",
+   "versions": [
+    {
+     "from": "2013-10-09",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151774",
+     "sha256": "08507d3b77c6461ca3aaaf3e4dd54c30706e35afa2d19acae0a27de73a7aaa7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-112-2013",
+   "path": "ordin/parchet/2013/112",
+   "short": "Ordin parchet nr. 112/2013",
+   "title": "Ordinul nr. 112/2013 pentru aprobarea Regulamentului privind evaluarea activității profesionale a personalului auxiliar de specialitate și a personalului conex din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149258",
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149258",
+     "sha256": "79e6e356856681d4d11df93fc09757f98f0e722c48edd518adeb960e30ed7cf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-84-2013",
+   "path": "ordin/parchet/2013/84",
+   "short": "Ordin parchet nr. 84/2013",
+   "title": "Ordinul nr. 84/2013 pentru aprobarea Regulamentului privind evaluarea performanțelor profesionale individuale anuale și promovarea personalului contractual din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148457",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148457",
+     "sha256": "b4990e304ec1111f3eb89675aa7bb7b6f37212b0bc3764e4caa595bfb78f9ca3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-63-2013",
+   "path": "ordin/revolutionari/2013/63",
+   "short": "Ordin revolutionari nr. 63/2013",
+   "title": "Ordinul nr. 63/2013 pentru aprobarea Protocolului încheiat între Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 și Ministerul Tineretului și Sportului nr. 18/3.893/4.904/2013 privind trimiterea în tabere de odihnă a copiilor urmași ai eroilor-martiri sau ai căror părinți dețin certificate doveditoare ale calității de revoluționar eliberate în baza prevederilor Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151101",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151101",
+     "sha256": "46151cef1004dab230d582a7209b3cdf389ad1f93cbeac45c8cd1ca98aade9b0"
     }
    ]
   },
@@ -13458,6 +14073,171 @@
    ]
   },
   {
+   "slug": "ordin-sie-198-2013",
+   "path": "ordin/sie/2013/198",
+   "short": "Ordin sie nr. 198/2013",
+   "title": "Ordinul nr. 198/2013 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152806",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152806",
+     "sha256": "bed33a3519d753fe4bed6f7a9ec5aa2d57ed18cd90356deb17c412c6a19a2637"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-199-2013",
+   "path": "ordin/sie/2013/199",
+   "short": "Ordin sie nr. 199/2013",
+   "title": "Ordinul nr. 199/2013 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152807",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152807",
+     "sha256": "22c99b5a81da15a3b0f936473098df6d058f722e22caa0cba38a126b317308b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1271-2013",
+   "path": "ordin/sport/2013/1271",
+   "short": "Ordin sport nr. 1271/2013",
+   "title": "Ordinul nr. 1.271/2013 pentru modificarea și completarea Ordinului ministrului tineretului și sportului nr. 511/2013 pentru aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului, și pentru aprobarea contractului-cadru de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152547",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152547",
+     "sha256": "ff0bf39d75d446ca569f9102ed96a6cdba73062a7525ec81a4810f0479e968ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-395-2013",
+   "path": "ordin/sport/2013/395",
+   "short": "Ordin sport nr. 395/2013",
+   "title": "Ordinul nr. 395/2013 privind aprobarea Ghidului metodologic referitor la regimul finanțărilor din fonduri provenite integral din veniturile proprii ale Ministerului Tineretului și Sportului, alocate pentru activități de selecție, pregătire și realizare de competiții ale copiilor, juniorilor mici, precum și ale persoanelor cu dizabilități, pe baza unor proiecte și programe ale federațiilor sportive naționale, cu scopul de a forma perfomeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146543",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146543",
+     "sha256": "3d12aba378450b58291c8b046b8c3f19c373cdec0cba39a8ff261f89d3dd7d6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-511-2013",
+   "path": "ordin/sport/2013/511",
+   "short": "Ordin sport nr. 511/2013",
+   "title": "Ordinul nr. 511/2013 pentru aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului, și pentru aprobarea contractului-cadru de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147250",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147250",
+     "sha256": "ad93cfca86a15eb2af16b8c66094c7b8faa1efe281d121fd946f3138af56bf07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-13-2013",
+   "path": "ordin/spp/2013/13",
+   "short": "Ordin spp nr. 13/2013",
+   "title": "Ordinul nr. 13/2013 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151452",
+   "versions": [
+    {
+     "from": "2013-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151452",
+     "sha256": "686df049fe490c3fe14d1805e668141eadeb6a38ae8cb580f162986a1f354123"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-14-2013",
+   "path": "ordin/spp/2013/14",
+   "short": "Ordin spp nr. 14/2013",
+   "title": "Ordinul nr. 14/2013 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151453",
+   "versions": [
+    {
+     "from": "2013-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151453",
+     "sha256": "e59c3926e4993b804b3b1c07d43ef4364c60068d70510b397eb269284ee211a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-361-2013",
+   "path": "ordin/sri/2013/361",
+   "short": "Ordin sri nr. 361/2013",
+   "title": "Ordinul nr. 361/2013 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152678",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152678",
+     "sha256": "95cda5d1ca24d3510ba4329eec66b7046a106a18448440bd983e2a5c17306ab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-362-2013",
+   "path": "ordin/sri/2013/362",
+   "short": "Ordin sri nr. 362/2013",
+   "title": "Ordinul nr. 362/2013 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152679",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152679",
+     "sha256": "886c154cad00cf27e74d88a9d2d04abe2fcad456b913fdc33ce8969647adfb83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-251-2013",
+   "path": "ordin/sts/2013/251",
+   "short": "Ordin sts nr. 251/2013",
+   "title": "Ordinul nr. 251/2013 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152673",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152673",
+     "sha256": "3448390e234fa54f2d1a7d5c9a12e863544b89368dee64353cb00930de452b41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-252-2013",
+   "path": "ordin/sts/2013/252",
+   "short": "Ordin sts nr. 252/2013",
+   "title": "Ordinul nr. 252/2013 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152676",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152676",
+     "sha256": "105112853e559198509b629fa4b2c4dc830554a8749c1b12301a336cf3222e75"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1015-2013",
    "path": "ordin/transporturi/2013/1015",
    "short": "Ordin transporturi nr. 1015/2013",
@@ -14414,6 +15194,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150226",
      "sha256": "293ede2571f6123a7256fe99b0b2c3c79a5341eed7996419e94a4f5b6f6977e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-107-2013",
+   "path": "ordin/turism/2013/107",
+   "short": "Ordin turism nr. 107/2013",
+   "title": "Ordinul nr. 107/2013 privind aprobarea modelului și conținutului legitimațiilor de control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150124",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150124",
+     "sha256": "a760ba866a5e18b094b3900e98921d8794dec334d96b6c72946d83d2bea01740"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-108-2013",
+   "path": "ordin/turism/2013/108",
+   "short": "Ordin turism nr. 108/2013",
+   "title": "Ordinul nr. 108/2013 privind aprobarea modelului și conținutul formularelor și documentelor utilizate în activitatea de control și autorizare a Direcției generale control și autorizare turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150129",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150129",
+     "sha256": "24134d245d9b83b485b6a5b9f40ef959870aa144e3adecfe9d0e1efb9019f4a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-234-2013",
+   "path": "ordin/turism/2013/234",
+   "short": "Ordin turism nr. 234/2013",
+   "title": "Ordinul nr. 234/2013 pentru aprobarea Normelor privind atribuirea contractelor de prestări de servicii de amenajare și decorare de pavilioane naționale, standuri specializate sau miniexpoziții și servicii conexe în cadrul manifestărilor expoziționale de turism la care participă Autoritatea Națională pentru Turism, în țară și în străinătate, cu finanțare de la bugetul de stat și din Fondul European de Dezvoltare Regională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152105",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152105",
+     "sha256": "e9258895fabb79b0e67722bc86ac98e86d2d475bdfdd62ebefb555a10b93c16d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-258-2013",
+   "path": "ordin/turism/2013/258",
+   "short": "Ordin turism nr. 258/2013",
+   "title": "Ordinul nr. 258/2013 privind aprobarea Normelor pentru atribuirea contractelor de prestări de servicii privind organizarea în străinătate de către Autoritatea Națională pentru Turism a evenimentelor de promovare și dezvoltare a destinațiilor, formelor și produselor turistice, cu finanțare de la bugetul de stat și din Fondul European de Dezvoltare Regională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152045",
+   "versions": [
+    {
+     "from": "2013-10-24",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152045",
+     "sha256": "086b2223b08218ecf60b682349c018b927bb1e631f64df4ce9043de0a553118d"
     }
    ]
   },

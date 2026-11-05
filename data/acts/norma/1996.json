@@ -229,6 +229,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/10718",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "norma-sport-3731-1996",
+"path": "norma/sport/1996/3731",
+"kind": "norma",
+"year": "1996",
+"number": "3731",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 3.731/1996 de aplicare a Ordonanței Guvernului nr. 10/1996 privind îmbunătățirea sistemului de finanțare a unităților sportive finanțate din venituri extrabugetare și din alocații de la bugetul de stat, precum și a sistemului de salarizare a personalului din aceste unități",
+"short": "Norma sport nr. 3731/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-12-16",
+"latest": "1996-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10697",
+"issuer": "sport",
+"joint": []
 }
 ]
 }

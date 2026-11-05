@@ -3,6 +3,66 @@
  "shard": "instructiuni/2025",
  "acts": [
   {
+   "slug": "instructiuni-aep-1-2025",
+   "path": "instructiuni/aep/2025/1",
+   "short": "Instrucțiuni aep nr. 1/2025",
+   "title": "Instrucțiunile nr. 1/2025 privind unele măsuri pentru organizarea alegerilor locale parțiale din data de 4 mai 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295997",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295997",
+     "sha256": "a38960bcbe03771a4dc041e9f121ee351083ef55a73b2de455fe8d87fd12a942"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-2-2025",
+   "path": "instructiuni/aep/2025/2",
+   "short": "Instrucțiuni aep nr. 2/2025",
+   "title": "Instrucțiunile nr. 2/2025 privind unele măsuri pentru organizarea alegerilor locale parțiale din data de 7 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303898",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303898",
+     "sha256": "7ae84559b191204d0ac5536796b8f92a36e897e51b529415bec6768c12bca986"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-3-2025",
+   "path": "instructiuni/aep/2025/3",
+   "short": "Instrucțiuni aep nr. 3/2025",
+   "title": "Instrucțiunile nr. 3/2025 privind acreditarea observatorilor, a delegaților mass-mediei străini și a delegaților formațiunilor politice la alegerile locale parțiale din data de 7 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304138",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304138",
+     "sha256": "4a1801f0a2875b48c1c1f66fd3f4d1d8d15fc15a4222d68b75e65410b705b429"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-4-2025",
+   "path": "instructiuni/aep/2025/4",
+   "short": "Instrucțiuni aep nr. 4/2025",
+   "title": "Instrucțiunile nr. 4/2025 pentru implementarea proiectului-pilot în vederea exercitării independente a dreptului de vot de către alegătorii cu dizabilități de vedere la alegerile locale parțiale din data de 7 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304782",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304782",
+     "sha256": "c43e840181c7fc34d302aeb0b1a804a4ea874e8e045048c1237a3e87f921a0fc"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-educatie-8-2025",
    "path": "instructiuni/educatie/2025/8",
    "short": "Instrucțiuni educatie nr. 8/2025",
@@ -29,6 +89,21 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301200",
      "sha256": "c024516aaf0c3a1c5440a8faaeff59abb828e776070444163315c76b6e345aed"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-penitenciare-81-2025",
+   "path": "instructiuni/penitenciare/2025/81",
+   "short": "Instrucțiuni penitenciare nr. 81/2025",
+   "title": "Instrucțiunile nr. 81/2025 privind cererile persoanelor private de libertate a căror competență de soluționare aparține administrației locului de deținere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295676",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295676",
+     "sha256": "e3b58e8eebb57dd6377e75039fb882934514202cf0ca27ef53a70d2f18310684"
     }
    ]
   },

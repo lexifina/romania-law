@@ -3,6 +3,66 @@
  "shard": "instructiuni/2016",
  "acts": [
   {
+   "slug": "instructiuni-achizitii-1-2016",
+   "path": "instructiuni/achizitii/2016/1",
+   "short": "Instrucțiuni achizitii nr. 1/2016",
+   "title": "Instrucțiunile nr. 1/2016 privind modificarea contractului de achiziție publică în cursul perioadei sale de valabilitate și încadrarea acestor modificări ca fiind substanțiale sau nesubstanțiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176371",
+   "versions": [
+    {
+     "from": "2016-03-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176371",
+     "sha256": "b0002431dc5836a957668ceccc8fdc05e6ee8d850c597b8243265c56e2266f28"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-achizitii-2-2016",
+   "path": "instructiuni/achizitii/2016/2",
+   "short": "Instrucțiuni achizitii nr. 2/2016",
+   "title": "Instrucțiunile nr. 2/2016 emisă în aplicarea prevederilor art. 188 alin. (1) lit. a), alin. (2) lit. a) și alin. (3) lit. a) din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177375",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177375",
+     "sha256": "1ec557ff715a74f7c1d6758f8df77c98244fd6e05b30f0b033e6069b48e6edaf"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-1-2016",
+   "path": "instructiuni/aep/2016/1",
+   "short": "Instrucțiuni aep nr. 1/2016",
+   "title": "Instrucțiunile nr. 1/2016 privind organizarea și desfășurarea referendumului local pentru demiterea primarului comunei Pungești, județul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175801",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175801",
+     "sha256": "aef4d3db5f0e80be7f9e44d0e2f58eb346447abbbf3c3766c41f1bdb67bcdcdf"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aep-2-2016",
+   "path": "instructiuni/aep/2016/2",
+   "short": "Instrucțiuni aep nr. 2/2016",
+   "title": "Instrucțiunile nr. 2/2016 privind organizarea și desfășurarea referendumului local pentru trecerea orașului Liteni din județul Suceava la rangul de comună",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176917",
+   "versions": [
+    {
+     "from": "2016-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176917",
+     "sha256": "e070722f041d165ecca676e708c87733ec5ee1c7fd90d9f316d20d438ebd899c"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-asf-1-2016",
    "path": "instructiuni/asf/2016/1",
    "short": "Instrucțiuni asf nr. 1/2016",
@@ -29,6 +89,36 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180537",
      "sha256": "f92c88d75bd5b52e4b21365f4afe7cf8be562764a4012aaf0c6eaff61ccf2dff"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-fga-1-2016",
+   "path": "instructiuni/fga/2016/1",
+   "short": "Instrucțiuni fga nr. 1/2016",
+   "title": "Instrucțiunile nr. 1/2016 privind întocmirea și depunerea situațiilor financiare anuale de către Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178615",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178615",
+     "sha256": "f1f9c31c2a9532b6ad0a6f49478957f8a5696e24791d5bdd891e4fbf3a4b52c6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-fga-2-2016",
+   "path": "instructiuni/fga/2016/2",
+   "short": "Instrucțiuni fga nr. 2/2016",
+   "title": "Instrucțiunile nr. 2/2016 privind întocmirea și depunerea situațiilor financiare la 30 iunie 2016 de către Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180583",
+   "versions": [
+    {
+     "from": "2016-08-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180583",
+     "sha256": "c5681ac7fd68146df7f805a647d269c2dbc277d074c08ac36d648cbd5038ab17"
     }
    ]
   },

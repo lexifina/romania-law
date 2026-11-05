@@ -183,6 +183,36 @@
    ]
   },
   {
+   "slug": "norma-fps-1-1994",
+   "path": "norma/fps/1994/1",
+   "short": "Norma fps nr. 1/1994",
+   "title": "Norma nr. 1/1994 privind selecționarea managerilor și încheierea contractului de management",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3777",
+   "versions": [
+    {
+     "from": "1994-03-02",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3777",
+     "sha256": "579baf4147730af1c6bbec43b946985468ca2342cdabbc2c8ea7cd718126888d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-fps-2-1994",
+   "path": "norma/fps/1994/2",
+   "short": "Norma fps nr. 2/1994",
+   "title": "Norma nr. 2/1994 pentru aplicarea Legii nr. 77/1994 privind asociațiile salariaților și membrilor conducerii societăților comerciale care se privatizează",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3791",
+   "versions": [
+    {
+     "from": "1995-01-31",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3791",
+     "sha256": "24fb6da576dcd8ef59937248fffcd3ee0fbe01340b8fdb597997d18451789e37"
+    }
+   ]
+  },
+  {
    "slug": "norma-sanatate-1720-1994",
    "path": "norma/sanatate/1994/1720",
    "short": "Norma sanatate nr. 1720/1994",

@@ -419,6 +419,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250639",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-ccir-26-2021",
+"path": "regulament/ccir/2021/26",
+"kind": "regulament",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 26/2021 privind avizarea, supravegherea, controlul și sancționarea activității burselor de mărfuri",
+"short": "Regulament ccir nr. 26/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-09",
+"latest": "2021-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240853",
+"issuer": "ccir",
+"joint": []
 }
 ]
 }

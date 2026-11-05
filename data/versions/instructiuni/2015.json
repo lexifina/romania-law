@@ -3,6 +3,21 @@
  "shard": "instructiuni/2015",
  "acts": [
   {
+   "slug": "instructiuni-achizitii-1-2015",
+   "path": "instructiuni/achizitii/2015/1",
+   "short": "Instrucțiuni achizitii nr. 1/2015",
+   "title": "Instrucțiunile nr. 1/2015 emisă în aplicarea prevederilor art. 186 și 190 din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171133",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171133",
+     "sha256": "1c77a6aefb1e24cff18710ffa25b3601a8e999a4cad95c1dfd5999ba0439f054"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-asf-1-2015",
    "path": "instructiuni/asf/2015/1",
    "short": "Instrucțiuni asf nr. 1/2015",

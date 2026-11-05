@@ -633,6 +633,21 @@
    ]
   },
   {
+   "slug": "ordin-dizabilitati-152-1997",
+   "path": "ordin/dizabilitati/1997/152",
+   "short": "Ordin dizabilitati nr. 152/1997",
+   "title": "Ordinul nr. 152/1997 privind costul mediu lunar de întreținere, pe baza căruia se calculează contribuția întreținerii pentru o persoană internată, la căminele-spital pentru bolnavi cronici adulți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11837",
+   "versions": [
+    {
+     "from": "1997-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11837",
+     "sha256": "d21e1b41482d1787089b4db1d3f85960945cacdd59534115c9bab2294fa99b66"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1528-1997",
    "path": "ordin/economie/1997/1528",
    "short": "Ordin economie nr. 1528/1997",
@@ -929,6 +944,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13888",
      "sha256": "929e190f5981ad4cec3d80641f43e2c3dc81ce852e6238098450f75544fe8cce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-2330-1997",
+   "path": "ordin/exporturi/1997/2330",
+   "short": "Ordin exporturi nr. 2330/1997",
+   "title": "Ordinul nr. 2.330/1997 privind aprobarea Normelor metodologice de autorizare a instalațiilor și/sau laboratoarelor pentru producerea substanțelor înscrise în lista nr. 1 din anexa nr. 1 la Legea nr. 56/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13869",
+   "versions": [
+    {
+     "from": "1997-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13869",
+     "sha256": "962449281aa67b51df5077c763a1d1551a690a3effcded7618f2a9d7cfeedd63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-2331-1997",
+   "path": "ordin/exporturi/1997/2331",
+   "short": "Ordin exporturi nr. 2331/1997",
+   "title": "Ordinul nr. 2.331/1997 privind aprobarea Normelor metodologice de întocmire și transmitere a declarațiilor inițiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13870",
+   "versions": [
+    {
+     "from": "1997-04-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13870",
+     "sha256": "96cdbb6c0bf8adff3a87d6969760bc49734568e50bd8ce90d816aa47710574cd"
     }
    ]
   },
@@ -2163,6 +2208,21 @@
    ]
   },
   {
+   "slug": "ordin-minoritati-1-1997",
+   "path": "ordin/minoritati/1997/1",
+   "short": "Ordin minoritati nr. 1/1997",
+   "title": "Ordinul nr. 1/1997 privind înființarea birourilor teritoriale în cadrul Departamentului pentru Protecția Minorităților Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10751",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10751",
+     "sha256": "7c6a762dcd58e8f4b09e9bfa6579759e8913ec609cd6272f1c3b9825b44a6a7a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-129-1997",
    "path": "ordin/munca/1997/129",
    "short": "Ordin munca nr. 129/1997",
@@ -2939,6 +2999,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11525",
      "sha256": "7e5e481909ca361e902079880226abfe5211e6bd5cebd47861b1d56e2046e45d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-119-1997",
+   "path": "ordin/turism/1997/119",
+   "short": "Ordin turism nr. 119/1997",
+   "title": "Ordinul nr. 119/1997 privind aprobarea nivelului tarifelor pentru serviciile prestate de Oficiul de Autorizare și Control în Turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11694",
+   "versions": [
+    {
+     "from": "1997-08-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11694",
+     "sha256": "e6379b46a70740c0ce406695d9de4ff613ebab3918cb140165502f56917c5908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-16-1997",
+   "path": "ordin/turism/1997/16",
+   "short": "Ordin turism nr. 16/1997",
+   "title": "Ordinul nr. 16/1997 privind aprobarea politicii tarifare în structurile de primire turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11008",
+   "versions": [
+    {
+     "from": "1997-01-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11008",
+     "sha256": "4534ae7f5ec8ad03c775a1411795f3a8c20ff9264bb3597f4e1e7c01a0ba2ae2"
     }
    ]
   },

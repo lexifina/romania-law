@@ -476,6 +476,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289045",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-1-2024",
+"path": "regulament/fgdb/2024/1",
+"kind": "regulament",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2024 privind selectarea instituțiilor de credit mandatate de Fondul de garantare a depozitelor bancare pentru efectuarea plăților de compensații",
+"short": "Regulament fgdb nr. 1/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292116",
+"issuer": "fgdb",
+"joint": []
 }
 ]
 }

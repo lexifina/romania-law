@@ -1278,6 +1278,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-13-1996",
+   "path": "ordin/metrologie/1996/13",
+   "short": "Ordin metrologie nr. 13/1996",
+   "title": "Ordinul nr. 13/1996 pentru aprobarea Normelor de metrologie legală și a Normelor tehnice de metrologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7902",
+   "versions": [
+    {
+     "from": "1996-03-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7902",
+     "sha256": "d732794e7e9332260bb2393bb993e7d47a4e3ba7a27427cfb2937fd38befd01e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-115-1996",
    "path": "ordin/munca/1996/115",
    "short": "Ordin munca nr. 115/1996",
@@ -1593,6 +1608,21 @@
    ]
   },
   {
+   "slug": "ordin-privatizare-40-1996",
+   "path": "ordin/privatizare/1996/40",
+   "short": "Ordin privatizare nr. 40/1996",
+   "title": "Ordinul nr. 40/1996 pentru aprobarea Instrucțiunilor privind regimul subscrierilor efectuate de cetățeni la societățile comerciale prevăzute în anexa B la Hotărârea Guvernului nr. 40/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8211",
+   "versions": [
+    {
+     "from": "1996-03-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8211",
+     "sha256": "259748d0ef35f4fdaf6d3ffe5e0e52a4b7cee5e98deb4f33a5de010d4b90b067"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1573-1996",
    "path": "ordin/sanatate/1996/1573",
    "short": "Ordin sanatate nr. 1573/1996",
@@ -1739,6 +1769,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9157",
      "sha256": "907b9e5ae531e69f93eecc19ed97ed65e16ad09ede4d7a97352b95a83ea4b2a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-118-1996",
+   "path": "ordin/turism/1996/118",
+   "short": "Ordin turism nr. 118/1996",
+   "title": "Ordinul nr. 118/1996 pentru aprobarea cuantumului garanției financiare aferente anului 1997 pe care agenții economici trebuie să o constituie în vederea licențierii și funcționarii agențiilor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8621",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8621",
+     "sha256": "5a690c8e3479ec2162b2d78f5aef34a59148dc11fd6b13074c0e80df34ad44eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-77-1996",
+   "path": "ordin/turism/1996/77",
+   "short": "Ordin turism nr. 77/1996",
+   "title": "Ordinul nr. 77/1996 pentru modificarea Normelor metodologice privind acordarea licențelor și brevetelor de turism, aprobate prin Ordinul ministrului turismului nr. 207/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8431",
+   "versions": [
+    {
+     "from": "1996-08-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8431",
+     "sha256": "2437937da99cc427d8710e836ef8ad3b65a020058ba0f2ced32ab7e16a096fab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-92-1996",
+   "path": "ordin/turism/1996/92",
+   "short": "Ordin turism nr. 92/1996",
+   "title": "Ordinul nr. 92/1996 pentru modificarea Normelor metodologice privind acordarea licențelor și a brevetelor de turism, aprobate prin Ordinul nr. 207/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8505",
+   "versions": [
+    {
+     "from": "1996-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8505",
+     "sha256": "2d0908666f340149fabd7a0583afde8ab1c51814005dc2b516047384dadffb3c"
     }
    ]
   },

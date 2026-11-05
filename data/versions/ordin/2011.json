@@ -3,6 +3,81 @@
  "shard": "ordin/2011",
  "acts": [
   {
+   "slug": "ordin-achizitii-302-2011",
+   "path": "ordin/achizitii/2011/302",
+   "short": "Ordin achizitii nr. 302/2011",
+   "title": "Ordinul nr. 302/2011 privind aprobarea formularelor standard ale Procesului-verbal al ședinței de deschidere a ofertelor și Raportului procedurii, aferente procedurilor de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129289",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129289",
+     "sha256": "2827c17f018f94aff550aef212686a92339deae7636f14df9cd715390949911a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-312-2011",
+   "path": "ordin/achizitii/2011/312",
+   "short": "Ordin achizitii nr. 312/2011",
+   "title": "Ordinul nr. 312/2011 pentru abrogarea Ordinului președintelui Autorității Naționale pentru Reglementarea și Monitorizarea Achizițiilor Publice nr. 301/2011 privind aprobarea Metodologiei de analiză a procedurilor de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii finanțate din instrumente structurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129731",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129731",
+     "sha256": "dbd92a0d2775ead421bbca858eeea22fb28788468c50ba687226b399f3cd2d1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-313-2011",
+   "path": "ordin/achizitii/2011/313",
+   "short": "Ordin achizitii nr. 313/2011",
+   "title": "Ordinul nr. 313/2011 cu privire la interpretarea anumitor dispoziții privind procedurile de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129724",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129724",
+     "sha256": "e6fc5fcfd56fcaf029ea9c8df4f8d766623017ef88575da6e4383238baadaf35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-509-2011",
+   "path": "ordin/achizitii/2011/509",
+   "short": "Ordin achizitii nr. 509/2011",
+   "title": "Ordinul nr. 509/2011 privind formularea criteriilor de calificare și selecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131802",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131802",
+     "sha256": "20ac117866cbb9abe8f6e73dddb0622a2719da02060611cea2e5eac50aa82a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-553-2011",
+   "path": "ordin/achizitii/2011/553",
+   "short": "Ordin achizitii nr. 553/2011",
+   "title": "Ordinul nr. 553/2011 pentru interpretarea art. 243 din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132278",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132278",
+     "sha256": "0e32b49416f2b4873423684f9a45d8934da27916cc5053305863777d211fd305"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1048-2011",
    "path": "ordin/agricultura/2011/1048",
    "short": "Ordin agricultura nr. 1048/2011",
@@ -1923,6 +1998,36 @@
    ]
   },
   {
+   "slug": "ordin-anfp-3831-2011",
+   "path": "ordin/anfp/2011/3831",
+   "short": "Ordin anfp nr. 3831/2011",
+   "title": "Ordinul nr. 3.831/2011 pentru stabilirea domeniilor prioritare în care se organizează programe de formare pentru funcționarii publici care ocupă funcții publice generale de conducere și execuție, precum și funcții publice specifice asimilate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133131",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133131",
+     "sha256": "207aef05c2c2935335163a4eae2ee41a81117305c2e907aee6eca7aa023d9fa5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-123-2011",
+   "path": "ordin/anofm/2011/123",
+   "short": "Ordin anofm nr. 123/2011",
+   "title": "Ordinul nr. 123/2011 privind modificarea și completarea Procedurii de primire și de soluționare a cererilor de loc de muncă sau indemnizație de șomaj, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 85/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126726",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126726",
+     "sha256": "c48c1f2519be644e7b10674750062d31beddbc1d6fc17db336c82534e15e5495"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-129-2011",
    "path": "ordin/anpc/2011/129",
    "short": "Ordin anpc nr. 129/2011",
@@ -2988,6 +3093,21 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-367-2011",
+   "path": "ordin/anrsc/2011/367",
+   "short": "Ordin anrsc nr. 367/2011",
+   "title": "Ordinul nr. 367/2011 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor și a modelului de licență/autorizație eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130168",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130168",
+     "sha256": "9dad506e6370ca1337560ef7f00c23dfb0543737d1d8904d57ce677a274228e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-10-2011",
    "path": "ordin/ansvsa/2011/10",
    "short": "Ordin ansvsa nr. 10/2011",
@@ -3389,6 +3509,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133089",
      "sha256": "2afaf1ec970dd30f9bc2dc3317a258c70b7d74f0b708aaca01a6f81049da1ea1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-112-2011",
+   "path": "ordin/antidoping/2011/112",
+   "short": "Ordin antidoping nr. 112/2011",
+   "title": "Ordinul nr. 112/2011 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129760",
+   "versions": [
+    {
+     "from": "2011-07-04",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129760",
+     "sha256": "18ac9fa4003c3a5c11740abe72add3636a1b6133826a4d5ccd0527895c4ff604"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-160-2011",
+   "path": "ordin/antidoping/2011/160",
+   "short": "Ordin antidoping nr. 160/2011",
+   "title": "Ordinul nr. 160/2011 privind aprobarea taxei pentru autorizarea desfășurării activităților în sălile de culturism sau de fitness, precum și a Metodologiei de organizare a cursului de instruire antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133150",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133150",
+     "sha256": "15d1d9a92287f8f36a3f74d1e513a02263f92f167c7a50e1ea32f947442c7fcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-172-2011",
+   "path": "ordin/antidoping/2011/172",
+   "short": "Ordin antidoping nr. 172/2011",
+   "title": "Ordinul nr. 172/2011 privind aprobarea Listei interzise pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133866",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133866",
+     "sha256": "30d0a9b36a96cf2891c1e2eaf09cf7a55f6d084e23046a7b80879465164117be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-78-2011",
+   "path": "ordin/antidoping/2011/78",
+   "short": "Ordin antidoping nr. 78/2011",
+   "title": "Ordinul nr. 78/2011 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de apel, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 69/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127736",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127736",
+     "sha256": "b7e92411449f4c1751788f7dfa026edbb1ce91a25172c13b96e9af9260d21083"
     }
    ]
   },
@@ -4443,6 +4623,36 @@
    ]
   },
   {
+   "slug": "ordin-cnpp-1077-2011",
+   "path": "ordin/cnpp/2011/1077",
+   "short": "Ordin cnpp nr. 1077/2011",
+   "title": "Ordinul nr. 1.077/2011 privind aprobarea procesului-verbal de constatare a contravențiilor și de aplicare a sancțiunilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130722",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130722",
+     "sha256": "f980adb388def63e520fbb8bcc9e8d9664b731627287524a1483146cd0789aa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-1252-2011",
+   "path": "ordin/cnpp/2011/1252",
+   "short": "Ordin cnpp nr. 1252/2011",
+   "title": "Ordinul nr. 1.252/2011 privind aplicarea prevederilor art. XI din Ordonanța Guvernului nr. 30/2011 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, precum și pentru reglementarea unor măsuri financiar-fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133384",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133384",
+     "sha256": "077ed713a4e9f8c4120fceb62a0ddb276043aeba0b4d31906cb4325c178f3884"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnpp-1285-2011",
    "path": "ordin/cnpp/2011/1285",
    "short": "Ordin cnpp nr. 1285/2011",
@@ -4724,6 +4934,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132100",
      "sha256": "49bc94bf1346b79f679c751ab52a55865b23ea7adfb2559295074a4e71f60359"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-342-2011",
+   "path": "ordin/conas/2011/342",
+   "short": "Ordin conas nr. 342/2011",
+   "title": "Ordinul nr. 342/2011 privind aprobarea taxei de acreditare și reevaluare a spitalelor aferente anului 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134479",
+   "versions": [
+    {
+     "from": "2012-01-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134479",
+     "sha256": "66e486c7994db437ebac5a93912508f87794da44ea656d6e08458ba1efe14cca"
     }
    ]
   },
@@ -7308,6 +7533,21 @@
    ]
   },
   {
+   "slug": "ordin-europene-80-2011",
+   "path": "ordin/europene/2011/80",
+   "short": "Ordin europene nr. 80/2011",
+   "title": "Ordinul nr. 80/2011 pentru modificarea și completarea Metodologiei privind mecanismul intern de rambursare a cheltuielilor de transport pentru participarea experților/delegaților români la reuniunile consiliilor Uniunii Europene și ale Consiliului European, aprobată prin Ordinul secretarului de stat al Departamentului pentru Afaceri Europene nr. 120/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127455",
+   "versions": [
+    {
+     "from": "2011-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127455",
+     "sha256": "c519dac5a582c035d4d4f11e6fde9d2ed3099551ca7bc5240eb3ec60d38ce097"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-101-2011",
    "path": "ordin/externe/2011/101",
    "short": "Ordin externe nr. 101/2011",
@@ -7604,6 +7844,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131081",
      "sha256": "f1e7c10430c3455808b4b2df4893c6a97a120cc691ce98e105ac26803f6802c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fgdb-1-2011",
+   "path": "ordin/fgdb/2011/1",
+   "short": "Ordin fgdb nr. 1/2011",
+   "title": "Ordinul nr. 1/2011 pentru aprobarea Statutului Fondului de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130062",
+   "versions": [
+    {
+     "from": "2011-07-13",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130062",
+     "sha256": "cc342e1083012ef3a8e04450ba1aca82d0d26d1d293a40735c30171a939113e6"
     }
    ]
   },
@@ -8639,6 +8894,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128914",
      "sha256": "73ba226db74f8eead67ce29483ed6b42fb78071a47d4a3f7cb20d0536f8ddcf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-21-2011",
+   "path": "ordin/ins/2011/21",
+   "short": "Ordin ins nr. 21/2011",
+   "title": "Ordinul nr. 21/2011 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125753",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125753",
+     "sha256": "ab111198dbcc6c0d3503b9762ee4f8140434ec346aca147ef37690df12d9e796"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-53-2011",
+   "path": "ordin/integritate/2011/53",
+   "short": "Ordin integritate nr. 53/2011",
+   "title": "Ordinul nr. 53/2011 privind modificarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate, aprobat prin Ordinul președintelui Agenției Naționale de Integritate nr. 340/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126438",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126438",
+     "sha256": "729757ef77d378f60e2b713f66fa0266a6d4b0798b45332755c3f29484b4694a"
     }
    ]
   },
@@ -9854,6 +10139,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128752",
      "sha256": "9b166818ed3f9f3258906a69ef5c815460a37d3e1355fd1ff2e4b3634c1a0a84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-130-2011",
+   "path": "ordin/iscir/2011/130",
+   "short": "Ordin iscir nr. 130/2011",
+   "title": "Ordinul nr. 130/2011 pentru aprobarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea tehnică a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129106",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129106",
+     "sha256": "c5ad6a3dd403c930696ce4d8a05d34d92633a3b0bcfdeb8a5e3862fcd5248f8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-165-2011",
+   "path": "ordin/iscir/2011/165",
+   "short": "Ordin iscir nr. 165/2011",
+   "title": "Ordinul nr. 165/2011 pentru aprobarea Metodologiei privind atestarea personalului tehnic de specialitate în domeniul ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130726",
+   "versions": [
+    {
+     "from": "2011-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130726",
+     "sha256": "170d88db3c7aa1d07927441ceb1b27bc910a15302e8af4e84eaa1628f312a9a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-259-2011",
+   "path": "ordin/iscir/2011/259",
+   "short": "Ordin iscir nr. 259/2011",
+   "title": "Ordinul nr. 259/2011 privind unele măsuri administrative în domeniul ISCIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134036",
+   "versions": [
+    {
+     "from": "2012-01-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134036",
+     "sha256": "7f33b4f38c16d0a35c5fa77a8b73f263e50e7378fe608235963a6299d0e3d92c"
     }
    ]
   },
@@ -11088,6 +11418,36 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-197-2011",
+   "path": "ordin/metrologie/2011/197",
+   "short": "Ordin metrologie nr. 197/2011",
+   "title": "Ordinul nr. 197/2011 privind modificarea anexei la Ordinul directorului general al Biroului Român de Metrologie Legală nr. 48/2010 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O.-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130159",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130159",
+     "sha256": "867443553950834fc541fb717c15ba65cb5c190244a643bc5bc764bdf514a01a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-330-2011",
+   "path": "ordin/metrologie/2011/330",
+   "short": "Ordin metrologie nr. 330/2011",
+   "title": "Ordinul nr. 330/2011 pentru modificarea art. 3 din Ordinul directorului general al Biroului Român de Metrologie Legală nr. 288/2005 privind aprobarea Normei de metrologie legală NML 005-05 \"Contoare de energie electrică activă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133415",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133415",
+     "sha256": "c777a7895b883f6cdc889a9d509d568547a14cd65cfbd092e8539804ab388c8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1062-2011",
    "path": "ordin/munca/2011/1062",
    "short": "Ordin munca nr. 1062/2011",
@@ -11669,6 +12029,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126151",
      "sha256": "27fb7a128d2c47bba5a34e2fa24dd3a3bf3f3ec6a7a323c7971f9b2b5979f18a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-95-2011",
+   "path": "ordin/onpcsb/2011/95",
+   "short": "Ordin onpcsb nr. 95/2011",
+   "title": "Ordinul nr. 95/2011 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor tranzacții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125786",
+   "versions": [
+    {
+     "from": "2011-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125786",
+     "sha256": "5ae006ec70181b728256e48a7346ebdea75cf93ca70268a9879925cbf62734df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-86-2011",
+   "path": "ordin/parchet/2011/86",
+   "short": "Ordin parchet nr. 86/2011",
+   "title": "Ordinul nr. 86/2011 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea funcției publice vacante de manager economic și a celorlalte posturi vacante sau temporar vacante de funcționari publici din cadrul Ministerului Public și a Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante sau temporar vacante de personal contractual din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129851",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129851",
+     "sha256": "468dbe22017bdcce6fbf51cee46b385b7fe50a422e6993c618d7a7f9a1214e1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rechizitii-81-2011",
+   "path": "ordin/rechizitii/2011/81",
+   "short": "Ordin rechizitii nr. 81/2011",
+   "title": "Ordinul nr. 81/2011 pentru aprobarea Nomenclatorului bunurilor rechiziționabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127856",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127856",
+     "sha256": "a76b44d48bac6c4320bc9a50dafbd256f32505d32f025d986694625ada6a6926"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-114-2011",
+   "path": "ordin/revolutionari/2011/114",
+   "short": "Ordin revolutionari nr. 114/2011",
+   "title": "Ordinul nr. 114/2011 privind aprobarea Programului pentru organizarea și desfășurarea activităților de cinstire și comemorare a eroilor-martiri decedați în Revoluția Română din Decembrie 1989, precum și de aniversare a 22 de ani de la Victoria Revoluției Române din Decembrie 1989, desfășurate de Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 în perioada 14-23 decembrie 2011 și finanțate din bugetul propriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133672",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133672",
+     "sha256": "6da920beeaa1da201b14c5c3225e5a74f21e11ddf8a6dbf76737babb2063665e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-74-2011",
+   "path": "ordin/revolutionari/2011/74",
+   "short": "Ordin revolutionari nr. 74/2011",
+   "title": "Ordinul nr. 74/2011 privind aprobarea Protocolului încheiat între Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 și Autoritatea Națională pentru Sport și Tineret privind trimiterea în tabere de odihnă a copiilor urmași ai eroilor martiri, precum și a celor cu părinți care dețin certificate doveditoare ale calității de revoluționar eliberate în baza prevederilor Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130299",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130299",
+     "sha256": "5dc11e4806abc01c59997bf3246a95937746dc5279afd9042f15992e9b4a45b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-revolutionari-87-2011",
+   "path": "ordin/revolutionari/2011/87",
+   "short": "Ordin revolutionari nr. 87/2011",
+   "title": "Ordinul nr. 87/2011 privind organizarea și desfășurarea activităților Școlii de Vară \"Revoluția Română din Decembrie 1989\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131218",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131218",
+     "sha256": "ef15609257aad299318d0e03551603f1f0df8de2cbfc1073207819e5ca0ac97d"
     }
    ]
   },
@@ -12760,8 +13210,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/134092",
    "versions": [
     {
-     "from": "2011-12-27",
-     "units": 137,
+     "from": "2012-01-01",
+     "units": 157,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134092",
      "sha256": "e29fe2054ef9f6da1101a8537369fe6493c9732db6fa51c9b3888416a984bd51"
     }
@@ -13619,6 +14069,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130987",
      "sha256": "a6dbc78edf6a1f9ef6eaa07fcd8ca7467f2409fa728e0abba13113f44c9e7aef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-10316-2011",
+   "path": "ordin/sie/2011/10316",
+   "short": "Ordin sie nr. 10316/2011",
+   "title": "Ordinul nr. 10.316/2011 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133481",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133481",
+     "sha256": "6f3abd4f248134c24c1b1eb70951cd9be666735e81a540df9210fa92e86057fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-10317-2011",
+   "path": "ordin/sie/2011/10317",
+   "short": "Ordin sie nr. 10317/2011",
+   "title": "Ordinul nr. 10.317/2011 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133482",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133482",
+     "sha256": "266f7cd51677f8769f245b7309f3d49129f36f510e4f1120eaa95826290ecb51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1318-2011",
+   "path": "ordin/sport/2011/1318",
+   "short": "Ordin sport nr. 1318/2011",
+   "title": "Ordinul nr. 1.318/2011 privind aprobarea modelului Protocolului pentru formarea și atestarea ca antrenor într-o ramură de sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130024",
+   "versions": [
+    {
+     "from": "2011-07-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130024",
+     "sha256": "8a13310ec28dbbdb352c9c719b685b1410bad40612e5c57b1dba954ebd2360ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-217-2011",
+   "path": "ordin/spp/2011/217",
+   "short": "Ordin spp nr. 217/2011",
+   "title": "Ordinul nr. 217/2011 privind conferirea Semnului onorific În Serviciul Patriei pentru ofițerii din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133328",
+   "versions": [
+    {
+     "from": "2011-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133328",
+     "sha256": "eefd56af71d247505c4aa50a5a9a273c84c45581e248e01bb8868d0b53f199d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-420-2011",
+   "path": "ordin/sri/2011/420",
+   "short": "Ordin sri nr. 420/2011",
+   "title": "Ordinul nr. 420/2011 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133293",
+   "versions": [
+    {
+     "from": "2011-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133293",
+     "sha256": "abc20e278e796b0f136d724fa078f4f053079ed7274eab3d9382e655ebb3fc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-421-2011",
+   "path": "ordin/sri/2011/421",
+   "short": "Ordin sri nr. 421/2011",
+   "title": "Ordinul nr. 421/2011 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133294",
+   "versions": [
+    {
+     "from": "2011-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133294",
+     "sha256": "7cec0110c1974f27493d7f326fdd755316e747967d5700b43b96189024856251"
     }
    ]
   },

@@ -3,6 +3,36 @@
  "shard": "ordin/2023",
  "acts": [
   {
+   "slug": "ordin-achizitii-1554-2023",
+   "path": "ordin/achizitii/2023/1554",
+   "short": "Ordin achizitii nr. 1554/2023",
+   "title": "Ordinul nr. 1.554/2023 privind aprobarea structurii și conținutului Documentației standard de atribuire a contractului de achiziție publică/sectorială de produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274251",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274251",
+     "sha256": "42708a6db78a10532d4eea58fcb5a25eeb8c531793fe618495b26f68128698e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-2395-2023",
+   "path": "ordin/achizitii/2023/2395",
+   "short": "Ordin achizitii nr. 2395/2023",
+   "title": "Ordinul nr. 2.395/2023 pentru aprobarea criteriilor ecologice aplicabile categoriilor de produse care au impact asupra mediului pe durata întregului ciclu de viață, prevăzute în anexa nr. 2 la Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, respectiv în anexa nr. 2 la Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277893",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277893",
+     "sha256": "5f2f311d2e954f8829ad2c6452e39cccaf82a12c040e409bddbff55652d4af10"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1-2023",
    "path": "ordin/agricultura/2023/1",
    "short": "Ordin agricultura nr. 1/2023",
@@ -1878,6 +1908,111 @@
    ]
   },
   {
+   "slug": "ordin-anfp-115-2023",
+   "path": "ordin/anfp/2023/115",
+   "short": "Ordin anfp nr. 115/2023",
+   "title": "Ordinul nr. 115/2023 pentru aprobarea Instrucțiunilor de publicare a anunțului privind organizarea etapei de selecție a proiectului-pilot al concursului de ocupare a unor funcții publice vacante pe site-ul Agenției Naționale a Funcționarilor Publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264752",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264752",
+     "sha256": "0b160db6e6960bc08e8896ccc96bdc2013703e97aab91b29c92f296aa11fd22c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-205-2023",
+   "path": "ordin/anfp/2023/205",
+   "short": "Ordin anfp nr. 205/2023",
+   "title": "Ordinul nr. 205/2023 pentru aprobarea conținutului formularului tipizat și caracteristicilor de tipărire ale procesului-verbal de constatare a contravențiilor și aplicare a sancțiunilor de către reprezentanții Agenției Naționale a Funcționarilor Publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265691",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265691",
+     "sha256": "6d0336d4f353f04c62b677f380b960a57733377e370b751c0618c1d93403bbea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-351-2023",
+   "path": "ordin/anfp/2023/351",
+   "short": "Ordin anfp nr. 351/2023",
+   "title": "Ordinul nr. 351/2023 pentru aprobarea procedurii și a condițiilor tehnice pentru înregistrarea audio-video a probelor de concurs ale proiectului-pilot al concursului de ocupare a unor funcții publice vacante, accesul la înregistrarea probelor de concurs și stocarea înregistrării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267259",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267259",
+     "sha256": "1ee29df1a2f3298fb68296405c81ffe1874c4b9a1dec6f550a729bf98e3f47a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-439-2023",
+   "path": "ordin/anfp/2023/439",
+   "short": "Ordin anfp nr. 439/2023",
+   "title": "Ordinul nr. 439/2023 privind modificarea și completarea anexei la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 351/2023 pentru aprobarea procedurii și a condițiilor tehnice pentru înregistrarea audio-video a probelor de concurs ale proiectului-pilot al concursului de ocupare a unor funcții publice vacante, accesul la înregistrarea probelor de concurs și stocarea înregistrării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271089",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271089",
+     "sha256": "426732184ea564e6b946f54f4575d5268b2f751991598ed9d9c19a8c328a37b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-72-2023",
+   "path": "ordin/anfp/2023/72",
+   "short": "Ordin anfp nr. 72/2023",
+   "title": "Ordinul nr. 72/2023 pentru aprobarea formatului standard al informațiilor referitoare la raportul de serviciu al funcționarului public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264472",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264472",
+     "sha256": "2a125c926d744e92bd4691360caf2f1ac4eb4f01c9ab37bd652e742b03a47817"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-903-2023",
+   "path": "ordin/anfp/2023/903",
+   "short": "Ordin anfp nr. 903/2023",
+   "title": "Ordinul nr. 903/2023 privind modificarea anexei la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 72/2023 pentru aprobarea formatului standard al informațiilor referitoare la raportul de serviciu al funcționarului public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274929",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274929",
+     "sha256": "8e9fbf60383f76cca6aff128dd917399755bbf82520807b990763b98b4084d0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-93-2023",
+   "path": "ordin/anfp/2023/93",
+   "short": "Ordin anfp nr. 93/2023",
+   "title": "Ordinul nr. 93/2023 pentru stabilirea termenului de comunicare a datelor privind comisiile paritare și acordurile colective pentru anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264428",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264428",
+     "sha256": "45709fd30e73e47cfba2b933448a2ee88c224bac9d0ea65b8150a020bee38502"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-119-2023",
    "path": "ordin/anmcs/2023/119",
    "short": "Ordin anmcs nr. 119/2023",
@@ -2039,6 +2174,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265713",
      "sha256": "7984bfafc112df8a1a1ba6f9f6bf9dbb2d478243f92fecf2d99287b81a732681"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-330-2023",
+   "path": "ordin/anofm/2023/330",
+   "short": "Ordin anofm nr. 330/2023",
+   "title": "Ordinul nr. 330/2023 pentru modificarea și completarea Procedurii privind activitatea de control, de îndeplinire a măsurilor asigurătorii, precum și de efectuare a executării silite a debitelor rezultate din nerespectarea prevederilor Legii nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare, aprobată prin Ordinul președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 279/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270850",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270850",
+     "sha256": "50789fbc8eaa45109ed8c8978d6c006de8a95f8c1271dec64f142269955b698f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-331-2023",
+   "path": "ordin/anofm/2023/331",
+   "short": "Ordin anofm nr. 331/2023",
+   "title": "Ordinul nr. 331/2023 pentru modificarea Ordinului președintelui Agenției Naționale pentru Ocuparea Forței de Muncă nr. 619/2006 privind aprobarea modelului și conținutului formularelor tipizate ale procesului-verbal de constatare și sancționare a contravențiilor și înștiințării de plată pentru debitor, destinate utilizării în activitatea de control desfășurată de organele de control măsuri active ale Agenției Naționale pentru Ocuparea Forței de Muncă și ale structurilor sale teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270851",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270851",
+     "sha256": "638cb4c62a608734ff054c3ba82bf7df2106bd0e59b176ac4b1eb870426f88da"
     }
    ]
   },
@@ -3393,6 +3558,36 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-201-2023",
+   "path": "ordin/anrsc/2023/201",
+   "short": "Ordin anrsc nr. 201/2023",
+   "title": "Ordinul nr. 201/2023 pentru modificarea și completarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile de salubrizare, precum și de calculare a tarifelor/taxelor distincte pentru gestionarea deșeurilor și a taxelor de salubrizare, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 640/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266112",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266112",
+     "sha256": "35800e7bb15e63d1563c598f2cd35bf97096af860455f9ae7af6aaef3a2bc7ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-299-2023",
+   "path": "ordin/anrsc/2023/299",
+   "short": "Ordin anrsc nr. 299/2023",
+   "title": "Ordinul nr. 299/2023 privind abrogarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 259/2004 pentru aprobarea Normelor privind autorizarea în domeniul montării și exploatării sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270141",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270141",
+     "sha256": "4710747aaacc83561ccc23b7d5e49f13d51ef1a194465a21e9a8abff5272bf5f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-10-2023",
    "path": "ordin/ansvsa/2023/10",
    "short": "Ordin ansvsa nr. 10/2023",
@@ -3854,6 +4049,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273648",
      "sha256": "a5e180bd7d31f3ccb766469decfc0e6e39e55376374ad42b93ae3538f9aa83d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-185-2023",
+   "path": "ordin/antidoping/2023/185",
+   "short": "Ordin antidoping nr. 185/2023",
+   "title": "Ordinul nr. 185/2023 privind aprobarea Listei interzise pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275863",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275863",
+     "sha256": "e084040408fb271415e6c480ec3204432a37628f833ad4a03bede0fe2f5a33f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-234-2023",
+   "path": "ordin/antidoping/2023/234",
+   "short": "Ordin antidoping nr. 234/2023",
+   "title": "Ordinul nr. 234/2023 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor prevăzute de Legea nr. 310/2021 privind prevenirea și combaterea dopajului în sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278242",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278242",
+     "sha256": "3f1e3dbf8fbd51764a9a0e542aa216329a1dacdaae1b69e2501c3593057faa7b"
     }
    ]
   },
@@ -4773,6 +4998,36 @@
    ]
   },
   {
+   "slug": "ordin-camera-213-2023",
+   "path": "ordin/camera/2023/213",
+   "short": "Ordin camera nr. 213/2023",
+   "title": "Ordinul nr. 213/2023 pentru modificarea art. 15 alin. (4) din Ordinul secretarului general al Camerei Deputaților nr. 367/2022 privind procedurile publicării, republicării și rectificării, precum și ale publicării în numere speciale a actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264737",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264737",
+     "sha256": "0ce6149c145d28192c6d721fa139b297478458fb2557b34506c6b3a87de6aaa6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cear-4-2023",
+   "path": "ordin/cear/2023/4",
+   "short": "Ordin cear nr. 4/2023",
+   "title": "Ordinul nr. 4/2023 privind constituirea și operaționalizarea Registrului Centrului Euro-Atlantic pentru Reziliență privind experții asociați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263997",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263997",
+     "sha256": "a4acffeeb31c950f3746fc83add145114f06d73bebc0f7983e5a590e8389ef78"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-1007-2023",
    "path": "ordin/cnas/2023/1007",
    "short": "Ordin cnas nr. 1007/2023",
@@ -5328,6 +5583,171 @@
    ]
   },
   {
+   "slug": "ordin-cncan-14-2023",
+   "path": "ordin/cncan/2023/14",
+   "short": "Ordin cncan nr. 14/2023",
+   "title": "Ordinul nr. 14/2023 pentru modificarea și completarea Normelor de securitate nucleară privind limitele și condițiile tehnice de operare pentru instalațiile nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 199/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264606",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264606",
+     "sha256": "4d5d00e03ffa5304730009dd782425be4cbfee31129d89e91b9872a6ed5883a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-153-2023",
+   "path": "ordin/cncan/2023/153",
+   "short": "Ordin cncan nr. 153/2023",
+   "title": "Ordinul nr. 153/2023 privind aprobarea Metodologiei pentru determinarea concentrației de radon în aerul din interiorul clădirilor și de la locurile de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273600",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273600",
+     "sha256": "35b76905e464bd6b9a9963e8c6235ec0fb84403c7ab920c3b63807be8e6c04ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-154-2023",
+   "path": "ordin/cncan/2023/154",
+   "short": "Ordin cncan nr. 154/2023",
+   "title": "Ordinul nr. 154/2023 pentru aprobarea Normelor de securitate radiologică privind desfășurarea practicilor de control al parametrilor de proces cu radiații ionizante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273880",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273880",
+     "sha256": "c462bc2c55ef5db9f6aed391b6b70c0e3738659fa7423b1bf8dae2179952f296"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-182-2023",
+   "path": "ordin/cncan/2023/182",
+   "short": "Ordin cncan nr. 182/2023",
+   "title": "Ordinul nr. 182/2023 pentru aprobarea Normelor privind cerințele pentru angajarea, pregătirea și calificarea personalului care asigură paza și/sau protecția fizică a materialelor și a instalațiilor protejate din domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275126",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275126",
+     "sha256": "25d3012ed496f3f01eb1fcd3f532112b2044c0da6d85092a071094c54cca3f0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-37-2023",
+   "path": "ordin/cncan/2023/37",
+   "short": "Ordin cncan nr. 37/2023",
+   "title": "Ordinul nr. 37/2023 pentru modificarea și completarea Normelor de securitate nucleară privind selecția, pregătirea, calificarea și autorizarea personalului organizațiilor responsabile pentru proiectarea, amplasarea, construcția și montajul, punerea în funcțiune, exploatarea și dezafectarea instalațiilor nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 149/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265597",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265597",
+     "sha256": "760acf6f515a6e626893634c8d14a0e1915c5398b65f08c25e81d6952c80c222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-51-2023",
+   "path": "ordin/cncan/2023/51",
+   "short": "Ordin cncan nr. 51/2023",
+   "title": "Ordinul nr. 51/2023 pentru modificarea și completarea Normelor privind eliberarea permiselor de exercitare pentru personalul operator, personalul de conducere și personalul de pregătire specifică din centralele nuclearoelectrice, reactoarele de cercetare și din alte instalații nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 61/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266353",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266353",
+     "sha256": "a1407b0a9ab27a3351a219fb1264f49006b615db9ba980b4a0ba9efc9bac54dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-53-2023",
+   "path": "ordin/cncan/2023/53",
+   "short": "Ordin cncan nr. 53/2023",
+   "title": "Ordinul nr. 53/2023 pentru modificarea și completarea Normelor privind autorizarea instalațiilor nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 336/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266608",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266608",
+     "sha256": "d43f9c9451bb633c18c1d33bf39a9e663a623d9e7436d694a86561bf1b1ef3e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-119-2023",
+   "path": "ordin/cnpp/2023/119",
+   "short": "Ordin cnpp nr. 119/2023",
+   "title": "Ordinul nr. 119/2023 privind desemnarea Casei Județene de Pensii Bihor ca instituție competentă pentru instrumentarea efectivă a cererilor de transfer al drepturilor de pensie ale funcționarilor UE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266251",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266251",
+     "sha256": "44ed674433e629cc35e723f6fbd367cc34330a4e350101ce0eb1d43545bd2871"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-299-2023",
+   "path": "ordin/cnpp/2023/299",
+   "short": "Ordin cnpp nr. 299/2023",
+   "title": "Ordinul nr. 299/2023 privind aprobarea limitelor maxime ale tarifelor solicitate pentru serviciile arhivistice prestate de către operatorii economici autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275010",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275010",
+     "sha256": "b50e8e22ca0b3c834be01c6535ef7367ec83426816f7c18d7f12e2a7bbcd0b4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-865-2023",
+   "path": "ordin/cnpp/2023/865",
+   "short": "Ordin cnpp nr. 865/2023",
+   "title": "Ordinul nr. 865/2023 privind reglementarea modalităților de certificare a copiilor documentelor care atestă vechimea în muncă realizată anterior datei de 1 aprilie 2001 și a copiilor documentelor care atestă perioadele asimilate, precum și a existenței beneficiarilor nerezidenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277289",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277289",
+     "sha256": "42a2ffd439f42ca0a45c6a020feb0d4122f8fed828a39567131869158411c21d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-877-2023",
+   "path": "ordin/cnpp/2023/877",
+   "short": "Ordin cnpp nr. 877/2023",
+   "title": "Ordinul nr. 877/2023 pentru aprobarea modelului deciziei privind stabilirea pensiei de transfer în cazul funcționarilor și agenților Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277646",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277646",
+     "sha256": "b7a9fbed8e5f74743837434bd3182199d50b04372944f6a64c4a01356fdce735"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-20119-2023",
    "path": "ordin/comunicatii/2023/20119",
    "short": "Ordin comunicatii nr. 20119/2023",
@@ -5774,6 +6194,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264677",
      "sha256": "eb6d46e24269bc4350f94b5502e9970b594c6826d27deca9648ef4abbc3e3eb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-55-2023",
+   "path": "ordin/culte/2023/55",
+   "short": "Ordin culte nr. 55/2023",
+   "title": "Ordinul nr. 55/2023 privind modificarea și completarea Statutului de organizare și funcționare al Bisericii Adventiste de Ziua a Șaptea din România, recunoscut prin Hotărârea Guvernului nr. 399/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267245",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267245",
+     "sha256": "db02e20489842c82da805243c7309995c6bd1b112f5072b5525b7a1a34c7e81f"
     }
    ]
   },
@@ -6869,6 +7304,96 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271149",
      "sha256": "db4bc78e989ea1feb679a7dff31d03472c18c622b370f965e12c46804b45b550"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-1114-2023",
+   "path": "ordin/dizabilitati/2023/1114",
+   "short": "Ordin dizabilitati nr. 1114/2023",
+   "title": "Ordinul nr. 1.114/2023 privind modificarea și completarea Metodologiei de modificare a planului de restructurare a centrelor rezidențiale pentru persoanele adulte cu handicap, ale cărui activități au fost planificate până la 31 decembrie 2021, aprobată prin Ordinul președintelui Autorității Naționale pentru Protecția Drepturilor Persoanelor cu Dizabilități nr. 635/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277601",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277601",
+     "sha256": "c08f4b1192d11d0c6a0da6706924d6262803bd686649ca009dfb9842d6d3ebc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-160-2023",
+   "path": "ordin/dizabilitati/2023/160",
+   "short": "Ordin dizabilitati nr. 160/2023",
+   "title": "Ordinul nr. 160/2023 privind aprobarea Metodologiei pentru acordarea și decontarea de bonuri de carburant și/sau de bonuri valorice pentru alimentarea mijloacelor de transport electrice ori pentru decontarea carburantului necesar deplasării cu autoturismul, pentru aplicarea art. 24 alin. (9) și (10) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265288",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265288",
+     "sha256": "b08d3c729d7bdeb9b2be2090d98ee67831b61e5f5deefce712aa9069bf036efe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-163-2023",
+   "path": "ordin/dizabilitati/2023/163",
+   "short": "Ordin dizabilitati nr. 163/2023",
+   "title": "Ordinul nr. 163/2023 privind implementarea formatului unic al cardului-legitimație de parcare pentru persoanele cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265369",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265369",
+     "sha256": "a8d55fe0795dd06de03e762f9260753c817bd77a7a85419cc8cd168d36b27482"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-235-2023",
+   "path": "ordin/dizabilitati/2023/235",
+   "short": "Ordin dizabilitati nr. 235/2023",
+   "title": "Ordinul nr. 235/2023 privind aprobarea Metodologiei de admitere a persoanelor adulte cu dizabilități în mediul rezidențial, prevăzută la art. 13 din Legea nr. 7/2023 privind susținerea procesului de dezinstituționalizare a persoanelor adulte cu dizabilități și aplicarea unor măsuri de accelerare a acestuia și de prevenire a instituționalizării, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266663",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266663",
+     "sha256": "696e242d45a5d0ab4c4a0c1beabd3c71d8a7fdbf9d2c3f5d56f05d2f685f18b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-360-2023",
+   "path": "ordin/dizabilitati/2023/360",
+   "short": "Ordin dizabilitati nr. 360/2023",
+   "title": "Ordinul nr. 360/2023 privind aprobarea Regulamentului de organizare și funcționare a Comitetului național pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267554",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267554",
+     "sha256": "fbd5d996bdb643266a5ebd042ac7b883b494a6f7abdcd00755e1dab6ce3e3986"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-637-2023",
+   "path": "ordin/dizabilitati/2023/637",
+   "short": "Ordin dizabilitati nr. 637/2023",
+   "title": "Ordinul nr. 637/2023 privind aprobarea instrumentarului de colectare și raportare a datelor utilizat pentru a culege datele necesare pentru calcularea indicatorilor, precum și a modelelor rapoartelor de monitorizare și evaluare pentru monitorizarea implementării Convenției privind drepturile persoanelor cu dizabilități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271547",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271547",
+     "sha256": "a710aeac60983ee3086d0089ea0217815caff1c1e644befc6b0f5ad885470faa"
     }
    ]
   },
@@ -8898,6 +9423,126 @@
    ]
   },
   {
+   "slug": "ordin-familie-20305-2023",
+   "path": "ordin/familie/2023/20305",
+   "short": "Ordin familie nr. 20305/2023",
+   "title": "Ordinul nr. 20.305/2023 pentru modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie, aprobat prin Ordinul ministrului familiei, tineretului și egalității de șanse nr. 20.898/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266723",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266723",
+     "sha256": "13ef210a4eceea13175b57ca9636826aa9e18dedceb0db8442d9f31cc9ce05f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20349-2023",
+   "path": "ordin/familie/2023/20349",
+   "short": "Ordin familie nr. 20349/2023",
+   "title": "Ordinul nr. 20.349/2023 pentru aprobarea Metodologiei privind organizarea taberelor studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270142",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270142",
+     "sha256": "1abea721ab92ea049de00ca2654d3abb63535a8b499020e2d5f5907cc09c93c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20645-2023",
+   "path": "ordin/familie/2023/20645",
+   "short": "Ordin familie nr. 20645/2023",
+   "title": "Ordinul nr. 20.645/2023 privind aprobarea Metodologiei pentru Concursul național de proiecte de tineret și studenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273700",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273700",
+     "sha256": "0d9f300e54e5dbfc32120001cb56b2d476f8ed20af7aab2768f9c0d3d616b8ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20689-2023",
+   "path": "ordin/familie/2023/20689",
+   "short": "Ordin familie nr. 20689/2023",
+   "title": "Ordinul nr. 20.689/2023 pentru modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie, aprobat prin Ordinul ministrului familiei, tineretului și egalității de șanse nr. 20.898/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273949",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273949",
+     "sha256": "02f528dd4ddfd552c924dbc643ca82cad7e5207ed9b354fd1eda9b36090b80b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20910-2023",
+   "path": "ordin/familie/2023/20910",
+   "short": "Ordin familie nr. 20910/2023",
+   "title": "Ordinul nr. 20.910/2023 pentru modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie, aprobat prin Ordinul ministrului familiei, tineretului și egalității de șanse nr. 20.898/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276053",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276053",
+     "sha256": "91664a342862011f6a51e4d0fdec6cdbbe71c78d042c4adc489107e49945c8c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-20985-2023",
+   "path": "ordin/familie/2023/20985",
+   "short": "Ordin familie nr. 20985/2023",
+   "title": "Ordinul nr. 20.985/2023 pentru modificarea Ghidului specific - Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie, aprobat prin Ordinul ministrului familiei, tineretului și egalității de șanse nr. 20.898/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276284",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276284",
+     "sha256": "79a29cad7cbb43ccbb33a966d4de814a5d6919e07b9874f9a7be0297eff6a6d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-21107-2023",
+   "path": "ordin/familie/2023/21107",
+   "short": "Ordin familie nr. 21107/2023",
+   "title": "Ordinul nr. 21.107/2023 pentru aprobarea Metodologiei privind organizarea taberelor studențești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278032",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278032",
+     "sha256": "90a06d0a9ffa2b07dc24877fb56c96037dd869d41c460f86736fd228c1b8934b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-familie-21108-2023",
+   "path": "ordin/familie/2023/21108",
+   "short": "Ordin familie nr. 21108/2023",
+   "title": "Ordinul nr. 21.108/2023 privind aprobarea Metodologiei pentru Concursul național de proiecte de tineret și studenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278033",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278033",
+     "sha256": "4dae9614024955f9e0af846d06d369c0ae48038709f902ced7e2c82bc517683b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1058-2023",
    "path": "ordin/finante/2023/1058",
    "short": "Ordin finante nr. 1058/2023",
@@ -10728,6 +11373,81 @@
    ]
   },
   {
+   "slug": "ordin-iccj-78-2023",
+   "path": "ordin/iccj/2023/78",
+   "short": "Ordin iccj nr. 78/2023",
+   "title": "Ordinul nr. 78/2023 pentru aprobarea Regulamentului privind procedura și criteriile de evaluare profesională a magistraților-asistenți din cadrul Înaltei Curți de Casație și Justiție și procedura privind promovarea în gradul imediat următor a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265643",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265643",
+     "sha256": "c90d885bd07e9bcbe521d24a827088090562a84add5b468cd31d81c255e1a9c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iccj-81-2023",
+   "path": "ordin/iccj/2023/81",
+   "short": "Ordin iccj nr. 81/2023",
+   "title": "Ordinul nr. 81/2023 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție și a Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcțiile de prim-magistrat-asistent și magistrat-asistent-șef la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265565",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265565",
+     "sha256": "5b23f9516a32e78ac3233d9b6f9e084466eaa19003a736ce479edc2f500f17c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ina-114-2023",
+   "path": "ordin/ina/2023/114",
+   "short": "Ordin ina nr. 114/2023",
+   "title": "Ordinul nr. 114/2023 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici - 2023, promoția Constantin G. Rarincescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267608",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267608",
+     "sha256": "bba697dac3fd529d309b6ac57f6666744dff0e9b87df7e68dbe63050732498d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1539-2023",
+   "path": "ordin/ins/2023/1539",
+   "short": "Ordin ins nr. 1539/2023",
+   "title": "Ordinul nr. 1.539/2023 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intra-UE cu bunuri în anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276368",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276368",
+     "sha256": "1f5f2bf7bf47081a5ad29c81360f020712b4d4c70aae270ac0a0d3772d29c0b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-1822-2023",
+   "path": "ordin/integritate/2023/1822",
+   "short": "Ordin integritate nr. 1822/2023",
+   "title": "Ordinul nr. 1.822/2023 pentru aprobarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate și a Structurii organizatorice a Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264576",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264576",
+     "sha256": "c2a03c9fd6269ed61dafdbea17f790a247dfb89c3cd0f8035617826773fb43c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1-2023",
    "path": "ordin/interne/2023/1",
    "short": "Ordin interne nr. 1/2023",
@@ -11489,6 +12209,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271794",
      "sha256": "c913b4b2208000a3d7bd6a5a4b8f37a56c7d5b2a01e7f03b1a8d67525687a422"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-114-2023",
+   "path": "ordin/iscir/2023/114",
+   "short": "Ordin iscir nr. 114/2023",
+   "title": "Ordinul nr. 114/2023 privind abrogarea Ordinului inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 163/2012 pentru aprobarea Metodologiei privind prelungirea autorizării de funcționare și modificarea termenelor scadente pentru realizarea verificărilor tehnice periodice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275410",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275410",
+     "sha256": "1e04afeee5cf021c399929ccf6d6ff0696d11810743bf9b57caf99b690adfd42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-iscir-39-2023",
+   "path": "ordin/iscir/2023/39",
+   "short": "Ordin iscir nr. 39/2023",
+   "title": "Ordinul nr. 39/2023 pentru modificarea Metodologiei privind autorizarea operatorului responsabil cu supravegherea tehnică a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI, aprobată prin Ordinul inspectorului de stat șef al Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat nr. 130/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273899",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273899",
+     "sha256": "f373023fb67fc9974df252f3e2bceaf8c768dadbe4c06e617347258620c0ab63"
     }
    ]
   },
@@ -13098,6 +13848,21 @@
    ]
   },
   {
+   "slug": "ordin-moldova-509-2023",
+   "path": "ordin/moldova/2023/509",
+   "short": "Ordin moldova nr. 509/2023",
+   "title": "Ordinul nr. 509/2023 pentru aprobarea Ghidului și a Documentarului de finanțare nerambursabilă - D.R.R.M. 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264531",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264531",
+     "sha256": "7ba927c31546159b56b87a85d00d9a88418fac5f3eb1fa3a8eb6f7aa15a33544"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1052-2023",
    "path": "ordin/munca/2023/1052",
    "short": "Ordin munca nr. 1052/2023",
@@ -13364,6 +14129,186 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271372",
      "sha256": "ef420501a5924a33ee62c7c82df04c0a706179a44160e3daff4f0914f0e10c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-142-2023",
+   "path": "ordin/onjn/2023/142",
+   "short": "Ordin onjn nr. 142/2023",
+   "title": "Ordinul nr. 142/2023 pentru aprobarea modelelor unor formulare emise și utilizate în domeniul colectării creanței bugetare reprezentând contribuția anuală reglementată la art. 10 alin. (4)-(6^1) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, precum și a caracteristicilor de tipărire, modul de difuzare, utilizare și păstrare a acestor formulare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273736",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273736",
+     "sha256": "46d8fae563a85ddeff315c3d04f83fd2e30b2e21f23c383176419c74129a170f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-181-2023",
+   "path": "ordin/onjn/2023/181",
+   "short": "Ordin onjn nr. 181/2023",
+   "title": "Ordinul nr. 181/2023 privind aprobarea condițiilor procesului de fuziune, divizare sau transfer de afaceri de către organizatorii de jocuri de noroc la distanță care la data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 82/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 20/2013 privind înființarea, organizarea și funcționarea Oficiului Național pentru Jocuri de Noroc și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 77/2009 nu îndeplinesc condiția prevăzută la art. 15 alin. (1) lit. B pct. (x) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275720",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275720",
+     "sha256": "637a48272f65602c468eba98fc68bafb9d7ff7c90157d811ab07262e15d546a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-191-2023",
+   "path": "ordin/onpcsb/2023/191",
+   "short": "Ordin onpcsb nr. 191/2023",
+   "title": "Ordinul nr. 191/2023 privind aprobarea formei și conținutului rapoartelor prevăzute la art. 6 și 7 din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative și a metodologiei de transmitere a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271965",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271965",
+     "sha256": "0c9b23ac3234a86f82d9ef2cb0ad457e86fe28766c4584e1e1a496ddf20a6098"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-192-2023",
+   "path": "ordin/onpcsb/2023/192",
+   "short": "Ordin onpcsb nr. 192/2023",
+   "title": "Ordinul nr. 192/2023 pentru aprobarea Regulamentului privind transmiterea informațiilor către Oficiul Național de Prevenire și Combatere a Spălării Banilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271966",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271966",
+     "sha256": "29faceb2ee2150d97215fee18571263846e6ee796ea42634822e12bcc7239fe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-215-2023",
+   "path": "ordin/onpcsb/2023/215",
+   "short": "Ordin onpcsb nr. 215/2023",
+   "title": "Ordinul nr. 215/2023 pentru aprobarea Regulamentului privind înregistrarea entității raportoare în evidențele Oficiului Național de Prevenire și Combatere a Spălării Banilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273932",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273932",
+     "sha256": "8ffdc224002fea443e60f3a03b300a1310beac4ae900174745a7fb1dda384a95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-261-2023",
+   "path": "ordin/onpcsb/2023/261",
+   "short": "Ordin onpcsb nr. 261/2023",
+   "title": "Ordinul nr. 261/2023 pentru prorogarea termenului prevăzut la art. 3 din Ordinul președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 191/2023 privind aprobarea formei și conținutului rapoartelor prevăzute la art. 6 și 7 din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative și a metodologiei de transmitere a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276013",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276013",
+     "sha256": "01f03846e3b6a4eb191517815abd031af341fde92eba4fd1bc05aac4cc18025d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-114-2023",
+   "path": "ordin/orniss/2023/114",
+   "short": "Ordin orniss nr. 114/2023",
+   "title": "Ordinul nr. 114/2023 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267563",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267563",
+     "sha256": "8259a1a7a95a16e84547f6208c696be1bb85b0e0a946ad6904edc04099c23603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-188-2023",
+   "path": "ordin/orniss/2023/188",
+   "short": "Ordin orniss nr. 188/2023",
+   "title": "Ordinul nr. 188/2023 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271565",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271565",
+     "sha256": "579eee271ad43fbee59503b69d79bfda73b69225c58871cb23f4023aee8bfbe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-25-2023",
+   "path": "ordin/orniss/2023/25",
+   "short": "Ordin orniss nr. 25/2023",
+   "title": "Ordinul nr. 25/2023 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270092",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270092",
+     "sha256": "8d51012ef9137bac0e6bd9eb29ab0b5c3c867147108d165a8d3d242f4000fcbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-74-2023",
+   "path": "ordin/orniss/2023/74",
+   "short": "Ordin orniss nr. 74/2023",
+   "title": "Ordinul nr. 74/2023 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014, aprobat prin Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 34/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263999",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263999",
+     "sha256": "e5a3477cadc7ef9fbdc603f9a6a22f13f0b0e25f18e95a876d92e0aafff3a08e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-rezervestat-14-2023",
+   "path": "ordin/rezervestat/2023/14",
+   "short": "Ordin rezervestat nr. 14/2023",
+   "title": "Ordinul nr. 14/2023 pentru aprobarea Normelor metodologice de aplicare la nivelul Administrației Naționale a Rezervelor de Stat și Probleme Speciale a Hotărârii Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264639",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264639",
+     "sha256": "4f44e3af6b0e991c4ccdf93b9b1523bb0fef24fcc4de57f675faecc9b18feb55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-romaniipretutindeni-233-2023",
+   "path": "ordin/romaniipretutindeni/2023/233",
+   "short": "Ordin romaniipretutindeni nr. 233/2023",
+   "title": "Ordinul nr. 233/2023 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 86/2016 privind instituirea centrelor comunitare românești în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276696",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276696",
+     "sha256": "4bc1ebd3a4cc11bd970ddafaee816ec4e496919ace98fa79c69500aecb1c4af6"
     }
    ]
   },
@@ -15903,6 +16848,276 @@
    ]
   },
   {
+   "slug": "ordin-sie-403-2023",
+   "path": "ordin/sie/2023/403",
+   "short": "Ordin sie nr. 403/2023",
+   "title": "Ordinul nr. 403/2023 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276426",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276426",
+     "sha256": "63c689c5fd228ef7ff0153aee4da7559f45f9601a6ee3864beca4a220641fef1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-404-2023",
+   "path": "ordin/sie/2023/404",
+   "short": "Ordin sie nr. 404/2023",
+   "title": "Ordinul nr. 404/2023 privind conferirea Semnului onorific În Serviciul Patriei unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276427",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276427",
+     "sha256": "aea2765cfbb5265902f1725e925caab3a967b3d24f10d4a6d0bfb387b88fc083"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-12-2023",
+   "path": "ordin/sport/2023/12",
+   "short": "Ordin sport nr. 12/2023",
+   "title": "Ordinul nr. 12/2023 pentru aprobarea programelor sportive de utilitate publică și a metodologiei de finanțare a federațiilor sportive naționale și a Comitetului Național Paralimpic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263836",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263836",
+     "sha256": "766a4a0f72075166ace9076b19a264fba2fd2c675c6175a2a2c48581fce61546"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-133-2023",
+   "path": "ordin/sport/2023/133",
+   "short": "Ordin sport nr. 133/2023",
+   "title": "Ordinul nr. 133/2023 pentru modificarea și completarea anexei la Ordinul ministrului tineretului și sportului nr. 711/2019 privind aprobarea Metodologiei de recunoaștere a titlurilor de calificare profesională pentru profesia de antrenor, obținute într-un stat membru al Uniunii Europene, al Spațiului Economic European, în Confederația Elvețiană sau într-un stat terț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266049",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266049",
+     "sha256": "00d118a39e0b0351944c128b1dbaaf38fa010683f722270df3d5787dd43309af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-177-2023",
+   "path": "ordin/sport/2023/177",
+   "short": "Ordin sport nr. 177/2023",
+   "title": "Ordinul nr. 177/2023 privind aprobarea Programului național de utilitate publică \"Dezvoltarea sportului școlar și universitar\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267134",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267134",
+     "sha256": "b995c33a03d452fe2687ee1459b9594b8f5cb42f59552479fa44c8389e0678e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-245-2023",
+   "path": "ordin/sport/2023/245",
+   "short": "Ordin sport nr. 245/2023",
+   "title": "Ordinul nr. 245/2023 privind modificarea Ordinului ministrului sportului nr. 12/2023 pentru aprobarea programelor sportive de utilitate publică și a metodologiei de finanțare a federațiilor sportive naționale și a Comitetului Național Paralimpic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274247",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274247",
+     "sha256": "2153f65a2fb6467d663c7a09386a446c4ba7bc0ce785ba967b2593103d6f63eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-256-2023",
+   "path": "ordin/sport/2023/256",
+   "short": "Ordin sport nr. 256/2023",
+   "title": "Ordinul nr. 256/2023 privind modificarea Ordinului ministrului sportului nr. 12/2023 pentru aprobarea programelor sportive de utilitate publică și a metodologiei de finanțare a federațiilor sportive naționale și a Comitetului Național Paralimpic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274454",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274454",
+     "sha256": "bb726238dd68ef4f03b0870519f5822d6c708f432b3b652ce0c3954955720dd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-263-2023",
+   "path": "ordin/sport/2023/263",
+   "short": "Ordin sport nr. 263/2023",
+   "title": "Ordinul nr. 263/2023 privind recunoașterea oficială a practicării în România a ramurii de sport \"Catchball\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274664",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274664",
+     "sha256": "c2b94551409893eebd1760a2f1b658b5906861df62f38686cb2667dfa90adc38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-302-2023",
+   "path": "ordin/sport/2023/302",
+   "short": "Ordin sport nr. 302/2023",
+   "title": "Ordinul nr. 302/2023 pentru aprobarea Regulamentului privind constituirea Registrului național al sportivilor și antrenorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275445",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275445",
+     "sha256": "246a80d90a27d4d4359783bb89ca805bed062d4136a584f90989a0cbadb6c594"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-436-2023",
+   "path": "ordin/sport/2023/436",
+   "short": "Ordin sport nr. 436/2023",
+   "title": "Ordinul nr. 436/2023 privind aprobarea normelor și tarifelor de folosire a bazelor sportive și a unităților de cazare aflate în administrarea Agenției Naționale pentru Sport prin instituțiile subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277914",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277914",
+     "sha256": "74abbe887cf8e475b5de59558460bd32ceb277f0766a19f689518945206331da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-477-2023",
+   "path": "ordin/sport/2023/477",
+   "short": "Ordin sport nr. 477/2023",
+   "title": "Ordinul nr. 477/2023 pentru aprobarea programelor sportive de utilitate publică și a metodologiei de finanțare a federațiilor sportive naționale și a Comitetului Național Paralimpic pe anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277561",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277561",
+     "sha256": "f1922b29b22aa3e24d9a62e34e2b546aacd719e8702822c7eed6b722c4dd71a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-84-2023",
+   "path": "ordin/sport/2023/84",
+   "short": "Ordin sport nr. 84/2023",
+   "title": "Ordinul nr. 84/2023 pentru aprobarea Instrucțiunilor de efectuare a controlului respectării legilor și a celorlalte acte normative din domeniul sportului și de verificare a activităților sportive, a modului de funcționare și administrare a structurilor sportive, în conformitate cu statutele, regulamentele și dispozițiile legale în vigoare, și a documentelor utilizate în activitatea de supraveghere și control în domeniul sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265286",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265286",
+     "sha256": "ff4d2be9b11b74564e101a0c9bddb78f59ac3ac92b7ac4958d1374c597e1ed5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-52-2023",
+   "path": "ordin/spp/2023/52",
+   "short": "Ordin spp nr. 52/2023",
+   "title": "Ordinul nr. 52/2023 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275628",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275628",
+     "sha256": "3edd51be9ced6119fc1d894496378f9287020a3125be05b5c7450cb764958588"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-53-2023",
+   "path": "ordin/spp/2023/53",
+   "short": "Ordin spp nr. 53/2023",
+   "title": "Ordinul nr. 53/2023 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275629",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275629",
+     "sha256": "269ffa39b8b0b781d503194548ea2cdd93b44640badb6e243fd07202927c4358"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-289-2023",
+   "path": "ordin/sri/2023/289",
+   "short": "Ordin sri nr. 289/2023",
+   "title": "Ordinul nr. 289/2023 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276604",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276604",
+     "sha256": "627cc5bb6b1ff7192e254ea0ff107893a0f69b9e30979f1696b5a192243bd2d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-290-2023",
+   "path": "ordin/sri/2023/290",
+   "short": "Ordin sri nr. 290/2023",
+   "title": "Ordinul nr. 290/2023 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari, subofițeri și gradați profesioniști din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276605",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276605",
+     "sha256": "8a5d1624b614e5c0e7527a6ae69aaaab51bc8f1c19c38e33a0af76070a5eee8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-836-2023",
+   "path": "ordin/sts/2023/836",
+   "short": "Ordin sts nr. 836/2023",
+   "title": "Ordinul nr. 836/2023 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276205",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276205",
+     "sha256": "fde5c09da6668c934f6737d866eafdd9d6049e499584c3da44e5a1b2572b3945"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-837-2023",
+   "path": "ordin/sts/2023/837",
+   "short": "Ordin sts nr. 837/2023",
+   "title": "Ordinul nr. 837/2023 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276206",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276206",
+     "sha256": "7d4877e94fdd5d3255232bfe0141ffedf4ad95c763caa4be070d09af9fb624fc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1007-2023",
    "path": "ordin/transporturi/2023/1007",
    "short": "Ordin transporturi nr. 1007/2023",
@@ -17009,6 +18224,156 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267476",
      "sha256": "da897a4269df92b4582babb5b78ba24fbc16e8e41b512480fe3380fccee5c454"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-330-2023",
+   "path": "ordin/turism/2023/330",
+   "short": "Ordin turism nr. 330/2023",
+   "title": "Ordinul nr. 330/2023 privind aprobarea Schemei de ajutor de minimis pentru participarea întreprinderilor cu activitate de turism la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă în străinătate Ministerul Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264647",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264647",
+     "sha256": "69259fe49f268493f3002087f2e282483e5920838b9fdf4401e8a6d6aa0882f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-398-2023",
+   "path": "ordin/turism/2023/398",
+   "short": "Ordin turism nr. 398/2023",
+   "title": "Ordinul nr. 398/2023 privind modificarea punctului 2 subpunctul 2.2 din Procedura de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMANIA\", aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.111/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264811",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264811",
+     "sha256": "3e66f4f222eff2c88e2a487b0c62c192f619b3de36d6c70070066a5a00d2d7b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-612-2023",
+   "path": "ordin/turism/2023/612",
+   "short": "Ordin turism nr. 612/2023",
+   "title": "Ordinul nr. 612/2023 privind modificarea părții introductive a pct. 3.2.1 din Procedura de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMANIA\", aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.111/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266414",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266414",
+     "sha256": "daee8cd76d20cb2a8dbfc6f7c8a3c8a29061e6cdabc927f6f55bd49c2612b505"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-616-2023",
+   "path": "ordin/turism/2023/616",
+   "short": "Ordin turism nr. 616/2023",
+   "title": "Ordinul nr. 616/2023 privind modificarea procedurii de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.314/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266566",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266566",
+     "sha256": "c6c3b410c7a1a76cecf8816a4688549424d4c0a935daaa55d09a0e6f8c448c2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-626-2023",
+   "path": "ordin/turism/2023/626",
+   "short": "Ordin turism nr. 626/2023",
+   "title": "Ordinul nr. 626/2023 pentru modificarea și completarea Procedurii de avizare a organizațiilor de management al destinației, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.293/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266576",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266576",
+     "sha256": "1fb8447a4b5938d9d21b3228485bc0f9c3050b598f4b856d45476ec2028359f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-637-2023",
+   "path": "ordin/turism/2023/637",
+   "short": "Ordin turism nr. 637/2023",
+   "title": "Ordinul nr. 637/2023 pentru modificarea alineatului (2) al articolului 13 din Schema de ajutor de minimis privind susținerea operatorilor din turism pentru dezvoltarea activității de incoming, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.759/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266666",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266666",
+     "sha256": "199ae38a7f00e41b1ac7ec64792bb5ef01b2d711a95bedcb0266421ebda1e3a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-681-2023",
+   "path": "ordin/turism/2023/681",
+   "short": "Ordin turism nr. 681/2023",
+   "title": "Ordinul nr. 681/2023 privind organizarea Consiliului Consultativ al Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267493",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267493",
+     "sha256": "5260cadaddef43d35163221f9f56b20fdabfb3fb4155d84d738c13daf869f10b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-742-2023",
+   "path": "ordin/turism/2023/742",
+   "short": "Ordin turism nr. 742/2023",
+   "title": "Ordinul nr. 742/2023 privind derogarea de la prevederile art. 16 alin. (4) lit. a) din Schema de ajutor de minimis pentru participarea întreprinderilor cu activitate de turism la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă în străinătate Ministerul Antreprenoriatului și Turismului, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 330/2023, pentru Târgul de turism IMEX Frankfurt 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267621",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267621",
+     "sha256": "cd307d52d6102d2900197139845328f6a35ea90ec4a738415698d25425012305"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-743-2023",
+   "path": "ordin/turism/2023/743",
+   "short": "Ordin turism nr. 743/2023",
+   "title": "Ordinul nr. 743/2023 privind aprobarea criteriilor de înscriere și a Regulamentului pentru participarea întreprinderilor cu activitate de turism, a asociațiilor profesionale, patronale și a organizațiilor neguvernamentale cu activitate în domeniul turismului și a altor entități a căror activitate are impact în domeniul turismului la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă Ministerul Antreprenoriatului și Turismului în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270467",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270467",
+     "sha256": "6b8950c792c8c209bb654ab3302286625ad75f736507bd52c222c828cb5ec573"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-838-2023",
+   "path": "ordin/turism/2023/838",
+   "short": "Ordin turism nr. 838/2023",
+   "title": "Ordinul nr. 838/2023 privind aprobarea Normelor metodologice pentru aplicarea de către Ministerul Antreprenoriatului și Turismului și de către agențiile pentru întreprinderi mici și mijlocii a prevederilor art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996, pentru proiectele finanțate în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 61/2022 privind unele măsuri pentru acordarea de microgranturi și granturi pentru capital de lucru entităților din domeniul agroalimentar cu finanțare din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270758",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270758",
+     "sha256": "c0d3461a66c527cafd94a8ad0912ae98bfa7f5317edb1080e2fc7e137e2bc861"
     }
    ]
   },

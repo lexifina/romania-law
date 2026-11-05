@@ -348,6 +348,36 @@
    ]
   },
   {
+   "slug": "ordin-privatizare-265-1992",
+   "path": "ordin/privatizare/1992/265",
+   "short": "Ordin privatizare nr. 265/1992",
+   "title": "Ordinul nr. 265/1992 privind aprobarea datei de începere a acțiunii de distribuire a carnetelor cu certificate de proprietate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33799",
+   "versions": [
+    {
+     "from": "1992-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33799",
+     "sha256": "efc79807b64997d4c474879ab53439f5b49afeaa23d8bfc38f2cf7dd156bbe06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-privatizare-88-1992",
+   "path": "ordin/privatizare/1992/88",
+   "short": "Ordin privatizare nr. 88/1992",
+   "title": "Ordinul nr. 88/1992 privind procedura de contractare cu firme străine a asistenței de specialitate pentru privatizarea societăților comerciale înainte de organizarea Fondurilor Proprietății Private și a Fondului Proprietății de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2351",
+   "versions": [
+    {
+     "from": "1992-06-05",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2351",
+     "sha256": "b5705a6ed41cf3862e5306afef186f9cfe08d723d3adb4b53a7b88bc5d617819"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-954-1992",
    "path": "ordin/sanatate/1992/954",
    "short": "Ordin sanatate nr. 954/1992",

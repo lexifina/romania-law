@@ -343,6 +343,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164290",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-ccir-25-2014",
+"path": "regulament/ccir/2014/25",
+"kind": "regulament",
+"year": "2014",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 25/2014 privind avizarea, supravegherea, controlul și sancționarea activității burselor de mărfuri",
+"short": "Regulament ccir nr. 25/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163143",
+"issuer": "ccir",
+"joint": []
+},
+{
+"slug": "regulament-inaltifunctionari-3-2014",
+"path": "regulament/inaltifunctionari/2014/3",
+"kind": "regulament",
+"year": "2014",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 3/2014 pentru modificarea și completarea Regulamentului nr. 1/2008 privind organizarea și desfășurarea concursului pentru intrarea în categoria înalților funcționari publici",
+"short": "Regulament inaltifunctionari nr. 3/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160115",
+"issuer": "inaltifunctionari",
+"joint": []
 }
 ]
 }

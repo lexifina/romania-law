@@ -286,6 +286,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/221078",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-fgdb-1-2019",
+"path": "regulament/fgdb/2019/1",
+"kind": "regulament",
+"year": "2019",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2019 pentru modificarea Regulamentului nr. 2/2016 privind determinarea și plata contribuțiilor la Fondul de garantare a depozitelor bancare în funcție de gradul de risc",
+"short": "Regulament fgdb nr. 1/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-05",
+"latest": "2019-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211658",
+"issuer": "fgdb",
+"joint": []
 }
 ]
 }

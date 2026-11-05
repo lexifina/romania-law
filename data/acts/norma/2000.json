@@ -191,6 +191,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24838",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "norma-osim-318-2000",
+"path": "norma/osim/2000/318",
+"kind": "norma",
+"year": "2000",
+"number": "318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 318/2000 pentru modificarea și completarea Normelor nr. 242/1999 privind sprijinirea brevetării în străinătate a invențiilor românești",
+"short": "Norma osim nr. 318/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-03-16",
+"latest": "2000-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21415",
+"issuer": "osim",
+"joint": []
 }
 ]
 }

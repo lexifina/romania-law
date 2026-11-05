@@ -58,6 +58,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100392",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "instructiuni-penitenciare-569-2008",
+"path": "instructiuni/penitenciare/2008/569",
+"kind": "instructiuni",
+"year": "2008",
+"number": "569",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 569/2008 privind desfășurarea activităților de apărare împotriva incendiilor în sistemul administrației penitenciare",
+"short": "Instrucțiuni penitenciare nr. 569/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-12-04",
+"latest": "2008-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/99846",
+"issuer": "penitenciare",
+"joint": []
 }
 ]
 }

@@ -661,6 +661,36 @@
      "sha256": "1942eea443686e2b8f9214318a5a26d49ec9779f53a7908a750ff7b5eefefb06"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2011",
+   "path": "regulament/fgdb/2011/1",
+   "short": "Regulament fgdb nr. 1/2011",
+   "title": "Regulamentul nr. 1/2011 privind informațiile referitoare la garantarea depozitelor ce trebuie puse la dispoziția deponenților de către instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127801",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127801",
+     "sha256": "b010f2fc69339387c5aa408ec55cecaceaca6ece7a041d113ae0d94eeda53291"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-3-2011",
+   "path": "regulament/fgdb/2011/3",
+   "short": "Regulament fgdb nr. 3/2011",
+   "title": "Regulamentul nr. 3/2011 privind stabilirea, declararea și plata de către instituțiile de credit a cotizațiilor anuale și suplimentare la fondul special pentru despăgubiri la Fondul de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129049",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129049",
+     "sha256": "7c261653e8b71752f7f2ff329eb9b70d8bd456f21ee698d621cf11c37f8f975e"
+    }
+   ]
   }
  ]
 }

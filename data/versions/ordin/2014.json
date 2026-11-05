@@ -2163,6 +2163,51 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1460-2014",
+   "path": "ordin/anfp/2014/1460",
+   "short": "Ordin anfp nr. 1460/2014",
+   "title": "Ordinul nr. 1.460/2014 pentru modificarea anexei la Ordinul președintelui Agenției Naționale a Funcționarilor Publici nr. 4.137/2013 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158494",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158494",
+     "sha256": "598c944bbe28d5f363b40f2a5030ff5510e68e132b22747240b49870442f15dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-3214-2014",
+   "path": "ordin/anfp/2014/3214",
+   "short": "Ordin anfp nr. 3214/2014",
+   "title": "Ordinul nr. 3.214/2014 privind aprobarea modalității de desfășurare a Programului de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162577",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162577",
+     "sha256": "70f16dec18898d66b7badcdd5f8c4a92c7dad3c859a4b3103000cf6c30383d5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-841-2014",
+   "path": "ordin/anfp/2014/841",
+   "short": "Ordin anfp nr. 841/2014",
+   "title": "Ordinul nr. 841/2014 pentru aprobarea nominalizării evaluatorilor care vor realiza activitățile de evaluare externă a managerilor publici, precum și pentru aprobarea planificării desfășurării activităților de evaluare externă a managerilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156427",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156427",
+     "sha256": "ccad8dab3373ac31a1dc138a89a46847b1f5e55243e7b124dfc3760bfd1fa4c9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-163-2014",
    "path": "ordin/anpc/2014/163",
    "short": "Ordin anpc nr. 163/2014",
@@ -3993,6 +4038,51 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-171-2014",
+   "path": "ordin/anrsc/2014/171",
+   "short": "Ordin anrsc nr. 171/2014",
+   "title": "Ordinul nr. 171/2014 pentru modificarea Normelor privind autorizarea în domeniul montării și exploatării sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală nr. 259/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158861",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158861",
+     "sha256": "0f40ff53008efe0cf0d384e9a8e9cfa467b4a06a43bdeac3acd6695d4174f510"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-201-2014",
+   "path": "ordin/anrsc/2014/201",
+   "short": "Ordin anrsc nr. 201/2014",
+   "title": "Ordinul nr. 201/2014 privind modificarea Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C. nr. 116/2007 privind aprobarea tarifelor pentru servicii de consultanță și pentru activitățile de pregătire și specializare profesională a personalului operatorilor furnizori/prestatori de servicii comunitare de utilități publice, precum și a altor persoane interesate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159206",
+   "versions": [
+    {
+     "from": "2014-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159206",
+     "sha256": "46668a1c10692b58cfc039e6678b4e6a750dc8520427da1acdffbdd7c684b271"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-202-2014",
+   "path": "ordin/anrsc/2014/202",
+   "short": "Ordin anrsc nr. 202/2014",
+   "title": "Ordinul nr. 202/2014 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159208",
+   "versions": [
+    {
+     "from": "2014-06-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159208",
+     "sha256": "f7840c0e06835b68766ee7fbf212963577c2cfd0b8d31ab6c054d08b92b56ab6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2014",
    "path": "ordin/ansvsa/2014/1",
    "short": "Ordin ansvsa nr. 1/2014",
@@ -4439,6 +4529,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160703",
      "sha256": "600b1b8f35b4e94b7170d97fa9b2eb6ec527c86f0631931808a741388aea7222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-121-2014",
+   "path": "ordin/antidoping/2014/121",
+   "short": "Ordin antidoping nr. 121/2014",
+   "title": "Ordinul nr. 121/2014 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de apel, aprobat prin Ordinul președintelui Agenției Naționale Anti-Doping nr. 38/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158024",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158024",
+     "sha256": "35b5d795757a68b27830f4d426f40871ae499854eadee6f8570cc2259f509037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-289-2014",
+   "path": "ordin/antidoping/2014/289",
+   "short": "Ordin antidoping nr. 289/2014",
+   "title": "Ordinul nr. 289/2014 privind aprobarea Listei interzise pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163607",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163607",
+     "sha256": "cda1e265a1d8e7b47566fd353f0eaaf4c75b2a1c05cac6835a0300c286fef9d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-47-2014",
+   "path": "ordin/antidoping/2014/47",
+   "short": "Ordin antidoping nr. 47/2014",
+   "title": "Ordinul nr. 47/2014 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de audiere a sportivilor și a personalului asistent al sportivilor care au încălcat reglementările antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156196",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156196",
+     "sha256": "7c8f35933ab4550adf73462fbaadb3f81a4276918d610252f790244474828495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-58-2014",
+   "path": "ordin/antidoping/2014/58",
+   "short": "Ordin antidoping nr. 58/2014",
+   "title": "Ordinul nr. 58/2014 privind aprobarea cuantumului taxelor de analizare a suplimentelor nutritive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156194",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156194",
+     "sha256": "4997e68dc79e7bf2bd15f20d90ab10433a8559dfb58cbb44a2828852db15e146"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-67-2014",
+   "path": "ordin/antidoping/2014/67",
+   "short": "Ordin antidoping nr. 67/2014",
+   "title": "Ordinul nr. 67/2014 privind modificarea și completarea Ordinului președintelui Agenției Naționale Anti-Doping nr. 20/2009 pentru aprobarea cuantumului taxelor de prelevare și analizare a probelor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156460",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156460",
+     "sha256": "368f9177473b09554dd56f40d50765a7088243590012f10a65fdf87ee86b2680"
     }
    ]
   },
@@ -5448,6 +5613,51 @@
    ]
   },
   {
+   "slug": "ordin-cncan-236-2014",
+   "path": "ordin/cncan/2014/236",
+   "short": "Ordin cncan nr. 236/2014",
+   "title": "Ordinul nr. 236/2014 pentru modificarea Normelor privind autorizarea sistemelor de management al calității aplicate la realizarea, funcționarea și dezafectarea instalațiilor nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 65/2003, și pentru modificarea și completarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate activităților de aprovizionare destinate instalațiilor nucleare, aprobate prin Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 70/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164007",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164007",
+     "sha256": "0d918fba113c663881d0064cafc8e7a3853f6ad1c204ed5e54d94c6fe61995ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-242-2014",
+   "path": "ordin/cncan/2014/242",
+   "short": "Ordin cncan nr. 242/2014",
+   "title": "Ordinul nr. 242/2014 pentru aprobarea Normelor de securitate nucleară privind protecția instalațiilor nucleare împotriva evenimentelor externe de origine naturală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164659",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164659",
+     "sha256": "b1a0c03a1a3b87121dc56117366c5017b9309d0f1a42b1ba3b079747d832dbad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-61-2014",
+   "path": "ordin/cncan/2014/61",
+   "short": "Ordin cncan nr. 61/2014",
+   "title": "Ordinul nr. 61/2014 pentru aprobarea Normelor privind eliberarea permiselor de exercitare pentru personalul operator, personalul de conducere și personalul de pregătire specifică din centralele nuclearoelectrice, reactoarele de cercetare și din alte instalații nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158118",
+   "versions": [
+    {
+     "from": "2014-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158118",
+     "sha256": "6c6d97835d8478d640a469cd1a22447f744e6d29701b5d5d8661687f9484a23d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-141-2014",
    "path": "ordin/comunicatii/2014/141",
    "short": "Ordin comunicatii nr. 141/2014",
@@ -5459,6 +5669,96 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156911",
      "sha256": "4a31378df52eed48ff5594d18bd5592f0249ddcd3ebfea83651c8e4c30c433d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-206-2014",
+   "path": "ordin/conas/2014/206",
+   "short": "Ordin conas nr. 206/2014",
+   "title": "Ordinul nr. 206/2014 privind constituirea Registrului evaluatorilor de spitale al Comisiei Naționale de Acreditare a Spitalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161315",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161315",
+     "sha256": "93ac89adc8b258a3d16fc67f243eded54b8a8172d435044c6c36e78dc58e1fe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-243-2014",
+   "path": "ordin/conas/2014/243",
+   "short": "Ordin conas nr. 243/2014",
+   "title": "Ordinul nr. 243/2014 pentru modificarea Ordinului președintelui Comisiei Naționale de Acreditare a Spitalelor nr. 280/2013 privind stabilirea cuantumului taxei individuale aferente programului de instruire a evaluatorilor de spitale certificați de către Comisia Națională de Acreditare a Spitalelor, precum și al taxei anuale de valabilitate a certificatului de evaluator de spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161747",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161747",
+     "sha256": "2d9763d51511de073dedc7ebf604ad62e93288f80473128527a3271f2ada1428"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-249-2014",
+   "path": "ordin/conas/2014/249",
+   "short": "Ordin conas nr. 249/2014",
+   "title": "Ordinul nr. 249/2014 pentru modificarea Ordinului președintelui Comisiei Naționale de Acreditare a Spitalelor nr. 82/2014 privind aprobarea nivelului taxei de acreditare și reevaluare a spitalelor aferentă anului 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161748",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161748",
+     "sha256": "9613a80a847ece7d2d3aa9135e357aea244d84cda5bbe7925032e38c02ff5326"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-255-2014",
+   "path": "ordin/conas/2014/255",
+   "short": "Ordin conas nr. 255/2014",
+   "title": "Ordinul nr. 255/2014 privind aprobarea tarifului orar de plată a serviciilor de natură intelectuală prestate de către evaluatorii certificați ai Comisiei Naționale de Acreditare a Spitalelor în cadrul comisiilor de evaluare a spitalelor în vederea acreditării, în primul ciclu de acreditare 2011-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161821",
+   "versions": [
+    {
+     "from": "2014-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161821",
+     "sha256": "ab303e2e231f42b75823bf51d7a7b8684408a7c8f4ec210329597c78b9f6b376"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-50-2014",
+   "path": "ordin/conas/2014/50",
+   "short": "Ordin conas nr. 50/2014",
+   "title": "Ordinul nr. 50/2014 privind aprobarea Listei unităților sanitare cu paturi acreditate în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155424",
+   "versions": [
+    {
+     "from": "2014-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155424",
+     "sha256": "5e05f7b86f9023493c77e49c41f5b626c1d17bc74b238dbc68eb761b031ec28b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-82-2014",
+   "path": "ordin/conas/2014/82",
+   "short": "Ordin conas nr. 82/2014",
+   "title": "Ordinul nr. 82/2014 privind aprobarea nivelului taxei de acreditare și reevaluare a spitalelor aferentă anului 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156412",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156412",
+     "sha256": "2e53843c34b3744f7aa9d24dc5a92c40e7df75cc53205eea75e6d4e96501ba99"
     }
    ]
   },
@@ -5549,6 +5849,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163916",
      "sha256": "2bdb867c742398021ebf2c24753882f313a1ba66d5875cb2c8568cd9f5f50555"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-95-2014",
+   "path": "ordin/culte/2014/95",
+   "short": "Ordin culte nr. 95/2014",
+   "title": "Ordinul nr. 95/2014 privind modificarea și completarea Statutului Federației Comunităților Evreiești din România - Cultul Mozaic, recunoscut prin Hotărârea Guvernului nr. 999/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163902",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163902",
+     "sha256": "1b3f5d45169b61d93513458532fc125fa653fe2bd36907ad35583c09643d5c27"
     }
    ]
   },
@@ -8290,8 +8605,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/163740",
    "versions": [
     {
-     "from": "2014-12-11",
-     "units": 3,
+     "from": "2015-01-01",
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163740",
      "sha256": "6430ec6989097098a177fa9f06920de5dc8b6807a528881288e06d9964b87d4a"
     }
@@ -8365,8 +8680,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/164316",
    "versions": [
     {
-     "from": "2014-12-30",
-     "units": 3,
+     "from": "2015-01-01",
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164316",
      "sha256": "48119cca253fc1cca058c62a067712f9966356cf530704492b383485ca279a9e"
     }
@@ -9558,6 +9873,201 @@
    ]
   },
   {
+   "slug": "ordin-igsu-104-ig-2014",
+   "path": "ordin/igsu/2014/104-ig",
+   "short": "Ordin igsu nr. 104/IG/2014",
+   "title": "Ordinul nr. 104/IG/2014 pentru aprobarea Procedurii privind emiterea avizului în vederea autorizării furnizorilor de formare profesională în ocupațiile din domeniul reglementat de Inspectoratul General pentru Situații de Urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156739",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156739",
+     "sha256": "762a8cfffa69e062e036938776b71856210ddb42dd98649e53c0575bdba7d933"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-1017-2014",
+   "path": "ordin/imm/2014/1017",
+   "short": "Ordin imm nr. 1017/2014",
+   "title": "Ordinul nr. 1.017/2014 privind modificarea Procedurii de implementare a Programului UNCTAD/EMPRETEC România pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii, aprobată prin Ordinul ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 942/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162885",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162885",
+     "sha256": "405274cc08fe93281d5ebd9d4ff49e0e0fa3096d7d0e2f05d70a83894073fc22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-440-2014",
+   "path": "ordin/imm/2014/440",
+   "short": "Ordin imm nr. 440/2014",
+   "title": "Ordinul nr. 440/2014 privind aprobarea Procedurii de implementare a Programului româno-elvețian pentru întreprinderi mici și mijlocii (PREIMM), în cadrul Ariei de concentrare 5: \"Îmbunătățirea mediului de afaceri și a accesului la finanțare a IMM-urilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155558",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155558",
+     "sha256": "a2d8e5f66d0c3c49de620be8099ce68d98d6170cf0bc60239bc9c07b601026f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-545-2014",
+   "path": "ordin/imm/2014/545",
+   "short": "Ordin imm nr. 545/2014",
+   "title": "Ordinul nr. 545/2014 privind modificarea Procedurii de implementare a Programului național multianual pentru susținerea meșteșugurilor și artizanatului, aprobată prin Ordinul ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 169/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156948",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156948",
+     "sha256": "dc5acbb4cfac0bf5e40cb5abc94d27b0b2e00070e8ecac079f099429fc4e9f58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-562-2014",
+   "path": "ordin/imm/2014/562",
+   "short": "Ordin imm nr. 562/2014",
+   "title": "Ordinul nr. 562/2014 pentru modificarea și completarea Ordinului ministrului turismului nr. 235/2001 privind asigurarea turiștilor în cazul insolvabilității sau falimentului agenției de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157381",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157381",
+     "sha256": "649529b4a13951860b62fd1e4f52cd53d9d13d03b6c39a581303dd8e2e8b0da1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-577-2014",
+   "path": "ordin/imm/2014/577",
+   "short": "Ordin imm nr. 577/2014",
+   "title": "Ordinul nr. 577/2014 privind modificarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 473/2014 privind aprobarea procedurilor de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului la finanțare - START, a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii, a Programului național multianual pentru susținerea meșteșugurilor și artizanatului și a Programului național multianual de înființare și dezvoltare de incubatoare tehnologice și de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157255",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157255",
+     "sha256": "8de2860460bdcbd099766795e08047829b944ab7b3831048b693b72d4ec0e2e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-585-2014",
+   "path": "ordin/imm/2014/585",
+   "short": "Ordin imm nr. 585/2014",
+   "title": "Ordinul nr. 585/2014 privind aprobarea componenței Comisiei de examinare a documentației, a Procedurii de avizare și a modelului de aviz pentru conformitatea statutului asociațiilor sau uniunilor județene/naționale de societăți cooperative cu prevederile Legii nr. 1/2005 privind organizarea și funcționarea cooperației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157941",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157941",
+     "sha256": "cc57afd034a0152007047839a4dde8401d6c8b8e13d79bdac19f7436edca564d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-698-2014",
+   "path": "ordin/imm/2014/698",
+   "short": "Ordin imm nr. 698/2014",
+   "title": "Ordinul nr. 698/2014 pentru aprobarea Metodologiei de elaborare și aplicare a Testului IMM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159022",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159022",
+     "sha256": "b60bb7cdd006848e833bb0845a50774dbc26855fe4a2cb7690b88b74360dec45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-699-2014",
+   "path": "ordin/imm/2014/699",
+   "short": "Ordin imm nr. 699/2014",
+   "title": "Ordinul nr. 699/2014 privind aprobarea Regulamentului de organizare și funcționare a Grupului pentru evaluarea impactului economic al actelor normative asupra întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159050",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159050",
+     "sha256": "5fa757bfaac2336493b14834c234d68a4392af7e8ba869f82a53680ef62bd07b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-732-2014",
+   "path": "ordin/imm/2014/732",
+   "short": "Ordin imm nr. 732/2014",
+   "title": "Ordinul nr. 732/2014 privind modificarea Procedurii de implementare a Programului româno-elvețian pentru întreprinderi mici și mijlocii (PREIMM) în cadrul Ariei de concentrare 5: \"Îmbunătățirea mediului de afaceri și a accesului la finanțare a IMM-urilor\", aprobată prin Ordinul ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 440/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159854",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159854",
+     "sha256": "68aad5bf17ba8669b228bd3b7e028f9614e41b6e3552fdaff0cda71aed669fea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-782-2014",
+   "path": "ordin/imm/2014/782",
+   "short": "Ordin imm nr. 782/2014",
+   "title": "Ordinul nr. 782/2014 privind modificarea Ordinului ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 473/2014 privind aprobarea procedurilor de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului la finanțare - START, a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii, a Programului național multianual pentru susținerea meșteșugurilor și artizanatului și a Programului național multianual de înființare și dezvoltare de incubatoare tehnologice și de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160886",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160886",
+     "sha256": "eb40abd3b81f164dfa10e8ced5b59e9b906cad1d9be8786b5a8867fd314cf6b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-942-2014",
+   "path": "ordin/imm/2014/942",
+   "short": "Ordin imm nr. 942/2014",
+   "title": "Ordinul nr. 942/2014 privind aprobarea Procedurii de implementare a Programului UNCTAD/EMPRETEC România pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161865",
+   "versions": [
+    {
+     "from": "2014-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161865",
+     "sha256": "fd1ea3cacee4acd61a04b7446e0f07e0ebf343911987be4134175c8d3be3e73c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-980-2014",
+   "path": "ordin/imm/2014/980",
+   "short": "Ordin imm nr. 980/2014",
+   "title": "Ordinul nr. 980/2014 privind completarea Procedurii de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, aprobată prin Ordinul ministrului delegat pentru întreprinderi mici și mijlocii, mediul de afaceri și turism nr. 473/2014 privind aprobarea procedurilor de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață, a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului la finanțare - START, a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii, a Programului național multianual pentru susținerea meșteșugurilor și artizanatului și a Programului național multianual de înființare și dezvoltare de incubatoare tehnologice și de afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162353",
+   "versions": [
+    {
+     "from": "2014-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162353",
+     "sha256": "87f5d7636cd4a5cd6a27a5712b278308b806890a96271fbaa4c0c587afa74347"
+    }
+   ]
+  },
+  {
    "slug": "ordin-infrastructura-430-2014",
    "path": "ordin/infrastructura/2014/430",
    "short": "Ordin infrastructura nr. 430/2014",
@@ -9569,6 +10079,81 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162161",
      "sha256": "07b1c67885fe6d2074e0191a5d6e6972c29626ee826b90c7cabcc79ba54d33c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-455-2014",
+   "path": "ordin/infrastructura/2014/455",
+   "short": "Ordin infrastructura nr. 455/2014",
+   "title": "Ordinul nr. 455/2014 privind modificarea și completarea Normelor metodologice pentru aplicarea tarifului de utilizare a rețelei de drumuri naționale din România, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 769/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161553",
+   "versions": [
+    {
+     "from": "2014-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161553",
+     "sha256": "3e6b0f8c9ae3600bb1d2d6a55ef72e1446ad8d212f2cf6b3f87e15418a9d11fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-472-2014",
+   "path": "ordin/infrastructura/2014/472",
+   "short": "Ordin infrastructura nr. 472/2014",
+   "title": "Ordinul nr. 472/2014 pentru aprobarea reglementării tehnice \"Normativ privind utilizarea geosinteticelor la ranforsarea structurilor rutiere cu straturi asfaltice, AND 592\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161817",
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161817",
+     "sha256": "fa6d97da790674491b0b34b0def84c0abb82d3e5d8080407ab6c1cef62190f4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-567-2014",
+   "path": "ordin/ins/2014/567",
+   "short": "Ordin ins nr. 567/2014",
+   "title": "Ordinul nr. 567/2014 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163049",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163049",
+     "sha256": "50ede8d6e564d39c27be3fb5273d266ece879e90e3b3c4cbba9c84c987a625c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-569-2014",
+   "path": "ordin/ins/2014/569",
+   "short": "Ordin ins nr. 569/2014",
+   "title": "Ordinul nr. 569/2014 privind aprobarea Normelor de completare a Declarației statistice Intrastat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163204",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163204",
+     "sha256": "1dd99ba1c78ab0769f41943a333b8b01b67b31362c53237bd109176431ece2ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-60-2014",
+   "path": "ordin/inspectiajudiciara/2014/60",
+   "short": "Ordin inspectiajudiciara nr. 60/2014",
+   "title": "Ordinul nr. 60/2014 pentru modificarea și completarea Regulamentului de organizare și funcționare a Inspecției Judiciare, aprobat prin Ordinul inspectorului-șef al Inspecției Judiciare nr. 24/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161816",
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161816",
+     "sha256": "64bcbcd9e49d761b44cb2b22c9c532859fb6a0ae5fb67105602591136a4521c2"
     }
    ]
   },
@@ -11193,6 +11778,21 @@
    ]
   },
   {
+   "slug": "ordin-luptatori-62-2014",
+   "path": "ordin/luptatori/2014/62",
+   "short": "Ordin luptatori nr. 62/2014",
+   "title": "Ordinul nr. 62/2014 privind aprobarea Protocolului încheiat între Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989 și Ministerul Tineretului și Sportului privind trimiterea în tabere de odihnă a copiilor ai căror părinți dețin certificate doveditoare ale calității de revoluționar eliberate în temeiul Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160937",
+   "versions": [
+    {
+     "from": "2014-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160937",
+     "sha256": "3d852696238776db0f4f82f033943cd97c76134dd549a8bbf3f99de28d34e0e4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1095-2014",
    "path": "ordin/mediu/2014/1095",
    "short": "Ordin mediu nr. 1095/2014",
@@ -12734,6 +13334,141 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155275",
      "sha256": "fba1a98455986b7d6da4b44f39a73223a65a4ea555f4642a69388e02c4432af5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-44-2014",
+   "path": "ordin/onpcsb/2014/44",
+   "short": "Ordin onpcsb nr. 44/2014",
+   "title": "Ordinul nr. 44/2014 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor tranzacții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157075",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157075",
+     "sha256": "b3317221fc3c63fe8a405b9bee120b5189237740ff4b659fa33ed428b33338cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-101-2014",
+   "path": "ordin/orniss/2014/101",
+   "short": "Ordin orniss nr. 101/2014",
+   "title": "Ordinul nr. 101/2014 privind modificarea și completarea Ordinului directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 490/2005 pentru stabilirea condițiilor de acces la informații U.E. clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163105",
+   "versions": [
+    {
+     "from": "2014-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163105",
+     "sha256": "9e73ca178e3bb68f20b253fe5e9e77303a16cf7d63949330d65316710f8cfc37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-15-2014",
+   "path": "ordin/orniss/2014/15",
+   "short": "Ordin orniss nr. 15/2014",
+   "title": "Ordinul nr. 15/2014 pentru aprobarea Instrucțiunilor privind managementul materialului criptografic al Uniunii Europene - I.C. - 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156758",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156758",
+     "sha256": "ec1c175b28ebc2c8e91ffe86ed0c19b126b930d47c9a9300fe4777387d63adce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-16-2014",
+   "path": "ordin/orniss/2014/16",
+   "short": "Ordin orniss nr. 16/2014",
+   "title": "Ordinul nr. 16/2014 pentru aprobarea Directivei principale privind domeniul INFOSEC - INFOSEC 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157286",
+   "versions": [
+    {
+     "from": "2014-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157286",
+     "sha256": "c486e6ab5c0dd37d9f4a4efb78588e934b7f702a8ba54b95f956f9cbd1478928"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-17-2014",
+   "path": "ordin/orniss/2014/17",
+   "short": "Ordin orniss nr. 17/2014",
+   "title": "Ordinul nr. 17/2014 privind aprobarea Ghidului pentru elaborarea documentației cu cerințele de securitate pentru sisteme informatice și de comunicații - DS - 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156888",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156888",
+     "sha256": "e007282714a14dd94b53f7f436a2f13999f838d5173a648cb6e608d0158fdc1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-18-2014",
+   "path": "ordin/orniss/2014/18",
+   "short": "Ordin orniss nr. 18/2014",
+   "title": "Ordinul nr. 18/2014 pentru aprobarea Ghidului privind structura și conținutul Procedurilor Operaționale de Securitate (PrOpSec) pentru sisteme informatice și de comunicații - DS 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157065",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157065",
+     "sha256": "3c1c46a8742f9760718215448f3e3db9e9693772e43f55c3281ae4760a9db38f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-34-2014",
+   "path": "ordin/orniss/2014/34",
+   "short": "Ordin orniss nr. 34/2014",
+   "title": "Ordinul nr. 34/2014 privind aprobarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158097",
+   "versions": [
+    {
+     "from": "2014-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158097",
+     "sha256": "2b774998da8f67ed2b3479cc3efd4da175a7751ccea91c7196d2a96b13227cf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-45-2014",
+   "path": "ordin/orniss/2014/45",
+   "short": "Ordin orniss nr. 45/2014",
+   "title": "Ordinul nr. 45/2014 privind actualizarea Catalogului național cu pachete, produse și profile de protecție INFOSEC, versiunea mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159154",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159154",
+     "sha256": "bb0a93d05130f81e219aef82f4805c0bce2794208707868bcf882d19b2519262"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-434-2014",
+   "path": "ordin/parchet/2014/434",
+   "short": "Ordin parchet nr. 434/2014",
+   "title": "Ordinul nr. 434/2014 pentru aprobarea Regulamentului privind evaluarea activității profesionale a personalului auxiliar de specialitate și a personalului conex din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164695",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164695",
+     "sha256": "187d44a04bf313248ff75b37622b6afcd61997a8c4b2935fb5ff07b41ee518d3"
     }
    ]
   },
@@ -14429,6 +15164,186 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161095",
      "sha256": "d52e7da0f4efe332ae14a5f9c36c11e3457a357ea57f5e810c2302abf5872e4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-212-2014",
+   "path": "ordin/sie/2014/212",
+   "short": "Ordin sie nr. 212/2014",
+   "title": "Ordinul nr. 212/2014 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163126",
+   "versions": [
+    {
+     "from": "2014-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163126",
+     "sha256": "279be7edaa55c65f65b1df3ebc0020d42a7b1365222fc75fad6cd25497df3a49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-213-2014",
+   "path": "ordin/sie/2014/213",
+   "short": "Ordin sie nr. 213/2014",
+   "title": "Ordinul nr. 213/2014 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163125",
+   "versions": [
+    {
+     "from": "2014-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163125",
+     "sha256": "54417ff514803c41504719a38e05fbd86bc92be7ecc44e92ec74c73550e6c0fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-345-2014",
+   "path": "ordin/sport/2014/345",
+   "short": "Ordin sport nr. 345/2014",
+   "title": "Ordinul nr. 345/2014 privind aprobarea Ghidului metodologic al Programului Pierre de Coubertin referitor la regimul finanțărilor din fonduri provenite integral din veniturile proprii ale Ministerului Tineretului și Sportului, alocate pentru activități de selecție, pregătire și realizare de competiții ale copiilor și ale persoanelor cu dizabilități, pe baza unor proiecte și programe ale federațiilor sportive naționale, cu scopul de a forma performeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158738",
+   "versions": [
+    {
+     "from": "2014-06-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158738",
+     "sha256": "42fa715841d82d8651fbb3df96aa9c81341869d7b1d500ef38db9bcaa891224b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-419-2014",
+   "path": "ordin/sport/2014/419",
+   "short": "Ordin sport nr. 419/2014",
+   "title": "Ordinul nr. 419/2014 privind modificarea Ghidului metodologic al Programului Pierre de Coubertin referitor la regimul finanțărilor din fonduri provenite integral din veniturile proprii ale Ministerului Tineretului și Sportului, alocate pentru activități de selecție, pregătire și realizare de competiții ale copiilor și ale persoanelor cu dizabilități, pe baza unor proiecte și programe ale federațiilor sportive naționale, cu scopul de a forma performeri, aprobat prin Ordinul ministrului tineretului și sportului nr. 345/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159385",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159385",
+     "sha256": "0249ced7a8ba68e47b16fd730003e9b9b89be421ae8275a605849b498d8422ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-802-2014",
+   "path": "ordin/sport/2014/802",
+   "short": "Ordin sport nr. 802/2014",
+   "title": "Ordinul nr. 802/2014 privind acordarea \"Premiului național pentru sport\", pentru rezultate de excepție obținute de Simona Halep în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164294",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164294",
+     "sha256": "3e7e6c9e972a023c43f5c768448556b7b81c7cec9a9db26086c13a1e440f0dcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-25-2014",
+   "path": "ordin/spp/2014/25",
+   "short": "Ordin spp nr. 25/2014",
+   "title": "Ordinul nr. 25/2014 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161330",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161330",
+     "sha256": "459f126a83e6ca39d7bad66b6876f5b286241870b4727a9524f42167c4c8560b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-26-2014",
+   "path": "ordin/spp/2014/26",
+   "short": "Ordin spp nr. 26/2014",
+   "title": "Ordinul nr. 26/2014 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161331",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161331",
+     "sha256": "94ae77a29f8cfa4f6964f907b1070d044e788f9d612a0cf67573d618f9565455"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-406-2014",
+   "path": "ordin/sri/2014/406",
+   "short": "Ordin sri nr. 406/2014",
+   "title": "Ordinul nr. 406/2014 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162883",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162883",
+     "sha256": "11bc63e53ffa7438feca0637eeebb0aaaa1742239a7b85a1e28b296e5eae56a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-407-2014",
+   "path": "ordin/sri/2014/407",
+   "short": "Ordin sri nr. 407/2014",
+   "title": "Ordinul nr. 407/2014 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162884",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162884",
+     "sha256": "ce30deda3c4bb474d24c5af256e30dcabeac920761b0e9bda42fd04d635e5c55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-29-2014",
+   "path": "ordin/sts/2014/29",
+   "short": "Ordin sts nr. 29/2014",
+   "title": "Ordinul nr. 29/2014 pentru aprobarea Procedurii de obținere de către beneficiari a licenței de utilizare a algoritmului criptografic TEA2, în vederea utilizării aplicațiilor mobile radio pe suportul de radiocomunicații al Platformei Comune TETRA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164074",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164074",
+     "sha256": "556193d8f417b7cd6875788580df9aee7de9a9d6d21bf3873f0bc32a5e3ea8d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-381-2014",
+   "path": "ordin/sts/2014/381",
+   "short": "Ordin sts nr. 381/2014",
+   "title": "Ordinul nr. 381/2014 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163177",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163177",
+     "sha256": "5a7b66a64abf5bf09214f663e1d655251d3809020e9f9c134b5b373858ac05d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-382-2014",
+   "path": "ordin/sts/2014/382",
+   "short": "Ordin sts nr. 382/2014",
+   "title": "Ordinul nr. 382/2014 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163178",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163178",
+     "sha256": "d175c48c6a39f084e7146247b7505ab10a39cc17f7d3a9214cbc4ff294bc637d"
     }
    ]
   },

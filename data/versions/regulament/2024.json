@@ -376,6 +376,21 @@
      "sha256": "f265e4f49e7894b9fa0134f87f83a4a3310c303d26c985a1ee0cf406ac7b334c"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2024",
+   "path": "regulament/fgdb/2024/1",
+   "short": "Regulament fgdb nr. 1/2024",
+   "title": "Regulamentul nr. 1/2024 privind selectarea instituțiilor de credit mandatate de Fondul de garantare a depozitelor bancare pentru efectuarea plăților de compensații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292116",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292116",
+     "sha256": "5c1a34538979ce0d515a047aad599e92f2b319600bcf73f984d82f18801287eb"
+    }
+   ]
   }
  ]
 }

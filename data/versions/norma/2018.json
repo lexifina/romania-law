@@ -286,6 +286,21 @@
      "sha256": "6971a4c7560a1fd0f63006162abbfe930d939ec03a23dba6758c8e96fc17b43a"
     }
    ]
+  },
+  {
+   "slug": "norma-cifga-198-2018",
+   "path": "norma/cifga/2018/198",
+   "short": "Norma cifga nr. 198/2018",
+   "title": "Norma nr. 198/2018 \"Plafon de garantare în numele și în contul statului pentru proiecte de investiții finanțate din fonduri europene\"(NI-GAR-13-I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206116",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206116",
+     "sha256": "c14b98b4ec550fd81ab82fcda8d9d9ccf8c2ffef5653aa5168de82e6ceb7a27a"
+    }
+   ]
   }
  ]
 }

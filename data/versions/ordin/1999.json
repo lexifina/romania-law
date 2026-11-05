@@ -198,6 +198,81 @@
    ]
   },
   {
+   "slug": "ordin-anci-104-1999",
+   "path": "ordin/anci/1999/104",
+   "short": "Ordin anci nr. 104/1999",
+   "title": "Ordinul nr. 104/1999 privind aprobarea Tabelului național al atribuirii benzilor de frecvență pentru spectrul radioelectric de la 9 kHz la 105 GHz, completat și modificat pentru spectrul radioelectric de la 9 kHz la 30 GHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18117",
+   "versions": [
+    {
+     "from": "1999-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18117",
+     "sha256": "904573b37ef0e826ff6880d1f10ade796ccda37889aaf36bcda4d92d3c297b2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-32-1999",
+   "path": "ordin/anci/1999/32",
+   "short": "Ordin anci nr. 32/1999",
+   "title": "Ordinul nr. 32/1999 pentru completarea Ordinului ministrului comunicațiilor nr. 326/1997 privind aprobarea tarifelor practicate de Regia Autonomă \"Inspectoratul General al Comunicațiilor\" pentru serviciile prestate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17197",
+   "versions": [
+    {
+     "from": "1999-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17197",
+     "sha256": "c06cd696205c5d19a2858ae17f9ca5c10ca6ec7e672f1e4f2ca46a81fa1d9f01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-33-1999",
+   "path": "ordin/anci/1999/33",
+   "short": "Ordin anci nr. 33/1999",
+   "title": "Ordinul nr. 33/1999 privind nominalizarea rețelei de radiocomunicații a Companiei Naționale \"Apele Române\" - S.A. ca beneficiara a prevederilor art. 1 din Ordinul nr. 32/1999 al președintelui Agenției Naționale pentru Comunicații și Informatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17198",
+   "versions": [
+    {
+     "from": "1999-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17198",
+     "sha256": "0bca8ae5f92d1c1babb38f84320b3b8a0d524fb6465f45d22a2a468b5c7b83e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-341-1999",
+   "path": "ordin/anci/1999/341",
+   "short": "Ordin anci nr. 341/1999",
+   "title": "Ordinul nr. 341/1999 privind procedura de selecție a titularilor licențelor pentru rețele și servicii de radiocomunicații cu destinație publică, pentru transmisii vocale și/sau de date, de tip simplex, simplex cu stație coordonatoare, semiduplex cu repetor convențional, semiduplex cu acces multiplu tip \"trunked\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20198",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20198",
+     "sha256": "8f47a03e7ef4180941980daab025fe05b4c9c0eb75f13da36fce8dcabbcadd99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-398-1999",
+   "path": "ordin/anci/1999/398",
+   "short": "Ordin anci nr. 398/1999",
+   "title": "Ordinul nr. 398/1999 privind aprobarea Procedurii de tarifare și a listei cuprinzând tarifele practicate de Regia Autonomă \"Inspectoratul General al Comunicațiilor\" în exercitarea atribuțiilor ce îi revin conform legislației în vigoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21383",
+   "versions": [
+    {
+     "from": "2000-03-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21383",
+     "sha256": "d8b69583163fa7ceb5b6e1e792310a5fc2c9da17ff81c070fd3c458919043954"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-450-1999",
    "path": "ordin/ancpi/1999/450",
    "short": "Ordin ancpi nr. 450/1999",
@@ -269,6 +344,51 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20461",
      "sha256": "49f86753804bb3433008f44ec8b798b28774cff2c0121132e19e8bd1cb2776e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancs-315-1999",
+   "path": "ordin/ancs/1999/315",
+   "short": "Ordin ancs nr. 315/1999",
+   "title": "Ordinul nr. 315/1999 pentru aprobarea Programului de restructurare a Institutului Național de Cercetare-Dezvoltare pentru Optoelectronica - INOE 2000 București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20194",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20194",
+     "sha256": "210e4f99abb04c7451c12e3f10278cfad8902d0636a509d9df94bf13201ba3b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-23-1999",
+   "path": "ordin/anofm/1999/23",
+   "short": "Ordin anofm nr. 23/1999",
+   "title": "Ordinul nr. 23/1999 privind aprobarea Procedurii de acordare a unor înlesniri la plata obligațiilor datorate bugetului Fondului pentru plata ajutorului de șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18571",
+   "versions": [
+    {
+     "from": "1999-06-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18571",
+     "sha256": "60396839eb54b0b955e2bfcc3cf76587fba91f0de6d5badc4953addde925b316"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-47-1999",
+   "path": "ordin/anofm/1999/47",
+   "short": "Ordin anofm nr. 47/1999",
+   "title": "Ordinul nr. 47/1999 pentru aprobarea Instrucțiunilor privind modul și competentele de aprobare a programelor de restructurare a angajatorilor prevăzuți la art. 8 din Ordonanța de urgență a Guvernului nr. 98/1999 de către agențiile pentru ocupare și formare profesională județene, respectiv a municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19538",
+   "versions": [
+    {
+     "from": "1999-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19538",
+     "sha256": "d064e75a1a688065df5f79ca01d469128ea652cbbae3790424bd5a2a09f0876f"
     }
    ]
   },
@@ -363,6 +483,21 @@
    ]
   },
   {
+   "slug": "ordin-ard-270-1999",
+   "path": "ordin/ard/1999/270",
+   "short": "Ordin ard nr. 270/1999",
+   "title": "Ordinul nr. 270/1999 pentru aprobarea Procedurii privind modul de evaluare și certificare de către Agenția Română de Dezvoltare a programelor de restructurare întocmite de societățile comerciale prevăzute la art. 8 din Ordonanța de urgență a Guvernului nr. 98/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19197",
+   "versions": [
+    {
+     "from": "1999-09-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19197",
+     "sha256": "0e56ed0dde9bf1ed8eaf4c66fdb193dd899344e7da6614d21d92a5388afc5019"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-1999",
    "path": "ordin/bnr/1999/1",
    "short": "Ordin bnr nr. 1/1999",
@@ -408,6 +543,21 @@
    ]
   },
   {
+   "slug": "ordin-camera-6-1999",
+   "path": "ordin/camera/1999/6",
+   "short": "Ordin camera nr. 6/1999",
+   "title": "Ordinul nr. 6/1999 privind procedura publicării, republicării și rectificării actelor în Monitorul Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16662",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16662",
+     "sha256": "535c7e918758ae623d98837323cf39a79957aa4621209cf2517d5a11b678fdf9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-143-1999",
    "path": "ordin/cnas/1999/143",
    "short": "Ordin cnas nr. 143/1999",
@@ -449,6 +599,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20565",
      "sha256": "965a9b4cbe68031905ac84ed0678fbb36111d85d2590aa4f6448487e1c350382"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-219-1999",
+   "path": "ordin/cncan/1999/219",
+   "short": "Ordin cncan nr. 219/1999",
+   "title": "Ordinul nr. 219/1999 pentru aprobarea Normelor privind desemnarea organismelor notificate pentru domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21174",
+   "versions": [
+    {
+     "from": "2000-03-29",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21174",
+     "sha256": "ca9e0dc8837a42d6b27606186fe4d92b691bd421895e1c435fccf503e9fca434"
     }
    ]
   },
@@ -798,6 +963,21 @@
    ]
   },
   {
+   "slug": "ordin-dapl-19-1999",
+   "path": "ordin/dapl/1999/19",
+   "short": "Ordin dapl nr. 19/1999",
+   "title": "Ordinul nr. 19/1999 ORDIN nr. 19a/2.697 din 29 martie 1999 cu privire la finanțarea obiectivelor de investiții pentru învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17952",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17952",
+     "sha256": "aff2f84379bfe9151ff58ed113c3217b45a4a9aa3233038815c6c207939c22ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-15-n-1999",
    "path": "ordin/dezvoltare/1999/15-n",
    "short": "Ordin dezvoltare nr. 15/N/1999",
@@ -839,6 +1019,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18996",
      "sha256": "23cc2b52827c2c15ed217c016de0102656e0b542dacaa9ece70f1f8ce791009e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-152-1999",
+   "path": "ordin/dizabilitati/1999/152",
+   "short": "Ordin dizabilitati nr. 152/1999",
+   "title": "Ordinul nr. 152/1999 privind plata drepturilor salariale pentru asistenții personali ai persoanelor cu handicap grav și a transportului în comun pentru persoanele cu handicap și pentru asistenții personali care beneficiază de aceasta conform legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20561",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20561",
+     "sha256": "a4a76b87188d0eff48ed4066ff2b8ac68056ebe262757848d52cb2f0caee3212"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-46-1999",
+   "path": "ordin/dizabilitati/1999/46",
+   "short": "Ordin dizabilitati nr. 46/1999",
+   "title": "Ordinul nr. 46/1999 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 109/1999 privind valorificarea produselor și serviciilor realizate în cadrul căminelor-atelier și al altor cămine din coordonarea Secretariatului de Stat pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18277",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18277",
+     "sha256": "28632f13a70090914c2d4a72d5752f55e01fdcc19434846b0cbb7310723b01e2"
     }
    ]
   },
@@ -1458,6 +1668,66 @@
    ]
   },
   {
+   "slug": "ordin-exporturi-1-1999",
+   "path": "ordin/exporturi/1999/1",
+   "short": "Ordin exporturi nr. 1/1999",
+   "title": "Ordinul nr. 1/1999 privind aprobarea Normelor metodologice referitoare la încheierea acordului de instalație și unele precizări privind întocmirea și transmiterea declarațiilor anuale industriale, prevăzute de Legea nr. 56/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16768",
+   "versions": [
+    {
+     "from": "1999-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16768",
+     "sha256": "608c7a10a81fab32897abd0b34e002bacec04b8658c31b750bc98b593340b84f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-11-1999",
+   "path": "ordin/exporturi/1999/11",
+   "short": "Ordin exporturi nr. 11/1999",
+   "title": "Ordinul nr. 11/1999 privind aprobarea Normelor metodologice pentru declararea cantităților de substanțe chimice înscrise în listele nr. 2 și 3, anexe la Legea nr. 56/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19108",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19108",
+     "sha256": "f216cd78665fb3aab2fb6d000bcaa6973393761a9c11db0bda840dde82fde4e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-25-1999",
+   "path": "ordin/exporturi/1999/25",
+   "short": "Ordin exporturi nr. 25/1999",
+   "title": "Ordinul nr. 25/1999 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19948",
+   "versions": [
+    {
+     "from": "1999-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19948",
+     "sha256": "d56676f8546799a88c876df62162833eabddf96c99b608562537bcd79d19d963"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-27-1999",
+   "path": "ordin/exporturi/1999/27",
+   "short": "Ordin exporturi nr. 27/1999",
+   "title": "Ordinul nr. 27/1999 pentru aprobarea formularelor-tip de autorizație și de permise conform prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20121",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20121",
+     "sha256": "c5b4db4f519401bfca1d832e1771be29fd2d3385a1604bf6bcd6f693f802670c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1042-1999",
    "path": "ordin/finante/1999/1042",
    "short": "Ordin finante nr. 1042/1999",
@@ -1975,8 +2245,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/19263",
    "versions": [
     {
-     "from": "1999-09-15",
-     "units": 14,
+     "from": "1999-10-15",
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19263",
      "sha256": "9bd3071ba69f194659b7f08b482733cad3c36b22bb34b677ba27c8e036432b21"
     }
@@ -2714,6 +2984,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20016",
      "sha256": "8bfbb041a397bbcea813c1c08bbd17274e9ea11a5bc4ddf6bbbd012ae8bcce93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-276-1999",
+   "path": "ordin/metrologie/1999/276",
+   "short": "Ordin metrologie nr. 276/1999",
+   "title": "Ordinul nr. 276/1999 pentru aprobarea listei cuprinzând etaloanele naționale ale României, completată și actualizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21301",
+   "versions": [
+    {
+     "from": "2000-03-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21301",
+     "sha256": "c2947e4b851c35357753a14e8167c4478ab51038e23fb1302cbec75c427b5369"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-74-1999",
+   "path": "ordin/metrologie/1999/74",
+   "short": "Ordin metrologie nr. 74/1999",
+   "title": "Ordinul nr. 74/1999 privind tarife pentru evaluare în vederea autorizării activităților care fac obiectul controlului metrologic al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18278",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18278",
+     "sha256": "f6c89ec77f021b2934ea79ebabf4c770aabd8f9d3723efd1961b817ea5ad9755"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-89-1999",
+   "path": "ordin/metrologie/1999/89",
+   "short": "Ordin metrologie nr. 89/1999",
+   "title": "Ordinul nr. 89/1999 pentru aprobarea listelor cuprinzând normativele de metrologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18785",
+   "versions": [
+    {
+     "from": "1999-07-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18785",
+     "sha256": "69af830b5a103f3a4108e45b9a0a741366148d0b250a52ab2d218097b2efff1d"
     }
    ]
   },
@@ -3959,6 +4274,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17557",
      "sha256": "c703297b8abe97309c18368b2604e3efffa873c6738588be994151fbaf82486c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-141-1999",
+   "path": "ordin/turism/1999/141",
+   "short": "Ordin turism nr. 141/1999",
+   "title": "Ordinul nr. 141/1999 privind aprobarea nivelului tarifelor percepute pentru prestările de servicii efectuate de Oficiul de Autorizare și Control în Turism (O.A.C.T.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20336",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20336",
+     "sha256": "5ff49d0ced216e74026eca988eea50f4b6198075d2da34d10c5c8955d326a051"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-22-1999",
+   "path": "ordin/turism/1999/22",
+   "short": "Ordin turism nr. 22/1999",
+   "title": "Ordinul nr. 22/1999 pentru completarea Ordinului președintelui Autorității Naționale pentru Turism nr. 7/1999 privind aprobarea nivelului tarifelor pentru serviciile prestate de către Oficiul de Autorizare și Control în Turism (O.A.C.T.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17555",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17555",
+     "sha256": "34c7dcdd8da0062891761c3b6a83b67ce83fcc39e16523c0eeb3637b6b07d15a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-7-1999",
+   "path": "ordin/turism/1999/7",
+   "short": "Ordin turism nr. 7/1999",
+   "title": "Ordinul nr. 7/1999 privind aprobarea nivelului tarifelor pentru serviciile prestate de către Oficiul de Autorizare și Control în Turism (O.A.C.T.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16784",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16784",
+     "sha256": "cce3d601951fc25f9641edd9a757af2e138a82dcec4df36cfa2a02c7ef5c2ef0"
     }
    ]
   }

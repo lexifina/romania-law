@@ -46,6 +46,21 @@
      "sha256": "ae6606cc8f55040d04b14e425bbcc2b9f6be9a96d018135cec5cb7b0c4b3f5c7"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-penitenciare-569-2008",
+   "path": "instructiuni/penitenciare/2008/569",
+   "short": "Instrucțiuni penitenciare nr. 569/2008",
+   "title": "Instrucțiunile nr. 569/2008 privind desfășurarea activităților de apărare împotriva incendiilor în sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99846",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99846",
+     "sha256": "6f920b1de498966622d49734405395aaa8cc67538f1628c6d17676a7e145774d"
+    }
+   ]
   }
  ]
 }

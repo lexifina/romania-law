@@ -168,6 +168,36 @@
    ]
   },
   {
+   "slug": "norma-fps-1-1995",
+   "path": "norma/fps/1995/1",
+   "short": "Norma fps nr. 1/1995",
+   "title": "Norma nr. 1/1995 privind criteriile și condițiile vânzării cu plata în rate a acțiunilor societăților comerciale, conform Ordonanței Guvernului nr. 39/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5624",
+   "versions": [
+    {
+     "from": "1995-10-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5624",
+     "sha256": "9e6d3510af4a92f569da227c3a7326161332eebc3a231bb7e4d649e2616485e9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-fps-2-1995",
+   "path": "norma/fps/1995/2",
+   "short": "Norma fps nr. 2/1995",
+   "title": "Norma nr. 2/1995 privind condițiile și criteriile de vînzare cu plata în rate a activelor societăților comerciale cu capital de stat, conform Ordonanței Guvernului nr. 39/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5639",
+   "versions": [
+    {
+     "from": "1995-11-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5639",
+     "sha256": "c40e77b3dff60b5d6d7cc72bf45be71d5b19c3bbd72cb31f3f976b948a5dee89"
+    }
+   ]
+  },
+  {
    "slug": "norma-justitie-51169-1995",
    "path": "norma/justitie/1995/51169",
    "short": "Norma justitie nr. 51169/1995",

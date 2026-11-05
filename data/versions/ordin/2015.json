@@ -3,6 +3,51 @@
  "shard": "ordin/2015",
  "acts": [
   {
+   "slug": "ordin-achizitii-1139-2015",
+   "path": "ordin/achizitii/2015/1139",
+   "short": "Ordin achizitii nr. 1139/2015",
+   "title": "Ordinul nr. 1.139/2015 privind notificarea încheierii contractului de achiziție publică/acordului-cadru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174031",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174031",
+     "sha256": "1ed64fe0ce03e93546176f2f823844c71fe2df9c64bc74a15ae8d573d8cafeab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-1140-2015",
+   "path": "ordin/achizitii/2015/1140",
+   "short": "Ordin achizitii nr. 1140/2015",
+   "title": "Ordinul nr. 1.140/2015 pentru aprobarea Regulamentului privind controlul ex-post al modului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174018",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174018",
+     "sha256": "baf290a83ac3751829932caec18acbc6bfb5431d6c212f9de2122de6db7c484e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-achizitii-773-2015",
+   "path": "ordin/achizitii/2015/773",
+   "short": "Ordin achizitii nr. 773/2015",
+   "title": "Ordinul nr. 773/2015 privind unele măsuri de eficientizare a activității de evaluare ex-ante a documentațiilor de atribuire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173968",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173968",
+     "sha256": "e0e78907417be1d7dc5ab8fa74ec26adddb150d6e96dd28c81b231fd4bb313ce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2015",
    "path": "ordin/agricultura/2015/10",
    "short": "Ordin agricultura nr. 10/2015",
@@ -2125,8 +2170,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/174503",
    "versions": [
     {
-     "from": "2015-12-30",
-     "units": 5,
+     "from": "2016-01-01",
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174503",
      "sha256": "c8e97992f6edb727b96f459ef4008d02c85731b3eb2ea7dd3bbc2a0a9dda3bab"
     }
@@ -2474,6 +2519,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171012",
      "sha256": "daa8631d42df5ec646c16d3d1007be2e0b73c75037d0044f3ce6e71407df5bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-2201-2015",
+   "path": "ordin/anfp/2015/2201",
+   "short": "Ordin anfp nr. 2201/2015",
+   "title": "Ordinul nr. 2.201/2015 pentru aprobarea modelului de proces-verbal de constatare a contravențiilor și de aplicare a sancțiunilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170790",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170790",
+     "sha256": "f4970bc22a65f2584081ff09960756246658cc75a9d56c3178a9b71a1092cb8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-3753-2015",
+   "path": "ordin/anfp/2015/3753",
+   "short": "Ordin anfp nr. 3753/2015",
+   "title": "Ordinul nr. 3.753/2015 privind monitorizarea respectării normelor de conduită de către funcționarii publici și a implementării procedurilor disciplinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172921",
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172921",
+     "sha256": "b0982f94e44367459ea2a8e19c04b50d23521bc41f425adc43a67a55657d2de6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anfp-762-2015",
+   "path": "ordin/anfp/2015/762",
+   "short": "Ordin anfp nr. 762/2015",
+   "title": "Ordinul nr. 762/2015 pentru stabilirea domeniilor prioritare de formare profesională pentru administrația publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167004",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167004",
+     "sha256": "efcebdfec46f0995791356045e10eac7c06c261c25cc79fab0cf17faaf3cb3bd"
     }
    ]
   },
@@ -4338,6 +4428,51 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-337-2015",
+   "path": "ordin/anrsc/2015/337",
+   "short": "Ordin anrsc nr. 337/2015",
+   "title": "Ordinul nr. 337/2015 privind modificarea tarifelor de acordare și menținere a licențelor/autorizațiilor eliberate în domeniul serviciilor comunitare de utilități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169817",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169817",
+     "sha256": "916dfce6c5e756c3f2cfde9ebf9a6eaa9399b83395a7052f789e71b49679040b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-472-2015",
+   "path": "ordin/anrsc/2015/472",
+   "short": "Ordin anrsc nr. 472/2015",
+   "title": "Ordinul nr. 472/2015 privind modul de achitare a contribuției de 0,12% fixate în anexa la Hotărârea Guvernului nr. 527/2013 privind aprobarea Regulamentului de organizare și funcționare a Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172010",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172010",
+     "sha256": "d6c483206e1a6a1a0471ff35fae1751dad931d5ec7ac7aebfc15cb90eefb6b88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-82-2015",
+   "path": "ordin/anrsc/2015/82",
+   "short": "Ordin anrsc nr. 82/2015",
+   "title": "Ordinul nr. 82/2015 privind aprobarea Regulamentului-cadru al serviciului de salubrizare a localităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166585",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166585",
+     "sha256": "441b03554013b057910bb6b65781ea63982fe8e2c61026e1646b7f59db4d4382"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-103-2015",
    "path": "ordin/ansvsa/2015/103",
    "short": "Ordin ansvsa nr. 103/2015",
@@ -4694,6 +4829,96 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171980",
      "sha256": "59e345bdf6f7aa143c0554fe465056ee9f4b9e5eee7795551f29a64ccbf5c222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-108-2015",
+   "path": "ordin/antidoping/2015/108",
+   "short": "Ordin antidoping nr. 108/2015",
+   "title": "Ordinul nr. 108/2015 privind aprobarea Deciziei Consiliului director al Agenției Naționale Anti-Doping nr. 1 din 11 februarie 2015 pentru stabilirea cuantumului taxei pentru activitatea prestată de Comisia de apel de pe lângă Agenția Națională Anti-Doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167475",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167475",
+     "sha256": "165517714a5e97e0896ff4d850952ead82014911a5f96fc185eddf04b8a5614f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-139-2015",
+   "path": "ordin/antidoping/2015/139",
+   "short": "Ordin antidoping nr. 139/2015",
+   "title": "Ordinul nr. 139/2015 pentru aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor prevăzute de Legea nr. 227/2006 privind prevenirea și combaterea dopajului în sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168548",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168548",
+     "sha256": "8081da9b9e3682da7453fb32cae28acd51186048484ed240bd35bba60fede935"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-224-2015",
+   "path": "ordin/antidoping/2015/224",
+   "short": "Ordin antidoping nr. 224/2015",
+   "title": "Ordinul nr. 224/2015 privind aprobarea Listei interzise pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172415",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172415",
+     "sha256": "23ea12ec33c9ae1e80edcde2e72f857483a147b8e1fa08253feabf34c0be1958"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-230-2015",
+   "path": "ordin/antidoping/2015/230",
+   "short": "Ordin antidoping nr. 230/2015",
+   "title": "Ordinul nr. 230/2015 pentru aprobarea documentelor oficiale pe care le folosește ofițerul de control doping în timpul desfășurării controlului doping, prevăzute de Hotărârea Guvernului nr. 244/2015 pentru aprobarea Normelor metodologice privind organizarea și desfășurarea controlului doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172632",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172632",
+     "sha256": "69cdf754350794ff9695410af6650963e1ec0192e384a31a9aeb57e81ebbfaa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-49-2015",
+   "path": "ordin/antidoping/2015/49",
+   "short": "Ordin antidoping nr. 49/2015",
+   "title": "Ordinul nr. 49/2015 pentru aprobarea cuantumului taxelor de prelevare și analizare a probelor de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166095",
+   "versions": [
+    {
+     "from": "2015-03-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166095",
+     "sha256": "a9767713214fc125c9049d209b17f3ca35fb70201d411d1e7c7a28cc24d41325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-65-2015",
+   "path": "ordin/antidoping/2015/65",
+   "short": "Ordin antidoping nr. 65/2015",
+   "title": "Ordinul nr. 65/2015 privind aprobarea tarifului pentru formarea și perfecționarea ofițerilor de control doping - studii medii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166347",
+   "versions": [
+    {
+     "from": "2015-03-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166347",
+     "sha256": "9815396e60fcaaaab894f7c7d693151b7385b92b49a3edc1707ed9bf5f66a906"
     }
    ]
   },
@@ -5268,6 +5493,21 @@
    ]
   },
   {
+   "slug": "ordin-camera-965-2015",
+   "path": "ordin/camera/2015/965",
+   "short": "Ordin camera nr. 965/2015",
+   "title": "Ordinul nr. 965/2015 pentru aprobarea Normelor cu privire la stabilirea pensiei de serviciu prevăzute de Legea nr. 7/2006 privind statutul funcționarului public parlamentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170893",
+   "versions": [
+    {
+     "from": "2015-08-26",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170893",
+     "sha256": "aa3c54d1497258041772dbdc0caac3e9c132294fed94de2a2f1c5ab4428f246d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-1024-2015",
    "path": "ordin/cnas/2015/1024",
    "short": "Ordin cnas nr. 1024/2015",
@@ -5778,6 +6018,111 @@
    ]
   },
   {
+   "slug": "ordin-cncan-1-2015",
+   "path": "ordin/cncan/2015/1",
+   "short": "Ordin cncan nr. 1/2015",
+   "title": "Ordinul nr. 1/2015 privind aprobarea publicării Listei cuprinzând organismele de dozimetrie individuală acreditate, desemnate de Comisia Națională pentru Controlul Activităților Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164581",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164581",
+     "sha256": "16464397a0df7a64299865ee947c70866f18ae90115588a79f0d6c78b2cfab17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-149-2015",
+   "path": "ordin/cncan/2015/149",
+   "short": "Ordin cncan nr. 149/2015",
+   "title": "Ordinul nr. 149/2015 privind aprobarea cerințelor de autorizare a activității de manipulare și extinderii limitelor autorizațiilor de manipulare a instalațiilor radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170668",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170668",
+     "sha256": "2a470348b96960e3eb234c8379468c962f6394a8b16a70d3f663df912d53d0aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-180-2015",
+   "path": "ordin/cncan/2015/180",
+   "short": "Ordin cncan nr. 180/2015",
+   "title": "Ordinul nr. 180/2015 pentru aprobarea Ghidului privind verificarea independentă a analizelor și evaluărilor de securitate nucleară pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171422",
+   "versions": [
+    {
+     "from": "2015-09-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171422",
+     "sha256": "872e2012d410187ed6cefed417efe094b2827859e12731ba3b25dd88d370ac3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-199-2015",
+   "path": "ordin/cncan/2015/199",
+   "short": "Ordin cncan nr. 199/2015",
+   "title": "Ordinul nr. 199/2015 pentru aprobarea Normelor de securitate nucleară privind limitele și condițiile tehnice de operare pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171880",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171880",
+     "sha256": "f4d131a8f8eb9477c1444d4ae4eb2c0651e1a76e596fbb0a997e0dcb98464923"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-374-2015",
+   "path": "ordin/cncan/2015/374",
+   "short": "Ordin cncan nr. 374/2015",
+   "title": "Ordinul nr. 374/2015 pentru aprobarea Normelor de securitate nucleară privind managementul îmbătrânirii pentru instalațiile nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174957",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174957",
+     "sha256": "c5eb600eb55804c1ec381706039de8803cdd887984a786834d3331a31a999e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-51-2015",
+   "path": "ordin/cncan/2015/51",
+   "short": "Ordin cncan nr. 51/2015",
+   "title": "Ordinul nr. 51/2015 pentru aprobarea Ghidului de securitate nucleară privind codurile și standardele industriale pentru centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166954",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166954",
+     "sha256": "4d02f4e157393a2c0a2e1c848c388daccfe22150205e2f4e64da10c319599ecd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnpp-374-2015",
+   "path": "ordin/cnpp/2015/374",
+   "short": "Ordin cnpp nr. 374/2015",
+   "title": "Ordinul nr. 374/2015 pentru aprobarea instrucțiunilor privind eliberarea și utilizarea documentului portabil DA1 - \"Document care atestă dreptul de a primi asistență medicală în cadrul asigurării pentru accidente de muncă și boli profesionale\" în conformitate cu prevederile Regulamentului (CE) nr. 883/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind coordonarea sistemelor de securitate socială și a Regulamentului (CE) nr. 987/2009 al Parlamentului European și al Consiliului din 16 septembrie 2009 de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173971",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173971",
+     "sha256": "7d1d138053c6fadf5336f3fc61d8182b025ccfa12666486f7c79b04b632cd56f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-217-2015",
    "path": "ordin/comunicatii/2015/217",
    "short": "Ordin comunicatii nr. 217/2015",
@@ -5849,6 +6194,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171819",
      "sha256": "8241c6d648900a022a1f4f563cf93438b10e8c9601c1615ced3f4c0dd962795d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-129-2015",
+   "path": "ordin/conas/2015/129",
+   "short": "Ordin conas nr. 129/2015",
+   "title": "Ordinul nr. 129/2015 pentru aprobarea condițiilor de recunoaștere a absolvenților programului de formare și perfecționare pentru evaluatori de spitale, precum și a celor minimale de păstrare a calității de evaluator de spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169147",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169147",
+     "sha256": "716d58315cd7554c47567435793ed3c5ecc7dd41d2720aecd230e3faee7b84f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-172-2015",
+   "path": "ordin/conas/2015/172",
+   "short": "Ordin conas nr. 172/2015",
+   "title": "Ordinul nr. 172/2015 privind selecția experților în domeniul de activitate al Comisiei Naționale de Acreditare a Spitalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170933",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170933",
+     "sha256": "dfd2fff2dbcb6e3f6a02f9c80873cbce4810627b6d736038cae356573158f2c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-43-2015",
+   "path": "ordin/conas/2015/43",
+   "short": "Ordin conas nr. 43/2015",
+   "title": "Ordinul nr. 43/2015 privind aprobarea cuantumului taxei de acreditare, incluzând costurile aferente evaluării în vederea acreditării și monitorizării încadrării unității spitalicești în nivelul de acreditare acordat, pentru o perioadă de 5 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166376",
+   "versions": [
+    {
+     "from": "2015-03-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166376",
+     "sha256": "f838a294236f246fd9a50fd339c0569067e9dc8904d171a45ad705c85b7a1c02"
     }
    ]
   },
@@ -5984,6 +6374,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172500",
      "sha256": "b8840935d365ba77c38d67a8b506ec00af1ee02ee543c2d765eb00680fece2b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-125-2015",
+   "path": "ordin/culte/2015/125",
+   "short": "Ordin culte nr. 125/2015",
+   "title": "Ordinul nr. 125/2015 privind modificarea și completarea Statutului Cultului Creștin Penticostal - Biserica lui Dumnezeu Apostolică din România, recunoscut prin Hotărârea Guvernului nr. 189/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172202",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172202",
+     "sha256": "419f8c489b087a62d91b1178d42a0af5b62159e77b0f0f4d3efb3c710679e144"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-143-2015",
+   "path": "ordin/culte/2015/143",
+   "short": "Ordin culte nr. 143/2015",
+   "title": "Ordinul nr. 143/2015 privind modificarea și completarea Statutului Bisericii Unitariene din Transilvania, recunoscut prin Hotărârea Guvernului nr. 641/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175465",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175465",
+     "sha256": "a0b5b9fab0d29016da729c278dd0c1c1a2be1edc458dd20df86fffa6a496d252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-culte-7-2015",
+   "path": "ordin/culte/2015/7",
+   "short": "Ordin culte nr. 7/2015",
+   "title": "Ordinul nr. 7/2015 privind modificarea Statutului organic și administrativ al Arhiepiscopiei Bisericii Armene din România, recunoscut prin Hotărârea Guvernului nr. 56/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165148",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165148",
+     "sha256": "a1e7eeeb00367f8503fa0e7040a1e8d0f78df461b51b941d4de9f611f15e3b07"
     }
    ]
   },
@@ -8560,8 +8995,8 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocument/171630",
    "versions": [
     {
-     "from": "2015-09-28",
-     "units": 27,
+     "from": "2015-10-01",
+     "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171630",
      "sha256": "16abdc97c46367e685f9c1ec14ddf92224f33ab359b75ff6c249cfd737c4bcbf"
     }
@@ -10548,6 +10983,81 @@
    ]
   },
   {
+   "slug": "ordin-igsu-159-2015",
+   "path": "ordin/igsu/2015/159",
+   "short": "Ordin igsu nr. 159/2015",
+   "title": "Ordinul nr. 159/2015 pentru aprobarea Procedurii de efectuare a auditului de supraveghere a persoanelor autorizate pentru efectuarea lucrărilor în domeniul apărării împotriva incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170415",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170415",
+     "sha256": "d5e2d5b65266d16c6668c32f13e9204636a7aaac676d5d235effc9bb0971bf88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-236-2015",
+   "path": "ordin/ins/2015/236",
+   "short": "Ordin ins nr. 236/2015",
+   "title": "Ordinul nr. 236/2015 privind actualizarea Clasificării produselor și serviciilor asociate activităților - CPSA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168582",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168582",
+     "sha256": "7c8dba1107772b257cf0a0b0e952beb36d06e6ff03c71e573a1b6d1d5a67d229"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-501-2015",
+   "path": "ordin/ins/2015/501",
+   "short": "Ordin ins nr. 501/2015",
+   "title": "Ordinul nr. 501/2015 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173061",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173061",
+     "sha256": "b9427e7b8e47978b29c84d304065d82bcb5b08b9d0aa4d81de1648345ffc2908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-inspectiajudiciara-36-2015",
+   "path": "ordin/inspectiajudiciara/2015/36",
+   "short": "Ordin inspectiajudiciara nr. 36/2015",
+   "title": "Ordinul nr. 36/2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Inspecției Judiciare, aprobat prin Ordinul inspectorului-șef al Inspecției Judiciare nr. 24/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171337",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171337",
+     "sha256": "0e611700d93fa6f4b884ca19e4a4b01f87ca833040e537c165f802196ff0f284"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-integritate-15217-2015",
+   "path": "ordin/integritate/2015/15217",
+   "short": "Ordin integritate nr. 15217/2015",
+   "title": "Ordinul nr. 15.217/2015 privind modificarea Regulamentului de organizare și funcționare al Agenției Naționale de Integritate, aprobat prin Ordinul președintelui Agenției Naționale de Integritate nr. 86/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172035",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172035",
+     "sha256": "a5e3c56328b751f41b754d42181f053a79b8e515d167e5345c1603884806af20"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-100-2015",
    "path": "ordin/interne/2015/100",
    "short": "Ordin interne nr. 100/2015",
@@ -11463,6 +11973,21 @@
    ]
   },
   {
+   "slug": "ordin-iscir-100-2015",
+   "path": "ordin/iscir/2015/100",
+   "short": "Ordin iscir nr. 100/2015",
+   "title": "Ordinul nr. 100/2015 pentru aprobarea Regulamentului privind dobândirea calității de expert tehnic extrajudiciar în domeniul Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168461",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168461",
+     "sha256": "a5d13fa1685721c07644f4db298c8660974552850ebd3b97b0292a23886b5794"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1166-c-2015",
    "path": "ordin/justitie/2015/1166-c",
    "short": "Ordin justitie nr. 1166/C/2015",
@@ -11804,6 +12329,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167736",
      "sha256": "ed51a4b9fa60c8581e26f03100dabe3de729e781c303eeaa9d3e7ecdf04e3411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-luptatori-82-2015",
+   "path": "ordin/luptatori/2015/82",
+   "short": "Ordin luptatori nr. 82/2015",
+   "title": "Ordinul nr. 82/2015 privind aprobarea Protocolului încheiat între Secretariatul de stat pentru recunoașterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989 și Ministerul Tineretului și Sportului privind trimiterea în tabere de odihnă a copiilor ai căror părinți dețin certificate doveditoare ale calității de revoluționar eliberate în temeiul Legii recunoștinței pentru victoria Revoluției Române din Decembrie 1989 și pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 nr. 341/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169810",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169810",
+     "sha256": "6b707d7fee97ffd24913b2f8c3a6b05e64b6c340a02751521bf54800d8e52229"
     }
    ]
   },
@@ -12528,6 +13068,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-125-2015",
+   "path": "ordin/metrologie/2015/125",
+   "short": "Ordin metrologie nr. 125/2015",
+   "title": "Ordinul nr. 125/2015 pentru aprobarea unor modificări în cuprinsul unor ordine ale directorului general al Biroului Român de Metrologie Legală privind aprobarea unor norme de metrologie legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166984",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166984",
+     "sha256": "aceec5ea47732a0bacf16ad8f5acc262a256392d74c99cd97094646155248634"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1069-2015",
    "path": "ordin/munca/2015/1069",
    "short": "Ordin munca nr. 1069/2015",
@@ -12899,6 +13454,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167479",
      "sha256": "7dfdb1aa0705dc99e33fd9f3257eeb8fcd3a8b526b333484e726ef288fb0ff6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onjn-239-2015",
+   "path": "ordin/onjn/2015/239",
+   "short": "Ordin onjn nr. 239/2015",
+   "title": "Ordinul nr. 239/2015 privind aprobarea modelului de declarație lunară, sub forma unui formular-tip, pentru veniturile realizate de organizatorii jocurilor de noroc, care desfășoară activități de jocuri de noroc potrivit art. 10 alin. (1) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172024",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172024",
+     "sha256": "de23784e4e79fdc46e52ecbdaebf665fd33b4ff4265e2f9ee33bd9c0083af8d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-71-2015",
+   "path": "ordin/onpcsb/2015/71",
+   "short": "Ordin onpcsb nr. 71/2015",
+   "title": "Ordinul nr. 71/2015 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", precum și a caracteristicilor de tipărire a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167405",
+   "versions": [
+    {
+     "from": "2015-05-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167405",
+     "sha256": "3a2a54f39df915d7c7a1005d8a02088aac75074ed6a181b7f6ce7b9acd93310a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-81-2015",
+   "path": "ordin/onpcsb/2015/81",
+   "short": "Ordin onpcsb nr. 81/2015",
+   "title": "Ordinul nr. 81/2015 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor transferuri de fonduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168506",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168506",
+     "sha256": "acc05342ae0e29e114a91fdf955b7a7999a6331b722f9b45888005039d8a70e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-140-2015",
+   "path": "ordin/parchet/2015/140",
+   "short": "Ordin parchet nr. 140/2015",
+   "title": "Ordinul nr. 140/2015 privind răspunderea disciplinară a personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173167",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173167",
+     "sha256": "87eb4e35dd233d7f591ed4111d62e800e60d03fbe0474dd0d1e8aea72227274f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-parchet-45-2015",
+   "path": "ordin/parchet/2015/45",
+   "short": "Ordin parchet nr. 45/2015",
+   "title": "Ordinul nr. 45/2015 pentru modificarea Regulamentului privind evaluarea performanțelor profesionale individuale anuale și promovarea personalului contractual din cadrul Ministerului Public, aprobat prin Ordinul procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție nr. 84/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167090",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167090",
+     "sha256": "7b28a771c65be0f5afad9fb4bca371d2f31ef266bc5433b7c76f510e920ce3da"
     }
    ]
   },
@@ -14778,6 +15408,261 @@
    ]
   },
   {
+   "slug": "ordin-sie-232-2015",
+   "path": "ordin/sie/2015/232",
+   "short": "Ordin sie nr. 232/2015",
+   "title": "Ordinul nr. 232/2015 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172953",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172953",
+     "sha256": "a0fbf85c807e949565e063453dbd7888535293cfda992fb6a2678eea4a2ff318"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sie-233-2015",
+   "path": "ordin/sie/2015/233",
+   "short": "Ordin sie nr. 233/2015",
+   "title": "Ordinul nr. 233/2015 privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar și unor subofițeri din Serviciul de Informații Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172954",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172954",
+     "sha256": "8c6f9baf7d24cc08d1b0af0d18f828db9a2799b7fca7fd397485efa48a7e371c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-1124-2015",
+   "path": "ordin/sport/2015/1124",
+   "short": "Ordin sport nr. 1124/2015",
+   "title": "Ordinul nr. 1.124/2015 pentru aprobarea programelor sportive de utilitate publică și a metodologiei privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului, în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174004",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174004",
+     "sha256": "d7c41d2b34e35bee2aab72d640c51803c4208deedeebc858cb2f60dd7ea3f5e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-13-2015",
+   "path": "ordin/sport/2015/13",
+   "short": "Ordin sport nr. 13/2015",
+   "title": "Ordinul nr. 13/2015 privind aprobarea Metodologiei-cadru referitoare la finanțarea programelor sportive de utilitate publică ale structurilor sportive de drept privat din fonduri de la bugetul de stat și din venituri proprii ale Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164879",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164879",
+     "sha256": "cdf7415f3544b21f23370df48a94091992dcad72b5b2a445660ae92883219bd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-132-2015",
+   "path": "ordin/sport/2015/132",
+   "short": "Ordin sport nr. 132/2015",
+   "title": "Ordinul nr. 132/2015 privind aprobarea Metodologiei de alocare a fondurilor pentru activitatea sportivă de excelență a federațiilor sportive naționale pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166410",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166410",
+     "sha256": "403bedaff539292044073a89fe8526d3e223c74c633126fb09b2f92bf8bb0a35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-167-2015",
+   "path": "ordin/sport/2015/167",
+   "short": "Ordin sport nr. 167/2015",
+   "title": "Ordinul nr. 167/2015 privind aprobarea Procedurii de finanțare a activităților de promovare și reprezentare prin sport, prevăzute în Hotărârea Guvernului nr. 311/2003 privind aprobarea înființării pe lângă Ministerul Tineretului și Sportului a unei activități finanțate integral din venituri proprii, altele decât cele care nu sunt prevăzute în Metodologia-cadru referitoare la finanțarea programelor sportive de utilitate publică ale structurilor sportive de drept privat din fonduri de la bugetul de stat și din venituri proprii ale Ministerului Tineretului și Sportului, aprobată prin Ordinul ministrului tineretului și sportului nr. 13/2015, și în Metodologia de alocare a fondurilor pentru activitatea sportivă de excelență a federațiilor sportive naționale pentru anul 2015, aprobată prin Ordinul ministrului tineretului și sportului nr. 132/2015, și nu fac obiectul activității de excelență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167086",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167086",
+     "sha256": "4bd70375081ada392106a69bf7ded0b06177d772ff0b45e203805fc1228e6d8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-193-2015",
+   "path": "ordin/sport/2015/193",
+   "short": "Ordin sport nr. 193/2015",
+   "title": "Ordinul nr. 193/2015 privind modificarea și completarea Ghidului metodologic al Programului Pierre de Coubertin referitor la regimul finanțărilor din fonduri provenite integral din veniturile proprii ale Ministerului Tineretului și Sportului, alocate pentru activități de selecție, pregătire și realizare de competiții ale copiilor și ale persoanelor cu dizabilități, pe baza unor proiecte și programe ale federațiilor sportive naționale, cu scopul de a forma performeri, aprobat prin Ordinul ministrului tineretului și sportului nr. 345/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167400",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167400",
+     "sha256": "ec60b3babab9ba0277e123dd42571be1b21ee0a8a441b4c19e82984d869dcc69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-673-2015",
+   "path": "ordin/sport/2015/673",
+   "short": "Ordin sport nr. 673/2015",
+   "title": "Ordinul nr. 673/2015 privind aprobarea Procedurilor și condițiilor de autorizare a participării și organizării de către federațiile sportive naționale a competițiilor sportive internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172244",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172244",
+     "sha256": "ecfd042b5272671f5a6397149380bfff328fe01d2ee1fb865fc7e22408c00ce0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-83-2015",
+   "path": "ordin/sport/2015/83",
+   "short": "Ordin sport nr. 83/2015",
+   "title": "Ordinul nr. 83/2015 privind aprobarea modelului Protocolului pentru formarea și atestarea ca antrenor într-o ramură de sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165920",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165920",
+     "sha256": "a0bcffcdc2cb9103b77c676bb72bc412bf93f051624891c34b3c92876b846b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-27-2015",
+   "path": "ordin/spp/2015/27",
+   "short": "Ordin spp nr. 27/2015",
+   "title": "Ordinul nr. 27/2015 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170921",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170921",
+     "sha256": "255e8a7335ffbf026cd37231d01b2724a666fd727c0ae884ae377f162d36c17f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-spp-28-2015",
+   "path": "ordin/spp/2015/28",
+   "short": "Ordin spp nr. 28/2015",
+   "title": "Ordinul nr. 28/2015 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul de Protecție și Pază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170922",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170922",
+     "sha256": "539566f5d3a6d64b34fdc1270ab07c7b4b93357bbdf33c54d6028d2918e81c37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1509-2015",
+   "path": "ordin/sri/2015/1509",
+   "short": "Ordin sri nr. 1509/2015",
+   "title": "Ordinul nr. 1.509/2015 pentru aprobarea Instrucțiunilor privind efectuarea stagiilor de practică pe timpul studiilor universitare în unități ale Serviciului Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169619",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169619",
+     "sha256": "eb7b8a552aedc8e9a89269cfa1774012a91c730e36a69be8c3a486bd03d19d1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1526-2015",
+   "path": "ordin/sri/2015/1526",
+   "short": "Ordin sri nr. 1526/2015",
+   "title": "Ordinul nr. 1.526/2015 privind aprobarea însemnului heraldic și a drapelului distinctiv ale Academiei Naționale de Informații \"Mihai Viteazul\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172365",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172365",
+     "sha256": "0f4025838f7535472e5ee589982854e5d9a0191a3915660f52f50043aececce5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-525-2015",
+   "path": "ordin/sri/2015/525",
+   "short": "Ordin sri nr. 525/2015",
+   "title": "Ordinul nr. 525/2015 privind conferirea Semnului onorific În Serviciul Patriei unor ofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172944",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172944",
+     "sha256": "178084aff4a5f67acaba7a19c1745a957b39862a621132e10bc975d8ba340814"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-526-2015",
+   "path": "ordin/sri/2015/526",
+   "short": "Ordin sri nr. 526/2015",
+   "title": "Ordinul nr. 526/2015 privind conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri din Serviciul Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172945",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172945",
+     "sha256": "fff740212e72137f42e2784faf2a27f941180cdf97fed5e390bf66b3d5b5f247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-371-2015",
+   "path": "ordin/sts/2015/371",
+   "short": "Ordin sts nr. 371/2015",
+   "title": "Ordinul nr. 371/2015 pentru conferirea Semnului onorific În Serviciul Patriei unor ofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172881",
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172881",
+     "sha256": "95042fe1b473ab1175d66baab9c0bd274542b4d0a18f0aebc227e6782b3ee500"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-372-2015",
+   "path": "ordin/sts/2015/372",
+   "short": "Ordin sts nr. 372/2015",
+   "title": "Ordinul nr. 372/2015 pentru conferirea Semnului onorific În Serviciul Patriei unor maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172882",
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172882",
+     "sha256": "0885245f03256d81ad1cb2f159da7d0a418dd6068779d76e400648e4eda9f2dc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1001-2015",
    "path": "ordin/transporturi/2015/1001",
    "short": "Ordin transporturi nr. 1001/2015",
@@ -15764,6 +16649,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170591",
      "sha256": "a3684a407238580e0730f011ce17655a2d3a17e62fc845d0c3ef2cc15f8fd5be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-221-2015",
+   "path": "ordin/turism/2015/221",
+   "short": "Ordin turism nr. 221/2015",
+   "title": "Ordinul nr. 221/2015 pentru modificarea Normelor metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170093",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170093",
+     "sha256": "04203bd2dd0bd686f421cb398825fe351250ef0f8e554683ea3550a21df3844e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-258-2015",
+   "path": "ordin/turism/2015/258",
+   "short": "Ordin turism nr. 258/2015",
+   "title": "Ordinul nr. 258/2015 privind aprobarea Normelor pentru atribuirea contractelor de prestări servicii privind organizarea în România de către Autoritatea Națională pentru Turism a evenimentelor de promovare și dezvoltare a destinațiilor, formelor și produselor turistice, cu finanțare de la bugetul de stat și din Fondul European de Dezvoltare Regională (FEDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170768",
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170768",
+     "sha256": "3d1f4d358c7b90e7ae8c06f49d05cd5df5a5637be3b97f16f704a637bbe9945e"
     }
    ]
   }

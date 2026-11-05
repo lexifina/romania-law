@@ -609,6 +609,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235625",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "regulament-macroprudential-1-2020",
+"path": "regulament/macroprudential/2020/1",
+"kind": "regulament",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2020 pentru modificarea și completarea Regulamentului Comitetului Național pentru Supravegherea Macroprudențială nr. 2/2017 privind metodologia și procedura utilizate pentru stabilirea amortizoarelor de capital și sfera de aplicare a acestor instrumente",
+"short": "Regulament macroprudential nr. 1/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235552",
+"issuer": "macroprudential",
+"joint": []
 }
 ]
 }

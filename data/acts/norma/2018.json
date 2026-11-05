@@ -362,6 +362,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198799",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "norma-cifga-198-2018",
+"path": "norma/cifga/2018/198",
+"kind": "norma",
+"year": "2018",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 198/2018 \"Plafon de garantare în numele și în contul statului pentru proiecte de investiții finanțate din fonduri europene\"(NI-GAR-13-I/0)",
+"short": "Norma cifga nr. 198/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-19",
+"latest": "2018-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206116",
+"issuer": "cifga",
+"joint": []
 }
 ]
 }

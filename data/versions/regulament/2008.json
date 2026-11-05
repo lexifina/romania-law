@@ -286,6 +286,21 @@
      "sha256": "14ae9cef8864a14018a74d3cd9ed1db686f564967ab2c35b6987d522cddf9003"
     }
    ]
+  },
+  {
+   "slug": "regulament-inaltifunctionari-1-2008",
+   "path": "regulament/inaltifunctionari/2008/1",
+   "short": "Regulament inaltifunctionari nr. 1/2008",
+   "title": "Regulamentul nr. 1/2008 privind organizarea și desfășurarea concursului pentru intrarea în categoria înalților funcționari publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93585",
+   "versions": [
+    {
+     "from": "2008-06-02",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93585",
+     "sha256": "0be16a65d62d3002400ff123cbdc1ace107d631c1b8504ded6b77d2225f26822"
+    }
+   ]
   }
  ]
 }

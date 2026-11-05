@@ -106,6 +106,66 @@
      "sha256": "ccb7dec9a7573cf89d5e99098d494036e826f7ea37bffef7e714fed8e151219c"
     }
    ]
+  },
+  {
+   "slug": "regulament-fgdb-1-2004",
+   "path": "regulament/fgdb/2004/1",
+   "short": "Regulament fgdb nr. 1/2004",
+   "title": "Regulamentul nr. 1/2004 privind stabilirea, declararea și plata contribuției inițiale de către instituțiile de credit la Fondul de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55184",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55184",
+     "sha256": "295b43b45238d2ff8ffc11304402e9a4830f93e600cb4bfcd429e2d7588d8025"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-2-2004",
+   "path": "regulament/fgdb/2004/2",
+   "short": "Regulament fgdb nr. 2/2004",
+   "title": "Regulamentul nr. 2/2004 privind stabilirea, declararea și plata de către instituțiile de credit a contribuțiilor anuale, anuale majorate și speciale la Fondul de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55203",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55203",
+     "sha256": "831b1d946d363fa9b38602733900a645bf6c22860b94f1747e05633b3e32f9e9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-3-2004",
+   "path": "regulament/fgdb/2004/3",
+   "short": "Regulament fgdb nr. 3/2004",
+   "title": "Regulamentul nr. 3/2004 privind plata compensațiilor de către Fondul de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55221",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55221",
+     "sha256": "7628a38289354f3ddb87bf40416e9a9ccaeff303074fd5dbbe18eb270f3e490c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-fgdb-4-2004",
+   "path": "regulament/fgdb/2004/4",
+   "short": "Regulament fgdb nr. 4/2004",
+   "title": "Regulamentul nr. 4/2004 privind informațiile care trebuie furnizate de instituțiile de credit deponenților cu privire la schema de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55185",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55185",
+     "sha256": "a0eba72110ff9f3371421629d66c4b46650183e4f0bd4980bd4cbd037ad7a284"
+    }
+   ]
   }
  ]
 }

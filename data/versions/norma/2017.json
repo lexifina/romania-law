@@ -451,6 +451,21 @@
      "sha256": "39d07e64ef8a0c24ff0f11c752da0f54fbbac2671542bf4c8b82a59507ecc310"
     }
    ]
+  },
+  {
+   "slug": "norma-fgdspp-1-2017",
+   "path": "norma/fgdspp/2017/1",
+   "short": "Norma fgdspp nr. 1/2017",
+   "title": "Norma nr. 1/2017 privind majorarea sau diminuarea contribuțiilor anuale datorate Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187988",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187988",
+     "sha256": "b223385a5057b382203c904d17746d2b129d95373beca6de20b4d369edfab64b"
+    }
+   ]
   }
  ]
 }
