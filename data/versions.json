@@ -106052,6 +106052,21 @@
    ]
   },
   {
+   "slug": "legea-167-1999",
+   "path": "lege/1999/167",
+   "short": "Legea nr. 167/1999",
+   "title": "Legea nr. 167/1999 pentru modificarea Legii nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19845",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19845",
+     "sha256": "5b80d03289dd2e6c163eb86c1b6212b38411d7d0805e41f9f9e1af7ed55fec9c"
+    }
+   ]
+  },
+  {
    "slug": "legea-167-2001",
    "path": "lege/2001/167",
    "short": "Legea nr. 167/2001",

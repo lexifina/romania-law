@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12417 acts, 23,931 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12418 acts, 23,932 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8336, of which 3128 amending acts)
+## Laws (legi) (8337, of which 3129 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -684,6 +684,7 @@
 | Legea nr. 157/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/1998 privind unele măsuri pentru restructurarea Guvernului | [`lege/1999/157/`](lege/1999/157/) | amended, not consolidated | 1 | 1999-10-18 | 1999-10-18 |
 | Legea nr. 165/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/1999 privind aprobarea primei de export la carnea de porc şi de pasăre | [`lege/1999/165/`](lege/1999/165/) | amended, not consolidated | 1 | 1999-11-12 | 1999-11-12 |
 | Legea nr. 166/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 69/1998 privind regimul de autorizare a activităţilor din domeniul jocurilor de noroc | [`lege/1999/166/`](lege/1999/166/) | amended, not consolidated | 1 | 1999-11-11 | 1999-11-11 |
+| Legea nr. 167/1999 pentru modificarea Legii nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`lege/1999/167/`](lege/1999/167/) | amending act | 1 | 1999-11-11 | 1999-11-11 |
 | Legea nr. 168/1999 | [`lege/1999/168/`](lege/1999/168/) | in force | 5 | 2000-01-01 | 2011-05-13 |
 | Legea nr. 169/1999 pentru ratificarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Populare Bangladesh, semnat la Bucureşti la 15 septembrie 1997 | [`lege/1999/169/`](lege/1999/169/) | in force | 1 | 1999-12-02 | 1999-12-02 |
 | Legea nr. 171/1999 privind dreptul senatelor universitare de a stabili cuantumul taxelor pentru susţinerea examenelor de finalizare a studiilor de către absolvenţii învăţământului superior particular | [`lege/1999/171/`](lege/1999/171/) | in force | 1 | 1999-11-30 | 1999-11-30 |
@@ -12483,7 +12484,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28004 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28028 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

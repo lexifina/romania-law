@@ -68,6 +68,10 @@ History is never rewritten. When a version was published with the wrong text (fo
 
 The rule for reading a day stays the same: take the newest commit that touches the act's folder with `In-force:` on or before the day. Every day from the corrected one on then reads the corrected history, and earlier days read the original commits. `tools/on.py` and `tools/build/check_repo.py` follow this rule. The `<act id>/<day>` tags made before a correction are never moved, so they still show the text as first published.
 
+An order (`ordin/` and the other secondary-legislation kinds) first published on the wrong day is re-dated the same way, with two extra commit shapes:
+- **Dated too early:** a `Kind: correction` commit with `Corrects: <commit>` removes the order's provision files on the day it was wrongly served from; an emptied folder means "not yet in force" for those days. A second correction, with `Re-asserts: <commit>`, restates the text on the right day.
+- **Dated too late:** a `Kind: correction` commit with no `In-force:` trailer first clears the folder (no reader takes text from it), then the text is written back on the right day. For days before a re-dated order's real start, `tools/on.py` returns no text.
+
 When only the credit was wrong (the words are right, but a change was credited to the wrong law, or to none), nothing is restated. A `Kind: correction` commit with `Credits: <n>` and `Corrects: <commit>` trailers and no `In-force:` trailer (so no reader ever takes text from it) does two things:
 - it adds one row per provision and day to `data/credits.csv` (`act,in_force,provision,law,was_law,was_commit`);
 - it lists the corrected credits in the act's README.md, under "Credits corrected".
@@ -76,7 +80,7 @@ When only the credit was wrong (the words are right, but a change was credited t
 
 ## What is not here
 
-- Annexes, chapter and section headings.
+- Chapter and section headings, and the annexes of laws, ordinances and Government decisions. Orders and other secondary legislation include their annexes (`anexa-N/`) where the text could be read cleanly; an annex left out is named in the act's README.md and flagged `annex_missing` in `data/acts/`.
 - Figures, signs, pictograms and annexes that the Monitorul Oficial printed as facsimiles or in a separate issue; an article that refers to one keeps that reference.
 - The portal's editorial notes.
 - Court decisions other than the Constitutional Court's, the High Court of Cassation and Justice's binding decisions and the ECHR judgments published in the Monitorul Oficial. Those are in `jurisprudenta/` and change no act file.
