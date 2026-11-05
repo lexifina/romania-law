@@ -44,7 +44,8 @@ KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')
 # ro-explore/pubfirst/lane_parts.py). Each act carries the folder its lane built it in (`folder`), under one of these
 # roots, and its id starts with that root: decizie-bec/<election>/<nr>, hotarare-aep/<year>/<nr>, norma-aep/<year>/<id>,
 # curtea-de-conturi/<kind>/<year>/<nr>, avocatul-poporului/<kind>/<year>/<nr>, cncd/hotarare/<year>/<nr>,
-# anspdcp/<kind>/<year>/<nr or day>, normativ-tehnic/<code>, proiect/<initiator>/<year>/<id>.
+# anspdcp/<kind>/<year>/<nr or day>, normativ-tehnic/<code>, proiect/<initiator>/<year>/<id>,
+# profesii/<body>/<doc> or profesii/<body>/<organ-kind>/<year>/<nr>.
 LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations and results (BEC)',
               'hotarare-aep': 'Permanent Electoral Authority decisions (AEP)',
               'norma-aep': 'Permanent Electoral Authority norms, instructions and lists (AEP)',
@@ -53,7 +54,23 @@ LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations an
               'cncd': 'Anti-discrimination council decisions (CNCD)',
               'anspdcp': 'Data protection authority decisions and sanction notices (ANSPDCP)',
               'normativ-tehnic': 'Technical rules for construction (normative tehnice)',
-              'proiect': 'Draft acts in consultation and bills in Parliament (proiecte)'}
+              'proiect': 'Draft acts in consultation and bills in Parliament (proiecte)',
+              # EU legislation in force with its authentic Romanian OJ text (sources/eu-law, from CELLAR; 2026-11-05):
+              # ue/<regulament|directiva|decizie>/<year>/<number>[-<n>], id ue-<kind>-<number>[-<n>]-<year>. The
+              # folder follows the CELEX number (3 + year + R/L/D + number): 32016R0679 -> ue/regulament/2016/679.
+              'ue': 'EU law in Romanian: regulations and directives in force (Official Journal text)',
+              # Official annexes published apart from their act (sources/citizen; 2026-11-05): the act's own id is a
+              # folder level, so an annex never collides with an act: anexa/<act id>/<annex>/, id anexa-<act id>-<annex>
+              # (anexa/hg-1217-2023/anexa/, anexa/ordin-justitie-359-c-2013/anexa-2/); <annex> is "anexa" for a single
+              # unnumbered annex, else "anexa-<n>".
+              'anexa': 'Annexes published apart from their act (court circumscriptions, official forms)',
+              # sources/professions: the rules each legal profession's body issues (not the statutes): a named
+              # instrument amended over time is profesii/<body>/<doc> (profesii/unbr/statut, profesii/csm/cod-deontologic),
+              # a numbered act is profesii/<body>/<organ-kind>/<year>/<nr> (profesii/unbr/hotarare-consiliu/2017/268);
+              # bodies: unbr, inppa, unnpr, unej, ocjr, cscjr, unpir, mediere, csm, inm, ceccar, cafr;
+              # ids profesii-<folder below the root, "/" -> "-"> (profesii-unbr-statut, profesii-unbr-hotarare-consiliu-2017-268)
+              'profesii': "Legal professions' rules: statutes, codes of ethics, regulations and decisions of the "
+                          'professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR)'}
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **LANE_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 LANE_ROOTS = tuple(LANE_KINDS)
@@ -129,6 +146,9 @@ def act_path(slug: str, title: str = '') -> str:
 
 def parts_of(path: str) -> tuple[str, str, str]:
     bits = path.split('/')
+    if bits[0] == 'anexa' and len(bits) == 3:  # anexa/<act id>/<annex>: the act's year, the annex under its act
+        m = re.search(r'-(\d{4})$', bits[1]) or re.search(r'-(\d{4})-\d{1,2}$', bits[1])  # hg-10-2021-2: 2021
+        return bits[0], (m.group(1) if m else ''), f'{bits[1]}/{bits[2]}'
     if bits[0] in LANE_ROOTS and len(bits) >= 2:  # <root>/.../<year>/<id>: the year is the last 4-digit level, if any
         year = next((b for b in reversed(bits[1:-1]) if re.fullmatch(r'\d{4}', b)), '')
         if not year and bits[0] == 'decizie-bec' and len(bits) == 3:  # decizie-bec/<election>-<year>/<nr>
