@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arges/2021",
+ "acts": [
+  {
+   "slug": "hcj-arges-4-2021",
+   "path": "local/judet/arges/2021/4",
+   "short": "HCJ Argeș nr. 4/2021",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 4/2021",
+   "url": "https://www.cjarges.ro/hotarare-nr-4-din-30.05.2021-privind-inregistrarea-semnelor-electorale",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/1337797/Hot%C4%83r%C3%A2rea+4_2021.pdf/054c371f-90b4-4ce0-bf05-0f4cd251451e",
+     "sha256": "341e63347ea80b7b79a02f8a8fc03f593a683399287d6515194084a76a048382"
+    }
+   ]
+  }
+ ]
+}

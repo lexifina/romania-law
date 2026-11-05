@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arges/2024",
+ "acts": [
+  {
+   "slug": "hcj-arges-6-2024",
+   "path": "local/judet/arges/2024/6",
+   "short": "HCJ Argeș nr. 6/2024",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 6/2024 privind aprobarea bugetului local pe anul 2024 Consiliul Local al comunei Băiculești, județul Argeș, întrunit în ședință ordinară; Având în vedere: - Adresa AJFP Argeș: nr. AGG-STZ - 971 / 10 01 2024 referitoare la prevederile Deciziei nr. 2 / 10 01 2024 a Șefului Administrației Județene a Finanțelor Publice Argeș, prin care s-au repartizat pe comune, orașe, municipii și propriu județ, sumele defa",
+   "url": "https://www.cjarges.ro/documents/25010/2333174/Hotararea+nr.+6+din+12.02.2024+Buget+anul+2024.pdf/e95ceb08-f1c6-484f-81b1-7cca224b311f",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/25010/2333174/Hotararea+nr.+6+din+12.02.2024+Buget+anul+2024.pdf/e95ceb08-f1c6-484f-81b1-7cca224b311f",
+     "sha256": "d4f26647465eaec9b0d82066481eb780acac1bc7c980f80b072ea338604bbd3b"
+    }
+   ]
+  }
+ ]
+}

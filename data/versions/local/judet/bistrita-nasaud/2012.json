@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bistrita-nasaud/2012",
+ "acts": [
+  {
+   "slug": "hcj-bistrita-nasaud-1-2012",
+   "path": "local/judet/bistrita-nasaud/2012/1",
+   "short": "HCJ Bistrița-Năsăud nr. 1/2012",
+   "title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 1/2012 privind aprobarea bugetului de venituri și cheltuieli al comunei Tiha Bîrgăului pe anul 2012 ......................................................... 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 4 / 12 martie 2012 ROMANIA JUDEȚUL BISTRIȚA-NĂSĂUD COMUNA TIHA BÎRGĂULUI CONSILIUL LOCAL HOTĂRÂRE privind aprobarea bugetului de venituri și cheltuieli al comunei Tiha Bîrgăului pe anul 2012 Con",
+   "url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2012-00006aee?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/81D978BF90683DADC22586BD003D511A/$FILE/monitor%20nr.%204%20%20din%202012.pdf",
+     "sha256": "4182371599ce91a17f323ecd593eca33b0191ed369993e22094b2067c3a4b143"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bistrita-nasaud-3-2012",
+   "path": "local/judet/bistrita-nasaud/2012/3",
+   "short": "HCJ Bistrița-Năsăud nr. 3/2012",
+   "title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 3/2012 privind aprobarea bugetului de venituri și cheltuieli al comunei Josenii Bîrgăului pe anul 2012 ........................................................ 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 3 / 2 martie 2012 ROMĂNIA JUDEȚUL BISTRIȚA NĂSĂUD COMUNA JOSENII BÎRGĂULUI CONSILIUL LOCAL, HOTĂRARE privind aprobarea bugetului de venituri și cheltuieli al comunei Josenii Bîrgăului pe anul",
+   "url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2012-00006aee?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/558B131AAB8F7C0CC22586BD003D510D/$FILE/monitor%20nr.%203%20%20din%202012.pdf",
+     "sha256": "f87f9334e2ca291aae46b725e47dff7563fd045b89ade3dfa24eeb491f8b0648"
+    }
+   ]
+  }
+ ]
+}

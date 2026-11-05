@@ -67,6 +67,28 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcj-giurgiu-259-2026",
+"path": "local/judet/giurgiu/2026/259",
+"kind": "local",
+"year": "2026",
+"number": "259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 259/2026 pentru prelungirea restricțiilor de circulație instituite prin Hotărârea Consiliului Județean Giurgiu nr.241 din 17 octombrie 2022 privind aprobarea instituirii unor restricții de circulație pe drumul județean DJ 602, pentru autovehiculele rutiere de marfă care depășesc masa totală maximă autorizată de 12 tone, cu modificările ulterioare",
+"short": "HCJ Giurgiu nr. 259/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/bihor/2021",
+"acts": [
+{
+"slug": "hcj-bihor-8-2021",
+"path": "local/judet/bihor/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 8/2021 pentru alegerea primarilor din circumscripțiile locale Căbești și Rieni din 4 mai 2025, privind aducerea la cunoștință publică a semnelor electorale ale partidelor politice, alianțelor politice, alianțelor electorale și ale organizați",
+"short": "HCJ Bihor nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://www.cjbihor.ro/monitorul-oficial-local/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/gorj/2021",
+ "acts": [
+  {
+   "slug": "hcj-gorj-7-2021",
+   "path": "local/judet/gorj/2021/7",
+   "short": "HCJ Gorj nr. 7/2021",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 7/2021 privind aprobarea criteriilor de evaluare a performanțelor profesionale individuale pentru personalul contractual din unitățile sanitare publice al căror management a fost transferat Consiliului Județean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 5,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.01.2021%20-%20Adoptate/07.%20HCJ%20aprobare%20criterii%20de%20evaluare%20personal%20contractual%20spitale.pdf",
+     "sha256": "5aa7d2cb51dc5b3b684d02b21e501192974927894c9aeb1b61b25eb25b62567f"
+    }
+   ]
+  }
+ ]
+}

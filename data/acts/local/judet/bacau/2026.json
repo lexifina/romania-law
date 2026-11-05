@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/bacau/2026",
+"acts": [
+{
+"slug": "hcj-bacau-224-2026",
+"path": "local/judet/bacau/2026/224",
+"kind": "local",
+"year": "2026",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 224/2026 pentru anul 2026 - H.C.J",
+"short": "HCJ Bacău nr. 224/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2026-000378ca?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

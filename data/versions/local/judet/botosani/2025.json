@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-141-2025",
+   "path": "local/judet/botosani/2025/141",
+   "short": "HCJ Botoșani nr. 141/2025",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2025 privind modificarea Metodologiei de defalcare și facturare a cantităților de apă potabilă în condominii",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 6,
+     "source_url": "https://www.cjbotosani.ro/files/H141_20250627.pdf",
+     "sha256": "3f01a6428ed57bb6ea74e5103975e24bb315555dd981afef5441c72349a1c6d6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-243-2025",
    "path": "local/judet/botosani/2025/243",
    "short": "HCJ Botoșani nr. 243/2025",

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/pascani/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--pascani-1-2025",
+   "path": "local/iasi/pascani/2025/1",
+   "short": "HCL Pașcani nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 1/2025",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2025-0004148a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/F035C435F8C9538AC2258C1A0044B651/$FILE/hot.1.pdf",
+     "sha256": "b6f320b684719f5db473951d273f199f936d2bd7b76d758fae870b4a749921cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--pascani-2-2025",
+   "path": "local/iasi/pascani/2025/2",
+   "short": "HCL Pașcani nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 2/2025",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2025-0004148a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/F0020F1E9BEADAA4C2258C52002D2DC3/$FILE/hot%202.pdf",
+     "sha256": "b908854b0ef8541a9bf52767d489d129d4afebdd4b5db09357dbfeb4e2c31a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--pascani-3-2025",
+   "path": "local/iasi/pascani/2025/3",
+   "short": "HCL Pașcani nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 3/2025",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2025-0004148a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/A8B433DA4DD289C4C2258C910043AC6C/$FILE/hot%203.pdf",
+     "sha256": "fbe05aaba5fd7fa7bf274797b88e9ca8b35385231ccd2ce7349a195f8ac7f4f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--pascani-5-2025",
+   "path": "local/iasi/pascani/2025/5",
+   "short": "HCL Pașcani nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 5/2025",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2025-0004148a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/BB734BD01A838018C2258CD7003ACD21/$FILE/HOT5.pdf",
+     "sha256": "f65b7c2d2fb28077d8d1b3921f154cfa888f052d44f58afccd4df144d8357ac0"
+    }
+   ]
+  }
+ ]
+}

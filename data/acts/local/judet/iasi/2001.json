@@ -3,6 +3,29 @@
 "shard": "local/judet/iasi/2001",
 "acts": [
 {
+"slug": "hcj-iasi-73-2001",
+"path": "local/judet/iasi/2001/73",
+"kind": "local",
+"year": "2001",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 73/2001",
+"short": "HCJ Iași nr. 73/2001",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2001-05-26",
+"latest": "2001-05-26",
+"portal": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-73",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-iasi-106-2001",
 "path": "local/judet/iasi/2001/106",
 "kind": "local",

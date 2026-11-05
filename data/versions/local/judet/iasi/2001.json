@@ -16,6 +16,21 @@
      "sha256": "1505751b4b35b6e0c755c2582534220c2a18d39d6a990cc208d017b49e2887d7"
     }
    ]
+  },
+  {
+   "slug": "hcj-iasi-73-2001",
+   "path": "local/judet/iasi/2001/73",
+   "short": "HCJ Iași nr. 73/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 73/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-73",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-73",
+     "sha256": "5f9b28fb7f0639e0a1d579774c1a54a9bd7f100efaf124671d9f9f66e028ce7a"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/orastie/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--orastie-11-2022",
+   "path": "local/hunedoara/orastie/2022/11",
+   "short": "HCL Orăștie nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 11/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/1C06D4786E12529EC22587DD003DBBC9/$FILE/Hotararea%2011.pdf",
+     "sha256": "87a8954d460752736c7583caa5fe5d2d349b890f7676d9e3671627b209c10fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-14-2022",
+   "path": "local/hunedoara/orastie/2022/14",
+   "short": "HCL Orăștie nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 14/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/304EDE08C570D0E3C22587E200233CEF/$FILE/Hotararea%2014.pdf",
+     "sha256": "22a9b986ef53ed8b1fe6708d4146e5b99e48d4d9865395962a5eaf0dc9104978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-16-2022",
+   "path": "local/hunedoara/orastie/2022/16",
+   "short": "HCL Orăștie nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 16/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/55D42B46136C6EC4C22587EC0046F6D9/$FILE/Hotararea%2016.pdf",
+     "sha256": "c98856c64b1f13174488ed336133faba1f9ac9948bca375b5a5e5d04572eb1f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-19-2022",
+   "path": "local/hunedoara/orastie/2022/19",
+   "short": "HCL Orăștie nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 19/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/6A6D25B75132539EC22587F1002B7EA1/$FILE/Hotararea%2019.pdf",
+     "sha256": "7ffcf76eae2ea71558636dd52918b9c9dc2be53e0bbf7bcda9a94acd95ec19e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-2-2022",
+   "path": "local/hunedoara/orastie/2022/2",
+   "short": "HCL Orăștie nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 2/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/B839E4BE16D61C53C22587C60023152D/$FILE/Hotararea%202.pdf",
+     "sha256": "317b6bf13e2055e3bcebd9ad42120c1f2c7cb9cc98b8e6c3357ed7debf06038e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-5-2022",
+   "path": "local/hunedoara/orastie/2022/5",
+   "short": "HCL Orăștie nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 5/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AF29BCEA9482819FC22587CD0042C51A/$FILE/Hotararea%205.pdf",
+     "sha256": "f29dfb289a9ce33d929bcebda36441144c7f32142f4c6b3042cffb0958f2689d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-8-2022",
+   "path": "local/hunedoara/orastie/2022/8",
+   "short": "HCL Orăștie nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 8/2022",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/6D117BB989AF7E55C22587DD003DB24B/$FILE/Hotararea%208.pdf",
+     "sha256": "71275f4755817d4cd3a66b157d47937970f3947fc9533af92ab7232e30867954"
+    }
+   ]
+  }
+ ]
+}

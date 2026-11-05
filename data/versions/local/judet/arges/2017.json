@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arges/2017",
+ "acts": [
+  {
+   "slug": "hcj-arges-1-2017",
+   "path": "local/judet/arges/2017/1",
+   "short": "HCJ Argeș nr. 1/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 1/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-20.04.2017",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/518229/Hotarare_1_din_20_aprilie.pdf/e4e0e96d-7ee8-4669-bca7-5aa5aa81ca21",
+     "sha256": "c5e83bac5b61a777bcc5512c2d5857aeb50bc5df8e52648360a9ec6460e693a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-10-2017",
+   "path": "local/judet/arges/2017/10",
+   "short": "HCJ Argeș nr. 10/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 10/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificările ulterioare, HOTĂRĂȘTE: Art.1.Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-03.10.2017",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/583255/Hotararea_nr_10_din_03.10.2017.pdf/238238b9-acc2-4199-820e-3e8461b9a998",
+     "sha256": "68f5297232301c70fea72629495726730296786356abb00b3fcd93a319f68c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-11-2017",
+   "path": "local/judet/arges/2017/11",
+   "short": "HCJ Argeș nr. 11/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 11/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificările ulterioare, HOTĂRĂȘTE: Art. 1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-30.10.2017",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/593527/Hotararea_nr_11_din_30.10.2017/ece11974-ccc4-460e-a8f1-932b641c9efd",
+     "sha256": "337cb808f51498c8a50df69dcdafc0ca1d3fa67095d1a2b50b7d2a0bc2be826c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-12-2017",
+   "path": "local/judet/arges/2017/12",
+   "short": "HCJ Argeș nr. 12/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 12/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificările ulterioare, HOTĂRĂȘTE: Art. 1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-04.12.2017",
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/599049/Hotarare_nr_12_din_04.12.2017.pdf/3451b889-26b5-4d90-bca2-cbaa4cf4257b",
+     "sha256": "674d8fb3ccad8b09ea74fb3a98aa2ae75000808a3cf9af7ce36ec63d3a12d2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-13-2017",
+   "path": "local/judet/arges/2017/13",
+   "short": "HCJ Argeș nr. 13/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 13/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificările ulterioare, HOTĂRĂȘTE: Art. 1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-28.12.2017",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/605843/Hotarare_nr_13_din_28.12.2017/90c9b314-8f62-46c9-8d6e-0e9d8f7367ed",
+     "sha256": "d9acb702acd93ab884af20037ffc76345399294cd72cbadd80ba45efc88ed279"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-2-2017",
+   "path": "local/judet/arges/2017/2",
+   "short": "HCJ Argeș nr. 2/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 2/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-04.05.2017",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/518296/Hotarare_2_din_din_04_mai.pdf/22e83a6b-8d02-4a15-bf93-99e8dce739e5",
+     "sha256": "6a172eb7523df6ae147dcd437e2d955ae3e88643c48247b00de7579630b531cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-3-2017",
+   "path": "local/judet/arges/2017/3",
+   "short": "HCJ Argeș nr. 3/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 3/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-17.05.2017",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/522201/Hotarare_nr_3_din_17.05.2017.pdf/568f5c28-b18f-42ba-8630-441161572a09",
+     "sha256": "82462b72abcc3492fd7f204eb746e7875a70013b146d922d78a4328bf5ea9901"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-4-2017",
+   "path": "local/judet/arges/2017/4",
+   "short": "HCJ Argeș nr. 4/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 4/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-26.05.2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/528503/Hotararea_nr_4_din_26.05.2017_2.pdf/a95066d1-4400-4178-909a-bf8f03b29aa9",
+     "sha256": "aa3d80b986ca223099660c6fcad3f8b3d59f5edaa1b326799c840228517fce6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-6-2017",
+   "path": "local/judet/arges/2017/6",
+   "short": "HCJ Argeș nr. 6/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 6/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-30.06.2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/550928/Hotarare_nr_6_din_30.06.2017.pdf/282d5a9d-2699-4536-9ee4-7c09bcaa5369",
+     "sha256": "7da40ff9651c936460a11c5569c6e25e023ac784171602214a047fb190a7e362"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-7-2017",
+   "path": "local/judet/arges/2017/7",
+   "short": "HCJ Argeș nr. 7/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 7/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-07.07.2017",
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/559559/Hotarare_sedinta_07.07.2017.pdf/b24bdc96-e680-4c9e-b105-5a47ecd3eab4",
+     "sha256": "194506d3ea03628bdef25c040edf75ab8dcc098b0deb1e3b4847075fa37509d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-8-2017",
+   "path": "local/judet/arges/2017/8",
+   "short": "HCJ Argeș nr. 8/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 8/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificarile ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-21.07.2017",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/560089/Hotararea_nr_8_din_21.07.2017_2.pdf/1fe577de-2177-43da-b6fa-159f1c0801c0",
+     "sha256": "91825ddbeb5552eae150dedcad60248bc4291f50cee2bc1a3bd912a75f62e4d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-9-2017",
+   "path": "local/judet/arges/2017/9",
+   "short": "HCJ Argeș nr. 9/2017",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 9/2017 privind aprobarea Codului controlului intern/managerial al entitaților publice, Având în vedere Dispoziția nr. 359/06.04.2017 a Președintelui Consiliului Județean Argeș prin care a fost constituită Comisia de monitorizare, Ținând cont de Procesul Verbal al ședintei CM din data de 20.04.2017, În conformitate cu art. 3, alin. (4) din OSGG nr. 400/2015 cu modificările ulterioare, HOTĂRĂȘTE: Art.1 Se",
+   "url": "https://www.cjarges.ro/sedinta-din-data-de-25.08.2017",
+   "versions": [
+    {
+     "from": "2017-08-25",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/575866/Hotararea_nr_9_din_25.08.2017_2.pdf/fe04907e-09ac-4b58-9337-0e7051985cf5",
+     "sha256": "aff457f058003a7c2f2cca40db850dd65ac41b92896ef8ae9aeceb9d8cf02724"
+    }
+   ]
+  }
+ ]
+}

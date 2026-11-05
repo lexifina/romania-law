@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/bistrita-nasaud/2012",
+"acts": [
+{
+"slug": "hcj-bistrita-nasaud-1-2012",
+"path": "local/judet/bistrita-nasaud/2012/1",
+"kind": "local",
+"year": "2012",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 1/2012 privind aprobarea bugetului de venituri și cheltuieli al comunei Tiha Bîrgăului pe anul 2012 ......................................................... 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 4 / 12 martie 2012 ROMANIA JUDEȚUL BISTRIȚA-NĂSĂUD COMUNA TIHA BÎRGĂULUI CONSILIUL LOCAL HOTĂRÂRE privind aprobarea bugetului de venituri și cheltuieli al comunei Tiha Bîrgăului pe anul 2012 Con",
+"short": "HCJ Bistrița-Năsăud nr. 1/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2012-00006aee?OpenDocument",
+"council": "judet/bistrita-nasaud",
+"council_name": "Consiliul Județean Bistrița-Năsăud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bistrita-nasaud-3-2012",
+"path": "local/judet/bistrita-nasaud/2012/3",
+"kind": "local",
+"year": "2012",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 3/2012 privind aprobarea bugetului de venituri și cheltuieli al comunei Josenii Bîrgăului pe anul 2012 ........................................................ 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 3 / 2 martie 2012 ROMĂNIA JUDEȚUL BISTRIȚA NĂSĂUD COMUNA JOSENII BÎRGĂULUI CONSILIUL LOCAL, HOTĂRARE privind aprobarea bugetului de venituri și cheltuieli al comunei Josenii Bîrgăului pe anul",
+"short": "HCJ Bistrița-Năsăud nr. 3/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-02-06",
+"latest": "2012-02-06",
+"portal": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2012-00006aee?OpenDocument",
+"council": "judet/bistrita-nasaud",
+"council_name": "Consiliul Județean Bistrița-Năsăud",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

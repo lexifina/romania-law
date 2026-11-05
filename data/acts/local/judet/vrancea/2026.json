@@ -3,6 +3,50 @@
 "shard": "local/judet/vrancea/2026",
 "acts": [
 {
+"slug": "hcj-vrancea-112-2026",
+"path": "local/judet/vrancea/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 112/2026 pentru aparatul de specialitate al Consiliului Județean Vrancea, cabinetul președintelui și cabinetele vicepreședinților Consiliului Județean Vrancea, precum și a Regulamentului de Organizare și Funcționare al aparatului de specialitate al Consiliului Județean Vrancea",
+"short": "HCJ Vrancea nr. 112/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://cjvrancea.ro/hotarari/page/6/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-vrancea-203-2026",
+"path": "local/judet/vrancea/2026/203",
+"kind": "local",
+"year": "2026",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 203/2026 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; art.68 alin.(1), art.69 alin.(1) și art.70 alin.(1) din Hotărârea Guvernului nr.1336/2022 pentru aprobarea Regulamentului-cadru privind organizarea și dezvoltarea carierei personalului contractual din sectorul bugetar plătit din fonduri publice; art.31 alin.(4) din Legea nr.153/2017 privind sal",
+"short": "HCJ Vrancea nr. 203/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://cjvrancea.ro/hotarari/page/3/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-vrancea-209-2026",
 "path": "local/judet/vrancea/2026/209",
 "kind": "local",
@@ -25,6 +69,28 @@
 }
 },
 {
+"slug": "hcj-vrancea-213-2026",
+"path": "local/judet/vrancea/2026/213",
+"kind": "local",
+"year": "2026",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 213/2026 pentru obiectivul de investiții „Demolare Corp B din cadrul Centrului Militar Zonal Județean”, ca urmare a corectării modului de calcul al taxei pe valoarea adăugată",
+"short": "HCJ Vrancea nr. 213/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://cjvrancea.ro/hotarari/page/2/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-vrancea-227-2026",
 "path": "local/judet/vrancea/2026/227",
 "kind": "local",
@@ -44,6 +110,29 @@
 "council_name": "Consiliul Județean Vrancea",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vrancea-240-2026",
+"path": "local/judet/vrancea/2026/240",
+"kind": "local",
+"year": "2026",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 240/2026",
+"short": "HCJ Vrancea nr. 240/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://cjvrancea.ro/hotarari/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 }
 ]

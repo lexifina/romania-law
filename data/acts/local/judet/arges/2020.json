@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/arges/2020",
+"acts": [
+{
+"slug": "hcj-arges-229-2020",
+"path": "local/judet/arges/2020/229",
+"kind": "local",
+"year": "2020",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 229/2020",
+"short": "HCJ Argeș nr. 229/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-09",
+"latest": "2020-10-09",
+"portal": "https://www.cjarges.ro/hotarari-de-consiliu-anul-20201",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

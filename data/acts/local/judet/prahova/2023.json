@@ -3,6 +3,28 @@
 "shard": "local/judet/prahova/2023",
 "acts": [
 {
+"slug": "hcj-prahova-366-2023",
+"path": "local/judet/prahova/2023/366",
+"kind": "local",
+"year": "2023",
+"number": "366",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 366/2023 privind aprobarea Regulamentului de Organizare a ”Galei de Excelență a Învățământului Prahovean”",
+"short": "HCJ Prahova nr. 366/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-prahova-381-2023",
 "path": "local/judet/prahova/2023/381",
 "kind": "local",

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-iasi-45-2002",
+   "path": "local/judet/iasi/2002/45",
+   "short": "HCJ Iași nr. 45/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 45/2002 privind actualizarea taxei speciale de cultura si sport, se modifica si se completeaza dupa cum urmeaza: La art.2 se introduc alineatele 2 si 3 ca",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-45",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-45",
+     "sha256": "683f2ba57e25e42c26933a6834f4e7c89cd94fb2d44fd038c9d755d52c00dc30"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-86-2002",
    "path": "local/judet/iasi/2002/86",
    "short": "HCJ Iași nr. 86/2002",

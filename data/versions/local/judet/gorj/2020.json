@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-gorj-180-2020",
+   "path": "local/judet/gorj/2020/180",
+   "short": "HCJ Gorj nr. 180/2020",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 180/2020 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2021, la nivelul Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 4,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/18.12.2020%20-%20Adoptate/180.%20HCJ%20preturi%20produse%20agricole%202020.pdf",
+     "sha256": "6125ff654f1727d7456e1d816be4857c2d8284512291b7182930eaac843c587b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-76-2020",
    "path": "local/judet/gorj/2020/76",
    "short": "HCJ Gorj nr. 76/2020",

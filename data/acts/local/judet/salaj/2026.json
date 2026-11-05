@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcj-salaj-123-2026",
+"path": "local/judet/salaj/2026/123",
+"kind": "local",
+"year": "2026",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 123/2026 privind aprobarea unor măsuri referitoare la reluarea procedurii de selecție a administratorilor societăţilor comerciale ,,PAZĂ OBIECTIVE ȘI INTERVENȚIE” SRL și “SILVANIA PARK” SRL",
+"short": "HCJ Sălaj nr. 123/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-salaj-143-2026",
 "path": "local/judet/salaj/2026/143",
 "kind": "local",

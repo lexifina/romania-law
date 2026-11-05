@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/bistrita-nasaud/2015",
+"acts": [
+{
+"slug": "hcj-bistrita-nasaud-11-2015",
+"path": "local/judet/bistrita-nasaud/2015/11",
+"kind": "local",
+"year": "2015",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 11/2015 privind aprobarea bugetului de venituri și cheltuieli al comunei Șieu Măgheruș pe 2015 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 6 /7 APRILIE 2015 ROMÂNIA Șieu-Măgheruș, nr.243 JUDEȚUL BISTRIȚA-NĂSĂUD Tel. 0263-277490, Fax: 0263-277052 CONSILIUL LOCAL ȘIEU-MĂGHERUȘ E-mail:primaria_sieumagherus@yahoo.com Website: http://www.sieu-magherus.ro HOTĂRARE privind aprobarea bugetului de venit",
+"short": "HCJ Bistrița-Năsăud nr. 11/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-16",
+"latest": "2015-02-16",
+"portal": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2015-00006a5a?OpenDocument",
+"council": "judet/bistrita-nasaud",
+"council_name": "Consiliul Județean Bistrița-Năsăud",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

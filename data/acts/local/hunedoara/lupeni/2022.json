@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-27-2022",
+"path": "local/hunedoara/lupeni/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 27/2022 privind aprobarea Bugetului local pe anul 2022.pdf",
+"short": "HCL Lupeni nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b636?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-169-2022",
+"path": "local/hunedoara/lupeni/2022/169",
+"kind": "local",
+"year": "2022",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 169/2022 privind aprobarea contului de execuţie bugetară aferentă trimestrului II .pdf",
+"short": "HCL Lupeni nr. 169/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b662?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-227-2022",
+"path": "local/hunedoara/lupeni/2022/227",
+"kind": "local",
+"year": "2022",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 227/2022 privind aprobarea contului de execuţie bugetară aferentă trimestrului III.pdf",
+"short": "HCL Lupeni nr. 227/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b662?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

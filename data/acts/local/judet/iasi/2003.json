@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2003",
+"acts": [
+{
+"slug": "hcj-iasi-62-2003",
+"path": "local/judet/iasi/2003/62",
+"kind": "local",
+"year": "2003",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 62/2003 pentru scoaterea la vinzare, cu respectarea procedurilor si metodologiei prevazute de lege",
+"short": "HCJ Iași nr. 62/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-03-31",
+"latest": "2003-03-31",
+"portal": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-62",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-72-2003",
+"path": "local/judet/iasi/2003/72",
+"kind": "local",
+"year": "2003",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 72/2003 privind taxa speciala de cultura si sport, dupa cum urmeaza: 1",
+"short": "HCJ Iași nr. 72/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-06-10",
+"latest": "2003-06-10",
+"portal": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-72",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-73-2003",
+"path": "local/judet/iasi/2003/73",
+"kind": "local",
+"year": "2003",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 73/2003 pentru manopera lucrarilor specifice protectiei plantelor conform Anexei, parte integranta din prezenta hotarare. Art.2 Tarifele pentru prestarea lucrarilor specifice protectiei p",
+"short": "HCJ Iași nr. 73/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-06-10",
+"latest": "2003-06-10",
+"portal": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-73",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-141-2003",
+"path": "local/judet/iasi/2003/141",
+"kind": "local",
+"year": "2003",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 141/2003 pentru serviciul public de alimentare cu apa va fi cel aprobat prin Dispozitia Presedintelui Consiliului Judetean Iasi nr. 364/06.08.2003, dupa cum urmeaza: apa potabila: 15657 lei/mc-pret/tarif pentru populatie 13157 lei/mc-pret/tarif pentru rest utilizatori. Art.3 Pentru sistemele de alimentare cu apa identificate in Anexa 2, parte integranta a prezentei, fiecare Consiliu Local va asigura organi",
+"short": "HCJ Iași nr. 141/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-09-03",
+"latest": "2003-09-03",
+"portal": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-141",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

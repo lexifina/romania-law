@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bistrita-nasaud/2011",
+ "acts": [
+  {
+   "slug": "hcj-bistrita-nasaud-37-2011",
+   "path": "local/judet/bistrita-nasaud/2011/37",
+   "short": "HCJ Bistrița-Năsăud nr. 37/2011",
+   "title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 37/2011 privind încadrarea pe zone a terenurilor din intravilanul și extravilanul comunei Josenii-Bîrgăului cu satele componente: Josenii Bîrgăului, Mijlocenii Bîrgăului, Rusu Bîrgăului și Strîmba, începând cu anul 2010 ........................................................................................................................... 2",
+   "url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2011-00006b26?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/5A92554CCD0768B5C22586BD003D6709/$FILE/2011%20monitor%20nr.7.pdf",
+     "sha256": "1fb606d80b0e3c6948e44f53a8a4270e83c873091dce21829fbc87e09b958c78"
+    }
+   ]
+  }
+ ]
+}

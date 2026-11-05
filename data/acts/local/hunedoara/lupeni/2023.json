@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2023",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-10-2023",
+"path": "local/hunedoara/lupeni/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 10/2023 privind aprobarea Bugetului local pe anul 2023.pdf",
+"short": "HCL Lupeni nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2023-0000b3e2?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-39-2023",
+"path": "local/hunedoara/lupeni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 39/2023 privind aprobarea contului de execuţie bugetară aferentă trimestrului IV 2022 .pdf",
+"short": "HCL Lupeni nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b662?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

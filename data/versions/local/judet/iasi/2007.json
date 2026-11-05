@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2007",
+ "acts": [
+  {
+   "slug": "hcj-iasi-281-2007",
+   "path": "local/judet/iasi/2007/281",
+   "short": "HCJ Iași nr. 281/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 281/2007 pentru autostrada Targu-Mures - Iasi - Sculeni, urmand ca proiectantul sa decida ulterior traseul optim al acesteia, dupa analiza in detaliu si pe baza criteriilor specifi",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-281",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-281",
+     "sha256": "4361e386b837a11d10f5537a739c7471a0f0c2c63f74b8a987d6fe69127760f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2007",
+   "path": "local/judet/iasi/2007/75",
+   "short": "HCJ Iași nr. 75/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2007 pentru transportul rutier de persoane prin servicii regulate in trafic judetean, Autoritatea Rutiera Romana - Agentia Iasi si Autoritatea Teritoriala de Ordine Publica Iasi vor prezenta trimestrial, în Plenul Consiliului Judetean Iasi, o informare asupra modului de implementare a Programului de transport rutier de persoane prin servicii regulate in trafic judetean, prevazut la art.1. Art.4 La efec",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "40bc78e589e0876fdb91580e56d8d8cd0bd44e711b30883cd4d94301684b5d4d"
+    }
+   ]
+  }
+ ]
+}

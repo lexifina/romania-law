@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arges/2015",
+ "acts": [
+  {
+   "slug": "hcj-arges-108-2015",
+   "path": "local/judet/arges/2015/108",
+   "short": "HCJ Argeș nr. 108/2015",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 108/2015 privind aprobarea achiziționării din fonduri proprii a patru autoutilitare de către Direcția Generală de Asistență Socială și Protecția Copilului Argeș",
+   "url": "https://www.cjarges.ro/hotarari-de-consiliu-anul-2015",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/10865/133296/CJ_Arges_Hotarare_nr_260_din_18.12.2015.pdf/12f81fa2-0b32-475f-9090-d7f5a269523a",
+     "sha256": "0d40c98bc3573ad67ce5de29a79e289ffb8c61f387084a0d4d2c263b60c694e9"
+    }
+   ]
+  }
+ ]
+}

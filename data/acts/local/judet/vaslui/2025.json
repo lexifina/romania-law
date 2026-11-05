@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcj-vaslui-46-2025",
+"path": "local/judet/vaslui/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 46/2025 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2025",
+"short": "HCJ Vaslui nr. 46/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-vaslui-47-2025",
 "path": "local/judet/vaslui/2025/47",
 "kind": "local",
@@ -111,6 +133,29 @@
 "council_name": "Consiliul Județean Vaslui",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-86-2025",
+"path": "local/judet/vaslui/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 86/2025 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților nonprofit de interes județean, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social, tineret și sport",
+"short": "HCJ Vaslui nr. 86/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
 }
 },
 {
@@ -178,6 +223,28 @@
 "council_name": "Consiliul Județean Vaslui",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-180-2025",
+"path": "local/judet/vaslui/2025/180",
+"kind": "local",
+"year": "2025",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 180/2025 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2026",
+"short": "HCJ Vaslui nr. 180/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
 }
 }
 ]

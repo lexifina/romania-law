@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2025",
+ "acts": [
+  {
+   "slug": "hcj-bacau-190-2025",
+   "path": "local/judet/bacau/2025/190",
+   "short": "HCJ Bacău nr. 190/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 190/2025 pentru anul 2025 - 29.08.2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/80DAE0EB89351538C2258CF90031CC84/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.190%20DIN%2029.08.2025.XLS",
+     "sha256": "20dd08169785f1368762d88e89217d7297af9d9608939c543effd07716d5adf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-230-2025",
+   "path": "local/judet/bacau/2025/230",
+   "short": "HCJ Bacău nr. 230/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 230/2025 pentru anul 2025 la 30.09.2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/598B9EE59D5A4473C2258D17003F01F1/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.230%20%20DIN%2030.09.2025%20+%20virari%20de%20%20credite.XLS",
+     "sha256": "7fe9be6253db87a33011ca751de5e6184f4a16009727e7dd91b46ee65d840156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-245-2025",
+   "path": "local/judet/bacau/2025/245",
+   "short": "HCJ Bacău nr. 245/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 245/2025 pentru anul 2025 la 31.10.2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/3F96D16E3E68C214C2258D3F0036D86A/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.245%20%20DIN%2031.10.2025%20si%20virari%20de%20%20credite.XLS",
+     "sha256": "b2fac59911e052c3f9620e80f587760ac8127bf5b7105a395f0e275fad5c6441"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-272-2025",
+   "path": "local/judet/bacau/2025/272",
+   "short": "HCJ Bacău nr. 272/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 272/2025 pentru anul 2025 la 27.11.2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/BE6207351EAA4C7DC2258D570031ED4B/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.272%20%20DIN%2027.11.2025%20+%20virari%20de%20%20credite.XLS",
+     "sha256": "128295d62259a28c9e072bde9c1d776ae7bdf7f47e801241cf0b81e12b039c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-295-2025",
+   "path": "local/judet/bacau/2025/295",
+   "short": "HCJ Bacău nr. 295/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 295/2025 pentru anul 2025 la 17.12.2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/61C228C93226FA39C2258D6F004AC852/$FILE/BVC%20RECTIFICAT%20HCJ%20295%20DIN%2017.12.2025%20si%20virari%20de%20%20credite.XLS",
+     "sha256": "fc40ae1fffeb5b34800a7f1db1b84d49ae1a3c3d6b8798116613133b622a681c"
+    }
+   ]
+  }
+ ]
+}

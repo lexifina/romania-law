@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2006",
+ "acts": [
+  {
+   "slug": "hcj-iasi-266-2006",
+   "path": "local/judet/iasi/2006/266",
+   "short": "HCJ Iași nr. 266/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 266/2006 pentru terenurile libere de orice sarcina aferente amplasamentelor pentru statii de pompare, rezervoare, statii de epurare si alte obiective stabilite prin Studiul de Fezabilitate, pentru 105 amplasamente, in valoare estimata de 36.750 RON: a)Documentatia cadastrala pentru obtinerea numarului cadastral provizoriu, conform normativelor cadru, valoare 200 RON/amplasament b)Taxa de avizare a document",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-266",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-266",
+     "sha256": "82f147294362f7b94f1b060b93e7965702afa0dbccd75e74f2087436be2c9f39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-289-2006",
+   "path": "local/judet/iasi/2006/289",
+   "short": "HCJ Iași nr. 289/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 289/2006 privind impozitele si taxele locale pentru anul 2007; Art.2 Celelalte prevederi ale Hotararii Consiliului Judetean lasi nr. 99",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-289",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-289",
+     "sha256": "0f951948040532a85ab744b5fc6e972301edaa3f4dcfc5377b4749ab6c9fa780"
+    }
+   ]
+  }
+ ]
+}

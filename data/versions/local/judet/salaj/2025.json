@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-salaj-149-2025",
+   "path": "local/judet/salaj/2025/149",
+   "short": "HCJ Sălaj nr. 149/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2025 pentru modificarea anexei nr.9 la Hotărârea Consiliului Județean Sălaj nr. 166 din 20 decembrie 2024 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2025",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=89:hotarari-2025&catid=2",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 8,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot1492025.pdf",
+     "sha256": "d5b2daa90a5aaf97db1a70afcdacaf227e61ffb4c15d660b96c3704f18e58cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2025",
+   "path": "local/judet/salaj/2025/150",
+   "short": "HCJ Sălaj nr. 150/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2025 privind ajustarea tarifelor aplicabile serviciului public de salubrizare al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=89:hotarari-2025&catid=2",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 5,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot1502025.pdf",
+     "sha256": "6273f4fbb92cc5115e85326313a576de9da6f28172b8943022da1376579f9de7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-158-2025",
    "path": "local/judet/salaj/2025/158",
    "short": "HCJ Sălaj nr. 158/2025",
@@ -29,6 +59,66 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot1582025.pdf",
      "sha256": "f59060566c3b282c876b887777429a51025458011dbf3d9951aa88da2aa6af74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-171-2025",
+   "path": "local/judet/salaj/2025/171",
+   "short": "HCJ Sălaj nr. 171/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 171/2025 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2026",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=89:hotarari-2025&catid=2",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 6,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot1712025.pdf",
+     "sha256": "297219f00655b2f90ff7839e03468816bd32e5408bd4e9f878a0d6d4406c39b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-173-2025",
+   "path": "local/judet/salaj/2025/173",
+   "short": "HCJ Sălaj nr. 173/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 173/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 4,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot1732025.pdf",
+     "sha256": "9490876225fa6c30dc2b6633ba25041fc03fefe253b588c1643c47b54b022d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2025",
+   "path": "local/judet/salaj/2025/48",
+   "short": "HCJ Sălaj nr. 48/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2025 privind modificarea tarifelor de călătorie practicate pe traseele aferente loturilor 2, 3, 4, 5, 6, 7 și 13 din Programul de transport judeţean de persoane prin curse regulate pe raza administrativ – teritorială a Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=89:hotarari-2025&catid=2",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 6,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot482025.pdf",
+     "sha256": "1007553f14a8d1fdad2e9b3c8830e0da30072d64856bc74a257398f92cefce18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2025",
+   "path": "local/judet/salaj/2025/75",
+   "short": "HCJ Sălaj nr. 75/2025",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2025 privind aprobarea actualizării Regulamentului de organizare și funcționare al Serviciului Public Comunitar Județean de Evidență a Persoanelor Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=89:hotarari-2025&catid=2",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 5,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2025/hot752025.pdf",
+     "sha256": "300b73b3cc8ffb983a8cf112ad87ab2d0e7690ff69231c1f5e640522442b22de"
     }
    ]
   }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lupeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lupeni-169-2022",
+   "path": "local/hunedoara/lupeni/2022/169",
+   "short": "HCL Lupeni nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 169/2022 privind aprobarea contului de execuţie bugetară aferentă trimestrului II .pdf",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b662?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/9BBC9D0CFDA72761C22589A30030A630/$FILE/HCL%20nr.%20169%20din%2029.09.2022%20privind%20aprobarea%20contului%20de%20%20execu%C5%A3ie%20bugetar%C4%83%20aferent%C4%83%20trimestrului%20II%20.pdf",
+     "sha256": "708c57623132dff06200069f16714a8e6d4a88e3878ea1b03f031b83a6a1c892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-227-2022",
+   "path": "local/hunedoara/lupeni/2022/227",
+   "short": "HCL Lupeni nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 227/2022 privind aprobarea contului de execuţie bugetară aferentă trimestrului III.pdf",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b662?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2CC2AAA2FA04A9B7C22589A30030F32C/$FILE/HCL%20nr.%20227%20din%2028.11.2022%20privind%20aprobarea%20contului%20de%20%20execu%C5%A3ie%20bugetar%C4%83%20aferent%C4%83%20trimestrului%20III.pdf",
+     "sha256": "c1baff88e9539b8ccce7362dc5f8b3144159559a1d6ecf55774cf59fe907798d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-27-2022",
+   "path": "local/hunedoara/lupeni/2022/27",
+   "short": "HCL Lupeni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 27/2022 privind aprobarea Bugetului local pe anul 2022.pdf",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/2022-0000b636?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/8F589AD1E20A6854C22589A3002FF195/$FILE/HCL%2027%20din%2011.02.2022%20privind%20aprobarea%20Bugetului%20local%20pe%20%20anul%202022.pdf",
+     "sha256": "d7b3e62de7ad6b31541b3bbd5b2e9c466a7acca2151b76281f0a937d8034d172"
+    }
+   ]
+  }
+ ]
+}

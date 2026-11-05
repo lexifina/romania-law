@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/alba/2021",
+"acts": [
+{
+"slug": "hcj-alba-180-2021",
+"path": "local/judet/alba/2021/180",
+"kind": "local",
+"year": "2021",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Alba nr. 180/2021",
+"short": "HCJ Alba nr. 180/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://www.staging.cjalba.ro/wp-content/uploads/2021/08/2_180-H-modificare-HCJ-96-din-2021-Regulament-cultura-scrisa.pdf",
+"council": "judet/alba",
+"council_name": "Consiliul Județean Alba",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

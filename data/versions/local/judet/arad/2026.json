@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2026",
+ "acts": [
+  {
+   "slug": "hcj-arad-338-2026",
+   "path": "local/judet/arad/2026/338",
+   "short": "HCJ Arad nr. 338/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 338/2026 privind aprobarea utilizării excedentului bugetar al anilor precedenți pentru finanțarea cheltuielilor secțiunii de dezvoltare în anul 2026",
+   "url": "https://www.cjarad.ro/wp-content/uploads/2026/11/Hotarare.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/11/Hotarare.pdf",
+     "sha256": "4902a9c6288998d6f258ced1493e20ced2b1fa63a62a9eba8b2a4e1de0ef6e73"
+    }
+   ]
+  }
+ ]
+}

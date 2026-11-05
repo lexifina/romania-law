@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2003",
+ "acts": [
+  {
+   "slug": "hcj-iasi-141-2003",
+   "path": "local/judet/iasi/2003/141",
+   "short": "HCJ Iași nr. 141/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 141/2003 pentru serviciul public de alimentare cu apa va fi cel aprobat prin Dispozitia Presedintelui Consiliului Judetean Iasi nr. 364/06.08.2003, dupa cum urmeaza: apa potabila: 15657 lei/mc-pret/tarif pentru populatie 13157 lei/mc-pret/tarif pentru rest utilizatori. Art.3 Pentru sistemele de alimentare cu apa identificate in Anexa 2, parte integranta a prezentei, fiecare Consiliu Local va asigura organi",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-141",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-141",
+     "sha256": "80ccdf2ef0b2f0dd866647425c06b22f214a3af0ae23d1f32f5a88f94e6c96e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-62-2003",
+   "path": "local/judet/iasi/2003/62",
+   "short": "HCJ Iași nr. 62/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 62/2003 pentru scoaterea la vinzare, cu respectarea procedurilor si metodologiei prevazute de lege",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-62",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-62",
+     "sha256": "d709fb1681c82165bbba8f106bc1d149eae44ca2bb213b9f25eff86e13c217e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-72-2003",
+   "path": "local/judet/iasi/2003/72",
+   "short": "HCJ Iași nr. 72/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 72/2003 privind taxa speciala de cultura si sport, dupa cum urmeaza: 1",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-72",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-72",
+     "sha256": "bcb10864713b2301c6e64783d8a3cfef0f0ca7ad22bb0ed9cce3536577c9783e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-73-2003",
+   "path": "local/judet/iasi/2003/73",
+   "short": "HCJ Iași nr. 73/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 73/2003 pentru manopera lucrarilor specifice protectiei plantelor conform Anexei, parte integranta din prezenta hotarare. Art.2 Tarifele pentru prestarea lucrarilor specifice protectiei p",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-73",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-73",
+     "sha256": "6a59ad29ffb6e28bc0e00198f88423dd6a3768c8c386d352849eac5303d29c6c"
+    }
+   ]
+  }
+ ]
+}

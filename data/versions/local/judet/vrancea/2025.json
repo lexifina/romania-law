@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vrancea/2025",
+ "acts": [
+  {
+   "slug": "hcj-vrancea-132-2025",
+   "path": "local/judet/vrancea/2025/132",
+   "short": "HCJ Vrancea nr. 132/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 132/2025 privind emiterea și atribuirea licențelor de traseu provizorii, stabilirea tarifelor de călătorie și atribuirea în gestiune delegată a serviciului de transport public județean de persoane prin curse regulate către operatorii de transport declarați câștigători ai loturilor nr. 3, nr.27 și nr.28 din Programul județean de transport, în urma procedurilor de negociere fără invitație prealabilă la proce",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hot-132-transport-lot-3-27-si-28.docx",
+     "sha256": "259e06abd9c3c2bb7f8c792b1d18596ebe153cb31ef0b0ca30417cd350e5904c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-135-2025",
+   "path": "local/judet/vrancea/2025/135",
+   "short": "HCJ Vrancea nr. 135/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 135/2025 privind aprobarea „Regulamentului de organizare și desfășurare a Programului de Internship al Consiliului Județean Vrancea”; - în temeiul: - prevederilor Legii nr. 176/2018 privind internshipul, cu modificările și completările ulterioare; - prevederilor Ordinului Ministrului Muncii și Justiției Sociale nr. 2004/2018 privind aprobarea modelelor-cadru ale certificatului și contractului de internship",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hot-135-.Internship.docx",
+     "sha256": "3707ab4e6cc4e5687148e5de0cb271a78b26ee8dfd6d3c11739c27aac5b416df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-168-2025",
+   "path": "local/judet/vrancea/2025/168",
+   "short": "HCJ Vrancea nr. 168/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 168/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+     "sha256": "485736988f817cbcc50e14eab2b5d8a1e2c43e3382199b5853193a63cefc4554"
+    }
+   ]
+  }
+ ]
+}

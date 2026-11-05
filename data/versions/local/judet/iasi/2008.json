@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2008",
+ "acts": [
+  {
+   "slug": "hcj-iasi-13-2008",
+   "path": "local/judet/iasi/2008/13",
+   "short": "HCJ Iași nr. 13/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 13/2008 privind ajustarea tarifelor pentru serviciile publice de alimentare cu apa cu indicele preturilor de consum. Tags: ho",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-13",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-13",
+     "sha256": "4ba10cb362c96683d05124201fadcf4fdfd8dd687a22fd6c8fdc0210a60bc32a"
+    }
+   ]
+  }
+ ]
+}

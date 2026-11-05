@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcj-gorj-273-2025",
+   "path": "local/judet/gorj/2025/273",
+   "short": "HCJ Gorj nr. 273/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 273/2025 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2026, la nivelul Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.12.2025%20-%20Adoptate/273.%20HCJ%20aprob.%20preturi%20produse%20agricole%202026.pdf",
+     "sha256": "0a6752665c442eedec15ccddcc5ab9b3aaff2b1313d21dd6e304d8f8a13e51ce"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-282-2025",
    "path": "local/judet/gorj/2025/282",
    "short": "HCJ Gorj nr. 282/2025",

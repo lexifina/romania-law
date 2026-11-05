@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/alba/2016",
+ "acts": [
+  {
+   "slug": "hcj-alba-226-2016",
+   "path": "local/judet/alba/2016/226",
+   "short": "HCJ Alba nr. 226/2016",
+   "title": "Hotărârea Consiliului Județean Alba nr. 226/2016",
+   "url": "https://www.staging.cjalba.ro/hotarari-adoptate-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.staging.cjalba.ro/wp-content/uploads/2016/11/H2262016.pdf",
+     "sha256": "c6106fa563b647a21108792bc95782a60dfa13bcb2da07f0d4d619ca7192b1eb"
+    }
+   ]
+  }
+ ]
+}

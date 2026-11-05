@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/campulung-moldovenesc/2020",
+"acts": [
+{
+"slug": "hcl-suceava--campulung-moldovenesc-129-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 129/2020 pentru modificarea Anexei nr.2 la Hotărârea Consiliului Local nr.80 din 27 august 2020 privind aprobarea organizării concursului de proiecte de management în vederea ocupării postului de manager al Muzeului “Arta Lemnului” Câmpulung Moldovenesc, a regulamentului de organizare și desfășurare a concursului, a caietului de obiective, a condițiilor de participare la concurs și a bibliografiei Consiliu",
+"short": "HCL Câmpulung Moldovenesc nr. 129/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

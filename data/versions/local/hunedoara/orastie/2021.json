@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/orastie/2021",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--orastie-163-2021",
+   "path": "local/hunedoara/orastie/2021/163",
+   "short": "HCL Orăștie nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 163/2021",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/F64D58DD0D231D5FC225879F0028639C/$FILE/Hotararea%20163.pdf",
+     "sha256": "cbf07344ef59649bb7e1afc755ae63f71eed20f268736432ac79a7db5e7ce9d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-167-2021",
+   "path": "local/hunedoara/orastie/2021/167",
+   "short": "HCL Orăștie nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 167/2021",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-11-27",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/59B08CA1C7BD83C0C225879F0027F374/$FILE/Hotararea%20167.pdf",
+     "sha256": "4b3b8dfe49863430d7a9e12115bbb964c12f21aefe743132e2d9f9a79663e0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--orastie-171-2021",
+   "path": "local/hunedoara/orastie/2021/171",
+   "short": "HCL Orăștie nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 171/2021",
+   "url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/A9730533CF13DCC9C22587A7003CF106/$FILE/Hotararea%20171.pdf",
+     "sha256": "e184ce17ec8478701c28bd55b76999f44872e54ec540ff927ba2741d8a078c4d"
+    }
+   ]
+  }
+ ]
+}

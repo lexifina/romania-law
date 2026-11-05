@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2004",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-33-2004",
+"path": "local/hunedoara/lupeni/2004/33",
+"kind": "local",
+"year": "2004",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 33/2004 privind prelungirea contractului de închiriere a locuinței pentru tineri destinată închirierii nr. 33 7 12.04.2013",
+"short": "HCL Lupeni nr. 33/2004",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2004-12-07",
+"latest": "2004-12-07",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

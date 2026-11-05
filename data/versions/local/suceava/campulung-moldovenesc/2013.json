@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/campulung-moldovenesc/2013",
+ "acts": [
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-110-2013",
+   "path": "local/suceava/campulung-moldovenesc/2013/110",
+   "short": "HCL Câmpulung Moldovenesc nr. 110/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 110/2013 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 19 decembrie 2013; Luând în considerare dispozițiile art. 9 pct. 3 al Cartei Europene a Autonomiei Locale, adoptată la Strassbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997, Având în vedere : -Expunerea de motive a Primarul",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 9,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_110_2013.pdf",
+     "sha256": "795870048ec14eee1206d9f13814e627e27a5ba21e28ce3785692f7f9160c7fd"
+    }
+   ]
+  }
+ ]
+}

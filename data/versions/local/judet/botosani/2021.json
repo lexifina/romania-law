@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2021",
+ "acts": [
+  {
+   "slug": "hcj-botosani-3-2021",
+   "path": "local/judet/botosani/2021/3",
+   "short": "HCJ Botoșani nr. 3/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2021 privind modificarea și completarea Regulamentului de organizare și functionare a Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H003_20210128.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H003_20210128.pdf",
+     "sha256": "8612fdd34e0f05a458e170bb1f035b39f4ab4d3eeabad8dc4db22aab6f5e1aa3"
+    }
+   ]
+  }
+ ]
+}

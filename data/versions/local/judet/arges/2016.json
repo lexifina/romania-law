@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arges/2016",
+ "acts": [
+  {
+   "slug": "hcj-arges-1-2016",
+   "path": "local/judet/arges/2016/1",
+   "short": "HCJ Argeș nr. 1/2016",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 1/2016",
+   "url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_1_din_28.01.2016.PDF/1bc31880-8914-49e1-8d69-08972352e238",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_1_din_28.01.2016.PDF/1bc31880-8914-49e1-8d69-08972352e238",
+     "sha256": "fa0321efb350e71e1e54576dbf4070b45f7b267fe379397ab3c76819f53b5dc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-2-2016",
+   "path": "local/judet/arges/2016/2",
+   "short": "HCJ Argeș nr. 2/2016",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 2/2016",
+   "url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_2_din_28.01.2016.PDF/995b4501-2dbc-4059-b968-74ceb0b2d1f0",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_2_din_28.01.2016.PDF/995b4501-2dbc-4059-b968-74ceb0b2d1f0",
+     "sha256": "23bd3a428225fe1dc30edaec41dcb0170646edd56300dfa65975ab14c36203ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arges-5-2016",
+   "path": "local/judet/arges/2016/5",
+   "short": "HCJ Argeș nr. 5/2016",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 5/2016",
+   "url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_5_din_28.01.2016.PDF/70225016-3645-4bb5-844e-05d7d955d6e6",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/165785/336414/Darmanesti_Hotarare_nr_5_din_28.01.2016.PDF/70225016-3645-4bb5-844e-05d7d955d6e6",
+     "sha256": "dfa0d3449bd90f0d69a4d7ca3b1b052467281892098302d74e726bbde56c9e52"
+    }
+   ]
+  }
+ ]
+}

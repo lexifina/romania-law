@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2020",
+ "acts": [
+  {
+   "slug": "hcj-botosani-41-2020",
+   "path": "local/judet/botosani/2020/41",
+   "short": "HCJ Botoșani nr. 41/2020",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2020 privind completarea Regulamentului de organizare şi funcţionare a Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H041_20200327.pdf",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H041_20200327.pdf",
+     "sha256": "06b2e937b327187296dba4f4f8735623e2f1900dfbe49b80263979e518905aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2020",
+   "path": "local/judet/botosani/2020/67",
+   "short": "HCJ Botoșani nr. 67/2020",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2020 privind modificarea și completarea Regulamentului de organizare şi funcţionare a Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H067_20200527.pdf",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/H067_20200527.pdf",
+     "sha256": "8abf30d96a50dfd9fed9639687d1404a5b275145f3a21a638ff3bf0fec797c8c"
+    }
+   ]
+  }
+ ]
+}

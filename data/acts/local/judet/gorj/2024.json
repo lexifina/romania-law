@@ -177,6 +177,28 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcj-gorj-258-2024",
+"path": "local/judet/gorj/2024/258",
+"kind": "local",
+"year": "2024",
+"number": "258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 258/2024 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2025, la nivelul Județului Gorj",
+"short": "HCJ Gorj nr. 258/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

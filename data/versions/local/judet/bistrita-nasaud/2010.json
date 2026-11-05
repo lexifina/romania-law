@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bistrita-nasaud/2010",
+ "acts": [
+  {
+   "slug": "hcj-bistrita-nasaud-42-2010",
+   "path": "local/judet/bistrita-nasaud/2010/42",
+   "short": "HCJ Bistrița-Năsăud nr. 42/2010",
+   "title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 42/2010",
+   "url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2010-00006b56?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2D45366F1C4507A8C22586BD003D8720/$FILE/2010%20monitor%20nr%2015.pdf",
+     "sha256": "950792a46f9d6a739ea908c7e013df68673fb9bf42ecb914b50443861043b120"
+    }
+   ]
+  }
+ ]
+}

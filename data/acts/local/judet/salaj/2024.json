@@ -23,6 +23,53 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcj-salaj-166-2024",
+"path": "local/judet/salaj/2024/166",
+"kind": "local",
+"year": "2024",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 166/2024 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2025",
+"short": "HCJ Sălaj nr. 166/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-168-2024",
+"path": "local/judet/salaj/2024/168",
+"kind": "local",
+"year": "2024",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 168/2024",
+"short": "HCJ Sălaj nr. 168/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"title_withheld": "personal_data",
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

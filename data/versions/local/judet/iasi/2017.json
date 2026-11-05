@@ -3,6 +3,21 @@
  "shard": "local/judet/iasi/2017",
  "acts": [
   {
+   "slug": "hcj-iasi-139-2017",
+   "path": "local/judet/iasi/2017/139",
+   "short": "HCJ Iași nr. 139/2017",
+   "title": "Hotărârea Consiliului Județean Iași nr. 139/2017 privind tarifele pentru concertele din ciclul „Integrala simfoniilor de L. van Beethoven\" — stagiunea 2017-2018 la Filarmonica \"Moldova\" Iasi",
+   "url": "http://www.icc.ro/ro/hotarari/2017/2017-04-01",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 7,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2017/01-04/139.pdf",
+     "sha256": "254e7996fc54909ac4248d1750b15ac4f19a268bdd3240f8bfa991f239fd6e2f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-223-2017",
    "path": "local/judet/iasi/2017/223",
    "short": "HCJ Iași nr. 223/2017",

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-245-2024",
+   "path": "local/judet/giurgiu/2024/245",
+   "short": "HCJ Giurgiu nr. 245/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 245/2024 pentru prelungirea restricțiilor de circulație instituite prin Hotărârea Consiliului Județean nr.241 din 17.10.2022 privind aprobarea instituirii unor restricții de circulație pentru autovehiculele rutiere de marfă care depășesc masa totală maximă autorizată de 12 tone",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.245-din-23.09.2024.pdf",
+     "sha256": "8249ac880931a7cad52f7d409ceae07308d7e9ecd27dbd395ce5d41fcf5dd1f5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-304-2024",
    "path": "local/judet/giurgiu/2024/304",
    "short": "HCJ Giurgiu nr. 304/2024",

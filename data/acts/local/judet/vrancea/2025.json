@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/judet/vrancea/2025",
+"acts": [
+{
+"slug": "hcj-vrancea-132-2025",
+"path": "local/judet/vrancea/2025/132",
+"kind": "local",
+"year": "2025",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 132/2025 privind emiterea și atribuirea licențelor de traseu provizorii, stabilirea tarifelor de călătorie și atribuirea în gestiune delegată a serviciului de transport public județean de persoane prin curse regulate către operatorii de transport declarați câștigători ai loturilor nr. 3, nr.27 și nr.28 din Programul județean de transport, în urma procedurilor de negociere fără invitație prealabilă la proce",
+"short": "HCJ Vrancea nr. 132/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-vrancea-135-2025",
+"path": "local/judet/vrancea/2025/135",
+"kind": "local",
+"year": "2025",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 135/2025 privind aprobarea „Regulamentului de organizare și desfășurare a Programului de Internship al Consiliului Județean Vrancea”; - în temeiul: - prevederilor Legii nr. 176/2018 privind internshipul, cu modificările și completările ulterioare; - prevederilor Ordinului Ministrului Muncii și Justiției Sociale nr. 2004/2018 privind aprobarea modelelor-cadru ale certificatului și contractului de internship",
+"short": "HCJ Vrancea nr. 135/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-vrancea-168-2025",
+"path": "local/judet/vrancea/2025/168",
+"kind": "local",
+"year": "2025",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 168/2025",
+"short": "HCJ Vrancea nr. 168/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

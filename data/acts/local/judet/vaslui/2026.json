@@ -23,6 +23,29 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcj-vaslui-57-2026",
+"path": "local/judet/vaslui/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 57/2026 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților nonprofit de interes județean, precum și a Ghidurilor Solicitantului pentru domeniile cultură, social, tineret și sport",
+"short": "HCJ Vaslui nr. 57/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://cjvs.eu/hotarari-2026/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

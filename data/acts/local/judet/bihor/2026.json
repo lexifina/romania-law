@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/judet/bihor/2026",
+"acts": [
+{
+"slug": "hcj-bihor-2-2026",
+"path": "local/judet/bihor/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 2/2026 privind aprobarea Organigramei, Statului de funcții și a Regulamentului de organizare și funcționare ale Filarmonicii de Stat Oradea",
+"short": "HCJ Bihor nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2025/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-137-2026",
+"path": "local/judet/bihor/2026/137",
+"kind": "local",
+"year": "2026",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 137/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI ACT ADIȚIONAL LA CONTRACTUL DE COMODAT NR. 333 DIN 19.09.2023, ÎNCHEIAT ÎNTRE JUDEȚUL BIHOR – CONSILIUL JUDEȚEAN BIHOR ȘI AUTORITATEA ELECTORALĂ PERMANENTĂ",
+"short": "HCJ Bihor nr. 137/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-138-2026",
+"path": "local/judet/bihor/2026/138",
+"kind": "local",
+"year": "2026",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 138/2026 PENTRU MODIFICAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 226 DIN 27.11.2025 PRIVIND APROBAREA DECLANȘĂRII PROCEDURII DE EXPROPRIERE ȘI ÎNSUȘIREA RAPORTULUI DE EVALUARE PENTRU CULOARUL LUCRĂRII DE UTILITATE PUBLICĂ ”REALIZARE DRUM JUDEȚEAN DJ 797J: CENTURA ORADEA-I",
+"short": "HCJ Bihor nr. 138/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-139-2026",
+"path": "local/judet/bihor/2026/139",
+"kind": "local",
+"year": "2026",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 139/2026 PRIVIND SCHIMBAREA SEDIULUI UNITĂȚII ADMINISTRATIV TERITORIALE – JUDEȚUL BIHOR ȘI A APARATULUI DE SPECIALITATE AL CONSILIULUI JUDEȚEAN BIHOR PRECUM ȘI MODIFICAREA CORESPUNZĂTOARE A STATUTULUI JUDEȚULUI BIHOR",
+"short": "HCJ Bihor nr. 139/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-141-2026",
+"path": "local/judet/bihor/2026/141",
+"kind": "local",
+"year": "2026",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 141/2026 PRIVIND ACTUALIZAREA ȘI COMPLETAREA ACTULUI CONSTITUTIV AL SOCIETĂȚII PAZĂ ȘI PROTECȚIE BIHOR S.R.L",
+"short": "HCJ Bihor nr. 141/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-142-2026",
+"path": "local/judet/bihor/2026/142",
+"kind": "local",
+"year": "2026",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 142/2026",
+"short": "HCJ Bihor nr. 142/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": null,
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-bihor-145-2026",
+"path": "local/judet/bihor/2026/145",
+"kind": "local",
+"year": "2026",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 145/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI ACT ADIȚIONAL LA ACORDUL DE PARTENERIAT ÎNCHEIAT PENTRU REALIZAREA OBIECTIVULUI DE ÎNVESTIȚII DRUM DE LEGĂTURA LA REȚEAUA RUTIERA PRIMARA “EXECUȚIE LUCRĂRI DE LĂRGIRE DE LA DOUĂ BENZI LA PATRU BENZI DE CIRCULAȚIE PE DN79 (E671) ÎNTRE",
+"short": "HCJ Bihor nr. 145/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

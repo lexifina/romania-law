@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-vaslui-64-2024",
+"path": "local/judet/vaslui/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 64/2024 privind aprobarea Regulamentului de organizare și funcționare a Serviciului public de adăpostire a animalelor aflate în pericol pe raza județului Vaslui, pentru care s-a emis un ordin de plasare în adăpost",
+"short": "HCJ Vaslui nr. 64/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-vaslui-65-2024",
 "path": "local/judet/vaslui/2024/65",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Județean Vaslui",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-66-2024",
+"path": "local/judet/vaslui/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 66/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Consiliului Județean Vaslui",
+"short": "HCJ Vaslui nr. 66/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
 }
 },
 {
@@ -91,6 +135,28 @@
 }
 },
 {
+"slug": "hcj-vaslui-92-2024",
+"path": "local/judet/vaslui/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 92/2024 privind exceptarea Direcției Județene de Evidență a Persoanelor Vaslui, instituție publică cu personalitate juridică, aflată în subordonarea Consiliului Județean Vaslui, de la aplicarea măsurilor prevăzute la alin.(1) al art.XXIX din Legea nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+"short": "HCJ Vaslui nr. 92/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-vaslui-123-2024",
 "path": "local/judet/vaslui/2024/123",
 "kind": "local",
@@ -110,6 +176,28 @@
 "council_name": "Consiliul Județean Vaslui",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-140-2024",
+"path": "local/judet/vaslui/2024/140",
+"kind": "local",
+"year": "2024",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 140/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Consiliului Județean Vaslui",
+"short": "HCJ Vaslui nr. 140/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_source": "pdf_text_layer"
 }
 },
 {

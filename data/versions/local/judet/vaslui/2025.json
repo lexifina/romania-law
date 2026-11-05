@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-180-2025",
+   "path": "local/judet/vaslui/2025/180",
+   "short": "HCJ Vaslui nr. 180/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 180/2025 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2026",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr180_2025.pdf",
+     "sha256": "45269c16a2127eacc8f9ca25f83d43bb828d1defd9c03e8dac66c4c3b74ddc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-46-2025",
+   "path": "local/judet/vaslui/2025/46",
+   "short": "HCJ Vaslui nr. 46/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 46/2025 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2025",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 4,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr46_2025.pdf",
+     "sha256": "1d15deaa37ed961c6b2d9779666854b6b2df72da2ef81533ac3c5f2cd4ddcc64"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-47-2025",
    "path": "local/judet/vaslui/2025/47",
    "short": "HCJ Vaslui nr. 47/2025",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr76_2025.pdf",
      "sha256": "5c0829c66be46bcf1d8115baaf613b3b37ca1e974c74fa7fe631b5ac6a6a1477"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-86-2025",
+   "path": "local/judet/vaslui/2025/86",
+   "short": "HCJ Vaslui nr. 86/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 86/2025 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților nonprofit de interes județean, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social, tineret și sport",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 8,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr86_2025.pdf",
+     "sha256": "c739e3078909c5139b052327650e4ee9a790c8e44da180db747aa04ebc8ab484"
     }
    ]
   }

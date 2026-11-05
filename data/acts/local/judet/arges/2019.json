@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/arges/2019",
+"acts": [
+{
+"slug": "hcj-arges-170-2019",
+"path": "local/judet/arges/2019/170",
+"kind": "local",
+"year": "2019",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 170/2019",
+"short": "HCJ Argeș nr. 170/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-12",
+"latest": "2019-09-12",
+"portal": "https://www.cjarges.ro/sedinta-extraordinara-a-c.j.-arges-12.09.2019",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

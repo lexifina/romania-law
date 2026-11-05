@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/pascani/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--pascani-1-2026",
+   "path": "local/iasi/pascani/2026/1",
+   "short": "HCL Pașcani nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 1/2026",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2026-00044ec2?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/E7D9D093305416DBC2258DE8001CB231/$FILE/Hot.%201.pdf",
+     "sha256": "a39de6b0702743a5ea5649cafef5dd39ec3b4dd78a60d0bca97b77a3f5caf198"
+    }
+   ]
+  }
+ ]
+}

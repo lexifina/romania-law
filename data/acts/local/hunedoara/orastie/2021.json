@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/orastie/2021",
+"acts": [
+{
+"slug": "hcl-hunedoara--orastie-163-2021",
+"path": "local/hunedoara/orastie/2021/163",
+"kind": "local",
+"year": "2021",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 163/2021",
+"short": "HCL Orăștie nr. 163/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-09",
+"latest": "2021-11-09",
+"portal": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+"council": "hunedoara/orastie",
+"council_name": "Consiliul Local al Municipiului Orăștie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--orastie-167-2021",
+"path": "local/hunedoara/orastie/2021/167",
+"kind": "local",
+"year": "2021",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 167/2021",
+"short": "HCL Orăștie nr. 167/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-27",
+"latest": "2021-11-27",
+"portal": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+"council": "hunedoara/orastie",
+"council_name": "Consiliul Local al Municipiului Orăștie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--orastie-171-2021",
+"path": "local/hunedoara/orastie/2021/171",
+"kind": "local",
+"year": "2021",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orăștie nr. 171/2021",
+"short": "HCL Orăștie nr. 171/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://www.orastie.info.ro/portal/hunedoara/orastie/portal.nsf/AllByUNID/Hotarari-situatii-de-urgenta-0000C496?OpenDocument",
+"council": "hunedoara/orastie",
+"council_name": "Consiliul Local al Municipiului Orăștie",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

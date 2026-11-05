@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lupeni/1992",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lupeni-8-1992",
+   "path": "local/hunedoara/lupeni/1992/8",
+   "short": "HCL Lupeni nr. 8/1992",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 8/1992 privind aprobarea prelungirii pe o perioadă de 24 ani a contractului de concesiune nr. 8/ 01.09.1992 (și a actelor adiționale) pentru concesionarea unui teren în suprafaţă de 95 m2 aflat în domeniul privat al Municipiului Lupeni, situat în Municipiul Lupeni strada Tudor Vladimires",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2017-00003bd2?OpenDocument",
+   "versions": [
+    {
+     "from": "1992-09-01",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/5A608B485D6A8265C225872C00375483/$FILE/HCL-125_31.08.2017.pdf",
+     "sha256": "7777f02a81e2b66118ccc081279ad68d61ad6e36b541d36bbece709e77639d67"
+    }
+   ]
+  }
+ ]
+}

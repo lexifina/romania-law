@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/alba/2016",
+"acts": [
+{
+"slug": "hcj-alba-226-2016",
+"path": "local/judet/alba/2016/226",
+"kind": "local",
+"year": "2016",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Alba nr. 226/2016",
+"short": "HCJ Alba nr. 226/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-11-29",
+"latest": "2016-11-29",
+"portal": "https://www.staging.cjalba.ro/hotarari-adoptate-2016/",
+"council": "judet/alba",
+"council_name": "Consiliul Județean Alba",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12445 acts, 23,960 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12447 acts, 23,962 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8343, of which 3133 amending acts)
+## Laws (legi) (8344, of which 3133 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -637,6 +637,7 @@
 | Legea nr. 89/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române | [`lege/1999/89/`](lege/1999/89/) | amended, not consolidated | 1 | 1999-06-01 | 1999-06-01 |
 | Legea nr. 97/1999 privind aprobarea Ordonanţei Guvernului nr. 21/1999 pentru ratificarea Protocolului armonizand Convenţia internaţionala privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL din 13 decembrie 1960, după efectuarea unor modificări, adoptat la Bruxelles la 27 iunie 1997, şi a Protocolului adiţional privind trecerea de la regimul Acordului multilateral privind tarifele de ruta din 12 februarie 1981 la regimul anexei IV ("Dispoziţii privind sistemul comun de tarife de ruta") la Convenţia internaţionala privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL, armonizata prin Protocolul adoptat la Bruxelles la 27 iunie 1997 | [`lege/1999/97/`](lege/1999/97/) | amended, not consolidated | 1 | 1999-06-01 | 1999-06-01 |
 | Legea nr. 98/1999 privind aprobarea Ordonanţei Guvernului nr. 128/1998 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului | [`lege/1999/98/`](lege/1999/98/) | amended, not consolidated | 1 | 1999-06-01 | 1999-06-01 |
+| Legea nr. 101/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Peru privind prevenirea, controlul, investigarea şi combaterea consumului neregulamentar şi traficului ilicit de stupefiante, substanţe psihotrope şi a delictelor conexe, semnat la Bucureşti la 9 septembrie 1998 | [`lege/1999/101/`](lege/1999/101/) | in force | 1 | 1999-06-03 | 1999-06-03 |
 | Legea nr. 102/1999 pentru respingerea Ordonanţei Guvernului nr. 43/1995 privind unele măsuri pentru conservarea patrimoniului naţional al cinematografiei | [`lege/1999/102/`](lege/1999/102/) | amended, not consolidated | 1 | 1999-06-03 | 1999-06-03 |
 | Legea nr. 103/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 52/1998 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 9/1997 cu privire la unele măsuri de protecţie pentru persoanele ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective prin aplicarea programelor de restructurare, privatizare, lichidare, aprobată şi modificată prin Legea nr. 108/1997 | [`lege/1999/103/`](lege/1999/103/) | amended, not consolidated | 1 | 1999-06-16 | 1999-06-16 |
 | Legea nr. 104/1999 privind aprobarea Ordonanţei Guvernului nr. 9/1997 şi a Ordonanţei Guvernului nr. 56/1997 | [`lege/1999/104/`](lege/1999/104/) | amended, not consolidated | 1 | 1999-06-16 | 1999-06-16 |
@@ -8381,7 +8382,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2920, of which 671 amending acts)
+## Emergency ordinances (OUG) (2921, of which 672 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8483,6 +8484,7 @@
 | Ordonanța de urgență a Guvernului nr. 77/1999 | [`oug/1999/77/`](oug/1999/77/) | in force | 7 | 1999-06-04 | 2024-01-29 |
 | Ordonanța de urgență a Guvernului nr. 78/1999 pentru modificarea art. 47 alin. (1) şi (2) din Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996 | [`oug/1999/78/`](oug/1999/78/) | amended, not consolidated | 1 | 1999-06-04 | 1999-06-04 |
 | Ordonanța de urgență a Guvernului nr. 83/1999 | [`oug/1999/83/`](oug/1999/83/) | in force | 6 | 1999-06-10 | 2016-05-27 |
+| Ordonanța de urgență a Guvernului nr. 84/1999 privind completarea art. 7 din Legea nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar | [`oug/1999/84/`](oug/1999/84/) | amending act | 1 | 1999-06-11 | 1999-06-11 |
 | Ordonanța de urgență a Guvernului nr. 86/1999 pentru modificarea anexei nr. 3/47 la Legea bugetului de stat pe anul 1999 nr. 36/1999 | [`oug/1999/86/`](oug/1999/86/) | amended, not consolidated | 1 | 1999-06-11 | 1999-06-11 |
 | Ordonanța de urgență a Guvernului nr. 87/1999 pentru modificarea art. 37 din Legea bugetului de stat pe anul 1999 nr. 36/1999 | [`oug/1999/87/`](oug/1999/87/) | amended, not consolidated | 1 | 1999-06-11 | 1999-06-11 |
 | Ordonanța de urgență a Guvernului nr. 89/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerț Exterior - Bancorex - S.A. | [`oug/1999/89/`](oug/1999/89/) | in force | 3 | 1999-06-14 | 2002-01-31 |
@@ -12511,7 +12513,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28329 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28340 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12527,4 +12529,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 31553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 33053 | [`data/acts/local/`](data/acts/local/) |

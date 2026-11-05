@@ -3,6 +3,111 @@
  "shard": "local/judet/buzau/2023",
  "acts": [
   {
+   "slug": "hcj-buzau-10-2023",
+   "path": "local/judet/buzau/2023/10",
+   "short": "HCJ Buzău nr. 10/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 10/2023 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Liceului Special pentru Deficienţi de Vedere Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.10-din-2023.pdf",
+     "sha256": "615aa7f5a4a7f83ed442688e014e069625f7605a9d6a4fcec49db3399d8af493"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-100-2023",
+   "path": "local/judet/buzau/2023/100",
+   "short": "HCJ Buzău nr. 100/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 100/2023 privind aprobarea încheierii a două protocoale de colaborare între",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.100-din-2023.pdf",
+     "sha256": "c56da815fe0f0fa729aa57af54f0e3da8a30f2958e32428de4615d7eebcb636c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-101-2023",
+   "path": "local/judet/buzau/2023/101",
+   "short": "HCJ Buzău nr. 101/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 101/2023 privind aprobarea înființării, organizării și funcționării Comitetului Județean pentru Accelerarea Procesului de Dezinstituționalizare și de Prevenire a Instituționalizării la nivelul județului Buzău * Abrogată prin Hotărârea nr.212 din 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.101-din-2023.pdf",
+     "sha256": "50dd697a0e18b3b37bff35b13356b3d0c51e3016dcc83bc91bc74dd14a890c26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-102-2023",
+   "path": "local/judet/buzau/2023/102",
+   "short": "HCJ Buzău nr. 102/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 102/2023 privind reaprobarea indicatorilor tehnico-economici și constituirea rezervei de implementare pentru obiectivul de investiții „Extinderea și dotarea Unității de Primiri Urgențe a Spitalului Județean de Urgență Buzău * Abrogată prin Hotărârea nr.102 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.102-din-2023.pdf",
+     "sha256": "aa72b8aa54317a019c18e62146014c90abab567e46f041c72008165e8235a594"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-104-2023",
+   "path": "local/judet/buzau/2023/104",
+   "short": "HCJ Buzău nr. 104/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 104/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.104-din-2023.pdf",
+     "sha256": "998d95aa280f7da4f1f171511b8c855365deab18feeba80af39aead126fb2064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-106-2023",
+   "path": "local/judet/buzau/2023/106",
+   "short": "HCJ Buzău nr. 106/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 106/2023 pentru aprobarea unor modificări în organigrama și statul de funcții ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.106-din-2023.pdf",
+     "sha256": "f5637d7780f43dfb1c78f51e75ff8d35461f117c539f9f6d6ff6dde95bf43056"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-107-2023",
+   "path": "local/judet/buzau/2023/107",
+   "short": "HCJ Buzău nr. 107/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 107/2023 privind stabilirea salariilor de bază lunare ale funcționarilor publici și personalului contractual din aparatul de specialitate al Consiliului Județean Buzău – familia ocupațională „Administrație” * Modificată prin Hotărârea nr.107 din 2023 * Abrogată prin Hotărârea nr.305 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.107-din-2023.pdf",
+     "sha256": "ba578b7bf874f9c92fc3b0b8d3789de7ec9429fccf36ca8db5504b5f31748c46"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-109-2023",
    "path": "local/judet/buzau/2023/109",
    "short": "HCJ Buzău nr. 109/2023",
@@ -14,6 +119,261 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.109-din-2023.pdf",
      "sha256": "9dbeab9534e381d5e8673d1b51028c3859f85a33b714ce085b81c4c6cee540f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-111-2023",
+   "path": "local/judet/buzau/2023/111",
+   "short": "HCJ Buzău nr. 111/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 111/2023 privind aprobarea contului de execuție a exercițiului bugetar al Județului Buzău pe anul 2022",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-111.pdf",
+     "sha256": "792c03e34fe70aafa5ba919fcbf37aef79adc76daec67a3b27cf0a9a739eacf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-112-2023",
+   "path": "local/judet/buzau/2023/112",
+   "short": "HCJ Buzău nr. 112/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 112/2023 privind aprobarea utilizării în anul 2023 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2022 – formă actualizată 4",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot112.pdf",
+     "sha256": "479dd5e5c5932facdb16ca83e8334de165f58446fba3f1e98357eeb0c2069ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-116-2023",
+   "path": "local/judet/buzau/2023/116",
+   "short": "HCJ Buzău nr. 116/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 116/2023 privind modificarea și completarea Hotărârii Consiliului Județean Buzău nr. 95/2022 pentru acordarea unor stimulente financiare lunare personalului medical și de specialitate din cadrul Spitalului Județean de Urgență Buzău – formă actualizată * Abrogată prin Hotărârea nr.141 din 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-116.pdf",
+     "sha256": "7b826774b166e0558ad800a68e6ba686ac31cbd364b952333db98585a0900b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-117-2023",
+   "path": "local/judet/buzau/2023/117",
+   "short": "HCJ Buzău nr. 117/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 117/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-117.pdf",
+     "sha256": "fdb8069f1e45cb942b5fc8ea915f7747e92911808b156ad3c80e8f8fa1bfd484"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-118-2023",
+   "path": "local/judet/buzau/2023/118",
+   "short": "HCJ Buzău nr. 118/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 118/2023 privind aprobarea acordării de subvenții pentru activități de asistență socială de la bugetul Județului Buzău în anul 2023, conform Legii nr. 34/1998",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-118.pdf",
+     "sha256": "5225d683b232c6bb1a7868f4c93a5206d43f87ada2c90f4320ef15f5c56a3ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-119-2023",
+   "path": "local/judet/buzau/2023/119",
+   "short": "HCJ Buzău nr. 119/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 119/2023 privind aprobarea/respingerea acordării de sume cu titlu de finanţare nerambursabilă unor persoane juridice conform Legii nr. 350/2005, de la bugetul Județului Buzău în anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-119.pdf",
+     "sha256": "4fbb18e3ff1256fa18fdab5095f6ce68f82052c75ea39a813a03fba4ccd6ede7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-12-2023",
+   "path": "local/judet/buzau/2023/12",
+   "short": "HCJ Buzău nr. 12/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 12/2023 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Centrului Şcolar de Educaţie Incluzivă Rm. Sărat",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.12-din-2023.pdf",
+     "sha256": "cbed4384eb2e67530324e4d3383ca37d65b1bc7cdad46bdb56e7c6a7951eef72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-120-2023",
+   "path": "local/judet/buzau/2023/120",
+   "short": "HCJ Buzău nr. 120/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 120/2023 pentru aprobarea participării Consiliului Județean Buzău în calitate de partener al Uniunii Artiștilor Plastici – Filiala Buzău pentru organizarea și desfășurarea ediției a XI-a a Proiectului „Măgura Art”, iulie 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-120.pdf",
+     "sha256": "e21ebd3efd252474a1cd1eb8c68fdf0eb878d197f7ce31bcb6da559b60337d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-121-2023",
+   "path": "local/judet/buzau/2023/121",
+   "short": "HCJ Buzău nr. 121/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 121/2023 pentru aprobarea promovării proiectului „Dotarea cu microbuze școlare verzi (electrice) pentru unități de învățământ preuniversitar din județul Buzău” în cadrul Planului Național de Redresare și Reziliență, componenta C15: Educație, Reforma 6",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-121.pdf",
+     "sha256": "d83df9e3220dfd8a5da50b66c967e06a5ff81f781924bec823cea371805a5bee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-122-2023",
+   "path": "local/judet/buzau/2023/122",
+   "short": "HCJ Buzău nr. 122/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 122/2023 privind aprobarea documentației tehnico – economice – faza Proiect Tehnic, a bugetului proiectului „Consolidarea infrastructurii medicale de la nivelul Spitalului Județean de Urgență Buzău, în contextul Pandemiei cauzate de COVID – 19” – forma actualizată, precum și reaprobarea indicatorilor tehnico – economici * Modificată prin Hotărârea nr.175 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-122.pdf",
+     "sha256": "0991f2e8dbd0af37e86a86282a1268392096216a08bb06b8f2db18078a467dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-123-2023",
+   "path": "local/judet/buzau/2023/123",
+   "short": "HCJ Buzău nr. 123/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 123/2023 privind aprobarea trecerii din domeniul public în domeniul privat al județului Buzău a unei construcții amplasate pe terenul aflat în proprietatea publică a județului Buzău, situat în orașul Pătârlagele",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-123.pdf",
+     "sha256": "65c77e38fe4165301d7754349a4957bd3fcd2a2968f17aa76b4fff7a514a33f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-124-2023",
+   "path": "local/judet/buzau/2023/124",
+   "short": "HCJ Buzău nr. 124/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 124/2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-124.pdf",
+     "sha256": "8a5308737200893b2de59024eaeed0d90332066f9cb2b6fe5a7aa3b2528c4586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-125-2023",
+   "path": "local/judet/buzau/2023/125",
+   "short": "HCJ Buzău nr. 125/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 125/2023 pentru completarea componenței nominale a Comisiei de evaluare a persoanelor adulte cu handicap Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-125.pdf",
+     "sha256": "568e7cdd26ce572e50f9f0f8410e1da591321c5da421553d7c58f9569065daa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-127-2023",
+   "path": "local/judet/buzau/2023/127",
+   "short": "HCJ Buzău nr. 127/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 127/2023 privind modificarea nivelului unor posturi din statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-127.pdf",
+     "sha256": "e493d50ac10037895c91f6b60e48829abbc0cb885e7d15679c1200655901a1ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-128-2023",
+   "path": "local/judet/buzau/2023/128",
+   "short": "HCJ Buzău nr. 128/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 128/2023 pentru revocarea/validarea unor membru de drept al Autorităţii Teritoriale de Ordine Publică a Judeţului Buzău * Modificată prin Hotărârea nr.128 din 2023 , Hotărârea nr.9 din 2024 , Hotărârea nr.132 din 2024 * Modificată prin Hotărârea nr. 230 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-128.pdf",
+     "sha256": "d84841ac8ab07bdca061e43d43b32e52462ed79807e1c7c734ecd538ffef0c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-129-2023",
+   "path": "local/judet/buzau/2023/129",
+   "short": "HCJ Buzău nr. 129/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 129/2023 privind aprobarea Programului județean de transport rutier de persoane prin servicii regulate aferent județului Buzău 2022-2028 și a Documentației de atribuire a Contractelor de delegare a gestiunii Serviciului public de transport județean de persoane prin curse regulate, la nivelul Județului Buzău – formă republicată în temeiul art. VI din Hotărârea Consiliului Judeţean Buzău nr. 161/29.06.2022 *",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-129.pdf",
+     "sha256": "919ddf3f96fc631e6d4ab75757c48f71c4cf2ecdadf1e0fe606b46bd7d6ef499"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-130-2023",
+   "path": "local/judet/buzau/2023/130",
+   "short": "HCJ Buzău nr. 130/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 130/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-130.pdf",
+     "sha256": "fcefe16b5daab6f24164a17af7726d752e221782d1040097899d647fe89c9121"
     }
    ]
   },
@@ -33,6 +393,141 @@
    ]
   },
   {
+   "slug": "hcj-buzau-132-2023",
+   "path": "local/judet/buzau/2023/132",
+   "short": "HCJ Buzău nr. 132/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 132/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.132-din-2023.pdf",
+     "sha256": "3141719cda02e9a4546aafde9fe39fe4ecb5d9d58d71b3aa6162f83ec579f7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-133-2023",
+   "path": "local/judet/buzau/2023/133",
+   "short": "HCJ Buzău nr. 133/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 133/2023 pentru validarea achiziționării de către Spitalul Județean de Urgență Buzău de servicii de consultanță, asistență și reprezentare juridică în Dosarul nr. 3395/200/2020, aflat în faza de declarare apel",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/H-133.pdf",
+     "sha256": "cf7ab1bf56ea7153332a75de06e06e948ea7953c0dea46ec000192d41f1e0168"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-134-2023",
+   "path": "local/judet/buzau/2023/134",
+   "short": "HCJ Buzău nr. 134/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 134/2023 pentru aprobarea rectificării a V-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.134-din-2023.pdf",
+     "sha256": "2c0b6365ce488ab3308505795f76d4e6d66f427e89c997d0f990307afa8c755e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-136-2023",
+   "path": "local/judet/buzau/2023/136",
+   "short": "HCJ Buzău nr. 136/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 136/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.136-din-2023.pdf",
+     "sha256": "53ac48f882e8c3ab63da5b90d8ef9f2992b67811510ef352bb5189dbf98aa649"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-137-2023",
+   "path": "local/judet/buzau/2023/137",
+   "short": "HCJ Buzău nr. 137/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 137/2023 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2023 al Teatrului „George Ciprian” Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.137-din-2023.pdf",
+     "sha256": "f6c3eb4e6445fd48ab5779b9b09ef6d0f4ff0d94d81d5df78da3bad9cb715cf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-138-2023",
+   "path": "local/judet/buzau/2023/138",
+   "short": "HCJ Buzău nr. 138/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 138/2023 pentru aprobarea rectificării a III-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.94-din-2023.pdf",
+     "sha256": "b7eafc56d5416c9a2bce78eaf6150bee5154851de2419616928cc0a6373ed0d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-140-2023",
+   "path": "local/judet/buzau/2023/140",
+   "short": "HCJ Buzău nr. 140/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 140/2023 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2023 al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.140-din-2023.pdf",
+     "sha256": "f4c9d1319d5399cf76a53da5a6df4560ba6e6493af02d89206f45d9636d092b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-141-2023",
+   "path": "local/judet/buzau/2023/141",
+   "short": "HCJ Buzău nr. 141/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 141/2023 privind repartizarea unor sume din bugetul propriu al judeţului Buzău pe anul 2023 pentru unele unităţi de cult religios recunoscute în România",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.141-din-2023.pdf",
+     "sha256": "b25776691743e46258ac2f6659b9eb282214639e3604029a5968d391544719db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-142-2023",
+   "path": "local/judet/buzau/2023/142",
+   "short": "HCJ Buzău nr. 142/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 142/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.142-din-2023.pdf",
+     "sha256": "d3b79ec64fe1bc613d82bccb5a229da4fb3085a6b38dcd05ae578536c3fd4a3c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-143-2023",
    "path": "local/judet/buzau/2023/143",
    "short": "HCJ Buzău nr. 143/2023",
@@ -44,6 +539,261 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.143-din-2023.pdf",
      "sha256": "408c989e955822bf02f81cebeb0b62b00a9cfaa14ddc39cb35d321ee4c4ffe26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-144-2023",
+   "path": "local/judet/buzau/2023/144",
+   "short": "HCJ Buzău nr. 144/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 144/2023 privind aprobarea concesionării unui teren în suprafață de 4.064 mp. aflat în domeniul privat al județului Buzău, situat în municipiul Rm. Sărat, strada Industriei, Carte funciară nr. 33549, prin licitație publică",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.144-din-2023.pdf",
+     "sha256": "61b314aaba6cadb6957cbd42c377ce8773b60389d297b6a360e567dfe5a0e3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-147-2023",
+   "path": "local/judet/buzau/2023/147",
+   "short": "HCJ Buzău nr. 147/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 147/2023 pentru aprobarea participării Județului Buzău în proiectul „Geoparcul Laborator Viu: Infrastructură verde și dezvoltare durabilă”, în calitate de partener, finanțat prin Programul „Interreg Next Black Sea”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.147-din-2023.pdf",
+     "sha256": "5aeee0ba26ada8ad42386c231f2f97b1fa03bced9784355837191a9752ab02df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-148-2023",
+   "path": "local/judet/buzau/2023/148",
+   "short": "HCJ Buzău nr. 148/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 148/2023 pentru aprobarea fișei proiectului «Amenajarea infrastructurii turistice specifice și de promenadă în scopul valorificării potențialului turistic al punctului de interes „Dealul Murătoarea” din stațiunea balneoclimaterică Sărata Monteoru – Județul Buzău» ce urmează a fi promovat spre finanţare nerambursabilă în cadrul PR Sud-Est 2021-2027 * Modificată prin Hotărârea nr.159 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/07/Hotararea-nr.148-din-2023.pdf",
+     "sha256": "fea825da866075cb78b771a90e1689bfed22c2b4edc5b237c4a5373a35f0fef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-15-2023",
+   "path": "local/judet/buzau/2023/15",
+   "short": "HCJ Buzău nr. 15/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 15/2023 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Muzeului Judeţean Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.15-din-2023.pdf",
+     "sha256": "ca056336aac30bdb62960d9266419838010fd4b7aab8265fc8d4c66613e675c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-150-2023",
+   "path": "local/judet/buzau/2023/150",
+   "short": "HCJ Buzău nr. 150/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 150/2023 pentru aprobarea numărului de personal, organigramei şi statului de funcţii pentru Centrul Judeţean de Cultură şi Artă Buzău – formă actualizată * Modificată prin Hotărârea nr.50 din 2023 ; Hotărârea nr.150 din 2023 , Hotărârea nr.241 din 2023 * Abrogată prin Hotărârea nr.279 din 2023 * Modificată prin Hotărârea nr.89 din 2024 * Anexa nr.2 modificată prin Hotărârea nr.113 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.150-din-2023.pdf",
+     "sha256": "cacc3a58e8af99da557c6434361c32bb3834fd4e01861a1f3df2a94282deab6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-151-2023",
+   "path": "local/judet/buzau/2023/151",
+   "short": "HCJ Buzău nr. 151/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 151/2023 pentru aprobarea unor modificări în numărul total de posturi pe categorii, organigrama și statul de funcții ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.151-din-2023.pdf",
+     "sha256": "bdb90b8ee349195a35ae32a97f315c3a38a71f387813a400f36f0ea4b4722cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-153-2023",
+   "path": "local/judet/buzau/2023/153",
+   "short": "HCJ Buzău nr. 153/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 153/2023 pentru aprobarea reluării procedurii de achiziție sectorială – licitație publică deschisă pentru atribuirea contractului de delegare a gestiunii serviciului public de transport județean de persoane prin curse regulate pentru grupa de trasee (lotul) 5 din Programul județean de transport rutier de persoane prin servicii regulate aferent județului Buzău, cu valabilitate 2023-2028",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.153-din-2023.pdf",
+     "sha256": "9b57f87be9a1a1548d828b322018c2d7fdefbb6acabaa1e77a1455ddeffa52d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-154-2023",
+   "path": "local/judet/buzau/2023/154",
+   "short": "HCJ Buzău nr. 154/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 154/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.154-din-2023.pdf",
+     "sha256": "5deafaa8bc75f0b45ed7842ad6effc5401ab4ace5af5d1d14c38f8c261d91d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-155-2023",
+   "path": "local/judet/buzau/2023/155",
+   "short": "HCJ Buzău nr. 155/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 155/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.155-din-2023.pdf",
+     "sha256": "b33adc8122b114c28a474d3a72e7a83e0fd4380f52dc50fee6f203e2d7bdbea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-157-2023",
+   "path": "local/judet/buzau/2023/157",
+   "short": "HCJ Buzău nr. 157/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 157/2023 pentru validarea Dispoziției Președintelui Consiliului Județean Buzău nr. 227/2023 privind eliberarea unor licenţe de traseu pentru efectuarea serviciului public de transport rutier judeţean de persoane prin curse regulate la nivelul judeţului Buzău pentru grupa de trasee 04 din Programul de transport * Completată prin Hotărârea nr.17 din 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/07/Hotararea-nr.157-din-2023.pdf",
+     "sha256": "a95026c113121c397b9c3f945b2aded6e47dba54e0e3d7beb31a0f762b8524b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-159-2023",
+   "path": "local/judet/buzau/2023/159",
+   "short": "HCJ Buzău nr. 159/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 159/2023 privind modificarea Hotărârii Consiliului Județean Buzău nr. 148/2023 pentru aprobarea fișei proiectului «Amenajarea infrastructurii turistice specifice și de promenadă în scopul valorificării potențialului turistic al punctului de interes „Dealul Murătoarea” din stațiunea balneoclimaterică Sărata Monteoru – Județul Buzău» ce urmează a fi promovat spre finanțare nerambursabilă în cadrul Programulu",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/07/Hotararea-nr.159-din-2023.pdf",
+     "sha256": "7698841d0dd48fe2780fc2a6cb8c322d80bd5b900e95f2d155e9c448dc7022af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-16-2023",
+   "path": "local/judet/buzau/2023/16",
+   "short": "HCJ Buzău nr. 16/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 16/2023 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Teatrului „George Ciprian” Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.16-din-2023.pdf",
+     "sha256": "2aec5e308df300777bac0a681c3f939b1ce453c16c234f449126068603f45d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-160-2023",
+   "path": "local/judet/buzau/2023/160",
+   "short": "HCJ Buzău nr. 160/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 160/2023 privind execuția bugetului propriu al județului Buzău pe trimestrul II 2023 pe cele două secțiuni",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.160-din-2023.pdf",
+     "sha256": "728bdd082a90deb80e595b5186e2ef4d73b421cd53474de3591a7a44a93b3c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-161-2023",
+   "path": "local/judet/buzau/2023/161",
+   "short": "HCJ Buzău nr. 161/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 161/2023 pentru aprobarea rectificării a VI-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.161-din-2023.pdf",
+     "sha256": "3de4328cb3af3e55d7047ddec4d9e15d29aaca5f76d20688bbdf15900442820f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-162-2023",
+   "path": "local/judet/buzau/2023/162",
+   "short": "HCJ Buzău nr. 162/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 162/2023 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2023 al Liceului Special pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.162-din-2023.pdf",
+     "sha256": "bd195bcba0fd854f3158ade9ad3b3c936e7f5d1b4c9164c93a32835173446156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-164-2023",
+   "path": "local/judet/buzau/2023/164",
+   "short": "HCJ Buzău nr. 164/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 164/2023 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2023 al Muzeului Județean Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.164-din-2023.pdf",
+     "sha256": "82a34cc809a535579acd0b139eb73c2bcfee45f93471365f85f93510fb8a5b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-166-2023",
+   "path": "local/judet/buzau/2023/166",
+   "short": "HCJ Buzău nr. 166/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 166/2023 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2023 al Direcţiei Generale de Asistență Socială și Protecţia Copilului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.166-din-2023.pdf",
+     "sha256": "f2bde8371c01ad5ef40ad1cc8222127294b2f2c949830c7e65349ee0a8ca64df"
     }
    ]
   },
@@ -63,6 +813,411 @@
    ]
   },
   {
+   "slug": "hcj-buzau-169-2023",
+   "path": "local/judet/buzau/2023/169",
+   "short": "HCJ Buzău nr. 169/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 169/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.169-din-2023.pdf",
+     "sha256": "fe2a45166dca9bf5e01cb41e6929ff70cd7e181dcde26515e58c24acc97f640e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-17-2023",
+   "path": "local/judet/buzau/2023/17",
+   "short": "HCJ Buzău nr. 17/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 17/2023 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Centrului Judeţean de Cultură şi Artă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.17-din-2023.pdf",
+     "sha256": "1926efbe0e238ef39cfb1ad8667dfaced03b1e285238adb0b3f1fad3f517d7ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-170-2023",
+   "path": "local/judet/buzau/2023/170",
+   "short": "HCJ Buzău nr. 170/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 170/2023 pentru aprobarea coorganizării de către",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.170-din-2023.pdf",
+     "sha256": "399488245743bd887628d11dc4ec03f5a8ae0bf1768648ae086d17d35354f70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-171-2023",
+   "path": "local/judet/buzau/2023/171",
+   "short": "HCJ Buzău nr. 171/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 171/2023 pentru aprobarea asumării de către",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.171-din-2023.pdf",
+     "sha256": "406418107956df99f9709b805c8b1c9759be2b03a4f666c7450aabb0a1024488"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-172-2023",
+   "path": "local/judet/buzau/2023/172",
+   "short": "HCJ Buzău nr. 172/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 172/2023 privind completarea Strategiei de Dezvoltare Durabilă a Județului Buzău 2021-2027 pentru un nou orizont de timp și a Strategiei Integrate de Dezvoltare și Promovare a Turismului în Județul Buzău 2021-2030, respectiv constituirea Comitetului de monitorizare a Strategiei de Dezvoltare Durabilă a Județului Buzău 2021-2027 * Completată și modificată prin Hotărârea nr.233 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.172-din-2023.pdf",
+     "sha256": "bde3c9f2605d68e1639e029389f1bab9bd075482a349b4f1694aaf2650da12eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-173-2023",
+   "path": "local/judet/buzau/2023/173",
+   "short": "HCJ Buzău nr. 173/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 173/2023 pentru stabilirea capacității de furnizare servicii specializate de către Căminul pentru persoane vârstnice Smeeni și a Centrului de reabilitare a persoanelor adulte cu dizabilități Stâlpu – unități de asistență socială din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău * Abrogată prin Hotărârea nr.173 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.173-din-2023.pdf",
+     "sha256": "1a45e45edf9a6be001f9f404d77271a6fd03262880e3167ce220eb2280552536"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-174-2023",
+   "path": "local/judet/buzau/2023/174",
+   "short": "HCJ Buzău nr. 174/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 174/2023 pentru aprobarea promovării proiectului „Realizarea sistemului de eHealth și telemedicină la nivelul Spitalului Județean de Urgență Buzău” în cadrul Programului Național de Redresare și Reziliență",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.174-din-2023.pdf",
+     "sha256": "6f7b7df387c9f61fc8cda68e6b2ec705124f41d21837bfd2ef300cf75fb22af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-175-2023",
+   "path": "local/judet/buzau/2023/175",
+   "short": "HCJ Buzău nr. 175/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 175/2023 privind modificarea Hotărârii Consiliului Județean Buzău nr. 122/2023 privind aprobarea documentației tehnico-economice – faza Proiect Tehnic, a bugetului proiectului „Consolidarea infrastructurii medicale de la nivelul Spitalului Judeţean de Urgență Buzău, în contextul pandemiei cauzate de COVID-19” – forma actualizată, precum și reaprobarea indicatorilor tehnico-economici",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/05/Hotararea-nr.-175-din-2023.pdf",
+     "sha256": "566646beb921e4350f83bee752632e5840a5da69be0d71e123a84f6790a0bd4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-176-2023",
+   "path": "local/judet/buzau/2023/176",
+   "short": "HCJ Buzău nr. 176/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 176/2023 pentru inițierea procedurii de achiziție publică a unui teren necesar unor investiții în cadrul Sistemului de management integrat al deșeurilor în județul Buzău * Abrogată prin Hotărârea nr.43 din 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.176-din-2023.pdf",
+     "sha256": "9cbc38c4d6875fc868f9d696caf0f447081ba9378593cf7e0c1a332801e714b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-177-2023",
+   "path": "local/judet/buzau/2023/177",
+   "short": "HCJ Buzău nr. 177/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 177/2023 pentru modificarea art. 1 al Hotărârii Consiliului Județean Buzău nr. 146/2023 și respectiv aprobarea achiziționării unor terenuri situate în comuna Pietroasele, sat Pietroasele în scopul implementării proiectului „Valorificarea potențialului turistic natural și antropic pentru dezvoltarea durabilă a județului Buzău”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.177-din-2023.pdf",
+     "sha256": "648a5663b698400784b6ba57e3538e9b09e2535d873e5fbdf2bc597afde5adbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-178-2023",
+   "path": "local/judet/buzau/2023/178",
+   "short": "HCJ Buzău nr. 178/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 178/2023 pentru darea în administrarea Consiliului Local al comunei Ulmeni a unei suprafețe de teren de 8 mp aferentă drumului județean DJ 203 C, situată în intravilanul satului Sărata, comuna Ulmeni, județul Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.178-din-2023.pdf",
+     "sha256": "960c8c89846cd61e259fcf04a3d03f8857cdd07defe3bac25c7a0c9bf257b0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-179-2023",
+   "path": "local/judet/buzau/2023/179",
+   "short": "HCJ Buzău nr. 179/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 179/2023 privind aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Săhăteni, prin Consiliul Local Săhăteni, pentru două tronsoane aferente drumurilor județene DJ 103 R și DJ 205 B, aflate în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Extindere rețea de alimentare cu apă potabilă în localitățile",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.179-din-2023.pdf",
+     "sha256": "e4e2b54a1701033857667ef0aabfc735839a5c42a647255421abac4cac0f40e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-180-2023",
+   "path": "local/judet/buzau/2023/180",
+   "short": "HCJ Buzău nr. 180/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 180/2023 pentru aprobarea rectificării a IV-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/05/Hot-113.pdf",
+     "sha256": "ca5fa5991e9c3c260965cbf6a335c449d657f4aaac477e2e72ba7de3e69218dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-181-2023",
+   "path": "local/judet/buzau/2023/181",
+   "short": "HCJ Buzău nr. 181/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 181/2023 privind aprobarea numărului de personal, a numărului de funcţii publice, a organigramei şi statului de funcţii pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.77/2023 * Modificată prin Hotărârea nr.181 din 2023 * Abrogată prin Hotărârea nr. 291/2023 * Anexa nr.2 modificată prin Hotărârea nr.112 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.181-din-2023.pdf",
+     "sha256": "9ec60d3b257f5fb5e1f0cd316a011b2183a1fed268eb8c804b8f58578ed76c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-182-2023",
+   "path": "local/judet/buzau/2023/182",
+   "short": "HCJ Buzău nr. 182/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 182/2023 pentru aprobarea unor modificări în organigrama şi statul de funcţii ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.182-din-2023.pdf",
+     "sha256": "4bd5c620fc3323939502ec3b7cd64586a0a3695214bfeb460fce4576ea7280a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-183-2023",
+   "path": "local/judet/buzau/2023/183",
+   "short": "HCJ Buzău nr. 183/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 183/2023 pentru aprobarea numărului de personal, organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Buzău – formă actualizată * Abrogată prin Hotărârea nr. 293 din 2023 * Modificată prin Hotărârea nr.309 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.183-din-2023.pdf",
+     "sha256": "7d3270e7c6efda394d2e6d87e7d59b4cd29a8b7fa27c1601567ecf4bfadc0836"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-184-2023",
+   "path": "local/judet/buzau/2023/184",
+   "short": "HCJ Buzău nr. 184/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 184/2023 privind aprobarea listei imobilelor pentru care Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Buzău exercită un drept de administrare, respectiv un drept de proprietate exclusivă * Modificată prin Hotărârea nr.145 din 2026",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.184-din-2023.pdf",
+     "sha256": "c7210516ab4cf0cafc482a39385d56b87b3991747b67a0bbe59b4f0fb6ecfcc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-185-2023",
+   "path": "local/judet/buzau/2023/185",
+   "short": "HCJ Buzău nr. 185/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 185/2023 privind aprobarea formei actualizate IV a bugetului și reaprobarea indicatorilor tehnico – economici pentru proiectul „Modernizare DJ 203K, km. 38+000 – 75+000, Mărăcineni – Podu Muncii, Judeţul Buzău” * Abrogată prin Hotărârea nr.216 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.185-din-2023.pdf",
+     "sha256": "d3f20d21ac20041810cf6f2793864e10f0a97d230390eced54aeea765f60ee53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-186-2023",
+   "path": "local/judet/buzau/2023/186",
+   "short": "HCJ Buzău nr. 186/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 186/2023 pentru aprobarea rectificării a VII-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/H-186.pdf",
+     "sha256": "f5f17b948bde0019ac338d9d2a484dcdc392d90237bbe869d80bee53618f5f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-187-2023",
+   "path": "local/judet/buzau/2023/187",
+   "short": "HCJ Buzău nr. 187/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 187/2023 pentru aprobarea alocării de la Fondul de rezervă bugetară al Consiliului Județean Buzău a sumei de 1.000.000 lei Unității Administrativ-Teritoriale Comuna Mărăcineni cu titlu de ajutor pentru cheltuieli neeligibile în proiectul „Înființare sistem distribuție gaze naturale în satele Mărăcineni, Căpățânești și Potoceni aparținătoare comunei Mărăcineni, județul Buzău” * Modificată prin Hotărârea nr",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/H-187.pdf",
+     "sha256": "087b1f37be8e6eab784b3f6a49578adc52fe11288f75aedac6c38592d485aa90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-188-2023",
+   "path": "local/judet/buzau/2023/188",
+   "short": "HCJ Buzău nr. 188/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 188/2023 pentru aprobarea colaborării Unității Administrativ-Teritoriale Județul Buzău cu Unitatea Administrativ-Teritorială Municipiul Buzău și Unitatea Administrativ-Teritorială Municipiul Rm",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/H-188.pdf",
+     "sha256": "83532afde969aab20d3fe200d103ed4bad0d5d4509dd519f50aeeb9c60ba4947"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-189-2023",
+   "path": "local/judet/buzau/2023/189",
+   "short": "HCJ Buzău nr. 189/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 189/2023 privind aprobarea utilizării în anul 2023 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2022 –forma actualizată 5",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.189-din-2023.pdf",
+     "sha256": "b69a8c7f4330ca72a6c83d42bdb02a61192d5a4e9b3b71c2a3e89064ce8a3bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-19-2023",
+   "path": "local/judet/buzau/2023/19",
+   "short": "HCJ Buzău nr. 19/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 19/2023 privind aprobarea Programului Anual de Achiziții Publice al Consiliului Județean Buzău pentru anul 2023 * Abrogată prin Hotărârea nr.168 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.19-din-2023.pdf",
+     "sha256": "732ae7ea1124e16b68e393cb969be59838532674c64225f161e7d05861caece6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-192-2023",
+   "path": "local/judet/buzau/2023/192",
+   "short": "HCJ Buzău nr. 192/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 192/2023 pentru aprobarea rectificării a II-a a sumelor cu titlu de finanțare în anul 2023 a activității cluburilor sportive de drept public înființate pe raza Unității Administrativ – Teritoriale – Județul Buzău în cadrul Programului sportiv de utilitate publică „Promovarea sportului de performanță”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/H-192.pdf",
+     "sha256": "139ba768876bf608ccec95cc59a74238bb6a03a309c56ebfef5e77f81230762a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-193-2023",
+   "path": "local/judet/buzau/2023/193",
+   "short": "HCJ Buzău nr. 193/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 193/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.193-din-2023.pdf",
+     "sha256": "20b3c88c0e1042230c498c0c68cd391dc5fb4e20e51a0a36e9a93f4a35ef7cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-194-2023",
+   "path": "local/judet/buzau/2023/194",
+   "short": "HCJ Buzău nr. 194/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 194/2023 pentru Muzeul judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.154 din 2022 ; Hotărârea nr. 225 din 2022 ; Hotărârea nr.303 din 2022 , Hotărârea nr.194 din 2023 * Abrogată prin Hotărârea nr.276 din 2023 * Modificată prin Hotărârea nr.19 din 2024 * Abrogată prin Hotărârea nr.52 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.194-din-2023.pdf",
+     "sha256": "c67540013c9c508fac75445a34fa3dd609a7615de9bfbd829f17ac414d08b204"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-195-2023",
+   "path": "local/judet/buzau/2023/195",
+   "short": "HCJ Buzău nr. 195/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 195/2023 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședințele ordinară, respectiv extraordinară din data de 05.09.2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.195-din-2023.pdf",
+     "sha256": "21abfb59d508d47067c41b53e9d276b446833645ffe395946b12b4b09722d1c2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-196-2023",
    "path": "local/judet/buzau/2023/196",
    "short": "HCJ Buzău nr. 196/2023",
@@ -78,6 +1233,666 @@
    ]
   },
   {
+   "slug": "hcj-buzau-197-2023",
+   "path": "local/judet/buzau/2023/197",
+   "short": "HCJ Buzău nr. 197/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 197/2023 privind aprobarea Programului județean de transport rutier de persoane prin servicii regulate aferent județului Buzău 2022-2028 și a Documentației de atribuire a Contractelor de delegare a gestiunii Serviciului public de transport județean de persoane prin curse regulate, la nivelul Județului Buzău – formă republicată în temeiul art. VI din Hotărârea Consiliului Judeţean Buzău nr. 161/29.06.2022 *",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.197-din-2023.pdf",
+     "sha256": "37a5943230820ed8bc901f3c8c64fcc310b67c77115ef236b56a95232a3ea23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-199-2023",
+   "path": "local/judet/buzau/2023/199",
+   "short": "HCJ Buzău nr. 199/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 199/2023 pentru aprobarea rectificării a IX-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.199-din-2023.pdf",
+     "sha256": "55c027f5a44d8376a32d0f4ca3dec1c267c7bebf0cae45114af93c093e69ad58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-2-2023",
+   "path": "local/judet/buzau/2023/2",
+   "short": "HCJ Buzău nr. 2/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 2/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secţiunii de dezvoltare stabilit în anul 2022",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.2-din-2023.pdf",
+     "sha256": "7dfdf47669182f67229e406caab4a4f5d1a52824459e03af67aa15b02692405d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-20-2023",
+   "path": "local/judet/buzau/2023/20",
+   "short": "HCJ Buzău nr. 20/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 20/2023 privind aprobarea Programului Anual de Achiziții Sectoriale al Consiliului Județean Buzău pentru anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.20-din-2023.pdf",
+     "sha256": "e5413b3b5b0cf230608a03274b7b534e88e404e43c7b19e6e758b8b4ef12027a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-200-2023",
+   "path": "local/judet/buzau/2023/200",
+   "short": "HCJ Buzău nr. 200/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 200/2023 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2023 al Liceului Tehnologic Special pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.200-din-2023.pdf",
+     "sha256": "6cf6c2aae15c93c7ed51672a34a74a5c97e157e0fb1160761bfcda314d13add2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-201-2023",
+   "path": "local/judet/buzau/2023/201",
+   "short": "HCJ Buzău nr. 201/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 201/2023 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2023 al Centrului Școlar de Educație Incluzivă Rm. Sărat",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.201-din-2023.pdf",
+     "sha256": "97a44998272f4c7885e02a7d6758312ff3d21d779ee6c8245fb305cbc50a4c27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-202-2023",
+   "path": "local/judet/buzau/2023/202",
+   "short": "HCJ Buzău nr. 202/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 202/2023 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2023 al Spitalului Județean de Urgență Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.202-din-2023.pdf",
+     "sha256": "de9531ee0764d86891d6900690441ef19ed663ce62d1cc2529861789d9f171de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-206-2023",
+   "path": "local/judet/buzau/2023/206",
+   "short": "HCJ Buzău nr. 206/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 206/2023 pentru aprobarea rectificării a V-a a bugetului de venituri și cheltuieli pe anul 2023 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.206-din-2023.pdf",
+     "sha256": "c45fc00b13f25382550847e85e5e9ef9ce75ae7f4b3bbacf41f210f610f85d6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-207-2023",
+   "path": "local/judet/buzau/2023/207",
+   "short": "HCJ Buzău nr. 207/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 207/2023 pentru aprobarea alocării de la Fondul de rezervă al bugetului județului Buzău a sumei de 50.000 lei, Unității Administrativ – Teritoriale comuna Mihăilești cu titlu de ajutor pentru cheltuieli neeligibile aferente proiectului „PRO INCLUZIUNE – Asistenţă Socială Integrată pentru comunitatea Mihăilești” POCU",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.207-din-2023.pdf",
+     "sha256": "85b4dc9acbefd052bc0518c2af410b6fab37cda69db4c9b42c0dacdeefcb1241"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-208-2023",
+   "path": "local/judet/buzau/2023/208",
+   "short": "HCJ Buzău nr. 208/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 208/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.208-din-2023.pdf",
+     "sha256": "d502805256a1f2624929e0350650256fce037b7219ff2a65a53fcdabb72c896f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-209-2023",
+   "path": "local/judet/buzau/2023/209",
+   "short": "HCJ Buzău nr. 209/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 209/2023 privind asumarea organizării și derulării procedurilor de atribuire a contractelor pentru achiziția produselor și implementarea măsurilor educative aferente Programului pentru școli al României la nivelul județului Buzău pentru anii școlari 2023-2024 și 2024-2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.209-din-2023.pdf",
+     "sha256": "09085a319d7d28abdd842d2d66401f63090099e60949b7f418a1d95fe7fc19aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-210-2023",
+   "path": "local/judet/buzau/2023/210",
+   "short": "HCJ Buzău nr. 210/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 210/2023 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2023 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.139-din-2023.pdf",
+     "sha256": "d555e783d5930cd756ad46ed01fba67fb3d74336b01433aad55c7842a61e0d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-212-2023",
+   "path": "local/judet/buzau/2023/212",
+   "short": "HCJ Buzău nr. 212/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 212/2023 pentru aprobarea promovării proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții „Stimularea mobilității la nivel regional prin modernizarea infrastructurii rutiere de transport pe tronsonul Vintilă Vodă – Plaiul Nucului, județul Buzău” în cadrul Programului Regional Sud-Est 2021-2027, Prioritatea 4 – o regiune accesibilă, Acțiunea 4.1 Investiții destinate reabilitării",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.212-din-2023.pdf",
+     "sha256": "52e7b8b8af3fa38a34676f7b1b9c90246db6689415dd08c11954f4c64a19add9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-213-2023",
+   "path": "local/judet/buzau/2023/213",
+   "short": "HCJ Buzău nr. 213/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 213/2023 privind reaprobarea indicatorilor tehnico-economici și constituirea rezervei de implementare pentru obiectivul de investiții „Extinderea și dotarea Unității de Primiri Urgențe a Spitalului Județean de Urgență Buzău” – forma actualizată",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.213-din-2023.pdf",
+     "sha256": "1020f372a9e6e342d7875438de2260f1e89368b725d78c9780be29b27764d211"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-214-2023",
+   "path": "local/judet/buzau/2023/214",
+   "short": "HCJ Buzău nr. 214/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 214/2023 privind aprobarea documentației tehnico-economice – faza Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire Secție recuperare medicală, desființare 3 clădiri și amenajare teren în cadrul Spitalului Județean de Urgență Buzău strada Stadionului, nr. 7, județul Buzău”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.214-din-2023.pdf",
+     "sha256": "e24f0b2676f7c59d048a897aced5bf205e1bf3981c1489b09f99c4dd87133b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-215-2023",
+   "path": "local/judet/buzau/2023/215",
+   "short": "HCJ Buzău nr. 215/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 215/2023 privind aprobarea documentației tehnico-economice – faza Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire Unitate Servicii Proprii în cadrul Spitalului Județean de Urgență Buzău, strada Stadionului, nr. 7, județul Buzău”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.215-din-2023.pdf",
+     "sha256": "9dc2c5eec0b503e3fc6b504ecf0b848327703879e9c53f4f82e482fffb10d6fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-216-2023",
+   "path": "local/judet/buzau/2023/216",
+   "short": "HCJ Buzău nr. 216/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 216/2023 pentru aprobarea formei actualizate V a bugetului proiectului „Modernizare DJ 203K, km. 38+000 – 75+000, Mărăcineni – Podu Muncii, Judeţul Buzău” precum și reaprobarea indicatorilor tehnico – economici",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.216-din-2023.pdf",
+     "sha256": "67f14e02cd2da597375490ed7c3fd0abdcecfca801b23cf413779b026c09a9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-217-2023",
+   "path": "local/judet/buzau/2023/217",
+   "short": "HCJ Buzău nr. 217/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 217/2023 privind aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Țintești, prin Consiliul Local Țintești , a unor tronsoane din drumurile județene DJ 203 D și 204 D, aflate în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Înființare sistem de alimentare cu apă în satele Țintești, Maxenu, Pogonel",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.217-din-2023.pdf",
+     "sha256": "3cef43314842e685b61565332540b1549044d462fc1f0470b6ef46b0402e1bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-218-2023",
+   "path": "local/judet/buzau/2023/218",
+   "short": "HCJ Buzău nr. 218/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 218/2023 privind aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Țintești, prin Consiliul Local Țintești , a unor tronsoane din drumurile județene DJ 203 D și 204 D, aflate în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Înființare sistem de canalizare apă uzată în satele Țintești, Maxenu, Pogo",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.218-din-2023.pdf",
+     "sha256": "ea3c220e385e3e7d372c5395dc70b4a0eb6f422588a45ded0add3687ff56cb54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-219-2023",
+   "path": "local/judet/buzau/2023/219",
+   "short": "HCJ Buzău nr. 219/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 219/2023 privind desemnarea reprezentanților Consiliului Județean Buzău în Consiliile de Administraţie ale unităților de învățământ special de stat * Abrogată prin Hotărârea nr.253 din 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.219-din-2023.pdf",
+     "sha256": "2dcf11fe1375bbc233a7aa2ef3b5ffe4cfdd0768332337e516a8cacac97bcba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-22-2023",
+   "path": "local/judet/buzau/2023/22",
+   "short": "HCJ Buzău nr. 22/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 22/2023 pentru aprobarea Programului anual al finanțărilor nerambursabile pentru domeniile asistență socială, sport, tineret prin bugetul propriu al județului Buzău pentru anul 2023 * Modificată prin Hotărârea nr.40 din 2023 , Hotărârea nr.41 din 2023 , Hotărârea nr.145 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.22-din-2023.pdf",
+     "sha256": "9665ac526fdb2f799fbd76505dde825bb37e2c01207015fea16088d0d2798dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-220-2023",
+   "path": "local/judet/buzau/2023/220",
+   "short": "HCJ Buzău nr. 220/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 220/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.220-din-2023.pdf",
+     "sha256": "48d6b924c4f0870534795eb29539cc540a09e1b973c305dd2bcaea12ec38d748"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-221-2023",
+   "path": "local/judet/buzau/2023/221",
+   "short": "HCJ Buzău nr. 221/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 221/2023 pentru aprobarea unor modificări în organigrama și statul de funcții ale Spitalului Județean de Urgență Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/09/Hotararea-nr.221-din-2023.pdf",
+     "sha256": "4f44cb6321be545c0aab0abf4ce162473d579c97c78beef74beefe37c33a0399"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-222-2023",
+   "path": "local/judet/buzau/2023/222",
+   "short": "HCJ Buzău nr. 222/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 222/2023 privind execuția bugetului propriu al județului Buzău pe cele două secțiuni și a bugetului împrumuturilor interne pe secțiunea de dezvoltare la trimestrul al III-lea 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.222-din-2023.pdf",
+     "sha256": "fcee93192aed2724830ca26669d4edfc2163a39a51be4f7368181b47db3add7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-223-2023",
+   "path": "local/judet/buzau/2023/223",
+   "short": "HCJ Buzău nr. 223/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 223/2023 privind aprobarea utilizării în anul 2023 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2022 – formă actualizată 6",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.223-din-2023.pdf",
+     "sha256": "cbc0650cd1dcdfb09d5b37621193a60166a4f48f7c8f059b53c5c63d36f37269"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-224-2023",
+   "path": "local/judet/buzau/2023/224",
+   "short": "HCJ Buzău nr. 224/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 224/2023 pentru aprobarea rectificării a X-a a bugetului propriu al județului Buzău pe anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.224-din-2023.pdf",
+     "sha256": "c084f72b038cd1cd82e95928d7dfbbe9019b67d890a34d932a0c5cf7dbb59ec6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-225-2023",
+   "path": "local/judet/buzau/2023/225",
+   "short": "HCJ Buzău nr. 225/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 225/2023 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2023 al Centrului Județean de Resurse și Asistență Educațională Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.225-din-2023.pdf",
+     "sha256": "eceb44b80e1081b7d922cea083415acc639cb22ae8d35f7e032b52553b1a9d10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-227-2023",
+   "path": "local/judet/buzau/2023/227",
+   "short": "HCJ Buzău nr. 227/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 227/2023 pentru aprobarea rectificării a VI-a a bugetului de venituri și cheltuieli pe anul 2023 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.227-din-2023.pdf",
+     "sha256": "9ed02177f9d565ef54ebd946273fddc7e652a1aa4471a6d9a97914a6e10adc67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-228-2023",
+   "path": "local/judet/buzau/2023/228",
+   "short": "HCJ Buzău nr. 228/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 228/2023 pentru aprobarea rectificării a VI-a a bugetului de venituri și cheltuieli pe anul 2023 al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.228-din-2023.pdf",
+     "sha256": "7f3fb142dbbf5873a4ffda1ece5efffffdd6f7f5192c1b9afcd24270570c3272"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-229-2023",
+   "path": "local/judet/buzau/2023/229",
+   "short": "HCJ Buzău nr. 229/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 229/2023 privind repartizarea unor sume din bugetul propriu al judeţului Buzău pe anul 2023 pentru unele unităţi de cult religios recunoscute în România",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.229-din-2023.pdf",
+     "sha256": "b23f41033f2307a09b65502d788e4b8432254f8d8e8ef15916c9b57f86ced4e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-23-2023",
+   "path": "local/judet/buzau/2023/23",
+   "short": "HCJ Buzău nr. 23/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 23/2023 pentru stabilirea destinaţiei unor sume din creditele bugetare alocate din bugetele proprii anuale ale judeţului Buzău în bugetele anuale ale Spitalului Judeţean de Urgenţă Buzău * Abrogată prin Hotărârea nr.253 din 2026",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.23-din-2023.pdf",
+     "sha256": "824fc660f74cd2f75537b958769d7cc8b75504dd257300810ff7649e22838993"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-230-2023",
+   "path": "local/judet/buzau/2023/230",
+   "short": "HCJ Buzău nr. 230/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 230/2023 pentru aprobarea alocării unei sume de la bugetul propriu al Județului Buzău aferentă desfășurării unor acțiuni dedicate Zilei Naționale a României – 2023 și Sărbătorilor de iarnă",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.230-din-2023.pdf",
+     "sha256": "3d0d35cc44b2312a24922e64efbce5f0e68e59de46f37c9720a1a34670397ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-231-2023",
+   "path": "local/judet/buzau/2023/231",
+   "short": "HCJ Buzău nr. 231/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 231/2023 privind acordarea de premii speciale elevilor și profesorilor coordonatori care au obținut rezultate deosebite la olimpiadele școlare naționale și internaționale",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.231-din-2023.pdf",
+     "sha256": "b63cdfe8e87e58fe233de1d71411f779397b9f1b62bdb96c6eaa8a10edd4b18f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-232-2023",
+   "path": "local/judet/buzau/2023/232",
+   "short": "HCJ Buzău nr. 232/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 232/2023 pentru stabilirea baremelor de dotări specifice, a costurilor medii lunare de întreţinere şi a contribuţiilor lunare de întreținere datorate de persoanele adulte asistate în căminele pentru persoane vârstnice, centrele de abilitare şi reabilitare a persoanelor adulte cu handicap, precum și în centrul de asistenţă medico-socială, unităţi de asistenţă socială din structura Direcţiei Generale de Asis",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.232-din-2023.pdf",
+     "sha256": "60db73bb470e82ab861cf1dccc0043a52f9379e8a779c426231ef57a63a85ca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-233-2023",
+   "path": "local/judet/buzau/2023/233",
+   "short": "HCJ Buzău nr. 233/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 233/2023 pentru aprobarea completării Hotărârii Consiliului Județean Buzău nr. 172/2023 privind completarea Strategiei de Dezvoltare Durabilă a Județului Buzău 2021-2027 pentru un nou orizont de timp și a Strategiei Integrate de Dezvoltare și Promovare a Turismului în Județul Buzău 2021-2030, respectiv, constituirea Comitetului de monitorizare a Strategiei de Dezvoltare Durabilă",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.233-din-2023.pdf",
+     "sha256": "eaa422c2cf7f8ee803bafbfdaa1d1c7e00cdac7536b22fb5c768fea5a1dcf373"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-234-2023",
+   "path": "local/judet/buzau/2023/234",
+   "short": "HCJ Buzău nr. 234/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 234/2023 pentru aprobarea parteneriatului dintre",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.234-din-2023.pdf",
+     "sha256": "89692b41d0c2a06c24ae54557029a97039a8b60c9401fe62cb857a58b347a696"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-235-2023",
+   "path": "local/judet/buzau/2023/235",
+   "short": "HCJ Buzău nr. 235/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 235/2023 pentru aprobarea Acordului de parteneriat între",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.235-din-2023.pdf",
+     "sha256": "95f972f17dcc529bd5be7c20ff4fe3c01b622c992e22a12017a73ca02e6d4e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-236-2023",
+   "path": "local/judet/buzau/2023/236",
+   "short": "HCJ Buzău nr. 236/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 236/2023 pentru aprobarea Acordului de Parteneriat între Unitatea Administrativ – Teritorială Județul Buzău și Unitățile Administrativ Teritoriale beneficiare ale proiectului „Dotarea cu microbuze școlare verzi (electrice) pentru unități de învățământ preuniversitar din județul Buzău”, finanțat în cadrul Planului National de Redresare și Reziliență, componenta C15: Educație, Reforma 6",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.236-din-2023.pdf",
+     "sha256": "2bcc4b0b6fe43cad5f60f59e0a597b55ec97547923bce755367f43e85a8d1344"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-237-2023",
+   "path": "local/judet/buzau/2023/237",
+   "short": "HCJ Buzău nr. 237/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 237/2023 pentru modificarea Anexei nr. 1 la Hotărârea Consiliului Județean Buzău nr. 211/2023 pentru aprobarea participării Unității Administrativ – Teritoriale Județul Buzău la implementarea proiectului „Eficiența Energetică pentru Clădiri Publice din Regiunea Sud – Est (SEEE-PB)” finanțat prin Instrumentul financiar ELENA – Asistență locală europeană pentru energie/Programul Orizont",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.237-din-2023.pdf",
+     "sha256": "b7c00522c67163587a2695a2c949e47bf28323eb63c56b67e8ef7d3c2bdbc790"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-239-2023",
+   "path": "local/judet/buzau/2023/239",
+   "short": "HCJ Buzău nr. 239/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 239/2023 pentru aprobarea dării în folosință gratuită a unui spațiu în imobilul proprietate publică a Județului Buzău din municipiul Buzău, strada Chiristigii, nr. 3 pentru activitatea Asociației de Dezvoltare Intercomunitară „Ținutul Buzăului”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.239-din-2023.pdf",
+     "sha256": "8254172fe3b4eef850c18bfd798ab254b301900e82d2006b2ad93f2a062e7a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-24-2023",
+   "path": "local/judet/buzau/2023/24",
+   "short": "HCJ Buzău nr. 24/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 24/2023 privind aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Largu, prin Consiliul Local Largu, pentru un sector din drumul județean DJ 214 A, aflat în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Înființare rețea de canalizare în comuna Largu, cu deversarea efluentului menajer în SPA-ul ex",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.24-din-2023.pdf",
+     "sha256": "e7c6b14c7a4b8054c4f6f2e207c108d2e5492c940b33bfba2bea0a195fdd6b7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-240-2023",
+   "path": "local/judet/buzau/2023/240",
+   "short": "HCJ Buzău nr. 240/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 240/2023 privind organizarea unei campanii de prevenire a consumului de droguri în rândul tinerilor din județul Buzău 2023-2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.240-din-2023.pdf",
+     "sha256": "679049e37a6597d7f682163f457d63ddcf30d1bd1c428c490d208156da608005"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-241-2023",
+   "path": "local/judet/buzau/2023/241",
+   "short": "HCJ Buzău nr. 241/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 241/2023 pentru aprobarea numărului de personal, organigramei şi statului de funcţii pentru Centrul Judeţean de Cultură şi Artă Buzău – formă actualizată * Modificată prin Hotărârea nr.50 din 2023 ; Hotărârea nr.150 din 2023 , Hotărârea nr.241 din 2023 * Abrogată prin Hotărârea nr.279 din 2023 * Modificată prin Hotărârea nr.89 din 2024 * Anexa nr.2 modificată prin Hotărârea nr.113 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.241-din-2023.pdf",
+     "sha256": "8b562495bc5a4f4d80e07b9ad09748f88b441595a635f368ed0229fbbb83981a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-242-2023",
+   "path": "local/judet/buzau/2023/242",
+   "short": "HCJ Buzău nr. 242/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 242/2023 pentru aprobarea unor modificării în statul de funcții al Spitalului Judeţean de Urgenţă Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.242-din-2023.pdf",
+     "sha256": "ef27812a25f89ef820e2dac7243d10029f00d0eb2b4507b33dd91c74caaa90f6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-243-2023",
    "path": "local/judet/buzau/2023/243",
    "short": "HCJ Buzău nr. 243/2023",
@@ -89,6 +1904,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.243-din-2023.pdf",
      "sha256": "663d87af5d8394f319c298d1d23df84931626f329ac85d21aaecb43293d3e374"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-244-2023",
+   "path": "local/judet/buzau/2023/244",
+   "short": "HCJ Buzău nr. 244/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 244/2023 privind aprobarea unor modificări ale Programului județean de transport pe grupa de trasee 02, atribuită operatorului de transport SC GRUP ATYC SRL, potrivit prevederilor Contractului de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competență a Unității Administrativ-Teritoriale județul Buzău nr. 5327/14.03.2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.244-din-2023.pdf",
+     "sha256": "656241a86ad7f1da66ef7feb3c7eb91a465e97b7f3a52eda92146087a5f6992d"
     }
    ]
   },

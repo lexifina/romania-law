@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/pascani/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--pascani-2-2023",
+   "path": "local/iasi/pascani/2023/2",
+   "short": "HCL Pașcani nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 2/2023",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2023-0003b5ae?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/9048C294D86B5CB4C22589BB002AAA8F/$FILE/HCC%20Nr.%202.pdf",
+     "sha256": "717f0e04a067cbf9d97df45a3b1711476e191e048d3825013b8bfa7900c3df80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--pascani-6-2023",
+   "path": "local/iasi/pascani/2023/6",
+   "short": "HCL Pașcani nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 6/2023",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/2023-0003b5ae?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/9953569EE12F6D1CC2258A4100620799/$FILE/hot6.pdf",
+     "sha256": "6c6c0a47052e1405848fb4e20bf673024dd25eac06fc2f5ac81b1fe4a1fed8fd"
+    }
+   ]
+  }
+ ]
+}

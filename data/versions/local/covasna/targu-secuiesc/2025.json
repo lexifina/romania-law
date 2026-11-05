@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--targu-secuiesc-185-2025",
+   "path": "local/covasna/targu-secuiesc/2025/185",
+   "short": "HCL Târgu Secuiesc nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 185/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 184/2022 privind aprobarea “Planului de Mobilitate Urbană Durabilă al Municipiului Târgu Secuiesc pentru perioada 2021-2030”",
+   "url": "https://www.kezdi.ro/hatarozatok-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 3,
+     "source_url": "https://www.kezdi.ro/wp-content/themes/kezdi/dokumentumok/tanacshatarozatok/2025/185.pdf",
+     "sha256": "68b64e0d960a74d6651eb9d86b0cf9a315ee2046b50ed3ef097e3c85aced2297"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--targu-secuiesc-26-2025",
    "path": "local/covasna/targu-secuiesc/2025/26",
    "short": "HCL Târgu Secuiesc nr. 26/2025",

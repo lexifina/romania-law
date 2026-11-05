@@ -10219,6 +10219,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18333"
 },
 {
+"slug": "legea-101-1999",
+"path": "lege/1999/101",
+"kind": "lege",
+"year": "1999",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 101/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Peru privind prevenirea, controlul, investigarea şi combaterea consumului neregulamentar şi traficului ilicit de stupefiante, substanţe psihotrope şi a delictelor conexe, semnat la Bucureşti la 9 septembrie 1998",
+"short": "Legea nr. 101/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-06-03",
+"latest": "1999-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18357"
+},
+{
 "slug": "legea-102-1999",
 "path": "lege/1999/102",
 "kind": "lege",
@@ -143514,6 +143531,23 @@
 "from": "1999-06-10",
 "latest": "2016-05-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18417"
+},
+{
+"slug": "oug-84-1999",
+"path": "oug/1999/84",
+"kind": "oug",
+"year": "1999",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/1999 privind completarea art. 7 din Legea nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar",
+"short": "OUG nr. 84/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-06-11",
+"latest": "1999-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18398"
 },
 {
 "slug": "oug-86-1999",

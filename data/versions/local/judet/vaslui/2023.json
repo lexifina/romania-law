@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-247-2023",
+   "path": "local/judet/vaslui/2023/247",
+   "short": "HCJ Vaslui nr. 247/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 247/2023 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2024",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 4,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr247_2023.pdf",
+     "sha256": "070cb50bef15101dafa3bfc914e32bddc95394692960918aa409fec1cfdf8e9b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-257-2023",
    "path": "local/judet/vaslui/2023/257",
    "short": "HCJ Vaslui nr. 257/2023",

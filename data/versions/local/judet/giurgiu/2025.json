@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-221-2025",
+   "path": "local/judet/giurgiu/2025/221",
+   "short": "HCJ Giurgiu nr. 221/2025",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 221/2025 privind completarea Hotărârii nr.115 din 18 noiembrie 2016 pentru aprobarea Regulamentului privind decontarea cheltuielilor pentru naveta la și de la locul de muncă al medicilor angajați la Spitalul Județean de Urgență Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 5,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.221-din-29.09.2025.pdf",
+     "sha256": "5aff43a17881e3f2f592a6cf16a124dcc166447fe98ebfdda959028719d53fa8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-238-2025",
    "path": "local/judet/giurgiu/2025/238",
    "short": "HCJ Giurgiu nr. 238/2025",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.297-din-18.12.2025-cu-anexa.pdf",
      "sha256": "5c0ae8b6baf7ddc614ebb621b96264d1a966efcbbc9aec726145f3ff0c058c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-93-2025",
+   "path": "local/judet/giurgiu/2025/93",
+   "short": "HCJ Giurgiu nr. 93/2025",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 93/2025 pentru completarea Hotărârii nr.115 din 18 noiembrie 2016 pentru aprobarea Regulamentului privind decontarea cheltuielilor pentru naveta la și de la locul de muncă al medicilor angajați la Spitalul Județean de Urgență Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 5,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.93-din-24.04.2025.pdf",
+     "sha256": "8a0bb3dd2b115dbf954dcba3765b5a2e1240cb620a89e4eeea2111dee280122b"
     }
    ]
   }
