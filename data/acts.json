@@ -8876,6 +8876,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282842"
 },
 {
+"slug": "legea-161-1998",
+"path": "lege/1998/161",
+"kind": "lege",
+"year": "1998",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 161/1998 pentru modificarea şi completarea unor dispoziţii ale Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României",
+"short": "Legea nr. 161/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-08-03",
+"latest": "1998-08-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15339"
+},
+{
 "slug": "legea-162-1998",
 "path": "lege/1998/162",
 "kind": "lege",
@@ -8891,6 +8908,23 @@
 "from": "1998-07-31",
 "latest": "1998-07-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15327"
+},
+{
+"slug": "legea-163-1998",
+"path": "lege/1998/163",
+"kind": "lege",
+"year": "1998",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 163/1998 pentru ratificarea Memorandumului de înţelegere-Program de cooperare economică dintre Guvernul României şi Guvernul Olandei, semnat la Haga la 5 martie 1998",
+"short": "Legea nr. 163/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-08-06",
+"latest": "1998-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15394"
 },
 {
 "slug": "legea-166-1998",

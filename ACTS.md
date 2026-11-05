@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12514 acts, 24,029 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12516 acts, 24,031 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8392, of which 3166 amending acts)
+## Laws (legi) (8394, of which 3167 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -558,7 +558,9 @@
 | Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţională - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998 | [`lege/1998/156/`](lege/1998/156/) | amended, not consolidated | 1 | 1998-08-14 | 1998-08-14 |
 | Legea nr. 157/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala - Japonia privind Proiectul de dezvoltare a Portului Constanţa-Sud, semnat la Tokyo la 27 februarie 1998 | [`lege/1998/157/`](lege/1998/157/) | amended, not consolidated | 1 | 1998-08-14 | 1998-08-14 |
 | Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar*) | [`lege/1998/160/`](lege/1998/160/) | in force | 1 | 2014-03-24 | 2014-03-24 |
+| Legea nr. 161/1998 pentru modificarea şi completarea unor dispoziţii ale Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României | [`lege/1998/161/`](lege/1998/161/) | amending act | 1 | 1998-08-03 | 1998-08-03 |
 | Legea nr. 162/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/1997 privind aprobarea primei de export pentru cantitatea de un milion tone porumb boabe din recolta anului 1997 | [`lege/1998/162/`](lege/1998/162/) | amended, not consolidated | 1 | 1998-07-31 | 1998-07-31 |
+| Legea nr. 163/1998 pentru ratificarea Memorandumului de înţelegere-Program de cooperare economică dintre Guvernul României şi Guvernul Olandei, semnat la Haga la 5 martie 1998 | [`lege/1998/163/`](lege/1998/163/) | in force | 1 | 1998-08-06 | 1998-08-06 |
 | Legea nr. 166/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria "pierdere" la Banca Agricolă - S.A., precum şi pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 48/1997 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 | [`lege/1998/166/`](lege/1998/166/) | amended, not consolidated | 1 | 1998-08-20 | 1998-08-20 |
 | Legea nr. 168/1998 privind valorificarea şi decontarea la intern a importului de cărbune cocsificabil din Republica Populară Chineză, în contul rambursării creditelor acordate de statul român prin livrări de echipamente şi utilaje energetice aferente Centralei termoelectrice de 3 x 12 MW de la CAO-CUN, finanţate la intern din fonduri alocate de la bugetul de stat | [`lege/1998/168/`](lege/1998/168/) | in force | 1 | 1998-10-06 | 1998-10-06 |
 | Legea nr. 169/1998 privind aprobarea Ordonanţei Guvernului nr. 1/1998 pentru acceptarea Protocolului 4 la Acordul general pentru comerţul cu servicii, adoptat la Geneva la 15 aprilie 1997 | [`lege/1998/169/`](lege/1998/169/) | amending act | 1 | 1998-10-06 | 1998-10-06 |
@@ -12580,7 +12582,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28827 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28875 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

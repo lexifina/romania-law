@@ -104360,6 +104360,21 @@
    ]
   },
   {
+   "slug": "legea-161-1998",
+   "path": "lege/1998/161",
+   "short": "Legea nr. 161/1998",
+   "title": "Legea nr. 161/1998 pentru modificarea şi completarea unor dispoziţii ale Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15339",
+   "versions": [
+    {
+     "from": "1998-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15339",
+     "sha256": "d9e07a4ba400594fcdba065f67526b1a3d611ef734f23bdcb491d091681f54f6"
+    }
+   ]
+  },
+  {
    "slug": "legea-161-2000",
    "path": "lege/2000/161",
    "short": "Legea nr. 161/2000",
@@ -104971,6 +104986,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283396",
      "sha256": "2319f53cd1ba02070fba71148c4848d212f0306c365b7eae632457204887bd58"
+    }
+   ]
+  },
+  {
+   "slug": "legea-163-1998",
+   "path": "lege/1998/163",
+   "short": "Legea nr. 163/1998",
+   "title": "Legea nr. 163/1998 pentru ratificarea Memorandumului de înţelegere-Program de cooperare economică dintre Guvernul României şi Guvernul Olandei, semnat la Haga la 5 martie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15394",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15394",
+     "sha256": "367571b33375e4b165ad8729f280f75c1e1c278b00518df1730541c311af583b"
     }
    ]
   },
