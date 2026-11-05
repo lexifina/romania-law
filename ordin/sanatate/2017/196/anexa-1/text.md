@@ -1,3 +1,0 @@
-# Anexa 1-51
-NORME METODOLOGICE de aplicare în anul 2017 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017
-----
