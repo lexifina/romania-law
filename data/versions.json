@@ -137003,6 +137003,21 @@
    ]
   },
   {
+   "slug": "legea-26-1998",
+   "path": "lege/1998/26",
+   "short": "Legea nr. 26/1998",
+   "title": "Legea nr. 26/1998 pentru aprobarea Ordonanţei Guvernului nr. 57/1997 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14103",
+   "versions": [
+    {
+     "from": "1998-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14103",
+     "sha256": "ff68a4da911e0ca6ef26cc428bc92b3a7190f075afb212c4cd120d8e69238b07"
+    }
+   ]
+  },
+  {
    "slug": "legea-26-1999",
    "path": "lege/1999/26",
    "short": "Legea nr. 26/1999",
@@ -152965,6 +152980,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11183",
      "sha256": "93e56578a16e4fa975e146a5557f75e80e871cd4e3186ac2f3964aa3a0ac0221"
+    }
+   ]
+  },
+  {
+   "slug": "legea-33-1998",
+   "path": "lege/1998/33",
+   "short": "Legea nr. 33/1998",
+   "title": "Legea nr. 33/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/1997 privind regularizarea pierderilor înregistrate de Agenţia Naţionala a Produselor Agricole - R.A. din activitatea anilor 1994-1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14139",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14139",
+     "sha256": "909a5928305df8226bad5d25bdde0412844b9043682ff2afacc1ca330f80800c"
     }
    ]
   },
@@ -203689,6 +203719,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7976",
      "sha256": "9be397b7bf7411536dd7a9f3de0355576fc136dbd267e27574cfbec9e0f317cb"
+    }
+   ]
+  },
+  {
+   "slug": "og-18-1998",
+   "path": "og/1998/18",
+   "short": "OG nr. 18/1998",
+   "title": "Ordonanța Guvernului nr. 18/1998 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Societatea Naţionala de Telecomunicaţii \"Romtelecom\" - S.A., semnat la Luxembourg şi la Bucureşti la 12 şi, respectiv, la 14 noiembrie 1997, aferent transei a II-a, privind finanţarea Proiectului de dezvoltare a telecomunicaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14060",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14060",
+     "sha256": "518efbe7b831b3c8fe98064563f4298c647073f5b52870e97cd2e03b9c30f49d"
     }
    ]
   },

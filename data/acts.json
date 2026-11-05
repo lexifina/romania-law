@@ -7720,6 +7720,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14097"
 },
 {
+"slug": "legea-26-1998",
+"path": "lege/1998/26",
+"kind": "lege",
+"year": "1998",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 26/1998 pentru aprobarea Ordonanţei Guvernului nr. 57/1997 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991",
+"short": "Legea nr. 26/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-01-19",
+"latest": "1998-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14103"
+},
+{
 "slug": "legea-30-1998",
 "path": "lege/1998/30",
 "kind": "lege",
@@ -7752,6 +7769,23 @@
 "from": "1998-01-27",
 "latest": "1998-01-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14134"
+},
+{
+"slug": "legea-33-1998",
+"path": "lege/1998/33",
+"kind": "lege",
+"year": "1998",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 33/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/1997 privind regularizarea pierderilor înregistrate de Agenţia Naţionala a Produselor Agricole - R.A. din activitatea anilor 1994-1996",
+"short": "Legea nr. 33/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-01-27",
+"latest": "1998-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14139"
 },
 {
 "slug": "legea-34-1998",
@@ -195262,6 +195296,23 @@
 "from": "1998-03-01",
 "latest": "1998-03-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14055"
+},
+{
+"slug": "og-18-1998",
+"path": "og/1998/18",
+"kind": "og",
+"year": "1998",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 18/1998 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Societatea Naţionala de Telecomunicaţii \"Romtelecom\" - S.A., semnat la Luxembourg şi la Bucureşti la 12 şi, respectiv, la 14 noiembrie 1997, aferent transei a II-a, privind finanţarea Proiectului de dezvoltare a telecomunicaţiilor",
+"short": "OG nr. 18/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-01-30",
+"latest": "1998-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14060"
 },
 {
 "slug": "og-19-1998",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12543 acts, 24,058 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12546 acts, 24,061 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8420, of which 3180 amending acts)
+## Laws (legi) (8422, of which 3182 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -490,8 +490,10 @@
 | Legea nr. 21/1998 pentru ratificarea Convenţiei europene cu privire la echivalarea generală a perioadelor de studii universitare, adoptată la Roma la 6 noiembrie 1990 | [`lege/1998/21/`](lege/1998/21/) | amended, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
 | Legea nr. 24/1998 pentru ratificarea Convenţiei europene cu privire la recunoaşterea academica a titlurilor universitare, adoptată la Paris la 14 decembrie 1959 | [`lege/1998/24/`](lege/1998/24/) | amended, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
 | Legea nr. 25/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia privind serviciile aeriene, semnat la Bucureşti la 29 septembrie 1994 | [`lege/1998/25/`](lege/1998/25/) | amended, not consolidated | 1 | 1998-01-23 | 1998-01-23 |
+| Legea nr. 26/1998 pentru aprobarea Ordonanţei Guvernului nr. 57/1997 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991 | [`lege/1998/26/`](lege/1998/26/) | amending act | 1 | 1998-01-19 | 1998-01-19 |
 | Legea nr. 30/1998 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 62/1997 cu privire la rectificarea bugetului de stat pe anul 1997 | [`lege/1998/30/`](lege/1998/30/) | amended, not consolidated | 1 | 1998-01-27 | 1998-01-27 |
 | Legea nr. 32/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/1997 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 6/1997 privind constituirea, la dispoziţia Ministerului Agriculturii şi Alimentaţiei, a fondului pentru finanţarea lucrărilor agricole, aprobată şi modificată prin Legea nr. 62/1997 | [`lege/1998/32/`](lege/1998/32/) | amended, not consolidated | 1 | 1998-01-27 | 1998-01-27 |
+| Legea nr. 33/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/1997 privind regularizarea pierderilor înregistrate de Agenţia Naţionala a Produselor Agricole - R.A. din activitatea anilor 1994-1996 | [`lege/1998/33/`](lege/1998/33/) | amending act | 1 | 1998-01-27 | 1998-01-27 |
 | Legea nr. 34/1998 | [`lege/1998/34/`](lege/1998/34/) | in force | 3 | 1998-01-27 | 2017-05-01 |
 | Legea nr. 35/1998 pentru aprobarea Ordonanţei Guvernului nr. 46/1997 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1997 | [`lege/1998/35/`](lege/1998/35/) | amended, not consolidated | 1 | 1998-01-28 | 1998-01-28 |
 | Legea nr. 36/1998 pentru respingerea Ordonanţei Guvernului nr. 26/1996 privind regimul proiectării, avizării, aprobării şi executării obiectivelor noi de investiţii ce se realizează de către Banca Naţionala a României şi de Casa de Economii şi Consemnaţiuni | [`lege/1998/36/`](lege/1998/36/) | amended, not consolidated | 1 | 1998-02-04 | 1998-02-04 |
@@ -11391,7 +11393,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1027, of which 121 amending acts)
+## Ordinances (OG) (1028, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11532,6 +11534,7 @@
 | Ordonanța Guvernului nr. 15/1998 | [`og/1998/15/`](og/1998/15/) | in force | 9 | 1998-01-30 | 2017-07-01 |
 | Ordonanța Guvernului nr. 16/1998 | [`og/1998/16/`](og/1998/16/) | in force | 2 | 1998-03-01 | 2003-03-21 |
 | Ordonanța Guvernului nr. 17/1998 privind instituirea unor taxe pentru prestaţii vamale | [`og/1998/17/`](og/1998/17/) | amended, not consolidated | 1 | 1998-03-01 | 1998-03-01 |
+| Ordonanța Guvernului nr. 18/1998 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Societatea Naţionala de Telecomunicaţii "Romtelecom" - S.A., semnat la Luxembourg şi la Bucureşti la 12 şi, respectiv, la 14 noiembrie 1997, aferent transei a II-a, privind finanţarea Proiectului de dezvoltare a telecomunicaţiilor | [`og/1998/18/`](og/1998/18/) | in force | 1 | 1998-01-30 | 1998-01-30 |
 | Ordonanța Guvernului nr. 19/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 9/1993 privind taxele de eliberare a deciziilor de autorizare în domeniul audiovizualului | [`og/1998/19/`](og/1998/19/) | amended, not consolidated | 1 | 1998-03-01 | 1998-03-01 |
 | Ordonanța Guvernului nr. 21/1998 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare, în suma de 25,5 milioane dolari S.U.A., semnat la Washington la 23 ianuarie 1998 | [`og/1998/21/`](og/1998/21/) | amended, not consolidated | 1 | 1998-01-30 | 1998-01-30 |
 | Ordonanța Guvernului nr. 30/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1992 privind activitatea de standardizare în România, precum şi unele măsuri privind acreditarea organismelor de certificare şi a laboratoarelor | [`og/1998/30/`](og/1998/30/) | amended, not consolidated | 1 | 1998-01-30 | 1998-01-30 |
@@ -12609,7 +12612,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29093 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29098 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
