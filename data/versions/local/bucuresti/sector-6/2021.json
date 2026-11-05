@@ -3,6 +3,171 @@
  "shard": "local/bucuresti/sector-6/2021",
  "acts": [
   {
+   "slug": "hcls6-10-2021",
+   "path": "local/bucuresti/sector-6/2021/10",
+   "short": "HCLS6 nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 10/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-costului-mediu-lunar-de-intretinere-persoanelor-adulte-cu-handicap-care-beneficiaza-de-servicii-oferite-de-centrul-de-zi-pentru-persoane-adulte-cu-dizabilitati-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-0",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL%2010_0.pdf",
+     "sha256": "851816aae6233fa27e109bf8b3bd3955fd87e77f6dcadecdab5cf7df75b38aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-100-2021",
+   "path": "local/bucuresti/sector-6/2021/100",
+   "short": "HCLS6 nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 100/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-reorganizarea-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-ale-adpdu-sector-6",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-100_1.pdf",
+     "sha256": "aa61dea526520a86bc4179006f7c6118cd7b334881366cc77c4b803becd7b1c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-101-2021",
+   "path": "local/bucuresti/sector-6/2021/101",
+   "short": "HCLS6 nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 101/2021 privind avizarea Programului integrat de dezvoltare urbană a sectorului 6 al municipiului București 2021-2030, solicitarea către Consiliul General al Municipiului Bucureşti să aprobe Programul integrat de dezvoltare urbană a sectorului 6 al municipiului București 2021-2030 și revocarea Hotărârii Consiliului Local al Sectorului 6 nr. 286/11.12.2018 - modificata prin HCL S6 nr. 111/13.05.2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-avizarea-programului-integrat-de-dezvoltare-urbana-sectorului-6-al-municipiului-bucuresti-2021-2030-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-sa-aprobe-programul-integrat-de-dezvoltare-urbana-sectorului-6-al",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-101_1.pdf",
+     "sha256": "d221627cdd909a2927b5bb0b0892051aac021d74557d1caf4a738ed99e90fd3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-102-2021",
+   "path": "local/bucuresti/sector-6/2021/102",
+   "short": "HCLS6 nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 102/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-probarea-programului-de-revitalizare-spatiilor-verzi-aferente-blocurilor-de-locuinte-gradini-de-bloc-de-pe-raza-administrativ-teritoriala-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-102_1.pdf",
+     "sha256": "81bd8cf54f7f743b2d6eb5115d46829daa6d6c6a07e0ed9c655ac30000b70a35"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-103-2021",
+   "path": "local/bucuresti/sector-6/2021/103",
+   "short": "HCLS6 nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 103/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-pentru-oficierea-casatoriilor-afara-sediului-serviciului-de-stare-civila-sector-6-precum-si-instituirii-taxelor-speciale-pentru-acest-serviciu",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-103_0.pdf",
+     "sha256": "541dfb5e66ab16f9400c8451349cf5098d3d72d919b14a9585f333c637ed047f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-104-2021",
+   "path": "local/bucuresti/sector-6/2021/104",
+   "short": "HCLS6 nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 104/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-hotararii-consiliului-local-sector-6-nr-2222016-privind-stationarea-vehiculelor-si-remorcilor-pe-spatiile-verzi-apartinand-domeniului-public-sau-privat-al-municipiului-bucuresti-de-pe-raza-sectorului-6-modificata-prin-hcl",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-104_1.pdf",
+     "sha256": "0bccdd606c00ac09b6e0fe6a2a9e43524126f6edf004403ec605b61fe2516352"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-105-2021",
+   "path": "local/bucuresti/sector-6/2021/105",
+   "short": "HCLS6 nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 105/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-privind-participarea-sectorului-6-al-municipiului-bucuresti-reprezentat-de-consiliul-local-al-sectorului-6-la-constituirea-asociatiei-de-dezvoltare-intercomunitara",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-105_1.pdf",
+     "sha256": "3bcf8cd991705d581c3456a8e5f05415c69a4e107094580f017a34c93e021b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-106-2021",
+   "path": "local/bucuresti/sector-6/2021/106",
+   "short": "HCLS6 nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 106/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-nr-1-la-hotararea-consiliului-local-sector-6-nr-3132018-pentru-aprobarea-regulamentului-privind-activitatea-de-organizare-punere-functiune-si-exploatare-parcarilor-de-resedinta-sectorul-6-si-modelului-contractului-de",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-106_1.pdf",
+     "sha256": "47ef59e9cad3ffbc0f66190c5faec3d1db4a2335c1b3fd7b07bb54b3e3975b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-107-2021",
+   "path": "local/bucuresti/sector-6/2021/107",
+   "short": "HCLS6 nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 107/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-107_0.pdf",
+     "sha256": "9c3532a42c356d5d85b82a246feb53ce7c758e9cb777f5275280d36f4291222f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-108-2021",
+   "path": "local/bucuresti/sector-6/2021/108",
+   "short": "HCLS6 nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 108/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-revocarea-hotararii-consiliului-local-al-sectorului-6-nr-402021-si-aprobarea-elaborarii-documentatiilor-tehnico-economice-aferente-obiectivului-de-investitii-extinderea-si-modernizarea-strazii-liniei-refacerea-sistemului-rutier-si",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-108_1.pdf",
+     "sha256": "f41d9feda19b851793ac4f4b78bccbb9cc3911121a4dc479d86e0801f9df054b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-109-2021",
+   "path": "local/bucuresti/sector-6/2021/109",
+   "short": "HCLS6 nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 109/2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-granitului-nr-16a-sector-6-pentru-extindere-si-supraetajare-corp-c2-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-de-153-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-109_1.pdf",
+     "sha256": "2a242f286716323be961b68530eb176cc7cf17a43c5eba6441c151bfdf3ee844"
+    }
+   ]
+  },
+  {
    "slug": "hcls6-158-2021",
    "path": "local/bucuresti/sector-6/2021/158",
    "short": "HCLS6 nr. 158/2021",

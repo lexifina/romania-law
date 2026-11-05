@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 5 nr. 351/2018 privind aprobarea încheierii Actului Adițional nr. 1 la Acordul de finanțare nr. 2/05.11.2018 înregistrat la Primăria Sectorului 5 nr. 108450/12.12.2018 încheiat între Primăria Municipiului Ungheni și Primăria Sectorului 5
+
+HCLS5 nr. 351/2018 · 1 versions, from 2018-12-21 (latest in force: 2018-12-21) · <https://sector5.ro/hotararea-nr-351-21-12-2018-privind-aprobarea-incheierii-actului-aditional-nr-1-la-acordul-de-finantare-nr-2-05-11-2018-inregistrat-la-primaria-sectorului-5-nr-108450-12-12-2018-incheiat-intre-pri/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls5-351-2018` (tags `hcls5-351-2018/<day>`; `python tools/on.py <day> hcls5-351-2018`).
+
+## Decisions made by hand
+
+- HCLS5 nr. 351/2018: listed from Consiliul Local al Sectorului 5 (sector5.ro); an individual decision: metadata only.
+- HCLS5 nr. 351/2018: dated from 21 December 2018, the day it was adopted and published.
+- HCLS5 nr. 351/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

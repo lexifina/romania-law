@@ -3,6 +3,21 @@
  "shard": "local/bucuresti/sector-6/2022",
  "acts": [
   {
+   "slug": "hcls6-100-2022",
+   "path": "local/bucuresti/sector-6/2022/100",
+   "short": "HCLS6 nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 100/2022 privind aprobarea documentației tehnice, faza Studiu de fezabilitate și a indicatorilor tehnico – economici pentru obiectivul de investiții «Înființarea unui Centru de Imagistică în cadrul Centrului de Sănătate Multifuncțional ”Sfântul Nectarie”»",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-infiintarea-unui-centru-de-imagistica-cadrul-centrului-de-sanatate-multifunctional-sfantul-nectarie",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20100%20-%202022.pdf",
+     "sha256": "d649837f96ce02034b229964b0180e6e96b06b3de9fdb07e03d830fdd1d2113d"
+    }
+   ]
+  },
+  {
    "slug": "hcls6-101-2022",
    "path": "local/bucuresti/sector-6/2022/101",
    "short": "HCLS6 nr. 101/2022",
@@ -14,6 +29,486 @@
      "units": 3,
      "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20101%20-%202022.pdf",
      "sha256": "d3bdcc37d61b9d2171a1cfc7233a0fd8c622b5223489aadea83a9c1190d5a074"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-102-2022",
+   "path": "local/bucuresti/sector-6/2022/102",
+   "short": "HCLS6 nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 102/2022 privind solicitarea către Consiliul General al Municipiului București de a transmite din administrarea Consiliului General al Municipiului București prin Administrația Străzilor București în administrarea Consiliului Local al Sectorului 6 prin Administrația Comercială Sector 6 terenurile cu funcțiune de parcare publică de sub Pasajul Basarab, respectiv de sub Pasajul Grant, amplasate pe raza sectorului 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-transmite-din-administrarea-consiliului-general-al-municipiului-bucuresti-prin-administratia-strazilor-bucuresti-administrarea-consiliului-local-al-sectorului-6-prin",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20102%20-%202022.pdf",
+     "sha256": "cb8d3baa43a6edb7d738141e9d1fb380c2c14c1997e99969b655792cb358439d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-103-2022",
+   "path": "local/bucuresti/sector-6/2022/103",
+   "short": "HCLS6 nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 103/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20103%20-%202022.pdf",
+     "sha256": "5d73f9b9deda2de463de2bfabd1eb62b548d05dac395913d72affe88ed090bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-104-2022",
+   "path": "local/bucuresti/sector-6/2022/104",
+   "short": "HCLS6 nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 104/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20104%20-%202022.pdf",
+     "sha256": "fc82f1087d488811f9624af9269ea387c8cf82008acde883e15861800de9f5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-105-2022",
+   "path": "local/bucuresti/sector-6/2022/105",
+   "short": "HCLS6 nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 105/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20105%20-%202022.pdf",
+     "sha256": "8185b24685b394853a67d90a9eb059f9d481938319a4a2c5223d7a698a418624"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-106-2022",
+   "path": "local/bucuresti/sector-6/2022/106",
+   "short": "HCLS6 nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 106/2022 privind aprobarea Planului urbanistic de detaliu – “Strada Sadinei nr. 22H”, Sector 6, pentru construire imobile cu funcţiunea de locuinţe individuale înşiruite pe un teren în suprafaţă de 1.880 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-sadinei-nr-22h-sector-6-pentru-construire-imobile-cu-functiunea-de-locuinte-individuale-insiruite-pe-un-teren-suprafata-de-1880-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20106%20-%202022.pdf",
+     "sha256": "e1426325bac01ba0b6a35bb2b7651ef092508593f4ca955ae7d8f92fb0174cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-107-2022",
+   "path": "local/bucuresti/sector-6/2022/107",
+   "short": "HCLS6 nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 107/2022 privind aprobarea Planului urbanistic de detaliu – “Bulevardul Timișoara nr. 14”, Sector 6, pentru construire ansamblu rezidențial, pe un teren în suprafaţă de 27.314 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-bulevardul-timisoara-nr-14-sector-6-pentru-construire-ansamblu-rezidential-pe-un-teren-suprafata-de-27314-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20107%20-%202022.pdf",
+     "sha256": "ce1db9e52ce0a4ce589e3b31efd34fb6f0899d26928bec8680e10fdb1dc44e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-108-2022",
+   "path": "local/bucuresti/sector-6/2022/108",
+   "short": "HCLS6 nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 108/2022 privind solicitarea acordului Consiliului General al Municipiului Bucureşti pentru împuternicirea expresă a Consiliului Local al Sectorului 6 de a hotărî cu privire la asocierea dintre Sectorul 6 al Municipiului București, Municipiul București, Asociația de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov (TPBI), Sectorul 1 al Municipiului București, Sectorul 2 al Municipiului București, Sectorul 3 al Municipiului București, Sectorul 4 al Municipiului București și Sectorul 5 al Municipiului București pentru realizarea proiectului „Modernizarea și extinderea sistemului de semaforizare inteligentă (Managementul Traficului București-Ilfov) și prioritizarea vehiculelor de transport public, în vederea creșterii siguranței rutiere, fluidizării traficului și reducerii poluării”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-consiliului-local-al-sectorului-6-de-hotari-cu-privire-la-asocierea-dintre-sectorul-6-al-municipiului-bucuresti-municipiul-bucuresti",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20108%20-%202022_0.pdf",
+     "sha256": "5baf9ff132265b8f16e9c4c28c35f650452ecc8724490fdae1ab18fd6770592d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-109-2022",
+   "path": "local/bucuresti/sector-6/2022/109",
+   "short": "HCLS6 nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 109/2022 privind aprobarea Caietului de sarcini pentru delegarea gestiunii activității de colectare şi transport a deşeurilor municipale în Sectorul 6 al Municipiului Bucureşti și a modelului contractului de delegare a gestiunii activității de colectare şi transport a deşeurilor municipale în Sectorul 6 al Municipiului Bucureşti",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-caietului-de-sarcini-pentru-delegarea-gestiunii-activitatii-de-colectare-si-transport-deseurilor-municipale-sectorul-6-al-municipiului-bucuresti-si-modelului-contractului-de-delegare-gestiunii-activitatii-de-colectare-si",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20109%20-%202022.pdf",
+     "sha256": "fb57a0fe1f0e356d831212e4dcf08f143eee387fe97ea6a420e2acc1bba05e80"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-110-2022",
+   "path": "local/bucuresti/sector-6/2022/110",
+   "short": "HCLS6 nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 110/2022 privind aprobarea protocolului de colaborare între Consiliul Local al Sectorului 6 și Universitatea Politehnica din București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-protocolului-de-colaborare-intre-consiliul-local-al-sectorului-6-si-universitatea-politehnica-din-bucuresti",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%20110%20-%202022.pdf",
+     "sha256": "567c2363de28f04ef1c316b40d3458d28daeb765581f8d2c72802a9995ab660f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-111-2022",
+   "path": "local/bucuresti/sector-6/2022/111",
+   "short": "HCLS6 nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 111/2022 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 6 nr. 101/30.06.2021 privind avizarea Programului integrat de dezvoltare urbană a sectorului 6 al municipiului București 2021-2030, solicitarea către Consiliul General al Municipiului București să aprobe Programul integrat de dezvoltare urbană a sectorului 6 al municipiului București 2021-2030 și revocarea Hotărârii Consiliului Local al Sectorului 6 nr. 286/11.12.2018",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-6-nr-10130062021-privind-avizarea-programului-integrat-de-dezvoltare-urbana-sectorului-6-al-municipiului-bucuresti-2021-2030-solicitarea-catre-consiliul-general-al",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20111%20-%202022.pdf",
+     "sha256": "3f2fcc258cb6a7b2211a26a90265337a1dce6b3919d13286b3491972a04f6ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-112-2022",
+   "path": "local/bucuresti/sector-6/2022/112",
+   "short": "HCLS6 nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 112/2022 privind rectificarea Bugetului consolidat de venituri şi cheltuieli al subdiviziunii administrativ-teritoriale sector 6 Bucureşti pe anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-subdiviziunii-administrativ-teritoriale-sector-6-bucuresti-pe-anul-2022-0",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20112%20-%202022.pdf",
+     "sha256": "6216b841d1ec557de95fb6baf433d6ecf2fefe5e81828c9ade3f314e64e3ab6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-113-2022",
+   "path": "local/bucuresti/sector-6/2022/113",
+   "short": "HCLS6 nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 113/2022 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 6 de a hotărî cu privire la asocierea dintre Sectorul 6 al Municipiului București, Municipiul București, Sectorul 1 al Municipiului București, Sectorul 2 al Municipiului București, Sectorul 4 al Municipiului București, Sectorul 5 al Municipiului București pentru realizarea proiectului „Modernizarea și extinderea sistemului de semaforizare inteligentă (Managementul Traficului București-Ilfov) și prioritizarea vehiculelor de transport public, în vederea creșterii siguranței rutiere, fluidizării traficului și reducerii poluării”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-consiliului-local-al-sectorului-6-de-hotari-cu-privire-la-asocierea-dintre-sectorul-6-al-municipiului-bucuresti-municipiul-bucuresti-0",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20113%20-%202022.pdf",
+     "sha256": "c21e3fc39b04d11151a23dd9cc2e956dbff0a8d815f6af380555fd1afb5d68da"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-114-2022",
+   "path": "local/bucuresti/sector-6/2022/114",
+   "short": "HCLS6 nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 114/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-35",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20114%20-%202022.pdf",
+     "sha256": "c188ae0abd034d94331bae45bd4b0df43b3dcd872679a61cde3b8aeb48a05801"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-115-2022",
+   "path": "local/bucuresti/sector-6/2022/115",
+   "short": "HCLS6 nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 115/2022 privind aprobarea depunerii proiectului „SMART 6- Planificare strategică pentru transformare digitală și energie verde” și a cheltuielilor legate de proiect în vederea finanțării acestuia în cadrul apelului de proiecte POCA/1014/2/1 (CP18/2022 pentru regiunea mai dezvoltată)",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-depunerii-proiectului-smart-6-planificare-strategica-pentru-transformare-digitala-si-energie-verde-si-cheltuielilor-legate-de-proiect-vederea-finantarii-acestuia-cadrul-apelului-de-proiecte-poca101421-cp182022-pentru-regiunea",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20115%20-%202022.pdf",
+     "sha256": "5ac8b4ac3ee772eb7a782039a99f556c5b8172a340fa308b04a5ec2a0bc41bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-116-2022",
+   "path": "local/bucuresti/sector-6/2022/116",
+   "short": "HCLS6 nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 116/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20116%20-%202022.pdf",
+     "sha256": "2c9a7cd47c78bc999764688c2ca5344b485f76343413fd406e3d4987338d044e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-117-2022",
+   "path": "local/bucuresti/sector-6/2022/117",
+   "short": "HCLS6 nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 117/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20117%20-%202022.pdf",
+     "sha256": "829038ccb4cef86182b1f7f7899154c4f364c4592538a1655882e6142405e22c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-118-2022",
+   "path": "local/bucuresti/sector-6/2022/118",
+   "short": "HCLS6 nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 118/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20118%20-%202022.pdf",
+     "sha256": "829038ccb4cef86182b1f7f7899154c4f364c4592538a1655882e6142405e22c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-119-2022",
+   "path": "local/bucuresti/sector-6/2022/119",
+   "short": "HCLS6 nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 119/2022 privind aprobarea criteriilor aplicabile în vederea repartizării unui apartament, destinat tinerilor specialiști, construit de Agenția Națională pentru Locuințe în cadrul Programului de construcţii de locuinţe prin credit ipotecar",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-criteriilor-aplicabile-vederea-repartizarii-unui-apartament-destinat-tinerilor-specialisti-construit-de-agentia-nationala-pentru-locuinte-cadrul-programului-de-constructii-de-locuinte-prin-credit-ipotecar",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20119%20-%202022.pdf",
+     "sha256": "eb12c252df10f8ae7c83e555bb8329e5bb75fa7148d62223cef4a4337f90875e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-120-2022",
+   "path": "local/bucuresti/sector-6/2022/120",
+   "short": "HCLS6 nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 120/2022 privind aprobarea achiziționării serviciilor de reprezentare juridică care să asigure apărarea intereselor Administrației Comerciale Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-achizitionarii-serviciilor-de-reprezentare-juridica-care-sa-asigure-apararea-intereselor-administratiei-comerciale-sector-6",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20120%20-%202022.pdf",
+     "sha256": "439ab4a6c98d38aadaf6a30dd7aefb45c042e32426b369966fa5d8ce70ecda95"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-121-2022",
+   "path": "local/bucuresti/sector-6/2022/121",
+   "short": "HCLS6 nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 121/2022 privind aprobarea burselor școlare și cuantumul acestora pentru semestrul II an școlar 2021 – 2022 pentru elevii cuprinși în învățământul preuniversitar de stat din unitățile de învățământ preuniversitar de stat din Sectorul 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-burselor-scolare-si-cuantumul-acestora-pentru-semestrul-ii-scolar-2021-2022-pentru-elevii-cuprinsi-invatamantul-preuniversitar-de-stat-din-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-6",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20121%20-%202022.pdf",
+     "sha256": "e5a1055b7b7a517ccd4d4025deb1094f8499852bf121f0a847b22be55d2d3655"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-122-2022",
+   "path": "local/bucuresti/sector-6/2022/122",
+   "short": "HCLS6 nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 122/2022 privind înregistrarea Administraţiei Comerciale Sector 6 în Sistemul naţional electronic de plată online – SNEP utilizând cardul bancar",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-inregistrarea-administratiei-comerciale-sector-6-sistemul-national-electronic-de-plata-online-snep-utilizand-cardul-bancar",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20122%20-%202022.pdf",
+     "sha256": "e6a75821f431767569609dab22a44ca5224ec5b90819e0df60f27f1090367666"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-123-2022",
+   "path": "local/bucuresti/sector-6/2022/123",
+   "short": "HCLS6 nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 123/2022 pentru aprobarea finanțării nerambursabile din bugetul local al Sectorului 6 a proiectelor culturale în anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-finantarii-nerambursabile-din-bugetul-local-al-sectorului-6-proiectelor-culturale-anul-2022",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20123%20-%202022.pdf",
+     "sha256": "adf3c639a50021ba6ce8e1da25a7b5a78300ccbc694c80060ea8565fb571f76a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-126-2022",
+   "path": "local/bucuresti/sector-6/2022/126",
+   "short": "HCLS6 nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 126/2022 privind solicitarea către Consiliul General al Municipiului București de a acorda Consiliului Local al Sectorului 6 împuternicirea expresă în vederea înființării unei societăți cu răspundere limitată cu capital integral de stat, în scopul desfășurării activității de sortare, tratare, prelucrare și valorificare materială și energetică a deșeurilor",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-acorda-consiliului-local-al-sectorului-6-imputernicirea-expresa-vederea-infiintarii-unei-societati-cu-raspundere-limitata-cu-capital-integral-de-stat-scopul-desfasurarii",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20126%20-%202022.pdf",
+     "sha256": "9da159ca3b40241c06a8fac1ab6f2d0f7474405ac404bb8847cca4ef6f51ad4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-127-2022",
+   "path": "local/bucuresti/sector-6/2022/127",
+   "short": "HCLS6 nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 127/2022 pentru modificarea Anexei nr. 3 la Hotărârea Consiliului Local al Sectorului 6 nr. 272/21.12.2021 privind aprobarea Organigramei, a Statului de Funcţii şi a Regulamentului de Organizare şi Funcţionare ale Administraţiei Şcolilor Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-nr-3-la-hotararea-consiliului-local-al-sectorului-6-nr-27221122021-privind-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-ale-administratiei-scolilor-sector-6",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20127%20-%202022.pdf",
+     "sha256": "80b3f4ababe669926c6bd21a104239a7738b46114783400c38fc199f6340b3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-128-2022",
+   "path": "local/bucuresti/sector-6/2022/128",
+   "short": "HCLS6 nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 128/2022 privind aprobarea indicatorilor economici actualizaţi şi Devizul General actualizat pentru obiectivul de investiţie „Consolidare, extindere şi modernizare cinematograf Favorit“",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indicatorilor-economici-actualizati-si-devizul-general-actualizat-pentru-obiectivul-de-investitie-consolidare-extindere-si-modernizare-cinematograf-favorit",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20128%20-%202022.pdf",
+     "sha256": "b77ddd4925c86a97e09346b23a96a9f1674e18e33dec156992a1577e33887b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-129-2022",
+   "path": "local/bucuresti/sector-6/2022/129",
+   "short": "HCLS6 nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 129/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20129%20-%202022.pdf",
+     "sha256": "6b12a5b496a771e3f51412918d55b2cf7237342a8b1c848cbf1ae0024d59f167"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-130-2022",
+   "path": "local/bucuresti/sector-6/2022/130",
+   "short": "HCLS6 nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 130/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20130%20-%202022.pdf",
+     "sha256": "110bfc10e5eb691bc9871fcda08bd7b2c85ca520680bbca9b98b2b44fca876a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-131-2022",
+   "path": "local/bucuresti/sector-6/2022/131",
+   "short": "HCLS6 nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 131/2022 privind aprobarea studiilor de fezabilitate și a indicatorilor tehnico-economici pentru reabilitarea termică a unui număr de 17 blocuri de locuințe din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-studiilor-de-fezabilitate-si-indicatorilor-tehnico-economici-pentru-reabilitarea-termica-unui-numar-de-17-blocuri-de-locuinte-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20131%20-%202022.pdf",
+     "sha256": "8acba2b7fa0cdac4e81edcd2e0209f94a8a0af58132371623bff889295c377b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-132-2022",
+   "path": "local/bucuresti/sector-6/2022/132",
+   "short": "HCLS6 nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 132/2022 privind aprobarea execuţiei bugetului general consolidat la data de 31 martie 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-executiei-bugetului-general-consolidat-la-data-de-31-martie-2022",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20132%20-%202022.pdf",
+     "sha256": "3249c275dcf597fa10b6e24d9f513cd9246160b11288f4a5629840d4a05f1ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-133-2022",
+   "path": "local/bucuresti/sector-6/2022/133",
+   "short": "HCLS6 nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 133/2022 privind rectificarea Bugetului consolidat de venituri şi cheltuieli al subdiviziunii administrativ-teritoriale sector 6 Bucureşti pe anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-subdiviziunii-administrativ-teritoriale-sector-6-bucuresti-pe-anul-2022-1",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20133%20-%202022.pdf",
+     "sha256": "22aea502ad1bc0f1c35a8729da4cd38d9ca72709bd7e6c8656fd94d1111f09d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-134-2022",
+   "path": "local/bucuresti/sector-6/2022/134",
+   "short": "HCLS6 nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 134/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20134%20-%202022.pdf",
+     "sha256": "59db0e071fa94373cef1a27a402a07f3efba5669db3b7d5b6e45aff23cc4c1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-135-2022",
+   "path": "local/bucuresti/sector-6/2022/135",
+   "short": "HCLS6 nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 135/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local al Sectorului 6 al Municipiului București, pentru anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-anual-de-actiune-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-consiliului-local-al-sectorului-6-al-municipiului-bucuresti-pentru-anul-2022",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20135%20-%202022.pdf",
+     "sha256": "7234dc96762624fdc62f4bdedf63f9adb3e48bf4e78ef12ffdb5bb66ee8541a2"
     }
    ]
   },
@@ -33,6 +528,1146 @@
    ]
   },
   {
+   "slug": "hcls6-137-2022",
+   "path": "local/bucuresti/sector-6/2022/137",
+   "short": "HCLS6 nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 137/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20137%20-%202022.pdf",
+     "sha256": "35d3474323e9f2836dd13586acf000bd694682658e577cf9f693ae797f493257"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-138-2022",
+   "path": "local/bucuresti/sector-6/2022/138",
+   "short": "HCLS6 nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 138/2022 privind aprobarea Planului urbanistic de detaliu – “Prelungirea Ghencea nr. 114-116”, Sector 6, pentru extindere și supraetajare corp C2 cu funcţiune administrativă pe un teren în suprafaţă de 5.780 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-prelungirea-ghencea-nr-114-116-sector-6-pentru-extindere-si-supraetajare-corp-c2-cu-functiune-administrativa-pe-un-teren-suprafata-de-5780-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20138%20-%202022.pdf",
+     "sha256": "51e757003e5d4f08eed42834c377cdd68610c4ce3c9483b6397abb073024178f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-139-2022",
+   "path": "local/bucuresti/sector-6/2022/139",
+   "short": "HCLS6 nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 139/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20139%20-%202022.pdf",
+     "sha256": "2d0c7643b047a3eac73f503bceff8317326608d377c2703d5fc77c8b1e03426f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-140-2022",
+   "path": "local/bucuresti/sector-6/2022/140",
+   "short": "HCLS6 nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 140/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20140%20-%202022.pdf",
+     "sha256": "c3a3dcfe88b8b7eadf6e7679b7fe212e19158d3c4d8b9f3b05cc45640b250fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-141-2022",
+   "path": "local/bucuresti/sector-6/2022/141",
+   "short": "HCLS6 nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 141/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20141%20-%202022.pdf",
+     "sha256": "bf637e0a62c44760fc4ee247dadcf08b9f58a0db3f69dcfdb314ac717bf0f268"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-142-2022",
+   "path": "local/bucuresti/sector-6/2022/142",
+   "short": "HCLS6 nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 142/2022 privind respingerea Planului urbanistic de detaliu – “Strada Piatra Roșie nr. 6”, Sector 6,pentru construire imobil cu funcțiunea de locuințe colective, pe un teren în suprafaţă măsurată de 1.018 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-strada-piatra-rosie-nr-6-sector-6pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-masurata-de-1018-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20142%20-%202022.pdf",
+     "sha256": "14cc80e7ba0b5a296b47091edbb7e092740a6c6e27f2b99583dc089d14dfa08f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-143-2022",
+   "path": "local/bucuresti/sector-6/2022/143",
+   "short": "HCLS6 nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 143/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20143%20-%202022.pdf",
+     "sha256": "2692d89bf7a320f828518ada1d0db04b0864969895e085f0a77f6215a826eae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-144-2022",
+   "path": "local/bucuresti/sector-6/2022/144",
+   "short": "HCLS6 nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 144/2022 privind respingerea Planului urbanistic de detaliu – “Drumul Valea Călmățuiului nr. 2-20”, Sector 6, pentru construire ansamblu cu funcţiunea de locuinţe colective, comerț și servicii pe un teren în suprafaţă de 32.499 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-drumul-valea-calmatuiului-nr-2-20-sector-6-pentru-construire-ansamblu-cu-functiunea-de-locuinte-colective-comert-si-servicii-pe-un-teren-suprafata-de-32499-mp-proprietate-privata-persoana",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20144%20-%202022.pdf",
+     "sha256": "691ba78e4cd7b23c3ebbeebcbc9fda215a78f5b2e1f1edfe248b6cbde29c0c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-145-2022",
+   "path": "local/bucuresti/sector-6/2022/145",
+   "short": "HCLS6 nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 145/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20145%20-%202022.pdf",
+     "sha256": "cc7de8d9c438a86847ade7bc98280b9a1e27341a0141f3979f37e0f369a511db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-146-2022",
+   "path": "local/bucuresti/sector-6/2022/146",
+   "short": "HCLS6 nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 146/2022 privind respingerea Planului urbanistic de detaliu – “Strada Valea Cascadelor nr. 11F”, Sector 6, pentru construire imobil cu funcțiunea de locuințe colective și comerț, pe un teren în suprafaţă de 1.599 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-strada-valea-cascadelor-nr-11f-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-si-comert-pe-un-teren-suprafata-de-1599-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-05/HCL%20146%20-%202022.pdf",
+     "sha256": "7a93f044c64310506f200487f4ccdfbecc86bfceb139f06bef65f39c9992ae8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-147-2022",
+   "path": "local/bucuresti/sector-6/2022/147",
+   "short": "HCLS6 nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 147/2022 privind rectificarea Bugetului consolidat de venituri şi cheltuieli al subdiviziunii administrativ-teritoriale sector 6 Bucureşti pe anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-subdiviziunii-administrativ-teritoriale-sector-6-bucuresti-pe-anul-2022-2",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20147%20-%202022.pdf",
+     "sha256": "7a93f044c64310506f200487f4ccdfbecc86bfceb139f06bef65f39c9992ae8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-148-2022",
+   "path": "local/bucuresti/sector-6/2022/148",
+   "short": "HCLS6 nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 148/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20148%20-%202022.pdf",
+     "sha256": "bc3b994e673c34e95d8d4abfbe296c76bfdb59e9fff9851161f839dc87e193e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-149-2022",
+   "path": "local/bucuresti/sector-6/2022/149",
+   "short": "HCLS6 nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 149/2022 privind preluarea de către Consiliul Local Sector 6 a competenţelor unităţii administrativ-teritoriale a municipiului Bucureşti de organizare a prelucrării, neutralizării şi valorificării materiale şi energetice a deşeurilor, de organizare a tratării mecanobiologice a deşeurilor municipale şi a deşeurilor similare, precum şi de administrare a depozitelor de deşeuri şi/sau instalaţiilor de eliminare a deşeurilor municipale şi a deşeurilor similare, pentru deșeurile generate și colectate pe raza administrativ teritorială Sectorului 6 al municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-preluarea-de-catre-consiliul-local-sector-6-competentelor-unitatii-administrativ-teritoriale-municipiului-bucuresti-de-organizare-prelucrarii-neutralizarii-si-valorificarii-materiale-si-energetice-deseurilor-de-organizare-tratarii",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20149%20-%202022.pdf",
+     "sha256": "77f4f7b65a82d91278adf1661dae4806ca2365611ce84abcf1540b69314f561f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-150-2022",
+   "path": "local/bucuresti/sector-6/2022/150",
+   "short": "HCLS6 nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 150/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20150%20-%202022.pdf",
+     "sha256": "821a7c12309fc2c929d29396c01a17c41a03262390d774ee50daa8f43247281e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-151-2022",
+   "path": "local/bucuresti/sector-6/2022/151",
+   "short": "HCLS6 nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 151/2022 privind solicitarea împuternicirii exprese a Consiliului General al Municipiului București de a hotărî cu privire la încheierea unui Acord de parteneriat între Sectorul 6 al Municipiului București și URBASOFIA, EURAC Research, Universitatea Aalborg, Primăria din Copenhaga, Universitatea din Palermo, Consiliul Național de Cercetare din Italia, Primăria din Parma, Institutul ISOCARP, în scopul implementării proiectului KINETIC – Cunoștințe integrate pentru cartierele aflate în tranziție energetică conduse de comunități incluzive",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-imputernicirii-exprese-consiliului-general-al-municipiului-bucuresti-de-hotari-cu-privire-la-incheierea-unui-acord-de-parteneriat-intre-sectorul-6-al-municipiului-bucuresti-si-urbasofia-eurac-research-universitatea-aalborg",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20151%20-%202022.pdf",
+     "sha256": "d67aaf8a9507eb77aa33b438ba853c10584ca77d2f2eda02be1698b5ec71a315"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-153-2022",
+   "path": "local/bucuresti/sector-6/2022/153",
+   "short": "HCLS6 nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 153/2022 privind solicitarea acordului Consiliului General al Municipiului București privind participarea Sectorului 6 al Municipiului București, reprezentat de Consiliul Local al Sectorului 6, la constituirea ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ a Zonei extinse Lacul Morii – București-Ilfov, alături de comuna Chiajna Județul Ilfov",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-privind-participarea-sectorului-6-al-municipiului-bucuresti-reprezentat-de-consiliul-local-al-sectorului-6-la-constituirea-asociatiei-de-dezvoltare-intercomunitara-zonei",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20153%20-%202022.pdf",
+     "sha256": "a3a93c16bbf01a8c9a08f63d0349f870a6fb63a4c4a97f5bbf43fd8591a58f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-154-2022",
+   "path": "local/bucuresti/sector-6/2022/154",
+   "short": "HCLS6 nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 154/2022 pentru modificarea hotărârii Consiliului Local al Sectorului 6 nr. 197/2017 privind efectuarea operațiunilor de ridicare, transport și depozitare a vehiculelor care îngreunează activitatea operatorilor de salubrizare, efectuarea lucrărilor de utilitate publică, precum și intervenția organelor abilitate în situațiile de urgență pe raza administrativă a Sectorului 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-hotararii-consiliului-local-al-sectorului-6-nr-1972017-privind-efectuarea-operatiunilor-de-ridicare-transport-si-depozitare-vehiculelor-care-ingreuneaza-activitatea-operatorilor-de-salubrizare-efectuarea-lucrarilor-de-1",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20154%20-%202022.pdf",
+     "sha256": "d3c51bd708205547f1b3ed0adf2aaf49523ab5023b125568f317cc50d6660e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-155-2022",
+   "path": "local/bucuresti/sector-6/2022/155",
+   "short": "HCLS6 nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 155/2022 privind aprobarea depunerii cererii de finanțare a proiectului educaţional “Înființare și dotare SmartLab” în unitățile de învățământ gimnazial din Sectorul 6 al Municipiului București, prin Programul Național de Redresare și Reziliență derulat de Ministerul Educației",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-depunerii-cererii-de-finantare-proiectului-educational-infiintare-si-dotare-smartlab-unitatile-de-invatamant-gimnazial-din-sectorul-6-al-municipiului-bucuresti-prin-programul-national-de-redresare-si-rezilienta-derulat-de",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20155%20-%202022.pdf",
+     "sha256": "748f5d4a3e9eec01354f7940f7078804bc9c9a95faef49a3348dcef700d9feca"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-157-2022",
+   "path": "local/bucuresti/sector-6/2022/157",
+   "short": "HCLS6 nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 157/2022 privind aprobarea Regulamentului Local privind asigurarea numărului minim de locuri de parcare aferent investițiilor din Sectorul 6 și a condițiilor de proiectare a acestora la faza documentații de urbanism (P.U.D.), precum și la faza autorizației de construire (D.T.A.C.)",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-local-privind-asigurarea-numarului-minim-de-locuri-de-parcare-aferent-investitiilor-din-sectorul-6-si-conditiilor-de-proiectare-acestora-la-faza-documentatii-de-urbanism-pud-precum-si-la-faza-autorizatiei-de",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20157%20-%202022.pdf",
+     "sha256": "2db290a41b03ad359c2ec821705f3fc219f5949afbf1f383eee63a6aa8061b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-158-2022",
+   "path": "local/bucuresti/sector-6/2022/158",
+   "short": "HCLS6 nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 158/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20158%20-%202022.pdf",
+     "sha256": "4729d6780a26602dad2b61a01eb8069dacc656d7df85cec21c08d6daf40d5c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-159-2022",
+   "path": "local/bucuresti/sector-6/2022/159",
+   "short": "HCLS6 nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 159/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20159%20-%202022.pdf",
+     "sha256": "d5ba729d1ee25562c53b82ced2e7d2d658510eb7ec500ed52d9407133b4cdaba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-162-2022",
+   "path": "local/bucuresti/sector-6/2022/162",
+   "short": "HCLS6 nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 162/2022 privind alocarea unei porțiuni de teren în suprafață de 10.000 mp din terenul în suprafață totală de 32.192 mp situat în b-dul Timișoara nr. 108B, sector 6, în vederea realizării unor construcții, instalații și echipamente specifice destinate prestării serviciului de salubrizare",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alocarea-unei-portiuni-de-teren-suprafata-de-10000-mp-din-terenul-suprafata-totala-de-32192-mp-situat-b-dul-timisoara-nr-108b-sector-6-vederea-realizarii-unor-constructii-instalatii-si-echipamente-specifice-destinate-prestarii",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20162%20-%202022.pdf",
+     "sha256": "1e5648409e840d7ccb0e2df2ec2556e787364246fd415af22d86ea50b6fc53cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-163-2022",
+   "path": "local/bucuresti/sector-6/2022/163",
+   "short": "HCLS6 nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 163/2022 /2022 - Hotarare privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici ai proiectului „Extinderea Sistemului de Colectare Separată a Deșeurilor la nivelul Sectorului 6 al Municipiului București” în vederea depunerii proiectului în cadrul Programului Operațional Infrastructură Mare 2014 – 2020 - modificata prin HCLS6 nr. 286/2022 si nr. 303/2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotararea-1632022-hotarare-privind-aprobarea-studiului-de-fezabilitate-si-indicatorilor-tehnico-economici-ai-proiectului-extinderea-sistemului-de-colectare-separata-deseurilor-la-nivelul-sectorului-6-al-municipiului-bucuresti-vederea-depunerii",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20163%20-%202022.pdf",
+     "sha256": "e226edbb848f241ee5143ee0305a5793052a8ca5bf32aa19a647aba70fb675b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-164-2022",
+   "path": "local/bucuresti/sector-6/2022/164",
+   "short": "HCLS6 nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 164/2022 /2022 - Hotarare privind aprobarea proiectului „Extinderea Sistemului de Colectare Separată a Deșeurilor la nivelul Sectorului 6 al Municipiului București” și a cheltuielilor legate de proiect - modificata prin HCL S6 nr. 269/28.11.2024 - modificata prin HCLS6 nr. 287/2022 şi nr. 127/2024",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotararea-nr-1642022-hotarare-privind-aprobarea-proiectului-extinderea-sistemului-de-colectare-separata-deseurilor-la-nivelul-sectorului-6-al-municipiului-bucuresti-si-cheltuielilor-legate-de-proiect",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-07/HCL%20164%20-%202022_0.pdf",
+     "sha256": "5c2ae5871b847eab6d309addb7b3803a776281259f49558c7cae464ade851b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-166-2022",
+   "path": "local/bucuresti/sector-6/2022/166",
+   "short": "HCLS6 nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 166/2022 privind rectificarea Bugetului consolidat de venituri şi cheltuieli al subdiviziunii administrativ-teritoriale Sectorul 6 al municipiului Bucureşti pe anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-subdiviziunii-administrativ-teritoriale-sectorul-6-al-municipiului-bucuresti-pe-anul-2022",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20166.pdf",
+     "sha256": "a14055e810b9c8c9e99a62ee2b17d999cce6330964363981068c7f9ad5c79746"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-167-2022",
+   "path": "local/bucuresti/sector-6/2022/167",
+   "short": "HCLS6 nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 167/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi obiectivului de investiție „Reabilitare sistem rutier Drumul Belșugului”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-aferenti-obiectivului-de-investitie-reabilitare-sistem-rutier-drumul-belsugului",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20167.pdf",
+     "sha256": "73fcf2f6aa84c4e824ccbe8ccb6b73c0864ac7a4afad57bbac74206f6286b6b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-168-2022",
+   "path": "local/bucuresti/sector-6/2022/168",
+   "short": "HCLS6 nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 168/2022 privind solicitarea către Consiliul General al Municipiului București de emitere a unei hotărâri pentru aprobarea declanșării procedurii de expropriere pentru imobilele proprietate privată situate pe amplasamentul lucrării de utilitate publică strada „Drumul Belşugului”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-emitere-unei-hotarari-pentru-aprobarea-declansarii-procedurii-de-expropriere-pentru-imobilele-proprietate-privata-situate-pe-amplasamentul-lucrarii-de-utilitate-publica-0",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20168.pdf",
+     "sha256": "5a5f683c73f7b7bf617da6a27a5034c0640ec678366daf34bc28f776b9dd4da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-169-2022",
+   "path": "local/bucuresti/sector-6/2022/169",
+   "short": "HCLS6 nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 169/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20169.pdf",
+     "sha256": "ab0643e5d84c0cade7e70e2990fe0ac2406ec27de2e9d739b1cdd2cdcb00a64a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-170-2022",
+   "path": "local/bucuresti/sector-6/2022/170",
+   "short": "HCLS6 nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 170/2022 privind aprobarea Organigramei, Statului de Funcții, numărului de personal și Regulamentului de Organizare și Funcționare ale Administrației Domeniului Public și Dezvoltare Urbană Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-statului-de-functii-numarului-de-personal-si-regulamentului-de-organizare-si-functionare-ale-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20170.pdf",
+     "sha256": "9282a02a2afc9c7da9e3cc0044a5ae95f229a9843a9485d4f29a6d34c841d4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-171-2022",
+   "path": "local/bucuresti/sector-6/2022/171",
+   "short": "HCLS6 nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 171/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20171.pdf",
+     "sha256": "8d8a19ea8b376b090994c73023bf39cbf7329ed12f16f82b540e07723cd76be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-172-2022",
+   "path": "local/bucuresti/sector-6/2022/172",
+   "short": "HCLS6 nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 172/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20172.pdf",
+     "sha256": "16af1ca391aaf3706114c7c0fe83ce93e5bc76b3b1d9fcde20fc3f7f63da9b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-174-2022",
+   "path": "local/bucuresti/sector-6/2022/174",
+   "short": "HCLS6 nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 174/2022 /2022 privind finanțarea participării elevilor din învățământul primar și gimnazial înscriși în unitățile de învățământ de stat din Sectorul 6 al Municipiului București la programul „Școală după Școală” în anul școlar 2022 – 2023 - modificata prin HCL S6 nr. 212/2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-174-privind-finantarea-participarii-elevilor-din-invatamantul-primar-si-gimnazial-inscrisi-unitatile-de-invatamant-de-stat-din-sectorul-6-al-municipiului-bucuresti-la-programul-scoala-dupa-scoala-anul-scolar-2022-2023",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20174.pdf",
+     "sha256": "f05558e8efdb3dae6ff43f6fddeb00d2e838b2c2d377052fc0b83608d47a376d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-175-2022",
+   "path": "local/bucuresti/sector-6/2022/175",
+   "short": "HCLS6 nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 175/2022 privind aprobarea solicitării împuternicirii exprese a Consiliului General al Municipiului București de a hotărî cu privire la încheierea unui Acord de parteneriat între Sectorul 6 al Municipiului București și Compania Coding the Curbs din Olanda, Municipalitatea Groningen din Olanda și Consiliul Orașului Riga din Letonia, în scopul implementării proiectului ”Coding the Curbs: Bookable Loading Zones. Regulate city logistics through dynamic access, pricing, incentives and direct enforcem",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-solicitarii-imputernicirii-exprese-consiliului-general-al-municipiului-bucuresti-de-hotari-cu-privire-la-incheierea-unui-acord-de-parteneriat-intre-sectorul-6-al-municipiului-bucuresti-si-compania-coding-curbs-din-olanda",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20175.pdf",
+     "sha256": "94a984cda63413956d643b89f13f5e534f8b6af9770325eed5841a87596a2f66"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-176-2022",
+   "path": "local/bucuresti/sector-6/2022/176",
+   "short": "HCLS6 nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 176/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20176.pdf",
+     "sha256": "f2273f90ce821fcd2cbc57d3310b65da34f804ef594933bfff07401a4ab431ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-177-2022",
+   "path": "local/bucuresti/sector-6/2022/177",
+   "short": "HCLS6 nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 177/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20177.pdf",
+     "sha256": "858da8f0a85cea7461ce5923c7e7c4ab3e1ccae503b255faa292c4f7b62a6bf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-178-2022",
+   "path": "local/bucuresti/sector-6/2022/178",
+   "short": "HCLS6 nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 178/2022 privind aprobarea Planului urbanistic de detaliu – “Drumul Bacriului nr. 13-15”, Sector 6, pentru construire imobil cu funcțiune mixtă – locuință individuală și spațiu de servicii pe un teren în suprafaţă 590 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-bacriului-nr-13-15-sector-6-pentru-construire-imobil-cu-functiune-mixta-locuinta-individuala-si-spatiu-de-servicii-pe-un-teren-suprafata-590-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20178.pdf",
+     "sha256": "a001e7e0f07b0c12836d7f852f3f1da1c6398025b0b9aa95d7b36a486d8729be"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-179-2022",
+   "path": "local/bucuresti/sector-6/2022/179",
+   "short": "HCLS6 nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 179/2022 privind respingerea Planului urbanistic de detaliu – “Drumul Valea Cricovului nr. 82-86”, Sector 6, pentru construire imobile cu funcțiunea de locuințe înșiruite pe un teren în suprafaţă măsurată 2.461 mp, proprietate privată persoană juridică",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-drumul-valea-cricovului-nr-82-86-sector-6-pentru-construire-imobile-cu-functiunea-de-locuinte-insiruite-pe-un-teren-suprafata-masurata-2461-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20179.pdf",
+     "sha256": "fc2a6c63a01cbcbb78276351789c351477e9d650930bb8196257696e3783444a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-180-2022",
+   "path": "local/bucuresti/sector-6/2022/180",
+   "short": "HCLS6 nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 180/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20180.pdf",
+     "sha256": "04c32a1614b9ba131684305c87258dc831189ab5bb2067aec0b49f434466f4d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-181-2022",
+   "path": "local/bucuresti/sector-6/2022/181",
+   "short": "HCLS6 nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 181/2022 privind actualizarea indicatorilor economici și a Devizului General pentru construire spații destinate activităților școală după școală (after-school) în incinta Școlii gimnaziale nr. 193 din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-actualizarea-indicatorilor-economici-si-devizului-general-pentru-construire-spatii-destinate-activitatilor-scoala-dupa-scoala-after-school-incinta-scolii-gimnaziale-nr-193-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20181.pdf",
+     "sha256": "170639b87020b3df2897286b423376b10a8a63e30fcd846a2ffcf5c3d92f8b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-182-2022",
+   "path": "local/bucuresti/sector-6/2022/182",
+   "short": "HCLS6 nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 182/2022 privind actualizarea indicatorilor economici și a Devizului General pentru construire spații destinate activităților școală după școală (after-school) în incinta Școlii gimnaziale nr. 197 din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-actualizarea-indicatorilor-economici-si-devizului-general-pentru-construire-spatii-destinate-activitatilor-scoala-dupa-scoala-after-school-incinta-scolii-gimnaziale-nr-197-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20182.pdf",
+     "sha256": "53c471d25f38550ca6aa36f9baed1a7eaeffaf89da0435a1103ce149ca08969b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-183-2022",
+   "path": "local/bucuresti/sector-6/2022/183",
+   "short": "HCLS6 nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 183/2022 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 6 nr. 165 din data de 26.07.2022 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de până la 150.000.000,00 lei",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-6-nr-165-din-data-de-26072022-privind-aprobarea-contractarii-si-garantarii-unei-finantari-rambursabile-interne-valoare-de-pana-la-15000000000-lei",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-08/HCL%20183.pdf",
+     "sha256": "ae3a89d214625db89b5f6c2b4d5c2338ba49cb7ed05d683675eb67e992eeb674"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-44-2022",
+   "path": "local/bucuresti/sector-6/2022/44",
+   "short": "HCLS6 nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 44/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului ,,Centrul de plasament Sf. Marcellin Champagnat” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Asociaţia „Fraţilor Marişti ai Şcolilor din România”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-centrul-de-plasament-sf-marcellin-champagnat-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-44-2022.pdf",
+     "sha256": "09632fc3b024707b31fd12f4d827d8e02375ff3cffc4300508b1dc322a7a0168"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-45-2022",
+   "path": "local/bucuresti/sector-6/2022/45",
+   "short": "HCLS6 nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 45/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului ,,Centrul Comunitar Ghencea” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Asociaţia „Sfântul Arhidiacon Ştefan”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-centrul-comunitar-ghencea-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-asociatia-sfantul",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-45-2022.pdf",
+     "sha256": "b436478dcb7aed0bfe9797096490b70367b0a8de4e676a4c41e02c4cdfe931e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-46-2022",
+   "path": "local/bucuresti/sector-6/2022/46",
+   "short": "HCLS6 nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 46/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului “Locuință maxim protejată pentru persoane adulte cu dizabilități Casa Liviu” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Fundația Estuar",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-locuinta-maxim-protejata-pentru-persoane-adulte-cu-dizabilitati-casa-liviu-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-46-2022.pdf",
+     "sha256": "c94793defd080e8cc14d0a6c92cfb7b86d251716c66e64f294e379ce40eda1fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-47-2022",
+   "path": "local/bucuresti/sector-6/2022/47",
+   "short": "HCLS6 nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 47/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului „Centrul Comunitar Generaţii” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Fundaţia Regală Margareta a României",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-centrul-comunitar-generatii-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-fundatia-regala",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-47-2022.pdf",
+     "sha256": "1539aeefe5de2dd9c9e2428423108ad50db128d4ec3787cb20d372860628fd23"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-48-2022",
+   "path": "local/bucuresti/sector-6/2022/48",
+   "short": "HCLS6 nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 48/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului „Masa Bucuriei pe Roți” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Asociația Diaconia – Filiala Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-masa-bucuriei-pe-roti-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-asociatia-diaconia",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-48-2022.pdf",
+     "sha256": "4cb2c8068f34773eb5c9c120d9e5dc7e7db7259803d662c2dcbf3bc77a3502f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-49-2022",
+   "path": "local/bucuresti/sector-6/2022/49",
+   "short": "HCLS6 nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 49/2022 pentru aprobarea subvenției, din bugetul local al Sectorului 6, în anul 2022, în vederea derulării proiectului „Centrul de zi pentru copii şi părinţi” desfăşurat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 6 în parteneriat cu Fundaţia Filantropică „Metropolis”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-subventiei-din-bugetul-local-al-sectorului-6-anul-2022-vederea-derularii-proiectului-centrul-de-zi-pentru-copii-si-parinti-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-49-2022.pdf",
+     "sha256": "138ada76a65f640c8e33faf37ed04946ace0c98bd92eba2aa95afccb9dd1b56c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-50-2022",
+   "path": "local/bucuresti/sector-6/2022/50",
+   "short": "HCLS6 nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 50/2022 pentru reorganizarea centrelor de zi de tip creșă, aflate în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 în structuri de creșă, unități de educație timpurie și îngrijire pentru copii de vârstă antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-reorganizarea-centrelor-de-zi-de-tip-cresa-aflate-subordinea-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-structuri-de-cresa-unitati-de-educatie-timpurie-si-ingrijire-pentru-copii-de-varsta-anteprescolara-cu",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-50-2022_0.pdf",
+     "sha256": "0fd928689ce1da8d6c511296c0ecb4dbe5da1d8d6d032fc0407cb48629573abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-51-2022",
+   "path": "local/bucuresti/sector-6/2022/51",
+   "short": "HCLS6 nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 51/2022 pentru reorganizarea centrelor de zi de tip creșă, aflate în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 în structuri de creșă, unități de educație timpurie și îngrijire pentru copii de vârstă antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-reorganizarea-centrelor-de-zi-de-tip-cresa-aflate-subordinea-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-structuri-de-cresa-unitati-de-educatie-timpurie-si-ingrijire-pentru-copii-de-varsta-anteprescolara-cu-0",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-51-2022.pdf",
+     "sha256": "afdc682b4c20ad73a9decff4683a4f0ab528b5cf527b134c71c4ac1952787f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-52-2022",
+   "path": "local/bucuresti/sector-6/2022/52",
+   "short": "HCLS6 nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 52/2022 privind acordarea de la bugetul local al Sectorului 6 a unor sume de bani pentru plata chiriei unor locuinţe, în anul 2022, ca măsură de prevenire şi combatere a marginalizării sociale, conform prevederilor Legii nr. 116/2002 privind prevenirea şi combaterea marginalizării sociale, cu modificările și completările ulterioare",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-de-la-bugetul-local-al-sectorului-6-unor-sume-de-bani-pentru-plata-chiriei-unor-locuinte-anul-2022-ca-masura-de-prevenire-si-combatere-marginalizarii-sociale-conform-prevederilor-legii-nr-1162002-privind-prevenirea-si",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-52-2022.pdf",
+     "sha256": "4ab2b2b29395c126cb2de42516cf3c53fd6372e88c76c8663d33d41c068aeb2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-53-2022",
+   "path": "local/bucuresti/sector-6/2022/53",
+   "short": "HCLS6 nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 53/2022 privind aprobarea documentației tehnice, actualizată, faza Studiu de fezabilitate, a indicatorilor tehnico-economici și a Devizului General actualizat pentru construire spații destinate activităților școală după școală (after-school) în incinta Școlii gimnaziale nr. 193 din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-actualizata-faza-studiu-de-fezabilitate-indicatorilor-tehnico-economici-si-devizului-general-actualizat-pentru-construire-spatii-destinate-activitatilor-scoala-dupa-scoala-after-school-incinta-scolii",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-53-2022.pdf",
+     "sha256": "d8312cc083be0ca3fe6eb0f2f829d31b5e00d822371d7ed72a707152d59d49f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-54-2022",
+   "path": "local/bucuresti/sector-6/2022/54",
+   "short": "HCLS6 nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 54/2022 privind aprobarea documentației tehnice, actualizată, faza Studiu de fezabilitate, a indicatorilor tehnico-economici și a Devizului General actualizat pentru construire spații destinate activităților școală după școală (after-school) în incinta Școlii gimnaziale nr. 197 din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-actualizata-faza-studiu-de-fezabilitate-indicatorilor-tehnico-economici-si-devizului-general-actualizat-pentru-construire-spatii-destinate-activitatilor-scoala-dupa-scoala-after-school-incinta-scolii-0",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-54-2022.pdf",
+     "sha256": "a4ef458f0aa5442a5ef1b182e6a82ffb92ca43c59460ef5bcd1e2d1da08a8317"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-55-2022",
+   "path": "local/bucuresti/sector-6/2022/55",
+   "short": "HCLS6 nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 55/2022 privind actualizarea indicatorilor tehnico-economici pentru obiectivul „Sistem de supraveghere și monitorizare video integrat pe teritoriul administrativ al Sectorului 6”, aprobați prin Hotărârea Consiliului Local al Sectorului 6 nr. 2/30.01.2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-actualizarea-indicatorilor-tehnico-economici-pentru-obiectivul-sistem-de-supraveghere-si-monitorizare-video-integrat-pe-teritoriul-administrativ-al-sectorului-6-aprobati-prin-hotararea-consiliului-local-al-sectorului-6-nr-230012020",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-55-2022.pdf",
+     "sha256": "07a8bf605d84eadb0866754e4df2e860287f610c8efca9572c02871c2c5ed39a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-56-2022",
+   "path": "local/bucuresti/sector-6/2022/56",
+   "short": "HCLS6 nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 56/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-56-2022.pdf",
+     "sha256": "81ba142d3d4fcecc66d256fb13555ed5c0d6396fd94af7ed4a21138b38a764a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-57-2022",
+   "path": "local/bucuresti/sector-6/2022/57",
+   "short": "HCLS6 nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 57/2022 privind aprobarea Regulamentului de Organizare şi Funcţionare al Serviciului social Cantina Socială din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-serviciului-social-cantina-sociala-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-57-2022.pdf",
+     "sha256": "5e03815647e35c5a506fbf5dd3da5cfa2e65e2adf9dc8cccc952cccf9d9c9b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-58-2022",
+   "path": "local/bucuresti/sector-6/2022/58",
+   "short": "HCLS6 nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 58/2022 privind aprobarea suplimentării sumelor acordate copiilor aflați în plasament la asistenții maternali profesioniști angajați în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-suplimentarii-sumelor-acordate-copiilor-aflati-plasament-la-asistentii-maternali-profesionisti-angajati-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-58-2022.pdf",
+     "sha256": "1c586de38915114486248dfabfa9d8ec0a66be10de7b5909f625e5cf1c072458"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-59-2022",
+   "path": "local/bucuresti/sector-6/2022/59",
+   "short": "HCLS6 nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 59/2022 privind acordarea, pentru anul 2022-2023, din bugetul local al Sectorului 6, a unui sprijin financiar pentru achiziționarea de materiale didactice și auxiliare, necesare pentru desfășurarea procesului educațional, în unitățile de învățământ preșcolar de stat din Sectorul 6 al municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-pentru-anul-2022-2023-din-bugetul-local-al-sectorului-6-unui-sprijin-financiar-pentru-achizitionarea-de-materiale-didactice-si-auxiliare-necesare-pentru-desfasurarea-procesului-educational-unitatile-de-invatamant-prescolar-de",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-59-2022.pdf",
+     "sha256": "1600ff6c6441c05ad06c02686e4830dd307f2032f81906e29bbda582219ef808"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-60-2022",
+   "path": "local/bucuresti/sector-6/2022/60",
+   "short": "HCLS6 nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 60/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL-60-2022.pdf",
+     "sha256": "0eb5999f189b1289af5f69547b1a06a08b7e22204b90b1ce8b7e161658caacdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-61-2022",
+   "path": "local/bucuresti/sector-6/2022/61",
+   "short": "HCLS6 nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 61/2022 privind aprobarea Conturilor de execuţie pe surse de finanţare, Situaţiile financiare, inclusiv anexele acestora, la data de 31 decembrie 2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-surse-de-finantare-situatiile-financiare-inclusiv-anexele-acestora-la-data-de-31-decembrie-2021",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2061%20-%202022.pdf",
+     "sha256": "2980c3262b37ee980dcf22117ffa3ed05103a0deaa80bca8d6651e19b1c115b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-62-2022",
+   "path": "local/bucuresti/sector-6/2022/62",
+   "short": "HCLS6 nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 62/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2062%20-%202022.pdf",
+     "sha256": "b89a4bcb050c245e42cbd785c424cc3c5df36db0f755189d81675334ce2d1ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-63-2022",
+   "path": "local/bucuresti/sector-6/2022/63",
+   "short": "HCLS6 nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 63/2022 privind stabilirea costului mediu lunar de întreţinere și a nivelului alocației zilnice de hrană pentru persoanele adulte cu handicap îngrijite în Centrul de Abilitare şi Reabilitare pentru Persoane Adulte cu Handicap “Uverturii” din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 6, în anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-costului-mediu-lunar-de-intretinere-si-nivelului-alocatiei-zilnice-de-hrana-pentru-persoanele-adulte-cu-handicap-ingrijite-centrul-de-abilitare-si-reabilitare-pentru-persoane-adulte-cu-handicap-uverturii-din-cadrul-directiei",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2063%20-%202022.pdf",
+     "sha256": "762705368f64ff13b4fc3d80bedea6c81aa3d168f6924ecbe9fa7afacb045394"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-64-2022",
+   "path": "local/bucuresti/sector-6/2022/64",
+   "short": "HCLS6 nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 64/2022 privind aprobarea, pentru anul 2022, a listelor cu ordinea de prioritate în soluționarea cererilor de locuință depuse în baza Ordonanței de Urgență a Guvernului nr. 74/2007",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-pentru-anul-2022-listelor-cu-ordinea-de-prioritate-solutionarea-cererilor-de-locuinta-depuse-baza-ordonantei-de-urgenta-guvernului-nr-742007",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2064%20-%202022.pdf",
+     "sha256": "439ecbe857dc055a5d0bbae9263b4bbacaa9b90681b7dcbefafd317522db32b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-65-2022",
+   "path": "local/bucuresti/sector-6/2022/65",
+   "short": "HCLS6 nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 65/2022 privind aprobarea, pentru anul 2022, a listelor cu ordinea de prioritate în soluționarea cererilor de locuință depuse în baza Legii locuinței nr. 114/1996",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-pentru-anul-2022-listelor-cu-ordinea-de-prioritate-solutionarea-cererilor-de-locuinta-depuse-baza-legii-locuintei-nr-1141996",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2065%20-%202022.pdf",
+     "sha256": "816bbd48f85b83619bc64c7fefd199edb569c516f895018c087148b03663c11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-66-2022",
+   "path": "local/bucuresti/sector-6/2022/66",
+   "short": "HCLS6 nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 66/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2066%20-%202022.pdf",
+     "sha256": "7bc7c33660235bad5f0a5c9108a3254a21c5d35f2592e2282b354a56c242f009"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-67-2022",
+   "path": "local/bucuresti/sector-6/2022/67",
+   "short": "HCLS6 nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 67/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiție „REABILITARE/ REAMENAJARE PARCARE DE REȘEDINȚĂ STRADA CRINUL DE PĂDURE f.n.”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-aferenti-pentru-obiectivul-de-investitie-reabilitare-reamenajare-parcare-de-resedinta-strada-crinul-de-padure-fn",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2067%20-%202022.pdf",
+     "sha256": "82a7512da90f35be147a3b3c741244aa0dbd06b5f01d2b20473406755d59def6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-68-2022",
+   "path": "local/bucuresti/sector-6/2022/68",
+   "short": "HCLS6 nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 68/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiție „ REAMENAJARE/REABILITARE PARCARE DE REȘEDINȚĂ aleea PARVA”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-aferenti-pentru-obiectivul-de-investitie-reamenajarereabilitare-parcare-de-resedinta-aleea-parva",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2068%20-%202022.pdf",
+     "sha256": "b47abb7e30bdc38175d4d8c1e38d16c35c7626d3940df74bb795a0aa0205fb26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-69-2022",
+   "path": "local/bucuresti/sector-6/2022/69",
+   "short": "HCLS6 nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 69/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiție „Modernizare parcări Blvd. Constructorilor nr. 23, 25, 27 din sectorul 6 al Municipiului Bucureşti”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-aferenti-pentru-obiectivul-de-investitie-modernizare-parcari-blvd-constructorilor-nr-23-25-27-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2069%20-%202022.pdf",
+     "sha256": "5ca9caacabe9adcbf0a984a2a741ecf021fe991db6b4dfbd8b65a52d096470ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-70-2022",
+   "path": "local/bucuresti/sector-6/2022/70",
+   "short": "HCLS6 nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 70/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiție „ REAMENAJARE/REABILITARE PARCARE DE REȘEDINȚĂ STR. FABRICII”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-aferenti-pentru-obiectivul-de-investitie-reamenajarereabilitare-parcare-de-resedinta-str-fabricii",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2070%20-%202022.pdf",
+     "sha256": "17f3b6a67cc414b48146d53eb5e21eebb7f314b6ed9a48c20b04013e2b66d060"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-71-2022",
+   "path": "local/bucuresti/sector-6/2022/71",
+   "short": "HCLS6 nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 71/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2071%20-%202022.pdf",
+     "sha256": "f0d99ed8fbf46d84cefbb30f653ff5b07cd43a57966da35a501ae0912c18f78e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-72-2022",
+   "path": "local/bucuresti/sector-6/2022/72",
+   "short": "HCLS6 nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 72/2022 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiție „ MODERNIZARE PARCARE DE REȘEDINȚĂ STR. RĂSĂRITULUI/STR. GEORGE CALBOREANU”",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2072%20-%202022.pdf",
+     "sha256": "0d67536cf431f0bc94ba9395543e291b8c2724c238e5906405e4b7a452b39dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-73-2022",
+   "path": "local/bucuresti/sector-6/2022/73",
+   "short": "HCLS6 nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 73/2022 privind solicitarea împuternicirii exprese a Consiliul General al Municipiului București de a încheia un Acord de parteneriat între Sectorul 6 al Municipiului București și Biblioteca Metropolitană București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-imputernicirii-exprese-consiliul-general-al-municipiului-bucuresti-de-incheia-un-acord-de-parteneriat-intre-sectorul-6-al-municipiului-bucuresti-si-biblioteca-metropolitana-bucuresti",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2073%20-%202022.pdf",
+     "sha256": "625ab71f7a4cda5142929a29a6b2da812b1d79f7e64bac62468f4963ae8075ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-74-2022",
+   "path": "local/bucuresti/sector-6/2022/74",
+   "short": "HCLS6 nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 74/2022 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITARE SISTEM RUTIER DRUMUL OSIEI SECTOR 6, BUCUREȘTI”",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indicatorilor-tehnico-economici-actualizati-si-devizului-general-actualizat-pentru-obiectivul-de-investitii-reabilitare-sistem-rutier-drumul-osiei-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2074%20-%202022.pdf",
+     "sha256": "d8f8605b03a5de3a5f0940d5beb293fb66ed86e663a02f952267c30f27b73fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-75-2022",
+   "path": "local/bucuresti/sector-6/2022/75",
+   "short": "HCLS6 nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 75/2022 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Resistematizare și reabilitare sistem rutier – perimetrul cuprins între b-dul Uverturii, șos. Virtuții, b.dul Iuliu Maniu și str. Dezrobirii, Sector 6, București”",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2075%20-%202022.pdf",
+     "sha256": "3098111b4b846a1c419b9b6a941e7d573263e6256499e4d65eb52a3732548789"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-76-2022",
+   "path": "local/bucuresti/sector-6/2022/76",
+   "short": "HCLS6 nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 76/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2076%20-%202022.pdf",
+     "sha256": "8563dc4eab68ff3f4a6b9859116c25e1900b72747723962dc081f4692f4827f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-77-2022",
+   "path": "local/bucuresti/sector-6/2022/77",
+   "short": "HCLS6 nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 77/2022 pentru modificarea și completarea Anexei Nr. 1 și Anexei Nr. 2 din Hotărârea Consiliului Local al Sectorului 6 nr. 33 din 18.02.2021 privind nominalizarea reprezentanţilor Consiliului Local al Sectorului 6 în comisiile pentru evaluarea și asigurarea calității din unitățile de învățământ preuniversitar de stat, particular și confesional din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-anexei-nr-1-si-anexei-nr-2-din-hotararea-consiliului-local-al-sectorului-6-nr-33-din-18022021-privind-nominalizarea-reprezentantilor-consiliului-local-al-sectorului-6-comisiile-pentru-evaluarea-si-asigurarea",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2077%20-%202022.pdf",
+     "sha256": "42d42b809e311fd58f033a2547d99c99e20e0dc4ae83a1f54681607f7da9fabf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-78-2022",
+   "path": "local/bucuresti/sector-6/2022/78",
+   "short": "HCLS6 nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 78/2022 pentru aprobarea cuantumului maxim şi a condiţiilor de acordare a prestaţiilor financiare excepţionale pentru familii care nu au posibilitatea de a acorda copiilor îngrijirea corespunzătoare",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-cuantumului-maxim-si-conditiilor-de-acordare-prestatiilor-financiare-exceptionale-pentru-familii-care-nu-au-posibilitatea-de-acorda-copiilor-ingrijirea-corespunzatoare",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2078%20-%202022_0.pdf",
+     "sha256": "1db28adc5046f026458c4aece029f0390ecb9ec8f460b588c54dc438b2f96f8d"
+    }
+   ]
+  },
+  {
    "slug": "hcls6-79-2022",
    "path": "local/bucuresti/sector-6/2022/79",
    "short": "HCLS6 nr. 79/2022",
@@ -44,6 +1679,51 @@
      "units": 1,
      "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2079%20-%202022.pdf",
      "sha256": "ec77715c8de27f33ac80de8c2c9301fb68e200c2fff3dc1e5c7532277cfbfce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-80-2022",
+   "path": "local/bucuresti/sector-6/2022/80",
+   "short": "HCLS6 nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 80/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2080%20-%202022.pdf",
+     "sha256": "10c4302c818751a93e9801f6c067d24cc2b3c46b2949d9e25648d6bb0a7b9c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-81-2022",
+   "path": "local/bucuresti/sector-6/2022/81",
+   "short": "HCLS6 nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 81/2022 privind solicitarea către Consiliul General al Municipiului București de a transmite din administrarea Consiliului General al Municipiului București prin Administrația Fondului Imobiliar în administrarea Consiliului Local al Sectorului 6 prin Administrația Comercială Sector 6 spațiile identificate conform Anexei",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-transmite-din-administrarea-consiliului-general-al-municipiului-bucuresti-prin-administratia-fondului-imobiliar-administrarea-consiliului-local-al-sectorului-6-prin",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2081%20-%202022.pdf",
+     "sha256": "674b967bfa28eaf22ad3f59706def79ac748512b46fc88d54db64ebc2a9de52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-82-2022",
+   "path": "local/bucuresti/sector-6/2022/82",
+   "short": "HCLS6 nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 82/2022 privind solicitarea către Consiliul General al Municipiului București de adoptare a unei hotărâri prin care să se solicite Guvernului României emiterea unei hotărâri pentru trecerea imobilelor cu numerele cadastrale 210699, 212185 și 216424, din domeniul public al statului și administrarea Ministerului Apărării Naționale, în domeniul public al Municipiului București și administrarea Consiliului Local al Sectorului 6 prin Administrația Domeniului Public și Dezvoltare Urbană Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-adoptare-unei-hotarari-prin-care-sa-se-solicite-guvernului-romaniei-emiterea-unei-hotarari-pentru-trecerea-imobilelor-cu-numerele-cadastrale-210699-212185-si-216424-din",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2082%20-%202022.pdf",
+     "sha256": "0a4213d7d8c2b3f08bdd673485bd4ced50f29a955c3b3e454587168b71e3b82b"
     }
    ]
   },
@@ -63,6 +1743,66 @@
    ]
   },
   {
+   "slug": "hcls6-84-2022",
+   "path": "local/bucuresti/sector-6/2022/84",
+   "short": "HCLS6 nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 84/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2084%20-%202022.pdf",
+     "sha256": "8e0823653454c2fe2d16c588e187fbd68c6a6ffa7cd8258032b28a1f7523c3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-85-2022",
+   "path": "local/bucuresti/sector-6/2022/85",
+   "short": "HCLS6 nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 85/2022 privind rectificarea Bugetului consolidat de venituri şi cheltuieli al subdiviziunii administrativ-teritoriale sector 6 Bucureşti pe anul 2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-rectificarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-subdiviziunii-administrativ-teritoriale-sector-6-bucuresti-pe-anul-2022",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2085%20-%202022_0.pdf",
+     "sha256": "a2aec6320eead4806f511c8d77a0cfa6dac5e46d98e06cfee031b31a634ffe0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-86-2022",
+   "path": "local/bucuresti/sector-6/2022/86",
+   "short": "HCLS6 nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 86/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2086%20-%202022.pdf",
+     "sha256": "3e13d181b1f549e1315e77a7fc8d1e16fcd6259ebff545e6fbedc0d7c6f043ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-87-2022",
+   "path": "local/bucuresti/sector-6/2022/87",
+   "short": "HCLS6 nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 87/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2087%20-%202022.pdf",
+     "sha256": "0f2e55bca67f677d410bbce400ca5a23433c574e6043cc190d2340e5a7b56926"
+    }
+   ]
+  },
+  {
    "slug": "hcls6-96-2022",
    "path": "local/bucuresti/sector-6/2022/96",
    "short": "HCLS6 nr. 96/2022",
@@ -74,6 +1814,21 @@
      "units": 3,
      "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2096%20-%202022.pdf",
      "sha256": "b61841a1f1ab2440dc78abc9f43f2c806e4fb1a65705e2d4a53d8273e49ba8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-97-2022",
+   "path": "local/bucuresti/sector-6/2022/97",
+   "short": "HCLS6 nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 97/2022 de aprobare a Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-de-aprobare-criteriilor-pentru-stabilirea-ordinii-de-prioritate-solutionarea-cererilor-de-locuinte-si-repartizarea-locuintelor-pentru-tineri-destinate-inchirierii-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2097%20-%202022.pdf",
+     "sha256": "24195d5efba161f4ce0fcb2386daa89ed225ead8513b0e804b04b10b0418a6b8"
     }
    ]
   },

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 6 nr. 148/2024 pentru modificarea anexelor la Hotărârea Consiliului Local al Sectorului 6 nr. 234/2023 privind actualizarea documentației tehnico-economice și a indicatorilor tehnico-economici aferenți pentru reabilitarea termică a unui număr de 23 blocuri de locuinţe din Sectorul 6 al Municipiului Bucureşti
+
+HCLS6 nr. 148/2024 · 1 versions, from 2024-06-27 (latest in force: 2024-06-27) · <https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexelor-la-hotararea-consiliului-local-al-sectorului-6-nr-2342023-privind-actualizarea-documentatiei-tehnico-economice-si-indicatorilor-tehnico-economici-aferenti-pentru-reabilitarea-termica-unui-numar-de-23-blocuri-de>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls6-148-2024` (tags `hcls6-148-2024/<day>`; `python tools/on.py <day> hcls6-148-2024`).
+
+## Decisions made by hand
+
+- HCLS6 nr. 148/2024: listed from Consiliul Local al Sectorului 6 (www.primarie6.ro); an individual decision: metadata only.
+- HCLS6 nr. 148/2024: dated from 27 June 2024, the day it was adopted (the register gives no later day of publication).
+- HCLS6 nr. 148/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
