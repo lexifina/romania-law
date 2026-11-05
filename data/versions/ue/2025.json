@@ -348,6 +348,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1098-2025",
+   "path": "ue/regulament/2025/1098",
+   "short": "Regulamentul (UE) 2025/1098",
+   "title": "Regulamentul (UE) 2025/1098 al Consiliului din 27 mai 2025 de modificare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1098",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a33d5a0-3b5c-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ccd2e8dff71a1a6871a11aef84807befe29cca982452a280b74aac8b02c2203c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-11-2025",
+   "path": "ue/regulament/2025/11",
+   "short": "Regulamentul (UE) 2025/11",
+   "title": "Regulamentul (UE) 2025/11 al Parlamentului European și al Consiliului din 19 decembrie 2024 de modificare a Regulamentului (UE) 2018/1806 în ceea ce privește Vanuatu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0011",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/58feb4b3-d218-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d3ea26554da816134cd0904a6f9821133b6811dd31b6075b08e39137a0deaf9c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1101-2025",
    "path": "ue/regulament/2025/1101",
    "short": "Regulamentul (UE) 2025/1101",
@@ -378,6 +408,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1108-2025",
+   "path": "ue/regulament/2025/1108",
+   "short": "Regulamentul (UE) 2025/1108",
+   "title": "Regulamentul (UE) 2025/1108 al Comisiei din 23 mai 2025 de modificare a Regulamentului (CE) nr. 2368/2002 al Consiliului de punere în aplicare a sistemului de certificare pentru Procesul Kimberley privind comerțul internațional cu diamante brute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1108",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15814a0c-3b5c-11f0-8a44-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c2293beee91cb8963a371c9ed776cea3e2dfa3316e592678d24c82632196ff06"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1112-2025",
    "path": "ue/regulament/2025/1112",
    "short": "Regulamentul (UE) 2025/1112",
@@ -404,6 +449,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/25c86b21-d866-11ef-be2a-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "7ea7f2bf3a124d1acaa7114ce9d3715c2a7d5e024098666a39d5aa24662adde2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1150-2025",
+   "path": "ue/regulament/2025/1150",
+   "short": "Regulamentul (UE) 2025/1150",
+   "title": "Regulamentul (UE) 2025/1150 al Comisiei din 11 iunie 2025 de modificare a anexei III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea ascorbatului de sodiu (E 301) în preparatele de vitamina A destinate formulelor de început și formulelor de continuare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1150",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c81470bc-4725-11f0-85ba-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "45b363c3cc308758b846ce7cb2fb5ac627b5b95d0b5b6cdce0376f208eb3537b"
     }
    ]
   },
@@ -468,6 +528,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-12-2025",
+   "path": "ue/regulament/2025/12",
+   "short": "Regulamentul (UE) 2025/12",
+   "title": "Regulamentul (UE) 2025/12 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind colectarea și transferul de informații prealabile referitoare la pasageri în vederea îmbunătățirii și facilitării verificărilor la frontierele externe, de modificare a Regulamentelor (UE) 2018/1726 și (UE) 2019/817 și de abrogare a Directivei 2004/82/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0012",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14587d2b-cd61-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "83fe615f06e4bcc6925fb95e28da7e58e9c50e9c723a714baddf76f2699c4fcc"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1208-2025",
    "path": "ue/regulament/2025/1208",
    "short": "Regulamentul (UE) 2025/1208",
@@ -479,6 +554,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2f6f899a-4d70-11f0-a9d0-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "9a59c3318525fe3896207605e693cc11b20b0d73cf1eb4d8672b195b09aeaf53"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1212-2025",
+   "path": "ue/regulament/2025/1212",
+   "short": "Regulamentul (UE) 2025/1212",
+   "title": "Regulamentul (UE) 2025/1212 al Comisiei din 24 iunie 2025 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de acetamiprid din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1212",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d62a4b30-6da6-11f0-bf4e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "bad524f20b27d77d48dc5bf41e8e58fd20282f8da1d3bfa9afc696d5fc6fb30b"
     }
    ]
   },
@@ -588,6 +678,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1303-2025",
+   "path": "ue/regulament/2025/1303",
+   "short": "Regulamentul (UE) 2025/1303",
+   "title": "Regulamentul (UE) 2025/1303 al Consiliului din 23 iunie 2025 de modificare a Regulamentului (UE) 2021/2278 de suspendare a taxelor din Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 pentru anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1303",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c244bd2f-554e-11f0-a9d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4cfad09e5701f47ca937c46b817bd14b9e2490b21a0ba470b1030b1c9015c924"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1304-2025",
    "path": "ue/regulament/2025/1304",
    "short": "Regulamentul (Euratom) 2025/1304",
@@ -614,6 +719,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6a0ec414-57a8-11f0-a9d0-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "d57ede9802f642f13c8fa6d2f064a0dc00fd2d737425e27115a80b5ace6e5d78"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1331-2025",
+   "path": "ue/regulament/2025/1331",
+   "short": "Regulamentul (UE) 2025/1331",
+   "title": "Regulamentul (UE) 2025/1331 al Comisiei din 9 iulie 2025 de modificare a Regulamentului (UE) 2023/1803 în ceea ce privește Standardele Internaționale de Raportare Financiară 1, 7, 9 și 10 și Standardul Internațional de Contabilitate 7",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1331",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3a7f184-5d26-11f0-a9d0-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "46aefe5e5d20da6677552450468fe2c3cee359941c1df6a7e5952bc2d78431f9"
     }
    ]
   },
@@ -648,6 +768,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1377-2025",
+   "path": "ue/regulament/2025/1377",
+   "short": "Regulamentul (UE) 2025/1377",
+   "title": "Regulamentul (UE) 2025/1377 al Comisiei din 15 iulie 2025 de modificare și de rectificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește anumite cerințe referitoare la introducerea pe piață și la importurile de subproduse de origine animală și de produse derivate care nu sunt destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1377",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/187f2644-61e0-11f0-bf4e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e3a32d44347b3dc63ca1e79d087cbf1dbab386e52dd308c4c5cc2ebd6b12c81d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-14-2025",
+   "path": "ue/regulament/2025/14",
+   "short": "Regulamentul (UE) 2025/14",
+   "title": "Regulamentul (UE) 2025/14 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind omologarea și supravegherea pieței echipamentelor mobile fără destinație rutieră care circulă pe drumurile publice și de modificare a Regulamentului (UE) 2019/1020 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0014",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7146c59-cd60-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eb6f7e515328e0c5d93e1e52951bf90188847df45d7b11905c07e1d9d4e5003c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-140-2025",
+   "path": "ue/regulament/2025/140",
+   "short": "Regulamentul (UE) 2025/140",
+   "title": "Regulamentul (UE) 2025/140 al Comisiei din 29 ianuarie 2025 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește includerea substanței (E)-3-benzo[1,3]dioxol-5-il-N,N-difenil-2-propenamidă în lista Uniunii de arome",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0140",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad2595d3-deab-11ef-be2a-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f5f3708065513aa8c55e45a230ff1ee22abc1d0fe5a75bfb6f3b5f3abcb0cddc"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1408-2025",
    "path": "ue/regulament/2025/1408",
    "short": "Regulamentul (UE) 2025/1408",
@@ -659,6 +824,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/99ec4111-6051-11f0-a9d0-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "6556b45fde80af80a8b24d910ad1ff4af9e25c1ef355d470ea878cb165ccba6e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1409-2025",
+   "path": "ue/regulament/2025/1409",
+   "short": "Regulamentul (UE) 2025/1409",
+   "title": "Regulamentul (UE) 2025/1409 al Consiliului din 8 iulie 2025 de modificare a Regulamentului (CE) nr. 2866/98 în ceea ce privește rata de conversie a monedei euro pentru Bulgaria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1409",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94e776cb-6051-11f0-a9d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "64b105aa825d8a9cf119244f835a44f18c9b350de85b58a65baf308f6c6ffb69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1434-2025",
+   "path": "ue/regulament/2025/1434",
+   "short": "Regulamentul de punere în aplicare (UE) 2025/1434",
+   "title": "Regulamentul de punere în aplicare (UE) 2025/1434 din 15 iulie 2025",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1434",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd430c0d-6172-11f0-bf4e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3bc5d3b4e5092efdde04dbf204dc1d16795cddb17c2549b6948c1a3eb9606c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-146-2025",
+   "path": "ue/regulament/2025/146",
+   "short": "Regulamentul (UE) 2025/146",
+   "title": "Regulamentul (UE) 2025/146 al Comisiei din 29 ianuarie 2025 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de zoxamid din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0146",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19613732-deab-11ef-be2a-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d322261c275145493db0575c0b9abb573429ea628fa926691d1eb92c09472e6e"
     }
    ]
   },
@@ -734,6 +944,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5ef6fe9a-675d-11f0-bf4e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "aeb2b90f8a7c7a9e2707a3977adfb53f268eb0427bb85607f57e7d3b5b4d7426"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1561-2025",
+   "path": "ue/regulament/2025/1561",
+   "short": "Regulamentul (UE) 2025/1561",
+   "title": "Regulamentul (UE) 2025/1561 al Parlamentului European și al Consiliului din 18 iulie 2025 de modificare a Regulamentului (UE) 2023/1542 în ceea ce privește obligațiile operatorilor economici referitoare la politicile privind diligența necesară pentru baterii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1561",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe1163e4-6cdd-11f0-bf4e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "efb429f11bd0b94ae1ab21dfa418f6859474486b7e708f36aa8dd69ea83bb254"
     }
    ]
   },
@@ -843,6 +1068,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1958-2025",
+   "path": "ue/regulament/2025/1958",
+   "short": "Regulamentul (UE) 2025/1958",
+   "title": "Regulamentul (UE) 2025/1958 al Băncii Centrale Europene din 9 septembrie 2025 de modificare a Regulamentului (UE) 2015/534 privind raportarea de informații financiare în materie de supraveghere (BCE/2015/13) (BCE/2025/31)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1958",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9f986489-aaf1-11f0-89c6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4847a76391fd1b59710b85314e01d55a05464f9e946e378673bd56a80d62f43d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1975-2025",
+   "path": "ue/regulament/2025/1975",
+   "short": "Regulamentul (UE) 2025/1975",
+   "title": "Regulamentul (UE) 2025/1975 din 29 septembrie 2025",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R1975",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3cf21ec0-9d20-11f0-97c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "28328bdbc328e2346843959a9822feee95ca398b9f3c093953a92ca73a674970"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1988-2025",
    "path": "ue/regulament/2025/1988",
    "short": "Regulamentul (UE) 2025/1988",
@@ -869,6 +1124,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a691fdb8-9ff3-11f0-97c8-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "9566a0790015301a43fabf9c8ae7ec4bd38af69be9b5ac3b058958bdfa1bb8be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2005-2025",
+   "path": "ue/regulament/2025/2005",
+   "short": "Regulamentul (UE) 2025/2005",
+   "title": "Regulamentul (UE) 2025/2005 al Parlamentului European și al Consiliului din 16 decembrie 2025 de modificare a Regulamentelor (UE) 2015/1017, (UE) 2021/523, (UE) 2021/695 și (UE) 2021/1153 în ceea ce privește creșterea eficienței garanției UE în temeiul Regulamentului (UE) 2021/523 și simplificarea cerințelor de raportare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2005",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78c719f8-dfa4-11f0-8439-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b51749102379a5fca777441e04c30d2101e0a3041f5c85d2d40f0cdecf1e5fab"
     }
    ]
   },
@@ -944,6 +1214,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/784dd911-afe3-11f0-b37f-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "98bc471fee4daeb183564d8c971fd02867e9f95df5036cea78ca0c0950a579ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2037-2025",
+   "path": "ue/regulament/2025/2037",
+   "short": "Regulamentul (UE) 2025/2037",
+   "title": "Regulamentul (UE) 2025/2037 al Consiliului din 23 octombrie 2025 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2037",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8e9dc96-afe4-11f0-b37f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "23afa25ec6ee34d20812f65e693b1f89ed3f73e47aef3f764c38ef63f133f9a4"
     }
    ]
   },
@@ -1098,6 +1383,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2084-2025",
+   "path": "ue/regulament/2025/2084",
+   "short": "Regulamentul (UE) 2025/2084",
+   "title": "Regulamentul (UE) 2025/2084 al Comisiei din 17 Octombrie 2025 de modificare a Regulamentului (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea extractului de Quillaia (E 999) și a Regulamentului (UE) nr. 231/2012 al Comisiei în ceea ce privește specificațiile pentru extractul de Quillaia (E 999)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2084",
+   "versions": [
+    {
+     "from": "2025-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a42b944-ad4e-11f0-89c6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "6dce0b2b55f48bd5813ee2734b901a13eb2789b9b50785bbd0d7f226c007d53c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2088-2025",
    "path": "ue/regulament/2025/2088",
    "short": "Regulamentul (UE) 2025/2088",
@@ -1158,6 +1458,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2224-2025",
+   "path": "ue/regulament/2025/2224",
+   "short": "Regulamentul (UE) 2025/2224",
+   "title": "Regulamentul (UE) 2025/2224 al Comisiei din 5 noiembrie 2025 de modificare a anexei II la Regulamentul (CE) nr. 1925/2006 al Parlamentului European și al Consiliului și a anexei II la Directiva 2002/46/CE a Parlamentului European și a Consiliului în ceea ce privește sarea monosodică a acidului L-5-metiltetrahidrofolic ca sursă de acid folic adăugat în produsele alimentare și ca sursă de folat utilizat la fabricarea de suplimente alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2224",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb16b2e1-bab1-11f0-b37f-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "271d5c50745a48b202ce38bff244a5bb530aa813422fadb467f0b4bfea47b575"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2225-2025",
+   "path": "ue/regulament/2025/2225",
+   "short": "Regulamentul (UE) 2025/2225",
+   "title": "Regulamentul (UE) 2025/2225 al Comisiei din 5 noiembrie 2025 de modificare a anexei II la Directiva 2002/46/CE a Parlamentului European și a Consiliului în ceea ce privește L-treonatul de magneziu ca sursă de magneziu utilizat la fabricarea suplimentelor alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2225",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27593212-bab1-11f0-b37f-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "09e63dd37ac1064ac369402bdcbcd83886a45aa6aa8c81799d9b5b966e36a51d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2240-2025",
    "path": "ue/regulament/2025/2240",
    "short": "Regulamentul (UE) 2025/2240",
@@ -1169,6 +1499,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/016470d2-bab2-11f0-b37f-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "6758d81aefaa9e984600ab49de769d5a58e0ec77d4580b48073f9fdf3851719f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2257-2025",
+   "path": "ue/regulament/2025/2257",
+   "short": "Regulamentul (UE) 2025/2257",
+   "title": "Regulamentul (UE) 2025/2257 al Consiliului din 29 septembrie 2025 privind repartizarea posibilităților de pescuit prevăzute de Protocolul privind punerea în aplicare a Acordului de parteneriat în sectorul pescuitului dintre Republica Democratică São Tomé și Príncipe și Comunitatea Europeană (2025-2029)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2257",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b131bd5c-bab1-11f0-b37f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3227cae4195c1e389f2aa6f2a831e915d7cf6c15b5dab82f880819f401f835d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2262-2025",
+   "path": "ue/regulament/2025/2262",
+   "short": "Regulamentul (UE) 2025/2262",
+   "title": "Regulamentul (UE) 2025/2262 al Comisiei din 11 noiembrie 2025 de modificare a Regulamentului (UE) 2023/826 pentru a clarifica definițiile și anumite aspecte ale condițiilor de măsurare și de modificare a Regulamentului (UE) 2023/2533 în ceea ce privește metodologia de calculare a gradului mediu de umiditate finală, identificarea și disponibilitatea pieselor de schimb și a informațiilor privind repararea, printre alte aspecte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2262",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb3ee58a-c5b1-11f0-8da2-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d632d2dfa6cec22d0e896ae3a80b31c3bcab45c5b40243d08aae954dbb6e0b2c"
     }
    ]
   },
@@ -1188,6 +1548,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2274-2025",
+   "path": "ue/regulament/2025/2274",
+   "short": "Regulamentul (UE) 2025/2274",
+   "title": "Regulamentul (UE) 2025/2274 al Comisiei din 12 noiembrie 2025 de modificare a Regulamentului (UE) 2024/1487 în ceea ce privește adoptarea programului de lucru pentru revizuirea treptată a agenților fitoprotectori și a agenților sinergici",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2274",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab19ca78-c031-11f0-a612-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7d4b37d13365bac49ab46f0f1b452f487ca8f1e0764ad6c12b03494c0a791391"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2365-2025",
    "path": "ue/regulament/2025/2365",
    "short": "Regulamentul (UE) 2025/2365",
@@ -1199,6 +1574,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7e6393e6-ca68-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "9d9a485d98e24ba31b35270a3fd6a3f946572881c3b5da697db49c2928edb423"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2397-2025",
+   "path": "ue/regulament/2025/2397",
+   "short": "Regulamentul (UE) 2025/2397",
+   "title": "Regulamentul (UE) 2025/2397 al Consiliului din 24 noiembrie 2025 de modificare a Regulamentului (UE) 2016/1686 de instituire a unor măsuri restrictive suplimentare împotriva ISIL (Da’esh) și Al-Qaida și a persoanelor fizice și juridice, entităților sau organismelor asociate cu acestea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2397",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0efc39aa-c92c-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "82b9471ca4b8159302c18404041f93984360e89f27c2cfa79cacf1b592441cb9"
     }
    ]
   },
@@ -1248,6 +1638,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2445-2025",
+   "path": "ue/regulament/2025/2445",
+   "short": "Regulamentul (UE, Euratom) 2025/2445",
+   "title": "Regulamentul (UE, Euratom) 2025/2445 al Parlamentului European și al Consiliului din 26 noiembrie 2025 privind statutul și finanțarea partidelor politice europene și a fundațiilor politice europene (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2445",
+   "versions": [
+    {
+     "from": "2025-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b14c4065-d403-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bf32456a536907096a21a38b8f57837e858f19d915bc87dffebc0f33f6d05bcb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2454-2025",
    "path": "ue/regulament/2025/2454",
    "short": "Regulamentul (UE) 2025/2454",
@@ -1278,6 +1683,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2457-2025",
+   "path": "ue/regulament/2025/2457",
+   "short": "Regulamentul (UE) 2025/2457",
+   "title": "Regulamentul (UE) 2025/2457 al Parlamentului European și al Consiliului din 26 noiembrie 2025 de modificare a Regulamentelor (CE) nr. 178/2002, (CE) nr. 401/2009, (UE) 2017/745 și (UE) 2019/1021 în ceea ce privește reatribuirea sarcinilor științifice și tehnice și îmbunătățirea cooperării dintre agențiile Uniunii în domeniul substanțelor chimice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2457",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57d9604b-d704-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "88d33866988b8ef5f2928bf0d667bc41bea7d3fe2c1c761a2bb8b6aca0fff705"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2458-2025",
    "path": "ue/regulament/2025/2458",
    "short": "Regulamentul (UE) 2025/2458",
@@ -1304,6 +1724,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/674d1335-d403-11f0-8da2-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "cef4ef93dc5edecb8704c31851a2697eff4ce4e7537b7473f16c1596d04d3f82"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2481-2025",
+   "path": "ue/regulament/2025/2481",
+   "short": "Regulamentul (UE) 2025/2481",
+   "title": "Regulamentul (UE) 2025/2481 al Comisiei din 2 decembrie 2025 de modificare a Regulamentului (UE) 2024/1834 în ceea ce privește definițiile, dispozițiile tranzitorii, toleranțele de verificare, corectarea rezultatelor încercărilor și alte dispoziții referitoare la viteza ventilatorului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2481",
+   "versions": [
+    {
+     "from": "2025-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17716332-d404-11f0-8da2-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "88c778a0ec2230b540a35fa6a8fbbb673793ff1490feb68596ecc05db6e35ab3"
     }
    ]
   },
@@ -1368,6 +1803,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-2600-2025",
+   "path": "ue/regulament/2025/2600",
+   "short": "Regulamentul (UE) 2025/2600",
+   "title": "Regulamentul (UE) 2025/2600 al Consiliului din 12 decembrie 2025 privind măsurile de urgență pentru abordarea dificultăților economice grave cauzate de acțiunile Rusiei în contextul războiului de agresiune împotriva Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2600",
+   "versions": [
+    {
+     "from": "2025-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b2beaf9-d811-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "54abd8e1f3b5ca4677878f4eaca0afc8d0aade6978853430eacaaa63fe320778"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2601-2025",
+   "path": "ue/regulament/2025/2601",
+   "short": "Regulamentul CELEX 32025R2601",
+   "title": "Regulamentul (PESC) 2025/2601 al Consiliului din 15 decembrie 2025 de modificare a Regulamentului (CE) nr. 765/2006 privind măsuri restrictive având în vedere situația din Belarus și implicarea Belarusului în agresiunea Rusiei împotriva Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2601",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f690ab4f-da45-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a20b8a5d1ffa16af98787b7a3068a1f033ce9b17aaaeca10193055aa24625c95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2605-2025",
+   "path": "ue/regulament/2025/2605",
+   "short": "Regulamentul (UE) 2025/2605",
+   "title": "Regulamentul (UE) 2025/2605 al Consiliului din 12 decembrie 2025 de modificare a Regulamentului (UE) 2021/2278 de suspendare a taxelor din Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului pentru anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2605",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23898ae0-e531-11f0-8b3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "18f47e9cf20a3e9a1480c143a852300f26f389140369a0ad444e162710dd656c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2611-2025",
+   "path": "ue/regulament/2025/2611",
+   "short": "Regulamentul (UE) 2025/2611",
+   "title": "Regulamentul (UE) 2025/2611 al Parlamentului European și al Consiliului din 16 decembrie 2025 de modificare a Regulamentului (UE) 2016/794 în ceea ce privește întărirea sprijinului acordat de Europol și consolidarea cooperării polițienești, pentru prevenirea și combaterea introducerii ilegale de migranți și a traficului de persoane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2611",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/199a378b-defb-11f0-8439-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "17eed8f949c6fde4603dc507a1d54b63928416653dc3a460e88e914be9ab19fe"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2614-2025",
    "path": "ue/regulament/2025/2614",
    "short": "Regulamentul (UE) 2025/2614",
@@ -1413,6 +1908,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2643-2025",
+   "path": "ue/regulament/2025/2643",
+   "short": "Regulamentul (UE) 2025/2643",
+   "title": "Regulamentul (UE) 2025/2643 al Parlamentului European și al Consiliului din 16 decembrie 2025 de stabilire a Programului privind industria europeană de apărare și a unui cadru de măsuri care să asigure disponibilitatea și aprovizionarea în timp util cu produse din domeniul apărării („Regulamentul EDIP”) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2643",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a35ec88-e47b-11f0-abd8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "025cdefb36e07460ab6ca97ffff55a66ccd75e79d52559327614c28f4b5ca6c8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2645-2025",
    "path": "ue/regulament/2025/2645",
    "short": "Regulamentul (UE) 2025/2645",
@@ -1439,6 +1949,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6ca87601-e5eb-11f0-8d3c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ee689ca2f7bcb8319d8506570fba211ad3e2d5799ec3acf45646872a32d95c80"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2650-2025",
+   "path": "ue/regulament/2025/2650",
+   "short": "Regulamentul (UE) 2025/2650",
+   "title": "Regulamentul (UE) 2025/2650 al Parlamentului European și al Consiliului din 19 decembrie 2025 de modificare a Regulamentului (UE) 2023/1115 în ceea ce privește anumite obligații ale operatorilor și comercianților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2650",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce5c480c-dfa4-11f0-8439-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "af49832794071965cbdb1a992b86782dcf81ce90026a236576352321aa4dc219"
     }
    ]
   },
@@ -1518,6 +2043,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-37-2025",
+   "path": "ue/regulament/2025/37",
+   "short": "Regulamentul (UE) 2025/37",
+   "title": "Regulamentul (UE) 2025/37 al Parlamentului European și al Consiliului din 19 decembrie 2024 de modificare a Regulamentului (UE) 2019/881 în ceea ce privește serviciile de securitate gestionate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0037",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68c0442e-d2e1-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "59508d5d1ce9403a10585f00f0c8383c9843ecb319094560d7df4887000e4c6f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-38-2025",
+   "path": "ue/regulament/2025/38",
+   "short": "Regulamentul (UE) 2025/38",
+   "title": "Regulamentul (UE) 2025/38 al Parlamentului European și al Consiliului din 19 decembrie 2024 de stabilire a unor măsuri de consolidare a solidarității și a capacităților la nivelul Uniunii pentru detectarea amenințărilor și a incidentelor de securitate cibernetică, pregătirea legată de acestea și răspunsul la acestea și de modificare a Regulamentului (UE) 2021/694 (Regulamentul privind solidaritatea cibernetică)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0038",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/647c31d8-d2e1-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ad1d4697f4cdebbe94023dd2219afc590101abb02a764a916b571fbdf2206b2a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-390-2025",
    "path": "ue/regulament/2025/390",
    "short": "Regulamentul (UE) 2025/390",
@@ -1533,6 +2088,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-392-2025",
+   "path": "ue/regulament/2025/392",
+   "short": "Regulamentul (UE) 2025/392",
+   "title": "Regulamentul (UE) 2025/392 al Consiliului din 24 februarie 2025 de modificare a Regulamentului (CE) nr. 765/2006 privind măsuri restrictive având în vedere situația din Belarus și implicarea Belarusului în agresiunea Rusiei împotriva Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0392",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17ed8bf4-f294-11ef-981b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1259064d4f611b34d35488d39f19d8fe0f33cbb1ccd63723c969d117bad0e4aa"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-395-2025",
    "path": "ue/regulament/2025/395",
    "short": "Regulamentul (UE) 2025/395",
@@ -1544,6 +2114,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6cb19759-f2a8-11ef-981b-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "d26ed63b64d16af7921a3405c289e4d675ce1d6bc3192ac5698aa60cf1691aa1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-398-2025",
+   "path": "ue/regulament/2025/398",
+   "short": "Regulamentul (UE) 2025/398",
+   "title": "Regulamentul (UE) 2025/398 al Consiliului din 24 februarie 2025 de modificare a Regulamentului (UE) 2022/263 privind măsuri restrictive ca răspuns la recunoașterea, ocuparea sau anexarea ilegală de către Federația Rusă a anumitor zone din Ucraina necontrolate de guvern",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0398",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cfe3c300-f28f-11ef-981b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8ad9ba72aafc9606626b70ffe7139b5ddbc1709e62c0b1e77f3ed56fb7e423af"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-40-2025",
+   "path": "ue/regulament/2025/40",
+   "short": "Regulamentul (UE) 2025/40",
+   "title": "Regulamentul (UE) 2025/40 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind ambalajele și deșeurile de ambalaje, de modificare a Regulamentului (UE) 2019/1020 și a Directivei (UE) 2019/904 și de abrogare a Directivei 94/62/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0040",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d34251c8-d865-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6ef918115ac70f6599a0aaab087aa48229bac42a8e5f99a95b0d4a7831f0e523"
     }
    ]
   },
@@ -1593,6 +2193,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-517-2025",
+   "path": "ue/regulament/2025/517",
+   "short": "Regulamentul (UE) 2025/517",
+   "title": "Regulamentul (UE) 2025/517 al Consiliului din 11 martie 2025 de modificare a Regulamentului (UE) nr. 904/2010 în ceea ce privește acordurile de cooperare administrativă în materie de TVA necesare pentru era digitală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0517",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ede70ccb-0919-11f0-b1a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "873824d50540c71e5af2f5f8bc664f9c2830cfe6e44e5eed42bef38dcda7d01f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-535-2025",
    "path": "ue/regulament/2025/535",
    "short": "Regulamentul (UE) 2025/535",
@@ -1619,6 +2234,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/87bc9ed6-0b75-11f0-b1a3-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "5377bf592701766e41e5f8a090413b3256609b08f596a1f6d5e194a07dbffb8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-608-2025",
+   "path": "ue/regulament/2025/608",
+   "short": "Regulamentul (UE) 2025/608",
+   "title": "Regulamentul (UE) 2025/608 al Consiliului din 24 martie 2025 de modificare a Regulamentului (UE) 2022/2309 privind măsuri restrictive având în vedere situația din Haiti",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0608",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e404d660-0919-11f0-b1a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d08e46bd1898ba9f78660c46c5ca89700a0014ac35635fee38d34137adf90de"
     }
    ]
   },
@@ -1664,6 +2294,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/11dec92b-1026-11f0-b1a3-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "436752a2c4a52d92c5b07529213dc002dc15383e18b0d49b59449651fadc8a5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-652-2025",
+   "path": "ue/regulament/2025/652",
+   "short": "Regulamentul (UE) 2025/652",
+   "title": "Regulamentul (UE) 2025/652 al Comisiei din 2 aprilie 2025 de modificare a Regulamentului (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a Regulamentului (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea glicozidelor steviolice produse prin fermentație cu Yarrowia lipolytica",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0652",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/18403d43-1026-11f0-b1a3-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7edcb653616ab855584eb9e92fb82ed6a245b887fb3ede48245031877fc4f1a5"
     }
    ]
   },
@@ -1743,6 +2388,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-903-2025",
+   "path": "ue/regulament/2025/903",
+   "short": "Regulamentul (UE) 2025/903",
+   "title": "Regulamentul (UE) 2025/903 al Consiliului din 13 mai 2025 de modificare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0903",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3096acf4-3060-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bee56bcb25bb64d93b39201566a0b4b8fdf3e5817ad86d5635fb7224e667e65a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-914-2025",
+   "path": "ue/regulament/2025/914",
+   "short": "Regulamentul (UE) 2025/914",
+   "title": "Regulamentul (UE) 2025/914 al Parlamentului European și al Consiliului din 7 mai 2025 de modificare a Regulamentului (UE) 2016/1011 în ceea ce privește domeniul de aplicare al normelor privind indicii de referință, utilizarea în Uniune a indicilor de referință furnizați de un administrator situat într-o țară terță și anumite cerințe de raportare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0914",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f2d158cc-344c-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eca69a48a01d24dbe064c5b0cb7916a7dd379856df626d3a06144cebd1e3d898"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-925-2025",
    "path": "ue/regulament/2025/925",
    "short": "Regulamentul (UE) 2025/925",
@@ -1758,6 +2433,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-932-2025",
+   "path": "ue/regulament/2025/932",
+   "short": "Regulamentul (UE) 2025/932",
+   "title": "Regulamentul (UE) 2025/932 din 20 mai 2025",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0932",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32feecb1-3562-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0faad745be3abc9b217f6f7702637e332e619c8e90dc3ff0fec3893379c6e09b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-941-2025",
    "path": "ue/regulament/2025/941",
    "short": "Regulamentul (UE) 2025/941",
@@ -1769,6 +2459,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c013506c-3512-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3048d09a58dc22b9ed5070caf828d420b371a267bb5ed32f1625ab3538cd14ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-964-2025",
+   "path": "ue/regulament/2025/964",
+   "short": "Regulamentul (UE) 2025/964",
+   "title": "Regulamentul (UE) 2025/964 al Consiliului din 20 mai 2025 de modificare a Regulamentului (UE) 2024/2642 privind măsuri restrictive având în vedere activitățile destabilizatoare ale Rusiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0964",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78e50aff-3569-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f1b7b4653a54fe91075a25bfa9b5d25640a0eb8bc2c0c04446481528324d61dc"
     }
    ]
   },
