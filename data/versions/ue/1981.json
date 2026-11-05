@@ -31,6 +31,216 @@
      "sha256": "0f59883304d10de1e16f2acaa309db34828d84482cd1c5dd4ae57dc99a6f801d"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-139-1981",
+   "path": "ue/regulament/1981/139",
+   "short": "Regulamentul (CEE) nr. 139/81",
+   "title": "Regulamentul (CEE) nr. 139/81 al Comisiei din 16 ianuarie 1981 de stabilire a condițiilor pentru admiterea anumitor sortimente de carne congelată de vită și mânzat la subpoziția 02.01 A II b) 4 bb) 22 din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R0139",
+   "versions": [
+    {
+     "from": "1981-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9eea8316-8735-4078-8dbd-ba1166df7238.0021.03/DOC_11",
+     "sha256": "368fbeff4b05b83af79ce101830dcfbbf324605cd72ac3d770cdce38815ec614"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1390-1981",
+   "path": "ue/regulament/1981/1390",
+   "short": "Regulamentul (CEE) nr. 1390/81",
+   "title": "Regulamentul (CEE) nr. 1390/81 al Consiliului din 12 mai 1981 de extindere în raport cu lucrătorii care desfășoară activități independente și cu membrii de familie ai acestora a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați și cu familiile acestora care se deplasează în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R1390",
+   "versions": [
+    {
+     "from": "1981-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f5ffef6-661a-4682-b13f-b0817318e7d4.0021.03/DOC_1",
+     "sha256": "191ea9c56eeabf87df11c3aef5f54c3ce7895a465358a8eb73413b8c85d05e18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1492-1981",
+   "path": "ue/regulament/1981/1492",
+   "short": "Regulamentul (CEE) nr. 1492/81",
+   "title": "Regulamentul (CEE) nr. 1492/81 al Consiliului din 19 mai 1981 privind încheierea Acordului privind textul în limba greacă al Acordului între Comunitatea Economică Europeană, Confederația Elvețiană și Republica Austria de extindere a sferei de aplicare a reglementărilor din domeniul tranzitului comunitar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R1492",
+   "versions": [
+    {
+     "from": "1981-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1c04dd6-4336-4045-8013-b502b39ffcc1.0020.03/DOC_1",
+     "sha256": "4581d516dafa76adb59ad1e8d8e9866ec1a298692c4311b836847a5ee1f63f3d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1620-1981",
+   "path": "ue/regulament/1981/1620",
+   "short": "Regulamentul (CEE) nr. 1620/81",
+   "title": "Regulamentul (CEE) nr. 1620/81 al Comisiei din 15 iunie 1981 privind clasificarea anumitor mărfuri în cadrul subpoziției 87.01 B din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R1620",
+   "versions": [
+    {
+     "from": "1981-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/439f568d-0f93-4a1d-9167-1da97319c821.0022.03/DOC_2",
+     "sha256": "6822296f7545b76cd346edc2bec0f7a01ed2638ad46f4be10b974b53c3fc9d3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2180-1981",
+   "path": "ue/regulament/1981/2180",
+   "short": "Regulamentul (CEE) nr. 2180/81",
+   "title": "Regulamentul (CEE) nr. 2180/81 al Comisiei din 30 iulie 1981 privind normele de aplicare a restricțiilor la subvențiile pentru investiții în sectorul producției de porcine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R2180",
+   "versions": [
+    {
+     "from": "1981-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d96a842-d4dc-49a9-8856-4242452f7ba4.0020.03/DOC_28",
+     "sha256": "6ffb74bd5fc4e9d7ec8144ee98ea1977000f80e0b170bc20c0f69718259d25eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3020-1981",
+   "path": "ue/regulament/1981/3020",
+   "short": "Regulamentul (CEE) nr. 3020/81",
+   "title": "Regulamentul (CEE) nr. 3020/81 al Consiliului din 19 octombrie 1981 de modificare a Regulamentului (CEE) nr. 3237/76 privind punerea în aplicare anticipată a anexelor tehnice și utilizarea anticipată a modelului de carnet TIR al Convenției vamale privind transportul internațional de mărfuri cu carnete TIR (Convenția TIR) din 14 noiembrie 1975, Geneva",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3020",
+   "versions": [
+    {
+     "from": "1982-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3381db2d-10aa-40bf-9dbd-289901c8364e.0020.03/DOC_2",
+     "sha256": "303477f900f27d87cb99546f04086567d9b1774286ef767515acf03efd7c5537"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3149-1981",
+   "path": "ue/regulament/1981/3149",
+   "short": "Regulamentul (CEE) nr. 3149/81",
+   "title": "Regulamentul (CEE) nr. 3149/81 al Comisiei din 30 octombrie 1981 privind clasificarea anumitor mărfuri în cadrul subpoziției 38.19 T din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3149",
+   "versions": [
+    {
+     "from": "1981-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19f67d29-0199-4c07-88da-4d09033bbe37.0022.03/DOC_1",
+     "sha256": "ae6c6e277630ae973ce2ec022a31bec72c3eef0fe3d3d8960a7ab91c399f3f6d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3245-1981",
+   "path": "ue/regulament/1981/3245",
+   "short": "Regulamentul (CEE) nr. 3245/81",
+   "title": "Regulamentul (CEE) nr. 3245/81 al Consiliului din 26 octombrie 1981 de înființare a Agenției Europene pentru Cooperare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3245",
+   "versions": [
+    {
+     "from": "1981-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe7c4c29-191e-4184-b977-90ed019b115b.0022.04/DOC_1",
+     "sha256": "429beb620f3b5e836d6f894ea57f99bdee30549062fa2a7142a86b3e2e855730"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3423-1981",
+   "path": "ue/regulament/1981/3423",
+   "short": "Regulamentul (CEE) nr. 3423/81",
+   "title": "Regulamentul (CEE) nr. 3423/81 al Comisiei din 30 noiembrie 1981 privind comunicarea de către statele membre a datelor referitoare la exportul de produse din sectorul orezului și al cerealelor cu titlu de ajutor alimentar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3423",
+   "versions": [
+    {
+     "from": "1981-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b76a8aac-8ff2-4bd0-b4f1-1c9d71dd4e68.0022.03/DOC_2",
+     "sha256": "f06ac4ac3b69344378aa73a4ebd855cad49e073d1ce5eb26e377ebab60025f88"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-348-1981",
+   "path": "ue/regulament/1981/348",
+   "short": "Regulamentul (CEE) nr. 348/81",
+   "title": "Regulamentul (CEE) nr. 348/81 al Consiliului din 20 ianuarie 1981 privind regimul comun aplicabil importurilor de produse derivate din cetacee",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R0348",
+   "versions": [
+    {
+     "from": "1981-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99b5e35a-1a5b-4580-b46b-b6fdb32b85a5.0022.01/DOC_1",
+     "sha256": "a6caf0c7d99a26c7113c07bb419853c9cf7292a3a48a0bfd19b26ef1de14754d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3558-1981",
+   "path": "ue/regulament/1981/3558",
+   "short": "Regulamentul (CEE) nr. 3558/81",
+   "title": "Regulamentul (CEE) nr. 3558/81 al Comisiei din 8 decembrie 1981 privind clasificarea anumitor mărfuri în cadrul subpoziției 71.16 A din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3558",
+   "versions": [
+    {
+     "from": "1982-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ab6b92d-4864-46c7-988d-25bf0b67bedd.0022.03/DOC_1",
+     "sha256": "270f5dd1654700aff8448070cb8958d98ce8153b8359ab9950bafa5b1ee5d565"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3581-1981",
+   "path": "ue/regulament/1981/3581",
+   "short": "Regulamentul (CEE) nr. 3581/81",
+   "title": "Regulamentul (CEE) nr. 3581/81 al Comisiei din 14 decembrie 1981 privind pragul statistic al statisticilor comerțului exterior al Comunității și ale comerțului între statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R3581",
+   "versions": [
+    {
+     "from": "1982-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16d6e065-ada6-4d7f-bf67-f990a6852b6d.0020.03/DOC_1",
+     "sha256": "84386de3bab8c5a16de8522a4c83ded6aef22529c22c10bc8945149152ee3464"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-42-1981",
+   "path": "ue/regulament/1981/42",
+   "short": "Regulamentul (CEE) nr. 42/81",
+   "title": "Regulamentul (CEE) nr. 42/81 al Consiliului din 1 ianuarie 1981 privind autorizarea Republicii Elene de a include, în cadrul nomenclaturii Tarifului Vamal Comun, subdiviziuni naționale pentru anumite produse agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R0042",
+   "versions": [
+    {
+     "from": "1981-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2252264e-4aa2-4ede-a757-f755593de9dc.0020.03/DOC_1",
+     "sha256": "716f5c57de63eea207f64580c2f3052a5cfe53017df9a04680a903286e0ee7cb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-654-1981",
+   "path": "ue/regulament/1981/654",
+   "short": "Regulamentul (CEE) nr. 654/81",
+   "title": "Regulamentul (CEE) nr. 654/81 al Consiliului din 10 martie 1981 de modificare a Regulamentului (CEE) nr. 3179/78 privind încheierea de către Comunitatea Economică Europeană a Convenției asupra viitoarei cooperări multilaterale în zonele de pescuit din Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31981R0654",
+   "versions": [
+    {
+     "from": "1981-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5202fdb-a829-4e4d-9c98-6d7c5af56c63.0022.04/DOC_1",
+     "sha256": "331cf64c3fb6ee40171fa0a3849072407fff5c5c80f4375db51c02dc7b059aa0"
+    }
+   ]
   }
  ]
 }

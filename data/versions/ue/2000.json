@@ -211,6 +211,1011 @@
      "sha256": "6c93fe7d7b36d65000905f9b89264ff738ddfeaa8c37dbebbe90e77fdc82fad4"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1009-2000",
+   "path": "ue/regulament/2000/1009",
+   "short": "Regulamentul (CE) nr. 1009/2000",
+   "title": "Regulamentul (CE) nr. 1009/2000 al Consiliului din 8 mai 2000 privind majorările capitalului Băncii Centrale Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1009",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b268bd75-75ed-4b91-8a84-8edfa0fb667b.0022.04/DOC_1",
+     "sha256": "84332a5d593e739c8ede76565bf86f25edb23bb62f2eace6b3b8412bfa5c34a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1010-2000",
+   "path": "ue/regulament/2000/1010",
+   "short": "Regulamentul (CE) nr. 1010/2000",
+   "title": "Regulamentul (CE) nr. 1010/2000 al Consiliului din 8 mai 2000 privind solicitări suplimentare de active de rezervă de schimb ale Băncii Centrale Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1010",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f874b28d-ffee-4e6d-bdae-d008385c44c6.0022.04/DOC_1",
+     "sha256": "6679491dabbfed0b22b8681f7e7fc0a4c9facbdeaec1ca2891bfbcea1e61af09"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1187-2000",
+   "path": "ue/regulament/2000/1187",
+   "short": "Regulamentul (CE) nr. 1187/2000",
+   "title": "Regulamentul (CE) nr. 1187/2000 al Comisiei din 5 iunie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1187",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14c06d8c-2238-435c-8cb0-79987bc2e984.0022.04/DOC_3",
+     "sha256": "e4a0408232c7055d258029077afdaadf2137ac7ae2d49bee6507426c27886361"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1208-2000",
+   "path": "ue/regulament/2000/1208",
+   "short": "Regulamentul (CE) nr. 1208/2000",
+   "title": "Regulamentul (CE) nr. 1208/2000 al Comisiei din 8 iunie 2000 de modificare a Regulamentului (CE) nr. 1420/1999 al Consiliului de stabilire a normelor și procedurilor comune aplicabile transporturilor de anumite tipuri de deșeuri din Comunitatea Europeană către Bulgaria și Nigeria și a Regulamentului (CE) nr. 1547/1999 privind procedurile de control aplicabile transporturilor de anumite tipuri de deșeuri către Bulgaria și NigeriaText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1208",
+   "versions": [
+    {
+     "from": "2000-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04212bd1-c3ca-4650-84a1-2b04bc5b4bf0.0022.03/DOC_2",
+     "sha256": "cc442bc06488667e6b7a831646bbe4bdbf1e4c57872e1df0d5d892cc678355df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1209-2000",
+   "path": "ue/regulament/2000/1209",
+   "short": "Regulamentul (CE) nr. 1209/2000",
+   "title": "Regulamentul (CE) nr. 1209/2000 al Comisiei din 8 iunie 2000 de definire a procedurilor de efectuare a comunicărilor prevăzute la articolul 41 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1209",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/769ee94d-2d8d-46e9-ad1b-86b3b1c4d691.0022.04/DOC_3",
+     "sha256": "1083f752f080bd44a535d613945c9f5b241d4207675cf1936a21b46b9f7d56ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1338-2000",
+   "path": "ue/regulament/2000/1338",
+   "short": "Regulamentul (CE) nr. 1338/2000",
+   "title": "Regulamentul (CE) nr. 1338/2000 al Comisiei din 26 iunie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1338",
+   "versions": [
+    {
+     "from": "2000-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06129ad7-f1a5-4485-b259-35a71ddae58e.0022.03/DOC_1",
+     "sha256": "2a135f6508115bde0b58fb662dcae1ac9cac9275c25263a61a7f6df6c65c7bda"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1353-2000",
+   "path": "ue/regulament/2000/1353",
+   "short": "Regulamentul (CE) nr. 1353/2000",
+   "title": "Regulamentul (CE) nr. 1353/2000 al Comisiei din 26 iunie 2000 privind autorizarea permanentă a unui aditiv și autorizarea provizorie de noi aditivi, de noi utilizări ale unor aditivi și de noi preparate în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1353",
+   "versions": [
+    {
+     "from": "2000-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b9df9d7-d883-460b-897b-1959fdad3b56.0022.03/DOC_1",
+     "sha256": "aa14c84badb90f8cdcf3b0e108b775aec4ce4c975eec3eac3a955acf7547b866"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1362-2000",
+   "path": "ue/regulament/2000/1362",
+   "short": "Regulamentul (CE) nr. 1362/2000",
+   "title": "Regulamentul (CE) nr. 1362/2000 al Consiliului din 29 iunie 2000 de punere în aplicare pentru Comunitate a dispozițiilor tarifare din Decizia nr. 2/2000 a Consiliului mixt instituit în temeiul Acordului interimar privind comerțul și aspectele legate de comerț dintre Comunitatea Europeană și Statele Unite Mexicane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1362",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f08fa9d9-f8ad-433e-be18-a05b4e3693d9.0022.04/DOC_1",
+     "sha256": "a5ba0049603169b69a42a726817be12989ef38fe84bcc984e4c22e9b16f094e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-141-2000",
+   "path": "ue/regulament/2000/141",
+   "short": "Regulamentul (CE) nr. 141/2000",
+   "title": "Regulamentul (CE) nr. 141/2000 al Parlamentului European și al Consiliului din 16 decembrie 1999 privind produsele medicamentoase orfane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0141",
+   "versions": [
+    {
+     "from": "2000-01-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/445bbed6-7603-4f78-9c4a-1bae3b60465c.0022.04/DOC_5",
+     "sha256": "47872f0ea8676dcdff447e3db8b9ae3d29c3c08a122e54f1c2530770f41b12f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1474-2000",
+   "path": "ue/regulament/2000/1474",
+   "short": "Regulamentul (CE) nr. 1474/2000",
+   "title": "Regulamentul (CE) nr. 1474/2000 al Comisiei din 10 iulie 2000 de stabilire a valorii componentelor agricole reduse, precum și a taxelor suplimentare aplicabile de la 1 iulie 2000 la importul în Comunitate de anumite mărfuri care intră sub incidența Regulamentului (CE) nr. 3448/93 al Consiliului în cadrul unui acord interimar între Uniunea Europeană și Israel",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1474",
+   "versions": [
+    {
+     "from": "2000-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bd08c8b5-4663-41cf-ae67-3deb4c60bf7a.0022.03/DOC_1",
+     "sha256": "6a161a55f8055bd2e480f4cbf870bfc3b3bfd6c9e99a07697a4b183b6f31d940"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1478-2000",
+   "path": "ue/regulament/2000/1478",
+   "short": "Regulamentul CELEX 32000R1478",
+   "title": "Regulamentul (CE) nr. 1748/2000 al Consiliului din 19 iunie 2000 de modificare a Regulamentului (CE) nr. 2866/98 privind ratele de conversie între euro și monedele statelor membre care adoptă moneda euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1478",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4fdce39-5b25-4f4c-b04b-175eeb2d33db.0013.04/DOC_1",
+     "sha256": "4b91a924af4010a7d73b552fb313789505fe11bf4d6dad5ee84ac64fa6793c99"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1500-2000",
+   "path": "ue/regulament/2000/1500",
+   "short": "Regulamentul (CE) nr. 1500/2000",
+   "title": "Regulamentul (CE) nr. 1500/2000 al Comisiei din 10 iulie 2000 de aplicare a Regulamentului (CE) nr. 2223/96 al Comisiei privind cheltuielile și veniturile administrației publice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1500",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f989dc8b-ad79-4eee-b333-905c6ac4f9eb.0022.03/DOC_10",
+     "sha256": "100a363d8378adffbfc1b102c9e53c29401a330b88d28d218676f5bd3461481b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1508-2000",
+   "path": "ue/regulament/2000/1508",
+   "short": "Regulamentul (CE) nr. 1508/2000",
+   "title": "Regulamentul (CE) nr. 1508/2000 al Comisiei din 11 iulie 2000 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1508",
+   "versions": [
+    {
+     "from": "2000-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13443990-cbd6-4d6a-893e-b878e369598b.0022.04/DOC_2",
+     "sha256": "dbfd162d05e6a1882da730c142fc0a0f0af7f35f8f18d791eca897ed24f1b2f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1509-2000",
+   "path": "ue/regulament/2000/1509",
+   "short": "Regulamentul (CE) nr. 1509/2000",
+   "title": "Regulamentul (CE) nr. 1509/2000 al Comisiei din 12 iulie 2000 de modificare a elementelor caietelor de sarcini pentru mai multe denumiri care figurează în anexa la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1509",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b79baf5f-1a81-49bf-a987-0f484385b52a.0022.03/DOC_3",
+     "sha256": "622dd25eb53778fa1dfc4c221e27417d6f7c2ab9b543850ac594417fdab89a3e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1564-2000",
+   "path": "ue/regulament/2000/1564",
+   "short": "Regulamentul (CE) nr. 1564/2000",
+   "title": "Regulamentul (CE) nr. 1564/2000 al Comisiei din 18 iulie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1564",
+   "versions": [
+    {
+     "from": "2000-08-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fee7a56-6ca2-4362-92b5-69d72e780b72.0022.04/DOC_2",
+     "sha256": "ec57c3ec1dfc7b187268e7f2863fd0297cba78101e05c2d20255443b0ca9f2d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1575-2000",
+   "path": "ue/regulament/2000/1575",
+   "short": "Regulamentul (CE) nr. 1575/2000",
+   "title": "Regulamentul (CE) nr. 1575/2000 al Comisiei din 19 iulie 2000 de aplicare a Regulamentului (CE) nr. 577/98 al Consiliului privind organizarea unei anchete prin sondaj asupra forței de muncă din Comunitate cu privire la codificarea care urmează a fi folosită pentru transmiterea datelor începând cu anul 2001",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1575",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e6baf63-323e-4902-8418-9060c7229c07.0022.03/DOC_1",
+     "sha256": "d45eae68122f37060d8477b54e552049e35f66f782c99c2a0de8a932a6181b37"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1576-2000",
+   "path": "ue/regulament/2000/1576",
+   "short": "Regulamentul (CE) nr. 1576/2000",
+   "title": "Regulamentul (CE) nr. 1576/2000 al Comisiei din 19 iulie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1576",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3a84c75f-0684-4e55-9b27-5eaf0ee44fc1.0022.03/DOC_3",
+     "sha256": "3ef96fc9e74476918b5ee9a7c0a5923180eb0893295b9f6a4255b3d5d3e46724"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1628-2000",
+   "path": "ue/regulament/2000/1628",
+   "short": "Regulamentul (CE) nr. 1628/2000",
+   "title": "Regulamentul (CE) nr. 1628/2000 al Comisiei din 24 iulie 2000 de corectare, pentru a treia oară, a Regulamentului (CE) nr. 1802/95 de modificare a regulamentelor din sectorul laptelui și produselor lactate care au stabilit înainte de 1 februarie 1995 anumite prețuri și sume totale a căror valoare în ECU a fost adaptată ca urmare a eliminării factorului de corecție a cursului de schimb agricol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1628",
+   "versions": [
+    {
+     "from": "2000-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/392dd2c5-cc23-4c41-9925-6610b91d5e26.0022.03/DOC_3",
+     "sha256": "23023abbc1ee2fd5b1ab5e37f77738065fcec844168b2b3efaf763a0ec6f5d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1649-2000",
+   "path": "ue/regulament/2000/1649",
+   "short": "Regulamentul (CE) nr. 1649/2000",
+   "title": "Regulamentul (CE) nr. 1649/2000 al Comisiei din 25 iulie 2000 privind acordarea Republicii Moldova a regimului special de încurajare a protecției drepturilor lucrătorilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1649",
+   "versions": [
+    {
+     "from": "2000-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a09bcd96-e35e-4dde-914d-48b7d76af21e.0022.04/DOC_1",
+     "sha256": "f1cbddf3ebc4a747c1114b3e779cebf2a5f556eb55289ab2583decec21048db3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1651-2000",
+   "path": "ue/regulament/2000/1651",
+   "short": "Regulamentul (CE) nr. 1651/2000",
+   "title": "Regulamentul (CE) nr. 1651/2000 al Comisiei din 26 iulie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1651",
+   "versions": [
+    {
+     "from": "2000-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9de85be7-4ee2-4d54-af6c-36fa3ce6487b.0022.04/DOC_2",
+     "sha256": "32662ddd8ea2952279444845bf6bad0cbc733f10bc7846a0fd8cb433e36e0bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1703-2000",
+   "path": "ue/regulament/2000/1703",
+   "short": "Regulamentul (CE) nr. 1703/2000",
+   "title": "Regulamentul (CE) nr. 1703/2000 al Comisiei din 31 iulie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1703",
+   "versions": [
+    {
+     "from": "2000-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a911014-d5d4-41a3-95bf-8a78a8de36c0.0022.04/DOC_1",
+     "sha256": "9e1ded1e143c298f38342b30ea58423ccfe2669d6f62c4f96c17b74d863b9873"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1747-2000",
+   "path": "ue/regulament/2000/1747",
+   "short": "Regulamentul (CE) nr. 1747/2000",
+   "title": "Regulamentul (CE) nr. 1747/2000 al Consiliului din 7 august 2000 de modificare a Regulamentului (CE) nr. 2793/1999 privind anumite proceduri de punere în aplicare a Acordului pentru comerț, dezvoltare și cooperare între Comunitatea Europeană și Republica Africa de Sud",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1747",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a16afeb-6448-4e1b-b3e5-09f584fb4a67.0022.04/DOC_1",
+     "sha256": "388827b11dc1b1e61d001d34a0290ff78589ed169690fc80504dfee30efcf76d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1760-2000",
+   "path": "ue/regulament/2000/1760",
+   "short": "Regulamentul (CE) nr. 1760/2000",
+   "title": "Regulamentul (CE) nr. 1760/2000 al Consiliului și al Parlamentului European din 17 iulie 2000 de stabilire a unui sistem de identificare și înregistrare a bovinelor și privind etichetarea cărnii de vită și mânzat și a produselor din carne de vită și mânzat și de abrogare a Regulamentului (CE) nr. 820/97 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1760",
+   "versions": [
+    {
+     "from": "2000-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0b254d3-1a9a-46ac-af2b-4243ea07d5ec.0022.03/DOC_3",
+     "sha256": "4171aa84bb83f1768b108d3072566ec7c86fd11e54578d17a2da67a3cfdb53d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1825-2000",
+   "path": "ue/regulament/2000/1825",
+   "short": "Regulamentul (CE) nr. 1825/2000",
+   "title": "Regulamentul (CE) nr. 1825/2000 al Comisiei din 25 august 2000 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1760/2000 al Parlamentului European și al Consiliului privind etichetarea cărnii de vită și mânzat și a produselor din carne de vită și mânzat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1825",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c260aaff-d94d-4cab-8da8-5e640a11bc3d.0022.03/DOC_4",
+     "sha256": "dfea8b716e6c552afcc6a075c4380441706c04ddfc15be0d29500ec15b3a889e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-184-2000",
+   "path": "ue/regulament/2000/184",
+   "short": "Regulamentul (CE) nr. 184/2000",
+   "title": "Regulamentul (CE) nr. 184/2000 al Comisiei din 26 ianuarie 2000 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0184",
+   "versions": [
+    {
+     "from": "2000-02-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8885f120-14ea-411a-8183-07fee68d7f85.0022.04/DOC_1",
+     "sha256": "812cc9e75a0f6c00ab05fa5537576771dfee8962e906706aa1d55f6495e53af0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1896-2000",
+   "path": "ue/regulament/2000/1896",
+   "short": "Regulamentul (CE) nr. 1896/2000",
+   "title": "Regulamentul (CE) nr. 1896/2000 al Comisiei din 7 septembrie 2000 privind prima fază a programului prevăzut la articolul 16 alineatul (2) din Directiva 98/8/CE a Parlamentului European și a Consiliului privind produsele biocideText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1896",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bfaf25d-b526-4924-9298-0aafe9521cd9.0022.03/DOC_1",
+     "sha256": "80374e13f3fa450ff78ac34b911f7970c8a31ccde465abb14e1a1c7d9badddda"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1897-2000",
+   "path": "ue/regulament/2000/1897",
+   "short": "Regulamentul (CE) nr. 1897/2000",
+   "title": "Regulamentul (CE) nr. 1897/2000 al Comisiei din 7 septembrie 2000 de aplicare a Regulamentului (CE) nr. 577/98 al Consiliului privind organizarea unei anchete prin sondaj asupra forței de muncă din Comunitate cu privire la definiția operațională a șomajului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1897",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/601f967e-5ec0-4ee5-b664-f8f978a82a77.0022.03/DOC_1",
+     "sha256": "b6c659f912801ad8ec1c009a2c813a92b835b7ddbec5e040c0dcdbfa1fac5c14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1903-2000",
+   "path": "ue/regulament/2000/1903",
+   "short": "Regulamentul (CE) nr. 1903/2000",
+   "title": "Regulamentul (CE) nr. 1903/2000 al Comisiei din 7 septembrie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1903",
+   "versions": [
+    {
+     "from": "2000-09-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23878e6c-239c-4e3d-97cc-be8b281e2ae7.0022.04/DOC_1",
+     "sha256": "08ee4acda8fcb8cae7670ac2431b3be0cb94d18b59ddc880ac8d410d1167c112"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1904-2000",
+   "path": "ue/regulament/2000/1904",
+   "short": "Regulamentul (CE) nr. 1904/2000",
+   "title": "Regulamentul (CE) nr. 1904/2000 al Comisiei din 7 septembrie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1904",
+   "versions": [
+    {
+     "from": "2000-09-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b016803-d10e-4ed0-b976-cff271354f9b.0022.04/DOC_3",
+     "sha256": "76651e3f933d8100d85b3cdf103a64f7eddb115eba097a9b95d13ec83abafb6d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1916-2000",
+   "path": "ue/regulament/2000/1916",
+   "short": "Regulamentul (CE) nr. 1916/2000",
+   "title": "Regulamentul (CE) nr. 1916/2000 al Comisiei din 8 septembrie 2000 privind aplicarea Regulamentului (CE) nr. 530/1999 al Consiliului privind statisticile structurale referitoare la câștigurile salariale și costul forței de muncă, în ceea ce privește definirea și transmiterea informațiilor despre structura câștigurilor salariale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R1916",
+   "versions": [
+    {
+     "from": "2000-09-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fded2cd0-5970-4493-ae31-5aea62aa6a3c.0022.03/DOC_1",
+     "sha256": "9d9150ba0c5f9d1d4fe9e7c18dd928b255afcb97d88d31005fc8da19cb763ede"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2032-2000",
+   "path": "ue/regulament/2000/2032",
+   "short": "Regulamentul (CE) nr. 2032/2000",
+   "title": "Regulamentul (CE) nr. 2032/2000 al Comisiei din 27 septembrie 2000 privind nomenclatorul țărilor și teritoriilor pentru statisticile de comerț exterior ale Comunității și statisticile comerțului dintre statele membreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2032",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fa09328-4191-4c41-ab0d-366a795fea11.0022.04/DOC_1",
+     "sha256": "fb082fc3ebd97db2b9930442bcc20f945a69a70c0beecbba8176db21bf0704eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2266-2000",
+   "path": "ue/regulament/2000/2266",
+   "short": "Regulamentul (CE) nr. 2266/2000",
+   "title": "Regulamentul (CE) nr. 2266/2000 al Comisiei din 12 octombrie 2000 de modificare a Regulamentului (CEE) nr. 3600/92 de stabilire a normelor de punere în aplicare a primei etape a programului de lucru prevăzut la articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului privind introducerea pe piață a produselor fitosanitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2266",
+   "versions": [
+    {
+     "from": "2000-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad198ec7-cbe1-49e3-a361-359fcefb81f1.0022.03/DOC_1",
+     "sha256": "01bcb6084b3341b03070fc6c06f788ba3ada259fff1514681a4d5140beb5e5f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2354-2000",
+   "path": "ue/regulament/2000/2354",
+   "short": "Regulamentul (CE) nr. 2354/2000",
+   "title": "Regulamentul (CE) nr. 2354/2000 al Comisiei din 24 octombrie 2000 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2354",
+   "versions": [
+    {
+     "from": "2000-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d5e5b32-236f-403e-98cc-d4c2916858fe.0022.04/DOC_1",
+     "sha256": "17c40ceac2ba935ed5cebb24152f45905f53d3cd0b4a4389901b9946117bb6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2364-2000",
+   "path": "ue/regulament/2000/2364",
+   "short": "Regulamentul (CE) nr. 2364/2000",
+   "title": "Regulamentul (CE) nr. 2364/2000 al Comisiei din 25 octombrie 2000 privind a patra listă de substanțe prioritare în conformitate cu Regulamentul (CEE) nr. 793/93 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2364",
+   "versions": [
+    {
+     "from": "2000-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c3da658-fc25-42a4-8875-2beac651cfe7.0022.04/DOC_2",
+     "sha256": "3e0b0e3b962af91b975b09b9ff33a3637f70d847b2de280b061119c0e8c5893b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2437-2000",
+   "path": "ue/regulament/2000/2437",
+   "short": "Regulamentul (CE) nr. 2437/2000",
+   "title": "Regulamentul (CE) nr. 2437/2000 al Comisiei din 3 noiembrie 2000 privind autorizarea permanentă a unui aditiv și autorizarea provizorie de noi aditivi în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2437",
+   "versions": [
+    {
+     "from": "2000-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8ae5c271-2b73-4e3d-908c-6451a1931fba.0022.03/DOC_14",
+     "sha256": "7ba1ba41d00c3332252cc54360f2ccc8c2723bfeca733b4aec225c0d899ac625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2446-2000",
+   "path": "ue/regulament/2000/2446",
+   "short": "Regulamentul (CE) nr. 2446/2000",
+   "title": "Regulamentul (CE) nr. 2446/2000 al Comisiei din 6 noiembrie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2446",
+   "versions": [
+    {
+     "from": "2000-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34e208c5-edf5-434d-a5ea-4612db9faf8b.0022.04/DOC_3",
+     "sha256": "6208cf0323bbaa3e1a1462a5335e97a2ca78e1a88bae989d78a9a1354a04b79e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2448-2000",
+   "path": "ue/regulament/2000/2448",
+   "short": "Regulamentul (CE) nr. 2448/2000",
+   "title": "Regulamentul (CE) nr. 2448/2000 al Consiliului din 7 noiembrie 2000 privind deschiderea și modul de gestionare a unui contingent tarifar comunitar autonom pentru anumite produse pescărești",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2448",
+   "versions": [
+    {
+     "from": "2000-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77d6eca4-9cec-4d8e-a87e-1fa962c2fd32.0022.04/DOC_1",
+     "sha256": "55d3a7e7e3e145640ad2187499e1da36d968f12fbdd7cb9b6cf7296f8630e8bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2474-2000",
+   "path": "ue/regulament/2000/2474",
+   "short": "Regulamentul (CE) nr. 2474/2000",
+   "title": "Regulamentul (CE) nr. 2474/2000 al Consiliului din 9 noiembrie 2000 de stabilire, în temeiul articolului 1 alineatul (7) din Regulamentul (CEE) nr. 3030/93, a listei produselor textile și confecțiilor ce urmează a fi integrate la 1 ianuarie 2002 în Acordul General pentru Tarife și Comerț din 1994 și de modificare a anexei X la Regulamentul (CEE) nr. 3030/93 și a anexei II la Regulamentul (CE) nr. 3285/94",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2474",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/031e8139-86c2-40a5-8861-4ab3a107aa7c.0022.04/DOC_1",
+     "sha256": "ed015f6830ce802b283366d36274d28ed0f558eb12704c7c58c8d3446a6a2114"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2516-2000",
+   "path": "ue/regulament/2000/2516",
+   "short": "Regulamentul (CE) nr. 2516/2000",
+   "title": "Regulamentul (CE) nr. 2516/2000 al Parlamentului European și al Consiliului din 7 noiembrie 2000 de modificare a Regulamentului (CE) nr. 2223/96 al Consiliului și de modificare a principiilor comune ale sistemului European de conturi naționale și regionale din cadrul Comunității (SEC) 95 în ceea ce privește impozitele și contribuțiile sociale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2516",
+   "versions": [
+    {
+     "from": "2000-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ed976ae-59ba-40a7-8ee8-fb00e0659b30.0022.03/DOC_4",
+     "sha256": "ee7d7774d63d2939d3ef74c2f0fec1588a4f33a3319eba6fb8bd705f2111ad1e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-254-2000",
+   "path": "ue/regulament/2000/254",
+   "short": "Regulamentul (CE) nr. 254/2000",
+   "title": "Regulamentul (CE) nr. 254/2000 al Consiliului din 31 ianuarie 2000 de modificare a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0254",
+   "versions": [
+    {
+     "from": "2000-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a65e8c47-9851-44d8-b7e6-140f2a066092.0022.04/DOC_1",
+     "sha256": "864333b681fb4af45a49610f336934b113e27ab8c36bcc13195645cd9ed2d3d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2548-2000",
+   "path": "ue/regulament/2000/2548",
+   "short": "Regulamentul (CE) nr. 2548/2000",
+   "title": "Regulamentul (CE) nr. 2548/2000 al Băncii Centrale Europene din 2 noiembrie 2000 privind dispozițiile tranzitorii pentru aplicarea rezervelor minime obligatorii de către Banca Centrală Europeană în urma introducerii monedei euro în Grecia (BCE/2000/11)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2548",
+   "versions": [
+    {
+     "from": "2000-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63966853-e78b-426f-aa61-00de5c66e12f.0022.04/DOC_10",
+     "sha256": "af14cd93c21c50e8346167f9c80391687d0544455f04aac7d3a7fd197fe11b1e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2578-2000",
+   "path": "ue/regulament/2000/2578",
+   "short": "Regulamentul (CE) nr. 2578/2000",
+   "title": "Regulamentul (CE) nr. 2578/2000 al Consiliului din 17 noiembrie 2000 de modificare a Regulamentului (CE) nr. 2406/96 privind stabilirea standardelor comune de comercializare pentru anumite produse pescărești",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2578",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26de2c63-22d2-4fec-9b6f-992c4516eb7a.0022.04/DOC_1",
+     "sha256": "0f62f5a27e52ff44d97fd1177b375586119e44c472f3956c273ab7521375bc5f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2595-2000",
+   "path": "ue/regulament/2000/2595",
+   "short": "Regulamentul (CE) nr. 2595/2000",
+   "title": "Regulamentul (CE) nr. 2595/2000 al Consiliului din 27 noiembrie 2000 de modificare a Regulamentului (CE) nr. 1103/97 privind anumite dispoziții referitoare la introducerea monedei euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2595",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4791ab56-b2c0-4d96-a747-3f2fc2dfa465.0022.03/DOC_4",
+     "sha256": "f39b1492b155d43f24a0e35fc69c067bf36fa1be788f83122a3d050549dc8b3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2630-2000",
+   "path": "ue/regulament/2000/2630",
+   "short": "Regulamentul (CE) nr. 2630/2000",
+   "title": "Regulamentul (CE) nr. 2630/2000 al Comisiei din 30 noiembrie 2000 de modificare a Regulamentului (CE) nr. 1420/1999 al Consiliului de stabilire a normelor și procedurilor comune care trebuie aplicate transporturilor de anumite tipuri de deșeuri din Comunitatea Europeană către Bahrain, Haiti, Honduras, Libia, Namibia, Qatar, Uzbekistan și VaticanText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2630",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68c6f671-9661-473b-b557-6af7c2f658ba.0022.03/DOC_1",
+     "sha256": "6222c98105f98c37d0bad56c6dd9b8225a8b80c3ee431856831cfa68bde01387"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2703-2000",
+   "path": "ue/regulament/2000/2703",
+   "short": "Regulamentul (CE) nr. 2703/2000",
+   "title": "Regulamentul (CE) nr. 2703/2000 al Comisiei din 11 decembrie 2000 de modificare a unor elemente din caietele de sarcini referitoare la mai multe denumiri care figurează în anexa la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine protejate în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2703",
+   "versions": [
+    {
+     "from": "2000-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d450c6a7-85bd-4310-aae4-125c038d095b.0022.03/DOC_14",
+     "sha256": "bf05ed6dfb0632e15ef968cf2267e83633130086a85ab1c0c457cb5bee633fa5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2803-2000",
+   "path": "ue/regulament/2000/2803",
+   "short": "Regulamentul (CE) nr. 2803/2000",
+   "title": "Regulamentul (CE) nr. 2803/2000 al Consiliului din 14 decembrie 2000 privind deschiderea și modul de gestionare a unor contingente tarifare comunitare autonome pentru anumite produse pescărești",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2803",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbe12365-ecb4-476c-9e2e-feb452355904.0022.04/DOC_1",
+     "sha256": "33ac0f039de4e998358e747fcb31a262bf229f5c6d0ee295468b8435074e2f97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2855-2000",
+   "path": "ue/regulament/2000/2855",
+   "short": "Regulamentul (CE) nr. 2855/2000",
+   "title": "Regulamentul (CE) nr. 2855/2000 al Comisiei din 27 decembrie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2855",
+   "versions": [
+    {
+     "from": "2001-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e9d1cb8-adca-42fd-8ddc-836112a79fc1.0022.04/DOC_2",
+     "sha256": "8dc08a508913f758ceb174d036fb9e51ef969abfa6631f3c16b295ab9552e6df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2870-2000",
+   "path": "ue/regulament/2000/2870",
+   "short": "Regulamentul (CE) nr. 2870/2000",
+   "title": "Regulamentul (CE) nr. 2870/2000 al Comisiei din 19 decembrie 2000 de stabilire a metodelor comunitare de referință pentru analiza băuturilor spirtoase",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R2870",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b858d9a9-7fd3-4b3b-9cdf-31f1e2e499f0.0022.03/DOC_28",
+     "sha256": "66d0623295918a7ac88e6558fb0cb460882f6ed1225c8d31bd66bc750667eea5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-289-2000",
+   "path": "ue/regulament/2000/289",
+   "short": "Regulamentul (CE) nr. 289/2000",
+   "title": "Regulamentul (CE) nr. 289/2000 al Comisiei din 3 februarie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0289",
+   "versions": [
+    {
+     "from": "2000-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f39213c-5cc9-474c-8bed-fd801b55e465.0022.04/DOC_2",
+     "sha256": "260232b4105ee537dc4452cb906800e549ef436c251a9fce667cdc3dbf0e665d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-32-2000",
+   "path": "ue/regulament/2000/32",
+   "short": "Regulamentul (CE) nr. 32/2000",
+   "title": "Regulamentul (CE) nr. 32/2000 al Consiliului din 17 decembrie 1999 privind deschiderea și modul de administrare a contingentelor tarifare comunitare consolidate în cadrul GATT și a altor câteva contingente tarifare comunitare, de stabilire a normelor de modificare sau de adaptare a contingentelor menționate și de abrogare a Regulamentului (CE) nr. 1808/95",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0032",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51392b3a-797f-4ba3-bfef-5df846828c53.0022.04/DOC_3",
+     "sha256": "029e58520861f58f2d2d3ff57186ddefab2f359ed33cc258ca9293a2f1a17cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-323-2000",
+   "path": "ue/regulament/2000/323",
+   "short": "Regulamentul (CE) nr. 323/2000",
+   "title": "Regulamentul (CE) nr. 323/2000 al Comisiei din 11 februarie 2000 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0323",
+   "versions": [
+    {
+     "from": "2000-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e4a006c-fb76-4dd8-9aab-94eebbeee896.0022.04/DOC_1",
+     "sha256": "286805e8f6ce1f8387bb3bf0a0537ff233db2be0095bfab51088eb4e952f7f44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-329-2000",
+   "path": "ue/regulament/2000/329",
+   "short": "Regulamentul (CE) nr. 329/2000",
+   "title": "Regulamentul (CE) nr. 329/2000 al Comisiei din 11 februarie 2000 de modificare a Regulamentului (CE) nr. 1238/95 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2100/94 al Consiliului în ceea ce privește taxele datorate Oficiului Comunitar pentru Varietăți Vegetale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0329",
+   "versions": [
+    {
+     "from": "2000-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb6bec83-0813-442d-8460-1177547a121f.0022.03/DOC_1",
+     "sha256": "60984a98f4282d7b6c09dd874271606bcec63a4d9875a5591928bebea2cfaca6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-341-2000",
+   "path": "ue/regulament/2000/341",
+   "short": "Regulamentul (CE) nr. 341/2000",
+   "title": "Regulamentul (CE) nr. 341/2000 al Comisiei din 15 februarie 2000 de fixare a cursului de schimb aplicabil anumitor ajutoare directe și măsuri de natură structurală și ecologică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0341",
+   "versions": [
+    {
+     "from": "2000-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec28ce0b-aa25-4d3e-af92-2b22a2a4be29.0022.04/DOC_13",
+     "sha256": "981de5c94e9d560019ec501ecde07c2f0ad7ac20644dd38175fd99e8e30eead7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-442-2000",
+   "path": "ue/regulament/2000/442",
+   "short": "Regulamentul (CE) nr. 442/2000",
+   "title": "Regulamentul (CE) nr. 442/2000 al Comisiei din 25 februarie 2000 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0442",
+   "versions": [
+    {
+     "from": "2000-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2695a133-eb34-4417-aaac-a007aa21f7ba.0022.04/DOC_2",
+     "sha256": "2a7192a4ba8ee18bd1abeb8ef8b148817302a2136d96e6da9ead733c2779fe05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-451-2000",
+   "path": "ue/regulament/2000/451",
+   "short": "Regulamentul (CE) nr. 451/2000",
+   "title": "Regulamentul (CE) nr. 451/2000 al Comisiei din 28 februarie 2000 de stabilire a normelor de aplicare a fazelor a doua și a treia din programul de lucru, în conformitate cu articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0451",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09e71059-f83a-4cb3-9aee-b6ec513593ca.0022.04/DOC_13",
+     "sha256": "f49f2da6b31bcda6895d560e9f682f87482926a9ceba7f6bb58b345a117bd3db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-547-2000",
+   "path": "ue/regulament/2000/547",
+   "short": "Regulamentul (CE) nr. 547/2000",
+   "title": "Regulamentul (CE) nr. 547/2000 al Comisiei din 14 martie 2000 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0547",
+   "versions": [
+    {
+     "from": "2000-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8716468-0703-48fe-9cfc-dd09a1d44c26.0022.04/DOC_2",
+     "sha256": "16ef5860a66171b0149b2769a54825fec5e349c16de4415a564161468f72e405"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-593-2000",
+   "path": "ue/regulament/2000/593",
+   "short": "Regulamentul (CE) nr. 593/2000",
+   "title": "Regulamentul (CE) nr. 593/2000 al Comisiei din 13 martie 2000 de suspendare a aplicării Regulamentului (CE) nr. 2006/97 al Consiliului de stabilire a anumitor norme de aplicare a dispozițiilor speciale privind importurile de ulei de măsline provenind din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0593",
+   "versions": [
+    {
+     "from": "2000-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a56da346-8d1e-40ec-a9bd-1f7cc37b465b.0022.03/DOC_2",
+     "sha256": "f268f135999aa0384db1267a550be174087e041190518eb35ca9d56dab3fde24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-643-2000",
+   "path": "ue/regulament/2000/643",
+   "short": "Regulamentul (CE) nr. 643/2000",
+   "title": "Regulamentul (CE) nr. 643/2000 al Comisiei din 28 martie 2000 privind modalitățile de utilizare a monedei euro în execuția bugetară a Fondurilor Structurale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0643",
+   "versions": [
+    {
+     "from": "2000-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ddc2ccfa-9b9a-4b63-b0b8-987ecefe3640.0022.04/DOC_1",
+     "sha256": "d5a1825987dd860f6c99db44d67381e4d18e1ba2db549c354f04d5bbd497f569"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-645-2000",
+   "path": "ue/regulament/2000/645",
+   "short": "Regulamentul (CE) nr. 645/2000",
+   "title": "Regulamentul (CE) nr. 645/2000 al Comisiei din 28 martie 2000 de stabilire a normelor de aplicare necesare pentru buna funcționare a anumitor dispoziții ale articolului 7 din Directiva 86/362/CEE și articolului 4 din Directiva 90/642/CEE de stabilire a conținuturilor maxime de reziduuri de pesticide din și de pe cereale și anumite produse de origine vegetală, inclusiv fructe și legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0645",
+   "versions": [
+    {
+     "from": "2000-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2392b777-9630-4f1e-ac24-d8331296f456.0022.03/DOC_1",
+     "sha256": "3a7a89710f52929f109ee66f8f7c88795d00e376113dd4f8042e20eb80057b76"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-654-2000",
+   "path": "ue/regulament/2000/654",
+   "short": "Regulamentul (CE) nr. 654/2000",
+   "title": "Regulamentul (CE) nr. 654/2000 al Comisiei din 29 martie 2000 privind autorizarea de noi aditivi, de noi utilizări a unor aditivi și de noi preparate de aditivi în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0654",
+   "versions": [
+    {
+     "from": "2000-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2141ce6e-1892-4732-abd2-8fd111f2d0e8.0022.03/DOC_2",
+     "sha256": "48754918ddbc44a9dd13a0f214648756c04626a74cbca1a172f56bc549cbe027"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-709-2000",
+   "path": "ue/regulament/2000/709",
+   "short": "Regulamentul (CE) nr. 709/2000",
+   "title": "Regulamentul (CE) nr. 709/2000 al Comisiei din 4 aprilie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0709",
+   "versions": [
+    {
+     "from": "2000-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9daa242-99f3-4d59-8a76-c1ea4b908ea9.0022.04/DOC_5",
+     "sha256": "390dabb9ae866baa8f23ec91bc1a97414520f4ebccc71e4005dee8328c99d271"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-710-2000",
+   "path": "ue/regulament/2000/710",
+   "short": "Regulamentul (CE) nr. 710/2000",
+   "title": "Regulamentul (CE) nr. 710/2000 al Comisiei din 3 aprilie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0710",
+   "versions": [
+    {
+     "from": "2000-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/818762a8-8e98-48c4-95b9-0a50cc09749f.0022.04/DOC_1",
+     "sha256": "529d2bc5fc61655d0988693f2146aaf0b90fe07bed9673d480b8b317d5023777"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-738-2000",
+   "path": "ue/regulament/2000/738",
+   "short": "Regulamentul (CE) nr. 738/2000",
+   "title": "Regulamentul (CE) nr. 738/2000 al Comisiei din 7 aprilie 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0738",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e05ff67-7c03-4253-b41d-ba622812f9e4.0022.04/DOC_1",
+     "sha256": "b18fe979528702b24b903c7408194c2d614191c0f4073b79de887dc2af354ca1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-764-2000",
+   "path": "ue/regulament/2000/764",
+   "short": "Regulamentul (CE) nr. 764/2000",
+   "title": "Regulamentul (CE) nr. 764/2000 al Consiliului din 10 aprilie 2000 privind punerea în aplicare a unor măsuri de aprofundare a uniunii vamale CE-Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0764",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/69d975f5-dc60-4973-bb9e-3aac35ef4560.0022.04/DOC_1",
+     "sha256": "124690191f5de6e3a3e063eacd22648d65bee543cb465ed916835103204b7387"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-813-2000",
+   "path": "ue/regulament/2000/813",
+   "short": "Regulamentul (CE) nr. 813/2000",
+   "title": "Regulamentul (CE) nr. 813/2000 al Consiliului din 17 aprilie 2000 de completare a anexei la Regulamentul (CE) nr. 1107/96 al Comisiei privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0813",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0cb62e7-8ffc-450d-a540-dc6d5a081268.0022.04/DOC_2",
+     "sha256": "6871e5b04a6b8effe07a8ac89d1e7e15afe18f71bee1b6d23404b9d29d681099"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-847-2000",
+   "path": "ue/regulament/2000/847",
+   "short": "Regulamentul (CE) nr. 847/2000",
+   "title": "Regulamentul (CE) nr. 847/2000 al Comisiei din 27 aprilie 2000 de stabilire a dispozițiilor de aplicare a criteriilor pentru desemnarea unui produs medicamentos ca produs medicamentos orfan și a definițiilor termenilor „produs medicamentos similar” și „superioritate clinică”",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0847",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f34e7b0-9c3c-4dab-9ba1-e088192a54c8.0022.03/DOC_2",
+     "sha256": "2a237aed5271e983f9eab661320879a91e1d5b52c295f3cb3e6a2fb72b4b0ec3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-961-2000",
+   "path": "ue/regulament/2000/961",
+   "short": "Regulamentul (CE) nr. 961/2000",
+   "title": "Regulamentul (CE) nr. 961/2000 al Comisiei din 5 mai 2000 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000R0961",
+   "versions": [
+    {
+     "from": "2000-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e9c9164-39b1-409a-b5b5-bc0bbe349907.0022.04/DOC_9",
+     "sha256": "19c43ba45e2b170b39681e9f1177817bb660050d2192e08ad2f0bf40a82c00c8"
+    }
+   ]
   }
  ]
 }

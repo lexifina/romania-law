@@ -361,6 +361,951 @@
      "sha256": "cbb366fbbad55336bd5f525a197351e6fce6538e723c1e2a9b2e1c11492f3bae"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1070-1999",
+   "path": "ue/regulament/1999/1070",
+   "short": "Regulamentul (CE) nr. 1070/1999",
+   "title": "Regulamentul (CE) nr. 1070/1999 al Comisiei din 25 mai 1999 de modificare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1070",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3863ace-abb3-4339-bae8-47f90929b6f8.0022.03/DOC_3",
+     "sha256": "e1dd18be047cb1e7cdf37dad0d9c73275f0ed7e825f191711f70729a958d1b54"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1084-1999",
+   "path": "ue/regulament/1999/1084",
+   "short": "Regulamentul (CE) nr. 1084/1999",
+   "title": "Regulamentul (CE) nr. 1084/1999 al Comisiei din 26 mai 1999 de stabilire a listei autorităților competente menționate la articolul 2 din Regulamentul (CE) nr. 900/1999 al Consiliului privind interzicerea vânzării și furnizării de petrol și produse petroliere către Republica Federală Iugoslavia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1084",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5cfcf5f-2ee7-4290-b5c4-cbafd5985ad4.0022.03/DOC_1",
+     "sha256": "8a7a0735dde1e124ed363b5243e7686d0c8a749f4194ee915061f122e367307b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1110-1999",
+   "path": "ue/regulament/1999/1110",
+   "short": "Regulamentul (CE) nr. 1110/1999",
+   "title": "Regulamentul (CE) nr. 1110/1999 al Consiliului din 10 mai 1999 privind admiterea cu scutire de drepturi a anumitor principii active care fac obiectul unei „denumiri comune internaționale” (DCI) a Organizației Mondiale a Sănătății și a anumitor produse utilizate la fabricarea de produse farmaceutice finite",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1110",
+   "versions": [
+    {
+     "from": "1999-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/968de12f-8535-443d-94f0-c701d285178e.0022.04/DOC_1",
+     "sha256": "28647dcba5baf5af7a559b83f1cd3091c36a8aaec7f195f8daab448c4f8a9ea4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1215-1999",
+   "path": "ue/regulament/1999/1215",
+   "short": "Regulamentul (CE) nr. 1215/1999",
+   "title": "Regulamentul (CE) nr. 1215/1999 al Consiliului din 10 iunie 1999 de modificare a Regulamentului nr. 19/65/CEE privind aplicarea articolului 81 alineatul (3) din tratat anumitor categorii de acorduri și practici concertate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1215",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbf7eeac-cb79-4f3c-a025-ad5b898e1472.0022.03/DOC_1",
+     "sha256": "17ae1be7d57c6f16b018a66a7b2f3baecf6417722e823be15b37588f8bbc5f8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1218-1999",
+   "path": "ue/regulament/1999/1218",
+   "short": "Regulamentul (CE) nr. 1218/1999",
+   "title": "Regulamentul (CE) nr. 1218/1999 al Comisiei din 14 iunie 1999 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1218",
+   "versions": [
+    {
+     "from": "1999-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b88c5cf2-d885-4652-9d1c-44fa69ec660f.0022.04/DOC_4",
+     "sha256": "31e0b3b360578d7c3ce85d57e56a9d54fc8b9176d9d5bd973542d4dcea53f210"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1225-1999",
+   "path": "ue/regulament/1999/1225",
+   "short": "Regulamentul (CE) nr. 1225/1999",
+   "title": "Regulamentul (CE) nr. 1225/1999 al comisiei din 27 mai 1999 privind definițiile caracteristicilor statisticii serviciilor de asigurare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1225",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ed777d1-f8af-4a7c-bb54-b6b9cd950f84.0022.04/DOC_2",
+     "sha256": "a152af84bdc1f0c6954929c1da6b6625f7ec86e683bff9e2cc1dc7aa0c0a61a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1226-1999",
+   "path": "ue/regulament/1999/1226",
+   "short": "Regulamentul (CE) nr. 1226/1999",
+   "title": "Regulamentul (CE) nr. 1226/1999 al Comisiei din 28 mai 1999 privind derogările care trebuie acordate pentru statistica serviciilor de asigurare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1226",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0bd631ce-a1a8-4c63-92c6-12aabbafe990.0022.04/DOC_2",
+     "sha256": "21d700dadf887d5a1e67abd82683d7caa7cc93fe108199ad65f68703144a63cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1227-1999",
+   "path": "ue/regulament/1999/1227",
+   "short": "Regulamentul (CE) nr. 1227/1999",
+   "title": "Regulamentul (CE) nr. 1227/1999 al Comisiei din 28 mai 1999 privind formatul tehnic de transmitere a statisticilor serviciilor de asigurare (Text cu relevanță SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1227",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ede46171-1280-479c-84b5-6df625649a94.0022.04/DOC_2",
+     "sha256": "0ec420440d138defd9563c43fe8663c4a53237bc7218a2ab62969fff556e90cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1228-1999",
+   "path": "ue/regulament/1999/1228",
+   "short": "Regulamentul (CE) nr. 1228/1999",
+   "title": "Regulamentul (CE) nr. 1228/1999 al Comisiei din 28 mai 1999 privind seriile de date care trebuie furnizate pentru statistica serviciilor de asigurare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1228",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8886262-d07a-4822-9af4-52b8fb0a5b56.0022.04/DOC_2",
+     "sha256": "60542072477938f940518cc6cf4378f221347f03c8cc16a0915799cea1307c0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1245-1999",
+   "path": "ue/regulament/1999/1245",
+   "short": "Regulamentul (CE) nr. 1245/1999",
+   "title": "Regulamentul (CE) nr. 1245/1999 al Comisiei din 16 iunie 1999 privind autorizarea de noi aditivi în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1245",
+   "versions": [
+    {
+     "from": "1999-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6528c978-f7e2-4495-93dd-783ce70ab0a4.0022.03/DOC_5",
+     "sha256": "b8c764e8c07c6ed34df6cd292db3652210f1e2fd73e48f7c6cbe092c572c8ed7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1324-1999",
+   "path": "ue/regulament/1999/1324",
+   "short": "Regulamentul (CE) nr. 1324/1999",
+   "title": "Regulamentul (CE) nr. 1324/1999 al Comisiei din 23 iunie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1324",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3fd65987-fb69-4526-b966-8f764ca08218.0022.04/DOC_2",
+     "sha256": "849cd8d81d3e5dd959d5e5df6dcccd22bfee4bebdf5714afbf7dea68d0725ac8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1399-1999",
+   "path": "ue/regulament/1999/1399",
+   "short": "Regulamentul (CE) nr. 1399/1999",
+   "title": "Regulamentul (CE) nr. 1399/1999 al Consiliului din 29 aprilie 1999 de modificare a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii care desfășoară activități independente și cu familiile acestora care se deplasează în cadrul Comunității, precum și a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1399",
+   "versions": [
+    {
+     "from": "1999-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ed37dc7-a3ce-447f-9ab1-e1bc4937e38d.0022.03/DOC_1",
+     "sha256": "afb4660f4326543b5203b50d92ed75f18e826633d558a1d58cab1f039edfd36e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1411-1999",
+   "path": "ue/regulament/1999/1411",
+   "short": "Regulamentul (CE) nr. 1411/1999",
+   "title": "Regulamentul (CE) nr. 1411/1999 al Comisiei din 29 iunie 1999 privind autorizarea noilor aditivi și a noilor utilizări ale aditivilor în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1411",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac0606bb-7079-47b2-97ba-64848aa5a23a.0022.03/DOC_5",
+     "sha256": "39a20df2c8e4af0d4de6c661fbe375796b68f88b4c0b904da94a2ebc6e9fb359"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1420-1999",
+   "path": "ue/regulament/1999/1420",
+   "short": "Regulamentul (CE) nr. 1420/1999",
+   "title": "Regulamentul (CE) nr. 1420/1999 al Consiliului din 29 aprilie 1999 de stabilire a normelor și procedurilor comune care trebuie aplicate transporturilor de anumite tipuri de deșeuri către anumite țări nemembre ale OCDE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1420",
+   "versions": [
+    {
+     "from": "1999-09-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df4004f7-f4dd-432d-a748-337d4d0d16d2.0022.04/DOC_1",
+     "sha256": "4b3e1ea57bbb658525eb7c90acdfdacb41dd40e116cd874c3e89dcc430b69305"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1451-1999",
+   "path": "ue/regulament/1999/1451",
+   "short": "Regulamentul (CE) nr. 1451/1999",
+   "title": "Regulamentul (CE) nr. 1451/1999 al Comisiei din 1 iulie 1999 de modificare a Regulamentului (CE) nr. 1209/98 privind vânzarea la prețuri fixate forfetar a cărnii de vită deținute de Regatul Unit pentru forțele armate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1451",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/048a5413-2d23-4397-aa6e-2ca6e01e8ef3.0022.03/DOC_2",
+     "sha256": "7375816f4b6d2113bd3f6f9c67729c53159e65cff3660bc2d10418c292e91682"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1488-1999",
+   "path": "ue/regulament/1999/1488",
+   "short": "Regulamentul (CE) nr. 1488/1999",
+   "title": "Regulamentul (CE) nr. 1488/1999 al Comisiei din 7 iulie 1999 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1488",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f077a017-257d-4ba9-8cec-ea350a40ed5f.0022.04/DOC_2",
+     "sha256": "a110a72c436479d651d649a772723cb85eb94063132bcfb970eb0aeb388eaa04"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1594-1999",
+   "path": "ue/regulament/1999/1594",
+   "short": "Regulamentul (CE) nr. 1594/1999",
+   "title": "Regulamentul (CE) nr. 1594/1999 al Comisiei din 20 iulie 1999 privind modificarea condițiilor de autorizare a unui aditiv în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1594",
+   "versions": [
+    {
+     "from": "1999-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b27da97-9f30-4221-ad60-cfaaea798977.0022.03/DOC_5",
+     "sha256": "1c15a01e5f5b43b294c454dedd3fab729f6ca26759b7df63bf6b71a8191a43bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1609-1999",
+   "path": "ue/regulament/1999/1609",
+   "short": "Regulamentul (CE) nr. 1609/1999",
+   "title": "Regulamentul (CE) nr. 1609/1999 al Comisiei din 22 iulie 1999 de stabilire a normelor detaliate de punere în aplicare a Regulamentului (CE) nr. 856/1999 al Consiliului de stabilire a unui cadru special de asistență pentru furnizorii ACP tradiționali de banane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1609",
+   "versions": [
+    {
+     "from": "1999-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c39f2f0d-9414-46b7-ace5-1043353a9ebd.0022.03/DOC_5",
+     "sha256": "df2f4dde0bcfae5c6b78cd47e60f82c4c2e37b758ace176451fb95988c80c2ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1618-1999",
+   "path": "ue/regulament/1999/1618",
+   "short": "Regulamentul (CE) nr. 1618/1999",
+   "title": "Regulamentul (CE) nr. 1618/1999 al Comisiei din 23 iulie 1999 privind criteriile de evaluare a calității statisticilor structurale de întreprindereText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1618",
+   "versions": [
+    {
+     "from": "1999-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b0bf0e46-b9e3-4e77-8676-98d565b5e21f.0022.04/DOC_4",
+     "sha256": "34b06976edc4e92c95b96c784dd614a41ffa49ffc8e55646a662eba15fded998"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1636-1999",
+   "path": "ue/regulament/1999/1636",
+   "short": "Regulamentul (CE) nr. 1636/1999",
+   "title": "Regulamentul (CE) nr. 1636/1999 al Comisiei din 26 iulie 1999 privind autorizarea unor noi aditivi și a unor noi utilizări ale aditivilor în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1636",
+   "versions": [
+    {
+     "from": "1999-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04d79881-9206-4e6e-86d0-cd6d0f445e96.0022.03/DOC_6",
+     "sha256": "1afb1474edb27236a708c77e32a90203970211bf73c642dd3e23861b28a7e25d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1645-1999",
+   "path": "ue/regulament/1999/1645",
+   "short": "Regulamentul (CE) nr. 1645/1999",
+   "title": "Regulamentul (CE) nr. 1645/1999 al Comisiei din 27 iulie 1999 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1645",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52bcf19b-625e-4f53-b23e-f01152e5276e.0022.04/DOC_8",
+     "sha256": "a854fb53199161d6cf182cadd77537802090f3f5adfb36096115f2a465d65331"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-169-1999",
+   "path": "ue/regulament/1999/169",
+   "short": "Regulamentul (CE) nr. 169/1999",
+   "title": "Regulamentul (CE) nr. 169/1999 al Comisiei din 25 ianuarie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0169",
+   "versions": [
+    {
+     "from": "1999-02-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64d9a526-3edf-43f2-9eb3-60a71025e238.0022.04/DOC_1",
+     "sha256": "63dda1073cf684f3cb0c61cc13087cc965c04ec8d5f28c7232ec2156ecd1be84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1726-1999",
+   "path": "ue/regulament/1999/1726",
+   "short": "Regulamentul (CE) nr. 1726/1999",
+   "title": "Regulamentul (CE) nr. 1726/1999 al Comisiei din 27 iulie 1999 privind aplicarea Regulamentului (CE) nr. 530/1999 al Consiliului referitor la statisticile structurale ale câștigurilor salariale și ale costului forței de muncă, în ceea ce privește definirea și transmiterea informațiilor referitoare la costul forței de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1726",
+   "versions": [
+    {
+     "from": "1999-08-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f5596fb0-80dc-47eb-b7bf-ca767acb35e7.0022.03/DOC_1",
+     "sha256": "f8e442aae2eab52bf11744b5ce68fe4f968aba01e2268544de145ef6ba7f6009"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1836-1999",
+   "path": "ue/regulament/1999/1836",
+   "short": "Regulamentul (CE) nr. 1836/1999",
+   "title": "Regulamentul (CE) nr. 1836/1999 al Comisiei din 24 august 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1836",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e04d334-5ea9-4478-be72-c2d708ddc733.0022.04/DOC_1",
+     "sha256": "0a7239f2ff9d1c0d597cec3677364c5a640a82e1ebde358386fb7a6685ba2bf1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1922-1999",
+   "path": "ue/regulament/1999/1922",
+   "short": "Regulamentul (CE) nr. 1922/1999",
+   "title": "Regulamentul (CE) nr. 1922/1999 al Comisiei din 8 septembrie 1999 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 850/98 al Consiliului în ceea ce privește condițiile în care vapoarele a căror lungime totală depășește opt metri pot fi autorizate să utilizeze traule cu palan în unele ape comunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1922",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98e84a85-0019-4e1a-a7bd-13a3cd2b0450.0022.04/DOC_1",
+     "sha256": "66ccdfc53d05ce84d6f032962ca314bd38ccc3b5cd2ebc9ed73d605ac565ca46"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1972-1999",
+   "path": "ue/regulament/1999/1972",
+   "short": "Regulamentul (CE) nr. 1972/1999",
+   "title": "Regulamentul (CE) nr. 1972/1999 al Comisiei din 15 septembrie 1999 de modificare a Regulamentului (CEE) nr. 3600/92 de stabilire a normelor de punere în aplicare a primei etape a programului de lucru prevăzut la articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului privind introducerea pe piață a produselor fitosanitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R1972",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f80856b9-7eed-461f-abea-f9ec2455e231.0022.04/DOC_8",
+     "sha256": "e87eba1e39743986f6d4c435f4de4e1676a3d2bbc7e1f9c1e48e22f9b8dfbeb0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2107-1999",
+   "path": "ue/regulament/1999/2107",
+   "short": "Regulamentul (CE) nr. 2107/1999",
+   "title": "Regulamentul (CE) nr. 2107/1999 al Comisiei din 4 octombrie 1999 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2107",
+   "versions": [
+    {
+     "from": "1999-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/24a166fa-d2f1-4a6c-848f-9a7d7b1a2472.0022.04/DOC_7",
+     "sha256": "54112b01a7f6f6277488fe523f854c8ea0b1400b1fa4c5ffd1df0238ae9ab628"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2113-1999",
+   "path": "ue/regulament/1999/2113",
+   "short": "Regulamentul (CE) nr. 2113/1999",
+   "title": "Regulamentul (CE) nr. 2113/1999 al Comisiei din 5 octombrie 1999 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2113",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1bb2e3b-4ee4-4afb-a633-e16abdaf4fa3.0022.04/DOC_1",
+     "sha256": "7e5425db63102fe6c391cfbec9fa7f0b6e1fa3525e89518de426955f971a4ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2157-1999",
+   "path": "ue/regulament/1999/2157",
+   "short": "Regulamentul (CE) nr. 2157/1999",
+   "title": "Regulamentul (CE) nr. 2157/1999 al Băncii Centrale Europene din 23 septembrie 1999 privind competența Băncii Centrale Europene de a impune sancțiuni (BCE/1999/4)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2157",
+   "versions": [
+    {
+     "from": "1999-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f00d7fd-9086-46cb-874b-1e59f26f3116.0022.04/DOC_6",
+     "sha256": "8a27c3f69028a6565293c876020e01e66fbaa4effd9f16d5a366795f821ea495"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2197-1999",
+   "path": "ue/regulament/1999/2197",
+   "short": "Regulamentul (CE) nr. 2197/1999",
+   "title": "Regulamentul (CE) nr. 2197/1999 al Comisiei din 15 octombrie 1999 de modificare a Regulamentelor (CEE) nr. 548/89 și (CEE) nr. 812/89 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2197",
+   "versions": [
+    {
+     "from": "1999-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c437be6-8f67-4c47-b132-efef3dbd8c43.0022.04/DOC_1",
+     "sha256": "639d05bd72098acf7acaffd5d4c8b70cf29ec6d990b767307709b563d5c463fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2317-1999",
+   "path": "ue/regulament/1999/2317",
+   "short": "Regulamentul (CE) nr. 2317/1999",
+   "title": "Regulamentul (CE) nr. 2317/1999 al Comisiei din 29 octombrie 1999 de modificare a unui punct din caietul de sarcini pentru denumirea „Idiazábal”, inclusă în anexa la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine, în conformitate cu procedura stabilită la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2317",
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a3b2698-8522-4c8e-b90b-7b1b5416246c.0022.03/DOC_2",
+     "sha256": "68eced0cfeebb954521757edb4e461cd90997879bfdb176f6520588a5ea6d4f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2376-1999",
+   "path": "ue/regulament/1999/2376",
+   "short": "Regulamentul (CE) nr. 2376/1999",
+   "title": "Regulamentul (CE) nr. 2376/1999 al Comisiei din 9 noiembrie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2376",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1eadc0aa-bbd3-4a73-a8b4-51bccc232f7d.0022.04/DOC_1",
+     "sha256": "f95078599c8ca1e063b4ec1222ef57b06e9a30355edd78743c8d9de829cbb8d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2430-1999",
+   "path": "ue/regulament/1999/2430",
+   "short": "Regulamentul (CE) nr. 2430/1999",
+   "title": "Regulamentul (CE) nr. 2430/1999 al Comisiei din 16 noiembrie 1999 de stabilire a unei asocieri între autorizarea în hrana animalelor a anumitor aditivi aparținând grupei coccidiostaticelor și a altor substanțe medicamentoase și persoanele responsabile cu punerea lor în circulație (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2430",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b48bbe01-7b62-453c-a5bb-eb9edf66e6b7.0022.03/DOC_8",
+     "sha256": "9dae3d3dd58f2c5940b9bb528e9504a31b1bedd12a8a23a79694718be9e9d350"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2471-1999",
+   "path": "ue/regulament/1999/2471",
+   "short": "Regulamentul (CE) nr. 2471/1999",
+   "title": "Regulamentul (CE) nr. 2471/1999 al Comisiei din 23 noiembrie 1999 de modificare a Regulamentului (CE) nr. 669/97 al Consiliului privind deschiderea și modul de gestionare a contingentelor tarifare comunitare pentru anumite tipuri de pești și de produse pescărești originare din Insulele Feroe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2471",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42003f84-10a4-4cb8-8ec4-d5c567854923.0022.04/DOC_1",
+     "sha256": "0ea377725ab45d1ab62da3fc207465a9411d4cc2fd4d13107d958c2c71332fe3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2502-1999",
+   "path": "ue/regulament/1999/2502",
+   "short": "Regulamentul (CE) nr. 2502/1999",
+   "title": "Regulamentul (CE) nr. 2502/1999 al Comisiei din 26 noiembrie 1999 de modificare a Regulamentului (CEE) nr. 2166/83 privind instituirea unui sistem de licențe pentru anumite activități de pescuit efectuate într-o zonă situată la nord de Scoția (perimetrul Shetland)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2502",
+   "versions": [
+    {
+     "from": "1999-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a16cac5f-9bb5-4a34-9977-7875282bdffe.0022.04/DOC_1",
+     "sha256": "25b3a779778ef32d5fe68be36169aa6a719806f87e3bc879f38a916d71739a77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2543-1999",
+   "path": "ue/regulament/1999/2543",
+   "short": "Regulamentul (CE) nr. 2543/1999",
+   "title": "Regulamentul (CE) nr. 2543/1999 al Comisiei din 1 decembrie 1999 privind nomenclatorul țărilor și teritoriilor pentru statisticile comerțului exterior ale Comunității și statisticile comerțului între state membreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2543",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b0e852e-e06d-4bbe-a064-b39cf621a16c.0022.04/DOC_1",
+     "sha256": "60d95b1dec2d357392d8e77688d97b46ae5b534f163cf0ecefdc780c396735e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2562-1999",
+   "path": "ue/regulament/1999/2562",
+   "short": "Regulamentul (CE) nr. 2562/1999",
+   "title": "Regulamentul (CE) nr. 2562/1999 al Comisiei din 3 decembrie 1999 de stabilire a unei asocieri între autorizarea în hrana animalelor a unor aditivi care fac parte din grupa antibioticelor și persoanele responsabile cu punerea lor în circulație (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2562",
+   "versions": [
+    {
+     "from": "1999-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c4ccdbb-c450-4178-a65a-b9ebf40e0528.0022.03/DOC_6",
+     "sha256": "064fb72ea21ff51cec784be895ad1614a61b4df02a88b7cd899f70ed7b3f26f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2587-1999",
+   "path": "ue/regulament/1999/2587",
+   "short": "Regulamentul (Euratom) nr. 2587/1999",
+   "title": "Regulamentul (Euratom) nr. 2587/1999 al Consiliului din 2 decembrie 1999 de definire a proiectelor de investiții care se transmit Comisiei în conformitate cu articolul 41 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2587",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ecc326a2-2a92-4dd0-9232-072d13011d91.0022.04/DOC_3",
+     "sha256": "ae24f64f252404bdf7f57f2db65ba3ac46a139f05ad8e45700d20c72112dedd8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2674-1999",
+   "path": "ue/regulament/1999/2674",
+   "short": "Regulamentul (CE) nr. 2674/1999",
+   "title": "Regulamentul (CE) nr. 2674/1999 al Consiliului din 13 decembrie 1999 de modificare a Regulamentului (CEE) nr. 1911/91 privind aplicarea dispozițiilor dreptului comunitar în Insulele Canare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2674",
+   "versions": [
+    {
+     "from": "1999-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2bc48ee-9ef4-4a9f-93a4-ea5cf51b1d3a.0022.04/DOC_1",
+     "sha256": "6db9fc1fe2a38294598989344e7e42047611daa4a3ea31ec9b765c8c22cbfef1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2690-1999",
+   "path": "ue/regulament/1999/2690",
+   "short": "Regulamentul (CE) nr. 2690/1999",
+   "title": "Regulamentul (CE) nr. 2690/1999 al Comisiei din 17 decembrie 1999 privind autorizarea de noi aditivi în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2690",
+   "versions": [
+    {
+     "from": "2000-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cbdaedd5-f040-421a-b775-3f8fc7a92b4f.0022.03/DOC_6",
+     "sha256": "0b1ef38d32fa4e11778e09bab32db5f7aed0cd99f5e30a8ba37cb7ebbff3f14f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2740-1999",
+   "path": "ue/regulament/1999/2740",
+   "short": "Regulamentul (CE) nr. 2740/1999",
+   "title": "Regulamentul (CE) nr. 2740/1999 al Comisiei din 21 decembrie 1999 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1447/1999 al Consiliului din 24 iunie 1999 privind stabilirea listei tipurilor de comportament care contravin grav normelor politicii comune a pescuitului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2740",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46918ca8-ac91-424e-9f63-349a842ffc9f.0022.04/DOC_1",
+     "sha256": "6687d173117ec736045b3a47e4f5fee60b83ee467ead229860dd61bacff24d3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2762-1999",
+   "path": "ue/regulament/1999/2762",
+   "short": "Regulamentul (CE) nr. 2762/1999",
+   "title": "Regulamentul (CE) nr. 2762/1999 al Comisiei din 22 decembrie 1999 de adaptare a nivelului maxim anual al efortului de pescuit pentru anumite locuri de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2762",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5dd9a924-cb6a-4666-afcf-af81bd698c7c.0022.05/DOC_3",
+     "sha256": "c680d4304c7665eb1e8db6217c5f227faf30c0692d87eddb8d94d563f5e7f3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2793-1999",
+   "path": "ue/regulament/1999/2793",
+   "short": "Regulamentul (CE) nr. 2793/1999",
+   "title": "Regulamentul (CE) nr. 2793/1999 al Consiliului din 17 decembrie 1999 privind anumite proceduri de punere în aplicare a Acordului pentru comerț, dezvoltare și cooperare între Comunitatea Europeană și Republica Africa de Sud",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2793",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/772c1184-aeb3-4752-9ae3-39c407e8adc1.0022.04/DOC_1",
+     "sha256": "ff60ee683411a2feeb98f244eb0c9c13f29bf9e0ef9f66bcc907d6149406d880"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2795-1999",
+   "path": "ue/regulament/1999/2795",
+   "short": "Regulamentul (CE) nr. 2795/1999",
+   "title": "Regulamentul (CE) nr. 2795/1999 al Comisiei din 29 decembrie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R2795",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e5d210e-08f6-49c7-86d7-56cd0032bdf6.0022.04/DOC_1",
+     "sha256": "8a0e4e794876acc88796c7377c02f800d4494507df3a5a668da4a3c36e277637"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-307-1999",
+   "path": "ue/regulament/1999/307",
+   "short": "Regulamentul (CE) nr. 307/1999",
+   "title": "Regulamentul (CE) nr. 307/1999 al Consiliului din 8 februarie 1999 de modificare a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii care desfășoară activități independente și cu familiile acestora care se deplasează în cadrul Comunității și a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71, în vederea extinderii acestor regimuri pentru a-i include și pe studenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0307",
+   "versions": [
+    {
+     "from": "1999-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d63b209-e03f-40cb-b064-cec3cd305718.0022.03/DOC_1",
+     "sha256": "c9a7d18ed197b2d9dd939a277b68b6e596456bc263897910d65c2d084e3dd217"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-344-1999",
+   "path": "ue/regulament/1999/344",
+   "short": "Regulamentul (CE) nr. 344/1999",
+   "title": "Regulamentul (CE) nr. 344/1999 al Comisiei din 16 februarie 1999 de modificare a Regulamentului (CE) nr. 1439/95 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 3013/89 al Consiliului în ceea ce privește importul și exportul de produse din sectorul cărnii de oaie și de capră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0344",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90319145-d23c-44a0-814f-27472c54b2fd.0022.03/DOC_3",
+     "sha256": "dc844b63149b56c1f5d85b6b475af37a7fc9b24d129eebde59204bbcc2dff808"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-378-1999",
+   "path": "ue/regulament/1999/378",
+   "short": "Regulamentul (CE) nr. 378/1999",
+   "title": "Regulamentul (CE) nr. 378/1999 al Comisiei din 19 februarie 1999 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0378",
+   "versions": [
+    {
+     "from": "1999-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0eb28e53-35e2-4141-83d9-d2ea8eac5916.0022.04/DOC_2",
+     "sha256": "239f743e2e44fd27d52846639efc57b88977050669565b8ba5a9543a3d40580b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-38-1999",
+   "path": "ue/regulament/1999/38",
+   "short": "Regulamentul (CE) nr. 38/1999",
+   "title": "Regulamentul (CE) nr. 38/1999 al Comisiei din 8 ianuarie 1999 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0038",
+   "versions": [
+    {
+     "from": "1999-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8094c5b5-d84a-43a8-b8f7-8f70ea02daa7.0022.04/DOC_4",
+     "sha256": "ea389c528cde2cc93090d378f4bc90c8ca9009fd985f0bf7a711015cc523a2db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-464-1999",
+   "path": "ue/regulament/1999/464",
+   "short": "Regulamentul (CE) nr. 464/1999",
+   "title": "Regulamentul (CE) nr. 464/1999 al Comisiei din 3 martie 1999 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2201/96 al Consiliului cu privire la schema de ajutor pentru prune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0464",
+   "versions": [
+    {
+     "from": "1999-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5cf2b5e0-4342-4f1f-aafc-58849e94981d.0022.03/DOC_1",
+     "sha256": "ea6a29e34e62e15639b5b5ac7f19bf2d0a3b6189cd5fad12931d18010ba6fe1d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-516-1999",
+   "path": "ue/regulament/1999/516",
+   "short": "Regulamentul (CE) nr. 516/1999",
+   "title": "Regulamentul (CE) nr. 516/1999 al Comisiei din 9 martie 1999 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0516",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2cd5ade-44ec-4a2a-97c8-55caaf7f35f4.0022.04/DOC_1",
+     "sha256": "9c7bc3027dc78ff74ee29987478ab7b6e7d1f8a2dcbbd07dfb2b672b8a850011"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-547-1999",
+   "path": "ue/regulament/1999/547",
+   "short": "Regulamentul (CE) nr. 547/1999",
+   "title": "Regulamentul (CE) nr. 547/1999 al Comisiei din 12 martie 1999 de modificare a Regulamentului (CE) nr. 2802/95 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0547",
+   "versions": [
+    {
+     "from": "1999-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08a8276c-084a-4925-9122-fa7b7a40054f.0022.04/DOC_1",
+     "sha256": "3bbf4b51787e9c08113068c784d591fbec4b03778f371dd142a5f35fdd4a89a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-590-1999",
+   "path": "ue/regulament/1999/590",
+   "short": "Regulamentul (CE) nr. 590/1999",
+   "title": "Regulamentul (CE) nr. 590/1999 al Comisiei din 18 martie 1999 de completare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura stabilită în articolul 17 din Regulamentul (CEE) nr. 2081/92",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0590",
+   "versions": [
+    {
+     "from": "1999-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48896a38-77c6-45a2-87e5-a6ba4b035673.0022.04/DOC_3",
+     "sha256": "169a10a8560df85719101bdc71f08b9590c0c4ea4688e5937a04483593e00e6e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-639-1999",
+   "path": "ue/regulament/1999/639",
+   "short": "Regulamentul (CE) nr. 639/1999",
+   "title": "Regulamentul (CE) nr. 639/1999 al Comisiei din 25 martie 1999 privind autorizarea unui aditiv nou în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0639",
+   "versions": [
+    {
+     "from": "1999-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03739354-0765-44ad-b6fc-7e20aa65439a.0022.03/DOC_1",
+     "sha256": "389306d7c9ef5f8a18c38cc9cf7d65c152526e177ddd75832f4aebb4beb2b006"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-701-1999",
+   "path": "ue/regulament/1999/701",
+   "short": "Regulamentul (CE) nr. 701/1999",
+   "title": "Regulamentul (CE) nr. 701/1999 al Comisiei din 31 martie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0701",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33bfebf4-c9fa-44d0-b44a-1c3f7f58ca43.0022.04/DOC_1",
+     "sha256": "dfe3da7271e6eb06c59514cad1e322ed5e1d86d16514b811b03e5bd67bfb0136"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-718-1999",
+   "path": "ue/regulament/1999/718",
+   "short": "Regulamentul (CE) nr. 718/1999",
+   "title": "Regulamentul (CE) nr. 718/1999 al Consiliului din 29 martie 1999 privind politica capacității flotei Comunității cu scopul de a promova transportul pe căile navigabile interioare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0718",
+   "versions": [
+    {
+     "from": "1999-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23da9542-5b31-4f1e-87e6-1f89d76da720.0022.03/DOC_2",
+     "sha256": "16a891fee18db79c137435450d21576fc0910bed96ea37eff3df6cae95dfd997"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-728-1999",
+   "path": "ue/regulament/1999/728",
+   "short": "Regulamentul (CE) nr. 728/1999",
+   "title": "Regulamentul (CE) nr. 728/1999 al Comisiei din 7 aprilie 1999 de stabilire, în conformitate cu articolul 7 alineatul (3) din Regulamentul (CEE) nr. 2847/93 al Consiliului, a unui termen de notificare pentru navele de pescuit comunitare care desfășoară activități de pescuit în Marea Baltică, în Skagerrak și Kattegat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0728",
+   "versions": [
+    {
+     "from": "1999-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ebc0143-cb03-4f43-992c-8cca6b3d0d74.0022.04/DOC_1",
+     "sha256": "fd04d9924f4c5896bcc09f0288caa6dcd8a7ca7e6c78075cd72136e6f13f0431"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-799-1999",
+   "path": "ue/regulament/1999/799",
+   "short": "Regulamentul (CE) nr. 799/1999",
+   "title": "Regulamentul (CE) nr. 799/1999 al Comisiei din 16 aprilie 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0799",
+   "versions": [
+    {
+     "from": "1999-05-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11c26680-1cbb-4da8-bc10-5708fae34244.0022.04/DOC_2",
+     "sha256": "c44c25eb453f937f74eae893e9f415e99955c4fff6bbf583d1588235448fb8e5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-83-1999",
+   "path": "ue/regulament/1999/83",
+   "short": "Regulamentul (CE) nr. 83/1999",
+   "title": "Regulamentul (CE) nr. 83/1999 al Comisiei din 13 ianuarie 1999 de modificare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura stabilită în articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0083",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/016bab46-188f-464e-8b67-2f63262f7ade.0022.04/DOC_3",
+     "sha256": "db2864154b76bd162db685cb946d58c11c3714eb15685dd589a351d356b6fc27"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-856-1999",
+   "path": "ue/regulament/1999/856",
+   "short": "Regulamentul (CE) nr. 856/1999",
+   "title": "Regulamentul (CE) nr. 856/1999 al Consiliului din 22 aprilie 1999 de stabilire a unui cadru special de asistență pentru furnizorii ACP tradiționali de banane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0856",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07f20e36-ed2b-47f2-b86f-0dea145ed441.0022.03/DOC_3",
+     "sha256": "6afd390f9e13e92145fb6c8d5ac20263ca0777c4c13a4868f5a4c8f3aac9e15b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-866-1999",
+   "path": "ue/regulament/1999/866",
+   "short": "Regulamentul (CE) nr. 866/1999",
+   "title": "Regulamentul (CE) nr. 866/1999 al Comisiei din 26 aprilie 1999 privind autorizarea noilor aditivi și a noilor utilizări ale aditivilor în hrana animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0866",
+   "versions": [
+    {
+     "from": "1999-05-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d6f3af5-d961-444c-8447-d94e6903cc54.0022.03/DOC_3",
+     "sha256": "f7299350faf0d2387001efb25eb9d88ae81a485930964c8a65bcdc0022600a08"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-872-1999",
+   "path": "ue/regulament/1999/872",
+   "short": "Regulamentul (CE) nr. 872/1999",
+   "title": "Regulamentul (CE) nr. 872/1999 al Comisiei din 27 aprilie 1999 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului cu privire la protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0872",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a4cb036-d744-4c7e-aa3e-1cb21e2c2058.0022.04/DOC_3",
+     "sha256": "66e279d3df0f4173f1a660d45b73fb53c4ff9b008b70f43aa97e036ce70093fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-936-1999",
+   "path": "ue/regulament/1999/936",
+   "short": "Regulamentul (CE) nr. 936/1999",
+   "title": "Regulamentul (CE) nr. 936/1999 al Comisiei din 27 aprilie 1999 de modificare sau abrogare a anumitor regulamente privind clasificarea mărfurilor în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0936",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ccd72706-e249-4ced-8722-b328492343f4.0022.04/DOC_1",
+     "sha256": "a65d405e2ac31f1375f3ca1293d165c821eb7b1e0c32437568b1307505112b0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-964-1999",
+   "path": "ue/regulament/1999/964",
+   "short": "Regulamentul (CE) nr. 964/1999",
+   "title": "Regulamentul (CE) nr. 964/1999 al Comisiei din 6 mai 1999 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999R0964",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7964537-44f7-4f85-a26f-a498ebba6130.0022.04/DOC_1",
+     "sha256": "3bd5557d5d9403c9bd4abe57bd1d61840afa4ca6cac4d290a509fef3fa06cc91"
+    }
+   ]
   }
  ]
 }

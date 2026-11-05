@@ -1458,6 +1458,336 @@
    ]
   },
   {
+   "slug": "ue-regulament-2023-2005",
+   "path": "ue/regulament/2005/2023",
+   "short": "Regulamentul (CE) nr. 2023/2005",
+   "title": "Regulamentul (CE) nr. 2023/2005 al Comisiei din 12 decembrie 2005 de modificare a Regulamentului (CE) nr. 3199/93 privind recunoașterea reciprocă a procedurilor pentru denaturarea completă a alcoolului în scopul scutirii de la plata accizelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2023",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4df7bf1-98a7-49c1-946a-9edaf32bb215.0022.04/DOC_1",
+     "sha256": "9b44b761dcb9511cff85c2b3fd1f8afc51bf351eb7238712fec8a8b82bf8f8bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2036-2005",
+   "path": "ue/regulament/2005/2036",
+   "short": "Regulamentul (CE) nr. 2036/2005",
+   "title": "Regulamentul (CE) nr. 2036/2005 al Comisiei din 14 decembrie 2005 privind autorizarea permanentă a unor aditivi în hrana animalelor și autorizarea provizorie a unor noi utilizări în hrana animalelor ale unor aditivi deja autorizațiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2036",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2fbe0629-c9a0-4c8a-a346-5bd5524a10e6.0022.04/DOC_1",
+     "sha256": "f3c4fb4d1762682824c0d446f5d9ff1d02fd7eaafadf4bba6603ac062f96b0bc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2037-2005",
+   "path": "ue/regulament/2005/2037",
+   "short": "Regulamentul (CE) nr. 2037/2005",
+   "title": "Regulamentul (CE) nr. 2037/2005 al Comisiei din 14 decembrie 2005 de modificare a condițiilor de autorizare a unui aditiv pentru furaje aparținând grupei de coccidiostaticeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2037",
+   "versions": [
+    {
+     "from": "2005-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64b3ca9d-88a7-4450-97f2-126b9449a67a.0022.04/DOC_1",
+     "sha256": "31a2332028226e8dfc608a7c3bef42f6a974afbffa9e2ab2d0787ed90d9a80a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2039-2005",
+   "path": "ue/regulament/2005/2039",
+   "short": "Regulamentul (CE) nr. 2039/2005",
+   "title": "Regulamentul (CE) nr. 2039/2005 al Comisiei din 14 decembrie 2005 de modificare a Regulamentului (CE) nr. 1238/95 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 2100/94 al Consiliului în ceea ce privește taxele datorate Oficiului Comunitar pentru Soiuri de Plante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2039",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88ed5c40-0534-4a47-ad66-20c7e7600d98.0022.04/DOC_1",
+     "sha256": "0d3de0539ffbe19e4544c95db63c55451ce28910be83f14472a150eeb968f645"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2049-2005",
+   "path": "ue/regulament/2005/2049",
+   "short": "Regulamentul (CE) nr. 2049/2005",
+   "title": "Regulamentul (CE) nr. 2049/2005 al Comisiei din 15 decembrie 2005 de stabilire, în temeiul Regulamentului (CE) nr. 726/2004 al Parlamentului European și al Consiliului, a normelor privind taxele plătite de microîntreprinderi și întreprinderile mici și mijlocii Agenției Europene pentru Medicamente și asistența administrativă pe care le-o acordă aceastaText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2049",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fcf136ae-42c3-4952-90e8-0bf8267bbb83.0022.04/DOC_1",
+     "sha256": "06ce50b81abaa86ea2dea3a93f45f61b9d7a34a36306171f9ce99dd408ceda76"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-205-2005",
+   "path": "ue/regulament/2005/205",
+   "short": "Regulamentul (CE) nr. 205/2005",
+   "title": "Regulamentul (CE) nr. 205/2005 al Comisiei din 4 februarie 2005 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea unor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Valdemone — [DOP], Queso Ibores — [DOP], Pera de Jumilla — [DOP], Aceite de Terra Alta sau Oli de Terra Alta — [DOP], Sierra de Cádiz — [DOP], Requeijão Serra da Estrela — [DOP], Zafferano dell'Aquila — [DOP], Zafferano di San Gimignano — [DOP], Mantecadas de Astorga — [IGP] și Pan de Cea — [IGP])",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0205",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/603982ef-735a-4554-a8e9-523b701d856f.0022.04/DOC_1",
+     "sha256": "90d2e9d266867f7525254f2875c2876c3c0e4763eafd474e56438f07ca9be2a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2073-2005",
+   "path": "ue/regulament/2005/2073",
+   "short": "Regulamentul (CE) nr. 2073/2005",
+   "title": "Regulamentul (CE) nr. 2073/2005 al Comisiei din 15 noiembrie 2005 privind criteriile microbiologice pentru produsele alimentareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2073",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d62db802-56e9-4052-888f-ff5def2fa0f2.0021.04/DOC_85",
+     "sha256": "49ca3264607938c3fd13a24078e658899314548a9e2558bcefae340c9f54e3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2074-2005",
+   "path": "ue/regulament/2005/2074",
+   "short": "Regulamentul (CE) nr. 2074/2005",
+   "title": "Regulamentul (CE) nr. 2074/2005 al Comisiei din 5 decembrie 2005 de stabilire a măsurilor de aplicare privind anumite produse reglementate de Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului și organizarea unor controale oficiale prevăzute de Regulamentele (CE) nr. 854/2004 al Parlamentului European și al Consiliului și (CE) nr. 882/2004 al Parlamentului European și al Consiliului, de derogare de la Regulamentul (CE) nr. 852/2004 al Parlamentului European și al Consiliului și de modificare a Regulamentelor (CE) nr. 853/2004 și (CE) nr. 854/2004Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2074",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3357a35c-5561-4c24-871b-8dc668421293.0022.04/DOC_13",
+     "sha256": "16daf018cfe1e0439fd8a55d687efe7129408cd23e04696dd28d78b5d9549ff9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2100-2005",
+   "path": "ue/regulament/2005/2100",
+   "short": "Regulamentul (CE) nr. 2100/2005",
+   "title": "Regulamentul (CE) nr. 2100/2005 din 20 decembrie 2005",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2100",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90feafcd-cd0a-43df-b01e-6e043b5a586d.0021.04/DOC_1",
+     "sha256": "6aee88ee0640ed15db9988ca959143bf5b56bead6b415d222b3ff5dcb9789e5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2104-2005",
+   "path": "ue/regulament/2005/2104",
+   "short": "Regulamentul (CE, Euratom) nr. 2104/2005",
+   "title": "Regulamentul (CE, Euratom) nr. 2104/2005 al Consiliului din 20 decembrie 2005 de adaptare, începând cu 1 iulie 2005, a remunerațiilor și a pensiilor funcționarilor și ale agenților Comunităților Europene, precum și a coeficienților corectori aplicați acestor remunerații și pensii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2104",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cee6c062-9fef-491d-b3ee-67f8c408e588.0022.03/DOC_1",
+     "sha256": "c27e77e3c73e402d40aa5345357d333e3976e2d2778a387fa1a140c99487fa25"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2111-2005",
+   "path": "ue/regulament/2005/2111",
+   "short": "Regulamentul (CE) nr. 2111/2005",
+   "title": "Regulamentul (CE) nr. 2111/2005 al Parlamentului European și al Consiliului din 14 decembrie 2005 de stabilire a unei liste comunitare a transportatorilor aerieni care se supun unei interdicții de exploatare pe teritoriul Comunității și de informare a pasagerilor transportului aerian cu privire la identitatea transportatorului aerian efectiv și de abrogare a articolului 9 din Directiva 2004/36/CEText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2111",
+   "versions": [
+    {
+     "from": "2006-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0022.03/DOC_1",
+     "sha256": "9a37dd1bc8496a86e7270c6b9845721df3abc66151ad2e9746af7b7dc54bc3ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2114-2005",
+   "path": "ue/regulament/2005/2114",
+   "short": "Regulamentul (CE) nr. 2114/2005",
+   "title": "Regulamentul (CE) nr. 2114/2005 al Consiliului din 13 decembrie 2005 privind punerea în aplicare a Acordului sub forma unui schimb de scrisori dintre Comunitatea Europeană și Republica Coreea în temeiul articolului XXIV alineatul (6) și al articolului XXVIII din Acordul General pentru Tarife și Comerț (GATT) din 1994",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2114",
+   "versions": [
+    {
+     "from": "2005-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c90bd1f6-a090-40e7-8ac7-7376220796dc.0022.04/DOC_1",
+     "sha256": "d9f4c52f2d893bee26dd7e2c0ec722ec088963460bbd2a62ea8444187f3a5bb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2126-2005",
+   "path": "ue/regulament/2005/2126",
+   "short": "Regulamentul (CE) nr. 2126/2005",
+   "title": "Regulamentul (CE) nr. 2126/2005 al Comisiei din 22 decembrie 2005 de modificare a Regulamentului (CEE) nr. 350/93 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2126",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4eb65e61-fe1a-45cb-9472-dd274b041095.0022.04/DOC_14",
+     "sha256": "a045a1b607a786ebc6995e4b0eddd985ce94b0914b0f96fae2bf7b39d0777a01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2127-2005",
+   "path": "ue/regulament/2005/2127",
+   "short": "Regulamentul (CE) nr. 2127/2005",
+   "title": "Regulamentul (CE) nr. 2127/2005 al Comisiei din 22 decembrie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2127",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c334743b-b09a-4211-bda7-7492204ec78a.0022.04/DOC_17",
+     "sha256": "da8b085796db7bef8eae4d14ac89334d06ae5de65ebdd0dcbae78e802e7e527f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-214-2005",
+   "path": "ue/regulament/2005/214",
+   "short": "Regulamentul (CE) nr. 214/2005",
+   "title": "Regulamentul (CE) nr. 214/2005 al Comisiei din 9 februarie 2005 de modificare a anexei III la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește supravegherea encefalopatiilor spongiforme transmisibile la caprineText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0214",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54fb1377-059c-4891-9039-c7acedc1e68f.0022.04/DOC_1",
+     "sha256": "650dbc27d3bf678a9c215b2465aca404595da9317f3bc7f7ccafe33cfc2b5307"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2150-2005",
+   "path": "ue/regulament/2005/2150",
+   "short": "Regulamentul (CE) nr. 2150/2005",
+   "title": "Regulamentul (CE) nr. 2150/2005 al Comisiei din 23 decembrie 2005 de stabilire a unor norme comune pentru utilizarea flexibilă a spațiului aerianText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2150",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4dbcb008-578c-42da-8b0a-c2b9378dbe6c.0021.03/DOC_1",
+     "sha256": "b7c5205a75579a2eef9457e6073c918fa10967dcaf74c06cbe19f25f04826d1c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2154-2005",
+   "path": "ue/regulament/2005/2154",
+   "short": "Regulamentul (CE) nr. 2154/2005",
+   "title": "Regulamentul (CE) nr. 2154/2005 al Comisiei din 23 decembrie 2005 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea unei denumiri în „Registrul denumirilor de origine protejate si al indicațiilor geografice protejate” [„Sidra de Asturias” sau „Sidra d'Asturies”(DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2154",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ef10187-a54b-4c96-ac56-8ccf79ff0d0e.0022.05/DOC_2",
+     "sha256": "96471ba8180c573c6cd0b4409c6dbab65efa35e635321c4f2784f0cb84b2d3d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2155-2005",
+   "path": "ue/regulament/2005/2155",
+   "short": "Regulamentul (CE) nr. 2155/2005",
+   "title": "Regulamentul (CE) nr. 2155/2005 al Comisiei din 23 decembrie 2005 de modificare a elementelor din caietul de sarcini aferente unei denumiri de origine din anexa la Regulamentul (CE) nr. 1107/96 (Miel de sapin des Vosges) (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2155",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fdd08b3-b6fe-40e8-b0be-e1272bd8516e.0022.04/DOC_1",
+     "sha256": "f9ae15a0114fcd653c69755abcef27b6187771fe71519c7fdf7c60bf6272b9fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2156-2005",
+   "path": "ue/regulament/2005/2156",
+   "short": "Regulamentul (CE) nr. 2156/2005",
+   "title": "Regulamentul (CE) nr. 2156/2005 al Comisiei din 23 decembrie 2005 de modificare a elementelor din caietul de sarcini al unei denumiri de origine din anexa la Regulamentul (CE) nr. 1107/96 (Siurana)(DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2156",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b067bb3-3996-4e40-b490-44341621c234.0022.04/DOC_1",
+     "sha256": "1b08c6595e7e18b4ff1c0e14e87cbdc3f96942916701a20b6cf5530dc5414b42"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2158-2005",
+   "path": "ue/regulament/2005/2158",
+   "short": "Regulamentul (CE) nr. 2158/2005",
+   "title": "Regulamentul (CE) nr. 2158/2005 al Comisiei din 23 decembrie 2005 de modificare a Regulamentului (CE) nr. 32/2000 în ceea ce privește prelungirea contingentelor tarifare comunitare deschise pentru produsele fabricate din iută și din fibre de nucă de cocos",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2158",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88801cd3-cb39-46bb-8c49-14579cf97782.0022.04/DOC_8",
+     "sha256": "9d400ad5e3733899eb2ef4060f5282c692f9846a738ac1167ef25172ab77f7ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2169-2005",
+   "path": "ue/regulament/2005/2169",
+   "short": "Regulamentul (CE) nr. 2169/2005",
+   "title": "Regulamentul (CE) nr. 2169/2005 al Consiliului din 21 decembrie 2005 de modificare a Regulamentului (CE) nr. 974/98 privind introducerea monedei euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2169",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d416b122-04ce-49b8-90b7-59c1c0406273.0021.04/DOC_1",
+     "sha256": "3091a7e0b3f6e73d37fe4e588018ebc512b95dd2d5a7db04b280999e36b3c962"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2171-2005",
+   "path": "ue/regulament/2005/2171",
+   "short": "Regulamentul (CE) nr. 2171/2005",
+   "title": "Regulamentul (CE) nr. 2171/2005 al Comisiei din 23 decembrie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2171",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55160b06-37dc-4ded-9148-f3fc898e6375.0022.04/DOC_5",
+     "sha256": "8130d7efe6421f9be0ce60c478bd48d07b625e1f79b9330703339f86c883b2e1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2173-2005",
    "path": "ue/regulament/2005/2173",
    "short": "Regulamentul (CE) nr. 2173/2005",
@@ -1469,6 +1799,711 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b3e32c4b-574f-4421-8e47-22fb888a8c13.0022.04/DOC_1",
      "sha256": "cf949c62c0cbdcbff507609bd91d5af1f265bfa10dd151c50ed363987d150e9d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2174-2005",
+   "path": "ue/regulament/2005/2174",
+   "short": "Regulamentul (CE) nr. 2174/2005",
+   "title": "Regulamentul (CE) nr. 2174/2005 al Consiliului din 21 decembrie 2005 privind punerea în aplicare a Acordului sub forma unui schimb de scrisori dintre Comunitatea Europeană și Japonia în temeiul articolului XXIV alineatul (6) și al articolului XXVIII din Acordul General pentru Tarife și Comerț (GATT) din 1994",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2174",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b93a6888-e5fe-41be-a5cc-4ac90c985de2.0022.04/DOC_1",
+     "sha256": "e89b3a80d588613b466d2f6b2e70d97d01118b1b211cae4f9d53a046bad78a69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2175-2005",
+   "path": "ue/regulament/2005/2175",
+   "short": "Regulamentul (CE) nr. 2175/2005",
+   "title": "Regulamentul (CE) nr. 2175/2005 al Consiliului din 21 decembrie 2005 privind punerea în aplicare a acordului sub forma unui schimb de scrisori între Comunitatea Europeană și Noua Zeelandă în conformitate cu articolul XXIV alineatul (6) și cu articolul XXVIII din Acordul General pentru Tarife și Comerț (GATT) 1994 privind modificarea concesiilor în listele Republicii Cehe, Republicii Estonia, Republicii Cipru, Republicii Letonia, Republicii Lituania, Republicii Ungare, Republicii Malta, Republicii Polone, Republicii Slovenia și Republicii Slovace în cadrul aderării acestora la Uniunea Europeană, care completează anexa I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R2175",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c553c12-6920-4ce5-971d-a6c6a2de6abf.0022.04/DOC_1",
+     "sha256": "d5aec036de2c8a7a1406652d553e55c8fd5fc05cdbf3b3c3610cf4b9088e3382"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-223-2005",
+   "path": "ue/regulament/2005/223",
+   "short": "Regulamentul (CE) nr. 223/2005",
+   "title": "Regulamentul (CE) nr. 223/2005 al Comisiei din 10 februarie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0223",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e76b5dcc-4b4c-404e-b328-9384c4c2fa02.0022.04/DOC_1",
+     "sha256": "57150935c02ffb9552c24790c95bca821f3ca99220867f5b86de32df8cbb37c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-241-2005",
+   "path": "ue/regulament/2005/241",
+   "short": "Regulamentul (CE) nr. 241/2005",
+   "title": "Regulamentul (CE) nr. 241/2005 al Comisiei din 11 februarie 2005 de modificare a Regulamentului (CE) nr. 747/2001 al Consiliului în ceea ce privește contingentele tarifare comunitare pentru anumite produse originare din Israel",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0241",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d83e1d70-d782-4fae-ba85-9fc12af3e869.0022.04/DOC_1",
+     "sha256": "f187273d52ed02e83f1a0e6128c6a216cd8cc54fc0495dcf7a0addfd9828c702"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-25-2005",
+   "path": "ue/regulament/2005/25",
+   "short": "Regulamentul (CE) nr. 25/2005",
+   "title": "Regulamentul (CE) nr. 25/2005 al Comisiei din 7 ianuarie 2005 de modificare a Regulamentului (CE) nr. 32/2000 al Consiliului privind prelungirea contingentelor tarifare comunitare pentru produsele manufacturate din iută și nucă de cocos",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0025",
+   "versions": [
+    {
+     "from": "2005-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6836939c-fd44-4b12-8d01-9ee9684128c5.0021.04/DOC_1",
+     "sha256": "6e556376b785d31cd384a39228330c238f3e4326ac810b8581588ef7ab7c3288"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-2005",
+   "path": "ue/regulament/2005/260",
+   "short": "Regulamentul (CE) nr. 260/2005",
+   "title": "Regulamentul (CE) nr. 260/2005 al Comisiei din 16 februarie 2005 de modificare a Regulamentului (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește testele rapideText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0260",
+   "versions": [
+    {
+     "from": "2005-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ff8ec46-1661-449e-a5c4-811ff55dae24.0022.04/DOC_2",
+     "sha256": "f3756619c84f2ebf742f488930d0b5ad46ef4613373aace673d20659631b6bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-266-2005",
+   "path": "ue/regulament/2005/266",
+   "short": "Regulamentul (CE) nr. 266/2005",
+   "title": "Regulamentul (CE) nr. 266/2005 al Comisiei din 17 februarie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0266",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03c4ad07-e576-4a6f-85a6-021369c22568.0022.05/DOC_1",
+     "sha256": "a79b7c290f9c1d542d12487e0217c4da437d4102ccadc24f82810d7a9ca98b59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-284-2005",
+   "path": "ue/regulament/2005/284",
+   "short": "Regulamentul (CE) nr. 284/2005",
+   "title": "Regulamentul (CE) nr. 284/2005 al Comisiei din 18 februarie 2005 de stabilire a derogărilor de la Regulamentul (CE) nr. 800/1999 în sectorul produselor exportate sub formă de mărfuri care nu intră sub incidența anexei I la tratat către țări terțe altele decât Elveția și Liechtenstein",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0284",
+   "versions": [
+    {
+     "from": "2005-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7007b6ba-dae4-4027-949d-97d979f2df8d.0022.04/DOC_2",
+     "sha256": "91ab0002d33a7a16973b2253f6195e7583c8f0ef4191ed061426d2cc13c52c68"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-293-2005",
+   "path": "ue/regulament/2005/293",
+   "short": "Regulamentul (CE) nr. 293/2005",
+   "title": "Regulamentul (CE) nr. 293/2005 al Consiliului din 17 februarie 2005 de modificare a Regulamentului (CE) nr. 866/2004 privind regimul întemeiat pe dispozițiile articolului 2 din Protocolul 10 la Actul de aderare referitor la produsele agricole și facilitățile acordate pentru persoanele care trec linia de demarcație",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0293",
+   "versions": [
+    {
+     "from": "2005-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c973876-9ac8-45f5-a2a5-3cc3fcc2a274.0022.04/DOC_1",
+     "sha256": "73dedf3b099487aae8ecb5e6bbded726759342e8a7515bab55d8f095c9f5a319"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-301-2005",
+   "path": "ue/regulament/2005/301",
+   "short": "Regulamentul (CE) nr. 301/2005",
+   "title": "Regulamentul (CE) nr. 301/2005 din 23 februarie 2005",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0301",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbcd1243-6365-4d7c-a040-80a1852dda89.0022.03/DOC_1",
+     "sha256": "1d867c197316e9f88f6e252eb043c257e15a1c180b91eda68498e9bb3217faa9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-302-2005",
+   "path": "ue/regulament/2005/302",
+   "short": "Regulamentul (Euratom) nr. 302/2005",
+   "title": "Regulamentul (Euratom) nr. 302/2005 al Comisiei din 8 februarie 2005 privind aplicarea garanțiilor nucleare Euratom",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0302",
+   "versions": [
+    {
+     "from": "2005-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48e4f5fc-d06b-4069-ab40-8c47a3e6a1bb.0022.04/DOC_8",
+     "sha256": "dcc4d7eaf151a23617f14fb88d9811107a37bb3eecb51b4a64925321b720c78b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-305-2005",
+   "path": "ue/regulament/2005/305",
+   "short": "Regulamentul (CE) nr. 305/2005",
+   "title": "Regulamentul (CE) nr. 305/2005 al Comisiei din 19 octombrie 2004 de modificare a Regulamentului (CE) nr. 312/2003 al Consiliului privind contingentele tarifare care se aplică anumitor produse originare din Chile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0305",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7902b5f1-8591-461a-b9bd-485712bb4464.0022.04/DOC_1",
+     "sha256": "fc1b4cddcd24081c4794099d00e53c3952db06ec54c021ed86bac3c90af00d8e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-306-2005",
+   "path": "ue/regulament/2005/306",
+   "short": "Regulamentul (CE) nr. 306/2005",
+   "title": "Regulamentul (CE) nr. 306/2005 al Comisiei din 24 februarie 2005 de modificare a anexei I la Regulamentul (CE) nr. 138/2004 al Parlamentului European și al Consiliului privind conturile economice pentru agricultură în cadrul ComunitățiiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0306",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a78869e7-5510-4ba6-822c-b8d8c4c4dd10.0022.04/DOC_1",
+     "sha256": "d7fce50ee5d8cd44004a28d23615eba8e93005666a00343dc5170d22c10d6a67"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-349-2005",
+   "path": "ue/regulament/2005/349",
+   "short": "Regulamentul (CE) nr. 349/2005",
+   "title": "Regulamentul (CE) nr. 349/2005 al Comisiei din 28 februarie 2005 de stabilire a normelor privind finanțarea comunitară a intervențiilor de urgență și a combaterii anumitor boli ale animalelor menționate în Decizia 90/424/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0349",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99f44645-d345-48f1-9b6d-5b20eede710e.0022.04/DOC_1",
+     "sha256": "d65780975338ac153d0332855252243e06d4150f64843dc21e677cfa3732d516"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-358-2005",
+   "path": "ue/regulament/2005/358",
+   "short": "Regulamentul (CE) nr. 358/2005",
+   "title": "Regulamentul (CE) nr. 358/2005 al Comisiei din 2 martie 2005 privind autorizarea fără limită de timp a anumitor aditivi și autorizarea unor noi utilizări în hrana animalelor ale unor aditivi deja autorizațiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0358",
+   "versions": [
+    {
+     "from": "2005-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/22daf8cf-4d40-4318-9447-3c5c500bb87d.0022.04/DOC_2",
+     "sha256": "194b1b3aff1e7c974380156a02995eaecd769bdc5fc47e71eeea61f527079944"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-36-2005",
+   "path": "ue/regulament/2005/36",
+   "short": "Regulamentul (CE) nr. 36/2005",
+   "title": "Regulamentul (CE) nr. 36/2005 al Comisiei din 12 ianuarie 2005 de modificare a anexelor III și X la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește supravegherea epidemiologică a encefalopatiilor spongiforme transmisibile la bovine, ovine și caprineText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0036",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e11e4878-8a40-493d-aceb-013302815413.0022.04/DOC_1",
+     "sha256": "946d8cb58210d8d5f6b7b7639b7474933a40798035a2dd0120bf09c2ed0c4a80"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-37-2005",
+   "path": "ue/regulament/2005/37",
+   "short": "Regulamentul (CE) nr. 37/2005",
+   "title": "Regulamentul (CE) nr. 37/2005 al Comisiei din 12 ianuarie 2005 privind controlul temperaturii din mijloacele de transport, din spațiile de antrepozitare și depozitare a alimentelor congelate rapid destinate consumului uman (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0037",
+   "versions": [
+    {
+     "from": "2005-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fadbb4db-70e7-4bb2-916d-786f153b9446.0022.03/DOC_1",
+     "sha256": "0af48e592ddd3584b5d0482652e60028756d8026f70f9b8244d9c86200765f70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-378-2005",
+   "path": "ue/regulament/2005/378",
+   "short": "Regulamentul (CE) nr. 378/2005",
+   "title": "Regulamentul (CE) nr. 378/2005 al Comisiei din 4 martie 2005 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului privind funcțiile și atribuțiile laboratorului comunitar de referință cu privire la cererile de autorizare a unor aditivi pentru hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0378",
+   "versions": [
+    {
+     "from": "2005-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2cf9350-9a51-4d9b-a2b2-3f0f8f71dd14.0022.04/DOC_1",
+     "sha256": "45c632deb7ff950b63ef73d81b2f51bc06050fc555145ca5246f8bb15bc4971c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-384-2005",
+   "path": "ue/regulament/2005/384",
+   "short": "Regulamentul (CE) nr. 384/2005",
+   "title": "Regulamentul (CE) nr. 384/2005 al Comisiei din 7 martie 2005 de adoptare a programului de module ad hoc pentru ancheta prin sondaj asupra forței de muncă, pe perioada 2007-2009, prevăzut prin Regulamentul (CE) nr. 577/98 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0384",
+   "versions": [
+    {
+     "from": "2005-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3a398a0-1704-41d9-ab22-2cef6c6fdc64.0022.03/DOC_1",
+     "sha256": "752579edf8293852e9bf845ab5eeb92c96e3a6aaa9b9cdee2012ae72e26f3091"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-396-2005",
+   "path": "ue/regulament/2005/396",
+   "short": "Regulamentul (CE) nr. 396/2005",
+   "title": "Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului din 23 februarie 2005 privind conținuturile maxime aplicabile reziduurilor de pesticide din sau de pe produse alimentare și hrana de origine vegetală și animală pentru animale și de modificare a Directivei 91/414/CEE Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0396",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8922e251-ea29-482d-a2b2-6ba6f46e5255.0022.04/DOC_1",
+     "sha256": "eab5f31048916e8fbe5baf40d731e0ebfc121f6985fe97514bdb1506b10ba67d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-502-2005",
+   "path": "ue/regulament/2005/502",
+   "short": "Regulamentul (CE) nr. 502/2005",
+   "title": "Regulamentul (CE) nr. 502/2005 al Comisiei din 31 martie 2005 de modificare a Regulamentului (CE) nr. 1362/2000 al Consiliului în ceea ce privește deschiderea și administrarea contingentelor tarifare pentru anumite produse originare din Mexic",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0502",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/855df9e2-cee4-445c-9af4-040818bf8adc.0021.04/DOC_1",
+     "sha256": "8eb33bd567c408bf1c7cd7d85cbd48dd0e54fea8283040e6a1576c738b392ca2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-503-2005",
+   "path": "ue/regulament/2005/503",
+   "short": "Regulamentul (CE) nr. 503/2005",
+   "title": "Regulamentul (CE) nr. 503/2005 al Comisiei din 31 martie 2005 de modificare a Regulamentului (CE) nr. 747/2001 al Consiliului privind contingentele tarifare comunitare și o cantitate de referință pentru anumite produse originare din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0503",
+   "versions": [
+    {
+     "from": "2005-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92839d81-59ba-4d6f-823f-3c4fed3fdd5b.0022.04/DOC_1",
+     "sha256": "d0149e8b4f63a6be0027f350811069e8cac674ea219c9f961733145e2c7cf1a0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-521-2005",
+   "path": "ue/regulament/2005/521",
+   "short": "Regulamentul (CE) nr. 521/2005",
+   "title": "Regulamentul (CE) nr. 521/2005 al Comisiei din 1 aprilie 2005 privind autorizarea permanentă a unui aditiv și autorizarea provizorie a unor utilizări noi ale anumitor aditivi deja autorizați în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0521",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0dafd1d5-6178-496d-bd83-dff9f6dfdb6e.0022.04/DOC_1",
+     "sha256": "238d496233693b96220f800c711f77d9575a71a47dc0b769c049a2530f2af981"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-522-2005",
+   "path": "ue/regulament/2005/522",
+   "short": "Regulamentul (CE) nr. 522/2005",
+   "title": "Regulamentul (CE) nr. 522/2005 al Comisiei din 1 aprilie 2005 de modificare a Regulamentului (CE) nr. 2368/2002 al Consiliului de punere în aplicare a sistemului de certificare a Procesului Kimberley pentru comerțul internațional cu diamante brute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0522",
+   "versions": [
+    {
+     "from": "2005-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b4fe9e6-fdb7-4a7c-ba69-5b28d6f5b062.0022.03/DOC_1",
+     "sha256": "461663fbcb503f2f21f52a5def9d7cec7f8c75de46d6428b5c9abd5129a90819"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-546-2005",
+   "path": "ue/regulament/2005/546",
+   "short": "Regulamentul (CE) nr. 546/2005",
+   "title": "Regulamentul (CE) nr. 546/2005 al Comisiei din 8 aprilie 2005 de adaptare a Regulamentului (CE) nr. 437/2003 al Parlamentului European și al Consiliului în ceea ce privește alocarea codurilor de raportare ale țărilor și de modificare a Regulamentului (CE) nr. 1358/2003 al Comisiei în ceea ce privește actualizarea listei aeroporturilor comunitareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0546",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c92e3df-8501-49bd-9eb9-677a8a649b06.0022.03/DOC_1",
+     "sha256": "770ff57b1f8e595627816938adf4c371087a6e6decf09f487453e3c53fbfbc21"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-6-2005",
+   "path": "ue/regulament/2005/6",
+   "short": "Regulamentul (CE) nr. 6/2005",
+   "title": "Regulamentul (CE) nr. 6/2005 al Comisiei din 4 ianuarie 2005 de rectificare a Regulamentelor (CE) nr. 46/2003 și (CE) nr. 47/2003 privind amestecurile de fructe și legume proaspete din soiuri diferite în același ambalaj de vânzare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0006",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c26f60b4-7ab2-4f62-a722-849231fb99b7.0022.04/DOC_1",
+     "sha256": "d134e7043a42508e788e0fa0535f899ef13c10f5e5429c53ac566ff9485e05a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-600-2005",
+   "path": "ue/regulament/2005/600",
+   "short": "Regulamentul (CE) nr. 600/2005",
+   "title": "Regulamentul (CE) nr. 600/2005 al Comisiei din 18 aprilie 2005 privind o nouă autorizare pe o perioadă de zece ani a unui coccidiostatic ca aditiv în hrana animalelor, autorizarea provizorie a unui aditiv și autorizarea permanentă a anumitor aditivi în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0600",
+   "versions": [
+    {
+     "from": "2005-04-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04fc25b9-f2e0-463b-ae36-7713fa2809d2.0022.04/DOC_1",
+     "sha256": "b8c6e0475374fce51bd44229aff06ea3c98bdd787d76e05da17e5ff9817cb364"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-634-2005",
+   "path": "ue/regulament/2005/634",
+   "short": "Regulamentul (CE) nr. 634/2005",
+   "title": "Regulamentul (CE) nr. 634/2005 al Comisiei din 26 aprilie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0634",
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c0f9385-3982-4884-b95b-e2e0d51835ca.0022.04/DOC_1",
+     "sha256": "48bf4763aeae0d3e4d91755e080e8d805a55b04bbedaea1a4624e8a031dc5611"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-635-2005",
+   "path": "ue/regulament/2005/635",
+   "short": "Regulamentul (CE) nr. 635/2005",
+   "title": "Regulamentul (CE) nr. 635/2005 al Comisiei din 26 aprilie 2005 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0635",
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4dc4b6cc-b1e3-464a-9c77-efdc0c9c0356.0022.04/DOC_2",
+     "sha256": "f519c748657776d5390690d193977a108ec2aedadff2d1f018a13a6e64fd6895"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-642-2005",
+   "path": "ue/regulament/2005/642",
+   "short": "Regulamentul (CE) nr. 642/2005",
+   "title": "Regulamentul (CE) nr. 642/2005 al Comisiei din 27 aprilie 2005 de impunere a cerințelor de informare și de testare pentru producătorii sau importatorii de anumite substanțe prioritare în conformitate cu Regulamentul (CEE) nr. 793/93 al Consiliului privind evaluarea și controlul riscurilor prezentate de substanțele existenteText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0642",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fcba208-7361-45e0-90de-159339fe5b49.0022.04/DOC_1",
+     "sha256": "91fa4d780b459c96a7b541de732ec0d901f9084ac391d8ffcd64907da453343a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-647-2005",
+   "path": "ue/regulament/2005/647",
+   "short": "Regulamentul (CE) nr. 647/2005",
+   "title": "Regulamentul (CE) nr. 647/2005 al Parlamentului European și al Consiliului din 13 aprilie 2005 de modificare a Regulamentului (CEE) nr. 1408/71 al Consiliului privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii nesalariați și cu membrii familiilor acestora care se deplasează în interiorul Comunității, precum și a Regulamentului (CEE) nr. 574/72 al Consiliului de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0647",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28f667bf-fd61-465a-8fd5-59449ee54f19.0022.04/DOC_1",
+     "sha256": "a321f8d7ac691788dbce103bad1ff2c5304af9bac894d8305e971b229a3d6889"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-704-2005",
+   "path": "ue/regulament/2005/704",
+   "short": "Regulamentul (CE) nr. 704/2005",
+   "title": "Regulamentul (CE) nr. 704/2005 al Comisiei din 4 mai 2005 de modificare a unor elemente din caietul de sarcini al unei denumiri de origine menționate în anexa la Regulamentul (CE) nr. 1107/96 (Mel de Barroso) (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0704",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b8977d7-6a6b-4158-97c5-85fd8a096319.0022.03/DOC_1",
+     "sha256": "bed5af018ca2ec6caf0dd101cb42d0cba83744fa4bb56dbed3f55e8be69fdbea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-705-2005",
+   "path": "ue/regulament/2005/705",
+   "short": "Regulamentul (CE) nr. 705/2005",
+   "title": "Regulamentul (CE) nr. 705/2005 al Comisiei din 4 mai 2005 de modificare sau abrogare a anumitor regulamente privind clasificarea mărfurilor în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0705",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4754a13b-d152-41c5-b8f9-ca868715e387.0022.04/DOC_1",
+     "sha256": "00cc170f8f65469e4ba4828ae9fe5d7ae3907222d1b265b1b72998854a6df4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-708-2005",
+   "path": "ue/regulament/2005/708",
+   "short": "Regulamentul (CE) nr. 708/2005",
+   "title": "Regulamentul (CE) nr. 708/2005 al Comisiei din 10 mai 2005 de modificare a elementelor din caietul de sarcini ale unei denumiri de origine din anexa la Regulamentul (CE) nr. 1107/96 (Azeites do Norte Alentejano) (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0708",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b6a1440-cda4-4ac2-b738-33ce2ada63dc.0022.04/DOC_1",
+     "sha256": "a6fb7e99a40974bacec85e87cd074b0ee19c4b17c81fa5f20325047fccca6df4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-718-2005",
+   "path": "ue/regulament/2005/718",
+   "short": "Regulamentul (CE) nr. 718/2005",
+   "title": "Regulamentul (CE) nr. 718/2005 al Comisiei din 12 mai 2005 de modificare a Regulamentului (CE) nr. 2368/2002 al Consiliului de punere în aplicare a sistemului de certificare pentru Procesul Kimberley privind comerțul internațional cu diamante brute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0718",
+   "versions": [
+    {
+     "from": "2005-05-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e697237b-5080-404c-a210-c6b3c237b5ff.0021.03/DOC_1",
+     "sha256": "fa21f9dbc3438afb32d60ec5a7e2b17f160d23c8b1b4c9ab2cddda605de31007"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-750-2005",
+   "path": "ue/regulament/2005/750",
+   "short": "Regulamentul (CE) nr. 750/2005",
+   "title": "Regulamentul (CE) nr. 750/2005 al Comisiei din 18 mai 2005 privind Nomenclatura țărilor și teritoriilor pentru statisticile comerțului exterior al Comunității și ale comerțului dintre statele membreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0750",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/521fdabc-4968-4a53-9e00-d8cdbc8977d1.0022.04/DOC_1",
+     "sha256": "225fbb47aa3015adff049866b8fe506a05172454b658cc9f6723330a3ecdf7bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-757-2005",
+   "path": "ue/regulament/2005/757",
+   "short": "Regulamentul (CE) nr. 757/2005",
+   "title": "Regulamentul (CE) nr. 757/2005 din 18 mai 2005",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0757",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e5a8406-5e7a-4018-a622-d5f5c943f600.0022.03/DOC_1",
+     "sha256": "e4a50489bd5d5e6bd9062d459248b6f572cf71200ddeba05f6dc33d68e56021d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-772-2005",
+   "path": "ue/regulament/2005/772",
+   "short": "Regulamentul (CE) nr. 772/2005",
+   "title": "Regulamentul (CE) nr. 772/2005 al Comisiei din 20 mai 2005 privind specificațiile pentru cuprinderea caracteristicilor și definirea formatului tehnic pentru elaborarea statisticilor comunitare anuale cu privire la oțel pentru anii de referință 2003-2009Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0772",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/900cd430-1080-4813-a5fb-e99dc113c468.0021.03/DOC_1",
+     "sha256": "5b14619c22182fab484bc66b3a25f9c53cbe38fd4798bbaf3dea758c10bef78e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-782-2005",
+   "path": "ue/regulament/2005/782",
+   "short": "Regulamentul (CE) nr. 782/2005",
+   "title": "Regulamentul (CE) nr. 782/2005 al Comisiei din 24 mai 2005 de stabilire a formatului pentru transmiterea rezultatelor privind statisticile asupra deșeurilorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0782",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b58adc5-a574-4d96-bfb3-7f3857a4288a.0022.03/DOC_1",
+     "sha256": "f415305ca60f95ae824adfdee8ced21a726d018c97188a6329cf23c7cdb18eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-783-2005",
+   "path": "ue/regulament/2005/783",
+   "short": "Regulamentul (CE) nr. 783/2005",
+   "title": "Regulamentul (CE) nr. 783/2005 al Comisiei din 24 mai 2005 de modificare a anexei II la Regulamentul (CE) nr. 2150/2002 al Parlamentului European și al Consiliului referitoare la statisticile privind deșeurileText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0783",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3985dfc9-85c4-4a4e-8532-e43c0f7c3aee.0021.03/DOC_1",
+     "sha256": "eb84279c4cb86f13e04dda1b86dc28d01bae55eca3e21c41ebdafd17c566d9f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-790-2005",
+   "path": "ue/regulament/2005/790",
+   "short": "Regulamentul (CE) nr. 790/2005",
+   "title": "Regulamentul (CE) nr. 790/2005 al Comisiei din 25 mai 2005 de modificare a Regulamentului (CE) nr. 2406/96 al Consiliului privind stabilirea standardelor comune de comercializare pentru anumite produse pescărești",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0790",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8c175b0-bd65-4591-85db-ef36f928e729.0021.04/DOC_1",
+     "sha256": "135bb4613e8c74b2cd2b792efbb98c9d93b3b8b967b14f3fda5b7ae4df49decf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-853-2005",
+   "path": "ue/regulament/2005/853",
+   "short": "Regulamentul (CE) nr. 853/2005",
+   "title": "Regulamentul (CE) nr. 853/2005 al Comisiei din 3 iunie 2005 de efectuare a celei de-a patruzeci și șaptea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0853",
+   "versions": [
+    {
+     "from": "2005-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/048574a5-1117-4043-9efb-cd0bfb503a64.0022.03/DOC_1",
+     "sha256": "4e529c166565cce746605f36b7eb272d42de316db109fe1e317225504d9039f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-885-2005",
+   "path": "ue/regulament/2005/885",
+   "short": "Regulamentul (CE) nr. 885/2005",
+   "title": "Regulamentul (CE) nr. 885/2005 al Comisiei din 10 iunie 2005 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea unei denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Olive de Nice) – (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0885",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63f1bcb0-6c99-442f-a374-54c07e9b4965.0022.05/DOC_1",
+     "sha256": "79d643f97b9086b8418f41d7fdea3a1d471d9fc45490efe6ffa028538c81de40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-886-2005",
+   "path": "ue/regulament/2005/886",
+   "short": "Regulamentul (CE) nr. 886/2005",
+   "title": "Regulamentul (CE) nr. 886/2005 al Comisiei din 10 iunie 2005 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea unei denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Miel de Granada) – (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0886",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2fcfb2f-009f-4654-90e1-ec4478a59d85.0022.04/DOC_1",
+     "sha256": "4f812c5853ca159765aac3358f190d37378b7a6dc5be456fbd04400f8d9c5879"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-898-2005",
+   "path": "ue/regulament/2005/898",
+   "short": "Regulamentul (CE) nr. 898/2005",
+   "title": "Regulamentul (CE) nr. 898/2005 din 15 iunie 2005",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0898",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0d912f2-16dd-4212-acdf-7dbd1ab32e23.0022.03/DOC_1",
+     "sha256": "00db6a7b347231f7910c494943eb43f2ce062b54b93ed2676c781b8840a9c1ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-932-2005",
+   "path": "ue/regulament/2005/932",
+   "short": "Regulamentul (CE) nr. 932/2005",
+   "title": "Regulamentul (CE) nr. 932/2005 al Parlamentului European și al Consiliului din 8 iunie 2005 de modificare a Regulamentului (CE) nr. 999/2001 de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă în ceea ce privește prelungirea perioadei de aplicare a măsurilor tranzitoriiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0932",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19213f3f-6509-4950-abfb-d64a92e88ba6.0022.04/DOC_1",
+     "sha256": "b58504b14305ee634e781b700b220fe109af5944de03e40d154bf6f01d70b9e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-980-2005",
+   "path": "ue/regulament/2005/980",
+   "short": "Regulamentul (CE) nr. 980/2005",
+   "title": "Regulamentul (CE) nr. 980/2005 al Consiliului din 27 iunie 2005 de aplicare a unui sistem de preferințe tarifare generalizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005R0980",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35c54f36-f5f2-4363-b629-83e0fc41de6f.0021.04/DOC_1",
+     "sha256": "dea0bf92a26bece61e5ddd851dfe4ad7c583002d774a34322b425217ecc590d2"
     }
    ]
   }

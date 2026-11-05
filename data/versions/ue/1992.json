@@ -286,6 +286,501 @@
      "sha256": "df851a24fec654f6449e5b05d54d23287bc0f7c4f12dd5035932b02d6993ffbe"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1035-1992",
+   "path": "ue/regulament/1992/1035",
+   "short": "Regulamentul (CEE) nr. 1035/92",
+   "title": "Regulamentul (CEE) nr. 1035/92 al Comisiei din 24 aprilie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1035",
+   "versions": [
+    {
+     "from": "1992-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89a10e4d-191d-4e52-b4ce-0d291ab58fae.0022.03/DOC_1",
+     "sha256": "c2afc73fc4f6fd806ffe1b2250c2d038ec3c4a3c68f0ab4f25f3ae902bc66f44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1533-1992",
+   "path": "ue/regulament/1992/1533",
+   "short": "Regulamentul (CEE) nr. 1533/92",
+   "title": "Regulamentul (CEE) nr. 1533/92 al Comisiei din 12 iunie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1533",
+   "versions": [
+    {
+     "from": "1992-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a32e0808-a661-4de3-99fc-c80d788e4c5d.0022.04/DOC_1",
+     "sha256": "492d011127880b06252b526249d416a5cc8f70db787bf0bb4bc46679b992c2fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1536-1992",
+   "path": "ue/regulament/1992/1536",
+   "short": "Regulamentul (CEE) nr. 1536/92",
+   "title": "Regulamentul (CEE) nr. 1536/92 al Consiliului din 9 iunie 1992 privind stabilirea normelor comune de comercializare pentru conservele de ton și de pălămidă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1536",
+   "versions": [
+    {
+     "from": "1992-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a6e1191-db40-4b6f-abf2-a80e05270f3d.0022.04/DOC_6",
+     "sha256": "f8e11e58c527a50eb9fb31fd058aa9e43bd604270b9c6d6662072efd392f969b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1764-1992",
+   "path": "ue/regulament/1992/1764",
+   "short": "Regulamentul (CEE) nr. 1764/92",
+   "title": "Regulamentul (CEE) nr. 1764/92 al Consiliului din 29 iunie 1992 de modificare a regimului aplicabil la importul în Comunitate al anumitor produse agricole originare din Algeria, Cipru, Egipt, Iordania, Israel, Liban, Malta, Maroc, Siria și Tunisia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1764",
+   "versions": [
+    {
+     "from": "1992-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf03e69a-649c-4f75-aed1-f8e78d2bfec9.0022.04/DOC_1",
+     "sha256": "386b2a644534a789d0283bf9dfc45f4ed9e8346aee61ace27d46621776555f88"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1776-1992",
+   "path": "ue/regulament/1992/1776",
+   "short": "Regulamentul (CEE) nr. 1776/92",
+   "title": "Regulamentul (CEE) nr. 1776/92 al Comisiei din 30 iunie 1992 privind depozitarea produselor din cereale și orez în antrepozite vamale înainte de export",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1776",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc33f82c-eb8c-48ce-be17-b16ab75a2746.0022.03/DOC_8",
+     "sha256": "3e8589987d9b9aa3a59861d1b5b2dc6cea081707ad0b1486586f025362162000"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1911-1992",
+   "path": "ue/regulament/1992/1911",
+   "short": "Regulamentul (CEE) nr. 1911/92",
+   "title": "Regulamentul (CEE) nr. 1911/92 al Comisiei din 9 iulie 1992 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R1911",
+   "versions": [
+    {
+     "from": "1992-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9653e96c-5fd1-4712-be90-a0a7fe529bfd.0022.03/DOC_1",
+     "sha256": "43b47edf92d5083fbe8a2e38f6fe545ff8c2a555d5f7514c6ef500c3d6614a29"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2087-1992",
+   "path": "ue/regulament/1992/2087",
+   "short": "Regulamentul (CEE) nr. 2087/92",
+   "title": "Regulamentul (CEE) nr. 2087/92 al Comisiei din 22 iulie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R2087",
+   "versions": [
+    {
+     "from": "1992-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c03cef05-978c-471f-8608-0b8a76c4b6c9.0022.03/DOC_1",
+     "sha256": "6879b921f33144e9dc0f76b5f2af0712208a20792befd6de662ceb42d358984c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2812-1992",
+   "path": "ue/regulament/1992/2812",
+   "short": "Regulamentul (CEE) nr. 2812/92",
+   "title": "Regulamentul (CEE) nr. 2812/92 al Comisiei din 25 septembrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R2812",
+   "versions": [
+    {
+     "from": "1992-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4873e33-8515-4011-aa17-7b686a7ff70c.0022.03/DOC_1",
+     "sha256": "42d0f14a983074d92c3265863d5f74875c12ed1406d736412c02302aeb52af14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-284-1992",
+   "path": "ue/regulament/1992/284",
+   "short": "Regulamentul (CEE) nr. 284/92",
+   "title": "Regulamentul (CEE) nr. 284/92 al Consiliului din 3 februarie 1992 de modificare, în ceea ce privește politica agricolă comună, a Regulamentului (CEE) nr. 1911/91 privind aplicarea dispozițiilor dreptului comunitar în Insulele Canare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0284",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3840a552-2012-4a40-831a-d55332e38700.0020.01/DOC_1",
+     "sha256": "1e3c2a9b9678cd6f60921d47394d939ae6fbdcd5482fe64bd440beaeef53a405"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2933-1992",
+   "path": "ue/regulament/1992/2933",
+   "short": "Regulamentul (CEE) nr. 2933/92",
+   "title": "Regulamentul (CEE) nr. 2933/92 al Comisiei din 7 octombrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R2933",
+   "versions": [
+    {
+     "from": "1992-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4454ebe6-1012-4c62-ac03-f4e5e147d255.0022.03/DOC_1",
+     "sha256": "6e31a33d56f0193e0d6d86687b749c27cce19a352a3bdd711b25c870f40e9762"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2949-1992",
+   "path": "ue/regulament/1992/2949",
+   "short": "Regulamentul (CEE) nr. 2949/92",
+   "title": "Regulamentul (CEE) nr. 2949/92 al Comisiei din 9 octombrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R2949",
+   "versions": [
+    {
+     "from": "1992-11-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ffac5638-23ce-4da9-b655-3f9f8394a5d7.0022.03/DOC_1",
+     "sha256": "96cc4d02387073377a6a2e0502cc1e1d8a5f06b9ec4ee6379f5e817d4e9794b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3180-1992",
+   "path": "ue/regulament/1992/3180",
+   "short": "Regulamentul CELEX 31992R3180",
+   "title": "REGULAMENTUL (CEE) NR. 3180/92 AL COMISIEI din 28 octombrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3180",
+   "versions": [
+    {
+     "from": "1992-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/111993de-6819-4bfc-911e-f95ff748da05.0020.04/DOC_1",
+     "sha256": "b80da6dcca8136c276a30b263b59b8e2a709b08f6d03572babd8a2b96fa32e52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-338-1992",
+   "path": "ue/regulament/1992/338",
+   "short": "Regulamentul (CEE) nr. 338/92",
+   "title": "Regulamentul (CEE) nr. 338/92 al Comisiei din 12 februarie 1992 de stabilire a normelor de aplicare a Regulamentului Consiliului (CEE) nr. 3763/91 cu privire la contingentul comunitar pentru importul a 8000 de tone de tărâțe de grâu încadrate la codul NC 230230 originare din Statele ACP în departamentul francez al Insulei Réunion",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0338",
+   "versions": [
+    {
+     "from": "1992-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2736cd48-522c-453e-abac-71a1b955d55a.0022.03/DOC_7",
+     "sha256": "5ad0843d5bdc0431454f18b4c6270dff77b8fa9ef5f06f0a0fb36357ecd77ec1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3513-1992",
+   "path": "ue/regulament/1992/3513",
+   "short": "Regulamentul (CEE) nr. 3513/92",
+   "title": "Regulamentul (CEE) nr. 3513/92 al Comisiei din 3 decembrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3513",
+   "versions": [
+    {
+     "from": "1992-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5eebd1fa-85c1-4319-9dd2-b8e52a922adb.0022.03/DOC_1",
+     "sha256": "3c3f7530b60d2228ed9ccaf184f47e079d2f55660069a34bc4f4c3904bd9c7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3541-1992",
+   "path": "ue/regulament/1992/3541",
+   "short": "Regulamentul (CEE) nr. 3541/92",
+   "title": "Regulamentul (CEE) nr. 3541/92 al Consiliului din 7 decembrie 1992 de interzicere a admiterii cererilor irakiene privind contractele și tranzacțiile a căror executare a fost afectată de Rezoluția nr. 661 (1990) a Consiliului de Securitate al Organizației Națiunilor Unite și de rezoluțiile conexe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3541",
+   "versions": [
+    {
+     "from": "1992-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f2c1eb3-a91c-4fdd-8168-35cb5475db30.0022.05/DOC_1",
+     "sha256": "05d384f1a64f7871bf636fa646be9df5feacc28d13d07b8a94d29eba2ffd8c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3576-1992",
+   "path": "ue/regulament/1992/3576",
+   "short": "Regulamentul (CEE) nr. 3576/92",
+   "title": "Regulamentul (CEE) nr. 3576/92 al Consiliului din 7 decembrie 1992 privind definirea noțiunii de „produse originare” aplicabilă anumitor produse minerale și anumitor produse din industria chimică sau din industriile conexe, în cadrul regimurilor tarifare preferențiale acordate de Comunitate țărilor terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3576",
+   "versions": [
+    {
+     "from": "1992-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59043a4c-e322-4751-8eb9-85fde37e8cad.0022.05/DOC_1",
+     "sha256": "598ec77a1d06492031992f39b6e6caef52c06c2ab94644b980c1d24e2e935fcf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3577-1992",
+   "path": "ue/regulament/1992/3577",
+   "short": "Regulamentul (CEE) nr. 3577/92",
+   "title": "Regulamentul (CEE) nr. 3577/92 al Consiliului din 7 decembrie 1992 de aplicare a principiului liberei circulații a serviciilor la transporturile maritime în interiorul statelor membre (cabotaj maritim)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3577",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fd80393-83ef-4b45-addd-c925299bac89.0022.03/DOC_2",
+     "sha256": "448fa04a1d8932fad55d6deded957e090822590eff90bc4e672de92821952937"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3587-1992",
+   "path": "ue/regulament/1992/3587",
+   "short": "Regulamentul (CEE) nr. 3587/92",
+   "title": "Regulamentul (CEE) nr. 3587/92 al Comisiei din 11 decembrie 1992 de modificare a Regulamentului (CEE) nr. 3164/89 de stabilire a normelor de aplicare a măsurilor speciale cu privire la semințele de cânepă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3587",
+   "versions": [
+    {
+     "from": "1992-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/237dbba6-4a26-495e-8232-86626a68b1e7.0022.04/DOC_3",
+     "sha256": "ead3d13a5f9e3d1bf142db0b1ce4d9310204b4f9fa6f3f697b42bab222984e01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3600-1992",
+   "path": "ue/regulament/1992/3600",
+   "short": "Regulamentul (CEE) nr. 3600/92",
+   "title": "Regulamentul (CEE) nr. 3600/92 al Comisiei din 11 decembrie 1992 de stabilire a normelor de punere în aplicare a primei etape a programului de lucru prevăzut la articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului privind introducerea pe piață a produselor fitosanitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3600",
+   "versions": [
+    {
+     "from": "1993-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b796f011-af53-467a-80bf-d508a421d17a.0022.04/DOC_4",
+     "sha256": "3d720cfa8ef5bd6ec70b3de4dc97a1c1d92ce1d582d94dc914fdf3f7608e26d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3667-1992",
+   "path": "ue/regulament/1992/3667",
+   "short": "Regulamentul (CEE) nr. 3667/92",
+   "title": "Regulamentul (CEE) nr. 3667/92 al Comisiei din 18 decembrie 1992 de modificare a Regulamentului (CEE) nr. 1840/92 privind termenul de comunicare către Comisie a cantităților de produse care fac obiectul cererilor admisibile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3667",
+   "versions": [
+    {
+     "from": "1992-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c2f4f9f-01f1-473f-98ec-6d72e6d9c9d0.0022.03/DOC_1",
+     "sha256": "da36e8001ed280c20f5a7c84c39ec403693e75f0d82d9942a95a4fb78e287cb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3801-1992",
+   "path": "ue/regulament/1992/3801",
+   "short": "Regulamentul CELEX 31992R3801",
+   "title": "REGULAMENTUL (CEE) NR. 3801/92 AL COMISIEI din 23 decembrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3801",
+   "versions": [
+    {
+     "from": "1993-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d469c702-e7f0-42a1-ab5c-671ce3e0a3cb.0020.03/DOC_9",
+     "sha256": "75229611d15594684513ea18ff741f1f7ad910fe9d484a78b527ad88979eeb71"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3802-1992",
+   "path": "ue/regulament/1992/3802",
+   "short": "Regulamentul CELEX 31992R3802",
+   "title": "REGULAMENTUL (CEE) NR. 3802/92 AL COMISIEI din 23 decembrie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3802",
+   "versions": [
+    {
+     "from": "1993-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b051a0c-80dd-4982-8676-7143daae69ee.0020.03/DOC_1",
+     "sha256": "d7f9372c94869499c6a089941fbec38d68b42df0563e11f0843733c2697cd849"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3830-1992",
+   "path": "ue/regulament/1992/3830",
+   "short": "Regulamentul (CEE) nr. 3830/92",
+   "title": "Regulamentul (CEE) nr. 3830/92 al Comisiei din 28 decembrie 1992 privind eliminarea taxelor vamale și a elementelor fixe în cadrul schimburilor dintre Comunitatea celor zece și Spania și aplicarea de către Spania a taxelor Tarifului Vamal Comun în schimburile cu țările terțe, începând din 1 ianuarie 1993",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3830",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b022aae-50c4-47dc-b6fe-a24644dbe29c.0022.04/DOC_9",
+     "sha256": "4dcd965c6852babcef9e0dd90c9b7557c3a45593964df568dc2d94cb22c025b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3912-1992",
+   "path": "ue/regulament/1992/3912",
+   "short": "Regulamentul (CEE) nr. 3912/92",
+   "title": "Regulamentul (CEE) nr. 3912/92 al Consiliului din 17 decembrie 1992 privind controalele efectuate în interiorul Comunității în domeniul transporturilor rutiere și transporturilor pe căile navigabile interioare efectuate cu mijloace de transport înmatriculate sau puse în circulație într-un stat terț",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3912",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a803cd1-0a1e-4697-82ac-d0670fbb317f.0022.03/DOC_1",
+     "sha256": "5459068d112a4f5915c9bddeac09adbb08f68d666bb0ea39af6ff2488d800ccc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3944-1992",
+   "path": "ue/regulament/1992/3944",
+   "short": "Regulamentul (CEE) nr. 3944/92",
+   "title": "Regulamentul (CEE) nr. 3944/92 al Comisiei din 30 decembrie 1992 de introducere a unui sistem dublu de control destinat monitorizării anumitor produse textile originare din Bangladesh",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3944",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b08ce812-56e7-4969-93e1-deb99ec6fe66.0022.05/DOC_2",
+     "sha256": "d67e4bfb29661221658f2de4028e99d6126505996aad6f9a0a7fc29192cd437a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3949-1992",
+   "path": "ue/regulament/1992/3949",
+   "short": "Regulamentul CELEX 31992R3949",
+   "title": "REGULAMENTUL (CEE) NR. 3949/92 AL CONSILIULUI din 21 decembrie 1992 privind realizarea unei anchete referitoare la costul manoperei în industrie și servicii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3949",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/66c3cb9f-7c82-4fb5-bd80-dfac35ee45b8.0020.03/DOC_1",
+     "sha256": "799e0763b010e354246b433ad8630f1afa77da60d9cd2232ae5d9e5b912e6c1d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3955-1992",
+   "path": "ue/regulament/1992/3955",
+   "short": "Regulamentul (CEE) nr. 3955/92",
+   "title": "Regulamentul (CEE) nr. 3955/92 al Consiliului din 21 decembrie 1992 privind încheierea în numele Comunității Economice Europene a Acordului de înființare a unui Centru Internațional pentru Știință și Tehnologie între Statele Unite ale Americii, Japonia, Federația Rusă și, acționând ca o singură parte, Comunitatea Europeană a Energiei Atomice și Comunitatea Economică Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3955",
+   "versions": [
+    {
+     "from": "1993-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d865d093-6395-41fa-9979-2eeaa12d4c49.0022.04/DOC_1",
+     "sha256": "85b62ba7d3142c47dfbbaa188117d8ed8d956fc115a35262cd9f86c5856d62c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3956-1992",
+   "path": "ue/regulament/1992/3956",
+   "short": "Regulamentul CELEX 31992R3956",
+   "title": "Regulamentul nr. 3956/92 al Comisiei (Euratom) din 21 decembrie 1992 privind încheierea de către Comunitatea Europeană a Energiei Atomice a Acordului de înființare a unui Centru Internațional pentru Știință și Tehnologie între Statele Unite ale Americii, Japonia, Federația Rusă și, acționând ca o singură parte, Comunitatea Europeană a Energiei Atomice și Comunitatea Economică Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R3956",
+   "versions": [
+    {
+     "from": "1993-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f785a017-b0cc-41da-99b3-4e21d7d41142.0022.04/DOC_1",
+     "sha256": "41a78790235528b1dfa760a1ebad993340edb207311a328ab6ba1890c856dad6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-396-1992",
+   "path": "ue/regulament/1992/396",
+   "short": "Regulamentul (CEE) nr. 396/92",
+   "title": "Regulamentul (CEE) nr. 396/92 al Comisiei din 18 februarie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0396",
+   "versions": [
+    {
+     "from": "1992-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/665fcfa9-d47a-440b-8e11-ecec805501af.0022.03/DOC_1",
+     "sha256": "6618102ce96824a385594021fd7d1cc9720bcdc54e98db18f92b73e3758b5387"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-509-1992",
+   "path": "ue/regulament/1992/509",
+   "short": "Regulamentul CELEX 31992R0509",
+   "title": "REGULAMENTUL (CEE) NR. 509/92 AL COMISIEI din 28 februarie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0509",
+   "versions": [
+    {
+     "from": "1992-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/181e0882-496d-4e90-a9c3-c108ea84004c.0021.04/DOC_1",
+     "sha256": "1fbd8a24e4af4be89ddaf1252996251a69b31960001020dbd49212a288be589f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-597-1992",
+   "path": "ue/regulament/1992/597",
+   "short": "Regulamentul (CEE) nr. 597/92",
+   "title": "Regulamentul (CEE) nr. 597/92 al Comisiei din 6 martie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0597",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2a2ebad-fac2-481c-84ab-3811aa0e29a2.0022.03/DOC_1",
+     "sha256": "1dd09ddc7bbdded1d95d550dba966960a545882d90604ff7a547ca6b71672775"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-601-1992",
+   "path": "ue/regulament/1992/601",
+   "short": "Regulamentul (CEE) nr. 601/92",
+   "title": "Regulamentul (CEE) nr. 601/92 al Consiliului din 2 martie 1992 privind introducerea unui sistem de supraveghere prealabilă pentru importurile anumitor produse textile originare din Albania, Republica Estonia, Republica Letonia și Republica Lituania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0601",
+   "versions": [
+    {
+     "from": "1992-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8cf795a1-a50d-4f01-9fcd-84db33ced959.0020.05/DOC_1",
+     "sha256": "338dc5fd7831cae484e7a60326805af7fe623acc97b1669f04064efd18e2d343"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-840-1992",
+   "path": "ue/regulament/1992/840",
+   "short": "Regulamentul (CEE) nr. 840/92",
+   "title": "Regulamentul (CEE) nr. 840/92 al Comisiei din 1 aprilie 1992 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992R0840",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7da73cde-65d0-4334-adbd-f9a5a7d5d374.0022.03/DOC_1",
+     "sha256": "d0e9cb05baa20e60f7051781a9e810f0b69102cedd1ad7dd25d64e247e27f84a"
+    }
+   ]
   }
  ]
 }

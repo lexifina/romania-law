@@ -301,6 +301,951 @@
      "sha256": "3f301e2520ad39a922ddad17e3aa8458b1870f581c1272a64ca2d28bb04166ad"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1148-1998",
+   "path": "ue/regulament/1998/1148",
+   "short": "Regulamentul (CE) nr. 1148/98",
+   "title": "Regulamentul (CE) nr. 1148/98 al Comisiei din 2 iunie 1998 de includere în reglementările din sectorul zahărului a modificărilor introduse prin Regulamentul (CE) nr. 2086/97 privind Nomenclatura tarifară și statistică combinată și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1148",
+   "versions": [
+    {
+     "from": "1998-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fecd8c7b-0efe-4d3b-9e85-1a9a5f02b380.0022.03/DOC_1",
+     "sha256": "3929e35bc9f63b9d8bd4d58bd5f74df5fcb0450f365664bd88d639156fc4a89b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1160-1998",
+   "path": "ue/regulament/1998/1160",
+   "short": "Regulamentul (CE) nr. 1160/98",
+   "title": "Regulamentul (CE) nr. 1160/98 al Comisiei din 2 iunie 1998 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1160",
+   "versions": [
+    {
+     "from": "1998-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f221ed15-7cf6-41bd-a635-03a0dc2c4f0e.0022.04/DOC_2",
+     "sha256": "12e59165e66cc06c1b9cfd54aac46da4b14ab8771eb2d52cbaf2328947f19568"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1197-1998",
+   "path": "ue/regulament/1998/1197",
+   "short": "Regulamentul CELEX 31998R1197",
+   "title": "Regulamentul (CE, CECO, Euratom) nr. 1197/98 al Consiliului din 5 iunie 1998 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1197",
+   "versions": [
+    {
+     "from": "1998-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02545857-a1b1-47e6-a3f9-536c15a7e868.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1198-1998",
+   "path": "ue/regulament/1998/1198",
+   "short": "Regulamentul CELEX 31998R1198",
+   "title": "Regulamentul (CE, CECO, Euratom) nr. 1198/1998 al Consiliului din 5 iunie 1998 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și alți agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1198",
+   "versions": [
+    {
+     "from": "1998-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d522500-54cc-4d15-9f6a-289a8320e68b.0022.03/DOC_2",
+     "sha256": "f601af44a6af1625a13b3738a13560e42b6f5df93b04d4da87b188f3522756fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1209-1998",
+   "path": "ue/regulament/1998/1209",
+   "short": "Regulamentul (CE) nr. 1209/98",
+   "title": "Regulamentul (CE) nr. 1209/98 al Comisiei din 10 iunie 1998 privind vânzarea, la prețuri fixate forfetar, a cărnii de vită deținute de către Regatul Unit pentru forțele armate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1209",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b14a0fa2-2cf8-483e-896c-287edfe3c0cb.0022.03/DOC_1",
+     "sha256": "40cb2c17723d1b49da009a227b65684c824dc6838443d8c0652dc801f823742c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1264-1998",
+   "path": "ue/regulament/1998/1264",
+   "short": "Regulamentul (CE) nr. 1264/98",
+   "title": "Regulamentul (CE) nr. 1264/98 al Comisiei din 17 iunie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1264",
+   "versions": [
+    {
+     "from": "1998-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6fe3a1cb-544d-42e8-8ff5-5b74a97fda36.0022.04/DOC_1",
+     "sha256": "44fe69f711ecc3b433e7560ff921a169581041a2936209c21ec36479afee4eb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1265-1998",
+   "path": "ue/regulament/1998/1265",
+   "short": "Regulamentul (CE) nr. 1265/98",
+   "title": "Regulamentul (CE) nr. 1265/98 al Comisiei din 18 iunie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și denumirilor de origine ale produselor agricole și alimentare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1265",
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3ae62a9-9fb1-4a22-89fe-ca496c2116b5.0022.04/DOC_1",
+     "sha256": "fa1dcb59938a7b538efe6b69c151d71e6ac4f086df70db459f7673dee26302a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1266-1998",
+   "path": "ue/regulament/1998/1266",
+   "short": "Regulamentul (CE) nr. 1266/98",
+   "title": "Regulamentul (CE) nr. 1266/98 al Comisiei din 18 iunie 1998 de modificare a Regulamentului (CE) nr. 996/97 privind deschiderea și modul de gestionare a unui contingent tarifar de import pentru mușchiulețul congelat de vită și mânzat, din codul NC 02062991",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1266",
+   "versions": [
+    {
+     "from": "1998-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bebf257-3142-4395-a8b5-53d0f8173748.0022.04/DOC_2",
+     "sha256": "b705f87bba484a64db14b9ef615098d22084ab6e5398574242ca36eb45122aec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-134-1998",
+   "path": "ue/regulament/1998/134",
+   "short": "Regulamentul (CE) nr. 134/98",
+   "title": "Regulamentul (CE) nr. 134/98 al Comisiei din 20 ianuarie 1998 de completare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura stabilită în articolul 17 din Regulamentul (CEE) nr. 2081/92 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0134",
+   "versions": [
+    {
+     "from": "1998-01-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86323ae5-0d01-437d-93ea-6b624354fb28.0022.04/DOC_1",
+     "sha256": "2140810ef2908a93f32609a52cd91669e42f8689cea718abb4bd24f7d72e009f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1340-1998",
+   "path": "ue/regulament/1998/1340",
+   "short": "Regulamentul (CE) nr. 1340/98",
+   "title": "Regulamentul (CE) nr. 1340/98 al Consiliului din 24 iunie 1998 de modificare a Regulamentului (CE) nr. 3290/94 privind adaptările și măsurile tranzitorii necesare în sectorul agricol în vederea aplicării acordurilor încheiate în cadrul negocierilor comerciale multilaterale ale Rundei Uruguay",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1340",
+   "versions": [
+    {
+     "from": "1998-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2642386a-180c-4547-b043-ad1181578b0a.0022.04/DOC_1",
+     "sha256": "d3e8ccbf3ea5f4f72f314c53e31a0065c1ff3f44074910b91f9c7308f71795d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1406-1998",
+   "path": "ue/regulament/1998/1406",
+   "short": "Regulamentul (CE) nr. 1406/98",
+   "title": "Regulamentul (CE) nr. 1406/98 al Comisiei din 1 iulie 1998 de abrogare a măsurilor adoptate la articolul 1 din Regulamentul (CE) nr. 703/98 al Consiliului privind suspendarea anumitor concesii prevăzute de Regulamentul (CE) nr. 3066/95 de stabilire a anumitor concesii sub formă de contingente tarifare comunitare pentru anumite produse agricole și privind adaptarea autonomă și tranzitorie a anumitor concesii agricole prevăzute de acordurile europene pentru a se ține seama de Acordul privind agricultura încheiat în cadrul negocierilor comerciale multilaterale ale Rundei Uruguay",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1406",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/217d2aea-0874-4384-8b82-d11a25539f26.0022.04/DOC_1",
+     "sha256": "cecca409c985de7af81076b897deba414f8dadde178e1dd4954f984e76e0b082"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1436-1998",
+   "path": "ue/regulament/1998/1436",
+   "short": "Regulamentul (CE) nr. 1436/98",
+   "title": "Regulamentul (CE) nr. 1436/98 al Comisiei din 3 iulie 1998 privind autorizarea anumitor aditivi în hrana animalelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1436",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e40117ec-6493-4441-8be1-fc86983de5bc.0022.03/DOC_1",
+     "sha256": "33bce988d096a12749da4a2b45d3a145f849ce73849f12fd867524b5d3551336"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-148-1998",
+   "path": "ue/regulament/1998/148",
+   "short": "Regulamentul (CE) nr. 148/98",
+   "title": "Regulamentul (CE) nr. 148/98 al Comisiei din 22 ianuarie 1998 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2005/97 al Consiliului de stabilire a anumitor norme de aplicare a dispozițiilor speciale privind importurile de ulei de măsline originar din Algeria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0148",
+   "versions": [
+    {
+     "from": "1998-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d4c5dc71-288b-4ac8-b177-faae146aa452.0022.03/DOC_1",
+     "sha256": "fbd066e452ea28082f11a7a148c097d57a89c149d3190bea0c0c48c650115e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-152-1998",
+   "path": "ue/regulament/1998/152",
+   "short": "Regulamentul (CE) nr. 152/98",
+   "title": "Regulamentul (CE) nr. 152/98 al Comisiei din 22 ianuarie 1998 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2006/97 al Consiliului de stabilire a anumitor norme de aplicare a dispozițiilor speciale privind importurile de ulei de măsline originar din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0152",
+   "versions": [
+    {
+     "from": "1998-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/128f21d8-0331-45d3-929a-195750a45255.0022.03/DOC_1",
+     "sha256": "440d04ebe36549d2b3c118bd28cf9461d4f7d3fe47f0c21cacbef5f0d309b7fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1549-1998",
+   "path": "ue/regulament/1998/1549",
+   "short": "Regulamentul (CE) nr. 1549/98",
+   "title": "Regulamentul (CE) nr. 1549/98 al Comisiei din 17 iulie 1998 de completare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1549",
+   "versions": [
+    {
+     "from": "1998-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8efa1f81-c330-4e99-b203-9ed4c365d865.0022.04/DOC_1",
+     "sha256": "38a6bf3d3ae25b9da02fce9f90912eeb6e1132de2b9befa537651899b9901932"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1576-1998",
+   "path": "ue/regulament/1998/1576",
+   "short": "Regulamentul (CE) nr. 1576/98",
+   "title": "Regulamentul (CE) nr. 1576/98 al Comisiei din 22 iulie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1576",
+   "versions": [
+    {
+     "from": "1998-07-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86566a29-2201-42b9-a74d-df1714ffaeaa.0022.04/DOC_3",
+     "sha256": "3d5737d723346c118cbf9ab7feaf394e45ba576f9aeb9c8fdef2cafdaaf98548"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1606-1998",
+   "path": "ue/regulament/1998/1606",
+   "short": "Regulamentul (CE) nr. 1606/98",
+   "title": "Regulamentul (CE) nr. 1606/98 al Consiliului din 29 iunie 1998 de modificare a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii care desfășoară activități independente și cu membrii familiilor acestora care se deplasează în cadrul Comunității și a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71, în vederea extinderii aplicării lor la regimurile speciale pentru funcționari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1606",
+   "versions": [
+    {
+     "from": "1998-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a95c205f-2f84-4129-8d86-3d8b6df26e75.0022.03/DOC_1",
+     "sha256": "089ce921738b181e7196873a2fb0933dd94e48aaff2187b9fe01b24132381695"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1661-1998",
+   "path": "ue/regulament/1998/1661",
+   "short": "Regulamentul (CE) nr. 1661/98",
+   "title": "Regulamentul (CE) nr. 1661/98 al Comisiei din 27 iulie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1661",
+   "versions": [
+    {
+     "from": "1998-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3be880c4-eff3-4045-950f-fae3c0fd2609.0022.04/DOC_1",
+     "sha256": "a75a3222933f3747e48547c613c950fc37402377391058656cdfa6f9f23faa95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1680-1998",
+   "path": "ue/regulament/1998/1680",
+   "short": "Regulamentul (CE) nr. 1680/98",
+   "title": "Regulamentul (CE) nr. 1680/98 al Comisiei din 29 iulie 1998 de modificare a Regulamentului (CE) nr. 936/97 privind deschiderea și modul de gestionare a contingentelor tarifare pentru carnea de vită și mânzat de calitate superioară, proaspătă, refrigerată sau congelată și pentru carnea de bivol congelată și a Regulamentului (CEE) nr. 139/81 de definire a condițiilor pentru includerea anumitor sortimente de carne de vită congelată la subpoziția 02023050 din Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1680",
+   "versions": [
+    {
+     "from": "1998-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a1bb9ab-d1cd-4a45-8da6-3fc1ff27350c.0022.04/DOC_1",
+     "sha256": "1cef30a0dfea98e92d2cf988e2bf6688c0ea5b8cdff0ccb5ddc7bb2fdc74d196"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1718-1998",
+   "path": "ue/regulament/1998/1718",
+   "short": "Regulamentul (CE) nr. 1718/98",
+   "title": "Regulamentul (CE) nr. 1718/98 al Comisiei din 31 iulie 1998 privind clasificarea anumitor produse în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1718",
+   "versions": [
+    {
+     "from": "1998-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbcff290-d3fb-4109-90b9-a00f8f248002.0022.04/DOC_1",
+     "sha256": "4b25a1a1048d45c1c59c693f1379788d6e609fe2106d99686f920f6d122767f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1764-1998",
+   "path": "ue/regulament/1998/1764",
+   "short": "Regulamentul (CE) nr. 1764/98",
+   "title": "Regulamentul (CE) nr. 1764/98 al Comisiei din 10 august 1998 de modificare a Regulamentului (CE) nr. 1439/95 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 3013/89 al Consiliului în ceea ce privește importul și exportul de produse din sectorul cărnii de oaie și de capră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1764",
+   "versions": [
+    {
+     "from": "1998-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5107abb4-8a9d-441b-aea0-fca044a0e4bc.0022.03/DOC_16",
+     "sha256": "2710b16f8fb8098ea33ce27bdc369e8ad4b8e4b84d34129512af0b447a42d8fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1766-1998",
+   "path": "ue/regulament/1998/1766",
+   "short": "Regulamentul (CE) nr. 1766/98",
+   "title": "Regulamentul (CE) nr. 1766/98 al Consiliului din 30 iulie 1998 privind aderarea Comunității Europene și a Comunității Europene a Energiei Atomice, acționând ca o singură parte, la Acordul de înființare a unui Centru pentru Știință și Tehnologie în Ucraina, încheiat la 25 octombrie 1993 între Canada, Suedia, Ucraina și Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1766",
+   "versions": [
+    {
+     "from": "1998-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db97cd2e-9ac4-42fd-a0b6-fba3f0e69fee.0022.05/DOC_1",
+     "sha256": "136e2807fdd17333d0f71b53b1bf86357557a54e40508703838094afc0d40e20"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1858-1998",
+   "path": "ue/regulament/1998/1858",
+   "short": "Regulamentul (CE) nr. 1858/98",
+   "title": "Regulamentul (CE) nr. 1858/98 al Comisiei din 27 august 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1858",
+   "versions": [
+    {
+     "from": "1998-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fefa6fd3-d91a-4c23-8135-18509069498e.0022.04/DOC_1",
+     "sha256": "cce45c14bcc2db02f5bea43c42a17166348c4204574cdecb4e8bc20abcc3184f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1890-1998",
+   "path": "ue/regulament/1998/1890",
+   "short": "Regulamentul (CE) nr. 1890/98",
+   "title": "Regulamentul (CE) nr. 1890/98 al Comisiei din 3 septembrie 1998 de modificare a Regulamentului (CE) nr. 1780/97 de stabilire a modalităților de aplicare a Regulamentului (CE) nr. 723/97 al Consiliului privind punerea în aplicare a programelor de acțiuni ale statelor membre în domeniul controalelor cheltuielilor din FEOGA, secțiunea Garantare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1890",
+   "versions": [
+    {
+     "from": "1998-09-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a2356ec-6a18-47bf-b1cb-4e7f6af7fa1e.0022.03/DOC_20",
+     "sha256": "0ac74b9c027c33ac3b3e44b9c151dc63901cc363628e64b1478b74fec7e94dbe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-195-1998",
+   "path": "ue/regulament/1998/195",
+   "short": "Regulamentul (CE) nr. 195/98",
+   "title": "Regulamentul (CE) nr. 195/98 al Comisiei din 26 ianuarie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0195",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f18017d-e15e-4517-9439-0d7bff54acd1.0022.04/DOC_1",
+     "sha256": "f59d8fc6287c95225cfc65396d87cb690e50bedb0241842c250af590605898e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1980-1998",
+   "path": "ue/regulament/1998/1980",
+   "short": "Regulamentul (CE) nr. 1980/98",
+   "title": "Regulamentul (CE) nr. 1980/98 al Comisiei din 17 septembrie 1998 privind deschiderea și modul de gestionare a contingentelor tarifare comunitare și a plafoanelor tarifare și de stabilire a supravegherii comunitare a cantităților de referință pentru anumite produse agricole originare din țările din Africa, zona Caraibelor și Pacific (ACP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R1980",
+   "versions": [
+    {
+     "from": "1998-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b228787-1c6f-4f4b-8a88-cc336175d752.0022.04/DOC_1",
+     "sha256": "b59c2eb7817822c07384121c1a4c586032f10d786ff4b491debdccf52dd08a31"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-201-1998",
+   "path": "ue/regulament/1998/201",
+   "short": "Regulamentul (CE) nr. 201/98",
+   "title": "Regulamentul (CE) nr. 201/98 al Comisiei din 26 ianuarie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0201",
+   "versions": [
+    {
+     "from": "1998-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a729f040-65fa-4feb-9fd6-c4e02cb06fd4.0022.04/DOC_1",
+     "sha256": "986100dc9baca34d53cde8476f074a8c224f4c3d8460dc4f8aaf3dc979f4b03a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2088-1998",
+   "path": "ue/regulament/1998/2088",
+   "short": "Regulamentul (CE) nr. 2088/98",
+   "title": "Regulamentul (CE) nr. 2088/98 al Comisiei din 30 septembrie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2088",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e51d06f-f345-4b95-9fdd-3410213b66df.0022.03/DOC_13",
+     "sha256": "733a1e9fdc4e53bf060b1bfa410f74fe75f246d3c9f5f42d50f45af9a47f7834"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2139-1998",
+   "path": "ue/regulament/1998/2139",
+   "short": "Regulamentul (CE) nr. 2139/98",
+   "title": "Regulamentul (CE) nr. 2139/98 al Comisiei din 6 octombrie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 al Comisiei privind înscrierea anumitor denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2139",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc4fc190-eb23-4a38-863b-6ae3ac391bbc.0022.04/DOC_1",
+     "sha256": "87395f3c2748e00e8155a7bf2254d33c738acdd1d46267f2f985721852ce9fbf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2316-1998",
+   "path": "ue/regulament/1998/2316",
+   "short": "Regulamentul (CE) nr. 2316/98",
+   "title": "Regulamentul (CE) nr. 2316/98 al Comisiei din 26 octombrie 1998 privind autorizarea unor aditivi noi și de modificare a condițiilor de autorizare a mai multor aditivi autorizați deja în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2316",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0f42a9bb-7e21-4afa-82b9-c93e4ba99ed2.0022.03/DOC_21",
+     "sha256": "126769a18484560f4a683f1971da3bdf111baf03cfb839936bb0058030c33246"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2374-1998",
+   "path": "ue/regulament/1998/2374",
+   "short": "Regulamentul (CE) nr. 2374/98",
+   "title": "Regulamentul (CE) nr. 2374/98 al Comisiei din 3 noiembrie 1998 privind autorizarea de noi aditivi în hrana animalelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2374",
+   "versions": [
+    {
+     "from": "1998-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77eae2d9-c530-4103-bed2-40d9ea4d27cd.0022.03/DOC_3",
+     "sha256": "9e82781b9c656310f15874a1bfabe377dbf41f1ab0532cca37b7b77eea5b7300"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2387-1998",
+   "path": "ue/regulament/1998/2387",
+   "short": "Regulamentul (Euratom) nr. 2387/98",
+   "title": "Regulamentul (Euratom) nr. 2387/98 al Comisiei din 3 noiembrie 1998 privind aderarea Comunității Europene a Energiei Atomice și a Comunității Europene, acționând ca o singură parte, la Acordul de înființare în 1993 a unui Centru pentru Știință și Tehnologie în Ucraina, încheiat între Canada, Suedia, Ucraina și Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2387",
+   "versions": [
+    {
+     "from": "1998-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f43283b-010f-41a1-9d58-7931418a9ecd.0022.04/DOC_1",
+     "sha256": "c6e0b53501a344ced9767cb1044af65d5922084987a81457d17a38f71580a19d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2411-1998",
+   "path": "ue/regulament/1998/2411",
+   "short": "Regulamentul (CE) nr. 2411/98",
+   "title": "Regulamentul (CE) nr. 2411/98 al Consiliului din 3 noiembrie 1998 privind recunoașterea în cadrul traficului intracomunitar a semnului distinctiv al statului membru în care sunt înmatriculate autovehiculele și remorcile acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2411",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af3c9d35-eaa5-4188-b9e0-ba2aa1554c9a.0022.04/DOC_5",
+     "sha256": "4ce079fb880fc323f454e2fe83df2a44d3a381dc67472ee02b6efde215c98df1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2459-1998",
+   "path": "ue/regulament/1998/2459",
+   "short": "Regulamentul CELEX 31998R2459",
+   "title": "Regulamentul (CE, CECO, Euratom) nr. 2459/98 al Consiliului din 12 noiembrie 1998 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2459",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f94d4a4f-7a7d-4047-ad56-1e0eec582323.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2461-1998",
+   "path": "ue/regulament/1998/2461",
+   "short": "Regulamentul CELEX 31998R2461",
+   "title": "Regulamentul (CE, CECO, Euratom) nr. 2461/98 al Consiliului din 12 noiembrie 1998 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 300/76 de stabilire a categoriilor de beneficiari care au dreptul la indemnizații pentru muncă neîntreruptă sau în schimburi, a condițiilor de acordare și a cuantumului acestor indemnizații",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2461",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8e2357d-64a0-4e4c-9ac4-72ae0f51c900.0022.03/DOC_2",
+     "sha256": "28315ca2f91c46552926fb862fa1a4efdd6b4454efbde072f86bb82f106dab15"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2469-1998",
+   "path": "ue/regulament/1998/2469",
+   "short": "Regulamentul (CE) nr. 2469/98",
+   "title": "Regulamentul (CE) nr. 2469/98 al Consiliului din 9 noiembrie 1998 privind încheierea Acordului dintre Comunitatea Europeană și Republica Gaboneză cu privire la pescuitul în largul coastei gaboneze",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2469",
+   "versions": [
+    {
+     "from": "1998-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/328784f5-ebc9-4f50-ad9d-a3b891bbb24d.0022.04/DOC_1",
+     "sha256": "f9a3cfea618ddd11f94a5ee626d824dbbda84e2da10aa372658cb656097c6dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2518-1998",
+   "path": "ue/regulament/1998/2518",
+   "short": "Regulamentul (CE) nr. 2518/98",
+   "title": "Regulamentul (CE) nr. 2518/98 al Comisiei din 23 noiembrie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2518",
+   "versions": [
+    {
+     "from": "1998-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b61cd886-a067-4241-a761-08520cdf377e.0022.04/DOC_2",
+     "sha256": "f1e90b6b53a75015a10160f0fcf880625dd784e074d8700e4178639af109fd51"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2531-1998",
+   "path": "ue/regulament/1998/2531",
+   "short": "Regulamentul (CE) nr. 2531/98",
+   "title": "Regulamentul (CE) nr. 2531/98 al Consiliului din 23 noiembrie 1998 privind aplicarea rezervelor obligatorii de către Banca Centrală Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2531",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27002005-841a-42da-8ab2-336c72adcb22.0022.04/DOC_1",
+     "sha256": "fe6c56e9366b409131fa8844d86dc574049478fbf95ace9e5e267f2884856320"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2532-1998",
+   "path": "ue/regulament/1998/2532",
+   "short": "Regulamentul (CE) nr. 2532/98",
+   "title": "Regulamentul (CE) nr. 2532/98 al Consiliului din 23 noiembrie 1998 cu privire la atribuțiile Băncii Centrale Europene în materie de sancțiuni",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2532",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42272b5b-660c-4ef7-b41b-6a154dacca50.0022.04/DOC_1",
+     "sha256": "0794ec13ea3241498317a7395c38089c01698bf1c57a33a0bd94da9965ae594b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2533-1998",
+   "path": "ue/regulament/1998/2533",
+   "short": "Regulamentul (CE) nr. 2533/98",
+   "title": "Regulamentul (CE) nr. 2533/98 al Consiliului din 23 noiembrie 1998 privind colectarea informațiilor statistice de către Banca Centrală Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2533",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57b2b696-4909-4833-8f38-519c5c9521e7.0022.04/DOC_1",
+     "sha256": "65772213260caa541b10033b201b7881339331ab1901a6aca3413563e97475f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2559-1998",
+   "path": "ue/regulament/1998/2559",
+   "short": "Regulamentul (CE) nr. 2559/98",
+   "title": "Regulamentul (CE) nr. 2559/98 al Comisiei din 27 noiembrie 1998 de modificare a Regulamentului (CE) nr. 3199/93 privind recunoașterea reciprocă a procedurilor de denaturare completă a alcoolului în vederea scutirii de la plata accizelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2559",
+   "versions": [
+    {
+     "from": "1998-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6527c1c-b166-44d8-a6be-7f8e1eeceffc.0022.04/DOC_1",
+     "sha256": "ecea39a530004f9893911d1980adaf4698db096fcd9515ad4469676fcf7c8bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-1998",
+   "path": "ue/regulament/1998/260",
+   "short": "Regulamentul (CE) nr. 260/98",
+   "title": "Regulamentul (CE) nr. 260/98 al Comisiei din 30 ianuarie 1998 de modificare a Regulamentului (CE) nr. 1445/95 privind normele de aplicare a regimului certificatelor de import și export în sectorul cărnii de vită și mânzat și a Regulamentelor (CE) nr. 589/96, (CE) nr. 935/97, (CE) nr. 936/97, (CE) nr. 995/97, (CE) nr. 996/97, (CE) nr. 1006/97, (CE) nr. 1042/97, (CE) nr. 1376/97, (CE) nr. 1939/97 și (CE) nr. 1940/97",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0260",
+   "versions": [
+    {
+     "from": "1998-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af4b7679-1c7a-42f1-b744-7ace6a9e640d.0022.04/DOC_2",
+     "sha256": "32b9e2f837aedac0d58dbd0495c8f7a0685424bfef7531a856609b2ffb690346"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2605-1998",
+   "path": "ue/regulament/1998/2605",
+   "short": "Regulamentul (CE) nr. 2605/98",
+   "title": "Regulamentul (CE) nr. 2605/98 al Comisiei din 3 decembrie 1998 de modificare a Regulamentului (CE) nr. 1768/95 de stabilire a normelor de aplicare a derogării prevăzute la articolul 14 alineatul (3) din Regulamentul (CE) nr. 2100/94 al Consiliului de instituire a unui regim de protecție comunitară a soiurilor de plante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2605",
+   "versions": [
+    {
+     "from": "1998-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0f5c6b5e-e6bd-4abd-adaa-0058e103fe61.0022.04/DOC_4",
+     "sha256": "ec163ea0ad09efc5a838d94d3a404a12d45b1295d44d866a4bd26b027d91d059"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2647-1998",
+   "path": "ue/regulament/1998/2647",
+   "short": "Regulamentul (CE) nr. 2647/98",
+   "title": "Regulamentul (CE) nr. 2647/98 al Comisiei din 9 decembrie 1998 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2330/98 al Consiliului privind acordarea unei indemnizații anumitor producători de lapte sau de produse lactate, care au fost supuși unor restricții temporare în exercitarea activității lor, precum și a formularului de cerere de indemnizație",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2647",
+   "versions": [
+    {
+     "from": "1998-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c022d04e-1166-465a-a9d0-5b0475940f1e.0022.03/DOC_6",
+     "sha256": "c75bb5db78398af76b0858f06b263f8fa5c7dae8b34957e030132a14c11290f4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2679-1998",
+   "path": "ue/regulament/1998/2679",
+   "short": "Regulamentul (CE) nr. 2679/98",
+   "title": "Regulamentul (CE) nr. 2679/98 al Consiliului din 7 decembrie 1998 privind funcționarea pieței interne în legătură cu libera circulație a mărfurilor între statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2679",
+   "versions": [
+    {
+     "from": "1998-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a99c3a7-d90b-4de0-a976-d515f0a293ae.0022.05/DOC_1",
+     "sha256": "7d837388926700bfd99a6f85a06053c0257105e4097039e5f2644b5e8535901e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2699-1998",
+   "path": "ue/regulament/1998/2699",
+   "short": "Regulamentul (CE) nr. 2699/98",
+   "title": "Regulamentul (CE) nr. 2699/98 al Comisiei din 17 decembrie 1998 privind derogările care pot fi acordate pentru statisticile structurale de întreprindereText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2699",
+   "versions": [
+    {
+     "from": "1999-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/286aae39-4524-4432-97d7-f5e5d987a469.0022.04/DOC_4",
+     "sha256": "d46a9fc48dca3d022e60673618f4cab8852f2fafc60d0f16c1e588ca3bc6d9c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-272-1998",
+   "path": "ue/regulament/1998/272",
+   "short": "Regulamentul (CE) nr. 272/98",
+   "title": "Regulamentul (CE) nr. 272/98 al Comisiei din 2 februarie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0272",
+   "versions": [
+    {
+     "from": "1998-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5425802-961c-4097-9d6b-732837be364e.0022.04/DOC_1",
+     "sha256": "89844286988c6926170011e816936182193e751042448aa5795289fcb5bbdb11"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2784-1998",
+   "path": "ue/regulament/1998/2784",
+   "short": "Regulamentul (CE) nr. 2784/98",
+   "title": "Regulamentul (CE) nr. 2784/98 al Comisiei din 22 decembrie 1998 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protejarea indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2784",
+   "versions": [
+    {
+     "from": "1998-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8ea4da4-1dfd-476d-8fe1-4339cdbb462b.0022.04/DOC_1",
+     "sha256": "c010b15c4ec55cb62ee9b4fbf3a9a785f1dd81a1ac8051e18068fb5d77c3c6d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2785-1998",
+   "path": "ue/regulament/1998/2785",
+   "short": "Regulamentul (CE) nr. 2785/98",
+   "title": "Regulamentul (CE) nr. 2785/98 al Comisiei din 22 decembrie 1998 de modificare a duratei de autorizare a aditivilor prevăzuți la articolul 9e alineatul (3) din Directiva 70/524/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2785",
+   "versions": [
+    {
+     "from": "1998-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1eabfbe2-2ecb-44f0-a7ac-59352e13f8ad.0022.03/DOC_3",
+     "sha256": "4516c041defebd93d2cbd5e4ac60f6002cd191dcf7a1dbd242f3550e3542c55a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2825-1998",
+   "path": "ue/regulament/1998/2825",
+   "short": "Regulamentul (CE) nr. 2825/98",
+   "title": "Regulamentul (CE) nr. 2825/98 al Consiliului din 22 decembrie 1998 privind scutirea de drepturile prevăzute de Tariful Vamal Comun aplicabile importurilor în Comunitate de preparate și conserve de sardine originare din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2825",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ecd3bd6d-8db2-4454-8eb5-311f9f159a17.0022.04/DOC_1",
+     "sha256": "0f878c3a039dc61dc720462eb0ad6a5bf8cff98774f183d56269b2ea4d1d66fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2866-1998",
+   "path": "ue/regulament/1998/2866",
+   "short": "Regulamentul (CE) nr. 2866/98",
+   "title": "Regulamentul (CE) nr. 2866/98 al Consiliului din 31 decembrie 1998 privind ratele de conversie între moneda euro și monedele statelor membre care adoptă moneda euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R2866",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43cd6b36-b6da-4475-8a85-c11c43fc41e6.0013.04/DOC_1",
+     "sha256": "509f699980cb88e74c5b0fdfc4f94508f2d648ab9358967644b16cc027f273bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-299-1998",
+   "path": "ue/regulament/1998/299",
+   "short": "Regulamentul (CE) nr. 299/98",
+   "title": "Regulamentul (CE) nr. 299/98 al Comisiei din 5 februarie 1998 de abrogare a Regulamentului (CE) nr. 2351/97 de suspendare a dreptului vamal preferențial și de restabilire a dreptului din Tariful Vamal Comun la importurile de trandafiri cu floare mică, originari din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0299",
+   "versions": [
+    {
+     "from": "1998-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3801a26c-5911-488c-9a4c-fa834eca0390.0022.04/DOC_1",
+     "sha256": "8ae8f69987b31b8373e2a962247777789a774094e7d027c95b95053ff0a1b142"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-448-1998",
+   "path": "ue/regulament/1998/448",
+   "short": "Regulamentul (CE) nr. 448/98",
+   "title": "Regulamentul (CE) nr. 448/98 al Consiliului din 16 februarie 1998 de modificare a Regulamentului (CE) nr. 2223/96 privind repartiția serviciilor de intermediere financiară măsurate indirect (SIFIM) în cadrul Sistemului European de conturi naționale și regionale (SEC)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0448",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1156fc50-9ff6-4cc0-90da-f7ef5f7dd7a7.0022.03/DOC_4",
+     "sha256": "fdf486382373a5d7fd0432cbc6ae73c236c87a40911ecc93a561d70bd9fcaca2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-496-1998",
+   "path": "ue/regulament/1998/496",
+   "short": "Regulamentul (CE) nr. 496/98",
+   "title": "Regulamentul (CE) nr. 496/98 al Comisiei din 27 februarie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0496",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1370ad20-5d5e-4aaa-8f91-60679f93a3c9.0022.04/DOC_1",
+     "sha256": "5b6a57b805b97f9dbfbaeeef6ba730082deaed9f72e7376eb677924d0b40571c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-497-1998",
+   "path": "ue/regulament/1998/497",
+   "short": "Regulamentul (CE) nr. 497/98",
+   "title": "Regulamentul (CE) nr. 497/98 al Comisiei din 27 februarie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0497",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8a01fc6-2e41-4eb7-a4b6-eddde10a7a73.0022.04/DOC_2",
+     "sha256": "7f5d347aab8d4c7486c35c31dacacc815ade6de7f77fe4861a811105af22dbe0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-575-1998",
+   "path": "ue/regulament/1998/575",
+   "short": "Regulamentul (CE) nr. 575/98",
+   "title": "Regulamentul (CE) nr. 575/98 al Comisiei din 12 martie 1998 privind eliberarea certificatelor de import de orez și de brizură de orez pentru cererile prezentate în temeiul articolului 2 alineatul (2) din Regulamentul (CE) nr. 327/98 (tranșă suplimentară din ianuarie 1998)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0575",
+   "versions": [
+    {
+     "from": "1998-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6616becf-83cc-4f6e-8b89-8f10b85c7ea7.0022.04/DOC_2",
+     "sha256": "25aed4dfdfbdd07f43b94e8da0bbae38afb6225492c6b31e3b333ce287343c26"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-622-1998",
+   "path": "ue/regulament/1998/622",
+   "short": "Regulamentul (CE) nr. 622/98",
+   "title": "Regulamentul (CE) nr. 622/98 al Consiliului din 16 martie 1998 privind asistența în favoarea statelor candidate în cadrul strategiei de preaderare, în special instituirea de parteneriate pentru aderare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0622",
+   "versions": [
+    {
+     "from": "1998-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2adca0cc-04c8-44e8-afdf-3a28690de44f.0022.04/DOC_1",
+     "sha256": "371c1eca7b9f97f7f524c705ec84535eadaa349672ad072de1c325279f856bd2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-644-1998",
+   "path": "ue/regulament/1998/644",
+   "short": "Regulamentul (CE) nr. 644/98",
+   "title": "Regulamentul (CE) nr. 644/98 al Comisiei din 20 martie 1998 de completare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0644",
+   "versions": [
+    {
+     "from": "1998-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/486a9abf-f305-4366-b635-756ebda54e34.0022.04/DOC_1",
+     "sha256": "d6825ddd7c4ba52e2bbb551f20ae07a2ad102225ffda447063feb638d224d5f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-77-1998",
+   "path": "ue/regulament/1998/77",
+   "short": "Regulamentul (CE) nr. 77/98",
+   "title": "Regulamentul (CE) nr. 77/98 al Consiliului din 9 ianuarie 1998 privind unele proceduri de punere în aplicare a Acordului de cooperare între Comunitatea Europeană și Fosta Republică Iugoslavă a Macedoniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0077",
+   "versions": [
+    {
+     "from": "1998-01-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e956a482-ee42-4b9b-9f76-a3bf980b7207.0022.04/DOC_2",
+     "sha256": "f8097f31a955892f7937e2f41dca32ccecd2a682504de543c5b63230dc94f30c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-846-1998",
+   "path": "ue/regulament/1998/846",
+   "short": "Regulamentul (CE) nr. 846/98",
+   "title": "Regulamentul (CE) nr. 846/98 al Comisiei din 22 aprilie 1998 de modificare a Regulamentului (CE) nr. 2008/97 al Consiliului și de abrogare a Regulamentului (CE) nr. 151/98",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0846",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25980f96-27d6-4e9b-9514-e36f626df4ef.0022.03/DOC_1",
+     "sha256": "753aa409cc6c4f2a84cbe89d1a53af197f1d9962775a891d2a0a2944d96ba9e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-955-1998",
+   "path": "ue/regulament/1998/955",
+   "short": "Regulamentul (CE) nr. 955/98",
+   "title": "Regulamentul (CE) nr. 955/98 al Comisiei din 29 aprilie 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0955",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b413345-847f-4bd2-ae2b-fa1029574be3.0022.04/DOC_2",
+     "sha256": "be01dd22ef02fbe4ee2bc891a71dfae6dabbfb7a122a1dac0e2dfa683a10a420"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-974-1998",
+   "path": "ue/regulament/1998/974",
+   "short": "Regulamentul (CE) nr. 974/98",
+   "title": "Regulamentul (CE) nr. 974/98 al Consiliului din 3 mai 1998 privind introducerea euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0974",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3937aa6f-3cba-4fea-aaa0-6fce2c99bb60.0022.03/DOC_9",
+     "sha256": "bc17aab9964f2cb5b526c536459810ed54a4df18bf85a07e5d9cd2553665d1c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-981-1998",
+   "path": "ue/regulament/1998/981",
+   "short": "Regulamentul (CE) nr. 981/98",
+   "title": "Regulamentul (CE) nr. 981/98 al Comisiei din 7 mai 1998 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998R0981",
+   "versions": [
+    {
+     "from": "1998-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67be90c3-0b08-4a91-a63e-224b727a7cca.0022.04/DOC_2",
+     "sha256": "fe8ac87a215232302b2a7503baf8e3929282d8522d8b11eea5d25b3a25251212"
+    }
+   ]
   }
  ]
 }

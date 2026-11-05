@@ -256,6 +256,531 @@
      "sha256": "6e031a108689739ed06a47ec23f2843a873bb37dd5b11f8216b5ac283adbed7c"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1108-1993",
+   "path": "ue/regulament/1993/1108",
+   "short": "Regulamentul (CEE) nr. 1108/93",
+   "title": "Regulamentul (CEE) nr. 1108/93 al Consiliului din 4 mai 1993 de stabilire a anumitor dispoziții pentru aplicarea acordurilor bilaterale privind agricultura încheiate între Comunitate, pe de o parte, și Austria, Finlanda, Islanda, Norvegia și Suedia, pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1108",
+   "versions": [
+    {
+     "from": "1993-05-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9bf64a71-51c8-4220-87b6-7e7a34082475.0020.03/DOC_11",
+     "sha256": "8ad40f61fa89adaba35129682486af1d26e368ef866fbe4d7e84dbc4252a14f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1380-1993",
+   "path": "ue/regulament/1993/1380",
+   "short": "Regulamentul (CEE) nr. 1380/93",
+   "title": "Regulamentul (CEE) nr. 1380/93 al Comisiei din 4 iunie 1993 privind eliminarea taxelor vamale și a elementelor fixe în cadrul schimburilor dintre Portugalia și restul Comunității și aplicarea de către Portugalia a taxelor Tarifului Vamal Comun în schimburile cu țările terțe, începând din 1 aprilie 1993",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1380",
+   "versions": [
+    {
+     "from": "1993-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ebe6fdb0-7270-44fb-a02a-2041e217ef70.0022.03/DOC_11",
+     "sha256": "c65310ef9232db8f337b5f0283c8bf6fb3b9dd0b67005f83d97d1c3edc671d58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1395-1993",
+   "path": "ue/regulament/1993/1395",
+   "short": "Regulamentul (CEE) nr. 1395/93",
+   "title": "Regulamentul (CEE) nr. 1395/93 al Comisiei din 4 iunie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1395",
+   "versions": [
+    {
+     "from": "1993-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/230d3c15-4153-4501-9336-b6e9a7debf10.0022.04/DOC_6",
+     "sha256": "758f304a418057e21168754157919a76cd642a89abbef51508db5ba8395623eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1431-1993",
+   "path": "ue/regulament/1993/1431",
+   "short": "Regulamentul (CEE) nr. 1431/93",
+   "title": "Regulamentul (CEE) nr. 1431/93 al Comisiei din 10 iunie 1993 de modificare a Regulamentului (CEE) nr. 120/89 de stabilire a normelor comune de aplicare a prelevărilor și a impunerilor la export la produsele agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1431",
+   "versions": [
+    {
+     "from": "1993-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbc45065-8cef-4549-b954-b36f4fae03b0.0022.03/DOC_11",
+     "sha256": "656f7c04d183534ef3a0be00cfce55d44376d60b104050359b0fa2990726b4dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1486-1993",
+   "path": "ue/regulament/1993/1486",
+   "short": "Regulamentul (CEE) nr. 1486/93",
+   "title": "Regulamentul (CEE) nr. 1486/93 al Comisiei din 16 iunie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1486",
+   "versions": [
+    {
+     "from": "1993-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/778c96d5-30cd-4b61-baa0-7a68f3704855.0020.04/DOC_6",
+     "sha256": "6b06dcced46d67b09817fe37554d60a94fde56edefca520d1ded2bdf7f1b9dba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1493-1993",
+   "path": "ue/regulament/1993/1493",
+   "short": "Regulamentul (Euratom) nr. 1493/93",
+   "title": "Regulamentul (Euratom) nr. 1493/93 al Consiliului din 8 iunie 1993 privind transportul substanțelor radioactive între statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1493",
+   "versions": [
+    {
+     "from": "1993-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ace87f0-f299-4303-bb82-6bb35b61258a.0022.04/DOC_1",
+     "sha256": "5e9b72986bfdf60c6cc52ace559981dd6ee9737cfcfe5f622e0ddbd640369455"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1574-1993",
+   "path": "ue/regulament/1993/1574",
+   "short": "Regulamentul (CEE) nr. 1574/93",
+   "title": "Regulamentul (CEE) nr. 1574/93 al Consiliului din 14 iunie 1993 de modificare a Regulamentului (CEE) nr. 2771/75 privind organizarea comună a piețelor în sectorul ouălor, a Regulamentului (CEE) nr. 2777/75 privind organizarea comună a piețelor în sectorul cărnii de pasăre, a Regulamentului (CEE) nr. 827/68 privind organizarea comună a piețelor pentru unele produse enumerate în anexa II la tratat și a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1574",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d4519617-9900-4773-a36c-067a627663d0.0020.04/DOC_2",
+     "sha256": "cafa170d31e5c8d892f55fdd34f475af021734ed923e6680efa810b82f3c53a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1611-1993",
+   "path": "ue/regulament/1993/1611",
+   "short": "Regulamentul (CEE) nr. 1611/93",
+   "title": "Regulamentul (CEE) nr. 1611/93 al Comisiei din 24 iunie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1611",
+   "versions": [
+    {
+     "from": "1993-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9822f27e-f46d-4945-9df5-44dfd85b8fdb.0022.04/DOC_5",
+     "sha256": "986237b09467d83391dbbf70bfc4aba0e557b6c9c36ba0d48ea2d11c9d7415b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1737-1993",
+   "path": "ue/regulament/1993/1737",
+   "short": "Regulamentul (CEE) nr. 1737/93",
+   "title": "Regulamentul (CEE) nr. 1737/93 al Consiliului din 24 iunie 1993 privind încheierea Acordului între Comunitatea Economică Europeană și Republica Islanda privind pescuitul și mediul marin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1737",
+   "versions": [
+    {
+     "from": "1993-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3930d60-5c2f-4cd3-b731-69cbbf9a7563.0022.03/DOC_6",
+     "sha256": "c3c7178155d724860147f6feb33bb9b0aff5a3f47f88266cf0b4df3a8d75cd48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1825-1993",
+   "path": "ue/regulament/1993/1825",
+   "short": "Regulamentul (CEE) nr. 1825/93",
+   "title": "Regulamentul (CEE) nr. 1825/93 al Comisiei din 7 iulie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1825",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4ba57127-9087-42c7-879b-c43daaa06f4f.0022.04/DOC_1",
+     "sha256": "55477dcc7c20d9cc37cdf020e04d15cd086f005f08d5d4977ee157215fd781c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1891-1993",
+   "path": "ue/regulament/1993/1891",
+   "short": "Regulamentul (CEE) nr. 1891/93",
+   "title": "Regulamentul (CEE) nr. 1891/93 al Consiliului din 12 iulie 1993 de modificare a Regulamentului (CEE) nr. 3759/92 privind organizarea comună a piețelor în sectorul produselor pescărești și de acvacultură și a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1891",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/202c4638-cd9e-4d78-b864-e0da941779c7.0020.04/DOC_4",
+     "sha256": "3fd3a60cf2332c74780879806a7c1ad144b143b6e6fb922499c511f362b35b92"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1943-1993",
+   "path": "ue/regulament/1993/1943",
+   "short": "Regulamentul (CEE) nr. 1943/93",
+   "title": "Regulamentul (CEE) nr. 1943/93 al Comisiei din 16 iulie 1993 referitor la eliberarea documentelor de import pentru conservele de anumite specii de ton și de pălămidă originare din anumite țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1943",
+   "versions": [
+    {
+     "from": "1993-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8431bd6d-ca46-40f2-93d4-39386814a48d.0020.03/DOC_8",
+     "sha256": "2540ab72580dc2e66d80c87b0defb6cca56a6d69a93bc46c377d6dfb8e12ee9f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1945-1993",
+   "path": "ue/regulament/1993/1945",
+   "short": "Regulamentul (CEE) nr. 1945/93",
+   "title": "Regulamentul (CEE) nr. 1945/93 al Consiliului din 30 iunie 1993 de modificare a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, lucrătorii care desfășoară activități independente și membrii familiilor acestora care se deplasează în cadrul Comunității, a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71 și a Regulamentului (CEE) nr. 1247/92 de modificare a Regulamentului (CEE) nr. 1408/71",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1945",
+   "versions": [
+    {
+     "from": "1993-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfa4ddaf-859c-4743-b209-3524638cb1b1.0022.03/DOC_10",
+     "sha256": "3922fb686dd8e3ca5b349a755974ddcfb5498b56d0544d913fceb61eef070863"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1959-1993",
+   "path": "ue/regulament/1993/1959",
+   "short": "Regulamentul (CEE) nr. 1959/93",
+   "title": "Regulamentul (CEE) nr. 1959/93 al Comisiei din 19 iulie 1993 de modificare a Regulamentului (CEE) nr. 2658/87 al Consiliului privind Nomenclatura statistică și tarifară și Tariful Vamal Comun și a Regulamentului (CEE) nr. 3565/88 al Comisiei privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1959",
+   "versions": [
+    {
+     "from": "1993-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4c25b54-a01a-41f4-92bc-c3bdbee4d50f.0020.04/DOC_3",
+     "sha256": "e3a5158732c668efefe49f408940794340c579885ad5c4fb2e514cf28d7bfdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1969-1993",
+   "path": "ue/regulament/1993/1969",
+   "short": "Regulamentul (CEE) nr. 1969/93",
+   "title": "Regulamentul (CEE) nr. 1969/93 al Consiliului din 19 iulie 1993 de modificare a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R1969",
+   "versions": [
+    {
+     "from": "1993-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f71e77a-ec6d-4eb2-bedf-0146754e16c9.0020.04/DOC_6",
+     "sha256": "1b80f73ff2c39ae5eb9058c326ae7c7219e00cad7716b5fbaee1a36419283423"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2174-1993",
+   "path": "ue/regulament/1993/2174",
+   "short": "Regulamentul (CEE) nr. 2174/93",
+   "title": "Regulamentul (CEE) nr. 2174/93 al Comisiei din 2 august 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R2174",
+   "versions": [
+    {
+     "from": "1993-08-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2335021e-de9e-4e90-854a-1b8582592e94.0022.04/DOC_2",
+     "sha256": "4d5b45979fc70ccaf08c88d76e3fe38d2ad70a565b7bf4ba9dfe90165537c363"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2291-1993",
+   "path": "ue/regulament/1993/2291",
+   "short": "Regulamentul (CEE) nr. 2291/93",
+   "title": "Regulamentul (CEE) nr. 2291/93 al Comisiei din 13 august 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R2291",
+   "versions": [
+    {
+     "from": "1993-09-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b88a886b-b596-4379-a74b-809a7e912c07.0022.04/DOC_2",
+     "sha256": "fd5ca289607241fc2e5d3fdcc542816956265e69536ae31fbc8ab616435bccf7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-25-1993",
+   "path": "ue/regulament/1993/25",
+   "short": "Regulamentul (CEE) nr. 25/93",
+   "title": "Regulamentul (CEE) nr. 25/93 al Comisiei din 8 ianuarie 1993 referitor la eliberarea documentelor de import pentru conservele din anumite specii de ton și de pălămidă originare din anumite țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0025",
+   "versions": [
+    {
+     "from": "1993-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5462bf3-8df4-49fd-aedc-368a02dff000.0022.04/DOC_4",
+     "sha256": "9b65357cfeb49971275b76274f533882430eb820ac8d7a90ef64dbfc73df1bee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-315-1993",
+   "path": "ue/regulament/1993/315",
+   "short": "Regulamentul (CEE) nr. 315/93",
+   "title": "Regulamentul (CEE) nr. 315/93 al Consiliului din 8 februarie 1993 de stabilire a procedurilor comunitare privind contaminanții din alimente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0315",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/928b6e8f-0a41-449b-a8fd-b514d78b2d31.0022.04/DOC_2",
+     "sha256": "9283304cb69a15fe628bcc99b86687f1320d8cea9745af47d716e78fae4138a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3199-1993",
+   "path": "ue/regulament/1993/3199",
+   "short": "Regulamentul (CE) nr. 3199/93",
+   "title": "Regulamentul (CE) nr. 3199/93 al Comisiei din 22 noiembrie 1993 privind recunoașterea reciprocă a procedurilor pentru denaturarea completă a alcoolului în scopul scutirii de la plata accizelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3199",
+   "versions": [
+    {
+     "from": "1993-11-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8417bfaf-608a-4b22-ba96-399cc01e841c.0022.04/DOC_1",
+     "sha256": "7d87b8d0332ee8b696ea2bbe958662d388b4607c85221869568bbf260a9d728d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3275-1993",
+   "path": "ue/regulament/1993/3275",
+   "short": "Regulamentul (CE) nr. 3275/93",
+   "title": "Regulamentul (CE) nr. 3275/93 al Consiliului din 29 noiembrie 1993 de interzicere a aprobării cererilor privind contractele și tranzacțiile a căror executare a fost afectată de Rezoluția nr. 883 (1993) a Consiliului de Securitate al Organizației Națiunilor Unite și de rezoluțiile conexe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3275",
+   "versions": [
+    {
+     "from": "1993-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/217c24bc-f847-420d-88ab-e5e809bc4bd9.0022.04/DOC_1",
+     "sha256": "08505885fd5a833a78e73827574d088ed6aa9dcdad3e7c5add77c4c5bbac09c8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3295-1993",
+   "path": "ue/regulament/1993/3295",
+   "short": "Regulamentul (CE) nr. 3295/93",
+   "title": "Regulamentul (CE) nr. 3295/93 al Comisiei din 26 noiembrie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3295",
+   "versions": [
+    {
+     "from": "1993-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68ec63fc-bbdb-4348-af6b-ff580ebc201d.0020.04/DOC_5",
+     "sha256": "73329252a2ac0d51e65a0930bec76b7f7902a37d038f3cb313786f601ef09307"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3329-1993",
+   "path": "ue/regulament/1993/3329",
+   "short": "Regulamentul (CE) nr. 3329/93",
+   "title": "Regulamentul (CE) nr. 3329/93 al Consiliului din 29 noiembrie 1993 privind încheierea unui acord în domeniul pescuitului între Comunitatea Economică Europeană și guvernul Comunității Dominica",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3329",
+   "versions": [
+    {
+     "from": "1993-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52d82eb9-11ce-4207-9f2e-9048d98ffe2b.0022.03/DOC_3",
+     "sha256": "02359538d22dc70f799463a5f15523aa42771db55ad0dd4dc0fc79d96924086d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3447-1993",
+   "path": "ue/regulament/1993/3447",
+   "short": "Regulamentul (CEE) nr. 3447/93",
+   "title": "Regulamentul (CEE) nr. 3447/93 al Consiliului din 28 septembrie 1993 privind încheierea acordului între Comunitatea Economică Europeană și Republica Argentina privind relațiile în sectorul pescuitului marin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3447",
+   "versions": [
+    {
+     "from": "1993-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5951f699-5adc-448b-86f3-f1ed8335ef81.0022.03/DOC_7",
+     "sha256": "0a19e37b75e465a9fbd622461d02e64445501e4d262074e1a9e16d4c963b2e03"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-350-1993",
+   "path": "ue/regulament/1993/350",
+   "short": "Regulamentul (CEE) nr. 350/93",
+   "title": "Regulamentul (CEE) nr. 350/93 al Comisiei din 17 februarie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0350",
+   "versions": [
+    {
+     "from": "1993-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04c1821e-89bf-4493-8418-7b546ef7802a.0022.03/DOC_1",
+     "sha256": "6113651489bf1162e3e4396c6a16bba6078e4d9cf96bbbeab404907b034ab9f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3603-1993",
+   "path": "ue/regulament/1993/3603",
+   "short": "Regulamentul (CE) nr. 3603/93",
+   "title": "Regulamentul (CE) nr. 3603/93 al Consiliului din 13 decembrie 1993 de precizare a definițiilor necesare aplicării interdicțiilor menționate la articolele 104 și 104b alineatul (1) din tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3603",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3cd387cb-315d-4ffe-accf-3d8fa1efc0a8.0022.03/DOC_9",
+     "sha256": "7d1168cae309996d08755ed1afa5094ab081436301bde6cdd73c05de95c1272e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3604-1993",
+   "path": "ue/regulament/1993/3604",
+   "short": "Regulamentul (CE) nr. 3604/93",
+   "title": "Regulamentul (CE) nr. 3604/93 al Consiliului din 13 decembrie 1993 de stabilire a definițiilor pentru aplicarea interdicției accesului privilegiat prevăzute la articolul 104a din tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3604",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99548b33-4e30-474f-833b-26a4435d6b41.0020.03/DOC_6",
+     "sha256": "4c7cb1198a774cb6e2dc4fa9b5661971973c0112073302d4450249b20f1396c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3675-1993",
+   "path": "ue/regulament/1993/3675",
+   "short": "Regulamentul (CE) nr. 3675/93",
+   "title": "Regulamentul (CE) nr. 3675/93 al Consiliului din 20 decembrie 1993 de încheiere a acordului sub forma unui schimb de scrisori între Comunitatea Economică Europeană și guvernul Canadei privind relațiile în domeniul pescuitului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R3675",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/238c44f4-cd1e-4a44-b389-14312dff4352.0022.03/DOC_7",
+     "sha256": "0c0d8ef5eb4f95a9587024e26c196a09656357b55c59c5bf1185507fa876484f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-696-1993",
+   "path": "ue/regulament/1993/696",
+   "short": "Regulamentul (CEE) nr. 696/93",
+   "title": "Regulamentul (CEE) nr. 696/93 al Consiliului din 15 martie 1993 privind unitățile statistice pentru observarea și analizarea sistemului de producție comunitar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0696",
+   "versions": [
+    {
+     "from": "1993-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ea18a1a-95c2-4922-935c-116d8694cc40.0022.03/DOC_3",
+     "sha256": "4ed8c316bf8fca2f4cbfa5224ae270de79791835c3e9e58cdad67f78f07c783c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-697-1993",
+   "path": "ue/regulament/1993/697",
+   "short": "Regulamentul (CEE) nr. 697/93",
+   "title": "Regulamentul (CEE) nr. 697/93 al Consiliului din 17 martie 1993 de modificare a Regulamentului (CEE) nr. 3759/92 privind organizarea comună a piețelor în sectorul produselor pescărești și de acvacultură și de modificare a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0697",
+   "versions": [
+    {
+     "from": "1993-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35ec0f54-07fc-4e04-83ad-d59e0e1f7d7a.0020.03/DOC_1",
+     "sha256": "38aea6e44d0f9c61b3078113c094daf2873a8088c7653cd763725112eeaf91b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-719-1993",
+   "path": "ue/regulament/1993/719",
+   "short": "Regulamentul (CEE) nr. 719/93",
+   "title": "Regulamentul (CEE) nr. 719/93 al Comisiei din 25 martie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0719",
+   "versions": [
+    {
+     "from": "1993-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f1854d3-583a-4580-8038-affe4c5014cf.0022.03/DOC_1",
+     "sha256": "681d0499d2a354b7dab7642f63faf0c29518fc1cfa560de53b8379e51c3caa69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-731-1993",
+   "path": "ue/regulament/1993/731",
+   "short": "Regulamentul (CEE) nr. 731/93",
+   "title": "Regulamentul (CEE) nr. 731/93 al Comisiei din 26 martie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0731",
+   "versions": [
+    {
+     "from": "1993-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/494785d3-f0ae-4cda-8383-67d45f76ba28.0022.03/DOC_1",
+     "sha256": "eacf5a49a7cd0603f21e4c8194f9c3ea03ca6f3aa923acee1f8fac702ee4285d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-826-1993",
+   "path": "ue/regulament/1993/826",
+   "short": "Regulamentul (CEE) nr. 826/93",
+   "title": "Regulamentul (CEE) nr. 826/93 al Consiliului din 6 aprilie 1993 de modificare a Regulamentului (CEE) nr. 183/93 de modificare a Regulamentului (CEE) nr. 2568/91 privind caracteristicile uleiului de măsline și ale uleiului din resturi de măsline și metodele de analiză relevante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0826",
+   "versions": [
+    {
+     "from": "1993-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3cdca91-9da7-4157-968e-4cacd90a9cc0.0020.03/DOC_2",
+     "sha256": "1358564ee2a5e6903bb9257343e616b972c90ea1f4ed37614fce13c016d66785"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-893-1993",
+   "path": "ue/regulament/1993/893",
+   "short": "Regulamentul (CEE) nr. 893/93",
+   "title": "Regulamentul (CEE) nr. 893/93 al Comisiei din 13 aprilie 1993 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0893",
+   "versions": [
+    {
+     "from": "1993-05-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07b8d45c-04a3-4296-8202-a107fc89f7dc.0022.03/DOC_1",
+     "sha256": "8271e0944ca103cfad00e15d2654d26fab67e0a8f57289766ed21c6dbf6f1b70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-95-1993",
+   "path": "ue/regulament/1993/95",
+   "short": "Regulamentul (CEE) nr. 95/93",
+   "title": "Regulamentul (CEE) nr. 95/93 al Consiliului din 18 ianuarie 1993 privind normele comune de alocare a sloturilor orare pe aeroporturile comunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993R0095",
+   "versions": [
+    {
+     "from": "1993-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f875c72f-117d-4fc1-96e1-8d3f2c13806d.0022.03/DOC_1",
+     "sha256": "1e2b5d102eebbd85f448c4e5a5e4cc4c12803d4a0fadcb24d7657e47420cebd9"
+    }
+   ]
   }
  ]
 }

@@ -226,6 +226,531 @@
      "sha256": "ec240e8bc8d50fddce59967784a573d1b95721ed2948a6196126866d52642e37"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-104-1991",
+   "path": "ue/regulament/1991/104",
+   "short": "Regulamentul (CEE) nr. 104/91",
+   "title": "Regulamentul (CEE) nr. 104/91 al Comisiei din 16 ianuarie 1991 privind importul anumitor măsline în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0104",
+   "versions": [
+    {
+     "from": "1991-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05dcde7a-ab9a-4cb6-86ec-1b504cd72af7.0022.03/DOC_15",
+     "sha256": "0515e117a586f8ff09943e492215c6112b0070169661105546bc90929dd29082"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1134-1991",
+   "path": "ue/regulament/1991/1134",
+   "short": "Regulamentul (CEE) nr. 1134/91",
+   "title": "Regulamentul (CEE) nr. 1134/91 al Consiliului din 29 aprilie 1991 privind regimul tarifar aplicabil importurilor în Comunitate de produse originare din teritoriile ocupate și de abrogare a Regulamentului (CEE) nr. 3363/86",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1134",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f115c08f-efc8-4979-98da-4d3a497036af.0022.03/DOC_1",
+     "sha256": "124716d6ff4457c6f512e16d98d12424a7d3bbb30d726bd0b4549909d347e799"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1176-1991",
+   "path": "ue/regulament/1991/1176",
+   "short": "Regulamentul (CEE) nr. 1176/91",
+   "title": "Regulamentul (CEE) nr. 1176/91 al Comisiei din 6 mai 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1176",
+   "versions": [
+    {
+     "from": "1991-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/544272cc-8033-40ee-bee2-d8e8ee86d8af.0022.03/DOC_2",
+     "sha256": "e6885134a1a28ea59a8a9641234fe70b8fc5337920c4887acce779f2218e38dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1214-1991",
+   "path": "ue/regulament/1991/1214",
+   "short": "Regulamentul (CEE) nr. 1214/91",
+   "title": "Regulamentul (CEE) nr. 1214/91 al Comisiei din 7 mai 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1214",
+   "versions": [
+    {
+     "from": "1991-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a42117d-9f2c-403b-a086-7c3526dbe94a.0022.04/DOC_1",
+     "sha256": "a9d6189c89ddb6f352a3a1e2cc875189b7866eefaefdf3c091c5c9483522c544"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-128-1991",
+   "path": "ue/regulament/1991/128",
+   "short": "Regulamentul (CEE) nr. 128/91",
+   "title": "Regulamentul (CEE) nr. 128/91 al Comisiei din 18 ianuarie 1991 de modificare a Regulamentului (CEE) nr. 3792/90 privind condițiile speciale de acordare a ajutorului pentru depozitarea în regim privat a cărnii de porc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0128",
+   "versions": [
+    {
+     "from": "1991-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1169d9c-1e9c-4e88-a0e8-d6b9892b4ce7.0022.04/DOC_8",
+     "sha256": "4803222fbc330ceb181e21dd47b0c6dcd183b65137cb1a71cf88be2787383945"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1288-1991",
+   "path": "ue/regulament/1991/1288",
+   "short": "Regulamentul (CEE) nr. 1288/91",
+   "title": "Regulamentul (CEE) nr. 1288/91 al Comisiei din 14 mai 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1288",
+   "versions": [
+    {
+     "from": "1991-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bb8b42d-03af-41e8-990a-71e6fcd288b4.0022.03/DOC_3",
+     "sha256": "653404ef377c77409a17b8ca44f72bc075c546a7c3345de6f3aac468eea1249b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1534-1991",
+   "path": "ue/regulament/1991/1534",
+   "short": "Regulamentul (CEE) nr. 1534/91",
+   "title": "Regulamentul (CEE) nr. 1534/91 al Consiliului din 31 mai 1991 privind aplicarea articolului 85 alineatul (3) din tratat anumitor categorii de acorduri, decizii și practici concertate în sectorul asigurărilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1534",
+   "versions": [
+    {
+     "from": "1991-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d54a56f-0b8d-415e-b211-91f0c79e4637.0022.03/DOC_1",
+     "sha256": "530fa5a7b7fc1d5caf8f3efcabf3a31428612e901914c679b108265915bb9903"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1796-1991",
+   "path": "ue/regulament/1991/1796",
+   "short": "Regulamentul (CEE) nr. 1796/91",
+   "title": "Regulamentul (CEE) nr. 1796/91 al Comisiei din 24 iunie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1796",
+   "versions": [
+    {
+     "from": "1991-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6d10fa0-4a2e-4572-8258-6b80383b5f91.0022.03/DOC_1",
+     "sha256": "ba96a6c9899f76580ad9ed5e9e497ca0e6aa34de350b87c83a078ced5f6980e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1911-1991",
+   "path": "ue/regulament/1991/1911",
+   "short": "Regulamentul (CEE) nr. 1911/91",
+   "title": "Regulamentul (CEE) nr. 1911/91 al Consiliului din 26 iunie 1991 privind aplicarea dispozițiilor dreptului comunitar în Insulele Canare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R1911",
+   "versions": [
+    {
+     "from": "1991-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55cec094-c2bb-4f9b-b6ae-0a5666856105.0022.04/DOC_1",
+     "sha256": "e0c10f7009a9335bf052e5e552355f9958cf8290ab322caf9aa90813cf7df456"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2080-1991",
+   "path": "ue/regulament/1991/2080",
+   "short": "Regulamentul (CEE) nr. 2080/91",
+   "title": "Regulamentul (CEE) nr. 2080/91 al Comisiei din 16 iulie 1991 de înlocuire în unele regulamente privind clasificarea mărfurilor a codurilor stabilite pe baza Nomenclaturii Tarifului Vamal Comun în vigoare la 31 decembrie 1987 cu cele stabilite pe baza Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R2080",
+   "versions": [
+    {
+     "from": "1991-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/936bc217-7238-4e94-a291-51f6c00a6708.0022.03/DOC_1",
+     "sha256": "082ccba7f69c7a005d3567b798e6c3bee0df0d31ecb0a91c06a5cd6c91a82e4b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2084-1991",
+   "path": "ue/regulament/1991/2084",
+   "short": "Regulamentul (CEE) nr. 2084/91",
+   "title": "Regulamentul (CEE) nr. 2084/91 al Comisiei din 12 iulie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R2084",
+   "versions": [
+    {
+     "from": "1991-08-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48ffdc9b-8eaf-4185-8dae-1c636555f183.0022.04/DOC_1",
+     "sha256": "192d5044898fb83e392d6934687fdc72f683638836de185ff8262f0f26daefba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2155-1991",
+   "path": "ue/regulament/1991/2155",
+   "short": "Regulamentul (CEE) nr. 2155/91",
+   "title": "Regulamentul (CEE) nr. 2155/91 al Consiliului din 20 iunie 1991 de stabilire a dispozițiilor speciale privind aplicarea articolelor 37, 39 și 40 din acordul dintre Comunitatea Economică Europeană și Confederația Elvețiană privind asigurarea directă alta decât asigurarea de viață",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R2155",
+   "versions": [
+    {
+     "from": "1991-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aaf8b539-7f8c-42b4-8818-7f7471aefeac.0022.04/DOC_1",
+     "sha256": "32d21f5eecd0e94e1602bc0d5725ed4304e0f4921ea4c6c9dd0ddfcf74953ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2399-1991",
+   "path": "ue/regulament/1991/2399",
+   "short": "Regulamentul (CEE) nr. 2399/91",
+   "title": "Regulamentul (CEE) nr. 2399/91 al Comisiei din 6 august 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R2399",
+   "versions": [
+    {
+     "from": "1991-08-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54ef116a-7221-43e9-85b5-264cf80070ab.0022.03/DOC_3",
+     "sha256": "bd5ec7daed7ebc40f8c5326b56ca7de85ea9d778343864c417f54c6109174cb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2507-1991",
+   "path": "ue/regulament/1991/2507",
+   "short": "Regulamentul (CEE) nr. 2507/91",
+   "title": "Regulamentul (CEE) nr. 2507/91 al Comisiei din 20 august 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R2507",
+   "versions": [
+    {
+     "from": "1991-09-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec7b3d90-d91a-43f6-b632-18f39aaf777c.0022.03/DOC_2",
+     "sha256": "3e6e0d76ac83b6669a43e958115e62d6312bf31ed9fc08e212056174b34ccd1d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3085-1991",
+   "path": "ue/regulament/1991/3085",
+   "short": "Regulamentul (CEE) nr. 3085/91",
+   "title": "Regulamentul (CEE) nr. 3085/91 al Comisiei din 21 octombrie 1991 de modificare a Regulamentului (CEE) nr. 2275/88 al Comisiei din 25 iulie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3085",
+   "versions": [
+    {
+     "from": "1991-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e64e4c7b-5a12-45ba-aa63-96d53dfa434b.0022.03/DOC_1",
+     "sha256": "d1ad4fdd9478296ffc3ead1201ca9f877f035b8573a27a95bc96c41a742354f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-316-1991",
+   "path": "ue/regulament/1991/316",
+   "short": "Regulamentul (CEE) nr. 316/91",
+   "title": "Regulamentul (CEE) nr. 316/91 al Comisiei din 7 februarie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0316",
+   "versions": [
+    {
+     "from": "1991-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/30ab402b-a172-41ac-8576-4658f7f601b6.0022.03/DOC_2",
+     "sha256": "94f788782ae267ad18833638a40c5e4f2a25d5eb2882ecabb23dde378613171e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3254-1991",
+   "path": "ue/regulament/1991/3254",
+   "short": "Regulamentul (CEE) nr. 3254/91",
+   "title": "Regulamentul (CEE) nr. 3254/91 al Consiliului din 4 noiembrie 1991 de interzicere a utilizării capcanei cu pedală în Comunitate și de introducere în Comunitate a blănurilor și a produselor prelucrate de la anumite specii de animale sălbatice originare din țări care le capturează folosind capcana cu pedală sau alte metode în dezacord cu standardele internaționale de vânătoare cu capcane cu suferință minimă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3254",
+   "versions": [
+    {
+     "from": "1991-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54ed0db5-8487-42ac-8e05-11046ef3485f.0022.04/DOC_4",
+     "sha256": "a329501c5de2864f2ac76cd6d5d959d650ea42d07829c5edfe1b35d1af9b4d2c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3402-1991",
+   "path": "ue/regulament/1991/3402",
+   "short": "Regulamentul (CEE) nr. 3402/91",
+   "title": "Regulamentul (CEE) nr. 3402/91 al Consiliului din 19 noiembrie 1991 de modificare a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun, precum și a Regulamentului (CEE) nr. 2915/79 de stabilire a grupelor de produse și a dispozițiilor speciale privind calculul taxelor în sectorul laptelui și produselor lactate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3402",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/470a713d-526b-419a-8b59-bfee3db41fca.0020.03/DOC_3",
+     "sha256": "86973f6babc50d8c33a654f771f17b76082c83283024d454282f50bf7625e37f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3411-1991",
+   "path": "ue/regulament/1991/3411",
+   "short": "Regulamentul (CEE) nr. 3411/91",
+   "title": "Regulamentul (CEE) nr. 3411/91 al Comisiei din 21 noiembrie 1991 de modificare a Regulamentului (CEE) nr. 964/91 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3411",
+   "versions": [
+    {
+     "from": "1991-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab155637-4f35-4dba-9d95-524ac7dc1d8a.0022.03/DOC_3",
+     "sha256": "7a6534ff3ac8f8e9e15f9c52889c9f1c6069a4bbd371041f30f692fe543ca5d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3425-1991",
+   "path": "ue/regulament/1991/3425",
+   "short": "Regulamentul (CEE) nr. 3425/91",
+   "title": "Regulamentul (CEE) nr. 3425/91 al Comisiei din 25 noiembrie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3425",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b650667-9bb1-451b-83ac-d2fd500c11e4.0022.03/DOC_1",
+     "sha256": "46be6ac67250d51d7213384518ccbbd9fc1c920e3c79b0c195b794209e76fbf4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3579-1991",
+   "path": "ue/regulament/1991/3579",
+   "short": "Regulamentul (CEE) nr. 3579/91",
+   "title": "Regulamentul (CEE) nr. 3579/91 al Consiliului din 25 noiembrie 1991 privind punerea în aplicare a Deciziei nr. 3/91 a Consiliului de cooperare CEE-Iordania de modificare, ca urmare a introducerii Sistemului Armonizat, a Protocolului nr. 2 privind definirea noțiunii de „produse originare” și metodele de cooperare administrativă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3579",
+   "versions": [
+    {
+     "from": "1991-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/faba2c09-a7ed-4278-979f-5acd647f6c7d.0020.03/DOC_1",
+     "sha256": "600eed9524ee4316c9944af4b710a30235be62d3076323ef4e97ac56f62501fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3580-1991",
+   "path": "ue/regulament/1991/3580",
+   "short": "Regulamentul (CEE) nr. 3580/91",
+   "title": "Regulamentul (CEE) nr. 3580/91 al Consiliului din 25 noiembrie 1991 privind punerea în aplicare a Deciziei nr. 4/91 a Consiliului de cooperare CEE-Iordania de modificare, ca urmare a aderării Spaniei și Portugaliei la Comunitățile Europene, a Protocolului privind definirea noțiunii de „produse originare” și metodele de cooperare administrativă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3580",
+   "versions": [
+    {
+     "from": "1991-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b385abc-c9c5-4e75-b93f-6ba1e2d1e8e3.0020.03/DOC_1",
+     "sha256": "21065eed9eb2922a5b08bcd3ae8eaec8eacdbf5969568ad8c9a7a5e9fa195614"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3594-1991",
+   "path": "ue/regulament/1991/3594",
+   "short": "Regulamentul (CEE) nr. 3594/91",
+   "title": "Regulamentul (CEE) nr. 3594/91 al Comisiei din 11 decembrie 1991 privind procedura aplicabilă în cazul produselor agricole care sunt supuse unor cantități de referință și originare din statele din Africa, Caraibe și Pacific",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3594",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f811d51e-7c62-4daa-a25b-024e14ad1ce3.0022.04/DOC_1",
+     "sha256": "19fdc5cd0b950f2add12e085ed823e159c05a853b180062809c08c9ba857b081"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3640-1991",
+   "path": "ue/regulament/1991/3640",
+   "short": "Regulamentul (CEE) nr. 3640/91",
+   "title": "Regulamentul (CEE) nr. 3640/91 al Comisiei din 13 decembrie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3640",
+   "versions": [
+    {
+     "from": "1992-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6623b6d-8040-4d3f-b1ab-ed9890d7b0c3.0022.03/DOC_4",
+     "sha256": "9d2e5fa152b18fa45bc2afbb3579a8fb208d9088a90f50ab43dc99c1ca1325ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3648-1991",
+   "path": "ue/regulament/1991/3648",
+   "short": "Regulamentul (CEE) nr. 3648/91",
+   "title": "Regulamentul (CEE) nr. 3648/91 al Consiliului din 11 decembrie 1991 de stabilire a modalităților de utilizare a formularului 302 și de abrogare a Regulamentului (CEE) nr. 3690/86 privind eliminarea formalităților vamale în cadrul Convenției TIR la ieșirea dintr-un stat membru cu ocazia trecerii unei frontiere comune pentru două state membre și a Regulamentului (CEE) nr. 4283/88 privind eliminarea anumitor formalități la ieșire cu ocazia trecerii frontierelor interne ale Comunității – introducerea punctelor de frontieră comune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3648",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3054fd35-f17e-46c2-93e4-088195f9b2f1.0020.03/DOC_1",
+     "sha256": "860a62c4cd18b056302ad7ae66a826cc3f90428c2061d8dc1e94589440bdc59b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3657-1991",
+   "path": "ue/regulament/1991/3657",
+   "short": "Regulamentul (CEE) nr. 3657/91",
+   "title": "Regulamentul (CEE) nr. 3657/91 al Comisiei din 16 decembrie 1991 de autorizare a Spaniei în vederea suspendării în totalitate a drepturilor vamale la importurile de semințe de floarea-soarelui din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3657",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35320d0c-b2a0-4aa7-bd81-4082cd7bd647.0020.03/DOC_19",
+     "sha256": "e4c82e913e39c74ace9b0f9f2599e1aa01a1470e51da9bee48a43688ea24683c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3694-1991",
+   "path": "ue/regulament/1991/3694",
+   "short": "Regulamentul (CEE) nr. 3694/91",
+   "title": "Regulamentul (CEE) nr. 3694/91 al Comisiei din 17 decembrie 1991 de modificare a Regulamentului (CEE) nr. 645/89 și abrogare a Regulamentului (CEE) nr. 2404/89 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3694",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99ffa6d9-2ce6-4286-b9d6-4e51967dfffa.0022.03/DOC_2",
+     "sha256": "9d7e557f94f23e0695e205e7bce69a063562f4c95b2e5f623c9c55944a1af62b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3921-1991",
+   "path": "ue/regulament/1991/3921",
+   "short": "Regulamentul (CEE) nr. 3921/91",
+   "title": "Regulamentul (CEE) nr. 3921/91 al Consiliului din 16 decembrie 1991 de stabilire a condițiilor în care transportatorii nerezidenți pot transporta mărfuri sau călători pe căile navigabile interioare în interiorul unui stat membru",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3921",
+   "versions": [
+    {
+     "from": "1994-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d09d82f9-d005-4e5f-b26d-f28201af4fcc.0022.04/DOC_1",
+     "sha256": "bcd25e8a0cfe812e8b34052d3939498a99c192b7b11c70a0ba80afe587199625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3922-1991",
+   "path": "ue/regulament/1991/3922",
+   "short": "Regulamentul (CEE) nr. 3922/91",
+   "title": "Regulamentul (CEE) nr. 3922/91 al Consiliului din 16 decembrie 1991 privind armonizarea cerințelor tehnice și a procedurilor administrative în domeniul aviației civile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R3922",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0ea8a73-37e0-4721-b0db-a4a2ef84a271.0022.03/DOC_1",
+     "sha256": "e44b80cd008cfc2a2e1fc50ba7ed95897ca74312034698ebcd4bbd9636603a38"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-440-1991",
+   "path": "ue/regulament/1991/440",
+   "short": "Regulamentul (CEE) nr. 440/91",
+   "title": "Regulamentul (CEE) nr. 440/91 al Comisiei din 25 februarie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0440",
+   "versions": [
+    {
+     "from": "1991-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aab0888f-6659-462a-bc10-d4ab03c550bd.0022.03/DOC_3",
+     "sha256": "2babf3cec738ab02752080dcd6a760c182d21e5017082a09b42dbe037c022d52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-441-1991",
+   "path": "ue/regulament/1991/441",
+   "short": "Regulamentul (CEE) nr. 441/91",
+   "title": "Regulamentul (CEE) nr. 441/91 al Comisiei din 25 februarie 1991 privind clasificarea anumitor mărfuri la codurile 17041019, 17041099 și 95021010 din Nomenclatura Combinată și de abrogare a Regulamentului (CEE) nr. 1287/83",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0441",
+   "versions": [
+    {
+     "from": "1991-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f1eefbc-8521-46e8-9e95-66cadd2b8b78.0020.03/DOC_2",
+     "sha256": "bf74144e6ac2c1cb6ae1433a7b13a5324f0729f5a93f811c70155b0a9bb22126"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-442-1991",
+   "path": "ue/regulament/1991/442",
+   "short": "Regulamentul (CEE) nr. 442/91",
+   "title": "Regulamentul (CEE) nr. 442/91 al Comisiei din 25 februarie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0442",
+   "versions": [
+    {
+     "from": "1991-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3193ec4-a2f4-4fde-9328-e475e67b819c.0022.04/DOC_2",
+     "sha256": "df94719af57475ab179984020320d866e9ac4c4be57c1a7e416f9d23a83d0459"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-546-1991",
+   "path": "ue/regulament/1991/546",
+   "short": "Regulamentul (CEE) nr. 546/91",
+   "title": "Regulamentul (CEE) nr. 546/91 al Comisiei din 5 martie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0546",
+   "versions": [
+    {
+     "from": "1991-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67f2ed8b-5a81-45df-a708-609cc22b1bcb.0022.03/DOC_1",
+     "sha256": "1ebedb41ecc145fb7ecddc685e9f8a0aa5eb34d707199d4adbdb7734d68f5696"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-639-1991",
+   "path": "ue/regulament/1991/639",
+   "short": "Regulamentul (CEE) nr. 639/91",
+   "title": "Regulamentul (CEE) nr. 639/91 al Comisiei din 14 martie 1991 privind încetarea imputărilor pe baza plafoanelor tarifare deschise în cadrul preferințelor generalizate de Regulamentul (CEE) nr. 3897/89 al Consiliului pentru anumite produse textile originare din Thailanda, Pakistan și China și de abrogare a Regulamentelor (CEE) nr. 3891/90 și (CEE) nr. 3892/90",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0639",
+   "versions": [
+    {
+     "from": "1991-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92649461-f960-46c6-8b58-fcff8ba0e8c5.0020.03/DOC_1",
+     "sha256": "32309b883d871dc7ea5a17526962acc5db127e209ecafc3f2a7f7aba7b76adb8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-964-1991",
+   "path": "ue/regulament/1991/964",
+   "short": "Regulamentul (CEE) nr. 964/91",
+   "title": "Regulamentul (CEE) nr. 964/91 al Comisiei din 18 aprilie 1991 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991R0964",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aba8f2f9-3204-4786-b856-2a7c9e288d34.0022.03/DOC_1",
+     "sha256": "2e6399cd59e4b7dac61ffbfe147f91d4be15c8c9d741d478685f92e8a1ef6769"
+    }
+   ]
   }
  ]
 }

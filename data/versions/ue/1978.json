@@ -91,6 +91,156 @@
      "sha256": "276bb34a18f2bd0cace9f532ef87173b6036804dc1029742c3e424e44a3e7cf7"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1740-1978",
+   "path": "ue/regulament/1978/1740",
+   "short": "Regulamentul (CEE) nr. 1740/78",
+   "title": "Regulamentul (CEE) nr. 1740/78 al Comisiei din 25 iulie 1978 de modificare a Regulamentului (CEE) nr. 1579/74 privind modalitățile de calcul al prelevării aplicate produselor prelucrate pe bază de cereale și orez și fixarea în avans a prelevării pentru aceste produse, precum și pentru furajele combinate pe bază de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R1740",
+   "versions": [
+    {
+     "from": "1978-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2cec9fbd-0620-49db-8045-d6ec0784abb0.0022.03/DOC_19",
+     "sha256": "0118efffdfc0d393804690e4c83b1dcb1a9656427d051af72105ac9ec0484eb2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2112-1978",
+   "path": "ue/regulament/1978/2112",
+   "short": "Regulamentul (CEE) nr. 2112/78",
+   "title": "Regulamentul (CEE) nr. 2112/78 al Consiliului din 25 iulie 1978 privind semnarea Convenției vamale privind transportul internațional de mărfuri, sub acoperirea carnetelor TIR (Convenția TIR) din 14 noiembrie 1975 de la Geneva",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2112",
+   "versions": [
+    {
+     "from": "1978-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5659a690-3132-4708-aab2-7a63b0ad336f.0022.04/DOC_2",
+     "sha256": "25827f691f3e0385c7775ad9f9bbb652c0a271e773dc58c12c9241baa1b00ce2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2211-1978",
+   "path": "ue/regulament/1978/2211",
+   "short": "Regulamentul (CEE) nr. 2211/78",
+   "title": "Regulamentul (CEE) nr. 2211/78 al Consiliului din 26 septembrie 1978 privind încheierea Acordului de cooperare dintre Comunitatea Economică Europeană și Regatul Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2211",
+   "versions": [
+    {
+     "from": "1978-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17ddcb5f-d805-499a-a099-3ba28eea4e9c.0022.04/DOC_1",
+     "sha256": "759eb0f7aa19f64083b144c3ee0acb4129fc71a397fbfd0f7f98ad9568dd1d58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2216-1978",
+   "path": "ue/regulament/1978/2216",
+   "short": "Regulamentul (CEE) nr. 2216/78",
+   "title": "Regulamentul (CEE) nr. 2216/78 al Consiliului din 26 septembrie 1978 privind încheierea Acordului de cooperare între Comunitatea Economică Europeană și Republica Arabă Siriană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2216",
+   "versions": [
+    {
+     "from": "1978-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c6603c8-1a21-4be7-b666-5cad3688db5f.0022.04/DOC_1",
+     "sha256": "b68491cec9edccd9add2fc8871a66f813cc214463cf4fd7c930b6d86e8d0c409"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2415-1978",
+   "path": "ue/regulament/1978/2415",
+   "short": "Regulamentul (CEE) nr. 2415/78",
+   "title": "Regulamentul (CEE) nr. 2415/78 al Comisiei din 17 octombrie 1978 privind pragul statistic al statisticilor comerțului exterior al Comunității și ale comerțului între statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2415",
+   "versions": [
+    {
+     "from": "1978-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20ba616c-dc7e-4313-99b0-7bd9667f4aa5.0021.04/DOC_1",
+     "sha256": "d37354646cd2c82099d1ff377d030594256305b07fb075625dfc3c9b24035dc1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2454-1978",
+   "path": "ue/regulament/1978/2454",
+   "short": "Regulamentul (CEE) nr. 2454/78",
+   "title": "Regulamentul (CEE) nr. 2454/78 al Consiliului din 19 septembrie 1978 privind încheierea Acordului sub forma unui schimb de scrisori dintre de modificare a Acordului Comunitatea Economică Europeană și Regatul Norvegiei, în scopul ajustării anumitor specificații tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2454",
+   "versions": [
+    {
+     "from": "1978-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/212298b0-dc58-4bd7-a30a-1551c72a8106.0020.04/DOC_2",
+     "sha256": "b8e12d512d7ad075877032aa1b068d2969ff62e11752652b32da4d89a12b5b0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3179-1978",
+   "path": "ue/regulament/1978/3179",
+   "short": "Regulamentul (CEE) nr. 3179/78",
+   "title": "Regulamentul (CEE) nr. 3179/78 al Consiliului din 28 decembrie 1978 privind semnarea de către Comunitatea Economică Europeană a Convenției asupra viitoarei cooperări multilaterale în zonele de pescuit din Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R3179",
+   "versions": [
+    {
+     "from": "1978-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77584220-fa67-484d-aa9f-372d57040afa.0022.03/DOC_1",
+     "sha256": "dc4fcbf07cb2dc32ad5cededc367ba92759dd72b9f4f93da9d91c20b56e52282"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-686-1978",
+   "path": "ue/regulament/1978/686",
+   "short": "Regulamentul (CEE) nr. 686/78",
+   "title": "Regulamentul (CEE) nr. 686/78 al Comisiei din 6 aprilie 1978 privind stabilirea, în sectorul produselor pescărești, a dispozițiilor complementare referitoare la acordarea de restituiri la export",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R0686",
+   "versions": [
+    {
+     "from": "1978-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e28b6409-ab25-4f4a-bcd0-f4589eddf033.0022.03/DOC_1",
+     "sha256": "a20ad8b68822779b8ef9adc4d983b9282c3b950d3f871e25698886b5da8c26ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-850-1978",
+   "path": "ue/regulament/1978/850",
+   "short": "Regulamentul (CEE) nr. 850/78",
+   "title": "Regulamentul (CEE) nr. 850/78 al Consiliului din 24 aprilie 1978 privind încheierea unui acord sub forma unui schimb de scrisori de modificare a anexei A la Protocolul nr. 1 la Acordul dintre Comunitatea Economică Europeană și Confederația Elvețiană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R0850",
+   "versions": [
+    {
+     "from": "1978-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c2ba70e-5cfc-486d-9832-7b395c8ea077.0022.04/DOC_2",
+     "sha256": "5c21670f484f194be963ca9dd23b0bcbf087ed8c0fcba467fa363b41e629f5ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-913-1978",
+   "path": "ue/regulament/1978/913",
+   "short": "Regulamentul CELEX 31978R0913",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 913/78 al Consiliului din 2 mai 1978 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R0913",
+   "versions": [
+    {
+     "from": "1978-05-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7490d5b1-59f6-4c9f-a640-e32541227221.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -76,6 +76,786 @@
      "sha256": "33eb98e804fedf456747f4fd0a3abba0e29a3cb8501849ff898640342dae3194"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1054-1997",
+   "path": "ue/regulament/1997/1054",
+   "short": "Regulamentul (CE) nr. 1054/97",
+   "title": "Regulamentul (CE) nr. 1054/97 al Comisiei din 11 iunie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1054",
+   "versions": [
+    {
+     "from": "1997-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a7d7d80-83db-47b5-9a1a-1d405a7ea0fd.0022.04/DOC_1",
+     "sha256": "d56f75be7cf080f8132b792ad266446050ddff672e64acd0f46b2951d9898a89"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1059-1997",
+   "path": "ue/regulament/1997/1059",
+   "short": "Regulamentul (CE) nr. 1059/97",
+   "title": "Regulamentul (CE) nr. 1059/97 al Comisiei din 11 iunie 1997 privind modificarea nivelului anual maxim de pescuit pentru anumite zone de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1059",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c544b4e-e927-42cc-9ee8-5523bc61e7d3.0022.01/DOC_1",
+     "sha256": "2771f5fce8d50b58e9632af98be0eca0cea3b17353ef530243df1940a4b76149"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1065-1997",
+   "path": "ue/regulament/1997/1065",
+   "short": "Regulamentul (CE) nr. 1065/97",
+   "title": "Regulamentul (CE) nr. 1065/97 al Comisiei din 12 iunie 1997 de completare a anexei la Regulamentul (CE) nr. 1107/96 al Comisiei privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1065",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01708409-532d-4e55-9f88-cb277630453f.0022.04/DOC_1",
+     "sha256": "ac88fb644ceadb3cbde12933277d6bb58cdc78660a8f29fc1f144bd2bf520694"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1087-1997",
+   "path": "ue/regulament/1997/1087",
+   "short": "Regulamentul (CE) nr. 1087/97",
+   "title": "Regulamentul (CE) nr. 1087/97 al Consiliului din 9 iunie 1997 privind autorizarea importului în Insulele Canare de produse textile și de confecții, precum și al anumitor produse supuse contingentării, originare din China, fără restricții cantitative sau măsuri cu efect echivalent",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1087",
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/652d54d8-3e6e-42c7-875f-b2a0ea3a8f04.0022.04/DOC_2",
+     "sha256": "b6ae0f533244b05cf9b07b1ebba787a5aec9c7313d0dc2bdba87fab2d36bf0c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1103-1997",
+   "path": "ue/regulament/1997/1103",
+   "short": "Regulamentul (CE) nr. 1103/97",
+   "title": "Regulamentul (CE) nr. 1103/97 al Consiliului din 17 iunie 1997 privind anumite dispoziții referitoare la introducerea monedei euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1103",
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/013d7785-75fe-4bfb-b2a8-7b6743863e10.0022.03/DOC_10",
+     "sha256": "5167f37db0bf994ae4baede0baf773760d90a02ceb8f28df489b11659336d59e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-118-1997",
+   "path": "ue/regulament/1997/118",
+   "short": "Regulamentul (CE) nr. 118/97",
+   "title": "Regulamentul (CE) nr. 118/97 al Consiliului din 2 decembrie 1996 de modificare și actualizare a Regulamentului (CEE) nr. 1408/71 de aplicare a regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii care desfășoară activități independente și cu membrii familiilor acestora care se deplasează în cadrul Comunității și a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0118",
+   "versions": [
+    {
+     "from": "1997-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b31a987-ee6d-425b-b8bb-8e6ded7344bc.0022.03/DOC_1",
+     "sha256": "2530b92b1ff72a3958b626d11910aff87870507480d7f491ca6d00e076419720"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1196-1997",
+   "path": "ue/regulament/1997/1196",
+   "short": "Regulamentul (CE) nr. 1196/97",
+   "title": "Regulamentul (CE) nr. 1196/97 al Comisiei din 27 iunie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1196",
+   "versions": [
+    {
+     "from": "1997-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4402c610-8071-4065-8422-98541f5d918b.0022.04/DOC_2",
+     "sha256": "6c90ce9309140e4e9e27f141240c3c7b05b6c6b205e31229191654df7b2f6809"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1199-1997",
+   "path": "ue/regulament/1997/1199",
+   "short": "Regulamentul (CE) nr. 1199/97",
+   "title": "Regulamentul (CE) nr. 1199/97 al Comisiei din 27 iunie 1997 de modificare a Regulamentului (CEE) nr. 3600/92 de stabilire a normelor de punere în aplicare a primei etape a programului de lucru prevăzut la articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului privind introducerea pe piață a produselor fitosanitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1199",
+   "versions": [
+    {
+     "from": "1997-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca46de84-7af9-495d-880b-2f55b11f3b4c.0022.04/DOC_4",
+     "sha256": "2554333760781a2c69a859672280890d89bc828df7c7703880e2347a08bcece5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-123-1997",
+   "path": "ue/regulament/1997/123",
+   "short": "Regulamentul (CE) nr. 123/97",
+   "title": "Regulamentul (CE) nr. 123/97 al Comisiei din 23 ianuarie 1997 de completare a anexei la Regulamentul (CE) nr. 1107/96 al Comisiei privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0123",
+   "versions": [
+    {
+     "from": "1997-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db154f5e-034b-418c-9069-730f9ed73fa7.0003.03/DOC_1",
+     "sha256": "1e83db63eb6d764e0b8c17d7bd1cd3a282764de3c3c7712f13cedcedbb1ed576"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1255-1997",
+   "path": "ue/regulament/1997/1255",
+   "short": "Regulamentul (CE) nr. 1255/97",
+   "title": "Regulamentul (CE) nr. 1255/97 al Consiliului din 25 iunie 1997 privind criteriile comunitare prevăzute pentru punctele de așteptare și de modificare a planului de itinerar prevăzut în anexa la Directiva 91/628/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1255",
+   "versions": [
+    {
+     "from": "1997-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52a9643b-a5d4-4143-925f-64e7f0725856.0022.03/DOC_2",
+     "sha256": "843b38fddf1e21ff0094466dfe76969bae3d79e3213ad9fa96284bfecb8f3459"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1290-1997",
+   "path": "ue/regulament/1997/1290",
+   "short": "Regulamentul (CE) nr. 1290/97",
+   "title": "Regulamentul (CE) nr. 1290/97 al Consiliului din 27 iunie 1997 de modificare a Regulamentului (CEE) nr. 1408/71 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, lucrătorii care desfășoară activități independente și cu membrii familiilor acestora care se deplasează în cadrul Comunității, precum și a Regulamentului (CEE) nr. 574/72 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1408/71",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1290",
+   "versions": [
+    {
+     "from": "1997-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f34a3ccc-ece6-49d5-82d5-9ad2a59fb0f5.0022.03/DOC_1",
+     "sha256": "aa7acde3b776cbe46633e9d207a76b7582bae6f0e3ad7c2382fadf898356ea15"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-142-1997",
+   "path": "ue/regulament/1997/142",
+   "short": "Regulamentul (CE) nr. 142/97",
+   "title": "Regulamentul (CE) nr. 142/97 al Comisiei din 27 ianuarie 1997 privind prezentarea de informații referitoare la anumite substanțe existente, prevăzută de Regulamentul (CEE) nr. 793/93 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0142",
+   "versions": [
+    {
+     "from": "1997-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28fc8150-dfbe-4319-9f75-b173e585bf64.0022.03/DOC_1",
+     "sha256": "6b91a72cfe750588a44b3bc3aa8c3d9ea341f962e1d33f4382125e09bcabf616"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-143-1997",
+   "path": "ue/regulament/1997/143",
+   "short": "Regulamentul (CE) nr. 143/97",
+   "title": "Regulamentul (CE) nr. 143/97 al Comisiei din 27 ianuarie 1997 privind a treia listă de substanțe prioritare prevăzută de Regulamentul (CEE) nr. 793/93 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0143",
+   "versions": [
+    {
+     "from": "1997-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4208d565-19bb-4357-b81f-e93d7376aa8c.0022.03/DOC_1",
+     "sha256": "fd1969223da189265d03dc8dbb116fe430312bc7b05bdbdad3a955017de8f3be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1458-1997",
+   "path": "ue/regulament/1997/1458",
+   "short": "Regulamentul (CE) nr. 1458/97",
+   "title": "Regulamentul (CE) nr. 1458/97 al Comisiei din 25 iulie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1458",
+   "versions": [
+    {
+     "from": "1997-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf12ad29-b492-48ba-88fb-1e599bd8442d.0022.04/DOC_3",
+     "sha256": "5a767d05093d00a8bdefcdb4f841df86f63b1f3c2fece7ccb822cacbd815c3f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1467-1997",
+   "path": "ue/regulament/1997/1467",
+   "short": "Regulamentul (CE) nr. 1467/97",
+   "title": "Regulamentul (CE) nr. 1467/97 al Consiliului din 7 iulie 1997 privind accelerarea și clarificarea aplicării procedurii de deficit excesiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1467",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0022.03/DOC_9",
+     "sha256": "853cea924b4c19fa88862a808dcbfd0f16aea7a584410a7b5c78332385a8eca3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1482-1997",
+   "path": "ue/regulament/1997/1482",
+   "short": "Regulamentul (CE) nr. 1482/97",
+   "title": "Regulamentul (CE) nr. 1482/97 al Comisiei din 28 iulie 1997 de stabilire, pentru zona liberă Madeira, a unor dispoziții de aplicare a Regulamentului (CE) nr. 122/96 al Consiliului de stabilire a unui tratament tarifar favorabil pentru importul anumitor mărfuri în zonele libere Madeira și Azore, datorită destinației lor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1482",
+   "versions": [
+    {
+     "from": "1997-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03499abf-48f7-42d9-b504-909625e11dff.0022.04/DOC_1",
+     "sha256": "10716021814219b9a40de5ec4e097061ffd9473d38fd4b02129de730f82e935e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1509-1997",
+   "path": "ue/regulament/1997/1509",
+   "short": "Regulamentul (CE) nr. 1509/97",
+   "title": "Regulamentul (CE) nr. 1509/97 al Comisiei din 30 iulie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1509",
+   "versions": [
+    {
+     "from": "1997-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0afbdc70-d442-40da-a77a-9284d8793f08.0022.04/DOC_2",
+     "sha256": "d4582874edabbcfdf8ee863f0ddebbb495668a229649bba904f0c4bfdcd5f3e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1713-1997",
+   "path": "ue/regulament/1997/1713",
+   "short": "Regulamentul (CE) nr. 1713/97",
+   "title": "Regulamentul (CE) nr. 1713/97 al Comisiei din 3 septembrie 1997 de derogare de la Regulamentul (CEE) nr. 2454/93 privind definirea conceptului de produse originare utilizat în programul de preferințe generalizate de luare în calcul a situației speciale din Laos pentru anumite exporturi textile în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1713",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ceb3db2e-fd21-4c2a-b74b-a4638ea77a24.0022.04/DOC_1",
+     "sha256": "4c0814c598df369a48377b3aec0eaa7960bd17db9b825f77fc885acd3c38885e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1714-1997",
+   "path": "ue/regulament/1997/1714",
+   "short": "Regulamentul (CE) nr. 1714/97",
+   "title": "Regulamentul (CE) nr. 1714/97 al Comisiei din 3 septembrie 1997 de derogare de la Regulamentul (CEE) nr. 2454/93 privind definirea conceptului de produse originare utilizat în programul de preferințe generalizate de luare în calcul a situației speciale din Cambodgia pentru anumite exporturi textile în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1714",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7a105ed-b496-4b6c-b23d-842a48db92d6.0022.04/DOC_1",
+     "sha256": "d046dc48fed4ae17175d774575384b746bad1b53e4f876df35cde2dbc6dbb2ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1715-1997",
+   "path": "ue/regulament/1997/1715",
+   "short": "Regulamentul (CE) nr. 1715/97",
+   "title": "Regulamentul (CE) nr. 1715/97 al Comisiei din 3 septembrie 1997 de derogare de la Regulamentul (CEE) nr. 2454/93 privind definirea conceptului de produse originare utilizat în programul de preferințe generalizate de luare în calcul a situației speciale din Nepal pentru anumite exporturi textile în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1715",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2b53904-420d-436d-afe1-7de5bffa9a31.0022.04/DOC_1",
+     "sha256": "6b76866595c4b38cdde9f64863f0046f3c458a6344d47f52864a7583b2da8e69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1729-1997",
+   "path": "ue/regulament/1997/1729",
+   "short": "Regulamentul (CE) nr. 1729/97",
+   "title": "Regulamentul (CE) nr. 1729/97 al Comisiei din 4 septembrie 1997 de modificare a anumitor restituiri la export fixate în avans, ca urmare a unei modificări a prețurilor sau a taxelor de depozitare în sectorul zahărului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1729",
+   "versions": [
+    {
+     "from": "1997-09-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/211c846a-40d4-485b-abfb-33124245f9c0.0022.03/DOC_1",
+     "sha256": "8a524d8d5ade68480a6fbefe6c6b72b9980cd1ede068b00f5cf355781fbacae2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1780-1997",
+   "path": "ue/regulament/1997/1780",
+   "short": "Regulamentul (CE) nr. 1780/97",
+   "title": "Regulamentul (CE) nr. 1780/97 al Comisiei din 15 septembrie 1997 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 723/97 al Consiliului privind punerea în aplicare a programelor de acțiuni ale statelor membre în domeniul controalelor cheltuielilor din FEOGA, secțiunea Garantare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1780",
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41949a8b-9661-4288-9f18-9a34139d6506.0022.03/DOC_2",
+     "sha256": "011665c6f2c7b4a7de9ee5171139270f99d519a811ebd5501423d38bde5a8bef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1875-1997",
+   "path": "ue/regulament/1997/1875",
+   "short": "Regulamentul (CE) nr. 1875/97",
+   "title": "Regulamentul (CE) nr. 1875/97 al Comisiei din 26 septembrie 1997 de completare a anexei la Regulamentul (CE) nr. 2400/96 al Comisiei privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R1875",
+   "versions": [
+    {
+     "from": "1997-09-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0934b4bf-12b9-4614-8304-19e40fb12a52.0022.04/DOC_1",
+     "sha256": "9c1b5db34c41bc5b90d7fbb684ba0d38d365acd24da07c70f93fdb86a61ee76b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2005-1997",
+   "path": "ue/regulament/1997/2005",
+   "short": "Regulamentul (CE) nr. 2005/97",
+   "title": "Regulamentul (CE) nr. 2005/97 al Consiliului din 9 octombrie 1997 de stabilire a anumitor norme de aplicare a regimului special privind importurile de ulei de măsline originar din Algeria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2005",
+   "versions": [
+    {
+     "from": "1997-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6ddb5507-1640-41e7-8da6-91f61c48b674.0022.03/DOC_1",
+     "sha256": "045bad1a9e0dbcb7f535df5125d3c31f592778875959765be430ea3a92ce4213"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2006-1997",
+   "path": "ue/regulament/1997/2006",
+   "short": "Regulamentul (CE) nr. 2006/97",
+   "title": "Regulamentul (CE) nr. 2006/97 al Consiliului din 9 octombrie 1997 de stabilire a anumitor norme de aplicare a regimului special privind importurile de ulei de măsline originar din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2006",
+   "versions": [
+    {
+     "from": "1997-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39e3b1db-3799-4d96-b321-515cef9f028e.0022.04/DOC_1",
+     "sha256": "a5bd8c68e5c10bcbf8f2a8a4433307a136d442c5870094b9a378ee3ab9db6807"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2007-1997",
+   "path": "ue/regulament/1997/2007",
+   "short": "Regulamentul (CE) nr. 2007/97",
+   "title": "Regulamentul (CE) nr. 2007/97 al Consiliului din 9 octombrie 1997 de stabilire a anumitor norme de aplicare a regimului special privind importurile de ulei de măsline originar din Liban",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2007",
+   "versions": [
+    {
+     "from": "1997-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d64f7830-4c2b-4ca6-83d9-462fffd0b753.0022.03/DOC_1",
+     "sha256": "969a8fa6c044e6ee30e86bcd061005c6cdfe8c16f726efdd2985a13e327176da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2008-1997",
+   "path": "ue/regulament/1997/2008",
+   "short": "Regulamentul (CE) nr. 2008/97",
+   "title": "Regulamentul (CE) nr. 2008/97 al Consiliului din 9 octombrie 1997 de stabilire a anumitor norme de aplicare a regimului special privind importurile de ulei de măsline și anumite produse agricole originare din Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2008",
+   "versions": [
+    {
+     "from": "1997-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1c8f209d-7bf5-433e-9bfb-8fbfe3198ee2.0022.03/DOC_1",
+     "sha256": "2c93402308f1507e029d8f4de2bf8bb94d3b22027d7580c6ffb6d84eb2786794"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2027-1997",
+   "path": "ue/regulament/1997/2027",
+   "short": "Regulamentul (CE) nr. 2027/97",
+   "title": "Regulamentul (CE) nr. 2027/97 al Consiliului din 9 octombrie 1997 privind răspunderea operatorilor de transport aerian în caz de accidente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2027",
+   "versions": [
+    {
+     "from": "1998-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39ce2b6f-ded7-4126-8d02-e2bd42365543.0022.01/DOC_1",
+     "sha256": "ff3a921e6268c860893340ac80c5e4f6eccf574543dfb8eb505ae801607d83a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2184-1997",
+   "path": "ue/regulament/1997/2184",
+   "short": "Regulamentul (CE) nr. 2184/97",
+   "title": "Regulamentul (CE) nr. 2184/97 al Comisiei din 3 noiembrie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2184",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40eb9fe9-a728-4575-b814-d5e481a202ad.0022.04/DOC_1",
+     "sha256": "2ab7a2773320b322b2e59e4a05f9e1206bb8764082a0fc1b533f8a8ec030a7ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2190-1997",
+   "path": "ue/regulament/1997/2190",
+   "short": "Regulamentul CELEX 31997R2190",
+   "title": "Regulamentul (CECO, CE, Euratom) nr. 2190/97 al Consiliului din 30 octombrie 1997 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2190",
+   "versions": [
+    {
+     "from": "1997-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fea2de47-2955-4d0e-b1ab-dc1f9c8b7686.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2191-1997",
+   "path": "ue/regulament/1997/2191",
+   "short": "Regulamentul CELEX 31997R2191",
+   "title": "Regulamentul (CECO, CE, Euratom) nr. 2191/1997 al Consiliului din 30 octombrie 1997 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2191",
+   "versions": [
+    {
+     "from": "1997-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf8af492-621f-419b-abdd-3d1b2dfffc6b.0022.03/DOC_5",
+     "sha256": "3a800ba7483f7dd86c0eedd557dd9d1368b2f65b440dcfda68410a0c5580054b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-226-1997",
+   "path": "ue/regulament/1997/226",
+   "short": "Regulamentul (CE) nr. 226/97",
+   "title": "Regulamentul (CE) nr. 226/97 al Comisiei din 6 februarie 1997 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2443/96 al Consiliului de stabilire a unor măsuri suplimentare pentru susținerea directă a veniturilor producătorilor sau a sectorului cărnii de vită și mânzat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0226",
+   "versions": [
+    {
+     "from": "1997-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06bae1b4-727c-42cc-9466-aaac0adb1b49.0022.03/DOC_1",
+     "sha256": "201a6782def94d526ff7d363b1c82605d95cb8e88fe99404fb11042ff14a2564"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2268-1997",
+   "path": "ue/regulament/1997/2268",
+   "short": "Regulamentul (CE) nr. 2268/97",
+   "title": "Regulamentul (CE) nr. 2268/97 al Comisiei din 14 noiembrie 1997 privind modificarea nivelului anual maxim de pescuit pentru anumite zone de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2268",
+   "versions": [
+    {
+     "from": "1997-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d30a24a-63ba-44d7-a99d-de99970822e5.0022.01/DOC_1",
+     "sha256": "d7a2bec67312688e9528bd023da0ad187fa2fb9e1297709df2866419ff92153b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-23-1997",
+   "path": "ue/regulament/1997/23",
+   "short": "Regulamentul (CE) nr. 23/97",
+   "title": "Regulamentul (CE) nr. 23/97 al Consiliului din 20 decembrie 1996 privind statisticile referitoare la nivelul și structura costurilor forței de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0023",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61baf8fe-1ddd-4017-b2c5-e0927e627827.0022.03/DOC_1",
+     "sha256": "a1998cde8013c6889a3b9ea10e9e70c7b93cb94d8c78c4c281edfb967f4f1dc7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2325-1997",
+   "path": "ue/regulament/1997/2325",
+   "short": "Regulamentul (CE) nr. 2325/97",
+   "title": "Regulamentul (CE) nr. 2325/97 al Comisiei din 24 noiembrie 1997 de completare a anexei la Regulamentul (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine, în conformitate cu procedura stabilită la articolul 17 din Regulamentul (CEE) nr. 2081/92 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2325",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa15d424-05de-4346-99a4-a38abba468d9.0022.03/DOC_1",
+     "sha256": "5ff748b16e5f3eba970681ef5010e84185f8d9518603006c3bed20a368bdd65c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2345-1997",
+   "path": "ue/regulament/1997/2345",
+   "short": "Regulamentul (CE) nr. 2345/97",
+   "title": "Regulamentul (CE) nr. 2345/97 al Consiliului din 24 noiembrie 1997 de stabilire a reducerii tarifului ce se aplică la importurile realizate prin aplicarea contingentului tarifar OMC pentru anumite bovine vii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2345",
+   "versions": [
+    {
+     "from": "1997-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e636d372-35de-4ace-b18c-a8399b5f3496.0022.04/DOC_1",
+     "sha256": "0cd93b2af4cbf525d184f500a03f2f88ebc8cdc05b3ec20fa15a8418a48daa4b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2396-1997",
+   "path": "ue/regulament/1997/2396",
+   "short": "Regulamentul (CE) nr. 2396/97",
+   "title": "Regulamentul (CE) nr. 2396/97 al Comisiei din 2 decembrie 1997 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2396",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4dda402-7aa3-40b3-8d6c-017c98e4fad2.0022.04/DOC_1",
+     "sha256": "1eeb820c7c6a80dedb1562f08a7ae915389b0b3f027f53d6a5c774a4af090461"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2467-1997",
+   "path": "ue/regulament/1997/2467",
+   "short": "Regulamentul (CE) nr. 2467/97",
+   "title": "Regulamentul (CE) nr. 2467/97 al Comisiei din 11 decembrie 1997 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2200/97 al Consiliului privind ameliorarea producției comunitare de mere, pere, piersici și nectarine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2467",
+   "versions": [
+    {
+     "from": "1997-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f79b8a5b-d00f-4e14-9a11-7f22f300a6d9.0022.03/DOC_1",
+     "sha256": "10aa6898ed4ff1b673caaf70a5d006a45fe2dc2141e086448716f4a643016a9d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2510-1997",
+   "path": "ue/regulament/1997/2510",
+   "short": "Regulamentul (CE) nr. 2510/97",
+   "title": "Regulamentul (CE) nr. 2510/97 al Comisiei din 15 decembrie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2510",
+   "versions": [
+    {
+     "from": "1998-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ff83edd2-d3ed-4f73-8d05-d7e0f256cd24.0022.04/DOC_1",
+     "sha256": "713ac5b3d408aa1519aaaf8541a92cb76da88e34a72dad6984eba456950c6ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2519-1997",
+   "path": "ue/regulament/1997/2519",
+   "short": "Regulamentul (CE) nr. 2519/97",
+   "title": "Regulamentul (CE) nr. 2519/97 al Comisiei din 16 decembrie 1997 de stabilire a normelor generale privind mobilizarea produselor livrate în conformitate cu Regulamentul (CE) nr. 1292/96 al Consiliului cu titlu de ajutor alimentar comunitar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2519",
+   "versions": [
+    {
+     "from": "1998-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/961760a2-605b-46c1-bce0-dac2ac1787a7.0022.04/DOC_5",
+     "sha256": "cf0696301e869bdf89a066c25800429f0938b891e00151cf3ab48705ed1213be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2623-1997",
+   "path": "ue/regulament/1997/2623",
+   "short": "Regulamentul (CE) nr. 2623/97",
+   "title": "Regulamentul (CE) nr. 2623/97 al Consiliului din 19 decembrie 1997 privind aplicarea articolului 6 din Regulamentele (CE) nr. 3281/94 și (CE) nr. 1256/96 privind sistemele multianuale de preferințe tarifare generalizate pentru anumite produse industriale și agricole originare din țările în curs de dezvoltare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R2623",
+   "versions": [
+    {
+     "from": "1998-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f68a61a-7687-4c8a-9095-d0473ac8fdcb.0022.04/DOC_2",
+     "sha256": "24fa9c198671f8b5c65d5a5abaa8adaeaa0a5229ed6270875b3d5a717df9fc39"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-286-1997",
+   "path": "ue/regulament/1997/286",
+   "short": "Regulamentul (CE) nr. 286/97",
+   "title": "Regulamentul (CE) nr. 286/97 al Comisiei din 17 februarie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0286",
+   "versions": [
+    {
+     "from": "1997-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35c154d2-9a20-4e03-b3b6-daba41a27b96.0022.04/DOC_1",
+     "sha256": "4093f9d80adc290ef4208d42a86df00d15f231785a900b4e4e39466f6488ba9a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-287-1997",
+   "path": "ue/regulament/1997/287",
+   "short": "Regulamentul (CE) nr. 287/97",
+   "title": "Regulamentul (CE) nr. 287/97 al Comisiei din 17 februarie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0287",
+   "versions": [
+    {
+     "from": "1997-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1556229-0bec-4f7c-bc99-56d1ff390bbe.0022.04/DOC_1",
+     "sha256": "dc7c8ded4dfd3ed4d51ebf63ab02f32e37553645d0448db0f01061c9b2797dbb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-323-1997",
+   "path": "ue/regulament/1997/323",
+   "short": "Regulamentul (CE) nr. 323/97",
+   "title": "Regulamentul (CE) nr. 323/97 al Comisiei din 21 februarie 1997 de modificare a Regulamentului (CE) nr. 2406/96 al Consiliului de stabilire a standardelor comune de comercializare pentru anumite produse pescărești",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0323",
+   "versions": [
+    {
+     "from": "1997-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63b4d6dd-66d8-4414-9551-b122504f3729.0022.03/DOC_1",
+     "sha256": "27af91700fcbdeffd7c6468c39ec342ab055e3e1d7a0994b162a367e5205491f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-338-1997",
+   "path": "ue/regulament/1997/338",
+   "short": "Regulamentul (CE) nr. 338/97",
+   "title": "Regulamentul (CE) nr. 338/97 al Consiliului din 9 decembrie 1996 privind protecția speciilor faunei și florei sălbatice prin controlul comerțului cu acestea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0338",
+   "versions": [
+    {
+     "from": "1997-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84f42716-b5ca-49ef-9bc2-c14b2f2b9331.0022.03/DOC_1",
+     "sha256": "d40c4a31ae701cf2bc49116b23169b5a05b428cdc28a131d4e7764b226aedef4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-35-1997",
+   "path": "ue/regulament/1997/35",
+   "short": "Regulamentul (CE) nr. 35/97",
+   "title": "Regulamentul (CE) nr. 35/97 al Comisiei din 10 ianuarie 1997 de stabilire a dispozițiilor cu privire la autorizarea blănurilor și a bunurilor care intră sub incidența Regulamentului (CEE) nr. 3254/91 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0035",
+   "versions": [
+    {
+     "from": "1997-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9157cf18-a30b-4709-94a9-583f3258d7cf.0022.04/DOC_1",
+     "sha256": "b91532daad17da474c807a98ec80bbbeb61131ea9f1a2c436b6556c4a68471b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4-1997",
+   "path": "ue/regulament/1997/4",
+   "short": "Regulamentul (CE) nr. 4/97",
+   "title": "Regulamentul (CE) nr. 4/97 al Comisiei din 3 ianuarie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0004",
+   "versions": [
+    {
+     "from": "1997-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4429d976-296d-4245-b7ad-a16c742528cc.0022.04/DOC_1",
+     "sha256": "8ed7762a64751e855e2bd90ae219add8a90792e749968f6c4995d311b206ba3d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-467-1997",
+   "path": "ue/regulament/1997/467",
+   "short": "Regulamentul (CE) nr. 467/97",
+   "title": "Regulamentul (CE) nr. 467/97 al Consiliului din 3 martie 1997 de admitere cu scutire de drepturi a anumitor principii active care poartă o „denumire comună internațională” (DCI) a Organizației Mondiale a Sănătății și pentru anumite produse folosite pentru fabricarea produselor farmaceutice finite, și de revocare a scutirii de drepturi rezervate produselor farmaceutice pentru anumite DCI a căror utilizare predominantă nu este cea farmaceutică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0467",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52779485-92b4-4e54-9989-2802622263fa.0022.04/DOC_1",
+     "sha256": "550c0ef13281c2885fafc726a81f6672654b8a7fc1cf4e68317572cbe3bf356a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-515-1997",
+   "path": "ue/regulament/1997/515",
+   "short": "Regulamentul (CE) nr. 515/97",
+   "title": "Regulamentul (CE) nr. 515/97 al Consiliului din 13 martie 1997 privind asistența reciprocă între autoritățile administrative ale statelor membre și cooperarea dintre acestea și Comisie în vederea asigurării aplicării corespunzătoare a legislației din domeniile vamal și agricol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0515",
+   "versions": [
+    {
+     "from": "1997-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/544f7ac5-b8ff-4f9a-8df3-280cf7f80401.0022.04/DOC_2",
+     "sha256": "2306bb4270c137e3b46f5bbdeaa45b92413ca5d0186ccba08f87438c9c268479"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-669-1997",
+   "path": "ue/regulament/1997/669",
+   "short": "Regulamentul (CE) nr. 669/97",
+   "title": "Regulamentul (CE) nr. 669/97 al Consiliului din 14 aprilie 1997 privind deschiderea și modul de gestionare a contingentelor și plafoanelor tarifare comunitare, de stabilire a unei supravegheri comunitare pentru anumiți pești și anumite produse pescărești originare din insulele Feroe și de definire a anumitor norme de modificare și de adaptare a măsurilor menționate respective, precum și de abrogare a Regulamentului (CE) nr. 1983/95",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0669",
+   "versions": [
+    {
+     "from": "1997-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56812dd6-5a5a-4bf1-873f-4bbe25f69606.0022.04/DOC_2",
+     "sha256": "b2b895127a3570021da4ca6722862772fc08474c4289841fea46aa5d581013a0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-738-1997",
+   "path": "ue/regulament/1997/738",
+   "short": "Regulamentul (CE) nr. 738/97",
+   "title": "Regulamentul (CE) nr. 738/97 al Comisiei din 24 aprilie 1997 de derogare temporară de la Regulamentul (CE) nr. 1445/95 privind normele de aplicare a regimului licențelor de import și export în sectorul cărnii de vită și mânzat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0738",
+   "versions": [
+    {
+     "from": "1997-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b984d95-d90b-4018-8d6d-7079fba467cb.0022.03/DOC_3",
+     "sha256": "80e23a79fa55c4c604502af3390b6b23c9355bbdc95a0df992c646c34ec6bcc8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-92-1997",
+   "path": "ue/regulament/1997/92",
+   "short": "Regulamentul (CE) nr. 92/97",
+   "title": "Regulamentul (CE) nr. 92/97 al Comisiei din 20 ianuarie 1997 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0092",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bbd9023-5748-4d1f-969a-fc6615a08e21.0022.04/DOC_1",
+     "sha256": "bd839cf44e0959dd21999f57aa2d70239d65072cca513ed3a589e0a455ad0f06"
+    }
+   ]
   }
  ]
 }

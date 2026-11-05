@@ -106,6 +106,411 @@
      "sha256": "77ba890b85252de126e25f6b95b3c51e3279c5c5005bc8d4662c1a80e5d70220"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1172-1985",
+   "path": "ue/regulament/1985/1172",
+   "short": "Regulamentul (CEE) nr. 1172/85",
+   "title": "Regulamentul (CEE) nr. 1172/85 al Consiliului din 2 mai 1985 privind încheierea Acordului sub forma unui schimb de scrisori între Comunitatea Economică Europeană, pe de o parte, Guvernul Danemarcei și Guvernul Insulelor Feroe, pe de altă parte, cu privire la pescuitul somonului în apele feroeze",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R1172",
+   "versions": [
+    {
+     "from": "1985-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d59ccb2-2699-4692-a748-098effba8a6a.0022.03/DOC_1",
+     "sha256": "af2c011ea89133d8baf8a2bf070a7803fc7a72fab05255505a67fa02a7a48727"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1554-1985",
+   "path": "ue/regulament/1985/1554",
+   "short": "Regulamentul (CEE) nr. 1554/85",
+   "title": "Regulamentul (CEE) nr. 1554/85 al Consiliului din 4 iunie 1985 privind încheierea acordului între Comunitatea Economică Europeană și guvernul Republicii Seychelles privind pescuitul în largul apelor Republicii Seychelles",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R1554",
+   "versions": [
+    {
+     "from": "1985-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/351bbbcb-fbef-411e-a3e9-a71b1926fb3c.0020.03/DOC_1",
+     "sha256": "b3a846c57504d24ed5efd9df348475c92616ad305dc63af7b1311e9521d63668"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1661-1985",
+   "path": "ue/regulament/1985/1661",
+   "short": "Regulamentul (CEE) nr. 1661/85",
+   "title": "Regulamentul (CEE) nr. 1661/85 al Consiliului din 13 iunie 1985 de stabilire a adaptărilor tehnice la normele Comunității privind securitatea socială a lucrătorilor migranți cu privire la Groenlanda",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R1661",
+   "versions": [
+    {
+     "from": "1985-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8551192e-b9d1-413f-97b7-08a73ad61c5c.0022.03/DOC_1",
+     "sha256": "bd84f99d0f29fb291e85a90360cc154008aef5e5f6e89f7a931d3b6883fddcec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1748-1985",
+   "path": "ue/regulament/1985/1748",
+   "short": "Regulamentul (CEE) nr. 1748/85",
+   "title": "Regulamentul (CEE) nr. 1748/85 al Comisiei din 25 iunie 1985 privind procedura de stabilire a conținutului de substanțe grase din făina de porumb de la subpoziția 11.01 E și din crupele și grișul de porumb de la subpoziția 11.02 A V din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R1748",
+   "versions": [
+    {
+     "from": "1985-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d36a0921-d385-45c2-a94e-41693a3d9a2a.0022.03/DOC_2",
+     "sha256": "46e61cb00a43bdb1e1205732841a4ee0d22540c0a43310649770e6d47aa399b9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1907-1985",
+   "path": "ue/regulament/1985/1907",
+   "short": "Regulamentul (CEE) nr. 1907/85",
+   "title": "Regulamentul (CEE) nr. 1907/85 al Comisiei din 10 iulie 1985 privind lista soiurilor de viță-de-vie și a regiunilor producătoare de vinuri de import necesare obținerii de vinuri spumante în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R1907",
+   "versions": [
+    {
+     "from": "1985-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbd017f0-7e6e-4bd4-9f81-9b58516a853f.0022.03/DOC_5",
+     "sha256": "09af23ebab345451dd860dc289326280181fc38fbd4a76f6ec844e5added817e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2046-1985",
+   "path": "ue/regulament/1985/2046",
+   "short": "Regulamentul (CEE) nr. 2046/85",
+   "title": "Regulamentul (CEE) nr. 2046/85 al Comisiei din 24 iulie 1985 de modificare a Regulamentului (CEE) nr. 1985/74 privind modalitățile de fixare a prețurilor de referință și de stabilire a prețurilor franco la frontieră pentru crap",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R2046",
+   "versions": [
+    {
+     "from": "1985-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/337487cf-4b36-449c-9c4f-fd083ef0aac7.0022.04/DOC_1",
+     "sha256": "d2d6d300965de95391b1c09fbcb0d9bd5cdfc6c74fe2525f6788f7ac8eed6146"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2137-1985",
+   "path": "ue/regulament/1985/2137",
+   "short": "Regulamentul (CEE) nr. 2137/85",
+   "title": "Regulamentul (CEE) nr. 2137/85 al Consiliului din 25 iulie 1985 privind Grupul European de Interes Economic (GEIE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R2137",
+   "versions": [
+    {
+     "from": "1985-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa713db3-7df6-4b72-985b-02930f44c674.0022.03/DOC_1",
+     "sha256": "f313bebc7db287d1479b94c0ab4d5d832cde9de73f5bb11a83c46849fc454116"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-223-1985",
+   "path": "ue/regulament/1985/223",
+   "short": "Regulamentul (CEE) nr. 223/85",
+   "title": "Regulamentul (CEE) nr. 223/85 al Consiliului din 29 ianuarie 1985 privind încheierea acordului în domeniul pescuitului dintre Comunitatea Economică Europeană, pe de o parte, și Guvernul Danemarcei și Guvernul local al Groenlandei, pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R0223",
+   "versions": [
+    {
+     "from": "1985-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92842f17-b5ed-42c4-8b72-9e79afb029ad.0022.03/DOC_1",
+     "sha256": "2a23476328a63cb806cf07eae8dc04ed51f0bc2946563e7797a01026de96fa6a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-226-1985",
+   "path": "ue/regulament/1985/226",
+   "short": "Regulamentul (CEE) nr. 226/85",
+   "title": "Regulamentul (CEE) nr. 226/85 al Consiliului din 29 ianuarie 1985 privind încheierea Acordului de cooperare între Comunitatea Economică Europeană și Republica Arabă Yemen",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R0226",
+   "versions": [
+    {
+     "from": "1985-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca6658e5-95bf-410b-a419-0dfaceb426b0.0022.04/DOC_1",
+     "sha256": "c29bfd49f549c3f184dd3e89586a3f3f9c58fe66bc19148ed176e8aa98325944"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2616-1985",
+   "path": "ue/regulament/1985/2616",
+   "short": "Regulamentul (CEE) nr. 2616/85",
+   "title": "Regulamentul (CEE) nr. 2616/85 al Consiliului din 16 septembrie 1985 privind încheierea unui Acord de cooperare comercială și economică între Comunitatea Economică Europeană și Republica Populară Chineză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R2616",
+   "versions": [
+    {
+     "from": "1985-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86c68e3b-f502-423a-8fc7-57db8a10abbc.0022.04/DOC_1",
+     "sha256": "2c54bd7cc81ac73fa40d47da1bfb157d7065b631e59325b29e13563d70662fea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2919-1985",
+   "path": "ue/regulament/1985/2919",
+   "short": "Regulamentul CELEX 31985R2919",
+   "title": "Regulamentul nr. 2919/85 (CEE) al Consiliului din 17 octombrie 1985 privind stabilirea condițiilor de acces la regimul rezervat prin Convenția revizuită privind navigația pe Rin a navelor care aparțin navigației pe Rin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R2919",
+   "versions": [
+    {
+     "from": "1985-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3779fcec-a2c1-4956-b83f-c150a5789ae8.0022.04/DOC_2",
+     "sha256": "7fa083d2129d198562eac7bc25a73f177242ccb56da91d7d39f1eebee92e723d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3460-1985",
+   "path": "ue/regulament/1985/3460",
+   "short": "Regulamentul (CEE) nr. 3460/85",
+   "title": "Regulamentul (CEE) nr. 3460/85 al Comisiei din 6 decembrie 1985 de stabilire a modalității de acordare a unei compensații pentru sardinele din Marea Mediterană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3460",
+   "versions": [
+    {
+     "from": "1986-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b64cc6d7-a109-4bb6-948c-4b5ac275475b.0022.03/DOC_1",
+     "sha256": "2d37660c69a44373541a7720f52bd3bfa82374839abcd8e2ab5f2c4b02279376"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3519-1985",
+   "path": "ue/regulament/1985/3519",
+   "short": "Regulamentul CELEX 31985R3519",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 3519/85 al Consiliului din 12 decembrie 1985 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3519",
+   "versions": [
+    {
+     "from": "1985-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5a5ef28-30af-4463-8b15-a643b9ebed2b.0022.04/DOC_2",
+     "sha256": "fb631f028231fd76ff5349cdaaaea95673524322e1aefc37da74c773ca8663c5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3520-1985",
+   "path": "ue/regulament/1985/3520",
+   "short": "Regulamentul CELEX 31985R3520",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 3520/85 al Consiliului din 12 decembrie 1985 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și alți agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3520",
+   "versions": [
+    {
+     "from": "1985-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/124bc812-2851-4b0e-944b-873eff15a606.0022.04/DOC_1",
+     "sha256": "4bf89f3ee1cf2d4953b47c18f292f4eccc5bd50f0191c122a91277ac64df354a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3531-1985",
+   "path": "ue/regulament/1985/3531",
+   "short": "Regulamentul (CEE) nr. 3531/85",
+   "title": "Regulamentul (CEE) nr. 3531/85 al Comisiei din 12 decembrie 1985 privind stabilirea unor măsuri tehnice și de control cu privire la activitățile de pescuit desfășurate de navele aflate sub pavilionul Spaniei în apele celorlalte state membre, cu excepția Portugaliei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3531",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f720de94-e961-4f7e-b088-c8f9d7f7090c.0022.04/DOC_1",
+     "sha256": "901c7ba445deb3d1532543e8903f34c30e1224f1395611bcb2f33fa6924d043f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3541-1985",
+   "path": "ue/regulament/1985/3541",
+   "short": "Regulamentul (CEE) nr. 3541/85",
+   "title": "Regulamentul (CEE) nr. 3541/85 al Consiliului din 12 decembrie 1985 privind clasificarea anumitor mărfuri în cadrul subpoziției 27.03 A din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3541",
+   "versions": [
+    {
+     "from": "1986-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a845d6ca-c170-4ab7-a917-e6596d964360.0022.03/DOC_1",
+     "sha256": "1be39c87838e0bd1ca507d3ac92f28fb3daadb13fd13397e6d50f510ca96da63"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3703-1985",
+   "path": "ue/regulament/1985/3703",
+   "short": "Regulamentul (CEE) nr. 3703/85",
+   "title": "Regulamentul (CEE) nr. 3703/85 al Comisiei din 23 decembrie 1985 de stabilire a modalității de aplicare a normelor comune de comercializare pentru anumiți pești proaspeți sau refrigerați",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3703",
+   "versions": [
+    {
+     "from": "1985-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ada9f158-4900-4860-b434-9e40624e6a39.0022.03/DOC_1",
+     "sha256": "f9bc23164481fa8d19be7b857c36132c93a4c7687fbc1d44dbbefeb03965bfca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3715-1985",
+   "path": "ue/regulament/1985/3715",
+   "short": "Regulamentul (CEE) nr. 3715/85",
+   "title": "Regulamentul (CEE) nr. 3715/85 al Comisiei din 27 decembrie 1985 privind stabilirea unor măsuri tehnice și de control referitoare la activitățile de pescuit desfășurate de navele aflate sub pavilionul Portugaliei în apele celorlalte state membre, cu excepția Spaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3715",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0dab1209-eace-437a-971a-8969e46c1691.0022.03/DOC_1",
+     "sha256": "7d84595b7b48043d326d6376abe29d4430e2669928c0d8eba1a5db6cd00ddbba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3716-1985",
+   "path": "ue/regulament/1985/3716",
+   "short": "Regulamentul (CEE) nr. 3716/85",
+   "title": "Regulamentul (CEE) nr. 3716/85 al Comisiei din 27 decembrie 1985 de stabilire a unor măsuri tehnice și de control privind activitățile de pescuit desfășurate în apele Spaniei de către navele aflate sub pavilionul celorlalte state membre, cu excepția Portugaliei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3716",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cc8c3ca-667c-4649-979e-62eff309c960.0022.04/DOC_1",
+     "sha256": "63f55e26df866e9e22c3428ef152671fddf1f1cdd471fbb2b60d9637c21a3446"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3717-1985",
+   "path": "ue/regulament/1985/3717",
+   "short": "Regulamentul (CEE) nr. 3717/85",
+   "title": "Regulamentul (CEE) nr. 3717/85 al Comisiei din 27 decembrie 1985 de stabilire a unor măsuri tehnice și de control referitoare la activitățile de pescuit desfășurate de navele aflate sub pavilionul Portugaliei în apele Spaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3717",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75f5a3d7-daa5-477a-8020-fa0ef5e752cf.0022.04/DOC_1",
+     "sha256": "1801c9c41ab094c3d6bbb77c41d66242a41cd8353d3db9ce788bef1107c7c34a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3718-1985",
+   "path": "ue/regulament/1985/3718",
+   "short": "Regulamentul (CEE) nr. 3718/85",
+   "title": "Regulamentul (CEE) nr. 3718/85 al Comisiei din 27 decembrie 1985 de stabilire a unor măsuri tehnice și de control referitoare la activitățile de pescuit desfășurate de navele aflate sub pavilionul Spaniei în apele Portugaliei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3718",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0715cfac-2749-4220-812a-3d59648e1765.0022.03/DOC_1",
+     "sha256": "389c58b3697a3057b2fa7f1a8f1d15c5612542085bcf109078cc38495f8c8056"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3719-1985",
+   "path": "ue/regulament/1985/3719",
+   "short": "Regulamentul (CEE) nr. 3719/85",
+   "title": "Regulamentul (CEE) nr. 3719/85 al Comisiei din 27 decembrie 1985 de stabilire a unor măsuri tehnice și de control referitoare la activitățile de pescuit în apele Portugaliei desfășurate de navele aflate sub pavilionul celorlalte state membre, cu excepția Spaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3719",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08ad3560-c696-471b-a0bd-795c4d767d07.0022.04/DOC_1",
+     "sha256": "6167930617dacfc7f33bc561f7bf3e7a81df72c7ff37a5272426e49e273a349d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3812-1985",
+   "path": "ue/regulament/1985/3812",
+   "short": "Regulamentul (CEE) nr. 3812/85",
+   "title": "Regulamentul (CEE) nr. 3812/85 al Comisiei din 20 decembrie 1985 de adaptare a anumitor regulamente în sectorul laptelui și produselor lactate ca urmare a aderării Spaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3812",
+   "versions": [
+    {
+     "from": "1986-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/53a7aaf9-206b-42e3-bc34-233b0757190e.0022.03/DOC_7",
+     "sha256": "4f6270b0d88c2ad9f3c88b55fdca592a9511eda051fe2cb6bbd2c1c5086710b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3817-1985",
+   "path": "ue/regulament/1985/3817",
+   "short": "Regulamentul (CEE) nr. 3817/85",
+   "title": "Regulamentul (CEE) nr. 3817/85 al Comisiei din 30 decembrie 1985 de modificare a anumitor regulamente în sectorul cerealelor și orezului în urma aderării Portugaliei și Spaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3817",
+   "versions": [
+    {
+     "from": "1986-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e741d8d-1c22-4e35-bc10-8b842f0fe5cb.0020.03/DOC_5",
+     "sha256": "d4c52fbc53b5ea0fee69c0d544f33e6ba9fbbf5bb6033b2d9ce8874c69a7d58d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3819-1985",
+   "path": "ue/regulament/1985/3819",
+   "short": "Regulamentul (CEE) nr. 3819/85",
+   "title": "Regulamentul (CEE) nr. 3819/85 al Comisiei din 30 decembrie 1985 de adaptare a diverselor regulamente din sectorul zahărului în urma aderării Regatului Spaniei și a Republicii Portugheze",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R3819",
+   "versions": [
+    {
+     "from": "1986-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7307fcf-1c53-4aef-af0f-016b3d0e2e2a.0022.03/DOC_5",
+     "sha256": "f5ac576e921d18394a28fb20f455f3c7775e3f8931be0321f43ada87e943056f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-717-1985",
+   "path": "ue/regulament/1985/717",
+   "short": "Regulamentul (CEE) nr. 717/85",
+   "title": "Regulamentul (CEE) nr. 717/85 al Comisiei din 19 martie 1985 privind clasificarea anumitor mărfuri în cadrul subpoziției 17.04 D I din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R0717",
+   "versions": [
+    {
+     "from": "1985-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44261192-29b2-46d5-8a5c-ded5702fa542.0022.03/DOC_2",
+     "sha256": "5154beac828db6f4c3cd897274a1e30d39525aab0f1c536b27c2f302a4615a10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-743-1985",
+   "path": "ue/regulament/1985/743",
+   "short": "Regulamentul (CEE) nr. 743/85",
+   "title": "Regulamentul (CEE) nr. 743/85 al Consiliului din 21 martie 1985 privind încheierea Protocolului de extindere a Acordului de cooperare dintre Comunitatea Economică Europeană și Filipine, Indonezia, Malaysia, Singapore și Thailanda, țări membre ale Asociației Națiunilor din Asia de Sud-Est, la Brunei-Darussalam",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985R0743",
+   "versions": [
+    {
+     "from": "1985-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5cf5d98-cd59-448c-98c0-dc71cedae303.0022.04/DOC_1",
+     "sha256": "ff1b3d579d569b7e2a51b1c314707c629a7b62b42fc11327796378be9d15236c"
+    }
+   ]
   }
  ]
 }

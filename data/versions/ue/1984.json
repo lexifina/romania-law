@@ -31,6 +31,156 @@
      "sha256": "76b770561bf005ac4491a91a81f4dce1cff8f0b76bbef0b617dcbec2641ac4f3"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1220-1984",
+   "path": "ue/regulament/1984/1220",
+   "short": "Regulamentul (CEE) nr. 1220/84",
+   "title": "Regulamentul (CEE) nr. 1220/84 al Comisiei din 30 aprilie 1984 privind clasificarea anumitor mărfuri în cadrul subpozițiilor 70.14 A I și 70.19 A I (a) din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1220",
+   "versions": [
+    {
+     "from": "1984-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/495f67b9-46bc-4371-8858-d0332cbb6bf8.0022.03/DOC_2",
+     "sha256": "164e53bcf934e077d4bc46fcb56b0646c82913bc4bc114e44d0cb3efc8544aab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1243-1984",
+   "path": "ue/regulament/1984/1243",
+   "short": "Regulamentul (CEE) nr. 1243/84",
+   "title": "Regulamentul (CEE) nr. 1243/84 al Consiliului din 27 aprilie 1984 privind încheierea acordului sub forma de schimb de scrisori între Comunitatea Economică Europeană și Republica India privind restabilirea în favoarea ultimei țări a unei cantități convenite de zahăr preferențial",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1243",
+   "versions": [
+    {
+     "from": "1984-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35022d95-076d-44ce-8597-ec9b6f2e3f33.0020.03/DOC_39",
+     "sha256": "fa63001b6ac078df721eb6072c126e4dd76c6fecb67af8a70c589ca68169a48d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1262-1984",
+   "path": "ue/regulament/1984/1262",
+   "short": "Regulamentul (CEE) nr. 1262/84",
+   "title": "Regulamentul (CEE) nr. 1262/84 al Consiliului din 10 aprilie 1984 cu privire la încheierea Convenției internaționale privind armonizarea controalelor mărfurilor la frontiere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1262",
+   "versions": [
+    {
+     "from": "1984-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0aaede21-d791-4e65-8282-bf3e17160183.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1591-1984",
+   "path": "ue/regulament/1984/1591",
+   "short": "Regulamentul (CEE) nr. 1591/84",
+   "title": "Regulamentul (CEE) nr. 1591/84 al Consiliului din 4 iunie 1984 privind încheierea Acordului de cooperare dintre Comunitatea Economică Europeană, pe de o parte, și Acordul de la Cartagina și țările membre ale acestuia – Bolivia, Columbia, Ecuador, Peru și Venezuela – pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1591",
+   "versions": [
+    {
+     "from": "1984-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/671aa473-42fa-47f9-98cb-5590249e92e0.0020.04/DOC_1",
+     "sha256": "56f28fde3eb57033c7f14f8280db0f9386e85da04c97f18ab3e6eecace579562"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1763-1984",
+   "path": "ue/regulament/1984/1763",
+   "short": "Regulamentul (CEE) nr. 1763/84",
+   "title": "Regulamentul (CEE) nr. 1763/84 al consiliului din 19 iunie 1984 privind încheierea unui acord sub formă de schimb de scrisori între Comunitatea Economică Europeană și Barbados, Belize, Republica Populară Congo, Fiji, Republica Cooperatistă Guyana, Jamaica, Republica Kenya, Republica Malgașă, Republica Malawi, Insula Mauritius, Republica Uganda, Republica Surinam, Regatul Swaziland, Republica Unită Tanzania, Trinidad și Tobago, Republica Zimbabwe și Saint Kitts și Nevis privind aderarea celei din urmă țări la Protocolul nr. 7 privind zahărul ACP, anexat la a doua convenție ACP-CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1763",
+   "versions": [
+    {
+     "from": "1984-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9bd4d79a-9763-49e0-8698-2af15584b9f2.0018.03/DOC_5",
+     "sha256": "c92c6f0401218f219d7b1101eee819c5b507d335896b5c38111273c29a99eb57"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1764-1984",
+   "path": "ue/regulament/1984/1764",
+   "short": "Regulamentul (CEE) nr. 1764/84",
+   "title": "Regulamentul (CEE) nr. 1764/84 al Consiliului din 19 iunie 1984 privind încheierea unui acord sub formă de schimb de scrisori între Comunitatea Economică Europeană și Barbados, Belize, Republica Populară Congo, Fiji, Republica Cooperatistă Guyana, Jamaica, Republica Kenya, Republica Malgașă, Republica Malawi, Insula Mauritius, Republica Uganda, Republica Surinam, Regatul Swaziland, Republica Unită Tanzania, Trinidad și Tobago, Republica Zimbabwe și Republica Coasta de Fildeș privind aderarea celei din urmă țări la Protocolul nr. 7 privind zahărul ACP, anexat la a doua convenție ACP-CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1764",
+   "versions": [
+    {
+     "from": "1984-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8cb268c-7f0c-4bec-90b4-bbcb3c3b9690.0018.03/DOC_40",
+     "sha256": "6efca3c7ed97cd6dd3ad0f29bc9cffb9c6ce153f985c46a92cc60552449fa527"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1966-1984",
+   "path": "ue/regulament/1984/1966",
+   "short": "Regulamentul (CEE) nr. 1966/84",
+   "title": "Regulamentul (CEE) nr. 1966/84 al Consiliului din 28 iunie 1984 privind încheierea acordului dintre Comunitatea Economică Europeană și Guvernul Republicii Ecuatoriale Guineea cu privire la pescuitul în largul coastei Guineei Ecuatoriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R1966",
+   "versions": [
+    {
+     "from": "1984-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40f7639e-dab3-44af-96e3-341e563ccb19.0022.03/DOC_1",
+     "sha256": "9dcbc4b00a70825fff5e5c18ec936b762071e3a71bc7b5ddb0dabd622172527c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2006-1984",
+   "path": "ue/regulament/1984/2006",
+   "short": "Regulamentul (CEE) nr. 2006/84",
+   "title": "Regulamentul (CEE) nr. 2006/84 al Consiliului din 9 iulie 1984 privind instituirea unei colaborări directe între serviciile de combatere a fraudelor din statele membre ale Comunității Economice Europene și serviciile competente ale Confederației Elvețiene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R2006",
+   "versions": [
+    {
+     "from": "1984-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/863d7b51-9065-4569-aff5-f637cabf1142.0020.03/DOC_39",
+     "sha256": "145f897a98d9fd55dbb502617be48429f20c411d2c2719ec204dfebb83f8f914"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3440-1984",
+   "path": "ue/regulament/1984/3440",
+   "short": "Regulamentul (CEE) nr. 3440/84",
+   "title": "Regulamentul (CEE) nr. 3440/84 al Comisiei din 6 decembrie 1984 referitor la fixarea de dispozitive la traule, năvoade daneze și plase de pescuit similare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R3440",
+   "versions": [
+    {
+     "from": "1985-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51c2417f-8d53-4ea4-ac5f-d32e930a0d84.0022.04/DOC_1",
+     "sha256": "94192c99ad8567a1e66a989233bc10a3063a9e3bedcb5b92f69754f029cedceb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3626-1984",
+   "path": "ue/regulament/1984/3626",
+   "short": "Regulamentul (CEE) nr. 3626/84",
+   "title": "Regulamentul (CEE) nr. 3626/84 al Consiliului din 19 decembrie 1984 de modificare a Regulamentului nr. 11 privind eliminarea discriminării în domeniul tarifelor și condițiilor de transport, în aplicarea articolului 79 alineatul (3) din Tratatul de instituire a Comunității Economice Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984R3626",
+   "versions": [
+    {
+     "from": "1986-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01df7dc9-c8fb-4a9a-b455-9033ca4a454a.0022.03/DOC_6",
+     "sha256": "26faa8e9d24470927a38e1fca2f65e3fcc4e792d1b9e6d606bfd73e339b1bcd7"
+    }
+   ]
   }
  ]
 }

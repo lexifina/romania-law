@@ -106,6 +106,186 @@
      "sha256": "ff4783753f12d5178af53eccd0a7d67696120e55e2d3a575a69d3f02718c82d8"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1531-1982",
+   "path": "ue/regulament/1982/1531",
+   "short": "Regulamentul (CEE) nr. 1531/82",
+   "title": "Regulamentul (CEE) nr. 1531/82 al Consiliului din 25 mai 1982 de punere în aplicare a Deciziei nr. 5/81 a Comitetului mixt CEE-Islanda, de modificare a Protocoalelor nr. 1 și 2 la Acordul dintre Comunitatea Economică Europeană și țara menționată anterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R1531",
+   "versions": [
+    {
+     "from": "1982-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/186fb844-1d57-4c1b-9584-59d81e78f2ea.0020.03/DOC_1",
+     "sha256": "87af21476ecb75139c709441f1f9202aa566e78788cac4336dda9f85e54ef640"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1532-1982",
+   "path": "ue/regulament/1982/1532",
+   "short": "Regulamentul (CEE) nr. 1532/82",
+   "title": "Regulamentul (CEE) nr. 1532/82 al Consiliului din 25 mai 1982 privind punerea în aplicare a Deciziei nr. 5/81 a Comitetului mixt CEE-Norvegia, de modificare a Protocoalelor nr. 1 și 2 la Acordul dintre Comunitatea Economică Europeană și țara menționată anterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R1532",
+   "versions": [
+    {
+     "from": "1982-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17f57d63-3e5f-4a83-a218-c699e47634e0.0020.03/DOC_1",
+     "sha256": "db7afdf61abe4c7afc8632c7b9bd12c07c0af5d11210d9654e8ac70c780dbc95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1534-1982",
+   "path": "ue/regulament/1982/1534",
+   "short": "Regulamentul (CEE) nr. 1534/82",
+   "title": "Regulamentul (CEE) nr. 1534/82 al Consiliului din 25 mai 1982 de punere în aplicare a Deciziei nr. 5/81 a Comitetului mixt CEE-Elveția de modificare a Protocoalelor nr. 1 și 2 la Acordul dintre Comunitatea Economică Europeană și țara menționată anterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R1534",
+   "versions": [
+    {
+     "from": "1982-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/faa7a0db-3977-484c-9c00-aab93a3ef56f.0020.03/DOC_2",
+     "sha256": "edb5a3cf3340d27b3b1dbb1218018e5f0f27daa5e13c3054b3449d4262791ec7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1979-1982",
+   "path": "ue/regulament/1982/1979",
+   "short": "Regulamentul (CEE) nr. 1979/82",
+   "title": "Regulamentul (CEE) nr. 1979/82 al Comisiei din 19 iulie 1982 privind metoda de analiză care trebuie folosită pentru stabilirea conținutului de substanță uscată din sucul de roșii, în sensul notei 4 din capitolul 20 din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R1979",
+   "versions": [
+    {
+     "from": "1982-09-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb985b8c-9482-441b-adcd-f219e005206f.0022.03/DOC_1",
+     "sha256": "201de9a8dbaacd1e2295a3a784d95c5d37950f37219003a36f1cefbbe99b2045"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2151-1982",
+   "path": "ue/regulament/1982/2151",
+   "short": "Regulamentul CELEX 31982R2151",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 2151/82 al Consiliului din 28 iulie 1982 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R2151",
+   "versions": [
+    {
+     "from": "1982-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7bba87a-c6ab-47e3-8987-7cda9323b4d2.0022.04/DOC_2",
+     "sha256": "4dae868a811f793fc4049d561c21ef53ada995fb3fae2c1e3eef115d3d3508ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2152-1982",
+   "path": "ue/regulament/1982/2152",
+   "short": "Regulamentul CELEX 31982R2152",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 2152/82 al Consiliului din 28 iulie 1982 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolelor 12, 13 al doilea paragraf și 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R2152",
+   "versions": [
+    {
+     "from": "1982-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b625e03-adee-4ee0-bf68-bd7e264ff247.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2303-1982",
+   "path": "ue/regulament/1982/2303",
+   "short": "Regulamentul (CEE) nr. 2303/82",
+   "title": "Regulamentul (CEE) nr. 2303/82 al Comisiei din 18 august 1982 de introducere a supravegherii comunitare a posteriori a importurilor anumitor produse siderurgice de prelucrare primară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R2303",
+   "versions": [
+    {
+     "from": "1982-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f888f87a-bad2-47b8-a51a-1f8141045ec3.0020.03/DOC_1",
+     "sha256": "9fd7d19c6381df3d17f2a6db8a6b65bbf1dcf415d0972dedd8b336c39f6c0196"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2613-1982",
+   "path": "ue/regulament/1982/2613",
+   "short": "Regulamentul (CEE) nr. 2613/82",
+   "title": "Regulamentul (CEE) nr. 2613/82 al Consiliului din 21 septembrie 1982 privind încheierea Acordului-cadru de cooperare dintre Comunitatea Economică Europeană și Republica Federativă a Braziliei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R2613",
+   "versions": [
+    {
+     "from": "1982-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a48e01c-ae3e-427a-8f0d-0126b80df157.0020.03/DOC_1",
+     "sha256": "ec3f1ae614c3c037683aac0419193870984d74b28c033d8211f62073e4d81d65"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3402-1982",
+   "path": "ue/regulament/1982/3402",
+   "short": "Regulamentul (CEE) nr. 3402/82",
+   "title": "Regulamentul (CEE) nr. 3402/82 al Comisiei din 17 decembrie 1982 privind clasificarea anumitor mărfuri în cadrul subpoziției 38.19 X din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R3402",
+   "versions": [
+    {
+     "from": "1983-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec8f9af0-760c-4905-a480-e995e01ca443.0022.03/DOC_1",
+     "sha256": "9577aebf18590411a067402586b52275f9b5853e22ab1ae28444de058f0ccc61"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3618-1982",
+   "path": "ue/regulament/1982/3618",
+   "short": "Regulamentul (CEE) nr. 3618/82",
+   "title": "Regulamentul (CEE) nr. 3618/82 al Consiliului din 21 decembrie 1982 de punere în aplicare a Deciziei nr. 3/82 a Comitetului mixt CEE-Norvegia de modificare a Protocoalelor nr. 1 și 2 la Acordul dintre Comunitatea Economică Europeană și țara menționată anterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R3618",
+   "versions": [
+    {
+     "from": "1983-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17dec8ff-e78f-4350-9487-335d67046cc2.0020.03/DOC_1",
+     "sha256": "9a1d985284e894e0766bf736deb3be2fe5ddbeda7633d6587926d5e93d2c3a69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-510-1982",
+   "path": "ue/regulament/1982/510",
+   "short": "Regulamentul CELEX 31982R0510",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 510/82 al Consiliului din 22 februarie 1982 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 1860/76 de stabilire a condițiilor de angajare aplicabile personalului Fundației Europene pentru Îmbunătățirea Condițiilor de Viață și de Muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R0510",
+   "versions": [
+    {
+     "from": "1982-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f0063b0-d70a-4ed8-be61-4f6511b729a1.0022.03/DOC_1",
+     "sha256": "581b7d10e632dbabfebc432150cc15281907dc63ec1628072d7f4d92d18fc21f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-620-1982",
+   "path": "ue/regulament/1982/620",
+   "short": "Regulamentul (CEE) nr. 620/82",
+   "title": "Regulamentul (CEE) nr. 620/82 al Consiliului din 16 martie 1982 privind stabilirea, în raporturile dintre instituțiile italiene și instituțiile din celelalte state membre, a măsurilor speciale de rambursare în natură a prestațiilor de asigurări de sănătate și de maternitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982R0620",
+   "versions": [
+    {
+     "from": "1982-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1504df02-2d2c-4ad4-9d85-caacedad1f74.0021.03/DOC_1",
+     "sha256": "3b79ebc28ca5444ae5f7030ab8ff035783df157fa13942dce6d5fa00308fed28"
+    }
+   ]
   }
  ]
 }

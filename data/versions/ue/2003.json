@@ -1518,6 +1518,951 @@
    ]
   },
   {
+   "slug": "ue-regulament-2-2003",
+   "path": "ue/regulament/2003/2",
+   "short": "Regulamentul (CE) nr. 2/2003",
+   "title": "Regulamentul (CE) nr. 2/2003 al Consiliului din 19 decembrie 2002 de modificare a Regulamentului (CE) nr. 2248/2001 privind anumite proceduri de punere în aplicare a Acordului de stabilizare și de asociere între Comunitățile Europene și statele membre, pe de o parte, și Republica Croația, pe de altă parte, și de aplicare a Acordului interimar dintre Comunitatea Europeană și Republica Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0002",
+   "versions": [
+    {
+     "from": "2003-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e09e4926-e82b-4cde-9695-85fb2770e5ba.0022.04/DOC_1",
+     "sha256": "7f53ccb05a6830c731cb970aa051d343bcd1a994d7f1566039e20fe7533d4ba1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2049-2003",
+   "path": "ue/regulament/2003/2049",
+   "short": "Regulamentul (CE) nr. 2049/2003",
+   "title": "Regulamentul (CE) nr. 2049/2003 din 20 noiembrie 2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2049",
+   "versions": [
+    {
+     "from": "2003-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba30f9bd-f9e9-41c8-81b5-caa8d1cfe2ef.0022.05/DOC_1",
+     "sha256": "a419cc7e5c11ed3e337ed10a18a4be5a3d02d8d5f6f142e0322891512df2a67b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2054-2003",
+   "path": "ue/regulament/2003/2054",
+   "short": "Regulamentul (CE) nr. 2054/2003",
+   "title": "Regulamentul (CE) nr. 2054/2003 al Comisiei din 21 noiembrie 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Mantequilla de l'Alt Urgell y la Cerdanya sau Mantega de l'Alt Urgell i la Cerdanya)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2054",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0353e8bc-9d40-4e0a-b4db-f04e057f652d.0022.05/DOC_1",
+     "sha256": "ca0a0ea19d7460336c645a7e47b91c8499a3b4d47f93c8eeeefdae86bca29fba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2065-2003",
+   "path": "ue/regulament/2003/2065",
+   "short": "Regulamentul (CE) nr. 2065/2003",
+   "title": "Regulamentul (CE) nr. 2065/2003 al Parlamentului European și al Consiliului din 10 noiembrie 2003 privind aromele de fum utilizate sau destinate utilizării în sau pe produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2065",
+   "versions": [
+    {
+     "from": "2003-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9df31f92-0548-46bf-9464-fe754db4fb4e.0022.05/DOC_1",
+     "sha256": "28a3b409899644478585ee4fd713337ce30a21b2d0264546894b33f602455fcd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2081-2003",
+   "path": "ue/regulament/2003/2081",
+   "short": "Regulamentul (CE) nr. 2081/2003",
+   "title": "Regulamentul (CE) nr. 2081/2003 al Comisiei din 27 noiembrie 2003 privind nomenclatura țărilor și a teritoriilor pentru statisticile comerțului exterior al Comunității și ale comerțului dintre statele membreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2081",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85b9847e-bedd-493e-9ed7-d782c5f5ac71.0022.05/DOC_1",
+     "sha256": "5b51ccb5567feb544d630b4ce0eef7cec98a21ec64b2da366f69a916e5a0f0bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-209-2003",
+   "path": "ue/regulament/2003/209",
+   "short": "Regulamentul (CE) nr. 209/2003",
+   "title": "Regulamentul (CE) nr. 209/2003 al Comisiei din 3 februarie 2003 de modificare a Regulamentului (CE) nr. 747/2001 al Consiliului în ceea ce privește contingentele tarifare comunitare pentru anumite produse agricole originare din Liban",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0209",
+   "versions": [
+    {
+     "from": "2003-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/924bb89a-f46d-4920-8cf0-7768b5fda2ba.0022.04/DOC_1",
+     "sha256": "2933600749d642fcf4473ba6b8dfd24783d460f929b88323095ff81455cd8ece"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2112-2003",
+   "path": "ue/regulament/2003/2112",
+   "short": "Regulamentul (CE) nr. 2112/2003",
+   "title": "Regulamentul (CE) nr. 2112/2003 al Comisiei din 1 decembrie 2003 de corectare a Regulamentului (CE) nr. 1334/2003 de modificare a condițiilor pentru autorizarea unui număr de aditivi, ce aparțin grupei oligoelemente, în furajeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2112",
+   "versions": [
+    {
+     "from": "2003-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/041d7037-04b8-47bf-8136-180eaec73ffb.0022.05/DOC_1",
+     "sha256": "ec977f5d522b96cbc588f3d270d22a6cb879d0647bc995227d320a38ece457e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2118-2003",
+   "path": "ue/regulament/2003/2118",
+   "short": "Regulamentul (CE) nr. 2118/2003",
+   "title": "Regulamentul (CE) nr. 2118/2003 al Comisiei din 2 decembrie 2003 de modificare a Regulamentului (CE) nr. 1420/1999 al Consiliului și a Regulamentului (CE) nr. 1547/1999 al Comisiei cu privire la transporturile de anumite tipuri de deșeuri către Tanzania și către Serbia și MuntenegruText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2118",
+   "versions": [
+    {
+     "from": "2003-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93e8d6a3-21ad-449d-95ec-945e54f51768.0022.04/DOC_1",
+     "sha256": "a419324fce0c992256f64eb5f13d61ba1cda5a9f82ceb030ac0071512b96711a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2119-2003",
+   "path": "ue/regulament/2003/2119",
+   "short": "Regulamentul (CE) nr. 2119/2003",
+   "title": "Regulamentul (CE) nr. 2119/2003 al Comisiei din 2 decembrie 2003 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak și de abrogare a Regulamentului (CE) nr. 2465/96",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2119",
+   "versions": [
+    {
+     "from": "2003-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46ee1985-f807-4798-9a1e-ada834958d1f.0022.05/DOC_1",
+     "sha256": "830fe6063d11df7eccabbb1cfb0f7995334161519559a7a5176c88c61cf245e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-215-2003",
+   "path": "ue/regulament/2003/215",
+   "short": "Regulamentul (CE) nr. 215/2003",
+   "title": "Regulamentul (CE) nr. 215/2003 din 3 februarie 2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0215",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1deaf327-ede5-43dd-983f-91a52d5f9da1.0022.03/DOC_1",
+     "sha256": "eef4d82ee5895e4c25d7379c4e596a49af0d26d08046685d85d5cbf6f6bf0a6c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2151-2003",
+   "path": "ue/regulament/2003/2151",
+   "short": "Regulamentul (CE) nr. 2151/2003",
+   "title": "Regulamentul (CE) nr. 2151/2003 al Comisiei din 16 decembrie 2003 de modificare a Regulamentului (CE) nr. 2195/2002 al Parlamentului European și al Consiliului privind Vocabularul comun privind achizițiile publice (CPV) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2151",
+   "versions": [
+    {
+     "from": "2003-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bad23a18-e7b3-41d2-92c1-8b688ccead2d.0022.04/DOC_1",
+     "sha256": "bfd4b1c6c16fe881ee1280ab2a78f7fe0030c6fa4dcd699ee3cdc79639086e58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2154-2003",
+   "path": "ue/regulament/2003/2154",
+   "short": "Regulamentul (CE) nr. 2154/2003",
+   "title": "Regulamentul (CE) nr. 2154/2003 al Comisiei din 10 decembrie 2003 de autorizare temporară a anumitor microorganisme în furaje (Enterococcus faecium și Lactobacillus acidophilus)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2154",
+   "versions": [
+    {
+     "from": "2003-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/118240f1-e04c-4eb3-aca7-5309201d6670.0022.04/DOC_1",
+     "sha256": "90753ec000dbbc7904b35c970bf3e7f95e17e79ba92745aae91182bd0b83517a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2157-2003",
+   "path": "ue/regulament/2003/2157",
+   "short": "Regulamentul (CE) nr. 2157/2003",
+   "title": "Regulamentul (CE) nr. 2157/2003 din 10 decembrie 2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2157",
+   "versions": [
+    {
+     "from": "2003-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ed7a2fd-fd8a-435d-bdfd-31bab8718726.0022.05/DOC_1",
+     "sha256": "e1042588e7c7f23a50bf47ec949aa365e177449b3a55b020ec668828a5bbf2dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2160-2003",
+   "path": "ue/regulament/2003/2160",
+   "short": "Regulamentul (CE) nr. 2160/2003",
+   "title": "Regulamentul (CE) nr. 2160/2003 al Parlamentului European și al Consiliului din 17 noiembrie 2003 privind controlul salmonellei și al altor agenți zoonotici specifici, prezenți în rețeaua alimentară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2160",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/de9ea5e5-1ae5-4f9b-8718-546362357118.0022.05/DOC_1",
+     "sha256": "eab469803438715b535ffa6d53c3b8468a79b582a2effe643dfbe6f92fb960ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-218-2003",
+   "path": "ue/regulament/2003/218",
+   "short": "Regulamentul (CE) nr. 218/2003",
+   "title": "Regulamentul (CE) nr. 218/2003 al Comisiei din 4 februarie 2003 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0218",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d959773-516b-49a0-90c4-4ed584c77363.0022.04/DOC_1",
+     "sha256": "c250661f6b2e51393ae1ae58c493bede526f0adffc72ff292609330e47e9d0e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2198-2003",
+   "path": "ue/regulament/2003/2198",
+   "short": "Regulamentul (CE) nr. 2198/2003",
+   "title": "Regulamentul (CE) nr. 2198/2003 al Comisiei din 16 decembrie 2003 de modificare a Regulamentului (CE) nr. 464/1999 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2201/96 al Consiliului cu privire la sistemul de ajutor pentru prune uscate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2198",
+   "versions": [
+    {
+     "from": "2003-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60eedba8-a275-4b48-989d-742dcb85bd74.0022.05/DOC_1",
+     "sha256": "272668753fc5d514fb426776e89dec31d94f939374147705cc8c3ed58422ac49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2204-2003",
+   "path": "ue/regulament/2003/2204",
+   "short": "Regulamentul (CE) nr. 2204/2003",
+   "title": "Regulamentul (CE) nr. 2204/2003 al Comisiei din 17 decembrie 2003 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2204",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf79231e-80c0-458e-b206-a6009f4ffe7d.0022.05/DOC_1",
+     "sha256": "07303ebf4e94c69dd4aff7eb28aac4c59b290b16918e43eee92c3cda7fbfb996"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2206-2003",
+   "path": "ue/regulament/2003/2206",
+   "short": "Regulamentul (CE) nr. 2206/2003",
+   "title": "Regulamentul (CE) nr. 2206/2003 al Comisiei din 17 decembrie 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 al Comisiei privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Thüringer Leberwurst, Thüringer Rotwurst, Thüringer Rostbratwurst)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2206",
+   "versions": [
+    {
+     "from": "2004-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5991a257-44fc-4ac4-b10e-6ea236e2a9f9.0022.05/DOC_1",
+     "sha256": "467386cc89909ac9620656ec225532d4cd49969fedeaf5cca94db15eed211ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2235-2003",
+   "path": "ue/regulament/2003/2235",
+   "short": "Regulamentul (CE) nr. 2235/2003",
+   "title": "Regulamentul (CE) nr. 2235/2003 al Comisiei din 23 decembrie 2003 de stabilire a normelor comune de aplicare a Regulamentelor (CE) nr. 1782/2003 și (CE) nr. 1868/94 ale Consiliului privind amidonul din cartofi",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2235",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54e8d088-bf13-445b-8599-3d79b1422e72.0022.05/DOC_1",
+     "sha256": "e295477e92f29684b1fa4c5468bc896d68d9a596ee09cff6e484e4dac05d5fab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2238-2003",
+   "path": "ue/regulament/2003/2238",
+   "short": "Regulamentul (CE) nr. 2238/2003",
+   "title": "Regulamentul (CE) nr. 2238/2003 al Consiliului din 15 decembrie 2003 privind protecția împotriva efectelor aplicării Legii americane antidumping din 1916 și ale acțiunilor în temeiul acesteia sau care decurg din aceasta",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2238",
+   "versions": [
+    {
+     "from": "2004-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4fcfafcc-8eab-453c-9efe-c0bd3ebc535f.0022.05/DOC_1",
+     "sha256": "88577005721441410bbd0872b3fe325290aecf0227b375abdb7921c1fba479e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2245-2003",
+   "path": "ue/regulament/2003/2245",
+   "short": "Regulamentul (CE) nr. 2245/2003",
+   "title": "Regulamentul (CE) nr. 2245/2003 al Comisiei din 19 decembrie 2003 de modificare a anexei III la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește supravegherea unor forme transmisibile de encefalopatie spongiformă la ovine și caprine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2245",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25896a19-1ced-4c4a-bc26-e059dc967226.0022.05/DOC_1",
+     "sha256": "b6ae80e98c3dfe50bb3019216b682f8a66c4303598b319e81e5bb7d0e305a79c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2275-2003",
+   "path": "ue/regulament/2003/2275",
+   "short": "Regulamentul (CE) nr. 2275/2003",
+   "title": "Regulamentul (CE) nr. 2275/2003 al Comisiei din 22 decembrie 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înregistrarea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” (Spressa delle Giudicarie)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2275",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/928a4b44-7571-41b1-8cc0-389423c04bcd.0022.05/DOC_1",
+     "sha256": "31866c0e618e72acd9ff59f4935a1188d9ed0f6ec31e514d42a814fe1decef6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2329-2003",
+   "path": "ue/regulament/2003/2329",
+   "short": "Regulamentul (CE) nr. 2329/2003",
+   "title": "Regulamentul (CE) nr. 2329/2003 al Consiliului din 22 decembrie 2003 privind încheierea Acordului în domeniul pescuitului între Comunitatea Europeană și Republica Mozambic",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2329",
+   "versions": [
+    {
+     "from": "2004-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe871195-23b9-4be4-aa4c-0147e810e1e1.0022.04/DOC_8",
+     "sha256": "4b76873423001e325305fae86e90b5b9845829da982324966f08fa0f0b5c60a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2343-2003",
+   "path": "ue/regulament/2003/2343",
+   "short": "Regulamentul (CE) nr. 2343/2003",
+   "title": "Regulamentul (CE) nr. 2343/2003 al Comisiei din 23 decembrie 2003 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2343",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4c18202-24f7-4868-88de-8356a0806b63.0022.02/DOC_1",
+     "sha256": "e14dc44c7642d873b3f242a1e5803cb51edd54f35a358456a6255dd54341aa30"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2345-2003",
+   "path": "ue/regulament/2003/2345",
+   "short": "Regulamentul (CE) nr. 2345/2003",
+   "title": "Regulamentul (CE) nr. 2345/2003 al Comisiei din 23 decembrie 2003 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R2345",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f2fd343-f938-4011-afe2-0c36782747bc.0022.02/DOC_1",
+     "sha256": "9c7d60ad59bbd9466271a3f83053eedfde9127fcbc0b94b84ee11e6186e1017f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-244-2003",
+   "path": "ue/regulament/2003/244",
+   "short": "Regulamentul (CE) nr. 244/2003",
+   "title": "Regulamentul (CE) nr. 244/2003 al Comisiei din 7 februarie 2003 de efectuare a celei de-a unsprezecea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0244",
+   "versions": [
+    {
+     "from": "2003-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce1d9c52-e656-4aa6-aff4-bc21c75a2840.0022.03/DOC_1",
+     "sha256": "9efaaac10e8dd98a6d983d91aaf1c55e8613c649010c6cd4682d989ac182e159"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-254-2003",
+   "path": "ue/regulament/2003/254",
+   "short": "Regulamentul (CE) nr. 254/2003",
+   "title": "Regulamentul (CE) nr. 254/2003 al Consiliului din 11 februarie 2003 de modificare a Regulamentului (CE) nr. 2368/2002 de punere în aplicare a sistemului de certificare pentru Procesul Kimberley privind comerțul internațional cu diamante brute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0254",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a807b3d-f05e-4b2c-83b2-e8dfb6f55eca.0022.04/DOC_1",
+     "sha256": "c3fe90ce75fccac286182c22a3561ce37ca0ec19034ecc35537b9d871aec1d0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-2003",
+   "path": "ue/regulament/2003/260",
+   "short": "Regulamentul (CE) nr. 260/2003",
+   "title": "Regulamentul (CE) nr. 260/2003 al Comisiei din 12 februarie 2003 de modificare a Regulamentului (CE) nr. 999/2001 al Parlamentului European și al Consiliului cu privire la eradicarea encefalopatiilor spongiforme transmisibile la ovine și caprine și de stabilire a normelor aplicabile comerțului cu ovine și caprine vii și de embrioni de tip bovinText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0260",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3382b78-8b3a-4d81-bc47-926bead5c07b.0022.04/DOC_1",
+     "sha256": "0f4ccf5791ca71e2b03a20869f9eda693bdc558a52427dc089e48709b4eb8074"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-261-2003",
+   "path": "ue/regulament/2003/261",
+   "short": "Regulamentul (CE) nr. 261/2003",
+   "title": "Regulamentul (CE) nr. 261/2003 al Comisiei din 12 februarie 2003 privind autorizarea temporară de noi utilizări ale aditivilor în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0261",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17d9d743-0419-43c1-9303-d14d1566f795.0022.04/DOC_1",
+     "sha256": "5fc4f53e2cde0dccb84ec4be5f82cc4b87ce11dc6489c3f55565eb8e8ff436f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-312-2003",
+   "path": "ue/regulament/2003/312",
+   "short": "Regulamentul (CE) nr. 312/2003",
+   "title": "Regulamentul (CE) nr. 312/2003 al Consiliului din 18 februarie 2003 de punere în aplicare pentru Comunitate a dispozițiilor tarifare prevăzute de Acordul de instituire a unei asocieri între Comunitatea Europeană și statele sale membre, pe de o parte, și Republica Chile, pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0312",
+   "versions": [
+    {
+     "from": "2003-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2695e700-3898-4683-a936-0b1170c2b700.0022.04/DOC_1",
+     "sha256": "aa43c2f43ebbccb950eab141cecf48c1e1f67ff0b080c6d02c523de8f32343b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-313-2003",
+   "path": "ue/regulament/2003/313",
+   "short": "Regulamentul (CE) nr. 313/2003",
+   "title": "Regulamentul (CE) nr. 313/2003 al Consiliului din 18 februarie 2003 de prelungire a Regulamentului (CE) nr. 310/2002 privind anumite măsuri restrictive referitoare la Zimbabwe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0313",
+   "versions": [
+    {
+     "from": "2003-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3febcb4b-362a-48ce-b8a9-a91d30e41e7a.0022.04/DOC_1",
+     "sha256": "f6d4534466ca89009ca891ad79267d02b074522ccebb694a7cb2256edb53dfc1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-342-2003",
+   "path": "ue/regulament/2003/342",
+   "short": "Regulamentul (CE) nr. 342/2003",
+   "title": "Regulamentul (CE) nr. 342/2003 din 21 februarie 2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0342",
+   "versions": [
+    {
+     "from": "2003-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6dcb637f-4b09-4213-bd6e-204da0ba909e.0022.04/DOC_1",
+     "sha256": "83784fa9d55c1156dd14f5a4e07fb928afb3ea8215ff536a21fe57f60ee837f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-350-2003",
+   "path": "ue/regulament/2003/350",
+   "short": "Regulamentul (CE) nr. 350/2003",
+   "title": "Regulamentul (CE) nr. 350/2003 al Comisiei din 25 februarie 2003 de efectuare a celei de-a treisprezecea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0350",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cdcbea32-a096-4aa6-969b-5578f718dd93.0022.04/DOC_1",
+     "sha256": "ec8836085a4f37b0f5e45429e0dbfa654571199cdf9d8bb90ab6e033eb5863ac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-355-2003",
+   "path": "ue/regulament/2003/355",
+   "short": "Regulamentul (CE) nr. 355/2003",
+   "title": "Regulamentul (CE) nr. 355/2003 al Consiliului din 20 februarie 2003 privind autorizarea aditivului avilamicină în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0355",
+   "versions": [
+    {
+     "from": "2003-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f06c5a61-589f-4996-93dc-c269a37c6f0f.0022.04/DOC_9",
+     "sha256": "3fa80616705b513aff673e115649ceeb3baa51a34f024590a0eb171f8d8c8201"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-370-2003",
+   "path": "ue/regulament/2003/370",
+   "short": "Regulamentul (CE) nr. 370/2003",
+   "title": "Regulamentul (CE) nr. 370/2003 al Comisiei din 27 februarie 2003 de efectuare a celei de-a paisprezecea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0370",
+   "versions": [
+    {
+     "from": "2003-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59218064-c2b3-4439-9702-53bcdd9c1869.0022.04/DOC_1",
+     "sha256": "4d013d0d53355328b6a08350e4c106be4bda00b2a728eaa1d7e790dbca9d6c74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-384-2003",
+   "path": "ue/regulament/2003/384",
+   "short": "Regulamentul (CE) nr. 384/2003",
+   "title": "Regulamentul (CE) nr. 384/2003 al Comisiei din 26 februarie 2003 de modificare a Regulamentului (CE) nr. 32/2000 al Consiliului pentru a ține seama de Regulamentul (CE) nr. 1832/2002 al Comisiei de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0384",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fd62b1e-264e-4919-855f-bf8dd87ab2c0.0022.04/DOC_1",
+     "sha256": "80c90b739920a33918dec5b72f4a7ed6d55147f22d9bf9e7c5a3a0692ba52814"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-414-2003",
+   "path": "ue/regulament/2003/414",
+   "short": "Regulamentul (CE) nr. 414/2003",
+   "title": "Regulamentul (CE) nr. 414/2003 al Comisiei din 5 martie 2003 de efectuare a celei de-a cincisprezecea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0414",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33584c97-3c6f-4c07-96bd-4dc10b551b5c.0022.04/DOC_1",
+     "sha256": "10008513286c11fc4dade7d629b3a0427a06ec738a07911836cf42922c49c51f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-430-2003",
+   "path": "ue/regulament/2003/430",
+   "short": "Regulamentul (CE) nr. 430/2003",
+   "title": "Regulamentul (CE) nr. 430/2003 al Comisiei din 7 martie 2003 de stabilire a restituirilor la export pentru zahărul alb și zahărul brut ca atare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0430",
+   "versions": [
+    {
+     "from": "2003-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e589d28-1a99-4294-be2d-2f75d55fecdc.0022.04/DOC_11",
+     "sha256": "b5f07705e900385055ad43ade885f35670b3404a567fd2802aece7fb8bf5c38f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-431-2003",
+   "path": "ue/regulament/2003/431",
+   "short": "Regulamentul (CE) nr. 431/2003",
+   "title": "Regulamentul (CE) nr. 431/2003 al Comisiei din 7 martie 2003 de stabilire a restituirilor la export, pentru siropuri și alte produse din sectorul zahărului exportate ca atare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0431",
+   "versions": [
+    {
+     "from": "2003-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88bb4a97-45f9-48ed-8c0c-370d46fdfa0f.0022.04/DOC_1",
+     "sha256": "62541289393199af856d4181db7689d64d47f64d181df03066a6f395a390e850"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-437-2003",
+   "path": "ue/regulament/2003/437",
+   "short": "Regulamentul (CE) nr. 437/2003",
+   "title": "Regulamentul (CE) nr. 437/2003 al Parlamentului European și al Consiliului din 27 februarie 2003 privind rapoartele statistice referitoare la transportul aerian de pasageri, mărfuri și poștă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0437",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7000ea0-9d64-4353-8296-acc9ce284914.0022.03/DOC_2",
+     "sha256": "7ea516ccb20b37ceeb48795de75e684d332bdf123b3c40bbe8ca58040cc03dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-450-2003",
+   "path": "ue/regulament/2003/450",
+   "short": "Regulamentul (CE) nr. 450/2003",
+   "title": "Regulamentul (CE) nr. 450/2003 al Parlamentului European și al Consiliului din 27 februarie 2003 privind indicele costului forței de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0450",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35ef9105-c08d-48b0-9b63-5b16e5809575.0022.03/DOC_3",
+     "sha256": "a17e8059c94ce6b9f1fa5ad56e4e4ccac8be7645f87e2c4d793a6b4e2ddab43b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-492-2003",
+   "path": "ue/regulament/2003/492",
+   "short": "Regulamentul (CE) nr. 492/2003",
+   "title": "Regulamentul (CE) nr. 492/2003 al Comisiei din 18 martie 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut de Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (Soprèssa Vicentina, Asparago verde di Altedo, Pêra Rocha do Oeste)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0492",
+   "versions": [
+    {
+     "from": "2003-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b7e51d85-01be-4b6e-8909-31d4771d2958.0022.04/DOC_7",
+     "sha256": "4ee980ef449750b67c3e757cdb5058d2ac997a1dcfeb8598e840373c385301c8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-531-2003",
+   "path": "ue/regulament/2003/531",
+   "short": "Regulamentul (CE) nr. 531/2003",
+   "title": "Regulamentul (CE) nr. 531/2003 al Comisiei din 25 martie 2003 de modificare a Regulamentului (CE) nr. 2375/2002 privind deschiderea și gestionarea unor contingente tarifare comunitare pentru grâul comun de altă calitate decât cea superioară provenit din țări terțe și de derogare de la Regulamentul (CEE) nr. 1766/92 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0531",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a6c8ac2-2980-4786-8fd7-7b2aef39c1c6.0022.04/DOC_1",
+     "sha256": "ec76f45af8aa708d009b4d36c42b8301a018eb57824785d77072435ea1c22f7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-55-2003",
+   "path": "ue/regulament/2003/55",
+   "short": "Regulamentul (CE) nr. 55/2003",
+   "title": "Regulamentul (CE) nr. 55/2003 al Comisiei din 13 ianuarie 2003 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0055",
+   "versions": [
+    {
+     "from": "2003-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/254166bf-9084-4cbd-aca1-a3f10cb020d3.0022.04/DOC_1",
+     "sha256": "024cbdb41ed22ef4e46ccc6021b50ba9b22f3c143225bfca9a3e817949908d09"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-561-2003",
+   "path": "ue/regulament/2003/561",
+   "short": "Regulamentul (CE) nr. 561/2003",
+   "title": "Regulamentul (CE) nr. 561/2003 al Consiliului din 27 martie 2003 de modificare, în ceea ce privește exceptările de la înghețarea fondurilor și a resurselor economice, a Regulamentului (CE) nr. 881/2002 de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0561",
+   "versions": [
+    {
+     "from": "2003-03-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/800e58dc-f547-4772-a670-d684b9280220.0022.04/DOC_1",
+     "sha256": "79517cb66a8e4c06462b0703095e2f0d7bc2a26227b407f018326b51e40b8421"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-569-2003",
+   "path": "ue/regulament/2003/569",
+   "short": "Regulamentul (CE) nr. 569/2003",
+   "title": "Regulamentul (CE) nr. 569/2003 al Comisiei din 28 martie 2003 de modificare a Regulamentului (CE) nr. 1238/95 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2100/94 al Consiliului în ceea ce privește taxele datorate Oficiului Comunitar pentru Soiuri de Plante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0569",
+   "versions": [
+    {
+     "from": "2003-03-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e340ee55-b55a-46c3-82cb-5d0983cf390d.0022.03/DOC_1",
+     "sha256": "3083fa38eddee048f0116ceee7d2834dbc045f71b448ce63eb5b49bc859db67a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-58-2003",
+   "path": "ue/regulament/2003/58",
+   "short": "Regulamentul (CE) nr. 58/2003",
+   "title": "Regulamentul (CE) nr. 58/2003 al Consiliului din 19 decembrie 2002 de stabilire a statutului agențiilor executive cărora urmează să li se încredințeze anumite sarcini în gestionarea programelor comunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0058",
+   "versions": [
+    {
+     "from": "2003-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a9c80ce-022a-4fac-8ba4-43fd45fc7389.0022.03/DOC_2",
+     "sha256": "9e5569bf887f47ca1fe113975b746c96f29055eaf7dee2689699bacbb530ab0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-6-2003",
+   "path": "ue/regulament/2003/6",
+   "short": "Regulamentul (CE) nr. 6/2003",
+   "title": "Regulamentul (CE) nr. 6/2003 al Comisiei din 30 decembrie 2002 privind difuzarea statisticilor referitoare la transportul rutier de mărfuri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0006",
+   "versions": [
+    {
+     "from": "2003-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/018ac204-c62e-4dc6-8c81-efbec83b9075.0022.03/DOC_1",
+     "sha256": "bdf68fd07e1aa4d6a608ba6f4f0a82e161fd6e5a3c1f3bf3114fa16e82a7bdf3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-607-2003",
+   "path": "ue/regulament/2003/607",
+   "short": "Regulamentul (CE) nr. 607/2003",
+   "title": "Regulamentul (CE) nr. 607/2003 al Comisiei din 2 aprilie 2003 de modificare a Regulamentului (CE) nr. 2007/2000 al Consiliului și a Regulamentului (CE) nr. 2497/2001 al Comisiei pentru a se ține seama de Regulamentul (CE) nr. 1832/2002 al Comisiei de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura Tarifară și Statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0607",
+   "versions": [
+    {
+     "from": "2003-04-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/744e33c8-22d3-4833-8e50-4b592a5abef1.0022.04/DOC_1",
+     "sha256": "b70c398f6094506eaceb55b92e3340e33e0db9136841cea74f698c59b37e93be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-617-2003",
+   "path": "ue/regulament/2003/617",
+   "short": "Regulamentul (CE) nr. 617/2003",
+   "title": "Regulamentul (CE) nr. 617/2003 al Comisiei din 4 aprilie 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut de Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (Carne dos Açores, Borrego do Nordeste Alentejano, Carne de Porco Alentejano, Pomodoro di Pachino, Uva da tavola di Mazzarrone)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0617",
+   "versions": [
+    {
+     "from": "2003-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/443b4be5-7051-4308-be4b-5544e24127f3.0022.04/DOC_11",
+     "sha256": "25b3700d005c58d59ec99f4b25309949ca8120d78ea6f9f2618ac12aef8e8db5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-627-2003",
+   "path": "ue/regulament/2003/627",
+   "short": "Regulamentul (CE) nr. 627/2003",
+   "title": "Regulamentul (CE) nr. 627/2003 al Comisiei din 4 aprilie 2003 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0627",
+   "versions": [
+    {
+     "from": "2003-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9b13c12-d474-4e61-a362-2ec7bc9b2e2f.0022.04/DOC_1",
+     "sha256": "7214a48176ea67ffdb2af7b16e61695082d3fca41fe1ad5c10b4db6ae7e3bb92"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-629-2003",
+   "path": "ue/regulament/2003/629",
+   "short": "Regulamentul (CE) nr. 629/2003",
+   "title": "Regulamentul (CE) nr. 629/2003 al Comisiei din 8 aprilie 2003 de modificare a Regulamentului (CE) nr. 528/1999 de stabilire a măsurilor de îmbunătățire a calității producției de ulei de măsline în ceea ce privește activitățile eligibile pentru finanțare comunitară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0629",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/21cd3aaf-458e-47ec-9796-b562649f8eec.0022.04/DOC_11",
+     "sha256": "ce36a6c9e720b8a200940c16f0a363750ffc5b6cce6d0f5d6a5bb1574dbdd365"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-649-2003",
+   "path": "ue/regulament/2003/649",
+   "short": "Regulamentul (CE) nr. 649/2003",
+   "title": "Regulamentul (CE) nr. 649/2003 al Comisiei din 10 aprilie 2003 de modificare a Regulamentelor (CEE) nr. 139/81, (CE) nr. 936/97 și (CE) nr. 996/97 privind importul de produse din sectorul cărnii de vită și mânzat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0649",
+   "versions": [
+    {
+     "from": "2003-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46a33572-2fdd-4313-80fa-42a854809242.0022.05/DOC_1",
+     "sha256": "6f51f34a3e183a66cbfbd2675cae01394dfce7e735ae22771c26ea3aa6e99b18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-666-2003",
+   "path": "ue/regulament/2003/666",
+   "short": "Regulamentul (CE) nr. 666/2003",
+   "title": "Regulamentul (CE) nr. 666/2003 al Comisiei din 11 aprilie 2003 de autorizare temporară a utilizării anumitor microorganisme în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0666",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4a60130-e1f4-4029-8c24-e1493829bb63.0022.05/DOC_1",
+     "sha256": "8f6ffb723ae40375d273ec89f3598f3f16524d8d04cfc1aeb48fb920e63dc2c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-669-2003",
+   "path": "ue/regulament/2003/669",
+   "short": "Regulamentul (CE) nr. 669/2003",
+   "title": "Regulamentul (CE) nr. 669/2003 al Consiliului din 8 aprilie 2003 de modificare a Regulamentului (CE) nr. 1035/2001 de stabilire a unui sistem de documentare a capturilor pentru speciile Dissostichus spp.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0669",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50a69d7b-5fb9-4d1f-b4e2-4a5455e5f7e2.0022.04/DOC_3",
+     "sha256": "82f7d117f56d32b1c7c470dcd127d7dfec015945e8529347a0d006120555c038"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-676-2003",
+   "path": "ue/regulament/2003/676",
+   "short": "Regulamentul (CE) nr. 676/2003",
+   "title": "Regulamentul (CE) nr. 676/2003 al Comisiei din 14 aprilie 2003 de modificare a Regulamentului (CE) nr. 1334/2001 privind autorizarea temporară a unui aditiv nou în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0676",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be978233-0227-4381-87e2-20e88143dfe3.0022.05/DOC_1",
+     "sha256": "6dc0b8b31176139d41a875ca232fc5aae706e359956f5e410dfbf37d0b5e2545"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-693-2003",
+   "path": "ue/regulament/2003/693",
+   "short": "Regulamentul (CE) nr. 693/2003",
+   "title": "Regulamentul (CE) nr. 693/2003 al Consiliului din 14 aprilie 2003 de stabilire a unui document de facilitare a tranzitului (FTD), a unui document de facilitare a tranzitului feroviar (FRTD) și de modificare a Instrucțiunilor consulare comune și a Manualului comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0693",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fd47b76-0a6b-4f86-9e08-396c50d4573c.0022.04/DOC_4",
+     "sha256": "c5569d788238282af3245f8e8a99968e0ca8fa56dfe927f0a800e962472dacae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-694-2003",
+   "path": "ue/regulament/2003/694",
+   "short": "Regulamentul (CE) nr. 694/2003",
+   "title": "Regulamentul (CE) nr. 694/2003 al Consiliului din 14 aprilie 2003 privind modele uniforme pentru documentul de facilitare a tranzitului (FTD) și documentul de facilitare a tranzitului feroviar (FRTD) prevăzute de Regulamentul (CE) nr. 693/2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0694",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/191eb575-d55c-4d34-8c05-ef5c7ff47496.0022.04/DOC_1",
+     "sha256": "e417040cd9c8486388b79fc85e1652ad02c11dbfc65277c27a8775e30d24d441"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-742-2003",
+   "path": "ue/regulament/2003/742",
+   "short": "Regulamentul (CE) nr. 742/2003",
+   "title": "Regulamentul (CE) nr. 742/2003 al Comisiei din 28 aprilie 2003 de efectuare a celei de-a șaptesprezecea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0742",
+   "versions": [
+    {
+     "from": "2003-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aaed3853-5098-4ee5-9ae9-c8a71efd7604.0022.04/DOC_1",
+     "sha256": "acd3147bf2d767ba2b2bae12d8cab32cf76b3bfcef13c8e438c2ea1f4ab59fbc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-745-2003",
+   "path": "ue/regulament/2003/745",
+   "short": "Regulamentul (CE) nr. 745/2003",
+   "title": "Regulamentul (CE) nr. 745/2003 al Comisiei din 28 aprilie 2003 de modificare a Regulamentului (CE) nr. 2580/2001 al Consiliului privind măsuri specifice îndreptate împotriva anumitor persoane și entități în vederea combaterii terorismului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0745",
+   "versions": [
+    {
+     "from": "2003-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c81eca0-5655-4fee-8452-8560ec7834e4.0022.04/DOC_1",
+     "sha256": "ad7386be10bc814e5b01db02b6e6985c2ef4f613e0660d51b3a6adb3366b6a43"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-762-2003",
+   "path": "ue/regulament/2003/762",
+   "short": "Regulamentul (CE) nr. 762/2003",
+   "title": "Regulamentul (CE) nr. 762/2003 al Comisiei din 30 aprilie 2003 de modificare a Regulamentului (CE) nr. 2368/2002 al Consiliului de punere în aplicare a sistemului de certificare pentru Procesul Kimberley privind comerțul internațional cu diamante brute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0762",
+   "versions": [
+    {
+     "from": "2003-05-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52fd7ef4-2c23-4429-b513-9d1c46fc0d6e.0022.04/DOC_1",
+     "sha256": "a975b0e3f3a060f71864375414fd07ef393c7b4a8c59f38a95a68ca5b8b45bba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-782-2003",
+   "path": "ue/regulament/2003/782",
+   "short": "Regulamentul (CE) nr. 782/2003",
+   "title": "Regulamentul (CE) nr. 782/2003 al Parlamentului European și al Consiliului din 14 aprilie 2003 privind interzicerea compușilor organostanici pe nave",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0782",
+   "versions": [
+    {
+     "from": "2003-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0308d67c-2191-4f8c-931e-277b0f03f2b8.0022.03/DOC_6",
+     "sha256": "d4b4f4341d6b248606d39209ec497d97944de7b52a91ee450366e3a67c686b20"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-806-2003",
+   "path": "ue/regulament/2003/806",
+   "short": "Regulamentul (CE) nr. 806/2003",
+   "title": "Regulamentul (CE) nr. 806/2003 al Consiliului din 14 aprilie 2003 de adaptare la Decizia 1999/468/CE a dispozițiilor privind comitetele care asistă Comisia în exercitarea competențelor de executare prevăzute de actele Consiliului adoptate în conformitate cu procedura de consultare (majoritate calificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0806",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/760cf661-a472-4e93-891f-1502be1b905f.0022.04/DOC_2",
+     "sha256": "09c3bad5a1bb1d299dbf58349087f0e1e212dfb533d8ae2a37142e851a81bc48"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-807-2003",
    "path": "ue/regulament/2003/807",
    "short": "Regulamentul (CE) nr. 807/2003",
@@ -1529,6 +2474,126 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/051198cd-4438-44a4-8769-db96926b6565.0022.04/DOC_1",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-828-2003",
+   "path": "ue/regulament/2003/828",
+   "short": "Regulamentul (CE) nr. 828/2003",
+   "title": "Regulamentul (CE) nr. 828/2003 al Comisiei din 14 mai 2003 de modificare a caietului de sarcini pentru șaisprezece denumiri din anexa Regulamentului (CE) nr. 1107/96 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (Danablu, Monti Iblei, Lesbos, Beaufort, Salers, Reblochon sau Reblochon de Savoie, Laguiole, Mont d'Or sau Vacherin du Haut-Doubs, Comté, Roquefort, Époisses de Bourgogne, Brocciu corse sau Brocciu, Sainte-Maure de Touraine, Ossau-Iraty, Dinde de Bresse, Huile essentielle de lavande de Haute-Provence)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0828",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2358b32-da01-4309-b620-3862d7de3233.0022.04/DOC_1",
+     "sha256": "4829475bd24dcba3a28c333fc7af734cf45f700b14eb32a5e6366e82e75fdbbb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-859-2003",
+   "path": "ue/regulament/2003/859",
+   "short": "Regulamentul (CE) nr. 859/2003",
+   "title": "Regulamentul (CE) nr. 859/2003 al Consiliului din 14 mai 2003 de extindere a dispozițiilor Regulamentului (CEE) nr. 1408/71 și Regulamentului (CEE) nr. 574/72 la resortisanții unor țări terțe care nu fac obiectul dispozițiilor respective exclusiv pe motive de cetățenie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0859",
+   "versions": [
+    {
+     "from": "2003-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9cb64f6-c17f-4ba2-ae42-5d127b148dcf.0022.04/DOC_4",
+     "sha256": "d90c8a6e78b22f1bb4dd080cca611be2a5058af72eb35111b555ff313d29727f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-865-2003",
+   "path": "ue/regulament/2003/865",
+   "short": "Regulamentul (CE) nr. 865/2003",
+   "title": "Regulamentul (CE) nr. 865/2003 al Comisiei din 19 mai 2003 de completare a anexei la Regulamentul (CE) nr. 2400/96 (Cítricos Valencianos sau Cítrics Valencians)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0865",
+   "versions": [
+    {
+     "from": "2003-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d337511-f63e-4051-9b97-9028c3986cca.0022.05/DOC_1",
+     "sha256": "ee94814522723fb7ebb5e6508e3d0f08722d88eaa7e1b6142a86d5b55993a7bc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-866-2003",
+   "path": "ue/regulament/2003/866",
+   "short": "Regulamentul (CE) nr. 866/2003",
+   "title": "Regulamentul (CE) nr. 866/2003 din 19 mai 2003",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0866",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f197f42e-bae7-4712-b289-26f6aac975bd.0022.04/DOC_1",
+     "sha256": "dcc14b8b254af865aaba0307fb6df2737833f29437a4a58f56b100bc0d6ae797"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-874-2003",
+   "path": "ue/regulament/2003/874",
+   "short": "Regulamentul (CE) nr. 874/2003",
+   "title": "Regulamentul (CE) nr. 874/2003 al Consiliului din 6 mai 2003 privind încheierea Acordului dintre Comunitatea Europeană și Republica Kiribati privind pescuitul în zona de pescuit Kiribati",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0874",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19742d3b-1228-4d20-b44f-09c2e3cbd3a4.0022.04/DOC_1",
+     "sha256": "249648193075c7c4fdd0a1832203bd75b6f0600511cdcc95a278ef6ce059fdb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-876-2003",
+   "path": "ue/regulament/2003/876",
+   "short": "Regulamentul (CE) nr. 876/2003",
+   "title": "Regulamentul (CE) nr. 876/2003 al Comisiei din 21 mai 2003 de definire a unor măsuri specifice în temeiul Regulamentului (CE) nr. 2347/2002 al Consiliului privind capturile și debarcările speciilor marine de adâncime pentru activitățile de pescuit sezonier ale Danemarcei din Skagerrak și Marea Nordului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0876",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d716ff6-a062-41d9-a8c8-35cc79361002.0022.04/DOC_9",
+     "sha256": "257ac28879be331945ebaac577f96d6de19e053a3c7903424daabe0fc2e622d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-882-2003",
+   "path": "ue/regulament/2003/882",
+   "short": "Regulamentul (CE) nr. 882/2003",
+   "title": "Regulamentul (CE) nr. 882/2003 al Consiliului din 19 mai 2003 de stabilire a unui sistem de urmărire și verificare a tonului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0882",
+   "versions": [
+    {
+     "from": "2003-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b74de051-5293-4d0a-baae-27a9f3fb986a.0022.04/DOC_1",
+     "sha256": "41e0e6f275da9dfe474d57383823b32654f966c487229966288da1a3280b7e18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-975-2003",
+   "path": "ue/regulament/2003/975",
+   "short": "Regulamentul (CE) nr. 975/2003",
+   "title": "Regulamentul (CE) nr. 975/2003 al Consiliului din 5 iunie 2003 privind deschiderea și gestionarea unui contingent tarifar pentru importurile de conserve de ton incluse în codurile NC 16041411, 16041418 și 16042070",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003R0975",
+   "versions": [
+    {
+     "from": "2003-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/137705bf-3e86-4c38-b149-87b8d45cb177.0022.04/DOC_1",
+     "sha256": "40c51852e24a361288a5b4ecd35ccc1e63bb54e82c1a0e7f5a168a5f5d5fde74"
     }
    ]
   }

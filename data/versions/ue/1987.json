@@ -136,6 +136,381 @@
      "sha256": "c0cd98656d30c299a78f495e374d227c5259e5279e584a76b395d6f1f4eeb3c0"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1307-1987",
+   "path": "ue/regulament/1987/1307",
+   "short": "Regulamentul CELEX 31987R1307",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 1307/87 al Consiliului din 11 mai 1987 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 300/76 de stabilire a categoriilor de funcționari care au dreptul la indemnizații pentru munca în schimburi, precum și a condițiilor de acordare și a ratelor acestor indemnizații",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R1307",
+   "versions": [
+    {
+     "from": "1987-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/606f2b4b-52fe-4062-80b1-a608a2a1a8ee.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1580-1987",
+   "path": "ue/regulament/1987/1580",
+   "short": "Regulamentul (CEE) nr. 1580/87",
+   "title": "Regulamentul (CEE) nr. 1580/87 al Consiliului din 2 iunie 1987 privind încheierea unui Acord între Comunitatea Economică Europeană și Guvernul Republicii Gambia cu privire la pescuitul în largul Gambiei și de adoptare a dispozițiilor de aplicare a acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R1580",
+   "versions": [
+    {
+     "from": "1987-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/91fde12a-fbaa-4e1b-a026-35b882ed1665.0022.03/DOC_1",
+     "sha256": "24ba93787b83c57148bd58bf1136284a69c3d839d8270c443771366e71b80895"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2048-1987",
+   "path": "ue/regulament/1987/2048",
+   "short": "Regulamentul (CEE) nr. 2048/87",
+   "title": "Regulamentul (CEE) nr. 2048/87 al Comisiei din 10 iulie 1987 de stabilire a normelor de aplicare a măsurilor speciale pentru importul de ulei de măsline originar din Tunisia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R2048",
+   "versions": [
+    {
+     "from": "1987-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4a86f69-29dc-4560-9c84-2381e2547d03.0020.03/DOC_2",
+     "sha256": "05c6846d3e83974a1f1674d742225e7a63226428ec97190501307d1a705771ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2143-1987",
+   "path": "ue/regulament/1987/2143",
+   "short": "Regulamentul (CEE) nr. 2143/87",
+   "title": "Regulamentul (CEE) nr. 2143/87 al Consiliului din 13 iulie 1987 privind încheierea Acordului între Comunitatea Economică Europeană și Guvernul Republicii Populare Mozambic privind relațiile în domeniul pescuitului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R2143",
+   "versions": [
+    {
+     "from": "1987-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4da72ae7-cc4c-4ac7-8b94-578144c29b9c.0022.03/DOC_1",
+     "sha256": "c9ea92bcdca671616f8ff8c2a5ff91be345e331e38274ea71230bc14874bfdd3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-253-1987",
+   "path": "ue/regulament/1987/253",
+   "short": "Regulamentul (CEE) nr. 253/87",
+   "title": "Regulamentul (CEE) nr. 253/87 al Consiliului din 19 ianuarie 1987 privind încheierea acordului dintre Comunitatea Economică Europeană și Guvernul Republicii Guineea de modificare a Acordului dintre Comunitatea Economică Europeană și Guvernul Republicii Populare Revoluționare Guineea cu privire la pescuitul în largul coastei Guineei, semnat la Conakry în data de 7 februarie 1983",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0253",
+   "versions": [
+    {
+     "from": "1987-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/afcedfac-d215-4b79-bd19-3e32e1adfb26.0022.03/DOC_1",
+     "sha256": "feb28cda744878c898f0bd3bc33d6255719f469de2f28612c2a1819fd8f5cd49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2658-1987",
+   "path": "ue/regulament/1987/2658",
+   "short": "Regulamentul (CEE) nr. 2658/87",
+   "title": "Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R2658",
+   "versions": [
+    {
+     "from": "1987-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c.0022.03/DOC_2",
+     "sha256": "2931e703d740c06040c7220cdbf85715e593775c33f5b7de5798d8dbd4e8671c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3170-1987",
+   "path": "ue/regulament/1987/3170",
+   "short": "Regulamentul (CEE) nr. 3170/87",
+   "title": "Regulamentul (CEE) nr. 3170/87 al Comisiei din 23 octombrie 1987 de stabilire a normelor de aplicare a măsurilor speciale pentru importul de ulei de măsline originar din Tunisia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3170",
+   "versions": [
+    {
+     "from": "1987-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9756bc4-b52d-4480-a90e-0189bb701db4.0020.03/DOC_3",
+     "sha256": "dd394d92f4db8ff501587fd7033d67455a28cc29f500e174a4c13177d21d1bd3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3443-1987",
+   "path": "ue/regulament/1987/3443",
+   "short": "Regulamentul (CEE) nr. 3443/87",
+   "title": "Regulamentul (CEE) nr. 3443/87 al Consiliului din 19 octombrie 1987 privind încheierea Acordului sub forma unui de schimb de scrisori referitor la modificarea Acordului între Comunitatea Economică Europeană și Confederația Elvețiană privind aplicarea reglementărilor referitoare la tranzitul comunitar și privind aplicarea în Comunitate a Deciziei nr. 1/87 a Comisiei mixte CEE-Elveția „Tranzit comunitar” de modificare a Acordului între Comunitatea Economică Europeană și Confederația Elvețiană privind aplicarea reglementărilor referitoare la tranzitul comunitar, precum și a apendicelor la acord",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3443",
+   "versions": [
+    {
+     "from": "1987-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1c514e0-d25a-411d-ac97-40556ea9c312.0020.03/DOC_3",
+     "sha256": "7807b518b6bebd9599737d770715ea478dfa72dfea62bf05f692516c6cecb115"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3522-1987",
+   "path": "ue/regulament/1987/3522",
+   "short": "Regulamentul (CEE) nr. 3522/87",
+   "title": "Regulamentul (CEE) nr. 3522/87 al Comisiei din 24 noiembrie 1987 privind evidența modului de transport în statisticile comerțului între statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3522",
+   "versions": [
+    {
+     "from": "1987-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc39a824-0bb3-4c96-bf53-d1f65af50ac0.0022.05/DOC_2",
+     "sha256": "049bf4159aca748417a5d996f36dddaa5d298fb6be1044ab06633aef15f74dbd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3534-1987",
+   "path": "ue/regulament/1987/3534",
+   "short": "Regulamentul (CEE) nr. 3534/87",
+   "title": "Regulamentul (CEE) nr. 3534/87 al Comisiei din 24 noiembrie 1987 privind clasificarea anumitor produse în cadrul subpoziției 16.04 E din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3534",
+   "versions": [
+    {
+     "from": "1987-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10d716cd-a6c1-4380-b07b-68a4a687b48b.0022.03/DOC_3",
+     "sha256": "1cdabf40ed50fda8a4d9cde99e3117501e822b256f0ed52c01ef30e254fae614"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3544-1987",
+   "path": "ue/regulament/1987/3544",
+   "short": "Regulamentul (CEE) nr. 3544/87",
+   "title": "Regulamentul (CEE) nr. 3544/87 al Consiliului din 23 noiembrie 1987 privind încheierea acordului de modificare a Acordului dintre Comunitatea Economică Europeană și Guvernul Republicii Democrate São Tomé și Principe cu privire la pescuitul în largul Republicii São Tomé și Principe, semnat la Bruxelles în data de 1 februarie 1984",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3544",
+   "versions": [
+    {
+     "from": "1987-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06d34d40-f77f-4005-b44f-3b0fdbf9302c.0022.03/DOC_1",
+     "sha256": "063037bab35ae59bd24caf39c1e6e21da4eeb92adbe69235b6921c5eb0cf6572"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3618-1987",
+   "path": "ue/regulament/1987/3618",
+   "short": "Regulamentul (CEE) nr. 3618/87",
+   "title": "Regulamentul (CEE) nr. 3618/87 al Consiliului din 30 noiembrie 1987 privind încheierea Acordului sub forma unui schimb de scrisori între Comunitatea Economică Europeană și Republica Tunisiană de modificare a Acordului privind anumite vinuri originare din Tunisia care au dreptul la o denumire de origine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3618",
+   "versions": [
+    {
+     "from": "1987-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6db88e3-85ab-4955-8507-3768ddc68b5f.0022.03/DOC_3",
+     "sha256": "3d0783264a45e04a7e0896fb19a21409b7bbd6d3781984791267dab6b323602b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3620-1987",
+   "path": "ue/regulament/1987/3620",
+   "short": "Regulamentul (CEE) nr. 3620/87",
+   "title": "Regulamentul (CEE) nr. 3620/87 al Consiliului din 30 noiembrie 1987 privind încheierea Acordului între Comunitatea Economică Europeană și Guvernul Republicii Populare Angola privind pescuitul în largul Angolei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3620",
+   "versions": [
+    {
+     "from": "1987-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a77a8b83-ca5c-4151-b153-2a3a92f45621.0022.03/DOC_1",
+     "sha256": "7758ad800e0be5e938f3fa2ff722079dff8bfe019eb458b5d5d1d3c4642be8d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3985-1987",
+   "path": "ue/regulament/1987/3985",
+   "short": "Regulamentul (CEE) nr. 3985/87",
+   "title": "Regulamentul (CEE) nr. 3985/87 al Comisiei din 22 decembrie 1987 de modificare a Regulamentului (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3985",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0603efa6-6c28-4426-b0c9-259a7a0cd74d.0020.03/DOC_3",
+     "sha256": "24a4aa5b739afdb712cfd18f1a1d651ddfeca199b368db148681e286c1c6d433"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3986-1987",
+   "path": "ue/regulament/1987/3986",
+   "short": "Regulamentul (CEE) nr. 3986/87",
+   "title": "Regulamentul (CEE) nr. 3986/87 al Comisiei din 22 decembrie 1987 de modificare a unor regulamente privind punerea în aplicare a organizării comune a piețelor în sectorul cărnii de pasăre ca urmare a introducerii Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3986",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b667332-5624-4124-85cb-b3ca379d6310.0022.04/DOC_3",
+     "sha256": "1a2a64c7d75b506862a76b8f2b57c6d3f1fbd71fb07e4ebc9a5a7a10a684cb0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3987-1987",
+   "path": "ue/regulament/1987/3987",
+   "short": "Regulamentul (CEE) nr. 3987/87",
+   "title": "Regulamentul (CEE) nr. 3987/87 al Comisiei din 22 decembrie 1987 de modificare a unor regulamente privind punerea în aplicare a organizării comune a piețelor în sectorul ouălor și cărnii de pasăre ca urmare a introducerii nomenclaturii combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3987",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/650edd4b-910c-4144-87aa-32b459069c87.0022.03/DOC_4",
+     "sha256": "005d5433117a740342fd26506879bcd50c8719472763e39596ef65fe86bd578d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3988-1987",
+   "path": "ue/regulament/1987/3988",
+   "short": "Regulamentul (CEE) nr. 3988/87",
+   "title": "Regulamentul (CEE) nr. 3988/87 al Comisiei din 22 decembrie 1987 de modificare a unor acte referitoare la aplicarea organizării comune a pieței în sectorul cărnii de vită ca urmare a introducerii Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R3988",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/796e9f65-3afb-4383-bff6-906bd89e8689.0022.03/DOC_7",
+     "sha256": "648ba21cad28037d275899ecdda198d8d64a49549f446b37f0f012b22be43052"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4006-1987",
+   "path": "ue/regulament/1987/4006",
+   "short": "Regulamentul (CEE) nr. 4006/87",
+   "title": "Regulamentul (CEE) nr. 4006/87 al Comisiei din 23 decembrie 1987 de modificare a Protocolului nr. 4 privind bumbacul",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R4006",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b23c54f-3551-4847-9874-33e731d062c8.0020.03/DOC_3",
+     "sha256": "aca6c68f5630615b0f33cedc382270f9a4068b7491eb0c8f46822b75d512ef17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4143-1987",
+   "path": "ue/regulament/1987/4143",
+   "short": "Regulamentul (CEE) nr. 4143/87",
+   "title": "Regulamentul (CEE) nr. 4143/87 al Consiliului din 14 decembrie 1987 privind încheierea Acordului dintre Comunitatea Economică Europeană și Republica Islamică Mauritania privind pescuitul în largul coastei Mauritaniei și adoptarea dispozițiilor pentru aplicarea acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R4143",
+   "versions": [
+    {
+     "from": "1988-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e1d7530-37ec-496b-b926-62bc76bf40f9.0020.03/DOC_1",
+     "sha256": "b78e7bba27f81ef2fee1629cf9825ed6b16fb1ce6087894bd9165434285adbd3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4155-1987",
+   "path": "ue/regulament/1987/4155",
+   "short": "Regulamentul (CEE) nr. 4155/87",
+   "title": "Regulamentul (CEE) nr. 4155/87 al Comisiei din 22 decembrie 1987 de modificare a unor regulamente privind aplicarea organizării comune a piețelor în sectorul ouălor, ca urmare a introducerii Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R4155",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b029b91-33c2-47ac-8a21-070725b9eff0.0003.03/DOC_4",
+     "sha256": "7a27c777b38a53fa4d3dd4b321986daa8cf3803f462cc6329229829a9116990c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-678-1987",
+   "path": "ue/regulament/1987/678",
+   "short": "Regulamentul (CEE) nr. 678/87",
+   "title": "Regulamentul (CEE) nr. 678/87 al Consiliului din 26 ianuarie 1987 de aplicare a sistemului de certificate de origine prevăzut de acordul internațional din 1983 privind cafeaua în condițiile suspendării contingentelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0678",
+   "versions": [
+    {
+     "from": "1987-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d83200b5-8016-4ed1-b6c6-fac33d0a9447.0022.03/DOC_3",
+     "sha256": "7bd5c0d07c4f3583774b35d2f041741add117fcb94975af66c3a846031c77363"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-680-1987",
+   "path": "ue/regulament/1987/680",
+   "short": "Regulamentul CELEX 31987R0680",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 680/87 al Consiliului din 23 februarie 1987 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 1860/76 de stabilire a condițiilor de angajare aplicabile personalului Fundației Europene pentru Îmbunătățirea Condițiilor de Viață și de Muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0680",
+   "versions": [
+    {
+     "from": "1987-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5fc2245-a531-46cc-b4f6-5b906c8ef757.0022.03/DOC_1",
+     "sha256": "29481355cd87b3d3a85ef131670125ef659ead4caabb0d65d735f02539e9b286"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-801-1987",
+   "path": "ue/regulament/1987/801",
+   "short": "Regulamentul (CEE) nr. 801/87",
+   "title": "Regulamentul (CEE) nr. 801/87 al Consiliului din 16 martie 1987 de modificare a Regulamentului (CEE) nr. 1883/78 de stabilire a normelor generale privind finanțarea intervențiilor de către Fondul European de Orientare și Garantare Agricolă, secțiunea Garantare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0801",
+   "versions": [
+    {
+     "from": "1987-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0b98f3e-c331-43fc-8505-0928cec60ed6.0022.03/DOC_5",
+     "sha256": "59761459cdf37081b608e56ff3e69a50932bd7903364f70733f3996dedc78019"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-954-1987",
+   "path": "ue/regulament/1987/954",
+   "short": "Regulamentul (CEE) nr. 954/87",
+   "title": "Regulamentul (CEE) nr. 954/87 al Comisiei din 1 aprilie 1987 privind eșantionarea capturilor pentru determinarea procentajului de specii țintă și specii protejate în cadrul pescuitului efectuat cu plase cu ochiuri mici",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0954",
+   "versions": [
+    {
+     "from": "1987-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f59aa2d-a453-4747-ad31-ea88f1913bca.0022.03/DOC_1",
+     "sha256": "ec6a349cbdec1d504b5888a3e12a9cd06fa27a6c2ecf5e87adf17ac14db95414"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-955-1987",
+   "path": "ue/regulament/1987/955",
+   "short": "Regulamentul (CEE) nr. 955/87",
+   "title": "Regulamentul (CEE) nr. 955/87 al Comisiei din 1 aprilie 1987 de modificare a Regulamentului (CEE) nr. 3440/84 referitor la fixarea de dispozitive la traule, năvoade daneze și plase de pescuit similare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987R0955",
+   "versions": [
+    {
+     "from": "1987-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0687a98-c2bf-4fb9-bd70-3b2094f366b1.0022.03/DOC_1",
+     "sha256": "28c8867df2849558349ad00750af133849354ee25c03c67d2580c821f89c19e1"
+    }
+   ]
   }
  ]
 }

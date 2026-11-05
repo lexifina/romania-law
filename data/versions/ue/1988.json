@@ -76,6 +76,261 @@
      "sha256": "9d7fd9b9a9a068fb78f823ca56eabd144d19bb2702a79e6bdd8f34869a8e412a"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1059-1988",
+   "path": "ue/regulament/1988/1059",
+   "short": "Regulamentul (CEE) nr. 1059/88",
+   "title": "Regulamentul (CEE) nr. 1059/88 al Consiliului din 28 martie 1988 de stabilire a regimului aplicabil schimburilor comerciale ale Greciei cu Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R1059",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9fbf10a8-b417-420d-a5b2-4be224fbf047.0020.04/DOC_2",
+     "sha256": "aaaa9de642d30597c45f09557e05a321e018eaa0b66e31874be600edd400a70c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1315-1988",
+   "path": "ue/regulament/1988/1315",
+   "short": "Regulamentul (CEE) nr. 1315/88",
+   "title": "Regulamentul (CEE) nr. 1315/88 al Consiliului din 3 mai 1988 de modificare a Regulamentului (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun și a Regulamentului (CEE) nr. 918/83 privind instituirea unui regim comunitar de scutiri de drepturi vamale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R1315",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e6d0e69-7348-451d-9882-43c533df3146.0022.03/DOC_3",
+     "sha256": "584c3599a49ff48b2c230f9d2e178050c3eb733f5a371c2872b5cfb64a7e952f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1714-1988",
+   "path": "ue/regulament/1988/1714",
+   "short": "Regulamentul (CEE) nr. 1714/88",
+   "title": "Regulamentul (CEE) nr. 1714/88 al Comisiei din 13 iunie 1988 de modificare a unor regulamente de organizare comună a piețelor în sectorul zahărului ca urmare a introducerii Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R1714",
+   "versions": [
+    {
+     "from": "1988-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84200a42-3f3e-431f-a947-641838e9d4cc.0022.03/DOC_7",
+     "sha256": "b1bb0103456e5039eb2785be62a7664e2cc3af69ba53383e42f05380b5bcd836"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1811-1988",
+   "path": "ue/regulament/1988/1811",
+   "short": "Regulamentul (CEE) nr. 1811/88",
+   "title": "Regulamentul (CEE) nr. 1811/88 al Consiliului din 23 iunie 1988 privind punerea în aplicare a Deciziei nr. 1/88 a Comisiei mixte CEE-AELS „Tranzit comun” de modificare a apendicelor I, II și III la Convenția din 20 mai 1987 privind un regim de tranzit comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R1811",
+   "versions": [
+    {
+     "from": "1988-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f30656d-29c4-4016-8165-215267f13011.0020.03/DOC_2",
+     "sha256": "243af3175bcf65941cc819f9731cf4d39bd6a1ba29c367e74298f2caa5059fc5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-222-1988",
+   "path": "ue/regulament/1988/222",
+   "short": "Regulamentul (CEE) nr. 222/88",
+   "title": "Regulamentul (CEE) nr. 222/88 al Comisiei din 22 decembrie 1987 de modificare a unor acte din sectorul laptelui și produselor lactate ca urmare a adoptării Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R0222",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e66d2766-3c54-4ff0-90fc-757d7980f576.0022.04/DOC_2",
+     "sha256": "489e764b166965424432ca6742071adb63269b3d475d9743236761d62d9a42d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2275-1988",
+   "path": "ue/regulament/1988/2275",
+   "short": "Regulamentul (CEE) nr. 2275/88",
+   "title": "Regulamentul (CEE) nr. 2275/88 al Comisiei din 25 iulie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R2275",
+   "versions": [
+    {
+     "from": "1988-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8649bab-a825-47a6-a0f9-ae7e65314f95.0022.03/DOC_2",
+     "sha256": "22ca438567862a361bc3713aa7b08a948b0c5204964f2c03f5d2f1c3b12ed5f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2580-1988",
+   "path": "ue/regulament/1988/2580",
+   "short": "Regulamentul (CEE) nr. 2580/88",
+   "title": "Regulamentul (CEE) nr. 2580/88 al Comisiei din 17 august 1988 de stabilire a normelor de modificare a listei cu anumite soiuri de orez menționate în anexa B la Regulamentul (CEE) nr. 3878/87",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R2580",
+   "versions": [
+    {
+     "from": "1988-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cfeefa16-0757-4f3d-aa41-26d5ed8345ac.0022.03/DOC_1",
+     "sha256": "00d109abc1622a48b0e9fdaafd0bf15fa58e4d5d6474ad4fe3babd866dcd5022"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3240-1988",
+   "path": "ue/regulament/1988/3240",
+   "short": "Regulamentul (CEE) nr. 3240/88",
+   "title": "Regulamentul (CEE) nr. 3240/88 al Consiliului din 18 octombrie 1988 de modificare a Regulamentului (CEE) nr. 2915/86 de stabilire a dispozițiilor socio-structurale din agricultură aplicabile Insulelor Canare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3240",
+   "versions": [
+    {
+     "from": "1988-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c96a0ac-a63c-423a-8caf-220f89363f42.0022.04/DOC_1",
+     "sha256": "cd01a51bafac70e31bd2ba21dc3a993f400d461223af841ba521429327747b80"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3491-1988",
+   "path": "ue/regulament/1988/3491",
+   "short": "Regulamentul (CEE) nr. 3491/88",
+   "title": "Regulamentul (CEE) nr. 3491/88 al Comisiei din 9 noiembrie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3491",
+   "versions": [
+    {
+     "from": "1988-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/29932b3f-3cbd-4ab5-a3f6-84140e4fa789.0020.03/DOC_2",
+     "sha256": "e3649965dc5e850f5e50efc4c7fb0010db187de1043ebd131e0f8be3bc44b809"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3564-1988",
+   "path": "ue/regulament/1988/3564",
+   "short": "Regulamentul (CEE) nr. 3564/88",
+   "title": "Regulamentul (CEE) nr. 3564/88 al Comisiei din 16 noiembrie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3564",
+   "versions": [
+    {
+     "from": "1988-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85e681e2-b59a-4f3e-b7dd-6fa7624bda95.0022.03/DOC_1",
+     "sha256": "a01ffa9e30113a097a26d730d1b7dbc32a37331d946fb5133b9de300035c2c15"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3565-1988",
+   "path": "ue/regulament/1988/3565",
+   "short": "Regulamentul (CEE) nr. 3565/88",
+   "title": "Regulamentul (CEE) nr. 3565/88 al Comisiei din 16 noiembrie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3565",
+   "versions": [
+    {
+     "from": "1988-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac7a0ced-b485-4d71-a160-a1c3e7af6364.0022.03/DOC_3",
+     "sha256": "7af5d2fd31ccd80c92b49853c5fffa479417eea7dbabc7b2e5cfcf0a5a85056d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3914-1988",
+   "path": "ue/regulament/1988/3914",
+   "short": "Regulamentul (CEE) nr. 3914/88",
+   "title": "Regulamentul (CEE) nr. 3914/88 al Comisiei din 14 decembrie 1988 privind procedurile analitice care trebuie utilizate pentru determinarea conținutului de zaharuri, materie grasă și substanță uscată a produselor de la codul 19059030 din Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3914",
+   "versions": [
+    {
+     "from": "1989-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fcdf7a9c-99c3-4071-bc2f-beb4ddb03bb6.0022.03/DOC_3",
+     "sha256": "27240207d1d3203b20555a1eb568f14559765e2fd77718f4adcb0e10d5f97eaf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3915-1988",
+   "path": "ue/regulament/1988/3915",
+   "short": "Regulamentul (CEE) nr. 3915/88",
+   "title": "Regulamentul (CEE) nr. 3915/88 al Comisiei din 15 decembrie 1988 de stabilire a dispozițiilor de aplicare a articolului 63c din Regulamentul (CEE) nr. 918/83 al Consiliului privind instituirea unui regim comunitar de scutiri de drepturi vamale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3915",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/560e6d23-52f5-46da-9d8c-893d977d9b87.0022.03/DOC_2",
+     "sha256": "b5519ad85bc2401c3cf05290fefd1dbe78e6175f15f05d78c25330e2f78f3e4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3939-1988",
+   "path": "ue/regulament/1988/3939",
+   "short": "Regulamentul (CEE) nr. 3939/88",
+   "title": "Regulamentul (CEE) nr. 3939/88 al Comisiei din 16 decembrie 1988 de modificare a Regulamentului (CEE) nr. 2580/88 al Comisiei de stabilire a regulilor pentru modificarea listei de anumite soiuri de orez prevăzute de anexa B la Regulamentul (CEE) nr. 3878/87 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3939",
+   "versions": [
+    {
+     "from": "1988-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5858d99d-6888-48d5-a5bf-d8a91769a003.0022.03/DOC_1",
+     "sha256": "9f990acb9bc1fb81ff0cd4af6b08c6f24e022a4650f1d0c4590d25eb544ac63d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3974-1988",
+   "path": "ue/regulament/1988/3974",
+   "short": "Regulamentul (CEE) nr. 3974/88",
+   "title": "Regulamentul (CEE) nr. 3974/88 al Comisiei din 20 decembrie 1988 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R3974",
+   "versions": [
+    {
+     "from": "1989-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d32bd109-6e1f-4b91-b39c-9b7a755208f5.0022.03/DOC_1",
+     "sha256": "8f8e36c7adc5279ec393abe9af52aceeece77971ff23e6aa7c03cc29e66128e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4063-1988",
+   "path": "ue/regulament/1988/4063",
+   "short": "Regulamentul CELEX 31988R4063",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 4063/88 al Comisiei din 21 decembrie 1988 de stabilire a normelor de aplicare a articolului 46a din regimul aplicabil agenților Centrului European pentru Dezvoltarea Formării Profesionale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R4063",
+   "versions": [
+    {
+     "from": "1989-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6ef7494-5e06-43cb-ad54-7f74373c2832.0022.04/DOC_2",
+     "sha256": "eefcc7ddd11bcfbdcac42be94b7c6eeb6046778d773670e5324091be306658b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-4064-1988",
+   "path": "ue/regulament/1988/4064",
+   "short": "Regulamentul CELEX 31988R4064",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 4064/1988 al Comisiei din 21 decembrie 1988 de stabilire a normelor de aplicare a articolului 46a din regimul aplicabil agenților Fundației Europene pentru Îmbunătățirea Condițiilor de Viață și de Muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988R4064",
+   "versions": [
+    {
+     "from": "1989-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19ebb0e1-079b-41fb-89e9-8174069fc930.0022.04/DOC_2",
+     "sha256": "74b62b0e9394cf35957b9a115d3ceb0e7713893d9125c8dc39c6b37e660f17fe"
+    }
+   ]
   }
  ]
 }

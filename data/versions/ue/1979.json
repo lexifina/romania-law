@@ -106,6 +106,81 @@
      "sha256": "2b6204b2a593ae3b160bac57e244d69a92c0e0a0251f6ac29d5c5d644cbd57a8"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1799-1979",
+   "path": "ue/regulament/1979/1799",
+   "short": "Regulamentul (CEE) nr. 1799/79",
+   "title": "Regulamentul (CEE) nr. 1799/79 al Comisiei din 13 august 1979 de modificare a Regulamentelor (CEE) nr. 1391/78 și (CEE) nr. 2962/78 privind normele de aplicare a regimului de prime de necomercializare a laptelui și produselor lactate și de reconversie a șeptelurilor de vaci de lapte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979R1799",
+   "versions": [
+    {
+     "from": "1979-08-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e9613f98-0237-40a5-873d-8228a0fbfe22.0022.04/DOC_14",
+     "sha256": "426eb124fb207951a0158a0511ba734a40a6fbfa157653a0ee7fbd012e7cf103"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2748-1979",
+   "path": "ue/regulament/1979/2748",
+   "short": "Regulamentul (CEE) nr. 2748/79",
+   "title": "Regulamentul (CEE) nr. 2748/79 al Comisiei din 6 decembrie 1979 privind clasificarea anumitor mărfuri în cadrul subpoziției 13.03 C III din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979R2748",
+   "versions": [
+    {
+     "from": "1979-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f3bc6f6-fd7b-4236-9416-716764c6e098.0022.03/DOC_2",
+     "sha256": "ec335fbb6b2c429642153ada44a981ad92014d9e5eaf969b4268737373b145dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2764-1979",
+   "path": "ue/regulament/1979/2764",
+   "short": "Regulamentul CELEX 31979R2764",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 2764/79 al Consiliului din 6 decembrie 1979 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 300/76 de stabilire a categoriilor de beneficiari care au dreptul la indemnizații pentru muncă neîntreruptă sau în schimburi, a condițiilor de acordare și a cuantumului acestor alocații",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979R2764",
+   "versions": [
+    {
+     "from": "1979-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5d18768-6087-44f0-b112-a625fd30da71.0022.04/DOC_4",
+     "sha256": "0a5f64206cff840088025a0e9999e3ebfc8cfe46fa64b9c30942ca975ccccf6f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-546-1979",
+   "path": "ue/regulament/1979/546",
+   "short": "Regulamentul (CEE) nr. 546/79",
+   "title": "Regulamentul (CEE) nr. 546/79 al Comisiei din 22 martie 1979 cu privire la prezentarea unui certificat de origine pentru importurile de lenjerie de casă brodată provenind din Singapore și Malaysia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979R0546",
+   "versions": [
+    {
+     "from": "1979-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01eb4b5c-6592-4c39-8f58-8fafe2db57a5.0022.04/DOC_1",
+     "sha256": "c5dbe95f51463d1943c287b9c47c7f3df85171de7aa5c9edb8fc19fbce539438"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-561-1979",
+   "path": "ue/regulament/1979/561",
+   "short": "Regulamentul (CEE) nr. 561/79",
+   "title": "Regulamentul (CEE) nr. 561/79 al Consiliului din 5 martie 1979 privind punerea în aplicare a Deciziei nr. 3/78 a Consiliului de cooperare CEE-Tunisia de modificare a protocolului referitor la definirea noțiunii de „produse originare” și la metodele de cooperare administrativă din Acordul de cooperare dintre Comunitatea Economică Europeană și Republica Tunisiană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979R0561",
+   "versions": [
+    {
+     "from": "1979-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec8e558d-b7df-4f91-8733-a6ec8daf042f.0022.04/DOC_2",
+     "sha256": "3d9c6e7675586e349c62f9573807395e9e60ad7bd75ade1fa52efc7bcef87fed"
+    }
+   ]
   }
  ]
 }

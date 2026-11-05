@@ -1,0 +1,15 @@
+# Regulamentul (CE) nr. 2470/96 al Consiliului din 17 decembrie 1996 de prelungire a perioadei de protecție comunitară a soiurilor de plante, în ceea ce privește cartoful
+
+Regulamentul (CE) nr. 2470/96 · 1 versions, from 1996-12-25 (latest in force: 1996-12-25) · <https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996R2470>
+
+**Status:** Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `ue-regulament-2470-1996` (tags `ue-regulament-2470-1996/<day>`; `python tools/on.py <day> ue-regulament-2470-1996`).
+
+## Decisions made by hand
+
+- Regulamentul (CE) nr. 2470/96: added by Lexifina's eu-law source lane from its Romanian text in the Publications Office's CELLAR (http://publications.europa.eu/resource/cellar/a726b610-9420-4801-b3fa-82d9adcdcf06.0022.03/DOC_1), as published in the Official Journal of the European Union (JO L 335/1996); in force from 1996-12-25. Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).

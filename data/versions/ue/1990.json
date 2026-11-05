@@ -121,6 +121,321 @@
      "sha256": "8c8682ffd3bb45ad14f5533cb0a06933dcceabef75d4aaf56824605d193286b0"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1012-1990",
+   "path": "ue/regulament/1990/1012",
+   "short": "Regulamentul (CEE) nr. 1012/90",
+   "title": "Regulamentul (CEE) nr. 1012/90 al Comisiei din 20 aprilie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1012",
+   "versions": [
+    {
+     "from": "1990-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c99b2f73-a57f-496e-bf1f-be83e34520ed.0022.03/DOC_2",
+     "sha256": "433b029ee575096220ad6f01875e316d536a6254cf6ce4b31b53b9715ea1cd2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1237-1990",
+   "path": "ue/regulament/1990/1237",
+   "short": "Regulamentul (CEE) nr. 1237/90",
+   "title": "Regulamentul (CEE) nr. 1237/90 al Consiliului din 25 aprilie 1990 privind încheierea Acordului dintre Comunitatea Economică Europeană și Republica Sierra Leone privind pescuitul în largul coastelor Republicii Sierra Leone",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1237",
+   "versions": [
+    {
+     "from": "1990-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4464e25-4f02-41d3-a195-fa54651a8f1d.0020.03/DOC_1",
+     "sha256": "44a5151edc7c9a50456fa6abb01c43823dc3b7c8413ed94f330f1ea6b7b142f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1422-1990",
+   "path": "ue/regulament/1990/1422",
+   "short": "Regulamentul (CEE) nr. 1422/90",
+   "title": "Regulamentul (CEE) nr. 1422/90 al Comisiei din 23 mai 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1422",
+   "versions": [
+    {
+     "from": "1990-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50a90ed7-8b52-44f6-a251-8d14f9d3e789.0022.03/DOC_3",
+     "sha256": "f0322d3d18313b5b57f9c6989b0bc40002eab27553fb007b3395174db2049209"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1434-1990",
+   "path": "ue/regulament/1990/1434",
+   "short": "Regulamentul (CEE) nr. 1434/90",
+   "title": "Regulamentul (CEE) nr. 1434/90 al Consiliului din 14 mai 1990 de punere în aplicare a unor dispoziții ale Acordului dintre Comunitatea Economică Europeană și Comunitatea Europeană a Energiei Atomice și Uniunea Republicilor Sovietice Socialiste privind comerțul și cooperarea comercială și economică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1434",
+   "versions": [
+    {
+     "from": "1990-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8daedbe2-a284-452b-894a-9aee58e631c5.0022.03/DOC_1",
+     "sha256": "ce1970f65985a87378e049c69dd2427d947a26ec51ddb33b141f4c709dec4383"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1936-1990",
+   "path": "ue/regulament/1990/1936",
+   "short": "Regulamentul (CEE) nr. 1936/90",
+   "title": "Regulamentul (CEE) nr. 1936/90 al Comisiei din 4 iulie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1936",
+   "versions": [
+    {
+     "from": "1990-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/404d198a-ce80-4f83-82dc-001604a2abb5.0022.03/DOC_3",
+     "sha256": "7191078626e71eafd111695c2c27ca7601ad4abca61b842cd57b36640351b853"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1964-1990",
+   "path": "ue/regulament/1990/1964",
+   "short": "Regulamentul (CEE) nr. 1964/90",
+   "title": "Regulamentul (CEE) nr. 1964/90 al Comisiei din 6 iulie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R1964",
+   "versions": [
+    {
+     "from": "1990-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fc14816-ab54-4ff3-9f26-91523fb64884.0022.03/DOC_3",
+     "sha256": "7210c956d9c162b98f77ef9df5809b636d9863c12f7b5a671c925cf3d18d8f5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2321-1990",
+   "path": "ue/regulament/1990/2321",
+   "short": "Regulamentul (CEE) nr. 2321/90",
+   "title": "Regulamentul (CEE) nr. 2321/90 al Consiliului din 24 iulie 1990 privind încheierea Acordului dintre Comunitatea Economică Europeană și Republica Capului Verde privind pescuitul în largul coastelor Capului Verde",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R2321",
+   "versions": [
+    {
+     "from": "1990-08-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97cf504d-f051-4b0a-bdd4-8c185f1740dc.0022.03/DOC_1",
+     "sha256": "0d4f8b08ca2c54f8a663f427afa4de51d8f4165085c547cef68425b64a8fca97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2368-1990",
+   "path": "ue/regulament/1990/2368",
+   "short": "Regulamentul (CEE) nr. 2368/90",
+   "title": "Regulamentul (CEE) nr. 2368/90 al Comisiei din 9 august 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R2368",
+   "versions": [
+    {
+     "from": "1990-09-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/698f3986-3514-426e-95e1-2ff7309433db.0022.03/DOC_2",
+     "sha256": "3e1c6e9a7081880cc548f051d744b013abeec0e93f23bec0e35260a4d7981c7c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2723-1990",
+   "path": "ue/regulament/1990/2723",
+   "short": "Regulamentul (CEE) nr. 2723/90",
+   "title": "Regulamentul (CEE) nr. 2723/90 al Comisiei din 24 septembrie 1990 de înlocuire în anumite regulamente privind clasificarea mărfurilor a codurilor stabilite pe baza nomenclaturii Tarifului Vamal Comun în vigoare la 31 decembrie 1987 cu cele stabilite pe baza Nomenclaturii Combinate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R2723",
+   "versions": [
+    {
+     "from": "1990-09-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea116d35-5d5d-4545-bcb6-2c000ceaf7ee.0022.03/DOC_3",
+     "sha256": "48abf274f1aede7816a33db077e79b3b452b72ef0cfa1af632d824c815a37946"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-28-1990",
+   "path": "ue/regulament/1990/28",
+   "short": "Regulamentul (CEE) nr. 28/90",
+   "title": "Regulamentul (CEE) nr. 28/90 al Comisiei din 4 ianuarie 1990 privind clasificarea anumitor mărfuri la codurile 11081100, 11081200, 11081300 și 11081400 din Nomenclatura Combinată și de abrogare a Regulamentului (CEE) nr. 1463/87",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R0028",
+   "versions": [
+    {
+     "from": "1990-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0671966a-340f-4b6a-a687-f1b73a783669.0022.03/DOC_3",
+     "sha256": "f4ecdf65aeeac3843cd1078459e10e2afd1ffd69c3c751682a6a4815c1c26820"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3037-1990",
+   "path": "ue/regulament/1990/3037",
+   "short": "Regulamentul (CEE) nr. 3037/90",
+   "title": "Regulamentul (CEE) nr. 3037/90 al Consiliului din 9 octombrie 1990 privind clasificarea statistică a activităților economice în Comunitatea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3037",
+   "versions": [
+    {
+     "from": "1990-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d072278c-3e2c-44fc-b635-3ac61fead008.0022.04/DOC_2",
+     "sha256": "8f0db3df9815d8086faf25b6ec386bf4099ebfd31b33d326b7de13f335d69d17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3044-1990",
+   "path": "ue/regulament/1990/3044",
+   "short": "Regulamentul (CEE) nr. 3044/90",
+   "title": "Regulamentul (CEE) nr. 3044/90 al Comisiei din 22 octombrie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3044",
+   "versions": [
+    {
+     "from": "1990-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a401b803-8aaf-4a20-a7a2-4c7df932a2f2.0022.03/DOC_2",
+     "sha256": "617ed9633363c4435e87eeaa784b7cbcbe78efbeda748e7a659e9a22eb57292d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-314-1990",
+   "path": "ue/regulament/1990/314",
+   "short": "Regulamentul (CEE) nr. 314/90",
+   "title": "Regulamentul (CEE) nr. 314/90 al Comisiei din 5 februarie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R0314",
+   "versions": [
+    {
+     "from": "1990-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/737cbce3-2185-4607-9215-d0c32fdd1a6a.0022.03/DOC_2",
+     "sha256": "3648685357bc92d90dd3b453693e9a6af09c521c0a87f746ec64cd89ef8c210a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3151-1990",
+   "path": "ue/regulament/1990/3151",
+   "short": "Regulamentul (CEE) nr. 3151/90",
+   "title": "Regulamentul (CEE) nr. 3151/90 al Consiliului din 29 octombrie 1990 privind întărirea, în Portugalia, a controlului cheltuielilor suportate de Fondul European de Orientare și Garantare Agricolă, secțiunea Garantare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3151",
+   "versions": [
+    {
+     "from": "1990-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/295d3ef1-6e10-4dda-a1b7-90a1ad7ed1b7.0022.03/DOC_18",
+     "sha256": "0ab0b83e0ec91c053370e849951163fb7468feb50a7aaf6fbf7abfff69bc5954"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3573-1990",
+   "path": "ue/regulament/1990/3573",
+   "short": "Regulamentul (CEE) nr. 3573/90",
+   "title": "Regulamentul (CEE) nr. 3573/90 al Consiliului din 4 decembrie 1990 de modificare, ca urmare a unificării Germaniei, a Regulamentului (CEE) nr. 4055/86 de aplicare a principiului libertății de a presta servicii în cazul transportului maritim între statele membre și între statele membre și țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3573",
+   "versions": [
+    {
+     "from": "1990-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0350423b-bd88-4780-8ff4-c670e7fd7954.0022.04/DOC_1",
+     "sha256": "e9c9f9f555551cb5b44e994838e6824cb99dae2ef1fbe53731f5e25db24db973"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3657-1990",
+   "path": "ue/regulament/1990/3657",
+   "short": "Regulamentul (CEE) nr. 3657/90",
+   "title": "Regulamentul (CEE) nr. 3657/90 al Consiliului din 11 decembrie 1990 privind aplicarea prețului comun la carcasele de porc în Portugalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3657",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/908e434d-a260-4815-a4c5-740e4b8719d8.0022.03/DOC_17",
+     "sha256": "75f51f209b0c45d43a7b144299ef54de8a4d9f6ed445b6def6ec0a617c5d9777"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3916-1990",
+   "path": "ue/regulament/1990/3916",
+   "short": "Regulamentul (CEE) nr. 3916/90",
+   "title": "Regulamentul (CEE) nr. 3916/90 al Consiliului din 21 decembrie 1990 privind măsurile care trebuie luate în eventualitatea unei crize pe piața transportului rutier de mărfuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3916",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97cadfe3-665b-4a21-8591-7ed37559b507.0022.03/DOC_1",
+     "sha256": "73f03f16bf279ef27ead28203cf48c6047232646853da99d70b95f9f849c8fb0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3941-1990",
+   "path": "ue/regulament/1990/3941",
+   "short": "Regulamentul (CEE) nr. 3941/90",
+   "title": "Regulamentul (CEE) nr. 3941/90 al Consiliului din 19 decembrie 1990 privind încheierea acordului între Comunitatea Economică Europeană și Republica Unită Tanzania cu privire la pescuitul în largul Tanzaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R3941",
+   "versions": [
+    {
+     "from": "1991-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8d2205e-7e63-47cd-a9d2-08ca8a459b0b.0020.03/DOC_1",
+     "sha256": "7c6b66dcbaeebf38c89fab686e15b510f2e5d8ca713adebd2ea9eeda7fc51176"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-48-1990",
+   "path": "ue/regulament/1990/48",
+   "short": "Regulamentul (CEE) nr. 48/90",
+   "title": "Regulamentul (CEE) nr. 48/90 al Comisiei din 9 ianuarie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R0048",
+   "versions": [
+    {
+     "from": "1990-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59bf0134-15b4-40c8-99d2-6fcb78946581.0022.03/DOC_2",
+     "sha256": "895aa090a8bfacd3b4b7289510f858616d25641d979dc7abe93272779c31ef40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-542-1990",
+   "path": "ue/regulament/1990/542",
+   "short": "Regulamentul (CEE) nr. 542/90",
+   "title": "Regulamentul (CEE) nr. 542/90 al Comisiei din 1 martie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R0542",
+   "versions": [
+    {
+     "from": "1990-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca1ce9e0-423b-4cc5-8bf6-7823c383b0ef.0022.03/DOC_3",
+     "sha256": "2ecf83d8ced124d32662b915a80eb9428dfee0dca9fe737737d796d2df13b2f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-650-1990",
+   "path": "ue/regulament/1990/650",
+   "short": "Regulamentul (CEE) nr. 650/90",
+   "title": "Regulamentul (CEE) nr. 650/90 al Comisiei din 16 martie 1990 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990R0650",
+   "versions": [
+    {
+     "from": "1990-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7a99e35-2de3-447b-b233-0ecc33b8c725.0022.03/DOC_4",
+     "sha256": "1564f278ca2ff25512f44a1bc44daffd7a9a3ccf016d562f2144b769986a0aad"
+    }
+   ]
   }
  ]
 }
