@@ -3,6 +3,337 @@
 "shard": "local/teleorman/rosiorii-de-vede/2020",
 "acts": [
 {
+"slug": "hcl-teleorman--rosiorii-de-vede-121-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/121",
+"kind": "local",
+"year": "2020",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 121/2020 privind mofificarea art. 1 al HCL nr. 39 din 2020 referitor la aprobarea contribuției materiale a UAT pentru CS Sporting Roșiori 2008, în anul 2020.pdf",
+"short": "HCL Roșiorii de Vede nr. 121/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-122-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 122/2020 privind revocarea HCL nr. 64 din 21. 05. 2020 privind majorarea capitalului social la SC Urbis Sevconstruc SA.pdf)",
+"short": "HCL Roșiorii de Vede nr. 122/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-123-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/123",
+"kind": "local",
+"year": "2020",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 123/2020 privind aprobarea unui sprijin financiar pentru Parohia Sfinții Apostoli.pdf)",
+"short": "HCL Roșiorii de Vede nr. 123/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-125-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 125/2020 privind declararea unui teren în suprafață de 200 mp, situat in str",
+"short": "HCL Roșiorii de Vede nr. 125/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-127-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/127",
+"kind": "local",
+"year": "2020",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 127/2020 privind modificarea și completarea HCL nr. 102 din 20. 06. 2019 prin care s-a aprobat închirierea prin licitație publică a unor spații din incinta Școl",
+"short": "HCL Roșiorii de Vede nr. 127/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-128-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/128",
+"kind": "local",
+"year": "2020",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 128/2020 privind aprobarea listei de priorități în funcție de care se vor atribui terenuri destinate construirii de locuințe, conf",
+"short": "HCL Roșiorii de Vede nr. 128/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-129-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 129/2020",
+"short": "HCL Roșiorii de Vede nr. 129/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": null,
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-132-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 132/2020 privind acordarea de beneficii financiare persoanelor vârstnice din Municipiul Roșiori de Vede la împlinirea vârstei de 100 ani.pdf)",
+"short": "HCL Roșiorii de Vede nr. 132/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-134-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/134",
+"kind": "local",
+"year": "2020",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 134/2020 privind alegerea președintelui de ședință pentru următoarele 3 luni.pdf)",
+"short": "HCL Roșiorii de Vede nr. 134/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-135-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/135",
+"kind": "local",
+"year": "2020",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 135/2020 privind organizarea și stabilirea componenței nominale a comisiilor de specialitate ale Consiliului Local.pdf)",
+"short": "HCL Roșiorii de Vede nr. 135/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-137-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/137",
+"kind": "local",
+"year": "2020",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 137/2020 privind anularea accesoriilor în cazul obligațiilor bugetare pricipale restante la 31 martie 2020.pdf)",
+"short": "HCL Roșiorii de Vede nr. 137/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-140-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/140",
+"kind": "local",
+"year": "2020",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 140/2020 privind aprobarea recificării bugetului de venituri și cheltuieli pe anul 2020 al SC URBIS SERVCONSTRUCT SA Roșiori de Vede.pdf)",
+"short": "HCL Roșiorii de Vede nr. 140/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-141-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/141",
+"kind": "local",
+"year": "2020",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 141/2020 privind aprobarea prelungirii duratei Protocolului de colaborare între Municipiul Roșiori de Vede, S.C",
+"short": "HCL Roșiorii de Vede nr. 141/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-142-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/142",
+"kind": "local",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 142/2020 privind primirea în folosință gratuită Consiliului Local a unor bunur aferente obiectivului de investiții Sistem Integrat de Management al Deșeurilor",
+"short": "HCL Roșiorii de Vede nr. 142/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-143-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 143/2020 privind majorarea chiriei și redevenței datorate de persoanele fizice și juridice, titulari ai contractelor de închiriere sau concesiune.pdf)",
+"short": "HCL Roșiorii de Vede nr. 143/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--rosiorii-de-vede-144-2020",
 "path": "local/teleorman/rosiorii-de-vede/2020/144",
 "kind": "local",
@@ -22,6 +353,50 @@
 "council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-145-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/145",
+"kind": "local",
+"year": "2020",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 145/2020 privind cesiunea contractelor de locațiune înregistrate sub nr. 2232 din 25.05.2001 și 2393 din 20.08.2002.pdf)",
+"short": "HCL Roșiorii de Vede nr. 145/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-146-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/146",
+"kind": "local",
+"year": "2020",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 146/2020 privind cesiunea contractului de locațiune înregistrat sub nr. 2304 din 01.01.2001.pdf)",
+"short": "HCL Roșiorii de Vede nr. 146/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

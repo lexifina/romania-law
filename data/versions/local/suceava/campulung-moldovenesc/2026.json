@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/campulung-moldovenesc/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-154-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/154",
+   "short": "HCL Câmpulung Moldovenesc nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 154/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_154.docx",
+     "sha256": "0f400240f0b9bb7fa12f5a4925a540e152617882484de5dc1fef904bf885fae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-162-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/162",
+   "short": "HCL Câmpulung Moldovenesc nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 162/2026 privind aprobarea majorării bugetului local, a virărilor de credite bugetare, a influențelor la lista de investiții a bugetului local pe anul 2026, aprobarea modificărilor bugetului și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2026 Consiliul Local al municipiului Câmpulung Moldovenesc",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_162.docx",
+     "sha256": "36dda1e7ecf6fd1c337084bc864494ebf80b6ab017233c39db527fb31e3a5481"
+    }
+   ]
+  }
+ ]
+}

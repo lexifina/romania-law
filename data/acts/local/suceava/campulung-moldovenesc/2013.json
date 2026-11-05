@@ -3,6 +3,95 @@
 "shard": "local/suceava/campulung-moldovenesc/2013",
 "acts": [
 {
+"slug": "hcl-suceava--campulung-moldovenesc-106-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/106",
+"kind": "local",
+"year": "2013",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 106/2013 cu privire la alocarea cantitatii de 98 metri cubi material lemnos pentru reparatii la acoperisul scolii gimnaziale Teodor V",
+"short": "HCL Câmpulung Moldovenesc nr. 106/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-107-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/107",
+"kind": "local",
+"year": "2013",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 107/2013",
+"short": "HCL Câmpulung Moldovenesc nr. 107/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-108-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/108",
+"kind": "local",
+"year": "2013",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 108/2013 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2013 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în sedinta ordinara din 28 noiembrie 2013; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrata la nr. 20968 din 26.11.2013; -Raportul Serviciului venituri, cheltuieli si patrimoniu, înregistrat la n",
+"short": "HCL Câmpulung Moldovenesc nr. 108/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-109-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/109",
+"kind": "local",
+"year": "2013",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 109/2013 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2013 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 17 decembrie 2013; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 22295 din 16.12.2013; -Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat la",
+"short": "HCL Câmpulung Moldovenesc nr. 109/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-17",
+"latest": "2013-12-17",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--campulung-moldovenesc-110-2013",
 "path": "local/suceava/campulung-moldovenesc/2013/110",
 "kind": "local",
@@ -22,6 +111,230 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-112-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/112",
+"kind": "local",
+"year": "2013",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 112/2013 privind aprobarea cuantumului lunar al burselor și numărul acestora acordate elevilor din învățământul preuniversitar de stat din municipiul Câmpulung Moldovenesc în semestrul I al anului școlar 2013-2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 19 decembrie 2013; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, î",
+"short": "HCL Câmpulung Moldovenesc nr. 112/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-113-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/113",
+"kind": "local",
+"year": "2013",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 113/2013",
+"short": "HCL Câmpulung Moldovenesc nr. 113/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-114-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/114",
+"kind": "local",
+"year": "2013",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 114/2013",
+"short": "HCL Câmpulung Moldovenesc nr. 114/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-115-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/115",
+"kind": "local",
+"year": "2013",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 115/2013 cu privire la alocarea cantității de 200 metri cubi material lemnos pentru reparații capitale la bisericuța filială din cimitirul Sâhla Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 19 decembrie 2013; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21762 din 09.12.2013; -Rapor",
+"short": "HCL Câmpulung Moldovenesc nr. 115/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-116-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/116",
+"kind": "local",
+"year": "2013",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 116/2013 cu privire la alocarea cantității de 200 metri cubi material lemnos pentru reparații la Biserica „Sfântul Nicolae” și a capelei mortuare din cimitirul Ionei, Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 19 decembrie 2013; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21754",
+"short": "HCL Câmpulung Moldovenesc nr. 116/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-117-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/117",
+"kind": "local",
+"year": "2013",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 117/2013",
+"short": "HCL Câmpulung Moldovenesc nr. 117/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-118-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/118",
+"kind": "local",
+"year": "2013",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 118/2013 cu privire la alocarea cantității de 80 metri cubi material lemnos pentru finalizarea reparațiilor la acoperișul imobilului „Creșă Stadion” - situat în Str",
+"short": "HCL Câmpulung Moldovenesc nr. 118/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-119-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/119",
+"kind": "local",
+"year": "2013",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 119/2013 privind primirea de noi membri în Asociația de Dezvoltare Intercomunitară „Asociația Județeană pentru Apă și Canalizare Suceava”, retragerea unor membri din AJAC Suceava și împuternicirea reprezentantului Consiliului Local al Municipiului Câmpulung Moldovenesc în Adunarea Generală a „Asociației Județene pentru Apă și Canalizare Suceava”, să voteze pentru primirea de noi membri în AJAC Suceava, ret",
+"short": "HCL Câmpulung Moldovenesc nr. 119/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-120-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/120",
+"kind": "local",
+"year": "2013",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 120/2013 cu privire la alocarea cantității de 150 metri cubi material lemnos I.I",
+"short": "HCL Câmpulung Moldovenesc nr. 120/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-121-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/121",
+"kind": "local",
+"year": "2013",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 121/2013",
+"short": "HCL Câmpulung Moldovenesc nr. 121/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

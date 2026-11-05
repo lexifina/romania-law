@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/radauti/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--radauti-167-2026",
+   "path": "local/suceava/radauti/2026/167",
+   "short": "HCL Rădăuți nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 167/2026",
+   "url": "https://primariaradauti.ro/hcl-167-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-167-din-24.09.2026.pdf",
+     "sha256": "fdfe01bcebfd0fe31dc97e13e656c63277532c0193c1e3db3169956162f372df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-168-2026",
+   "path": "local/suceava/radauti/2026/168",
+   "short": "HCL Rădăuți nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 168/2026",
+   "url": "https://primariaradauti.ro/hcl-168-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-168-din-24.09.2026.pdf",
+     "sha256": "e061ff60c6f570fa3607e88ff2447502b9c33ef0ceeed4f464b5895001dfd58b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-169-2026",
+   "path": "local/suceava/radauti/2026/169",
+   "short": "HCL Rădăuți nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 169/2026",
+   "url": "https://primariaradauti.ro/hcl-169-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-169-din-24.09.2026.pdf",
+     "sha256": "b5e00a7417483874d21aed97ff013648ed76477466890839073af3a67ab36fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-170-2026",
+   "path": "local/suceava/radauti/2026/170",
+   "short": "HCL Rădăuți nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 170/2026",
+   "url": "https://primariaradauti.ro/hcl-170-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-170-din-24.09.2026-blurat.pdf",
+     "sha256": "df7e5ee19f58b2841f50a7da710ed8d1016fde1ae97c51cd47786c570d12aed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-172-2026",
+   "path": "local/suceava/radauti/2026/172",
+   "short": "HCL Rădăuți nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 172/2026",
+   "url": "https://primariaradauti.ro/hcl-172-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-172-din-24.09.2026.pdf",
+     "sha256": "a8eefab831597b384c80731bcea2482bd16afa43faa4479b23b794ff94ed2e03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-173-2026",
+   "path": "local/suceava/radauti/2026/173",
+   "short": "HCL Rădăuți nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 173/2026",
+   "url": "https://primariaradauti.ro/hcl-173-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-173-din-24.09.2026.pdf",
+     "sha256": "b168dfe9ec6b4444a4ec284cac5bb8e8e9ece1f46e89dabe34985f990981e48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-174-2026",
+   "path": "local/suceava/radauti/2026/174",
+   "short": "HCL Rădăuți nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 174/2026",
+   "url": "https://primariaradauti.ro/hcl-174-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-174-din-24.09.2026.pdf",
+     "sha256": "be9adac9959f69b1bd177d604d40f008559b56f359c08db36433f63d59b02330"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-175-2026",
+   "path": "local/suceava/radauti/2026/175",
+   "short": "HCL Rădăuți nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 175/2026",
+   "url": "https://primariaradauti.ro/hcl-175-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-175-din-24.09.2026-blurat.pdf",
+     "sha256": "16bf987a59ef3f7771ac88ec61b7d7f72ff8207ad8672927b2bbb940954e0605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-176-2026",
+   "path": "local/suceava/radauti/2026/176",
+   "short": "HCL Rădăuți nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 176/2026",
+   "url": "https://primariaradauti.ro/hcl-176-din-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/10/HCL-nr.-176-din-24.09.2026-blurat.pdf",
+     "sha256": "4e427d4e8fbaaa45f75c3eca9e4b7edcce438af7fa2dc5133ded490d9c249b9b"
+    }
+   ]
+  }
+ ]
+}

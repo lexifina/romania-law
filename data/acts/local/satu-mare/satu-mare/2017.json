@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2017",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-228-2017",
+"path": "local/satu-mare/satu-mare/2017/228",
+"kind": "local",
+"year": "2017",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 228/2017",
+"short": "HCL Satu Mare nr. 228/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": "https://www.primariasm.ro/hotararea-nr-22828092017",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-313-2017",
+"path": "local/satu-mare/satu-mare/2017/313",
+"kind": "local",
+"year": "2017",
+"number": "313",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 313/2017",
+"short": "HCL Satu Mare nr. 313/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://www.primariasm.ro/hotararea-nr-31321122017",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

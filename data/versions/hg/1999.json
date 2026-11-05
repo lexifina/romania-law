@@ -1137,6 +1137,36 @@
    ]
   },
   {
+   "slug": "hg-124-1999",
+   "path": "hg/1999/124",
+   "short": "HG nr. 124/1999",
+   "title": "Hotărârea Guvernului nr. 124/1999 pentru aprobarea Acordului dintre Guvernul României şi Guvernul federal al Republicii Federale Iugoslavia privind colaborarea vamală şi asistenţa administrativă reciprocă pentru prevenirea, cercetarea şi urmărirea fraudelor vamale, semnat la Belgrad la 14 ianuarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17083",
+   "versions": [
+    {
+     "from": "1999-03-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17083",
+     "sha256": "0cf490b27a2c89606f23bf6b3912aba8aecae798f29aa5bfddadf361b6911723"
+    }
+   ]
+  },
+  {
+   "slug": "hg-126-1999",
+   "path": "hg/1999/126",
+   "short": "HG nr. 126/1999",
+   "title": "Hotărârea Guvernului nr. 126/1999 privind transmiterea, cu plata, a unui imobil situat în municipiul Bistriţa, judeţul Bistriţa-Năsăud, de la Societatea Comercială \"Apollo\" - S.A. Bistriţa în proprietatea publică a statului şi în administrarea Universităţii \"Babeş-Bolyai\" din Cluj-Napoca, pentru Colegiul European de Administraţie Publică Locală Bistriţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17074",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17074",
+     "sha256": "67dd1cf2fe27731f45bf50f915cff7a20cd5be42a6c0af3f739aa5e4cc365997"
+    }
+   ]
+  },
+  {
    "slug": "hg-127-1999",
    "path": "hg/1999/127",
    "short": "HG nr. 127/1999",
@@ -1152,6 +1182,36 @@
    ]
   },
   {
+   "slug": "hg-128-1999",
+   "path": "hg/1999/128",
+   "short": "HG nr. 128/1999",
+   "title": "Hotărârea Guvernului nr. 128/1999 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17085",
+   "versions": [
+    {
+     "from": "1999-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17085",
+     "sha256": "f1d311b9072701d91491330c1cd78d488032805c850e7497dee9256073232bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-129-1999",
+   "path": "hg/1999/129",
+   "short": "HG nr. 129/1999",
+   "title": "Hotărârea Guvernului nr. 129/1999 privind acordarea de la bugetul de stat a unor ajutoare financiare pentru construirea unor lăcaşuri de cult, întreţinerea şi funcţionarea unor unităţi de cult cu venituri reduse şi pentru susţinerea unor acţiuni cu caracter internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17116",
+   "versions": [
+    {
+     "from": "1999-03-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17116",
+     "sha256": "d9da7681ee36cc56c8efb40292f27fd1a41bc0091c3afb0c6879b8c2755d2b15"
+    }
+   ]
+  },
+  {
    "slug": "hg-13-1999",
    "path": "hg/1999/13",
    "short": "HG nr. 13/1999",
@@ -1163,6 +1223,156 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16701",
      "sha256": "19cc53942af8672bf1f473813d2dbd01a800db53df0761b899ebf0860559e5ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-134-1999",
+   "path": "hg/1999/134",
+   "short": "HG nr. 134/1999",
+   "title": "Hotărârea Guvernului nr. 134/1999 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17095",
+   "versions": [
+    {
+     "from": "1999-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17095",
+     "sha256": "677a3f30108f903800c5291af95f16a0e0718e71b9e5076b817ab3ec6122c50c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-135-1999",
+   "path": "hg/1999/135",
+   "short": "HG nr. 135/1999",
+   "title": "Hotărârea Guvernului nr. 135/1999 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17094",
+   "versions": [
+    {
+     "from": "1999-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17094",
+     "sha256": "edf32d045ba7217001ee5ced1a20e54df924b6ba7b296d07dafc13031031a0d6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-136-1999",
+   "path": "hg/1999/136",
+   "short": "HG nr. 136/1999",
+   "title": "Hotărârea Guvernului nr. 136/1999 privind transmiterea unor imobile, proprietate a statului, din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17118",
+   "versions": [
+    {
+     "from": "1999-03-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17118",
+     "sha256": "b52c07b19e49a4a03277f0b5fbbf75f452fdd6bb51bf24e1063963208a593305"
+    }
+   ]
+  },
+  {
+   "slug": "hg-137-1999",
+   "path": "hg/1999/137",
+   "short": "HG nr. 137/1999",
+   "title": "Hotărârea Guvernului nr. 137/1999 privind aprobarea cifrei de şcolarizare pentru învăţământul preuniversitar de stat în anul şcolar 1999/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17128",
+   "versions": [
+    {
+     "from": "1999-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17128",
+     "sha256": "7b2926fd5910b645eb55dfbd4c8aca6030a2b3d5c2e004f709b620ad80a62224"
+    }
+   ]
+  },
+  {
+   "slug": "hg-139-1999",
+   "path": "hg/1999/139",
+   "short": "HG nr. 139/1999",
+   "title": "Hotărârea Guvernului nr. 139/1999 pentru modificarea art. 2 din Hotărârea Guvernului nr. 870/1997 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii, în vederea finanţării achiziţionării de echipamente medicale de înalta performanta pentru chirurgia endoscopică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17119",
+   "versions": [
+    {
+     "from": "1999-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17119",
+     "sha256": "9df803aa0162b6f8a082d2b6046212b872871e35051a133aaf02630c64c55680"
+    }
+   ]
+  },
+  {
+   "slug": "hg-144-1999",
+   "path": "hg/1999/144",
+   "short": "HG nr. 144/1999",
+   "title": "Hotărârea Guvernului nr. 144/1999 privind transmiterea, cu plata, a imobilului \"Bloc nr. 2 - vila Irina\", proprietate a Societăţii Comerciale \"Amara\" - S.A., judeţul Ialomiţa, în proprietatea statului şi în administrarea Ministerului Justiţiei, pentru Direcţia generală a penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17163",
+   "versions": [
+    {
+     "from": "1999-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17163",
+     "sha256": "597404352696410b5564a2e6c3ae2ae2723bd78d6a653db785c485f6d6991320"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-1999",
+   "path": "hg/1999/149",
+   "short": "HG nr. 149/1999",
+   "title": "Hotărârea Guvernului nr. 149/1999 pentru modificarea alin. (1) al art. 1 din Hotărârea Guvernului nr. 239/1997 privind stabilirea nivelului maxim al preţului la care energia termica poate fi livrata populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17120",
+   "versions": [
+    {
+     "from": "1999-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17120",
+     "sha256": "5f31c6253f20752f550c7886f122b502c66592c4fb2ca5f3efa2bac765c05d81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-151-1999",
+   "path": "hg/1999/151",
+   "short": "HG nr. 151/1999",
+   "title": "Hotărârea Guvernului nr. 151/1999 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17131",
+   "versions": [
+    {
+     "from": "1999-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17131",
+     "sha256": "016be4e662c716b1745ee51455a655acb742b865f38a5976fd0a85f268329553"
+    }
+   ]
+  },
+  {
+   "slug": "hg-154-1999",
+   "path": "hg/1999/154",
+   "short": "HG nr. 154/1999",
+   "title": "Hotărârea Guvernului nr. 154/1999 pentru modificarea Hotărârii Guvernului nr. 443/1998 privind reorganizarea şi finanţarea unor unităţi sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17165",
+   "versions": [
+    {
+     "from": "1999-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17165",
+     "sha256": "cc7df33efe924312559b0e578db918513ff60ac441913383761aaa30c3b6b982"
+    }
+   ]
+  },
+  {
+   "slug": "hg-157-1999",
+   "path": "hg/1999/157",
+   "short": "HG nr. 157/1999",
+   "title": "Hotărârea Guvernului nr. 157/1999 pentru modificarea şi completarea Metodologiei de aplicare a criteriilor de stabilire a salariilor de baza între limite şi a normelor de evaluare a performantelor profesionale individuale pentru personalul angajat în structurile administraţiei publice locale şi în serviciile publice din subordinea acestora, aprobată prin Hotărârea Guvernului nr. 775/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17196",
+   "versions": [
+    {
+     "from": "1999-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17196",
+     "sha256": "f055aac4acdb9896146402a5d35a417cae044a9060bb05fcc6fb3b856d3975eb"
     }
    ]
   },

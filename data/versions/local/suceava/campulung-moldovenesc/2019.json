@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/campulung-moldovenesc/2019",
+ "acts": [
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-142-2019",
+   "path": "local/suceava/campulung-moldovenesc/2019/142",
+   "short": "HCL Câmpulung Moldovenesc nr. 142/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 142/2019 privind aprobarea solicitării de transmitere a unui bun, denumit ,,pasarelă pietonală peste liniile nr. 2 - 5, stațiaCâmpulung Est“ situat în municipiul Câmpulung Moldovenesc județul Suceava din domeniul public al statului în domeniul public al municipiului Câmpulung Moldovenesc și în administrarea Consiliului Local al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Mo",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2019",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_142_2019.odt",
+     "sha256": "4092449fb59203b9309347103c25d3ee46c4c2d3d5937b06ee4656d7ff310ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-155-2019",
+   "path": "local/suceava/campulung-moldovenesc/2019/155",
+   "short": "HCL Câmpulung Moldovenesc nr. 155/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 155/2019 privind aprobarea modificării utilizării excedentului bugetului local al anului 2018 în bugetul anului 2019 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 17 decembrie 2019; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 34682 din 11.12.2019; -Raportul de specialitate al Direcției economi",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2019",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_155_2019.docx",
+     "sha256": "8374809c118a41caec37142b808d9942473b515f49dc2373e94f72dae9a5e3cc"
+    }
+   ]
+  }
+ ]
+}

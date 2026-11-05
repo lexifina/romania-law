@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/medias/2019",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--medias-74-2019",
+   "path": "local/sibiu/medias/2019/74",
+   "short": "HCL Mediaș nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Mediaș nr. 74/2019",
+   "url": "https://www.primariamedias.ro/portal/medias/portal.nsf/AllByUNID/Locuinte-ANL--arhiva-2019-00011FB6?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 1,
+     "source_url": "https://www.primariamedias.ro/portal/medias/portal.nsf/D28E662C5419CFBCC2258418002DD35A/$FILE/HCL%20nr.%2074%20din%2025.03.2019.pdf",
+     "sha256": "4eef598cc8f650ec1b48c0ed6e0a3bc5a6124f9420af1aaacd87fbb9dd5d3d71"
+    }
+   ]
+  }
+ ]
+}

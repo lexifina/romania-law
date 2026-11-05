@@ -3,6 +3,96 @@
  "shard": "local/suceava/campulung-moldovenesc/2012",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-143-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/143",
+   "short": "HCL Câmpulung Moldovenesc nr. 143/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 143/2012 privind aprobarea prelungirii unor contracte de închiriere în zona pieței agroalimentare din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 noiembrie 2012; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 20186 din 12.11.2012; - Raportul Serviciului administrația",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_143_2012.pdf",
+     "sha256": "a03a50819b46027f4c9213945aa2f3515fb2416d26a28ad00e8b3afac6b68ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-144-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/144",
+   "short": "HCL Câmpulung Moldovenesc nr. 144/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 144/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_144_2012.pdf",
+     "sha256": "d0e4522bd012a1184f03142b569ea916b527b6517b5efcf34481e65758a7881d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-145-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/145",
+   "short": "HCL Câmpulung Moldovenesc nr. 145/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 145/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_145_2012.pdf",
+     "sha256": "c18d3ed2ffacc8586898dcf89e9a8652f22fb1eac75c1362a28f595ec6ef0008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-146-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/146",
+   "short": "HCL Câmpulung Moldovenesc nr. 146/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 146/2012 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2012 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 noiembrie 2012; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21221 din 29.11.2012; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înre",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_146_2012.pdf",
+     "sha256": "1692ed38fb62d9b45c47816e1076e621299e126b7a501c931463570264a7d04b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-147-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/147",
+   "short": "HCL Câmpulung Moldovenesc nr. 147/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 147/2012 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2012 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 10 decembrie 2012; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21749 din 07.12.2012; - Raportul Serviciului venituri, cheltuieli și patrimoniu",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_147_2012.pdf",
+     "sha256": "bbd79232f6fff4dc2e777aaeb5e77e7f9d7c6743404b207c9c32fd4f8fc14b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-148-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/148",
+   "short": "HCL Câmpulung Moldovenesc nr. 148/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 148/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_148_2012.pdf",
+     "sha256": "6dbe5e1defb5a9977837e675303e4cc67e00e90d19f474d05a52a79bf2ef86b5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-149-2012",
    "path": "local/suceava/campulung-moldovenesc/2012/149",
    "short": "HCL Câmpulung Moldovenesc nr. 149/2012",
@@ -18,6 +108,96 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-150-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/150",
+   "short": "HCL Câmpulung Moldovenesc nr. 150/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 150/2012 privind aprobarea cuantumului lunar al burselor și numărul acestora acordate elevilor din învățământul preuniversitar de stat din municipiul Câmpulung Moldovenesc în semestrul I al anului școlar 2012 – 2013 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 20 decembrie 2012; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_150_2012.pdf",
+     "sha256": "b414571c6fea7630af733b21ee2578661aecf56965e1f298fb6f03cc0dbab6bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-151-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/151",
+   "short": "HCL Câmpulung Moldovenesc nr. 151/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 151/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_151_2012.pdf",
+     "sha256": "8fe2bd24a729e36797f6cae54be4dcfbbb3c9f743d293c97387199f6d45fdce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-152-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/152",
+   "short": "HCL Câmpulung Moldovenesc nr. 152/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 152/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_152_2012.pdf",
+     "sha256": "6ffca3229ec9dde5de74af0968e2fe75b04ddabb137f034283bd6c97c490605f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-153-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/153",
+   "short": "HCL Câmpulung Moldovenesc nr. 153/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 153/2012 privind aprobarea înscrierii unor bunuri imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2012; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 22094/14.12.2012; - Raportul Servi",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_153_2012.pdf",
+     "sha256": "0f82d5a1edaf74a98c5a3924881dd86f557e23db2bdcb949fb787f1335300c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-154-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/154",
+   "short": "HCL Câmpulung Moldovenesc nr. 154/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 154/2012 cu privire la alocarea cantității de 50 m.c. material lemnos Parohiei Sfântul Nicolae Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2012, Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 22121 din 14.12.2012; - Raportul Serviciului venituri cheltuieli și p",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_154_2012.pdf",
+     "sha256": "87b89e4b4565dd7e16e17ab7f703578a175311685f9ace8b3435c82f27a5428e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-155-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/155",
+   "short": "HCL Câmpulung Moldovenesc nr. 155/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 155/2012 pentru modificarea numărului curent 5 din anexa la Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 59 din 10 mai 2012 privind aprobarea înscrierii unor bunuri imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2012; Av",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_155_2012.pdf",
+     "sha256": "24b0a8058bb2e579838e673f2457e7986a056cff35a0d4256281128139832eee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-156-2012",
    "path": "local/suceava/campulung-moldovenesc/2012/156",
    "short": "HCL Câmpulung Moldovenesc nr. 156/2012",
@@ -29,6 +209,36 @@
      "units": 10,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_156_2012.pdf",
      "sha256": "fa7685354074dce469d2bdb437dda1a7fb30d0b0e695e171e1acf7511b6bd030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-157-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/157",
+   "short": "HCL Câmpulung Moldovenesc nr. 157/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 157/2012 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2012 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 20.12.2012; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 22468 din 20.12.2012; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_157_2012.pdf",
+     "sha256": "96952c75a9d87da2e3c9e2055659f1c9db504b8994e6d15c543945e6b0e1f3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-158-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/158",
+   "short": "HCL Câmpulung Moldovenesc nr. 158/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 158/2012 pentru stabilirea cotei-părți din sumele obținute cu titlu de chirie care vor fi încasate de către titularii dreptului de administrare a bunurilor proprietatea publică a municipiului Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20.12.2012, Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 22",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2012",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_158_2012.pdf",
+     "sha256": "38e7409480146baa7414407f13bc0d7b66b47cbc0ef834eaa20f078579a549b8"
     }
    ]
   }

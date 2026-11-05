@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/campulung-moldovenesc/2021",
+"acts": [
+{
+"slug": "hcl-suceava--campulung-moldovenesc-170-2021",
+"path": "local/suceava/campulung-moldovenesc/2021/170",
+"kind": "local",
+"year": "2021",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 170/2021 privind aprobarea proiectului ,,Creșterea capacității spitalului municipal Câmpulung Moldovenesc de gestionare a crizei sanitare”, a documentațiilor și a indicatorilor tehnico-economici pentru obiectivele acestuia, în vederea finanțării în cadrul POIM, Axa Prioritară 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19; Obiectivul Specific 9.1 Creșterea capacității de gesti",
+"short": "HCL Câmpulung Moldovenesc nr. 170/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2021",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-172-2021",
+"path": "local/suceava/campulung-moldovenesc/2021/172",
+"kind": "local",
+"year": "2021",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 172/2021 privind aprobarea majorării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2021 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2021; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 38017 din 17.12.2021; -Rapo",
+"short": "HCL Câmpulung Moldovenesc nr. 172/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2021",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

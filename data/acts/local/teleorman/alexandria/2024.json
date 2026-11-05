@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2024",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-5-2024",
+"path": "local/teleorman/alexandria/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 5/2024 privind finanțele publice locale, cu modificarile și completările ulterioare; - adresa nr. 31423/30.09.2024 privind valoarea influenței pe anul 2024 a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descentralizate la nivelul comunelor, orașelor, municipiilor, sectoarelor și municipiului București, - prevederile art. 129, alin. (2) lit. „b”, și alin. (4), lit. „a” d",
+"short": "HCL Alexandria nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

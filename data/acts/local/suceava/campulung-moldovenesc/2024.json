@@ -23,6 +23,51 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-182-2024",
+"path": "local/suceava/campulung-moldovenesc/2024/182",
+"kind": "local",
+"year": "2024",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 182/2024 privind aprobarea majorării bugetului local, a virărilor de credite bugetare, precum și aprobarea modificărilor bugetului și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024",
+"short": "HCL Câmpulung Moldovenesc nr. 182/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2024",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-183-2024",
+"path": "local/suceava/campulung-moldovenesc/2024/183",
+"kind": "local",
+"year": "2024",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 183/2024",
+"short": "HCL Câmpulung Moldovenesc nr. 183/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": null,
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

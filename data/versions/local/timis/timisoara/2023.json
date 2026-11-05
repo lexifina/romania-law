@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/timisoara/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--timisoara-65-2023",
+   "path": "local/timis/timisoara/2023/65",
+   "short": "HCL Timișoara nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Timișoara nr. 65/2023",
+   "url": "https://www.primariatm.ro/monitorul-oficial/hotarare/65",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://assets.primariatm.ro/401199dd-aaef-4892-a8ff-dc9bc2da94cb/HOT%C4%82R%C3%82REA%2065--2023.pdf",
+     "sha256": "2762fb1150832c758ca79d32ea225bfe596ba0d74206bd20d128201c4ced0331"
+    }
+   ]
+  }
+ ]
+}

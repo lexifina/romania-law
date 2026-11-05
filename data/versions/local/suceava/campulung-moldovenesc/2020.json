@@ -3,6 +3,36 @@
  "shard": "local/suceava/campulung-moldovenesc/2020",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-125-2020",
+   "path": "local/suceava/campulung-moldovenesc/2020/125",
+   "short": "HCL Câmpulung Moldovenesc nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 125/2020 privind aprobarea majorării bugetului local și a fondului de rezervă, virărilor de credite bugetare, influențelor la lista de investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2020 și aprobarea majorării bugetului, virări de credite bugetare și a influențelor la lista de investiții a bugetului instituțiilor publice și activităților finanțate integral sau parțial d",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_125_2020.docx",
+     "sha256": "776cc38e3982b84a65df6de573e89ed362388809b39e981ba6ce129c634f7e21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-128-2020",
+   "path": "local/suceava/campulung-moldovenesc/2020/128",
+   "short": "HCL Câmpulung Moldovenesc nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 128/2020 privind reorganizarea Muzeului ,,Arta Lemnului” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 17 decembrie 2020 ; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 30938 din 04.12.2020; -Raportul de specialitate al Compartimentului resurse umane, înregistrat la nr. 309",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_128_2020.docx",
+     "sha256": "359b3c73e5263cbae21d4e0a0626ad049312f996515f05f9b12984141d7cb314"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-129-2020",
    "path": "local/suceava/campulung-moldovenesc/2020/129",
    "short": "HCL Câmpulung Moldovenesc nr. 129/2020",
@@ -14,6 +44,36 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_129_2020.docx",
      "sha256": "311865a2c7325d842769bb94c49dd850fea29bd6fd891868df04e39ffbd5f183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-139-2020",
+   "path": "local/suceava/campulung-moldovenesc/2020/139",
+   "short": "HCL Câmpulung Moldovenesc nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 139/2020 privind achiziționarea serviciilor juridice de consultanță și reprezentare în fața instanței de judecată, a pregătirii și elaborării susținerilor necesare pentru apărarea intereselor în litigiul ce formează obiectul dosarului nr. 3875/86/2020 înregistrat la Tribunalul Suceava, Secția de contencios administrativ și fiscal Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința or",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_139_2020.docx",
+     "sha256": "6251cff03ed6c78d234d57972d1d99c5639a9f017feaae22fec86dfb76234a11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-140-2020",
+   "path": "local/suceava/campulung-moldovenesc/2020/140",
+   "short": "HCL Câmpulung Moldovenesc nr. 140/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 140/2020 privind aprobarea majorării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2020 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 17 decembrie 2020; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 31813 din 15.12.2020; -Rapo",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_140_2020.docx",
+     "sha256": "245587a9e4fa4944e6db36ba4b7f61caf2fd49264445cb6871e41ca81bc55ec9"
     }
    ]
   }

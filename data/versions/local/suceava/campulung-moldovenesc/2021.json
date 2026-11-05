@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/campulung-moldovenesc/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-170-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/170",
+   "short": "HCL Câmpulung Moldovenesc nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 170/2021 privind aprobarea proiectului ,,Creșterea capacității spitalului municipal Câmpulung Moldovenesc de gestionare a crizei sanitare”, a documentațiilor și a indicatorilor tehnico-economici pentru obiectivele acestuia, în vederea finanțării în cadrul POIM, Axa Prioritară 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19; Obiectivul Specific 9.1 Creșterea capacității de gesti",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_170_2021.docx",
+     "sha256": "d54d7568ddb706f05c4c40026cb889d04adddd0e2fbe2905cbdd8276d7b6efa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-172-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/172",
+   "short": "HCL Câmpulung Moldovenesc nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 172/2021 privind aprobarea majorării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2021 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2021; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 38017 din 17.12.2021; -Rapo",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_172_2021.docx",
+     "sha256": "a94ca177899aec74f673b0c02f93d7b249e1700f586c1f7a284e3f87cb85d898"
+    }
+   ]
+  }
+ ]
+}

@@ -16,6 +16,36 @@
      "sha256": "893afa69ec254de7a135bdb086a692511953eb07627f6dc9dd81f802bebb0955"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-165-2025",
+   "path": "local/suceava/campulung-moldovenesc/2025/165",
+   "short": "HCL Câmpulung Moldovenesc nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 165/2025 privind aprobarea organizării și desfășurării în municipiul Câmpulung Moldovenesc, a festivității de semnare a Protocolului de colaborare pentru organizarea celei de-a XXXVII-a ediții a Festivalului Internațional de Folclor „ÎNTÂLNIRI BUCOVINENE”, în perioada 23-26 ianuarie 2026 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2025; Având",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_165_2025.docx",
+     "sha256": "54ac4ad0f325e27a0b3f59db4656c9e6bb246b9d0f17edee1c05c882f83ea670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-166-2025",
+   "path": "local/suceava/campulung-moldovenesc/2025/166",
+   "short": "HCL Câmpulung Moldovenesc nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 166/2025 privind aprobarea rectificării bugetului local, a virărilor de credite bugetare precum și aprobarea virărilor de credite bugetare și a influențelor la lista de investiții a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2025 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2025",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_166_2025.docx",
+     "sha256": "7ce997da7f39141e11154dd6f1ad0075ef285025c7540896f83997cf54776dec"
+    }
+   ]
   }
  ]
 }

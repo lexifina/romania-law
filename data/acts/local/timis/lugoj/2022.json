@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/timis/lugoj/2022",
+"acts": [
+{
+"slug": "hcl-timis--lugoj-223-2022",
+"path": "local/timis/lugoj/2022/223",
+"kind": "local",
+"year": "2022",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lugoj nr. 223/2022 privind buna gospodărire a municipiului Lugoj",
+"short": "HCL Lugoj nr. 223/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://primarialugoj.ro/Continut_site/Primaria/Birouri/SAPL/Hotarari%20sanctiuni%20pentru%20contraventii.html",
+"council": "timis/lugoj",
+"council_name": "Consiliul Local al Municipiului Lugoj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
