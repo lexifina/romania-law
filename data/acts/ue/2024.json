@@ -3,6 +3,23 @@
 "shard": "ue/2024",
 "acts": [
 {
+"slug": "ue-regulament-20-2024",
+"path": "ue/regulament/2024/20",
+"kind": "ue",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2024/20 al Comisiei din 12 decembrie 2023 privind nereînnoirea aprobării substanței active S-metolaclor, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2024/20",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0020"
+},
+{
 "slug": "ue-regulament-163-2024",
 "path": "ue/regulament/2024/163",
 "kind": "ue",
@@ -4282,6 +4299,23 @@
 "from": "2024-04-09",
 "latest": "2024-04-09",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0908"
+},
+{
+"slug": "ue-regulament-910-2024",
+"path": "ue/regulament/2024/910",
+"kind": "ue",
+"year": "2024",
+"number": "910",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2024/910 al Comisiei din 15 decembrie 2023 de stabilire a unor standarde tehnice de punere în aplicare pentru aplicarea Directivei 2009/65/CE a Parlamentului European și a Consiliului referitoare la forma și conținutul informațiilor care trebuie notificate cu privire la activitățile transfrontaliere ale organismelor de plasament colectiv în valori mobiliare (OPCVM) și ale societăților de administrare a OPCVM-urilor, precum și referitoare la schimbul de informații între autoritățile competente cu privire la scrisorile de notificare a activităților transfrontaliere și de modificare a Regulamentului (UE) nr. 584/2010 al Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2024/910",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-04-14",
+"latest": "2024-04-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0910"
 },
 {
 "slug": "ue-regulament-911-2024",

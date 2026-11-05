@@ -54,6 +54,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0005"
 },
 {
+"slug": "ue-regulament-6-2023",
+"path": "ue/regulament/2023/6",
+"kind": "ue",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/6 al Comisiei din 3 ianuarie 2023 de autorizare a introducerii pe piață ca aliment nou a proteinei din mazăre și din orez fermentate cu micelii de Lentinula edodes (ciuperca Shiitake) și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/6",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-24",
+"latest": "2023-01-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0006"
+},
+{
 "slug": "ue-regulament-7-2023",
 "path": "ue/regulament/2023/7",
 "kind": "ue",
@@ -190,6 +207,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0059"
 },
 {
+"slug": "ue-regulament-60-2023",
+"path": "ue/regulament/2023/60",
+"kind": "ue",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/60 al Comisiei din 5 ianuarie 2023 privind autorizarea esterului metilic al acidului linoleic conjugat (t10, c12) ca aditiv furajer pentru hrana porcilor pentru îngrășat și a vacilor de lapte (titularul autorizației: BASF SE) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/60",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0060"
+},
+{
+"slug": "ue-regulament-61-2023",
+"path": "ue/regulament/2023/61",
+"kind": "ue",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/61 al Comisiei Din 5 ianuarie 2023 privind autorizarea unui preparat de endo-1,4-beta-glucanază obținută din Aspergillus niger CBS 120604, a unui preparat de endo-1,3(4)-beta-glucanază obținută din Aspergillus neoniger MUCL 39199, a unui preparat de endo-1,4-beta-xilanază obținută din Trichoderma citrinoviride MUCL 39203 și a unui preparat de endo-1,4-beta-xilanază obținută din Trichoderma citrinoviride CBS 614.94 ca aditivi în hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/61",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0061"
+},
+{
 "slug": "ue-regulament-62-2023",
 "path": "ue/regulament/2023/62",
 "kind": "ue",
@@ -284,6 +335,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0102"
 },
 {
+"slug": "ue-regulament-103-2023",
+"path": "ue/regulament/2023/103",
+"kind": "ue",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/103 al Comisiei din 12 ianuarie 2023 de modificare a Regulamentelor de punere în aplicare (UE) nr. 1242/2014 și (UE) nr. 1243/2014 în ceea ce privește specificațiile tehnice și normele pentru prezentarea datelor cumulative cu privire la operațiuni și a informațiilor care trebuie trimise de statele membre",
+"short": "Regulamentul de punere în aplicare (UE) 2023/103",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-14",
+"latest": "2023-01-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0103"
+},
+{
 "slug": "ue-regulament-107-2023",
 "path": "ue/regulament/2023/107",
 "kind": "ue",
@@ -338,6 +406,26 @@
 }
 },
 {
+"slug": "ue-regulament-112-2023",
+"path": "ue/regulament/2023/112",
+"kind": "ue",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/112 al Comisiei din 18 ianuarie 2023 de instituire a unei taxe antidumping definitive la importurile de anumite roți din aluminiu originare din Republica Populară Chineză în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/112",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-20",
+"latest": "2023-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0112",
+"flags": {
+"end_of_validity": "2028-01-20"
+}
+},
+{
 "slug": "ue-regulament-113-2023",
 "path": "ue/regulament/2023/113",
 "kind": "ue",
@@ -355,6 +443,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0113"
 },
 {
+"slug": "ue-regulament-114-2023",
+"path": "ue/regulament/2023/114",
+"kind": "ue",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/114 al Comisiei din 16 ianuarie 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active benzovindiflupir, buprofezin, ciflufenamid, fluazinam, flutolanil, lambda-cihalotrin, mecoprop-P, mepiquat, metiram, metsulfuron-metil, fosfan și piraclostrobin (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/114",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-20",
+"latest": "2023-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0114"
+},
+{
 "slug": "ue-regulament-115-2023",
 "path": "ue/regulament/2023/115",
 "kind": "ue",
@@ -370,6 +475,23 @@
 "from": "2023-01-20",
 "latest": "2023-01-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0115"
+},
+{
+"slug": "ue-regulament-116-2023",
+"path": "ue/regulament/2023/116",
+"kind": "ue",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/116 al Comisiei din 16 ianuarie 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadei de aprobare a substanței active oxamil (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/116",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-20",
+"latest": "2023-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0116"
 },
 {
 "slug": "ue-regulament-118-2023",
@@ -959,6 +1081,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0184"
 },
 {
+"slug": "ue-regulament-185-2023",
+"path": "ue/regulament/2023/185",
+"kind": "ue",
+"year": "2023",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/185 al Comisiei din 27 ianuarie 2023 de deschidere a unei reexaminări în ceea ce privește un nou exportator a Regulamentului de punere în aplicare (UE) 2021/607 de instituire a unei taxe antidumping definitive la importurile de acid citric originare din Republica Populară Chineză pentru un producător-exportator chinez, de abrogare a taxei cu privire la importurile provenite de la respectivul producător-exportator și de impunere a obligativității de înregistrare a acestor importuri",
+"short": "Regulamentul de punere în aplicare (UE) 2023/185",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0185"
+},
+{
+"slug": "ue-regulament-186-2023",
+"path": "ue/regulament/2023/186",
+"kind": "ue",
+"year": "2023",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/186 al Comisiei din 27 ianuarie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2021/2325 în ceea ce privește recunoașterea anumitor autorități de control și organisme de control în scopul importului de produse ecologice în Uniune",
+"short": "Regulamentul de punere în aplicare (UE) 2023/186",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-02-19",
+"latest": "2023-02-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0186"
+},
+{
 "slug": "ue-regulament-192-2023",
 "path": "ue/regulament/2023/192",
 "kind": "ue",
@@ -1146,6 +1302,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0214"
 },
 {
+"slug": "ue-regulament-215-2023",
+"path": "ue/regulament/2023/215",
+"kind": "ue",
+"year": "2023",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/215 al Comisiei din 1 februarie 2023 de rectificare a versiunii în limba spaniolă a Regulamentului de punere în aplicare (UE) 2021/1100 de instituire a unei taxe antidumping definitive și de colectare definitivă a taxei provizorii impuse importurilor de anumite produse plate laminate la cald din fier, din oțel nealiat sau din alte oțeluri aliate, originare din Turcia",
+"short": "Regulamentul de punere în aplicare (UE) 2023/215",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0215"
+},
+{
+"slug": "ue-regulament-216-2023",
+"path": "ue/regulament/2023/216",
+"kind": "ue",
+"year": "2023",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/216 al Comisiei din 1 februarie 2023 de aprobare a substanței active cu risc mic Trichoderma atroviride AGR2, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/216",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0216"
+},
+{
 "slug": "ue-regulament-223-2023",
 "path": "ue/regulament/2023/223",
 "kind": "ue",
@@ -1231,6 +1421,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0251"
 },
 {
+"slug": "ue-regulament-253-2023",
+"path": "ue/regulament/2023/253",
+"kind": "ue",
+"year": "2023",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/253 al Consiliului din 6 februarie 2023 privind punerea în aplicare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+"short": "Regulamentul de punere în aplicare (UE) 2023/253",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-02-08",
+"latest": "2023-02-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0253"
+},
+{
 "slug": "ue-regulament-254-2023",
 "path": "ue/regulament/2023/254",
 "kind": "ue",
@@ -1300,6 +1507,26 @@
 "from": "2023-02-28",
 "latest": "2023-02-28",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0263"
+},
+{
+"slug": "ue-regulament-265-2023",
+"path": "ue/regulament/2023/265",
+"kind": "ue",
+"year": "2023",
+"number": "265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/265 al Comisiei din 9 februarie 2023 de instituire a unei taxe antidumping definitive la importurile de plăci din ceramică originare din India și Turcia",
+"short": "Regulamentul de punere în aplicare (UE) 2023/265",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-02-11",
+"latest": "2023-02-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0265",
+"flags": {
+"end_of_validity": "2028-02-11"
+}
 },
 {
 "slug": "ue-regulament-267-2023",
@@ -1441,6 +1668,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0317"
 },
 {
+"slug": "ue-regulament-318-2023",
+"path": "ue/regulament/2023/318",
+"kind": "ue",
+"year": "2023",
+"number": "318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/318 al Comisiei din 6 februarie 2023 de aprobare a unei modificări la nivelul Uniunii a caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [„Almansa” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/318",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-05",
+"latest": "2023-03-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0318"
+},
+{
+"slug": "ue-regulament-329-2023",
+"path": "ue/regulament/2023/329",
+"kind": "ue",
+"year": "2023",
+"number": "329",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/329 din 10 februarie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/329",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0329",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-330-2023",
 "path": "ue/regulament/2023/330",
 "kind": "ue",
@@ -1575,6 +1839,23 @@
 "from": "2023-03-08",
 "latest": "2023-03-08",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0340"
+},
+{
+"slug": "ue-regulament-341-2023",
+"path": "ue/regulament/2023/341",
+"kind": "ue",
+"year": "2023",
+"number": "341",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/341 al Comisiei din 15 februarie 2023 privind reînnoirea autorizației pentru vitamina E ca aditiv furajer în hrana tuturor speciilor de animale și de abrogare a Regulamentului (UE) nr. 26/2011 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/341",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0341"
 },
 {
 "slug": "ue-regulament-342-2023",
@@ -1719,6 +2000,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0371"
 },
 {
+"slug": "ue-regulament-372-2023",
+"path": "ue/regulament/2023/372",
+"kind": "ue",
+"year": "2023",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/372 al Comisiei din 17 februarie 2023 de stabilire a normelor privind înregistrarea, stocarea și partajarea rapoartelor scrise ale controalelor oficiale efectuate asupra navelor pentru animale vii, planurile de intervenție pentru situații de urgență privind navele pentru animale vii, autorizarea navelor pentru animale vii și cerințele minime aplicabile punctelor de ieșire (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/372",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-12",
+"latest": "2023-03-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0372"
+},
+{
 "slug": "ue-regulament-377-2023",
 "path": "ue/regulament/2023/377",
 "kind": "ue",
@@ -1845,6 +2143,23 @@
 "from": "2023-03-14",
 "latest": "2023-03-14",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0399"
+},
+{
+"slug": "ue-regulament-400-2023",
+"path": "ue/regulament/2023/400",
+"kind": "ue",
+"year": "2023",
+"number": "400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/400 al Comisiei din 16 februarie 2023 de aprobare a unei modificări a unei mențiuni tradiționale din sectorul vitivinicol în conformitate cu articolul 115 alineatul (2) din Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului („Vin de paille”)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/400",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0400"
 },
 {
 "slug": "ue-regulament-402-2023",
@@ -2001,6 +2316,26 @@
 "from": "2023-02-26",
 "latest": "2023-02-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0427",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "ue-regulament-428-2023",
+"path": "ue/regulament/2023/428",
+"kind": "ue",
+"year": "2023",
+"number": "428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/428 din 25 februarie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/428",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-25",
+"latest": "2023-02-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0428",
 "flags": {
 "text_withheld": "personal_data"
 }
@@ -2170,6 +2505,23 @@
 "from": "2023-03-05",
 "latest": "2023-03-05",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0444"
+},
+{
+"slug": "ue-regulament-445-2023",
+"path": "ue/regulament/2023/445",
+"kind": "ue",
+"year": "2023",
+"number": "445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/445 al Comisiei din 23 februarie 2023 de aprobare a modificărilor caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [„Colli Bolognesi Classico Pignoletto” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/445",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-22",
+"latest": "2023-03-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0445"
 },
 {
 "slug": "ue-regulament-446-2023",
@@ -2444,6 +2796,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0493"
 },
 {
+"slug": "ue-regulament-494-2023",
+"path": "ue/regulament/2023/494",
+"kind": "ue",
+"year": "2023",
+"number": "494",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/494 al Comisiei din 28 februarie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Emmental français est-central” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/494",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0494"
+},
+{
 "slug": "ue-regulament-500-2023",
 "path": "ue/regulament/2023/500",
 "kind": "ue",
@@ -2515,6 +2884,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0504"
 },
 {
+"slug": "ue-regulament-505-2023",
+"path": "ue/regulament/2023/505",
+"kind": "ue",
+"year": "2023",
+"number": "505",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/505 al Comisiei din 1 martie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Azeitona Galega da Beira Baixa” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/505",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0505"
+},
+{
 "slug": "ue-regulament-511-2023",
 "path": "ue/regulament/2023/511",
 "kind": "ue",
@@ -2583,6 +2969,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0514"
 },
 {
+"slug": "ue-regulament-515-2023",
+"path": "ue/regulament/2023/515",
+"kind": "ue",
+"year": "2023",
+"number": "515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/515 al Comisiei din 8 martie 2023 de reînnoire a aprobării substanței active abamectin, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/515",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-12",
+"latest": "2023-03-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0515"
+},
+{
 "slug": "ue-regulament-516-2023",
 "path": "ue/regulament/2023/516",
 "kind": "ue",
@@ -2601,6 +3004,23 @@
 "flags": {
 "figures_missing": 7
 }
+},
+{
+"slug": "ue-regulament-543-2023",
+"path": "ue/regulament/2023/543",
+"kind": "ue",
+"year": "2023",
+"number": "543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/543 al Comisiei din 9 martie 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 686/2012 în ceea ce privește alocarea către statele membre, în sensul procedurii de reînnoire, a evaluării substanțelor active a căror aprobare expiră în perioada 31 ianuarie 2029-1 octombrie 2035 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/543",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0543"
 },
 {
 "slug": "ue-directiva-544-2023",
@@ -2743,6 +3163,23 @@
 "from": "2023-03-15",
 "latest": "2023-03-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0573"
+},
+{
+"slug": "ue-regulament-574-2023",
+"path": "ue/regulament/2023/574",
+"kind": "ue",
+"year": "2023",
+"number": "574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/574 al Comisiei din 13 martie 2023 de stabilire a normelor detaliate pentru identificarea coformulanților inacceptabili în compoziția produselor de protecție a plantelor în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/574",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-03",
+"latest": "2023-04-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0574"
 },
 {
 "slug": "ue-regulament-579-2023",
@@ -2924,6 +3361,23 @@
 }
 },
 {
+"slug": "ue-regulament-595-2023",
+"path": "ue/regulament/2023/595",
+"kind": "ue",
+"year": "2023",
+"number": "595",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/595 al Comisiei din 16 martie 2023 de stabilire a formularului pentru raportul privind resursa proprie bazată pe deșeurile de ambalaje din plastic nereciclate în temeiul Regulamentului (UE, Euratom) 2021/770 al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/595",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0595"
+},
+{
 "slug": "ue-regulament-605-2023",
 "path": "ue/regulament/2023/605",
 "kind": "ue",
@@ -2973,6 +3427,23 @@
 "from": "2023-03-20",
 "latest": "2023-03-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0607"
+},
+{
+"slug": "ue-regulament-608-2023",
+"path": "ue/regulament/2023/608",
+"kind": "ue",
+"year": "2023",
+"number": "608",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/608 al Comisiei din 17 martie 2023 de modificare a Regulamentelor de punere în aplicare (UE) 2020/761 și (UE) 2020/1988 în ceea ce privește sistemul de gestionare a anumitor contingente tarifare în urma acordului dintre Uniunea Europeană și Noua Zeelandă ca urmare a retragerii Regatului Unit din Uniunea Europeană",
+"short": "Regulamentul de punere în aplicare (UE) 2023/608",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0608"
 },
 {
 "slug": "ue-regulament-611-2023",
@@ -3304,6 +3775,40 @@
 }
 },
 {
+"slug": "ue-regulament-677-2023",
+"path": "ue/regulament/2023/677",
+"kind": "ue",
+"year": "2023",
+"number": "677",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/677 al Comisiei din 17 martie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Ricotta di Bufala Campana” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/677",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-13",
+"latest": "2023-04-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0677"
+},
+{
+"slug": "ue-regulament-678-2023",
+"path": "ue/regulament/2023/678",
+"kind": "ue",
+"year": "2023",
+"number": "678",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/678 al Comisiei din 17 martie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Slavonska kobasica” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/678",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-13",
+"latest": "2023-04-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0678"
+},
+{
 "slug": "ue-regulament-679-2023",
 "path": "ue/regulament/2023/679",
 "kind": "ue",
@@ -3353,6 +3858,23 @@
 "from": "2023-04-18",
 "latest": "2023-04-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0689"
+},
+{
+"slug": "ue-regulament-691-2023",
+"path": "ue/regulament/2023/691",
+"kind": "ue",
+"year": "2023",
+"number": "691",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/691 al Comisiei din 22 martie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Komiški rogač” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/691",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-18",
+"latest": "2023-04-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0691"
 },
 {
 "slug": "ue-regulament-700-2023",
@@ -3406,6 +3928,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0707"
 },
 {
+"slug": "ue-regulament-708-2023",
+"path": "ue/regulament/2023/708",
+"kind": "ue",
+"year": "2023",
+"number": "708",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/708 al Comisiei din 20 martie 2023 de acordare a unei autorizații la nivelul Uniunii vizând familia de produse biocide „HYPO-CHLOR Product Family” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/708",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-20",
+"latest": "2023-04-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0708"
+},
+{
 "slug": "ue-regulament-710-2023",
 "path": "ue/regulament/2023/710",
 "kind": "ue",
@@ -3455,6 +3994,23 @@
 "from": "2023-04-04",
 "latest": "2023-04-04",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0720"
+},
+{
+"slug": "ue-regulament-723-2023",
+"path": "ue/regulament/2023/723",
+"kind": "ue",
+"year": "2023",
+"number": "723",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/723 al Comisiei din 30 martie 2023 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+"short": "Regulamentul de punere în aplicare (UE) 2023/723",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-04",
+"latest": "2023-04-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0723"
 },
 {
 "slug": "ue-regulament-725-2023",
@@ -3525,6 +4081,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0736"
 },
 {
+"slug": "ue-regulament-737-2023",
+"path": "ue/regulament/2023/737",
+"kind": "ue",
+"year": "2023",
+"number": "737",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/737 al Comisiei din 4 aprilie 2023 de reinstituire a unei taxe antidumping definitive la importurile de anumite anvelope pneumatice, noi sau reșapate, din cauciuc, de tipul celor utilizate pentru autobuze sau camioane, cu un indice de sarcină de peste 121, originare din Republica Populară Chineză, în urma hotărârii Tribunalului în cauzele conexate T-30/19 și T-72/19",
+"short": "Regulamentul de punere în aplicare (UE) 2023/737",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0737",
+"flags": {
+"end_of_validity": "2018-11-12"
+}
+},
+{
 "slug": "ue-regulament-738-2023",
 "path": "ue/regulament/2023/738",
 "kind": "ue",
@@ -3579,6 +4155,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0741"
 },
 {
+"slug": "ue-regulament-742-2023",
+"path": "ue/regulament/2023/742",
+"kind": "ue",
+"year": "2023",
+"number": "742",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/742 al Comisiei din 31 martie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Bovški sir” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/742",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-01",
+"latest": "2023-05-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0742"
+},
+{
 "slug": "ue-regulament-744-2023",
 "path": "ue/regulament/2023/744",
 "kind": "ue",
@@ -3594,6 +4187,26 @@
 "from": "2023-04-12",
 "latest": "2023-04-12",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0744"
+},
+{
+"slug": "ue-regulament-745-2023",
+"path": "ue/regulament/2023/745",
+"kind": "ue",
+"year": "2023",
+"number": "745",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/745 al Comisiei din 3 aprilie 2023 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2023/745",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0745",
+"flags": {
+"figures_missing": 1
+}
 },
 {
 "slug": "ue-regulament-751-2023",
@@ -3631,6 +4244,23 @@
 "flags": {
 "end_of_validity": "2028-04-14"
 }
+},
+{
+"slug": "ue-regulament-753-2023",
+"path": "ue/regulament/2023/753",
+"kind": "ue",
+"year": "2023",
+"number": "753",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/753 al Comisiei din 12 aprilie 2023 de acordare a unei autorizații a Uniunii pentru familia de produse biocide „C(M)IT/MIT formulations” (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/753",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-03",
+"latest": "2023-05-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0753"
 },
 {
 "slug": "ue-regulament-754-2023",
@@ -3721,6 +4351,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0808",
 "flags": {
 "figures_missing": 1
+}
+},
+{
+"slug": "ue-regulament-809-2023",
+"path": "ue/regulament/2023/809",
+"kind": "ue",
+"year": "2023",
+"number": "809",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/809 al Comisiei din 13 aprilie 2023 de instituire a unei taxe antidumping definitive la importurile de anumite accesorii de țevărie pentru sudat cap la cap, din oțel inoxidabil, chiar finisate, originare din Republica Populară Chineză și Taiwan în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/809",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-15",
+"latest": "2023-04-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0809",
+"flags": {
+"end_of_validity": "2028-04-15"
 }
 },
 {
@@ -3843,6 +4493,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0834"
 },
 {
+"slug": "ue-regulament-835-2023",
+"path": "ue/regulament/2023/835",
+"kind": "ue",
+"year": "2023",
+"number": "835",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/835 al Comisiei din 19 aprilie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/835",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0835"
+},
+{
 "slug": "ue-regulament-838-2023",
 "path": "ue/regulament/2023/838",
 "kind": "ue",
@@ -3914,6 +4581,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0842"
 },
 {
+"slug": "ue-regulament-843-2023",
+"path": "ue/regulament/2023/843",
+"kind": "ue",
+"year": "2023",
+"number": "843",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/843 al Comisiei din 17 aprilie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Rökt Vättersik” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/843",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-14",
+"latest": "2023-05-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0843"
+},
+{
 "slug": "ue-regulament-844-2023",
 "path": "ue/regulament/2023/844",
 "kind": "ue",
@@ -3929,6 +4613,26 @@
 "from": "2023-04-24",
 "latest": "2023-04-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0844",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "ue-regulament-845-2023",
+"path": "ue/regulament/2023/845",
+"kind": "ue",
+"year": "2023",
+"number": "845",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/845 din 24 aprilie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/845",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0845",
 "flags": {
 "text_withheld": "personal_data"
 }
@@ -4043,6 +4747,23 @@
 "from": "2023-04-26",
 "latest": "2023-04-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0858"
+},
+{
+"slug": "ue-regulament-860-2023",
+"path": "ue/regulament/2023/860",
+"kind": "ue",
+"year": "2023",
+"number": "860",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/860 al Comisiei din 25 aprilie 2023 de modificare și rectificare a Regulamentului de punere în aplicare (UE) 2022/128 în ceea ce privește transparența, declarația de gestiune, organismul de coordonare, organismul de certificare și anumite dispoziții referitoare la FEGA și FEADR",
+"short": "Regulamentul de punere în aplicare (UE) 2023/860",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-04-29",
+"latest": "2023-04-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0860"
 },
 {
 "slug": "ue-regulament-861-2023",
@@ -4207,6 +4928,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0895"
 },
 {
+"slug": "ue-regulament-896-2023",
+"path": "ue/regulament/2023/896",
+"kind": "ue",
+"year": "2023",
+"number": "896",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/896 al Comisiei din 26 aprilie 2023 de aprobare a unor modificări la nivelul Uniunii ale caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [„Monti Lessini” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/896",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-23",
+"latest": "2023-05-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0896"
+},
+{
 "slug": "ue-regulament-897-2023",
 "path": "ue/regulament/2023/897",
 "kind": "ue",
@@ -4256,6 +4994,23 @@
 "from": "2023-05-24",
 "latest": "2023-05-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0906"
+},
+{
+"slug": "ue-regulament-907-2023",
+"path": "ue/regulament/2023/907",
+"kind": "ue",
+"year": "2023",
+"number": "907",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/907 al Comisiei din 3 mai 2023 de rectificare a versiunii în limba franceză a Regulamentului de punere în aplicare (UE) 2022/1412 privind autorizarea uleiului esențial de ylang ylang obținut din Cananga odorata (Lam) Hook f. & Thomson ca aditiv pentru hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/907",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0907"
 },
 {
 "slug": "ue-regulament-908-2023",
@@ -4417,6 +5172,60 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0931"
 },
 {
+"slug": "ue-regulament-932-2023",
+"path": "ue/regulament/2023/932",
+"kind": "ue",
+"year": "2023",
+"number": "932",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/932 al Comisiei din 8 mai 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește perioada de aprobare a substanței active piridalil (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/932",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0932"
+},
+{
+"slug": "ue-regulament-934-2023",
+"path": "ue/regulament/2023/934",
+"kind": "ue",
+"year": "2023",
+"number": "934",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/934 al Comisiei din 11 mai 2023 de instituire a unei taxe antidumping definitive asupra importurilor de fire de mare rezistență din poliesteri originare din Republica Populară Chineză în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) și a unei reexaminări intermediare parțiale în temeiul articolului 11 alineatul (3) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/934",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-13",
+"latest": "2023-05-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0934",
+"flags": {
+"end_of_validity": "2028-05-13"
+}
+},
+{
+"slug": "ue-regulament-937-2023",
+"path": "ue/regulament/2023/937",
+"kind": "ue",
+"year": "2023",
+"number": "937",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/937 al Comisiei din 10 mai 2023 de rectificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește includerea „fosfatului de diamidon fosfatat produs din amidon de grâu” pe lista cu alimente noi a Uniunii (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/937",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0937"
+},
+{
 "slug": "ue-regulament-938-2023",
 "path": "ue/regulament/2023/938",
 "kind": "ue",
@@ -4449,6 +5258,23 @@
 "from": "2023-05-31",
 "latest": "2023-05-31",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0939"
+},
+{
+"slug": "ue-regulament-942-2023",
+"path": "ue/regulament/2023/942",
+"kind": "ue",
+"year": "2023",
+"number": "942",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/942 al Comisiei din 8 mai 2023 de modificare a anexei I la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a măsurilor speciale de combatere a pestei porcine africane (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/942",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-13",
+"latest": "2023-05-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0942"
 },
 {
 "slug": "ue-regulament-943-2023",
@@ -4519,6 +5345,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0946"
 },
 {
+"slug": "ue-regulament-947-2023",
+"path": "ue/regulament/2023/947",
+"kind": "ue",
+"year": "2023",
+"number": "947",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/947 al Comisiei din 11 mai 2023 de modificare a anexei I la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/947",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0947"
+},
+{
+"slug": "ue-regulament-948-2023",
+"path": "ue/regulament/2023/948",
+"kind": "ue",
+"year": "2023",
+"number": "948",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/948 al Comisiei din 12 mai 2023 de autorizare a introducerii pe piață ca aliment nou a sării de sodiu 6′-sialil-lactoză produse din tulpini derivate de Escherichia coli BL21(DE3) și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/948",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-04",
+"latest": "2023-06-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0948"
+},
+{
 "slug": "ue-regulament-949-2023",
 "path": "ue/regulament/2023/949",
 "kind": "ue",
@@ -4553,6 +5413,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0950"
 },
 {
+"slug": "ue-regulament-951-2023",
+"path": "ue/regulament/2023/951",
+"kind": "ue",
+"year": "2023",
+"number": "951",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/951 al Comisiei din 12 mai 2023 de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește specificațiile alimentului nou extract proteic din rinichi de porc (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/951",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-04",
+"latest": "2023-06-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0951"
+},
+{
 "slug": "ue-regulament-952-2023",
 "path": "ue/regulament/2023/952",
 "kind": "ue",
@@ -4585,6 +5462,23 @@
 "from": "2023-05-22",
 "latest": "2023-05-22",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0953"
+},
+{
+"slug": "ue-regulament-954-2023",
+"path": "ue/regulament/2023/954",
+"kind": "ue",
+"year": "2023",
+"number": "954",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/954 al Comisiei din 12 mai 2023 de rectificare a anexelor XIII, XIV și XXII la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește listele țărilor terțe, teritoriilor sau zonelor din acestea autorizate pentru introducerea în Uniune a transporturilor de carne proaspătă de ungulate, de păsări de curte și de vânat cu pene și de anumite specii și categorii de animale, materiale germinative și produse de origine animală pentru care Uniunea nu este destinația finală (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/954",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0954"
 },
 {
 "slug": "ue-regulament-955-2023",
@@ -4695,6 +5589,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0960"
 },
 {
+"slug": "ue-regulament-961-2023",
+"path": "ue/regulament/2023/961",
+"kind": "ue",
+"year": "2023",
+"number": "961",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/961 al Comisiei din 12 mai 2023 de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește condițiile de utilizare a alimentului nou „lacto-N-neotetraoză” (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/961",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-05",
+"latest": "2023-06-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0961"
+},
+{
+"slug": "ue-regulament-962-2023",
+"path": "ue/regulament/2023/962",
+"kind": "ue",
+"year": "2023",
+"number": "962",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/962 al Comisiei din 15 mai 2023 de modificare a Regulamentului de punere în aplicare (UE) 2021/1448 în ceea ce privește condițiile de aprobare a substanței active cu risc redus carbonat de calciu (calcar) și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/962",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-05",
+"latest": "2023-06-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0962"
+},
+{
 "slug": "ue-regulament-966-2023",
 "path": "ue/regulament/2023/966",
 "kind": "ue",
@@ -4712,6 +5640,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0966",
 "flags": {
 "figures_missing": 2
+}
+},
+{
+"slug": "ue-regulament-967-2023",
+"path": "ue/regulament/2023/967",
+"kind": "ue",
+"year": "2023",
+"number": "967",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/967 al Comisiei din 16 mai 2023 de stabilire a informațiilor tehnice pentru calcularea rezervelor tehnice și a fondurilor proprii de bază în vederea efectuării raportării ce vizează datele de referință cuprinse între 31 martie 2023 și 29 iunie 2023 în conformitate cu Directiva 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/967",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-18",
+"latest": "2023-05-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0967"
+},
+{
+"slug": "ue-regulament-968-2023",
+"path": "ue/regulament/2023/968",
+"kind": "ue",
+"year": "2023",
+"number": "968",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/968 al Comisiei din 16 mai 2023 de instituire a unei taxe antidumping definitive asupra importurilor de anumite tipuri de tablă groasă din oțeluri nealiate sau din alte oțeluri aliate originare din Republica Populară Chineză, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/968",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-05-18",
+"latest": "2023-05-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0968",
+"flags": {
+"end_of_validity": "2028-05-18"
 }
 },
 {
@@ -4800,6 +5765,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0977"
 },
 {
+"slug": "ue-regulament-978-2023",
+"path": "ue/regulament/2023/978",
+"kind": "ue",
+"year": "2023",
+"number": "978",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/978 al Comisiei din 12 mai 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Grebbestadostron” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/978",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-11",
+"latest": "2023-06-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0978"
+},
+{
 "slug": "ue-regulament-979-2023",
 "path": "ue/regulament/2023/979",
 "kind": "ue",
@@ -4835,6 +5817,23 @@
 "flags": {
 "figures_missing": 1
 }
+},
+{
+"slug": "ue-regulament-981-2023",
+"path": "ue/regulament/2023/981",
+"kind": "ue",
+"year": "2023",
+"number": "981",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/981 al Comisiei din 17 mai 2023 de modificare a Regulamentului (UE) nr. 37/2010 în ceea ce privește clasificarea substanței praziquantel din perspectiva limitei sale maxime pentru reziduurile din produsele alimentare de origine animală (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/981",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-11",
+"latest": "2023-06-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0981"
 },
 {
 "slug": "ue-regulament-986-2023",
@@ -4928,6 +5927,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0997"
 },
 {
+"slug": "ue-regulament-998-2023",
+"path": "ue/regulament/2023/998",
+"kind": "ue",
+"year": "2023",
+"number": "998",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/998 al Comisiei din 23 mai 2023 de reînnoire a aprobării substanței active Bacillus thuringiensis subsp. kurstaki ABTS-351, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/998",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0998"
+},
+{
 "slug": "ue-regulament-999-2023",
 "path": "ue/regulament/2023/999",
 "kind": "ue",
@@ -4962,6 +5978,57 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1000"
 },
 {
+"slug": "ue-regulament-1001-2023",
+"path": "ue/regulament/2023/1001",
+"kind": "ue",
+"year": "2023",
+"number": "1001",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1001 al Comisiei din 23 mai 2023 de reînnoire a aprobării substanței active Bacillus amyloliquefaciens tulpina QST 713, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1001",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1001"
+},
+{
+"slug": "ue-regulament-1002-2023",
+"path": "ue/regulament/2023/1002",
+"kind": "ue",
+"year": "2023",
+"number": "1002",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1002 al Comisiei din 23 mai 2023 de reînnoire a aprobării substanței active Bacillus thuringiensis subsp. aizawai tulpina ABTS-1857, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1002",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1002"
+},
+{
+"slug": "ue-regulament-1003-2023",
+"path": "ue/regulament/2023/1003",
+"kind": "ue",
+"year": "2023",
+"number": "1003",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1003 al Comisiei din 23 mai 2023 de reînnoire a aprobării substanței active Bacillus thuringiensis subsp. kurstaki EG2348, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1003",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1003"
+},
+{
 "slug": "ue-regulament-1004-2023",
 "path": "ue/regulament/2023/1004",
 "kind": "ue",
@@ -4977,6 +6044,40 @@
 "from": "2023-06-13",
 "latest": "2023-06-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1004"
+},
+{
+"slug": "ue-regulament-1005-2023",
+"path": "ue/regulament/2023/1005",
+"kind": "ue",
+"year": "2023",
+"number": "1005",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1005 al Comisiei din 23 mai 2023 de reînnoire a aprobării substanței active Bacillus thuringiensis subsp. kurstaki SA-12, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1005",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1005"
+},
+{
+"slug": "ue-regulament-1021-2023",
+"path": "ue/regulament/2023/1021",
+"kind": "ue",
+"year": "2023",
+"number": "1021",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1021 al Comisiei din 24 mai 2023 de reînnoire a aprobării substanței active Bacillus thuringiensis subsp. kurstaki PB 54, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1021",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-14",
+"latest": "2023-06-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1021"
 },
 {
 "slug": "ue-regulament-1027-2023",
@@ -5082,6 +6183,26 @@
 "from": "2023-06-19",
 "latest": "2023-06-19",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1042"
+},
+{
+"slug": "ue-regulament-1045-2023",
+"path": "ue/regulament/2023/1045",
+"kind": "ue",
+"year": "2023",
+"number": "1045",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1045 din 30 mai 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1045",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1045",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-1046-2023",
@@ -5496,6 +6617,63 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1101"
 },
 {
+"slug": "ue-regulament-1102-2023",
+"path": "ue/regulament/2023/1102",
+"kind": "ue",
+"year": "2023",
+"number": "1102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1102 al Comisiei din 6 iunie 2023 de instituire a unei taxe antidumping definitive la importurile de anumite sisteme de electrozi de grafit originare din India în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1102",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1102",
+"flags": {
+"end_of_validity": "2028-06-08"
+}
+},
+{
+"slug": "ue-regulament-1103-2023",
+"path": "ue/regulament/2023/1103",
+"kind": "ue",
+"year": "2023",
+"number": "1103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1103 al Comisiei din 6 iunie 2023 de instituire a unei taxe compensatorii definitive la importurile de anumite sisteme de electrozi de grafit originare din India în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 18 din Regulamentul (UE) 2016/1037 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1103",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1103",
+"flags": {
+"end_of_validity": "2028-06-08"
+}
+},
+{
+"slug": "ue-regulament-1105-2023",
+"path": "ue/regulament/2023/1105",
+"kind": "ue",
+"year": "2023",
+"number": "1105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1105 al Comisiei din 6 iunie 2023 privind acordarea unei autorizații la nivelul Uniunii pentru produsul biocid unic „Superficid express WIPES” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1105",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1105"
+},
+{
 "slug": "ue-regulament-1106-2023",
 "path": "ue/regulament/2023/1106",
 "kind": "ue",
@@ -5511,6 +6689,74 @@
 "from": "2023-06-27",
 "latest": "2023-06-27",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1106"
+},
+{
+"slug": "ue-regulament-1107-2023",
+"path": "ue/regulament/2023/1107",
+"kind": "ue",
+"year": "2023",
+"number": "1107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1107 al Comisiei din 6 iunie 2023 privind acordarea unei autorizații la nivelul Uniunii pentru produsul biocid unic „Manorapid express” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1107",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1107"
+},
+{
+"slug": "ue-regulament-1108-2023",
+"path": "ue/regulament/2023/1108",
+"kind": "ue",
+"year": "2023",
+"number": "1108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1108 al Comisiei din 6 iunie 2023 de acordare a unei autorizații la nivelul Uniunii pentru produsul biocid unic „OP Plus” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1108",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1108"
+},
+{
+"slug": "ue-regulament-1109-2023",
+"path": "ue/regulament/2023/1109",
+"kind": "ue",
+"year": "2023",
+"number": "1109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1109 al Comisiei din 6 iunie 2023 de acordare a unei autorizații a Uniunii pentru produsul biocid unic „APESIN Spray”, în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1109",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1109"
+},
+{
+"slug": "ue-regulament-1110-2023",
+"path": "ue/regulament/2023/1110",
+"kind": "ue",
+"year": "2023",
+"number": "1110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1110 al Comisiei din 6 iunie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2019/1793 privind intensificarea temporară a controalelor oficiale și măsurile de urgență care reglementează intrarea în Uniune a anumitor bunuri din anumite țări terțe, de punere în aplicare a Regulamentelor (UE) 2017/625 și (CE) nr. 178/2002 ale Parlamentului European și ale Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1110",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1110"
 },
 {
 "slug": "ue-regulament-1111-2023",
@@ -5618,6 +6864,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1118"
 },
 {
+"slug": "ue-regulament-1119-2023",
+"path": "ue/regulament/2023/1119",
+"kind": "ue",
+"year": "2023",
+"number": "1119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1119 al Comisiei din 12 ianuarie 2023 de stabilire a standardelor tehnice de punere în aplicare pentru aplicarea Directivei (UE) 2019/2034 a Parlamentului European și a Consiliului în ceea ce privește formularele, modelele și procedurile standard pentru schimbul de informații dintre autoritățile competente din statul membru de origine și din statul membru gazdă (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1119",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1119"
+},
+{
 "slug": "ue-regulament-1120-2023",
 "path": "ue/regulament/2023/1120",
 "kind": "ue",
@@ -5633,6 +6896,43 @@
 "from": "2023-06-28",
 "latest": "2023-06-28",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1120"
+},
+{
+"slug": "ue-regulament-1121-2023",
+"path": "ue/regulament/2023/1121",
+"kind": "ue",
+"year": "2023",
+"number": "1121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1121 al Comisiei din 1 iunie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Nordhessische Ahle Wurscht/Nordhessische Ahle Worscht” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1121",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1121"
+},
+{
+"slug": "ue-regulament-1122-2023",
+"path": "ue/regulament/2023/1122",
+"kind": "ue",
+"year": "2023",
+"number": "1122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1122 al Comisiei din 7 iunie 2023 de instituire a unei taxe antidumping definitive la importurile de anumite produse plate laminate la cald din fier, din oțel nealiat sau din alte oțeluri aliate, originare din Republica Populară Chineză, ca urmare a unei reexaminări efectuate în perspectiva expirării măsurilor, în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1122",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1122",
+"flags": {
+"end_of_validity": "2028-06-09"
+}
 },
 {
 "slug": "ue-regulament-1125-2023",
@@ -5797,6 +7097,46 @@
 }
 },
 {
+"slug": "ue-regulament-1139-2023",
+"path": "ue/regulament/2023/1139",
+"kind": "ue",
+"year": "2023",
+"number": "1139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1139 din 8 iunie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1139",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-10",
+"latest": "2023-06-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1139",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "ue-regulament-1140-2023",
+"path": "ue/regulament/2023/1140",
+"kind": "ue",
+"year": "2023",
+"number": "1140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1140 din 9 iunie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1140",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-10",
+"latest": "2023-06-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1140",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1141-2023",
 "path": "ue/regulament/2023/1141",
 "kind": "ue",
@@ -5846,6 +7186,26 @@
 "from": "2023-07-02",
 "latest": "2023-07-02",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1144"
+},
+{
+"slug": "ue-regulament-1147-2023",
+"path": "ue/regulament/2023/1147",
+"kind": "ue",
+"year": "2023",
+"number": "1147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1147 din 12 iunie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1147",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1147",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-1149-2023",
@@ -5916,6 +7276,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1152"
 },
 {
+"slug": "ue-regulament-1153-2023",
+"path": "ue/regulament/2023/1153",
+"kind": "ue",
+"year": "2023",
+"number": "1153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1153 al Comisiei din 12 iunie 2023 de modificare a anexei IV la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește rubrica referitoare la China din lista cu țările terțe, teritoriile sau zonele din acestea autorizate pentru introducerea în Uniune a transporturilor de anumite ecvidee (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1153",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-14",
+"latest": "2023-06-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1153"
+},
+{
+"slug": "ue-regulament-1158-2023",
+"path": "ue/regulament/2023/1158",
+"kind": "ue",
+"year": "2023",
+"number": "1158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1158 al Comisiei din 7 iunie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Pesca e Nettarina di Romagna” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1158",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1158"
+},
+{
 "slug": "ue-regulament-1159-2023",
 "path": "ue/regulament/2023/1159",
 "kind": "ue",
@@ -5934,6 +7328,60 @@
 "flags": {
 "end_of_validity": "2028-06-15"
 }
+},
+{
+"slug": "ue-regulament-1161-2023",
+"path": "ue/regulament/2023/1161",
+"kind": "ue",
+"year": "2023",
+"number": "1161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1161 al Comisiei din 2 iunie 2023 privind acordarea unei autorizații la nivelul Uniunii pentru produsul biocid unic „Spray On” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1161",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1161"
+},
+{
+"slug": "ue-regulament-1162-2023",
+"path": "ue/regulament/2023/1162",
+"kind": "ue",
+"year": "2023",
+"number": "1162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1162 al Comisiei din 6 iunie 2023 privind cerințele de interoperabilitate și procedurile nediscriminatorii și transparente de accesare a datelor înregistrate de contoare și a datelor privind consumul (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1162",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1162",
+"flags": {
+"figures_missing": 6
+}
+},
+{
+"slug": "ue-regulament-1163-2023",
+"path": "ue/regulament/2023/1163",
+"kind": "ue",
+"year": "2023",
+"number": "1163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1163 al Comisiei din 14 iunie 2023 privind autorizarea monoclorhidratului de L-lizină și a sulfatului de L-lizină produse de Corynebacterium glutamicum CGMCC 17927 ca aditiv în hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1163",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1163"
 },
 {
 "slug": "ue-regulament-1166-2023",
@@ -6075,6 +7523,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1178"
 },
 {
+"slug": "ue-regulament-1179-2023",
+"path": "ue/regulament/2023/1179",
+"kind": "ue",
+"year": "2023",
+"number": "1179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1179 al Comisiei din 12 iunie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Bohusläns blåmusslor” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1179",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-09",
+"latest": "2023-07-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1179"
+},
+{
 "slug": "ue-regulament-1182-2023",
 "path": "ue/regulament/2023/1182",
 "kind": "ue",
@@ -6090,6 +7555,23 @@
 "from": "2023-06-21",
 "latest": "2023-06-21",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1182"
+},
+{
+"slug": "ue-regulament-1183-2023",
+"path": "ue/regulament/2023/1183",
+"kind": "ue",
+"year": "2023",
+"number": "1183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1183 al Consiliului din 19 iunie 2023 privind punerea în aplicare a Regulamentului (CE) nr. 1183/2005 privind măsuri restrictive având în vedere situația din Republica Democratică Congo",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1183",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1183"
 },
 {
 "slug": "ue-regulament-1184-2023",
@@ -6231,6 +7713,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1194"
 },
 {
+"slug": "ue-regulament-1195-2023",
+"path": "ue/regulament/2023/1195",
+"kind": "ue",
+"year": "2023",
+"number": "1195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1195 al Comisiei din 20 iunie 2023 de stabilire a normelor privind detaliile și formatul informațiilor care trebuie puse la dispoziție de către statele membre cu privire la rezultatele anchetelor referitoare la cazurile de contaminare cu produse sau substanțe neautorizate pentru utilizare în producția ecologică",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1195",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-24",
+"latest": "2023-06-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1195"
+},
+{
 "slug": "ue-regulament-1199-2023",
 "path": "ue/regulament/2023/1199",
 "kind": "ue",
@@ -6246,6 +7745,57 @@
 "from": "2023-07-12",
 "latest": "2023-07-12",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1199"
+},
+{
+"slug": "ue-regulament-1200-2023",
+"path": "ue/regulament/2023/1200",
+"kind": "ue",
+"year": "2023",
+"number": "1200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1200 al Comisiei din 21 iunie 2023 de acordare a unei autorizații a Uniunii vizând familia de produse biocide „Airedale PAA product family” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1200",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1200"
+},
+{
+"slug": "ue-regulament-1201-2023",
+"path": "ue/regulament/2023/1201",
+"kind": "ue",
+"year": "2023",
+"number": "1201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1201 al Comisiei din 21 iunie 2023 privind modalitățile detaliate de desfășurare a anumitor proceduri de către Comisie în temeiul Regulamentului (UE) 2022/2065 al Parlamentului European și al Consiliului („Regulamentul privind serviciile digitale”)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1201",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1201"
+},
+{
+"slug": "ue-regulament-1202-2023",
+"path": "ue/regulament/2023/1202",
+"kind": "ue",
+"year": "2023",
+"number": "1202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1202 al Comisiei din 21 iunie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2021/2325 în ceea ce privește recunoașterea anumitor autorități de control și organisme de control în scopul importului de produse ecologice în Uniune",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1202",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1202"
 },
 {
 "slug": "ue-regulament-1203-2023",
@@ -6370,6 +7920,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1221"
 },
 {
+"slug": "ue-regulament-1222-2023",
+"path": "ue/regulament/2023/1222",
+"kind": "ue",
+"year": "2023",
+"number": "1222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1222 al Comisiei din 19 iunie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Strachitunt” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1222",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-16",
+"latest": "2023-07-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1222"
+},
+{
+"slug": "ue-regulament-1223-2023",
+"path": "ue/regulament/2023/1223",
+"kind": "ue",
+"year": "2023",
+"number": "1223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1223 al Comisiei din 19 iunie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al indicației geografice protejate „Carota dell’Altopiano del Fucino” (IGP)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1223",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-16",
+"latest": "2023-07-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1223"
+},
+{
 "slug": "ue-regulament-1224-2023",
 "path": "ue/regulament/2023/1224",
 "kind": "ue",
@@ -6405,6 +7989,23 @@
 "flags": {
 "end_of_validity": "2023-10-15"
 }
+},
+{
+"slug": "ue-regulament-1226-2023",
+"path": "ue/regulament/2023/1226",
+"kind": "ue",
+"year": "2023",
+"number": "1226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1226 al Comisiei din 22 iunie 2023 de modificare a anexelor V, XIV și XV la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește rubricile referitoare la Canada, Chile și Regatul Unit din listele țărilor terțe autorizate pentru introducerea în Uniune a transporturilor de păsări de curte, de materiale germinative provenite de la păsări de curte și de carne proaspătă provenită de la păsări de curte și de la vânat cu pene (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1226",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1226"
 },
 {
 "slug": "ue-regulament-1230-2023",
@@ -6461,6 +8062,43 @@
 }
 },
 {
+"slug": "ue-regulament-1300-2023",
+"path": "ue/regulament/2023/1300",
+"kind": "ue",
+"year": "2023",
+"number": "1300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1300 al Comisiei din 22 iunie 2023 de modificare a anexei I la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1300",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1300",
+"flags": {
+"end_of_validity": "2028-04-20"
+}
+},
+{
+"slug": "ue-regulament-1308-2023",
+"path": "ue/regulament/2023/1308",
+"kind": "ue",
+"year": "2023",
+"number": "1308",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1308 al Comisiei din 21 iunie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Novigradska dagnja” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1308",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-18",
+"latest": "2023-07-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1308"
+},
+{
 "slug": "ue-regulament-1309-2023",
 "path": "ue/regulament/2023/1309",
 "kind": "ue",
@@ -6476,6 +8114,43 @@
 "from": "2023-07-01",
 "latest": "2023-07-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1309"
+},
+{
+"slug": "ue-regulament-1310-2023",
+"path": "ue/regulament/2023/1310",
+"kind": "ue",
+"year": "2023",
+"number": "1310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1310 al Comisiei din 27 iunie 2023 de stabilire a unei derogări de la Regulamentul de punere în aplicare (UE) 2019/2072 în ceea ce privește introducerea în Uniune a plantelor cu creștere inhibată natural sau artificial destinate plantării de Chamaecyparis Spach, Juniperus L. și de anumite soiuri de Pinus L., originare din Republica Coreea",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1310",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-01",
+"latest": "2023-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1310",
+"flags": {
+"end_of_validity": "2028-12-31"
+}
+},
+{
+"slug": "ue-regulament-1311-2023",
+"path": "ue/regulament/2023/1311",
+"kind": "ue",
+"year": "2023",
+"number": "1311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1311 al Comisiei din 27 iunie 2023 de acordare a unei autorizații a Uniunii pentru familia de produse biocide „CVAS Biocidal Product Family based on L (+) Lactic Acid”, în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1311",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-18",
+"latest": "2023-07-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1311"
 },
 {
 "slug": "ue-regulament-1315-2023",
@@ -6583,6 +8258,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1325"
 },
 {
+"slug": "ue-regulament-1326-2023",
+"path": "ue/regulament/2023/1326",
+"kind": "ue",
+"year": "2023",
+"number": "1326",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1326 al Comisiei din 23 iunie 2023 de aprobare a modificărilor caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [„Balaton/Balatoni” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1326",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1326"
+},
+{
+"slug": "ue-regulament-1327-2023",
+"path": "ue/regulament/2023/1327",
+"kind": "ue",
+"year": "2023",
+"number": "1327",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1327 al Comisiei din 23 iunie 2023 de acordare a protecției în temeiul articolului 99 din Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului pentru denumirea „Canelli” (DOP)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1327",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1327"
+},
+{
 "slug": "ue-regulament-1329-2023",
 "path": "ue/regulament/2023/1329",
 "kind": "ue",
@@ -6618,6 +8327,23 @@
 "flags": {
 "end_of_validity": "2028-07-01"
 }
+},
+{
+"slug": "ue-regulament-1332-2023",
+"path": "ue/regulament/2023/1332",
+"kind": "ue",
+"year": "2023",
+"number": "1332",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1332 al Comisiei din 29 iunie 2023 privind reînnoirea autorizației unui preparat de endo-1,4-beta-xilanază produsă de Trichoderma reesei (CBS 114044) ca aditiv pentru hrana puilor de găină pentru îngrășare, a puicuțelor pentru ouat, a curcanilor pentru îngrășare, a curcanilor crescuți pentru reproducție și a purceilor înțărcați (titularul autorizației: Roal Oy) și de abrogare a Regulamentului (CE) nr. 902/2009 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1332",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1332"
 },
 {
 "slug": "ue-regulament-1333-2023",
@@ -6828,6 +8554,40 @@
 "from": "2023-07-26",
 "latest": "2023-07-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1413"
+},
+{
+"slug": "ue-regulament-1415-2023",
+"path": "ue/regulament/2023/1415",
+"kind": "ue",
+"year": "2023",
+"number": "1415",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1415 al Comisiei din 29 iunie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Aceite de Terra Alta/Oli de Terra Alta” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1415",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1415"
+},
+{
+"slug": "ue-regulament-1416-2023",
+"path": "ue/regulament/2023/1416",
+"kind": "ue",
+"year": "2023",
+"number": "1416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1416 al Comisiei din 5 iulie 2023 privind reînnoirea autorizației unui preparat de Lactiplantibacillus plantarum DSM 8862 și DSM 8866 ca aditiv în hrana tuturor speciilor de animale și abrogarea Regulamentului de punere în aplicare (UE) nr. 93/2012 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1416",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1416"
 },
 {
 "slug": "ue-regulament-1417-2023",
@@ -7139,6 +8899,23 @@
 }
 },
 {
+"slug": "ue-regulament-1446-2023",
+"path": "ue/regulament/2023/1446",
+"kind": "ue",
+"year": "2023",
+"number": "1446",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1446 al Comisiei din 12 iulie 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active ester metilic al acidului 2,5-diclorbenzoic, acid acetic, sulfat de aluminiu și amoniu, fosfură de aluminiu, silicat de aluminiu, carbură de calciu, cimoxanil, dodemorf, etilenă, extract de arbore de ceai, reziduuri de la distilarea grăsimilor, acizi grași C7-C20, flonicamid (IKI-220), acid giberelic, gibereline, halosulfuron-metil, proteine hidrolizate, sulfat de fier, fosfură de magneziu, maltodextrină, metamitron, uleiuri vegetale/ulei de cuișoare, uleiuri vegetale/ulei de rapiță, uleiuri vegetale/ulei de mentă verde, piretrine, sulcotrion, tebuconazol și uree (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1446",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1446"
+},
+{
 "slug": "ue-regulament-1448-2023",
 "path": "ue/regulament/2023/1448",
 "kind": "ue",
@@ -7154,6 +8931,66 @@
 "from": "2023-07-21",
 "latest": "2023-07-21",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1448"
+},
+{
+"slug": "ue-regulament-1449-2023",
+"path": "ue/regulament/2023/1449",
+"kind": "ue",
+"year": "2023",
+"number": "1449",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1449 al Comisiei din 12 iunie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2017/39 în ceea ce privește plata ajutoarelor, transferurile între repartizări și controalele administrative",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1449",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-17",
+"latest": "2023-07-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1449",
+"flags": {
+"end_of_validity": "2024-07-31"
+}
+},
+{
+"slug": "ue-regulament-1450-2023",
+"path": "ue/regulament/2023/1450",
+"kind": "ue",
+"year": "2023",
+"number": "1450",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1450 al Comisiei din 13 iulie 2023 de instituire a unei taxe antidumping definitive asupra importurilor de anumite țevi și tuburi fără sudură din fier (cu excepția fontei) sau din oțel (cu excepția celui inoxidabil), cu secțiune transversală circulară, cu un diametru exterior mai mare de 406,4 mm, originare din Republica Populară Chineză, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1450",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-15",
+"latest": "2023-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1450",
+"flags": {
+"end_of_validity": "2028-07-15"
+}
+},
+{
+"slug": "ue-regulament-1452-2023",
+"path": "ue/regulament/2023/1452",
+"kind": "ue",
+"year": "2023",
+"number": "1452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1452 al Comisiei din 13 iulie 2023 de instituire a unei taxe antidumping definitive asupra importurilor de anumite produse din fibră de sticlă cu filament continuu originare din Republica Populară Chineză, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1452",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-15",
+"latest": "2023-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1452",
+"flags": {
+"end_of_validity": "2028-07-15"
+}
 },
 {
 "slug": "ue-regulament-1454-2023",
@@ -7207,6 +9044,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1462"
 },
 {
+"slug": "ue-regulament-1463-2023",
+"path": "ue/regulament/2023/1463",
+"kind": "ue",
+"year": "2023",
+"number": "1463",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1463 al Comisiei din 10 iulie 2023 de aprobare a unei modificări a unor mențiuni tradiționale din sectorul vitivinicol în conformitate cu articolul 115 alineatul (2) din Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului („Landwein”, „Qualitätswein”, „Kabinett/Kabinettwein”, „Spätlese/Spätlesewein”, „Auslese/Auslesewein”, „Strohwein”, „Schilfwein”, „Eiswein”, „Ausbruch/Ausbruchwein”, „Trockenbeerenauslese”, „Beerenauslese/Beerenauslesewein”)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1463",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-06",
+"latest": "2023-08-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1463"
+},
+{
 "slug": "ue-regulament-1464-2023",
 "path": "ue/regulament/2023/1464",
 "kind": "ue",
@@ -7258,6 +9112,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1466"
 },
 {
+"slug": "ue-regulament-1471-2023",
+"path": "ue/regulament/2023/1471",
+"kind": "ue",
+"year": "2023",
+"number": "1471",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1471 al Comisiei din 17 iulie 2023 de modificare a Regulamentului (UE) nr. 468/2010 de stabilire a listei UE a navelor care practică activități de pescuit ilicite, nedeclarate și nereglementate",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1471",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1471"
+},
+{
+"slug": "ue-regulament-1472-2023",
+"path": "ue/regulament/2023/1472",
+"kind": "ue",
+"year": "2023",
+"number": "1472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1472 al Comisiei din 17 iulie 2023 de modificare a Regulamentului (CE) nr. 1055/2008 în ceea ce privește frecvența cu care statele membre furnizează rapoartele lor privind calitatea (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1472",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1472"
+},
+{
 "slug": "ue-regulament-1478-2023",
 "path": "ue/regulament/2023/1478",
 "kind": "ue",
@@ -7292,6 +9180,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1479"
 },
 {
+"slug": "ue-regulament-1484-2023",
+"path": "ue/regulament/2023/1484",
+"kind": "ue",
+"year": "2023",
+"number": "1484",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1484 al Comisiei din 18 iulie 2023 de specificare a aspectelor tehnice ale setului de date, de stabilire a formatelor tehnice pentru transmiterea informațiilor și de specificare a modalităților și a conținutului rapoartelor de calitate privind organizarea unei anchete prin sondaj în domeniul utilizării tehnologiilor informației și comunicațiilor pentru anul de referință 2024 în temeiul Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1484",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1484"
+},
+{
 "slug": "ue-regulament-1485-2023",
 "path": "ue/regulament/2023/1485",
 "kind": "ue",
@@ -7310,6 +9215,40 @@
 "flags": {
 "end_of_validity": "2028-04-20"
 }
+},
+{
+"slug": "ue-regulament-1488-2023",
+"path": "ue/regulament/2023/1488",
+"kind": "ue",
+"year": "2023",
+"number": "1488",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1488 al Comisiei din 6 iulie 2023 de reînnoire a aprobării substanței active cu risc mic nisip de cuarț, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1488",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1488"
+},
+{
+"slug": "ue-regulament-1489-2023",
+"path": "ue/regulament/2023/1489",
+"kind": "ue",
+"year": "2023",
+"number": "1489",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1489 al Comisiei din 13 iulie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Edremit Zeytinyağı” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1489",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1489"
 },
 {
 "slug": "ue-regulament-1490-2023",
@@ -7363,6 +9302,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1492"
 },
 {
+"slug": "ue-regulament-1495-2023",
+"path": "ue/regulament/2023/1495",
+"kind": "ue",
+"year": "2023",
+"number": "1495",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1495 din 20 iulie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1495",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1495",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1496-2023",
 "path": "ue/regulament/2023/1496",
 "kind": "ue",
@@ -7383,6 +9342,26 @@
 }
 },
 {
+"slug": "ue-regulament-1497-2023",
+"path": "ue/regulament/2023/1497",
+"kind": "ue",
+"year": "2023",
+"number": "1497",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1497 din 20 iulie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1497",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1497",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1498-2023",
 "path": "ue/regulament/2023/1498",
 "kind": "ue",
@@ -7398,6 +9377,26 @@
 "from": "2023-07-20",
 "latest": "2023-07-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1498",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "ue-regulament-1499-2023",
+"path": "ue/regulament/2023/1499",
+"kind": "ue",
+"year": "2023",
+"number": "1499",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1499 din 20 iulie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1499",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1499",
 "flags": {
 "text_withheld": "personal_data"
 }
@@ -7486,6 +9485,23 @@
 "from": "2023-08-10",
 "latest": "2023-08-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1510"
+},
+{
+"slug": "ue-regulament-1511-2023",
+"path": "ue/regulament/2023/1511",
+"kind": "ue",
+"year": "2023",
+"number": "1511",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1511 al Comisiei din 20 iulie 2023 de modificare a Regulamentelor de punere în aplicare (UE) 2018/2019 și (UE) 2020/1213 în ceea ce privește anumite plante destinate plantării din specia Malus sylvestris originare din Regatul Unit",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1511",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-07-24",
+"latest": "2023-07-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1511"
 },
 {
 "slug": "ue-directiva-1526-2023",
@@ -7721,6 +9737,26 @@
 }
 },
 {
+"slug": "ue-regulament-1564-2023",
+"path": "ue/regulament/2023/1564",
+"kind": "ue",
+"year": "2023",
+"number": "1564",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1564 din 28 iulie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1564",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1564",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1565-2023",
 "path": "ue/regulament/2023/1565",
 "kind": "ue",
@@ -7773,6 +9809,23 @@
 "from": "2023-08-20",
 "latest": "2023-08-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1570"
+},
+{
+"slug": "ue-regulament-1571-2023",
+"path": "ue/regulament/2023/1571",
+"kind": "ue",
+"year": "2023",
+"number": "1571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1571 al Comisiei din 24 iulie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Българско бяло саламурено сирене/Bulgarsko byalo salamureno sirene” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1571",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-20",
+"latest": "2023-08-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1571"
 },
 {
 "slug": "ue-regulament-1577-2023",
@@ -7898,6 +9951,26 @@
 "from": "2023-08-23",
 "latest": "2023-08-23",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1589"
+},
+{
+"slug": "ue-regulament-1590-2023",
+"path": "ue/regulament/2023/1590",
+"kind": "ue",
+"year": "2023",
+"number": "1590",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1590 al Comisiei din 1 august 2023 de modificare a anexei I la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1590",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-04",
+"latest": "2023-08-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1590",
+"flags": {
+"end_of_validity": "2028-04-20"
+}
 },
 {
 "slug": "ue-regulament-1591-2023",
@@ -8181,6 +10254,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1629"
 },
 {
+"slug": "ue-regulament-1630-2023",
+"path": "ue/regulament/2023/1630",
+"kind": "ue",
+"year": "2023",
+"number": "1630",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1630 al Comisiei din 11 august 2023 de modificare a Regulamentului de punere în aplicare (UE) 2023/834 privind măsurile excepționale de sprijinire a pieței pentru sectorul ouălor și cel al cărnii de pasăre în Italia",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1630",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1630"
+},
+{
 "slug": "ue-regulament-1631-2023",
 "path": "ue/regulament/2023/1631",
 "kind": "ue",
@@ -8196,6 +10286,23 @@
 "from": "2023-08-15",
 "latest": "2023-08-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1631"
+},
+{
+"slug": "ue-regulament-1632-2023",
+"path": "ue/regulament/2023/1632",
+"kind": "ue",
+"year": "2023",
+"number": "1632",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1632 al Comisiei din 11 august 2023 de deschidere a unei investigații privind o posibilă circumvenție a măsurilor antidumping instituite prin Regulamentul de punere în aplicare (UE) 2021/2012 al Comisiei asupra importurilor de produse plate din oțeluri inoxidabile laminate la rece originare din Indonezia, prin intermediul importurilor de produse plate din oțeluri inoxidabile laminate la rece expediate din Taiwan, Turcia și Vietnam, indiferent dacă au fost sau nu declarate ca fiind originare din Taiwan, Turcia și Vietnam, și de supunere la înregistrare a importurilor de produse plate din oțeluri inoxidabile laminate la rece expediate din Taiwan, Turcia și Vietnam",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1632",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-15",
+"latest": "2023-08-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1632"
 },
 {
 "slug": "ue-regulament-1634-2023",
@@ -8233,6 +10340,23 @@
 "from": "2023-09-06",
 "latest": "2023-09-06",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1636"
+},
+{
+"slug": "ue-regulament-1637-2023",
+"path": "ue/regulament/2023/1637",
+"kind": "ue",
+"year": "2023",
+"number": "1637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1637 al Comisiei din 16 august 2023 de deschidere a unei anchete privind o eventuală circumvenție a măsurilor antisubvenție instituite prin Regulamentul de punere în aplicare (UE) 2019/2092 asupra importurilor de biomotorină originară din Indonezia prin importuri de biomotorină expediate din Republica Populară Chineză și din Regatul Unit, indiferent dacă a fost sau nu declarată ca fiind originară din Republica Populară Chineză și din Regatul Unit, și de supunere a acestor importuri la înregistrare",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1637",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1637"
 },
 {
 "slug": "ue-regulament-1640-2023",
@@ -8411,6 +10535,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1651"
 },
 {
+"slug": "ue-regulament-1652-2023",
+"path": "ue/regulament/2023/1652",
+"kind": "ue",
+"year": "2023",
+"number": "1652",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1652 al Comisiei din 16 august 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Sidra da Madeira” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1652",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1652"
+},
+{
+"slug": "ue-regulament-1653-2023",
+"path": "ue/regulament/2023/1653",
+"kind": "ue",
+"year": "2023",
+"number": "1653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1653 al Comisiei din 17 august 2023 de înregistrare a unei denumiri în Registrul indicațiilor geografice ale băuturilor spirtoase („Borzag pálinka”)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1653",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1653"
+},
+{
 "slug": "ue-regulament-1656-2023",
 "path": "ue/regulament/2023/1656",
 "kind": "ue",
@@ -8514,6 +10672,23 @@
 "from": "2023-09-20",
 "latest": "2023-09-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1670"
+},
+{
+"slug": "ue-regulament-1671-2023",
+"path": "ue/regulament/2023/1671",
+"kind": "ue",
+"year": "2023",
+"number": "1671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1671 al Comisiei din 24 august 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Ciliegia di Lari” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1671",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1671"
 },
 {
 "slug": "ue-regulament-1672-2023",
@@ -8689,6 +10864,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1687"
 },
 {
+"slug": "ue-regulament-1688-2023",
+"path": "ue/regulament/2023/1688",
+"kind": "ue",
+"year": "2023",
+"number": "1688",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1688 al Comisiei din 30 august 2023 de înregistrare a unei denumiri în registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Szabolcsi alma” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1688",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1688"
+},
+{
 "slug": "ue-regulament-1689-2023",
 "path": "ue/regulament/2023/1689",
 "kind": "ue",
@@ -8704,6 +10896,23 @@
 "from": "2023-09-26",
 "latest": "2023-09-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1689"
+},
+{
+"slug": "ue-regulament-1690-2023",
+"path": "ue/regulament/2023/1690",
+"kind": "ue",
+"year": "2023",
+"number": "1690",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1690 al Comisiei din 30 august 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Vorarlberger Alpkäse” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1690",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1690"
 },
 {
 "slug": "ue-regulament-1691-2023",
@@ -8780,6 +10989,26 @@
 }
 },
 {
+"slug": "ue-regulament-1695-2023",
+"path": "ue/regulament/2023/1695",
+"kind": "ue",
+"year": "2023",
+"number": "1695",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1695 al Comisiei din 10 august 2023 privind specificația tehnică de interoperabilitate referitoare la subsistemele control-comandă și semnalizare ale sistemului feroviar din Uniunea Europeană și de abrogare a Regulamentului (UE) 2016/919 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1695",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1695",
+"flags": {
+"figures_missing": 1
+}
+},
+{
 "slug": "ue-regulament-1698-2023",
 "path": "ue/regulament/2023/1698",
 "kind": "ue",
@@ -8795,6 +11024,23 @@
 "from": "2023-09-27",
 "latest": "2023-09-27",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1698"
+},
+{
+"slug": "ue-regulament-1699-2023",
+"path": "ue/regulament/2023/1699",
+"kind": "ue",
+"year": "2023",
+"number": "1699",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1699 al Comisiei din 6 septembrie 2023 privind statutul substanței atapulgit ca aditiv pentru hrana animalelor în sensul Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1699",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1699"
 },
 {
 "slug": "ue-regulament-1700-2023",
@@ -8902,6 +11148,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1706"
 },
 {
+"slug": "ue-regulament-1707-2023",
+"path": "ue/regulament/2023/1707",
+"kind": "ue",
+"year": "2023",
+"number": "1707",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1707 al Comisiei din 7 septembrie 2023 privind autorizarea 2-acetilfuranului și a 2-pentilfuranului ca aditivi pentru hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1707",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1707"
+},
+{
+"slug": "ue-regulament-1708-2023",
+"path": "ue/regulament/2023/1708",
+"kind": "ue",
+"year": "2023",
+"number": "1708",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1708 al Comisiei din 7 septembrie 2023 privind reînnoirea autorizării ureei ca aditiv pentru hrana rumegătoarelor cu rumen funcțional și de abrogare a Regulamentului de punere în aplicare (UE) nr. 839/2012 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1708",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1708"
+},
+{
 "slug": "ue-regulament-1709-2023",
 "path": "ue/regulament/2023/1709",
 "kind": "ue",
@@ -8934,6 +11214,23 @@
 "from": "2023-09-28",
 "latest": "2023-09-28",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1710"
+},
+{
+"slug": "ue-regulament-1711-2023",
+"path": "ue/regulament/2023/1711",
+"kind": "ue",
+"year": "2023",
+"number": "1711",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1711 al Comisiei din 7 septembrie 2023 privind reînnoirea autorizației unui preparat al produsului de fermentație Aspergillus oryzae NRRL 458 ca aditiv pentru hrana vacilor de lapte și de abrogare a Regulamentului (CE) nr. 537/2007 (titularul autorizației: Biozyme Incorporated) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1711",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1711"
 },
 {
 "slug": "ue-regulament-1712-2023",
@@ -9058,6 +11355,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1753"
 },
 {
+"slug": "ue-regulament-1754-2023",
+"path": "ue/regulament/2023/1754",
+"kind": "ue",
+"year": "2023",
+"number": "1754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1754 al Comisiei din 11 septembrie 2023 de rectificare a versiunii în limba germană a Regulamentului (UE) nr. 965/2012 de stabilire a cerințelor tehnice și a procedurilor administrative referitoare la operațiunile aeriene în temeiul Regulamentului (CE) nr. 216/2008 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1754",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1754"
+},
+{
 "slug": "ue-regulament-1755-2023",
 "path": "ue/regulament/2023/1755",
 "kind": "ue",
@@ -9177,6 +11491,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1763"
 },
 {
+"slug": "ue-regulament-1764-2023",
+"path": "ue/regulament/2023/1764",
+"kind": "ue",
+"year": "2023",
+"number": "1764",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1764 al Comisiei din 12 septembrie 2023 de acordare a unei autorizații a Uniunii pentru familia de produse biocide „Oxy’Pharm H2O2” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1764",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1764"
+},
+{
+"slug": "ue-regulament-1765-2023",
+"path": "ue/regulament/2023/1765",
+"kind": "ue",
+"year": "2023",
+"number": "1765",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1765 din 13 septembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1765",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1765",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1768-2023",
 "path": "ue/regulament/2023/1768",
 "kind": "ue",
@@ -9194,6 +11545,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1768"
 },
 {
+"slug": "ue-regulament-1769-2023",
+"path": "ue/regulament/2023/1769",
+"kind": "ue",
+"year": "2023",
+"number": "1769",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1769 al Comisiei din 12 septembrie 2023 de stabilire a cerințelor tehnice și a procedurilor administrative pentru aprobarea organizațiilor implicate în proiectarea sau producția de sisteme și componente de management al traficului aerian/servicii de navigație aeriană și de modificare a Regulamentului de punere în aplicare (UE) 2023/203",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1769",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1769"
+},
+{
 "slug": "ue-regulament-1770-2023",
 "path": "ue/regulament/2023/1770",
 "kind": "ue",
@@ -9209,6 +11577,23 @@
 "from": "2023-10-05",
 "latest": "2023-10-05",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1770"
+},
+{
+"slug": "ue-regulament-1771-2023",
+"path": "ue/regulament/2023/1771",
+"kind": "ue",
+"year": "2023",
+"number": "1771",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/1771 al Comisiei din 12 septembrie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2017/373 în ceea ce privește sistemele și componentele managementului traficului aerian și ale serviciilor de navigație aeriană și de abrogare a Regulamentelor (CE) nr. 1032/2006, (CE) nr. 633/2007 și (CE) nr. 262/2009",
+"short": "Regulamentul de punere în aplicare (UE) 2023/1771",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1771"
 },
 {
 "slug": "ue-regulament-1772-2023",
@@ -9731,6 +12116,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2059"
 },
 {
+"slug": "ue-regulament-2060-2023",
+"path": "ue/regulament/2023/2060",
+"kind": "ue",
+"year": "2023",
+"number": "2060",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2060 al Comisiei din 26 septembrie 2023 de stabilire a normelor de aplicare a Regulamentul (UE) 2023/1231 al Parlamentului European și al Consiliului în ceea ce privește includerea pe listă a statelor de pavilion ale navelor de pescuit care capturează produse pescărești care pot intra în Irlanda de Nord din alte părți ale Regatului Unit și pot fi introduse pe piață în Irlanda de Nord ca mărfuri cu amănuntul (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2060",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2060"
+},
+{
 "slug": "ue-regulament-2070-2023",
 "path": "ue/regulament/2023/2070",
 "kind": "ue",
@@ -9746,6 +12148,23 @@
 "from": "2023-10-18",
 "latest": "2023-10-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2070"
+},
+{
+"slug": "ue-regulament-2071-2023",
+"path": "ue/regulament/2023/2071",
+"kind": "ue",
+"year": "2023",
+"number": "2071",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2071 al Comisiei din 27 septembrie 2023 de stabilire a unui model pentru ancheta structurată privind destinatarii finali de alimente și/sau de asistență materială de bază în cadrul Fondului social european Plus (FSE+) în temeiul Regulamentului (UE) 2021/1057 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2071",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2071"
 },
 {
 "slug": "ue-regulament-2080-2023",
@@ -9833,6 +12252,57 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2086"
 },
 {
+"slug": "ue-regulament-2087-2023",
+"path": "ue/regulament/2023/2087",
+"kind": "ue",
+"year": "2023",
+"number": "2087",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2087 al Comisiei din 28 septembrie 2023 de acordare a unei autorizații a Uniunii pentru familia de produse biocide „Lysoform IPA Surface” în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2087",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2087"
+},
+{
+"slug": "ue-regulament-2089-2023",
+"path": "ue/regulament/2023/2089",
+"kind": "ue",
+"year": "2023",
+"number": "2089",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2089 al Comisiei din 28 septembrie 2023 de aprobare a masei de reacție a propionatului de N, N-didecil-N- (2-hidroxietil) -N-metilamoniu, a propionatului de N, N-didecil-N- (2-(2-hidroxietoxi) etil) -N-metilamoniu, și a propionatului de N, N-didecil-N- (2-(2-(2-hidroxietoxi) etoxi) etil)-N-metilamoniu ca substanță activă destinată utilizării în produsele biocide din tipurile de produs 2 și 4, în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2089",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2089"
+},
+{
+"slug": "ue-regulament-2090-2023",
+"path": "ue/regulament/2023/2090",
+"kind": "ue",
+"year": "2023",
+"number": "2090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2090 al Comisiei din 28 septembrie 2023 de stabilire a normelor de aplicare a Regulamentului (UE) 2023/1231 al Parlamentului European și al Consiliului în ceea ce privește conținutul și modelul de etichetă fitosanitară pentru plantele destinate plantării, altele decât cartofii de sămânță, și pentru mașini și vehicule exploatate în scopuri agricole sau forestiere, care intră în Irlanda de Nord din alte părți ale Regatului Unit, pentru introducerea pe piață (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2090",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2090"
+},
+{
 "slug": "ue-regulament-2091-2023",
 "path": "ue/regulament/2023/2091",
 "kind": "ue",
@@ -9899,6 +12369,26 @@
 "from": "2023-11-02",
 "latest": "2023-11-02",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2117"
+},
+{
+"slug": "ue-regulament-2120-2023",
+"path": "ue/regulament/2023/2120",
+"kind": "ue",
+"year": "2023",
+"number": "2120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2120 al Comisiei din 12 octombrie 2023 de instituire a unei taxe antidumping provizorii la importurile de dioxizi electrolitici de mangan originari din Republica Populară Chineză",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2120",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-14",
+"latest": "2023-10-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2120",
+"flags": {
+"end_of_validity": "2024-04-14"
+}
 },
 {
 "slug": "ue-regulament-2121-2023",
@@ -9972,6 +12462,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2124",
 "flags": {
 "figures_missing": 5
+}
+},
+{
+"slug": "ue-regulament-2125-2023",
+"path": "ue/regulament/2023/2125",
+"kind": "ue",
+"year": "2023",
+"number": "2125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2125 din 9 octombrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2125",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2125",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -10182,6 +12692,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2149"
 },
 {
+"slug": "ue-regulament-2150-2023",
+"path": "ue/regulament/2023/2150",
+"kind": "ue",
+"year": "2023",
+"number": "2150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2150 al Comisiei din 9 octombrie 2023 de aprobare a unei modificări a caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [Terasele Dunării (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2150",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2150"
+},
+{
 "slug": "ue-regulament-2155-2023",
 "path": "ue/regulament/2023/2155",
 "kind": "ue",
@@ -10231,6 +12758,60 @@
 "from": "2023-10-25",
 "latest": "2023-10-25",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2157"
+},
+{
+"slug": "ue-regulament-2158-2023",
+"path": "ue/regulament/2023/2158",
+"kind": "ue",
+"year": "2023",
+"number": "2158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2158 al Comisiei din 17 octombrie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2022/1478 de extindere a taxei compensatorii definitive instituite prin Regulamentul de punere în aplicare (UE) 2020/776 asupra importurilor de anumite materiale țesute și/sau cusute din fibre de sticlă originare din Republica Populară Chineză și din Egipt la importurile de anumite materiale țesute și/sau cusute din fibre de sticlă expediate din Turcia, indiferent dacă au fost sau nu declarate ca fiind originare din Turcia",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2158",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2158"
+},
+{
+"slug": "ue-regulament-2159-2023",
+"path": "ue/regulament/2023/2159",
+"kind": "ue",
+"year": "2023",
+"number": "2159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2159 al Comisiei din 17 octombrie 2023 de acceptare a unei cereri de acordare a tratamentului de nou producător-exportator cu privire la măsurile antidumping definitive instituite la importurile de anumite elemente de fixare din fier sau din oțel originare din Republica Populară Chineză și de modificare a Regulamentului de punere în aplicare (UE) 2022/191",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2159",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2159",
+"flags": {
+"end_of_validity": "2027-02-18"
+}
+},
+{
+"slug": "ue-regulament-2162-2023",
+"path": "ue/regulament/2023/2162",
+"kind": "ue",
+"year": "2023",
+"number": "2162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2162 al Comisiei din 17 octombrie 2023 de retragere a protecției acordate indicației geografice [Sable de Camargue (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2162",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2162"
 },
 {
 "slug": "ue-regulament-2164-2023",
@@ -10369,6 +12950,57 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2178"
 },
 {
+"slug": "ue-regulament-2179-2023",
+"path": "ue/regulament/2023/2179",
+"kind": "ue",
+"year": "2023",
+"number": "2179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2179 al Comisiei din 10 octombrie 2023 de aprobare a unor modificări ale caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [Beira Interior (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2179",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2179"
+},
+{
+"slug": "ue-regulament-2180-2023",
+"path": "ue/regulament/2023/2180",
+"kind": "ue",
+"year": "2023",
+"number": "2180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2180 al Comisiei din 16 octombrie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2021/607 de instituire a unei taxe antidumping definitive la importurile de acid citric originar din Republica Populară Chineză, astfel cum a fost extinsă la importurile de acid citric expediat din Malaysia, indiferent dacă a fost sau nu declarat ca fiind originar din Malaysia, în urma unei reexaminări în ceea ce privește un nou exportator în temeiul articolului 11 alineatul (4) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2180",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2180"
+},
+{
+"slug": "ue-regulament-2181-2023",
+"path": "ue/regulament/2023/2181",
+"kind": "ue",
+"year": "2023",
+"number": "2181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2181 al Comisiei din 10 octombrie 2023 de aprobare a unor modificări ale caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [Balaton-felvidék/Balaton-felvidéki (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2181",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2181"
+},
+{
 "slug": "ue-regulament-2182-2023",
 "path": "ue/regulament/2023/2182",
 "kind": "ue",
@@ -10384,6 +13016,57 @@
 "from": "2023-11-06",
 "latest": "2023-11-06",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2182"
+},
+{
+"slug": "ue-regulament-2183-2023",
+"path": "ue/regulament/2023/2183",
+"kind": "ue",
+"year": "2023",
+"number": "2183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2183 al Comisiei din 18 octombrie 2023 de acordare a unei autorizații a Uniunii vizând familia de produse biocide Evonik’s Hydrogen Peroxide Product Family în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2183",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2183"
+},
+{
+"slug": "ue-regulament-2184-2023",
+"path": "ue/regulament/2023/2184",
+"kind": "ue",
+"year": "2023",
+"number": "2184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2184 al Comisiei din 16 octombrie 2023 de modificare a Regulamentului de punere în aplicare (UE) nr. 79/2012 în ceea ce privește datele statistice pe care statele membre trebuie să le comunice Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2184",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2184"
+},
+{
+"slug": "ue-regulament-2185-2023",
+"path": "ue/regulament/2023/2185",
+"kind": "ue",
+"year": "2023",
+"number": "2185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2185 al Comisiei din 11 octombrie 2023 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2185",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2185"
 },
 {
 "slug": "ue-regulament-2186-2023",
@@ -10457,6 +13140,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2197"
 },
 {
+"slug": "ue-regulament-2200-2023",
+"path": "ue/regulament/2023/2200",
+"kind": "ue",
+"year": "2023",
+"number": "2200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2200 al Comisiei din 19 octombrie 2023 de acordare a unei autorizații a Uniunii pentru familia de produse biocide HCl Disinfecting Toilet Bowl Cleaner în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2200",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2200"
+},
+{
+"slug": "ue-regulament-2203-2023",
+"path": "ue/regulament/2023/2203",
+"kind": "ue",
+"year": "2023",
+"number": "2203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2203 al Comisiei din 20 octombrie 2023 de modificare a Regulamentului (UE) nr. 37/2010 în ceea ce privește clasificarea substanței rafoxanidă din perspectiva limitei sale maxime pentru reziduurile din produsele alimentare de origine animală",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2203",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-12",
+"latest": "2023-11-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2203"
+},
+{
 "slug": "ue-regulament-2210-2023",
 "path": "ue/regulament/2023/2210",
 "kind": "ue",
@@ -10494,6 +13211,23 @@
 }
 },
 {
+"slug": "ue-regulament-2214-2023",
+"path": "ue/regulament/2023/2214",
+"kind": "ue",
+"year": "2023",
+"number": "2214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2214 al Comisiei din 23 octombrie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește condițiile de utilizare și specificațiile alimentelor noi pulberi de semințe de chia (Salvia hispanica) parțial degresate",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2214",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2214"
+},
+{
 "slug": "ue-regulament-2215-2023",
 "path": "ue/regulament/2023/2215",
 "kind": "ue",
@@ -10509,6 +13243,23 @@
 "from": "2023-11-13",
 "latest": "2023-11-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2215"
+},
+{
+"slug": "ue-regulament-2218-2023",
+"path": "ue/regulament/2023/2218",
+"kind": "ue",
+"year": "2023",
+"number": "2218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2218 al Comisiei din 16 octombrie 2023 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2218",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2218"
 },
 {
 "slug": "ue-regulament-2219-2023",
@@ -10631,6 +13382,26 @@
 "from": "2023-11-16",
 "latest": "2023-11-16",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2297"
+},
+{
+"slug": "ue-regulament-2364-2023",
+"path": "ue/regulament/2023/2364",
+"kind": "ue",
+"year": "2023",
+"number": "2364",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2364 al Comisiei din 26 septembrie 2023 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2364",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2364",
+"flags": {
+"figures_missing": 3
+}
 },
 {
 "slug": "ue-regulament-2379-2023",
@@ -10971,6 +13742,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2429"
 },
 {
+"slug": "ue-regulament-2430-2023",
+"path": "ue/regulament/2023/2430",
+"kind": "ue",
+"year": "2023",
+"number": "2430",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2430 al Comisiei din 17 august 2023 de stabilire a normelor privind controalele de verificare a conformității cu standardele de comercializare pentru sectorul fructelor și legumelor, pentru anumite produse din fructe și legume prelucrate și pentru sectorul bananelor",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2430",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2430",
+"flags": {
+"figures_missing": 1
+}
+},
+{
 "slug": "ue-regulament-2431-2023",
 "path": "ue/regulament/2023/2431",
 "kind": "ue",
@@ -10986,6 +13777,26 @@
 "from": "2023-11-19",
 "latest": "2023-11-19",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2431"
+},
+{
+"slug": "ue-regulament-2435-2023",
+"path": "ue/regulament/2023/2435",
+"kind": "ue",
+"year": "2023",
+"number": "2435",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2435 din 26 octombrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2435",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-28",
+"latest": "2023-10-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2435",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-2438-2023",
@@ -11130,6 +13941,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2452"
 },
 {
+"slug": "ue-regulament-2455-2023",
+"path": "ue/regulament/2023/2455",
+"kind": "ue",
+"year": "2023",
+"number": "2455",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2455 al Comisiei din 7 noiembrie 2023 privind nereînnoirea aprobării substanței active metiram, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2455",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2455"
+},
+{
+"slug": "ue-regulament-2456-2023",
+"path": "ue/regulament/2023/2456",
+"kind": "ue",
+"year": "2023",
+"number": "2456",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2456 al Comisiei din 7 noiembrie 2023 privind nereînnoirea aprobării substanței active clofentezin, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2456",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-11",
+"latest": "2023-11-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2456"
+},
+{
 "slug": "ue-regulament-2458-2023",
 "path": "ue/regulament/2023/2458",
 "kind": "ue",
@@ -11241,6 +14086,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2465"
 },
 {
+"slug": "ue-regulament-2466-2023",
+"path": "ue/regulament/2023/2466",
+"kind": "ue",
+"year": "2023",
+"number": "2466",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2466 al Comisiei din 17 august 2023 de stabilire a normelor de aplicare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele de comercializare a ouălor",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2466",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2466"
+},
+{
 "slug": "ue-regulament-2468-2023",
 "path": "ue/regulament/2023/2468",
 "kind": "ue",
@@ -11256,6 +14118,26 @@
 "from": "2023-11-10",
 "latest": "2023-11-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2468"
+},
+{
+"slug": "ue-regulament-2469-2023",
+"path": "ue/regulament/2023/2469",
+"kind": "ue",
+"year": "2023",
+"number": "2469",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2469 al Comisiei din 31 octombrie 2023 de modificare a anexelor I și II la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2469",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-04",
+"latest": "2023-11-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2469",
+"flags": {
+"end_of_validity": "2028-04-20"
+}
 },
 {
 "slug": "ue-regulament-2477-2023",
@@ -11346,6 +14228,26 @@
 }
 },
 {
+"slug": "ue-regulament-2490-2023",
+"path": "ue/regulament/2023/2490",
+"kind": "ue",
+"year": "2023",
+"number": "2490",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2490 al Comisiei din 30 octombrie 2023 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2490",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-30",
+"latest": "2023-11-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2490",
+"flags": {
+"figures_missing": 1
+}
+},
+{
 "slug": "ue-regulament-2491-2023",
 "path": "ue/regulament/2023/2491",
 "kind": "ue",
@@ -11364,6 +14266,23 @@
 "flags": {
 "figures_missing": 1
 }
+},
+{
+"slug": "ue-regulament-2493-2023",
+"path": "ue/regulament/2023/2493",
+"kind": "ue",
+"year": "2023",
+"number": "2493",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2493 al Comisiei din 15 noiembrie 2023 privind tratarea în conturile naționale a TVA-ului necolectat din cauza fraudei în materie de TVA și din cauză de insolvență (diferența între încasările teoretice de TVA și încasările efective de TVA) în scopul aplicării Regulamentului (UE) 2019/516 al Parlamentului European și al Consiliului privind armonizarea venitului național brut la prețurile pieței",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2493",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2493"
 },
 {
 "slug": "ue-regulament-2495-2023",
@@ -11545,6 +14464,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2510"
 },
 {
+"slug": "ue-regulament-2512-2023",
+"path": "ue/regulament/2023/2512",
+"kind": "ue",
+"year": "2023",
+"number": "2512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2512 al Comisiei din 8 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Requeijão da Madeira (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2512",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2512"
+},
+{
 "slug": "ue-regulament-2513-2023",
 "path": "ue/regulament/2023/2513",
 "kind": "ue",
@@ -11596,6 +14532,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2515"
 },
 {
+"slug": "ue-regulament-2519-2023",
+"path": "ue/regulament/2023/2519",
+"kind": "ue",
+"year": "2023",
+"number": "2519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2519 al Comisiei din 30 octombrie 2023 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2519",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2519",
+"flags": {
+"figures_missing": 2
+}
+},
+{
 "slug": "ue-regulament-2526-2023",
 "path": "ue/regulament/2023/2526",
 "kind": "ue",
@@ -11611,6 +14567,23 @@
 "from": "2023-12-10",
 "latest": "2023-12-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2526"
+},
+{
+"slug": "ue-regulament-2527-2023",
+"path": "ue/regulament/2023/2527",
+"kind": "ue",
+"year": "2023",
+"number": "2527",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2527 al Comisiei din 17 noiembrie 2023 de specificare a aspectelor tehnice ale seturilor de date pentru subiectul ad-hoc privind Energia și mediul pentru 2025 în domeniul venitului și condițiilor de viață, în temeiul Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2527",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-10",
+"latest": "2023-12-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2527"
 },
 {
 "slug": "ue-regulament-2529-2023",
@@ -11687,6 +14660,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2537"
 },
 {
+"slug": "ue-regulament-2573-2023",
+"path": "ue/regulament/2023/2573",
+"kind": "ue",
+"year": "2023",
+"number": "2573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2573 din 13 noiembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2573",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2573",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "ue-regulament-2574-2023",
+"path": "ue/regulament/2023/2574",
+"kind": "ue",
+"year": "2023",
+"number": "2574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2574 al Comisiei din 20 noiembrie 2023 de stabilire a informațiilor tehnice pentru calcularea rezervelor tehnice și a fondurilor proprii de bază în vederea efectuării raportării ce vizează datele de referință cuprinse între 30 septembrie 2023 și 30 decembrie 2023 în conformitate cu Directiva 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2574",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2574"
+},
+{
 "slug": "ue-regulament-2576-2023",
 "path": "ue/regulament/2023/2576",
 "kind": "ue",
@@ -11722,6 +14732,23 @@
 "from": "2023-12-11",
 "latest": "2023-12-11",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2579"
+},
+{
+"slug": "ue-regulament-2583-2023",
+"path": "ue/regulament/2023/2583",
+"kind": "ue",
+"year": "2023",
+"number": "2583",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2583 al Comisiei din 20 noiembrie 2023 privind autorizarea L-izoleucinei produse de Corynebacterium glutamicum KCCM 80185 ca aditiv în hrana tuturor speciilor de animale",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2583",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2583"
 },
 {
 "slug": "ue-regulament-2587-2023",
@@ -11829,6 +14856,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2592"
 },
 {
+"slug": "ue-regulament-2594-2023",
+"path": "ue/regulament/2023/2594",
+"kind": "ue",
+"year": "2023",
+"number": "2594",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2594 al Comisiei din 21 noiembrie 2023 privind refuzul reînnoirii autorizației unui preparat de clorhidrat de robenidină (Cycostat 66G) ca aditiv pentru hrana iepurilor pentru reproducere și a iepurilor pentru îngrășare (titularul autorizației: Zoetis Belgium S.A.) și de abrogare a Regulamentului de punere în aplicare (UE) nr. 532/2011",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2594",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2594"
+},
+{
 "slug": "ue-regulament-2596-2023",
 "path": "ue/regulament/2023/2596",
 "kind": "ue",
@@ -11844,6 +14888,23 @@
 "from": "2023-12-12",
 "latest": "2023-12-12",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2596"
+},
+{
+"slug": "ue-regulament-2597-2023",
+"path": "ue/regulament/2023/2597",
+"kind": "ue",
+"year": "2023",
+"number": "2597",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2597 al Comisiei din 14 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Skedvi Bröd (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2597",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2597"
 },
 {
 "slug": "ue-regulament-2598-2023",
@@ -11863,6 +14924,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2598"
 },
 {
+"slug": "ue-regulament-2602-2023",
+"path": "ue/regulament/2023/2602",
+"kind": "ue",
+"year": "2023",
+"number": "2602",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2602 al Comisiei din 22 noiembrie 2023 de acceptare a unei cereri de acordare a tratamentului de nou producător-exportator cu privire la măsurile antidumping definitive instituite la importurile de anumite elemente de fixare din fier sau din oțel originare din Republica Populară Chineză și de modificare a Regulamentului de punere în aplicare (UE) 2022/191 al Comisiei",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2602",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2602",
+"flags": {
+"end_of_validity": "2027-02-18"
+}
+},
+{
 "slug": "ue-regulament-2603-2023",
 "path": "ue/regulament/2023/2603",
 "kind": "ue",
@@ -11878,6 +14959,23 @@
 "from": "2023-12-13",
 "latest": "2023-12-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2603"
+},
+{
+"slug": "ue-regulament-2605-2023",
+"path": "ue/regulament/2023/2605",
+"kind": "ue",
+"year": "2023",
+"number": "2605",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2605 al Comisiei din 22 noiembrie 2023 de modificare a Regulamentului de punere în aplicare (UE) 2022/926 de instituire a unei taxe antidumping definitive la importurile de tuburi și țevi din fontă ductilă (cunoscută și sub denumirea de fontă cu grafit sferoidal) originare din India, în urma unei reexaminări intermediare parțiale în temeiul articolului 11 alineatul (3) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2605",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2605"
 },
 {
 "slug": "ue-regulament-2606-2023",
@@ -11988,6 +15086,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2618"
 },
 {
+"slug": "ue-regulament-2620-2023",
+"path": "ue/regulament/2023/2620",
+"kind": "ue",
+"year": "2023",
+"number": "2620",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2620 al Comisiei din 24 noiembrie 2023 de aprobare a dioxidului de sulf sintetizat prin arderea sulfului ca substanță activă destinată utilizării în produsele biocide aparținând tipului de produs 4 în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2620",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-17",
+"latest": "2023-12-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2620"
+},
+{
 "slug": "ue-regulament-2623-2023",
 "path": "ue/regulament/2023/2623",
 "kind": "ue",
@@ -12008,6 +15123,23 @@
 }
 },
 {
+"slug": "ue-regulament-2627-2023",
+"path": "ue/regulament/2023/2627",
+"kind": "ue",
+"year": "2023",
+"number": "2627",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2627 al Comisiei din 17 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Manteiga dos Açores (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2627",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2627"
+},
+{
 "slug": "ue-regulament-2628-2023",
 "path": "ue/regulament/2023/2628",
 "kind": "ue",
@@ -12023,6 +15155,23 @@
 "from": "2023-12-18",
 "latest": "2023-12-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2628"
+},
+{
+"slug": "ue-regulament-2629-2023",
+"path": "ue/regulament/2023/2629",
+"kind": "ue",
+"year": "2023",
+"number": "2629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2629 al Comisiei din 20 noiembrie 2023 de modificare a anexelor V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește rubricile referitoare la Canada, Regatul Unit și Statele Unite ale Americii din listele conținând țările terțe autorizate pentru introducerea în Uniune a transporturilor de păsări de curte, de materiale germinative provenite de la păsări de curte, de carne proaspătă provenită de la păsări de curte și de la vânat sălbatic cu pene",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2629",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2629"
 },
 {
 "slug": "ue-regulament-2631-2023",
@@ -12057,6 +15206,23 @@
 "from": "2023-12-18",
 "latest": "2023-12-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2632"
+},
+{
+"slug": "ue-regulament-2633-2023",
+"path": "ue/regulament/2023/2633",
+"kind": "ue",
+"year": "2023",
+"number": "2633",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2633 al Comisiei din 20 noiembrie 2023 de stabilire a traiectoriei de constituire de stocuri cu obiective intermediare pentru 2024 pentru fiecare stat membru care dispune de instalații de înmagazinare subterană a gazelor pe teritoriul său și direct interconectate la zona sa de piață",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2633",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2633"
 },
 {
 "slug": "ue-regulament-2639-2023",
@@ -12110,6 +15276,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2643"
 },
 {
+"slug": "ue-regulament-2644-2023",
+"path": "ue/regulament/2023/2644",
+"kind": "ue",
+"year": "2023",
+"number": "2644",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2644 al Comisiei din 28 noiembrie 2023 privind autorizarea acidului lactic produs de Weizmannia coagulans DSM 32789 ca aditiv în hrana tuturor speciilor de animale, cu excepția tuturor animalelor acvatice și a rumegătoarelor fără rumen funcțional",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2644",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2644"
+},
+{
+"slug": "ue-regulament-2645-2023",
+"path": "ue/regulament/2023/2645",
+"kind": "ue",
+"year": "2023",
+"number": "2645",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2645 al Comisiei din 28 noiembrie 2023 privind autorizarea unui preparat de endo–1,4-beta-mananază produsă de Paenibacillus lentus DSM 33618 ca aditiv pentru hrana tuturor speciilor de păsări de curte pentru îngrășare și crescute pentru ouat sau reproducere, a purceilor înțărcați, a purceilor înțărcați din specii minore de porcine, a porcilor pentru îngrășare și a speciilor minore de porcine pentru îngrășare (titularul autorizației: Elanco GmbH)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2645",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2645"
+},
+{
 "slug": "ue-regulament-2646-2023",
 "path": "ue/regulament/2023/2646",
 "kind": "ue",
@@ -12125,6 +15325,23 @@
 "from": "2023-12-19",
 "latest": "2023-12-19",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2646"
+},
+{
+"slug": "ue-regulament-2647-2023",
+"path": "ue/regulament/2023/2647",
+"kind": "ue",
+"year": "2023",
+"number": "2647",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2647 al Comisiei din 28 noiembrie 2023 privind autorizarea preparatului de Bacillus subtilis DSM 5750 și Bacillus paralicheniformis DSM 5749 ca aditiv în hrana vițeilor pentru îngrășare, a mieilor pentru creștere și pentru îngrășare și a speciilor minore de rumegătoare pentru creștere și pentru îngrășare, și de modificare a Regulamentului de punere în aplicare (UE) 2017/2308 în ceea ce privește condițiile de autorizare a preparatului respectiv pentru purceii de lapte (titularul autorizației: Chr. Hansen A/S)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2647",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2647"
 },
 {
 "slug": "ue-regulament-2649-2023",
@@ -12161,6 +15378,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2652"
 },
 {
+"slug": "ue-regulament-2654-2023",
+"path": "ue/regulament/2023/2654",
+"kind": "ue",
+"year": "2023",
+"number": "2654",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2654 al Comisiei din 21 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Vit färsksaltad Östgötagurka (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2654",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2654"
+},
+{
 "slug": "ue-regulament-2656-2023",
 "path": "ue/regulament/2023/2656",
 "kind": "ue",
@@ -12193,6 +15427,23 @@
 "from": "2023-12-13",
 "latest": "2023-12-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2657"
+},
+{
+"slug": "ue-regulament-2658-2023",
+"path": "ue/regulament/2023/2658",
+"kind": "ue",
+"year": "2023",
+"number": "2658",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2658 al Comisiei din 21 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Cebola da Madeira (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2658",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2658"
 },
 {
 "slug": "ue-regulament-2660-2023",
@@ -12683,6 +15934,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2712"
 },
 {
+"slug": "ue-regulament-2713-2023",
+"path": "ue/regulament/2023/2713",
+"kind": "ue",
+"year": "2023",
+"number": "2713",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2713 al Comisiei din 5 decembrie 2023 de desemnare a laboratoarelor de referință ale Uniunii Europene în domeniul dispozitivelor medicale pentru diagnostic in vitro",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2713",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-09",
+"latest": "2023-12-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2713"
+},
+{
+"slug": "ue-regulament-2714-2023",
+"path": "ue/regulament/2023/2714",
+"kind": "ue",
+"year": "2023",
+"number": "2714",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2714 al Comisiei din 27 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Edremit Körfezi Yeşil Çizik Zeytini (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2714",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-24",
+"latest": "2023-12-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2714"
+},
+{
 "slug": "ue-regulament-2715-2023",
 "path": "ue/regulament/2023/2715",
 "kind": "ue",
@@ -12760,6 +16045,23 @@
 }
 },
 {
+"slug": "ue-regulament-2728-2023",
+"path": "ue/regulament/2023/2728",
+"kind": "ue",
+"year": "2023",
+"number": "2728",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2728 al Comisiei din 28 noiembrie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al denumirii de origine protejate Pecorino Crotonese",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2728",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-25",
+"latest": "2023-12-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2728"
+},
+{
 "slug": "ue-regulament-2732-2023",
 "path": "ue/regulament/2023/2732",
 "kind": "ue",
@@ -12794,6 +16096,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2733"
 },
 {
+"slug": "ue-regulament-2734-2023",
+"path": "ue/regulament/2023/2734",
+"kind": "ue",
+"year": "2023",
+"number": "2734",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2734 al Comisiei din 7 decembrie 2023 privind autorizarea unui preparat de Saccharomyces cerevisiae DBVPG 48 SF ca aditiv pentru hrana cailor, a rumegătoarelor de lapte și a porcilor (titularul autorizației: Mazzoleni S.p.A.)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2734",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2734"
+},
+{
 "slug": "ue-regulament-2735-2023",
 "path": "ue/regulament/2023/2735",
 "kind": "ue",
@@ -12826,6 +16145,23 @@
 "from": "2023-12-28",
 "latest": "2023-12-28",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2736"
+},
+{
+"slug": "ue-regulament-2737-2023",
+"path": "ue/regulament/2023/2737",
+"kind": "ue",
+"year": "2023",
+"number": "2737",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2737 al Comisiei din 30 noiembrie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Jabłka grójeckie (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2737",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2737"
 },
 {
 "slug": "ue-regulament-2738-2023",
@@ -12919,6 +16255,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2745"
 },
 {
+"slug": "ue-regulament-2746-2023",
+"path": "ue/regulament/2023/2746",
+"kind": "ue",
+"year": "2023",
+"number": "2746",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2746 al Comisiei din 30 noiembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Ezine Peyniri (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2746",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2746"
+},
+{
 "slug": "ue-regulament-2747-2023",
 "path": "ue/regulament/2023/2747",
 "kind": "ue",
@@ -12953,6 +16306,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2755"
 },
 {
+"slug": "ue-regulament-2757-2023",
+"path": "ue/regulament/2023/2757",
+"kind": "ue",
+"year": "2023",
+"number": "2757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2757 al Comisiei din 13 decembrie 2023 de instituire a unei taxe antidumping definitive la importurile de acid tricloroizocianuric originar din Republica Populară Chineză în urma unei reexaminări în perspectiva expirării măsurilor efectuate în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2757",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2757",
+"flags": {
+"end_of_validity": "2028-12-15"
+}
+},
+{
 "slug": "ue-regulament-2758-2023",
 "path": "ue/regulament/2023/2758",
 "kind": "ue",
@@ -12970,6 +16343,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2758",
 "flags": {
 "end_of_validity": "2028-12-14"
+}
+},
+{
+"slug": "ue-regulament-2762-2023",
+"path": "ue/regulament/2023/2762",
+"kind": "ue",
+"year": "2023",
+"number": "2762",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2762 al Comisiei din 5 decembrie 2023 de înregistrare a unei denumiri în registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Meso crne slavonske svinje (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2762",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2762"
+},
+{
+"slug": "ue-regulament-2765-2023",
+"path": "ue/regulament/2023/2765",
+"kind": "ue",
+"year": "2023",
+"number": "2765",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2765 din 7 decembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2765",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2765",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -13135,6 +16545,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2779"
 },
 {
+"slug": "ue-regulament-2782-2023",
+"path": "ue/regulament/2023/2782",
+"kind": "ue",
+"year": "2023",
+"number": "2782",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2782 al Comisiei din 14 decembrie 2023 de stabilire a metodelor de eșantionare și de analiză pentru controlul nivelurilor de micotoxine din produse alimentare și de abrogare a Regulamentului (CE) nr. 401/2006",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2782",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2782"
+},
+{
 "slug": "ue-regulament-2783-2023",
 "path": "ue/regulament/2023/2783",
 "kind": "ue",
@@ -13167,6 +16594,26 @@
 "from": "2024-01-04",
 "latest": "2024-01-04",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2785"
+},
+{
+"slug": "ue-regulament-2789-2023",
+"path": "ue/regulament/2023/2789",
+"kind": "ue",
+"year": "2023",
+"number": "2789",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2789 din 11 decembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2789",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2789",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-2790-2023",
@@ -13261,6 +16708,40 @@
 "from": "2024-01-08",
 "latest": "2024-01-08",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2802"
+},
+{
+"slug": "ue-regulament-2809-2023",
+"path": "ue/regulament/2023/2809",
+"kind": "ue",
+"year": "2023",
+"number": "2809",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2809 al Comisiei din 21 decembrie 2023 de modificare a anexelor V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește rubricile referitoare la Canada, Regatul Unit și Statele Unite din listele conținând țările terțe autorizate pentru introducerea în Uniune a transporturilor de păsări de curte, de materiale germinative provenite de la păsări de curte și de carne proaspătă provenită de la păsări de curte și de la vânat cu pene",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2809",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2023-12-23",
+"latest": "2023-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2809"
+},
+{
+"slug": "ue-regulament-2813-2023",
+"path": "ue/regulament/2023/2813",
+"kind": "ue",
+"year": "2023",
+"number": "2813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2813 al Comisiei din 11 decembrie 2023 de aprobare a modificărilor caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [Algarve (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2813",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-07",
+"latest": "2024-01-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2813"
 },
 {
 "slug": "ue-regulament-2814-2023",
@@ -13533,6 +17014,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2845"
 },
 {
+"slug": "ue-regulament-2846-2023",
+"path": "ue/regulament/2023/2846",
+"kind": "ue",
+"year": "2023",
+"number": "2846",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2846 al Comisiei din 20 decembrie 2023 privind autorizarea extractului de quebracho roșu din Schinopsis balansae Engl. sau din Schinopsis lorentzii (Griseb.) Engl. ca aditiv pentru hrana tuturor speciilor de animale",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2846",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2846"
+},
+{
 "slug": "ue-regulament-2847-2023",
 "path": "ue/regulament/2023/2847",
 "kind": "ue",
@@ -13582,6 +17080,23 @@
 "from": "2024-01-10",
 "latest": "2024-01-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2850"
+},
+{
+"slug": "ue-regulament-2851-2023",
+"path": "ue/regulament/2023/2851",
+"kind": "ue",
+"year": "2023",
+"number": "2851",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2851 al Comisiei din 20 decembrie 2023 de autorizare a introducerii pe piață a proteinelor parțial hidrolizate obținute din borhot de orz (Hordeum vulgare) și de orez (Oryza sativa) ca aliment nou și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2851",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2851"
 },
 {
 "slug": "ue-regulament-2854-2023",
@@ -13652,6 +17167,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2864"
 },
 {
+"slug": "ue-regulament-2866-2023",
+"path": "ue/regulament/2023/2866",
+"kind": "ue",
+"year": "2023",
+"number": "2866",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2866 al Comisiei din 15 decembrie 2023 de punere în aplicare a Regulamentului (UE) 2019/631 al Parlamentului European și al Consiliului prin stabilirea procedurilor de verificare a valorilor pentru emisiile de CO2 și consumul de combustibil ale autoturismelor și ale vehiculelor utilitare ușoare aflate în circulație (verificare în circulație)",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2866",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-07",
+"latest": "2024-01-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2866",
+"flags": {
+"figures_missing": 11
+}
+},
+{
 "slug": "ue-regulament-2867-2023",
 "path": "ue/regulament/2023/2867",
 "kind": "ue",
@@ -13686,6 +17221,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2869"
 },
 {
+"slug": "ue-regulament-2872-2023",
+"path": "ue/regulament/2023/2872",
+"kind": "ue",
+"year": "2023",
+"number": "2872",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2872 al Comisiei din 13 decembrie 2023 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Formatge Garrotxa/Queso Garrotxa (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2872",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2872"
+},
+{
 "slug": "ue-regulament-2873-2023",
 "path": "ue/regulament/2023/2873",
 "kind": "ue",
@@ -13701,6 +17253,26 @@
 "from": "2023-12-19",
 "latest": "2023-12-19",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2873"
+},
+{
+"slug": "ue-regulament-2875-2023",
+"path": "ue/regulament/2023/2875",
+"kind": "ue",
+"year": "2023",
+"number": "2875",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2875 din 18 decembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2875",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2875",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-2877-2023",
@@ -13786,6 +17358,23 @@
 "from": "2024-01-11",
 "latest": "2024-01-11",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2887"
+},
+{
+"slug": "ue-regulament-2889-2023",
+"path": "ue/regulament/2023/2889",
+"kind": "ue",
+"year": "2023",
+"number": "2889",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2889 al Comisiei din 15 decembrie 2023 de aprobare a unei modificări care nu este minoră a caietului de sarcini al indicației geografice protejate Marchfeldspargel",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2889",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2889"
 },
 {
 "slug": "ue-regulament-2890-2023",
@@ -13874,6 +17463,26 @@
 "from": "2023-12-30",
 "latest": "2023-12-30",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2904"
+},
+{
+"slug": "ue-regulament-2905-2023",
+"path": "ue/regulament/2023/2905",
+"kind": "ue",
+"year": "2023",
+"number": "2905",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2023/2905 din 21 decembrie 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2023/2905",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-23",
+"latest": "2023-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2905",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-2908-2023",

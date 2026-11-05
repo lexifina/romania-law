@@ -9544,12 +9544,12 @@
    }
   },
   {
-   "shard": "local/judet/prahova/2004",
+   "shard": "local/judet/prahova/2002",
    "kind": "local",
-   "file": "data/freshness/local/judet/prahova/2004.csv",
-   "count": 3,
+   "file": "data/freshness/local/judet/prahova/2002.csv",
+   "count": 1,
    "by_status": {
-    "current": 3,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9557,9 +9557,35 @@
    }
   },
   {
-   "shard": "local/judet/prahova/2010",
+   "shard": "local/judet/prahova/2004",
    "kind": "local",
-   "file": "data/freshness/local/judet/prahova/2010.csv",
+   "file": "data/freshness/local/judet/prahova/2004.csv",
+   "count": 69,
+   "by_status": {
+    "current": 69,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/judet/prahova/2005",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2005.csv",
+   "count": 42,
+   "by_status": {
+    "current": 42,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/judet/prahova/2006",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2006.csv",
    "count": 4,
    "by_status": {
     "current": 4,
@@ -9570,9 +9596,22 @@
    }
   },
   {
-   "shard": "local/judet/prahova/2011",
+   "shard": "local/judet/prahova/2007",
    "kind": "local",
-   "file": "data/freshness/local/judet/prahova/2011.csv",
+   "file": "data/freshness/local/judet/prahova/2007.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/judet/prahova/2008",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2008.csv",
    "count": 2,
    "by_status": {
     "current": 2,
@@ -9583,12 +9622,38 @@
    }
   },
   {
+   "shard": "local/judet/prahova/2010",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2010.csv",
+   "count": 77,
+   "by_status": {
+    "current": 77,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/judet/prahova/2011",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2011.csv",
+   "count": 72,
+   "by_status": {
+    "current": 72,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/judet/prahova/2012",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2012.csv",
-   "count": 6,
+   "count": 116,
    "by_status": {
-    "current": 6,
+    "current": 116,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9599,9 +9664,9 @@
    "shard": "local/judet/prahova/2013",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2013.csv",
-   "count": 4,
+   "count": 126,
    "by_status": {
-    "current": 4,
+    "current": 126,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9612,9 +9677,9 @@
    "shard": "local/judet/prahova/2014",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2014.csv",
-   "count": 4,
+   "count": 104,
    "by_status": {
-    "current": 3,
+    "current": 103,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -9622,12 +9687,25 @@
    }
   },
   {
+   "shard": "local/judet/prahova/2015",
+   "kind": "local",
+   "file": "data/freshness/local/judet/prahova/2015.csv",
+   "count": 70,
+   "by_status": {
+    "current": 70,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/judet/prahova/2016",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2016.csv",
-   "count": 6,
+   "count": 84,
    "by_status": {
-    "current": 6,
+    "current": 84,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9638,9 +9716,9 @@
    "shard": "local/judet/prahova/2017",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2017.csv",
-   "count": 11,
+   "count": 168,
    "by_status": {
-    "current": 11,
+    "current": 168,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9651,9 +9729,9 @@
    "shard": "local/judet/prahova/2018",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2018.csv",
-   "count": 5,
+   "count": 129,
    "by_status": {
-    "current": 5,
+    "current": 129,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9664,9 +9742,9 @@
    "shard": "local/judet/prahova/2019",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2019.csv",
-   "count": 13,
+   "count": 125,
    "by_status": {
-    "current": 13,
+    "current": 125,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9677,9 +9755,9 @@
    "shard": "local/judet/prahova/2020",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2020.csv",
-   "count": 16,
+   "count": 133,
    "by_status": {
-    "current": 16,
+    "current": 133,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9690,9 +9768,9 @@
    "shard": "local/judet/prahova/2021",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2021.csv",
-   "count": 18,
+   "count": 235,
    "by_status": {
-    "current": 18,
+    "current": 235,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9703,9 +9781,9 @@
    "shard": "local/judet/prahova/2022",
    "kind": "local",
    "file": "data/freshness/local/judet/prahova/2022.csv",
-   "count": 298,
+   "count": 317,
    "by_status": {
-    "current": 298,
+    "current": 317,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10106,9 +10184,9 @@
    "shard": "local/judet/salaj/2025",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2025.csv",
-   "count": 124,
+   "count": 139,
    "by_status": {
-    "current": 118,
+    "current": 133,
     "pending-change": 0,
     "stale": 0,
     "unverified": 6,

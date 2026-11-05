@@ -6648,6 +6648,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-20-2024",
+   "path": "ue/regulament/2024/20",
+   "short": "Regulamentul de punere în aplicare (UE) 2024/20",
+   "title": "Regulamentul de punere în aplicare (UE) 2024/20 al Comisiei din 12 decembrie 2023 privind nereînnoirea aprobării substanței active S-metolaclor, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0020",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/feee95bb-a9d9-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "85b3497c9f33466ded53fd477e708b9e810b9214e2fd8cf43b33fc3525730ff7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2000-2024",
    "path": "ue/regulament/2024/2000",
    "short": "Regulamentul de punere în aplicare (UE) 2024/2000",
@@ -16259,6 +16274,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9040a827-e65c-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "02dc80d92164eb834542a6204be4e51b6a124c02c4a8f39c2cc0d1146b57ce59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-910-2024",
+   "path": "ue/regulament/2024/910",
+   "short": "Regulamentul de punere în aplicare (UE) 2024/910",
+   "title": "Regulamentul de punere în aplicare (UE) 2024/910 al Comisiei din 15 decembrie 2023 de stabilire a unor standarde tehnice de punere în aplicare pentru aplicarea Directivei 2009/65/CE a Parlamentului European și a Consiliului referitoare la forma și conținutul informațiilor care trebuie notificate cu privire la activitățile transfrontaliere ale organismelor de plasament colectiv în valori mobiliare (OPCVM) și ale societăților de administrare a OPCVM-urilor, precum și referitoare la schimbul de informații între autoritățile competente cu privire la scrisorile de notificare a activităților transfrontaliere și de modificare a Regulamentului (UE) nr. 584/2010 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0910",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8f92f91-ea4b-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "36589b5e38fd87ecc7172e7290acc790497c3bdbbb2f9213c77e3a8000dcb3e0"
     }
    ]
   },
