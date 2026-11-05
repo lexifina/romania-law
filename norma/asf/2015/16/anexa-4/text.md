@@ -1,0 +1,36 @@
+# Anexa 4
+Avarii existente............
+Data și ora prezentării.............................
+Data.......... ora.....................................
+Obținerea din asigurare de foloase materiale necuvenite se pedepsește conform Codului penal.
+Inspector de specialitate daune,
+Petent,............................................
+DECLARAȚIE PRIVIND EVENIMENTUL Subsemnatul(a),....................., fiul (fiica) lui................. și al/a..............., născut(ă) la data de............... în localitatea..................., județul/sectorul................., domiciliat(ă) în localitatea..............., str.......... nr......, bl......., sc......, et......, ap......, județul/sectorul............., CNP...................., legitimat(ă) cu.......... seria..... nr........, eliberat(ă) de......................, telefon/fax........., adresă de e-mail......................, în baza Contractului de asigurare obligatorie/facultativă seria............... nr............, cu valabilitate de la.............. până la................., declar pe propria răspundere următoarele aspecte privind cauzele și consecințele producerii evenimentului asigurat (avarie auto, furt, inundație, incendiu etc.). Descrierea evenimentului: La data de............., în localitatea.........................., str................. nr......., bl......., sc......, et......, ap...., județul/sectorul................., în jurul orei................................ Consecințe ale evenimentului asigurat:..................................................................................................................................................
+Data:...../....../.......
+Semnătura:..............
+NOTĂ: În mod obligatoriu se vor completa corect toate spațiile punctate din conținutul declarației. Următoarele declarații se vor completa doar în cazul daunelor auto. Declar pe propria răspundere că în urma evenimentului rutier [] nu au [] au suferit vătămări corporale următoarele persoane (Se vor menționa numele, prenumele, adresa și vătămările corporale) și [] sau [] nu s-au produs pagube altor persoane:......................................................................................................................................................................................................................................................................................... Autovehiculul este asigurat CASCO/RCA cu Contractul nr........., emis de Societatea................, valabil de la................... până la..................... Detalii privind evenimentul
+```
+┌─────────────────────────┬─────────────────┬─────────────────────────────────┬──────────────┐
+│Condiții de luminozitate:│- lumina zilei []│- luminozitate redusă []         │- întuneric []│
+├─────────────────────────┼─────────────────┼─────────────────────────────────┼──────────────┤
+│Starea carosabilului:    │- uscat []       │- altele (umed, înghețat etc.) []│              │
+└─────────────────────────┴─────────────────┴─────────────────────────────────┴──────────────┘
+```
+Categoria vehiculului (înscrisă în documentul internațional de asigurare): - categoria "A" autoturism [] - categoria "B" motociclu [] - categoria "C" autocamion sau tractor [] - categoria "D" bicicletă cu motor [] - categoria "E" autobuz sau autocar [] - categoria "F" remorcă [] Prezentarea schematică a avariilor:
+Prezentarea schematică a accidentului/evenimentului:
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+Evenimentul a fost anunțat și la Poliția din.........................., care a încheiat Procesul-verbal seria........ nr.........., Autorizația de reparație seria....... nr.................. din data de...../....../......... Vinovat de producerea evenimentului este......................, domiciliat în localitatea..............., județul/sectorul................., str................... nr........, bl........., sc........, et........, ap........., telefonul............., care a condus autovehiculul cu nr. de înmatriculare................., asigurat RCA la Societatea................, cu Polița seria........ nr.........., valabilă de la............. la................. Declar pe propria răspundere, sub sancțiunea prevăzută de art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, privind falsul în declarații, că nu am depus formularul Constatare amiabilă de accident, o copie a acestuia și nici vreun alt document de avizare/înștiințare/cerere/notificare la niciun alt asigurător, în vederea obținerii de despăgubiri.
+Data:....../...../.....
+Semnătura..............
