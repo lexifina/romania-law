@@ -118925,6 +118925,21 @@
    ]
   },
   {
+   "slug": "legea-202-1997",
+   "path": "lege/1997/202",
+   "short": "Legea nr. 202/1997",
+   "title": "Legea nr. 202/1997 pentru denunţarea Convenţiei privind soluţionarea pe cale arbitrală a litigiilor de drept civil decurgând din raporturile de colaborare economică şi tehnico-ştiinţifică, adoptată la Moscova la 26 mai 1972",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12045",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12045",
+     "sha256": "3a18fbfd5a4864dd5d296445435e29688407c477eb7b1f4e7ef0edc2765f4451"
+    }
+   ]
+  },
+  {
    "slug": "legea-202-1999",
    "path": "lege/1999/202",
    "short": "Legea nr. 202/1999",
@@ -119582,6 +119597,21 @@
    ]
   },
   {
+   "slug": "legea-204-1997",
+   "path": "lege/1997/204",
+   "short": "Legea nr. 204/1997",
+   "title": "Legea nr. 204/1997 privind aprobarea Ordonanţei Guvernului nr. 25/1997 pentru ratificarea Memorandumului de înţelegere - Programul de cooperare a Olandei cu România, 1997, semnat la Bucureşti la 25 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12052",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12052",
+     "sha256": "a34a23c6e46b0daee7f32b0546cb70faf2ec571fa7bba8664b8e3357de402f78"
+    }
+   ]
+  },
+  {
    "slug": "legea-204-1999",
    "path": "lege/1999/204",
    "short": "Legea nr. 204/1999",
@@ -120202,6 +120232,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244506",
      "sha256": "c0a9c996484ede2c9c5bc75c30294bf58c308f60e85c4c5308ce3f173e24e1b5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-206-1997",
+   "path": "lege/1997/206",
+   "short": "Legea nr. 206/1997",
+   "title": "Legea nr. 206/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 28/1997 pentru modificarea şi completarea Legii nr. 82/1992 privind rezervele materiale naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12060",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12060",
+     "sha256": "898895738a04bdfbf662f404e016747fd1a0536dd804626b3e57cdbb84432b0f"
     }
    ]
   },

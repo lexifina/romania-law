@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12552 acts, 24,067 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12555 acts, 24,070 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8427, of which 3186 amending acts)
+## Laws (legi) (8430, of which 3188 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -470,7 +470,10 @@
 | Legea nr. 197/1997 | [`lege/1997/197/`](lege/1997/197/) | in force | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 198/1997 pentru modificarea articolului 67 din Legea gospodăriei comunale nr. 4/1981 | [`lege/1997/198/`](lege/1997/198/) | amended, not consolidated | 1 | 1997-12-01 | 1997-12-01 |
 | Legea nr. 199/1997 pentru ratificarea Cartei europene a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 | [`lege/1997/199/`](lege/1997/199/) | amended, not consolidated | 1 | 1997-11-26 | 1997-11-26 |
+| Legea nr. 202/1997 pentru denunţarea Convenţiei privind soluţionarea pe cale arbitrală a litigiilor de drept civil decurgând din raporturile de colaborare economică şi tehnico-ştiinţifică, adoptată la Moscova la 26 mai 1972 | [`lege/1997/202/`](lege/1997/202/) | in force | 1 | 1997-12-10 | 1997-12-10 |
+| Legea nr. 204/1997 privind aprobarea Ordonanţei Guvernului nr. 25/1997 pentru ratificarea Memorandumului de înţelegere - Programul de cooperare a Olandei cu România, 1997, semnat la Bucureşti la 25 februarie 1997 | [`lege/1997/204/`](lege/1997/204/) | amending act | 1 | 1997-12-10 | 1997-12-10 |
 | Legea nr. 205/1997 privind aprobarea Ordonanţei Guvernului nr. 38/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind conservarea energiei termice, semnat la Londra la 13 aprilie 1997 | [`lege/1997/205/`](lege/1997/205/) | amended, not consolidated | 1 | 1997-12-10 | 1997-12-10 |
+| Legea nr. 206/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 28/1997 pentru modificarea şi completarea Legii nr. 82/1992 privind rezervele materiale naţionale | [`lege/1997/206/`](lege/1997/206/) | amending act | 1 | 1997-12-10 | 1997-12-10 |
 | Legea nr. 208/1997 | [`lege/1997/208/`](lege/1997/208/) | in force | 1 | 1997-12-17 | 1997-12-17 |
 | Legea nr. 211/1997 pentru aprobarea Ordonanţei Guvernului nr. 20/1997 privind stabilirea orarului de vara şi a orei oficiale de vara pe teritoriul României | [`lege/1997/211/`](lege/1997/211/) | amending act | 1 | 1997-12-18 | 1997-12-18 |
 | Legea nr. 212/1997 pentru aprobarea Ordonanţei Guvernului nr. 60/1997 privind apărarea împotriva incendiilor | [`lege/1997/212/`](lege/1997/212/) | amended, not consolidated | 1 | 1997-12-18 | 1997-12-18 |
@@ -12618,7 +12621,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29173 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29209 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
