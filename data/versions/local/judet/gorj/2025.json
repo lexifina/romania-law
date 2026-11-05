@@ -3,6 +3,276 @@
  "shard": "local/judet/gorj/2025",
  "acts": [
   {
+   "slug": "hcj-gorj-10-2025",
+   "path": "local/judet/gorj/2025/10",
+   "short": "HCJ Gorj nr. 10/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 10/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b2acdf447d6b1edb0e06361e9507f56ca9db38c29dda8b90a68f623dc92acb8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-101-2025",
+   "path": "local/judet/gorj/2025/101",
+   "short": "HCJ Gorj nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 101/2025 privind stabilirea unor măsuri în vederea negocierii prețului final pentru închirierea imobilelor conforme identificate necesare desfășurării activității instituționale a Consiliului Județean Gorj, ce vor fi utilizate cu statut de sediu temporar pe durata lucrărilor de reabilitare a Palatul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/101.%20HCJ%20mutare%20sediu%20CJ.pdf",
+     "sha256": "86d407d4d88f9585e050a2f459364c1fc98b60a569d96cefcbc74c4c7d1221fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-102-2025",
+   "path": "local/judet/gorj/2025/102",
+   "short": "HCJ Gorj nr. 102/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 102/2025 pentru aprobarea rezultatului final al evaluării managementului exercitat în anul 2024 la nivelul Școlii Populare de Arte „Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/102.%20HCJ%20aprob.rezult.eval.manag.SPA.2025.pdf",
+     "sha256": "26a382bde3a3fb611f726d2ac271ad61979bb201e41be459165b56deb0f3d81d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-103-2025",
+   "path": "local/judet/gorj/2025/103",
+   "short": "HCJ Gorj nr. 103/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 103/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/103.%20HCJ%20aprob.rez.final.D.G_04.2025.pdf",
+     "sha256": "8548b5bdd7dd00e6cc2ffb7bc04649587b2c0b973acea222b02c16d5a27cce28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-104-2025",
+   "path": "local/judet/gorj/2025/104",
+   "short": "HCJ Gorj nr. 104/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 104/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a1b1748009bf6046112d8f689e9527fd0ad278643278c4234ee211fe98a02970"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-106-2025",
+   "path": "local/judet/gorj/2025/106",
+   "short": "HCJ Gorj nr. 106/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 106/2025 pentru constituirea comisiilor de concurs/examinare și a comisiilor de soluționare a contestațiilor la concursurile/examenele de ocupare a unor funcții de conducere vacante de șef de secție din cadrul Spitalului Judeţean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/106.%20HCJ.aprob.com.concurs.sef%20sectii%20SJU.APRIL%202025.pdf",
+     "sha256": "590dcadf468acb2b0f56bd4b74f72392173811c79fc30845ff031a7e99e47aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-107-2025",
+   "path": "local/judet/gorj/2025/107",
+   "short": "HCJ Gorj nr. 107/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 107/2025 privind desemnarea consilierilor județeni care vor exercita calitatea de membri ai Autorității Teritoriale de Ordine Publică Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/107.%20HCJ%20desemnare%20consilieri%20ATOP.pdf",
+     "sha256": "bccae1c9f77da79fa4e6acb24745023fed5d441cd1ded2a6bb80198a7701e2e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-108-2025",
+   "path": "local/judet/gorj/2025/108",
+   "short": "HCJ Gorj nr. 108/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 108/2025 pentru aprobarea rezultatului final al evaluării managementului exercitat în anul 2024 la nivelul Bibliotecii Județene ,,Christian Tell” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/108.%20HCJ%20aprob.%20eval.%202024%20Biblioteca%20Jud..pdf",
+     "sha256": "4a177c759ba351fd4982c4278a8641eac1293d8b9a052ee4dcea4c84836eaa61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-109-2025",
+   "path": "local/judet/gorj/2025/109",
+   "short": "HCJ Gorj nr. 109/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 109/2025 privind stabilirea unor măsuri în vederea încheierii contractelor de închiriere a imobilelor conforme identificate necesare desfășurării activității instituționale a Consiliului Județean Gorj, ce vor fi utilizate cu statut de sediu temporar pe durata lucrărilor de reabilitare a Palatului Ad",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/04.04.2025%20-%20Adoptate/109.%20HCJ%20mutare%20sediu%20CJ%204.pdf",
+     "sha256": "bfa4e5388a66be4be68e452cb09842aa9e552c76cce96b084e80be12a5b1a322"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-110-2025",
+   "path": "local/judet/gorj/2025/110",
+   "short": "HCJ Gorj nr. 110/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 110/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.04.2025%20-%20Adoptate/110.%20HCJ%20rectificare%20BPG%2008042025.pdf",
+     "sha256": "b7a069c096fcb12250ff01bbd3efda7492d5271df06ccd7d8f8e3564e0a7d898"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-111-2025",
+   "path": "local/judet/gorj/2025/111",
+   "short": "HCJ Gorj nr. 111/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 111/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Creșterea eficienței energetice a clădirilor din cadrul Complexului de Îngrijire și Asistență Suseni”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.04.2025%20-%20Adoptate/111.%20HCJ%20actualizare%20indicatori%20Cresterea%20eficientei%20energetice%20Suseni.pdf",
+     "sha256": "1deb1b57ca82350251a88d68a18bfeeb1b76650c08079c5031e5556818e9d455"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-115-2025",
+   "path": "local/judet/gorj/2025/115",
+   "short": "HCJ Gorj nr. 115/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 115/2025 privind aprobarea Anexei nr. 1 a Planului de restructurare pentru perioada 2024-2025 a Centrului de Recuperare și Reabilitare pentru Adulți ”Bîlteni” Tg-Jiu cu o capacitate de furnizare de servicii sociale de 90 de locuri din cadrul Complexului de Recuperare și Reabilitare Neuropsihiatrică pentru Ad",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.04.2025%20-%20Adoptate/115.%20HCJ%20aprob.%20Anexa%201%20Plan%20mar%202025.pdf",
+     "sha256": "18480dac7a175ef4f15769340c22aec5fb111466913225cff5c66a2bd2f6f9a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-116-2025",
+   "path": "local/judet/gorj/2025/116",
+   "short": "HCJ Gorj nr. 116/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 116/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/116.%20HCJ%20modificare%20program%20transport%20-%20aprilie%202025.pdf",
+     "sha256": "77879e895fc6f1922d5c07331f7748d380b9627d856f5921d9367d7aa6dd88c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-129-2025",
+   "path": "local/judet/gorj/2025/129",
+   "short": "HCJ Gorj nr. 129/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 129/2025 privind aprobarea execuției bugetului propriu general al Județului Gorj înregistrată la data de 31.03.2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/129.%20HCJ%20executie%20martie%202025.pdf",
+     "sha256": "679b7bf61569d20f7e86cf3ae39dabd3bb1a2d68849cdbd2c3136408cc46f823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-130-2025",
+   "path": "local/judet/gorj/2025/130",
+   "short": "HCJ Gorj nr. 130/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 130/2025 privind aprobarea cuantumului cotizației pentru anul 2025 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/130.%20HCJ%20cotizatie%20ADIA%202025.pdf",
+     "sha256": "5f4a2f12f3f2d99e75a4aee64d4c9c4770ede8b3672bc2f44e1678b9090b7f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-131-2025",
+   "path": "local/judet/gorj/2025/131",
+   "short": "HCJ Gorj nr. 131/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 131/2025 privind aprobarea cuantumului cotizației pentru anul 2025 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "84dcaefa6aa9c38f9eaf59f5767d9951377c063fc306f677e887bb0f344cd3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-132-2025",
+   "path": "local/judet/gorj/2025/132",
+   "short": "HCJ Gorj nr. 132/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 132/2025 privind aprobarea cuantumului cotizației pentru anul 2025 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/132.%20HCJ%20cotizatie%20Fanfara%20Armonia.pdf",
+     "sha256": "c0a1857a9b7b8616bcc3c9470b63098102752e3b9b369ccb2fb30d0d421bcf27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-134-2025",
+   "path": "local/judet/gorj/2025/134",
+   "short": "HCJ Gorj nr. 134/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 134/2025 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/134.%20HCJ%20SJU%20aprilie%202025.pdf",
+     "sha256": "062080beada9957a6c45932ec630e25bcd72a3cb44d52e71ec21c257fd28a22b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-135-2025",
    "path": "local/judet/gorj/2025/135",
    "short": "HCJ Gorj nr. 135/2025",
@@ -14,6 +284,771 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/135.%20HCJ%20procedura%20cumparare%20imobile.pdf",
      "sha256": "3294c2f78bc7d62fb716f920b56d713d6dfd24ced99dcc5977fd3d074e76d822"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-143-2025",
+   "path": "local/judet/gorj/2025/143",
+   "short": "HCJ Gorj nr. 143/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 143/2025 pentru modificarea Organigramei și Statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/143.%20HCJ%20modificari%20aparat%20de%20specialiate%20CJ%20Gorj%20apr%202025.pdf",
+     "sha256": "43fa5bba5ad06c695fd36fe6abcbec66d77c7db25a176522790706246db0650c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-145-2025",
+   "path": "local/judet/gorj/2025/145",
+   "short": "HCJ Gorj nr. 145/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 145/2025 privind aprobarea Ghidului solicitantului privind regimul finanțărilor nerambursabile din fondurile bugetului Județului Gorj alocate pentru activități nonprofit de interes general pentru anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.05.2025%20-%20Adoptate/145.%20HCJ%20aprobare%20Ghid%20acordare%20finantari%20nerambursabile%202025%20ONG%20final.pdf",
+     "sha256": "fc91cdc034c0ae06e0c8c02ef0d12777e13153a5a313a23969ff4b3dda453271"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-147-2025",
+   "path": "local/judet/gorj/2025/147",
+   "short": "HCJ Gorj nr. 147/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 147/2025 pentru validarea rezultatelor concursurilor organizate în vederea ocupării unor funcții de conducere vacante de șef de secție din cadrul unității sanitare publice – Spitalul Judeţean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.05.2025%20-%20Adoptate/147.%20HCJ%20valid.rezult.concurs.sef%20sectiiSJU%20mai2025.pdf",
+     "sha256": "6b65ad56a83778510b94b59190677942a11cde4c60786a8ae4c4b1a3e1bb7b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-149-2025",
+   "path": "local/judet/gorj/2025/149",
+   "short": "HCJ Gorj nr. 149/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 149/2025 privind aprobarea contului anual de execuție a bugetului propriu general al Județului Gorj pe anul 2024 și aprobarea situațiilor financiare anuale întocmite la data de 31.12.2024",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/149.%20HOTARARE%20EXECUTIE%202024.pdf",
+     "sha256": "b22d1b1f0f5deca04492bb25f83580c896324988f477c409c9cf2e9a85e971f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-150-2025",
+   "path": "local/judet/gorj/2025/150",
+   "short": "HCJ Gorj nr. 150/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 150/2025 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2025 al Societăţii Comerciale „Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/150.%20HCJ%20Parc%20Industrial%202025.pdf",
+     "sha256": "e4756432e73b015d9a84066b43e0e18fbf90f1ce63074a6c80f680e6b54c4f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-151-2025",
+   "path": "local/judet/gorj/2025/151",
+   "short": "HCJ Gorj nr. 151/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 151/2025 privind actualizarea componenței Echipei Intersectoriale Locale(E.I.L.) în domeniul prevenirii și combaterii violenței asupra copiilor, violenței în familie și a exploatării prin muncă, aprobate prin Hotărârea Consiliului Județean Gorj nr. 184/18.12.2020",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/151.%20PrHCJ%20actualizarea%20compEIL.pdf",
+     "sha256": "088f51ffc2a90c310ee3cc6682709809f9b62090e34c07cd49a6fae5b2c16dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-152-2025",
+   "path": "local/judet/gorj/2025/152",
+   "short": "HCJ Gorj nr. 152/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 152/2025 pentru stabilirea unor măsuri privind reprezentarea UAT – Județul Gorj în Adunarea Generală a Asociației de Dezvoltare Intercomunitară în domeniul serviciilor publice de salubrizare “ADIS” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/152.%20PrHCJ%20stabilire%20reprezentant%20ADIS.pdf",
+     "sha256": "babd06d77b674320a3385310dcb297188bd3723d1363ee6c656d4576dd4c299c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-153-2025",
+   "path": "local/judet/gorj/2025/153",
+   "short": "HCJ Gorj nr. 153/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 153/2025 pentru stabilirea unor măsuri privind reprezentarea UAT – Județul Gorj în Adunarea Generală a Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciul de alimentare cu apă și canalizare “ADIA” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/153.%20PrHCJ%20stabilire%20reprezentant%20ADIA%20Gorj.pdf",
+     "sha256": "8ff8ef17262c85fbe8617b31551abd4dd05504784e247c20a0dae941f69d642e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-156-2025",
+   "path": "local/judet/gorj/2025/156",
+   "short": "HCJ Gorj nr. 156/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 156/2025 pentru modificarea Statului de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/156.%20HCJ%20modificare%20Stat%20de%20funi%20DGASPC%20Gorj%20mai%202025.pdf",
+     "sha256": "fc5434f062a1c404b618f3ba81c9f0409a93378e56d573ff3d419472a20cbde9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-157-2025",
+   "path": "local/judet/gorj/2025/157",
+   "short": "HCJ Gorj nr. 157/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 157/2025 privind transmiterea din evidenta patrimonial – contabilă a UAT – Județul Gorj în evidența patrimonial-contabilă a Inspectoratului de Jandarmi Județean „Tudor Vladimirescu” Gorj a unor obiecte de inventar si mijloace fixe achiziționate din bugetul propriu general al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/157.%20HCJ%20transmitere%20obiecte%20Insp.%20Jandarmi%20ATOP.pdf",
+     "sha256": "8793cbc4a7c5108e891bd3f4d7c553f2ba574828714179b1d663f5debfc068a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-158-2025",
+   "path": "local/judet/gorj/2025/158",
+   "short": "HCJ Gorj nr. 158/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 158/2025 pentru validarea rezultatelor concursurilor organizate în vederea ocupării unor funcții de conducere vacante de șef de secție din cadrul unității sanitare publice – Spitalul Judeţean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/158.%20HCJ%20valid.rezult.concurs.sef%20sectiiSJU%2028mai2025.pdf",
+     "sha256": "80c67f20ae20aefe1162a4e373563bdcb09103eb82bd138b8e4c3d5180dae82e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-159-2025",
+   "path": "local/judet/gorj/2025/159",
+   "short": "HCJ Gorj nr. 159/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 159/2025 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/159.%20HCJ%20SJU%2028%20mai%202025.pdf",
+     "sha256": "e14a0eb4a606624775834fb43706806661eb44f0211b3efd28f3dd2eb658b7b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-160-2025",
+   "path": "local/judet/gorj/2025/160",
+   "short": "HCJ Gorj nr. 160/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 160/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/160.%20HCJ%20BPG%2028052025%20cu%20sju.pdf",
+     "sha256": "fb88f015b0aca1bb6b9e5f3dc815a4e042399328a93e871402bf6a6ebe899a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-161-2025",
+   "path": "local/judet/gorj/2025/161",
+   "short": "HCJ Gorj nr. 161/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 161/2025 pentru stabilirea unor măsuri privind exercitarea dreptului de administrare temporară de către UAT – Municipiul Târgu Jiu asupra unei suprafețe de teren aferentă drumului județean 663A, aflată în proprietatea publică a județului Gorj și în administrarea Consiliului Județean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/161.%20HCJ%20predare%20in%20administrare%20drum%20DJ%20663A.pdf",
+     "sha256": "8e10a9a1aec8d9b929f047d0e516df632967f0d3a79c6db0efff3ad1e595efa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-162-2025",
+   "path": "local/judet/gorj/2025/162",
+   "short": "HCJ Gorj nr. 162/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 162/2025 privind stabilirea unor măsuri în vederea negocierii prețului final pentru închirierea imobilului conform identificat necesar desfășurării activității instituționale a Direcției Comunitare Județene de Evidență a Persoanelor Gorj, ce va fi utilizat cu statut de sediu temporar pe durata lucră",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.05.2025%20-%20Adoptate/162.%20HCJ%20mutare%20sediu%20DCJEP-GORJ-comisie-negociere%20-%20Pas3%20Directia%20Evidenta%20a%20Persoanelor.pdf",
+     "sha256": "f8ab5ecd3743844fa76005e47ef134c34cc55167ef0325849d5228b97903f025"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-164-2025",
+   "path": "local/judet/gorj/2025/164",
+   "short": "HCJ Gorj nr. 164/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 164/2025 pentru validarea rezultatelor concursurilor organizate în vederea ocupării unor funcții de conducere vacante de șef de secție din cadrul unității sanitare publice – Spitalul Judeţean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/05.06.2025%20-%20Adoptate/164.%20HCJ%20valid.rezult.concurs.sef%20sectiiSJU%20iunie%202025.pdf",
+     "sha256": "d873fb207b5cf162d0bb508819f8e0a724b8bccf6a8b34bd4c59c2ec63cf399d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-165-2025",
+   "path": "local/judet/gorj/2025/165",
+   "short": "HCJ Gorj nr. 165/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 165/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/05.06.2025%20-%20Adoptate/165.%20HCJ%20rectificare%20BPG%2005062025.pdf",
+     "sha256": "ea4481d576eb85580b3a4d1e8a6c05936d0a14adbeb706cc03c37b4e801468ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-167-2025",
+   "path": "local/judet/gorj/2025/167",
+   "short": "HCJ Gorj nr. 167/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 167/2025 privind inițierea formalităților de trecere interdomenială a unor bunuri imobile din domeniul public al Municipiului Târgu Jiu în domeniul public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.06.2025%20-%20Adoptate/167.%20HCJ%20preluare%20heliport.pdf",
+     "sha256": "aeca543957e066ef6244dab1f59a12996de035f98e2a9879a230cde3c21e3ce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-168-2025",
+   "path": "local/judet/gorj/2025/168",
+   "short": "HCJ Gorj nr. 168/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 168/2025 privind însușirea și aprobarea documentației cadastrale de alipire a unor imobile – terenuri aflate în domeniul public al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.06.2025%20-%20Adoptate/168.%20HCJ%20aprob.%20alipire.pdf",
+     "sha256": "7901567abc348963765baf8d9eed01c650ca7aa102695ba907db88cdcdc160f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-169-2025",
+   "path": "local/judet/gorj/2025/169",
+   "short": "HCJ Gorj nr. 169/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 169/2025 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.06.2025%20-%20Adoptate/169.%20HCJ%20modi.Stat%20fc.SpitalTV.iunie.2025.pdf",
+     "sha256": "a4deaf1e776ef7afa31b1203da893535cbda7faef7108a88cba3133cdff07b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-170-2025",
+   "path": "local/judet/gorj/2025/170",
+   "short": "HCJ Gorj nr. 170/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 170/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.06.2025%20-%20Adoptate/170.%20HCJ%20modificare%20HCJ%2039%2014%20febr.%202025.pdf",
+     "sha256": "08b4ef84d00168e2fc39fb5b13af9408a8df63c40f977a350351f5198dfaf8d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-171-2025",
+   "path": "local/judet/gorj/2025/171",
+   "short": "HCJ Gorj nr. 171/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 171/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.06.2025%20-%20Adoptate/171.%20HCJ%20BPG%20062025.pdf",
+     "sha256": "bc945c51059efb09e2324d67f1d4194fbb325c39f3eaec6e6090aa1f57827634"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-172-2025",
+   "path": "local/judet/gorj/2025/172",
+   "short": "HCJ Gorj nr. 172/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 172/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/172.%20HCJ%20revizuire%20strategie.pdf",
+     "sha256": "b3bf4c2b55a73e568ff6f440db693e6a59e9937b4239f1883ddf4add519b3118"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-173-2025",
+   "path": "local/judet/gorj/2025/173",
+   "short": "HCJ Gorj nr. 173/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 173/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/173.%20HCJ%20modificare%20program%20transport%20-%20iunie%202025.pdf",
+     "sha256": "3d2e8e4ff06f83da4423ddd3133ce9dd50986e6ef5f9d9a30f98f5c8814421d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-175-2025",
+   "path": "local/judet/gorj/2025/175",
+   "short": "HCJ Gorj nr. 175/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 175/2025 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul județului Gorj, pentru anul 2025, precum și a documentației aferente",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/175.%20HCJ%20aprobare%20Plan%20ISU%202025%20PAAR.pdf",
+     "sha256": "34d1049eb679fe509a9159c5478cdd03584b13271b5fa9133ec75e6eed9d995b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-176-2025",
+   "path": "local/judet/gorj/2025/176",
+   "short": "HCJ Gorj nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 176/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e382ff167b311a5c55e17fa63ee24c8e8ff23c82461f6f4172af77c5a3e87bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-178-2025",
+   "path": "local/judet/gorj/2025/178",
+   "short": "HCJ Gorj nr. 178/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 178/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/178.%20HCJ%202025_HCJ%20COU%20UNESCO%20-%20modificat.pdf",
+     "sha256": "a1877a1a421013224739bff4acb1c77507b912e058f9780f4db6a32f4eebaf1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-180-2025",
+   "path": "local/judet/gorj/2025/180",
+   "short": "HCJ Gorj nr. 180/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 180/2025 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/180.%20HCJ%20modi.Stat%20fc.SpitalTV.27iunie.2025.pdf",
+     "sha256": "4ed88ac529b8f109350c9ceb40349620adcae2884251fb08b9a3d758880da848"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-181-2025",
+   "path": "local/judet/gorj/2025/181",
+   "short": "HCJ Gorj nr. 181/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 181/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/181.%20HCJ%20modif.%20HCJ%20nr.14%20din%202015%20Balteni_final.pdf",
+     "sha256": "a0db304c6261b67454f497b3c8e9371d02857f54eee941a3b4b6d5534ab651f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-182-2025",
+   "path": "local/judet/gorj/2025/182",
+   "short": "HCJ Gorj nr. 182/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 182/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/182.%20HCJ%20SJU.27iunie2025.pdf",
+     "sha256": "322089c4d9fbf3078463df8de06d31e019f799735cae2d9e03a8acd0b76acd71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-183-2025",
+   "path": "local/judet/gorj/2025/183",
+   "short": "HCJ Gorj nr. 183/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 183/2025 privind validarea componenței nominale a Autorității Teritoriale de Ordine Publică Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.06.2025%20-%20Adoptate/183.%20HCJ%20validare%20ATOP%202025.pdf",
+     "sha256": "24994a6b6311f11fbdaf2e37ef63ae13180471d6e9779639100b1e4edf8ee0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-185-2025",
+   "path": "local/judet/gorj/2025/185",
+   "short": "HCJ Gorj nr. 185/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 185/2025 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/23.07.2025%20-%20Adoptate/185.%20HCJ%20SJU%2023%20iulie2025.pdf",
+     "sha256": "537a72b85e9fef739574b5107838dba7ec01cf5ce8de0325362dcc8c67c34980"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-186-2025",
+   "path": "local/judet/gorj/2025/186",
+   "short": "HCJ Gorj nr. 186/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 186/2025 privind inițierea formalităților de trecere interdomenială a unui imobil – teren din domeniul public al Comunei Turcinești în domeniul public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/23.07.2025%20-%20Adoptate/186.%20HCJ%20regim%20juridic%20teren%20pt%20DGASPC%20Tg%20Cb.pdf",
+     "sha256": "4dec69a9a13506a68252654ebc3506a976c2cddb5468f02bededb2ad916fe4e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-187-2025",
+   "path": "local/judet/gorj/2025/187",
+   "short": "HCJ Gorj nr. 187/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 187/2025 privind declararea de interes public județean a imobilului – teren, identificat cu numărul cadastral 41201, înscris în CF nr. 41201, situat în Orașul Târgu Cărbunești, strada Teilor, județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/23.07.2025%20-%20Adoptate/187.%20HCJ%20preluare%20teren%20DGASPC%20Turcinesti.pdf",
+     "sha256": "13bd6db6670287f0eecfe304b6d032ea78c71e24d1da94bcdd0e8c62aa4abccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-188-2025",
+   "path": "local/judet/gorj/2025/188",
+   "short": "HCJ Gorj nr. 188/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 188/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5ee81a01605bff1f94455f87a250296ef5a4996618e9ce36743720578035c54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-189-2025",
+   "path": "local/judet/gorj/2025/189",
+   "short": "HCJ Gorj nr. 189/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 189/2025 pentru modificarea Hotărârii Consiliului Județean Gorj nr.79 din 24.04.2025 privind aprobarea Agendei culturale a județului Gorj pe anul 2025, cu modificările ulterioare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/189%20HCJ%20modificare%20Agenda%20Culturala%20iulie%202025.pdf",
+     "sha256": "b15e085ec4d9100a90eafe148f231ee9a3017bda51b410e48e51908d9a5a315c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-190-2025",
+   "path": "local/judet/gorj/2025/190",
+   "short": "HCJ Gorj nr. 190/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 190/2025 privind aprobarea execuției bugetului propriu general al Județului Gorj înregistrată la data de 30.06.2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/190%20HCJ%20exec%20iunie%202025.pdf",
+     "sha256": "060b5eadc637adc6985f658cbf2d73bdd652f976313b92d17b424304845f7be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-191-2025",
+   "path": "local/judet/gorj/2025/191",
+   "short": "HCJ Gorj nr. 191/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 191/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/191%20HCJ%20BPG%2030072025.pdf",
+     "sha256": "0c30a050299b068b710729769d53db74a7855b4433309597eddcd8ff1b60d991"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-192-2025",
+   "path": "local/judet/gorj/2025/192",
+   "short": "HCJ Gorj nr. 192/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 192/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3d3ec339088255cff827c25bab04f380bc0518decf1e4449c8a570567bf0e1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-193-2025",
+   "path": "local/judet/gorj/2025/193",
+   "short": "HCJ Gorj nr. 193/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 193/2025 pentru modificarea Organigramei și Statului de funcţii ale Bibliotecii Județene ,,Christian Tell” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/193%20HCJ%20modificari%20Biblioteca%20Jud%20iul%202025.pdf",
+     "sha256": "7b722be34f88460ac76837a8eddc898abe59a2463535a3537b73b4a7b7f3a175"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-194-2025",
+   "path": "local/judet/gorj/2025/194",
+   "short": "HCJ Gorj nr. 194/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 194/2025 privind aprobarea modificării şi completării Statutului Societăţii „Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/194.%20HCJ%20modificare%20si%20completare%20Statut%20Parc%20Industrial%20-%20actualizare%202025.pdf",
+     "sha256": "d5b4aa8a96438054f3335d65891cc0c745e00ea595594132398ff85d606a10bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-197-2025",
+   "path": "local/judet/gorj/2025/197",
+   "short": "HCJ Gorj nr. 197/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 197/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/197%20HCJ%20SJU.30%20iulie%202025.pdf",
+     "sha256": "00b3ec0c7c22c74eed9dd4815322504a298d235de6b6bade1485838a547cf0f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-198-2025",
+   "path": "local/judet/gorj/2025/198",
+   "short": "HCJ Gorj nr. 198/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 198/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie Reabilitare clădire Complexul de Servicii Comunitare pentru Copilul cu Nevoi speciale Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/198.%20HCJ%20indicatori-Reabilitare%20cladire%20Complexul%20de%20Servicii%20Copilul%20cu%20nevoi%20specialte%20Tg-Jiu.pdf",
+     "sha256": "07197d139d38bd052b44d8ab37dcdeb54972758b5a0f9c00654df4fceba5e77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-199-2025",
+   "path": "local/judet/gorj/2025/199",
+   "short": "HCJ Gorj nr. 199/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 199/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie ,,Recompartimentare, amenajare și modificări interioare corp C1 la Centrul de Îngrijire și Asistență pentru persoane adulte cu dizabilități Mătăsari”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.07.2025%20-%20Adoptate/199.%20HCJ%20indicatori-Recompartimentare,%20amenajare%20%C8%99i%20modifica%20centru%20Matasari.pdf",
+     "sha256": "0332407319208a1725f272ce98cb3d888eca4cac5999069fc835769e77e06ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-2-2025",
+   "path": "local/judet/gorj/2025/2",
+   "short": "HCJ Gorj nr. 2/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 2/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "25aeacb50d3ea5ab0b160e3877bcc1d47387be7b5e43aab6bbe415ac176fe4c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-200-2025",
+   "path": "local/judet/gorj/2025/200",
+   "short": "HCJ Gorj nr. 200/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 200/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/18.08.2025%20-%20Adoptate/200.%20HCJ%20rectificare%20BPG%2018082025.pdf",
+     "sha256": "377e97a746b3ebce03e3f6713390fb6768f95797db4c1c9033a9f25a6d6a5786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-201-2025",
+   "path": "local/judet/gorj/2025/201",
+   "short": "HCJ Gorj nr. 201/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 201/2025 pentru aprobarea valorii unitare lei/kilometru aferentă sumei forfetare lunare și pentru suma forfetară pe zi, acordată elevilor din județul Gorj care sunt școlarizați în altă localitate decât cea de domiciliu și nu beneficiază de existența serviciilor de transport public",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/18.08.2025%20-%20Adoptate/201.%20HCJ%20aprobare%20sum%C4%83%20forfetar%C4%83%20transport%20public%20august%202025.pdf",
+     "sha256": "c29582e3bbb921e2b0c70c6d4adf16a662b0612827e220889a729ad6fea3bc02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-205-2025",
+   "path": "local/judet/gorj/2025/205",
+   "short": "HCJ Gorj nr. 205/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 205/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ffa72eebde6302bd7535a6650c6dc97a99c93b9d19bbb6186f08ebfba79ed70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-207-2025",
+   "path": "local/judet/gorj/2025/207",
+   "short": "HCJ Gorj nr. 207/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 207/2025 privind stabilirea unor măsuri în vederea contractării de servicii sociale de tip rezidențial pentru persoane adulte cu dizabilități care beneficiază de protecție specializată în serviciile sociale cu cazare din structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/207.%20HCJ%20contractare%20servicii%20sociale%20Centrul%20B%20DGASPC.pdf",
+     "sha256": "5d659850f443101a8a0710e4f5c5b426e120a7a739504dd8203531868c71a049"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-208-2025",
+   "path": "local/judet/gorj/2025/208",
+   "short": "HCJ Gorj nr. 208/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 208/2025 pentru modificarea Statului de funcţii și Regulamentului de organizare și funcționare ale Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/208.%20HCJ%20modif%20stat%20de%20functii%20+%20regulament%20SPA%2002.2025.pdf",
+     "sha256": "41f5e90ab5658d4bd3e80179ad83006abcd65281c69a2c4460ed1492b5f799c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-209-2025",
+   "path": "local/judet/gorj/2025/209",
+   "short": "HCJ Gorj nr. 209/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 209/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/209.%20HCJ%20SJU.28.august.2025.pdf",
+     "sha256": "dfbd7b41d6c134a50eaa7093f193984d0dab4393f462517acfa7367be7904e35"
     }
    ]
   },
@@ -33,6 +1068,366 @@
    ]
   },
   {
+   "slug": "hcj-gorj-211-2025",
+   "path": "local/judet/gorj/2025/211",
+   "short": "HCJ Gorj nr. 211/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 211/2025 privind desemnarea reprezentantului Consiliului Județean Gorj în Comisia de Orientare Școlară și Profesională din cadrul Centrului Județean de Resurse și Asistență Educațională Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/211.%20HCJ%20desemnare%20reprezentant%20COSP%202025-2026.pdf",
+     "sha256": "b25b2ded1d77fe4e3b7516e81988f9845681a871b8b531118e83232116a71afe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-212-2025",
+   "path": "local/judet/gorj/2025/212",
+   "short": "HCJ Gorj nr. 212/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 212/2025 privind declararea de interes public județean a bunurilor imobile teren și construcții ( HELIPORT)",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.09.2025%20-%20Adoptate/212.%20PrHCJ%20regim%20juridic%20HELIPORT.pdf",
+     "sha256": "18d54a5fc3676cf55cc4542287fa265e806633afe0b2d2065ccfe8b789876f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-213-2025",
+   "path": "local/judet/gorj/2025/213",
+   "short": "HCJ Gorj nr. 213/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 213/2025 privind aprobarea participării UAT – Județul Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.09.2025%20-%20Adoptate/213.%20HCJ%20OMD%20ACASA%20LA%20BRANCUSI%20FINAL.pdf",
+     "sha256": "de7cf8f9bdd86c3dd2fd2d7fad010a993c96143557ae213ea12974a1dc4f2ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-214-2025",
+   "path": "local/judet/gorj/2025/214",
+   "short": "HCJ Gorj nr. 214/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 214/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.09.2025%20-%20Adoptate/214.%20HCJ%20rectificare%20BPG%2012092025.pdf",
+     "sha256": "0a4df84667cc18a5b661253819c13c4f20618a62408b7a8ac277c6ad91f669bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-216-2025",
+   "path": "local/judet/gorj/2025/216",
+   "short": "HCJ Gorj nr. 216/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 216/2025 privind desemnarea reprezentantului Consiliului Județean Gorj în Consiliul de administrație al Centrului Județean de Resurse și Asistență Educațională Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/216.%20HCJ%20desemnare%20membru%20in%20CA%20la%20CJRAE%20Gorj.pdf",
+     "sha256": "ac2e5472039e5e30ffdfbd3d6613e5a1056d74c287a56bd05180e7e16b741595"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-217-2025",
+   "path": "local/judet/gorj/2025/217",
+   "short": "HCJ Gorj nr. 217/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 217/2025 privind desemnarea a doi reprezentanți ai Consiliului Județean Gorj în vederea constituirii Consiliului de Administrație al Centrului Școlar pentru Educație Incluzivă Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/217.%20HCJ%20reprezentanti%20CA%20CSEI%20TG%20JIU.pdf",
+     "sha256": "ba8c74a908d4c2f88557b357db60c0a4ab56822b2ede14b01eac3a82c387c546"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-218-2025",
+   "path": "local/judet/gorj/2025/218",
+   "short": "HCJ Gorj nr. 218/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 218/2025 privind desemnarea de către",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/218.%20HCJ%20desemnare%20membru%20in%20CA%20la%20CASJ%20Gorj.pdf",
+     "sha256": "b4c75536c4ce9505b89a9921bbb1295023bdf0ffa59826f2ad918bb7918c5a4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-221-2025",
+   "path": "local/judet/gorj/2025/221",
+   "short": "HCJ Gorj nr. 221/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 221/2025 privind declararea de interes public județean a bunului imobil – construcție (Extindere Centrul Scolar pentru Educație Incluzivă Târgu Jiu)",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/221.%20HCJ%20declarare%20constructie%20de%20interes%20judetean%20CSEI.pdf",
+     "sha256": "437e109cd64fd86fd3a19cbf53970fc9956c159a9438347ff755d60bbf2efe08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-222-2025",
+   "path": "local/judet/gorj/2025/222",
+   "short": "HCJ Gorj nr. 222/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 222/2025 privind declararea de interes public județean a bunului imobil – construcție (Extindere Unitate de Primiri Urgențe din cadrul Spitalului Județean de Urgență Târgu-Jiu, locația str",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/222.%20HCJ%20declarare%20de%20interes%20public%20imobil-cladire%20UPU%20SJU.pdf",
+     "sha256": "b596fbac70f735bbbc6c1f2f2340cd5c8d6f9e80c041bc81e8d66f6dc6147226"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-225-2025",
+   "path": "local/judet/gorj/2025/225",
+   "short": "HCJ Gorj nr. 225/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 225/2025 privind desemnarea membrilor care vor face parte din comisia de selecție și nominalizare constituită la nivelul autorității publice tutelare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/225.%20HCJ%20membrii%20comisie%20selectie%20Parc%20Industrial.pdf",
+     "sha256": "c9aa2f1873fb32886a236a329b5d79d112ef69b44614857db3dacfffef233826"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-226-2025",
+   "path": "local/judet/gorj/2025/226",
+   "short": "HCJ Gorj nr. 226/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 226/2025 pentru modificarea Statului de funcţii al aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/226.%20HCJ%20modif%20aparat%20stat%20functii%20septembrie%202025.pdf",
+     "sha256": "7abbc5a99d12d0e63e157af143733ced4773a4b6d9fbf04c458e6054d694629d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-227-2025",
+   "path": "local/judet/gorj/2025/227",
+   "short": "HCJ Gorj nr. 227/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 227/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cf7635565db03f4b6fa6c6e51b0e7927b68f8a80152dd0c2769b92330f9db749"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-228-2025",
+   "path": "local/judet/gorj/2025/228",
+   "short": "HCJ Gorj nr. 228/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 228/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/228.%20HCJ%20rectificare%20BPG%20092025.pdf",
+     "sha256": "52a4558ff4cdbae005116fed0b21a47f65b2e84d4c899af62b4d5f979add9b57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-229-2025",
+   "path": "local/judet/gorj/2025/229",
+   "short": "HCJ Gorj nr. 229/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 229/2025 pentru stabilirea unor măsuri ce vizează modificarea regimului juridic al unui imobil evidențiat în domeniul public al Județului Gorj, situat în Orașul Târgu Cărbunești, județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/229.%20HCJ%20modificare%20regim%20juridic%20imobil%20Tg-Carbunesti.pdf",
+     "sha256": "f64a124051a7ea2ce6fdeb2bf002d670fa086f1f1ab598544b589b1ee383d527"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-230-2025",
+   "path": "local/judet/gorj/2025/230",
+   "short": "HCJ Gorj nr. 230/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 230/2025 privind actualizarea situației bunurilor imobile, aflate în proprietatea publică a Județului Gorj afectate desfășurării activității Spitalului Județean de Urgență Târgu Jiu, precum și pentru darea în administrare a acestora Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.09.2025%20-%20Adoptate/230.%20HCJ%20dare%20%C3%AEn%20administrare%20SJU%20(003).pdf",
+     "sha256": "6018ddfdb395ba1aa2ffbefbd987882e42b4655d022f8352974e56af90cfaa1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-232-2025",
+   "path": "local/judet/gorj/2025/232",
+   "short": "HCJ Gorj nr. 232/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 232/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "309f00491cc7de409543d0c2c5a6aca67a72aa8b7abe72e38624b7ba158f2134"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-236-2025",
+   "path": "local/judet/gorj/2025/236",
+   "short": "HCJ Gorj nr. 236/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 236/2025 privind inițierea formalităților de trecere interdomenială a unui imobil – teren și construcții din domeniul public al Comunei Stănești în domeniul public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/20.10.2025%20-%20Adoptate/236.%20HCJ%20Stanesti%20preluare%20imobil-teren,%20construcii.pdf",
+     "sha256": "060b951ce62c840eecb1026ccd61b73f52850cb9bcdb38dfcf603de2606c5dbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-237-2025",
+   "path": "local/judet/gorj/2025/237",
+   "short": "HCJ Gorj nr. 237/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 237/2025 privind declararea de interes public județean a imobilului – teren, identificat cu numărul cadastral 37166, înscris în CF nr.37166, situat în Comuna Turcinești, județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/20.10.2025%20-%20Adoptate/237.%20HCJ%20Turcinesti-%20regim%20juridic%20teren%20pt%20DGASPC.pdf",
+     "sha256": "b5bad0863fff225b2b8872496f4f80575ea62e4d7a6150955d6790801ff4ab7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-239-2025",
+   "path": "local/judet/gorj/2025/239",
+   "short": "HCJ Gorj nr. 239/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 239/2025 pentru modificarea Organigramei și Statului de funcții ale Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/20.10.2025%20-%20Adoptate/239.%20HCJ%20modifOrg.Stat.fc.SpTV20octo.2025.pdf",
+     "sha256": "0965d42b411a6cec73e45a1bb3cd7148c3b57c5831c63a817f91d0fb4c480983"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-24-2025",
+   "path": "local/judet/gorj/2025/24",
+   "short": "HCJ Gorj nr. 24/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 24/2025 privind stabilirea unor măsuri în vederea identificării unui imobil funcțional necesar desfășurării activității instituționale a Direcției Comunitare Județene de Evidență a Persoanelor Gorj, ce va fi utilizat cu statut de sediu temporar pe durata lucrărilor de reabilitare a Palatului Admini",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/24.%20HCJ%20mutare%20sediu%20Directie%20Evidenta%20Persoane%20DCJEP-GORJ.pdf",
+     "sha256": "9750e0469acb6318801a543d08858120c266a82436e3782ed8f52a057c340b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-240-2025",
+   "path": "local/judet/gorj/2025/240",
+   "short": "HCJ Gorj nr. 240/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 240/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Reabilitare clădire Complexul de Servicii Comunitare pentru Copilul cu Nevoi speciale Târgu Jiu”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/20.10.2025%20-%20Adoptate/240.%20HCJ%20indicatori%20Reabilitare%20Complexul%20pentru%20copilul%20cu%20nevoi%20speciale.pdf",
+     "sha256": "377f88bc4f228f39086985e008a34135bf5c0ff4c771e59c9ca00294648e1754"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-241-2025",
+   "path": "local/judet/gorj/2025/241",
+   "short": "HCJ Gorj nr. 241/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 241/2025 privind modificarea repartizării excedentului bugetului local al Județului Gorj înregistrat la data 31.12.2024 și a Listei cheltuielilor de investiții pe anul 2025 -cap.68.02 „Asigurări și asistență socială",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/20.10.2025%20-%20Adoptate/241.%20HCJ%20rectificare%20BPG%2020102025.pdf",
+     "sha256": "99983d15ce11573e3d71269ff1d97eff391afb3a18ac3cf80c57ceeba77d8492"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-242-2025",
+   "path": "local/judet/gorj/2025/242",
+   "short": "HCJ Gorj nr. 242/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 242/2025 pentru aprobarea Raportului privind stadiul realizării măsurilor cuprinse în Planul de menținere a calităţii aerului în județul Gorj, 2024-2028, pentru anul 2024",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/242.%20HCJ%20Raport%20calitate%20aer%202024.pdf",
+     "sha256": "033ecc10b800d66e097df6f500bd1ce18cb55d6ea763f7a444c371ffbff8bbfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-244-2025",
+   "path": "local/judet/gorj/2025/244",
+   "short": "HCJ Gorj nr. 244/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 244/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/244.%20HOt%20modificare%20program%20transport%20-%20octombrie%202025.pdf",
+     "sha256": "b933b276e53087d01225b41a8aba2ba0d3676f1a5a5d73d6cf5108633911562f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-245-2025",
    "path": "local/judet/gorj/2025/245",
    "short": "HCJ Gorj nr. 245/2025",
@@ -44,6 +1439,321 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/245.%20HCJ%20aprobare%20ajustare%20tarife%20-%20octombrie%202025.pdf",
      "sha256": "7eec9fe4f9576d57885321b088f4d6bd5016132d38a94f4a0b97ed2007a968c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-246-2025",
+   "path": "local/judet/gorj/2025/246",
+   "short": "HCJ Gorj nr. 246/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 246/2025 pentru modificarea Statului de funcţii al aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/246.%20HCJ%20modif%20aparat%20stat%20functii%20octombrie%202025.pdf",
+     "sha256": "57c9dbdd94a0f26930511141ad32c87ba9f8d560058965a695e58c506b9d21a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-247-2025",
+   "path": "local/judet/gorj/2025/247",
+   "short": "HCJ Gorj nr. 247/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 247/2025 privind aprobarea execuției bugetului propriu general al Județului Gorj înregistrată la data de 30.09.2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/247.%20HCJ%20exec%20sept%202025.pdf",
+     "sha256": "fba4e19b4f84dbf375d53d51421996122e08b934136f473256112fbee8915859"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-248-2025",
+   "path": "local/judet/gorj/2025/248",
+   "short": "HCJ Gorj nr. 248/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 248/2025 privind stabilirea unor măsuri în vederea desfășurării procedurii de selecție și nominalizare a membrilor consiliului de administrație la Societatea ,,Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/248.%20HCJ%20-%20Aprobare%20Componenta%20ini%20Plan%20selectie%20Parc%20ind%20oct%202025.pdf",
+     "sha256": "079ab524a8e72a997a137a4b3f67f20714b1bfed46e4b1f2df679ce0bb167a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-249-2025",
+   "path": "local/judet/gorj/2025/249",
+   "short": "HCJ Gorj nr. 249/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 249/2025 pentru modificarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Gorj, precum și a capacităților de furnizare a serviciilor sociale din cadrul Direcției Generale de Asistență Socială și Pro",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/249.%20HCJ%20reorganizare%20DGASPC%20Gorj%20octombrie%202025.pdf",
+     "sha256": "d6cfa6edc86e1d15ac8642937756e48429f7d7cc3d21c085d9885a620b2af7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-250-2025",
+   "path": "local/judet/gorj/2025/250",
+   "short": "HCJ Gorj nr. 250/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 250/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ba91b4f1314ca946699e7793d2568d6d7096b83189f7f2e0958766994351d951"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-252-2025",
+   "path": "local/judet/gorj/2025/252",
+   "short": "HCJ Gorj nr. 252/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 252/2025 privind repartizarea pe unități administrativ teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descentralizate la nivelul județelor pe anul 2025 alocate în cadrul Programului pentru școli al României, aferente anului școlar 2025 – 2026",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/10.11.2025%20-%20Adoptate/252.%20HCJ%20alocare%20sume%20UAT%20Turburea%20pt%20asumare%20Program%20Scoli%20an%20scolar%202024%202025%20-%202026.pdf",
+     "sha256": "222a5aaf943bb35d9fc12203b6eb24abe194ac1d01ae068abe1075c770622658"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-253-2025",
+   "path": "local/judet/gorj/2025/253",
+   "short": "HCJ Gorj nr. 253/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 253/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/10.11.2025%20-%20Adoptate/253.%20HCJ%20rectificare%20BPG%2010112025.pdf",
+     "sha256": "9e2e06a9acbb69f9d301830121eb96bf5edbd17952d15c45428db2f3e368ce69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-254-2025",
+   "path": "local/judet/gorj/2025/254",
+   "short": "HCJ Gorj nr. 254/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 254/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/10.11.2025%20-%20Adoptate/254.%20HCJ%20SJU.10noiemb2025.pdf",
+     "sha256": "7c5032f113acdd88b3c5b4a2dd40e28e8a8e19fb5d008dc87e361d8b63c011d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-256-2025",
+   "path": "local/judet/gorj/2025/256",
+   "short": "HCJ Gorj nr. 256/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 256/2025 privind stabilirea unor măsuri în vederea contractării de servicii sociale de tip rezidențial pentru persoane adulte cu dizabilități care beneficiază de protecție specializată în serviciile sociale cu cazare din structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/256.%20HCJ%20contractare%20servicii%20sociale%20DGASPC%20LMP.pdf",
+     "sha256": "30b41e1fd35cc17bfcd12160bdda8265c4c56484679a0da4a6eeaf0df8230d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-257-2025",
+   "path": "local/judet/gorj/2025/257",
+   "short": "HCJ Gorj nr. 257/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 257/2025 privind aprobarea înființării, în subordinea Consiliului Județean Gorj, în structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj, a Centrului de îngrijire și asistență pentru persoane adulte cu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/257.%20HCJ%20inf%20CIAPAD%20Dumbrava.pdf",
+     "sha256": "a83c99073e05289288bf5b4c879b7a8bd9ae3a02aa7bbaacecf0ef88d2cc0ad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-258-2025",
+   "path": "local/judet/gorj/2025/258",
+   "short": "HCJ Gorj nr. 258/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 258/2025 privind aprobarea înființării, în subordinea Consiliului Județean Gorj, în structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj, a Centrului de îngrijire și asistență pentru persoane adulte cu dizabilități ,,Bâlteni” Tg -Jiu, prin restructurarea Centrului de recuper",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/258.%20HCJ%20inf%20CIAPAD%20Bilteni%20noiemb%202025.pdf",
+     "sha256": "6cf76750520e3d823dcef4953bad6a37068c2fe1380efd258bea6260b1dee62b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-259-2025",
+   "path": "local/judet/gorj/2025/259",
+   "short": "HCJ Gorj nr. 259/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 259/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9e35175a42ced0b39a407cb2aab49540ae188b244ff31cd86ef3c24bb9f82a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-26-2025",
+   "path": "local/judet/gorj/2025/26",
+   "short": "HCJ Gorj nr. 26/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 26/2025 privind însușirea și aprobarea documentației cadastrale de alipire a unor imobile, tronsoane aferente DJ 662, proprietate publică a UAT- Județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "315feaa25b36771b0ba96fd099ed2ec4a5b83c2904c84cdfcd4e499e84dca15a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-260-2025",
+   "path": "local/judet/gorj/2025/260",
+   "short": "HCJ Gorj nr. 260/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 260/2025 pentru modificarea Statului de funcţii al aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/260.%20HCJ%20modif%20aparat%20stat%20functii%20noiembrie%202025.pdf",
+     "sha256": "8a91d28fa4e5e7c83da96f9eab3099bf70c7beeb311d32a60d33a0883af7f50d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-261-2025",
+   "path": "local/judet/gorj/2025/261",
+   "short": "HCJ Gorj nr. 261/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 261/2025 privind aprobarea unui Protocol de colaborare cu Universitatea Constantin Brâncuși din Târgu Jiu în vederea extinderii capacității de școlarizare pentru implementarea unor programe de studii universitare de licență și de masterat, de interes public în domeniul asistenței medicale generale ș",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/261.%20HCJ%20Protocol%20colaborare%20cu%20UCB%20Targu%20Jiu%20Universitate%201.pdf",
+     "sha256": "80c35dd0e0ec88d9a55652d29d3c832ee9fbade3dd07d61c9cc16b31d8fd79f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-262-2025",
+   "path": "local/judet/gorj/2025/262",
+   "short": "HCJ Gorj nr. 262/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 262/2025 pentru aprobarea Componentei integrale a planului de selecție pentru selecția a 3 membri în Consiliul de administrație al Societății ,,Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/262.%20HCJ%20aprobarea%20Componenta%20integrala%20plan%20selectie.pdf",
+     "sha256": "71d921dd656c9ec29387a970947a3b79a4d51ec2dc2fecf3d7366400682dcf0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-263-2025",
+   "path": "local/judet/gorj/2025/263",
+   "short": "HCJ Gorj nr. 263/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 263/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie „CONSOLIDARE TERASAMENTE PE DJ674A – KM 13+908 – KM 13+966 TROCANI, COMUNA DĂNEȘTI, JUDEȚUL GORJ”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/263.%20HCJ%20aprobare%20Indicatori%20DJ674A%20Trocani.pdf",
+     "sha256": "d81935a1d88db1f25342d709cd65d74c86316cb40d7db371836983455167a3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-264-2025",
+   "path": "local/judet/gorj/2025/264",
+   "short": "HCJ Gorj nr. 264/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 264/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "edd1e3a44cda26eb1a93196a304506c8d0046c0ff5cd1284b3512c13c27f0dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-265-2025",
+   "path": "local/judet/gorj/2025/265",
+   "short": "HCJ Gorj nr. 265/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 265/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.11.2025%20-%20Adoptate/265.%20HCJ%20rectificare%20BPG%2026112025.pdf",
+     "sha256": "885875f13ddef7f957fd3d01b277d1957005749bc822cc783c377d7e1e456341"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-27-2025",
+   "path": "local/judet/gorj/2025/27",
+   "short": "HCJ Gorj nr. 27/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 27/2025 privind trecerea unui imobil – teren drum județean din domeniul public al Județului Gorj și administrarea Consiliului Județean Gorj în domeniul public al UAT – Comuna Scoarța și administrarea Consiliului Local Scoarța",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/27.%20HCJ%20trecere%20adm.%20teren%20Scoarta.pdf",
+     "sha256": "09ef51d9a41f8d3f1313ad704c948fe9b5ae1d75f7cc50f99a8f662310bb7a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-272-2025",
+   "path": "local/judet/gorj/2025/272",
+   "short": "HCJ Gorj nr. 272/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 272/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.12.2025%20-%20Adoptate/272.%20HCJ%20SJU.12decem2025.pdf",
+     "sha256": "d17ce9fadb91feeb6089b45a71c995c088559bca626de385f224de67fc7216aa"
     }
    ]
   },
@@ -63,6 +1773,81 @@
    ]
   },
   {
+   "slug": "hcj-gorj-275-2025",
+   "path": "local/judet/gorj/2025/275",
+   "short": "HCJ Gorj nr. 275/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 275/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.12.2025%20-%20Adoptate/275.%20HCJ%20rectificare%20buget%20judet%20BPG%2012122025.pdf",
+     "sha256": "23ad001895941acae001152178027b4c9d813e4cf719e736c881788d68105c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-277-2025",
+   "path": "local/judet/gorj/2025/277",
+   "short": "HCJ Gorj nr. 277/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 277/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5da233bd37f23ed2459e90171d83345138527e3ce7810c947459305032e1e1e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-278-2025",
+   "path": "local/judet/gorj/2025/278",
+   "short": "HCJ Gorj nr. 278/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 278/2025 pentru modificarea Statului de funcţii al Bibliotecii Județene ,,Christian Tell” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/278.%20HCJ%20modificari%20BibliotecaJud%20dec%202025.pdf",
+     "sha256": "63ccc2fef540b9f3419b2d248b490b9126adba1964ff568adbd1d919cd29029b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-28-2025",
+   "path": "local/judet/gorj/2025/28",
+   "short": "HCJ Gorj nr. 28/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 28/2025 pentru stabilirea unor măsuri privind exercitarea dreptului de administrare temporară de către UAT – Comuna Turburea asupra unor sectoare aferente drumului județean 661, cu excepția terenului aferent părții carosabile, aflate în proprietatea publică a județului Gorj și în administrarea Cons",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/28.%20HCJ%20predare%20in%20adm%20DJ%20661%20Turburea.pdf",
+     "sha256": "691108143068928c10a06844cbefd58abd4ed5cb5627809d19f99c4ee2c091c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-281-2025",
+   "path": "local/judet/gorj/2025/281",
+   "short": "HCJ Gorj nr. 281/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 281/2025 privind aprobarea execuției bugetului propriu general al Județului Gorj înregistrată la data de 10.12.2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/281.%20HCJ%20exec%20sept%202025.pdf",
+     "sha256": "3d12c4b0d5a5e128d7a325021bd92267e1275c1707fd6e77b17f8afab86c58fc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-282-2025",
    "path": "local/judet/gorj/2025/282",
    "short": "HCJ Gorj nr. 282/2025",
@@ -74,6 +1859,246 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/282.%20HCJ%20taxe%20tarife%202026%20final.pdf",
      "sha256": "345e635f98dbd506601867fd6266dbd6e9b7a17052f7e0cabdcef1a8dad3b55d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-283-2025",
+   "path": "local/judet/gorj/2025/283",
+   "short": "HCJ Gorj nr. 283/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 283/2025 privind aprobarea organizării rețelei școlare de învățământ special din județul Gorj pentru anul școlar 2026-2027",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/283.%20HCJ%20retea%20scolara%20invatamant%20special%202026%202027.pdf",
+     "sha256": "a8fede404e8ca203c67338867e035a91673d787761065e8ac04d2a59dd1e3da5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-284-2025",
+   "path": "local/judet/gorj/2025/284",
+   "short": "HCJ Gorj nr. 284/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 284/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2025 al Societăţii „Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/284.%20HCJ%20Parc%20Industrial%202025%20rectificare%20buget.pdf",
+     "sha256": "36465bc31fb8a8a27e54e7e4794b7e4b6973684bd213587512e44b5f3eed7535"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-287-2025",
+   "path": "local/judet/gorj/2025/287",
+   "short": "HCJ Gorj nr. 287/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 287/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "095ad5d674b64ecc0b45eeb232cadacd08851d27e6aefcc7b011aea628bd2f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-288-2025",
+   "path": "local/judet/gorj/2025/288",
+   "short": "HCJ Gorj nr. 288/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 288/2025 pentru modificarea Statului de funcţii și Regulamentului de organizare și funcționare ale aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/288.%20HCJ%20modif%20CJ%20Gorj%20decembrie%202025.pdf",
+     "sha256": "917717720bf243fcbe031c1c6caa209aa341b66d5a2c9089f90cfa2a8c0d9a25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-289-2025",
+   "path": "local/judet/gorj/2025/289",
+   "short": "HCJ Gorj nr. 289/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 289/2025 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/289.%20HCJ%20rectificare%20BPG%2019122025%20bun.pdf",
+     "sha256": "de14e8bf8c78f0ac0ef2730d0e73a541a02ba2bddb0a821d7b1abd60bf5a6c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-290-2025",
+   "path": "local/judet/gorj/2025/290",
+   "short": "HCJ Gorj nr. 290/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 290/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie ,,Extindere în curtea interioară, reabilitare, modernizare și dotare AMBULATORIU INTEGRAT al Spitalului Județean de Urgență Târgu-Jiu”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.12.2025%20-%20Adoptate/290.%20HCJ%20indicatori%20extindere_reabilitare_modernizare%20si%20dotare%20Ambulatoriu.pdf",
+     "sha256": "e031dd4d793838534ef6ab303357219d52b77bd3c5e554e19151c722beb104df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-31-2025",
+   "path": "local/judet/gorj/2025/31",
+   "short": "HCJ Gorj nr. 31/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 31/2025 pentru modificarea Organigramei, Statului de funcţii și Regulamentului de organizare și funcționare ale Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/31.%20HCJ%20CJCPCT%20ian%202025.pdf",
+     "sha256": "755f1f0a9ccae1ea8b81ede0fb0d3a539736f54895accf3436f2dad50c7b0c0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-32-2025",
+   "path": "local/judet/gorj/2025/32",
+   "short": "HCJ Gorj nr. 32/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 32/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e31e5462ff7d980ba5dce5f0441331b5b2edd5417015d7ecdd6ca56dd7448c8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-33-2025",
+   "path": "local/judet/gorj/2025/33",
+   "short": "HCJ Gorj nr. 33/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 33/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/33.%20HCJ%20SJU.30ian2025.pdf",
+     "sha256": "a6cd01d0ead830afe4e4a306f696ea1100824802b833a7a1dfe107a0792cf731"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-35-2025",
+   "path": "local/judet/gorj/2025/35",
+   "short": "HCJ Gorj nr. 35/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 35/2025 pentru modificarea Statului de funcții al aparatului de specialitate al Consiliului Județean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/35.%20HCJ%20Stat%20fc%20aparat%20CJ%20Gorj%200125.pdf",
+     "sha256": "3fff5e5853fd5be41d7f6fb5a94859a5e04c1c50ab56438fb6850e039669baa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-37-2025",
+   "path": "local/judet/gorj/2025/37",
+   "short": "HCJ Gorj nr. 37/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 37/2025 pentru modificarea Statului de funcţii al Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/14.02.2025%20-%20Adoptate/37.%20HCJ%20CJCPCT%20febr.%202025.pdf",
+     "sha256": "74ae7f8c3f4c1472d4e71f9c2eead555b5e97679bcdf9345860af0b4ae2f9d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-38-2025",
+   "path": "local/judet/gorj/2025/38",
+   "short": "HCJ Gorj nr. 38/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 38/2025 privind transmiterea din evidența patrimonial-contabilă a UAT – Județul Gorj în evidența patrimonial – contabilă a Spitalului Județean de Urgență Târgu Jiu a unui bun mobil – mijloc fix (autoutilitară transport cadavre) achiziționat din bugetul propriu general al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/14.02.2025%20-%20Adoptate/38.%20HCJ%20transmitere%20fara%20plata%20autoutilitara%20SJU%20transport%20cadavre.pdf",
+     "sha256": "800f297e26a0dbf1bf96ed8c3d24e324b7131021f58f0d0312a01e2d5b90604a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-40-2025",
+   "path": "local/judet/gorj/2025/40",
+   "short": "HCJ Gorj nr. 40/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 40/2025 privind modificarea Regulamentului de organizare și funcționare a Direcţiei Comunitare Judeţene de Evidenţă a Persoanelor Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/40.%20HCJ-2025-modificare-ROF-DCJEP-sursa-finantare%202025.pdf",
+     "sha256": "e9af5620c847dace7a96d5c947cc6a987a931b6761ad01146a9caa6ebb9e1e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-41-2025",
+   "path": "local/judet/gorj/2025/41",
+   "short": "HCJ Gorj nr. 41/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 41/2025 pentru modificarea Organigramei, Statului de funcții, Regulamentului de organizare și funcționare ale Serviciului Public Județean SALVAMONT Gorj, precum și a componenței nominale a formațiilor Salvamont și a echipei GORJ-SALVASPEO din cadrul Serviciului Public Județean SALVAMONT Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/41.%20HCJ%20SALVAMONT%20ianuarie%202025.pdf",
+     "sha256": "e4ad696582208179603a5c42249cc29d1a159136c40462188323069f60d39550"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-5-2025",
+   "path": "local/judet/gorj/2025/5",
+   "short": "HCJ Gorj nr. 5/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 5/2025 privind repartizarea parțială a excedentului bugetului local al Județului Gorj, înregistrat la data de 31.12.2024",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/14.01.2025%20-%20Adoptate/5.%20HCJ%20repartizare%20partiala%20excedent%2031.12.2024.pdf",
+     "sha256": "692f4841a8f69d8a32069701ef1ac52f56ed85962d3880988d8340a8eace3c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-6-2025",
+   "path": "local/judet/gorj/2025/6",
+   "short": "HCJ Gorj nr. 6/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 6/2025 privind aprobarea planurilor de restructurare a centrelor rezidențiale pentru persoane adulte cu dizabilități – Centrul de Recuperare și Reabilitare Neuropsihiatrică pentru Adulți ”Bîlteni” Tg-Jiu cu o capacitate de furnizare de servicii sociale de 80 de locuri și Centrul de Recuperare și R",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/06.%20HCJ%20aprobare%20planuri%20restructurare%20DGASPC.pdf",
+     "sha256": "58bcc8dfe5baf9a81b591f86fba0c1fdb53feddfb2ad68842caccd200b3f51f1"
     }
    ]
   },
@@ -93,6 +2118,291 @@
    ]
   },
   {
+   "slug": "hcj-gorj-65-2025",
+   "path": "local/judet/gorj/2025/65",
+   "short": "HCJ Gorj nr. 65/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 65/2025 privind desemnarea componenței nominale a comisiilor de evaluare anuală a managementului exercitat la nivelul unor instituții publice de cultură de interes județean înființate de",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/65.%20HCJ%20constituire%20comisii%20evaluare%20anuala%20management%20inst%20cultura%20Febr.%202025.pdf",
+     "sha256": "2ac0070ed726769503c6a0d36790753b1ded824d167f8ddf7bd363ad0d1e9ef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-66-2025",
+   "path": "local/judet/gorj/2025/66",
+   "short": "HCJ Gorj nr. 66/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 66/2025 privind închirierea prin licitație publică a unui spațiu aflat în domeniul public al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/66.%20INCHIRIERE%20SPATIU%20Spital%20TV.pdf",
+     "sha256": "dfb64606523aba7c4322e26f0e28b574ee230d3c69f001c8787e6b7e2fc358fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-67-2025",
+   "path": "local/judet/gorj/2025/67",
+   "short": "HCJ Gorj nr. 67/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 67/2025 pentru modificarea Organigramei și Statului de funcții ale aparatului de specialitate al Consiliului Județean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/67.%20HCJ%20modificari%20CJ%20Gorj%20febr%202025.pdf",
+     "sha256": "08f3ec74bc03ca58e5a6d4cb5afef45fa5ec43a298be1d64653b91bd6c2955f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-68-2025",
+   "path": "local/judet/gorj/2025/68",
+   "short": "HCJ Gorj nr. 68/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 68/2025 pentru modificarea Statului de funcţii și Regulamentului de organizare și funcționare ale Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/68.%20HCJ%20modif%20stat%20de%20functii%20+%20regulament%20SPA%2002.2025.pdf",
+     "sha256": "0f408186c7e69ccb5ac786e77a9a470c9ca258a8a975e8007bce5a1630ef0d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-69-2025",
+   "path": "local/judet/gorj/2025/69",
+   "short": "HCJ Gorj nr. 69/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 69/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/69.%20HCJ%20SJU.28febr2025.pdf",
+     "sha256": "dc572aada1ee9995bf9dbf581ed111f84045e2d764663c82a7a732d65236be96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-7-2025",
+   "path": "local/judet/gorj/2025/7",
+   "short": "HCJ Gorj nr. 7/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 7/2025 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/07.%20HCJmodi.Stat%20fc.SpitalTV.ianu.2025.pdf",
+     "sha256": "089853dca88f12fb9471bd6033e04062bb4fb877605800884afc8f51e57f400c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-73-2025",
+   "path": "local/judet/gorj/2025/73",
+   "short": "HCJ Gorj nr. 73/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 73/2025 privind stabilirea unor măsuri în vederea închirierii imobilelor funcționale identificate necesare desfășurării activității instituționale a Consiliului Județean Gorj, ce vor fi utilizate cu statut de sediu temporar pe durata lucrărilor de reabilitare a Palatului Administrativ din Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/73.%20HCJ%20mutare%20sediu%20CJ%20Gorj.pdf",
+     "sha256": "947db4ec32e67102482afe578dcca8480761d19fe2d8e108747105a442971338"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-74-2025",
+   "path": "local/judet/gorj/2025/74",
+   "short": "HCJ Gorj nr. 74/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 74/2025 privind aprobarea Metodologiei de desemnare a reprezentanților comunității locale în Comitetul de organizare UNESCO pentru monumentul istoric din județul Gorj, înscris în Lista Patrimoniului Mondial UNESCO – Ansamblul Monumental realizat de Constantin Brâncuși la Târgu-Jiu – cod 1473-2024",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/74.%20HCJ%20COU%202025%20UNESCO.pdf",
+     "sha256": "b71c4784789aa0ea8af8b93a8d6adc80704401c28d6ce537961869cc86b217d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-76-2025",
+   "path": "local/judet/gorj/2025/76",
+   "short": "HCJ Gorj nr. 76/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 76/2025 privind repartizarea pe unități administrativ teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descentralizate la nivelul județelor pe anul 2025 alocate în cadrul Programului pentru școli al României, aferente anului școlar 2024 – 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/10.03.2025%20-%20Adoptate/76.%20HCJ%20alocare%20sume%20UAT%20Turburea%20pt%20asumare%20Program%20Scoli%20an%20scolar%202024%202025%20-%202025.pdf",
+     "sha256": "8fb0a174b4912b28b7de9d42b8f02a045cfa628270918bd648b892c53bf3e676"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-8-2025",
+   "path": "local/judet/gorj/2025/8",
+   "short": "HCJ Gorj nr. 8/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 8/2025 privind desemnarea unor reprezentanți ai Consiliului Județean Gorj în Consiliul de administrație al Spitalului de Pneumoftiziologie “Tudor Vladimirescu” – Comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/08.%20HCJ%20reprezentanti%20Spital%20TV%20RUNCU.pdf",
+     "sha256": "951959f1d15cf8c23f3609af8520c40fb3d62ff41bb44bfe97c3072bc5003709"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-80-2025",
+   "path": "local/judet/gorj/2025/80",
+   "short": "HCJ Gorj nr. 80/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 80/2025 privind aprobarea cuantumului și plății contribuției ce revine Județului Gorj pentru anul 2025, către Agenția pentru Dezvoltare Regională Sud-Vest Oltenia",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/80.%20HCJ%20cotizatie%20ADR%202025.pdf",
+     "sha256": "c3b304a22ca4012b72ea5e9029a041b704dba804353677e85d38905dec7cdd28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-81-2025",
+   "path": "local/judet/gorj/2025/81",
+   "short": "HCJ Gorj nr. 81/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 81/2025 privind aprobarea cuantumului şi plății cotizației Consiliului Județean Gorj, în numele Unității Administrativ Teritoriale – Județul Gorj, la Ansamblul Regiunilor Europene (ARE), pentru anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/81.%20HCJ%20cotizatie%20ARE%202025.pdf",
+     "sha256": "2da3eea15a9ac0908afd95cae3e6f5f18fbeade63b7304b6a02c4c2aa49e0c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-82-2025",
+   "path": "local/judet/gorj/2025/82",
+   "short": "HCJ Gorj nr. 82/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 82/2025 privind aprobarea cuantumului și plății cotizației pe anul 2025 către Uniunea Națională a Consiliilor Județene din România",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/82.%20HCJ%20cotizatie%20UNCJR%202025.pdf",
+     "sha256": "946acaf9138bedf6ebdda3d502f85d32eb08f71fde90b05a38f8215c079a2d66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-84-2025",
+   "path": "local/judet/gorj/2025/84",
+   "short": "HCJ Gorj nr. 84/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 84/2025 privind majorarea participației Județului Gorj la capitalul social al S.C",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/84.%20HCJ%20majorare%20participatie%20CJ%20la%20Parc%20Industrial.pdf",
+     "sha256": "59894073660c3e5bfc0c7fb45111f9ddbb70eadbd637c3085865868ef9343f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-85-2025",
+   "path": "local/judet/gorj/2025/85",
+   "short": "HCJ Gorj nr. 85/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 85/2025 privind aprobarea Programului anual pentru acordarea de finanțări nerambursabile din bugetul Județului Gorj pentru activități nonprofit de interes general pentru anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/85.%20HCJ%20aprobare%20Program%20anual%20propriu%20finantari%20nerambursabile%202025.pdf",
+     "sha256": "5adbad5ba302a4ce3b1ae128c9202d07d670f3354764c0a5dd0a32eedabf9e61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-86-2025",
+   "path": "local/judet/gorj/2025/86",
+   "short": "HCJ Gorj nr. 86/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 86/2025 privind aprobarea bugetului propriu general al Județului Gorj pe anul 2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/86.%20HCJ%20aprobare%20BUGET%20BPG%20aprobare%20bdef%202025.pdf",
+     "sha256": "87fad9867c0dbe4d6907453c65afaf9cc93ac636f4e4eada41145df985aefa8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-87-2025",
+   "path": "local/judet/gorj/2025/87",
+   "short": "HCJ Gorj nr. 87/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 87/2025 privind aprobarea Planului de menținere a calității aerului pentru județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/87.%20HCJ%20Plan%20men%C8%9Binere%20calitate%20aer%20judet.pdf",
+     "sha256": "cb81bb2656ee341f594540059b5f970e9fe34169699e8917a30c4fa879487ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-88-2025",
+   "path": "local/judet/gorj/2025/88",
+   "short": "HCJ Gorj nr. 88/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 88/2025 privind aprobarea participării UAT – Județul Gorj, cu titlu de aport în natură, prin transmiterea unui bun mobil din patrimoniul UAT – Județul Gorj în patrimoniul Asociației de Dezvoltare Intercomunitară în Domeniul Serviciilor Publice de Salubrizare „ADIS” Gorj, organism de utilitate publi",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/88.%20HCJ%20transmitere%20Dacia%20Duster%20ADIS.pdf",
+     "sha256": "8f511b7e858755ef10acb23bf235c5c35acfe723cf0c01b1ac0cbf82aa59e02c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-9-2025",
+   "path": "local/judet/gorj/2025/9",
+   "short": "HCJ Gorj nr. 9/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 9/2025 privind desemnarea reprezentantului Consiliului Județean Gorj în Consiliul administrativ al Școlii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.01.2025%20-%20Adoptate/09.%20HCJ%20privind%20desemnarea%20unui%20membru%20in%20CA.pdf",
+     "sha256": "88e9d06c7a3248d5bb8c595da398eda221f2f9b47631a65668dea63c2a91071a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-98-2025",
    "path": "local/judet/gorj/2025/98",
    "short": "HCJ Gorj nr. 98/2025",
@@ -104,6 +2414,21 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/98.%20HCJ%20aprobare%20ajustare%20tarife%20-%20martie%202025.pdf",
      "sha256": "6f1e53127aa113b1fca457e009a347171f52f4b67a116a597ee3d65babbbb514"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-99-2025",
+   "path": "local/judet/gorj/2025/99",
+   "short": "HCJ Gorj nr. 99/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 99/2025 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/99.%20HCJ%20SJU.24mart2025.pdf",
+     "sha256": "05cfd9b7ec067c70516ba2e9ae2f1a50bb8032ffec76369a66953c917c2ad672"
     }
    ]
   }

@@ -1317,6 +1317,66 @@
    ]
   },
   {
+   "slug": "hg-298-1999",
+   "path": "hg/1999/298",
+   "short": "HG nr. 298/1999",
+   "title": "Hotărârea Guvernului nr. 298/1999 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17933",
+   "versions": [
+    {
+     "from": "1999-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17933",
+     "sha256": "b571a5089c158c7cdd80744523f9fb2840e4e6ea965c349a1084c6127dbbf229"
+    }
+   ]
+  },
+  {
+   "slug": "hg-299-1999",
+   "path": "hg/1999/299",
+   "short": "HG nr. 299/1999",
+   "title": "Hotărârea Guvernului nr. 299/1999 privind alocarea unei sume de la bugetul de stat pentru înlăturarea efectelor alunecărilor de teren produse în luna martie 1999 în oraşul Târgu Lăpuş şi în comuna Călineşti, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17934",
+   "versions": [
+    {
+     "from": "1999-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17934",
+     "sha256": "10be739d995b032441eb5893d18903713449efef48a58058eef826e1fb9ec220"
+    }
+   ]
+  },
+  {
+   "slug": "hg-300-1999",
+   "path": "hg/1999/300",
+   "short": "HG nr. 300/1999",
+   "title": "Hotărârea Guvernului nr. 300/1999 pentru modificarea Hotărârii Guvernului nr. 815/1994 privind instituirea \"Zilei ceferistilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17935",
+   "versions": [
+    {
+     "from": "1999-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17935",
+     "sha256": "26864246b7a74ffdfa87229d07cc1c58f6813478a2f61bb30c1e2e230e6d4b06"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-1999",
+   "path": "hg/1999/301",
+   "short": "HG nr. 301/1999",
+   "title": "Hotărârea Guvernului nr. 301/1999 privind plata contribuţiei României pe anul 1999 la Programul Comunităţii Europene \"Tineret pentru Europa III\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17772",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17772",
+     "sha256": "f197aa18ac1e6b4b930769736e7516b4cf08cb997be722b451ae1694047c94bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-302-1999",
    "path": "hg/1999/302",
    "short": "HG nr. 302/1999",
@@ -1328,6 +1388,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18104",
      "sha256": "6349a367709d25fffadf8cbed49e9bc35174c78fafb825deedb9b90b959a9d06"
+    }
+   ]
+  },
+  {
+   "slug": "hg-303-1999",
+   "path": "hg/1999/303",
+   "short": "HG nr. 303/1999",
+   "title": "Hotărârea Guvernului nr. 303/1999 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 1999 ale Companiei Naţionale de Cai Ferate \"C.F.R.\" - S.A., Societăţii Naţionale de Transport Feroviar de Marfa \"C.F.R. Marfa\" - S.A., Societăţii de Servicii de Management Feroviar \"S.M.F.\" - S.A., Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A. şi Societăţii de Administrare Active Feroviare \"S.A.A.F\" - S.A., de sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17912",
+   "versions": [
+    {
+     "from": "1999-04-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17912",
+     "sha256": "efce4b240641ccbe0caee5bde61df4b64ad85939ff5ff82eea1d02cfac583498"
+    }
+   ]
+  },
+  {
+   "slug": "hg-305-1999",
+   "path": "hg/1999/305",
+   "short": "HG nr. 305/1999",
+   "title": "Hotărârea Guvernului nr. 305/1999 privind constituirea grupului de lucru pentru elaborarea strategiei de dezvoltare durabilă a economiei naţionale pe termen lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18002",
+   "versions": [
+    {
+     "from": "1999-04-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18002",
+     "sha256": "254e7c437c66bf8af89671ee6b98426b8fc7f74587fdb413708287be3a0e9f24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-306-1999",
+   "path": "hg/1999/306",
+   "short": "HG nr. 306/1999",
+   "title": "Hotărârea Guvernului nr. 306/1999 pentru modificarea şi completarea Hotărârii Guvernului nr. 578/1998 privind instituirea burselor de cercetare şi formare postuniversitară şi postdoctorală \"Vasile Pârvan\" la Accademia di România din Roma şi \"Nicolae Iorga\" la Istituto Romeno di Cultura din Veneţia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17936",
+   "versions": [
+    {
+     "from": "1999-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17936",
+     "sha256": "b2eb219a981ceb26e8dcd91d17fe494a750eecfba0f4c2ed29548d5402bc2a3d"
     }
    ]
   },

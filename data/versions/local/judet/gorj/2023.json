@@ -3,6 +3,36 @@
  "shard": "local/judet/gorj/2023",
  "acts": [
   {
+   "slug": "hcj-gorj-1-2023",
+   "path": "local/judet/gorj/2023/1",
+   "short": "HCJ Gorj nr. 1/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 1/2023 privind aprobarea majorării nivelului alocației de hrană pentru beneficiarii serviciilor sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj, precum și pentru copiii cu cerințe educaționale speciale școlarizați în cadrul Centrului Școlar pentru Educație",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.01.2023%20-%20Adoptate/01.%20HCJ%20majorare%20alocatii%20hrana%20DGASPC.pdf",
+     "sha256": "f238e556af34171e81aaf247de038a927aef0b826864d71d5d474ae644d445ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-10-2023",
+   "path": "local/judet/gorj/2023/10",
+   "short": "HCJ Gorj nr. 10/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 10/2023 privind aprobarea organizării rețelei școlare de învățământ special din județul Gorj pentru anul școlar 2023-2024",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/10.%20HCJ%20aprobare%20plan%20Scolarizare%20CSEI%202023-2024.pdf",
+     "sha256": "44cf918d792628274d7169a0f7bb21937103e36fed0e3c5147b66ba418c4367c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-101-2023",
    "path": "local/judet/gorj/2023/101",
    "short": "HCJ Gorj nr. 101/2023",
@@ -18,6 +48,516 @@
    ]
   },
   {
+   "slug": "hcj-gorj-111-2023",
+   "path": "local/judet/gorj/2023/111",
+   "short": "HCJ Gorj nr. 111/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 111/2023 pentru aprobarea rezultatului final al evaluării managementului exercitat în anul 2022 la nivelul Școlii Populare de Arte „Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/111.%20HCJ%20aprob.rezult.eval.manag.SPA.2021.pdf",
+     "sha256": "b151ca0b26997a52fcf96c98662f324e9efde1c44d3c7ef24412067528d3a3e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-112-2023",
+   "path": "local/judet/gorj/2023/112",
+   "short": "HCJ Gorj nr. 112/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 112/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/112.%20HCJ%20.aprob.rez.final.D.G_27.03.2023.pdf",
+     "sha256": "628b47b5a62fd14c5e1f106a175cde4098932ccc663fc4fcf05e78a24b311b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-114-2023",
+   "path": "local/judet/gorj/2023/114",
+   "short": "HCJ Gorj nr. 114/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 114/2023 privind aprobarea realizării și amplasării de panouri de informare turistică în principalele zone de intrare în județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/114.%20HCJ%20aprob.%20amplasare%20panouri%20turistice%20judet.pdf",
+     "sha256": "3f9cf3a7fc30920318e247ab896a302be8f6a2e3d6d163fa5c41adb652b46d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-115-2023",
+   "path": "local/judet/gorj/2023/115",
+   "short": "HCJ Gorj nr. 115/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 115/2023 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/115.%20HCJmodi.Stat%20fc.SpitalTV.27mart.2023.pdf",
+     "sha256": "0a73af40191e464b9d77e5de05ced5c014e221cacdaf5d09c3128e806be9147f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-116-2023",
+   "path": "local/judet/gorj/2023/116",
+   "short": "HCJ Gorj nr. 116/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 116/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/116.%20HCJ%20Stat%20fc%20SJU.27%20mart.2023.pdf",
+     "sha256": "af7f5c13ee8b9598fcf8df2ca8986f492df2826e0cb5001edc7980e34b395b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-117-2023",
+   "path": "local/judet/gorj/2023/117",
+   "short": "HCJ Gorj nr. 117/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 117/2023 pentru atribuirea directă, ca măsură de urgență, a unui contract de delegare a gestiunii serviciului de transport public judeţean de persoane prin curse regulate și a licenței de traseu, pentru un traseu din Programul de transport public judeţean de persoane prin curse regulate, în Judeţul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/117.%20HCJ%20incredintare%20directa%20a%20contractului%20de%20delegare%20a%20gestiunii%20New%20Champion%20traseu%20046%20-%20martie%202023.pdf",
+     "sha256": "e87879ddf5aab3c99b3a6785c5c6c949a6f4e9a3b05c99baad7ae24d2350849b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-118-2023",
+   "path": "local/judet/gorj/2023/118",
+   "short": "HCJ Gorj nr. 118/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 118/2023 privind inițierea formalităților de trecere interdomenială a unui imobil – teren din domeniul public al Orașului Târgu Cărbunești în domeniul public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/118.%20HCJ%20preluare%20teren%20TG-CARBUNESTI.pdf",
+     "sha256": "8ce7bcde97a50ff13ebf2d5ba3214e50c9c81fa041e9319868839b394e6a590e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-119-2023",
+   "path": "local/judet/gorj/2023/119",
+   "short": "HCJ Gorj nr. 119/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 119/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Societăţii Comerciale „Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/119.%20HCJ%20Parc%20Industrial%202023.pdf",
+     "sha256": "1bb2849f449de42d54bacd10a31762007949cbe5fb366f180b6c5b9b3b18e0e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-120-2023",
+   "path": "local/judet/gorj/2023/120",
+   "short": "HCJ Gorj nr. 120/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 120/2023 privind aprobarea unui Acord de parteneriat cu ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA” (A.P.R.P.E.), persoană juridică de drept privat fără scop patrimonial",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/120.%20HCJ%20acord%20parteneriat%20Partida%20Romilor.pdf",
+     "sha256": "dd145fefb15bbb75e5ca807b82fb4b9784831cfddb5eadb6e4c7a8ecea9476dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-121-2023",
+   "path": "local/judet/gorj/2023/121",
+   "short": "HCJ Gorj nr. 121/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 121/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/121.%20HCJ%20BPG%20042023.pdf",
+     "sha256": "6e9aced13f83c9b190365a3e311fdceb0a36b936066d622c0f8bd65c62bc9b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-122-2023",
+   "path": "local/judet/gorj/2023/122",
+   "short": "HCJ Gorj nr. 122/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 122/2023 pentru modificarea Organigramei și Statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/122.%20HCJ%20modif%20Org%20si%20Stat%20fc%20aparat%20de%20specialitate%20aprilie%202023.pdf",
+     "sha256": "4f36b35e6e9859e7ac8dcbefdeed40b5daf640d3fda2c717c15c5f03f7819e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-124-2023",
+   "path": "local/judet/gorj/2023/124",
+   "short": "HCJ Gorj nr. 124/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 124/2023 privind atribuirea în folosință gratuită a unui spațiu Direcției de Sănătate Publică Gorj, situat în incinta Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/06.04.2023%20-%20Adoptate/124.%20HCJ%20folosinta%20gratuita%20DSP.pdf",
+     "sha256": "dd596247e98a8bea7b13b7307683c85ebe84e03bfaa0b03320ba8d79a98d30f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-125-2023",
+   "path": "local/judet/gorj/2023/125",
+   "short": "HCJ Gorj nr. 125/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 125/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e9c9cc2cc72f3f4237c4f8dbb43f07c1c04b3e9e1c72e9aeb748734425beeaff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-128-2023",
+   "path": "local/judet/gorj/2023/128",
+   "short": "HCJ Gorj nr. 128/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 128/2023 privind modificarea repartizării excedentului bugetului local al Județului Gorj înregistrat la 31.12.2022",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.04.2023%20-%20Adoptate/128.%20HCJ%20modificare%20repart%20excedent%2012042023.pdf",
+     "sha256": "b445e53e765cb20ab667a08c79007659b68a2759ccd2609ccc087ce36e42031c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-129-2023",
+   "path": "local/judet/gorj/2023/129",
+   "short": "HCJ Gorj nr. 129/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 129/2023 privind aprobarea contului anual de execuţie a bugetului propriu general al Judeţului Gorj pe anul 2022 şi aprobarea situațiilor financiare anuale întocmite la data de 31.12.2022",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/129.%20HOTARARE%20EXECUTIE%202022.pdf",
+     "sha256": "08ccf4650e29ea1b43dc129d915429463c89f06d32bbd64c2fcfd3339469f8cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-130-2023",
+   "path": "local/judet/gorj/2023/130",
+   "short": "HCJ Gorj nr. 130/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 130/2023 privind aprobarea execuţiei bugetului propriu general al Judeţului Gorj înregistrată la data de 31.03.2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/130.%20HCJ%20exec%20martie%202023.pdf",
+     "sha256": "e28d879c1e5a25996e4523d55911c09cdbe9cb0ee4051e8a3a21aed716e4bb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-131-2023",
+   "path": "local/judet/gorj/2023/131",
+   "short": "HCJ Gorj nr. 131/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 131/2023 privind aprobarea Ghidului solicitantului privind regimul finanțărilor nerambursabile din fondurile bugetului Județului Gorj alocate pentru activități nonprofit de interes general pentru anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/131.%20HCJ%20privind%20aprobare%20Ghid%20acordare%20finantari%20nerambursabile%202023.pdf",
+     "sha256": "9c7c588795b3b2333639006ae2a4f6e3b53115d4263bdb1dafa2d51ac4bcdfe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-132-2023",
+   "path": "local/judet/gorj/2023/132",
+   "short": "HCJ Gorj nr. 132/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 132/2023 privind aprobarea duratei efective a concediului suplimentar de odihnă pentru salariații din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/132.%20HCJ%20concediu%20de%20odihna%20suplimentar%20DGASPC%20Gorj.pdf",
+     "sha256": "1bd943f0b09ee6e4ea6db6c269bdb946eabd5baee7c42f0581456b9257cb36f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-133-2023",
+   "path": "local/judet/gorj/2023/133",
+   "short": "HCJ Gorj nr. 133/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 133/2023 pentru modificarea Statului de funcţii al al Direcției Județene de Management Integrat al Deșeurilor și Protecția Animalelor Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/133.%20HCJ%20modificare%20stat%20functii%20aprilie%202023.pdf",
+     "sha256": "a9b1f18d87958bcc607d2ef8f6def01a8200081b449e8ab70ab2cf831ccf9d29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-134-2023",
+   "path": "local/judet/gorj/2023/134",
+   "short": "HCJ Gorj nr. 134/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 134/2023 privind aprobarea vânzării prin licitație publică a unui bun imobil evidențiat în inventarul bunurilor care alcătuiesc domeniul privat al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/134.%20HCJ%20vanzare%20Sediu%20Centru%20Pesteana.pdf",
+     "sha256": "6f2b9d9d4e805bd229f5dddca005fc0f3f62dabb01bffa8285f1b1cc4f4d62bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-135-2023",
+   "path": "local/judet/gorj/2023/135",
+   "short": "HCJ Gorj nr. 135/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 135/2023 privind însușirea și aprobarea documentației cadastrale de dezmembrare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/135.%20HCJ%20aprobare%20dezmembrare%20imobil%20DJ%20674%20Urdari.pdf",
+     "sha256": "59249246b39122b0fd8f661537bda09c61fcb10938a4c95bd59d79651bd2d9be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-136-2023",
+   "path": "local/judet/gorj/2023/136",
+   "short": "HCJ Gorj nr. 136/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 136/2023 privind atribuirea în folosință gratuită a unor spații Casei Județene de Pensii Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/136.%20HCJ%20folosinta%20gratuita%20Casa%20de%20Pensii.pdf",
+     "sha256": "e65bc5330345d772684d5e31f6b998027883682fd3a3b8ab599a93e3a627fe38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-139-2023",
+   "path": "local/judet/gorj/2023/139",
+   "short": "HCJ Gorj nr. 139/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 139/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/139.%20HCJ%20SJU.27aprilie.2023.pdf",
+     "sha256": "52ef2e05c09b6d6e77b4922693838aa4971dbfad72174ae089f5ffbf763f384a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-140-2023",
+   "path": "local/judet/gorj/2023/140",
+   "short": "HCJ Gorj nr. 140/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 140/2023 pentru aprobarea unor măsuri în vederea pregătirii Concursului de proiecte de management pentru Biblioteca Județeană ,,Christian Tell” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/140.%20HCJ%20aprobare%20Caiet%20de%20obiective%20BJG%202023.pdf",
+     "sha256": "f1b5d0d3403c84ba93b3d60da27dceb4cd8d2c9464c4b13104b8f51fe87e3cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-141-2023",
+   "path": "local/judet/gorj/2023/141",
+   "short": "HCJ Gorj nr. 141/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 141/2023 pentru stabilirea unor măsuri privind exercitarea dreptului de administrare temporară de către Consiliul Local Săulești asupra unor sectoare din DJ 661, aflat în proprietatea publică a Județului Gorj și în administrarea Consiliului Județean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2023%20-%20Adoptate/141.%20HCJ%20predare%20in%20admin.%20drum%20Saulesti.pdf",
+     "sha256": "7e1e11f4aa280c84cf19eacd22e179a8d779f4c5a9a846e153e14ff33cfd4aee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-143-2023",
+   "path": "local/judet/gorj/2023/143",
+   "short": "HCJ Gorj nr. 143/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 143/2023 privind constatarea încetării de drept a unui mandat de consilier județean și declararea locului acestuia de consilier județean vacant",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "4f4d92789832f299d5bed346424fac7c59648b5940a2c30e43f9a70a25c00a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-144-2023",
+   "path": "local/judet/gorj/2023/144",
+   "short": "HCJ Gorj nr. 144/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 144/2023 privind constatarea încetării de drept a unui mandat de consilier județean și declararea locului acestuia de consilier județean vacant",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "606b6ee48fb986526091c3a9bfada6632409b15137b01b470b626aeefc4a9d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-145-2023",
+   "path": "local/judet/gorj/2023/145",
+   "short": "HCJ Gorj nr. 145/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 145/2023 privind aprobarea finanțării unui program sportiv organizat de către Asociația Județeană de Fotbal Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/17.05.2023%20-%20Adoptate/145.%20HCJ%20finantare%20program%20Asociatie%20Fotbal%20AJF%20Gorj.pdf",
+     "sha256": "dfddf4fe3dd27557f4ea865c99c11faa5178f5741d6b77e9f497c7800dfb16c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-146-2023",
+   "path": "local/judet/gorj/2023/146",
+   "short": "HCJ Gorj nr. 146/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 146/2023 privind aprobarea finanțării competiției de automobilism sportiv ”Transalpina Challenge” Masters CNVC Rânca 2023 organizată de Asociația Clubul Sportiv Autocorex",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/17.05.2023%20-%20Adoptate/146.%20HCJ%20finantare%20program%20Asociatie%20AUTOCOREX.pdf",
+     "sha256": "3ed6c33fe9fda9dfe2aaa408cdcd4c506185d0e2e26196591881b91e804ddd19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-147-2023",
+   "path": "local/judet/gorj/2023/147",
+   "short": "HCJ Gorj nr. 147/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 147/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/17.05.2023%20-%20Adoptate/147.%20HCJ%20BPG%2017052023.pdf",
+     "sha256": "3c6cd436c478058179b8f5cc8105fd548e7580c2454abd9cc788de5a1cb49d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-148-2023",
+   "path": "local/judet/gorj/2023/148",
+   "short": "HCJ Gorj nr. 148/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 148/2023 privind stabilirea componenţei nominale a Comisiei de Evaluare a Persoanelor Adulte cu Handicap Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.05.2023%20-%20Adoptate/148.%20HCJ%20stab.componenta%20Comisie%20de%20Evaluare%20a%20Persoanelor%20cu%20Handicap%20Gorj%202023.pdf",
+     "sha256": "465e61c688b85871d9b4cf541096d427d39797f0a6b0984f1fe9494de3058018"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-149-2023",
+   "path": "local/judet/gorj/2023/149",
+   "short": "HCJ Gorj nr. 149/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 149/2023 privind repartizarea unor sume din fondul de rezervă bugetară la dispoziția autorităților locale, înscris în bugetul local al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/26.05.2023%20-%20Adoptate/149.%20HCJ%20BPG%2026052023.pdf",
+     "sha256": "3cc3f31a6c9ed031a0da4b39b8dcf5cb9f18aa9933d95f99b43122cf91a93ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-150-2023",
+   "path": "local/judet/gorj/2023/150",
+   "short": "HCJ Gorj nr. 150/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 150/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3a02552406b009a2cfd20ac680a4387cdc5127d023f8ad50681932abe47522f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-151-2023",
+   "path": "local/judet/gorj/2023/151",
+   "short": "HCJ Gorj nr. 151/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 151/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "214f7741274d9932655e1b5214098c9b93ecbe456df19827bbc96480a600ca05"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-152-2023",
    "path": "local/judet/gorj/2023/152",
    "short": "HCJ Gorj nr. 152/2023",
@@ -29,6 +569,1221 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.05.2023%20-%20Adoptate/152.%20HCJ%20Regulament%20control%20circulatie%20auto%20cu%20gabarit.pdf",
      "sha256": "fe2047b70856491212d772af946ec351242b0aa17431a9646c12a0d70268140f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-153-2023",
+   "path": "local/judet/gorj/2023/153",
+   "short": "HCJ Gorj nr. 153/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 153/2023 privind trecerea unui imobil – teren din domeniul public al Județului Gorj și administrarea Consiliului Județean Gorj în domeniul public al UAT – Comuna Urdari și administrarea Consiliului Local Urdari",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.05.2023%20-%20Adoptate/153.%20HCJ%20trecere%20teren%20in%20domeniul%20UAT%20Urdari.pdf",
+     "sha256": "99eaf7882b536b691a93fe769c08fe5086c27c2330a3d7b13bb2a9c917eb5263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-154-2023",
+   "path": "local/judet/gorj/2023/154",
+   "short": "HCJ Gorj nr. 154/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 154/2023 privind închirierea prin licitație publică a unui imobil – teren, aflat în domeniul public al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.05.2023%20-%20Adoptate/154.%20HCJ%20INCHIRIERE%20TEREN%20SJU.pdf",
+     "sha256": "faed4f316e92ca93d6fb99e708894ea397d0b358bbd8b0f423c74cc5807372ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-158-2023",
+   "path": "local/judet/gorj/2023/158",
+   "short": "HCJ Gorj nr. 158/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 158/2023 privind exercitarea dreptului de preemțiune de către UAT – Județul Gorj pentru cumpărarea imobilului situat în municipiul Târgu Jiu, str. Siretului, nr. 30, județul Gorj, înscris în LMI 2015 la poziția 112 cu denumirea CASA VASILE MOANGĂ, cod GJ–II–m- B-09184",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.05.2023%20-%20Adoptate/158.%20HCJ%20exercitare%20drept%20preemtiune%20CASA%20VASILE%20MOANGA.pdf",
+     "sha256": "78eaa0cf94ab6ce8dd4d43cbed38f19eeb5fc72d72da96ec70539f24557fe198"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-159-2023",
+   "path": "local/judet/gorj/2023/159",
+   "short": "HCJ Gorj nr. 159/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 159/2023 privind aprobarea înființării, în subordinea Consiliului Județean Gorj, în structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj, a Centrului de îngrijire și asistență pentru persoane adulte cu dizabilități Mătăsari, prin restructurarea Centrului de recuperare și reabilitare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.06.2023%20-%20Adoptate/159.%20HCJ%20inf%20Centru%20CIAPAD%20Matasari.pdf",
+     "sha256": "c41bfffae8eb61ed3f81c1c468db0f5fb95a5f914dfc75083d5966f9d1e7ca71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-160-2023",
+   "path": "local/judet/gorj/2023/160",
+   "short": "HCJ Gorj nr. 160/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 160/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.06.2023%20-%20Adoptate/160.%20HCJ%20SJU.22iunie.2023.pdf",
+     "sha256": "86aa7d44e092ba7013e11204efc8d54614c37807cdb28338740e23d685bd9453"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-161-2023",
+   "path": "local/judet/gorj/2023/161",
+   "short": "HCJ Gorj nr. 161/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 161/2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.06.2023%20-%20Adoptate/161.%20HCJ%20preturi%20produse%20agricole%202023%20modificat.pdf",
+     "sha256": "e283d6e0848c5d11468e0969268fb87ad371c4ef9cc53dabbf7ab4188ccb8270"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-162-2023",
+   "path": "local/judet/gorj/2023/162",
+   "short": "HCJ Gorj nr. 162/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 162/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.06.2023%20-%20Adoptate/162.%20HCJ%20aprobare%20indicatori%20Cladire%20Aparat%20Propriu%20DGASPC.pdf",
+     "sha256": "30b32ab5eb052fffb1e101768a45b1f29c6b45a2a9ec7fee05d6ad2a13fd3061"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-163-2023",
+   "path": "local/judet/gorj/2023/163",
+   "short": "HCJ Gorj nr. 163/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 163/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Creșterea eficienței energetice a clădirilor din cadrul Complexului de Îngrijire și Asistență Suseni”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.06.2023%20-%20Adoptate/163.%20HCJ%20aprob.%20indicatori%20Crestere%20eficienta%20energetica%20Suseni.pdf",
+     "sha256": "8d6c4b7d6dfcbcdb3c3a323ddebc06e07dce863edfb5565c24b534640f6f224f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-169-2023",
+   "path": "local/judet/gorj/2023/169",
+   "short": "HCJ Gorj nr. 169/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 169/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/169.%20HCJ%20rectificare%20BPG%20062023.pdf",
+     "sha256": "3d6e0dcae2b5316b13c7e7291a128e96d9e5e762e2c72c893f26b2a5928b6370"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-170-2023",
+   "path": "local/judet/gorj/2023/170",
+   "short": "HCJ Gorj nr. 170/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 170/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ccbfac132d5bcc6a48894d91ffa5ad8dad8d4e89ee9bd4dd484cc9821b535a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-171-2023",
+   "path": "local/judet/gorj/2023/171",
+   "short": "HCJ Gorj nr. 171/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 171/2023 privind modificarea și completarea Hotărârii Consiliului Județean Gorj nr. 54/09.07.2010 pentru aprobarea preluării managementului asistenței medicale al unității sanitare publice Spitalul Județean de Urgență Târgu-Jiu, precum și pentru stabilirea unor măsuri ce decurg din transferul ansamblului de atribuții și competențe specifice domeniului sănătății publice către Consiliul Județean Gorj, cu modificările și completările ulterioare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/171.%20HCJ%20desem.reprez%20%C3%AEn%20Cons.administr.al%20SJUTg-Jiu%2029iunie.2023.pdf",
+     "sha256": "8738e050faa4ee86c224ada834f9df1ba312c9008c51c1e14ae69e9a0c402a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-172-2023",
+   "path": "local/judet/gorj/2023/172",
+   "short": "HCJ Gorj nr. 172/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 172/2023 privind completarea Hotărârii Consiliului Județean Gorj nr. 55/09.07.2010 pentru aprobarea preluării managementului asistenței medicale al unității sanitare publice Spitalul de Pneumoftiziologie ,,Tudor Vladimirescu” - comuna Runcu, precum și pentru stabilirea unor măsuri ce decurg din transferul ansamblului de atribuții și competențe specifice domeniului sănătății publice către",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/172.%20HCJ%20desem.reprez%20%C3%AEn%20Cons.administr.al%20SpTV%20iunie%202023.pdf",
+     "sha256": "b55179e1f8224ad9f228c2cd97fa601c62511d55cd4a5eb2b28e3c2216bf1cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-173-2023",
+   "path": "local/judet/gorj/2023/173",
+   "short": "HCJ Gorj nr. 173/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 173/2023 privind desemnarea reprezentantului Consiliului Județean Gorj în Comisia de Orientare Școlară și Profesională din cadrul Centrului Județean de Resurse și Asistență Educațională Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/173.%20HCJ%20reprezentant%20Comisie%20CJRAE%20COSP.pdf",
+     "sha256": "b6dd52a18965e0563f747693f881f46b8918a40c67588b917db042497b97dc43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-175-2023",
+   "path": "local/judet/gorj/2023/175",
+   "short": "HCJ Gorj nr. 175/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 175/2023 privind declararea de interes public județean a imobilului – teren, situat în orașul Târgu Cărbunești, str. Trandafirilor, nr. 41, județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/175.%20HCJ%20declarare%20teren%20Tg-C%C4%83rbune%C8%99ti%20de%20interes%20public%20judetean%20-.pdf",
+     "sha256": "e8874676167e677a74f29b38629a5513726788110be6612b0d463157f64d3f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-176-2023",
+   "path": "local/judet/gorj/2023/176",
+   "short": "HCJ Gorj nr. 176/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 176/2023 pentru stabilirea regimului juridic al unui imobil – teren achiziționat de către Direcția Generală de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/176.%20HCJ%20stabilire%20regim%20juridic%20teren%20DGASPC-Iezureni.pdf",
+     "sha256": "3d7f0a2d9749f7c5dcde106c0c5a3f0e5f5f29ae1fdcea604d1b81e4888c88d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-177-2023",
+   "path": "local/judet/gorj/2023/177",
+   "short": "HCJ Gorj nr. 177/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 177/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/177.%20HCJ%20SJU.29.06.2023.pdf",
+     "sha256": "0fc25951595be1d2699b6ed9315213862fa69716ad3ad833db102c367bb5f5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-178-2023",
+   "path": "local/judet/gorj/2023/178",
+   "short": "HCJ Gorj nr. 178/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 178/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/178.%20HCJ%20modif%20Org.%20Stat%20fc.SpitalTV%2029iunie2023.pdf",
+     "sha256": "05443bfce3ab29ae044c348f5a5e6c0bee97bed6ca2be6c4b84b4085799b6f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-179-2023",
+   "path": "local/judet/gorj/2023/179",
+   "short": "HCJ Gorj nr. 179/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 179/2023 pentru atribuirea directă, ca măsură de urgență, a unui contract de delegare a gestiunii serviciului de transport public judeţean de persoane prin curse regulate și a licenței de traseu, pentru un traseu din Programul de transport public judeţean de persoane prin curse regulate, în Judeţul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/179.%20HCJ%20tarife%20si%20incredintare%20contract%20Mery%20Bar%20-%20iunie%202023.pdf",
+     "sha256": "4bbeb406a0e75821dd2bd04f54ea2398255f056dfa8c9bb461f1ebe8a33618df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-180-2023",
+   "path": "local/judet/gorj/2023/180",
+   "short": "HCJ Gorj nr. 180/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 180/2023 pentru atribuirea directă, ca măsură de urgență, a unui contract de delegare a gestiunii serviciului de transport public judeţean de persoane prin curse regulate și a licenței de traseu, pentru un traseu din Programul de transport public judeţean de persoane prin curse regulate, în Judeţul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/180.%20HCJ%20tarife%20si%20incredintare%20contract%20Ilabat%20Lalu%20Trans%20-%20iunie%202021.pdf",
+     "sha256": "440e9354f4e4e89482fb2a4fda310416dc1270340268e10bc814176c1640407e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-181-2023",
+   "path": "local/judet/gorj/2023/181",
+   "short": "HCJ Gorj nr. 181/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 181/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "912aa08304a509403b1842f37245b1f00401c78c32b8080fe5709f162d00d3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-182-2023",
+   "path": "local/judet/gorj/2023/182",
+   "short": "HCJ Gorj nr. 182/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 182/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d718ba1cbbe6d452dfcbf022240bbfd388c35267cc085b789b85a0b3095cff83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-183-2023",
+   "path": "local/judet/gorj/2023/183",
+   "short": "HCJ Gorj nr. 183/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 183/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție „Modernizare drum județean (675C), cu originea în DN 67B, ce traversează localitățile Târgu Logrești, Popești, Bustuchin, Poiana Seciuri, Seciurile, Roșia de Amaradia, Becheni, Corşoru, Alimpeşti, Sârbeşti",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2023%20-%20Adoptate/183.%20HCJ%20DJ%20675%20C%20actualizare%20indicatori_2023.pdf",
+     "sha256": "bf7a66087a16b6e5fe929b4fa28edf8e6d5019ced3bc28846732644a345b96ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-184-2023",
+   "path": "local/judet/gorj/2023/184",
+   "short": "HCJ Gorj nr. 184/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 184/2023 privind aprobarea execuţiei bugetului propriu general al Judeţului Gorj înregistrată la data de 30.06.2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/184.%20HCJ%20exec%20iunie%202023.pdf",
+     "sha256": "df04ee7079ee21dd0d605c79ee0450b1e0a76969570be124a9cf6c5b7a6abeb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-185-2023",
+   "path": "local/judet/gorj/2023/185",
+   "short": "HCJ Gorj nr. 185/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 185/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție „Refacere parte carosabilă și infrastructură DJ672 – 0,7 km, localitatea Godinești, județul Gorj”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/185.%20Hotarare%20actualizare%20indicatori%20DJ%20672%20Godinesti.pdf",
+     "sha256": "eb69bef27748ab333c51bf8b771bd402924eb03452d661c760ae7db579460068"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-186-2023",
+   "path": "local/judet/gorj/2023/186",
+   "short": "HCJ Gorj nr. 186/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 186/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/186.%20HCJ%20rectificare%20buget%20judet%20BPG%2027072023.pdf",
+     "sha256": "e2d6b6b1f58d755bc399e743052d7c93cd37c7d32cc328162bb29917e92dbe25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-187-2023",
+   "path": "local/judet/gorj/2023/187",
+   "short": "HCJ Gorj nr. 187/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 187/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/187.%20HCJ%20SJU.27iulie.2023.pdf",
+     "sha256": "d3adc7694b492f3111e08eccbb2df0fe6135d06a5de7ff31c6126406b96b044c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-188-2023",
+   "path": "local/judet/gorj/2023/188",
+   "short": "HCJ Gorj nr. 188/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 188/2023 pentru modificare a Organigramei, Statului de funcţii și Regulamentului de organizare și funcționare ale Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/188.%20HCJ%20modif%20stat%20fc%20SPA%2002.2023.pdf",
+     "sha256": "06c09fc854a8129afac1f7608c68495a2af7adef6613cefd7e4cf8ef1e9d0d6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-191-2023",
+   "path": "local/judet/gorj/2023/191",
+   "short": "HCJ Gorj nr. 191/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 191/2023 pentru modificarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Gorj, precum și a capacităților de furnizare a serviciilor sociale din cadrul Direcției Generale de Asistenţă Socială şi Pro",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/191.%20HCJ%20modificari%20DGASPC%20Gorj%20iul%202023.pdf",
+     "sha256": "6029aa88c136159642569144775f1ba40241c469d64c12cf78127632e143ca74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-192-2023",
+   "path": "local/judet/gorj/2023/192",
+   "short": "HCJ Gorj nr. 192/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 192/2023 privind modificarea arondării unităţilor administrativ-teritoriale la serviciile publice comunitare locale de evidenţă a persoanelor din judeţul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/192.%20HCJ-mdf-arond-DRAGUTESTI-LELESTI.pdf",
+     "sha256": "a93d874a45f16fb2ad7a75cf1218c16d502785afe8039e950c96fd1489da0da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-193-2023",
+   "path": "local/judet/gorj/2023/193",
+   "short": "HCJ Gorj nr. 193/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 193/2023 pentru atribuirea directă, ca măsură de urgență, a unui contract de delegare a gestiunii serviciului de transport public judeţean de persoane prin curse regulate și a licenței de traseu, pentru un traseu din Programul de transport public judeţean de persoane prin curse regulate, în Judeţul Gor",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/193.%20HCJ%20incredintare%20directa%20contract%20de%20delegare%20a%20gestiunii%20Marmir%20-%20iulie%202023.pdf",
+     "sha256": "0f7d634ea4437e247381016e6867e32e0e1773646ee63684912b7fdfc11a181c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-196-2023",
+   "path": "local/judet/gorj/2023/196",
+   "short": "HCJ Gorj nr. 196/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 196/2023 pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției Județene de Management Integrat al Deșeurilor și Protecția Animalelor Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.07.2023%20-%20Adoptate/196.%20HCJ%20reorganizare%20DJMIDPA%20iul%202023.pdf",
+     "sha256": "b43ad05b8cbb4f5ef32fd8eb6f9b8ed87f7ad91f1faeb314ede913b7a3840d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-198-2023",
+   "path": "local/judet/gorj/2023/198",
+   "short": "HCJ Gorj nr. 198/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 198/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/07.08.2023%20-%20Adoptate/198.%20HCJ%20BPG%2007082023.pdf",
+     "sha256": "4596e7fc3d27b6ad318b04df1ef05526af781eb2c49bfb92035dc9d76b0b45fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-199-2023",
+   "path": "local/judet/gorj/2023/199",
+   "short": "HCJ Gorj nr. 199/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 199/2023 pentru modificarea Statului de funcţii al aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/07.08.2023%20-%20Adoptate/199.%20HCJ%20modif.%20Stat%20functii%20aparat%20CJ.pdf",
+     "sha256": "3209af39173b9f385aeaeb00955299b07066c21a8e03defcc48070e0730235e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-201-2023",
+   "path": "local/judet/gorj/2023/201",
+   "short": "HCJ Gorj nr. 201/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 201/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.08.2023%20-%20Adoptate/201.%20HCJ%20rectificare%20judet%20BPG%20082023.pdf",
+     "sha256": "e2e1daafc90180043c3a26c6a121069bb7ca636ffe36a34d9bb905c344f65af4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-202-2023",
+   "path": "local/judet/gorj/2023/202",
+   "short": "HCJ Gorj nr. 202/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 202/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiţie ,,Restaurare și Conservare Cula Cioabă-Chințescu, sat Șiacu, comuna Slivilești, județul Gorj”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.08.2023%20-%20Adoptate/202.%20HCJ%20actualizare%20indicatori%20Cula%20Cioaba-Chintescu.pdf",
+     "sha256": "836e9763c66a26f9d46d36d24004c3afc159d0dbdd6aaed4ba30fe2d7b91cc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-203-2023",
+   "path": "local/judet/gorj/2023/203",
+   "short": "HCJ Gorj nr. 203/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 203/2023 pentru modificarea și completarea Protocolului de Colaborare încheiat între Județul Gorj prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.08.2023%20-%20Adoptate/203.%20HCJ%20modif%20Protocol%20Balesti%20HCJ%2076_2022.pdf",
+     "sha256": "24440ac6a77c618049146ad34aeac1e97093c76d80545ec7334ecc9ee029ebba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-204-2023",
+   "path": "local/judet/gorj/2023/204",
+   "short": "HCJ Gorj nr. 204/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 204/2023 pentru modificarea și completarea Protocolului de Colaborare încheiat între Județul Gorj prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.08.2023%20-%20Adoptate/204.%20HCJ%20modif%20Protocol%20Bumbesti-Jiu%20HCJ%2077_2022.pdf",
+     "sha256": "1056c317fbf103ff1922140fbe5cf4a46d063af886272276d26dc56dc8a8616f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-205-2023",
+   "path": "local/judet/gorj/2023/205",
+   "short": "HCJ Gorj nr. 205/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 205/2023 pentru modificarea și completarea Protocolului de Colaborare încheiat între Județul Gorj prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.08.2023%20-%20Adoptate/205.%20HCJ%20modif%20Protocol%20Motru%20HCJ%2078_2022.pdf",
+     "sha256": "a1de72c0fa44f5e9e0460f3b062be0c898af22ed6ff6ba95dea0d55dba8b88b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-207-2023",
+   "path": "local/judet/gorj/2023/207",
+   "short": "HCJ Gorj nr. 207/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 207/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7e2b83218ee6ecf462e1a6ac7441ec07efcd7b5464d3f1f9b43c50830d62ae70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-208-2023",
+   "path": "local/judet/gorj/2023/208",
+   "short": "HCJ Gorj nr. 208/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 208/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/208.%20HCJ%20modif%20Org.%20Stat%20fc.SpitalTV30.aug2023.pdf",
+     "sha256": "93dfc34bc4092642040de55bc136e3617e149cfd66912da0b570f3f2e82ed199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-209-2023",
+   "path": "local/judet/gorj/2023/209",
+   "short": "HCJ Gorj nr. 209/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 209/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "293b78c82f6032490bf95f0887d833dafe0d2c484a23c191df32243fe8cfce63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-211-2023",
+   "path": "local/judet/gorj/2023/211",
+   "short": "HCJ Gorj nr. 211/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 211/2023 pentru modificarea Statului de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/211.%20HCJ%20modificari%20Stat%20fc.%20DGASPC%20Gorj%20aug.%202023.pdf",
+     "sha256": "4240663519625616f96835e03bc7bae27707ac85bc327cb8decfeb41bd7e3d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-212-2023",
+   "path": "local/judet/gorj/2023/212",
+   "short": "HCJ Gorj nr. 212/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 212/2023 privind atestarea inventarului bunurilor care aparțin domeniului public al judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/212.%20HCJ%20atestare%20inventar%20bunuri%20domeniul%20public%20minister.pdf",
+     "sha256": "228c5c3c99263c0dc4798ca540a490e3e2467cd1931851970c35b8a22ac51358"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-214-2023",
+   "path": "local/judet/gorj/2023/214",
+   "short": "HCJ Gorj nr. 214/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 214/2023 pentru modificarea Regulamentului de organizare și funcționare a Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/214.%20HCJ%20modif%20ROF%20SPA%2008.2023.pdf",
+     "sha256": "2a1574d89d3781afaf38e6eeb6b59868c6166e2ab22b9a0885733fbd275a2b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-215-2023",
+   "path": "local/judet/gorj/2023/215",
+   "short": "HCJ Gorj nr. 215/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 215/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/215.%20HCJ%20rectificare%20BPG%2030082023.pdf",
+     "sha256": "09c5f0fde5421b375a9b85f052fe89b8da115210bc8784f10f344ac97c02751c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-217-2023",
+   "path": "local/judet/gorj/2023/217",
+   "short": "HCJ Gorj nr. 217/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 217/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.08.2023%20-%20Adoptate/217.%20HCJ%20Org%20si%20Stat%20fc%20SJU.30.08.2023.pdf",
+     "sha256": "63e970ca4d8d74af3a5a7edc98af32cd7cf0a3ea74d5e87feb1346d268cc0c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-219-2023",
+   "path": "local/judet/gorj/2023/219",
+   "short": "HCJ Gorj nr. 219/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 219/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/25.09.2023%20-%20Adoptate/219.%20HCJ%20rectificare%20buget%20BPG%2025092023.pdf",
+     "sha256": "81ac78d18b82bef716cda16b0ea6b4ebe2a6a36557bd4365bbf9d830736a3bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-220-2023",
+   "path": "local/judet/gorj/2023/220",
+   "short": "HCJ Gorj nr. 220/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 220/2023 pentru modificarea Statului de funcţii al aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/25.09.2023%20-%20Adoptate/220.%20HCJ%20modif.%20Stat%20functii%20sept.%202023.pdf",
+     "sha256": "29a9156035d36ee26348d725e4f4ba21e221f6307beb229adad8d0d8879450e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-222-2023",
+   "path": "local/judet/gorj/2023/222",
+   "short": "HCJ Gorj nr. 222/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 222/2023 privind modificarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.09.2023%20-%20Adoptate/222.%20HCJ%20modificare%20Colegiu%20Director%20DGASPC.pdf",
+     "sha256": "1a481e6d7398973b88f1bfb6b3c5392984bf06b593d2be8654dd7ae1886b6d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-224-2023",
+   "path": "local/judet/gorj/2023/224",
+   "short": "HCJ Gorj nr. 224/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 224/2023 privind desemnarea a doi reprezentanți ai Consiliului Județean Gorj în vederea constituirii Consiliului de Administrație al Centrului Școlar pentru Educație Incluzivă Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.09.2023%20-%20Adoptate/224.%20HCJ%20desemnare%20reprez%20Cons%20de%20adm%20CSEI%20TG%20JIU.pdf",
+     "sha256": "c59eec5d8c47462179ef18cec80169c3b27c0666d818abdfd8b1e9ef816c3e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-225-2023",
+   "path": "local/judet/gorj/2023/225",
+   "short": "HCJ Gorj nr. 225/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 225/2023 privind desemnarea reprezentantului Consiliului Județean Gorj în Consiliul de Administrație al Centrului Județean de Resurse și Asistență Educațională Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.09.2023%20-%20Adoptate/225.%20HCJ%20privind%20desemnarea%20unui%20membru%20in%20CA%20la%20CJRAE%20Gorj.pdf",
+     "sha256": "4ac2009c708f06f516cd58c34df3973dec02c505cdb9b027a705809a38c636ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-227-2023",
+   "path": "local/judet/gorj/2023/227",
+   "short": "HCJ Gorj nr. 227/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 227/2023 privind transmiterea din evidența patrimonial-contabilă a UAT – Județul Gorj în evidența patrimonial – contabilă a Spitalului Județean de Urgență Târgu Jiu a unor bunuri mobile – mijloace fixe (containere modulare) achiziționate din bugetul propriu general al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.09.2023%20-%20Adoptate/227.%20HCJ%20transmitere%20fara%20plata%20containere%20modulare.pdf",
+     "sha256": "76716354998bf94b1a590c3599ba0f57e31346dd652d2a4a043f6fa240beb45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-228-2023",
+   "path": "local/judet/gorj/2023/228",
+   "short": "HCJ Gorj nr. 228/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 228/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.09.2023%20-%20Adoptate/228.%20HCJ%20Organigrama%20si%20Stat%20functii%20SJU%2028sept2023.pdf",
+     "sha256": "5ab770e406c3e5f5f6f98d267173be12f14804565d354507e3cf38143a2a2ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-232-2023",
+   "path": "local/judet/gorj/2023/232",
+   "short": "HCJ Gorj nr. 232/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 232/2023 privind constituirea dreptului de administrare în sarcina Direcției Generale de Asistență Socială și Protecția Copilului Gorj asupra unor bunuri imobile proprietate publică a Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.10.2023%20-%20Adoptate/232.%20HCJ%20dare%20%C3%AEn%20administrare%20imobile%20c%C4%83tre%20DGASPC.pdf",
+     "sha256": "d5fa2aca895f77a4f5581cf8d06515bdb0bc32c4a148d1a05dc43e6528f8d564"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-233-2023",
+   "path": "local/judet/gorj/2023/233",
+   "short": "HCJ Gorj nr. 233/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 233/2023 privind asumarea organizării și derulării procedurilor de atribuire a contractelor/ acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative aferente ”Programului pentru școli al României în perioada 202",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.10.2023%20-%20Adoptate/233.%20HCJ%20asumare%20responsabilitate%20Program%20scoli%202023-2024%20completat.pdf",
+     "sha256": "7576b072da0348cbc1c7ae47ff83bd4a7d633bc11a88d358f542d38df7958f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-234-2023",
+   "path": "local/judet/gorj/2023/234",
+   "short": "HCJ Gorj nr. 234/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 234/2023 privind aprobarea înființării, în subordinea Consiliului Județean Gorj, în structura Direcției Generale de Asistență Socială și Protecția Copilului Gorj, a Casei de tip familial destinată protecției rezidențiale a copiilor cu dizabilități ,,Primăverii”, prin restructurarea Centrului de plas",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.10.2023%20-%20Adoptate/234.%20HCJ%20inf%20CTF%20Primaverii.pdf",
+     "sha256": "8f7e611a364abae4187466b51a655e065755d7308d0daab16c0ee0af0daf34f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-236-2023",
+   "path": "local/judet/gorj/2023/236",
+   "short": "HCJ Gorj nr. 236/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 236/2023 pentru modificarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Gorj, precum și a capacităților de furnizare a serviciilor sociale din cadrul Direcției Generale de Asistență Socială și Pro",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.10.2023%20-%20Adoptate/236.%20HCJ%20modific%C4%83ri%20DGASPC%20restructurare%20CSCCNS%20Tg.%20Jiu.pdf",
+     "sha256": "f410e4995970d561b86886933b31ce4ac2b79934dd8eca0aaed487c3a1a26a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-237-2023",
+   "path": "local/judet/gorj/2023/237",
+   "short": "HCJ Gorj nr. 237/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 237/2023 privind aprobarea execuţiei bugetului propriu general al Judeţului Gorj înregistrată la data de 30.09.2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/237.%20HCJ%20exec%20septembrie%202023.pdf",
+     "sha256": "cecdee1b2a8877c5f64fb586b76f1770e6a767c469b6590962ef1004acba2708"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-238-2023",
+   "path": "local/judet/gorj/2023/238",
+   "short": "HCJ Gorj nr. 238/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 238/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/238.%20HCJ%20BPG%2030102023.pdf",
+     "sha256": "300e1b70fdc9632a53243ffe77b6a7637c386ba11e129056f709bd9250c1a930"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-239-2023",
+   "path": "local/judet/gorj/2023/239",
+   "short": "HCJ Gorj nr. 239/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 239/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Reabilitare, modernizare și extindere bloc operator ORL+Oftalmologie, Spitalul Județean de Urgență Târgu-Jiu, str",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/239.%20HCJ%20aprobare%20indicatori%20bloc%20operator%20ORL%20-%20Oftalmologie.pdf",
+     "sha256": "a0c528a64bf429bba432972e556f66e85d6eba7ee4cc94054b11a56b9708586f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-240-2023",
+   "path": "local/judet/gorj/2023/240",
+   "short": "HCJ Gorj nr. 240/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 240/2023 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/240.%20HCJ%20modi.Stat%20fc.SpitalTV.octom.2023.pdf",
+     "sha256": "2b24a16a15b1f6d23762d691a66c3e8bfe821aa8e57e607193c3ef0b73d637e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-241-2023",
+   "path": "local/judet/gorj/2023/241",
+   "short": "HCJ Gorj nr. 241/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 241/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d3dcca9d3ea90fa220c96a3a35ca1435be411892f626f8f9a1436451d6c62f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-242-2023",
+   "path": "local/judet/gorj/2023/242",
+   "short": "HCJ Gorj nr. 242/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 242/2023 pentru modificarea Statului de funcții și Regulamentului de organizare și funcționare ale Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/242.%20HCJ%20modif%20ROF%20SPA%2010.2023.pdf",
+     "sha256": "959695f5f15c86acdc3c0f0d71c6ec0b890eedbaa1d3327ca6750f184dff31df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-243-2023",
+   "path": "local/judet/gorj/2023/243",
+   "short": "HCJ Gorj nr. 243/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 243/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/243.%20HCJ%20SJU.27octo.2023.pdf",
+     "sha256": "34febbfc8423ec3cb967b3232cdeaf2883bd5cadac2f152af61f69c3bd4d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-244-2023",
+   "path": "local/judet/gorj/2023/244",
+   "short": "HCJ Gorj nr. 244/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 244/2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/244.%20HCJ%20modificare%20program%20transport%20-%20octombrie%202023.pdf",
+     "sha256": "a09832541456df27f78130bc68154f4266fd2b3c463af94d280e1722bc1667b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-247-2023",
+   "path": "local/judet/gorj/2023/247",
+   "short": "HCJ Gorj nr. 247/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 247/2023 pentru completarea Hotărârii Consiliului Județean nr. 49 din 03.02.2023 privind aprobarea Agendei Culturale a Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2023%20-%20Adoptate/247.%20HCJ%20completare%20Agenda%20Culturala%20Summitul%20Tinerilor%20Biblioteca%20si%20Muzeu.pdf",
+     "sha256": "d1bc7dac5742a5015e5cc22f506ee7fc3cece233b098b7d8fb77663fb263a27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-250-2023",
+   "path": "local/judet/gorj/2023/250",
+   "short": "HCJ Gorj nr. 250/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 250/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/10.11.2023%20-%20Adoptate/250.%20HCJ%20BPG%2010112023.pdf",
+     "sha256": "b2a735e84ef60bb7ba470977fd49daf435be51437fed2f98e24c6d1cfaeb9c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-255-2023",
+   "path": "local/judet/gorj/2023/255",
+   "short": "HCJ Gorj nr. 255/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 255/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/255.%20HCJ%20BPG%2029112023.pdf",
+     "sha256": "b356d2ccf6ebaaae125dd547474a162fcb0ac4ec5acb4e7956202b78291bfffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-256-2023",
+   "path": "local/judet/gorj/2023/256",
+   "short": "HCJ Gorj nr. 256/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 256/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/256.%20HCJ%20modif%20Org.%20Stat%20fc.SpitalTV29noiem2023.pdf",
+     "sha256": "0ab0236576c46ae1eae7b016b342613b40ceabc8edb182f1236fa7bde8be0439"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-257-2023",
+   "path": "local/judet/gorj/2023/257",
+   "short": "HCJ Gorj nr. 257/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 257/2023 privind inițierea formalităților de trecere interdomenială a unui imobil – teren din domeniul public al Orașului Târgu Cărbunești în domeniul public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/257.%20HCJ%20preluare%20teren%20Tg%20Carbunesti.pdf",
+     "sha256": "219702999cd144928ac27ad610bd2e2671ec70dfae2865fa72a67873cd9370e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-258-2023",
+   "path": "local/judet/gorj/2023/258",
+   "short": "HCJ Gorj nr. 258/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 258/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie ,,CONSOLIDARE TERASAMENTE PE DJ673A, COMUNA DRAGOTEȘTI, JUDEȚUL GORJ”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/258.%20HCJ%20aprobare%20Indicatori%20DJ%20673A-Dragotesti.pdf",
+     "sha256": "50317c52b570208168615667bea90c9f71b997d3349f92d613cbaae85cd55d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-259-2023",
+   "path": "local/judet/gorj/2023/259",
+   "short": "HCJ Gorj nr. 259/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 259/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie ,, CONSOLIDARE TERASAMENTE PE DJ675, ORAȘ TÂRGU – CĂRBUNEȘTI, JUDEȚUL",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/259.%20HCJ%20aprobare%20Indicatori%20DJ%20675%20-%20Tg%20C%C4%83rbunesti.pdf",
+     "sha256": "848697450e58647acbbd1b40657548354e89ece4db4fe4dceb8cb8226375a444"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-260-2023",
+   "path": "local/judet/gorj/2023/260",
+   "short": "HCJ Gorj nr. 260/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 260/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie „REABILITARE DRUM JUDEŢEAN 605C, KM 13+300 – KM 15+274, COMUNA",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/260.%20HCJ%20aprobare%20Indicatori%20DJ605C%20-%20Alimpesti.pdf",
+     "sha256": "9b066f03b0fff7cd07b26fb0b4b75238c01d525f392f78cb6b25b653f973a86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-261-2023",
+   "path": "local/judet/gorj/2023/261",
+   "short": "HCJ Gorj nr. 261/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 261/2023 privind repartizarea pe unități de cult a sumei prevăzute cu această destinație în bugetul propriu general al județului Gorj pentru anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/261.%20HCJ%20alocare%20sprijin%20financiar%20CULTE%202023.pdf",
+     "sha256": "0818c9c1eafaaabcca4449dc4192797648e09456eecf6e25c46cce20366f77a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-262-2023",
+   "path": "local/judet/gorj/2023/262",
+   "short": "HCJ Gorj nr. 262/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 262/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Creșterea eficienței energetice a clădirilor din cadrul Complexului de Îngrijire și Asistență Suseni”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/262.%20HCJ%20actualizare%20indicatori%20Cresterea%20eficientei%20energetice%20Suseni.pdf",
+     "sha256": "e24eb67b1a6dd87247091606a29187d76c4a7d207ae8e2af018c4dba18b8b119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-265-2023",
+   "path": "local/judet/gorj/2023/265",
+   "short": "HCJ Gorj nr. 265/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 265/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.11.2023%20-%20Adoptate/265.%20HCJ%20SJU.29%20noiem.2023.pdf",
+     "sha256": "6bafe61319e9f540a2e86480c6e3a92c63b3b942f2014e6054d29dd4ee3ac7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-267-2023",
+   "path": "local/judet/gorj/2023/267",
+   "short": "HCJ Gorj nr. 267/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 267/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.12.2023%20-%20Adoptate/267.%20HCJ%20BPG%2008122023.pdf",
+     "sha256": "5595b2fc4ede7fb2f7bf7066074c7a93aab1a18496290878148aef688eae5eaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-268-2023",
+   "path": "local/judet/gorj/2023/268",
+   "short": "HCJ Gorj nr. 268/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 268/2023 privind transmiterea din evidența patrimonial-contabilă a UAT – Județul Gorj în evidența patrimonial – contabilă a Spitalului Județean de Urgență Târgu Jiu a unui bun mobil – mijloc fix (autoutilitară frigorifică) achiziționat din bugetul propriu general al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.12.2023%20-%20Adoptate/268.%20HCJ%20transmitere%20fara%20plata%20catre%20SJU%20autoutilitara%20frigorifica.pdf",
+     "sha256": "df73c36159933e15f5f3237d8045db2b44cc857edee6319d454b1ae8d011db24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-273-2023",
+   "path": "local/judet/gorj/2023/273",
+   "short": "HCJ Gorj nr. 273/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 273/2023 privind repartizarea pe unități administrativ-teritoriale de sume defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale pe anul 2023, sume alocate Consiliului Județean Gorj prin Hotărârea de Guvern nr. 1183/29.11.2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/08.12.2023%20-%20Adoptate/273.%20HCJ%20repartiz%20sume%20TVA%20echilib%20din%20fd.rezerva%20-%2008%20dec%202023.pdf",
+     "sha256": "1ecf5232411b9ce321a824cb44be0b825c61c1c59404f1f06180d934b7e4874c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-277-2023",
+   "path": "local/judet/gorj/2023/277",
+   "short": "HCJ Gorj nr. 277/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 277/2023 privind constatarea încetării de drept a unui mandat de consilier județean și declararea locului acestuia de consilier județean vacant",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "171fe8f0e6ab7027d1f375e6c18dd730b75333742345340795cc56c94113d351"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-279-2023",
+   "path": "local/judet/gorj/2023/279",
+   "short": "HCJ Gorj nr. 279/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 279/2023 privind aprobarea execuţiei bugetului propriu general al Judeţului Gorj înregistrată la data de 12.12.2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/21.12.2023%20-%20Adoptate/279.%20HCJ%20exec%20decembrie%202023.pdf",
+     "sha256": "a3d5a082268b0e7acb68766cad508f39557530c4b32bca415808f0b3491c80c6"
     }
    ]
   },
@@ -63,6 +1818,246 @@
    ]
   },
   {
+   "slug": "hcj-gorj-282-2023",
+   "path": "local/judet/gorj/2023/282",
+   "short": "HCJ Gorj nr. 282/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 282/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "de08fb8f3518976878bcf689b61e7891b44bff45692fbaf244fec817e9a95258"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-283-2023",
+   "path": "local/judet/gorj/2023/283",
+   "short": "HCJ Gorj nr. 283/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 283/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e3a11be82cc265c86c1edb4b8f2a6a02b2d227e3248661806c7a3468adaa3d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-284-2023",
+   "path": "local/judet/gorj/2023/284",
+   "short": "HCJ Gorj nr. 284/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 284/2023 pentru modificarea Organigramei și Statului de funcții ale Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/21.12.2023%20-%20Adoptate/284.%20HCJ%20SJU%2021decem.2023.pdf",
+     "sha256": "48958fd0afd29ed7e53036f691c42e891068a96e91b5a787d25a05539e629ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-285-2023",
+   "path": "local/judet/gorj/2023/285",
+   "short": "HCJ Gorj nr. 285/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 285/2023 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2023 al Societăţii Comerciale „Parc Industrial Gorj” S.A",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/21.12.2023%20-%20Adoptate/285.%20HCJ%20Parc%20Industrial%202023%20rectificare.pdf",
+     "sha256": "48ce64a6a32e049e2fbe13403d451197110cefc4a01db0cad88f94892264e7ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-36-2023",
+   "path": "local/judet/gorj/2023/36",
+   "short": "HCJ Gorj nr. 36/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 36/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/36.%20HCJ%20modif.%20Stat%20functii%20SJU.27ianu.2023.pdf",
+     "sha256": "4f0e06984af4d8530bc4a89584e4e26d13ee59a180fd1960fca02c7f9369890b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-37-2023",
+   "path": "local/judet/gorj/2023/37",
+   "short": "HCJ Gorj nr. 37/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9975490764bf72e801b5053c5ae52fc376a64c6cef118e9fd61d87a0a05abb1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-38-2023",
+   "path": "local/judet/gorj/2023/38",
+   "short": "HCJ Gorj nr. 38/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 38/2023 privind transmiterea din evidența patrimonial-contabilă a UAT – Județul Gorj în evidența patrimonial – contabilă a Inspectoratului de Poliție Județean Gorj a unor bunuri mobile – mijloace fixe (echipamente tehnice) achiziționate din bugetul propriu general al Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/38.%20HCJ%20trans.%20echipamente%20tehnice%20Politie%20IPJ.pdf",
+     "sha256": "a94b82eb4dd67ec39b8e4d7f07b14363507f5ff76e2d36a38d70969fd8115831"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-39-2023",
+   "path": "local/judet/gorj/2023/39",
+   "short": "HCJ Gorj nr. 39/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 39/2023 privind transmiterea din evidența patrimonial – contabilă a UAT – Județul Gorj în evidența patrimonial – contabilă a Inspectoratului de Jandarmi Județean „Tudor Vladimirescu” Gorj a unor bunuri mobile – mijloace fixe (echipamente tehnice) achiziționate din bugetul propriu general al Județul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/39.%20HCJ%20trans.%20echipamente%20tehnice%20Jandarmi%20IJJG.pdf",
+     "sha256": "6305e553bc67f7233a87ea765fc40debdcdab731bc94099e85d590a468e57370"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-4-2023",
+   "path": "local/judet/gorj/2023/4",
+   "short": "HCJ Gorj nr. 4/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 4/2023 privind repartizarea pe unități administrativ teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor descentralizate la nivelul județelor pe anul 2023 alocate în cadrul Programului pentru școli al României, aferente anului școlar 2022 – 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.01.2023%20-%20Adoptate/04.%20HCJ%20completare%20HCJ%20alocare%20sume%20primarii%20asumare%20an%20scolar%202022%202023%20-%202023.pdf",
+     "sha256": "14690254e94534b024886d8f52c551cb8d4fa9fa204d1fa35e29f978db49fd3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-48-2023",
+   "path": "local/judet/gorj/2023/48",
+   "short": "HCJ Gorj nr. 48/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 48/2023 privind aprobarea cuantumului şi plății cotizației Consiliului Judeţean Gorj, în numele Unității Administrativ Teritoriale – Județul Gorj, la Ansamblul Regiunilor Europene (ARE), pentru anul 2022",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/48.%20HCJ%20aprob.%20cotizatie%20ARE%202022.pdf",
+     "sha256": "ffd32ebffc9bab19bb8ff9b5c246695d9caeb4a71064a224f761e761d532afc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-50-2023",
+   "path": "local/judet/gorj/2023/50",
+   "short": "HCJ Gorj nr. 50/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 50/2023 privind aprobarea cuantumului cotizației pentru anul 2023 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/50.%20HCJ%20aprob.%20cotizatie%20ADIA%202023.pdf",
+     "sha256": "18864b042e0d3b231ebb3f18fdb14b028a0667f77bbbcf0a2e71c936361cab1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-51-2023",
+   "path": "local/judet/gorj/2023/51",
+   "short": "HCJ Gorj nr. 51/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 51/2023 privind aprobarea cuantumului cotizației pentru anul 2023 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/51.%20HCJ%20aprob.%20cotizatie%20ADIS%202023.pdf",
+     "sha256": "8aa18a22470947dab5a6c6ff21874a1751d3d8dca74a711379317e5e39149778"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-52-2023",
+   "path": "local/judet/gorj/2023/52",
+   "short": "HCJ Gorj nr. 52/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 52/2023 privind aprobarea cuantumului cotizației pentru anul 2023 ce revine Județului Gorj, prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "84c2cf01b41f66dc8b7966a9cbfa8f21f73af228a63366113dee40cb71119284"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-55-2023",
+   "path": "local/judet/gorj/2023/55",
+   "short": "HCJ Gorj nr. 55/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 55/2023 privind aprobarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/55.%20HCJ%20BPG%20aprobare%20BUGET%20bdef%202023.pdf",
+     "sha256": "4340f7da158f6fcaae02be79f9534b129bfb0fbfcfa197f377c8020e9af8a4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-56-2023",
+   "path": "local/judet/gorj/2023/56",
+   "short": "HCJ Gorj nr. 56/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 56/2023 pentru aprobarea Raportului privind stadiul realizării măsurilor cuprinse în Planul de menținere a calităţii aerului în județul Gorj, 2019 – 2023, pentru anul 2022",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/56.%20HCJ%20aprob.%20Raport%20Plan%20calitate%20aer%202022.pdf",
+     "sha256": "eea47e49d6c573a2a47618e022f7dbc9c80d1c779f49fdb3dca944bde88907e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-57-2023",
+   "path": "local/judet/gorj/2023/57",
+   "short": "HCJ Gorj nr. 57/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 57/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/03.02.2023%20-%20Adoptate/57.%20HCJ%20modif.%20Stat%20fc.%20SJU.02.febr.2023.pdf",
+     "sha256": "709a1485d5c6959ff538d41cdc667fdc8e446070fd3e6c0643d23582b4488ed9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-58-2023",
    "path": "local/judet/gorj/2023/58",
    "short": "HCJ Gorj nr. 58/2023",
@@ -78,6 +2073,201 @@
    ]
   },
   {
+   "slug": "hcj-gorj-59-2023",
+   "path": "local/judet/gorj/2023/59",
+   "short": "HCJ Gorj nr. 59/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 59/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/13.02.2023%20-%20Adoptate/59.%20HCJ%20rectificare%20BPG%2013022023.pdf",
+     "sha256": "1215524289ebfcc3c1c1405ba60de48f737c36ab3bec9e37903ee68c10335ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-6-2023",
+   "path": "local/judet/gorj/2023/6",
+   "short": "HCJ Gorj nr. 6/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 6/2023 pentru aprobarea Regulamentului de organizare și funcționare a Comitetului pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării persoanelor adulte cu dizabilități, constituit la nivelul județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/06.%20HCJ%20aprobare%20Regulament%20Comitet%20DGASPC.pdf",
+     "sha256": "6847f00c773d2afefdb362ecb5cbdb708196f4b9905cf0103d99807ce6d961ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-60-2023",
+   "path": "local/judet/gorj/2023/60",
+   "short": "HCJ Gorj nr. 60/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 60/2023 pentru modificarea Hotărârii Consiliului Județean Gorj nr. 118 din 31.08.2020 privind aprobarea elaborării documentației tehnico-economice pentru proiectul “Modernizare infrastructură rutieră de interes județean pe drumul județean 663A ce traversează localitățile Târgu – Jiu (DN 66) – Botorogi-Văcarea-Țîrculești (DJ 674A) – intersecție cu DJ 663 și drum județean 674A ce traversează localitățile Țî",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/13.02.2023%20-%20Adoptate/60.%20HCJ%20modificare%20118_2020%20FINAL.pdf",
+     "sha256": "da47bf3ebcd320292f18b97a252347485270fc863fded026af9fe59dca283b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-62-2023",
+   "path": "local/judet/gorj/2023/62",
+   "short": "HCJ Gorj nr. 62/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 62/2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/62.%20HCJ%20pentru%20modificarea%20H%20nr.18-2022%20.pdf",
+     "sha256": "b4490c17f00d253fc1037948642c9798aa058f70f6b28ff2ed59873c35bc302a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-63-2023",
+   "path": "local/judet/gorj/2023/63",
+   "short": "HCJ Gorj nr. 63/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 63/2023 privind aprobarea Regulamentului de organizare și funcționare al Comisiei de evaluare a persoanelor adulte cu handicap Gor",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/63.%20HCJ%20aprob.%20ROF%20Comisie%20evaluare%20persoane%20adulte%20cu%20handicap.pdf",
+     "sha256": "dbd3daa7b0106b490095b31bd1d33be8f7927fdd0a4bc786a94a3354e4beb08f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-64-2023",
+   "path": "local/judet/gorj/2023/64",
+   "short": "HCJ Gorj nr. 64/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 64/2023 pentru modificarea Statului de funcţii al Bibliotecii Județene ,,Christian Tell” Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/64.%20HCJ%20modif.%20Stat%20f%20Biblioteca%20februarie%202023.pdf",
+     "sha256": "d1d58c1e9e3b858c9a17720e1499bb3642566d58a340e77c4ac793098737c80a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-65-2023",
+   "path": "local/judet/gorj/2023/65",
+   "short": "HCJ Gorj nr. 65/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 65/2023 pentru modificarea Statului de funcţii al Şcolii Populare de Arte ,,Constantin Brâncuși” Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/65.%20HCJ%20modif%20Stat%20fc%20SPA%2002.2023.pdf",
+     "sha256": "b8290136f8d717b4a051750179dd987c777aaabaa46bc76c81444c8fabaeb10c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-66-2023",
+   "path": "local/judet/gorj/2023/66",
+   "short": "HCJ Gorj nr. 66/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 66/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e385198b5cd93ccd183889d4f57406079f0cdd0d2444db1856809f5f617b051b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-67-2023",
+   "path": "local/judet/gorj/2023/67",
+   "short": "HCJ Gorj nr. 67/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 67/2023 pentru stabilirea unor măsuri privind regimul de salarizare al funcțiilor de conducere de la nivelul instituției publice de interes județean – Centrul Județean pentru Conservarea și Promovarea Culturii Tradiționale Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/67.%20HCJ%20stabilire%20salarii%20functii%20cond%20CJCPCT.pdf",
+     "sha256": "951316a30e642951f2f5319e5d850ace507e446f4d1150abe1e1e404e22533ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-68-2023",
+   "path": "local/judet/gorj/2023/68",
+   "short": "HCJ Gorj nr. 68/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 68/2023 privind aprobarea Planului de acțiune în domeniul drogurilor la nivelul Județului Gorj, pentru perioada 2022-2026",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/68.%20HCJ%20Planul%20de%20actiune%20in%20domeniul%20drogurilor%20la%20nivelul%20judetului%20Gorj%20perioada%202022-2026.pdf",
+     "sha256": "64bc934789bc8231936738843916d418db1fa0bbff0802f491f788e13a34926d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-69-2023",
+   "path": "local/judet/gorj/2023/69",
+   "short": "HCJ Gorj nr. 69/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 69/2023 privind aprobarea Programului anual pentru acordarea de finanțări nerambursabile din bugetul Județului Gorj pentru activități nonprofit de interes general pentru anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/69.%20HCJ%20aprobare%20Program%20anual%20propriu%20finantari%20nerambursabile%202023.pdf",
+     "sha256": "dda6e75ac298e92fb5cd34d6d3cbbb95b1c88824ce8e5f38da08b672ddd1fccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-7-2023",
+   "path": "local/judet/gorj/2023/7",
+   "short": "HCJ Gorj nr. 7/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 7/2023 pentru modificarea Statului de funcții al Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/07.%20HCJ%20modif%20.Stat%20fc.SpitalTV.27ianu.2023.pdf",
+     "sha256": "5613866837c16b0bb4b71ddfd64c621c9f84ff2db9eda0068bc3a41d5f8bc1d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-70-2023",
+   "path": "local/judet/gorj/2023/70",
+   "short": "HCJ Gorj nr. 70/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 70/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Reabilitare și modernizare Bloc operator obstetrică ginecologie și scară interioară acces – Spitalul Județean de Urgență Târgu-Jiu, str. Progresului, nr. 18”",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/70.%20HCJ%20aprob.%20indicatori%20Bloc%20operator%20ginecologie%20SJU.pdf",
+     "sha256": "1814c83e50ab07a83b6d7a131a65b8230702479973041b097c8b9454d5e96423"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-78-2023",
    "path": "local/judet/gorj/2023/78",
    "short": "HCJ Gorj nr. 78/2023",
@@ -89,6 +2279,261 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/78.%20HCJ%20aprobare%20tarife%20-operatori%20castigatori%20-%20februarie%202023.pdf",
      "sha256": "5c06613868df617575e47969b2c9d06191b26344b0680c5ac37bbe39e4c9a9ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-8-2023",
+   "path": "local/judet/gorj/2023/8",
+   "short": "HCJ Gorj nr. 8/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 8/2023 pentru modificarea Statului de funcţii al al Direcției Județene de Management Integrat al Deșeurilor și Protecția Animalelor Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/08.%20HCJ%20modificare%20Stat%20functii%20Direc%C8%9Bie%20De%C8%99euri%20%C8%99i%20Protectia%20Animalelor.pdf",
+     "sha256": "342383d642448088f24e37d4b10a5b7ba7c06cd7698eea1caac9aaf90c90519b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-81-2023",
+   "path": "local/judet/gorj/2023/81",
+   "short": "HCJ Gorj nr. 81/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 81/2023 pentru modificarea Statului de funcții al Spitalului Județean de Urgență Târgu-Ji",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/81.%20HCJ%20modif.%20Stat%20functii%20SJU.22.02.2023.pdf",
+     "sha256": "eebb564ab06106d0f8674beec6649ab30f9e8cbdd609669de7da79933707be24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-82-2023",
+   "path": "local/judet/gorj/2023/82",
+   "short": "HCJ Gorj nr. 82/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 82/2023 pentru un traseu din Programul de transport public judeţean de persoane prin curse regulate, în Judeţul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/82.%20HCJ%20atribuire%20licenta%20traseu%20transport%20public%20judetean.pdf",
+     "sha256": "6d342b9260560ada21aede9560c140a720ea42bfd0c737f4c501b9c4af65c09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-83-2023",
+   "path": "local/judet/gorj/2023/83",
+   "short": "HCJ Gorj nr. 83/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 83/2023 privind modificarea repartizării excedentului bugetului local al Județului Gorj înregistrat la 31.12.2022",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.02.2023%20-%20Adoptate/83.%20HCJ%20BPG%20modificare%20repart%20excedent%2027022023.pdf",
+     "sha256": "73abd133f0c010f2d32ff6a76bd71311a70c994481d9a5be2927223bc0e0541f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-86-2023",
+   "path": "local/judet/gorj/2023/86",
+   "short": "HCJ Gorj nr. 86/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 86/2023 privind aprobarea unui Acord de parteneriat cu Asociația Națională a Salvatorilor Montani din România, persoană juridică de utilitate publică",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.03.2023%20-%20Adoptate/86.%20HCJ%20Acord%20parteneriat%20Salvamont.pdf",
+     "sha256": "d1e7427ef546f8d527ebd6732109c1f03f60da1adb802ebae00b138ea706fc4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-87-2023",
+   "path": "local/judet/gorj/2023/87",
+   "short": "HCJ Gorj nr. 87/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 87/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitarea, modernizarea, extinderea și dotarea Unității de Primiri Urgențe din cadrul Spitalului Județean de Urgență Târgu Jiu, locația Str",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.03.2023%20-%20Adoptate/87.%20HCJ%20actualizare%20indicatori%20UPU%20-%20conform%20OG%2064%20-%20Martie%202023.pdf",
+     "sha256": "0a7c05c6dabbc8e03189bc5f357444f0a0c82a54d8213b3dd1c5926dfec0c242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-89-2023",
+   "path": "local/judet/gorj/2023/89",
+   "short": "HCJ Gorj nr. 89/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 89/2023 privind rectificarea bugetului propriu general al Județului Gorj pe anul 2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/16.03.2023%20-%20Adoptate/89.%20HCJ%20rectificare%20buget%20BPG%2016032023.pdf",
+     "sha256": "4a73dc4fbfdf3776195037ab9e3b0bc519e2e14666734d4f747dbd4f7820d1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-9-2023",
+   "path": "local/judet/gorj/2023/9",
+   "short": "HCJ Gorj nr. 9/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 9/2023 privind desemnarea componenței nominale a comisiilor de evaluare anuală a managementului exercitat în anul 2022 la nivelul instituțiilor publice de cultură de interes județean înființate de",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.01.2023%20-%20Adoptate/09.%20HCJ%20constituire%20comisii%20evaluare%20management%20inst%20cultura%20Ian.%202023.pdf",
+     "sha256": "dfe7d2d95d4d3dfb310fca74003e2ee80650efbf14ba9038b43d582c58d9d7e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-90-2023",
+   "path": "local/judet/gorj/2023/90",
+   "short": "HCJ Gorj nr. 90/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 90/2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/90.%20HCJ%20majorare%20cotizatie%20UNCJR.pdf",
+     "sha256": "9e4ac3838262c26b84cd739d5f9b19b44464e5421c57f0e33b97b86ab32501c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-91-2023",
+   "path": "local/judet/gorj/2023/91",
+   "short": "HCJ Gorj nr. 91/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 91/2023 privind atestarea unui bun înscris în Inventarul bunurilor care aparțin domeniului public al Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/91.%20HCJ%20atestare%20imobil%20Matasari.pdf",
+     "sha256": "116e85eec0d75fa22c685588a182c5c34ce63bfde21d2eb6e6585256d7cd39be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-92-2023",
+   "path": "local/judet/gorj/2023/92",
+   "short": "HCJ Gorj nr. 92/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 92/2023 privind constituirea dreptului de administrare în sarcina Direcției Generale de Asistență Socială și Protecția Copilului Gorj asupra bunului imobil – teren și construcții, situat în comuna Mătăsari, str. Minei, nr. 7, județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/92.%20HCJ%20dare%20in%20administrare%20imobil%20catre%20DGASPC.pdf",
+     "sha256": "2b9158ac543f5f1b7e903bac398c3cd1802ac97455e625c774bfc72e2e9d76a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-93-2023",
+   "path": "local/judet/gorj/2023/93",
+   "short": "HCJ Gorj nr. 93/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 93/2023 pentru stabilirea regimului juridic al unor imobile achiziționate de către Direcția Generală de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/93.%20HCJ%20stabilire%20regim%20juridic%20imobile%20DGASPC.pdf",
+     "sha256": "5211d97b8a47ba05b8ea51dbf4a0c8d2bf6bd04c72e80916de3019a248b008dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-94-2023",
+   "path": "local/judet/gorj/2023/94",
+   "short": "HCJ Gorj nr. 94/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 94/2023 privind atribuirea în folosință gratuită a unui spațiu Direcției de Sănătate Publică Gorj, situat în incinta Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/94.%20HCJ%20folosinta%20gratuita%20DSP.pdf",
+     "sha256": "c46ac4b8afae340b14b3e3b13db94ba99c11655007dc7c761c3cc11440d556df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-95-2023",
+   "path": "local/judet/gorj/2023/95",
+   "short": "HCJ Gorj nr. 95/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 95/2023 privind atribuirea în folosință gratuită a unui spațiu Colegiului Fizioterapeuților Gorj, situat în incinta Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/95.%20HCJ%20folosinta%20gratuita%20fizioterapeuti.pdf",
+     "sha256": "28ba52adc45aee4a1d864259ccc6305104fc8cf8fbe934098309ed23796078e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-96-2023",
+   "path": "local/judet/gorj/2023/96",
+   "short": "HCJ Gorj nr. 96/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 96/2023 pentru modificarea Statului de funcţii şi Regulamentului de organizare şi funcţionare ale aparatului de specialitate al Consiliului Judeţean Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/96.%20HCJ%20modif.%20Stat%20functii%20si%20ROF%20martie%202023.pdf",
+     "sha256": "db7013bd829d6285d9e4192c1fde3663a0a232a177125676beb91b2f53584681"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-97-2023",
+   "path": "local/judet/gorj/2023/97",
+   "short": "HCJ Gorj nr. 97/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 97/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "46ff2535f2daa8d497f6d48475baff3b334b99a32ac7787c8b9788c65bb16808"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-99-2023",
+   "path": "local/judet/gorj/2023/99",
+   "short": "HCJ Gorj nr. 99/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 99/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/27.03.2023%20-%20Adoptate/99.%20HCJ%20aprob.%20eval.%20anuala%20-%20martie%202023%20Muzeu.pdf",
+     "sha256": "1c7efbe9af5f4bb6aeda8eccc57aa8e21f570c96aa80340baae7ca5a96060fef"
     }
    ]
   }

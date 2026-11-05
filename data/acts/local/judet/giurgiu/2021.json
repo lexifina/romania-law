@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/giurgiu/2021",
+"acts": [
+{
+"slug": "hcj-giurgiu-104-2021",
+"path": "local/judet/giurgiu/2021/104",
+"kind": "local",
+"year": "2021",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 104/2021 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Județean Giurgiu",
+"short": "HCJ Giurgiu nr. 104/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
