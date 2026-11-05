@@ -282,6 +282,51 @@
    ]
   },
   {
+   "slug": "hg-182-1997",
+   "path": "hg/1997/182",
+   "short": "HG nr. 182/1997",
+   "title": "Hotărârea Guvernului nr. 182/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare centrale termice şi reabilitare reţele de distribuţie energie termica în oraşul Predeal, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11961",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11961",
+     "sha256": "858594696283abe6708a7d60de888f869637e448054e43d94bb6d120333f13b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-183-1997",
+   "path": "hg/1997/183",
+   "short": "HG nr. 183/1997",
+   "title": "Hotărârea Guvernului nr. 183/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Blocuri de locuinţe S 10 şi S 11, zona Nord, municipiul Rîmnicu Vîlcea, judeţul Vîlcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11965",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11965",
+     "sha256": "97d4003c4cf441863f58f7ed547bf1419b7d48d1f04d9c33c3aacdc8765dfd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-187-1997",
+   "path": "hg/1997/187",
+   "short": "HG nr. 187/1997",
+   "title": "Hotărârea Guvernului nr. 187/1997 privind registrul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11982",
+   "versions": [
+    {
+     "from": "1997-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11982",
+     "sha256": "cb635a7d550b29291fe6f199d7be1b48e3f13c680c288c20ba08e460e4131b1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-191-1997",
    "path": "hg/1997/191",
    "short": "HG nr. 191/1997",
@@ -293,6 +338,111 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11999",
      "sha256": "37f79e8a4df6259a086b8e44becd5ae70d574ebc5e665fd1a1a213109d0c9b34"
+    }
+   ]
+  },
+  {
+   "slug": "hg-192-1997",
+   "path": "hg/1997/192",
+   "short": "HG nr. 192/1997",
+   "title": "Hotărârea Guvernului nr. 192/1997 privind utilizarea fondului de contrapartida constituit din contravaloarea, în moneda naţionala, a ajutoarelor acordate Guvernului României de către Comisia Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12003",
+   "versions": [
+    {
+     "from": "1997-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12003",
+     "sha256": "1c54b2d700a0ea476473e45b0286c7da70052497e4726914ae675a25d58452e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-194-1997",
+   "path": "hg/1997/194",
+   "short": "HG nr. 194/1997",
+   "title": "Hotărârea Guvernului nr. 194/1997 pentru modificarea Regulamentului de organizare şi funcţionare a Oficiului Român pentru Drepturile de Autor şi a corpului de arbitri, aprobat prin Hotărârea Guvernului nr. 60/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12012",
+   "versions": [
+    {
+     "from": "1997-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12012",
+     "sha256": "29f26bc823efe34efccfdee4808744076ee42fe75be7f7b474a278ff4a8c3e14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-195-1997",
+   "path": "hg/1997/195",
+   "short": "HG nr. 195/1997",
+   "title": "Hotărârea Guvernului nr. 195/1997 pentru completarea Hotărârii Guvernului nr. 498/1991 privind salarizarea personalului Regiei Autonome \"Zirom\" Giurgiu, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12016",
+   "versions": [
+    {
+     "from": "1997-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12016",
+     "sha256": "f2cc3a6de5e232b2e3f7a124658ca86a854a6e9d252b0d2f978a40a6cc52c045"
+    }
+   ]
+  },
+  {
+   "slug": "hg-196-1997",
+   "path": "hg/1997/196",
+   "short": "HG nr. 196/1997",
+   "title": "Hotărârea Guvernului nr. 196/1997 privind exceptarea temporară de la plata taxelor vamale a unor produse din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12020",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12020",
+     "sha256": "692e1b9a882f2b23242a8cac424af8c365bfdd677c48899cd563f86c532eb631"
+    }
+   ]
+  },
+  {
+   "slug": "hg-197-1997",
+   "path": "hg/1997/197",
+   "short": "HG nr. 197/1997",
+   "title": "Hotărârea Guvernului nr. 197/1997 privind reorganizarea Spitalului Clinic \"Dr. N. Gh. Lupu\" din municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12025",
+   "versions": [
+    {
+     "from": "1997-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12025",
+     "sha256": "6b041418b43abb1791f6ac529f6124d71b6caec82ed9c2697f2a490546696fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-200-1997",
+   "path": "hg/1997/200",
+   "short": "HG nr. 200/1997",
+   "title": "Hotărârea Guvernului nr. 200/1997 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 393/1992 privind trecerea unor construcţii hidrotehnice în administrarea Regiei Autonome \"Administraţia Portului Constanţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12037",
+   "versions": [
+    {
+     "from": "1997-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12037",
+     "sha256": "b9974eb5141f2ad41008406b138edb2336213855f6e2169053b6e18657950186"
+    }
+   ]
+  },
+  {
+   "slug": "hg-206-1997",
+   "path": "hg/1997/206",
+   "short": "HG nr. 206/1997",
+   "title": "Hotărârea Guvernului nr. 206/1997 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Republicii Ungare privind crearea Comisiei mixte interguvernamentale de colaborare şi parteneriat activ între România şi Republica Ungara, semnat la Budapesta la 12 martie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12061",
+   "versions": [
+    {
+     "from": "1997-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12061",
+     "sha256": "65d9969faabda6fb7f40ec96c923debe7a497e35ad93cd5bb1dce4a68b5ff6e8"
     }
    ]
   },
@@ -312,6 +462,246 @@
    ]
   },
   {
+   "slug": "hg-210-1997",
+   "path": "hg/1997/210",
+   "short": "HG nr. 210/1997",
+   "title": "Hotărârea Guvernului nr. 210/1997 privind aprobarea Regulamentului de organizare şi funcţionare a Comisiei Centrale pentru Apărarea împotriva Inundaţiilor, Fenomenelor Meteorologice Periculoase şi Accidentelor la Construcţiile Hidrotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12078",
+   "versions": [
+    {
+     "from": "1997-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12078",
+     "sha256": "5ffcb202edf33d86c992d349d6bc15709c507559a540d4314264d9c8059ca968"
+    }
+   ]
+  },
+  {
+   "slug": "hg-211-1997",
+   "path": "hg/1997/211",
+   "short": "HG nr. 211/1997",
+   "title": "Hotărârea Guvernului nr. 211/1997 privind abrogarea unor hotărâri ale Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12083",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12083",
+     "sha256": "8b147a167b2917688c2306460e8e57f63f931ce36b35e10fa980f52ef9f15d76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-213-1997",
+   "path": "hg/1997/213",
+   "short": "HG nr. 213/1997",
+   "title": "Hotărârea Guvernului nr. 213/1997 pentru aprobarea Acordului de colaborare interdepartamentala în domeniul arhivistic între Arhivele Naţionale ale României şi Arhivele Iugoslaviei, semnat la Bucureşti la 10 octombrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12093",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12093",
+     "sha256": "30260f3d19f8823a6a8ccb6b43a0fac393f76e2269f8603841c6e1c560141856"
+    }
+   ]
+  },
+  {
+   "slug": "hg-214-1997",
+   "path": "hg/1997/214",
+   "short": "HG nr. 214/1997",
+   "title": "Hotărârea Guvernului nr. 214/1997 pentru aprobarea Acordului de colaborare interdepartamentala în domeniul arhivistic dintre Arhivele Naţionale ale României şi Arhivele Naţionale din Ungaria, semnat la Bucureşti la 8 noiembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12098",
+   "versions": [
+    {
+     "from": "1997-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12098",
+     "sha256": "ce6d147f29137b30b2565ed0c1f44e6b3838f3255f83369c73cdf691cc84c4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hg-217-1997",
+   "path": "hg/1997/217",
+   "short": "HG nr. 217/1997",
+   "title": "Hotărârea Guvernului nr. 217/1997 privind aprobarea Procesului-verbal al celei de-a douăzeci şi noua sesiuni ordinare a Comisiei mixte pentru reconstituirea şi marcarea frontierei de stat româno-iugoslave, semnat la Kladovo la 28 noiembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12110",
+   "versions": [
+    {
+     "from": "1997-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12110",
+     "sha256": "309cb55556be2328269e46afc602ae54bb878930a2edcb62a1651dd5575a049c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-218-1997",
+   "path": "hg/1997/218",
+   "short": "HG nr. 218/1997",
+   "title": "Hotărârea Guvernului nr. 218/1997 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12115",
+   "versions": [
+    {
+     "from": "1997-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12115",
+     "sha256": "68d6de493e4444bc9e93c5fc42c8d9bec8ae930d04d20f6dcd8f2778ca7bcf52"
+    }
+   ]
+  },
+  {
+   "slug": "hg-219-1997",
+   "path": "hg/1997/219",
+   "short": "HG nr. 219/1997",
+   "title": "Hotărârea Guvernului nr. 219/1997 privind transmiterea unor imobile situate în oraşul Sovata, judeţul Mureş, în administrarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12119",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12119",
+     "sha256": "e5dd534f5b67387d962811dca84d5741accb6d11d057833ed66d327cc38ab1de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-220-1997",
+   "path": "hg/1997/220",
+   "short": "HG nr. 220/1997",
+   "title": "Hotărârea Guvernului nr. 220/1997 privind dizolvarea Societăţii Comerciale \"Mureşul\" Şoimuş - S.A., judeţul Hunedoara, şi trecerea patrimoniului acesteia la Ministerul Justiţiei - Direcţia generală a penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12123",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12123",
+     "sha256": "f39ed5596a40653a4a443a435812b8f2a36bce015fc387fef89ace372afddc4b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-223-1997",
+   "path": "hg/1997/223",
+   "short": "HG nr. 223/1997",
+   "title": "Hotărârea Guvernului nr. 223/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în comuna Stîlpeni, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12133",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12133",
+     "sha256": "07ed09736a0444f2547b77ac49774523f25e5c6f5f90bc1cc1690d5fafb466de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-224-1997",
+   "path": "hg/1997/224",
+   "short": "HG nr. 224/1997",
+   "title": "Hotărârea Guvernului nr. 224/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în comuna Asau, judeţul Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12136",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12136",
+     "sha256": "49a056ef52e0b72123dc1c0c2c062f032ca5a7784ddc681dd1ce78d3412c4da2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1997",
+   "path": "hg/1997/225",
+   "short": "HG nr. 225/1997",
+   "title": "Hotărârea Guvernului nr. 225/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa şi canalizarea satului Urisor, comuna Căşeiu, judeţul Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12139",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12139",
+     "sha256": "a6093269e48b66d52a6fed0b8dfe3af63bd8a2459a9467c3cbe22f497f425304"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-1997",
+   "path": "hg/1997/226",
+   "short": "HG nr. 226/1997",
+   "title": "Hotărârea Guvernului nr. 226/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu gaze naturale a comunei Harman şi a satului Podu Oltului, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12142",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12142",
+     "sha256": "c62004df53d26c778727da90e3ac475a653cabd838b48e2acc1b0e702fdd9c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-228-1997",
+   "path": "hg/1997/228",
+   "short": "HG nr. 228/1997",
+   "title": "Hotărârea Guvernului nr. 228/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în oraşul Oraviţa, judeţul Caraş-Severin\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12150",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12150",
+     "sha256": "2c8a5bd2bec021e9749495ccafc4609f618b1cf53083af03499231b67c1d7af1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-1997",
+   "path": "hg/1997/229",
+   "short": "HG nr. 229/1997",
+   "title": "Hotărârea Guvernului nr. 229/1997 privind aprobarea indicatorilor de investiţii tehnico-economici ai obiectivului de investiţii \"Canalizare şi staţie de epurare Armeniş, Caraş-Severin\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12153",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12153",
+     "sha256": "7bb428ed5b98a641191dc5c73624dfd0dad1cce6a6d3da5f68cc4bc51194f091"
+    }
+   ]
+  },
+  {
+   "slug": "hg-230-1997",
+   "path": "hg/1997/230",
+   "short": "HG nr. 230/1997",
+   "title": "Hotărârea Guvernului nr. 230/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Amenajări şi consolidări tronsoane drumuri pe DJ 100 Otopeni-Tunari-Ştefăneşti-Afumaţi-Găneasa-Brăneşti, judeţul Ilfov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12157",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12157",
+     "sha256": "94161702b815bfa26249e4d6d68f4c1d0d025232131c3b819d433d20712cf00b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-231-1997",
+   "path": "hg/1997/231",
+   "short": "HG nr. 231/1997",
+   "title": "Hotărârea Guvernului nr. 231/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii \"Reabilitarea reţelelor de distribuţie apa potabilă în municipiul Alexandria\" şi \"Reabilitarea şi extinderea reţelelor de canalizare în municipiul Alexandria\", judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12160",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12160",
+     "sha256": "1b8036bc6ea380fc0b31dc37ff2638f87cef3c620dd12fa0955d6ea240e3ae4d"
+    }
+   ]
+  },
+  {
    "slug": "hg-233-1997",
    "path": "hg/1997/233",
    "short": "HG nr. 233/1997",
@@ -323,6 +713,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12167",
      "sha256": "b44b2d54fa1bfeee58bee331067e5badce1ddd501690b6f1ef7615958b3bbc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-235-1997",
+   "path": "hg/1997/235",
+   "short": "HG nr. 235/1997",
+   "title": "Hotărârea Guvernului nr. 235/1997 privind organizarea seminarului \"Dezvoltarea proiectelor regionale de infrastructura cu dimensiuni de securitate\" în perioada 26-27 mai 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12173",
+   "versions": [
+    {
+     "from": "1997-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12173",
+     "sha256": "c85670c6a8216393a223a5051bbf2d086ca036a2bb169ac0b32fe1ea87937016"
     }
    ]
   },
@@ -342,6 +747,21 @@
    ]
   },
   {
+   "slug": "hg-237-1997",
+   "path": "hg/1997/237",
+   "short": "HG nr. 237/1997",
+   "title": "Hotărârea Guvernului nr. 237/1997 privind deschiderea temporară a frontierei române, în zona Triplex Confinium, între localităţile Beba Veche - România, Kubekhaza - Ungaria şi Rabe - Iugoslavia pentru traficul de călători prilejuit de desfăşurarea manifestărilor cultural-sportive \"Porţi deschise\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12179",
+   "versions": [
+    {
+     "from": "1997-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12179",
+     "sha256": "8560e403e138d79ef52f21245f8fbd2412a480057bfbf1c0f22ea0462e03c04f"
+    }
+   ]
+  },
+  {
    "slug": "hg-238-1997",
    "path": "hg/1997/238",
    "short": "HG nr. 238/1997",
@@ -353,6 +773,66 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12182",
      "sha256": "787db81f1a5f95c0e690882b32e3335a57c4faff25340bb1e591da95246e9540"
+    }
+   ]
+  },
+  {
+   "slug": "hg-241-1997",
+   "path": "hg/1997/241",
+   "short": "HG nr. 241/1997",
+   "title": "Hotărârea Guvernului nr. 241/1997 privind transmiterea unor imobile, situate în judeţul Constanţa, în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12191",
+   "versions": [
+    {
+     "from": "1997-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12191",
+     "sha256": "766cef99026ad4c16430a56698405b8cc977d13cdca45b364d666ba1b9fb9d58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-243-1997",
+   "path": "hg/1997/243",
+   "short": "HG nr. 243/1997",
+   "title": "Hotărârea Guvernului nr. 243/1997 privind organizarea seminarului internaţional cu tema \"Perspectivele cooperării între ţările CEMN şi MERCOSUR\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12196",
+   "versions": [
+    {
+     "from": "1997-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12196",
+     "sha256": "5e7e05139f9894848e24c829699e3558f5ac2b6fff9232c3aca5734f33547642"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-1997",
+   "path": "hg/1997/247",
+   "short": "HG nr. 247/1997",
+   "title": "Hotărârea Guvernului nr. 247/1997 privind prelungirea activităţii Centrului de Consultanţa şi Servicii pentru Întreprinzătorii Particulari din Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12207",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12207",
+     "sha256": "73e2f94a0e208c1eb943a2a25f3b556139b66b5589fa76a4ac615d763e13ee81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-248-1997",
+   "path": "hg/1997/248",
+   "short": "HG nr. 248/1997",
+   "title": "Hotărârea Guvernului nr. 248/1997 privind suplimentarea subvenţiilor prevăzute în bugetul Secretariatului de Stat pentru Handicapaţi pentru Asociaţia Naţionala a Surzilor din România, în vederea participării la Jocurile Mondiale Tacute - Copenhaga 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12210",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12210",
+     "sha256": "087c2d37f3796361804934373d45212e9b15915b2198fed1221ec1c2e1b50413"
     }
    ]
   },
@@ -402,6 +882,51 @@
    ]
   },
   {
+   "slug": "hg-253-1997",
+   "path": "hg/1997/253",
+   "short": "HG nr. 253/1997",
+   "title": "Hotărârea Guvernului nr. 253/1997 privind aprobarea Acordului de finanţare nerambursabilă dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind studiul de fezabilitate pentru facilitarea transportului combinat în Portul Constanţa, semnat la Bucureşti la 17 septembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12225",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12225",
+     "sha256": "ca808014ac666d6076c637ede2ac053a3b01659ba3420ff8a7f52a7cfaff5cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-254-1997",
+   "path": "hg/1997/254",
+   "short": "HG nr. 254/1997",
+   "title": "Hotărârea Guvernului nr. 254/1997 pentru aprobarea Protocolului dintre Ministerul Lucrărilor Publice şi Amenajării Teritoriului din România şi Ministerul Dezvoltării Teritoriului, Construcţiilor şi Gospodăriei Comunale din Republica Moldova privind conlucrarea în domeniile lucrărilor publice, amenajării teritoriului şi gospodăriei comunale, semnat la Bucureşti la 18 martie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12228",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12228",
+     "sha256": "05fd571210d456866f36bf4ff811c61e9aa91518e6a812662080ae454a446ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-255-1997",
+   "path": "hg/1997/255",
+   "short": "HG nr. 255/1997",
+   "title": "Hotărârea Guvernului nr. 255/1997 privind transmiterea unui teren, proprietate publică a statului, situat în municipiul Tecuci, judeţul Galaţi, în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12231",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12231",
+     "sha256": "ce4127b6056d4b78b938847d7e8b788e994d7b9e44a44b1ab6229221d78800ed"
+    }
+   ]
+  },
+  {
    "slug": "hg-256-1997",
    "path": "hg/1997/256",
    "short": "HG nr. 256/1997",
@@ -417,6 +942,51 @@
    ]
   },
   {
+   "slug": "hg-257-1997",
+   "path": "hg/1997/257",
+   "short": "HG nr. 257/1997",
+   "title": "Hotărârea Guvernului nr. 257/1997 pentru completarea şi modificarea Hotărârii Guvernului nr. 642/1995 privind acordarea unei indemnizaţii lunare cadrelor didactice române care predau limba, literatura şi civilizaţia românească în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12237",
+   "versions": [
+    {
+     "from": "1997-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12237",
+     "sha256": "0894e9bea0d690f86b6d84c1af69e71b7cf02ca9f1642c4f4202cc83aa44ee71"
+    }
+   ]
+  },
+  {
+   "slug": "hg-258-1997",
+   "path": "hg/1997/258",
+   "short": "HG nr. 258/1997",
+   "title": "Hotărârea Guvernului nr. 258/1997 privind transmiterea unei părţi din imobilul proprietate publică a statului, situat în judeţul Galaţi, în administrarea Consiliului Judeţean Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12240",
+   "versions": [
+    {
+     "from": "1997-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12240",
+     "sha256": "0838a923a4317edcca7747a1ac1df193d7cb922a6c5366c5bb1f429f9b916a62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-259-1997",
+   "path": "hg/1997/259",
+   "short": "HG nr. 259/1997",
+   "title": "Hotărârea Guvernului nr. 259/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea reţelelor de apa în oraşul Pucioasa, judeţul Dîmboviţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12243",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12243",
+     "sha256": "a0418088549ce4823ed449886a899b8ab96aa92374279ea6989d3a3030b1c936"
+    }
+   ]
+  },
+  {
    "slug": "hg-26-1997",
    "path": "hg/1997/26",
    "short": "HG nr. 26/1997",
@@ -428,6 +998,36 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11124",
      "sha256": "e1c34eeaf26ea21cba377ad88cefbecc6b94490e812aabb39731b6812b7121cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-260-1997",
+   "path": "hg/1997/260",
+   "short": "HG nr. 260/1997",
+   "title": "Hotărârea Guvernului nr. 260/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunei Altina, judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12246",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12246",
+     "sha256": "8a49e0539ccbe4a8f8a4dd898cc55bec0ca74690310e54a93c8dfcaec034c964"
+    }
+   ]
+  },
+  {
+   "slug": "hg-261-1997",
+   "path": "hg/1997/261",
+   "short": "HG nr. 261/1997",
+   "title": "Hotărârea Guvernului nr. 261/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în comuna Chinţeni, judeţul Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12249",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12249",
+     "sha256": "74118909d67167fbf7b9d8ec146e77a26a8b341f79af4a73420e6ad06edf9ca1"
     }
    ]
   },

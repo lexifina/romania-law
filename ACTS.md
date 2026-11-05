@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12612 acts, 24,127 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12616 acts, 24,131 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8484, of which 3210 amending acts)
+## Laws (legi) (8487, of which 3212 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -422,6 +422,8 @@
 | Legea nr. 62/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/1997 privind constituirea, la dispoziţia Ministerului Agriculturii şi Alimentaţiei, a fondului pentru finanţarea lucrărilor agricole | [`lege/1997/62/`](lege/1997/62/) | amended, not consolidated | 1 | 1997-04-23 | 1997-04-23 |
 | Legea nr. 65/1997 pentru modificarea şi completarea Legii nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată | [`lege/1997/65/`](lege/1997/65/) | amended, not consolidated | 1 | 1997-04-24 | 1997-04-24 |
 | Legea nr. 69/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 3/1997 privind produsele şi serviciile regiilor autonome, ale activităţilor cu caracter de monopol natural, precum şi ale activităţilor economice supuse unui regim special pentru care preţurile şi tarifele se vor stabili cu avizul Oficiului Concurentei | [`lege/1997/69/`](lege/1997/69/) | amended, not consolidated | 1 | 1997-04-29 | 1997-04-29 |
+| Legea nr. 73/1997 privind acordarea unei compensaţii băneşti pentru acoperirea creşterii preţului pâinii, în perioada aprilie - septembrie 1997 | [`lege/1997/73/`](lege/1997/73/) | in force | 1 | 1997-05-12 | 1997-05-12 |
+| Legea nr. 74/1997 privind aprobarea Ordonanţei Guvernului nr. 3/1997 pentru ratificarea Acordului de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996, şi a Acordului de împrumut (Proiectul de reabilitare a drumurilor II) dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor, semnat la Luxemburg la 23 octombrie 1996 şi la Bucureşti la 25 octombrie 1996 | [`lege/1997/74/`](lege/1997/74/) | amending act | 1 | 1997-05-12 | 1997-05-12 |
 | Legea nr. 78/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1996 cu privire la rectificarea bugetului de stat pe anul 1996 | [`lege/1997/78/`](lege/1997/78/) | amended, not consolidated | 1 | 1997-05-12 | 1997-05-12 |
 | Legea nr. 79/1997 | [`lege/1997/79/`](lege/1997/79/) | in force | 1 | 1997-05-12 | 1997-05-12 |
 | Legea nr. 80/1997 | [`lege/1997/80/`](lege/1997/80/) | in force | 3 | 1997-05-14 | 2006-06-24 |
@@ -433,6 +435,7 @@
 | Legea nr. 89/1997 privind aprobarea Ordonanţei Guvernului nr. 38/1996 pentru modificarea şi completarea Legii nr. 64/1995 privind procedura reorganizării şi lichidării judiciare | [`lege/1997/89/`](lege/1997/89/) | amended, not consolidated | 1 | 1997-05-30 | 1997-05-30 |
 | Legea nr. 90/1997 pentru ratificarea Acordului prin care s-a convenit aderarea României la Acordul central european de comerţ liber (C.E.F.T.A.), Cracovia, 21 decembrie 1992, semnat la Bucureşti la 12 aprilie 1997 | [`lege/1997/90/`](lege/1997/90/) | amended, not consolidated | 1 | 1997-05-30 | 1997-05-30 |
 | Legea nr. 91/1997 privind aprobarea Ordonanţei Guvernului nr. 6/1997 pentru aprobarea menţinerii valorii cotei de participare a României la capitalul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare, vărsată în moneda naţionala şi existenta în contul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare la Banca Naţionala a României la data de 30 iunie a fiecărui an precedent | [`lege/1997/91/`](lege/1997/91/) | amended, not consolidated | 1 | 1997-06-04 | 1997-06-04 |
+| Legea nr. 94/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1997 privind prelungirea termenului de depunere a bilanţurilor contabile ale agenţilor economici, pe anul 1996 | [`lege/1997/94/`](lege/1997/94/) | amending act | 1 | 1997-06-04 | 1997-06-04 |
 | Legea nr. 95/1997 privind declararea complexului "Memorialul victimelor comunismului şi al rezistentei Sighet" ca ansamblu de interes naţional | [`lege/1997/95/`](lege/1997/95/) | amended, not consolidated | 1 | 1997-06-12 | 1997-06-12 |
 | Legea nr. 96/1997 pentru aprobarea Ordonanţei Guvernului nr. 27/1996 privind acordarea de facilităţi persoanelor care domiciliază sau lucrează în unele localităţi din Munţii Apuseni şi în Rezervaţia Biosferei "Delta Dunării" | [`lege/1997/96/`](lege/1997/96/) | amending act | 1 | 1997-06-10 | 1997-06-10 |
 | Legea nr. 97/1997 pentru aprobarea Ordonanţei Guvernului nr. 30/1996 privind reglementarea participaţiilor statului la Fondul Monetar Internaţional şi modul de regularizare a influentelor financiare rezultate din tranzacţiile cu Fondul Monetar Internaţional | [`lege/1997/97/`](lege/1997/97/) | amended, not consolidated | 1 | 1997-06-10 | 1997-06-10 |
@@ -8522,7 +8525,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2931, of which 676 amending acts)
+## Emergency ordinances (OUG) (2932, of which 676 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8535,6 +8538,7 @@
 | Ordonanța de urgență a Guvernului nr. 17/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`oug/1997/17/`](oug/1997/17/) | amended, not consolidated | 1 | 1997-05-15 | 1997-05-15 |
 | Ordonanța de urgență a Guvernului nr. 23/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1994 privind drepturile de hrana, în timp de pace, ale personalului din sectorul de apărare naţionala, ordine publică şi siguranţă naţionala | [`oug/1997/23/`](oug/1997/23/) | amended, not consolidated | 1 | 1997-06-04 | 1997-06-04 |
 | Ordonanța de urgență a Guvernului nr. 25/1997 | [`oug/1997/25/`](oug/1997/25/) | repealed 2005-01-01 | 3 | 1997-06-12 | 2005-01-01 |
+| Ordonanța de urgență a Guvernului nr. 27/1997 privind derularea împrumutului de euroobligaţiuni în mărci germane | [`oug/1997/27/`](oug/1997/27/) | in force | 1 | 1997-06-10 | 1997-06-10 |
 | Ordonanța de urgență a Guvernului nr. 28/1997 | [`oug/1997/28/`](oug/1997/28/) | in force | 2 | 1997-06-10 | 1997-12-10 |
 | Ordonanța de urgență a Guvernului nr. 29/1997 privind autorizarea Băncii Naţionale a României pentru efectuarea unor operaţiuni pe piaţa monetară | [`oug/1997/29/`](oug/1997/29/) | amended, not consolidated | 1 | 1997-06-09 | 1997-06-09 |
 | Ordonanța de urgență a Guvernului nr. 30/1997 privind reorganizarea regiilor autonome | [`oug/1997/30/`](oug/1997/30/) | amended, not consolidated | 1 | 1997-06-19 | 1997-06-19 |
@@ -12678,7 +12682,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29563 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29603 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

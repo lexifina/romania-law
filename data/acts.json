@@ -6564,6 +6564,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11438"
 },
 {
+"slug": "legea-73-1997",
+"path": "lege/1997/73",
+"kind": "lege",
+"year": "1997",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 73/1997 privind acordarea unei compensaţii băneşti pentru acoperirea creşterii preţului pâinii, în perioada aprilie - septembrie 1997",
+"short": "Legea nr. 73/1997",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-05-12",
+"latest": "1997-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11463"
+},
+{
+"slug": "legea-74-1997",
+"path": "lege/1997/74",
+"kind": "lege",
+"year": "1997",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 74/1997 privind aprobarea Ordonanţei Guvernului nr. 3/1997 pentru ratificarea Acordului de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996, şi a Acordului de împrumut (Proiectul de reabilitare a drumurilor II) dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor, semnat la Luxemburg la 23 octombrie 1996 şi la Bucureşti la 25 octombrie 1996",
+"short": "Legea nr. 74/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-05-12",
+"latest": "1997-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11467"
+},
+{
 "slug": "legea-78-1997",
 "path": "lege/1997/78",
 "kind": "lege",
@@ -6749,6 +6783,23 @@
 "from": "1997-06-04",
 "latest": "1997-06-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11564"
+},
+{
+"slug": "legea-94-1997",
+"path": "lege/1997/94",
+"kind": "lege",
+"year": "1997",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 94/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1997 privind prelungirea termenului de depunere a bilanţurilor contabile ale agenţilor economici, pe anul 1996",
+"short": "Legea nr. 94/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-06-04",
+"latest": "1997-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11581"
 },
 {
 "slug": "legea-95-1997",
@@ -144398,6 +144449,23 @@
 "from": "1997-06-12",
 "latest": "2005-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11122"
+},
+{
+"slug": "oug-27-1997",
+"path": "oug/1997/27",
+"kind": "oug",
+"year": "1997",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 27/1997 privind derularea împrumutului de euroobligaţiuni în mărci germane",
+"short": "OUG nr. 27/1997",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-06-10",
+"latest": "1997-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11140"
 },
 {
 "slug": "oug-28-1997",

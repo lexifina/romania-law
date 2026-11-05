@@ -190826,6 +190826,21 @@
    ]
   },
   {
+   "slug": "legea-73-1997",
+   "path": "lege/1997/73",
+   "short": "Legea nr. 73/1997",
+   "title": "Legea nr. 73/1997 privind acordarea unei compensaţii băneşti pentru acoperirea creşterii preţului pâinii, în perioada aprilie - septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11463",
+   "versions": [
+    {
+     "from": "1997-05-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11463",
+     "sha256": "11230a5b29c5bf1dedea960ee088da87c0a2770369be97136c278614ea4525e1"
+    }
+   ]
+  },
+  {
    "slug": "legea-73-2001",
    "path": "lege/2001/73",
    "short": "Legea nr. 73/2001",
@@ -191227,6 +191242,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4299",
      "sha256": "ed74ebd4a904696f9a3d2d8eb9004d9ce7dabc8f5ab859e42c0d64a507c1fdbd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-74-1997",
+   "path": "lege/1997/74",
+   "short": "Legea nr. 74/1997",
+   "title": "Legea nr. 74/1997 privind aprobarea Ordonanţei Guvernului nr. 3/1997 pentru ratificarea Acordului de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996, şi a Acordului de împrumut (Proiectul de reabilitare a drumurilor II) dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor, semnat la Luxemburg la 23 octombrie 1996 şi la Bucureşti la 25 octombrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11467",
+   "versions": [
+    {
+     "from": "1997-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11467",
+     "sha256": "6bcc3e3648b5d91ef5ef29bf514c91f418e74cbc70f8dfdc8a255efcc3ddac73"
     }
    ]
   },
@@ -199360,6 +199390,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298936",
      "sha256": "e87f843dad31d1886ad12c5a71e50f40a7b74dea520d7b1212947679888b99ac"
+    }
+   ]
+  },
+  {
+   "slug": "legea-94-1997",
+   "path": "lege/1997/94",
+   "short": "Legea nr. 94/1997",
+   "title": "Legea nr. 94/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1997 privind prelungirea termenului de depunere a bilanţurilor contabile ale agenţilor economici, pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11581",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11581",
+     "sha256": "e56fe01941ed767f4f907dbfe4192c2047b661076a5f35de31e026d2047400c4"
     }
    ]
   },
@@ -234718,6 +234763,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25559",
      "sha256": "ad9a8c551cc31495e7ac6bdc4cab6fad0f3b5d540243429f3387b4e12b30e163"
+    }
+   ]
+  },
+  {
+   "slug": "oug-27-1997",
+   "path": "oug/1997/27",
+   "short": "OUG nr. 27/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 27/1997 privind derularea împrumutului de euroobligaţiuni în mărci germane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11140",
+   "versions": [
+    {
+     "from": "1997-06-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11140",
+     "sha256": "24a644b4f28bb26ebdef727762f191fae648292b2dacbc3554d26991d759c4b6"
     }
    ]
   },
