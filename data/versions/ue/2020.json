@@ -468,6 +468,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1044-2020",
+   "path": "ue/regulament/2020/1044",
+   "short": "Regulamentul delegat CELEX 32020R1044",
+   "title": "Regulamentul delegat (UE) 2020/1044 al Comisiei din 8 mai 2020 de completare a Regulamentului (UE) 2018/1999 al Parlamentului European și al Consiliului în ceea ce privește valorile potențialului de încălzire globală și orientările privind inventarierea, precum și sistemul de inventariere al Uniunii și de abrogare a Regulamentului delegat (UE) nr. 666/2014 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1044",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/065fd143-c7fc-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "62bb5bd9b144e04e321e92b4fc1d9f379698ae13eed63a2f5e3afc646536a3cb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1054-2020",
    "path": "ue/regulament/2020/1054",
    "short": "Regulamentul (UE) 2020/1054",
@@ -513,6 +528,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-1058-2020",
+   "path": "ue/regulament/2020/1058",
+   "short": "Regulamentul delegat CELEX 32020R1058",
+   "title": "Regulamentul delegat (UE) 2020/1058 al Comisiei din 27 aprilie 2020 de modificare a Regulamentului delegat (UE) 2019/945 în ceea ce privește introducerea a două noi clase de sisteme de aeronave fără pilot la bord",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1058",
+   "versions": [
+    {
+     "from": "2020-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62ddd8a8-ca4d-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c057a26124f418ea327b1d459e3e5b6548791faa5835d9fc6c587ffee1d74639"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1059-2020",
+   "path": "ue/regulament/2020/1059",
+   "short": "Regulamentul delegat CELEX 32020R1059",
+   "title": "Regulamentul delegat (UE) 2020/1059 al Comisiei din 27 aprilie 2020 de rectificare a anumitor versiuni lingvistice ale Regulamentelor delegate (UE) nr. 1059/2010, (UE) nr. 1060/2010, (UE) nr. 1061/2010, (UE) nr. 1062/2010, (UE) nr. 626/2011, (UE) nr. 392/2012 și (UE) nr. 874/2012 în ceea ce privește etichetarea anumitor produse cu impact energetic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1059",
+   "versions": [
+    {
+     "from": "2020-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b646b0cd-ca4d-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "39293236ef8d7c9dd83e72ac44e4000992e3ad51b2ec96a36125e68aba5214b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1068-2020",
+   "path": "ue/regulament/2020/1068",
+   "short": "Regulamentul delegat CELEX 32020R1068",
+   "title": "Regulamentul delegat (UE) 2020/1068 al Comisiei din 15 mai 2020 de modificare a anexelor I și V la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1068",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e399877f-cb16-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c88efdccbf947e1ee142bd3f4eeaf02cce0d40f3cfe49d543bac91c65cc8e1ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1069-2020",
+   "path": "ue/regulament/2020/1069",
+   "short": "Regulamentul delegat CELEX 32020R1069",
+   "title": "Regulamentul delegat (UE) 2020/1069 al Comisiei din 19 iunie 2020 de modificare a Regulamentului delegat (UE) nr. 877/2013 al Comisiei de completare a Regulamentului (UE) nr. 473/2013 al Parlamentului European și al Consiliului privind dispozițiile comune pentru monitorizarea și evaluarea proiectelor de planuri bugetare și pentru asigurarea corectării deficitelor excesive ale statelor membre din zona euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1069",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10377ef0-cb17-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7b218195ef65eee20aaeff84660a5b0309dca51dfb2d87d8d4163ae37d24d5c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1083-2020",
+   "path": "ue/regulament/2020/1083",
+   "short": "Regulamentul delegat CELEX 32020R1083",
+   "title": "Regulamentul delegat (UE) 2020/1083 al Comisiei din 14 mai 2020 de completare a Regulamentului (UE) 2019/517 al Parlamentului European și al Consiliului prin stabilirea criteriilor de eligibilitate și de selecție și a procedurii de desemnare a registrului pentru numele de domeniu de nivel superior .eu (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1083",
+   "versions": [
+    {
+     "from": "2020-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75426c75-cd70-11ea-adf7-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "af974232f758911a6d7d14d7b693c0ffeb55e7fab941e83d4d7acc88588f00a0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1085-2020",
    "path": "ue/regulament/2020/1085",
    "short": "Regulamentul (UE) 2020/1085",
@@ -524,6 +614,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/365fd508-cd71-11ea-adf7-01aa75ed71a1.0019.02/DOC_1",
      "sha256": "5829de3b291bf01f9efdd8b6ad1091325bbe5ea837cea16c987e2f3164f1a33c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-11-2020",
+   "path": "ue/regulament/2020/11",
+   "short": "Regulamentul delegat CELEX 32020R0011",
+   "title": "Regulamentul delegat (UE) 2020/11 al Comisiei din 29 octombrie 2019 de modificare a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, în ceea ce privește informațiile referitoare la răspunsul în situații de urgență privind sănătatea (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0011",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c07f99a-3376-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "025b995ba31689f44867b05c34540e6dc61a2ea580f22fa9c75617383bb54db4"
     }
    ]
   },
@@ -543,6 +648,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1118-2020",
+   "path": "ue/regulament/2020/1118",
+   "short": "Regulamentul delegat CELEX 32020R1118",
+   "title": "Regulamentul delegat (UE) 2020/1118 al Comisiei din 27 aprilie 2020 de modificare a Regulamentului (CE) nr. 785/2004 al Parlamentului European și al Consiliului privind cerințele de asigurare a operatorilor de transport aerian și a operatorilor de aeronave",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1118",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88727a92-d164-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0b38df4e9d9e176214d2de52686b5b4630d3ccd70994930192085e1f3ec849aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1138-2020",
+   "path": "ue/regulament/2020/1138",
+   "short": "Regulamentul delegat CELEX 32020R1138",
+   "title": "Regulamentul delegat (UE) 2020/1138 al Comisiei din 27 mai 2020 de modificare a Regulamentului (UE) 2016/1076 al Parlamentului European și al Consiliului pentru a include Insulele Solomon în anexa I",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1138",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db9c738f-d2f7-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "372010680b99990c8b6f596d2cf489b10481836a1d9c42ae246a0b6054ecbece"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1149-2020",
    "path": "ue/regulament/2020/1149",
    "short": "Regulamentul (UE) 2020/1149",
@@ -554,6 +689,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5098033d-d618-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7f3b2254c228c3771a9a0c1b97e701cfa8dc79f928246705bc0651df1540f2bc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1173-2020",
+   "path": "ue/regulament/2020/1173",
+   "short": "Regulamentul delegat CELEX 32020R1173",
+   "title": "Regulamentul delegat (UE) 2020/1173 al Comisiei din 4 iunie 2020 de modificare a Regulamentului (UE) 2016/1036 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Uniunii Europene și a Regulamentului (UE) 2016/1037 privind protecția împotriva importurilor care fac obiectul unor subvenții din partea țărilor care nu sunt membre ale Uniunii Europene în ceea ce privește perioada de informare prealabilă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1173",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/302fcb95-dad1-11ea-adf7-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "608893d5636dc1d2a7d13cc582ddc143db804b170a5a68a1398f4ab3530385ec"
     }
    ]
   },
@@ -573,6 +723,156 @@
    ]
   },
   {
+   "slug": "ue-regulament-1182-2020",
+   "path": "ue/regulament/2020/1182",
+   "short": "Regulamentul delegat CELEX 32020R1182",
+   "title": "Regulamentul delegat (UE) 2020/1182 al Comisiei din 19 mai 2020 de modificare, în vederea adaptării la progresul tehnic și științific, a părții 3 a anexei VI la Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1182",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4dc636e-db91-11ea-adf7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2e941f1b92cf4e6b498d706bb3682d5a4fbf17671b038942fb54332c88b4ea86"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1203-2020",
+   "path": "ue/regulament/2020/1203",
+   "short": "Regulamentul delegat CELEX 32020R1203",
+   "title": "Regulamentul delegat (UE) 2020/1203 al Comisiei din 9 iunie 2020 de modificare a anexei I la Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului în ceea ce privește rubrica referitoare la acidul perfluoroctan sulfonic și derivații săi (PFOS) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1203",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0259d6a4-e11b-11ea-ad25-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9720221516dddb681cfaf36623b375636405492b2fa6362790409d22e8a2189b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1204-2020",
+   "path": "ue/regulament/2020/1204",
+   "short": "Regulamentul delegat CELEX 32020R1204",
+   "title": "Regulamentul delegat (UE) 2020/1204 al Comisiei din 9 iunie 2020 de modificare a anexei I la Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului în ceea ce privește includerea în listă a dicofolului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1204",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a7aa6d7-e11b-11ea-ad25-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d1f792b726e74804161afb683658d54455cdf6565607912f425a2f1570f2c90a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1212-2020",
+   "path": "ue/regulament/2020/1212",
+   "short": "Regulamentul delegat CELEX 32020R1212",
+   "title": "Regulamentul delegat (UE) 2020/1212 al Comisiei din 8 mai 2020 de modificare a Regulamentului delegat (UE) 2018/1229 al Comisiei de completare a Regulamentului (UE) nr. 909/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la disciplina în materie de decontare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1212",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5944c00c-e5cf-11ea-ad25-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ef249ce9b1744683b8bdb928e2ce28f9e944d7dfa3aff4fbd889dc7e0d0d1d0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1226-2020",
+   "path": "ue/regulament/2020/1226",
+   "short": "Regulamentul delegat CELEX 32020R1226",
+   "title": "Regulamentul delegat (UE) 2020/1226 al Comisiei din 12 noiembrie 2019 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului și de stabilire a unor standarde tehnice de reglementare care precizează informațiile care trebuie furnizate în conformitate cu cerințele privind notificarea STS (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1226",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e39d6d2-edb1-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dcee4b936a14fc176c8797b8daeb68da726ddbbf2edd1ffd112a75e59b810fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2020",
+   "path": "ue/regulament/2020/1229",
+   "short": "Regulamentul delegat CELEX 32020R1229",
+   "title": "Regulamentul delegat (UE) 2020/1229 al Comisiei din 29 noiembrie 2019 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la standardele operaționale aplicabile registrelor centrale de securitizări pentru colectarea, agregarea, compararea datelor, accesul la date și verificarea caracterului complet și a coerenței datelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1229",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20bcff37-edb2-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "493e44fec3522416d5d7eea00736e997d747daffbd533f4485ca30fb0488cc7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1230-2020",
+   "path": "ue/regulament/2020/1230",
+   "short": "Regulamentul delegat CELEX 32020R1230",
+   "title": "Regulamentul delegat (UE) 2020/1230 al Comisiei din 29 noiembrie 2019 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează detaliile cererii de înregistrare a unui registru central de securitizări și detaliile cererii simplificate de extindere a înregistrării unui registru central de tranzacții (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1230",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/453d2c98-edb2-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b1cf9adeea01b6b1454f0c3ae8f8eccd8a629ad002b437b9bedf2a459dfe48f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1234-2020",
+   "path": "ue/regulament/2020/1234",
+   "short": "Regulamentul delegat CELEX 32020R1234",
+   "title": "Regulamentul delegat (UE) 2020/1234 al Comisiei din 9 iunie 2020 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește condițiile și procedurile aplicabile declarațiilor organizațiilor responsabile cu furnizarea de servicii de administrare a platformei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1234",
+   "versions": [
+    {
+     "from": "2020-09-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e79768d-eb51-11ea-b3c6-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d7b90c4226c475ba0b3b058d2513fbbd783d9ebbf99eb4cb625f970e12a3f0c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1238-2020",
+   "path": "ue/regulament/2020/1238",
+   "short": "Regulamentul delegat CELEX 32020R1238",
+   "title": "Regulamentul delegat (UE) 2020/1238 al Comisiei din 17 iunie 2020 de modificare a Regulamentului delegat (UE) 2017/40 în ceea ce privește evaluarea punerii în aplicare a programului de încurajare a consumului de fructe, legume și lapte în școli",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1238",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5abb4e07-ec1e-11ea-b3c6-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fc7faf8b7f03bbac2246de79bf93bcc45fdec5d435b33917d2bc48a794f7e6d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-124-2020",
+   "path": "ue/regulament/2020/124",
+   "short": "Regulamentul delegat CELEX 32020R0124",
+   "title": "Regulamentul delegat (UE) 2020/124 al Comisiei din 15 octombrie 2019 de completare a Regulamentului (UE) 2019/833 al Parlamentului European și al Consiliului de instituire a unor măsuri de conservare și executare care se aplică în zona de reglementare a Organizației de Pescuit în Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0124",
+   "versions": [
+    {
+     "from": "2020-02-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11c29bd8-494c-11ea-b81b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ae3f39503986b9e4c63f6d4ad0f66fcb8a2059171fb8706ee4d72c90901b1b95"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1245-2020",
    "path": "ue/regulament/2020/1245",
    "short": "Regulamentul (UE) 2020/1245",
@@ -584,6 +884,141 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/55eb5fee-edaf-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "aa05d5a1668218d5a96b38c472de51dc8998a3aa7cdfda1b2208ba60d23bad8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1272-2020",
+   "path": "ue/regulament/2020/1272",
+   "short": "Regulamentul delegat CELEX 32020R1272",
+   "title": "Regulamentul delegat (UE) 2020/1272 al Comisiei din 4 iunie 2020 de modificare și de rectificare a Regulamentului delegat (UE) 2019/979 de completare a Regulamentului (UE) 2017/1129 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la informațiile financiare esențiale din rezumatul prospectului, publicarea și clasificarea prospectelor, comunicările cu caracter publicitar privind valorile mobiliare, suplimentele la prospect și portalul pentru notificări (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1272",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e3de52f-f65a-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2de7a32ee2a3dba8e88ee06e1fe26d0bf73c30ccd357e9681fb0c1b899899233"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1273-2020",
+   "path": "ue/regulament/2020/1273",
+   "short": "Regulamentul delegat CELEX 32020R1273",
+   "title": "Regulamentul delegat (UE) 2020/1273 al Comisiei din 4 iunie 2020 de modificare și rectificare a Regulamentului delegat (UE) 2019/980 de completare a Regulamentului (UE) 2017/1129 al Parlamentului European și al Consiliului în ceea ce privește formatul, conținutul, verificarea și aprobarea prospectului care trebuie publicat în cazul unei oferte publice de valori mobiliare sau al admiterii de valori mobiliare la tranzacționare pe o piață reglementată (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1273",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75c251e1-f65a-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d93b56ef0a993ea6efc016f7f7b15ba77e1f21b5b91326cde28f52cada5f8a2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1275-2020",
+   "path": "ue/regulament/2020/1275",
+   "short": "Regulamentul delegat CELEX 32020R1275",
+   "title": "Regulamentul delegat (UE) 2020/1275 al Comisiei din 6 iulie 2020 de modificare a Regulamentului delegat (UE) 2020/592 privind măsuri excepționale temporare de derogare de la anumite dispoziții ale Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în vederea abordării perturbării pieței în sectorul fructelor și legumelor și în sectorul vitivinicol, provocată de pandemia de COVID-19 și de măsurile legate de aceasta",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1275",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df4c2465-f65a-11ea-991b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86edccd4b19b9145e42407055630d85abb0dceee75bbfca137a64f6c5ee253d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-128-2020",
+   "path": "ue/regulament/2020/128",
+   "short": "Regulamentul delegat CELEX 32020R0128",
+   "title": "Regulamentul delegat (UE) 2020/128 al Comisiei din 25 noiembrie 2019 de modificare a anexei II la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0128",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15e6fb83-43fc-11ea-b81b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "82c1b318a0c9ccdcb68d4b067741f47df65f546bafe846e05c22d89066bd8dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-129-2020",
+   "path": "ue/regulament/2020/129",
+   "short": "Regulamentul delegat CELEX 32020R0129",
+   "title": "Regulamentul Delegat (UE) 2020/129 al Comisiei din 26 noiembrie 2019 de modificare a pragului de vulnerabilitate stabilit la punctul 1 litera (b) din anexa VII la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0129",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5541a917-43fb-11ea-b81b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a3a0aa1171dbcbc9a8cf64d6eb303c4d95ac6eebead880797dca45726a6bba87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1298-2020",
+   "path": "ue/regulament/2020/1298",
+   "short": "Regulamentul delegat CELEX 32020R1298",
+   "title": "Regulamentul delegat (UE) 2020/1298 al Comisiei din 13 iulie 2020 de modificare a anexei la Regulamentul (UE) 2019/452 al Parlamentului European și al Consiliului de stabilire a unui cadru pentru examinarea investițiilor străine directe în Uniune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1298",
+   "versions": [
+    {
+     "from": "2020-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f09166ee-f98c-11ea-b44f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "35be9b1c0e9aa395dd2a49f31c2213faa6ccb3c17f868c8c21204b4fdf6bf317"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1302-2020",
+   "path": "ue/regulament/2020/1302",
+   "short": "Regulamentul delegat CELEX 32020R1302",
+   "title": "Regulamentul delegat (UE) 2020/1302 al Comisiei din 14 iulie 2020 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește taxele percepute de Autoritatea Europeană pentru Valori Mobiliare și Piețe de la contrapărțile centrale stabilite în țări terțe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1302",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e2eb91c-fbce-11ea-b44f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "54d436775b5736cb4e9c9e4f9a3d62329072ec9edb5399376fd4ee9e2cd88446"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1303-2020",
+   "path": "ue/regulament/2020/1303",
+   "short": "Regulamentul delegat CELEX 32020R1303",
+   "title": "Regulamentul delegat (UE) 2020/1303 al Comisiei din 14 iulie 2020 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește criteriile pe care ESMA ar trebui să le ia în considerare pentru a stabili dacă o contraparte centrală stabilită într-o țară terță este importantă din punct de vedere sistemic sau este probabil să devină importantă din punct de vedere sistemic pentru stabilitatea financiară a Uniunii sau a unuia ori mai multor state membre ale acesteia (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1303",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/737dcbae-fbce-11ea-b44f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "83a277069778a2527c2a3eb9f5e89c1884dd69ae6962e950ea413d65adb49f31"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1304-2020",
+   "path": "ue/regulament/2020/1304",
+   "short": "Regulamentul delegat CELEX 32020R1304",
+   "title": "Regulamentul delegat (UE) 2020/1304 al Comisiei din 14 iulie 2020 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește elementele minime care trebuie evaluate de ESMA atunci când evaluează cererile CPC din țări terțe pentru acordarea statutului de conformitate comparabilă, precum și modalitățile și condițiile evaluării respective (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1304",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/988ccb90-fbce-11ea-b44f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bc460ffd16b9ad30fdc65ed848825ce211f24e75cea87e821c2b1025fb89d142"
     }
    ]
   },
@@ -618,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1413-2020",
+   "path": "ue/regulament/2020/1413",
+   "short": "Regulamentul delegat CELEX 32020R1413",
+   "title": "Regulamentul delegat (UE) 2020/1413 al Comisiei din 29 iunie 2020 de rectificare a versiunii în limba suedeză a anexei I la Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1413",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4ddcdc96-0922-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8bb89171ce76b70a90941d4b4848b4197d7e1c20bab2ea863c5c983b812e6ec7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1419-2020",
    "path": "ue/regulament/2020/1419",
    "short": "Regulamentul (UE) 2020/1419",
@@ -629,6 +1079,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dce3b30f-0922-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2a914d8a3c98572f1e450542a2c1769cec45c876a22acf557bb6062cdd9397e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1423-2020",
+   "path": "ue/regulament/2020/1423",
+   "short": "Regulamentul delegat CELEX 32020R1423",
+   "title": "Regulamentul delegat (UE) 2020/1423 al Comisiei din 14 martie 2019 privind completarea Directivei (UE) 2015/2366 a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la criteriile de desemnare a punctelor centrale de contact în domeniul serviciilor de plată și la funcțiile acestor puncte centrale de contact (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1423",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d860706a-09ed-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8458276b1f1fd9e24ed84f93c1cc0aac9ff21b3f81d21eaa2045073b61f3d96f"
     }
    ]
   },
@@ -648,6 +1113,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1432-2020",
+   "path": "ue/regulament/2020/1432",
+   "short": "Regulamentul delegat CELEX 32020R1432",
+   "title": "Regulamentul delegat (UE) 2020/1432 al Comisiei din 14 iulie 2020 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlurilor variabilelor pentru domeniul statisticilor privind utilizarea tehnologiilor informației și comunicațiilor pentru anul de referință 2021 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1432",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e37450eb-0c50-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d3fe15bf04d843ff022aa3393c806e3abf948f19ec3a4607a5460f361bf650e1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1474-2020",
    "path": "ue/regulament/2020/1474",
    "short": "Regulamentul (UE) 2020/1474",
@@ -659,6 +1139,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f2bdbbf3-0de3-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "8b84ccda6abb4dd8ca236a4f2ac5c3ef81dfdc173b0b059aa08dfb2202ee6095"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1477-2020",
+   "path": "ue/regulament/2020/1477",
+   "short": "Regulamentul delegat CELEX 32020R1477",
+   "title": "Regulamentul delegat (UE) 2020/1477 al Comisiei din 14 octombrie 2020 de modificare a Regulamentului (CEE) nr. 95/93 al Consiliului în ceea ce privește prelungirea temporară a măsurilor excepționale pentru a face față consecințelor pandemiei de COVID-19 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1477",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/29fbe632-0eac-11eb-bc07-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e25cc7cc18cc38f7ea33fa2270b90c100a68297e7d775e03ce36914baf2e99f7"
     }
    ]
   },
@@ -738,6 +1233,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1564-2020",
+   "path": "ue/regulament/2020/1564",
+   "short": "Regulamentul delegat CELEX 32020R1564",
+   "title": "Regulamentul delegat (UE) 2020/1564 al Comisiei din 6 august 2020 de modificare a Regulamentului delegat (UE) 2018/985 în ceea ce privește dispozițiile sale tranzitorii pentru a aborda impactul crizei provocate de COVID-19",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1564",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f814c51e-18e5-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "448bf62fe602b3b65eb4e1356822b592975607cbc61a587b1ead7bba56320007"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1565-2020",
    "path": "ue/regulament/2020/1565",
    "short": "Regulamentul (UE) 2020/1565",
@@ -768,6 +1278,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1569-2020",
+   "path": "ue/regulament/2020/1569",
+   "short": "Regulamentul delegat CELEX 32020R1569",
+   "title": "Regulamentul delegat (UE) 2020/1569 al Comisiei din 23 iulie 2020 de modificare a anexei I la Regulamentul (UE) nr. 692/2011 al Parlamentului European și al Consiliului în ceea ce privește clasificarea țărilor de reședință ale vizitatorilor cazați în unități de cazare turistică în contextul retragerii Regatului Unit din Uniune (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1569",
+   "versions": [
+    {
+     "from": "2020-10-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/032bb091-19b2-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9b4aafcb8b797a7956a49afeeab5cbb6456dc6b3874696253f9b647f2419ffde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1588-2020",
+   "path": "ue/regulament/2020/1588",
+   "short": "Regulamentul delegat CELEX 32020R1588",
+   "title": "Regulamentul delegat (UE) 2020/1588 al Comisiei din 25 iunie 2020 de modificare a anexei I la Regulamentul (UE) 2017/821 al Parlamentului European și al Consiliului prin stabilirea unor praguri de volum pentru minereurile de tantal sau niobiu și concentratele lor, minereurile de aur și concentratele lor, oxizii și hidroxizii de staniu, tantalați și carburile de tantal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1588",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7b1f15c-1a79-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dd363ea5b2e82cea50efc5317daa3067b185784ea9344217220b373650c24c0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1590-2020",
+   "path": "ue/regulament/2020/1590",
+   "short": "Regulamentul delegat CELEX 32020R1590",
+   "title": "Regulamentul delegat (UE) 2020/1590 al Comisiei din 19 august 2020 de modificare a anexei I la Regulamentul (UE) 2019/631 al Parlamentului European și al Consiliului pentru a ține seama de evoluția masei vehiculelor utilitare ușoare noi înmatriculate în 2016, 2017 și 2018 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1590",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3f29bd6-1a7a-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d70ea9e4e6926b040cb351c253dbbd074a735bd9ab1a4bdfe83d4c2fff9b9b63"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1593-2020",
    "path": "ue/regulament/2020/1593",
    "short": "Regulamentul (UE) 2020/1593",
@@ -779,6 +1334,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a6f16787-1a7b-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2526d3318a7b4fdb4a203a1d7333ee73cf7951cc637585a19a11ea97291c8a42"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1625-2020",
+   "path": "ue/regulament/2020/1625",
+   "short": "Regulamentul delegat CELEX 32020R1625",
+   "title": "Regulamentul delegat (UE) 2020/1625 al Comisiei din 25 august 2020 de modificare a Regulamentului delegat (UE) 2019/2035 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele pentru unitățile care dețin animale terestre și incubatoare, precum și pentru trasabilitatea anumitor animale terestre deținute și a ouălor pentru incubație (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1625",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a62e2594-1e6e-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d1b6c757e09dc62c3c6e04b127def0a2c621e2e56724d9d9eda9459e82e1d8d2"
     }
    ]
   },
@@ -798,6 +1368,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1640-2020",
+   "path": "ue/regulament/2020/1640",
+   "short": "Regulamentul delegat CELEX 32020R1640",
+   "title": "Regulamentul delegat (UE) 2020/1640 al Comisiei din 12 august 2020 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlului variabilelor pentru subiectul ad hoc „competențe profesionale” 2022 și ale variabilelor colectate o dată la opt ani privind „pensia și participarea pe piața muncii” în domeniul forței de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1640",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bd11684d-2002-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1db8c973fbb413129a7452f7a906476f6e95a5e2fb520276490e24feb1149719"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1666-2020",
    "path": "ue/regulament/2020/1666",
    "short": "Regulamentul (UE) 2020/1666",
@@ -809,6 +1394,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c4bb2aec-23e7-11eb-b57e-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "e5e5a9aac33115c677e9b6dd81d6df7e59001cf39232a7ac742b0e0ac48ef924"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1676-2020",
+   "path": "ue/regulament/2020/1676",
+   "short": "Regulamentul delegat CELEX 32020R1676",
+   "title": "Regulamentul delegat (UE) 2020/1676 al Comisiei din 31 august 2020 de modificare a articolului 25 din Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, în ceea ce privește vopselele personalizate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1676",
+   "versions": [
+    {
+     "from": "2020-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62c27f84-257f-11eb-9d7e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "45698e9830193d86b7fac63acbc79204a155e52102146c09c95ecfc7c2e7d13d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1677-2020",
+   "path": "ue/regulament/2020/1677",
+   "short": "Regulamentul delegat CELEX 32020R1677",
+   "title": "Regulamentul delegat (UE) 2020/1677 al Comisiei din 31 august 2020 de modificare a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor în vederea îmbunătățirii funcționalității cerințelor privind informațiile referitoare la răspunsul în situații de urgență privind sănătatea (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1677",
+   "versions": [
+    {
+     "from": "2020-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/994b38d8-257f-11eb-9d7e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d0ad3c6d28953f0d22f780feaefa4d97cc154b2e4535b1b1f4fa02b8c802fa05"
     }
    ]
   },
@@ -948,6 +1563,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1732-2020",
+   "path": "ue/regulament/2020/1732",
+   "short": "Regulamentul delegat CELEX 32020R1732",
+   "title": "Regulamentul delegat (UE) 2020/1732 al Comisiei din 18 septembrie 2020 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește taxele aplicate registrelor centrale de securitizări de către Autoritatea Europeană pentru Valori Mobiliare și Piețe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1732",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b179747-2b04-11eb-9d7e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bcb5f76f75729b1601b1270b352576178a5d2315dba7a995c96bdf833fed828e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1737-2020",
+   "path": "ue/regulament/2020/1737",
+   "short": "Regulamentul delegat CELEX 32020R1737",
+   "title": "Regulamentul delegat (UE) 2020/1737 al Comisiei din 14 iulie 2020 de modificare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului în ceea ce privește includerea anumitor precursori ai drogurilor în lista substanțelor clasificate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1737",
+   "versions": [
+    {
+     "from": "2020-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4fa684db-2d62-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "33516e5db648a7e5c956bac3a103b13b18ef54a31943d3cdde090f59c7b1b301"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1751-2020",
    "path": "ue/regulament/2020/1751",
    "short": "Regulamentul (UE) 2020/1751",
@@ -1023,6 +1668,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1794-2020",
+   "path": "ue/regulament/2020/1794",
+   "short": "Regulamentul delegat CELEX 32020R1794",
+   "title": "Regulamentul delegat (UE) 2020/1794 al Comisiei din 16 septembrie 2020 de modificare a părții I din anexa II la Regulamentul (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește utilizarea materialului de reproducere a plantelor neecologic și în conversie (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1794",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b35f677-339f-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c349a2dac5b26121a2cb7fe686d0e5c6fa97b0b8da466f13ac096ca9862c355a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1816-2020",
+   "path": "ue/regulament/2020/1816",
+   "short": "Regulamentul delegat CELEX 32020R1816",
+   "title": "Regulamentul delegat (UE) 2020/1816 al Comisiei din 17 iulie 2020 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește explicația din declarația privind indicii de referință a modului în care se reflectă factorii de mediu, sociali și de guvernanță în fiecare indice de referință furnizat și publicat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1816",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df4cafc6-352c-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "56303485bce2acb005ad00faecfa36cb4e982ff6a04e9a773033d61ac628b7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1817-2020",
+   "path": "ue/regulament/2020/1817",
+   "short": "Regulamentul delegat CELEX 32020R1817",
+   "title": "Regulamentul delegat (UE) 2020/1817 al Comisiei din 17 iulie 2020 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește conținutul minim al explicației modului în care se reflectă factorii de mediu, sociali și de guvernanță în metodologia de elaborare a indicilor de referință (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1817",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/041f42e9-352d-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6d7d860437f922728b19fbb5b854963e0d2c0b329fb6fa71ed080ea0cb1f7bb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1818-2020",
+   "path": "ue/regulament/2020/1818",
+   "short": "Regulamentul delegat CELEX 32020R1818",
+   "title": "Regulamentul delegat (UE) 2020/1818 al Comisiei din 17 iulie 2020 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele minime pentru indicii UE de referință pentru activitățile de tranziție climatică și indicii UE de referință aliniați la Acordul de la Paris",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1818",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f2b019a-352d-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cdc96802fc969cb7c4bfe018da158f155b3ebbe2861dc7a5c75a8fdff94d2367"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1819-2020",
    "path": "ue/regulament/2020/1819",
    "short": "Regulamentul (UE) 2020/1819",
@@ -1049,6 +1754,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ca441f10-4e30-11ea-aece-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "ef729adf756d549027d0fb7869a3a87dd23f8510b4338c6cad082ed148b7bdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1987-2020",
+   "path": "ue/regulament/2020/1987",
+   "short": "Regulamentul delegat CELEX 32020R1987",
+   "title": "Regulamentul delegat (UE) 2020/1987 al Comisiei din 14 iulie 2020 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului și a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește constituirea și eliberarea garanțiilor în cadrul gestionării contingentelor tarifare pe baza ordinii cronologice a depunerii cererilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1987",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c1dc8ca-3de0-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9ec22673e4fbd7986676112638d97a56e2bb1ef5dc1d590acbf54b341d96a6b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1989-2020",
+   "path": "ue/regulament/2020/1989",
+   "short": "Regulamentul delegat CELEX 32020R1989",
+   "title": "Regulamentul delegat (UE) 2020/1989 al Comisiei din 6 noiembrie 2020 de modificare a Regulamentului delegat (UE) 2019/815 în ceea ce privește actualizarea din 2020 a taxonomiei prevăzute în standardele tehnice de reglementare pentru formatul de raportare electronic unic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1989",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ebdb499-40d3-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0c6ca1679ed8daea0aba082955d35a42786bd0e7ca98697bf856fadd2c6dee73"
     }
    ]
   },
@@ -1109,6 +1844,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0b6047fd-3b7a-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5ea4ad314fd959468142a19ae10e3e457348625e2b657706a1eaa0654f4427a1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2012-2020",
+   "path": "ue/regulament/2020/2012",
+   "short": "Regulamentul delegat CELEX 32020R2012",
+   "title": "Regulamentul delegat (UE) 2020/2012 al Comisiei din 5 august 2020 de modificare a Regulamentului delegat (UE) 2018/161 de stabilire a unei excepții de minimis de la obligația de debarcare pentru anumite activități de pescuit de specii pelagice mici în Marea Mediterană, în ceea ce privește perioada de aplicare a acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2012",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d3b1f48-3ab1-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a69876e500c959123b2e7098e82dcb87b7d991af02dbffff22632c5522698ca1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2013-2020",
+   "path": "ue/regulament/2020/2013",
+   "short": "Regulamentul delegat CELEX 32020R2013",
+   "title": "Regulamentul delegat (UE) 2020/2013 al Comisiei din 21 august 2020 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește măsurile tehnice pentru anumite activități de pescuit de specii pelagice și demersale din Marea Nordului și din apele de sud-vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2013",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e2f2a6a-3ab1-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "171589e761be664f65dc73d77f52ee5acb4e1739b6e4ac9662a06c52336e1b51"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-203-2020",
+   "path": "ue/regulament/2020/203",
+   "short": "Regulamentul delegat CELEX 32020R0203",
+   "title": "Regulamentul Delegat (UE) 2020/203 al Comisiei din 28 noiembrie 2019 privind clasificarea vehiculelor, obligațiile utilizatorilor serviciului european de taxare rutieră electronică, cerințele privind elementele constitutive de interoperabilitate și criteriile minime de eligibilitate pentru organismele notificate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0203",
+   "versions": [
+    {
+     "from": "2020-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f809127-515d-11ea-aece-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "61a4623527108e03f49a902e6101f48346e712454bce81dcd76dd576e6ab0446"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2034-2020",
+   "path": "ue/regulament/2020/2034",
+   "short": "Regulamentul delegat CELEX 32020R2034",
+   "title": "Regulamentul delegat (UE) 2020/2034 al Comisiei din 6 octombrie 2020 de completare a Regulamentului (UE) nr. 376/2014 al Parlamentului European și al Consiliului în ceea ce privește sistemul european comun de clasificare în funcție de risc (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2034",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d64bad84-3b78-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cf2cbad72ff67b4734f1d95e44b3b0fa53d9b157c3239e1871874c48b6c859a8"
     }
    ]
   },
@@ -1203,6 +1998,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2114-2020",
+   "path": "ue/regulament/2020/2114",
+   "short": "Regulamentul delegat CELEX 32020R2114",
+   "title": "Regulamentul delegat (UE) 2020/2114 al Comisiei din 16 decembrie 2020 de modificare a Regulamentului (CE) nr. 1008/2008 al Parlamentului European și al Consiliului în ceea ce privește prelungirea temporară a măsurilor excepționale pentru a face față consecințelor pandemiei de COVID-19 referitoare la selectarea furnizorului de servicii de handling la sol (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2114",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68904be4-403a-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b9e4d25fdac628e4e5ffec8c3cbe2c21f0f268db854ce3f38517294d360a4088"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2115-2020",
+   "path": "ue/regulament/2020/2115",
+   "short": "Regulamentul delegat CELEX 32020R2115",
+   "title": "Regulamentul delegat (UE) 2020/2115 al Comisiei din 16 decembrie 2020 de modificare a Regulamentului (CE) nr. 1008/2008 al Parlamentului European și al Consiliului în ceea ce privește prelungirea temporară a măsurilor excepționale pentru a face față consecințelor pandemiei de COVID-19 referitoare la licențele de operare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2115",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9854b0a5-403a-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ff8260d9db9894d7009662cf184e38340c6a9d4a455d752de0f84c692bd2fef1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-213-2020",
    "path": "ue/regulament/2020/213",
    "short": "Regulamentul (UE) 2020/213",
@@ -1214,6 +2039,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5583162e-5235-11ea-aece-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "d4c3c7660e7ffc3bfd7edcf13d2b70ac3fb2f425bbf6589252bd5e863a9dc84a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2145-2020",
+   "path": "ue/regulament/2020/2145",
+   "short": "Regulamentul delegat CELEX 32020R2145",
+   "title": "Regulamentul delegat (UE) 2020/2145 al Comisiei din 1 septembrie 2020 de modificare a Regulamentului delegat (UE) nr. 876/2013 al Comisiei de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește modificări ale componenței, funcționării și gestionării colegiilor pentru contrapărțile centrale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2145",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cbb536a4-40d3-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "065240cde6507c3a76f201b1459f2b5ee38768569005d96b6d157893b18de477"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2146-2020",
+   "path": "ue/regulament/2020/2146",
+   "short": "Regulamentul delegat CELEX 32020R2146",
+   "title": "Regulamentul delegat (UE) 2020/2146 al Comisiei din 24 septembrie 2020 de completare a Regulamentului (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește normele de producție excepționale referitoare la producția ecologică (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2146",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10e43e1e-40d4-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a5879c9b30a24e68be2d20c953f70ae1b66fb6d00e5c7a92f3e26e6b4d6f67b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2147-2020",
+   "path": "ue/regulament/2020/2147",
+   "short": "Regulamentul delegat CELEX 32020R2147",
+   "title": "Regulamentul delegat (UE) 2020/2147 al Comisiei din 8 octombrie 2020 de completare a Regulamentului (UE) 2019/516 al Parlamentului European și al Consiliului prin definirea listei de aspecte care trebuie abordate în cadrul fiecărui ciclu de verificare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2147",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4531d483-40d4-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8ad92b0b074b6e8a68d5489d9fd7e2a8ffbc3764a36b6084612fb259a74a03a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2148-2020",
+   "path": "ue/regulament/2020/2148",
+   "short": "Regulamentul delegat CELEX 32020R2148",
+   "title": "Regulamentul delegat (UE) 2020/2148 al Comisiei din 8 octombrie 2020 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește siguranța pistelor și datele aeronautice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2148",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d60ead7-40d4-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e8b502ca171355f7d5068d6803d8c412e91d5105f9b3911788fc340fef6785cb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2153-2020",
+   "path": "ue/regulament/2020/2153",
+   "short": "Regulamentul delegat CELEX 32020R2153",
+   "title": "Regulamentul delegat (UE) 2020/2153 al Comisiei din 14 octombrie 2020 de modificare a Regulamentului (UE) 2017/1939 al Consiliului în ceea ce privește categoriile de date operaționale cu caracter personal și categoriile de persoane vizate ale căror date operaționale cu caracter personal pot fi prelucrate în indexul dosarelor de către Parchetul European",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2153",
+   "versions": [
+    {
+     "from": "2021-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f6445a5-432e-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "816ac119ba5a9413e0ad3a626b6d0390867cde74b63979f07ed39e3f8e95c860"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2154-2020",
+   "path": "ue/regulament/2020/2154",
+   "short": "Regulamentul delegat CELEX 32020R2154",
+   "title": "Regulamentul delegat (UE) 2020/2154 al Comisiei din 14 octombrie 2020 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește cerințele de sănătate animală, de certificare și de notificare privind circulația în interiorul Uniunii a produselor de origine animală provenite de la animale terestre (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2154",
+   "versions": [
+    {
+     "from": "2021-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b70f998-432e-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "420b0dbbb7c592557052ecef4379070b3391f9480a1beb4dee191f6e3c2ff0e5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2155-2020",
+   "path": "ue/regulament/2020/2155",
+   "short": "Regulamentul delegat CELEX 32020R2155",
+   "title": "Regulamentul delegat (UE) 2020/2155 al Comisiei din 14 octombrie 2020 de completare a Directivei 2010/31/UE a Parlamentului European și a Consiliului prin instituirea unui sistem comun opțional al Uniunii Europene privind evaluarea gradului de pregătire pentru soluții inteligente a clădirilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2155",
+   "versions": [
+    {
+     "from": "2021-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a75ba69b-432e-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c28048f2daa9c82a1ca7c75f6ed94b2b22390e8f43550de81ceb7bb44c460181"
     }
    ]
   },
@@ -1233,6 +2163,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-217-2020",
+   "path": "ue/regulament/2020/217",
+   "short": "Regulamentul delegat CELEX 32020R0217",
+   "title": "Regulamentul delegat (UE) 2020/217 al Comisiei din 4 octombrie 2019 de modificare, în vederea adaptării la progresul tehnic și științific, a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor și de rectificare a regulamentului menționat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0217",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96067e93-522f-11ea-aece-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f51a93afd2c4f15d863dfc9261de6c92b039343d3cd97f154c0c768e7842e0b8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2170-2020",
    "path": "ue/regulament/2020/2170",
    "short": "Regulamentul (UE) 2020/2170",
@@ -1244,6 +2189,126 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2fe97ec3-432e-11eb-b27b-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "437fc5c4c08f0b3bf066ac075b96f76b6759ef6fcf8e365bfc693ae8c9c7690d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2173-2020",
+   "path": "ue/regulament/2020/2173",
+   "short": "Regulamentul delegat CELEX 32020R2173",
+   "title": "Regulamentul delegat (UE) 2020/2173 al Comisiei din 16 octombrie 2020 de modificare a anexelor I, II și III la Regulamentul (UE) 2019/631 al Parlamentului European și al Consiliului pentru a actualiza parametrii de monitorizare și a clarifica anumite aspecte legate de modificarea procedurii reglementare de testare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2173",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b95bbf03-43f8-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fa4b8a14913f0dfcbe2a3582440a35f611c69463f048ba7e9cdffd03e3ce18bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2175-2020",
+   "path": "ue/regulament/2020/2175",
+   "short": "Regulamentul delegat CELEX 32020R2175",
+   "title": "Regulamentul delegat (UE) 2020/2175 al Comisiei din 20 octombrie 2020 de modificare a Regulamentului delegat (UE) 2020/256 de stabilire a unui program continuu multianual",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2175",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10b61ca9-43f9-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fd29e9ba7f541355b4fb9bde51aa1db5f8c30686d960d3384db2713fda83e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2176-2020",
+   "path": "ue/regulament/2020/2176",
+   "short": "Regulamentul delegat CELEX 32020R2176",
+   "title": "Regulamentul delegat (UE) 2020/2176 al Comisiei din 12 noiembrie 2020 de modificare a Regulamentului delegat (UE) nr. 241/2014 în ceea ce privește deducerea activelor informatice din elementele de fonduri proprii de nivel 1 de bază (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2176",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48d0727d-43f9-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "249fb0ecf8ffe118dabab65dcb5383352f2e99cd30509cd32c46b33e76780b8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2180-2020",
+   "path": "ue/regulament/2020/2180",
+   "short": "Regulamentul delegat CELEX 32020R2180",
+   "title": "Regulamentul delegat (UE) 2020/2180 al Comisiei din 18 decembrie 2020 de prelungire a perioadei de referință prevăzute în Regulamentul (UE) 2020/1429 al Parlamentului European și al Consiliului de stabilire a unor măsuri pentru o piață feroviară durabilă în contextul epidemiei de COVID-19 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2180",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/020096e9-43fa-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "19c3aff3314efe33737b0772a92711bf1415aea6a4424ad0ccbd46d540961d42"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2190-2020",
+   "path": "ue/regulament/2020/2190",
+   "short": "Regulamentul delegat CELEX 32020R2190",
+   "title": "Regulamentul delegat (UE) 2020/2190 al Comisiei din 29 octombrie 2020 de modificare a Regulamentului delegat (UE) 2019/2124 în ceea ce privește controalele oficiale la punctul de inspecție la frontieră prin care bunurile părăsesc Uniunea și anumite dispoziții privind tranzitul și transbordarea (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2190",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c77bf024-44c0-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fc2e2f314441a14719666937181045b35d5dae73f566a3fc9996e898b8969932"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2191-2020",
+   "path": "ue/regulament/2020/2191",
+   "short": "Regulamentul delegat CELEX 32020R2191",
+   "title": "Regulamentul delegat (UE) 2020/2191 al Comisiei din 20 noiembrie 2020 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește termenele de depunere a declarațiilor sumare de intrare și a declarațiilor prealabile la ieșire în cazul transportului pe cale maritimă din și către Regatul Unit al Marii Britanii și Irlandei de Nord, Insulele Anglo-Normande și Insula Man",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2191",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4229a26-44c0-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b5ed6db2c5a739d24d4e08a352260e16b6a58e818b61d9d821dcdbd810ae2c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2192-2020",
+   "path": "ue/regulament/2020/2192",
+   "short": "Regulamentul delegat CELEX 32020R2192",
+   "title": "Regulamentul delegat (UE) 2020/2192 al Comisiei din 7 decembrie 2020 de modificare a anexei II la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului în ceea ce privește marca de identificare care trebuie utilizată pentru anumite produse de origine animală în Regatul Unit în ceea ce privește Irlanda de Nord (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2192",
+   "versions": [
+    {
+     "from": "2020-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/316b142a-44c1-11eb-b59f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9ec4b19225084050bd2d9def29d216793598a82688fc12a051990eaf3dac715a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-22-2020",
+   "path": "ue/regulament/2020/22",
+   "short": "Regulamentul delegat CELEX 32020R0022",
+   "title": "Regulamentul delegat (UE) 2020/22 al Comisiei din 31 octombrie 2019 de modificare a anexelor I și III la Regulamentul (UE) 2019/631 al Parlamentului European și al Consiliului în ceea ce privește monitorizarea emisiilor de CO2 generate de vehiculele utilitare ușoare noi omologate de tip într-un proces cu mai multe etape (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0022",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08dec8b5-36b5-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "83521701014f913cbfbf53463466f40469d56e25ba165e95fad30d0bbd13bbef"
     }
    ]
   },
@@ -1304,6 +2369,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9442e2de-48af-11eb-b59f-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "dc3e05361d9af6443da5ab10ab56b81bb42633767d3e343963e0e7aedb28bf8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-256-2020",
+   "path": "ue/regulament/2020/256",
+   "short": "Regulamentul delegat CELEX 32020R0256",
+   "title": "Regulamentul delegat (UE) 2020/256 al Comisiei din 16 decembrie 2019 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin stabilirea unui program continuu multianual (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0256",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f5a6a15a-5869-11ea-8b81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "419fe7dac19f9d9973bf7c014ab9fb4f682e8b6414d537f041b89ded66f639bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-257-2020",
+   "path": "ue/regulament/2020/257",
+   "short": "Regulamentul delegat CELEX 32020R0257",
+   "title": "Regulamentul delegat (UE) 2020/257 al Comisiei din 16 decembrie 2019 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin precizarea numărului și a titlului variabilelor pentru domeniul forței de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0257",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d5500ae-586a-11ea-8b81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a45ef0ef1f0b9a53428035f903438a345390cd0ce543f27e8eef07661fa98bc0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-258-2020",
+   "path": "ue/regulament/2020/258",
+   "short": "Regulamentul delegat CELEX 32020R0258",
+   "title": "REGULAMENTUL DELEGAT (UE) 2020/258 AL COMISIEI din 16 decembrie 2019 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlurilor variabilelor pentru domeniul venitului și condițiilor de viață (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0258",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84e6b040-586a-11ea-8b81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f39ef8e8e50e64e735afb3bb2c71a90cb9f9009268b130e27e112e43c4f638c5"
     }
    ]
   },
@@ -1443,6 +2553,126 @@
    ]
   },
   {
+   "slug": "ue-regulament-411-2020",
+   "path": "ue/regulament/2020/411",
+   "short": "Regulamentul delegat CELEX 32020R0411",
+   "title": "Regulamentul delegat (UE) 2020/411 al Comisiei din 19 noiembrie 2019 de modificare a Directivei 2009/45/CE a Parlamentului European și a Consiliului privind normele și standardele de siguranță pentru navele de pasageri în ceea ce privește cerințele de siguranță pentru navele de pasageri angajate în curse interne (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0411",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80ec5f9c-69ab-11ea-b735-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0f25c19a01aae65fc101c8a33ed93f50ad3d2e6e9db7a7a57d9557cb9961156a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-419-2020",
+   "path": "ue/regulament/2020/419",
+   "short": "Regulamentul delegat CELEX 32020R0419",
+   "title": "Regulamentul delegat (UE) 2020/419 al Comisiei din 30 ianuarie 2020 de derogare de la Regulamentul delegat (UE) 2016/1149 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește programele naționale de sprijin în sectorul vitivinicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0419",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2ad4bd4-6a79-11ea-b735-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2cb3325a7dca69006db1ccc932e6390c9cd6a0241830664b1bdb5c9b6b4049b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-427-2020",
+   "path": "ue/regulament/2020/427",
+   "short": "Regulamentul delegat CELEX 32020R0427",
+   "title": "Regulamentul delegat (UE) 2020/427 al Comisiei din 13 ianuarie 2020 de modificare a anexei II la Regulamentul (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește anumite norme de producție detaliate pentru produsele ecologice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0427",
+   "versions": [
+    {
+     "from": "2020-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac2f4ab4-6ccc-11ea-b735-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bb8924a7e791bd41fadbce8f8025353895b9509940fec5e80b086e7c5c4f93b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-442-2020",
+   "path": "ue/regulament/2020/442",
+   "short": "Regulamentul delegat CELEX 32020R0442",
+   "title": "Regulamentul delegat (UE) 2020/442 al Comisiei din 17 decembrie 2019 de rectificare a Regulamentului delegat (UE) 2015/35 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0442",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa9a5886-6f2b-11ea-b735-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c2e7582ce077a2570852871a97f76d4d06b62736d607d4c2dc1f043caf0116b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-445-2020",
+   "path": "ue/regulament/2020/445",
+   "short": "Regulamentul delegat CELEX 32020R0445",
+   "title": "Regulamentul delegat (UE) 2020/445 al Comisiei din 15 octombrie 2019 de modificare a anexei II la Regulamentul (UE) nr. 516/2014 al Parlamentului European și al Consiliului de instituire a Fondului pentru azil, migrație și integrare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0445",
+   "versions": [
+    {
+     "from": "2020-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15dcefa0-6ff6-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ab68cdd4880a4faa0788a1df7f4f3833a889f0b94c606608e528ae523c2f0e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-446-2020",
+   "path": "ue/regulament/2020/446",
+   "short": "Regulamentul delegat CELEX 32020R0446",
+   "title": "Regulamentul delegat (UE) 2020/446 al Comisiei din 15 octombrie 2019 de modificare a anexei II la Regulamentul (UE) nr. 515/2014 al Parlamentului European și al Consiliului de instituire, în cadrul Fondului pentru securitate internă, a instrumentului de sprijin financiar pentru frontiere externe și vize",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0446",
+   "versions": [
+    {
+     "from": "2020-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42522961-6ff6-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "98bf3cbd45a1a1c6490b36a219a4299d466fd233f5ee726a3ad071df40de99b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-447-2020",
+   "path": "ue/regulament/2020/447",
+   "short": "Regulamentul delegat CELEX 32020R0447",
+   "title": "Regulamentul delegat (UE) 2020/447 al Comisiei din 16 decembrie 2019 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare de precizare a criteriilor pentru stabilirea măsurilor de atenuare în mod corespunzător a riscului de credit al contrapărții asociat obligațiunilor garantate și securitizărilor și de modificare a Regulamentelor delegate (UE) 2015/2205 și (UE) 2016/1178 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0447",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abba4314-6ff6-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bdc17f22aca62e239875815e9274b74b6b7e79a0e9d050475d045adb1ba415a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-448-2020",
+   "path": "ue/regulament/2020/448",
+   "short": "Regulamentul delegat CELEX 32020R0448",
+   "title": "Regulamentul delegat (UE) 2020/448 al Comisiei din 17 decembrie 2019 de modificare a Regulamentului delegat (UE) 2016/2251 în ceea ce privește precizarea tratamentului aplicat contractelor derivate extrabursiere având legătură cu anumite securitizări simple, transparente și standardizate în scopuri de acoperire a riscului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0448",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dea95ae5-6ff6-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86a5a0b401e57d87485cbb6efd8341f967e00dbc61a41e0d83142daf0f6cec2e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-459-2020",
    "path": "ue/regulament/2020/459",
    "short": "Regulamentul (UE) 2020/459",
@@ -1484,6 +2714,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/36f0bd41-7317-11ea-a07e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "e3800b100a8d6e5b59f7cfc2107c505d8296c712c4157f7b85b599ec7481d544"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-473-2020",
+   "path": "ue/regulament/2020/473",
+   "short": "Regulamentul delegat CELEX 32020R0473",
+   "title": "Regulamentul delegat (UE) 2020/473 al Comisiei din 20 ianuarie 2020 de completare a Directivei (UE) 2017/2397 a Parlamentului European și a Consiliului în ceea ce privește standardele pentru bazele de date privind certificatele de calificare ale Uniunii, carnetele de serviciu și jurnalele de bord",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0473",
+   "versions": [
+    {
+     "from": "2020-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e764acd3-73de-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "709e5085ba468acadcb325ecdee85a9e72aadd4e1742a053554005e806e06d46"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-474-2020",
+   "path": "ue/regulament/2020/474",
+   "short": "Regulamentul delegat CELEX 32020R0474",
+   "title": "Regulamentul delegat (UE) 2020/474 al Comisiei din 20 ianuarie 2020 privind baza de date europeană pentru identificarea navelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0474",
+   "versions": [
+    {
+     "from": "2020-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1fc623a-73df-11ea-a07e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d048394be5d9961871dda4e848a8d79af3016c9bc91d60469727cb8fa82d6b78"
     }
    ]
   },
@@ -1623,6 +2883,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-540-2020",
+   "path": "ue/regulament/2020/540",
+   "short": "Regulamentul delegat CELEX 32020R0540",
+   "title": "Regulamentul delegat (UE) 2020/540 al Comisiei din 21 ianuarie 2020 de rectificare a versiunii în limba polonă a Regulamentului delegat (UE) 2015/208 de completare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele de siguranță în funcționare a vehiculului pentru omologarea vehiculelor agricole și forestiere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0540",
+   "versions": [
+    {
+     "from": "2020-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/773f2aaa-82d3-11ea-bf12-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "37c9b59357ce901fef3ad996e91a9cc1485bb1d15b8aff3eecbc4abd203096b9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-550-2020",
+   "path": "ue/regulament/2020/550",
+   "short": "Regulamentul delegat CELEX 32020R0550",
+   "title": "Regulamentul delegat (UE) 2020/550 al Comisiei din 12 februarie 2020 de modificare a anexelor II și IV la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului în ceea ce privește retragerea temporară a regimurilor menționate la articolul 1 alineatul (2) din Regulamentul (UE) nr. 978/2012 pentru anumite produse originare din Regatul Cambodgia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0550",
+   "versions": [
+    {
+     "from": "2020-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8de6fb06-8470-11ea-bf12-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "45617d5e345aae172b4f04b6d78a41054ae6fe981b442df0ebb498ce31fcce26"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-558-2020",
    "path": "ue/regulament/2020/558",
    "short": "Regulamentul (UE) 2020/558",
@@ -1683,6 +2973,96 @@
    ]
   },
   {
+   "slug": "ue-regulament-565-2020",
+   "path": "ue/regulament/2020/565",
+   "short": "Regulamentul delegat CELEX 32020R0565",
+   "title": "Regulamentul delegat (UE) 2020/565 al Comisiei din 13 februarie 2020 de rectificare a Regulamentului delegat (UE) 2019/934 în ceea ce privește dispozițiile tranzitorii referitoare la comercializarea stocurilor de produse vitivinicole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0565",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd1fcff0-85f6-11ea-bf12-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "55e587754b9ac3826cf4013a3c05af7a8dea03766c8f39fb5aefc0f37099c3f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-566-2020",
+   "path": "ue/regulament/2020/566",
+   "short": "Regulamentul delegat CELEX 32020R0566",
+   "title": "Regulamentul delegat (UE) 2020/566 al Comisiei din 17 februarie 2020 de rectificare a anumitor versiuni lingvistice ale Regulamentul delegat (UE) 2016/128 de completare a Regulamentului (UE) nr. 609/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice privind compoziția și informarea aplicabile alimentelor destinate unor scopuri medicale speciale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0566",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25771974-85f7-11ea-bf12-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1ee581a75a9a8113f89155a05596f43b212d8d29ed7e8c40f489560d07b778b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-570-2020",
+   "path": "ue/regulament/2020/570",
+   "short": "Regulamentul delegat CELEX 32020R0570",
+   "title": "Regulamentul delegat (UE) 2020/570 al Comisiei din 28 ianuarie 2020 de modificare și de rectificare a Regulamentului (UE) nr. 748/2012 în ceea ce privește alinierea normelor privind menținerea navigabilității aeronavelor și a produselor, reperelor și dispozitivelor aeronautice la Regulamentul (UE) nr. 1321/2014 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0570",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b32fdd3c-8849-11ea-812f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7f09322e477b3886e45f46ca821242d62de3982d5bde4bb66a687ea8d0564775"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-578-2020",
+   "path": "ue/regulament/2020/578",
+   "short": "Regulamentul delegat CELEX 32020R0578",
+   "title": "Regulamentul delegat (UE) 2020/578 al Comisiei din 21 februarie 2020 de modificare a Regulamentului (UE) 2018/196 al Parlamentului European și al Consiliului privind drepturi vamale suplimentare la importurile anumitor produse originare din Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0578",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7193dbb-8940-11ea-812f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3b0cddabdd21f8eadfcf921e08c2a5807c3583854db4c30610dba6358d04c15a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-591-2020",
+   "path": "ue/regulament/2020/591",
+   "short": "Regulamentul delegat CELEX 32020R0591",
+   "title": "Regulamentul delegat (UE) 2020/591 al Comisiei din 30 aprilie 2020 de deschidere a unei scheme de ajutor cu caracter temporar și excepțional pentru depozitarea privată a anumitor brânzeturi și de stabilire în avans a cuantumului ajutorului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0591",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca13564b-8dea-11ea-812f-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "eeab2cce0b155392ccdd571ade88eb8fd0392ae013dd24f697cc536729208180"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-592-2020",
+   "path": "ue/regulament/2020/592",
+   "short": "Regulamentul delegat CELEX 32020R0592",
+   "title": "Regulamentul delegat (UE) 2020/592 al Comisiei din 30 aprilie 2020 privind măsuri excepționale temporare de derogare de la anumite dispoziții ale Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în vederea abordării perturbării pieței în sectorul fructelor și legumelor și în sectorul vitivinicol, provocată de pandemia de COVID-19 și de măsurile legate de aceasta",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0592",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "9355fac59ca8084f38afe2e3cfb50cfd1ff31005b00940cbb42154be100f62b6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-605-2020",
    "path": "ue/regulament/2020/605",
    "short": "Regulamentul (UE) 2020/605",
@@ -1698,6 +3078,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-621-2020",
+   "path": "ue/regulament/2020/621",
+   "short": "Regulamentul delegat CELEX 32020R0621",
+   "title": "Regulamentul delegat (UE) 2020/621 al Comisiei din 18 februarie 2020 de modificare a anexelor I și V la Regulamentul (UE) 2019/125 al Parlamentului European și al Consiliului privind comerțul cu anumite bunuri care ar putea fi utilizate pentru a aplica pedeapsa capitală, tortura și alte pedepse sau tratamente cu cruzime, inumane sau degradante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0621",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e8c1275-9024-11ea-812f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a8ac0984032af4ee87c3d2d3e57cb3823d73f6c8105ff0ebe83f26e92cd1dcf1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-672-2020",
    "path": "ue/regulament/2020/672",
    "short": "Regulamentul (UE) 2020/672",
@@ -1709,6 +3104,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/00399138-9a5d-11ea-aac4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3ca830afc06ece2ef59b39741060d23d58b7c3fe3f29fbb89a7eace06d714a0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-686-2020",
+   "path": "ue/regulament/2020/686",
+   "short": "Regulamentul delegat CELEX 32020R0686",
+   "title": "Regulamentul delegat (UE) 2020/686 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește autorizarea unităților de material germinativ și cerințele de trasabilitate și de sănătate animală pentru circulația în interiorul Uniunii a materialului germinativ provenit de la anumite animale terestre deținute (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0686",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/58d267ab-a567-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8d9f63da7072bfbee40c83ed5fdcd08ebab4a9bf30fdc9eb74f857875332ff49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-687-2020",
+   "path": "ue/regulament/2020/687",
+   "short": "Regulamentul delegat CELEX 32020R0687",
+   "title": "Regulamentul delegat (UE) 2020/687 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele de prevenire și control al anumitor boli listate (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0687",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0168f96c-a568-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1d0916bd7874f1975f0e321a93eb9e3e145e2f84aa42f044f860c7f7e14a2d3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-688-2020",
+   "path": "ue/regulament/2020/688",
+   "short": "Regulamentul delegat CELEX 32020R0688",
+   "title": "Regulamentul delegat (UE) 2020/688 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește cerințele de sănătate animală pentru circulația în interiorul Uniunii a animalelor terestre și a ouălor pentru incubație (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0688",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e355591a-a566-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2815fe77e44f370a334247a1ebe5627b70b0c5b6aa3d60726c48f9c1d2f7fe2a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-689-2020",
+   "path": "ue/regulament/2020/689",
+   "short": "Regulamentul delegat CELEX 32020R0689",
+   "title": "Regulamentul delegat (UE) 2020/689 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele privind supravegherea, programele de eradicare și statutul de indemn de boală pentru anumite boli listate și emergente (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0689",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4938ea7d-a568-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "60447445de2f9a4afc778ab450024fb756d66d4890aa0f8bde490375a64b1b64"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-691-2020",
+   "path": "ue/regulament/2020/691",
+   "short": "Regulamentul delegat CELEX 32020R0691",
+   "title": "Regulamentul delegat (UE) 2020/691 al Comisiei din 30 ianuarie 2020 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele pentru unitățile de acvacultură și transportatorii de animale acvatice (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0691",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d03caacf-a568-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b89414539087eb6302107a8068357f624a976d9b5a879356ea3d1c1f40e1f1ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-692-2020",
+   "path": "ue/regulament/2020/692",
+   "short": "Regulamentul delegat CELEX 32020R0692",
+   "title": "Regulamentul delegat (UE) 2020/692 al Comisiei din 30 ianuarie 2020 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele privind intrarea în Uniune, precum și circulația și manipularea după intrare, a transporturilor de anumite animale, de materiale germinative și de produse de origine animală (Text cu relevanță pentru SEE) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0692",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f22f2870-a568-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dbcecd06c5f34884c3abc5b19fc957a00fea7d92a8566097248c16fe70e1aff5"
     }
    ]
   },
@@ -1788,6 +3273,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-723-2020",
+   "path": "ue/regulament/2020/723",
+   "short": "Regulamentul delegat CELEX 32020R0723",
+   "title": "Regulamentul delegat (UE) 2020/723 al Comisiei din 4 martie 2020 de stabilire a unor norme detaliate privind recunoașterea certificărilor din țări terțe pentru piloți și de modificare a Regulamentului (UE) nr. 1178/2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0723",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af6a487f-a492-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "15f3bfdc758d33a266671100b9174d40ad8c74e8510b49d8149c74ea8f4ec7b0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-735-2020",
    "path": "ue/regulament/2020/735",
    "short": "Regulamentul (UE) 2020/735",
@@ -1833,6 +3333,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-743-2020",
+   "path": "ue/regulament/2020/743",
+   "short": "Regulamentul delegat CELEX 32020R0743",
+   "title": "Regulamentul delegat (UE) 2020/743 al Comisiei din 30 martie 2020 de modificare a Regulamentului delegat (UE) 2017/891 în ceea ce privește calcularea valorii producției comercializate a organizațiilor de producători din sectorul fructelor și legumelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0743",
+   "versions": [
+    {
+     "from": "2020-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4102175-a6ee-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4dcd1b5d7b35cb54c7c51460fb5a10c0c2d52ac1e831aadaa5a3a7f4cb7e535a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-749-2020",
    "path": "ue/regulament/2020/749",
    "short": "Regulamentul (UE) 2020/749",
@@ -1859,6 +3374,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c49c6eb2-aa16-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "aa2181d909c598b2c48b13dd4b8a20fd97320ff87d2fab5dbacfbe166b99dd9d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-760-2020",
+   "path": "ue/regulament/2020/760",
+   "short": "Regulamentul delegat CELEX 32020R0760",
+   "title": "Regulamentul delegat (UE) 2020/760 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește normele referitoare la gestionarea contingentelor tarifare de import și de export care fac obiectul licențelor și de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește constituirea garanțiilor în cadrul gestionării contingentelor tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0760",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fdc9039-ac71-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "44d956112ef82b55e6f888528a96d17346e60bd1883b64ab8b8aa445e4890746"
     }
    ]
   },
@@ -1953,6 +3483,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-782-2020",
+   "path": "ue/regulament/2020/782",
+   "short": "Regulamentul delegat CELEX 32020R0782",
+   "title": "Regulamentul delegat (UE) 2020/782 al Comisiei din 12 iunie 2020 de modificare a Regulamentelor delegate (UE) 2018/761 și (UE) 2018/762 în ceea ce privește datele lor de aplicare ca urmare a prelungirii termenului de transpunere a Directivei (UE) 2016/798 a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0782",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46042302-aed3-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0adda925c68ca8b66e4aaf502eee885715f96762eac994e78af8675486decccb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-784-2020",
+   "path": "ue/regulament/2020/784",
+   "short": "Regulamentul delegat CELEX 32020R0784",
+   "title": "Regulamentul delegat (UE) 2020/784 al Comisiei din 8 aprilie 2020 de modificare a anexei I la Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului în ceea ce privește includerea acidului perfluorooctanoic (PFOA), a sărurilor acestuia și a compușilor înrudiți cu acesta (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0784",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/76f4e31a-aee7-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8a576aa34016f9b57e153e8313d8460a87a82ed6934e16cee5b031ac69a113e5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-785-2020",
    "path": "ue/regulament/2020/785",
    "short": "Regulamentul (UE) 2020/785",
@@ -2013,6 +3573,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-855-2020",
+   "path": "ue/regulament/2020/855",
+   "short": "Regulamentul delegat CELEX 32020R0855",
+   "title": "Regulamentul delegat (UE) 2020/855 al Comisiei din 7 mai 2020 de modificare a Regulamentului delegat (UE) 2016/1675 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului în ceea ce privește adăugarea Bahamasului, a Barbadosului, a Botswanei, a Cambodgiei, a Ghanei, a Jamaicăi, a Mauritiusului, a Mongoliei, a Myanmar/Birmaniaului/Burmei, a Nicaraguei, a Panama și a Zimbabwe în tabelul de la punctul I din anexă și eliminarea Bosniei și Herțegovinei, a Etiopiei, a Guyanei, a Republicii Democrate Populare Laos, a Sri Lanka și a Tunisiei din tabelul respectiv (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0855",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1abb1fe2-b1fb-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e5d8f4b1bd3c719012b1fa8a8da70e59df8893c0667d643dee5c77bf3465b465"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-856-2020",
    "path": "ue/regulament/2020/856",
    "short": "Regulamentul (UE) 2020/856",
@@ -2024,6 +3599,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4e2ef815-b1fb-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "34fcd9a421040ee7669b0132ee6399c81c9dd95bf15de3c3c1c00579e91682ba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-866-2020",
+   "path": "ue/regulament/2020/866",
+   "short": "Regulamentul delegat CELEX 32020R0866",
+   "title": "Regulamentul delegat (UE) 2020/866 al Comisiei din 28 mai 2020 de modificare a Regulamentului delegat (UE) 2016/101 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru evaluarea prudentă prevăzute la articolul 105 alineatul (14) din Regulamentul (UE) nr. 575/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0866",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f3bd33ad-b6aa-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5abff7c98fb04c7262bc2efe70e30242913de215ea0137ea763b7388868a5f31"
     }
    ]
   },
@@ -2043,6 +3633,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-877-2020",
+   "path": "ue/regulament/2020/877",
+   "short": "Regulamentul delegat CELEX 32020R0877",
+   "title": "Regulamentul delegat (UE) 2020/877 al Comisiei din 3 aprilie 2020 de modificare și de rectificare a Regulamentului delegat (UE) 2015/2446 de completare a Regulamentului (UE) nr. 952/2013, și de modificare a Regulamentului delegat (UE) 2016/341 de completare a Regulamentului (UE) nr. 952/2013 de stabilire a Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0877",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54e5ee1c-b776-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "84504bf404913ce711563414b675b37dc85daa95789575c37e15cc600c116692"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-878-2020",
    "path": "ue/regulament/2020/878",
    "short": "Regulamentul (UE) 2020/878",
@@ -2058,6 +3663,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-884-2020",
+   "path": "ue/regulament/2020/884",
+   "short": "Regulamentul delegat CELEX 32020R0884",
+   "title": "Regulamentul delegat (UE) 2020/884 al Comisiei din 4 mai 2020 de derogare, pentru anul 2020, de la Regulamentul delegat (UE) 2017/891 în ceea ce privește sectorul fructelor și legumelor și de la Regulamentul delegat (UE) 2016/1149 în ceea ce privește sectorul vitivinicol, în legătură cu pandemia de COVID-19",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0884",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2c15d44-b9db-11ea-811c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e3e029eecb9ff4dc48ac7cd3b2599f73cbc255282cf0c522587effb8d2253e48"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-972-2020",
    "path": "ue/regulament/2020/972",
    "short": "Regulamentul (UE) 2020/972",
@@ -2069,6 +3689,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4492c553-c01f-11ea-855a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "e57a211c87f47ff3f3e8e303c13e7041ebe29d75967dd8b98af3a2562798f878"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-987-2020",
+   "path": "ue/regulament/2020/987",
+   "short": "Regulamentul delegat CELEX 32020R0987",
+   "title": "Regulamentul delegat (UE) 2020/987 al Comisiei din 20 ianuarie 2020 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) nr. 1254/2014 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului cu privire la cerințele de etichetare energetică aplicabile unităților de ventilație rezidențiale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0987",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbf06fd5-c26e-11ea-b3a4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "74f89a4fd604f6a35b29836d6f3669770edf84d83ddb4c84e08b86704a53de99"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-988-2020",
+   "path": "ue/regulament/2020/988",
+   "short": "Regulamentul delegat CELEX 32020R0988",
+   "title": "Regulamentul delegat (UE) 2020/988 al Comisiei din 12 martie 2020 de rectificare a versiunilor în anumite limbi a Regulamentului delegat (UE) 2015/35 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0988",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03dc50ea-c26f-11ea-b3a4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "52f2711a6ac10331cbfc420754c7b5a1797fa180dfa1e460cee064898c97c29b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-989-2020",
+   "path": "ue/regulament/2020/989",
+   "short": "Regulamentul delegat CELEX 32020R0989",
+   "title": "Regulamentul delegat (UE) 2020/989 al Comisiei din 27 aprilie 2020 de modificare a Regulamentului delegat (UE) 2020/124 în ceea ce privește anumite dispoziții referitoare la măsurile de conservare și executare ale Organizației de Pescuit în Atlanticul de Nord-Vest (NAFO) și anumite anexe la acestea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0989",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/29b7a17b-c26f-11ea-b3a4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2f1338ffd3bd7d878d5125cd8be9e5822deddcd5dd2c0cc5d479087dcd0e9fd2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-990-2020",
+   "path": "ue/regulament/2020/990",
+   "short": "Regulamentul delegat CELEX 32020R0990",
+   "title": "Regulamentul delegat (UE) 2020/990 al Comisiei din 28 aprilie 2020 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește cerințele în materie de sănătate animală și de certificare vizând circulația în interiorul Uniunii a animalelor acvatice și a produselor de origine animală provenite de la animale acvatice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0990",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4ee2189e-c26f-11ea-b3a4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "492664db765ecf5db7ac387700337df438a408360af2fad59df14f23469bcf25"
     }
    ]
   }

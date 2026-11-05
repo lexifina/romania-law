@@ -498,6 +498,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1-2015",
+   "path": "ue/regulament/2015/1",
+   "short": "Regulamentul delegat CELEX 32015R0001",
+   "title": "Regulamentul delegat (UE) 2015/1 al Comisiei din 30 septembrie 2014 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru rapoartele periodice privind comisioanele percepute de agențiile de rating de credit în scopul supravegherii continue efectuate de Autoritatea europeană pentru valori mobiliare și piețe Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0001",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e517cd2-9570-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f782bbc65ca36ef2268a6724ffd8968f84ffd56edb0ed166df1cb3052183e0c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1011-2015",
+   "path": "ue/regulament/2015/1011",
+   "short": "Regulamentul delegat CELEX 32015R1011",
+   "title": "Regulamentul delegat (UE) 2015/1011 al Comisiei din 24 aprilie 2015 de completare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului de stabilire a normelor de monitorizare a comerțului cu precursori de droguri între Comunitate și țările terțe și de abrogare a Regulamentului (CE) nr. 1277/2005 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1011",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7dba7233-1c8f-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "56ddf6690464d0c9d8f902d6074d6b7657635dd8fc8c459dd18d9aaea886abd4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1017-2015",
    "path": "ue/regulament/2015/1017",
    "short": "Regulamentul (UE) 2015/1017",
@@ -603,6 +633,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1076-2015",
+   "path": "ue/regulament/2015/1076",
+   "short": "Regulamentul delegat CELEX 32015R1076",
+   "title": "Regulamentul delegat (UE) 2015/1076 al Comisiei din 28 aprilie 2015 de stabilire, în conformitate cu Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului, a unor norme suplimentare privind înlocuirea unui beneficiar și privind responsabilitățile aferente și cerințele minime care trebuie incluse în acordurile de parteneriat public-privat finanțate de fondurile structurale și de investiții europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1076",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32d90c9e-220e-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a1d5f273fcdb9346a371a82a0b22040a3063f380fdbfc93e00da09e16c5d8ae4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1088-2015",
    "path": "ue/regulament/2015/1088",
    "short": "Regulamentul (UE) 2015/1088",
@@ -614,6 +659,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7251e766-2472-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2d6013c8dbc0bb7df3cfe4e7a439ae4ce0991dacb1790ed1f3ecf1f229ad2f8b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1094-2015",
+   "path": "ue/regulament/2015/1094",
+   "short": "Regulamentul delegat CELEX 32015R1094",
+   "title": "Regulamentul delegat (UE) 2015/1094 al Comisiei din 5 mai 2015 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a dulapurilor frigorifice de depozitare profesionale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1094",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc199e34-2540-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "355aa482d3263e587e15300469266c41b54e1cb0e45f3c2e3bd6c7ace2d625e7"
     }
    ]
   },
@@ -734,6 +794,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c6ccf626-2f6d-11e5-9f85-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "30c4d65c5c1bfbfb289744a41e535ff7ae2d91c6357cee094a92fdaa6a71d935"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1186-2015",
+   "path": "ue/regulament/2015/1186",
+   "short": "Regulamentul delegat CELEX 32015R1186",
+   "title": "Regulamentul delegat (UE) 2015/1186 al Comisiei din 24 aprilie 2015 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a aparatelor pentru încălzire locală (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1186",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08342029-2f6e-11e5-9f85-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bdf7b5c42f78eaac39037c1943267284fc089c51d45c29a90b431455aa6941b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1187-2015",
+   "path": "ue/regulament/2015/1187",
+   "short": "Regulamentul delegat CELEX 32015R1187",
+   "title": "Regulamentul delegat (UE) 2015/1187 al Comisiei din 27 aprilie 2015 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a cazanelor cu combustibil solid și a pachetelor de cazan cu combustibil solid, instalații de încălzire suplimentare, regulatoare de temperatură și dispozitive solare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1187",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/360ce18c-2f6e-11e5-9f85-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "70ad9c038e4613ca96be006738bbc8fc694c40f36f6aefefeba885de30e9442d"
     }
    ]
   },
@@ -873,6 +963,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1342-2015",
+   "path": "ue/regulament/2015/1342",
+   "short": "Regulamentul delegat CELEX 32015R1342",
+   "title": "Regulamentul delegat (UE) 2015/1342 al Comisiei din 22 aprilie 2015 de modificare a metodologiei de clasificare a produselor în funcție de domeniul de activitate, din anexa A la Regulamentul (UE) nr. 549/2013 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1342",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ba8f091-3a76-11e5-98a0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "80696654320fc880e1e89130310b8252ad9648e3eda2329441ce6d5f3652d946"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1348-2015",
    "path": "ue/regulament/2015/1348",
    "short": "Regulamentul (UE) 2015/1348",
@@ -914,6 +1019,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fb2d615e-3ccf-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "1fadccd58be97d7093f51570dc4c99bb9aa7904665fe7de66230a68493c0bd0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1365-2015",
+   "path": "ue/regulament/2015/1365",
+   "short": "Regulamentul delegat CELEX 32015R1365",
+   "title": "Regulamentul delegat (UE) 2015/1365 al Comisiei din 30 aprilie 2015 privind formatul de transmitere pentru datele referitoare la cheltuielile cu cercetarea și dezvoltarea (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1365",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2a5831f-3d90-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "84380d1b3c170e50e8a18725e75502b1bece40c057f0c7fb794ab2542fc97fd1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1366-2015",
+   "path": "ue/regulament/2015/1366",
+   "short": "Regulamentul delegat CELEX 32015R1366",
+   "title": "Regulamentul delegat (UE) 2015/1366 al Comisiei din 11 mai 2015 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește ajutoarele din sectorul apicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1366",
+   "versions": [
+    {
+     "from": "2015-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03277d42-3d91-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b6a502b917fd2d8b4ce09e3634bad78e713ba47fb0f27c9b55c2e50b86314e99"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1369-2015",
+   "path": "ue/regulament/2015/1369",
+   "short": "Regulamentul delegat CELEX 32015R1369",
+   "title": "Regulamentul delegat (UE) 2015/1369 al Comisiei din 7 august 2015 de modificare a Regulamentului delegat (UE) nr. 1031/2014 de stabilire a unor măsuri de sprijin excepționale cu caracter temporar suplimentare pentru producătorii de anumite fructe și legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1369",
+   "versions": [
+    {
+     "from": "2015-08-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77f4c3d6-3d91-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b83ea154ef8e226abd6727184e6675d213b4c13a05bc598cfc9247e8f5bef240"
     }
    ]
   },
@@ -1008,6 +1158,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1515-2015",
+   "path": "ue/regulament/2015/1515",
+   "short": "Regulamentul delegat CELEX 32015R1515",
+   "title": "Regulamentul delegat (UE) 2015/1515 al Comisiei din 5 iunie 2015 de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește prelungirea perioadelor de tranziție referitoare la sistemele de pensii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1515",
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8ea05c7-5b6a-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fc462a308e09597141234de923883bf58542943e90ae821ece9d23bedf2c56fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1516-2015",
+   "path": "ue/regulament/2015/1516",
+   "short": "Regulamentul delegat CELEX 32015R1516",
+   "title": "Regulamentul delegat (UE) 2015/1516 al Comisiei din 10 iunie 2015 de stabilire, în conformitate cu Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului, a unei rate forfetare pentru operațiunile finanțate de fondurile structurale și de investiții europene în sectorul cercetării, al dezvoltării și al inovării",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1516",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03fa94b9-5b6b-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "97963ce0939b5724970f674be3ee07da8cd50ac2a1fa84ecd174c8ee81b01c5c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1525-2015",
    "path": "ue/regulament/2015/1525",
    "short": "Regulamentul (UE) 2015/1525",
@@ -1049,6 +1229,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f5cecc19-5cfd-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "07279caade329ceb3d093d2779da9277254fe029fca09f6862f2e76de6b1011b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1538-2015",
+   "path": "ue/regulament/2015/1538",
+   "short": "Regulamentul delegat CELEX 32015R1538",
+   "title": "Regulamentul delegat (UE) 2015/1538 al Comisiei din 23 iunie 2015 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește cererile de licențe de import, punerea în liberă circulație și dovada rafinării produselor din sectorul zahărului de la codul NC 1701 în cadrul acordurilor preferențiale, pentru anii de comercializare 2015-2016 și 2016-2017 și de modificare a Regulamentelor (CE) nr. 376/2008 și (CE) nr. 891/2009 ale Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1538",
+   "versions": [
+    {
+     "from": "2015-09-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b5ef3f0-5dcb-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f0aada148679b388958db3dc1adf1f90c99eb6a3db8061a4d38c816241b644bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1549-2015",
+   "path": "ue/regulament/2015/1549",
+   "short": "Regulamentul delegat CELEX 32015R1549",
+   "title": "Regulamentul delegat (UE) 2015/1549 al Comisiei din 17 septembrie 2015 de stabilire a unor măsuri excepționale cu caracter temporar pentru sectorul laptelui și al produselor lactate, sub forma prelungirii perioadei de intervenție publică pentru unt și pentru lapte praf degresat din 2015 și a devansării perioadei de intervenție publică pentru unt și pentru lapte praf degresat din 2016",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1549",
+   "versions": [
+    {
+     "from": "2015-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca96575f-5dcc-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e86a5f00c738a2f127d2783a5bfac9171312413ca9695a4001c2cca3804b0ba0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1556-2015",
+   "path": "ue/regulament/2015/1556",
+   "short": "Regulamentul delegat CELEX 32015R1556",
+   "title": "Regulamentul delegat (UE) 2015/1556 al Comisiei din 11 iunie 2015 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru tratamentul tranzitoriu al expunerilor din titluri de capital conform abordării IRB (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1556",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/281de23a-5e5b-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dc7fc23786e8883c3c2546c6ba717e369a463b0a4eaa48b412772bdb11a0fe6e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1558-2015",
+   "path": "ue/regulament/2015/1558",
+   "short": "Regulamentul delegat CELEX 32015R1558",
+   "title": "Regulamentul delegat (UE) 2015/1558 al Comisiei din 22 iulie 2015 de completare a Regulamentului (UE) 2015/1017 al Parlamentului European și al Consiliului, prin stabilirea unui tablou de bord al indicatorilor pentru aplicarea garanției UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1558",
+   "versions": [
+    {
+     "from": "2015-09-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56716a2e-5e61-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aaf930e9e17a977d69c38f4094c841f568d6a7ebb893cc7c2993890793fdae4a"
     }
    ]
   },
@@ -1308,6 +1548,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1829-2015",
+   "path": "ue/regulament/2015/1829",
+   "short": "Regulamentul delegat CELEX 32015R1829",
+   "title": "Regulamentul delegat (UE) 2015/1829 al Comisiei din 23 aprilie 2015 de completare a Regulamentului (UE) nr. 1144/2014 al Parlamentului European și al Consiliului privind acțiunile de informare și promovare referitoare la produsele agricole puse în aplicare pe piața internă și în țările terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1829",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a43cedf-7173-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7b3d33bd4eec0230693cd5d0588d0c25d8a26b352010b286f07e813877be6211"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1832-2015",
    "path": "ue/regulament/2015/1832",
    "short": "Regulamentul (UE) 2015/1832",
@@ -1349,6 +1604,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/96c949bb-73ca-11e5-86db-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3fb9966f8039a5a34363446e2360af974a722227d37cc29d0d2054fdde290cb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1844-2015",
+   "path": "ue/regulament/2015/1844",
+   "short": "Regulamentul delegat CELEX 32015R1844",
+   "title": "Regulamentul delegat (UE) 2015/1844 al Comisiei din 13 iulie 2015 de modificare a Regulamentului (UE) nr. 389/2013 în ceea ce privește punerea în aplicare la nivel tehnic a Protocolului de la Kyoto după 2012 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1844",
+   "versions": [
+    {
+     "from": "2015-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51577041-730a-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2f3b4411a842c0cf6702e593fbe0dfbf21fddd8d1dd0a33c23d02717e7a5af5d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1852-2015",
+   "path": "ue/regulament/2015/1852",
+   "short": "Regulamentul delegat CELEX 32015R1852",
+   "title": "Regulamentul delegat (UE) 2015/1852 al Comisiei din 15 octombrie 2015 de deschidere a unei scheme de ajutoare cu caracter temporar și excepțional pentru depozitarea privată a anumitor brânzeturi și de stabilire în avans a cuantumului ajutoarelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1852",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9818545e-73c9-11e5-86db-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3861817e970dae36f9df819a60b2d257b7888e30205877a507406cfbf5765ab8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1853-2015",
+   "path": "ue/regulament/2015/1853",
+   "short": "Regulamentul delegat CELEX 32015R1853",
+   "title": "Regulamentul delegat (UE) 2015/1853 al Comisiei din 15 octombrie 2015 de acordare a unor ajutoare excepționale cu caracter temporar fermierilor din sectorul creșterii animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1853",
+   "versions": [
+    {
+     "from": "2015-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9087d30-73c9-11e5-86db-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c9074adc48f1c6fd8d5641da6fd55e3c1aed3c11cecd13742ff983b7bae8ae65"
     }
    ]
   },
@@ -1458,6 +1758,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1930-2015",
+   "path": "ue/regulament/2015/1930",
+   "short": "Regulamentul delegat CELEX 32015R1930",
+   "title": "Regulamentul delegat (UE) 2015/1930 al Comisiei din 28 iulie 2015 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește criteriile pentru stabilirea nivelului corecțiilor financiare și pentru aplicarea corecțiilor financiare forfetare, și de modificare a Regulamentului (CE) nr. 665/2008 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1930",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35c2c090-7d41-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "000158990e086c4f73c8baf3f595c79fbd0fcdbd684bb6df48e3d73d316770af"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1948-2015",
    "path": "ue/regulament/2015/1948",
    "short": "Regulamentul (UE) 2015/1948",
@@ -1484,6 +1799,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/73b4d4ec-7f9a-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "886ddf71bd07babc34c5307218ecf58dded7905d7ec382f9b0f01139ff9ec65f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1970-2015",
+   "path": "ue/regulament/2015/1970",
+   "short": "Regulamentul delegat CELEX 32015R1970",
+   "title": "Regulamentul delegat (UE) 2015/1970 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1970",
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/00d1dabe-877e-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c1abb04d051eac6bbbed54a58b6faf7b7a9f3b93cbecf71c4c7117f7d866c48f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1972-2015",
+   "path": "ue/regulament/2015/1972",
+   "short": "Regulamentul delegat CELEX 32015R1972",
+   "title": "Regulamentul delegat (UE) 2015/1972 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 223/2014 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul de ajutor european destinat celor mai defavorizate persoane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1972",
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a5fef73-877e-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "01b2adea457e394b1ce7e7d1e1b7ba7fbfd1a630b546ad0936435e72d014e2d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1973-2015",
+   "path": "ue/regulament/2015/1973",
+   "short": "Regulamentul delegat CELEX 32015R1973",
+   "title": "Regulamentul delegat (UE) 2015/1973 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 514/2014 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul pentru azil, migrație și integrare, precum și de instrumentul de sprijin financiar pentru cooperarea polițienească, prevenirea și combaterea criminalității și gestionarea crizelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1973",
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd960d16-877e-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "583e1dd2a6d69340dea509029de75b3978f0a8f8d7edf2464bdedeae31c46b4c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1978-2015",
+   "path": "ue/regulament/2015/1978",
+   "short": "Regulamentul delegat CELEX 32015R1978",
+   "title": "Regulamentul delegat (UE) 2015/1978 al Comisiei din 28 august 2015 de modificare a Regulamentului (UE) nr. 978/2012 al Parlamentului European și al Consiliului în ceea ce privește modalitățile de aplicare a articolului 8 enumerate în anexa VI la regulamentul respectiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1978",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc0c4a64-8385-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "34e38a3fa2ba135ad2996603c1f807a2db1dc30789172f140047921e27990838"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1979-2015",
+   "path": "ue/regulament/2015/1979",
+   "short": "Regulamentul delegat CELEX 32015R1979",
+   "title": "Regulamentul delegat (UE) 2015/1979 al Comisiei din 28 august 2015 de modificare a anexelor II, III și IV la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1979",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc7f7b06-8385-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f0d05d2b454a155a58b811deb6424fc4b7fad9d8797fd3a8211fa6ebe1df678f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2-2015",
+   "path": "ue/regulament/2015/2",
+   "short": "Regulamentul delegat CELEX 32015R0002",
+   "title": "Regulamentul delegat (UE) 2015/2 al Comisiei din 30 septembrie 2014 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru prezentarea informațiilor pe care agențiile de rating de credit trebuie să le transmită registrului central creat de Autoritatea Europeană pentru Valori Mobiliare și Piețe Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0002",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/631a4865-9570-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ff810985bc187d6f092915cf42ad34e00362f904cc18fe560db450ebb68ddf46"
     }
    ]
   },
@@ -1533,6 +1938,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-208-2015",
+   "path": "ue/regulament/2015/208",
+   "short": "Regulamentul delegat CELEX 32015R0208",
+   "title": "Regulamentul delegat (UE) 2015/208 al Comisiei din 8 decembrie 2014 de completare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele de siguranță în funcționare a vehiculului pentru vehiculele agricole și forestiere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0208",
+   "versions": [
+    {
+     "from": "2015-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/356b02a2-b67d-11e4-b3fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4489ed92c88d8f35bbb6e44b6bc524c377269d192a2dcf000bb709805746e1f9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2120-2015",
    "path": "ue/regulament/2015/2120",
    "short": "Regulamentul (UE) 2015/2120",
@@ -1544,6 +1964,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8fdf5d08-93fc-11e5-983e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "0d11a36398bb453ef7c84c047239b1ef07a39898cc6b4ea8a3a1e98e71308e85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2170-2015",
+   "path": "ue/regulament/2015/2170",
+   "short": "Regulamentul delegat CELEX 32015R2170",
+   "title": "Regulamentul delegat (UE) 2015/2170 al Comisiei din 24 noiembrie 2015 de modificare a Directivei 2014/24/UE a Parlamentului European și a Consiliului în ceea ce privește pragurile de aplicare pentru procedurile de atribuire a contractelor de achiziții publice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2170",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71ca59bb-933e-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b8e70adf719803dd7fc26806b670a9fa6999d0b2d6125e2500e8ac2b101d7f93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2171-2015",
+   "path": "ue/regulament/2015/2171",
+   "short": "Regulamentul delegat CELEX 32015R2171",
+   "title": "Regulamentul delegat (UE) 2015/2171 al Comisiei din 24 noiembrie 2015 de modificare a Directivei 2014/25/UE a Parlamentului European și a Consiliului în ceea ce privește pragurile de aplicare pentru procedurile de atribuire a contractelor de achiziții publice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2171",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93745cad-933e-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "863f748545e7be38b7310ac0c7227c03396ae69a5578b418176c5b2dacaeec0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2172-2015",
+   "path": "ue/regulament/2015/2172",
+   "short": "Regulamentul delegat CELEX 32015R2172",
+   "title": "Regulamentul delegat (UE) 2015/2172 al Comisiei din 24 noiembrie 2015 de modificare a Directivei 2014/23/UE a Parlamentului European și a Consiliului în ceea ce privește pragurile de aplicare pentru procedurile de atribuire a contractelor de achiziții publice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2172",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b06e933f-933e-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3699a36e06a4e3977a57bebc4dd8bdd51a8bef220fd13809cdf4b0a145b30d4d"
     }
    ]
   },
@@ -1563,6 +2028,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2195-2015",
+   "path": "ue/regulament/2015/2195",
+   "short": "Regulamentul delegat CELEX 32015R2195",
+   "title": "Regulamentul delegat (UE) 2015/2195 al Comisiei din 9 iulie 2015 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2195",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/254d5717-9561-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "96525993a83c2eacf637542b286eb56aff579cc632e301b6e35690bb83641c5a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2205-2015",
+   "path": "ue/regulament/2015/2205",
+   "short": "Regulamentul delegat CELEX 32015R2205",
+   "title": "Regulamentul delegat (UE) 2015/2205 al Comisiei din 6 august 2015 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru obligația de compensare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2205",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/798394e5-97fb-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "56153792488c193994855b124767dba17f786b4513de8f268f897684881b7a62"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2219-2015",
    "path": "ue/regulament/2015/2219",
    "short": "Regulamentul (UE) 2015/2219",
@@ -1574,6 +2069,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c71d1eb2-9a55-11e5-b3b7-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "32fe2796ee9ed13ced1d067c235edc5a3739e08915411bf7378602c484fb28eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2229-2015",
+   "path": "ue/regulament/2015/2229",
+   "short": "Regulamentul delegat CELEX 32015R2229",
+   "title": "Regulamentul delegat (UE) 2015/2229 al Comisiei din 29 septembrie 2015 de modificare a anexei I la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2229",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ce5bc57-998c-11e5-b3b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f6dc9c93f1a44fae357e36a6e3413ea8b171ad4abd1cab6dae10780e1537046b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2252-2015",
+   "path": "ue/regulament/2015/2252",
+   "short": "Regulamentul delegat CELEX 32015R2252",
+   "title": "Regulamentul delegat (UE) 2015/2252 al Comisiei din 30 septembrie 2015 de modificare a Regulamentului delegat (UE) 2015/288 în ceea ce privește perioada de inadmisibilitate a cererilor pentru sprijin din partea Fondului european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2252",
+   "versions": [
+    {
+     "from": "2015-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6ba5c1e-9b08-11e5-b792-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bcb9c759b9115c4aba3f742bb0c3a5431d42b7746af55a538c23ab5ed4d1d80d"
     }
    ]
   },
@@ -1698,6 +2223,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2303-2015",
+   "path": "ue/regulament/2015/2303",
+   "short": "Regulamentul delegat CELEX 32015R2303",
+   "title": "Regulamentul delegat (UE) 2015/2303 al Comisiei din 28 iulie 2015 de completare a Directivei 2002/87/CE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care specifică definițiile și coordonarea supravegherii suplimentare a concentrării riscurilor și a tranzacțiilor în interiorul grupului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2303",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb3a001a-9fd7-11e5-8781-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "98924652eb4b380152ad0423d57cb2a95285df43dc010c91897f10daf1f422b4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2313-2015",
    "path": "ue/regulament/2015/2313",
    "short": "Regulamentul (UE) 2015/2313",
@@ -1803,6 +2343,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2401-2015",
+   "path": "ue/regulament/2015/2401",
+   "short": "Regulamentul delegat CELEX 32015R2401",
+   "title": "Regulamentul delegat (UE, Euratom) 2015/2401 al Comisiei din 2 octombrie 2015 cu privire la conținutul și la funcționarea registrului de repertoriere a partidelor politice europene și a fundațiilor politice europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2401",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/117e4b34-a61d-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d3aa9965ef8723b0458aacc2cdf370b50dea2c77897512b695cf058fc9664049"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2402-2015",
+   "path": "ue/regulament/2015/2402",
+   "short": "Regulamentul delegat CELEX 32015R2402",
+   "title": "Regulamentul delegat (UE) 2015/2402 al Comisiei din 12 octombrie 2015 de revizuire a valorilor de referință armonizate ale randamentului pentru producția separată de energie electrică și termică, în aplicarea Directivei 2012/27/UE a Parlamentului European și a Consiliului și de abrogare a Deciziei 2011/877/UE a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2402",
+   "versions": [
+    {
+     "from": "2015-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/394edc16-a61d-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7a5e0cd2545babecd5a362706e9f39b432259b2e97fde1f7b924110c35ea4e98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-242-2015",
+   "path": "ue/regulament/2015/242",
+   "short": "Regulamentul delegat CELEX 32015R0242",
+   "title": "Regulamentul delegat (UE) 2015/242 al Comisiei din 9 octombrie 2014 de stabilire a normelor detaliate de funcționare a consiliilor consultative în cadrul politicii comune în domeniul pescuitului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0242",
+   "versions": [
+    {
+     "from": "2015-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26604a16-b679-11e4-b3fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0b40a7ab6ea781f8613cd7e231f9b618fb0f397d03542be9d77beb0f71a9c3db"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2421-2015",
    "path": "ue/regulament/2015/2421",
    "short": "Regulamentul (UE) 2015/2421",
@@ -1833,6 +2418,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2446-2015",
+   "path": "ue/regulament/2015/2446",
+   "short": "Regulamentul delegat CELEX 32015R2446",
+   "title": "Regulamentul delegat al Comisiei (UE) 2015/2446 din 28 iulie 2015 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2446",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c73754bc-ae35-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "11b6b8ddbbd0a13f3a58d822afecd51f36de0f466e76aaf339ac17b1113c0560"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-245-2015",
    "path": "ue/regulament/2015/245",
    "short": "Regulamentul (UE) 2015/245",
@@ -1848,6 +2448,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-281-2015",
+   "path": "ue/regulament/2015/281",
+   "short": "Regulamentul delegat CELEX 32015R0281",
+   "title": "Regulamentul delegat (UE) 2015/281 al Comisiei din 26 noiembrie 2014 de înlocuire a anexelor I și II la Regulamentul (UE) nr. 1215/2012 al Parlamentului European și al Consiliului privind competența judiciară, recunoașterea și executarea hotărârilor în materie civilă și comercială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0281",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/206c1d5e-bcbb-11e4-bbe1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "45c6b1af5252bd0328ad12e0dfde5cfc1071b5fba9884d497335ff62a1db1b35"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-282-2015",
    "path": "ue/regulament/2015/282",
    "short": "Regulamentul (UE) 2015/282",
@@ -1859,6 +2474,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0b03ffb6-b993-11e4-94b7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2fd8f5d01a95a90766c19bcb4988e7187d766dcdbb48df01af7683e566d6a6a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-288-2015",
+   "path": "ue/regulament/2015/288",
+   "short": "Regulamentul delegat CELEX 32015R0288",
+   "title": "Regulamentul delegat (UE) 2015/288 al Comisiei din 17 decembrie 2014 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește perioada și datele de inadmisibilitate a cererilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0288",
+   "versions": [
+    {
+     "from": "2015-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fce87fc2-bbf3-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "75ca4b2e3e908fb7d7c3299753dc1254020f9ee924011b223381cc51508709ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3-2015",
+   "path": "ue/regulament/2015/3",
+   "short": "Regulamentul delegat CELEX 32015R0003",
+   "title": "Regulamentul delegat (UE) 2015/3 al Comisiei din 30 septembrie 2014 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare privind cerințele de informare pentru instrumentele financiare structurate Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0003",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cbfd219-9570-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "350400f195ab400852879ba395262d2bc491bac00ed65f8baccf83599e5e1b30"
     }
    ]
   },
@@ -1919,6 +2564,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2d88da09-c3ce-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "bf31f6f46d0ae5d7c9fd8b4741f2db66aa721bb4e7830f231ee3a92fb9065f7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-35-2015",
+   "path": "ue/regulament/2015/35",
+   "short": "Regulamentul delegat CELEX 32015R0035",
+   "title": "Regulamentul delegat (UE) 2015/35 al Comisiei din 10 octombrie 2014 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0035",
+   "versions": [
+    {
+     "from": "2015-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0c803af-9e0f-11e4-872e-01aa75ed71a1.0019.03/DOC_477",
+     "sha256": "de3c0fb688065b85b33a09c5adef9bcfa751fc9ab502a92606ac0b575615d388"
     }
    ]
   },
@@ -2178,6 +2838,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-488-2015",
+   "path": "ue/regulament/2015/488",
+   "short": "Regulamentul delegat CELEX 32015R0488",
+   "title": "Regulamentul delegat (UE) 2015/488 al Comisiei din 4 septembrie 2014 de modificare a Regulamentului delegat (UE) nr. 241/2014 în ceea ce privește cerințele de fonduri proprii pentru firme, calculate pe baza cheltuielilor generale fixe Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0488",
+   "versions": [
+    {
+     "from": "2015-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4378c3d1-d1f8-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "23fb2c07d387cfbb4ddd0994de0169ab968f8bfd269b030e2d3a70d9ebe97ba1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-491-2015",
    "path": "ue/regulament/2015/491",
    "short": "Regulamentul (UE) 2015/491",
@@ -2208,6 +2883,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-514-2015",
+   "path": "ue/regulament/2015/514",
+   "short": "Regulamentul delegat CELEX 32015R0514",
+   "title": "Regulamentul delegat (UE) 2015/514 al Comisiei din 18 decembrie 2014 privind informațiile care trebuie furnizate de către autoritățile competente Autorității Europene pentru Valori Mobiliare și Piețe în temeiul articolului 67 alineatul (3) din Directiva 2011/61/UE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0514",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ec6efca-d455-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e64b6243f2424176ce0fdb929a4773343d184dc650fa3aa340b45a86d1719faa"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-523-2015",
    "path": "ue/regulament/2015/523",
    "short": "Regulamentul (UE) 2015/523",
@@ -2219,6 +2909,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/94fb4b19-d51a-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "914bea8ce6a9778164828bf14fbdc4d0368627f07455da1600fc276713b86c81"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-531-2015",
+   "path": "ue/regulament/2015/531",
+   "short": "Regulamentul delegat CELEX 32015R0531",
+   "title": "Regulamentul delegat (UE) 2015/531 al Comisiei din 24 noiembrie 2014 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului prin identificarea costurilor eligibile pentru sprijin din partea Fondului european pentru pescuit și afaceri maritime în scopul îmbunătățirii condițiilor de igienă, sănătate, siguranță și lucru pentru pescari, al protecției și refacerii biodiversității și ecosistemelor marine, al atenuării efectelor schimbărilor climatice și al sporirii eficienței energetice a navelor de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0531",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19feb149-d768-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2a18e4e74b27683fea546e0bd9511398f2c7324395fa8a30858bbaf3136fba88"
     }
    ]
   },
@@ -2298,6 +3003,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-585-2015",
+   "path": "ue/regulament/2015/585",
+   "short": "Regulamentul delegat CELEX 32015R0585",
+   "title": "Regulamentul delegat (UE) 2015/585 al Comisiei din 18 decembrie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru precizarea perioadelor de risc de marjă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0585",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2342c5fa-e368-11e4-b1d3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a32e23650159d038bf5475804a4b65fdfa81e69b40d93bc42486d3c9d068d64e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-602-2015",
+   "path": "ue/regulament/2015/602",
+   "short": "Regulamentul delegat CELEX 32015R0602",
+   "title": "Regulamentul delegat (UE) 2015/602 al Comisiei din 9 februarie 2015 de modificare a Regulamentului (UE) nr. 978/2012 al Parlamentului European și al Consiliului în ceea ce privește pragul de vulnerabilitate definit la punctul 1 litera (b) din anexa VII la respectivul regulament",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0602",
+   "versions": [
+    {
+     "from": "2015-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86de38d9-e4c8-11e4-baa4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7259199d530864080d1ccfd3464af326ab5aadbfe114f9b1a18f43ad2c79be52"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-603-2015",
    "path": "ue/regulament/2015/603",
    "short": "Regulamentul (UE) 2015/603",
@@ -2309,6 +3044,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/aa089a3d-e4c8-11e4-baa4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "44bdb7f64153525d5efcc0f73b2375441bd8fda3a754eff254fc90ef50308b9e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-61-2015",
+   "path": "ue/regulament/2015/61",
+   "short": "Regulamentul delegat CELEX 32015R0061",
+   "title": "Regulamentul delegat (UE) 2015/61 al Comisiei din 10 octombrie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește cerința de acoperire a necesarului de lichiditate pentru instituțiile de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0061",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d70dbd16-9e0e-11e4-872e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b2ccaabd941c9aa0591fde2edaf4ca3c6115413ae84e5a11e2c2186e06c51570"
     }
    ]
   },
@@ -2358,6 +3108,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-616-2015",
+   "path": "ue/regulament/2015/616",
+   "short": "Regulamentul delegat CELEX 32015R0616",
+   "title": "Regulamentul delegat (UE) 2015/616 al Comisiei din 13 februarie 2015 de modificare a Regulamentului delegat (UE) nr. 480/2014 în ceea ce privește trimiterile la Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0616",
+   "versions": [
+    {
+     "from": "2015-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/328730b3-e7f2-11e4-baa4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "46b8b63e597e0e51ddbf1f3ecfc158e45e3d2265085cf948c3ef5211970a8d83"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-62-2015",
+   "path": "ue/regulament/2015/62",
+   "short": "Regulamentul delegat CELEX 32015R0062",
+   "title": "Regulamentul delegat (UE) 2015/62 al Comisiei din 10 octombrie 2014 de modificare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește indicatorul efectului de levier Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0062",
+   "versions": [
+    {
+     "from": "2015-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1dca6967-9e0f-11e4-872e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0d889fb760e057554ad8f97ad92134a1f26261ccadea40b34ddc15a13863148c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-623-2015",
    "path": "ue/regulament/2015/623",
    "short": "Regulamentul (UE, Euratom) 2015/623",
@@ -2384,6 +3164,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/02df85af-e986-11e4-8a89-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "1fc748a30a21b4724e894f81c0fd5c38113f6af5c97920a8c4abae7a191487c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-63-2015",
+   "path": "ue/regulament/2015/63",
+   "short": "Regulamentul delegat CELEX 32015R0063",
+   "title": "Regulamentul delegat (UE) 2015/63 al Comisiei din 21 octombrie 2014 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește contribuțiile ex ante la mecanismele de finanțare a rezoluției",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0063",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c86498a-9e0f-11e4-872e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "99ab2205a1b1f32316cc1a202a6de7b4e26b7bc53150525cdcced5227be19edf"
     }
    ]
   },
@@ -2459,6 +3254,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/39fa5318-eb13-11e4-892c-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0fe09fb0d515e40b77fc107651cc5569f0aff9b61537003dff1c9b6b2665795d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-68-2015",
+   "path": "ue/regulament/2015/68",
+   "short": "Regulamentul delegat CELEX 32015R0068",
+   "title": "Regulamentul delegat (UE) 2015/68 al Comisiei din 15 octombrie 2014 de completare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele referitoare la sistemul de frânare al vehiculelor pentru omologarea vehiculelor agricole și forestiere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0068",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52971013-a2cb-11e4-9f50-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9a25c51188b075af66a44626d59c2f25e0c6564f13e0c7648d4129824e4fa0b4"
     }
    ]
   },
@@ -2703,6 +3513,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-761-2015",
+   "path": "ue/regulament/2015/761",
+   "short": "Regulamentul delegat CELEX 32015R0761",
+   "title": "Regulamentul delegat (UE) 2015/761 al Comisiei din 17 decembrie 2014 de completare a Directivei 2004/109/CE a Parlamentului European și a Consiliului cu privire la anumite standarde tehnice de reglementare referitoare la participațiile importante (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0761",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3c6eecf-f92f-11e4-a4c8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1bf45389343ebe02ecd6f01cfffe48fce08d5b1650486ef0663d4209d6dc115f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-768-2015",
    "path": "ue/regulament/2015/768",
    "short": "Regulamentul (UE) 2015/768",
@@ -2868,6 +3693,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-850-2015",
+   "path": "ue/regulament/2015/850",
+   "short": "Regulamentul delegat CELEX 32015R0850",
+   "title": "Regulamentul delegat (UE) 2015/850 al Comisiei din 30 ianuarie 2015 de modificare a Regulamentului delegat (UE) nr. 241/2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru cerințele de fonduri proprii în cazul instituțiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0850",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ebe8c3b4d8c9ec8c7b2ffa15124aaf376a0af457f8287fecebeabd7d77e17be2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-852-2015",
+   "path": "ue/regulament/2015/852",
+   "short": "Regulamentul delegat CELEX 32015R0852",
+   "title": "Regulamentul delegat (UE) 2015/852 al Comisiei din 27 martie 2015 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului cu privire la cazurile de nerespectare și cazurile de nerespectare gravă a normelor politicii comune în domeniul pescuitului care pot conduce la o întrerupere a termenului de plată sau la suspendarea plăților în cadrul Fondului european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0852",
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4851f88-08ec-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dcb2fb61bdd7aa412c85fd4118fc5a9fdc3f5652460162725de80425db56ac9e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-868-2015",
    "path": "ue/regulament/2015/868",
    "short": "Regulamentul (UE) 2015/868",
@@ -2913,6 +3768,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-895-2015",
+   "path": "ue/regulament/2015/895",
+   "short": "Regulamentul delegat CELEX 32015R0895",
+   "title": "Regulamentul delegat (UE) 2015/895 al Comisiei din 2 februarie 2015 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește normele specifice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0895",
+   "versions": [
+    {
+     "from": "2015-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17270751-10ca-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "057d545bff61d5e435b58317f69bf3222dc38ba03cca7e9beb2980034da5f805"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-896-2015",
    "path": "ue/regulament/2015/896",
    "short": "Regulamentul (UE) 2015/896",
@@ -2939,6 +3809,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9641830a-963b-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "edd6bd1fc4f7efc92334e6ab2a19eeefeecfed25d651e52d0508f6a1c15e67f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-923-2015",
+   "path": "ue/regulament/2015/923",
+   "short": "Regulamentul delegat CELEX 32015R0923",
+   "title": "Regulamentul delegat (UE) 2015/923 al Comisiei din 11 martie 2015 de modificare a Regulamentului delegat (UE) nr. 241/2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru cerințele de fonduri proprii în cazul instituțiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0923",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9ba3d6c-14b3-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "57497cd738cb33c4ffabd8b8b4abb1144b71fe5dc8c138bf32e1fa11be9be1d2"
     }
    ]
   },
@@ -3033,6 +3918,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-942-2015",
+   "path": "ue/regulament/2015/942",
+   "short": "Regulamentul delegat CELEX 32015R0942",
+   "title": "Regulamentul delegat (UE) 2015/942 al Comisiei din 4 martie 2015 de modificare a Regulamentului delegat (UE) nr. 529/2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru evaluarea gradului de importanță al extinderilor și al modificărilor abordărilor bazate pe modele interne în contextul calculării cerințelor de fonduri proprii pentru riscul de piață (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0942",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8bca3fa0-1645-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9d4b4c38b37550e8bc19bc2adddc43a5f6d3fcdbffba02811878202fe7e9d5b2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-960-2015",
    "path": "ue/regulament/2015/960",
    "short": "Regulamentul (UE) 2015/960",
@@ -3044,6 +3944,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6b8ca1f1-1973-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0e8661b2bef949554506c2b0b8f0782ce977cfafe9863889445d3e6af99fa645"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-97-2015",
+   "path": "ue/regulament/2015/97",
+   "short": "Regulamentul delegat CELEX 32015R0097",
+   "title": "Regulamentul delegat (UE) 2015/97 al Comisiei din 17 octombrie 2014 de corectare a Regulamentului delegat (UE) nr. 918/2012 în ceea ce privește notificarea pozițiilor scurte nete semnificative pe datoria suverană Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0097",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3a2c1f0-a2ca-11e4-9f50-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4b0ce0d0833ea3d35853db4e94c3fff127c2e10c48d617e8a6a333312bc15df9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-98-2015",
+   "path": "ue/regulament/2015/98",
+   "short": "Regulamentul delegat CELEX 32015R0098",
+   "title": "Regulamentul delegat (UE) 2015/98 al Comisiei din 18 noiembrie 2014 privind punerea în aplicare a obligațiilor internaționale ale Uniunii, astfel cum sunt menționate la articolul 15 alineatul (2) din Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului, în cadrul Convenției internaționale pentru conservarea tonului din Oceanul Atlantic și al Convenției privind viitoarea cooperare multilaterală pentru pescuit în Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0098",
+   "versions": [
+    {
+     "from": "2015-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/157f1bf2-a2cb-11e4-9f50-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a166073b187c9a3680f354bcf5fcb98e11f6a8a5a30d583c3c804a907baff10c"
     }
    ]
   }

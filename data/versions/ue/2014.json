@@ -1443,6 +1443,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1-2014",
+   "path": "ue/regulament/2014/1",
+   "short": "Regulamentul delegat CELEX 32014R0001",
+   "title": "Regulamentul delegat (UE) nr. 1/2014 al Comisiei din 28 august 2013 de stabilire a anexei III la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0001",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b84f49cd-750f-11e3-8e20-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d1851d97e3bdba162a33ffeab78a2bcecb8ca94e5ba3fdbd67b470605f4256a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-100-2014",
    "path": "ue/regulament/2014/100",
    "short": "Regulamentul (UE) nr. 100/2014",
@@ -1484,6 +1499,156 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a22d3948-4545-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "ff4326a1ebb27ae4c5dde3e467755e827be7388f46ccf9da2799a249e4e7ae70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1014-2014",
+   "path": "ue/regulament/2014/1014",
+   "short": "Regulamentul delegat CELEX 32014R1014",
+   "title": "Regulamentul delegat (UE) nr. 1014/2014 al Comisiei din 22 iulie 2014 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentelor (CE) nr. 2328/2003, (CE) nr. 861/2006, (CE) nr. 1198/2006 și (CE) nr. 791/2007 ale Consiliului și a Regulamentului (UE) nr. 1255/2011 al Parlamentului European și al Consiliului în ceea ce privește conținutul și construcția unui sistem de monitorizare și de evaluare comun pentru operațiunile finanțate din Fondul european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1014",
+   "versions": [
+    {
+     "from": "2014-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2db04ea8-47d6-11e4-a0cb-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "c9713263d7ab3f95ccdedee6caea860f37615ce04b52b3b0d64571c1e726d237"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1015-2014",
+   "path": "ue/regulament/2014/1015",
+   "short": "Regulamentul delegat CELEX 32014R1015",
+   "title": "Regulamentul delegat (UE) nr. 1015/2014 al Comisiei din 22 iulie 2014 de modificare a anexelor II și III la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare și de abrogare a Regulamentului delegat (UE) nr. 154/2013 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1015",
+   "versions": [
+    {
+     "from": "2014-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96815879-47d6-11e4-a0cb-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "68a169ef2e8c6c9c31011cfcfa502c134f3db699cd4dac8a83fd1983cf52634f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1016-2014",
+   "path": "ue/regulament/2014/1016",
+   "short": "Regulamentul delegat CELEX 32014R1016",
+   "title": "Regulamentul delegat (UE) nr. 1016/2014 al Comisiei din 22 iulie 2014 de modificare a anexei II la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1016",
+   "versions": [
+    {
+     "from": "2014-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7fffe8a-47d6-11e4-a0cb-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "015d367cb2a8ef9297fd2b8fa7cd8c0854a73294c6fbfd99afd92985df770262"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1031-2014",
+   "path": "ue/regulament/2014/1031",
+   "short": "Regulamentul delegat CELEX 32014R1031",
+   "title": "Regulamentul delegat (UE) nr. 1031/2014 al Comisiei din 29 septembrie 2014 de stabilire a unor măsuri de sprijin excepționale cu caracter temporar suplimentare pentru producătorii de anumite fructe și legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1031",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df12c911-486e-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f644d27aedc93295a80c706bcb72ba34f55460dade465b845c109b217321f11d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1040-2014",
+   "path": "ue/regulament/2014/1040",
+   "short": "Regulamentul delegat CELEX 32014R1040",
+   "title": "Regulamentul delegat (UE) nr. 1040/2014 al Comisiei din 25 iulie 2014 de modificare a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman, în vederea adaptării la progresele tehnice a anexei I la respectiva directivă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1040",
+   "versions": [
+    {
+     "from": "2014-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0714fe4f-49fc-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0be335160c2c1617f5c0b807309d0822601d8a475298306e64ecf2fa8f079b2c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1042-2014",
+   "path": "ue/regulament/2014/1042",
+   "short": "Regulamentul delegat CELEX 32014R1042",
+   "title": "Regulamentul delegat (UE) nr. 1042/2014 al Comisiei din 25 iulie 2014 de completare a Regulamentului (UE) nr. 514/2014 cu privire la desemnarea și la responsabilitățile de gestionare și control ale autorităților responsabile și cu privire la statutul și la obligațiile autorităților de audit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1042",
+   "versions": [
+    {
+     "from": "2014-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f253ab6-4ac5-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a1d3bfdcbc4c1ee65f6331c0bd07fdee345d5e479e0d97d03570b98ade8932c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1046-2014",
+   "path": "ue/regulament/2014/1046",
+   "short": "Regulamentul delegat CELEX 32014R1046",
+   "title": "Regulamentul delegat (UE) nr. 1046/2014 al Comisiei din 28 iulie 2014 de completare a Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește criteriile de calculare a costurilor suplimentare suportate de operatorii implicați în pescuitul, acvacultura, prelucrarea și comercializarea anumitor produse pescărești și de acvacultură provenite din regiunile ultraperiferice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1046",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35402343-4de6-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "666e88daa9175c965496aac8d5ce1905de7d2610636a9c1fd567fc7ca869dc40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1048-2014",
+   "path": "ue/regulament/2014/1048",
+   "short": "Regulamentul delegat CELEX 32014R1048",
+   "title": "Regulamentul delegat (UE) nr. 1048/2014 al Comisiei din 30 iulie 2014 de stabilire a măsurilor de informare și publicitate destinate publicului și a măsurilor de informare a beneficiarilor, în temeiul Regulamentului (UE) nr. 514/2014 al Parlamentului European și al Consiliului de stabilire a dispozițiilor generale privind Fondul pentru azil, migrație și integrare, precum și instrumentul de sprijin financiar pentru cooperarea polițienească, prevenirea și combaterea criminalității și gestionarea crizelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1048",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/87d27189-4de6-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7f685c814863933e142ff592c1370dac9693995d57f7e980c5967e4c7aa2cf01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1062-2014",
+   "path": "ue/regulament/2014/1062",
+   "short": "Regulamentul delegat CELEX 32014R1062",
+   "title": "Regulamentul delegat (UE) nr. 1062/2014 al Comisiei din 4 august 2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide, menționat în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1062",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/266b7ea4-5042-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bdd1165530ecc7d1c31c58148e6785d69b088b596d863eb4afffa2501dd76785"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1078-2014",
+   "path": "ue/regulament/2014/1078",
+   "short": "Regulamentul delegat CELEX 32014R1078",
+   "title": "Regulamentul delegat (UE) nr. 1078/2014 al Comisiei din 7 august 2014 de modificare a anexei I la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1078",
+   "versions": [
+    {
+     "from": "2014-11-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a345f58-5439-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "df738535faf22d54126bffb1e29a53b72a20a64c7569189db4769cc87e5a2fb6"
     }
    ]
   },
@@ -1604,6 +1769,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/bec878b7-5a75-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "bca75aa0a6ca17b9a9b92cc7f40cc0aa699373d0d962e47abdc2d61f36446361"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1125-2014",
+   "path": "ue/regulament/2014/1125",
+   "short": "Regulamentul delegat CELEX 32014R1125",
+   "title": "Regulamentul delegat (UE) nr. 1125/2014 al Comisiei din 19 septembrie 2014 de completare a Directivei 2014/17/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la suma minimă a asigurării de răspundere civilă profesională sau a garanției comparabile pe care intermediarii de credit trebuie să o dețină Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1125",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46e12b8f-5b3a-11e4-8ccf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "75d41fcb74bbf31cecdca8bf1f6b0a43605d82351b62703e79088a6531028e33"
     }
    ]
   },
@@ -1773,6 +1953,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1151-2014",
+   "path": "ue/regulament/2014/1151",
+   "short": "Regulamentul delegat CELEX 32014R1151",
+   "title": "Regulamentul delegat (UE) nr. 1151/2014 al Comisiei din 4 iunie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare privind informațiile care trebuie notificate în exercitarea dreptului de stabilire și a libertății de a presta servicii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1151",
+   "versions": [
+    {
+     "from": "2014-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32a264fc-5fff-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2b42ce2f366b1d7575a0b85f7510ddd5a52f97efcb95b7c50c823b6b18a2e780"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1152-2014",
+   "path": "ue/regulament/2014/1152",
+   "short": "Regulamentul delegat CELEX 32014R1152",
+   "title": "Regulamentul delegat (UE) nr. 1152/2014 al Comisiei din 4 iunie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la identificarea situării geografice a expunerilor din credite relevante în scopul calculării ratelor amortizorului anticiclic de capital specific instituției (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1152",
+   "versions": [
+    {
+     "from": "2014-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c663a5d-5fff-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "85c9d5004fede9679b709c9730eba12dd1eb017ad1aaae5d1ad347a55d467c6d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1153-2014",
    "path": "ue/regulament/2014/1153",
    "short": "Regulamentul (UE) nr. 1153/2014",
@@ -1848,6 +2058,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1187-2014",
+   "path": "ue/regulament/2014/1187",
+   "short": "Regulamentul delegat CELEX 32014R1187",
+   "title": "Regulamentul delegat (UE) nr. 1187/2014 al Comisiei din 2 octombrie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru determinarea expunerii globale față de un client sau un grup de clienți aflați în legătură din punctul de vedere al tranzacțiilor cu active-suport Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1187",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/385ad12b-6650-11e4-ba48-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "841b670444febc714f13356b3880606679d037b73abd94dc25d040ece6bba623"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-119-2014",
    "path": "ue/regulament/2014/119",
    "short": "Regulamentul (UE) nr. 119/2014",
@@ -1874,6 +2099,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/88d5e6c0-6586-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "dd3d7749cdf32d265607691fb6714b25bb786f249dacd0bd03d6c701fb2efe87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1198-2014",
+   "path": "ue/regulament/2014/1198",
+   "short": "Regulamentul delegat CELEX 32014R1198",
+   "title": "Regulamentul delegat (UE) nr. 1198/2014 al Comisiei din 1 august 2014 de completare a Regulamentului (CE) nr. 1217/2009 al Consiliului privind crearea unei rețele de colectare de informații contabile agricole privind veniturile și activitatea economică a exploatațiilor agricole în Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1198",
+   "versions": [
+    {
+     "from": "2014-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d631e154-664f-11e4-ba48-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bb6d90e5da699f37d9c4c5ba0d67bbe9f2a05964a26b4ef851e6d1f6ae6c1d10"
     }
    ]
   },
@@ -1938,6 +2178,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1222-2014",
+   "path": "ue/regulament/2014/1222",
+   "short": "Regulamentul delegat CELEX 32014R1222",
+   "title": "Regulamentul delegat (UE) nr. 1222/2014 al Comisiei din 8 octombrie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare pentru precizarea metodologiei pentru identificarea instituțiilor globale de importanță sistemică și pentru definirea de subcategorii ale instituțiilor globale de importanță sistemică Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1222",
+   "versions": [
+    {
+     "from": "2014-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/21d74320-6ca0-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c93b80cba17c01f7b6967d247cc801bd0927fcddc70e8376a8d34f0b46587c68"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1226-2014",
    "path": "ue/regulament/2014/1226",
    "short": "Regulamentul (UE) nr. 1226/2014",
@@ -1998,6 +2253,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1252-2014",
+   "path": "ue/regulament/2014/1252",
+   "short": "Regulamentul delegat CELEX 32014R1252",
+   "title": "Regulamentul delegat (UE) nr. 1252/2014 al Comisiei din 28 mai 2014 de completare a Directivei 2001/83/CE a Parlamentului European și a Consiliului în ceea ce privește principiile și orientările de bune practici de fabricație pentru substanțele active utilizate în medicamentele de uz uman Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1252",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f87c7a6-747b-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "792bff213e235725cc510e9c7d174dcf698877aecb5362e192e6589e76b074a0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1253-2014",
    "path": "ue/regulament/2014/1253",
    "short": "Regulamentul (UE) nr. 1253/2014",
@@ -2009,6 +2279,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a65efd48-747b-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "e4a46549799e07b7a60e477ecf0eb970fda39b5d72416a50d2d5c8b7820df1df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1254-2014",
+   "path": "ue/regulament/2014/1254",
+   "short": "Regulamentul delegat CELEX 32014R1254",
+   "title": "Regulamentul delegat (UE) nr. 1254/2014 al Comisiei din 11 iulie 2014 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului cu privire la cerințele de etichetare energetică aplicabile unităților de ventilație rezidențiale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1254",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/168e9fda-747c-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f77af51e80a355aab73be378c5c07ba428884cabc46e1fddd1d46b938bcf0411"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1255-2014",
+   "path": "ue/regulament/2014/1255",
+   "short": "Regulamentul delegat CELEX 32014R1255",
+   "title": "Regulamentul delegat (UE) nr. 1255/2014 al Comisiei din 17 iulie 2014 de completare a Regulamentului (UE) nr. 223/2014 al Parlamentului European și al Consiliului privind Fondul de ajutor european destinat celor mai defavorizate persoane, prin stabilirea conținutului rapoartelor anuale și finale de punere în aplicare, inclusiv a listei indicatorilor comuni",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1255",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55a01a0c-747c-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fd3f6e9b4c24e3a59898c9caf7e49e57a4e20cf6d8751adeff6dce077d95b00d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1263-2014",
+   "path": "ue/regulament/2014/1263",
+   "short": "Regulamentul delegat CELEX 32014R1263",
+   "title": "Regulamentul delegat (UE) nr. 1263/2014 al Comisiei din 26 noiembrie 2014 de stabilire a unui ajutor cu caracter temporar și excepțional pentru producătorii de lapte din Estonia, Letonia și Lituania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1263",
+   "versions": [
+    {
+     "from": "2014-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b1f7d10-760b-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "18736d5af87123583cf49ddac4ed6d2f26b21e6a983be93fa365224fec398383"
     }
    ]
   },
@@ -2039,6 +2354,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/70f2a954-7c4b-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "9ad7a711e3390dce491a474d53339b7f70d6e7080814c31117f47e9cb347232b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1291-2014",
+   "path": "ue/regulament/2014/1291",
+   "short": "Regulamentul delegat CELEX 32014R1291",
+   "title": "Regulamentul delegat (UE) nr. 1291/2014 al Comisiei din 16 iulie 2014 privind condițiile de clasificare, fără testare, a panourilor pe bază de lemn conforme cu standardul EN 13986 și a lambriurilor și placărilor din lemn masiv conforme cu standardul EN 14915 în ceea ce privește capacitatea de protecție împotriva incendiilor, atunci când sunt utilizate pentru îmbrăcarea pereților și a plafoanelor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1291",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3bac2e6-7c4b-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ecd281e07c7f99fbebf2dbff8eff8180754929b4107e00901913d81980d33548"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1292-2014",
+   "path": "ue/regulament/2014/1292",
+   "short": "Regulamentul delegat CELEX 32014R1292",
+   "title": "Regulamentul delegat (UE) nr. 1292/2014 al Comisiei din 17 iulie 2014 privind condițiile de clasificare, fără testare, a anumitor pardoseli din lemn neacoperite conforme cu standardul EN 14342, în ceea ce privește comportamentul la foc al acestora Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1292",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0123f608-7c4c-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f4ea899d3c19c321c9b1386634f7977a4ad31ac3c0b663721de98f318c5d381a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1293-2014",
+   "path": "ue/regulament/2014/1293",
+   "short": "Regulamentul delegat CELEX 32014R1293",
+   "title": "Regulamentul delegat (UE) nr. 1293/2014 al Comisiei din 17 iulie 2014 privind condițiile de clasificare, fără testare, a plaselor și profilelor metalice pentru lucrări interioare de tencuire reglementate de standardul armonizat EN 13658-1, a plaselor și profilelor metalice pentru tencuiri exterioare reglementate de standardul armonizat EN 13658-2, precum și a profilelor metalice și a profilelor fasonate reglementate de standardul armonizat EN 14353 în ceea ce privește comportamentul la foc al acestora Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1293",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/753120ea-7c4c-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f198acb694387b41dc7d46f03bb1e7f29c273be5d074e3b0a54711122c85f165"
     }
    ]
   },
@@ -2223,6 +2583,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1322-2014",
+   "path": "ue/regulament/2014/1322",
+   "short": "Regulamentul delegat CELEX 32014R1322",
+   "title": "Regulamentul delegat (UE) nr. 1322/2014 al Comisiei din 19 septembrie 2014 de completare și de modificare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește construcția vehiculelor și cerințele generale pentru omologarea de tip a vehiculelor agricole și forestiere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1322",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f621db7d-867f-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5e29134a12bbbd293b9453a4597508b00f5d580d1ffecdd6b9a9b092e65b85ca"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1323-2014",
    "path": "ue/regulament/2014/1323",
    "short": "Regulamentul CELEX 32014R1323",
@@ -2264,6 +2639,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c00b02de-84ed-11e4-91cd-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2766ef8fc3fa3842c9e81aa7f6d5fcf619c9c9303bad4de35645787f34d4d6fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1336-2014",
+   "path": "ue/regulament/2014/1336",
+   "short": "Regulamentul delegat CELEX 32014R1336",
+   "title": "Regulamentul delegat (UE) nr. 1336/2014 al Comisiei din 16 decembrie 2014 de stabilire a unor măsuri excepționale cu caracter temporar pentru sectorul laptelui și al produselor lactate, sub forma devansării perioadei de intervenție publică pentru unt și pentru lapte praf degresat din 2015",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1336",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e563d8cb-85b8-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1aea60998d03647eb31669c8ebe8980789cb699771f827b10f12d1c496d50dba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-134-2014",
+   "path": "ue/regulament/2014/134",
+   "short": "Regulamentul delegat CELEX 32014R0134",
+   "title": "Regulamentul delegat (UE) nr. 134/2014 al Comisiei din 16 decembrie 2013 de completare a Regulamentului (UE) nr. 168/2013 al Parlamentului European și al Consiliului privind cerințele referitoare la performanțele de mediu și ale sistemului de propulsie și de modificare a anexei V la acesta Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0134",
+   "versions": [
+    {
+     "from": "2014-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e9210da-9f41-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bc98a921323c0aa29a69a87c893a2b84aa9d0f462deb50a4118c43954034b33c"
     }
    ]
   },
@@ -2373,6 +2778,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1370-2014",
+   "path": "ue/regulament/2014/1370",
+   "short": "Regulamentul delegat CELEX 32014R1370",
+   "title": "Regulamentul delegat (UE) nr. 1370/2014 al Comisiei din 19 decembrie 2014 de stabilire a unui ajutor excepțional cu caracter temporar pentru producătorii de lapte din Finlanda",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1370",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc5b3006-8816-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "138809c4b319a3442ff6dc934ba4dbfda0ad675a780995cef8fe6663c7a033d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1371-2014",
+   "path": "ue/regulament/2014/1371",
+   "short": "Regulamentul delegat CELEX 32014R1371",
+   "title": "Regulamentul delegat (UE) nr. 1371/2014 al Comisiei din 19 decembrie 2014 de modificare a Regulamentului delegat (UE) nr. 1031/2014 de stabilire a unor măsuri de sprijin excepționale cu caracter temporar suplimentare pentru producătorii de anumite fructe și legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1371",
+   "versions": [
+    {
+     "from": "2014-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/385027f8-8817-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fe3572178fe5c54c207e953c4a3de867d49c21fda09cf6c3e77b224a14cb85a3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1374-2014",
    "path": "ue/regulament/2014/1374",
    "short": "Regulamentul (UE) nr. 1374/2014",
@@ -2403,6 +2838,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1386-2014",
+   "path": "ue/regulament/2014/1386",
+   "short": "Regulamentul delegat CELEX 32014R1386",
+   "title": "Regulamentul delegat (UE) nr. 1386/2014 al Comisiei din 19 august 2014 de modificare a anexei III la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1386",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa6fe7d3-8b36-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "28889b2484aff5045f7ae01add3527ad10fd03da1ebfe656dc5e4c57c9d0eb7d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-139-2014",
    "path": "ue/regulament/2014/139",
    "short": "Regulamentul (UE) nr. 139/2014",
@@ -2414,6 +2864,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3cc00bdc-955e-11e3-8c34-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "293caa4d9965db878a2699a93a7cb3c3df5c6618b85743f3ee966781d14660c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1397-2014",
+   "path": "ue/regulament/2014/1397",
+   "short": "Regulamentul delegat CELEX 32014R1397",
+   "title": "Regulamentul delegat (UE) nr. 1397/2014 al Comisiei din 22 octombrie 2014 de modificare a Regulamentului (UE) nr. 318/2013 de adoptare a programului de module ad hoc, care acoperă perioada 2016-2018, pentru ancheta prin sondaj asupra forței de muncă prevăzută prin Regulamentul (CE) nr. 577/98 al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1397",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86104465-8ff5-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b9c72f89e955555a18753a05b3b7ff13af56fba580253bef7ca66e462f182ec4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1398-2014",
+   "path": "ue/regulament/2014/1398",
+   "short": "Regulamentul delegat CELEX 32014R1398",
+   "title": "Regulamentul delegat (UE) nr. 1398/2014 al Comisiei din 24 octombrie 2014 de stabilire a standardelor privind voluntarii candidați și voluntarii UE pentru ajutor umanitar Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1398",
+   "versions": [
+    {
+     "from": "2014-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ebc974f7-90bb-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7f6a0c6e03289cb09ce28f7e3d4494c5f917c41e5560d0011aa5547760f1a8d0"
     }
    ]
   },
@@ -2448,6 +2928,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-157-2014",
+   "path": "ue/regulament/2014/157",
+   "short": "Regulamentul delegat CELEX 32014R0157",
+   "title": "Regulamentul delegat (UE) nr. 157/2014 al Comisiei din 30 octombrie 2013 privind condițiile publicării pe un site internet a unei declarații de performanță referitoare la produse pentru construcții",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0157",
+   "versions": [
+    {
+     "from": "2014-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3e03ce4-9ad0-11e3-82a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3dc875e9c876b8ad087d989e9af00d4cdb8a7aa2c75f32a80e7656ec857cb6ea"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-165-2014",
    "path": "ue/regulament/2014/165",
    "short": "Regulamentul (UE) nr. 165/2014",
@@ -2474,6 +2969,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/57f5fac4-9ebe-11e3-a67e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ef4729d9bd4588fc3e4ff9b8f8ec683156884aece2b7fd1675fab0ae45aab64b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-178-2014",
+   "path": "ue/regulament/2014/178",
+   "short": "Regulamentul delegat CELEX 32014R0178",
+   "title": "Regulamentul delegat (UE) nr. 178/2014 al Comisiei din 6 noiembrie 2013 de completare a Regulamentului (UE) nr. 229/2013 al Parlamentului European și al Consiliului privind măsurile specifice din domeniul agriculturii în favoarea insulelor mici din Marea Egee",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0178",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2438a1b8-a37c-11e3-9f91-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5b8310282f7d623c1c9ecc494915ce7a21e0bbdfa39e50625a9350e08d923102"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-179-2014",
+   "path": "ue/regulament/2014/179",
+   "short": "Regulamentul delegat CELEX 32014R0179",
+   "title": "Regulamentul delegat (UE) nr. 179/2014 al Comisiei din 6 noiembrie 2013 de completare a Regulamentului (UE) nr. 228/2013 al Parlamentului European și al Consiliului în ceea ce privește registrul operatorilor, valoarea ajutorului pentru comercializarea produselor în afara regiunii, logoul, scutirea de taxele de import pentru anumite bovine și finanțarea anumitor măsuri referitoare la măsurile specifice din domeniul agriculturii în favoarea regiunilor ultraperiferice ale Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0179",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50b008f5-a37d-11e3-9f91-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9a8deca8750009ff4b3e45d2b862b898f4508a5fdf887142842ba1b123253aba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-182-2014",
+   "path": "ue/regulament/2014/182",
+   "short": "Regulamentul delegat CELEX 32014R0182",
+   "title": "Regulamentul delegat (UE) nr. 182/2014 al Comisiei din 17 decembrie 2013 de modificare a anexei III la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0182",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be7e05fe-9f8a-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4367d45e1453103442fb18466e9b88aa5feced6b8c23009f55091e74a5664c6c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-183-2014",
+   "path": "ue/regulament/2014/183",
+   "short": "Regulamentul delegat CELEX 32014R0183",
+   "title": "Regulamentul delegat (UE) nr. 183/2014 al Comisiei din 20 decembrie 2013 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului privind cerințele prudențiale pentru instituțiile de credit și societățile de investiții, în ceea ce privește standardele tehnice de reglementare pentru precizarea modului de calcul al ajustărilor specifice și al ajustărilor generale pentru riscul de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0183",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78912ccd-9f8a-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8e8208b8b17860d2471e4acd6a3cf14bdfe818737cb14ce72e92af347c6fd875"
     }
    ]
   },
@@ -2624,6 +3179,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/84afce6a-7cf6-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "07d92cd32336a15ca612ab158c48ce4f83912e457bd7d184e62c1519769b73f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-240-2014",
+   "path": "ue/regulament/2014/240",
+   "short": "Regulamentul delegat CELEX 32014R0240",
+   "title": "Regulamentul delegat (UE) nr. 240/2014 al Comisiei din 7 ianuarie 2014 privind Codul european de conduită referitor la parteneriat, în cadrul fondurilor structurale și de investiții europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0240",
+   "versions": [
+    {
+     "from": "2014-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c82928d8-ab54-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "864d62d253d99981e750bb8049bffba1f08d209c8ad5b186edd0d311c921cae1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-241-2014",
+   "path": "ue/regulament/2014/241",
+   "short": "Regulamentul delegat CELEX 32014R0241",
+   "title": "Regulamentul delegat (UE) nr. 241/2014 al Comisiei din 7 ianuarie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru cerințele de fonduri proprii în cazul instituțiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0241",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb0646a0-ab51-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cb61175d3f72d80df80a67dfd061950526ba17084b91ed6571946fe44b6dd27a"
     }
    ]
   },
@@ -2808,6 +3393,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-275-2014",
+   "path": "ue/regulament/2014/275",
+   "short": "Regulamentul delegat CELEX 32014R0275",
+   "title": "Regulamentul delegat (UE) nr. 275/2014 al Comisiei din 7 ianuarie 2014 de modificare a anexei I la Regulamentul (UE) nr. 1316/2013 al Parlamentului European și al Consiliului de instituire a Mecanismului pentru Interconectarea Europei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0275",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c03ed0c-af63-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "43b2683d44b14ba20ac6d16d42766ca416bee843b5af710e58be7e22efe80034"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-285-2014",
+   "path": "ue/regulament/2014/285",
+   "short": "Regulamentul delegat CELEX 32014R0285",
+   "title": "Regulamentul delegat (UE) nr. 285/2014 al Comisiei din 13 februarie 2014 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la efectul direct, substanțial și previzibil al contractelor în Uniune și la prevenirea eludării normelor și a obligațiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0285",
+   "versions": [
+    {
+     "from": "2014-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0bc46799-b0ca-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4e60545625cdf3c22e0fe85b399e8ea3c06a14a7e115817555b6a091f49d0ccd"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-289-2014",
    "path": "ue/regulament/2014/289",
    "short": "Regulamentul (UE) nr. 289/2014",
@@ -2834,6 +3449,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/286cd44d-b3ff-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "73b0633a0b53e86324fe4a6440fc6a0a44c213a5f7da23a99bc4140f4d18a6c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3-2014",
+   "path": "ue/regulament/2014/3",
+   "short": "Regulamentul delegat CELEX 32014R0003",
+   "title": "Regulamentul delegat (UE) nr. 3/2014 al Comisiei din 24 octombrie 2013 de completare a Regulamentului (UE) nr. 168/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele de siguranță în funcționare a vehiculului pentru omologarea vehiculelor cu două sau trei roți și a cvadriciclurilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0003",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c48df7ea-79d5-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ec0e495987abeedc11d8eda9ed410c9b34b5c29e9ed9f2b74e3cce69e729f377"
     }
    ]
   },
@@ -2969,6 +3599,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/827eccc2-bc8f-11e3-86f9-01aa75ed71a1.0020.02/DOC_1",
      "sha256": "60e2bfcc41851f825e65a6f36b1c48e72c9625209cfde3168f759a71bb1ae8c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-342-2014",
+   "path": "ue/regulament/2014/342",
+   "short": "Regulamentul delegat CELEX 32014R0342",
+   "title": "Regulamentul delegat (UE) nr. 342/2014 al Comisiei din 21 ianuarie 2014 de completare a Directivei 2002/87/CE a Parlamentului European și a Consiliului și a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru aplicarea metodelor de calculare a cerințelor privind rata de adecvare a capitalului pentru conglomeratele financiare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0342",
+   "versions": [
+    {
+     "from": "2014-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed8072fb-bafc-11e3-86f9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7bc4ff30211ee612a3f198f2e8c62e59d989a35d99bd2840bc4b771ed76e1b6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-357-2014",
+   "path": "ue/regulament/2014/357",
+   "short": "Regulamentul delegat CELEX 32014R0357",
+   "title": "Regulamentul delegat (UE) nr. 357/2014 al Comisiei din 3 februarie 2014 de completare a Directivei 2001/83/CE a Parlamentului European și a Consiliului și a Regulamentului (CE) nr. 726/2004 al Parlamentului European și al Consiliului în ceea ce privește situațiile în care pot fi solicitate studii de eficacitate post-autorizare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0357",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2bf8eef2-c083-11e3-86f9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dee0baea6150adab2ab6a1c76fa458e39dabe3d496c4f4d9bd7483b414d1c0b7"
     }
    ]
   },
@@ -3243,6 +3903,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-44-2014",
+   "path": "ue/regulament/2014/44",
+   "short": "Regulamentul delegat CELEX 32014R0044",
+   "title": "Regulamentul delegat (UE) nr. 44/2014 al Comisiei din 21 noiembrie 2013 de completare a Regulamentului (UE) nr. 168/2013 al Parlamentului European și al Consiliului în ceea ce privește construcția vehiculelor și cerințele generale pentru omologarea de tip a vehiculelor cu două sau trei roți și a cvadriciclurilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0044",
+   "versions": [
+    {
+     "from": "2014-02-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38ff9a76-8816-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "41d12046d100d108bfde0bfd6215e6ce29442a398502b00f4163f03a1bb34d39"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-452-2014",
    "path": "ue/regulament/2014/452",
    "short": "Regulamentul (UE) nr. 452/2014",
@@ -3348,6 +4023,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-480-2014",
+   "path": "ue/regulament/2014/480",
+   "short": "Regulamentul delegat CELEX 32014R0480",
+   "title": "Regulamentul delegat (UE) nr. 480/2014 al Comisiei din 3 martie 2014 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0480",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa7b7378-da76-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "eaec88b2fd6dac762bab6f52cc454c914d424d816f1cdeb0274f8028b197d806"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-481-2014",
+   "path": "ue/regulament/2014/481",
+   "short": "Regulamentul delegat CELEX 32014R0481",
+   "title": "Regulamentul delegat (UE) nr. 481/2014 al Comisiei din 4 martie 2014 de completare a Regulamentului (UE) nr. 1299/2013 al Parlamentului European și al Consiliului în ceea ce privește norme specifice privind eligibilitatea cheltuielilor pentru programele de cooperare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0481",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c79a9719-da76-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8e90a85dc40972073a9bede8d3db6ee4663b2514d0daace58c3ab2e157578fc9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-482-2014",
+   "path": "ue/regulament/2014/482",
+   "short": "Regulamentul delegat CELEX 32014R0482",
+   "title": "Regulamentul delegat (UE) nr. 482/2014 al Comisiei din 4 martie 2014 de modificare a Regulamentului delegat (UE) nr. 114/2013 în ceea ce privește emisiile specifice medii de CO 2 pe 2010 care au fost stabilite pentru producătorul Great Wall Motor Company Limited",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0482",
+   "versions": [
+    {
+     "from": "2014-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e126a8ea-da76-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a01df10e123d5ab51cb7ba6cb5bb54be887e6caeb8840c3bfd73ca0aed25e17d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-491-2014",
    "path": "ue/regulament/2014/491",
    "short": "Regulamentul (UE) nr. 491/2014",
@@ -3363,6 +4083,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-492-2014",
+   "path": "ue/regulament/2014/492",
+   "short": "Regulamentul delegat CELEX 32014R0492",
+   "title": "Regulamentul delegat (UE) nr. 492/2014 al Comisiei din 7 martie 2014 de completare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în ceea ce privește normele privind reînnoirea autorizațiilor pentru produsele biocide care fac obiectul recunoașterii reciproce Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0492",
+   "versions": [
+    {
+     "from": "2014-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b592a39-db32-11e3-8cd4-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "664c64b5a751df0dee2625da3722e5d465c02da65b4ec10c0e5ff70ab840173f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-497-2014",
    "path": "ue/regulament/2014/497",
    "short": "Regulamentul (UE) nr. 497/2014",
@@ -3374,6 +4109,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/28ae90e8-dbfb-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "59d94f0169e6998817a360a0131cd5536d7da3962751697898a855d8e38134a2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-502-2014",
+   "path": "ue/regulament/2014/502",
+   "short": "Regulamentul delegat CELEX 32014R0502",
+   "title": "Regulamentul delegat (UE) nr. 502/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (CE) nr. 73/2009 al Consiliului și a Regulamentului (UE) nr. 1307/2013 al Parlamentului European și al Consiliului în ceea ce privește baza de calcul a reducerilor care urmează să fie aplicate agricultorilor de către statele membre datorită reducerii liniare a plăților în 2014 și disciplinei financiare pentru anul calendaristic 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0502",
+   "versions": [
+    {
+     "from": "2014-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4a3e4a9-dcc3-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ecb252771373e91e09267f02f564d8279e5ba695053e32585af0ce5336d4b7aa"
     }
    ]
   },
@@ -3524,6 +4274,171 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/28b43d59-dff1-11e3-8cd4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "0fa1e0a6e921f5b14d53cbb9ef9115e6b929917eb082926154adfc5733f840ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-518-2014",
+   "path": "ue/regulament/2014/518",
+   "short": "Regulamentul delegat CELEX 32014R0518",
+   "title": "Regulamentul delegat (UE) nr. 518/2014 al Comisiei din 5 martie 2014 de modificare a Regulamentelor delegate (UE) nr. 1059/2010, (UE) nr. 1060/2010, (UE) nr. 1061/2010, (UE) nr. 1062/2010, (UE) nr. 626/2011, (UE) nr. 392/2012, (UE) nr. 874/2012, (UE) nr. 665/2013, (UE) nr. 811/2013 și (UE) nr. 812/2013 ale Comisiei în ceea ce privește etichetarea produselor cu impact energetic pe internet Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0518",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c046412-dd8b-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5053f63889e14e5b0514a05de52a68bdc0a442241df909d0c7f8e747d4448875"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-522-2014",
+   "path": "ue/regulament/2014/522",
+   "short": "Regulamentul delegat CELEX 32014R0522",
+   "title": "Regulamentul delegat (UE) nr. 522/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1301/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate privind principiile aplicabile procedurilor de selectare și de gestionare a acțiunilor inovatoare în domeniul dezvoltării urbane durabile care urmează să fie sprijinite de Fondul european de dezvoltare regională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0522",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b7c0286-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f2acb5b023d1e385d9a5981560e9e304537cdbf33132c00600c9b32bcf0a7b49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-523-2014",
+   "path": "ue/regulament/2014/523",
+   "short": "Regulamentul delegat CELEX 32014R0523",
+   "title": "Regulamentul delegat (UE) nr. 523/2014 al Comisiei din 12 martie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru stabilirea a ceea ce constituie legătura strânsă dintre valoarea obligațiunilor garantate ale unei instituții și valoarea activelor instituției Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0523",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a27e0a9-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7157bab57bf38ee8c8bb1c121c5333efab03eed6170320e32eb12e89932ab628"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-524-2014",
+   "path": "ue/regulament/2014/524",
+   "short": "Regulamentul delegat CELEX 32014R0524",
+   "title": "Regulamentul delegat (UE) nr. 524/2014 al Comisiei din 12 martie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care specifică informațiile pe care autoritățile competente din statele membre de origine și cele din statele membre gazdă și le comunică reciproc Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0524",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8af7fe5c-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0ead3493f10f97c02c7691ddead61918bf6e792f4b1c63ba13b7b2c9fc5620a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-525-2014",
+   "path": "ue/regulament/2014/525",
+   "short": "Regulamentul delegat CELEX 32014R0525",
+   "title": "Regulamentul delegat (UE) nr. 525/2014 al Comisiei din 12 martie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru definirea pieței Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0525",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/adea5ed0-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3f1dda53e741dac9cde1bafa446a7ce07659d4c9fc5cddd5a37129d343162a9a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-526-2014",
+   "path": "ue/regulament/2014/526",
+   "short": "Regulamentul delegat CELEX 32014R0526",
+   "title": "Regulamentul delegat (UE) nr. 526/2014 al Comisiei din 12 martie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare în vederea stabilirii marjei aproximative și a numărului limitat de portofolii mai mici pentru riscul de ajustare a evaluării creditului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0526",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce0695d5-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c2326c365ad631898b9d1dd7152ce6ce26fecd558f03495669069b2bb29ebcaf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-527-2014",
+   "path": "ue/regulament/2014/527",
+   "short": "Regulamentul delegat CELEX 32014R0527",
+   "title": "Regulamentul delegat (UE) nr. 527/2014 al Comisiei din 12 martie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la specificarea claselor de instrumente care reflectă în mod corespunzător calitatea creditului instituției în condiții de asigurare a continuității activității și care sunt adecvate pentru a fi utilizate în scopul remunerației variabile Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0527",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9521cb3-dff0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5fc0f3fb1eb549ae2b4a9e675741607990077e79b1a406a92b48c89dd971178a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-528-2014",
+   "path": "ue/regulament/2014/528",
+   "short": "Regulamentul delegat CELEX 32014R0528",
+   "title": "Regulamentul delegat (UE) nr. 528/2014 al Comisiei din 12 martie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru alte riscuri decât riscul delta ale opțiunilor în cadrul abordării standardizate a riscului de piață Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0528",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/249e3fd3-dff1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a2785ad2615ac752d497d4205009bfad77a3b2d57800a61bdef0f94dc7e1ba51"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-529-2014",
+   "path": "ue/regulament/2014/529",
+   "short": "Regulamentul delegat CELEX 32014R0529",
+   "title": "Regulamentul delegat (UE) nr. 529/2014 al Comisiei din 12 martie 2014 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru evaluarea gradului de importanță al extinderilor și al modificărilor abordării bazate pe modele interne de rating și ale abordării avansate de evaluare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0529",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49fc231f-dff1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e98f5015e0fb98cc004e489931fdd4e51dd055d65e6db80a597640e2de7358a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-530-2014",
+   "path": "ue/regulament/2014/530",
+   "short": "Regulamentul delegat CELEX 32014R0530",
+   "title": "Regulamentul delegat (UE) nr. 530/2014 al Comisiei din 12 martie 2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului cu standarde tehnice de reglementare în care sunt definite mai detaliat expunerile semnificative și pragurile pentru abordările interne de calculare a riscului specific din portofoliul de tranzacționare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0530",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e6b3990-dff1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d3fbd5ba432695eb995f6705cdedd09d084738e053c54f1d0ced2fcb7d59df03"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-532-2014",
+   "path": "ue/regulament/2014/532",
+   "short": "Regulamentul delegat CELEX 32014R0532",
+   "title": "Regulamentul delegat (UE) nr. 532/2014 al Comisiei din 13 martie 2014 de completare a Regulamentului (UE) nr. 223/2014 al Parlamentului European și al Consiliului privind Fondul de ajutor european destinat celor mai defavorizate persoane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0532",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa14f7b9-dff1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7e332d77f425cb6ccdd4772a32d8d608aa6a3efd4ceff92822258dc9dd4ab792"
     }
    ]
   },
@@ -3873,6 +4788,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-610-2014",
+   "path": "ue/regulament/2014/610",
+   "short": "Regulamentul delegat CELEX 32014R0610",
+   "title": "Regulamentul delegat (UE) nr. 610/2014 al Comisiei din 14 februarie 2014 de instituire a unei derogări de la Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului de stabilire a normelor de participare și diseminare pentru „Programul-cadru pentru cercetare și inovare (2014-2020) — Orizont 2020” în ceea ce privește întreprinderea comună ECSEL Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0610",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d36d9184-ee0f-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ba82e489b42a4d457cac041c093621911a44c3e6c83af04375723cbbe050b948"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-611-2014",
+   "path": "ue/regulament/2014/611",
+   "short": "Regulamentul delegat CELEX 32014R0611",
+   "title": "Regulamentul delegat (UE) nr. 611/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește programele de sprijin pentru sectorul uleiului de măsline și al măslinelor de masă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0611",
+   "versions": [
+    {
+     "from": "2014-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eeda2327-ee0f-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "233586ce620e0f4b22f19ee1f5cf010c60f6886ad48bcc7e2d025772ef01e07f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-612-2014",
+   "path": "ue/regulament/2014/612",
+   "short": "Regulamentul delegat CELEX 32014R0612",
+   "title": "Regulamentul delegat (UE) nr. 612/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului prin modificarea Regulamentului (CE) nr. 555/2008 al Comisiei în ceea ce privește noile măsuri din cadrul programelor naționale de sprijinire a sectorului vitivinicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0612",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09b26409-ee10-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9ad67be954e6c925c3d6730a4752ada1442a1de9918aaddfc933763d1097b8eb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-617-2014",
    "path": "ue/regulament/2014/617",
    "short": "Regulamentul (UE) nr. 617/2014",
@@ -3884,6 +4844,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d0fccbdf-f12c-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7bf56721f0b348cd65dd82e0530aa52f6c15f61c788eacb9ca064ffec751a764"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-622-2014",
+   "path": "ue/regulament/2014/622",
+   "short": "Regulamentul delegat CELEX 32014R0622",
+   "title": "Regulamentul delegat (UE) nr. 622/2014 al Comisiei din 14 februarie 2014 de stabilire a unei derogări de la Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului de stabilire a normelor de participare și diseminare pentru „Programul-cadru pentru cercetare și inovare (2014-2020) — Orizont 2020” cu privire la întreprinderea comună pentru inițiativa privind medicamentele inovatoare 2 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0622",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93d8efc0-f2bf-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "338723d4dea4c5c87aa2d855a20678688fd4ea9277780f264c7db8e10c43e339"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-623-2014",
+   "path": "ue/regulament/2014/623",
+   "short": "Regulamentul delegat CELEX 32014R0623",
+   "title": "Regulamentul delegat (UE) nr. 623/2014 al Comisiei din 14 februarie 2014 de stabilire a unei derogări de la Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului de stabilire a normelor de participare și diseminare pentru Programul-cadru pentru cercetare și inovare (2014-2020) — „Orizont 2020” cu privire la întreprinderea comună pentru bioindustrii Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0623",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c660e152-f2bf-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "de33bddbdcbf5c1fe762103affe7af5c41758e2e67220db75110fc456a056af3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-624-2014",
+   "path": "ue/regulament/2014/624",
+   "short": "Regulamentul delegat CELEX 32014R0624",
+   "title": "Regulamentul delegat (UE) nr. 624/2014 al Comisiei din 14 februarie 2014 de stabilire a unei derogări de la Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului de stabilire a normelor de participare și diseminare pentru Programul-cadru pentru cercetare și inovare (2014-2020) — „Orizont 2020” cu privire la întreprinderea comună Clean Sky 2 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0624",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f55042d4-f2bf-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8f12c5085cac723a9b2c7ba21793d4f870e88d4413c19be4ec0b0e6fa54493b2"
     }
    ]
   },
@@ -3914,6 +4919,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2224f488-f3a4-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "619456e3dfcf0464d46a59878d0723f2a6d701fef5e145128c756eb61ebf8c95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-639-2014",
+   "path": "ue/regulament/2014/639",
+   "short": "Regulamentul delegat CELEX 32014R0639",
+   "title": "Regulamentul delegat (UE) nr. 639/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1307/2013 al Parlamentului European și al Consiliului de stabilire a unor norme privind plățile directe acordate fermierilor prin scheme de sprijin în cadrul politicii agricole comune și de modificare a anexei X la regulamentul menționat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0639",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0da242db-f84b-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1f3ba0b7d7dd92ac9a3bb082d4baa04f78d1a15c9df859546da72af818abdfdf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-640-2014",
+   "path": "ue/regulament/2014/640",
+   "short": "Regulamentul delegat CELEX 32014R0640",
+   "title": "Regulamentul delegat (UE) nr. 640/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește Sistemul Integrat de Administrare și Control și condițiile pentru refuzarea sau retragerea plăților și pentru sancțiunile administrative aplicabile în cazul plăților directe, al sprijinului pentru dezvoltare rurală și al ecocondiționalității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0640",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32f3f10e-f84b-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "12bf776d0eb3dea8745dd6a61ed06d048fc6f67cf14754d5bd28ec0d63ca06db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-65-2014",
+   "path": "ue/regulament/2014/65",
+   "short": "Regulamentul delegat CELEX 32014R0065",
+   "title": "Regulamentul delegat (UE) nr. 65/2014 al Comisiei din 1 octombrie 2013 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a cuptoarelor și a hotelor de bucătărie de uz casnic Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0065",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb1178f1-8a55-11e3-87da-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a11ec26d346d837cf1c773bd9f818830edc98a6bc6f6d16173b0d55e70f46d20"
     }
    ]
   },
@@ -4038,6 +5088,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-665-2014",
+   "path": "ue/regulament/2014/665",
+   "short": "Regulamentul delegat CELEX 32014R0665",
+   "title": "Regulamentul delegat (UE) nr. 665/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1151/2012 al Parlamentului European și al Consiliului în ceea ce privește condițiile de utilizare a mențiunii de calitate facultative „produs montan”",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0665",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/187fec81-f783-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f1373b64d3e68c69f8ebd6d370a68849dc5052daefbd430c728ff7f70a8bad42"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-666-2014",
+   "path": "ue/regulament/2014/666",
+   "short": "Regulamentul delegat CELEX 32014R0666",
+   "title": "Regulamentul delegat (UE) nr. 666/2014 al Comisiei din 12 martie 2014 de stabilire a cerințelor substanțiale pentru un sistem de inventariere al Uniunii pe baza modificărilor potențialelor de încălzire globală și a orientărilor privind inventarierea convenite la nivel internațional în temeiul Regulamentului (UE) nr. 525/2013 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0666",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44b2c612-f783-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0f5db540654cc021e6fad416f8739dfed2d63fef197f2c457023623ad485f495"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-667-2014",
+   "path": "ue/regulament/2014/667",
+   "short": "Regulamentul delegat CELEX 32014R0667",
+   "title": "Regulamentul delegat (UE) nr. 667/2014 al Comisiei din 13 martie 2014 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește normele procedurale referitoare la sancțiunile impuse registrelor centrale de tranzacții de către Autoritatea Europeană pentru Valori Mobiliare și Piețe, inclusiv normele referitoare la dreptul la apărare și dispozițiile temporale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0667",
+   "versions": [
+    {
+     "from": "2014-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d9a1e24-f783-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bf75a02897a7b21202635f87db86a4975982600eabf6765b809f615b88cf0ca7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-67-2014",
    "path": "ue/regulament/2014/67",
    "short": "Regulamentul (UE) nr. 67/2014",
@@ -4139,6 +5234,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b78720e2-fb6d-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "35224709bf081c83e10de339ad442c642a7135c4539dc8e165ceb574b575556b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-694-2014",
+   "path": "ue/regulament/2014/694",
+   "short": "Regulamentul delegat CELEX 32014R0694",
+   "title": "Regulamentul delegat (UE) nr. 694/2014 al Comisiei din 17 decembrie 2013 de completare a Directivei 2011/61/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care stabilesc tipurile de administratori ai fondurilor de investiții alternative Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0694",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f94e9354-fb6d-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c05e30314fcfc572dad433cfa654b6dbbe6cf0fc346c75bdb1e95a9477416a10"
     }
    ]
   },
@@ -4349,6 +5459,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/11e2e85f-0cb3-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "3ad5f229791630563ad11f87bc19aa412b628ca73b273e77626ec25e53c4159e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-78-2014",
+   "path": "ue/regulament/2014/78",
+   "short": "Regulamentul delegat CELEX 32014R0078",
+   "title": "Regulamentul delegat (UE) nr. 78/2014 al Comisiei din 22 noiembrie 2013 de modificare a anexelor II și III la Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului privind informarea consumatorilor cu privire la produsele alimentare, în ceea ce privește anumite cereale care cauzează alergii sau intoleranțe și produsele alimentare cu adaos de fitosteroli, esteri de fitosterol, fitostanoli sau esteri de fitostanol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0078",
+   "versions": [
+    {
+     "from": "2014-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c06f32be-8987-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4c89b6edb596d6a41eaf0cdd37513ab9011300e0d4dbb60dd0198bdca246332f"
     }
    ]
   },
@@ -4608,6 +5733,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-906-2014",
+   "path": "ue/regulament/2014/906",
+   "short": "Regulamentul delegat CELEX 32014R0906",
+   "title": "Regulamentul delegat (UE) nr. 906/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește cheltuielile aferente intervenției publice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0906",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/680f9224-2e80-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86d7f3cae7ed2fc58756f6aa486aa402d41614228bdc9c7e130274547628403c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-907-2014",
+   "path": "ue/regulament/2014/907",
+   "short": "Regulamentul delegat CELEX 32014R0907",
+   "title": "Regulamentul delegat (UE) nr. 907/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește agențiile de plăți și alte organisme, gestiunea financiară, verificarea și închiderea conturilor, garanțiile și utilizarea monedei euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0907",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7c47846-2e80-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f36eab8a5251b479e4a179eabde79feec164a1ecff832d4d7079ea59cb8ddcf6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-909-2014",
    "path": "ue/regulament/2014/909",
    "short": "Regulamentul (UE) nr. 909/2014",
@@ -4653,6 +5808,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-913-2014",
+   "path": "ue/regulament/2014/913",
+   "short": "Regulamentul delegat CELEX 32014R0913",
+   "title": "Regulamentul delegat (UE) nr. 913/2014 al Comisiei din 21 august 2014 de stabilire a unor măsuri de sprijin excepționale cu caracter temporar pentru producătorii de piersici și de nectarine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0913",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/37046724-29cc-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c6d636cfd5d3d7e9172afaa805cca7f77e1514e6f9e19fd1a642ae4a171aa0af"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-923-2014",
    "path": "ue/regulament/2014/923",
    "short": "Regulamentul (UE) nr. 923/2014",
@@ -4664,6 +5834,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/90fbdece-2cf6-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "c9887cbb5d184db9cd9a9100c074ffe2e00b0d19c7fa561bed9150b27a3af006"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-932-2014",
+   "path": "ue/regulament/2014/932",
+   "short": "Regulamentul delegat CELEX 32014R0932",
+   "title": "Regulamentul delegat (UE) nr. 932/2014 al Comisiei din 29 august 2014 de stabilire a unor măsuri excepționale cu caracter temporar de sprijinire a producătorilor de anumite fructe și legume și de modificare a Regulamentului delegat (UE) nr. 913/2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0932",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bfe1e168-3017-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "863035c1961ac5586d6b1f306e0a0c8072d1250993049f145bfb15cfb412238b"
     }
    ]
   },
@@ -4754,6 +5939,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/76ad8f31-42e4-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "038068e069ac73f364cd4abb453a446c7bc93b731dbcce4e0446d89091581d0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-992-2014",
+   "path": "ue/regulament/2014/992",
+   "short": "Regulamentul delegat CELEX 32014R0992",
+   "title": "Regulamentul delegat (UE) nr. 992/2014 al Comisiei din 22 septembrie 2014 de abrogare a Regulamentului delegat (UE) nr. 950/2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0992",
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dbe67f6203d81111b77689c3441651ec2cd57b89c9bf770d907bbca395d21aee"
     }
    ]
   }

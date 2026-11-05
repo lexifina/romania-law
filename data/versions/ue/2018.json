@@ -603,6 +603,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-105-2018",
+   "path": "ue/regulament/2018/105",
+   "short": "Regulamentul delegat CELEX 32018R0105",
+   "title": "Regulamentul delegat (UE) 2018/105 al Comisiei din 27 octombrie 2017 de modificare a Regulamentului delegat (UE) 2016/1675 în ceea ce privește adăugarea Etiopiei pe lista țărilor cu grad înalt de risc, în tabelul de la punctul I din anexă (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0105",
+   "versions": [
+    {
+     "from": "2018-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b138221b-00d5-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bfdd6f58f67a511394f489b7ef864472bdbf07e55f359db21846fd5d5d4d7ef1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1063-2018",
+   "path": "ue/regulament/2018/1063",
+   "short": "Regulamentul delegat CELEX 32018R1063",
+   "title": "Regulamentul delegat (UE) 2018/1063 al Comisiei din 16 mai 2018 de modificare și de rectificare a Regulamentului delegat (UE) 2015/2446 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1063",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe9c0612-93bd-11e8-8bc1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "26c5e1c2aae25104ca56e010f5d9bcd02492e20b28bad91bd44ceb67bd5395ee"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1065-2018",
    "path": "ue/regulament/2018/1065",
    "short": "Regulamentul (UE) 2018/1065",
@@ -663,6 +693,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1100-2018",
+   "path": "ue/regulament/2018/1100",
+   "short": "Regulamentul delegat CELEX 32018R1100",
+   "title": "Regulamentul delegat (UE) 2018/1100 al Comisiei din 6 iunie 2018 de modificare a anexei la Regulamentul (CE) nr. 2271/96 al Consiliului de protecție împotriva efectelor aplicării extrateritoriale a unei legislații adoptate de către o țară terță, precum și a acțiunilor întemeiate pe aceasta sau care rezultă din aceasta",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1100",
+   "versions": [
+    {
+     "from": "2018-08-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b34c21a9-99c8-11e8-a408-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2bcd4e4009b1dcccd95a2f15bbac75890d27a9c8f9e748d36f230d93d24643bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1108-2018",
+   "path": "ue/regulament/2018/1108",
+   "short": "Regulamentul delegat CELEX 32018R1108",
+   "title": "Regulamentul delegat (UE) 2018/1108 al Comisiei din 7 mai 2018 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului cu standarde tehnice de reglementare privind criteriile pentru desemnarea punctelor centrale de contact pentru emitenții de monedă electronică și prestatorii de servicii de plată, precum și cu norme privind funcțiile acestora (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1108",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/912b0c49-9c59-11e8-a408-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7c57b9d023b932c778ea5db47095f3679ac7e6c7d122bd6c9a687c1253ea765f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1116-2018",
    "path": "ue/regulament/2018/1116",
    "short": "Regulamentul (UE) 2018/1116",
@@ -678,6 +738,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1118-2018",
+   "path": "ue/regulament/2018/1118",
+   "short": "Regulamentul delegat CELEX 32018R1118",
+   "title": "Regulamentul delegat (UE) 2018/1118 al Comisiei din 7 iunie 2018 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește condițiile pentru acordarea unei reduceri a nivelului garanției globale și a unei exonerări de garanție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1118",
+   "versions": [
+    {
+     "from": "2018-09-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2872bf59-9ec3-11e8-a408-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6c789363a806334db2abff021d003d5589966a7d4a0dc2738e3b1c80ffd1c6c2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1119-2018",
    "path": "ue/regulament/2018/1119",
    "short": "Regulamentul (UE) 2018/1119",
@@ -689,6 +764,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fe645e51-9ec0-11e8-a408-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5e97a4ce2d19bfc84a00280b9f4998feb518dd1eab48cf407e6a26d2069ba89c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1127-2018",
+   "path": "ue/regulament/2018/1127",
+   "short": "Regulamentul delegat CELEX 32018R1127",
+   "title": "Regulamentul delegat (UE) 2018/1127 al Comisiei din 28 mai 2018 de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1127",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/73ed9a5a-9f88-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c73cbd2bd6974e7b22cf6b78c9aaf24e039d93f28c1d4b7f42478f767f5fc4b8"
     }
    ]
   },
@@ -723,6 +813,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1145-2018",
+   "path": "ue/regulament/2018/1145",
+   "short": "Regulamentul delegat CELEX 32018R1145",
+   "title": "Regulamentul delegat (UE) 2018/1145 al Comisiei din 7 iunie 2018 de modificare a Regulamentului delegat (UE) 2017/891 în ceea ce privește organizațiile de producători din sectorul fructelor și legumelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1145",
+   "versions": [
+    {
+     "from": "2018-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64f3eb93-a1e5-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "adc27f29397f5b8169537303fcc681cedb5400247487da12fec90a1d34ace4fe"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-120-2018",
    "path": "ue/regulament/2018/120",
    "short": "Regulamentul (UE) 2018/120",
@@ -734,6 +839,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e50d45fd-0651-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "33894c09ac33e787a8e2d9a402ea6d80e21ec5bc0adf3d4c948a14233f6ce47f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-122-2018",
+   "path": "ue/regulament/2018/122",
+   "short": "Regulamentul delegat CELEX 32018R0122",
+   "title": "Regulamentul delegat (UE) 2018/122 al Comisiei din 20 octombrie 2017 de modificare a anexelor I, II, VI, VIII și IX la Regulamentul (UE) nr. 1007/2011 al Parlamentului European și al Consiliului privind denumirile fibrelor textile și etichetarea corespunzătoare și marcarea compoziției fibroase a produselor textile (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0122",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86218c9e-0268-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "334af275a0a2574c96ea7210ba7acc4c1825f921f2751ebb0c8d5edcb916fc3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1221-2018",
+   "path": "ue/regulament/2018/1221",
+   "short": "Regulamentul delegat CELEX 32018R1221",
+   "title": "Regulamentul delegat (UE) 2018/1221 al Comisiei din 1 iunie 2018 de modificare a Regulamentului (UE) 2015/35 în ceea ce privește calcularea cerințelor de capital reglementat pentru securitizări și pentru securitizările simple, transparente și standardizate deținute de societățile de asigurare și reasigurare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1221",
+   "versions": [
+    {
+     "from": "2018-09-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1cd785a1-b480-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d0918bf2ac97e7f63063c2423d3d3af1f52f4934c357e484fe1bf7eee2fa217b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2018",
+   "path": "ue/regulament/2018/1229",
+   "short": "Regulamentul delegat CELEX 32018R1229",
+   "title": "Regulamentul delegat (UE) 2018/1229 al Comisiei din 25 mai 2018 de completare a Regulamentului (UE) nr. 909/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la disciplina în materie de decontare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1229",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32fc8952-b714-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e460ecf623d7458f9975dfa03b8f4e1587e04118b556ed9442202173bc121cc4"
     }
    ]
   },
@@ -783,6 +933,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1291-2018",
+   "path": "ue/regulament/2018/1291",
+   "short": "Regulamentul delegat CELEX 32018R1291",
+   "title": "Regulamentul delegat (UE) 2018/1291 al Comisiei din 16 mai 2018 de modificare a Regulamentului delegat (UE) nr. 1042/2014 de completare a Regulamentului (UE) nr. 514/2014 al Parlamentului European și al Consiliului cu privire la desemnarea și la responsabilitățile de gestionare și control ale autorităților responsabile și cu privire la statutul și la obligațiile autorităților de audit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1291",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf6dc3f5-c158-11e8-9893-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b965a9a98f85d93d130f7e2bef14ceddfa9a6540300df52a20b1aabea6e681f0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1308-2018",
    "path": "ue/regulament/2018/1308",
    "short": "Regulamentul (UE) 2018/1308",
@@ -828,6 +993,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1467-2018",
+   "path": "ue/regulament/2018/1467",
+   "short": "Regulamentul delegat CELEX 32018R1467",
+   "title": "Regulamentul delegat (UE) 2018/1467 al Comisiei din 27 iulie 2018 de modificare a Regulamentului delegat (UE) 2016/1675 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului în ceea ce privește adăugarea Pakistanului în tabelul prevăzut la punctul I din anexă (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1467",
+   "versions": [
+    {
+     "from": "2018-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/949734f9-c60a-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4ea83fe863a516b7dbe2b541c16a3ce0d5390baf3b9252a9770401ca8ba9b7ad"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-147-2018",
    "path": "ue/regulament/2018/147",
    "short": "Regulamentul (UE) 2018/147",
@@ -854,6 +1034,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fd808442-c6d2-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0e44fe3d0e339b76d933c566bb21532d1e2b073972b54e89f2fdb472d96ae750"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-148-2018",
+   "path": "ue/regulament/2018/148",
+   "short": "Regulamentul delegat CELEX 32018R0148",
+   "title": "Regulamentul delegat (UE) 2018/148 al Comisiei din 27 septembrie 2017 de modificare a anexelor II, III și IV la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0148",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b37479f9-0652-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "74292c2b0f6eb6b9f7940a915d5ef39263447514a63881eb308d970d343fbc4a"
     }
    ]
   },
@@ -899,6 +1094,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4c73fcc7-c862-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0c497eeb4de1e72e2f4b6bb3d7394a955a96326d97b2814150e825ca45091e85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-149-2018",
+   "path": "ue/regulament/2018/149",
+   "short": "Regulamentul delegat CELEX 32018R0149",
+   "title": "Regulamentul delegat (UE) 2018/149 al Comisiei din 15 noiembrie 2017 de modificare a Regulamentului delegat (UE) 2016/1238 în ceea ce privește cerințele privind compoziția și caracteristicile calitative pentru laptele și produsele lactate eligibile pentru intervenție publică și ajutoarele pentru depozitarea privată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0149",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ce37c2e-0652-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fe3f59b3f174fd5cf66ec58538107f130703edf9da86e96efafcabdc334c782b"
     }
    ]
   },
@@ -1068,6 +1278,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1618-2018",
+   "path": "ue/regulament/2018/1618",
+   "short": "Regulamentul delegat CELEX 32018R1618",
+   "title": "Regulamentul delegat (UE) 2018/1618 al Comisiei din 12 iulie 2018 de modificare a Regulamentului delegat (UE) nr. 231/2013 în ceea ce privește sarcinile de păstrare ale depozitarilor (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1618",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aecbcbe0-dc17-11e8-afb3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2c6aac68adb4a0e5dc49b4709697c57ab8f6b10148ffac9fb8823514e9a4b457"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1619-2018",
+   "path": "ue/regulament/2018/1619",
+   "short": "Regulamentul delegat CELEX 32018R1619",
+   "title": "Regulamentul delegat (UE) 2018/1619 al Comisiei din 12 iulie 2018 de modificare a Regulamentului delegat (UE) 2016/438 în ceea ce privește sarcinile de păstrare ale depozitarilor (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1619",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/947c74a9-dc18-11e8-afb3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ebb7f076e84d0a56d7820983d77ab4a77d411eafcfa2dec0e62b0bffea52ad17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1620-2018",
+   "path": "ue/regulament/2018/1620",
+   "short": "Regulamentul delegat CELEX 32018R1620",
+   "title": "Regulamentul delegat (UE) 2018/1620 al Comisiei din 13 iulie 2018 de modificare a Regulamentului delegat (UE) 2015/61 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește cerința de acoperire a necesarului de lichiditate pentru instituțiile de credit (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1620",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa54b0db-dc18-11e8-afb3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f07c2ebcf44b89466cad81c2b3b3c8a467378fb1d510cc0230a53c64f5e6d48f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1628-2018",
    "path": "ue/regulament/2018/1628",
    "short": "Regulamentul (UE) 2018/1628",
@@ -1079,6 +1334,171 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ac16320c-dce4-11e8-afb3-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a383c7ae9930a7305814e2892c39bf2681658296f98a9179d96feb2b5c4982d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1629-2018",
+   "path": "ue/regulament/2018/1629",
+   "short": "Regulamentul delegat CELEX 32018R1629",
+   "title": "Regulamentul delegat (UE) 2018/1629 al Comisiei din 25 iulie 2018 de modificare a listei bolilor stabilite în anexa II la Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului privind bolile transmisibile ale animalelor și de modificare și de abrogare a anumitor acte din domeniul sănătății animalelor („Legea privind sănătatea animală”) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1629",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85b69649-dce4-11e8-afb3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f967b83ef24d07dfafb6303c9c99ea22820d26dbaffc2c11d57182c9d2ff1acf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1637-2018",
+   "path": "ue/regulament/2018/1637",
+   "short": "Regulamentul delegat CELEX 32018R1637",
+   "title": "Regulamentul delegat (UE) 2018/1637 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru procedurile și caracteristicile funcției de supraveghere (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1637",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab3fc851-e0e0-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "29c92877c8655a51bf5042548693a54b84b7abe6d8ecfdacf2fe4e627416cc5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1638-2018",
+   "path": "ue/regulament/2018/1638",
+   "short": "Regulamentul delegat CELEX 32018R1638",
+   "title": "Regulamentul delegat (UE) 2018/1638 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează în detaliu modalitățile prin care să se asigure caracterul adecvat și verificabil al datelor de intrare, precum și procedurile interne de supraveghere și verificare pe care administratorul unui indice de referință critic sau semnificativ trebuie să se asigure că le instituie un contribuitor în cazul în care datele de intrare sunt furnizate de o funcție de front office (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1638",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d65cec27-e0e0-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "900c9427c7514ea4dce7e378052a4dd4b3e3fa2fb31a19c25be132c08e3b6926"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1639-2018",
+   "path": "ue/regulament/2018/1639",
+   "short": "Regulamentul delegat CELEX 32018R1639",
+   "title": "Regulamentul delegat (UE) 2018/1639 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează în detaliu elementele codului de conduită pe care trebuie să îl elaboreze administratorii indicilor de referință bazați pe date de intrare provenite de la contribuitori (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1639",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f4064ab-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4b58a9f00485cb1c75086d940db9d07a0fb071eda9583f2c4ad3a230221ff0c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1640-2018",
+   "path": "ue/regulament/2018/1640",
+   "short": "Regulamentul delegat CELEX 32018R1640",
+   "title": "Regulamentul delegat (UE) 2018/1640 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează în detaliu cerințele în materie de guvernanță și de control aplicabile contribuitorilor supravegheați (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1640",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf473b66-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "44c473634d42c5d4f9db207892c4262a09aa9cd182abf6f2233f8a29de54bca8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1641-2018",
+   "path": "ue/regulament/2018/1641",
+   "short": "Regulamentul delegat CELEX 32018R1641",
+   "title": "Regulamentul delegat (UE) 2018/1641 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează în detaliu informațiile care trebuie furnizate de administratorii indicilor de referință critici sau semnificativi în legătură cu metodologia utilizată pentru determinarea indicelui de referință, cu evaluarea internă și aprobarea metodologiei, precum și în legătură cu procedurile pentru modificarea substanțială a metodologiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1641",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8185e1c-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "38a43eca085b44c4f1c74b86860a41a5aeb7c9152bf84a5cb5f6b3c138cf9e26"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1642-2018",
+   "path": "ue/regulament/2018/1642",
+   "short": "Regulamentul delegat CELEX 32018R1642",
+   "title": "Regulamentul delegat (UE) 2018/1642 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează mai detaliat criteriile pe care autoritățile competente trebuie să le ia în considerare atunci când evaluează dacă administratorii indicilor de referință semnificativi ar trebui să aplice anumite cerințe (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1642",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/177e647f-e0e2-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5c4166d11945f090e1a45968cf503890fe2219fb3f7d92c72f08ecb754e3bf00"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1643-2018",
+   "path": "ue/regulament/2018/1643",
+   "short": "Regulamentul delegat CELEX 32018R1643",
+   "title": "Regulamentul delegat (UE) 2018/1643 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează în detaliu conținutul declarației privind indicele de referință pe care trebuie să o publice administratorul unui indice de referință și cazurile în care această declarație trebuie actualizată (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1643",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fca1d3ff-e0e0-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b309f2c9ec45766d75681b31d3123c1e1f57d2c6639ce33eab381045d1ee02d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1644-2018",
+   "path": "ue/regulament/2018/1644",
+   "short": "Regulamentul delegat CELEX 32018R1644",
+   "title": "Regulamentul delegat (UE) 2018/1644 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care determină conținutul minim al acordurilor de cooperare cu autoritățile competente din țările terțe ale căror cadre juridice și practici de supraveghere au fost recunoscute ca fiind echivalente (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1644",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ed96c83-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a6d1fc9eca2ac0584afc8d4fa26f8540eaca5d715a5a656c58d4fbd6a3e3b5fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1645-2018",
+   "path": "ue/regulament/2018/1645",
+   "short": "Regulamentul delegat CELEX 32018R1645",
+   "title": "Regulamentul delegat (UE) 2018/1645 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează forma și conținutul care trebuie respectate pentru cererile de recunoaștere depuse la autoritatea competentă din statul membru de referință și pentru prezentarea de informații în notificarea Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1645",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ff98603-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "25f1d4f4932063e1a8972edcae37922512bd06e49a4d203245183619ecb53b6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1646-2018",
+   "path": "ue/regulament/2018/1646",
+   "short": "Regulamentul delegat CELEX 32018R1646",
+   "title": "Regulamentul delegat (UE) 2018/1646 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru informațiile care trebuie furnizate într-o cerere de autorizare și într-o cerere de înregistrare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1646",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fd1abb1-e0e1-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7607ca077d0334b29add54b4548439503bb365647168f03d00cfc074482e7046"
     }
    ]
   },
@@ -1128,6 +1548,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-171-2018",
+   "path": "ue/regulament/2018/171",
+   "short": "Regulamentul delegat CELEX 32018R0171",
+   "title": "Regulamentul delegat (UE) 2018/171 al Comisiei din 19 octombrie 2017 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru pragul de semnificație al obligațiilor din credite restante (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0171",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e08cc2ce-0b15-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "01bb357aecb54621e83e285a7ea4a9735810656283b06b6bbcc40cd472648545"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1717-2018",
    "path": "ue/regulament/2018/1717",
    "short": "Regulamentul (UE) 2018/1717",
@@ -1169,6 +1604,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2621d9cb-e92e-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ac9ac58ba6a6bdf6106c0a3ffc0a84ffb1263eeb4ef861402d84fd76afbc019c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-172-2018",
+   "path": "ue/regulament/2018/172",
+   "short": "Regulamentul delegat CELEX 32018R0172",
+   "title": "Regulamentul delegat (UE) 2018/172 al Comisiei din 28 noiembrie 2017 de modificare a anexelor I și V la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0172",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32317cc1-0b16-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6a48df5e409bd7a904b2b7b734784f6f08c62d34e05e1739520637e4bfc2fbd6"
     }
    ]
   },
@@ -1233,6 +1683,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1728-2018",
+   "path": "ue/regulament/2018/1728",
+   "short": "Regulamentul delegat CELEX 32018R1728",
+   "title": "Regulamentul delegat (UE) 2018/1728 al Comisiei din 13 iulie 2018 de completare a Regulamentului (UE) nr. 515/2014 în ceea ce privește alocarea unei finanțări suplimentare de la bugetul UE pentru punerea în aplicare a Sistemului de intrare/ieșire",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1728",
+   "versions": [
+    {
+     "from": "2018-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3c70b94-e92e-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "71bf2f591a7e45658519528334879b367fdba6522273734cd885f0924f98adb5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-173-2018",
+   "path": "ue/regulament/2018/173",
+   "short": "Regulamentul delegat CELEX 32018R0173",
+   "title": "Regulamentul delegat (UE) 2018/173 al Comisiei din 29 noiembrie 2017 de modificare a Regulamentului (UE) 2015/936 al Parlamentului European și al Consiliului în ceea ce privește actualizarea codurilor din Nomenclatura combinată enumerate în anexa I la respectivul regulament",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0173",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a64bc70-0b16-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d2e48523f198882ba0099dfd4f7644b36014df7c6f19a7a0725a762fb0656fba"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-174-2018",
    "path": "ue/regulament/2018/174",
    "short": "Regulamentul (UE) 2018/174",
@@ -1244,6 +1724,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5aae2c22-0b16-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "721d1db0252997b1d84e2c11bcf7eb57773637af99d9e67c893b9dc1ac4edd10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-179-2018",
+   "path": "ue/regulament/2018/179",
+   "short": "Regulamentul delegat CELEX 32018R0179",
+   "title": "Regulamentul delegat (UE) 2018/179 al Comisiei din 25 septembrie 2017 de modificare a Regulamentului (UE) nr. 1233/2011 al Parlamentului European și al Consiliului privind aplicarea anumitor orientări în domeniul creditelor la export care beneficiază de susținere oficială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0179",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d010357-0d69-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d5f3c3d64912887dbdb58a184cdc2e5bdae5213d41f0f920ed2f5f3e29fc526d"
     }
    ]
   },
@@ -1473,6 +1968,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-191-2018",
+   "path": "ue/regulament/2018/191",
+   "short": "Regulamentul delegat CELEX 32018R0191",
+   "title": "Regulamentul delegat (UE) 2018/191 al Comisiei din 30 noiembrie 2017 de modificare a Regulamentului delegat (UE) 2015/98 al Comisiei privind punerea în aplicare a obligațiilor internaționale ale Uniunii, astfel cum sunt menționate la articolul 15 alineatul (2) din Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului, în cadrul Convenției internaționale pentru conservarea tonului din Oceanul Atlantic, în ceea ce privește stocurile de pește-spadă din Marea Mediterană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0191",
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/565123a1-0d6b-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "703ab29d112652e5d5228b990e9eb65d40fc6d5657f1af7047924e15ddc5adc5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1911-2018",
    "path": "ue/regulament/2018/1911",
    "short": "Regulamentul (UE) 2018/1911",
@@ -1698,6 +2208,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-212-2018",
+   "path": "ue/regulament/2018/212",
+   "short": "Regulamentul delegat CELEX 32018R0212",
+   "title": "Regulamentul delegat (UE) 2018/212 al Comisiei din 13 decembrie 2017 de modificare a Regulamentului delegat (UE) 2016/1675 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului, în ceea ce privește adăugarea țărilor Sri Lanka, Trinidad și Tobago și Tunisia în tabelul de la punctul I din anexă (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0212",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3b325e1-1155-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fa84cb3eb2d80be85d6df5b2a037b80403fbc2bd5351ccbbb1027539f8ccebcc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-216-2018",
+   "path": "ue/regulament/2018/216",
+   "short": "Regulamentul delegat CELEX 32018R0216",
+   "title": "Regulamentul delegat (UE) 2018/216 al Comisiei din 14 decembrie 2017 de modificare a anexelor V și IX la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0216",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33a42a94-1215-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a8de2f65117dac7bbc0a83e2d1eae49419477ad2067df52b3b837be875132d1f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-221-2018",
    "path": "ue/regulament/2018/221",
    "short": "Regulamentul (UE) 2018/221",
@@ -1724,6 +2264,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/32ba59f9-13b2-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "afc612399238b967b8ef1d360f97888ea405c03673ff0c93121b140c84f80805"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-236-2018",
+   "path": "ue/regulament/2018/236",
+   "short": "Regulamentul delegat CELEX 32018R0236",
+   "title": "Regulamentul delegat (UE) 2018/236 al Comisiei din 20 decembrie 2017 de rectificare a versiunii în limba estonă a Regulamentului delegat (UE) 2017/654 de completare a Regulamentului (UE) 2016/1628 al Parlamentului European și al Consiliului în ceea ce privește cerințele tehnice și generale referitoare la limitele emisiilor și omologarea de tip pentru motoarele cu ardere internă pentru echipamentele mobile fără destinație rutieră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0236",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3d7d1a2-179d-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "30e7b8f7df34262440ed25a875a0842a6b5be906e087be58b84e450010780c6f"
     }
    ]
   },
@@ -1758,6 +2313,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-273-2018",
+   "path": "ue/regulament/2018/273",
+   "short": "Regulamentul delegat CELEX 32018R0273",
+   "title": "Regulamentul delegat (UE) 2018/273 al Comisiei din 11 decembrie 2017 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește sistemul de autorizații pentru plantările de viță-de-vie, registrul plantațiilor viticole, documentele însoțitoare și certificarea, registrul de intrări și de ieșiri, declarațiile obligatorii, notificările și publicarea informațiilor notificate, de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește controalele și sancțiunile relevante, de modificare a Regulamentelor (CE) nr. 555/2008, (CE) nr. 606/2009 și (CE) nr. 607/2009 ale Comisiei și de abrogare a Regulamentului (CE) nr. 436/2009 al Comisiei și a Regulamentului delegat (UE) 2015/560 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0273",
+   "versions": [
+    {
+     "from": "2018-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/360ab806-1c55-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2907adf733d02edac819af9614f7cdfff85c3002b631798b070dab5310707991"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-275-2018",
    "path": "ue/regulament/2018/275",
    "short": "Regulamentul (UE) 2018/275",
@@ -1788,6 +2358,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-295-2018",
+   "path": "ue/regulament/2018/295",
+   "short": "Regulamentul delegat CELEX 32018R0295",
+   "title": "Regulamentul delegat (UE) 2018/295 al Comisiei din 15 decembrie 2017 de modificare a Regulamentului delegat (UE) nr. 44/2014 în ceea ce privește construcția vehiculelor și cerințele generale și a Regulamentului delegat (UE) nr. 134/2014 privind cerințele referitoare la performanțele de mediu și ale sistemului de propulsie pentru omologarea vehiculelor cu două sau trei roți și a cvadriciclurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0295",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10b4e08b-1c54-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f4c6c7282c4035245ebc787ca043a45f6417fdcd57fd532d5f2a40bec4ed39fc"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-302-2018",
    "path": "ue/regulament/2018/302",
    "short": "Regulamentul (UE) 2018/302",
@@ -1799,6 +2384,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/058372dc-1def-11e8-ac73-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1a8b5eb29157312567292de49ee0e556dc30129efb245e262bc280ad3d438c75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-306-2018",
+   "path": "ue/regulament/2018/306",
+   "short": "Regulamentul delegat CELEX 32018R0306",
+   "title": "Regulamentul delegat (UE) 2018/306 al Comisiei din 18 decembrie 2017 de stabilire a specificațiilor privind punerea în aplicare a obligației de debarcare referitoare la cod și cambulă de Baltica în activitățile de pescuit din Marea Baltică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0306",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c5d9d41-1de8-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3bd21148dd7ca6868c085d2c746372a56722bf7cf0ffe3f68d5ac96157036abc"
     }
    ]
   },
@@ -1818,6 +2418,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-32-2018",
+   "path": "ue/regulament/2018/32",
+   "short": "Regulamentul delegat CELEX 32018R0032",
+   "title": "Regulamentul delegat (UE) 2018/32 al Comisiei din 28 septembrie 2017 de completare a Directivei 2014/92/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la terminologia standardizată a Uniunii aplicabilă celor mai reprezentative servicii legate de un cont de plăți (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0032",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/315c526b-f6a5-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9863cbf20fcf75b83bacf7c505ab0eed9cbe2999d19e3e6bba4e1cda8bbdaa38"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-336-2018",
    "path": "ue/regulament/2018/336",
    "short": "Regulamentul (UE) 2018/336",
@@ -1829,6 +2444,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/370a78be-268c-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5eaed008e7c539a11f908e56eb64f14676dcdb6f69bb54894147df95e814842b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-344-2018",
+   "path": "ue/regulament/2018/344",
+   "short": "Regulamentul delegat CELEX 32018R0344",
+   "title": "Regulamentul delegat (UE) 2018/344 al Comisiei din 14 noiembrie 2017 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează criteriile legate de metodologia de evaluare a diferenței de tratament în cadrul procedurii de rezoluție (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0344",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1c65fa08-236e-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "53567e4f528d990febf36d86304c919736c04abac0b93dc2dd7dd5c762950b98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-345-2018",
+   "path": "ue/regulament/2018/345",
+   "short": "Regulamentul delegat CELEX 32018R0345",
+   "title": "Regulamentul delegat (UE) 2018/345 al Comisiei din 14 noiembrie 2017 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează criteriile metodologiei de evaluare a valorii activelor și pasivelor instituțiilor sau ale entităților (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0345",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b124b381-236d-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3ed94c4568e069c7f953a1dd086ddc13a3c30beee1417c57a575b128615d6761"
     }
    ]
   },
@@ -1859,6 +2504,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/763658bf-268c-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "3b6884269d07d60eaba0a92adf0299baac68f671778e06955131665b1909277f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-389-2018",
+   "path": "ue/regulament/2018/389",
+   "short": "Regulamentul delegat CELEX 32018R0389",
+   "title": "Regulamentul delegat (UE) 2018/389 al Comisiei din 27 noiembrie 2017 de completare a Directivei (UE) 2015/2366 a Parlamentului European și a Consiliului cu privire la standardele tehnice de reglementare pentru autentificarea strictă a clienților și standardele deschise, comune și sigure de comunicare (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0389",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28c2f705-268d-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a1037569a6d9920c2f7c475e106b511f031974dcd1176d9e2f2ff29a74fc4954"
     }
    ]
   },
@@ -1908,6 +2568,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-405-2018",
+   "path": "ue/regulament/2018/405",
+   "short": "Regulamentul delegat CELEX 32018R0405",
+   "title": "Regulamentul delegat (UE) 2018/405 al Comisiei din 21 noiembrie 2017 de rectificare a anumitor versiuni lingvistice ale Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului privind cerințele prudențiale pentru instituțiile de credit și firmele de investiții și de modificare a Regulamentului (UE) nr. 648/2012 (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0405",
+   "versions": [
+    {
+     "from": "2018-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16c9cb3a-28e7-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "905755de9d740403c333f04537da93f869b7e27cae4520e0576fd4760fb3ccfd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-414-2018",
+   "path": "ue/regulament/2018/414",
+   "short": "Regulamentul delegat CELEX 32018R0414",
+   "title": "Regulamentul delegat (UE) 2018/414 al Comisiei din 9 ianuarie 2018 de completare a Directivei 2014/90/UE a Parlamentului European și a Consiliului în ceea ce privește identificarea componentelor specifice ale echipamentelor maritime care pot beneficia de etichetarea electronică (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0414",
+   "versions": [
+    {
+     "from": "2018-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf08dd59-2b4f-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6bb590b0ad26d2c6bd552c1c959b9fca8015f75b0107959d9bfb0f54c88ba250"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-455-2018",
    "path": "ue/regulament/2018/455",
    "short": "Regulamentul (UE) 2018/455",
@@ -1923,6 +2613,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-47-2018",
+   "path": "ue/regulament/2018/47",
+   "short": "Regulamentul delegat CELEX 32018R0047",
+   "title": "Regulamentul delegat (UE) 2018/47 al Comisiei din 30 octombrie 2017 de autorizare a utilizării traulelor T90 alternative în activitățile de pescuit din Marea Baltică, prin derogare de la Regulamentul (CE) nr. 2187/2005 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0047",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9adb3de5-f760-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fc249f8ec0de89936afb85a623e5f93fd962bedf7a794aa708a83eda181eb22b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-480-2018",
+   "path": "ue/regulament/2018/480",
+   "short": "Regulamentul delegat CELEX 32018R0480",
+   "title": "Regulamentul delegat (UE) 2018/480 al Comisiei din 4 decembrie 2017 de completare a Regulamentului (UE) 2015/760 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la instrumentele financiare derivate utilizate exclusiv în scopul acoperirii riscurilor, durata suficientă a ciclului de viață al fondurilor europene de investiții pe termen lung, criteriile pentru evaluarea pieței pentru potențialii cumpărători și pentru evaluarea activelor care urmează să facă obiectul cesiunii, precum și tipurile și caracteristicile structurilor disponibile investitorilor de retail (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0480",
+   "versions": [
+    {
+     "from": "2018-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6de016b5-2e6f-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bd131200117dc2556ce8befd5234836469e8ea3788aae6db79aa75ca1d803008"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-511-2018",
    "path": "ue/regulament/2018/511",
    "short": "Regulamentul (UE) 2018/511",
@@ -1934,6 +2654,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cb9aaa41-3255-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "63f1eb1cf411028659f3174c56cad349aba2a1168892c45073d7a8e8a027fdf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-541-2018",
+   "path": "ue/regulament/2018/541",
+   "short": "Regulamentul delegat CELEX 32018R0541",
+   "title": "Regulamentul delegat (UE) 2018/541 al Comisiei din 20 decembrie 2017 de modificare a Regulamentului delegat (UE) 2017/2358 și a Regulamentului delegat (UE) 2017/2359 în ceea ce privește datele de aplicare ale acestora (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0541",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb4564b2-3964-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "05a7e63eeb8633b9ef66b90e200af60d4cb4e2d685921aae1069420326a1bf40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-543-2018",
+   "path": "ue/regulament/2018/543",
+   "short": "Regulamentul delegat CELEX 32018R0543",
+   "title": "Regulamentul delegat (UE) 2018/543 al Comisiei din 23 ianuarie 2018 de rectificare a versiunii în limba spaniolă a Regulamentului delegat (UE) nr. 812/2013 al Comisiei de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a instalațiilor pentru încălzirea apei, a rezervoarelor pentru apă caldă și a pachetelor de instalație pentru încălzirea apei și dispozitiv solar (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0543",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a2ae5e1-3963-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6a15b2989e1560da6bf6374e1b30fe6313457f84fbe3909a5e56eb943c7721a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-561-2018",
+   "path": "ue/regulament/2018/561",
+   "short": "Regulamentul delegat CELEX 32018R0561",
+   "title": "Regulamentul delegat (UE) 2018/561 al Comisiei din 29 ianuarie 2018 de modificare a Regulamentului delegat (UE) 2016/127 în ceea ce privește cerințele referitoare la proteine pentru formulele de continuare (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0561",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d385eda3-3dd8-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86ec25e27770a0501cc59cde0063170b7fb88401d1a0158c27f0987dbea53978"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-573-2018",
+   "path": "ue/regulament/2018/573",
+   "short": "Regulamentul delegat CELEX 32018R0573",
+   "title": "Regulamentul delegat (UE) 2018/573 al Comisiei din 15 decembrie 2017 privind elementele principale ale contractelor de stocare de date care urmează să fie încheiate ca parte a unui sistem de trasabilitate pentru produsele din tutun (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0573",
+   "versions": [
+    {
+     "from": "2018-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bcf51d11-4141-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fd6f9494ccbbd904cc301f14b9f6ebaca7e79aa482e7d7c73e83dfa0f873af0e"
     }
    ]
   },
@@ -2013,6 +2793,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-625-2018",
+   "path": "ue/regulament/2018/625",
+   "short": "Regulamentul delegat CELEX 32018R0625",
+   "title": "Regulamentul delegat (UE) 2018/625 al Comisiei din 5 martie 2018 de completare a Regulamentului (UE) 2017/1001 al Parlamentului European și al Consiliului privind marca Uniunii Europene și de abrogare a Regulamentului delegat (UE) 2017/1430",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0625",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48fda315-478e-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "35ea11289eb4c21f602592b1355f535629b70d3cee8efdcde5db975a23e4d2ad"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-627-2018",
    "path": "ue/regulament/2018/627",
    "short": "Regulamentul (UE) 2018/627",
@@ -2024,6 +2819,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0336ef83-478e-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7fbed39fa8dd8a4516b052112d3fbf102c78bcca86a75dea6006e1aba527242a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-631-2018",
+   "path": "ue/regulament/2018/631",
+   "short": "Regulamentul delegat CELEX 32018R0631",
+   "title": "Regulamentul delegat (UE) 2018/631 al Comisiei din 7 februarie 2018 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului prin stabilirea de laboratoare de referință ale Uniunii Europene pentru organismele dăunătoare plantelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0631",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba52a128-4854-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "61f630f9eca289ec5da4bf309f300a241ba975c26e2d72f05f31c762385eab85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-64-2018",
+   "path": "ue/regulament/2018/64",
+   "short": "Regulamentul delegat CELEX 32018R0064",
+   "title": "Regulamentul delegat (UE) 2018/64 al Comisiei din 29 septembrie 2017 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului pentru a preciza modul în care trebuie aplicate criteriile prevăzute la articolul 20 alineatul (1) litera (c) punctul (iii) pentru a evalua dacă anumite evenimente ar afecta în mod semnificativ și cu urmări negative integritatea piețelor, stabilitatea financiară, consumatorii, economia reală sau finanțarea gospodăriilor și a întreprinderilor în unul sau mai multe state membre (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0064",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08c7e4f4-fb51-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ecca7ea139e089d277a68d79a610547613d40518e8e6cede31ca040d0d609f84"
     }
    ]
   },
@@ -2073,6 +2898,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-65-2018",
+   "path": "ue/regulament/2018/65",
+   "short": "Regulamentul delegat CELEX 32018R0065",
+   "title": "Regulamentul delegat (UE) 2018/65 al Comisiei din 29 septembrie 2017 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului privind precizarea unor elemente tehnice ale definițiilor prevăzute articolul 3 alineatul (1) din regulament (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0065",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60924276-fb51-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0cb163c732b128d3dbe63ca7b241226396cfa28acc3ae8ee7a8cfb69f2c40135"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-66-2018",
+   "path": "ue/regulament/2018/66",
+   "short": "Regulamentul delegat CELEX 32018R0066",
+   "title": "Regulamentul delegat (UE) 2018/66 al Comisiei din 29 septembrie 2017 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului privind precizarea modului în care trebuie evaluate cuantumul nominal al instrumentelor financiare, altele decât instrumentele financiare derivate, cuantumul noțional al instrumentelor financiare derivate și valoarea netă a activelor fondurilor de investiții (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0066",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a4f8827-fb51-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8b0c7e78472ad07b40d73ce52527e80ee67cb37f0f8be8849fe36ed1f3cad22f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-669-2018",
    "path": "ue/regulament/2018/669",
    "short": "Regulamentul (UE) 2018/669",
@@ -2084,6 +2939,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7243e2bd-4f66-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "f8429b35cf8c5d368a4277091f03659bb5f5595a2595631fa0c1539d5be8a717"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-67-2018",
+   "path": "ue/regulament/2018/67",
+   "short": "Regulamentul delegat CELEX 32018R0067",
+   "title": "Regulamentul delegat (UE) 2018/67 al Comisiei din 3 octombrie 2017 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului în ceea ce privește stabilirea condițiilor de evaluare a efectelor încetării sau modificării indicilor de referință existenți (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0067",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8596b071-fb50-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "287a2c9373989fb985377de0ce447498d5b6eb1c76b027c84e8f52d7590bb0b9"
     }
    ]
   },
@@ -2253,6 +3123,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-72-2018",
+   "path": "ue/regulament/2018/72",
+   "short": "Regulamentul delegat CELEX 32018R0072",
+   "title": "Regulamentul delegat (UE) 2018/72 al Comisiei din 4 octombrie 2017 de completare a Regulamentului (UE) 2015/751 al Parlamentului European și al Consiliului privind comisioanele interbancare pentru tranzacțiile de plată cu cardul cu privire la standardele tehnice de reglementare prin care se stabilesc cerințele care trebuie respectate de schemele de plată cu cardul și de entitățile de prelucrare pentru a asigura aplicarea cerințelor de independență în ceea ce privește contabilitatea, organizarea și procesul de luare a deciziilor (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0072",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/080ac6cb-fbf6-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "733361e0b58d4463e898e18e95b168686c1f840223b2144358de6a948152c031"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-728-2018",
+   "path": "ue/regulament/2018/728",
+   "short": "Regulamentul delegat CELEX 32018R0728",
+   "title": "Regulamentul delegat (UE) 2018/728 al Comisiei din 24 ianuarie 2018 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru procedurile de excludere a tranzacțiilor cu contrapărți nefinanciare stabilite într-o țară terță de la cerința de fonduri proprii pentru riscul de ajustare a evaluării creditului (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0728",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/729fd2d4-5a6a-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "036051adff8c3b7dd61f631cb30f28005f363e26d71991c944ab0f309de4ba12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-729-2018",
+   "path": "ue/regulament/2018/729",
+   "short": "Regulamentul delegat CELEX 32018R0729",
+   "title": "Regulamentul delegat (UE) 2018/729 al Comisiei din 26 februarie 2018 de modificare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului în ceea ce privește includerea anumitor precursori ai drogurilor în lista substanțelor clasificate (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0729",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a1c61f6-5a6b-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "582e10eaa7b43b4eb923d3e5b1753d0f53917d97d3ffa7b006fc9fe286aa639f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-73-2018",
    "path": "ue/regulament/2018/73",
    "short": "Regulamentul (UE) 2018/73",
@@ -2328,6 +3243,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-761-2018",
+   "path": "ue/regulament/2018/761",
+   "short": "Regulamentul delegat CELEX 32018R0761",
+   "title": "Regulamentul delegat (UE) 2018/761 al Comisiei din 16 februarie 2018 de stabilire a metodelor comune de siguranță pentru supravegherea de către autoritățile naționale de siguranță după eliberarea unui certificat unic de siguranță sau a unei autorizații de siguranță în conformitate cu Directiva (UE) 2016/798 a Parlamentului European și a Consiliului și de abrogare a Regulamentului (UE) nr. 1077/2012 al Comisiei (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0761",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5b3c332036cbb7a312a62d37421475626504515472556b908bbbd0e8cd1ba797"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-762-2018",
+   "path": "ue/regulament/2018/762",
+   "short": "Regulamentul delegat CELEX 32018R0762",
+   "title": "Regulamentul delegat (UE) 2018/762 al Comisiei din 8 martie 2018 de stabilire a unor metode comune de siguranță privind cerințele sistemului de management al siguranței, în temeiul Directivei (UE) 2016/798 a Parlamentului European și a Consiliului, și de abrogare a Regulamentelor (UE) nr. 1158/2010 și (UE) nr. 1169/2010 ale Comisiei (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0762",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f749ba94-5fdf-11e8-ab9c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e84bb165e14f550f565d14e489ec2328b47ce08ad180b0c47cc66296b0042da7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-78-2018",
    "path": "ue/regulament/2018/78",
    "short": "Regulamentul (UE) 2018/78",
@@ -2399,6 +3344,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/08391c1f-6a23-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "d08408a61cdb0766b2763fec843e9f5decca9ba8569bb3e41e0c428bcfe02d91"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-828-2018",
+   "path": "ue/regulament/2018/828",
+   "short": "Regulamentul delegat CELEX 32018R0828",
+   "title": "Regulamentul delegat (UE) 2018/828 al Comisiei din 15 februarie 2018 de modificare a Regulamentului delegat (UE) 2015/68 în ceea ce privește cerințele referitoare la sistemele de frânare antiblocare, la dispozitivele de înaltă presiune de stocare a energiei și la racordurile hidraulice de tipul cu o singură conductă (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0828",
+   "versions": [
+    {
+     "from": "2018-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e21912a2-6964-11e8-85ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a5caa527a51b20af01af83953da030cd74f21097fa730a9b7097d0f834688a5d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-829-2018",
+   "path": "ue/regulament/2018/829",
+   "short": "Regulamentul delegat CELEX 32018R0829",
+   "title": "Regulamentul delegat (UE) 2018/829 al Comisiei din 15 februarie 2018 de modificare și de rectificare a Regulamentului delegat (UE) 2015/208 de completare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele de siguranță în funcționare a vehiculelor pentru omologarea vehiculelor agricole și forestiere (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0829",
+   "versions": [
+    {
+     "from": "2018-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6bbb72a5-6965-11e8-85ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3263d4ed91b98539d707401667b61a76a2e2c7ed71cfc8faef84e7e56ef995d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-830-2018",
+   "path": "ue/regulament/2018/830",
+   "short": "Regulamentul delegat CELEX 32018R0830",
+   "title": "Regulamentul delegat (UE) 2018/830 al Comisiei din 9 martie 2018 de modificare a anexei I la Regulamentul (UE) nr. 167/2013 al Parlamentului European și al Consiliului și a Regulamentului delegat (UE) nr. 1322/2014 al Comisiei în ceea ce privește adaptarea construcției vehiculului și cerințele generale pentru omologarea vehiculelor agricole și forestiere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0830",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8e31aa8-6965-11e8-85ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cf70ad7fa67283038aa37f26e5513e5e135f35c3e0e2ee9ce51fca7933de8976"
     }
    ]
   },
@@ -2553,6 +3543,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-959-2018",
+   "path": "ue/regulament/2018/959",
+   "short": "Regulamentul delegat CELEX 32018R0959",
+   "title": "Regulamentul delegat (UE) 2018/959 al Comisiei din 14 martie 2018 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la specificarea metodologiei de evaluare pe baza căreia autoritățile competente permit instituțiilor să utilizeze abordări avansate de evaluare pentru riscul operațional (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0959",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/971ad63e-80e3-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "43d89e0694447fb116768ab9cbc3386cdf26e96361e560bfb6fb7abca6196689"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-960-2018",
    "path": "ue/regulament/2018/960",
    "short": "Regulamentul (UE) 2018/960",
@@ -2564,6 +3569,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/39abf6a5-80e4-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "6aee424015ea6af166210436cfec3a557007d95cc0c35057f1fd1ec304c218f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-968-2018",
+   "path": "ue/regulament/2018/968",
+   "short": "Regulamentul delegat CELEX 32018R0968",
+   "title": "Regulamentul delegat (UE) 2018/968 al Comisiei din 30 aprilie 2018 de completare a Regulamentului (UE) nr. 1143/2014 al Parlamentului European și al Consiliului referitor la evaluarea riscurilor în ceea ce privește speciile alogene invazive",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0968",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3766ecc4-83c8-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1e2eff8c5f41379765788ea21221b2760e6c14dc1ff2b9eb43920352a7009773"
     }
    ]
   },
@@ -2658,6 +3678,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-977-2018",
+   "path": "ue/regulament/2018/977",
+   "short": "Regulamentul delegat CELEX 32018R0977",
+   "title": "Regulamentul delegat (UE) 2018/977 al Comisiei din 4 aprilie 2018 de rectificare a versiunii în limba bulgară a Regulamentului delegat (UE) 2017/653 de completare a Regulamentului (UE) nr. 1286/2014 al Parlamentului European și al Consiliului privind documentele cu informații esențiale referitoare la produsele de investiții individuale structurate și bazate pe asigurări (PRIIP), prin stabilirea unor standarde tehnice de reglementare privind modul de prezentare, conținutul, revizuirea și modificarea documentelor cu informații esențiale, precum și condițiile de îndeplinire a cerinței de a furniza astfel de documente (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0977",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c07ab12f-8564-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b04476daa5dead8866792f96b1132bd82b65908a402dcf4cb0fa1e80ec5b39c3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-978-2018",
    "path": "ue/regulament/2018/978",
    "short": "Regulamentul (UE) 2018/978",
@@ -2684,6 +3719,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dba64413-0015-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0b7c1ffbbf0870e47562708d947ae0eb68f8178fb30a866f3763f9629db694a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-985-2018",
+   "path": "ue/regulament/2018/985",
+   "short": "Regulamentul delegat CELEX 32018R0985",
+   "title": "Regulamentul delegat (UE) 2018/985 al Comisiei din 12 februarie 2018 de completare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele de performanță de mediu și de performanță a unității de propulsie ale vehiculelor agricole și forestiere și ale motoarelor acestora și de abrogare a Regulamentului delegat (UE) 2015/96 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0985",
+   "versions": [
+    {
+     "from": "2018-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80c7fbf1-8a95-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "04ec3509d12a070c47b26506e12e570439414681fa91a540fe6e7f3c3dcd960b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-987-2018",
+   "path": "ue/regulament/2018/987",
+   "short": "Regulamentul delegat CELEX 32018R0987",
+   "title": "Regulamentul delegat (UE) 2018/987 al Comisiei din 27 aprilie 2018 de modificare și de rectificare a Regulamentului delegat (UE) 2017/655 de completare a Regulamentului (UE) 2016/1628 al Parlamentului European și al Consiliului în ceea ce privește monitorizarea emisiilor de poluanți gazoși provenind de la motoarele cu ardere internă în circulație instalate pe echipamentele mobile fără destinație rutieră (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0987",
+   "versions": [
+    {
+     "from": "2018-08-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2df02e55-8a97-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "064bf7be369f2b54b17f03e7d6977e313eb6228f25aad918a5740c0f829b84a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-989-2018",
+   "path": "ue/regulament/2018/989",
+   "short": "Regulamentul delegat CELEX 32018R0989",
+   "title": "Regulamentul delegat (UE) 2018/989 al Comisiei din 18 mai 2018 de modificare și rectificare a Regulamentului delegat (UE) 2017/654 de completare a Regulamentului (UE) 2016/1628 al Parlamentului European și al Consiliului în ceea ce privește cerințele tehnice și generale referitoare la limitele emisiilor și omologarea de tip pentru motoarele cu ardere internă pentru echipamentele mobile fără destinație rutieră (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0989",
+   "versions": [
+    {
+     "from": "2018-08-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abc4aa04-8a96-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "889987b480301733804dd2a2dda3d0f04f9a382e560c5fc03d899e9b640a9533"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-990-2018",
+   "path": "ue/regulament/2018/990",
+   "short": "Regulamentul delegat CELEX 32018R0990",
+   "title": "Regulamentul delegat (UE) 2018/990 al Comisiei din 10 aprilie 2018 de modificare și de completare a Regulamentului (UE) 2017/1131 al Parlamentului European și al Consiliului în ceea ce privește securitizările și efectele de comerț garantate cu active (ABCP) simple, transparente și standardizate (STS), cerințele aplicabile activelor primite în cadrul acordurilor reverse repo și metodologiile de evaluare a calității creditului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0990",
+   "versions": [
+    {
+     "from": "2018-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94ae1a51-8625-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "66f243545ba9e2fe82c3c0f3cc112a2857f976f65695c3980c22fb0991ca360c"
     }
    ]
   }

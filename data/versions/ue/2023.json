@@ -753,6 +753,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-118-2023",
+   "path": "ue/regulament/2023/118",
+   "short": "Regulamentul delegat CELEX 32023R0118",
+   "title": "Regulamentul delegat (UE) 2023/118 al Comisiei din 23 septembrie 2022 de modificare a Regulamentului delegat (UE) 2020/688 de completare a Regulamentului (UE) 2016/429 al Parlamentului și al Consiliului în ceea ce privește cerințele de sănătate animală pentru circulația în interiorul Uniunii a păsărilor captive destinate expozițiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0118",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2662373b-96d3-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7511261f8e1063456046256a9b46dd8d466060b4447d72d76ad2d30b19bf9791"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1182-2023",
    "path": "ue/regulament/2023/1182",
    "short": "Regulamentul (UE) 2023/1182",
@@ -1833,6 +1848,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-167-2023",
+   "path": "ue/regulament/2023/167",
+   "short": "Regulamentul delegat CELEX 32023R0167",
+   "title": "Regulamentul delegat (UE) 2023/167 al Comisiei din 3 noiembrie 2022 de modificare a Regulamentului delegat (UE) 2020/256 de stabilire a unui program continuu multianual (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0167",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f1b6314-9d56-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8b415081b2de21752425e853f07efb08d09baeb8db8db31bd006073444311ff7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1670-2023",
    "path": "ue/regulament/2023/1670",
    "short": "Regulamentul (UE) 2023/1670",
@@ -2324,6 +2354,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/acbe2469-5d16-11ee-9220-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "bf63a02fd6fad811f5d192eb63a5f71fd2b348543a4de178b54a4630397c7107"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-206-2023",
+   "path": "ue/regulament/2023/206",
+   "short": "Regulamentul delegat CELEX 32023R0206",
+   "title": "Regulamentul delegat (UE) 2023/206 al Comisiei din 5 octombrie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează tipurile de factori care trebuie avuți în vedere pentru evaluarea caracterului adecvat al ponderilor de risc pentru expunerile garantate cu bunuri imobile și condițiile care trebuie luate în considerare pentru evaluarea caracterului adecvat al valorilor minime ale pierderilor în caz de nerambursare pentru expunerile garantate cu bunuri imobile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0206",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05e7d009-a1d4-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e8dfa97c5042dc93f8abdd4cb477eae6f20e72c46f9656c97c243cb6124d5e67"
     }
    ]
   },
@@ -4083,6 +4128,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-369-2023",
+   "path": "ue/regulament/2023/369",
+   "short": "Regulamentul delegat CELEX 32023R0369",
+   "title": "Regulamentul delegat (UE) 2023/369 al Comisiei din 29 noiembrie 2022 de rectificare a versiunii în limba polonă a Regulamentului (UE) nr. 139/2014 de stabilire a cerințelor tehnice și a procedurilor administrative referitoare la aerodromuri în temeiul Regulamentului (CE) nr. 216/2008 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0369",
+   "versions": [
+    {
+     "from": "2023-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0cd73371-b0c1-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7f481d41408d805639f2549a415cb296c0ff18f5099657f9ccbcbb75eab265ab"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-377-2023",
    "path": "ue/regulament/2023/377",
    "short": "Regulamentul (UE) 2023/377",
@@ -4323,6 +4383,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-451-2023",
+   "path": "ue/regulament/2023/451",
+   "short": "Regulamentul delegat CELEX 32023R0451",
+   "title": "Regulamentul delegat (UE) 2023/451 al Comisiei din 25 noiembrie 2022 de specificare a factorilor care trebuie luați în considerare de autoritatea competentă și de colegiul de supraveghetori la evaluarea planului de redresare al contrapărților centrale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0451",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77e41aea-b9aa-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "08a2725f4a00db9a779871f244ddd9ae0374103a0077d33765e57b6787f840b9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-464-2023",
    "path": "ue/regulament/2023/464",
    "short": "Regulamentul (UE) 2023/464",
@@ -4379,6 +4454,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/72b8b1e7-bd55-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "4c287aceb2ebec9b093777ade6da19012417e6194c00c4361ee2eff0b9ce187b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-511-2023",
+   "path": "ue/regulament/2023/511",
+   "short": "Regulamentul delegat CELEX 32023R0511",
+   "title": "Regulamentul delegat (UE) 2023/511 al Comisiei din 24 noiembrie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru calcularea valorilor ponderate la risc ale expunerilor organismelor de plasament colectiv în cadrul abordării pe bază de mandat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0511",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9f3a0b6e-be47-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3dce486f8eac340b9505fe5534adca0fe6625431bbe50191b68ce1197245ec99"
     }
    ]
   },
@@ -4604,6 +4694,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/42f9ce31-9089-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "e95ba2d600476861b28e8adeb2b3dd89efad2f47332995bdc3358e9a615263a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-674-2023",
+   "path": "ue/regulament/2023/674",
+   "short": "Regulamentul delegat CELEX 32023R0674",
+   "title": "Regulamentul delegat (UE) 2023/674 al Comisiei din 26 decembrie 2022 de modificare a anexelor la Regulamentul (CE) nr. 1059/2003 al Parlamentului European și al Consiliului privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0674",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f71aa8e-c9e6-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "11442bc5e81c24684dfc40f7f1a5c061ca4b0f4916b48f498d2a71917f9cfbdc"
     }
    ]
   },

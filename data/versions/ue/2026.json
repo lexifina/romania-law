@@ -783,6 +783,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-130-2026",
+   "path": "ue/regulament/2026/130",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/130",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/130 al Comisiei din 21 ianuarie 2026 de supunere la înregistrare a importurilor de anvelope pneumatice noi, din cauciuc, de tipul celor utilizate pentru autoturisme, autobuze sau camioane cu un indice de sarcină de maximum 121, originare din Republica Populară Chineză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0130",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e7a3fe9-f734-11f0-b9bc-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f204efda7e59f1484f5b8a8eb732e3376b2a8b3a595dbf6b6501f17d3e2d0d83"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1304-2026",
    "path": "ue/regulament/2026/1304",
    "short": "Regulamentul delegat CELEX 32026R1304",
@@ -959,6 +974,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/db66e36c-36f0-11f1-be39-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "1f3e76509d825804c652f4b748307f64d8b6f7e25ff79e748d0538a2cce2cac9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1353-2026",
+   "path": "ue/regulament/2026/1353",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/1353",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/1353 al Comisiei din 15 iunie 2026 de modificare a Regulamentelor de punere în aplicare (UE) 2020/617 și (UE) nr. 540/2011 în ceea ce privește condițiile de aprobare a substanței active metalaxil-M",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1353",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b9e2afa-6920-11f1-9b18-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0a6e5f7666aea3ed6f405d7594f9f998af1a65c8b06e936f4f8d174f9830e9ae"
     }
    ]
   },
@@ -1154,6 +1184,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1480578b-acb1-11f1-b9e5-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "a178687580ffdb19d21b372f704a5b689064f2772ae1b368c4d03fe22690e859"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-144-2026",
+   "path": "ue/regulament/2026/144",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/144",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/144 al Comisiei din 14 ianuarie 2026 de aprobare a unei modificări la nivelul Uniunii a caietului de sarcini al denumirii de origine protejate Mátra/Mátrai în temeiul Regulamentului (UE) 2024/1143 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0144",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44256e98-f66c-11f0-b9bc-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2713d1cf2ca49b1de47f7cd186816e7f1ab6655894f94bf9e3c72e1b1ff0b7fa"
     }
    ]
   },
@@ -1364,6 +1409,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e3b8acc8-7678-11f1-bf5e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "7fed3cd8fa0fa142d434df73add34739ab5561aa14a43f76b2661d84f6315471"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-156-2026",
+   "path": "ue/regulament/2026/156",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/156",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/156 al Comisiei din 23 ianuarie 2026 privind acordarea unei autorizații la nivelul Uniunii pentru produsul biocid unic Nutrinova® Potassium Sorbate BFX Granules în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0156",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05532b30-fa66-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ee75dc5706bf2bc2502c2cc9ac7f395cce6354db1d1e0b1d15eeff2183fd827b"
     }
    ]
   },
@@ -1728,6 +1788,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-187-2026",
+   "path": "ue/regulament/2026/187",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/187",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/187 al Comisiei din 28 ianuarie 2026 de modificare a Regulamentului de punere în aplicare (UE) 2021/405 în ceea ce privește listele cu țările terțe sau regiunile din acestea autorizate pentru introducerea în Uniune a transporturilor de anumite animale și mărfuri destinate consumului uman în conformitate cu Regulamentul (UE) 2017/625 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0187",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8b031bd-fcb2-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9790aa80cc3fbfad674f3ac51bbe4ff3b4d30883513bd61ca7439adefe339d04"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1881-2026",
    "path": "ue/regulament/2026/1881",
    "short": "Regulamentul (UE) 2026/1881",
@@ -1784,6 +1859,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c59cf5c3-8c7b-11f1-9262-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "e80da5acd2f9b17b2b201c9c1753fefd31b8107b859210af4924aa4b174ecd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1897-2026",
+   "path": "ue/regulament/2026/1897",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/1897",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/1897 al Comisiei din 31 iulie 2026 de modificare a Regulamentului de punere în aplicare (UE) 2021/2289 în ceea ce privește conținutul planurilor strategice PAC pentru a introduce un nou tip de intervenție ca răspuns la creșterea prețurilor îngrășămintelor cauzată de criza din Orientul Mijlociu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R1897",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1827d2fb-8ed4-11f1-9262-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "30ef7698bfa26cf2ef2ad0699a17dd3aa79dcdfb2709ea07d61c57659a8adc83"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-191-2026",
+   "path": "ue/regulament/2026/191",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/191",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/191 al Comisiei din 28 ianuarie 2026 de modificare a Regulamentului de punere în aplicare (UE) 2023/265 de instituire a unei taxe antidumping definitive la importurile de plăci din ceramică originare din India și Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0191",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7d38d5c-fcb2-11f0-8da5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1859278ac9715633546163fb2339fda7e671ec76b203c3aefc1b60b43eb5f029"
     }
    ]
   },
@@ -2328,6 +2433,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-286-2026",
+   "path": "ue/regulament/2026/286",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/286",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/286 al Comisiei din 10 februarie 2026 de autorizare a unei derogări în temeiul Regulamentului (UE) 2024/573 al Parlamentului European și al Consiliului în ceea ce privește utilizarea gazelor fluorurate cu efect de seră în anumite răcitoare utilizate pentru fabricarea de semiconductori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0286",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a366e7bf-06ea-11f1-825d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "38a1a27fbd1b083c34692dbc7e8f66cd64996fb6c97bec6d14dd4c9945bdd573"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-296-2026",
    "path": "ue/regulament/2026/296",
    "short": "Regulamentul delegat CELEX 32026R0296",
@@ -2369,6 +2489,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1b87454d-429b-11f1-8095-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "8e948289eecd4b71bffa706abf0a37767575c23ede46326ce136d7eaec424f3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-320-2026",
+   "path": "ue/regulament/2026/320",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/320",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/320 al Comisiei din 12 februarie 2026 de modificare a Regulamentului de punere în aplicare (UE) 2020/1197 al Comisiei în ceea ce privește trimiterile la clasificarea statistică a produselor în funcție de domeniul de activitate (CPA) stabilită prin Regulamentul (CE) nr. 451/2008 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0320",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14b66dcf-087d-11f1-8870-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d375bd401938176896d002f6bbb9cb4ba041f36e50953a1423be8cd2f1329955"
     }
    ]
   },
@@ -2958,6 +3093,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-509-2026",
+   "path": "ue/regulament/2026/509",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/509",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/509 din 23 aprilie 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0509",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0fbc9520-3f1b-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2286d919e07bfbee40f0fd1bc8df3f16e9c4ec96b68bf6e1af8f5f8cb7c071cb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-511-2026",
    "path": "ue/regulament/2026/511",
    "short": "Regulamentul (UE) 2026/511",
@@ -3194,6 +3344,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d4397f2e-5ee7-11f1-aa6d-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "8d9a1a117e60da8fa573caa67e1f1a6c2b56080f985648d894237712f3b9f7e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-707-2026",
+   "path": "ue/regulament/2026/707",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/707",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/707 al Comisiei din 24 martie 2026 de anulare a înregistrării indicației geografice protejate Colline Teatine (IGP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0707",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68e1d8ee-27ed-11f1-a7dd-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1b9f2fa7431c49a214aa5ef16233d9119144290b0ecaa92ca017da9c78ea32c3"
     }
    ]
   },
@@ -3603,6 +3768,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-854-2026",
+   "path": "ue/regulament/2026/854",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/854",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/854 al Comisiei din 8 aprilie 2026 de înregistrare a indicației geografice Ostkustströmming (DOP) în registrul Uniunii de indicații geografice, în temeiul Regulamentului (UE) 2024/1143 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0854",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2c97cb0-3864-11f1-be39-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4a8c88a24e202bef28bfd4eabd7b5a70582f1603e9b7088aa6948cd69e0dfbe1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-859-2026",
    "path": "ue/regulament/2026/859",
    "short": "Regulamentul (UE) 2026/859",
@@ -3783,6 +3963,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-91-2026",
+   "path": "ue/regulament/2026/91",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/91",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/91 al Comisiei din 14 ianuarie 2026 privind reînnoirea autorizației unui preparat de 6-fitază produsă de Trichoderma reesei CBS 126897 ca aditiv pentru hrana păsărilor de curte, a purceilor înțărcați, a porcilor pentru îngrășare și a scroafelor, autorizarea unui preparat de 6-fitază produsă de Trichoderma reesei CBS 126897 ca aditiv pentru hrana păsărilor ornamentale, a purceilor de lapte și a speciilor minore de porcine (titularul autorizației: AB Enzymes Finland Oy) și de abrogare a Regulamentului de punere în aplicare (UE) nr. 292/2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0091",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8016914-f1b2-11f0-8d3c-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "fd2bf676d5ad07ed6987237de1bb6e375e5893fda1ff687c31c71193ce74b036"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-910-2026",
    "path": "ue/regulament/2026/910",
    "short": "Regulamentul delegat CELEX 32026R0910",
@@ -3813,6 +4008,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-92-2026",
+   "path": "ue/regulament/2026/92",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/92",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/92 al Comisiei din 14 ianuarie 2026 privind reînnoirea autorizării unui preparat de Bacillus velezensis ATCC PTA-6737 ca aditiv pentru hrana găinilor ouătoare și a speciilor minore de păsări de curte pentru ouat și autorizarea unui preparat de Bacillus velezensis ATCC PTA-6737 ca aditiv pentru hrana altor păsări crescute pentru ouat sau reproducere (titularul autorizației: Kemin Europa N.V.) și de abrogare a Regulamentului de punere în aplicare (UE) 2015/1020",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0092",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e719dd75-f1b2-11f0-8d3c-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e20fc7e17c6b2768914e7aa11862cde9d7785426b3676d5574e3c18d55454775"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-921-2026",
    "path": "ue/regulament/2026/921",
    "short": "Regulamentul delegat CELEX 32026R0921",
@@ -3824,6 +4034,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/31478103-78d6-11f1-bf5e-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "2319f7504ccf7a0d8ae264d085984c8a80a0b52f16750530755cf9fbe5fd7cef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-94-2026",
+   "path": "ue/regulament/2026/94",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/94",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/94 al Comisiei din 15 ianuarie 2026 de modificare a Regulamentului (CE) nr. 378/2005 în ceea ce privește probele de referință, taxele, rapoartele de evaluare și laboratoarele naționale de referință",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0094",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b0effe91-f27c-11f0-8d3c-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "972fc0f5c319449744d42c6300def66f54da1b4c86827c373dc295631da51082"
     }
    ]
   },
@@ -3843,6 +4068,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-98-2026",
+   "path": "ue/regulament/2026/98",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/98",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/98 al Comisiei din 15 ianuarie 2026 de modificare a Regulamentului de punere în aplicare (UE) 2022/565 în ceea ce privește numele titularului autorizației pentru aditivi destinați hranei animale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0098",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ff9470dd-f27c-11f0-8d3c-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "82d3522c078b7a2b6d8aae7b20b2dc2c55d941cf994bbc9280bb3bb9fa33e711"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-995-2026",
    "path": "ue/regulament/2026/995",
    "short": "Regulamentul (UE) 2026/995",
@@ -3854,6 +4094,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b551a3fc-4753-11f1-8095-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "a33c8bf115a023472ac47ec8716110ce87e42e551fa8ba70a53141058f46daa3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-996-2026",
+   "path": "ue/regulament/2026/996",
+   "short": "Regulamentul de punere în aplicare (UE) 2026/996",
+   "title": "Regulamentul de punere în aplicare (UE) 2026/996 al Comisiei din 29 aprilie 2026 de modificare a Regulamentelor de punere în aplicare (UE) 2020/761 și (UE) 2020/1988 privind crearea, modificarea și gestionarea anumitor contingente tarifare în urma Acordului interimar privind comerțul dintre Uniunea Europeană, pe de o parte, și Piața Comună a Sudului, Republica Argentina, Republica Federativă a Braziliei, Republica Paraguay și Republica Orientală a Uruguayului, pe de altă parte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026R0996",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/672c6baf-4451-11f1-8095-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "13989ae9335835931a3712d1ce330d57ce1cb0e1c0c838d424dff504d994dec6"
     }
    ]
   }

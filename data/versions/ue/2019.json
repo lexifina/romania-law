@@ -978,6 +978,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1000-2019",
+   "path": "ue/regulament/2019/1000",
+   "short": "Regulamentul delegat CELEX 32019R1000",
+   "title": "Regulamentul delegat (UE) 2019/1000 al Comisiei din 14 martie 2019 de modificare a Regulamentului delegat (UE) 2017/1799 în ceea ce privește exceptarea Băncii Populare a Chinei de la cerințele de transparență pretranzacționare și posttranzacționare prevăzute în Regulamentul (UE) nr. 600/2014 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1000",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3a3b0f4a-9326-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cb9fcf7c70d73ec65d958ba1707ff40a58cda4d3eda2a50501c8959cb94c3ef3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1009-2019",
    "path": "ue/regulament/2019/1009",
    "short": "Regulamentul (UE) 2019/1009",
@@ -1004,6 +1019,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4417ef79-9714-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3902c8a621475d3133b699e9972c41c9fc02ed7aeb9db318c22d3e7dee8183a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1011-2019",
+   "path": "ue/regulament/2019/1011",
+   "short": "Regulamentul delegat CELEX 32019R1011",
+   "title": "Regulamentul delegat (UE) 2019/1011 al Comisiei din 13 decembrie 2018 de modificare a Regulamentului delegat (UE) 2017/565 al Comisiei în ceea ce privește anumite condiții de înregistrare pentru a promova utilizarea piețelor de creștere pentru IMM-uri în sensul Directivei 2014/65/UE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1011",
+   "versions": [
+    {
+     "from": "2019-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0cc88271-93ed-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d0b88b093dd3513a4ccd850a8bf77c51acd15f92b00e5e664ccdaa6137284309"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1012-2019",
+   "path": "ue/regulament/2019/1012",
+   "short": "Regulamentul delegat CELEX 32019R1012",
+   "title": "Regulamentul delegat (UE) 2019/1012 al Comisiei din 12 martie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului prin derogare de la normele privind desemnarea punctelor de inspecție și de la cerințele minime pentru posturile de inspecție la frontieră (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1012",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/384f1677-93ed-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c721eca1f8be96c3b8961af5376db30c5db528e8ca308f55272233e6a1572f50"
     }
    ]
   },
@@ -1064,6 +1109,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fd1c43dd-97ea-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "9f5e4cbd4986d43f7e861d29dbe6dc30dcd2add56d222b7290321a0f46b1e255"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1081-2019",
+   "path": "ue/regulament/2019/1081",
+   "short": "Regulamentul delegat CELEX 32019R1081",
+   "title": "Regulamentul delegat (UE) 2019/1081 al Comisiei din 8 martie 2019 de stabilire a unor norme privind cerințele specifice de formare pentru personalul care efectuează anumite controale fizice la posturile de inspecție la frontieră (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1081",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ffab5cc3-97eb-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ceb1bde92cbd8f7e02dbe437ac6f6b869722c12255c17ca762c51ce33334c0a9"
     }
    ]
   },
@@ -1143,6 +1203,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1122-2019",
+   "path": "ue/regulament/2019/1122",
+   "short": "Regulamentul delegat CELEX 32019R1122",
+   "title": "Regulamentul delegat (UE) 2019/1122 al Comisiei din 12 martie 2019 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește funcționarea registrului Uniunii (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1122",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dec1f30b-9c9a-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f8e625bd030e72b5f56a8f639a570c1826064f5a46086eba2597ffa3040b1d26"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1123-2019",
+   "path": "ue/regulament/2019/1123",
+   "short": "Regulamentul delegat CELEX 32019R1123",
+   "title": "Regulamentul delegat (UE) 2019/1123 al Comisiei din 12 martie 2019 de modificare a Regulamentului (UE) nr. 389/2013 în ceea ce privește punerea în aplicare la nivel tehnic a celei de a doua perioade de angajament din cadrul Protocolului de la Kyoto (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1123",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2898a93d-9c9e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ea569deb270e655d3c6021c08c6adb3a5873a34b16207f65f104a992b56a1f7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1124-2019",
+   "path": "ue/regulament/2019/1124",
+   "short": "Regulamentul delegat CELEX 32019R1124",
+   "title": "Regulamentul delegat (UE) 2019/1124 al Comisiei din 13 martie 2019 de modificare a Regulamentului delegat (UE) 2019/1122 în ceea ce privește funcționarea registrului Uniunii având în vedere Regulamentul (UE) 2018/842 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1124",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6e6c8c0-9c9e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "17ba501fdfc15fa6cdb49e5f1e209d9f3e68e99a77d46bbe4f4d3437c4468d3c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-113-2019",
    "path": "ue/regulament/2019/113",
    "short": "Regulamentul (UE) 2019/113",
@@ -1154,6 +1259,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e351f248-207d-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "69d5a030b6d79caef7b3cefe7f871316c62954395fc77db8084821610910bc49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1143-2019",
+   "path": "ue/regulament/2019/1143",
+   "short": "Regulamentul delegat CELEX 32019R1143",
+   "title": "Regulamentul delegat (UE) 2019/1143 al Comisiei din 14 martie 2019 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește declararea anumitor trimiteri cu valoare scăzută",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1143",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bdd6c078-9ef3-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4cbf9cb231225a424f03a4f31122baf130757c649ea5426cb267860b1f12cf26"
     }
    ]
   },
@@ -1259,6 +1379,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fbee367f-a3a3-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "612f8d12b2733d988d425ed8c83670697ffdec2bcb6074a0da77313e6db0e11b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1188-2019",
+   "path": "ue/regulament/2019/1188",
+   "short": "Regulamentul delegat CELEX 32019R1188",
+   "title": "Regulamentul delegat (UE) 2019/1188 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) nr. 305/2011 al Parlamentului European și al Consiliului prin stabilirea unor clase de performanță în ceea ce privește rezistența la presiunea dinamică a vântului pentru jaluzele exterioare și copertine (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1188",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9eb59b3-a46f-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "17167a9a49f17f8d7f88ef317f88e532db948e41ccde46d5e0913e89907d3b7f"
     }
    ]
   },
@@ -1503,6 +1638,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1342-2019",
+   "path": "ue/regulament/2019/1342",
+   "short": "Regulamentul delegat CELEX 32019R1342",
+   "title": "Regulamentul delegat (UE) 2019/1342 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) nr. 305/2011 al Parlamentului European și al Consiliului prin stabilirea unor clase de performanță în ceea ce privește permeabilitatea la aer pentru luminatoarele din material plastic și din sticlă și trapele de acoperiș (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1342",
+   "versions": [
+    {
+     "from": "2019-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/738e8fdb-bcc6-11e9-9d01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "91cadb6022875ee9a9b3b833d1742f9dd38c12409d6d4192713f2ac20b2a4143"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1381-2019",
    "path": "ue/regulament/2019/1381",
    "short": "Regulamentul (UE) 2019/1381",
@@ -1578,6 +1728,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-157-2019",
+   "path": "ue/regulament/2019/157",
+   "short": "Regulamentul delegat CELEX 32019R0157",
+   "title": "Regulamentul delegat (UE) 2019/157 al Comisiei din 6 noiembrie 2018 de modificare a anexei II la Regulamentul delegat (UE) nr. 1062/2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide care se menționează în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0157",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3fad504b-25b2-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f6d399069700e4963db55319e256478174e0446fd7bdecb176069481b7a017e5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1582-2019",
    "path": "ue/regulament/2019/1582",
    "short": "Regulamentul (UE) 2019/1582",
@@ -1604,6 +1769,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/bbffc169-e350-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "17e9e0a7a4aa5fe351523d4055337595d409f66ea741755f22236ea042b34b4d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1602-2019",
+   "path": "ue/regulament/2019/1602",
+   "short": "Regulamentul delegat CELEX 32019R1602",
+   "title": "Regulamentul delegat (UE) 2019/1602 al Comisiei din 23 aprilie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului privind documentul sanitar comun de intrare care însoțește transporturile de animale și de mărfuri către destinația acestora (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1602",
+   "versions": [
+    {
+     "from": "2019-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/373c109c-e351-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "76433c66598822c65dc4a3717f1a8085fad751df6c342512c619be616eb64bdb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1666-2019",
+   "path": "ue/regulament/2019/1666",
+   "short": "Regulamentul delegat CELEX 32019R1666",
+   "title": "Regulamentul delegat (UE) 2019/1666 al Comisiei din 24 iunie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Comisiei cu privire la condițiile de monitorizare a transportului și a sosirii transporturilor de anumite mărfuri de la punctul de control la sosirea la frontieră la unitatea de la locul de destinație din Uniune (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1666",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9adce03-e676-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c4a9a5801261c13cf53a25adbf55ed48e307a33f57c60c229b5b02b15e7798ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1668-2019",
+   "path": "ue/regulament/2019/1668",
+   "short": "Regulamentul delegat CELEX 32019R1668",
+   "title": "Regulamentul delegat (UE) 2019/1668 al Comisiei din 26 iunie 2019 de modificare a Directivei (UE) 2016/1629 a Parlamentului European și a Consiliului de stabilire a cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1668",
+   "versions": [
+    {
+     "from": "2019-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ddfcb49f-e8c8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "13e7651346b230e119b097f9441380441e84b29d8f77543e7fb6eb928196b7a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1673-2019",
+   "path": "ue/regulament/2019/1673",
+   "short": "Regulamentul delegat CELEX 32019R1673",
+   "title": "Regulamentul Delegat (Ue) 2019/1673 Al Comisiei din 23 iulie 2019 de înlocuire a anexei I la Regulamentul (UE) 2019/788 al Parlamentului European și al Consiliului privind inițiativa cetățenească europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1673",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8dc11b68-e9a1-11e9-9c4e-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "19ed4cc8be279e3a25327e4350b762ee0d6a4eb6c81e91b0834d477efeb1576a"
     }
    ]
   },
@@ -1638,6 +1863,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1681-2019",
+   "path": "ue/regulament/2019/1681",
+   "short": "Regulamentul delegat CELEX 32019R1681",
+   "title": "Regulamentul delegat (UE) 2019/1681 al Comisiei din 1 august 2019 de modificare a Regulamentului (UE) nr. 692/2011 al Parlamentului European și al Consiliului privind statisticile europene referitoare la turism, în ceea ce privește termenele de transmitere și adaptarea anexelor I și II (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1681",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e2c5dbe-ea5c-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ec89e8f4e437c3462102b532b02a1eda95aadd76cda12fddfde24dc07ab3fd19"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1689-2019",
+   "path": "ue/regulament/2019/1689",
+   "short": "Regulamentul delegat CELEX 32019R1689",
+   "title": "Regulamentul delegat (UE) 2019/1689 al Comisiei din 29 mai 2019 de rectificare a versiunii în limba română a Regulamentului delegat (UE) 2018/1229 de completare a Regulamentului (UE) nr. 909/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la disciplina în materie de decontare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1689",
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db9ac02e-eb25-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "339ba0b275aacd17abd27c5a5d30e476ec267afc8726bf95b581dbbad8a9d0fb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1691-2019",
    "path": "ue/regulament/2019/1691",
    "short": "Regulamentul (UE) 2019/1691",
@@ -1664,6 +1919,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9c53922a-eed8-11e9-a32c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b4fdf459b278437e577ea03bd4aa2d4a8dfa88b83c87e77943c767319411c219"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1701-2019",
+   "path": "ue/regulament/2019/1701",
+   "short": "Regulamentul delegat CELEX 32019R1701",
+   "title": "Regulamentul delegat (UE) 2019/1701 al Comisiei din 23 iulie 2019 de modificare a anexelor I și V la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1701",
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d867d49-ec04-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b2fa053a8746b6e4ff2048e389a2e955aa2236ec14ac7d7871c8c53de3543de6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1702-2019",
+   "path": "ue/regulament/2019/1702",
+   "short": "Regulamentul delegat CELEX 32019R1702",
+   "title": "Regulamentul delegat (UE) 2019/1702 al Comisiei din 1 august 2019 de completare a Regulamentului (UE) 2016/2031 al Parlamentului European și al Consiliului prin stabilirea listei organismelor dăunătoare prioritare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1702",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e848530-ec05-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "74302c7a63ba8db3fbb384416630f48cb842397f7c68d23187851e598981ee69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1705-2019",
+   "path": "ue/regulament/2019/1705",
+   "short": "Regulamentul delegat CELEX 32019R1705",
+   "title": "Regulamentul delegat (UE) 2019/1705 al Comisiei din 10 octombrie 2019 de modificare a Regulamentului (UE, Euratom) 2019/1197 al Consiliului în ceea ce privește termenele în care Regatul Unit trebuie să îndeplinească condițiile de eligibilitate pentru finanțare din partea Uniunii în urma retragerii Regatului Unit din Uniune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1705",
+   "versions": [
+    {
+     "from": "2019-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b78f0e3f-ec08-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d62fec833b47207cd25dd1c19521c1bcf739ab4a0e3e6485dd2d08367613bfd2"
     }
    ]
   },
@@ -1709,6 +2009,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/32697f5a-f672-11e9-8c1f-01aa75ed71a1.0020.02/DOC_1",
      "sha256": "76ac41a4bffcaec8b120cc5fd4adb4ee5a2ca99f16896c189c9de637f1d5762b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1755-2019",
+   "path": "ue/regulament/2019/1755",
+   "short": "Regulamentul delegat CELEX 32019R1755",
+   "title": "Regulamentul Delegat (UE) 2019/1755 al Comisiei din 8 august 2019 de modificare a anexelor la Regulamentul (CE) nr. 1059/2003 al Parlamentului European și al Consiliului privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1755",
+   "versions": [
+    {
+     "from": "2019-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e79307f5-f650-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0645dbc5a27987f760f5ab6d8165ea4cb6cd9c50a458472cc5dc935b16c34e67"
     }
    ]
   },
@@ -1833,6 +2148,216 @@
    ]
   },
   {
+   "slug": "ue-regulament-1799-2019",
+   "path": "ue/regulament/2019/1799",
+   "short": "Regulamentul de punere în aplicare (UE) 2019/1799",
+   "title": "Regulamentul de punere în aplicare (UE) 2019/1799 al Comisiei din 22 octombrie 2019 de stabilire a unor specificații tehnice pentru sistemele separate de colectare online în temeiul Regulamentului (UE) 2019/788 al Parlamentului European și al Consiliului privind inițiativa cetățenească europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1799",
+   "versions": [
+    {
+     "from": "2019-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c02ed5cc-f952-11e9-8c1f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5b71d22ed3dcd11554b485b332cb97092144fa7ae274e3215a8a63c34c5a4bdd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1819-2019",
+   "path": "ue/regulament/2019/1819",
+   "short": "Regulamentul delegat CELEX 32019R1819",
+   "title": "Regulamentul delegat (UE) 2019/1819 al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii oțetului ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1819",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a0d8fe4-fbce-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "615ce210314673c536fa98693280860806b0435de07bf2aa4b811dc685581c57"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1820-2019",
+   "path": "ue/regulament/2019/1820",
+   "short": "Regulamentul delegat CELEX 32019R1820",
+   "title": "Regulamentul delegat (UE) 2019/1820 al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii Saccharomyces cerevisiae ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1820",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f51aa70d-fbce-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "34a43d464cbd3f4b805a9d9ad8f1a93f253c2c50ace1a215c83b3a68f8ed4749"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1821-2019",
+   "path": "ue/regulament/2019/1821",
+   "short": "Regulamentul delegat CELEX 32019R1821",
+   "title": "Regulamentul delegat (UE) 2019/1821al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii prafului de ou ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1821",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b675383-fbcf-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "114fcf9c1ba1e6bf05e77e501c269e9d485ea50458734886e35370e6169735e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1822-2019",
+   "path": "ue/regulament/2019/1822",
+   "short": "Regulamentul delegat CELEX 32019R1822",
+   "title": "Regulamentul delegat (UE) 2019/1822 al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii mierii ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1822",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77467989-fbcf-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6ea0fb9a3f831afdb01fa1d8702d80f5d4f0e8ecacf9a5edb357f4839610d345"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1823-2019",
+   "path": "ue/regulament/2019/1823",
+   "short": "Regulamentul delegat CELEX 32019R1823",
+   "title": "Regulamentul delegat (UE) 2019/1823 al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii D-fructozei ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1823",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c37b997a-fbcf-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fcaee0aa089c4bd299b23500d160f33fcd2427f54ab7a6928c3648985c520b4b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1824-2019",
+   "path": "ue/regulament/2019/1824",
+   "short": "Regulamentul delegat CELEX 32019R1824",
+   "title": "Regulamentul delegat (UE) 2019/1824 al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii brânzei ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1824",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3485214b-fbd0-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8766bc4c9e60e6d2ca7e8cdb6deb389af7e5cad385c3471775f6502279566012"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1825-2019",
+   "path": "ue/regulament/2019/1825",
+   "short": "Regulamentul delegat CELEX 32019R1825",
+   "title": "Regulamentul Delegat (UE) 2019/1825 Al Comisiei din 8 august 2019 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii sucului de mere concentrat ca substanță activă în anexa I la regulament (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1825",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70c2bafc-fbd0-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "35a4458027e19f3b80776112f136ad3196bf2badf4ff372649d1f187556acf4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1827-2019",
+   "path": "ue/regulament/2019/1827",
+   "short": "Regulamentul delegat CELEX 32019R1827",
+   "title": "Regulamentul delegat (UE) 2019/1827 al Comisiei din 30 octombrie 2019 de modificare a Directivei 2014/23/UE a Parlamentului European și a Consiliului în ceea ce privește pragul pentru concesiuni (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1827",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4653d2e-fbd0-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d87511382273bde52139bf5006cc319f6edf8dfb092e329688e0bc731c2befde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1828-2019",
+   "path": "ue/regulament/2019/1828",
+   "short": "Regulamentul delegat CELEX 32019R1828",
+   "title": "Regulamentul delegat (UE) 2019/1828 al Comisiei din 30 octombrie 2019 de modificare a Directivei 2014/24/UE a Parlamentului European și a Consiliului în ceea ce privește pragurile de aplicare pentru contractele de achiziții publice de lucrări, de bunuri și de servicii și pentru concursurile de proiecte (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1828",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d452cef-fbd1-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b977e32b18ec872af4cedff94eed972498cb91220521e4cab0d77599d0f5dd0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1829-2019",
+   "path": "ue/regulament/2019/1829",
+   "short": "Regulamentul delegat CELEX 32019R1829",
+   "title": "Regulamentul delegat (UE) 2019/1829 al Comisiei din 30 octombrie 2019 de modificare a Directivei 2014/25/UE a Parlamentului European și a Consiliului în ceea ce privește pragurile de aplicare pentru contractele de achiziții publice de lucrări, de bunuri și de servicii și pentru concursurile de proiecte (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1829",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7243c040-fbd1-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2db28cbf21ec6a08284c689f4881e693f956a9d9d42b6f9df6e4c289f49a1a6f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1830-2019",
+   "path": "ue/regulament/2019/1830",
+   "short": "Regulamentul delegat CELEX 32019R1830",
+   "title": "Regulamentul delegat (UE) 2019/1830 al Comisiei din 30 octombrie 2019 de modificare a Directivei 2009/81/CE a Parlamentului European și a Consiliului în ceea ce privește pragurile pentru contractele de achiziții publice de lucrări, de bunuri și de servicii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1830",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b30115b2-fbd1-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "079cd6698d3a53ccee387df815956209dfeaeac9860614c9855dc4a2a4852d58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1842-2019",
+   "path": "ue/regulament/2019/1842",
+   "short": "Regulamentul de punere în aplicare CELEX 32019R1842",
+   "title": "Regulamentul De Punere În Aplicare (UE) 2019/1842 al Comisiei din 31 octombrie 2019 de stabilire a normelor de aplicare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește noi modalități de ajustare a alocării cu titlu gratuit a cotelor de emisii din cauza modificării nivelului de activitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1842",
+   "versions": [
+    {
+     "from": "2019-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e6c8cd2-fecf-11e9-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "40dc0134cb140f90018075661cc863b12d9c3647b3cff78469ad02f5aae01964"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1851-2019",
+   "path": "ue/regulament/2019/1851",
+   "short": "Regulamentul delegat CELEX 32019R1851",
+   "title": "Regulamentul delegat (UE) 2019/1851 al Comisiei din 28 mai 2019 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la omogenitatea expunerilor-suport în securitizări (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1851",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a9a2d8e-0087-11ea-8c1f-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "600ee63f5e9680615c535212e79ede7418a45070c1fa00c9464c090319c64318"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1857-2019",
    "path": "ue/regulament/2019/1857",
    "short": "Regulamentul (UE) 2019/1857",
@@ -1859,6 +2384,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3c965f6c-013a-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5eae6524b55bb1b54902ff4f7b062a1ce2eae8442d8a85e50ac74e8bb60ad8fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1865-2019",
+   "path": "ue/regulament/2019/1865",
+   "short": "Regulamentul delegat CELEX 32019R1865",
+   "title": "Regulamentul delegat (UE) 2019/1865 al Comisiei din 6 iunie 2019 de rectificare a versiunii în limba română a Regulamentului delegat (UE) 2015/35 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1865",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d710360-0206-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "107535b74a334c4600a1e08a6f2f840fcdcaf865e987efd7b5a4d15bdeb9e4cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1866-2019",
+   "path": "ue/regulament/2019/1866",
+   "short": "Regulamentul delegat CELEX 32019R1866",
+   "title": "Regulamentul delegat (UE) 2019/1866 al Comisiei din 3 iulie 2019 de modificare a Regulamentului delegat (UE) 2017/653 în vederea alinierii perioadei de aplicare a dispozițiilor tranzitorii privind creatorii de PRIIP care oferă unitățile de fonduri menționate la articolul 32 din Regulamentul (UE) nr. 1286/2014 al Parlamentului European și al Consiliului ca opțiuni de investiții suport la perioada de derogare prelungită în temeiul articolului respectiv (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1866",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8378d71-0206-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c2d6feef3b903ae5adcf89886d10a0b292e9cf00cad450c86687547ede148ffe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1867-2019",
+   "path": "ue/regulament/2019/1867",
+   "short": "Regulamentul delegat CELEX 32019R1867",
+   "title": "Regulamentul delegat (UE) 2019/1867 al Comisiei din 28 august 2019 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului în ceea ce privește stabilirea finanțării forfetare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1867",
+   "versions": [
+    {
+     "from": "2019-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b1367d2-0207-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9afc43602eb9e4697f9b5a06edf7ac38574f16c394f672138664780299c81b84"
     }
    ]
   },
@@ -1998,6 +2568,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1935-2019",
+   "path": "ue/regulament/2019/1935",
+   "short": "Regulamentul delegat CELEX 32019R1935",
+   "title": "Regulamentul Delegat (UE) 2019/1935 al Comisiei din 13 mai 2019 de modificare a Directivei (UE) 2016/97 a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care adaptează valorile de bază în euro pentru asigurarea de răspundere civilă profesională și pentru capacitatea financiară a intermediarilor de asigurări și reasigurări (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1935",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9244c3b2-0d0c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e227b05dd4537d3ab76b243351e1717c2da037efcd43c0d5cea4b386f548a398"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1939-2019",
    "path": "ue/regulament/2019/1939",
    "short": "Regulamentul (UE) 2019/1939",
@@ -2028,6 +2613,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1974-2019",
+   "path": "ue/regulament/2019/1974",
+   "short": "Regulamentul delegat CELEX 32019R1974",
+   "title": "Regulamentul delegat (UE) 2019/1974 al Comisiei din 17 mai 2019 de completare a Regulamentului (UE) nr. 1295/2013 al Parlamentului European și al Consiliului prin stabilirea unor indicatori de performanță calitativi și cantitativi suplimentari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R1974",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e6ad709-12ad-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3147bcb1da7988dd93e8dda27a5a69963a931711bdaf47eb2a235074673d9fd9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2-2019",
    "path": "ue/regulament/2019/2",
    "short": "Regulamentul (UE) 2019/2",
@@ -2039,6 +2639,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8b9adcd3-17cc-11e9-8d04-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "0fd3a98afc12f0c44dd7315cd0ed2c3a50187afa93795c42016c74968ed1d527"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2013-2019",
+   "path": "ue/regulament/2019/2013",
+   "short": "Regulamentul delegat CELEX 32019R2013",
+   "title": "Regulamentul delegat (UE) 2019/2013 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a afișajelor electronice și de abrogare a Regulamentului delegat (UE) nr. 1062/2010 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2013",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb38e82c-1727-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "91e86437d43a083c68905ddd3fe070a2e9ad13bf4f5bfe7929cbc3b3e7752a62"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2014-2019",
+   "path": "ue/regulament/2019/2014",
+   "short": "Regulamentul delegat CELEX 32019R2014",
+   "title": "Regulamentul delegat (UE) 2019/2014 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a mașinilor de spălat rufe de uz casnic și a mașinilor de spălat și uscat rufe de uz casnic și de abrogare a Regulamentului delegat (UE) nr. 1061/2010 al Comisiei și a Directivei 96/60/CE a Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2014",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/148088ad-1728-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86d67399714628649fb62193efc04967aec165a379886e6d903d1505753d0a28"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2015-2019",
+   "path": "ue/regulament/2019/2015",
+   "short": "Regulamentul delegat CELEX 32019R2015",
+   "title": "Regulamentul delegat (UE) 2019/2015 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a surselor de lumină și de abrogare a Regulamentului delegat (UE) nr. 874/2012 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2015",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d24e450-1728-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1beba5eb3c07d9ba7e257e5e64595f6002722818227020c3e0cbf30db0c0c8f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2016-2019",
+   "path": "ue/regulament/2019/2016",
+   "short": "Regulamentul delegat CELEX 32019R2016",
+   "title": "Regulamentul delegat (UE) 2019/2016 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a aparatelor frigorifice și de abrogare a Regulamentului delegat (UE) nr. 1060/2010 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2016",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8df11893-1728-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1d8e1687aa98cea9ecfc2c9affbc73e9fe5396437acb88e00388448974bb2274"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2017-2019",
+   "path": "ue/regulament/2019/2017",
+   "short": "Regulamentul delegat CELEX 32019R2017",
+   "title": "Regulamentul delegat (UE) 2019/2017 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a mașinilor de spălat vase de uz casnic și de abrogare a Regulamentului delegat (UE) nr. 1059/2010 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2017",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b81b50e5-1728-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5810a887e2b89eee2e99fb85c104b5c25030523cb3e4b299e3729605f436efda"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2018-2019",
+   "path": "ue/regulament/2019/2018",
+   "short": "Regulamentul delegat CELEX 32019R2018",
+   "title": "Regulamentul delegat (UE) 2019/2018 al Comisiei din 11 martie 2019 de completare a Regulamentului (UE) 2017/1369 al Parlamentului European și al Consiliului în ceea ce privește etichetarea energetică a aparatelor frigorifice cu funcție de vânzare directă (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2018",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e24bf1d7-1728-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "605b8d69bc635b78864a4b931a4d97e2313701869632c1470df1c6bc2f784413"
     }
    ]
   },
@@ -2148,6 +2838,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2035-2019",
+   "path": "ue/regulament/2019/2035",
+   "short": "Regulamentul delegat CELEX 32019R2035",
+   "title": "Regulamentul delegat (UE) 2019/2035 al Comisiei din 28 iunie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele pentru unitățile care dețin animale terestre și incubatoare, precum și pentru trasabilitatea anumitor animale terestre deținute și a ouălor pentru incubație (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2035",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b1eb52b-1747-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e1b8b32f31d67dd8af76eb840f80ce2b5047cdc861d1d8d8693b12332e921daf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2074-2019",
+   "path": "ue/regulament/2019/2074",
+   "short": "Regulamentul delegat CELEX 32019R2074",
+   "title": "Regulamentul delegat (UE) 2019/2074 al Comisiei din 23 septembrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele privind controalele oficiale specifice efectuate asupra transporturilor de anumite animale și bunuri originare din Uniune și care se întorc în Uniune după ce li s-a refuzat intrarea într-o țară terță (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2074",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02e93e89-17f8-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7125e6fac9f722065c34ca04961cd5e3f4f9fd86aeaa974a23551bdf8b17281b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2088-2019",
    "path": "ue/regulament/2019/2088",
    "short": "Regulamentul (UE) 2019/2088",
@@ -2178,6 +2898,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2090-2019",
+   "path": "ue/regulament/2019/2090",
+   "short": "Regulamentul delegat CELEX 32019R2090",
+   "title": "Regulamentul delegat (UE) 2019/2090 al Comisiei din 19 iunie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește cazurile de neconformitate suspectată sau confirmată cu normele Uniunii aplicabile utilizării sau reziduurilor substanțelor farmacologic active autorizate în medicamentele de uz veterinar sau ca aditivi pentru hrana animalelor sau cu normele Uniunii aplicabile utilizării sau reziduurilor substanțelor farmacologic active interzise sau neautorizate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2090",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16483f99-1a54-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "59a60b9dc05c779b4bdf91c12d84869fa2277bab9c3f00355643a0d0e1833fae"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2099-2019",
    "path": "ue/regulament/2019/2099",
    "short": "Regulamentul (UE) 2019/2099",
@@ -2189,6 +2924,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8d0533e6-1cb8-11ea-8c1f-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "61756e4ac99308a88f8aef2eae6120fed732f7830f8c627f97be447aa30e37a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2100-2019",
+   "path": "ue/regulament/2019/2100",
+   "short": "Regulamentul delegat CELEX 32019R2100",
+   "title": "Regulamentul delegat (UE) 2019/2100 al Comisiei din 30 septembrie 2019 de modificare a Regulamentului delegat (UE) 2019/815 în ceea ce privește actualizările taxonomiei care trebuie utilizată pentru formatul de raportare electronic unic (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2100",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fb54381-1ff3-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4210590157f010b035d4c17994829797d8515ce670b8d0517645ccd2f6222439"
     }
    ]
   },
@@ -2219,6 +2969,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e7dc5330-1c57-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5fd9007559ed93221f860df3bf258f4a9aeb65d8c3cf931e46aeeb2e9708d2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2122-2019",
+   "path": "ue/regulament/2019/2122",
+   "short": "Regulamentul delegat CELEX 32019R2122",
+   "title": "Regulamentul delegat (UE) 2019/2122 al Comisiei din 10 octombrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește anumite categorii de animale și de mărfuri exceptate de la efectuarea controalelor oficiale la posturile de inspecție la frontieră, controalele specifice privind bagajele personale ale pasagerilor și transporturile mici de bunuri expediate către persoane fizice, care nu sunt destinate introducerii pe piață, și de modificare a Regulamentului (UE) nr. 142/2011 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2122",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb22fa23-1d3d-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a9e09cba788c4164d412d188e73fce84ae1a7b8a4da65b0c37ded02b3671c1e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2123-2019",
+   "path": "ue/regulament/2019/2123",
+   "short": "Regulamentul delegat CELEX 32019R2123",
+   "title": "Regulamentul delegat (UE) 2019/2123 al Comisiei din 10 octombrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele pentru cazurile și condițiile în care se pot efectua controale de identitate și controale fizice vizând anumite mărfuri la punctele de control și în care se pot efectua controale documentare la distanță de posturile de inspecție la frontieră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2123",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae383b19-1d3e-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6bbf40229fde1f929e9e9e489ec0daac2cfa16ecf36ebda686e94967c563c3ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2124-2019",
+   "path": "ue/regulament/2019/2124",
+   "short": "Regulamentul delegat CELEX 32019R2124",
+   "title": "Regulamentul Delegat (UE) 2019/2124 al Comisiei din 10 octombrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele privind controalele oficiale ale transporturilor de animale și de bunuri care fac obiectul tranzitului, al transbordării și al continuării transportului pe teritoriul Uniunii și de modificare a Regulamentelor (CE) nr. 798/2008, (CE) nr. 1251/2008, (CE) nr. 119/2009, (UE) nr. 206/2010, (UE) nr. 605/2010, (UE) nr. 142/2011, (UE) nr. 28/2012 ale Comisiei, a Regulamentului de punere în aplicare (UE) 2016/759 al Comisiei și a Deciziei 2007/777/CE a Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2124",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb1e22bb-1d3e-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "572077542c9fe16ce62387eb397733685b7b516baf62cbb748e4f1b22eee4680"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2125-2019",
+   "path": "ue/regulament/2019/2125",
+   "short": "Regulamentul delegat CELEX 32019R2125",
+   "title": "Regulamentul delegat (UE) 2019/2125 al Comisiei din 10 octombrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele referitoare la efectuarea controalelor oficiale specifice vizând materialele de ambalaj din lemn, notificarea anumitor transporturi și măsurile care trebuie luate în caz de neconformitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2125",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/305a498d-1d3f-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "483850f2d4d5b9ad64f1d03668edfafa1264ca346bbb6b3aaa7d30b26818ab44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2126-2019",
+   "path": "ue/regulament/2019/2126",
+   "short": "Regulamentul delegat CELEX 32019R2126",
+   "title": "Regulamentul delegat (UE) 2019/2126 al Comisiei din 10 octombrie 2019 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele referitoare la controalele oficiale specifice vizând anumite categorii de animale și de mărfuri, măsurile care trebuie luate în urma efectuării acestor controale și anumite categorii de animale și de mărfuri exceptate de la efectuarea controalelor oficiale la posturile de inspecție la frontieră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2126",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64e521df-1d3d-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "974e450f666b6dc6eb71ef6690e966d80d10c08df4f1a42d0b4ba890e9f7812a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2127-2019",
+   "path": "ue/regulament/2019/2127",
+   "short": "Regulamentul delegat CELEX 32019R2127",
+   "title": "Regulamentul delegat (UE) 2019/2127 al Comisiei din 10 octombrie 2019 de modificare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește data aplicării anumitor dispoziții din Directivele 91/496/CEE, 97/78/CE și 2000/29/CE ale Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2127",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8ae30b1-1d3d-11ea-95ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "19edcba326bbe61c7b39ae7371af6dcfb7bf37f0566b6dcc8fb7e0443b7b677b"
     }
    ]
   },
@@ -2313,6 +3153,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2170-2019",
+   "path": "ue/regulament/2019/2170",
+   "short": "Regulamentul delegat CELEX 32019R2170",
+   "title": "Regulamentul delegat (UE) 2019/2170 al Comisiei din 27 septembrie 2019 de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2170",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9ebb3ab-2263-11ea-af81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "35f386b594cf15e5277d6610d9aee5e237bf099cae3fde0653b80bba9424bcf5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2175-2019",
    "path": "ue/regulament/2019/2175",
    "short": "Regulamentul (UE) 2019/2175",
@@ -2343,6 +3198,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2178-2019",
+   "path": "ue/regulament/2019/2178",
+   "short": "Regulamentul delegat CELEX 32019R2178",
+   "title": "Regulamentul delegat (UE) 2019/2178 al Comisiei din 14 octombrie 2019 de modificare a Regulamentului (UE) 2016/1076 al Parlamentului European și al Consiliului pentru a include Uniunea Comorelor în anexa I",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2178",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a366088-2323-11ea-af81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0551c2b50417a1d56635d80247fde8ad10a990fcefc68b03e4e39cbe58ccd39f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-220-2019",
    "path": "ue/regulament/2019/220",
    "short": "Regulamentul (UE) 2019/220",
@@ -2354,6 +3224,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/44e180b3-2a9a-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a9ebfa6f642c9cd9c8a44114b717408991bbb02319ca5bbc3f0f2bd4c74bba60"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2200-2019",
+   "path": "ue/regulament/2019/2200",
+   "short": "Regulamentul delegat CELEX 32019R2200",
+   "title": "Regulamentul delegat (UE) 2019/2200 al Comisiei din 10 iulie 2019 de modificare a Regulamentului delegat (UE) 2015/98 privind punerea în aplicare a obligațiilor internaționale ale Uniunii, astfel cum sunt menționate la articolul 15 alineatul (2) din Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului, în cadrul Convenției internaționale pentru conservarea tonului din Oceanul Atlantic și al Convenției asupra viitoarei cooperări multilaterale în zonele de pescuit din Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2200",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b8f72c8-256a-11ea-af81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "51a1237949c1a3c662b22bbfa7b42e9501246bacd76b6b1b34feeaacdddde89c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2201-2019",
+   "path": "ue/regulament/2019/2201",
+   "short": "Regulamentul delegat CELEX 32019R2201",
+   "title": "Regulamentul delegat (UE) 2019/2201 al Comisiei din 1 octombrie 2019 de completare a Regulamentul (UE) 2019/1241 al Parlamentului European și al Consiliului cu norme detaliate privind punerea în aplicare a închiderilor în timp real în ceea ce privește pescuitul de crevete nordic în Skagerrak",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R2201",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8831fe1a-256a-11ea-af81-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2f8dadbfaaba94bc9fd1eab54270a11511d296a8f1a6f79278cc1b5e0bd5148d"
     }
    ]
   },
@@ -2433,6 +3333,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-227-2019",
+   "path": "ue/regulament/2019/227",
+   "short": "Regulamentul delegat CELEX 32019R0227",
+   "title": "Regulamentul delegat (UE) 2019/227 al Comisiei din 28 noiembrie 2018 de modificare a Regulamentului delegat (UE) nr. 1062/2014 în ceea ce privește anumite combinații substanță activă/tip de produs pentru care autoritatea competentă din Regatul Unit a fost desemnată drept autoritate competentă responsabilă de evaluare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0227",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd661ad9-2b66-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7940ab1bd769240ab2f8a3d5e86a609f67e6cd740b737133c933f9456349d70c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-229-2019",
    "path": "ue/regulament/2019/229",
    "short": "Regulamentul (UE) 2019/229",
@@ -2444,6 +3359,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3dfa99be-2b67-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "974bd04ea7b126f809c509a71ea372f16af5cbed2b30fc4bbcbf939dd1e71817"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-247-2019",
+   "path": "ue/regulament/2019/247",
+   "short": "Regulamentul delegat CELEX 32019R0247",
+   "title": "Regulamentul delegat (UE) 2019/247 al Comisiei din 16 octombrie 2018 de stabilire a listei indicatorilor pentru raportul privind aplicarea Regulamentului (CE) nr. 1082/2006 al Parlamentului European și al Consiliului privind o grupare europeană de cooperare teritorială (GECT)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0247",
+   "versions": [
+    {
+     "from": "2019-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e50c8ff-2f5f-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2818fd80b90aeef1a7ca02962c013a149a03a60bdca0b81b58eded77534b39e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-248-2019",
+   "path": "ue/regulament/2019/248",
+   "short": "Regulamentul delegat CELEX 32019R0248",
+   "title": "Regulamentul delegat (UE) 2019/248 al Comisiei din 13 noiembrie 2018 de corectare a Regulamentului (UE) nr. 63/2011 de stabilire a dispozițiilor detaliate pentru aplicarea unei derogări de la obiectivele privind emisiile specifice de CO2, în temeiul articolului 11 din Regulamentul (CE) nr. 443/2009 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0248",
+   "versions": [
+    {
+     "from": "2019-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b03b9c3-2f5f-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4857120c635958f857700a338205e7762b30d42ad949e3b9e5e774c1242ba8f1"
     }
    ]
   },
@@ -2489,6 +3434,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/71ffbf9c-341e-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "9ac109c27e1c43cde4ffa7c3c9d22a943080e9b4c4714c234efd834eaf698504"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-280-2019",
+   "path": "ue/regulament/2019/280",
+   "short": "Regulamentul delegat CELEX 32019R0280",
+   "title": "Regulamentul delegat (UE) 2019/280 al Comisiei din 3 decembrie 2018 de modificare a Regulamentului (CE) nr. 138/2004 al Parlamentului European și al Consiliului în ceea ce privește trimiterile la Sistemul european de conturi naționale și regionale din Uniunea Europeană (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0280",
+   "versions": [
+    {
+     "from": "2019-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/00496090-341f-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0796409fc245d30c5b4ed9c66677f224768f25dbc5ed5c8bc6d0dc46892068ac"
     }
    ]
   },
@@ -2568,6 +3528,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-320-2019",
+   "path": "ue/regulament/2019/320",
+   "short": "Regulamentul delegat CELEX 32019R0320",
+   "title": "Regulamentul delegat (UE) 2019/320 al Comisiei din 12 decembrie 2018 de completare a Directivei 2014/53/UE a Parlamentului European și a Consiliului în ceea ce privește aplicarea cerințelor esențiale menționate la articolul 3 alineatul (3) litera (g) din directiva respectivă, cu scopul de a asigura localizarea apelantului în cazul comunicărilor de urgență efectuate de pe dispozitive mobile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0320",
+   "versions": [
+    {
+     "from": "2019-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/333578b6-388c-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2490ac564d6c26137c2c1d12f542e30461914f0ecb9f4194ddab8e3752173142"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-33-2019",
+   "path": "ue/regulament/2019/33",
+   "short": "Regulamentul delegat CELEX 32019R0033",
+   "title": "Regulamentul delegat (UE) 2019/33 al Comisiei din 17 octombrie 2018 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește cererile de protecție a denumirilor de origine, a indicațiilor geografice și a mențiunilor tradiționale din sectorul vitivinicol, procedura de opoziție, restricțiile de utilizare, modificările caietelor de sarcini ale produselor, anularea protecției și etichetarea și prezentarea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0033",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c602329-154b-11e9-81b4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0fbb9e1a3288bfd09e275cbd041d93018aab5fa989c9736b961d22dfdf70da2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-330-2019",
+   "path": "ue/regulament/2019/330",
+   "short": "Regulamentul delegat CELEX 32019R0330",
+   "title": "Regulamentul delegat (UE) 2019/330 al Comisiei din 11 decembrie 2018 de modificare a anexelor I și V la Regulamentul (UE) nr. 649/2012 al Parlamentului European și al Consiliului privind exportul și importul de produse chimice care prezintă risc (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0330",
+   "versions": [
+    {
+     "from": "2019-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1844278-3a1d-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a282f31936da7baf54a9c5696c01fd54e75f8e789e63ee89de4a649f2a0804b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-331-2019",
+   "path": "ue/regulament/2019/331",
+   "short": "Regulamentul delegat CELEX 32019R0331",
+   "title": "Regulamentul delegat (UE) 2019/331 al Comisiei din 19 decembrie 2018 de stabilire a normelor tranzitorii pentru întreaga Uniune privind alocarea armonizată și cu titlu gratuit a certificatelor de emisii în temeiul articolului 10a din Directiva 2003/87/CE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0331",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/391ea49a-3a1e-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "755b9c2614ba3e2fad52ffb793ba8f734db10af2043c193d7428020078baedc6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-334-2019",
+   "path": "ue/regulament/2019/334",
+   "short": "Regulamentul delegat CELEX 32019R0334",
+   "title": "Regulamentul delegat (UE) 2019/334 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește termenele de depunere a declarațiilor sumare de intrare și a declarațiilor prealabile la ieșire în cazul transportului pe cale maritimă din și către Regatul Unit al Marii Britanii și Irlandei de Nord, Insulele Anglo-Normande și Insula Man",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0334",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8710c7a-3ae7-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e8f505a5995e3628e04cd02343bf6d8e80beaa53b2e71d48b65647b358f1cfac"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-343-2019",
    "path": "ue/regulament/2019/343",
    "short": "Regulamentul (UE) 2019/343",
@@ -2579,6 +3614,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/46849e6b-3bb0-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "c6db20759dc2fe6732b5b284c3a4d1d13d67c56836c328b2d8c04eb212bd4886"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-348-2019",
+   "path": "ue/regulament/2019/348",
+   "short": "Regulamentul delegat CELEX 32019R0348",
+   "title": "Regulamentul delegat (UE) 2019/348 al Comisiei din 25 octombrie 2018 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează criteriile de evaluare a impactului intrării în dificultate a unei instituții asupra piețelor financiare, asupra altor instituții și asupra condițiilor de finanțare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0348",
+   "versions": [
+    {
+     "from": "2019-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d17e9787-3e54-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9885b90a2100fc85968b27690fc9d40601356c09cd5c6b681a73418f1aba8d3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-356-2019",
+   "path": "ue/regulament/2019/356",
+   "short": "Regulamentul delegat CELEX 32019R0356",
+   "title": "Regulamentul delegat (UE) 2019/356 al Comisiei din 13 decembrie 2018 de completare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru specificarea detaliilor privind operațiunile de finanțare prin instrumente financiare (SFT) care trebuie raportate către registrele centrale de tranzacții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0356",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62147016-4c72-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "935ca8390f17fecaa7be8c6eab952ddc3954e4f8a2c7dd6cecb7efddef94e1ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-357-2019",
+   "path": "ue/regulament/2019/357",
+   "short": "Regulamentul delegat CELEX 32019R0357",
+   "title": "Regulamentul delegat (UE) 2019/357 al Comisiei din 13 decembrie 2018 de completare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la accesul la informații detaliate privind operațiunile de finanțare prin instrumente financiare (securities financing transactions – SFT) stocate de registrele centrale de tranzacții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0357",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca5e96a8-4c72-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "79e453705b275546c9b824c8c4e899e294f80183d1fd395af9ae7217cd79b187"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-358-2019",
+   "path": "ue/regulament/2019/358",
+   "short": "Regulamentul delegat CELEX 32019R0358",
+   "title": "Regulamentul delegat (UE) 2019/358 al Comisiei din 13 decembrie 2018 de completare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare privind colectarea, verificarea, agregarea, compararea și publicarea datelor privind operațiunile de finanțare prin instrumente financiare (SFT) de către registrele centrale de tranzacții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0358",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f07d7fe9-4c72-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "28232ff38725e7fa3bfd3ca084948078fc6329c1170332bfcba892fa250c6bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-359-2019",
+   "path": "ue/regulament/2019/359",
+   "short": "Regulamentul delegat CELEX 32019R0359",
+   "title": "Regulamentul delegat (UE) 2019/359 al Comisiei din 13 decembrie 2018 de completare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează detaliile cererii de înregistrare ca registru central de tranzacții și de extindere a acestei înregistrări (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0359",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/36e4922c-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3d2a121804a7137fc6d056cc17959f199efca78c14aa4abe913d660d2ae18f7d"
     }
    ]
   },
@@ -2598,6 +3708,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-360-2019",
+   "path": "ue/regulament/2019/360",
+   "short": "Regulamentul delegat CELEX 32019R0360",
+   "title": "Regulamentul delegat (UE) 2019/360 al Comisiei din 13 decembrie 2018 de completare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului cu privire la taxele aplicate registrelor centrale de tranzacții de Autoritatea Europeană pentru Valori Mobiliare și Piețe (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0360",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5bc221cd-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0bb9b7c08eb5715216b07bc4eed6987205d5ee2301884f85425cd6de7abada93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-361-2019",
+   "path": "ue/regulament/2019/361",
+   "short": "Regulamentul delegat CELEX 32019R0361",
+   "title": "Regulamentul delegat (UE) 2019/361 al Comisiei din 13 decembrie 2018 de modificare a Regulamentului delegat (UE) nr. 151/2013 în ceea ce privește accesul la datele din registrele centrale de tranzacții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0361",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a20fb89f-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d1ea48c708a874879e0f18ef9f5b5897d4ab0d0ff35778fb6b517b68709eaa87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-362-2019",
+   "path": "ue/regulament/2019/362",
+   "short": "Regulamentul delegat CELEX 32019R0362",
+   "title": "Regulamentul delegat (UE) 2019/362 al Comisiei din 13 decembrie 2018 de modificare a Regulamentului delegat (UE) nr. 150/2013 în ceea ce privește standarde tehnice de reglementare în care se precizează detaliile cererii de înregistrare ca registru central de tranzacții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0362",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb9b3ff2-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "11b6281f78a0ea5d1ac212bbc699ab6d3d4dd94709999c1553e088d4b6f915af"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-37-2019",
    "path": "ue/regulament/2019/37",
    "short": "Regulamentul (UE) 2019/37",
@@ -2609,6 +3764,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a80abd85-154a-11e9-81b4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "b9662b20acf84b0ab56877a3a85b911943857fa245e7279cd31465a028c7514b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-379-2019",
+   "path": "ue/regulament/2019/379",
+   "short": "Regulamentul delegat CELEX 32019R0379",
+   "title": "Regulamentul delegat (UE) 2019/379 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0379",
+   "versions": [
+    {
+     "from": "2019-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28d20ced-43ca-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "539c3706b1003e34170834088a264b89e94a47944082be371e2893eab9562844"
     }
    ]
   },
@@ -2628,6 +3798,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-396-2019",
+   "path": "ue/regulament/2019/396",
+   "short": "Regulamentul delegat CELEX 32019R0396",
+   "title": "Regulamentul delegat (UE) 2019/396 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului delegat (UE) 2015/2205, a Regulamentului delegat (UE) 2016/592 și a Regulamentului delegat (UE) 2016/1178 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește data de la care obligația de compensare produce efecte pentru anumite tipuri de contracte (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0396",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9eb8e96-455d-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d9e1ed87e5ff3f5cbeab58343c1023749c384b4db9725739ccb5288f4148e210"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-397-2019",
+   "path": "ue/regulament/2019/397",
+   "short": "Regulamentul delegat CELEX 32019R0397",
+   "title": "Regulamentul delegat (UE) 2019/397 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului delegat (UE) 2016/2251 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește data până la care contrapărțile pot continua să aplice procedurile lor de gestionare a riscurilor în cazul anumitor contracte derivate extrabursiere care nu sunt compensate printr-o contraparte centrală (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0397",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/307bc1f8-455e-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cefa4284c7961ce1ac6f1f022572c549988d6976f3cfbc845dd6f14aff36f561"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-4-2019",
    "path": "ue/regulament/2019/4",
    "short": "Regulamentul (UE) 2019/4",
@@ -2639,6 +3839,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ff765aa0-120a-11e9-81b4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "981da41a50558a1ba69147dc44906e0a03893a69b8a67b45f29f1aa292035a4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-401-2019",
+   "path": "ue/regulament/2019/401",
+   "short": "Regulamentul delegat CELEX 32019R0401",
+   "title": "Regulamentul delegat (UE) 2019/401 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului (UE) nr. 389/2013 de creare a registrului Uniunii (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0401",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/79a23ac1-4625-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d448f16a456884d9c4f4a5b695cc0f1aa747423c941c771126dcedeb63e531c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-411-2019",
+   "path": "ue/regulament/2019/411",
+   "short": "Regulamentul delegat CELEX 32019R0411",
+   "title": "Regulamentul delegat (UE) 2019/411 al Comisiei din 29 noiembrie 2018 de completare a Directivei (UE) 2015/2366 a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare pentru stabilirea cerințelor tehnice privind instituirea, gestionarea și menținerea registrului central electronic în domeniul serviciilor de plată și privind accesul la informațiile conținute de acesta (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0411",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39481d7d-46f5-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d15081835f87dbbac24db03d0334ffdde48ec46590356ad35d4ce3aa706e2260"
     }
    ]
   },
@@ -2673,6 +3903,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-429-2019",
+   "path": "ue/regulament/2019/429",
+   "short": "Regulamentul delegat CELEX 32019R0429",
+   "title": "Regulamentul delegat (UE) 2019/429 al Comisiei din 11 ianuarie 2019 de completare a Regulamentului (UE) 2017/821 al Parlamentului European și al Consiliului în ceea ce privește metodologia și criteriile pentru evaluarea și recunoașterea sistemelor de diligență necesară în cadrul lanțului de aprovizionare cu staniu, tantal, tungsten și aur",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0429",
+   "versions": [
+    {
+     "from": "2019-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f412e6ba-4a27-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6fa413f4505d6cf900c8c01db736c64d600896067af7a2d5f736173ca197bb5f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-440-2019",
    "path": "ue/regulament/2019/440",
    "short": "Regulamentul (UE) 2019/440",
@@ -2688,6 +3933,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-442-2019",
+   "path": "ue/regulament/2019/442",
+   "short": "Regulamentul delegat CELEX 32019R0442",
+   "title": "Regulamentul delegat (UE) 2019/442 al Comisiei din 12 decembrie 2018 de modificare și rectificare a Regulamentului delegat (UE) 2017/587 pentru a specifica cerința ca prețurile să reflecte condițiile predominante pe piață și pentru a actualiza și a rectifica anumite dispoziții (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0442",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8df811fe-4ae2-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "34bc0f0baf1105c3a557748331aa1aaaaa90bf61e1efaaf4d51f9e5e12a8ea59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-443-2019",
+   "path": "ue/regulament/2019/443",
+   "short": "Regulamentul delegat CELEX 32019R0443",
+   "title": "Regulamentul delegat (UE) 2019/443 al Comisiei din 13 februarie 2019 de modificare a Regulamentului delegat (UE) 2017/588 în ceea ce privește posibilitatea de a ajusta numărul mediu zilnic de tranzacții pentru o acțiune în cazul în care locul de tranzacționare cu cea mai mare valoare a tranzacțiilor pentru acțiunea respectivă se află în afara Uniunii (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0443",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b22ae2af-4ae2-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "eb0e40034a0cc776d7feab13cdd647a717621623031617b48640ea7b4a70caba"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-452-2019",
    "path": "ue/regulament/2019/452",
    "short": "Regulamentul (UE) 2019/452",
@@ -2699,6 +3974,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/956a80ac-4ba6-11e9-a8ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8a95b0e877535de19f349ea3424102d386dec9d9764f1c76825c3cd46b99b35f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-460-2019",
+   "path": "ue/regulament/2019/460",
+   "short": "Regulamentul delegat CELEX 32019R0460",
+   "title": "Regulamentul delegat (UE) 2019/460 al Comisiei din 30 ianuarie 2019 de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește lista cu entitățile care beneficiază de derogare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0460",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/186e6a0b-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "682df8160113c3c5b5e5d6cc5574c76f9e4f148d6bbe4c84458e606d4202e90f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-461-2019",
+   "path": "ue/regulament/2019/461",
+   "short": "Regulamentul delegat CELEX 32019R0461",
+   "title": "Regulamentul delegat (UE) 2019/461 al Comisiei din 30 ianuarie 2019 de modificare a Regulamentului delegat (UE) 2016/522 în ceea ce privește excluderea Băncii Angliei și a Oficiului de administrare a datoriei Regatului Unit din domeniul de aplicare al Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0461",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e2e152e-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e479f12cefe440dae268d6723b3e2ed27bb1260bd9700bc3915127bdd17e46fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-462-2019",
+   "path": "ue/regulament/2019/462",
+   "short": "Regulamentul delegat CELEX 32019R0462",
+   "title": "Regulamentul delegat (UE) 2019/462 al Comisiei din 30 ianuarie 2019 de modificare a Regulamentului delegat (UE) 2017/1799 în ceea ce privește exceptarea Băncii Angliei de la cerințele de transparență pretranzacționare și posttranzacționare prevăzute în Regulamentul (UE) nr. 600/2014 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0462",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4172160-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d1c090619bb70d8b1558e0f82573b284937541a13f133f3b80e9a3d8b618bf68"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-463-2019",
+   "path": "ue/regulament/2019/463",
+   "short": "Regulamentul delegat CELEX 32019R0463",
+   "title": "Regulamentul delegat (UE) 2019/463 al Comisiei din 30 ianuarie 2019 de modificare a Regulamentului (UE) 2015/2365 al Parlamentului European și al Consiliului în ceea ce privește lista entităților exceptate (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0463",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb70fba1-4c73-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a32b21ba814cd69824b36724e988c24921a2bdd02236cb56bc610aed4fce58cb"
     }
    ]
   },
@@ -2744,6 +4079,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5e6cf525-4eca-11e9-a8ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "641723526ccb591028d86558c8dea5215fa8f0e3b36ccf0a81e20f0f11876ef9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-478-2019",
+   "path": "ue/regulament/2019/478",
+   "short": "Regulamentul delegat CELEX 32019R0478",
+   "title": "Regulamentul delegat (UE) 2019/478 al Comisiei din 14 ianuarie 2019 de modificare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește categoriile de transporturi care urmează să fie supuse controalelor oficiale la posturile de inspecție la frontieră (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0478",
+   "versions": [
+    {
+     "from": "2019-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a569b7ba-4eca-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "36c078743a526d68f733775488c3337e7156133082c0a1a05efcb29f62f68be5"
     }
    ]
   },
@@ -2898,6 +4248,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-505-2019",
+   "path": "ue/regulament/2019/505",
+   "short": "Regulamentul delegat CELEX 32019R0505",
+   "title": "Regulamentul delegat (UE) 2019/505 al Comisiei din 19 decembrie 2018 de modificare a anexei I la Regulamentul (CE) nr. 184/2005 al Parlamentului European și al Consiliului în ceea ce privește nivelurile de defalcare geografică (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0505",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c65f6a0-505a-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "40ed0eb2fac9ff13b8fc81fcd6a7b25e7430999c44c6f404cc47ac3bf177c702"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-515-2019",
    "path": "ue/regulament/2019/515",
    "short": "Regulamentul (UE) 2019/515",
@@ -3033,6 +4398,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-564-2019",
+   "path": "ue/regulament/2019/564",
+   "short": "Regulamentul delegat CELEX 32019R0564",
+   "title": "Regulamentul delegat (UE) 2019/564 al Comisiei din 28 martie 2019 de modificare a Regulamentului delegat (UE) 2016/2251 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește data până la care contrapărțile pot continua să aplice procedurile lor de gestionare a riscurilor în cazul anumitor contracte derivate extrabursiere care nu sunt compensate printr-o contraparte centrală (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0564",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3297bd48-5b5a-11e9-9c52-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "873d475488921f663425f6c7ca354b06f9a48b1e8f0c4bc52049a23665dd8bf2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-565-2019",
+   "path": "ue/regulament/2019/565",
+   "short": "Regulamentul delegat CELEX 32019R0565",
+   "title": "Regulamentul delegat (UE) 2019/565 al Comisiei din 28 martie 2019 de modificare a Regulamentului delegat (UE) 2015/2205, a Regulamentului delegat (UE) 2016/592 și a Regulamentului delegat (UE) 2016/1178 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește data de la care obligația de compensare produce efecte pentru anumite tipuri de contracte (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0565",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7aa55399-5b5a-11e9-9c52-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "22eba5086d90bec17cd34dadc63102a9170d27e81fa86a06607b0be92a8b62cf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-58-2019",
    "path": "ue/regulament/2019/58",
    "short": "Regulamentul (UE) 2019/58",
@@ -3074,6 +4469,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/aefe9285-120b-11e9-81b4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "26ddaf0eef9fa1eff38b4077a460e99511ac36d2145af4b1c614612064444a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-624-2019",
+   "path": "ue/regulament/2019/624",
+   "short": "Regulamentul delegat CELEX 32019R0624",
+   "title": "Regulamentul delegat (UE) 2019/624 al Comisiei din 8 februarie 2019 privind norme specifice pentru efectuarea controalelor oficiale vizând producția de carne și zonele de producție și de relocare a moluștelor bivalve vii în conformitate cu Regulamentul (UE) 2017/625 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0624",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e35c63e8-786a-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e2a6a582ce3bf4b1d954d7af5955298339a9567e45c9b85e7ac854a2a49844b9"
     }
    ]
   },
@@ -3183,6 +4593,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-667-2019",
+   "path": "ue/regulament/2019/667",
+   "short": "Regulamentul delegat CELEX 32019R0667",
+   "title": "Regulamentul delegat (UE) 2019/667 al Comisiei din 19 decembrie 2018 de modificare a Regulamentului delegat (UE) 2015/2205, a Regulamentului delegat (UE) 2016/592 și a Regulamentului delegat (UE) 2016/1178 în vederea decalării datelor de aplicare amânată a obligației de compensare pentru anumite tipuri de contracte derivate extrabursiere (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0667",
+   "versions": [
+    {
+     "from": "2019-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/162a989b-6a57-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6caccc7361242d833de56a5542dfac3316d800865431f04232e47b266981258a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-673-2019",
+   "path": "ue/regulament/2019/673",
+   "short": "Regulamentul delegat CELEX 32019R0673",
+   "title": "Regulamentul delegat (UE) 2019/673 al Comisiei din 27 februarie 2019 de modificare a Regulamentului (UE) 2018/196 privind drepturi vamale suplimentare la importurile anumitor produse originare din Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0673",
+   "versions": [
+    {
+     "from": "2019-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/197e5f0c-6b18-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e095277b9489285cc550e90370c33bbd764b13972369cb50ec117e15aeb7db3e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-680-2019",
    "path": "ue/regulament/2019/680",
    "short": "Regulamentul (UE) 2019/680",
@@ -3209,6 +4649,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a8b5900b-6ca7-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "2b3e227eca0196f4a3704712bb94a5f2920502f546480b12607014c972fb6f13"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-686-2019",
+   "path": "ue/regulament/2019/686",
+   "short": "Regulamentul delegat CELEX 32019R0686",
+   "title": "Regulamentul delegat (UE) 2019/686 al Comisiei din 16 ianuarie 2019 de stabilire a modalităților detaliate prevăzute de Directiva 91/477/CEE a Consiliului pentru schimbul sistematic, prin mijloace electronice, de informații referitoare la transferul de arme de foc în interiorul Uniunii (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0686",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e0ff781-6d6d-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "89af0dde63b4a3b2e22badc864de8fb39c493cf9c594d4e5c78a2652b3780e6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-693-2019",
+   "path": "ue/regulament/2019/693",
+   "short": "Regulamentul delegat CELEX 32019R0693",
+   "title": "Regulamentul delegat (UE) 2019/693 al Comisiei din 7 februarie 2019 de modificare a Regulamentului delegat (UE) nr. 481/2014 de completare a Regulamentului (UE) nr. 1299/2013 al Parlamentului European și al Consiliului în ceea ce privește normele specifice privind eligibilitatea cheltuielilor pentru programele de cooperare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0693",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3cfca9c0-6fc6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "06c1af245ee50658608b300a8c0f808efd3fbf8f9d11e5ae8956b0b5c155ae47"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-694-2019",
+   "path": "ue/regulament/2019/694",
+   "short": "Regulamentul delegat CELEX 32019R0694",
+   "title": "Regulamentul delegat (UE) 2019/694 al Comisiei din 15 februarie 2019 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului în ceea ce privește forma de finanțare care nu este legată de costurile operațiunilor relevante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0694",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/681030a1-6fc6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e61c50a32b2148c8593a2111d1341e9b6e089a37e41f415a9b7ee0dafbca61d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-697-2019",
+   "path": "ue/regulament/2019/697",
+   "short": "Regulamentul delegat CELEX 32019R0697",
+   "title": "Regulamentul delegat (UE) 2019/697 al Comisiei din 14 februarie 2019 de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0697",
+   "versions": [
+    {
+     "from": "2019-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a844bbe9-7097-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a5b1c5c3af2c8fcb18c2186f8793802d80f5eeebac581ee423002de06c765974"
     }
    ]
   },
@@ -3254,6 +4754,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/edf69390-72f3-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "382bb0798e74054f2529b070ba7827391e86f37149d66feb5e5a361855f1b14e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-715-2019",
+   "path": "ue/regulament/2019/715",
+   "short": "Regulamentul delegat CELEX 32019R0715",
+   "title": "Regulamentul delegat (UE) 2019/715 al Comisiei din 18 decembrie 2018 privind regulamentul financiar cadru pentru organele instituite în temeiul TFUE și al Tratatului Euratom și menționate la articolul 70 din Regulamentul (UE, Euratom) 2018/1046 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0715",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb2b6df1-72f0-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "812650e3ab36cda2583837338460f896869ff3adeb0b81f13e4ece32ec275821"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-758-2019",
+   "path": "ue/regulament/2019/758",
+   "short": "Regulamentul delegat CELEX 32019R0758",
+   "title": "Regulamentul delegat (UE) 2019/758 al Comisiei din 31 ianuarie 2019 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care stabilesc acțiunile minime și tipul de măsuri suplimentare pe care trebuie să le ia instituțiile de credit și financiare pentru a diminua riscul de spălare a banilor și de finanțare a terorismului în anumite țări terțe (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0758",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19e31ef2-7610-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "161ff5605767b42a0bb35933a5e29da01ef63940cea1870140a634229ce65c0e"
     }
    ]
   },
@@ -3348,6 +4878,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-807-2019",
+   "path": "ue/regulament/2019/807",
+   "short": "Regulamentul delegat CELEX 32019R0807",
+   "title": "Regulamentul delegat (UE) 2019/807 al Comisiei din 13 martie 2019 de completare a Directivei (UE) 2018/2001 a Parlamentului European și a Consiliului în ceea ce privește stabilirea materiilor prime care prezintă riscuri ridicate din perspectiva schimbării indirecte a destinației terenurilor, în cazul cărora se observă o expansiune semnificativă a suprafeței de producție în detrimentul terenurilor care stochează cantități ridicate de carbon și certificarea biocombustibililor, a biolichidelor și a combustibililor din biomasă care prezintă riscuri reduse din perspectiva schimbării indirecte a destinației terenurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0807",
+   "versions": [
+    {
+     "from": "2019-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bd587987-7b9b-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e434d250077f6b40a1bbeaf17c10385bdd67ef9245c3e44003e5b9c5ce03cb4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-815-2019",
+   "path": "ue/regulament/2019/815",
+   "short": "Regulamentul delegat CELEX 32019R0815",
+   "title": "Regulamentul delegat (UE) 2018/815 al Comisiei din 17 decembrie 2018 de completare a Directivei 2004/109/CE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare privind specificarea unui format de raportare electronic unic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0815",
+   "versions": [
+    {
+     "from": "2019-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc77a477-81d7-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "11bbcc2c11ecaaa67dffe826d19dc0a1f23c9fc69303508a95c41869ebded618"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-817-2019",
    "path": "ue/regulament/2019/817",
    "short": "Regulamentul (UE) 2019/817",
@@ -3374,6 +4934,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6692765c-7c60-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "e5312d1d60ed53873cef72587aef7dc138cec3195f365fa14a79e6bffa817c5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-819-2019",
+   "path": "ue/regulament/2019/819",
+   "short": "Regulamentul delegat CELEX 32019R0819",
+   "title": "Regulamentul delegat (UE) 2019/819 al Comisiei din 1 februarie 2019 de completare a Regulamentului (UE) nr. 346/2013 al Parlamentului European și al Consiliului în ceea ce privește conflictele de interese, măsurarea impactului social și informarea investitorilor în domeniul fondurilor europene de antreprenoriat social (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0819",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46171b39-7c5e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "adc5877b27aec0e10750c6b23d855363ef876e018eb49e68c7f9fa671d58c2d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-820-2019",
+   "path": "ue/regulament/2019/820",
+   "short": "Regulamentul delegat CELEX 32019R0820",
+   "title": "Regulamentul delegat (UE) 2019/820 al Comisiei din 4 februarie 2019 de completare a Regulamentului (UE) nr. 345/2013 al Parlamentului European și al Consiliului în ceea ce privește conflictele de interese în domeniul fondurilor europene cu capital de risc (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0820",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7760995a-7c5e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3ceb4e5a2e065d68399d847ca8df0a7b9fdc29e347c91cc231e9245fdbf377e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-821-2019",
+   "path": "ue/regulament/2019/821",
+   "short": "Regulamentul delegat CELEX 32019R0821",
+   "title": "Regulamentul delegat (UE) 2019/821 al Comisiei din 12 martie 2019 de modificare a Regulamentului (UE) 2016/1076 al Parlamentului European și al Consiliului pentru a include Statul Independent Samoa în anexa I",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0821",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2d2b3df-7c5e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "07c21f0b030e0b0e17d1867318a2e239244cbae4397feec670082d22fb012463"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-827-2019",
+   "path": "ue/regulament/2019/827",
+   "short": "Regulamentul delegat CELEX 32019R0827",
+   "title": "Regulamentul delegat (UE) 2019/827 al Comisiei din 13 martie 2019 privind criteriile care trebuie îndeplinite de operatorii profesioniști pentru a respecta condițiile prevăzute la articolul 89 alineatul (1) litera (a) din Regulamentul (UE) 2016/2031 al Parlamentului European și al Consiliului și privind procedurile pentru asigurarea îndeplinirii criteriilor respective",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0827",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0cf0fd3e-7d26-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "041d0a78586c80c92c358993baa0d499b4fc8f6228a74abbb0be96d5d2a6a019"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-828-2019",
+   "path": "ue/regulament/2019/828",
+   "short": "Regulamentul delegat CELEX 32019R0828",
+   "title": "Regulamentul delegat (UE) 2019/828 al Comisiei din 14 martie 2019 de modificare a Regulamentului delegat (UE) 2016/127 în ceea ce privește cerințele referitoare la vitamina D din formulele de început și cerințele referitoare la acidul erucic din formulele de început și formulele de continuare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0828",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f7f0950-7d26-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1bc1b808430899f06eadefe96e8ee0b6718c7747a924be7b4312c6c3ebd73218"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-829-2019",
+   "path": "ue/regulament/2019/829",
+   "short": "Regulamentul delegat CELEX 32019R0829",
+   "title": "Regulamentul delegat (UE) 2019/829 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) 2016/2031 al Parlamentului European și al Consiliului privind măsurile de protecție împotriva organismelor dăunătoare plantelor, de autorizare a statelor membre să prevadă derogări temporare în scopuri de testare oficială, științifice sau educaționale, pentru teste, selecții de soiuri sau reproducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0829",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a05cb472-7d26-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1c77a620c65376e127a702b0716393c5f3f17e830f0b414fd1c92db51a8b44d3"
     }
    ]
   },
@@ -3419,6 +5069,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/07818845-8110-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "bae9fd205b2e3f97d968f49f05d7fd4f95ac5bb16626663c3a93d6f54f712273"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-839-2019",
+   "path": "ue/regulament/2019/839",
+   "short": "Regulamentul delegat CELEX 32019R0839",
+   "title": "Regulamentul delegat (UE) 2019/839 al Comisiei din 7 martie 2019 de modificare a Regulamentului (UE) nr. 540/2014 al Parlamentului European și al Consiliului privind nivelul sonor al autovehiculelor și al amortizoarelor de zgomot de înlocuire (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0839",
+   "versions": [
+    {
+     "from": "2019-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/30b7c7eb-7df9-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d3f8647e9e96bc2b73c8ca923610dcae690023bc239df9aaf1a050e195efc6b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-840-2019",
+   "path": "ue/regulament/2019/840",
+   "short": "Regulamentul delegat CELEX 32019R0840",
+   "title": "Regulamentul delegat (UE) 2019/840 al Comisiei din 12 martie 2019 de modificare a Regulamentului delegat (UE) 2018/273 în ceea ce privește importul de vin originar din Canada și de scutire a comercianților cu amănuntul de obligația de a păstra un registru de intrări și de ieșiri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0840",
+   "versions": [
+    {
+     "from": "2019-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6aff0fdc-7df9-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a07f489d68edb6ef9b0b45c4f9a86e34bec6fdd80b9888eda5d99e5a0dbb7695"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-841-2019",
+   "path": "ue/regulament/2019/841",
+   "short": "Regulamentul delegat CELEX 32019R0841",
+   "title": "Regulamentul delegat (UE) 2019/841 al Comisiei din 14 martie 2019 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) 2015/2446 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0841",
+   "versions": [
+    {
+     "from": "2019-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad81bbfd-7df9-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "487270127d7722298026511cf40d95bc5217cd29771e729df8ba6581240f524c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-856-2019",
+   "path": "ue/regulament/2019/856",
+   "short": "Regulamentul delegat CELEX 32019R0856",
+   "title": "Regulamentul delegat (UE) 2019/856 al Comisiei din 26 februarie 2019 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește funcționarea Fondului pentru inovare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0856",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5a650b54a01149033ff89efae919cb60baef9a3fe6dd0f0b704d8275d9779f98"
     }
    ]
   },
@@ -3498,6 +5208,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-885-2019",
+   "path": "ue/regulament/2019/885",
+   "short": "Regulamentul delegat CELEX 32019R0885",
+   "title": "Regulamentul delegat (UE) 2019/885 al Comisiei din 5 februarie 2019 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care specifică informațiile care trebuie furnizate unei autorități competente în cererea de autorizare a unei părți terțe care evaluează respectarea STS (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0885",
+   "versions": [
+    {
+     "from": "2019-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/005bfc36-81db-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7dbfcff4ed7fb73e06226d6f4f7d1995198b4bac74154862f96874933d1f59b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-886-2019",
+   "path": "ue/regulament/2019/886",
+   "short": "Regulamentul delegat CELEX 32019R0886",
+   "title": "Regulamentul delegat (UE) 2019/886 al Comisiei din 12 februarie 2019 de modificare și de rectificare a Regulamentului delegat (UE) nr. 480/2014 în ceea ce privește dispozițiile privind instrumentele financiare, opțiunile simplificate în materie de costuri, pista de audit, domeniul de aplicare și conținutul auditurilor operațiunilor și metodologia pentru selectarea eșantionului de operațiuni, precum și a anexei III",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0886",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c54da07-81db-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "76f6131e07db718266e810fa1804599d105da7d999a8909bf917a9324c647dec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-887-2019",
+   "path": "ue/regulament/2019/887",
+   "short": "Regulamentul delegat CELEX 32019R0887",
+   "title": "Regulamentul delegat (UE) 2019/887 al Comisiei din 13 martie 2019 privind regulamentul financiar-tip pentru organismele de parteneriat public-privat menționate la articolul 71 din Regulamentul (UE, Euratom) 2018/1046 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0887",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2ee551a-81db-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "08c157e6a249e2636ec67ba1cdeed24f5ff2c9c3404e8c04f14728733a32e505"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-89-2019",
    "path": "ue/regulament/2019/89",
    "short": "Regulamentul (UE) 2019/89",
@@ -3528,6 +5283,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-897-2019",
+   "path": "ue/regulament/2019/897",
+   "short": "Regulamentul delegat CELEX 32019R0897",
+   "title": "Regulamentul delegat (UE) 2019/897 al Comisiei din 12 martie 2019 de modificare a Regulamentului (UE) nr. 748/2012 în ceea ce privește includerea în anexa I a abordării bazate pe riscuri a verificării conformității și punerea în aplicare a cerințelor pentru protecția mediului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0897",
+   "versions": [
+    {
+     "from": "2019-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f2c87aeb-85cf-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ad4b6d6c7ef7f1a136999c2a5c53922bf8c86ce5f55e6d81397f0a52d812ada3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-90-2019",
    "path": "ue/regulament/2019/90",
    "short": "Regulamentul (UE) 2019/90",
@@ -3539,6 +5309,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e07bd35f-1faf-11e9-8d04-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "e5ed2e37e592ca648b80a8ea38849aee361f13334a72aa71b61e04ec9dc804f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-907-2019",
+   "path": "ue/regulament/2019/907",
+   "short": "Regulamentul delegat CELEX 32019R0907",
+   "title": "Regulamentul delegat (UE) 2019/907 al Comisiei din 14 martie 2019 privind instituirea unui test comun de formare pentru monitorii de schi în temeiul articolului 49b din Directiva 2005/36/CE a Parlamentului European și a Consiliului privind recunoașterea calificărilor profesionale (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0907",
+   "versions": [
+    {
+     "from": "2019-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fdf3a032-869d-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7217aa46afd389438cf485bad3542c7c11eb5c3f5f89c97d9d7b1b94438b7832"
     }
    ]
   },
@@ -3569,6 +5354,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d568f593-8c18-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "81c1464845b47103adb8f09e8ba829673d02dc2f420cad3135bba50b4f2087f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-934-2019",
+   "path": "ue/regulament/2019/934",
+   "short": "Regulamentul delegat CELEX 32019R0934",
+   "title": "Regulamentul delegat (UE) 2019/934 al Comisiei din 12 martie 2019 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește zonele viticole în care poate fi majorată tăria alcoolică, practicile oenologice autorizate și restricțiile aplicabile producerii și conservării produselor vitivinicole, procentajul minim de alcool al subproduselor și eliminarea acestora și publicarea fișelor OIV",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0934",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c987d15e-88ff-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "79a69c1f4aa4e2718dd2e70ed6e8cf70ba733b0be86b0ad0d25e54a51efce216"
     }
    ]
   },
@@ -3614,6 +5414,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "5438378a9c9f4ad2271972c60ec349071cb7155e566b6ffa3892f7c6dfde87b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-945-2019",
+   "path": "ue/regulament/2019/945",
+   "short": "Regulamentul delegat CELEX 32019R0945",
+   "title": "Regulamentul delegat (UE) 2019/945 al Comisiei din 12 martie 2019 privind sistemele de aeronave fără pilot la bord și operatorii de sisteme de aeronave fără pilot la bord din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0945",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b686e4e7-8c1b-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ab0633f54093c63506b7e3f7ba9a2af3a4ab9a4feb549f4b0a0e923fb3c318da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-946-2019",
+   "path": "ue/regulament/2019/946",
+   "short": "Regulamentul delegat CELEX 32019R0946",
+   "title": "Regulamentul delegat (UE) 2019/946 al Comisiei din 12 martie 2019 de completare a Regulamentului (UE) nr. 515/2014 al Parlamentului European și al Consiliului în ceea ce privește alocarea de fonduri din bugetul general al Uniunii pentru a acoperi costurile aferente dezvoltării Sistemului european de informații și de autorizare privind călătoriile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0946",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/116fe788-8c1c-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "06500b6004f29860d1351b7fc33cb5216a1774d638b56512baf185d3048477f9"
     }
    ]
   },
@@ -3719,6 +5549,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/28b4928f-93ef-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "868cd5e47ab99947724ba8801184eea9bebf1ae3c776f4f600870fba545ad755"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-980-2019",
+   "path": "ue/regulament/2019/980",
+   "short": "Regulamentul delegat CELEX 32019R0980",
+   "title": "Regulamentul delegat (UE) 2019/980 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) 2017/1129 al Parlamentului European și al Consiliului în ceea ce privește formatul, conținutul, verificarea și aprobarea prospectului care trebuie publicat în cazul unei oferte publice de valori mobiliare sau al admiterii de valori mobiliare la tranzacționare pe o piață reglementată și de abrogare a Regulamentului (CE) nr. 809/2004 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0980",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d0d48f5-93ef-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9008fad7a352e1603945edf38c8ad4cc59d7ba31413239438ffcbc9d6c6f1435"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-981-2019",
+   "path": "ue/regulament/2019/981",
+   "short": "Regulamentul delegat CELEX 32019R0981",
+   "title": "Regulamentul delegat (UE) 2019/981 al Comisiei din 8 martie 2019 de modificare a Regulamentului delegat (UE) 2015/35 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0981",
+   "versions": [
+    {
+     "from": "2019-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1686aa8-9195-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "118db7c6d8d523701060f4a2c57863ea64168916346040542cd78ecaa4e298bb"
     }
    ]
   },

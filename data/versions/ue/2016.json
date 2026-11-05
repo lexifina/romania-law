@@ -633,6 +633,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-101-2016",
+   "path": "ue/regulament/2016/101",
+   "short": "Regulamentul delegat CELEX 32016R0101",
+   "title": "Regulamentul delegat (UE) 2016/101 al Comisiei din 26 octombrie 2015 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru evaluarea prudentă prevăzute la articolul 105 alineatul (14) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0101",
+   "versions": [
+    {
+     "from": "2016-02-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2617709c-c594-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "570d6e3411010a8bffa1da64048c1e572aa1e1f9e3421f1f7ac91c99a4dea45e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1011-2016",
    "path": "ue/regulament/2016/1011",
    "short": "Regulamentul (UE) 2016/1011",
@@ -828,6 +843,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1052-2016",
+   "path": "ue/regulament/2016/1052",
+   "short": "Regulamentul delegat CELEX 32016R1052",
+   "title": "Regulamentul delegat (UE) 2016/1052 al Comisiei din 8 martie 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru condițiile aplicabile programelor de răscumpărare și măsurilor de stabilizare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1052",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a2e27a3-3e84-11e6-af30-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3f3bdfc914a6eedcbd270fcea284b320415acc26485b378f2462964471ecfa47"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1075-2016",
+   "path": "ue/regulament/2016/1075",
+   "short": "Regulamentul delegat CELEX 32016R1075",
+   "title": "Regulamentul delegat (UE) 2016/1075 al Comisiei din 23 martie 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului cu privire la standardele tehnice de reglementare care precizează conținutul planurilor de redresare, al planurilor de rezoluție și al planurilor de rezoluție a grupului, criteriile minime pe care autoritatea competentă trebuie să le examineze în ceea ce privește planurile de redresare și planurile de redresare a grupului, condițiile de acordare a sprijinului financiar intragrup, cerințele privind evaluatorii independenți, recunoașterea contractuală a competențelor de reducere a valorii contabile și de conversie, procedurile și conținutul cerințelor de notificare și ale avizului de suspendare și funcționarea operațională a colegiilor de rezoluție (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1075",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/647050b3-44cf-11e6-9c64-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7b34c9fe8cc12b4b9c736e78fada87739784dfde38cfd37d1e8fa1fd781ebe61"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1076-2016",
    "path": "ue/regulament/2016/1076",
    "short": "Regulamentul (UE) 2016/1076",
@@ -963,6 +1008,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1149-2016",
+   "path": "ue/regulament/2016/1149",
+   "short": "Regulamentul delegat CELEX 32016R1149",
+   "title": "Regulamentul delegat (UE) 2016/1149 al Comisiei din 15 aprilie 2016 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește programele naționale de sprijin în sectorul vitivinicol și de modificare a Regulamentului (CE) nr. 555/2008 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1149",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edaa0451-4a45-11e6-9c64-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0eb73f664fea7a61bb1516b54e284eb303cba284897b50eb058cc8040f7715f8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1158-2016",
    "path": "ue/regulament/2016/1158",
    "short": "Regulamentul (UE) 2016/1158",
@@ -989,6 +1049,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/87a0a36d-4d76-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "8d6c562c500b0497edc1962aa9f7235ab400d79193c53ec85de4e8c1b7531540"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1166-2016",
+   "path": "ue/regulament/2016/1166",
+   "short": "Regulamentul delegat CELEX 32016R1166",
+   "title": "Regulamentul delegat (UE) 2016/1166 al Comisiei din 17 mai 2016 de modificare a anexei X la Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește condițiile de achiziționare a sfeclei în sectorul zahărului începând cu 1 octombrie 2017",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1166",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae24b621-4d76-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4a7d11997dbdce1a960c36acdfa9adae4f56bd3ffdc9f2350f94201cc9092c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1178-2016",
+   "path": "ue/regulament/2016/1178",
+   "short": "Regulamentul delegat CELEX 32016R1178",
+   "title": "Regulamentul delegat (UE) 2016/1178 al Comisiei din 10 iunie 2016 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru obligația de compensare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1178",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c22f9fe-4e3f-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "93567c9c6a7a8a201b0f55bed7388169a6d04c9b5ac6b1257d830c796942afcd"
     }
    ]
   },
@@ -1068,6 +1158,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1226-2016",
+   "path": "ue/regulament/2016/1226",
+   "short": "Regulamentul delegat CELEX 32016R1226",
+   "title": "Regulamentul delegat (UE) 2016/1226 al Comisiei din 4 mai 2016 de modificare a anexei IX la Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește mențiunile rezervate facultative pentru uleiul de măsline",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1226",
+   "versions": [
+    {
+     "from": "2016-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2a7606e-54e9-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "03d72902b54ca93d8f9e41c0f4dbf469ed47c43ff9d0ebece3ee765250d42646"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1237-2016",
+   "path": "ue/regulament/2016/1237",
+   "short": "Regulamentul delegat CELEX 32016R1237",
+   "title": "Regulamentul delegat (UE) 2016/1237 al Comisiei din 18 mai 2016 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește normele de aplicare a sistemului de licențe de import și export și de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește normele referitoare la eliberarea și reținerea garanțiilor constituite pentru astfel de licențe, precum și de modificare a Regulamentelor (CE) nr. 2535/2001, (CE) nr. 1342/2003, (CE) nr. 2336/2003, (CE) nr. 951/2006, (CE) nr. 341/2007 și (CE) nr. 382/2008 ale Comisiei și de abrogare a Regulamentelor (CE) nr. 2390/98, (CE) nr. 1345/2005, (CE) nr. 376/2008 și (CE) nr. 507/2008 ale Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1237",
+   "versions": [
+    {
+     "from": "2016-08-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6c457af-55db-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "622787d55dfc5fbfd3d446c2aae87203fda8e98970c75d83d27a0b8fdfdf1197"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1238-2016",
+   "path": "ue/regulament/2016/1238",
+   "short": "Regulamentul delegat CELEX 32016R1238",
+   "title": "Regulamentul delegat (UE) 2016/1238 al Comisiei din 18 mai 2016 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește intervenția publică și ajutoarele pentru depozitarea privată (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1238",
+   "versions": [
+    {
+     "from": "2016-08-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09deefe3-55dc-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "34fccc788d2d6f59ed3cbff1046593689109b05609d70749acf89d2cb8740b14"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1244-2016",
    "path": "ue/regulament/2016/1244",
    "short": "Regulamentul (UE) 2016/1244",
@@ -1094,6 +1229,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2b676118-55dc-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "9afb3668db8efb69511b14eb06753db56c5c25eb7212bacc9aa90415a255853b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-127-2016",
+   "path": "ue/regulament/2016/127",
+   "short": "Regulamentul delegat CELEX 32016R0127",
+   "title": "Regulamentul delegat (UE) 2016/127 al Comisiei din 25 septembrie 2015 de completare a Regulamentului (UE) nr. 609/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice privind compoziția și informarea pentru formulele de început și formulele de continuare și în ceea ce privește cerințele privind informațiile privitoare la alimentația sugarilor și a copiilor de vârstă mică (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0127",
+   "versions": [
+    {
+     "from": "2016-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95d90c87-c97e-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f309198d0e0504934f06f05372e63ac2eafdd7c58e0c8f7680e02e0b744b0baa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-128-2016",
+   "path": "ue/regulament/2016/128",
+   "short": "Regulamentul delegat CELEX 32016R0128",
+   "title": "Regulamentul delegat (UE) 2016/128 al Comisiei din 25 septembrie 2015 de completare a Regulamentului (UE) nr. 609/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice privind compoziția și informarea aplicabile alimentelor destinate unor scopuri medicale speciale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0128",
+   "versions": [
+    {
+     "from": "2016-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2d05cd8-c97e-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7974696496d9c7812857446a98b0f5d4283e77b7464e3d67b15350190d01c5b7"
     }
    ]
   },
@@ -1158,6 +1323,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1387-2016",
+   "path": "ue/regulament/2016/1387",
+   "short": "Regulamentul delegat CELEX 32016R1387",
+   "title": "Regulamentul delegat (UE) 2016/1387 al Comisiei din 9 iunie 2016 de modificare a anexelor I și III la Regulamentul (CE) nr. 2173/2005 al Consiliului în urma unui acord de parteneriat voluntar cu Indonezia privind un regim de licențe FLEGT pentru importurile de lemn în Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1387",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60758934-650b-11e6-9b08-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b185c1509aaf0eb6253bd02cd98a4b11cfd8418cd45f5a318ed1137797698f68"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1388-2016",
    "path": "ue/regulament/2016/1388",
    "short": "Regulamentul (UE) 2016/1388",
@@ -1214,6 +1394,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/de72804b-65c4-11e6-9b08-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "f8d96b818785ad0125001473fa39ad18f0e5aa892878e82e93749c03ca839e23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1400-2016",
+   "path": "ue/regulament/2016/1400",
+   "short": "Regulamentul delegat CELEX 32016R1400",
+   "title": "Regulamentul delegat (UE) 2016/1400 al Comisiei din 10 mai 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care prevăd elementele minime din planul de reorganizare a activității și conținutul minim al raportului privind progresele înregistrate în aplicarea planului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1400",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3a392a98-68f5-11e6-9b08-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "90aa94d93e63bff7f2ef054dd4067f8802334ba98f74063e257ed8c2629dc2b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1401-2016",
+   "path": "ue/regulament/2016/1401",
+   "short": "Regulamentul delegat CELEX 32016R1401",
+   "title": "Regulamentul delegat (UE) 2016/1401 al Comisiei din 23 mai 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului de instituire a unui cadru pentru redresarea și rezoluția instituțiilor de credit și a firmelor de investiții în ceea ce privește standardele tehnice de reglementare pentru metodologiile și principiile referitoare la evaluarea pasivelor care provin din instrumente financiare derivate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1401",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/18d88cb1-68f5-11e6-9b08-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "df12ef1660e173bca22db05b1f5e201b661773e1de535b02bc250e237d674e00"
     }
    ]
   },
@@ -1293,6 +1503,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1434-2016",
+   "path": "ue/regulament/2016/1434",
+   "short": "Regulamentul delegat CELEX 32016R1434",
+   "title": "Regulamentul delegat (UE) 2016/1434 al Comisiei din 14 decembrie 2015 de corectare a Regulamentului delegat (UE) 2015/63 al Comisiei de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește contribuțiile ex ante la mecanismele de finanțare a rezoluției",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1434",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6cd9665-6e7e-11e6-b213-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "97dac23f2a69679a4f8f35371e53448810a4f120dda5ddde678c0d92e830519c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1443-2016",
+   "path": "ue/regulament/2016/1443",
+   "short": "Regulamentul delegat CELEX 32016R1443",
+   "title": "Regulamentul delegat (UE) 2016/1443 al Comisiei din 29 iunie 2016 de modificare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului în ceea ce privește includerea anumitor precursori de droguri în lista substanțelor clasificate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1443",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bea2fad3-7008-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7e0488421886f2731e11a669f33e15df29a3e9204573abe1de25a6f19373cb50"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1447-2016",
    "path": "ue/regulament/2016/1447",
    "short": "Regulamentul (UE) 2016/1447",
@@ -1304,6 +1544,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2153618d-7598-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "69a4cda9aa4f864f6997ce7bf5cf29e62e46bd4934d44a32a6efb53374c0e90a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1450-2016",
+   "path": "ue/regulament/2016/1450",
+   "short": "Regulamentul delegat CELEX 32016R1450",
+   "title": "Regulamentul delegat (UE) 2016/1450 al Comisiei din 23 mai 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează criteriile metodologiei de stabilire a cerinței minime privind fondurile proprii și pasivele eligibile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1450",
+   "versions": [
+    {
+     "from": "2016-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38a5d84e-7164-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9c5e8a158d927b85de033cc0ecf5d79598b7694841eef7aba7db9c238469851b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-155-2016",
+   "path": "ue/regulament/2016/155",
+   "short": "Regulamentul delegat CELEX 32016R0155",
+   "title": "Regulamentul delegat (UE) 2016/155 al Comisiei din 29 septembrie 2015 de modificare a anexei II la Regulamentul (UE) nr. 1233/2011 al Parlamentului European și al Consiliului privind aplicarea anumitor orientări în domeniul creditelor la export care beneficiază de susținere oficială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0155",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/765b149d-d08b-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6e5435dbb8e63cff46f5c1dcbbdaea29e3b4f7611a04e69bd0a17a1dc4ebfab4"
     }
    ]
   },
@@ -1323,6 +1593,96 @@
    ]
   },
   {
+   "slug": "ue-regulament-1608-2016",
+   "path": "ue/regulament/2016/1608",
+   "short": "Regulamentul delegat CELEX 32016R1608",
+   "title": "Regulamentul delegat (UE) 2016/1608 al Comisiei din 17 mai 2016 de modificare a Regulamentului delegat (UE) nr. 1222/2014 în ceea ce privește standardele tehnice de reglementare pentru precizarea metodologiei de identificare a instituțiilor de importanță sistemică la nivel global și de definire a subcategoriilor de instituții de importanță sistemică la nivel global (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1608",
+   "versions": [
+    {
+     "from": "2016-09-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78547106-7597-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1519af0961e45af81f309d9aa2d01d69de67491e1e020614ff4884ea71f0dbe4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-161-2016",
+   "path": "ue/regulament/2016/161",
+   "short": "Regulamentul delegat CELEX 32016R0161",
+   "title": "Regulamentul delegat (UE) 2016/161 al Comisiei din 2 octombrie 2015 de completare a Directivei 2001/83/CE a Parlamentului European și a Consiliului prin stabilirea de norme detaliate pentru elementele de siguranță care apar pe ambalajul medicamentelor de uz uman (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0161",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9c0526755c1b59bafcfd683888da5b27f39f6cb066be0d4f6dad11452d6c194c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1611-2016",
+   "path": "ue/regulament/2016/1611",
+   "short": "Regulamentul delegat CELEX 32016R1611",
+   "title": "Regulamentul delegat (UE) 2016/1611 al Comisiei din 7 iulie 2016 privind revizuirea baremului aplicabil delegațiilor efectuate de funcționari și de ceilalți agenți ai Uniunii Europene în statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1611",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f57e4845-764a-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "32e6069207d3b9a8b4c5b6a47bdb48031be7ed1210e09041d5e1e595fc3f9818"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1612-2016",
+   "path": "ue/regulament/2016/1612",
+   "short": "Regulamentul delegat CELEX 32016R1612",
+   "title": "Regulamentul delegat (UE) 2016/1612 al Comisiei din 8 septembrie 2016 de acordare a unor ajutoare pentru reducerea producției de lapte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1612",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/410bdd98-764b-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7e015924ee6adb534b6b6ead3170fd70142600afc2d8479d7c6d11a2900efed5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1613-2016",
+   "path": "ue/regulament/2016/1613",
+   "short": "Regulamentul delegat CELEX 32016R1613",
+   "title": "Regulamentul delegat (UE) 2016/1613 al Comisiei din 8 septembrie 2016 de prevedere a unor ajutoare de adaptare excepționale destinate producătorilor de lapte și fermierilor din alte sectoare de creștere a animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1613",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ccb65f10-764a-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9a9c1ccd192fb1b7a5fbc865b65f9f0d4546056a2c95842431de764856151dde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1614-2016",
+   "path": "ue/regulament/2016/1614",
+   "short": "Regulamentul delegat CELEX 32016R1614",
+   "title": "Regulamentul delegat (UE) 2016/1614 al Comisiei din 8 septembrie 2016 de stabilire a unor măsuri excepționale cu caracter temporar pentru sectorul laptelui și produselor lactate, sub forma prelungirii perioadei de intervenție publică pentru lapte praf degresat din 2016 și a devansării perioadei de intervenție publică pentru laptele praf degresat din 2017, și de derogare de la Regulamentul delegat (UE) 2016/1238 în ceea ce privește aplicarea în continuare a Regulamentului (CE) nr. 826/2008 în ceea ce privește ajutoarele pentru depozitarea privată în temeiul Regulamentului (UE) nr. 948/2014 și a Regulamentului (UE) nr. 1272/2009 în ceea ce privește intervenția publică în temeiul prezentului regulament",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1614",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2da40fc7-764b-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a3d8ad44288db50420c920303b31d42d1bdc5c79bfd0136d5717652ff4439f0e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1628-2016",
    "path": "ue/regulament/2016/1628",
    "short": "Regulamentul (UE) 2016/1628",
@@ -1334,6 +1694,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5d1d6ef7-7bd1-11e6-b076-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b5e1c1f137028ccd1bdcbab59f124d3a3287317f76c8b39ea57caab7be486e70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1649-2016",
+   "path": "ue/regulament/2016/1649",
+   "short": "Regulamentul delegat CELEX 32016R1649",
+   "title": "Regulamentul delegat (UE) 2016/1649 al Comisiei din 8 iulie 2016 de completare a Regulamentului (UE) nr. 1316/2013 al Parlamentului European și al Consiliului de instituire a Mecanismului pentru Interconectarea Europei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1649",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b69503b4-7b09-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "062ea8c9502a06415ae7c89271ff5ed24e7937ff15e711334072c850b2e36cd1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1675-2016",
+   "path": "ue/regulament/2016/1675",
+   "short": "Regulamentul delegat CELEX 32016R1675",
+   "title": "Regulamentul delegat (UE) 2016/1675 al Comisiei din 14 iulie 2016 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului prin identificarea țărilor terțe cu un grad ridicat de risc care au deficiențe strategice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1675",
+   "versions": [
+    {
+     "from": "2016-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae1e0220-7ef8-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "40e80892b62c8b536568dac574d2460504249664e31b9aa40648517b4e6fa6d5"
     }
    ]
   },
@@ -1353,6 +1743,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-171-2016",
+   "path": "ue/regulament/2016/171",
+   "short": "Regulamentul delegat CELEX 32016R0171",
+   "title": "Regulamentul delegat (UE) 2016/171 al Comisiei din 20 noiembrie 2015 de modificare a Regulamentului delegat (UE) 2015/98 privind punerea în aplicare a obligațiilor internaționale ale Uniunii, astfel cum sunt menționate la articolul 15 alineatul (2) din Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului, în cadrul Convenției internaționale pentru conservarea tonului din Oceanul Atlantic și al Convenției privind viitoarea cooperare multilaterală pentru pescuit în Atlanticul de Nord-Vest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0171",
+   "versions": [
+    {
+     "from": "2016-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/596b2feb-cfc2-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1a70ab7c547e37b00991ed48485adb7bd254f783eea7f1a7d3f3d54d282567a9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1710-2016",
    "path": "ue/regulament/2016/1710",
    "short": "Regulamentul (UE) 2016/1710",
@@ -1364,6 +1769,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0b7ad968-8471-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "e0766cd3ec72b89b089abf765468d59f14c43ffed69616f0c44b27370d6e9d93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1712-2016",
+   "path": "ue/regulament/2016/1712",
+   "short": "Regulamentul delegat CELEX 32016R1712",
+   "title": "Regulamentul delegat (UE) 2016/1712 al Comisiei din 7 iunie 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului de instituire a unui cadru pentru redresarea și rezoluția instituțiilor de credit și a firmelor de investiții în ceea ce privește standardele tehnice de reglementare care precizează un set minim de informații privind contractele financiare care trebuie să figureze în evidența detaliată și circumstanțele în care trebuie impusă această cerință (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1712",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad46f66d-821d-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e011eea5a3436381da134bbf2e80dfb510c4476aae0aff409d4eddc8419b0dc7"
     }
    ]
   },
@@ -1394,6 +1814,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d6b28efb-8438-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "b85480726535c46d7fcbaeafe880e69086bcad8107310a6bd338d561373c5d09"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-172-2016",
+   "path": "ue/regulament/2016/172",
+   "short": "Regulamentul delegat CELEX 32016R0172",
+   "title": "Regulamentul delegat (UE) 2016/172 al Comisiei din 24 noiembrie 2015 de completare a Regulamentului (UE) nr. 691/2011 al Parlamentului European și al Consiliului în ceea ce privește specificațiile produselor energetice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0172",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8eaaa05c-cfc2-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c3b1eb8ea40e88fa446341263387a7433ec1131c6167e82aafa2ff480f1e6cd9"
     }
    ]
   },
@@ -1473,6 +1908,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1788-2016",
+   "path": "ue/regulament/2016/1788",
+   "short": "Regulamentul delegat CELEX 32016R1788",
+   "title": "Regulamentul delegat (UE) 2016/1788 al Comisiei din 14 iulie2016 de modificare a Regulamentului (UE) nr. 167/2013 al Parlamentului European și al Consiliului în ceea ce privește lista de cerințe pentru omologarea UE de tip a vehiculelor și de modificare și de rectificare a Regulamentelor delegate (UE) nr. 1322/2014, (UE) 2015/96, (UE) 2015/68 și (UE) 2015/208 ale Comisiei în ceea ce privește construcția vehiculelor și cerințele generale, cerințele de mediu și de performanță a unității de propulsie, cerințele privind frânarea vehiculelor și cerințele privind siguranța funcțională a vehiculelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1788",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/adaa290f-9106-11e6-b237-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "79d452fbb1ad570f6e4f2666e8953da8dbd39bd61034fca9f13a824bc4d35796"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1814-2016",
    "path": "ue/regulament/2016/1814",
    "short": "Regulamentul (UE) 2016/1814",
@@ -1499,6 +1949,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/af44634f-94fd-11e6-8e27-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "c28ae0422103f02d2607c59ad0ce91db4e38278b50e0bc47429c18aacaefb594"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1824-2016",
+   "path": "ue/regulament/2016/1824",
+   "short": "Regulamentul delegat CELEX 32016R1824",
+   "title": "Regulamentul delegat (UE) 2016/1824 al Comisiei din 14 iulie 2016 de modificare a Regulamentului delegat (UE) nr. 3/2014, a Regulamentului delegat (UE) nr. 44/2014 și a Regulamentului delegat (UE) nr. 134/2014 cu privire, respectiv, la cerințele de siguranță în funcționare a vehiculului, la cerințele privind construcția vehiculelor și la cerințele generale, precum și la cerințele privind performanțele de mediu și performanțele unității de propulsie (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1824",
+   "versions": [
+    {
+     "from": "2016-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d93778d-9264-11e6-8e27-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4e5d9f91deed8ee6d6fd3c3e4491c032a2fe6cc7f0828ffb9f42aa0fbc7c6617"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1851-2016",
+   "path": "ue/regulament/2016/1851",
+   "short": "Regulamentul delegat CELEX 32016R1851",
+   "title": "Regulamentul delegat (UE) 2016/1851 al Comisiei din 14 iunie 2016 de adoptare a programului de module ad hoc, care acoperă anii 2019, 2020 și 2021, pentru ancheta prin sondaj asupra forței de muncă prevăzută prin Regulamentul (CE) nr. 577/98 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1851",
+   "versions": [
+    {
+     "from": "2016-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19a3cc42-9694-11e6-a9e2-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "14f9159d5403dcd7069742ab94ab4c439063eaf5965a506118ff4f3b43bf62d2"
     }
    ]
   },
@@ -1563,6 +2043,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1904-2016",
+   "path": "ue/regulament/2016/1904",
+   "short": "Regulamentul delegat CELEX 32016R1904",
+   "title": "Regulamentul delegat (UE) 2016/1904 al Comisiei din 14 iulie 2016 de completare a Regulamentului (UE) nr. 1286/2014 al Parlamentului European și al Consiliului în ceea ce privește intervenția în cazul produselor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1904",
+   "versions": [
+    {
+     "from": "2016-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8ea71a7-9d99-11e6-868c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8ddb03fb83508881a13523d9d8e4bf2b8dab98fa57a2d5d5f1107d8423f9af37"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1952-2016",
    "path": "ue/regulament/2016/1952",
    "short": "Regulamentul (UE) 2016/1952",
@@ -1608,6 +2103,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1986-2016",
+   "path": "ue/regulament/2016/1986",
+   "short": "Regulamentul delegat CELEX 32016R1986",
+   "title": "Regulamentul delegat (UE) 2016/1986 al Comisiei din 30 iunie 2016 de completare a Regulamentului (UE) nr. 223/2014 al Parlamentului European și al Consiliului cu privire la condițiile și la procedurile menite să stabilească dacă sumele care nu pot fi recuperate sunt rambursate de către statele membre în ceea ce privește Fondul de ajutor european destinat celor mai defavorizate persoane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1986",
+   "versions": [
+    {
+     "from": "2016-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f3d4f4bc-ab03-11e6-aab7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4335401263fae378e7cd0381e583b0611aa9b582200e36b7095cb19c87d6771c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2015-2016",
    "path": "ue/regulament/2016/2015",
    "short": "Regulamentul (UE) 2016/2015",
@@ -1619,6 +2129,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0649ce87-ad5e-11e6-aab7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a5135dbfd07d680ed7c2bb605babd037ee7d39ebd4a4a699027bdd1006d9bfe9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2020-2016",
+   "path": "ue/regulament/2016/2020",
+   "short": "Regulamentul delegat CELEX 32016R2020",
+   "title": "Regulamentul delegat (UE) 2016/2020 al Comisiei din 26 mai 2016 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului privind piețele instrumentelor financiare în ceea ce privește standardele tehnice de reglementare referitoare la criteriile prin care să se stabilească dacă instrumentele financiare derivate care fac obiectul obligației de compensare ar trebui să facă obiectul obligației de tranzacționare (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2020",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ee226258-ade7-11e6-aab7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "23e741a4413a127abf3540a3df5d656cc1d15f48c36d47d817695b2b2e89d3c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2021-2016",
+   "path": "ue/regulament/2016/2021",
+   "short": "Regulamentul delegat CELEX 32016R2021",
+   "title": "Regulamentul delegat (UE) 2016/2021 al Comisiei din 2 iunie 2016 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului privind piețele instrumentelor financiare în ceea ce privește standardele tehnice de reglementare referitoare la accesul la valorile de referință (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2021",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ccaf34c-ade8-11e6-aab7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "258469a0c90e7bd63332090eda05694ad6fdce8289d12dabcb6ad2075e19debd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2022-2016",
+   "path": "ue/regulament/2016/2022",
+   "short": "Regulamentul delegat CELEX 32016R2022",
+   "title": "Regulamentul delegat (UE) 2016/2022 al Comisiei din 14 iulie 2016 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare privind informațiile pentru înregistrarea societăților din țări terțe și formatul informațiilor care trebuie furnizate clienților (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2022",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ddaad84-ade8-11e6-aab7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "87478c3512fa790260f7dd525808a08b8fa7c76bb830efd2bfa7598fc47855f0"
     }
    ]
   },
@@ -1679,6 +2234,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/998359d2-b606-11e6-9e3c-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7c106dd8c29b67058394b418309071a5203fca4e336ba188c4403edf1ecaf2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2071-2016",
+   "path": "ue/regulament/2016/2071",
+   "short": "Regulamentul delegat CELEX 32016R2071",
+   "title": "Regulamentul delegat (UE) 2016/2071 al Comisiei din 22 septembrie 2016 de modificare a Regulamentului (UE) 2015/757 al Parlamentului European și al Consiliului în ceea ce privește metodele de monitorizare a emisiilor de dioxid de carbon și normele de monitorizare a altor informații relevante (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2071",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9be919b4-b371-11e6-9e3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "eb6b150e76b4f20e8acd6892858c29894508be7297c0784ac6096f4eb13231c4"
     }
    ]
   },
@@ -1818,6 +2388,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2251-2016",
+   "path": "ue/regulament/2016/2251",
+   "short": "Regulamentul delegat CELEX 32016R2251",
+   "title": "Regulamentul delegat (UE) 2016/2251 al Comisiei din 4 octombrie 2016 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții în ceea ce privește standarde tehnice de reglementare pentru tehnici de minimizare a riscului pentru contracte derivate extrabursiere care nu sunt compensate printr-o contraparte centrală (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2251",
+   "versions": [
+    {
+     "from": "2017-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6fadab70-c29f-11e6-a6db-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "46e25cd764b786479dab0b7a62269c092ced87a57486dc0b0f061ce27cf4a1b0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2281-2016",
    "path": "ue/regulament/2016/2281",
    "short": "Regulamentul (UE) 2016/2281",
@@ -1848,6 +2433,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2283-2016",
+   "path": "ue/regulament/2016/2283",
+   "short": "Regulamentul delegat CELEX 32016R2283",
+   "title": "Regulamentul delegat (UE) 2016/2283 al Comisiei din 22 august 2016 de rectificare a versiunii în limba germană a Regulamentului delegat (UE) 2015/35 al Comisiei de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2283",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ef88aeb-c684-11e6-a6db-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "82d89d27388a9b3bdb117383b8fa9fc21024af6f48b3430dc1b3725cd36cf6b3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2285-2016",
    "path": "ue/regulament/2016/2285",
    "short": "Regulamentul (UE) 2016/2285",
@@ -1859,6 +2459,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4edaa7a2-c427-11e6-a6db-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "97f0534b293d0501a6b63bbaaff7a6c5ca7c8c3660ef36d9bd17633e1b3bea31"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-232-2016",
+   "path": "ue/regulament/2016/232",
+   "short": "Regulamentul delegat CELEX 32016R0232",
+   "title": "Regulamentul delegat (UE) 2016/232 al Comisiei din 15 decembrie 2015 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește anumite aspecte ale cooperării dintre producători",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0232",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06d92a40-d6dd-11e5-8fea-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b5d9ba7078c90bd4d7ef78aa736662ddb462d692a917eaa48b141a964bb197d6"
     }
    ]
   },
@@ -2118,6 +2733,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-341-2016",
+   "path": "ue/regulament/2016/341",
+   "short": "Regulamentul delegat CELEX 32016R0341",
+   "title": "Regulamentul delegat (UE) 2016/341 al Comisiei din 17 decembrie 2015 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele tranzitorii pentru anumite dispoziții din Codul vamal al Uniunii, în cazul în care sistemele electronice relevante nu sunt încă operaționale, și de modificare a Regulamentului delegat (UE) 2015/2446 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0341",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/45847c5a-ea7d-11e5-a2a7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cdb77fe886bcb6cfa11c8917b7544690a75418cd9d887dc20e68a90f6a57f8d9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-355-2016",
    "path": "ue/regulament/2016/355",
    "short": "Regulamentul (UE) 2016/355",
@@ -2144,6 +2774,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/33a06859-ea7d-11e5-a2a7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "4834673234b03499d328ae3e8bae7ee38d0fbc12a04806313018f5a4e0967d05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-364-2016",
+   "path": "ue/regulament/2016/364",
+   "short": "Regulamentul delegat CELEX 32016R0364",
+   "title": "Regulamentul delegat (UE) 2016/364 al Comisiei din 1 iulie 2015 privind clasificarea comportamentului la foc al produselor pentru construcții, în conformitate cu Regulamentul (UE) nr. 305/2011 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0364",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1fb6e77-ea7d-11e5-a2a7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "04b6d1681f85c50be738125f4f9a8216fd5302af9c199c2c318f6dd5dcdcecc4"
     }
    ]
   },
@@ -2313,6 +2958,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-438-2016",
+   "path": "ue/regulament/2016/438",
+   "short": "Regulamentul delegat CELEX 32016R0438",
+   "title": "Regulamentul delegat (UE) 2016/438 al Comisiei din 17 decembrie 2015 de completare a Directivei 2009/65/CE a Parlamentului European și a Consiliului în ceea ce privește obligațiile depozitarilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0438",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/30713873-f18c-11e5-8529-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f483419cd4ef536b62b6fcdb20cc8d0e90443268e97f8f3f95e696aee4e937cf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-439-2016",
    "path": "ue/regulament/2016/439",
    "short": "Regulamentul (UE) 2016/439",
@@ -2388,6 +3048,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-451-2016",
+   "path": "ue/regulament/2016/451",
+   "short": "Regulamentul delegat CELEX 32016R0451",
+   "title": "Regulamentul delegat (UE) 2016/451 al Comisiei din 16 decembrie 2015 de stabilire a principiilor și a criteriilor generale pentru strategia de investiții, precum și a normelor pentru administrarea Fondului unic de rezoluție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0451",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/76109379-f637-11e5-8529-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ddf4ea1fa438cebee45cf16c231004b526b5c83b165d7a6c6bf73fc438642a2b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-452-2016",
    "path": "ue/regulament/2016/452",
    "short": "Regulamentul (UE) 2016/452",
@@ -2429,6 +3104,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/82e60c65-be7a-11e5-9e54-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "1a46f1dd90c34d16b92f1f5617541fb9ce05cc04362123789b864297edd4f758"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-467-2016",
+   "path": "ue/regulament/2016/467",
+   "short": "Regulamentul delegat CELEX 32016R0467",
+   "title": "Regulamentul delegat (UE) 2016/467 al Comisiei din 30 septembrie 2015 de modificare a Regulamentul delegat (UE) 2015/35 în ceea ce privește dispozițiile referitoare la calcularea cerințelor de capital pentru mai multe categorii de active deținute de societățile de asigurare și reasigurare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0467",
+   "versions": [
+    {
+     "from": "2016-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d554f44-f7d1-11e5-b1f9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1fb935e31108c8518044deb6680da11adec388b54bbf53bed0d02d72b529130b"
     }
    ]
   },
@@ -2489,6 +3179,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/73b4d3ed-bf44-11e5-9e54-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "084a6a1ab490af3473bf4d0b7774b88c64c18708cde7cf3b2ef5826c644e4b7e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-522-2016",
+   "path": "ue/regulament/2016/522",
+   "short": "Regulamentul delegat CELEX 32016R0522",
+   "title": "Regulamentul delegat (UE) 2016/522 al Comisiei din 17 decembrie 2015 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului în ceea ce privește o derogare aplicabilă anumitor organisme publice și băncilor centrale din țări terțe, indicatorii de manipulare a pieței, pragurile de publicare, autoritatea competentă pentru notificările amânărilor, permisiunea de tranzacționare în perioadele închise și tipurile de tranzacții efectuate de personalul de conducere care trebuie notificate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0522",
+   "versions": [
+    {
+     "from": "2016-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5abb32ae-faf4-11e5-b713-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b68b9cf4025d57692f39bc0958495f52fe7abc1510c83d74c18d0203ac7c6738"
     }
    ]
   },
@@ -2568,6 +3273,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-558-2016",
+   "path": "ue/regulament/2016/558",
+   "short": "Regulamentul delegat CELEX 32016R0558",
+   "title": "Regulamentul delegat (UE) 2016/558 al Comisiei din 11 aprilie 2016 de autorizare a acordurilor și deciziilor cooperativelor și ale altor forme de organizații de producători din sectorul laptelui și produselor lactate în ceea ce privește planificarea producției",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0558",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04f6376d-0074-11e6-b713-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "31aba0326eaa2f2f9ba3a0d07ea1d7c7684b2bdaf10d639e1a8941942d80e448"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-56-2016",
    "path": "ue/regulament/2016/56",
    "short": "Regulamentul (UE) 2016/56",
@@ -2594,6 +3314,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f784e1a2-02d1-11e6-b713-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5fbfcefa32bcdb5879850bf147e95e61e8c0e315507f2a8915cb532a7937f5f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-568-2016",
+   "path": "ue/regulament/2016/568",
+   "short": "Regulamentul delegat CELEX 32016R0568",
+   "title": "Regulamentul delegat (UE) 2016/568 al Comisiei din 29 ianuarie 2016 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului cu privire la condițiile și la procedurile menite să stabilească dacă sumele care nu pot fi recuperate sunt rambursate de către statele membre în ceea ce privește Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0568",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3001b5f7-013d-11e6-b713-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "db9c65a88918edf4671dce375b31289223d882c102b1b63b9964074775708e2a"
     }
    ]
   },
@@ -2673,6 +3408,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-592-2016",
+   "path": "ue/regulament/2016/592",
+   "short": "Regulamentul delegat CELEX 32016R0592",
+   "title": "Regulamentul delegat (UE) 2016/592 al Comisiei din 1 martie 2016 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru obligația de compensare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0592",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01e3e3aa-05f4-11e6-b713-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8a94bfb339440e01e114761d4c9282f2cebd699e68fd27cc25a55c60702b92a2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-60-2016",
    "path": "ue/regulament/2016/60",
    "short": "Regulamentul (UE) 2016/60",
@@ -2744,6 +3494,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/efaa4d03-0914-11e6-b713-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "c2cbf57f21858df32d3743ae094a4e9232224ae6b5b3a76712fe6158ad9cf5cb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-651-2016",
+   "path": "ue/regulament/2016/651",
+   "short": "Regulamentul delegat CELEX 32016R0651",
+   "title": "Regulamentul delegat (UE) 2016/651 al Comisiei din 5 aprilie 2016 de rectificare a Regulamentului delegat (UE) 2015/2446 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0651",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/237a7703-0c3f-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "763ca7cfe79d5cabfc7a71c0bd1ab2f73cef10c58f5034ea4a72a29135c95d38"
     }
    ]
   },
@@ -2823,6 +3588,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-698-2016",
+   "path": "ue/regulament/2016/698",
+   "short": "Regulamentul delegat CELEX 32016R0698",
+   "title": "Regulamentul delegat (UE) 2016/698 al Comisiei din 8 aprilie 2016 de rectificare a Regulamentului delegat (UE) 2016/341 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele tranzitorii pentru anumite dispoziții din Codul vamal al Uniunii, în cazul în care sistemele electronice relevante nu sunt încă operaționale, și de modificare a Regulamentului delegat (UE) 2015/2446 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0698",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82c9806d-1743-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "91d28bf674a06a4e3e1b09b304a09334816ab37793802f85550af6e782933a6a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-709-2016",
+   "path": "ue/regulament/2016/709",
+   "short": "Regulamentul delegat CELEX 32016R0709",
+   "title": "Regulamentul delegat (UE) 2016/709 al Comisiei din 26 ianuarie 2016 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează condițiile de aplicare a derogărilor referitoare la monedele cu constrângeri privind disponibilitatea activelor lichide (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0709",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06ffe836-18cf-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "67301c7b11eec1ca20256fce77f5b4e6e8cdb05b9aedd6b9589a7a451b39fe58"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-71-2016",
    "path": "ue/regulament/2016/71",
    "short": "Regulamentul (UE) 2016/71",
@@ -2883,6 +3678,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-757-2016",
+   "path": "ue/regulament/2016/757",
+   "short": "Regulamentul delegat CELEX 32016R0757",
+   "title": "Regulamentul delegat (UE) 2016/757 al Comisiei din 3 februarie 2016 de stabilire a operațiunilor legate de aplicarea reglementărilor agricole, pentru care trebuie introduse informații în Sistemul de informare vamală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0757",
+   "versions": [
+    {
+     "from": "2016-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92b7ac21-1999-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a7dc028763ed20524d64c52f27e223b1c9e95843e444184f126f5d4370a9b34f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-777-2016",
    "path": "ue/regulament/2016/777",
    "short": "Regulamentul (UE) 2016/777",
@@ -2894,6 +3704,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7a730af0-1e52-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5f43df993a34672c60a5a71afd79dc77949be93f90c8ad8a6fd45a82d98a9e85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-778-2016",
+   "path": "ue/regulament/2016/778",
+   "short": "Regulamentul delegat CELEX 32016R0778",
+   "title": "Regulamentul delegat (UE) 2016/778 al Comisiei din 2 februarie 2016 de completare a Directivei 2014/59/UE a Parlamentului European și a Consiliului în ceea ce privește circumstanțele și condițiile în care plata contribuțiilor ex post extraordinare poate fi amânată parțial sau integral și în ceea ce privește criteriile de stabilire a activităților, serviciilor și operațiunilor pentru funcțiile critice și de stabilire a liniilor de activitate și a serviciilor asociate pentru liniile de activitate esențiale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0778",
+   "versions": [
+    {
+     "from": "2016-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a97f9164-1e52-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0e92e38ee54e8a0bb7738aff55e70fe9e63aa08e7df7015b81f05e89ed118fb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-79-2016",
+   "path": "ue/regulament/2016/79",
+   "short": "Regulamentul delegat CELEX 32016R0079",
+   "title": "Regulamentul delegat (UE) 2016/79 al Comisiei din 25 noiembrie 2015 de modificare a anexei III la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0079",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/563412dd-c402-11e5-8d08-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5933cf1ea0b541e3f45a8f83b62f1667ec5c0192e7c9fadded0a658de50cca75"
     }
    ]
   },
@@ -3018,6 +3858,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-812-2016",
+   "path": "ue/regulament/2016/812",
+   "short": "Regulamentul delegat CELEX 32016R0812",
+   "title": "Regulamentul delegat (UE) 2016/812 al Comisiei din 18 martie 2016 de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0812",
+   "versions": [
+    {
+     "from": "2016-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fef9c32-216c-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e57548b630932519f3b92169beb0045052ff20be2bc7297bc0ba01b845d0ff9e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-822-2016",
+   "path": "ue/regulament/2016/822",
+   "short": "Regulamentul delegat CELEX 32016R0822",
+   "title": "Regulamentul delegat (UE) 2016/822 al Comisiei din 21 aprilie 2016 de modificare a Regulamentului delegat (UE) nr. 153/2013 cu privire la orizonturile de timp pentru perioada de lichidare, care trebuie avute în vedere pentru diferitele clase de instrumente financiare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0822",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/461d0e2a-22d0-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3b4610affd30d1e58792ce4dc606d63c347deae143d2ada317218803f6fcf31a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-860-2016",
+   "path": "ue/regulament/2016/860",
+   "short": "Regulamentul delegat CELEX 32016R0860",
+   "title": "Regulamentul delegat (UE) 2016/860 al Comisiei din 4 februarie 2016 de specificare în detaliu a situațiilor în care excluderea de la aplicarea competențelor de reducere a valorii contabile sau de conversie este necesară în temeiul articolului 44 alineatul (3) din Directiva 2014/59/UE a Parlamentului European și a Consiliului de instituire a unui cadru pentru redresarea și rezoluția instituțiilor de credit și a firmelor de investiții",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0860",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb08ec87-27c7-11e6-914b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0e25c23d4414572c0c41e2c378a3bf14023c2caa174a5eb571de29352c45d3b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-861-2016",
+   "path": "ue/regulament/2016/861",
+   "short": "Regulamentul delegat CELEX 32016R0861",
+   "title": "Regulamentul delegat (UE) 2016/861 al Comisiei din 18 februarie 2016 de rectificare a Regulamentului delegat (UE) nr. 528/2014 al Comisiei de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru alte riscuri decât riscul delta ale opțiunilor în cadrul abordării standardizate a riscului de piață și de rectificare a Regulamentului delegat (UE) nr. 604/2014 al Comisiei de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la criteriile calitative și cantitative corespunzătoare pentru identificarea categoriilor de personal ale căror activități profesionale au un impact semnificativ asupra profilului de risc al unei instituții (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0861",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3709a45b-27c8-11e6-914b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "37ade8f49b8406fa1264872850718731575cec7e9b853ef8b4247af249b40068"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-863-2016",
    "path": "ue/regulament/2016/863",
    "short": "Regulamentul (UE) 2016/863",
@@ -3063,6 +3963,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-908-2016",
+   "path": "ue/regulament/2016/908",
+   "short": "Regulamentul delegat CELEX 32016R0908",
+   "title": "Regulamentul delegat (UE) 2016/908 al Comisiei din 26 februarie 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului prin stabilirea de standarde tehnice de reglementare în ceea ce privește criteriile, procedura și cerințele pentru stabilirea unei practici de piață acceptate, precum și cerințele pentru menținerea sa, încetarea sa sau modificarea condițiilor privind acceptarea sa (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0908",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f146d760-2ec7-11e6-b497-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a3772c35206d1316b67cdbbf9e02baf5ca5ef20a3259f35d5324d3b1e9162db4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-909-2016",
+   "path": "ue/regulament/2016/909",
+   "short": "Regulamentul delegat CELEX 32016R0909",
+   "title": "Regulamentul delegat (UE) 2016/909 al Comisiei din 1 martie 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru conținutul notificărilor care trebuie transmise autorităților competente și compilarea, publicarea și actualizarea listei notificărilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0909",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14057ea6-2ec8-11e6-b497-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e8f43ea90bb73f625b4ea006a5b8ff62a21d3755101fa55a9c9e7268d0fe6865"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-912-2016",
    "path": "ue/regulament/2016/912",
    "short": "Regulamentul (UE) 2016/912",
@@ -3089,6 +4019,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e27a8151-31f0-11e6-b497-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7a59db649be79bbbbdd7017d440c010e9437012866c187741a748fd15a72664f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-921-2016",
+   "path": "ue/regulament/2016/921",
+   "short": "Regulamentul delegat CELEX 32016R0921",
+   "title": "Regulamentul delegat (UE) 2016/921 al Comisiei din 10 iunie 2016 de stabilire a unor măsuri de sprijin excepționale cu caracter temporar suplimentare pentru producătorii de anumite fructe și legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0921",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e4b13a7-2f99-11e6-b497-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2406f5242aac03f68d081900cffc52324b0ce79ed5abbf323a046926cb5f0a84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-957-2016",
+   "path": "ue/regulament/2016/957",
+   "short": "Regulamentul delegat CELEX 32016R0957",
+   "title": "Regulamentul delegat (UE) 2016/957 al Comisiei din 9 martie 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la modalitățile, sistemele și procedurile adecvate, precum și modelele de notificare care trebuie utilizate pentru prevenirea, detectarea și raportarea practicilor abuzive sau a ordinelor ori a tranzacțiilor suspecte (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0957",
+   "versions": [
+    {
+     "from": "2016-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70ac5824-345b-11e6-969e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0d6d0d3c8f1cb6303fd38623f820fc5bd8c0ca23dd9a6e082e2a95471f22ade4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-958-2016",
+   "path": "ue/regulament/2016/958",
+   "short": "Regulamentul delegat CELEX 32016R0958",
+   "title": "Regulamentul delegat (UE) 2016/958 al Comisiei din 9 martie 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare care stabilesc modalitățile tehnice pentru prezentarea în mod obiectiv a recomandărilor de investiții sau a altor informații prin care se recomandă sau se sugerează o strategie de investiții și pentru divulgarea anumitor interese sau pentru a indica existența unor conflicte de interese (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0958",
+   "versions": [
+    {
+     "from": "2016-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7a79088-345b-11e6-969e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4df590702466181373526ba6792571c9b40769f63edd9c4042771370893be679"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-960-2016",
+   "path": "ue/regulament/2016/960",
+   "short": "Regulamentul delegat CELEX 32016R0960",
+   "title": "Regulamentul delegat (UE) 2016/960 al Comisiei din 17 mai 2016 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului cu privire la standardele tehnice de reglementare pentru modalități, sisteme și proceduri adecvate destinate participanților la piață care divulgă informații atunci când desfășoară activități de sondare a pieței (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0960",
+   "versions": [
+    {
+     "from": "2016-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b34a7b86-345b-11e6-969e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c0b28bea4ffb9938b1ba68f5a94a4ae78568935a3ae5d7fe952f34e2f458c929"
     }
    ]
   },

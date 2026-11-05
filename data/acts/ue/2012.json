@@ -947,6 +947,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0270"
 },
 {
+"slug": "ue-regulament-272-2012",
+"path": "ue/regulament/2012/272",
+"kind": "ue",
+"year": "2012",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 272/2012 al Comisiei din 7 februarie 2012 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului cu privire la taxele aplicate de Autoritatea europeană pentru valori mobiliare și piețe agențiilor de rating de credit Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0272",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-03-31",
+"latest": "2012-03-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0272"
+},
+{
 "slug": "ue-regulament-277-2012",
 "path": "ue/regulament/2012/277",
 "kind": "ue",
@@ -984,6 +1001,23 @@
 }
 },
 {
+"slug": "ue-regulament-286-2012",
+"path": "ue/regulament/2012/286",
+"kind": "ue",
+"year": "2012",
+"number": "286",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 286/2012 al Comisiei din 27 ianuarie 2012 de modificare, în vederea includerii unei noi denumiri de fibră textilă, a anexei I și în scopul adaptării la progresul tehnic, a anexelor VIII și IX la Regulamentul (UE) nr. 1007/2011 al Parlamentului European și al Consiliului privind denumirile fibrelor textile și etichetarea corespunzătoare și marcarea compoziției fibroase a produselor textile Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0286",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-04-20",
+"latest": "2012-04-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0286"
+},
+{
 "slug": "ue-regulament-290-2012",
 "path": "ue/regulament/2012/290",
 "kind": "ue",
@@ -1002,6 +1036,23 @@
 "flags": {
 "figures_missing": 14
 }
+},
+{
+"slug": "ue-regulament-310-2012",
+"path": "ue/regulament/2012/310",
+"kind": "ue",
+"year": "2012",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 310/2012 al Comisiei din 21 decembrie 2011 de modificare a Regulamentului (CE) nr. 1569/2007 de instituire a unui mecanism pentru determinarea echivalenței standardelor de contabilitate aplicate de emitenți de valori mobiliare din țări terțe, în conformitate cu Directivele 2003/71/CE și 2004/109/CE ale Parlamentului European și ale Consiliului Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0310",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-01-01",
+"latest": "2012-01-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0310"
 },
 {
 "slug": "ue-regulament-322-2012",
@@ -1036,6 +1087,23 @@
 "from": "2012-04-26",
 "latest": "2012-04-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0354"
+},
+{
+"slug": "ue-regulament-363-2012",
+"path": "ue/regulament/2012/363",
+"kind": "ue",
+"year": "2012",
+"number": "363",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 363/2012 al Comisiei din 23 februarie 2012 privind normele de procedură pentru recunoașterea și retragerea recunoașterii organizațiilor de monitorizare, prevăzute de Regulamentul (UE) nr. 995/2010 al Parlamentului European și al Consiliului de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0363",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-05-17",
+"latest": "2012-05-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0363"
 },
 {
 "slug": "ue-regulament-377-2012",
@@ -1229,6 +1297,40 @@
 "from": "2012-06-14",
 "latest": "2012-06-14",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0441"
+},
+{
+"slug": "ue-regulament-447-2012",
+"path": "ue/regulament/2012/447",
+"kind": "ue",
+"year": "2012",
+"number": "447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 447/2012 al Comisiei din 21 martie 2012 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului privind agențiile de rating de credit prin stabilirea unor standarde tehnice de reglementare pentru evaluarea conformității metodologiilor de rating Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0447",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-06-19",
+"latest": "2012-06-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0447"
+},
+{
+"slug": "ue-regulament-449-2012",
+"path": "ue/regulament/2012/449",
+"kind": "ue",
+"year": "2012",
+"number": "449",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 449/2012 al Comisiei din 21 martie 2012 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare privind informațiile care trebuie furnizate pentru înregistrarea și certificarea agențiilor de rating de credit Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0449",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-06-19",
+"latest": "2012-06-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0449"
 },
 {
 "slug": "ue-regulament-459-2012",
@@ -2176,6 +2278,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0823"
 },
 {
+"slug": "ue-regulament-826-2012",
+"path": "ue/regulament/2012/826",
+"kind": "ue",
+"year": "2012",
+"number": "826",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 826/2012 al Comisiei din 29 iunie 2012 de completare a Regulamentului (UE) nr. 236/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice normative privind obligațiile de notificare și publicare referitoare la pozițiile scurte nete, detaliile informațiilor care trebuie furnizate Autorității europene pentru valori mobiliare și piețe cu privire la pozițiile scurte nete și metoda de calcul al volumului tranzacțiilor în vederea stabilirii acțiunilor exceptate Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0826",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-09-19",
+"latest": "2012-09-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0826"
+},
+{
 "slug": "ue-regulament-835-2012",
 "path": "ue/regulament/2012/835",
 "kind": "ue",
@@ -2295,6 +2414,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0875"
 },
 {
+"slug": "ue-regulament-880-2012",
+"path": "ue/regulament/2012/880",
+"kind": "ue",
+"year": "2012",
+"number": "880",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 880/2012 al Comisiei din 28 iunie 2012 de completare a Regulamentului (CE) nr. 1234/2007 al Consiliului în ceea ce privește cooperarea transnațională și negocierile contractuale ale organizațiilor de producători în sectorul laptelui și al produselor lactate",
+"short": "Regulamentul delegat CELEX 32012R0880",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-10-01",
+"latest": "2012-10-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0880"
+},
+{
 "slug": "ue-regulament-897-2012",
 "path": "ue/regulament/2012/897",
 "kind": "ue",
@@ -2346,6 +2482,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0907"
 },
 {
+"slug": "ue-regulament-918-2012",
+"path": "ue/regulament/2012/918",
+"kind": "ue",
+"year": "2012",
+"number": "918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 918/2012 al Comisiei din 5 iulie 2012 de completare a Regulamentului (UE) nr. 236/2012 al Parlamentului European și al Consiliului privind vânzarea în lipsă și anumite aspecte ale swapurilor pe riscul de credit în ceea ce privește definițiile, calcularea pozițiilor scurte nete, swapurile acoperite pe riscul de credit al datoriei suverane, pragurile de notificare, pragurile de lichiditate pentru suspendarea restricțiilor, scăderile semnificative ale valorii instrumentelor financiare și evenimentele nefavorabile Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0918",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-10-12",
+"latest": "2012-10-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0918"
+},
+{
+"slug": "ue-regulament-919-2012",
+"path": "ue/regulament/2012/919",
+"kind": "ue",
+"year": "2012",
+"number": "919",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 919/2012 al Comisiei din 5 iulie 2012 de completare a Regulamentului (UE) nr. 236/2012 al Parlamentului European și al Consiliului privind vânzarea în lipsă și anumite aspecte ale swapurilor pe riscul de credit în ceea ce privește standardele tehnice de reglementare pentru metoda de calculare a scăderii valorii acțiunilor lichide și a altor instrumente financiare Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0919",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-10-10",
+"latest": "2012-10-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0919"
+},
+{
 "slug": "ue-regulament-936-2012",
 "path": "ue/regulament/2012/936",
 "kind": "ue",
@@ -2381,6 +2551,23 @@
 "from": "2012-10-17",
 "latest": "2012-10-17",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0941"
+},
+{
+"slug": "ue-regulament-946-2012",
+"path": "ue/regulament/2012/946",
+"kind": "ue",
+"year": "2012",
+"number": "946",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul delegat (UE) nr. 946/2012 al Comisiei din 12 iulie 2012 de completare a Regulamentului (CE) nr. 1060/2009 al Parlamentului European și al Consiliului în ceea ce privește normele procedurale referitoare la amenzile impuse agențiilor de rating de credit de către Autoritatea europeană pentru valori mobiliare și piețe, inclusiv normele referitoare la dreptul la apărare și dispozițiile temporale Text cu relevanță pentru SEE",
+"short": "Regulamentul delegat CELEX 32012R0946",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-10-19",
+"latest": "2012-10-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0946"
 },
 {
 "slug": "ue-regulament-965-2012",

@@ -558,6 +558,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1002-2013",
+   "path": "ue/regulament/2013/1002",
+   "short": "Regulamentul delegat CELEX 32013R1002",
+   "title": "Regulamentul delegat (UE) nr. 1002/2013 al Comisiei din 12 iulie 2013 de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții cu privire la lista entităților care beneficiază de derogare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1002",
+   "versions": [
+    {
+     "from": "2013-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9390ddb2-3a56-11e3-a247-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5df6656b7ebfcc72e076ad713fc64ac8597da0d4d6665129444c6723d486ef11"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1003-2013",
+   "path": "ue/regulament/2013/1003",
+   "short": "Regulamentul delegat CELEX 32013R1003",
+   "title": "Regulamentul delegat (UE) nr. 1003/2013 al Comisiei din 12 iulie 2013 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului cu privire la taxele aplicate registrelor centrale de tranzacții de Autoritatea europeană pentru valori mobiliare și piețe Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1003",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78b91c93-3a57-11e3-a247-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a678d36a98c49afe35b2b2643f8ea7a4bf1ade18df88b58aac70697aeca5bfd6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1004-2013",
    "path": "ue/regulament/2013/1004",
    "short": "Regulamentul (UE) nr. 1004/2013",
@@ -693,6 +723,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1047-2013",
+   "path": "ue/regulament/2013/1047",
+   "short": "Regulamentul delegat CELEX 32013R1047",
+   "title": "Regulamentul delegat (UE) nr. 1047/2013 al Comisiei din 21 august 2013 de modificare a Regulamentului delegat (UE) nr. 114/2013 al Comisiei cu scopul de a corecta emisiile specifice medii de CO 2 pentru 2010 specificate pentru producătorul Piaggio Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1047",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/300812ed-407a-11e3-b4f5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7d31bb744d2cab0398f7ff59ea96fbee0b0e088652c863a80a167b13f5543e37"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1066-2013",
    "path": "ue/regulament/2013/1066",
    "short": "Regulamentul (UE) nr. 1066/2013",
@@ -798,6 +843,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1083-2013",
+   "path": "ue/regulament/2013/1083",
+   "short": "Regulamentul delegat CELEX 32013R1083",
+   "title": "Regulamentul delegat (UE) nr. 1083/2013 al Comisiei din 28 august 2013 de stabilire a normelor referitoare la procedura de retragere temporară a preferințelor tarifare și de adoptare a măsurilor de salvgardare cu caracter general, în conformitate cu Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1083",
+   "versions": [
+    {
+     "from": "2013-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd13f4e1-45fa-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5574a7cd7ad002c29cd88d66ce6c333c7e0dbe192c5b5c0d68eef7bbf2b05594"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-109-2013",
    "path": "ue/regulament/2013/109",
    "short": "Regulamentul (UE) nr. 109/2013",
@@ -858,6 +918,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-114-2013",
+   "path": "ue/regulament/2013/114",
+   "short": "Regulamentul delegat CELEX 32013R0114",
+   "title": "Regulamentul delegat (UE) nr. 114/2013 al Comisiei din 6 noiembrie 2012 de completare a Regulamentului (UE) nr. 510/2011 al Parlamentului European și al Consiliului în ceea ce privește normele referitoare la cererea de derogare de la obiectivele privind emisiile specifice de CO 2 ale vehiculelor utilitare ușoare noi Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0114",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0ba9c80-7461-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "1ba0c71d562488e190251526ea041891f607ec2205c767a2285b418ccc9360d1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1152-2013",
    "path": "ue/regulament/2013/1152",
    "short": "Regulamentul (UE) nr. 1152/2013",
@@ -884,6 +959,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e0f88fa0-4eb5-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1448a9b908f6e0996e2f46443c0912874cfdc82392553f4b9bba3ace56d9dccf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1155-2013",
+   "path": "ue/regulament/2013/1155",
+   "short": "Regulamentul delegat CELEX 32013R1155",
+   "title": "Regulamentul delegat (UE) nr. 1155/2013 al Comisiei din 21 august 2013 de modificare a Regulamentului (UE) nr. 1169/2011 al Parlamentului European și al Consiliului privind informarea consumatorilor cu privire la produsele alimentare în ceea ce privește informațiile referitoare la absența sau prezența redusă a glutenului în produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1155",
+   "versions": [
+    {
+     "from": "2013-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95c84245-4ec5-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b94458bbf4526c435e78ea5330374e645663c4b529701a1e38e81879f4a49c18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1159-2013",
+   "path": "ue/regulament/2013/1159",
+   "short": "Regulamentul delegat CELEX 32013R1159",
+   "title": "Regulamentul delegat (UE) nr. 1159/2013 al Comisiei din 12 iulie 2013 de completare a Regulamentului (UE) nr. 911/2010 al Parlamentului European și al Consiliului privind programul european de monitorizare a Pământului (GMES) prin stabilirea condițiilor de înregistrare și acordare a licențelor pentru utilizatorii GMES și prin definirea criteriilor de restricționare a accesului la datele specifice GMES și la informațiile provenite de la serviciile GMES Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1159",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb60c9ff-5102-11e3-8945-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e57f3575f46aef00db72268f9a06b27f3b34eefecfa5cfa7f4ff97ef3f31c4f3"
     }
    ]
   },
@@ -1728,6 +1833,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1421-2013",
+   "path": "ue/regulament/2013/1421",
+   "short": "Regulamentul delegat CELEX 32013R1421",
+   "title": "Regulamentul delegat (UE) nr. 1421/2013 al Comisiei din 30 octombrie 2013 de modificare a anexelor I, II și IV la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1421",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/863f615c-71fa-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "17382665a614f5b41e19a73f2cd80d268c164b67f33f68d073b4d5440547a7d3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-143-2013",
    "path": "ue/regulament/2013/143",
    "short": "Regulamentul (UE) nr. 143/2013",
@@ -1754,6 +1874,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a9574295-7ce1-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
      "sha256": "f59153f9bbb15e49f1bcb2a848e92c1b0771cea307cb8b96eab3e26572036dfc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-149-2013",
+   "path": "ue/regulament/2013/149",
+   "short": "Regulamentul delegat CELEX 32013R0149",
+   "title": "Regulamentul delegat (UE) nr. 149/2013 al Comisiei din 19 decembrie 2012 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la dispozițiile în materie de compensare indirectă, obligația de compensare, registrul public, accesul la un loc de tranzacționare, contrapărțile nefinanciare și tehnicile de atenuare a riscurilor pentru contractele derivate extrabursiere care nu sunt compensate prin CPC Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0149",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1993e51c-7f20-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "c099a726ce855e2c9f4dfc65c8b48c647623172d32b955ac379aa48bf2ee854b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-150-2013",
+   "path": "ue/regulament/2013/150",
+   "short": "Regulamentul delegat CELEX 32013R0150",
+   "title": "Regulamentul delegat (UE) nr. 150/2013 al Comisiei din 19 decembrie 2012 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții în ceea ce privește standarde tehnice de reglementare în care se precizează detaliile cererii de înregistrare ca registru central de tranzacții Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0150",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c57c2f5b-7f1f-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "41110801828ceaf906bd19e5f97e7870fe70bc07067f135e0d07ddf1b88095a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-151-2013",
+   "path": "ue/regulament/2013/151",
+   "short": "Regulamentul delegat CELEX 32013R0151",
+   "title": "Regulamentul delegat (UE) nr. 151/2013 al Comisiei din 19 decembrie 2012 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții, în ceea ce privește standarde tehnice de reglementare care să precizeze datele care urmează să fie publicate și puse la dispoziție de registrele centrale de tranzacții și standarde operaționale pentru agregarea, compararea și accesarea datelor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0151",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c780b10-7f20-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b51cd7fb0fb5af74dfd675b43a277bf08224f068e40627961aa9e0db3a3cd481"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-152-2013",
+   "path": "ue/regulament/2013/152",
+   "short": "Regulamentul delegat CELEX 32013R0152",
+   "title": "Regulamentul delegat (UE) nr. 152/2013 al Comisiei din 19 decembrie 2012 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare privind cerințele de capital pentru contrapărțile centrale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0152",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e1f598f-7f20-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "f06e18ef1eb608baa8a93f48875f44f241d659a2328d035e08447ca6149c6814"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-153-2013",
+   "path": "ue/regulament/2013/153",
+   "short": "Regulamentul delegat CELEX 32013R0153",
+   "title": "Regulamentul delegat (UE) nr. 153/2013 al Comisiei din 19 decembrie 2012 privind completarea Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 , în ceea ce privește standarde tehnice de reglementare privind cerințele pentru contrapărțile centrale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0153",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35cc041d-7f20-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "2b6031a13c352d4c38f2e08ddfad1dcce72afacef52ca2cbb16b5edd5d13cb05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-154-2013",
+   "path": "ue/regulament/2013/154",
+   "short": "Regulamentul delegat CELEX 32013R0154",
+   "title": "Regulamentul delegat (UE) nr. 154/2013 al Comisiei din 18 decembrie 2012 de modificare a anexei II la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0154",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9353a8f6-7c1f-11e2-9294-01aa75ed71a1.0019.04/DOC_12",
+     "sha256": "dc433bd9b0c870e25861d1dd28a3064dfa786f5bca88b61a3eebf845e3533e75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-155-2013",
+   "path": "ue/regulament/2013/155",
+   "short": "Regulamentul delegat CELEX 32013R0155",
+   "title": "Regulamentul delegat (UE) nr. 155/2013 al Comisiei din 18 decembrie 2012 de stabilire a normelor referitoare la procedura de acordare a regimului special de încurajare a dezvoltării durabile și a bunei guvernanțe în conformitate cu Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0155",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edbad169-7c1f-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "c79908b577bf9184e15b0312d95c20dad3fca1f5d503e0d5c9d6ba1cbc7f58b3"
     }
    ]
   },
@@ -1938,6 +2163,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-231-2013",
+   "path": "ue/regulament/2013/231",
+   "short": "Regulamentul delegat CELEX 32013R0231",
+   "title": "Regulamentul delegat (UE) nr. 231/2013 al Comisiei din 19 decembrie 2012 de completare a Directivei 2011/61/UE a Parlamentului European și a Consiliului în ceea ce privește derogările, condițiile generale de operare, depozitarii, efectul de levier, transparența și supravegherea Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0231",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63d9dce8-92c9-11e2-b5c3-01aa75ed71a1.0019.04/DOC_6",
+     "sha256": "e1827290d8dcc3429c41c74c167b9a3eda9bea2e45c1f78dd85fddf749f3d89f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-241-2013",
    "path": "ue/regulament/2013/241",
    "short": "Regulamentul (UE) nr. 241/2013",
@@ -2009,6 +2249,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e3b879cb-96b9-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "1c0db131589b3aae76af745261adafddf06e263601b71103f21ee04159acf413"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-253-2013",
+   "path": "ue/regulament/2013/253",
+   "short": "Regulamentul delegat CELEX 32013R0253",
+   "title": "Regulamentul delegat (UE) nr. 253/2013 al Comisiei din 15 ianuarie 2013 de modificare a anexei II la Regulamentul (UE) nr. 692/2011 al Parlamentului European și al Consiliului, în ceea ce privește adaptările în urma revizuirii Clasificării Internaționale Standard a Educației ISCED în legătură cu variabilele și defalcările care trebuie comunicate Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0253",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b96ebdfc-921f-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "346dabdd18036994bbc789361404194cb01fec4e4ea41d80a02f3a2df60e0816"
     }
    ]
   },
@@ -2099,6 +2354,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9d75caac-97c5-11e2-ab01-01aa75ed71a1.0019.04/DOC_83",
      "sha256": "3f01e3d6b5920daf80791ab1f0e2138a3e5a3455589ffc70bb9e3ecb09ee553e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-305-2013",
+   "path": "ue/regulament/2013/305",
+   "short": "Regulamentul delegat CELEX 32013R0305",
+   "title": "Regulamentul delegat (UE) nr. 305/2013 al Comisiei din 26 noiembrie 2012 de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului în ceea ce privește furnizarea în mod armonizat a unui sistem eCall interoperabil la nivelul UE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0305",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8c155d1-9c4b-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "a14590f786393cc01e9164bed148cca9e28b3420c2277438b5428a966b5971c5"
     }
    ]
   },
@@ -2943,6 +3213,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-635-2013",
+   "path": "ue/regulament/2013/635",
+   "short": "Regulamentul delegat CELEX 32013R0635",
+   "title": "Regulamentul delegat (UE) nr. 635/2013 al Comisiei din 25 aprilie 2013 de completare a Regulamentului (CE) nr. 73/2009 al Consiliului în ceea ce privește baza de calcul pentru reducerile care urmează să fie aplicate agricultorilor de către statele membre datorită ajustării plăților în 2013 și a disciplinei financiare pentru anul calendaristic 2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0635",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/69b94f06-e2eb-11e2-9165-01aa75ed71a1.0020.07/DOC_1",
+     "sha256": "0276e2e1c91887c32e2d8b7847eab4751d20752466720b3d6dd356e50c91383f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-638-2013",
    "path": "ue/regulament/2013/638",
    "short": "Regulamentul (UE) nr. 638/2013",
@@ -3228,6 +3513,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-727-2013",
+   "path": "ue/regulament/2013/727",
+   "short": "Regulamentul delegat CELEX 32013R0727",
+   "title": "Regulamentul delegat (UE) nr. 727/2013 al Comisiei din 14 martie 2013 de modificare a anexei II la Regulamentul (UE) nr. 1233/2011 al Parlamentului European și al Consiliului privind aplicarea anumitor orientări în domeniul creditelor la export care beneficiază de susținere oficială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0727",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd0dd8b0-0340-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "72c33100506a4ec67d4e65915176e8c218173fcc30cbccbb973d8176f3bba2b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-736-2013",
+   "path": "ue/regulament/2013/736",
+   "short": "Regulamentul delegat CELEX 32013R0736",
+   "title": "Regulamentul delegat (UE) nr. 736/2013 al Comisiei din 17 mai 2013 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în ceea ce privește durata programului de lucru pentru examinarea substanțelor active biocide existente Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0736",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16808c62-f9bb-11e2-a352-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "55b337640add78f169c1ae0a15cd251c4dfe4899a4588cb26b5219e694bdb124"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-738-2013",
    "path": "ue/regulament/2013/738",
    "short": "Regulamentul (UE) nr. 738/2013",
@@ -3408,6 +3723,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-811-2013",
+   "path": "ue/regulament/2013/811",
+   "short": "Regulamentul delegat CELEX 32013R0811",
+   "title": "Regulamentul delegat (UE) nr. 811/2013 al Comisiei din 18 februarie 2013 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a instalațiilor pentru încălzirea incintelor, a instalațiilor de încălzire cu funcție dublă, a pachetelor de instalație pentru încălzirea incintelor, regulator de temperatură și dispozitiv solar și a pachetelor de instalație de încălzire cu funcție dublă, regulator de temperatură și dispozitiv solar Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0811",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6d0932ba7739eefae77c11a345ff2d7ffb2215acef069b544b4c06da371a1fe8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-812-2013",
+   "path": "ue/regulament/2013/812",
+   "short": "Regulamentul delegat CELEX 32013R0812",
+   "title": "Regulamentul delegat (UE) nr. 812/2013 al Comisiei din 18 februarie 2013 de completare a Directivei 2010/30/UE a Parlamentului European și a Consiliului în ceea ce privește etichetarea energetică a instalațiilor pentru încălzirea apei, a rezervoarelor pentru apă caldă și a pachetelor de instalație pentru încălzirea apei și dispozitiv solar Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0812",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32299d7f-172a-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8b08ae01eb357481d37d89fd9d14309181d9a2fbbd048645c47006d743cb5ccf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-813-2013",
    "path": "ue/regulament/2013/813",
    "short": "Regulamentul (UE) nr. 813/2013",
@@ -3513,6 +3858,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-837-2013",
+   "path": "ue/regulament/2013/837",
+   "short": "Regulamentul delegat CELEX 32013R0837",
+   "title": "Regulamentul delegat (UE) nr. 837/2013 al Comisiei din 25 iunie 2013 de modificare a anexei III la Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului în ceea ce privește cerințele de informare pentru autorizarea produselor biocide Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0837",
+   "versions": [
+    {
+     "from": "2013-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57b1e83e-146b-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e1a55b48f8c046d954f365ca83019200d2a7a81f2fd3817a9bfdbbc35eb91fca"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-85-2013",
    "path": "ue/regulament/2013/85",
    "short": "Regulamentul (UE) nr. 85/2013",
@@ -3573,6 +3933,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-876-2013",
+   "path": "ue/regulament/2013/876",
+   "short": "Regulamentul delegat CELEX 32013R0876",
+   "title": "Regulamentul delegat (UE) nr. 876/2013 al Comisiei din 28 mai 2013 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standarde tehnice de reglementare privind colegiile pentru contrapărțile centrale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0876",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05000ca0-1c44-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d91bb3efcca5cf40288fb1d282f336197dae2aaf6812dfa609e4c2723759584"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-877-2013",
+   "path": "ue/regulament/2013/877",
+   "short": "Regulamentul delegat CELEX 32013R0877",
+   "title": "Regulamentul delegat (UE) nr. 877/2013 al Comisiei din 27 iunie 2013 de completare a Regulamentului (UE) nr. 473/2013 al Parlamentului European și al Consiliului privind dispozițiile comune pentru monitorizarea și evaluarea proiectelor de planuri bugetare și pentru asigurarea corectării deficitelor excesive ale statelor membre din zona euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0877",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86714c31-1c45-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f075ed2201e24e267c768f94f5c29908ce57e7d1301ed864f6a04893e4c08e4c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-883-2013",
    "path": "ue/regulament/2013/883",
    "short": "Regulamentul (UE, Euratom) nr. 883/2013",
@@ -3584,6 +3974,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d1866152-203f-11e3-8d1c-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "1f66dee23c9806a9bf58886fb6243b33bc6faf5edf835bc1913fb95873cab9f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-885-2013",
+   "path": "ue/regulament/2013/885",
+   "short": "Regulamentul delegat CELEX 32013R0885",
+   "title": "Regulamentul delegat (UE) nr. 885/2013 al Comisiei din 15 mai 2013 de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului privind STI în ceea ce privește furnizarea de servicii de informații referitoare la locuri de parcare sigure și securizate pentru camioane și vehicule comerciale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0885",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fed02f8a-2047-11e3-8d1c-01aa75ed71a1.0020.07/DOC_1",
+     "sha256": "77e0e68fc09ff462e6a512ce141ab4b0542f866ec817fc755729973d1513b31b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-886-2013",
+   "path": "ue/regulament/2013/886",
+   "short": "Regulamentul delegat CELEX 32013R0886",
+   "title": "Regulamentul delegat (UE) nr. 886/2013 al Comisiei din 15 mai 2013 de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului în ceea ce privește datele și procedurile pentru furnizarea către utilizatori, în mod gratuit, atunci când este posibil, a unor informații minime universale în materie de trafic referitoare la siguranța rutieră Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0886",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60dc5775-7a15-4c0c-be89-54fcd039fe78.0021.03/DOC_1",
+     "sha256": "e322f60f0231bb8410cd0cf9c621ede87fccbe7f71ad9c37065100b5e1edbc3d"
     }
    ]
   },
