@@ -1110,6 +1110,21 @@
    ]
   },
   {
+   "slug": "hg-742-1997",
+   "path": "hg/1997/742",
+   "short": "HG nr. 742/1997",
+   "title": "Hotărârea Guvernului nr. 742/1997 privind plata contribuţiei României pe anul 1997 la Programul Comunităţii Europene \"Tineret pentru Europa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13556",
+   "versions": [
+    {
+     "from": "1997-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13556",
+     "sha256": "89afae178ec44694fe4ee52c7db7c9bee03b7bc874832b10e69d62bf6748b05b"
+    }
+   ]
+  },
+  {
    "slug": "hg-745-1997",
    "path": "hg/1997/745",
    "short": "HG nr. 745/1997",
